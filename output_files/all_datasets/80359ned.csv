@@ -1,0 +1,441 @@
+﻿ID;Gewichtsklassen;Perioden;AantalSloopvoertuigen_1;GewichtSloopvoertuigen_2
+0;Totaal personenauto's;2000;310323;274899
+1;Totaal personenauto's;2001;303866;270614
+2;Totaal personenauto's;2002;294637;264275
+3;Totaal personenauto's;2003;292023;263734
+4;Totaal personenauto's;2004;274573;248967
+5;Totaal personenauto's;2005;231627;211872
+6;Totaal personenauto's;2006;225760;208822
+7;Totaal personenauto's;2007;200836;187026
+8;Totaal personenauto's;2008;198272;188102
+9;Totaal personenauto's;2009;246759;237579
+10;Totaal personenauto's;2010;229629;226317
+11;Totaal personenauto's;2011;235852;236540
+12;Totaal personenauto's;2012;224102;225318
+13;Totaal personenauto's;2013;219836;222663
+14;Totaal personenauto's;2014;213045;217931
+15;Totaal personenauto's;2015;188961;192372
+16;Totaal personenauto's;2016;192967;195832
+17;Totaal personenauto's;2017;211845;215131
+18;Totaal personenauto's;2018;225492;230324
+19;Totaal personenauto's;2019;213530;220377
+20;Totaal personenauto's;2020;207145;216817
+21;Totaal personenauto's;2021;206228;216036
+22;Personenauto's tot 650 kg;2000;10710;6557
+23;Personenauto's tot 650 kg;2001;10953;6706
+24;Personenauto's tot 650 kg;2002;11846;7259
+25;Personenauto's tot 650 kg;2003;12605;7732
+26;Personenauto's tot 650 kg;2004;13114;8062
+27;Personenauto's tot 650 kg;2005;11670;7189
+28;Personenauto's tot 650 kg;2006;11657;7193
+29;Personenauto's tot 650 kg;2007;11190;6917
+30;Personenauto's tot 650 kg;2008;9738;6030
+31;Personenauto's tot 650 kg;2009;9544;5917
+32;Personenauto's tot 650 kg;2010;6731;4169
+33;Personenauto's tot 650 kg;2011;5335;3308
+34;Personenauto's tot 650 kg;2012;4101;2552
+35;Personenauto's tot 650 kg;2013;3182;1980
+36;Personenauto's tot 650 kg;2014;2529;1574
+37;Personenauto's tot 650 kg;2015;1817;1104
+38;Personenauto's tot 650 kg;2016;1615;988
+39;Personenauto's tot 650 kg;2017;1331;811
+40;Personenauto's tot 650 kg;2018;1135;682
+41;Personenauto's tot 650 kg;2019;832;487
+42;Personenauto's tot 650 kg;2020;745;439
+43;Personenauto's tot 650 kg;2021;550;311
+44;Personenauto's 650 tot 750 kg;2000;49808;35338
+45;Personenauto's 650 tot 750 kg;2001;49454;35111
+46;Personenauto's 650 tot 750 kg;2002;47393;33654
+47;Personenauto's 650 tot 750 kg;2003;46431;32990
+48;Personenauto's 650 tot 750 kg;2004;42644;30321
+49;Personenauto's 650 tot 750 kg;2005;34034;24204
+50;Personenauto's 650 tot 750 kg;2006;30196;21483
+51;Personenauto's 650 tot 750 kg;2007;25329;18018
+52;Personenauto's 650 tot 750 kg;2008;22089;15701
+53;Personenauto's 650 tot 750 kg;2009;24068;17092
+54;Personenauto's 650 tot 750 kg;2010;19142;13589
+55;Personenauto's 650 tot 750 kg;2011;17895;12681
+56;Personenauto's 650 tot 750 kg;2012;16738;11844
+57;Personenauto's 650 tot 750 kg;2013;15280;10809
+58;Personenauto's 650 tot 750 kg;2014;13623;9635
+59;Personenauto's 650 tot 750 kg;2015;11443;8096
+60;Personenauto's 650 tot 750 kg;2016;11588;8197
+61;Personenauto's 650 tot 750 kg;2017;12381;8759
+62;Personenauto's 650 tot 750 kg;2018;12166;8613
+63;Personenauto's 650 tot 750 kg;2019;10316;7304
+64;Personenauto's 650 tot 750 kg;2020;8628;6108
+65;Personenauto's 650 tot 750 kg;2021;7868;5571
+66;Personenauto's 750 tot 850 kg;2000;85775;69198
+67;Personenauto's 750 tot 850 kg;2001;75804;61151
+68;Personenauto's 750 tot 850 kg;2002;66396;53473
+69;Personenauto's 750 tot 850 kg;2003;60844;48870
+70;Personenauto's 750 tot 850 kg;2004;55982;44859
+71;Personenauto's 750 tot 850 kg;2005;46012;36755
+72;Personenauto's 750 tot 850 kg;2006;45091;35972
+73;Personenauto's 750 tot 850 kg;2007;41948;33452
+74;Personenauto's 750 tot 850 kg;2008;41671;33253
+75;Personenauto's 750 tot 850 kg;2009;53041;42357
+76;Personenauto's 750 tot 850 kg;2010;46401;37122
+77;Personenauto's 750 tot 850 kg;2011;45285;36327
+78;Personenauto's 750 tot 850 kg;2012;44342;35588
+79;Personenauto's 750 tot 850 kg;2013;42868;34419
+80;Personenauto's 750 tot 850 kg;2014;38884;31191
+81;Personenauto's 750 tot 850 kg;2015;34796;27883
+82;Personenauto's 750 tot 850 kg;2016;35069;28065
+83;Personenauto's 750 tot 850 kg;2017;37266;29794
+84;Personenauto's 750 tot 850 kg;2018;37763;30172
+85;Personenauto's 750 tot 850 kg;2019;32823;26229
+86;Personenauto's 750 tot 850 kg;2020;28545;22803
+87;Personenauto's 750 tot 850 kg;2021;27715;22134
+88;Personenauto's 850 tot 950 kg;2000;76762;68691
+89;Personenauto's 850 tot 950 kg;2001;79665;71264
+90;Personenauto's 850 tot 950 kg;2002;78384;70152
+91;Personenauto's 850 tot 950 kg;2003;75443;67600
+92;Personenauto's 850 tot 950 kg;2004;67324;60438
+93;Personenauto's 850 tot 950 kg;2005;53026;47741
+94;Personenauto's 850 tot 950 kg;2006;47316;42690
+95;Personenauto's 850 tot 950 kg;2007;37718;34128
+96;Personenauto's 850 tot 950 kg;2008;34240;31011
+97;Personenauto's 850 tot 950 kg;2009;39199;35509
+98;Personenauto's 850 tot 950 kg;2010;34532;31269
+99;Personenauto's 850 tot 950 kg;2011;34838;31496
+100;Personenauto's 850 tot 950 kg;2012;34947;31435
+101;Personenauto's 850 tot 950 kg;2013;36429;32700
+102;Personenauto's 850 tot 950 kg;2014;37326;33457
+103;Personenauto's 850 tot 950 kg;2015;35903;32129
+104;Personenauto's 850 tot 950 kg;2016;38957;34835
+105;Personenauto's 850 tot 950 kg;2017;45020;40222
+106;Personenauto's 850 tot 950 kg;2018;49695;44401
+107;Personenauto's 850 tot 950 kg;2019;47659;42612
+108;Personenauto's 850 tot 950 kg;2020;45505;40757
+109;Personenauto's 850 tot 950 kg;2021;45829;41087
+110;Personenauto's 950 tot 1 050 kg;2000;47191;46908
+111;Personenauto's 950 tot 1 050 kg;2001;46078;45795
+112;Personenauto's 950 tot 1 050 kg;2002;46041;45762
+113;Personenauto's 950 tot 1 050 kg;2003;49016;48741
+114;Personenauto's 950 tot 1 050 kg;2004;48689;48407
+115;Personenauto's 950 tot 1 050 kg;2005;43871;43632
+116;Personenauto's 950 tot 1 050 kg;2006;44722;44525
+117;Personenauto's 950 tot 1 050 kg;2007;39444;39328
+118;Personenauto's 950 tot 1 050 kg;2008;39206;39137
+119;Personenauto's 950 tot 1 050 kg;2009;49823;49782
+120;Personenauto's 950 tot 1 050 kg;2010;47025;47010
+121;Personenauto's 950 tot 1 050 kg;2011;46840;46849
+122;Personenauto's 950 tot 1 050 kg;2012;41598;41590
+123;Personenauto's 950 tot 1 050 kg;2013;38725;38692
+124;Personenauto's 950 tot 1 050 kg;2014;36000;35952
+125;Personenauto's 950 tot 1 050 kg;2015;30779;30736
+126;Personenauto's 950 tot 1 050 kg;2016;30637;30613
+127;Personenauto's 950 tot 1 050 kg;2017;32421;32390
+128;Personenauto's 950 tot 1 050 kg;2018;32832;32813
+129;Personenauto's 950 tot 1 050 kg;2019;30764;30744
+130;Personenauto's 950 tot 1 050 kg;2020;30036;30001
+131;Personenauto's 950 tot 1 050 kg;2021;31563;31485
+132;Personenauto's 1 050 tot 1 150 kg;2000;18100;19786
+133;Personenauto's 1 050 tot 1 150 kg;2001;18176;19857
+134;Personenauto's 1 050 tot 1 150 kg;2002;18652;20368
+135;Personenauto's 1 050 tot 1 150 kg;2003;19490;21263
+136;Personenauto's 1 050 tot 1 150 kg;2004;18833;20533
+137;Personenauto's 1 050 tot 1 150 kg;2005;17216;18754
+138;Personenauto's 1 050 tot 1 150 kg;2006;18924;20595
+139;Personenauto's 1 050 tot 1 150 kg;2007;18084;19679
+140;Personenauto's 1 050 tot 1 150 kg;2008;20237;22037
+141;Personenauto's 1 050 tot 1 150 kg;2009;28566;31145
+142;Personenauto's 1 050 tot 1 150 kg;2010;29677;32396
+143;Personenauto's 1 050 tot 1 150 kg;2011;31819;34758
+144;Personenauto's 1 050 tot 1 150 kg;2012;28414;31035
+145;Personenauto's 1 050 tot 1 150 kg;2013;26571;29035
+146;Personenauto's 1 050 tot 1 150 kg;2014;25464;27846
+147;Personenauto's 1 050 tot 1 150 kg;2015;22674;24786
+148;Personenauto's 1 050 tot 1 150 kg;2016;23744;25951
+149;Personenauto's 1 050 tot 1 150 kg;2017;27212;29731
+150;Personenauto's 1 050 tot 1 150 kg;2018;30454;33284
+151;Personenauto's 1 050 tot 1 150 kg;2019;29792;32567
+152;Personenauto's 1 050 tot 1 150 kg;2020;29815;32604
+153;Personenauto's 1 050 tot 1 150 kg;2021;29999;32804
+154;Personenauto's 1 150 tot 1 250 kg;2000;10916;13036
+155;Personenauto's 1 150 tot 1 250 kg;2001;11511;13758
+156;Personenauto's 1 150 tot 1 250 kg;2002;12594;15050
+157;Personenauto's 1 150 tot 1 250 kg;2003;13928;16626
+158;Personenauto's 1 150 tot 1 250 kg;2004;13613;16232
+159;Personenauto's 1 150 tot 1 250 kg;2005;12399;14780
+160;Personenauto's 1 150 tot 1 250 kg;2006;13122;15638
+161;Personenauto's 1 150 tot 1 250 kg;2007;12522;14932
+162;Personenauto's 1 150 tot 1 250 kg;2008;13761;16417
+163;Personenauto's 1 150 tot 1 250 kg;2009;18630;22234
+164;Personenauto's 1 150 tot 1 250 kg;2010;19645;23453
+165;Personenauto's 1 150 tot 1 250 kg;2011;22388;26766
+166;Personenauto's 1 150 tot 1 250 kg;2012;22640;27122
+167;Personenauto's 1 150 tot 1 250 kg;2013;23891;28648
+168;Personenauto's 1 150 tot 1 250 kg;2014;24810;29769
+169;Personenauto's 1 150 tot 1 250 kg;2015;22535;27062
+170;Personenauto's 1 150 tot 1 250 kg;2016;22294;26776
+171;Personenauto's 1 150 tot 1 250 kg;2017;24432;29367
+172;Personenauto's 1 150 tot 1 250 kg;2018;26170;31468
+173;Personenauto's 1 150 tot 1 250 kg;2019;25252;30345
+174;Personenauto's 1 150 tot 1 250 kg;2020;24802;29798
+175;Personenauto's 1 150 tot 1 250 kg;2021;23813;28586
+176;Personenauto's 1 250 tot 1 350 kg;2000;6501;8437
+177;Personenauto's 1 250 tot 1 350 kg;2001;7211;9358
+178;Personenauto's 1 250 tot 1 350 kg;2002;7644;9914
+179;Personenauto's 1 250 tot 1 350 kg;2003;8024;10410
+180;Personenauto's 1 250 tot 1 350 kg;2004;7784;10098
+181;Personenauto's 1 250 tot 1 350 kg;2005;7117;9233
+182;Personenauto's 1 250 tot 1 350 kg;2006;7593;9848
+183;Personenauto's 1 250 tot 1 350 kg;2007;7343;9527
+184;Personenauto's 1 250 tot 1 350 kg;2008;8633;11203
+185;Personenauto's 1 250 tot 1 350 kg;2009;12292;15958
+186;Personenauto's 1 250 tot 1 350 kg;2010;13407;17391
+187;Personenauto's 1 250 tot 1 350 kg;2011;15909;20607
+188;Personenauto's 1 250 tot 1 350 kg;2012;16041;20757
+189;Personenauto's 1 250 tot 1 350 kg;2013;16569;21422
+190;Personenauto's 1 250 tot 1 350 kg;2014;17591;22734
+191;Personenauto's 1 250 tot 1 350 kg;2015;15489;19993
+192;Personenauto's 1 250 tot 1 350 kg;2016;16359;21099
+193;Personenauto's 1 250 tot 1 350 kg;2017;18396;23742
+194;Personenauto's 1 250 tot 1 350 kg;2018;20387;26327
+195;Personenauto's 1 250 tot 1 350 kg;2019;20617;26636
+196;Personenauto's 1 250 tot 1 350 kg;2020;21696;28039
+197;Personenauto's 1 250 tot 1 350 kg;2021;21649;27989
+198;Personenauto's 1 350 kg of meer;2000;4560;6949
+199;Personenauto's 1 350 kg of meer;2001;5014;7614
+200;Personenauto's 1 350 kg of meer;2002;5687;8643
+201;Personenauto's 1 350 kg of meer;2003;6242;9501
+202;Personenauto's 1 350 kg of meer;2004;6590;10019
+203;Personenauto's 1 350 kg of meer;2005;6282;9583
+204;Personenauto's 1 350 kg of meer;2006;7139;10878
+205;Personenauto's 1 350 kg of meer;2007;7258;11043
+206;Personenauto's 1 350 kg of meer;2008;8697;13314
+207;Personenauto's 1 350 kg of meer;2009;11596;17584
+208;Personenauto's 1 350 kg of meer;2010;13069;19919
+209;Personenauto's 1 350 kg of meer;2011;15543;23748
+210;Personenauto's 1 350 kg of meer;2012;15281;23395
+211;Personenauto's 1 350 kg of meer;2013;16321;24957
+212;Personenauto's 1 350 kg of meer;2014;16818;25772
+213;Personenauto's 1 350 kg of meer;2015;13525;20583
+214;Personenauto's 1 350 kg of meer;2016;12704;19307
+215;Personenauto's 1 350 kg of meer;2017;13386;20316
+216;Personenauto's 1 350 kg of meer;2018;14890;22563
+217;Personenauto's 1 350 kg of meer;2019;15475;23452
+218;Personenauto's 1 350 kg of meer;2020;17373;26268
+219;Personenauto's 1 350 kg of meer;2021;17242;26070
+220;Personenauto's leeggewicht onbekend;2000;0;0
+221;Personenauto's leeggewicht onbekend;2001;0;0
+222;Personenauto's leeggewicht onbekend;2002;0;0
+223;Personenauto's leeggewicht onbekend;2003;0;0
+224;Personenauto's leeggewicht onbekend;2004;0;0
+225;Personenauto's leeggewicht onbekend;2005;0;0
+226;Personenauto's leeggewicht onbekend;2006;0;0
+227;Personenauto's leeggewicht onbekend;2007;0;0
+228;Personenauto's leeggewicht onbekend;2008;0;0
+229;Personenauto's leeggewicht onbekend;2009;0;0
+230;Personenauto's leeggewicht onbekend;2010;0;0
+231;Personenauto's leeggewicht onbekend;2011;0;0
+232;Personenauto's leeggewicht onbekend;2012;0;0
+233;Personenauto's leeggewicht onbekend;2013;0;0
+234;Personenauto's leeggewicht onbekend;2014;0;0
+235;Personenauto's leeggewicht onbekend;2015;0;0
+236;Personenauto's leeggewicht onbekend;2016;0;0
+237;Personenauto's leeggewicht onbekend;2017;0;0
+238;Personenauto's leeggewicht onbekend;2018;0;0
+239;Personenauto's leeggewicht onbekend;2019;0;0
+240;Personenauto's leeggewicht onbekend;2020;0;0
+241;Personenauto's leeggewicht onbekend;2021;0;0
+242;Totaal bedrijfsauto's;2000;17386;30692
+243;Totaal bedrijfsauto's;2001;18657;35619
+244;Totaal bedrijfsauto's;2002;18672;33759
+245;Totaal bedrijfsauto's;2003;17788;31283
+246;Totaal bedrijfsauto's;2004;18291;33902
+247;Totaal bedrijfsauto's;2005;19837;30427
+248;Totaal bedrijfsauto's;2006;15258;26048
+249;Totaal bedrijfsauto's;2007;12313;22570
+250;Totaal bedrijfsauto's;2008;12204;22288
+251;Totaal bedrijfsauto's;2009;15851;29007
+252;Totaal bedrijfsauto's;2010;16209;28986
+253;Totaal bedrijfsauto's;2011;15158;28883
+254;Totaal bedrijfsauto's;2012;13990;26927
+255;Totaal bedrijfsauto's;2013;13929;26206
+256;Totaal bedrijfsauto's;2014;13994;25435
+257;Totaal bedrijfsauto's;2015;12683;22282
+258;Totaal bedrijfsauto's;2016;13426;22232
+259;Totaal bedrijfsauto's;2017;14855;24915
+260;Totaal bedrijfsauto's;2018;16746;28193
+261;Totaal bedrijfsauto's;2019;16204;27783
+262;Totaal bedrijfsauto's;2020;16622;28111
+263;Totaal bedrijfsauto's;2021;13798;24103
+264;Bedrijfsauto's minder dan 1 000 kg;2000;8521;7020
+265;Bedrijfsauto's minder dan 1 000 kg;2001;8933;7393
+266;Bedrijfsauto's minder dan 1 000 kg;2002;8700;7280
+267;Bedrijfsauto's minder dan 1 000 kg;2003;8063;6826
+268;Bedrijfsauto's minder dan 1 000 kg;2004;7972;6796
+269;Bedrijfsauto's minder dan 1 000 kg;2005;8706;7598
+270;Bedrijfsauto's minder dan 1 000 kg;2006;6248;5435
+271;Bedrijfsauto's minder dan 1 000 kg;2007;4376;3811
+272;Bedrijfsauto's minder dan 1 000 kg;2008;3348;2918
+273;Bedrijfsauto's minder dan 1 000 kg;2009;2881;2519
+274;Bedrijfsauto's minder dan 1 000 kg;2010;2115;1851
+275;Bedrijfsauto's minder dan 1 000 kg;2011;1452;1268
+276;Bedrijfsauto's minder dan 1 000 kg;2012;940;824
+277;Bedrijfsauto's minder dan 1 000 kg;2013;759;661
+278;Bedrijfsauto's minder dan 1 000 kg;2014;600;525
+279;Bedrijfsauto's minder dan 1 000 kg;2015;256;223
+280;Bedrijfsauto's minder dan 1 000 kg;2016;201;177
+281;Bedrijfsauto's minder dan 1 000 kg;2017;170;151
+282;Bedrijfsauto's minder dan 1 000 kg;2018;133;120
+283;Bedrijfsauto's minder dan 1 000 kg;2019;124;111
+284;Bedrijfsauto's minder dan 1 000 kg;2020;94;85
+285;Bedrijfsauto's minder dan 1 000 kg;2021;104;95
+286;Bedrijfsauto's 1 000 tot 1 500 kg;2000;4060;5121
+287;Bedrijfsauto's 1 000 tot 1 500 kg;2001;4011;5028
+288;Bedrijfsauto's 1 000 tot 1 500 kg;2002;4401;5456
+289;Bedrijfsauto's 1 000 tot 1 500 kg;2003;4462;5512
+290;Bedrijfsauto's 1 000 tot 1 500 kg;2004;4648;5733
+291;Bedrijfsauto's 1 000 tot 1 500 kg;2005;6177;7476
+292;Bedrijfsauto's 1 000 tot 1 500 kg;2006;4622;5519
+293;Bedrijfsauto's 1 000 tot 1 500 kg;2007;4151;4858
+294;Bedrijfsauto's 1 000 tot 1 500 kg;2008;4965;5716
+295;Bedrijfsauto's 1 000 tot 1 500 kg;2009;7861;8974
+296;Bedrijfsauto's 1 000 tot 1 500 kg;2010;8832;10055
+297;Bedrijfsauto's 1 000 tot 1 500 kg;2011;8612;9771
+298;Bedrijfsauto's 1 000 tot 1 500 kg;2012;8376;9495
+299;Bedrijfsauto's 1 000 tot 1 500 kg;2013;8471;9630
+300;Bedrijfsauto's 1 000 tot 1 500 kg;2014;8642;9894
+301;Bedrijfsauto's 1 000 tot 1 500 kg;2015;8343;9559
+302;Bedrijfsauto's 1 000 tot 1 500 kg;2016;9197;10601
+303;Bedrijfsauto's 1 000 tot 1 500 kg;2017;10386;12024
+304;Bedrijfsauto's 1 000 tot 1 500 kg;2018;11774;13739
+305;Bedrijfsauto's 1 000 tot 1 500 kg;2019;11375;13410
+306;Bedrijfsauto's 1 000 tot 1 500 kg;2020;11694;13884
+307;Bedrijfsauto's 1 000 tot 1 500 kg;2021;9766;11672
+308;Bedrijfsauto's 1 500 tot 2 500 kg;2000;2780;4958
+309;Bedrijfsauto's 1 500 tot 2 500 kg;2001;3142;5627
+310;Bedrijfsauto's 1 500 tot 2 500 kg;2002;3329;5916
+311;Bedrijfsauto's 1 500 tot 2 500 kg;2003;3320;5869
+312;Bedrijfsauto's 1 500 tot 2 500 kg;2004;3443;6104
+313;Bedrijfsauto's 1 500 tot 2 500 kg;2005;3662;6415
+314;Bedrijfsauto's 1 500 tot 2 500 kg;2006;2978;5236
+315;Bedrijfsauto's 1 500 tot 2 500 kg;2007;2486;4393
+316;Bedrijfsauto's 1 500 tot 2 500 kg;2008;2639;4682
+317;Bedrijfsauto's 1 500 tot 2 500 kg;2009;3626;6413
+318;Bedrijfsauto's 1 500 tot 2 500 kg;2010;3851;6842
+319;Bedrijfsauto's 1 500 tot 2 500 kg;2011;3603;6452
+320;Bedrijfsauto's 1 500 tot 2 500 kg;2012;3287;5898
+321;Bedrijfsauto's 1 500 tot 2 500 kg;2013;3419;6210
+322;Bedrijfsauto's 1 500 tot 2 500 kg;2014;3635;6549
+323;Bedrijfsauto's 1 500 tot 2 500 kg;2015;3187;5748
+324;Bedrijfsauto's 1 500 tot 2 500 kg;2016;3270;5873
+325;Bedrijfsauto's 1 500 tot 2 500 kg;2017;3461;6220
+326;Bedrijfsauto's 1 500 tot 2 500 kg;2018;3881;7005
+327;Bedrijfsauto's 1 500 tot 2 500 kg;2019;3749;6803
+328;Bedrijfsauto's 1 500 tot 2 500 kg;2020;3947;7189
+329;Bedrijfsauto's 1 500 tot 2 500 kg;2021;3104;5700
+330;Bedrijfsauto's 2 500 tot 5 000 kg;2000;586;2084
+331;Bedrijfsauto's 2 500 tot 5 000 kg;2001;717;2570
+332;Bedrijfsauto's 2 500 tot 5 000 kg;2002;639;2267
+333;Bedrijfsauto's 2 500 tot 5 000 kg;2003;568;1998
+334;Bedrijfsauto's 2 500 tot 5 000 kg;2004;691;2415
+335;Bedrijfsauto's 2 500 tot 5 000 kg;2005;405;1361
+336;Bedrijfsauto's 2 500 tot 5 000 kg;2006;406;1383
+337;Bedrijfsauto's 2 500 tot 5 000 kg;2007;388;1349
+338;Bedrijfsauto's 2 500 tot 5 000 kg;2008;380;1328
+339;Bedrijfsauto's 2 500 tot 5 000 kg;2009;396;1341
+340;Bedrijfsauto's 2 500 tot 5 000 kg;2010;432;1438
+341;Bedrijfsauto's 2 500 tot 5 000 kg;2011;412;1394
+342;Bedrijfsauto's 2 500 tot 5 000 kg;2012;353;1198
+343;Bedrijfsauto's 2 500 tot 5 000 kg;2013;368;1203
+344;Bedrijfsauto's 2 500 tot 5 000 kg;2014;312;992
+345;Bedrijfsauto's 2 500 tot 5 000 kg;2015;210;649
+346;Bedrijfsauto's 2 500 tot 5 000 kg;2016;206;634
+347;Bedrijfsauto's 2 500 tot 5 000 kg;2017;225;706
+348;Bedrijfsauto's 2 500 tot 5 000 kg;2018;265;857
+349;Bedrijfsauto's 2 500 tot 5 000 kg;2019;250;808
+350;Bedrijfsauto's 2 500 tot 5 000 kg;2020;226;716
+351;Bedrijfsauto's 2 500 tot 5 000 kg;2021;203;654
+352;Bedrijfsauto's 5 000 tot 7 000 kg;2000;612;3793
+353;Bedrijfsauto's 5 000 tot 7 000 kg;2001;744;4632
+354;Bedrijfsauto's 5 000 tot 7 000 kg;2002;688;4264
+355;Bedrijfsauto's 5 000 tot 7 000 kg;2003;559;3441
+356;Bedrijfsauto's 5 000 tot 7 000 kg;2004;609;3739
+357;Bedrijfsauto's 5 000 tot 7 000 kg;2005;292;1797
+358;Bedrijfsauto's 5 000 tot 7 000 kg;2006;365;2259
+359;Bedrijfsauto's 5 000 tot 7 000 kg;2007;275;1694
+360;Bedrijfsauto's 5 000 tot 7 000 kg;2008;276;1717
+361;Bedrijfsauto's 5 000 tot 7 000 kg;2009;302;1871
+362;Bedrijfsauto's 5 000 tot 7 000 kg;2010;259;1587
+363;Bedrijfsauto's 5 000 tot 7 000 kg;2011;258;1578
+364;Bedrijfsauto's 5 000 tot 7 000 kg;2012;274;1663
+365;Bedrijfsauto's 5 000 tot 7 000 kg;2013;214;1308
+366;Bedrijfsauto's 5 000 tot 7 000 kg;2014;184;1157
+367;Bedrijfsauto's 5 000 tot 7 000 kg;2015;174;1091
+368;Bedrijfsauto's 5 000 tot 7 000 kg;2016;135;846
+369;Bedrijfsauto's 5 000 tot 7 000 kg;2017;121;761
+370;Bedrijfsauto's 5 000 tot 7 000 kg;2018;122;774
+371;Bedrijfsauto's 5 000 tot 7 000 kg;2019;118;744
+372;Bedrijfsauto's 5 000 tot 7 000 kg;2020;126;785
+373;Bedrijfsauto's 5 000 tot 7 000 kg;2021;108;674
+374;Bedrijfsauto's 7 000 tot 10 000 kg;2000;582;4750
+375;Bedrijfsauto's 7 000 tot 10 000 kg;2001;756;6175
+376;Bedrijfsauto's 7 000 tot 10 000 kg;2002;625;5083
+377;Bedrijfsauto's 7 000 tot 10 000 kg;2003;555;4498
+378;Bedrijfsauto's 7 000 tot 10 000 kg;2004;582;4742
+379;Bedrijfsauto's 7 000 tot 10 000 kg;2005;374;3000
+380;Bedrijfsauto's 7 000 tot 10 000 kg;2006;385;3075
+381;Bedrijfsauto's 7 000 tot 10 000 kg;2007;355;2891
+382;Bedrijfsauto's 7 000 tot 10 000 kg;2008;348;2812
+383;Bedrijfsauto's 7 000 tot 10 000 kg;2009;471;3849
+384;Bedrijfsauto's 7 000 tot 10 000 kg;2010;413;3305
+385;Bedrijfsauto's 7 000 tot 10 000 kg;2011;398;3195
+386;Bedrijfsauto's 7 000 tot 10 000 kg;2012;401;3223
+387;Bedrijfsauto's 7 000 tot 10 000 kg;2013;395;3174
+388;Bedrijfsauto's 7 000 tot 10 000 kg;2014;356;2850
+389;Bedrijfsauto's 7 000 tot 10 000 kg;2015;357;2835
+390;Bedrijfsauto's 7 000 tot 10 000 kg;2016;279;2247
+391;Bedrijfsauto's 7 000 tot 10 000 kg;2017;311;2496
+392;Bedrijfsauto's 7 000 tot 10 000 kg;2018;376;3038
+393;Bedrijfsauto's 7 000 tot 10 000 kg;2019;382;3053
+394;Bedrijfsauto's 7 000 tot 10 000 kg;2020;334;2657
+395;Bedrijfsauto's 7 000 tot 10 000 kg;2021;296;2420
+396;Bedrijfsauto's 10 000 kg of meer;2000;245;2966
+397;Bedrijfsauto's 10 000 kg of meer;2001;354;4194
+398;Bedrijfsauto's 10 000 kg of meer;2002;290;3493
+399;Bedrijfsauto's 10 000 kg of meer;2003;261;3139
+400;Bedrijfsauto's 10 000 kg of meer;2004;346;4374
+401;Bedrijfsauto's 10 000 kg of meer;2005;221;2780
+402;Bedrijfsauto's 10 000 kg of meer;2006;254;3141
+403;Bedrijfsauto's 10 000 kg of meer;2007;282;3575
+404;Bedrijfsauto's 10 000 kg of meer;2008;248;3115
+405;Bedrijfsauto's 10 000 kg of meer;2009;314;4041
+406;Bedrijfsauto's 10 000 kg of meer;2010;307;3909
+407;Bedrijfsauto's 10 000 kg of meer;2011;423;5225
+408;Bedrijfsauto's 10 000 kg of meer;2012;359;4626
+409;Bedrijfsauto's 10 000 kg of meer;2013;303;4021
+410;Bedrijfsauto's 10 000 kg of meer;2014;265;3467
+411;Bedrijfsauto's 10 000 kg of meer;2015;156;2176
+412;Bedrijfsauto's 10 000 kg of meer;2016;138;1854
+413;Bedrijfsauto's 10 000 kg of meer;2017;181;2556
+414;Bedrijfsauto's 10 000 kg of meer;2018;195;2660
+415;Bedrijfsauto's 10 000 kg of meer;2019;206;2854
+416;Bedrijfsauto's 10 000 kg of meer;2020;201;2794
+417;Bedrijfsauto's 10 000 kg of meer;2021;217;2888
+418;Bedrijfsauto's leeggewicht onbekend;2000;0;0
+419;Bedrijfsauto's leeggewicht onbekend;2001;0;0
+420;Bedrijfsauto's leeggewicht onbekend;2002;0;0
+421;Bedrijfsauto's leeggewicht onbekend;2003;0;0
+422;Bedrijfsauto's leeggewicht onbekend;2004;0;0
+423;Bedrijfsauto's leeggewicht onbekend;2005;0;0
+424;Bedrijfsauto's leeggewicht onbekend;2006;0;0
+425;Bedrijfsauto's leeggewicht onbekend;2007;0;0
+426;Bedrijfsauto's leeggewicht onbekend;2008;0;0
+427;Bedrijfsauto's leeggewicht onbekend;2009;0;0
+428;Bedrijfsauto's leeggewicht onbekend;2010;0;0
+429;Bedrijfsauto's leeggewicht onbekend;2011;0;0
+430;Bedrijfsauto's leeggewicht onbekend;2012;0;0
+431;Bedrijfsauto's leeggewicht onbekend;2013;0;0
+432;Bedrijfsauto's leeggewicht onbekend;2014;0;0
+433;Bedrijfsauto's leeggewicht onbekend;2015;0;0
+434;Bedrijfsauto's leeggewicht onbekend;2016;0;0
+435;Bedrijfsauto's leeggewicht onbekend;2017;0;0
+436;Bedrijfsauto's leeggewicht onbekend;2018;0;0
+437;Bedrijfsauto's leeggewicht onbekend;2019;0;0
+438;Bedrijfsauto's leeggewicht onbekend;2020;0;0
+439;Bedrijfsauto's leeggewicht onbekend;2021;0;0

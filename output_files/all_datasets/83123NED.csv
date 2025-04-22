@@ -1,0 +1,295 @@
+﻿ID;RegioS;Perioden;GemiddeldeStarttijd_1;GemiddeldeAlarmeringstijd_2;GemiddeldeUitruktijd_3;GemiddeldeRijtijd_4;GemiddeldeResponstijd_5
+0;Nederland;2013;0.5;0.5;2.9;4.0;7.4
+1;Nederland;2014;0.5;0.6;2.8;4.0;7.4
+2;Nederland;2015;0.5;0.6;2.8;4.0;7.4
+3;Nederland;2016;0.6;0.7;2.8;4.0;7.5
+4;Nederland;2017;0.7;0.7;2.9;4.1;7.7
+5;Nederland;2018;0.7;0.8;2.9;4.2;7.9
+6;Nederland;2019;0.7;0.9;2.8;4.1;7.8
+7;Groningen (PV);2013;0.7;0.9;4.0;4.3;9.2
+8;Groningen (PV);2014;0.7;0.9;4.2;4.1;9.2
+9;Groningen (PV);2015;0.7;0.9;3.9;4.3;9.1
+10;Groningen (PV);2016;0.6;0.9;4.0;4.3;9.2
+11;Groningen (PV);2017;0.8;0.9;4.0;4.4;9.3
+12;Groningen (PV);2018;0.9;0.9;4.0;4.3;9.2
+13;Groningen (PV);2019;0.8;0.8;4.0;4.4;9.2
+14;Friesland (PV);2013;0.6;0.5;3.9;4.1;8.5
+15;Friesland (PV);2014;0.6;0.5;3.7;4.1;8.3
+16;Friesland (PV);2015;0.6;0.6;3.8;4.0;8.4
+17;Friesland (PV);2016;0.7;0.8;3.9;4.5;9.2
+18;Friesland (PV);2017;0.8;1.0;4.3;4.3;9.6
+19;Friesland (PV);2018;0.9;0.9;4.4;4.2;9.5
+20;Friesland (PV);2019;0.8;0.9;4.3;4.3;9.5
+21;Drenthe (PV);2013;0.6;0.4;4.5;4.6;9.5
+22;Drenthe (PV);2014;0.6;0.4;4.6;4.7;9.7
+23;Drenthe (PV);2015;0.6;0.5;4.6;4.8;9.9
+24;Drenthe (PV);2016;0.6;0.6;4.6;4.8;10.0
+25;Drenthe (PV);2017;0.8;0.8;5.0;4.9;10.7
+26;Drenthe (PV);2018;0.8;0.7;4.6;5.0;10.3
+27;Drenthe (PV);2019;0.8;0.8;4.6;4.8;10.2
+28;Overijssel (PV);2013;0.5;0.3;3.3;3.7;7.3
+29;Overijssel (PV);2014;0.5;0.4;3.1;3.7;7.2
+30;Overijssel (PV);2015;0.5;0.5;3.0;3.8;7.3
+31;Overijssel (PV);2016;0.5;0.5;3.1;3.8;7.4
+32;Overijssel (PV);2017;0.6;0.6;2.9;4.0;7.5
+33;Overijssel (PV);2018;0.7;0.7;2.9;4.1;7.7
+34;Overijssel (PV);2019;0.6;0.7;2.7;4.1;7.5
+35;Flevoland (PV);2013;0.6;0.2;2.3;4.6;7.1
+36;Flevoland (PV);2014;0.7;0.3;2.2;4.7;7.2
+37;Flevoland (PV);2015;0.5;0.3;2.3;4.7;7.3
+38;Flevoland (PV);2016;0.8;0.3;2.2;4.7;7.2
+39;Flevoland (PV);2017;1.0;0.4;2.2;4.9;7.5
+40;Flevoland (PV);2018;0.9;0.4;2.3;5.1;7.8
+41;Flevoland (PV);2019;1.0;0.4;2.3;4.9;7.6
+42;Gelderland (PV);2013;0.5;0.4;3.6;3.9;7.9
+43;Gelderland (PV);2014;0.5;0.5;3.5;4.0;8.0
+44;Gelderland (PV);2015;0.5;0.5;3.4;3.9;7.8
+45;Gelderland (PV);2016;0.6;0.6;3.5;3.9;8.0
+46;Gelderland (PV);2017;0.7;0.7;3.5;3.9;8.1
+47;Gelderland (PV);2018;0.8;0.9;3.5;4.2;8.6
+48;Gelderland (PV);2019;0.7;0.8;3.4;4.1;8.3
+49;Utrecht (PV);2013;0.4;0.3;3.0;4.1;7.4
+50;Utrecht (PV);2014;0.5;0.2;2.9;4.0;7.1
+51;Utrecht (PV);2015;0.5;0.4;2.9;4.2;7.5
+52;Utrecht (PV);2016;0.6;0.5;3.0;4.2;7.7
+53;Utrecht (PV);2017;0.5;0.5;2.9;4.3;7.7
+54;Utrecht (PV);2018;0.6;0.5;2.9;4.3;7.7
+55;Utrecht (PV);2019;0.6;0.6;3.0;4.3;7.9
+56;Noord-Holland (PV);2013;0.8;0.5;2.4;3.9;6.8
+57;Noord-Holland (PV);2014;0.6;0.8;2.3;3.8;6.9
+58;Noord-Holland (PV);2015;0.6;0.8;2.2;3.9;6.9
+59;Noord-Holland (PV);2016;0.7;0.8;2.2;3.9;6.9
+60;Noord-Holland (PV);2017;0.7;0.9;2.2;4.0;7.1
+61;Noord-Holland (PV);2018;0.7;0.9;2.4;4.0;7.3
+62;Noord-Holland (PV);2019;0.7;0.9;2.4;3.9;7.2
+63;Zuid-Holland (PV);2013;0.4;0.4;2.5;4.0;6.9
+64;Zuid-Holland (PV);2014;0.5;0.4;2.3;3.9;6.6
+65;Zuid-Holland (PV);2015;0.5;0.5;2.3;3.9;6.7
+66;Zuid-Holland (PV);2016;0.6;0.6;2.3;3.8;6.7
+67;Zuid-Holland (PV);2017;0.8;0.7;2.5;3.9;7.1
+68;Zuid-Holland (PV);2018;0.8;0.9;2.4;3.9;7.2
+69;Zuid-Holland (PV);2019;0.7;1.0;2.3;3.9;7.2
+70;Zeeland (PV);2013;0.6;0.8;4.5;3.4;8.7
+71;Zeeland (PV);2014;0.5;0.7;4.3;3.4;8.4
+72;Zeeland (PV);2015;0.5;0.7;4.3;3.1;8.1
+73;Zeeland (PV);2016;0.5;0.7;4.2;3.2;8.1
+74;Zeeland (PV);2017;0.5;0.8;4.4;3.3;8.5
+75;Zeeland (PV);2018;0.6;0.9;4.3;3.5;8.7
+76;Zeeland (PV);2019;0.5;0.9;4.3;3.6;8.8
+77;Noord-Brabant (PV);2013;0.5;0.7;2.8;3.9;7.4
+78;Noord-Brabant (PV);2014;0.5;0.7;2.9;4.0;7.6
+79;Noord-Brabant (PV);2015;0.5;0.6;2.9;4.0;7.5
+80;Noord-Brabant (PV);2016;0.6;0.8;3.1;4.2;8.1
+81;Noord-Brabant (PV);2017;0.6;0.8;3.1;4.2;8.1
+82;Noord-Brabant (PV);2018;0.7;0.8;3.1;4.5;8.4
+83;Noord-Brabant (PV);2019;0.7;0.8;3.0;4.5;8.3
+84;Limburg (PV);2013;0.6;0.6;2.9;4.5;8.0
+85;Limburg (PV);2014;0.5;0.6;2.8;4.5;7.9
+86;Limburg (PV);2015;0.5;0.6;2.8;4.7;8.1
+87;Limburg (PV);2016;0.4;0.6;2.5;4.6;7.7
+88;Limburg (PV);2017;0.6;0.7;2.5;4.7;7.9
+89;Limburg (PV);2018;0.7;0.9;3.0;4.9;8.8
+90;Limburg (PV);2019;0.6;0.8;2.9;4.8;8.5
+91;Groningen (VR);2013;0.7;0.9;4.0;4.3;9.2
+92;Groningen (VR);2014;0.7;0.9;4.2;4.1;9.2
+93;Groningen (VR);2015;0.7;0.9;3.9;4.3;9.1
+94;Groningen (VR);2016;0.6;0.9;4.0;4.3;9.2
+95;Groningen (VR);2017;0.8;0.9;4.0;4.4;9.3
+96;Groningen (VR);2018;0.9;0.9;4.0;4.3;9.2
+97;Groningen (VR);2019;0.8;0.8;4.0;4.4;9.2
+98;Fryslân (VR);2013;0.6;0.5;3.9;4.1;8.5
+99;Fryslân (VR);2014;0.6;0.5;3.7;4.1;8.3
+100;Fryslân (VR);2015;0.6;0.6;3.8;4.0;8.4
+101;Fryslân (VR);2016;0.7;0.8;3.9;4.5;9.2
+102;Fryslân (VR);2017;0.8;1.0;4.3;4.3;9.6
+103;Fryslân (VR);2018;0.9;0.9;4.4;4.2;9.5
+104;Fryslân (VR);2019;0.8;0.9;4.3;4.3;9.5
+105;Drenthe (VR);2013;0.6;0.4;4.5;4.6;9.5
+106;Drenthe (VR);2014;0.6;0.4;4.6;4.7;9.7
+107;Drenthe (VR);2015;0.6;0.5;4.6;4.8;9.9
+108;Drenthe (VR);2016;0.6;0.6;4.6;4.8;10.0
+109;Drenthe (VR);2017;0.8;0.8;5.0;4.9;10.7
+110;Drenthe (VR);2018;0.8;0.7;4.6;5.0;10.3
+111;Drenthe (VR);2019;0.8;0.8;4.6;4.8;10.2
+112;IJsselland (VR);2013;0.5;0.4;3.4;3.8;7.6
+113;IJsselland (VR);2014;0.5;0.4;3.3;3.7;7.4
+114;IJsselland (VR);2015;0.4;0.5;3.1;3.7;7.3
+115;IJsselland (VR);2016;0.5;0.5;3.3;3.6;7.4
+116;IJsselland (VR);2017;0.6;0.6;3.1;3.7;7.4
+117;IJsselland (VR);2018;0.6;0.7;3.1;3.8;7.6
+118;IJsselland (VR);2019;0.5;0.7;3.1;3.9;7.7
+119;Twente (VR);2013;0.5;0.3;3.1;3.6;7.0
+120;Twente (VR);2014;0.4;0.3;2.9;3.7;6.9
+121;Twente (VR);2015;0.5;0.6;2.8;3.9;7.3
+122;Twente (VR);2016;0.6;0.6;2.9;4.1;7.6
+123;Twente (VR);2017;0.7;0.6;2.7;4.3;7.6
+124;Twente (VR);2018;0.7;0.6;2.7;4.4;7.7
+125;Twente (VR);2019;0.7;0.6;2.4;4.3;7.3
+126;Noord- en Oost-Gelderland (VR);2013;0.5;0.4;3.9;3.8;8.1
+127;Noord- en Oost-Gelderland (VR);2014;0.6;0.7;3.8;3.9;8.4
+128;Noord- en Oost-Gelderland (VR);2015;0.6;0.7;3.8;3.8;8.3
+129;Noord- en Oost-Gelderland (VR);2016;0.6;0.8;3.8;3.8;8.4
+130;Noord- en Oost-Gelderland (VR);2017;0.7;0.9;3.6;4.0;8.5
+131;Noord- en Oost-Gelderland (VR);2018;0.7;0.9;3.6;4.2;8.7
+132;Noord- en Oost-Gelderland (VR);2019;0.7;0.8;3.7;3.9;8.4
+133;Gelderland-Midden (VR);2013;0.5;0.6;3.5;3.8;7.9
+134;Gelderland-Midden (VR);2014;0.6;0.6;3.3;4.1;8.0
+135;Gelderland-Midden (VR);2015;0.6;0.5;3.2;3.9;7.6
+136;Gelderland-Midden (VR);2016;0.6;0.6;3.3;3.9;7.8
+137;Gelderland-Midden (VR);2017;0.7;0.6;3.0;4.1;7.7
+138;Gelderland-Midden (VR);2018;0.8;0.6;3.1;4.3;8.0
+139;Gelderland-Midden (VR);2019;0.8;0.6;3.2;4.3;8.1
+140;Gelderland-Zuid (VR);2013;0.5;0.3;3.3;4.3;7.9
+141;Gelderland-Zuid (VR);2014;0.4;0.3;3.4;4.0;7.7
+142;Gelderland-Zuid (VR);2015;0.3;0.3;3.3;3.8;7.4
+143;Gelderland-Zuid (VR);2016;0.5;0.4;3.3;3.8;7.5
+144;Gelderland-Zuid (VR);2017;0.6;0.7;3.6;3.8;8.1
+145;Gelderland-Zuid (VR);2018;0.8;1.1;3.5;4.1;8.7
+146;Gelderland-Zuid (VR);2019;0.8;0.9;3.3;4.2;8.4
+147;Utrecht (VR);2013;0.4;0.3;3.0;4.1;7.4
+148;Utrecht (VR);2014;0.5;0.2;2.9;4.0;7.1
+149;Utrecht (VR);2015;0.5;0.4;2.9;4.2;7.5
+150;Utrecht (VR);2016;0.6;0.5;3.0;4.2;7.7
+151;Utrecht (VR);2017;0.5;0.5;2.9;4.3;7.7
+152;Utrecht (VR);2018;0.6;0.5;2.9;4.3;7.7
+153;Utrecht (VR);2019;0.6;0.6;3.0;4.3;7.9
+154;Noord-Holland-Noord (VR);2013;0.6;0.3;3.3;4.0;7.6
+155;Noord-Holland-Noord (VR);2014;0.7;0.4;3.2;3.9;7.5
+156;Noord-Holland-Noord (VR);2015;0.8;0.3;3.2;4.0;7.5
+157;Noord-Holland-Noord (VR);2016;0.8;0.3;3.3;4.0;7.6
+158;Noord-Holland-Noord (VR);2017;0.9;0.6;3.3;4.2;8.1
+159;Noord-Holland-Noord (VR);2018;0.8;0.4;3.2;4.1;7.7
+160;Noord-Holland-Noord (VR);2019;0.9;0.4;3.4;4.0;7.8
+161;Zaanstreek-Waterland (VR);2013;0.4;0.5;2.9;3.6;7.0
+162;Zaanstreek-Waterland (VR);2014;0.4;0.4;3.0;3.5;6.9
+163;Zaanstreek-Waterland (VR);2015;0.6;0.5;2.9;3.9;7.3
+164;Zaanstreek-Waterland (VR);2016;0.7;0.5;3.0;3.4;6.9
+165;Zaanstreek-Waterland (VR);2017;0.7;0.6;3.4;3.5;7.5
+166;Zaanstreek-Waterland (VR);2018;0.8;0.6;3.4;3.6;7.6
+167;Zaanstreek-Waterland (VR);2019;0.9;0.5;3.3;3.8;7.6
+168;Kennemerland (VR);2013;0.4;0.3;2.1;4.2;6.6
+169;Kennemerland (VR);2014;0.4;0.2;2.0;4.3;6.5
+170;Kennemerland (VR);2015;0.4;0.2;2.0;4.2;6.4
+171;Kennemerland (VR);2016;0.4;0.2;2.0;4.3;6.5
+172;Kennemerland (VR);2017;0.4;0.3;1.9;4.3;6.5
+173;Kennemerland (VR);2018;0.5;0.3;1.9;4.3;6.5
+174;Kennemerland (VR);2019;0.5;0.4;1.9;4.3;6.6
+175;Amsterdam-Amstelland (VR);2013;1.3;0.8;1.9;3.7;6.4
+176;Amsterdam-Amstelland (VR);2014;0.8;1.4;1.9;3.6;6.9
+177;Amsterdam-Amstelland (VR);2015;0.7;1.5;1.9;3.6;7.0
+178;Amsterdam-Amstelland (VR);2016;0.7;1.5;1.9;3.6;7.0
+179;Amsterdam-Amstelland (VR);2017;0.8;1.5;2.0;3.8;7.3
+180;Amsterdam-Amstelland (VR);2018;0.8;1.5;2.0;3.9;7.4
+181;Amsterdam-Amstelland (VR);2019;0.7;1.5;2.0;3.7;7.2
+182;Gooi en Vechtstreek (VR);2013;0.7;0.8;2.8;3.7;7.3
+183;Gooi en Vechtstreek (VR);2014;0.7;0.7;2.6;3.9;7.2
+184;Gooi en Vechtstreek (VR);2015;0.7;0.7;1.4;4.0;6.1
+185;Gooi en Vechtstreek (VR);2016;0.7;0.8;1.7;3.9;6.4
+186;Gooi en Vechtstreek (VR);2017;0.7;0.8;1.5;4.6;6.9
+187;Gooi en Vechtstreek (VR);2018;0.8;0.8;2.2;4.2;7.2
+188;Gooi en Vechtstreek (VR);2019;0.8;0.9;3.3;3.8;8.0
+189;Haaglanden (VR);2013;0.4;0.4;2.3;3.7;6.4
+190;Haaglanden (VR);2014;0.6;0.6;2.3;3.7;6.6
+191;Haaglanden (VR);2015;0.6;0.6;2.2;3.7;6.5
+192;Haaglanden (VR);2016;0.6;0.7;2.2;3.6;6.5
+193;Haaglanden (VR);2017;0.7;0.8;2.2;3.7;6.7
+194;Haaglanden (VR);2018;0.8;0.7;2.3;3.7;6.7
+195;Haaglanden (VR);2019;0.9;0.8;2.3;3.8;6.9
+196;Hollands-Midden (VR);2013;0.4;0.5;2.9;4.1;7.5
+197;Hollands-Midden (VR);2014;0.5;0.5;2.7;4.1;7.3
+198;Hollands-Midden (VR);2015;0.5;0.5;2.8;4.1;7.4
+199;Hollands-Midden (VR);2016;0.6;0.7;2.7;4.0;7.4
+200;Hollands-Midden (VR);2017;0.7;0.8;2.7;4.0;7.5
+201;Hollands-Midden (VR);2018;0.9;0.8;2.8;4.0;7.6
+202;Hollands-Midden (VR);2019;0.9;0.7;2.6;3.9;7.2
+203;Rotterdam-Rijnmond (VR);2013;0.3;0.3;1.9;4.4;6.6
+204;Rotterdam-Rijnmond (VR);2014;0.4;0.3;1.7;4.0;6.0
+205;Rotterdam-Rijnmond (VR);2015;0.4;0.3;1.7;4.0;6.0
+206;Rotterdam-Rijnmond (VR);2016;0.6;0.4;1.6;4.0;6.0
+207;Rotterdam-Rijnmond (VR);2017;0.9;0.5;1.9;4.3;6.7
+208;Rotterdam-Rijnmond (VR);2018;0.6;1.3;1.9;4.1;7.3
+209;Rotterdam-Rijnmond (VR);2019;0.5;1.5;1.9;4.0;7.4
+210;Zuid-Holland-Zuid (VR);2013;0.4;0.3;3.5;3.6;7.4
+211;Zuid-Holland-Zuid (VR);2014;0.5;0.3;3.7;3.5;7.5
+212;Zuid-Holland-Zuid (VR);2015;0.5;0.3;3.5;3.8;7.6
+213;Zuid-Holland-Zuid (VR);2016;0.6;0.5;3.7;3.9;8.1
+214;Zuid-Holland-Zuid (VR);2017;0.7;0.7;4.0;3.9;8.6
+215;Zuid-Holland-Zuid (VR);2018;0.7;1.0;3.9;3.7;8.6
+216;Zuid-Holland-Zuid (VR);2019;0.7;1.0;3.9;4.0;8.9
+217;Zeeland (VR);2013;0.6;0.8;4.5;3.4;8.7
+218;Zeeland (VR);2014;0.5;0.7;4.3;3.4;8.4
+219;Zeeland (VR);2015;0.5;0.7;4.3;3.1;8.1
+220;Zeeland (VR);2016;0.5;0.7;4.2;3.2;8.1
+221;Zeeland (VR);2017;0.5;0.8;4.4;3.3;8.5
+222;Zeeland (VR);2018;0.6;0.9;4.3;3.5;8.7
+223;Zeeland (VR);2019;0.5;0.9;4.3;3.6;8.8
+224;Midden- en West-Brabant (VR);2013;0.4;0.9;2.9;3.7;7.5
+225;Midden- en West-Brabant (VR);2014;0.5;0.9;3.0;4.0;7.9
+226;Midden- en West-Brabant (VR);2015;0.5;0.8;2.9;3.9;7.6
+227;Midden- en West-Brabant (VR);2016;0.5;0.8;3.0;4.0;7.8
+228;Midden- en West-Brabant (VR);2017;0.5;0.8;3.0;4.0;7.8
+229;Midden- en West-Brabant (VR);2018;0.6;0.8;2.8;4.1;7.7
+230;Midden- en West-Brabant (VR);2019;0.6;0.8;2.7;4.2;7.7
+231;Brabant-Noord (VR);2013;0.7;0.7;3.7;4.4;8.8
+232;Brabant-Noord (VR);2014;0.7;0.9;3.7;3.9;8.5
+233;Brabant-Noord (VR);2015;0.9;0.5;4.4;4.4;9.3
+234;Brabant-Noord (VR);2016;0.9;0.6;4.2;4.7;9.5
+235;Brabant-Noord (VR);2017;1.0;0.6;4.0;4.8;9.4
+236;Brabant-Noord (VR);2018;0.9;0.5;4.2;5.2;9.9
+237;Brabant-Noord (VR);2019;1.0;0.6;4.4;5.0;10.0
+238;Brabant-Zuidoost (VR);2013;0.4;0.3;2.3;4.0;6.6
+239;Brabant-Zuidoost (VR);2014;0.5;0.3;2.4;4.0;6.7
+240;Brabant-Zuidoost (VR);2015;0.5;0.3;2.4;4.0;6.7
+241;Brabant-Zuidoost (VR);2016;0.6;0.8;3.0;4.3;8.1
+242;Brabant-Zuidoost (VR);2017;0.6;0.8;3.0;4.3;8.1
+243;Brabant-Zuidoost (VR);2018;0.7;0.9;3.1;4.9;8.9
+244;Brabant-Zuidoost (VR);2019;0.7;1.0;2.8;4.7;8.5
+245;Limburg-Noord (VR);2013;0.5;0.3;3.6;5.3;9.2
+246;Limburg-Noord (VR);2014;0.5;0.3;3.6;5.2;9.1
+247;Limburg-Noord (VR);2015;0.6;0.6;3.2;5.5;9.3
+248;Limburg-Noord (VR);2016;0.6;0.8;3.0;5.6;9.4
+249;Limburg-Noord (VR);2017;0.8;0.8;2.9;5.7;9.4
+250;Limburg-Noord (VR);2018;0.9;1.2;3.1;6.0;10.3
+251;Limburg-Noord (VR);2019;0.7;0.9;2.7;5.7;9.3
+252;Limburg-Zuid (VR);2013;0.6;0.7;2.6;4.1;7.4
+253;Limburg-Zuid (VR);2014;0.5;0.8;2.5;4.2;7.5
+254;Limburg-Zuid (VR);2015;0.5;0.7;2.6;4.4;7.7
+255;Limburg-Zuid (VR);2016;0.4;0.6;2.4;4.3;7.3
+256;Limburg-Zuid (VR);2017;0.5;0.7;2.4;4.4;7.5
+257;Limburg-Zuid (VR);2018;0.5;0.7;3.0;4.3;8.0
+258;Limburg-Zuid (VR);2019;0.5;0.8;3.1;4.3;8.2
+259;Flevoland (VR);2013;0.6;0.2;2.3;4.6;7.1
+260;Flevoland (VR);2014;0.7;0.3;2.2;4.7;7.2
+261;Flevoland (VR);2015;0.5;0.3;2.3;4.7;7.3
+262;Flevoland (VR);2016;0.8;0.3;2.2;4.7;7.2
+263;Flevoland (VR);2017;1.0;0.4;2.2;4.9;7.5
+264;Flevoland (VR);2018;0.9;0.4;2.3;5.1;7.8
+265;Flevoland (VR);2019;1.0;0.4;2.3;4.9;7.6
+266;Noord-Nederland (LD);2013;0.6;0.6;4.1;4.3;9.0
+267;Noord-Nederland (LD);2014;0.6;0.6;4.1;4.3;9.0
+268;Noord-Nederland (LD);2015;0.6;0.7;4.1;4.4;9.2
+269;Noord-Nederland (LD);2016;0.7;0.8;4.2;4.5;9.5
+270;Noord-Nederland (LD);2017;0.8;0.9;4.4;4.5;9.8
+271;Noord-Nederland (LD);2018;0.8;0.9;4.3;4.5;9.7
+272;Noord-Nederland (LD);2019;0.8;0.8;4.3;4.5;9.6
+273;Oost-Nederland (LD);2013;0.5;0.4;3.4;3.9;7.7
+274;Oost-Nederland (LD);2014;0.5;0.4;3.2;4.0;7.6
+275;Oost-Nederland (LD);2015;0.5;0.5;3.2;3.9;7.6
+276;Oost-Nederland (LD);2016;0.6;0.5;3.2;3.9;7.6
+277;Oost-Nederland (LD);2017;0.7;0.7;3.1;4.1;7.9
+278;Oost-Nederland (LD);2018;0.8;0.8;3.2;4.3;8.3
+279;Oost-Nederland (LD);2019;0.7;0.7;3.1;4.2;8.0
+280;West-Nederland (LD);2013;0.5;0.4;2.6;4.0;7.0
+281;West-Nederland (LD);2014;0.5;0.5;2.5;3.9;6.9
+282;West-Nederland (LD);2015;0.5;0.6;2.4;3.9;6.9
+283;West-Nederland (LD);2016;0.6;0.7;2.4;3.9;7.0
+284;West-Nederland (LD);2017;0.7;0.8;2.5;4.0;7.3
+285;West-Nederland (LD);2018;0.7;0.9;2.5;4.0;7.4
+286;West-Nederland (LD);2019;0.7;0.9;2.5;3.9;7.3
+287;Zuid-Nederland (LD);2013;0.5;0.6;2.8;4.0;7.4
+288;Zuid-Nederland (LD);2014;0.5;0.7;2.9;4.1;7.7
+289;Zuid-Nederland (LD);2015;0.5;0.6;2.9;4.2;7.7
+290;Zuid-Nederland (LD);2016;0.5;0.7;3.0;4.3;8.0
+291;Zuid-Nederland (LD);2017;0.6;0.8;3.0;4.3;8.1
+292;Zuid-Nederland (LD);2018;0.7;0.8;3.1;4.6;8.5
+293;Zuid-Nederland (LD);2019;0.7;0.8;3.0;4.6;8.4

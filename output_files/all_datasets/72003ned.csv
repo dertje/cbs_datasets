@@ -1,0 +1,841 @@
+﻿ID;BedrijfstakBranchesSBI2008;Perioden;IndexcijfersOmzet_1;Waarde_2;CumulatieveWaarde_3
+0;46 Groothandel en handelsbemiddeling;2005 1e kwartaal;96.4;;
+1;46 Groothandel en handelsbemiddeling;2005 2e kwartaal;99.4;;
+2;46 Groothandel en handelsbemiddeling;2005 3e kwartaal;98.4;;
+3;46 Groothandel en handelsbemiddeling;2005 4e kwartaal;105.9;;
+4;46 Groothandel en handelsbemiddeling;2005;100.0;;
+5;46 Groothandel en handelsbemiddeling;2006 1e kwartaal;102.2;6.1;6.1
+6;46 Groothandel en handelsbemiddeling;2006 2e kwartaal;105.7;6.4;6.2
+7;46 Groothandel en handelsbemiddeling;2006 3e kwartaal;103.7;5.4;6.0
+8;46 Groothandel en handelsbemiddeling;2006 4e kwartaal;110.4;4.3;5.5
+9;46 Groothandel en handelsbemiddeling;2006;105.5;5.5;5.5
+10;46 Groothandel en handelsbemiddeling;2007 1e kwartaal;111.0;8.5;8.5
+11;46 Groothandel en handelsbemiddeling;2007 2e kwartaal;115.7;9.5;9.0
+12;46 Groothandel en handelsbemiddeling;2007 3e kwartaal;114.2;10.1;9.4
+13;46 Groothandel en handelsbemiddeling;2007 4e kwartaal;124.4;12.7;10.2
+14;46 Groothandel en handelsbemiddeling;2007;116.3;10.2;10.2
+15;46 Groothandel en handelsbemiddeling;2008 1e kwartaal;122.9;10.8;10.8
+16;46 Groothandel en handelsbemiddeling;2008 2e kwartaal;129.3;11.7;11.3
+17;46 Groothandel en handelsbemiddeling;2008 3e kwartaal;127.6;11.7;11.4
+18;46 Groothandel en handelsbemiddeling;2008 4e kwartaal;122.4;-1.6;7.9
+19;46 Groothandel en handelsbemiddeling;2008;125.5;7.9;7.9
+20;46 Groothandel en handelsbemiddeling;2009 1e kwartaal;111.7;-9.1;-9.1
+21;46 Groothandel en handelsbemiddeling;2009 2e kwartaal;114.1;-11.8;-10.5
+22;46 Groothandel en handelsbemiddeling;2009 3e kwartaal;112.0;-12.2;-11.1
+23;46 Groothandel en handelsbemiddeling;2009 4e kwartaal;117.0;-4.4;-9.4
+24;46 Groothandel en handelsbemiddeling;2009;113.7;-9.4;-9.4
+25;46 Groothandel en handelsbemiddeling;2010 1e kwartaal;116.2;4.0;4.0
+26;46 Groothandel en handelsbemiddeling;2010 2e kwartaal;124.8;9.4;6.7
+27;46 Groothandel en handelsbemiddeling;2010 3e kwartaal;122.8;9.6;7.7
+28;46 Groothandel en handelsbemiddeling;2010 4e kwartaal;130.8;11.8;8.8
+29;46 Groothandel en handelsbemiddeling;2010;123.6;8.8;8.8
+30;46 Groothandel en handelsbemiddeling;2011 1e kwartaal;131.3;13.0;13.0
+31;46 Groothandel en handelsbemiddeling;2011 2e kwartaal;134.1;7.5;10.2
+32;46 Groothandel en handelsbemiddeling;2011 3e kwartaal;133.1;8.4;9.5
+33;46 Groothandel en handelsbemiddeling;2011 4e kwartaal;131.5;0.6;7.2
+34;46 Groothandel en handelsbemiddeling;2011;132.5;7.2;7.2
+35;46 Groothandel en handelsbemiddeling;2012 1e kwartaal;131.7;0.3;0.3
+36;46 Groothandel en handelsbemiddeling;2012 2e kwartaal;135.7;1.1;0.7
+37;46 Groothandel en handelsbemiddeling;2012 3e kwartaal;136.2;2.4;1.3
+38;46 Groothandel en handelsbemiddeling;2012 4e kwartaal;132.9;1.1;1.2
+39;46 Groothandel en handelsbemiddeling;2012;134.1;1.2;1.2
+40;462-469 Groothandel;2005 1e kwartaal;96.3;;
+41;462-469 Groothandel;2005 2e kwartaal;99.3;;
+42;462-469 Groothandel;2005 3e kwartaal;98.5;;
+43;462-469 Groothandel;2005 4e kwartaal;105.9;;
+44;462-469 Groothandel;2005;100.0;;
+45;462-469 Groothandel;2006 1e kwartaal;102.2;6.2;6.2
+46;462-469 Groothandel;2006 2e kwartaal;105.7;6.4;6.3
+47;462-469 Groothandel;2006 3e kwartaal;103.7;5.3;6.0
+48;462-469 Groothandel;2006 4e kwartaal;110.3;4.2;5.5
+49;462-469 Groothandel;2006;105.5;5.5;5.5
+50;462-469 Groothandel;2007 1e kwartaal;110.7;8.3;8.3
+51;462-469 Groothandel;2007 2e kwartaal;115.5;9.3;8.8
+52;462-469 Groothandel;2007 3e kwartaal;114.2;10.1;9.2
+53;462-469 Groothandel;2007 4e kwartaal;124.3;12.7;10.1
+54;462-469 Groothandel;2007;116.2;10.1;10.1
+55;462-469 Groothandel;2008 1e kwartaal;122.8;10.9;10.9
+56;462-469 Groothandel;2008 2e kwartaal;129.2;11.9;11.4
+57;462-469 Groothandel;2008 3e kwartaal;127.5;11.6;11.5
+58;462-469 Groothandel;2008 4e kwartaal;122.3;-1.7;8.0
+59;462-469 Groothandel;2008;125.5;8.0;8.0
+60;462-469 Groothandel;2009 1e kwartaal;111.3;-9.3;-9.3
+61;462-469 Groothandel;2009 2e kwartaal;113.8;-12.0;-10.7
+62;462-469 Groothandel;2009 3e kwartaal;111.9;-12.3;-11.2
+63;462-469 Groothandel;2009 4e kwartaal;116.7;-4.5;-9.6
+64;462-469 Groothandel;2009;113.4;-9.6;-9.6
+65;462-469 Groothandel;2010 1e kwartaal;116.1;4.3;4.3
+66;462-469 Groothandel;2010 2e kwartaal;124.7;9.6;7.0
+67;462-469 Groothandel;2010 3e kwartaal;122.8;9.7;7.9
+68;462-469 Groothandel;2010 4e kwartaal;130.6;11.9;8.9
+69;462-469 Groothandel;2010;123.5;8.9;8.9
+70;462-469 Groothandel;2011 1e kwartaal;131.1;12.9;12.9
+71;462-469 Groothandel;2011 2e kwartaal;133.9;7.4;10.1
+72;462-469 Groothandel;2011 3e kwartaal;133.1;8.4;9.5
+73;462-469 Groothandel;2011 4e kwartaal;131.3;0.5;7.1
+74;462-469 Groothandel;2011;132.3;7.1;7.1
+75;462-469 Groothandel;2012 1e kwartaal;131.5;0.3;0.3
+76;462-469 Groothandel;2012 2e kwartaal;135.6;1.2;0.8
+77;462-469 Groothandel;2012 3e kwartaal;136.3;2.4;1.3
+78;462-469 Groothandel;2012 4e kwartaal;132.7;1.1;1.3
+79;462-469 Groothandel;2012;134.0;1.3;1.3
+80;462 Groothandel in landbouwproducten;2005 1e kwartaal;101.3;;
+81;462 Groothandel in landbouwproducten;2005 2e kwartaal;101.2;;
+82;462 Groothandel in landbouwproducten;2005 3e kwartaal;92.6;;
+83;462 Groothandel in landbouwproducten;2005 4e kwartaal;104.9;;
+84;462 Groothandel in landbouwproducten;2005;100.0;;
+85;462 Groothandel in landbouwproducten;2006 1e kwartaal;110.5;9.0;9.0
+86;462 Groothandel in landbouwproducten;2006 2e kwartaal;106.7;5.5;7.3
+87;462 Groothandel in landbouwproducten;2006 3e kwartaal;94.8;2.4;5.7
+88;462 Groothandel in landbouwproducten;2006 4e kwartaal;102.8;-2.0;3.7
+89;462 Groothandel in landbouwproducten;2006;103.7;3.7;3.7
+90;462 Groothandel in landbouwproducten;2007 1e kwartaal;132.9;20.3;20.3
+91;462 Groothandel in landbouwproducten;2007 2e kwartaal;133.7;25.3;22.8
+92;462 Groothandel in landbouwproducten;2007 3e kwartaal;133.8;41.1;28.3
+93;462 Groothandel in landbouwproducten;2007 4e kwartaal;168.0;63.4;37.0
+94;462 Groothandel in landbouwproducten;2007;142.1;37.0;37.0
+95;462 Groothandel in landbouwproducten;2008 1e kwartaal;175.3;31.9;31.9
+96;462 Groothandel in landbouwproducten;2008 2e kwartaal;176.6;32.1;32.0
+97;462 Groothandel in landbouwproducten;2008 3e kwartaal;189.8;41.8;35.3
+98;462 Groothandel in landbouwproducten;2008 4e kwartaal;147.8;-12.0;21.3
+99;462 Groothandel in landbouwproducten;2008;172.4;21.3;21.3
+100;462 Groothandel in landbouwproducten;2009 1e kwartaal;164.6;-6.1;-6.1
+101;462 Groothandel in landbouwproducten;2009 2e kwartaal;162.8;-7.9;-7.0
+102;462 Groothandel in landbouwproducten;2009 3e kwartaal;143.9;-24.2;-13.0
+103;462 Groothandel in landbouwproducten;2009 4e kwartaal;148.0;0.2;-10.2
+104;462 Groothandel in landbouwproducten;2009;154.8;-10.2;-10.2
+105;462 Groothandel in landbouwproducten;2010 1e kwartaal;160.5;-2.5;-2.5
+106;462 Groothandel in landbouwproducten;2010 2e kwartaal;174.5;7.2;2.4
+107;462 Groothandel in landbouwproducten;2010 3e kwartaal;161.8;12.4;5.4
+108;462 Groothandel in landbouwproducten;2010 4e kwartaal;175.3;18.4;8.5
+109;462 Groothandel in landbouwproducten;2010;168.0;8.5;8.5
+110;462 Groothandel in landbouwproducten;2011 1e kwartaal;195.0;21.4;21.4
+111;462 Groothandel in landbouwproducten;2011 2e kwartaal;199.2;14.1;17.6
+112;462 Groothandel in landbouwproducten;2011 3e kwartaal;176.1;8.9;14.8
+113;462 Groothandel in landbouwproducten;2011 4e kwartaal;180.0;2.7;11.6
+114;462 Groothandel in landbouwproducten;2011;187.6;11.6;11.6
+115;462 Groothandel in landbouwproducten;2012 1e kwartaal;203.6;4.4;4.4
+116;462 Groothandel in landbouwproducten;2012 2e kwartaal;229.4;15.2;9.9
+117;462 Groothandel in landbouwproducten;2012 3e kwartaal;209.9;19.2;12.7
+118;462 Groothandel in landbouwproducten;2012 4e kwartaal;194.5;8.0;11.6
+119;462 Groothandel in landbouwproducten;2012;209.3;11.6;11.6
+120;4621 Groothandel in akkerbouwproducten;2005 1e kwartaal;;;
+121;4621 Groothandel in akkerbouwproducten;2005 2e kwartaal;;;
+122;4621 Groothandel in akkerbouwproducten;2005 3e kwartaal;;;
+123;4621 Groothandel in akkerbouwproducten;2005 4e kwartaal;;;
+124;4621 Groothandel in akkerbouwproducten;2005;;;
+125;4621 Groothandel in akkerbouwproducten;2006 1e kwartaal;;;
+126;4621 Groothandel in akkerbouwproducten;2006 2e kwartaal;;;
+127;4621 Groothandel in akkerbouwproducten;2006 3e kwartaal;;;
+128;4621 Groothandel in akkerbouwproducten;2006 4e kwartaal;;;
+129;4621 Groothandel in akkerbouwproducten;2006;;;
+130;4621 Groothandel in akkerbouwproducten;2007 1e kwartaal;166.1;;
+131;4621 Groothandel in akkerbouwproducten;2007 2e kwartaal;174.8;;
+132;4621 Groothandel in akkerbouwproducten;2007 3e kwartaal;187.3;;
+133;4621 Groothandel in akkerbouwproducten;2007 4e kwartaal;255.3;;
+134;4621 Groothandel in akkerbouwproducten;2007;195.9;;
+135;4621 Groothandel in akkerbouwproducten;2008 1e kwartaal;250.0;50.5;50.5
+136;4621 Groothandel in akkerbouwproducten;2008 2e kwartaal;270.9;55.0;52.8
+137;4621 Groothandel in akkerbouwproducten;2008 3e kwartaal;320.7;71.2;59.3
+138;4621 Groothandel in akkerbouwproducten;2008 4e kwartaal;196.8;-22.9;32.5
+139;4621 Groothandel in akkerbouwproducten;2008;259.6;32.5;32.5
+140;4621 Groothandel in akkerbouwproducten;2009 1e kwartaal;226.0;-9.6;-9.6
+141;4621 Groothandel in akkerbouwproducten;2009 2e kwartaal;223.9;-17.3;-13.6
+142;4621 Groothandel in akkerbouwproducten;2009 3e kwartaal;209.1;-34.8;-21.7
+143;4621 Groothandel in akkerbouwproducten;2009 4e kwartaal;206.7;5.0;-16.6
+144;4621 Groothandel in akkerbouwproducten;2009;216.4;-16.6;-16.6
+145;4621 Groothandel in akkerbouwproducten;2010 1e kwartaal;221.1;-2.2;-2.2
+146;4621 Groothandel in akkerbouwproducten;2010 2e kwartaal;257.4;14.9;6.3
+147;4621 Groothandel in akkerbouwproducten;2010 3e kwartaal;255.9;22.4;11.4
+148;4621 Groothandel in akkerbouwproducten;2010 4e kwartaal;279.8;35.4;17.2
+149;4621 Groothandel in akkerbouwproducten;2010;253.6;17.2;17.2
+150;4621 Groothandel in akkerbouwproducten;2011 1e kwartaal;306.5;38.7;38.7
+151;4621 Groothandel in akkerbouwproducten;2011 2e kwartaal;317.2;23.3;30.4
+152;4621 Groothandel in akkerbouwproducten;2011 3e kwartaal;285.4;11.5;23.8
+153;4621 Groothandel in akkerbouwproducten;2011 4e kwartaal;280.7;0.3;17.3
+154;4621 Groothandel in akkerbouwproducten;2011;297.5;17.3;17.3
+155;4621 Groothandel in akkerbouwproducten;2012 1e kwartaal;320.9;4.7;4.7
+156;4621 Groothandel in akkerbouwproducten;2012 2e kwartaal;389.6;22.8;13.9
+157;4621 Groothandel in akkerbouwproducten;2012 3e kwartaal;369.1;29.3;18.7
+158;4621 Groothandel in akkerbouwproducten;2012 4e kwartaal;316.1;12.6;17.3
+159;4621 Groothandel in akkerbouwproducten;2012;348.9;17.3;17.3
+160;4622 Groothandel in bloemen en planten;2005 1e kwartaal;;;
+161;4622 Groothandel in bloemen en planten;2005 2e kwartaal;;;
+162;4622 Groothandel in bloemen en planten;2005 3e kwartaal;;;
+163;4622 Groothandel in bloemen en planten;2005 4e kwartaal;;;
+164;4622 Groothandel in bloemen en planten;2005;;;
+165;4622 Groothandel in bloemen en planten;2006 1e kwartaal;;;
+166;4622 Groothandel in bloemen en planten;2006 2e kwartaal;;;
+167;4622 Groothandel in bloemen en planten;2006 3e kwartaal;;;
+168;4622 Groothandel in bloemen en planten;2006 4e kwartaal;;;
+169;4622 Groothandel in bloemen en planten;2006;;;
+170;4622 Groothandel in bloemen en planten;2007 1e kwartaal;121.1;;
+171;4622 Groothandel in bloemen en planten;2007 2e kwartaal;113.4;;
+172;4622 Groothandel in bloemen en planten;2007 3e kwartaal;103.3;;
+173;4622 Groothandel in bloemen en planten;2007 4e kwartaal;117.0;;
+174;4622 Groothandel in bloemen en planten;2007;113.7;;
+175;4622 Groothandel in bloemen en planten;2008 1e kwartaal;143.0;18.0;18.0
+176;4622 Groothandel in bloemen en planten;2008 2e kwartaal;125.2;10.4;14.3
+177;4622 Groothandel in bloemen en planten;2008 3e kwartaal;105.3;1.9;10.5
+178;4622 Groothandel in bloemen en planten;2008 4e kwartaal;119.8;2.4;8.5
+179;4622 Groothandel in bloemen en planten;2008;123.3;8.5;8.5
+180;4622 Groothandel in bloemen en planten;2009 1e kwartaal;135.3;-5.4;-5.4
+181;4622 Groothandel in bloemen en planten;2009 2e kwartaal;131.6;5.1;-0.5
+182;4622 Groothandel in bloemen en planten;2009 3e kwartaal;101.0;-4.1;-1.5
+183;4622 Groothandel in bloemen en planten;2009 4e kwartaal;113.6;-5.2;-2.4
+184;4622 Groothandel in bloemen en planten;2009;120.4;-2.4;-2.4
+185;4622 Groothandel in bloemen en planten;2010 1e kwartaal;132.2;-2.2;-2.2
+186;4622 Groothandel in bloemen en planten;2010 2e kwartaal;128.7;-2.2;-2.2
+187;4622 Groothandel in bloemen en planten;2010 3e kwartaal;101.6;0.6;-1.5
+188;4622 Groothandel in bloemen en planten;2010 4e kwartaal;105.7;-6.9;-2.7
+189;4622 Groothandel in bloemen en planten;2010;117.1;-2.7;-2.7
+190;4622 Groothandel in bloemen en planten;2011 1e kwartaal;129.1;-2.4;-2.4
+191;4622 Groothandel in bloemen en planten;2011 2e kwartaal;129.1;0.3;-1.0
+192;4622 Groothandel in bloemen en planten;2011 3e kwartaal;108.4;6.7;1.1
+193;4622 Groothandel in bloemen en planten;2011 4e kwartaal;113.0;6.9;2.4
+194;4622 Groothandel in bloemen en planten;2011;119.9;2.4;2.4
+195;4622 Groothandel in bloemen en planten;2012 1e kwartaal;134.4;4.1;4.1
+196;4622 Groothandel in bloemen en planten;2012 2e kwartaal;130.2;0.9;2.5
+197;4622 Groothandel in bloemen en planten;2012 3e kwartaal;107.2;-1.2;1.4
+198;4622 Groothandel in bloemen en planten;2012 4e kwartaal;111.2;-1.6;0.7
+199;4622 Groothandel in bloemen en planten;2012;120.7;0.7;0.7
+200;463 Groothandel in voedingsmiddelen;2005 1e kwartaal;92.9;;
+201;463 Groothandel in voedingsmiddelen;2005 2e kwartaal;102.8;;
+202;463 Groothandel in voedingsmiddelen;2005 3e kwartaal;98.2;;
+203;463 Groothandel in voedingsmiddelen;2005 4e kwartaal;106.2;;
+204;463 Groothandel in voedingsmiddelen;2005;100.0;;
+205;463 Groothandel in voedingsmiddelen;2006 1e kwartaal;98.6;6.2;6.2
+206;463 Groothandel in voedingsmiddelen;2006 2e kwartaal;109.5;6.5;6.4
+207;463 Groothandel in voedingsmiddelen;2006 3e kwartaal;100.3;2.2;5.0
+208;463 Groothandel in voedingsmiddelen;2006 4e kwartaal;107.8;1.5;4.1
+209;463 Groothandel in voedingsmiddelen;2006;104.1;4.1;4.1
+210;463 Groothandel in voedingsmiddelen;2007 1e kwartaal;101.5;2.9;2.9
+211;463 Groothandel in voedingsmiddelen;2007 2e kwartaal;114.7;4.7;3.8
+212;463 Groothandel in voedingsmiddelen;2007 3e kwartaal;110.0;9.6;5.7
+213;463 Groothandel in voedingsmiddelen;2007 4e kwartaal;117.6;9.1;6.6
+214;463 Groothandel in voedingsmiddelen;2007;111.0;6.6;6.6
+215;463 Groothandel in voedingsmiddelen;2008 1e kwartaal;110.0;8.4;8.4
+216;463 Groothandel in voedingsmiddelen;2008 2e kwartaal;121.8;6.2;7.3
+217;463 Groothandel in voedingsmiddelen;2008 3e kwartaal;115.0;4.5;6.3
+218;463 Groothandel in voedingsmiddelen;2008 4e kwartaal;121.5;3.3;5.5
+219;463 Groothandel in voedingsmiddelen;2008;117.1;5.5;5.5
+220;463 Groothandel in voedingsmiddelen;2009 1e kwartaal;109.7;-0.3;-0.3
+221;463 Groothandel in voedingsmiddelen;2009 2e kwartaal;119.9;-1.6;-1.0
+222;463 Groothandel in voedingsmiddelen;2009 3e kwartaal;113.8;-1.1;-1.0
+223;463 Groothandel in voedingsmiddelen;2009 4e kwartaal;122.1;0.5;-0.6
+224;463 Groothandel in voedingsmiddelen;2009;116.4;-0.6;-0.6
+225;463 Groothandel in voedingsmiddelen;2010 1e kwartaal;113.6;3.5;3.5
+226;463 Groothandel in voedingsmiddelen;2010 2e kwartaal;128.4;7.0;5.3
+227;463 Groothandel in voedingsmiddelen;2010 3e kwartaal;120.2;5.7;5.5
+228;463 Groothandel in voedingsmiddelen;2010 4e kwartaal;126.2;3.4;4.9
+229;463 Groothandel in voedingsmiddelen;2010;122.1;4.9;4.9
+230;463 Groothandel in voedingsmiddelen;2011 1e kwartaal;118.7;4.6;4.6
+231;463 Groothandel in voedingsmiddelen;2011 2e kwartaal;130.5;1.7;3.0
+232;463 Groothandel in voedingsmiddelen;2011 3e kwartaal;122.0;1.5;2.5
+233;463 Groothandel in voedingsmiddelen;2011 4e kwartaal;123.8;-1.9;1.4
+234;463 Groothandel in voedingsmiddelen;2011;123.8;1.4;1.4
+235;463 Groothandel in voedingsmiddelen;2012 1e kwartaal;124.3;4.7;4.7
+236;463 Groothandel in voedingsmiddelen;2012 2e kwartaal;134.6;3.1;3.9
+237;463 Groothandel in voedingsmiddelen;2012 3e kwartaal;128.2;5.1;4.3
+238;463 Groothandel in voedingsmiddelen;2012 4e kwartaal;131.8;6.5;4.8
+239;463 Groothandel in voedingsmiddelen;2012;129.7;4.8;4.8
+240;4631 Groothandel in groenten, fruit e.d.;2005 1e kwartaal;;;
+241;4631 Groothandel in groenten, fruit e.d.;2005 2e kwartaal;;;
+242;4631 Groothandel in groenten, fruit e.d.;2005 3e kwartaal;;;
+243;4631 Groothandel in groenten, fruit e.d.;2005 4e kwartaal;;;
+244;4631 Groothandel in groenten, fruit e.d.;2005;;;
+245;4631 Groothandel in groenten, fruit e.d.;2006 1e kwartaal;;;
+246;4631 Groothandel in groenten, fruit e.d.;2006 2e kwartaal;;;
+247;4631 Groothandel in groenten, fruit e.d.;2006 3e kwartaal;;;
+248;4631 Groothandel in groenten, fruit e.d.;2006 4e kwartaal;;;
+249;4631 Groothandel in groenten, fruit e.d.;2006;;;
+250;4631 Groothandel in groenten, fruit e.d.;2007 1e kwartaal;110.3;;
+251;4631 Groothandel in groenten, fruit e.d.;2007 2e kwartaal;135.8;;
+252;4631 Groothandel in groenten, fruit e.d.;2007 3e kwartaal;114.7;;
+253;4631 Groothandel in groenten, fruit e.d.;2007 4e kwartaal;110.5;;
+254;4631 Groothandel in groenten, fruit e.d.;2007;117.8;;
+255;4631 Groothandel in groenten, fruit e.d.;2008 1e kwartaal;117.6;6.6;6.6
+256;4631 Groothandel in groenten, fruit e.d.;2008 2e kwartaal;145.1;6.8;6.7
+257;4631 Groothandel in groenten, fruit e.d.;2008 3e kwartaal;121.3;5.7;6.4
+258;4631 Groothandel in groenten, fruit e.d.;2008 4e kwartaal;112.4;1.7;5.3
+259;4631 Groothandel in groenten, fruit e.d.;2008;124.1;5.3;5.3
+260;4631 Groothandel in groenten, fruit e.d.;2009 1e kwartaal;117.3;-0.3;-0.3
+261;4631 Groothandel in groenten, fruit e.d.;2009 2e kwartaal;140.9;-2.9;-1.7
+262;4631 Groothandel in groenten, fruit e.d.;2009 3e kwartaal;113.2;-6.7;-3.3
+263;4631 Groothandel in groenten, fruit e.d.;2009 4e kwartaal;105.7;-5.9;-3.9
+264;4631 Groothandel in groenten, fruit e.d.;2009;119.3;-3.9;-3.9
+265;4631 Groothandel in groenten, fruit e.d.;2010 1e kwartaal;115.2;-1.8;-1.8
+266;4631 Groothandel in groenten, fruit e.d.;2010 2e kwartaal;153.4;8.9;4.1
+267;4631 Groothandel in groenten, fruit e.d.;2010 3e kwartaal;129.4;14.4;7.2
+268;4631 Groothandel in groenten, fruit e.d.;2010 4e kwartaal;122.3;15.7;9.1
+269;4631 Groothandel in groenten, fruit e.d.;2010;130.1;9.1;9.1
+270;4631 Groothandel in groenten, fruit e.d.;2011 1e kwartaal;114.0;-1.0;-1.0
+271;4631 Groothandel in groenten, fruit e.d.;2011 2e kwartaal;135.2;-11.9;-7.2
+272;4631 Groothandel in groenten, fruit e.d.;2011 3e kwartaal;116.9;-9.7;-8.0
+273;4631 Groothandel in groenten, fruit e.d.;2011 4e kwartaal;104.1;-14.9;-9.6
+274;4631 Groothandel in groenten, fruit e.d.;2011;117.5;-9.6;-9.6
+275;4631 Groothandel in groenten, fruit e.d.;2012 1e kwartaal;109.7;-3.8;-3.8
+276;4631 Groothandel in groenten, fruit e.d.;2012 2e kwartaal;139.8;3.4;0.1
+277;4631 Groothandel in groenten, fruit e.d.;2012 3e kwartaal;134.0;14.7;4.8
+278;4631 Groothandel in groenten, fruit e.d.;2012 4e kwartaal;122.2;17.4;7.6
+279;4631 Groothandel in groenten, fruit e.d.;2012;126.5;7.6;7.6
+280;4634 Groothandel in dranken, geen zuivel;2005 1e kwartaal;;;
+281;4634 Groothandel in dranken, geen zuivel;2005 2e kwartaal;;;
+282;4634 Groothandel in dranken, geen zuivel;2005 3e kwartaal;;;
+283;4634 Groothandel in dranken, geen zuivel;2005 4e kwartaal;;;
+284;4634 Groothandel in dranken, geen zuivel;2005;;;
+285;4634 Groothandel in dranken, geen zuivel;2006 1e kwartaal;;;
+286;4634 Groothandel in dranken, geen zuivel;2006 2e kwartaal;;;
+287;4634 Groothandel in dranken, geen zuivel;2006 3e kwartaal;;;
+288;4634 Groothandel in dranken, geen zuivel;2006 4e kwartaal;;;
+289;4634 Groothandel in dranken, geen zuivel;2006;;;
+290;4634 Groothandel in dranken, geen zuivel;2007 1e kwartaal;91.7;;
+291;4634 Groothandel in dranken, geen zuivel;2007 2e kwartaal;112.1;;
+292;4634 Groothandel in dranken, geen zuivel;2007 3e kwartaal;112.2;;
+293;4634 Groothandel in dranken, geen zuivel;2007 4e kwartaal;135.7;;
+294;4634 Groothandel in dranken, geen zuivel;2007;112.9;;
+295;4634 Groothandel in dranken, geen zuivel;2008 1e kwartaal;92.6;1.0;1.0
+296;4634 Groothandel in dranken, geen zuivel;2008 2e kwartaal;106.9;-4.6;-2.1
+297;4634 Groothandel in dranken, geen zuivel;2008 3e kwartaal;120.3;7.2;1.2
+298;4634 Groothandel in dranken, geen zuivel;2008 4e kwartaal;127.9;-5.8;-0.9
+299;4634 Groothandel in dranken, geen zuivel;2008;111.9;-0.9;-0.9
+300;4634 Groothandel in dranken, geen zuivel;2009 1e kwartaal;81.9;-11.5;-11.5
+301;4634 Groothandel in dranken, geen zuivel;2009 2e kwartaal;106.2;-0.7;-5.7
+302;4634 Groothandel in dranken, geen zuivel;2009 3e kwartaal;103.9;-13.6;-8.7
+303;4634 Groothandel in dranken, geen zuivel;2009 4e kwartaal;121.6;-4.9;-7.6
+304;4634 Groothandel in dranken, geen zuivel;2009;103.4;-7.6;-7.6
+305;4634 Groothandel in dranken, geen zuivel;2010 1e kwartaal;84.7;3.4;3.4
+306;4634 Groothandel in dranken, geen zuivel;2010 2e kwartaal;109.5;3.1;3.2
+307;4634 Groothandel in dranken, geen zuivel;2010 3e kwartaal;101.0;-2.8;1.1
+308;4634 Groothandel in dranken, geen zuivel;2010 4e kwartaal;120.5;-0.9;0.5
+309;4634 Groothandel in dranken, geen zuivel;2010;103.9;0.5;0.5
+310;4634 Groothandel in dranken, geen zuivel;2011 1e kwartaal;87.9;3.8;3.8
+311;4634 Groothandel in dranken, geen zuivel;2011 2e kwartaal;108.9;-0.5;1.3
+312;4634 Groothandel in dranken, geen zuivel;2011 3e kwartaal;112.4;11.2;4.7
+313;4634 Groothandel in dranken, geen zuivel;2011 4e kwartaal;125.4;4.1;4.5
+314;4634 Groothandel in dranken, geen zuivel;2011;108.6;4.5;4.5
+315;4634 Groothandel in dranken, geen zuivel;2012 1e kwartaal;92.7;5.4;5.4
+316;4634 Groothandel in dranken, geen zuivel;2012 2e kwartaal;118.6;8.9;7.3
+317;4634 Groothandel in dranken, geen zuivel;2012 3e kwartaal;115.2;2.5;5.6
+318;4634 Groothandel in dranken, geen zuivel;2012 4e kwartaal;128.7;2.6;4.7
+319;4634 Groothandel in dranken, geen zuivel;2012;113.8;4.7;4.7
+320;4639 Groothandel in voeding algemeen;2005 1e kwartaal;;;
+321;4639 Groothandel in voeding algemeen;2005 2e kwartaal;;;
+322;4639 Groothandel in voeding algemeen;2005 3e kwartaal;;;
+323;4639 Groothandel in voeding algemeen;2005 4e kwartaal;;;
+324;4639 Groothandel in voeding algemeen;2005;;;
+325;4639 Groothandel in voeding algemeen;2006 1e kwartaal;;;
+326;4639 Groothandel in voeding algemeen;2006 2e kwartaal;;;
+327;4639 Groothandel in voeding algemeen;2006 3e kwartaal;;;
+328;4639 Groothandel in voeding algemeen;2006 4e kwartaal;;;
+329;4639 Groothandel in voeding algemeen;2006;;;
+330;4639 Groothandel in voeding algemeen;2007 1e kwartaal;114.6;;
+331;4639 Groothandel in voeding algemeen;2007 2e kwartaal;115.1;;
+332;4639 Groothandel in voeding algemeen;2007 3e kwartaal;109.1;;
+333;4639 Groothandel in voeding algemeen;2007 4e kwartaal;124.0;;
+334;4639 Groothandel in voeding algemeen;2007;115.7;;
+335;4639 Groothandel in voeding algemeen;2008 1e kwartaal;122.5;7.0;7.0
+336;4639 Groothandel in voeding algemeen;2008 2e kwartaal;118.6;3.1;5.0
+337;4639 Groothandel in voeding algemeen;2008 3e kwartaal;111.5;2.2;4.1
+338;4639 Groothandel in voeding algemeen;2008 4e kwartaal;121.6;-2.0;2.5
+339;4639 Groothandel in voeding algemeen;2008;118.6;2.5;2.5
+340;4639 Groothandel in voeding algemeen;2009 1e kwartaal;109.0;-11.1;-11.1
+341;4639 Groothandel in voeding algemeen;2009 2e kwartaal;102.6;-13.5;-12.2
+342;4639 Groothandel in voeding algemeen;2009 3e kwartaal;101.7;-8.8;-11.2
+343;4639 Groothandel in voeding algemeen;2009 4e kwartaal;123.3;1.5;-7.9
+344;4639 Groothandel in voeding algemeen;2009;109.2;-7.9;-7.9
+345;4639 Groothandel in voeding algemeen;2010 1e kwartaal;112.0;2.7;2.7
+346;4639 Groothandel in voeding algemeen;2010 2e kwartaal;112.0;9.1;5.8
+347;4639 Groothandel in voeding algemeen;2010 3e kwartaal;107.1;5.4;5.7
+348;4639 Groothandel in voeding algemeen;2010 4e kwartaal;120.5;-2.3;3.4
+349;4639 Groothandel in voeding algemeen;2010;112.9;3.4;3.4
+350;4639 Groothandel in voeding algemeen;2011 1e kwartaal;117.9;5.3;5.3
+351;4639 Groothandel in voeding algemeen;2011 2e kwartaal;109.6;-2.2;1.6
+352;4639 Groothandel in voeding algemeen;2011 3e kwartaal;113.6;6.0;3.0
+353;4639 Groothandel in voeding algemeen;2011 4e kwartaal;118.7;-1.5;1.8
+354;4639 Groothandel in voeding algemeen;2011;114.9;1.8;1.8
+355;4639 Groothandel in voeding algemeen;2012 1e kwartaal;119.1;1.1;1.1
+356;4639 Groothandel in voeding algemeen;2012 2e kwartaal;110.2;0.5;0.8
+357;4639 Groothandel in voeding algemeen;2012 3e kwartaal;109.5;-3.6;-0.7
+358;4639 Groothandel in voeding algemeen;2012 4e kwartaal;118.1;-0.5;-0.6
+359;4639 Groothandel in voeding algemeen;2012;114.2;-0.6;-0.6
+360;464 Groothandel in non-food;2005 1e kwartaal;104.6;;
+361;464 Groothandel in non-food;2005 2e kwartaal;94.1;;
+362;464 Groothandel in non-food;2005 3e kwartaal;101.3;;
+363;464 Groothandel in non-food;2005 4e kwartaal;100.0;;
+364;464 Groothandel in non-food;2005;100.0;;
+365;464 Groothandel in non-food;2006 1e kwartaal;104.5;-0.1;-0.1
+366;464 Groothandel in non-food;2006 2e kwartaal;99.2;5.5;2.5
+367;464 Groothandel in non-food;2006 3e kwartaal;104.4;3.0;2.7
+368;464 Groothandel in non-food;2006 4e kwartaal;103.2;3.3;2.8
+369;464 Groothandel in non-food;2006;102.8;2.8;2.8
+370;464 Groothandel in non-food;2007 1e kwartaal;112.1;7.3;7.3
+371;464 Groothandel in non-food;2007 2e kwartaal;108.1;8.9;8.1
+372;464 Groothandel in non-food;2007 3e kwartaal;113.9;9.1;8.4
+373;464 Groothandel in non-food;2007 4e kwartaal;116.6;13.0;9.6
+374;464 Groothandel in non-food;2007;112.7;9.6;9.6
+375;464 Groothandel in non-food;2008 1e kwartaal;121.6;8.5;8.5
+376;464 Groothandel in non-food;2008 2e kwartaal;113.0;4.5;6.5
+377;464 Groothandel in non-food;2008 3e kwartaal;119.9;5.3;6.1
+378;464 Groothandel in non-food;2008 4e kwartaal;120.0;2.9;5.3
+379;464 Groothandel in non-food;2008;118.6;5.3;5.3
+380;464 Groothandel in non-food;2009 1e kwartaal;116.9;-3.8;-3.8
+381;464 Groothandel in non-food;2009 2e kwartaal;109.2;-3.4;-3.6
+382;464 Groothandel in non-food;2009 3e kwartaal;118.0;-1.6;-2.9
+383;464 Groothandel in non-food;2009 4e kwartaal;116.5;-2.9;-2.9
+384;464 Groothandel in non-food;2009;115.2;-2.9;-2.9
+385;464 Groothandel in non-food;2010 1e kwartaal;117.4;0.4;0.4
+386;464 Groothandel in non-food;2010 2e kwartaal;111.7;2.4;1.3
+387;464 Groothandel in non-food;2010 3e kwartaal;126.7;7.4;3.4
+388;464 Groothandel in non-food;2010 4e kwartaal;127.1;9.1;4.8
+389;464 Groothandel in non-food;2010;120.7;4.8;4.8
+390;464 Groothandel in non-food;2011 1e kwartaal;129.3;10.1;10.1
+391;464 Groothandel in non-food;2011 2e kwartaal;121.1;8.4;9.3
+392;464 Groothandel in non-food;2011 3e kwartaal;132.2;4.3;7.5
+393;464 Groothandel in non-food;2011 4e kwartaal;119.3;-6.1;3.9
+394;464 Groothandel in non-food;2011;125.5;3.9;3.9
+395;464 Groothandel in non-food;2012 1e kwartaal;126.7;-2.0;-2.0
+396;464 Groothandel in non-food;2012 2e kwartaal;121.5;0.3;-0.9
+397;464 Groothandel in non-food;2012 3e kwartaal;134.1;1.4;-0.1
+398;464 Groothandel in non-food;2012 4e kwartaal;120.9;1.3;0.2
+399;464 Groothandel in non-food;2012;125.8;0.2;0.2
+400;4642 Groothandel in kleding en schoenen;2005 1e kwartaal;;;
+401;4642 Groothandel in kleding en schoenen;2005 2e kwartaal;;;
+402;4642 Groothandel in kleding en schoenen;2005 3e kwartaal;;;
+403;4642 Groothandel in kleding en schoenen;2005 4e kwartaal;;;
+404;4642 Groothandel in kleding en schoenen;2005;;;
+405;4642 Groothandel in kleding en schoenen;2006 1e kwartaal;;;
+406;4642 Groothandel in kleding en schoenen;2006 2e kwartaal;;;
+407;4642 Groothandel in kleding en schoenen;2006 3e kwartaal;;;
+408;4642 Groothandel in kleding en schoenen;2006 4e kwartaal;;;
+409;4642 Groothandel in kleding en schoenen;2006;;;
+410;4642 Groothandel in kleding en schoenen;2007 1e kwartaal;123.4;;
+411;4642 Groothandel in kleding en schoenen;2007 2e kwartaal;91.3;;
+412;4642 Groothandel in kleding en schoenen;2007 3e kwartaal;134.7;;
+413;4642 Groothandel in kleding en schoenen;2007 4e kwartaal;96.0;;
+414;4642 Groothandel in kleding en schoenen;2007;111.3;;
+415;4642 Groothandel in kleding en schoenen;2008 1e kwartaal;121.0;-1.9;-1.9
+416;4642 Groothandel in kleding en schoenen;2008 2e kwartaal;92.4;1.2;-0.6
+417;4642 Groothandel in kleding en schoenen;2008 3e kwartaal;136.6;1.4;0.2
+418;4642 Groothandel in kleding en schoenen;2008 4e kwartaal;89.9;-6.4;-1.2
+419;4642 Groothandel in kleding en schoenen;2008;110.0;-1.2;-1.2
+420;4642 Groothandel in kleding en schoenen;2009 1e kwartaal;116.4;-3.8;-3.8
+421;4642 Groothandel in kleding en schoenen;2009 2e kwartaal;88.4;-4.3;-4.0
+422;4642 Groothandel in kleding en schoenen;2009 3e kwartaal;123.3;-9.7;-6.2
+423;4642 Groothandel in kleding en schoenen;2009 4e kwartaal;82.0;-8.8;-6.8
+424;4642 Groothandel in kleding en schoenen;2009;102.5;-6.8;-6.8
+425;4642 Groothandel in kleding en schoenen;2010 1e kwartaal;107.2;-7.9;-7.9
+426;4642 Groothandel in kleding en schoenen;2010 2e kwartaal;69.9;-20.9;-13.5
+427;4642 Groothandel in kleding en schoenen;2010 3e kwartaal;123.2;-0.1;-8.5
+428;4642 Groothandel in kleding en schoenen;2010 4e kwartaal;92.9;13.2;-4.1
+429;4642 Groothandel in kleding en schoenen;2010;98.3;-4.1;-4.1
+430;4642 Groothandel in kleding en schoenen;2011 1e kwartaal;113.3;5.7;5.7
+431;4642 Groothandel in kleding en schoenen;2011 2e kwartaal;76.1;8.8;6.9
+432;4642 Groothandel in kleding en schoenen;2011 3e kwartaal;134.7;9.3;7.9
+433;4642 Groothandel in kleding en schoenen;2011 4e kwartaal;82.8;-10.8;3.5
+434;4642 Groothandel in kleding en schoenen;2011;101.7;3.5;3.5
+435;4642 Groothandel in kleding en schoenen;2012 1e kwartaal;115.3;1.8;1.8
+436;4642 Groothandel in kleding en schoenen;2012 2e kwartaal;68.4;-10.1;-3.0
+437;4642 Groothandel in kleding en schoenen;2012 3e kwartaal;129.6;-3.8;-3.3
+438;4642 Groothandel in kleding en schoenen;2012 4e kwartaal;79.6;-3.9;-3.4
+439;4642 Groothandel in kleding en schoenen;2012;98.2;-3.4;-3.4
+440;4643 Groothandel consumentenapparatuur;2005 1e kwartaal;;;
+441;4643 Groothandel consumentenapparatuur;2005 2e kwartaal;;;
+442;4643 Groothandel consumentenapparatuur;2005 3e kwartaal;;;
+443;4643 Groothandel consumentenapparatuur;2005 4e kwartaal;;;
+444;4643 Groothandel consumentenapparatuur;2005;;;
+445;4643 Groothandel consumentenapparatuur;2006 1e kwartaal;;;
+446;4643 Groothandel consumentenapparatuur;2006 2e kwartaal;;;
+447;4643 Groothandel consumentenapparatuur;2006 3e kwartaal;;;
+448;4643 Groothandel consumentenapparatuur;2006 4e kwartaal;;;
+449;4643 Groothandel consumentenapparatuur;2006;;;
+450;4643 Groothandel consumentenapparatuur;2007 1e kwartaal;81.2;;
+451;4643 Groothandel consumentenapparatuur;2007 2e kwartaal;83.2;;
+452;4643 Groothandel consumentenapparatuur;2007 3e kwartaal;84.8;;
+453;4643 Groothandel consumentenapparatuur;2007 4e kwartaal;113.9;;
+454;4643 Groothandel consumentenapparatuur;2007;90.8;;
+455;4643 Groothandel consumentenapparatuur;2008 1e kwartaal;87.0;7.1;7.1
+456;4643 Groothandel consumentenapparatuur;2008 2e kwartaal;89.0;6.9;7.0
+457;4643 Groothandel consumentenapparatuur;2008 3e kwartaal;81.1;-4.3;3.2
+458;4643 Groothandel consumentenapparatuur;2008 4e kwartaal;93.8;-17.7;-3.4
+459;4643 Groothandel consumentenapparatuur;2008;87.7;-3.4;-3.4
+460;4643 Groothandel consumentenapparatuur;2009 1e kwartaal;71.1;-18.3;-18.3
+461;4643 Groothandel consumentenapparatuur;2009 2e kwartaal;70.7;-20.6;-19.5
+462;4643 Groothandel consumentenapparatuur;2009 3e kwartaal;73.8;-9.0;-16.2
+463;4643 Groothandel consumentenapparatuur;2009 4e kwartaal;91.2;-2.8;-12.6
+464;4643 Groothandel consumentenapparatuur;2009;76.7;-12.6;-12.6
+465;4643 Groothandel consumentenapparatuur;2010 1e kwartaal;75.8;6.6;6.6
+466;4643 Groothandel consumentenapparatuur;2010 2e kwartaal;81.0;14.6;10.6
+467;4643 Groothandel consumentenapparatuur;2010 3e kwartaal;79.4;7.6;9.6
+468;4643 Groothandel consumentenapparatuur;2010 4e kwartaal;98.8;8.4;9.2
+469;4643 Groothandel consumentenapparatuur;2010;83.7;9.2;9.2
+470;4643 Groothandel consumentenapparatuur;2011 1e kwartaal;86.2;13.8;13.8
+471;4643 Groothandel consumentenapparatuur;2011 2e kwartaal;88.7;9.5;11.6
+472;4643 Groothandel consumentenapparatuur;2011 3e kwartaal;80.9;1.8;8.3
+473;4643 Groothandel consumentenapparatuur;2011 4e kwartaal;89.8;-9.1;3.2
+474;4643 Groothandel consumentenapparatuur;2011;86.4;3.2;3.2
+475;4643 Groothandel consumentenapparatuur;2012 1e kwartaal;80.6;-6.5;-6.5
+476;4643 Groothandel consumentenapparatuur;2012 2e kwartaal;82.0;-7.6;-7.0
+477;4643 Groothandel consumentenapparatuur;2012 3e kwartaal;76.5;-5.4;-6.5
+478;4643 Groothandel consumentenapparatuur;2012 4e kwartaal;80.0;-10.9;-7.7
+479;4643 Groothandel consumentenapparatuur;2012;79.8;-7.7;-7.7
+480;465 Groothandel in ICT-apparatuur;2005 1e kwartaal;98.3;;
+481;465 Groothandel in ICT-apparatuur;2005 2e kwartaal;94.5;;
+482;465 Groothandel in ICT-apparatuur;2005 3e kwartaal;95.6;;
+483;465 Groothandel in ICT-apparatuur;2005 4e kwartaal;111.5;;
+484;465 Groothandel in ICT-apparatuur;2005;100.0;;
+485;465 Groothandel in ICT-apparatuur;2006 1e kwartaal;93.6;-4.8;-4.8
+486;465 Groothandel in ICT-apparatuur;2006 2e kwartaal;88.9;-5.9;-5.4
+487;465 Groothandel in ICT-apparatuur;2006 3e kwartaal;92.5;-3.3;-4.7
+488;465 Groothandel in ICT-apparatuur;2006 4e kwartaal;110.2;-1.1;-3.7
+489;465 Groothandel in ICT-apparatuur;2006;96.3;-3.7;-3.7
+490;465 Groothandel in ICT-apparatuur;2007 1e kwartaal;96.5;3.1;3.1
+491;465 Groothandel in ICT-apparatuur;2007 2e kwartaal;95.8;7.7;5.3
+492;465 Groothandel in ICT-apparatuur;2007 3e kwartaal;97.2;5.1;5.3
+493;465 Groothandel in ICT-apparatuur;2007 4e kwartaal;109.9;-0.3;3.7
+494;465 Groothandel in ICT-apparatuur;2007;99.8;3.7;3.7
+495;465 Groothandel in ICT-apparatuur;2008 1e kwartaal;99.3;2.9;2.9
+496;465 Groothandel in ICT-apparatuur;2008 2e kwartaal;99.3;3.7;3.3
+497;465 Groothandel in ICT-apparatuur;2008 3e kwartaal;98.4;1.2;2.6
+498;465 Groothandel in ICT-apparatuur;2008 4e kwartaal;107.8;-1.9;1.4
+499;465 Groothandel in ICT-apparatuur;2008;101.2;1.4;1.4
+500;465 Groothandel in ICT-apparatuur;2009 1e kwartaal;88.4;-11.0;-11.0
+501;465 Groothandel in ICT-apparatuur;2009 2e kwartaal;86.9;-12.5;-11.8
+502;465 Groothandel in ICT-apparatuur;2009 3e kwartaal;84.9;-13.8;-12.4
+503;465 Groothandel in ICT-apparatuur;2009 4e kwartaal;94.7;-12.2;-12.4
+504;465 Groothandel in ICT-apparatuur;2009;88.7;-12.4;-12.4
+505;465 Groothandel in ICT-apparatuur;2010 1e kwartaal;95.6;8.1;8.1
+506;465 Groothandel in ICT-apparatuur;2010 2e kwartaal;100.5;15.6;11.8
+507;465 Groothandel in ICT-apparatuur;2010 3e kwartaal;101.5;19.6;14.3
+508;465 Groothandel in ICT-apparatuur;2010 4e kwartaal;109.8;15.9;14.8
+509;465 Groothandel in ICT-apparatuur;2010;101.8;14.8;14.8
+510;465 Groothandel in ICT-apparatuur;2011 1e kwartaal;99.4;4.0;4.0
+511;465 Groothandel in ICT-apparatuur;2011 2e kwartaal;89.6;-10.8;-3.6
+512;465 Groothandel in ICT-apparatuur;2011 3e kwartaal;107.2;5.7;-0.4
+513;465 Groothandel in ICT-apparatuur;2011 4e kwartaal;120.9;10.1;2.4
+514;465 Groothandel in ICT-apparatuur;2011;104.3;2.4;2.4
+515;465 Groothandel in ICT-apparatuur;2012 1e kwartaal;98.9;-0.5;-0.5
+516;465 Groothandel in ICT-apparatuur;2012 2e kwartaal;101.7;13.5;6.2
+517;465 Groothandel in ICT-apparatuur;2012 3e kwartaal;119.5;11.4;8.1
+518;465 Groothandel in ICT-apparatuur;2012 4e kwartaal;124.0;2.6;6.5
+519;465 Groothandel in ICT-apparatuur;2012;111.0;6.5;6.5
+520;4652 Groothandel in overige elektronica;2005 1e kwartaal;;;
+521;4652 Groothandel in overige elektronica;2005 2e kwartaal;;;
+522;4652 Groothandel in overige elektronica;2005 3e kwartaal;;;
+523;4652 Groothandel in overige elektronica;2005 4e kwartaal;;;
+524;4652 Groothandel in overige elektronica;2005;;;
+525;4652 Groothandel in overige elektronica;2006 1e kwartaal;;;
+526;4652 Groothandel in overige elektronica;2006 2e kwartaal;;;
+527;4652 Groothandel in overige elektronica;2006 3e kwartaal;;;
+528;4652 Groothandel in overige elektronica;2006 4e kwartaal;;;
+529;4652 Groothandel in overige elektronica;2006;;;
+530;4652 Groothandel in overige elektronica;2007 1e kwartaal;121.8;;
+531;4652 Groothandel in overige elektronica;2007 2e kwartaal;128.9;;
+532;4652 Groothandel in overige elektronica;2007 3e kwartaal;124.3;;
+533;4652 Groothandel in overige elektronica;2007 4e kwartaal;135.6;;
+534;4652 Groothandel in overige elektronica;2007;127.7;;
+535;4652 Groothandel in overige elektronica;2008 1e kwartaal;129.0;5.9;5.9
+536;4652 Groothandel in overige elektronica;2008 2e kwartaal;134.2;4.1;5.0
+537;4652 Groothandel in overige elektronica;2008 3e kwartaal;124.4;0.0;3.4
+538;4652 Groothandel in overige elektronica;2008 4e kwartaal;130.4;-3.8;1.5
+539;4652 Groothandel in overige elektronica;2008;129.5;1.5;1.5
+540;4652 Groothandel in overige elektronica;2009 1e kwartaal;114.6;-11.2;-11.2
+541;4652 Groothandel in overige elektronica;2009 2e kwartaal;108.6;-19.1;-15.2
+542;4652 Groothandel in overige elektronica;2009 3e kwartaal;106.4;-14.5;-15.0
+543;4652 Groothandel in overige elektronica;2009 4e kwartaal;117.7;-9.8;-13.7
+544;4652 Groothandel in overige elektronica;2009;111.8;-13.7;-13.7
+545;4652 Groothandel in overige elektronica;2010 1e kwartaal;113.9;-0.7;-0.7
+546;4652 Groothandel in overige elektronica;2010 2e kwartaal;113.2;4.2;1.7
+547;4652 Groothandel in overige elektronica;2010 3e kwartaal;116.0;9.1;4.1
+548;4652 Groothandel in overige elektronica;2010 4e kwartaal;127.7;8.5;5.2
+549;4652 Groothandel in overige elektronica;2010;117.7;5.2;5.2
+550;4652 Groothandel in overige elektronica;2011 1e kwartaal;124.4;9.3;9.3
+551;4652 Groothandel in overige elektronica;2011 2e kwartaal;108.7;-3.9;2.7
+552;4652 Groothandel in overige elektronica;2011 3e kwartaal;117.9;1.6;2.3
+553;4652 Groothandel in overige elektronica;2011 4e kwartaal;126.8;-0.7;1.5
+554;4652 Groothandel in overige elektronica;2011;119.5;1.5;1.5
+555;4652 Groothandel in overige elektronica;2012 1e kwartaal;118.7;-4.6;-4.6
+556;4652 Groothandel in overige elektronica;2012 2e kwartaal;104.7;-3.7;-4.2
+557;4652 Groothandel in overige elektronica;2012 3e kwartaal;111.1;-5.7;-4.7
+558;4652 Groothandel in overige elektronica;2012 4e kwartaal;123.0;-3.0;-4.2
+559;4652 Groothandel in overige elektronica;2012;114.4;-4.2;-4.2
+560;466 Groothandel in industriemachines;2005 1e kwartaal;93.7;;
+561;466 Groothandel in industriemachines;2005 2e kwartaal;100.2;;
+562;466 Groothandel in industriemachines;2005 3e kwartaal;98.0;;
+563;466 Groothandel in industriemachines;2005 4e kwartaal;108.1;;
+564;466 Groothandel in industriemachines;2005;100.0;;
+565;466 Groothandel in industriemachines;2006 1e kwartaal;101.5;8.3;8.3
+566;466 Groothandel in industriemachines;2006 2e kwartaal;105.5;5.3;6.8
+567;466 Groothandel in industriemachines;2006 3e kwartaal;104.7;6.8;6.8
+568;466 Groothandel in industriemachines;2006 4e kwartaal;119.8;10.8;7.9
+569;466 Groothandel in industriemachines;2006;107.9;7.9;7.9
+570;466 Groothandel in industriemachines;2007 1e kwartaal;111.6;9.9;9.9
+571;466 Groothandel in industriemachines;2007 2e kwartaal;116.3;10.2;10.1
+572;466 Groothandel in industriemachines;2007 3e kwartaal;113.4;8.4;9.5
+573;466 Groothandel in industriemachines;2007 4e kwartaal;125.0;4.4;8.1
+574;466 Groothandel in industriemachines;2007;116.6;8.1;8.1
+575;466 Groothandel in industriemachines;2008 1e kwartaal;120.6;8.1;8.1
+576;466 Groothandel in industriemachines;2008 2e kwartaal;125.3;7.7;7.9
+577;466 Groothandel in industriemachines;2008 3e kwartaal;118.2;4.2;6.7
+578;466 Groothandel in industriemachines;2008 4e kwartaal;122.2;-2.2;4.3
+579;466 Groothandel in industriemachines;2008;121.6;4.3;4.3
+580;466 Groothandel in industriemachines;2009 1e kwartaal;105.1;-12.9;-12.9
+581;466 Groothandel in industriemachines;2009 2e kwartaal;105.7;-15.6;-14.2
+582;466 Groothandel in industriemachines;2009 3e kwartaal;98.9;-16.3;-14.9
+583;466 Groothandel in industriemachines;2009 4e kwartaal;106.5;-12.9;-14.4
+584;466 Groothandel in industriemachines;2009;104.0;-14.4;-14.4
+585;466 Groothandel in industriemachines;2010 1e kwartaal;99.9;-4.9;-4.9
+586;466 Groothandel in industriemachines;2010 2e kwartaal;107.1;1.3;-1.8
+587;466 Groothandel in industriemachines;2010 3e kwartaal;106.9;8.1;1.3
+588;466 Groothandel in industriemachines;2010 4e kwartaal;120.2;12.9;4.3
+589;466 Groothandel in industriemachines;2010;108.5;4.3;4.3
+590;466 Groothandel in industriemachines;2011 1e kwartaal;117.0;17.1;17.1
+591;466 Groothandel in industriemachines;2011 2e kwartaal;120.0;12.1;14.5
+592;466 Groothandel in industriemachines;2011 3e kwartaal;119.5;11.8;13.6
+593;466 Groothandel in industriemachines;2011 4e kwartaal;116.8;-2.8;9.1
+594;466 Groothandel in industriemachines;2011;118.3;9.1;9.1
+595;466 Groothandel in industriemachines;2012 1e kwartaal;111.0;-5.1;-5.1
+596;466 Groothandel in industriemachines;2012 2e kwartaal;122.9;2.4;-1.3
+597;466 Groothandel in industriemachines;2012 3e kwartaal;114.3;-4.3;-2.3
+598;466 Groothandel in industriemachines;2012 4e kwartaal;114.4;-2.1;-2.3
+599;466 Groothandel in industriemachines;2012;115.7;-2.3;-2.3
+600;467 Overige gespecialiseerde groothandel;2005 1e kwartaal;89.9;;
+601;467 Overige gespecialiseerde groothandel;2005 2e kwartaal;103.8;;
+602;467 Overige gespecialiseerde groothandel;2005 3e kwartaal;100.3;;
+603;467 Overige gespecialiseerde groothandel;2005 4e kwartaal;106.0;;
+604;467 Overige gespecialiseerde groothandel;2005;100.0;;
+605;467 Overige gespecialiseerde groothandel;2006 1e kwartaal;107.4;19.4;19.4
+606;467 Overige gespecialiseerde groothandel;2006 2e kwartaal;120.4;16.0;17.6
+607;467 Overige gespecialiseerde groothandel;2006 3e kwartaal;116.3;16.0;17.0
+608;467 Overige gespecialiseerde groothandel;2006 4e kwartaal;116.2;9.7;15.1
+609;467 Overige gespecialiseerde groothandel;2006;115.1;15.1;15.1
+610;467 Overige gespecialiseerde groothandel;2007 1e kwartaal;120.8;12.5;12.5
+611;467 Overige gespecialiseerde groothandel;2007 2e kwartaal;131.5;9.2;10.7
+612;467 Overige gespecialiseerde groothandel;2007 3e kwartaal;125.1;7.6;9.7
+613;467 Overige gespecialiseerde groothandel;2007 4e kwartaal;133.3;14.7;10.9
+614;467 Overige gespecialiseerde groothandel;2007;127.7;10.9;10.9
+615;467 Overige gespecialiseerde groothandel;2008 1e kwartaal;136.9;13.4;13.4
+616;467 Overige gespecialiseerde groothandel;2008 2e kwartaal;160.0;21.6;17.7
+617;467 Overige gespecialiseerde groothandel;2008 3e kwartaal;152.4;21.8;19.1
+618;467 Overige gespecialiseerde groothandel;2008 4e kwartaal;127.4;-4.4;12.9
+619;467 Overige gespecialiseerde groothandel;2008;144.2;12.9;12.9
+620;467 Overige gespecialiseerde groothandel;2009 1e kwartaal;111.3;-18.7;-18.7
+621;467 Overige gespecialiseerde groothandel;2009 2e kwartaal;121.8;-23.9;-21.5
+622;467 Overige gespecialiseerde groothandel;2009 3e kwartaal;121.9;-20.0;-21.0
+623;467 Overige gespecialiseerde groothandel;2009 4e kwartaal;124.2;-2.5;-16.9
+624;467 Overige gespecialiseerde groothandel;2009;119.8;-16.9;-16.9
+625;467 Overige gespecialiseerde groothandel;2010 1e kwartaal;127.7;14.7;14.7
+626;467 Overige gespecialiseerde groothandel;2010 2e kwartaal;145.9;19.8;17.3
+627;467 Overige gespecialiseerde groothandel;2010 3e kwartaal;133.8;9.8;14.7
+628;467 Overige gespecialiseerde groothandel;2010 4e kwartaal;145.0;16.7;15.3
+629;467 Overige gespecialiseerde groothandel;2010;138.1;15.3;15.3
+630;467 Overige gespecialiseerde groothandel;2011 1e kwartaal;155.0;21.4;21.4
+631;467 Overige gespecialiseerde groothandel;2011 2e kwartaal;168.3;15.3;18.2
+632;467 Overige gespecialiseerde groothandel;2011 3e kwartaal;157.3;17.5;18.0
+633;467 Overige gespecialiseerde groothandel;2011 4e kwartaal;149.7;3.2;14.1
+634;467 Overige gespecialiseerde groothandel;2011;157.6;14.1;14.1
+635;467 Overige gespecialiseerde groothandel;2012 1e kwartaal;154.8;-0.1;-0.1
+636;467 Overige gespecialiseerde groothandel;2012 2e kwartaal;151.5;-9.9;-5.2
+637;467 Overige gespecialiseerde groothandel;2012 3e kwartaal;147.7;-6.1;-5.5
+638;467 Overige gespecialiseerde groothandel;2012 4e kwartaal;142.0;-5.1;-5.4
+639;467 Overige gespecialiseerde groothandel;2012;149.0;-5.4;-5.4
+640;4671 Groothandel in olie en steenkool;2005 1e kwartaal;;;
+641;4671 Groothandel in olie en steenkool;2005 2e kwartaal;;;
+642;4671 Groothandel in olie en steenkool;2005 3e kwartaal;;;
+643;4671 Groothandel in olie en steenkool;2005 4e kwartaal;;;
+644;4671 Groothandel in olie en steenkool;2005;;;
+645;4671 Groothandel in olie en steenkool;2006 1e kwartaal;;;
+646;4671 Groothandel in olie en steenkool;2006 2e kwartaal;;;
+647;4671 Groothandel in olie en steenkool;2006 3e kwartaal;;;
+648;4671 Groothandel in olie en steenkool;2006 4e kwartaal;;;
+649;4671 Groothandel in olie en steenkool;2006;;;
+650;4671 Groothandel in olie en steenkool;2007 1e kwartaal;125.5;;
+651;4671 Groothandel in olie en steenkool;2007 2e kwartaal;128.0;;
+652;4671 Groothandel in olie en steenkool;2007 3e kwartaal;139.0;;
+653;4671 Groothandel in olie en steenkool;2007 4e kwartaal;153.9;;
+654;4671 Groothandel in olie en steenkool;2007;136.6;;
+655;4671 Groothandel in olie en steenkool;2008 1e kwartaal;149.9;19.4;19.4
+656;4671 Groothandel in olie en steenkool;2008 2e kwartaal;186.1;45.4;32.6
+657;4671 Groothandel in olie en steenkool;2008 3e kwartaal;190.0;36.6;34.0
+658;4671 Groothandel in olie en steenkool;2008 4e kwartaal;151.7;-1.4;24.0
+659;4671 Groothandel in olie en steenkool;2008;169.4;24.0;24.0
+660;4671 Groothandel in olie en steenkool;2009 1e kwartaal;136.4;-9.0;-9.0
+661;4671 Groothandel in olie en steenkool;2009 2e kwartaal;150.6;-19.1;-14.6
+662;4671 Groothandel in olie en steenkool;2009 3e kwartaal;164.3;-13.5;-14.2
+663;4671 Groothandel in olie en steenkool;2009 4e kwartaal;176.2;16.2;-7.4
+664;4671 Groothandel in olie en steenkool;2009;156.9;-7.4;-7.4
+665;4671 Groothandel in olie en steenkool;2010 1e kwartaal;181.0;32.7;32.7
+666;4671 Groothandel in olie en steenkool;2010 2e kwartaal;200.8;33.3;33.0
+667;4671 Groothandel in olie en steenkool;2010 3e kwartaal;183.5;11.7;25.3
+668;4671 Groothandel in olie en steenkool;2010 4e kwartaal;208.1;18.1;23.2
+669;4671 Groothandel in olie en steenkool;2010;193.3;23.2;23.2
+670;4671 Groothandel in olie en steenkool;2011 1e kwartaal;214.0;18.2;18.2
+671;4671 Groothandel in olie en steenkool;2011 2e kwartaal;238.4;18.7;18.5
+672;4671 Groothandel in olie en steenkool;2011 3e kwartaal;230.3;25.5;20.8
+673;4671 Groothandel in olie en steenkool;2011 4e kwartaal;214.0;2.8;15.9
+674;4671 Groothandel in olie en steenkool;2011;224.2;15.9;15.9
+675;4671 Groothandel in olie en steenkool;2012 1e kwartaal;220.9;3.2;3.2
+676;4671 Groothandel in olie en steenkool;2012 2e kwartaal;203.8;-14.5;-6.1
+677;4671 Groothandel in olie en steenkool;2012 3e kwartaal;215.0;-6.7;-6.3
+678;4671 Groothandel in olie en steenkool;2012 4e kwartaal;203.2;-5.0;-6.0
+679;4671 Groothandel in olie en steenkool;2012;210.7;-6.0;-6.0
+680;4672 Groothandel in metaal en erts;2005 1e kwartaal;;;
+681;4672 Groothandel in metaal en erts;2005 2e kwartaal;;;
+682;4672 Groothandel in metaal en erts;2005 3e kwartaal;;;
+683;4672 Groothandel in metaal en erts;2005 4e kwartaal;;;
+684;4672 Groothandel in metaal en erts;2005;;;
+685;4672 Groothandel in metaal en erts;2006 1e kwartaal;;;
+686;4672 Groothandel in metaal en erts;2006 2e kwartaal;;;
+687;4672 Groothandel in metaal en erts;2006 3e kwartaal;;;
+688;4672 Groothandel in metaal en erts;2006 4e kwartaal;;;
+689;4672 Groothandel in metaal en erts;2006;;;
+690;4672 Groothandel in metaal en erts;2007 1e kwartaal;141.7;;
+691;4672 Groothandel in metaal en erts;2007 2e kwartaal;152.6;;
+692;4672 Groothandel in metaal en erts;2007 3e kwartaal;139.0;;
+693;4672 Groothandel in metaal en erts;2007 4e kwartaal;140.3;;
+694;4672 Groothandel in metaal en erts;2007;143.4;;
+695;4672 Groothandel in metaal en erts;2008 1e kwartaal;162.1;14.4;14.4
+696;4672 Groothandel in metaal en erts;2008 2e kwartaal;177.9;16.6;15.5
+697;4672 Groothandel in metaal en erts;2008 3e kwartaal;168.4;21.2;17.3
+698;4672 Groothandel in metaal en erts;2008 4e kwartaal;132.5;-5.5;11.7
+699;4672 Groothandel in metaal en erts;2008;160.2;11.7;11.7
+700;4672 Groothandel in metaal en erts;2009 1e kwartaal;111.7;-31.1;-31.1
+701;4672 Groothandel in metaal en erts;2009 2e kwartaal;105.9;-40.4;-36.0
+702;4672 Groothandel in metaal en erts;2009 3e kwartaal;101.7;-39.6;-37.2
+703;4672 Groothandel in metaal en erts;2009 4e kwartaal;94.7;-28.6;-35.4
+704;4672 Groothandel in metaal en erts;2009;103.5;-35.4;-35.4
+705;4672 Groothandel in metaal en erts;2010 1e kwartaal;98.1;-12.2;-12.2
+706;4672 Groothandel in metaal en erts;2010 2e kwartaal;116.2;9.7;-1.6
+707;4672 Groothandel in metaal en erts;2010 3e kwartaal;111.8;9.9;2.1
+708;4672 Groothandel in metaal en erts;2010 4e kwartaal;117.0;23.6;7.0
+709;4672 Groothandel in metaal en erts;2010;110.8;7.0;7.0
+710;4672 Groothandel in metaal en erts;2011 1e kwartaal;141.4;44.2;44.2
+711;4672 Groothandel in metaal en erts;2011 2e kwartaal;134.8;16.1;28.9
+712;4672 Groothandel in metaal en erts;2011 3e kwartaal;130.1;16.3;24.6
+713;4672 Groothandel in metaal en erts;2011 4e kwartaal;118.6;1.4;18.5
+714;4672 Groothandel in metaal en erts;2011;131.2;18.5;18.5
+715;4672 Groothandel in metaal en erts;2012 1e kwartaal;138.2;-2.3;-2.3
+716;4672 Groothandel in metaal en erts;2012 2e kwartaal;130.1;-3.5;-2.9
+717;4672 Groothandel in metaal en erts;2012 3e kwartaal;127.8;-1.7;-2.5
+718;4672 Groothandel in metaal en erts;2012 4e kwartaal;108.0;-9.0;-4.0
+719;4672 Groothandel in metaal en erts;2012;126.0;-4.0;-4.0
+720;4673 Groothandel in bouwmaterialen;2005 1e kwartaal;;;
+721;4673 Groothandel in bouwmaterialen;2005 2e kwartaal;;;
+722;4673 Groothandel in bouwmaterialen;2005 3e kwartaal;;;
+723;4673 Groothandel in bouwmaterialen;2005 4e kwartaal;;;
+724;4673 Groothandel in bouwmaterialen;2005;;;
+725;4673 Groothandel in bouwmaterialen;2006 1e kwartaal;;;
+726;4673 Groothandel in bouwmaterialen;2006 2e kwartaal;;;
+727;4673 Groothandel in bouwmaterialen;2006 3e kwartaal;;;
+728;4673 Groothandel in bouwmaterialen;2006 4e kwartaal;;;
+729;4673 Groothandel in bouwmaterialen;2006;;;
+730;4673 Groothandel in bouwmaterialen;2007 1e kwartaal;110.8;;
+731;4673 Groothandel in bouwmaterialen;2007 2e kwartaal;130.0;;
+732;4673 Groothandel in bouwmaterialen;2007 3e kwartaal;110.2;;
+733;4673 Groothandel in bouwmaterialen;2007 4e kwartaal;117.3;;
+734;4673 Groothandel in bouwmaterialen;2007;117.1;;
+735;4673 Groothandel in bouwmaterialen;2008 1e kwartaal;115.0;3.8;3.8
+736;4673 Groothandel in bouwmaterialen;2008 2e kwartaal;135.4;4.2;4.0
+737;4673 Groothandel in bouwmaterialen;2008 3e kwartaal;116.9;6.0;4.7
+738;4673 Groothandel in bouwmaterialen;2008 4e kwartaal;121.3;3.4;4.3
+739;4673 Groothandel in bouwmaterialen;2008;122.2;4.3;4.3
+740;4673 Groothandel in bouwmaterialen;2009 1e kwartaal;108.7;-5.5;-5.5
+741;4673 Groothandel in bouwmaterialen;2009 2e kwartaal;120.9;-10.8;-8.3
+742;4673 Groothandel in bouwmaterialen;2009 3e kwartaal;104.2;-10.9;-9.1
+743;4673 Groothandel in bouwmaterialen;2009 4e kwartaal;103.0;-15.1;-10.6
+744;4673 Groothandel in bouwmaterialen;2009;109.2;-10.6;-10.6
+745;4673 Groothandel in bouwmaterialen;2010 1e kwartaal;92.1;-15.2;-15.2
+746;4673 Groothandel in bouwmaterialen;2010 2e kwartaal;115.2;-4.7;-9.7
+747;4673 Groothandel in bouwmaterialen;2010 3e kwartaal;100.9;-3.2;-7.6
+748;4673 Groothandel in bouwmaterialen;2010 4e kwartaal;104.0;0.9;-5.6
+749;4673 Groothandel in bouwmaterialen;2010;103.1;-5.6;-5.6
+750;4673 Groothandel in bouwmaterialen;2011 1e kwartaal;100.7;9.3;9.3
+751;4673 Groothandel in bouwmaterialen;2011 2e kwartaal;119.5;3.7;6.2
+752;4673 Groothandel in bouwmaterialen;2011 3e kwartaal;105.9;5.0;5.8
+753;4673 Groothandel in bouwmaterialen;2011 4e kwartaal;109.2;5.0;5.6
+754;4673 Groothandel in bouwmaterialen;2011;108.8;5.6;5.6
+755;4673 Groothandel in bouwmaterialen;2012 1e kwartaal;95.2;-5.5;-5.5
+756;4673 Groothandel in bouwmaterialen;2012 2e kwartaal;107.0;-10.4;-8.2
+757;4673 Groothandel in bouwmaterialen;2012 3e kwartaal;95.5;-9.8;-8.7
+758;4673 Groothandel in bouwmaterialen;2012 4e kwartaal;97.9;-10.3;-9.1
+759;4673 Groothandel in bouwmaterialen;2012;98.9;-9.1;-9.1
+760;4674 Groothandel metaalwaren, verwarming;2005 1e kwartaal;;;
+761;4674 Groothandel metaalwaren, verwarming;2005 2e kwartaal;;;
+762;4674 Groothandel metaalwaren, verwarming;2005 3e kwartaal;;;
+763;4674 Groothandel metaalwaren, verwarming;2005 4e kwartaal;;;
+764;4674 Groothandel metaalwaren, verwarming;2005;;;
+765;4674 Groothandel metaalwaren, verwarming;2006 1e kwartaal;;;
+766;4674 Groothandel metaalwaren, verwarming;2006 2e kwartaal;;;
+767;4674 Groothandel metaalwaren, verwarming;2006 3e kwartaal;;;
+768;4674 Groothandel metaalwaren, verwarming;2006 4e kwartaal;;;
+769;4674 Groothandel metaalwaren, verwarming;2006;;;
+770;4674 Groothandel metaalwaren, verwarming;2007 1e kwartaal;122.8;;
+771;4674 Groothandel metaalwaren, verwarming;2007 2e kwartaal;125.6;;
+772;4674 Groothandel metaalwaren, verwarming;2007 3e kwartaal;110.5;;
+773;4674 Groothandel metaalwaren, verwarming;2007 4e kwartaal;127.7;;
+774;4674 Groothandel metaalwaren, verwarming;2007;121.6;;
+775;4674 Groothandel metaalwaren, verwarming;2008 1e kwartaal;132.2;7.7;7.7
+776;4674 Groothandel metaalwaren, verwarming;2008 2e kwartaal;138.3;10.2;8.9
+777;4674 Groothandel metaalwaren, verwarming;2008 3e kwartaal;121.4;9.8;9.2
+778;4674 Groothandel metaalwaren, verwarming;2008 4e kwartaal;127.3;-0.3;6.7
+779;4674 Groothandel metaalwaren, verwarming;2008;129.8;6.7;6.7
+780;4674 Groothandel metaalwaren, verwarming;2009 1e kwartaal;121.1;-8.4;-8.4
+781;4674 Groothandel metaalwaren, verwarming;2009 2e kwartaal;124.7;-9.9;-9.1
+782;4674 Groothandel metaalwaren, verwarming;2009 3e kwartaal;104.6;-13.9;-10.6
+783;4674 Groothandel metaalwaren, verwarming;2009 4e kwartaal;113.5;-10.9;-10.7
+784;4674 Groothandel metaalwaren, verwarming;2009;116.0;-10.7;-10.7
+785;4674 Groothandel metaalwaren, verwarming;2010 1e kwartaal;111.3;-8.1;-8.1
+786;4674 Groothandel metaalwaren, verwarming;2010 2e kwartaal;116.8;-6.3;-7.2
+787;4674 Groothandel metaalwaren, verwarming;2010 3e kwartaal;104.6;0.1;-5.0
+788;4674 Groothandel metaalwaren, verwarming;2010 4e kwartaal;113.1;-0.3;-3.9
+789;4674 Groothandel metaalwaren, verwarming;2010;111.5;-3.9;-3.9
+790;4674 Groothandel metaalwaren, verwarming;2011 1e kwartaal;115.3;3.5;3.5
+791;4674 Groothandel metaalwaren, verwarming;2011 2e kwartaal;120.1;2.8;3.2
+792;4674 Groothandel metaalwaren, verwarming;2011 3e kwartaal;108.4;3.6;3.3
+793;4674 Groothandel metaalwaren, verwarming;2011 4e kwartaal;116.3;2.9;3.2
+794;4674 Groothandel metaalwaren, verwarming;2011;115.0;3.2;3.2
+795;4674 Groothandel metaalwaren, verwarming;2012 1e kwartaal;115.1;-0.2;-0.2
+796;4674 Groothandel metaalwaren, verwarming;2012 2e kwartaal;116.8;-2.8;-1.5
+797;4674 Groothandel metaalwaren, verwarming;2012 3e kwartaal;103.5;-4.5;-2.5
+798;4674 Groothandel metaalwaren, verwarming;2012 4e kwartaal;114.5;-1.5;-2.2
+799;4674 Groothandel metaalwaren, verwarming;2012;112.5;-2.2;-2.2
+800;4675 Groothandel in chemische producten;2005 1e kwartaal;;;
+801;4675 Groothandel in chemische producten;2005 2e kwartaal;;;
+802;4675 Groothandel in chemische producten;2005 3e kwartaal;;;
+803;4675 Groothandel in chemische producten;2005 4e kwartaal;;;
+804;4675 Groothandel in chemische producten;2005;;;
+805;4675 Groothandel in chemische producten;2006 1e kwartaal;;;
+806;4675 Groothandel in chemische producten;2006 2e kwartaal;;;
+807;4675 Groothandel in chemische producten;2006 3e kwartaal;;;
+808;4675 Groothandel in chemische producten;2006 4e kwartaal;;;
+809;4675 Groothandel in chemische producten;2006;;;
+810;4675 Groothandel in chemische producten;2007 1e kwartaal;96.6;;
+811;4675 Groothandel in chemische producten;2007 2e kwartaal;111.0;;
+812;4675 Groothandel in chemische producten;2007 3e kwartaal;110.9;;
+813;4675 Groothandel in chemische producten;2007 4e kwartaal;113.2;;
+814;4675 Groothandel in chemische producten;2007;107.9;;
+815;4675 Groothandel in chemische producten;2008 1e kwartaal;120.1;24.3;24.3
+816;4675 Groothandel in chemische producten;2008 2e kwartaal;131.6;18.6;21.3
+817;4675 Groothandel in chemische producten;2008 3e kwartaal;135.6;22.3;21.6
+818;4675 Groothandel in chemische producten;2008 4e kwartaal;102.4;-9.5;13.5
+819;4675 Groothandel in chemische producten;2008;122.4;13.5;13.5
+820;4675 Groothandel in chemische producten;2009 1e kwartaal;75.5;-37.1;-37.1
+821;4675 Groothandel in chemische producten;2009 2e kwartaal;85.9;-34.8;-35.9
+822;4675 Groothandel in chemische producten;2009 3e kwartaal;84.6;-37.6;-36.5
+823;4675 Groothandel in chemische producten;2009 4e kwartaal;77.3;-24.5;-34.0
+824;4675 Groothandel in chemische producten;2009;80.8;-34.0;-34.0
+825;4675 Groothandel in chemische producten;2010 1e kwartaal;93.2;23.4;23.4
+826;4675 Groothandel in chemische producten;2010 2e kwartaal;107.8;25.6;24.6
+827;4675 Groothandel in chemische producten;2010 3e kwartaal;95.0;12.3;20.4
+828;4675 Groothandel in chemische producten;2010 4e kwartaal;95.0;22.9;21.0
+829;4675 Groothandel in chemische producten;2010;97.8;21.0;21.0
+830;4675 Groothandel in chemische producten;2011 1e kwartaal;111.0;19.1;19.1
+831;4675 Groothandel in chemische producten;2011 2e kwartaal;124.5;15.5;17.1
+832;4675 Groothandel in chemische producten;2011 3e kwartaal;99.7;4.9;13.2
+833;4675 Groothandel in chemische producten;2011 4e kwartaal;96.7;1.8;10.4
+834;4675 Groothandel in chemische producten;2011;108.0;10.4;10.4
+835;4675 Groothandel in chemische producten;2012 1e kwartaal;108.3;-2.4;-2.4
+836;4675 Groothandel in chemische producten;2012 2e kwartaal;121.3;-2.6;-2.5
+837;4675 Groothandel in chemische producten;2012 3e kwartaal;102.1;2.5;-1.0
+838;4675 Groothandel in chemische producten;2012 4e kwartaal;102.6;6.1;0.6
+839;4675 Groothandel in chemische producten;2012;108.6;0.6;0.6

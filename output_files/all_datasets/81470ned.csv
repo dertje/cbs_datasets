@@ -1,0 +1,401 @@
+﻿ID;Veiligheid;Persoonskenmerken;Perioden;NietZoGelukkig_1;Gelukkig_2;NietZoTevredenMetHetLeven_3;TevredenMetHetLeven_4
+0;999;Totaal personen;2003;13.0;87.0;13.0;87.0
+1;999;Totaal personen;2004;13.0;87.0;13.0;87.0
+2;999;Totaal personen;2005;13.0;87.0;14.0;86.0
+3;999;Totaal personen;2006;12.0;88.0;13.0;87.0
+4;999;Totaal personen;2007;12.0;88.0;13.0;87.0
+5;999;Totaal personen;2008;12.0;88.0;12.0;88.0
+6;999;Totaal personen;2009;11.0;89.0;13.0;87.0
+7;999;Totaal personen;2010;13.0;87.0;14.0;86.0
+8;999;3000;2003;12.0;88.0;13.0;87.0
+9;999;3000;2004;11.0;89.0;13.0;87.0
+10;999;3000;2005;13.0;87.0;14.0;86.0
+11;999;3000;2006;10.0;90.0;13.0;87.0
+12;999;3000;2007;11.0;89.0;12.0;88.0
+13;999;3000;2008;12.0;88.0;11.0;89.0
+14;999;3000;2009;10.0;90.0;12.0;88.0
+15;999;3000;2010;11.0;89.0;13.0;87.0
+16;999;4000;2003;14.0;86.0;14.0;86.0
+17;999;4000;2004;14.0;86.0;14.0;86.0
+18;999;4000;2005;14.0;86.0;14.0;86.0
+19;999;4000;2006;13.0;87.0;14.0;86.0
+20;999;4000;2007;13.0;87.0;13.0;87.0
+21;999;4000;2008;12.0;88.0;12.0;88.0
+22;999;4000;2009;13.0;87.0;13.0;87.0
+23;999;4000;2010;14.0;86.0;15.0;85.0
+24;999;Leeftijd: 18 tot 35 jaar;2003;9.0;91.0;11.0;89.0
+25;999;Leeftijd: 18 tot 35 jaar;2004;10.0;90.0;12.0;88.0
+26;999;Leeftijd: 18 tot 35 jaar;2005;11.0;89.0;13.0;87.0
+27;999;Leeftijd: 18 tot 35 jaar;2006;8.0;92.0;12.0;88.0
+28;999;Leeftijd: 18 tot 35 jaar;2007;10.0;90.0;10.0;90.0
+29;999;Leeftijd: 18 tot 35 jaar;2008;7.0;93.0;9.0;91.0
+30;999;Leeftijd: 18 tot 35 jaar;2009;9.0;91.0;11.0;89.0
+31;999;Leeftijd: 18 tot 35 jaar;2010;8.0;92.0;11.0;89.0
+32;999;Leeftijd: 35 tot 50 jaar;2003;12.0;88.0;14.0;86.0
+33;999;Leeftijd: 35 tot 50 jaar;2004;12.0;88.0;14.0;86.0
+34;999;Leeftijd: 35 tot 50 jaar;2005;12.0;88.0;14.0;86.0
+35;999;Leeftijd: 35 tot 50 jaar;2006;12.0;88.0;14.0;86.0
+36;999;Leeftijd: 35 tot 50 jaar;2007;11.0;89.0;13.0;87.0
+37;999;Leeftijd: 35 tot 50 jaar;2008;13.0;87.0;14.0;86.0
+38;999;Leeftijd: 35 tot 50 jaar;2009;11.0;89.0;14.0;86.0
+39;999;Leeftijd: 35 tot 50 jaar;2010;12.0;88.0;15.0;85.0
+40;999;Leeftijd: 50 tot 65 jaar;2003;14.0;86.0;13.0;87.0
+41;999;Leeftijd: 50 tot 65 jaar;2004;14.0;86.0;14.0;86.0
+42;999;Leeftijd: 50 tot 65 jaar;2005;15.0;85.0;16.0;84.0
+43;999;Leeftijd: 50 tot 65 jaar;2006;13.0;87.0;15.0;85.0
+44;999;Leeftijd: 50 tot 65 jaar;2007;14.0;86.0;14.0;86.0
+45;999;Leeftijd: 50 tot 65 jaar;2008;13.0;87.0;12.0;88.0
+46;999;Leeftijd: 50 tot 65 jaar;2009;11.0;89.0;13.0;87.0
+47;999;Leeftijd: 50 tot 65 jaar;2010;14.0;86.0;15.0;85.0
+48;999;Leeftijd: 65 jaar of ouder;2003;18.0;82.0;15.0;85.0
+49;999;Leeftijd: 65 jaar of ouder;2004;17.0;83.0;13.0;87.0
+50;999;Leeftijd: 65 jaar of ouder;2005;17.0;83.0;13.0;87.0
+51;999;Leeftijd: 65 jaar of ouder;2006;15.0;85.0;12.0;88.0
+52;999;Leeftijd: 65 jaar of ouder;2007;16.0;84.0;14.0;86.0
+53;999;Leeftijd: 65 jaar of ouder;2008;15.0;85.0;12.0;88.0
+54;999;Leeftijd: 65 jaar of ouder;2009;15.0;85.0;13.0;87.0
+55;999;Leeftijd: 65 jaar of ouder;2010;18.0;82.0;14.0;86.0
+56;999;Herkomst: autochtoon;2003;11.0;89.0;12.0;88.0
+57;999;Herkomst: autochtoon;2004;11.0;89.0;12.0;88.0
+58;999;Herkomst: autochtoon;2005;11.0;89.0;12.0;88.0
+59;999;Herkomst: autochtoon;2006;10.0;90.0;12.0;88.0
+60;999;Herkomst: autochtoon;2007;11.0;89.0;12.0;88.0
+61;999;Herkomst: autochtoon;2008;10.0;90.0;11.0;89.0
+62;999;Herkomst: autochtoon;2009;10.0;90.0;11.0;89.0
+63;999;Herkomst: autochtoon;2010;11.0;89.0;12.0;88.0
+64;999;Herkomst: westerse allochtoon;2003;17.0;83.0;16.0;84.0
+65;999;Herkomst: westerse allochtoon;2004;14.0;86.0;16.0;84.0
+66;999;Herkomst: westerse allochtoon;2005;17.0;83.0;15.0;85.0
+67;999;Herkomst: westerse allochtoon;2006;13.0;87.0;16.0;84.0
+68;999;Herkomst: westerse allochtoon;2007;15.0;85.0;16.0;84.0
+69;999;Herkomst: westerse allochtoon;2008;15.0;85.0;15.0;85.0
+70;999;Herkomst: westerse allochtoon;2009;12.0;88.0;17.0;83.0
+71;999;Herkomst: westerse allochtoon;2010;15.0;85.0;18.0;82.0
+72;999;Herkomst: niet-westerse allochtoon;2003;28.0;72.0;25.0;75.0
+73;999;Herkomst: niet-westerse allochtoon;2004;28.0;72.0;27.0;73.0
+74;999;Herkomst: niet-westerse allochtoon;2005;28.0;72.0;27.0;73.0
+75;999;Herkomst: niet-westerse allochtoon;2006;22.0;78.0;28.0;72.0
+76;999;Herkomst: niet-westerse allochtoon;2007;25.0;75.0;19.0;81.0
+77;999;Herkomst: niet-westerse allochtoon;2008;23.0;77.0;19.0;81.0
+78;999;Herkomst: niet-westerse allochtoon;2009;22.0;78.0;24.0;76.0
+79;999;Herkomst: niet-westerse allochtoon;2010;23.0;77.0;22.0;78.0
+80;12;Totaal personen;2003;34.0;66.0;34.0;66.0
+81;12;Totaal personen;2004;36.0;64.0;33.0;67.0
+82;12;Totaal personen;2005;33.0;67.0;36.0;64.0
+83;12;Totaal personen;2006;40.0;60.0;42.0;58.0
+84;12;Totaal personen;2007;39.0;61.0;39.0;61.0
+85;12;Totaal personen;2008;37.0;63.0;41.0;59.0
+86;12;Totaal personen;2009;31.0;69.0;36.0;64.0
+87;12;Totaal personen;2010;;;;
+88;12;3000;2003;34.0;66.0;35.0;65.0
+89;12;3000;2004;36.0;64.0;35.0;65.0
+90;12;3000;2005;;;;
+91;12;3000;2006;;;;
+92;12;3000;2007;;;;
+93;12;3000;2008;;;;
+94;12;3000;2009;;;;
+95;12;3000;2010;;;;
+96;12;4000;2003;34.0;66.0;33.0;67.0
+97;12;4000;2004;36.0;64.0;32.0;68.0
+98;12;4000;2005;33.0;67.0;33.0;67.0
+99;12;4000;2006;45.0;55.0;44.0;56.0
+100;12;4000;2007;;;;
+101;12;4000;2008;;;;
+102;12;4000;2009;29.0;71.0;35.0;65.0
+103;12;4000;2010;;;;
+104;12;Leeftijd: 18 tot 35 jaar;2003;28.0;72.0;28.0;72.0
+105;12;Leeftijd: 18 tot 35 jaar;2004;31.0;69.0;33.0;67.0
+106;12;Leeftijd: 18 tot 35 jaar;2005;;;;
+107;12;Leeftijd: 18 tot 35 jaar;2006;;;;
+108;12;Leeftijd: 18 tot 35 jaar;2007;;;;
+109;12;Leeftijd: 18 tot 35 jaar;2008;;;;
+110;12;Leeftijd: 18 tot 35 jaar;2009;;;;
+111;12;Leeftijd: 18 tot 35 jaar;2010;;;;
+112;12;Leeftijd: 35 tot 50 jaar;2003;41.0;59.0;45.0;55.0
+113;12;Leeftijd: 35 tot 50 jaar;2004;36.0;64.0;38.0;62.0
+114;12;Leeftijd: 35 tot 50 jaar;2005;;;;
+115;12;Leeftijd: 35 tot 50 jaar;2006;;;;
+116;12;Leeftijd: 35 tot 50 jaar;2007;;;;
+117;12;Leeftijd: 35 tot 50 jaar;2008;;;;
+118;12;Leeftijd: 35 tot 50 jaar;2009;;;;
+119;12;Leeftijd: 35 tot 50 jaar;2010;;;;
+120;12;Leeftijd: 50 tot 65 jaar;2003;28.0;72.0;37.0;63.0
+121;12;Leeftijd: 50 tot 65 jaar;2004;36.0;64.0;32.0;68.0
+122;12;Leeftijd: 50 tot 65 jaar;2005;;;;
+123;12;Leeftijd: 50 tot 65 jaar;2006;;;;
+124;12;Leeftijd: 50 tot 65 jaar;2007;;;;
+125;12;Leeftijd: 50 tot 65 jaar;2008;;;;
+126;12;Leeftijd: 50 tot 65 jaar;2009;;;;
+127;12;Leeftijd: 50 tot 65 jaar;2010;;;;
+128;12;Leeftijd: 65 jaar of ouder;2003;39.0;61.0;26.0;74.0
+129;12;Leeftijd: 65 jaar of ouder;2004;39.0;61.0;26.0;74.0
+130;12;Leeftijd: 65 jaar of ouder;2005;;;;
+131;12;Leeftijd: 65 jaar of ouder;2006;;;;
+132;12;Leeftijd: 65 jaar of ouder;2007;;;;
+133;12;Leeftijd: 65 jaar of ouder;2008;;;;
+134;12;Leeftijd: 65 jaar of ouder;2009;;;;
+135;12;Leeftijd: 65 jaar of ouder;2010;;;;
+136;12;Herkomst: autochtoon;2003;29.0;71.0;30.0;70.0
+137;12;Herkomst: autochtoon;2004;34.0;66.0;29.0;71.0
+138;12;Herkomst: autochtoon;2005;32.0;68.0;32.0;68.0
+139;12;Herkomst: autochtoon;2006;38.0;62.0;44.0;56.0
+140;12;Herkomst: autochtoon;2007;34.0;66.0;30.0;70.0
+141;12;Herkomst: autochtoon;2008;;;;
+142;12;Herkomst: autochtoon;2009;32.0;68.0;33.0;67.0
+143;12;Herkomst: autochtoon;2010;;;;
+144;12;Herkomst: westerse allochtoon;2003;;;;
+145;12;Herkomst: westerse allochtoon;2004;;;;
+146;12;Herkomst: westerse allochtoon;2005;;;;
+147;12;Herkomst: westerse allochtoon;2006;;;;
+148;12;Herkomst: westerse allochtoon;2007;;;;
+149;12;Herkomst: westerse allochtoon;2008;;;;
+150;12;Herkomst: westerse allochtoon;2009;;;;
+151;12;Herkomst: westerse allochtoon;2010;;;;
+152;12;Herkomst: niet-westerse allochtoon;2003;;;;
+153;12;Herkomst: niet-westerse allochtoon;2004;;;;
+154;12;Herkomst: niet-westerse allochtoon;2005;;;;
+155;12;Herkomst: niet-westerse allochtoon;2006;;;;
+156;12;Herkomst: niet-westerse allochtoon;2007;;;;
+157;12;Herkomst: niet-westerse allochtoon;2008;;;;
+158;12;Herkomst: niet-westerse allochtoon;2009;;;;
+159;12;Herkomst: niet-westerse allochtoon;2010;;;;
+160;34;Totaal personen;2003;16.0;84.0;17.0;83.0
+161;34;Totaal personen;2004;17.0;83.0;18.0;82.0
+162;34;Totaal personen;2005;19.0;81.0;23.0;77.0
+163;34;Totaal personen;2006;17.0;83.0;20.0;80.0
+164;34;Totaal personen;2007;18.0;82.0;20.0;80.0
+165;34;Totaal personen;2008;20.0;80.0;19.0;81.0
+166;34;Totaal personen;2009;17.0;83.0;18.0;82.0
+167;34;Totaal personen;2010;14.0;86.0;14.0;86.0
+168;34;3000;2003;17.0;83.0;17.0;83.0
+169;34;3000;2004;17.0;83.0;20.0;80.0
+170;34;3000;2005;22.0;78.0;27.0;73.0
+171;34;3000;2006;18.0;82.0;25.0;75.0
+172;34;3000;2007;14.0;86.0;18.0;82.0
+173;34;3000;2008;27.0;73.0;21.0;79.0
+174;34;3000;2009;16.0;84.0;19.0;81.0
+175;34;3000;2010;10.0;90.0;12.0;88.0
+176;34;4000;2003;16.0;84.0;16.0;84.0
+177;34;4000;2004;17.0;83.0;17.0;83.0
+178;34;4000;2005;18.0;82.0;20.0;80.0
+179;34;4000;2006;16.0;84.0;18.0;82.0
+180;34;4000;2007;20.0;80.0;20.0;80.0
+181;34;4000;2008;17.0;83.0;18.0;82.0
+182;34;4000;2009;17.0;83.0;18.0;82.0
+183;34;4000;2010;16.0;84.0;15.0;85.0
+184;34;Leeftijd: 18 tot 35 jaar;2003;12.0;88.0;14.0;86.0
+185;34;Leeftijd: 18 tot 35 jaar;2004;13.0;87.0;13.0;87.0
+186;34;Leeftijd: 18 tot 35 jaar;2005;15.0;85.0;22.0;78.0
+187;34;Leeftijd: 18 tot 35 jaar;2006;10.0;90.0;18.0;82.0
+188;34;Leeftijd: 18 tot 35 jaar;2007;11.0;89.0;16.0;84.0
+189;34;Leeftijd: 18 tot 35 jaar;2008;14.0;86.0;12.0;88.0
+190;34;Leeftijd: 18 tot 35 jaar;2009;16.0;84.0;15.0;85.0
+191;34;Leeftijd: 18 tot 35 jaar;2010;11.0;89.0;10.0;90.0
+192;34;Leeftijd: 35 tot 50 jaar;2003;16.0;84.0;18.0;82.0
+193;34;Leeftijd: 35 tot 50 jaar;2004;19.0;81.0;23.0;77.0
+194;34;Leeftijd: 35 tot 50 jaar;2005;20.0;80.0;25.0;75.0
+195;34;Leeftijd: 35 tot 50 jaar;2006;18.0;82.0;24.0;76.0
+196;34;Leeftijd: 35 tot 50 jaar;2007;15.0;85.0;20.0;80.0
+197;34;Leeftijd: 35 tot 50 jaar;2008;22.0;78.0;25.0;75.0
+198;34;Leeftijd: 35 tot 50 jaar;2009;15.0;85.0;19.0;81.0
+199;34;Leeftijd: 35 tot 50 jaar;2010;13.0;87.0;20.0;80.0
+200;34;Leeftijd: 50 tot 65 jaar;2003;19.0;81.0;16.0;84.0
+201;34;Leeftijd: 50 tot 65 jaar;2004;18.0;82.0;20.0;80.0
+202;34;Leeftijd: 50 tot 65 jaar;2005;25.0;75.0;26.0;74.0
+203;34;Leeftijd: 50 tot 65 jaar;2006;20.0;80.0;22.0;78.0
+204;34;Leeftijd: 50 tot 65 jaar;2007;30.0;70.0;23.0;77.0
+205;34;Leeftijd: 50 tot 65 jaar;2008;25.0;75.0;25.0;75.0
+206;34;Leeftijd: 50 tot 65 jaar;2009;17.0;83.0;18.0;82.0
+207;34;Leeftijd: 50 tot 65 jaar;2010;14.0;86.0;13.0;87.0
+208;34;Leeftijd: 65 jaar of ouder;2003;23.0;77.0;21.0;79.0
+209;34;Leeftijd: 65 jaar of ouder;2004;25.0;75.0;15.0;85.0
+210;34;Leeftijd: 65 jaar of ouder;2005;20.0;80.0;13.0;87.0
+211;34;Leeftijd: 65 jaar of ouder;2006;25.0;75.0;15.0;85.0
+212;34;Leeftijd: 65 jaar of ouder;2007;22.0;78.0;22.0;78.0
+213;34;Leeftijd: 65 jaar of ouder;2008;21.0;79.0;14.0;86.0
+214;34;Leeftijd: 65 jaar of ouder;2009;21.0;79.0;20.0;80.0
+215;34;Leeftijd: 65 jaar of ouder;2010;;;;
+216;34;Herkomst: autochtoon;2003;14.0;86.0;15.0;85.0
+217;34;Herkomst: autochtoon;2004;14.0;86.0;15.0;85.0
+218;34;Herkomst: autochtoon;2005;16.0;84.0;19.0;81.0
+219;34;Herkomst: autochtoon;2006;14.0;86.0;17.0;83.0
+220;34;Herkomst: autochtoon;2007;15.0;85.0;18.0;82.0
+221;34;Herkomst: autochtoon;2008;17.0;83.0;17.0;83.0
+222;34;Herkomst: autochtoon;2009;16.0;84.0;17.0;83.0
+223;34;Herkomst: autochtoon;2010;12.0;88.0;11.0;89.0
+224;34;Herkomst: westerse allochtoon;2003;19.0;81.0;17.0;83.0
+225;34;Herkomst: westerse allochtoon;2004;23.0;77.0;22.0;78.0
+226;34;Herkomst: westerse allochtoon;2005;21.0;79.0;22.0;78.0
+227;34;Herkomst: westerse allochtoon;2006;22.0;78.0;23.0;77.0
+228;34;Herkomst: westerse allochtoon;2007;;;;
+229;34;Herkomst: westerse allochtoon;2008;;;;
+230;34;Herkomst: westerse allochtoon;2009;15.0;85.0;21.0;79.0
+231;34;Herkomst: westerse allochtoon;2010;;;;
+232;34;Herkomst: niet-westerse allochtoon;2003;36.0;64.0;27.0;73.0
+233;34;Herkomst: niet-westerse allochtoon;2004;35.0;65.0;34.0;66.0
+234;34;Herkomst: niet-westerse allochtoon;2005;39.0;61.0;43.0;57.0
+235;34;Herkomst: niet-westerse allochtoon;2006;;;;
+236;34;Herkomst: niet-westerse allochtoon;2007;;;;
+237;34;Herkomst: niet-westerse allochtoon;2008;;;;
+238;34;Herkomst: niet-westerse allochtoon;2009;26.0;74.0;21.0;79.0
+239;34;Herkomst: niet-westerse allochtoon;2010;;;;
+240;56;Totaal personen;2003;12.0;88.0;15.0;85.0
+241;56;Totaal personen;2004;12.0;88.0;13.0;87.0
+242;56;Totaal personen;2005;11.0;89.0;13.0;87.0
+243;56;Totaal personen;2006;13.0;87.0;18.0;82.0
+244;56;Totaal personen;2007;12.0;88.0;13.0;87.0
+245;56;Totaal personen;2008;14.0;86.0;14.0;86.0
+246;56;Totaal personen;2009;9.0;91.0;11.0;89.0
+247;56;Totaal personen;2010;12.0;88.0;13.0;87.0
+248;56;3000;2003;11.0;89.0;13.0;87.0
+249;56;3000;2004;12.0;88.0;13.0;87.0
+250;56;3000;2005;11.0;89.0;15.0;85.0
+251;56;3000;2006;14.0;86.0;21.0;79.0
+252;56;3000;2007;15.0;85.0;15.0;85.0
+253;56;3000;2008;17.0;83.0;16.0;84.0
+254;56;3000;2009;9.0;91.0;9.0;91.0
+255;56;3000;2010;;;;
+256;56;4000;2003;14.0;86.0;17.0;83.0
+257;56;4000;2004;13.0;87.0;14.0;86.0
+258;56;4000;2005;11.0;89.0;12.0;88.0
+259;56;4000;2006;12.0;88.0;15.0;85.0
+260;56;4000;2007;10.0;90.0;11.0;89.0
+261;56;4000;2008;11.0;89.0;13.0;87.0
+262;56;4000;2009;9.0;91.0;12.0;88.0
+263;56;4000;2010;10.0;90.0;11.0;89.0
+264;56;Leeftijd: 18 tot 35 jaar;2003;9.0;91.0;12.0;88.0
+265;56;Leeftijd: 18 tot 35 jaar;2004;12.0;88.0;14.0;86.0
+266;56;Leeftijd: 18 tot 35 jaar;2005;6.0;94.0;11.0;89.0
+267;56;Leeftijd: 18 tot 35 jaar;2006;9.0;91.0;16.0;84.0
+268;56;Leeftijd: 18 tot 35 jaar;2007;10.0;90.0;12.0;88.0
+269;56;Leeftijd: 18 tot 35 jaar;2008;8.0;92.0;7.0;93.0
+270;56;Leeftijd: 18 tot 35 jaar;2009;7.0;93.0;10.0;90.0
+271;56;Leeftijd: 18 tot 35 jaar;2010;;;;
+272;56;Leeftijd: 35 tot 50 jaar;2003;14.0;86.0;16.0;84.0
+273;56;Leeftijd: 35 tot 50 jaar;2004;12.0;88.0;12.0;88.0
+274;56;Leeftijd: 35 tot 50 jaar;2005;12.0;88.0;14.0;86.0
+275;56;Leeftijd: 35 tot 50 jaar;2006;14.0;86.0;21.0;79.0
+276;56;Leeftijd: 35 tot 50 jaar;2007;12.0;88.0;16.0;84.0
+277;56;Leeftijd: 35 tot 50 jaar;2008;15.0;85.0;19.0;81.0
+278;56;Leeftijd: 35 tot 50 jaar;2009;10.0;90.0;11.0;89.0
+279;56;Leeftijd: 35 tot 50 jaar;2010;;;;
+280;56;Leeftijd: 50 tot 65 jaar;2003;17.0;83.0;18.0;82.0
+281;56;Leeftijd: 50 tot 65 jaar;2004;11.0;89.0;15.0;85.0
+282;56;Leeftijd: 50 tot 65 jaar;2005;;;;
+283;56;Leeftijd: 50 tot 65 jaar;2006;;;;
+284;56;Leeftijd: 50 tot 65 jaar;2007;;;;
+285;56;Leeftijd: 50 tot 65 jaar;2008;;;;
+286;56;Leeftijd: 50 tot 65 jaar;2009;11.0;89.0;11.0;89.0
+287;56;Leeftijd: 50 tot 65 jaar;2010;;;;
+288;56;Leeftijd: 65 jaar of ouder;2003;14.0;86.0;19.0;81.0
+289;56;Leeftijd: 65 jaar of ouder;2004;;;;
+290;56;Leeftijd: 65 jaar of ouder;2005;;;;
+291;56;Leeftijd: 65 jaar of ouder;2006;;;;
+292;56;Leeftijd: 65 jaar of ouder;2007;;;;
+293;56;Leeftijd: 65 jaar of ouder;2008;;;;
+294;56;Leeftijd: 65 jaar of ouder;2009;;;;
+295;56;Leeftijd: 65 jaar of ouder;2010;;;;
+296;56;Herkomst: autochtoon;2003;11.0;89.0;13.0;87.0
+297;56;Herkomst: autochtoon;2004;12.0;88.0;14.0;86.0
+298;56;Herkomst: autochtoon;2005;10.0;90.0;12.0;88.0
+299;56;Herkomst: autochtoon;2006;13.0;87.0;19.0;81.0
+300;56;Herkomst: autochtoon;2007;12.0;88.0;13.0;87.0
+301;56;Herkomst: autochtoon;2008;14.0;86.0;14.0;86.0
+302;56;Herkomst: autochtoon;2009;8.0;92.0;9.0;91.0
+303;56;Herkomst: autochtoon;2010;11.0;89.0;12.0;88.0
+304;56;Herkomst: westerse allochtoon;2003;;;;
+305;56;Herkomst: westerse allochtoon;2004;;;;
+306;56;Herkomst: westerse allochtoon;2005;;;;
+307;56;Herkomst: westerse allochtoon;2006;;;;
+308;56;Herkomst: westerse allochtoon;2007;;;;
+309;56;Herkomst: westerse allochtoon;2008;;;;
+310;56;Herkomst: westerse allochtoon;2009;;;;
+311;56;Herkomst: westerse allochtoon;2010;;;;
+312;56;Herkomst: niet-westerse allochtoon;2003;;;;
+313;56;Herkomst: niet-westerse allochtoon;2004;;;;
+314;56;Herkomst: niet-westerse allochtoon;2005;;;;
+315;56;Herkomst: niet-westerse allochtoon;2006;;;;
+316;56;Herkomst: niet-westerse allochtoon;2007;;;;
+317;56;Herkomst: niet-westerse allochtoon;2008;;;;
+318;56;Herkomst: niet-westerse allochtoon;2009;;;;
+319;56;Herkomst: niet-westerse allochtoon;2010;;;;
+320;78;Totaal personen;2003;11.0;89.0;12.0;88.0
+321;78;Totaal personen;2004;11.0;89.0;12.0;88.0
+322;78;Totaal personen;2005;12.0;88.0;12.0;88.0
+323;78;Totaal personen;2006;10.0;90.0;11.0;89.0
+324;78;Totaal personen;2007;11.0;89.0;11.0;89.0
+325;78;Totaal personen;2008;10.0;90.0;10.0;90.0
+326;78;Totaal personen;2009;9.0;91.0;10.0;90.0
+327;78;Totaal personen;2010;11.0;89.0;13.0;87.0
+328;78;3000;2003;11.0;89.0;11.0;89.0
+329;78;3000;2004;10.0;90.0;11.0;89.0
+330;78;3000;2005;11.0;89.0;12.0;88.0
+331;78;3000;2006;9.0;91.0;11.0;89.0
+332;78;3000;2007;10.0;90.0;11.0;89.0
+333;78;3000;2008;10.0;90.0;10.0;90.0
+334;78;3000;2009;8.0;92.0;10.0;90.0
+335;78;3000;2010;10.0;90.0;12.0;88.0
+336;78;4000;2003;12.0;88.0;12.0;88.0
+337;78;4000;2004;12.0;88.0;13.0;87.0
+338;78;4000;2005;12.0;88.0;12.0;88.0
+339;78;4000;2006;12.0;88.0;12.0;88.0
+340;78;4000;2007;11.0;89.0;11.0;89.0
+341;78;4000;2008;10.0;90.0;10.0;90.0
+342;78;4000;2009;11.0;89.0;10.0;90.0
+343;78;4000;2010;13.0;87.0;14.0;86.0
+344;78;Leeftijd: 18 tot 35 jaar;2003;8.0;92.0;10.0;90.0
+345;78;Leeftijd: 18 tot 35 jaar;2004;8.0;92.0;11.0;89.0
+346;78;Leeftijd: 18 tot 35 jaar;2005;10.0;90.0;11.0;89.0
+347;78;Leeftijd: 18 tot 35 jaar;2006;7.0;93.0;10.0;90.0
+348;78;Leeftijd: 18 tot 35 jaar;2007;9.0;91.0;9.0;91.0
+349;78;Leeftijd: 18 tot 35 jaar;2008;6.0;94.0;9.0;91.0
+350;78;Leeftijd: 18 tot 35 jaar;2009;6.0;94.0;9.0;91.0
+351;78;Leeftijd: 18 tot 35 jaar;2010;6.0;94.0;10.0;90.0
+352;78;Leeftijd: 35 tot 50 jaar;2003;10.0;90.0;12.0;88.0
+353;78;Leeftijd: 35 tot 50 jaar;2004;10.0;90.0;12.0;88.0
+354;78;Leeftijd: 35 tot 50 jaar;2005;10.0;90.0;11.0;89.0
+355;78;Leeftijd: 35 tot 50 jaar;2006;10.0;90.0;12.0;88.0
+356;78;Leeftijd: 35 tot 50 jaar;2007;10.0;90.0;12.0;88.0
+357;78;Leeftijd: 35 tot 50 jaar;2008;11.0;89.0;11.0;89.0
+358;78;Leeftijd: 35 tot 50 jaar;2009;9.0;91.0;12.0;88.0
+359;78;Leeftijd: 35 tot 50 jaar;2010;11.0;89.0;14.0;86.0
+360;78;Leeftijd: 50 tot 65 jaar;2003;12.0;88.0;12.0;88.0
+361;78;Leeftijd: 50 tot 65 jaar;2004;12.0;88.0;12.0;88.0
+362;78;Leeftijd: 50 tot 65 jaar;2005;12.0;88.0;14.0;86.0
+363;78;Leeftijd: 50 tot 65 jaar;2006;11.0;89.0;12.0;88.0
+364;78;Leeftijd: 50 tot 65 jaar;2007;12.0;88.0;12.0;88.0
+365;78;Leeftijd: 50 tot 65 jaar;2008;11.0;89.0;10.0;90.0
+366;78;Leeftijd: 50 tot 65 jaar;2009;9.0;91.0;10.0;90.0
+367;78;Leeftijd: 50 tot 65 jaar;2010;13.0;87.0;14.0;86.0
+368;78;Leeftijd: 65 jaar of ouder;2003;16.0;84.0;13.0;87.0
+369;78;Leeftijd: 65 jaar of ouder;2004;15.0;85.0;12.0;88.0
+370;78;Leeftijd: 65 jaar of ouder;2005;15.0;85.0;11.0;89.0
+371;78;Leeftijd: 65 jaar of ouder;2006;13.0;87.0;11.0;89.0
+372;78;Leeftijd: 65 jaar of ouder;2007;15.0;85.0;13.0;87.0
+373;78;Leeftijd: 65 jaar of ouder;2008;13.0;87.0;11.0;89.0
+374;78;Leeftijd: 65 jaar of ouder;2009;13.0;87.0;10.0;90.0
+375;78;Leeftijd: 65 jaar of ouder;2010;17.0;83.0;13.0;87.0
+376;78;Herkomst: autochtoon;2003;10.0;90.0;10.0;90.0
+377;78;Herkomst: autochtoon;2004;10.0;90.0;11.0;89.0
+378;78;Herkomst: autochtoon;2005;10.0;90.0;11.0;89.0
+379;78;Herkomst: autochtoon;2006;9.0;91.0;10.0;90.0
+380;78;Herkomst: autochtoon;2007;9.0;91.0;10.0;90.0
+381;78;Herkomst: autochtoon;2008;9.0;91.0;9.0;91.0
+382;78;Herkomst: autochtoon;2009;8.0;92.0;9.0;91.0
+383;78;Herkomst: autochtoon;2010;10.0;90.0;12.0;88.0
+384;78;Herkomst: westerse allochtoon;2003;14.0;86.0;13.0;87.0
+385;78;Herkomst: westerse allochtoon;2004;12.0;88.0;14.0;86.0
+386;78;Herkomst: westerse allochtoon;2005;15.0;85.0;12.0;88.0
+387;78;Herkomst: westerse allochtoon;2006;11.0;89.0;14.0;86.0
+388;78;Herkomst: westerse allochtoon;2007;14.0;86.0;14.0;86.0
+389;78;Herkomst: westerse allochtoon;2008;13.0;87.0;12.0;88.0
+390;78;Herkomst: westerse allochtoon;2009;11.0;89.0;14.0;86.0
+391;78;Herkomst: westerse allochtoon;2010;12.0;88.0;13.0;87.0
+392;78;Herkomst: niet-westerse allochtoon;2003;24.0;76.0;22.0;78.0
+393;78;Herkomst: niet-westerse allochtoon;2004;24.0;76.0;25.0;75.0
+394;78;Herkomst: niet-westerse allochtoon;2005;26.0;74.0;22.0;78.0
+395;78;Herkomst: niet-westerse allochtoon;2006;20.0;80.0;25.0;75.0
+396;78;Herkomst: niet-westerse allochtoon;2007;21.0;79.0;16.0;84.0
+397;78;Herkomst: niet-westerse allochtoon;2008;20.0;80.0;17.0;83.0
+398;78;Herkomst: niet-westerse allochtoon;2009;19.0;81.0;24.0;76.0
+399;78;Herkomst: niet-westerse allochtoon;2010;20.0;80.0;19.0;81.0

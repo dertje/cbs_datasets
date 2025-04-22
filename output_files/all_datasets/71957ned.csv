@@ -1,0 +1,859 @@
+﻿ID;PositieVanMoedersInHetHuishouden;Persoonskenmerken;Perioden;TotaalMoeders15Tot65Jaar_1;TotaalMoedersWerkzameBeroepsbevolking_2;Werkt12Tot28UurPerWeek_3;Werkt28Tot35UurPerWeek_4;Werkt35UurOfMeerPerWeek_5;WilWerkVanTwaalfUurOfMeerPerWeek_6;WilKanNiet12UurPerWeekWerken_7;ZorgVoorGezinOfHuishouden_8;OverigeRedenen_9
+0;Totaal alleenst. en samenwonende moeders;10;2001;1928.0;1072.0;727.0;174.0;171.0;173.0;683.0;503.0;180.0
+1;Totaal alleenst. en samenwonende moeders;10;2002;1945.0;1124.0;767.0;188.0;168.0;175.0;646.0;465.0;182.0
+2;Totaal alleenst. en samenwonende moeders;10;2003;1966.0;1158.0;784.0;204.0;170.0;194.0;614.0;426.0;188.0
+3;Totaal alleenst. en samenwonende moeders;10;2004;1960.0;1172.0;797.0;207.0;168.0;220.0;569.0;382.0;187.0
+4;Totaal alleenst. en samenwonende moeders;10;2005;1952.0;1189.0;807.0;213.0;168.0;244.0;520.0;350.0;169.0
+5;Totaal alleenst. en samenwonende moeders;10;2006;1935.0;1230.0;812.0;237.0;181.0;226.0;479.0;317.0;162.0
+6;Totaal alleenst. en samenwonende moeders;10;2007;1939.0;1288.0;838.0;260.0;190.0;198.0;452.0;283.0;169.0
+7;Totaal alleenst. en samenwonende moeders;10;2008;1916.0;1326.0;843.0;283.0;200.0;168.0;423.0;260.0;163.0
+8;Totaal alleenst. en samenwonende moeders;10;2009;1909.0;1343.0;838.0;298.0;208.0;172.0;394.0;234.0;160.0
+9;Totaal alleenst. en samenwonende moeders;10;2010;1894.0;1340.0;833.0;301.0;206.0;186.0;368.0;218.0;149.0
+10;Totaal alleenst. en samenwonende moeders;10;2011;1872.0;1334.0;820.0;304.0;211.0;174.0;364.0;217.0;147.0
+11;Totaal alleenst. en samenwonende moeders;10;2012;1882.0;1342.0;804.0;323.0;215.0;194.0;347.0;203.0;144.0
+12;Totaal alleenst. en samenwonende moeders;10;2013;1877.0;1314.0;767.0;329.0;218.0;236.0;328.0;180.0;148.0
+13;Totaal alleenst. en samenwonende moeders;12600;2001;1507.0;874.0;626.0;133.0;115.0;121.0;512.0;385.0;126.0
+14;Totaal alleenst. en samenwonende moeders;12600;2002;1512.0;914.0;661.0;141.0;112.0;117.0;482.0;357.0;124.0
+15;Totaal alleenst. en samenwonende moeders;12600;2003;1524.0;947.0;674.0;159.0;115.0;125.0;452.0;326.0;127.0
+16;Totaal alleenst. en samenwonende moeders;12600;2004;1508.0;955.0;684.0;158.0;112.0;144.0;410.0;288.0;121.0
+17;Totaal alleenst. en samenwonende moeders;12600;2005;1494.0;963.0;689.0;164.0;111.0;160.0;371.0;261.0;111.0
+18;Totaal alleenst. en samenwonende moeders;12600;2006;1474.0;1002.0;696.0;183.0;123.0;135.0;336.0;233.0;103.0
+19;Totaal alleenst. en samenwonende moeders;12600;2007;1471.0;1044.0;719.0;198.0;127.0;118.0;308.0;202.0;106.0
+20;Totaal alleenst. en samenwonende moeders;12600;2008;1440.0;1057.0;714.0;209.0;134.0;102.0;281.0;183.0;98.0
+21;Totaal alleenst. en samenwonende moeders;12600;2009;1427.0;1069.0;707.0;222.0;141.0;102.0;255.0;161.0;95.0
+22;Totaal alleenst. en samenwonende moeders;12600;2010;1423.0;1077.0;706.0;230.0;140.0;110.0;237.0;148.0;88.0
+23;Totaal alleenst. en samenwonende moeders;12600;2011;1408.0;1071.0;694.0;233.0;144.0;101.0;236.0;148.0;88.0
+24;Totaal alleenst. en samenwonende moeders;12600;2012;1393.0;1071.0;672.0;250.0;149.0;108.0;214.0;130.0;84.0
+25;Totaal alleenst. en samenwonende moeders;12600;2013;1377.0;1050.0;637.0;257.0;155.0;128.0;199.0;115.0;84.0
+26;Totaal alleenst. en samenwonende moeders;12650;2001;177.0;99.0;60.0;20.0;20.0;18.0;60.0;43.0;17.0
+27;Totaal alleenst. en samenwonende moeders;12650;2002;177.0;103.0;63.0;22.0;19.0;20.0;54.0;37.0;17.0
+28;Totaal alleenst. en samenwonende moeders;12650;2003;180.0;104.0;65.0;21.0;19.0;23.0;53.0;34.0;19.0
+29;Totaal alleenst. en samenwonende moeders;12650;2004;183.0;111.0;68.0;23.0;20.0;26.0;47.0;29.0;18.0
+30;Totaal alleenst. en samenwonende moeders;12650;2005;182.0;115.0;71.0;21.0;22.0;27.0;40.0;26.0;15.0
+31;Totaal alleenst. en samenwonende moeders;12650;2006;180.0;116.0;66.0;26.0;24.0;27.0;37.0;24.0;13.0
+32;Totaal alleenst. en samenwonende moeders;12650;2007;185.0;122.0;69.0;28.0;25.0;27.0;36.0;21.0;15.0
+33;Totaal alleenst. en samenwonende moeders;12650;2008;185.0;128.0;69.0;33.0;27.0;20.0;37.0;22.0;15.0
+34;Totaal alleenst. en samenwonende moeders;12650;2009;188.0;130.0;68.0;36.0;26.0;23.0;36.0;20.0;15.0
+35;Totaal alleenst. en samenwonende moeders;12650;2010;182.0;124.0;62.0;34.0;28.0;24.0;35.0;21.0;14.0
+36;Totaal alleenst. en samenwonende moeders;12650;2011;182.0;124.0;63.0;33.0;28.0;23.0;35.0;19.0;16.0
+37;Totaal alleenst. en samenwonende moeders;12650;2012;189.0;130.0;68.0;33.0;30.0;23.0;36.0;20.0;16.0
+38;Totaal alleenst. en samenwonende moeders;12650;2013;194.0;126.0;66.0;32.0;29.0;34.0;34.0;19.0;14.0
+39;Totaal alleenst. en samenwonende moeders;13000;2001;242.0;97.0;40.0;21.0;36.0;34.0;111.0;75.0;36.0
+40;Totaal alleenst. en samenwonende moeders;13000;2002;254.0;105.0;43.0;25.0;37.0;39.0;110.0;70.0;40.0
+41;Totaal alleenst. en samenwonende moeders;13000;2003;261.0;107.0;46.0;24.0;37.0;46.0;109.0;67.0;42.0
+42;Totaal alleenst. en samenwonende moeders;13000;2004;268.0;106.0;45.0;25.0;35.0;50.0;112.0;64.0;48.0
+43;Totaal alleenst. en samenwonende moeders;13000;2005;275.0;110.0;47.0;28.0;35.0;57.0;108.0;64.0;44.0
+44;Totaal alleenst. en samenwonende moeders;13000;2006;281.0;111.0;49.0;28.0;35.0;64.0;106.0;60.0;46.0
+45;Totaal alleenst. en samenwonende moeders;13000;2007;282.0;122.0;51.0;33.0;38.0;53.0;107.0;59.0;48.0
+46;Totaal alleenst. en samenwonende moeders;13000;2008;291.0;141.0;60.0;40.0;40.0;46.0;104.0;54.0;50.0
+47;Totaal alleenst. en samenwonende moeders;13000;2009;294.0;144.0;64.0;39.0;41.0;47.0;103.0;53.0;51.0
+48;Totaal alleenst. en samenwonende moeders;13000;2010;287.0;138.0;64.0;36.0;38.0;53.0;96.0;49.0;46.0
+49;Totaal alleenst. en samenwonende moeders;13000;2011;281.0;138.0;62.0;37.0;38.0;50.0;94.0;51.0;43.0
+50;Totaal alleenst. en samenwonende moeders;13000;2012;299.0;141.0;65.0;40.0;36.0;62.0;96.0;52.0;44.0
+51;Totaal alleenst. en samenwonende moeders;13000;2013;305.0;137.0;64.0;40.0;34.0;74.0;94.0;45.0;49.0
+52;Totaal alleenst. en samenwonende moeders;13355;2001;3.0;;;;;;;;
+53;Totaal alleenst. en samenwonende moeders;13355;2002;2.0;;;;;;;;
+54;Totaal alleenst. en samenwonende moeders;13355;2003;;;;;;;;;
+55;Totaal alleenst. en samenwonende moeders;13355;2004;;;;;;;;;
+56;Totaal alleenst. en samenwonende moeders;13355;2005;;;;;;;;;
+57;Totaal alleenst. en samenwonende moeders;13355;2006;;;;;;;;;
+58;Totaal alleenst. en samenwonende moeders;13355;2007;;;;;;;;;
+59;Totaal alleenst. en samenwonende moeders;13355;2008;;;;;;;;;
+60;Totaal alleenst. en samenwonende moeders;13355;2009;;;;;;;;;
+61;Totaal alleenst. en samenwonende moeders;13355;2010;2.0;;;;;;;;
+62;Totaal alleenst. en samenwonende moeders;13355;2011;;;;;;;;;
+63;Totaal alleenst. en samenwonende moeders;13355;2012;;;;;;;;;
+64;Totaal alleenst. en samenwonende moeders;13355;2013;;;;;;;;;
+65;Totaal alleenst. en samenwonende moeders;18700;2001;673.0;263.0;176.0;36.0;50.0;76.0;334.0;235.0;99.0
+66;Totaal alleenst. en samenwonende moeders;18700;2002;641.0;262.0;184.0;37.0;41.0;74.0;304.0;209.0;95.0
+67;Totaal alleenst. en samenwonende moeders;18700;2003;611.0;251.0;175.0;35.0;41.0;81.0;279.0;184.0;95.0
+68;Totaal alleenst. en samenwonende moeders;18700;2004;559.0;230.0;162.0;31.0;37.0;85.0;243.0;156.0;88.0
+69;Totaal alleenst. en samenwonende moeders;18700;2005;527.0;222.0;159.0;30.0;34.0;91.0;213.0;136.0;77.0
+70;Totaal alleenst. en samenwonende moeders;18700;2006;496.0;212.0;146.0;33.0;33.0;82.0;202.0;124.0;78.0
+71;Totaal alleenst. en samenwonende moeders;18700;2007;477.0;221.0;155.0;34.0;32.0;71.0;185.0;108.0;77.0
+72;Totaal alleenst. en samenwonende moeders;18700;2008;459.0;223.0;151.0;38.0;34.0;59.0;177.0;99.0;78.0
+73;Totaal alleenst. en samenwonende moeders;18700;2009;444.0;215.0;146.0;39.0;30.0;62.0;167.0;91.0;76.0
+74;Totaal alleenst. en samenwonende moeders;18700;2010;416.0;200.0;137.0;34.0;29.0;65.0;151.0;83.0;68.0
+75;Totaal alleenst. en samenwonende moeders;18700;2011;416.0;206.0;141.0;35.0;30.0;59.0;152.0;82.0;70.0
+76;Totaal alleenst. en samenwonende moeders;18700;2012;394.0;184.0;126.0;33.0;26.0;66.0;144.0;79.0;65.0
+77;Totaal alleenst. en samenwonende moeders;18700;2013;355.0;166.0;117.0;30.0;20.0;69.0;120.0;62.0;58.0
+78;Totaal alleenst. en samenwonende moeders;18740;2001;860.0;521.0;380.0;72.0;69.0;68.0;272.0;213.0;59.0
+79;Totaal alleenst. en samenwonende moeders;18740;2002;881.0;544.0;399.0;76.0;69.0;70.0;267.0;203.0;64.0
+80;Totaal alleenst. en samenwonende moeders;18740;2003;909.0;570.0;416.0;81.0;73.0;81.0;258.0;190.0;68.0
+81;Totaal alleenst. en samenwonende moeders;18740;2004;899.0;561.0;416.0;79.0;66.0;95.0;243.0;172.0;71.0
+82;Totaal alleenst. en samenwonende moeders;18740;2005;911.0;571.0;418.0;87.0;67.0;110.0;230.0;163.0;67.0
+83;Totaal alleenst. en samenwonende moeders;18740;2006;912.0;601.0;433.0;96.0;72.0;104.0;207.0;147.0;60.0
+84;Totaal alleenst. en samenwonende moeders;18740;2007;923.0;631.0;449.0;104.0;78.0;90.0;202.0;134.0;69.0
+85;Totaal alleenst. en samenwonende moeders;18740;2008;894.0;636.0;448.0;110.0;78.0;74.0;183.0;120.0;64.0
+86;Totaal alleenst. en samenwonende moeders;18740;2009;868.0;633.0;440.0;113.0;79.0;72.0;163.0;105.0;59.0
+87;Totaal alleenst. en samenwonende moeders;18740;2010;863.0;626.0;438.0;114.0;74.0;80.0;157.0;98.0;58.0
+88;Totaal alleenst. en samenwonende moeders;18740;2011;841.0;614.0;426.0;115.0;73.0;77.0;151.0;95.0;56.0
+89;Totaal alleenst. en samenwonende moeders;18740;2012;848.0;622.0;422.0;125.0;75.0;85.0;140.0;85.0;55.0
+90;Totaal alleenst. en samenwonende moeders;18740;2013;852.0;590.0;392.0;121.0;78.0;112.0;150.0;84.0;66.0
+91;Totaal alleenst. en samenwonende moeders;18790;2001;388.0;285.0;168.0;66.0;51.0;28.0;75.0;54.0;21.0
+92;Totaal alleenst. en samenwonende moeders;18790;2002;416.0;312.0;182.0;74.0;56.0;30.0;74.0;52.0;22.0
+93;Totaal alleenst. en samenwonende moeders;18790;2003;440.0;334.0;193.0;86.0;55.0;31.0;75.0;51.0;24.0
+94;Totaal alleenst. en samenwonende moeders;18790;2004;488.0;374.0;216.0;95.0;63.0;37.0;76.0;51.0;26.0
+95;Totaal alleenst. en samenwonende moeders;18790;2005;499.0;391.0;229.0;96.0;66.0;40.0;69.0;47.0;22.0
+96;Totaal alleenst. en samenwonende moeders;18790;2006;516.0;414.0;231.0;108.0;75.0;38.0;64.0;43.0;21.0
+97;Totaal alleenst. en samenwonende moeders;18790;2007;526.0;431.0;232.0;120.0;79.0;36.0;59.0;38.0;21.0
+98;Totaal alleenst. en samenwonende moeders;18790;2008;557.0;463.0;241.0;134.0;87.0;34.0;60.0;40.0;20.0
+99;Totaal alleenst. en samenwonende moeders;18790;2009;590.0;491.0;250.0;144.0;97.0;37.0;63.0;37.0;25.0
+100;Totaal alleenst. en samenwonende moeders;18790;2010;607.0;508.0;255.0;151.0;102.0;40.0;58.0;37.0;22.0
+101;Totaal alleenst. en samenwonende moeders;18790;2011;606.0;509.0;251.0;152.0;106.0;37.0;60.0;39.0;21.0
+102;Totaal alleenst. en samenwonende moeders;18790;2012;631.0;529.0;253.0;164.0;112.0;42.0;60.0;37.0;23.0
+103;Totaal alleenst. en samenwonende moeders;18790;2013;645.0;546.0;251.0;176.0;119.0;51.0;49.0;29.0;19.0
+104;Totaal alleenst. en samenwonende moeders;18820;2001;7.0;;;;;;;;
+105;Totaal alleenst. en samenwonende moeders;18820;2002;7.0;;;;;;;;
+106;Totaal alleenst. en samenwonende moeders;18820;2003;7.0;;;;;;;;
+107;Totaal alleenst. en samenwonende moeders;18820;2004;14.0;;;;;;;;
+108;Totaal alleenst. en samenwonende moeders;18820;2005;15.0;4.0;2.0;;;3.0;8.0;4.0;4.0
+109;Totaal alleenst. en samenwonende moeders;18820;2006;12.0;;;;;;;;
+110;Totaal alleenst. en samenwonende moeders;18820;2007;13.0;;;;;;;;
+111;Totaal alleenst. en samenwonende moeders;18820;2008;7.0;;;;;;;;
+112;Totaal alleenst. en samenwonende moeders;18820;2009;6.0;;;;;;;;
+113;Totaal alleenst. en samenwonende moeders;18820;2010;8.0;;;;;;;;
+114;Totaal alleenst. en samenwonende moeders;18820;2011;8.0;;;;;;;;
+115;Totaal alleenst. en samenwonende moeders;18820;2012;10.0;;;;;;;;
+116;Totaal alleenst. en samenwonende moeders;18820;2013;24.0;11.0;7.0;3.0;2.0;5.0;8.0;4.0;4.0
+117;Totaal alleenst. en samenwonende moeders;19;2001;221.0;99.0;69.0;14.0;16.0;25.0;97.0;80.0;18.0
+118;Totaal alleenst. en samenwonende moeders;19;2002;220.0;101.0;73.0;14.0;15.0;27.0;92.0;72.0;20.0
+119;Totaal alleenst. en samenwonende moeders;19;2003;213.0;104.0;72.0;14.0;18.0;28.0;81.0;61.0;20.0
+120;Totaal alleenst. en samenwonende moeders;19;2004;202.0;99.0;67.0;16.0;16.0;32.0;71.0;53.0;18.0
+121;Totaal alleenst. en samenwonende moeders;19;2005;197.0;99.0;67.0;17.0;15.0;33.0;64.0;45.0;19.0
+122;Totaal alleenst. en samenwonende moeders;19;2006;186.0;101.0;70.0;17.0;14.0;30.0;54.0;40.0;14.0
+123;Totaal alleenst. en samenwonende moeders;19;2007;185.0;104.0;71.0;19.0;15.0;25.0;56.0;39.0;18.0
+124;Totaal alleenst. en samenwonende moeders;19;2008;185.0;111.0;74.0;20.0;17.0;21.0;53.0;35.0;18.0
+125;Totaal alleenst. en samenwonende moeders;19;2009;180.0;108.0;72.0;21.0;15.0;22.0;50.0;33.0;17.0
+126;Totaal alleenst. en samenwonende moeders;19;2010;179.0;106.0;69.0;24.0;14.0;24.0;49.0;30.0;19.0
+127;Totaal alleenst. en samenwonende moeders;19;2011;185.0;115.0;74.0;24.0;17.0;22.0;47.0;31.0;16.0
+128;Totaal alleenst. en samenwonende moeders;19;2012;182.0;113.0;70.0;26.0;16.0;27.0;41.0;25.0;16.0
+129;Totaal alleenst. en samenwonende moeders;19;2013;168.0;98.0;58.0;25.0;15.0;29.0;41.0;22.0;19.0
+130;Totaal alleenst. en samenwonende moeders;20;2001;927.0;531.0;379.0;76.0;76.0;79.0;317.0;255.0;62.0
+131;Totaal alleenst. en samenwonende moeders;20;2002;924.0;544.0;387.0;85.0;72.0;78.0;302.0;240.0;62.0
+132;Totaal alleenst. en samenwonende moeders;20;2003;916.0;552.0;389.0;91.0;72.0;90.0;273.0;210.0;64.0
+133;Totaal alleenst. en samenwonende moeders;20;2004;892.0;549.0;384.0;95.0;70.0;97.0;245.0;185.0;61.0
+134;Totaal alleenst. en samenwonende moeders;20;2005;865.0;542.0;381.0;92.0;69.0;104.0;219.0;166.0;52.0
+135;Totaal alleenst. en samenwonende moeders;20;2006;838.0;545.0;369.0;103.0;73.0;94.0;199.0;148.0;52.0
+136;Totaal alleenst. en samenwonende moeders;20;2007;820.0;560.0;376.0;108.0;76.0;79.0;182.0;130.0;51.0
+137;Totaal alleenst. en samenwonende moeders;20;2008;786.0;564.0;365.0;120.0;79.0;62.0;160.0;114.0;47.0
+138;Totaal alleenst. en samenwonende moeders;20;2009;760.0;555.0;353.0;125.0;77.0;64.0;141.0;98.0;43.0
+139;Totaal alleenst. en samenwonende moeders;20;2010;734.0;539.0;342.0;121.0;76.0;66.0;129.0;87.0;42.0
+140;Totaal alleenst. en samenwonende moeders;20;2011;711.0;524.0;326.0;119.0;79.0;61.0;125.0;85.0;41.0
+141;Totaal alleenst. en samenwonende moeders;20;2012;708.0;522.0;316.0;131.0;75.0;70.0;116.0;79.0;36.0
+142;Totaal alleenst. en samenwonende moeders;20;2013;698.0;506.0;293.0;133.0;80.0;82.0;110.0;71.0;40.0
+143;Totaal alleenst. en samenwonende moeders;21;2001;780.0;442.0;279.0;84.0;79.0;69.0;269.0;169.0;100.0
+144;Totaal alleenst. en samenwonende moeders;21;2002;801.0;479.0;308.0;89.0;82.0;70.0;252.0;153.0;99.0
+145;Totaal alleenst. en samenwonende moeders;21;2003;837.0;502.0;323.0;99.0;80.0;76.0;259.0;155.0;104.0
+146;Totaal alleenst. en samenwonende moeders;21;2004;866.0;523.0;346.0;95.0;81.0;91.0;253.0;144.0;109.0
+147;Totaal alleenst. en samenwonende moeders;21;2005;891.0;548.0;360.0;104.0;84.0;106.0;237.0;139.0;98.0
+148;Totaal alleenst. en samenwonende moeders;21;2006;911.0;584.0;373.0;117.0;94.0;102.0;225.0;129.0;96.0
+149;Totaal alleenst. en samenwonende moeders;21;2007;933.0;624.0;391.0;133.0;100.0;95.0;214.0;114.0;100.0
+150;Totaal alleenst. en samenwonende moeders;21;2008;946.0;651.0;404.0;143.0;104.0;84.0;210.0;111.0;98.0
+151;Totaal alleenst. en samenwonende moeders;21;2009;969.0;680.0;413.0;152.0;116.0;86.0;203.0;103.0;99.0
+152;Totaal alleenst. en samenwonende moeders;21;2010;980.0;695.0;422.0;157.0;116.0;96.0;189.0;101.0;88.0
+153;Totaal alleenst. en samenwonende moeders;21;2011;976.0;694.0;419.0;160.0;115.0;90.0;192.0;101.0;90.0
+154;Totaal alleenst. en samenwonende moeders;21;2012;993.0;707.0;417.0;166.0;123.0;96.0;189.0;98.0;91.0
+155;Totaal alleenst. en samenwonende moeders;21;2013;1011.0;709.0;416.0;170.0;124.0;125.0;177.0;87.0;89.0
+156;Totaal alleenst. en samenwonende moeders;22;2001;920.0;502.0;366.0;71.0;65.0;75.0;343.0;288.0;55.0
+157;Totaal alleenst. en samenwonende moeders;22;2002;937.0;525.0;384.0;80.0;61.0;80.0;331.0;274.0;57.0
+158;Totaal alleenst. en samenwonende moeders;22;2003;937.0;541.0;388.0;86.0;66.0;89.0;307.0;248.0;59.0
+159;Totaal alleenst. en samenwonende moeders;22;2004;928.0;545.0;388.0;93.0;64.0;101.0;282.0;223.0;59.0
+160;Totaal alleenst. en samenwonende moeders;22;2005;911.0;553.0;389.0;95.0;69.0;109.0;248.0;193.0;55.0
+161;Totaal alleenst. en samenwonende moeders;22;2006;889.0;566.0;387.0;107.0;72.0;97.0;226.0;176.0;50.0
+162;Totaal alleenst. en samenwonende moeders;22;2007;868.0;577.0;391.0;114.0;72.0;83.0;208.0;157.0;51.0
+163;Totaal alleenst. en samenwonende moeders;22;2008;840.0;588.0;385.0;124.0;79.0;66.0;186.0;139.0;47.0
+164;Totaal alleenst. en samenwonende moeders;22;2009;831.0;593.0;377.0;136.0;80.0;69.0;170.0;122.0;48.0
+165;Totaal alleenst. en samenwonende moeders;22;2010;821.0;585.0;371.0;136.0;78.0;76.0;159.0;111.0;47.0
+166;Totaal alleenst. en samenwonende moeders;22;2011;810.0;578.0;357.0;133.0;88.0;72.0;160.0;114.0;45.0
+167;Totaal alleenst. en samenwonende moeders;22;2012;815.0;587.0;347.0;153.0;86.0;83.0;146.0;101.0;45.0
+168;Totaal alleenst. en samenwonende moeders;22;2013;796.0;558.0;316.0;153.0;89.0;95.0;142.0;93.0;49.0
+169;Totaal alleenst. en samenwonende moeders;23;2001;538.0;296.0;199.0;51.0;46.0;59.0;183.0;133.0;50.0
+170;Totaal alleenst. en samenwonende moeders;23;2002;539.0;312.0;212.0;56.0;44.0;55.0;172.0;120.0;52.0
+171;Totaal alleenst. en samenwonende moeders;23;2003;546.0;318.0;219.0;56.0;44.0;62.0;166.0;111.0;55.0
+172;Totaal alleenst. en samenwonende moeders;23;2004;536.0;321.0;223.0;54.0;44.0;68.0;148.0;95.0;53.0
+173;Totaal alleenst. en samenwonende moeders;23;2005;541.0;324.0;224.0;54.0;46.0;78.0;139.0;92.0;47.0
+174;Totaal alleenst. en samenwonende moeders;23;2006;543.0;341.0;233.0;61.0;46.0;73.0;129.0;84.0;45.0
+175;Totaal alleenst. en samenwonende moeders;23;2007;559.0;368.0;247.0;69.0;52.0;64.0;127.0;77.0;50.0
+176;Totaal alleenst. en samenwonende moeders;23;2008;568.0;389.0;257.0;76.0;56.0;57.0;122.0;73.0;49.0
+177;Totaal alleenst. en samenwonende moeders;23;2009;562.0;387.0;252.0;80.0;55.0;58.0;117.0;69.0;47.0
+178;Totaal alleenst. en samenwonende moeders;23;2010;563.0;392.0;256.0;79.0;57.0;60.0;110.0;66.0;45.0
+179;Totaal alleenst. en samenwonende moeders;23;2011;559.0;396.0;258.0;83.0;55.0;55.0;107.0;64.0;43.0
+180;Totaal alleenst. en samenwonende moeders;23;2012;557.0;395.0;249.0;85.0;61.0;60.0;102.0;61.0;41.0
+181;Totaal alleenst. en samenwonende moeders;23;2013;560.0;395.0;249.0;88.0;58.0;73.0;92.0;51.0;41.0
+182;Totaal alleenst. en samenwonende moeders;24;2001;470.0;274.0;162.0;52.0;60.0;40.0;157.0;82.0;75.0
+183;Totaal alleenst. en samenwonende moeders;24;2002;469.0;286.0;171.0;52.0;63.0;39.0;143.0;71.0;73.0
+184;Totaal alleenst. en samenwonende moeders;24;2003;483.0;299.0;177.0;62.0;60.0;43.0;141.0;67.0;74.0
+185;Totaal alleenst. en samenwonende moeders;24;2004;495.0;306.0;186.0;60.0;60.0;50.0;139.0;64.0;75.0
+186;Totaal alleenst. en samenwonende moeders;24;2005;501.0;312.0;194.0;64.0;54.0;57.0;132.0;65.0;67.0
+187;Totaal alleenst. en samenwonende moeders;24;2006;504.0;323.0;192.0;68.0;63.0;56.0;124.0;58.0;67.0
+188;Totaal alleenst. en samenwonende moeders;24;2007;512.0;344.0;199.0;77.0;67.0;51.0;117.0;49.0;68.0
+189;Totaal alleenst. en samenwonende moeders;24;2008;508.0;348.0;200.0;82.0;66.0;45.0;115.0;48.0;67.0
+190;Totaal alleenst. en samenwonende moeders;24;2009;516.0;363.0;209.0;82.0;72.0;45.0;108.0;42.0;65.0
+191;Totaal alleenst. en samenwonende moeders;24;2010;510.0;362.0;206.0;86.0;71.0;49.0;98.0;41.0;57.0
+192;Totaal alleenst. en samenwonende moeders;24;2011;503.0;359.0;205.0;87.0;67.0;47.0;97.0;39.0;58.0
+193;Totaal alleenst. en samenwonende moeders;24;2012;510.0;361.0;207.0;86.0;68.0;51.0;98.0;40.0;58.0
+194;Totaal alleenst. en samenwonende moeders;24;2013;522.0;361.0;202.0;87.0;72.0;68.0;93.0;36.0;58.0
+195;Totaal alleenst. en samenwonende moeders;25;2001;763.0;458.0;285.0;83.0;90.0;66.0;239.0;147.0;91.0
+196;Totaal alleenst. en samenwonende moeders;25;2002;766.0;481.0;301.0;90.0;90.0;65.0;219.0;129.0;91.0
+197;Totaal alleenst. en samenwonende moeders;25;2003;787.0;493.0;302.0;101.0;91.0;76.0;218.0;118.0;100.0
+198;Totaal alleenst. en samenwonende moeders;25;2004;767.0;487.0;295.0;104.0;88.0;85.0;196.0;101.0;95.0
+199;Totaal alleenst. en samenwonende moeders;25;2005;777.0;502.0;309.0;109.0;84.0;93.0;182.0;93.0;89.0
+200;Totaal alleenst. en samenwonende moeders;25;2006;759.0;505.0;303.0;112.0;90.0;87.0;167.0;83.0;85.0
+201;Totaal alleenst. en samenwonende moeders;25;2007;773.0;533.0;311.0;126.0;96.0;78.0;163.0;76.0;87.0
+202;Totaal alleenst. en samenwonende moeders;25;2008;759.0;545.0;305.0;135.0;105.0;65.0;149.0;66.0;82.0
+203;Totaal alleenst. en samenwonende moeders;25;2009;763.0;547.0;305.0;136.0;106.0;70.0;146.0;60.0;87.0
+204;Totaal alleenst. en samenwonende moeders;25;2010;754.0;540.0;295.0;139.0;107.0;76.0;137.0;59.0;79.0
+205;Totaal alleenst. en samenwonende moeders;25;2011;723.0;529.0;282.0;137.0;110.0;67.0;127.0;53.0;74.0
+206;Totaal alleenst. en samenwonende moeders;25;2012;742.0;539.0;279.0;151.0;109.0;79.0;125.0;52.0;74.0
+207;Totaal alleenst. en samenwonende moeders;25;2013;743.0;519.0;264.0;146.0;109.0;98.0;126.0;46.0;80.0
+208;Totaal alleenst. en samenwonende moeders;26;2001;838.0;466.0;334.0;72.0;60.0;77.0;295.0;229.0;66.0
+209;Totaal alleenst. en samenwonende moeders;26;2002;858.0;494.0;360.0;76.0;58.0;78.0;286.0;218.0;68.0
+210;Totaal alleenst. en samenwonende moeders;26;2003;857.0;514.0;373.0;81.0;61.0;88.0;255.0;190.0;65.0
+211;Totaal alleenst. en samenwonende moeders;26;2004;872.0;534.0;389.0;82.0;62.0;97.0;240.0;173.0;67.0
+212;Totaal alleenst. en samenwonende moeders;26;2005;853.0;529.0;386.0;80.0;63.0;106.0;218.0;158.0;59.0
+213;Totaal alleenst. en samenwonende moeders;26;2006;856.0;561.0;395.0;96.0;70.0;97.0;198.0;140.0;58.0
+214;Totaal alleenst. en samenwonende moeders;26;2007;850.0;585.0;404.0;107.0;73.0;86.0;180.0;122.0;58.0
+215;Totaal alleenst. en samenwonende moeders;26;2008;839.0;595.0;409.0;116.0;71.0;73.0;170.0;112.0;58.0
+216;Totaal alleenst. en samenwonende moeders;26;2009;835.0;608.0;407.0;126.0;76.0;71.0;156.0;102.0;54.0
+217;Totaal alleenst. en samenwonende moeders;26;2010;825.0;607.0;405.0;126.0;76.0;76.0;141.0;90.0;51.0
+218;Totaal alleenst. en samenwonende moeders;26;2011;838.0;622.0;408.0;135.0;78.0;74.0;142.0;90.0;52.0
+219;Totaal alleenst. en samenwonende moeders;26;2012;833.0;617.0;400.0;137.0;80.0;81.0;136.0;84.0;51.0
+220;Totaal alleenst. en samenwonende moeders;26;2013;823.0;608.0;380.0;144.0;84.0;96.0;119.0;72.0;47.0
+221;Totaal alleenst. en samenwonende moeders;27;2001;328.0;148.0;108.0;19.0;22.0;29.0;150.0;127.0;23.0
+222;Totaal alleenst. en samenwonende moeders;27;2002;321.0;148.0;106.0;22.0;20.0;32.0;141.0;118.0;23.0
+223;Totaal alleenst. en samenwonende moeders;27;2003;322.0;150.0;109.0;23.0;18.0;31.0;141.0;118.0;23.0
+224;Totaal alleenst. en samenwonende moeders;27;2004;321.0;151.0;113.0;20.0;17.0;37.0;133.0;108.0;25.0
+225;Totaal alleenst. en samenwonende moeders;27;2005;322.0;157.0;112.0;25.0;21.0;45.0;121.0;99.0;21.0
+226;Totaal alleenst. en samenwonende moeders;27;2006;320.0;165.0;114.0;29.0;22.0;41.0;114.0;94.0;20.0
+227;Totaal alleenst. en samenwonende moeders;27;2007;315.0;171.0;123.0;27.0;21.0;35.0;109.0;85.0;24.0
+228;Totaal alleenst. en samenwonende moeders;27;2008;319.0;186.0;129.0;32.0;25.0;29.0;104.0;82.0;22.0
+229;Totaal alleenst. en samenwonende moeders;27;2009;311.0;188.0;127.0;35.0;26.0;31.0;92.0;72.0;20.0
+230;Totaal alleenst. en samenwonende moeders;27;2010;315.0;193.0;133.0;36.0;24.0;34.0;89.0;70.0;19.0
+231;Totaal alleenst. en samenwonende moeders;27;2011;311.0;183.0;129.0;32.0;22.0;33.0;95.0;74.0;21.0
+232;Totaal alleenst. en samenwonende moeders;27;2012;306.0;186.0;125.0;36.0;26.0;34.0;86.0;67.0;19.0
+233;Totaal alleenst. en samenwonende moeders;27;2013;311.0;187.0;123.0;39.0;26.0;41.0;83.0;62.0;21.0
+234;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: gehuwd;2001;1592.0;874.0;626.0;126.0;122.0;134.0;583.0;445.0;138.0
+235;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: gehuwd;2002;1589.0;904.0;651.0;136.0;118.0;133.0;552.0;411.0;141.0
+236;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: gehuwd;2003;1577.0;916.0;659.0;141.0;116.0;143.0;518.0;378.0;141.0
+237;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: gehuwd;2004;1548.0;914.0;658.0;142.0;114.0;157.0;477.0;337.0;140.0
+238;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: gehuwd;2005;1523.0;917.0;658.0;144.0;116.0;173.0;433.0;311.0;122.0
+239;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: gehuwd;2006;1504.0;944.0;659.0;160.0;125.0;163.0;397.0;278.0;118.0
+240;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: gehuwd;2007;1477.0;968.0;667.0;172.0;128.0;141.0;368.0;249.0;120.0
+241;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: gehuwd;2008;1446.0;985.0;670.0;186.0;129.0;119.0;342.0;229.0;112.0
+242;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: gehuwd;2009;1434.0;1004.0;669.0;198.0;138.0;117.0;313.0;203.0;110.0
+243;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: gehuwd;2010;1402.0;986.0;651.0;200.0;134.0;127.0;289.0;190.0;99.0
+244;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: gehuwd;2011;1385.0;981.0;641.0;204.0;135.0;118.0;286.0;188.0;98.0
+245;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: gehuwd;2012;1380.0;980.0;622.0;212.0;145.0;130.0;270.0;175.0;95.0
+246;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: gehuwd;2013;1365.0;961.0;593.0;220.0;148.0;154.0;250.0;156.0;94.0
+247;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: nooit gehuwd;2001;182.0;115.0;63.0;25.0;26.0;17.0;51.0;36.0;15.0
+248;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: nooit gehuwd;2002;199.0;127.0;73.0;28.0;26.0;22.0;50.0;34.0;16.0
+249;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: nooit gehuwd;2003;227.0;146.0;81.0;37.0;28.0;29.0;52.0;31.0;21.0
+250;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: nooit gehuwd;2004;235.0;154.0;87.0;39.0;28.0;34.0;47.0;28.0;19.0
+251;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: nooit gehuwd;2005;254.0;168.0;96.0;44.0;29.0;38.0;48.0;27.0;21.0
+252;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: nooit gehuwd;2006;261.0;183.0;102.0;48.0;33.0;33.0;45.0;26.0;19.0
+253;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: nooit gehuwd;2007;280.0;204.0;115.0;53.0;35.0;32.0;44.0;23.0;22.0
+254;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: nooit gehuwd;2008;286.0;216.0;115.0;61.0;40.0;27.0;44.0;20.0;24.0
+255;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: nooit gehuwd;2009;298.0;220.0;114.0;64.0;42.0;31.0;46.0;22.0;24.0
+256;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: nooit gehuwd;2010;318.0;235.0;124.0;64.0;46.0;36.0;47.0;21.0;26.0
+257;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: nooit gehuwd;2011;325.0;241.0;127.0;68.0;47.0;34.0;51.0;23.0;28.0
+258;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: nooit gehuwd;2012;335.0;252.0;130.0;76.0;46.0;39.0;45.0;20.0;25.0
+259;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: nooit gehuwd;2013;334.0;240.0;121.0;73.0;47.0;50.0;44.0;17.0;27.0
+260;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: gescheiden;2001;136.0;76.0;33.0;21.0;22.0;20.0;40.0;18.0;22.0
+261;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: gescheiden;2002;141.0;86.0;39.0;24.0;23.0;19.0;36.0;15.0;21.0
+262;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: gescheiden;2003;147.0;91.0;41.0;25.0;25.0;21.0;35.0;12.0;23.0
+263;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: gescheiden;2004;157.0;96.0;47.0;24.0;25.0;26.0;35.0;12.0;23.0
+264;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: gescheiden;2005;157.0;97.0;49.0;25.0;23.0;29.0;31.0;10.0;21.0
+265;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: gescheiden;2006;155.0;97.0;47.0;27.0;22.0;28.0;31.0;9.0;22.0
+266;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: gescheiden;2007;164.0;108.0;50.0;33.0;25.0;24.0;32.0;8.0;24.0
+267;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: gescheiden;2008;166.0;116.0;52.0;34.0;30.0;19.0;30.0;8.0;22.0
+268;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: gescheiden;2009;163.0;111.0;50.0;34.0;27.0;22.0;30.0;7.0;24.0
+269;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: gescheiden;2010;159.0;110.0;52.0;35.0;24.0;21.0;28.0;6.0;22.0
+270;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: gescheiden;2011;148.0;103.0;46.0;30.0;27.0;20.0;25.0;5.0;19.0
+271;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: gescheiden;2012;151.0;102.0;47.0;33.0;23.0;23.0;26.0;5.0;21.0
+272;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: gescheiden;2013;165.0;106.0;49.0;34.0;23.0;30.0;29.0;6.0;24.0
+273;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: verweduwd;2001;18.0;7.0;4.0;2.0;;2.0;9.0;5.0;4.0
+274;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: verweduwd;2002;16.0;6.0;4.0;;;;9.0;5.0;4.0
+275;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: verweduwd;2003;15.0;5.0;3.0;;;2.0;8.0;5.0;4.0
+276;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: verweduwd;2004;20.0;7.0;5.0;;;3.0;9.0;4.0;5.0
+277;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: verweduwd;2005;18.0;7.0;5.0;;;3.0;8.0;3.0;5.0
+278;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: verweduwd;2006;15.0;6.0;4.0;;;2.0;7.0;3.0;3.0
+279;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: verweduwd;2007;18.0;9.0;6.0;;2.0;2.0;7.0;3.0;4.0
+280;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: verweduwd;2008;18.0;9.0;6.0;2.0;;2.0;7.0;3.0;4.0
+281;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: verweduwd;2009;16.0;9.0;5.0;2.0;;2.0;5.0;2.0;3.0
+282;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: verweduwd;2010;15.0;9.0;5.0;2.0;2.0;2.0;4.0;2.0;2.0
+283;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: verweduwd;2011;14.0;;;;;;;;
+284;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: verweduwd;2012;15.0;8.0;5.0;2.0;;2.0;5.0;2.0;3.0
+285;Totaal alleenst. en samenwonende moeders;Burgerlijke staat: verweduwd;2013;13.0;;;;;;;;
+286;Alleenstaande moeder;10;2001;184.0;90.0;37.0;26.0;27.0;28.0;66.0;33.0;33.0
+287;Alleenstaande moeder;10;2002;183.0;96.0;41.0;27.0;28.0;30.0;57.0;26.0;31.0
+288;Alleenstaande moeder;10;2003;199.0;103.0;44.0;31.0;28.0;33.0;62.0;25.0;37.0
+289;Alleenstaande moeder;10;2004;204.0;107.0;49.0;30.0;28.0;41.0;56.0;20.0;36.0
+290;Alleenstaande moeder;10;2005;214.0;118.0;55.0;34.0;29.0;47.0;49.0;15.0;34.0
+291;Alleenstaande moeder;10;2006;211.0;119.0;53.0;36.0;30.0;43.0;50.0;15.0;34.0
+292;Alleenstaande moeder;10;2007;228.0;137.0;59.0;44.0;34.0;39.0;52.0;13.0;39.0
+293;Alleenstaande moeder;10;2008;229.0;147.0;62.0;48.0;37.0;31.0;51.0;12.0;39.0
+294;Alleenstaande moeder;10;2009;229.0;147.0;61.0;48.0;38.0;33.0;49.0;11.0;39.0
+295;Alleenstaande moeder;10;2010;232.0;148.0;66.0;48.0;34.0;37.0;47.0;11.0;37.0
+296;Alleenstaande moeder;10;2011;225.0;145.0;62.0;45.0;38.0;36.0;45.0;10.0;35.0
+297;Alleenstaande moeder;10;2012;235.0;146.0;62.0;50.0;34.0;40.0;49.0;11.0;38.0
+298;Alleenstaande moeder;10;2013;252.0;149.0;65.0;50.0;34.0;53.0;50.0;11.0;39.0
+299;Alleenstaande moeder;12600;2001;112.0;62.0;28.0;17.0;16.0;17.0;34.0;16.0;17.0
+300;Alleenstaande moeder;12600;2002;113.0;68.0;33.0;19.0;16.0;17.0;29.0;14.0;15.0
+301;Alleenstaande moeder;12600;2003;125.0;74.0;35.0;23.0;16.0;18.0;33.0;14.0;19.0
+302;Alleenstaande moeder;12600;2004;127.0;76.0;39.0;20.0;17.0;23.0;28.0;11.0;17.0
+303;Alleenstaande moeder;12600;2005;134.0;81.0;43.0;23.0;16.0;26.0;27.0;9.0;18.0
+304;Alleenstaande moeder;12600;2006;128.0;83.0;41.0;26.0;16.0;21.0;25.0;9.0;16.0
+305;Alleenstaande moeder;12600;2007;142.0;97.0;47.0;31.0;19.0;19.0;26.0;7.0;19.0
+306;Alleenstaande moeder;12600;2008;137.0;101.0;48.0;32.0;20.0;14.0;22.0;6.0;16.0
+307;Alleenstaande moeder;12600;2009;141.0;102.0;48.0;33.0;22.0;16.0;22.0;5.0;17.0
+308;Alleenstaande moeder;12600;2010;145.0;104.0;50.0;33.0;20.0;19.0;23.0;5.0;18.0
+309;Alleenstaande moeder;12600;2011;133.0;95.0;46.0;30.0;19.0;17.0;21.0;5.0;16.0
+310;Alleenstaande moeder;12600;2012;140.0;100.0;48.0;32.0;20.0;18.0;22.0;5.0;17.0
+311;Alleenstaande moeder;12600;2013;145.0;101.0;47.0;36.0;18.0;22.0;22.0;5.0;17.0
+312;Alleenstaande moeder;12650;2001;22.0;10.0;4.0;3.0;4.0;3.0;8.0;3.0;4.0
+313;Alleenstaande moeder;12650;2002;19.0;10.0;4.0;3.0;3.0;4.0;5.0;3.0;3.0
+314;Alleenstaande moeder;12650;2003;21.0;10.0;3.0;3.0;4.0;5.0;6.0;3.0;4.0
+315;Alleenstaande moeder;12650;2004;22.0;12.0;6.0;4.0;3.0;5.0;5.0;;4.0
+316;Alleenstaande moeder;12650;2005;23.0;14.0;6.0;3.0;5.0;5.0;4.0;;3.0
+317;Alleenstaande moeder;12650;2006;21.0;13.0;6.0;3.0;4.0;4.0;4.0;;3.0
+318;Alleenstaande moeder;12650;2007;25.0;16.0;6.0;4.0;6.0;5.0;4.0;;3.0
+319;Alleenstaande moeder;12650;2008;24.0;16.0;6.0;5.0;6.0;3.0;5.0;;4.0
+320;Alleenstaande moeder;12650;2009;25.0;17.0;5.0;6.0;5.0;4.0;4.0;;3.0
+321;Alleenstaande moeder;12650;2010;26.0;18.0;6.0;6.0;5.0;4.0;4.0;;3.0
+322;Alleenstaande moeder;12650;2011;28.0;19.0;7.0;6.0;7.0;4.0;5.0;;4.0
+323;Alleenstaande moeder;12650;2012;27.0;17.0;6.0;6.0;4.0;5.0;6.0;;5.0
+324;Alleenstaande moeder;12650;2013;27.0;17.0;7.0;5.0;5.0;6.0;4.0;;3.0
+325;Alleenstaande moeder;13000;2001;50.0;18.0;5.0;6.0;7.0;8.0;24.0;13.0;12.0
+326;Alleenstaande moeder;13000;2002;50.0;18.0;4.0;5.0;9.0;9.0;23.0;9.0;14.0
+327;Alleenstaande moeder;13000;2003;53.0;20.0;5.0;5.0;9.0;10.0;23.0;9.0;14.0
+328;Alleenstaande moeder;13000;2004;55.0;19.0;5.0;6.0;8.0;13.0;23.0;8.0;14.0
+329;Alleenstaande moeder;13000;2005;58.0;22.0;5.0;8.0;9.0;16.0;19.0;6.0;13.0
+330;Alleenstaande moeder;13000;2006;62.0;23.0;6.0;7.0;10.0;18.0;21.0;6.0;15.0
+331;Alleenstaande moeder;13000;2007;62.0;24.0;6.0;9.0;10.0;15.0;22.0;5.0;18.0
+332;Alleenstaande moeder;13000;2008;68.0;30.0;8.0;11.0;11.0;14.0;24.0;5.0;19.0
+333;Alleenstaande moeder;13000;2009;63.0;27.0;8.0;9.0;11.0;13.0;23.0;4.0;18.0
+334;Alleenstaande moeder;13000;2010;60.0;27.0;9.0;9.0;9.0;13.0;20.0;5.0;16.0
+335;Alleenstaande moeder;13000;2011;65.0;32.0;10.0;10.0;12.0;15.0;19.0;4.0;14.0
+336;Alleenstaande moeder;13000;2012;68.0;29.0;8.0;12.0;9.0;18.0;21.0;5.0;16.0
+337;Alleenstaande moeder;13000;2013;80.0;31.0;11.0;10.0;11.0;25.0;24.0;5.0;18.0
+338;Alleenstaande moeder;13355;2001;;;;;;;;;
+339;Alleenstaande moeder;13355;2002;;;;;;;;;
+340;Alleenstaande moeder;13355;2003;;;;;;;;;
+341;Alleenstaande moeder;13355;2004;;;;;;;;;
+342;Alleenstaande moeder;13355;2005;;;;;;;;;
+343;Alleenstaande moeder;13355;2006;;;;;;;;;
+344;Alleenstaande moeder;13355;2007;;;;;;;;;
+345;Alleenstaande moeder;13355;2008;;;;;;;;;
+346;Alleenstaande moeder;13355;2009;;;;;;;;;
+347;Alleenstaande moeder;13355;2010;;;;;;;;;
+348;Alleenstaande moeder;13355;2011;;;;;;;;;
+349;Alleenstaande moeder;13355;2012;;;;;;;;;
+350;Alleenstaande moeder;13355;2013;;;;;;;;;
+351;Alleenstaande moeder;18700;2001;91.0;30.0;12.0;9.0;10.0;17.0;44.0;22.0;22.0
+352;Alleenstaande moeder;18700;2002;82.0;27.0;11.0;8.0;9.0;17.0;37.0;18.0;19.0
+353;Alleenstaande moeder;18700;2003;79.0;26.0;12.0;7.0;7.0;16.0;36.0;15.0;22.0
+354;Alleenstaande moeder;18700;2004;76.0;26.0;13.0;6.0;7.0;18.0;32.0;12.0;20.0
+355;Alleenstaande moeder;18700;2005;76.0;29.0;15.0;7.0;7.0;20.0;26.0;8.0;18.0
+356;Alleenstaande moeder;18700;2006;75.0;28.0;12.0;9.0;7.0;19.0;28.0;8.0;19.0
+357;Alleenstaande moeder;18700;2007;79.0;32.0;16.0;9.0;7.0;18.0;30.0;7.0;23.0
+358;Alleenstaande moeder;18700;2008;74.0;30.0;15.0;8.0;7.0;15.0;29.0;7.0;22.0
+359;Alleenstaande moeder;18700;2009;74.0;31.0;15.0;9.0;7.0;15.0;28.0;6.0;22.0
+360;Alleenstaande moeder;18700;2010;72.0;31.0;15.0;8.0;7.0;15.0;26.0;6.0;20.0
+361;Alleenstaande moeder;18700;2011;71.0;31.0;15.0;8.0;8.0;15.0;25.0;6.0;20.0
+362;Alleenstaande moeder;18700;2012;67.0;24.0;14.0;6.0;5.0;16.0;27.0;6.0;20.0
+363;Alleenstaande moeder;18700;2013;63.0;23.0;13.0;7.0;3.0;18.0;21.0;5.0;16.0
+364;Alleenstaande moeder;18740;2001;64.0;40.0;18.0;11.0;10.0;7.0;17.0;9.0;8.0
+365;Alleenstaande moeder;18740;2002;69.0;45.0;21.0;12.0;13.0;10.0;14.0;6.0;8.0
+366;Alleenstaande moeder;18740;2003;79.0;49.0;22.0;14.0;13.0;12.0;18.0;7.0;11.0
+367;Alleenstaande moeder;18740;2004;85.0;51.0;24.0;15.0;12.0;17.0;18.0;6.0;11.0
+368;Alleenstaande moeder;18740;2005;93.0;55.0;27.0;15.0;13.0;20.0;18.0;5.0;13.0
+369;Alleenstaande moeder;18740;2006;92.0;57.0;30.0;15.0;13.0;18.0;17.0;5.0;12.0
+370;Alleenstaande moeder;18740;2007;99.0;65.0;30.0;20.0;14.0;17.0;17.0;5.0;13.0
+371;Alleenstaande moeder;18740;2008;101.0;72.0;33.0;22.0;17.0;13.0;17.0;4.0;13.0
+372;Alleenstaande moeder;18740;2009;101.0;71.0;32.0;22.0;17.0;14.0;16.0;3.0;13.0
+373;Alleenstaande moeder;18740;2010;104.0;72.0;35.0;23.0;14.0;15.0;17.0;3.0;14.0
+374;Alleenstaande moeder;18740;2011;98.0;68.0;33.0;20.0;15.0;15.0;15.0;3.0;12.0
+375;Alleenstaande moeder;18740;2012;111.0;74.0;35.0;25.0;15.0;19.0;17.0;4.0;13.0
+376;Alleenstaande moeder;18740;2013;123.0;74.0;34.0;22.0;17.0;26.0;24.0;5.0;19.0
+377;Alleenstaande moeder;18790;2001;29.0;20.0;7.0;6.0;7.0;3.0;5.0;2.0;3.0
+378;Alleenstaande moeder;18790;2002;32.0;23.0;9.0;8.0;7.0;3.0;6.0;2.0;4.0
+379;Alleenstaande moeder;18790;2003;41.0;28.0;10.0;10.0;8.0;5.0;8.0;3.0;5.0
+380;Alleenstaande moeder;18790;2004;40.0;30.0;12.0;9.0;9.0;5.0;5.0;2.0;3.0
+381;Alleenstaande moeder;18790;2005;43.0;33.0;12.0;12.0;9.0;6.0;4.0;;3.0
+382;Alleenstaande moeder;18790;2006;42.0;33.0;11.0;13.0;10.0;5.0;4.0;2.0;3.0
+383;Alleenstaande moeder;18790;2007;49.0;40.0;13.0;15.0;13.0;4.0;4.0;;3.0
+384;Alleenstaande moeder;18790;2008;53.0;45.0;14.0;17.0;14.0;3.0;5.0;;3.0
+385;Alleenstaande moeder;18790;2009;54.0;44.0;14.0;16.0;14.0;5.0;5.0;;4.0
+386;Alleenstaande moeder;18790;2010;55.0;45.0;15.0;17.0;14.0;6.0;4.0;;3.0
+387;Alleenstaande moeder;18790;2011;56.0;46.0;14.0;17.0;15.0;5.0;4.0;;3.0
+388;Alleenstaande moeder;18790;2012;56.0;47.0;13.0;19.0;14.0;5.0;5.0;;4.0
+389;Alleenstaande moeder;18790;2013;63.0;52.0;18.0;21.0;13.0;8.0;3.0;;3.0
+390;Alleenstaande moeder;18820;2001;;;;;;;;;
+391;Alleenstaande moeder;18820;2002;;;;;;;;;
+392;Alleenstaande moeder;18820;2003;;;;;;;;;
+393;Alleenstaande moeder;18820;2004;2.0;;;;;;;;
+394;Alleenstaande moeder;18820;2005;2.0;;;;;;;;
+395;Alleenstaande moeder;18820;2006;2.0;;;;;;;;
+396;Alleenstaande moeder;18820;2007;2.0;;;;;;;;
+397;Alleenstaande moeder;18820;2008;;;;;;;;;
+398;Alleenstaande moeder;18820;2009;;;;;;;;;
+399;Alleenstaande moeder;18820;2010;;;;;;;;;
+400;Alleenstaande moeder;18820;2011;;;;;;;;;
+401;Alleenstaande moeder;18820;2012;;;;;;;;;
+402;Alleenstaande moeder;18820;2013;4.0;;;;;;;;
+403;Alleenstaande moeder;19;2001;21.0;5.0;2.0;;;5.0;12.0;8.0;3.0
+404;Alleenstaande moeder;19;2002;21.0;5.0;2.0;;2.0;7.0;10.0;6.0;3.0
+405;Alleenstaande moeder;19;2003;22.0;5.0;3.0;;;5.0;11.0;7.0;4.0
+406;Alleenstaande moeder;19;2004;21.0;5.0;2.0;;;7.0;9.0;6.0;4.0
+407;Alleenstaande moeder;19;2005;22.0;8.0;3.0;2.0;2.0;7.0;7.0;3.0;4.0
+408;Alleenstaande moeder;19;2006;20.0;7.0;3.0;2.0;2.0;6.0;7.0;3.0;4.0
+409;Alleenstaande moeder;19;2007;23.0;9.0;5.0;2.0;2.0;6.0;8.0;3.0;5.0
+410;Alleenstaande moeder;19;2008;24.0;9.0;5.0;2.0;2.0;6.0;9.0;2.0;7.0
+411;Alleenstaande moeder;19;2009;23.0;10.0;4.0;4.0;2.0;5.0;8.0;3.0;6.0
+412;Alleenstaande moeder;19;2010;21.0;7.0;3.0;2.0;2.0;5.0;9.0;3.0;6.0
+413;Alleenstaande moeder;19;2011;18.0;6.0;3.0;2.0;;5.0;7.0;2.0;5.0
+414;Alleenstaande moeder;19;2012;23.0;8.0;4.0;2.0;2.0;7.0;8.0;2.0;5.0
+415;Alleenstaande moeder;19;2013;24.0;8.0;4.0;2.0;2.0;8.0;8.0;2.0;6.0
+416;Alleenstaande moeder;20;2001;71.0;37.0;16.0;9.0;11.0;11.0;23.0;14.0;9.0
+417;Alleenstaande moeder;20;2002;70.0;38.0;17.0;10.0;11.0;12.0;20.0;10.0;9.0
+418;Alleenstaande moeder;20;2003;73.0;35.0;16.0;9.0;10.0;15.0;23.0;11.0;12.0
+419;Alleenstaande moeder;20;2004;74.0;37.0;17.0;11.0;9.0;17.0;20.0;8.0;12.0
+420;Alleenstaande moeder;20;2005;75.0;41.0;22.0;11.0;8.0;19.0;15.0;6.0;9.0
+421;Alleenstaande moeder;20;2006;74.0;42.0;21.0;12.0;9.0;16.0;17.0;6.0;10.0
+422;Alleenstaande moeder;20;2007;73.0;41.0;20.0;12.0;9.0;16.0;17.0;5.0;12.0
+423;Alleenstaande moeder;20;2008;72.0;47.0;21.0;16.0;11.0;11.0;14.0;4.0;10.0
+424;Alleenstaande moeder;20;2009;69.0;43.0;20.0;13.0;10.0;12.0;13.0;3.0;10.0
+425;Alleenstaande moeder;20;2010;69.0;41.0;20.0;12.0;9.0;13.0;15.0;5.0;10.0
+426;Alleenstaande moeder;20;2011;68.0;39.0;18.0;13.0;8.0;14.0;15.0;4.0;11.0
+427;Alleenstaande moeder;20;2012;68.0;41.0;19.0;14.0;8.0;13.0;13.0;4.0;10.0
+428;Alleenstaande moeder;20;2013;72.0;40.0;18.0;14.0;8.0;18.0;15.0;4.0;10.0
+429;Alleenstaande moeder;21;2001;92.0;48.0;18.0;16.0;15.0;12.0;31.0;10.0;21.0
+430;Alleenstaande moeder;21;2002;92.0;53.0;22.0;16.0;15.0;11.0;28.0;9.0;18.0
+431;Alleenstaande moeder;21;2003;103.0;63.0;25.0;21.0;17.0;12.0;28.0;7.0;21.0
+432;Alleenstaande moeder;21;2004;110.0;66.0;29.0;18.0;18.0;17.0;27.0;7.0;20.0
+433;Alleenstaande moeder;21;2005;117.0;69.0;29.0;21.0;19.0;21.0;27.0;6.0;21.0
+434;Alleenstaande moeder;21;2006;116.0;70.0;29.0;23.0;19.0;20.0;26.0;6.0;20.0
+435;Alleenstaande moeder;21;2007;132.0;87.0;34.0;29.0;23.0;18.0;27.0;5.0;22.0
+436;Alleenstaande moeder;21;2008;133.0;91.0;36.0;30.0;24.0;15.0;28.0;6.0;22.0
+437;Alleenstaande moeder;21;2009;137.0;93.0;36.0;31.0;26.0;16.0;28.0;5.0;23.0
+438;Alleenstaande moeder;21;2010;142.0;100.0;42.0;34.0;24.0;18.0;24.0;3.0;21.0
+439;Alleenstaande moeder;21;2011;139.0;100.0;41.0;31.0;28.0;17.0;22.0;4.0;19.0
+440;Alleenstaande moeder;21;2012;144.0;96.0;39.0;33.0;24.0;21.0;28.0;5.0;23.0
+441;Alleenstaande moeder;21;2013;156.0;101.0;44.0;34.0;24.0;27.0;27.0;4.0;23.0
+442;Alleenstaande moeder;22;2001;59.0;21.0;10.0;5.0;5.0;10.0;28.0;21.0;7.0
+443;Alleenstaande moeder;22;2002;56.0;21.0;10.0;5.0;5.0;12.0;23.0;16.0;7.0
+444;Alleenstaande moeder;22;2003;63.0;23.0;11.0;6.0;6.0;13.0;26.0;17.0;10.0
+445;Alleenstaande moeder;22;2004;60.0;22.0;12.0;6.0;4.0;16.0;21.0;12.0;9.0
+446;Alleenstaande moeder;22;2005;63.0;29.0;15.0;7.0;6.0;17.0;18.0;8.0;9.0
+447;Alleenstaande moeder;22;2006;61.0;29.0;14.0;8.0;7.0;15.0;17.0;8.0;9.0
+448;Alleenstaande moeder;22;2007;64.0;31.0;16.0;9.0;6.0;15.0;17.0;7.0;10.0
+449;Alleenstaande moeder;22;2008;61.0;33.0;15.0;11.0;7.0;11.0;17.0;6.0;11.0
+450;Alleenstaande moeder;22;2009;60.0;35.0;16.0;11.0;8.0;10.0;16.0;6.0;10.0
+451;Alleenstaande moeder;22;2010;62.0;33.0;15.0;11.0;7.0;13.0;17.0;6.0;11.0
+452;Alleenstaande moeder;22;2011;58.0;28.0;13.0;9.0;6.0;13.0;16.0;6.0;11.0
+453;Alleenstaande moeder;22;2012;65.0;33.0;14.0;12.0;6.0;15.0;17.0;6.0;11.0
+454;Alleenstaande moeder;22;2013;69.0;34.0;15.0;12.0;7.0;17.0;18.0;6.0;12.0
+455;Alleenstaande moeder;23;2001;61.0;34.0;15.0;11.0;8.0;11.0;16.0;7.0;9.0
+456;Alleenstaande moeder;23;2002;62.0;37.0;16.0;11.0;9.0;10.0;16.0;6.0;10.0
+457;Alleenstaande moeder;23;2003;65.0;36.0;17.0;11.0;8.0;12.0;17.0;6.0;12.0
+458;Alleenstaande moeder;23;2004;71.0;39.0;20.0;11.0;8.0;15.0;17.0;5.0;11.0
+459;Alleenstaande moeder;23;2005;74.0;41.0;21.0;12.0;9.0;18.0;14.0;4.0;10.0
+460;Alleenstaande moeder;23;2006;73.0;43.0;22.0;13.0;8.0;15.0;15.0;5.0;10.0
+461;Alleenstaande moeder;23;2007;80.0;50.0;24.0;16.0;10.0;13.0;17.0;4.0;13.0
+462;Alleenstaande moeder;23;2008;83.0;55.0;26.0;17.0;12.0;11.0;16.0;3.0;13.0
+463;Alleenstaande moeder;23;2009;77.0;51.0;23.0;17.0;11.0;12.0;14.0;3.0;11.0
+464;Alleenstaande moeder;23;2010;79.0;53.0;28.0;16.0;9.0;11.0;15.0;3.0;12.0
+465;Alleenstaande moeder;23;2011;80.0;54.0;26.0;17.0;11.0;11.0;14.0;3.0;11.0
+466;Alleenstaande moeder;23;2012;83.0;56.0;26.0;18.0;12.0;13.0;14.0;4.0;11.0
+467;Alleenstaande moeder;23;2013;83.0;50.0;26.0;16.0;8.0;18.0;15.0;3.0;12.0
+468;Alleenstaande moeder;24;2001;65.0;35.0;12.0;10.0;13.0;8.0;22.0;5.0;17.0
+469;Alleenstaande moeder;24;2002;65.0;39.0;14.0;10.0;14.0;8.0;19.0;5.0;14.0
+470;Alleenstaande moeder;24;2003;71.0;44.0;16.0;13.0;15.0;8.0;19.0;3.0;16.0
+471;Alleenstaande moeder;24;2004;74.0;46.0;17.0;13.0;16.0;9.0;18.0;3.0;15.0
+472;Alleenstaande moeder;24;2005;77.0;47.0;19.0;15.0;14.0;12.0;17.0;2.0;15.0
+473;Alleenstaande moeder;24;2006;77.0;47.0;17.0;16.0;14.0;12.0;18.0;3.0;15.0
+474;Alleenstaande moeder;24;2007;85.0;56.0;19.0;20.0;18.0;11.0;18.0;2.0;16.0
+475;Alleenstaande moeder;24;2008;86.0;59.0;20.0;20.0;18.0;9.0;18.0;3.0;15.0
+476;Alleenstaande moeder;24;2009;91.0;61.0;21.0;20.0;20.0;11.0;19.0;2.0;17.0
+477;Alleenstaande moeder;24;2010;91.0;62.0;23.0;21.0;18.0;12.0;16.0;2.0;14.0
+478;Alleenstaande moeder;24;2011;88.0;63.0;23.0;20.0;20.0;11.0;14.0;;13.0
+479;Alleenstaande moeder;24;2012;87.0;57.0;22.0;20.0;15.0;12.0;17.0;2.0;16.0
+480;Alleenstaande moeder;24;2013;101.0;66.0;24.0;23.0;19.0;18.0;17.0;2.0;15.0
+481;Alleenstaande moeder;25;2001;100.0;50.0;18.0;14.0;18.0;16.0;35.0;14.0;21.0
+482;Alleenstaande moeder;25;2002;97.0;52.0;21.0;14.0;17.0;16.0;30.0;11.0;19.0
+483;Alleenstaande moeder;25;2003;110.0;59.0;23.0;17.0;19.0;17.0;34.0;10.0;24.0
+484;Alleenstaande moeder;25;2004;116.0;63.0;25.0;19.0;19.0;23.0;31.0;9.0;22.0
+485;Alleenstaande moeder;25;2005;121.0;68.0;28.0;21.0;19.0;24.0;29.0;6.0;23.0
+486;Alleenstaande moeder;25;2006;115.0;66.0;27.0;21.0;19.0;22.0;26.0;5.0;21.0
+487;Alleenstaande moeder;25;2007;126.0;79.0;31.0;25.0;23.0;20.0;27.0;5.0;22.0
+488;Alleenstaande moeder;25;2008;128.0;83.0;32.0;27.0;24.0;17.0;29.0;5.0;24.0
+489;Alleenstaande moeder;25;2009;128.0;82.0;29.0;28.0;25.0;19.0;28.0;4.0;24.0
+490;Alleenstaande moeder;25;2010;129.0;83.0;33.0;29.0;21.0;19.0;27.0;4.0;23.0
+491;Alleenstaande moeder;25;2011;125.0;84.0;32.0;27.0;25.0;17.0;24.0;4.0;20.0
+492;Alleenstaande moeder;25;2012;130.0;82.0;32.0;28.0;22.0;21.0;27.0;4.0;23.0
+493;Alleenstaande moeder;25;2013;142.0;85.0;32.0;29.0;24.0;28.0;28.0;4.0;24.0
+494;Alleenstaande moeder;26;2001;64.0;33.0;15.0;10.0;7.0;9.0;21.0;12.0;10.0
+495;Alleenstaande moeder;26;2002;66.0;36.0;16.0;11.0;10.0;11.0;19.0;10.0;9.0
+496;Alleenstaande moeder;26;2003;69.0;36.0;16.0;12.0;8.0;13.0;20.0;10.0;10.0
+497;Alleenstaande moeder;26;2004;68.0;37.0;19.0;10.0;7.0;13.0;18.0;7.0;11.0
+498;Alleenstaande moeder;26;2005;71.0;39.0;21.0;10.0;9.0;18.0;14.0;6.0;9.0
+499;Alleenstaande moeder;26;2006;74.0;43.0;22.0;12.0;9.0;14.0;16.0;6.0;10.0
+500;Alleenstaande moeder;26;2007;77.0;47.0;23.0;15.0;9.0;13.0;17.0;4.0;13.0
+501;Alleenstaande moeder;26;2008;74.0;50.0;23.0;16.0;10.0;10.0;14.0;3.0;11.0
+502;Alleenstaande moeder;26;2009;74.0;51.0;24.0;16.0;11.0;9.0;14.0;4.0;10.0
+503;Alleenstaande moeder;26;2010;77.0;52.0;25.0;16.0;11.0;12.0;14.0;4.0;10.0
+504;Alleenstaande moeder;26;2011;78.0;50.0;23.0;15.0;11.0;13.0;14.0;4.0;10.0
+505;Alleenstaande moeder;26;2012;81.0;52.0;24.0;17.0;10.0;14.0;15.0;4.0;11.0
+506;Alleenstaande moeder;26;2013;83.0;51.0;25.0;18.0;8.0;18.0;14.0;4.0;10.0
+507;Alleenstaande moeder;27;2001;20.0;7.0;3.0;2.0;2.0;3.0;10.0;7.0;3.0
+508;Alleenstaande moeder;27;2002;19.0;8.0;4.0;2.0;2.0;3.0;8.0;5.0;3.0
+509;Alleenstaande moeder;27;2003;20.0;9.0;4.0;3.0;2.0;3.0;8.0;5.0;3.0
+510;Alleenstaande moeder;27;2004;20.0;8.0;5.0;2.0;2.0;5.0;7.0;4.0;3.0
+511;Alleenstaande moeder;27;2005;22.0;10.0;6.0;2.0;2.0;6.0;6.0;3.0;3.0
+512;Alleenstaande moeder;27;2006;23.0;9.0;4.0;3.0;3.0;6.0;8.0;4.0;4.0
+513;Alleenstaande moeder;27;2007;25.0;11.0;5.0;3.0;3.0;6.0;8.0;4.0;5.0
+514;Alleenstaande moeder;27;2008;27.0;15.0;7.0;5.0;3.0;4.0;8.0;4.0;4.0
+515;Alleenstaande moeder;27;2009;26.0;14.0;8.0;3.0;3.0;5.0;8.0;3.0;4.0
+516;Alleenstaande moeder;27;2010;26.0;14.0;7.0;4.0;3.0;5.0;7.0;3.0;4.0
+517;Alleenstaande moeder;27;2011;23.0;12.0;7.0;3.0;2.0;5.0;7.0;2.0;5.0
+518;Alleenstaande moeder;27;2012;24.0;12.0;6.0;4.0;2.0;6.0;6.0;3.0;3.0
+519;Alleenstaande moeder;27;2013;28.0;13.0;8.0;3.0;2.0;7.0;8.0;3.0;5.0
+520;Alleenstaande moeder;Burgerlijke staat: gehuwd;2001;12.0;;;;;;;;
+521;Alleenstaande moeder;Burgerlijke staat: gehuwd;2002;12.0;;;;;;;;
+522;Alleenstaande moeder;Burgerlijke staat: gehuwd;2003;13.0;;;;;;;;
+523;Alleenstaande moeder;Burgerlijke staat: gehuwd;2004;12.0;;;;;;;;
+524;Alleenstaande moeder;Burgerlijke staat: gehuwd;2005;12.0;;;;;;;;
+525;Alleenstaande moeder;Burgerlijke staat: gehuwd;2006;14.0;;;;;;;;
+526;Alleenstaande moeder;Burgerlijke staat: gehuwd;2007;14.0;;;;;;;;
+527;Alleenstaande moeder;Burgerlijke staat: gehuwd;2008;13.0;;;;;;;;
+528;Alleenstaande moeder;Burgerlijke staat: gehuwd;2009;16.0;9.0;4.0;2.0;3.0;2.0;5.0;;3.0
+529;Alleenstaande moeder;Burgerlijke staat: gehuwd;2010;13.0;;;;;;;;
+530;Alleenstaande moeder;Burgerlijke staat: gehuwd;2011;11.0;;;;;;;;
+531;Alleenstaande moeder;Burgerlijke staat: gehuwd;2012;13.0;;;;;;;;
+532;Alleenstaande moeder;Burgerlijke staat: gehuwd;2013;12.0;;;;;;;;
+533;Alleenstaande moeder;Burgerlijke staat: nooit gehuwd;2001;52.0;24.0;8.0;7.0;9.0;9.0;19.0;11.0;8.0
+534;Alleenstaande moeder;Burgerlijke staat: nooit gehuwd;2002;53.0;25.0;8.0;7.0;9.0;11.0;17.0;10.0;8.0
+535;Alleenstaande moeder;Burgerlijke staat: nooit gehuwd;2003;64.0;29.0;11.0;10.0;9.0;13.0;22.0;10.0;12.0
+536;Alleenstaande moeder;Burgerlijke staat: nooit gehuwd;2004;63.0;30.0;11.0;10.0;9.0;16.0;18.0;8.0;10.0
+537;Alleenstaande moeder;Burgerlijke staat: nooit gehuwd;2005;72.0;38.0;15.0;13.0;10.0;18.0;16.0;5.0;11.0
+538;Alleenstaande moeder;Burgerlijke staat: nooit gehuwd;2006;68.0;36.0;14.0;12.0;10.0;16.0;15.0;5.0;10.0
+539;Alleenstaande moeder;Burgerlijke staat: nooit gehuwd;2007;72.0;42.0;17.0;14.0;12.0;14.0;16.0;4.0;12.0
+540;Alleenstaande moeder;Burgerlijke staat: nooit gehuwd;2008;75.0;46.0;16.0;18.0;12.0;12.0;17.0;4.0;13.0
+541;Alleenstaande moeder;Burgerlijke staat: nooit gehuwd;2009;77.0;47.0;16.0;16.0;14.0;13.0;17.0;4.0;13.0
+542;Alleenstaande moeder;Burgerlijke staat: nooit gehuwd;2010;84.0;51.0;20.0;17.0;14.0;16.0;17.0;4.0;13.0
+543;Alleenstaande moeder;Burgerlijke staat: nooit gehuwd;2011;88.0;52.0;19.0;19.0;14.0;16.0;20.0;4.0;16.0
+544;Alleenstaande moeder;Burgerlijke staat: nooit gehuwd;2012;89.0;53.0;21.0;19.0;13.0;17.0;19.0;5.0;14.0
+545;Alleenstaande moeder;Burgerlijke staat: nooit gehuwd;2013;94.0;52.0;20.0;19.0;13.0;24.0;19.0;5.0;14.0
+546;Alleenstaande moeder;Burgerlijke staat: gescheiden;2001;104.0;55.0;22.0;16.0;16.0;16.0;33.0;14.0;20.0
+547;Alleenstaande moeder;Burgerlijke staat: gescheiden;2002;103.0;61.0;26.0;18.0;17.0;16.0;26.0;9.0;17.0
+548;Alleenstaande moeder;Burgerlijke staat: gescheiden;2003;108.0;64.0;27.0;20.0;18.0;16.0;28.0;9.0;19.0
+549;Alleenstaande moeder;Burgerlijke staat: gescheiden;2004;112.0;66.0;31.0;18.0;18.0;20.0;26.0;7.0;19.0
+550;Alleenstaande moeder;Burgerlijke staat: gescheiden;2005;115.0;68.0;32.0;19.0;17.0;24.0;23.0;6.0;17.0
+551;Alleenstaande moeder;Burgerlijke staat: gescheiden;2006;117.0;71.0;32.0;21.0;17.0;23.0;24.0;6.0;18.0
+552;Alleenstaande moeder;Burgerlijke staat: gescheiden;2007;127.0;81.0;34.0;27.0;20.0;20.0;26.0;5.0;21.0
+553;Alleenstaande moeder;Burgerlijke staat: gescheiden;2008;125.0;86.0;36.0;27.0;23.0;15.0;24.0;5.0;19.0
+554;Alleenstaande moeder;Burgerlijke staat: gescheiden;2009;124.0;83.0;36.0;27.0;21.0;17.0;23.0;4.0;20.0
+555;Alleenstaande moeder;Burgerlijke staat: gescheiden;2010;122.0;82.0;37.0;27.0;17.0;17.0;24.0;4.0;19.0
+556;Alleenstaande moeder;Burgerlijke staat: gescheiden;2011;115.0;79.0;35.0;23.0;21.0;16.0;19.0;4.0;16.0
+557;Alleenstaande moeder;Burgerlijke staat: gescheiden;2012;120.0;79.0;35.0;25.0;19.0;19.0;22.0;3.0;19.0
+558;Alleenstaande moeder;Burgerlijke staat: gescheiden;2013;134.0;84.0;38.0;28.0;19.0;25.0;25.0;4.0;20.0
+559;Alleenstaande moeder;Burgerlijke staat: verweduwd;2001;17.0;7.0;4.0;2.0;;2.0;9.0;5.0;4.0
+560;Alleenstaande moeder;Burgerlijke staat: verweduwd;2002;15.0;5.0;4.0;;;;8.0;5.0;4.0
+561;Alleenstaande moeder;Burgerlijke staat: verweduwd;2003;13.0;;;;;;;;
+562;Alleenstaande moeder;Burgerlijke staat: verweduwd;2004;17.0;6.0;4.0;;;2.0;8.0;4.0;5.0
+563;Alleenstaande moeder;Burgerlijke staat: verweduwd;2005;16.0;6.0;4.0;;;3.0;7.0;3.0;4.0
+564;Alleenstaande moeder;Burgerlijke staat: verweduwd;2006;13.0;;;;;;;;
+565;Alleenstaande moeder;Burgerlijke staat: verweduwd;2007;15.0;7.0;5.0;;;2.0;6.0;3.0;3.0
+566;Alleenstaande moeder;Burgerlijke staat: verweduwd;2008;16.0;8.0;5.0;;;2.0;6.0;2.0;4.0
+567;Alleenstaande moeder;Burgerlijke staat: verweduwd;2009;13.0;;;;;;;;
+568;Alleenstaande moeder;Burgerlijke staat: verweduwd;2010;13.0;;;;;;;;
+569;Alleenstaande moeder;Burgerlijke staat: verweduwd;2011;12.0;;;;;;;;
+570;Alleenstaande moeder;Burgerlijke staat: verweduwd;2012;14.0;;;;;;;;
+571;Alleenstaande moeder;Burgerlijke staat: verweduwd;2013;12.0;;;;;;;;
+572;Lid van ouderpaar;10;2001;1744.0;982.0;690.0;148.0;144.0;145.0;617.0;471.0;146.0
+573;Lid van ouderpaar;10;2002;1762.0;1028.0;727.0;161.0;140.0;145.0;589.0;439.0;151.0
+574;Lid van ouderpaar;10;2003;1767.0;1055.0;740.0;173.0;142.0;161.0;551.0;401.0;150.0
+575;Lid van ouderpaar;10;2004;1756.0;1064.0;748.0;176.0;140.0;179.0;513.0;362.0;151.0
+576;Lid van ouderpaar;10;2005;1738.0;1071.0;753.0;179.0;139.0;197.0;470.0;336.0;135.0
+577;Lid van ouderpaar;10;2006;1724.0;1111.0;759.0;200.0;151.0;183.0;430.0;301.0;128.0
+578;Lid van ouderpaar;10;2007;1710.0;1151.0;779.0;216.0;156.0;159.0;400.0;270.0;130.0
+579;Lid van ouderpaar;10;2008;1687.0;1179.0;781.0;235.0;163.0;137.0;372.0;248.0;124.0
+580;Lid van ouderpaar;10;2009;1680.0;1197.0;777.0;250.0;170.0;139.0;344.0;223.0;122.0
+581;Lid van ouderpaar;10;2010;1662.0;1192.0;767.0;253.0;172.0;149.0;320.0;208.0;112.0
+582;Lid van ouderpaar;10;2011;1646.0;1189.0;757.0;258.0;173.0;138.0;320.0;207.0;112.0
+583;Lid van ouderpaar;10;2012;1647.0;1196.0;742.0;274.0;181.0;153.0;298.0;191.0;106.0
+584;Lid van ouderpaar;10;2013;1625.0;1164.0;702.0;278.0;185.0;183.0;278.0;169.0;109.0
+585;Lid van ouderpaar;12600;2001;1394.0;813.0;598.0;116.0;99.0;104.0;478.0;369.0;109.0
+586;Lid van ouderpaar;12600;2002;1399.0;847.0;628.0;122.0;96.0;100.0;453.0;343.0;110.0
+587;Lid van ouderpaar;12600;2003;1399.0;874.0;639.0;136.0;99.0;107.0;419.0;312.0;108.0
+588;Lid van ouderpaar;12600;2004;1381.0;879.0;645.0;138.0;96.0;121.0;382.0;278.0;104.0
+589;Lid van ouderpaar;12600;2005;1360.0;882.0;646.0;141.0;95.0;134.0;345.0;252.0;92.0
+590;Lid van ouderpaar;12600;2006;1346.0;920.0;655.0;157.0;107.0;115.0;311.0;225.0;87.0
+591;Lid van ouderpaar;12600;2007;1329.0;947.0;671.0;167.0;109.0;99.0;283.0;195.0;88.0
+592;Lid van ouderpaar;12600;2008;1303.0;956.0;666.0;177.0;114.0;87.0;259.0;177.0;82.0
+593;Lid van ouderpaar;12600;2009;1286.0;967.0;659.0;189.0;119.0;86.0;233.0;155.0;78.0
+594;Lid van ouderpaar;12600;2010;1278.0;973.0;656.0;197.0;120.0;91.0;214.0;143.0;71.0
+595;Lid van ouderpaar;12600;2011;1275.0;976.0;648.0;204.0;125.0;84.0;215.0;143.0;72.0
+596;Lid van ouderpaar;12600;2012;1253.0;971.0;624.0;218.0;129.0;90.0;192.0;125.0;67.0
+597;Lid van ouderpaar;12600;2013;1232.0;949.0;591.0;221.0;137.0;106.0;177.0;110.0;67.0
+598;Lid van ouderpaar;12650;2001;155.0;89.0;56.0;17.0;16.0;14.0;52.0;39.0;13.0
+599;Lid van ouderpaar;12650;2002;157.0;93.0;59.0;19.0;16.0;16.0;48.0;34.0;14.0
+600;Lid van ouderpaar;12650;2003;159.0;94.0;61.0;18.0;15.0;19.0;46.0;31.0;15.0
+601;Lid van ouderpaar;12650;2004;161.0;99.0;62.0;19.0;17.0;21.0;42.0;28.0;14.0
+602;Lid van ouderpaar;12650;2005;159.0;100.0;65.0;18.0;18.0;22.0;37.0;25.0;12.0
+603;Lid van ouderpaar;12650;2006;158.0;103.0;61.0;23.0;19.0;23.0;33.0;23.0;10.0
+604;Lid van ouderpaar;12650;2007;160.0;107.0;63.0;24.0;19.0;22.0;32.0;20.0;12.0
+605;Lid van ouderpaar;12650;2008;160.0;112.0;63.0;28.0;21.0;17.0;32.0;21.0;11.0
+606;Lid van ouderpaar;12650;2009;163.0;113.0;63.0;30.0;20.0;19.0;31.0;19.0;12.0
+607;Lid van ouderpaar;12650;2010;156.0;106.0;56.0;28.0;22.0;19.0;30.0;19.0;11.0
+608;Lid van ouderpaar;12650;2011;154.0;106.0;57.0;27.0;21.0;19.0;30.0;18.0;12.0
+609;Lid van ouderpaar;12650;2012;162.0;114.0;61.0;27.0;25.0;19.0;30.0;19.0;11.0
+610;Lid van ouderpaar;12650;2013;167.0;109.0;58.0;27.0;24.0;28.0;30.0;18.0;11.0
+611;Lid van ouderpaar;13000;2001;192.0;80.0;35.0;15.0;29.0;26.0;86.0;62.0;24.0
+612;Lid van ouderpaar;13000;2002;204.0;87.0;39.0;20.0;28.0;29.0;87.0;61.0;27.0
+613;Lid van ouderpaar;13000;2003;208.0;87.0;40.0;19.0;27.0;36.0;86.0;58.0;28.0
+614;Lid van ouderpaar;13000;2004;213.0;87.0;41.0;19.0;27.0;37.0;89.0;56.0;33.0
+615;Lid van ouderpaar;13000;2005;217.0;88.0;42.0;20.0;26.0;41.0;89.0;58.0;30.0
+616;Lid van ouderpaar;13000;2006;219.0;88.0;43.0;21.0;25.0;46.0;85.0;54.0;31.0
+617;Lid van ouderpaar;13000;2007;220.0;97.0;45.0;25.0;28.0;38.0;85.0;55.0;30.0
+618;Lid van ouderpaar;13000;2008;223.0;110.0;53.0;30.0;28.0;32.0;80.0;50.0;31.0
+619;Lid van ouderpaar;13000;2009;231.0;117.0;56.0;31.0;31.0;34.0;80.0;48.0;32.0
+620;Lid van ouderpaar;13000;2010;226.0;112.0;55.0;27.0;29.0;39.0;75.0;45.0;30.0
+621;Lid van ouderpaar;13000;2011;216.0;106.0;53.0;27.0;27.0;35.0;75.0;46.0;29.0
+622;Lid van ouderpaar;13000;2012;232.0;112.0;56.0;29.0;27.0;45.0;76.0;47.0;28.0
+623;Lid van ouderpaar;13000;2013;225.0;106.0;52.0;30.0;23.0;49.0;71.0;40.0;31.0
+624;Lid van ouderpaar;13355;2001;3.0;;;;;;;;
+625;Lid van ouderpaar;13355;2002;2.0;;;;;;;;
+626;Lid van ouderpaar;13355;2003;;;;;;;;;
+627;Lid van ouderpaar;13355;2004;;;;;;;;;
+628;Lid van ouderpaar;13355;2005;;;;;;;;;
+629;Lid van ouderpaar;13355;2006;;;;;;;;;
+630;Lid van ouderpaar;13355;2007;;;;;;;;;
+631;Lid van ouderpaar;13355;2008;;;;;;;;;
+632;Lid van ouderpaar;13355;2009;;;;;;;;;
+633;Lid van ouderpaar;13355;2010;2.0;;;;;;;;
+634;Lid van ouderpaar;13355;2011;;;;;;;;;
+635;Lid van ouderpaar;13355;2012;;;;;;;;;
+636;Lid van ouderpaar;13355;2013;;;;;;;;;
+637;Lid van ouderpaar;18700;2001;582.0;233.0;165.0;27.0;41.0;59.0;291.0;213.0;78.0
+638;Lid van ouderpaar;18700;2002;560.0;235.0;172.0;30.0;33.0;57.0;267.0;191.0;76.0
+639;Lid van ouderpaar;18700;2003;532.0;224.0;163.0;28.0;34.0;65.0;243.0;169.0;74.0
+640;Lid van ouderpaar;18700;2004;482.0;204.0;149.0;25.0;30.0;67.0;211.0;144.0;67.0
+641;Lid van ouderpaar;18700;2005;451.0;193.0;144.0;23.0;27.0;71.0;187.0;128.0;59.0
+642;Lid van ouderpaar;18700;2006;421.0;184.0;134.0;24.0;27.0;62.0;174.0;116.0;59.0
+643;Lid van ouderpaar;18700;2007;398.0;189.0;139.0;25.0;25.0;53.0;155.0;102.0;54.0
+644;Lid van ouderpaar;18700;2008;386.0;193.0;137.0;30.0;27.0;44.0;148.0;92.0;56.0
+645;Lid van ouderpaar;18700;2009;371.0;184.0;131.0;30.0;23.0;48.0;138.0;85.0;54.0
+646;Lid van ouderpaar;18700;2010;344.0;169.0;122.0;26.0;22.0;50.0;125.0;77.0;48.0
+647;Lid van ouderpaar;18700;2011;345.0;175.0;125.0;27.0;22.0;44.0;127.0;77.0;50.0
+648;Lid van ouderpaar;18700;2012;327.0;160.0;112.0;27.0;21.0;50.0;117.0;73.0;45.0
+649;Lid van ouderpaar;18700;2013;293.0;143.0;104.0;23.0;16.0;50.0;99.0;57.0;42.0
+650;Lid van ouderpaar;18740;2001;796.0;481.0;362.0;61.0;58.0;61.0;255.0;204.0;50.0
+651;Lid van ouderpaar;18740;2002;812.0;499.0;378.0;65.0;56.0;61.0;253.0;197.0;56.0
+652;Lid van ouderpaar;18740;2003;830.0;521.0;394.0;67.0;60.0;69.0;240.0;183.0;57.0
+653;Lid van ouderpaar;18740;2004;814.0;511.0;393.0;64.0;54.0;78.0;225.0;166.0;60.0
+654;Lid van ouderpaar;18740;2005;817.0;516.0;390.0;72.0;54.0;89.0;212.0;157.0;54.0
+655;Lid van ouderpaar;18740;2006;819.0;543.0;404.0;81.0;59.0;86.0;190.0;142.0;48.0
+656;Lid van ouderpaar;18740;2007;824.0;567.0;419.0;84.0;64.0;73.0;185.0;129.0;56.0
+657;Lid van ouderpaar;18740;2008;792.0;564.0;416.0;87.0;61.0;62.0;166.0;116.0;50.0
+658;Lid van ouderpaar;18740;2009;767.0;562.0;408.0;91.0;62.0;58.0;148.0;102.0;46.0
+659;Lid van ouderpaar;18740;2010;758.0;554.0;403.0;91.0;60.0;65.0;139.0;95.0;45.0
+660;Lid van ouderpaar;18740;2011;743.0;546.0;393.0;95.0;58.0;62.0;135.0;92.0;44.0
+661;Lid van ouderpaar;18740;2012;737.0;548.0;387.0;100.0;60.0;66.0;123.0;81.0;42.0
+662;Lid van ouderpaar;18740;2013;729.0;517.0;358.0;99.0;60.0;86.0;127.0;80.0;47.0
+663;Lid van ouderpaar;18790;2001;359.0;265.0;161.0;60.0;44.0;25.0;70.0;52.0;18.0
+664;Lid van ouderpaar;18790;2002;383.0;289.0;173.0;66.0;50.0;26.0;68.0;50.0;18.0
+665;Lid van ouderpaar;18790;2003;399.0;306.0;182.0;77.0;47.0;26.0;67.0;48.0;19.0
+666;Lid van ouderpaar;18790;2004;447.0;344.0;204.0;86.0;53.0;32.0;71.0;49.0;22.0
+667;Lid van ouderpaar;18790;2005;457.0;358.0;216.0;84.0;57.0;34.0;65.0;46.0;19.0
+668;Lid van ouderpaar;18790;2006;473.0;380.0;220.0;95.0;65.0;33.0;60.0;41.0;19.0
+669;Lid van ouderpaar;18790;2007;478.0;391.0;219.0;106.0;66.0;32.0;55.0;37.0;18.0
+670;Lid van ouderpaar;18790;2008;504.0;418.0;227.0;117.0;74.0;30.0;55.0;39.0;17.0
+671;Lid van ouderpaar;18790;2009;537.0;447.0;236.0;128.0;83.0;32.0;58.0;36.0;22.0
+672;Lid van ouderpaar;18790;2010;552.0;463.0;240.0;135.0;89.0;34.0;54.0;35.0;19.0
+673;Lid van ouderpaar;18790;2011;550.0;463.0;236.0;135.0;91.0;31.0;56.0;38.0;18.0
+674;Lid van ouderpaar;18790;2012;575.0;483.0;239.0;145.0;98.0;37.0;55.0;36.0;19.0
+675;Lid van ouderpaar;18790;2013;583.0;494.0;233.0;155.0;106.0;43.0;45.0;29.0;16.0
+676;Lid van ouderpaar;18820;2001;7.0;;;;;;;;
+677;Lid van ouderpaar;18820;2002;7.0;;;;;;;;
+678;Lid van ouderpaar;18820;2003;6.0;;;;;;;;
+679;Lid van ouderpaar;18820;2004;12.0;;;;;;;;
+680;Lid van ouderpaar;18820;2005;13.0;;;;;;;;
+681;Lid van ouderpaar;18820;2006;10.0;;;;;;;;
+682;Lid van ouderpaar;18820;2007;11.0;;;;;;;;
+683;Lid van ouderpaar;18820;2008;5.0;;;;;;;;
+684;Lid van ouderpaar;18820;2009;6.0;;;;;;;;
+685;Lid van ouderpaar;18820;2010;8.0;;;;;;;;
+686;Lid van ouderpaar;18820;2011;8.0;;;;;;;;
+687;Lid van ouderpaar;18820;2012;9.0;;;;;;;;
+688;Lid van ouderpaar;18820;2013;21.0;10.0;6.0;2.0;;4.0;7.0;4.0;3.0
+689;Lid van ouderpaar;19;2001;200.0;94.0;67.0;12.0;14.0;20.0;85.0;71.0;14.0
+690;Lid van ouderpaar;19;2002;199.0;96.0;71.0;13.0;13.0;20.0;82.0;65.0;17.0
+691;Lid van ouderpaar;19;2003;191.0;99.0;70.0;13.0;16.0;22.0;70.0;55.0;15.0
+692;Lid van ouderpaar;19;2004;181.0;95.0;65.0;15.0;15.0;24.0;61.0;47.0;14.0
+693;Lid van ouderpaar;19;2005;175.0;92.0;64.0;15.0;13.0;26.0;57.0;42.0;15.0
+694;Lid van ouderpaar;19;2006;165.0;94.0;67.0;14.0;12.0;24.0;48.0;37.0;11.0
+695;Lid van ouderpaar;19;2007;162.0;95.0;66.0;16.0;13.0;19.0;48.0;36.0;12.0
+696;Lid van ouderpaar;19;2008;161.0;102.0;69.0;18.0;15.0;15.0;44.0;33.0;11.0
+697;Lid van ouderpaar;19;2009;157.0;98.0;68.0;17.0;12.0;17.0;42.0;30.0;12.0
+698;Lid van ouderpaar;19;2010;158.0;99.0;65.0;21.0;13.0;19.0;40.0;27.0;13.0
+699;Lid van ouderpaar;19;2011;167.0;109.0;71.0;22.0;16.0;18.0;40.0;29.0;11.0
+700;Lid van ouderpaar;19;2012;159.0;105.0;66.0;24.0;15.0;20.0;34.0;23.0;11.0
+701;Lid van ouderpaar;19;2013;144.0;90.0;54.0;23.0;12.0;21.0;32.0;20.0;13.0
+702;Lid van ouderpaar;20;2001;856.0;494.0;363.0;67.0;65.0;68.0;294.0;241.0;53.0
+703;Lid van ouderpaar;20;2002;854.0;506.0;371.0;75.0;60.0;66.0;283.0;230.0;53.0
+704;Lid van ouderpaar;20;2003;843.0;517.0;373.0;82.0;62.0;75.0;251.0;198.0;52.0
+705;Lid van ouderpaar;20;2004;819.0;513.0;367.0;85.0;61.0;80.0;226.0;177.0;49.0
+706;Lid van ouderpaar;20;2005;789.0;500.0;359.0;81.0;61.0;86.0;204.0;160.0;44.0
+707;Lid van ouderpaar;20;2006;764.0;504.0;348.0;92.0;64.0;77.0;183.0;141.0;41.0
+708;Lid van ouderpaar;20;2007;747.0;519.0;356.0;96.0;67.0;63.0;165.0;125.0;39.0
+709;Lid van ouderpaar;20;2008;714.0;516.0;344.0;104.0;68.0;51.0;146.0;109.0;37.0
+710;Lid van ouderpaar;20;2009;691.0;512.0;333.0;112.0;67.0;51.0;128.0;94.0;33.0
+711;Lid van ouderpaar;20;2010;665.0;498.0;322.0;108.0;68.0;53.0;114.0;82.0;32.0
+712;Lid van ouderpaar;20;2011;643.0;485.0;308.0;107.0;71.0;47.0;110.0;81.0;30.0
+713;Lid van ouderpaar;20;2012;640.0;480.0;297.0;117.0;67.0;57.0;102.0;75.0;27.0
+714;Lid van ouderpaar;20;2013;626.0;466.0;275.0;119.0;72.0;64.0;96.0;66.0;29.0
+715;Lid van ouderpaar;21;2001;689.0;394.0;260.0;69.0;65.0;56.0;238.0;159.0;79.0
+716;Lid van ouderpaar;21;2002;709.0;426.0;285.0;73.0;67.0;59.0;225.0;144.0;81.0
+717;Lid van ouderpaar;21;2003;734.0;439.0;298.0;78.0;63.0;64.0;231.0;148.0;83.0
+718;Lid van ouderpaar;21;2004;757.0;457.0;317.0;77.0;63.0;74.0;226.0;137.0;88.0
+719;Lid van ouderpaar;21;2005;774.0;479.0;331.0;83.0;65.0;85.0;209.0;133.0;76.0
+720;Lid van ouderpaar;21;2006;795.0;514.0;344.0;94.0;76.0;82.0;199.0;123.0;76.0
+721;Lid van ouderpaar;21;2007;801.0;537.0;357.0;104.0;77.0;77.0;187.0;109.0;78.0
+722;Lid van ouderpaar;21;2008;812.0;561.0;367.0;113.0;80.0;70.0;182.0;106.0;76.0
+723;Lid van ouderpaar;21;2009;832.0;587.0;376.0;121.0;90.0;70.0;175.0;98.0;77.0
+724;Lid van ouderpaar;21;2010;838.0;595.0;380.0;123.0;92.0;78.0;165.0;98.0;67.0
+725;Lid van ouderpaar;21;2011;836.0;594.0;378.0;129.0;87.0;73.0;169.0;98.0;72.0
+726;Lid van ouderpaar;21;2012;849.0;611.0;379.0;133.0;99.0;76.0;162.0;93.0;69.0
+727;Lid van ouderpaar;21;2013;855.0;608.0;372.0;136.0;100.0;97.0;149.0;83.0;67.0
+728;Lid van ouderpaar;22;2001;862.0;481.0;356.0;66.0;60.0;65.0;315.0;268.0;47.0
+729;Lid van ouderpaar;22;2002;882.0;505.0;374.0;74.0;57.0;68.0;309.0;259.0;50.0
+730;Lid van ouderpaar;22;2003;874.0;517.0;376.0;80.0;61.0;76.0;281.0;232.0;49.0
+731;Lid van ouderpaar;22;2004;869.0;523.0;376.0;87.0;60.0;85.0;261.0;211.0;50.0
+732;Lid van ouderpaar;22;2005;847.0;524.0;374.0;88.0;62.0;93.0;231.0;185.0;46.0
+733;Lid van ouderpaar;22;2006;827.0;537.0;373.0;99.0;65.0;82.0;209.0;168.0;41.0
+734;Lid van ouderpaar;22;2007;804.0;546.0;375.0;105.0;66.0;68.0;190.0;149.0;41.0
+735;Lid van ouderpaar;22;2008;779.0;556.0;370.0;113.0;72.0;55.0;169.0;132.0;36.0
+736;Lid van ouderpaar;22;2009;770.0;558.0;361.0;125.0;73.0;58.0;154.0;116.0;38.0
+737;Lid van ouderpaar;22;2010;759.0;553.0;356.0;125.0;72.0;64.0;142.0;105.0;37.0
+738;Lid van ouderpaar;22;2011;752.0;550.0;344.0;124.0;82.0;58.0;143.0;109.0;34.0
+739;Lid van ouderpaar;22;2012;750.0;554.0;333.0;142.0;80.0;68.0;128.0;95.0;33.0
+740;Lid van ouderpaar;22;2013;726.0;524.0;302.0;141.0;82.0;78.0;124.0;86.0;38.0
+741;Lid van ouderpaar;23;2001;477.0;262.0;184.0;40.0;38.0;48.0;168.0;126.0;41.0
+742;Lid van ouderpaar;23;2002;476.0;275.0;196.0;45.0;35.0;45.0;156.0;114.0;42.0
+743;Lid van ouderpaar;23;2003;481.0;282.0;202.0;44.0;36.0;50.0;149.0;105.0;43.0
+744;Lid van ouderpaar;23;2004;465.0;282.0;203.0;43.0;36.0;52.0;131.0;89.0;42.0
+745;Lid van ouderpaar;23;2005;467.0;282.0;204.0;42.0;37.0;59.0;125.0;88.0;37.0
+746;Lid van ouderpaar;23;2006;470.0;298.0;212.0;48.0;38.0;58.0;114.0;78.0;36.0
+747;Lid van ouderpaar;23;2007;479.0;318.0;223.0;53.0;42.0;51.0;110.0;73.0;37.0
+748;Lid van ouderpaar;23;2008;485.0;334.0;231.0;59.0;44.0;46.0;106.0;69.0;37.0
+749;Lid van ouderpaar;23;2009;485.0;337.0;229.0;63.0;45.0;46.0;102.0;66.0;36.0
+750;Lid van ouderpaar;23;2010;484.0;339.0;229.0;63.0;47.0;49.0;96.0;63.0;33.0
+751;Lid van ouderpaar;23;2011;479.0;342.0;232.0;66.0;44.0;44.0;93.0;61.0;32.0
+752;Lid van ouderpaar;23;2012;474.0;339.0;224.0;66.0;49.0;47.0;88.0;58.0;30.0
+753;Lid van ouderpaar;23;2013;477.0;345.0;223.0;73.0;50.0;55.0;77.0;48.0;29.0
+754;Lid van ouderpaar;24;2001;405.0;239.0;150.0;42.0;47.0;32.0;134.0;77.0;58.0
+755;Lid van ouderpaar;24;2002;404.0;247.0;157.0;42.0;49.0;32.0;125.0;66.0;59.0
+756;Lid van ouderpaar;24;2003;412.0;255.0;162.0;48.0;45.0;35.0;122.0;64.0;58.0
+757;Lid van ouderpaar;24;2004;422.0;259.0;169.0;46.0;44.0;41.0;121.0;61.0;60.0
+758;Lid van ouderpaar;24;2005;424.0;264.0;175.0;49.0;40.0;45.0;115.0;63.0;52.0
+759;Lid van ouderpaar;24;2006;427.0;276.0;175.0;53.0;49.0;44.0;107.0;55.0;52.0
+760;Lid van ouderpaar;24;2007;427.0;287.0;180.0;58.0;49.0;40.0;100.0;48.0;52.0
+761;Lid van ouderpaar;24;2008;422.0;289.0;180.0;62.0;47.0;36.0;97.0;46.0;51.0
+762;Lid van ouderpaar;24;2009;425.0;302.0;188.0;62.0;52.0;34.0;88.0;40.0;48.0
+763;Lid van ouderpaar;24;2010;419.0;300.0;183.0;64.0;53.0;37.0;82.0;40.0;43.0
+764;Lid van ouderpaar;24;2011;415.0;296.0;182.0;67.0;47.0;35.0;83.0;38.0;46.0
+765;Lid van ouderpaar;24;2012;423.0;303.0;186.0;66.0;52.0;39.0;81.0;38.0;43.0
+766;Lid van ouderpaar;24;2013;421.0;295.0;177.0;64.0;53.0;50.0;77.0;34.0;43.0
+767;Lid van ouderpaar;25;2001;662.0;409.0;267.0;69.0;72.0;50.0;204.0;133.0;70.0
+768;Lid van ouderpaar;25;2002;668.0;430.0;280.0;76.0;73.0;49.0;189.0;117.0;72.0
+769;Lid van ouderpaar;25;2003;677.0;435.0;279.0;84.0;72.0;59.0;184.0;108.0;75.0
+770;Lid van ouderpaar;25;2004;651.0;424.0;270.0;85.0;69.0;62.0;165.0;92.0;73.0
+771;Lid van ouderpaar;25;2005;656.0;434.0;281.0;87.0;65.0;70.0;153.0;87.0;66.0
+772;Lid van ouderpaar;25;2006;644.0;438.0;276.0;91.0;71.0;65.0;141.0;77.0;64.0
+773;Lid van ouderpaar;25;2007;647.0;453.0;280.0;101.0;73.0;57.0;136.0;71.0;66.0
+774;Lid van ouderpaar;25;2008;630.0;462.0;273.0;108.0;80.0;48.0;120.0;61.0;59.0
+775;Lid van ouderpaar;25;2009;635.0;466.0;276.0;108.0;81.0;51.0;119.0;56.0;63.0
+776;Lid van ouderpaar;25;2010;625.0;457.0;262.0;110.0;86.0;57.0;111.0;55.0;56.0
+777;Lid van ouderpaar;25;2011;598.0;446.0;250.0;109.0;86.0;50.0;103.0;50.0;54.0
+778;Lid van ouderpaar;25;2012;612.0;457.0;247.0;122.0;87.0;58.0;98.0;48.0;50.0
+779;Lid van ouderpaar;25;2013;602.0;433.0;232.0;117.0;85.0;70.0;98.0;42.0;56.0
+780;Lid van ouderpaar;26;2001;774.0;432.0;318.0;62.0;52.0;68.0;273.0;217.0;56.0
+781;Lid van ouderpaar;26;2002;792.0;458.0;344.0;65.0;49.0;67.0;267.0;208.0;59.0
+782;Lid van ouderpaar;26;2003;788.0;478.0;356.0;69.0;53.0;75.0;235.0;180.0;55.0
+783;Lid van ouderpaar;26;2004;804.0;498.0;370.0;72.0;55.0;84.0;222.0;166.0;56.0
+784;Lid van ouderpaar;26;2005;781.0;490.0;366.0;69.0;55.0;88.0;203.0;152.0;51.0
+785;Lid van ouderpaar;26;2006;782.0;517.0;373.0;84.0;61.0;83.0;182.0;134.0;48.0
+786;Lid van ouderpaar;26;2007;773.0;538.0;381.0;92.0;65.0;72.0;163.0;118.0;45.0
+787;Lid van ouderpaar;26;2008;765.0;546.0;385.0;99.0;61.0;64.0;156.0;109.0;47.0
+788;Lid van ouderpaar;26;2009;760.0;557.0;383.0;110.0;65.0;62.0;141.0;98.0;43.0
+789;Lid van ouderpaar;26;2010;747.0;556.0;379.0;111.0;66.0;64.0;127.0;87.0;41.0
+790;Lid van ouderpaar;26;2011;760.0;572.0;385.0;120.0;67.0;61.0;128.0;86.0;42.0
+791;Lid van ouderpaar;26;2012;753.0;565.0;376.0;120.0;70.0;67.0;120.0;80.0;40.0
+792;Lid van ouderpaar;26;2013;740.0;557.0;355.0;126.0;76.0;78.0;105.0;68.0;37.0
+793;Lid van ouderpaar;27;2001;308.0;141.0;105.0;17.0;20.0;26.0;140.0;120.0;20.0
+794;Lid van ouderpaar;27;2002;302.0;140.0;102.0;20.0;18.0;29.0;133.0;113.0;20.0
+795;Lid van ouderpaar;27;2003;302.0;142.0;105.0;20.0;17.0;28.0;133.0;113.0;20.0
+796;Lid van ouderpaar;27;2004;301.0;142.0;108.0;19.0;16.0;33.0;126.0;104.0;23.0
+797;Lid van ouderpaar;27;2005;300.0;147.0;106.0;22.0;19.0;39.0;114.0;96.0;18.0
+798;Lid van ouderpaar;27;2006;297.0;155.0;110.0;26.0;19.0;35.0;107.0;90.0;16.0
+799;Lid van ouderpaar;27;2007;290.0;160.0;118.0;24.0;19.0;30.0;100.0;81.0;19.0
+800;Lid van ouderpaar;27;2008;292.0;171.0;122.0;27.0;22.0;25.0;96.0;78.0;18.0
+801;Lid van ouderpaar;27;2009;285.0;174.0;119.0;32.0;23.0;27.0;84.0;69.0;15.0
+802;Lid van ouderpaar;27;2010;290.0;179.0;126.0;32.0;21.0;28.0;82.0;66.0;16.0
+803;Lid van ouderpaar;27;2011;288.0;171.0;122.0;29.0;20.0;28.0;89.0;72.0;17.0
+804;Lid van ouderpaar;27;2012;282.0;174.0;119.0;32.0;24.0;29.0;79.0;64.0;16.0
+805;Lid van ouderpaar;27;2013;283.0;174.0;115.0;36.0;24.0;34.0;75.0;59.0;16.0
+806;Lid van ouderpaar;Burgerlijke staat: gehuwd;2001;1580.0;869.0;624.0;125.0;121.0;133.0;578.0;442.0;136.0
+807;Lid van ouderpaar;Burgerlijke staat: gehuwd;2002;1577.0;899.0;648.0;135.0;117.0;131.0;547.0;409.0;138.0
+808;Lid van ouderpaar;Burgerlijke staat: gehuwd;2003;1564.0;910.0;655.0;140.0;115.0;141.0;513.0;376.0;137.0
+809;Lid van ouderpaar;Burgerlijke staat: gehuwd;2004;1536.0;909.0;655.0;141.0;113.0;154.0;474.0;336.0;138.0
+810;Lid van ouderpaar;Burgerlijke staat: gehuwd;2005;1511.0;911.0;655.0;142.0;114.0;170.0;430.0;310.0;120.0
+811;Lid van ouderpaar;Burgerlijke staat: gehuwd;2006;1490.0;937.0;655.0;159.0;123.0;161.0;393.0;277.0;116.0
+812;Lid van ouderpaar;Burgerlijke staat: gehuwd;2007;1463.0;961.0;664.0;170.0;127.0;137.0;364.0;248.0;117.0
+813;Lid van ouderpaar;Burgerlijke staat: gehuwd;2008;1433.0;977.0;665.0;184.0;128.0;118.0;339.0;228.0;110.0
+814;Lid van ouderpaar;Burgerlijke staat: gehuwd;2009;1418.0;995.0;664.0;195.0;135.0;115.0;308.0;202.0;106.0
+815;Lid van ouderpaar;Burgerlijke staat: gehuwd;2010;1389.0;978.0;647.0;198.0;133.0;125.0;286.0;189.0;97.0
+816;Lid van ouderpaar;Burgerlijke staat: gehuwd;2011;1374.0;974.0;638.0;202.0;134.0;116.0;283.0;187.0;96.0
+817;Lid van ouderpaar;Burgerlijke staat: gehuwd;2012;1367.0;973.0;619.0;210.0;143.0;128.0;267.0;174.0;92.0
+818;Lid van ouderpaar;Burgerlijke staat: gehuwd;2013;1353.0;953.0;589.0;218.0;147.0;151.0;248.0;155.0;92.0
+819;Lid van ouderpaar;Burgerlijke staat: nooit gehuwd;2001;130.0;91.0;55.0;18.0;17.0;8.0;32.0;24.0;7.0
+820;Lid van ouderpaar;Burgerlijke staat: nooit gehuwd;2002;147.0;103.0;65.0;21.0;17.0;12.0;32.0;24.0;8.0
+821;Lid van ouderpaar;Burgerlijke staat: nooit gehuwd;2003;163.0;117.0;70.0;28.0;19.0;16.0;30.0;21.0;9.0
+822;Lid van ouderpaar;Burgerlijke staat: nooit gehuwd;2004;171.0;124.0;76.0;29.0;19.0;18.0;29.0;20.0;9.0
+823;Lid van ouderpaar;Burgerlijke staat: nooit gehuwd;2005;182.0;130.0;81.0;31.0;18.0;21.0;32.0;21.0;11.0
+824;Lid van ouderpaar;Burgerlijke staat: nooit gehuwd;2006;194.0;147.0;88.0;36.0;23.0;17.0;30.0;21.0;9.0
+825;Lid van ouderpaar;Burgerlijke staat: nooit gehuwd;2007;208.0;161.0;98.0;39.0;24.0;18.0;29.0;19.0;10.0
+826;Lid van ouderpaar;Burgerlijke staat: nooit gehuwd;2008;211.0;170.0;99.0;43.0;28.0;15.0;26.0;16.0;10.0
+827;Lid van ouderpaar;Burgerlijke staat: nooit gehuwd;2009;221.0;174.0;98.0;47.0;28.0;19.0;29.0;17.0;11.0
+828;Lid van ouderpaar;Burgerlijke staat: nooit gehuwd;2010;234.0;185.0;105.0;47.0;33.0;20.0;29.0;17.0;12.0
+829;Lid van ouderpaar;Burgerlijke staat: nooit gehuwd;2011;237.0;189.0;107.0;49.0;33.0;18.0;31.0;19.0;12.0
+830;Lid van ouderpaar;Burgerlijke staat: nooit gehuwd;2012;246.0;199.0;110.0;56.0;33.0;21.0;26.0;15.0;12.0
+831;Lid van ouderpaar;Burgerlijke staat: nooit gehuwd;2013;240.0;188.0;100.0;54.0;33.0;27.0;25.0;12.0;13.0
+832;Lid van ouderpaar;Burgerlijke staat: gescheiden;2001;32.0;21.0;11.0;5.0;6.0;4.0;7.0;4.0;3.0
+833;Lid van ouderpaar;Burgerlijke staat: gescheiden;2002;38.0;25.0;14.0;6.0;6.0;3.0;9.0;5.0;4.0
+834;Lid van ouderpaar;Burgerlijke staat: gescheiden;2003;38.0;27.0;14.0;5.0;7.0;5.0;7.0;3.0;4.0
+835;Lid van ouderpaar;Burgerlijke staat: gescheiden;2004;45.0;30.0;16.0;6.0;7.0;6.0;9.0;5.0;4.0
+836;Lid van ouderpaar;Burgerlijke staat: gescheiden;2005;42.0;29.0;17.0;6.0;6.0;5.0;8.0;4.0;4.0
+837;Lid van ouderpaar;Burgerlijke staat: gescheiden;2006;38.0;26.0;15.0;6.0;5.0;5.0;7.0;3.0;3.0
+838;Lid van ouderpaar;Burgerlijke staat: gescheiden;2007;37.0;28.0;16.0;6.0;5.0;4.0;6.0;3.0;3.0
+839;Lid van ouderpaar;Burgerlijke staat: gescheiden;2008;41.0;31.0;16.0;8.0;7.0;4.0;7.0;3.0;4.0
+840;Lid van ouderpaar;Burgerlijke staat: gescheiden;2009;39.0;27.0;14.0;8.0;6.0;5.0;7.0;3.0;4.0
+841;Lid van ouderpaar;Burgerlijke staat: gescheiden;2010;37.0;28.0;15.0;7.0;6.0;4.0;4.0;;3.0
+842;Lid van ouderpaar;Burgerlijke staat: gescheiden;2011;34.0;24.0;12.0;7.0;6.0;4.0;5.0;2.0;4.0
+843;Lid van ouderpaar;Burgerlijke staat: gescheiden;2012;32.0;23.0;12.0;7.0;4.0;4.0;5.0;2.0;2.0
+844;Lid van ouderpaar;Burgerlijke staat: gescheiden;2013;31.0;22.0;12.0;6.0;4.0;5.0;5.0;;3.0
+845;Lid van ouderpaar;Burgerlijke staat: verweduwd;2001;;;;;;;;;
+846;Lid van ouderpaar;Burgerlijke staat: verweduwd;2002;;;;;;;;;
+847;Lid van ouderpaar;Burgerlijke staat: verweduwd;2003;2.0;;;;;;;;
+848;Lid van ouderpaar;Burgerlijke staat: verweduwd;2004;3.0;;;;;;;;
+849;Lid van ouderpaar;Burgerlijke staat: verweduwd;2005;2.0;;;;;;;;
+850;Lid van ouderpaar;Burgerlijke staat: verweduwd;2006;2.0;;;;;;;;
+851;Lid van ouderpaar;Burgerlijke staat: verweduwd;2007;2.0;;;;;;;;
+852;Lid van ouderpaar;Burgerlijke staat: verweduwd;2008;2.0;;;;;;;;
+853;Lid van ouderpaar;Burgerlijke staat: verweduwd;2009;2.0;;;;;;;;
+854;Lid van ouderpaar;Burgerlijke staat: verweduwd;2010;2.0;;;;;;;;
+855;Lid van ouderpaar;Burgerlijke staat: verweduwd;2011;2.0;;;;;;;;
+856;Lid van ouderpaar;Burgerlijke staat: verweduwd;2012;2.0;;;;;;;;
+857;Lid van ouderpaar;Burgerlijke staat: verweduwd;2013;;;;;;;;;

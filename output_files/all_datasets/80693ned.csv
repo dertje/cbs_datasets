@@ -1,0 +1,223 @@
+﻿ID;Watergebruikers;Perioden;GebruikVanLeidingwater_1;TotaalGebruikVanGrondwater_2;GebruikVanGrondwaterVoorKoeling_3;OverigeGebruikVanGrondWater_4;GebruikVanOppervlakteWater_5
+0;1;2003;1132.1;1144.1;82.7;1061.4;13948.0
+1;1;2004;1099.4;1034.7;96.8;937.9;14903.1
+2;1;2005;1087.2;994.2;80.7;913.5;13928.9
+3;1;2006;1098.8;1058.0;82.8;975.2;13514.9
+4;1;2007;1088.1;987.5;74.9;912.6;13549.2
+5;1;2008;1093.1;972.2;72.5;899.7;13285.5
+6;2;2003;733.8;;;;
+7;2;2004;720.3;;;;
+8;2;2005;714.4;;;;
+9;2;2006;729.3;;;;
+10;2;2007;719.1;;;;
+11;2;2008;718.2;;;;
+12;3;2003;398.3;;;;
+13;3;2004;379.1;;;;
+14;3;2005;372.8;;;;
+15;3;2006;369.4;;;;
+16;3;2007;369.0;;;;
+17;3;2008;374.9;;;;
+18;4;2003;58.2;150.4;;150.4;54.6
+19;4;2004;52.0;64.9;;64.9;26.6
+20;4;2005;49.5;62.1;;62.1;13.5
+21;4;2006;48.7;112.0;;112.0;27.1
+22;4;2007;50.2;56.2;;56.2;18.6
+23;4;2008;47.5;51.7;;51.7;22.6
+24;5;2003;1.2;18.2;;18.2;6.7
+25;5;2004;1.5;2.8;;2.8;2.3
+26;5;2005;1.4;4.0;;4.0;1.5
+27;5;2006;1.2;9.1;;9.1;10.5
+28;5;2007;1.2;4.6;;4.6;3.8
+29;5;2008;1.1;7.5;;7.5;3.7
+30;6;2003;14.1;15.8;;15.8;21.5
+31;6;2004;10.1;11.3;;11.3;14.4
+32;6;2005;7.9;8.9;;8.9;8.0
+33;6;2006;7.2;11.7;;11.7;7.6
+34;6;2007;8.8;7.8;;7.8;9.3
+35;6;2008;7.2;9.0;;9.0;4.6
+36;7;2003;36.2;101.5;;101.5;10.9
+37;7;2004;35.0;43.0;;43.0;3.4
+38;7;2005;34.9;41.2;;41.2;2.7
+39;7;2006;33.0;68.8;;68.8;6.5
+40;7;2007;34.9;41.3;;41.3;2.0
+41;7;2008;33.9;32.4;;32.4;10.2
+42;8;2003;6.4;15.0;;15.0;15.5
+43;8;2004;5.2;7.8;;7.8;6.5
+44;8;2005;5.2;8.0;;8.0;1.2
+45;8;2006;7.2;22.4;;22.4;2.6
+46;8;2007;5.2;2.5;;2.5;3.5
+47;8;2008;5.1;2.9;;2.9;4.0
+48;9;2003;0.2;0.0;;0.0;0.0
+49;9;2004;0.2;0.0;;0.0;0.0
+50;9;2005;0.2;0.0;;0.0;0.0
+51;9;2006;0.2;0.0;;0.0;0.0
+52;9;2007;0.1;0.0;;0.0;0.0
+53;9;2008;0.1;0.0;;0.0;0.0
+54;Delfstoffenwinning;2003;4.7;0.1;0.1;0.0;1.2
+55;Delfstoffenwinning;2004;4.4;0.1;0.0;0.0;1.1
+56;Delfstoffenwinning;2005;4.3;0.1;0.0;0.0;1.1
+57;Delfstoffenwinning;2006;4.2;0.1;0.0;0.0;1.1
+58;Delfstoffenwinning;2007;4.0;0.1;0.0;0.0;1.0
+59;Delfstoffenwinning;2008;4.2;0.1;0.0;0.0;1.1
+60;Totaal industrie;2003;198.4;190.1;82.7;107.5;3675.9
+61;Totaal industrie;2004;217.6;196.8;96.8;100.0;3637.5
+62;Totaal industrie;2005;212.7;163.8;80.7;83.1;3152.7
+63;Totaal industrie;2006;207.4;165.6;82.8;82.9;3196.0
+64;Totaal industrie;2007;200.8;161.0;74.8;86.2;3178.2
+65;Totaal industrie;2008;200.0;155.5;72.5;83.0;3296.4
+66;Voedings- en genotmiddelenindustrie;2003;49.7;63.9;15.4;48.5;123.2
+67;Voedings- en genotmiddelenindustrie;2004;49.1;53.1;14.0;39.1;139.9
+68;Voedings- en genotmiddelenindustrie;2005;48.8;49.8;11.9;37.9;118.4
+69;Voedings- en genotmiddelenindustrie;2006;50.9;52.0;12.9;39.1;122.9
+70;Voedings- en genotmiddelenindustrie;2007;48.8;49.6;13.0;36.6;126.2
+71;Voedings- en genotmiddelenindustrie;2008;55.9;51.1;13.3;37.8;141.8
+72;Textiel- en lederindustrie;2003;1.5;4.4;0.2;4.2;2.1
+73;Textiel- en lederindustrie;2004;1.2;4.1;0.2;3.8;3.2
+74;Textiel- en lederindustrie;2005;0.9;4.1;0.2;3.9;4.2
+75;Textiel- en lederindustrie;2006;1.0;2.9;0.2;2.7;2.5
+76;Textiel- en lederindustrie;2007;1.1;3.2;0.3;2.9;3.7
+77;Textiel- en lederindustrie;2008;1.1;2.8;0.2;2.6;4.5
+78;Papierindustrie;2003;2.9;35.4;0.2;35.3;98.2
+79;Papierindustrie;2004;2.4;33.0;0.1;33.0;109.8
+80;Papierindustrie;2005;3.5;23.1;1.4;21.7;115.7
+81;Papierindustrie;2006;3.1;21.8;2.2;19.7;107.6
+82;Papierindustrie;2007;2.9;20.7;1.9;18.8;110.7
+83;Papierindustrie;2008;3.6;18.6;2.2;16.4;106.5
+84;Uitgeverijen en drukkerijen;2003;1.9;0.7;0.1;0.6;0.3
+85;Uitgeverijen en drukkerijen;2004;1.8;0.7;0.1;0.6;0.3
+86;Uitgeverijen en drukkerijen;2005;1.9;0.7;0.1;0.6;0.3
+87;Uitgeverijen en drukkerijen;2006;1.9;0.7;0.1;0.6;0.3
+88;Uitgeverijen en drukkerijen;2007;1.9;0.7;0.1;0.6;0.3
+89;Uitgeverijen en drukkerijen;2008;1.9;0.7;0.1;0.5;0.3
+90;Aardolie-industrie;2003;21.6;0.1;0.0;0.1;297.4
+91;Aardolie-industrie;2004;22.2;0.1;0.0;0.1;301.0
+92;Aardolie-industrie;2005;24.7;0.0;0.0;0.0;281.2
+93;Aardolie-industrie;2006;24.8;0.0;0.0;0.0;317.7
+94;Aardolie-industrie;2007;24.9;0.0;0.0;0.0;322.8
+95;Aardolie-industrie;2008;22.2;0.0;0.0;0.0;776.9
+96;Chemische basisproductenindustrie;2003;48.2;13.5;7.4;6.2;2883.2
+97;Chemische basisproductenindustrie;2004;62.5;14.7;6.9;7.8;2705.0
+98;Chemische basisproductenindustrie;2005;57.5;10.8;4.9;5.8;2319.0
+99;Chemische basisproductenindustrie;2006;55.9;13.2;6.1;7.1;2353.1
+100;Chemische basisproductenindustrie;2007;51.1;9.2;4.5;4.7;2305.5
+101;Chemische basisproductenindustrie;2008;47.6;9.2;4.2;5.0;1963.2
+102;Chemische eindproductenindustrie;2003;17.7;21.2;17.8;3.3;42.8
+103;Chemische eindproductenindustrie;2004;21.8;24.8;18.5;6.4;80.2
+104;Chemische eindproductenindustrie;2005;20.4;18.3;13.4;4.8;69.6
+105;Chemische eindproductenindustrie;2006;14.8;17.8;12.8;5.0;57.7
+106;Chemische eindproductenindustrie;2007;13.8;21.2;8.4;12.8;55.5
+107;Chemische eindproductenindustrie;2008;11.4;17.0;5.7;11.3;55.7
+108;Rubber- en kunststofindustrie;2003;2.2;17.1;16.5;0.6;9.2
+109;Rubber- en kunststofindustrie;2004;1.9;32.0;31.4;0.6;21.9
+110;Rubber- en kunststofindustrie;2005;1.5;25.1;24.7;0.4;8.4
+111;Rubber- en kunststofindustrie;2006;1.5;25.4;24.8;0.6;13.6
+112;Rubber- en kunststofindustrie;2007;1.4;23.9;23.3;0.6;12.7
+113;Rubber- en kunststofindustrie;2008;1.4;24.2;23.3;0.8;13.0
+114;Basismetaalindustrie;2003;35.4;19.1;16.2;2.9;213.1
+115;Basismetaalindustrie;2004;37.6;19.7;16.9;2.8;268.7
+116;Basismetaalindustrie;2005;36.4;18.1;15.8;2.3;228.1
+117;Basismetaalindustrie;2006;35.9;17.4;15.3;2.1;212.3
+118;Basismetaalindustrie;2007;36.0;17.9;15.1;2.8;232.2
+119;Basismetaalindustrie;2008;36.2;17.4;15.2;2.2;226.3
+120;Metaalproductenindustrie;2003;3.0;2.0;1.5;0.5;1.6
+121;Metaalproductenindustrie;2004;3.1;2.1;1.6;0.5;1.6
+122;Metaalproductenindustrie;2005;3.2;2.2;1.6;0.5;1.7
+123;Metaalproductenindustrie;2006;3.4;2.3;1.7;0.6;1.8
+124;Metaalproductenindustrie;2007;3.7;2.5;1.9;0.6;1.9
+125;Metaalproductenindustrie;2008;3.8;2.5;1.9;0.6;2.0
+126;Machine-industrie;2003;2.2;0.6;0.3;0.3;0.4
+127;Machine-industrie;2004;2.3;0.7;0.4;0.3;0.5
+128;Machine-industrie;2005;2.4;0.7;0.4;0.3;0.5
+129;Machine-industrie;2006;2.6;0.7;0.4;0.3;0.5
+130;Machine-industrie;2007;2.9;0.8;0.4;0.4;0.6
+131;Machine-industrie;2008;2.7;0.8;0.4;0.3;0.5
+132;Electrotechnische industrie;2003;3.6;3.1;2.5;0.6;0.4
+133;Electrotechnische industrie;2004;3.7;3.1;2.5;0.6;0.4
+134;Electrotechnische industrie;2005;3.7;3.2;2.5;0.6;0.4
+135;Electrotechnische industrie;2006;3.8;3.2;2.6;0.6;0.5
+136;Electrotechnische industrie;2007;3.8;3.0;2.4;0.6;0.5
+137;Electrotechnische industrie;2008;3.8;3.0;2.4;0.6;0.5
+138;Transportmiddelenindustrie;2003;2.9;0.5;0.4;0.2;0.4
+139;Transportmiddelenindustrie;2004;2.3;0.5;0.4;0.2;1.1
+140;Transportmiddelenindustrie;2005;2.2;0.5;0.3;0.2;1.4
+141;Transportmiddelenindustrie;2006;2.2;0.4;0.2;0.2;1.4
+142;Transportmiddelenindustrie;2007;2.5;0.4;0.2;0.2;1.3
+143;Transportmiddelenindustrie;2008;2.5;0.4;0.2;0.2;1.1
+144;Overige industrie;2003;5.5;8.5;4.2;4.3;3.6
+145;Overige industrie;2004;5.6;8.2;3.9;4.3;3.7
+146;Overige industrie;2005;5.4;7.3;3.3;4.0;3.7
+147;Overige industrie;2006;5.7;7.8;3.5;4.3;3.9
+148;Overige industrie;2007;5.9;7.8;3.2;4.6;4.1
+149;Overige industrie;2008;5.9;7.7;3.2;4.5;4.1
+150;Totaal energie- en waterleidingbedrijven;2003;4.9;801.6;0.0;801.6;9686.6
+151;Totaal energie- en waterleidingbedrijven;2004;2.3;770.6;0.0;770.6;10706.4
+152;Totaal energie- en waterleidingbedrijven;2005;2.2;766.8;0.0;766.8;10281.0
+153;Totaal energie- en waterleidingbedrijven;2006;2.3;777.8;0.0;777.8;9774.3
+154;Totaal energie- en waterleidingbedrijven;2007;2.8;767.6;0.0;767.6;9869.8
+155;Totaal energie- en waterleidingbedrijven;2008;3.4;763.7;0.0;763.7;9534.6
+156;Energiebedrijven;2003;4.7;0.6;0.0;0.6;9169.6
+157;Energiebedrijven;2004;2.2;0.6;0.0;0.6;10199.4
+158;Energiebedrijven;2005;2.1;0.8;0.0;0.8;9791.0
+159;Energiebedrijven;2006;2.2;0.8;0.0;0.8;9272.3
+160;Energiebedrijven;2007;2.7;1.6;0.0;1.6;9387.8
+161;Energiebedrijven;2008;3.3;1.7;0.0;1.7;9044.6
+162;Waterleidingbedrijven;2003;0.2;801.0;0.0;801.0;517.0
+163;Waterleidingbedrijven;2004;0.1;770.0;0.0;770.0;507.0
+164;Waterleidingbedrijven;2005;0.1;766.0;0.0;766.0;490.0
+165;Waterleidingbedrijven;2006;0.1;777.0;0.0;777.0;502.0
+166;Waterleidingbedrijven;2007;0.1;766.0;0.0;766.0;482.0
+167;Waterleidingbedrijven;2008;0.1;762.0;0.0;762.0;490.0
+168;Bouwnijverheid;2003;11.1;;;;
+169;Bouwnijverheid;2004;8.4;;;;
+170;Bouwnijverheid;2005;8.5;;;;
+171;Bouwnijverheid;2006;8.6;;;;
+172;Bouwnijverheid;2007;8.9;;;;
+173;Bouwnijverheid;2008;9.6;;;;
+174;Handel, horeca en reparatie;2003;29.8;;;;
+175;Handel, horeca en reparatie;2004;23.1;;;;
+176;Handel, horeca en reparatie;2005;23.2;;;;
+177;Handel, horeca en reparatie;2006;23.6;;;;
+178;Handel, horeca en reparatie;2007;24.8;;;;
+179;Handel, horeca en reparatie;2008;26.1;;;;
+180;Vervoer, opslag en communicatie;2003;10.0;;;;
+181;Vervoer, opslag en communicatie;2004;7.7;;;;
+182;Vervoer, opslag en communicatie;2005;7.7;;;;
+183;Vervoer, opslag en communicatie;2006;7.6;;;;
+184;Vervoer, opslag en communicatie;2007;7.9;;;;
+185;Vervoer, opslag en communicatie;2008;8.4;;;;
+186;Financiële en zakelijke dienstverlening;2003;31.0;;;;
+187;Financiële en zakelijke dienstverlening;2004;23.9;;;;
+188;Financiële en zakelijke dienstverlening;2005;25.0;;;;
+189;Financiële en zakelijke dienstverlening;2006;26.3;;;;
+190;Financiële en zakelijke dienstverlening;2007;28.3;;;;
+191;Financiële en zakelijke dienstverlening;2008;30.7;;;;
+192;Overheid;2003;20.3;;;;
+193;Overheid;2004;15.4;;;;
+194;Overheid;2005;15.4;;;;
+195;Overheid;2006;15.2;;;;
+196;Overheid;2007;15.7;;;;
+197;Overheid;2008;16.6;;;;
+198;Totaal zorg en overige dienstverlening;2003;30.0;;;;
+199;Totaal zorg en overige dienstverlening;2004;24.4;;;;
+200;Totaal zorg en overige dienstverlening;2005;24.3;;;;
+201;Totaal zorg en overige dienstverlening;2006;25.5;;;;
+202;Totaal zorg en overige dienstverlening;2007;25.6;;;;
+203;Totaal zorg en overige dienstverlening;2008;28.4;;;;
+204;Gezondheids- en welzijnszorg;2003;19.1;;;;
+205;Gezondheids- en welzijnszorg;2004;15.0;;;;
+206;Gezondheids- en welzijnszorg;2005;15.5;;;;
+207;Gezondheids- en welzijnszorg;2006;15.8;;;;
+208;Gezondheids- en welzijnszorg;2007;16.4;;;;
+209;Gezondheids- en welzijnszorg;2008;17.7;;;;
+210;Milieudienstverlening;2003;3.2;1.9;0.0;1.9;529.7
+211;Milieudienstverlening;2004;3.3;2.3;0.0;2.3;531.4
+212;Milieudienstverlening;2005;2.6;1.4;0.0;1.4;480.6
+213;Milieudienstverlening;2006;3.4;2.5;0.0;2.5;516.4
+214;Milieudienstverlening;2007;2.7;2.6;0.0;2.6;481.6
+215;Milieudienstverlening;2008;3.7;1.2;0.0;1.2;430.8
+216;Overige diensten;2003;7.8;;;;
+217;Overige diensten;2004;6.0;;;;
+218;Overige diensten;2005;6.2;;;;
+219;Overige diensten;2006;6.2;;;;
+220;Overige diensten;2007;6.5;;;;
+221;Overige diensten;2008;7.1;;;;

@@ -1,0 +1,76 @@
+﻿ID;TypeZelfstandigOndernemer;Marges;Perioden;TotaalMetArbeidsongeval_1;ArbeidsongevalZonderVerzuim_2;ArbeidsongevalMet1DagOfMeerVerzuim_3;ArbeidsongevalMet4DgnOfMeerVerzuim_4;LichamelijkLetsel_5;GeestelijkLetsel_6;OnderscheidNietTeMaken_7;OnbekendLetsel_8
+0;Zelfstandig ondernemer (totaal);Waarde;2015;2.1;0.9;1.2;0.8;1.6;0.2;0.2;0.1
+1;Zelfstandig ondernemer (totaal);Waarde;2017;2.1;0.9;1.2;0.7;1.7;0.1;0.2;0.0
+2;Zelfstandig ondernemer (totaal);Waarde;2019;2.1;0.8;1.3;0.9;;;;
+3;Zelfstandig ondernemer (totaal);Waarde;2021;1.8;0.8;1.1;0.7;;;;
+4;Zelfstandig ondernemer (totaal);Waarde;2023;1.9;1.1;0.9;0.7;;;;
+5;Zelfstandig ondernemer (totaal);Ondergrens 95%-interval;2015;1.7;0.7;0.9;0.6;1.2;0.1;0.1;0.0
+6;Zelfstandig ondernemer (totaal);Ondergrens 95%-interval;2017;1.7;0.7;0.9;0.5;1.3;0.1;0.1;0.0
+7;Zelfstandig ondernemer (totaal);Ondergrens 95%-interval;2019;1.7;0.6;1.0;0.6;;;;
+8;Zelfstandig ondernemer (totaal);Ondergrens 95%-interval;2021;1.5;0.6;0.8;0.5;;;;
+9;Zelfstandig ondernemer (totaal);Ondergrens 95%-interval;2023;1.6;0.8;0.7;0.5;;;;
+10;Zelfstandig ondernemer (totaal);Bovengrens 95%-interval;2015;2.6;1.3;1.5;1.1;2.0;0.4;0.4;0.3
+11;Zelfstandig ondernemer (totaal);Bovengrens 95%-interval;2017;2.6;1.3;1.6;1.0;2.2;0.2;0.4;0.1
+12;Zelfstandig ondernemer (totaal);Bovengrens 95%-interval;2019;2.5;1.1;1.6;1.2;;;;
+13;Zelfstandig ondernemer (totaal);Bovengrens 95%-interval;2021;2.2;1.0;1.4;1.0;;;;
+14;Zelfstandig ondernemer (totaal);Bovengrens 95%-interval;2023;2.4;1.4;1.2;0.9;;;;
+15;Zelfstandig ondernemer zonder personeel;Waarde;2015;2.2;0.9;1.3;0.9;1.7;0.1;0.3;0.1
+16;Zelfstandig ondernemer zonder personeel;Waarde;2017;2.2;1.0;1.2;0.7;1.8;0.1;0.2;0.0
+17;Zelfstandig ondernemer zonder personeel;Waarde;2019;2.1;0.8;1.3;0.9;;;;
+18;Zelfstandig ondernemer zonder personeel;Waarde;2021;1.9;0.8;1.1;0.7;;;;
+19;Zelfstandig ondernemer zonder personeel;Waarde;2023;2.0;1.1;1.0;0.7;;;;
+20;Zelfstandig ondernemer zonder personeel;Ondergrens 95%-interval;2015;1.7;0.6;0.9;0.6;1.3;0.1;0.1;0.0
+21;Zelfstandig ondernemer zonder personeel;Ondergrens 95%-interval;2017;1.7;0.7;0.9;0.5;1.4;0.1;0.1;0.0
+22;Zelfstandig ondernemer zonder personeel;Ondergrens 95%-interval;2019;1.7;0.6;1.0;0.6;;;;
+23;Zelfstandig ondernemer zonder personeel;Ondergrens 95%-interval;2021;1.6;0.6;0.8;0.5;;;;
+24;Zelfstandig ondernemer zonder personeel;Ondergrens 95%-interval;2023;1.6;0.8;0.7;0.5;;;;
+25;Zelfstandig ondernemer zonder personeel;Bovengrens 95%-interval;2015;2.8;1.4;1.7;1.3;2.2;0.3;0.5;0.3
+26;Zelfstandig ondernemer zonder personeel;Bovengrens 95%-interval;2017;2.7;1.3;1.7;1.1;2.3;0.2;0.4;0.2
+27;Zelfstandig ondernemer zonder personeel;Bovengrens 95%-interval;2019;2.6;1.1;1.8;1.3;;;;
+28;Zelfstandig ondernemer zonder personeel;Bovengrens 95%-interval;2021;2.4;1.1;1.5;1.0;;;;
+29;Zelfstandig ondernemer zonder personeel;Bovengrens 95%-interval;2023;2.4;1.5;1.3;1.0;;;;
+30;Zelfstandig ondernemer z.p.-eigen arbeid;Waarde;2015;1.9;0.9;0.9;0.7;1.4;0.1;0.2;0.1
+31;Zelfstandig ondernemer z.p.-eigen arbeid;Waarde;2017;2.0;0.9;1.2;0.7;1.6;0.1;0.2;0.1
+32;Zelfstandig ondernemer z.p.-eigen arbeid;Waarde;2019;2.0;0.8;1.2;0.8;;;;
+33;Zelfstandig ondernemer z.p.-eigen arbeid;Waarde;2021;1.9;0.7;1.2;0.7;;;;
+34;Zelfstandig ondernemer z.p.-eigen arbeid;Waarde;2023;1.8;1.0;0.9;0.7;;;;
+35;Zelfstandig ondernemer z.p.-eigen arbeid;Ondergrens 95%-interval;2015;1.4;0.5;0.6;0.4;1.0;0.1;0.1;0.0
+36;Zelfstandig ondernemer z.p.-eigen arbeid;Ondergrens 95%-interval;2017;1.5;0.6;0.8;0.4;1.2;0.1;0.1;0.0
+37;Zelfstandig ondernemer z.p.-eigen arbeid;Ondergrens 95%-interval;2019;1.5;0.6;0.8;0.5;;;;
+38;Zelfstandig ondernemer z.p.-eigen arbeid;Ondergrens 95%-interval;2021;1.5;0.5;0.8;0.5;;;;
+39;Zelfstandig ondernemer z.p.-eigen arbeid;Ondergrens 95%-interval;2023;1.4;0.7;0.6;0.5;;;;
+40;Zelfstandig ondernemer z.p.-eigen arbeid;Bovengrens 95%-interval;2015;2.6;1.5;1.3;1.1;2.1;0.4;0.5;0.4
+41;Zelfstandig ondernemer z.p.-eigen arbeid;Bovengrens 95%-interval;2017;2.6;1.3;1.7;1.1;2.2;0.3;0.4;0.2
+42;Zelfstandig ondernemer z.p.-eigen arbeid;Bovengrens 95%-interval;2019;2.6;1.2;1.7;1.3;;;;
+43;Zelfstandig ondernemer z.p.-eigen arbeid;Bovengrens 95%-interval;2021;2.4;1.1;1.6;1.0;;;;
+44;Zelfstandig ondernemer z.p.-eigen arbeid;Bovengrens 95%-interval;2023;2.3;1.4;1.2;1.0;;;;
+45;Zelfstandig ondernemer z.p.-producten;Waarde;2015;3.0;0.9;2.3;1.4;2.4;0.1;0.5;0.0
+46;Zelfstandig ondernemer z.p.-producten;Waarde;2017;2.7;1.3;1.4;0.9;2.3;0.0;0.3;0.0
+47;Zelfstandig ondernemer z.p.-producten;Waarde;2019;2.5;0.6;1.9;1.2;;;;
+48;Zelfstandig ondernemer z.p.-producten;Waarde;2021;2.1;1.1;1.0;0.9;;;;
+49;Zelfstandig ondernemer z.p.-producten;Waarde;2023;2.7;1.5;1.3;0.8;;;;
+50;Zelfstandig ondernemer z.p.-producten;Ondergrens 95%-interval;2015;2.0;0.4;1.5;0.8;1.6;0.0;0.2;0.0
+51;Zelfstandig ondernemer z.p.-producten;Ondergrens 95%-interval;2017;1.8;0.7;0.8;0.4;1.5;0.0;0.1;0.0
+52;Zelfstandig ondernemer z.p.-producten;Ondergrens 95%-interval;2019;1.6;0.3;1.1;0.7;;;;
+53;Zelfstandig ondernemer z.p.-producten;Ondergrens 95%-interval;2021;1.5;0.7;0.5;0.5;;;;
+54;Zelfstandig ondernemer z.p.-producten;Ondergrens 95%-interval;2023;1.9;0.8;0.8;0.4;;;;
+55;Zelfstandig ondernemer z.p.-producten;Bovengrens 95%-interval;2015;4.4;1.9;3.6;2.4;3.7;0.8;1.2;
+56;Zelfstandig ondernemer z.p.-producten;Bovengrens 95%-interval;2017;4.1;2.2;2.6;2.0;3.7;0.3;0.9;
+57;Zelfstandig ondernemer z.p.-producten;Bovengrens 95%-interval;2019;3.7;1.3;3.0;2.2;;;;
+58;Zelfstandig ondernemer z.p.-producten;Bovengrens 95%-interval;2021;3.1;1.9;1.7;1.6;;;;
+59;Zelfstandig ondernemer z.p.-producten;Bovengrens 95%-interval;2023;3.9;2.5;2.3;1.5;;;;
+60;Zelfstandig ondernemer met personeel;Waarde;2015;1.7;1.0;0.8;0.5;1.2;0.4;0.0;0.1
+61;Zelfstandig ondernemer met personeel;Waarde;2017;1.6;0.9;0.7;0.5;1.2;0.1;0.3;0.1
+62;Zelfstandig ondernemer met personeel;Waarde;2019;1.9;1.0;1.0;0.7;;;;
+63;Zelfstandig ondernemer met personeel;Waarde;2021;1.3;0.4;0.9;0.6;;;;
+64;Zelfstandig ondernemer met personeel;Waarde;2023;1.8;0.9;0.7;0.4;;;;
+65;Zelfstandig ondernemer met personeel;Ondergrens 95%-interval;2015;1.0;0.6;0.4;0.2;0.6;0.1;0.0;0.0
+66;Zelfstandig ondernemer met personeel;Ondergrens 95%-interval;2017;1.0;0.5;0.4;0.2;0.7;0.0;0.1;0.0
+67;Zelfstandig ondernemer met personeel;Ondergrens 95%-interval;2019;1.2;0.6;0.5;0.4;;;;
+68;Zelfstandig ondernemer met personeel;Ondergrens 95%-interval;2021;0.8;0.2;0.5;0.3;;;;
+69;Zelfstandig ondernemer met personeel;Ondergrens 95%-interval;2023;1.2;0.5;0.3;0.1;;;;
+70;Zelfstandig ondernemer met personeel;Bovengrens 95%-interval;2015;2.9;1.9;1.8;1.4;2.2;1.2;;0.9
+71;Zelfstandig ondernemer met personeel;Bovengrens 95%-interval;2017;2.4;1.6;1.3;1.0;1.9;0.5;0.8;0.5
+72;Zelfstandig ondernemer met personeel;Bovengrens 95%-interval;2019;3.0;1.9;1.9;1.5;;;;
+73;Zelfstandig ondernemer met personeel;Bovengrens 95%-interval;2021;2.1;0.9;1.6;1.2;;;;
+74;Zelfstandig ondernemer met personeel;Bovengrens 95%-interval;2023;2.9;1.7;1.5;1.2;;;;

@@ -1,0 +1,33 @@
+﻿ID;LandVanUiteindelijkeZeggenschapUCI;Bedrijfsgrootte;Perioden;BedrijvenMetWerknemersInLoondienst_1;AantalBanen_2;Mannen_3;Vrouwen_4;JongerDan50_5;k_50JaarOfOuder_6;Autochtoon_7;Allochtoon_8;Nieuwkomers_9;Blijvers_10;Wisselaars_11;Hoog_12;Midden_13;Laag_14;FiscaalJaarloonPerBaan_15
+0;Nederland;Totaal werknemers;2008;481205;6960;53;47;76;24;81;19;10;74;16;18;50;32;40
+1;Nederland;Totaal werknemers;2009;455615;6847;52;48;75;25;81;19;9;77;14;17;51;33;40
+2;Nederland;Totaal werknemers;2010;419360;6849;51;49;74;26;81;19;10;80;10;17;50;33;41
+3;Nederland;Totaal werknemers;2011;449785;6910;51;49;73;27;82;18;10;79;11;17;50;33;42
+4;Nederland;0 tot 50 werknemers;2008;468955;2799;59;41;79;21;82;18;13;69;18;16;46;38;38
+5;Nederland;0 tot 50 werknemers;2009;441820;2692;58;42;79;21;82;18;11;74;15;15;47;39;39
+6;Nederland;0 tot 50 werknemers;2010;406570;2585;58;42;78;22;83;17;11;77;12;15;47;39;39
+7;Nederland;0 tot 50 werknemers;2011;436965;2649;58;42;77;23;83;17;13;74;13;15;46;39;40
+8;Nederland;50 tot 250 werknemers;2008;9675;1198;58;42;75;25;80;20;10;75;16;18;55;27;40
+9;Nederland;50 tot 250 werknemers;2009;11080;1272;57;43;75;25;80;20;8;78;14;17;55;28;40
+10;Nederland;50 tot 250 werknemers;2010;10225;1344;57;43;75;25;81;19;9;80;11;17;55;28;41
+11;Nederland;50 tot 250 werknemers;2011;10275;1351;57;43;74;26;81;19;9;79;11;17;55;28;42
+12;Nederland;250 en meer werknemers;2008;2575;2964;45;55;73;27;81;19;8;79;13;20;52;27;41
+13;Nederland;250 en meer werknemers;2009;2715;2884;43;57;72;28;81;19;7;79;14;19;52;29;42
+14;Nederland;250 en meer werknemers;2010;2565;2920;42;58;71;29;80;20;8;83;9;19;52;29;43
+15;Nederland;250 en meer werknemers;2011;2545;2909;42;58;69;31;81;19;8;83;9;18;52;29;43
+16;Buitenland;Totaal werknemers;2008;7710;950;65;35;79;21;73;27;7;79;14;34;47;19;50
+17;Buitenland;Totaal werknemers;2009;8110;935;66;34;78;22;74;26;6;82;12;33;49;19;50
+18;Buitenland;Totaal werknemers;2010;8435;931;66;34;77;23;73;27;7;83;10;31;50;19;51
+19;Buitenland;Totaal werknemers;2011;10390;949;67;33;76;24;73;27;7;83;10;33;49;17;53
+20;Buitenland;0 tot 50 werknemers;2008;5355;90;70;30;80;20;74;26;7;75;17;41;49;10;55
+21;Buitenland;0 tot 50 werknemers;2009;5540;88;69;31;79;21;74;26;6;79;15;40;48;11;56
+22;Buitenland;0 tot 50 werknemers;2010;5930;98;71;29;79;21;72;28;8;80;12;41;49;10;59
+23;Buitenland;0 tot 50 werknemers;2011;7815;111;70;30;79;21;70;30;9;77;13;41;48;11;60
+24;Buitenland;50 tot 250 werknemers;2008;1725;204;72;28;80;20;72;28;6;79;14;36;54;9;51
+25;Buitenland;50 tot 250 werknemers;2009;1925;216;71;29;78;22;74;26;5;84;11;35;54;11;51
+26;Buitenland;50 tot 250 werknemers;2010;1855;232;71;29;78;22;73;27;7;84;10;34;54;12;52
+27;Buitenland;50 tot 250 werknemers;2011;1955;252;72;28;77;23;72;28;7;83;10;36;53;11;54
+28;Buitenland;250 en meer werknemers;2008;630;657;63;37;78;22;74;26;8;79;13;32;45;23;49
+29;Buitenland;250 en meer werknemers;2009;645;631;64;36;77;23;74;26;6;82;12;30;47;22;49
+30;Buitenland;250 en meer werknemers;2010;650;600;64;36;76;24;73;27;7;83;9;29;49;23;49
+31;Buitenland;250 en meer werknemers;2011;620;586;64;36;75;25;74;26;7;84;9;31;48;21;51

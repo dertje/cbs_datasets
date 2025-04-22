@@ -1,0 +1,1821 @@
+﻿ID;BedrijfstakkenBranchesSBI2008;Perioden;TotaalSnelgroeiendeBedrijven_1;k_10Tot50WerkzamePersonen_2;k_50Tot250WerkzamePersonen_3;k_250WerkzamePersonenOfMeer_4;NatuurlijkePersonen_5;Rechtspersonen_6
+0;A-U Alle economische activiteiten;2010;8030;5135;1755;465;995;7040
+1;A-U Alle economische activiteiten;2011;7445;4970;1545;395;1015;6430
+2;A-U Alle economische activiteiten;2012;7390;4985;1555;370;935;6455
+3;A-U Alle economische activiteiten;2013;7095;4790;1490;370;875;6220
+4;A-U Alle economische activiteiten;2014;6765;4605;1315;320;815;5950
+5;A-U Alle economische activiteiten;2015;7480;5045;1590;345;905;6575
+6;A-U Alle economische activiteiten;2016;8945;6040;1860;405;1165;7780
+7;A-U Alle economische activiteiten;2017;10415;7120;2145;495;1255;9160
+8;A-U Alle economische activiteiten;2018;12660;8545;2555;615;1720;10940
+9;A-U Alle economische activiteiten;2019;11530;7820;2510;555;1360;10165
+10;A-U Alle economische activiteiten;2020;9905;6775;2210;485;1040;8865
+11;A-U Alle economische activiteiten;2021;9375;6505;1995;455;890;8485
+12;A-U Alle economische activiteiten;2022;10410;7230;2120;485;1155;9255
+13;A-U Alle economische activiteiten;2023;11930;8190;2450;550;1525;10405
+14;Totaal (ex. financieel of nutsbedrijven);2010;7830;5015;1700;445;985;6840
+15;Totaal (ex. financieel of nutsbedrijven);2011;7250;4850;1495;375;1010;6240
+16;Totaal (ex. financieel of nutsbedrijven);2012;7215;4870;1515;360;930;6285
+17;Totaal (ex. financieel of nutsbedrijven);2013;6925;4680;1445;355;875;6050
+18;Totaal (ex. financieel of nutsbedrijven);2014;6605;4490;1285;310;815;5790
+19;Totaal (ex. financieel of nutsbedrijven);2015;7300;4925;1550;335;900;6400
+20;Totaal (ex. financieel of nutsbedrijven);2016;8765;5915;1820;395;1165;7600
+21;Totaal (ex. financieel of nutsbedrijven);2017;10190;6965;2100;470;1255;8935
+22;Totaal (ex. financieel of nutsbedrijven);2018;12415;8370;2505;600;1715;10700
+23;Totaal (ex. financieel of nutsbedrijven);2019;11270;7645;2450;540;1360;9915
+24;Totaal (ex. financieel of nutsbedrijven);2020;9645;6600;2140;470;1040;8605
+25;Totaal (ex. financieel of nutsbedrijven);2021;9135;6355;1930;435;885;8245
+26;Totaal (ex. financieel of nutsbedrijven);2022;10135;7060;2040;460;1150;8985
+27;Totaal (ex. financieel of nutsbedrijven);2023;11650;8020;2365;530;1520;10130
+28;A Landbouw, bosbouw en visserij;2010;225;155;25;5;85;140
+29;A Landbouw, bosbouw en visserij;2011;255;185;25;0;95;160
+30;A Landbouw, bosbouw en visserij;2012;215;160;25;0;75;140
+31;A Landbouw, bosbouw en visserij;2013;200;155;15;0;70;135
+32;A Landbouw, bosbouw en visserij;2014;210;155;20;0;70;145
+33;A Landbouw, bosbouw en visserij;2015;210;155;20;0;80;130
+34;A Landbouw, bosbouw en visserij;2016;230;170;20;0;85;145
+35;A Landbouw, bosbouw en visserij;2017;235;175;20;5;75;160
+36;A Landbouw, bosbouw en visserij;2018;415;290;40;5;155;260
+37;A Landbouw, bosbouw en visserij;2019;280;215;25;5;95;185
+38;A Landbouw, bosbouw en visserij;2020;290;210;40;5;85;205
+39;A Landbouw, bosbouw en visserij;2021;230;175;35;5;50;180
+40;A Landbouw, bosbouw en visserij;2022;250;195;35;0;65;185
+41;A Landbouw, bosbouw en visserij;2023;205;155;25;5;55;145
+42;01 Landbouw;2010;215;150;20;5;85;135
+43;01 Landbouw;2011;250;185;25;0;95;155
+44;01 Landbouw;2012;215;160;25;0;75;140
+45;01 Landbouw;2013;200;155;15;0;65;130
+46;01 Landbouw;2014;210;155;20;0;70;140
+47;01 Landbouw;2015;205;155;20;0;80;125
+48;01 Landbouw;2016;230;165;20;0;85;145
+49;01 Landbouw;2017;230;170;20;5;75;155
+50;01 Landbouw;2018;410;285;40;5;155;255
+51;01 Landbouw;2019;275;205;25;5;95;180
+52;01 Landbouw;2020;285;205;40;5;85;200
+53;01 Landbouw;2021;225;170;35;5;50;175
+54;01 Landbouw;2022;245;190;30;0;65;180
+55;01 Landbouw;2023;195;155;25;5;55;145
+56;02 Bosbouw;2010;0;0;0;0;0;0
+57;02 Bosbouw;2011;0;0;0;0;0;0
+58;02 Bosbouw;2012;0;0;0;0;0;0
+59;02 Bosbouw;2013;0;0;0;0;0;0
+60;02 Bosbouw;2014;0;0;0;0;0;0
+61;02 Bosbouw;2015;0;0;0;0;0;0
+62;02 Bosbouw;2016;0;0;0;0;0;0
+63;02 Bosbouw;2017;0;0;0;0;0;0
+64;02 Bosbouw;2018;0;0;0;0;0;0
+65;02 Bosbouw;2019;5;5;0;0;0;5
+66;02 Bosbouw;2020;5;5;0;0;0;5
+67;02 Bosbouw;2021;0;0;0;0;0;0
+68;02 Bosbouw;2022;5;5;0;0;0;5
+69;02 Bosbouw;2023;5;5;0;0;0;0
+70;03 Visserij;2010;5;5;0;0;0;5
+71;03 Visserij;2011;0;0;0;0;0;0
+72;03 Visserij;2012;0;0;0;0;0;0
+73;03 Visserij;2013;0;0;0;0;0;0
+74;03 Visserij;2014;0;0;0;0;0;0
+75;03 Visserij;2015;5;0;0;0;0;5
+76;03 Visserij;2016;5;5;0;0;0;5
+77;03 Visserij;2017;5;0;0;0;0;5
+78;03 Visserij;2018;5;5;0;0;0;5
+79;03 Visserij;2019;0;0;0;0;0;0
+80;03 Visserij;2020;0;0;0;0;0;0
+81;03 Visserij;2021;5;0;0;0;0;5
+82;03 Visserij;2022;0;0;0;0;0;0
+83;03 Visserij;2023;5;0;0;0;0;0
+84;B-E Nijverheid (geen bouw) en energie;2010;775;495;210;45;45;730
+85;B-E Nijverheid (geen bouw) en energie;2011;760;515;180;40;65;690
+86;B-E Nijverheid (geen bouw) en energie;2012;855;600;200;35;55;800
+87;B-E Nijverheid (geen bouw) en energie;2013;850;575;220;35;40;810
+88;B-E Nijverheid (geen bouw) en energie;2014;785;545;195;25;40;745
+89;B-E Nijverheid (geen bouw) en energie;2015;815;575;205;25;35;780
+90;B-E Nijverheid (geen bouw) en energie;2016;945;670;235;25;55;895
+91;B-E Nijverheid (geen bouw) en energie;2017;1120;800;265;30;65;1060
+92;B-E Nijverheid (geen bouw) en energie;2018;1320;940;320;40;75;1245
+93;B-E Nijverheid (geen bouw) en energie;2019;1215;840;305;50;75;1145
+94;B-E Nijverheid (geen bouw) en energie;2020;1040;685;285;55;55;985
+95;B-E Nijverheid (geen bouw) en energie;2021;990;665;250;55;45;945
+96;B-E Nijverheid (geen bouw) en energie;2022;980;675;225;55;50;925
+97;B-E Nijverheid (geen bouw) en energie;2023;975;645;255;60;50;925
+98;B Delfstoffenwinning;2010;10;5;5;0;0;10
+99;B Delfstoffenwinning;2011;10;5;5;0;0;10
+100;B Delfstoffenwinning;2012;5;0;5;0;0;5
+101;B Delfstoffenwinning;2013;10;0;5;0;0;10
+102;B Delfstoffenwinning;2014;15;5;5;5;0;15
+103;B Delfstoffenwinning;2015;15;5;5;0;0;10
+104;B Delfstoffenwinning;2016;10;5;5;0;0;10
+105;B Delfstoffenwinning;2017;5;5;0;0;0;5
+106;B Delfstoffenwinning;2018;5;5;5;0;0;5
+107;B Delfstoffenwinning;2019;5;5;5;0;0;5
+108;B Delfstoffenwinning;2020;10;5;5;0;0;10
+109;B Delfstoffenwinning;2021;5;5;5;0;0;5
+110;B Delfstoffenwinning;2022;5;5;0;0;0;5
+111;B Delfstoffenwinning;2023;10;5;0;0;0;10
+112;06 Winning van aardolie en aardgas;2010;0;0;0;0;0;0
+113;06 Winning van aardolie en aardgas;2011;0;0;0;0;0;0
+114;06 Winning van aardolie en aardgas;2012;0;0;0;0;0;0
+115;06 Winning van aardolie en aardgas;2013;0;0;0;0;0;0
+116;06 Winning van aardolie en aardgas;2014;0;0;0;0;0;0
+117;06 Winning van aardolie en aardgas;2015;0;0;0;0;0;0
+118;06 Winning van aardolie en aardgas;2016;0;0;0;0;0;0
+119;06 Winning van aardolie en aardgas;2017;0;0;0;0;0;0
+120;06 Winning van aardolie en aardgas;2018;0;0;0;0;0;0
+121;06 Winning van aardolie en aardgas;2019;0;0;0;0;0;0
+122;06 Winning van aardolie en aardgas;2020;0;0;0;0;0;0
+123;06 Winning van aardolie en aardgas;2021;0;0;0;0;0;0
+124;06 Winning van aardolie en aardgas;2022;0;0;0;0;0;0
+125;06 Winning van aardolie en aardgas;2023;0;0;0;0;0;0
+126;08 Delfstoffenwinning (geen olie en gas);2010;5;5;0;0;0;5
+127;08 Delfstoffenwinning (geen olie en gas);2011;5;0;0;0;0;5
+128;08 Delfstoffenwinning (geen olie en gas);2012;0;0;0;0;0;0
+129;08 Delfstoffenwinning (geen olie en gas);2013;0;0;0;0;0;0
+130;08 Delfstoffenwinning (geen olie en gas);2014;0;0;0;0;0;0
+131;08 Delfstoffenwinning (geen olie en gas);2015;5;0;0;0;0;5
+132;08 Delfstoffenwinning (geen olie en gas);2016;0;0;0;0;0;0
+133;08 Delfstoffenwinning (geen olie en gas);2017;5;5;0;0;0;0
+134;08 Delfstoffenwinning (geen olie en gas);2018;5;0;5;0;0;5
+135;08 Delfstoffenwinning (geen olie en gas);2019;5;0;5;0;0;5
+136;08 Delfstoffenwinning (geen olie en gas);2020;5;5;5;0;0;5
+137;08 Delfstoffenwinning (geen olie en gas);2021;5;5;0;0;0;5
+138;08 Delfstoffenwinning (geen olie en gas);2022;0;0;0;0;0;0
+139;08 Delfstoffenwinning (geen olie en gas);2023;5;5;0;0;0;5
+140;09 Dienstverlening delfstoffenwinning;2010;5;0;0;0;0;5
+141;09 Dienstverlening delfstoffenwinning;2011;5;5;0;0;0;5
+142;09 Dienstverlening delfstoffenwinning;2012;5;0;5;0;0;5
+143;09 Dienstverlening delfstoffenwinning;2013;5;0;5;0;0;5
+144;09 Dienstverlening delfstoffenwinning;2014;10;5;5;5;0;10
+145;09 Dienstverlening delfstoffenwinning;2015;10;5;5;0;0;5
+146;09 Dienstverlening delfstoffenwinning;2016;5;0;5;0;0;5
+147;09 Dienstverlening delfstoffenwinning;2017;0;0;0;0;0;0
+148;09 Dienstverlening delfstoffenwinning;2018;0;0;0;0;0;0
+149;09 Dienstverlening delfstoffenwinning;2019;0;0;0;0;0;0
+150;09 Dienstverlening delfstoffenwinning;2020;0;0;0;0;0;0
+151;09 Dienstverlening delfstoffenwinning;2021;0;0;0;0;0;0
+152;09 Dienstverlening delfstoffenwinning;2022;0;0;0;0;0;0
+153;09 Dienstverlening delfstoffenwinning;2023;5;5;0;0;0;5
+154;C Industrie;2010;710;460;185;40;45;665
+155;C Industrie;2011;690;475;160;30;65;625
+156;C Industrie;2012;805;570;185;30;55;750
+157;C Industrie;2013;800;555;200;30;40;760
+158;C Industrie;2014;735;515;180;20;40;695
+159;C Industrie;2015;765;550;185;20;35;730
+160;C Industrie;2016;900;640;215;25;50;845
+161;C Industrie;2017;1055;755;255;25;60;995
+162;C Industrie;2018;1240;890;295;35;75;1165
+163;C Industrie;2019;1145;795;280;50;75;1070
+164;C Industrie;2020;960;640;255;55;50;910
+165;C Industrie;2021;915;625;220;50;40;870
+166;C Industrie;2022;900;635;195;50;50;850
+167;C Industrie;2023;900;605;225;55;50;850
+168;10-12 Voedings-, genotmiddelenindustrie;2010;155;95;40;5;35;115
+169;10-12 Voedings-, genotmiddelenindustrie;2011;155;100;35;5;55;100
+170;10-12 Voedings-, genotmiddelenindustrie;2012;160;110;35;5;40;120
+171;10-12 Voedings-, genotmiddelenindustrie;2013;140;85;40;5;25;115
+172;10-12 Voedings-, genotmiddelenindustrie;2014;150;95;40;5;30;120
+173;10-12 Voedings-, genotmiddelenindustrie;2015;150;105;40;5;25;125
+174;10-12 Voedings-, genotmiddelenindustrie;2016;165;115;40;5;40;125
+175;10-12 Voedings-, genotmiddelenindustrie;2017;175;105;55;5;40;135
+176;10-12 Voedings-, genotmiddelenindustrie;2018;200;135;45;10;55;145
+177;10-12 Voedings-, genotmiddelenindustrie;2019;185;120;45;10;50;135
+178;10-12 Voedings-, genotmiddelenindustrie;2020;165;105;45;10;40;125
+179;10-12 Voedings-, genotmiddelenindustrie;2021;165;105;40;10;35;130
+180;10-12 Voedings-, genotmiddelenindustrie;2022;180;120;40;5;40;135
+181;10-12 Voedings-, genotmiddelenindustrie;2023;180;120;40;10;45;135
+182;10 Voedingsmiddelenindustrie;2010;150;95;40;5;35;115
+183;10 Voedingsmiddelenindustrie;2011;150;100;35;5;55;100
+184;10 Voedingsmiddelenindustrie;2012;155;105;35;5;40;115
+185;10 Voedingsmiddelenindustrie;2013;135;85;40;5;25;110
+186;10 Voedingsmiddelenindustrie;2014;145;95;40;5;30;115
+187;10 Voedingsmiddelenindustrie;2015;145;105;35;5;25;120
+188;10 Voedingsmiddelenindustrie;2016;155;110;40;5;40;120
+189;10 Voedingsmiddelenindustrie;2017;165;100;50;5;40;125
+190;10 Voedingsmiddelenindustrie;2018;190;130;45;5;55;135
+191;10 Voedingsmiddelenindustrie;2019;170;115;40;10;45;125
+192;10 Voedingsmiddelenindustrie;2020;160;100;45;10;40;125
+193;10 Voedingsmiddelenindustrie;2021;160;100;40;10;35;125
+194;10 Voedingsmiddelenindustrie;2022;170;115;40;5;40;125
+195;10 Voedingsmiddelenindustrie;2023;170;110;40;10;45;125
+196;11 Drankenindustrie;2010;0;0;0;0;0;0
+197;11 Drankenindustrie;2011;5;0;0;0;0;5
+198;11 Drankenindustrie;2012;5;5;0;0;0;5
+199;11 Drankenindustrie;2013;5;0;0;0;0;5
+200;11 Drankenindustrie;2014;5;5;0;0;0;5
+201;11 Drankenindustrie;2015;5;5;0;0;0;5
+202;11 Drankenindustrie;2016;10;5;0;0;0;10
+203;11 Drankenindustrie;2017;10;5;0;0;0;10
+204;11 Drankenindustrie;2018;10;5;5;0;0;10
+205;11 Drankenindustrie;2019;10;5;5;0;5;10
+206;11 Drankenindustrie;2020;0;0;0;0;0;0
+207;11 Drankenindustrie;2021;10;5;0;0;0;5
+208;11 Drankenindustrie;2022;10;5;0;0;0;10
+209;11 Drankenindustrie;2023;10;10;0;0;0;10
+210;12 Tabaksindustrie;2010;0;0;0;0;0;0
+211;12 Tabaksindustrie;2011;0;0;0;0;0;0
+212;12 Tabaksindustrie;2012;0;0;0;0;0;0
+213;12 Tabaksindustrie;2013;0;0;0;0;0;0
+214;12 Tabaksindustrie;2014;0;0;0;0;0;0
+215;12 Tabaksindustrie;2015;0;0;0;0;0;0
+216;12 Tabaksindustrie;2016;0;0;0;0;0;0
+217;12 Tabaksindustrie;2017;0;0;0;0;0;0
+218;12 Tabaksindustrie;2018;0;0;0;0;0;0
+219;12 Tabaksindustrie;2019;0;0;0;0;0;0
+220;12 Tabaksindustrie;2020;0;0;0;0;0;0
+221;12 Tabaksindustrie;2021;0;0;0;0;0;0
+222;12 Tabaksindustrie;2022;0;0;0;0;0;0
+223;12 Tabaksindustrie;2023;0;0;0;0;0;0
+224;13-15 Textiel-, kleding-, lederindustrie;2010;20;15;5;0;0;20
+225;13-15 Textiel-, kleding-, lederindustrie;2011;20;15;5;0;5;20
+226;13-15 Textiel-, kleding-, lederindustrie;2012;30;25;5;0;5;25
+227;13-15 Textiel-, kleding-, lederindustrie;2013;20;20;0;0;0;15
+228;13-15 Textiel-, kleding-, lederindustrie;2014;15;15;0;0;0;15
+229;13-15 Textiel-, kleding-, lederindustrie;2015;20;20;5;0;0;20
+230;13-15 Textiel-, kleding-, lederindustrie;2016;20;15;5;0;0;20
+231;13-15 Textiel-, kleding-, lederindustrie;2017;25;15;5;0;0;20
+232;13-15 Textiel-, kleding-, lederindustrie;2018;30;25;5;0;5;30
+233;13-15 Textiel-, kleding-, lederindustrie;2019;20;20;5;0;0;20
+234;13-15 Textiel-, kleding-, lederindustrie;2020;20;15;0;0;0;20
+235;13-15 Textiel-, kleding-, lederindustrie;2021;25;25;0;0;0;25
+236;13-15 Textiel-, kleding-, lederindustrie;2022;30;30;0;0;0;30
+237;13-15 Textiel-, kleding-, lederindustrie;2023;30;25;5;0;0;25
+238;13 Textielindustrie;2010;15;10;5;0;0;15
+239;13 Textielindustrie;2011;15;10;5;0;0;15
+240;13 Textielindustrie;2012;20;15;5;0;0;20
+241;13 Textielindustrie;2013;15;10;0;0;0;15
+242;13 Textielindustrie;2014;10;10;0;0;0;10
+243;13 Textielindustrie;2015;10;10;0;0;0;10
+244;13 Textielindustrie;2016;15;10;0;0;0;10
+245;13 Textielindustrie;2017;15;10;5;0;0;15
+246;13 Textielindustrie;2018;20;15;0;0;5;15
+247;13 Textielindustrie;2019;15;10;0;0;0;10
+248;13 Textielindustrie;2020;10;10;0;0;0;10
+249;13 Textielindustrie;2021;15;15;0;0;0;15
+250;13 Textielindustrie;2022;20;20;0;0;0;20
+251;13 Textielindustrie;2023;20;15;5;0;0;20
+252;14 Kledingindustrie;2010;5;5;0;0;0;5
+253;14 Kledingindustrie;2011;5;5;0;0;0;5
+254;14 Kledingindustrie;2012;5;5;0;0;0;5
+255;14 Kledingindustrie;2013;0;0;0;0;0;0
+256;14 Kledingindustrie;2014;5;5;0;0;0;5
+257;14 Kledingindustrie;2015;5;5;0;0;0;5
+258;14 Kledingindustrie;2016;5;0;0;0;0;5
+259;14 Kledingindustrie;2017;5;5;0;0;0;5
+260;14 Kledingindustrie;2018;5;5;0;0;0;5
+261;14 Kledingindustrie;2019;5;5;0;0;0;5
+262;14 Kledingindustrie;2020;5;5;0;0;0;5
+263;14 Kledingindustrie;2021;5;5;0;0;0;5
+264;14 Kledingindustrie;2022;10;10;0;0;0;10
+265;14 Kledingindustrie;2023;5;5;0;0;0;5
+266;15 Leer- en schoenenindustrie;2010;0;0;0;0;0;0
+267;15 Leer- en schoenenindustrie;2011;5;5;0;0;0;0
+268;15 Leer- en schoenenindustrie;2012;5;5;0;0;0;0
+269;15 Leer- en schoenenindustrie;2013;5;5;0;0;0;0
+270;15 Leer- en schoenenindustrie;2014;5;0;0;0;0;5
+271;15 Leer- en schoenenindustrie;2015;5;0;0;0;0;5
+272;15 Leer- en schoenenindustrie;2016;5;5;0;0;0;5
+273;15 Leer- en schoenenindustrie;2017;5;0;0;0;0;5
+274;15 Leer- en schoenenindustrie;2018;5;0;5;0;0;5
+275;15 Leer- en schoenenindustrie;2019;5;0;0;0;0;0
+276;15 Leer- en schoenenindustrie;2020;0;0;0;0;0;0
+277;15 Leer- en schoenenindustrie;2021;0;0;0;0;0;0
+278;15 Leer- en schoenenindustrie;2022;0;0;0;0;0;0
+279;15 Leer- en schoenenindustrie;2023;0;0;0;0;0;0
+280;16+23 Hout- en bouwmaterialenindustrie;2010;30;20;10;0;0;30
+281;16+23 Hout- en bouwmaterialenindustrie;2011;30;20;5;0;0;30
+282;16+23 Hout- en bouwmaterialenindustrie;2012;30;20;10;0;0;30
+283;16+23 Hout- en bouwmaterialenindustrie;2013;30;25;5;0;0;30
+284;16+23 Hout- en bouwmaterialenindustrie;2014;25;15;5;0;0;20
+285;16+23 Hout- en bouwmaterialenindustrie;2015;35;30;0;0;0;30
+286;16+23 Hout- en bouwmaterialenindustrie;2016;45;30;10;0;0;45
+287;16+23 Hout- en bouwmaterialenindustrie;2017;75;60;15;0;0;75
+288;16+23 Hout- en bouwmaterialenindustrie;2018;100;80;20;0;0;100
+289;16+23 Hout- en bouwmaterialenindustrie;2019;80;60;15;0;0;75
+290;16+23 Hout- en bouwmaterialenindustrie;2020;75;55;15;5;0;75
+291;16+23 Hout- en bouwmaterialenindustrie;2021;70;55;10;5;0;70
+292;16+23 Hout- en bouwmaterialenindustrie;2022;60;45;15;0;0;60
+293;16+23 Hout- en bouwmaterialenindustrie;2023;45;30;20;0;0;45
+294;16 Houtindustrie;2010;15;10;5;0;0;15
+295;16 Houtindustrie;2011;10;10;0;0;0;10
+296;16 Houtindustrie;2012;10;5;5;0;0;10
+297;16 Houtindustrie;2013;10;10;0;0;0;10
+298;16 Houtindustrie;2014;10;10;0;0;0;10
+299;16 Houtindustrie;2015;20;20;0;0;0;20
+300;16 Houtindustrie;2016;30;25;5;0;0;30
+301;16 Houtindustrie;2017;40;35;5;0;0;40
+302;16 Houtindustrie;2018;60;45;10;0;0;55
+303;16 Houtindustrie;2019;40;35;5;0;0;40
+304;16 Houtindustrie;2020;45;35;5;0;0;45
+305;16 Houtindustrie;2021;45;35;10;0;0;45
+306;16 Houtindustrie;2022;35;25;5;0;0;30
+307;16 Houtindustrie;2023;25;15;10;0;0;25
+308;17-18 Papier- en grafische industrie;2010;50;35;10;0;0;45
+309;17-18 Papier- en grafische industrie;2011;50;35;10;5;0;50
+310;17-18 Papier- en grafische industrie;2012;60;40;15;0;0;60
+311;17-18 Papier- en grafische industrie;2013;50;40;10;0;0;50
+312;17-18 Papier- en grafische industrie;2014;40;30;5;0;0;40
+313;17-18 Papier- en grafische industrie;2015;40;25;10;5;0;40
+314;17-18 Papier- en grafische industrie;2016;45;30;15;0;0;45
+315;17-18 Papier- en grafische industrie;2017;55;40;10;5;0;55
+316;17-18 Papier- en grafische industrie;2018;55;35;15;5;0;55
+317;17-18 Papier- en grafische industrie;2019;55;40;15;5;0;55
+318;17-18 Papier- en grafische industrie;2020;45;30;10;5;5;40
+319;17-18 Papier- en grafische industrie;2021;40;25;5;5;0;35
+320;17-18 Papier- en grafische industrie;2022;40;25;5;5;0;40
+321;17-18 Papier- en grafische industrie;2023;40;25;10;5;0;40
+322;17 Papierindustrie;2010;10;5;5;0;0;10
+323;17 Papierindustrie;2011;5;5;5;0;0;5
+324;17 Papierindustrie;2012;15;5;5;0;0;10
+325;17 Papierindustrie;2013;10;5;5;0;0;10
+326;17 Papierindustrie;2014;5;0;0;0;0;5
+327;17 Papierindustrie;2015;5;5;5;0;0;5
+328;17 Papierindustrie;2016;15;5;5;0;0;15
+329;17 Papierindustrie;2017;15;5;5;5;0;15
+330;17 Papierindustrie;2018;25;10;10;5;0;25
+331;17 Papierindustrie;2019;20;10;10;0;0;20
+332;17 Papierindustrie;2020;15;5;5;0;0;15
+333;17 Papierindustrie;2021;15;5;5;5;0;15
+334;17 Papierindustrie;2022;10;5;0;5;0;10
+335;17 Papierindustrie;2023;10;5;0;5;0;10
+336;18 Grafische industrie;2010;40;30;10;0;0;35
+337;18 Grafische industrie;2011;40;30;5;5;0;40
+338;18 Grafische industrie;2012;45;35;10;0;0;45
+339;18 Grafische industrie;2013;40;30;5;0;0;40
+340;18 Grafische industrie;2014;35;30;5;0;0;35
+341;18 Grafische industrie;2015;35;20;10;0;0;35
+342;18 Grafische industrie;2016;30;20;5;0;0;30
+343;18 Grafische industrie;2017;40;35;5;0;0;40
+344;18 Grafische industrie;2018;35;25;5;0;0;30
+345;18 Grafische industrie;2019;35;30;5;0;0;30
+346;18 Grafische industrie;2020;30;25;5;0;5;25
+347;18 Grafische industrie;2021;25;20;0;0;0;20
+348;18 Grafische industrie;2022;30;20;5;0;0;25
+349;18 Grafische industrie;2023;30;20;5;0;0;30
+350;19-22 Raffinaderijen en chemie;2010;65;35;20;10;0;60
+351;19-22 Raffinaderijen en chemie;2011;65;35;20;5;0;60
+352;19-22 Raffinaderijen en chemie;2012;85;50;25;5;0;80
+353;19-22 Raffinaderijen en chemie;2013;85;55;25;5;0;85
+354;19-22 Raffinaderijen en chemie;2014;65;40;20;0;0;65
+355;19-22 Raffinaderijen en chemie;2015;70;45;20;0;5;70
+356;19-22 Raffinaderijen en chemie;2016;100;65;35;5;5;100
+357;19-22 Raffinaderijen en chemie;2017;115;65;45;5;5;110
+358;19-22 Raffinaderijen en chemie;2018;125;80;40;5;0;125
+359;19-22 Raffinaderijen en chemie;2019;120;75;35;5;5;115
+360;19-22 Raffinaderijen en chemie;2020;110;70;35;5;5;105
+361;19-22 Raffinaderijen en chemie;2021;105;65;35;5;0;105
+362;19-22 Raffinaderijen en chemie;2022;90;60;25;5;0;90
+363;19-22 Raffinaderijen en chemie;2023;95;60;25;10;0;95
+364;19 Aardolie-industrie;2010;0;0;0;0;0;0
+365;19 Aardolie-industrie;2011;0;0;0;0;0;0
+366;19 Aardolie-industrie;2012;0;0;0;0;0;0
+367;19 Aardolie-industrie;2013;0;0;0;0;0;0
+368;19 Aardolie-industrie;2014;0;0;0;0;0;0
+369;19 Aardolie-industrie;2015;0;0;0;0;0;0
+370;19 Aardolie-industrie;2016;0;0;0;0;0;0
+371;19 Aardolie-industrie;2017;0;0;0;0;0;0
+372;19 Aardolie-industrie;2018;0;0;0;0;0;0
+373;19 Aardolie-industrie;2019;0;0;0;0;0;0
+374;19 Aardolie-industrie;2020;0;0;0;0;0;0
+375;19 Aardolie-industrie;2021;0;0;0;0;0;0
+376;19 Aardolie-industrie;2022;0;0;0;0;0;0
+377;19 Aardolie-industrie;2023;0;0;0;0;0;0
+378;20-21 Chemie en farmaceutische industrie;2010;35;20;10;5;0;35
+379;20-21 Chemie en farmaceutische industrie;2011;35;15;10;5;0;35
+380;20-21 Chemie en farmaceutische industrie;2012;40;25;10;5;0;40
+381;20-21 Chemie en farmaceutische industrie;2013;40;25;10;5;0;40
+382;20-21 Chemie en farmaceutische industrie;2014;30;20;10;0;0;25
+383;20-21 Chemie en farmaceutische industrie;2015;35;20;10;0;5;30
+384;20-21 Chemie en farmaceutische industrie;2016;50;30;15;5;5;45
+385;20-21 Chemie en farmaceutische industrie;2017;40;20;20;5;0;40
+386;20-21 Chemie en farmaceutische industrie;2018;60;35;20;5;0;55
+387;20-21 Chemie en farmaceutische industrie;2019;55;30;20;5;0;55
+388;20-21 Chemie en farmaceutische industrie;2020;55;30;25;0;0;50
+389;20-21 Chemie en farmaceutische industrie;2021;55;30;20;5;0;55
+390;20-21 Chemie en farmaceutische industrie;2022;45;25;15;5;0;45
+391;20-21 Chemie en farmaceutische industrie;2023;50;25;15;10;0;50
+392;20 Chemische industrie;2010;25;15;5;5;0;25
+393;20 Chemische industrie;2011;25;10;10;5;0;25
+394;20 Chemische industrie;2012;25;15;10;0;0;25
+395;20 Chemische industrie;2013;30;15;10;0;0;30
+396;20 Chemische industrie;2014;20;15;5;0;0;20
+397;20 Chemische industrie;2015;20;15;5;0;5;15
+398;20 Chemische industrie;2016;35;20;10;0;5;30
+399;20 Chemische industrie;2017;30;15;15;0;0;30
+400;20 Chemische industrie;2018;50;30;20;0;0;45
+401;20 Chemische industrie;2019;40;25;15;5;0;40
+402;20 Chemische industrie;2020;35;20;15;0;0;35
+403;20 Chemische industrie;2021;40;25;15;0;0;40
+404;20 Chemische industrie;2022;30;20;10;0;0;30
+405;20 Chemische industrie;2023;40;25;10;5;0;40
+406;21 Farmaceutische industrie;2010;10;5;5;0;0;10
+407;21 Farmaceutische industrie;2011;10;5;0;0;0;10
+408;21 Farmaceutische industrie;2012;10;5;0;5;0;10
+409;21 Farmaceutische industrie;2013;15;10;0;0;0;15
+410;21 Farmaceutische industrie;2014;5;5;5;0;0;5
+411;21 Farmaceutische industrie;2015;15;5;10;0;0;15
+412;21 Farmaceutische industrie;2016;15;5;5;0;0;15
+413;21 Farmaceutische industrie;2017;10;5;5;0;0;10
+414;21 Farmaceutische industrie;2018;10;5;0;0;0;10
+415;21 Farmaceutische industrie;2019;15;10;5;0;0;15
+416;21 Farmaceutische industrie;2020;15;10;5;0;0;15
+417;21 Farmaceutische industrie;2021;15;10;5;0;0;15
+418;21 Farmaceutische industrie;2022;15;5;5;0;0;15
+419;21 Farmaceutische industrie;2023;10;5;0;5;0;10
+420;22 Rubber- en kunststofproductindustrie;2010;25;15;10;0;0;25
+421;22 Rubber- en kunststofproductindustrie;2011;30;20;10;0;0;25
+422;22 Rubber- en kunststofproductindustrie;2012;40;25;15;0;0;40
+423;22 Rubber- en kunststofproductindustrie;2013;40;30;15;0;0;40
+424;22 Rubber- en kunststofproductindustrie;2014;35;20;15;0;0;35
+425;22 Rubber- en kunststofproductindustrie;2015;40;25;10;0;0;40
+426;22 Rubber- en kunststofproductindustrie;2016;55;35;15;0;0;55
+427;22 Rubber- en kunststofproductindustrie;2017;70;45;25;0;0;70
+428;22 Rubber- en kunststofproductindustrie;2018;65;45;20;0;0;65
+429;22 Rubber- en kunststofproductindustrie;2019;60;45;15;0;0;60
+430;22 Rubber- en kunststofproductindustrie;2020;55;40;15;0;0;55
+431;22 Rubber- en kunststofproductindustrie;2021;50;35;15;0;0;50
+432;22 Rubber- en kunststofproductindustrie;2022;45;35;10;0;0;45
+433;22 Rubber- en kunststofproductindustrie;2023;45;30;10;5;0;45
+434;23 Bouwmaterialenindustrie;2010;20;10;5;0;0;20
+435;23 Bouwmaterialenindustrie;2011;20;15;5;0;0;20
+436;23 Bouwmaterialenindustrie;2012;20;15;10;0;0;20
+437;23 Bouwmaterialenindustrie;2013;20;15;5;0;0;20
+438;23 Bouwmaterialenindustrie;2014;10;5;5;0;0;10
+439;23 Bouwmaterialenindustrie;2015;15;10;0;0;0;15
+440;23 Bouwmaterialenindustrie;2016;15;10;5;0;0;15
+441;23 Bouwmaterialenindustrie;2017;30;25;10;0;0;30
+442;23 Bouwmaterialenindustrie;2018;40;35;10;0;0;40
+443;23 Bouwmaterialenindustrie;2019;35;25;10;0;0;35
+444;23 Bouwmaterialenindustrie;2020;30;20;5;5;0;30
+445;23 Bouwmaterialenindustrie;2021;25;20;5;0;0;25
+446;23 Bouwmaterialenindustrie;2022;30;20;5;0;0;30
+447;23 Bouwmaterialenindustrie;2023;20;10;10;0;0;20
+448;24-30, 33 Metalektro;2010;335;220;90;15;5;330
+449;24-30, 33 Metalektro;2011;315;225;75;10;5;310
+450;24-30, 33 Metalektro;2012;380;275;90;10;5;375
+451;24-30, 33 Metalektro;2013;425;295;110;15;10;415
+452;24-30, 33 Metalektro;2014;395;280;100;10;5;390
+453;24-30, 33 Metalektro;2015;390;275;100;10;5;385
+454;24-30, 33 Metalektro;2016;455;335;105;10;10;450
+455;24-30, 33 Metalektro;2017;530;405;110;10;10;520
+456;24-30, 33 Metalektro;2018;635;470;145;15;10;625
+457;24-30, 33 Metalektro;2019;595;415;150;25;10;585
+458;24-30, 33 Metalektro;2020;465;300;135;25;5;465
+459;24-30, 33 Metalektro;2021;420;280;115;20;5;420
+460;24-30, 33 Metalektro;2022;410;285;100;25;5;405
+461;24-30, 33 Metalektro;2023;420;275;115;25;0;420
+462;24-25 Basismetaal, metaalprod.-industrie;2010;125;90;25;5;0;120
+463;24-25 Basismetaal, metaalprod.-industrie;2011;115;90;20;0;0;110
+464;24-25 Basismetaal, metaalprod.-industrie;2012;140;115;25;0;5;140
+465;24-25 Basismetaal, metaalprod.-industrie;2013;175;140;30;5;10;165
+466;24-25 Basismetaal, metaalprod.-industrie;2014;140;110;25;0;5;135
+467;24-25 Basismetaal, metaalprod.-industrie;2015;150;115;30;0;5;150
+468;24-25 Basismetaal, metaalprod.-industrie;2016;165;135;25;0;5;165
+469;24-25 Basismetaal, metaalprod.-industrie;2017;200;170;25;0;5;195
+470;24-25 Basismetaal, metaalprod.-industrie;2018;265;215;45;5;5;265
+471;24-25 Basismetaal, metaalprod.-industrie;2019;220;165;50;5;5;215
+472;24-25 Basismetaal, metaalprod.-industrie;2020;170;125;35;10;5;170
+473;24-25 Basismetaal, metaalprod.-industrie;2021;150;100;40;10;0;150
+474;24-25 Basismetaal, metaalprod.-industrie;2022;140;105;30;5;5;135
+475;24-25 Basismetaal, metaalprod.-industrie;2023;155;110;35;10;0;150
+476;24 Basismetaalindustrie;2010;5;5;0;0;0;5
+477;24 Basismetaalindustrie;2011;5;5;0;0;0;5
+478;24 Basismetaalindustrie;2012;5;5;0;0;0;5
+479;24 Basismetaalindustrie;2013;10;5;5;0;0;10
+480;24 Basismetaalindustrie;2014;5;5;5;0;0;5
+481;24 Basismetaalindustrie;2015;10;5;5;0;0;10
+482;24 Basismetaalindustrie;2016;10;5;5;0;0;10
+483;24 Basismetaalindustrie;2017;10;10;0;0;0;10
+484;24 Basismetaalindustrie;2018;15;10;5;0;0;15
+485;24 Basismetaalindustrie;2019;15;10;5;0;0;15
+486;24 Basismetaalindustrie;2020;10;5;0;0;0;10
+487;24 Basismetaalindustrie;2021;10;5;0;5;0;10
+488;24 Basismetaalindustrie;2022;10;5;5;0;0;10
+489;24 Basismetaalindustrie;2023;15;10;5;5;0;15
+490;25 Metaalproductenindustrie;2010;120;85;25;5;0;115
+491;25 Metaalproductenindustrie;2011;110;90;20;0;0;105
+492;25 Metaalproductenindustrie;2012;135;110;20;0;5;130
+493;25 Metaalproductenindustrie;2013;165;135;25;5;10;155
+494;25 Metaalproductenindustrie;2014;130;110;20;0;5;125
+495;25 Metaalproductenindustrie;2015;140;110;30;0;5;135
+496;25 Metaalproductenindustrie;2016;160;130;25;0;5;155
+497;25 Metaalproductenindustrie;2017;190;160;25;0;5;185
+498;25 Metaalproductenindustrie;2018;250;205;40;5;5;250
+499;25 Metaalproductenindustrie;2019;205;155;45;5;5;200
+500;25 Metaalproductenindustrie;2020;165;120;35;5;5;160
+501;25 Metaalproductenindustrie;2021;145;95;40;5;0;140
+502;25 Metaalproductenindustrie;2022;130;100;25;5;5;130
+503;25 Metaalproductenindustrie;2023;140;100;30;5;0;140
+504;26-28 Elektrotechn. en machine-industrie;2010;130;80;40;5;0;130
+505;26-28 Elektrotechn. en machine-industrie;2011;130;85;35;5;0;130
+506;26-28 Elektrotechn. en machine-industrie;2012;160;105;50;5;0;160
+507;26-28 Elektrotechn. en machine-industrie;2013;180;110;55;5;0;175
+508;26-28 Elektrotechn. en machine-industrie;2014;170;115;50;5;0;170
+509;26-28 Elektrotechn. en machine-industrie;2015;155;105;40;5;0;150
+510;26-28 Elektrotechn. en machine-industrie;2016;185;125;55;5;0;185
+511;26-28 Elektrotechn. en machine-industrie;2017;195;135;60;0;0;195
+512;26-28 Elektrotechn. en machine-industrie;2018;230;155;70;5;0;230
+513;26-28 Elektrotechn. en machine-industrie;2019;255;165;80;15;0;255
+514;26-28 Elektrotechn. en machine-industrie;2020;200;115;70;10;0;200
+515;26-28 Elektrotechn. en machine-industrie;2021;180;115;50;10;0;180
+516;26-28 Elektrotechn. en machine-industrie;2022;180;115;50;15;0;180
+517;26-28 Elektrotechn. en machine-industrie;2023;180;105;60;15;0;180
+518;26-27 Elektrische en elektron. Industrie;2010;40;25;10;0;0;40
+519;26-27 Elektrische en elektron. Industrie;2011;50;35;10;0;0;50
+520;26-27 Elektrische en elektron. Industrie;2012;65;50;15;0;0;65
+521;26-27 Elektrische en elektron. Industrie;2013;65;40;20;0;0;65
+522;26-27 Elektrische en elektron. Industrie;2014;55;40;10;0;0;55
+523;26-27 Elektrische en elektron. Industrie;2015;50;40;10;0;0;50
+524;26-27 Elektrische en elektron. Industrie;2016;65;45;20;0;0;65
+525;26-27 Elektrische en elektron. Industrie;2017;75;50;20;0;0;75
+526;26-27 Elektrische en elektron. Industrie;2018;70;45;25;0;0;70
+527;26-27 Elektrische en elektron. Industrie;2019;85;55;25;5;0;85
+528;26-27 Elektrische en elektron. Industrie;2020;70;40;25;5;0;70
+529;26-27 Elektrische en elektron. Industrie;2021;55;35;15;5;0;55
+530;26-27 Elektrische en elektron. Industrie;2022;60;40;10;5;0;60
+531;26-27 Elektrische en elektron. Industrie;2023;70;50;20;5;0;70
+532;26 Elektrotechnische industrie;2010;25;15;10;0;0;25
+533;26 Elektrotechnische industrie;2011;30;20;5;0;0;30
+534;26 Elektrotechnische industrie;2012;40;30;10;0;0;40
+535;26 Elektrotechnische industrie;2013;35;20;10;0;0;35
+536;26 Elektrotechnische industrie;2014;35;25;5;0;0;35
+537;26 Elektrotechnische industrie;2015;25;20;5;0;0;25
+538;26 Elektrotechnische industrie;2016;30;25;5;0;0;30
+539;26 Elektrotechnische industrie;2017;35;25;10;0;0;35
+540;26 Elektrotechnische industrie;2018;35;25;10;0;0;35
+541;26 Elektrotechnische industrie;2019;40;25;10;0;0;40
+542;26 Elektrotechnische industrie;2020;30;15;10;0;0;30
+543;26 Elektrotechnische industrie;2021;25;15;10;0;0;25
+544;26 Elektrotechnische industrie;2022;25;15;5;0;0;25
+545;26 Elektrotechnische industrie;2023;35;25;10;0;0;35
+546;27 Elektrische apparatenindustrie;2010;15;15;5;0;0;15
+547;27 Elektrische apparatenindustrie;2011;20;15;5;0;0;20
+548;27 Elektrische apparatenindustrie;2012;25;15;5;0;0;25
+549;27 Elektrische apparatenindustrie;2013;30;20;10;0;0;30
+550;27 Elektrische apparatenindustrie;2014;20;15;5;0;0;20
+551;27 Elektrische apparatenindustrie;2015;20;15;5;0;0;20
+552;27 Elektrische apparatenindustrie;2016;35;20;15;0;0;35
+553;27 Elektrische apparatenindustrie;2017;40;25;10;0;0;40
+554;27 Elektrische apparatenindustrie;2018;40;20;15;0;0;40
+555;27 Elektrische apparatenindustrie;2019;45;25;15;5;0;45
+556;27 Elektrische apparatenindustrie;2020;40;25;10;5;0;40
+557;27 Elektrische apparatenindustrie;2021;30;20;5;5;0;30
+558;27 Elektrische apparatenindustrie;2022;35;25;5;5;0;35
+559;27 Elektrische apparatenindustrie;2023;35;25;10;5;0;35
+560;28 Machine-industrie;2010;90;55;30;5;0;90
+561;28 Machine-industrie;2011;80;50;25;5;0;80
+562;28 Machine-industrie;2012;95;60;35;5;0;95
+563;28 Machine-industrie;2013;110;70;35;5;0;110
+564;28 Machine-industrie;2014;115;75;35;0;0;115
+565;28 Machine-industrie;2015;105;70;35;5;0;105
+566;28 Machine-industrie;2016;120;80;35;0;0;120
+567;28 Machine-industrie;2017;125;80;40;0;0;125
+568;28 Machine-industrie;2018;160;110;45;5;0;160
+569;28 Machine-industrie;2019;170;110;50;10;0;170
+570;28 Machine-industrie;2020;130;75;50;10;0;130
+571;28 Machine-industrie;2021;125;85;35;5;0;125
+572;28 Machine-industrie;2022;120;75;35;5;0;120
+573;28 Machine-industrie;2023;110;55;40;10;0;110
+574;29-30 Transportmiddelenindustrie;2010;30;20;10;5;0;30
+575;29-30 Transportmiddelenindustrie;2011;30;20;10;0;0;30
+576;29-30 Transportmiddelenindustrie;2012;30;20;10;0;0;30
+577;29-30 Transportmiddelenindustrie;2013;25;15;10;0;0;25
+578;29-30 Transportmiddelenindustrie;2014;30;15;15;0;0;30
+579;29-30 Transportmiddelenindustrie;2015;35;20;10;5;0;35
+580;29-30 Transportmiddelenindustrie;2016;45;30;10;5;0;40
+581;29-30 Transportmiddelenindustrie;2017;55;40;10;5;5;55
+582;29-30 Transportmiddelenindustrie;2018;65;50;10;5;5;60
+583;29-30 Transportmiddelenindustrie;2019;50;35;10;5;0;50
+584;29-30 Transportmiddelenindustrie;2020;40;20;15;5;0;40
+585;29-30 Transportmiddelenindustrie;2021;30;20;10;0;0;30
+586;29-30 Transportmiddelenindustrie;2022;35;25;10;0;0;35
+587;29-30 Transportmiddelenindustrie;2023;30;15;10;0;0;30
+588;29 Auto- en aanhangwagenindustrie;2010;10;10;0;0;0;10
+589;29 Auto- en aanhangwagenindustrie;2011;10;10;0;0;0;10
+590;29 Auto- en aanhangwagenindustrie;2012;10;10;0;0;0;10
+591;29 Auto- en aanhangwagenindustrie;2013;10;5;5;0;0;10
+592;29 Auto- en aanhangwagenindustrie;2014;5;5;5;0;0;5
+593;29 Auto- en aanhangwagenindustrie;2015;10;5;5;0;0;10
+594;29 Auto- en aanhangwagenindustrie;2016;15;10;5;0;0;15
+595;29 Auto- en aanhangwagenindustrie;2017;30;20;5;0;0;30
+596;29 Auto- en aanhangwagenindustrie;2018;40;30;5;5;0;40
+597;29 Auto- en aanhangwagenindustrie;2019;25;15;5;5;0;25
+598;29 Auto- en aanhangwagenindustrie;2020;20;10;5;0;0;20
+599;29 Auto- en aanhangwagenindustrie;2021;15;10;0;0;0;15
+600;29 Auto- en aanhangwagenindustrie;2022;15;10;5;0;0;15
+601;29 Auto- en aanhangwagenindustrie;2023;15;10;5;0;0;15
+602;30 Overige transportmiddelenindustrie;2010;20;10;5;0;0;20
+603;30 Overige transportmiddelenindustrie;2011;15;10;5;0;0;15
+604;30 Overige transportmiddelenindustrie;2012;25;10;10;0;0;25
+605;30 Overige transportmiddelenindustrie;2013;20;10;10;0;0;20
+606;30 Overige transportmiddelenindustrie;2014;25;10;10;0;0;25
+607;30 Overige transportmiddelenindustrie;2015;25;15;10;5;0;25
+608;30 Overige transportmiddelenindustrie;2016;25;20;5;0;0;25
+609;30 Overige transportmiddelenindustrie;2017;25;15;5;0;0;25
+610;30 Overige transportmiddelenindustrie;2018;20;15;5;0;0;20
+611;30 Overige transportmiddelenindustrie;2019;25;15;5;0;0;25
+612;30 Overige transportmiddelenindustrie;2020;20;10;5;5;0;20
+613;30 Overige transportmiddelenindustrie;2021;20;10;10;0;0;20
+614;30 Overige transportmiddelenindustrie;2022;20;10;5;0;0;20
+615;30 Overige transportmiddelenindustrie;2023;15;10;5;0;0;15
+616;31 Meubelindustrie;2010;20;15;5;0;0;20
+617;31 Meubelindustrie;2011;15;10;0;0;0;15
+618;31 Meubelindustrie;2012;25;25;0;0;0;25
+619;31 Meubelindustrie;2013;15;15;0;0;0;15
+620;31 Meubelindustrie;2014;20;15;0;0;0;20
+621;31 Meubelindustrie;2015;25;25;0;0;0;25
+622;31 Meubelindustrie;2016;35;30;5;0;0;35
+623;31 Meubelindustrie;2017;55;45;5;0;5;50
+624;31 Meubelindustrie;2018;55;50;5;0;5;50
+625;31 Meubelindustrie;2019;45;40;5;0;5;40
+626;31 Meubelindustrie;2020;45;45;0;0;5;40
+627;31 Meubelindustrie;2021;35;35;5;0;0;35
+628;31 Meubelindustrie;2022;40;40;5;0;0;40
+629;31 Meubelindustrie;2023;40;35;0;0;0;40
+630;32 Overige industrie;2010;40;30;5;5;0;40
+631;32 Overige industrie;2011;40;30;5;5;0;40
+632;32 Overige industrie;2012;35;30;0;5;0;35
+633;32 Overige industrie;2013;30;20;5;5;0;30
+634;32 Overige industrie;2014;25;20;5;5;0;25
+635;32 Overige industrie;2015;35;25;5;0;0;35
+636;32 Overige industrie;2016;30;25;5;5;0;30
+637;32 Overige industrie;2017;30;20;10;0;0;30
+638;32 Overige industrie;2018;40;15;15;5;0;35
+639;32 Overige industrie;2019;45;30;15;5;0;45
+640;32 Overige industrie;2020;40;20;15;5;0;40
+641;32 Overige industrie;2021;50;30;10;5;0;50
+642;32 Overige industrie;2022;45;30;10;5;0;45
+643;32 Overige industrie;2023;45;30;10;5;0;45
+644;33 Reparatie en installatie van machines;2010;50;30;15;0;0;50
+645;33 Reparatie en installatie van machines;2011;40;30;10;0;0;40
+646;33 Reparatie en installatie van machines;2012;45;35;5;0;0;45
+647;33 Reparatie en installatie van machines;2013;50;35;10;5;0;45
+648;33 Reparatie en installatie van machines;2014;55;40;15;0;0;55
+649;33 Reparatie en installatie van machines;2015;50;35;15;0;0;50
+650;33 Reparatie en installatie van machines;2016;60;50;10;0;0;60
+651;33 Reparatie en installatie van machines;2017;75;60;10;0;0;75
+652;33 Reparatie en installatie van machines;2018;75;55;20;0;0;75
+653;33 Reparatie en installatie van machines;2019;65;50;15;0;0;65
+654;33 Reparatie en installatie van machines;2020;60;40;15;0;0;60
+655;33 Reparatie en installatie van machines;2021;60;45;15;0;0;60
+656;33 Reparatie en installatie van machines;2022;55;40;10;0;0;55
+657;33 Reparatie en installatie van machines;2023;55;45;10;0;0;55
+658;D Energievoorziening;2010;15;5;5;5;0;15
+659;D Energievoorziening;2011;15;5;5;5;0;15
+660;D Energievoorziening;2012;10;5;5;5;0;10
+661;D Energievoorziening;2013;10;0;10;5;0;10
+662;D Energievoorziening;2014;5;5;5;0;0;5
+663;D Energievoorziening;2015;15;5;5;0;0;15
+664;D Energievoorziening;2016;10;5;5;0;0;10
+665;D Energievoorziening;2017;15;10;5;5;0;15
+666;D Energievoorziening;2018;20;10;10;5;0;20
+667;D Energievoorziening;2019;20;15;5;0;0;20
+668;D Energievoorziening;2020;25;10;10;0;0;25
+669;D Energievoorziening;2021;25;10;10;5;0;25
+670;D Energievoorziening;2022;30;10;15;5;0;30
+671;D Energievoorziening;2023;25;10;15;0;0;25
+672;35 Energiebedrijven;2010;15;5;5;5;0;15
+673;35 Energiebedrijven;2011;15;5;5;5;0;15
+674;35 Energiebedrijven;2012;10;5;5;5;0;10
+675;35 Energiebedrijven;2013;10;0;10;5;0;10
+676;35 Energiebedrijven;2014;5;5;5;0;0;5
+677;35 Energiebedrijven;2015;15;5;5;0;0;15
+678;35 Energiebedrijven;2016;10;5;5;0;0;10
+679;35 Energiebedrijven;2017;15;10;5;5;0;15
+680;35 Energiebedrijven;2018;20;10;10;5;0;20
+681;35 Energiebedrijven;2019;20;15;5;0;0;20
+682;35 Energiebedrijven;2020;25;10;10;0;0;25
+683;35 Energiebedrijven;2021;25;10;10;5;0;25
+684;35 Energiebedrijven;2022;30;10;15;5;0;30
+685;35 Energiebedrijven;2023;25;10;15;0;0;25
+686;E Waterbedrijven en afvalbeheer;2010;40;25;15;0;0;40
+687;E Waterbedrijven en afvalbeheer;2011;45;35;10;0;0;45
+688;E Waterbedrijven en afvalbeheer;2012;35;25;5;0;0;35
+689;E Waterbedrijven en afvalbeheer;2013;30;20;10;0;0;30
+690;E Waterbedrijven en afvalbeheer;2014;25;20;5;0;0;25
+691;E Waterbedrijven en afvalbeheer;2015;25;15;10;0;0;25
+692;E Waterbedrijven en afvalbeheer;2016;30;20;5;0;0;30
+693;E Waterbedrijven en afvalbeheer;2017;45;35;5;5;0;45
+694;E Waterbedrijven en afvalbeheer;2018;50;35;10;0;0;50
+695;E Waterbedrijven en afvalbeheer;2019;45;30;15;0;0;45
+696;E Waterbedrijven en afvalbeheer;2020;40;25;15;0;0;40
+697;E Waterbedrijven en afvalbeheer;2021;45;25;15;0;0;45
+698;E Waterbedrijven en afvalbeheer;2022;45;25;15;0;0;45
+699;E Waterbedrijven en afvalbeheer;2023;40;25;15;0;0;40
+700;36 Waterleidingbedrijven;2010;0;0;0;0;0;0
+701;36 Waterleidingbedrijven;2011;0;0;0;0;0;0
+702;36 Waterleidingbedrijven;2012;0;0;0;0;0;0
+703;36 Waterleidingbedrijven;2013;0;0;0;0;0;0
+704;36 Waterleidingbedrijven;2014;0;0;0;0;0;0
+705;36 Waterleidingbedrijven;2015;0;0;0;0;0;0
+706;36 Waterleidingbedrijven;2016;0;0;0;0;0;0
+707;36 Waterleidingbedrijven;2017;0;0;0;0;0;0
+708;36 Waterleidingbedrijven;2018;0;0;0;0;0;0
+709;36 Waterleidingbedrijven;2019;0;0;0;0;0;0
+710;36 Waterleidingbedrijven;2020;0;0;0;0;0;0
+711;36 Waterleidingbedrijven;2021;0;0;0;0;0;0
+712;36 Waterleidingbedrijven;2022;0;0;0;0;0;0
+713;36 Waterleidingbedrijven;2023;0;0;0;0;0;0
+714;37 Afvalwaterinzameling en -behandeling;2010;0;0;0;0;0;0
+715;37 Afvalwaterinzameling en -behandeling;2011;5;0;0;0;0;5
+716;37 Afvalwaterinzameling en -behandeling;2012;0;0;0;0;0;0
+717;37 Afvalwaterinzameling en -behandeling;2013;5;0;0;0;0;5
+718;37 Afvalwaterinzameling en -behandeling;2014;5;0;0;0;0;5
+719;37 Afvalwaterinzameling en -behandeling;2015;0;0;0;0;0;0
+720;37 Afvalwaterinzameling en -behandeling;2016;0;0;0;0;0;0
+721;37 Afvalwaterinzameling en -behandeling;2017;0;0;0;0;0;0
+722;37 Afvalwaterinzameling en -behandeling;2018;0;0;0;0;0;0
+723;37 Afvalwaterinzameling en -behandeling;2019;5;5;0;0;0;5
+724;37 Afvalwaterinzameling en -behandeling;2020;5;0;0;0;0;5
+725;37 Afvalwaterinzameling en -behandeling;2021;5;5;0;0;0;5
+726;37 Afvalwaterinzameling en -behandeling;2022;0;0;0;0;0;0
+727;37 Afvalwaterinzameling en -behandeling;2023;0;0;0;0;0;0
+728;38 Afvalbehandeling en recycling;2010;35;20;15;0;0;35
+729;38 Afvalbehandeling en recycling;2011;35;25;10;0;0;35
+730;38 Afvalbehandeling en recycling;2012;25;20;5;0;0;25
+731;38 Afvalbehandeling en recycling;2013;25;15;5;0;0;25
+732;38 Afvalbehandeling en recycling;2014;20;15;5;0;0;20
+733;38 Afvalbehandeling en recycling;2015;20;15;5;0;0;20
+734;38 Afvalbehandeling en recycling;2016;25;15;5;0;0;25
+735;38 Afvalbehandeling en recycling;2017;40;25;5;5;0;40
+736;38 Afvalbehandeling en recycling;2018;40;30;10;0;0;40
+737;38 Afvalbehandeling en recycling;2019;35;20;10;0;0;35
+738;38 Afvalbehandeling en recycling;2020;35;25;10;0;0;35
+739;38 Afvalbehandeling en recycling;2021;40;20;15;0;0;40
+740;38 Afvalbehandeling en recycling;2022;35;20;15;0;0;35
+741;38 Afvalbehandeling en recycling;2023;30;20;10;0;0;30
+742;39 Sanering en overig afvalbeheer;2010;5;5;0;0;0;5
+743;39 Sanering en overig afvalbeheer;2011;5;5;0;0;0;5
+744;39 Sanering en overig afvalbeheer;2012;5;5;0;0;0;5
+745;39 Sanering en overig afvalbeheer;2013;5;5;0;0;0;5
+746;39 Sanering en overig afvalbeheer;2014;0;0;0;0;0;0
+747;39 Sanering en overig afvalbeheer;2015;0;0;0;0;0;0
+748;39 Sanering en overig afvalbeheer;2016;0;0;0;0;0;0
+749;39 Sanering en overig afvalbeheer;2017;5;5;0;0;0;5
+750;39 Sanering en overig afvalbeheer;2018;5;5;0;0;0;5
+751;39 Sanering en overig afvalbeheer;2019;5;5;0;0;0;5
+752;39 Sanering en overig afvalbeheer;2020;5;0;5;0;0;5
+753;39 Sanering en overig afvalbeheer;2021;0;0;0;0;0;0
+754;39 Sanering en overig afvalbeheer;2022;5;0;0;0;0;5
+755;39 Sanering en overig afvalbeheer;2023;5;5;5;0;0;5
+756;F Bouwnijverheid;2010;410;295;80;20;15;390
+757;F Bouwnijverheid;2011;360;275;70;15;20;345
+758;F Bouwnijverheid;2012;350;265;65;10;10;340
+759;F Bouwnijverheid;2013;285;215;55;10;5;285
+760;F Bouwnijverheid;2014;245;195;35;10;5;240
+761;F Bouwnijverheid;2015;260;205;45;5;5;255
+762;F Bouwnijverheid;2016;385;305;70;5;15;370
+763;F Bouwnijverheid;2017;580;460;105;10;15;560
+764;F Bouwnijverheid;2018;790;620;145;15;25;765
+765;F Bouwnijverheid;2019;780;600;150;20;10;770
+766;F Bouwnijverheid;2020;670;520;125;25;15;655
+767;F Bouwnijverheid;2021;605;460;120;20;10;595
+768;F Bouwnijverheid;2022;610;465;120;20;15;600
+769;F Bouwnijverheid;2023;590;445;120;25;10;580
+770;41 Algemene bouw en projectontwikkeling;2010;115;80;25;0;5;110
+771;41 Algemene bouw en projectontwikkeling;2011;110;85;20;0;5;105
+772;41 Algemene bouw en projectontwikkeling;2012;85;70;10;5;5;80
+773;41 Algemene bouw en projectontwikkeling;2013;60;50;5;0;0;55
+774;41 Algemene bouw en projectontwikkeling;2014;55;45;5;5;0;50
+775;41 Algemene bouw en projectontwikkeling;2015;70;55;10;0;5;65
+776;41 Algemene bouw en projectontwikkeling;2016;105;80;25;0;0;105
+777;41 Algemene bouw en projectontwikkeling;2017;180;135;40;5;5;175
+778;41 Algemene bouw en projectontwikkeling;2018;245;185;50;5;5;240
+779;41 Algemene bouw en projectontwikkeling;2019;245;180;55;5;5;240
+780;41 Algemene bouw en projectontwikkeling;2020;195;135;45;10;5;190
+781;41 Algemene bouw en projectontwikkeling;2021;170;125;35;10;0;170
+782;41 Algemene bouw en projectontwikkeling;2022;190;145;30;10;0;190
+783;41 Algemene bouw en projectontwikkeling;2023;180;130;40;10;5;175
+784;42 Grond-, water-  en wegenbouw;2010;50;30;10;5;0;50
+785;42 Grond-, water-  en wegenbouw;2011;55;30;20;5;0;50
+786;42 Grond-, water-  en wegenbouw;2012;50;30;20;5;0;50
+787;42 Grond-, water-  en wegenbouw;2013;45;30;10;5;0;45
+788;42 Grond-, water-  en wegenbouw;2014;40;30;5;5;0;40
+789;42 Grond-, water-  en wegenbouw;2015;35;25;10;0;0;35
+790;42 Grond-, water-  en wegenbouw;2016;40;25;10;0;0;35
+791;42 Grond-, water-  en wegenbouw;2017;45;30;15;0;0;45
+792;42 Grond-, water-  en wegenbouw;2018;60;45;15;5;0;60
+793;42 Grond-, water-  en wegenbouw;2019;70;45;20;5;0;70
+794;42 Grond-, water-  en wegenbouw;2020;65;45;15;5;0;65
+795;42 Grond-, water-  en wegenbouw;2021;45;25;15;5;0;45
+796;42 Grond-, water-  en wegenbouw;2022;50;35;15;0;0;50
+797;42 Grond-, water-  en wegenbouw;2023;45;25;15;0;0;45
+798;43 Gespecialiseerde bouw;2010;245;180;45;10;10;235
+799;43 Gespecialiseerde bouw;2011;200;160;30;5;10;190
+800;43 Gespecialiseerde bouw;2012;210;165;40;5;5;210
+801;43 Gespecialiseerde bouw;2013;185;140;40;5;0;185
+802;43 Gespecialiseerde bouw;2014;150;125;25;5;0;150
+803;43 Gespecialiseerde bouw;2015;155;125;25;5;0;155
+804;43 Gespecialiseerde bouw;2016;240;200;35;5;10;230
+805;43 Gespecialiseerde bouw;2017;355;295;50;5;10;345
+806;43 Gespecialiseerde bouw;2018;485;395;80;5;20;470
+807;43 Gespecialiseerde bouw;2019;465;375;75;10;5;455
+808;43 Gespecialiseerde bouw;2020;415;335;65;10;10;400
+809;43 Gespecialiseerde bouw;2021;390;310;70;10;10;380
+810;43 Gespecialiseerde bouw;2022;370;285;75;10;10;355
+811;43 Gespecialiseerde bouw;2023;365;290;65;15;5;360
+812;G-I Handel, vervoer en horeca;2010;2735;1875;470;80;510;2225
+813;G-I Handel, vervoer en horeca;2011;2605;1830;435;70;520;2085
+814;G-I Handel, vervoer en horeca;2012;2630;1835;470;80;490;2135
+815;G-I Handel, vervoer en horeca;2013;2595;1820;465;75;490;2105
+816;G-I Handel, vervoer en horeca;2014;2465;1725;395;85;460;2005
+817;G-I Handel, vervoer en horeca;2015;2705;1905;460;75;530;2175
+818;G-I Handel, vervoer en horeca;2016;3205;2240;545;85;680;2525
+819;G-I Handel, vervoer en horeca;2017;3645;2575;620;100;710;2940
+820;G-I Handel, vervoer en horeca;2018;4530;3170;745;130;965;3565
+821;G-I Handel, vervoer en horeca;2019;4040;2775;770;135;740;3300
+822;G-I Handel, vervoer en horeca;2020;3215;2215;655;130;495;2720
+823;G-I Handel, vervoer en horeca;2021;2895;2030;545;110;460;2435
+824;G-I Handel, vervoer en horeca;2022;3535;2490;615;115;675;2855
+825;G-I Handel, vervoer en horeca;2023;4685;3360;735;130;1055;3630
+826;G Handel;2010;1725;1250;320;50;190;1535
+827;G Handel;2011;1635;1195;315;45;210;1425
+828;G Handel;2012;1620;1180;320;50;190;1435
+829;G Handel;2013;1565;1130;330;50;180;1385
+830;G Handel;2014;1425;1035;270;55;150;1275
+831;G Handel;2015;1550;1130;300;50;155;1395
+832;G Handel;2016;1810;1310;365;55;180;1630
+833;G Handel;2017;2075;1520;395;70;175;1900
+834;G Handel;2018;2470;1805;470;90;225;2245
+835;G Handel;2019;2325;1650;500;90;180;2145
+836;G Handel;2020;2080;1450;455;85;170;1910
+837;G Handel;2021;1940;1380;405;70;175;1760
+838;G Handel;2022;2020;1440;415;75;200;1820
+839;G Handel;2023;1995;1380;445;80;150;1845
+840;45 Autohandel en -reparatie;2010;170;130;30;5;0;165
+841;45 Autohandel en -reparatie;2011;170;125;40;5;5;165
+842;45 Autohandel en -reparatie;2012;160;105;40;5;5;155
+843;45 Autohandel en -reparatie;2013;135;90;30;5;5;130
+844;45 Autohandel en -reparatie;2014;110;85;20;0;0;110
+845;45 Autohandel en -reparatie;2015;125;85;35;0;5;125
+846;45 Autohandel en -reparatie;2016;150;105;40;5;5;145
+847;45 Autohandel en -reparatie;2017;205;145;45;10;5;200
+848;45 Autohandel en -reparatie;2018;270;195;55;15;10;260
+849;45 Autohandel en -reparatie;2019;245;175;60;10;10;235
+850;45 Autohandel en -reparatie;2020;185;125;45;10;5;180
+851;45 Autohandel en -reparatie;2021;140;95;35;10;5;135
+852;45 Autohandel en -reparatie;2022;145;100;30;5;5;140
+853;45 Autohandel en -reparatie;2023;170;110;40;10;5;160
+854;46 Groothandel en handelsbemiddeling;2010;880;655;165;25;25;855
+855;46 Groothandel en handelsbemiddeling;2011;830;615;175;20;25;805
+856;46 Groothandel en handelsbemiddeling;2012;880;660;180;20;20;860
+857;46 Groothandel en handelsbemiddeling;2013;905;670;195;20;25;880
+858;46 Groothandel en handelsbemiddeling;2014;840;630;165;30;20;815
+859;46 Groothandel en handelsbemiddeling;2015;925;690;185;25;20;905
+860;46 Groothandel en handelsbemiddeling;2016;1065;805;220;20;25;1040
+861;46 Groothandel en handelsbemiddeling;2017;1175;895;230;25;30;1145
+862;46 Groothandel en handelsbemiddeling;2018;1360;1030;260;35;40;1320
+863;46 Groothandel en handelsbemiddeling;2019;1335;985;290;35;30;1305
+864;46 Groothandel en handelsbemiddeling;2020;1200;865;280;35;25;1175
+865;46 Groothandel en handelsbemiddeling;2021;1135;830;250;30;25;1110
+866;46 Groothandel en handelsbemiddeling;2022;1155;825;275;35;25;1130
+867;46 Groothandel en handelsbemiddeling;2023;1155;810;300;35;25;1135
+868;47 Detailhandel (niet in auto's);2010;675;460;125;20;165;510
+869;47 Detailhandel (niet in auto's);2011;640;460;105;20;180;460
+870;47 Detailhandel (niet in auto's);2012;580;410;100;25;165;415
+871;47 Detailhandel (niet in auto's);2013;525;370;100;20;155;375
+872;47 Detailhandel (niet in auto's);2014;480;325;85;25;130;350
+873;47 Detailhandel (niet in auto's);2015;500;350;80;20;130;370
+874;47 Detailhandel (niet in auto's);2016;595;405;110;30;150;445
+875;47 Detailhandel (niet in auto's);2017;695;475;120;40;145;550
+876;47 Detailhandel (niet in auto's);2018;845;585;155;45;175;665
+877;47 Detailhandel (niet in auto's);2019;740;490;150;40;140;600
+878;47 Detailhandel (niet in auto's);2020;690;460;135;40;135;555
+879;47 Detailhandel (niet in auto's);2021;660;455;120;30;145;520
+880;47 Detailhandel (niet in auto's);2022;720;515;110;30;170;550
+881;47 Detailhandel (niet in auto's);2023;670;460;105;35;120;550
+882;H Vervoer en opslag;2010;415;270;100;20;40;375
+883;H Vervoer en opslag;2011;355;235;90;20;30;325
+884;H Vervoer en opslag;2012;370;235;100;20;40;330
+885;H Vervoer en opslag;2013;380;265;90;20;35;345
+886;H Vervoer en opslag;2014;375;255;90;20;35;340
+887;H Vervoer en opslag;2015;405;260;110;15;35;365
+888;H Vervoer en opslag;2016;450;290;125;20;45;405
+889;H Vervoer en opslag;2017;525;350;140;20;55;470
+890;H Vervoer en opslag;2018;660;440;170;30;60;600
+891;H Vervoer en opslag;2019;595;380;170;30;60;535
+892;H Vervoer en opslag;2020;475;305;135;30;40;435
+893;H Vervoer en opslag;2021;425;290;90;35;45;380
+894;H Vervoer en opslag;2022;465;300;120;35;25;440
+895;H Vervoer en opslag;2023;500;310;135;35;30;465
+896;49 Vervoer over land;2010;265;170;65;10;30;235
+897;49 Vervoer over land;2011;220;145;55;10;25;195
+898;49 Vervoer over land;2012;215;135;65;15;30;190
+899;49 Vervoer over land;2013;200;135;50;10;25;180
+900;49 Vervoer over land;2014;190;125;50;10;25;165
+901;49 Vervoer over land;2015;205;140;55;10;25;180
+902;49 Vervoer over land;2016;245;160;60;10;30;215
+903;49 Vervoer over land;2017;295;215;65;10;40;255
+904;49 Vervoer over land;2018;380;265;95;15;45;335
+905;49 Vervoer over land;2019;340;220;90;20;45;295
+906;49 Vervoer over land;2020;250;155;75;20;25;225
+907;49 Vervoer over land;2021;200;130;45;20;25;180
+908;49 Vervoer over land;2022;230;145;60;20;15;215
+909;49 Vervoer over land;2023;235;160;55;15;15;220
+910;50 Vervoer over water;2010;20;10;5;0;0;20
+911;50 Vervoer over water;2011;20;10;10;0;0;20
+912;50 Vervoer over water;2012;25;15;5;0;0;20
+913;50 Vervoer over water;2013;25;15;5;0;0;25
+914;50 Vervoer over water;2014;25;15;10;0;0;25
+915;50 Vervoer over water;2015;25;15;10;0;0;25
+916;50 Vervoer over water;2016;25;15;10;0;0;25
+917;50 Vervoer over water;2017;25;15;10;0;0;25
+918;50 Vervoer over water;2018;30;20;5;0;5;25
+919;50 Vervoer over water;2019;30;20;10;0;0;30
+920;50 Vervoer over water;2020;20;15;5;0;0;20
+921;50 Vervoer over water;2021;15;15;0;0;0;15
+922;50 Vervoer over water;2022;10;5;5;0;0;10
+923;50 Vervoer over water;2023;20;15;5;0;5;15
+924;51 Vervoer door de lucht;2010;0;0;0;0;0;0
+925;51 Vervoer door de lucht;2011;0;0;0;0;0;0
+926;51 Vervoer door de lucht;2012;0;0;0;0;0;0
+927;51 Vervoer door de lucht;2013;5;0;0;0;0;5
+928;51 Vervoer door de lucht;2014;5;5;0;0;0;5
+929;51 Vervoer door de lucht;2015;5;0;0;0;0;5
+930;51 Vervoer door de lucht;2016;5;0;0;0;0;5
+931;51 Vervoer door de lucht;2017;0;0;0;0;0;0
+932;51 Vervoer door de lucht;2018;0;0;0;0;0;0
+933;51 Vervoer door de lucht;2019;5;0;0;0;0;5
+934;51 Vervoer door de lucht;2020;5;5;0;0;0;5
+935;51 Vervoer door de lucht;2021;5;5;0;0;0;5
+936;51 Vervoer door de lucht;2022;5;5;0;0;0;5
+937;51 Vervoer door de lucht;2023;5;5;0;0;0;5
+938;52 Opslag, dienstverlening voor vervoer;2010;105;70;25;10;0;105
+939;52 Opslag, dienstverlening voor vervoer;2011;100;70;20;5;0;100
+940;52 Opslag, dienstverlening voor vervoer;2012;105;70;30;5;0;100
+941;52 Opslag, dienstverlening voor vervoer;2013;130;90;25;5;5;120
+942;52 Opslag, dienstverlening voor vervoer;2014;130;95;25;5;5;125
+943;52 Opslag, dienstverlening voor vervoer;2015;135;80;40;5;5;130
+944;52 Opslag, dienstverlening voor vervoer;2016;140;85;45;10;5;140
+945;52 Opslag, dienstverlening voor vervoer;2017;170;100;60;5;5;165
+946;52 Opslag, dienstverlening voor vervoer;2018;205;120;65;10;5;200
+947;52 Opslag, dienstverlening voor vervoer;2019;180;105;65;10;0;180
+948;52 Opslag, dienstverlening voor vervoer;2020;155;90;50;10;0;150
+949;52 Opslag, dienstverlening voor vervoer;2021;145;95;40;10;5;140
+950;52 Opslag, dienstverlening voor vervoer;2022;175;105;55;10;5;170
+951;52 Opslag, dienstverlening voor vervoer;2023;190;100;70;15;5;185
+952;53 Post en koeriers;2010;20;10;5;0;5;15
+953;53 Post en koeriers;2011;15;10;5;0;5;10
+954;53 Post en koeriers;2012;25;20;5;0;5;20
+955;53 Post en koeriers;2013;25;20;5;0;5;20
+956;53 Post en koeriers;2014;25;15;5;0;5;20
+957;53 Post en koeriers;2015;35;25;10;0;5;30
+958;53 Post en koeriers;2016;35;25;10;0;10;25
+959;53 Post en koeriers;2017;35;20;5;0;10;25
+960;53 Post en koeriers;2018;45;30;5;0;10;35
+961;53 Post en koeriers;2019;40;35;5;0;10;30
+962;53 Post en koeriers;2020;50;40;5;0;15;30
+963;53 Post en koeriers;2021;55;45;5;5;15;40
+964;53 Post en koeriers;2022;50;40;5;5;5;40
+965;53 Post en koeriers;2023;50;35;10;5;10;40
+966;I Horeca;2010;600;360;45;10;280;320
+967;I Horeca;2011;615;400;30;5;280;335
+968;I Horeca;2012;640;420;50;10;265;375
+969;I Horeca;2013;645;425;45;10;270;375
+970;I Horeca;2014;660;430;35;10;270;390
+971;I Horeca;2015;755;515;45;5;340;410
+972;I Horeca;2016;945;640;55;10;460;490
+973;I Horeca;2017;1045;705;85;10;480;570
+974;I Horeca;2018;1400;925;100;10;675;725
+975;I Horeca;2019;1120;740;105;15;500;620
+976;I Horeca;2020;660;460;60;10;285;375
+977;I Horeca;2021;530;365;50;5;235;295
+978;I Horeca;2022;1050;755;80;5;450;600
+979;I Horeca;2023;2195;1665;150;10;875;1320
+980;55 Logiesverstrekking;2010;105;75;10;5;20;85
+981;55 Logiesverstrekking;2011;100;75;10;5;20;80
+982;55 Logiesverstrekking;2012;110;80;15;5;30;85
+983;55 Logiesverstrekking;2013;100;70;10;0;15;80
+984;55 Logiesverstrekking;2014;80;60;5;5;10;70
+985;55 Logiesverstrekking;2015;90;60;20;0;20;75
+986;55 Logiesverstrekking;2016;135;90;25;5;30;105
+987;55 Logiesverstrekking;2017;135;95;25;5;25;110
+988;55 Logiesverstrekking;2018;170;115;30;5;45;125
+989;55 Logiesverstrekking;2019;160;110;30;5;30;125
+990;55 Logiesverstrekking;2020;95;60;20;5;15;80
+991;55 Logiesverstrekking;2021;85;60;15;5;20;70
+992;55 Logiesverstrekking;2022;125;90;20;0;20;100
+993;55 Logiesverstrekking;2023;275;215;40;5;50;225
+994;56 Eet- en drinkgelegenheden;2010;495;280;35;5;260;235
+995;56 Eet- en drinkgelegenheden;2011;515;325;20;0;260;255
+996;56 Eet- en drinkgelegenheden;2012;530;340;35;5;240;290
+997;56 Eet- en drinkgelegenheden;2013;545;355;35;5;255;295
+998;56 Eet- en drinkgelegenheden;2014;580;370;25;5;260;320
+999;56 Eet- en drinkgelegenheden;2015;660;455;25;5;325;340
+1000;56 Eet- en drinkgelegenheden;2016;815;550;30;5;430;385
+1001;56 Eet- en drinkgelegenheden;2017;910;610;60;5;450;460
+1002;56 Eet- en drinkgelegenheden;2018;1230;810;75;5;630;600
+1003;56 Eet- en drinkgelegenheden;2019;965;630;80;10;470;495
+1004;56 Eet- en drinkgelegenheden;2020;565;400;45;5;270;295
+1005;56 Eet- en drinkgelegenheden;2021;445;300;35;0;220;225
+1006;56 Eet- en drinkgelegenheden;2022;925;660;55;5;430;495
+1007;56 Eet- en drinkgelegenheden;2023;1920;1450;110;5;820;1095
+1008;J Informatie en communicatie;2010;460;340;100;15;5;455
+1009;J Informatie en communicatie;2011;435;320;95;10;5;430
+1010;J Informatie en communicatie;2012;470;355;95;15;5;465
+1011;J Informatie en communicatie;2013;480;360;100;15;5;475
+1012;J Informatie en communicatie;2014;500;380;95;20;0;500
+1013;J Informatie en communicatie;2015;525;385;110;20;0;520
+1014;J Informatie en communicatie;2016;615;455;140;15;0;610
+1015;J Informatie en communicatie;2017;695;510;160;20;0;695
+1016;J Informatie en communicatie;2018;750;530;185;30;5;750
+1017;J Informatie en communicatie;2019;780;530;205;35;5;775
+1018;J Informatie en communicatie;2020;795;545;210;35;5;790
+1019;J Informatie en communicatie;2021;825;595;200;25;5;820
+1020;J Informatie en communicatie;2022;865;595;220;40;0;865
+1021;J Informatie en communicatie;2023;880;580;240;45;0;880
+1022;58-60 Uitgeverijen, film,radio en t.v.;2010;70;45;10;5;5;65
+1023;58-60 Uitgeverijen, film,radio en t.v.;2011;70;45;20;0;0;70
+1024;58-60 Uitgeverijen, film,radio en t.v.;2012;60;40;15;5;0;60
+1025;58-60 Uitgeverijen, film,radio en t.v.;2013;45;30;10;5;0;45
+1026;58-60 Uitgeverijen, film,radio en t.v.;2014;50;35;5;5;0;50
+1027;58-60 Uitgeverijen, film,radio en t.v.;2015;50;40;5;0;0;45
+1028;58-60 Uitgeverijen, film,radio en t.v.;2016;55;45;10;0;0;55
+1029;58-60 Uitgeverijen, film,radio en t.v.;2017;55;40;10;5;0;55
+1030;58-60 Uitgeverijen, film,radio en t.v.;2018;65;40;15;5;0;65
+1031;58-60 Uitgeverijen, film,radio en t.v.;2019;55;35;15;5;0;55
+1032;58-60 Uitgeverijen, film,radio en t.v.;2020;50;40;5;5;0;50
+1033;58-60 Uitgeverijen, film,radio en t.v.;2021;50;40;10;0;0;50
+1034;58-60 Uitgeverijen, film,radio en t.v.;2022;65;45;15;0;0;65
+1035;58-60 Uitgeverijen, film,radio en t.v.;2023;60;40;20;0;0;60
+1036;58 Uitgeverijen;2010;35;20;5;5;0;30
+1037;58 Uitgeverijen;2011;30;20;10;0;0;30
+1038;58 Uitgeverijen;2012;25;15;10;0;0;25
+1039;58 Uitgeverijen;2013;25;15;5;0;0;20
+1040;58 Uitgeverijen;2014;25;20;5;0;0;25
+1041;58 Uitgeverijen;2015;20;15;5;0;0;20
+1042;58 Uitgeverijen;2016;30;20;5;0;0;30
+1043;58 Uitgeverijen;2017;30;20;5;0;0;30
+1044;58 Uitgeverijen;2018;30;20;5;0;0;30
+1045;58 Uitgeverijen;2019;25;20;5;0;0;25
+1046;58 Uitgeverijen;2020;20;20;5;0;0;20
+1047;58 Uitgeverijen;2021;25;20;5;0;0;25
+1048;58 Uitgeverijen;2022;30;15;10;0;0;30
+1049;58 Uitgeverijen;2023;30;20;10;0;0;30
+1050;"59 Film- en tv-productie; geluidsopname";2010;30;25;5;0;0;30
+1051;"59 Film- en tv-productie; geluidsopname";2011;35;20;5;0;0;35
+1052;"59 Film- en tv-productie; geluidsopname";2012;25;20;5;0;0;25
+1053;"59 Film- en tv-productie; geluidsopname";2013;15;15;5;0;0;15
+1054;"59 Film- en tv-productie; geluidsopname";2014;20;15;5;5;0;20
+1055;"59 Film- en tv-productie; geluidsopname";2015;20;20;0;0;0;20
+1056;"59 Film- en tv-productie; geluidsopname";2016;25;20;5;0;0;25
+1057;"59 Film- en tv-productie; geluidsopname";2017;20;20;5;0;0;20
+1058;"59 Film- en tv-productie; geluidsopname";2018;30;15;10;5;0;30
+1059;"59 Film- en tv-productie; geluidsopname";2019;25;15;5;5;0;25
+1060;"59 Film- en tv-productie; geluidsopname";2020;25;20;0;0;0;20
+1061;"59 Film- en tv-productie; geluidsopname";2021;20;20;5;0;0;20
+1062;"59 Film- en tv-productie; geluidsopname";2022;30;25;5;0;0;30
+1063;"59 Film- en tv-productie; geluidsopname";2023;30;20;5;0;0;30
+1064;60 Radio- en televisieomroepen;2010;5;0;0;0;0;5
+1065;60 Radio- en televisieomroepen;2011;5;5;0;0;0;5
+1066;60 Radio- en televisieomroepen;2012;10;5;0;0;0;10
+1067;60 Radio- en televisieomroepen;2013;5;0;5;0;0;5
+1068;60 Radio- en televisieomroepen;2014;5;0;0;0;0;5
+1069;60 Radio- en televisieomroepen;2015;5;0;0;0;0;5
+1070;60 Radio- en televisieomroepen;2016;5;5;0;0;0;5
+1071;60 Radio- en televisieomroepen;2017;5;5;0;5;0;5
+1072;60 Radio- en televisieomroepen;2018;5;0;0;0;0;5
+1073;60 Radio- en televisieomroepen;2019;5;0;5;0;0;5
+1074;60 Radio- en televisieomroepen;2020;5;0;0;0;0;5
+1075;60 Radio- en televisieomroepen;2021;0;0;0;0;0;0
+1076;60 Radio- en televisieomroepen;2022;5;5;0;0;0;5
+1077;60 Radio- en televisieomroepen;2023;5;0;5;0;0;5
+1078;61 Telecommunicatie;2010;35;20;10;0;0;35
+1079;61 Telecommunicatie;2011;35;20;10;5;0;35
+1080;61 Telecommunicatie;2012;20;10;10;0;0;20
+1081;61 Telecommunicatie;2013;25;20;5;0;0;25
+1082;61 Telecommunicatie;2014;30;20;5;0;0;30
+1083;61 Telecommunicatie;2015;25;15;10;0;0;25
+1084;61 Telecommunicatie;2016;25;15;10;0;0;25
+1085;61 Telecommunicatie;2017;25;10;10;0;0;25
+1086;61 Telecommunicatie;2018;25;15;10;0;0;25
+1087;61 Telecommunicatie;2019;20;15;5;0;0;20
+1088;61 Telecommunicatie;2020;25;10;10;0;0;25
+1089;61 Telecommunicatie;2021;20;15;5;0;0;20
+1090;61 Telecommunicatie;2022;20;10;5;5;0;20
+1091;61 Telecommunicatie;2023;10;5;5;0;0;10
+1092;62-63 IT- en informatiedienstverlening;2010;355;270;75;5;0;355
+1093;62-63 IT- en informatiedienstverlening;2011;330;255;70;5;5;325
+1094;62-63 IT- en informatiedienstverlening;2012;390;305;75;10;0;385
+1095;62-63 IT- en informatiedienstverlening;2013;405;305;85;10;5;405
+1096;62-63 IT- en informatiedienstverlening;2014;425;325;85;10;0;420
+1097;62-63 IT- en informatiedienstverlening;2015;450;335;95;15;0;450
+1098;62-63 IT- en informatiedienstverlening;2016;530;395;120;15;0;530
+1099;62-63 IT- en informatiedienstverlening;2017;615;455;135;15;0;610
+1100;62-63 IT- en informatiedienstverlening;2018;660;475;160;25;0;660
+1101;62-63 IT- en informatiedienstverlening;2019;705;485;185;30;5;705
+1102;62-63 IT- en informatiedienstverlening;2020;720;495;195;25;0;720
+1103;62-63 IT- en informatiedienstverlening;2021;755;540;185;25;5;750
+1104;62-63 IT- en informatiedienstverlening;2022;780;545;195;35;0;780
+1105;62-63 IT- en informatiedienstverlening;2023;805;535;220;40;0;805
+1106;62 IT-dienstverlening;2010;335;250;75;5;0;330
+1107;62 IT-dienstverlening;2011;295;225;65;5;5;295
+1108;62 IT-dienstverlening;2012;355;275;65;10;0;350
+1109;62 IT-dienstverlening;2013;365;280;75;10;5;365
+1110;62 IT-dienstverlening;2014;370;280;75;10;0;370
+1111;62 IT-dienstverlening;2015;400;290;90;15;0;400
+1112;62 IT-dienstverlening;2016;470;345;110;15;0;465
+1113;62 IT-dienstverlening;2017;545;410;120;15;0;545
+1114;62 IT-dienstverlening;2018;590;420;145;25;0;590
+1115;62 IT-dienstverlening;2019;630;425;170;25;5;625
+1116;62 IT-dienstverlening;2020;645;445;175;25;0;645
+1117;62 IT-dienstverlening;2021;690;500;165;20;5;685
+1118;62 IT-dienstverlening;2022;700;485;180;30;0;700
+1119;62 IT-dienstverlening;2023;715;475;195;35;0;715
+1120;63 Diensten op het gebied van informatie;2010;25;20;5;0;0;25
+1121;63 Diensten op het gebied van informatie;2011;35;25;5;0;0;35
+1122;63 Diensten op het gebied van informatie;2012;35;25;10;0;0;35
+1123;63 Diensten op het gebied van informatie;2013;40;30;10;0;0;40
+1124;63 Diensten op het gebied van informatie;2014;55;40;10;0;0;50
+1125;63 Diensten op het gebied van informatie;2015;50;45;10;0;0;50
+1126;63 Diensten op het gebied van informatie;2016;65;50;10;0;0;65
+1127;63 Diensten op het gebied van informatie;2017;70;45;20;0;0;70
+1128;63 Diensten op het gebied van informatie;2018;70;55;15;0;0;70
+1129;63 Diensten op het gebied van informatie;2019;75;60;15;0;0;75
+1130;63 Diensten op het gebied van informatie;2020;75;50;20;0;0;75
+1131;63 Diensten op het gebied van informatie;2021;65;40;20;5;0;65
+1132;63 Diensten op het gebied van informatie;2022;80;55;20;5;0;80
+1133;63 Diensten op het gebied van informatie;2023;90;60;25;5;0;90
+1134;K Financiële dienstverlening;2010;145;90;35;15;5;140
+1135;K Financiële dienstverlening;2011;135;90;35;10;0;135
+1136;K Financiële dienstverlening;2012;130;90;35;5;5;125
+1137;K Financiële dienstverlening;2013;125;85;30;5;0;125
+1138;K Financiële dienstverlening;2014;125;95;20;10;0;125
+1139;K Financiële dienstverlening;2015;140;100;25;10;0;140
+1140;K Financiële dienstverlening;2016;145;100;30;10;0;140
+1141;K Financiële dienstverlening;2017;165;115;35;15;5;165
+1142;K Financiële dienstverlening;2018;175;125;30;10;5;170
+1143;K Financiële dienstverlening;2019;190;130;40;15;5;185
+1144;K Financiële dienstverlening;2020;195;135;45;10;0;195
+1145;K Financiële dienstverlening;2021;170;110;40;15;5;170
+1146;K Financiële dienstverlening;2022;205;125;55;20;5;200
+1147;K Financiële dienstverlening;2023;210;130;60;15;5;210
+1148;64 Bankwezen;2010;50;35;10;5;0;50
+1149;64 Bankwezen;2011;45;30;10;5;0;45
+1150;64 Bankwezen;2012;50;40;15;0;0;50
+1151;64 Bankwezen;2013;45;35;10;0;0;45
+1152;64 Bankwezen;2014;45;40;5;0;0;45
+1153;64 Bankwezen;2015;50;40;5;0;0;50
+1154;64 Bankwezen;2016;50;35;10;0;0;50
+1155;64 Bankwezen;2017;60;40;15;5;0;60
+1156;64 Bankwezen;2018;65;50;10;5;0;65
+1157;64 Bankwezen;2019;75;55;10;5;0;75
+1158;64 Bankwezen;2020;85;65;15;5;0;85
+1159;64 Bankwezen;2021;65;50;10;0;0;65
+1160;64 Bankwezen;2022;70;45;15;5;0;70
+1161;64 Bankwezen;2023;85;60;20;5;0;85
+1162;65 Verzekeraars en pensioenfondsen;2010;25;10;10;5;0;25
+1163;65 Verzekeraars en pensioenfondsen;2011;25;10;10;5;0;25
+1164;65 Verzekeraars en pensioenfondsen;2012;15;5;10;5;0;15
+1165;65 Verzekeraars en pensioenfondsen;2013;15;5;5;5;0;15
+1166;65 Verzekeraars en pensioenfondsen;2014;15;10;0;5;0;15
+1167;65 Verzekeraars en pensioenfondsen;2015;20;10;5;5;0;20
+1168;65 Verzekeraars en pensioenfondsen;2016;15;10;5;0;0;15
+1169;65 Verzekeraars en pensioenfondsen;2017;15;5;5;5;0;15
+1170;65 Verzekeraars en pensioenfondsen;2018;15;10;5;0;0;15
+1171;65 Verzekeraars en pensioenfondsen;2019;10;5;5;0;0;10
+1172;65 Verzekeraars en pensioenfondsen;2020;15;5;5;0;0;15
+1173;65 Verzekeraars en pensioenfondsen;2021;15;5;5;0;0;15
+1174;65 Verzekeraars en pensioenfondsen;2022;15;0;5;5;0;15
+1175;65 Verzekeraars en pensioenfondsen;2023;20;10;5;0;0;20
+1176;66 Overige financiële dienstverlening;2010;70;50;15;0;5;65
+1177;66 Overige financiële dienstverlening;2011;65;45;15;0;0;65
+1178;66 Overige financiële dienstverlening;2012;60;45;10;0;0;60
+1179;66 Overige financiële dienstverlening;2013;65;45;15;0;0;65
+1180;66 Overige financiële dienstverlening;2014;65;45;15;0;0;65
+1181;66 Overige financiële dienstverlening;2015;70;45;15;5;0;70
+1182;66 Overige financiële dienstverlening;2016;80;55;15;5;0;75
+1183;66 Overige financiële dienstverlening;2017;90;65;15;10;5;90
+1184;66 Overige financiële dienstverlening;2018;95;70;20;5;5;90
+1185;66 Overige financiële dienstverlening;2019;105;70;25;10;5;100
+1186;66 Overige financiële dienstverlening;2020;95;65;25;5;0;95
+1187;66 Overige financiële dienstverlening;2021;95;55;25;10;5;90
+1188;66 Overige financiële dienstverlening;2022;120;80;35;10;5;115
+1189;66 Overige financiële dienstverlening;2023;110;65;35;10;5;105
+1190;L Verhuur en handel van onroerend goed;2010;90;45;35;10;0;90
+1191;L Verhuur en handel van onroerend goed;2011;65;45;15;5;0;65
+1192;L Verhuur en handel van onroerend goed;2012;55;35;15;0;0;55
+1193;L Verhuur en handel van onroerend goed;2013;50;20;20;5;5;45
+1194;L Verhuur en handel van onroerend goed;2014;45;25;15;0;0;45
+1195;L Verhuur en handel van onroerend goed;2015;60;40;15;0;0;60
+1196;L Verhuur en handel van onroerend goed;2016;95;75;10;0;5;90
+1197;L Verhuur en handel van onroerend goed;2017;95;80;5;0;5;90
+1198;L Verhuur en handel van onroerend goed;2018;90;75;10;0;5;85
+1199;L Verhuur en handel van onroerend goed;2019;95;80;10;5;10;90
+1200;L Verhuur en handel van onroerend goed;2020;85;65;15;5;5;80
+1201;L Verhuur en handel van onroerend goed;2021;90;65;20;0;0;90
+1202;L Verhuur en handel van onroerend goed;2022;90;70;20;0;0;90
+1203;L Verhuur en handel van onroerend goed;2023;90;65;20;0;5;90
+1204;68 Verhuur en handel van onroerend goed;2010;90;45;35;10;0;90
+1205;68 Verhuur en handel van onroerend goed;2011;65;45;15;5;0;65
+1206;68 Verhuur en handel van onroerend goed;2012;55;35;15;0;0;55
+1207;68 Verhuur en handel van onroerend goed;2013;50;20;20;5;5;45
+1208;68 Verhuur en handel van onroerend goed;2014;45;25;15;0;0;45
+1209;68 Verhuur en handel van onroerend goed;2015;60;40;15;0;0;60
+1210;68 Verhuur en handel van onroerend goed;2016;95;75;10;0;5;90
+1211;68 Verhuur en handel van onroerend goed;2017;95;80;5;0;5;90
+1212;68 Verhuur en handel van onroerend goed;2018;90;75;10;0;5;85
+1213;68 Verhuur en handel van onroerend goed;2019;95;80;10;5;10;90
+1214;68 Verhuur en handel van onroerend goed;2020;85;65;15;5;5;80
+1215;68 Verhuur en handel van onroerend goed;2021;90;65;20;0;0;90
+1216;68 Verhuur en handel van onroerend goed;2022;90;70;20;0;0;90
+1217;68 Verhuur en handel van onroerend goed;2023;90;65;20;0;5;90
+1218;M-N Zakelijke dienstverlening;2010;1540;960;395;85;150;1390
+1219;M-N Zakelijke dienstverlening;2011;1380;875;350;85;120;1260
+1220;M-N Zakelijke dienstverlening;2012;1505;945;400;105;110;1395
+1221;M-N Zakelijke dienstverlening;2013;1525;955;395;115;125;1400
+1222;M-N Zakelijke dienstverlening;2014;1480;915;385;105;95;1385
+1223;M-N Zakelijke dienstverlening;2015;1750;1035;515;135;115;1635
+1224;M-N Zakelijke dienstverlening;2016;2025;1190;580;170;140;1885
+1225;M-N Zakelijke dienstverlening;2017;2350;1440;635;195;165;2190
+1226;M-N Zakelijke dienstverlening;2018;2710;1615;740;255;185;2525
+1227;M-N Zakelijke dienstverlening;2019;2350;1485;625;170;165;2185
+1228;M-N Zakelijke dienstverlening;2020;1930;1310;470;110;130;1800
+1229;M-N Zakelijke dienstverlening;2021;1810;1275;415;85;95;1720
+1230;M-N Zakelijke dienstverlening;2022;2055;1405;480;120;95;1960
+1231;M-N Zakelijke dienstverlening;2023;2235;1430;610;150;90;2145
+1232;M Specialistische zakelijke diensten;2010;820;580;170;25;60;760
+1233;M Specialistische zakelijke diensten;2011;680;505;125;20;45;630
+1234;M Specialistische zakelijke diensten;2012;680;510;120;30;35;645
+1235;M Specialistische zakelijke diensten;2013;730;550;125;35;45;685
+1236;M Specialistische zakelijke diensten;2014;710;535;125;25;30;680
+1237;M Specialistische zakelijke diensten;2015;750;560;150;20;30;720
+1238;M Specialistische zakelijke diensten;2016;885;660;175;15;45;840
+1239;M Specialistische zakelijke diensten;2017;1080;830;200;15;70;1015
+1240;M Specialistische zakelijke diensten;2018;1150;855;230;30;70;1080
+1241;M Specialistische zakelijke diensten;2019;1185;890;245;30;55;1130
+1242;M Specialistische zakelijke diensten;2020;1050;810;190;30;50;1000
+1243;M Specialistische zakelijke diensten;2021;1110;860;205;30;45;1060
+1244;M Specialistische zakelijke diensten;2022;1165;895;220;30;40;1120
+1245;M Specialistische zakelijke diensten;2023;1220;905;260;35;40;1180
+1246;69-71 Management- en technisch advies;2010;590;420;125;20;40;550
+1247;69-71 Management- en technisch advies;2011;455;345;85;15;25;430
+1248;69-71 Management- en technisch advies;2012;470;345;90;20;15;455
+1249;69-71 Management- en technisch advies;2013;530;390;100;25;25;505
+1250;69-71 Management- en technisch advies;2014;510;370;100;25;20;495
+1251;69-71 Management- en technisch advies;2015;525;390;105;20;20;505
+1252;69-71 Management- en technisch advies;2016;625;470;120;15;30;595
+1253;69-71 Management- en technisch advies;2017;740;570;135;15;55;690
+1254;69-71 Management- en technisch advies;2018;815;620;145;20;55;760
+1255;69-71 Management- en technisch advies;2019;855;665;160;20;45;805
+1256;69-71 Management- en technisch advies;2020;745;590;125;20;30;710
+1257;69-71 Management- en technisch advies;2021;765;605;130;20;25;740
+1258;69-71 Management- en technisch advies;2022;775;600;145;20;25;750
+1259;69-71 Management- en technisch advies;2023;830;625;175;20;25;810
+1260;69 Juridische diensten en administratie;2010;150;105;30;10;35;120
+1261;69 Juridische diensten en administratie;2011;130;100;25;5;20;110
+1262;69 Juridische diensten en administratie;2012;110;85;20;5;10;100
+1263;69 Juridische diensten en administratie;2013;105;80;15;0;20;85
+1264;69 Juridische diensten en administratie;2014;95;70;15;5;10;85
+1265;69 Juridische diensten en administratie;2015;110;90;15;0;15;95
+1266;69 Juridische diensten en administratie;2016;140;110;20;0;25;115
+1267;69 Juridische diensten en administratie;2017;195;165;15;0;45;150
+1268;69 Juridische diensten en administratie;2018;200;160;20;5;45;155
+1269;69 Juridische diensten en administratie;2019;180;155;15;5;40;140
+1270;69 Juridische diensten en administratie;2020;150;125;15;5;25;120
+1271;69 Juridische diensten en administratie;2021;165;140;15;5;25;140
+1272;69 Juridische diensten en administratie;2022;165;135;20;5;15;150
+1273;69 Juridische diensten en administratie;2023;180;150;25;5;15;165
+1274;70 Holdings en managementadviesbureaus;2010;250;180;50;5;5;245
+1275;70 Holdings en managementadviesbureaus;2011;185;140;35;5;5;180
+1276;70 Holdings en managementadviesbureaus;2012;215;155;40;10;0;210
+1277;70 Holdings en managementadviesbureaus;2013;240;175;45;10;0;240
+1278;70 Holdings en managementadviesbureaus;2014;240;170;50;15;5;235
+1279;70 Holdings en managementadviesbureaus;2015;240;175;50;10;5;240
+1280;70 Holdings en managementadviesbureaus;2016;285;200;65;10;0;280
+1281;70 Holdings en managementadviesbureaus;2017;265;180;70;5;5;260
+1282;70 Holdings en managementadviesbureaus;2018;310;220;70;10;5;305
+1283;70 Holdings en managementadviesbureaus;2019;330;225;85;10;5;325
+1284;70 Holdings en managementadviesbureaus;2020;280;200;65;10;5;275
+1285;70 Holdings en managementadviesbureaus;2021;275;210;50;10;5;270
+1286;70 Holdings en managementadviesbureaus;2022;305;235;55;10;5;300
+1287;70 Holdings en managementadviesbureaus;2023;350;255;80;10;5;345
+1288;71 Architecten-, ingenieursbureaus e.d.;2010;185;135;40;10;0;185
+1289;71 Architecten-, ingenieursbureaus e.d.;2011;140;105;25;5;0;135
+1290;71 Architecten-, ingenieursbureaus e.d.;2012;145;105;30;5;0;145
+1291;71 Architecten-, ingenieursbureaus e.d.;2013;185;135;40;10;0;185
+1292;71 Architecten-, ingenieursbureaus e.d.;2014;175;130;35;5;0;175
+1293;71 Architecten-, ingenieursbureaus e.d.;2015;175;125;40;5;5;175
+1294;71 Architecten-, ingenieursbureaus e.d.;2016;200;160;35;5;5;200
+1295;71 Architecten-, ingenieursbureaus e.d.;2017;280;225;45;5;5;275
+1296;71 Architecten-, ingenieursbureaus e.d.;2018;305;240;55;5;5;300
+1297;71 Architecten-, ingenieursbureaus e.d.;2019;345;280;60;5;5;340
+1298;71 Architecten-, ingenieursbureaus e.d.;2020;320;265;45;5;0;315
+1299;71 Architecten-, ingenieursbureaus e.d.;2021;330;260;65;10;0;330
+1300;71 Architecten-, ingenieursbureaus e.d.;2022;305;235;65;5;5;300
+1301;71 Architecten-, ingenieursbureaus e.d.;2023;305;220;75;10;5;300
+1302;72 Research;2010;55;30;15;5;0;55
+1303;72 Research;2011;60;40;15;5;0;60
+1304;72 Research;2012;55;40;10;5;0;55
+1305;72 Research;2013;55;40;10;5;0;55
+1306;72 Research;2014;45;35;10;0;0;45
+1307;72 Research;2015;60;40;20;0;0;60
+1308;72 Research;2016;65;40;25;0;0;65
+1309;72 Research;2017;85;60;25;0;0;85
+1310;72 Research;2018;80;50;25;5;0;80
+1311;72 Research;2019;80;45;30;5;0;80
+1312;72 Research;2020;95;60;30;5;0;95
+1313;72 Research;2021;115;75;35;5;0;115
+1314;72 Research;2022;120;85;30;5;0;120
+1315;72 Research;2023;110;70;30;5;0;110
+1316;73-75 Reclame, design, overige diensten;2010;175;130;30;0;20;150
+1317;73-75 Reclame, design, overige diensten;2011;165;120;25;5;20;145
+1318;73-75 Reclame, design, overige diensten;2012;155;125;20;5;20;140
+1319;73-75 Reclame, design, overige diensten;2013;150;120;15;5;25;125
+1320;73-75 Reclame, design, overige diensten;2014;155;130;15;0;15;145
+1321;73-75 Reclame, design, overige diensten;2015;165;130;30;0;10;155
+1322;73-75 Reclame, design, overige diensten;2016;190;150;35;0;15;180
+1323;73-75 Reclame, design, overige diensten;2017;255;200;45;0;15;240
+1324;73-75 Reclame, design, overige diensten;2018;250;180;60;5;15;240
+1325;73-75 Reclame, design, overige diensten;2019;250;180;55;5;10;240
+1326;73-75 Reclame, design, overige diensten;2020;210;160;40;5;20;195
+1327;73-75 Reclame, design, overige diensten;2021;225;175;40;5;20;205
+1328;73-75 Reclame, design, overige diensten;2022;265;205;45;5;15;250
+1329;73-75 Reclame, design, overige diensten;2023;280;210;55;10;20;260
+1330;73 Reclamewezen en marktonderzoek;2010;95;70;20;0;10;90
+1331;73 Reclamewezen en marktonderzoek;2011;95;70;15;0;10;90
+1332;73 Reclamewezen en marktonderzoek;2012;90;75;10;0;5;85
+1333;73 Reclamewezen en marktonderzoek;2013;80;65;10;5;5;75
+1334;73 Reclamewezen en marktonderzoek;2014;85;75;5;0;5;80
+1335;73 Reclamewezen en marktonderzoek;2015;90;75;10;0;0;90
+1336;73 Reclamewezen en marktonderzoek;2016;110;90;20;0;0;110
+1337;73 Reclamewezen en marktonderzoek;2017;165;130;30;0;0;165
+1338;73 Reclamewezen en marktonderzoek;2018;165;120;35;0;5;160
+1339;73 Reclamewezen en marktonderzoek;2019;155;115;30;5;0;150
+1340;73 Reclamewezen en marktonderzoek;2020;120;90;25;0;0;120
+1341;73 Reclamewezen en marktonderzoek;2021;125;95;25;5;5;120
+1342;73 Reclamewezen en marktonderzoek;2022;140;110;25;0;0;135
+1343;73 Reclamewezen en marktonderzoek;2023;155;115;35;5;0;155
+1344;74 Design, fotografie, vertaalbureaus;2010;65;45;10;0;10;55
+1345;74 Design, fotografie, vertaalbureaus;2011;60;40;10;5;10;50
+1346;74 Design, fotografie, vertaalbureaus;2012;55;40;10;0;10;50
+1347;74 Design, fotografie, vertaalbureaus;2013;50;35;5;0;5;45
+1348;74 Design, fotografie, vertaalbureaus;2014;55;45;10;0;5;55
+1349;74 Design, fotografie, vertaalbureaus;2015;60;35;15;0;5;55
+1350;74 Design, fotografie, vertaalbureaus;2016;65;45;15;0;5;60
+1351;74 Design, fotografie, vertaalbureaus;2017;70;55;10;0;5;65
+1352;74 Design, fotografie, vertaalbureaus;2018;75;50;20;0;5;70
+1353;74 Design, fotografie, vertaalbureaus;2019;85;55;25;0;0;80
+1354;74 Design, fotografie, vertaalbureaus;2020;70;55;15;0;5;65
+1355;74 Design, fotografie, vertaalbureaus;2021;80;65;15;0;0;75
+1356;74 Design, fotografie, vertaalbureaus;2022;100;75;20;0;5;95
+1357;74 Design, fotografie, vertaalbureaus;2023;100;75;20;0;10;90
+1358;75 Veterinaire dienstverlening;2010;10;10;0;0;5;5
+1359;75 Veterinaire dienstverlening;2011;10;10;0;0;5;5
+1360;75 Veterinaire dienstverlening;2012;10;10;0;0;5;5
+1361;75 Veterinaire dienstverlening;2013;20;20;0;0;10;10
+1362;75 Veterinaire dienstverlening;2014;15;10;0;0;5;5
+1363;75 Veterinaire dienstverlening;2015;15;15;0;0;5;10
+1364;75 Veterinaire dienstverlening;2016;15;15;0;0;5;10
+1365;75 Veterinaire dienstverlening;2017;20;15;5;0;10;10
+1366;75 Veterinaire dienstverlening;2018;15;10;5;0;5;10
+1367;75 Veterinaire dienstverlening;2019;15;10;0;0;5;5
+1368;75 Veterinaire dienstverlening;2020;20;20;0;0;15;10
+1369;75 Veterinaire dienstverlening;2021;25;20;0;0;15;10
+1370;75 Veterinaire dienstverlening;2022;25;20;0;0;10;15
+1371;75 Veterinaire dienstverlening;2023;20;15;0;0;10;10
+1372;N Verhuur en overige zakelijke diensten;2010;720;380;225;60;90;630
+1373;N Verhuur en overige zakelijke diensten;2011;700;370;225;65;75;625
+1374;N Verhuur en overige zakelijke diensten;2012;825;435;275;75;75;750
+1375;N Verhuur en overige zakelijke diensten;2013;790;405;270;85;75;715
+1376;N Verhuur en overige zakelijke diensten;2014;770;385;255;75;65;710
+1377;N Verhuur en overige zakelijke diensten;2015;1000;475;365;115;80;915
+1378;N Verhuur en overige zakelijke diensten;2016;1140;530;405;155;95;1045
+1379;N Verhuur en overige zakelijke diensten;2017;1270;610;435;180;95;1175
+1380;N Verhuur en overige zakelijke diensten;2018;1560;760;510;225;115;1445
+1381;N Verhuur en overige zakelijke diensten;2019;1165;595;380;140;110;1060
+1382;N Verhuur en overige zakelijke diensten;2020;880;495;280;80;80;800
+1383;N Verhuur en overige zakelijke diensten;2021;700;415;210;55;45;655
+1384;N Verhuur en overige zakelijke diensten;2022;890;510;265;90;55;840
+1385;N Verhuur en overige zakelijke diensten;2023;1015;525;350;110;50;965
+1386;77 Verhuur van roerende goederen;2010;45;30;15;0;5;40
+1387;77 Verhuur van roerende goederen;2011;45;25;15;0;5;40
+1388;77 Verhuur van roerende goederen;2012;55;35;15;0;5;45
+1389;77 Verhuur van roerende goederen;2013;50;30;15;0;5;45
+1390;77 Verhuur van roerende goederen;2014;50;35;15;5;0;50
+1391;77 Verhuur van roerende goederen;2015;45;40;10;0;5;45
+1392;77 Verhuur van roerende goederen;2016;50;35;10;0;0;45
+1393;77 Verhuur van roerende goederen;2017;65;50;15;0;5;65
+1394;77 Verhuur van roerende goederen;2018;90;65;25;0;5;90
+1395;77 Verhuur van roerende goederen;2019;95;60;30;0;5;90
+1396;77 Verhuur van roerende goederen;2020;75;50;20;5;5;75
+1397;77 Verhuur van roerende goederen;2021;65;45;15;5;5;60
+1398;77 Verhuur van roerende goederen;2022;60;40;10;5;5;55
+1399;77 Verhuur van roerende goederen;2023;90;55;25;5;5;85
+1400;78 Uitzendbureaus en arbeidsbemiddeling;2010;355;145;145;45;20;335
+1401;78 Uitzendbureaus en arbeidsbemiddeling;2011;400;180;160;45;20;380
+1402;78 Uitzendbureaus en arbeidsbemiddeling;2012;490;215;195;60;25;465
+1403;78 Uitzendbureaus en arbeidsbemiddeling;2013;475;200;190;70;20;450
+1404;78 Uitzendbureaus en arbeidsbemiddeling;2014;455;200;170;60;25;430
+1405;78 Uitzendbureaus en arbeidsbemiddeling;2015;635;245;270;100;30;605
+1406;78 Uitzendbureaus en arbeidsbemiddeling;2016;755;285;320;135;35;725
+1407;78 Uitzendbureaus en arbeidsbemiddeling;2017;840;320;340;160;30;810
+1408;78 Uitzendbureaus en arbeidsbemiddeling;2018;1020;400;390;205;35;985
+1409;78 Uitzendbureaus en arbeidsbemiddeling;2019;685;265;275;130;30;655
+1410;78 Uitzendbureaus en arbeidsbemiddeling;2020;455;195;185;65;20;435
+1411;78 Uitzendbureaus en arbeidsbemiddeling;2021;350;160;135;40;10;340
+1412;78 Uitzendbureaus en arbeidsbemiddeling;2022;495;230;180;70;10;485
+1413;78 Uitzendbureaus en arbeidsbemiddeling;2023;600;250;255;90;15;590
+1414;79 Reisbureaus, reisorganisatie en -info;2010;30;20;5;0;0;30
+1415;79 Reisbureaus, reisorganisatie en -info;2011;25;15;5;0;0;25
+1416;79 Reisbureaus, reisorganisatie en -info;2012;20;15;5;0;0;20
+1417;79 Reisbureaus, reisorganisatie en -info;2013;25;15;5;0;0;25
+1418;79 Reisbureaus, reisorganisatie en -info;2014;30;15;10;0;0;25
+1419;79 Reisbureaus, reisorganisatie en -info;2015;30;20;5;0;0;25
+1420;79 Reisbureaus, reisorganisatie en -info;2016;30;20;5;5;0;30
+1421;79 Reisbureaus, reisorganisatie en -info;2017;30;20;5;0;0;30
+1422;79 Reisbureaus, reisorganisatie en -info;2018;35;25;10;0;0;35
+1423;79 Reisbureaus, reisorganisatie en -info;2019;30;25;5;0;0;30
+1424;79 Reisbureaus, reisorganisatie en -info;2020;15;10;0;0;0;15
+1425;79 Reisbureaus, reisorganisatie en -info;2021;10;10;5;0;0;10
+1426;79 Reisbureaus, reisorganisatie en -info;2022;20;15;5;0;0;20
+1427;79 Reisbureaus, reisorganisatie en -info;2023;30;25;5;0;0;30
+1428;80 Beveiligings- en opsporingsdiensten;2010;50;35;10;0;5;45
+1429;80 Beveiligings- en opsporingsdiensten;2011;40;30;5;0;10;30
+1430;80 Beveiligings- en opsporingsdiensten;2012;45;30;10;0;5;40
+1431;80 Beveiligings- en opsporingsdiensten;2013;45;35;10;0;5;35
+1432;80 Beveiligings- en opsporingsdiensten;2014;45;25;10;0;5;35
+1433;80 Beveiligings- en opsporingsdiensten;2015;45;25;10;5;5;40
+1434;80 Beveiligings- en opsporingsdiensten;2016;50;30;15;5;5;45
+1435;80 Beveiligings- en opsporingsdiensten;2017;50;30;10;5;5;45
+1436;80 Beveiligings- en opsporingsdiensten;2018;65;35;15;5;5;55
+1437;80 Beveiligings- en opsporingsdiensten;2019;45;25;15;0;5;35
+1438;80 Beveiligings- en opsporingsdiensten;2020;35;25;10;0;0;35
+1439;80 Beveiligings- en opsporingsdiensten;2021;30;25;5;0;0;30
+1440;80 Beveiligings- en opsporingsdiensten;2022;40;30;10;0;0;40
+1441;80 Beveiligings- en opsporingsdiensten;2023;50;25;15;5;0;50
+1442;81 Schoonmaakbedrijven, hoveniers e.d.;2010;180;120;35;5;55;125
+1443;81 Schoonmaakbedrijven, hoveniers e.d.;2011;145;95;25;5;40;105
+1444;81 Schoonmaakbedrijven, hoveniers e.d.;2012;155;100;35;5;35;115
+1445;81 Schoonmaakbedrijven, hoveniers e.d.;2013;160;100;40;5;40;120
+1446;81 Schoonmaakbedrijven, hoveniers e.d.;2014;150;85;40;5;30;120
+1447;81 Schoonmaakbedrijven, hoveniers e.d.;2015;175;110;45;5;40;135
+1448;81 Schoonmaakbedrijven, hoveniers e.d.;2016;185;120;35;5;50;130
+1449;81 Schoonmaakbedrijven, hoveniers e.d.;2017;220;150;40;10;50;165
+1450;81 Schoonmaakbedrijven, hoveniers e.d.;2018;255;175;50;10;60;200
+1451;81 Schoonmaakbedrijven, hoveniers e.d.;2019;235;170;40;5;55;180
+1452;81 Schoonmaakbedrijven, hoveniers e.d.;2020;220;160;40;5;50;170
+1453;81 Schoonmaakbedrijven, hoveniers e.d.;2021;180;140;30;5;30;150
+1454;81 Schoonmaakbedrijven, hoveniers e.d.;2022;185;130;40;5;30;150
+1455;81 Schoonmaakbedrijven, hoveniers e.d.;2023;170;120;35;5;30;140
+1456;82 Overige zakelijke dienstverlening;2010;60;30;15;5;5;55
+1457;82 Overige zakelijke dienstverlening;2011;50;25;15;5;5;45
+1458;82 Overige zakelijke dienstverlening;2012;65;40;20;5;5;60
+1459;82 Overige zakelijke dienstverlening;2013;40;30;10;0;5;40
+1460;82 Overige zakelijke dienstverlening;2014;45;25;15;5;5;45
+1461;82 Overige zakelijke dienstverlening;2015;70;40;20;5;5;70
+1462;82 Overige zakelijke dienstverlening;2016;75;45;20;10;5;70
+1463;82 Overige zakelijke dienstverlening;2017;65;40;20;0;5;60
+1464;82 Overige zakelijke dienstverlening;2018;90;60;20;5;5;85
+1465;82 Overige zakelijke dienstverlening;2019;75;50;20;0;10;65
+1466;82 Overige zakelijke dienstverlening;2020;75;50;20;5;5;70
+1467;82 Overige zakelijke dienstverlening;2021;65;35;25;5;5;60
+1468;82 Overige zakelijke dienstverlening;2022;90;60;20;10;0;90
+1469;82 Overige zakelijke dienstverlening;2023;80;50;20;5;0;75
+1470;O-Q Overheid en zorg;2010;1180;580;340;185;120;1065
+1471;O-Q Overheid en zorg;2011;1045;565;285;155;135;915
+1472;O-Q Overheid en zorg;2012;850;465;215;115;130;715
+1473;O-Q Overheid en zorg;2013;685;400;155;95;105;580
+1474;O-Q Overheid en zorg;2014;615;375;125;65;105;510
+1475;O-Q Overheid en zorg;2015;680;410;150;60;90;590
+1476;O-Q Overheid en zorg;2016;900;570;180;75;140;765
+1477;O-Q Overheid en zorg;2017;1115;690;240;105;170;950
+1478;O-Q Overheid en zorg;2018;1325;820;275;115;225;1105
+1479;O-Q Overheid en zorg;2019;1350;855;300;115;210;1140
+1480;O-Q Overheid en zorg;2020;1345;855;315;110;220;1125
+1481;O-Q Overheid en zorg;2021;1415;880;320;135;205;1210
+1482;O-Q Overheid en zorg;2022;1405;920;285;110;215;1195
+1483;O-Q Overheid en zorg;2023;1425;945;295;115;200;1225
+1484;O Openbaar bestuur en overheidsdiensten;2010;40;0;20;20;0;40
+1485;O Openbaar bestuur en overheidsdiensten;2011;35;5;15;20;0;35
+1486;O Openbaar bestuur en overheidsdiensten;2012;30;0;10;20;0;30
+1487;O Openbaar bestuur en overheidsdiensten;2013;30;0;10;20;0;30
+1488;O Openbaar bestuur en overheidsdiensten;2014;20;0;10;10;0;20
+1489;O Openbaar bestuur en overheidsdiensten;2015;30;0;15;15;0;30
+1490;O Openbaar bestuur en overheidsdiensten;2016;45;5;25;20;0;45
+1491;O Openbaar bestuur en overheidsdiensten;2017;45;0;15;30;0;45
+1492;O Openbaar bestuur en overheidsdiensten;2018;50;0;15;30;0;50
+1493;O Openbaar bestuur en overheidsdiensten;2019;40;0;20;15;0;40
+1494;O Openbaar bestuur en overheidsdiensten;2020;35;5;15;15;0;35
+1495;O Openbaar bestuur en overheidsdiensten;2021;50;10;20;20;0;50
+1496;O Openbaar bestuur en overheidsdiensten;2022;35;10;10;15;0;35
+1497;O Openbaar bestuur en overheidsdiensten;2023;35;5;15;20;0;35
+1498;84 Openbaar bestuur en overheidsdiensten;2010;40;0;20;20;0;40
+1499;84 Openbaar bestuur en overheidsdiensten;2011;35;5;15;20;0;35
+1500;84 Openbaar bestuur en overheidsdiensten;2012;30;0;10;20;0;30
+1501;84 Openbaar bestuur en overheidsdiensten;2013;30;0;10;20;0;30
+1502;84 Openbaar bestuur en overheidsdiensten;2014;20;0;10;10;0;20
+1503;84 Openbaar bestuur en overheidsdiensten;2015;30;0;15;15;0;30
+1504;84 Openbaar bestuur en overheidsdiensten;2016;45;5;25;20;0;45
+1505;84 Openbaar bestuur en overheidsdiensten;2017;45;0;15;30;0;45
+1506;84 Openbaar bestuur en overheidsdiensten;2018;50;0;15;30;0;50
+1507;84 Openbaar bestuur en overheidsdiensten;2019;40;0;20;15;0;40
+1508;84 Openbaar bestuur en overheidsdiensten;2020;35;5;15;15;0;35
+1509;84 Openbaar bestuur en overheidsdiensten;2021;50;10;20;20;0;50
+1510;84 Openbaar bestuur en overheidsdiensten;2022;35;10;10;15;0;35
+1511;84 Openbaar bestuur en overheidsdiensten;2023;35;5;15;20;0;35
+1512;P Onderwijs;2010;170;75;40;25;10;160
+1513;P Onderwijs;2011;160;85;40;25;10;150
+1514;P Onderwijs;2012;130;65;35;15;10;120
+1515;P Onderwijs;2013;120;65;30;15;10;105
+1516;P Onderwijs;2014;100;50;30;10;10;90
+1517;P Onderwijs;2015;125;70;25;10;10;115
+1518;P Onderwijs;2016;175;105;30;20;10;165
+1519;P Onderwijs;2017;210;115;50;15;10;195
+1520;P Onderwijs;2018;255;135;60;25;20;235
+1521;P Onderwijs;2019;245;130;65;25;15;225
+1522;P Onderwijs;2020;225;125;60;25;20;205
+1523;P Onderwijs;2021;215;110;55;30;25;190
+1524;P Onderwijs;2022;235;130;50;35;20;215
+1525;P Onderwijs;2023;240;130;60;30;20;220
+1526;85 Onderwijs;2010;170;75;40;25;10;160
+1527;85 Onderwijs;2011;160;85;40;25;10;150
+1528;85 Onderwijs;2012;130;65;35;15;10;120
+1529;85 Onderwijs;2013;120;65;30;15;10;105
+1530;85 Onderwijs;2014;100;50;30;10;10;90
+1531;85 Onderwijs;2015;125;70;25;10;10;115
+1532;85 Onderwijs;2016;175;105;30;20;10;165
+1533;85 Onderwijs;2017;210;115;50;15;10;195
+1534;85 Onderwijs;2018;255;135;60;25;20;235
+1535;85 Onderwijs;2019;245;130;65;25;15;225
+1536;85 Onderwijs;2020;225;125;60;25;20;205
+1537;85 Onderwijs;2021;215;110;55;30;25;190
+1538;85 Onderwijs;2022;235;130;50;35;20;215
+1539;85 Onderwijs;2023;240;130;60;30;20;220
+1540;Q Gezondheids- en welzijnszorg;2010;975;500;280;140;105;865
+1541;Q Gezondheids- en welzijnszorg;2011;850;475;230;110;125;730
+1542;Q Gezondheids- en welzijnszorg;2012;690;400;170;75;120;565
+1543;Q Gezondheids- en welzijnszorg;2013;535;330;120;55;90;440
+1544;Q Gezondheids- en welzijnszorg;2014;495;325;85;45;95;400
+1545;Q Gezondheids- en welzijnszorg;2015;530;340;110;35;80;450
+1546;Q Gezondheids- en welzijnszorg;2016;680;460;125;40;130;550
+1547;Q Gezondheids- en welzijnszorg;2017;865;575;175;60;155;705
+1548;Q Gezondheids- en welzijnszorg;2018;1020;685;200;60;205;815
+1549;Q Gezondheids- en welzijnszorg;2019;1070;720;215;70;190;875
+1550;Q Gezondheids- en welzijnszorg;2020;1080;725;235;70;200;885
+1551;Q Gezondheids- en welzijnszorg;2021;1150;760;250;85;180;970
+1552;Q Gezondheids- en welzijnszorg;2022;1135;785;225;60;190;945
+1553;Q Gezondheids- en welzijnszorg;2023;1150;810;220;65;185;970
+1554;86 Gezondheidszorg;2010;235;140;45;35;40;200
+1555;86 Gezondheidszorg;2011;240;160;45;25;50;195
+1556;86 Gezondheidszorg;2012;240;160;40;15;50;185
+1557;86 Gezondheidszorg;2013;220;155;40;15;45;175
+1558;86 Gezondheidszorg;2014;220;145;35;20;45;170
+1559;86 Gezondheidszorg;2015;215;135;45;15;40;180
+1560;86 Gezondheidszorg;2016;275;190;45;20;65;210
+1561;86 Gezondheidszorg;2017;340;235;65;20;75;265
+1562;86 Gezondheidszorg;2018;390;280;70;15;100;295
+1563;86 Gezondheidszorg;2019;385;275;65;20;85;300
+1564;86 Gezondheidszorg;2020;400;275;75;20;85;315
+1565;86 Gezondheidszorg;2021;430;290;85;20;85;345
+1566;86 Gezondheidszorg;2022;450;310;90;15;90;360
+1567;86 Gezondheidszorg;2023;480;345;80;25;95;385
+1568;87-88 Verzorging en welzijn;2010;735;360;240;105;70;670
+1569;87-88 Verzorging en welzijn;2011;610;310;185;90;75;535
+1570;87-88 Verzorging en welzijn;2012;450;235;130;60;70;380
+1571;87-88 Verzorging en welzijn;2013;315;180;80;40;45;265
+1572;87-88 Verzorging en welzijn;2014;275;180;50;25;50;230
+1573;87-88 Verzorging en welzijn;2015;315;205;65;20;45;270
+1574;87-88 Verzorging en welzijn;2016;405;270;75;20;65;340
+1575;87-88 Verzorging en welzijn;2017;525;340;110;40;80;440
+1576;87-88 Verzorging en welzijn;2018;630;405;130;45;105;525
+1577;87-88 Verzorging en welzijn;2019;685;445;150;50;105;575
+1578;87-88 Verzorging en welzijn;2020;680;445;160;50;115;570
+1579;87-88 Verzorging en welzijn;2021;720;465;165;65;95;625
+1580;87-88 Verzorging en welzijn;2022;690;475;135;45;100;585
+1581;87-88 Verzorging en welzijn;2023;675;460;145;40;90;585
+1582;87 Verpleging en zorg met overnachting;2010;135;25;55;55;5;130
+1583;87 Verpleging en zorg met overnachting;2011;115;20;50;45;5;110
+1584;87 Verpleging en zorg met overnachting;2012;100;25;40;35;10;90
+1585;87 Verpleging en zorg met overnachting;2013;80;30;25;25;10;70
+1586;87 Verpleging en zorg met overnachting;2014;70;40;15;15;15;60
+1587;87 Verpleging en zorg met overnachting;2015;60;35;10;10;10;55
+1588;87 Verpleging en zorg met overnachting;2016;70;45;10;10;15;55
+1589;87 Verpleging en zorg met overnachting;2017;85;50;15;10;10;75
+1590;87 Verpleging en zorg met overnachting;2018;120;75;20;15;20;100
+1591;87 Verpleging en zorg met overnachting;2019;145;90;30;20;20;125
+1592;87 Verpleging en zorg met overnachting;2020;145;85;30;20;15;125
+1593;87 Verpleging en zorg met overnachting;2021;165;90;40;25;10;155
+1594;87 Verpleging en zorg met overnachting;2022;135;90;25;15;10;125
+1595;87 Verpleging en zorg met overnachting;2023;130;85;25;15;15;115
+1596;88 Welzijnszorg zonder overnachting;2010;600;335;185;50;65;535
+1597;88 Welzijnszorg zonder overnachting;2011;495;290;140;45;70;425
+1598;88 Welzijnszorg zonder overnachting;2012;350;210;90;25;60;290
+1599;88 Welzijnszorg zonder overnachting;2013;235;150;55;15;40;195
+1600;88 Welzijnszorg zonder overnachting;2014;205;140;35;10;35;170
+1601;88 Welzijnszorg zonder overnachting;2015;255;165;50;10;35;215
+1602;88 Welzijnszorg zonder overnachting;2016;335;225;65;10;50;285
+1603;88 Welzijnszorg zonder overnachting;2017;435;290;95;30;70;365
+1604;88 Welzijnszorg zonder overnachting;2018;510;330;105;30;90;420
+1605;88 Welzijnszorg zonder overnachting;2019;540;355;120;30;85;455
+1606;88 Welzijnszorg zonder overnachting;2020;540;360;130;30;95;440
+1607;88 Welzijnszorg zonder overnachting;2021;555;380;125;35;80;470
+1608;88 Welzijnszorg zonder overnachting;2022;550;385;105;30;90;460
+1609;88 Welzijnszorg zonder overnachting;2023;545;375;120;25;75;470
+1610;R-U Cultuur, recreatie, overige diensten;2010;470;305;65;10;60;410
+1611;R-U Cultuur, recreatie, overige diensten;2011;400;275;50;10;50;350
+1612;R-U Cultuur, recreatie, overige diensten;2012;335;230;40;5;55;285
+1613;R-U Cultuur, recreatie, overige diensten;2013;305;205;40;5;40;265
+1614;R-U Cultuur, recreatie, overige diensten;2014;290;195;35;5;35;255
+1615;R-U Cultuur, recreatie, overige diensten;2015;330;230;40;10;40;290
+1616;R-U Cultuur, recreatie, overige diensten;2016;400;270;50;10;50;350
+1617;R-U Cultuur, recreatie, overige diensten;2017;410;275;60;10;55;360
+1618;R-U Cultuur, recreatie, overige diensten;2018;555;355;65;10;80;475
+1619;R-U Cultuur, recreatie, overige diensten;2019;445;315;70;5;50;395
+1620;R-U Cultuur, recreatie, overige diensten;2020;340;240;60;5;35;310
+1621;R-U Cultuur, recreatie, overige diensten;2021;340;245;55;5;20;320
+1622;R-U Cultuur, recreatie, overige diensten;2022;415;280;65;5;35;380
+1623;R-U Cultuur, recreatie, overige diensten;2023;635;430;95;10;55;580
+1624;R Cultuur, sport en recreatie;2010;260;160;30;5;40;220
+1625;R Cultuur, sport en recreatie;2011;220;140;25;5;30;190
+1626;R Cultuur, sport en recreatie;2012;195;120;20;0;35;155
+1627;R Cultuur, sport en recreatie;2013;180;110;20;5;30;150
+1628;R Cultuur, sport en recreatie;2014;175;110;20;5;20;155
+1629;R Cultuur, sport en recreatie;2015;175;115;20;5;20;155
+1630;R Cultuur, sport en recreatie;2016;205;130;20;5;25;180
+1631;R Cultuur, sport en recreatie;2017;210;140;20;5;25;185
+1632;R Cultuur, sport en recreatie;2018;330;190;35;5;50;280
+1633;R Cultuur, sport en recreatie;2019;245;165;35;5;30;215
+1634;R Cultuur, sport en recreatie;2020;175;115;30;5;15;155
+1635;R Cultuur, sport en recreatie;2021;165;115;25;0;10;155
+1636;R Cultuur, sport en recreatie;2022;255;165;35;0;20;235
+1637;R Cultuur, sport en recreatie;2023;445;290;65;5;40;405
+1638;90 Kunst;2010;50;40;5;0;5;45
+1639;90 Kunst;2011;35;30;5;0;5;35
+1640;90 Kunst;2012;25;20;0;0;5;20
+1641;90 Kunst;2013;35;25;5;0;5;35
+1642;90 Kunst;2014;35;25;5;0;5;30
+1643;90 Kunst;2015;30;25;0;0;5;30
+1644;90 Kunst;2016;45;35;0;0;5;40
+1645;90 Kunst;2017;50;40;5;0;5;45
+1646;90 Kunst;2018;85;60;15;0;10;75
+1647;90 Kunst;2019;60;50;10;0;5;55
+1648;90 Kunst;2020;45;35;10;0;5;40
+1649;90 Kunst;2021;40;35;5;0;0;40
+1650;90 Kunst;2022;65;50;5;0;0;60
+1651;90 Kunst;2023;95;80;10;0;5;90
+1652;91 Bibliotheken, musea en natuurbehoud;2010;25;10;10;0;0;20
+1653;91 Bibliotheken, musea en natuurbehoud;2011;15;5;5;0;0;15
+1654;91 Bibliotheken, musea en natuurbehoud;2012;15;5;5;0;0;15
+1655;91 Bibliotheken, musea en natuurbehoud;2013;15;10;5;0;0;15
+1656;91 Bibliotheken, musea en natuurbehoud;2014;20;10;5;0;0;20
+1657;91 Bibliotheken, musea en natuurbehoud;2015;15;5;5;0;0;15
+1658;91 Bibliotheken, musea en natuurbehoud;2016;25;10;5;0;0;20
+1659;91 Bibliotheken, musea en natuurbehoud;2017;20;10;5;0;5;20
+1660;91 Bibliotheken, musea en natuurbehoud;2018;25;15;5;0;5;25
+1661;91 Bibliotheken, musea en natuurbehoud;2019;25;15;5;0;0;20
+1662;91 Bibliotheken, musea en natuurbehoud;2020;20;10;5;0;0;20
+1663;91 Bibliotheken, musea en natuurbehoud;2021;25;20;5;0;0;25
+1664;91 Bibliotheken, musea en natuurbehoud;2022;40;30;5;0;0;40
+1665;91 Bibliotheken, musea en natuurbehoud;2023;55;45;10;0;0;55
+1666;92 Loterijen en kansspelen;2010;5;5;0;0;0;5
+1667;92 Loterijen en kansspelen;2011;5;0;0;0;0;5
+1668;92 Loterijen en kansspelen;2012;5;5;0;0;0;5
+1669;92 Loterijen en kansspelen;2013;5;5;0;0;0;5
+1670;92 Loterijen en kansspelen;2014;5;5;0;0;0;5
+1671;92 Loterijen en kansspelen;2015;5;5;0;0;0;5
+1672;92 Loterijen en kansspelen;2016;5;5;0;0;0;5
+1673;92 Loterijen en kansspelen;2017;5;5;0;0;0;5
+1674;92 Loterijen en kansspelen;2018;5;0;5;0;0;5
+1675;92 Loterijen en kansspelen;2019;5;5;0;0;0;5
+1676;92 Loterijen en kansspelen;2020;10;5;5;0;0;10
+1677;92 Loterijen en kansspelen;2021;5;0;0;0;0;5
+1678;92 Loterijen en kansspelen;2022;5;0;0;0;0;5
+1679;92 Loterijen en kansspelen;2023;5;0;0;0;0;5
+1680;93 Sport en recreatie;2010;185;105;15;5;35;150
+1681;93 Sport en recreatie;2011;165;100;15;5;30;140
+1682;93 Sport en recreatie;2012;145;90;10;0;35;115
+1683;93 Sport en recreatie;2013;125;75;10;0;25;100
+1684;93 Sport en recreatie;2014;115;70;10;0;15;100
+1685;93 Sport en recreatie;2015;125;75;15;5;15;105
+1686;93 Sport en recreatie;2016;135;85;15;5;20;115
+1687;93 Sport en recreatie;2017;130;85;10;5;20;115
+1688;93 Sport en recreatie;2018;210;115;15;0;35;175
+1689;93 Sport en recreatie;2019;155;95;20;0;20;135
+1690;93 Sport en recreatie;2020;95;60;15;0;10;85
+1691;93 Sport en recreatie;2021;95;60;15;0;10;90
+1692;93 Sport en recreatie;2022;145;90;20;0;20;130
+1693;93 Sport en recreatie;2023;290;170;45;0;30;260
+1694;S Overige dienstverlening;2010;210;145;40;5;20;190
+1695;S Overige dienstverlening;2011;180;135;25;5;15;160
+1696;S Overige dienstverlening;2012;145;110;15;5;15;125
+1697;S Overige dienstverlening;2013;125;90;20;5;15;110
+1698;S Overige dienstverlening;2014;115;85;15;5;15;95
+1699;S Overige dienstverlening;2015;155;115;20;5;20;135
+1700;S Overige dienstverlening;2016;195;140;30;5;25;170
+1701;S Overige dienstverlening;2017;200;140;40;5;25;175
+1702;S Overige dienstverlening;2018;225;165;30;5;30;195
+1703;S Overige dienstverlening;2019;200;145;35;5;25;180
+1704;S Overige dienstverlening;2020;170;130;30;5;15;150
+1705;S Overige dienstverlening;2021;175;130;30;5;10;160
+1706;S Overige dienstverlening;2022;160;115;30;0;15;145
+1707;S Overige dienstverlening;2023;185;140;25;5;15;175
+1708;94 Ideële, belangen-, hobbyverenigingen;2010;140;95;30;5;0;140
+1709;94 Ideële, belangen-, hobbyverenigingen;2011;110;85;20;0;0;110
+1710;94 Ideële, belangen-, hobbyverenigingen;2012;90;75;10;5;0;90
+1711;94 Ideële, belangen-, hobbyverenigingen;2013;70;55;10;0;0;70
+1712;94 Ideële, belangen-, hobbyverenigingen;2014;65;50;10;0;0;65
+1713;94 Ideële, belangen-, hobbyverenigingen;2015;85;65;10;5;0;85
+1714;94 Ideële, belangen-, hobbyverenigingen;2016;120;85;20;5;0;120
+1715;94 Ideële, belangen-, hobbyverenigingen;2017;120;80;30;5;0;120
+1716;94 Ideële, belangen-, hobbyverenigingen;2018;125;90;25;0;0;125
+1717;94 Ideële, belangen-, hobbyverenigingen;2019;120;85;30;0;5;115
+1718;94 Ideële, belangen-, hobbyverenigingen;2020;100;75;20;0;0;100
+1719;94 Ideële, belangen-, hobbyverenigingen;2021;120;90;25;0;0;120
+1720;94 Ideële, belangen-, hobbyverenigingen;2022;95;70;25;0;0;95
+1721;94 Ideële, belangen-, hobbyverenigingen;2023;115;85;20;0;0;115
+1722;95 Reparatie van consumentenartikelen;2010;15;10;0;0;0;15
+1723;95 Reparatie van consumentenartikelen;2011;10;5;0;0;0;10
+1724;95 Reparatie van consumentenartikelen;2012;10;5;5;0;0;10
+1725;95 Reparatie van consumentenartikelen;2013;15;5;5;0;0;10
+1726;95 Reparatie van consumentenartikelen;2014;10;5;0;0;0;10
+1727;95 Reparatie van consumentenartikelen;2015;10;10;0;0;0;10
+1728;95 Reparatie van consumentenartikelen;2016;10;5;0;0;0;10
+1729;95 Reparatie van consumentenartikelen;2017;10;5;0;0;0;10
+1730;95 Reparatie van consumentenartikelen;2018;15;10;5;0;0;15
+1731;95 Reparatie van consumentenartikelen;2019;15;10;5;0;0;15
+1732;95 Reparatie van consumentenartikelen;2020;15;10;5;0;0;15
+1733;95 Reparatie van consumentenartikelen;2021;10;10;5;0;0;10
+1734;95 Reparatie van consumentenartikelen;2022;10;5;0;0;0;10
+1735;95 Reparatie van consumentenartikelen;2023;10;10;0;0;0;10
+1736;96 Overige persoonlijke dienstverlening;2010;50;40;5;0;20;30
+1737;96 Overige persoonlijke dienstverlening;2011;60;40;5;0;15;40
+1738;96 Overige persoonlijke dienstverlening;2012;45;30;5;0;15;30
+1739;96 Overige persoonlijke dienstverlening;2013;40;30;5;5;10;30
+1740;96 Overige persoonlijke dienstverlening;2014;40;30;5;0;15;20
+1741;96 Overige persoonlijke dienstverlening;2015;60;40;10;0;20;40
+1742;96 Overige persoonlijke dienstverlening;2016;65;50;10;0;25;45
+1743;96 Overige persoonlijke dienstverlening;2017;70;50;10;0;25;45
+1744;96 Overige persoonlijke dienstverlening;2018;85;65;5;5;30;55
+1745;96 Overige persoonlijke dienstverlening;2019;65;50;5;0;20;50
+1746;96 Overige persoonlijke dienstverlening;2020;55;40;5;0;15;40
+1747;96 Overige persoonlijke dienstverlening;2021;45;30;5;0;10;30
+1748;96 Overige persoonlijke dienstverlening;2022;55;40;5;0;15;40
+1749;96 Overige persoonlijke dienstverlening;2023;65;45;5;0;10;50
+1750;T Huishoudens;2010;0;0;0;0;0;0
+1751;T Huishoudens;2011;0;0;0;0;0;0
+1752;T Huishoudens;2012;0;0;0;0;0;0
+1753;T Huishoudens;2013;0;0;0;0;0;0
+1754;T Huishoudens;2014;0;0;0;0;0;0
+1755;T Huishoudens;2015;0;0;0;0;0;0
+1756;T Huishoudens;2016;0;0;0;0;0;0
+1757;T Huishoudens;2017;0;0;0;0;0;0
+1758;T Huishoudens;2018;0;0;0;0;0;0
+1759;T Huishoudens;2019;0;0;0;0;0;0
+1760;T Huishoudens;2020;0;0;0;0;0;0
+1761;T Huishoudens;2021;0;0;0;0;0;0
+1762;T Huishoudens;2022;0;0;0;0;0;0
+1763;T Huishoudens;2023;0;0;0;0;0;0
+1764;97 Huishoudens met personeel;2010;0;0;0;0;0;0
+1765;97 Huishoudens met personeel;2011;0;0;0;0;0;0
+1766;97 Huishoudens met personeel;2012;0;0;0;0;0;0
+1767;97 Huishoudens met personeel;2013;0;0;0;0;0;0
+1768;97 Huishoudens met personeel;2014;0;0;0;0;0;0
+1769;97 Huishoudens met personeel;2015;0;0;0;0;0;0
+1770;97 Huishoudens met personeel;2016;0;0;0;0;0;0
+1771;97 Huishoudens met personeel;2017;0;0;0;0;0;0
+1772;97 Huishoudens met personeel;2018;0;0;0;0;0;0
+1773;97 Huishoudens met personeel;2019;0;0;0;0;0;0
+1774;97 Huishoudens met personeel;2020;0;0;0;0;0;0
+1775;97 Huishoudens met personeel;2021;0;0;0;0;0;0
+1776;97 Huishoudens met personeel;2022;0;0;0;0;0;0
+1777;97 Huishoudens met personeel;2023;0;0;0;0;0;0
+1778;98 Huishoudproductie voor eigen gebruik;2010;0;0;0;0;0;0
+1779;98 Huishoudproductie voor eigen gebruik;2011;0;0;0;0;0;0
+1780;98 Huishoudproductie voor eigen gebruik;2012;0;0;0;0;0;0
+1781;98 Huishoudproductie voor eigen gebruik;2013;0;0;0;0;0;0
+1782;98 Huishoudproductie voor eigen gebruik;2014;0;0;0;0;0;0
+1783;98 Huishoudproductie voor eigen gebruik;2015;0;0;0;0;0;0
+1784;98 Huishoudproductie voor eigen gebruik;2016;0;0;0;0;0;0
+1785;98 Huishoudproductie voor eigen gebruik;2017;0;0;0;0;0;0
+1786;98 Huishoudproductie voor eigen gebruik;2018;0;0;0;0;0;0
+1787;98 Huishoudproductie voor eigen gebruik;2019;0;0;0;0;0;0
+1788;98 Huishoudproductie voor eigen gebruik;2020;0;0;0;0;0;0
+1789;98 Huishoudproductie voor eigen gebruik;2021;0;0;0;0;0;0
+1790;98 Huishoudproductie voor eigen gebruik;2022;0;0;0;0;0;0
+1791;98 Huishoudproductie voor eigen gebruik;2023;0;0;0;0;0;0
+1792;U Extraterritoriale organisaties;2010;0;0;0;0;0;0
+1793;U Extraterritoriale organisaties;2011;0;0;0;0;0;0
+1794;U Extraterritoriale organisaties;2012;0;0;0;0;0;0
+1795;U Extraterritoriale organisaties;2013;0;0;0;0;0;0
+1796;U Extraterritoriale organisaties;2014;0;0;0;0;0;0
+1797;U Extraterritoriale organisaties;2015;0;0;0;0;0;0
+1798;U Extraterritoriale organisaties;2016;0;0;0;0;0;0
+1799;U Extraterritoriale organisaties;2017;0;0;0;0;0;0
+1800;U Extraterritoriale organisaties;2018;0;0;0;0;0;0
+1801;U Extraterritoriale organisaties;2019;0;0;0;0;0;0
+1802;U Extraterritoriale organisaties;2020;0;0;0;0;0;0
+1803;U Extraterritoriale organisaties;2021;0;0;0;0;0;0
+1804;U Extraterritoriale organisaties;2022;0;0;0;0;0;0
+1805;U Extraterritoriale organisaties;2023;0;0;0;0;0;0
+1806;99 Extraterritoriale organisaties;2010;0;0;0;0;0;0
+1807;99 Extraterritoriale organisaties;2011;0;0;0;0;0;0
+1808;99 Extraterritoriale organisaties;2012;0;0;0;0;0;0
+1809;99 Extraterritoriale organisaties;2013;0;0;0;0;0;0
+1810;99 Extraterritoriale organisaties;2014;0;0;0;0;0;0
+1811;99 Extraterritoriale organisaties;2015;0;0;0;0;0;0
+1812;99 Extraterritoriale organisaties;2016;0;0;0;0;0;0
+1813;99 Extraterritoriale organisaties;2017;0;0;0;0;0;0
+1814;99 Extraterritoriale organisaties;2018;0;0;0;0;0;0
+1815;99 Extraterritoriale organisaties;2019;0;0;0;0;0;0
+1816;99 Extraterritoriale organisaties;2020;0;0;0;0;0;0
+1817;99 Extraterritoriale organisaties;2021;0;0;0;0;0;0
+1818;99 Extraterritoriale organisaties;2022;0;0;0;0;0;0
+1819;99 Extraterritoriale organisaties;2023;0;0;0;0;0;0

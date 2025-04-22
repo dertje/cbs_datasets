@@ -1,0 +1,1101 @@
+﻿ID;MaterieleLevensstandaard;Persoonskenmerken;Perioden;NietZoGelukkig_1;Gelukkig_2;NietZoTevredenMetHetLeven_3;TevredenMetHetLeven_4
+0;999;Totaal persoonskenmerken;2003;13.0;87.0;13.0;87.0
+1;999;Totaal persoonskenmerken;2004;13.0;87.0;13.0;87.0
+2;999;Totaal persoonskenmerken;2005;13.0;87.0;14.0;86.0
+3;999;Totaal persoonskenmerken;2006;12.0;88.0;13.0;87.0
+4;999;Totaal persoonskenmerken;2007;12.0;88.0;13.0;87.0
+5;999;Totaal persoonskenmerken;2008;12.0;88.0;12.0;88.0
+6;999;Totaal persoonskenmerken;2009;11.0;89.0;13.0;87.0
+7;999;Totaal persoonskenmerken;2010 oude methode;13.0;87.0;14.0;86.0
+8;999;Totaal persoonskenmerken;2010 nieuwe methode;16.0;84.0;15.0;85.0
+9;999;Totaal persoonskenmerken;2012;17.0;83.0;17.0;83.0
+10;999;Geslacht: mannen;2003;12.0;88.0;13.0;87.0
+11;999;Geslacht: mannen;2004;11.0;89.0;13.0;87.0
+12;999;Geslacht: mannen;2005;13.0;87.0;14.0;86.0
+13;999;Geslacht: mannen;2006;10.0;90.0;13.0;87.0
+14;999;Geslacht: mannen;2007;11.0;89.0;12.0;88.0
+15;999;Geslacht: mannen;2008;12.0;88.0;11.0;89.0
+16;999;Geslacht: mannen;2009;10.0;90.0;12.0;88.0
+17;999;Geslacht: mannen;2010 oude methode;11.0;89.0;13.0;87.0
+18;999;Geslacht: mannen;2010 nieuwe methode;14.0;86.0;15.0;85.0
+19;999;Geslacht: mannen;2012;18.0;82.0;17.0;83.0
+20;999;Geslacht: vrouwen;2003;14.0;86.0;14.0;86.0
+21;999;Geslacht: vrouwen;2004;14.0;86.0;14.0;86.0
+22;999;Geslacht: vrouwen;2005;14.0;86.0;14.0;86.0
+23;999;Geslacht: vrouwen;2006;13.0;87.0;14.0;86.0
+24;999;Geslacht: vrouwen;2007;13.0;87.0;13.0;87.0
+25;999;Geslacht: vrouwen;2008;12.0;88.0;12.0;88.0
+26;999;Geslacht: vrouwen;2009;13.0;87.0;13.0;87.0
+27;999;Geslacht: vrouwen;2010 oude methode;14.0;86.0;15.0;85.0
+28;999;Geslacht: vrouwen;2010 nieuwe methode;18.0;82.0;16.0;84.0
+29;999;Geslacht: vrouwen;2012;16.0;84.0;17.0;83.0
+30;999;Leeftijd: 18 tot 35 jaar;2003;9.0;91.0;11.0;89.0
+31;999;Leeftijd: 18 tot 35 jaar;2004;10.0;90.0;12.0;88.0
+32;999;Leeftijd: 18 tot 35 jaar;2005;11.0;89.0;13.0;87.0
+33;999;Leeftijd: 18 tot 35 jaar;2006;8.0;92.0;12.0;88.0
+34;999;Leeftijd: 18 tot 35 jaar;2007;10.0;90.0;10.0;90.0
+35;999;Leeftijd: 18 tot 35 jaar;2008;7.0;93.0;9.0;91.0
+36;999;Leeftijd: 18 tot 35 jaar;2009;9.0;91.0;11.0;89.0
+37;999;Leeftijd: 18 tot 35 jaar;2010 oude methode;8.0;92.0;11.0;89.0
+38;999;Leeftijd: 18 tot 35 jaar;2010 nieuwe methode;13.0;87.0;14.0;86.0
+39;999;Leeftijd: 18 tot 35 jaar;2012;12.0;88.0;15.0;85.0
+40;999;Leeftijd: 35 tot 50 jaar;2003;12.0;88.0;14.0;86.0
+41;999;Leeftijd: 35 tot 50 jaar;2004;12.0;88.0;14.0;86.0
+42;999;Leeftijd: 35 tot 50 jaar;2005;12.0;88.0;14.0;86.0
+43;999;Leeftijd: 35 tot 50 jaar;2006;12.0;88.0;14.0;86.0
+44;999;Leeftijd: 35 tot 50 jaar;2007;11.0;89.0;13.0;87.0
+45;999;Leeftijd: 35 tot 50 jaar;2008;13.0;87.0;14.0;86.0
+46;999;Leeftijd: 35 tot 50 jaar;2009;11.0;89.0;14.0;86.0
+47;999;Leeftijd: 35 tot 50 jaar;2010 oude methode;12.0;88.0;15.0;85.0
+48;999;Leeftijd: 35 tot 50 jaar;2010 nieuwe methode;16.0;84.0;16.0;84.0
+49;999;Leeftijd: 35 tot 50 jaar;2012;16.0;84.0;17.0;83.0
+50;999;Leeftijd: 50 tot 65 jaar;2003;14.0;86.0;13.0;87.0
+51;999;Leeftijd: 50 tot 65 jaar;2004;14.0;86.0;14.0;86.0
+52;999;Leeftijd: 50 tot 65 jaar;2005;15.0;85.0;16.0;84.0
+53;999;Leeftijd: 50 tot 65 jaar;2006;13.0;87.0;15.0;85.0
+54;999;Leeftijd: 50 tot 65 jaar;2007;14.0;86.0;14.0;86.0
+55;999;Leeftijd: 50 tot 65 jaar;2008;13.0;87.0;12.0;88.0
+56;999;Leeftijd: 50 tot 65 jaar;2009;11.0;89.0;13.0;87.0
+57;999;Leeftijd: 50 tot 65 jaar;2010 oude methode;14.0;86.0;15.0;85.0
+58;999;Leeftijd: 50 tot 65 jaar;2010 nieuwe methode;17.0;83.0;16.0;84.0
+59;999;Leeftijd: 50 tot 65 jaar;2012;22.0;78.0;21.0;79.0
+60;999;Leeftijd: 65 jaar of ouder;2003;18.0;82.0;15.0;85.0
+61;999;Leeftijd: 65 jaar of ouder;2004;17.0;83.0;13.0;87.0
+62;999;Leeftijd: 65 jaar of ouder;2005;17.0;83.0;13.0;87.0
+63;999;Leeftijd: 65 jaar of ouder;2006;15.0;85.0;12.0;88.0
+64;999;Leeftijd: 65 jaar of ouder;2007;16.0;84.0;14.0;86.0
+65;999;Leeftijd: 65 jaar of ouder;2008;15.0;85.0;12.0;88.0
+66;999;Leeftijd: 65 jaar of ouder;2009;15.0;85.0;13.0;87.0
+67;999;Leeftijd: 65 jaar of ouder;2010 oude methode;18.0;82.0;14.0;86.0
+68;999;Leeftijd: 65 jaar of ouder;2010 nieuwe methode;20.0;80.0;16.0;84.0
+69;999;Leeftijd: 65 jaar of ouder;2012;18.0;82.0;15.0;85.0
+70;999;Herkomst: autochtoon;2003;11.0;89.0;12.0;88.0
+71;999;Herkomst: autochtoon;2004;11.0;89.0;12.0;88.0
+72;999;Herkomst: autochtoon;2005;11.0;89.0;12.0;88.0
+73;999;Herkomst: autochtoon;2006;10.0;90.0;12.0;88.0
+74;999;Herkomst: autochtoon;2007;11.0;89.0;12.0;88.0
+75;999;Herkomst: autochtoon;2008;10.0;90.0;11.0;89.0
+76;999;Herkomst: autochtoon;2009;10.0;90.0;11.0;89.0
+77;999;Herkomst: autochtoon;2010 oude methode;11.0;89.0;12.0;88.0
+78;999;Herkomst: autochtoon;2010 nieuwe methode;15.0;85.0;15.0;85.0
+79;999;Herkomst: autochtoon;2012;16.0;84.0;16.0;84.0
+80;999;Herkomst: westerse allochtoon;2003;17.0;83.0;16.0;84.0
+81;999;Herkomst: westerse allochtoon;2004;14.0;86.0;16.0;84.0
+82;999;Herkomst: westerse allochtoon;2005;17.0;83.0;15.0;85.0
+83;999;Herkomst: westerse allochtoon;2006;13.0;87.0;16.0;84.0
+84;999;Herkomst: westerse allochtoon;2007;15.0;85.0;16.0;84.0
+85;999;Herkomst: westerse allochtoon;2008;15.0;85.0;15.0;85.0
+86;999;Herkomst: westerse allochtoon;2009;12.0;88.0;17.0;83.0
+87;999;Herkomst: westerse allochtoon;2010 oude methode;15.0;85.0;18.0;82.0
+88;999;Herkomst: westerse allochtoon;2010 nieuwe methode;19.0;81.0;18.0;82.0
+89;999;Herkomst: westerse allochtoon;2012;19.0;81.0;21.0;79.0
+90;999;Herkomst: niet-westerse allochtoon;2003;28.0;72.0;25.0;75.0
+91;999;Herkomst: niet-westerse allochtoon;2004;28.0;72.0;27.0;73.0
+92;999;Herkomst: niet-westerse allochtoon;2005;28.0;72.0;27.0;73.0
+93;999;Herkomst: niet-westerse allochtoon;2006;22.0;78.0;28.0;72.0
+94;999;Herkomst: niet-westerse allochtoon;2007;25.0;75.0;19.0;81.0
+95;999;Herkomst: niet-westerse allochtoon;2008;23.0;77.0;19.0;81.0
+96;999;Herkomst: niet-westerse allochtoon;2009;22.0;78.0;24.0;76.0
+97;999;Herkomst: niet-westerse allochtoon;2010 oude methode;23.0;77.0;22.0;78.0
+98;999;Herkomst: niet-westerse allochtoon;2010 nieuwe methode;26.0;74.0;20.0;80.0
+99;999;Herkomst: niet-westerse allochtoon;2012;23.0;77.0;25.0;75.0
+100;Hoogte van het inkomen: 1e 25%-groep;Totaal persoonskenmerken;2003;22.0;78.0;22.0;78.0
+101;Hoogte van het inkomen: 1e 25%-groep;Totaal persoonskenmerken;2004;22.0;78.0;22.0;78.0
+102;Hoogte van het inkomen: 1e 25%-groep;Totaal persoonskenmerken;2005;23.0;77.0;24.0;76.0
+103;Hoogte van het inkomen: 1e 25%-groep;Totaal persoonskenmerken;2006;20.0;80.0;24.0;76.0
+104;Hoogte van het inkomen: 1e 25%-groep;Totaal persoonskenmerken;2007;22.0;78.0;22.0;78.0
+105;Hoogte van het inkomen: 1e 25%-groep;Totaal persoonskenmerken;2008;20.0;80.0;21.0;79.0
+106;Hoogte van het inkomen: 1e 25%-groep;Totaal persoonskenmerken;2009;20.0;80.0;23.0;77.0
+107;Hoogte van het inkomen: 1e 25%-groep;Totaal persoonskenmerken;2010 oude methode;20.0;80.0;23.0;77.0
+108;Hoogte van het inkomen: 1e 25%-groep;Totaal persoonskenmerken;2010 nieuwe methode;27.0;73.0;26.0;74.0
+109;Hoogte van het inkomen: 1e 25%-groep;Totaal persoonskenmerken;2012;25.0;75.0;26.0;74.0
+110;Hoogte van het inkomen: 1e 25%-groep;Geslacht: mannen;2003;22.0;78.0;20.0;80.0
+111;Hoogte van het inkomen: 1e 25%-groep;Geslacht: mannen;2004;20.0;80.0;23.0;77.0
+112;Hoogte van het inkomen: 1e 25%-groep;Geslacht: mannen;2005;23.0;77.0;25.0;75.0
+113;Hoogte van het inkomen: 1e 25%-groep;Geslacht: mannen;2006;17.0;83.0;24.0;76.0
+114;Hoogte van het inkomen: 1e 25%-groep;Geslacht: mannen;2007;22.0;78.0;23.0;77.0
+115;Hoogte van het inkomen: 1e 25%-groep;Geslacht: mannen;2008;21.0;79.0;21.0;79.0
+116;Hoogte van het inkomen: 1e 25%-groep;Geslacht: mannen;2009;19.0;81.0;24.0;76.0
+117;Hoogte van het inkomen: 1e 25%-groep;Geslacht: mannen;2010 oude methode;17.0;83.0;19.0;81.0
+118;Hoogte van het inkomen: 1e 25%-groep;Geslacht: mannen;2010 nieuwe methode;26.0;74.0;26.0;74.0
+119;Hoogte van het inkomen: 1e 25%-groep;Geslacht: mannen;2012;30.0;70.0;29.0;71.0
+120;Hoogte van het inkomen: 1e 25%-groep;Geslacht: vrouwen;2003;22.0;78.0;24.0;76.0
+121;Hoogte van het inkomen: 1e 25%-groep;Geslacht: vrouwen;2004;23.0;77.0;21.0;79.0
+122;Hoogte van het inkomen: 1e 25%-groep;Geslacht: vrouwen;2005;24.0;76.0;22.0;78.0
+123;Hoogte van het inkomen: 1e 25%-groep;Geslacht: vrouwen;2006;23.0;77.0;24.0;76.0
+124;Hoogte van het inkomen: 1e 25%-groep;Geslacht: vrouwen;2007;23.0;77.0;21.0;79.0
+125;Hoogte van het inkomen: 1e 25%-groep;Geslacht: vrouwen;2008;19.0;81.0;21.0;79.0
+126;Hoogte van het inkomen: 1e 25%-groep;Geslacht: vrouwen;2009;21.0;79.0;22.0;78.0
+127;Hoogte van het inkomen: 1e 25%-groep;Geslacht: vrouwen;2010 oude methode;22.0;78.0;25.0;75.0
+128;Hoogte van het inkomen: 1e 25%-groep;Geslacht: vrouwen;2010 nieuwe methode;27.0;73.0;25.0;75.0
+129;Hoogte van het inkomen: 1e 25%-groep;Geslacht: vrouwen;2012;22.0;78.0;23.0;77.0
+130;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 18 tot 35 jaar;2003;19.0;81.0;21.0;79.0
+131;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 18 tot 35 jaar;2004;16.0;84.0;19.0;81.0
+132;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 18 tot 35 jaar;2005;17.0;83.0;19.0;81.0
+133;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 18 tot 35 jaar;2006;13.0;87.0;19.0;81.0
+134;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 18 tot 35 jaar;2007;15.0;85.0;15.0;85.0
+135;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 18 tot 35 jaar;2008;11.0;89.0;15.0;85.0
+136;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 18 tot 35 jaar;2009;15.0;85.0;18.0;82.0
+137;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 18 tot 35 jaar;2010 oude methode;10.0;90.0;16.0;84.0
+138;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 18 tot 35 jaar;2010 nieuwe methode;23.0;77.0;22.0;78.0
+139;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 18 tot 35 jaar;2012;;;;
+140;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 35 tot 50 jaar;2003;25.0;75.0;27.0;73.0
+141;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 35 tot 50 jaar;2004;25.0;75.0;29.0;71.0
+142;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 35 tot 50 jaar;2005;26.0;74.0;26.0;74.0
+143;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 35 tot 50 jaar;2006;26.0;74.0;29.0;71.0
+144;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 35 tot 50 jaar;2007;27.0;73.0;30.0;70.0
+145;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 35 tot 50 jaar;2008;25.0;75.0;27.0;73.0
+146;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 35 tot 50 jaar;2009;22.0;78.0;28.0;72.0
+147;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 35 tot 50 jaar;2010 oude methode;25.0;75.0;29.0;71.0
+148;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 35 tot 50 jaar;2010 nieuwe methode;29.0;71.0;31.0;69.0
+149;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 35 tot 50 jaar;2012;;;;
+150;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 50 tot 65 jaar;2003;26.0;74.0;22.0;78.0
+151;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 50 tot 65 jaar;2004;28.0;72.0;25.0;75.0
+152;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 50 tot 65 jaar;2005;37.0;63.0;40.0;60.0
+153;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 50 tot 65 jaar;2006;31.0;69.0;36.0;64.0
+154;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 50 tot 65 jaar;2007;33.0;67.0;30.0;70.0
+155;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 50 tot 65 jaar;2008;30.0;70.0;31.0;69.0
+156;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 50 tot 65 jaar;2009;24.0;76.0;30.0;70.0
+157;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 50 tot 65 jaar;2010 oude methode;;;;
+158;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 50 tot 65 jaar;2010 nieuwe methode;30.0;70.0;29.0;71.0
+159;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 50 tot 65 jaar;2012;;;;
+160;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 65 jaar of ouder;2003;23.0;77.0;19.0;81.0
+161;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 65 jaar of ouder;2004;22.0;78.0;17.0;83.0
+162;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 65 jaar of ouder;2005;21.0;79.0;15.0;85.0
+163;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 65 jaar of ouder;2006;17.0;83.0;15.0;85.0
+164;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 65 jaar of ouder;2007;21.0;79.0;17.0;83.0
+165;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 65 jaar of ouder;2008;21.0;79.0;16.0;84.0
+166;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 65 jaar of ouder;2009;23.0;77.0;19.0;81.0
+167;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 65 jaar of ouder;2010 oude methode;26.0;74.0;18.0;82.0
+168;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 65 jaar of ouder;2010 nieuwe methode;26.0;74.0;21.0;79.0
+169;Hoogte van het inkomen: 1e 25%-groep;Leeftijd: 65 jaar of ouder;2012;;;;
+170;Hoogte van het inkomen: 1e 25%-groep;Herkomst: autochtoon;2003;18.0;82.0;19.0;81.0
+171;Hoogte van het inkomen: 1e 25%-groep;Herkomst: autochtoon;2004;17.0;83.0;19.0;81.0
+172;Hoogte van het inkomen: 1e 25%-groep;Herkomst: autochtoon;2005;19.0;81.0;21.0;79.0
+173;Hoogte van het inkomen: 1e 25%-groep;Herkomst: autochtoon;2006;17.0;83.0;20.0;80.0
+174;Hoogte van het inkomen: 1e 25%-groep;Herkomst: autochtoon;2007;20.0;80.0;20.0;80.0
+175;Hoogte van het inkomen: 1e 25%-groep;Herkomst: autochtoon;2008;18.0;82.0;19.0;81.0
+176;Hoogte van het inkomen: 1e 25%-groep;Herkomst: autochtoon;2009;18.0;82.0;21.0;79.0
+177;Hoogte van het inkomen: 1e 25%-groep;Herkomst: autochtoon;2010 oude methode;19.0;81.0;22.0;78.0
+178;Hoogte van het inkomen: 1e 25%-groep;Herkomst: autochtoon;2010 nieuwe methode;26.0;74.0;27.0;73.0
+179;Hoogte van het inkomen: 1e 25%-groep;Herkomst: autochtoon;2012;23.0;77.0;22.0;78.0
+180;Hoogte van het inkomen: 1e 25%-groep;Herkomst: westerse allochtoon;2003;27.0;73.0;30.0;70.0
+181;Hoogte van het inkomen: 1e 25%-groep;Herkomst: westerse allochtoon;2004;20.0;80.0;24.0;76.0
+182;Hoogte van het inkomen: 1e 25%-groep;Herkomst: westerse allochtoon;2005;26.0;74.0;21.0;79.0
+183;Hoogte van het inkomen: 1e 25%-groep;Herkomst: westerse allochtoon;2006;21.0;79.0;25.0;75.0
+184;Hoogte van het inkomen: 1e 25%-groep;Herkomst: westerse allochtoon;2007;20.0;80.0;26.0;74.0
+185;Hoogte van het inkomen: 1e 25%-groep;Herkomst: westerse allochtoon;2008;20.0;80.0;26.0;74.0
+186;Hoogte van het inkomen: 1e 25%-groep;Herkomst: westerse allochtoon;2009;23.0;77.0;29.0;71.0
+187;Hoogte van het inkomen: 1e 25%-groep;Herkomst: westerse allochtoon;2010 oude methode;;;;
+188;Hoogte van het inkomen: 1e 25%-groep;Herkomst: westerse allochtoon;2010 nieuwe methode;;;;
+189;Hoogte van het inkomen: 1e 25%-groep;Herkomst: westerse allochtoon;2012;;;;
+190;Hoogte van het inkomen: 1e 25%-groep;Herkomst: niet-westerse allochtoon;2003;36.0;64.0;30.0;70.0
+191;Hoogte van het inkomen: 1e 25%-groep;Herkomst: niet-westerse allochtoon;2004;39.0;61.0;36.0;64.0
+192;Hoogte van het inkomen: 1e 25%-groep;Herkomst: niet-westerse allochtoon;2005;38.0;62.0;35.0;65.0
+193;Hoogte van het inkomen: 1e 25%-groep;Herkomst: niet-westerse allochtoon;2006;31.0;69.0;34.0;66.0
+194;Hoogte van het inkomen: 1e 25%-groep;Herkomst: niet-westerse allochtoon;2007;33.0;67.0;26.0;74.0
+195;Hoogte van het inkomen: 1e 25%-groep;Herkomst: niet-westerse allochtoon;2008;30.0;70.0;26.0;74.0
+196;Hoogte van het inkomen: 1e 25%-groep;Herkomst: niet-westerse allochtoon;2009;28.0;72.0;29.0;71.0
+197;Hoogte van het inkomen: 1e 25%-groep;Herkomst: niet-westerse allochtoon;2010 oude methode;24.0;76.0;27.0;73.0
+198;Hoogte van het inkomen: 1e 25%-groep;Herkomst: niet-westerse allochtoon;2010 nieuwe methode;31.0;69.0;23.0;77.0
+199;Hoogte van het inkomen: 1e 25%-groep;Herkomst: niet-westerse allochtoon;2012;;;;
+200;Hoogte van het inkomen: 2e 25%-groep;Totaal persoonskenmerken;2003;15.0;85.0;15.0;85.0
+201;Hoogte van het inkomen: 2e 25%-groep;Totaal persoonskenmerken;2004;14.0;86.0;15.0;85.0
+202;Hoogte van het inkomen: 2e 25%-groep;Totaal persoonskenmerken;2005;14.0;86.0;15.0;85.0
+203;Hoogte van het inkomen: 2e 25%-groep;Totaal persoonskenmerken;2006;13.0;87.0;15.0;85.0
+204;Hoogte van het inkomen: 2e 25%-groep;Totaal persoonskenmerken;2007;13.0;87.0;14.0;86.0
+205;Hoogte van het inkomen: 2e 25%-groep;Totaal persoonskenmerken;2008;14.0;86.0;14.0;86.0
+206;Hoogte van het inkomen: 2e 25%-groep;Totaal persoonskenmerken;2009;15.0;85.0;15.0;85.0
+207;Hoogte van het inkomen: 2e 25%-groep;Totaal persoonskenmerken;2010 oude methode;17.0;83.0;17.0;83.0
+208;Hoogte van het inkomen: 2e 25%-groep;Totaal persoonskenmerken;2010 nieuwe methode;18.0;82.0;17.0;83.0
+209;Hoogte van het inkomen: 2e 25%-groep;Totaal persoonskenmerken;2012;18.0;82.0;20.0;80.0
+210;Hoogte van het inkomen: 2e 25%-groep;Geslacht: mannen;2003;13.0;87.0;15.0;85.0
+211;Hoogte van het inkomen: 2e 25%-groep;Geslacht: mannen;2004;12.0;88.0;14.0;86.0
+212;Hoogte van het inkomen: 2e 25%-groep;Geslacht: mannen;2005;15.0;85.0;15.0;85.0
+213;Hoogte van het inkomen: 2e 25%-groep;Geslacht: mannen;2006;12.0;88.0;15.0;85.0
+214;Hoogte van het inkomen: 2e 25%-groep;Geslacht: mannen;2007;12.0;88.0;13.0;87.0
+215;Hoogte van het inkomen: 2e 25%-groep;Geslacht: mannen;2008;14.0;86.0;15.0;85.0
+216;Hoogte van het inkomen: 2e 25%-groep;Geslacht: mannen;2009;13.0;87.0;14.0;86.0
+217;Hoogte van het inkomen: 2e 25%-groep;Geslacht: mannen;2010 oude methode;15.0;85.0;19.0;81.0
+218;Hoogte van het inkomen: 2e 25%-groep;Geslacht: mannen;2010 nieuwe methode;16.0;84.0;16.0;84.0
+219;Hoogte van het inkomen: 2e 25%-groep;Geslacht: mannen;2012;18.0;82.0;20.0;80.0
+220;Hoogte van het inkomen: 2e 25%-groep;Geslacht: vrouwen;2003;16.0;84.0;16.0;84.0
+221;Hoogte van het inkomen: 2e 25%-groep;Geslacht: vrouwen;2004;15.0;85.0;16.0;84.0
+222;Hoogte van het inkomen: 2e 25%-groep;Geslacht: vrouwen;2005;14.0;86.0;14.0;86.0
+223;Hoogte van het inkomen: 2e 25%-groep;Geslacht: vrouwen;2006;14.0;86.0;14.0;86.0
+224;Hoogte van het inkomen: 2e 25%-groep;Geslacht: vrouwen;2007;14.0;86.0;15.0;85.0
+225;Hoogte van het inkomen: 2e 25%-groep;Geslacht: vrouwen;2008;13.0;87.0;13.0;87.0
+226;Hoogte van het inkomen: 2e 25%-groep;Geslacht: vrouwen;2009;17.0;83.0;16.0;84.0
+227;Hoogte van het inkomen: 2e 25%-groep;Geslacht: vrouwen;2010 oude methode;19.0;81.0;15.0;85.0
+228;Hoogte van het inkomen: 2e 25%-groep;Geslacht: vrouwen;2010 nieuwe methode;19.0;81.0;18.0;82.0
+229;Hoogte van het inkomen: 2e 25%-groep;Geslacht: vrouwen;2012;17.0;83.0;20.0;80.0
+230;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 18 tot 35 jaar;2003;9.0;91.0;11.0;89.0
+231;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 18 tot 35 jaar;2004;10.0;90.0;12.0;88.0
+232;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 18 tot 35 jaar;2005;11.0;89.0;14.0;86.0
+233;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 18 tot 35 jaar;2006;9.0;91.0;13.0;87.0
+234;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 18 tot 35 jaar;2007;10.0;90.0;13.0;87.0
+235;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 18 tot 35 jaar;2008;7.0;93.0;9.0;91.0
+236;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 18 tot 35 jaar;2009;12.0;88.0;13.0;87.0
+237;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 18 tot 35 jaar;2010 oude methode;15.0;85.0;14.0;86.0
+238;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 18 tot 35 jaar;2010 nieuwe methode;12.0;88.0;15.0;85.0
+239;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 18 tot 35 jaar;2012;;;;
+240;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 35 tot 50 jaar;2003;15.0;85.0;18.0;82.0
+241;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 35 tot 50 jaar;2004;12.0;88.0;16.0;84.0
+242;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 35 tot 50 jaar;2005;11.0;89.0;12.0;88.0
+243;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 35 tot 50 jaar;2006;13.0;87.0;17.0;83.0
+244;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 35 tot 50 jaar;2007;10.0;90.0;11.0;89.0
+245;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 35 tot 50 jaar;2008;16.0;84.0;17.0;83.0
+246;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 35 tot 50 jaar;2009;15.0;85.0;17.0;83.0
+247;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 35 tot 50 jaar;2010 oude methode;12.0;88.0;18.0;82.0
+248;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 35 tot 50 jaar;2010 nieuwe methode;18.0;82.0;13.0;87.0
+249;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 35 tot 50 jaar;2012;18.0;82.0;20.0;80.0
+250;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 50 tot 65 jaar;2003;18.0;82.0;18.0;82.0
+251;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 50 tot 65 jaar;2004;17.0;83.0;19.0;81.0
+252;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 50 tot 65 jaar;2005;20.0;80.0;21.0;79.0
+253;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 50 tot 65 jaar;2006;14.0;86.0;15.0;85.0
+254;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 50 tot 65 jaar;2007;16.0;84.0;15.0;85.0
+255;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 50 tot 65 jaar;2008;13.0;87.0;14.0;86.0
+256;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 50 tot 65 jaar;2009;15.0;85.0;15.0;85.0
+257;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 50 tot 65 jaar;2010 oude methode;21.0;79.0;19.0;81.0
+258;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 50 tot 65 jaar;2010 nieuwe methode;19.0;81.0;19.0;81.0
+259;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 50 tot 65 jaar;2012;;;;
+260;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 65 jaar of ouder;2003;18.0;82.0;14.0;86.0
+261;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 65 jaar of ouder;2004;18.0;82.0;13.0;87.0
+262;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 65 jaar of ouder;2005;18.0;82.0;13.0;87.0
+263;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 65 jaar of ouder;2006;17.0;83.0;14.0;86.0
+264;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 65 jaar of ouder;2007;17.0;83.0;17.0;83.0
+265;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 65 jaar of ouder;2008;16.0;84.0;14.0;86.0
+266;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 65 jaar of ouder;2009;18.0;82.0;14.0;86.0
+267;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 65 jaar of ouder;2010 oude methode;21.0;79.0;16.0;84.0
+268;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 65 jaar of ouder;2010 nieuwe methode;21.0;79.0;17.0;83.0
+269;Hoogte van het inkomen: 2e 25%-groep;Leeftijd: 65 jaar of ouder;2012;19.0;81.0;19.0;81.0
+270;Hoogte van het inkomen: 2e 25%-groep;Herkomst: autochtoon;2003;14.0;86.0;14.0;86.0
+271;Hoogte van het inkomen: 2e 25%-groep;Herkomst: autochtoon;2004;13.0;87.0;13.0;86.0
+272;Hoogte van het inkomen: 2e 25%-groep;Herkomst: autochtoon;2005;14.0;86.0;14.0;86.0
+273;Hoogte van het inkomen: 2e 25%-groep;Herkomst: autochtoon;2006;13.0;87.0;14.0;86.0
+274;Hoogte van het inkomen: 2e 25%-groep;Herkomst: autochtoon;2007;12.0;88.0;13.0;87.0
+275;Hoogte van het inkomen: 2e 25%-groep;Herkomst: autochtoon;2008;12.0;88.0;13.0;87.0
+276;Hoogte van het inkomen: 2e 25%-groep;Herkomst: autochtoon;2009;13.0;87.0;13.0;87.0
+277;Hoogte van het inkomen: 2e 25%-groep;Herkomst: autochtoon;2010 oude methode;14.0;86.0;17.0;83.0
+278;Hoogte van het inkomen: 2e 25%-groep;Herkomst: autochtoon;2010 nieuwe methode;16.0;84.0;16.0;84.0
+279;Hoogte van het inkomen: 2e 25%-groep;Herkomst: autochtoon;2012;18.0;82.0;19.0;81.0
+280;Hoogte van het inkomen: 2e 25%-groep;Herkomst: westerse allochtoon;2003;17.0;83.0;16.0;84.0
+281;Hoogte van het inkomen: 2e 25%-groep;Herkomst: westerse allochtoon;2004;14.0;86.0;17.0;83.0
+282;Hoogte van het inkomen: 2e 25%-groep;Herkomst: westerse allochtoon;2005;15.0;85.0;14.0;86.0
+283;Hoogte van het inkomen: 2e 25%-groep;Herkomst: westerse allochtoon;2006;14.0;86.0;18.0;82.0
+284;Hoogte van het inkomen: 2e 25%-groep;Herkomst: westerse allochtoon;2007;15.0;85.0;13.0;87.0
+285;Hoogte van het inkomen: 2e 25%-groep;Herkomst: westerse allochtoon;2008;15.0;85.0;12.0;88.0
+286;Hoogte van het inkomen: 2e 25%-groep;Herkomst: westerse allochtoon;2009;17.0;83.0;19.0;81.0
+287;Hoogte van het inkomen: 2e 25%-groep;Herkomst: westerse allochtoon;2010 oude methode;;;;
+288;Hoogte van het inkomen: 2e 25%-groep;Herkomst: westerse allochtoon;2010 nieuwe methode;;;;
+289;Hoogte van het inkomen: 2e 25%-groep;Herkomst: westerse allochtoon;2012;;;;
+290;Hoogte van het inkomen: 2e 25%-groep;Herkomst: niet-westerse allochtoon;2003;24.0;76.0;23.0;77.0
+291;Hoogte van het inkomen: 2e 25%-groep;Herkomst: niet-westerse allochtoon;2004;27.0;73.0;26.0;74.0
+292;Hoogte van het inkomen: 2e 25%-groep;Herkomst: niet-westerse allochtoon;2005;21.0;79.0;21.0;79.0
+293;Hoogte van het inkomen: 2e 25%-groep;Herkomst: niet-westerse allochtoon;2006;16.0;84.0;22.0;78.0
+294;Hoogte van het inkomen: 2e 25%-groep;Herkomst: niet-westerse allochtoon;2007;27.0;73.0;21.0;79.0
+295;Hoogte van het inkomen: 2e 25%-groep;Herkomst: niet-westerse allochtoon;2008;24.0;76.0;22.0;78.0
+296;Hoogte van het inkomen: 2e 25%-groep;Herkomst: niet-westerse allochtoon;2009;26.0;74.0;29.0;71.0
+297;Hoogte van het inkomen: 2e 25%-groep;Herkomst: niet-westerse allochtoon;2010 oude methode;;;;
+298;Hoogte van het inkomen: 2e 25%-groep;Herkomst: niet-westerse allochtoon;2010 nieuwe methode;;;;
+299;Hoogte van het inkomen: 2e 25%-groep;Herkomst: niet-westerse allochtoon;2012;;;;
+300;Hoogte van het inkomen: 3e 25%-groep;Totaal persoonskenmerken;2003;11.0;89.0;12.0;88.0
+301;Hoogte van het inkomen: 3e 25%-groep;Totaal persoonskenmerken;2004;11.0;89.0;12.0;88.0
+302;Hoogte van het inkomen: 3e 25%-groep;Totaal persoonskenmerken;2005;11.0;89.0;12.0;88.0
+303;Hoogte van het inkomen: 3e 25%-groep;Totaal persoonskenmerken;2006;11.0;89.0;12.0;88.0
+304;Hoogte van het inkomen: 3e 25%-groep;Totaal persoonskenmerken;2007;11.0;89.0;11.0;89.0
+305;Hoogte van het inkomen: 3e 25%-groep;Totaal persoonskenmerken;2008;10.0;90.0;10.0;90.0
+306;Hoogte van het inkomen: 3e 25%-groep;Totaal persoonskenmerken;2009;10.0;90.0;11.0;89.0
+307;Hoogte van het inkomen: 3e 25%-groep;Totaal persoonskenmerken;2010 oude methode;11.0;89.0;13.0;87.0
+308;Hoogte van het inkomen: 3e 25%-groep;Totaal persoonskenmerken;2010 nieuwe methode;14.0;86.0;14.0;86.0
+309;Hoogte van het inkomen: 3e 25%-groep;Totaal persoonskenmerken;2012;16.0;84.0;15.0;85.0
+310;Hoogte van het inkomen: 3e 25%-groep;Geslacht: mannen;2003;11.0;89.0;12.0;88.0
+311;Hoogte van het inkomen: 3e 25%-groep;Geslacht: mannen;2004;11.0;89.0;12.0;88.0
+312;Hoogte van het inkomen: 3e 25%-groep;Geslacht: mannen;2005;11.0;89.0;13.0;87.0
+313;Hoogte van het inkomen: 3e 25%-groep;Geslacht: mannen;2006;10.0;90.0;11.0;89.0
+314;Hoogte van het inkomen: 3e 25%-groep;Geslacht: mannen;2007;9.0;91.0;11.0;89.0
+315;Hoogte van het inkomen: 3e 25%-groep;Geslacht: mannen;2008;10.0;90.0;9.0;91.0
+316;Hoogte van het inkomen: 3e 25%-groep;Geslacht: mannen;2009;9.0;91.0;10.0;90.0
+317;Hoogte van het inkomen: 3e 25%-groep;Geslacht: mannen;2010 oude methode;10.0;90.0;11.0;89.0
+318;Hoogte van het inkomen: 3e 25%-groep;Geslacht: mannen;2010 nieuwe methode;12.0;88.0;14.0;86.0
+319;Hoogte van het inkomen: 3e 25%-groep;Geslacht: mannen;2012;17.0;83.0;16.0;84.0
+320;Hoogte van het inkomen: 3e 25%-groep;Geslacht: vrouwen;2003;11.0;89.0;12.0;88.0
+321;Hoogte van het inkomen: 3e 25%-groep;Geslacht: vrouwen;2004;11.0;89.0;12.0;88.0
+322;Hoogte van het inkomen: 3e 25%-groep;Geslacht: vrouwen;2005;11.0;89.0;12.0;88.0
+323;Hoogte van het inkomen: 3e 25%-groep;Geslacht: vrouwen;2006;12.0;88.0;13.0;87.0
+324;Hoogte van het inkomen: 3e 25%-groep;Geslacht: vrouwen;2007;12.0;88.0;12.0;88.0
+325;Hoogte van het inkomen: 3e 25%-groep;Geslacht: vrouwen;2008;10.0;90.0;11.0;89.0
+326;Hoogte van het inkomen: 3e 25%-groep;Geslacht: vrouwen;2009;10.0;90.0;12.0;88.0
+327;Hoogte van het inkomen: 3e 25%-groep;Geslacht: vrouwen;2010 oude methode;12.0;88.0;15.0;85.0
+328;Hoogte van het inkomen: 3e 25%-groep;Geslacht: vrouwen;2010 nieuwe methode;16.0;84.0;14.0;86.0
+329;Hoogte van het inkomen: 3e 25%-groep;Geslacht: vrouwen;2012;14.0;86.0;14.0;86.0
+330;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 18 tot 35 jaar;2003;7.0;93.0;9.0;91.0
+331;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 18 tot 35 jaar;2004;8.0;92.0;10.0;90.0
+332;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 18 tot 35 jaar;2005;9.0;91.0;13.0;87.0
+333;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 18 tot 35 jaar;2006;6.0;94.0;10.0;90.0
+334;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 18 tot 35 jaar;2007;8.0;92.0;8.0;92.0
+335;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 18 tot 35 jaar;2008;7.0;93.0;8.0;92.0
+336;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 18 tot 35 jaar;2009;8.0;92.0;11.0;89.0
+337;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 18 tot 35 jaar;2010 oude methode;7.0;93.0;8.0;92.0
+338;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 18 tot 35 jaar;2010 nieuwe methode;11.0;89.0;12.0;88.0
+339;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 18 tot 35 jaar;2012;11.0;89.0;12.0;88.0
+340;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 35 tot 50 jaar;2003;10.0;90.0;11.0;89.0
+341;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 35 tot 50 jaar;2004;9.0;91.0;12.0;88.0
+342;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 35 tot 50 jaar;2005;10.0;90.0;11.0;89.0
+343;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 35 tot 50 jaar;2006;11.0;89.0;13.0;87.0
+344;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 35 tot 50 jaar;2007;10.0;90.0;14.0;86.0
+345;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 35 tot 50 jaar;2008;9.0;91.0;11.0;89.0
+346;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 35 tot 50 jaar;2009;10.0;90.0;12.0;88.0
+347;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 35 tot 50 jaar;2010 oude methode;10.0;90.0;14.0;86.0
+348;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 35 tot 50 jaar;2010 nieuwe methode;14.0;86.0;13.0;87.0
+349;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 35 tot 50 jaar;2012;15.0;85.0;17.0;83.0
+350;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 50 tot 65 jaar;2003;14.0;86.0;13.0;87.0
+351;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 50 tot 65 jaar;2004;13.0;87.0;15.0;85.0
+352;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 50 tot 65 jaar;2005;12.0;88.0;14.0;86.0
+353;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 50 tot 65 jaar;2006;14.0;86.0;14.0;86.0
+354;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 50 tot 65 jaar;2007;14.0;86.0;12.0;88.0
+355;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 50 tot 65 jaar;2008;13.0;87.0;12.0;88.0
+356;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 50 tot 65 jaar;2009;10.0;90.0;12.0;88.0
+357;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 50 tot 65 jaar;2010 oude methode;13.0;87.0;15.0;85.0
+358;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 50 tot 65 jaar;2010 nieuwe methode;17.0;83.0;17.0;83.0
+359;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 50 tot 65 jaar;2012;22.0;78.0;19.0;81.0
+360;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 65 jaar of ouder;2003;16.0;84.0;15.0;85.0
+361;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 65 jaar of ouder;2004;16.0;84.0;11.0;89.0
+362;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 65 jaar of ouder;2005;16.0;84.0;10.0;90.0
+363;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 65 jaar of ouder;2006;14.0;86.0;11.0;89.0
+364;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 65 jaar of ouder;2007;15.0;85.0;11.0;89.0
+365;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 65 jaar of ouder;2008;11.0;89.0;11.0;89.0
+366;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 65 jaar of ouder;2009;11.0;89.0;9.0;91.0
+367;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 65 jaar of ouder;2010 oude methode;15.0;85.0;14.0;86.0
+368;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 65 jaar of ouder;2010 nieuwe methode;16.0;84.0;14.0;86.0
+369;Hoogte van het inkomen: 3e 25%-groep;Leeftijd: 65 jaar of ouder;2012;13.0;87.0;9.0;91.0
+370;Hoogte van het inkomen: 3e 25%-groep;Herkomst: autochtoon;2003;10.0;90.0;11.0;89.0
+371;Hoogte van het inkomen: 3e 25%-groep;Herkomst: autochtoon;2004;10.0;90.0;11.0;89.0
+372;Hoogte van het inkomen: 3e 25%-groep;Herkomst: autochtoon;2005;9.0;91.0;11.0;89.0
+373;Hoogte van het inkomen: 3e 25%-groep;Herkomst: autochtoon;2006;10.0;90.0;11.0;89.0
+374;Hoogte van het inkomen: 3e 25%-groep;Herkomst: autochtoon;2007;10.0;90.0;11.0;89.0
+375;Hoogte van het inkomen: 3e 25%-groep;Herkomst: autochtoon;2008;8.0;92.0;10.0;90.0
+376;Hoogte van het inkomen: 3e 25%-groep;Herkomst: autochtoon;2009;9.0;91.0;10.0;90.0
+377;Hoogte van het inkomen: 3e 25%-groep;Herkomst: autochtoon;2010 oude methode;10.0;90.0;11.0;89.0
+378;Hoogte van het inkomen: 3e 25%-groep;Herkomst: autochtoon;2010 nieuwe methode;13.0;87.0;13.0;87.0
+379;Hoogte van het inkomen: 3e 25%-groep;Herkomst: autochtoon;2012;15.0;85.0;15.0;85.0
+380;Hoogte van het inkomen: 3e 25%-groep;Herkomst: westerse allochtoon;2003;15.0;85.0;13.0;87.0
+381;Hoogte van het inkomen: 3e 25%-groep;Herkomst: westerse allochtoon;2004;14.0;86.0;14.0;86.0
+382;Hoogte van het inkomen: 3e 25%-groep;Herkomst: westerse allochtoon;2005;17.0;83.0;18.0;82.0
+383;Hoogte van het inkomen: 3e 25%-groep;Herkomst: westerse allochtoon;2006;11.0;89.0;16.0;84.0
+384;Hoogte van het inkomen: 3e 25%-groep;Herkomst: westerse allochtoon;2007;15.0;85.0;13.0;87.0
+385;Hoogte van het inkomen: 3e 25%-groep;Herkomst: westerse allochtoon;2008;13.0;87.0;16.0;84.0
+386;Hoogte van het inkomen: 3e 25%-groep;Herkomst: westerse allochtoon;2009;8.0;92.0;15.0;85.0
+387;Hoogte van het inkomen: 3e 25%-groep;Herkomst: westerse allochtoon;2010 oude methode;;;;
+388;Hoogte van het inkomen: 3e 25%-groep;Herkomst: westerse allochtoon;2010 nieuwe methode;;;18.0;82.0
+389;Hoogte van het inkomen: 3e 25%-groep;Herkomst: westerse allochtoon;2012;;;;
+390;Hoogte van het inkomen: 3e 25%-groep;Herkomst: niet-westerse allochtoon;2003;25.0;75.0;24.0;76.0
+391;Hoogte van het inkomen: 3e 25%-groep;Herkomst: niet-westerse allochtoon;2004;17.0;83.0;20.0;80.0
+392;Hoogte van het inkomen: 3e 25%-groep;Herkomst: niet-westerse allochtoon;2005;25.0;75.0;18.0;82.0
+393;Hoogte van het inkomen: 3e 25%-groep;Herkomst: niet-westerse allochtoon;2006;16.0;84.0;28.0;72.0
+394;Hoogte van het inkomen: 3e 25%-groep;Herkomst: niet-westerse allochtoon;2007;17.0;83.0;15.0;85.0
+395;Hoogte van het inkomen: 3e 25%-groep;Herkomst: niet-westerse allochtoon;2008;19.0;81.0;12.0;88.0
+396;Hoogte van het inkomen: 3e 25%-groep;Herkomst: niet-westerse allochtoon;2009;20.0;80.0;20.0;80.0
+397;Hoogte van het inkomen: 3e 25%-groep;Herkomst: niet-westerse allochtoon;2010 oude methode;;;;
+398;Hoogte van het inkomen: 3e 25%-groep;Herkomst: niet-westerse allochtoon;2010 nieuwe methode;;;;
+399;Hoogte van het inkomen: 3e 25%-groep;Herkomst: niet-westerse allochtoon;2012;;;;
+400;Hoogte van het inkomen: 4e 25%-groep;Totaal persoonskenmerken;2003;7.0;93.0;8.0;92.0
+401;Hoogte van het inkomen: 4e 25%-groep;Totaal persoonskenmerken;2004;8.0;92.0;9.0;91.0
+402;Hoogte van het inkomen: 4e 25%-groep;Totaal persoonskenmerken;2005;8.0;92.0;9.0;91.0
+403;Hoogte van het inkomen: 4e 25%-groep;Totaal persoonskenmerken;2006;6.0;94.0;8.0;92.0
+404;Hoogte van het inkomen: 4e 25%-groep;Totaal persoonskenmerken;2007;7.0;93.0;8.0;92.0
+405;Hoogte van het inkomen: 4e 25%-groep;Totaal persoonskenmerken;2008;8.0;92.0;7.0;93.0
+406;Hoogte van het inkomen: 4e 25%-groep;Totaal persoonskenmerken;2009;6.0;94.0;7.0;93.0
+407;Hoogte van het inkomen: 4e 25%-groep;Totaal persoonskenmerken;2010 oude methode;7.0;93.0;7.0;93.0
+408;Hoogte van het inkomen: 4e 25%-groep;Totaal persoonskenmerken;2010 nieuwe methode;11.0;89.0;10.0;90.0
+409;Hoogte van het inkomen: 4e 25%-groep;Totaal persoonskenmerken;2012;12.0;88.0;11.0;89.0
+410;Hoogte van het inkomen: 4e 25%-groep;Geslacht: mannen;2003;7.0;93.0;8.0;92.0
+411;Hoogte van het inkomen: 4e 25%-groep;Geslacht: mannen;2004;7.0;93.0;8.0;92.0
+412;Hoogte van het inkomen: 4e 25%-groep;Geslacht: mannen;2005;7.0;93.0;8.0;92.0
+413;Hoogte van het inkomen: 4e 25%-groep;Geslacht: mannen;2006;5.0;95.0;7.0;93.0
+414;Hoogte van het inkomen: 4e 25%-groep;Geslacht: mannen;2007;7.0;93.0;8.0;92.0
+415;Hoogte van het inkomen: 4e 25%-groep;Geslacht: mannen;2008;7.0;93.0;6.0;94.0
+416;Hoogte van het inkomen: 4e 25%-groep;Geslacht: mannen;2009;5.0;95.0;7.0;93.0
+417;Hoogte van het inkomen: 4e 25%-groep;Geslacht: mannen;2010 oude methode;6.0;94.0;6.0;94.0
+418;Hoogte van het inkomen: 4e 25%-groep;Geslacht: mannen;2010 nieuwe methode;9.0;91.0;9.0;91.0
+419;Hoogte van het inkomen: 4e 25%-groep;Geslacht: mannen;2012;12.0;88.0;11.0;89.0
+420;Hoogte van het inkomen: 4e 25%-groep;Geslacht: vrouwen;2003;8.0;92.0;8.0;92.0
+421;Hoogte van het inkomen: 4e 25%-groep;Geslacht: vrouwen;2004;9.0;91.0;10.0;90.0
+422;Hoogte van het inkomen: 4e 25%-groep;Geslacht: vrouwen;2005;9.0;91.0;9.0;91.0
+423;Hoogte van het inkomen: 4e 25%-groep;Geslacht: vrouwen;2006;8.0;92.0;9.0;91.0
+424;Hoogte van het inkomen: 4e 25%-groep;Geslacht: vrouwen;2007;7.0;93.0;9.0;91.0
+425;Hoogte van het inkomen: 4e 25%-groep;Geslacht: vrouwen;2008;8.0;92.0;7.0;93.0
+426;Hoogte van het inkomen: 4e 25%-groep;Geslacht: vrouwen;2009;7.0;93.0;7.0;93.0
+427;Hoogte van het inkomen: 4e 25%-groep;Geslacht: vrouwen;2010 oude methode;8.0;92.0;7.0;93.0
+428;Hoogte van het inkomen: 4e 25%-groep;Geslacht: vrouwen;2010 nieuwe methode;13.0;87.0;10.0;90.0
+429;Hoogte van het inkomen: 4e 25%-groep;Geslacht: vrouwen;2012;11.0;89.0;11.0;89.0
+430;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 18 tot 35 jaar;2003;5.0;95.0;7.0;93.0
+431;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 18 tot 35 jaar;2004;6.0;94.0;9.0;91.0
+432;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 18 tot 35 jaar;2005;6.0;94.0;7.0;93.0
+433;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 18 tot 35 jaar;2006;5.0;95.0;7.0;93.0
+434;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 18 tot 35 jaar;2007;7.0;93.0;7.0;93.0
+435;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 18 tot 35 jaar;2008;5.0;95.0;6.0;94.0
+436;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 18 tot 35 jaar;2009;4.0;96.0;5.0;95.0
+437;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 18 tot 35 jaar;2010 oude methode;4.0;96.0;5.0;95.0
+438;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 18 tot 35 jaar;2010 nieuwe methode;9.0;91.0;8.0;92.0
+439;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 18 tot 35 jaar;2012;7.0;93.0;9.0;91.0
+440;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 35 tot 50 jaar;2003;6.0;94.0;7.0;93.0
+441;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 35 tot 50 jaar;2004;8.0;92.0;8.0;92.0
+442;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 35 tot 50 jaar;2005;8.0;92.0;11.0;89.0
+443;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 35 tot 50 jaar;2006;5.0;95.0;7.0;93.0
+444;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 35 tot 50 jaar;2007;5.0;95.0;7.0;93.0
+445;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 35 tot 50 jaar;2008;7.0;93.0;7.0;93.0
+446;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 35 tot 50 jaar;2009;5.0;95.0;9.0;91.0
+447;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 35 tot 50 jaar;2010 oude methode;7.0;93.0;7.0;93.0
+448;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 35 tot 50 jaar;2010 nieuwe methode;10.0;90.0;10.0;90.0
+449;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 35 tot 50 jaar;2012;7.0;93.0;9.0;91.0
+450;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 50 tot 65 jaar;2003;8.0;92.0;9.0;91.0
+451;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 50 tot 65 jaar;2004;9.0;91.0;8.0;92.0
+452;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 50 tot 65 jaar;2005;8.0;92.0;8.0;92.0
+453;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 50 tot 65 jaar;2006;6.0;94.0;8.0;92.0
+454;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 50 tot 65 jaar;2007;8.0;92.0;10.0;90.0
+455;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 50 tot 65 jaar;2008;8.0;92.0;6.0;94.0
+456;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 50 tot 65 jaar;2009;6.0;94.0;6.0;94.0
+457;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 50 tot 65 jaar;2010 oude methode;8.0;92.0;7.0;93.0
+458;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 50 tot 65 jaar;2010 nieuwe methode;12.0;88.0;10.0;90.0
+459;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 50 tot 65 jaar;2012;16.0;84.0;14.0;86.0
+460;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 65 jaar of ouder;2003;14.0;86.0;11.0;89.0
+461;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 65 jaar of ouder;2004;12.0;88.0;11.0;89.0
+462;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 65 jaar of ouder;2005;12.0;88.0;10.0;90.0
+463;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 65 jaar of ouder;2006;10.0;90.0;9.0;91.0
+464;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 65 jaar of ouder;2007;11.0;89.0;10.0;90.0
+465;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 65 jaar of ouder;2008;12.0;88.0;7.0;93.0
+466;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 65 jaar of ouder;2009;9.0;91.0;9.0;91.0
+467;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 65 jaar of ouder;2010 oude methode;10.0;90.0;8.0;92.0
+468;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 65 jaar of ouder;2010 nieuwe methode;18.0;82.0;12.0;88.0
+469;Hoogte van het inkomen: 4e 25%-groep;Leeftijd: 65 jaar of ouder;2012;16.0;84.0;9.0;91.0
+470;Hoogte van het inkomen: 4e 25%-groep;Herkomst: autochtoon;2003;7.0;93.0;8.0;92.0
+471;Hoogte van het inkomen: 4e 25%-groep;Herkomst: autochtoon;2004;8.0;92.0;8.0;92.0
+472;Hoogte van het inkomen: 4e 25%-groep;Herkomst: autochtoon;2005;8.0;92.0;8.0;92.0
+473;Hoogte van het inkomen: 4e 25%-groep;Herkomst: autochtoon;2006;6.0;94.0;7.0;93.0
+474;Hoogte van het inkomen: 4e 25%-groep;Herkomst: autochtoon;2007;6.0;94.0;8.0;92.0
+475;Hoogte van het inkomen: 4e 25%-groep;Herkomst: autochtoon;2008;7.0;93.0;6.0;94.0
+476;Hoogte van het inkomen: 4e 25%-groep;Herkomst: autochtoon;2009;6.0;94.0;7.0;93.0
+477;Hoogte van het inkomen: 4e 25%-groep;Herkomst: autochtoon;2010 oude methode;6.0;94.0;5.0;95.0
+478;Hoogte van het inkomen: 4e 25%-groep;Herkomst: autochtoon;2010 nieuwe methode;11.0;89.0;9.0;91.0
+479;Hoogte van het inkomen: 4e 25%-groep;Herkomst: autochtoon;2012;11.0;89.0;10.0;90.0
+480;Hoogte van het inkomen: 4e 25%-groep;Herkomst: westerse allochtoon;2003;11.0;89.0;9.0;91.0
+481;Hoogte van het inkomen: 4e 25%-groep;Herkomst: westerse allochtoon;2004;10.0;90.0;12.0;88.0
+482;Hoogte van het inkomen: 4e 25%-groep;Herkomst: westerse allochtoon;2005;10.0;90.0;10.0;90.0
+483;Hoogte van het inkomen: 4e 25%-groep;Herkomst: westerse allochtoon;2006;10.0;90.0;10.0;90.0
+484;Hoogte van het inkomen: 4e 25%-groep;Herkomst: westerse allochtoon;2007;14.0;86.0;16.0;84.0
+485;Hoogte van het inkomen: 4e 25%-groep;Herkomst: westerse allochtoon;2008;11.0;89.0;11.0;89.0
+486;Hoogte van het inkomen: 4e 25%-groep;Herkomst: westerse allochtoon;2009;4.0;96.0;9.0;91.0
+487;Hoogte van het inkomen: 4e 25%-groep;Herkomst: westerse allochtoon;2010 oude methode;;;;
+488;Hoogte van het inkomen: 4e 25%-groep;Herkomst: westerse allochtoon;2010 nieuwe methode;15.0;85.0;12.0;88.0
+489;Hoogte van het inkomen: 4e 25%-groep;Herkomst: westerse allochtoon;2012;;;;
+490;Hoogte van het inkomen: 4e 25%-groep;Herkomst: niet-westerse allochtoon;2003;9.0;91.0;10.0;90.0
+491;Hoogte van het inkomen: 4e 25%-groep;Herkomst: niet-westerse allochtoon;2004;12.0;88.0;14.0;86.0
+492;Hoogte van het inkomen: 4e 25%-groep;Herkomst: niet-westerse allochtoon;2005;;;;
+493;Hoogte van het inkomen: 4e 25%-groep;Herkomst: niet-westerse allochtoon;2006;9.0;91.0;18.0;82.0
+494;Hoogte van het inkomen: 4e 25%-groep;Herkomst: niet-westerse allochtoon;2007;;;;
+495;Hoogte van het inkomen: 4e 25%-groep;Herkomst: niet-westerse allochtoon;2008;14.0;86.0;9.0;91.0
+496;Hoogte van het inkomen: 4e 25%-groep;Herkomst: niet-westerse allochtoon;2009;8.0;92.0;15.0;85.0
+497;Hoogte van het inkomen: 4e 25%-groep;Herkomst: niet-westerse allochtoon;2010 oude methode;;;;
+498;Hoogte van het inkomen: 4e 25%-groep;Herkomst: niet-westerse allochtoon;2010 nieuwe methode;;;;
+499;Hoogte van het inkomen: 4e 25%-groep;Herkomst: niet-westerse allochtoon;2012;;;;
+500;123;Totaal persoonskenmerken;2003;22.0;78.0;22.0;78.0
+501;123;Totaal persoonskenmerken;2004;22.0;78.0;21.0;79.0
+502;123;Totaal persoonskenmerken;2005;23.0;77.0;22.0;78.0
+503;123;Totaal persoonskenmerken;2006;21.0;79.0;22.0;78.0
+504;123;Totaal persoonskenmerken;2007;22.0;78.0;22.0;78.0
+505;123;Totaal persoonskenmerken;2008;22.0;78.0;23.0;77.0
+506;123;Totaal persoonskenmerken;2009;22.0;78.0;23.0;77.0
+507;123;Totaal persoonskenmerken;2010 oude methode;24.0;76.0;23.0;77.0
+508;123;Totaal persoonskenmerken;2010 nieuwe methode;28.0;72.0;26.0;74.0
+509;123;Totaal persoonskenmerken;2012;;;;
+510;123;Geslacht: mannen;2003;20.0;80.0;20.0;80.0
+511;123;Geslacht: mannen;2004;21.0;79.0;21.0;79.0
+512;123;Geslacht: mannen;2005;21.0;79.0;22.0;78.0
+513;123;Geslacht: mannen;2006;19.0;81.0;22.0;78.0
+514;123;Geslacht: mannen;2007;22.0;78.0;22.0;78.0
+515;123;Geslacht: mannen;2008;23.0;77.0;22.0;78.0
+516;123;Geslacht: mannen;2009;20.0;80.0;23.0;77.0
+517;123;Geslacht: mannen;2010 oude methode;20.0;80.0;23.0;77.0
+518;123;Geslacht: mannen;2010 nieuwe methode;25.0;75.0;26.0;74.0
+519;123;Geslacht: mannen;2012;;;;
+520;123;Geslacht: vrouwen;2003;23.0;77.0;24.0;76.0
+521;123;Geslacht: vrouwen;2004;24.0;76.0;21.0;79.0
+522;123;Geslacht: vrouwen;2005;25.0;75.0;23.0;77.0
+523;123;Geslacht: vrouwen;2006;22.0;78.0;21.0;79.0
+524;123;Geslacht: vrouwen;2007;23.0;77.0;22.0;78.0
+525;123;Geslacht: vrouwen;2008;21.0;79.0;23.0;77.0
+526;123;Geslacht: vrouwen;2009;24.0;76.0;23.0;77.0
+527;123;Geslacht: vrouwen;2010 oude methode;29.0;71.0;23.0;77.0
+528;123;Geslacht: vrouwen;2010 nieuwe methode;31.0;69.0;26.0;74.0
+529;123;Geslacht: vrouwen;2012;;;;
+530;123;Leeftijd: 18 tot 35 jaar;2003;16.0;84.0;19.0;81.0
+531;123;Leeftijd: 18 tot 35 jaar;2004;17.0;83.0;20.0;80.0
+532;123;Leeftijd: 18 tot 35 jaar;2005;19.0;81.0;23.0;77.0
+533;123;Leeftijd: 18 tot 35 jaar;2006;15.0;85.0;19.0;81.0
+534;123;Leeftijd: 18 tot 35 jaar;2007;17.0;83.0;19.0;81.0
+535;123;Leeftijd: 18 tot 35 jaar;2008;15.0;85.0;19.0;81.0
+536;123;Leeftijd: 18 tot 35 jaar;2009;18.0;82.0;21.0;79.0
+537;123;Leeftijd: 18 tot 35 jaar;2010 oude methode;16.0;84.0;18.0;82.0
+538;123;Leeftijd: 18 tot 35 jaar;2010 nieuwe methode;24.0;76.0;25.0;75.0
+539;123;Leeftijd: 18 tot 35 jaar;2012;;;;
+540;123;Leeftijd: 35 tot 50 jaar;2003;25.0;75.0;29.0;71.0
+541;123;Leeftijd: 35 tot 50 jaar;2004;25.0;75.0;26.0;74.0
+542;123;Leeftijd: 35 tot 50 jaar;2005;23.0;77.0;25.0;75.0
+543;123;Leeftijd: 35 tot 50 jaar;2006;21.0;79.0;24.0;76.0
+544;123;Leeftijd: 35 tot 50 jaar;2007;23.0;77.0;24.0;76.0
+545;123;Leeftijd: 35 tot 50 jaar;2008;24.0;76.0;26.0;74.0
+546;123;Leeftijd: 35 tot 50 jaar;2009;23.0;77.0;27.0;73.0
+547;123;Leeftijd: 35 tot 50 jaar;2010 oude methode;21.0;79.0;27.0;73.0
+548;123;Leeftijd: 35 tot 50 jaar;2010 nieuwe methode;29.0;71.0;30.0;70.0
+549;123;Leeftijd: 35 tot 50 jaar;2012;;;;
+550;123;Leeftijd: 50 tot 65 jaar;2003;21.0;79.0;21.0;79.0
+551;123;Leeftijd: 50 tot 65 jaar;2004;23.0;77.0;22.0;78.0
+552;123;Leeftijd: 50 tot 65 jaar;2005;26.0;74.0;26.0;74.0
+553;123;Leeftijd: 50 tot 65 jaar;2006;25.0;75.0;27.0;73.0
+554;123;Leeftijd: 50 tot 65 jaar;2007;26.0;74.0;24.0;76.0
+555;123;Leeftijd: 50 tot 65 jaar;2008;28.0;72.0;28.0;72.0
+556;123;Leeftijd: 50 tot 65 jaar;2009;23.0;77.0;24.0;76.0
+557;123;Leeftijd: 50 tot 65 jaar;2010 oude methode;27.0;73.0;28.0;72.0
+558;123;Leeftijd: 50 tot 65 jaar;2010 nieuwe methode;31.0;69.0;29.0;71.0
+559;123;Leeftijd: 50 tot 65 jaar;2012;;;;
+560;123;Leeftijd: 65 jaar of ouder;2003;25.0;75.0;21.0;79.0
+561;123;Leeftijd: 65 jaar of ouder;2004;24.0;76.0;18.0;82.0
+562;123;Leeftijd: 65 jaar of ouder;2005;23.0;77.0;17.0;83.0
+563;123;Leeftijd: 65 jaar of ouder;2006;22.0;78.0;18.0;82.0
+564;123;Leeftijd: 65 jaar of ouder;2007;23.0;77.0;20.0;80.0
+565;123;Leeftijd: 65 jaar of ouder;2008;21.0;79.0;18.0;82.0
+566;123;Leeftijd: 65 jaar of ouder;2009;24.0;76.0;20.0;80.0
+567;123;Leeftijd: 65 jaar of ouder;2010 oude methode;30.0;70.0;21.0;79.0
+568;123;Leeftijd: 65 jaar of ouder;2010 nieuwe methode;28.0;72.0;21.0;79.0
+569;123;Leeftijd: 65 jaar of ouder;2012;;;;
+570;123;Herkomst: autochtoon;2003;19.0;81.0;20.0;80.0
+571;123;Herkomst: autochtoon;2004;20.0;80.0;19.0;80.0
+572;123;Herkomst: autochtoon;2005;19.0;81.0;20.0;80.0
+573;123;Herkomst: autochtoon;2006;18.0;82.0;19.0;81.0
+574;123;Herkomst: autochtoon;2007;20.0;80.0;20.0;80.0
+575;123;Herkomst: autochtoon;2008;20.0;80.0;21.0;79.0
+576;123;Herkomst: autochtoon;2009;20.0;80.0;20.0;80.0
+577;123;Herkomst: autochtoon;2010 oude methode;23.0;77.0;21.0;79.0
+578;123;Herkomst: autochtoon;2010 nieuwe methode;27.0;73.0;25.0;75.0
+579;123;Herkomst: autochtoon;2012;;;;
+580;123;Herkomst: westerse allochtoon;2003;27.0;73.0;26.0;74.0
+581;123;Herkomst: westerse allochtoon;2004;25.0;75.0;23.0;77.0
+582;123;Herkomst: westerse allochtoon;2005;31.0;69.0;23.0;77.0
+583;123;Herkomst: westerse allochtoon;2006;24.0;76.0;27.0;73.0
+584;123;Herkomst: westerse allochtoon;2007;24.0;76.0;27.0;73.0
+585;123;Herkomst: westerse allochtoon;2008;27.0;73.0;32.0;68.0
+586;123;Herkomst: westerse allochtoon;2009;21.0;79.0;26.0;74.0
+587;123;Herkomst: westerse allochtoon;2010 oude methode;;;;
+588;123;Herkomst: westerse allochtoon;2010 nieuwe methode;;;;
+589;123;Herkomst: westerse allochtoon;2012;;;;
+590;123;Herkomst: niet-westerse allochtoon;2003;35.0;65.0;33.0;67.0
+591;123;Herkomst: niet-westerse allochtoon;2004;38.0;62.0;36.0;64.0
+592;123;Herkomst: niet-westerse allochtoon;2005;41.0;59.0;37.0;63.0
+593;123;Herkomst: niet-westerse allochtoon;2006;32.0;68.0;35.0;65.0
+594;123;Herkomst: niet-westerse allochtoon;2007;35.0;65.0;29.0;71.0
+595;123;Herkomst: niet-westerse allochtoon;2008;30.0;70.0;26.0;74.0
+596;123;Herkomst: niet-westerse allochtoon;2009;37.0;63.0;36.0;64.0
+597;123;Herkomst: niet-westerse allochtoon;2010 oude methode;;;;
+598;123;Herkomst: niet-westerse allochtoon;2010 nieuwe methode;36.0;64.0;30.0;70.0
+599;123;Herkomst: niet-westerse allochtoon;2012;;;;
+600;456;Totaal persoonskenmerken;2003;12.0;88.0;12.0;88.0
+601;456;Totaal persoonskenmerken;2004;12.0;88.0;13.0;87.0
+602;456;Totaal persoonskenmerken;2005;12.0;88.0;14.0;86.0
+603;456;Totaal persoonskenmerken;2006;11.0;89.0;14.0;86.0
+604;456;Totaal persoonskenmerken;2007;12.0;88.0;12.0;88.0
+605;456;Totaal persoonskenmerken;2008;12.0;88.0;11.0;89.0
+606;456;Totaal persoonskenmerken;2009;11.0;89.0;13.0;87.0
+607;456;Totaal persoonskenmerken;2010 oude methode;13.0;87.0;15.0;85.0
+608;456;Totaal persoonskenmerken;2010 nieuwe methode;16.0;84.0;16.0;84.0
+609;456;Totaal persoonskenmerken;2012;;;;
+610;456;Geslacht: mannen;2003;11.0;89.0;12.0;88.0
+611;456;Geslacht: mannen;2004;10.0;90.0;13.0;87.0
+612;456;Geslacht: mannen;2005;12.0;88.0;15.0;85.0
+613;456;Geslacht: mannen;2006;9.0;91.0;12.0;88.0
+614;456;Geslacht: mannen;2007;10.0;90.0;12.0;88.0
+615;456;Geslacht: mannen;2008;13.0;87.0;11.0;89.0
+616;456;Geslacht: mannen;2009;10.0;90.0;12.0;88.0
+617;456;Geslacht: mannen;2010 oude methode;12.0;88.0;15.0;85.0
+618;456;Geslacht: mannen;2010 nieuwe methode;14.0;86.0;15.0;85.0
+619;456;Geslacht: mannen;2012;;;;
+620;456;Geslacht: vrouwen;2003;13.0;87.0;12.0;88.0
+621;456;Geslacht: vrouwen;2004;13.0;87.0;14.0;86.0
+622;456;Geslacht: vrouwen;2005;12.0;88.0;14.0;86.0
+623;456;Geslacht: vrouwen;2006;13.0;87.0;15.0;85.0
+624;456;Geslacht: vrouwen;2007;13.0;87.0;13.0;87.0
+625;456;Geslacht: vrouwen;2008;11.0;89.0;12.0;88.0
+626;456;Geslacht: vrouwen;2009;12.0;88.0;13.0;87.0
+627;456;Geslacht: vrouwen;2010 oude methode;13.0;87.0;15.0;85.0
+628;456;Geslacht: vrouwen;2010 nieuwe methode;18.0;82.0;17.0;83.0
+629;456;Geslacht: vrouwen;2012;;;;
+630;456;Leeftijd: 18 tot 35 jaar;2003;9.0;91.0;11.0;89.0
+631;456;Leeftijd: 18 tot 35 jaar;2004;8.0;92.0;12.0;88.0
+632;456;Leeftijd: 18 tot 35 jaar;2005;10.0;90.0;13.0;87.0
+633;456;Leeftijd: 18 tot 35 jaar;2006;8.0;92.0;11.0;89.0
+634;456;Leeftijd: 18 tot 35 jaar;2007;9.0;91.0;9.0;91.0
+635;456;Leeftijd: 18 tot 35 jaar;2008;7.0;93.0;9.0;91.0
+636;456;Leeftijd: 18 tot 35 jaar;2009;9.0;91.0;10.0;90.0
+637;456;Leeftijd: 18 tot 35 jaar;2010 oude methode;10.0;90.0;14.0;86.0
+638;456;Leeftijd: 18 tot 35 jaar;2010 nieuwe methode;13.0;87.0;14.0;86.0
+639;456;Leeftijd: 18 tot 35 jaar;2012;;;;
+640;456;Leeftijd: 35 tot 50 jaar;2003;12.0;88.0;13.0;87.0
+641;456;Leeftijd: 35 tot 50 jaar;2004;11.0;89.0;15.0;85.0
+642;456;Leeftijd: 35 tot 50 jaar;2005;12.0;88.0;14.0;86.0
+643;456;Leeftijd: 35 tot 50 jaar;2006;12.0;88.0;16.0;84.0
+644;456;Leeftijd: 35 tot 50 jaar;2007;11.0;89.0;15.0;85.0
+645;456;Leeftijd: 35 tot 50 jaar;2008;15.0;85.0;14.0;86.0
+646;456;Leeftijd: 35 tot 50 jaar;2009;14.0;86.0;16.0;84.0
+647;456;Leeftijd: 35 tot 50 jaar;2010 oude methode;14.0;86.0;18.0;82.0
+648;456;Leeftijd: 35 tot 50 jaar;2010 nieuwe methode;17.0;83.0;18.0;82.0
+649;456;Leeftijd: 35 tot 50 jaar;2012;;;;
+650;456;Leeftijd: 50 tot 65 jaar;2003;16.0;84.0;14.0;86.0
+651;456;Leeftijd: 50 tot 65 jaar;2004;15.0;85.0;15.0;85.0
+652;456;Leeftijd: 50 tot 65 jaar;2005;15.0;85.0;20.0;80.0
+653;456;Leeftijd: 50 tot 65 jaar;2006;14.0;86.0;16.0;84.0
+654;456;Leeftijd: 50 tot 65 jaar;2007;16.0;84.0;15.0;85.0
+655;456;Leeftijd: 50 tot 65 jaar;2008;14.0;86.0;12.0;88.0
+656;456;Leeftijd: 50 tot 65 jaar;2009;11.0;89.0;13.0;87.0
+657;456;Leeftijd: 50 tot 65 jaar;2010 oude methode;15.0;85.0;14.0;86.0
+658;456;Leeftijd: 50 tot 65 jaar;2010 nieuwe methode;17.0;83.0;16.0;84.0
+659;456;Leeftijd: 50 tot 65 jaar;2012;;;;
+660;456;Leeftijd: 65 jaar of ouder;2003;16.0;84.0;12.0;88.0
+661;456;Leeftijd: 65 jaar of ouder;2004;15.0;85.0;10.0;90.0
+662;456;Leeftijd: 65 jaar of ouder;2005;11.0;89.0;9.0;91.0
+663;456;Leeftijd: 65 jaar of ouder;2006;12.0;88.0;10.0;90.0
+664;456;Leeftijd: 65 jaar of ouder;2007;12.0;88.0;9.0;91.0
+665;456;Leeftijd: 65 jaar of ouder;2008;13.0;87.0;9.0;91.0
+666;456;Leeftijd: 65 jaar of ouder;2009;12.0;88.0;10.0;90.0
+667;456;Leeftijd: 65 jaar of ouder;2010 oude methode;12.0;88.0;12.0;88.0
+668;456;Leeftijd: 65 jaar of ouder;2010 nieuwe methode;19.0;81.0;16.0;84.0
+669;456;Leeftijd: 65 jaar of ouder;2012;;;;
+670;456;Herkomst: autochtoon;2003;10.0;90.0;11.0;89.0
+671;456;Herkomst: autochtoon;2004;10.0;90.0;11.0;89.0
+672;456;Herkomst: autochtoon;2005;10.0;90.0;13.0;87.0
+673;456;Herkomst: autochtoon;2006;10.0;90.0;12.0;88.0
+674;456;Herkomst: autochtoon;2007;10.0;90.0;11.0;89.0
+675;456;Herkomst: autochtoon;2008;10.0;90.0;10.0;90.0
+676;456;Herkomst: autochtoon;2009;10.0;90.0;11.0;89.0
+677;456;Herkomst: autochtoon;2010 oude methode;9.0;91.0;14.0;86.0
+678;456;Herkomst: autochtoon;2010 nieuwe methode;15.0;85.0;15.0;85.0
+679;456;Herkomst: autochtoon;2012;;;;
+680;456;Herkomst: westerse allochtoon;2003;18.0;82.0;17.0;83.0
+681;456;Herkomst: westerse allochtoon;2004;13.0;87.0;16.0;84.0
+682;456;Herkomst: westerse allochtoon;2005;18.0;82.0;15.0;85.0
+683;456;Herkomst: westerse allochtoon;2006;14.0;86.0;16.0;84.0
+684;456;Herkomst: westerse allochtoon;2007;13.0;87.0;15.0;85.0
+685;456;Herkomst: westerse allochtoon;2008;13.0;87.0;17.0;83.0
+686;456;Herkomst: westerse allochtoon;2009;13.0;87.0;15.0;85.0
+687;456;Herkomst: westerse allochtoon;2010 oude methode;;;;
+688;456;Herkomst: westerse allochtoon;2010 nieuwe methode;20.0;80.0;20.0;80.0
+689;456;Herkomst: westerse allochtoon;2012;;;;
+690;456;Herkomst: niet-westerse allochtoon;2003;24.0;76.0;20.0;80.0
+691;456;Herkomst: niet-westerse allochtoon;2004;24.0;76.0;25.0;75.0
+692;456;Herkomst: niet-westerse allochtoon;2005;20.0;80.0;23.0;77.0
+693;456;Herkomst: niet-westerse allochtoon;2006;19.0;81.0;24.0;76.0
+694;456;Herkomst: niet-westerse allochtoon;2007;22.0;78.0;18.0;82.0
+695;456;Herkomst: niet-westerse allochtoon;2008;27.0;73.0;18.0;82.0
+696;456;Herkomst: niet-westerse allochtoon;2009;18.0;82.0;21.0;79.0
+697;456;Herkomst: niet-westerse allochtoon;2010 oude methode;24.0;76.0;17.0;83.0
+698;456;Herkomst: niet-westerse allochtoon;2010 nieuwe methode;21.0;79.0;18.0;82.0
+699;456;Herkomst: niet-westerse allochtoon;2012;;;;
+700;789;Totaal persoonskenmerken;2003;7.0;93.0;8.0;92.0
+701;789;Totaal persoonskenmerken;2004;7.0;93.0;9.0;91.0
+702;789;Totaal persoonskenmerken;2005;8.0;92.0;8.0;92.0
+703;789;Totaal persoonskenmerken;2006;6.0;94.0;8.0;92.0
+704;789;Totaal persoonskenmerken;2007;7.0;93.0;8.0;92.0
+705;789;Totaal persoonskenmerken;2008;6.0;94.0;6.0;94.0
+706;789;Totaal persoonskenmerken;2009;6.0;94.0;7.0;93.0
+707;789;Totaal persoonskenmerken;2010 oude methode;6.0;94.0;7.0;93.0
+708;789;Totaal persoonskenmerken;2010 nieuwe methode;9.0;91.0;9.0;91.0
+709;789;Totaal persoonskenmerken;2012;;;;
+710;789;Geslacht: mannen;2003;7.0;93.0;8.0;92.0
+711;789;Geslacht: mannen;2004;7.0;93.0;8.0;92.0
+712;789;Geslacht: mannen;2005;8.0;92.0;8.0;92.0
+713;789;Geslacht: mannen;2006;5.0;95.0;7.0;93.0
+714;789;Geslacht: mannen;2007;6.0;94.0;6.0;94.0
+715;789;Geslacht: mannen;2008;5.0;95.0;5.0;95.0
+716;789;Geslacht: mannen;2009;4.0;96.0;6.0;94.0
+717;789;Geslacht: mannen;2010 oude methode;5.0;95.0;6.0;94.0
+718;789;Geslacht: mannen;2010 nieuwe methode;8.0;92.0;8.0;92.0
+719;789;Geslacht: mannen;2012;;;;
+720;789;Geslacht: vrouwen;2003;7.0;93.0;9.0;91.0
+721;789;Geslacht: vrouwen;2004;8.0;92.0;10.0;90.0
+722;789;Geslacht: vrouwen;2005;8.0;92.0;8.0;92.0
+723;789;Geslacht: vrouwen;2006;8.0;92.0;9.0;91.0
+724;789;Geslacht: vrouwen;2007;8.0;92.0;9.0;91.0
+725;789;Geslacht: vrouwen;2008;7.0;93.0;7.0;93.0
+726;789;Geslacht: vrouwen;2009;7.0;93.0;8.0;92.0
+727;789;Geslacht: vrouwen;2010 oude methode;7.0;93.0;9.0;91.0
+728;789;Geslacht: vrouwen;2010 nieuwe methode;11.0;89.0;9.0;91.0
+729;789;Geslacht: vrouwen;2012;;;;
+730;789;Leeftijd: 18 tot 35 jaar;2003;5.0;95.0;7.0;93.0
+731;789;Leeftijd: 18 tot 35 jaar;2004;6.0;94.0;8.0;92.0
+732;789;Leeftijd: 18 tot 35 jaar;2005;6.0;94.0;8.0;92.0
+733;789;Leeftijd: 18 tot 35 jaar;2006;4.0;96.0;9.0;91.0
+734;789;Leeftijd: 18 tot 35 jaar;2007;6.0;94.0;7.0;93.0
+735;789;Leeftijd: 18 tot 35 jaar;2008;4.0;96.0;5.0;95.0
+736;789;Leeftijd: 18 tot 35 jaar;2009;5.0;95.0;7.0;93.0
+737;789;Leeftijd: 18 tot 35 jaar;2010 oude methode;4.0;96.0;5.0;95.0
+738;789;Leeftijd: 18 tot 35 jaar;2010 nieuwe methode;9.0;91.0;8.0;92.0
+739;789;Leeftijd: 18 tot 35 jaar;2012;;;;
+740;789;Leeftijd: 35 tot 50 jaar;2003;7.0;93.0;8.0;92.0
+741;789;Leeftijd: 35 tot 50 jaar;2004;7.0;93.0;9.0;91.0
+742;789;Leeftijd: 35 tot 50 jaar;2005;8.0;92.0;8.0;92.0
+743;789;Leeftijd: 35 tot 50 jaar;2006;7.0;93.0;9.0;91.0
+744;789;Leeftijd: 35 tot 50 jaar;2007;5.0;95.0;7.0;93.0
+745;789;Leeftijd: 35 tot 50 jaar;2008;6.0;94.0;7.0;93.0
+746;789;Leeftijd: 35 tot 50 jaar;2009;4.0;96.0;8.0;92.0
+747;789;Leeftijd: 35 tot 50 jaar;2010 oude methode;6.0;94.0;9.0;91.0
+748;789;Leeftijd: 35 tot 50 jaar;2010 nieuwe methode;9.0;91.0;8.0;92.0
+749;789;Leeftijd: 35 tot 50 jaar;2012;;;;
+750;789;Leeftijd: 50 tot 65 jaar;2003;9.0;91.0;10.0;90.0
+751;789;Leeftijd: 50 tot 65 jaar;2004;8.0;92.0;10.0;90.0
+752;789;Leeftijd: 50 tot 65 jaar;2005;9.0;91.0;8.0;92.0
+753;789;Leeftijd: 50 tot 65 jaar;2006;7.0;93.0;8.0;92.0
+754;789;Leeftijd: 50 tot 65 jaar;2007;8.0;92.0;9.0;91.0
+755;789;Leeftijd: 50 tot 65 jaar;2008;6.0;94.0;6.0;94.0
+756;789;Leeftijd: 50 tot 65 jaar;2009;6.0;94.0;7.0;93.0
+757;789;Leeftijd: 50 tot 65 jaar;2010 oude methode;7.0;93.0;9.0;91.0
+758;789;Leeftijd: 50 tot 65 jaar;2010 nieuwe methode;9.0;91.0;10.0;90.0
+759;789;Leeftijd: 50 tot 65 jaar;2012;;;;
+760;789;Leeftijd: 65 jaar of ouder;2003;10.0;90.0;8.0;92.0
+761;789;Leeftijd: 65 jaar of ouder;2004;9.0;91.0;8.0;92.0
+762;789;Leeftijd: 65 jaar of ouder;2005;11.0;89.0;9.0;91.0
+763;789;Leeftijd: 65 jaar of ouder;2006;9.0;91.0;6.0;94.0
+764;789;Leeftijd: 65 jaar of ouder;2007;9.0;91.0;9.0;91.0
+765;789;Leeftijd: 65 jaar of ouder;2008;7.0;93.0;6.0;94.0
+766;789;Leeftijd: 65 jaar of ouder;2009;8.0;92.0;7.0;93.0
+767;789;Leeftijd: 65 jaar of ouder;2010 oude methode;6.0;94.0;5.0;95.0
+768;789;Leeftijd: 65 jaar of ouder;2010 nieuwe methode;11.0;89.0;9.0;91.0
+769;789;Leeftijd: 65 jaar of ouder;2012;;;;
+770;789;Herkomst: autochtoon;2003;7.0;93.0;8.0;92.0
+771;789;Herkomst: autochtoon;2004;7.0;93.0;8.0;92.0
+772;789;Herkomst: autochtoon;2005;7.0;93.0;7.0;93.0
+773;789;Herkomst: autochtoon;2006;6.0;94.0;7.0;93.0
+774;789;Herkomst: autochtoon;2007;6.0;94.0;7.0;93.0
+775;789;Herkomst: autochtoon;2008;5.0;95.0;6.0;94.0
+776;789;Herkomst: autochtoon;2009;5.0;95.0;6.0;94.0
+777;789;Herkomst: autochtoon;2010 oude methode;6.0;94.0;7.0;93.0
+778;789;Herkomst: autochtoon;2010 nieuwe methode;8.0;92.0;8.0;92.0
+779;789;Herkomst: autochtoon;2012;;;;
+780;789;Herkomst: westerse allochtoon;2003;9.0;91.0;8.0;92.0
+781;789;Herkomst: westerse allochtoon;2004;7.0;93.0;11.0;89.0
+782;789;Herkomst: westerse allochtoon;2005;6.0;94.0;11.0;89.0
+783;789;Herkomst: westerse allochtoon;2006;6.0;94.0;9.0;91.0
+784;789;Herkomst: westerse allochtoon;2007;12.0;88.0;11.0;89.0
+785;789;Herkomst: westerse allochtoon;2008;9.0;91.0;5.0;95.0
+786;789;Herkomst: westerse allochtoon;2009;7.0;93.0;12.0;88.0
+787;789;Herkomst: westerse allochtoon;2010 oude methode;5.0;95.0;10.0;90.0
+788;789;Herkomst: westerse allochtoon;2010 nieuwe methode;15.0;85.0;10.0;90.0
+789;789;Herkomst: westerse allochtoon;2012;;;;
+790;789;Herkomst: niet-westerse allochtoon;2003;19.0;81.0;20.0;80.0
+791;789;Herkomst: niet-westerse allochtoon;2004;15.0;85.0;14.0;86.0
+792;789;Herkomst: niet-westerse allochtoon;2005;22.0;78.0;16.0;84.0
+793;789;Herkomst: niet-westerse allochtoon;2006;9.0;91.0;20.0;80.0
+794;789;Herkomst: niet-westerse allochtoon;2007;16.0;84.0;6.0;94.0
+795;789;Herkomst: niet-westerse allochtoon;2008;7.0;93.0;7.0;93.0
+796;789;Herkomst: niet-westerse allochtoon;2009;8.0;92.0;15.0;85.0
+797;789;Herkomst: niet-westerse allochtoon;2010 oude methode;;;;
+798;789;Herkomst: niet-westerse allochtoon;2010 nieuwe methode;;;;
+799;789;Herkomst: niet-westerse allochtoon;2012;;;;
+800;Woonsituatie: eigen woning;Totaal persoonskenmerken;2003;8.0;92.0;9.0;91.0
+801;Woonsituatie: eigen woning;Totaal persoonskenmerken;2004;8.0;92.0;9.0;91.0
+802;Woonsituatie: eigen woning;Totaal persoonskenmerken;2005;8.0;92.0;10.0;90.0
+803;Woonsituatie: eigen woning;Totaal persoonskenmerken;2006;8.0;92.0;8.0;92.0
+804;Woonsituatie: eigen woning;Totaal persoonskenmerken;2007;8.0;92.0;9.0;91.0
+805;Woonsituatie: eigen woning;Totaal persoonskenmerken;2008;8.0;92.0;8.0;92.0
+806;Woonsituatie: eigen woning;Totaal persoonskenmerken;2009;8.0;92.0;9.0;91.0
+807;Woonsituatie: eigen woning;Totaal persoonskenmerken;2010 oude methode;8.0;92.0;10.0;90.0
+808;Woonsituatie: eigen woning;Totaal persoonskenmerken;2010 nieuwe methode;13.0;87.0;12.0;88.0
+809;Woonsituatie: eigen woning;Totaal persoonskenmerken;2012;13.0;87.0;13.0;87.0
+810;Woonsituatie: eigen woning;Geslacht: mannen;2003;8.0;92.0;9.0;91.0
+811;Woonsituatie: eigen woning;Geslacht: mannen;2004;7.0;93.0;9.0;91.0
+812;Woonsituatie: eigen woning;Geslacht: mannen;2005;8.0;92.0;9.0;91.0
+813;Woonsituatie: eigen woning;Geslacht: mannen;2006;6.0;94.0;8.0;92.0
+814;Woonsituatie: eigen woning;Geslacht: mannen;2007;7.0;93.0;8.0;92.0
+815;Woonsituatie: eigen woning;Geslacht: mannen;2008;7.0;93.0;7.0;93.0
+816;Woonsituatie: eigen woning;Geslacht: mannen;2009;6.0;94.0;9.0;91.0
+817;Woonsituatie: eigen woning;Geslacht: mannen;2010 oude methode;8.0;92.0;9.0;91.0
+818;Woonsituatie: eigen woning;Geslacht: mannen;2010 nieuwe methode;11.0;89.0;11.0;89.0
+819;Woonsituatie: eigen woning;Geslacht: mannen;2012;13.0;87.0;13.0;87.0
+820;Woonsituatie: eigen woning;Geslacht: vrouwen;2003;8.0;92.0;9.0;91.0
+821;Woonsituatie: eigen woning;Geslacht: vrouwen;2004;9.0;91.0;10.0;90.0
+822;Woonsituatie: eigen woning;Geslacht: vrouwen;2005;9.0;91.0;10.0;90.0
+823;Woonsituatie: eigen woning;Geslacht: vrouwen;2006;9.0;91.0;9.0;91.0
+824;Woonsituatie: eigen woning;Geslacht: vrouwen;2007;9.0;91.0;9.0;91.0
+825;Woonsituatie: eigen woning;Geslacht: vrouwen;2008;8.0;92.0;8.0;92.0
+826;Woonsituatie: eigen woning;Geslacht: vrouwen;2009;9.0;91.0;9.0;91.0
+827;Woonsituatie: eigen woning;Geslacht: vrouwen;2010 oude methode;9.0;91.0;10.0;90.0
+828;Woonsituatie: eigen woning;Geslacht: vrouwen;2010 nieuwe methode;15.0;85.0;12.0;88.0
+829;Woonsituatie: eigen woning;Geslacht: vrouwen;2012;13.0;87.0;13.0;87.0
+830;Woonsituatie: eigen woning;Leeftijd: 18 tot 35 jaar;2003;5.0;95.0;6.0;94.0
+831;Woonsituatie: eigen woning;Leeftijd: 18 tot 35 jaar;2004;6.0;94.0;8.0;92.0
+832;Woonsituatie: eigen woning;Leeftijd: 18 tot 35 jaar;2005;6.0;94.0;9.0;91.0
+833;Woonsituatie: eigen woning;Leeftijd: 18 tot 35 jaar;2006;5.0;95.0;6.0;94.0
+834;Woonsituatie: eigen woning;Leeftijd: 18 tot 35 jaar;2007;6.0;94.0;7.0;93.0
+835;Woonsituatie: eigen woning;Leeftijd: 18 tot 35 jaar;2008;5.0;95.0;5.0;95.0
+836;Woonsituatie: eigen woning;Leeftijd: 18 tot 35 jaar;2009;6.0;94.0;7.0;93.0
+837;Woonsituatie: eigen woning;Leeftijd: 18 tot 35 jaar;2010 oude methode;6.0;94.0;8.0;92.0
+838;Woonsituatie: eigen woning;Leeftijd: 18 tot 35 jaar;2010 nieuwe methode;9.0;91.0;10.0;90.0
+839;Woonsituatie: eigen woning;Leeftijd: 18 tot 35 jaar;2012;9.0;91.0;10.0;90.0
+840;Woonsituatie: eigen woning;Leeftijd: 35 tot 50 jaar;2003;7.0;93.0;9.0;91.0
+841;Woonsituatie: eigen woning;Leeftijd: 35 tot 50 jaar;2004;7.0;93.0;9.0;91.0
+842;Woonsituatie: eigen woning;Leeftijd: 35 tot 50 jaar;2005;8.0;92.0;9.0;91.0
+843;Woonsituatie: eigen woning;Leeftijd: 35 tot 50 jaar;2006;7.0;93.0;9.0;91.0
+844;Woonsituatie: eigen woning;Leeftijd: 35 tot 50 jaar;2007;7.0;93.0;9.0;91.0
+845;Woonsituatie: eigen woning;Leeftijd: 35 tot 50 jaar;2008;7.0;93.0;9.0;91.0
+846;Woonsituatie: eigen woning;Leeftijd: 35 tot 50 jaar;2009;8.0;92.0;10.0;90.0
+847;Woonsituatie: eigen woning;Leeftijd: 35 tot 50 jaar;2010 oude methode;6.0;94.0;11.0;89.0
+848;Woonsituatie: eigen woning;Leeftijd: 35 tot 50 jaar;2010 nieuwe methode;12.0;88.0;11.0;89.0
+849;Woonsituatie: eigen woning;Leeftijd: 35 tot 50 jaar;2012;10.0;90.0;12.0;88.0
+850;Woonsituatie: eigen woning;Leeftijd: 50 tot 65 jaar;2003;10.0;90.0;11.0;89.0
+851;Woonsituatie: eigen woning;Leeftijd: 50 tot 65 jaar;2004;10.0;90.0;10.0;90.0
+852;Woonsituatie: eigen woning;Leeftijd: 50 tot 65 jaar;2005;10.0;90.0;11.0;89.0
+853;Woonsituatie: eigen woning;Leeftijd: 50 tot 65 jaar;2006;9.0;91.0;10.0;90.0
+854;Woonsituatie: eigen woning;Leeftijd: 50 tot 65 jaar;2007;9.0;91.0;10.0;90.0
+855;Woonsituatie: eigen woning;Leeftijd: 50 tot 65 jaar;2008;9.0;91.0;9.0;91.0
+856;Woonsituatie: eigen woning;Leeftijd: 50 tot 65 jaar;2009;8.0;92.0;9.0;91.0
+857;Woonsituatie: eigen woning;Leeftijd: 50 tot 65 jaar;2010 oude methode;10.0;90.0;10.0;90.0
+858;Woonsituatie: eigen woning;Leeftijd: 50 tot 65 jaar;2010 nieuwe methode;14.0;86.0;13.0;87.0
+859;Woonsituatie: eigen woning;Leeftijd: 50 tot 65 jaar;2012;18.0;82.0;17.0;83.0
+860;Woonsituatie: eigen woning;Leeftijd: 65 jaar of ouder;2003;13.0;87.0;11.0;89.0
+861;Woonsituatie: eigen woning;Leeftijd: 65 jaar of ouder;2004;14.0;86.0;11.0;89.0
+862;Woonsituatie: eigen woning;Leeftijd: 65 jaar of ouder;2005;12.0;88.0;9.0;91.0
+863;Woonsituatie: eigen woning;Leeftijd: 65 jaar of ouder;2006;12.0;88.0;9.0;91.0
+864;Woonsituatie: eigen woning;Leeftijd: 65 jaar of ouder;2007;11.0;89.0;10.0;90.0
+865;Woonsituatie: eigen woning;Leeftijd: 65 jaar of ouder;2008;11.0;89.0;9.0;91.0
+866;Woonsituatie: eigen woning;Leeftijd: 65 jaar of ouder;2009;12.0;88.0;9.0;91.0
+867;Woonsituatie: eigen woning;Leeftijd: 65 jaar of ouder;2010 oude methode;12.0;88.0;10.0;90.0
+868;Woonsituatie: eigen woning;Leeftijd: 65 jaar of ouder;2010 nieuwe methode;17.0;83.0;12.0;88.0
+869;Woonsituatie: eigen woning;Leeftijd: 65 jaar of ouder;2012;15.0;85.0;13.0;87.0
+870;Woonsituatie: eigen woning;Herkomst: autochtoon;2003;8.0;92.0;9.0;91.0
+871;Woonsituatie: eigen woning;Herkomst: autochtoon;2004;8.0;92.0;9.0;91.0
+872;Woonsituatie: eigen woning;Herkomst: autochtoon;2005;8.0;92.0;9.0;91.0
+873;Woonsituatie: eigen woning;Herkomst: autochtoon;2006;8.0;92.0;8.0;92.0
+874;Woonsituatie: eigen woning;Herkomst: autochtoon;2007;7.0;93.0;8.0;92.0
+875;Woonsituatie: eigen woning;Herkomst: autochtoon;2008;7.0;93.0;8.0;92.0
+876;Woonsituatie: eigen woning;Herkomst: autochtoon;2009;7.0;93.0;8.0;92.0
+877;Woonsituatie: eigen woning;Herkomst: autochtoon;2010 oude methode;8.0;92.0;9.0;91.0
+878;Woonsituatie: eigen woning;Herkomst: autochtoon;2010 nieuwe methode;12.0;88.0;11.0;89.0
+879;Woonsituatie: eigen woning;Herkomst: autochtoon;2012;12.0;88.0;12.0;88.0
+880;Woonsituatie: eigen woning;Herkomst: westerse allochtoon;2003;12.0;88.0;9.0;91.0
+881;Woonsituatie: eigen woning;Herkomst: westerse allochtoon;2004;9.0;91.0;12.0;88.0
+882;Woonsituatie: eigen woning;Herkomst: westerse allochtoon;2005;11.0;89.0;11.0;89.0
+883;Woonsituatie: eigen woning;Herkomst: westerse allochtoon;2006;10.0;90.0;11.0;89.0
+884;Woonsituatie: eigen woning;Herkomst: westerse allochtoon;2007;12.0;88.0;14.0;86.0
+885;Woonsituatie: eigen woning;Herkomst: westerse allochtoon;2008;10.0;90.0;9.0;91.0
+886;Woonsituatie: eigen woning;Herkomst: westerse allochtoon;2009;8.0;92.0;13.0;87.0
+887;Woonsituatie: eigen woning;Herkomst: westerse allochtoon;2010 oude methode;11.0;89.0;14.0;86.0
+888;Woonsituatie: eigen woning;Herkomst: westerse allochtoon;2010 nieuwe methode;17.0;83.0;14.0;86.0
+889;Woonsituatie: eigen woning;Herkomst: westerse allochtoon;2012;17.0;83.0;18.0;82.0
+890;Woonsituatie: eigen woning;Herkomst: niet-westerse allochtoon;2003;13.0;87.0;14.0;86.0
+891;Woonsituatie: eigen woning;Herkomst: niet-westerse allochtoon;2004;13.0;87.0;15.0;85.0
+892;Woonsituatie: eigen woning;Herkomst: niet-westerse allochtoon;2005;14.0;86.0;15.0;85.0
+893;Woonsituatie: eigen woning;Herkomst: niet-westerse allochtoon;2006;4.0;96.0;11.0;89.0
+894;Woonsituatie: eigen woning;Herkomst: niet-westerse allochtoon;2007;13.0;87.0;9.0;91.0
+895;Woonsituatie: eigen woning;Herkomst: niet-westerse allochtoon;2008;13.0;87.0;10.0;90.0
+896;Woonsituatie: eigen woning;Herkomst: niet-westerse allochtoon;2009;18.0;82.0;20.0;80.0
+897;Woonsituatie: eigen woning;Herkomst: niet-westerse allochtoon;2010 oude methode;;;;
+898;Woonsituatie: eigen woning;Herkomst: niet-westerse allochtoon;2010 nieuwe methode;17.0;83.0;14.0;86.0
+899;Woonsituatie: eigen woning;Herkomst: niet-westerse allochtoon;2012;;;;
+900;Woonsituatie: huur met huursubsidie;Totaal persoonskenmerken;2003;29.0;71.0;28.0;72.0
+901;Woonsituatie: huur met huursubsidie;Totaal persoonskenmerken;2004;30.0;70.0;29.0;71.0
+902;Woonsituatie: huur met huursubsidie;Totaal persoonskenmerken;2005;32.0;68.0;31.0;69.0
+903;Woonsituatie: huur met huursubsidie;Totaal persoonskenmerken;2006;26.0;74.0;30.0;70.0
+904;Woonsituatie: huur met huursubsidie;Totaal persoonskenmerken;2007;32.0;68.0;30.0;70.0
+905;Woonsituatie: huur met huursubsidie;Totaal persoonskenmerken;2008;28.0;72.0;28.0;72.0
+906;Woonsituatie: huur met huursubsidie;Totaal persoonskenmerken;2009;30.0;70.0;33.0;67.0
+907;Woonsituatie: huur met huursubsidie;Totaal persoonskenmerken;2010 oude methode;30.0;70.0;32.0;68.0
+908;Woonsituatie: huur met huursubsidie;Totaal persoonskenmerken;2010 nieuwe methode;32.0;68.0;33.0;67.0
+909;Woonsituatie: huur met huursubsidie;Totaal persoonskenmerken;2012;29.0;71.0;34.0;66.0
+910;Woonsituatie: huur met huursubsidie;Geslacht: mannen;2003;29.0;71.0;27.0;73.0
+911;Woonsituatie: huur met huursubsidie;Geslacht: mannen;2004;29.0;71.0;29.0;71.0
+912;Woonsituatie: huur met huursubsidie;Geslacht: mannen;2005;32.0;68.0;33.0;67.0
+913;Woonsituatie: huur met huursubsidie;Geslacht: mannen;2006;23.0;77.0;29.0;71.0
+914;Woonsituatie: huur met huursubsidie;Geslacht: mannen;2007;31.0;69.0;34.0;66.0
+915;Woonsituatie: huur met huursubsidie;Geslacht: mannen;2008;30.0;70.0;30.0;70.0
+916;Woonsituatie: huur met huursubsidie;Geslacht: mannen;2009;30.0;70.0;33.0;67.0
+917;Woonsituatie: huur met huursubsidie;Geslacht: mannen;2010 oude methode;27.0;73.0;33.0;67.0
+918;Woonsituatie: huur met huursubsidie;Geslacht: mannen;2010 nieuwe methode;33.0;67.0;35.0;65.0
+919;Woonsituatie: huur met huursubsidie;Geslacht: mannen;2012;;;;
+920;Woonsituatie: huur met huursubsidie;Geslacht: vrouwen;2003;29.0;71.0;29.0;71.0
+921;Woonsituatie: huur met huursubsidie;Geslacht: vrouwen;2004;30.0;70.0;28.0;72.0
+922;Woonsituatie: huur met huursubsidie;Geslacht: vrouwen;2005;33.0;67.0;29.0;71.0
+923;Woonsituatie: huur met huursubsidie;Geslacht: vrouwen;2006;28.0;72.0;30.0;70.0
+924;Woonsituatie: huur met huursubsidie;Geslacht: vrouwen;2007;34.0;66.0;28.0;72.0
+925;Woonsituatie: huur met huursubsidie;Geslacht: vrouwen;2008;27.0;73.0;27.0;73.0
+926;Woonsituatie: huur met huursubsidie;Geslacht: vrouwen;2009;31.0;69.0;33.0;67.0
+927;Woonsituatie: huur met huursubsidie;Geslacht: vrouwen;2010 oude methode;32.0;68.0;32.0;68.0
+928;Woonsituatie: huur met huursubsidie;Geslacht: vrouwen;2010 nieuwe methode;31.0;69.0;31.0;69.0
+929;Woonsituatie: huur met huursubsidie;Geslacht: vrouwen;2012;26.0;74.0;32.0;68.0
+930;Woonsituatie: huur met huursubsidie;Leeftijd: 18 tot 35 jaar;2003;24.0;76.0;26.0;74.0
+931;Woonsituatie: huur met huursubsidie;Leeftijd: 18 tot 35 jaar;2004;25.0;75.0;27.0;73.0
+932;Woonsituatie: huur met huursubsidie;Leeftijd: 18 tot 35 jaar;2005;24.0;76.0;27.0;73.0
+933;Woonsituatie: huur met huursubsidie;Leeftijd: 18 tot 35 jaar;2006;15.0;85.0;23.0;77.0
+934;Woonsituatie: huur met huursubsidie;Leeftijd: 18 tot 35 jaar;2007;23.0;77.0;22.0;78.0
+935;Woonsituatie: huur met huursubsidie;Leeftijd: 18 tot 35 jaar;2008;21.0;79.0;22.0;78.0
+936;Woonsituatie: huur met huursubsidie;Leeftijd: 18 tot 35 jaar;2009;25.0;75.0;29.0;71.0
+937;Woonsituatie: huur met huursubsidie;Leeftijd: 18 tot 35 jaar;2010 oude methode;18.0;82.0;23.0;77.0
+938;Woonsituatie: huur met huursubsidie;Leeftijd: 18 tot 35 jaar;2010 nieuwe methode;31.0;69.0;30.0;70.0
+939;Woonsituatie: huur met huursubsidie;Leeftijd: 18 tot 35 jaar;2012;;;;
+940;Woonsituatie: huur met huursubsidie;Leeftijd: 35 tot 50 jaar;2003;38.0;62.0;42.0;58.0
+941;Woonsituatie: huur met huursubsidie;Leeftijd: 35 tot 50 jaar;2004;41.0;59.0;45.0;55.0
+942;Woonsituatie: huur met huursubsidie;Leeftijd: 35 tot 50 jaar;2005;43.0;57.0;43.0;57.0
+943;Woonsituatie: huur met huursubsidie;Leeftijd: 35 tot 50 jaar;2006;41.0;59.0;47.0;53.0
+944;Woonsituatie: huur met huursubsidie;Leeftijd: 35 tot 50 jaar;2007;39.0;61.0;44.0;56.0
+945;Woonsituatie: huur met huursubsidie;Leeftijd: 35 tot 50 jaar;2008;36.0;64.0;38.0;62.0
+946;Woonsituatie: huur met huursubsidie;Leeftijd: 35 tot 50 jaar;2009;36.0;64.0;45.0;55.0
+947;Woonsituatie: huur met huursubsidie;Leeftijd: 35 tot 50 jaar;2010 oude methode;;;;
+948;Woonsituatie: huur met huursubsidie;Leeftijd: 35 tot 50 jaar;2010 nieuwe methode;;;;
+949;Woonsituatie: huur met huursubsidie;Leeftijd: 35 tot 50 jaar;2012;;;;
+950;Woonsituatie: huur met huursubsidie;Leeftijd: 50 tot 65 jaar;2003;34.0;66.0;30.0;70.0
+951;Woonsituatie: huur met huursubsidie;Leeftijd: 50 tot 65 jaar;2004;34.0;66.0;30.0;70.0
+952;Woonsituatie: huur met huursubsidie;Leeftijd: 50 tot 65 jaar;2005;46.0;54.0;43.0;57.0
+953;Woonsituatie: huur met huursubsidie;Leeftijd: 50 tot 65 jaar;2006;39.0;61.0;44.0;56.0
+954;Woonsituatie: huur met huursubsidie;Leeftijd: 50 tot 65 jaar;2007;48.0;52.0;40.0;60.0
+955;Woonsituatie: huur met huursubsidie;Leeftijd: 50 tot 65 jaar;2008;41.0;59.0;41.0;59.0
+956;Woonsituatie: huur met huursubsidie;Leeftijd: 50 tot 65 jaar;2009;39.0;61.0;44.0;56.0
+957;Woonsituatie: huur met huursubsidie;Leeftijd: 50 tot 65 jaar;2010 oude methode;;;;
+958;Woonsituatie: huur met huursubsidie;Leeftijd: 50 tot 65 jaar;2010 nieuwe methode;;;;
+959;Woonsituatie: huur met huursubsidie;Leeftijd: 50 tot 65 jaar;2012;;;;
+960;Woonsituatie: huur met huursubsidie;Leeftijd: 65 jaar of ouder;2003;24.0;76.0;20.0;80.0
+961;Woonsituatie: huur met huursubsidie;Leeftijd: 65 jaar of ouder;2004;24.0;76.0;19.0;81.0
+962;Woonsituatie: huur met huursubsidie;Leeftijd: 65 jaar of ouder;2005;25.0;75.0;19.0;81.0
+963;Woonsituatie: huur met huursubsidie;Leeftijd: 65 jaar of ouder;2006;18.0;82.0;17.0;83.0
+964;Woonsituatie: huur met huursubsidie;Leeftijd: 65 jaar of ouder;2007;27.0;73.0;22.0;78.0
+965;Woonsituatie: huur met huursubsidie;Leeftijd: 65 jaar of ouder;2008;22.0;78.0;19.0;81.0
+966;Woonsituatie: huur met huursubsidie;Leeftijd: 65 jaar of ouder;2009;26.0;74.0;22.0;78.0
+967;Woonsituatie: huur met huursubsidie;Leeftijd: 65 jaar of ouder;2010 oude methode;34.0;66.0;24.0;76.0
+968;Woonsituatie: huur met huursubsidie;Leeftijd: 65 jaar of ouder;2010 nieuwe methode;30.0;70.0;27.0;73.0
+969;Woonsituatie: huur met huursubsidie;Leeftijd: 65 jaar of ouder;2012;;;;
+970;Woonsituatie: huur met huursubsidie;Herkomst: autochtoon;2003;25.0;75.0;25.0;75.0
+971;Woonsituatie: huur met huursubsidie;Herkomst: autochtoon;2004;24.0;76.0;24.0;75.0
+972;Woonsituatie: huur met huursubsidie;Herkomst: autochtoon;2005;28.0;72.0;27.0;73.0
+973;Woonsituatie: huur met huursubsidie;Herkomst: autochtoon;2006;24.0;76.0;27.0;73.0
+974;Woonsituatie: huur met huursubsidie;Herkomst: autochtoon;2007;30.0;70.0;28.0;72.0
+975;Woonsituatie: huur met huursubsidie;Herkomst: autochtoon;2008;25.0;75.0;28.0;72.0
+976;Woonsituatie: huur met huursubsidie;Herkomst: autochtoon;2009;28.0;72.0;31.0;69.0
+977;Woonsituatie: huur met huursubsidie;Herkomst: autochtoon;2010 oude methode;28.0;72.0;31.0;69.0
+978;Woonsituatie: huur met huursubsidie;Herkomst: autochtoon;2010 nieuwe methode;30.0;70.0;32.0;68.0
+979;Woonsituatie: huur met huursubsidie;Herkomst: autochtoon;2012;29.0;71.0;33.0;67.0
+980;Woonsituatie: huur met huursubsidie;Herkomst: westerse allochtoon;2003;32.0;68.0;34.0;66.0
+981;Woonsituatie: huur met huursubsidie;Herkomst: westerse allochtoon;2004;28.0;72.0;33.0;67.0
+982;Woonsituatie: huur met huursubsidie;Herkomst: westerse allochtoon;2005;;;;
+983;Woonsituatie: huur met huursubsidie;Herkomst: westerse allochtoon;2006;;;;
+984;Woonsituatie: huur met huursubsidie;Herkomst: westerse allochtoon;2007;;;;
+985;Woonsituatie: huur met huursubsidie;Herkomst: westerse allochtoon;2008;;;;
+986;Woonsituatie: huur met huursubsidie;Herkomst: westerse allochtoon;2009;;;;
+987;Woonsituatie: huur met huursubsidie;Herkomst: westerse allochtoon;2010 oude methode;;;;
+988;Woonsituatie: huur met huursubsidie;Herkomst: westerse allochtoon;2010 nieuwe methode;;;;
+989;Woonsituatie: huur met huursubsidie;Herkomst: westerse allochtoon;2012;;;;
+990;Woonsituatie: huur met huursubsidie;Herkomst: niet-westerse allochtoon;2003;39.0;61.0;34.0;66.0
+991;Woonsituatie: huur met huursubsidie;Herkomst: niet-westerse allochtoon;2004;46.0;54.0;40.0;60.0
+992;Woonsituatie: huur met huursubsidie;Herkomst: niet-westerse allochtoon;2005;45.0;55.0;41.0;59.0
+993;Woonsituatie: huur met huursubsidie;Herkomst: niet-westerse allochtoon;2006;31.0;69.0;34.0;66.0
+994;Woonsituatie: huur met huursubsidie;Herkomst: niet-westerse allochtoon;2007;42.0;58.0;33.0;67.0
+995;Woonsituatie: huur met huursubsidie;Herkomst: niet-westerse allochtoon;2008;36.0;64.0;27.0;73.0
+996;Woonsituatie: huur met huursubsidie;Herkomst: niet-westerse allochtoon;2009;38.0;62.0;38.0;62.0
+997;Woonsituatie: huur met huursubsidie;Herkomst: niet-westerse allochtoon;2010 oude methode;;;;
+998;Woonsituatie: huur met huursubsidie;Herkomst: niet-westerse allochtoon;2010 nieuwe methode;36.0;64.0;33.0;67.0
+999;Woonsituatie: huur met huursubsidie;Herkomst: niet-westerse allochtoon;2012;;;;
+1000;Woonsituatie: huur zonder huursubsidie;Totaal persoonskenmerken;2003;16.0;84.0;17.0;83.0
+1001;Woonsituatie: huur zonder huursubsidie;Totaal persoonskenmerken;2004;16.0;84.0;17.0;83.0
+1002;Woonsituatie: huur zonder huursubsidie;Totaal persoonskenmerken;2005;16.0;84.0;17.0;83.0
+1003;Woonsituatie: huur zonder huursubsidie;Totaal persoonskenmerken;2006;15.0;85.0;18.0;82.0
+1004;Woonsituatie: huur zonder huursubsidie;Totaal persoonskenmerken;2007;14.0;86.0;16.0;84.0
+1005;Woonsituatie: huur zonder huursubsidie;Totaal persoonskenmerken;2008;15.0;85.0;15.0;85.0
+1006;Woonsituatie: huur zonder huursubsidie;Totaal persoonskenmerken;2009;13.0;87.0;15.0;85.0
+1007;Woonsituatie: huur zonder huursubsidie;Totaal persoonskenmerken;2010 oude methode;16.0;84.0;16.0;84.0
+1008;Woonsituatie: huur zonder huursubsidie;Totaal persoonskenmerken;2010 nieuwe methode;18.0;82.0;18.0;82.0
+1009;Woonsituatie: huur zonder huursubsidie;Totaal persoonskenmerken;2012;21.0;79.0;19.0;81.0
+1010;Woonsituatie: huur zonder huursubsidie;Geslacht: mannen;2003;16.0;84.0;17.0;83.0
+1011;Woonsituatie: huur zonder huursubsidie;Geslacht: mannen;2004;15.0;85.0;17.0;83.0
+1012;Woonsituatie: huur zonder huursubsidie;Geslacht: mannen;2005;18.0;82.0;19.0;81.0
+1013;Woonsituatie: huur zonder huursubsidie;Geslacht: mannen;2006;14.0;86.0;19.0;81.0
+1014;Woonsituatie: huur zonder huursubsidie;Geslacht: mannen;2007;14.0;86.0;15.0;85.0
+1015;Woonsituatie: huur zonder huursubsidie;Geslacht: mannen;2008;17.0;83.0;15.0;85.0
+1016;Woonsituatie: huur zonder huursubsidie;Geslacht: mannen;2009;12.0;88.0;15.0;85.0
+1017;Woonsituatie: huur zonder huursubsidie;Geslacht: mannen;2010 oude methode;13.0;87.0;15.0;85.0
+1018;Woonsituatie: huur zonder huursubsidie;Geslacht: mannen;2010 nieuwe methode;17.0;83.0;18.0;82.0
+1019;Woonsituatie: huur zonder huursubsidie;Geslacht: mannen;2012;24.0;76.0;21.0;79.0
+1020;Woonsituatie: huur zonder huursubsidie;Geslacht: vrouwen;2003;17.0;83.0;16.0;84.0
+1021;Woonsituatie: huur zonder huursubsidie;Geslacht: vrouwen;2004;16.0;84.0;16.0;84.0
+1022;Woonsituatie: huur zonder huursubsidie;Geslacht: vrouwen;2005;15.0;85.0;15.0;85.0
+1023;Woonsituatie: huur zonder huursubsidie;Geslacht: vrouwen;2006;16.0;84.0;17.0;83.0
+1024;Woonsituatie: huur zonder huursubsidie;Geslacht: vrouwen;2007;15.0;85.0;16.0;84.0
+1025;Woonsituatie: huur zonder huursubsidie;Geslacht: vrouwen;2008;13.0;87.0;16.0;84.0
+1026;Woonsituatie: huur zonder huursubsidie;Geslacht: vrouwen;2009;14.0;86.0;15.0;85.0
+1027;Woonsituatie: huur zonder huursubsidie;Geslacht: vrouwen;2010 oude methode;18.0;82.0;16.0;84.0
+1028;Woonsituatie: huur zonder huursubsidie;Geslacht: vrouwen;2010 nieuwe methode;19.0;81.0;18.0;82.0
+1029;Woonsituatie: huur zonder huursubsidie;Geslacht: vrouwen;2012;18.0;82.0;17.0;83.0
+1030;Woonsituatie: huur zonder huursubsidie;Leeftijd: 18 tot 35 jaar;2003;13.0;87.0;16.0;84.0
+1031;Woonsituatie: huur zonder huursubsidie;Leeftijd: 18 tot 35 jaar;2004;12.0;88.0;15.0;85.0
+1032;Woonsituatie: huur zonder huursubsidie;Leeftijd: 18 tot 35 jaar;2005;13.0;87.0;16.0;84.0
+1033;Woonsituatie: huur zonder huursubsidie;Leeftijd: 18 tot 35 jaar;2006;12.0;88.0;18.0;82.0
+1034;Woonsituatie: huur zonder huursubsidie;Leeftijd: 18 tot 35 jaar;2007;11.0;89.0;13.0;87.0
+1035;Woonsituatie: huur zonder huursubsidie;Leeftijd: 18 tot 35 jaar;2008;7.0;93.0;14.0;86.0
+1036;Woonsituatie: huur zonder huursubsidie;Leeftijd: 18 tot 35 jaar;2009;10.0;90.0;13.0;87.0
+1037;Woonsituatie: huur zonder huursubsidie;Leeftijd: 18 tot 35 jaar;2010 oude methode;8.0;92.0;11.0;89.0
+1038;Woonsituatie: huur zonder huursubsidie;Leeftijd: 18 tot 35 jaar;2010 nieuwe methode;13.0;87.0;14.0;86.0
+1039;Woonsituatie: huur zonder huursubsidie;Leeftijd: 18 tot 35 jaar;2012;13.0;87.0;15.0;85.0
+1040;Woonsituatie: huur zonder huursubsidie;Leeftijd: 35 tot 50 jaar;2003;18.0;82.0;20.0;80.0
+1041;Woonsituatie: huur zonder huursubsidie;Leeftijd: 35 tot 50 jaar;2004;18.0;82.0;21.0;79.0
+1042;Woonsituatie: huur zonder huursubsidie;Leeftijd: 35 tot 50 jaar;2005;17.0;83.0;18.0;82.0
+1043;Woonsituatie: huur zonder huursubsidie;Leeftijd: 35 tot 50 jaar;2006;17.0;83.0;22.0;78.0
+1044;Woonsituatie: huur zonder huursubsidie;Leeftijd: 35 tot 50 jaar;2007;14.0;86.0;18.0;82.0
+1045;Woonsituatie: huur zonder huursubsidie;Leeftijd: 35 tot 50 jaar;2008;22.0;78.0;20.0;80.0
+1046;Woonsituatie: huur zonder huursubsidie;Leeftijd: 35 tot 50 jaar;2009;15.0;85.0;19.0;81.0
+1047;Woonsituatie: huur zonder huursubsidie;Leeftijd: 35 tot 50 jaar;2010 oude methode;16.0;84.0;15.0;85.0
+1048;Woonsituatie: huur zonder huursubsidie;Leeftijd: 35 tot 50 jaar;2010 nieuwe methode;21.0;79.0;23.0;77.0
+1049;Woonsituatie: huur zonder huursubsidie;Leeftijd: 35 tot 50 jaar;2012;;;;
+1050;Woonsituatie: huur zonder huursubsidie;Leeftijd: 50 tot 65 jaar;2003;17.0;83.0;16.0;84.0
+1051;Woonsituatie: huur zonder huursubsidie;Leeftijd: 50 tot 65 jaar;2004;18.0;82.0;19.0;81.0
+1052;Woonsituatie: huur zonder huursubsidie;Leeftijd: 50 tot 65 jaar;2005;18.0;82.0;22.0;78.0
+1053;Woonsituatie: huur zonder huursubsidie;Leeftijd: 50 tot 65 jaar;2006;17.0;83.0;19.0;81.0
+1054;Woonsituatie: huur zonder huursubsidie;Leeftijd: 50 tot 65 jaar;2007;19.0;81.0;18.0;82.0
+1055;Woonsituatie: huur zonder huursubsidie;Leeftijd: 50 tot 65 jaar;2008;17.0;83.0;14.0;86.0
+1056;Woonsituatie: huur zonder huursubsidie;Leeftijd: 50 tot 65 jaar;2009;14.0;86.0;14.0;86.0
+1057;Woonsituatie: huur zonder huursubsidie;Leeftijd: 50 tot 65 jaar;2010 oude methode;22.0;78.0;24.0;76.0
+1058;Woonsituatie: huur zonder huursubsidie;Leeftijd: 50 tot 65 jaar;2010 nieuwe methode;23.0;77.0;20.0;80.0
+1059;Woonsituatie: huur zonder huursubsidie;Leeftijd: 50 tot 65 jaar;2012;;;;
+1060;Woonsituatie: huur zonder huursubsidie;Leeftijd: 65 jaar of ouder;2003;21.0;79.0;15.0;85.0
+1061;Woonsituatie: huur zonder huursubsidie;Leeftijd: 65 jaar of ouder;2004;17.0;83.0;13.0;87.0
+1062;Woonsituatie: huur zonder huursubsidie;Leeftijd: 65 jaar of ouder;2005;18.0;82.0;12.0;88.0
+1063;Woonsituatie: huur zonder huursubsidie;Leeftijd: 65 jaar of ouder;2006;17.0;83.0;14.0;86.0
+1064;Woonsituatie: huur zonder huursubsidie;Leeftijd: 65 jaar of ouder;2007;15.0;85.0;14.0;86.0
+1065;Woonsituatie: huur zonder huursubsidie;Leeftijd: 65 jaar of ouder;2008;16.0;84.0;14.0;86.0
+1066;Woonsituatie: huur zonder huursubsidie;Leeftijd: 65 jaar of ouder;2009;14.0;86.0;13.0;87.0
+1067;Woonsituatie: huur zonder huursubsidie;Leeftijd: 65 jaar of ouder;2010 oude methode;20.0;80.0;15.0;85.0
+1068;Woonsituatie: huur zonder huursubsidie;Leeftijd: 65 jaar of ouder;2010 nieuwe methode;19.0;81.0;16.0;84.0
+1069;Woonsituatie: huur zonder huursubsidie;Leeftijd: 65 jaar of ouder;2012;;;;
+1070;Woonsituatie: huur zonder huursubsidie;Herkomst: autochtoon;2003;15.0;85.0;15.0;85.0
+1071;Woonsituatie: huur zonder huursubsidie;Herkomst: autochtoon;2004;14.0;86.0;15.0;85.0
+1072;Woonsituatie: huur zonder huursubsidie;Herkomst: autochtoon;2005;14.0;86.0;15.0;85.0
+1073;Woonsituatie: huur zonder huursubsidie;Herkomst: autochtoon;2006;13.0;87.0;16.0;84.0
+1074;Woonsituatie: huur zonder huursubsidie;Herkomst: autochtoon;2007;13.0;87.0;16.0;84.0
+1075;Woonsituatie: huur zonder huursubsidie;Herkomst: autochtoon;2008;13.0;87.0;14.0;86.0
+1076;Woonsituatie: huur zonder huursubsidie;Herkomst: autochtoon;2009;12.0;88.0;14.0;86.0
+1077;Woonsituatie: huur zonder huursubsidie;Herkomst: autochtoon;2010 oude methode;15.0;85.0;14.0;86.0
+1078;Woonsituatie: huur zonder huursubsidie;Herkomst: autochtoon;2010 nieuwe methode;17.0;83.0;18.0;82.0
+1079;Woonsituatie: huur zonder huursubsidie;Herkomst: autochtoon;2012;21.0;79.0;19.0;81.0
+1080;Woonsituatie: huur zonder huursubsidie;Herkomst: westerse allochtoon;2003;19.0;81.0;19.0;81.0
+1081;Woonsituatie: huur zonder huursubsidie;Herkomst: westerse allochtoon;2004;17.0;83.0;16.0;84.0
+1082;Woonsituatie: huur zonder huursubsidie;Herkomst: westerse allochtoon;2005;20.0;80.0;17.0;83.0
+1083;Woonsituatie: huur zonder huursubsidie;Herkomst: westerse allochtoon;2006;13.0;87.0;18.0;82.0
+1084;Woonsituatie: huur zonder huursubsidie;Herkomst: westerse allochtoon;2007;17.0;83.0;14.0;86.0
+1085;Woonsituatie: huur zonder huursubsidie;Herkomst: westerse allochtoon;2008;17.0;83.0;18.0;82.0
+1086;Woonsituatie: huur zonder huursubsidie;Herkomst: westerse allochtoon;2009;13.0;87.0;17.0;83.0
+1087;Woonsituatie: huur zonder huursubsidie;Herkomst: westerse allochtoon;2010 oude methode;;;;
+1088;Woonsituatie: huur zonder huursubsidie;Herkomst: westerse allochtoon;2010 nieuwe methode;;;;
+1089;Woonsituatie: huur zonder huursubsidie;Herkomst: westerse allochtoon;2012;;;;
+1090;Woonsituatie: huur zonder huursubsidie;Herkomst: niet-westerse allochtoon;2003;27.0;73.0;24.0;76.0
+1091;Woonsituatie: huur zonder huursubsidie;Herkomst: niet-westerse allochtoon;2004;24.0;76.0;27.0;73.0
+1092;Woonsituatie: huur zonder huursubsidie;Herkomst: niet-westerse allochtoon;2005;27.0;73.0;26.0;74.0
+1093;Woonsituatie: huur zonder huursubsidie;Herkomst: niet-westerse allochtoon;2006;28.0;72.0;34.0;66.0
+1094;Woonsituatie: huur zonder huursubsidie;Herkomst: niet-westerse allochtoon;2007;24.0;76.0;19.0;81.0
+1095;Woonsituatie: huur zonder huursubsidie;Herkomst: niet-westerse allochtoon;2008;21.0;79.0;19.0;81.0
+1096;Woonsituatie: huur zonder huursubsidie;Herkomst: niet-westerse allochtoon;2009;15.0;85.0;19.0;81.0
+1097;Woonsituatie: huur zonder huursubsidie;Herkomst: niet-westerse allochtoon;2010 oude methode;;;;
+1098;Woonsituatie: huur zonder huursubsidie;Herkomst: niet-westerse allochtoon;2010 nieuwe methode;25.0;75.0;14.0;86.0
+1099;Woonsituatie: huur zonder huursubsidie;Herkomst: niet-westerse allochtoon;2012;;;;

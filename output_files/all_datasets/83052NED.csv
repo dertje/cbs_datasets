@@ -1,0 +1,694 @@
+﻿ID;Geslacht;Leeftijd;Marges;Perioden;TotaalWerknemersMetEenOngeval_1;WerknemersOngevalZonderVerzuim_2;WerknemersOngeval1DagOfMeerVerzuim_3;WerknemersOngeval4DgnOfMeerVerzuim_4;LichamelijkLetsel_5;GeestelijkLetsel_6;OnderscheidNietTeMaken_7;LetselOnbekend_8
+0;Totaal mannen en vrouwen;15 tot 75 jaar;Waarde;2014;3.4;1.8;1.7;1.1;2.2;0.5;0.5;0.3
+1;Totaal mannen en vrouwen;15 tot 75 jaar;Waarde;2015;3.0;1.7;1.4;0.9;2.0;0.4;0.4;0.2
+2;Totaal mannen en vrouwen;15 tot 75 jaar;Waarde;2016;3.0;1.6;1.4;1.0;1.8;0.4;0.5;0.2
+3;Totaal mannen en vrouwen;15 tot 75 jaar;Waarde;2017;3.4;1.8;1.6;1.2;2.3;0.5;0.4;0.2
+4;Totaal mannen en vrouwen;15 tot 75 jaar;Waarde;2018;3.1;1.7;1.5;1.1;2.0;0.5;0.4;0.1
+5;Totaal mannen en vrouwen;15 tot 75 jaar;Waarde;2019;3.3;1.8;1.5;1.1;2.2;0.5;0.3;0.1
+6;Totaal mannen en vrouwen;15 tot 75 jaar;Waarde;2020;2.5;1.3;1.2;0.9;1.7;0.4;0.3;0.1
+7;Totaal mannen en vrouwen;15 tot 75 jaar;Waarde;2021;2.6;1.3;1.3;1.0;1.6;0.5;0.4;0.1
+8;Totaal mannen en vrouwen;15 tot 75 jaar;Waarde;2022;2.6;1.3;1.3;1.0;1.7;0.5;0.3;0.1
+9;Totaal mannen en vrouwen;15 tot 75 jaar;Waarde;2023;2.7;1.4;1.3;0.9;1.7;0.5;0.3;0.1
+10;Totaal mannen en vrouwen;15 tot 75 jaar;Waarde;2024;2.4;1.3;1.2;0.9;1.5;0.5;0.2;0.1
+11;Totaal mannen en vrouwen;15 tot 75 jaar;Ondergrens 95%-interval;2014;3.2;1.7;1.5;1.0;2.0;0.4;0.4;0.2
+12;Totaal mannen en vrouwen;15 tot 75 jaar;Ondergrens 95%-interval;2015;2.8;1.6;1.3;0.9;1.9;0.3;0.4;0.1
+13;Totaal mannen en vrouwen;15 tot 75 jaar;Ondergrens 95%-interval;2016;2.8;1.5;1.3;0.9;1.7;0.4;0.4;0.2
+14;Totaal mannen en vrouwen;15 tot 75 jaar;Ondergrens 95%-interval;2017;3.2;1.7;1.5;1.1;2.1;0.4;0.3;0.1
+15;Totaal mannen en vrouwen;15 tot 75 jaar;Ondergrens 95%-interval;2018;3.0;1.6;1.4;1.0;1.9;0.5;0.3;0.1
+16;Totaal mannen en vrouwen;15 tot 75 jaar;Ondergrens 95%-interval;2019;3.1;1.7;1.4;1.0;2.1;0.4;0.3;0.1
+17;Totaal mannen en vrouwen;15 tot 75 jaar;Ondergrens 95%-interval;2020;2.4;1.2;1.1;0.8;1.6;0.3;0.2;0.1
+18;Totaal mannen en vrouwen;15 tot 75 jaar;Ondergrens 95%-interval;2021;2.4;1.2;1.2;0.9;1.5;0.4;0.3;0.1
+19;Totaal mannen en vrouwen;15 tot 75 jaar;Ondergrens 95%-interval;2022;2.5;1.2;1.2;0.9;1.5;0.4;0.3;0.1
+20;Totaal mannen en vrouwen;15 tot 75 jaar;Ondergrens 95%-interval;2023;2.5;1.3;1.2;0.9;1.6;0.5;0.3;0.1
+21;Totaal mannen en vrouwen;15 tot 75 jaar;Ondergrens 95%-interval;2024;2.3;1.2;1.1;0.8;1.4;0.5;0.2;0.1
+22;Totaal mannen en vrouwen;15 tot 75 jaar;Bovengrens 95%-interval;2014;3.7;2.0;1.8;1.2;2.3;0.6;0.6;0.3
+23;Totaal mannen en vrouwen;15 tot 75 jaar;Bovengrens 95%-interval;2015;3.2;1.8;1.5;1.0;2.1;0.4;0.5;0.2
+24;Totaal mannen en vrouwen;15 tot 75 jaar;Bovengrens 95%-interval;2016;3.1;1.7;1.5;1.1;2.0;0.5;0.5;0.3
+25;Totaal mannen en vrouwen;15 tot 75 jaar;Bovengrens 95%-interval;2017;3.5;2.0;1.8;1.3;2.4;0.6;0.5;0.2
+26;Totaal mannen en vrouwen;15 tot 75 jaar;Bovengrens 95%-interval;2018;3.3;1.8;1.6;1.2;2.2;0.6;0.4;0.2
+27;Totaal mannen en vrouwen;15 tot 75 jaar;Bovengrens 95%-interval;2019;3.4;1.9;1.6;1.2;2.4;0.6;0.4;0.2
+28;Totaal mannen en vrouwen;15 tot 75 jaar;Bovengrens 95%-interval;2020;2.7;1.4;1.4;1.0;1.8;0.5;0.3;0.1
+29;Totaal mannen en vrouwen;15 tot 75 jaar;Bovengrens 95%-interval;2021;2.8;1.4;1.4;1.1;1.8;0.5;0.4;0.1
+30;Totaal mannen en vrouwen;15 tot 75 jaar;Bovengrens 95%-interval;2022;2.7;1.4;1.4;1.1;1.8;0.5;0.4;0.1
+31;Totaal mannen en vrouwen;15 tot 75 jaar;Bovengrens 95%-interval;2023;2.8;1.5;1.4;1.0;1.8;0.6;0.3;0.1
+32;Totaal mannen en vrouwen;15 tot 75 jaar;Bovengrens 95%-interval;2024;2.6;1.4;1.3;1.0;1.6;0.6;0.3;0.1
+33;Totaal mannen en vrouwen;15 tot 25 jaar;Waarde;2014;4.4;2.9;1.6;0.7;3.3;0.2;0.6;0.2
+34;Totaal mannen en vrouwen;15 tot 25 jaar;Waarde;2015;3.9;2.5;1.4;0.7;3.2;0.2;0.4;0.1
+35;Totaal mannen en vrouwen;15 tot 25 jaar;Waarde;2016;4.0;2.5;1.5;0.7;2.8;0.2;0.6;0.3
+36;Totaal mannen en vrouwen;15 tot 25 jaar;Waarde;2017;4.5;2.9;1.9;1.1;3.6;0.3;0.4;0.2
+37;Totaal mannen en vrouwen;15 tot 25 jaar;Waarde;2018;3.8;2.3;1.7;0.9;2.9;0.3;0.4;0.2
+38;Totaal mannen en vrouwen;15 tot 25 jaar;Waarde;2019;4.0;2.4;1.6;0.9;3.1;0.3;0.3;0.2
+39;Totaal mannen en vrouwen;15 tot 25 jaar;Waarde;2020;3.2;1.8;1.4;0.9;2.5;0.2;0.3;0.1
+40;Totaal mannen en vrouwen;15 tot 25 jaar;Waarde;2021;3.2;1.8;1.4;0.9;2.2;0.3;0.4;0.2
+41;Totaal mannen en vrouwen;15 tot 25 jaar;Waarde;2022;3.2;1.8;1.5;0.8;2.2;0.3;0.4;0.2
+42;Totaal mannen en vrouwen;15 tot 25 jaar;Waarde;2023;3.7;2.1;1.6;0.9;2.7;0.4;0.3;0.2
+43;Totaal mannen en vrouwen;15 tot 25 jaar;Waarde;2024;2.9;1.7;1.2;0.8;2.0;0.4;0.3;0.2
+44;Totaal mannen en vrouwen;15 tot 25 jaar;Ondergrens 95%-interval;2014;3.8;2.4;1.3;0.5;2.8;0.1;0.4;0.1
+45;Totaal mannen en vrouwen;15 tot 25 jaar;Ondergrens 95%-interval;2015;3.5;2.2;1.2;0.5;2.8;0.1;0.2;0.1
+46;Totaal mannen en vrouwen;15 tot 25 jaar;Ondergrens 95%-interval;2016;3.5;2.2;1.2;0.5;2.4;0.1;0.4;0.2
+47;Totaal mannen en vrouwen;15 tot 25 jaar;Ondergrens 95%-interval;2017;4.0;2.5;1.5;0.9;3.2;0.2;0.2;0.1
+48;Totaal mannen en vrouwen;15 tot 25 jaar;Ondergrens 95%-interval;2018;3.4;2.0;1.4;0.7;2.6;0.2;0.3;0.1
+49;Totaal mannen en vrouwen;15 tot 25 jaar;Ondergrens 95%-interval;2019;3.6;2.0;1.4;0.8;2.7;0.2;0.2;0.1
+50;Totaal mannen en vrouwen;15 tot 25 jaar;Ondergrens 95%-interval;2020;2.8;1.5;1.1;0.7;2.2;0.1;0.2;0.1
+51;Totaal mannen en vrouwen;15 tot 25 jaar;Ondergrens 95%-interval;2021;2.7;1.4;1.1;0.6;1.9;0.2;0.3;0.1
+52;Totaal mannen en vrouwen;15 tot 25 jaar;Ondergrens 95%-interval;2022;2.8;1.5;1.2;0.6;1.9;0.2;0.3;0.1
+53;Totaal mannen en vrouwen;15 tot 25 jaar;Ondergrens 95%-interval;2023;3.3;1.8;1.4;0.7;2.3;0.3;0.2;0.1
+54;Totaal mannen en vrouwen;15 tot 25 jaar;Ondergrens 95%-interval;2024;2.6;1.5;1.0;0.6;1.7;0.3;0.2;0.1
+55;Totaal mannen en vrouwen;15 tot 25 jaar;Bovengrens 95%-interval;2014;5.1;3.4;2.1;1.0;3.9;0.4;0.9;0.4
+56;Totaal mannen en vrouwen;15 tot 25 jaar;Bovengrens 95%-interval;2015;4.5;3.0;1.8;1.0;3.7;0.3;0.6;0.3
+57;Totaal mannen en vrouwen;15 tot 25 jaar;Bovengrens 95%-interval;2016;4.5;3.0;1.8;1.0;3.3;0.3;0.8;0.6
+58;Totaal mannen en vrouwen;15 tot 25 jaar;Bovengrens 95%-interval;2017;5.1;3.4;2.3;1.4;4.1;0.5;0.6;0.4
+59;Totaal mannen en vrouwen;15 tot 25 jaar;Bovengrens 95%-interval;2018;4.3;2.6;2.0;1.2;3.3;0.4;0.6;0.3
+60;Totaal mannen en vrouwen;15 tot 25 jaar;Bovengrens 95%-interval;2019;4.5;2.7;1.9;1.2;3.5;0.5;0.5;0.3
+61;Totaal mannen en vrouwen;15 tot 25 jaar;Bovengrens 95%-interval;2020;3.7;2.1;1.7;1.1;2.9;0.4;0.4;0.3
+62;Totaal mannen en vrouwen;15 tot 25 jaar;Bovengrens 95%-interval;2021;3.7;2.2;1.7;1.2;2.6;0.5;0.6;0.4
+63;Totaal mannen en vrouwen;15 tot 25 jaar;Bovengrens 95%-interval;2022;3.7;2.1;1.8;1.1;2.6;0.5;0.6;0.4
+64;Totaal mannen en vrouwen;15 tot 25 jaar;Bovengrens 95%-interval;2023;4.2;2.5;2.0;1.2;3.1;0.6;0.5;0.4
+65;Totaal mannen en vrouwen;15 tot 25 jaar;Bovengrens 95%-interval;2024;3.4;2.1;1.5;1.0;2.3;0.6;0.5;0.3
+66;Totaal mannen en vrouwen;25 tot 35 jaar;Waarde;2014;3.5;1.9;1.5;0.9;2.1;0.6;0.4;0.2
+67;Totaal mannen en vrouwen;25 tot 35 jaar;Waarde;2015;3.4;2.0;1.4;0.8;2.3;0.3;0.5;0.2
+68;Totaal mannen en vrouwen;25 tot 35 jaar;Waarde;2016;3.4;1.9;1.6;1.0;2.1;0.5;0.5;0.2
+69;Totaal mannen en vrouwen;25 tot 35 jaar;Waarde;2017;3.6;2.1;1.7;1.1;2.5;0.6;0.4;0.2
+70;Totaal mannen en vrouwen;25 tot 35 jaar;Waarde;2018;3.3;1.6;1.6;1.2;2.1;0.6;0.4;0.1
+71;Totaal mannen en vrouwen;25 tot 35 jaar;Waarde;2019;3.2;1.9;1.4;1.0;2.1;0.6;0.4;0.1
+72;Totaal mannen en vrouwen;25 tot 35 jaar;Waarde;2020;2.7;1.4;1.4;0.9;1.8;0.6;0.2;0.1
+73;Totaal mannen en vrouwen;25 tot 35 jaar;Waarde;2021;3.1;1.5;1.6;1.1;1.8;0.8;0.4;0.0
+74;Totaal mannen en vrouwen;25 tot 35 jaar;Waarde;2022;2.5;1.3;1.3;0.9;1.5;0.6;0.3;0.0
+75;Totaal mannen en vrouwen;25 tot 35 jaar;Waarde;2023;2.8;1.4;1.4;1.0;1.6;0.8;0.3;0.1
+76;Totaal mannen en vrouwen;25 tot 35 jaar;Waarde;2024;2.4;1.3;1.1;0.8;1.6;0.5;0.2;0.1
+77;Totaal mannen en vrouwen;25 tot 35 jaar;Ondergrens 95%-interval;2014;3.0;1.6;1.2;0.7;1.8;0.4;0.3;0.1
+78;Totaal mannen en vrouwen;25 tot 35 jaar;Ondergrens 95%-interval;2015;2.9;1.7;1.2;0.6;2.0;0.2;0.3;0.1
+79;Totaal mannen en vrouwen;25 tot 35 jaar;Ondergrens 95%-interval;2016;3.0;1.6;1.3;0.8;1.8;0.3;0.4;0.1
+80;Totaal mannen en vrouwen;25 tot 35 jaar;Ondergrens 95%-interval;2017;3.2;1.7;1.4;0.9;2.1;0.4;0.2;0.1
+81;Totaal mannen en vrouwen;25 tot 35 jaar;Ondergrens 95%-interval;2018;2.9;1.4;1.4;1.0;1.8;0.5;0.3;0.1
+82;Totaal mannen en vrouwen;25 tot 35 jaar;Ondergrens 95%-interval;2019;2.9;1.6;1.2;0.8;1.8;0.5;0.3;0.0
+83;Totaal mannen en vrouwen;25 tot 35 jaar;Ondergrens 95%-interval;2020;2.4;1.2;1.2;0.7;1.5;0.4;0.2;0.0
+84;Totaal mannen en vrouwen;25 tot 35 jaar;Ondergrens 95%-interval;2021;2.7;1.2;1.3;0.8;1.5;0.6;0.2;0.0
+85;Totaal mannen en vrouwen;25 tot 35 jaar;Ondergrens 95%-interval;2022;2.2;1.1;1.0;0.7;1.3;0.5;0.2;0.0
+86;Totaal mannen en vrouwen;25 tot 35 jaar;Ondergrens 95%-interval;2023;2.5;1.2;1.2;0.8;1.4;0.6;0.2;0.1
+87;Totaal mannen en vrouwen;25 tot 35 jaar;Ondergrens 95%-interval;2024;2.1;1.1;0.9;0.6;1.4;0.4;0.1;0.0
+88;Totaal mannen en vrouwen;25 tot 35 jaar;Bovengrens 95%-interval;2014;4.0;2.3;1.9;1.2;2.5;0.9;0.7;0.4
+89;Totaal mannen en vrouwen;25 tot 35 jaar;Bovengrens 95%-interval;2015;3.8;2.4;1.7;1.1;2.7;0.5;0.7;0.3
+90;Totaal mannen en vrouwen;25 tot 35 jaar;Bovengrens 95%-interval;2016;3.8;2.2;1.9;1.3;2.5;0.7;0.7;0.3
+91;Totaal mannen en vrouwen;25 tot 35 jaar;Bovengrens 95%-interval;2017;4.1;2.4;2.1;1.4;2.9;0.8;0.6;0.3
+92;Totaal mannen en vrouwen;25 tot 35 jaar;Bovengrens 95%-interval;2018;3.7;1.9;1.9;1.5;2.4;0.8;0.6;0.2
+93;Totaal mannen en vrouwen;25 tot 35 jaar;Bovengrens 95%-interval;2019;3.7;2.3;1.7;1.3;2.4;0.8;0.6;0.2
+94;Totaal mannen en vrouwen;25 tot 35 jaar;Bovengrens 95%-interval;2020;3.1;1.7;1.7;1.2;2.1;0.8;0.4;0.2
+95;Totaal mannen en vrouwen;25 tot 35 jaar;Bovengrens 95%-interval;2021;3.5;1.8;1.9;1.4;2.2;1.1;0.5;0.2
+96;Totaal mannen en vrouwen;25 tot 35 jaar;Bovengrens 95%-interval;2022;2.9;1.6;1.5;1.1;1.8;0.8;0.4;0.1
+97;Totaal mannen en vrouwen;25 tot 35 jaar;Bovengrens 95%-interval;2023;3.1;1.7;1.7;1.2;1.9;1.0;0.4;0.2
+98;Totaal mannen en vrouwen;25 tot 35 jaar;Bovengrens 95%-interval;2024;2.8;1.6;1.4;1.0;1.9;0.7;0.3;0.2
+99;Totaal mannen en vrouwen;35 tot 45 jaar;Waarde;2014;3.2;1.6;1.6;1.1;2.1;0.5;0.4;0.3
+100;Totaal mannen en vrouwen;35 tot 45 jaar;Waarde;2015;2.6;1.5;1.3;0.9;1.7;0.3;0.5;0.1
+101;Totaal mannen en vrouwen;35 tot 45 jaar;Waarde;2016;2.7;1.3;1.4;1.2;1.5;0.7;0.4;0.1
+102;Totaal mannen en vrouwen;35 tot 45 jaar;Waarde;2017;3.2;1.7;1.6;1.2;2.1;0.5;0.5;0.1
+103;Totaal mannen en vrouwen;35 tot 45 jaar;Waarde;2018;2.8;1.5;1.4;1.1;1.8;0.6;0.3;0.1
+104;Totaal mannen en vrouwen;35 tot 45 jaar;Waarde;2019;2.9;1.6;1.4;1.0;2.0;0.5;0.3;0.1
+105;Totaal mannen en vrouwen;35 tot 45 jaar;Waarde;2020;2.3;1.2;1.1;0.8;1.5;0.4;0.3;0.1
+106;Totaal mannen en vrouwen;35 tot 45 jaar;Waarde;2021;1.9;1.0;0.9;0.7;1.1;0.3;0.3;0.1
+107;Totaal mannen en vrouwen;35 tot 45 jaar;Waarde;2022;2.4;1.1;1.3;1.0;1.4;0.5;0.4;0.1
+108;Totaal mannen en vrouwen;35 tot 45 jaar;Waarde;2023;2.1;1.2;1.0;0.7;1.3;0.5;0.2;0.1
+109;Totaal mannen en vrouwen;35 tot 45 jaar;Waarde;2024;2.4;1.1;1.4;1.1;1.4;0.7;0.2;0.1
+110;Totaal mannen en vrouwen;35 tot 45 jaar;Ondergrens 95%-interval;2014;2.8;1.3;1.3;0.9;1.7;0.3;0.3;0.2
+111;Totaal mannen en vrouwen;35 tot 45 jaar;Ondergrens 95%-interval;2015;2.3;1.2;1.0;0.7;1.4;0.2;0.4;0.0
+112;Totaal mannen en vrouwen;35 tot 45 jaar;Ondergrens 95%-interval;2016;2.3;1.1;1.1;0.9;1.3;0.5;0.3;0.0
+113;Totaal mannen en vrouwen;35 tot 45 jaar;Ondergrens 95%-interval;2017;2.8;1.4;1.3;0.9;1.8;0.3;0.3;0.1
+114;Totaal mannen en vrouwen;35 tot 45 jaar;Ondergrens 95%-interval;2018;2.5;1.3;1.2;0.9;1.5;0.4;0.2;0.1
+115;Totaal mannen en vrouwen;35 tot 45 jaar;Ondergrens 95%-interval;2019;2.6;1.4;1.2;0.8;1.7;0.4;0.2;0.1
+116;Totaal mannen en vrouwen;35 tot 45 jaar;Ondergrens 95%-interval;2020;2.0;1.0;0.9;0.6;1.3;0.3;0.2;0.0
+117;Totaal mannen en vrouwen;35 tot 45 jaar;Ondergrens 95%-interval;2021;1.6;0.8;0.7;0.5;0.9;0.2;0.2;0.0
+118;Totaal mannen en vrouwen;35 tot 45 jaar;Ondergrens 95%-interval;2022;2.1;0.9;1.1;0.8;1.2;0.4;0.3;0.0
+119;Totaal mannen en vrouwen;35 tot 45 jaar;Ondergrens 95%-interval;2023;1.8;1.0;0.8;0.6;1.1;0.4;0.1;0.0
+120;Totaal mannen en vrouwen;35 tot 45 jaar;Ondergrens 95%-interval;2024;2.1;0.9;1.2;0.9;1.2;0.6;0.1;0.0
+121;Totaal mannen en vrouwen;35 tot 45 jaar;Bovengrens 95%-interval;2014;3.7;1.9;1.9;1.4;2.4;0.7;0.6;0.4
+122;Totaal mannen en vrouwen;35 tot 45 jaar;Bovengrens 95%-interval;2015;3.0;1.8;1.5;1.1;2.0;0.5;0.7;0.2
+123;Totaal mannen en vrouwen;35 tot 45 jaar;Bovengrens 95%-interval;2016;3.1;1.6;1.7;1.5;1.8;0.9;0.6;0.2
+124;Totaal mannen en vrouwen;35 tot 45 jaar;Bovengrens 95%-interval;2017;3.7;2.0;1.9;1.5;2.5;0.7;0.7;0.2
+125;Totaal mannen en vrouwen;35 tot 45 jaar;Bovengrens 95%-interval;2018;3.1;1.8;1.6;1.3;2.0;0.7;0.4;0.2
+126;Totaal mannen en vrouwen;35 tot 45 jaar;Bovengrens 95%-interval;2019;3.3;1.9;1.7;1.2;2.3;0.7;0.4;0.2
+127;Totaal mannen en vrouwen;35 tot 45 jaar;Bovengrens 95%-interval;2020;2.6;1.4;1.4;1.0;1.8;0.5;0.5;0.2
+128;Totaal mannen en vrouwen;35 tot 45 jaar;Bovengrens 95%-interval;2021;2.2;1.3;1.1;0.9;1.4;0.5;0.5;0.1
+129;Totaal mannen en vrouwen;35 tot 45 jaar;Bovengrens 95%-interval;2022;2.7;1.3;1.6;1.3;1.7;0.7;0.5;0.1
+130;Totaal mannen en vrouwen;35 tot 45 jaar;Bovengrens 95%-interval;2023;2.4;1.5;1.2;0.9;1.6;0.7;0.3;0.2
+131;Totaal mannen en vrouwen;35 tot 45 jaar;Bovengrens 95%-interval;2024;2.7;1.4;1.7;1.4;1.6;0.9;0.3;0.2
+132;Totaal mannen en vrouwen;45 tot 55 jaar;Waarde;2014;3.4;1.7;1.9;1.5;2.1;0.5;0.4;0.3
+133;Totaal mannen en vrouwen;45 tot 55 jaar;Waarde;2015;2.8;1.4;1.3;1.0;1.7;0.4;0.4;0.2
+134;Totaal mannen en vrouwen;45 tot 55 jaar;Waarde;2016;2.5;1.2;1.4;1.0;1.6;0.4;0.4;0.2
+135;Totaal mannen en vrouwen;45 tot 55 jaar;Waarde;2017;2.8;1.6;1.4;1.1;1.7;0.5;0.4;0.2
+136;Totaal mannen en vrouwen;45 tot 55 jaar;Waarde;2018;3.1;1.7;1.4;1.1;1.9;0.6;0.4;0.1
+137;Totaal mannen en vrouwen;45 tot 55 jaar;Waarde;2019;3.0;1.7;1.4;1.1;2.1;0.4;0.3;0.2
+138;Totaal mannen en vrouwen;45 tot 55 jaar;Waarde;2020;2.3;1.3;1.1;0.8;1.5;0.4;0.3;0.1
+139;Totaal mannen en vrouwen;45 tot 55 jaar;Waarde;2021;2.5;1.1;1.4;1.1;1.7;0.3;0.3;0.1
+140;Totaal mannen en vrouwen;45 tot 55 jaar;Waarde;2022;2.5;1.3;1.2;0.9;1.7;0.4;0.2;0.1
+141;Totaal mannen en vrouwen;45 tot 55 jaar;Waarde;2023;2.4;1.1;1.4;1.1;1.4;0.6;0.4;0.1
+142;Totaal mannen en vrouwen;45 tot 55 jaar;Waarde;2024;2.2;1.2;1.1;0.8;1.4;0.5;0.2;0.1
+143;Totaal mannen en vrouwen;45 tot 55 jaar;Ondergrens 95%-interval;2014;3.0;1.4;1.6;1.2;1.8;0.4;0.3;0.2
+144;Totaal mannen en vrouwen;45 tot 55 jaar;Ondergrens 95%-interval;2015;2.4;1.2;1.1;0.9;1.4;0.3;0.3;0.2
+145;Totaal mannen en vrouwen;45 tot 55 jaar;Ondergrens 95%-interval;2016;2.3;1.0;1.2;0.8;1.3;0.3;0.3;0.1
+146;Totaal mannen en vrouwen;45 tot 55 jaar;Ondergrens 95%-interval;2017;2.5;1.3;1.2;0.9;1.5;0.4;0.3;0.1
+147;Totaal mannen en vrouwen;45 tot 55 jaar;Ondergrens 95%-interval;2018;2.8;1.5;1.2;0.9;1.7;0.5;0.3;0.1
+148;Totaal mannen en vrouwen;45 tot 55 jaar;Ondergrens 95%-interval;2019;2.7;1.5;1.2;1.0;1.8;0.3;0.2;0.1
+149;Totaal mannen en vrouwen;45 tot 55 jaar;Ondergrens 95%-interval;2020;2.1;1.1;0.9;0.6;1.3;0.3;0.2;0.0
+150;Totaal mannen en vrouwen;45 tot 55 jaar;Ondergrens 95%-interval;2021;2.2;0.9;1.2;0.9;1.5;0.2;0.2;0.1
+151;Totaal mannen en vrouwen;45 tot 55 jaar;Ondergrens 95%-interval;2022;2.2;1.1;1.0;0.8;1.5;0.3;0.2;0.0
+152;Totaal mannen en vrouwen;45 tot 55 jaar;Ondergrens 95%-interval;2023;2.1;0.9;1.1;0.9;1.2;0.4;0.3;0.0
+153;Totaal mannen en vrouwen;45 tot 55 jaar;Ondergrens 95%-interval;2024;1.9;1.0;0.9;0.6;1.2;0.4;0.1;0.0
+154;Totaal mannen en vrouwen;45 tot 55 jaar;Bovengrens 95%-interval;2014;3.8;2.0;2.2;1.7;2.4;0.7;0.6;0.5
+155;Totaal mannen en vrouwen;45 tot 55 jaar;Bovengrens 95%-interval;2015;3.1;1.7;1.6;1.3;1.9;0.5;0.6;0.4
+156;Totaal mannen en vrouwen;45 tot 55 jaar;Bovengrens 95%-interval;2016;2.9;1.4;1.7;1.2;1.8;0.5;0.5;0.3
+157;Totaal mannen en vrouwen;45 tot 55 jaar;Bovengrens 95%-interval;2017;3.2;1.9;1.7;1.3;2.0;0.7;0.6;0.3
+158;Totaal mannen en vrouwen;45 tot 55 jaar;Bovengrens 95%-interval;2018;3.4;1.9;1.6;1.3;2.2;0.7;0.5;0.2
+159;Totaal mannen en vrouwen;45 tot 55 jaar;Bovengrens 95%-interval;2019;3.4;1.9;1.7;1.4;2.4;0.6;0.4;0.3
+160;Totaal mannen en vrouwen;45 tot 55 jaar;Bovengrens 95%-interval;2020;2.6;1.5;1.3;1.0;1.7;0.6;0.4;0.2
+161;Totaal mannen en vrouwen;45 tot 55 jaar;Bovengrens 95%-interval;2021;2.8;1.3;1.7;1.4;2.0;0.4;0.5;0.2
+162;Totaal mannen en vrouwen;45 tot 55 jaar;Bovengrens 95%-interval;2022;2.8;1.6;1.4;1.2;2.0;0.6;0.4;0.2
+163;Totaal mannen en vrouwen;45 tot 55 jaar;Bovengrens 95%-interval;2023;2.8;1.3;1.6;1.3;1.7;0.7;0.5;0.2
+164;Totaal mannen en vrouwen;45 tot 55 jaar;Bovengrens 95%-interval;2024;2.5;1.4;1.3;1.0;1.6;0.6;0.3;0.2
+165;Totaal mannen en vrouwen;55 tot 65 jaar;Waarde;2014;3.0;1.4;1.7;1.3;1.5;0.6;0.6;0.3
+166;Totaal mannen en vrouwen;55 tot 65 jaar;Waarde;2015;2.9;1.3;1.6;1.3;1.7;0.7;0.4;0.2
+167;Totaal mannen en vrouwen;55 tot 65 jaar;Waarde;2016;2.7;1.5;1.3;1.0;1.6;0.4;0.4;0.3
+168;Totaal mannen en vrouwen;55 tot 65 jaar;Waarde;2017;3.1;1.4;1.6;1.4;1.9;0.6;0.4;0.2
+169;Totaal mannen en vrouwen;55 tot 65 jaar;Waarde;2018;2.9;1.4;1.4;1.2;1.7;0.7;0.4;0.1
+170;Totaal mannen en vrouwen;55 tot 65 jaar;Waarde;2019;3.5;1.6;1.9;1.5;2.3;0.6;0.3;0.2
+171;Totaal mannen en vrouwen;55 tot 65 jaar;Waarde;2020;2.4;1.0;1.3;1.0;1.4;0.4;0.3;0.2
+172;Totaal mannen en vrouwen;55 tot 65 jaar;Waarde;2021;2.6;1.2;1.4;1.1;1.5;0.5;0.4;0.2
+173;Totaal mannen en vrouwen;55 tot 65 jaar;Waarde;2022;2.7;1.3;1.4;1.2;1.6;0.5;0.3;0.1
+174;Totaal mannen en vrouwen;55 tot 65 jaar;Waarde;2023;2.7;1.3;1.3;1.0;1.7;0.5;0.3;0.1
+175;Totaal mannen en vrouwen;55 tot 65 jaar;Waarde;2024;2.5;1.1;1.3;1.0;1.4;0.6;0.3;0.1
+176;Totaal mannen en vrouwen;55 tot 65 jaar;Ondergrens 95%-interval;2014;2.7;1.2;1.4;1.0;1.2;0.5;0.5;0.2
+177;Totaal mannen en vrouwen;55 tot 65 jaar;Ondergrens 95%-interval;2015;2.6;1.1;1.4;1.1;1.4;0.5;0.3;0.1
+178;Totaal mannen en vrouwen;55 tot 65 jaar;Ondergrens 95%-interval;2016;2.4;1.2;1.1;0.8;1.3;0.3;0.3;0.2
+179;Totaal mannen en vrouwen;55 tot 65 jaar;Ondergrens 95%-interval;2017;2.8;1.1;1.4;1.2;1.6;0.4;0.3;0.1
+180;Totaal mannen en vrouwen;55 tot 65 jaar;Ondergrens 95%-interval;2018;2.6;1.3;1.3;1.0;1.5;0.6;0.3;0.1
+181;Totaal mannen en vrouwen;55 tot 65 jaar;Ondergrens 95%-interval;2019;3.2;1.4;1.6;1.3;2.0;0.5;0.3;0.1
+182;Totaal mannen en vrouwen;55 tot 65 jaar;Ondergrens 95%-interval;2020;2.1;0.8;1.1;0.8;1.2;0.3;0.2;0.1
+183;Totaal mannen en vrouwen;55 tot 65 jaar;Ondergrens 95%-interval;2021;2.3;1.0;1.2;0.9;1.3;0.4;0.3;0.1
+184;Totaal mannen en vrouwen;55 tot 65 jaar;Ondergrens 95%-interval;2022;2.4;1.1;1.2;1.0;1.4;0.4;0.3;0.1
+185;Totaal mannen en vrouwen;55 tot 65 jaar;Ondergrens 95%-interval;2023;2.4;1.2;1.1;0.8;1.5;0.4;0.2;0.0
+186;Totaal mannen en vrouwen;55 tot 65 jaar;Ondergrens 95%-interval;2024;2.2;1.0;1.1;0.8;1.2;0.5;0.2;0.1
+187;Totaal mannen en vrouwen;55 tot 65 jaar;Bovengrens 95%-interval;2014;3.4;1.7;2.0;1.5;1.8;0.8;0.8;0.4
+188;Totaal mannen en vrouwen;55 tot 65 jaar;Bovengrens 95%-interval;2015;3.3;1.6;1.9;1.5;2.0;0.9;0.5;0.3
+189;Totaal mannen en vrouwen;55 tot 65 jaar;Bovengrens 95%-interval;2016;3.1;1.7;1.6;1.2;1.8;0.6;0.6;0.5
+190;Totaal mannen en vrouwen;55 tot 65 jaar;Bovengrens 95%-interval;2017;3.5;1.6;1.9;1.7;2.2;0.7;0.5;0.4
+191;Totaal mannen en vrouwen;55 tot 65 jaar;Bovengrens 95%-interval;2018;3.2;1.7;1.7;1.4;2.0;0.9;0.5;0.2
+192;Totaal mannen en vrouwen;55 tot 65 jaar;Bovengrens 95%-interval;2019;3.8;1.9;2.1;1.8;2.5;0.8;0.5;0.3
+193;Totaal mannen en vrouwen;55 tot 65 jaar;Bovengrens 95%-interval;2020;2.7;1.2;1.5;1.2;1.7;0.5;0.5;0.2
+194;Totaal mannen en vrouwen;55 tot 65 jaar;Bovengrens 95%-interval;2021;3.0;1.4;1.6;1.4;1.8;0.7;0.5;0.3
+195;Totaal mannen en vrouwen;55 tot 65 jaar;Bovengrens 95%-interval;2022;3.0;1.5;1.6;1.4;1.8;0.7;0.5;0.2
+196;Totaal mannen en vrouwen;55 tot 65 jaar;Bovengrens 95%-interval;2023;3.0;1.6;1.5;1.2;2.0;0.6;0.5;0.2
+197;Totaal mannen en vrouwen;55 tot 65 jaar;Bovengrens 95%-interval;2024;2.8;1.4;1.5;1.2;1.7;0.7;0.4;0.2
+198;Totaal mannen en vrouwen;65 tot 75 jaar;Waarde;2014;2.3;0.6;0.8;0.6;0.9;0.0;0.5;0.9
+199;Totaal mannen en vrouwen;65 tot 75 jaar;Waarde;2015;0.2;0.2;0.0;0.0;0.0;0.0;0.0;0.2
+200;Totaal mannen en vrouwen;65 tot 75 jaar;Waarde;2016;1.2;0.1;0.8;0.5;0.4;0.0;0.5;0.2
+201;Totaal mannen en vrouwen;65 tot 75 jaar;Waarde;2017;1.6;0.5;1.2;0.8;1.0;0.3;0.3;0.0
+202;Totaal mannen en vrouwen;65 tot 75 jaar;Waarde;2018;1.6;0.8;0.6;0.5;1.2;0.0;0.2;0.2
+203;Totaal mannen en vrouwen;65 tot 75 jaar;Waarde;2019;1.9;0.9;0.9;0.8;1.2;0.2;0.1;0.4
+204;Totaal mannen en vrouwen;65 tot 75 jaar;Waarde;2020;1.4;0.4;0.8;0.7;0.8;0.1;0.1;0.3
+205;Totaal mannen en vrouwen;65 tot 75 jaar;Waarde;2021;1.3;0.6;0.7;0.6;0.8;0.2;0.2;0.1
+206;Totaal mannen en vrouwen;65 tot 75 jaar;Waarde;2022;1.8;0.9;0.8;0.8;1.3;0.1;0.3;0.0
+207;Totaal mannen en vrouwen;65 tot 75 jaar;Waarde;2023;2.1;0.7;1.4;1.1;1.3;0.2;0.2;0.4
+208;Totaal mannen en vrouwen;65 tot 75 jaar;Waarde;2024;1.7;0.9;0.8;0.7;1.1;0.3;0.2;0.1
+209;Totaal mannen en vrouwen;65 tot 75 jaar;Ondergrens 95%-interval;2014;1.2;0.2;0.3;0.2;0.4;0.0;0.1;0.3
+210;Totaal mannen en vrouwen;65 tot 75 jaar;Ondergrens 95%-interval;2015;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+211;Totaal mannen en vrouwen;65 tot 75 jaar;Ondergrens 95%-interval;2016;0.6;0.0;0.4;0.2;0.1;0.0;0.2;0.1
+212;Totaal mannen en vrouwen;65 tot 75 jaar;Ondergrens 95%-interval;2017;0.9;0.2;0.6;0.4;0.5;0.1;0.1;0.0
+213;Totaal mannen en vrouwen;65 tot 75 jaar;Ondergrens 95%-interval;2018;1.0;0.4;0.3;0.2;0.7;0.0;0.1;0.1
+214;Totaal mannen en vrouwen;65 tot 75 jaar;Ondergrens 95%-interval;2019;1.3;0.5;0.5;0.4;0.8;0.1;0.0;0.2
+215;Totaal mannen en vrouwen;65 tot 75 jaar;Ondergrens 95%-interval;2020;0.9;0.2;0.5;0.4;0.5;0.0;0.0;0.1
+216;Totaal mannen en vrouwen;65 tot 75 jaar;Ondergrens 95%-interval;2021;0.8;0.3;0.4;0.3;0.4;0.1;0.1;0.0
+217;Totaal mannen en vrouwen;65 tot 75 jaar;Ondergrens 95%-interval;2022;1.3;0.5;0.5;0.5;0.9;0.0;0.1;0.0
+218;Totaal mannen en vrouwen;65 tot 75 jaar;Ondergrens 95%-interval;2023;1.6;0.4;0.9;0.7;0.9;0.1;0.1;0.2
+219;Totaal mannen en vrouwen;65 tot 75 jaar;Ondergrens 95%-interval;2024;1.3;0.6;0.6;0.5;0.8;0.1;0.1;0.0
+220;Totaal mannen en vrouwen;65 tot 75 jaar;Bovengrens 95%-interval;2014;4.3;1.7;2.1;1.9;2.1;;1.9;2.9
+221;Totaal mannen en vrouwen;65 tot 75 jaar;Bovengrens 95%-interval;2015;1.2;1.2;;;;;;1.2
+222;Totaal mannen en vrouwen;65 tot 75 jaar;Bovengrens 95%-interval;2016;2.1;0.7;1.6;1.2;1.0;;1.3;0.9
+223;Totaal mannen en vrouwen;65 tot 75 jaar;Bovengrens 95%-interval;2017;2.7;1.3;2.3;1.8;1.9;1.2;1.1;
+224;Totaal mannen en vrouwen;65 tot 75 jaar;Bovengrens 95%-interval;2018;2.6;1.6;1.2;1.0;2.1;0.1;0.5;0.6
+225;Totaal mannen en vrouwen;65 tot 75 jaar;Bovengrens 95%-interval;2019;2.7;1.5;1.5;1.4;1.9;0.5;0.4;0.9
+226;Totaal mannen en vrouwen;65 tot 75 jaar;Bovengrens 95%-interval;2020;2.1;0.8;1.4;1.3;1.4;0.4;0.5;0.8
+227;Totaal mannen en vrouwen;65 tot 75 jaar;Bovengrens 95%-interval;2021;2.0;1.2;1.3;1.2;1.4;0.6;0.6;0.7
+228;Totaal mannen en vrouwen;65 tot 75 jaar;Bovengrens 95%-interval;2022;2.4;1.4;1.3;1.2;1.9;0.6;0.6;0.3
+229;Totaal mannen en vrouwen;65 tot 75 jaar;Bovengrens 95%-interval;2023;2.8;1.1;2.0;1.6;1.9;0.5;0.6;0.7
+230;Totaal mannen en vrouwen;65 tot 75 jaar;Bovengrens 95%-interval;2024;2.3;1.4;1.3;1.1;1.6;0.6;0.5;0.4
+231;Mannen;15 tot 75 jaar;Waarde;2014;3.9;1.9;2.0;1.3;2.5;0.5;0.5;0.3
+232;Mannen;15 tot 75 jaar;Waarde;2015;3.4;1.8;1.7;1.2;2.4;0.3;0.5;0.2
+233;Mannen;15 tot 75 jaar;Waarde;2016;3.3;1.7;1.7;1.1;2.2;0.4;0.5;0.2
+234;Mannen;15 tot 75 jaar;Waarde;2017;3.9;2.0;1.9;1.3;2.7;0.4;0.4;0.2
+235;Mannen;15 tot 75 jaar;Waarde;2018;3.4;1.7;1.7;1.2;2.3;0.4;0.4;0.2
+236;Mannen;15 tot 75 jaar;Waarde;2019;3.8;2.0;1.9;1.4;2.8;0.4;0.4;0.2
+237;Mannen;15 tot 75 jaar;Waarde;2020;2.8;1.4;1.5;1.1;2.0;0.3;0.3;0.1
+238;Mannen;15 tot 75 jaar;Waarde;2021;3.0;1.4;1.6;1.1;2.0;0.4;0.4;0.1
+239;Mannen;15 tot 75 jaar;Waarde;2022;3.0;1.4;1.6;1.2;2.0;0.4;0.4;0.1
+240;Mannen;15 tot 75 jaar;Waarde;2023;2.9;1.4;1.5;1.0;2.0;0.4;0.3;0.1
+241;Mannen;15 tot 75 jaar;Waarde;2024;2.7;1.4;1.4;1.0;1.9;0.5;0.3;0.1
+242;Mannen;15 tot 75 jaar;Ondergrens 95%-interval;2014;3.6;1.7;1.8;1.2;2.3;0.4;0.4;0.2
+243;Mannen;15 tot 75 jaar;Ondergrens 95%-interval;2015;3.2;1.6;1.5;1.0;2.2;0.3;0.4;0.1
+244;Mannen;15 tot 75 jaar;Ondergrens 95%-interval;2016;3.1;1.5;1.5;1.0;2.0;0.3;0.4;0.2
+245;Mannen;15 tot 75 jaar;Ondergrens 95%-interval;2017;3.6;1.8;1.7;1.2;2.5;0.4;0.3;0.2
+246;Mannen;15 tot 75 jaar;Ondergrens 95%-interval;2018;3.2;1.6;1.6;1.1;2.2;0.4;0.4;0.1
+247;Mannen;15 tot 75 jaar;Ondergrens 95%-interval;2019;3.6;1.8;1.7;1.2;2.6;0.4;0.3;0.1
+248;Mannen;15 tot 75 jaar;Ondergrens 95%-interval;2020;2.6;1.2;1.4;0.9;1.9;0.2;0.2;0.1
+249;Mannen;15 tot 75 jaar;Ondergrens 95%-interval;2021;2.7;1.2;1.4;1.0;1.8;0.3;0.4;0.1
+250;Mannen;15 tot 75 jaar;Ondergrens 95%-interval;2022;2.8;1.3;1.5;1.1;1.8;0.4;0.3;0.1
+251;Mannen;15 tot 75 jaar;Ondergrens 95%-interval;2023;2.7;1.3;1.4;0.9;1.8;0.4;0.3;0.1
+252;Mannen;15 tot 75 jaar;Ondergrens 95%-interval;2024;2.5;1.2;1.3;0.9;1.7;0.4;0.2;0.1
+253;Mannen;15 tot 75 jaar;Bovengrens 95%-interval;2014;4.3;2.1;2.2;1.5;2.8;0.6;0.7;0.4
+254;Mannen;15 tot 75 jaar;Bovengrens 95%-interval;2015;3.7;2.0;1.9;1.3;2.6;0.4;0.6;0.2
+255;Mannen;15 tot 75 jaar;Bovengrens 95%-interval;2016;3.6;1.9;1.9;1.3;2.4;0.5;0.6;0.3
+256;Mannen;15 tot 75 jaar;Bovengrens 95%-interval;2017;4.1;2.2;2.2;1.5;3.0;0.5;0.5;0.3
+257;Mannen;15 tot 75 jaar;Bovengrens 95%-interval;2018;3.7;1.9;1.9;1.4;2.5;0.5;0.5;0.2
+258;Mannen;15 tot 75 jaar;Bovengrens 95%-interval;2019;4.1;2.2;2.1;1.5;3.0;0.5;0.5;0.2
+259;Mannen;15 tot 75 jaar;Bovengrens 95%-interval;2020;3.0;1.5;1.7;1.2;2.2;0.4;0.4;0.2
+260;Mannen;15 tot 75 jaar;Bovengrens 95%-interval;2021;3.2;1.6;1.7;1.3;2.2;0.5;0.5;0.1
+261;Mannen;15 tot 75 jaar;Bovengrens 95%-interval;2022;3.2;1.6;1.8;1.3;2.2;0.5;0.5;0.2
+262;Mannen;15 tot 75 jaar;Bovengrens 95%-interval;2023;3.1;1.5;1.7;1.2;2.1;0.5;0.4;0.2
+263;Mannen;15 tot 75 jaar;Bovengrens 95%-interval;2024;2.9;1.5;1.6;1.2;2.0;0.6;0.3;0.2
+264;Mannen;15 tot 25 jaar;Waarde;2014;5.6;3.5;2.0;0.9;4.2;0.2;0.8;0.3
+265;Mannen;15 tot 25 jaar;Waarde;2015;4.8;3.1;1.8;0.8;4.0;0.2;0.4;0.2
+266;Mannen;15 tot 25 jaar;Waarde;2016;4.7;3.4;1.4;0.6;3.4;0.2;0.6;0.5
+267;Mannen;15 tot 25 jaar;Waarde;2017;5.1;3.2;2.2;1.1;4.1;0.1;0.4;0.3
+268;Mannen;15 tot 25 jaar;Waarde;2018;4.5;2.8;1.7;0.9;3.7;0.1;0.4;0.2
+269;Mannen;15 tot 25 jaar;Waarde;2019;4.7;2.8;2.0;1.2;3.7;0.2;0.5;0.2
+270;Mannen;15 tot 25 jaar;Waarde;2020;3.7;1.9;1.7;1.2;3.1;0.1;0.3;0.1
+271;Mannen;15 tot 25 jaar;Waarde;2021;3.9;2.3;1.6;0.9;2.9;0.2;0.5;0.2
+272;Mannen;15 tot 25 jaar;Waarde;2022;3.6;1.9;1.7;1.1;2.7;0.2;0.5;0.2
+273;Mannen;15 tot 25 jaar;Waarde;2023;4.2;2.3;1.8;1.0;3.1;0.3;0.4;0.3
+274;Mannen;15 tot 25 jaar;Waarde;2024;3.4;2.0;1.3;0.8;2.4;0.4;0.3;0.2
+275;Mannen;15 tot 25 jaar;Ondergrens 95%-interval;2014;4.6;2.7;1.5;0.6;3.3;0.1;0.4;0.1
+276;Mannen;15 tot 25 jaar;Ondergrens 95%-interval;2015;4.0;2.5;1.3;0.6;3.3;0.1;0.2;0.1
+277;Mannen;15 tot 25 jaar;Ondergrens 95%-interval;2016;3.9;2.7;1.0;0.3;2.7;0.1;0.4;0.3
+278;Mannen;15 tot 25 jaar;Ondergrens 95%-interval;2017;4.3;2.6;1.6;0.8;3.4;0.0;0.2;0.2
+279;Mannen;15 tot 25 jaar;Ondergrens 95%-interval;2018;3.8;2.3;1.3;0.6;3.1;0.0;0.2;0.1
+280;Mannen;15 tot 25 jaar;Ondergrens 95%-interval;2019;4.1;2.3;1.6;0.9;3.1;0.1;0.3;0.1
+281;Mannen;15 tot 25 jaar;Ondergrens 95%-interval;2020;3.1;1.5;1.3;0.9;2.6;0.0;0.2;0.0
+282;Mannen;15 tot 25 jaar;Ondergrens 95%-interval;2021;3.2;1.8;1.2;0.6;2.3;0.1;0.3;0.1
+283;Mannen;15 tot 25 jaar;Ondergrens 95%-interval;2022;3.0;1.5;1.3;0.7;2.2;0.1;0.3;0.1
+284;Mannen;15 tot 25 jaar;Ondergrens 95%-interval;2023;3.5;1.8;1.4;0.7;2.5;0.1;0.3;0.1
+285;Mannen;15 tot 25 jaar;Ondergrens 95%-interval;2024;2.8;1.6;1.0;0.5;2.0;0.2;0.2;0.1
+286;Mannen;15 tot 25 jaar;Bovengrens 95%-interval;2014;6.8;4.4;2.8;1.4;5.2;0.6;1.3;0.7
+287;Mannen;15 tot 25 jaar;Bovengrens 95%-interval;2015;5.6;3.8;2.3;1.2;4.8;0.4;0.7;0.6
+288;Mannen;15 tot 25 jaar;Bovengrens 95%-interval;2016;5.7;4.2;2.0;1.0;4.2;0.5;1.0;0.9
+289;Mannen;15 tot 25 jaar;Bovengrens 95%-interval;2017;6.1;4.0;2.9;1.7;5.0;0.4;0.8;0.6
+290;Mannen;15 tot 25 jaar;Bovengrens 95%-interval;2018;5.2;3.4;2.2;1.3;4.4;0.3;0.7;0.4
+291;Mannen;15 tot 25 jaar;Bovengrens 95%-interval;2019;5.5;3.4;2.5;1.6;4.4;0.5;0.8;0.5
+292;Mannen;15 tot 25 jaar;Bovengrens 95%-interval;2020;4.4;2.4;2.3;1.6;3.7;0.3;0.6;0.3
+293;Mannen;15 tot 25 jaar;Bovengrens 95%-interval;2021;4.7;3.0;2.2;1.3;3.6;0.5;0.9;0.5
+294;Mannen;15 tot 25 jaar;Bovengrens 95%-interval;2022;4.3;2.4;2.3;1.5;3.3;0.4;0.8;0.4
+295;Mannen;15 tot 25 jaar;Bovengrens 95%-interval;2023;4.9;2.8;2.3;1.5;3.7;0.5;0.7;0.5
+296;Mannen;15 tot 25 jaar;Bovengrens 95%-interval;2024;4.0;2.5;1.7;1.2;3.0;0.6;0.6;0.4
+297;Mannen;25 tot 35 jaar;Waarde;2014;4.0;2.2;1.8;1.0;2.7;0.5;0.4;0.3
+298;Mannen;25 tot 35 jaar;Waarde;2015;3.9;2.4;1.7;1.0;2.8;0.2;0.6;0.3
+299;Mannen;25 tot 35 jaar;Waarde;2016;3.7;2.1;1.8;1.1;2.6;0.3;0.5;0.2
+300;Mannen;25 tot 35 jaar;Waarde;2017;4.4;2.4;2.3;1.3;3.2;0.5;0.5;0.2
+301;Mannen;25 tot 35 jaar;Waarde;2018;3.6;1.6;2.0;1.3;2.4;0.5;0.5;0.1
+302;Mannen;25 tot 35 jaar;Waarde;2019;3.9;2.4;1.7;1.2;2.9;0.4;0.4;0.1
+303;Mannen;25 tot 35 jaar;Waarde;2020;3.1;1.6;1.8;1.1;2.3;0.3;0.3;0.1
+304;Mannen;25 tot 35 jaar;Waarde;2021;3.5;1.7;1.8;1.2;2.2;0.8;0.4;0.0
+305;Mannen;25 tot 35 jaar;Waarde;2022;2.9;1.5;1.5;1.0;2.0;0.5;0.4;0.0
+306;Mannen;25 tot 35 jaar;Waarde;2023;2.9;1.4;1.5;0.9;1.9;0.5;0.3;0.1
+307;Mannen;25 tot 35 jaar;Waarde;2024;2.8;1.5;1.3;0.8;2.0;0.5;0.2;0.1
+308;Mannen;25 tot 35 jaar;Ondergrens 95%-interval;2014;3.3;1.7;1.3;0.7;2.1;0.3;0.2;0.2
+309;Mannen;25 tot 35 jaar;Ondergrens 95%-interval;2015;3.2;1.9;1.3;0.7;2.3;0.1;0.4;0.1
+310;Mannen;25 tot 35 jaar;Ondergrens 95%-interval;2016;3.1;1.6;1.4;0.8;2.1;0.2;0.3;0.1
+311;Mannen;25 tot 35 jaar;Ondergrens 95%-interval;2017;3.7;1.9;1.8;1.0;2.6;0.3;0.3;0.1
+312;Mannen;25 tot 35 jaar;Ondergrens 95%-interval;2018;3.1;1.2;1.6;1.0;2.0;0.3;0.3;0.0
+313;Mannen;25 tot 35 jaar;Ondergrens 95%-interval;2019;3.3;2.0;1.3;0.9;2.4;0.3;0.2;0.0
+314;Mannen;25 tot 35 jaar;Ondergrens 95%-interval;2020;2.5;1.2;1.4;0.8;1.8;0.2;0.2;0.0
+315;Mannen;25 tot 35 jaar;Ondergrens 95%-interval;2021;2.9;1.3;1.3;0.9;1.8;0.6;0.2;0.0
+316;Mannen;25 tot 35 jaar;Ondergrens 95%-interval;2022;2.5;1.2;1.2;0.8;1.6;0.3;0.2;0.0
+317;Mannen;25 tot 35 jaar;Ondergrens 95%-interval;2023;2.4;1.1;1.2;0.7;1.6;0.4;0.2;0.0
+318;Mannen;25 tot 35 jaar;Ondergrens 95%-interval;2024;2.3;1.2;1.0;0.6;1.6;0.3;0.1;0.0
+319;Mannen;25 tot 35 jaar;Bovengrens 95%-interval;2014;4.9;2.9;2.4;1.5;3.4;0.9;0.8;0.7
+320;Mannen;25 tot 35 jaar;Bovengrens 95%-interval;2015;4.6;3.0;2.2;1.4;3.4;0.5;0.9;0.5
+321;Mannen;25 tot 35 jaar;Bovengrens 95%-interval;2016;4.4;2.6;2.4;1.5;3.3;0.6;0.8;0.5
+322;Mannen;25 tot 35 jaar;Bovengrens 95%-interval;2017;5.2;2.9;2.9;1.8;3.9;0.8;0.8;0.5
+323;Mannen;25 tot 35 jaar;Bovengrens 95%-interval;2018;4.2;2.0;2.5;1.7;2.9;0.8;0.8;0.3
+324;Mannen;25 tot 35 jaar;Bovengrens 95%-interval;2019;4.6;3.0;2.1;1.5;3.5;0.7;0.6;0.3
+325;Mannen;25 tot 35 jaar;Bovengrens 95%-interval;2020;3.7;2.0;2.2;1.5;2.8;0.6;0.6;0.2
+326;Mannen;25 tot 35 jaar;Bovengrens 95%-interval;2021;4.3;2.3;2.3;1.7;2.8;1.3;0.7;0.3
+327;Mannen;25 tot 35 jaar;Bovengrens 95%-interval;2022;3.5;1.9;2.0;1.4;2.4;0.8;0.6;0.2
+328;Mannen;25 tot 35 jaar;Bovengrens 95%-interval;2023;3.4;1.8;1.9;1.3;2.4;0.8;0.5;0.3
+329;Mannen;25 tot 35 jaar;Bovengrens 95%-interval;2024;3.3;1.9;1.7;1.1;2.4;0.7;0.4;0.2
+330;Mannen;35 tot 45 jaar;Waarde;2014;3.8;1.5;2.1;1.4;2.6;0.3;0.5;0.3
+331;Mannen;35 tot 45 jaar;Waarde;2015;3.2;1.7;1.6;1.2;2.0;0.3;0.8;0.1
+332;Mannen;35 tot 45 jaar;Waarde;2016;2.8;1.2;1.7;1.3;1.8;0.6;0.4;0.0
+333;Mannen;35 tot 45 jaar;Waarde;2017;4.1;2.0;2.0;1.5;2.9;0.5;0.4;0.2
+334;Mannen;35 tot 45 jaar;Waarde;2018;3.2;1.6;1.8;1.4;2.1;0.5;0.4;0.2
+335;Mannen;35 tot 45 jaar;Waarde;2019;3.5;1.8;1.8;1.2;2.5;0.5;0.3;0.1
+336;Mannen;35 tot 45 jaar;Waarde;2020;2.7;1.4;1.4;1.0;1.9;0.3;0.3;0.1
+337;Mannen;35 tot 45 jaar;Waarde;2021;2.0;1.1;1.0;0.7;1.3;0.1;0.4;0.1
+338;Mannen;35 tot 45 jaar;Waarde;2022;2.9;1.0;1.9;1.5;1.9;0.5;0.4;0.1
+339;Mannen;35 tot 45 jaar;Waarde;2023;2.3;1.3;1.1;0.8;1.6;0.5;0.2;0.1
+340;Mannen;35 tot 45 jaar;Waarde;2024;2.6;1.2;1.7;1.3;1.7;0.6;0.2;0.1
+341;Mannen;35 tot 45 jaar;Ondergrens 95%-interval;2014;3.2;1.2;1.7;1.0;2.2;0.2;0.3;0.2
+342;Mannen;35 tot 45 jaar;Ondergrens 95%-interval;2015;2.7;1.3;1.3;0.9;1.6;0.2;0.5;0.0
+343;Mannen;35 tot 45 jaar;Ondergrens 95%-interval;2016;2.3;0.9;1.3;1.0;1.4;0.4;0.2;0.0
+344;Mannen;35 tot 45 jaar;Ondergrens 95%-interval;2017;3.4;1.6;1.6;1.1;2.4;0.3;0.3;0.1
+345;Mannen;35 tot 45 jaar;Ondergrens 95%-interval;2018;2.8;1.3;1.4;1.1;1.8;0.3;0.2;0.1
+346;Mannen;35 tot 45 jaar;Ondergrens 95%-interval;2019;3.0;1.4;1.4;0.9;2.1;0.3;0.2;0.1
+347;Mannen;35 tot 45 jaar;Ondergrens 95%-interval;2020;2.3;1.1;1.1;0.7;1.6;0.2;0.2;0.1
+348;Mannen;35 tot 45 jaar;Ondergrens 95%-interval;2021;1.6;0.8;0.7;0.5;1.0;0.1;0.3;0.0
+349;Mannen;35 tot 45 jaar;Ondergrens 95%-interval;2022;2.4;0.8;1.6;1.1;1.5;0.3;0.2;0.0
+350;Mannen;35 tot 45 jaar;Ondergrens 95%-interval;2023;1.9;1.0;0.8;0.6;1.3;0.3;0.1;0.0
+351;Mannen;35 tot 45 jaar;Ondergrens 95%-interval;2024;2.2;0.9;1.3;1.0;1.3;0.4;0.1;0.0
+352;Mannen;35 tot 45 jaar;Bovengrens 95%-interval;2014;4.5;2.0;2.7;1.8;3.2;0.6;0.8;0.6
+353;Mannen;35 tot 45 jaar;Bovengrens 95%-interval;2015;3.9;2.1;2.1;1.6;2.5;0.5;1.1;0.3
+354;Mannen;35 tot 45 jaar;Bovengrens 95%-interval;2016;3.4;1.6;2.2;1.8;2.3;0.8;0.6;0.2
+355;Mannen;35 tot 45 jaar;Bovengrens 95%-interval;2017;4.8;2.5;2.6;2.0;3.5;0.8;0.7;0.4
+356;Mannen;35 tot 45 jaar;Bovengrens 95%-interval;2018;3.8;2.0;2.2;1.8;2.6;0.7;0.6;0.3
+357;Mannen;35 tot 45 jaar;Bovengrens 95%-interval;2019;4.1;2.2;2.3;1.6;3.0;0.8;0.5;0.3
+358;Mannen;35 tot 45 jaar;Bovengrens 95%-interval;2020;3.3;1.8;1.9;1.3;2.4;0.6;0.5;0.3
+359;Mannen;35 tot 45 jaar;Bovengrens 95%-interval;2021;2.5;1.5;1.4;1.0;1.8;0.3;0.7;0.2
+360;Mannen;35 tot 45 jaar;Bovengrens 95%-interval;2022;3.4;1.4;2.4;1.9;2.3;0.8;0.6;0.2
+361;Mannen;35 tot 45 jaar;Bovengrens 95%-interval;2023;2.8;1.7;1.4;1.1;2.0;0.7;0.3;0.2
+362;Mannen;35 tot 45 jaar;Bovengrens 95%-interval;2024;3.1;1.5;2.1;1.6;2.1;0.9;0.4;0.2
+363;Mannen;45 tot 55 jaar;Waarde;2014;3.8;1.7;2.2;1.7;2.3;0.6;0.5;0.4
+364;Mannen;45 tot 55 jaar;Waarde;2015;2.9;1.2;1.7;1.3;2.0;0.3;0.3;0.2
+365;Mannen;45 tot 55 jaar;Waarde;2016;3.1;1.2;2.0;1.3;2.0;0.5;0.5;0.2
+366;Mannen;45 tot 55 jaar;Waarde;2017;3.1;1.6;1.6;1.3;2.1;0.5;0.4;0.2
+367;Mannen;45 tot 55 jaar;Waarde;2018;3.4;1.6;1.7;1.3;2.1;0.5;0.5;0.2
+368;Mannen;45 tot 55 jaar;Waarde;2019;3.4;1.6;1.8;1.5;2.5;0.4;0.3;0.2
+369;Mannen;45 tot 55 jaar;Waarde;2020;2.5;1.3;1.3;0.9;1.7;0.4;0.3;0.0
+370;Mannen;45 tot 55 jaar;Waarde;2021;2.9;1.2;1.8;1.4;2.1;0.3;0.4;0.0
+371;Mannen;45 tot 55 jaar;Waarde;2022;2.9;1.3;1.5;1.3;2.0;0.5;0.3;0.1
+372;Mannen;45 tot 55 jaar;Waarde;2023;2.6;1.0;1.7;1.3;1.5;0.5;0.5;0.1
+373;Mannen;45 tot 55 jaar;Waarde;2024;2.5;1.2;1.4;1.0;1.8;0.5;0.2;0.1
+374;Mannen;45 tot 55 jaar;Ondergrens 95%-interval;2014;3.3;1.4;1.8;1.3;1.9;0.4;0.3;0.3
+375;Mannen;45 tot 55 jaar;Ondergrens 95%-interval;2015;2.4;1.0;1.4;1.0;1.7;0.2;0.2;0.1
+376;Mannen;45 tot 55 jaar;Ondergrens 95%-interval;2016;2.7;1.0;1.6;1.0;1.7;0.3;0.3;0.1
+377;Mannen;45 tot 55 jaar;Ondergrens 95%-interval;2017;2.7;1.3;1.3;1.0;1.7;0.3;0.2;0.1
+378;Mannen;45 tot 55 jaar;Ondergrens 95%-interval;2018;3.0;1.4;1.4;1.0;1.8;0.4;0.4;0.1
+379;Mannen;45 tot 55 jaar;Ondergrens 95%-interval;2019;3.0;1.3;1.5;1.2;2.1;0.3;0.2;0.1
+380;Mannen;45 tot 55 jaar;Ondergrens 95%-interval;2020;2.1;1.0;1.1;0.7;1.4;0.3;0.2;0.0
+381;Mannen;45 tot 55 jaar;Ondergrens 95%-interval;2021;2.5;0.9;1.4;1.1;1.7;0.2;0.2;0.0
+382;Mannen;45 tot 55 jaar;Ondergrens 95%-interval;2022;2.4;1.1;1.2;1.0;1.6;0.3;0.2;0.0
+383;Mannen;45 tot 55 jaar;Ondergrens 95%-interval;2023;2.2;0.8;1.3;1.0;1.2;0.3;0.3;0.0
+384;Mannen;45 tot 55 jaar;Ondergrens 95%-interval;2024;2.1;1.0;1.1;0.8;1.5;0.3;0.1;0.0
+385;Mannen;45 tot 55 jaar;Bovengrens 95%-interval;2014;4.4;2.1;2.7;2.1;2.7;0.8;0.8;0.7
+386;Mannen;45 tot 55 jaar;Bovengrens 95%-interval;2015;3.4;1.6;2.1;1.7;2.4;0.5;0.5;0.4
+387;Mannen;45 tot 55 jaar;Bovengrens 95%-interval;2016;3.6;1.5;2.4;1.7;2.4;0.7;0.7;0.4
+388;Mannen;45 tot 55 jaar;Bovengrens 95%-interval;2017;3.7;2.0;2.0;1.6;2.5;0.7;0.6;0.4
+389;Mannen;45 tot 55 jaar;Bovengrens 95%-interval;2018;3.8;2.0;2.0;1.6;2.5;0.7;0.7;0.3
+390;Mannen;45 tot 55 jaar;Bovengrens 95%-interval;2019;3.9;2.0;2.2;1.8;3.0;0.6;0.5;0.3
+391;Mannen;45 tot 55 jaar;Bovengrens 95%-interval;2020;3.0;1.6;1.7;1.2;2.1;0.6;0.5;0.2
+392;Mannen;45 tot 55 jaar;Bovengrens 95%-interval;2021;3.5;1.6;2.2;1.8;2.6;0.6;0.6;0.1
+393;Mannen;45 tot 55 jaar;Bovengrens 95%-interval;2022;3.4;1.7;1.9;1.6;2.4;0.7;0.5;0.3
+394;Mannen;45 tot 55 jaar;Bovengrens 95%-interval;2023;3.1;1.3;2.1;1.6;1.9;0.7;0.7;0.2
+395;Mannen;45 tot 55 jaar;Bovengrens 95%-interval;2024;3.0;1.6;1.7;1.3;2.2;0.7;0.3;0.2
+396;Mannen;55 tot 65 jaar;Waarde;2014;3.2;1.3;2.1;1.6;1.6;0.8;0.6;0.2
+397;Mannen;55 tot 65 jaar;Waarde;2015;3.2;1.2;2.0;1.6;2.0;0.7;0.4;0.1
+398;Mannen;55 tot 65 jaar;Waarde;2016;2.7;1.4;1.4;1.0;1.6;0.4;0.4;0.3
+399;Mannen;55 tot 65 jaar;Waarde;2017;3.4;1.5;1.8;1.6;2.1;0.5;0.5;0.3
+400;Mannen;55 tot 65 jaar;Waarde;2018;3.0;1.4;1.5;1.2;1.9;0.5;0.4;0.1
+401;Mannen;55 tot 65 jaar;Waarde;2019;4.0;1.8;2.3;1.8;2.7;0.7;0.4;0.2
+402;Mannen;55 tot 65 jaar;Waarde;2020;2.4;0.9;1.5;1.2;1.6;0.3;0.3;0.1
+403;Mannen;55 tot 65 jaar;Waarde;2021;2.9;1.1;1.7;1.5;1.8;0.5;0.5;0.1
+404;Mannen;55 tot 65 jaar;Waarde;2022;3.0;1.4;1.6;1.3;1.8;0.5;0.4;0.2
+405;Mannen;55 tot 65 jaar;Waarde;2023;3.0;1.4;1.5;1.1;2.0;0.5;0.4;0.1
+406;Mannen;55 tot 65 jaar;Waarde;2024;2.7;1.1;1.5;1.3;1.7;0.4;0.4;0.1
+407;Mannen;55 tot 65 jaar;Ondergrens 95%-interval;2014;2.7;1.0;1.7;1.3;1.3;0.5;0.4;0.1
+408;Mannen;55 tot 65 jaar;Ondergrens 95%-interval;2015;2.7;1.0;1.7;1.3;1.6;0.5;0.2;0.0
+409;Mannen;55 tot 65 jaar;Ondergrens 95%-interval;2016;2.3;1.1;1.1;0.8;1.3;0.3;0.3;0.2
+410;Mannen;55 tot 65 jaar;Ondergrens 95%-interval;2017;2.9;1.2;1.5;1.3;1.8;0.4;0.3;0.2
+411;Mannen;55 tot 65 jaar;Ondergrens 95%-interval;2018;2.6;1.2;1.2;1.0;1.7;0.4;0.3;0.0
+412;Mannen;55 tot 65 jaar;Ondergrens 95%-interval;2019;3.5;1.5;1.9;1.5;2.3;0.5;0.3;0.1
+413;Mannen;55 tot 65 jaar;Ondergrens 95%-interval;2020;2.1;0.7;1.2;0.9;1.3;0.2;0.2;0.1
+414;Mannen;55 tot 65 jaar;Ondergrens 95%-interval;2021;2.5;0.8;1.4;1.2;1.4;0.3;0.3;0.1
+415;Mannen;55 tot 65 jaar;Ondergrens 95%-interval;2022;2.6;1.2;1.3;1.0;1.5;0.4;0.3;0.1
+416;Mannen;55 tot 65 jaar;Ondergrens 95%-interval;2023;2.6;1.1;1.3;0.9;1.7;0.4;0.2;0.0
+417;Mannen;55 tot 65 jaar;Ondergrens 95%-interval;2024;2.3;0.9;1.3;1.0;1.4;0.3;0.3;0.0
+418;Mannen;55 tot 65 jaar;Bovengrens 95%-interval;2014;3.8;1.7;2.6;2.0;2.0;1.1;0.9;0.4
+419;Mannen;55 tot 65 jaar;Bovengrens 95%-interval;2015;3.7;1.6;2.5;2.0;2.4;1.0;0.6;0.2
+420;Mannen;55 tot 65 jaar;Bovengrens 95%-interval;2016;3.2;1.8;1.8;1.3;2.0;0.6;0.6;0.5
+421;Mannen;55 tot 65 jaar;Bovengrens 95%-interval;2017;4.0;1.9;2.2;1.9;2.5;0.8;0.7;0.5
+422;Mannen;55 tot 65 jaar;Bovengrens 95%-interval;2018;3.4;1.7;1.8;1.5;2.3;0.7;0.6;0.2
+423;Mannen;55 tot 65 jaar;Bovengrens 95%-interval;2019;4.5;2.1;2.7;2.1;3.1;0.9;0.6;0.4
+424;Mannen;55 tot 65 jaar;Bovengrens 95%-interval;2020;2.8;1.2;1.8;1.4;1.9;0.5;0.5;0.2
+425;Mannen;55 tot 65 jaar;Bovengrens 95%-interval;2021;3.4;1.4;2.1;1.8;2.1;0.7;0.7;0.3
+426;Mannen;55 tot 65 jaar;Bovengrens 95%-interval;2022;3.4;1.8;1.9;1.6;2.1;0.7;0.6;0.4
+427;Mannen;55 tot 65 jaar;Bovengrens 95%-interval;2023;3.5;1.7;1.9;1.4;2.4;0.7;0.5;0.2
+428;Mannen;55 tot 65 jaar;Bovengrens 95%-interval;2024;3.1;1.4;1.9;1.6;2.0;0.6;0.6;0.2
+429;Mannen;65 tot 75 jaar;Waarde;2014;1.6;0.6;0.3;0.0;0.6;0.0;0.3;0.7
+430;Mannen;65 tot 75 jaar;Waarde;2015;0.2;0.2;0.0;0.0;0.0;0.0;0.0;0.2
+431;Mannen;65 tot 75 jaar;Waarde;2016;1.5;0.1;1.0;0.6;0.4;0.0;0.8;0.3
+432;Mannen;65 tot 75 jaar;Waarde;2017;1.3;0.3;1.0;0.6;0.8;0.2;0.3;0.0
+433;Mannen;65 tot 75 jaar;Waarde;2018;1.6;0.8;0.7;0.6;1.0;0.1;0.2;0.3
+434;Mannen;65 tot 75 jaar;Waarde;2019;2.1;1.0;1.0;0.8;1.2;0.2;0.2;0.5
+435;Mannen;65 tot 75 jaar;Waarde;2020;1.7;0.5;0.9;0.8;1.1;0.1;0.1;0.4
+436;Mannen;65 tot 75 jaar;Waarde;2021;1.4;0.6;0.8;0.7;0.7;0.4;0.3;0.0
+437;Mannen;65 tot 75 jaar;Waarde;2022;1.8;1.0;0.8;0.8;1.3;0.1;0.3;0.1
+438;Mannen;65 tot 75 jaar;Waarde;2023;2.1;0.6;1.4;1.1;1.6;0.0;0.2;0.2
+439;Mannen;65 tot 75 jaar;Waarde;2024;1.7;0.8;0.9;0.7;1.2;0.2;0.2;0.2
+440;Mannen;65 tot 75 jaar;Ondergrens 95%-interval;2014;0.7;0.2;0.0;0.0;0.2;0.0;0.0;0.2
+441;Mannen;65 tot 75 jaar;Ondergrens 95%-interval;2015;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+442;Mannen;65 tot 75 jaar;Ondergrens 95%-interval;2016;0.8;0.0;0.5;0.2;0.1;0.0;0.3;0.1
+443;Mannen;65 tot 75 jaar;Ondergrens 95%-interval;2017;0.6;0.1;0.4;0.2;0.3;0.0;0.0;0.0
+444;Mannen;65 tot 75 jaar;Ondergrens 95%-interval;2018;1.0;0.4;0.3;0.3;0.5;0.0;0.1;0.1
+445;Mannen;65 tot 75 jaar;Ondergrens 95%-interval;2019;1.4;0.5;0.6;0.4;0.7;0.0;0.0;0.2
+446;Mannen;65 tot 75 jaar;Ondergrens 95%-interval;2020;1.1;0.2;0.5;0.4;0.6;0.0;0.0;0.2
+447;Mannen;65 tot 75 jaar;Ondergrens 95%-interval;2021;0.8;0.3;0.4;0.3;0.3;0.1;0.1;0.0
+448;Mannen;65 tot 75 jaar;Ondergrens 95%-interval;2022;1.2;0.6;0.5;0.4;0.8;0.0;0.1;0.0
+449;Mannen;65 tot 75 jaar;Ondergrens 95%-interval;2023;1.4;0.3;0.9;0.7;1.0;0.0;0.1;0.1
+450;Mannen;65 tot 75 jaar;Ondergrens 95%-interval;2024;1.2;0.5;0.5;0.4;0.8;0.1;0.0;0.0
+451;Mannen;65 tot 75 jaar;Bovengrens 95%-interval;2014;3.6;2.0;2.0;;2.0;;1.9;2.7
+452;Mannen;65 tot 75 jaar;Bovengrens 95%-interval;2015;1.7;1.7;;;;;;1.7
+453;Mannen;65 tot 75 jaar;Bovengrens 95%-interval;2016;2.8;1.0;2.2;1.6;1.3;;1.8;1.3
+454;Mannen;65 tot 75 jaar;Bovengrens 95%-interval;2017;2.7;1.1;2.3;1.8;2.0;1.2;1.8;
+455;Mannen;65 tot 75 jaar;Bovengrens 95%-interval;2018;2.6;1.6;1.6;1.4;1.9;0.2;0.7;0.9
+456;Mannen;65 tot 75 jaar;Bovengrens 95%-interval;2019;3.2;1.8;1.8;1.6;2.1;0.6;0.6;1.3
+457;Mannen;65 tot 75 jaar;Bovengrens 95%-interval;2020;2.7;1.0;1.7;1.7;1.9;0.6;0.5;1.2
+458;Mannen;65 tot 75 jaar;Bovengrens 95%-interval;2021;2.3;1.3;1.5;1.4;1.4;1.0;0.9;
+459;Mannen;65 tot 75 jaar;Bovengrens 95%-interval;2022;2.7;1.8;1.4;1.3;2.1;1.0;0.7;0.4
+460;Mannen;65 tot 75 jaar;Bovengrens 95%-interval;2023;3.0;1.1;2.2;1.9;2.3;0.1;0.8;0.8
+461;Mannen;65 tot 75 jaar;Bovengrens 95%-interval;2024;2.5;1.4;1.5;1.3;1.8;0.6;0.6;0.7
+462;Vrouwen;15 tot 75 jaar;Waarde;2014;2.9;1.7;1.2;0.9;1.7;0.5;0.4;0.2
+463;Vrouwen;15 tot 75 jaar;Waarde;2015;2.6;1.6;1.0;0.7;1.6;0.4;0.4;0.2
+464;Vrouwen;15 tot 75 jaar;Waarde;2016;2.6;1.5;1.1;0.9;1.5;0.5;0.4;0.2
+465;Vrouwen;15 tot 75 jaar;Waarde;2017;2.8;1.7;1.3;1.0;1.8;0.5;0.4;0.1
+466;Vrouwen;15 tot 75 jaar;Waarde;2018;2.8;1.6;1.2;0.9;1.7;0.7;0.3;0.1
+467;Vrouwen;15 tot 75 jaar;Waarde;2019;2.7;1.6;1.1;0.8;1.7;0.6;0.3;0.1
+468;Vrouwen;15 tot 75 jaar;Waarde;2020;2.2;1.2;1.0;0.7;1.3;0.5;0.3;0.1
+469;Vrouwen;15 tot 75 jaar;Waarde;2021;2.2;1.1;1.1;0.8;1.3;0.5;0.3;0.1
+470;Vrouwen;15 tot 75 jaar;Waarde;2022;2.2;1.3;1.0;0.7;1.3;0.5;0.3;0.1
+471;Vrouwen;15 tot 75 jaar;Waarde;2023;2.5;1.4;1.2;0.8;1.4;0.6;0.3;0.1
+472;Vrouwen;15 tot 75 jaar;Waarde;2024;2.2;1.2;1.0;0.8;1.2;0.6;0.2;0.1
+473;Vrouwen;15 tot 75 jaar;Ondergrens 95%-interval;2014;2.6;1.5;1.1;0.7;1.5;0.4;0.3;0.2
+474;Vrouwen;15 tot 75 jaar;Ondergrens 95%-interval;2015;2.4;1.4;0.9;0.6;1.4;0.3;0.3;0.1
+475;Vrouwen;15 tot 75 jaar;Ondergrens 95%-interval;2016;2.4;1.3;1.0;0.7;1.3;0.4;0.3;0.1
+476;Vrouwen;15 tot 75 jaar;Ondergrens 95%-interval;2017;2.6;1.5;1.1;0.8;1.6;0.4;0.3;0.1
+477;Vrouwen;15 tot 75 jaar;Ondergrens 95%-interval;2018;2.6;1.5;1.1;0.8;1.5;0.6;0.3;0.1
+478;Vrouwen;15 tot 75 jaar;Ondergrens 95%-interval;2019;2.5;1.4;1.0;0.7;1.5;0.5;0.2;0.1
+479;Vrouwen;15 tot 75 jaar;Ondergrens 95%-interval;2020;2.0;1.1;0.8;0.6;1.2;0.4;0.2;0.1
+480;Vrouwen;15 tot 75 jaar;Ondergrens 95%-interval;2021;2.0;1.0;0.9;0.7;1.1;0.4;0.2;0.1
+481;Vrouwen;15 tot 75 jaar;Ondergrens 95%-interval;2022;2.0;1.1;0.8;0.6;1.1;0.4;0.2;0.0
+482;Vrouwen;15 tot 75 jaar;Ondergrens 95%-interval;2023;2.3;1.2;1.0;0.7;1.3;0.5;0.2;0.1
+483;Vrouwen;15 tot 75 jaar;Ondergrens 95%-interval;2024;2.0;1.1;0.9;0.7;1.1;0.5;0.2;0.1
+484;Vrouwen;15 tot 75 jaar;Bovengrens 95%-interval;2014;3.2;1.9;1.4;1.0;1.9;0.6;0.5;0.3
+485;Vrouwen;15 tot 75 jaar;Bovengrens 95%-interval;2015;2.8;1.8;1.2;0.8;1.8;0.5;0.5;0.2
+486;Vrouwen;15 tot 75 jaar;Bovengrens 95%-interval;2016;2.8;1.7;1.3;1.0;1.6;0.6;0.5;0.3
+487;Vrouwen;15 tot 75 jaar;Bovengrens 95%-interval;2017;3.0;1.9;1.4;1.1;2.0;0.7;0.5;0.2
+488;Vrouwen;15 tot 75 jaar;Bovengrens 95%-interval;2018;3.0;1.8;1.4;1.0;1.8;0.8;0.4;0.1
+489;Vrouwen;15 tot 75 jaar;Bovengrens 95%-interval;2019;2.9;1.7;1.3;1.0;1.8;0.7;0.3;0.2
+490;Vrouwen;15 tot 75 jaar;Bovengrens 95%-interval;2020;2.4;1.4;1.1;0.8;1.5;0.6;0.3;0.2
+491;Vrouwen;15 tot 75 jaar;Bovengrens 95%-interval;2021;2.4;1.3;1.2;1.0;1.4;0.6;0.4;0.2
+492;Vrouwen;15 tot 75 jaar;Bovengrens 95%-interval;2022;2.4;1.4;1.1;0.8;1.4;0.6;0.4;0.1
+493;Vrouwen;15 tot 75 jaar;Bovengrens 95%-interval;2023;2.7;1.5;1.3;1.0;1.6;0.7;0.3;0.2
+494;Vrouwen;15 tot 75 jaar;Bovengrens 95%-interval;2024;2.4;1.3;1.1;0.9;1.3;0.7;0.3;0.1
+495;Vrouwen;15 tot 25 jaar;Waarde;2014;3.4;2.3;1.2;0.6;2.5;0.2;0.5;0.2
+496;Vrouwen;15 tot 25 jaar;Waarde;2015;3.1;2.0;1.1;0.6;2.4;0.2;0.4;0.1
+497;Vrouwen;15 tot 25 jaar;Waarde;2016;3.2;1.7;1.5;0.9;2.3;0.2;0.5;0.2
+498;Vrouwen;15 tot 25 jaar;Waarde;2017;4.0;2.6;1.6;1.1;3.1;0.4;0.3;0.1
+499;Vrouwen;15 tot 25 jaar;Waarde;2018;3.2;1.8;1.6;0.9;2.2;0.4;0.4;0.1
+500;Vrouwen;15 tot 25 jaar;Waarde;2019;3.2;2.0;1.2;0.7;2.5;0.5;0.1;0.1
+501;Vrouwen;15 tot 25 jaar;Waarde;2020;2.7;1.7;1.0;0.6;2.0;0.3;0.3;0.1
+502;Vrouwen;15 tot 25 jaar;Waarde;2021;2.5;1.2;1.1;0.8;1.5;0.4;0.3;0.2
+503;Vrouwen;15 tot 25 jaar;Waarde;2022;2.9;1.7;1.2;0.6;1.7;0.5;0.4;0.3
+504;Vrouwen;15 tot 25 jaar;Waarde;2023;3.3;1.9;1.5;0.9;2.3;0.5;0.3;0.2
+505;Vrouwen;15 tot 25 jaar;Waarde;2024;2.6;1.5;1.1;0.8;1.5;0.5;0.3;0.2
+506;Vrouwen;15 tot 25 jaar;Ondergrens 95%-interval;2014;2.7;1.8;0.8;0.4;1.9;0.1;0.3;0.1
+507;Vrouwen;15 tot 25 jaar;Ondergrens 95%-interval;2015;2.6;1.6;0.8;0.4;2.0;0.1;0.2;0.0
+508;Vrouwen;15 tot 25 jaar;Ondergrens 95%-interval;2016;2.7;1.4;1.1;0.6;1.8;0.1;0.3;0.1
+509;Vrouwen;15 tot 25 jaar;Ondergrens 95%-interval;2017;3.3;2.1;1.2;0.7;2.6;0.2;0.2;0.0
+510;Vrouwen;15 tot 25 jaar;Ondergrens 95%-interval;2018;2.8;1.4;1.3;0.7;1.8;0.3;0.3;0.1
+511;Vrouwen;15 tot 25 jaar;Ondergrens 95%-interval;2019;2.8;1.6;0.9;0.5;2.1;0.3;0.1;0.1
+512;Vrouwen;15 tot 25 jaar;Ondergrens 95%-interval;2020;2.2;1.3;0.7;0.4;1.6;0.2;0.2;0.0
+513;Vrouwen;15 tot 25 jaar;Ondergrens 95%-interval;2021;1.9;0.9;0.8;0.6;1.2;0.2;0.2;0.0
+514;Vrouwen;15 tot 25 jaar;Ondergrens 95%-interval;2022;2.4;1.3;0.9;0.4;1.3;0.3;0.2;0.1
+515;Vrouwen;15 tot 25 jaar;Ondergrens 95%-interval;2023;2.8;1.6;1.2;0.6;1.9;0.3;0.1;0.1
+516;Vrouwen;15 tot 25 jaar;Ondergrens 95%-interval;2024;2.1;1.1;0.8;0.6;1.2;0.3;0.2;0.1
+517;Vrouwen;15 tot 25 jaar;Bovengrens 95%-interval;2014;4.2;3.0;1.8;1.0;3.2;0.4;0.8;0.5
+518;Vrouwen;15 tot 25 jaar;Bovengrens 95%-interval;2015;3.8;2.6;1.6;0.9;3.0;0.4;0.7;0.3
+519;Vrouwen;15 tot 25 jaar;Bovengrens 95%-interval;2016;3.9;2.2;2.0;1.3;2.8;0.4;0.8;0.6
+520;Vrouwen;15 tot 25 jaar;Bovengrens 95%-interval;2017;4.7;3.2;2.1;1.5;3.7;0.8;0.5;0.4
+521;Vrouwen;15 tot 25 jaar;Bovengrens 95%-interval;2018;3.8;2.2;2.1;1.2;2.6;0.6;0.7;0.4
+522;Vrouwen;15 tot 25 jaar;Bovengrens 95%-interval;2019;3.8;2.4;1.6;1.0;3.0;0.7;0.3;0.3
+523;Vrouwen;15 tot 25 jaar;Bovengrens 95%-interval;2020;3.3;2.1;1.4;0.9;2.4;0.6;0.5;0.3
+524;Vrouwen;15 tot 25 jaar;Bovengrens 95%-interval;2021;3.1;1.7;1.6;1.2;2.0;0.7;0.6;0.5
+525;Vrouwen;15 tot 25 jaar;Bovengrens 95%-interval;2022;3.5;2.2;1.7;1.0;2.2;0.8;0.7;0.5
+526;Vrouwen;15 tot 25 jaar;Bovengrens 95%-interval;2023;3.9;2.4;2.0;1.2;2.9;0.8;0.5;0.4
+527;Vrouwen;15 tot 25 jaar;Bovengrens 95%-interval;2024;3.1;1.9;1.5;1.2;2.0;0.8;0.6;0.3
+528;Vrouwen;25 tot 35 jaar;Waarde;2014;2.9;1.6;1.3;0.8;1.5;0.7;0.5;0.2
+529;Vrouwen;25 tot 35 jaar;Waarde;2015;2.8;1.7;1.1;0.7;1.9;0.4;0.4;0.1
+530;Vrouwen;25 tot 35 jaar;Waarde;2016;3.0;1.7;1.3;1.0;1.6;0.7;0.6;0.1
+531;Vrouwen;25 tot 35 jaar;Waarde;2017;2.8;1.7;1.2;0.9;1.8;0.6;0.3;0.1
+532;Vrouwen;25 tot 35 jaar;Waarde;2018;2.9;1.7;1.3;1.1;1.7;0.7;0.3;0.1
+533;Vrouwen;25 tot 35 jaar;Waarde;2019;2.6;1.4;1.2;0.9;1.3;0.8;0.4;0.0
+534;Vrouwen;25 tot 35 jaar;Waarde;2020;2.4;1.3;1.1;0.7;1.3;0.8;0.2;0.1
+535;Vrouwen;25 tot 35 jaar;Waarde;2021;2.6;1.2;1.4;0.9;1.4;0.8;0.3;0.0
+536;Vrouwen;25 tot 35 jaar;Waarde;2022;2.1;1.1;1.0;0.7;1.0;0.8;0.3;0.0
+537;Vrouwen;25 tot 35 jaar;Waarde;2023;2.7;1.4;1.3;1.0;1.3;1.0;0.2;0.1
+538;Vrouwen;25 tot 35 jaar;Waarde;2024;2.1;1.1;1.0;0.8;1.3;0.5;0.2;0.1
+539;Vrouwen;25 tot 35 jaar;Ondergrens 95%-interval;2014;2.3;1.2;0.9;0.5;1.1;0.5;0.3;0.1
+540;Vrouwen;25 tot 35 jaar;Ondergrens 95%-interval;2015;2.3;1.3;0.8;0.4;1.5;0.2;0.2;0.1
+541;Vrouwen;25 tot 35 jaar;Ondergrens 95%-interval;2016;2.5;1.3;1.0;0.7;1.3;0.4;0.4;0.0
+542;Vrouwen;25 tot 35 jaar;Ondergrens 95%-interval;2017;2.3;1.4;0.9;0.6;1.4;0.4;0.2;0.0
+543;Vrouwen;25 tot 35 jaar;Ondergrens 95%-interval;2018;2.5;1.3;1.0;0.8;1.4;0.5;0.2;0.0
+544;Vrouwen;25 tot 35 jaar;Ondergrens 95%-interval;2019;2.1;1.1;0.9;0.7;1.0;0.6;0.3;0.0
+545;Vrouwen;25 tot 35 jaar;Ondergrens 95%-interval;2020;2.0;1.0;0.8;0.5;1.0;0.6;0.1;0.0
+546;Vrouwen;25 tot 35 jaar;Ondergrens 95%-interval;2021;2.1;0.9;1.0;0.7;1.1;0.5;0.2;0.0
+547;Vrouwen;25 tot 35 jaar;Ondergrens 95%-interval;2022;1.7;0.9;0.7;0.5;0.8;0.5;0.1;0.0
+548;Vrouwen;25 tot 35 jaar;Ondergrens 95%-interval;2023;2.2;1.1;1.0;0.8;1.0;0.8;0.1;0.0
+549;Vrouwen;25 tot 35 jaar;Ondergrens 95%-interval;2024;1.7;0.9;0.7;0.6;1.0;0.3;0.1;0.0
+550;Vrouwen;25 tot 35 jaar;Bovengrens 95%-interval;2014;3.6;2.1;1.8;1.3;2.1;1.2;0.8;0.5
+551;Vrouwen;25 tot 35 jaar;Bovengrens 95%-interval;2015;3.5;2.2;1.5;1.0;2.4;0.7;0.7;0.3
+552;Vrouwen;25 tot 35 jaar;Bovengrens 95%-interval;2016;3.6;2.2;1.8;1.4;2.1;1.0;0.9;0.3
+553;Vrouwen;25 tot 35 jaar;Bovengrens 95%-interval;2017;3.4;2.2;1.6;1.3;2.3;1.0;0.5;0.3
+554;Vrouwen;25 tot 35 jaar;Bovengrens 95%-interval;2018;3.4;2.1;1.6;1.4;2.1;1.0;0.5;0.2
+555;Vrouwen;25 tot 35 jaar;Bovengrens 95%-interval;2019;3.1;1.8;1.5;1.2;1.7;1.1;0.7;0.2
+556;Vrouwen;25 tot 35 jaar;Bovengrens 95%-interval;2020;2.9;1.7;1.5;1.0;1.7;1.1;0.4;0.2
+557;Vrouwen;25 tot 35 jaar;Bovengrens 95%-interval;2021;3.2;1.7;1.8;1.3;1.9;1.1;0.6;0.2
+558;Vrouwen;25 tot 35 jaar;Bovengrens 95%-interval;2022;2.5;1.5;1.4;1.0;1.3;1.1;0.5;0.2
+559;Vrouwen;25 tot 35 jaar;Bovengrens 95%-interval;2023;3.2;1.8;1.7;1.4;1.6;1.3;0.4;0.3
+560;Vrouwen;25 tot 35 jaar;Bovengrens 95%-interval;2024;2.5;1.4;1.3;1.1;1.7;0.7;0.3;0.3
+561;Vrouwen;35 tot 45 jaar;Waarde;2014;2.6;1.6;1.0;0.8;1.5;0.6;0.3;0.2
+562;Vrouwen;35 tot 45 jaar;Waarde;2015;2.0;1.2;0.9;0.6;1.3;0.4;0.3;0.0
+563;Vrouwen;35 tot 45 jaar;Waarde;2016;2.5;1.5;1.1;1.0;1.2;0.8;0.4;0.1
+564;Vrouwen;35 tot 45 jaar;Waarde;2017;2.3;1.4;1.0;0.8;1.3;0.4;0.6;0.1
+565;Vrouwen;35 tot 45 jaar;Waarde;2018;2.3;1.5;1.0;0.7;1.4;0.6;0.2;0.0
+566;Vrouwen;35 tot 45 jaar;Waarde;2019;2.3;1.4;1.0;0.7;1.5;0.5;0.2;0.1
+567;Vrouwen;35 tot 45 jaar;Waarde;2020;1.8;1.0;0.8;0.5;1.1;0.4;0.3;0.0
+568;Vrouwen;35 tot 45 jaar;Waarde;2021;1.7;1.0;0.8;0.7;0.9;0.6;0.2;0.0
+569;Vrouwen;35 tot 45 jaar;Waarde;2022;1.8;1.1;0.7;0.5;1.0;0.5;0.4;0.0
+570;Vrouwen;35 tot 45 jaar;Waarde;2023;1.9;1.1;0.9;0.7;1.0;0.5;0.2;0.1
+571;Vrouwen;35 tot 45 jaar;Waarde;2024;2.2;1.1;1.2;1.0;1.1;0.8;0.2;0.1
+572;Vrouwen;35 tot 45 jaar;Ondergrens 95%-interval;2014;2.1;1.2;0.7;0.5;1.1;0.4;0.1;0.1
+573;Vrouwen;35 tot 45 jaar;Ondergrens 95%-interval;2015;1.6;0.9;0.6;0.4;0.9;0.2;0.2;0.0
+574;Vrouwen;35 tot 45 jaar;Ondergrens 95%-interval;2016;2.0;1.1;0.8;0.7;0.9;0.6;0.2;0.0
+575;Vrouwen;35 tot 45 jaar;Ondergrens 95%-interval;2017;1.9;1.1;0.8;0.6;0.9;0.3;0.4;0.0
+576;Vrouwen;35 tot 45 jaar;Ondergrens 95%-interval;2018;1.9;1.1;0.7;0.5;1.1;0.4;0.1;0.0
+577;Vrouwen;35 tot 45 jaar;Ondergrens 95%-interval;2019;1.9;1.1;0.7;0.5;1.1;0.4;0.1;0.0
+578;Vrouwen;35 tot 45 jaar;Ondergrens 95%-interval;2020;1.5;0.7;0.6;0.4;0.8;0.2;0.2;0.0
+579;Vrouwen;35 tot 45 jaar;Ondergrens 95%-interval;2021;1.4;0.7;0.6;0.5;0.6;0.4;0.1;0.0
+580;Vrouwen;35 tot 45 jaar;Ondergrens 95%-interval;2022;1.4;0.8;0.5;0.4;0.7;0.3;0.2;0.0
+581;Vrouwen;35 tot 45 jaar;Ondergrens 95%-interval;2023;1.5;0.9;0.7;0.5;0.8;0.4;0.1;0.0
+582;Vrouwen;35 tot 45 jaar;Ondergrens 95%-interval;2024;1.8;0.8;0.9;0.7;0.8;0.6;0.1;0.0
+583;Vrouwen;35 tot 45 jaar;Bovengrens 95%-interval;2014;3.2;2.1;1.4;1.2;2.0;1.0;0.6;0.5
+584;Vrouwen;35 tot 45 jaar;Bovengrens 95%-interval;2015;2.5;1.7;1.2;0.9;1.7;0.6;0.5;0.2
+585;Vrouwen;35 tot 45 jaar;Bovengrens 95%-interval;2016;3.1;1.9;1.5;1.4;1.6;1.2;0.7;0.3
+586;Vrouwen;35 tot 45 jaar;Bovengrens 95%-interval;2017;2.9;1.8;1.5;1.2;1.7;0.7;0.9;0.2
+587;Vrouwen;35 tot 45 jaar;Bovengrens 95%-interval;2018;2.8;1.9;1.3;1.0;1.7;0.9;0.4;0.2
+588;Vrouwen;35 tot 45 jaar;Bovengrens 95%-interval;2019;2.8;1.8;1.3;1.0;1.9;0.8;0.4;0.2
+589;Vrouwen;35 tot 45 jaar;Bovengrens 95%-interval;2020;2.3;1.3;1.1;0.8;1.5;0.6;0.6;0.2
+590;Vrouwen;35 tot 45 jaar;Bovengrens 95%-interval;2021;2.2;1.4;1.2;1.1;1.2;0.9;0.5;0.2
+591;Vrouwen;35 tot 45 jaar;Bovengrens 95%-interval;2022;2.3;1.5;1.0;0.9;1.3;0.7;0.6;0.2
+592;Vrouwen;35 tot 45 jaar;Bovengrens 95%-interval;2023;2.3;1.5;1.2;0.9;1.4;0.8;0.4;0.2
+593;Vrouwen;35 tot 45 jaar;Bovengrens 95%-interval;2024;2.6;1.5;1.5;1.3;1.4;1.2;0.3;0.2
+594;Vrouwen;45 tot 55 jaar;Waarde;2014;2.9;1.7;1.5;1.2;1.9;0.5;0.3;0.2
+595;Vrouwen;45 tot 55 jaar;Waarde;2015;2.6;1.6;0.9;0.8;1.2;0.5;0.5;0.3
+596;Vrouwen;45 tot 55 jaar;Waarde;2016;1.9;1.2;0.8;0.6;1.1;0.3;0.3;0.2
+597;Vrouwen;45 tot 55 jaar;Waarde;2017;2.5;1.6;1.2;0.9;1.3;0.6;0.5;0.1
+598;Vrouwen;45 tot 55 jaar;Waarde;2018;2.8;1.7;1.1;0.8;1.7;0.7;0.3;0.1
+599;Vrouwen;45 tot 55 jaar;Waarde;2019;2.6;1.7;1.0;0.8;1.6;0.5;0.3;0.2
+600;Vrouwen;45 tot 55 jaar;Waarde;2020;2.2;1.3;0.8;0.7;1.2;0.5;0.3;0.1
+601;Vrouwen;45 tot 55 jaar;Waarde;2021;2.0;1.0;1.1;0.9;1.3;0.2;0.3;0.2
+602;Vrouwen;45 tot 55 jaar;Waarde;2022;2.1;1.3;0.8;0.6;1.5;0.3;0.2;0.1
+603;Vrouwen;45 tot 55 jaar;Waarde;2023;2.3;1.2;1.1;0.8;1.3;0.6;0.3;0.1
+604;Vrouwen;45 tot 55 jaar;Waarde;2024;1.9;1.1;0.8;0.6;1.0;0.5;0.3;0.1
+605;Vrouwen;45 tot 55 jaar;Ondergrens 95%-interval;2014;2.5;1.3;1.2;0.9;1.5;0.3;0.2;0.1
+606;Vrouwen;45 tot 55 jaar;Ondergrens 95%-interval;2015;2.2;1.3;0.7;0.5;1.0;0.3;0.4;0.2
+607;Vrouwen;45 tot 55 jaar;Ondergrens 95%-interval;2016;1.5;0.9;0.5;0.4;0.8;0.2;0.2;0.1
+608;Vrouwen;45 tot 55 jaar;Ondergrens 95%-interval;2017;2.1;1.2;0.9;0.7;1.0;0.4;0.3;0.1
+609;Vrouwen;45 tot 55 jaar;Ondergrens 95%-interval;2018;2.4;1.4;0.8;0.6;1.4;0.5;0.2;0.0
+610;Vrouwen;45 tot 55 jaar;Ondergrens 95%-interval;2019;2.2;1.4;0.7;0.6;1.3;0.3;0.2;0.1
+611;Vrouwen;45 tot 55 jaar;Ondergrens 95%-interval;2020;1.8;1.0;0.6;0.5;1.0;0.3;0.2;0.1
+612;Vrouwen;45 tot 55 jaar;Ondergrens 95%-interval;2021;1.7;0.8;0.8;0.7;1.0;0.1;0.2;0.1
+613;Vrouwen;45 tot 55 jaar;Ondergrens 95%-interval;2022;1.7;1.0;0.6;0.4;1.2;0.2;0.1;0.0
+614;Vrouwen;45 tot 55 jaar;Ondergrens 95%-interval;2023;1.9;1.0;0.8;0.6;1.0;0.4;0.2;0.0
+615;Vrouwen;45 tot 55 jaar;Ondergrens 95%-interval;2024;1.5;0.9;0.6;0.4;0.8;0.4;0.1;0.0
+616;Vrouwen;45 tot 55 jaar;Bovengrens 95%-interval;2014;3.5;2.1;1.9;1.6;2.3;0.8;0.6;0.5
+617;Vrouwen;45 tot 55 jaar;Bovengrens 95%-interval;2015;3.1;2.0;1.2;1.0;1.6;0.7;0.8;0.5
+618;Vrouwen;45 tot 55 jaar;Bovengrens 95%-interval;2016;2.3;1.5;1.1;0.9;1.4;0.5;0.5;0.4
+619;Vrouwen;45 tot 55 jaar;Bovengrens 95%-interval;2017;3.1;2.0;1.5;1.3;1.7;0.9;0.7;0.3
+620;Vrouwen;45 tot 55 jaar;Bovengrens 95%-interval;2018;3.2;2.1;1.4;1.1;2.0;0.9;0.5;0.2
+621;Vrouwen;45 tot 55 jaar;Bovengrens 95%-interval;2019;3.0;2.1;1.3;1.1;2.0;0.7;0.5;0.3
+622;Vrouwen;45 tot 55 jaar;Bovengrens 95%-interval;2020;2.6;1.6;1.1;0.9;1.6;0.7;0.5;0.3
+623;Vrouwen;45 tot 55 jaar;Bovengrens 95%-interval;2021;2.5;1.3;1.4;1.2;1.7;0.4;0.5;0.4
+624;Vrouwen;45 tot 55 jaar;Bovengrens 95%-interval;2022;2.5;1.7;1.1;0.9;1.8;0.6;0.3;0.2
+625;Vrouwen;45 tot 55 jaar;Bovengrens 95%-interval;2023;2.7;1.6;1.4;1.2;1.6;0.9;0.5;0.2
+626;Vrouwen;45 tot 55 jaar;Bovengrens 95%-interval;2024;2.3;1.5;1.1;0.8;1.3;0.7;0.5;0.2
+627;Vrouwen;55 tot 65 jaar;Waarde;2014;2.8;1.5;1.2;0.8;1.3;0.5;0.6;0.3
+628;Vrouwen;55 tot 65 jaar;Waarde;2015;2.6;1.4;1.1;0.9;1.3;0.7;0.4;0.3
+629;Vrouwen;55 tot 65 jaar;Waarde;2016;2.7;1.5;1.1;0.9;1.5;0.4;0.4;0.3
+630;Vrouwen;55 tot 65 jaar;Waarde;2017;2.7;1.2;1.4;1.2;1.7;0.6;0.3;0.2
+631;Vrouwen;55 tot 65 jaar;Waarde;2018;2.8;1.5;1.4;1.1;1.5;0.9;0.3;0.1
+632;Vrouwen;55 tot 65 jaar;Waarde;2019;2.9;1.4;1.4;1.2;1.7;0.6;0.3;0.2
+633;Vrouwen;55 tot 65 jaar;Waarde;2020;2.3;1.1;1.1;0.8;1.3;0.5;0.3;0.2
+634;Vrouwen;55 tot 65 jaar;Waarde;2021;2.3;1.3;0.9;0.7;1.3;0.6;0.3;0.2
+635;Vrouwen;55 tot 65 jaar;Waarde;2022;2.3;1.1;1.2;1.1;1.4;0.6;0.3;0.1
+636;Vrouwen;55 tot 65 jaar;Waarde;2023;2.3;1.3;1.0;0.8;1.5;0.4;0.3;0.1
+637;Vrouwen;55 tot 65 jaar;Waarde;2024;2.3;1.2;1.0;0.7;1.2;0.8;0.2;0.1
+638;Vrouwen;55 tot 65 jaar;Ondergrens 95%-interval;2014;2.2;1.2;0.9;0.6;1.0;0.3;0.4;0.2
+639;Vrouwen;55 tot 65 jaar;Ondergrens 95%-interval;2015;2.1;1.1;0.8;0.6;1.0;0.5;0.2;0.1
+640;Vrouwen;55 tot 65 jaar;Ondergrens 95%-interval;2016;2.2;1.2;0.8;0.6;1.1;0.3;0.3;0.2
+641;Vrouwen;55 tot 65 jaar;Ondergrens 95%-interval;2017;2.2;0.9;1.1;0.9;1.3;0.4;0.1;0.1
+642;Vrouwen;55 tot 65 jaar;Ondergrens 95%-interval;2018;2.4;1.2;1.1;0.9;1.2;0.7;0.2;0.0
+643;Vrouwen;55 tot 65 jaar;Ondergrens 95%-interval;2019;2.4;1.1;1.1;0.9;1.4;0.4;0.2;0.1
+644;Vrouwen;55 tot 65 jaar;Ondergrens 95%-interval;2020;1.9;0.8;0.9;0.6;1.0;0.3;0.2;0.1
+645;Vrouwen;55 tot 65 jaar;Ondergrens 95%-interval;2021;1.9;1.0;0.7;0.5;1.0;0.4;0.2;0.1
+646;Vrouwen;55 tot 65 jaar;Ondergrens 95%-interval;2022;1.9;0.9;0.9;0.8;1.1;0.4;0.2;0.0
+647;Vrouwen;55 tot 65 jaar;Ondergrens 95%-interval;2023;1.9;1.0;0.8;0.6;1.2;0.3;0.2;0.0
+648;Vrouwen;55 tot 65 jaar;Ondergrens 95%-interval;2024;1.9;0.9;0.7;0.5;0.9;0.6;0.1;0.1
+649;Vrouwen;55 tot 65 jaar;Bovengrens 95%-interval;2014;3.4;2.0;1.6;1.2;1.8;0.8;1.0;0.6
+650;Vrouwen;55 tot 65 jaar;Bovengrens 95%-interval;2015;3.2;1.8;1.5;1.2;1.7;1.0;0.6;0.5
+651;Vrouwen;55 tot 65 jaar;Bovengrens 95%-interval;2016;3.3;1.9;1.5;1.3;1.9;0.7;0.7;0.6
+652;Vrouwen;55 tot 65 jaar;Bovengrens 95%-interval;2017;3.2;1.6;1.8;1.7;2.1;0.8;0.5;0.4
+653;Vrouwen;55 tot 65 jaar;Bovengrens 95%-interval;2018;3.3;1.8;1.8;1.4;1.8;1.2;0.5;0.2
+654;Vrouwen;55 tot 65 jaar;Bovengrens 95%-interval;2019;3.3;1.8;1.7;1.5;2.1;0.8;0.5;0.4
+655;Vrouwen;55 tot 65 jaar;Bovengrens 95%-interval;2020;2.7;1.4;1.5;1.1;1.6;0.7;0.5;0.4
+656;Vrouwen;55 tot 65 jaar;Bovengrens 95%-interval;2021;2.8;1.7;1.2;1.0;1.6;0.8;0.5;0.4
+657;Vrouwen;55 tot 65 jaar;Bovengrens 95%-interval;2022;2.8;1.5;1.5;1.4;1.7;0.8;0.5;0.2
+658;Vrouwen;55 tot 65 jaar;Bovengrens 95%-interval;2023;2.8;1.6;1.3;1.1;1.8;0.6;0.5;0.3
+659;Vrouwen;55 tot 65 jaar;Bovengrens 95%-interval;2024;2.7;1.5;1.3;1.0;1.5;1.0;0.3;0.3
+660;Vrouwen;65 tot 75 jaar;Waarde;2014;4.1;0.7;2.0;2.0;1.7;0.0;1.0;1.4
+661;Vrouwen;65 tot 75 jaar;Waarde;2015;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+662;Vrouwen;65 tot 75 jaar;Waarde;2016;0.3;0.0;0.3;0.3;0.3;0.0;0.0;0.0
+663;Vrouwen;65 tot 75 jaar;Waarde;2017;2.3;1.1;1.7;1.4;1.5;0.6;0.3;0.0
+664;Vrouwen;65 tot 75 jaar;Waarde;2018;1.6;0.9;0.2;0.2;1.6;0.0;0.0;0.0
+665;Vrouwen;65 tot 75 jaar;Waarde;2019;1.4;0.7;0.7;0.7;1.1;0.2;0.0;0.0
+666;Vrouwen;65 tot 75 jaar;Waarde;2020;0.9;0.3;0.6;0.5;0.3;0.1;0.3;0.1
+667;Vrouwen;65 tot 75 jaar;Waarde;2021;1.2;0.6;0.5;0.5;0.9;0.0;0.0;0.3
+668;Vrouwen;65 tot 75 jaar;Waarde;2022;1.6;0.7;0.8;0.8;1.3;0.1;0.2;0.0
+669;Vrouwen;65 tot 75 jaar;Waarde;2023;2.2;0.9;1.3;1.0;1.0;0.4;0.3;0.5
+670;Vrouwen;65 tot 75 jaar;Waarde;2024;1.7;1.0;0.8;0.7;1.0;0.4;0.3;0.0
+671;Vrouwen;65 tot 75 jaar;Ondergrens 95%-interval;2014;1.6;0.1;0.6;0.6;0.5;0.0;0.1;0.2
+672;Vrouwen;65 tot 75 jaar;Ondergrens 95%-interval;2015;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+673;Vrouwen;65 tot 75 jaar;Ondergrens 95%-interval;2016;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+674;Vrouwen;65 tot 75 jaar;Ondergrens 95%-interval;2017;1.0;0.3;0.7;0.5;0.6;0.1;0.0;0.0
+675;Vrouwen;65 tot 75 jaar;Ondergrens 95%-interval;2018;0.6;0.2;0.0;0.0;0.6;0.0;0.0;0.0
+676;Vrouwen;65 tot 75 jaar;Ondergrens 95%-interval;2019;0.7;0.3;0.2;0.2;0.5;0.0;0.0;0.0
+677;Vrouwen;65 tot 75 jaar;Ondergrens 95%-interval;2020;0.4;0.1;0.2;0.2;0.1;0.0;0.1;0.0
+678;Vrouwen;65 tot 75 jaar;Ondergrens 95%-interval;2021;0.5;0.2;0.1;0.1;0.3;0.0;0.0;0.0
+679;Vrouwen;65 tot 75 jaar;Ondergrens 95%-interval;2022;0.9;0.3;0.3;0.3;0.7;0.0;0.0;0.0
+680;Vrouwen;65 tot 75 jaar;Ondergrens 95%-interval;2023;1.4;0.4;0.7;0.5;0.5;0.1;0.1;0.2
+681;Vrouwen;65 tot 75 jaar;Ondergrens 95%-interval;2024;1.1;0.6;0.4;0.3;0.5;0.2;0.1;0.0
+682;Vrouwen;65 tot 75 jaar;Bovengrens 95%-interval;2014;10.1;4.5;6.4;6.4;5.1;;6.5;9.5
+683;Vrouwen;65 tot 75 jaar;Bovengrens 95%-interval;2015;;;;;;;;
+684;Vrouwen;65 tot 75 jaar;Bovengrens 95%-interval;2016;2.2;;2.2;2.2;2.2;;;
+685;Vrouwen;65 tot 75 jaar;Bovengrens 95%-interval;2017;4.9;3.7;4.3;4.0;3.5;3.9;1.8;
+686;Vrouwen;65 tot 75 jaar;Bovengrens 95%-interval;2018;4.3;3.6;1.2;1.2;4.3;;;
+687;Vrouwen;65 tot 75 jaar;Bovengrens 95%-interval;2019;2.9;1.8;2.1;2.1;2.6;1.1;0.2;
+688;Vrouwen;65 tot 75 jaar;Bovengrens 95%-interval;2020;1.9;1.2;1.5;1.3;1.2;0.9;1.1;0.7
+689;Vrouwen;65 tot 75 jaar;Bovengrens 95%-interval;2021;2.8;2.0;2.1;2.1;2.3;;;2.0
+690;Vrouwen;65 tot 75 jaar;Bovengrens 95%-interval;2022;2.9;1.6;1.9;1.9;2.4;1.0;1.2;
+691;Vrouwen;65 tot 75 jaar;Bovengrens 95%-interval;2023;3.5;1.9;2.4;2.0;1.9;1.2;1.1;1.4
+692;Vrouwen;65 tot 75 jaar;Bovengrens 95%-interval;2024;2.8;1.9;1.6;1.5;1.9;1.1;0.9;

@@ -1,0 +1,651 @@
+﻿ID;BedrijfstakkenBranches;Perioden;Waarde_1;Prijs_2;Volume_3;Waarde_4;Prijs_5;Volume_6;Waarde_7;Volume_8;Waarde_9;Volume_10
+0;Traditionele Horeca;2005 1e kwartaal;81.0;87.1;93.1;;;;95.0;109.2;;
+1;Traditionele Horeca;2005 2e kwartaal;101.8;87.7;116.0;;;;95.8;109.6;0.8;0.4
+2;Traditionele Horeca;2005 3e kwartaal;106.1;87.7;120.9;;;;98.4;111.9;2.7;2.2
+3;Traditionele Horeca;2005 4e kwartaal;99.5;88.1;112.9;;;;99.1;112.3;0.7;0.4
+4;Traditionele Horeca;2005;97.1;87.7;110.7;;;;97.1;110.7;;
+5;Traditionele Horeca;2006 1e kwartaal;84.3;88.6;95.1;4.0;1.8;2.2;99.2;112.0;0.1;-0.3
+6;Traditionele Horeca;2006 2e kwartaal;107.2;89.5;119.8;5.3;2.0;3.2;101.7;113.9;2.5;1.7
+7;Traditionele Horeca;2006 3e kwartaal;111.5;89.6;124.4;5.1;2.1;2.9;102.8;114.4;1.1;0.4
+8;Traditionele Horeca;2006 4e kwartaal;104.7;90.5;115.7;5.2;2.7;2.4;103.9;114.6;1.1;0.2
+9;Traditionele Horeca;2006;101.9;89.5;113.8;5.0;2.2;2.7;101.9;113.8;5.0;2.7
+10;Traditionele Horeca;2007 1e kwartaal;91.6;91.6;100.0;8.7;3.4;5.1;105.5;115.3;1.5;0.5
+11;Traditionele Horeca;2007 2e kwartaal;114.4;92.3;124.0;6.7;3.1;3.5;107.5;116.8;1.9;1.4
+12;Traditionele Horeca;2007 3e kwartaal;114.3;92.4;123.6;2.5;3.2;-0.6;106.9;115.3;-0.6;-1.4
+13;Traditionele Horeca;2007 4e kwartaal;107.9;93.5;115.4;3.1;3.3;-0.2;108.2;115.7;1.3;0.4
+14;Traditionele Horeca;2007;107.0;92.4;115.8;5.0;3.2;1.8;107.0;115.8;5.0;1.8
+15;Traditionele Horeca;2008 1e kwartaal;94.0;94.5;99.5;2.7;3.1;-0.4;108.7;115.1;0.4;-0.5
+16;Traditionele Horeca;2008 2e kwartaal;114.9;96.1;119.5;0.4;4.2;-3.7;107.6;112.2;-1.0;-2.6
+17;Traditionele Horeca;2008 3e kwartaal;113.4;95.9;118.2;-0.8;3.8;-4.4;105.6;109.6;-1.9;-2.3
+18;Traditionele Horeca;2008 4e kwartaal;104.7;97.0;107.9;-3.0;3.8;-6.5;105.1;108.2;-0.5;-1.3
+19;Traditionele Horeca;2008;106.7;95.9;111.3;-0.3;3.7;-3.9;106.7;111.3;-0.3;-3.9
+20;Traditionele Horeca;2009 1e kwartaal;88.6;97.3;91.0;-5.8;3.0;-8.6;103.2;106.2;-1.7;-1.9
+21;Traditionele Horeca;2009 2e kwartaal;108.3;98.1;110.5;-5.7;2.0;-7.5;101.8;104.2;-1.4;-1.9
+22;Traditionele Horeca;2009 3e kwartaal;108.9;98.1;111.0;-4.0;2.3;-6.1;101.0;102.7;-0.8;-1.4
+23;Traditionele Horeca;2009 4e kwartaal;98.7;98.8;99.9;-5.7;1.9;-7.4;98.4;99.4;-2.6;-3.2
+24;Traditionele Horeca;2009;101.1;98.1;103.1;-5.3;2.3;-7.4;101.1;103.1;-5.3;-7.4
+25;Traditionele Horeca;2010 1e kwartaal;83.7;99.3;84.3;-5.6;2.0;-7.4;98.5;99.2;0.1;-0.2
+26;Traditionele Horeca;2010 2e kwartaal;104.6;100.1;104.5;-3.4;2.0;-5.4;98.1;98.4;-0.4;-0.8
+27;Traditionele Horeca;2010 3e kwartaal;109.6;100.0;109.6;0.7;2.0;-1.2;100.8;100.5;2.7;2.2
+28;Traditionele Horeca;2010 4e kwartaal;102.1;100.7;101.4;3.4;1.9;1.5;102.6;101.8;1.8;1.3
+29;Traditionele Horeca;2010;100.0;100.0;100.0;-1.1;2.0;-3.0;100.0;100.0;-1.1;-3.0
+30;Traditionele Horeca;2011 1e kwartaal;88.9;101.6;87.4;6.2;2.4;3.8;103.8;102.0;1.2;0.1
+31;Traditionele Horeca;2011 2e kwartaal;112.0;102.8;108.9;7.0;2.7;4.2;104.7;102.2;0.9;0.2
+32;Traditionele Horeca;2011 3e kwartaal;112.9;102.7;110.0;3.0;2.6;0.3;104.9;102.1;0.2;-0.1
+33;Traditionele Horeca;2011 4e kwartaal;105.4;103.2;102.1;3.3;2.5;0.7;105.7;102.3;0.7;0.2
+34;Traditionele Horeca;2011;104.8;102.6;102.1;4.8;2.6;2.1;104.8;102.1;4.8;2.1
+35;Traditionele Horeca;2012 1e kwartaal;91.9;103.3;88.9;3.4;1.6;1.7;106.3;102.6;0.6;0.3
+36;Traditionele Horeca;2012 2e kwartaal;113.5;104.6;108.5;1.4;1.8;-0.4;106.5;101.9;0.2;-0.6
+37;Traditionele Horeca;2012 3e kwartaal;113.7;104.6;108.7;0.7;1.9;-1.2;105.6;100.9;-0.8;-1.0
+38;Traditionele Horeca;2012 4e kwartaal;104.5;104.8;99.7;-0.9;1.5;-2.4;105.2;100.3;-0.4;-0.6
+39;Traditionele Horeca;2012;105.9;104.3;101.4;1.1;1.7;-0.7;105.9;101.4;1.1;-0.7
+40;Traditionele Horeca;2013 1e kwartaal;89.0;105.1;84.7;-3.2;1.7;-4.8;105.0;99.5;-0.2;-0.8
+41;Traditionele Horeca;2013 2e kwartaal;114.2;106.1;107.6;0.6;1.4;-0.8;106.6;100.7;1.5;1.2
+42;Traditionele Horeca;2013 3e kwartaal;116.6;106.7;109.3;2.5;1.9;0.6;107.7;101.1;1.0;0.4
+43;Traditionele Horeca;2013 4e kwartaal;107.9;106.5;101.3;3.3;1.6;1.6;108.4;101.6;0.6;0.5
+44;Traditionele Horeca;2013;106.9;106.1;100.7;0.9;1.7;-0.7;106.9;100.7;0.9;-0.7
+45;Traditionele Horeca;2014 1e kwartaal;95.2;106.5;89.3;7.0;1.4;5.5;110.2;103.2;1.7;1.5
+46;Traditionele Horeca;2014 2e kwartaal;119.7;107.7;111.2;4.9;1.4;3.4;112.1;104.5;1.6;1.3
+47;Traditionele Horeca;2014 3e kwartaal;121.8;108.1;112.7;4.5;1.3;3.1;113.3;105.3;1.1;0.8
+48;Traditionele Horeca;2014 4e kwartaal;113.8;107.8;105.6;5.5;1.2;4.2;114.9;106.6;1.4;1.2
+49;Traditionele Horeca;2014;112.6;107.5;104.7;5.3;1.3;4.0;112.6;104.9;5.4;4.1
+50;Traditionele Horeca;2015 1e kwartaal;98.5;107.9;91.3;3.5;1.3;2.2;115.8;106.9;0.8;0.3
+51;Traditionele Horeca;2015 2e kwartaal;127.2;109.5;116.2;6.3;1.7;4.5;119.3;109.6;3.0;2.5
+52;Traditionele Horeca;2015 3e kwartaal;129.3;110.4;117.1;6.2;2.2;4.0;119.7;109.2;0.3;-0.4
+53;Traditionele Horeca;2015 4e kwartaal;121.9;109.8;111.0;7.1;1.9;5.1;122.1;110.9;2.0;1.5
+54;Traditionele Horeca;2015;119.2;109.4;108.9;5.9;1.8;4.0;119.2;109.2;5.9;4.1
+55;Traditionele Horeca;2016 1e kwartaal;105.5;110.7;95.3;7.1;2.5;4.4;123.3;111.0;1.0;0.1
+56;Traditionele Horeca;2016 2e kwartaal;133.4;112.4;118.7;4.9;2.7;2.1;124.7;111.5;1.1;0.5
+57;Traditionele Horeca;2016 3e kwartaal;140.4;113.3;123.8;8.5;2.7;5.7;128.2;113.9;2.9;2.2
+58;Traditionele Horeca;2016 4e kwartaal;128.7;112.3;114.6;5.6;2.3;3.3;129.8;115.3;1.2;1.2
+59;Traditionele Horeca;2016;127.0;112.2;113.1;6.5;2.5;3.9;126.5;112.9;6.1;3.4
+60;Traditionele Horeca;2017 1e kwartaal;113.7;112.9;100.7;7.8;2.0;5.7;133.2;117.3;2.6;1.8
+61;Traditionele Horeca;2017 2e kwartaal;145.6;115.4;126.2;9.1;2.7;6.3;135.7;118.2;1.9;0.8
+62;Traditionele Horeca;2017 3e kwartaal;149.0;116.6;127.9;6.2;2.8;3.2;137.2;119.1;1.1;0.8
+63;Traditionele Horeca;2017 4e kwartaal;137.5;114.9;119.7;6.8;2.3;4.4;137.8;119.8;0.5;0.6
+64;Traditionele Horeca;2017;136.5;115.0;118.6;7.4;2.6;4.9;136.0;118.6;7.5;5.1
+65;I Horeca;2005 1e kwartaal;81.7;;;;;;94.0;;;
+66;I Horeca;2005 2e kwartaal;99.2;;;;;;93.9;;-0.2;
+67;I Horeca;2005 3e kwartaal;103.5;;;;;;96.4;;2.7;
+68;I Horeca;2005 4e kwartaal;97.0;;;;;;97.1;;0.8;
+69;I Horeca;2005;95.3;;;;;;95.3;;;
+70;I Horeca;2006 1e kwartaal;84.6;;;3.5;;;97.7;;0.6;
+71;I Horeca;2006 2e kwartaal;104.5;;;5.3;;;99.4;;1.8;
+72;I Horeca;2006 3e kwartaal;108.7;;;5.0;;;100.8;;1.4;
+73;I Horeca;2006 4e kwartaal;102.0;;;5.1;;;101.7;;0.9;
+74;I Horeca;2006;99.9;;;4.8;;;99.9;;4.8;
+75;I Horeca;2007 1e kwartaal;90.7;;;7.2;;;103.1;;1.3;
+76;I Horeca;2007 2e kwartaal;112.1;;;7.3;;;105.9;;2.7;
+77;I Horeca;2007 3e kwartaal;112.4;;;3.4;;;105.6;;-0.3;
+78;I Horeca;2007 4e kwartaal;106.4;;;4.4;;;106.9;;1.3;
+79;I Horeca;2007;105.4;;;5.5;;;105.4;;5.5;
+80;I Horeca;2008 1e kwartaal;94.1;;;3.8;;;107.2;;0.2;
+81;I Horeca;2008 2e kwartaal;112.8;;;0.7;;;106.3;;-0.9;
+82;I Horeca;2008 3e kwartaal;111.4;;;-0.9;;;104.4;;-1.8;
+83;I Horeca;2008 4e kwartaal;103.5;;;-2.7;;;104.1;;-0.2;
+84;I Horeca;2008;105.5;;;0.1;;;105.5;;0.1;
+85;I Horeca;2009 1e kwartaal;89.7;;;-4.7;;;102.8;;-1.3;
+86;I Horeca;2009 2e kwartaal;107.1;;;-5.1;;;101.1;;-1.6;
+87;I Horeca;2009 3e kwartaal;107.1;;;-3.8;;;99.9;;-1.2;
+88;I Horeca;2009 4e kwartaal;97.9;;;-5.5;;;97.9;;-2.0;
+89;I Horeca;2009;100.4;;;-4.8;;;100.4;;-4.8;
+90;I Horeca;2010 1e kwartaal;85.8;;;-4.3;;;99.1;;1.3;
+91;I Horeca;2010 2e kwartaal;103.8;;;-3.1;;;97.7;;-1.4;
+92;I Horeca;2010 3e kwartaal;108.7;;;1.5;;;100.7;;3.1;
+93;I Horeca;2010 4e kwartaal;101.7;;;3.9;;;102.4;;1.6;
+94;I Horeca;2010;100.0;;;-0.4;;;100.0;;-0.4;
+95;I Horeca;2011 1e kwartaal;89.4;;;4.2;;;103.0;;0.6;
+96;I Horeca;2011 2e kwartaal;110.5;;;6.5;;;103.8;;0.8;
+97;I Horeca;2011 3e kwartaal;111.3;;;2.4;;;104.0;;0.1;
+98;I Horeca;2011 4e kwartaal;104.3;;;2.6;;;104.7;;0.7;
+99;I Horeca;2011;103.9;;;3.9;;;103.9;;3.9;
+100;I Horeca;2012 1e kwartaal;91.9;;;2.7;;;105.3;;0.6;
+101;I Horeca;2012 2e kwartaal;112.7;;;1.9;;;105.9;;0.6;
+102;I Horeca;2012 3e kwartaal;112.6;;;1.1;;;105.1;;-0.8;
+103;I Horeca;2012 4e kwartaal;103.6;;;-0.7;;;104.4;;-0.6;
+104;I Horeca;2012;105.2;;;1.2;;;105.2;;1.2;
+105;I Horeca;2013 1e kwartaal;88.9;;;-3.2;;;103.7;;-0.7;
+106;I Horeca;2013 2e kwartaal;112.6;;;0.0;;;105.5;;1.7;
+107;I Horeca;2013 3e kwartaal;116.0;;;3.0;;;107.7;;2.1;
+108;I Horeca;2013 4e kwartaal;107.0;;;3.2;;;107.7;;0.0;
+109;I Horeca;2013;106.1;;;0.9;;;106.1;;0.9;
+110;I Horeca;2014 1e kwartaal;94.9;;;6.7;;;109.1;;1.3;
+111;I Horeca;2014 2e kwartaal;118.0;;;4.8;;;110.9;;1.6;
+112;I Horeca;2014 3e kwartaal;120.9;;;4.2;;;112.6;;1.6;
+113;I Horeca;2014 4e kwartaal;112.4;;;5.1;;;113.5;;0.8;
+114;I Horeca;2014;111.5;;;5.1;;;111.5;;5.1;
+115;I Horeca;2015 1e kwartaal;98.2;;;3.5;;;114.6;;1.0;
+116;I Horeca;2015 2e kwartaal;125.1;;;6.0;;;117.9;;2.9;
+117;I Horeca;2015 3e kwartaal;128.7;;;6.4;;;118.8;;0.8;
+118;I Horeca;2015 4e kwartaal;120.1;;;6.9;;;120.7;;1.6;
+119;I Horeca;2015;118.0;;;5.8;;;118.0;;5.8;
+120;I Horeca;2016 1e kwartaal;105.0;;;7.0;;;122.0;;1.0;
+121;I Horeca;2016 2e kwartaal;131.1;;;4.8;;;123.4;;1.2;
+122;I Horeca;2016 3e kwartaal;139.1;;;8.1;;;126.7;;2.7;
+123;I Horeca;2016 4e kwartaal;126.1;;;5.0;;;127.5;;0.6;
+124;I Horeca;2016;125.3;;;6.2;;;124.9;;5.8;
+125;I Horeca;2017 1e kwartaal;111.8;;;6.4;;;130.4;;2.3;
+126;I Horeca;2017 2e kwartaal;141.7;;;8.1;;;132.8;;1.8;
+127;I Horeca;2017 3e kwartaal;146.9;;;5.6;;;134.4;;1.3;
+128;I Horeca;2017 4e kwartaal;133.6;;;5.9;;;134.7;;0.2;
+129;I Horeca;2017;133.5;;;6.5;;;133.1;;6.6;
+130;55 Logiesverstrekking;2005 1e kwartaal;76.1;;;;;;90.9;;;
+131;55 Logiesverstrekking;2005 2e kwartaal;97.6;;;;;;88.7;;-2.4;
+132;55 Logiesverstrekking;2005 3e kwartaal;100.0;;;;;;90.7;;2.2;
+133;55 Logiesverstrekking;2005 4e kwartaal;89.0;;;;;;92.4;;1.9;
+134;55 Logiesverstrekking;2005;90.7;;;;;;90.7;;;
+135;55 Logiesverstrekking;2006 1e kwartaal;77.8;;;2.3;;;92.3;;-0.2;
+136;55 Logiesverstrekking;2006 2e kwartaal;105.9;;;8.5;;;96.2;;4.2;
+137;55 Logiesverstrekking;2006 3e kwartaal;105.1;;;5.1;;;96.4;;0.2;
+138;55 Logiesverstrekking;2006 4e kwartaal;92.9;;;4.3;;;96.8;;0.5;
+139;55 Logiesverstrekking;2006;95.4;;;5.2;;;95.4;;5.2;
+140;55 Logiesverstrekking;2007 1e kwartaal;82.8;;;6.4;;;98.2;;1.4;
+141;55 Logiesverstrekking;2007 2e kwartaal;111.0;;;4.8;;;101.0;;2.8;
+142;55 Logiesverstrekking;2007 3e kwartaal;109.9;;;4.5;;;101.4;;0.5;
+143;55 Logiesverstrekking;2007 4e kwartaal;99.4;;;7.1;;;102.6;;1.2;
+144;55 Logiesverstrekking;2007;100.8;;;5.6;;;100.8;;5.6;
+145;55 Logiesverstrekking;2008 1e kwartaal;88.1;;;6.4;;;105.1;;2.4;
+146;55 Logiesverstrekking;2008 2e kwartaal;115.4;;;4.0;;;104.7;;-0.4;
+147;55 Logiesverstrekking;2008 3e kwartaal;111.2;;;1.2;;;101.5;;-3.0;
+148;55 Logiesverstrekking;2008 4e kwartaal;97.9;;;-1.6;;;101.1;;-0.4;
+149;55 Logiesverstrekking;2008;103.1;;;2.3;;;103.1;;2.3;
+150;55 Logiesverstrekking;2009 1e kwartaal;84.3;;;-4.3;;;100.7;;-0.5;
+151;55 Logiesverstrekking;2009 2e kwartaal;107.6;;;-6.7;;;98.4;;-2.2;
+152;55 Logiesverstrekking;2009 3e kwartaal;108.8;;;-2.1;;;99.6;;1.2;
+153;55 Logiesverstrekking;2009 4e kwartaal;91.5;;;-6.5;;;93.4;;-6.2;
+154;55 Logiesverstrekking;2009;98.1;;;-4.9;;;98.0;;-4.9;
+155;55 Logiesverstrekking;2010 1e kwartaal;81.6;;;-3.3;;;99.5;;6.5;
+156;55 Logiesverstrekking;2010 2e kwartaal;106.1;;;-1.4;;;97.0;;-2.5;
+157;55 Logiesverstrekking;2010 3e kwartaal;111.7;;;2.6;;;100.3;;3.4;
+158;55 Logiesverstrekking;2010 4e kwartaal;100.7;;;10.1;;;103.2;;3.0;
+159;55 Logiesverstrekking;2010;100.0;;;2.0;;;100.0;;2.0;
+160;55 Logiesverstrekking;2011 1e kwartaal;83.6;;;2.5;;;102.2;;-1.0;
+161;55 Logiesverstrekking;2011 2e kwartaal;113.0;;;6.5;;;103.0;;0.7;
+162;55 Logiesverstrekking;2011 3e kwartaal;113.9;;;1.9;;;102.0;;-1.0;
+163;55 Logiesverstrekking;2011 4e kwartaal;100.3;;;-0.4;;;103.6;;1.6;
+164;55 Logiesverstrekking;2011;102.7;;;2.7;;;102.7;;2.7;
+165;55 Logiesverstrekking;2012 1e kwartaal;85.9;;;2.7;;;104.6;;1.0;
+166;55 Logiesverstrekking;2012 2e kwartaal;117.5;;;4.0;;;106.6;;1.8;
+167;55 Logiesverstrekking;2012 3e kwartaal;116.0;;;1.9;;;105.1;;-1.4;
+168;55 Logiesverstrekking;2012 4e kwartaal;99.3;;;-1.0;;;102.4;;-2.6;
+169;55 Logiesverstrekking;2012;104.7;;;1.9;;;104.7;;1.9;
+170;55 Logiesverstrekking;2013 1e kwartaal;82.2;;;-4.2;;;101.2;;-1.1;
+171;55 Logiesverstrekking;2013 2e kwartaal;115.5;;;-1.7;;;104.8;;3.6;
+172;55 Logiesverstrekking;2013 3e kwartaal;123.4;;;6.4;;;110.7;;5.6;
+173;55 Logiesverstrekking;2013 4e kwartaal;103.3;;;4.1;;;107.7;;-2.7;
+174;55 Logiesverstrekking;2013;106.1;;;1.4;;;106.1;;1.4;
+175;55 Logiesverstrekking;2014 1e kwartaal;87.1;;;5.9;;;107.8;;0.1;
+176;55 Logiesverstrekking;2014 2e kwartaal;121.1;;;4.9;;;110.0;;2.1;
+177;55 Logiesverstrekking;2014 3e kwartaal;128.1;;;3.8;;;113.5;;3.2;
+178;55 Logiesverstrekking;2014 4e kwartaal;107.4;;;3.9;;;112.4;;-1.0;
+179;55 Logiesverstrekking;2014;110.9;;;4.5;;;110.9;;4.6;
+180;55 Logiesverstrekking;2015 1e kwartaal;90.9;;;4.3;;;114.5;;1.8;
+181;55 Logiesverstrekking;2015 2e kwartaal;128.5;;;6.1;;;117.7;;2.8;
+182;55 Logiesverstrekking;2015 3e kwartaal;138.8;;;8.4;;;120.1;;2.1;
+183;55 Logiesverstrekking;2015 4e kwartaal;114.1;;;6.3;;;120.0;;-0.1;
+184;55 Logiesverstrekking;2015;118.1;;;6.5;;;118.1;;6.4;
+185;55 Logiesverstrekking;2016 1e kwartaal;96.7;;;6.4;;;121.3;;1.1;
+186;55 Logiesverstrekking;2016 2e kwartaal;133.8;;;4.1;;;122.9;;1.3;
+187;55 Logiesverstrekking;2016 3e kwartaal;146.2;;;5.4;;;125.0;;1.7;
+188;55 Logiesverstrekking;2016 4e kwartaal;119.5;;;4.7;;;125.8;;0.6;
+189;55 Logiesverstrekking;2016;124.1;;;5.1;;;123.7;;4.8;
+190;55 Logiesverstrekking;2017 1e kwartaal;104.1;;;7.6;;;131.2;;4.3;
+191;55 Logiesverstrekking;2017 2e kwartaal;147.5;;;10.3;;;133.2;;1.5;
+192;55 Logiesverstrekking;2017 3e kwartaal;156.0;;;6.7;;;135.4;;1.7;
+193;55 Logiesverstrekking;2017 4e kwartaal;129.6;;;8.4;;;138.1;;2.0;
+194;55 Logiesverstrekking;2017;134.3;;;8.3;;;134.5;;8.7;
+195;551 Hotels;2005 1e kwartaal;73.1;;;;;;91.0;;;
+196;551 Hotels;2005 2e kwartaal;100.9;;;;;;91.3;;0.3;
+197;551 Hotels;2005 3e kwartaal;99.1;;;;;;93.0;;1.9;
+198;551 Hotels;2005 4e kwartaal;96.8;;;;;;94.7;;1.8;
+199;551 Hotels;2005;92.5;;;;;;92.5;;;
+200;551 Hotels;2006 1e kwartaal;75.9;;;3.9;;;93.0;;-1.8;
+201;551 Hotels;2006 2e kwartaal;109.7;;;8.7;;;99.1;;6.6;
+202;551 Hotels;2006 3e kwartaal;104.8;;;5.7;;;99.6;;0.5;
+203;551 Hotels;2006 4e kwartaal;102.1;;;5.5;;;100.8;;1.2;
+204;551 Hotels;2006;98.1;;;6.1;;;98.1;;6.1;
+205;551 Hotels;2007 1e kwartaal;84.7;;;11.6;;;103.0;;2.2;
+206;551 Hotels;2007 2e kwartaal;115.1;;;4.9;;;104.1;;1.1;
+207;551 Hotels;2007 3e kwartaal;109.9;;;4.9;;;105.4;;1.2;
+208;551 Hotels;2007 4e kwartaal;110.0;;;7.7;;;107.3;;1.8;
+209;551 Hotels;2007;104.9;;;6.9;;;105.0;;7.0;
+210;551 Hotels;2008 1e kwartaal;90.2;;;6.5;;;110.6;;3.1;
+211;551 Hotels;2008 2e kwartaal;120.9;;;5.0;;;109.0;;-1.4;
+212;551 Hotels;2008 3e kwartaal;111.7;;;1.6;;;105.4;;-3.3;
+213;551 Hotels;2008 4e kwartaal;105.6;;;-4.0;;;103.3;;-2.0;
+214;551 Hotels;2008;107.1;;;2.1;;;107.1;;2.0;
+215;551 Hotels;2009 1e kwartaal;81.8;;;-9.3;;;100.4;;-2.8;
+216;551 Hotels;2009 2e kwartaal;107.9;;;-10.8;;;97.9;;-2.5;
+217;551 Hotels;2009 3e kwartaal;104.2;;;-6.7;;;99.1;;1.2;
+218;551 Hotels;2009 4e kwartaal;96.7;;;-8.4;;;93.0;;-6.2;
+219;551 Hotels;2009;97.6;;;-8.8;;;97.6;;-8.8;
+220;551 Hotels;2010 1e kwartaal;78.2;;;-4.4;;;98.8;;6.2;
+221;551 Hotels;2010 2e kwartaal;107.0;;;-0.8;;;97.2;;-1.6;
+222;551 Hotels;2010 3e kwartaal;109.0;;;4.7;;;100.9;;3.8;
+223;551 Hotels;2010 4e kwartaal;105.7;;;9.4;;;103.1;;2.2;
+224;551 Hotels;2010;100.0;;;2.4;;;100.0;;2.5;
+225;551 Hotels;2011 1e kwartaal;83.7;;;7.0;;;104.7;;1.6;
+226;551 Hotels;2011 2e kwartaal;115.7;;;8.1;;;104.4;;-0.3;
+227;551 Hotels;2011 3e kwartaal;112.3;;;3.0;;;103.6;;-0.8;
+228;551 Hotels;2011 4e kwartaal;106.6;;;0.8;;;105.5;;1.8;
+229;551 Hotels;2011;104.6;;;4.6;;;104.6;;4.6;
+230;551 Hotels;2012 1e kwartaal;86.0;;;2.8;;;106.1;;0.6;
+231;551 Hotels;2012 2e kwartaal;119.8;;;3.5;;;107.5;;1.3;
+232;551 Hotels;2012 3e kwartaal;112.3;;;0.0;;;105.5;;-1.9;
+233;551 Hotels;2012 4e kwartaal;104.2;;;-2.2;;;103.1;;-2.3;
+234;551 Hotels;2012;105.6;;;1.0;;;105.6;;1.0;
+235;551 Hotels;2013 1e kwartaal;81.9;;;-4.8;;;101.9;;-1.2;
+236;551 Hotels;2013 2e kwartaal;118.5;;;-1.0;;;106.5;;4.5;
+237;551 Hotels;2013 3e kwartaal;117.2;;;4.4;;;108.6;;2.0;
+238;551 Hotels;2013 4e kwartaal;107.1;;;2.7;;;107.5;;-1.0;
+239;551 Hotels;2013;106.2;;;0.6;;;106.1;;0.5;
+240;551 Hotels;2014 1e kwartaal;87.7;;;7.1;;;109.6;;2.0;
+241;551 Hotels;2014 2e kwartaal;125.7;;;6.0;;;112.1;;2.3;
+242;551 Hotels;2014 3e kwartaal;123.7;;;5.6;;;114.0;;1.7;
+243;551 Hotels;2014 4e kwartaal;113.5;;;6.0;;;114.9;;0.8;
+244;551 Hotels;2014;112.6;;;6.1;;;112.7;;6.1;
+245;551 Hotels;2015 1e kwartaal;91.6;;;4.5;;;116.1;;1.1;
+246;551 Hotels;2015 2e kwartaal;132.4;;;5.4;;;119.2;;2.7;
+247;551 Hotels;2015 3e kwartaal;134.6;;;8.8;;;122.1;;2.4;
+248;551 Hotels;2015 4e kwartaal;121.2;;;6.8;;;122.3;;0.2;
+249;551 Hotels;2015;120.0;;;6.5;;;120.0;;6.5;
+250;551 Hotels;2016 1e kwartaal;98.2;;;7.2;;;124.0;;1.3;
+251;551 Hotels;2016 2e kwartaal;139.3;;;5.2;;;124.9;;0.7;
+252;551 Hotels;2016 3e kwartaal;139.2;;;3.4;;;125.6;;0.6;
+253;551 Hotels;2016 4e kwartaal;126.5;;;4.4;;;127.6;;1.6;
+254;551 Hotels;2016;125.8;;;4.9;;;125.5;;4.6;
+255;551 Hotels;2017 1e kwartaal;105.9;;;7.9;;;133.3;;4.5;
+256;551 Hotels;2017 2e kwartaal;152.0;;;9.1;;;134.7;;1.0;
+257;551 Hotels;2017 3e kwartaal;149.7;;;7.5;;;137.8;;2.3;
+258;551 Hotels;2017 4e kwartaal;139.2;;;10.1;;;142.4;;3.3;
+259;551 Hotels;2017;136.7;;;8.7;;;137.0;;9.2;
+260;56 Eet- en drinkgelegenheden;2005 1e kwartaal;83.8;;;;;;95.2;;;
+261;56 Eet- en drinkgelegenheden;2005 2e kwartaal;99.8;;;;;;95.8;;0.6;
+262;56 Eet- en drinkgelegenheden;2005 3e kwartaal;104.8;;;;;;98.5;;2.8;
+263;56 Eet- en drinkgelegenheden;2005 4e kwartaal;100.0;;;;;;98.9;;0.4;
+264;56 Eet- en drinkgelegenheden;2005;97.1;;;;;;97.1;;;
+265;56 Eet- en drinkgelegenheden;2006 1e kwartaal;87.1;;;3.9;;;99.7;;0.8;
+266;56 Eet- en drinkgelegenheden;2006 2e kwartaal;103.9;;;4.2;;;100.6;;0.9;
+267;56 Eet- en drinkgelegenheden;2006 3e kwartaal;110.0;;;5.0;;;102.5;;1.8;
+268;56 Eet- en drinkgelegenheden;2006 4e kwartaal;105.4;;;5.4;;;103.6;;1.1;
+269;56 Eet- en drinkgelegenheden;2006;101.6;;;4.7;;;101.6;;4.6;
+270;56 Eet- en drinkgelegenheden;2007 1e kwartaal;93.6;;;7.5;;;105.0;;1.3;
+271;56 Eet- en drinkgelegenheden;2007 2e kwartaal;112.5;;;8.2;;;107.7;;2.6;
+272;56 Eet- en drinkgelegenheden;2007 3e kwartaal;113.3;;;3.0;;;107.1;;-0.6;
+273;56 Eet- en drinkgelegenheden;2007 4e kwartaal;109.0;;;3.5;;;108.6;;1.4;
+274;56 Eet- en drinkgelegenheden;2007;107.1;;;5.4;;;107.1;;5.4;
+275;56 Eet- en drinkgelegenheden;2008 1e kwartaal;96.4;;;3.0;;;108.0;;-0.5;
+276;56 Eet- en drinkgelegenheden;2008 2e kwartaal;111.9;;;-0.5;;;106.9;;-1.1;
+277;56 Eet- en drinkgelegenheden;2008 3e kwartaal;111.5;;;-1.6;;;105.4;;-1.4;
+278;56 Eet- en drinkgelegenheden;2008 4e kwartaal;105.7;;;-3.1;;;105.3;;-0.1;
+279;56 Eet- en drinkgelegenheden;2008;106.4;;;-0.7;;;106.4;;-0.7;
+280;56 Eet- en drinkgelegenheden;2009 1e kwartaal;91.7;;;-4.9;;;103.6;;-1.6;
+281;56 Eet- en drinkgelegenheden;2009 2e kwartaal;106.9;;;-4.5;;;102.1;;-1.4;
+282;56 Eet- en drinkgelegenheden;2009 3e kwartaal;106.5;;;-4.5;;;100.0;;-2.1;
+283;56 Eet- en drinkgelegenheden;2009 4e kwartaal;100.3;;;-5.1;;;99.6;;-0.5;
+284;56 Eet- en drinkgelegenheden;2009;101.3;;;-4.7;;;101.3;;-4.7;
+285;56 Eet- en drinkgelegenheden;2010 1e kwartaal;87.4;;;-4.7;;;99.0;;-0.6;
+286;56 Eet- en drinkgelegenheden;2010 2e kwartaal;102.9;;;-3.7;;;98.0;;-1.0;
+287;56 Eet- en drinkgelegenheden;2010 3e kwartaal;107.6;;;1.1;;;100.9;;2.9;
+288;56 Eet- en drinkgelegenheden;2010 4e kwartaal;102.0;;;1.8;;;102.1;;1.1;
+289;56 Eet- en drinkgelegenheden;2010;100.0;;;-1.3;;;100.0;;-1.3;
+290;56 Eet- en drinkgelegenheden;2011 1e kwartaal;91.6;;;4.8;;;103.3;;1.2;
+291;56 Eet- en drinkgelegenheden;2011 2e kwartaal;109.6;;;6.5;;;104.2;;0.8;
+292;56 Eet- en drinkgelegenheden;2011 3e kwartaal;110.3;;;2.5;;;104.7;;0.5;
+293;56 Eet- en drinkgelegenheden;2011 4e kwartaal;105.8;;;3.7;;;105.2;;0.4;
+294;56 Eet- en drinkgelegenheden;2011;104.3;;;4.3;;;104.3;;4.3;
+295;56 Eet- en drinkgelegenheden;2012 1e kwartaal;94.1;;;2.7;;;105.6;;0.4;
+296;56 Eet- en drinkgelegenheden;2012 2e kwartaal;110.8;;;1.1;;;105.7;;0.1;
+297;56 Eet- en drinkgelegenheden;2012 3e kwartaal;111.3;;;0.9;;;105.1;;-0.6;
+298;56 Eet- en drinkgelegenheden;2012 4e kwartaal;105.2;;;-0.6;;;105.2;;0.1;
+299;56 Eet- en drinkgelegenheden;2012;105.4;;;1.0;;;105.4;;1.0;
+300;56 Eet- en drinkgelegenheden;2013 1e kwartaal;91.4;;;-2.9;;;104.6;;-0.5;
+301;56 Eet- en drinkgelegenheden;2013 2e kwartaal;111.6;;;0.7;;;105.7;;1.1;
+302;56 Eet- en drinkgelegenheden;2013 3e kwartaal;113.2;;;1.7;;;106.6;;0.8;
+303;56 Eet- en drinkgelegenheden;2013 4e kwartaal;108.3;;;2.9;;;107.7;;1.1;
+304;56 Eet- en drinkgelegenheden;2013;106.1;;;0.7;;;106.1;;0.7;
+305;56 Eet- en drinkgelegenheden;2014 1e kwartaal;97.8;;;7.0;;;109.7;;1.8;
+306;56 Eet- en drinkgelegenheden;2014 2e kwartaal;116.8;;;4.7;;;111.2;;1.4;
+307;56 Eet- en drinkgelegenheden;2014 3e kwartaal;118.2;;;4.4;;;112.3;;1.0;
+308;56 Eet- en drinkgelegenheden;2014 4e kwartaal;114.2;;;5.5;;;113.9;;1.4;
+309;56 Eet- en drinkgelegenheden;2014;111.8;;;5.3;;;111.8;;5.3;
+310;56 Eet- en drinkgelegenheden;2015 1e kwartaal;100.9;;;3.2;;;114.6;;0.6;
+311;56 Eet- en drinkgelegenheden;2015 2e kwartaal;123.8;;;6.0;;;118.0;;2.9;
+312;56 Eet- en drinkgelegenheden;2015 3e kwartaal;124.9;;;5.7;;;118.3;;0.3;
+313;56 Eet- en drinkgelegenheden;2015 4e kwartaal;122.3;;;7.1;;;121.0;;2.3;
+314;56 Eet- en drinkgelegenheden;2015;118.0;;;5.6;;;118.0;;5.6;
+315;56 Eet- en drinkgelegenheden;2016 1e kwartaal;108.1;;;7.1;;;122.2;;1.0;
+316;56 Eet- en drinkgelegenheden;2016 2e kwartaal;130.0;;;5.0;;;123.6;;1.1;
+317;56 Eet- en drinkgelegenheden;2016 3e kwartaal;136.5;;;9.3;;;127.4;;3.1;
+318;56 Eet- en drinkgelegenheden;2016 4e kwartaal;128.6;;;5.1;;;128.2;;0.6;
+319;56 Eet- en drinkgelegenheden;2016;125.8;;;6.6;;;125.3;;6.2;
+320;56 Eet- en drinkgelegenheden;2017 1e kwartaal;114.7;;;6.1;;;130.1;;1.5;
+321;56 Eet- en drinkgelegenheden;2017 2e kwartaal;139.4;;;7.2;;;132.6;;1.9;
+322;56 Eet- en drinkgelegenheden;2017 3e kwartaal;143.5;;;5.1;;;134.1;;1.1;
+323;56 Eet- en drinkgelegenheden;2017 4e kwartaal;135.1;;;5.1;;;133.4;;-0.5;
+324;56 Eet- en drinkgelegenheden;2017;133.2;;;5.8;;;132.5;;5.8;
+325;561 Restaurants, andere eetgelegenheden;2005 1e kwartaal;80.2;87.0;92.2;;;;93.9;108.1;;
+326;561 Restaurants, andere eetgelegenheden;2005 2e kwartaal;100.3;87.4;114.8;;;;94.9;108.8;1.1;0.7
+327;561 Restaurants, andere eetgelegenheden;2005 3e kwartaal;106.4;87.5;121.5;;;;98.0;111.9;3.3;2.8
+328;561 Restaurants, andere eetgelegenheden;2005 4e kwartaal;98.5;87.8;112.2;;;;98.5;111.9;0.5;0.0
+329;561 Restaurants, andere eetgelegenheden;2005;96.4;87.4;110.2;;;;96.4;110.2;;
+330;561 Restaurants, andere eetgelegenheden;2006 1e kwartaal;83.3;88.5;94.2;3.9;1.7;2.2;98.9;111.9;0.3;0.0
+331;561 Restaurants, andere eetgelegenheden;2006 2e kwartaal;105.0;88.9;118.1;4.7;1.8;2.9;100.3;112.9;1.4;0.8
+332;561 Restaurants, andere eetgelegenheden;2006 3e kwartaal;112.1;89.5;125.4;5.4;2.2;3.1;102.1;114.0;1.8;1.0
+333;561 Restaurants, andere eetgelegenheden;2006 4e kwartaal;104.1;90.1;115.6;5.7;2.6;3.0;103.4;114.5;1.3;0.4
+334;561 Restaurants, andere eetgelegenheden;2006;101.2;89.2;113.3;5.0;2.1;2.8;101.2;113.3;5.0;2.8
+335;561 Restaurants, andere eetgelegenheden;2007 1e kwartaal;91.6;91.3;100.3;9.9;3.1;6.5;105.5;115.8;2.0;1.1
+336;561 Restaurants, andere eetgelegenheden;2007 2e kwartaal;114.1;91.9;124.2;8.6;3.3;5.1;107.6;117.3;2.1;1.4
+337;561 Restaurants, andere eetgelegenheden;2007 3e kwartaal;115.6;92.1;125.5;3.1;3.0;0.1;106.9;115.9;-0.7;-1.2
+338;561 Restaurants, andere eetgelegenheden;2007 4e kwartaal;105.9;92.9;114.0;1.8;3.2;-1.4;107.1;115.0;0.2;-0.7
+339;561 Restaurants, andere eetgelegenheden;2007;106.8;92.0;116.0;5.6;3.2;2.4;106.8;116.0;5.6;2.4
+340;561 Restaurants, andere eetgelegenheden;2008 1e kwartaal;92.8;94.3;98.4;1.3;3.3;-1.9;106.3;112.9;-0.8;-1.8
+341;561 Restaurants, andere eetgelegenheden;2008 2e kwartaal;112.1;95.4;117.5;-1.7;3.9;-5.4;105.8;110.9;-0.4;-1.8
+342;561 Restaurants, andere eetgelegenheden;2008 3e kwartaal;113.9;96.1;118.6;-1.4;4.3;-5.5;105.6;109.6;-0.2;-1.1
+343;561 Restaurants, andere eetgelegenheden;2008 4e kwartaal;104.7;96.7;108.2;-1.2;4.1;-5.1;105.8;109.2;0.2;-0.4
+344;561 Restaurants, andere eetgelegenheden;2008;105.9;95.6;110.7;-0.9;3.9;-4.6;105.9;110.7;-0.9;-4.6
+345;561 Restaurants, andere eetgelegenheden;2009 1e kwartaal;90.1;97.4;92.5;-2.9;3.3;-6.0;104.7;107.7;-1.1;-1.4
+346;561 Restaurants, andere eetgelegenheden;2009 2e kwartaal;110.1;98.0;112.3;-1.8;2.7;-4.4;103.9;106.1;-0.8;-1.5
+347;561 Restaurants, andere eetgelegenheden;2009 3e kwartaal;111.2;98.5;112.9;-2.4;2.5;-4.8;102.3;103.7;-1.5;-2.2
+348;561 Restaurants, andere eetgelegenheden;2009 4e kwartaal;100.2;98.8;101.4;-4.3;2.1;-6.3;100.7;101.7;-1.6;-2.0
+349;561 Restaurants, andere eetgelegenheden;2009;102.9;98.2;104.8;-2.8;2.6;-5.3;102.9;104.8;-2.8;-5.3
+350;561 Restaurants, andere eetgelegenheden;2010 1e kwartaal;84.9;99.4;85.4;-5.8;2.1;-7.7;98.7;99.4;-2.0;-2.3
+351;561 Restaurants, andere eetgelegenheden;2010 2e kwartaal;103.9;99.7;104.2;-5.6;1.8;-7.2;98.0;98.3;-0.7;-1.1
+352;561 Restaurants, andere eetgelegenheden;2010 3e kwartaal;109.5;100.2;109.3;-1.5;1.8;-3.2;100.4;100.1;2.4;1.8
+353;561 Restaurants, andere eetgelegenheden;2010 4e kwartaal;101.6;100.6;101.0;1.4;1.8;-0.4;102.9;102.1;2.4;2.1
+354;561 Restaurants, andere eetgelegenheden;2010;100.0;100.0;100.0;-2.8;1.9;-4.6;100.0;100.0;-2.8;-4.6
+355;561 Restaurants, andere eetgelegenheden;2011 1e kwartaal;90.4;101.8;88.8;6.4;2.3;4.0;104.4;102.6;1.5;0.5
+356;561 Restaurants, andere eetgelegenheden;2011 2e kwartaal;112.6;102.5;109.8;8.3;2.8;5.4;105.9;103.4;1.5;0.7
+357;561 Restaurants, andere eetgelegenheden;2011 3e kwartaal;114.4;103.0;111.1;4.4;2.7;1.7;106.7;103.5;0.7;0.1
+358;561 Restaurants, andere eetgelegenheden;2011 4e kwartaal;106.9;103.5;103.2;5.2;2.9;2.2;107.2;103.4;0.5;0.0
+359;561 Restaurants, andere eetgelegenheden;2011;106.1;102.7;103.2;6.1;2.7;3.3;106.1;103.2;6.1;3.3
+360;561 Restaurants, andere eetgelegenheden;2012 1e kwartaal;94.8;104.3;90.9;4.9;2.5;2.4;108.2;103.7;0.9;0.3
+361;561 Restaurants, andere eetgelegenheden;2012 2e kwartaal;114.4;104.6;109.4;1.6;2.0;-0.4;108.5;103.7;0.3;0.0
+362;561 Restaurants, andere eetgelegenheden;2012 3e kwartaal;117.4;104.8;112.0;2.6;1.8;0.8;108.7;103.7;0.2;0.0
+363;561 Restaurants, andere eetgelegenheden;2012 4e kwartaal;108.0;105.2;102.7;1.1;1.6;-0.5;109.3;103.9;0.5;0.1
+364;561 Restaurants, andere eetgelegenheden;2012;108.7;104.7;103.8;2.5;2.0;0.5;108.7;103.8;2.5;0.5
+365;561 Restaurants, andere eetgelegenheden;2013 1e kwartaal;93.9;105.8;88.7;-1.0;1.4;-2.4;109.5;103.6;0.2;-0.3
+366;561 Restaurants, andere eetgelegenheden;2013 2e kwartaal;117.2;106.1;110.5;2.5;1.5;1.0;110.5;104.1;0.9;0.5
+367;561 Restaurants, andere eetgelegenheden;2013 3e kwartaal;120.6;106.6;113.2;2.7;1.7;1.0;111.4;104.5;0.8;0.4
+368;561 Restaurants, andere eetgelegenheden;2013 4e kwartaal;112.5;106.8;105.3;4.2;1.6;2.6;112.9;105.6;1.3;1.0
+369;561 Restaurants, andere eetgelegenheden;2013;111.1;106.3;104.4;2.2;1.5;0.6;111.1;104.4;2.2;0.6
+370;561 Restaurants, andere eetgelegenheden;2014 1e kwartaal;101.4;107.3;94.6;8.1;1.4;6.6;115.3;107.6;2.2;1.9
+371;561 Restaurants, andere eetgelegenheden;2014 2e kwartaal;123.2;107.7;114.5;5.1;1.4;3.6;116.8;108.5;1.3;0.9
+372;561 Restaurants, andere eetgelegenheden;2014 3e kwartaal;126.9;107.8;117.7;5.2;1.2;4.0;118.6;110.0;1.6;1.4
+373;561 Restaurants, andere eetgelegenheden;2014 4e kwartaal;120.1;108.0;111.3;6.8;1.1;5.6;121.0;111.9;2.0;1.7
+374;561 Restaurants, andere eetgelegenheden;2014;117.9;107.7;109.5;6.2;1.3;4.8;117.9;109.5;6.2;4.9
+375;561 Restaurants, andere eetgelegenheden;2015 1e kwartaal;106.0;108.3;97.8;4.5;1.0;3.5;122.1;112.7;0.9;0.7
+376;561 Restaurants, andere eetgelegenheden;2015 2e kwartaal;132.9;108.8;122.1;7.8;1.1;6.7;126.4;116.3;3.5;3.2
+377;561 Restaurants, andere eetgelegenheden;2015 3e kwartaal;134.7;109.1;123.4;6.2;1.2;4.9;125.5;115.1;-0.7;-1.0
+378;561 Restaurants, andere eetgelegenheden;2015 4e kwartaal;129.6;109.5;118.4;7.9;1.4;6.4;129.2;118.0;2.9;2.5
+379;561 Restaurants, andere eetgelegenheden;2015;125.8;108.9;115.5;6.7;1.2;5.4;125.8;115.5;6.7;5.5
+380;561 Restaurants, andere eetgelegenheden;2016 1e kwartaal;114.0;110.0;103.7;7.5;1.5;6.0;130.3;118.6;0.9;0.5
+381;561 Restaurants, andere eetgelegenheden;2016 2e kwartaal;139.4;110.4;126.2;4.9;1.5;3.4;131.7;119.3;1.1;0.6
+382;561 Restaurants, andere eetgelegenheden;2016 3e kwartaal;148.8;111.1;133.9;10.4;1.8;8.5;136.8;123.3;3.9;3.3
+383;561 Restaurants, andere eetgelegenheden;2016 4e kwartaal;138.3;111.6;124.0;6.7;1.9;4.7;139.1;124.6;1.6;1.0
+384;561 Restaurants, andere eetgelegenheden;2016;135.1;110.8;122.0;7.4;1.7;5.6;134.5;121.4;6.9;5.1
+385;561 Restaurants, andere eetgelegenheden;2017 1e kwartaal;124.1;112.4;110.4;8.8;2.2;6.5;142.4;126.8;2.4;1.8
+386;561 Restaurants, andere eetgelegenheden;2017 2e kwartaal;153.7;113.1;136.0;10.3;2.4;7.7;145.5;128.8;2.2;1.5
+387;561 Restaurants, andere eetgelegenheden;2017 3e kwartaal;159.2;113.7;140.1;7.0;2.3;4.6;146.8;129.3;0.9;0.4
+388;561 Restaurants, andere eetgelegenheden;2017 4e kwartaal;147.6;114.0;129.5;6.7;2.2;4.4;146.1;128.0;-0.5;-1.0
+389;561 Restaurants, andere eetgelegenheden;2017;146.2;113.3;129.0;8.2;2.3;5.8;145.2;128.2;8.0;5.6
+390;56101 Restaurants;2005 1e kwartaal;83.9;87.0;96.4;;;;97.4;112.0;;
+391;56101 Restaurants;2005 2e kwartaal;102.1;87.3;116.9;;;;97.7;112.1;0.3;0.1
+392;56101 Restaurants;2005 3e kwartaal;107.8;87.4;123.4;;;;101.2;115.7;3.6;3.2
+393;56101 Restaurants;2005 4e kwartaal;105.9;87.7;120.7;;;;103.3;117.5;2.1;1.6
+394;56101 Restaurants;2005;99.9;87.4;114.4;;;;99.9;114.3;;
+395;56101 Restaurants;2006 1e kwartaal;87.7;88.4;99.2;4.6;1.6;2.9;103.5;117.1;0.2;-0.3
+396;56101 Restaurants;2006 2e kwartaal;108.8;88.9;122.4;6.6;1.8;4.6;104.4;117.5;0.9;0.3
+397;56101 Restaurants;2006 3e kwartaal;114.2;89.5;127.6;5.9;2.4;3.4;105.9;118.2;1.4;0.6
+398;56101 Restaurants;2006 4e kwartaal;111.2;90.2;123.3;5.0;2.8;2.2;108.1;119.6;2.1;1.2
+399;56101 Restaurants;2006;105.5;89.3;118.1;5.6;2.2;3.3;105.5;118.1;5.6;3.3
+400;56101 Restaurants;2007 1e kwartaal;95.7;90.9;105.2;9.1;2.8;6.1;110.7;121.8;2.4;1.8
+401;56101 Restaurants;2007 2e kwartaal;117.4;91.5;128.3;7.9;2.9;4.8;111.6;122.1;0.8;0.2
+402;56101 Restaurants;2007 3e kwartaal;119.3;91.8;129.9;4.4;2.5;1.8;111.4;121.2;-0.2;-0.7
+403;56101 Restaurants;2007 4e kwartaal;112.8;92.6;121.8;1.5;2.7;-1.2;111.4;120.1;0.0;-0.9
+404;56101 Restaurants;2007;111.3;91.7;121.3;5.5;2.7;2.7;111.3;121.3;5.5;2.7
+405;56101 Restaurants;2008 1e kwartaal;96.6;93.8;103.0;1.0;3.2;-2.1;110.3;117.6;-1.0;-2.1
+406;56101 Restaurants;2008 2e kwartaal;115.2;95.3;121.0;-1.8;4.1;-5.7;110.0;115.4;-0.3;-1.9
+407;56101 Restaurants;2008 3e kwartaal;117.2;96.1;122.0;-1.7;4.7;-6.1;110.1;114.2;0.1;-1.0
+408;56101 Restaurants;2008 4e kwartaal;109.8;96.9;113.3;-2.7;4.6;-7.0;108.6;112.1;-1.4;-1.8
+409;56101 Restaurants;2008;109.7;95.5;114.8;-1.4;4.1;-5.4;109.8;114.8;-1.4;-5.3
+410;56101 Restaurants;2009 1e kwartaal;91.9;97.5;94.2;-4.9;3.9;-8.5;106.7;109.6;-1.7;-2.2
+411;56101 Restaurants;2009 2e kwartaal;111.9;98.1;114.1;-2.9;3.0;-5.7;106.1;108.2;-0.6;-1.3
+412;56101 Restaurants;2009 3e kwartaal;111.6;98.6;113.2;-4.8;2.6;-7.2;104.2;105.4;-1.8;-2.6
+413;56101 Restaurants;2009 4e kwartaal;102.4;98.8;103.7;-6.7;2.0;-8.5;100.9;102.0;-3.2;-3.2
+414;56101 Restaurants;2009;104.5;98.3;106.3;-4.8;2.9;-7.4;104.5;106.3;-4.8;-7.4
+415;56101 Restaurants;2010 1e kwartaal;85.4;99.4;85.9;-7.0;2.0;-8.9;99.0;99.6;-1.9;-2.4
+416;56101 Restaurants;2010 2e kwartaal;103.1;99.7;103.3;-7.9;1.6;-9.4;97.9;98.1;-1.1;-1.5
+417;56101 Restaurants;2010 3e kwartaal;107.6;100.3;107.2;-3.7;1.7;-5.3;100.2;99.8;2.3;1.7
+418;56101 Restaurants;2010 4e kwartaal;104.0;100.6;103.4;1.5;1.8;-0.3;102.9;102.3;2.7;2.5
+419;56101 Restaurants;2010;100.0;100.0;100.0;-4.3;1.8;-5.9;100.0;100.0;-4.3;-6.0
+420;56101 Restaurants;2011 1e kwartaal;90.2;101.6;88.8;5.7;2.2;3.4;104.3;102.7;1.4;0.4
+421;56101 Restaurants;2011 2e kwartaal;110.7;102.3;108.2;7.4;2.6;4.7;104.8;102.5;0.5;-0.2
+422;56101 Restaurants;2011 3e kwartaal;111.4;102.7;108.4;3.5;2.4;1.1;105.2;102.3;0.4;-0.2
+423;56101 Restaurants;2011 4e kwartaal;108.3;103.4;104.8;4.1;2.8;1.3;106.2;102.7;1.0;0.4
+424;56101 Restaurants;2011;105.1;102.5;102.5;5.1;2.5;2.6;105.1;102.6;5.1;2.6
+425;56101 Restaurants;2012 1e kwartaal;94.3;104.0;90.7;4.5;2.3;2.1;107.5;103.3;1.2;0.6
+426;56101 Restaurants;2012 2e kwartaal;112.8;104.1;108.4;2.0;1.8;0.1;107.7;103.3;0.2;0.0
+427;56101 Restaurants;2012 3e kwartaal;115.1;104.3;110.3;3.3;1.6;1.7;108.1;103.7;0.4;0.4
+428;56101 Restaurants;2012 4e kwartaal;109.9;104.8;104.9;1.5;1.4;0.1;108.9;104.0;0.7;0.3
+429;56101 Restaurants;2012;108.0;104.3;103.6;2.8;1.8;1.0;108.0;103.6;2.8;1.0
+430;56101 Restaurants;2013 1e kwartaal;94.4;105.2;89.7;0.0;1.1;-1.1;109.2;103.8;0.3;-0.2
+431;56101 Restaurants;2013 2e kwartaal;116.5;105.6;110.3;3.2;1.4;1.8;110.9;104.9;1.6;1.1
+432;56101 Restaurants;2013 3e kwartaal;119.1;106.1;112.3;3.5;1.7;1.8;111.9;105.6;0.9;0.7
+433;56101 Restaurants;2013 4e kwartaal;115.5;106.3;108.7;5.0;1.4;3.6;113.4;106.8;1.3;1.1
+434;56101 Restaurants;2013;111.4;105.8;105.2;3.1;1.4;1.6;111.4;105.3;3.1;1.6
+435;56101 Restaurants;2014 1e kwartaal;101.4;106.4;95.3;7.5;1.2;6.2;115.8;108.7;2.1;1.8
+436;56101 Restaurants;2014 2e kwartaal;122.8;106.8;115.0;5.4;1.1;4.3;117.2;109.7;1.2;0.9
+437;56101 Restaurants;2014 3e kwartaal;126.1;106.9;117.9;5.8;0.8;5.0;119.4;111.7;1.9;1.8
+438;56101 Restaurants;2014 4e kwartaal;124.5;107.1;116.3;7.8;0.8;7.0;122.5;114.3;2.6;2.3
+439;56101 Restaurants;2014;118.7;106.8;111.1;6.6;1.0;5.6;118.7;111.1;6.6;5.5
+440;56101 Restaurants;2015 1e kwartaal;108.0;107.4;100.6;6.5;0.9;5.5;123.7;115.1;0.9;0.7
+441;56101 Restaurants;2015 2e kwartaal;133.9;107.8;124.1;9.1;1.0;8.0;129.0;119.7;4.3;4.1
+442;56101 Restaurants;2015 3e kwartaal;134.8;108.2;124.6;6.9;1.2;5.7;127.8;118.2;-0.9;-1.3
+443;56101 Restaurants;2015 4e kwartaal;133.9;108.5;123.4;7.5;1.4;6.1;130.2;119.8;1.9;1.4
+444;56101 Restaurants;2015;127.6;108.0;118.2;7.5;1.1;6.3;127.7;118.2;7.5;6.4
+445;56101 Restaurants;2016 1e kwartaal;115.6;109.1;106.0;7.0;1.5;5.4;131.5;120.7;1.0;0.7
+446;56101 Restaurants;2016 2e kwartaal;139.6;109.5;127.4;4.3;1.6;2.7;132.7;121.2;0.9;0.5
+447;56101 Restaurants;2016 3e kwartaal;147.3;109.8;134.2;9.3;1.5;7.7;137.7;125.4;3.7;3.4
+448;56101 Restaurants;2016 4e kwartaal;140.8;110.1;127.9;5.2;1.4;3.7;138.7;126.0;0.8;0.5
+449;56101 Restaurants;2016;135.8;109.6;123.9;6.4;1.5;4.8;135.2;123.3;5.9;4.3
+450;56101 Restaurants;2017 1e kwartaal;125.0;110.8;112.9;8.2;1.6;6.5;143.1;129.2;3.2;2.6
+451;56101 Restaurants;2017 2e kwartaal;152.9;111.5;137.1;9.5;1.8;7.6;146.1;131.1;2.0;1.4
+452;56101 Restaurants;2017 3e kwartaal;157.7;112.0;140.7;7.0;2.0;4.9;147.1;131.4;0.7;0.2
+453;56101 Restaurants;2017 4e kwartaal;149.9;112.4;133.4;6.5;2.1;4.3;145.3;129.1;-1.2;-1.7
+454;56101 Restaurants;2017;146.4;111.7;131.0;7.8;1.9;5.8;145.4;130.2;7.6;5.6
+455;56102 Fastfoodrestaurants, ijssalons etc;2005 1e kwartaal;73.2;87.0;84.1;;;;87.3;100.6;;
+456;56102 Fastfoodrestaurants, ijssalons etc;2005 2e kwartaal;97.0;87.5;110.9;;;;89.6;102.6;2.6;2.0
+457;56102 Fastfoodrestaurants, ijssalons etc;2005 3e kwartaal;103.6;87.8;118.0;;;;92.0;104.7;2.7;2.0
+458;56102 Fastfoodrestaurants, ijssalons etc;2005 4e kwartaal;84.5;87.9;96.0;;;;89.4;101.1;-2.8;-3.4
+459;56102 Fastfoodrestaurants, ijssalons etc;2005;89.6;87.6;102.2;;;;89.6;102.3;;
+460;56102 Fastfoodrestaurants, ijssalons etc;2006 1e kwartaal;75.0;88.5;84.7;2.4;1.7;0.7;90.0;102.0;0.7;0.9
+461;56102 Fastfoodrestaurants, ijssalons etc;2006 2e kwartaal;97.9;88.9;110.1;0.9;1.6;-0.7;92.3;104.0;2.6;2.0
+462;56102 Fastfoodrestaurants, ijssalons etc;2006 3e kwartaal;108.2;89.3;121.1;4.4;1.7;2.6;94.7;106.0;2.6;1.9
+463;56102 Fastfoodrestaurants, ijssalons etc;2006 4e kwartaal;90.5;89.7;100.9;7.2;2.0;5.0;94.4;104.7;-0.3;-1.2
+464;56102 Fastfoodrestaurants, ijssalons etc;2006;92.9;89.1;104.2;3.7;1.8;1.9;92.9;104.2;3.7;1.9
+465;56102 Fastfoodrestaurants, ijssalons etc;2007 1e kwartaal;83.7;91.8;91.2;11.7;3.7;7.7;95.4;104.3;1.1;-0.4
+466;56102 Fastfoodrestaurants, ijssalons etc;2007 2e kwartaal;107.7;92.5;116.4;10.0;4.0;5.8;100.0;108.3;4.8;3.8
+467;56102 Fastfoodrestaurants, ijssalons etc;2007 3e kwartaal;108.6;92.8;117.0;0.4;3.9;-3.3;98.3;105.8;-1.7;-2.3
+468;56102 Fastfoodrestaurants, ijssalons etc;2007 4e kwartaal;92.7;93.5;99.2;2.4;4.1;-1.6;98.9;105.4;0.6;-0.4
+469;56102 Fastfoodrestaurants, ijssalons etc;2007;98.2;92.6;106.0;5.7;3.9;1.7;98.2;106.0;5.7;1.7
+470;56102 Fastfoodrestaurants, ijssalons etc;2008 1e kwartaal;85.4;95.1;89.8;2.1;3.6;-1.5;98.7;104.0;-0.2;-1.3
+471;56102 Fastfoodrestaurants, ijssalons etc;2008 2e kwartaal;106.1;95.8;110.8;-1.5;3.6;-4.9;97.9;102.4;-0.8;-1.5
+472;56102 Fastfoodrestaurants, ijssalons etc;2008 3e kwartaal;107.7;96.0;112.2;-0.9;3.4;-4.2;97.1;101.0;-0.8;-1.4
+473;56102 Fastfoodrestaurants, ijssalons etc;2008 4e kwartaal;95.0;96.4;98.5;2.4;3.2;-0.7;100.6;103.8;3.6;2.8
+474;56102 Fastfoodrestaurants, ijssalons etc;2008;98.5;95.8;102.8;0.4;3.4;-3.0;98.6;102.8;0.4;-3.0
+475;56102 Fastfoodrestaurants, ijssalons etc;2009 1e kwartaal;86.8;97.2;89.3;1.6;2.2;-0.6;100.8;104.1;0.2;0.3
+476;56102 Fastfoodrestaurants, ijssalons etc;2009 2e kwartaal;106.6;97.8;109.0;0.5;2.1;-1.6;99.6;102.0;-1.2;-2.0
+477;56102 Fastfoodrestaurants, ijssalons etc;2009 3e kwartaal;110.3;98.2;112.3;2.4;2.3;0.1;98.8;100.5;-0.8;-1.5
+478;56102 Fastfoodrestaurants, ijssalons etc;2009 4e kwartaal;95.9;98.8;97.1;1.0;2.4;-1.5;100.3;101.1;1.5;0.6
+479;56102 Fastfoodrestaurants, ijssalons etc;2009;99.9;98.0;101.9;1.4;2.2;-0.9;99.9;101.9;1.3;-0.9
+480;56102 Fastfoodrestaurants, ijssalons etc;2010 1e kwartaal;84.0;99.5;84.5;-3.2;2.3;-5.4;98.1;98.9;-2.2;-2.2
+481;56102 Fastfoodrestaurants, ijssalons etc;2010 2e kwartaal;105.7;99.8;105.9;-0.9;2.1;-2.9;98.3;98.7;0.2;-0.2
+482;56102 Fastfoodrestaurants, ijssalons etc;2010 3e kwartaal;113.3;100.1;113.3;2.8;1.9;0.8;100.8;100.6;2.5;1.9
+483;56102 Fastfoodrestaurants, ijssalons etc;2010 4e kwartaal;97.0;100.7;96.3;1.2;2.0;-0.7;102.8;101.8;2.0;1.2
+484;56102 Fastfoodrestaurants, ijssalons etc;2010;100.0;100.0;100.0;0.1;2.1;-1.9;100.0;100.0;0.1;-1.9
+485;56102 Fastfoodrestaurants, ijssalons etc;2011 1e kwartaal;90.6;102.1;88.8;7.9;2.6;5.1;104.5;102.5;1.7;0.7
+486;56102 Fastfoodrestaurants, ijssalons etc;2011 2e kwartaal;116.3;103.0;112.9;10.1;3.2;6.6;108.1;105.1;3.4;2.5
+487;56102 Fastfoodrestaurants, ijssalons etc;2011 3e kwartaal;120.2;103.4;116.3;6.1;3.4;2.7;109.5;105.8;1.3;0.7
+488;56102 Fastfoodrestaurants, ijssalons etc;2011 4e kwartaal;104.1;103.9;100.2;7.3;3.2;4.1;109.2;104.9;-0.3;-0.9
+489;56102 Fastfoodrestaurants, ijssalons etc;2011;107.8;103.1;104.6;7.8;3.1;4.6;107.8;104.6;7.8;4.6
+490;56102 Fastfoodrestaurants, ijssalons etc;2012 1e kwartaal;95.8;104.9;91.3;5.7;2.7;2.9;109.4;104.6;0.2;-0.3
+491;56102 Fastfoodrestaurants, ijssalons etc;2012 2e kwartaal;117.4;105.5;111.3;0.9;2.4;-1.4;110.0;104.5;0.5;-0.1
+492;56102 Fastfoodrestaurants, ijssalons etc;2012 3e kwartaal;121.9;105.8;115.3;1.4;2.3;-0.8;109.9;103.8;-0.1;-0.7
+493;56102 Fastfoodrestaurants, ijssalons etc;2012 4e kwartaal;104.3;106.0;98.5;0.2;2.0;-1.8;110.0;103.6;0.1;-0.2
+494;56102 Fastfoodrestaurants, ijssalons etc;2012;109.9;105.5;104.1;1.9;2.3;-0.4;109.8;104.1;1.9;-0.4
+495;56102 Fastfoodrestaurants, ijssalons etc;2013 1e kwartaal;92.9;106.9;86.9;-3.0;1.9;-4.8;110.1;103.2;0.1;-0.4
+496;56102 Fastfoodrestaurants, ijssalons etc;2013 2e kwartaal;118.7;107.2;110.8;1.1;1.6;-0.5;109.7;102.6;-0.4;-0.6
+497;56102 Fastfoodrestaurants, ijssalons etc;2013 3e kwartaal;123.5;107.5;114.8;1.3;1.7;-0.4;110.4;102.5;0.6;-0.1
+498;56102 Fastfoodrestaurants, ijssalons etc;2013 4e kwartaal;106.9;107.9;99.1;2.5;1.8;0.7;111.9;103.3;1.4;0.8
+499;56102 Fastfoodrestaurants, ijssalons etc;2013;110.5;107.4;102.9;0.6;1.8;-1.1;110.5;102.9;0.6;-1.2
+500;56102 Fastfoodrestaurants, ijssalons etc;2014 1e kwartaal;101.5;108.9;93.2;9.2;1.9;7.2;114.4;105.4;2.2;2.0
+501;56102 Fastfoodrestaurants, ijssalons etc;2014 2e kwartaal;124.1;109.4;113.5;4.6;2.1;2.4;116.1;106.2;1.5;0.8
+502;56102 Fastfoodrestaurants, ijssalons etc;2014 3e kwartaal;128.5;109.6;117.2;4.1;1.9;2.1;117.2;106.8;0.9;0.6
+503;56102 Fastfoodrestaurants, ijssalons etc;2014 4e kwartaal;111.7;109.7;101.8;4.5;1.7;2.8;118.1;107.4;0.8;0.6
+504;56102 Fastfoodrestaurants, ijssalons etc;2014;116.5;109.4;106.4;5.4;1.9;3.4;116.5;106.5;5.4;3.4
+505;56102 Fastfoodrestaurants, ijssalons etc;2015 1e kwartaal;102.1;110.1;92.7;0.7;1.1;-0.5;119.2;108.2;0.9;0.8
+506;56102 Fastfoodrestaurants, ijssalons etc;2015 2e kwartaal;131.0;110.6;118.4;5.5;1.1;4.4;121.5;109.7;1.9;1.4
+507;56102 Fastfoodrestaurants, ijssalons etc;2015 3e kwartaal;134.6;110.9;121.3;4.7;1.2;3.5;121.2;109.3;-0.2;-0.4
+508;56102 Fastfoodrestaurants, ijssalons etc;2015 4e kwartaal;121.4;111.2;109.1;8.6;1.4;7.2;127.2;114.5;5.0;4.8
+509;56102 Fastfoodrestaurants, ijssalons etc;2015;122.3;110.7;110.4;5.0;1.2;3.7;122.3;110.4;5.0;3.7
+510;56102 Fastfoodrestaurants, ijssalons etc;2016 1e kwartaal;110.9;111.7;99.3;8.6;1.4;7.0;127.9;114.6;0.5;0.1
+511;56102 Fastfoodrestaurants, ijssalons etc;2016 2e kwartaal;139.0;112.1;124.0;6.1;1.3;4.7;129.8;115.8;1.5;1.0
+512;56102 Fastfoodrestaurants, ijssalons etc;2016 3e kwartaal;151.5;113.5;133.5;12.6;2.3;10.0;135.2;119.2;4.2;3.0
+513;56102 Fastfoodrestaurants, ijssalons etc;2016 4e kwartaal;133.6;114.4;116.8;10.1;2.9;7.0;139.7;121.9;3.3;2.2
+514;56102 Fastfoodrestaurants, ijssalons etc;2016;133.7;112.9;118.4;9.4;2.0;7.2;133.2;117.9;8.9;6.8
+515;56102 Fastfoodrestaurants, ijssalons etc;2017 1e kwartaal;122.2;115.5;105.8;10.2;3.4;6.6;140.9;122.3;0.9;0.3
+516;56102 Fastfoodrestaurants, ijssalons etc;2017 2e kwartaal;155.3;116.0;133.8;11.7;3.5;7.9;144.3;124.4;2.4;1.7
+517;56102 Fastfoodrestaurants, ijssalons etc;2017 3e kwartaal;162.2;116.9;138.8;7.1;3.0;4.0;146.2;125.2;1.3;0.7
+518;56102 Fastfoodrestaurants, ijssalons etc;2017 4e kwartaal;143.1;117.4;121.9;7.1;2.6;4.4;147.8;125.8;1.1;0.5
+519;56102 Fastfoodrestaurants, ijssalons etc;2017;145.7;116.5;125.1;8.9;3.2;5.7;144.8;124.4;8.7;5.5
+520;562 Kantines en catering;2005 1e kwartaal;85.4;;;;;;90.6;;;
+521;562 Kantines en catering;2005 2e kwartaal;90.1;;;;;;90.0;;-0.7;
+522;562 Kantines en catering;2005 3e kwartaal;90.6;;;;;;91.8;;2.0;
+523;562 Kantines en catering;2005 4e kwartaal;98.4;;;;;;92.2;;0.4;
+524;562 Kantines en catering;2005;91.1;;;;;;91.1;;;
+525;562 Kantines en catering;2006 1e kwartaal;88.3;;;3.5;;;93.9;;1.8;
+526;562 Kantines en catering;2006 2e kwartaal;93.3;;;3.6;;;92.9;;-1.1;
+527;562 Kantines en catering;2006 3e kwartaal;95.4;;;5.3;;;97.0;;4.4;
+528;562 Kantines en catering;2006 4e kwartaal;105.0;;;6.7;;;98.1;;1.1;
+529;562 Kantines en catering;2006;95.5;;;4.8;;;95.5;;4.7;
+530;562 Kantines en catering;2007 1e kwartaal;93.4;;;5.7;;;99.4;;1.3;
+531;562 Kantines en catering;2007 2e kwartaal;105.2;;;12.7;;;104.1;;4.7;
+532;562 Kantines en catering;2007 3e kwartaal;103.6;;;8.7;;;106.2;;2.0;
+533;562 Kantines en catering;2007 4e kwartaal;116.5;;;11.0;;;108.9;;2.5;
+534;562 Kantines en catering;2007;104.7;;;9.6;;;104.7;;9.6;
+535;562 Kantines en catering;2008 1e kwartaal;101.5;;;8.7;;;107.6;;-1.2;
+536;562 Kantines en catering;2008 2e kwartaal;107.3;;;2.1;;;105.5;;-2.0;
+537;562 Kantines en catering;2008 3e kwartaal;101.4;;;-2.2;;;104.3;;-1.1;
+538;562 Kantines en catering;2008 4e kwartaal;110.9;;;-4.8;;;103.8;;-0.5;
+539;562 Kantines en catering;2008;105.3;;;0.6;;;105.3;;0.6;
+540;562 Kantines en catering;2009 1e kwartaal;96.0;;;-5.4;;;101.5;;-2.2;
+541;562 Kantines en catering;2009 2e kwartaal;100.4;;;-6.4;;;98.3;;-3.2;
+542;562 Kantines en catering;2009 3e kwartaal;90.6;;;-10.6;;;93.4;;-5.0;
+543;562 Kantines en catering;2009 4e kwartaal;104.0;;;-6.3;;;97.7;;4.6;
+544;562 Kantines en catering;2009;97.7;;;-7.2;;;97.7;;-7.2;
+545;562 Kantines en catering;2010 1e kwartaal;96.0;;;0.0;;;101.4;;3.8;
+546;562 Kantines en catering;2010 2e kwartaal;99.1;;;-1.3;;;96.5;;-4.8;
+547;562 Kantines en catering;2010 3e kwartaal;98.5;;;8.8;;;101.6;;5.3;
+548;562 Kantines en catering;2010 4e kwartaal;106.4;;;2.3;;;100.4;;-1.2;
+549;562 Kantines en catering;2010;100.0;;;2.3;;;100.0;;2.3;
+550;562 Kantines en catering;2011 1e kwartaal;96.2;;;0.2;;;102.2;;1.8;
+551;562 Kantines en catering;2011 2e kwartaal;104.6;;;5.6;;;101.3;;-0.9;
+552;562 Kantines en catering;2011 3e kwartaal;99.0;;;0.5;;;102.1;;0.8;
+553;562 Kantines en catering;2011 4e kwartaal;108.9;;;2.3;;;103.0;;0.9;
+554;562 Kantines en catering;2011;102.2;;;2.2;;;102.2;;2.2;
+555;562 Kantines en catering;2012 1e kwartaal;95.7;;;-0.6;;;102.3;;-0.7;
+556;562 Kantines en catering;2012 2e kwartaal;107.8;;;3.1;;;103.7;;1.4;
+557;562 Kantines en catering;2012 3e kwartaal;99.5;;;0.5;;;102.6;;-1.1;
+558;562 Kantines en catering;2012 4e kwartaal;108.0;;;-0.8;;;102.5;;-0.1;
+559;562 Kantines en catering;2012;102.8;;;0.6;;;102.8;;0.6;
+560;562 Kantines en catering;2013 1e kwartaal;92.4;;;-3.4;;;99.1;;-3.3;
+561;562 Kantines en catering;2013 2e kwartaal;106.4;;;-1.3;;;101.9;;2.8;
+562;562 Kantines en catering;2013 3e kwartaal;100.1;;;0.6;;;103.1;;1.2;
+563;562 Kantines en catering;2013 4e kwartaal;109.0;;;1.0;;;103.9;;0.8;
+564;562 Kantines en catering;2013;102.0;;;-0.8;;;102.0;;-0.8;
+565;562 Kantines en catering;2014 1e kwartaal;99.2;;;7.3;;;106.4;;2.4;
+566;562 Kantines en catering;2014 2e kwartaal;112.4;;;5.6;;;107.8;;1.3;
+567;562 Kantines en catering;2014 3e kwartaal;105.6;;;5.5;;;108.8;;0.9;
+568;562 Kantines en catering;2014 4e kwartaal;115.7;;;6.1;;;109.8;;0.9;
+569;562 Kantines en catering;2014;108.2;;;6.1;;;108.2;;6.1;
+570;562 Kantines en catering;2015 1e kwartaal;101.9;;;2.8;;;110.0;;0.2;
+571;562 Kantines en catering;2015 2e kwartaal;116.1;;;3.4;;;112.1;;1.9;
+572;562 Kantines en catering;2015 3e kwartaal;113.0;;;7.0;;;115.5;;3.0;
+573;562 Kantines en catering;2015 4e kwartaal;123.3;;;6.5;;;116.7;;1.1;
+574;562 Kantines en catering;2015;113.6;;;5.0;;;113.6;;5.0;
+575;562 Kantines en catering;2016 1e kwartaal;109.6;;;7.6;;;118.6;;1.6;
+576;562 Kantines en catering;2016 2e kwartaal;123.5;;;6.3;;;119.3;;0.6;
+577;562 Kantines en catering;2016 3e kwartaal;118.7;;;5.1;;;120.3;;0.9;
+578;562 Kantines en catering;2016 4e kwartaal;125.1;;;1.5;;;118.6;;-1.5;
+579;562 Kantines en catering;2016;119.2;;;5.0;;;119.2;;4.9;
+580;562 Kantines en catering;2017 1e kwartaal;108.7;;;-0.8;;;117.7;;-0.7;
+581;562 Kantines en catering;2017 2e kwartaal;121.8;;;-1.4;;;118.4;;0.6;
+582;562 Kantines en catering;2017 3e kwartaal;121.1;;;2.0;;;121.7;;2.8;
+583;562 Kantines en catering;2017 4e kwartaal;127.1;;;1.6;;;120.5;;-1.0;
+584;562 Kantines en catering;2017;119.7;;;0.4;;;119.6;;0.3;
+585;563 Cafés;2005 1e kwartaal;91.7;83.7;109.6;;;;102.2;122.4;;
+586;563 Cafés;2005 2e kwartaal;106.4;84.2;126.4;;;;102.9;122.5;0.7;0.1
+587;563 Cafés;2005 3e kwartaal;112.8;84.7;133.2;;;;105.3;124.0;2.3;1.2
+588;563 Cafés;2005 4e kwartaal;105.0;85.0;123.6;;;;105.5;123.9;0.2;-0.1
+589;563 Cafés;2005;104.0;84.4;123.2;;;;104.0;123.2;;
+590;563 Cafés;2006 1e kwartaal;95.7;85.6;111.7;4.4;2.4;1.9;106.7;124.9;1.1;0.8
+591;563 Cafés;2006 2e kwartaal;110.0;86.3;127.4;3.4;2.6;0.8;108.1;125.4;1.3;0.4
+592;563 Cafés;2006 3e kwartaal;117.0;86.6;135.1;3.7;2.2;1.5;108.2;124.6;0.1;-0.6
+593;563 Cafés;2006 4e kwartaal;109.0;87.6;124.4;3.8;3.1;0.7;108.6;123.8;0.4;-0.6
+594;563 Cafés;2006;107.9;86.5;124.7;3.8;2.6;1.2;107.9;124.7;3.8;1.2
+595;563 Cafés;2007 1e kwartaal;99.0;88.7;111.6;3.5;3.6;-0.1;108.4;122.4;-0.2;-1.1
+596;563 Cafés;2007 2e kwartaal;114.6;89.4;128.3;4.2;3.5;0.7;111.1;124.3;2.5;1.6
+597;563 Cafés;2007 3e kwartaal;115.7;89.9;128.7;-1.2;3.8;-4.8;108.4;120.4;-2.4;-3.1
+598;563 Cafés;2007 4e kwartaal;110.6;90.4;122.4;1.5;3.2;-1.7;112.0;123.7;3.3;2.7
+599;563 Cafés;2007;110.0;89.6;122.7;1.9;3.5;-1.6;110.0;122.7;1.9;-1.6
+600;563 Cafés;2008 1e kwartaal;101.3;91.6;110.6;2.3;3.2;-0.9;112.6;123.1;0.5;-0.5
+601;563 Cafés;2008 2e kwartaal;115.2;92.5;124.6;0.5;3.5;-2.8;110.6;119.6;-1.8;-2.8
+602;563 Cafés;2008 3e kwartaal;113.8;93.3;122.0;-1.6;3.8;-5.2;105.8;113.3;-4.3;-5.3
+603;563 Cafés;2008 4e kwartaal;103.7;94.3;110.0;-6.2;4.3;-10.1;105.0;111.3;-0.8;-1.8
+604;563 Cafés;2008;108.5;92.9;116.8;-1.3;3.7;-4.8;108.5;116.8;-1.3;-4.8
+605;563 Cafés;2009 1e kwartaal;92.0;95.8;96.1;-9.1;4.6;-13.1;102.7;107.4;-2.2;-3.5
+606;563 Cafés;2009 2e kwartaal;104.4;96.8;107.8;-9.4;4.7;-13.5;101.0;104.4;-1.7;-2.8
+607;563 Cafés;2009 3e kwartaal;108.2;97.5;110.9;-4.9;4.6;-9.1;99.8;102.2;-1.2;-2.1
+608;563 Cafés;2009 4e kwartaal;97.3;98.5;98.8;-6.2;4.5;-10.2;98.3;99.7;-1.5;-2.4
+609;563 Cafés;2009;100.5;97.2;103.4;-7.4;4.6;-11.5;100.5;103.4;-7.4;-11.5
+610;563 Cafés;2010 1e kwartaal;86.4;99.1;87.2;-6.1;3.4;-9.2;97.7;98.8;-0.6;-0.9
+611;563 Cafés;2010 2e kwartaal;103.6;99.6;104.0;-0.7;2.9;-3.6;99.3;99.7;1.6;0.9
+612;563 Cafés;2010 3e kwartaal;110.5;100.0;110.5;2.2;2.6;-0.4;101.6;101.4;2.3;1.7
+613;563 Cafés;2010 4e kwartaal;99.4;101.3;98.2;2.1;2.8;-0.6;101.4;100.0;-0.2;-1.4
+614;563 Cafés;2010;100.0;100.0;100.0;-0.5;2.9;-3.3;100.0;100.0;-0.4;-3.3
+615;563 Cafés;2011 1e kwartaal;90.8;102.1;88.9;5.0;3.1;1.9;101.5;99.5;0.1;-0.5
+616;563 Cafés;2011 2e kwartaal;106.3;102.8;103.5;2.6;3.1;-0.5;102.1;99.3;0.6;-0.2
+617;563 Cafés;2011 3e kwartaal;109.6;103.3;106.1;-0.8;3.3;-4.0;102.0;98.6;-0.1;-0.7
+618;563 Cafés;2011 4e kwartaal;100.7;103.7;97.0;1.2;2.4;-1.2;101.9;98.0;-0.1;-0.6
+619;563 Cafés;2011;101.9;103.0;98.9;1.9;3.0;-1.1;101.9;98.9;1.9;-1.1
+620;563 Cafés;2012 1e kwartaal;91.0;104.4;87.1;0.2;2.2;-1.9;101.9;97.7;0.0;-0.3
+621;563 Cafés;2012 2e kwartaal;104.4;105.1;99.4;-1.8;2.3;-4.0;100.3;95.4;-1.6;-2.4
+622;563 Cafés;2012 3e kwartaal;105.7;105.5;100.2;-3.6;2.2;-5.6;97.9;92.6;-2.4;-2.9
+623;563 Cafés;2012 4e kwartaal;95.9;106.1;90.4;-4.7;2.3;-6.8;97.1;91.3;-0.8;-1.4
+624;563 Cafés;2012;99.3;105.3;94.3;-2.5;2.2;-4.7;99.3;94.3;-2.5;-4.7
+625;563 Cafés;2013 1e kwartaal;84.4;107.6;78.5;-7.2;3.0;-10.0;96.9;90.2;-0.2;-1.2
+626;563 Cafés;2013 2e kwartaal;101.7;108.2;94.0;-2.6;3.0;-5.4;96.9;89.5;0.0;-0.8
+627;563 Cafés;2013 3e kwartaal;105.7;108.7;97.2;0.0;3.0;-3.0;97.3;89.3;0.4;-0.2
+628;563 Cafés;2013 4e kwartaal;97.1;109.5;88.7;1.2;3.2;-1.9;97.9;89.2;0.6;-0.1
+629;563 Cafés;2013;97.2;108.5;89.6;-2.1;3.1;-5.0;97.3;89.6;-2.1;-5.0
+630;563 Cafés;2014 1e kwartaal;87.5;110.5;79.2;3.7;2.8;0.9;98.2;89.0;0.3;-0.2
+631;563 Cafés;2014 2e kwartaal;104.5;111.4;93.8;2.8;2.9;-0.2;100.0;89.8;1.8;0.9
+632;563 Cafés;2014 3e kwartaal;106.7;112.0;95.3;1.0;3.0;-2.0;99.2;88.5;-0.8;-1.4
+633;563 Cafés;2014 4e kwartaal;98.2;112.4;87.4;1.2;2.7;-1.5;99.5;88.4;0.3;-0.1
+634;563 Cafés;2014;99.2;111.6;88.9;2.1;2.9;-0.7;99.2;88.9;2.0;-0.7
+635;563 Cafés;2015 1e kwartaal;87.3;113.1;77.2;-0.2;2.3;-2.5;99.7;88.2;0.2;-0.2
+636;563 Cafés;2015 2e kwartaal;107.4;113.8;94.4;2.8;2.2;0.6;101.8;89.6;2.1;1.6
+637;563 Cafés;2015 3e kwartaal;110.0;114.4;96.2;3.1;2.1;0.9;102.4;89.4;0.6;-0.2
+638;563 Cafés;2015 4e kwartaal;103.2;115.0;89.7;5.0;2.3;2.7;103.9;90.2;1.5;0.9
+639;563 Cafés;2015;102.0;114.1;89.4;2.8;2.2;0.5;102.0;89.4;2.8;0.5
+640;563 Cafés;2016 1e kwartaal;92.1;115.6;79.7;5.5;2.2;3.3;104.9;90.9;0.9;0.7
+641;563 Cafés;2016 2e kwartaal;112.1;116.1;96.5;4.4;2.0;2.3;106.6;91.9;1.6;1.1
+642;563 Cafés;2016 3e kwartaal;120.6;116.4;103.6;9.6;1.7;7.7;109.5;93.7;2.7;2.0
+643;563 Cafés;2016 4e kwartaal;107.0;117.0;91.5;3.7;1.7;1.9;108.9;93.0;-0.6;-0.8
+644;563 Cafés;2016;107.9;116.3;92.8;5.8;1.9;3.9;107.5;92.4;5.4;3.4
+645;563 Cafés;2017 1e kwartaal;96.1;117.8;81.5;4.3;2.0;2.3;109.8;93.2;0.9;0.2
+646;563 Cafés;2017 2e kwartaal;118.3;118.5;99.9;5.6;2.0;3.5;112.2;94.8;2.2;1.7
+647;563 Cafés;2017 3e kwartaal;122.7;118.6;103.4;1.7;1.9;-0.1;112.4;94.9;0.2;0.1
+648;563 Cafés;2017 4e kwartaal;110.3;118.7;93.0;3.1;1.4;1.7;112.1;94.3;-0.3;-0.6
+649;563 Cafés;2017;111.8;118.4;94.5;3.6;1.8;1.8;111.6;94.3;3.9;2.1

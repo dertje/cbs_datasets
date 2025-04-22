@@ -1,0 +1,491 @@
+﻿ID;Eigendom;RegioS;Perioden;GemiddeldeBouwkostenPerWoning_1;GemiddeldeBouwkostenPerM_2;GemiddeldeBouwkostenPerM_3;GemiddeldeInhoudWoningen_4;GemiddeldeOppervlakteVanWoningen_5
+0;Huurwoningen;Nederland;2012 januari - 2012 december;95;258;748;370;127
+1;Huurwoningen;Nederland;2012 april - 2013 maart;94;259;755;365;125
+2;Huurwoningen;Nederland;2012 juli - 2013 juni;92;266;777;346;118
+3;Huurwoningen;Nederland;2012 oktober - 2013 september;92;265;777;346;118
+4;Huurwoningen;Nederland;2013 januari - 2013 december;92;265;781;347;118
+5;Huurwoningen;Nederland;2013 april - 2014 maart;91;251;733;362;124
+6;Huurwoningen;Nederland;2013 juli - 2014 juni;89;234;681;383;131
+7;Huurwoningen;Nederland;2013 oktober- 2014 september;85;236;688;361;124
+8;Huurwoningen;Nederland;2014 januari - 2014 december;86;236;685;364;126
+9;Huurwoningen;Nederland;2014 april - 2015 maart;87;242;703;358;123
+10;Huurwoningen;Nederland;2014 juli - 2015 juni;84;249;725;336;115
+11;Huurwoningen;Nederland;2014 oktober - 2015 september;86;248;721;348;120
+12;Huurwoningen;Nederland;2015 januari - 2015 december;84;249;727;338;116
+13;Huurwoningen;Nederland;2015 april - 2016 maart;82;252;738;327;112
+14;Huurwoningen;Nederland;2015 juli - 2016 juni;85;251;732;340;117
+15;Huurwoningen;Nederland;2015 oktober - 2016 september;82;255;745;322;110
+16;Huurwoningen;Nederland;2016 januari - 2016 december;85;255;739;332;114
+17;Huurwoningen;Nederland;2016 april - 2017 maart;85;260;752;325;112
+18;Huurwoningen;Nederland;2016 juli - 2017 juni;88;264;765;335;116
+19;Huurwoningen;Nederland;2016 oktober - 2017 september;86;267;774;323;111
+20;Huurwoningen;Nederland;2017 januari - 2017 december;86;269;781;321;111
+21;Huurwoningen;Nederland;2017 april - 2018 maart;89;274;796;324;111
+22;Huurwoningen;Nederland;2017 juli - 2018 juni;87;274;790;319;111
+23;Huurwoningen;Nederland;2017 oktober - 2018 september;96;280;804;342;119
+24;Huurwoningen;Nederland;2018 januari - 2018 december;99;293;843;338;117
+25;Huurwoningen;Nederland;2018 april - 2019 maart;103;300;869;345;119
+26;Huurwoningen;Nederland;2018 juli - 2019 juni;105;304;884;344;119
+27;Huurwoningen;Nederland;2018 oktober - 2019 september;105;306;888;344;119
+28;Huurwoningen;Nederland;2019 januari - 2019 december;106;310;904;341;117
+29;Huurwoningen;Nederland;2019 april - 2020 maart;106;311;901;341;118
+30;Huurwoningen;Nederland;2019 juli - 2020 juni;110;318;926;347;119
+31;Huurwoningen;Nederland;2019 oktober - 2020 september;112;324;940;345;119
+32;Huurwoningen;Nederland;2020 januari - 2020 december;117;328;952;355;123
+33;Huurwoningen;Nederland;2020 april - 2021 maart;118;328;944;361;125
+34;Huurwoningen;Nederland;2020 juli - 2021 juni;115;326;933;352;123
+35;Huurwoningen;Nederland;2020 oktober - 2021 september;118;325;929;365;128
+36;Huurwoningen;Nederland;2021 januari - 2021 december;118;323;925;365;127
+37;Huurwoningen;Nederland;2021 april - 2022 maart;114;326;935;351;122
+38;Huurwoningen;Nederland;2021 juli - 2022 juni;117;336;969;347;121
+39;Huurwoningen;Nederland;2021 oktober - 2022 september;119;344;1000;345;119
+40;Huurwoningen;Nederland;2022 januari - 2022 december;126;361;1056;350;120
+41;Huurwoningen;Nederland;2022 april - 2023 maart;130;378;1117;346;117
+42;Huurwoningen;Nederland;2022 juli - 2023 juni;137;397;1177;345;116
+43;Huurwoningen;Nederland;2022 oktober - 2023 september;137;407;1205;335;113
+44;Huurwoningen;Nederland;2023 januari - 2023 december;133;428;1270;312;105
+45;Huurwoningen;Nederland;2023 april - 2024 maart;136;436;1302;312;104
+46;Huurwoningen;Nederland;2023 juli - 2024 juni;135;435;1307;309;103
+47;Huurwoningen;Nederland;2023 oktober - 2024 september;133;437;1319;305;101
+48;Huurwoningen;Nederland;2024 januari - 2024 december;139;452;1363;307;102
+49;Huurwoningen;Noord-Nederland (LD);2012 januari - 2012 december;80;243;718;330;112
+50;Huurwoningen;Noord-Nederland (LD);2012 april - 2013 maart;81;251;745;321;108
+51;Huurwoningen;Noord-Nederland (LD);2012 juli - 2013 juni;80;253;744;317;108
+52;Huurwoningen;Noord-Nederland (LD);2012 oktober - 2013 september;91;272;795;333;114
+53;Huurwoningen;Noord-Nederland (LD);2013 januari - 2013 december;95;271;801;351;119
+54;Huurwoningen;Noord-Nederland (LD);2013 april - 2014 maart;95;255;741;371;128
+55;Huurwoningen;Noord-Nederland (LD);2013 juli - 2014 juni;92;255;752;362;123
+56;Huurwoningen;Noord-Nederland (LD);2013 oktober- 2014 september;94;239;699;392;134
+57;Huurwoningen;Noord-Nederland (LD);2014 januari - 2014 december;93;245;711;380;131
+58;Huurwoningen;Noord-Nederland (LD);2014 april - 2015 maart;89;240;698;372;128
+59;Huurwoningen;Noord-Nederland (LD);2014 juli - 2015 juni;95;252;725;378;131
+60;Huurwoningen;Noord-Nederland (LD);2014 oktober - 2015 september;91;250;723;365;126
+61;Huurwoningen;Noord-Nederland (LD);2015 januari - 2015 december;90;246;711;365;126
+62;Huurwoningen;Noord-Nederland (LD);2015 april - 2016 maart;87;255;739;341;118
+63;Huurwoningen;Noord-Nederland (LD);2015 juli - 2016 juni;76;250;726;306;105
+64;Huurwoningen;Noord-Nederland (LD);2015 oktober - 2016 september;62;260;760;240;82
+65;Huurwoningen;Noord-Nederland (LD);2016 januari - 2016 december;63;253;731;250;86
+66;Huurwoningen;Noord-Nederland (LD);2016 april - 2017 maart;66;257;739;258;90
+67;Huurwoningen;Noord-Nederland (LD);2016 juli - 2017 juni;69;253;727;272;95
+68;Huurwoningen;Noord-Nederland (LD);2016 oktober - 2017 september;83;257;741;323;112
+69;Huurwoningen;Noord-Nederland (LD);2017 januari - 2017 december;85;256;738;331;115
+70;Huurwoningen;Noord-Nederland (LD);2017 april - 2018 maart;80;263;759;304;105
+71;Huurwoningen;Noord-Nederland (LD);2017 juli - 2018 juni;81;269;780;303;104
+72;Huurwoningen;Noord-Nederland (LD);2017 oktober - 2018 september;83;271;777;307;107
+73;Huurwoningen;Noord-Nederland (LD);2018 januari - 2018 december;86;278;795;310;108
+74;Huurwoningen;Noord-Nederland (LD);2018 april - 2019 maart;94;282;810;332;116
+75;Huurwoningen;Noord-Nederland (LD);2018 juli - 2019 juni;96;289;831;332;115
+76;Huurwoningen;Noord-Nederland (LD);2018 oktober - 2019 september;100;294;852;339;117
+77;Huurwoningen;Noord-Nederland (LD);2019 januari - 2019 december;106;305;885;346;119
+78;Huurwoningen;Noord-Nederland (LD);2019 april - 2020 maart;111;307;884;361;125
+79;Huurwoningen;Noord-Nederland (LD);2019 juli - 2020 juni;110;307;891;358;124
+80;Huurwoningen;Noord-Nederland (LD);2019 oktober - 2020 september;112;307;893;363;125
+81;Huurwoningen;Noord-Nederland (LD);2020 januari - 2020 december;111;310;905;356;122
+82;Huurwoningen;Noord-Nederland (LD);2020 april - 2021 maart;112;308;901;364;124
+83;Huurwoningen;Noord-Nederland (LD);2020 juli - 2021 juni;104;296;837;351;124
+84;Huurwoningen;Noord-Nederland (LD);2020 oktober - 2021 september;101;283;796;358;127
+85;Huurwoningen;Noord-Nederland (LD);2021 januari - 2021 december;106;283;797;375;133
+86;Huurwoningen;Noord-Nederland (LD);2021 april - 2022 maart;97;294;824;330;118
+87;Huurwoningen;Noord-Nederland (LD);2021 juli - 2022 juni;105;307;873;342;120
+88;Huurwoningen;Noord-Nederland (LD);2021 oktober - 2022 september;105;315;908;332;115
+89;Huurwoningen;Noord-Nederland (LD);2022 januari - 2022 december;107;325;945;329;113
+90;Huurwoningen;Noord-Nederland (LD);2022 april - 2023 maart;122;341;1017;357;119
+91;Huurwoningen;Noord-Nederland (LD);2022 juli - 2023 juni;129;361;1080;358;120
+92;Huurwoningen;Noord-Nederland (LD);2022 oktober - 2023 september;141;387;1164;364;121
+93;Huurwoningen;Noord-Nederland (LD);2023 januari - 2023 december;140;409;1220;343;115
+94;Huurwoningen;Noord-Nederland (LD);2023 april - 2024 maart;149;423;1248;351;119
+95;Huurwoningen;Noord-Nederland (LD);2023 juli - 2024 juni;140;415;1213;336;115
+96;Huurwoningen;Noord-Nederland (LD);2023 oktober - 2024 september;143;435;1283;329;111
+97;Huurwoningen;Noord-Nederland (LD);2024 januari - 2024 december;144;428;1273;337;113
+98;Huurwoningen;Oost-Nederland (LD);2012 januari - 2012 december;97;250;723;386;134
+99;Huurwoningen;Oost-Nederland (LD);2012 april - 2013 maart;97;248;714;391;136
+100;Huurwoningen;Oost-Nederland (LD);2012 juli - 2013 juni;93;243;708;385;132
+101;Huurwoningen;Oost-Nederland (LD);2012 oktober - 2013 september;92;246;723;375;128
+102;Huurwoningen;Oost-Nederland (LD);2013 januari - 2013 december;94;251;745;372;125
+103;Huurwoningen;Oost-Nederland (LD);2013 april - 2014 maart;93;248;734;377;127
+104;Huurwoningen;Oost-Nederland (LD);2013 juli - 2014 juni;89;235;694;379;129
+105;Huurwoningen;Oost-Nederland (LD);2013 oktober- 2014 september;87;229;672;380;129
+106;Huurwoningen;Oost-Nederland (LD);2014 januari - 2014 december;85;223;648;381;131
+107;Huurwoningen;Oost-Nederland (LD);2014 april - 2015 maart;82;220;635;374;130
+108;Huurwoningen;Oost-Nederland (LD);2014 juli - 2015 juni;86;232;667;370;129
+109;Huurwoningen;Oost-Nederland (LD);2014 oktober - 2015 september;85;228;649;371;131
+110;Huurwoningen;Oost-Nederland (LD);2015 januari - 2015 december;88;235;671;373;131
+111;Huurwoningen;Oost-Nederland (LD);2015 april - 2016 maart;89;239;685;374;131
+112;Huurwoningen;Oost-Nederland (LD);2015 juli - 2016 juni;84;234;671;360;125
+113;Huurwoningen;Oost-Nederland (LD);2015 oktober - 2016 september;88;242;694;362;126
+114;Huurwoningen;Oost-Nederland (LD);2016 januari - 2016 december;87;245;698;357;125
+115;Huurwoningen;Oost-Nederland (LD);2016 april - 2017 maart;89;242;689;369;130
+116;Huurwoningen;Oost-Nederland (LD);2016 juli - 2017 juni;94;247;706;380;133
+117;Huurwoningen;Oost-Nederland (LD);2016 oktober - 2017 september;88;254;731;347;121
+118;Huurwoningen;Oost-Nederland (LD);2017 januari - 2017 december;86;255;736;339;117
+119;Huurwoningen;Oost-Nederland (LD);2017 april - 2018 maart;88;267;774;331;114
+120;Huurwoningen;Oost-Nederland (LD);2017 juli - 2018 juni;88;270;777;327;114
+121;Huurwoningen;Oost-Nederland (LD);2017 oktober - 2018 september;96;283;814;340;118
+122;Huurwoningen;Oost-Nederland (LD);2018 januari - 2018 december;100;290;834;343;120
+123;Huurwoningen;Oost-Nederland (LD);2018 april - 2019 maart;100;290;834;345;120
+124;Huurwoningen;Oost-Nederland (LD);2018 juli - 2019 juni;102;291;833;350;122
+125;Huurwoningen;Oost-Nederland (LD);2018 oktober - 2019 september;102;290;827;351;123
+126;Huurwoningen;Oost-Nederland (LD);2019 januari - 2019 december;109;306;870;356;125
+127;Huurwoningen;Oost-Nederland (LD);2019 april - 2020 maart;108;319;911;339;119
+128;Huurwoningen;Oost-Nederland (LD);2019 juli - 2020 juni;109;319;914;341;119
+129;Huurwoningen;Oost-Nederland (LD);2019 oktober - 2020 september;107;319;910;336;118
+130;Huurwoningen;Oost-Nederland (LD);2020 januari - 2020 december;108;323;920;335;117
+131;Huurwoningen;Oost-Nederland (LD);2020 april - 2021 maart;107;318;899;337;119
+132;Huurwoningen;Oost-Nederland (LD);2020 juli - 2021 juni;110;308;868;358;127
+133;Huurwoningen;Oost-Nederland (LD);2020 oktober - 2021 september;116;308;875;376;132
+134;Huurwoningen;Oost-Nederland (LD);2021 januari - 2021 december;110;304;863;360;127
+135;Huurwoningen;Oost-Nederland (LD);2021 april - 2022 maart;106;301;857;352;124
+136;Huurwoningen;Oost-Nederland (LD);2021 juli - 2022 juni;104;321;918;325;114
+137;Huurwoningen;Oost-Nederland (LD);2021 oktober - 2022 september;107;335;961;320;112
+138;Huurwoningen;Oost-Nederland (LD);2022 januari - 2022 december;111;354;1029;314;108
+139;Huurwoningen;Oost-Nederland (LD);2022 april - 2023 maart;114;381;1123;299;101
+140;Huurwoningen;Oost-Nederland (LD);2022 juli - 2023 juni;119;392;1153;303;103
+141;Huurwoningen;Oost-Nederland (LD);2022 oktober - 2023 september;119;404;1183;294;100
+142;Huurwoningen;Oost-Nederland (LD);2023 januari - 2023 december;121;407;1198;297;101
+143;Huurwoningen;Oost-Nederland (LD);2023 april - 2024 maart;131;428;1253;306;104
+144;Huurwoningen;Oost-Nederland (LD);2023 juli - 2024 juni;129;424;1258;305;103
+145;Huurwoningen;Oost-Nederland (LD);2023 oktober - 2024 september;131;421;1257;312;104
+146;Huurwoningen;Oost-Nederland (LD);2024 januari - 2024 december;137;433;1294;315;106
+147;Huurwoningen;West-Nederland (LD);2012 januari - 2012 december;99;269;782;369;127
+148;Huurwoningen;West-Nederland (LD);2012 april - 2013 maart;96;272;793;353;121
+149;Huurwoningen;West-Nederland (LD);2012 juli - 2013 juni;92;287;838;322;110
+150;Huurwoningen;West-Nederland (LD);2012 oktober - 2013 september;91;282;823;321;110
+151;Huurwoningen;West-Nederland (LD);2013 januari - 2013 december;88;275;806;321;110
+152;Huurwoningen;West-Nederland (LD);2013 april - 2014 maart;87;253;732;344;119
+153;Huurwoningen;West-Nederland (LD);2013 juli - 2014 juni;85;222;637;383;134
+154;Huurwoningen;West-Nederland (LD);2013 oktober- 2014 september;79;237;686;333;115
+155;Huurwoningen;West-Nederland (LD);2014 januari - 2014 december;82;241;696;342;118
+156;Huurwoningen;West-Nederland (LD);2014 april - 2015 maart;85;252;734;339;116
+157;Huurwoningen;West-Nederland (LD);2014 juli - 2015 juni;79;252;736;314;107
+158;Huurwoningen;West-Nederland (LD);2014 oktober - 2015 september;85;252;738;335;115
+159;Huurwoningen;West-Nederland (LD);2015 januari - 2015 december;81;255;746;319;109
+160;Huurwoningen;West-Nederland (LD);2015 april - 2016 maart;80;254;745;315;107
+161;Huurwoningen;West-Nederland (LD);2015 juli - 2016 juni;88;257;757;343;116
+162;Huurwoningen;West-Nederland (LD);2015 oktober - 2016 september;82;258;759;317;108
+163;Huurwoningen;West-Nederland (LD);2016 januari - 2016 december;86;259;756;332;114
+164;Huurwoningen;West-Nederland (LD);2016 april - 2017 maart;85;268;780;316;109
+165;Huurwoningen;West-Nederland (LD);2016 juli - 2017 juni;88;275;799;321;111
+166;Huurwoningen;West-Nederland (LD);2016 oktober - 2017 september;85;278;808;306;105
+167;Huurwoningen;West-Nederland (LD);2017 januari - 2017 december;85;281;819;304;104
+168;Huurwoningen;West-Nederland (LD);2017 april - 2018 maart;89;286;830;312;107
+169;Huurwoningen;West-Nederland (LD);2017 juli - 2018 juni;87;283;813;309;107
+170;Huurwoningen;West-Nederland (LD);2017 oktober - 2018 september;101;292;834;347;122
+171;Huurwoningen;West-Nederland (LD);2018 januari - 2018 december;103;306;882;337;117
+172;Huurwoningen;West-Nederland (LD);2018 april - 2019 maart;107;317;925;339;116
+173;Huurwoningen;West-Nederland (LD);2018 juli - 2019 juni;109;325;958;336;114
+174;Huurwoningen;West-Nederland (LD);2018 oktober - 2019 september;109;324;957;336;114
+175;Huurwoningen;West-Nederland (LD);2019 januari - 2019 december;104;330;978;316;107
+176;Huurwoningen;West-Nederland (LD);2019 april - 2020 maart;106;325;946;327;112
+177;Huurwoningen;West-Nederland (LD);2019 juli - 2020 juni;117;332;970;351;120
+178;Huurwoningen;West-Nederland (LD);2019 oktober - 2020 september;118;341;996;345;118
+179;Huurwoningen;West-Nederland (LD);2020 januari - 2020 december;127;339;986;375;129
+180;Huurwoningen;West-Nederland (LD);2020 april - 2021 maart;128;340;982;377;131
+181;Huurwoningen;West-Nederland (LD);2020 juli - 2021 juni;126;343;982;367;128
+182;Huurwoningen;West-Nederland (LD);2020 oktober - 2021 september;132;343;975;385;136
+183;Huurwoningen;West-Nederland (LD);2021 januari - 2021 december;131;350;995;374;132
+184;Huurwoningen;West-Nederland (LD);2021 april - 2022 maart;127;352;1005;361;127
+185;Huurwoningen;West-Nederland (LD);2021 juli - 2022 juni;129;355;1018;365;127
+186;Huurwoningen;West-Nederland (LD);2021 oktober - 2022 september;133;364;1056;364;126
+187;Huurwoningen;West-Nederland (LD);2022 januari - 2022 december;147;378;1102;389;133
+188;Huurwoningen;West-Nederland (LD);2022 april - 2023 maart;155;399;1173;389;132
+189;Huurwoningen;West-Nederland (LD);2022 juli - 2023 juni;155;424;1258;365;123
+190;Huurwoningen;West-Nederland (LD);2022 oktober - 2023 september;151;434;1275;348;118
+191;Huurwoningen;West-Nederland (LD);2023 januari - 2023 december;142;465;1379;306;103
+192;Huurwoningen;West-Nederland (LD);2023 april - 2024 maart;143;468;1404;307;102
+193;Huurwoningen;West-Nederland (LD);2023 juli - 2024 juni;144;475;1432;303;100
+194;Huurwoningen;West-Nederland (LD);2023 oktober - 2024 september;142;480;1452;296;98
+195;Huurwoningen;West-Nederland (LD);2024 januari - 2024 december;147;497;1499;295;98
+196;Huurwoningen;Zuid-Nederland (LD);2012 januari - 2012 december;99;261;755;379;131
+197;Huurwoningen;Zuid-Nederland (LD);2012 april - 2013 maart;100;258;759;388;132
+198;Huurwoningen;Zuid-Nederland (LD);2012 juli - 2013 juni;98;263;777;371;126
+199;Huurwoningen;Zuid-Nederland (LD);2012 oktober - 2013 september;95;257;755;372;126
+200;Huurwoningen;Zuid-Nederland (LD);2013 januari - 2013 december;97;255;760;380;127
+201;Huurwoningen;Zuid-Nederland (LD);2013 april - 2014 maart;95;248;731;385;130
+202;Huurwoningen;Zuid-Nederland (LD);2013 juli - 2014 juni;95;239;701;398;135
+203;Huurwoningen;Zuid-Nederland (LD);2013 oktober- 2014 september;95;241;709;394;134
+204;Huurwoningen;Zuid-Nederland (LD);2014 januari - 2014 december;96;239;693;403;139
+205;Huurwoningen;Zuid-Nederland (LD);2014 april - 2015 maart;96;247;716;389;134
+206;Huurwoningen;Zuid-Nederland (LD);2014 juli - 2015 juni;91;259;768;352;119
+207;Huurwoningen;Zuid-Nederland (LD);2014 oktober - 2015 september;91;258;765;353;119
+208;Huurwoningen;Zuid-Nederland (LD);2015 januari - 2015 december;87;257;764;340;114
+209;Huurwoningen;Zuid-Nederland (LD);2015 april - 2016 maart;79;265;795;299;100
+210;Huurwoningen;Zuid-Nederland (LD);2015 juli - 2016 juni;84;261;754;323;112
+211;Huurwoningen;Zuid-Nederland (LD);2015 oktober - 2016 september;90;264;766;340;117
+212;Huurwoningen;Zuid-Nederland (LD);2016 januari - 2016 december;89;255;739;348;120
+213;Huurwoningen;Zuid-Nederland (LD);2016 april - 2017 maart;89;257;743;345;120
+214;Huurwoningen;Zuid-Nederland (LD);2016 juli - 2017 juni;92;252;736;366;126
+215;Huurwoningen;Zuid-Nederland (LD);2016 oktober - 2017 september;89;250;729;356;122
+216;Huurwoningen;Zuid-Nederland (LD);2017 januari - 2017 december;90;259;753;348;119
+217;Huurwoningen;Zuid-Nederland (LD);2017 april - 2018 maart;91;257;751;356;122
+218;Huurwoningen;Zuid-Nederland (LD);2017 juli - 2018 juni;91;257;748;353;121
+219;Huurwoningen;Zuid-Nederland (LD);2017 oktober - 2018 september;92;256;747;360;123
+220;Huurwoningen;Zuid-Nederland (LD);2018 januari - 2018 december;96;270;783;357;123
+221;Huurwoningen;Zuid-Nederland (LD);2018 april - 2019 maart;104;274;790;379;131
+222;Huurwoningen;Zuid-Nederland (LD);2018 juli - 2019 juni;103;278;791;371;130
+223;Huurwoningen;Zuid-Nederland (LD);2018 oktober - 2019 september;103;285;813;361;126
+224;Huurwoningen;Zuid-Nederland (LD);2019 januari - 2019 december;106;281;817;377;130
+225;Huurwoningen;Zuid-Nederland (LD);2019 april - 2020 maart;102;286;832;356;122
+226;Huurwoningen;Zuid-Nederland (LD);2019 juli - 2020 juni;101;298;876;340;116
+227;Huurwoningen;Zuid-Nederland (LD);2019 oktober - 2020 september;102;298;870;343;117
+228;Huurwoningen;Zuid-Nederland (LD);2020 januari - 2020 december;101;313;907;322;111
+229;Huurwoningen;Zuid-Nederland (LD);2020 april - 2021 maart;106;310;899;343;118
+230;Huurwoningen;Zuid-Nederland (LD);2020 juli - 2021 juni;98;312;914;313;107
+231;Huurwoningen;Zuid-Nederland (LD);2020 oktober - 2021 september;98;318;943;309;104
+232;Huurwoningen;Zuid-Nederland (LD);2021 januari - 2021 december;98;289;863;339;113
+233;Huurwoningen;Zuid-Nederland (LD);2021 april - 2022 maart;96;287;865;333;111
+234;Huurwoningen;Zuid-Nederland (LD);2021 juli - 2022 juni;94;299;895;313;104
+235;Huurwoningen;Zuid-Nederland (LD);2021 oktober - 2022 september;94;299;895;314;105
+236;Huurwoningen;Zuid-Nederland (LD);2022 januari - 2022 december;103;340;1021;302;101
+237;Huurwoningen;Zuid-Nederland (LD);2022 april - 2023 maart;105;347;1039;301;101
+238;Huurwoningen;Zuid-Nederland (LD);2022 juli - 2023 juni;119;349;1043;340;114
+239;Huurwoningen;Zuid-Nederland (LD);2022 oktober - 2023 september;122;359;1076;341;114
+240;Huurwoningen;Zuid-Nederland (LD);2023 januari - 2023 december;121;369;1108;327;109
+241;Huurwoningen;Zuid-Nederland (LD);2023 april - 2024 maart;117;370;1119;316;104
+242;Huurwoningen;Zuid-Nederland (LD);2023 juli - 2024 juni;120;377;1143;318;105
+243;Huurwoningen;Zuid-Nederland (LD);2023 oktober - 2024 september;115;374;1137;309;102
+244;Huurwoningen;Zuid-Nederland (LD);2024 januari - 2024 december;125;403;1227;311;102
+245;Koopwoningen;Nederland;2012 januari - 2012 december;145;261;751;555;193
+246;Koopwoningen;Nederland;2012 april - 2013 maart;143;261;753;549;190
+247;Koopwoningen;Nederland;2012 juli - 2013 juni;142;259;746;548;191
+248;Koopwoningen;Nederland;2012 oktober - 2013 september;143;258;743;555;193
+249;Koopwoningen;Nederland;2013 januari - 2013 december;140;255;735;550;190
+250;Koopwoningen;Nederland;2013 april - 2014 maart;137;251;724;545;189
+251;Koopwoningen;Nederland;2013 juli - 2014 juni;133;250;717;535;186
+252;Koopwoningen;Nederland;2013 oktober- 2014 september;130;248;710;523;183
+253;Koopwoningen;Nederland;2014 januari - 2014 december;129;245;699;527;185
+254;Koopwoningen;Nederland;2014 april - 2015 maart;126;242;689;520;183
+255;Koopwoningen;Nederland;2014 juli - 2015 juni;126;241;687;522;183
+256;Koopwoningen;Nederland;2014 oktober - 2015 september;127;241;688;528;185
+257;Koopwoningen;Nederland;2015 januari - 2015 december;129;243;694;529;185
+258;Koopwoningen;Nederland;2015 april - 2016 maart;133;248;710;536;187
+259;Koopwoningen;Nederland;2015 juli - 2016 juni;138;254;729;541;189
+260;Koopwoningen;Nederland;2015 oktober - 2016 september;140;255;730;549;192
+261;Koopwoningen;Nederland;2016 januari - 2016 december;142;258;737;551;193
+262;Koopwoningen;Nederland;2016 april - 2017 maart;145;259;740;559;196
+263;Koopwoningen;Nederland;2016 juli - 2017 juni;146;260;742;561;196
+264;Koopwoningen;Nederland;2016 oktober - 2017 september;147;262;751;560;196
+265;Koopwoningen;Nederland;2017 januari - 2017 december;150;267;766;562;196
+266;Koopwoningen;Nederland;2017 april - 2018 maart;152;271;779;563;195
+267;Koopwoningen;Nederland;2017 juli - 2018 juni;158;276;797;571;198
+268;Koopwoningen;Nederland;2017 oktober - 2018 september;161;282;813;571;198
+269;Koopwoningen;Nederland;2018 januari - 2018 december;165;288;830;573;199
+270;Koopwoningen;Nederland;2018 april - 2019 maart;169;293;849;574;199
+271;Koopwoningen;Nederland;2018 juli - 2019 juni;168;297;860;566;196
+272;Koopwoningen;Nederland;2018 oktober - 2019 september;173;304;883;570;196
+273;Koopwoningen;Nederland;2019 januari - 2019 december;175;309;899;566;194
+274;Koopwoningen;Nederland;2019 april - 2020 maart;175;310;905;565;194
+275;Koopwoningen;Nederland;2019 juli - 2020 juni;177;312;911;566;194
+276;Koopwoningen;Nederland;2019 oktober - 2020 september;176;313;914;560;192
+277;Koopwoningen;Nederland;2020 januari - 2020 december;179;316;920;567;195
+278;Koopwoningen;Nederland;2020 april - 2021 maart;179;318;921;564;195
+279;Koopwoningen;Nederland;2020 juli - 2021 juni;180;321;929;560;194
+280;Koopwoningen;Nederland;2020 oktober - 2021 september;183;325;937;565;196
+281;Koopwoningen;Nederland;2021 januari - 2021 december;183;328;947;559;194
+282;Koopwoningen;Nederland;2021 april - 2022 maart;188;333;961;563;195
+283;Koopwoningen;Nederland;2021 juli - 2022 juni;196;338;975;581;202
+284;Koopwoningen;Nederland;2021 oktober - 2022 september;204;345;1000;591;204
+285;Koopwoningen;Nederland;2022 januari - 2022 december;210;349;1018;602;206
+286;Koopwoningen;Nederland;2022 april - 2023 maart;216;361;1057;598;204
+287;Koopwoningen;Nederland;2022 juli - 2023 juni;215;369;1090;582;197
+288;Koopwoningen;Nederland;2022 oktober - 2023 september;213;377;1114;566;192
+289;Koopwoningen;Nederland;2023 januari - 2023 december;212;393;1157;541;184
+290;Koopwoningen;Nederland;2023 april - 2024 maart;213;391;1157;543;184
+291;Koopwoningen;Nederland;2023 juli - 2024 juni;210;392;1160;536;181
+292;Koopwoningen;Nederland;2023 oktober - 2024 september;208;392;1164;530;179
+293;Koopwoningen;Nederland;2024 januari - 2024 december;209;399;1186;524;176
+294;Koopwoningen;Noord-Nederland (LD);2012 januari - 2012 december;154;242;702;636;220
+295;Koopwoningen;Noord-Nederland (LD);2012 april - 2013 maart;155;251;731;616;212
+296;Koopwoningen;Noord-Nederland (LD);2012 juli - 2013 juni;143;249;729;574;196
+297;Koopwoningen;Noord-Nederland (LD);2012 oktober - 2013 september;146;249;731;585;199
+298;Koopwoningen;Noord-Nederland (LD);2013 januari - 2013 december;145;251;736;580;198
+299;Koopwoningen;Noord-Nederland (LD);2013 april - 2014 maart;136;239;698;572;196
+300;Koopwoningen;Noord-Nederland (LD);2013 juli - 2014 juni;135;231;672;585;201
+301;Koopwoningen;Noord-Nederland (LD);2013 oktober- 2014 september;119;228;664;523;180
+302;Koopwoningen;Noord-Nederland (LD);2014 januari - 2014 december;117;226;654;520;180
+303;Koopwoningen;Noord-Nederland (LD);2014 april - 2015 maart;115;223;645;516;179
+304;Koopwoningen;Noord-Nederland (LD);2014 juli - 2015 juni;116;223;644;519;179
+305;Koopwoningen;Noord-Nederland (LD);2014 oktober - 2015 september;122;223;646;549;189
+306;Koopwoningen;Noord-Nederland (LD);2015 januari - 2015 december;122;226;655;540;187
+307;Koopwoningen;Noord-Nederland (LD);2015 april - 2016 maart;131;237;686;553;191
+308;Koopwoningen;Noord-Nederland (LD);2015 juli - 2016 juni;131;239;691;550;190
+309;Koopwoningen;Noord-Nederland (LD);2015 oktober - 2016 september;131;241;695;544;189
+310;Koopwoningen;Noord-Nederland (LD);2016 januari - 2016 december;135;246;704;547;191
+311;Koopwoningen;Noord-Nederland (LD);2016 april - 2017 maart;136;242;693;561;196
+312;Koopwoningen;Noord-Nederland (LD);2016 juli - 2017 juni;138;246;701;562;197
+313;Koopwoningen;Noord-Nederland (LD);2016 oktober - 2017 september;140;249;708;561;197
+314;Koopwoningen;Noord-Nederland (LD);2017 januari - 2017 december;144;250;713;576;202
+315;Koopwoningen;Noord-Nederland (LD);2017 april - 2018 maart;148;257;732;577;202
+316;Koopwoningen;Noord-Nederland (LD);2017 juli - 2018 juni;155;263;750;592;207
+317;Koopwoningen;Noord-Nederland (LD);2017 oktober - 2018 september;158;271;774;581;204
+318;Koopwoningen;Noord-Nederland (LD);2018 januari - 2018 december;157;275;784;570;200
+319;Koopwoningen;Noord-Nederland (LD);2018 april - 2019 maart;158;278;795;570;199
+320;Koopwoningen;Noord-Nederland (LD);2018 juli - 2019 juni;159;283;812;561;195
+321;Koopwoningen;Noord-Nederland (LD);2018 oktober - 2019 september;166;287;830;578;200
+322;Koopwoningen;Noord-Nederland (LD);2019 januari - 2019 december;170;296;862;572;197
+323;Koopwoningen;Noord-Nederland (LD);2019 april - 2020 maart;170;303;882;562;193
+324;Koopwoningen;Noord-Nederland (LD);2019 juli - 2020 juni;174;307;892;569;196
+325;Koopwoningen;Noord-Nederland (LD);2019 oktober - 2020 september;177;309;900;573;197
+326;Koopwoningen;Noord-Nederland (LD);2020 januari - 2020 december;182;312;905;585;201
+327;Koopwoningen;Noord-Nederland (LD);2020 april - 2021 maart;185;314;908;589;204
+328;Koopwoningen;Noord-Nederland (LD);2020 juli - 2021 juni;183;316;915;578;200
+329;Koopwoningen;Noord-Nederland (LD);2020 oktober - 2021 september;185;319;921;581;201
+330;Koopwoningen;Noord-Nederland (LD);2021 januari - 2021 december;193;324;939;596;206
+331;Koopwoningen;Noord-Nederland (LD);2021 april - 2022 maart;198;328;949;603;209
+332;Koopwoningen;Noord-Nederland (LD);2021 juli - 2022 juni;211;332;959;637;220
+333;Koopwoningen;Noord-Nederland (LD);2021 oktober - 2022 september;218;339;984;644;222
+334;Koopwoningen;Noord-Nederland (LD);2022 januari - 2022 december;219;341;995;642;220
+335;Koopwoningen;Noord-Nederland (LD);2022 april - 2023 maart;238;354;1040;673;229
+336;Koopwoningen;Noord-Nederland (LD);2022 juli - 2023 juni;236;375;1104;629;214
+337;Koopwoningen;Noord-Nederland (LD);2022 oktober - 2023 september;234;385;1130;609;208
+338;Koopwoningen;Noord-Nederland (LD);2023 januari - 2023 december;242;407;1193;593;203
+339;Koopwoningen;Noord-Nederland (LD);2023 april - 2024 maart;238;409;1206;582;198
+340;Koopwoningen;Noord-Nederland (LD);2023 juli - 2024 juni;234;401;1186;583;197
+341;Koopwoningen;Noord-Nederland (LD);2023 oktober - 2024 september;220;400;1189;551;185
+342;Koopwoningen;Noord-Nederland (LD);2024 januari - 2024 december;215;408;1215;527;177
+343;Koopwoningen;Oost-Nederland (LD);2012 januari - 2012 december;140;250;715;559;195
+344;Koopwoningen;Oost-Nederland (LD);2012 april - 2013 maart;138;250;719;553;192
+345;Koopwoningen;Oost-Nederland (LD);2012 juli - 2013 juni;141;249;719;566;196
+346;Koopwoningen;Oost-Nederland (LD);2012 oktober - 2013 september;141;249;720;564;195
+347;Koopwoningen;Oost-Nederland (LD);2013 januari - 2013 december;133;245;707;542;188
+348;Koopwoningen;Oost-Nederland (LD);2013 april - 2014 maart;129;242;698;534;185
+349;Koopwoningen;Oost-Nederland (LD);2013 juli - 2014 juni;126;238;686;528;184
+350;Koopwoningen;Oost-Nederland (LD);2013 oktober- 2014 september;123;237;678;519;181
+351;Koopwoningen;Oost-Nederland (LD);2014 januari - 2014 december;122;233;666;523;183
+352;Koopwoningen;Oost-Nederland (LD);2014 april - 2015 maart;120;232;660;518;182
+353;Koopwoningen;Oost-Nederland (LD);2014 juli - 2015 juni;119;232;659;513;181
+354;Koopwoningen;Oost-Nederland (LD);2014 oktober - 2015 september;120;231;659;518;182
+355;Koopwoningen;Oost-Nederland (LD);2015 januari - 2015 december;122;234;667;522;183
+356;Koopwoningen;Oost-Nederland (LD);2015 april - 2016 maart;125;236;672;531;186
+357;Koopwoningen;Oost-Nederland (LD);2015 juli - 2016 juni;131;241;686;545;191
+358;Koopwoningen;Oost-Nederland (LD);2015 oktober - 2016 september;135;245;699;551;193
+359;Koopwoningen;Oost-Nederland (LD);2016 januari - 2016 december;138;249;709;556;195
+360;Koopwoningen;Oost-Nederland (LD);2016 april - 2017 maart;142;253;721;562;198
+361;Koopwoningen;Oost-Nederland (LD);2016 juli - 2017 juni;143;257;728;559;197
+362;Koopwoningen;Oost-Nederland (LD);2016 oktober - 2017 september;144;259;737;558;196
+363;Koopwoningen;Oost-Nederland (LD);2017 januari - 2017 december;146;259;740;564;198
+364;Koopwoningen;Oost-Nederland (LD);2017 april - 2018 maart;148;262;750;564;197
+365;Koopwoningen;Oost-Nederland (LD);2017 juli - 2018 juni;151;265;760;570;199
+366;Koopwoningen;Oost-Nederland (LD);2017 oktober - 2018 september;152;269;769;567;198
+367;Koopwoningen;Oost-Nederland (LD);2018 januari - 2018 december;154;275;785;562;197
+368;Koopwoningen;Oost-Nederland (LD);2018 april - 2019 maart;158;281;804;562;197
+369;Koopwoningen;Oost-Nederland (LD);2018 juli - 2019 juni;162;287;824;562;196
+370;Koopwoningen;Oost-Nederland (LD);2018 oktober - 2019 september;167;294;843;568;198
+371;Koopwoningen;Oost-Nederland (LD);2019 januari - 2019 december;172;300;862;575;200
+372;Koopwoningen;Oost-Nederland (LD);2019 april - 2020 maart;175;303;871;578;201
+373;Koopwoningen;Oost-Nederland (LD);2019 juli - 2020 juni;176;305;873;577;201
+374;Koopwoningen;Oost-Nederland (LD);2019 oktober - 2020 september;175;305;873;574;200
+375;Koopwoningen;Oost-Nederland (LD);2020 januari - 2020 december;177;310;885;572;200
+376;Koopwoningen;Oost-Nederland (LD);2020 april - 2021 maart;178;309;882;575;202
+377;Koopwoningen;Oost-Nederland (LD);2020 juli - 2021 juni;178;311;889;573;201
+378;Koopwoningen;Oost-Nederland (LD);2020 oktober - 2021 september;184;317;907;580;203
+379;Koopwoningen;Oost-Nederland (LD);2021 januari - 2021 december;187;321;918;582;203
+380;Koopwoningen;Oost-Nederland (LD);2021 april - 2022 maart;190;329;940;577;202
+381;Koopwoningen;Oost-Nederland (LD);2021 juli - 2022 juni;196;334;951;587;206
+382;Koopwoningen;Oost-Nederland (LD);2021 oktober - 2022 september;203;339;967;598;210
+383;Koopwoningen;Oost-Nederland (LD);2022 januari - 2022 december;205;346;995;592;206
+384;Koopwoningen;Oost-Nederland (LD);2022 april - 2023 maart;207;354;1025;585;202
+385;Koopwoningen;Oost-Nederland (LD);2022 juli - 2023 juni;201;360;1052;558;191
+386;Koopwoningen;Oost-Nederland (LD);2022 oktober - 2023 september;201;372;1090;540;185
+387;Koopwoningen;Oost-Nederland (LD);2023 januari - 2023 december;197;377;1100;523;179
+388;Koopwoningen;Oost-Nederland (LD);2023 april - 2024 maart;195;377;1108;518;176
+389;Koopwoningen;Oost-Nederland (LD);2023 juli - 2024 juni;197;380;1116;517;176
+390;Koopwoningen;Oost-Nederland (LD);2023 oktober - 2024 september;193;379;1116;510;173
+391;Koopwoningen;Oost-Nederland (LD);2024 januari - 2024 december;197;381;1125;516;175
+392;Koopwoningen;West-Nederland (LD);2012 januari - 2012 december;140;270;773;517;181
+393;Koopwoningen;West-Nederland (LD);2012 april - 2013 maart;138;268;770;513;179
+394;Koopwoningen;West-Nederland (LD);2012 juli - 2013 juni;135;266;758;507;178
+395;Koopwoningen;West-Nederland (LD);2012 oktober - 2013 september;137;262;745;521;183
+396;Koopwoningen;West-Nederland (LD);2013 januari - 2013 december;137;256;735;533;186
+397;Koopwoningen;West-Nederland (LD);2013 april - 2014 maart;135;253;721;534;187
+398;Koopwoningen;West-Nederland (LD);2013 juli - 2014 juni;131;251;713;520;183
+399;Koopwoningen;West-Nederland (LD);2013 oktober- 2014 september;128;252;715;508;179
+400;Koopwoningen;West-Nederland (LD);2014 januari - 2014 december;128;249;704;513;182
+401;Koopwoningen;West-Nederland (LD);2014 april - 2015 maart;125;245;689;509;181
+402;Koopwoningen;West-Nederland (LD);2014 juli - 2015 juni;127;245;690;518;184
+403;Koopwoningen;West-Nederland (LD);2014 oktober - 2015 september;127;244;691;518;184
+404;Koopwoningen;West-Nederland (LD);2015 januari - 2015 december;127;245;694;519;183
+405;Koopwoningen;West-Nederland (LD);2015 april - 2016 maart;132;253;721;523;183
+406;Koopwoningen;West-Nederland (LD);2015 juli - 2016 juni;137;261;747;522;183
+407;Koopwoningen;West-Nederland (LD);2015 oktober - 2016 september;139;260;741;536;188
+408;Koopwoningen;West-Nederland (LD);2016 januari - 2016 december;141;264;752;535;187
+409;Koopwoningen;West-Nederland (LD);2016 april - 2017 maart;144;265;755;543;190
+410;Koopwoningen;West-Nederland (LD);2016 juli - 2017 juni;144;264;753;545;191
+411;Koopwoningen;West-Nederland (LD);2016 oktober - 2017 september;146;267;765;546;191
+412;Koopwoningen;West-Nederland (LD);2017 januari - 2017 december;149;273;786;547;190
+413;Koopwoningen;West-Nederland (LD);2017 april - 2018 maart;152;277;800;550;190
+414;Koopwoningen;West-Nederland (LD);2017 juli - 2018 juni;160;286;827;560;193
+415;Koopwoningen;West-Nederland (LD);2017 oktober - 2018 september;165;293;851;562;194
+416;Koopwoningen;West-Nederland (LD);2018 januari - 2018 december;174;303;879;573;198
+417;Koopwoningen;West-Nederland (LD);2018 april - 2019 maart;181;310;902;582;200
+418;Koopwoningen;West-Nederland (LD);2018 juli - 2019 juni;178;312;905;570;197
+419;Koopwoningen;West-Nederland (LD);2018 oktober - 2019 september;183;319;925;575;198
+420;Koopwoningen;West-Nederland (LD);2019 januari - 2019 december;181;321;937;564;194
+421;Koopwoningen;West-Nederland (LD);2019 april - 2020 maart;178;321;937;556;190
+422;Koopwoningen;West-Nederland (LD);2019 juli - 2020 juni;181;323;949;559;190
+423;Koopwoningen;West-Nederland (LD);2019 oktober - 2020 september;179;328;963;545;186
+424;Koopwoningen;West-Nederland (LD);2020 januari - 2020 december;187;330;964;567;194
+425;Koopwoningen;West-Nederland (LD);2020 april - 2021 maart;188;334;968;564;195
+426;Koopwoningen;West-Nederland (LD);2020 juli - 2021 juni;187;335;969;559;194
+427;Koopwoningen;West-Nederland (LD);2020 oktober - 2021 september;191;337;968;566;197
+428;Koopwoningen;West-Nederland (LD);2021 januari - 2021 december;184;340;977;541;189
+429;Koopwoningen;West-Nederland (LD);2021 april - 2022 maart;187;344;990;545;189
+430;Koopwoningen;West-Nederland (LD);2021 juli - 2022 juni;196;350;1005;560;195
+431;Koopwoningen;West-Nederland (LD);2021 oktober - 2022 september;204;357;1033;573;198
+432;Koopwoningen;West-Nederland (LD);2022 januari - 2022 december;216;361;1054;598;205
+433;Koopwoningen;West-Nederland (LD);2022 april - 2023 maart;224;374;1096;600;205
+434;Koopwoningen;West-Nederland (LD);2022 juli - 2023 juni;231;385;1138;599;203
+435;Koopwoningen;West-Nederland (LD);2022 oktober - 2023 september;228;394;1164;580;196
+436;Koopwoningen;West-Nederland (LD);2023 januari - 2023 december;230;419;1233;548;186
+437;Koopwoningen;West-Nederland (LD);2023 april - 2024 maart;233;420;1240;556;188
+438;Koopwoningen;West-Nederland (LD);2023 juli - 2024 juni;223;417;1234;536;181
+439;Koopwoningen;West-Nederland (LD);2023 oktober - 2024 september;227;423;1257;538;181
+440;Koopwoningen;West-Nederland (LD);2024 januari - 2024 december;227;433;1288;523;176
+441;Koopwoningen;Zuid-Nederland (LD);2012 januari - 2012 december;161;264;766;610;210
+442;Koopwoningen;Zuid-Nederland (LD);2012 april - 2013 maart;159;264;769;602;206
+443;Koopwoningen;Zuid-Nederland (LD);2012 juli - 2013 juni;158;261;757;606;209
+444;Koopwoningen;Zuid-Nederland (LD);2012 oktober - 2013 september;158;264;771;596;205
+445;Koopwoningen;Zuid-Nederland (LD);2013 januari - 2013 december;155;265;773;585;201
+446;Koopwoningen;Zuid-Nederland (LD);2013 april - 2014 maart;153;265;773;578;198
+447;Koopwoningen;Zuid-Nederland (LD);2013 juli - 2014 juni;152;268;784;568;194
+448;Koopwoningen;Zuid-Nederland (LD);2013 oktober- 2014 september;148;260;758;569;195
+449;Koopwoningen;Zuid-Nederland (LD);2014 januari - 2014 december;146;256;747;572;196
+450;Koopwoningen;Zuid-Nederland (LD);2014 april - 2015 maart;142;255;747;555;190
+451;Koopwoningen;Zuid-Nederland (LD);2014 juli - 2015 juni;137;251;732;546;187
+452;Koopwoningen;Zuid-Nederland (LD);2014 oktober - 2015 september;140;251;734;558;191
+453;Koopwoningen;Zuid-Nederland (LD);2015 januari - 2015 december;142;254;740;559;192
+454;Koopwoningen;Zuid-Nederland (LD);2015 april - 2016 maart;145;255;738;567;196
+455;Koopwoningen;Zuid-Nederland (LD);2015 juli - 2016 juni;151;261;756;577;199
+456;Koopwoningen;Zuid-Nederland (LD);2015 oktober - 2016 september;151;262;755;577;200
+457;Koopwoningen;Zuid-Nederland (LD);2016 januari - 2016 december;152;260;747;585;203
+458;Koopwoningen;Zuid-Nederland (LD);2016 april - 2017 maart;154;260;747;593;206
+459;Koopwoningen;Zuid-Nederland (LD);2016 juli - 2017 juni;157;262;751;601;209
+460;Koopwoningen;Zuid-Nederland (LD);2016 oktober - 2017 september;156;262;758;594;206
+461;Koopwoningen;Zuid-Nederland (LD);2017 januari - 2017 december;158;269;780;585;202
+462;Koopwoningen;Zuid-Nederland (LD);2017 april - 2018 maart;161;274;794;588;203
+463;Koopwoningen;Zuid-Nederland (LD);2017 juli - 2018 juni;162;275;799;589;202
+464;Koopwoningen;Zuid-Nederland (LD);2017 oktober - 2018 september;165;279;809;591;204
+465;Koopwoningen;Zuid-Nederland (LD);2018 januari - 2018 december;163;277;804;589;203
+466;Koopwoningen;Zuid-Nederland (LD);2018 april - 2019 maart;162;282;821;576;198
+467;Koopwoningen;Zuid-Nederland (LD);2018 juli - 2019 juni;162;286;835;567;194
+468;Koopwoningen;Zuid-Nederland (LD);2018 oktober - 2019 september;163;293;857;558;191
+469;Koopwoningen;Zuid-Nederland (LD);2019 januari - 2019 december;167;299;879;558;190
+470;Koopwoningen;Zuid-Nederland (LD);2019 april - 2020 maart;172;301;886;571;194
+471;Koopwoningen;Zuid-Nederland (LD);2019 juli - 2020 juni;171;301;887;566;193
+472;Koopwoningen;Zuid-Nederland (LD);2019 oktober - 2020 september;170;298;878;569;193
+473;Koopwoningen;Zuid-Nederland (LD);2020 januari - 2020 december;166;300;884;554;188
+474;Koopwoningen;Zuid-Nederland (LD);2020 april - 2021 maart;163;298;879;545;185
+475;Koopwoningen;Zuid-Nederland (LD);2020 juli - 2021 juni;165;304;893;544;185
+476;Koopwoningen;Zuid-Nederland (LD);2020 oktober - 2021 september;167;308;907;542;184
+477;Koopwoningen;Zuid-Nederland (LD);2021 januari - 2021 december;174;310;909;563;192
+478;Koopwoningen;Zuid-Nederland (LD);2021 april - 2022 maart;182;315;923;579;198
+479;Koopwoningen;Zuid-Nederland (LD);2021 juli - 2022 juni;192;318;934;603;205
+480;Koopwoningen;Zuid-Nederland (LD);2021 oktober - 2022 september;198;325;958;610;207
+481;Koopwoningen;Zuid-Nederland (LD);2022 januari - 2022 december;198;328;969;603;204
+482;Koopwoningen;Zuid-Nederland (LD);2022 april - 2023 maart;197;340;1008;580;195
+483;Koopwoningen;Zuid-Nederland (LD);2022 juli - 2023 juni;194;345;1028;561;188
+484;Koopwoningen;Zuid-Nederland (LD);2022 oktober - 2023 september;195;350;1045;556;186
+485;Koopwoningen;Zuid-Nederland (LD);2023 januari - 2023 december;194;365;1089;532;178
+486;Koopwoningen;Zuid-Nederland (LD);2023 april - 2024 maart;195;359;1076;543;181
+487;Koopwoningen;Zuid-Nederland (LD);2023 juli - 2024 juni;196;359;1077;545;182
+488;Koopwoningen;Zuid-Nederland (LD);2023 oktober - 2024 september;192;357;1071;538;179
+489;Koopwoningen;Zuid-Nederland (LD);2024 januari - 2024 december;193;361;1081;536;179

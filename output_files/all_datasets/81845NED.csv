@@ -1,0 +1,769 @@
+﻿ID;AantalVoertuigenInHuishouden;Huishoudkenmerken;Perioden;HuishoudensInBezitVanAuto_1;HuishoudensInBezitVanAuto_2;HuishoudensInBezitVanMotor_3;HuishoudensInBezitVanMotor_4
+0;Minimaal één voertuig;Particuliere huishoudens;2010;5274300;71.6;471100;6.4
+1;Minimaal één voertuig;Particuliere huishoudens;2011;5335100;71.4;477300;6.4
+2;Minimaal één voertuig;Particuliere huishoudens;2012;5381300;71.5;482100;6.4
+3;Minimaal één voertuig;Particuliere huishoudens;2013;5415200;71.4;484400;6.4
+4;Minimaal één voertuig;Particuliere huishoudens;2014;5432700;71.5;483900;6.4
+5;Minimaal één voertuig;Particuliere huishoudens;2015;5471400;71.3;481900;6.3
+6;Minimaal één voertuig;Type: Eenpersoonshuishouden;2010;1179300;44.0;81300;3.0
+7;Minimaal één voertuig;Type: Eenpersoonshuishouden;2011;1224000;44.3;84100;3.0
+8;Minimaal één voertuig;Type: Eenpersoonshuishouden;2012;1231400;44.6;84300;3.1
+9;Minimaal één voertuig;Type: Eenpersoonshuishouden;2013;1253400;44.7;85900;3.1
+10;Minimaal één voertuig;Type: Eenpersoonshuishouden;2014;1266900;45.2;87100;3.1
+11;Minimaal één voertuig;Type: Eenpersoonshuishouden;2015;1294400;45.1;88200;3.1
+12;Minimaal één voertuig;Type: Meerpersoonshuishouden;2010;4095000;87.3;389800;8.3
+13;Minimaal één voertuig;Type: Meerpersoonshuishouden;2011;4111000;87.3;393200;8.3
+14;Minimaal één voertuig;Type: Meerpersoonshuishouden;2012;4149800;87.3;397800;8.4
+15;Minimaal één voertuig;Type: Meerpersoonshuishouden;2013;4161700;87.3;398400;8.4
+16;Minimaal één voertuig;Type: Meerpersoonshuishouden;2014;4165700;87.0;396800;8.3
+17;Minimaal één voertuig;Type: Meerpersoonshuishouden;2015;4176900;87.1;393700;8.2
+18;Minimaal één voertuig;Type: Eenoudergezin;2010;291200;63.1;17300;3.7
+19;Minimaal één voertuig;Type: Eenoudergezin;2011;314500;63.6;19400;3.9
+20;Minimaal één voertuig;Type: Eenoudergezin;2012;323900;64.1;20100;4.0
+21;Minimaal één voertuig;Type: Eenoudergezin;2013;331600;64.2;20700;4.0
+22;Minimaal één voertuig;Type: Eenoudergezin;2014;339200;63.9;21400;4.0
+23;Minimaal één voertuig;Type: Eenoudergezin;2015;346100;64.2;21500;4.0
+24;Minimaal één voertuig;Type: Paar, totaal;2010;3750400;90.4;368100;8.9
+25;Minimaal één voertuig;Type: Paar, totaal;2011;3762500;90.4;371000;8.9
+26;Minimaal één voertuig;Type: Paar, totaal;2012;3791700;90.5;374800;8.9
+27;Minimaal één voertuig;Type: Paar, totaal;2013;3796400;90.5;374800;8.9
+28;Minimaal één voertuig;Type: Paar, totaal;2014;3794000;90.3;372400;8.9
+29;Minimaal één voertuig;Type: Paar, totaal;2015;3797000;90.3;368900;8.8
+30;Minimaal één voertuig;Type: Paar, met kind(eren);2010;1874200;93.8;220600;11.0
+31;Minimaal één voertuig;Type: Paar, met kind(eren);2011;1916200;93.8;226400;11.1
+32;Minimaal één voertuig;Type: Paar, met kind(eren);2012;1920200;93.9;226300;11.1
+33;Minimaal één voertuig;Type: Paar, met kind(eren);2013;1914100;93.9;223800;11.0
+34;Minimaal één voertuig;Type: Paar, met kind(eren);2014;1901400;93.6;218900;10.8
+35;Minimaal één voertuig;Type: Paar, met kind(eren);2015;1894300;93.6;214100;10.6
+36;Minimaal één voertuig;Type: Paar, zonder kind;2010;1876200;87.3;147400;6.9
+37;Minimaal één voertuig;Type: Paar, zonder kind;2011;1846300;87.2;144500;6.8
+38;Minimaal één voertuig;Type: Paar, zonder kind;2012;1871500;87.2;148500;6.9
+39;Minimaal één voertuig;Type: Paar, zonder kind;2013;1882300;87.3;151000;7.0
+40;Minimaal één voertuig;Type: Paar, zonder kind;2014;1892600;87.2;153500;7.1
+41;Minimaal één voertuig;Type: Paar, zonder kind;2015;1902700;87.3;154800;7.1
+42;Minimaal één voertuig;Type: Meerpersoonshuishouden, overig;2010;53400;66.0;4500;5.6
+43;Minimaal één voertuig;Type: Meerpersoonshuishouden, overig;2011;34100;61.6;2800;5.1
+44;Minimaal één voertuig;Type: Meerpersoonshuishouden, overig;2012;34200;61.7;2900;5.3
+45;Minimaal één voertuig;Type: Meerpersoonshuishouden, overig;2013;33700;61.8;2900;5.4
+46;Minimaal één voertuig;Type: Meerpersoonshuishouden, overig;2014;32500;60.4;3000;5.6
+47;Minimaal één voertuig;Type: Meerpersoonshuishouden, overig;2015;33900;62.0;3300;6.0
+48;Minimaal één voertuig;Huishoudensgrootte: 1 persoon;2010;1179300;44.0;81300;3.0
+49;Minimaal één voertuig;Huishoudensgrootte: 1 persoon;2011;1224000;44.3;84100;3.0
+50;Minimaal één voertuig;Huishoudensgrootte: 1 persoon;2012;1231500;44.4;84300;3.0
+51;Minimaal één voertuig;Huishoudensgrootte: 1 persoon;2013;1253600;44.5;85900;3.1
+52;Minimaal één voertuig;Huishoudensgrootte: 1 persoon;2014;1267000;45.0;87200;3.1
+53;Minimaal één voertuig;Huishoudensgrootte: 1 persoon;2015;1294500;44.9;88200;3.1
+54;Minimaal één voertuig;Huishoudensgrootte: 2 personen;2010;2002000;84.0;151900;6.4
+55;Minimaal één voertuig;Huishoudensgrootte: 2 personen;2011;2029600;83.9;156400;6.5
+56;Minimaal één voertuig;Huishoudensgrootte: 2 personen;2012;2061300;83.9;160900;6.6
+57;Minimaal één voertuig;Huishoudensgrootte: 2 personen;2013;2078100;84.0;163900;6.6
+58;Minimaal één voertuig;Huishoudensgrootte: 2 personen;2014;2094000;83.8;167000;6.7
+59;Minimaal één voertuig;Huishoudensgrootte: 2 personen;2015;2108000;83.9;168200;6.7
+60;Minimaal één voertuig;Huishoudensgrootte: 3 personen;2010;790900;87.3;86800;9.6
+61;Minimaal één voertuig;Huishoudensgrootte: 3 personen;2011;791000;87.6;87000;9.6
+62;Minimaal één voertuig;Huishoudensgrootte: 3 personen;2012;797300;87.7;88300;9.7
+63;Minimaal één voertuig;Huishoudensgrootte: 3 personen;2013;800500;87.5;88600;9.7
+64;Minimaal één voertuig;Huishoudensgrootte: 3 personen;2014;802400;87.2;88700;9.6
+65;Minimaal één voertuig;Huishoudensgrootte: 3 personen;2015;805300;87.2;88300;9.6
+66;Minimaal één voertuig;Huishoudensgrootte: 4 personen;2010;906900;93.4;109800;11.3
+67;Minimaal één voertuig;Huishoudensgrootte: 4 personen;2011;907500;93.5;109800;11.3
+68;Minimaal één voertuig;Huishoudensgrootte: 4 personen;2012;909700;93.6;109200;11.2
+69;Minimaal één voertuig;Huishoudensgrootte: 4 personen;2013;906300;93.6;107600;11.1
+70;Minimaal één voertuig;Huishoudensgrootte: 4 personen;2014;900200;93.4;104400;10.8
+71;Minimaal één voertuig;Huishoudensgrootte: 4 personen;2015;897000;93.3;101500;10.6
+72;Minimaal één voertuig;Huishoudensgrootte: 5 of meer personen;2010;395200;91.5;41200;9.6
+73;Minimaal één voertuig;Huishoudensgrootte: 5 of meer personen;2011;382900;91.7;39900;9.6
+74;Minimaal één voertuig;Huishoudensgrootte: 5 of meer personen;2012;381500;91.9;39400;9.5
+75;Minimaal één voertuig;Huishoudensgrootte: 5 of meer personen;2013;376800;91.9;38300;9.3
+76;Minimaal één voertuig;Huishoudensgrootte: 5 of meer personen;2014;369000;91.5;36700;9.1
+77;Minimaal één voertuig;Huishoudensgrootte: 5 of meer personen;2015;366600;91.4;35600;8.9
+78;Minimaal één voertuig;Gestandaardiseerd inkomen: 1e 20%-groep;2010;525600;38.1;32200;2.3
+79;Minimaal één voertuig;Gestandaardiseerd inkomen: 1e 20%-groep;2011;541100;38.9;34300;2.5
+80;Minimaal één voertuig;Gestandaardiseerd inkomen: 1e 20%-groep;2012;534500;38.2;32800;2.3
+81;Minimaal één voertuig;Gestandaardiseerd inkomen: 1e 20%-groep;2013;543100;38.3;35000;2.5
+82;Minimaal één voertuig;Gestandaardiseerd inkomen: 1e 20%-groep;2014;537300;38.2;34700;2.5
+83;Minimaal één voertuig;Gestandaardiseerd inkomen: 1e 20%-groep;2015;540900;38.0;34700;2.4
+84;Minimaal één voertuig;Gestandaardiseerd inkomen: 2e 20%-groep;2010;893500;61.5;53300;3.7
+85;Minimaal één voertuig;Gestandaardiseerd inkomen: 2e 20%-groep;2011;896500;61.0;51700;3.5
+86;Minimaal één voertuig;Gestandaardiseerd inkomen: 2e 20%-groep;2012;906000;61.3;52100;3.5
+87;Minimaal één voertuig;Gestandaardiseerd inkomen: 2e 20%-groep;2013;909000;61.2;52900;3.6
+88;Minimaal één voertuig;Gestandaardiseerd inkomen: 2e 20%-groep;2014;907600;61.0;51000;3.4
+89;Minimaal één voertuig;Gestandaardiseerd inkomen: 2e 20%-groep;2015;907600;60.5;49300;3.3
+90;Minimaal één voertuig;Gestandaardiseerd inkomen: 3e 20%-groep;2010;1166000;79.0;97500;6.6
+91;Minimaal één voertuig;Gestandaardiseerd inkomen: 3e 20%-groep;2011;1175800;78.7;97300;6.5
+92;Minimaal één voertuig;Gestandaardiseerd inkomen: 3e 20%-groep;2012;1191900;79.3;98000;6.5
+93;Minimaal één voertuig;Gestandaardiseerd inkomen: 3e 20%-groep;2013;1196600;79.2;97600;6.5
+94;Minimaal één voertuig;Gestandaardiseerd inkomen: 3e 20%-groep;2014;1202800;79.2;96000;6.3
+95;Minimaal één voertuig;Gestandaardiseerd inkomen: 3e 20%-groep;2015;1210600;79.0;94300;6.2
+96;Minimaal één voertuig;Gestandaardiseerd inkomen: 4e 20%-groep;2010;1302000;87.8;134500;9.1
+97;Minimaal één voertuig;Gestandaardiseerd inkomen: 4e 20%-groep;2011;1317700;87.7;135700;9.0
+98;Minimaal één voertuig;Gestandaardiseerd inkomen: 4e 20%-groep;2012;1331600;88.1;138000;9.1
+99;Minimaal één voertuig;Gestandaardiseerd inkomen: 4e 20%-groep;2013;1337800;88.0;137000;9.0
+100;Minimaal één voertuig;Gestandaardiseerd inkomen: 4e 20%-groep;2014;1345400;88.0;137900;9.0
+101;Minimaal één voertuig;Gestandaardiseerd inkomen: 4e 20%-groep;2015;1357400;88.0;138100;9.0
+102;Minimaal één voertuig;Gestandaardiseerd inkomen: 5e 20%-groep;2010;1375100;92.5;152600;10.3
+103;Minimaal één voertuig;Gestandaardiseerd inkomen: 5e 20%-groep;2011;1390700;92.3;157100;10.4
+104;Minimaal één voertuig;Gestandaardiseerd inkomen: 5e 20%-groep;2012;1406000;92.8;160200;10.6
+105;Minimaal één voertuig;Gestandaardiseerd inkomen: 5e 20%-groep;2013;1416000;92.8;160800;10.5
+106;Minimaal één voertuig;Gestandaardiseerd inkomen: 5e 20%-groep;2014;1425400;92.8;163200;10.6
+107;Minimaal één voertuig;Gestandaardiseerd inkomen: 5e 20%-groep;2015;1437100;92.8;163700;10.6
+108;Minimaal één voertuig;Gestandaardiseerd inkomen: onbekend;2010;12200;13.6;1000;1.1
+109;Minimaal één voertuig;Gestandaardiseerd inkomen: onbekend;2011;13100;11.6;1100;1.0
+110;Minimaal één voertuig;Gestandaardiseerd inkomen: onbekend;2012;11400;9.7;900;0.8
+111;Minimaal één voertuig;Gestandaardiseerd inkomen: onbekend;2013;12700;10.5;1000;0.8
+112;Minimaal één voertuig;Gestandaardiseerd inkomen: onbekend;2014;14300;11.6;1200;1.0
+113;Minimaal één voertuig;Gestandaardiseerd inkomen: onbekend;2015;17800;13.4;1700;1.3
+114;Minimaal één voertuig;Bron: 1 Inkomen uit arbeid;2010;3170300;80.9;337800;8.6
+115;Minimaal één voertuig;Bron: 1 Inkomen uit arbeid;2011;3148200;80.8;336700;8.6
+116;Minimaal één voertuig;Bron: 1 Inkomen uit arbeid;2012;3148200;81.2;337100;8.7
+117;Minimaal één voertuig;Bron: 1 Inkomen uit arbeid;2013;3122600;81.2;334500;8.7
+118;Minimaal één voertuig;Bron: 1 Inkomen uit arbeid;2014;3069600;80.5;329000;8.6
+119;Minimaal één voertuig;Bron: 1 Inkomen uit arbeid;2015;3070900;80.4;325700;8.5
+120;Minimaal één voertuig;Bron: 2 Inkomen uit eigen onderneming;2010;700300;84.4;90700;10.9
+121;Minimaal één voertuig;Bron: 2 Inkomen uit eigen onderneming;2011;715700;83.9;93000;10.9
+122;Minimaal één voertuig;Bron: 2 Inkomen uit eigen onderneming;2012;729400;84.1;95100;11.0
+123;Minimaal één voertuig;Bron: 2 Inkomen uit eigen onderneming;2013;754300;84.1;97200;10.8
+124;Minimaal één voertuig;Bron: 2 Inkomen uit eigen onderneming;2014;775800;83.9;99100;10.7
+125;Minimaal één voertuig;Bron: 2 Inkomen uit eigen onderneming;2015;767300;84.2;97300;10.7
+126;Minimaal één voertuig;Bron: 3 Overdrachtsinkomen;2010;1391500;55.0;41700;1.6
+127;Minimaal één voertuig;Bron: 3 Overdrachtsinkomen;2011;1458000;55.8;46500;1.8
+128;Minimaal één voertuig;Bron: 3 Overdrachtsinkomen;2012;1492300;56.0;49000;1.8
+129;Minimaal één voertuig;Bron: 3 Overdrachtsinkomen;2013;1525600;56.1;51700;1.9
+130;Minimaal één voertuig;Bron: 3 Overdrachtsinkomen;2014;1573100;57.4;54700;2.0
+131;Minimaal één voertuig;Bron: 3 Overdrachtsinkomen;2015;1615400;57.4;57200;2.0
+132;Minimaal één voertuig;Bron: 31 Uitkering inkomensverzekering;2010;1302100;63.0;38300;1.9
+133;Minimaal één voertuig;Bron: 31 Uitkering inkomensverzekering;2011;1359600;63.9;42700;2.0
+134;Minimaal één voertuig;Bron: 31 Uitkering inkomensverzekering;2012;1391100;64.5;44900;2.1
+135;Minimaal één voertuig;Bron: 31 Uitkering inkomensverzekering;2013;1424600;64.8;47400;2.2
+136;Minimaal één voertuig;Bron: 31 Uitkering inkomensverzekering;2014;1467900;65.7;50600;2.3
+137;Minimaal één voertuig;Bron: 31 Uitkering inkomensverzekering;2015;1501100;66.1;52700;2.3
+138;Minimaal één voertuig;Bron: 32 Uitkering sociale voorziening;2010;81700;18.0;3200;0.7
+139;Minimaal één voertuig;Bron: 32 Uitkering sociale voorziening;2011;90700;19.2;3600;0.8
+140;Minimaal één voertuig;Bron: 32 Uitkering sociale voorziening;2012;93400;18.8;4000;0.8
+141;Minimaal één voertuig;Bron: 32 Uitkering sociale voorziening;2013;93600;18.4;4100;0.8
+142;Minimaal één voertuig;Bron: 32 Uitkering sociale voorziening;2014;97600;19.6;4000;0.8
+143;Minimaal één voertuig;Bron: 32 Uitkering sociale voorziening;2015;107100;20.1;4400;0.8
+144;Minimaal één voertuig;Bron: 33 Overig overdrachtsinkomen;2010;7700;71.4;100;1.0
+145;Minimaal één voertuig;Bron: 33 Overig overdrachtsinkomen;2011;7800;71.4;100;1.1
+146;Minimaal één voertuig;Bron: 33 Overig overdrachtsinkomen;2012;7900;72.5;200;1.4
+147;Minimaal één voertuig;Bron: 33 Overig overdrachtsinkomen;2013;7400;70.9;100;1.4
+148;Minimaal één voertuig;Bron: 33 Overig overdrachtsinkomen;2014;7500;68.4;100;1.3
+149;Minimaal één voertuig;Bron: 33 Overig overdrachtsinkomen;2015;7100;69.8;100;1.3
+150;Minimaal één voertuig;Bron: 4 Zonder bekend inkomen;2010;12200;13.6;1000;1.1
+151;Minimaal één voertuig;Bron: 4 Zonder bekend inkomen;2011;13100;11.6;1100;1.0
+152;Minimaal één voertuig;Bron: 4 Zonder bekend inkomen;2012;11400;9.7;900;0.8
+153;Minimaal één voertuig;Bron: 4 Zonder bekend inkomen;2013;12700;10.5;1000;0.8
+154;Minimaal één voertuig;Bron: 4 Zonder bekend inkomen;2014;14300;11.6;1200;1.0
+155;Minimaal één voertuig;Bron: 4 Zonder bekend inkomen;2015;17800;13.4;1700;1.3
+156;Minimaal één voertuig;Stedelijkheid: zeer sterk stedelijk;2010;860100;52.4;53700;3.3
+157;Minimaal één voertuig;Stedelijkheid: zeer sterk stedelijk;2011;888700;52.2;56500;3.3
+158;Minimaal één voertuig;Stedelijkheid: zeer sterk stedelijk;2012;897100;52.3;57600;3.4
+159;Minimaal één voertuig;Stedelijkheid: zeer sterk stedelijk;2013;900200;52.0;58400;3.4
+160;Minimaal één voertuig;Stedelijkheid: zeer sterk stedelijk;2014;941300;52.5;62100;3.5
+161;Minimaal één voertuig;Stedelijkheid: zeer sterk stedelijk;2015;1000900;52.6;65900;3.5
+162;Minimaal één voertuig;Stedelijkheid: sterk stedelijk;2010;1495800;70.4;121100;5.7
+163;Minimaal één voertuig;Stedelijkheid: sterk stedelijk;2011;1485700;70.1;121100;5.7
+164;Minimaal één voertuig;Stedelijkheid: sterk stedelijk;2012;1506900;70.3;122700;5.7
+165;Minimaal één voertuig;Stedelijkheid: sterk stedelijk;2013;1515700;70.2;123400;5.7
+166;Minimaal één voertuig;Stedelijkheid: sterk stedelijk;2014;1476900;70.1;120300;5.7
+167;Minimaal één voertuig;Stedelijkheid: sterk stedelijk;2015;1711000;71.2;140700;5.9
+168;Minimaal één voertuig;Stedelijkheid: matig stedelijk;2010;1038100;78.3;93100;7.0
+169;Minimaal één voertuig;Stedelijkheid: matig stedelijk;2011;1063500;78.3;95100;7.0
+170;Minimaal één voertuig;Stedelijkheid: matig stedelijk;2012;1136200;78.6;101700;7.0
+171;Minimaal één voertuig;Stedelijkheid: matig stedelijk;2013;1125700;78.5;100800;7.0
+172;Minimaal één voertuig;Stedelijkheid: matig stedelijk;2014;1165700;78.7;103500;7.0
+173;Minimaal één voertuig;Stedelijkheid: matig stedelijk;2015;998600;79.6;88400;7.0
+174;Minimaal één voertuig;Stedelijkheid: Weinig stedelijk;2010;1182300;82.7;122100;8.5
+175;Minimaal één voertuig;Stedelijkheid: Weinig stedelijk;2011;1208300;82.5;125500;8.6
+176;Minimaal één voertuig;Stedelijkheid: Weinig stedelijk;2012;1217800;82.6;127400;8.6
+177;Minimaal één voertuig;Stedelijkheid: Weinig stedelijk;2013;1267700;82.6;131500;8.6
+178;Minimaal één voertuig;Stedelijkheid: Weinig stedelijk;2014;1250700;82.9;128800;8.5
+179;Minimaal één voertuig;Stedelijkheid: Weinig stedelijk;2015;1237900;82.7;126700;8.5
+180;Minimaal één voertuig;Stedelijkheid: niet stedelijk;2010;653800;83.6;76500;9.8
+181;Minimaal één voertuig;Stedelijkheid: niet stedelijk;2011;615600;83.6;72200;9.8
+182;Minimaal één voertuig;Stedelijkheid: niet stedelijk;2012;622800;83.7;72700;9.8
+183;Minimaal één voertuig;Stedelijkheid: niet stedelijk;2013;605400;83.8;70300;9.7
+184;Minimaal één voertuig;Stedelijkheid: niet stedelijk;2014;597700;84.1;69100;9.7
+185;Minimaal één voertuig;Stedelijkheid: niet stedelijk;2015;522700;84.4;60100;9.7
+186;Minimaal één voertuig;Stedelijkheid: onbekend;2010;44300;69.1;4600;7.2
+187;Minimaal één voertuig;Stedelijkheid: onbekend;2011;73300;79.0;6800;7.3
+188;Minimaal één voertuig;Stedelijkheid: onbekend;2012;500;28.2;100;3.4
+189;Minimaal één voertuig;Stedelijkheid: onbekend;2013;500;36.3;100;4.4
+190;Minimaal één voertuig;Stedelijkheid: onbekend;2014;400;23.8;0;1.9
+191;Minimaal één voertuig;Stedelijkheid: onbekend;2015;400;23.2;0;2.1
+192;Eén voertuig;Particuliere huishoudens;2010;3618100;49.1;380500;5.2
+193;Eén voertuig;Particuliere huishoudens;2011;3655100;48.9;383800;5.1
+194;Eén voertuig;Particuliere huishoudens;2012;3654500;48.6;386000;5.1
+195;Eén voertuig;Particuliere huishoudens;2013;3659800;48.3;386700;5.1
+196;Eén voertuig;Particuliere huishoudens;2014;3679800;48.4;385800;5.1
+197;Eén voertuig;Particuliere huishoudens;2015;3702100;48.2;384100;5.0
+198;Eén voertuig;Type: Eenpersoonshuishouden;2010;1106500;41.3;69300;2.6
+199;Eén voertuig;Type: Eenpersoonshuishouden;2011;1146400;41.5;71300;2.6
+200;Eén voertuig;Type: Eenpersoonshuishouden;2012;1153100;41.8;71100;2.6
+201;Eén voertuig;Type: Eenpersoonshuishouden;2013;1172700;41.8;72300;2.6
+202;Eén voertuig;Type: Eenpersoonshuishouden;2014;1186000;42.3;73200;2.6
+203;Eén voertuig;Type: Eenpersoonshuishouden;2015;1209700;42.2;74000;2.6
+204;Eén voertuig;Type: Meerpersoonshuishouden;2010;2511600;53.5;311300;6.6
+205;Eén voertuig;Type: Meerpersoonshuishouden;2011;2508700;53.2;312500;6.6
+206;Eén voertuig;Type: Meerpersoonshuishouden;2012;2501300;52.6;315000;6.6
+207;Eén voertuig;Type: Meerpersoonshuishouden;2013;2487000;52.2;314400;6.6
+208;Eén voertuig;Type: Meerpersoonshuishouden;2014;2493600;52.1;312600;6.5
+209;Eén voertuig;Type: Meerpersoonshuishouden;2015;2492300;52.0;310100;6.5
+210;Eén voertuig;Type: Eenoudergezin;2010;232400;50.3;14400;3.1
+211;Eén voertuig;Type: Eenoudergezin;2011;250000;50.5;16100;3.2
+212;Eén voertuig;Type: Eenoudergezin;2012;257000;50.9;16700;3.3
+213;Eén voertuig;Type: Eenoudergezin;2013;263800;51.1;17100;3.3
+214;Eén voertuig;Type: Eenoudergezin;2014;271700;51.2;17600;3.3
+215;Eén voertuig;Type: Eenoudergezin;2015;276600;51.3;17700;3.3
+216;Eén voertuig;Type: Paar, totaal;2010;2248300;54.2;293400;7.1
+217;Eén voertuig;Type: Paar, totaal;2011;2238700;53.8;294300;7.1
+218;Eén voertuig;Type: Paar, totaal;2012;2224600;53.1;296100;7.1
+219;Eén voertuig;Type: Paar, totaal;2013;2203900;52.5;295100;7.0
+220;Eén voertuig;Type: Paar, totaal;2014;2203100;52.4;292700;7.0
+221;Eén voertuig;Type: Paar, totaal;2015;2196700;52.3;289900;6.9
+222;Eén voertuig;Type: Paar, met kind(eren);2010;934100;46.8;178500;8.9
+223;Eén voertuig;Type: Paar, met kind(eren);2011;939800;46.0;182100;8.9
+224;Eén voertuig;Type: Paar, met kind(eren);2012;923500;45.2;181100;8.9
+225;Eén voertuig;Type: Paar, met kind(eren);2013;904500;44.4;178500;8.8
+226;Eén voertuig;Type: Paar, met kind(eren);2014;898800;44.3;174200;8.6
+227;Eén voertuig;Type: Paar, met kind(eren);2015;890300;44.0;170300;8.4
+228;Eén voertuig;Type: Paar, zonder kind;2010;1314200;61.1;115000;5.3
+229;Eén voertuig;Type: Paar, zonder kind;2011;1298900;61.3;112200;5.3
+230;Eén voertuig;Type: Paar, zonder kind;2012;1301100;60.6;115000;5.4
+231;Eén voertuig;Type: Paar, zonder kind;2013;1299300;60.2;116600;5.4
+232;Eén voertuig;Type: Paar, zonder kind;2014;1304300;60.1;118500;5.5
+233;Eén voertuig;Type: Paar, zonder kind;2015;1306400;59.9;119600;5.5
+234;Eén voertuig;Type: Meerpersoonshuishouden, overig;2010;30900;38.2;3500;4.3
+235;Eén voertuig;Type: Meerpersoonshuishouden, overig;2011;20000;36.0;2200;3.9
+236;Eén voertuig;Type: Meerpersoonshuishouden, overig;2012;19700;35.5;2200;4.0
+237;Eén voertuig;Type: Meerpersoonshuishouden, overig;2013;19400;35.5;2200;4.1
+238;Eén voertuig;Type: Meerpersoonshuishouden, overig;2014;18800;35.0;2300;4.2
+239;Eén voertuig;Type: Meerpersoonshuishouden, overig;2015;19000;34.7;2500;4.6
+240;Eén voertuig;Huishoudensgrootte: 1 persoon;2010;1106500;41.3;69300;2.6
+241;Eén voertuig;Huishoudensgrootte: 1 persoon;2011;1146400;41.5;71300;2.6
+242;Eén voertuig;Huishoudensgrootte: 1 persoon;2012;1153200;41.6;71100;2.6
+243;Eén voertuig;Huishoudensgrootte: 1 persoon;2013;1172800;41.7;72300;2.6
+244;Eén voertuig;Huishoudensgrootte: 1 persoon;2014;1186200;42.1;73200;2.6
+245;Eén voertuig;Huishoudensgrootte: 1 persoon;2015;1209900;42.0;74000;2.6
+246;Eén voertuig;Huishoudensgrootte: 2 personen;2010;1436200;60.3;119200;5.0
+247;Eén voertuig;Huishoudensgrootte: 2 personen;2011;1451000;59.9;122200;5.0
+248;Eén voertuig;Huishoudensgrootte: 2 personen;2012;1458200;59.4;125400;5.1
+249;Eén voertuig;Huishoudensgrootte: 2 personen;2013;1461600;59.1;127400;5.1
+250;Eén voertuig;Huishoudensgrootte: 2 personen;2014;1472000;58.9;129800;5.2
+251;Eén voertuig;Huishoudensgrootte: 2 personen;2015;1477400;58.8;130800;5.2
+252;Eén voertuig;Huishoudensgrootte: 3 personen;2010;420400;46.4;68900;7.6
+253;Eén voertuig;Huishoudensgrootte: 3 personen;2011;418700;46.4;68800;7.6
+254;Eén voertuig;Huishoudensgrootte: 3 personen;2012;415500;45.7;69500;7.6
+255;Eén voertuig;Huishoudensgrootte: 3 personen;2013;413100;45.2;69500;7.6
+256;Eén voertuig;Huishoudensgrootte: 3 personen;2014;414900;45.1;69200;7.5
+257;Eén voertuig;Huishoudensgrootte: 3 personen;2015;414500;44.9;68800;7.5
+258;Eén voertuig;Huishoudensgrootte: 4 personen;2010;460500;47.4;89900;9.3
+259;Eén voertuig;Huishoudensgrootte: 4 personen;2011;452000;46.6;89300;9.2
+260;Eén voertuig;Huishoudensgrootte: 4 personen;2012;444600;45.8;88500;9.1
+261;Eén voertuig;Huishoudensgrootte: 4 personen;2013;434100;44.8;86900;9.0
+262;Eén voertuig;Huishoudensgrootte: 4 personen;2014;431200;44.7;84100;8.7
+263;Eén voertuig;Huishoudensgrootte: 4 personen;2015;426300;44.4;82000;8.5
+264;Eén voertuig;Huishoudensgrootte: 5 of meer personen;2010;194600;45.1;33400;7.7
+265;Eén voertuig;Huishoudensgrootte: 5 of meer personen;2011;187000;44.8;32200;7.7
+266;Eén voertuig;Huishoudensgrootte: 5 of meer personen;2012;183000;44.1;31700;7.6
+267;Eén voertuig;Huishoudensgrootte: 5 of meer personen;2013;178200;43.5;30700;7.5
+268;Eén voertuig;Huishoudensgrootte: 5 of meer personen;2014;175500;43.5;29500;7.3
+269;Eén voertuig;Huishoudensgrootte: 5 of meer personen;2015;174100;43.4;28500;7.1
+270;Eén voertuig;Gestandaardiseerd inkomen: 1e 20%-groep;2010;438000;31.7;26300;1.9
+271;Eén voertuig;Gestandaardiseerd inkomen: 1e 20%-groep;2011;447800;32.2;27900;2.0
+272;Eén voertuig;Gestandaardiseerd inkomen: 1e 20%-groep;2012;442100;31.6;26600;1.9
+273;Eén voertuig;Gestandaardiseerd inkomen: 1e 20%-groep;2013;447700;31.6;28400;2.0
+274;Eén voertuig;Gestandaardiseerd inkomen: 1e 20%-groep;2014;446600;31.7;28300;2.0
+275;Eén voertuig;Gestandaardiseerd inkomen: 1e 20%-groep;2015;447900;31.5;28300;2.0
+276;Eén voertuig;Gestandaardiseerd inkomen: 2e 20%-groep;2010;757900;52.2;44600;3.1
+277;Eén voertuig;Gestandaardiseerd inkomen: 2e 20%-groep;2011;758200;51.6;43000;2.9
+278;Eén voertuig;Gestandaardiseerd inkomen: 2e 20%-groep;2012;764100;51.7;43300;2.9
+279;Eén voertuig;Gestandaardiseerd inkomen: 2e 20%-groep;2013;763500;51.4;43700;2.9
+280;Eén voertuig;Gestandaardiseerd inkomen: 2e 20%-groep;2014;766600;51.5;42100;2.8
+281;Eén voertuig;Gestandaardiseerd inkomen: 2e 20%-groep;2015;766600;51.1;40600;2.7
+282;Eén voertuig;Gestandaardiseerd inkomen: 3e 20%-groep;2010;891100;60.4;81100;5.5
+283;Eén voertuig;Gestandaardiseerd inkomen: 3e 20%-groep;2011;895800;60.0;80600;5.4
+284;Eén voertuig;Gestandaardiseerd inkomen: 3e 20%-groep;2012;903100;60.1;80900;5.4
+285;Eén voertuig;Gestandaardiseerd inkomen: 3e 20%-groep;2013;903300;59.8;80400;5.3
+286;Eén voertuig;Gestandaardiseerd inkomen: 3e 20%-groep;2014;912800;60.1;78900;5.2
+287;Eén voertuig;Gestandaardiseerd inkomen: 3e 20%-groep;2015;918600;59.9;77600;5.1
+288;Eén voertuig;Gestandaardiseerd inkomen: 4e 20%-groep;2010;837000;56.4;109000;7.4
+289;Eén voertuig;Gestandaardiseerd inkomen: 4e 20%-groep;2011;846700;56.4;109700;7.3
+290;Eén voertuig;Gestandaardiseerd inkomen: 4e 20%-groep;2012;846800;56.0;111100;7.4
+291;Eén voertuig;Gestandaardiseerd inkomen: 4e 20%-groep;2013;849500;55.9;110100;7.2
+292;Eén voertuig;Gestandaardiseerd inkomen: 4e 20%-groep;2014;854800;55.9;110500;7.2
+293;Eén voertuig;Gestandaardiseerd inkomen: 4e 20%-groep;2015;860900;55.8;110800;7.2
+294;Eén voertuig;Gestandaardiseerd inkomen: 5e 20%-groep;2010;684000;46.0;118600;8.0
+295;Eén voertuig;Gestandaardiseerd inkomen: 5e 20%-groep;2011;695600;46.2;121600;8.1
+296;Eén voertuig;Gestandaardiseerd inkomen: 5e 20%-groep;2012;688700;45.4;123300;8.1
+297;Eén voertuig;Gestandaardiseerd inkomen: 5e 20%-groep;2013;685200;44.9;123300;8.1
+298;Eén voertuig;Gestandaardiseerd inkomen: 5e 20%-groep;2014;686700;44.7;125000;8.1
+299;Eén voertuig;Gestandaardiseerd inkomen: 5e 20%-groep;2015;693300;44.8;125400;8.1
+300;Eén voertuig;Gestandaardiseerd inkomen: onbekend;2010;10200;11.3;800;0.9
+301;Eén voertuig;Gestandaardiseerd inkomen: onbekend;2011;11000;9.8;900;0.8
+302;Eén voertuig;Gestandaardiseerd inkomen: onbekend;2012;9600;8.2;800;0.7
+303;Eén voertuig;Gestandaardiseerd inkomen: onbekend;2013;10800;8.9;800;0.7
+304;Eén voertuig;Gestandaardiseerd inkomen: onbekend;2014;12200;9.9;1000;0.8
+305;Eén voertuig;Gestandaardiseerd inkomen: onbekend;2015;14900;11.2;1400;1.1
+306;Eén voertuig;Bron: 1 Inkomen uit arbeid;2010;1986600;50.7;275700;7.0
+307;Eén voertuig;Bron: 1 Inkomen uit arbeid;2011;1964100;50.4;273700;7.0
+308;Eén voertuig;Bron: 1 Inkomen uit arbeid;2012;1938500;50.0;272700;7.0
+309;Eén voertuig;Bron: 1 Inkomen uit arbeid;2013;1904100;49.5;270000;7.0
+310;Eén voertuig;Bron: 1 Inkomen uit arbeid;2014;1873900;49.1;265000;6.9
+311;Eén voertuig;Bron: 1 Inkomen uit arbeid;2015;1866400;48.9;262400;6.9
+312;Eén voertuig;Bron: 2 Inkomen uit eigen onderneming;2010;400700;48.3;69600;8.4
+313;Eén voertuig;Bron: 2 Inkomen uit eigen onderneming;2011;408500;47.9;71000;8.3
+314;Eén voertuig;Bron: 2 Inkomen uit eigen onderneming;2012;412400;47.6;72400;8.4
+315;Eén voertuig;Bron: 2 Inkomen uit eigen onderneming;2013;425200;47.4;73700;8.2
+316;Eén voertuig;Bron: 2 Inkomen uit eigen onderneming;2014;437000;47.3;75300;8.1
+317;Eén voertuig;Bron: 2 Inkomen uit eigen onderneming;2015;431400;47.3;73700;8.1
+318;Eén voertuig;Bron: 3 Overdrachtsinkomen;2010;1220700;48.2;34300;1.4
+319;Eén voertuig;Bron: 3 Overdrachtsinkomen;2011;1271500;48.7;38100;1.5
+320;Eén voertuig;Bron: 3 Overdrachtsinkomen;2012;1294000;48.5;40100;1.5
+321;Eén voertuig;Bron: 3 Overdrachtsinkomen;2013;1319700;48.6;42200;1.6
+322;Eén voertuig;Bron: 3 Overdrachtsinkomen;2014;1356700;49.5;44600;1.6
+323;Eén voertuig;Bron: 3 Overdrachtsinkomen;2015;1389500;49.4;46600;1.7
+324;Eén voertuig;Bron: 31 Uitkering inkomensverzekering;2010;1138300;55.1;31400;1.5
+325;Eén voertuig;Bron: 31 Uitkering inkomensverzekering;2011;1181000;55.5;34900;1.6
+326;Eén voertuig;Bron: 31 Uitkering inkomensverzekering;2012;1200800;55.6;36500;1.7
+327;Eén voertuig;Bron: 31 Uitkering inkomensverzekering;2013;1226300;55.8;38500;1.8
+328;Eén voertuig;Bron: 31 Uitkering inkomensverzekering;2014;1259000;56.4;41000;1.8
+329;Eén voertuig;Bron: 31 Uitkering inkomensverzekering;2015;1283700;56.5;42700;1.9
+330;Eén voertuig;Bron: 32 Uitkering sociale voorziening;2010;75200;16.5;2800;0.6
+331;Eén voertuig;Bron: 32 Uitkering sociale voorziening;2011;83300;17.6;3200;0.7
+332;Eén voertuig;Bron: 32 Uitkering sociale voorziening;2012;85900;17.3;3400;0.7
+333;Eén voertuig;Bron: 32 Uitkering sociale voorziening;2013;86600;17.0;3600;0.7
+334;Eén voertuig;Bron: 32 Uitkering sociale voorziening;2014;90600;18.2;3400;0.7
+335;Eén voertuig;Bron: 32 Uitkering sociale voorziening;2015;99200;18.7;3800;0.7
+336;Eén voertuig;Bron: 33 Overig overdrachtsinkomen;2010;7200;66.7;100;0.8
+337;Eén voertuig;Bron: 33 Overig overdrachtsinkomen;2011;7200;66.5;100;0.9
+338;Eén voertuig;Bron: 33 Overig overdrachtsinkomen;2012;7400;67.4;100;1.2
+339;Eén voertuig;Bron: 33 Overig overdrachtsinkomen;2013;6900;65.7;100;1.2
+340;Eén voertuig;Bron: 33 Overig overdrachtsinkomen;2014;7000;63.6;100;1.2
+341;Eén voertuig;Bron: 33 Overig overdrachtsinkomen;2015;6600;64.7;100;1.2
+342;Eén voertuig;Bron: 4 Zonder bekend inkomen;2010;10200;11.3;800;0.9
+343;Eén voertuig;Bron: 4 Zonder bekend inkomen;2011;11000;9.8;900;0.8
+344;Eén voertuig;Bron: 4 Zonder bekend inkomen;2012;9600;8.2;800;0.7
+345;Eén voertuig;Bron: 4 Zonder bekend inkomen;2013;10800;8.9;800;0.7
+346;Eén voertuig;Bron: 4 Zonder bekend inkomen;2014;12200;9.9;1000;0.8
+347;Eén voertuig;Bron: 4 Zonder bekend inkomen;2015;14900;11.2;1400;1.1
+348;Eén voertuig;Stedelijkheid: zeer sterk stedelijk;2010;670000;40.8;44700;2.7
+349;Eén voertuig;Stedelijkheid: zeer sterk stedelijk;2011;694500;40.8;46800;2.7
+350;Eén voertuig;Stedelijkheid: zeer sterk stedelijk;2012;697100;40.6;47600;2.8
+351;Eén voertuig;Stedelijkheid: zeer sterk stedelijk;2013;698100;40.4;48300;2.8
+352;Eén voertuig;Stedelijkheid: zeer sterk stedelijk;2014;727900;40.6;51200;2.9
+353;Eén voertuig;Stedelijkheid: zeer sterk stedelijk;2015;773100;40.6;54200;2.8
+354;Eén voertuig;Stedelijkheid: sterk stedelijk;2010;1064900;50.1;99300;4.7
+355;Eén voertuig;Stedelijkheid: sterk stedelijk;2011;1056400;49.9;99100;4.7
+356;Eén voertuig;Stedelijkheid: sterk stedelijk;2012;1061900;49.6;99900;4.7
+357;Eén voertuig;Stedelijkheid: sterk stedelijk;2013;1063500;49.3;100200;4.6
+358;Eén voertuig;Stedelijkheid: sterk stedelijk;2014;1040000;49.3;97700;4.6
+359;Eén voertuig;Stedelijkheid: sterk stedelijk;2015;1190400;49.6;113900;4.7
+360;Eén voertuig;Stedelijkheid: matig stedelijk;2010;696300;52.5;75500;5.7
+361;Eén voertuig;Stedelijkheid: matig stedelijk;2011;710000;52.3;76700;5.6
+362;Eén voertuig;Stedelijkheid: matig stedelijk;2012;750200;51.9;81600;5.6
+363;Eén voertuig;Stedelijkheid: matig stedelijk;2013;738700;51.5;80600;5.6
+364;Eén voertuig;Stedelijkheid: matig stedelijk;2014;765600;51.7;82700;5.6
+365;Eén voertuig;Stedelijkheid: matig stedelijk;2015;648900;51.7;70600;5.6
+366;Eén voertuig;Stedelijkheid: Weinig stedelijk;2010;748800;52.4;97500;6.8
+367;Eén voertuig;Stedelijkheid: Weinig stedelijk;2011;763100;52.1;99500;6.8
+368;Eén voertuig;Stedelijkheid: Weinig stedelijk;2012;762000;51.7;100500;6.8
+369;Eén voertuig;Stedelijkheid: Weinig stedelijk;2013;789700;51.4;103300;6.7
+370;Eén voertuig;Stedelijkheid: Weinig stedelijk;2014;781400;51.8;101000;6.7
+371;Eén voertuig;Stedelijkheid: Weinig stedelijk;2015;773500;51.7;99100;6.6
+372;Eén voertuig;Stedelijkheid: niet stedelijk;2010;409500;52.4;60000;7.7
+373;Eén voertuig;Stedelijkheid: niet stedelijk;2011;382400;51.9;56300;7.6
+374;Eén voertuig;Stedelijkheid: niet stedelijk;2012;382900;51.5;56300;7.6
+375;Eén voertuig;Stedelijkheid: niet stedelijk;2013;369600;51.1;54200;7.5
+376;Eén voertuig;Stedelijkheid: niet stedelijk;2014;364500;51.3;53200;7.5
+377;Eén voertuig;Stedelijkheid: niet stedelijk;2015;315900;51.0;46200;7.5
+378;Eén voertuig;Stedelijkheid: onbekend;2010;28600;44.6;3600;5.7
+379;Eén voertuig;Stedelijkheid: onbekend;2011;48600;52.4;5400;5.9
+380;Eén voertuig;Stedelijkheid: onbekend;2012;400;21.7;100;2.6
+381;Eén voertuig;Stedelijkheid: onbekend;2013;400;28.0;100;4.0
+382;Eén voertuig;Stedelijkheid: onbekend;2014;300;18.5;0;1.4
+383;Eén voertuig;Stedelijkheid: onbekend;2015;300;17.7;0;1.6
+384;Twee voertuigen;Particuliere huishoudens;2010;1359300;18.4;67700;0.9
+385;Twee voertuigen;Particuliere huishoudens;2011;1376000;18.4;69200;0.9
+386;Twee voertuigen;Particuliere huishoudens;2012;1410000;18.7;70700;0.9
+387;Twee voertuigen;Particuliere huishoudens;2013;1433000;18.9;71600;0.9
+388;Twee voertuigen;Particuliere huishoudens;2014;1432700;18.8;71700;0.9
+389;Twee voertuigen;Particuliere huishoudens;2015;1443200;18.8;71200;0.9
+390;Twee voertuigen;Type: Eenpersoonshuishouden;2010;62000;2.3;8800;0.3
+391;Twee voertuigen;Type: Eenpersoonshuishouden;2011;66000;2.4;9200;0.3
+392;Twee voertuigen;Type: Eenpersoonshuishouden;2012;66000;2.4;9500;0.3
+393;Twee voertuigen;Type: Eenpersoonshuishouden;2013;68200;2.4;9800;0.3
+394;Twee voertuigen;Type: Eenpersoonshuishouden;2014;68000;2.4;9900;0.4
+395;Twee voertuigen;Type: Eenpersoonshuishouden;2015;71600;2.5;10200;0.4
+396;Twee voertuigen;Type: Meerpersoonshuishouden;2010;1297200;27.7;58900;1.3
+397;Twee voertuigen;Type: Meerpersoonshuishouden;2011;1310000;27.8;60000;1.3
+398;Twee voertuigen;Type: Meerpersoonshuishouden;2012;1344000;28.3;61200;1.3
+399;Twee voertuigen;Type: Meerpersoonshuishouden;2013;1364800;28.6;61900;1.3
+400;Twee voertuigen;Type: Meerpersoonshuishouden;2014;1364700;28.5;61700;1.3
+401;Twee voertuigen;Type: Meerpersoonshuishouden;2015;1371600;28.6;61100;1.3
+402;Twee voertuigen;Type: Eenoudergezin;2010;47700;10.3;2100;0.5
+403;Twee voertuigen;Type: Eenoudergezin;2011;52000;10.5;2400;0.5
+404;Twee voertuigen;Type: Eenoudergezin;2012;53800;10.7;2500;0.5
+405;Twee voertuigen;Type: Eenoudergezin;2013;54700;10.6;2600;0.5
+406;Twee voertuigen;Type: Eenoudergezin;2014;54500;10.3;2700;0.5
+407;Twee voertuigen;Type: Eenoudergezin;2015;55900;10.4;2700;0.5
+408;Twee voertuigen;Type: Paar, totaal;2010;1233000;29.7;56100;1.4
+409;Twee voertuigen;Type: Paar, totaal;2011;1247400;30.0;57100;1.4
+410;Twee voertuigen;Type: Paar, totaal;2012;1279400;30.5;58200;1.4
+411;Twee voertuigen;Type: Paar, totaal;2013;1299400;31.0;58800;1.4
+412;Twee voertuigen;Type: Paar, totaal;2014;1299800;30.9;58600;1.4
+413;Twee voertuigen;Type: Paar, totaal;2015;1304700;31.0;57800;1.4
+414;Twee voertuigen;Type: Paar, met kind(eren);2010;746600;37.4;31700;1.6
+415;Twee voertuigen;Type: Paar, met kind(eren);2011;772600;37.8;33000;1.6
+416;Twee voertuigen;Type: Paar, met kind(eren);2012;786900;38.5;33500;1.6
+417;Twee voertuigen;Type: Paar, met kind(eren);2013;796900;39.1;33500;1.6
+418;Twee voertuigen;Type: Paar, met kind(eren);2014;793100;39.1;32900;1.6
+419;Twee voertuigen;Type: Paar, met kind(eren);2015;792200;39.1;32200;1.6
+420;Twee voertuigen;Type: Paar, zonder kind;2010;486400;22.6;24400;1.1
+421;Twee voertuigen;Type: Paar, zonder kind;2011;474800;22.4;24000;1.1
+422;Twee voertuigen;Type: Paar, zonder kind;2012;492500;23.0;24700;1.2
+423;Twee voertuigen;Type: Paar, zonder kind;2013;502500;23.3;25200;1.2
+424;Twee voertuigen;Type: Paar, zonder kind;2014;506700;23.3;25700;1.2
+425;Twee voertuigen;Type: Paar, zonder kind;2015;512500;23.5;25600;1.2
+426;Twee voertuigen;Type: Meerpersoonshuishouden, overig;2010;16600;20.5;700;0.9
+427;Twee voertuigen;Type: Meerpersoonshuishouden, overig;2011;10600;19.2;500;0.9
+428;Twee voertuigen;Type: Meerpersoonshuishouden, overig;2012;10800;19.5;500;0.9
+429;Twee voertuigen;Type: Meerpersoonshuishouden, overig;2013;10700;19.6;500;0.9
+430;Twee voertuigen;Type: Meerpersoonshuishouden, overig;2014;10300;19.2;500;0.9
+431;Twee voertuigen;Type: Meerpersoonshuishouden, overig;2015;11100;20.2;500;1.0
+432;Twee voertuigen;Huishoudensgrootte: 1 persoon;2010;62000;2.3;8800;0.3
+433;Twee voertuigen;Huishoudensgrootte: 1 persoon;2011;66000;2.4;9200;0.3
+434;Twee voertuigen;Huishoudensgrootte: 1 persoon;2012;66000;2.4;9500;0.3
+435;Twee voertuigen;Huishoudensgrootte: 1 persoon;2013;68200;2.4;9800;0.3
+436;Twee voertuigen;Huishoudensgrootte: 1 persoon;2014;68100;2.4;9900;0.4
+437;Twee voertuigen;Huishoudensgrootte: 1 persoon;2015;71600;2.5;10200;0.4
+438;Twee voertuigen;Huishoudensgrootte: 2 personen;2010;494400;20.8;24500;1.0
+439;Twee voertuigen;Huishoudensgrootte: 2 personen;2011;504700;20.9;25400;1.1
+440;Twee voertuigen;Huishoudensgrootte: 2 personen;2012;523600;21.3;26200;1.1
+441;Twee voertuigen;Huishoudensgrootte: 2 personen;2013;534200;21.6;26800;1.1
+442;Twee voertuigen;Huishoudensgrootte: 2 personen;2014;538700;21.6;27300;1.1
+443;Twee voertuigen;Huishoudensgrootte: 2 personen;2015;545000;21.7;27300;1.1
+444;Twee voertuigen;Huishoudensgrootte: 3 personen;2010;295800;32.6;13500;1.5
+445;Twee voertuigen;Huishoudensgrootte: 3 personen;2011;295800;32.8;13500;1.5
+446;Twee voertuigen;Huishoudensgrootte: 3 personen;2012;301800;33.2;13900;1.5
+447;Twee voertuigen;Huishoudensgrootte: 3 personen;2013;305400;33.4;14200;1.5
+448;Twee voertuigen;Huishoudensgrootte: 3 personen;2014;305200;33.2;14300;1.6
+449;Twee voertuigen;Huishoudensgrootte: 3 personen;2015;306600;33.2;14300;1.5
+450;Twee voertuigen;Huishoudensgrootte: 4 personen;2010;359100;37.0;15100;1.6
+451;Twee voertuigen;Huishoudensgrootte: 4 personen;2011;364800;37.6;15400;1.6
+452;Twee voertuigen;Huishoudensgrootte: 4 personen;2012;372200;38.3;15500;1.6
+453;Twee voertuigen;Huishoudensgrootte: 4 personen;2013;378200;39.1;15400;1.6
+454;Twee voertuigen;Huishoudensgrootte: 4 personen;2014;376700;39.1;15000;1.6
+455;Twee voertuigen;Huishoudensgrootte: 4 personen;2015;377000;39.2;14500;1.5
+456;Twee voertuigen;Huishoudensgrootte: 5 of meer personen;2010;148000;34.3;5800;1.3
+457;Twee voertuigen;Huishoudensgrootte: 5 of meer personen;2011;144700;34.7;5600;1.4
+458;Twee voertuigen;Huishoudensgrootte: 5 of meer personen;2012;146400;35.3;5600;1.3
+459;Twee voertuigen;Huishoudensgrootte: 5 of meer personen;2013;147000;35.8;5500;1.3
+460;Twee voertuigen;Huishoudensgrootte: 5 of meer personen;2014;144200;35.8;5200;1.3
+461;Twee voertuigen;Huishoudensgrootte: 5 of meer personen;2015;142900;35.6;5100;1.3
+462;Twee voertuigen;Gestandaardiseerd inkomen: 1e 20%-groep;2010;70400;5.1;4300;0.3
+463;Twee voertuigen;Gestandaardiseerd inkomen: 1e 20%-groep;2011;75200;5.4;4500;0.3
+464;Twee voertuigen;Gestandaardiseerd inkomen: 1e 20%-groep;2012;73100;5.2;4300;0.3
+465;Twee voertuigen;Gestandaardiseerd inkomen: 1e 20%-groep;2013;75500;5.3;4700;0.3
+466;Twee voertuigen;Gestandaardiseerd inkomen: 1e 20%-groep;2014;72600;5.2;4500;0.3
+467;Twee voertuigen;Gestandaardiseerd inkomen: 1e 20%-groep;2015;74300;5.2;4600;0.3
+468;Twee voertuigen;Gestandaardiseerd inkomen: 2e 20%-groep;2010;118000;8.1;6400;0.4
+469;Twee voertuigen;Gestandaardiseerd inkomen: 2e 20%-groep;2011;119500;8.1;6300;0.4
+470;Twee voertuigen;Gestandaardiseerd inkomen: 2e 20%-groep;2012;122200;8.3;6400;0.4
+471;Twee voertuigen;Gestandaardiseerd inkomen: 2e 20%-groep;2013;124800;8.4;6700;0.5
+472;Twee voertuigen;Gestandaardiseerd inkomen: 2e 20%-groep;2014;121000;8.1;6400;0.4
+473;Twee voertuigen;Gestandaardiseerd inkomen: 2e 20%-groep;2015;120400;8.0;6300;0.4
+474;Twee voertuigen;Gestandaardiseerd inkomen: 3e 20%-groep;2010;239600;16.2;12400;0.8
+475;Twee voertuigen;Gestandaardiseerd inkomen: 3e 20%-groep;2011;242900;16.3;12500;0.8
+476;Twee voertuigen;Gestandaardiseerd inkomen: 3e 20%-groep;2012;250100;16.6;12700;0.8
+477;Twee voertuigen;Gestandaardiseerd inkomen: 3e 20%-groep;2013;253500;16.8;12900;0.9
+478;Twee voertuigen;Gestandaardiseerd inkomen: 3e 20%-groep;2014;250200;16.5;12700;0.8
+479;Twee voertuigen;Gestandaardiseerd inkomen: 3e 20%-groep;2015;250800;16.4;12300;0.8
+480;Twee voertuigen;Gestandaardiseerd inkomen: 4e 20%-groep;2010;392600;26.5;19300;1.3
+481;Twee voertuigen;Gestandaardiseerd inkomen: 4e 20%-groep;2011;396000;26.4;19600;1.3
+482;Twee voertuigen;Gestandaardiseerd inkomen: 4e 20%-groep;2012;406900;26.9;20200;1.3
+483;Twee voertuigen;Gestandaardiseerd inkomen: 4e 20%-groep;2013;409800;27.0;20000;1.3
+484;Twee voertuigen;Gestandaardiseerd inkomen: 4e 20%-groep;2014;412200;27.0;20400;1.3
+485;Twee voertuigen;Gestandaardiseerd inkomen: 4e 20%-groep;2015;416300;27.0;20200;1.3
+486;Twee voertuigen;Gestandaardiseerd inkomen: 5e 20%-groep;2010;537200;36.1;25200;1.7
+487;Twee voertuigen;Gestandaardiseerd inkomen: 5e 20%-groep;2011;540800;35.9;26100;1.7
+488;Twee voertuigen;Gestandaardiseerd inkomen: 5e 20%-groep;2012;556300;36.7;27000;1.8
+489;Twee voertuigen;Gestandaardiseerd inkomen: 5e 20%-groep;2013;567900;37.2;27300;1.8
+490;Twee voertuigen;Gestandaardiseerd inkomen: 5e 20%-groep;2014;575000;37.5;27600;1.8
+491;Twee voertuigen;Gestandaardiseerd inkomen: 5e 20%-groep;2015;579100;37.4;27700;1.8
+492;Twee voertuigen;Gestandaardiseerd inkomen: onbekend;2010;1600;1.7;100;0.1
+493;Twee voertuigen;Gestandaardiseerd inkomen: onbekend;2011;1600;1.4;100;0.1
+494;Twee voertuigen;Gestandaardiseerd inkomen: onbekend;2012;1400;1.2;100;0.1
+495;Twee voertuigen;Gestandaardiseerd inkomen: onbekend;2013;1500;1.3;100;0.1
+496;Twee voertuigen;Gestandaardiseerd inkomen: onbekend;2014;1600;1.3;200;0.1
+497;Twee voertuigen;Gestandaardiseerd inkomen: onbekend;2015;2300;1.7;200;0.2
+498;Twee voertuigen;Bron: 1 Inkomen uit arbeid;2010;982700;25.1;47600;1.2
+499;Twee voertuigen;Bron: 1 Inkomen uit arbeid;2011;981000;25.2;47800;1.2
+500;Twee voertuigen;Bron: 1 Inkomen uit arbeid;2012;998500;25.8;48700;1.3
+501;Twee voertuigen;Bron: 1 Inkomen uit arbeid;2013;1006100;26.2;48500;1.3
+502;Twee voertuigen;Bron: 1 Inkomen uit arbeid;2014;989900;26.0;48100;1.3
+503;Twee voertuigen;Bron: 1 Inkomen uit arbeid;2015;994300;26.0;47500;1.2
+504;Twee voertuigen;Bron: 2 Inkomen uit eigen onderneming;2010;225900;27.2;14900;1.8
+505;Twee voertuigen;Bron: 2 Inkomen uit eigen onderneming;2011;231100;27.1;15500;1.8
+506;Twee voertuigen;Bron: 2 Inkomen uit eigen onderneming;2012;238500;27.5;15800;1.8
+507;Twee voertuigen;Bron: 2 Inkomen uit eigen onderneming;2013;247400;27.6;16500;1.8
+508;Twee voertuigen;Bron: 2 Inkomen uit eigen onderneming;2014;254400;27.5;16500;1.8
+509;Twee voertuigen;Bron: 2 Inkomen uit eigen onderneming;2015;252700;27.7;16300;1.8
+510;Twee voertuigen;Bron: 3 Overdrachtsinkomen;2010;149100;5.9;5100;0.2
+511;Twee voertuigen;Bron: 3 Overdrachtsinkomen;2011;162300;6.2;5700;0.2
+512;Twee voertuigen;Bron: 3 Overdrachtsinkomen;2012;171600;6.4;6100;0.2
+513;Twee voertuigen;Bron: 3 Overdrachtsinkomen;2013;177900;6.5;6500;0.2
+514;Twee voertuigen;Bron: 3 Overdrachtsinkomen;2014;186800;6.8;6900;0.3
+515;Twee voertuigen;Bron: 3 Overdrachtsinkomen;2015;194000;6.9;7200;0.3
+516;Twee voertuigen;Bron: 31 Uitkering inkomensverzekering;2010;143100;6.9;4700;0.2
+517;Twee voertuigen;Bron: 31 Uitkering inkomensverzekering;2011;155400;7.3;5300;0.3
+518;Twee voertuigen;Bron: 31 Uitkering inkomensverzekering;2012;164700;7.6;5700;0.3
+519;Twee voertuigen;Bron: 31 Uitkering inkomensverzekering;2013;171400;7.8;6100;0.3
+520;Twee voertuigen;Bron: 31 Uitkering inkomensverzekering;2014;180400;8.1;6500;0.3
+521;Twee voertuigen;Bron: 31 Uitkering inkomensverzekering;2015;186700;8.2;6800;0.3
+522;Twee voertuigen;Bron: 32 Uitkering sociale voorziening;2010;5600;1.2;300;0.1
+523;Twee voertuigen;Bron: 32 Uitkering sociale voorziening;2011;6400;1.4;400;0.1
+524;Twee voertuigen;Bron: 32 Uitkering sociale voorziening;2012;6400;1.3;400;0.1
+525;Twee voertuigen;Bron: 32 Uitkering sociale voorziening;2013;6000;1.2;400;0.1
+526;Twee voertuigen;Bron: 32 Uitkering sociale voorziening;2014;5900;1.2;400;0.1
+527;Twee voertuigen;Bron: 32 Uitkering sociale voorziening;2015;6800;1.3;400;0.1
+528;Twee voertuigen;Bron: 33 Overig overdrachtsinkomen;2010;500;4.3;0;0.1
+529;Twee voertuigen;Bron: 33 Overig overdrachtsinkomen;2011;500;4.4;0;0.1
+530;Twee voertuigen;Bron: 33 Overig overdrachtsinkomen;2012;500;4.4;0;0.1
+531;Twee voertuigen;Bron: 33 Overig overdrachtsinkomen;2013;500;4.6;0;0.1
+532;Twee voertuigen;Bron: 33 Overig overdrachtsinkomen;2014;500;4.2;0;0.2
+533;Twee voertuigen;Bron: 33 Overig overdrachtsinkomen;2015;500;4.6;0;0.1
+534;Twee voertuigen;Bron: 4 Zonder bekend inkomen;2010;1600;1.7;100;0.1
+535;Twee voertuigen;Bron: 4 Zonder bekend inkomen;2011;1600;1.4;100;0.1
+536;Twee voertuigen;Bron: 4 Zonder bekend inkomen;2012;1400;1.2;100;0.1
+537;Twee voertuigen;Bron: 4 Zonder bekend inkomen;2013;1500;1.3;100;0.1
+538;Twee voertuigen;Bron: 4 Zonder bekend inkomen;2014;1600;1.3;200;0.1
+539;Twee voertuigen;Bron: 4 Zonder bekend inkomen;2015;2300;1.7;200;0.2
+540;Twee voertuigen;Stedelijkheid: zeer sterk stedelijk;2010;161300;9.8;6800;0.4
+541;Twee voertuigen;Stedelijkheid: zeer sterk stedelijk;2011;164900;9.7;7400;0.4
+542;Twee voertuigen;Stedelijkheid: zeer sterk stedelijk;2012;169500;9.9;7500;0.4
+543;Twee voertuigen;Stedelijkheid: zeer sterk stedelijk;2013;171400;9.9;7500;0.4
+544;Twee voertuigen;Stedelijkheid: zeer sterk stedelijk;2014;181200;10.1;8200;0.5
+545;Twee voertuigen;Stedelijkheid: zeer sterk stedelijk;2015;193300;10.2;8700;0.5
+546;Twee voertuigen;Stedelijkheid: sterk stedelijk;2010;363400;17.1;16600;0.8
+547;Twee voertuigen;Stedelijkheid: sterk stedelijk;2011;361800;17.1;16600;0.8
+548;Twee voertuigen;Stedelijkheid: sterk stedelijk;2012;374100;17.5;17100;0.8
+549;Twee voertuigen;Stedelijkheid: sterk stedelijk;2013;380300;17.6;17300;0.8
+550;Twee voertuigen;Stedelijkheid: sterk stedelijk;2014;367900;17.5;16900;0.8
+551;Twee voertuigen;Stedelijkheid: sterk stedelijk;2015;436000;18.2;19900;0.8
+552;Twee voertuigen;Stedelijkheid: matig stedelijk;2010;282400;21.3;13300;1.0
+553;Twee voertuigen;Stedelijkheid: matig stedelijk;2011;291300;21.5;13800;1.0
+554;Twee voertuigen;Stedelijkheid: matig stedelijk;2012;316400;21.9;14900;1.0
+555;Twee voertuigen;Stedelijkheid: matig stedelijk;2013;317500;22.1;14900;1.0
+556;Twee voertuigen;Stedelijkheid: matig stedelijk;2014;328500;22.2;15300;1.0
+557;Twee voertuigen;Stedelijkheid: matig stedelijk;2015;285800;22.8;12900;1.0
+558;Twee voertuigen;Stedelijkheid: Weinig stedelijk;2010;347400;24.3;18100;1.3
+559;Twee voertuigen;Stedelijkheid: Weinig stedelijk;2011;355200;24.2;19000;1.3
+560;Twee voertuigen;Stedelijkheid: Weinig stedelijk;2012;362500;24.6;19500;1.3
+561;Twee voertuigen;Stedelijkheid: Weinig stedelijk;2013;379700;24.7;20400;1.3
+562;Twee voertuigen;Stedelijkheid: Weinig stedelijk;2014;373300;24.7;20000;1.3
+563;Twee voertuigen;Stedelijkheid: Weinig stedelijk;2015;368000;24.6;19800;1.3
+564;Twee voertuigen;Stedelijkheid: niet stedelijk;2010;192300;24.6;12100;1.5
+565;Twee voertuigen;Stedelijkheid: niet stedelijk;2011;182600;24.8;11500;1.6
+566;Twee voertuigen;Stedelijkheid: niet stedelijk;2012;187600;25.2;11800;1.6
+567;Twee voertuigen;Stedelijkheid: niet stedelijk;2013;184000;25.5;11500;1.6
+568;Twee voertuigen;Stedelijkheid: niet stedelijk;2014;181800;25.6;11300;1.6
+569;Twee voertuigen;Stedelijkheid: niet stedelijk;2015;159900;25.8;9800;1.6
+570;Twee voertuigen;Stedelijkheid: onbekend;2010;12500;19.6;700;1.1
+571;Twee voertuigen;Stedelijkheid: onbekend;2011;20200;21.8;1000;1.1
+572;Twee voertuigen;Stedelijkheid: onbekend;2012;100;4.9;0;0.8
+573;Twee voertuigen;Stedelijkheid: onbekend;2013;100;6.6;0;0.4
+574;Twee voertuigen;Stedelijkheid: onbekend;2014;100;4.0;0;0.3
+575;Twee voertuigen;Stedelijkheid: onbekend;2015;100;4.3;0;0.4
+576;Drie of meer voertuigen;Particuliere huishoudens;2010;296900;4.0;22900;0.3
+577;Drie of meer voertuigen;Particuliere huishoudens;2011;304000;4.1;24200;0.3
+578;Drie of meer voertuigen;Particuliere huishoudens;2012;316700;4.2;25300;0.3
+579;Drie of meer voertuigen;Particuliere huishoudens;2013;322400;4.3;26000;0.3
+580;Drie of meer voertuigen;Particuliere huishoudens;2014;320200;4.2;26400;0.3
+581;Drie of meer voertuigen;Particuliere huishoudens;2015;326100;4.2;26600;0.3
+582;Drie of meer voertuigen;Type: Eenpersoonshuishouden;2010;10800;0.4;3300;0.1
+583;Drie of meer voertuigen;Type: Eenpersoonshuishouden;2011;11700;0.4;3500;0.1
+584;Drie of meer voertuigen;Type: Eenpersoonshuishouden;2012;12300;0.4;3700;0.1
+585;Drie of meer voertuigen;Type: Eenpersoonshuishouden;2013;12600;0.4;3800;0.1
+586;Drie of meer voertuigen;Type: Eenpersoonshuishouden;2014;12800;0.5;4000;0.1
+587;Drie of meer voertuigen;Type: Eenpersoonshuishouden;2015;13000;0.5;4100;0.1
+588;Drie of meer voertuigen;Type: Meerpersoonshuishouden;2010;286100;6.1;19600;0.4
+589;Drie of meer voertuigen;Type: Meerpersoonshuishouden;2011;292300;6.2;20700;0.4
+590;Drie of meer voertuigen;Type: Meerpersoonshuishouden;2012;304500;6.4;21700;0.5
+591;Drie of meer voertuigen;Type: Meerpersoonshuishouden;2013;309800;6.5;22200;0.5
+592;Drie of meer voertuigen;Type: Meerpersoonshuishouden;2014;307400;6.4;22500;0.5
+593;Drie of meer voertuigen;Type: Meerpersoonshuishouden;2015;313000;6.5;22500;0.5
+594;Drie of meer voertuigen;Type: Eenoudergezin;2010;11100;2.4;800;0.2
+595;Drie of meer voertuigen;Type: Eenoudergezin;2011;12500;2.5;900;0.2
+596;Drie of meer voertuigen;Type: Eenoudergezin;2012;13000;2.6;900;0.2
+597;Drie of meer voertuigen;Type: Eenoudergezin;2013;13100;2.5;1000;0.2
+598;Drie of meer voertuigen;Type: Eenoudergezin;2014;13000;2.4;1000;0.2
+599;Drie of meer voertuigen;Type: Eenoudergezin;2015;13600;2.5;1100;0.2
+600;Drie of meer voertuigen;Type: Paar, totaal;2010;269100;6.5;18500;0.4
+601;Drie of meer voertuigen;Type: Paar, totaal;2011;276300;6.6;19600;0.5
+602;Drie of meer voertuigen;Type: Paar, totaal;2012;287700;6.9;20500;0.5
+603;Drie of meer voertuigen;Type: Paar, totaal;2013;293100;7.0;21000;0.5
+604;Drie of meer voertuigen;Type: Paar, totaal;2014;291100;6.9;21200;0.5
+605;Drie of meer voertuigen;Type: Paar, totaal;2015;295600;7.0;21200;0.5
+606;Drie of meer voertuigen;Type: Paar, met kind(eren);2010;193500;9.7;10500;0.5
+607;Drie of meer voertuigen;Type: Paar, met kind(eren);2011;203800;10.0;11300;0.6
+608;Drie of meer voertuigen;Type: Paar, met kind(eren);2012;209900;10.3;11700;0.6
+609;Drie of meer voertuigen;Type: Paar, met kind(eren);2013;212600;10.4;11800;0.6
+610;Drie of meer voertuigen;Type: Paar, met kind(eren);2014;209400;10.3;11900;0.6
+611;Drie of meer voertuigen;Type: Paar, met kind(eren);2015;211800;10.5;11600;0.6
+612;Drie of meer voertuigen;Type: Paar, zonder kind;2010;75600;3.5;8100;0.4
+613;Drie of meer voertuigen;Type: Paar, zonder kind;2011;72500;3.4;8300;0.4
+614;Drie of meer voertuigen;Type: Paar, zonder kind;2012;77900;3.6;8800;0.4
+615;Drie of meer voertuigen;Type: Paar, zonder kind;2013;80500;3.7;9200;0.4
+616;Drie of meer voertuigen;Type: Paar, zonder kind;2014;81600;3.8;9300;0.4
+617;Drie of meer voertuigen;Type: Paar, zonder kind;2015;83800;3.8;9600;0.4
+618;Drie of meer voertuigen;Type: Meerpersoonshuishouden, overig;2010;5900;7.3;300;0.4
+619;Drie of meer voertuigen;Type: Meerpersoonshuishouden, overig;2011;3500;6.3;200;0.4
+620;Drie of meer voertuigen;Type: Meerpersoonshuishouden, overig;2012;3700;6.6;200;0.4
+621;Drie of meer voertuigen;Type: Meerpersoonshuishouden, overig;2013;3700;6.7;200;0.4
+622;Drie of meer voertuigen;Type: Meerpersoonshuishouden, overig;2014;3400;6.2;200;0.4
+623;Drie of meer voertuigen;Type: Meerpersoonshuishouden, overig;2015;3900;7.1;200;0.4
+624;Drie of meer voertuigen;Huishoudensgrootte: 1 persoon;2010;10800;0.4;3300;0.1
+625;Drie of meer voertuigen;Huishoudensgrootte: 1 persoon;2011;11700;0.4;3500;0.1
+626;Drie of meer voertuigen;Huishoudensgrootte: 1 persoon;2012;12300;0.4;3700;0.1
+627;Drie of meer voertuigen;Huishoudensgrootte: 1 persoon;2013;12600;0.4;3800;0.1
+628;Drie of meer voertuigen;Huishoudensgrootte: 1 persoon;2014;12800;0.5;4000;0.1
+629;Drie of meer voertuigen;Huishoudensgrootte: 1 persoon;2015;13000;0.5;4100;0.1
+630;Drie of meer voertuigen;Huishoudensgrootte: 2 personen;2010;71400;3.0;8200;0.3
+631;Drie of meer voertuigen;Huishoudensgrootte: 2 personen;2011;74000;3.1;8800;0.4
+632;Drie of meer voertuigen;Huishoudensgrootte: 2 personen;2012;79500;3.2;9400;0.4
+633;Drie of meer voertuigen;Huishoudensgrootte: 2 personen;2013;82300;3.3;9800;0.4
+634;Drie of meer voertuigen;Huishoudensgrootte: 2 personen;2014;83300;3.3;9900;0.4
+635;Drie of meer voertuigen;Huishoudensgrootte: 2 personen;2015;85500;3.4;10200;0.4
+636;Drie of meer voertuigen;Huishoudensgrootte: 3 personen;2010;74700;8.2;4500;0.5
+637;Drie of meer voertuigen;Huishoudensgrootte: 3 personen;2011;76500;8.5;4600;0.5
+638;Drie of meer voertuigen;Huishoudensgrootte: 3 personen;2012;79900;8.8;4900;0.5
+639;Drie of meer voertuigen;Huishoudensgrootte: 3 personen;2013;81900;9.0;5000;0.5
+640;Drie of meer voertuigen;Huishoudensgrootte: 3 personen;2014;82300;8.9;5200;0.6
+641;Drie of meer voertuigen;Huishoudensgrootte: 3 personen;2015;84200;9.1;5300;0.6
+642;Drie of meer voertuigen;Huishoudensgrootte: 4 personen;2010;87400;9.0;4800;0.5
+643;Drie of meer voertuigen;Huishoudensgrootte: 4 personen;2011;90600;9.3;5100;0.5
+644;Drie of meer voertuigen;Huishoudensgrootte: 4 personen;2012;93000;9.6;5200;0.5
+645;Drie of meer voertuigen;Huishoudensgrootte: 4 personen;2013;94000;9.7;5300;0.5
+646;Drie of meer voertuigen;Huishoudensgrootte: 4 personen;2014;92300;9.6;5300;0.6
+647;Drie of meer voertuigen;Huishoudensgrootte: 4 personen;2015;93700;9.7;5100;0.5
+648;Drie of meer voertuigen;Huishoudensgrootte: 5 of meer personen;2010;52600;12.2;2100;0.5
+649;Drie of meer voertuigen;Huishoudensgrootte: 5 of meer personen;2011;51200;12.3;2100;0.5
+650;Drie of meer voertuigen;Huishoudensgrootte: 5 of meer personen;2012;52100;12.6;2100;0.5
+651;Drie of meer voertuigen;Huishoudensgrootte: 5 of meer personen;2013;51600;12.6;2100;0.5
+652;Drie of meer voertuigen;Huishoudensgrootte: 5 of meer personen;2014;49400;12.3;2000;0.5
+653;Drie of meer voertuigen;Huishoudensgrootte: 5 of meer personen;2015;49700;12.4;2000;0.5
+654;Drie of meer voertuigen;Gestandaardiseerd inkomen: 1e 20%-groep;2010;17100;1.2;1700;0.1
+655;Drie of meer voertuigen;Gestandaardiseerd inkomen: 1e 20%-groep;2011;18100;1.3;1800;0.1
+656;Drie of meer voertuigen;Gestandaardiseerd inkomen: 1e 20%-groep;2012;19200;1.4;1800;0.1
+657;Drie of meer voertuigen;Gestandaardiseerd inkomen: 1e 20%-groep;2013;19900;1.4;2000;0.1
+658;Drie of meer voertuigen;Gestandaardiseerd inkomen: 1e 20%-groep;2014;18100;1.3;1900;0.1
+659;Drie of meer voertuigen;Gestandaardiseerd inkomen: 1e 20%-groep;2015;18700;1.3;1900;0.1
+660;Drie of meer voertuigen;Gestandaardiseerd inkomen: 2e 20%-groep;2010;17600;1.2;2200;0.2
+661;Drie of meer voertuigen;Gestandaardiseerd inkomen: 2e 20%-groep;2011;18900;1.3;2300;0.2
+662;Drie of meer voertuigen;Gestandaardiseerd inkomen: 2e 20%-groep;2012;19700;1.3;2400;0.2
+663;Drie of meer voertuigen;Gestandaardiseerd inkomen: 2e 20%-groep;2013;20700;1.4;2500;0.2
+664;Drie of meer voertuigen;Gestandaardiseerd inkomen: 2e 20%-groep;2014;19900;1.3;2500;0.2
+665;Drie of meer voertuigen;Gestandaardiseerd inkomen: 2e 20%-groep;2015;20600;1.4;2400;0.2
+666;Drie of meer voertuigen;Gestandaardiseerd inkomen: 3e 20%-groep;2010;35400;2.4;4000;0.3
+667;Drie of meer voertuigen;Gestandaardiseerd inkomen: 3e 20%-groep;2011;37100;2.5;4300;0.3
+668;Drie of meer voertuigen;Gestandaardiseerd inkomen: 3e 20%-groep;2012;38700;2.6;4400;0.3
+669;Drie of meer voertuigen;Gestandaardiseerd inkomen: 3e 20%-groep;2013;39900;2.6;4400;0.3
+670;Drie of meer voertuigen;Gestandaardiseerd inkomen: 3e 20%-groep;2014;39700;2.6;4400;0.3
+671;Drie of meer voertuigen;Gestandaardiseerd inkomen: 3e 20%-groep;2015;41300;2.7;4400;0.3
+672;Drie of meer voertuigen;Gestandaardiseerd inkomen: 4e 20%-groep;2010;72400;4.9;6100;0.4
+673;Drie of meer voertuigen;Gestandaardiseerd inkomen: 4e 20%-groep;2011;75100;5.0;6400;0.4
+674;Drie of meer voertuigen;Gestandaardiseerd inkomen: 4e 20%-groep;2012;77900;5.2;6700;0.4
+675;Drie of meer voertuigen;Gestandaardiseerd inkomen: 4e 20%-groep;2013;78600;5.2;6900;0.5
+676;Drie of meer voertuigen;Gestandaardiseerd inkomen: 4e 20%-groep;2014;78400;5.1;7100;0.5
+677;Drie of meer voertuigen;Gestandaardiseerd inkomen: 4e 20%-groep;2015;80100;5.2;7100;0.5
+678;Drie of meer voertuigen;Gestandaardiseerd inkomen: 5e 20%-groep;2010;153900;10.4;8800;0.6
+679;Drie of meer voertuigen;Gestandaardiseerd inkomen: 5e 20%-groep;2011;154300;10.2;9400;0.6
+680;Drie of meer voertuigen;Gestandaardiseerd inkomen: 5e 20%-groep;2012;160900;10.6;9900;0.7
+681;Drie of meer voertuigen;Gestandaardiseerd inkomen: 5e 20%-groep;2013;163000;10.7;10300;0.7
+682;Drie of meer voertuigen;Gestandaardiseerd inkomen: 5e 20%-groep;2014;163800;10.7;10500;0.7
+683;Drie of meer voertuigen;Gestandaardiseerd inkomen: 5e 20%-groep;2015;164700;10.6;10600;0.7
+684;Drie of meer voertuigen;Gestandaardiseerd inkomen: onbekend;2010;400;0.5;100;0.1
+685;Drie of meer voertuigen;Gestandaardiseerd inkomen: onbekend;2011;500;0.4;100;0.1
+686;Drie of meer voertuigen;Gestandaardiseerd inkomen: onbekend;2012;400;0.3;100;0.0
+687;Drie of meer voertuigen;Gestandaardiseerd inkomen: onbekend;2013;400;0.3;100;0.0
+688;Drie of meer voertuigen;Gestandaardiseerd inkomen: onbekend;2014;400;0.4;100;0.1
+689;Drie of meer voertuigen;Gestandaardiseerd inkomen: onbekend;2015;600;0.5;100;0.1
+690;Drie of meer voertuigen;Bron: 1 Inkomen uit arbeid;2010;201100;5.1;14500;0.4
+691;Drie of meer voertuigen;Bron: 1 Inkomen uit arbeid;2011;203200;5.2;15100;0.4
+692;Drie of meer voertuigen;Bron: 1 Inkomen uit arbeid;2012;211100;5.4;15600;0.4
+693;Drie of meer voertuigen;Bron: 1 Inkomen uit arbeid;2013;212300;5.5;16000;0.4
+694;Drie of meer voertuigen;Bron: 1 Inkomen uit arbeid;2014;205800;5.4;15900;0.4
+695;Drie of meer voertuigen;Bron: 1 Inkomen uit arbeid;2015;210300;5.5;15800;0.4
+696;Drie of meer voertuigen;Bron: 2 Inkomen uit eigen onderneming;2010;73700;8.9;6100;0.7
+697;Drie of meer voertuigen;Bron: 2 Inkomen uit eigen onderneming;2011;76100;8.9;6400;0.8
+698;Drie of meer voertuigen;Bron: 2 Inkomen uit eigen onderneming;2012;78500;9.1;6800;0.8
+699;Drie of meer voertuigen;Bron: 2 Inkomen uit eigen onderneming;2013;81700;9.1;7000;0.8
+700;Drie of meer voertuigen;Bron: 2 Inkomen uit eigen onderneming;2014;84400;9.1;7300;0.8
+701;Drie of meer voertuigen;Bron: 2 Inkomen uit eigen onderneming;2015;83300;9.1;7300;0.8
+702;Drie of meer voertuigen;Bron: 3 Overdrachtsinkomen;2010;21700;0.9;2200;0.1
+703;Drie of meer voertuigen;Bron: 3 Overdrachtsinkomen;2011;24200;0.9;2600;0.1
+704;Drie of meer voertuigen;Bron: 3 Overdrachtsinkomen;2012;26700;1.0;2800;0.1
+705;Drie of meer voertuigen;Bron: 3 Overdrachtsinkomen;2013;28000;1.0;3000;0.1
+706;Drie of meer voertuigen;Bron: 3 Overdrachtsinkomen;2014;29600;1.1;3200;0.1
+707;Drie of meer voertuigen;Bron: 3 Overdrachtsinkomen;2015;31900;1.1;3400;0.1
+708;Drie of meer voertuigen;Bron: 31 Uitkering inkomensverzekering;2010;20800;1.0;2100;0.1
+709;Drie of meer voertuigen;Bron: 31 Uitkering inkomensverzekering;2011;23100;1.1;2500;0.1
+710;Drie of meer voertuigen;Bron: 31 Uitkering inkomensverzekering;2012;25600;1.2;2700;0.1
+711;Drie of meer voertuigen;Bron: 31 Uitkering inkomensverzekering;2013;26900;1.2;2900;0.1
+712;Drie of meer voertuigen;Bron: 31 Uitkering inkomensverzekering;2014;28500;1.3;3100;0.1
+713;Drie of meer voertuigen;Bron: 31 Uitkering inkomensverzekering;2015;30700;1.4;3300;0.1
+714;Drie of meer voertuigen;Bron: 32 Uitkering sociale voorziening;2010;900;0.2;100;0.0
+715;Drie of meer voertuigen;Bron: 32 Uitkering sociale voorziening;2011;1100;0.2;100;0.0
+716;Drie of meer voertuigen;Bron: 32 Uitkering sociale voorziening;2012;1100;0.2;100;0.0
+717;Drie of meer voertuigen;Bron: 32 Uitkering sociale voorziening;2013;1000;0.2;100;0.0
+718;Drie of meer voertuigen;Bron: 32 Uitkering sociale voorziening;2014;1000;0.2;100;0.0
+719;Drie of meer voertuigen;Bron: 32 Uitkering sociale voorziening;2015;1200;0.2;100;0.0
+720;Drie of meer voertuigen;Bron: 33 Overig overdrachtsinkomen;2010;0;0.4;0;0.0
+721;Drie of meer voertuigen;Bron: 33 Overig overdrachtsinkomen;2011;100;0.5;0;0.0
+722;Drie of meer voertuigen;Bron: 33 Overig overdrachtsinkomen;2012;100;0.6;0;0.0
+723;Drie of meer voertuigen;Bron: 33 Overig overdrachtsinkomen;2013;100;0.5;0;0.0
+724;Drie of meer voertuigen;Bron: 33 Overig overdrachtsinkomen;2014;100;0.6;0;0.0
+725;Drie of meer voertuigen;Bron: 33 Overig overdrachtsinkomen;2015;0;0.5;0;0.0
+726;Drie of meer voertuigen;Bron: 4 Zonder bekend inkomen;2010;400;0.5;100;0.1
+727;Drie of meer voertuigen;Bron: 4 Zonder bekend inkomen;2011;500;0.4;100;0.1
+728;Drie of meer voertuigen;Bron: 4 Zonder bekend inkomen;2012;400;0.3;100;0.0
+729;Drie of meer voertuigen;Bron: 4 Zonder bekend inkomen;2013;400;0.3;100;0.0
+730;Drie of meer voertuigen;Bron: 4 Zonder bekend inkomen;2014;400;0.4;100;0.1
+731;Drie of meer voertuigen;Bron: 4 Zonder bekend inkomen;2015;600;0.5;100;0.1
+732;Drie of meer voertuigen;Stedelijkheid: zeer sterk stedelijk;2010;28800;1.8;2200;0.1
+733;Drie of meer voertuigen;Stedelijkheid: zeer sterk stedelijk;2011;29300;1.7;2400;0.1
+734;Drie of meer voertuigen;Stedelijkheid: zeer sterk stedelijk;2012;30600;1.8;2500;0.1
+735;Drie of meer voertuigen;Stedelijkheid: zeer sterk stedelijk;2013;30700;1.8;2500;0.1
+736;Drie of meer voertuigen;Stedelijkheid: zeer sterk stedelijk;2014;32200;1.8;2700;0.2
+737;Drie of meer voertuigen;Stedelijkheid: zeer sterk stedelijk;2015;34400;1.8;2900;0.2
+738;Drie of meer voertuigen;Stedelijkheid: sterk stedelijk;2010;67400;3.2;5200;0.2
+739;Drie of meer voertuigen;Stedelijkheid: sterk stedelijk;2011;67500;3.2;5400;0.3
+740;Drie of meer voertuigen;Stedelijkheid: sterk stedelijk;2012;70900;3.3;5700;0.3
+741;Drie of meer voertuigen;Stedelijkheid: sterk stedelijk;2013;72000;3.3;5900;0.3
+742;Drie of meer voertuigen;Stedelijkheid: sterk stedelijk;2014;69000;3.3;5800;0.3
+743;Drie of meer voertuigen;Stedelijkheid: sterk stedelijk;2015;84500;3.5;6900;0.3
+744;Drie of meer voertuigen;Stedelijkheid: matig stedelijk;2010;59400;4.5;4300;0.3
+745;Drie of meer voertuigen;Stedelijkheid: matig stedelijk;2011;62200;4.6;4600;0.3
+746;Drie of meer voertuigen;Stedelijkheid: matig stedelijk;2012;69600;4.8;5200;0.4
+747;Drie of meer voertuigen;Stedelijkheid: matig stedelijk;2013;69500;4.8;5200;0.4
+748;Drie of meer voertuigen;Stedelijkheid: matig stedelijk;2014;71500;4.8;5500;0.4
+749;Drie of meer voertuigen;Stedelijkheid: matig stedelijk;2015;63900;5.1;4900;0.4
+750;Drie of meer voertuigen;Stedelijkheid: Weinig stedelijk;2010;86100;6.0;6500;0.5
+751;Drie of meer voertuigen;Stedelijkheid: Weinig stedelijk;2011;90000;6.1;7000;0.5
+752;Drie of meer voertuigen;Stedelijkheid: Weinig stedelijk;2012;93300;6.3;7300;0.5
+753;Drie of meer voertuigen;Stedelijkheid: Weinig stedelijk;2013;98300;6.4;7800;0.5
+754;Drie of meer voertuigen;Stedelijkheid: Weinig stedelijk;2014;96000;6.4;7800;0.5
+755;Drie of meer voertuigen;Stedelijkheid: Weinig stedelijk;2015;96400;6.4;7800;0.5
+756;Drie of meer voertuigen;Stedelijkheid: niet stedelijk;2010;52000;6.6;4500;0.6
+757;Drie of meer voertuigen;Stedelijkheid: niet stedelijk;2011;50600;6.9;4500;0.6
+758;Drie of meer voertuigen;Stedelijkheid: niet stedelijk;2012;52300;7.0;4600;0.6
+759;Drie of meer voertuigen;Stedelijkheid: niet stedelijk;2013;51900;7.2;4600;0.6
+760;Drie of meer voertuigen;Stedelijkheid: niet stedelijk;2014;51500;7.2;4600;0.6
+761;Drie of meer voertuigen;Stedelijkheid: niet stedelijk;2015;46800;7.6;4100;0.7
+762;Drie of meer voertuigen;Stedelijkheid: onbekend;2010;3100;4.9;300;0.4
+763;Drie of meer voertuigen;Stedelijkheid: onbekend;2011;4500;4.8;300;0.4
+764;Drie of meer voertuigen;Stedelijkheid: onbekend;2012;0;1.6;0;0.0
+765;Drie of meer voertuigen;Stedelijkheid: onbekend;2013;0;1.7;0;0.0
+766;Drie of meer voertuigen;Stedelijkheid: onbekend;2014;0;1.3;0;0.2
+767;Drie of meer voertuigen;Stedelijkheid: onbekend;2015;0;1.2;0;0.1

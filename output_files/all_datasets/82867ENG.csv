@@ -1,0 +1,209 @@
+﻿ID;PersonalCharacteristics;Accuracy;CaribbeanNetherlands;Periods;SpeaksOneLanguage_1;SpeaksMoreThanOneLanguage_2;Papiamentu_3;English_4;Dutch_5;Spanish_6;Other_7;Papiamentu_8;English_9;Dutch_10;Spanish_11;Other_12
+0;Total persons;Percentage/average;Caribbean Netherlands ;2013;16.8;83.2;69.9;80.1;67.7;65.1;15.3;47.4;25.9;12.6;12.8;1.4
+1;Total persons;Percentage/average;Caribbean Netherlands ;2017/2018;24.7;75.3;59.8;79.2;56.7;56.1;15.9;37.2;35.2;11.2;13.5;3.0
+2;Total persons;Percentage/average;Bonaire;2013;10.1;89.9;86.9;74.2;76.0;75.7;14.8;63.8;4.5;15.4;15.2;1.2
+3;Total persons;Percentage/average;Bonaire;2017/2018;14.0;86.0;87.1;69.6;70.4;70.5;16.2;60.2;6.6;16.1;14.6;2.5
+4;Total persons;Percentage/average;St. Eustatius;2013;32.0;68.0;25.2;96.0;49.7;38.7;13.4;;84.7;6.3;7.4;
+5;Total persons;Percentage/average;St. Eustatius;2017/2018;47.5;52.5;20.8;92.7;36.0;33.8;8.6;1.4;80.3;3.0;13.1;2.2
+6;Total persons;Percentage/average;Saba;2013;43.4;56.6;13.4;99.6;32.3;27.1;23.3;;92.9;;3.3;3.1
+7;Total persons;Percentage/average;Saba;2017/2018;32.3;67.7;10.7;96.9;34.0;32.6;25.7;;80.1;4.5;9.5;5.8
+8;Total persons;Reliability margin;Caribbean Netherlands ;2013;2.3;2.3;2.8;2.4;2.8;2.9;2.2;3.0;2.6;2.0;2.0;0.7
+9;Total persons;Reliability margin;Caribbean Netherlands ;2017/2018;2.1;2.1;2.4;2.0;2.4;2.4;1.8;2.3;2.3;1.5;1.6;0.8
+10;Total persons;Reliability margin;Bonaire;2013;2.1;2.1;2.4;3.1;3.0;3.0;2.5;3.4;1.5;2.5;2.5;0.7
+11;Total persons;Reliability margin;Bonaire;2017/2018;2.2;2.2;2.1;2.8;2.8;2.8;2.3;3.0;1.5;2.3;2.2;1.0
+12;Total persons;Reliability margin;St. Eustatius;2013;7.9;7.9;7.4;3.3;8.5;8.3;5.8;;6.1;4.1;4.4;
+13;Total persons;Reliability margin;St. Eustatius;2017/2018;5.0;5.0;4.1;2.6;4.8;4.7;2.8;1.2;4.0;1.7;3.4;1.5
+14;Total persons;Reliability margin;Saba;2013;8.1;8.1;5.5;1.0;7.6;7.2;6.8;;4.2;;2.9;2.8
+15;Total persons;Reliability margin;Saba;2017/2018;5.8;5.8;3.8;2.1;5.9;5.8;5.4;;4.9;2.5;3.6;2.9
+16;Sex: male;Percentage/average;Caribbean Netherlands ;2013;17.3;82.8;67.7;79.6;65.6;67.8;16.3;45.5;28.3;10.9;14.5;0.9
+17;Sex: male;Percentage/average;Caribbean Netherlands ;2017/2018;28.0;71.9;58.3;78.7;52.2;53.1;17.7;36.5;37.5;9.5;12.7;3.8
+18;Sex: male;Percentage/average;Bonaire;2013;11.1;89.0;84.0;72.8;74.1;78.8;15.3;61.5;5.4;13.5;18.6;1.0
+19;Sex: male;Percentage/average;Bonaire;2017/2018;16.4;83.6;84.2;68.2;66.0;68.6;18.1;59.2;7.5;13.8;15.7;3.7
+20;Sex: male;Percentage/average;St. Eustatius;2013;30.2;69.8;27.5;98.3;48.3;41.9;14.7;;91.8;5.2;;
+21;Sex: male;Percentage/average;St. Eustatius;2017/2018;53.5;46.5;18.4;93.5;28.5;29.9;8.9;;83.5;2.5;11.4;2.3
+22;Sex: male;Percentage/average;Saba;2013;44.7;55.3;8.1;100.0;27.1;25.4;28.8;;95.4;;;
+23;Sex: male;Percentage/average;Saba;2017/2018;35.7;64.3;14.7;98.6;32.6;25.9;29.9;;88.1;3.1;;6.2
+24;Sex: male;Reliability margin;Caribbean Netherlands ;2013;3.1;3.1;3.9;3.3;3.9;3.9;3.0;4.1;3.7;2.6;2.9;0.8
+25;Sex: male;Reliability margin;Caribbean Netherlands ;2017/2018;3.0;3.0;3.3;2.8;3.4;3.4;2.6;3.3;3.3;2.0;2.3;1.3
+26;Sex: male;Reliability margin;Bonaire;2013;3.0;3.0;3.5;4.3;4.2;3.9;3.5;4.7;2.2;3.3;3.8;0.9
+27;Sex: male;Reliability margin;Bonaire;2017/2018;3.2;3.2;3.1;4.0;4.1;4.0;3.3;4.2;2.3;3.0;3.1;1.6
+28;Sex: male;Reliability margin;St. Eustatius;2013;10.4;10.4;10.2;3.0;11.4;11.2;8.1;;6.3;5.1;;
+29;Sex: male;Reliability margin;St. Eustatius;2017/2018;6.9;6.9;5.4;3.4;6.3;6.4;4.0;;5.2;2.2;4.4;2.1
+30;Sex: male;Reliability margin;Saba;2013;11.5;11.5;6.3;;10.3;10.1;10.5;;4.9;;;
+31;Sex: male;Reliability margin;Saba;2017/2018;8.4;8.4;6.2;2.1;8.2;7.7;8.0;;5.7;3.0;;4.2
+32;Sex: female;Percentage/average;Caribbean Netherlands ;2013;16.3;83.8;72.5;80.7;69.9;62.1;14.2;49.5;23.1;14.5;10.9;2.0
+33;Sex: female;Percentage/average;Caribbean Netherlands ;2017/2018;21.1;78.9;61.3;79.8;61.5;59.3;14.0;37.9;32.8;13.0;14.2;2.1
+34;Sex: female;Percentage/average;Bonaire;2013;9.1;90.9;90.1;75.7;78.1;72.2;14.2;66.3;3.4;17.6;11.3;1.3
+35;Sex: female;Percentage/average;Bonaire;2017/2018;11.4;88.6;90.2;71.2;75.1;72.6;14.3;61.3;5.6;18.5;13.4;1.2
+36;Sex: female;Percentage/average;St. Eustatius;2013;34.4;65.7;22.2;93.0;51.5;34.6;11.8;;75.7;7.7;12.9;
+37;Sex: female;Percentage/average;St. Eustatius;2017/2018;41.0;59.0;23.4;91.9;44.2;38.0;8.3;2.5;76.9;3.6;14.8;
+38;Sex: female;Percentage/average;Saba;2013;42.1;57.9;18.5;99.2;37.3;28.7;17.9;;90.5;;;
+39;Sex: female;Percentage/average;Saba;2017/2018;28.9;71.1;6.7;95.3;35.3;39.4;21.5;;72.1;5.8;16.3;5.5
+40;Sex: female;Reliability margin;Caribbean Netherlands ;2013;3.3;3.3;3.9;3.5;4.0;4.3;3.1;4.4;3.7;3.1;2.7;1.2
+41;Sex: female;Reliability margin;Caribbean Netherlands ;2017/2018;2.8;2.8;3.4;2.8;3.4;3.4;2.4;3.4;3.3;2.3;2.4;1.0
+42;Sex: female;Reliability margin;Bonaire;2013;3.0;3.0;3.1;4.4;4.2;4.6;3.6;4.8;1.9;3.9;3.3;1.2
+43;Sex: female;Reliability margin;Bonaire;2017/2018;2.8;2.8;2.7;4.0;3.9;4.0;3.1;4.4;2.0;3.5;3.0;1.0
+44;Sex: female;Reliability margin;St. Eustatius;2013;12.3;12.3;10.7;6.6;12.9;12.3;8.3;;11.1;6.9;8.6;
+45;Sex: female;Reliability margin;St. Eustatius;2017/2018;7.1;7.1;6.1;3.9;7.2;7.0;4.0;2.2;6.1;2.7;5.1;
+46;Sex: female;Reliability margin;Saba;2013;11.4;11.4;8.9;2.0;11.1;10.3;8.8;;6.7;;;
+47;Sex: female;Reliability margin;Saba;2017/2018;8.0;8.0;4.4;3.7;8.4;8.6;7.2;;7.9;4.1;6.5;4.0
+48;Age: 15 to 44 years;Percentage/average;Caribbean Netherlands ;2013;16.9;83.2;65.6;83.6;68.5;65.6;13.6;44.9;28.0;10.9;14.0;2.1
+49;Age: 15 to 44 years;Percentage/average;Caribbean Netherlands ;2017/2018;22.6;77.3;58.3;82.2;58.8;57.1;14.1;36.6;36.9;9.6;12.9;4.1
+50;Age: 15 to 44 years;Percentage/average;Bonaire;2013;9.5;90.5;85.0;78.7;78.9;78.2;12.8;62.1;5.8;14.0;16.2;1.9
+51;Age: 15 to 44 years;Percentage/average;Bonaire;2017/2018;13.5;86.6;89.7;73.5;73.6;71.7;11.8;61.1;6.5;14.0;14.6;3.8
+52;Age: 15 to 44 years;Percentage/average;St. Eustatius;2013;29.3;70.7;19.2;94.0;49.9;37.3;12.7;;82.5;;10.6;
+53;Age: 15 to 44 years;Percentage/average;St. Eustatius;2017/2018;42.9;57.1;17.1;93.7;40.0;36.3;7.5;;82.0;;11.5;3.4
+54;Age: 15 to 44 years;Percentage/average;Saba;2013;46.6;53.4;8.6;99.4;28.7;25.2;20.6;;91.7;;5.0;
+55;Age: 15 to 44 years;Percentage/average;Saba;2017/2018;26.9;73.1;7.8;96.6;34.0;35.6;30.3;;79.0;6.1;9.2;5.7
+56;Age: 15 to 44 years;Reliability margin;Caribbean Netherlands ;2013;3.2;3.2;4.0;3.1;3.9;4.0;2.9;4.2;3.8;2.6;2.9;1.2
+57;Age: 15 to 44 years;Reliability margin;Caribbean Netherlands ;2017/2018;2.9;2.9;3.4;2.6;3.4;3.4;2.4;3.3;3.3;2.0;2.3;1.4
+58;Age: 15 to 44 years;Reliability margin;Bonaire;2013;2.9;2.9;3.5;4.1;4.1;4.1;3.3;4.8;2.3;3.4;3.7;1.4
+59;Age: 15 to 44 years;Reliability margin;Bonaire;2017/2018;3.1;3.1;2.7;4.0;4.0;4.1;2.9;4.4;2.2;3.1;3.2;1.7
+60;Age: 15 to 44 years;Reliability margin;St. Eustatius;2013;10.9;10.9;9.4;5.7;11.9;11.5;8.0;;9.1;;7.4;
+61;Age: 15 to 44 years;Reliability margin;St. Eustatius;2017/2018;7.2;7.2;5.4;3.5;7.1;7.0;3.8;;5.6;;4.6;2.6
+62;Age: 15 to 44 years;Reliability margin;Saba;2013;10.3;10.3;5.7;1.6;9.3;8.9;8.3;;5.7;;4.5;
+63;Age: 15 to 44 years;Reliability margin;Saba;2017/2018;7.3;7.3;4.4;3.0;7.8;7.9;7.5;;6.7;3.9;4.7;3.8
+64;Age: 45 years or older;Percentage/average;Caribbean Netherlands ;2013;16.7;83.3;74.5;76.5;66.7;64.7;17.1;49.9;23.6;14.3;11.6;
+65;Age: 45 years or older;Percentage/average;Caribbean Netherlands ;2017/2018;26.6;73.4;61.1;76.4;54.8;55.0;17.7;37.8;33.7;12.8;13.9;1.9
+66;Age: 45 years or older;Percentage/average;Bonaire;2013;10.8;89.2;88.7;69.6;73.1;73.2;16.8;65.4;3.2;16.8;14.2;
+67;Age: 45 years or older;Percentage/average;Bonaire;2017/2018;14.5;85.6;84.7;66.3;67.7;69.4;20.3;59.5;6.6;18.0;14.5;1.4
+68;Age: 45 years or older;Percentage/average;St. Eustatius;2013;34.8;65.2;31.5;98.0;49.4;40.2;14.1;;87.0;8.1;;
+69;Age: 45 years or older;Percentage/average;St. Eustatius;2017/2018;51.6;48.4;24.2;91.8;32.4;31.5;9.7;;78.8;4.9;14.5;
+70;Age: 45 years or older;Percentage/average;Saba;2013;38.0;62.0;21.4;100.0;38.3;30.3;27.9;;95.0;;;
+71;Age: 45 years or older;Percentage/average;Saba;2017/2018;39.5;60.5;14.6;97.4;33.9;28.6;19.6;;81.6;;9.8;6.0
+72;Age: 45 years or older;Reliability margin;Caribbean Netherlands ;2013;3.2;3.2;3.7;3.6;4.1;4.1;3.2;4.3;3.7;3.0;2.8;
+73;Age: 45 years or older;Reliability margin;Caribbean Netherlands ;2017/2018;3.0;3.0;3.3;2.9;3.4;3.4;2.6;3.3;3.2;2.3;2.4;0.9
+74;Age: 45 years or older;Reliability margin;Bonaire;2013;3.1;3.1;3.1;4.6;4.4;4.4;3.7;4.7;1.7;3.7;3.5;
+75;Age: 45 years or older;Reliability margin;Bonaire;2017/2018;3.0;3.0;3.1;4.0;4.0;3.9;3.4;4.2;2.1;3.3;3.0;1.0
+76;Age: 45 years or older;Reliability margin;St. Eustatius;2013;11.6;11.6;11.3;3.4;12.2;12.0;8.5;;8.2;6.7;;
+77;Age: 45 years or older;Reliability margin;St. Eustatius;2017/2018;6.9;6.9;5.9;3.8;6.5;6.4;4.1;;5.7;3.0;4.9;
+78;Age: 45 years or older;Reliability margin;Saba;2013;13.0;13.0;11.0;;13.0;12.3;12.0;;5.8;;;
+79;Age: 45 years or older;Reliability margin;Saba;2017/2018;9.3;9.3;6.7;3.0;9.0;8.6;7.5;;7.4;;5.6;4.5
+80;Age: 15 to 24 years;Percentage/average;Caribbean Netherlands ;2013;13.5;86.5;67.3;90.8;74.0;55.9;15.7;50.5;35.9;4.7;6.3;2.6
+81;Age: 15 to 24 years;Percentage/average;Caribbean Netherlands ;2017/2018;20.5;79.5;59.6;85.9;65.8;59.8;9.7;45.1;39.1;5.2;7.4;3.2
+82;Age: 15 to 24 years;Percentage/average;Bonaire;2013;4.5;95.5;95.0;86.4;90.5;68.9;13.3;74.5;10.8;5.3;6.6;
+83;Age: 15 to 24 years;Percentage/average;Bonaire;2017/2018;12.1;87.9;96.8;77.3;84.0;73.0;9.5;76.1;6.6;6.7;8.3;
+84;Age: 15 to 24 years;Percentage/average;St. Eustatius;2013;;;;;;;;;;;;
+85;Age: 15 to 24 years;Percentage/average;St. Eustatius;2017/2018;;;;;;;;;;;;
+86;Age: 15 to 24 years;Percentage/average;Saba;2013;;;;;;;;;;;;
+87;Age: 15 to 24 years;Percentage/average;Saba;2017/2018;;;;;;;;;;;;
+88;Age: 15 to 24 years;Reliability margin;Caribbean Netherlands ;2013;5.3;5.3;7.2;4.4;6.7;7.6;5.6;7.7;7.4;3.3;3.7;2.5
+89;Age: 15 to 24 years;Reliability margin;Caribbean Netherlands ;2017/2018;5.2;5.2;6.4;4.5;6.2;6.4;3.8;6.5;6.3;2.9;3.4;2.3
+90;Age: 15 to 24 years;Reliability margin;Bonaire;2013;3.9;3.9;4.1;6.4;5.5;8.7;6.4;8.2;5.8;4.2;4.7;
+91;Age: 15 to 24 years;Reliability margin;Bonaire;2017/2018;5.5;5.5;3.0;7.1;6.2;7.5;5.0;7.3;4.2;4.2;4.7;
+92;Age: 15 to 24 years;Reliability margin;St. Eustatius;2013;;;;;;;;;;;;
+93;Age: 15 to 24 years;Reliability margin;St. Eustatius;2017/2018;;;;;;;;;;;;
+94;Age: 15 to 24 years;Reliability margin;Saba;2013;;;;;;;;;;;;
+95;Age: 15 to 24 years;Reliability margin;Saba;2017/2018;;;;;;;;;;;;
+96;Age: 25 to 44 years;Percentage/average;Caribbean Netherlands ;2013;18.3;81.7;64.8;80.5;66.2;69.7;12.7;42.5;24.6;13.6;17.3;1.9
+97;Age: 25 to 44 years;Percentage/average;Caribbean Netherlands ;2017/2018;23.5;76.4;57.8;80.8;55.9;56.0;15.9;33.2;36.0;11.4;15.1;4.4
+98;Age: 25 to 44 years;Percentage/average;Bonaire;2013;11.4;88.6;81.1;75.7;74.3;81.9;12.5;57.3;3.8;17.4;20.0;1.5
+99;Age: 25 to 44 years;Percentage/average;Bonaire;2017/2018;14.0;86.0;86.9;71.9;69.5;71.1;12.7;55.2;6.5;16.9;17.0;4.4
+100;Age: 25 to 44 years;Percentage/average;St. Eustatius;2013;;;;;;;;;;;;
+101;Age: 25 to 44 years;Percentage/average;St. Eustatius;2017/2018;42.3;57.7;21.2;93.0;39.3;37.0;8.2;;80.5;;13.8;3.8
+102;Age: 25 to 44 years;Percentage/average;Saba;2013;;;;;;;;;;;;
+103;Age: 25 to 44 years;Percentage/average;Saba;2017/2018;30.0;70.0;7.1;94.8;31.7;29.3;38.4;;76.5;8.0;10.1;5.4
+104;Age: 25 to 44 years;Reliability margin;Caribbean Netherlands ;2013;3.9;3.9;4.8;4.0;4.8;4.6;3.4;5.0;4.3;3.4;3.8;1.4
+105;Age: 25 to 44 years;Reliability margin;Caribbean Netherlands ;2017/2018;3.5;3.5;4.0;3.2;4.1;4.1;3.0;3.9;3.9;2.6;2.9;1.7
+106;Age: 25 to 44 years;Reliability margin;Bonaire;2013;3.7;3.7;4.6;5.0;5.1;4.5;3.9;5.8;2.3;4.4;4.7;1.5
+107;Age: 25 to 44 years;Reliability margin;Bonaire;2017/2018;3.7;3.7;3.6;4.8;4.9;4.8;3.5;5.3;2.6;4.0;4.0;2.2
+108;Age: 25 to 44 years;Reliability margin;St. Eustatius;2013;;;;;;;;;;;;
+109;Age: 25 to 44 years;Reliability margin;St. Eustatius;2017/2018;8.3;8.3;6.8;4.3;8.2;8.1;4.6;;6.6;;5.8;3.2
+110;Age: 25 to 44 years;Reliability margin;Saba;2013;;;;;;;;;;;;
+111;Age: 25 to 44 years;Reliability margin;Saba;2017/2018;9.3;9.3;5.2;4.5;9.4;9.2;9.8;;8.6;5.5;6.1;4.6
+112;Age: 45 to 64 years;Percentage/average;Caribbean Netherlands ;2013;12.5;87.5;75.2;78.6;68.3;71.7;16.9;47.5;22.6;15.1;14.1;
+113;Age: 45 to 64 years;Percentage/average;Caribbean Netherlands ;2017/2018;24.0;76.0;62.2;78.1;55.4;59.1;18.2;37.3;31.8;12.7;15.9;2.3
+114;Age: 45 to 64 years;Percentage/average;Bonaire;2013;7.2;92.8;89.2;72.7;73.7;79.3;16.1;62.0;3.2;17.3;17.2;
+115;Age: 45 to 64 years;Percentage/average;Bonaire;2017/2018;11.2;88.8;84.2;70.1;68.8;73.3;21.4;57.9;6.6;17.7;15.9;1.9
+116;Age: 45 to 64 years;Percentage/average;St. Eustatius;2013;;;;;;;;;;;;
+117;Age: 45 to 64 years;Percentage/average;St. Eustatius;2017/2018;50.7;49.3;28.0;90.3;32.1;35.5;8.5;;75.8;4.8;16.9;
+118;Age: 45 to 64 years;Percentage/average;Saba;2013;34.6;65.4;25.4;100.0;39.0;38.6;27.9;;94.3;;;
+119;Age: 45 to 64 years;Percentage/average;Saba;2017/2018;38.4;61.6;14.5;96.2;31.3;31.3;20.0;;77.0;;14.5;5.6
+120;Age: 45 to 64 years;Reliability margin;Caribbean Netherlands ;2013;3.3;3.3;4.3;4.1;4.6;4.5;3.7;5.0;4.2;3.6;3.5;
+121;Age: 45 to 64 years;Reliability margin;Caribbean Netherlands ;2017/2018;3.4;3.4;3.9;3.3;4.0;3.9;3.1;3.9;3.7;2.7;2.9;1.2
+122;Age: 45 to 64 years;Reliability margin;Bonaire;2013;3.0;3.0;3.6;5.1;5.1;4.7;4.2;5.6;2.0;4.4;4.4;
+123;Age: 45 to 64 years;Reliability margin;Bonaire;2017/2018;3.2;3.2;3.7;4.6;4.7;4.4;4.1;5.0;2.5;3.8;3.7;1.4
+124;Age: 45 to 64 years;Reliability margin;St. Eustatius;2013;;;;;;;;;;;;
+125;Age: 45 to 64 years;Reliability margin;St. Eustatius;2017/2018;8.2;8.2;7.4;4.9;7.7;7.9;4.6;;7.1;3.5;6.2;
+126;Age: 45 to 64 years;Reliability margin;Saba;2013;15.6;15.6;14.2;;16.0;15.9;14.7;;7.6;;;
+127;Age: 45 to 64 years;Reliability margin;Saba;2017/2018;11.2;11.2;8.1;4.4;10.7;10.7;9.3;;9.7;;8.1;5.3
+128;Age: 65 years or older;Percentage/average;Caribbean Netherlands ;2013;29.0;71.0;72.6;70.3;62.0;44.8;17.7;56.9;26.6;12.0;4.1;
+129;Age: 65 years or older;Percentage/average;Caribbean Netherlands ;2017/2018;33.2;66.8;58.3;72.2;53.4;44.8;16.4;39.0;38.4;13.0;8.7;
+130;Age: 65 years or older;Percentage/average;Bonaire;2013;21.3;78.8;87.5;60.7;71.2;55.5;18.8;75.4;;15.5;5.4;
+131;Age: 65 years or older;Percentage/average;Bonaire;2017/2018;23.0;77.0;86.0;56.3;64.7;59.4;17.3;63.8;6.8;18.7;10.8;
+132;Age: 65 years or older;Percentage/average;St. Eustatius;2013;;;;;;;;;;;;
+133;Age: 65 years or older;Percentage/average;St. Eustatius;2017/2018;53.9;46.1;14.7;95.6;33.4;21.5;12.5;;86.4;;8.6;
+134;Age: 65 years or older;Percentage/average;Saba;2013;;;;;;;;;;;;
+135;Age: 65 years or older;Percentage/average;Saba;2017/2018;41.8;58.2;14.8;100.0;39.2;22.8;18.7;;91.2;;;
+136;Age: 65 years or older;Reliability margin;Caribbean Netherlands ;2013;7.8;7.8;7.6;7.8;8.3;8.4;6.5;8.5;7.5;5.6;3.4;
+137;Age: 65 years or older;Reliability margin;Caribbean Netherlands ;2017/2018;6.0;6.0;6.3;5.7;6.4;6.3;4.7;6.2;6.2;4.3;3.6;
+138;Age: 65 years or older;Reliability margin;Bonaire;2013;8.1;8.1;6.5;9.6;8.9;9.8;7.7;8.5;;7.2;4.5;
+139;Age: 65 years or older;Reliability margin;Bonaire;2017/2018;6.9;6.9;5.6;8.1;7.8;8.0;6.2;7.8;4.1;6.4;5.1;
+140;Age: 65 years or older;Reliability margin;St. Eustatius;2013;;;;;;;;;;;;
+141;Age: 65 years or older;Reliability margin;St. Eustatius;2017/2018;13.0;13.0;9.2;5.3;12.3;10.7;8.6;;8.9;;7.3;
+142;Age: 65 years or older;Reliability margin;Saba;2013;;;;;;;;;;;;
+143;Age: 65 years or older;Reliability margin;Saba;2017/2018;16.6;16.6;11.9;;16.4;14.1;13.1;;9.5;;;
+144;Level of education: Low;Percentage/average;Caribbean Netherlands ;2013;19.1;80.9;72.8;76.0;66.4;68.0;7.2;54.5;25.0;4.7;14.6;1.2
+145;Level of education: Low;Percentage/average;Caribbean Netherlands ;2017/2018;30.3;69.7;61.4;70.5;49.7;57.5;6.9;40.7;35.5;3.3;18.0;2.6
+146;Level of education: Low;Percentage/average;Bonaire;2013;11.6;88.4;91.3;68.6;74.9;80.3;7.5;73.6;2.0;6.3;17.1;1.0
+147;Level of education: Low;Percentage/average;Bonaire;2017/2018;17.9;82.1;91.4;55.3;62.2;73.0;8.0;67.0;4.3;5.0;20.5;3.3
+148;Level of education: Low;Percentage/average;St. Eustatius;2013;37.0;63.0;21.7;96.6;44.7;32.1;6.1;;90.2;;7.8;
+149;Level of education: Low;Percentage/average;St. Eustatius;2017/2018;54.3;45.7;18.1;93.5;30.1;30.6;2.6;;84.4;;13.2;
+150;Level of education: Low;Percentage/average;Saba;2013;49.9;50.1;14.8;99.1;35.6;33.3;6.4;;92.2;;6.3;
+151;Level of education: Low;Percentage/average;Saba;2017/2018;37.1;62.9;9.9;94.4;31.6;41.2;11.5;;80.2;;16.2;
+152;Level of education: Low;Reliability margin;Caribbean Netherlands ;2013;3.2;3.2;3.6;3.4;3.8;3.8;2.1;4.0;3.5;1.7;2.9;0.9
+153;Level of education: Low;Reliability margin;Caribbean Netherlands ;2017/2018;3.0;3.0;3.2;3.0;3.3;3.2;1.7;3.2;3.1;1.2;2.5;1.0
+154;Level of education: Low;Reliability margin;Bonaire;2013;3.0;3.0;2.7;4.4;4.1;3.7;2.5;4.2;1.3;2.3;3.6;1.0
+155;Level of education: Low;Reliability margin;Bonaire;2017/2018;3.2;3.2;2.4;4.2;4.1;3.7;2.3;4.0;1.7;1.8;3.4;1.5
+156;Level of education: Low;Reliability margin;St. Eustatius;2013;10.5;10.5;9.0;4.0;10.8;10.1;5.2;;6.4;;5.8;
+157;Level of education: Low;Reliability margin;St. Eustatius;2017/2018;6.2;6.2;4.8;3.1;5.7;5.7;2.0;;4.5;;4.2;
+158;Level of education: Low;Reliability margin;Saba;2013;12.2;12.2;8.7;2.3;11.7;11.5;6.0;;6.5;;5.9;
+159;Level of education: Low;Reliability margin;Saba;2017/2018;9.3;9.3;5.7;4.4;8.9;9.4;6.1;;7.6;;7.1;
+160;Level of education: Intermediate/High;Percentage/average;Caribbean Netherlands ;2013;13.4;86.6;66.7;85.1;69.3;61.6;25.8;39.0;26.0;22.8;10.6;1.7
+161;Level of education: Intermediate/High;Percentage/average;Caribbean Netherlands ;2017/2018;17.3;82.7;58.1;90.1;66.0;54.4;27.2;33.0;34.7;21.1;7.7;3.5
+162;Level of education: Intermediate/High;Percentage/average;Bonaire;2013;8.1;92.0;81.5;81.1;77.5;69.9;23.8;51.7;7.4;26.9;12.6;1.3
+163;Level of education: Intermediate/High;Percentage/average;Bonaire;2017/2018;9.0;91.0;81.9;87.0;80.4;67.9;26.3;52.1;9.2;29.5;7.5;1.7
+164;Level of education: Intermediate/High;Percentage/average;St. Eustatius;2013;;;;;;;;;;;;
+165;Level of education: Intermediate/High;Percentage/average;St. Eustatius;2017/2018;33.9;66.1;27.6;90.7;49.6;38.9;20.0;;73.0;6.7;12.0;5.5
+166;Level of education: Intermediate/High;Percentage/average;Saba;2013;38.1;61.9;12.2;100.0;29.6;22.1;36.8;;93.5;;;4.5
+167;Level of education: Intermediate/High;Percentage/average;Saba;2017/2018;28.4;71.6;11.3;98.8;35.9;26.6;36.1;;79.9;7.7;4.6;7.5
+168;Level of education: Intermediate/High;Reliability margin;Caribbean Netherlands ;2013;3.1;3.1;4.3;3.2;4.2;4.4;4.0;4.4;4.0;3.8;2.8;1.2
+169;Level of education: Intermediate/High;Reliability margin;Caribbean Netherlands ;2017/2018;2.8;2.8;3.6;2.2;3.5;3.6;3.3;3.4;3.5;3.0;2.0;1.4
+170;Level of education: Intermediate/High;Reliability margin;Bonaire;2013;2.9;2.9;4.1;4.1;4.4;4.8;4.5;5.3;2.8;4.7;3.5;1.2
+171;Level of education: Intermediate/High;Reliability margin;Bonaire;2017/2018;2.6;2.6;3.6;3.1;3.7;4.3;4.1;4.6;2.7;4.2;2.5;1.2
+172;Level of education: Intermediate/High;Reliability margin;St. Eustatius;2013;;;;;;;;;;;;
+173;Level of education: Intermediate/High;Reliability margin;St. Eustatius;2017/2018;8.3;8.3;7.8;5.1;8.8;8.5;7.0;;7.8;4.4;5.7;4.0
+174;Level of education: Intermediate/High;Reliability margin;Saba;2013;10.6;10.6;7.1;;9.9;9.0;10.5;;5.4;;;4.5
+175;Level of education: Intermediate/High;Reliability margin;Saba;2017/2018;7.4;7.4;5.2;1.8;7.8;7.2;7.8;;6.5;4.3;3.4;4.3
+176;Level of education: Intermediate;Percentage/average;Caribbean Netherlands ;2013;12.1;87.9;76.0;80.9;73.6;68.2;17.4;48.4;20.6;17.2;12.3;1.5
+177;Level of education: Intermediate;Percentage/average;Caribbean Netherlands ;2017/2018;18.9;81.1;62.3;85.3;66.2;61.5;18.2;39.9;30.0;15.7;11.5;2.9
+178;Level of education: Intermediate;Percentage/average;Bonaire;2013;8.9;91.1;86.2;77.3;77.8;74.3;17.9;59.5;5.5;19.5;13.9;1.7
+179;Level of education: Intermediate;Percentage/average;Bonaire;2017/2018;12.0;88.0;83.5;81.4;76.6;72.7;20.5;59.5;5.7;22.1;10.8;2.0
+180;Level of education: Intermediate;Percentage/average;St. Eustatius;2013;;;;;;;;;;;;
+181;Level of education: Intermediate;Percentage/average;St. Eustatius;2017/2018;36.7;63.4;27.3;87.4;49.7;39.3;11.4;;73.6;;14.4;6.3
+182;Level of education: Intermediate;Percentage/average;Saba;2013;;;;;;;;;;;;
+183;Level of education: Intermediate;Percentage/average;Saba;2017/2018;26.7;73.4;13.8;100.0;41.2;40.3;17.0;;81.4;;10.8;
+184;Level of education: Intermediate;Reliability margin;Caribbean Netherlands ;2013;3.8;3.8;4.9;4.5;5.1;5.4;4.4;5.8;4.7;4.4;3.8;1.4
+185;Level of education: Intermediate;Reliability margin;Caribbean Netherlands ;2017/2018;3.8;3.8;4.7;3.4;4.6;4.7;3.7;4.7;4.4;3.5;3.1;1.6
+186;Level of education: Intermediate;Reliability margin;Bonaire;2013;3.7;3.7;4.4;5.4;5.4;5.6;4.9;6.3;2.9;5.1;4.4;1.6
+187;Level of education: Intermediate;Reliability margin;Bonaire;2017/2018;3.9;3.9;4.4;4.6;5.0;5.3;4.8;5.8;2.7;4.9;3.7;1.6
+188;Level of education: Intermediate;Reliability margin;St. Eustatius;2013;;;;;;;;;;;;
+189;Level of education: Intermediate;Reliability margin;St. Eustatius;2017/2018;10.7;10.7;9.9;7.4;11.1;10.9;7.1;;9.8;;7.8;5.4
+190;Level of education: Intermediate;Reliability margin;Saba;2013;;;;;;;;;;;;
+191;Level of education: Intermediate;Reliability margin;Saba;2017/2018;11.1;11.1;8.6;;12.3;12.3;9.4;;9.7;;7.8;
+192;Level of education: High;Percentage/average;Caribbean Netherlands ;2013;15.6;84.4;51.5;92.0;62.2;50.8;39.5;23.4;35.0;32.0;7.8;
+193;Level of education: High;Percentage/average;Caribbean Netherlands ;2017/2018;15.1;84.9;52.3;96.5;65.7;44.8;39.3;23.5;41.2;28.4;2.6;4.4
+194;Level of education: High;Percentage/average;Bonaire;2013;6.3;93.7;71.8;89.1;76.7;60.8;36.2;35.7;11.4;42.3;10.0;
+195;Level of education: High;Percentage/average;Bonaire;2017/2018;4.2;95.9;79.4;96.0;86.4;60.2;35.4;40.5;14.7;41.1;2.4;
+196;Level of education: High;Percentage/average;St. Eustatius;2013;;;;;;;;;;;;
+197;Level of education: High;Percentage/average;St. Eustatius;2017/2018;29.4;70.6;28.2;96.2;49.6;38.2;34.2;;71.9;14.3;8.0;
+198;Level of education: High;Percentage/average;Saba;2013;36.1;63.9;12.1;100.0;25.6;21.4;44.6;;92.8;;;
+199;Level of education: High;Percentage/average;Saba;2017/2018;29.7;70.3;9.4;97.8;31.8;16.4;50.5;;78.7;9.8;;10.9
+200;Level of education: High;Reliability margin;Caribbean Netherlands ;2013;5.4;5.4;7.4;4.0;7.2;7.4;7.3;6.3;7.1;6.9;4.0;
+201;Level of education: High;Reliability margin;Caribbean Netherlands ;2017/2018;4.0;4.0;5.6;2.1;5.3;5.6;5.5;4.8;5.5;5.1;1.8;2.3
+202;Level of education: High;Reliability margin;Bonaire;2013;4.5;4.5;8.3;5.8;7.8;9.1;8.9;8.9;5.9;9.2;5.6;
+203;Level of education: High;Reliability margin;Bonaire;2017/2018;3.0;3.0;6.0;2.9;5.1;7.3;7.1;7.3;5.3;7.3;2.3;
+204;Level of education: High;Reliability margin;St. Eustatius;2013;;;;;;;;;;;;
+205;Level of education: High;Reliability margin;St. Eustatius;2017/2018;13.1;13.1;12.9;5.5;14.3;13.9;13.6;;12.9;10.0;7.8;
+206;Level of education: High;Reliability margin;Saba;2013;12.6;12.6;8.5;;11.3;10.6;12.9;;6.8;;;
+207;Level of education: High;Reliability margin;Saba;2017/2018;9.9;9.9;6.3;3.2;10.1;8.0;10.8;;8.8;6.4;;6.7

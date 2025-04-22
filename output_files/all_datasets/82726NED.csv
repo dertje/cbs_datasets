@@ -1,0 +1,361 @@
+﻿ID;Geslacht;Functies;Perioden;Personeel_1
+0;Mannen en vrouwen;Totaal personeel;2012;11121
+1;Mannen en vrouwen;Totaal personeel;2013;10778
+2;Mannen en vrouwen;Totaal personeel;2014;10203
+3;Mannen en vrouwen;Totaal personeel;2015;9352
+4;Mannen en vrouwen;Totaal personeel;2016;8421
+5;Mannen en vrouwen;Totaal lijnmanagement;2012;962
+6;Mannen en vrouwen;Totaal lijnmanagement;2013;910
+7;Mannen en vrouwen;Totaal lijnmanagement;2014;863
+8;Mannen en vrouwen;Totaal lijnmanagement;2015;795
+9;Mannen en vrouwen;Totaal lijnmanagement;2016;700
+10;Mannen en vrouwen;Middenmanager;2012;143
+11;Mannen en vrouwen;Middenmanager;2013;134
+12;Mannen en vrouwen;Middenmanager;2014;131
+13;Mannen en vrouwen;Middenmanager;2015;118
+14;Mannen en vrouwen;Middenmanager;2016;105
+15;Mannen en vrouwen;Operationeel manager;2012;819
+16;Mannen en vrouwen;Operationeel manager;2013;776
+17;Mannen en vrouwen;Operationeel manager;2014;732
+18;Mannen en vrouwen;Operationeel manager;2015;677
+19;Mannen en vrouwen;Operationeel manager;2016;595
+20;Mannen en vrouwen;Totaal uitvoering;2012;9075
+21;Mannen en vrouwen;Totaal uitvoering;2013;8789
+22;Mannen en vrouwen;Totaal uitvoering;2014;8364
+23;Mannen en vrouwen;Totaal uitvoering;2015;7678
+24;Mannen en vrouwen;Totaal uitvoering;2016;7055
+25;Mannen en vrouwen;(Inrichtings)beveiliger;2012;2699
+26;Mannen en vrouwen;(Inrichtings)beveiliger;2013;2651
+27;Mannen en vrouwen;(Inrichtings)beveiliger;2014;2470
+28;Mannen en vrouwen;(Inrichtings)beveiliger;2015;2279
+29;Mannen en vrouwen;(Inrichtings)beveiliger;2016;2076
+30;Mannen en vrouwen;Forensisch therapeutisch werker;2012;780
+31;Mannen en vrouwen;Forensisch therapeutisch werker;2013;779
+32;Mannen en vrouwen;Forensisch therapeutisch werker;2014;750
+33;Mannen en vrouwen;Forensisch therapeutisch werker;2015;725
+34;Mannen en vrouwen;Forensisch therapeutisch werker;2016;688
+35;Mannen en vrouwen;Inrichtingswerker;2012;3755
+36;Mannen en vrouwen;Inrichtingswerker;2013;3630
+37;Mannen en vrouwen;Inrichtingswerker;2014;3396
+38;Mannen en vrouwen;Inrichtingswerker;2015;3028
+39;Mannen en vrouwen;Inrichtingswerker;2016;2789
+40;Mannen en vrouwen;Medewerker behandelen en ontwikkelen;2012;18
+41;Mannen en vrouwen;Medewerker behandelen en ontwikkelen;2013;19
+42;Mannen en vrouwen;Medewerker behandelen en ontwikkelen;2014;26
+43;Mannen en vrouwen;Medewerker behandelen en ontwikkelen;2015;28
+44;Mannen en vrouwen;Medewerker behandelen en ontwikkelen;2016;26
+45;Mannen en vrouwen;Medewerker educatie en vorming;2012;333
+46;Mannen en vrouwen;Medewerker educatie en vorming;2013;325
+47;Mannen en vrouwen;Medewerker educatie en vorming;2014;306
+48;Mannen en vrouwen;Medewerker educatie en vorming;2015;259
+49;Mannen en vrouwen;Medewerker educatie en vorming;2016;224
+50;Mannen en vrouwen;Medewerker verwerken en behandelen;2012;676
+51;Mannen en vrouwen;Medewerker verwerken en behandelen;2013;578
+52;Mannen en vrouwen;Medewerker verwerken en behandelen;2014;576
+53;Mannen en vrouwen;Medewerker verwerken en behandelen;2015;520
+54;Mannen en vrouwen;Medewerker verwerken en behandelen;2016;455
+55;Mannen en vrouwen;Medicus / gedragswetenschapper;2012;182
+56;Mannen en vrouwen;Medicus / gedragswetenschapper;2013;179
+57;Mannen en vrouwen;Medicus / gedragswetenschapper;2014;177
+58;Mannen en vrouwen;Medicus / gedragswetenschapper;2015;165
+59;Mannen en vrouwen;Medicus / gedragswetenschapper;2016;150
+60;Mannen en vrouwen;Sociaal-maatschappelijk werker;2012;290
+61;Mannen en vrouwen;Sociaal-maatschappelijk werker;2013;316
+62;Mannen en vrouwen;Sociaal-maatschappelijk werker;2014;354
+63;Mannen en vrouwen;Sociaal-maatschappelijk werker;2015;373
+64;Mannen en vrouwen;Sociaal-maatschappelijk werker;2016;362
+65;Mannen en vrouwen;Zorgprofessional;2012;342
+66;Mannen en vrouwen;Zorgprofessional;2013;312
+67;Mannen en vrouwen;Zorgprofessional;2014;309
+68;Mannen en vrouwen;Zorgprofessional;2015;301
+69;Mannen en vrouwen;Zorgprofessional;2016;287
+70;Mannen en vrouwen;Totaal bedrijfsvoering;2012;1001
+71;Mannen en vrouwen;Totaal bedrijfsvoering;2013;1000
+72;Mannen en vrouwen;Totaal bedrijfsvoering;2014;959
+73;Mannen en vrouwen;Totaal bedrijfsvoering;2015;872
+74;Mannen en vrouwen;Totaal bedrijfsvoering;2016;660
+75;Mannen en vrouwen;Adviseur bedrijfsvoering;2012;227
+76;Mannen en vrouwen;Adviseur bedrijfsvoering;2013;233
+77;Mannen en vrouwen;Adviseur bedrijfsvoering;2014;223
+78;Mannen en vrouwen;Adviseur bedrijfsvoering;2015;203
+79;Mannen en vrouwen;Adviseur bedrijfsvoering;2016;194
+80;Mannen en vrouwen;Managementondersteuner;2012;149
+81;Mannen en vrouwen;Managementondersteuner;2013;158
+82;Mannen en vrouwen;Managementondersteuner;2014;159
+83;Mannen en vrouwen;Managementondersteuner;2015;134
+84;Mannen en vrouwen;Managementondersteuner;2016;117
+85;Mannen en vrouwen;Medewerker administratie;2012;192
+86;Mannen en vrouwen;Medewerker administratie;2013;197
+87;Mannen en vrouwen;Medewerker administratie;2014;169
+88;Mannen en vrouwen;Medewerker administratie;2015;157
+89;Mannen en vrouwen;Medewerker administratie;2016;146
+90;Mannen en vrouwen;Medewerker facilitair management;2012;233
+91;Mannen en vrouwen;Medewerker facilitair management;2013;224
+92;Mannen en vrouwen;Medewerker facilitair management;2014;223
+93;Mannen en vrouwen;Medewerker facilitair management;2015;199
+94;Mannen en vrouwen;Medewerker facilitair management;2016;115
+95;Mannen en vrouwen;Medewerker ICT / techniek / inform. beh ;2012;157
+96;Mannen en vrouwen;Medewerker ICT / techniek / inform. beh ;2013;144
+97;Mannen en vrouwen;Medewerker ICT / techniek / inform. beh ;2014;133
+98;Mannen en vrouwen;Medewerker ICT / techniek / inform. beh ;2015;130
+99;Mannen en vrouwen;Medewerker ICT / techniek / inform. beh ;2016;45
+100;Mannen en vrouwen;Medewerker vervoer;2012;3
+101;Mannen en vrouwen;Medewerker vervoer;2013;3
+102;Mannen en vrouwen;Medewerker vervoer;2014;3
+103;Mannen en vrouwen;Medewerker vervoer;2015;2
+104;Mannen en vrouwen;Medewerker vervoer;2016;2
+105;Mannen en vrouwen;Senior adviseur bedrijfsvoering;2012;32
+106;Mannen en vrouwen;Senior adviseur bedrijfsvoering;2013;34
+107;Mannen en vrouwen;Senior adviseur bedrijfsvoering;2014;37
+108;Mannen en vrouwen;Senior adviseur bedrijfsvoering;2015;35
+109;Mannen en vrouwen;Senior adviseur bedrijfsvoering;2016;31
+110;Mannen en vrouwen;Trainer;2012;8
+111;Mannen en vrouwen;Trainer;2013;7
+112;Mannen en vrouwen;Trainer;2014;12
+113;Mannen en vrouwen;Trainer;2015;12
+114;Mannen en vrouwen;Trainer;2016;10
+115;Mannen en vrouwen;Niet ingedeeld en overige functies;2012;83
+116;Mannen en vrouwen;Niet ingedeeld en overige functies;2013;79
+117;Mannen en vrouwen;Niet ingedeeld en overige functies;2014;17
+118;Mannen en vrouwen;Niet ingedeeld en overige functies;2015;7
+119;Mannen en vrouwen;Niet ingedeeld en overige functies;2016;6
+120;Mannen;Totaal personeel;2012;7619
+121;Mannen;Totaal personeel;2013;7379
+122;Mannen;Totaal personeel;2014;6951
+123;Mannen;Totaal personeel;2015;6343
+124;Mannen;Totaal personeel;2016;5700
+125;Mannen;Totaal lijnmanagement;2012;753
+126;Mannen;Totaal lijnmanagement;2013;709
+127;Mannen;Totaal lijnmanagement;2014;667
+128;Mannen;Totaal lijnmanagement;2015;612
+129;Mannen;Totaal lijnmanagement;2016;544
+130;Mannen;Middenmanager;2012;104
+131;Mannen;Middenmanager;2013;94
+132;Mannen;Middenmanager;2014;90
+133;Mannen;Middenmanager;2015;82
+134;Mannen;Middenmanager;2016;71
+135;Mannen;Operationeel manager;2012;649
+136;Mannen;Operationeel manager;2013;615
+137;Mannen;Operationeel manager;2014;577
+138;Mannen;Operationeel manager;2015;530
+139;Mannen;Operationeel manager;2016;473
+140;Mannen;Totaal uitvoering;2012;6253
+141;Mannen;Totaal uitvoering;2013;6059
+142;Mannen;Totaal uitvoering;2014;5720
+143;Mannen;Totaal uitvoering;2015;5217
+144;Mannen;Totaal uitvoering;2016;4787
+145;Mannen;(Inrichtings)beveiliger;2012;2096
+146;Mannen;(Inrichtings)beveiliger;2013;2049
+147;Mannen;(Inrichtings)beveiliger;2014;1879
+148;Mannen;(Inrichtings)beveiliger;2015;1731
+149;Mannen;(Inrichtings)beveiliger;2016;1572
+150;Mannen;Forensisch therapeutisch werker;2012;570
+151;Mannen;Forensisch therapeutisch werker;2013;556
+152;Mannen;Forensisch therapeutisch werker;2014;534
+153;Mannen;Forensisch therapeutisch werker;2015;517
+154;Mannen;Forensisch therapeutisch werker;2016;482
+155;Mannen;Inrichtingswerker;2012;2938
+156;Mannen;Inrichtingswerker;2013;2857
+157;Mannen;Inrichtingswerker;2014;2691
+158;Mannen;Inrichtingswerker;2015;2390
+159;Mannen;Inrichtingswerker;2016;2201
+160;Mannen;Medewerker behandelen en ontwikkelen;2012;7
+161;Mannen;Medewerker behandelen en ontwikkelen;2013;6
+162;Mannen;Medewerker behandelen en ontwikkelen;2014;12
+163;Mannen;Medewerker behandelen en ontwikkelen;2015;12
+164;Mannen;Medewerker behandelen en ontwikkelen;2016;10
+165;Mannen;Medewerker educatie en vorming;2012;189
+166;Mannen;Medewerker educatie en vorming;2013;188
+167;Mannen;Medewerker educatie en vorming;2014;177
+168;Mannen;Medewerker educatie en vorming;2015;156
+169;Mannen;Medewerker educatie en vorming;2016;139
+170;Mannen;Medewerker verwerken en behandelen;2012;171
+171;Mannen;Medewerker verwerken en behandelen;2013;125
+172;Mannen;Medewerker verwerken en behandelen;2014;140
+173;Mannen;Medewerker verwerken en behandelen;2015;125
+174;Mannen;Medewerker verwerken en behandelen;2016;112
+175;Mannen;Medicus / gedragswetenschapper;2012;64
+176;Mannen;Medicus / gedragswetenschapper;2013;62
+177;Mannen;Medicus / gedragswetenschapper;2014;61
+178;Mannen;Medicus / gedragswetenschapper;2015;51
+179;Mannen;Medicus / gedragswetenschapper;2016;45
+180;Mannen;Sociaal-maatschappelijk werker;2012;143
+181;Mannen;Sociaal-maatschappelijk werker;2013;151
+182;Mannen;Sociaal-maatschappelijk werker;2014;161
+183;Mannen;Sociaal-maatschappelijk werker;2015;167
+184;Mannen;Sociaal-maatschappelijk werker;2016;162
+185;Mannen;Zorgprofessional;2012;75
+186;Mannen;Zorgprofessional;2013;65
+187;Mannen;Zorgprofessional;2014;65
+188;Mannen;Zorgprofessional;2015;68
+189;Mannen;Zorgprofessional;2016;65
+190;Mannen;Totaal bedrijfsvoering;2012;573
+191;Mannen;Totaal bedrijfsvoering;2013;575
+192;Mannen;Totaal bedrijfsvoering;2014;555
+193;Mannen;Totaal bedrijfsvoering;2015;511
+194;Mannen;Totaal bedrijfsvoering;2016;367
+195;Mannen;Adviseur bedrijfsvoering;2012;141
+196;Mannen;Adviseur bedrijfsvoering;2013;152
+197;Mannen;Adviseur bedrijfsvoering;2014;147
+198;Mannen;Adviseur bedrijfsvoering;2015;131
+199;Mannen;Adviseur bedrijfsvoering;2016;127
+200;Mannen;Managementondersteuner;2012;4
+201;Mannen;Managementondersteuner;2013;9
+202;Mannen;Managementondersteuner;2014;9
+203;Mannen;Managementondersteuner;2015;8
+204;Mannen;Managementondersteuner;2016;7
+205;Mannen;Medewerker administratie;2012;87
+206;Mannen;Medewerker administratie;2013;85
+207;Mannen;Medewerker administratie;2014;76
+208;Mannen;Medewerker administratie;2015;70
+209;Mannen;Medewerker administratie;2016;66
+210;Mannen;Medewerker facilitair management;2012;153
+211;Mannen;Medewerker facilitair management;2013;154
+212;Mannen;Medewerker facilitair management;2014;155
+213;Mannen;Medewerker facilitair management;2015;139
+214;Mannen;Medewerker facilitair management;2016;92
+215;Mannen;Medewerker ICT / techniek / inform. beh ;2012;155
+216;Mannen;Medewerker ICT / techniek / inform. beh ;2013;142
+217;Mannen;Medewerker ICT / techniek / inform. beh ;2014;131
+218;Mannen;Medewerker ICT / techniek / inform. beh ;2015;128
+219;Mannen;Medewerker ICT / techniek / inform. beh ;2016;45
+220;Mannen;Medewerker vervoer;2012;3
+221;Mannen;Medewerker vervoer;2013;3
+222;Mannen;Medewerker vervoer;2014;3
+223;Mannen;Medewerker vervoer;2015;2
+224;Mannen;Medewerker vervoer;2016;2
+225;Mannen;Senior adviseur bedrijfsvoering;2012;27
+226;Mannen;Senior adviseur bedrijfsvoering;2013;26
+227;Mannen;Senior adviseur bedrijfsvoering;2014;28
+228;Mannen;Senior adviseur bedrijfsvoering;2015;27
+229;Mannen;Senior adviseur bedrijfsvoering;2016;23
+230;Mannen;Trainer;2012;3
+231;Mannen;Trainer;2013;4
+232;Mannen;Trainer;2014;6
+233;Mannen;Trainer;2015;6
+234;Mannen;Trainer;2016;5
+235;Mannen;Niet ingedeeld en overige functies;2012;40
+236;Mannen;Niet ingedeeld en overige functies;2013;36
+237;Mannen;Niet ingedeeld en overige functies;2014;9
+238;Mannen;Niet ingedeeld en overige functies;2015;3
+239;Mannen;Niet ingedeeld en overige functies;2016;2
+240;Vrouwen;Totaal personeel;2012;3502
+241;Vrouwen;Totaal personeel;2013;3399
+242;Vrouwen;Totaal personeel;2014;3252
+243;Vrouwen;Totaal personeel;2015;3009
+244;Vrouwen;Totaal personeel;2016;2722
+245;Vrouwen;Totaal lijnmanagement;2012;209
+246;Vrouwen;Totaal lijnmanagement;2013;201
+247;Vrouwen;Totaal lijnmanagement;2014;196
+248;Vrouwen;Totaal lijnmanagement;2015;183
+249;Vrouwen;Totaal lijnmanagement;2016;156
+250;Vrouwen;Middenmanager;2012;39
+251;Vrouwen;Middenmanager;2013;40
+252;Vrouwen;Middenmanager;2014;41
+253;Vrouwen;Middenmanager;2015;36
+254;Vrouwen;Middenmanager;2016;34
+255;Vrouwen;Operationeel manager;2012;170
+256;Vrouwen;Operationeel manager;2013;161
+257;Vrouwen;Operationeel manager;2014;155
+258;Vrouwen;Operationeel manager;2015;147
+259;Vrouwen;Operationeel manager;2016;122
+260;Vrouwen;Totaal uitvoering;2012;2822
+261;Vrouwen;Totaal uitvoering;2013;2730
+262;Vrouwen;Totaal uitvoering;2014;2644
+263;Vrouwen;Totaal uitvoering;2015;2461
+264;Vrouwen;Totaal uitvoering;2016;2268
+265;Vrouwen;(Inrichtings)beveiliger;2012;603
+266;Vrouwen;(Inrichtings)beveiliger;2013;602
+267;Vrouwen;(Inrichtings)beveiliger;2014;591
+268;Vrouwen;(Inrichtings)beveiliger;2015;548
+269;Vrouwen;(Inrichtings)beveiliger;2016;504
+270;Vrouwen;Forensisch therapeutisch werker;2012;210
+271;Vrouwen;Forensisch therapeutisch werker;2013;223
+272;Vrouwen;Forensisch therapeutisch werker;2014;216
+273;Vrouwen;Forensisch therapeutisch werker;2015;208
+274;Vrouwen;Forensisch therapeutisch werker;2016;206
+275;Vrouwen;Inrichtingswerker;2012;817
+276;Vrouwen;Inrichtingswerker;2013;773
+277;Vrouwen;Inrichtingswerker;2014;705
+278;Vrouwen;Inrichtingswerker;2015;638
+279;Vrouwen;Inrichtingswerker;2016;588
+280;Vrouwen;Medewerker behandelen en ontwikkelen;2012;11
+281;Vrouwen;Medewerker behandelen en ontwikkelen;2013;13
+282;Vrouwen;Medewerker behandelen en ontwikkelen;2014;14
+283;Vrouwen;Medewerker behandelen en ontwikkelen;2015;16
+284;Vrouwen;Medewerker behandelen en ontwikkelen;2016;16
+285;Vrouwen;Medewerker educatie en vorming;2012;144
+286;Vrouwen;Medewerker educatie en vorming;2013;137
+287;Vrouwen;Medewerker educatie en vorming;2014;129
+288;Vrouwen;Medewerker educatie en vorming;2015;103
+289;Vrouwen;Medewerker educatie en vorming;2016;85
+290;Vrouwen;Medewerker verwerken en behandelen;2012;505
+291;Vrouwen;Medewerker verwerken en behandelen;2013;453
+292;Vrouwen;Medewerker verwerken en behandelen;2014;436
+293;Vrouwen;Medewerker verwerken en behandelen;2015;395
+294;Vrouwen;Medewerker verwerken en behandelen;2016;343
+295;Vrouwen;Medicus / gedragswetenschapper;2012;118
+296;Vrouwen;Medicus / gedragswetenschapper;2013;117
+297;Vrouwen;Medicus / gedragswetenschapper;2014;116
+298;Vrouwen;Medicus / gedragswetenschapper;2015;114
+299;Vrouwen;Medicus / gedragswetenschapper;2016;105
+300;Vrouwen;Sociaal-maatschappelijk werker;2012;147
+301;Vrouwen;Sociaal-maatschappelijk werker;2013;165
+302;Vrouwen;Sociaal-maatschappelijk werker;2014;193
+303;Vrouwen;Sociaal-maatschappelijk werker;2015;206
+304;Vrouwen;Sociaal-maatschappelijk werker;2016;200
+305;Vrouwen;Zorgprofessional;2012;267
+306;Vrouwen;Zorgprofessional;2013;247
+307;Vrouwen;Zorgprofessional;2014;244
+308;Vrouwen;Zorgprofessional;2015;233
+309;Vrouwen;Zorgprofessional;2016;222
+310;Vrouwen;Totaal bedrijfsvoering;2012;428
+311;Vrouwen;Totaal bedrijfsvoering;2013;425
+312;Vrouwen;Totaal bedrijfsvoering;2014;404
+313;Vrouwen;Totaal bedrijfsvoering;2015;361
+314;Vrouwen;Totaal bedrijfsvoering;2016;294
+315;Vrouwen;Adviseur bedrijfsvoering;2012;86
+316;Vrouwen;Adviseur bedrijfsvoering;2013;81
+317;Vrouwen;Adviseur bedrijfsvoering;2014;76
+318;Vrouwen;Adviseur bedrijfsvoering;2015;72
+319;Vrouwen;Adviseur bedrijfsvoering;2016;68
+320;Vrouwen;Managementondersteuner;2012;145
+321;Vrouwen;Managementondersteuner;2013;149
+322;Vrouwen;Managementondersteuner;2014;150
+323;Vrouwen;Managementondersteuner;2015;126
+324;Vrouwen;Managementondersteuner;2016;110
+325;Vrouwen;Medewerker administratie;2012;105
+326;Vrouwen;Medewerker administratie;2013;112
+327;Vrouwen;Medewerker administratie;2014;93
+328;Vrouwen;Medewerker administratie;2015;87
+329;Vrouwen;Medewerker administratie;2016;80
+330;Vrouwen;Medewerker facilitair management;2012;80
+331;Vrouwen;Medewerker facilitair management;2013;70
+332;Vrouwen;Medewerker facilitair management;2014;68
+333;Vrouwen;Medewerker facilitair management;2015;60
+334;Vrouwen;Medewerker facilitair management;2016;23
+335;Vrouwen;Medewerker ICT / techniek / inform. beh ;2012;2
+336;Vrouwen;Medewerker ICT / techniek / inform. beh ;2013;2
+337;Vrouwen;Medewerker ICT / techniek / inform. beh ;2014;2
+338;Vrouwen;Medewerker ICT / techniek / inform. beh ;2015;2
+339;Vrouwen;Medewerker ICT / techniek / inform. beh ;2016;0
+340;Vrouwen;Medewerker vervoer;2012;0
+341;Vrouwen;Medewerker vervoer;2013;0
+342;Vrouwen;Medewerker vervoer;2014;0
+343;Vrouwen;Medewerker vervoer;2015;0
+344;Vrouwen;Medewerker vervoer;2016;0
+345;Vrouwen;Senior adviseur bedrijfsvoering;2012;5
+346;Vrouwen;Senior adviseur bedrijfsvoering;2013;8
+347;Vrouwen;Senior adviseur bedrijfsvoering;2014;9
+348;Vrouwen;Senior adviseur bedrijfsvoering;2015;8
+349;Vrouwen;Senior adviseur bedrijfsvoering;2016;8
+350;Vrouwen;Trainer;2012;5
+351;Vrouwen;Trainer;2013;3
+352;Vrouwen;Trainer;2014;6
+353;Vrouwen;Trainer;2015;6
+354;Vrouwen;Trainer;2016;5
+355;Vrouwen;Niet ingedeeld en overige functies;2012;43
+356;Vrouwen;Niet ingedeeld en overige functies;2013;43
+357;Vrouwen;Niet ingedeeld en overige functies;2014;8
+358;Vrouwen;Niet ingedeeld en overige functies;2015;4
+359;Vrouwen;Niet ingedeeld en overige functies;2016;4

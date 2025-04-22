@@ -1,0 +1,361 @@
+﻿ID;KenmerkenFinancien;Cijfersoort;Perioden;ScoreGeluk_1;Ongelukkig_2;NietGelukkigNietOngelukkig_3;Gelukkig_4;ScoreTevredenheidMetHetLeven_5;Ontevreden_6;NietTevredenNietOntevreden_7;Tevreden_8;ScoreTevredenheidFinancieleSituatie_9;Ontevreden_10;NietTevredenNietOntevreden_11;Tevreden_12;ScoreZorgenOverFinancieleToekomst_13;GeenZorgen_14;WeinigZorgen_15;VeelZorgen_16
+0;Totaal personen;Gemiddelde/Percentage;2013;7.7;2.5;10.0;87.5;7.5;3.4;13.0;83.6;6.9;9.3;22.4;68.3;5.1;39.8;27.9;32.2
+1;Totaal personen;Gemiddelde/Percentage;2014;7.7;2.4;9.7;87.9;7.6;3.3;12.1;84.6;7.0;8.9;20.1;70.9;4.9;44.6;25.7;29.7
+2;Totaal personen;Gemiddelde/Percentage;2015;7.7;2.8;9.8;87.4;7.5;3.9;12.2;83.9;7.0;8.6;20.9;70.5;4.9;45.2;25.5;29.4
+3;Totaal personen;Gemiddelde/Percentage;2016;7.7;2.6;9.1;88.3;7.6;3.0;11.8;85.2;7.2;7.3;19.6;73.1;4.8;47.0;25.3;27.6
+4;Totaal personen;Gemiddelde/Percentage;2017;7.7;2.8;9.8;87.5;7.6;3.5;11.1;85.4;7.2;7.0;18.0;74.9;4.6;49.5;24.3;26.2
+5;Totaal personen;Gemiddelde/Percentage;2018;7.7;2.8;9.4;87.7;7.6;2.4;11.8;85.7;7.3;6.7;17.2;76.0;4.5;52.1;22.8;25.1
+6;Totaal personen;Gemiddelde/Percentage;2019;7.7;2.6;8.5;88.9;7.7;2.4;10.3;87.3;7.3;6.7;16.1;77.2;4.5;51.5;23.2;25.2
+7;Totaal personen;Gemiddelde/Percentage;2020;7.7;2.7;10.5;86.8;7.6;2.7;12.4;84.8;7.5;5.9;14.6;79.5;4.4;54.0;21.8;24.2
+8;Totaal personen;Gemiddelde/Percentage;2021;7.6;3.3;10.3;86.4;7.5;3.3;13.0;83.6;7.6;5.2;12.9;81.9;4.2;58.2;19.3;22.5
+9;Totaal personen;Standaardfout;2013;0.0;0.2;0.4;0.4;0.0;0.2;0.4;0.4;0.0;0.3;0.5;0.6;0.0;0.6;0.5;0.6
+10;Totaal personen;Standaardfout;2014;0.0;0.2;0.3;0.4;0.0;0.2;0.4;0.4;0.0;0.3;0.5;0.5;0.0;0.6;0.5;0.5
+11;Totaal personen;Standaardfout;2015;0.0;0.2;0.4;0.4;0.0;0.2;0.4;0.4;0.0;0.3;0.5;0.5;0.0;0.6;0.5;0.5
+12;Totaal personen;Standaardfout;2016;0.0;0.2;0.3;0.4;0.0;0.2;0.4;0.4;0.0;0.3;0.5;0.5;0.0;0.6;0.5;0.5
+13;Totaal personen;Standaardfout;2017;0.0;0.2;0.3;0.4;0.0;0.2;0.4;0.4;0.0;0.3;0.5;0.5;0.0;0.6;0.5;0.5
+14;Totaal personen;Standaardfout;2018;0.0;0.2;0.3;0.4;0.0;0.2;0.4;0.4;0.0;0.3;0.4;0.5;0.0;0.6;0.5;0.5
+15;Totaal personen;Standaardfout;2019;0.0;0.2;0.3;0.4;0.0;0.2;0.4;0.4;0.0;0.3;0.4;0.5;0.0;0.6;0.5;0.5
+16;Totaal personen;Standaardfout;2020;0.0;0.2;0.4;0.4;0.0;0.2;0.4;0.4;0.0;0.3;0.4;0.5;0.0;0.6;0.5;0.5
+17;Totaal personen;Standaardfout;2021;0.0;0.2;0.4;0.4;0.0;0.2;0.4;0.5;0.0;0.3;0.4;0.5;0.0;0.6;0.5;0.5
+18;Arb.pos.: werkzame beroepsbevolking;Gemiddelde/Percentage;2013;7.8;1.5;7.5;91.0;7.7;2.1;10.7;87.3;7.1;7.1;20.6;72.2;5.1;40.7;28.0;31.3
+19;Arb.pos.: werkzame beroepsbevolking;Gemiddelde/Percentage;2014;7.8;1.6;6.7;91.7;7.7;2.0;9.5;88.5;7.2;6.5;18.6;74.8;4.9;44.4;26.9;28.7
+20;Arb.pos.: werkzame beroepsbevolking;Gemiddelde/Percentage;2015;7.8;1.8;7.1;91.1;7.7;2.2;10.0;87.8;7.2;6.5;19.2;74.3;4.9;46.2;25.8;28.0
+21;Arb.pos.: werkzame beroepsbevolking;Gemiddelde/Percentage;2016;7.8;1.7;7.3;91.0;7.7;1.8;9.6;88.6;7.3;5.6;18.0;76.5;4.7;48.4;25.7;26.0
+22;Arb.pos.: werkzame beroepsbevolking;Gemiddelde/Percentage;2017;7.8;1.5;7.6;90.9;7.7;1.7;9.3;89.0;7.5;4.7;15.5;79.8;4.6;50.9;25.1;23.9
+23;Arb.pos.: werkzame beroepsbevolking;Gemiddelde/Percentage;2018;7.8;2.0;7.7;90.3;7.7;1.5;10.2;88.2;7.4;5.6;15.8;78.6;4.5;52.8;23.0;24.2
+24;Arb.pos.: werkzame beroepsbevolking;Gemiddelde/Percentage;2019;7.8;1.6;6.7;91.7;7.7;1.4;8.5;90.1;7.5;5.2;15.1;79.7;4.5;51.6;24.3;24.1
+25;Arb.pos.: werkzame beroepsbevolking;Gemiddelde/Percentage;2020;7.7;1.8;8.7;89.4;7.7;1.8;10.2;88.0;7.6;4.5;13.2;82.3;4.4;54.8;22.6;22.6
+26;Arb.pos.: werkzame beroepsbevolking;Gemiddelde/Percentage;2021;7.7;2.6;9.1;88.4;7.6;2.3;11.8;85.9;7.8;3.8;11.3;84.9;4.2;58.9;19.5;21.5
+27;Arb.pos.: werkzame beroepsbevolking;Standaardfout;2013;0.0;0.2;0.4;0.4;0.0;0.2;0.5;0.5;0.0;0.4;0.6;0.7;0.0;0.7;0.7;0.7
+28;Arb.pos.: werkzame beroepsbevolking;Standaardfout;2014;0.0;0.2;0.4;0.4;0.0;0.2;0.4;0.5;0.0;0.4;0.6;0.6;0.0;0.7;0.7;0.7
+29;Arb.pos.: werkzame beroepsbevolking;Standaardfout;2015;0.0;0.2;0.4;0.4;0.0;0.2;0.4;0.5;0.0;0.4;0.6;0.6;0.0;0.7;0.7;0.7
+30;Arb.pos.: werkzame beroepsbevolking;Standaardfout;2016;0.0;0.2;0.4;0.4;0.0;0.2;0.4;0.5;0.0;0.3;0.6;0.6;0.0;0.7;0.7;0.7
+31;Arb.pos.: werkzame beroepsbevolking;Standaardfout;2017;0.0;0.2;0.4;0.4;0.0;0.2;0.4;0.5;0.0;0.3;0.5;0.6;0.0;0.7;0.6;0.6
+32;Arb.pos.: werkzame beroepsbevolking;Standaardfout;2018;0.0;0.2;0.4;0.4;0.0;0.2;0.4;0.5;0.0;0.3;0.5;0.6;0.0;0.7;0.6;0.6
+33;Arb.pos.: werkzame beroepsbevolking;Standaardfout;2019;0.0;0.2;0.4;0.4;0.0;0.2;0.4;0.4;0.0;0.3;0.5;0.6;0.0;0.7;0.6;0.6
+34;Arb.pos.: werkzame beroepsbevolking;Standaardfout;2020;0.0;0.2;0.4;0.4;0.0;0.2;0.4;0.5;0.0;0.3;0.5;0.6;0.0;0.7;0.6;0.6
+35;Arb.pos.: werkzame beroepsbevolking;Standaardfout;2021;0.0;0.2;0.4;0.5;0.0;0.2;0.5;0.5;0.0;0.3;0.5;0.6;0.0;0.8;0.6;0.6
+36;Arb.pos.: niet-werkzame bevolking;Gemiddelde/Percentage;2013;7.5;4.1;14.2;81.7;7.3;5.8;16.8;77.5;6.6;12.8;25.4;61.8;5.2;38.5;27.7;33.8
+37;Arb.pos.: niet-werkzame bevolking;Gemiddelde/Percentage;2014;7.5;3.6;14.7;81.7;7.4;5.5;16.4;78.0;6.7;13.0;22.7;64.3;4.8;44.8;23.7;31.4
+38;Arb.pos.: niet-werkzame bevolking;Gemiddelde/Percentage;2015;7.5;4.5;14.5;81.0;7.3;6.8;15.9;77.3;6.7;12.4;23.7;63.9;4.9;43.4;24.9;31.7
+39;Arb.pos.: niet-werkzame bevolking;Gemiddelde/Percentage;2016;7.5;4.3;12.2;83.6;7.4;5.1;15.7;79.2;6.9;10.3;22.6;67.1;4.8;44.7;24.7;30.6
+40;Arb.pos.: niet-werkzame bevolking;Gemiddelde/Percentage;2017;7.5;5.1;13.7;81.2;7.4;6.7;14.3;79.0;6.8;11.4;22.6;66.0;4.7;47.0;22.8;30.3
+41;Arb.pos.: niet-werkzame bevolking;Gemiddelde/Percentage;2018;7.5;4.5;12.6;82.9;7.4;4.1;14.8;81.0;7.1;8.8;19.9;71.3;4.4;50.6;22.6;26.8
+42;Arb.pos.: niet-werkzame bevolking;Gemiddelde/Percentage;2019;7.5;4.6;11.8;83.6;7.5;4.3;13.9;81.8;7.1;9.7;18.2;72.1;4.5;51.3;21.2;27.5
+43;Arb.pos.: niet-werkzame bevolking;Gemiddelde/Percentage;2020;7.5;4.4;13.8;81.8;7.4;4.5;16.6;78.9;7.2;8.5;17.2;74.3;4.4;52.7;20.4;27.0
+44;Arb.pos.: niet-werkzame bevolking;Gemiddelde/Percentage;2021;7.4;4.7;12.8;82.5;7.4;5.3;15.5;79.3;7.3;7.9;16.0;76.2;4.1;56.8;18.9;24.3
+45;Arb.pos.: niet-werkzame bevolking;Standaardfout;2013;0.0;0.4;0.7;0.8;0.0;0.5;0.7;0.8;0.0;0.7;0.9;1.0;0.1;1.0;0.9;0.9
+46;Arb.pos.: niet-werkzame bevolking;Standaardfout;2014;0.0;0.4;0.7;0.7;0.0;0.4;0.7;0.8;0.0;0.7;0.8;0.9;0.1;1.0;0.8;0.9
+47;Arb.pos.: niet-werkzame bevolking;Standaardfout;2015;0.0;0.4;0.7;0.8;0.0;0.5;0.7;0.8;0.0;0.6;0.8;0.9;0.1;1.0;0.8;0.9
+48;Arb.pos.: niet-werkzame bevolking;Standaardfout;2016;0.0;0.4;0.6;0.7;0.0;0.4;0.7;0.8;0.0;0.6;0.8;0.9;0.1;1.0;0.9;0.9
+49;Arb.pos.: niet-werkzame bevolking;Standaardfout;2017;0.0;0.4;0.7;0.8;0.0;0.5;0.7;0.8;0.0;0.6;0.8;0.9;0.1;1.0;0.8;0.9
+50;Arb.pos.: niet-werkzame bevolking;Standaardfout;2018;0.0;0.4;0.7;0.8;0.0;0.4;0.7;0.8;0.0;0.6;0.8;0.9;0.1;1.0;0.8;0.9
+51;Arb.pos.: niet-werkzame bevolking;Standaardfout;2019;0.0;0.4;0.7;0.8;0.0;0.4;0.7;0.8;0.0;0.6;0.8;0.9;0.1;1.0;0.8;0.9
+52;Arb.pos.: niet-werkzame bevolking;Standaardfout;2020;0.0;0.4;0.7;0.8;0.0;0.4;0.7;0.8;0.0;0.6;0.7;0.9;0.1;1.0;0.8;0.9
+53;Arb.pos.: niet-werkzame bevolking;Standaardfout;2021;0.0;0.5;0.7;0.8;0.0;0.5;0.8;0.9;0.0;0.6;0.8;0.9;0.1;1.1;0.9;0.9
+54;Gestandaardiseerd inkomen: 1e 25%-groep;Gemiddelde/Percentage;2013;7.3;4.9;18.2;76.8;7.1;6.8;20.3;72.9;5.9;22.3;31.5;46.2;5.7;31.1;28.7;40.1
+55;Gestandaardiseerd inkomen: 1e 25%-groep;Gemiddelde/Percentage;2014;7.4;4.5;17.3;78.2;7.1;7.3;18.7;73.9;6.0;21.6;29.5;48.9;5.5;34.0;27.9;38.2
+56;Gestandaardiseerd inkomen: 1e 25%-groep;Gemiddelde/Percentage;2015;7.3;6.3;15.9;77.8;7.1;8.6;19.6;71.8;6.0;20.7;32.2;47.1;5.7;31.5;29.8;38.7
+57;Gestandaardiseerd inkomen: 1e 25%-groep;Gemiddelde/Percentage;2016;7.3;6.0;15.3;78.7;7.1;6.8;20.5;72.7;6.1;19.4;34.7;45.9;5.6;32.1;28.9;39.0
+58;Gestandaardiseerd inkomen: 1e 25%-groep;Gemiddelde/Percentage;2017;7.3;6.4;16.3;77.3;7.1;7.9;18.4;73.7;6.2;18.3;30.7;51.0;5.5;34.5;27.5;38.0
+59;Gestandaardiseerd inkomen: 1e 25%-groep;Gemiddelde/Percentage;2018;7.3;6.0;15.5;78.5;7.2;5.1;19.9;75.1;6.3;18.7;29.2;52.2;5.2;38.0;26.4;35.6
+60;Gestandaardiseerd inkomen: 1e 25%-groep;Gemiddelde/Percentage;2019;7.4;5.5;13.9;80.6;7.3;5.6;17.3;77.1;6.3;18.5;28.1;53.5;5.3;38.5;26.7;34.7
+61;Gestandaardiseerd inkomen: 1e 25%-groep;Gemiddelde/Percentage;2020;7.2;5.6;19.9;74.5;7.2;5.8;21.5;72.8;6.4;17.6;25.2;57.2;5.3;38.5;26.3;35.2
+62;Gestandaardiseerd inkomen: 1e 25%-groep;Gemiddelde/Percentage;2021;7.2;6.1;18.1;75.8;7.2;6.9;19.6;73.5;6.7;14.7;24.1;61.3;4.9;44.3;23.1;32.6
+63;Gestandaardiseerd inkomen: 1e 25%-groep;Standaardfout;2013;0.0;0.6;1.1;1.2;0.0;0.7;1.1;1.3;0.1;1.2;1.3;1.4;0.1;1.3;1.3;1.4
+64;Gestandaardiseerd inkomen: 1e 25%-groep;Standaardfout;2014;0.0;0.6;1.0;1.1;0.0;0.7;1.1;1.2;0.1;1.1;1.3;1.4;0.1;1.3;1.2;1.3
+65;Gestandaardiseerd inkomen: 1e 25%-groep;Standaardfout;2015;0.0;0.7;1.0;1.1;0.0;0.8;1.1;1.2;0.1;1.1;1.3;1.4;0.1;1.3;1.3;1.3
+66;Gestandaardiseerd inkomen: 1e 25%-groep;Standaardfout;2016;0.0;0.7;1.0;1.2;0.0;0.7;1.2;1.3;0.1;1.1;1.4;1.4;0.1;1.3;1.3;1.4
+67;Gestandaardiseerd inkomen: 1e 25%-groep;Standaardfout;2017;0.0;0.7;1.0;1.1;0.0;0.7;1.0;1.2;0.1;1.0;1.3;1.4;0.1;1.3;1.2;1.3
+68;Gestandaardiseerd inkomen: 1e 25%-groep;Standaardfout;2018;0.0;0.7;1.0;1.1;0.0;0.6;1.1;1.2;0.1;1.1;1.3;1.4;0.1;1.3;1.2;1.3
+69;Gestandaardiseerd inkomen: 1e 25%-groep;Standaardfout;2019;0.0;0.6;1.0;1.1;0.0;0.7;1.1;1.2;0.1;1.1;1.3;1.4;0.1;1.4;1.3;1.3
+70;Gestandaardiseerd inkomen: 1e 25%-groep;Standaardfout;2020;0.0;0.6;1.1;1.2;0.0;0.7;1.2;1.3;0.1;1.1;1.2;1.4;0.1;1.4;1.2;1.3
+71;Gestandaardiseerd inkomen: 1e 25%-groep;Standaardfout;2021;0.1;0.8;1.2;1.3;0.1;0.8;1.2;1.4;0.1;1.1;1.3;1.5;0.1;1.5;1.3;1.5
+72;Gestandaardiseerd inkomen: 2e 25%-groep;Gemiddelde/Percentage;2013;7.6;3.2;10.2;86.6;7.4;4.2;14.6;81.2;6.5;11.5;30.0;58.5;5.5;32.0;29.8;38.2
+73;Gestandaardiseerd inkomen: 2e 25%-groep;Gemiddelde/Percentage;2014;7.7;2.8;10.2;87.1;7.5;3.4;13.2;83.4;6.7;10.7;26.7;62.6;5.2;38.5;27.5;34.0
+74;Gestandaardiseerd inkomen: 2e 25%-groep;Gemiddelde/Percentage;2015;7.6;3.5;11.1;85.4;7.4;4.5;13.9;81.6;6.6;11.7;26.3;62.0;5.1;39.7;26.9;33.4
+75;Gestandaardiseerd inkomen: 2e 25%-groep;Gemiddelde/Percentage;2016;7.6;3.0;10.5;86.5;7.5;2.9;13.8;83.3;6.8;9.1;26.2;64.7;5.1;40.8;27.9;31.3
+76;Gestandaardiseerd inkomen: 2e 25%-groep;Gemiddelde/Percentage;2017;7.6;2.8;12.1;85.1;7.5;4.1;12.2;83.7;6.9;8.0;23.8;68.2;4.9;42.9;25.9;31.2
+77;Gestandaardiseerd inkomen: 2e 25%-groep;Gemiddelde/Percentage;2018;7.6;2.9;11.4;85.7;7.5;2.8;13.5;83.7;7.0;6.8;21.8;71.4;4.8;45.5;25.6;28.8
+78;Gestandaardiseerd inkomen: 2e 25%-groep;Gemiddelde/Percentage;2019;7.6;2.6;9.7;87.7;7.5;2.1;12.3;85.6;7.1;6.9;21.3;71.8;4.7;45.9;26.4;27.7
+79;Gestandaardiseerd inkomen: 2e 25%-groep;Gemiddelde/Percentage;2020;7.6;3.3;11.7;85.0;7.5;3.5;14.3;82.2;7.2;5.4;19.7;75.0;4.7;46.8;24.7;28.5
+80;Gestandaardiseerd inkomen: 2e 25%-groep;Gemiddelde/Percentage;2021;7.5;4.0;10.9;85.1;7.4;4.2;14.7;81.2;7.3;5.9;16.7;77.3;4.4;52.1;23.2;24.7
+81;Gestandaardiseerd inkomen: 2e 25%-groep;Standaardfout;2013;0.0;0.4;0.8;0.8;0.0;0.5;0.9;1.0;0.0;0.8;1.1;1.2;0.1;1.2;1.1;1.2
+82;Gestandaardiseerd inkomen: 2e 25%-groep;Standaardfout;2014;0.0;0.4;0.7;0.8;0.0;0.4;0.8;0.9;0.0;0.8;1.1;1.2;0.1;1.2;1.1;1.2
+83;Gestandaardiseerd inkomen: 2e 25%-groep;Standaardfout;2015;0.0;0.4;0.8;0.9;0.0;0.5;0.8;0.9;0.0;0.8;1.1;1.2;0.1;1.2;1.1;1.2
+84;Gestandaardiseerd inkomen: 2e 25%-groep;Standaardfout;2016;0.0;0.4;0.8;0.9;0.0;0.4;0.9;0.9;0.0;0.7;1.1;1.2;0.1;1.2;1.1;1.2
+85;Gestandaardiseerd inkomen: 2e 25%-groep;Standaardfout;2017;0.0;0.4;0.8;0.9;0.0;0.5;0.8;0.9;0.0;0.7;1.1;1.2;0.1;1.2;1.1;1.1
+86;Gestandaardiseerd inkomen: 2e 25%-groep;Standaardfout;2018;0.0;0.4;0.8;0.9;0.0;0.4;0.8;0.9;0.0;0.6;1.0;1.1;0.1;1.2;1.1;1.1
+87;Gestandaardiseerd inkomen: 2e 25%-groep;Standaardfout;2019;0.0;0.4;0.7;0.8;0.0;0.4;0.8;0.9;0.0;0.6;1.0;1.1;0.1;1.2;1.1;1.1
+88;Gestandaardiseerd inkomen: 2e 25%-groep;Standaardfout;2020;0.0;0.4;0.8;0.9;0.0;0.4;0.8;0.9;0.0;0.5;1.0;1.0;0.1;1.2;1.0;1.1
+89;Gestandaardiseerd inkomen: 2e 25%-groep;Standaardfout;2021;0.0;0.5;0.8;0.9;0.0;0.5;0.9;1.0;0.0;0.6;1.0;1.1;0.1;1.3;1.1;1.1
+90;Gestandaardiseerd inkomen: 3e 25%-groep;Gemiddelde/Percentage;2013;7.7;2.0;9.0;89.0;7.6;3.1;11.7;85.2;7.0;6.9;21.4;71.6;5.1;39.8;28.9;31.3
+91;Gestandaardiseerd inkomen: 3e 25%-groep;Gemiddelde/Percentage;2014;7.7;1.6;9.4;89.0;7.6;2.2;11.5;86.3;7.2;5.7;18.7;75.6;4.8;44.9;26.7;28.3
+92;Gestandaardiseerd inkomen: 3e 25%-groep;Gemiddelde/Percentage;2015;7.8;1.3;8.4;90.2;7.7;2.4;9.6;87.9;7.3;4.7;19.1;76.2;4.8;45.6;25.3;29.2
+93;Gestandaardiseerd inkomen: 3e 25%-groep;Gemiddelde/Percentage;2016;7.8;1.8;8.0;90.1;7.7;2.2;10.0;87.8;7.4;4.2;16.8;79.0;4.6;48.1;26.9;25.0
+94;Gestandaardiseerd inkomen: 3e 25%-groep;Gemiddelde/Percentage;2017;7.8;1.8;8.2;90.0;7.7;2.1;10.0;87.9;7.5;3.8;14.9;81.3;4.4;52.1;25.4;22.6
+95;Gestandaardiseerd inkomen: 3e 25%-groep;Gemiddelde/Percentage;2018;7.7;2.1;8.0;89.9;7.6;1.8;10.6;87.7;7.5;3.7;16.3;80.0;4.4;53.5;23.9;22.5
+96;Gestandaardiseerd inkomen: 3e 25%-groep;Gemiddelde/Percentage;2019;7.8;2.2;7.1;90.7;7.7;1.7;8.4;89.9;7.5;4.0;13.8;82.2;4.4;52.4;22.7;24.9
+97;Gestandaardiseerd inkomen: 3e 25%-groep;Gemiddelde/Percentage;2020;7.8;1.9;7.3;90.8;7.7;1.6;9.6;88.8;7.7;2.8;12.1;85.1;4.2;57.6;20.9;21.5
+98;Gestandaardiseerd inkomen: 3e 25%-groep;Gemiddelde/Percentage;2021;7.7;2.5;8.1;89.4;7.6;2.2;11.5;86.3;7.8;2.4;10.4;87.2;4.0;61.5;18.6;19.9
+99;Gestandaardiseerd inkomen: 3e 25%-groep;Standaardfout;2013;0.0;0.3;0.6;0.7;0.0;0.4;0.7;0.8;0.0;0.6;0.9;1.0;0.1;1.1;1.0;1.0
+100;Gestandaardiseerd inkomen: 3e 25%-groep;Standaardfout;2014;0.0;0.3;0.7;0.7;0.0;0.3;0.7;0.8;0.0;0.5;0.9;1.0;0.1;1.1;1.0;1.0
+101;Gestandaardiseerd inkomen: 3e 25%-groep;Standaardfout;2015;0.0;0.3;0.6;0.7;0.0;0.4;0.7;0.7;0.0;0.5;0.9;1.0;0.1;1.1;1.0;1.0
+102;Gestandaardiseerd inkomen: 3e 25%-groep;Standaardfout;2016;0.0;0.3;0.6;0.7;0.0;0.3;0.7;0.7;0.0;0.4;0.8;0.9;0.1;1.1;1.0;1.0
+103;Gestandaardiseerd inkomen: 3e 25%-groep;Standaardfout;2017;0.0;0.3;0.6;0.7;0.0;0.3;0.7;0.7;0.0;0.4;0.8;0.9;0.1;1.1;1.0;0.9
+104;Gestandaardiseerd inkomen: 3e 25%-groep;Standaardfout;2018;0.0;0.3;0.6;0.7;0.0;0.3;0.7;0.7;0.0;0.4;0.8;0.9;0.1;1.1;1.0;0.9
+105;Gestandaardiseerd inkomen: 3e 25%-groep;Standaardfout;2019;0.0;0.3;0.6;0.7;0.0;0.3;0.6;0.7;0.0;0.4;0.8;0.9;0.1;1.1;0.9;1.0
+106;Gestandaardiseerd inkomen: 3e 25%-groep;Standaardfout;2020;0.0;0.3;0.6;0.7;0.0;0.3;0.7;0.7;0.0;0.4;0.7;0.8;0.1;1.1;0.9;0.9
+107;Gestandaardiseerd inkomen: 3e 25%-groep;Standaardfout;2021;0.0;0.4;0.7;0.7;0.0;0.4;0.8;0.8;0.0;0.4;0.7;0.8;0.1;1.2;0.9;1.0
+108;Gestandaardiseerd inkomen: 4e 25%-groep;Gemiddelde/Percentage;2013;7.9;1.1;5.9;93.1;7.8;1.2;8.5;90.3;7.7;2.2;12.2;85.6;4.5;50.9;24.9;24.2
+109;Gestandaardiseerd inkomen: 4e 25%-groep;Gemiddelde/Percentage;2014;7.9;1.4;5.1;93.5;7.8;1.8;7.8;90.4;7.7;2.8;10.7;86.4;4.3;55.2;22.1;22.7
+110;Gestandaardiseerd inkomen: 4e 25%-groep;Gemiddelde/Percentage;2015;7.9;1.1;6.3;92.6;7.8;1.6;8.5;89.9;7.8;2.2;11.3;86.5;4.2;57.5;22.1;20.4
+111;Gestandaardiseerd inkomen: 4e 25%-groep;Gemiddelde/Percentage;2016;8.0;1.1;5.3;93.6;7.9;1.7;6.8;91.5;7.9;1.5;9.0;89.5;4.2;59.0;20.3;20.7
+112;Gestandaardiseerd inkomen: 4e 25%-groep;Gemiddelde/Percentage;2017;8.0;1.0;5.0;94.0;7.9;1.5;6.1;92.4;8.0;1.5;8.3;90.2;3.9;62.8;19.8;17.4
+113;Gestandaardiseerd inkomen: 4e 25%-groep;Gemiddelde/Percentage;2018;7.9;1.5;5.6;92.8;7.8;1.1;6.7;92.2;8.0;1.9;7.2;90.9;3.8;64.9;17.7;17.4
+114;Gestandaardiseerd inkomen: 4e 25%-groep;Gemiddelde/Percentage;2019;7.9;1.1;5.7;93.2;7.9;1.1;6.5;92.3;8.0;1.9;7.5;90.5;3.9;63.0;19.5;17.5
+115;Gestandaardiseerd inkomen: 4e 25%-groep;Gemiddelde/Percentage;2020;7.9;1.3;6.5;92.1;7.8;1.3;7.5;91.2;8.2;1.8;6.0;92.1;3.8;66.6;17.1;16.3
+116;Gestandaardiseerd inkomen: 4e 25%-groep;Gemiddelde/Percentage;2021;7.8;1.5;7.6;90.9;7.8;1.2;9.7;89.2;8.3;1.4;5.2;93.4;3.6;68.8;15.0;16.1
+117;Gestandaardiseerd inkomen: 4e 25%-groep;Standaardfout;2013;0.0;0.2;0.5;0.5;0.0;0.2;0.6;0.6;0.0;0.3;0.7;0.8;0.1;1.1;0.9;0.9
+118;Gestandaardiseerd inkomen: 4e 25%-groep;Standaardfout;2014;0.0;0.2;0.5;0.5;0.0;0.3;0.6;0.6;0.0;0.4;0.7;0.7;0.1;1.1;0.9;0.9
+119;Gestandaardiseerd inkomen: 4e 25%-groep;Standaardfout;2015;0.0;0.2;0.5;0.6;0.0;0.3;0.6;0.6;0.0;0.3;0.7;0.7;0.1;1.1;0.9;0.9
+120;Gestandaardiseerd inkomen: 4e 25%-groep;Standaardfout;2016;0.0;0.2;0.5;0.5;0.0;0.3;0.5;0.6;0.0;0.3;0.6;0.7;0.1;1.1;0.9;0.9
+121;Gestandaardiseerd inkomen: 4e 25%-groep;Standaardfout;2017;0.0;0.2;0.5;0.5;0.0;0.3;0.5;0.6;0.0;0.3;0.6;0.6;0.0;1.0;0.9;0.8
+122;Gestandaardiseerd inkomen: 4e 25%-groep;Standaardfout;2018;0.0;0.3;0.5;0.5;0.0;0.2;0.5;0.6;0.0;0.3;0.5;0.6;0.0;1.0;0.8;0.8
+123;Gestandaardiseerd inkomen: 4e 25%-groep;Standaardfout;2019;0.0;0.2;0.5;0.5;0.0;0.2;0.5;0.6;0.0;0.3;0.6;0.6;0.1;1.0;0.9;0.8
+124;Gestandaardiseerd inkomen: 4e 25%-groep;Standaardfout;2020;0.0;0.2;0.5;0.6;0.0;0.2;0.6;0.6;0.0;0.3;0.5;0.6;0.0;1.0;0.8;0.8
+125;Gestandaardiseerd inkomen: 4e 25%-groep;Standaardfout;2021;0.0;0.3;0.6;0.7;0.0;0.2;0.7;0.7;0.0;0.3;0.5;0.6;0.1;1.1;0.8;0.8
+126;Positie: alleenstaande;Gemiddelde/Percentage;2013;7.2;5.3;16.3;78.4;7.1;6.0;19.7;74.3;6.6;12.8;26.9;60.3;5.2;38.8;27.1;34.0
+127;Positie: alleenstaande;Gemiddelde/Percentage;2014;7.3;4.0;18.3;77.7;7.1;5.7;20.0;74.3;6.7;12.4;24.5;63.1;4.8;44.8;26.4;28.7
+128;Positie: alleenstaande;Gemiddelde/Percentage;2015;7.2;6.1;15.2;78.7;7.1;7.4;18.5;74.1;6.5;13.8;27.0;59.2;5.0;43.2;25.6;31.1
+129;Positie: alleenstaande;Gemiddelde/Percentage;2016;7.3;5.8;14.8;79.4;7.2;5.7;17.2;77.2;6.7;13.4;24.9;61.7;4.9;44.5;25.2;30.3
+130;Positie: alleenstaande;Gemiddelde/Percentage;2017;7.2;6.0;17.2;76.8;7.1;7.7;17.6;74.8;6.7;12.4;24.0;63.6;4.8;46.8;24.4;28.7
+131;Positie: alleenstaande;Gemiddelde/Percentage;2018;7.3;5.0;15.9;79.1;7.2;4.3;18.0;77.7;6.9;10.8;21.1;68.1;4.6;49.2;23.2;27.7
+132;Positie: alleenstaande;Gemiddelde/Percentage;2019;7.3;4.8;12.4;82.8;7.3;4.3;16.3;79.4;6.9;11.3;20.0;68.8;4.5;50.7;24.0;25.3
+133;Positie: alleenstaande;Gemiddelde/Percentage;2020;7.2;4.6;18.7;76.7;7.1;5.0;21.4;73.6;6.9;10.3;21.1;68.6;4.6;50.4;21.7;27.9
+134;Positie: alleenstaande;Gemiddelde/Percentage;2021;7.2;6.4;15.5;78.1;7.1;6.0;19.6;74.5;7.1;9.5;19.1;71.4;4.4;52.7;21.4;25.9
+135;Positie: alleenstaande;Standaardfout;2013;0.0;0.6;0.9;1.0;0.0;0.6;1.0;1.1;0.0;0.8;1.1;1.2;0.1;1.2;1.1;1.2
+136;Positie: alleenstaande;Standaardfout;2014;0.0;0.5;1.0;1.1;0.0;0.6;1.0;1.1;0.0;0.8;1.1;1.2;0.1;1.3;1.1;1.2
+137;Positie: alleenstaande;Standaardfout;2015;0.0;0.6;0.9;1.0;0.0;0.7;1.0;1.1;0.0;0.9;1.1;1.2;0.1;1.2;1.1;1.2
+138;Positie: alleenstaande;Standaardfout;2016;0.0;0.6;0.9;1.0;0.0;0.6;1.0;1.1;0.1;0.9;1.1;1.2;0.1;1.3;1.1;1.2
+139;Positie: alleenstaande;Standaardfout;2017;0.0;0.6;0.9;1.1;0.0;0.7;1.0;1.1;0.1;0.8;1.1;1.2;0.1;1.3;1.1;1.1
+140;Positie: alleenstaande;Standaardfout;2018;0.0;0.5;0.9;1.0;0.0;0.5;1.0;1.0;0.0;0.8;1.0;1.2;0.1;1.2;1.0;1.1
+141;Positie: alleenstaande;Standaardfout;2019;0.0;0.5;0.8;0.9;0.0;0.5;0.9;1.0;0.0;0.8;1.0;1.2;0.1;1.2;1.1;1.1
+142;Positie: alleenstaande;Standaardfout;2020;0.0;0.5;1.0;1.1;0.0;0.5;1.0;1.1;0.0;0.8;1.0;1.2;0.1;1.2;1.0;1.1
+143;Positie: alleenstaande;Standaardfout;2021;0.0;0.7;1.0;1.1;0.0;0.6;1.1;1.2;0.0;0.8;1.0;1.2;0.1;1.3;1.1;1.2
+144;Positie: ouder in eenouderhuishouden;Gemiddelde/Percentage;2013;7.0;6.8;21.7;71.4;6.8;8.8;25.3;65.9;5.6;29.9;30.7;39.4;6.3;23.7;28.2;48.1
+145;Positie: ouder in eenouderhuishouden;Gemiddelde/Percentage;2014;7.2;4.8;18.2;77.0;7.0;7.0;20.6;72.5;5.7;26.3;29.5;44.3;6.1;30.4;22.8;46.8
+146;Positie: ouder in eenouderhuishouden;Gemiddelde/Percentage;2015;7.2;7.3;16.2;76.5;7.0;9.0;19.2;71.8;6.0;17.6;34.9;47.5;6.0;28.1;25.1;46.8
+147;Positie: ouder in eenouderhuishouden;Gemiddelde/Percentage;2016;7.3;4.8;18.0;77.2;7.2;5.1;21.5;73.4;6.5;14.0;29.5;56.5;5.7;31.5;26.8;41.6
+148;Positie: ouder in eenouderhuishouden;Gemiddelde/Percentage;2017;7.1;8.0;18.4;73.6;6.9;9.0;24.1;66.9;6.0;22.1;28.8;49.1;6.2;28.3;22.9;48.8
+149;Positie: ouder in eenouderhuishouden;Gemiddelde/Percentage;2018;7.4;4.8;13.0;82.2;7.2;3.9;21.7;74.4;6.3;16.0;32.0;51.9;5.7;33.8;27.0;39.2
+150;Positie: ouder in eenouderhuishouden;Gemiddelde/Percentage;2019;7.3;5.0;14.3;80.7;7.2;4.7;14.4;80.9;6.2;16.6;31.4;52.0;5.8;31.6;25.0;43.4
+151;Positie: ouder in eenouderhuishouden;Gemiddelde/Percentage;2020;7.4;3.8;13.4;82.8;7.3;3.5;16.6;79.8;6.6;13.8;25.2;61.0;5.4;36.4;25.9;37.7
+152;Positie: ouder in eenouderhuishouden;Gemiddelde/Percentage;2021;7.3;7.1;12.7;80.1;7.0;8.2;18.4;73.3;6.9;12.2;23.4;64.4;5.2;40.2;25.6;34.2
+153;Positie: ouder in eenouderhuishouden;Standaardfout;2013;0.1;1.6;2.6;2.8;0.1;1.8;2.7;3.0;0.1;2.9;2.9;3.1;0.2;2.7;2.8;3.1
+154;Positie: ouder in eenouderhuishouden;Standaardfout;2014;0.1;1.3;2.3;2.5;0.1;1.5;2.4;2.6;0.1;2.6;2.7;2.9;0.1;2.7;2.5;3.0
+155;Positie: ouder in eenouderhuishouden;Standaardfout;2015;0.1;1.6;2.2;2.5;0.1;1.7;2.4;2.7;0.1;2.3;2.8;3.0;0.2;2.7;2.6;3.0
+156;Positie: ouder in eenouderhuishouden;Standaardfout;2016;0.1;1.3;2.3;2.5;0.1;1.3;2.5;2.6;0.1;2.1;2.7;3.0;0.2;2.8;2.7;3.0
+157;Positie: ouder in eenouderhuishouden;Standaardfout;2017;0.1;1.6;2.2;2.5;0.1;1.6;2.5;2.7;0.1;2.4;2.6;2.9;0.1;2.6;2.4;2.9
+158;Positie: ouder in eenouderhuishouden;Standaardfout;2018;0.1;1.3;2.1;2.3;0.1;1.2;2.5;2.7;0.1;2.2;2.8;3.0;0.2;2.9;2.7;3.0
+159;Positie: ouder in eenouderhuishouden;Standaardfout;2019;0.1;1.4;2.2;2.5;0.1;1.3;2.2;2.5;0.1;2.3;2.9;3.1;0.2;2.9;2.7;3.1
+160;Positie: ouder in eenouderhuishouden;Standaardfout;2020;0.1;1.2;2.1;2.3;0.1;1.1;2.2;2.4;0.1;2.1;2.6;2.9;0.2;2.9;2.6;2.9
+161;Positie: ouder in eenouderhuishouden;Standaardfout;2021;0.1;1.8;2.3;2.7;0.1;1.9;2.6;3.0;0.1;2.2;2.9;3.3;0.2;3.3;3.0;3.2
+162;Positie: partner in paar met kind;Gemiddelde/Percentage;2013;7.9;1.4;6.9;91.7;7.7;2.2;9.5;88.3;7.0;8.1;21.0;70.9;5.3;37.8;28.9;33.3
+163;Positie: partner in paar met kind;Gemiddelde/Percentage;2014;7.9;1.7;6.4;91.8;7.7;2.4;8.8;88.8;7.1;8.1;19.3;72.6;5.1;41.6;28.0;30.4
+164;Positie: partner in paar met kind;Gemiddelde/Percentage;2015;7.9;1.8;7.0;91.2;7.7;2.6;9.8;87.5;7.1;7.6;20.0;72.5;5.0;43.4;26.9;29.6
+165;Positie: partner in paar met kind;Gemiddelde/Percentage;2016;8.0;1.2;5.7;93.1;7.8;1.9;8.6;89.5;7.3;5.5;17.1;77.4;4.7;47.9;26.8;25.3
+166;Positie: partner in paar met kind;Gemiddelde/Percentage;2017;8.0;1.2;5.8;93.0;7.9;1.5;7.0;91.5;7.5;4.2;15.3;80.5;4.6;49.2;27.0;23.8
+167;Positie: partner in paar met kind;Gemiddelde/Percentage;2018;7.8;2.0;6.1;91.9;7.7;1.7;8.7;89.6;7.5;5.2;15.8;79.0;4.5;53.6;23.3;23.1
+168;Positie: partner in paar met kind;Gemiddelde/Percentage;2019;7.9;1.8;6.3;91.9;7.8;1.5;7.5;91.0;7.4;5.6;14.7;79.8;4.5;51.0;24.9;24.2
+169;Positie: partner in paar met kind;Gemiddelde/Percentage;2020;7.9;1.8;7.2;91.0;7.8;1.8;8.5;89.6;7.6;4.5;12.6;82.9;4.3;55.4;23.5;21.1
+170;Positie: partner in paar met kind;Gemiddelde/Percentage;2021;7.8;2.0;6.6;91.4;7.8;2.0;8.4;89.6;7.8;2.9;10.8;86.2;4.0;61.8;19.3;18.9
+171;Positie: partner in paar met kind;Standaardfout;2013;0.0;0.3;0.6;0.6;0.0;0.3;0.6;0.7;0.0;0.6;0.9;1.0;0.1;1.1;1.0;1.0
+172;Positie: partner in paar met kind;Standaardfout;2014;0.0;0.3;0.5;0.6;0.0;0.3;0.6;0.7;0.0;0.6;0.9;1.0;0.1;1.1;1.0;1.0
+173;Positie: partner in paar met kind;Standaardfout;2015;0.0;0.3;0.6;0.6;0.0;0.3;0.6;0.7;0.0;0.6;0.9;1.0;0.1;1.1;1.0;1.0
+174;Positie: partner in paar met kind;Standaardfout;2016;0.0;0.2;0.5;0.6;0.0;0.3;0.6;0.7;0.0;0.5;0.8;0.9;0.1;1.1;1.0;1.0
+175;Positie: partner in paar met kind;Standaardfout;2017;0.0;0.2;0.5;0.6;0.0;0.3;0.6;0.6;0.0;0.4;0.8;0.9;0.1;1.1;1.0;0.9
+176;Positie: partner in paar met kind;Standaardfout;2018;0.0;0.3;0.5;0.6;0.0;0.3;0.6;0.7;0.0;0.5;0.8;0.9;0.1;1.1;0.9;0.9
+177;Positie: partner in paar met kind;Standaardfout;2019;0.0;0.3;0.5;0.6;0.0;0.3;0.6;0.6;0.0;0.5;0.8;0.9;0.1;1.1;1.0;0.9
+178;Positie: partner in paar met kind;Standaardfout;2020;0.0;0.3;0.6;0.6;0.0;0.3;0.6;0.7;0.0;0.5;0.7;0.8;0.1;1.1;0.9;0.9
+179;Positie: partner in paar met kind;Standaardfout;2021;0.0;0.3;0.6;0.7;0.0;0.3;0.7;0.7;0.0;0.4;0.7;0.8;0.1;1.1;0.9;0.9
+180;Positie: partner in paar, geen kind;Gemiddelde/Percentage;2013;7.9;1.2;7.5;91.3;7.8;2.0;10.1;87.9;7.3;5.3;19.7;75.0;4.9;43.5;27.6;29.0
+181;Positie: partner in paar, geen kind;Gemiddelde/Percentage;2014;7.9;1.4;6.3;92.3;7.8;1.9;7.9;90.2;7.4;4.6;16.7;78.7;4.6;49.0;23.4;27.7
+182;Positie: partner in paar, geen kind;Gemiddelde/Percentage;2015;7.9;1.2;7.6;91.2;7.8;2.3;9.1;88.6;7.4;5.0;16.1;78.9;4.5;50.1;24.2;25.7
+183;Positie: partner in paar, geen kind;Gemiddelde/Percentage;2016;7.9;1.2;7.1;91.7;7.8;1.7;9.4;89.0;7.5;4.2;16.7;79.2;4.6;49.3;24.6;26.1
+184;Positie: partner in paar, geen kind;Gemiddelde/Percentage;2017;7.9;1.1;6.1;92.7;7.9;1.6;7.4;90.9;7.6;3.6;14.3;82.1;4.3;53.8;22.3;23.8
+185;Positie: partner in paar, geen kind;Gemiddelde/Percentage;2018;7.9;1.6;7.0;91.4;7.8;1.2;8.5;90.3;7.6;4.3;12.3;83.4;4.2;56.0;21.1;22.9
+186;Positie: partner in paar, geen kind;Gemiddelde/Percentage;2019;7.9;1.2;6.5;92.3;7.9;0.9;7.6;91.5;7.7;2.7;13.1;84.1;4.2;56.3;20.6;23.1
+187;Positie: partner in paar, geen kind;Gemiddelde/Percentage;2020;7.9;2.0;6.5;91.5;7.8;1.6;8.4;90.0;7.8;3.4;10.4;86.2;4.1;58.0;19.7;22.3
+188;Positie: partner in paar, geen kind;Gemiddelde/Percentage;2021;7.9;1.8;7.3;90.9;7.8;1.7;9.6;88.7;7.9;2.7;8.8;88.5;3.8;63.9;16.9;19.2
+189;Positie: partner in paar, geen kind;Standaardfout;2013;0.0;0.2;0.5;0.6;0.0;0.3;0.6;0.7;0.0;0.5;0.8;0.9;0.1;1.0;0.9;0.9
+190;Positie: partner in paar, geen kind;Standaardfout;2014;0.0;0.2;0.5;0.5;0.0;0.3;0.6;0.6;0.0;0.4;0.8;0.8;0.1;1.0;0.9;0.9
+191;Positie: partner in paar, geen kind;Standaardfout;2015;0.0;0.2;0.5;0.6;0.0;0.3;0.6;0.6;0.0;0.4;0.8;0.8;0.1;1.0;0.9;0.9
+192;Positie: partner in paar, geen kind;Standaardfout;2016;0.0;0.2;0.5;0.6;0.0;0.3;0.6;0.6;0.0;0.4;0.8;0.8;0.1;1.0;0.9;0.9
+193;Positie: partner in paar, geen kind;Standaardfout;2017;0.0;0.2;0.5;0.5;0.0;0.3;0.5;0.6;0.0;0.4;0.7;0.8;0.1;1.0;0.9;0.9
+194;Positie: partner in paar, geen kind;Standaardfout;2018;0.0;0.3;0.5;0.6;0.0;0.2;0.6;0.6;0.0;0.4;0.7;0.8;0.1;1.0;0.8;0.8
+195;Positie: partner in paar, geen kind;Standaardfout;2019;0.0;0.2;0.5;0.6;0.0;0.2;0.6;0.6;0.0;0.3;0.7;0.8;0.1;1.0;0.8;0.9
+196;Positie: partner in paar, geen kind;Standaardfout;2020;0.0;0.3;0.5;0.6;0.0;0.3;0.6;0.6;0.0;0.4;0.6;0.7;0.1;1.0;0.8;0.9
+197;Positie: partner in paar, geen kind;Standaardfout;2021;0.0;0.3;0.6;0.6;0.0;0.3;0.6;0.7;0.0;0.4;0.6;0.7;0.1;1.1;0.8;0.9
+198;Positie: thuiswonend kind;Gemiddelde/Percentage;2013;7.7;2.1;8.9;88.9;7.5;3.9;13.0;83.1;7.1;8.5;22.0;69.5;4.9;43.7;27.3;29.0
+199;Positie: thuiswonend kind;Gemiddelde/Percentage;2014;7.7;2.7;8.5;88.8;7.5;4.0;14.6;81.4;7.2;9.0;18.3;72.7;4.8;44.8;26.9;28.3
+200;Positie: thuiswonend kind;Gemiddelde/Percentage;2015;7.6;1.6;10.6;87.8;7.5;2.5;11.6;85.9;7.1;7.8;20.6;71.5;4.9;45.8;24.3;29.9
+201;Positie: thuiswonend kind;Gemiddelde/Percentage;2016;7.7;4.3;8.3;87.4;7.5;5.0;11.7;83.3;7.3;6.4;18.8;74.8;4.7;49.5;24.1;26.4
+202;Positie: thuiswonend kind;Gemiddelde/Percentage;2017;7.6;3.0;12.1;85.0;7.5;4.0;12.9;83.2;7.4;6.6;17.8;75.7;4.6;52.7;22.3;25.0
+203;Positie: thuiswonend kind;Gemiddelde/Percentage;2018;7.5;3.1;11.7;85.2;7.4;3.8;14.1;82.1;7.4;6.0;20.8;73.2;4.6;50.3;23.9;25.8
+204;Positie: thuiswonend kind;Gemiddelde/Percentage;2019;7.6;2.6;9.9;87.4;7.5;4.0;11.9;84.1;7.5;6.6;14.3;79.1;4.7;48.9;24.8;26.3
+205;Positie: thuiswonend kind;Gemiddelde/Percentage;2020;7.4;3.3;13.1;83.6;7.4;3.6;15.7;80.6;7.7;4.1;12.8;83.0;4.4;55.5;22.6;22.0
+206;Positie: thuiswonend kind;Gemiddelde/Percentage;2021;7.3;3.4;19.7;76.8;7.1;4.1;21.9;74.1;7.6;6.9;12.5;80.6;4.7;49.5;21.4;29.2
+207;Positie: thuiswonend kind;Standaardfout;2013;0.1;0.6;1.2;1.4;0.1;0.8;1.5;1.6;0.1;1.2;1.8;2.0;0.1;2.2;1.9;2.0
+208;Positie: thuiswonend kind;Standaardfout;2014;0.1;0.6;1.1;1.3;0.1;0.8;1.4;1.6;0.1;1.1;1.6;1.8;0.1;2.0;1.8;1.8
+209;Positie: thuiswonend kind;Standaardfout;2015;0.1;0.5;1.3;1.3;0.1;0.6;1.3;1.4;0.1;1.1;1.7;1.9;0.1;2.0;1.8;1.9
+210;Positie: thuiswonend kind;Standaardfout;2016;0.1;0.8;1.1;1.4;0.1;0.9;1.3;1.5;0.1;1.0;1.6;1.8;0.1;2.1;1.8;1.8
+211;Positie: thuiswonend kind;Standaardfout;2017;0.1;0.7;1.3;1.4;0.1;0.8;1.4;1.5;0.1;1.0;1.6;1.7;0.1;2.0;1.7;1.8
+212;Positie: thuiswonend kind;Standaardfout;2018;0.1;0.7;1.3;1.4;0.1;0.8;1.4;1.5;0.1;0.9;1.6;1.8;0.1;2.0;1.7;1.7
+213;Positie: thuiswonend kind;Standaardfout;2019;0.1;0.6;1.2;1.3;0.1;0.8;1.3;1.5;0.1;1.0;1.4;1.6;0.1;2.0;1.7;1.8
+214;Positie: thuiswonend kind;Standaardfout;2020;0.1;0.7;1.3;1.4;0.1;0.7;1.4;1.5;0.1;0.8;1.3;1.5;0.1;1.9;1.6;1.6
+215;Positie: thuiswonend kind;Standaardfout;2021;0.1;0.8;1.7;1.8;0.1;0.8;1.8;1.9;0.1;1.1;1.4;1.7;0.1;2.1;1.7;1.9
+216;Positie: overig lid;Gemiddelde/Percentage;2013;7.7;3.5;9.9;86.5;7.4;6.8;15.3;77.9;6.4;17.7;25.6;56.8;5.4;34.5;29.2;36.4
+217;Positie: overig lid;Gemiddelde/Percentage;2014;7.6;3.0;10.3;86.6;7.3;3.8;16.3;80.0;6.2;18.0;28.7;53.3;5.2;41.1;23.9;35.0
+218;Positie: overig lid;Gemiddelde/Percentage;2015;7.5;2.4;13.4;84.3;7.3;6.1;16.6;77.3;6.7;13.8;20.0;66.2;5.1;41.3;28.3;30.4
+219;Positie: overig lid;Gemiddelde/Percentage;2016;7.7;1.1;13.3;85.6;7.5;0.9;18.2;80.9;6.9;6.6;28.8;64.6;5.0;45.0;21.8;33.2
+220;Positie: overig lid;Gemiddelde/Percentage;2017;7.5;4.6;14.4;81.0;7.4;3.9;19.0;77.2;6.6;12.5;27.3;60.2;4.8;47.3;25.3;27.4
+221;Positie: overig lid;Gemiddelde/Percentage;2018;7.5;5.4;10.3;84.3;7.5;4.3;15.3;80.4;6.9;8.5;28.9;62.5;5.0;42.2;26.8;31.0
+222;Positie: overig lid;Gemiddelde/Percentage;2019;7.5;5.5;10.4;84.1;7.5;4.2;13.4;82.4;6.7;16.2;22.1;61.7;5.3;42.4;23.7;33.9
+223;Positie: overig lid;Gemiddelde/Percentage;2020;7.5;3.5;12.2;84.3;7.4;3.3;12.1;84.7;7.2;7.3;22.2;70.5;5.1;44.3;21.6;34.0
+224;Positie: overig lid;Gemiddelde/Percentage;2021;7.5;4.2;10.1;85.8;7.3;5.7;14.7;79.6;7.4;8.5;19.2;72.3;4.8;49.7;17.8;32.4
+225;Positie: overig lid;Standaardfout;2013;0.1;1.5;2.4;2.7;0.1;2.0;2.8;3.3;0.2;3.0;3.5;3.9;0.2;3.8;3.6;3.8
+226;Positie: overig lid;Standaardfout;2014;0.1;1.2;2.1;2.4;0.1;1.3;2.6;2.8;0.2;2.7;3.2;3.6;0.2;3.5;3.0;3.4
+227;Positie: overig lid;Standaardfout;2015;0.1;1.1;2.6;2.8;0.1;1.8;2.8;3.2;0.2;2.6;3.0;3.6;0.2;3.7;3.4;3.5
+228;Positie: overig lid;Standaardfout;2016;0.1;0.7;2.4;2.5;0.1;0.7;2.7;2.8;0.1;1.8;3.2;3.4;0.2;3.5;2.9;3.3
+229;Positie: overig lid;Standaardfout;2017;0.1;1.4;2.4;2.6;0.1;1.3;2.6;2.8;0.1;2.2;3.0;3.3;0.2;3.4;3.0;3.1
+230;Positie: overig lid;Standaardfout;2018;0.1;1.5;2.1;2.5;0.1;1.4;2.5;2.7;0.1;1.9;3.1;3.4;0.2;3.4;3.1;3.2
+231;Positie: overig lid;Standaardfout;2019;0.1;1.6;2.1;2.6;0.1;1.4;2.4;2.7;0.1;2.6;2.9;3.4;0.2;3.4;3.0;3.3
+232;Positie: overig lid;Standaardfout;2020;0.1;1.2;2.1;2.3;0.1;1.1;2.1;2.3;0.1;1.6;2.6;2.9;0.2;3.1;2.6;3.0
+233;Positie: overig lid;Standaardfout;2021;0.1;1.5;2.3;2.6;0.1;1.7;2.7;3.0;0.1;2.1;2.9;3.3;0.2;3.7;2.8;3.5
+234;Vermogen: 1e 25%-groep;Gemiddelde/Percentage;2013;7.5;4.2;12.9;82.9;7.4;4.9;17.2;77.9;6.2;19.5;26.7;53.9;5.7;32.3;27.3;40.4
+235;Vermogen: 1e 25%-groep;Gemiddelde/Percentage;2014;7.7;3.2;9.7;87.1;7.5;3.9;14.7;81.3;6.6;13.5;25.1;61.4;5.3;37.5;27.7;34.8
+236;Vermogen: 1e 25%-groep;Gemiddelde/Percentage;2015;7.6;4.1;11.4;84.5;7.4;5.3;14.6;80.1;6.5;13.9;25.6;60.4;5.4;39.4;26.0;34.7
+237;Vermogen: 1e 25%-groep;Gemiddelde/Percentage;2016;7.7;3.7;9.2;87.0;7.5;4.5;12.6;82.9;6.8;11.0;25.5;63.5;5.2;41.3;26.8;31.8
+238;Vermogen: 1e 25%-groep;Gemiddelde/Percentage;2017;7.7;2.8;10.8;86.4;7.5;4.0;12.0;83.9;6.8;11.4;22.4;66.2;5.3;38.1;28.0;33.9
+239;Vermogen: 1e 25%-groep;Gemiddelde/Percentage;2018;7.5;4.0;12.2;83.8;7.5;3.2;15.1;81.7;6.7;12.8;23.7;63.5;5.2;41.6;25.5;32.8
+240;Vermogen: 1e 25%-groep;Gemiddelde/Percentage;2019;7.5;4.2;11.1;84.7;7.5;3.6;13.5;82.9;6.6;15.4;23.9;60.6;5.3;38.2;28.0;33.8
+241;Vermogen: 1e 25%-groep;Gemiddelde/Percentage;2020;7.4;4.6;16.7;78.6;7.2;5.1;19.7;75.2;6.6;14.3;25.4;60.3;5.3;39.4;25.7;34.9
+242;Vermogen: 1e 25%-groep;Gemiddelde/Percentage;2021;7.3;5.4;16.8;77.8;7.2;6.8;18.8;74.4;6.8;14.3;22.8;62.9;5.1;43.8;24.8;31.4
+243;Vermogen: 1e 25%-groep;Standaardfout;2013;0.0;0.5;0.9;1.0;0.0;0.6;1.0;1.1;0.1;1.0;1.2;1.3;0.1;1.2;1.2;1.3
+244;Vermogen: 1e 25%-groep;Standaardfout;2014;0.0;0.4;0.7;0.8;0.0;0.5;0.9;1.0;0.0;0.8;1.1;1.2;0.1;1.2;1.1;1.2
+245;Vermogen: 1e 25%-groep;Standaardfout;2015;0.0;0.5;0.8;0.9;0.0;0.6;0.9;1.0;0.0;0.9;1.1;1.2;0.1;1.2;1.1;1.2
+246;Vermogen: 1e 25%-groep;Standaardfout;2016;0.0;0.5;0.7;0.8;0.0;0.5;0.8;0.9;0.0;0.7;1.0;1.2;0.1;1.2;1.1;1.1
+247;Vermogen: 1e 25%-groep;Standaardfout;2017;0.0;0.4;0.8;0.9;0.0;0.5;0.8;0.9;0.0;0.8;1.0;1.2;0.1;1.2;1.1;1.2
+248;Vermogen: 1e 25%-groep;Standaardfout;2018;0.0;0.5;0.8;0.9;0.0;0.4;0.9;1.0;0.0;0.8;1.1;1.2;0.1;1.3;1.1;1.2
+249;Vermogen: 1e 25%-groep;Standaardfout;2019;0.0;0.5;0.9;1.0;0.0;0.5;0.9;1.0;0.1;1.0;1.2;1.3;0.1;1.3;1.2;1.3
+250;Vermogen: 1e 25%-groep;Standaardfout;2020;0.0;0.6;1.0;1.1;0.0;0.6;1.1;1.2;0.1;1.0;1.2;1.4;0.1;1.4;1.2;1.3
+251;Vermogen: 1e 25%-groep;Standaardfout;2021;0.1;0.7;1.2;1.3;0.1;0.8;1.2;1.4;0.1;1.1;1.3;1.5;0.1;1.5;1.3;1.4
+252;Vermogen: 2e 25%-groep;Gemiddelde/Percentage;2013;7.5;3.6;13.1;83.3;7.3;5.6;16.6;77.8;6.5;12.6;30.5;56.8;5.5;33.1;30.2;36.8
+253;Vermogen: 2e 25%-groep;Gemiddelde/Percentage;2014;7.5;3.9;13.4;82.8;7.3;5.8;15.4;78.8;6.3;16.5;29.9;53.6;5.5;35.8;27.8;36.5
+254;Vermogen: 2e 25%-groep;Gemiddelde/Percentage;2015;7.5;4.0;12.4;83.6;7.3;5.8;15.2;79.0;6.4;15.3;29.0;55.7;5.3;36.6;27.7;35.8
+255;Vermogen: 2e 25%-groep;Gemiddelde/Percentage;2016;7.5;4.4;13.1;82.5;7.3;4.1;17.8;78.1;6.5;14.0;28.8;57.2;5.3;37.2;28.2;34.6
+256;Vermogen: 2e 25%-groep;Gemiddelde/Percentage;2017;7.4;5.1;15.7;79.2;7.3;6.4;15.3;78.3;6.6;12.5;26.7;60.7;5.0;43.3;26.2;30.6
+257;Vermogen: 2e 25%-groep;Gemiddelde/Percentage;2018;7.5;3.7;13.3;83.0;7.5;3.3;16.2;80.5;6.8;11.4;22.1;66.5;4.8;44.9;25.9;29.1
+258;Vermogen: 2e 25%-groep;Gemiddelde/Percentage;2019;7.5;3.6;11.3;85.2;7.5;3.3;13.9;82.7;6.9;9.2;25.3;65.6;4.9;43.2;27.5;29.3
+259;Vermogen: 2e 25%-groep;Gemiddelde/Percentage;2020;7.5;3.7;12.3;84.0;7.5;3.4;13.8;82.8;7.2;6.4;19.4;74.1;4.7;47.3;24.7;28.0
+260;Vermogen: 2e 25%-groep;Gemiddelde/Percentage;2021;7.5;4.7;10.6;84.7;7.4;3.7;14.8;81.6;7.3;6.1;17.1;76.9;4.5;51.2;22.9;25.9
+261;Vermogen: 2e 25%-groep;Standaardfout;2013;0.0;0.5;0.9;1.0;0.0;0.6;1.0;1.1;0.0;0.9;1.2;1.3;0.1;1.2;1.2;1.3
+262;Vermogen: 2e 25%-groep;Standaardfout;2014;0.0;0.5;0.9;1.0;0.0;0.6;1.0;1.1;0.1;1.0;1.2;1.3;0.1;1.3;1.2;1.3
+263;Vermogen: 2e 25%-groep;Standaardfout;2015;0.0;0.5;0.9;1.0;0.0;0.6;0.9;1.1;0.1;0.9;1.2;1.3;0.1;1.2;1.2;1.2
+264;Vermogen: 2e 25%-groep;Standaardfout;2016;0.0;0.6;0.9;1.0;0.0;0.5;1.0;1.1;0.1;1.0;1.2;1.4;0.1;1.3;1.2;1.3
+265;Vermogen: 2e 25%-groep;Standaardfout;2017;0.0;0.6;1.0;1.1;0.0;0.6;1.0;1.1;0.1;0.9;1.2;1.3;0.1;1.3;1.2;1.2
+266;Vermogen: 2e 25%-groep;Standaardfout;2018;0.0;0.5;0.9;1.0;0.0;0.5;1.0;1.0;0.0;0.8;1.1;1.2;0.1;1.3;1.2;1.2
+267;Vermogen: 2e 25%-groep;Standaardfout;2019;0.0;0.5;0.8;0.9;0.0;0.5;0.9;1.0;0.0;0.7;1.1;1.2;0.1;1.3;1.1;1.2
+268;Vermogen: 2e 25%-groep;Standaardfout;2020;0.0;0.5;0.8;0.9;0.0;0.5;0.9;1.0;0.0;0.6;1.0;1.1;0.1;1.3;1.1;1.2
+269;Vermogen: 2e 25%-groep;Standaardfout;2021;0.0;0.6;0.9;1.0;0.0;0.5;1.0;1.1;0.0;0.7;1.0;1.2;0.1;1.4;1.2;1.2
+270;Vermogen: 3e 25%-groep;Gemiddelde/Percentage;2013;7.8;2.0;7.7;90.3;7.6;2.7;11.2;86.1;7.1;6.2;21.6;72.2;5.1;39.1;29.3;31.6
+271;Vermogen: 3e 25%-groep;Gemiddelde/Percentage;2014;7.7;1.4;9.2;89.4;7.6;2.3;10.9;86.8;7.2;5.6;17.9;76.5;4.8;44.5;26.4;29.1
+272;Vermogen: 3e 25%-groep;Gemiddelde/Percentage;2015;7.7;2.3;8.7;89.0;7.6;3.2;11.0;85.8;7.3;5.0;19.0;76.0;4.8;45.2;28.0;26.8
+273;Vermogen: 3e 25%-groep;Gemiddelde/Percentage;2016;7.8;2.0;8.7;89.3;7.7;2.8;10.0;87.2;7.4;4.0;16.8;79.1;4.7;47.5;26.3;26.2
+274;Vermogen: 3e 25%-groep;Gemiddelde/Percentage;2017;7.8;1.7;8.4;89.9;7.7;2.3;9.9;87.8;7.4;4.3;15.9;79.8;4.5;51.0;24.9;24.2
+275;Vermogen: 3e 25%-groep;Gemiddelde/Percentage;2018;7.7;2.4;7.6;90.0;7.7;1.9;9.9;88.2;7.5;3.2;16.0;80.8;4.3;54.3;22.7;23.0
+276;Vermogen: 3e 25%-groep;Gemiddelde/Percentage;2019;7.8;1.9;7.0;91.1;7.8;1.7;8.6;89.7;7.6;3.5;12.5;83.9;4.3;53.8;24.2;22.0
+277;Vermogen: 3e 25%-groep;Gemiddelde/Percentage;2020;7.7;2.4;9.1;88.5;7.7;1.9;11.1;87.0;7.6;3.8;12.9;83.3;4.3;56.1;21.7;22.2
+278;Vermogen: 3e 25%-groep;Gemiddelde/Percentage;2021;7.7;2.2;8.4;89.3;7.6;2.3;10.2;87.5;7.8;2.3;10.2;87.5;4.0;60.8;19.1;20.1
+279;Vermogen: 3e 25%-groep;Standaardfout;2013;0.0;0.3;0.6;0.7;0.0;0.4;0.7;0.8;0.0;0.6;0.9;1.0;0.1;1.1;1.0;1.1
+280;Vermogen: 3e 25%-groep;Standaardfout;2014;0.0;0.3;0.7;0.7;0.0;0.3;0.7;0.8;0.0;0.5;0.9;1.0;0.1;1.1;1.0;1.0
+281;Vermogen: 3e 25%-groep;Standaardfout;2015;0.0;0.3;0.6;0.7;0.0;0.4;0.7;0.8;0.0;0.5;0.9;1.0;0.1;1.1;1.0;1.0
+282;Vermogen: 3e 25%-groep;Standaardfout;2016;0.0;0.3;0.7;0.7;0.0;0.4;0.7;0.8;0.0;0.5;0.9;0.9;0.1;1.2;1.0;1.0
+283;Vermogen: 3e 25%-groep;Standaardfout;2017;0.0;0.3;0.6;0.7;0.0;0.3;0.7;0.7;0.0;0.5;0.8;0.9;0.1;1.1;1.0;1.0
+284;Vermogen: 3e 25%-groep;Standaardfout;2018;0.0;0.3;0.6;0.7;0.0;0.3;0.7;0.7;0.0;0.4;0.8;0.9;0.1;1.1;0.9;0.9
+285;Vermogen: 3e 25%-groep;Standaardfout;2019;0.0;0.3;0.6;0.6;0.0;0.3;0.6;0.7;0.0;0.4;0.7;0.8;0.1;1.1;1.0;0.9
+286;Vermogen: 3e 25%-groep;Standaardfout;2020;0.0;0.3;0.6;0.7;0.0;0.3;0.7;0.7;0.0;0.4;0.7;0.8;0.1;1.1;0.9;0.9
+287;Vermogen: 3e 25%-groep;Standaardfout;2021;0.0;0.3;0.7;0.7;0.0;0.4;0.7;0.8;0.0;0.4;0.7;0.8;0.1;1.2;0.9;0.9
+288;Vermogen: 4e 25%-groep;Gemiddelde/Percentage;2013;7.9;1.1;7.7;91.2;7.8;1.7;9.2;89.2;7.6;2.8;14.5;82.8;4.5;50.5;25.4;24.2
+289;Vermogen: 4e 25%-groep;Gemiddelde/Percentage;2014;7.8;1.5;7.6;90.8;7.7;2.1;8.6;89.3;7.7;3.1;11.5;85.4;4.2;56.2;22.3;21.5
+290;Vermogen: 4e 25%-groep;Gemiddelde/Percentage;2015;7.9;1.3;7.6;91.1;7.8;2.0;9.1;88.9;7.7;2.8;13.1;84.2;4.2;56.1;21.2;22.7
+291;Vermogen: 4e 25%-groep;Gemiddelde/Percentage;2016;7.9;1.2;6.5;92.4;7.8;1.3;8.8;89.9;7.8;2.3;11.3;86.4;4.1;57.8;21.6;20.7
+292;Vermogen: 4e 25%-groep;Gemiddelde/Percentage;2017;7.9;2.0;6.2;91.8;7.8;2.3;8.1;89.6;7.8;1.9;11.2;86.9;3.9;61.3;20.0;18.7
+293;Vermogen: 4e 25%-groep;Gemiddelde/Percentage;2018;7.8;1.8;6.6;91.6;7.7;1.7;8.3;89.9;7.9;2.1;10.5;87.4;3.9;62.7;19.3;17.9
+294;Vermogen: 4e 25%-groep;Gemiddelde/Percentage;2019;7.9;1.3;6.2;92.5;7.8;1.3;7.3;91.4;8.0;1.9;8.0;90.0;3.8;64.3;16.6;19.1
+295;Vermogen: 4e 25%-groep;Gemiddelde/Percentage;2020;7.9;1.3;6.6;92.1;7.8;1.6;7.9;90.5;8.1;2.3;6.1;91.6;3.7;66.0;17.2;16.8
+296;Vermogen: 4e 25%-groep;Gemiddelde/Percentage;2021;7.8;1.8;8.6;89.6;7.7;1.7;11.4;86.9;8.1;1.8;6.5;91.7;3.5;69.4;14.3;16.3
+297;Vermogen: 4e 25%-groep;Standaardfout;2013;0.0;0.2;0.6;0.6;0.0;0.3;0.6;0.7;0.0;0.4;0.8;0.8;0.1;1.1;1.0;0.9
+298;Vermogen: 4e 25%-groep;Standaardfout;2014;0.0;0.3;0.6;0.6;0.0;0.3;0.6;0.7;0.0;0.4;0.7;0.8;0.1;1.1;0.9;0.9
+299;Vermogen: 4e 25%-groep;Standaardfout;2015;0.0;0.2;0.6;0.6;0.0;0.3;0.6;0.7;0.0;0.4;0.7;0.8;0.1;1.1;0.9;0.9
+300;Vermogen: 4e 25%-groep;Standaardfout;2016;0.0;0.2;0.5;0.6;0.0;0.3;0.6;0.7;0.0;0.3;0.7;0.8;0.1;1.1;0.9;0.9
+301;Vermogen: 4e 25%-groep;Standaardfout;2017;0.0;0.3;0.5;0.6;0.0;0.3;0.6;0.7;0.0;0.3;0.7;0.7;0.1;1.1;0.9;0.9
+302;Vermogen: 4e 25%-groep;Standaardfout;2018;0.0;0.3;0.5;0.6;0.0;0.3;0.6;0.7;0.0;0.3;0.7;0.7;0.1;1.1;0.9;0.8
+303;Vermogen: 4e 25%-groep;Standaardfout;2019;0.0;0.2;0.5;0.6;0.0;0.3;0.6;0.6;0.0;0.3;0.6;0.7;0.1;1.1;0.8;0.9
+304;Vermogen: 4e 25%-groep;Standaardfout;2020;0.0;0.2;0.5;0.6;0.0;0.3;0.6;0.6;0.0;0.3;0.5;0.6;0.1;1.0;0.8;0.8
+305;Vermogen: 4e 25%-groep;Standaardfout;2021;0.0;0.3;0.7;0.7;0.0;0.3;0.7;0.8;0.0;0.3;0.6;0.6;0.1;1.1;0.8;0.9
+306;Woningbezit: eigen woning;Gemiddelde/Percentage;2013;7.8;1.5;7.8;90.8;7.7;2.0;10.4;87.6;7.3;5.8;17.9;76.3;4.9;43.8;27.3;28.9
+307;Woningbezit: eigen woning;Gemiddelde/Percentage;2014;7.8;1.6;7.1;91.4;7.7;2.1;9.3;88.6;7.4;5.2;16.3;78.5;4.7;48.6;24.9;26.5
+308;Woningbezit: eigen woning;Gemiddelde/Percentage;2015;7.8;1.5;7.7;90.8;7.7;2.1;9.4;88.4;7.4;4.8;17.2;77.9;4.6;49.4;24.4;26.2
+309;Woningbezit: eigen woning;Gemiddelde/Percentage;2016;7.9;1.5;7.0;91.5;7.7;1.9;9.1;89.0;7.5;3.9;15.4;80.8;4.5;52.2;24.1;23.7
+310;Woningbezit: eigen woning;Gemiddelde/Percentage;2017;7.9;1.5;6.5;92.0;7.8;1.9;8.3;89.8;7.6;3.3;13.4;83.2;4.3;55.1;23.3;21.6
+311;Woningbezit: eigen woning;Gemiddelde/Percentage;2018;7.8;2.0;7.2;90.8;7.7;1.8;8.9;89.3;7.6;3.5;13.4;83.1;4.2;57.6;21.4;21.0
+312;Woningbezit: eigen woning;Gemiddelde/Percentage;2019;7.8;1.8;6.7;91.6;7.8;1.6;8.0;90.5;7.7;3.6;11.6;84.8;4.2;56.4;21.6;22.0
+313;Woningbezit: eigen woning;Gemiddelde/Percentage;2020;7.8;1.8;7.8;90.4;7.7;1.8;9.4;88.8;7.8;3.0;10.2;86.9;4.1;59.7;20.1;20.2
+314;Woningbezit: eigen woning;Gemiddelde/Percentage;2021;7.8;2.0;8.1;89.9;7.7;2.0;10.5;87.5;8.0;2.1;8.4;89.5;3.8;65.0;17.1;17.9
+315;Woningbezit: eigen woning;Standaardfout;2013;0.0;0.2;0.4;0.4;0.0;0.2;0.4;0.5;0.0;0.3;0.6;0.6;0.0;0.7;0.7;0.7
+316;Woningbezit: eigen woning;Standaardfout;2014;0.0;0.2;0.4;0.4;0.0;0.2;0.4;0.5;0.0;0.3;0.5;0.6;0.0;0.7;0.6;0.6
+317;Woningbezit: eigen woning;Standaardfout;2015;0.0;0.2;0.4;0.4;0.0;0.2;0.4;0.5;0.0;0.3;0.6;0.6;0.0;0.7;0.6;0.6
+318;Woningbezit: eigen woning;Standaardfout;2016;0.0;0.2;0.4;0.4;0.0;0.2;0.4;0.5;0.0;0.3;0.5;0.6;0.0;0.7;0.6;0.6
+319;Woningbezit: eigen woning;Standaardfout;2017;0.0;0.2;0.4;0.4;0.0;0.2;0.4;0.4;0.0;0.3;0.5;0.5;0.0;0.7;0.6;0.6
+320;Woningbezit: eigen woning;Standaardfout;2018;0.0;0.2;0.4;0.4;0.0;0.2;0.4;0.4;0.0;0.3;0.5;0.5;0.0;0.7;0.6;0.6
+321;Woningbezit: eigen woning;Standaardfout;2019;0.0;0.2;0.4;0.4;0.0;0.2;0.4;0.4;0.0;0.3;0.5;0.5;0.0;0.7;0.6;0.6
+322;Woningbezit: eigen woning;Standaardfout;2020;0.0;0.2;0.4;0.4;0.0;0.2;0.4;0.5;0.0;0.2;0.4;0.5;0.0;0.7;0.6;0.6
+323;Woningbezit: eigen woning;Standaardfout;2021;0.0;0.2;0.4;0.5;0.0;0.2;0.5;0.5;0.0;0.2;0.4;0.5;0.0;0.7;0.6;0.6
+324;Woningbezit: huurwoning met huurtoeslag;Gemiddelde/Percentage;2013;7.1;6.9;20.0;73.1;6.9;9.2;22.0;68.8;5.5;25.8;39.4;34.8;6.0;25.5;30.2;44.3
+325;Woningbezit: huurwoning met huurtoeslag;Gemiddelde/Percentage;2014;7.3;4.7;18.7;76.6;7.1;6.7;22.0;71.3;5.8;25.0;32.0;43.0;5.8;30.5;25.3;44.2
+326;Woningbezit: huurwoning met huurtoeslag;Gemiddelde/Percentage;2015;7.2;7.6;18.8;73.6;6.9;11.4;21.6;67.1;5.7;25.5;32.8;41.8;5.9;29.8;26.3;43.9
+327;Woningbezit: huurwoning met huurtoeslag;Gemiddelde/Percentage;2016;7.2;8.5;15.4;76.0;7.0;8.4;23.3;68.3;5.8;22.7;35.1;42.2;5.8;29.2;27.1;43.6
+328;Woningbezit: huurwoning met huurtoeslag;Gemiddelde/Percentage;2017;7.2;7.4;18.2;74.4;7.1;9.1;19.2;71.7;5.9;21.7;33.3;45.0;5.8;31.5;25.7;42.8
+329;Woningbezit: huurwoning met huurtoeslag;Gemiddelde/Percentage;2018;7.2;7.0;16.0;77.0;7.2;5.3;21.7;73.0;6.2;19.7;30.4;49.9;5.4;33.5;29.7;36.9
+330;Woningbezit: huurwoning met huurtoeslag;Gemiddelde/Percentage;2019;7.4;4.7;15.9;79.4;7.3;5.3;18.8;76.0;6.1;18.4;31.4;50.2;5.3;36.8;27.9;35.2
+331;Woningbezit: huurwoning met huurtoeslag;Gemiddelde/Percentage;2020;7.0;7.2;22.2;70.6;7.0;6.4;27.1;66.5;6.1;20.1;27.8;52.0;5.5;34.0;27.5;38.5
+332;Woningbezit: huurwoning met huurtoeslag;Gemiddelde/Percentage;2021;7.0;7.6;20.5;71.9;7.0;8.5;22.2;69.3;6.3;19.7;28.3;52.0;5.2;40.1;23.8;36.1
+333;Woningbezit: huurwoning met huurtoeslag;Standaardfout;2013;0.1;0.9;1.4;1.6;0.1;1.0;1.5;1.6;0.1;1.5;1.7;1.7;0.1;1.5;1.6;1.8
+334;Woningbezit: huurwoning met huurtoeslag;Standaardfout;2014;0.1;0.7;1.3;1.5;0.1;0.9;1.4;1.6;0.1;1.5;1.6;1.7;0.1;1.6;1.5;1.7
+335;Woningbezit: huurwoning met huurtoeslag;Standaardfout;2015;0.1;0.9;1.3;1.5;0.1;1.1;1.4;1.6;0.1;1.5;1.6;1.7;0.1;1.5;1.5;1.7
+336;Woningbezit: huurwoning met huurtoeslag;Standaardfout;2016;0.1;1.0;1.2;1.5;0.1;0.9;1.4;1.6;0.1;1.4;1.6;1.7;0.1;1.6;1.5;1.7
+337;Woningbezit: huurwoning met huurtoeslag;Standaardfout;2017;0.1;0.9;1.3;1.4;0.1;0.9;1.3;1.5;0.1;1.4;1.6;1.7;0.1;1.5;1.4;1.6
+338;Woningbezit: huurwoning met huurtoeslag;Standaardfout;2018;0.1;0.8;1.2;1.4;0.1;0.7;1.4;1.5;0.1;1.3;1.5;1.7;0.1;1.6;1.5;1.6
+339;Woningbezit: huurwoning met huurtoeslag;Standaardfout;2019;0.1;0.7;1.3;1.4;0.1;0.8;1.3;1.5;0.1;1.3;1.6;1.7;0.1;1.7;1.5;1.6
+340;Woningbezit: huurwoning met huurtoeslag;Standaardfout;2020;0.1;0.9;1.5;1.6;0.1;0.9;1.6;1.7;0.1;1.4;1.6;1.7;0.1;1.6;1.6;1.7
+341;Woningbezit: huurwoning met huurtoeslag;Standaardfout;2021;0.1;1.1;1.6;1.8;0.1;1.1;1.7;1.8;0.1;1.6;1.8;2.0;0.1;1.9;1.7;1.9
+342;Woningbezit: huurwoning geen huurtoeslag;Gemiddelde/Percentage;2013;7.6;3.2;11.4;85.3;7.4;4.9;15.9;79.2;6.7;11.2;27.0;61.8;5.4;35.2;28.5;36.3
+343;Woningbezit: huurwoning geen huurtoeslag;Gemiddelde/Percentage;2014;7.6;3.5;12.7;83.8;7.4;5.2;15.0;79.9;6.7;11.5;25.3;63.3;5.1;40.1;28.3;31.7
+344;Woningbezit: huurwoning geen huurtoeslag;Gemiddelde/Percentage;2015;7.5;3.8;11.2;85.0;7.4;4.8;15.1;80.0;6.8;10.4;25.0;64.6;5.0;41.2;28.4;30.4
+345;Woningbezit: huurwoning geen huurtoeslag;Gemiddelde/Percentage;2016;7.6;2.9;11.6;85.5;7.5;3.5;13.7;82.8;6.9;8.6;24.3;67.1;5.0;41.1;28.6;30.3
+346;Woningbezit: huurwoning geen huurtoeslag;Gemiddelde/Percentage;2017;7.5;3.7;14.5;81.9;7.4;5.2;14.3;80.5;6.9;9.2;23.2;67.6;4.9;44.0;26.3;29.7
+347;Woningbezit: huurwoning geen huurtoeslag;Gemiddelde/Percentage;2018;7.6;2.8;12.5;84.7;7.5;2.6;14.7;82.7;7.0;8.8;20.9;70.4;4.8;46.6;23.4;30.0
+348;Woningbezit: huurwoning geen huurtoeslag;Gemiddelde/Percentage;2019;7.6;3.8;9.8;86.4;7.5;3.1;12.7;84.1;7.0;9.3;21.5;69.2;4.8;45.7;25.9;28.4
+349;Woningbezit: huurwoning geen huurtoeslag;Gemiddelde/Percentage;2020;7.5;3.5;12.4;84.1;7.5;3.8;13.5;82.7;7.2;7.2;20.7;72.1;4.8;48.0;23.4;28.7
+350;Woningbezit: huurwoning geen huurtoeslag;Gemiddelde/Percentage;2021;7.5;4.7;12.5;82.8;7.3;4.2;17.0;78.8;7.3;7.2;18.4;74.3;4.7;47.2;24.2;28.5
+351;Woningbezit: huurwoning geen huurtoeslag;Standaardfout;2013;0.0;0.5;0.8;0.9;0.0;0.6;0.9;1.0;0.0;0.8;1.1;1.2;0.1;1.2;1.2;1.2
+352;Woningbezit: huurwoning geen huurtoeslag;Standaardfout;2014;0.0;0.5;0.8;0.9;0.0;0.6;0.9;1.0;0.0;0.8;1.1;1.2;0.1;1.2;1.1;1.2
+353;Woningbezit: huurwoning geen huurtoeslag;Standaardfout;2015;0.0;0.5;0.8;0.9;0.0;0.5;0.9;1.0;0.0;0.8;1.1;1.2;0.1;1.2;1.1;1.2
+354;Woningbezit: huurwoning geen huurtoeslag;Standaardfout;2016;0.0;0.4;0.8;0.9;0.0;0.5;0.9;1.0;0.0;0.7;1.1;1.2;0.1;1.3;1.2;1.2
+355;Woningbezit: huurwoning geen huurtoeslag;Standaardfout;2017;0.0;0.5;0.9;1.0;0.0;0.6;0.9;1.0;0.0;0.7;1.1;1.2;0.1;1.3;1.1;1.2
+356;Woningbezit: huurwoning geen huurtoeslag;Standaardfout;2018;0.0;0.4;0.9;0.9;0.0;0.4;0.9;1.0;0.0;0.7;1.0;1.2;0.1;1.3;1.1;1.2
+357;Woningbezit: huurwoning geen huurtoeslag;Standaardfout;2019;0.0;0.5;0.8;0.9;0.0;0.4;0.9;0.9;0.0;0.7;1.1;1.2;0.1;1.3;1.1;1.2
+358;Woningbezit: huurwoning geen huurtoeslag;Standaardfout;2020;0.0;0.5;0.8;0.9;0.0;0.5;0.9;1.0;0.0;0.7;1.0;1.1;0.1;1.3;1.1;1.2
+359;Woningbezit: huurwoning geen huurtoeslag;Standaardfout;2021;0.0;0.6;0.9;1.1;0.0;0.6;1.0;1.1;0.1;0.7;1.1;1.2;0.1;1.4;1.2;1.3

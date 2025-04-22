@@ -1,0 +1,217 @@
+﻿ID;Geslacht;Onderwijsvolgend;CaribischNederland;Perioden;BeroepsEnNietBeroepsbevolking_1;Beroepsbevolking_2;WerkzameBeroepsbevolking_3;Werknemer_4;WerknemerMetVastDienstverband_5;WerknemerMetTijdelijkDienstverband_6;Zelfstandige_7;ZelfstandigeZonderPersoneelZzp_8;ZelfstandigeMetPersoneel_9;MeewerkendGezinslid_10;Deeltijd_11;MinderDan20UurPerWeek_12;MinderDan12UurPerWeek_13;k_12Tot20UurPerWeek_14;k_20Tot35UurPerWeek_15;k_20Tot28UurPerWeek_16;k_28Tot35UurPerWeek_17;Voltijd_18;WerklozeBeroepsbevolking_19;Werkloosheidspercentage_20;NietBeroepsbevolking_21;BrutoArbeidsparticipatie_22;NettoArbeidsparticipatie_23
+0;Totaal mannen en vrouwen;Totaal;Caribisch Nederland;2012;2680;1240;1100;1090;640;450;10;10;0;10;300;80;40;40;230;150;80;800;140;11.0;1450;46.1;41.0
+1;Totaal mannen en vrouwen;Totaal;Caribisch Nederland;2014;2820;1200;980;890;520;380;90;50;0;30;300;120;60;60;190;150;30;680;220;18.1;1620;42.4;34.8
+2;Totaal mannen en vrouwen;Totaal;Caribisch Nederland;2016;2690;1220;950;900;520;380;60;0;50;0;230;100;90;10;130;60;60;720;270;21.9;1470;45.3;35.4
+3;Totaal mannen en vrouwen;Totaal;Caribisch Nederland;2018;2760;1330;1230;1120;540;590;110;90;20;10;420;110;80;30;310;180;140;810;100;7.6;1430;48.2;44.5
+4;Totaal mannen en vrouwen;Totaal;Caribisch Nederland;2020;2550;1190;1060;1010;470;540;50;30;0;20;300;50;10;40;240;120;120;760;140;11.4;1360;46.7;41.3
+5;Totaal mannen en vrouwen;Totaal;Caribisch Nederland;2022;2680;1350;1210;1150;710;450;50;40;10;0;310;120;40;80;190;160;30;900;150;10.7;1320;50.5;45.1
+6;Totaal mannen en vrouwen;Totaal;Bonaire;2012;1940;1010;880;880;520;360;0;0;0;0;220;40;10;30;180;110;70;670;120;12.0;940;51.7;45.5
+7;Totaal mannen en vrouwen;Totaal;Bonaire;2014;2100;950;770;700;400;310;70;30;0;30;220;110;50;50;120;100;10;550;170;18.3;1160;45.0;36.7
+8;Totaal mannen en vrouwen;Totaal;Bonaire;2016;2110;1030;830;770;460;320;50;0;50;0;170;90;80;10;90;40;50;650;210;20.2;1070;49.1;39.2
+9;Totaal mannen en vrouwen;Totaal;Bonaire;2018;2130;1060;980;890;440;460;90;80;10;0;350;100;70;30;250;140;120;630;80;7.5;1070;49.7;46.0
+10;Totaal mannen en vrouwen;Totaal;Bonaire;2020;2050;980;870;830;360;470;50;30;0;10;260;50;10;40;210;100;110;610;100;10.4;1070;47.7;42.7
+11;Totaal mannen en vrouwen;Totaal;Bonaire;2022;2170;1200;1080;1030;620;410;40;30;10;0;310;120;40;80;190;150;30;770;130;10.6;970;55.4;49.5
+12;Totaal mannen en vrouwen;Totaal;Sint Eustatius;2012;380;90;90;80;40;40;10;10;0;10;40;20;20;10;20;10;10;50;0;;290;24.2;22.9
+13;Totaal mannen en vrouwen;Totaal;Sint Eustatius;2014;390;140;110;90;60;40;10;10;0;0;50;0;0;0;50;40;10;60;40;;250;36.3;26.9
+14;Totaal mannen en vrouwen;Totaal;Sint Eustatius;2016;300;90;50;50;30;20;0;0;0;0;20;10;10;0;10;0;10;30;50;;210;31.1;15.4
+15;Totaal mannen en vrouwen;Totaal;Sint Eustatius;2018;340;140;120;110;40;70;10;0;10;0;30;0;0;0;30;20;10;90;20;;200;40.9;35.4
+16;Totaal mannen en vrouwen;Totaal;Sint Eustatius;2020;310;130;100;100;60;30;0;0;0;0;20;0;0;0;20;20;0;80;30;;190;39.9;31.9
+17;Totaal mannen en vrouwen;Totaal;Sint Eustatius;2022;340;120;100;90;70;20;10;10;0;0;10;0;0;0;0;0;0;90;20;;220;35.4;30.4
+18;Totaal mannen en vrouwen;Totaal;Saba;2012;350;140;130;130;80;40;0;0;0;0;40;20;10;10;30;20;10;80;10;;220;38.8;35.7
+19;Totaal mannen en vrouwen;Totaal;Saba;2014;320;110;100;100;60;40;10;10;0;0;30;10;10;0;20;20;10;70;10;;220;33.0;31.5
+20;Totaal mannen en vrouwen;Totaal;Saba;2016;280;90;80;80;30;50;0;0;0;0;40;10;10;0;30;30;0;40;10;;190;32.3;28.4
+21;Totaal mannen en vrouwen;Totaal;Saba;2018;280;130;130;120;60;60;10;0;0;10;40;10;10;0;30;20;10;90;0;;150;45.6;44.5
+22;Totaal mannen en vrouwen;Totaal;Saba;2020;190;90;80;80;40;40;0;0;0;0;10;0;0;0;10;0;10;70;10;;100;46.4;41.7
+23;Totaal mannen en vrouwen;Totaal;Saba;2022;170;30;30;30;20;20;0;0;0;0;0;0;0;0;0;0;0;30;0;;140;18.3;18.3
+24;Totaal mannen en vrouwen;Volgt regulier onderwijs;Caribisch Nederland;2012;1510;310;240;240;110;130;0;0;0;0;150;40;10;30;110;80;30;100;70;;1200;20.5;16.0
+25;Totaal mannen en vrouwen;Volgt regulier onderwijs;Caribisch Nederland;2014;1680;290;220;190;70;120;40;20;0;10;150;90;40;60;60;50;10;70;70;;1390;17.2;13.2
+26;Totaal mannen en vrouwen;Volgt regulier onderwijs;Caribisch Nederland;2016;1570;290;160;160;60;100;0;0;0;0;90;70;60;10;30;30;0;70;130;;1290;18.2;10.1
+27;Totaal mannen en vrouwen;Volgt regulier onderwijs;Caribisch Nederland;2018;1570;320;290;270;80;190;20;10;0;10;170;100;80;30;60;50;10;120;30;;1250;20.3;18.3
+28;Totaal mannen en vrouwen;Volgt regulier onderwijs;Caribisch Nederland;2020;1220;250;220;220;70;150;0;0;0;0;120;10;10;0;110;70;30;100;40;;960;20.9;17.9
+29;Totaal mannen en vrouwen;Volgt regulier onderwijs;Caribisch Nederland;2022;1550;400;310;310;120;190;0;0;0;0;210;110;40;70;100;100;0;100;80;;1150;25.6;20.3
+30;Totaal mannen en vrouwen;Volgt regulier onderwijs;Bonaire;2012;1060;280;220;220;100;120;0;0;0;0;130;30;0;30;110;80;30;90;60;;780;26.0;20.7
+31;Totaal mannen en vrouwen;Volgt regulier onderwijs;Bonaire;2014;1210;250;190;160;60;100;40;20;0;10;130;90;30;50;40;40;0;70;50;;960;20.3;15.9
+32;Totaal mannen en vrouwen;Volgt regulier onderwijs;Bonaire;2016;1190;240;130;130;40;90;0;0;0;0;70;50;50;10;20;20;0;60;110;;940;20.5;10.9
+33;Totaal mannen en vrouwen;Volgt regulier onderwijs;Bonaire;2018;1190;250;240;230;60;170;10;10;0;0;140;100;70;30;40;40;0;100;10;;940;21.2;20.0
+34;Totaal mannen en vrouwen;Volgt regulier onderwijs;Bonaire;2020;970;230;210;210;70;140;0;0;0;0;110;10;10;0;100;70;30;100;30;;740;23.7;21.0
+35;Totaal mannen en vrouwen;Volgt regulier onderwijs;Bonaire;2022;1280;380;300;300;110;190;0;0;0;0;210;110;40;70;100;100;0;90;80;;900;29.8;23.4
+36;Totaal mannen en vrouwen;Volgt regulier onderwijs;Sint Eustatius;2012;230;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;230;0.0;0.0
+37;Totaal mannen en vrouwen;Volgt regulier onderwijs;Sint Eustatius;2014;250;30;10;10;0;10;0;0;0;0;10;0;0;0;10;0;10;0;20;;220;;
+38;Totaal mannen en vrouwen;Volgt regulier onderwijs;Sint Eustatius;2016;180;20;10;10;10;0;0;0;0;0;10;10;10;0;0;0;0;0;10;;170;;
+39;Totaal mannen en vrouwen;Volgt regulier onderwijs;Sint Eustatius;2018;190;30;10;10;0;10;0;0;0;0;10;0;0;0;10;10;0;10;20;;160;;
+40;Totaal mannen en vrouwen;Volgt regulier onderwijs;Sint Eustatius;2020;140;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;140;;
+41;Totaal mannen en vrouwen;Volgt regulier onderwijs;Sint Eustatius;2022;130;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;130;;
+42;Totaal mannen en vrouwen;Volgt regulier onderwijs;Saba;2012;220;30;20;20;10;20;0;0;0;0;10;10;10;10;0;0;0;10;10;;180;15.3;10.2
+43;Totaal mannen en vrouwen;Volgt regulier onderwijs;Saba;2014;220;20;20;10;10;0;0;0;0;0;10;10;0;0;10;10;0;0;0;;210;6.8;6.8
+44;Totaal mannen en vrouwen;Volgt regulier onderwijs;Saba;2016;200;30;20;20;10;10;0;0;0;0;10;10;10;0;10;10;0;10;0;;180;13.4;11.9
+45;Totaal mannen en vrouwen;Volgt regulier onderwijs;Saba;2018;180;30;30;30;20;10;10;0;0;10;20;10;10;0;10;10;10;10;0;;150;18.0;18.0
+46;Totaal mannen en vrouwen;Volgt regulier onderwijs;Saba;2020;100;20;10;10;10;10;0;0;0;0;10;0;0;0;10;0;10;10;10;;80;;
+47;Totaal mannen en vrouwen;Volgt regulier onderwijs;Saba;2022;140;10;10;10;10;0;0;0;0;0;0;0;0;0;0;0;0;10;0;;130;7.3;7.3
+48;Totaal mannen en vrouwen;Volgt geen regulier onderwijs;Caribisch Nederland;2012;1180;930;860;850;540;310;10;10;0;10;160;40;30;10;120;70;50;700;70;7.4;250;78.9;73.0
+49;Totaal mannen en vrouwen;Volgt geen regulier onderwijs;Caribisch Nederland;2014;1140;910;760;710;450;260;50;30;0;20;150;30;30;0;120;110;20;610;150;16.3;230;79.8;66.7
+50;Totaal mannen en vrouwen;Volgt geen regulier onderwijs;Caribisch Nederland;2016;1120;930;790;740;460;280;60;0;50;0;140;40;40;0;100;40;60;660;140;15.0;180;83.6;71.0
+51;Totaal mannen en vrouwen;Volgt geen regulier onderwijs;Caribisch Nederland;2018;1190;1010;940;860;460;400;90;70;20;0;260;0;0;0;250;120;130;690;70;6.9;180;84.9;79.0
+52;Totaal mannen en vrouwen;Volgt geen regulier onderwijs;Caribisch Nederland;2020;1340;940;840;790;400;390;50;30;0;20;180;40;0;40;140;50;90;660;100;10.5;400;70.0;62.6
+53;Totaal mannen en vrouwen;Volgt geen regulier onderwijs;Caribisch Nederland;2022;1130;960;890;840;580;260;50;40;10;0;100;20;0;20;90;60;30;790;60;6.6;170;84.7;79.1
+54;Totaal mannen en vrouwen;Volgt geen regulier onderwijs;Bonaire;2012;890;730;670;670;420;250;0;0;0;0;80;10;10;0;70;30;40;580;70;8.9;160;82.4;75.0
+55;Totaal mannen en vrouwen;Volgt geen regulier onderwijs;Bonaire;2014;890;700;580;550;340;200;30;10;0;20;90;20;20;0;70;60;10;490;120;17.2;190;78.5;65.1
+56;Totaal mannen en vrouwen;Volgt geen regulier onderwijs;Bonaire;2016;920;790;700;640;410;230;50;0;50;0;100;30;30;0;70;20;50;590;100;12.0;130;86.2;75.8
+57;Totaal mannen en vrouwen;Volgt geen regulier onderwijs;Bonaire;2018;940;810;740;670;380;290;80;70;10;0;210;0;0;0;210;90;120;530;70;8.1;130;85.9;79.0
+58;Totaal mannen en vrouwen;Volgt geen regulier onderwijs;Bonaire;2020;1070;750;670;620;300;330;50;30;0;10;150;40;0;40;110;30;80;520;80;10.2;330;69.4;62.3
+59;Totaal mannen en vrouwen;Volgt geen regulier onderwijs;Bonaire;2022;890;820;780;730;510;220;40;30;10;0;100;10;0;10;90;50;30;680;50;5.5;70;92.1;87.0
+60;Totaal mannen en vrouwen;Volgt geen regulier onderwijs;Sint Eustatius;2012;150;90;90;80;40;40;10;10;0;10;40;20;20;10;20;10;10;50;0;;60;;
+61;Totaal mannen en vrouwen;Volgt geen regulier onderwijs;Sint Eustatius;2014;140;110;90;80;60;20;10;10;0;0;40;0;0;0;40;40;0;60;20;;30;;
+62;Totaal mannen en vrouwen;Volgt geen regulier onderwijs;Sint Eustatius;2016;120;80;40;40;30;20;0;0;0;0;10;0;0;0;10;0;10;30;40;;40;;
+63;Totaal mannen en vrouwen;Volgt geen regulier onderwijs;Sint Eustatius;2018;150;110;110;100;40;60;10;0;10;0;20;0;0;0;20;20;10;80;0;;50;;
+64;Totaal mannen en vrouwen;Volgt geen regulier onderwijs;Sint Eustatius;2020;170;120;100;100;60;30;0;0;0;0;20;0;0;0;20;20;0;80;20;;50;;
+65;Totaal mannen en vrouwen;Volgt geen regulier onderwijs;Sint Eustatius;2022;210;120;100;90;70;20;10;10;0;0;10;0;0;0;0;0;0;90;20;;90;55.8;47.1
+66;Totaal mannen en vrouwen;Volgt geen regulier onderwijs;Saba;2012;140;100;100;100;80;30;0;0;0;0;30;10;10;0;30;20;10;70;0;;30;;
+67;Totaal mannen en vrouwen;Volgt geen regulier onderwijs;Saba;2014;100;90;90;80;50;40;0;0;0;0;20;0;0;0;20;10;10;70;10;;10;;
+68;Totaal mannen en vrouwen;Volgt geen regulier onderwijs;Saba;2016;80;60;60;50;20;40;0;0;0;0;20;0;0;0;20;20;0;30;10;;20;;
+69;Totaal mannen en vrouwen;Volgt geen regulier onderwijs;Saba;2018;100;100;90;90;40;50;0;0;0;0;20;0;0;0;20;10;10;70;0;;0;;
+70;Totaal mannen en vrouwen;Volgt geen regulier onderwijs;Saba;2020;100;70;70;70;40;30;0;0;0;0;10;0;0;0;10;0;0;60;0;;20;;
+71;Totaal mannen en vrouwen;Volgt geen regulier onderwijs;Saba;2022;30;20;20;20;10;20;0;0;0;0;0;0;0;0;0;0;0;20;0;;10;;
+72;Mannen;Totaal;Caribisch Nederland;2012;1400;650;570;550;330;230;10;10;0;10;130;30;20;10;100;70;30;430;80;12.6;750;46.1;40.4
+73;Mannen;Totaal;Caribisch Nederland;2014;1310;540;460;410;230;180;50;40;0;10;150;70;40;40;70;70;10;320;80;14.6;770;41.3;35.3
+74;Mannen;Totaal;Caribisch Nederland;2016;1400;620;470;410;220;190;60;0;50;0;120;70;60;10;50;50;0;350;150;24.6;780;44.3;33.5
+75;Mannen;Totaal;Caribisch Nederland;2018;1490;690;640;550;290;260;90;70;20;0;200;50;50;0;150;80;70;440;50;7.8;790;46.7;43.0
+76;Mannen;Totaal;Caribisch Nederland;2020;1410;680;600;550;260;290;50;30;0;20;160;50;10;40;110;20;80;450;80;11.5;730;48.2;42.7
+77;Mannen;Totaal;Caribisch Nederland;2022;1230;560;500;470;280;200;30;20;10;0;120;30;10;20;90;80;10;390;60;10.0;670;45.6;40.9
+78;Mannen;Totaal;Bonaire;2012;1000;500;430;430;260;180;0;0;0;0;80;0;0;0;80;50;30;360;70;;510;49.7;42.8
+79;Mannen;Totaal;Bonaire;2014;980;410;360;310;160;150;50;30;0;10;120;70;30;40;50;50;0;240;50;;570;42.1;36.6
+80;Mannen;Totaal;Bonaire;2016;1120;530;410;350;190;160;50;0;50;0;100;60;50;10;40;40;0;310;120;;590;47.0;36.3
+81;Mannen;Totaal;Bonaire;2018;1150;560;520;450;230;220;70;70;10;0;190;50;50;0;140;70;70;330;40;7.0;590;48.9;45.4
+82;Mannen;Totaal;Bonaire;2020;1130;560;500;460;200;260;50;30;0;10;150;50;10;40;100;20;80;350;60;;570;49.7;44.6
+83;Mannen;Totaal;Bonaire;2022;950;480;430;410;240;170;30;20;10;0;110;20;10;10;90;70;10;330;40;;470;50.2;45.6
+84;Mannen;Totaal;Sint Eustatius;2012;210;50;50;40;20;20;10;10;0;10;20;20;10;10;10;10;0;30;0;;160;;
+85;Mannen;Totaal;Sint Eustatius;2014;190;80;60;60;40;20;0;0;0;0;10;0;0;0;10;10;0;50;20;;120;;
+86;Mannen;Totaal;Sint Eustatius;2016;140;40;20;20;10;10;0;0;0;0;0;0;0;0;0;0;0;20;30;;90;;
+87;Mannen;Totaal;Sint Eustatius;2018;210;80;70;60;40;20;10;0;10;0;0;0;0;0;0;0;0;70;10;;120;;
+88;Mannen;Totaal;Sint Eustatius;2020;190;80;60;60;40;20;0;0;0;0;0;0;0;0;0;0;0;60;20;;110;40.5;31.9
+89;Mannen;Totaal;Sint Eustatius;2022;200;80;60;60;40;20;10;10;0;0;10;0;0;0;0;0;0;60;10;;130;37.8;31.8
+90;Mannen;Totaal;Saba;2012;180;100;80;80;50;30;0;0;0;0;30;20;10;10;20;20;0;50;10;;90;;
+91;Mannen;Totaal;Saba;2014;140;50;50;40;40;0;10;10;0;0;20;10;0;0;10;10;10;30;0;;90;36.2;34.8
+92;Mannen;Totaal;Saba;2016;140;50;50;40;20;30;0;0;0;0;20;10;10;0;10;10;0;30;10;;90;35.2;31.7
+93;Mannen;Totaal;Saba;2018;130;50;50;40;30;20;0;0;0;0;10;0;0;0;10;10;0;40;0;;80;36.6;35.9
+94;Mannen;Totaal;Saba;2020;100;50;40;40;20;20;0;0;0;0;0;0;0;0;0;0;0;40;0;;50;;
+95;Mannen;Totaal;Saba;2022;80;10;10;10;0;10;0;0;0;0;0;0;0;0;0;0;0;10;0;;70;;
+96;Mannen;Volgt regulier onderwijs;Caribisch Nederland;2012;760;150;90;90;40;50;0;0;0;0;60;10;10;10;50;30;20;40;50;;610;19.2;12.4
+97;Mannen;Volgt regulier onderwijs;Caribisch Nederland;2014;830;170;130;90;10;80;40;20;0;10;110;70;40;40;30;30;0;20;40;;660;20.2;15.2
+98;Mannen;Volgt regulier onderwijs;Caribisch Nederland;2016;850;170;80;80;10;70;0;0;0;0;70;40;40;10;30;30;0;10;90;;680;19.9;9.3
+99;Mannen;Volgt regulier onderwijs;Caribisch Nederland;2018;870;150;140;130;70;60;10;10;0;0;90;50;50;0;50;40;0;50;10;;720;17.6;16.3
+100;Mannen;Volgt regulier onderwijs;Caribisch Nederland;2020;610;100;80;80;20;50;0;0;0;0;30;10;10;0;20;0;20;50;20;;510;16.1;12.5
+101;Mannen;Volgt regulier onderwijs;Caribisch Nederland;2022;650;80;70;70;20;50;0;0;0;0;60;10;10;0;50;50;0;0;10;;570;11.7;10.0
+102;Mannen;Volgt regulier onderwijs;Bonaire;2012;540;120;80;80;40;40;0;0;0;0;50;0;0;0;50;30;20;40;40;;420;23.0;15.4
+103;Mannen;Volgt regulier onderwijs;Bonaire;2014;630;160;120;80;0;80;40;20;0;10;90;70;30;40;30;30;0;20;40;;470;24.8;18.3
+104;Mannen;Volgt regulier onderwijs;Bonaire;2016;670;150;70;70;10;60;0;0;0;0;60;40;30;10;20;20;0;10;90;;520;22.7;10.2
+105;Mannen;Volgt regulier onderwijs;Bonaire;2018;680;130;130;120;60;60;10;10;0;0;90;50;50;0;40;40;0;50;0;;540;19.6;19.6
+106;Mannen;Volgt regulier onderwijs;Bonaire;2020;470;90;70;70;20;50;0;0;0;0;30;10;10;0;20;0;20;40;20;;390;17.9;14.6
+107;Mannen;Volgt regulier onderwijs;Bonaire;2022;520;70;60;60;20;40;0;0;0;0;60;10;10;0;50;50;0;0;10;;450;;
+108;Mannen;Volgt regulier onderwijs;Sint Eustatius;2012;130;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;130;;
+109;Mannen;Volgt regulier onderwijs;Sint Eustatius;2014;100;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;100;;
+110;Mannen;Volgt regulier onderwijs;Sint Eustatius;2016;80;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10;;80;;
+111;Mannen;Volgt regulier onderwijs;Sint Eustatius;2018;100;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10;;90;;
+112;Mannen;Volgt regulier onderwijs;Sint Eustatius;2020;80;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;80;;
+113;Mannen;Volgt regulier onderwijs;Sint Eustatius;2022;70;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;60;;
+114;Mannen;Volgt regulier onderwijs;Saba;2012;100;20;10;10;0;10;0;0;0;0;10;10;10;10;0;0;0;0;10;;70;;
+115;Mannen;Volgt regulier onderwijs;Saba;2014;100;10;10;10;10;0;0;0;0;0;10;10;0;0;10;10;0;0;0;;80;11.6;11.6
+116;Mannen;Volgt regulier onderwijs;Saba;2016;90;10;10;10;0;10;0;0;0;0;10;0;0;0;10;10;0;0;0;;80;10.8;10.8
+117;Mannen;Volgt regulier onderwijs;Saba;2018;90;10;10;10;10;0;0;0;0;0;0;0;0;0;0;0;0;10;0;;80;;
+118;Mannen;Volgt regulier onderwijs;Saba;2020;50;10;10;10;10;0;0;0;0;0;0;0;0;0;0;0;0;10;0;;50;;
+119;Mannen;Volgt regulier onderwijs;Saba;2022;60;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;60;;
+120;Mannen;Volgt geen regulier onderwijs;Caribisch Nederland;2012;640;500;470;460;290;170;10;10;0;10;70;20;20;10;50;40;10;400;30;5.8;140;78.1;73.6
+121;Mannen;Volgt geen regulier onderwijs;Caribisch Nederland;2014;490;380;340;320;220;100;20;20;0;0;40;0;0;0;40;40;10;300;40;;110;77.4;69.5
+122;Mannen;Volgt geen regulier onderwijs;Caribisch Nederland;2016;550;450;390;330;210;120;60;0;50;0;50;20;20;0;20;20;0;340;60;13.7;100;82.3;71.0
+123;Mannen;Volgt geen regulier onderwijs;Caribisch Nederland;2018;620;540;500;420;220;200;70;60;20;0;110;0;0;0;100;40;70;390;40;8.0;80;87.7;80.7
+124;Mannen;Volgt geen regulier onderwijs;Caribisch Nederland;2020;810;580;530;480;240;240;50;30;0;20;130;40;0;40;90;20;70;400;60;9.4;220;72.3;65.5
+125;Mannen;Volgt geen regulier onderwijs;Caribisch Nederland;2022;580;490;440;410;260;150;30;20;10;0;60;20;0;20;40;30;10;380;50;9.3;100;83.5;75.7
+126;Mannen;Volgt geen regulier onderwijs;Bonaire;2012;460;380;350;350;210;140;0;0;0;0;30;0;0;0;30;20;10;320;30;;90;;
+127;Mannen;Volgt geen regulier onderwijs;Bonaire;2014;350;260;240;230;160;70;10;10;0;0;20;0;0;0;20;20;0;220;10;;90;;
+128;Mannen;Volgt geen regulier onderwijs;Bonaire;2016;450;370;340;280;180;100;50;0;50;0;40;20;20;0;20;20;0;300;40;;70;;
+129;Mannen;Volgt geen regulier onderwijs;Bonaire;2018;470;430;390;330;170;160;60;60;10;0;100;0;0;0;100;30;70;290;40;;40;;
+130;Mannen;Volgt geen regulier onderwijs;Bonaire;2020;660;480;430;390;180;210;50;30;0;10;130;40;0;40;80;20;70;310;40;;180;72.6;66.2
+131;Mannen;Volgt geen regulier onderwijs;Bonaire;2022;430;410;370;350;220;130;30;20;10;0;50;10;0;10;40;20;10;330;30;;20;;
+132;Mannen;Volgt geen regulier onderwijs;Sint Eustatius;2012;90;50;50;40;20;20;10;10;0;10;20;20;10;10;10;10;0;30;0;;30;;
+133;Mannen;Volgt geen regulier onderwijs;Sint Eustatius;2014;90;80;60;60;40;20;0;0;0;0;10;0;0;0;10;10;0;50;20;;10;;
+134;Mannen;Volgt geen regulier onderwijs;Sint Eustatius;2016;60;40;20;20;10;10;0;0;0;0;0;0;0;0;0;0;0;20;20;;20;;
+135;Mannen;Volgt geen regulier onderwijs;Sint Eustatius;2018;100;70;70;60;40;20;10;0;10;0;0;0;0;0;0;0;0;70;0;;30;;
+136;Mannen;Volgt geen regulier onderwijs;Sint Eustatius;2020;110;70;60;60;40;20;0;0;0;0;0;0;0;0;0;0;0;60;10;;30;;
+137;Mannen;Volgt geen regulier onderwijs;Sint Eustatius;2022;130;70;60;50;40;10;10;10;0;0;10;0;0;0;0;0;0;50;10;;60;;
+138;Mannen;Volgt geen regulier onderwijs;Saba;2012;90;70;70;70;50;20;0;0;0;0;20;10;10;0;20;20;0;50;0;;20;;
+139;Mannen;Volgt geen regulier onderwijs;Saba;2014;50;40;40;40;30;0;0;0;0;0;10;0;0;0;10;0;10;30;0;;10;;
+140;Mannen;Volgt geen regulier onderwijs;Saba;2016;50;40;30;30;20;10;0;0;0;0;10;0;0;0;10;10;0;30;10;;10;;
+141;Mannen;Volgt geen regulier onderwijs;Saba;2018;40;40;40;30;20;20;0;0;0;0;10;0;0;0;0;0;0;30;0;;0;;
+142;Mannen;Volgt geen regulier onderwijs;Saba;2020;50;40;30;30;20;20;0;0;0;0;0;0;0;0;0;0;0;30;0;;10;;
+143;Mannen;Volgt geen regulier onderwijs;Saba;2022;20;10;10;10;0;10;0;0;0;0;0;0;0;0;0;0;0;10;0;;10;;
+144;Vrouwen;Totaal;Caribisch Nederland;2012;1280;590;530;530;310;220;0;0;0;0;170;40;20;30;130;80;50;360;60;9.5;690;46.0;41.7
+145;Vrouwen;Totaal;Caribisch Nederland;2014;1510;650;520;480;290;200;30;10;0;20;160;40;30;20;110;90;30;360;140;20.8;850;43.4;34.3
+146;Vrouwen;Totaal;Caribisch Nederland;2016;1290;600;480;480;300;190;0;0;0;0;110;40;40;0;80;10;60;370;120;19.2;690;46.4;37.5
+147;Vrouwen;Totaal;Caribisch Nederland;2018;1270;640;590;570;240;330;20;10;0;10;220;60;30;30;160;100;70;370;50;7.4;640;50.0;46.3
+148;Vrouwen;Totaal;Caribisch Nederland;2020;1140;510;450;450;210;240;0;0;0;0;140;0;0;0;140;100;40;310;60;11.4;630;44.7;39.6
+149;Vrouwen;Totaal;Caribisch Nederland;2022;1440;790;700;680;430;250;20;20;0;0;200;100;30;70;100;80;20;510;90;11.2;650;54.8;48.7
+150;Vrouwen;Totaal;Bonaire;2012;940;510;450;450;270;190;0;0;0;0;140;40;10;30;100;60;40;310;50;10.3;430;53.9;48.3
+151;Vrouwen;Totaal;Bonaire;2014;1130;530;420;390;240;150;20;0;0;20;100;40;20;20;60;50;10;310;120;;590;47.5;36.9
+152;Vrouwen;Totaal;Bonaire;2016;990;510;420;420;260;160;0;0;0;0;80;30;30;0;50;0;50;340;90;;480;51.5;42.5
+153;Vrouwen;Totaal;Bonaire;2018;990;500;460;450;210;240;10;10;0;0;160;50;30;30;110;60;50;300;40;;490;50.6;46.7
+154;Vrouwen;Totaal;Bonaire;2020;920;420;370;370;170;210;0;0;0;0;110;0;0;0;110;80;30;260;40;;500;45.2;40.4
+155;Vrouwen;Totaal;Bonaire;2022;1220;730;640;620;390;240;20;20;0;0;200;100;30;70;100;80;20;450;80;;500;59.4;52.6
+156;Vrouwen;Totaal;Sint Eustatius;2012;170;40;40;40;20;20;0;0;0;0;20;0;0;0;20;10;10;20;0;;130;23.7;21.4
+157;Vrouwen;Totaal;Sint Eustatius;2014;200;60;50;40;20;10;10;10;0;0;40;0;0;0;40;30;10;10;20;;130;;
+158;Vrouwen;Totaal;Sint Eustatius;2016;160;50;30;30;20;10;0;0;0;0;20;10;10;0;10;0;10;10;20;;110;;
+159;Vrouwen;Totaal;Sint Eustatius;2018;130;60;50;50;0;50;0;0;0;0;30;0;0;0;30;20;10;20;10;;80;;
+160;Vrouwen;Totaal;Sint Eustatius;2020;130;50;40;40;20;20;0;0;0;0;20;0;0;0;20;10;0;20;10;;80;;
+161;Vrouwen;Totaal;Sint Eustatius;2022;140;40;40;30;30;10;0;0;0;0;0;0;0;0;0;0;0;40;10;;90;;
+162;Vrouwen;Totaal;Saba;2012;170;40;40;40;30;10;0;0;0;0;10;0;0;0;10;10;10;30;0;;130;;
+163;Vrouwen;Totaal;Saba;2014;180;60;50;50;20;30;0;0;0;0;10;0;0;0;10;10;0;40;0;;130;30.6;29.0
+164;Vrouwen;Totaal;Saba;2016;140;40;40;40;10;30;0;0;0;0;20;0;0;0;20;10;0;20;10;;100;;
+165;Vrouwen;Totaal;Saba;2018;150;80;80;70;30;40;10;0;0;10;30;10;10;0;30;20;10;50;0;;70;;
+166;Vrouwen;Totaal;Saba;2020;90;40;40;40;20;20;0;0;0;0;10;0;0;0;10;0;10;30;10;;50;;
+167;Vrouwen;Totaal;Saba;2022;90;20;20;20;20;10;0;0;0;0;0;0;0;0;0;0;0;20;0;;70;;
+168;Vrouwen;Volgt regulier onderwijs;Caribisch Nederland;2012;750;160;150;150;60;80;0;0;0;0;90;30;0;30;60;50;10;60;20;;580;21.6;19.6
+169;Vrouwen;Volgt regulier onderwijs;Caribisch Nederland;2014;860;120;100;100;60;40;0;0;0;0;50;20;0;20;30;20;10;50;30;;730;14.4;11.2
+170;Vrouwen;Volgt regulier onderwijs;Caribisch Nederland;2016;720;120;80;80;50;30;0;0;0;0;20;20;20;0;0;0;0;60;40;;610;16.2;10.9
+171;Vrouwen;Volgt regulier onderwijs;Caribisch Nederland;2018;700;160;150;140;10;130;10;0;0;10;70;60;30;30;20;10;10;70;20;;530;23.5;20.8
+172;Vrouwen;Volgt regulier onderwijs;Caribisch Nederland;2020;610;160;140;140;50;90;0;0;0;0;90;0;0;0;90;70;20;50;20;;450;25.7;23.2
+173;Vrouwen;Volgt regulier onderwijs;Caribisch Nederland;2022;900;320;250;250;110;140;0;0;0;0;150;100;30;70;50;50;0;100;70;;580;35.6;27.8
+174;Vrouwen;Volgt regulier onderwijs;Bonaire;2012;520;150;140;140;60;80;0;0;0;0;90;30;0;30;60;50;10;50;20;;370;29.3;26.4
+175;Vrouwen;Volgt regulier onderwijs;Bonaire;2014;580;90;80;80;60;20;0;0;0;0;30;20;0;20;20;20;0;50;10;;490;15.5;13.6
+176;Vrouwen;Volgt regulier onderwijs;Bonaire;2016;510;90;60;60;30;30;0;0;0;0;10;10;10;0;0;0;0;50;30;;420;;
+177;Vrouwen;Volgt regulier onderwijs;Bonaire;2018;520;120;110;110;0;110;0;0;0;0;50;50;30;30;0;0;0;50;10;;400;;
+178;Vrouwen;Volgt regulier onderwijs;Bonaire;2020;500;150;140;140;50;90;0;0;0;0;80;0;0;0;80;70;10;50;10;;360;29.1;27.1
+179;Vrouwen;Volgt regulier onderwijs;Bonaire;2022;760;310;240;240;100;140;0;0;0;0;150;100;30;70;50;50;0;90;70;;450;40.9;31.5
+180;Vrouwen;Volgt regulier onderwijs;Sint Eustatius;2012;110;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;110;;
+181;Vrouwen;Volgt regulier onderwijs;Sint Eustatius;2014;150;30;10;10;0;10;0;0;0;0;10;0;0;0;10;0;10;0;20;;120;;
+182;Vrouwen;Volgt regulier onderwijs;Sint Eustatius;2016;100;10;10;10;10;0;0;0;0;0;10;10;10;0;0;0;0;0;0;;90;;
+183;Vrouwen;Volgt regulier onderwijs;Sint Eustatius;2018;80;20;10;10;0;10;0;0;0;0;10;0;0;0;10;10;0;10;10;;70;;
+184;Vrouwen;Volgt regulier onderwijs;Sint Eustatius;2020;60;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;60;;
+185;Vrouwen;Volgt regulier onderwijs;Sint Eustatius;2022;60;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;60;;
+186;Vrouwen;Volgt regulier onderwijs;Saba;2012;120;10;10;10;10;10;0;0;0;0;0;0;0;0;0;0;0;10;0;;110;;
+187;Vrouwen;Volgt regulier onderwijs;Saba;2014;130;10;10;10;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;120;3.9;3.9
+188;Vrouwen;Volgt regulier onderwijs;Saba;2016;110;20;10;10;10;0;0;0;0;0;0;0;0;0;0;0;0;10;0;;90;;
+189;Vrouwen;Volgt regulier onderwijs;Saba;2018;90;20;20;20;10;10;10;0;0;10;10;10;10;0;10;10;10;10;0;;70;;
+190;Vrouwen;Volgt regulier onderwijs;Saba;2020;40;10;10;10;0;10;0;0;0;0;10;0;0;0;10;0;10;0;10;;30;;
+191;Vrouwen;Volgt regulier onderwijs;Saba;2022;80;10;10;10;10;0;0;0;0;0;0;0;0;0;0;0;0;10;0;;70;;
+192;Vrouwen;Volgt geen regulier onderwijs;Caribisch Nederland;2012;540;430;390;390;250;140;0;0;0;0;90;20;20;0;70;30;40;300;40;9.6;110;79.9;72.2
+193;Vrouwen;Volgt geen regulier onderwijs;Caribisch Nederland;2014;650;530;420;390;230;160;30;10;0;20;110;30;30;0;80;70;10;310;110;20.8;120;81.8;64.8
+194;Vrouwen;Volgt geen regulier onderwijs;Caribisch Nederland;2016;570;480;400;400;250;160;0;0;0;0;90;10;10;0;80;10;60;310;80;;90;84.7;71.0
+195;Vrouwen;Volgt geen regulier onderwijs;Caribisch Nederland;2018;580;470;450;430;230;200;10;10;0;0;150;0;0;0;150;90;60;300;30;5.7;100;81.9;77.3
+196;Vrouwen;Volgt geen regulier onderwijs;Caribisch Nederland;2020;530;350;310;310;160;150;0;0;0;0;50;0;0;0;50;30;20;260;40;12.1;180;66.5;58.5
+197;Vrouwen;Volgt geen regulier onderwijs;Caribisch Nederland;2022;550;470;450;430;320;110;20;20;0;0;50;0;0;0;50;30;20;410;20;;80;;
+198;Vrouwen;Volgt geen regulier onderwijs;Bonaire;2012;420;360;320;320;210;110;0;0;0;0;50;10;10;0;40;20;30;270;40;;70;;
+199;Vrouwen;Volgt geen regulier onderwijs;Bonaire;2014;540;440;340;320;190;130;20;0;0;20;70;20;20;0;50;40;10;270;110;;100;;
+200;Vrouwen;Volgt geen regulier onderwijs;Bonaire;2016;470;420;360;360;230;130;0;0;0;0;70;10;10;0;50;0;50;290;60;;60;;
+201;Vrouwen;Volgt geen regulier onderwijs;Bonaire;2018;470;380;350;340;210;130;10;10;0;0;110;0;0;0;110;60;50;240;30;;90;;
+202;Vrouwen;Volgt geen regulier onderwijs;Bonaire;2020;420;270;240;240;120;120;0;0;0;0;30;0;0;0;30;10;20;210;30;;150;;
+203;Vrouwen;Volgt geen regulier onderwijs;Bonaire;2022;460;420;400;380;290;90;20;20;0;0;50;0;0;0;50;30;20;360;10;;50;;
+204;Vrouwen;Volgt geen regulier onderwijs;Sint Eustatius;2012;70;40;40;40;20;20;0;0;0;0;20;0;0;0;20;10;10;20;0;;30;;
+205;Vrouwen;Volgt geen regulier onderwijs;Sint Eustatius;2014;50;40;40;20;20;0;10;10;0;0;30;0;0;0;30;30;0;10;0;;10;;
+206;Vrouwen;Volgt geen regulier onderwijs;Sint Eustatius;2016;60;40;20;20;20;10;0;0;0;0;10;0;0;0;10;0;10;10;20;;20;;
+207;Vrouwen;Volgt geen regulier onderwijs;Sint Eustatius;2018;50;40;40;40;0;30;0;0;0;0;20;0;0;0;20;20;10;10;0;;10;;
+208;Vrouwen;Volgt geen regulier onderwijs;Sint Eustatius;2020;60;50;40;40;20;20;0;0;0;0;20;0;0;0;20;10;0;20;10;;10;;
+209;Vrouwen;Volgt geen regulier onderwijs;Sint Eustatius;2022;70;40;40;30;30;10;0;0;0;0;0;0;0;0;0;0;0;40;10;;30;;
+210;Vrouwen;Volgt geen regulier onderwijs;Saba;2012;50;30;30;30;30;10;0;0;0;0;10;0;0;0;10;10;10;20;0;;20;;
+211;Vrouwen;Volgt geen regulier onderwijs;Saba;2014;60;50;50;50;20;30;0;0;0;0;10;0;0;0;10;0;0;40;0;;10;;
+212;Vrouwen;Volgt geen regulier onderwijs;Saba;2016;30;30;20;20;0;20;0;0;0;0;20;0;0;0;20;10;0;10;0;;10;;
+213;Vrouwen;Volgt geen regulier onderwijs;Saba;2018;60;60;60;60;20;30;0;0;0;0;20;0;0;0;20;10;10;40;0;;0;;
+214;Vrouwen;Volgt geen regulier onderwijs;Saba;2020;50;30;30;30;20;10;0;0;0;0;10;0;0;0;10;0;0;30;0;;20;;
+215;Vrouwen;Volgt geen regulier onderwijs;Saba;2022;10;10;10;10;10;10;0;0;0;0;0;0;0;0;0;0;0;10;0;;0;;

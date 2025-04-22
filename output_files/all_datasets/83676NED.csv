@@ -1,0 +1,2401 @@
+﻿ID;Bestedingscategorieen;Marges;Perioden;GemiddeldBesteedBedrag_1;Bestedingsaandeel_2
+0;000000 Alle bestedingen;Waarde;2015;33763.0;100.0
+1;000000 Alle bestedingen;Waarde;2020;35211.0;100.0
+2;000000 Alle bestedingen;Ondergrens 95%-interval;2015;33543.0;
+3;000000 Alle bestedingen;Ondergrens 95%-interval;2020;34946.0;
+4;000000 Alle bestedingen;Bovengrens 95%-interval;2015;33983.0;
+5;000000 Alle bestedingen;Bovengrens 95%-interval;2020;35476.0;
+6;010000 Voedingsmidd. en alc.vrije drank;Waarde;2015;3721.0;11.0
+7;010000 Voedingsmidd. en alc.vrije drank;Waarde;2020;4458.0;12.7
+8;010000 Voedingsmidd. en alc.vrije drank;Ondergrens 95%-interval;2015;3682.0;
+9;010000 Voedingsmidd. en alc.vrije drank;Ondergrens 95%-interval;2020;4403.0;
+10;010000 Voedingsmidd. en alc.vrije drank;Bovengrens 95%-interval;2015;3760.0;
+11;010000 Voedingsmidd. en alc.vrije drank;Bovengrens 95%-interval;2020;4513.0;
+12;011000 Voedingsmiddelen;Waarde;2015;3328.0;9.9
+13;011000 Voedingsmiddelen;Waarde;2020;4038.0;11.5
+14;011000 Voedingsmiddelen;Ondergrens 95%-interval;2015;3293.0;
+15;011000 Voedingsmiddelen;Ondergrens 95%-interval;2020;3987.0;
+16;011000 Voedingsmiddelen;Bovengrens 95%-interval;2015;3363.0;
+17;011000 Voedingsmiddelen;Bovengrens 95%-interval;2020;4089.0;
+18;011100 Brood en granen;Waarde;2015;616.0;1.8
+19;011100 Brood en granen;Waarde;2020;684.0;1.9
+20;011100 Brood en granen;Ondergrens 95%-interval;2015;606.0;
+21;011100 Brood en granen;Ondergrens 95%-interval;2020;672.0;
+22;011100 Brood en granen;Bovengrens 95%-interval;2015;625.0;
+23;011100 Brood en granen;Bovengrens 95%-interval;2020;696.0;
+24;011110 Rijst;Waarde;2015;17.0;0.0
+25;011110 Rijst;Waarde;2020;15.0;0.0
+26;011110 Rijst;Ondergrens 95%-interval;2015;16.0;
+27;011110 Rijst;Ondergrens 95%-interval;2020;13.0;
+28;011110 Rijst;Bovengrens 95%-interval;2015;18.0;
+29;011110 Rijst;Bovengrens 95%-interval;2020;17.0;
+30;011120 Bloem en andere granen;Waarde;2015;11.0;0.0
+31;011120 Bloem en andere granen;Waarde;2020;16.0;0.0
+32;011120 Bloem en andere granen;Ondergrens 95%-interval;2015;10.0;
+33;011120 Bloem en andere granen;Ondergrens 95%-interval;2020;15.0;
+34;011120 Bloem en andere granen;Bovengrens 95%-interval;2015;12.0;
+35;011120 Bloem en andere granen;Bovengrens 95%-interval;2020;17.0;
+36;011130 Brood;Waarde;2015;293.0;0.9
+37;011130 Brood;Waarde;2020;311.0;0.9
+38;011130 Brood;Ondergrens 95%-interval;2015;288.0;
+39;011130 Brood;Ondergrens 95%-interval;2020;305.0;
+40;011130 Brood;Bovengrens 95%-interval;2015;298.0;
+41;011130 Brood;Bovengrens 95%-interval;2020;317.0;
+42;011140 Overige bakkerijproducten;Waarde;2015;186.0;0.6
+43;011140 Overige bakkerijproducten;Waarde;2020;199.0;0.6
+44;011140 Overige bakkerijproducten;Ondergrens 95%-interval;2015;181.0;
+45;011140 Overige bakkerijproducten;Ondergrens 95%-interval;2020;193.0;
+46;011140 Overige bakkerijproducten;Bovengrens 95%-interval;2015;190.0;
+47;011140 Overige bakkerijproducten;Bovengrens 95%-interval;2020;205.0;
+48;011150 Pizza en quiche;Waarde;2015;19.0;0.1
+49;011150 Pizza en quiche;Waarde;2020;34.0;0.1
+50;011150 Pizza en quiche;Ondergrens 95%-interval;2015;18.0;
+51;011150 Pizza en quiche;Ondergrens 95%-interval;2020;32.0;
+52;011150 Pizza en quiche;Bovengrens 95%-interval;2015;21.0;
+53;011150 Pizza en quiche;Bovengrens 95%-interval;2020;36.0;
+54;011160 Pastaproducten en couscous;Waarde;2015;26.0;0.1
+55;011160 Pastaproducten en couscous;Waarde;2020;32.0;0.1
+56;011160 Pastaproducten en couscous;Ondergrens 95%-interval;2015;24.0;
+57;011160 Pastaproducten en couscous;Ondergrens 95%-interval;2020;30.0;
+58;011160 Pastaproducten en couscous;Bovengrens 95%-interval;2015;27.0;
+59;011160 Pastaproducten en couscous;Bovengrens 95%-interval;2020;34.0;
+60;011170 Ontbijtgranen;Waarde;2015;26.0;0.1
+61;011170 Ontbijtgranen;Waarde;2020;36.0;0.1
+62;011170 Ontbijtgranen;Ondergrens 95%-interval;2015;24.0;
+63;011170 Ontbijtgranen;Ondergrens 95%-interval;2020;34.0;
+64;011170 Ontbijtgranen;Bovengrens 95%-interval;2015;27.0;
+65;011170 Ontbijtgranen;Bovengrens 95%-interval;2020;38.0;
+66;011180 Overige graanproducten;Waarde;2015;38.0;0.1
+67;011180 Overige graanproducten;Waarde;2020;41.0;0.1
+68;011180 Overige graanproducten;Ondergrens 95%-interval;2015;36.0;
+69;011180 Overige graanproducten;Ondergrens 95%-interval;2020;39.0;
+70;011180 Overige graanproducten;Bovengrens 95%-interval;2015;40.0;
+71;011180 Overige graanproducten;Bovengrens 95%-interval;2020;43.0;
+72;011200 Vlees;Waarde;2015;634.0;1.9
+73;011200 Vlees;Waarde;2020;729.0;2.1
+74;011200 Vlees;Ondergrens 95%-interval;2015;623.0;
+75;011200 Vlees;Ondergrens 95%-interval;2020;714.0;
+76;011200 Vlees;Bovengrens 95%-interval;2015;646.0;
+77;011200 Vlees;Bovengrens 95%-interval;2020;744.0;
+78;011210 Rund- en kalfsvlees;Waarde;2015;128.0;0.4
+79;011210 Rund- en kalfsvlees;Waarde;2020;139.0;0.4
+80;011210 Rund- en kalfsvlees;Ondergrens 95%-interval;2015;123.0;
+81;011210 Rund- en kalfsvlees;Ondergrens 95%-interval;2020;133.0;
+82;011210 Rund- en kalfsvlees;Bovengrens 95%-interval;2015;132.0;
+83;011210 Rund- en kalfsvlees;Bovengrens 95%-interval;2020;145.0;
+84;011220 Varkensvlees;Waarde;2015;102.0;0.3
+85;011220 Varkensvlees;Waarde;2020;106.0;0.3
+86;011220 Varkensvlees;Ondergrens 95%-interval;2015;99.0;
+87;011220 Varkensvlees;Ondergrens 95%-interval;2020;101.0;
+88;011220 Varkensvlees;Bovengrens 95%-interval;2015;106.0;
+89;011220 Varkensvlees;Bovengrens 95%-interval;2020;111.0;
+90;011240 Pluimveevlees;Waarde;2015;114.0;0.3
+91;011240 Pluimveevlees;Waarde;2020;154.0;0.4
+92;011240 Pluimveevlees;Ondergrens 95%-interval;2015;110.0;
+93;011240 Pluimveevlees;Ondergrens 95%-interval;2020;148.0;
+94;011240 Pluimveevlees;Bovengrens 95%-interval;2015;118.0;
+95;011240 Pluimveevlees;Bovengrens 95%-interval;2020;160.0;
+96;011250 Overig vlees;Waarde;2015;20.0;0.1
+97;011250 Overig vlees;Waarde;2020;21.0;0.1
+98;011250 Overig vlees;Ondergrens 95%-interval;2015;18.0;
+99;011250 Overig vlees;Ondergrens 95%-interval;2020;18.0;
+100;011250 Overig vlees;Bovengrens 95%-interval;2015;21.0;
+101;011250 Overig vlees;Bovengrens 95%-interval;2020;24.0;
+102;011270 Gerookt, gedroogd of gez. vlees;Waarde;2015;169.0;0.5
+103;011270 Gerookt, gedroogd of gez. vlees;Waarde;2020;149.0;0.4
+104;011270 Gerookt, gedroogd of gez. vlees;Ondergrens 95%-interval;2015;166.0;
+105;011270 Gerookt, gedroogd of gez. vlees;Ondergrens 95%-interval;2020;145.0;
+106;011270 Gerookt, gedroogd of gez. vlees;Bovengrens 95%-interval;2015;173.0;
+107;011270 Gerookt, gedroogd of gez. vlees;Bovengrens 95%-interval;2020;153.0;
+108;011280 Overige vleesbereidingen;Waarde;2015;101.0;0.3
+109;011280 Overige vleesbereidingen;Waarde;2020;160.0;0.5
+110;011280 Overige vleesbereidingen;Ondergrens 95%-interval;2015;97.0;
+111;011280 Overige vleesbereidingen;Ondergrens 95%-interval;2020;154.0;
+112;011280 Overige vleesbereidingen;Bovengrens 95%-interval;2015;104.0;
+113;011280 Overige vleesbereidingen;Bovengrens 95%-interval;2020;166.0;
+114;011300 Vis en schaal- en schelpdieren;Waarde;2015;138.0;0.4
+115;011300 Vis en schaal- en schelpdieren;Waarde;2020;181.0;0.5
+116;011300 Vis en schaal- en schelpdieren;Ondergrens 95%-interval;2015;133.0;
+117;011300 Vis en schaal- en schelpdieren;Ondergrens 95%-interval;2020;174.0;
+118;011300 Vis en schaal- en schelpdieren;Bovengrens 95%-interval;2015;143.0;
+119;011300 Vis en schaal- en schelpdieren;Bovengrens 95%-interval;2020;188.0;
+120;011310 Verse of gekoelde vis;Waarde;2015;64.0;0.2
+121;011310 Verse of gekoelde vis;Waarde;2020;99.0;0.3
+122;011310 Verse of gekoelde vis;Ondergrens 95%-interval;2015;61.0;
+123;011310 Verse of gekoelde vis;Ondergrens 95%-interval;2020;94.0;
+124;011310 Verse of gekoelde vis;Bovengrens 95%-interval;2015;67.0;
+125;011310 Verse of gekoelde vis;Bovengrens 95%-interval;2020;104.0;
+126;011320 Diepvries vis;Waarde;2015;26.0;0.1
+127;011320 Diepvries vis;Waarde;2020;1.0;0.0
+128;011320 Diepvries vis;Ondergrens 95%-interval;2015;24.0;
+129;011320 Diepvries vis;Ondergrens 95%-interval;2020;0.0;
+130;011320 Diepvries vis;Bovengrens 95%-interval;2015;28.0;
+131;011320 Diepvries vis;Bovengrens 95%-interval;2020;2.0;
+132;011330 Verse schaal- en schelpdieren;Waarde;2015;15.0;0.0
+133;011330 Verse schaal- en schelpdieren;Waarde;2020;19.0;0.1
+134;011330 Verse schaal- en schelpdieren;Ondergrens 95%-interval;2015;14.0;
+135;011330 Verse schaal- en schelpdieren;Ondergrens 95%-interval;2020;17.0;
+136;011330 Verse schaal- en schelpdieren;Bovengrens 95%-interval;2015;17.0;
+137;011330 Verse schaal- en schelpdieren;Bovengrens 95%-interval;2020;21.0;
+138;011350 Gerookte, gedr. of gez. vis.;Waarde;2015;;
+139;011350 Gerookte, gedr. of gez. vis.;Waarde;2020;1.0;0.0
+140;011350 Gerookte, gedr. of gez. vis.;Ondergrens 95%-interval;2015;;
+141;011350 Gerookte, gedr. of gez. vis.;Ondergrens 95%-interval;2020;1.0;
+142;011350 Gerookte, gedr. of gez. vis.;Bovengrens 95%-interval;2015;;
+143;011350 Gerookte, gedr. of gez. vis.;Bovengrens 95%-interval;2020;1.0;
+144;011360 Bereidingen en conserven van vis.;Waarde;2015;33.0;0.1
+145;011360 Bereidingen en conserven van vis.;Waarde;2020;61.0;0.2
+146;011360 Bereidingen en conserven van vis.;Ondergrens 95%-interval;2015;31.0;
+147;011360 Bereidingen en conserven van vis.;Ondergrens 95%-interval;2020;57.0;
+148;011360 Bereidingen en conserven van vis.;Bovengrens 95%-interval;2015;35.0;
+149;011360 Bereidingen en conserven van vis.;Bovengrens 95%-interval;2020;65.0;
+150;011400 Melk, kaas en eieren;Waarde;2015;507.0;1.5
+151;011400 Melk, kaas en eieren;Waarde;2020;651.0;1.8
+152;011400 Melk, kaas en eieren;Ondergrens 95%-interval;2015;499.0;
+153;011400 Melk, kaas en eieren;Ondergrens 95%-interval;2020;640.0;
+154;011400 Melk, kaas en eieren;Bovengrens 95%-interval;2015;514.0;
+155;011400 Melk, kaas en eieren;Bovengrens 95%-interval;2020;662.0;
+156;011410 Verse volle melk;Waarde;2015;2.0;0.0
+157;011410 Verse volle melk;Waarde;2020;1.0;0.0
+158;011410 Verse volle melk;Ondergrens 95%-interval;2015;1.0;
+159;011410 Verse volle melk;Ondergrens 95%-interval;2020;1.0;
+160;011410 Verse volle melk;Bovengrens 95%-interval;2015;3.0;
+161;011410 Verse volle melk;Bovengrens 95%-interval;2020;1.0;
+162;011420 Verse halfvolle en magere melk;Waarde;2015;65.0;0.2
+163;011420 Verse halfvolle en magere melk;Waarde;2020;84.0;0.2
+164;011420 Verse halfvolle en magere melk;Ondergrens 95%-interval;2015;63.0;
+165;011420 Verse halfvolle en magere melk;Ondergrens 95%-interval;2020;81.0;
+166;011420 Verse halfvolle en magere melk;Bovengrens 95%-interval;2015;67.0;
+167;011420 Verse halfvolle en magere melk;Bovengrens 95%-interval;2020;87.0;
+168;011440 Yoghurt;Waarde;2015;64.0;0.2
+169;011440 Yoghurt;Waarde;2020;84.0;0.2
+170;011440 Yoghurt;Ondergrens 95%-interval;2015;62.0;
+171;011440 Yoghurt;Ondergrens 95%-interval;2020;81.0;
+172;011440 Yoghurt;Bovengrens 95%-interval;2015;65.0;
+173;011440 Yoghurt;Bovengrens 95%-interval;2020;87.0;
+174;011450 Kaas en kwark;Waarde;2015;231.0;0.7
+175;011450 Kaas en kwark;Waarde;2020;285.0;0.8
+176;011450 Kaas en kwark;Ondergrens 95%-interval;2015;226.0;
+177;011450 Kaas en kwark;Ondergrens 95%-interval;2020;278.0;
+178;011450 Kaas en kwark;Bovengrens 95%-interval;2015;236.0;
+179;011450 Kaas en kwark;Bovengrens 95%-interval;2020;292.0;
+180;011460 Overige zuivelproducten;Waarde;2015;108.0;0.3
+181;011460 Overige zuivelproducten;Waarde;2020;137.0;0.4
+182;011460 Overige zuivelproducten;Ondergrens 95%-interval;2015;105.0;
+183;011460 Overige zuivelproducten;Ondergrens 95%-interval;2020;133.0;
+184;011460 Overige zuivelproducten;Bovengrens 95%-interval;2015;110.0;
+185;011460 Overige zuivelproducten;Bovengrens 95%-interval;2020;141.0;
+186;011470 Eieren;Waarde;2015;37.0;0.1
+187;011470 Eieren;Waarde;2020;60.0;0.2
+188;011470 Eieren;Ondergrens 95%-interval;2015;36.0;
+189;011470 Eieren;Ondergrens 95%-interval;2020;58.0;
+190;011470 Eieren;Bovengrens 95%-interval;2015;39.0;
+191;011470 Eieren;Bovengrens 95%-interval;2020;62.0;
+192;011500 Oliën en vetten;Waarde;2015;72.0;0.2
+193;011500 Oliën en vetten;Waarde;2020;93.0;0.3
+194;011500 Oliën en vetten;Ondergrens 95%-interval;2015;70.0;
+195;011500 Oliën en vetten;Ondergrens 95%-interval;2020;89.0;
+196;011500 Oliën en vetten;Bovengrens 95%-interval;2015;74.0;
+197;011500 Oliën en vetten;Bovengrens 95%-interval;2020;97.0;
+198;011510 Boter;Waarde;2015;19.0;0.1
+199;011510 Boter;Waarde;2020;31.0;0.1
+200;011510 Boter;Ondergrens 95%-interval;2015;18.0;
+201;011510 Boter;Ondergrens 95%-interval;2020;29.0;
+202;011510 Boter;Bovengrens 95%-interval;2015;20.0;
+203;011510 Boter;Bovengrens 95%-interval;2020;33.0;
+204;011520 Margarine en plantaardige vetten;Waarde;2015;29.0;0.1
+205;011520 Margarine en plantaardige vetten;Waarde;2020;33.0;0.1
+206;011520 Margarine en plantaardige vetten;Ondergrens 95%-interval;2015;28.0;
+207;011520 Margarine en plantaardige vetten;Ondergrens 95%-interval;2020;31.0;
+208;011520 Margarine en plantaardige vetten;Bovengrens 95%-interval;2015;30.0;
+209;011520 Margarine en plantaardige vetten;Bovengrens 95%-interval;2020;35.0;
+210;011530 Olijfolie;Waarde;2015;;
+211;011530 Olijfolie;Waarde;2020;5.0;0.0
+212;011530 Olijfolie;Ondergrens 95%-interval;2015;;
+213;011530 Olijfolie;Ondergrens 95%-interval;2020;4.0;
+214;011530 Olijfolie;Bovengrens 95%-interval;2015;;
+215;011530 Olijfolie;Bovengrens 95%-interval;2020;6.0;
+216;011540 Overige eetbare olie;Waarde;2015;24.0;0.1
+217;011540 Overige eetbare olie;Waarde;2020;26.0;0.1
+218;011540 Overige eetbare olie;Ondergrens 95%-interval;2015;23.0;
+219;011540 Overige eetbare olie;Ondergrens 95%-interval;2020;23.0;
+220;011540 Overige eetbare olie;Bovengrens 95%-interval;2015;26.0;
+221;011540 Overige eetbare olie;Bovengrens 95%-interval;2020;29.0;
+222;011600 Fruit;Waarde;2015;350.0;1.0
+223;011600 Fruit;Waarde;2020;445.0;1.3
+224;011600 Fruit;Ondergrens 95%-interval;2015;343.0;
+225;011600 Fruit;Ondergrens 95%-interval;2020;435.0;
+226;011600 Fruit;Bovengrens 95%-interval;2015;357.0;
+227;011600 Fruit;Bovengrens 95%-interval;2020;455.0;
+228;011610 Vers of gekoeld fruit;Waarde;2015;261.0;0.8
+229;011610 Vers of gekoeld fruit;Waarde;2020;343.0;1.0
+230;011610 Vers of gekoeld fruit;Ondergrens 95%-interval;2015;255.0;
+231;011610 Vers of gekoeld fruit;Ondergrens 95%-interval;2020;335.0;
+232;011610 Vers of gekoeld fruit;Bovengrens 95%-interval;2015;266.0;
+233;011610 Vers of gekoeld fruit;Bovengrens 95%-interval;2020;351.0;
+234;011620 Diepvries fruit;Waarde;2015;;
+235;011620 Diepvries fruit;Waarde;2020;3.0;0.0
+236;011620 Diepvries fruit;Ondergrens 95%-interval;2015;;
+237;011620 Diepvries fruit;Ondergrens 95%-interval;2020;2.0;
+238;011620 Diepvries fruit;Bovengrens 95%-interval;2015;;
+239;011620 Diepvries fruit;Bovengrens 95%-interval;2020;4.0;
+240;011630 Gedroogd fruit en noten;Waarde;2015;76.0;0.2
+241;011630 Gedroogd fruit en noten;Waarde;2020;95.0;0.3
+242;011630 Gedroogd fruit en noten;Ondergrens 95%-interval;2015;73.0;
+243;011630 Gedroogd fruit en noten;Ondergrens 95%-interval;2020;91.0;
+244;011630 Gedroogd fruit en noten;Bovengrens 95%-interval;2015;80.0;
+245;011630 Gedroogd fruit en noten;Bovengrens 95%-interval;2020;99.0;
+246;011640 Conserven van fruit.;Waarde;2015;12.0;0.0
+247;011640 Conserven van fruit.;Waarde;2020;5.0;0.0
+248;011640 Conserven van fruit.;Ondergrens 95%-interval;2015;12.0;
+249;011640 Conserven van fruit.;Ondergrens 95%-interval;2020;4.0;
+250;011640 Conserven van fruit.;Bovengrens 95%-interval;2015;13.0;
+251;011640 Conserven van fruit.;Bovengrens 95%-interval;2020;6.0;
+252;011700 Groenten;Waarde;2015;472.0;1.4
+253;011700 Groenten;Waarde;2020;643.0;1.8
+254;011700 Groenten;Ondergrens 95%-interval;2015;465.0;
+255;011700 Groenten;Ondergrens 95%-interval;2020;632.0;
+256;011700 Groenten;Bovengrens 95%-interval;2015;480.0;
+257;011700 Groenten;Bovengrens 95%-interval;2020;654.0;
+258;011710 Verse of gekoelde groenten.;Waarde;2015;277.0;0.8
+259;011710 Verse of gekoelde groenten.;Waarde;2020;355.0;1.0
+260;011710 Verse of gekoelde groenten.;Ondergrens 95%-interval;2015;272.0;
+261;011710 Verse of gekoelde groenten.;Ondergrens 95%-interval;2020;348.0;
+262;011710 Verse of gekoelde groenten.;Bovengrens 95%-interval;2015;282.0;
+263;011710 Verse of gekoelde groenten.;Bovengrens 95%-interval;2020;362.0;
+264;011720 Diepvries groenten.;Waarde;2015;10.0;0.0
+265;011720 Diepvries groenten.;Waarde;2020;12.0;0.0
+266;011720 Diepvries groenten.;Ondergrens 95%-interval;2015;9.0;
+267;011720 Diepvries groenten.;Ondergrens 95%-interval;2020;11.0;
+268;011720 Diepvries groenten.;Bovengrens 95%-interval;2015;10.0;
+269;011720 Diepvries groenten.;Bovengrens 95%-interval;2020;13.0;
+270;011730 Gedroogde groenten.;Waarde;2015;45.0;0.1
+271;011730 Gedroogde groenten.;Waarde;2020;98.0;0.3
+272;011730 Gedroogde groenten.;Ondergrens 95%-interval;2015;43.0;
+273;011730 Gedroogde groenten.;Ondergrens 95%-interval;2020;94.0;
+274;011730 Gedroogde groenten.;Bovengrens 95%-interval;2015;47.0;
+275;011730 Gedroogde groenten.;Bovengrens 95%-interval;2020;102.0;
+276;011740 Aardappelen;Waarde;2015;74.0;0.2
+277;011740 Aardappelen;Waarde;2020;83.0;0.2
+278;011740 Aardappelen;Ondergrens 95%-interval;2015;72.0;
+279;011740 Aardappelen;Ondergrens 95%-interval;2020;80.0;
+280;011740 Aardappelen;Bovengrens 95%-interval;2015;76.0;
+281;011740 Aardappelen;Bovengrens 95%-interval;2020;86.0;
+282;011750 Chips;Waarde;2015;67.0;0.2
+283;011750 Chips;Waarde;2020;88.0;0.3
+284;011750 Chips;Ondergrens 95%-interval;2015;65.0;
+285;011750 Chips;Ondergrens 95%-interval;2020;85.0;
+286;011750 Chips;Bovengrens 95%-interval;2015;69.0;
+287;011750 Chips;Bovengrens 95%-interval;2020;91.0;
+288;011760 Overige knolgewassen.;Waarde;2015;;
+289;011760 Overige knolgewassen.;Waarde;2020;7.0;0.0
+290;011760 Overige knolgewassen.;Ondergrens 95%-interval;2015;;
+291;011760 Overige knolgewassen.;Ondergrens 95%-interval;2020;6.0;
+292;011760 Overige knolgewassen.;Bovengrens 95%-interval;2015;;
+293;011760 Overige knolgewassen.;Bovengrens 95%-interval;2020;8.0;
+294;011800 Suiker, zoetwaren en ijs;Waarde;2015;200.0;0.6
+295;011800 Suiker, zoetwaren en ijs;Waarde;2020;272.0;0.8
+296;011800 Suiker, zoetwaren en ijs;Ondergrens 95%-interval;2015;195.0;
+297;011800 Suiker, zoetwaren en ijs;Ondergrens 95%-interval;2020;265.0;
+298;011800 Suiker, zoetwaren en ijs;Bovengrens 95%-interval;2015;205.0;
+299;011800 Suiker, zoetwaren en ijs;Bovengrens 95%-interval;2020;279.0;
+300;011810 Suiker;Waarde;2015;6.0;0.0
+301;011810 Suiker;Waarde;2020;6.0;0.0
+302;011810 Suiker;Ondergrens 95%-interval;2015;6.0;
+303;011810 Suiker;Ondergrens 95%-interval;2020;5.0;
+304;011810 Suiker;Bovengrens 95%-interval;2015;6.0;
+305;011810 Suiker;Bovengrens 95%-interval;2020;7.0;
+306;011820 Jam, marmelade en honing;Waarde;2015;20.0;0.1
+307;011820 Jam, marmelade en honing;Waarde;2020;22.0;0.1
+308;011820 Jam, marmelade en honing;Ondergrens 95%-interval;2015;19.0;
+309;011820 Jam, marmelade en honing;Ondergrens 95%-interval;2020;20.0;
+310;011820 Jam, marmelade en honing;Bovengrens 95%-interval;2015;21.0;
+311;011820 Jam, marmelade en honing;Bovengrens 95%-interval;2020;24.0;
+312;011830 Chocolade;Waarde;2015;82.0;0.2
+313;011830 Chocolade;Waarde;2020;106.0;0.3
+314;011830 Chocolade;Ondergrens 95%-interval;2015;79.0;
+315;011830 Chocolade;Ondergrens 95%-interval;2020;102.0;
+316;011830 Chocolade;Bovengrens 95%-interval;2015;85.0;
+317;011830 Chocolade;Bovengrens 95%-interval;2020;110.0;
+318;011840 Snoepgoed;Waarde;2015;59.0;0.2
+319;011840 Snoepgoed;Waarde;2020;89.0;0.3
+320;011840 Snoepgoed;Ondergrens 95%-interval;2015;56.0;
+321;011840 Snoepgoed;Ondergrens 95%-interval;2020;86.0;
+322;011840 Snoepgoed;Bovengrens 95%-interval;2015;61.0;
+323;011840 Snoepgoed;Bovengrens 95%-interval;2020;92.0;
+324;011850 Consumptie-ijs en roomijs;Waarde;2015;30.0;0.1
+325;011850 Consumptie-ijs en roomijs;Waarde;2020;44.0;0.1
+326;011850 Consumptie-ijs en roomijs;Ondergrens 95%-interval;2015;29.0;
+327;011850 Consumptie-ijs en roomijs;Ondergrens 95%-interval;2020;41.0;
+328;011850 Consumptie-ijs en roomijs;Bovengrens 95%-interval;2015;32.0;
+329;011850 Consumptie-ijs en roomijs;Bovengrens 95%-interval;2020;47.0;
+330;011860 Kunstmatige zoetstoffen;Waarde;2015;4.0;0.0
+331;011860 Kunstmatige zoetstoffen;Waarde;2020;6.0;0.0
+332;011860 Kunstmatige zoetstoffen;Ondergrens 95%-interval;2015;3.0;
+333;011860 Kunstmatige zoetstoffen;Ondergrens 95%-interval;2020;5.0;
+334;011860 Kunstmatige zoetstoffen;Bovengrens 95%-interval;2015;5.0;
+335;011860 Kunstmatige zoetstoffen;Bovengrens 95%-interval;2020;7.0;
+336;011900 Voedingsmiddelen n.e.g.;Waarde;2015;339.0;1.0
+337;011900 Voedingsmiddelen n.e.g.;Waarde;2020;340.0;1.0
+338;011900 Voedingsmiddelen n.e.g.;Ondergrens 95%-interval;2015;331.0;
+339;011900 Voedingsmiddelen n.e.g.;Ondergrens 95%-interval;2020;331.0;
+340;011900 Voedingsmiddelen n.e.g.;Bovengrens 95%-interval;2015;346.0;
+341;011900 Voedingsmiddelen n.e.g.;Bovengrens 95%-interval;2020;349.0;
+342;011910 Sauzen en dressings;Waarde;2015;29.0;0.1
+343;011910 Sauzen en dressings;Waarde;2020;46.0;0.1
+344;011910 Sauzen en dressings;Ondergrens 95%-interval;2015;28.0;
+345;011910 Sauzen en dressings;Ondergrens 95%-interval;2020;44.0;
+346;011910 Sauzen en dressings;Bovengrens 95%-interval;2015;30.0;
+347;011910 Sauzen en dressings;Bovengrens 95%-interval;2020;48.0;
+348;011920 Zout, specerijen en keukenkruiden;Waarde;2015;39.0;0.1
+349;011920 Zout, specerijen en keukenkruiden;Waarde;2020;55.0;0.2
+350;011920 Zout, specerijen en keukenkruiden;Ondergrens 95%-interval;2015;37.0;
+351;011920 Zout, specerijen en keukenkruiden;Ondergrens 95%-interval;2020;52.0;
+352;011920 Zout, specerijen en keukenkruiden;Bovengrens 95%-interval;2015;41.0;
+353;011920 Zout, specerijen en keukenkruiden;Bovengrens 95%-interval;2020;58.0;
+354;011930 Babyvoeding;Waarde;2015;14.0;0.0
+355;011930 Babyvoeding;Waarde;2020;12.0;0.0
+356;011930 Babyvoeding;Ondergrens 95%-interval;2015;12.0;
+357;011930 Babyvoeding;Ondergrens 95%-interval;2020;10.0;
+358;011930 Babyvoeding;Bovengrens 95%-interval;2015;16.0;
+359;011930 Babyvoeding;Bovengrens 95%-interval;2020;14.0;
+360;011940 Kant-en klaarmaaltijden;Waarde;2015;151.0;0.4
+361;011940 Kant-en klaarmaaltijden;Waarde;2020;150.0;0.4
+362;011940 Kant-en klaarmaaltijden;Ondergrens 95%-interval;2015;146.0;
+363;011940 Kant-en klaarmaaltijden;Ondergrens 95%-interval;2020;144.0;
+364;011940 Kant-en klaarmaaltijden;Bovengrens 95%-interval;2015;156.0;
+365;011940 Kant-en klaarmaaltijden;Bovengrens 95%-interval;2020;156.0;
+366;011990 Overige voedingsmiddelen n.e.g.;Waarde;2015;105.0;0.3
+367;011990 Overige voedingsmiddelen n.e.g.;Waarde;2020;77.0;0.2
+368;011990 Overige voedingsmiddelen n.e.g.;Ondergrens 95%-interval;2015;102.0;
+369;011990 Overige voedingsmiddelen n.e.g.;Ondergrens 95%-interval;2020;73.0;
+370;011990 Overige voedingsmiddelen n.e.g.;Bovengrens 95%-interval;2015;109.0;
+371;011990 Overige voedingsmiddelen n.e.g.;Bovengrens 95%-interval;2020;81.0;
+372;012000 Alcoholvrije dranken;Waarde;2015;393.0;1.2
+373;012000 Alcoholvrije dranken;Waarde;2020;420.0;1.2
+374;012000 Alcoholvrije dranken;Ondergrens 95%-interval;2015;384.0;
+375;012000 Alcoholvrije dranken;Ondergrens 95%-interval;2020;410.0;
+376;012000 Alcoholvrije dranken;Bovengrens 95%-interval;2015;402.0;
+377;012000 Alcoholvrije dranken;Bovengrens 95%-interval;2020;430.0;
+378;012100 Koffie, thee en cacao;Waarde;2015;138.0;0.4
+379;012100 Koffie, thee en cacao;Waarde;2020;164.0;0.5
+380;012100 Koffie, thee en cacao;Ondergrens 95%-interval;2015;133.0;
+381;012100 Koffie, thee en cacao;Ondergrens 95%-interval;2020;157.0;
+382;012100 Koffie, thee en cacao;Bovengrens 95%-interval;2015;144.0;
+383;012100 Koffie, thee en cacao;Bovengrens 95%-interval;2020;171.0;
+384;012110 Koffie;Waarde;2015;113.0;0.3
+385;012110 Koffie;Waarde;2020;134.0;0.4
+386;012110 Koffie;Ondergrens 95%-interval;2015;109.0;
+387;012110 Koffie;Ondergrens 95%-interval;2020;128.0;
+388;012110 Koffie;Bovengrens 95%-interval;2015;117.0;
+389;012110 Koffie;Bovengrens 95%-interval;2020;140.0;
+390;012120 Thee;Waarde;2015;25.0;0.1
+391;012120 Thee;Waarde;2020;29.0;0.1
+392;012120 Thee;Ondergrens 95%-interval;2015;23.0;
+393;012120 Thee;Ondergrens 95%-interval;2020;27.0;
+394;012120 Thee;Bovengrens 95%-interval;2015;26.0;
+395;012120 Thee;Bovengrens 95%-interval;2020;31.0;
+396;012130 Cacao en chocolade in poedervorm;Waarde;2015;1.0;0.0
+397;012130 Cacao en chocolade in poedervorm;Waarde;2020;1.0;0.0
+398;012130 Cacao en chocolade in poedervorm;Ondergrens 95%-interval;2015;1.0;
+399;012130 Cacao en chocolade in poedervorm;Ondergrens 95%-interval;2020;1.0;
+400;012130 Cacao en chocolade in poedervorm;Bovengrens 95%-interval;2015;1.0;
+401;012130 Cacao en chocolade in poedervorm;Bovengrens 95%-interval;2020;1.0;
+402;012200 Mineraalwater, frisdr. en sappen;Waarde;2015;254.0;0.8
+403;012200 Mineraalwater, frisdr. en sappen;Waarde;2020;256.0;0.7
+404;012200 Mineraalwater, frisdr. en sappen;Ondergrens 95%-interval;2015;248.0;
+405;012200 Mineraalwater, frisdr. en sappen;Ondergrens 95%-interval;2020;249.0;
+406;012200 Mineraalwater, frisdr. en sappen;Bovengrens 95%-interval;2015;261.0;
+407;012200 Mineraalwater, frisdr. en sappen;Bovengrens 95%-interval;2020;263.0;
+408;012210 Mineraalwater of bronwater;Waarde;2015;16.0;0.0
+409;012210 Mineraalwater of bronwater;Waarde;2020;26.0;0.1
+410;012210 Mineraalwater of bronwater;Ondergrens 95%-interval;2015;15.0;
+411;012210 Mineraalwater of bronwater;Ondergrens 95%-interval;2020;24.0;
+412;012210 Mineraalwater of bronwater;Bovengrens 95%-interval;2015;18.0;
+413;012210 Mineraalwater of bronwater;Bovengrens 95%-interval;2020;28.0;
+414;012220 Frisdranken;Waarde;2015;125.0;0.4
+415;012220 Frisdranken;Waarde;2020;129.0;0.4
+416;012220 Frisdranken;Ondergrens 95%-interval;2015;120.0;
+417;012220 Frisdranken;Ondergrens 95%-interval;2020;124.0;
+418;012220 Frisdranken;Bovengrens 95%-interval;2015;129.0;
+419;012220 Frisdranken;Bovengrens 95%-interval;2020;134.0;
+420;012230 Vruchten- en groentesappen;Waarde;2015;114.0;0.3
+421;012230 Vruchten- en groentesappen;Waarde;2020;100.0;0.3
+422;012230 Vruchten- en groentesappen;Ondergrens 95%-interval;2015;110.0;
+423;012230 Vruchten- en groentesappen;Ondergrens 95%-interval;2020;96.0;
+424;012230 Vruchten- en groentesappen;Bovengrens 95%-interval;2015;118.0;
+425;012230 Vruchten- en groentesappen;Bovengrens 95%-interval;2020;104.0;
+426;020000 Alcoholhoudende dranken en tabak;Waarde;2015;1014.0;3.0
+427;020000 Alcoholhoudende dranken en tabak;Waarde;2020;1222.0;3.5
+428;020000 Alcoholhoudende dranken en tabak;Ondergrens 95%-interval;2015;985.0;
+429;020000 Alcoholhoudende dranken en tabak;Ondergrens 95%-interval;2020;1200.0;
+430;020000 Alcoholhoudende dranken en tabak;Bovengrens 95%-interval;2015;1044.0;
+431;020000 Alcoholhoudende dranken en tabak;Bovengrens 95%-interval;2020;1244.0;
+432;021000 Alcoholhoudende dranken;Waarde;2015;463.0;1.4
+433;021000 Alcoholhoudende dranken;Waarde;2020;525.0;1.5
+434;021000 Alcoholhoudende dranken;Ondergrens 95%-interval;2015;448.0;
+435;021000 Alcoholhoudende dranken;Ondergrens 95%-interval;2020;507.0;
+436;021000 Alcoholhoudende dranken;Bovengrens 95%-interval;2015;479.0;
+437;021000 Alcoholhoudende dranken;Bovengrens 95%-interval;2020;543.0;
+438;021100 Gedistilleerde dranken;Waarde;2015;73.0;0.2
+439;021100 Gedistilleerde dranken;Waarde;2020;78.0;0.2
+440;021100 Gedistilleerde dranken;Ondergrens 95%-interval;2015;67.0;
+441;021100 Gedistilleerde dranken;Ondergrens 95%-interval;2020;72.0;
+442;021100 Gedistilleerde dranken;Bovengrens 95%-interval;2015;79.0;
+443;021100 Gedistilleerde dranken;Bovengrens 95%-interval;2020;84.0;
+444;021110 Gedistill. dranken en likeuren;Waarde;2015;73.0;0.2
+445;021110 Gedistill. dranken en likeuren;Waarde;2020;78.0;0.2
+446;021110 Gedistill. dranken en likeuren;Ondergrens 95%-interval;2015;68.0;
+447;021110 Gedistill. dranken en likeuren;Ondergrens 95%-interval;2020;72.0;
+448;021110 Gedistill. dranken en likeuren;Bovengrens 95%-interval;2015;78.0;
+449;021110 Gedistill. dranken en likeuren;Bovengrens 95%-interval;2020;84.0;
+450;021200 Wijn;Waarde;2015;243.0;0.7
+451;021200 Wijn;Waarde;2020;263.0;0.7
+452;021200 Wijn;Ondergrens 95%-interval;2015;232.0;
+453;021200 Wijn;Ondergrens 95%-interval;2020;249.0;
+454;021200 Wijn;Bovengrens 95%-interval;2015;255.0;
+455;021200 Wijn;Bovengrens 95%-interval;2020;277.0;
+456;021210 Wijn van druiven;Waarde;2015;229.0;0.7
+457;021210 Wijn van druiven;Waarde;2020;247.0;0.7
+458;021210 Wijn van druiven;Ondergrens 95%-interval;2015;219.0;
+459;021210 Wijn van druiven;Ondergrens 95%-interval;2020;233.0;
+460;021210 Wijn van druiven;Bovengrens 95%-interval;2015;238.0;
+461;021210 Wijn van druiven;Bovengrens 95%-interval;2020;261.0;
+462;021220 Wijn van andere vruchten;Waarde;2015;;
+463;021220 Wijn van andere vruchten;Waarde;2020;1.0;0.0
+464;021220 Wijn van andere vruchten;Ondergrens 95%-interval;2015;;
+465;021220 Wijn van andere vruchten;Ondergrens 95%-interval;2020;1.0;
+466;021220 Wijn van andere vruchten;Bovengrens 95%-interval;2015;;
+467;021220 Wijn van andere vruchten;Bovengrens 95%-interval;2020;1.0;
+468;021230 Distillatiewijn;Waarde;2015;14.0;0.0
+469;021230 Distillatiewijn;Waarde;2020;12.0;0.0
+470;021230 Distillatiewijn;Ondergrens 95%-interval;2015;12.0;
+471;021230 Distillatiewijn;Ondergrens 95%-interval;2020;10.0;
+472;021230 Distillatiewijn;Bovengrens 95%-interval;2015;15.0;
+473;021230 Distillatiewijn;Bovengrens 95%-interval;2020;14.0;
+474;021240 Overige dranken op basis van wijn;Waarde;2015;1.0;0.0
+475;021240 Overige dranken op basis van wijn;Waarde;2020;4.0;0.0
+476;021240 Overige dranken op basis van wijn;Ondergrens 95%-interval;2015;1.0;
+477;021240 Overige dranken op basis van wijn;Ondergrens 95%-interval;2020;3.0;
+478;021240 Overige dranken op basis van wijn;Bovengrens 95%-interval;2015;2.0;
+479;021240 Overige dranken op basis van wijn;Bovengrens 95%-interval;2020;5.0;
+480;021300 Bier;Waarde;2015;147.0;0.4
+481;021300 Bier;Waarde;2020;184.0;0.5
+482;021300 Bier;Ondergrens 95%-interval;2015;140.0;
+483;021300 Bier;Ondergrens 95%-interval;2020;176.0;
+484;021300 Bier;Bovengrens 95%-interval;2015;154.0;
+485;021300 Bier;Bovengrens 95%-interval;2020;192.0;
+486;021310 Pils;Waarde;2015;118.0;0.3
+487;021310 Pils;Waarde;2020;130.0;0.4
+488;021310 Pils;Ondergrens 95%-interval;2015;112.0;
+489;021310 Pils;Ondergrens 95%-interval;2020;124.0;
+490;021310 Pils;Bovengrens 95%-interval;2015;123.0;
+491;021310 Pils;Bovengrens 95%-interval;2020;136.0;
+492;021320 Overig alcoholhoudend bier;Waarde;2015;23.0;0.1
+493;021320 Overig alcoholhoudend bier;Waarde;2020;40.0;0.1
+494;021320 Overig alcoholhoudend bier;Ondergrens 95%-interval;2015;21.0;
+495;021320 Overig alcoholhoudend bier;Ondergrens 95%-interval;2020;36.0;
+496;021320 Overig alcoholhoudend bier;Bovengrens 95%-interval;2015;26.0;
+497;021320 Overig alcoholhoudend bier;Bovengrens 95%-interval;2020;44.0;
+498;021330 Licht alcoholisch en malt bier;Waarde;2015;5.0;0.0
+499;021330 Licht alcoholisch en malt bier;Waarde;2020;14.0;0.0
+500;021330 Licht alcoholisch en malt bier;Ondergrens 95%-interval;2015;5.0;
+501;021330 Licht alcoholisch en malt bier;Ondergrens 95%-interval;2020;11.0;
+502;021330 Licht alcoholisch en malt bier;Bovengrens 95%-interval;2015;6.0;
+503;021330 Licht alcoholisch en malt bier;Bovengrens 95%-interval;2020;17.0;
+504;022000 Tabak;Waarde;2015;548.0;1.6
+505;022000 Tabak;Waarde;2020;691.0;2.0
+506;022000 Tabak;Ondergrens 95%-interval;2015;523.0;
+507;022000 Tabak;Ondergrens 95%-interval;2020;679.0;
+508;022000 Tabak;Bovengrens 95%-interval;2015;573.0;
+509;022000 Tabak;Bovengrens 95%-interval;2020;703.0;
+510;022010 Sigaretten;Waarde;2015;351.0;1.0
+511;022010 Sigaretten;Waarde;2020;457.0;1.3
+512;022010 Sigaretten;Ondergrens 95%-interval;2015;345.0;
+513;022010 Sigaretten;Ondergrens 95%-interval;2020;447.0;
+514;022010 Sigaretten;Bovengrens 95%-interval;2015;358.0;
+515;022010 Sigaretten;Bovengrens 95%-interval;2020;467.0;
+516;022020 Sigaren;Waarde;2015;28.0;0.1
+517;022020 Sigaren;Waarde;2020;35.0;0.1
+518;022020 Sigaren;Ondergrens 95%-interval;2015;26.0;
+519;022020 Sigaren;Ondergrens 95%-interval;2020;32.0;
+520;022020 Sigaren;Bovengrens 95%-interval;2015;30.0;
+521;022020 Sigaren;Bovengrens 95%-interval;2020;38.0;
+522;022030 Shag en andere tabaksproducten;Waarde;2015;168.0;0.5
+523;022030 Shag en andere tabaksproducten;Waarde;2020;198.0;0.6
+524;022030 Shag en andere tabaksproducten;Ondergrens 95%-interval;2015;164.0;
+525;022030 Shag en andere tabaksproducten;Ondergrens 95%-interval;2020;192.0;
+526;022030 Shag en andere tabaksproducten;Bovengrens 95%-interval;2015;173.0;
+527;022030 Shag en andere tabaksproducten;Bovengrens 95%-interval;2020;204.0;
+528;023000 Verdovende middelen;Waarde;2015;4.0;0.0
+529;023000 Verdovende middelen;Waarde;2020;6.0;0.0
+530;023000 Verdovende middelen;Ondergrens 95%-interval;2015;2.0;
+531;023000 Verdovende middelen;Ondergrens 95%-interval;2020;4.0;
+532;023000 Verdovende middelen;Bovengrens 95%-interval;2015;5.0;
+533;023000 Verdovende middelen;Bovengrens 95%-interval;2020;8.0;
+534;030000 Kleding en schoenen;Waarde;2015;1591.0;4.7
+535;030000 Kleding en schoenen;Waarde;2020;1394.0;4.0
+536;030000 Kleding en schoenen;Ondergrens 95%-interval;2015;1550.0;
+537;030000 Kleding en schoenen;Ondergrens 95%-interval;2020;1354.0;
+538;030000 Kleding en schoenen;Bovengrens 95%-interval;2015;1632.0;
+539;030000 Kleding en schoenen;Bovengrens 95%-interval;2020;1434.0;
+540;031000 Kleding en kledingstoffen;Waarde;2015;1258.0;3.7
+541;031000 Kleding en kledingstoffen;Waarde;2020;1106.0;3.1
+542;031000 Kleding en kledingstoffen;Ondergrens 95%-interval;2015;1222.0;
+543;031000 Kleding en kledingstoffen;Ondergrens 95%-interval;2020;1071.0;
+544;031000 Kleding en kledingstoffen;Bovengrens 95%-interval;2015;1295.0;
+545;031000 Kleding en kledingstoffen;Bovengrens 95%-interval;2020;1141.0;
+546;031100 Kledingstoffen;Waarde;2015;7.0;0.0
+547;031100 Kledingstoffen;Waarde;2020;10.0;0.0
+548;031100 Kledingstoffen;Ondergrens 95%-interval;2015;6.0;
+549;031100 Kledingstoffen;Ondergrens 95%-interval;2020;6.0;
+550;031100 Kledingstoffen;Bovengrens 95%-interval;2015;9.0;
+551;031100 Kledingstoffen;Bovengrens 95%-interval;2020;14.0;
+552;031200 Kleding;Waarde;2015;1178.0;3.5
+553;031200 Kleding;Waarde;2020;1037.0;2.9
+554;031200 Kleding;Ondergrens 95%-interval;2015;1143.0;
+555;031200 Kleding;Ondergrens 95%-interval;2020;1004.0;
+556;031200 Kleding;Bovengrens 95%-interval;2015;1213.0;
+557;031200 Kleding;Bovengrens 95%-interval;2020;1070.0;
+558;031210 Herenkleding;Waarde;2015;368.0;1.1
+559;031210 Herenkleding;Waarde;2020;305.0;0.9
+560;031210 Herenkleding;Ondergrens 95%-interval;2015;363.0;
+561;031210 Herenkleding;Ondergrens 95%-interval;2020;288.0;
+562;031210 Herenkleding;Bovengrens 95%-interval;2015;374.0;
+563;031210 Herenkleding;Bovengrens 95%-interval;2020;322.0;
+564;031220 Dameskleding;Waarde;2015;631.0;1.9
+565;031220 Dameskleding;Waarde;2020;586.0;1.7
+566;031220 Dameskleding;Ondergrens 95%-interval;2015;621.0;
+567;031220 Dameskleding;Ondergrens 95%-interval;2020;562.0;
+568;031220 Dameskleding;Bovengrens 95%-interval;2015;641.0;
+569;031220 Dameskleding;Bovengrens 95%-interval;2020;610.0;
+570;031230 Baby en kinderkleding;Waarde;2015;179.0;0.5
+571;031230 Baby en kinderkleding;Waarde;2020;147.0;0.4
+572;031230 Baby en kinderkleding;Ondergrens 95%-interval;2015;171.0;
+573;031230 Baby en kinderkleding;Ondergrens 95%-interval;2020;136.0;
+574;031230 Baby en kinderkleding;Bovengrens 95%-interval;2015;187.0;
+575;031230 Baby en kinderkleding;Bovengrens 95%-interval;2020;158.0;
+576;031300 Ov. kledingartikelen en.;Waarde;2015;65.0;0.2
+577;031300 Ov. kledingartikelen en.;Waarde;2020;53.0;0.1
+578;031300 Ov. kledingartikelen en.;Ondergrens 95%-interval;2015;59.0;
+579;031300 Ov. kledingartikelen en.;Ondergrens 95%-interval;2020;47.0;
+580;031300 Ov. kledingartikelen en.;Bovengrens 95%-interval;2015;70.0;
+581;031300 Ov. kledingartikelen en.;Bovengrens 95%-interval;2020;59.0;
+582;031310 Overige kledingartikelen;Waarde;2015;43.0;0.1
+583;031310 Overige kledingartikelen;Waarde;2020;18.0;0.1
+584;031310 Overige kledingartikelen;Ondergrens 95%-interval;2015;41.0;
+585;031310 Overige kledingartikelen;Ondergrens 95%-interval;2020;13.0;
+586;031310 Overige kledingartikelen;Bovengrens 95%-interval;2015;45.0;
+587;031310 Overige kledingartikelen;Bovengrens 95%-interval;2020;23.0;
+588;031320 Garnituren;Waarde;2015;22.0;0.1
+589;031320 Garnituren;Waarde;2020;35.0;0.1
+590;031320 Garnituren;Ondergrens 95%-interval;2015;20.0;
+591;031320 Garnituren;Ondergrens 95%-interval;2020;31.0;
+592;031320 Garnituren;Bovengrens 95%-interval;2015;24.0;
+593;031320 Garnituren;Bovengrens 95%-interval;2020;39.0;
+594;031400 Stomen en reparatie van kleding;Waarde;2015;8.0;0.0
+595;031400 Stomen en reparatie van kleding;Waarde;2020;6.0;0.0
+596;031400 Stomen en reparatie van kleding;Ondergrens 95%-interval;2015;7.0;
+597;031400 Stomen en reparatie van kleding;Ondergrens 95%-interval;2020;5.0;
+598;031400 Stomen en reparatie van kleding;Bovengrens 95%-interval;2015;10.0;
+599;031400 Stomen en reparatie van kleding;Bovengrens 95%-interval;2020;7.0;
+600;031410 Wasserijen en stomerijen;Waarde;2015;5.0;0.0
+601;031410 Wasserijen en stomerijen;Waarde;2020;4.0;0.0
+602;031410 Wasserijen en stomerijen;Ondergrens 95%-interval;2015;4.0;
+603;031410 Wasserijen en stomerijen;Ondergrens 95%-interval;2020;3.0;
+604;031410 Wasserijen en stomerijen;Bovengrens 95%-interval;2015;6.0;
+605;031410 Wasserijen en stomerijen;Bovengrens 95%-interval;2020;5.0;
+606;031420 Reparatie en verhuur van kleding;Waarde;2015;3.0;0.0
+607;031420 Reparatie en verhuur van kleding;Waarde;2020;2.0;0.0
+608;031420 Reparatie en verhuur van kleding;Ondergrens 95%-interval;2015;3.0;
+609;031420 Reparatie en verhuur van kleding;Ondergrens 95%-interval;2020;1.0;
+610;031420 Reparatie en verhuur van kleding;Bovengrens 95%-interval;2015;4.0;
+611;031420 Reparatie en verhuur van kleding;Bovengrens 95%-interval;2020;3.0;
+612;032000 Schoenen;Waarde;2015;332.0;1.0
+613;032000 Schoenen;Waarde;2020;288.0;0.8
+614;032000 Schoenen;Ondergrens 95%-interval;2015;319.0;
+615;032000 Schoenen;Ondergrens 95%-interval;2020;272.0;
+616;032000 Schoenen;Bovengrens 95%-interval;2015;346.0;
+617;032000 Schoenen;Bovengrens 95%-interval;2020;304.0;
+618;032100 Schoenen en ander schoeisel;Waarde;2015;323.0;1.0
+619;032100 Schoenen en ander schoeisel;Waarde;2020;280.0;0.8
+620;032100 Schoenen en ander schoeisel;Ondergrens 95%-interval;2015;310.0;
+621;032100 Schoenen en ander schoeisel;Ondergrens 95%-interval;2020;265.0;
+622;032100 Schoenen en ander schoeisel;Bovengrens 95%-interval;2015;337.0;
+623;032100 Schoenen en ander schoeisel;Bovengrens 95%-interval;2020;295.0;
+624;032110 Herenschoenen;Waarde;2015;132.0;0.4
+625;032110 Herenschoenen;Waarde;2020;109.0;0.3
+626;032110 Herenschoenen;Ondergrens 95%-interval;2015;131.0;
+627;032110 Herenschoenen;Ondergrens 95%-interval;2020;99.0;
+628;032110 Herenschoenen;Bovengrens 95%-interval;2015;134.0;
+629;032110 Herenschoenen;Bovengrens 95%-interval;2020;119.0;
+630;032120 Damesschoenen;Waarde;2015;153.0;0.5
+631;032120 Damesschoenen;Waarde;2020;140.0;0.4
+632;032120 Damesschoenen;Ondergrens 95%-interval;2015;151.0;
+633;032120 Damesschoenen;Ondergrens 95%-interval;2020;129.0;
+634;032120 Damesschoenen;Bovengrens 95%-interval;2015;155.0;
+635;032120 Damesschoenen;Bovengrens 95%-interval;2020;151.0;
+636;032130 Kinderschoenen;Waarde;2015;38.0;0.1
+637;032130 Kinderschoenen;Waarde;2020;31.0;0.1
+638;032130 Kinderschoenen;Ondergrens 95%-interval;2015;35.0;
+639;032130 Kinderschoenen;Ondergrens 95%-interval;2020;27.0;
+640;032130 Kinderschoenen;Bovengrens 95%-interval;2015;40.0;
+641;032130 Kinderschoenen;Bovengrens 95%-interval;2020;35.0;
+642;032200 Reparatie en verhuur van schoenen;Waarde;2015;9.0;0.0
+643;032200 Reparatie en verhuur van schoenen;Waarde;2020;8.0;0.0
+644;032200 Reparatie en verhuur van schoenen;Ondergrens 95%-interval;2015;8.0;
+645;032200 Reparatie en verhuur van schoenen;Ondergrens 95%-interval;2020;6.0;
+646;032200 Reparatie en verhuur van schoenen;Bovengrens 95%-interval;2015;11.0;
+647;032200 Reparatie en verhuur van schoenen;Bovengrens 95%-interval;2020;10.0;
+648;040000 Huisvesting, water en energie;Waarde;2015;10646.0;31.5
+649;040000 Huisvesting, water en energie;Waarde;2020;11577.0;32.9
+650;040000 Huisvesting, water en energie;Ondergrens 95%-interval;2015;10596.0;
+651;040000 Huisvesting, water en energie;Ondergrens 95%-interval;2020;11519.0;
+652;040000 Huisvesting, water en energie;Bovengrens 95%-interval;2015;10697.0;
+653;040000 Huisvesting, water en energie;Bovengrens 95%-interval;2020;11635.0;
+654;041000 Werkelijke woninghuur;Waarde;2015;2820.0;8.4
+655;041000 Werkelijke woninghuur;Waarde;2020;3181.0;9.0
+656;041000 Werkelijke woninghuur;Ondergrens 95%-interval;2015;2777.0;
+657;041000 Werkelijke woninghuur;Ondergrens 95%-interval;2020;3127.0;
+658;041000 Werkelijke woninghuur;Bovengrens 95%-interval;2015;2863.0;
+659;041000 Werkelijke woninghuur;Bovengrens 95%-interval;2020;3235.0;
+660;041100 Werkelijke woninghuur.;Waarde;2015;2801.0;8.3
+661;041100 Werkelijke woninghuur.;Waarde;2020;3144.0;8.9
+662;041100 Werkelijke woninghuur.;Ondergrens 95%-interval;2015;2758.0;
+663;041100 Werkelijke woninghuur.;Ondergrens 95%-interval;2020;3091.0;
+664;041100 Werkelijke woninghuur.;Bovengrens 95%-interval;2015;2843.0;
+665;041100 Werkelijke woninghuur.;Bovengrens 95%-interval;2020;3197.0;
+666;041200 Overige werkelijke woninghuur;Waarde;2015;19.0;0.1
+667;041200 Overige werkelijke woninghuur;Waarde;2020;38.0;0.1
+668;041200 Overige werkelijke woninghuur;Ondergrens 95%-interval;2015;16.0;
+669;041200 Overige werkelijke woninghuur;Ondergrens 95%-interval;2020;33.0;
+670;041200 Overige werkelijke woninghuur;Bovengrens 95%-interval;2015;22.0;
+671;041200 Overige werkelijke woninghuur;Bovengrens 95%-interval;2020;43.0;
+672;041210 Werkelijke huur tweede woning.;Waarde;2015;3.0;0.0
+673;041210 Werkelijke huur tweede woning.;Waarde;2020;2.0;0.0
+674;041210 Werkelijke huur tweede woning.;Ondergrens 95%-interval;2015;2.0;
+675;041210 Werkelijke huur tweede woning.;Ondergrens 95%-interval;2020;1.0;
+676;041210 Werkelijke huur tweede woning.;Bovengrens 95%-interval;2015;5.0;
+677;041210 Werkelijke huur tweede woning.;Bovengrens 95%-interval;2020;3.0;
+678;041220 Garagehuur en overige huur.;Waarde;2015;16.0;0.0
+679;041220 Garagehuur en overige huur.;Waarde;2020;36.0;0.1
+680;041220 Garagehuur en overige huur.;Ondergrens 95%-interval;2015;13.0;
+681;041220 Garagehuur en overige huur.;Ondergrens 95%-interval;2020;31.0;
+682;041220 Garagehuur en overige huur.;Bovengrens 95%-interval;2015;18.0;
+683;041220 Garagehuur en overige huur.;Bovengrens 95%-interval;2020;41.0;
+684;042000 Toegerekende huur eigen woning;Waarde;2015;5067.0;15.0
+685;042000 Toegerekende huur eigen woning;Waarde;2020;5597.0;15.9
+686;042000 Toegerekende huur eigen woning;Ondergrens 95%-interval;2015;5034.0;
+687;042000 Toegerekende huur eigen woning;Ondergrens 95%-interval;2020;5562.0;
+688;042000 Toegerekende huur eigen woning;Bovengrens 95%-interval;2015;5099.0;
+689;042000 Toegerekende huur eigen woning;Bovengrens 95%-interval;2020;5632.0;
+690;042100 Toegerekende huur eigen woning;Waarde;2015;5066.0;15.0
+691;042100 Toegerekende huur eigen woning;Waarde;2020;5597.0;15.9
+692;042100 Toegerekende huur eigen woning;Ondergrens 95%-interval;2015;5032.0;
+693;042100 Toegerekende huur eigen woning;Ondergrens 95%-interval;2020;5562.0;
+694;042100 Toegerekende huur eigen woning;Bovengrens 95%-interval;2015;5099.0;
+695;042100 Toegerekende huur eigen woning;Bovengrens 95%-interval;2020;5632.0;
+696;042200 Overige toegerekende huur;Waarde;2015;1.0;0.0
+697;042200 Overige toegerekende huur;Waarde;2020;1.0;0.0
+698;042200 Overige toegerekende huur;Ondergrens 95%-interval;2015;0.0;
+699;042200 Overige toegerekende huur;Ondergrens 95%-interval;2020;1.0;
+700;042200 Overige toegerekende huur;Bovengrens 95%-interval;2015;3.0;
+701;042200 Overige toegerekende huur;Bovengrens 95%-interval;2020;1.0;
+702;043000 Onderhoud en rep. van de woning..;Waarde;2015;179.0;0.5
+703;043000 Onderhoud en rep. van de woning..;Waarde;2020;279.0;0.8
+704;043000 Onderhoud en rep. van de woning..;Ondergrens 95%-interval;2015;162.0;
+705;043000 Onderhoud en rep. van de woning..;Ondergrens 95%-interval;2020;260.0;
+706;043000 Onderhoud en rep. van de woning..;Bovengrens 95%-interval;2015;196.0;
+707;043000 Onderhoud en rep. van de woning..;Bovengrens 95%-interval;2020;298.0;
+708;043100 Onderhoudsmaterialen v.d. woning;Waarde;2015;165.0;0.5
+709;043100 Onderhoudsmaterialen v.d. woning;Waarde;2020;248.0;0.7
+710;043100 Onderhoudsmaterialen v.d. woning;Ondergrens 95%-interval;2015;151.0;
+711;043100 Onderhoudsmaterialen v.d. woning;Ondergrens 95%-interval;2020;230.0;
+712;043100 Onderhoudsmaterialen v.d. woning;Bovengrens 95%-interval;2015;179.0;
+713;043100 Onderhoudsmaterialen v.d. woning;Bovengrens 95%-interval;2020;266.0;
+714;043200 Onderhoudsdiensten v.d. woning;Waarde;2015;14.0;0.0
+715;043200 Onderhoudsdiensten v.d. woning;Waarde;2020;31.0;0.1
+716;043200 Onderhoudsdiensten v.d. woning;Ondergrens 95%-interval;2015;5.0;
+717;043200 Onderhoudsdiensten v.d. woning;Ondergrens 95%-interval;2020;26.0;
+718;043200 Onderhoudsdiensten v.d. woning;Bovengrens 95%-interval;2015;23.0;
+719;043200 Onderhoudsdiensten v.d. woning;Bovengrens 95%-interval;2020;36.0;
+720;043210 Diensten van loodgieters;Waarde;2015;1.0;0.0
+721;043210 Diensten van loodgieters;Waarde;2020;0.0;0.0
+722;043210 Diensten van loodgieters;Ondergrens 95%-interval;2015;1.0;
+723;043210 Diensten van loodgieters;Ondergrens 95%-interval;2020;0.0;
+724;043210 Diensten van loodgieters;Bovengrens 95%-interval;2015;1.0;
+725;043210 Diensten van loodgieters;Bovengrens 95%-interval;2020;0.0;
+726;043220 Diensten van elektriciens;Waarde;2015;;
+727;043220 Diensten van elektriciens;Waarde;2020;8.0;0.0
+728;043220 Diensten van elektriciens;Ondergrens 95%-interval;2015;;
+729;043220 Diensten van elektriciens;Ondergrens 95%-interval;2020;6.0;
+730;043220 Diensten van elektriciens;Bovengrens 95%-interval;2015;;
+731;043220 Diensten van elektriciens;Bovengrens 95%-interval;2020;10.0;
+732;043230 Onderhoud van verwarming.;Waarde;2015;;
+733;043230 Onderhoud van verwarming.;Waarde;2020;12.0;0.0
+734;043230 Onderhoud van verwarming.;Ondergrens 95%-interval;2015;;
+735;043230 Onderhoud van verwarming.;Ondergrens 95%-interval;2020;10.0;
+736;043230 Onderhoud van verwarming.;Bovengrens 95%-interval;2015;;
+737;043230 Onderhoud van verwarming.;Bovengrens 95%-interval;2020;14.0;
+738;043240 Diensten van schilders;Waarde;2015;13.0;0.0
+739;043240 Diensten van schilders;Waarde;2020;8.0;0.0
+740;043240 Diensten van schilders;Ondergrens 95%-interval;2015;13.0;
+741;043240 Diensten van schilders;Ondergrens 95%-interval;2020;4.0;
+742;043240 Diensten van schilders;Bovengrens 95%-interval;2015;14.0;
+743;043240 Diensten van schilders;Bovengrens 95%-interval;2020;12.0;
+744;043250 Diensten van timmerlieden;Waarde;2015;;
+745;043250 Diensten van timmerlieden;Waarde;2020;2.0;0.0
+746;043250 Diensten van timmerlieden;Ondergrens 95%-interval;2015;;
+747;043250 Diensten van timmerlieden;Ondergrens 95%-interval;2020;1.0;
+748;043250 Diensten van timmerlieden;Bovengrens 95%-interval;2015;;
+749;043250 Diensten van timmerlieden;Bovengrens 95%-interval;2020;3.0;
+750;043290 Ov. onderhoudsdiensten woning;Waarde;2015;0.0;0.0
+751;043290 Ov. onderhoudsdiensten woning;Waarde;2020;1.0;0.0
+752;043290 Ov. onderhoudsdiensten woning;Ondergrens 95%-interval;2015;0.0;
+753;043290 Ov. onderhoudsdiensten woning;Ondergrens 95%-interval;2020;0.0;
+754;043290 Ov. onderhoudsdiensten woning;Bovengrens 95%-interval;2015;0.0;
+755;043290 Ov. onderhoudsdiensten woning;Bovengrens 95%-interval;2020;2.0;
+756;044000 Kosten van woningvoorzieningen;Waarde;2015;998.0;3.0
+757;044000 Kosten van woningvoorzieningen;Waarde;2020;979.0;2.8
+758;044000 Kosten van woningvoorzieningen;Ondergrens 95%-interval;2015;980.0;
+759;044000 Kosten van woningvoorzieningen;Ondergrens 95%-interval;2020;966.0;
+760;044000 Kosten van woningvoorzieningen;Bovengrens 95%-interval;2015;1017.0;
+761;044000 Kosten van woningvoorzieningen;Bovengrens 95%-interval;2020;992.0;
+762;044100 Watervoorziening;Waarde;2015;250.0;0.7
+763;044100 Watervoorziening;Waarde;2020;264.0;0.8
+764;044100 Watervoorziening;Ondergrens 95%-interval;2015;250.0;
+765;044100 Watervoorziening;Ondergrens 95%-interval;2020;263.0;
+766;044100 Watervoorziening;Bovengrens 95%-interval;2015;251.0;
+767;044100 Watervoorziening;Bovengrens 95%-interval;2020;265.0;
+768;044200 Ophalen van huisvuil;Waarde;2015;230.0;0.7
+769;044200 Ophalen van huisvuil;Waarde;2020;251.0;0.7
+770;044200 Ophalen van huisvuil;Ondergrens 95%-interval;2015;228.0;
+771;044200 Ophalen van huisvuil;Ondergrens 95%-interval;2020;250.0;
+772;044200 Ophalen van huisvuil;Bovengrens 95%-interval;2015;231.0;
+773;044200 Ophalen van huisvuil;Bovengrens 95%-interval;2020;252.0;
+774;044300 Riolering;Waarde;2015;144.0;0.4
+775;044300 Riolering;Waarde;2020;143.0;0.4
+776;044300 Riolering;Ondergrens 95%-interval;2015;143.0;
+777;044300 Riolering;Ondergrens 95%-interval;2020;141.0;
+778;044300 Riolering;Bovengrens 95%-interval;2015;146.0;
+779;044300 Riolering;Bovengrens 95%-interval;2020;145.0;
+780;044400 Ov. kosten van woningvoorziening;Waarde;2015;374.0;1.1
+781;044400 Ov. kosten van woningvoorziening;Waarde;2020;321.0;0.9
+782;044400 Ov. kosten van woningvoorziening;Ondergrens 95%-interval;2015;356.0;
+783;044400 Ov. kosten van woningvoorziening;Ondergrens 95%-interval;2020;308.0;
+784;044400 Ov. kosten van woningvoorziening;Bovengrens 95%-interval;2015;392.0;
+785;044400 Ov. kosten van woningvoorziening;Bovengrens 95%-interval;2020;334.0;
+786;044410 Onderhoud in meergezinswoningen;Waarde;2015;259.0;0.8
+787;044410 Onderhoud in meergezinswoningen;Waarde;2020;266.0;0.8
+788;044410 Onderhoud in meergezinswoningen;Ondergrens 95%-interval;2015;249.0;
+789;044410 Onderhoud in meergezinswoningen;Ondergrens 95%-interval;2020;256.0;
+790;044410 Onderhoud in meergezinswoningen;Bovengrens 95%-interval;2015;269.0;
+791;044410 Onderhoud in meergezinswoningen;Bovengrens 95%-interval;2020;276.0;
+792;044420 Bewakingsdiensten;Waarde;2015;10.0;0.0
+793;044420 Bewakingsdiensten;Waarde;2020;11.0;0.0
+794;044420 Bewakingsdiensten;Ondergrens 95%-interval;2015;8.0;
+795;044420 Bewakingsdiensten;Ondergrens 95%-interval;2020;9.0;
+796;044420 Bewakingsdiensten;Bovengrens 95%-interval;2015;11.0;
+797;044420 Bewakingsdiensten;Bovengrens 95%-interval;2020;13.0;
+798;044490 Overige diensten i.v.m. de woning;Waarde;2015;106.0;0.3
+799;044490 Overige diensten i.v.m. de woning;Waarde;2020;45.0;0.1
+800;044490 Overige diensten i.v.m. de woning;Ondergrens 95%-interval;2015;95.0;
+801;044490 Overige diensten i.v.m. de woning;Ondergrens 95%-interval;2020;39.0;
+802;044490 Overige diensten i.v.m. de woning;Bovengrens 95%-interval;2015;116.0;
+803;044490 Overige diensten i.v.m. de woning;Bovengrens 95%-interval;2020;51.0;
+804;045000 Energie;Waarde;2015;1582.0;4.7
+805;045000 Energie;Waarde;2020;1540.0;4.4
+806;045000 Energie;Ondergrens 95%-interval;2015;1570.0;
+807;045000 Energie;Ondergrens 95%-interval;2020;1526.0;
+808;045000 Energie;Bovengrens 95%-interval;2015;1594.0;
+809;045000 Energie;Bovengrens 95%-interval;2020;1554.0;
+810;045100 Elektriciteit;Waarde;2015;560.0;1.7
+811;045100 Elektriciteit;Waarde;2020;356.0;1.0
+812;045100 Elektriciteit;Ondergrens 95%-interval;2015;555.0;
+813;045100 Elektriciteit;Ondergrens 95%-interval;2020;350.0;
+814;045100 Elektriciteit;Bovengrens 95%-interval;2015;566.0;
+815;045100 Elektriciteit;Bovengrens 95%-interval;2020;362.0;
+816;045200 Gas;Waarde;2015;1015.0;3.0
+817;045200 Gas;Waarde;2020;1172.0;3.3
+818;045200 Gas;Ondergrens 95%-interval;2015;1006.0;
+819;045200 Gas;Ondergrens 95%-interval;2020;1161.0;
+820;045200 Gas;Bovengrens 95%-interval;2015;1024.0;
+821;045200 Gas;Bovengrens 95%-interval;2020;1183.0;
+822;045210 Aardgas en stadsgas;Waarde;2015;1010.0;3.0
+823;045210 Aardgas en stadsgas;Waarde;2020;1169.0;3.3
+824;045210 Aardgas en stadsgas;Ondergrens 95%-interval;2015;1002.0;
+825;045210 Aardgas en stadsgas;Ondergrens 95%-interval;2020;1158.0;
+826;045210 Aardgas en stadsgas;Bovengrens 95%-interval;2015;1018.0;
+827;045210 Aardgas en stadsgas;Bovengrens 95%-interval;2020;1180.0;
+828;045220 Butaan, propaan e.d.;Waarde;2015;5.0;0.0
+829;045220 Butaan, propaan e.d.;Waarde;2020;3.0;0.0
+830;045220 Butaan, propaan e.d.;Ondergrens 95%-interval;2015;5.0;
+831;045220 Butaan, propaan e.d.;Ondergrens 95%-interval;2020;2.0;
+832;045220 Butaan, propaan e.d.;Bovengrens 95%-interval;2015;5.0;
+833;045220 Butaan, propaan e.d.;Bovengrens 95%-interval;2020;4.0;
+834;045300 Vloeibare brandstoffen;Waarde;2015;2.0;0.0
+835;045300 Vloeibare brandstoffen;Waarde;2020;3.0;0.0
+836;045300 Vloeibare brandstoffen;Ondergrens 95%-interval;2015;2.0;
+837;045300 Vloeibare brandstoffen;Ondergrens 95%-interval;2020;2.0;
+838;045300 Vloeibare brandstoffen;Bovengrens 95%-interval;2015;3.0;
+839;045300 Vloeibare brandstoffen;Bovengrens 95%-interval;2020;4.0;
+840;045400 Vaste brandstoffen;Waarde;2015;4.0;0.0
+841;045400 Vaste brandstoffen;Waarde;2020;8.0;0.0
+842;045400 Vaste brandstoffen;Ondergrens 95%-interval;2015;3.0;
+843;045400 Vaste brandstoffen;Ondergrens 95%-interval;2020;6.0;
+844;045400 Vaste brandstoffen;Bovengrens 95%-interval;2015;6.0;
+845;045400 Vaste brandstoffen;Bovengrens 95%-interval;2020;10.0;
+846;045490 Overig vaste brandstoffen;Waarde;2015;4.0;0.0
+847;045490 Overig vaste brandstoffen;Waarde;2020;8.0;0.0
+848;045490 Overig vaste brandstoffen;Ondergrens 95%-interval;2015;4.0;
+849;045490 Overig vaste brandstoffen;Ondergrens 95%-interval;2020;6.0;
+850;045490 Overig vaste brandstoffen;Bovengrens 95%-interval;2015;5.0;
+851;045490 Overig vaste brandstoffen;Bovengrens 95%-interval;2020;10.0;
+852;050000 Stoffering en huish. apparaten.;Waarde;2015;1820.0;5.4
+853;050000 Stoffering en huish. apparaten.;Waarde;2020;2282.0;6.5
+854;050000 Stoffering en huish. apparaten.;Ondergrens 95%-interval;2015;1735.0;
+855;050000 Stoffering en huish. apparaten.;Ondergrens 95%-interval;2020;2174.0;
+856;050000 Stoffering en huish. apparaten.;Bovengrens 95%-interval;2015;1906.0;
+857;050000 Stoffering en huish. apparaten.;Bovengrens 95%-interval;2020;2390.0;
+858;051000 Meubelen, stoffering en decoratie;Waarde;2015;708.0;2.1
+859;051000 Meubelen, stoffering en decoratie;Waarde;2020;919.0;2.6
+860;051000 Meubelen, stoffering en decoratie;Ondergrens 95%-interval;2015;637.0;
+861;051000 Meubelen, stoffering en decoratie;Ondergrens 95%-interval;2020;832.0;
+862;051000 Meubelen, stoffering en decoratie;Bovengrens 95%-interval;2015;778.0;
+863;051000 Meubelen, stoffering en decoratie;Bovengrens 95%-interval;2020;1006.0;
+864;051100 Meubelen en stoffering;Waarde;2015;632.0;1.9
+865;051100 Meubelen en stoffering;Waarde;2020;804.0;2.3
+866;051100 Meubelen en stoffering;Ondergrens 95%-interval;2015;566.0;
+867;051100 Meubelen en stoffering;Ondergrens 95%-interval;2020;723.0;
+868;051100 Meubelen en stoffering;Bovengrens 95%-interval;2015;699.0;
+869;051100 Meubelen en stoffering;Bovengrens 95%-interval;2020;885.0;
+870;051110 Meubelen voor het huis;Waarde;2015;525.0;1.6
+871;051110 Meubelen voor het huis;Waarde;2020;641.0;1.8
+872;051110 Meubelen voor het huis;Ondergrens 95%-interval;2015;522.0;
+873;051110 Meubelen voor het huis;Ondergrens 95%-interval;2020;563.0;
+874;051110 Meubelen voor het huis;Bovengrens 95%-interval;2015;527.0;
+875;051110 Meubelen voor het huis;Bovengrens 95%-interval;2020;719.0;
+876;051120 Tuinmeubelen;Waarde;2015;;
+877;051120 Tuinmeubelen;Waarde;2020;17.0;0.0
+878;051120 Tuinmeubelen;Ondergrens 95%-interval;2015;;
+879;051120 Tuinmeubelen;Ondergrens 95%-interval;2020;9.0;
+880;051120 Tuinmeubelen;Bovengrens 95%-interval;2015;;
+881;051120 Tuinmeubelen;Bovengrens 95%-interval;2020;25.0;
+882;051130 Verlichtingsapparatuur;Waarde;2015;59.0;0.2
+883;051130 Verlichtingsapparatuur;Waarde;2020;63.0;0.2
+884;051130 Verlichtingsapparatuur;Ondergrens 95%-interval;2015;57.0;
+885;051130 Verlichtingsapparatuur;Ondergrens 95%-interval;2020;53.0;
+886;051130 Verlichtingsapparatuur;Bovengrens 95%-interval;2015;60.0;
+887;051130 Verlichtingsapparatuur;Bovengrens 95%-interval;2020;73.0;
+888;051190 Overige meubelen en stoffering;Waarde;2015;49.0;0.1
+889;051190 Overige meubelen en stoffering;Waarde;2020;83.0;0.2
+890;051190 Overige meubelen en stoffering;Ondergrens 95%-interval;2015;47.0;
+891;051190 Overige meubelen en stoffering;Ondergrens 95%-interval;2020;67.0;
+892;051190 Overige meubelen en stoffering;Bovengrens 95%-interval;2015;51.0;
+893;051190 Overige meubelen en stoffering;Bovengrens 95%-interval;2020;99.0;
+894;051200 Vloerbedekking;Waarde;2015;70.0;0.2
+895;051200 Vloerbedekking;Waarde;2020;115.0;0.3
+896;051200 Vloerbedekking;Ondergrens 95%-interval;2015;56.0;
+897;051200 Vloerbedekking;Ondergrens 95%-interval;2020;85.0;
+898;051200 Vloerbedekking;Bovengrens 95%-interval;2015;85.0;
+899;051200 Vloerbedekking;Bovengrens 95%-interval;2020;145.0;
+900;051210 Vaste vloerbedekking en tapijten;Waarde;2015;34.0;0.1
+901;051210 Vaste vloerbedekking en tapijten;Waarde;2020;51.0;0.1
+902;051210 Vaste vloerbedekking en tapijten;Ondergrens 95%-interval;2015;33.0;
+903;051210 Vaste vloerbedekking en tapijten;Ondergrens 95%-interval;2020;33.0;
+904;051210 Vaste vloerbedekking en tapijten;Bovengrens 95%-interval;2015;35.0;
+905;051210 Vaste vloerbedekking en tapijten;Bovengrens 95%-interval;2020;69.0;
+906;051220 Overige vloerbedekking;Waarde;2015;36.0;0.1
+907;051220 Overige vloerbedekking;Waarde;2020;60.0;0.2
+908;051220 Overige vloerbedekking;Ondergrens 95%-interval;2015;36.0;
+909;051220 Overige vloerbedekking;Ondergrens 95%-interval;2020;36.0;
+910;051220 Overige vloerbedekking;Bovengrens 95%-interval;2015;36.0;
+911;051220 Overige vloerbedekking;Bovengrens 95%-interval;2020;84.0;
+912;051230 Leggen van vloerbedekking;Waarde;2015;;
+913;051230 Leggen van vloerbedekking;Waarde;2020;4.0;0.0
+914;051230 Leggen van vloerbedekking;Ondergrens 95%-interval;2015;;
+915;051230 Leggen van vloerbedekking;Ondergrens 95%-interval;2020;0.0;
+916;051230 Leggen van vloerbedekking;Bovengrens 95%-interval;2015;;
+917;051230 Leggen van vloerbedekking;Bovengrens 95%-interval;2020;8.0;
+918;051300 Reparatie van meubelen e.d.;Waarde;2015;5.0;0.0
+919;051300 Reparatie van meubelen e.d.;Waarde;2020;0.0;0.0
+920;051300 Reparatie van meubelen e.d.;Ondergrens 95%-interval;2015;1.0;
+921;051300 Reparatie van meubelen e.d.;Ondergrens 95%-interval;2020;0.0;
+922;051300 Reparatie van meubelen e.d.;Bovengrens 95%-interval;2015;10.0;
+923;051300 Reparatie van meubelen e.d.;Bovengrens 95%-interval;2020;1.0;
+924;052000 Huishoudtextiel;Waarde;2015;170.0;0.5
+925;052000 Huishoudtextiel;Waarde;2020;210.0;0.6
+926;052000 Huishoudtextiel;Ondergrens 95%-interval;2015;146.0;
+927;052000 Huishoudtextiel;Ondergrens 95%-interval;2020;186.0;
+928;052000 Huishoudtextiel;Bovengrens 95%-interval;2015;193.0;
+929;052000 Huishoudtextiel;Bovengrens 95%-interval;2020;234.0;
+930;052010 Meubelstoffen en gordijnen;Waarde;2015;66.0;0.2
+931;052010 Meubelstoffen en gordijnen;Waarde;2020;81.0;0.2
+932;052010 Meubelstoffen en gordijnen;Ondergrens 95%-interval;2015;65.0;
+933;052010 Meubelstoffen en gordijnen;Ondergrens 95%-interval;2020;61.0;
+934;052010 Meubelstoffen en gordijnen;Bovengrens 95%-interval;2015;68.0;
+935;052010 Meubelstoffen en gordijnen;Bovengrens 95%-interval;2020;101.0;
+936;052020 Beddengoed;Waarde;2015;60.0;0.2
+937;052020 Beddengoed;Waarde;2020;82.0;0.2
+938;052020 Beddengoed;Ondergrens 95%-interval;2015;57.0;
+939;052020 Beddengoed;Ondergrens 95%-interval;2020;74.0;
+940;052020 Beddengoed;Bovengrens 95%-interval;2015;63.0;
+941;052020 Beddengoed;Bovengrens 95%-interval;2020;90.0;
+942;052030 Tafel en toiletlinnen;Waarde;2015;12.0;0.0
+943;052030 Tafel en toiletlinnen;Waarde;2020;14.0;0.0
+944;052030 Tafel en toiletlinnen;Ondergrens 95%-interval;2015;10.0;
+945;052030 Tafel en toiletlinnen;Ondergrens 95%-interval;2020;12.0;
+946;052030 Tafel en toiletlinnen;Bovengrens 95%-interval;2015;13.0;
+947;052030 Tafel en toiletlinnen;Bovengrens 95%-interval;2020;16.0;
+948;052090 Overig huishoudtextiel;Waarde;2015;32.0;0.1
+949;052090 Overig huishoudtextiel;Waarde;2020;33.0;0.1
+950;052090 Overig huishoudtextiel;Ondergrens 95%-interval;2015;30.0;
+951;052090 Overig huishoudtextiel;Ondergrens 95%-interval;2020;24.0;
+952;052090 Overig huishoudtextiel;Bovengrens 95%-interval;2015;33.0;
+953;052090 Overig huishoudtextiel;Bovengrens 95%-interval;2020;42.0;
+954;053000 Huishoudelijke apparaten;Waarde;2015;234.0;0.7
+955;053000 Huishoudelijke apparaten;Waarde;2020;340.0;1.0
+956;053000 Huishoudelijke apparaten;Ondergrens 95%-interval;2015;209.0;
+957;053000 Huishoudelijke apparaten;Ondergrens 95%-interval;2020;303.0;
+958;053000 Huishoudelijke apparaten;Bovengrens 95%-interval;2015;260.0;
+959;053000 Huishoudelijke apparaten;Bovengrens 95%-interval;2020;377.0;
+960;053100 Grote huishoudelijke apparaten;Waarde;2015;159.0;0.5
+961;053100 Grote huishoudelijke apparaten;Waarde;2020;248.0;0.7
+962;053100 Grote huishoudelijke apparaten;Ondergrens 95%-interval;2015;135.0;
+963;053100 Grote huishoudelijke apparaten;Ondergrens 95%-interval;2020;213.0;
+964;053100 Grote huishoudelijke apparaten;Bovengrens 95%-interval;2015;183.0;
+965;053100 Grote huishoudelijke apparaten;Bovengrens 95%-interval;2020;283.0;
+966;053110 Koel en vrieskasten;Waarde;2015;23.0;0.1
+967;053110 Koel en vrieskasten;Waarde;2020;31.0;0.1
+968;053110 Koel en vrieskasten;Ondergrens 95%-interval;2015;23.0;
+969;053110 Koel en vrieskasten;Ondergrens 95%-interval;2020;21.0;
+970;053110 Koel en vrieskasten;Bovengrens 95%-interval;2015;23.0;
+971;053110 Koel en vrieskasten;Bovengrens 95%-interval;2020;41.0;
+972;053120 (Af)wasmachines en wasdrogers;Waarde;2015;77.0;0.2
+973;053120 (Af)wasmachines en wasdrogers;Waarde;2020;102.0;0.3
+974;053120 (Af)wasmachines en wasdrogers;Ondergrens 95%-interval;2015;77.0;
+975;053120 (Af)wasmachines en wasdrogers;Ondergrens 95%-interval;2020;81.0;
+976;053120 (Af)wasmachines en wasdrogers;Bovengrens 95%-interval;2015;77.0;
+977;053120 (Af)wasmachines en wasdrogers;Bovengrens 95%-interval;2020;123.0;
+978;053130 Fornuizen, ovens, magnetrons e.d.;Waarde;2015;20.0;0.1
+979;053130 Fornuizen, ovens, magnetrons e.d.;Waarde;2020;29.0;0.1
+980;053130 Fornuizen, ovens, magnetrons e.d.;Ondergrens 95%-interval;2015;19.0;
+981;053130 Fornuizen, ovens, magnetrons e.d.;Ondergrens 95%-interval;2020;17.0;
+982;053130 Fornuizen, ovens, magnetrons e.d.;Bovengrens 95%-interval;2015;20.0;
+983;053130 Fornuizen, ovens, magnetrons e.d.;Bovengrens 95%-interval;2020;41.0;
+984;053140 Verwarming, airconditioners;Waarde;2015;16.0;0.0
+985;053140 Verwarming, airconditioners;Waarde;2020;47.0;0.1
+986;053140 Verwarming, airconditioners;Ondergrens 95%-interval;2015;15.0;
+987;053140 Verwarming, airconditioners;Ondergrens 95%-interval;2020;29.0;
+988;053140 Verwarming, airconditioners;Bovengrens 95%-interval;2015;17.0;
+989;053140 Verwarming, airconditioners;Bovengrens 95%-interval;2020;65.0;
+990;053150 Schoonmaakapparaten;Waarde;2015;21.0;0.1
+991;053150 Schoonmaakapparaten;Waarde;2020;33.0;0.1
+992;053150 Schoonmaakapparaten;Ondergrens 95%-interval;2015;20.0;
+993;053150 Schoonmaakapparaten;Ondergrens 95%-interval;2020;25.0;
+994;053150 Schoonmaakapparaten;Bovengrens 95%-interval;2015;21.0;
+995;053150 Schoonmaakapparaten;Bovengrens 95%-interval;2020;41.0;
+996;053190 Overige grote huish. apparaten;Waarde;2015;3.0;0.0
+997;053190 Overige grote huish. apparaten;Waarde;2020;6.0;0.0
+998;053190 Overige grote huish. apparaten;Ondergrens 95%-interval;2015;3.0;
+999;053190 Overige grote huish. apparaten;Ondergrens 95%-interval;2020;2.0;
+1000;053190 Overige grote huish. apparaten;Bovengrens 95%-interval;2015;3.0;
+1001;053190 Overige grote huish. apparaten;Bovengrens 95%-interval;2020;10.0;
+1002;053200 Kleine elektr. huish. apparaten;Waarde;2015;58.0;0.2
+1003;053200 Kleine elektr. huish. apparaten;Waarde;2020;80.0;0.2
+1004;053200 Kleine elektr. huish. apparaten;Ondergrens 95%-interval;2015;52.0;
+1005;053200 Kleine elektr. huish. apparaten;Ondergrens 95%-interval;2020;69.0;
+1006;053200 Kleine elektr. huish. apparaten;Bovengrens 95%-interval;2015;65.0;
+1007;053200 Kleine elektr. huish. apparaten;Bovengrens 95%-interval;2020;91.0;
+1008;053210 Keukenmachines;Waarde;2015;;
+1009;053210 Keukenmachines;Waarde;2020;8.0;0.0
+1010;053210 Keukenmachines;Ondergrens 95%-interval;2015;;
+1011;053210 Keukenmachines;Ondergrens 95%-interval;2020;2.0;
+1012;053210 Keukenmachines;Bovengrens 95%-interval;2015;;
+1013;053210 Keukenmachines;Bovengrens 95%-interval;2020;14.0;
+1014;053220 Koffiezetapparaten, waterkokers..;Waarde;2015;0.0;0.0
+1015;053220 Koffiezetapparaten, waterkokers..;Waarde;2020;20.0;0.1
+1016;053220 Koffiezetapparaten, waterkokers..;Ondergrens 95%-interval;2015;0.0;
+1017;053220 Koffiezetapparaten, waterkokers..;Ondergrens 95%-interval;2020;14.0;
+1018;053220 Koffiezetapparaten, waterkokers..;Bovengrens 95%-interval;2015;0.0;
+1019;053220 Koffiezetapparaten, waterkokers..;Bovengrens 95%-interval;2020;26.0;
+1020;053230 Strijkijzers;Waarde;2015;5.0;0.0
+1021;053230 Strijkijzers;Waarde;2020;4.0;0.0
+1022;053230 Strijkijzers;Ondergrens 95%-interval;2015;4.0;
+1023;053230 Strijkijzers;Ondergrens 95%-interval;2020;3.0;
+1024;053230 Strijkijzers;Bovengrens 95%-interval;2015;5.0;
+1025;053230 Strijkijzers;Bovengrens 95%-interval;2020;5.0;
+1026;053240 Broodroosters en grills;Waarde;2015;2.0;0.0
+1027;053240 Broodroosters en grills;Waarde;2020;3.0;0.0
+1028;053240 Broodroosters en grills;Ondergrens 95%-interval;2015;2.0;
+1029;053240 Broodroosters en grills;Ondergrens 95%-interval;2020;1.0;
+1030;053240 Broodroosters en grills;Bovengrens 95%-interval;2015;2.0;
+1031;053240 Broodroosters en grills;Bovengrens 95%-interval;2020;5.0;
+1032;053290 Overige kleine elektr. apparaten;Waarde;2015;52.0;0.2
+1033;053290 Overige kleine elektr. apparaten;Waarde;2020;45.0;0.1
+1034;053290 Overige kleine elektr. apparaten;Ondergrens 95%-interval;2015;51.0;
+1035;053290 Overige kleine elektr. apparaten;Ondergrens 95%-interval;2020;38.0;
+1036;053290 Overige kleine elektr. apparaten;Bovengrens 95%-interval;2015;53.0;
+1037;053290 Overige kleine elektr. apparaten;Bovengrens 95%-interval;2020;52.0;
+1038;053300 Reparatie van huish. apparaten;Waarde;2015;17.0;0.1
+1039;053300 Reparatie van huish. apparaten;Waarde;2020;13.0;0.0
+1040;053300 Reparatie van huish. apparaten;Ondergrens 95%-interval;2015;14.0;
+1041;053300 Reparatie van huish. apparaten;Ondergrens 95%-interval;2020;11.0;
+1042;053300 Reparatie van huish. apparaten;Bovengrens 95%-interval;2015;21.0;
+1043;053300 Reparatie van huish. apparaten;Bovengrens 95%-interval;2020;15.0;
+1044;054000 Glas, servies en huish. artikelen;Waarde;2015;139.0;0.4
+1045;054000 Glas, servies en huish. artikelen;Waarde;2020;157.0;0.4
+1046;054000 Glas, servies en huish. artikelen;Ondergrens 95%-interval;2015;129.0;
+1047;054000 Glas, servies en huish. artikelen;Ondergrens 95%-interval;2020;139.0;
+1048;054000 Glas, servies en huish. artikelen;Bovengrens 95%-interval;2015;149.0;
+1049;054000 Glas, servies en huish. artikelen;Bovengrens 95%-interval;2020;175.0;
+1050;054010 Glas, kristal en aardewerk.;Waarde;2015;30.0;0.1
+1051;054010 Glas, kristal en aardewerk.;Waarde;2020;42.0;0.1
+1052;054010 Glas, kristal en aardewerk.;Ondergrens 95%-interval;2015;28.0;
+1053;054010 Glas, kristal en aardewerk.;Ondergrens 95%-interval;2020;37.0;
+1054;054010 Glas, kristal en aardewerk.;Bovengrens 95%-interval;2015;33.0;
+1055;054010 Glas, kristal en aardewerk.;Bovengrens 95%-interval;2020;47.0;
+1056;054020 Messen, bestek en zilverwerk;Waarde;2015;9.0;0.0
+1057;054020 Messen, bestek en zilverwerk;Waarde;2020;8.0;0.0
+1058;054020 Messen, bestek en zilverwerk;Ondergrens 95%-interval;2015;7.0;
+1059;054020 Messen, bestek en zilverwerk;Ondergrens 95%-interval;2020;6.0;
+1060;054020 Messen, bestek en zilverwerk;Bovengrens 95%-interval;2015;10.0;
+1061;054020 Messen, bestek en zilverwerk;Bovengrens 95%-interval;2020;10.0;
+1062;054030 Niet-elektrische keukenartikelen;Waarde;2015;100.0;0.3
+1063;054030 Niet-elektrische keukenartikelen;Waarde;2020;107.0;0.3
+1064;054030 Niet-elektrische keukenartikelen;Ondergrens 95%-interval;2015;96.0;
+1065;054030 Niet-elektrische keukenartikelen;Ondergrens 95%-interval;2020;90.0;
+1066;054030 Niet-elektrische keukenartikelen;Bovengrens 95%-interval;2015;103.0;
+1067;054030 Niet-elektrische keukenartikelen;Bovengrens 95%-interval;2020;124.0;
+1068;055000 Gereedschappen en werktuigen.;Waarde;2015;173.0;0.5
+1069;055000 Gereedschappen en werktuigen.;Waarde;2020;216.0;0.6
+1070;055000 Gereedschappen en werktuigen.;Ondergrens 95%-interval;2015;159.0;
+1071;055000 Gereedschappen en werktuigen.;Ondergrens 95%-interval;2020;198.0;
+1072;055000 Gereedschappen en werktuigen.;Bovengrens 95%-interval;2015;186.0;
+1073;055000 Gereedschappen en werktuigen.;Bovengrens 95%-interval;2020;234.0;
+1074;055100 Grote gereedschappen.;Waarde;2015;23.0;0.1
+1075;055100 Grote gereedschappen.;Waarde;2020;37.0;0.1
+1076;055100 Grote gereedschappen.;Ondergrens 95%-interval;2015;16.0;
+1077;055100 Grote gereedschappen.;Ondergrens 95%-interval;2020;31.0;
+1078;055100 Grote gereedschappen.;Bovengrens 95%-interval;2015;29.0;
+1079;055100 Grote gereedschappen.;Bovengrens 95%-interval;2020;43.0;
+1080;055110 Grote gemotor. gereedschappen...;Waarde;2015;23.0;0.1
+1081;055110 Grote gemotor. gereedschappen...;Waarde;2020;37.0;0.1
+1082;055110 Grote gemotor. gereedschappen...;Ondergrens 95%-interval;2015;22.0;
+1083;055110 Grote gemotor. gereedschappen...;Ondergrens 95%-interval;2020;31.0;
+1084;055110 Grote gemotor. gereedschappen...;Bovengrens 95%-interval;2015;23.0;
+1085;055110 Grote gemotor. gereedschappen...;Bovengrens 95%-interval;2020;43.0;
+1086;055200 Kleine gereedschappen.;Waarde;2015;150.0;0.4
+1087;055200 Kleine gereedschappen.;Waarde;2020;179.0;0.5
+1088;055200 Kleine gereedschappen.;Ondergrens 95%-interval;2015;139.0;
+1089;055200 Kleine gereedschappen.;Ondergrens 95%-interval;2020;163.0;
+1090;055200 Kleine gereedschappen.;Bovengrens 95%-interval;2015;162.0;
+1091;055200 Kleine gereedschappen.;Bovengrens 95%-interval;2020;195.0;
+1092;055210 Kleine handgereedschappen;Waarde;2015;41.0;0.1
+1093;055210 Kleine handgereedschappen;Waarde;2020;64.0;0.2
+1094;055210 Kleine handgereedschappen;Ondergrens 95%-interval;2015;39.0;
+1095;055210 Kleine handgereedschappen;Ondergrens 95%-interval;2020;58.0;
+1096;055210 Kleine handgereedschappen;Bovengrens 95%-interval;2015;43.0;
+1097;055210 Kleine handgereedschappen;Bovengrens 95%-interval;2020;70.0;
+1098;055220 Toebehoren voor klein gereedschap;Waarde;2015;109.0;0.3
+1099;055220 Toebehoren voor klein gereedschap;Waarde;2020;111.0;0.3
+1100;055220 Toebehoren voor klein gereedschap;Ondergrens 95%-interval;2015;105.0;
+1101;055220 Toebehoren voor klein gereedschap;Ondergrens 95%-interval;2020;97.0;
+1102;055220 Toebehoren voor klein gereedschap;Bovengrens 95%-interval;2015;113.0;
+1103;055220 Toebehoren voor klein gereedschap;Bovengrens 95%-interval;2020;125.0;
+1104;055230 Rep. van kleine gereedschappen.;Waarde;2015;;
+1105;055230 Rep. van kleine gereedschappen.;Waarde;2020;4.0;0.0
+1106;055230 Rep. van kleine gereedschappen.;Ondergrens 95%-interval;2015;;
+1107;055230 Rep. van kleine gereedschappen.;Ondergrens 95%-interval;2020;0.0;
+1108;055230 Rep. van kleine gereedschappen.;Bovengrens 95%-interval;2015;;
+1109;055230 Rep. van kleine gereedschappen.;Bovengrens 95%-interval;2020;9.0;
+1110;056000 Dagelijks onderhoud van de woning;Waarde;2015;397.0;1.2
+1111;056000 Dagelijks onderhoud van de woning;Waarde;2020;439.0;1.2
+1112;056000 Dagelijks onderhoud van de woning;Ondergrens 95%-interval;2015;383.0;
+1113;056000 Dagelijks onderhoud van de woning;Ondergrens 95%-interval;2020;410.0;
+1114;056000 Dagelijks onderhoud van de woning;Bovengrens 95%-interval;2015;411.0;
+1115;056000 Dagelijks onderhoud van de woning;Bovengrens 95%-interval;2020;468.0;
+1116;056100 Niet-duurzame huishoudproducten;Waarde;2015;172.0;0.5
+1117;056100 Niet-duurzame huishoudproducten;Waarde;2020;214.0;0.6
+1118;056100 Niet-duurzame huishoudproducten;Ondergrens 95%-interval;2015;165.0;
+1119;056100 Niet-duurzame huishoudproducten;Ondergrens 95%-interval;2020;206.0;
+1120;056100 Niet-duurzame huishoudproducten;Bovengrens 95%-interval;2015;179.0;
+1121;056100 Niet-duurzame huishoudproducten;Bovengrens 95%-interval;2020;222.0;
+1122;056110 Schoonmaak en onderhoudsproducten;Waarde;2015;113.0;0.3
+1123;056110 Schoonmaak en onderhoudsproducten;Waarde;2020;129.0;0.4
+1124;056110 Schoonmaak en onderhoudsproducten;Ondergrens 95%-interval;2015;107.0;
+1125;056110 Schoonmaak en onderhoudsproducten;Ondergrens 95%-interval;2020;123.0;
+1126;056110 Schoonmaak en onderhoudsproducten;Bovengrens 95%-interval;2015;118.0;
+1127;056110 Schoonmaak en onderhoudsproducten;Bovengrens 95%-interval;2020;135.0;
+1128;056120 Overige huishoudproducten.;Waarde;2015;60.0;0.2
+1129;056120 Overige huishoudproducten.;Waarde;2020;85.0;0.2
+1130;056120 Overige huishoudproducten.;Ondergrens 95%-interval;2015;57.0;
+1131;056120 Overige huishoudproducten.;Ondergrens 95%-interval;2020;80.0;
+1132;056120 Overige huishoudproducten.;Bovengrens 95%-interval;2015;62.0;
+1133;056120 Overige huishoudproducten.;Bovengrens 95%-interval;2020;90.0;
+1134;056200 Huishoudelijke diensten.;Waarde;2015;225.0;0.7
+1135;056200 Huishoudelijke diensten.;Waarde;2020;226.0;0.6
+1136;056200 Huishoudelijke diensten.;Ondergrens 95%-interval;2015;213.0;
+1137;056200 Huishoudelijke diensten.;Ondergrens 95%-interval;2020;199.0;
+1138;056200 Huishoudelijke diensten.;Bovengrens 95%-interval;2015;237.0;
+1139;056200 Huishoudelijke diensten.;Bovengrens 95%-interval;2020;253.0;
+1140;056210 Huish. diensten van personeel;Waarde;2015;198.0;0.6
+1141;056210 Huish. diensten van personeel;Waarde;2020;41.0;0.1
+1142;056210 Huish. diensten van personeel;Ondergrens 95%-interval;2015;189.0;
+1143;056210 Huish. diensten van personeel;Ondergrens 95%-interval;2020;16.0;
+1144;056210 Huish. diensten van personeel;Bovengrens 95%-interval;2015;207.0;
+1145;056210 Huish. diensten van personeel;Bovengrens 95%-interval;2020;66.0;
+1146;056290 Overige huishoudelijke diensten..;Waarde;2015;27.0;0.1
+1147;056290 Overige huishoudelijke diensten..;Waarde;2020;184.0;0.5
+1148;056290 Overige huishoudelijke diensten..;Ondergrens 95%-interval;2015;25.0;
+1149;056290 Overige huishoudelijke diensten..;Ondergrens 95%-interval;2020;173.0;
+1150;056290 Overige huishoudelijke diensten..;Bovengrens 95%-interval;2015;28.0;
+1151;056290 Overige huishoudelijke diensten..;Bovengrens 95%-interval;2020;195.0;
+1152;060000 Gezondheid;Waarde;2015;468.0;1.4
+1153;060000 Gezondheid;Waarde;2020;575.0;1.6
+1154;060000 Gezondheid;Ondergrens 95%-interval;2015;441.0;
+1155;060000 Gezondheid;Ondergrens 95%-interval;2020;542.0;
+1156;060000 Gezondheid;Bovengrens 95%-interval;2015;494.0;
+1157;060000 Gezondheid;Bovengrens 95%-interval;2020;608.0;
+1158;061000 Medische producten, apparaten.;Waarde;2015;290.0;0.9
+1159;061000 Medische producten, apparaten.;Waarde;2020;383.0;1.1
+1160;061000 Medische producten, apparaten.;Ondergrens 95%-interval;2015;270.0;
+1161;061000 Medische producten, apparaten.;Ondergrens 95%-interval;2020;356.0;
+1162;061000 Medische producten, apparaten.;Bovengrens 95%-interval;2015;310.0;
+1163;061000 Medische producten, apparaten.;Bovengrens 95%-interval;2020;410.0;
+1164;061100 Farmaceutische producten;Waarde;2015;134.0;0.4
+1165;061100 Farmaceutische producten;Waarde;2020;168.0;0.5
+1166;061100 Farmaceutische producten;Ondergrens 95%-interval;2015;126.0;
+1167;061100 Farmaceutische producten;Ondergrens 95%-interval;2020;157.0;
+1168;061100 Farmaceutische producten;Bovengrens 95%-interval;2015;142.0;
+1169;061100 Farmaceutische producten;Bovengrens 95%-interval;2020;179.0;
+1170;061200 Overige medische producten;Waarde;2015;12.0;0.0
+1171;061200 Overige medische producten;Waarde;2020;58.0;0.2
+1172;061200 Overige medische producten;Ondergrens 95%-interval;2015;10.0;
+1173;061200 Overige medische producten;Ondergrens 95%-interval;2020;53.0;
+1174;061200 Overige medische producten;Bovengrens 95%-interval;2015;13.0;
+1175;061200 Overige medische producten;Bovengrens 95%-interval;2020;63.0;
+1176;061210 Zwangerschapstests, condooms.;Waarde;2015;2.0;0.0
+1177;061210 Zwangerschapstests, condooms.;Waarde;2020;2.0;0.0
+1178;061210 Zwangerschapstests, condooms.;Ondergrens 95%-interval;2015;1.0;
+1179;061210 Zwangerschapstests, condooms.;Ondergrens 95%-interval;2020;1.0;
+1180;061210 Zwangerschapstests, condooms.;Bovengrens 95%-interval;2015;3.0;
+1181;061210 Zwangerschapstests, condooms.;Bovengrens 95%-interval;2020;3.0;
+1182;061290 Overige medische producten n.e.g.;Waarde;2015;10.0;0.0
+1183;061290 Overige medische producten n.e.g.;Waarde;2020;56.0;0.2
+1184;061290 Overige medische producten n.e.g.;Ondergrens 95%-interval;2015;9.0;
+1185;061290 Overige medische producten n.e.g.;Ondergrens 95%-interval;2020;51.0;
+1186;061290 Overige medische producten n.e.g.;Bovengrens 95%-interval;2015;11.0;
+1187;061290 Overige medische producten n.e.g.;Bovengrens 95%-interval;2020;61.0;
+1188;061300 Therapeutische apparaten.;Waarde;2015;145.0;0.4
+1189;061300 Therapeutische apparaten.;Waarde;2020;157.0;0.4
+1190;061300 Therapeutische apparaten.;Ondergrens 95%-interval;2015;127.0;
+1191;061300 Therapeutische apparaten.;Ondergrens 95%-interval;2020;133.0;
+1192;061300 Therapeutische apparaten.;Bovengrens 95%-interval;2015;162.0;
+1193;061300 Therapeutische apparaten.;Bovengrens 95%-interval;2020;181.0;
+1194;061310 Brillen op sterkte en lenzen;Waarde;2015;119.0;0.4
+1195;061310 Brillen op sterkte en lenzen;Waarde;2020;139.0;0.4
+1196;061310 Brillen op sterkte en lenzen;Ondergrens 95%-interval;2015;118.0;
+1197;061310 Brillen op sterkte en lenzen;Ondergrens 95%-interval;2020;117.0;
+1198;061310 Brillen op sterkte en lenzen;Bovengrens 95%-interval;2015;120.0;
+1199;061310 Brillen op sterkte en lenzen;Bovengrens 95%-interval;2020;161.0;
+1200;061320 Gehoorapparaten;Waarde;2015;7.0;0.0
+1201;061320 Gehoorapparaten;Waarde;2020;11.0;0.0
+1202;061320 Gehoorapparaten;Ondergrens 95%-interval;2015;7.0;
+1203;061320 Gehoorapparaten;Ondergrens 95%-interval;2020;2.0;
+1204;061320 Gehoorapparaten;Bovengrens 95%-interval;2015;7.0;
+1205;061320 Gehoorapparaten;Bovengrens 95%-interval;2020;20.0;
+1206;061330 Rep. van therapeutische app.;Waarde;2015;5.0;0.0
+1207;061330 Rep. van therapeutische app.;Waarde;2020;7.0;0.0
+1208;061330 Rep. van therapeutische app.;Ondergrens 95%-interval;2015;4.0;
+1209;061330 Rep. van therapeutische app.;Ondergrens 95%-interval;2020;5.0;
+1210;061330 Rep. van therapeutische app.;Bovengrens 95%-interval;2015;6.0;
+1211;061330 Rep. van therapeutische app.;Bovengrens 95%-interval;2020;9.0;
+1212;061390 Ov. therapeutische apparaten.;Waarde;2015;13.0;0.0
+1213;061390 Ov. therapeutische apparaten.;Waarde;2020;1.0;0.0
+1214;061390 Ov. therapeutische apparaten.;Ondergrens 95%-interval;2015;13.0;
+1215;061390 Ov. therapeutische apparaten.;Ondergrens 95%-interval;2020;0.0;
+1216;061390 Ov. therapeutische apparaten.;Bovengrens 95%-interval;2015;14.0;
+1217;061390 Ov. therapeutische apparaten.;Bovengrens 95%-interval;2020;2.0;
+1218;062000 Extramurale gezondheidszorg;Waarde;2015;178.0;0.5
+1219;062000 Extramurale gezondheidszorg;Waarde;2020;188.0;0.5
+1220;062000 Extramurale gezondheidszorg;Ondergrens 95%-interval;2015;160.0;
+1221;062000 Extramurale gezondheidszorg;Ondergrens 95%-interval;2020;170.0;
+1222;062000 Extramurale gezondheidszorg;Bovengrens 95%-interval;2015;195.0;
+1223;062000 Extramurale gezondheidszorg;Bovengrens 95%-interval;2020;206.0;
+1224;062100 Diensten van artsen en paramedici;Waarde;2015;79.0;0.2
+1225;062100 Diensten van artsen en paramedici;Waarde;2020;68.0;0.2
+1226;062100 Diensten van artsen en paramedici;Ondergrens 95%-interval;2015;65.0;
+1227;062100 Diensten van artsen en paramedici;Ondergrens 95%-interval;2020;56.0;
+1228;062100 Diensten van artsen en paramedici;Bovengrens 95%-interval;2015;93.0;
+1229;062100 Diensten van artsen en paramedici;Bovengrens 95%-interval;2020;80.0;
+1230;062110 Diensten van huisartsen;Waarde;2015;2.0;0.0
+1231;062110 Diensten van huisartsen;Waarde;2020;6.0;0.0
+1232;062110 Diensten van huisartsen;Ondergrens 95%-interval;2015;2.0;
+1233;062110 Diensten van huisartsen;Ondergrens 95%-interval;2020;3.0;
+1234;062110 Diensten van huisartsen;Bovengrens 95%-interval;2015;2.0;
+1235;062110 Diensten van huisartsen;Bovengrens 95%-interval;2020;9.0;
+1236;062120 Diensten van medisch specialisten;Waarde;2015;77.0;0.2
+1237;062120 Diensten van medisch specialisten;Waarde;2020;62.0;0.2
+1238;062120 Diensten van medisch specialisten;Ondergrens 95%-interval;2015;77.0;
+1239;062120 Diensten van medisch specialisten;Ondergrens 95%-interval;2020;51.0;
+1240;062120 Diensten van medisch specialisten;Bovengrens 95%-interval;2015;78.0;
+1241;062120 Diensten van medisch specialisten;Bovengrens 95%-interval;2020;73.0;
+1242;062200 Diensten van tandartsen;Waarde;2015;72.0;0.2
+1243;062200 Diensten van tandartsen;Waarde;2020;83.0;0.2
+1244;062200 Diensten van tandartsen;Ondergrens 95%-interval;2015;63.0;
+1245;062200 Diensten van tandartsen;Ondergrens 95%-interval;2020;71.0;
+1246;062200 Diensten van tandartsen;Bovengrens 95%-interval;2015;81.0;
+1247;062200 Diensten van tandartsen;Bovengrens 95%-interval;2020;95.0;
+1248;062300 Diensten van paramedici;Waarde;2015;26.0;0.1
+1249;062300 Diensten van paramedici;Waarde;2020;37.0;0.1
+1250;062300 Diensten van paramedici;Ondergrens 95%-interval;2015;22.0;
+1251;062300 Diensten van paramedici;Ondergrens 95%-interval;2020;32.0;
+1252;062300 Diensten van paramedici;Bovengrens 95%-interval;2015;31.0;
+1253;062300 Diensten van paramedici;Bovengrens 95%-interval;2020;42.0;
+1254;062310 Medische laboratoria en.;Waarde;2015;;
+1255;062310 Medische laboratoria en.;Waarde;2020;2.0;0.0
+1256;062310 Medische laboratoria en.;Ondergrens 95%-interval;2015;;
+1257;062310 Medische laboratoria en.;Ondergrens 95%-interval;2020;1.0;
+1258;062310 Medische laboratoria en.;Bovengrens 95%-interval;2015;;
+1259;062310 Medische laboratoria en.;Bovengrens 95%-interval;2020;3.0;
+1260;062320 Warme baden, bewegingstherapie.;Waarde;2015;1.0;0.0
+1261;062320 Warme baden, bewegingstherapie.;Waarde;2020;2.0;0.0
+1262;062320 Warme baden, bewegingstherapie.;Ondergrens 95%-interval;2015;1.0;
+1263;062320 Warme baden, bewegingstherapie.;Ondergrens 95%-interval;2020;0.0;
+1264;062320 Warme baden, bewegingstherapie.;Bovengrens 95%-interval;2015;1.0;
+1265;062320 Warme baden, bewegingstherapie.;Bovengrens 95%-interval;2020;4.0;
+1266;062390 Overige paramedische diensten;Waarde;2015;26.0;0.1
+1267;062390 Overige paramedische diensten;Waarde;2020;33.0;0.1
+1268;062390 Overige paramedische diensten;Ondergrens 95%-interval;2015;25.0;
+1269;062390 Overige paramedische diensten;Ondergrens 95%-interval;2020;28.0;
+1270;062390 Overige paramedische diensten;Bovengrens 95%-interval;2015;26.0;
+1271;062390 Overige paramedische diensten;Bovengrens 95%-interval;2020;38.0;
+1272;063000 Diensten van ziekenhuizen;Waarde;2015;;
+1273;063000 Diensten van ziekenhuizen;Waarde;2020;4.0;0.0
+1274;063000 Diensten van ziekenhuizen;Ondergrens 95%-interval;2015;;
+1275;063000 Diensten van ziekenhuizen;Ondergrens 95%-interval;2020;1.0;
+1276;063000 Diensten van ziekenhuizen;Bovengrens 95%-interval;2015;;
+1277;063000 Diensten van ziekenhuizen;Bovengrens 95%-interval;2020;7.0;
+1278;070000 Vervoer;Waarde;2015;4351.0;12.9
+1279;070000 Vervoer;Waarde;2020;3955.0;11.2
+1280;070000 Vervoer;Ondergrens 95%-interval;2015;4245.0;
+1281;070000 Vervoer;Ondergrens 95%-interval;2020;3795.0;
+1282;070000 Vervoer;Bovengrens 95%-interval;2015;4457.0;
+1283;070000 Vervoer;Bovengrens 95%-interval;2020;4115.0;
+1284;071000 Aankoop van voertuigen;Waarde;2015;1526.0;4.5
+1285;071000 Aankoop van voertuigen;Waarde;2020;1614.0;4.6
+1286;071000 Aankoop van voertuigen;Ondergrens 95%-interval;2015;1438.0;
+1287;071000 Aankoop van voertuigen;Ondergrens 95%-interval;2020;1463.0;
+1288;071000 Aankoop van voertuigen;Bovengrens 95%-interval;2015;1615.0;
+1289;071000 Aankoop van voertuigen;Bovengrens 95%-interval;2020;1765.0;
+1290;071100 Auto's;Waarde;2015;1366.0;4.0
+1291;071100 Auto's;Waarde;2020;1337.0;3.8
+1292;071100 Auto's;Ondergrens 95%-interval;2015;1286.0;
+1293;071100 Auto's;Ondergrens 95%-interval;2020;1204.0;
+1294;071100 Auto's;Bovengrens 95%-interval;2015;1446.0;
+1295;071100 Auto's;Bovengrens 95%-interval;2020;1470.0;
+1296;071110 Nieuwe auto's;Waarde;2015;783.0;2.3
+1297;071110 Nieuwe auto's;Waarde;2020;696.0;2.0
+1298;071110 Nieuwe auto's;Ondergrens 95%-interval;2015;697.0;
+1299;071110 Nieuwe auto's;Ondergrens 95%-interval;2020;571.0;
+1300;071110 Nieuwe auto's;Bovengrens 95%-interval;2015;869.0;
+1301;071110 Nieuwe auto's;Bovengrens 95%-interval;2020;821.0;
+1302;071120 Tweedehands auto's;Waarde;2015;584.0;1.7
+1303;071120 Tweedehands auto's;Waarde;2020;641.0;1.8
+1304;071120 Tweedehands auto's;Ondergrens 95%-interval;2015;507.0;
+1305;071120 Tweedehands auto's;Ondergrens 95%-interval;2020;550.0;
+1306;071120 Tweedehands auto's;Bovengrens 95%-interval;2015;660.0;
+1307;071120 Tweedehands auto's;Bovengrens 95%-interval;2020;732.0;
+1308;071200 Motoren, brom- en elektr. fietsen;Waarde;2015;70.0;0.2
+1309;071200 Motoren, brom- en elektr. fietsen;Waarde;2020;109.0;0.3
+1310;071200 Motoren, brom- en elektr. fietsen;Ondergrens 95%-interval;2015;36.0;
+1311;071200 Motoren, brom- en elektr. fietsen;Ondergrens 95%-interval;2020;67.0;
+1312;071200 Motoren, brom- en elektr. fietsen;Bovengrens 95%-interval;2015;104.0;
+1313;071200 Motoren, brom- en elektr. fietsen;Bovengrens 95%-interval;2020;151.0;
+1314;071300 Fietsen;Waarde;2015;90.0;0.3
+1315;071300 Fietsen;Waarde;2020;168.0;0.5
+1316;071300 Fietsen;Ondergrens 95%-interval;2015;73.0;
+1317;071300 Fietsen;Ondergrens 95%-interval;2020;109.0;
+1318;071300 Fietsen;Bovengrens 95%-interval;2015;108.0;
+1319;071300 Fietsen;Bovengrens 95%-interval;2020;227.0;
+1320;072000 Gebruik van privévoertuigen;Waarde;2015;2292.0;6.8
+1321;072000 Gebruik van privévoertuigen;Waarde;2020;2134.0;6.1
+1322;072000 Gebruik van privévoertuigen;Ondergrens 95%-interval;2015;2238.0;
+1323;072000 Gebruik van privévoertuigen;Ondergrens 95%-interval;2020;2088.0;
+1324;072000 Gebruik van privévoertuigen;Bovengrens 95%-interval;2015;2345.0;
+1325;072000 Gebruik van privévoertuigen;Bovengrens 95%-interval;2020;2180.0;
+1326;072100 Benodigdheden privé-voertuigen;Waarde;2015;142.0;0.4
+1327;072100 Benodigdheden privé-voertuigen;Waarde;2020;139.0;0.4
+1328;072100 Benodigdheden privé-voertuigen;Ondergrens 95%-interval;2015;129.0;
+1329;072100 Benodigdheden privé-voertuigen;Ondergrens 95%-interval;2020;124.0;
+1330;072100 Benodigdheden privé-voertuigen;Bovengrens 95%-interval;2015;155.0;
+1331;072100 Benodigdheden privé-voertuigen;Bovengrens 95%-interval;2020;154.0;
+1332;072110 Banden;Waarde;2015;44.0;0.1
+1333;072110 Banden;Waarde;2020;42.0;0.1
+1334;072110 Banden;Ondergrens 95%-interval;2015;43.0;
+1335;072110 Banden;Ondergrens 95%-interval;2020;33.0;
+1336;072110 Banden;Bovengrens 95%-interval;2015;45.0;
+1337;072110 Banden;Bovengrens 95%-interval;2020;51.0;
+1338;072120 Onderdelen van privé-voertuigen;Waarde;2015;75.0;0.2
+1339;072120 Onderdelen van privé-voertuigen;Waarde;2020;63.0;0.2
+1340;072120 Onderdelen van privé-voertuigen;Ondergrens 95%-interval;2015;74.0;
+1341;072120 Onderdelen van privé-voertuigen;Ondergrens 95%-interval;2020;53.0;
+1342;072120 Onderdelen van privé-voertuigen;Bovengrens 95%-interval;2015;77.0;
+1343;072120 Onderdelen van privé-voertuigen;Bovengrens 95%-interval;2020;73.0;
+1344;072130 Accessoires voor privé-voertuigen;Waarde;2015;23.0;0.1
+1345;072130 Accessoires voor privé-voertuigen;Waarde;2020;34.0;0.1
+1346;072130 Accessoires voor privé-voertuigen;Ondergrens 95%-interval;2015;21.0;
+1347;072130 Accessoires voor privé-voertuigen;Ondergrens 95%-interval;2020;29.0;
+1348;072130 Accessoires voor privé-voertuigen;Bovengrens 95%-interval;2015;24.0;
+1349;072130 Accessoires voor privé-voertuigen;Bovengrens 95%-interval;2020;39.0;
+1350;072200 Brandstoffen en smeermiddelen;Waarde;2015;1270.0;3.8
+1351;072200 Brandstoffen en smeermiddelen;Waarde;2020;985.0;2.8
+1352;072200 Brandstoffen en smeermiddelen;Ondergrens 95%-interval;2015;1248.0;
+1353;072200 Brandstoffen en smeermiddelen;Ondergrens 95%-interval;2020;967.0;
+1354;072200 Brandstoffen en smeermiddelen;Bovengrens 95%-interval;2015;1292.0;
+1355;072200 Brandstoffen en smeermiddelen;Bovengrens 95%-interval;2020;1003.0;
+1356;072210 Diesel;Waarde;2015;174.0;0.5
+1357;072210 Diesel;Waarde;2020;120.0;0.3
+1358;072210 Diesel;Ondergrens 95%-interval;2015;173.0;
+1359;072210 Diesel;Ondergrens 95%-interval;2020;114.0;
+1360;072210 Diesel;Bovengrens 95%-interval;2015;176.0;
+1361;072210 Diesel;Bovengrens 95%-interval;2020;126.0;
+1362;072220 Benzine;Waarde;2015;1068.0;3.2
+1363;072220 Benzine;Waarde;2020;845.0;2.4
+1364;072220 Benzine;Ondergrens 95%-interval;2015;1059.0;
+1365;072220 Benzine;Ondergrens 95%-interval;2020;828.0;
+1366;072220 Benzine;Bovengrens 95%-interval;2015;1077.0;
+1367;072220 Benzine;Bovengrens 95%-interval;2020;862.0;
+1368;072230 LPG;Waarde;2015;20.0;0.1
+1369;072230 LPG;Waarde;2020;12.0;0.0
+1370;072230 LPG;Ondergrens 95%-interval;2015;18.0;
+1371;072230 LPG;Ondergrens 95%-interval;2020;10.0;
+1372;072230 LPG;Bovengrens 95%-interval;2015;22.0;
+1373;072230 LPG;Bovengrens 95%-interval;2020;14.0;
+1374;072240 Smeermiddelen;Waarde;2015;7.0;0.0
+1375;072240 Smeermiddelen;Waarde;2020;7.0;0.0
+1376;072240 Smeermiddelen;Ondergrens 95%-interval;2015;6.0;
+1377;072240 Smeermiddelen;Ondergrens 95%-interval;2020;6.0;
+1378;072240 Smeermiddelen;Bovengrens 95%-interval;2015;9.0;
+1379;072240 Smeermiddelen;Bovengrens 95%-interval;2020;8.0;
+1380;072300 Onderhoud en rep. privévoertuigen;Waarde;2015;348.0;1.0
+1381;072300 Onderhoud en rep. privévoertuigen;Waarde;2020;361.0;1.0
+1382;072300 Onderhoud en rep. privévoertuigen;Ondergrens 95%-interval;2015;319.0;
+1383;072300 Onderhoud en rep. privévoertuigen;Ondergrens 95%-interval;2020;329.0;
+1384;072300 Onderhoud en rep. privévoertuigen;Bovengrens 95%-interval;2015;378.0;
+1385;072300 Onderhoud en rep. privévoertuigen;Bovengrens 95%-interval;2020;393.0;
+1386;072400 Overige diensten privé-voertuigen;Waarde;2015;531.0;1.6
+1387;072400 Overige diensten privé-voertuigen;Waarde;2020;649.0;1.8
+1388;072400 Overige diensten privé-voertuigen;Ondergrens 95%-interval;2015;500.0;
+1389;072400 Overige diensten privé-voertuigen;Ondergrens 95%-interval;2020;627.0;
+1390;072400 Overige diensten privé-voertuigen;Bovengrens 95%-interval;2015;563.0;
+1391;072400 Overige diensten privé-voertuigen;Bovengrens 95%-interval;2020;671.0;
+1392;072410 Huur garages en privé-voertuigen;Waarde;2015;431.0;1.3
+1393;072410 Huur garages en privé-voertuigen;Waarde;2020;567.0;1.6
+1394;072410 Huur garages en privé-voertuigen;Ondergrens 95%-interval;2015;405.0;
+1395;072410 Huur garages en privé-voertuigen;Ondergrens 95%-interval;2020;548.0;
+1396;072410 Huur garages en privé-voertuigen;Bovengrens 95%-interval;2015;458.0;
+1397;072410 Huur garages en privé-voertuigen;Bovengrens 95%-interval;2020;586.0;
+1398;072420 Parkeer en tolgeld;Waarde;2015;55.0;0.2
+1399;072420 Parkeer en tolgeld;Waarde;2020;35.0;0.1
+1400;072420 Parkeer en tolgeld;Ondergrens 95%-interval;2015;52.0;
+1401;072420 Parkeer en tolgeld;Ondergrens 95%-interval;2020;32.0;
+1402;072420 Parkeer en tolgeld;Bovengrens 95%-interval;2015;58.0;
+1403;072420 Parkeer en tolgeld;Bovengrens 95%-interval;2020;38.0;
+1404;072430 Rijlessen, -examens, -bewijzen.;Waarde;2015;45.0;0.1
+1405;072430 Rijlessen, -examens, -bewijzen.;Waarde;2020;47.0;0.1
+1406;072430 Rijlessen, -examens, -bewijzen.;Ondergrens 95%-interval;2015;45.0;
+1407;072430 Rijlessen, -examens, -bewijzen.;Ondergrens 95%-interval;2020;36.0;
+1408;072430 Rijlessen, -examens, -bewijzen.;Bovengrens 95%-interval;2015;46.0;
+1409;072430 Rijlessen, -examens, -bewijzen.;Bovengrens 95%-interval;2020;58.0;
+1410;073000 Vervoersdiensten;Waarde;2015;533.0;1.6
+1411;073000 Vervoersdiensten;Waarde;2020;207.0;0.6
+1412;073000 Vervoersdiensten;Ondergrens 95%-interval;2015;510.0;
+1413;073000 Vervoersdiensten;Ondergrens 95%-interval;2020;193.0;
+1414;073000 Vervoersdiensten;Bovengrens 95%-interval;2015;556.0;
+1415;073000 Vervoersdiensten;Bovengrens 95%-interval;2020;221.0;
+1416;073100 Personenvervoer per spoor;Waarde;2015;113.0;0.3
+1417;073100 Personenvervoer per spoor;Waarde;2020;58.0;0.2
+1418;073100 Personenvervoer per spoor;Ondergrens 95%-interval;2015;106.0;
+1419;073100 Personenvervoer per spoor;Ondergrens 95%-interval;2020;50.0;
+1420;073100 Personenvervoer per spoor;Bovengrens 95%-interval;2015;120.0;
+1421;073100 Personenvervoer per spoor;Bovengrens 95%-interval;2020;66.0;
+1422;073110 Personenvervoer per trein;Waarde;2015;113.0;0.3
+1423;073110 Personenvervoer per trein;Waarde;2020;57.0;0.2
+1424;073110 Personenvervoer per trein;Ondergrens 95%-interval;2015;107.0;
+1425;073110 Personenvervoer per trein;Ondergrens 95%-interval;2020;49.0;
+1426;073110 Personenvervoer per trein;Bovengrens 95%-interval;2015;119.0;
+1427;073110 Personenvervoer per trein;Bovengrens 95%-interval;2020;65.0;
+1428;073120 Personenvervoer per tram of metro;Waarde;2015;;
+1429;073120 Personenvervoer per tram of metro;Waarde;2020;1.0;0.0
+1430;073120 Personenvervoer per tram of metro;Ondergrens 95%-interval;2015;;
+1431;073120 Personenvervoer per tram of metro;Ondergrens 95%-interval;2020;1.0;
+1432;073120 Personenvervoer per tram of metro;Bovengrens 95%-interval;2015;;
+1433;073120 Personenvervoer per tram of metro;Bovengrens 95%-interval;2020;1.0;
+1434;073200 Personenvervoer over de weg;Waarde;2015;21.0;0.1
+1435;073200 Personenvervoer over de weg;Waarde;2020;11.0;0.0
+1436;073200 Personenvervoer over de weg;Ondergrens 95%-interval;2015;18.0;
+1437;073200 Personenvervoer over de weg;Ondergrens 95%-interval;2020;9.0;
+1438;073200 Personenvervoer over de weg;Bovengrens 95%-interval;2015;23.0;
+1439;073200 Personenvervoer over de weg;Bovengrens 95%-interval;2020;13.0;
+1440;073210 Personenvervoer per bus.;Waarde;2015;12.0;0.0
+1441;073210 Personenvervoer per bus.;Waarde;2020;7.0;0.0
+1442;073210 Personenvervoer per bus.;Ondergrens 95%-interval;2015;11.0;
+1443;073210 Personenvervoer per bus.;Ondergrens 95%-interval;2020;5.0;
+1444;073210 Personenvervoer per bus.;Bovengrens 95%-interval;2015;14.0;
+1445;073210 Personenvervoer per bus.;Bovengrens 95%-interval;2020;9.0;
+1446;073220 Personenvervoer per taxi.;Waarde;2015;8.0;0.0
+1447;073220 Personenvervoer per taxi.;Waarde;2020;4.0;0.0
+1448;073220 Personenvervoer per taxi.;Ondergrens 95%-interval;2015;7.0;
+1449;073220 Personenvervoer per taxi.;Ondergrens 95%-interval;2020;3.0;
+1450;073220 Personenvervoer per taxi.;Bovengrens 95%-interval;2015;9.0;
+1451;073220 Personenvervoer per taxi.;Bovengrens 95%-interval;2020;5.0;
+1452;073300 Personenvervoer door de lucht;Waarde;2015;286.0;0.8
+1453;073300 Personenvervoer door de lucht;Waarde;2020;65.0;0.2
+1454;073300 Personenvervoer door de lucht;Ondergrens 95%-interval;2015;268.0;
+1455;073300 Personenvervoer door de lucht;Ondergrens 95%-interval;2020;57.0;
+1456;073300 Personenvervoer door de lucht;Bovengrens 95%-interval;2015;305.0;
+1457;073300 Personenvervoer door de lucht;Bovengrens 95%-interval;2020;73.0;
+1458;073310 Binnenlandse vluchten;Waarde;2015;0.0;0.0
+1459;073310 Binnenlandse vluchten;Waarde;2020;0.0;0.0
+1460;073310 Binnenlandse vluchten;Ondergrens 95%-interval;2015;0.0;
+1461;073310 Binnenlandse vluchten;Ondergrens 95%-interval;2020;0.0;
+1462;073310 Binnenlandse vluchten;Bovengrens 95%-interval;2015;0.0;
+1463;073310 Binnenlandse vluchten;Bovengrens 95%-interval;2020;0.0;
+1464;073320 Internationale vluchten;Waarde;2015;286.0;0.8
+1465;073320 Internationale vluchten;Waarde;2020;65.0;0.2
+1466;073320 Internationale vluchten;Ondergrens 95%-interval;2015;267.0;
+1467;073320 Internationale vluchten;Ondergrens 95%-interval;2020;57.0;
+1468;073320 Internationale vluchten;Bovengrens 95%-interval;2015;304.0;
+1469;073320 Internationale vluchten;Bovengrens 95%-interval;2020;73.0;
+1470;073400 Personenvervoer over water;Waarde;2015;;
+1471;073400 Personenvervoer over water;Waarde;2020;5.0;0.0
+1472;073400 Personenvervoer over water;Ondergrens 95%-interval;2015;;
+1473;073400 Personenvervoer over water;Ondergrens 95%-interval;2020;3.0;
+1474;073400 Personenvervoer over water;Bovengrens 95%-interval;2015;;
+1475;073400 Personenvervoer over water;Bovengrens 95%-interval;2020;7.0;
+1476;073420 Personenvervoer over binnenwater;Waarde;2015;;
+1477;073420 Personenvervoer over binnenwater;Waarde;2020;5.0;0.0
+1478;073420 Personenvervoer over binnenwater;Ondergrens 95%-interval;2015;;
+1479;073420 Personenvervoer over binnenwater;Ondergrens 95%-interval;2020;3.0;
+1480;073420 Personenvervoer over binnenwater;Bovengrens 95%-interval;2015;;
+1481;073420 Personenvervoer over binnenwater;Bovengrens 95%-interval;2020;7.0;
+1482;073500 Gecombineerd personenvervoer;Waarde;2015;107.0;0.3
+1483;073500 Gecombineerd personenvervoer;Waarde;2020;58.0;0.2
+1484;073500 Gecombineerd personenvervoer;Ondergrens 95%-interval;2015;100.0;
+1485;073500 Gecombineerd personenvervoer;Ondergrens 95%-interval;2020;53.0;
+1486;073500 Gecombineerd personenvervoer;Bovengrens 95%-interval;2015;114.0;
+1487;073500 Gecombineerd personenvervoer;Bovengrens 95%-interval;2020;63.0;
+1488;073600 Ov. aankopen van vervoersdiensten;Waarde;2015;7.0;0.0
+1489;073600 Ov. aankopen van vervoersdiensten;Waarde;2020;10.0;0.0
+1490;073600 Ov. aankopen van vervoersdiensten;Ondergrens 95%-interval;2015;0.0;
+1491;073600 Ov. aankopen van vervoersdiensten;Ondergrens 95%-interval;2020;5.0;
+1492;073600 Ov. aankopen van vervoersdiensten;Bovengrens 95%-interval;2015;15.0;
+1493;073600 Ov. aankopen van vervoersdiensten;Bovengrens 95%-interval;2020;15.0;
+1494;073620 Verhuizing en opslag;Waarde;2015;7.0;0.0
+1495;073620 Verhuizing en opslag;Waarde;2020;6.0;0.0
+1496;073620 Verhuizing en opslag;Ondergrens 95%-interval;2015;0.0;
+1497;073620 Verhuizing en opslag;Ondergrens 95%-interval;2020;2.0;
+1498;073620 Verhuizing en opslag;Bovengrens 95%-interval;2015;15.0;
+1499;073620 Verhuizing en opslag;Bovengrens 95%-interval;2020;10.0;
+1500;073690 Overige vervoersdiensten n.e.g.;Waarde;2015;0.0;0.0
+1501;073690 Overige vervoersdiensten n.e.g.;Waarde;2020;4.0;0.0
+1502;073690 Overige vervoersdiensten n.e.g.;Ondergrens 95%-interval;2015;0.0;
+1503;073690 Overige vervoersdiensten n.e.g.;Ondergrens 95%-interval;2020;3.0;
+1504;073690 Overige vervoersdiensten n.e.g.;Bovengrens 95%-interval;2015;0.0;
+1505;073690 Overige vervoersdiensten n.e.g.;Bovengrens 95%-interval;2020;5.0;
+1506;080000 Communicatie;Waarde;2015;1133.0;3.4
+1507;080000 Communicatie;Waarde;2020;1225.0;3.5
+1508;080000 Communicatie;Ondergrens 95%-interval;2015;1117.0;
+1509;080000 Communicatie;Ondergrens 95%-interval;2020;1204.0;
+1510;080000 Communicatie;Bovengrens 95%-interval;2015;1148.0;
+1511;080000 Communicatie;Bovengrens 95%-interval;2020;1246.0;
+1512;081000 Post en pakketdiensten;Waarde;2015;34.0;0.1
+1513;081000 Post en pakketdiensten;Waarde;2020;38.0;0.1
+1514;081000 Post en pakketdiensten;Ondergrens 95%-interval;2015;31.0;
+1515;081000 Post en pakketdiensten;Ondergrens 95%-interval;2020;34.0;
+1516;081000 Post en pakketdiensten;Bovengrens 95%-interval;2015;37.0;
+1517;081000 Post en pakketdiensten;Bovengrens 95%-interval;2020;42.0;
+1518;081010 Bezorging van brieven;Waarde;2015;34.0;0.1
+1519;081010 Bezorging van brieven;Waarde;2020;26.0;0.1
+1520;081010 Bezorging van brieven;Ondergrens 95%-interval;2015;31.0;
+1521;081010 Bezorging van brieven;Ondergrens 95%-interval;2020;23.0;
+1522;081010 Bezorging van brieven;Bovengrens 95%-interval;2015;37.0;
+1523;081010 Bezorging van brieven;Bovengrens 95%-interval;2020;29.0;
+1524;081090 Overig postdiensten;Waarde;2015;;
+1525;081090 Overig postdiensten;Waarde;2020;12.0;0.0
+1526;081090 Overig postdiensten;Ondergrens 95%-interval;2015;;
+1527;081090 Overig postdiensten;Ondergrens 95%-interval;2020;10.0;
+1528;081090 Overig postdiensten;Bovengrens 95%-interval;2015;;
+1529;081090 Overig postdiensten;Bovengrens 95%-interval;2020;14.0;
+1530;082000 Telefoonapparatuur;Waarde;2015;84.0;0.2
+1531;082000 Telefoonapparatuur;Waarde;2020;137.0;0.4
+1532;082000 Telefoonapparatuur;Ondergrens 95%-interval;2015;73.0;
+1533;082000 Telefoonapparatuur;Ondergrens 95%-interval;2020;118.0;
+1534;082000 Telefoonapparatuur;Bovengrens 95%-interval;2015;96.0;
+1535;082000 Telefoonapparatuur;Bovengrens 95%-interval;2020;156.0;
+1536;082010 Vaste telefoontoestellen.;Waarde;2015;3.0;0.0
+1537;082010 Vaste telefoontoestellen.;Waarde;2020;4.0;0.0
+1538;082010 Vaste telefoontoestellen.;Ondergrens 95%-interval;2015;3.0;
+1539;082010 Vaste telefoontoestellen.;Ondergrens 95%-interval;2020;2.0;
+1540;082010 Vaste telefoontoestellen.;Bovengrens 95%-interval;2015;3.0;
+1541;082010 Vaste telefoontoestellen.;Bovengrens 95%-interval;2020;6.0;
+1542;082020 Mobiele telefoons;Waarde;2015;69.0;0.2
+1543;082020 Mobiele telefoons;Waarde;2020;111.0;0.3
+1544;082020 Mobiele telefoons;Ondergrens 95%-interval;2015;69.0;
+1545;082020 Mobiele telefoons;Ondergrens 95%-interval;2020;93.0;
+1546;082020 Mobiele telefoons;Bovengrens 95%-interval;2015;70.0;
+1547;082020 Mobiele telefoons;Bovengrens 95%-interval;2020;129.0;
+1548;082030 Overige telefoonapparatuur;Waarde;2015;12.0;0.0
+1549;082030 Overige telefoonapparatuur;Waarde;2020;23.0;0.1
+1550;082030 Overige telefoonapparatuur;Ondergrens 95%-interval;2015;11.0;
+1551;082030 Overige telefoonapparatuur;Ondergrens 95%-interval;2020;19.0;
+1552;082030 Overige telefoonapparatuur;Bovengrens 95%-interval;2015;13.0;
+1553;082030 Overige telefoonapparatuur;Bovengrens 95%-interval;2020;27.0;
+1554;083000 Telefoondiensten;Waarde;2015;1014.0;3.0
+1555;083000 Telefoondiensten;Waarde;2020;1050.0;3.0
+1556;083000 Telefoondiensten;Ondergrens 95%-interval;2015;1004.0;
+1557;083000 Telefoondiensten;Ondergrens 95%-interval;2020;1040.0;
+1558;083000 Telefoondiensten;Bovengrens 95%-interval;2015;1025.0;
+1559;083000 Telefoondiensten;Bovengrens 95%-interval;2020;1060.0;
+1560;083010 Vaste telefoondiensten;Waarde;2015;44.0;0.1
+1561;083010 Vaste telefoondiensten;Waarde;2020;16.0;0.0
+1562;083010 Vaste telefoondiensten;Ondergrens 95%-interval;2015;41.0;
+1563;083010 Vaste telefoondiensten;Ondergrens 95%-interval;2020;14.0;
+1564;083010 Vaste telefoondiensten;Bovengrens 95%-interval;2015;47.0;
+1565;083010 Vaste telefoondiensten;Bovengrens 95%-interval;2020;18.0;
+1566;083020 Mobiele telefoondiensten;Waarde;2015;351.0;1.0
+1567;083020 Mobiele telefoondiensten;Waarde;2020;315.0;0.9
+1568;083020 Mobiele telefoondiensten;Ondergrens 95%-interval;2015;344.0;
+1569;083020 Mobiele telefoondiensten;Ondergrens 95%-interval;2020;309.0;
+1570;083020 Mobiele telefoondiensten;Bovengrens 95%-interval;2015;358.0;
+1571;083020 Mobiele telefoondiensten;Bovengrens 95%-interval;2020;321.0;
+1572;083030 Verlenen van toegang tot internet;Waarde;2015;41.0;0.1
+1573;083030 Verlenen van toegang tot internet;Waarde;2020;78.0;0.2
+1574;083030 Verlenen van toegang tot internet;Ondergrens 95%-interval;2015;38.0;
+1575;083030 Verlenen van toegang tot internet;Ondergrens 95%-interval;2020;74.0;
+1576;083030 Verlenen van toegang tot internet;Bovengrens 95%-interval;2015;44.0;
+1577;083030 Verlenen van toegang tot internet;Bovengrens 95%-interval;2020;82.0;
+1578;083040 Gebundelde communicatiediensten;Waarde;2015;578.0;1.7
+1579;083040 Gebundelde communicatiediensten;Waarde;2020;639.0;1.8
+1580;083040 Gebundelde communicatiediensten;Ondergrens 95%-interval;2015;571.0;
+1581;083040 Gebundelde communicatiediensten;Ondergrens 95%-interval;2020;631.0;
+1582;083040 Gebundelde communicatiediensten;Bovengrens 95%-interval;2015;585.0;
+1583;083040 Gebundelde communicatiediensten;Bovengrens 95%-interval;2020;647.0;
+1584;090000 Recreatie en cultuur;Waarde;2015;3257.0;9.6
+1585;090000 Recreatie en cultuur;Waarde;2020;3020.0;8.6
+1586;090000 Recreatie en cultuur;Ondergrens 95%-interval;2015;3175.0;
+1587;090000 Recreatie en cultuur;Ondergrens 95%-interval;2020;2908.0;
+1588;090000 Recreatie en cultuur;Bovengrens 95%-interval;2015;3339.0;
+1589;090000 Recreatie en cultuur;Bovengrens 95%-interval;2020;3132.0;
+1590;091000 Audio-, video-, fotoapparatuur ed;Waarde;2015;398.0;1.2
+1591;091000 Audio-, video-, fotoapparatuur ed;Waarde;2020;534.0;1.5
+1592;091000 Audio-, video-, fotoapparatuur ed;Ondergrens 95%-interval;2015;364.0;
+1593;091000 Audio-, video-, fotoapparatuur ed;Ondergrens 95%-interval;2020;482.0;
+1594;091000 Audio-, video-, fotoapparatuur ed;Bovengrens 95%-interval;2015;433.0;
+1595;091000 Audio-, video-, fotoapparatuur ed;Bovengrens 95%-interval;2020;586.0;
+1596;091100 TV's, audio- en video-apparatuur;Waarde;2015;100.0;0.3
+1597;091100 TV's, audio- en video-apparatuur;Waarde;2020;190.0;0.5
+1598;091100 TV's, audio- en video-apparatuur;Ondergrens 95%-interval;2015;85.0;
+1599;091100 TV's, audio- en video-apparatuur;Ondergrens 95%-interval;2020;157.0;
+1600;091100 TV's, audio- en video-apparatuur;Bovengrens 95%-interval;2015;116.0;
+1601;091100 TV's, audio- en video-apparatuur;Bovengrens 95%-interval;2020;223.0;
+1602;091110 Geluidsapparatuur;Waarde;2015;43.0;0.1
+1603;091110 Geluidsapparatuur;Waarde;2020;55.0;0.2
+1604;091110 Geluidsapparatuur;Ondergrens 95%-interval;2015;42.0;
+1605;091110 Geluidsapparatuur;Ondergrens 95%-interval;2020;45.0;
+1606;091110 Geluidsapparatuur;Bovengrens 95%-interval;2015;44.0;
+1607;091110 Geluidsapparatuur;Bovengrens 95%-interval;2020;65.0;
+1608;091120 Televisies en videoapparatuur;Waarde;2015;58.0;0.2
+1609;091120 Televisies en videoapparatuur;Waarde;2020;107.0;0.3
+1610;091120 Televisies en videoapparatuur;Ondergrens 95%-interval;2015;57.0;
+1611;091120 Televisies en videoapparatuur;Ondergrens 95%-interval;2020;76.0;
+1612;091120 Televisies en videoapparatuur;Bovengrens 95%-interval;2015;58.0;
+1613;091120 Televisies en videoapparatuur;Bovengrens 95%-interval;2020;138.0;
+1614;091130 Draagbare audio en videospelers;Waarde;2015;;
+1615;091130 Draagbare audio en videospelers;Waarde;2020;3.0;0.0
+1616;091130 Draagbare audio en videospelers;Ondergrens 95%-interval;2015;;
+1617;091130 Draagbare audio en videospelers;Ondergrens 95%-interval;2020;0.0;
+1618;091130 Draagbare audio en videospelers;Bovengrens 95%-interval;2015;;
+1619;091130 Draagbare audio en videospelers;Bovengrens 95%-interval;2020;7.0;
+1620;091190 Hoofdtelefoons, e-readers ed.;Waarde;2015;;
+1621;091190 Hoofdtelefoons, e-readers ed.;Waarde;2020;25.0;0.1
+1622;091190 Hoofdtelefoons, e-readers ed.;Ondergrens 95%-interval;2015;;
+1623;091190 Hoofdtelefoons, e-readers ed.;Ondergrens 95%-interval;2020;20.0;
+1624;091190 Hoofdtelefoons, e-readers ed.;Bovengrens 95%-interval;2015;;
+1625;091190 Hoofdtelefoons, e-readers ed.;Bovengrens 95%-interval;2020;30.0;
+1626;091200 Foto-, film- en optische app.;Waarde;2015;33.0;0.1
+1627;091200 Foto-, film- en optische app.;Waarde;2020;28.0;0.1
+1628;091200 Foto-, film- en optische app.;Ondergrens 95%-interval;2015;23.0;
+1629;091200 Foto-, film- en optische app.;Ondergrens 95%-interval;2020;18.0;
+1630;091200 Foto-, film- en optische app.;Bovengrens 95%-interval;2015;44.0;
+1631;091200 Foto-, film- en optische app.;Bovengrens 95%-interval;2020;38.0;
+1632;091210 Camera's;Waarde;2015;23.0;0.1
+1633;091210 Camera's;Waarde;2020;20.0;0.1
+1634;091210 Camera's;Ondergrens 95%-interval;2015;23.0;
+1635;091210 Camera's;Ondergrens 95%-interval;2020;10.0;
+1636;091210 Camera's;Bovengrens 95%-interval;2015;23.0;
+1637;091210 Camera's;Bovengrens 95%-interval;2020;30.0;
+1638;091220 Accessoires voor foto- en film.;Waarde;2015;9.0;0.0
+1639;091220 Accessoires voor foto- en film.;Waarde;2020;5.0;0.0
+1640;091220 Accessoires voor foto- en film.;Ondergrens 95%-interval;2015;9.0;
+1641;091220 Accessoires voor foto- en film.;Ondergrens 95%-interval;2020;3.0;
+1642;091220 Accessoires voor foto- en film.;Bovengrens 95%-interval;2015;10.0;
+1643;091220 Accessoires voor foto- en film.;Bovengrens 95%-interval;2020;7.0;
+1644;091230 Optische instrumenten;Waarde;2015;1.0;0.0
+1645;091230 Optische instrumenten;Waarde;2020;3.0;0.0
+1646;091230 Optische instrumenten;Ondergrens 95%-interval;2015;1.0;
+1647;091230 Optische instrumenten;Ondergrens 95%-interval;2020;2.0;
+1648;091230 Optische instrumenten;Bovengrens 95%-interval;2015;1.0;
+1649;091230 Optische instrumenten;Bovengrens 95%-interval;2020;4.0;
+1650;091300 Gegevensverwerkende apparatuur;Waarde;2015;232.0;0.7
+1651;091300 Gegevensverwerkende apparatuur;Waarde;2020;289.0;0.8
+1652;091300 Gegevensverwerkende apparatuur;Ondergrens 95%-interval;2015;205.0;
+1653;091300 Gegevensverwerkende apparatuur;Ondergrens 95%-interval;2020;252.0;
+1654;091300 Gegevensverwerkende apparatuur;Bovengrens 95%-interval;2015;259.0;
+1655;091300 Gegevensverwerkende apparatuur;Bovengrens 95%-interval;2020;326.0;
+1656;091310 Personal computers;Waarde;2015;230.0;0.7
+1657;091310 Personal computers;Waarde;2020;182.0;0.5
+1658;091310 Personal computers;Ondergrens 95%-interval;2015;227.0;
+1659;091310 Personal computers;Ondergrens 95%-interval;2020;149.0;
+1660;091310 Personal computers;Bovengrens 95%-interval;2015;233.0;
+1661;091310 Personal computers;Bovengrens 95%-interval;2020;215.0;
+1662;091320 Accessoires voor computers;Waarde;2015;1.0;0.0
+1663;091320 Accessoires voor computers;Waarde;2020;85.0;0.2
+1664;091320 Accessoires voor computers;Ondergrens 95%-interval;2015;1.0;
+1665;091320 Accessoires voor computers;Ondergrens 95%-interval;2020;70.0;
+1666;091320 Accessoires voor computers;Bovengrens 95%-interval;2015;2.0;
+1667;091320 Accessoires voor computers;Bovengrens 95%-interval;2020;100.0;
+1668;091330 Software;Waarde;2015;1.0;0.0
+1669;091330 Software;Waarde;2020;20.0;0.1
+1670;091330 Software;Ondergrens 95%-interval;2015;0.0;
+1671;091330 Software;Ondergrens 95%-interval;2020;16.0;
+1672;091330 Software;Bovengrens 95%-interval;2015;1.0;
+1673;091330 Software;Bovengrens 95%-interval;2020;24.0;
+1674;091340 Rekenmachines ed.;Waarde;2015;;
+1675;091340 Rekenmachines ed.;Waarde;2020;2.0;0.0
+1676;091340 Rekenmachines ed.;Ondergrens 95%-interval;2015;;
+1677;091340 Rekenmachines ed.;Ondergrens 95%-interval;2020;1.0;
+1678;091340 Rekenmachines ed.;Bovengrens 95%-interval;2015;;
+1679;091340 Rekenmachines ed.;Bovengrens 95%-interval;2020;3.0;
+1680;091400 (On)bespeelde informatiedragers;Waarde;2015;30.0;0.1
+1681;091400 (On)bespeelde informatiedragers;Waarde;2020;24.0;0.1
+1682;091400 (On)bespeelde informatiedragers;Ondergrens 95%-interval;2015;25.0;
+1683;091400 (On)bespeelde informatiedragers;Ondergrens 95%-interval;2020;19.0;
+1684;091400 (On)bespeelde informatiedragers;Bovengrens 95%-interval;2015;35.0;
+1685;091400 (On)bespeelde informatiedragers;Bovengrens 95%-interval;2020;29.0;
+1686;091410 Voorbespeelde informatiedragers;Waarde;2015;26.0;0.1
+1687;091410 Voorbespeelde informatiedragers;Waarde;2020;13.0;0.0
+1688;091410 Voorbespeelde informatiedragers;Ondergrens 95%-interval;2015;24.0;
+1689;091410 Voorbespeelde informatiedragers;Ondergrens 95%-interval;2020;10.0;
+1690;091410 Voorbespeelde informatiedragers;Bovengrens 95%-interval;2015;29.0;
+1691;091410 Voorbespeelde informatiedragers;Bovengrens 95%-interval;2020;16.0;
+1692;091490 Overige beeld- en geluidsdragers;Waarde;2015;4.0;0.0
+1693;091490 Overige beeld- en geluidsdragers;Waarde;2020;10.0;0.0
+1694;091490 Overige beeld- en geluidsdragers;Ondergrens 95%-interval;2015;3.0;
+1695;091490 Overige beeld- en geluidsdragers;Ondergrens 95%-interval;2020;5.0;
+1696;091490 Overige beeld- en geluidsdragers;Bovengrens 95%-interval;2015;4.0;
+1697;091490 Overige beeld- en geluidsdragers;Bovengrens 95%-interval;2020;15.0;
+1698;091500 Reparatie van audio apparaten ed;Waarde;2015;3.0;0.0
+1699;091500 Reparatie van audio apparaten ed;Waarde;2020;4.0;0.0
+1700;091500 Reparatie van audio apparaten ed;Ondergrens 95%-interval;2015;1.0;
+1701;091500 Reparatie van audio apparaten ed;Ondergrens 95%-interval;2020;2.0;
+1702;091500 Reparatie van audio apparaten ed;Bovengrens 95%-interval;2015;4.0;
+1703;091500 Reparatie van audio apparaten ed;Bovengrens 95%-interval;2020;6.0;
+1704;092000 Goederen recreatie en cultuur;Waarde;2015;183.0;0.5
+1705;092000 Goederen recreatie en cultuur;Waarde;2020;217.0;0.6
+1706;092000 Goederen recreatie en cultuur;Ondergrens 95%-interval;2015;122.0;
+1707;092000 Goederen recreatie en cultuur;Ondergrens 95%-interval;2020;125.0;
+1708;092000 Goederen recreatie en cultuur;Bovengrens 95%-interval;2015;244.0;
+1709;092000 Goederen recreatie en cultuur;Bovengrens 95%-interval;2020;309.0;
+1710;092100 Goederen voor outdoor-recreatie;Waarde;2015;113.0;0.3
+1711;092100 Goederen voor outdoor-recreatie;Waarde;2020;137.0;0.4
+1712;092100 Goederen voor outdoor-recreatie;Ondergrens 95%-interval;2015;53.0;
+1713;092100 Goederen voor outdoor-recreatie;Ondergrens 95%-interval;2020;47.0;
+1714;092100 Goederen voor outdoor-recreatie;Bovengrens 95%-interval;2015;173.0;
+1715;092100 Goederen voor outdoor-recreatie;Bovengrens 95%-interval;2020;227.0;
+1716;092110 Kampeer- en aanhangwagens;Waarde;2015;56.0;0.2
+1717;092110 Kampeer- en aanhangwagens;Waarde;2020;61.0;0.2
+1718;092110 Kampeer- en aanhangwagens;Ondergrens 95%-interval;2015;44.0;
+1719;092110 Kampeer- en aanhangwagens;Ondergrens 95%-interval;2020;31.0;
+1720;092110 Kampeer- en aanhangwagens;Bovengrens 95%-interval;2015;67.0;
+1721;092110 Kampeer- en aanhangwagens;Bovengrens 95%-interval;2020;91.0;
+1722;092130 Boten en bootuitrusting;Waarde;2015;50.0;0.1
+1723;092130 Boten en bootuitrusting;Waarde;2020;67.0;0.2
+1724;092130 Boten en bootuitrusting;Ondergrens 95%-interval;2015;50.0;
+1725;092130 Boten en bootuitrusting;Ondergrens 95%-interval;2020;0.0;
+1726;092130 Boten en bootuitrusting;Bovengrens 95%-interval;2015;50.0;
+1727;092130 Boten en bootuitrusting;Bovengrens 95%-interval;2020;152.0;
+1728;092140 Paarden, pony's en accessoires;Waarde;2015;;
+1729;092140 Paarden, pony's en accessoires;Waarde;2020;5.0;0.0
+1730;092140 Paarden, pony's en accessoires;Ondergrens 95%-interval;2015;;
+1731;092140 Paarden, pony's en accessoires;Ondergrens 95%-interval;2020;0.0;
+1732;092140 Paarden, pony's en accessoires;Bovengrens 95%-interval;2015;;
+1733;092140 Paarden, pony's en accessoires;Bovengrens 95%-interval;2020;12.0;
+1734;092150 Grote sport- en spelartikelen;Waarde;2015;7.0;0.0
+1735;092150 Grote sport- en spelartikelen;Waarde;2020;4.0;0.0
+1736;092150 Grote sport- en spelartikelen;Ondergrens 95%-interval;2015;7.0;
+1737;092150 Grote sport- en spelartikelen;Ondergrens 95%-interval;2020;2.0;
+1738;092150 Grote sport- en spelartikelen;Bovengrens 95%-interval;2015;7.0;
+1739;092150 Grote sport- en spelartikelen;Bovengrens 95%-interval;2020;6.0;
+1740;092200 Goederen voor indoor-recreatie;Waarde;2015;20.0;0.1
+1741;092200 Goederen voor indoor-recreatie;Waarde;2020;30.0;0.1
+1742;092200 Goederen voor indoor-recreatie;Ondergrens 95%-interval;2015;10.0;
+1743;092200 Goederen voor indoor-recreatie;Ondergrens 95%-interval;2020;15.0;
+1744;092200 Goederen voor indoor-recreatie;Bovengrens 95%-interval;2015;30.0;
+1745;092200 Goederen voor indoor-recreatie;Bovengrens 95%-interval;2020;45.0;
+1746;092210 Muziekinstrumenten;Waarde;2015;20.0;0.1
+1747;092210 Muziekinstrumenten;Waarde;2020;27.0;0.1
+1748;092210 Muziekinstrumenten;Ondergrens 95%-interval;2015;19.0;
+1749;092210 Muziekinstrumenten;Ondergrens 95%-interval;2020;13.0;
+1750;092210 Muziekinstrumenten;Bovengrens 95%-interval;2015;21.0;
+1751;092210 Muziekinstrumenten;Bovengrens 95%-interval;2020;41.0;
+1752;092220 Grote goed. voor indoor recreatie;Waarde;2015;;
+1753;092220 Grote goed. voor indoor recreatie;Waarde;2020;3.0;0.0
+1754;092220 Grote goed. voor indoor recreatie;Ondergrens 95%-interval;2015;;
+1755;092220 Grote goed. voor indoor recreatie;Ondergrens 95%-interval;2020;0.0;
+1756;092220 Grote goed. voor indoor recreatie;Bovengrens 95%-interval;2015;;
+1757;092220 Grote goed. voor indoor recreatie;Bovengrens 95%-interval;2020;8.0;
+1758;092300 Onderhoud grote duurzame goed.;Waarde;2015;50.0;0.1
+1759;092300 Onderhoud grote duurzame goed.;Waarde;2020;50.0;0.1
+1760;092300 Onderhoud grote duurzame goed.;Ondergrens 95%-interval;2015;43.0;
+1761;092300 Onderhoud grote duurzame goed.;Ondergrens 95%-interval;2020;43.0;
+1762;092300 Onderhoud grote duurzame goed.;Bovengrens 95%-interval;2015;57.0;
+1763;092300 Onderhoud grote duurzame goed.;Bovengrens 95%-interval;2020;57.0;
+1764;093000 Spelart., planten en huisdieren;Waarde;2015;600.0;1.8
+1765;093000 Spelart., planten en huisdieren;Waarde;2020;782.0;2.2
+1766;093000 Spelart., planten en huisdieren;Ondergrens 95%-interval;2015;579.0;
+1767;093000 Spelart., planten en huisdieren;Ondergrens 95%-interval;2020;757.0;
+1768;093000 Spelart., planten en huisdieren;Bovengrens 95%-interval;2015;622.0;
+1769;093000 Spelart., planten en huisdieren;Bovengrens 95%-interval;2020;807.0;
+1770;093100 Spellen, speelgoed en hobby's;Waarde;2015;156.0;0.5
+1771;093100 Spellen, speelgoed en hobby's;Waarde;2020;217.0;0.6
+1772;093100 Spellen, speelgoed en hobby's;Ondergrens 95%-interval;2015;144.0;
+1773;093100 Spellen, speelgoed en hobby's;Ondergrens 95%-interval;2020;202.0;
+1774;093100 Spellen, speelgoed en hobby's;Bovengrens 95%-interval;2015;167.0;
+1775;093100 Spellen, speelgoed en hobby's;Bovengrens 95%-interval;2020;232.0;
+1776;093110 Spellen en hobby's;Waarde;2015;36.0;0.1
+1777;093110 Spellen en hobby's;Waarde;2020;55.0;0.2
+1778;093110 Spellen en hobby's;Ondergrens 95%-interval;2015;35.0;
+1779;093110 Spellen en hobby's;Ondergrens 95%-interval;2020;46.0;
+1780;093110 Spellen en hobby's;Bovengrens 95%-interval;2015;36.0;
+1781;093110 Spellen en hobby's;Bovengrens 95%-interval;2020;64.0;
+1782;093120 Speelgoed en feestartikelen;Waarde;2015;120.0;0.4
+1783;093120 Speelgoed en feestartikelen;Waarde;2020;162.0;0.5
+1784;093120 Speelgoed en feestartikelen;Ondergrens 95%-interval;2015;116.0;
+1785;093120 Speelgoed en feestartikelen;Ondergrens 95%-interval;2020;150.0;
+1786;093120 Speelgoed en feestartikelen;Bovengrens 95%-interval;2015;125.0;
+1787;093120 Speelgoed en feestartikelen;Bovengrens 95%-interval;2020;174.0;
+1788;093200 Sport- en kampeerartikelen.;Waarde;2015;66.0;0.2
+1789;093200 Sport- en kampeerartikelen.;Waarde;2020;77.0;0.2
+1790;093200 Sport- en kampeerartikelen.;Ondergrens 95%-interval;2015;55.0;
+1791;093200 Sport- en kampeerartikelen.;Ondergrens 95%-interval;2020;67.0;
+1792;093200 Sport- en kampeerartikelen.;Bovengrens 95%-interval;2015;77.0;
+1793;093200 Sport- en kampeerartikelen.;Bovengrens 95%-interval;2020;87.0;
+1794;093210 Sportartikelen;Waarde;2015;42.0;0.1
+1795;093210 Sportartikelen;Waarde;2020;53.0;0.2
+1796;093210 Sportartikelen;Ondergrens 95%-interval;2015;40.0;
+1797;093210 Sportartikelen;Ondergrens 95%-interval;2020;45.0;
+1798;093210 Sportartikelen;Bovengrens 95%-interval;2015;43.0;
+1799;093210 Sportartikelen;Bovengrens 95%-interval;2020;61.0;
+1800;093220 Kampeerartikelen.;Waarde;2015;24.0;0.1
+1801;093220 Kampeerartikelen.;Waarde;2020;24.0;0.1
+1802;093220 Kampeerartikelen.;Ondergrens 95%-interval;2015;23.0;
+1803;093220 Kampeerartikelen.;Ondergrens 95%-interval;2020;19.0;
+1804;093220 Kampeerartikelen.;Bovengrens 95%-interval;2015;25.0;
+1805;093220 Kampeerartikelen.;Bovengrens 95%-interval;2020;29.0;
+1806;093230 Rep. sport- en kampeerartikelen;Waarde;2015;1.0;0.0
+1807;093230 Rep. sport- en kampeerartikelen;Waarde;2020;0.0;0.0
+1808;093230 Rep. sport- en kampeerartikelen;Ondergrens 95%-interval;2015;1.0;
+1809;093230 Rep. sport- en kampeerartikelen;Ondergrens 95%-interval;2020;0.0;
+1810;093230 Rep. sport- en kampeerartikelen;Bovengrens 95%-interval;2015;1.0;
+1811;093230 Rep. sport- en kampeerartikelen;Bovengrens 95%-interval;2020;0.0;
+1812;093300 Tuinen, planten en bloemen;Waarde;2015;190.0;0.6
+1813;093300 Tuinen, planten en bloemen;Waarde;2020;254.0;0.7
+1814;093300 Tuinen, planten en bloemen;Ondergrens 95%-interval;2015;182.0;
+1815;093300 Tuinen, planten en bloemen;Ondergrens 95%-interval;2020;243.0;
+1816;093300 Tuinen, planten en bloemen;Bovengrens 95%-interval;2015;198.0;
+1817;093300 Tuinen, planten en bloemen;Bovengrens 95%-interval;2020;265.0;
+1818;093310 Tuinproducten;Waarde;2015;20.0;0.1
+1819;093310 Tuinproducten;Waarde;2020;33.0;0.1
+1820;093310 Tuinproducten;Ondergrens 95%-interval;2015;18.0;
+1821;093310 Tuinproducten;Ondergrens 95%-interval;2020;30.0;
+1822;093310 Tuinproducten;Bovengrens 95%-interval;2015;23.0;
+1823;093310 Tuinproducten;Bovengrens 95%-interval;2020;36.0;
+1824;093320 Planten en bloemen;Waarde;2015;170.0;0.5
+1825;093320 Planten en bloemen;Waarde;2020;222.0;0.6
+1826;093320 Planten en bloemen;Ondergrens 95%-interval;2015;163.0;
+1827;093320 Planten en bloemen;Ondergrens 95%-interval;2020;212.0;
+1828;093320 Planten en bloemen;Bovengrens 95%-interval;2015;176.0;
+1829;093320 Planten en bloemen;Bovengrens 95%-interval;2020;232.0;
+1830;093400 (Producten voor) huisdieren;Waarde;2015;151.0;0.4
+1831;093400 (Producten voor) huisdieren;Waarde;2020;189.0;0.5
+1832;093400 (Producten voor) huisdieren;Ondergrens 95%-interval;2015;142.0;
+1833;093400 (Producten voor) huisdieren;Ondergrens 95%-interval;2020;177.0;
+1834;093400 (Producten voor) huisdieren;Bovengrens 95%-interval;2015;160.0;
+1835;093400 (Producten voor) huisdieren;Bovengrens 95%-interval;2020;201.0;
+1836;093410 Aanschaf van huisdieren;Waarde;2015;11.0;0.0
+1837;093410 Aanschaf van huisdieren;Waarde;2020;14.0;0.0
+1838;093410 Aanschaf van huisdieren;Ondergrens 95%-interval;2015;11.0;
+1839;093410 Aanschaf van huisdieren;Ondergrens 95%-interval;2020;9.0;
+1840;093410 Aanschaf van huisdieren;Bovengrens 95%-interval;2015;12.0;
+1841;093410 Aanschaf van huisdieren;Bovengrens 95%-interval;2020;19.0;
+1842;093420 Producten voor huisdieren;Waarde;2015;139.0;0.4
+1843;093420 Producten voor huisdieren;Waarde;2020;174.0;0.5
+1844;093420 Producten voor huisdieren;Ondergrens 95%-interval;2015;135.0;
+1845;093420 Producten voor huisdieren;Ondergrens 95%-interval;2020;164.0;
+1846;093420 Producten voor huisdieren;Bovengrens 95%-interval;2015;144.0;
+1847;093420 Producten voor huisdieren;Bovengrens 95%-interval;2020;184.0;
+1848;093500 Diensten voor huisdieren;Waarde;2015;38.0;0.1
+1849;093500 Diensten voor huisdieren;Waarde;2020;44.0;0.1
+1850;093500 Diensten voor huisdieren;Ondergrens 95%-interval;2015;32.0;
+1851;093500 Diensten voor huisdieren;Ondergrens 95%-interval;2020;37.0;
+1852;093500 Diensten voor huisdieren;Bovengrens 95%-interval;2015;43.0;
+1853;093500 Diensten voor huisdieren;Bovengrens 95%-interval;2020;51.0;
+1854;094000 Diensten voor recr. en cultuur;Waarde;2015;1252.0;3.7
+1855;094000 Diensten voor recr. en cultuur;Waarde;2020;928.0;2.6
+1856;094000 Diensten voor recr. en cultuur;Ondergrens 95%-interval;2015;1230.0;
+1857;094000 Diensten voor recr. en cultuur;Ondergrens 95%-interval;2020;908.0;
+1858;094000 Diensten voor recr. en cultuur;Bovengrens 95%-interval;2015;1275.0;
+1859;094000 Diensten voor recr. en cultuur;Bovengrens 95%-interval;2020;948.0;
+1860;094100 Diensten voor recreatie en sport;Waarde;2015;842.0;2.5
+1861;094100 Diensten voor recreatie en sport;Waarde;2020;565.0;1.6
+1862;094100 Diensten voor recreatie en sport;Ondergrens 95%-interval;2015;824.0;
+1863;094100 Diensten voor recreatie en sport;Ondergrens 95%-interval;2020;548.0;
+1864;094100 Diensten voor recreatie en sport;Bovengrens 95%-interval;2015;860.0;
+1865;094100 Diensten voor recreatie en sport;Bovengrens 95%-interval;2020;582.0;
+1866;094110 Entree attracties en evenementen;Waarde;2015;66.0;0.2
+1867;094110 Entree attracties en evenementen;Waarde;2020;54.0;0.2
+1868;094110 Entree attracties en evenementen;Ondergrens 95%-interval;2015;64.0;
+1869;094110 Entree attracties en evenementen;Ondergrens 95%-interval;2020;47.0;
+1870;094110 Entree attracties en evenementen;Bovengrens 95%-interval;2015;68.0;
+1871;094110 Entree attracties en evenementen;Bovengrens 95%-interval;2020;61.0;
+1872;094120 Deelname aan recreatie en sport;Waarde;2015;437.0;1.3
+1873;094120 Deelname aan recreatie en sport;Waarde;2020;154.0;0.4
+1874;094120 Deelname aan recreatie en sport;Ondergrens 95%-interval;2015;427.0;
+1875;094120 Deelname aan recreatie en sport;Ondergrens 95%-interval;2020;141.0;
+1876;094120 Deelname aan recreatie en sport;Bovengrens 95%-interval;2015;447.0;
+1877;094120 Deelname aan recreatie en sport;Bovengrens 95%-interval;2020;167.0;
+1878;094130 Contributie sportverenigingen.;Waarde;2015;339.0;1.0
+1879;094130 Contributie sportverenigingen.;Waarde;2020;358.0;1.0
+1880;094130 Contributie sportverenigingen.;Ondergrens 95%-interval;2015;331.0;
+1881;094130 Contributie sportverenigingen.;Ondergrens 95%-interval;2020;350.0;
+1882;094130 Contributie sportverenigingen.;Bovengrens 95%-interval;2015;347.0;
+1883;094130 Contributie sportverenigingen.;Bovengrens 95%-interval;2020;366.0;
+1884;094200 Culturele diensten;Waarde;2015;256.0;0.8
+1885;094200 Culturele diensten;Waarde;2020;201.0;0.6
+1886;094200 Culturele diensten;Ondergrens 95%-interval;2015;245.0;
+1887;094200 Culturele diensten;Ondergrens 95%-interval;2020;192.0;
+1888;094200 Culturele diensten;Bovengrens 95%-interval;2015;266.0;
+1889;094200 Culturele diensten;Bovengrens 95%-interval;2020;210.0;
+1890;094210 Bioscopen, theaters en concerten;Waarde;2015;113.0;0.3
+1891;094210 Bioscopen, theaters en concerten;Waarde;2020;54.0;0.2
+1892;094210 Bioscopen, theaters en concerten;Ondergrens 95%-interval;2015;110.0;
+1893;094210 Bioscopen, theaters en concerten;Ondergrens 95%-interval;2020;48.0;
+1894;094210 Bioscopen, theaters en concerten;Bovengrens 95%-interval;2015;116.0;
+1895;094210 Bioscopen, theaters en concerten;Bovengrens 95%-interval;2020;60.0;
+1896;094220 Musea, bibliotheken, dierentuinen;Waarde;2015;73.0;0.2
+1897;094220 Musea, bibliotheken, dierentuinen;Waarde;2020;37.0;0.1
+1898;094220 Musea, bibliotheken, dierentuinen;Ondergrens 95%-interval;2015;70.0;
+1899;094220 Musea, bibliotheken, dierentuinen;Ondergrens 95%-interval;2020;33.0;
+1900;094220 Musea, bibliotheken, dierentuinen;Bovengrens 95%-interval;2015;76.0;
+1901;094220 Musea, bibliotheken, dierentuinen;Bovengrens 95%-interval;2020;41.0;
+1902;094230 Televisieabonnementen.;Waarde;2015;43.0;0.1
+1903;094230 Televisieabonnementen.;Waarde;2020;64.0;0.2
+1904;094230 Televisieabonnementen.;Ondergrens 95%-interval;2015;40.0;
+1905;094230 Televisieabonnementen.;Ondergrens 95%-interval;2020;61.0;
+1906;094230 Televisieabonnementen.;Bovengrens 95%-interval;2015;45.0;
+1907;094230 Televisieabonnementen.;Bovengrens 95%-interval;2020;67.0;
+1908;094240 Huur van materiaal voor cultuur;Waarde;2015;2.0;0.0
+1909;094240 Huur van materiaal voor cultuur;Waarde;2020;0.0;0.0
+1910;094240 Huur van materiaal voor cultuur;Ondergrens 95%-interval;2015;1.0;
+1911;094240 Huur van materiaal voor cultuur;Ondergrens 95%-interval;2020;0.0;
+1912;094240 Huur van materiaal voor cultuur;Bovengrens 95%-interval;2015;2.0;
+1913;094240 Huur van materiaal voor cultuur;Bovengrens 95%-interval;2020;0.0;
+1914;094250 Fotografische diensten;Waarde;2015;25.0;0.1
+1915;094250 Fotografische diensten;Waarde;2020;24.0;0.1
+1916;094250 Fotografische diensten;Ondergrens 95%-interval;2015;23.0;
+1917;094250 Fotografische diensten;Ondergrens 95%-interval;2020;20.0;
+1918;094250 Fotografische diensten;Bovengrens 95%-interval;2015;26.0;
+1919;094250 Fotografische diensten;Bovengrens 95%-interval;2020;28.0;
+1920;094290 Overige culturele diensten;Waarde;2015;0.0;0.0
+1921;094290 Overige culturele diensten;Waarde;2020;21.0;0.1
+1922;094290 Overige culturele diensten;Ondergrens 95%-interval;2015;0.0;
+1923;094290 Overige culturele diensten;Ondergrens 95%-interval;2020;17.0;
+1924;094290 Overige culturele diensten;Bovengrens 95%-interval;2015;0.0;
+1925;094290 Overige culturele diensten;Bovengrens 95%-interval;2020;25.0;
+1926;094300 Kansspelen;Waarde;2015;155.0;0.5
+1927;094300 Kansspelen;Waarde;2020;161.0;0.5
+1928;094300 Kansspelen;Ondergrens 95%-interval;2015;147.0;
+1929;094300 Kansspelen;Ondergrens 95%-interval;2020;155.0;
+1930;094300 Kansspelen;Bovengrens 95%-interval;2015;163.0;
+1931;094300 Kansspelen;Bovengrens 95%-interval;2020;167.0;
+1932;095000 Kranten, boeken en schrijfwaren;Waarde;2015;382.0;1.1
+1933;095000 Kranten, boeken en schrijfwaren;Waarde;2020;427.0;1.2
+1934;095000 Kranten, boeken en schrijfwaren;Ondergrens 95%-interval;2015;372.0;
+1935;095000 Kranten, boeken en schrijfwaren;Ondergrens 95%-interval;2020;415.0;
+1936;095000 Kranten, boeken en schrijfwaren;Bovengrens 95%-interval;2015;392.0;
+1937;095000 Kranten, boeken en schrijfwaren;Bovengrens 95%-interval;2020;439.0;
+1938;095100 Boeken;Waarde;2015;127.0;0.4
+1939;095100 Boeken;Waarde;2020;120.0;0.3
+1940;095100 Boeken;Ondergrens 95%-interval;2015;119.0;
+1941;095100 Boeken;Ondergrens 95%-interval;2020;113.0;
+1942;095100 Boeken;Bovengrens 95%-interval;2015;134.0;
+1943;095100 Boeken;Bovengrens 95%-interval;2020;127.0;
+1944;095110 Fictieboeken;Waarde;2015;93.0;0.3
+1945;095110 Fictieboeken;Waarde;2020;97.0;0.3
+1946;095110 Fictieboeken;Ondergrens 95%-interval;2015;89.0;
+1947;095110 Fictieboeken;Ondergrens 95%-interval;2020;91.0;
+1948;095110 Fictieboeken;Bovengrens 95%-interval;2015;98.0;
+1949;095110 Fictieboeken;Bovengrens 95%-interval;2020;103.0;
+1950;095120 Studieboeken;Waarde;2015;33.0;0.1
+1951;095120 Studieboeken;Waarde;2020;23.0;0.1
+1952;095120 Studieboeken;Ondergrens 95%-interval;2015;32.0;
+1953;095120 Studieboeken;Ondergrens 95%-interval;2020;19.0;
+1954;095120 Studieboeken;Bovengrens 95%-interval;2015;35.0;
+1955;095120 Studieboeken;Bovengrens 95%-interval;2020;27.0;
+1956;095200 Kranten en tijdschriften;Waarde;2015;183.0;0.5
+1957;095200 Kranten en tijdschriften;Waarde;2020;194.0;0.6
+1958;095200 Kranten en tijdschriften;Ondergrens 95%-interval;2015;179.0;
+1959;095200 Kranten en tijdschriften;Ondergrens 95%-interval;2020;189.0;
+1960;095200 Kranten en tijdschriften;Bovengrens 95%-interval;2015;187.0;
+1961;095200 Kranten en tijdschriften;Bovengrens 95%-interval;2020;199.0;
+1962;095210 Kranten;Waarde;2015;160.0;0.5
+1963;095210 Kranten;Waarde;2020;173.0;0.5
+1964;095210 Kranten;Ondergrens 95%-interval;2015;156.0;
+1965;095210 Kranten;Ondergrens 95%-interval;2020;168.0;
+1966;095210 Kranten;Bovengrens 95%-interval;2015;164.0;
+1967;095210 Kranten;Bovengrens 95%-interval;2020;178.0;
+1968;095220 Tijdschriften;Waarde;2015;23.0;0.1
+1969;095220 Tijdschriften;Waarde;2020;20.0;0.1
+1970;095220 Tijdschriften;Ondergrens 95%-interval;2015;21.0;
+1971;095220 Tijdschriften;Ondergrens 95%-interval;2020;18.0;
+1972;095220 Tijdschriften;Bovengrens 95%-interval;2015;25.0;
+1973;095220 Tijdschriften;Bovengrens 95%-interval;2020;22.0;
+1974;095300 Divers drukwerk;Waarde;2015;34.0;0.1
+1975;095300 Divers drukwerk;Waarde;2020;39.0;0.1
+1976;095300 Divers drukwerk;Ondergrens 95%-interval;2015;31.0;
+1977;095300 Divers drukwerk;Ondergrens 95%-interval;2020;35.0;
+1978;095300 Divers drukwerk;Bovengrens 95%-interval;2015;36.0;
+1979;095300 Divers drukwerk;Bovengrens 95%-interval;2020;43.0;
+1980;095400 Schrijfwaren en tekenartikelen;Waarde;2015;39.0;0.1
+1981;095400 Schrijfwaren en tekenartikelen;Waarde;2020;75.0;0.2
+1982;095400 Schrijfwaren en tekenartikelen;Ondergrens 95%-interval;2015;35.0;
+1983;095400 Schrijfwaren en tekenartikelen;Ondergrens 95%-interval;2020;69.0;
+1984;095400 Schrijfwaren en tekenartikelen;Bovengrens 95%-interval;2015;42.0;
+1985;095400 Schrijfwaren en tekenartikelen;Bovengrens 95%-interval;2020;81.0;
+1986;095410 Producten van papier;Waarde;2015;11.0;0.0
+1987;095410 Producten van papier;Waarde;2020;13.0;0.0
+1988;095410 Producten van papier;Ondergrens 95%-interval;2015;9.0;
+1989;095410 Producten van papier;Ondergrens 95%-interval;2020;11.0;
+1990;095410 Producten van papier;Bovengrens 95%-interval;2015;12.0;
+1991;095410 Producten van papier;Bovengrens 95%-interval;2020;15.0;
+1992;095490 Ov. schrijf- en tekenartikelen;Waarde;2015;28.0;0.1
+1993;095490 Ov. schrijf- en tekenartikelen;Waarde;2020;62.0;0.2
+1994;095490 Ov. schrijf- en tekenartikelen;Ondergrens 95%-interval;2015;26.0;
+1995;095490 Ov. schrijf- en tekenartikelen;Ondergrens 95%-interval;2020;56.0;
+1996;095490 Ov. schrijf- en tekenartikelen;Bovengrens 95%-interval;2015;31.0;
+1997;095490 Ov. schrijf- en tekenartikelen;Bovengrens 95%-interval;2020;68.0;
+1998;096000 Pakketreizen;Waarde;2015;441.0;1.3
+1999;096000 Pakketreizen;Waarde;2020;133.0;0.4
+2000;096000 Pakketreizen;Ondergrens 95%-interval;2015;414.0;
+2001;096000 Pakketreizen;Ondergrens 95%-interval;2020;118.0;
+2002;096000 Pakketreizen;Bovengrens 95%-interval;2015;468.0;
+2003;096000 Pakketreizen;Bovengrens 95%-interval;2020;148.0;
+2004;096010 Binnenlandse pakketreizen;Waarde;2015;17.0;0.1
+2005;096010 Binnenlandse pakketreizen;Waarde;2020;30.0;0.1
+2006;096010 Binnenlandse pakketreizen;Ondergrens 95%-interval;2015;14.0;
+2007;096010 Binnenlandse pakketreizen;Ondergrens 95%-interval;2020;25.0;
+2008;096010 Binnenlandse pakketreizen;Bovengrens 95%-interval;2015;20.0;
+2009;096010 Binnenlandse pakketreizen;Bovengrens 95%-interval;2020;35.0;
+2010;096020 Pakketreizen naar het buitenland;Waarde;2015;424.0;1.3
+2011;096020 Pakketreizen naar het buitenland;Waarde;2020;102.0;0.3
+2012;096020 Pakketreizen naar het buitenland;Ondergrens 95%-interval;2015;397.0;
+2013;096020 Pakketreizen naar het buitenland;Ondergrens 95%-interval;2020;88.0;
+2014;096020 Pakketreizen naar het buitenland;Bovengrens 95%-interval;2015;451.0;
+2015;096020 Pakketreizen naar het buitenland;Bovengrens 95%-interval;2020;116.0;
+2016;100000 Onderwijs;Waarde;2015;454.0;1.3
+2017;100000 Onderwijs;Waarde;2020;440.0;1.2
+2018;100000 Onderwijs;Ondergrens 95%-interval;2015;431.0;
+2019;100000 Onderwijs;Ondergrens 95%-interval;2020;417.0;
+2020;100000 Onderwijs;Bovengrens 95%-interval;2015;477.0;
+2021;100000 Onderwijs;Bovengrens 95%-interval;2020;463.0;
+2022;101000 Kleuter- en primair onderwijs;Waarde;2015;21.0;0.1
+2023;101000 Kleuter- en primair onderwijs;Waarde;2020;16.0;0.0
+2024;101000 Kleuter- en primair onderwijs;Ondergrens 95%-interval;2015;19.0;
+2025;101000 Kleuter- en primair onderwijs;Ondergrens 95%-interval;2020;14.0;
+2026;101000 Kleuter- en primair onderwijs;Bovengrens 95%-interval;2015;23.0;
+2027;101000 Kleuter- en primair onderwijs;Bovengrens 95%-interval;2020;18.0;
+2028;101020 Primair onderwijs;Waarde;2015;21.0;0.1
+2029;101020 Primair onderwijs;Waarde;2020;16.0;0.0
+2030;101020 Primair onderwijs;Ondergrens 95%-interval;2015;20.0;
+2031;101020 Primair onderwijs;Ondergrens 95%-interval;2020;14.0;
+2032;101020 Primair onderwijs;Bovengrens 95%-interval;2015;22.0;
+2033;101020 Primair onderwijs;Bovengrens 95%-interval;2020;18.0;
+2034;102000 Secundair onderwijs;Waarde;2015;16.0;0.0
+2035;102000 Secundair onderwijs;Waarde;2020;0.0;0.0
+2036;102000 Secundair onderwijs;Ondergrens 95%-interval;2015;12.0;
+2037;102000 Secundair onderwijs;Ondergrens 95%-interval;2020;0.0;
+2038;102000 Secundair onderwijs;Bovengrens 95%-interval;2015;19.0;
+2039;102000 Secundair onderwijs;Bovengrens 95%-interval;2020;0.0;
+2040;104000 Tertiair onderwijs;Waarde;2015;314.0;0.9
+2041;104000 Tertiair onderwijs;Waarde;2020;328.0;0.9
+2042;104000 Tertiair onderwijs;Ondergrens 95%-interval;2015;297.0;
+2043;104000 Tertiair onderwijs;Ondergrens 95%-interval;2020;307.0;
+2044;104000 Tertiair onderwijs;Bovengrens 95%-interval;2015;331.0;
+2045;104000 Tertiair onderwijs;Bovengrens 95%-interval;2020;349.0;
+2046;105000 Ander onderwijs;Waarde;2015;104.0;0.3
+2047;105000 Ander onderwijs;Waarde;2020;96.0;0.3
+2048;105000 Ander onderwijs;Ondergrens 95%-interval;2015;98.0;
+2049;105000 Ander onderwijs;Ondergrens 95%-interval;2020;87.0;
+2050;105000 Ander onderwijs;Bovengrens 95%-interval;2015;109.0;
+2051;105000 Ander onderwijs;Bovengrens 95%-interval;2020;105.0;
+2052;110000 Restaurants en hotels;Waarde;2015;1994.0;5.9
+2053;110000 Restaurants en hotels;Waarde;2020;1651.0;4.7
+2054;110000 Restaurants en hotels;Ondergrens 95%-interval;2015;1957.0;
+2055;110000 Restaurants en hotels;Ondergrens 95%-interval;2020;1616.0;
+2056;110000 Restaurants en hotels;Bovengrens 95%-interval;2015;2032.0;
+2057;110000 Restaurants en hotels;Bovengrens 95%-interval;2020;1686.0;
+2058;111000 Catering diensten;Waarde;2015;1455.0;4.3
+2059;111000 Catering diensten;Waarde;2020;1123.0;3.2
+2060;111000 Catering diensten;Ondergrens 95%-interval;2015;1424.0;
+2061;111000 Catering diensten;Ondergrens 95%-interval;2020;1096.0;
+2062;111000 Catering diensten;Bovengrens 95%-interval;2015;1486.0;
+2063;111000 Catering diensten;Bovengrens 95%-interval;2020;1150.0;
+2064;111100 Restaurants, cafés en dergelijke;Waarde;2015;1455.0;4.3
+2065;111100 Restaurants, cafés en dergelijke;Waarde;2020;1122.0;3.2
+2066;111100 Restaurants, cafés en dergelijke;Ondergrens 95%-interval;2015;1424.0;
+2067;111100 Restaurants, cafés en dergelijke;Ondergrens 95%-interval;2020;1095.0;
+2068;111100 Restaurants, cafés en dergelijke;Bovengrens 95%-interval;2015;1486.0;
+2069;111100 Restaurants, cafés en dergelijke;Bovengrens 95%-interval;2020;1149.0;
+2070;111110 Restaurants, cafés en dancings;Waarde;2015;1435.0;4.3
+2071;111110 Restaurants, cafés en dancings;Waarde;2020;1017.0;2.9
+2072;111110 Restaurants, cafés en dancings;Ondergrens 95%-interval;2015;1418.0;
+2073;111110 Restaurants, cafés en dancings;Ondergrens 95%-interval;2020;991.0;
+2074;111110 Restaurants, cafés en dancings;Bovengrens 95%-interval;2015;1452.0;
+2075;111110 Restaurants, cafés en dancings;Bovengrens 95%-interval;2020;1043.0;
+2076;111120 Fastfood en afhaalmaaltijden;Waarde;2015;20.0;0.1
+2077;111120 Fastfood en afhaalmaaltijden;Waarde;2020;104.0;0.3
+2078;111120 Fastfood en afhaalmaaltijden;Ondergrens 95%-interval;2015;18.0;
+2079;111120 Fastfood en afhaalmaaltijden;Ondergrens 95%-interval;2020;98.0;
+2080;111120 Fastfood en afhaalmaaltijden;Bovengrens 95%-interval;2015;22.0;
+2081;111120 Fastfood en afhaalmaaltijden;Bovengrens 95%-interval;2020;110.0;
+2082;111200 Kantines;Waarde;2015;;
+2083;111200 Kantines;Waarde;2020;1.0;0.0
+2084;111200 Kantines;Ondergrens 95%-interval;2015;;
+2085;111200 Kantines;Ondergrens 95%-interval;2020;0.0;
+2086;111200 Kantines;Bovengrens 95%-interval;2015;;
+2087;111200 Kantines;Bovengrens 95%-interval;2020;2.0;
+2088;112000 Accommodaties;Waarde;2015;539.0;1.6
+2089;112000 Accommodaties;Waarde;2020;529.0;1.5
+2090;112000 Accommodaties;Ondergrens 95%-interval;2015;523.0;
+2091;112000 Accommodaties;Ondergrens 95%-interval;2020;509.0;
+2092;112000 Accommodaties;Bovengrens 95%-interval;2015;556.0;
+2093;112000 Accommodaties;Bovengrens 95%-interval;2020;549.0;
+2094;112010 Hotels, motels, herbergen e.d.;Waarde;2015;258.0;0.8
+2095;112010 Hotels, motels, herbergen e.d.;Waarde;2020;238.0;0.7
+2096;112010 Hotels, motels, herbergen e.d.;Ondergrens 95%-interval;2015;248.0;
+2097;112010 Hotels, motels, herbergen e.d.;Ondergrens 95%-interval;2020;225.0;
+2098;112010 Hotels, motels, herbergen e.d.;Bovengrens 95%-interval;2015;268.0;
+2099;112010 Hotels, motels, herbergen e.d.;Bovengrens 95%-interval;2020;251.0;
+2100;112020 Bungalowparken,campings, e.d.;Waarde;2015;282.0;0.8
+2101;112020 Bungalowparken,campings, e.d.;Waarde;2020;286.0;0.8
+2102;112020 Bungalowparken,campings, e.d.;Ondergrens 95%-interval;2015;272.0;
+2103;112020 Bungalowparken,campings, e.d.;Ondergrens 95%-interval;2020;271.0;
+2104;112020 Bungalowparken,campings, e.d.;Bovengrens 95%-interval;2015;291.0;
+2105;112020 Bungalowparken,campings, e.d.;Bovengrens 95%-interval;2020;301.0;
+2106;112030 Overige accommodatiediensten;Waarde;2015;;
+2107;112030 Overige accommodatiediensten;Waarde;2020;5.0;0.0
+2108;112030 Overige accommodatiediensten;Ondergrens 95%-interval;2015;;
+2109;112030 Overige accommodatiediensten;Ondergrens 95%-interval;2020;0.0;
+2110;112030 Overige accommodatiediensten;Bovengrens 95%-interval;2015;;
+2111;112030 Overige accommodatiediensten;Bovengrens 95%-interval;2020;10.0;
+2112;120000 Diverse goederen en diensten;Waarde;2015;2586.0;7.7
+2113;120000 Diverse goederen en diensten;Waarde;2020;2677.0;7.6
+2114;120000 Diverse goederen en diensten;Ondergrens 95%-interval;2015;2539.0;
+2115;120000 Diverse goederen en diensten;Ondergrens 95%-interval;2020;2628.0;
+2116;120000 Diverse goederen en diensten;Bovengrens 95%-interval;2015;2634.0;
+2117;120000 Diverse goederen en diensten;Bovengrens 95%-interval;2020;2726.0;
+2118;121000 Persoonlijke verzorging;Waarde;2015;710.0;2.1
+2119;121000 Persoonlijke verzorging;Waarde;2020;719.0;2.0
+2120;121000 Persoonlijke verzorging;Ondergrens 95%-interval;2015;693.0;
+2121;121000 Persoonlijke verzorging;Ondergrens 95%-interval;2020;701.0;
+2122;121000 Persoonlijke verzorging;Bovengrens 95%-interval;2015;727.0;
+2123;121000 Persoonlijke verzorging;Bovengrens 95%-interval;2020;737.0;
+2124;121100 Kappers en schoonheidssalons;Waarde;2015;268.0;0.8
+2125;121100 Kappers en schoonheidssalons;Waarde;2020;239.0;0.7
+2126;121100 Kappers en schoonheidssalons;Ondergrens 95%-interval;2015;257.0;
+2127;121100 Kappers en schoonheidssalons;Ondergrens 95%-interval;2020;229.0;
+2128;121100 Kappers en schoonheidssalons;Bovengrens 95%-interval;2015;278.0;
+2129;121100 Kappers en schoonheidssalons;Bovengrens 95%-interval;2020;249.0;
+2130;121110 Heren- en kinderkappers;Waarde;2015;44.0;0.1
+2131;121110 Heren- en kinderkappers;Waarde;2020;43.0;0.1
+2132;121110 Heren- en kinderkappers;Ondergrens 95%-interval;2015;42.0;
+2133;121110 Heren- en kinderkappers;Ondergrens 95%-interval;2020;39.0;
+2134;121110 Heren- en kinderkappers;Bovengrens 95%-interval;2015;47.0;
+2135;121110 Heren- en kinderkappers;Bovengrens 95%-interval;2020;47.0;
+2136;121120 Dameskappers;Waarde;2015;142.0;0.4
+2137;121120 Dameskappers;Waarde;2020;119.0;0.3
+2138;121120 Dameskappers;Ondergrens 95%-interval;2015;139.0;
+2139;121120 Dameskappers;Ondergrens 95%-interval;2020;112.0;
+2140;121120 Dameskappers;Bovengrens 95%-interval;2015;145.0;
+2141;121120 Dameskappers;Bovengrens 95%-interval;2020;126.0;
+2142;121130 Schoonheidsbehandelingen;Waarde;2015;81.0;0.2
+2143;121130 Schoonheidsbehandelingen;Waarde;2020;76.0;0.2
+2144;121130 Schoonheidsbehandelingen;Ondergrens 95%-interval;2015;80.0;
+2145;121130 Schoonheidsbehandelingen;Ondergrens 95%-interval;2020;70.0;
+2146;121130 Schoonheidsbehandelingen;Bovengrens 95%-interval;2015;83.0;
+2147;121130 Schoonheidsbehandelingen;Bovengrens 95%-interval;2020;82.0;
+2148;121200 Elektr. app. lichaamsverzorging;Waarde;2015;17.0;0.1
+2149;121200 Elektr. app. lichaamsverzorging;Waarde;2020;24.0;0.1
+2150;121200 Elektr. app. lichaamsverzorging;Ondergrens 95%-interval;2015;15.0;
+2151;121200 Elektr. app. lichaamsverzorging;Ondergrens 95%-interval;2020;20.0;
+2152;121200 Elektr. app. lichaamsverzorging;Bovengrens 95%-interval;2015;20.0;
+2153;121200 Elektr. app. lichaamsverzorging;Bovengrens 95%-interval;2020;28.0;
+2154;121210 Elektr. app. lichaamsverzorging;Waarde;2015;17.0;0.1
+2155;121210 Elektr. app. lichaamsverzorging;Waarde;2020;23.0;0.1
+2156;121210 Elektr. app. lichaamsverzorging;Ondergrens 95%-interval;2015;16.0;
+2157;121210 Elektr. app. lichaamsverzorging;Ondergrens 95%-interval;2020;19.0;
+2158;121210 Elektr. app. lichaamsverzorging;Bovengrens 95%-interval;2015;18.0;
+2159;121210 Elektr. app. lichaamsverzorging;Bovengrens 95%-interval;2020;27.0;
+2160;121300 Ov. prod. lichaamsverzorging;Waarde;2015;425.0;1.3
+2161;121300 Ov. prod. lichaamsverzorging;Waarde;2020;457.0;1.3
+2162;121300 Ov. prod. lichaamsverzorging;Ondergrens 95%-interval;2015;413.0;
+2163;121300 Ov. prod. lichaamsverzorging;Ondergrens 95%-interval;2020;443.0;
+2164;121300 Ov. prod. lichaamsverzorging;Bovengrens 95%-interval;2015;437.0;
+2165;121300 Ov. prod. lichaamsverzorging;Bovengrens 95%-interval;2020;471.0;
+2166;121310 Niet-elektrische apparaten;Waarde;2015;18.0;0.1
+2167;121310 Niet-elektrische apparaten;Waarde;2020;20.0;0.1
+2168;121310 Niet-elektrische apparaten;Ondergrens 95%-interval;2015;16.0;
+2169;121310 Niet-elektrische apparaten;Ondergrens 95%-interval;2020;18.0;
+2170;121310 Niet-elektrische apparaten;Bovengrens 95%-interval;2015;19.0;
+2171;121310 Niet-elektrische apparaten;Bovengrens 95%-interval;2020;22.0;
+2172;121320 Lichaamsverzorging, parfum e.d.;Waarde;2015;407.0;1.2
+2173;121320 Lichaamsverzorging, parfum e.d.;Waarde;2020;437.0;1.2
+2174;121320 Lichaamsverzorging, parfum e.d.;Ondergrens 95%-interval;2015;398.0;
+2175;121320 Lichaamsverzorging, parfum e.d.;Ondergrens 95%-interval;2020;423.0;
+2176;121320 Lichaamsverzorging, parfum e.d.;Bovengrens 95%-interval;2015;417.0;
+2177;121320 Lichaamsverzorging, parfum e.d.;Bovengrens 95%-interval;2020;451.0;
+2178;123000 Goederen voor persoonlijk gebruik;Waarde;2015;126.0;0.4
+2179;123000 Goederen voor persoonlijk gebruik;Waarde;2020;142.0;0.4
+2180;123000 Goederen voor persoonlijk gebruik;Ondergrens 95%-interval;2015;113.0;
+2181;123000 Goederen voor persoonlijk gebruik;Ondergrens 95%-interval;2020;127.0;
+2182;123000 Goederen voor persoonlijk gebruik;Bovengrens 95%-interval;2015;138.0;
+2183;123000 Goederen voor persoonlijk gebruik;Bovengrens 95%-interval;2020;157.0;
+2184;123100 Sieraden, klokken en horloges;Waarde;2015;80.0;0.2
+2185;123100 Sieraden, klokken en horloges;Waarde;2020;99.0;0.3
+2186;123100 Sieraden, klokken en horloges;Ondergrens 95%-interval;2015;71.0;
+2187;123100 Sieraden, klokken en horloges;Ondergrens 95%-interval;2020;86.0;
+2188;123100 Sieraden, klokken en horloges;Bovengrens 95%-interval;2015;88.0;
+2189;123100 Sieraden, klokken en horloges;Bovengrens 95%-interval;2020;112.0;
+2190;123110 Sieraden;Waarde;2015;53.0;0.2
+2191;123110 Sieraden;Waarde;2020;55.0;0.2
+2192;123110 Sieraden;Ondergrens 95%-interval;2015;51.0;
+2193;123110 Sieraden;Ondergrens 95%-interval;2020;45.0;
+2194;123110 Sieraden;Bovengrens 95%-interval;2015;55.0;
+2195;123110 Sieraden;Bovengrens 95%-interval;2020;65.0;
+2196;123120 Klokken en horloges;Waarde;2015;22.0;0.1
+2197;123120 Klokken en horloges;Waarde;2020;39.0;0.1
+2198;123120 Klokken en horloges;Ondergrens 95%-interval;2015;21.0;
+2199;123120 Klokken en horloges;Ondergrens 95%-interval;2020;31.0;
+2200;123120 Klokken en horloges;Bovengrens 95%-interval;2015;23.0;
+2201;123120 Klokken en horloges;Bovengrens 95%-interval;2020;47.0;
+2202;123130 Reparatie van sieraden, klokken..;Waarde;2015;5.0;0.0
+2203;123130 Reparatie van sieraden, klokken..;Waarde;2020;6.0;0.0
+2204;123130 Reparatie van sieraden, klokken..;Ondergrens 95%-interval;2015;4.0;
+2205;123130 Reparatie van sieraden, klokken..;Ondergrens 95%-interval;2020;4.0;
+2206;123130 Reparatie van sieraden, klokken..;Bovengrens 95%-interval;2015;6.0;
+2207;123130 Reparatie van sieraden, klokken..;Bovengrens 95%-interval;2020;8.0;
+2208;123200 Ov. art. voor persoonlijk gebruik;Waarde;2015;46.0;0.1
+2209;123200 Ov. art. voor persoonlijk gebruik;Waarde;2020;42.0;0.1
+2210;123200 Ov. art. voor persoonlijk gebruik;Ondergrens 95%-interval;2015;38.0;
+2211;123200 Ov. art. voor persoonlijk gebruik;Ondergrens 95%-interval;2020;35.0;
+2212;123200 Ov. art. voor persoonlijk gebruik;Bovengrens 95%-interval;2015;54.0;
+2213;123200 Ov. art. voor persoonlijk gebruik;Bovengrens 95%-interval;2020;49.0;
+2214;123210 Reisartikelen;Waarde;2015;20.0;0.1
+2215;123210 Reisartikelen;Waarde;2020;7.0;0.0
+2216;123210 Reisartikelen;Ondergrens 95%-interval;2015;19.0;
+2217;123210 Reisartikelen;Ondergrens 95%-interval;2020;5.0;
+2218;123210 Reisartikelen;Bovengrens 95%-interval;2015;20.0;
+2219;123210 Reisartikelen;Bovengrens 95%-interval;2020;9.0;
+2220;123220 Babyartikelen;Waarde;2015;4.0;0.0
+2221;123220 Babyartikelen;Waarde;2020;9.0;0.0
+2222;123220 Babyartikelen;Ondergrens 95%-interval;2015;3.0;
+2223;123220 Babyartikelen;Ondergrens 95%-interval;2020;5.0;
+2224;123220 Babyartikelen;Bovengrens 95%-interval;2015;4.0;
+2225;123220 Babyartikelen;Bovengrens 95%-interval;2020;13.0;
+2226;123230 Rep. ov. art. persoonlijk gebruik;Waarde;2015;1.0;0.0
+2227;123230 Rep. ov. art. persoonlijk gebruik;Waarde;2020;0.0;0.0
+2228;123230 Rep. ov. art. persoonlijk gebruik;Ondergrens 95%-interval;2015;0.0;
+2229;123230 Rep. ov. art. persoonlijk gebruik;Ondergrens 95%-interval;2020;0.0;
+2230;123230 Rep. ov. art. persoonlijk gebruik;Bovengrens 95%-interval;2015;1.0;
+2231;123230 Rep. ov. art. persoonlijk gebruik;Bovengrens 95%-interval;2020;0.0;
+2232;123290 Ov. art. persoonlijk gebruik neg;Waarde;2015;22.0;0.1
+2233;123290 Ov. art. persoonlijk gebruik neg;Waarde;2020;26.0;0.1
+2234;123290 Ov. art. persoonlijk gebruik neg;Ondergrens 95%-interval;2015;21.0;
+2235;123290 Ov. art. persoonlijk gebruik neg;Ondergrens 95%-interval;2020;21.0;
+2236;123290 Ov. art. persoonlijk gebruik neg;Bovengrens 95%-interval;2015;23.0;
+2237;123290 Ov. art. persoonlijk gebruik neg;Bovengrens 95%-interval;2020;31.0;
+2238;124000 Sociale bescherming;Waarde;2015;196.0;0.6
+2239;124000 Sociale bescherming;Waarde;2020;204.0;0.6
+2240;124000 Sociale bescherming;Ondergrens 95%-interval;2015;179.0;
+2241;124000 Sociale bescherming;Ondergrens 95%-interval;2020;186.0;
+2242;124000 Sociale bescherming;Bovengrens 95%-interval;2015;213.0;
+2243;124000 Sociale bescherming;Bovengrens 95%-interval;2020;222.0;
+2244;124010 Kinderopvang;Waarde;2015;188.0;0.6
+2245;124010 Kinderopvang;Waarde;2020;196.0;0.6
+2246;124010 Kinderopvang;Ondergrens 95%-interval;2015;171.0;
+2247;124010 Kinderopvang;Ondergrens 95%-interval;2020;178.0;
+2248;124010 Kinderopvang;Bovengrens 95%-interval;2015;204.0;
+2249;124010 Kinderopvang;Bovengrens 95%-interval;2020;214.0;
+2250;124030 Thuiszorg;Waarde;2015;9.0;0.0
+2251;124030 Thuiszorg;Waarde;2020;8.0;0.0
+2252;124030 Thuiszorg;Ondergrens 95%-interval;2015;7.0;
+2253;124030 Thuiszorg;Ondergrens 95%-interval;2020;7.0;
+2254;124030 Thuiszorg;Bovengrens 95%-interval;2015;11.0;
+2255;124030 Thuiszorg;Bovengrens 95%-interval;2020;9.0;
+2256;125000 Verzekeringen;Waarde;2015;1038.0;3.1
+2257;125000 Verzekeringen;Waarde;2020;1180.0;3.4
+2258;125000 Verzekeringen;Ondergrens 95%-interval;2015;1017.0;
+2259;125000 Verzekeringen;Ondergrens 95%-interval;2020;1159.0;
+2260;125000 Verzekeringen;Bovengrens 95%-interval;2015;1059.0;
+2261;125000 Verzekeringen;Bovengrens 95%-interval;2020;1201.0;
+2262;125200 Verzekeringen i.v.m. de woning;Waarde;2015;84.0;0.2
+2263;125200 Verzekeringen i.v.m. de woning;Waarde;2020;105.0;0.3
+2264;125200 Verzekeringen i.v.m. de woning;Ondergrens 95%-interval;2015;82.0;
+2265;125200 Verzekeringen i.v.m. de woning;Ondergrens 95%-interval;2020;102.0;
+2266;125200 Verzekeringen i.v.m. de woning;Bovengrens 95%-interval;2015;87.0;
+2267;125200 Verzekeringen i.v.m. de woning;Bovengrens 95%-interval;2020;108.0;
+2268;125300 Verzekeringen i.v.m. ziekte;Waarde;2015;148.0;0.4
+2269;125300 Verzekeringen i.v.m. ziekte;Waarde;2020;168.0;0.5
+2270;125300 Verzekeringen i.v.m. ziekte;Ondergrens 95%-interval;2015;132.0;
+2271;125300 Verzekeringen i.v.m. ziekte;Ondergrens 95%-interval;2020;154.0;
+2272;125300 Verzekeringen i.v.m. ziekte;Bovengrens 95%-interval;2015;165.0;
+2273;125300 Verzekeringen i.v.m. ziekte;Bovengrens 95%-interval;2020;182.0;
+2274;125320 Aanv. verzekeringen i.v.m. ziekte;Waarde;2015;148.0;0.4
+2275;125320 Aanv. verzekeringen i.v.m. ziekte;Waarde;2020;168.0;0.5
+2276;125320 Aanv. verzekeringen i.v.m. ziekte;Ondergrens 95%-interval;2015;132.0;
+2277;125320 Aanv. verzekeringen i.v.m. ziekte;Ondergrens 95%-interval;2020;154.0;
+2278;125320 Aanv. verzekeringen i.v.m. ziekte;Bovengrens 95%-interval;2015;165.0;
+2279;125320 Aanv. verzekeringen i.v.m. ziekte;Bovengrens 95%-interval;2020;182.0;
+2280;125400 Verzekeringen i.v.m. vervoer;Waarde;2015;404.0;1.2
+2281;125400 Verzekeringen i.v.m. vervoer;Waarde;2020;490.0;1.4
+2282;125400 Verzekeringen i.v.m. vervoer;Ondergrens 95%-interval;2015;395.0;
+2283;125400 Verzekeringen i.v.m. vervoer;Ondergrens 95%-interval;2020;480.0;
+2284;125400 Verzekeringen i.v.m. vervoer;Bovengrens 95%-interval;2015;413.0;
+2285;125400 Verzekeringen i.v.m. vervoer;Bovengrens 95%-interval;2020;500.0;
+2286;125410 Motorrijtuigverzekeringen;Waarde;2015;360.0;1.1
+2287;125410 Motorrijtuigverzekeringen;Waarde;2020;439.0;1.2
+2288;125410 Motorrijtuigverzekeringen;Ondergrens 95%-interval;2015;351.0;
+2289;125410 Motorrijtuigverzekeringen;Ondergrens 95%-interval;2020;430.0;
+2290;125410 Motorrijtuigverzekeringen;Bovengrens 95%-interval;2015;368.0;
+2291;125410 Motorrijtuigverzekeringen;Bovengrens 95%-interval;2020;448.0;
+2292;125420 Reisverzekeringen;Waarde;2015;44.0;0.1
+2293;125420 Reisverzekeringen;Waarde;2020;51.0;0.1
+2294;125420 Reisverzekeringen;Ondergrens 95%-interval;2015;43.0;
+2295;125420 Reisverzekeringen;Ondergrens 95%-interval;2020;49.0;
+2296;125420 Reisverzekeringen;Bovengrens 95%-interval;2015;46.0;
+2297;125420 Reisverzekeringen;Bovengrens 95%-interval;2020;53.0;
+2298;125500 Overige verzekeringen;Waarde;2015;401.0;1.2
+2299;125500 Overige verzekeringen;Waarde;2020;417.0;1.2
+2300;125500 Overige verzekeringen;Ondergrens 95%-interval;2015;391.0;
+2301;125500 Overige verzekeringen;Ondergrens 95%-interval;2020;406.0;
+2302;125500 Overige verzekeringen;Bovengrens 95%-interval;2015;411.0;
+2303;125500 Overige verzekeringen;Bovengrens 95%-interval;2020;428.0;
+2304;126000 Financiële diensten n.e.g;Waarde;2015;269.0;0.8
+2305;126000 Financiële diensten n.e.g;Waarde;2020;192.0;0.5
+2306;126000 Financiële diensten n.e.g;Ondergrens 95%-interval;2015;245.0;
+2307;126000 Financiële diensten n.e.g;Ondergrens 95%-interval;2020;170.0;
+2308;126000 Financiële diensten n.e.g;Bovengrens 95%-interval;2015;294.0;
+2309;126000 Financiële diensten n.e.g;Bovengrens 95%-interval;2020;214.0;
+2310;126200 Overige financiële diensten;Waarde;2015;269.0;0.8
+2311;126200 Overige financiële diensten;Waarde;2020;192.0;0.5
+2312;126200 Overige financiële diensten;Ondergrens 95%-interval;2015;245.0;
+2313;126200 Overige financiële diensten;Ondergrens 95%-interval;2020;170.0;
+2314;126200 Overige financiële diensten;Bovengrens 95%-interval;2015;294.0;
+2315;126200 Overige financiële diensten;Bovengrens 95%-interval;2020;214.0;
+2316;126210 Kosten van banken en postkantoren;Waarde;2015;233.0;0.7
+2317;126210 Kosten van banken en postkantoren;Waarde;2020;170.0;0.5
+2318;126210 Kosten van banken en postkantoren;Ondergrens 95%-interval;2015;219.0;
+2319;126210 Kosten van banken en postkantoren;Ondergrens 95%-interval;2020;162.0;
+2320;126210 Kosten van banken en postkantoren;Bovengrens 95%-interval;2015;247.0;
+2321;126210 Kosten van banken en postkantoren;Bovengrens 95%-interval;2020;178.0;
+2322;126220 Kosten beleggingsadviseurs e.d.;Waarde;2015;36.0;0.1
+2323;126220 Kosten beleggingsadviseurs e.d.;Waarde;2020;21.0;0.1
+2324;126220 Kosten beleggingsadviseurs e.d.;Ondergrens 95%-interval;2015;36.0;
+2325;126220 Kosten beleggingsadviseurs e.d.;Ondergrens 95%-interval;2020;0.0;
+2326;126220 Kosten beleggingsadviseurs e.d.;Bovengrens 95%-interval;2015;36.0;
+2327;126220 Kosten beleggingsadviseurs e.d.;Bovengrens 95%-interval;2020;42.0;
+2328;127000 Overig diensten n.e.g.;Waarde;2015;247.0;0.7
+2329;127000 Overig diensten n.e.g.;Waarde;2020;239.0;0.7
+2330;127000 Overig diensten n.e.g.;Ondergrens 95%-interval;2015;227.0;
+2331;127000 Overig diensten n.e.g.;Ondergrens 95%-interval;2020;216.0;
+2332;127000 Overig diensten n.e.g.;Bovengrens 95%-interval;2015;267.0;
+2333;127000 Overig diensten n.e.g.;Bovengrens 95%-interval;2020;262.0;
+2334;127010 Administratieve kosten;Waarde;2015;60.0;0.2
+2335;127010 Administratieve kosten;Waarde;2020;56.0;0.2
+2336;127010 Administratieve kosten;Ondergrens 95%-interval;2015;58.0;
+2337;127010 Administratieve kosten;Ondergrens 95%-interval;2020;49.0;
+2338;127010 Administratieve kosten;Bovengrens 95%-interval;2015;62.0;
+2339;127010 Administratieve kosten;Bovengrens 95%-interval;2020;63.0;
+2340;127020 Juridische diensten en.;Waarde;2015;13.0;0.0
+2341;127020 Juridische diensten en.;Waarde;2020;20.0;0.1
+2342;127020 Juridische diensten en.;Ondergrens 95%-interval;2015;13.0;
+2343;127020 Juridische diensten en.;Ondergrens 95%-interval;2020;11.0;
+2344;127020 Juridische diensten en.;Bovengrens 95%-interval;2015;13.0;
+2345;127020 Juridische diensten en.;Bovengrens 95%-interval;2020;29.0;
+2346;127030 Diensten i.v.m. uitvaart;Waarde;2015;4.0;0.0
+2347;127030 Diensten i.v.m. uitvaart;Waarde;2020;16.0;0.0
+2348;127030 Diensten i.v.m. uitvaart;Ondergrens 95%-interval;2015;4.0;
+2349;127030 Diensten i.v.m. uitvaart;Ondergrens 95%-interval;2020;0.0;
+2350;127030 Diensten i.v.m. uitvaart;Bovengrens 95%-interval;2015;4.0;
+2351;127030 Diensten i.v.m. uitvaart;Bovengrens 95%-interval;2020;34.0;
+2352;127040 Overige betalingen en diensten;Waarde;2015;171.0;0.5
+2353;127040 Overige betalingen en diensten;Waarde;2020;147.0;0.4
+2354;127040 Overige betalingen en diensten;Ondergrens 95%-interval;2015;163.0;
+2355;127040 Overige betalingen en diensten;Ondergrens 95%-interval;2020;140.0;
+2356;127040 Overige betalingen en diensten;Bovengrens 95%-interval;2015;179.0;
+2357;127040 Overige betalingen en diensten;Bovengrens 95%-interval;2020;154.0;
+2358;130000 Consumptiegebonden belastingen;Waarde;2015;594.0;1.8
+2359;130000 Consumptiegebonden belastingen;Waarde;2020;594.0;1.7
+2360;130000 Consumptiegebonden belastingen;Ondergrens 95%-interval;2015;587.0;
+2361;130000 Consumptiegebonden belastingen;Ondergrens 95%-interval;2020;587.0;
+2362;130000 Consumptiegebonden belastingen;Bovengrens 95%-interval;2015;602.0;
+2363;130000 Consumptiegebonden belastingen;Bovengrens 95%-interval;2020;601.0;
+2364;131000 Zuiveringsheffing;Waarde;2015;124.0;0.4
+2365;131000 Zuiveringsheffing;Waarde;2020;128.0;0.4
+2366;131000 Zuiveringsheffing;Ondergrens 95%-interval;2015;123.0;
+2367;131000 Zuiveringsheffing;Ondergrens 95%-interval;2020;128.0;
+2368;131000 Zuiveringsheffing;Bovengrens 95%-interval;2015;125.0;
+2369;131000 Zuiveringsheffing;Bovengrens 95%-interval;2020;128.0;
+2370;132000 Motorrijtuigenbelasting;Waarde;2015;461.0;1.4
+2371;132000 Motorrijtuigenbelasting;Waarde;2020;460.0;1.3
+2372;132000 Motorrijtuigenbelasting;Ondergrens 95%-interval;2015;454.0;
+2373;132000 Motorrijtuigenbelasting;Ondergrens 95%-interval;2020;453.0;
+2374;132000 Motorrijtuigenbelasting;Bovengrens 95%-interval;2015;469.0;
+2375;132000 Motorrijtuigenbelasting;Bovengrens 95%-interval;2020;467.0;
+2376;133000 Hondenbelasting;Waarde;2015;9.0;0.0
+2377;133000 Hondenbelasting;Waarde;2020;7.0;0.0
+2378;133000 Hondenbelasting;Ondergrens 95%-interval;2015;9.0;
+2379;133000 Hondenbelasting;Ondergrens 95%-interval;2020;6.0;
+2380;133000 Hondenbelasting;Bovengrens 95%-interval;2015;10.0;
+2381;133000 Hondenbelasting;Bovengrens 95%-interval;2020;8.0;
+2382;150000 Goede doelen;Waarde;2015;133.0;0.4
+2383;150000 Goede doelen;Waarde;2020;141.0;0.4
+2384;150000 Goede doelen;Ondergrens 95%-interval;2015;123.0;
+2385;150000 Goede doelen;Ondergrens 95%-interval;2020;130.0;
+2386;150000 Goede doelen;Bovengrens 95%-interval;2015;143.0;
+2387;150000 Goede doelen;Bovengrens 95%-interval;2020;152.0;
+2388;150001 Eenmalige collectes en donaties;Waarde;2015;64.0;0.2
+2389;150001 Eenmalige collectes en donaties;Waarde;2020;74.0;0.2
+2390;150001 Eenmalige collectes en donaties;Ondergrens 95%-interval;2015;62.0;
+2391;150001 Eenmalige collectes en donaties;Ondergrens 95%-interval;2020;64.0;
+2392;150001 Eenmalige collectes en donaties;Bovengrens 95%-interval;2015;65.0;
+2393;150001 Eenmalige collectes en donaties;Bovengrens 95%-interval;2020;84.0;
+2394;150002 Periodieke donaties;Waarde;2015;69.0;0.2
+2395;150002 Periodieke donaties;Waarde;2020;67.0;0.2
+2396;150002 Periodieke donaties;Ondergrens 95%-interval;2015;64.0;
+2397;150002 Periodieke donaties;Ondergrens 95%-interval;2020;63.0;
+2398;150002 Periodieke donaties;Bovengrens 95%-interval;2015;75.0;
+2399;150002 Periodieke donaties;Bovengrens 95%-interval;2020;71.0;

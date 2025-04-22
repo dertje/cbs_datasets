@@ -1,0 +1,568 @@
+﻿ID;Watergebruikers;Perioden;GebruikVanLeidingwater_1;TotaalGebruikVanGrondwater_2;GebruikVanGrondwaterVoorKoeling_3;OverigeGebruikVanGrondWater_4;GebruikVanOppervlakteWater_5
+0;Totaal watergebruikers;2003;1132.1;1162.8;103.3;1059.5;13973.5
+1;Totaal watergebruikers;2004;1099.0;1050.5;115.1;935.4;14908.2
+2;Totaal watergebruikers;2005;1086.0;1013.4;99.5;913.9;13950.3
+3;Totaal watergebruikers;2006;1098.0;1059.4;99.9;959.5;13532.4
+4;Totaal watergebruikers;2007;1088.1;1001.1;91.6;909.5;13569.2
+5;Totaal watergebruikers;2008;1093.1;986.8;89.3;897.4;13301.3
+6;Totaal watergebruikers;2009;1092.8;1025.5;88.8;936.8;14216.5
+7;Totaal watergebruikers;2010;1089.6;1006.2;65.4;940.8;14076.4
+8;Totaal watergebruikers;2011;1080.3;991.9;63.7;928.2;15300.2
+9;Particuliere huishoudens;2003;815.4;;;;
+10;Particuliere huishoudens;2004;796.2;;;;
+11;Particuliere huishoudens;2005;790.5;;;;
+12;Particuliere huishoudens;2006;800.7;;;;
+13;Particuliere huishoudens;2007;789.4;;;;
+14;Particuliere huishoudens;2008;788.4;;;;
+15;Particuliere huishoudens;2009;788.1;;;;
+16;Particuliere huishoudens;2010;786.2;;;;
+17;Particuliere huishoudens;2011;783.0;;;;
+18;A-U Alle economische activiteiten;2003;316.8;;;;
+19;A-U Alle economische activiteiten;2004;302.8;;;;
+20;A-U Alle economische activiteiten;2005;295.5;;;;
+21;A-U Alle economische activiteiten;2006;297.3;;;;
+22;A-U Alle economische activiteiten;2007;298.8;;;;
+23;A-U Alle economische activiteiten;2008;304.8;;;;
+24;A-U Alle economische activiteiten;2009;304.6;;;;
+25;A-U Alle economische activiteiten;2010;303.4;;;;
+26;A-U Alle economische activiteiten;2011;297.3;;;;
+27;A Landbouw, bosbouw en visserij;2003;57.6;145.5;0.0;145.5;53.5
+28;A Landbouw, bosbouw en visserij;2004;49.9;61.4;0.0;61.4;26.1
+29;A Landbouw, bosbouw en visserij;2005;47.6;62.3;0.0;62.3;12.5
+30;A Landbouw, bosbouw en visserij;2006;46.5;97.6;0.0;97.6;24.2
+31;A Landbouw, bosbouw en visserij;2007;46.0;54.0;0.0;54.0;17.9
+32;A Landbouw, bosbouw en visserij;2008;44.3;50.6;0.0;50.6;21.1
+33;A Landbouw, bosbouw en visserij;2009;47.2;80.4;0.0;80.4;12.5
+34;A Landbouw, bosbouw en visserij;2010;43.8;95.7;0.0;95.7;26.3
+35;A Landbouw, bosbouw en visserij;2011;42.7;88.5;0.0;88.5;30.9
+36;B-E Nijverheid (geen bouw) en energie;2003;173.4;1017.4;103.3;914.1;13920.0
+37;B-E Nijverheid (geen bouw) en energie;2004;167.4;989.1;115.1;874.0;14882.1
+38;B-E Nijverheid (geen bouw) en energie;2005;162.0;951.1;99.5;851.6;13937.8
+39;B-E Nijverheid (geen bouw) en energie;2006;163.5;961.8;99.9;861.9;13508.2
+40;B-E Nijverheid (geen bouw) en energie;2007;163.4;947.1;91.6;855.5;13551.3
+41;B-E Nijverheid (geen bouw) en energie;2008;167.7;936.2;89.3;846.8;13280.2
+42;B-E Nijverheid (geen bouw) en energie;2009;164.2;945.1;88.8;856.4;14204.1
+43;B-E Nijverheid (geen bouw) en energie;2010;165.4;910.5;65.4;845.1;14050.1
+44;B-E Nijverheid (geen bouw) en energie;2011;159.6;903.3;63.7;839.7;15269.3
+45;B Delfstoffenwinning;2003;3.5;0.1;0.1;0.0;1.2
+46;B Delfstoffenwinning;2004;3.1;0.1;0.0;0.0;1.0
+47;B Delfstoffenwinning;2005;2.9;0.1;0.0;0.0;1.0
+48;B Delfstoffenwinning;2006;2.9;0.1;0.0;0.0;1.0
+49;B Delfstoffenwinning;2007;2.8;0.1;0.0;0.0;0.9
+50;B Delfstoffenwinning;2008;3.0;0.1;0.0;0.0;0.9
+51;B Delfstoffenwinning;2009;2.6;0.1;0.0;0.0;0.8
+52;B Delfstoffenwinning;2010;2.4;0.1;0.0;0.0;0.8
+53;B Delfstoffenwinning;2011;2.3;0.1;0.0;0.0;0.8
+54;C Industrie;2003;162.7;213.6;103.2;110.4;3702.4
+55;C Industrie;2004;159.1;215.9;115.0;100.8;3640.4
+56;C Industrie;2005;154.4;182.7;99.4;83.3;3175.1
+57;C Industrie;2006;155.1;181.3;99.9;81.4;3216.4
+58;C Industrie;2007;155.2;176.5;91.5;85.0;3198.7
+59;C Industrie;2008;157.6;170.8;89.3;81.6;3314.1
+60;C Industrie;2009;148.4;178.8;87.6;91.3;3647.5
+61;C Industrie;2010;147.0;142.2;65.2;77.0;3349.5
+62;C Industrie;2011;142.6;141.2;63.5;77.8;3391.0
+63;10-12 Voedings-, genotmiddelenindustrie;2003;46.3;77.9;27.9;50.0;143.9
+64;10-12 Voedings-, genotmiddelenindustrie;2004;44.3;64.7;25.2;39.5;158.7
+65;10-12 Voedings-, genotmiddelenindustrie;2005;43.5;60.3;22.7;37.6;136.7
+66;10-12 Voedings-, genotmiddelenindustrie;2006;46.2;62.0;23.7;38.4;140.4
+67;10-12 Voedings-, genotmiddelenindustrie;2007;45.2;58.9;23.4;35.6;142.8
+68;10-12 Voedings-, genotmiddelenindustrie;2008;48.4;60.7;23.8;36.9;157.2
+69;10-12 Voedings-, genotmiddelenindustrie;2009;46.4;68.7;23.6;45.2;149.3
+70;10-12 Voedings-, genotmiddelenindustrie;2010;40.9;68.3;25.0;43.3;160.0
+71;10-12 Voedings-, genotmiddelenindustrie;2011;38.2;66.6;24.2;42.4;165.9
+72;13-15 Textiel-, kleding-, lederindustrie;2003;2.4;5.9;0.5;5.4;4.2
+73;13-15 Textiel-, kleding-, lederindustrie;2004;2.0;5.3;0.5;4.8;5.1
+74;13-15 Textiel-, kleding-, lederindustrie;2005;1.7;5.3;0.5;4.8;5.9
+75;13-15 Textiel-, kleding-, lederindustrie;2006;1.8;4.0;0.5;3.6;4.2
+76;13-15 Textiel-, kleding-, lederindustrie;2007;2.0;4.3;0.5;3.7;5.4
+77;13-15 Textiel-, kleding-, lederindustrie;2008;2.0;3.8;0.5;3.3;6.1
+78;13-15 Textiel-, kleding-, lederindustrie;2009;1.4;2.0;0.3;1.8;1.5
+79;13-15 Textiel-, kleding-, lederindustrie;2010;1.4;2.2;0.4;1.8;1.6
+80;13-15 Textiel-, kleding-, lederindustrie;2011;1.4;2.3;0.4;1.9;4.4
+81;16-18 Hout-, papier-, grafische industr.;2003;3.2;36.1;0.3;35.8;98.5
+82;16-18 Hout-, papier-, grafische industr.;2004;2.7;33.6;0.2;33.4;110.0
+83;16-18 Hout-, papier-, grafische industr.;2005;3.5;23.7;1.6;22.2;115.9
+84;16-18 Hout-, papier-, grafische industr.;2006;3.3;22.4;2.3;20.1;107.8
+85;16-18 Hout-, papier-, grafische industr.;2007;3.3;21.3;2.0;19.2;110.9
+86;16-18 Hout-, papier-, grafische industr.;2008;4.0;19.2;2.3;16.9;106.7
+87;16-18 Hout-, papier-, grafische industr.;2009;3.2;22.4;1.8;20.6;84.8
+88;16-18 Hout-, papier-, grafische industr.;2010;1.8;12.4;0.9;11.6;76.1
+89;16-18 Hout-, papier-, grafische industr.;2011;1.7;15.3;0.7;14.6;73.2
+90;16 Houtindustrie;2003;0.2;0.2;0.1;0.1;0.1
+91;16 Houtindustrie;2004;0.2;0.2;0.1;0.1;0.1
+92;16 Houtindustrie;2005;0.2;0.2;0.1;0.1;0.1
+93;16 Houtindustrie;2006;0.2;0.2;0.1;0.1;0.1
+94;16 Houtindustrie;2007;0.2;0.2;0.1;0.1;0.1
+95;16 Houtindustrie;2008;0.2;0.2;0.1;0.1;0.1
+96;16 Houtindustrie;2009;0.2;0.2;0.1;0.1;0.0
+97;16 Houtindustrie;2010;0.2;0.1;0.1;0.1;0.0
+98;16 Houtindustrie;2011;0.2;0.1;0.1;0.1;0.0
+99;17 Papierindustrie;2003;2.2;35.4;0.2;35.3;98.2
+100;17 Papierindustrie;2004;1.8;33.0;0.1;33.0;109.8
+101;17 Papierindustrie;2005;2.7;23.1;1.4;21.7;115.7
+102;17 Papierindustrie;2006;2.5;21.8;2.2;19.7;107.6
+103;17 Papierindustrie;2007;2.4;20.7;1.9;18.8;110.7
+104;17 Papierindustrie;2008;3.1;18.6;2.2;16.4;106.5
+105;17 Papierindustrie;2009;2.3;21.9;1.7;20.2;84.6
+106;17 Papierindustrie;2010;1.1;11.9;0.8;11.2;76.0
+107;17 Papierindustrie;2011;1.0;14.8;0.6;14.2;73.0
+108;18 Grafische industrie;2003;0.7;0.5;0.1;0.4;0.2
+109;18 Grafische industrie;2004;0.7;0.4;0.0;0.4;0.2
+110;18 Grafische industrie;2005;0.6;0.4;0.0;0.4;0.1
+111;18 Grafische industrie;2006;0.6;0.4;0.0;0.4;0.1
+112;18 Grafische industrie;2007;0.7;0.4;0.0;0.4;0.1
+113;18 Grafische industrie;2008;0.7;0.4;0.0;0.4;0.1
+114;18 Grafische industrie;2009;0.7;0.4;0.0;0.4;0.1
+115;18 Grafische industrie;2010;0.6;0.4;0.0;0.3;0.1
+116;18 Grafische industrie;2011;0.5;0.4;0.0;0.3;0.1
+117;19 Aardolie-industrie;2003;16.7;0.1;0.0;0.1;297.4
+118;19 Aardolie-industrie;2004;17.2;0.1;0.0;0.1;301.0
+119;19 Aardolie-industrie;2005;19.1;0.0;0.0;0.0;281.2
+120;19 Aardolie-industrie;2006;19.8;0.0;0.0;0.0;317.7
+121;19 Aardolie-industrie;2007;20.5;0.0;0.0;0.0;322.8
+122;19 Aardolie-industrie;2008;19.3;0.0;0.0;0.0;776.9
+123;19 Aardolie-industrie;2009;18.6;0.0;0.0;0.0;828.8
+124;19 Aardolie-industrie;2010;17.4;0.0;0.0;0.0;741.4
+125;19 Aardolie-industrie;2011;20.7;0.1;0.0;0.1;805.6
+126;20-21 Chemie en farmaceutische industrie;2003;51.0;34.7;25.2;9.5;2926.0
+127;20-21 Chemie en farmaceutische industrie;2004;49.6;39.1;25.3;13.8;2785.2
+128;20-21 Chemie en farmaceutische industrie;2005;44.7;30.1;19.5;10.7;2388.5
+129;20-21 Chemie en farmaceutische industrie;2006;41.2;29.6;18.6;11.0;2409.7
+130;20-21 Chemie en farmaceutische industrie;2007;39.9;30.0;12.7;17.3;2361.1
+131;20-21 Chemie en farmaceutische industrie;2008;36.7;25.5;9.8;15.7;2017.3
+132;20-21 Chemie en farmaceutische industrie;2009;38.3;24.3;10.7;13.6;2359.4
+133;20-21 Chemie en farmaceutische industrie;2010;45.3;19.1;9.0;10.1;2146.6
+134;20-21 Chemie en farmaceutische industrie;2011;42.7;17.5;8.9;8.7;2112.3
+135;20 Chemische industrie;2003;42.4;17.5;9.6;7.9;2914.4
+136;20 Chemische industrie;2004;39.3;21.8;10.4;11.5;2758.1
+137;20 Chemische industrie;2005;33.5;15.1;6.9;8.2;2363.9
+138;20 Chemische industrie;2006;33.7;18.1;8.1;10.1;2397.6
+139;20 Chemische industrie;2007;32.7;16.7;7.0;9.7;2349.7
+140;20 Chemische industrie;2008;30.4;14.3;5.0;9.3;2007.8
+141;20 Chemische industrie;2009;32.3;13.5;5.5;7.9;2351.0
+142;20 Chemische industrie;2010;40.3;14.0;4.6;9.5;2140.2
+143;20 Chemische industrie;2011;37.4;12.1;3.9;8.2;2109.8
+144;201 Basischemie;2003;37.3;13.5;7.4;6.2;2883.2
+145;201 Basischemie;2004;32.8;14.7;6.9;7.8;2705.0
+146;201 Basischemie;2005;29.0;10.7;4.9;5.8;2320.4
+147;201 Basischemie;2006;29.5;11.9;5.8;6.2;2353.8
+148;201 Basischemie;2007;28.8;9.9;4.5;5.4;2306.3
+149;201 Basischemie;2008;26.8;9.2;4.2;5.0;1961.6
+150;201 Basischemie;2009;29.2;9.3;4.8;4.5;2319.1
+151;201 Basischemie;2010;36.7;9.7;4.0;5.7;2111.5
+152;201 Basischemie;2011;32.3;9.1;3.5;5.6;2080.9
+153;202 Landbouwchemicaliënindustrie;2003;;;;;
+154;202 Landbouwchemicaliënindustrie;2004;;;;;
+155;202 Landbouwchemicaliënindustrie;2005;;;;;
+156;202 Landbouwchemicaliënindustrie;2006;;;;;
+157;202 Landbouwchemicaliënindustrie;2007;;;;;
+158;202 Landbouwchemicaliënindustrie;2008;;;;;
+159;202 Landbouwchemicaliënindustrie;2009;;;;;
+160;202 Landbouwchemicaliënindustrie;2010;;;;;
+161;202 Landbouwchemicaliënindustrie;2011;;;;;
+162;203 Verf-, vernis- en drukinktindustrie;2003;;;;;
+163;203 Verf-, vernis- en drukinktindustrie;2004;;;;;
+164;203 Verf-, vernis- en drukinktindustrie;2005;;;;;
+165;203 Verf-, vernis- en drukinktindustrie;2006;;;;;
+166;203 Verf-, vernis- en drukinktindustrie;2007;;;;;
+167;203 Verf-, vernis- en drukinktindustrie;2008;;;;;
+168;203 Verf-, vernis- en drukinktindustrie;2009;;;;;
+169;203 Verf-, vernis- en drukinktindustrie;2010;;;;;
+170;203 Verf-, vernis- en drukinktindustrie;2011;;;;;
+171;204 Wasmiddel- en cosmeticaindustrie;2003;;;;;
+172;204 Wasmiddel- en cosmeticaindustrie;2004;;;;;
+173;204 Wasmiddel- en cosmeticaindustrie;2005;;;;;
+174;204 Wasmiddel- en cosmeticaindustrie;2006;;;;;
+175;204 Wasmiddel- en cosmeticaindustrie;2007;;;;;
+176;204 Wasmiddel- en cosmeticaindustrie;2008;;;;;
+177;204 Wasmiddel- en cosmeticaindustrie;2009;;;;;
+178;204 Wasmiddel- en cosmeticaindustrie;2010;;;;;
+179;204 Wasmiddel- en cosmeticaindustrie;2011;;;;;
+180;205 Overige chemische productenindustrie;2003;;;;;
+181;205 Overige chemische productenindustrie;2004;;;;;
+182;205 Overige chemische productenindustrie;2005;;;;;
+183;205 Overige chemische productenindustrie;2006;;;;;
+184;205 Overige chemische productenindustrie;2007;;;;;
+185;205 Overige chemische productenindustrie;2008;;;;;
+186;205 Overige chemische productenindustrie;2009;;;;;
+187;205 Overige chemische productenindustrie;2010;;;;;
+188;205 Overige chemische productenindustrie;2011;;;;;
+189;206 Synthetische vezelindustrie;2003;;;;;
+190;206 Synthetische vezelindustrie;2004;;;;;
+191;206 Synthetische vezelindustrie;2005;;;;;
+192;206 Synthetische vezelindustrie;2006;;;;;
+193;206 Synthetische vezelindustrie;2007;;;;;
+194;206 Synthetische vezelindustrie;2008;;;;;
+195;206 Synthetische vezelindustrie;2009;;;;;
+196;206 Synthetische vezelindustrie;2010;;;;;
+197;206 Synthetische vezelindustrie;2011;;;;;
+198;21 Farmaceutische industrie;2003;8.7;17.2;15.6;1.6;11.6
+199;21 Farmaceutische industrie;2004;10.4;17.3;14.9;2.4;27.2
+200;21 Farmaceutische industrie;2005;11.2;15.0;12.6;2.5;24.6
+201;21 Farmaceutische industrie;2006;7.5;11.5;10.5;1.0;12.1
+202;21 Farmaceutische industrie;2007;7.2;13.2;5.7;7.5;11.4
+203;21 Farmaceutische industrie;2008;6.3;11.2;4.8;6.4;9.5
+204;21 Farmaceutische industrie;2009;6.0;10.8;5.1;5.7;8.4
+205;21 Farmaceutische industrie;2010;5.0;5.1;4.4;0.7;6.3
+206;21 Farmaceutische industrie;2011;5.3;5.4;5.0;0.4;2.4
+207;22-23 Kunststof- en bouwmateriaalindustr;2003;6.2;33.2;28.4;4.8;16.3
+208;22-23 Kunststof- en bouwmateriaalindustr;2004;5.7;47.1;42.5;4.6;28.7
+209;22-23 Kunststof- en bouwmateriaalindustr;2005;5.1;39.0;35.0;4.0;15.0
+210;22-23 Kunststof- en bouwmateriaalindustr;2006;5.4;39.7;35.3;4.4;20.3
+211;22-23 Kunststof- en bouwmateriaalindustr;2007;5.4;38.2;33.5;4.6;19.4
+212;22-23 Kunststof- en bouwmateriaalindustr;2008;5.8;38.1;33.5;4.7;19.8
+213;22-23 Kunststof- en bouwmateriaalindustr;2009;5.5;37.9;34.1;3.8;18.0
+214;22-23 Kunststof- en bouwmateriaalindustr;2010;4.8;14.6;11.0;3.6;5.8
+215;22-23 Kunststof- en bouwmateriaalindustr;2011;4.4;14.6;11.0;3.6;5.8
+216;22 Rubber- en kunststofproductindustrie;2003;3.5;25.7;24.5;1.2;13.3
+217;22 Rubber- en kunststofproductindustrie;2004;3.2;40.1;39.0;1.1;25.8
+218;22 Rubber- en kunststofproductindustrie;2005;2.8;33.0;32.1;0.9;12.2
+219;22 Rubber- en kunststofproductindustrie;2006;2.9;33.4;32.3;1.1;17.5
+220;22 Rubber- en kunststofproductindustrie;2007;2.9;32.0;30.9;1.2;16.6
+221;22 Rubber- en kunststofproductindustrie;2008;3.0;32.1;30.7;1.4;16.8
+222;22 Rubber- en kunststofproductindustrie;2009;3.0;32.5;31.6;0.9;15.7
+223;22 Rubber- en kunststofproductindustrie;2010;2.5;9.0;8.3;0.7;3.6
+224;22 Rubber- en kunststofproductindustrie;2011;2.2;9.0;8.3;0.7;3.6
+225;23 Bouwmaterialenindustrie;2003;2.7;7.6;3.9;3.6;3.0
+226;23 Bouwmaterialenindustrie;2004;2.5;7.0;3.6;3.4;2.9
+227;23 Bouwmaterialenindustrie;2005;2.3;6.0;2.9;3.1;2.7
+228;23 Bouwmaterialenindustrie;2006;2.4;6.3;3.0;3.3;2.8
+229;23 Bouwmaterialenindustrie;2007;2.5;6.1;2.7;3.4;2.9
+230;23 Bouwmaterialenindustrie;2008;2.7;6.0;2.7;3.3;3.0
+231;23 Bouwmaterialenindustrie;2009;2.5;5.4;2.5;2.9;2.4
+232;23 Bouwmaterialenindustrie;2010;2.3;5.5;2.7;2.9;2.2
+233;23 Bouwmaterialenindustrie;2011;2.2;5.6;2.7;2.9;2.2
+234;24-25 Basismetaal, metaalprod.-industrie;2003;29.7;21.1;17.7;3.4;214.7
+235;24-25 Basismetaal, metaalprod.-industrie;2004;31.2;21.6;18.3;3.2;249.7
+236;24-25 Basismetaal, metaalprod.-industrie;2005;30.5;20.0;17.3;2.8;229.5
+237;24-25 Basismetaal, metaalprod.-industrie;2006;31.0;19.4;16.8;2.6;213.8
+238;24-25 Basismetaal, metaalprod.-industrie;2007;32.1;20.0;16.7;3.3;233.8
+239;24-25 Basismetaal, metaalprod.-industrie;2008;34.3;19.5;16.8;2.7;228.0
+240;24-25 Basismetaal, metaalprod.-industrie;2009;28.9;19.8;14.7;5.1;203.6
+241;24-25 Basismetaal, metaalprod.-industrie;2010;28.9;21.5;16.2;5.3;216.1
+242;24-25 Basismetaal, metaalprod.-industrie;2011;27.3;20.6;15.4;5.2;221.7
+243;24 Basismetaalindustrie;2003;27.4;19.1;16.2;2.9;213.1
+244;24 Basismetaalindustrie;2004;29.0;19.7;16.9;2.8;248.2
+245;24 Basismetaalindustrie;2005;28.2;18.1;15.8;2.3;228.1
+246;24 Basismetaalindustrie;2006;28.7;17.4;15.3;2.1;212.3
+247;24 Basismetaalindustrie;2007;29.6;17.9;15.1;2.8;232.2
+248;24 Basismetaalindustrie;2008;31.5;17.4;15.2;2.2;226.3
+249;24 Basismetaalindustrie;2009;26.5;17.9;13.3;4.6;202.2
+250;24 Basismetaalindustrie;2010;26.5;19.5;14.7;4.8;214.6
+251;24 Basismetaalindustrie;2011;25.0;18.6;13.9;4.7;220.1
+252;25 Metaalproductenindustrie;2003;2.3;2.0;1.5;0.5;1.5
+253;25 Metaalproductenindustrie;2004;2.2;1.9;1.4;0.5;1.5
+254;25 Metaalproductenindustrie;2005;2.2;1.9;1.5;0.5;1.5
+255;25 Metaalproductenindustrie;2006;2.3;1.9;1.5;0.5;1.5
+256;25 Metaalproductenindustrie;2007;2.5;2.1;1.6;0.5;1.6
+257;25 Metaalproductenindustrie;2008;2.8;2.1;1.6;0.5;1.6
+258;25 Metaalproductenindustrie;2009;2.4;1.9;1.4;0.5;1.5
+259;25 Metaalproductenindustrie;2010;2.4;2.0;1.5;0.5;1.6
+260;25 Metaalproductenindustrie;2011;2.3;2.0;1.5;0.5;1.6
+261;26-27 Elektrische en elektron. Industrie;2003;2.4;2.9;2.3;0.6;0.4
+262;26-27 Elektrische en elektron. Industrie;2004;2.3;2.8;2.2;0.5;0.3
+263;26-27 Elektrische en elektron. Industrie;2005;2.2;2.7;2.2;0.5;0.3
+264;26-27 Elektrische en elektron. Industrie;2006;2.3;2.7;2.1;0.5;0.3
+265;26-27 Elektrische en elektron. Industrie;2007;2.3;2.5;2.0;0.5;0.4
+266;26-27 Elektrische en elektron. Industrie;2008;2.5;2.6;2.0;0.5;0.4
+267;26-27 Elektrische en elektron. Industrie;2009;2.2;2.4;1.9;0.5;0.3
+268;26-27 Elektrische en elektron. Industrie;2010;2.3;2.7;2.1;0.5;0.3
+269;26-27 Elektrische en elektron. Industrie;2011;2.1;2.7;2.2;0.5;0.3
+270;26 Elektrotechnische industrie;2003;1.9;2.8;2.3;0.5;0.1
+271;26 Elektrotechnische industrie;2004;1.8;2.7;2.2;0.5;0.1
+272;26 Elektrotechnische industrie;2005;1.7;2.6;2.1;0.5;0.1
+273;26 Elektrotechnische industrie;2006;1.8;2.6;2.1;0.5;0.1
+274;26 Elektrotechnische industrie;2007;1.7;2.4;2.0;0.5;0.1
+275;26 Elektrotechnische industrie;2008;1.8;2.5;2.0;0.5;0.1
+276;26 Elektrotechnische industrie;2009;1.7;2.3;1.9;0.4;0.1
+277;26 Elektrotechnische industrie;2010;1.8;2.6;2.1;0.5;0.1
+278;26 Elektrotechnische industrie;2011;1.7;2.6;2.1;0.5;0.1
+279;27 Elektrische apparatenindustrie;2003;0.5;0.1;0.0;0.0;0.3
+280;27 Elektrische apparatenindustrie;2004;0.5;0.1;0.0;0.0;0.3
+281;27 Elektrische apparatenindustrie;2005;0.5;0.1;0.0;0.0;0.3
+282;27 Elektrische apparatenindustrie;2006;0.5;0.1;0.0;0.0;0.3
+283;27 Elektrische apparatenindustrie;2007;0.6;0.1;0.0;0.0;0.3
+284;27 Elektrische apparatenindustrie;2008;0.6;0.1;0.0;0.0;0.3
+285;27 Elektrische apparatenindustrie;2009;0.5;0.1;0.0;0.0;0.3
+286;27 Elektrische apparatenindustrie;2010;0.5;0.1;0.0;0.0;0.2
+287;27 Elektrische apparatenindustrie;2011;0.4;0.1;0.0;0.0;0.2
+288;28 Machine-industrie;2003;1.7;0.7;0.4;0.2;0.4
+289;28 Machine-industrie;2004;1.7;0.7;0.4;0.2;0.4
+290;28 Machine-industrie;2005;1.7;0.6;0.4;0.2;0.4
+291;28 Machine-industrie;2006;1.8;0.7;0.4;0.2;0.4
+292;28 Machine-industrie;2007;1.9;0.7;0.4;0.2;0.5
+293;28 Machine-industrie;2008;2.0;0.7;0.4;0.2;0.4
+294;28 Machine-industrie;2009;1.7;0.6;0.3;0.1;0.4
+295;28 Machine-industrie;2010;1.9;0.7;0.4;0.1;0.5
+296;28 Machine-industrie;2011;1.9;0.8;0.4;0.2;0.5
+297;29-30 Transportmiddelenindustrie;2003;2.2;0.5;0.4;0.2;0.4
+298;29-30 Transportmiddelenindustrie;2004;1.7;0.5;0.3;0.2;1.1
+299;29-30 Transportmiddelenindustrie;2005;1.6;0.5;0.3;0.2;1.4
+300;29-30 Transportmiddelenindustrie;2006;1.6;0.4;0.2;0.2;1.4
+301;29-30 Transportmiddelenindustrie;2007;1.8;0.4;0.2;0.2;1.3
+302;29-30 Transportmiddelenindustrie;2008;1.9;0.4;0.2;0.2;1.1
+303;29-30 Transportmiddelenindustrie;2009;1.6;0.3;0.2;0.1;1.1
+304;29-30 Transportmiddelenindustrie;2010;1.5;0.3;0.2;0.1;1.0
+305;29-30 Transportmiddelenindustrie;2011;1.5;0.4;0.2;0.2;1.2
+306;29 Auto- en aanhangwagenindustrie;2003;1.5;0.4;0.2;0.1;0.3
+307;29 Auto- en aanhangwagenindustrie;2004;1.0;0.4;0.2;0.1;1.0
+308;29 Auto- en aanhangwagenindustrie;2005;0.9;0.3;0.2;0.1;1.3
+309;29 Auto- en aanhangwagenindustrie;2006;0.9;0.2;0.1;0.1;1.3
+310;29 Auto- en aanhangwagenindustrie;2007;1.0;0.2;0.1;0.1;1.2
+311;29 Auto- en aanhangwagenindustrie;2008;1.0;0.2;0.1;0.1;0.9
+312;29 Auto- en aanhangwagenindustrie;2009;0.7;0.1;0.1;0.1;1.0
+313;29 Auto- en aanhangwagenindustrie;2010;0.7;0.2;0.1;0.1;0.9
+314;29 Auto- en aanhangwagenindustrie;2011;0.8;0.2;0.1;0.1;1.1
+315;30 Overige transportmiddelenindustrie;2003;0.7;0.2;0.1;0.1;0.1
+316;30 Overige transportmiddelenindustrie;2004;0.7;0.2;0.1;0.1;0.1
+317;30 Overige transportmiddelenindustrie;2005;0.7;0.2;0.1;0.1;0.1
+318;30 Overige transportmiddelenindustrie;2006;0.7;0.2;0.1;0.1;0.1
+319;30 Overige transportmiddelenindustrie;2007;0.8;0.2;0.1;0.1;0.1
+320;30 Overige transportmiddelenindustrie;2008;0.9;0.2;0.1;0.1;0.1
+321;30 Overige transportmiddelenindustrie;2009;0.9;0.2;0.1;0.1;0.1
+322;30 Overige transportmiddelenindustrie;2010;0.8;0.2;0.1;0.1;0.1
+323;30 Overige transportmiddelenindustrie;2011;0.7;0.2;0.1;0.1;0.1
+324;31-33 Overige industrie en reparatie;2003;0.7;0.4;0.1;0.3;0.3
+325;31-33 Overige industrie en reparatie;2004;0.7;0.4;0.1;0.3;0.2
+326;31-33 Overige industrie en reparatie;2005;0.7;0.4;0.1;0.3;0.2
+327;31-33 Overige industrie en reparatie;2006;0.7;0.4;0.1;0.3;0.2
+328;31-33 Overige industrie en reparatie;2007;0.7;0.4;0.1;0.3;0.2
+329;31-33 Overige industrie en reparatie;2008;0.8;0.4;0.1;0.3;0.3
+330;31-33 Overige industrie en reparatie;2009;0.7;0.3;0.1;0.3;0.2
+331;31-33 Overige industrie en reparatie;2010;0.6;0.3;0.1;0.3;0.2
+332;31-33 Overige industrie en reparatie;2011;0.6;0.3;0.1;0.3;0.2
+333;31-32 Overige industrie;2003;0.7;0.3;0.1;0.2;0.3
+334;31-32 Overige industrie;2004;0.6;0.3;0.1;0.2;0.2
+335;31-32 Overige industrie;2005;0.6;0.3;0.1;0.2;0.2
+336;31-32 Overige industrie;2006;0.6;0.3;0.1;0.2;0.2
+337;31-32 Overige industrie;2007;0.7;0.3;0.1;0.2;0.2
+338;31-32 Overige industrie;2008;0.7;0.3;0.1;0.2;0.2
+339;31-32 Overige industrie;2009;0.6;0.3;0.1;0.2;0.2
+340;31-32 Overige industrie;2010;0.6;0.2;0.1;0.2;0.2
+341;31-32 Overige industrie;2011;0.5;0.2;0.0;0.2;0.2
+342;33 Reparatie en installatie van machines;2003;0.1;0.1;0.0;0.1;0.0
+343;33 Reparatie en installatie van machines;2004;0.0;0.1;0.0;0.1;0.0
+344;33 Reparatie en installatie van machines;2005;0.0;0.1;0.0;0.1;0.0
+345;33 Reparatie en installatie van machines;2006;0.1;0.1;0.0;0.1;0.0
+346;33 Reparatie en installatie van machines;2007;0.1;0.1;0.0;0.1;0.0
+347;33 Reparatie en installatie van machines;2008;0.1;0.1;0.0;0.1;0.0
+348;33 Reparatie en installatie van machines;2009;0.1;0.1;0.0;0.1;0.0
+349;33 Reparatie en installatie van machines;2010;0.1;0.1;0.0;0.1;0.0
+350;33 Reparatie en installatie van machines;2011;0.0;0.1;0.0;0.1;0.0
+351;D Energievoorziening;2003;3.7;0.6;0.0;0.6;9169.6
+352;D Energievoorziening;2004;1.7;0.6;0.0;0.6;10202.1
+353;D Energievoorziening;2005;1.6;0.8;0.0;0.8;9791.0
+354;D Energievoorziening;2006;1.8;0.8;0.0;0.8;9272.3
+355;D Energievoorziening;2007;2.2;1.6;0.0;1.6;9387.8
+356;D Energievoorziening;2008;2.9;1.7;0.0;1.7;9044.6
+357;D Energievoorziening;2009;9.2;4.6;1.1;3.5;9665.2
+358;D Energievoorziening;2010;12.1;5.3;0.2;5.2;9693.3
+359;D Energievoorziening;2011;12.0;5.3;0.0;5.3;10928.2
+360;E Waterbedrijven en afvalbeheer;2003;3.5;803.0;0.0;803.0;1046.8
+361;E Waterbedrijven en afvalbeheer;2004;3.6;772.5;0.0;772.5;1038.5
+362;E Waterbedrijven en afvalbeheer;2005;3.0;767.6;0.0;767.6;970.7
+363;E Waterbedrijven en afvalbeheer;2006;3.8;779.7;0.0;779.7;1018.5
+364;E Waterbedrijven en afvalbeheer;2007;3.2;768.9;0.0;768.9;964.0
+365;E Waterbedrijven en afvalbeheer;2008;4.3;763.6;0.0;763.5;920.7
+366;E Waterbedrijven en afvalbeheer;2009;3.8;761.6;0.0;761.6;890.6
+367;E Waterbedrijven en afvalbeheer;2010;3.9;762.9;0.0;762.9;1006.4
+368;E Waterbedrijven en afvalbeheer;2011;2.7;756.7;0.1;756.6;949.3
+369;36 Waterleidingbedrijven;2003;0.2;801.0;0.0;801.0;517.0
+370;36 Waterleidingbedrijven;2004;0.2;770.0;0.0;770.0;507.0
+371;36 Waterleidingbedrijven;2005;0.2;766.0;0.0;766.0;490.0
+372;36 Waterleidingbedrijven;2006;0.2;777.0;0.0;777.0;502.0
+373;36 Waterleidingbedrijven;2007;0.2;766.1;0.0;766.1;482.3
+374;36 Waterleidingbedrijven;2008;0.2;762.2;0.0;762.2;489.8
+375;36 Waterleidingbedrijven;2009;0.2;760.7;0.0;760.7;474.3
+376;36 Waterleidingbedrijven;2010;0.2;760.8;0.0;760.8;456.3
+377;36 Waterleidingbedrijven;2011;0.2;755.8;0.0;755.8;473.2
+378;37-39 Afvalbeheer;2003;3.3;2.0;0.0;2.0;529.8
+379;37-39 Afvalbeheer;2004;3.4;2.5;0.0;2.5;531.5
+380;37-39 Afvalbeheer;2005;2.8;1.6;0.0;1.6;480.7
+381;37-39 Afvalbeheer;2006;3.5;2.7;0.0;2.7;516.5
+382;37-39 Afvalbeheer;2007;3.0;2.8;0.0;2.8;481.7
+383;37-39 Afvalbeheer;2008;4.1;1.4;0.0;1.3;430.9
+384;37-39 Afvalbeheer;2009;3.6;0.9;0.0;0.9;416.3
+385;37-39 Afvalbeheer;2010;3.7;2.1;0.0;2.1;550.1
+386;37-39 Afvalbeheer;2011;2.4;0.9;0.0;0.7;476.1
+387;F Bouwnijverheid;2003;2.8;;;;
+388;F Bouwnijverheid;2004;2.7;;;;
+389;F Bouwnijverheid;2005;2.7;;;;
+390;F Bouwnijverheid;2006;2.7;;;;
+391;F Bouwnijverheid;2007;2.8;;;;
+392;F Bouwnijverheid;2008;2.8;;;;
+393;F Bouwnijverheid;2009;2.7;;;;
+394;F Bouwnijverheid;2010;2.6;;;;
+395;F Bouwnijverheid;2011;2.6;;;;
+396;G-I Handel, vervoer en horeca;2003;30.8;;;;
+397;G-I Handel, vervoer en horeca;2004;30.8;;;;
+398;G-I Handel, vervoer en horeca;2005;30.7;;;;
+399;G-I Handel, vervoer en horeca;2006;31.2;;;;
+400;G-I Handel, vervoer en horeca;2007;32.1;;;;
+401;G-I Handel, vervoer en horeca;2008;32.7;;;;
+402;G-I Handel, vervoer en horeca;2009;32.1;;;;
+403;G-I Handel, vervoer en horeca;2010;32.3;;;;
+404;G-I Handel, vervoer en horeca;2011;33.0;;;;
+405;G Handel;2003;12.1;;;;
+406;G Handel;2004;12.0;;;;
+407;G Handel;2005;11.9;;;;
+408;G Handel;2006;12.1;;;;
+409;G Handel;2007;12.4;;;;
+410;G Handel;2008;12.5;;;;
+411;G Handel;2009;12.3;;;;
+412;G Handel;2010;12.2;;;;
+413;G Handel;2011;12.4;;;;
+414;H Vervoer en opslag;2003;3.2;;;;
+415;H Vervoer en opslag;2004;3.2;;;;
+416;H Vervoer en opslag;2005;3.2;;;;
+417;H Vervoer en opslag;2006;3.2;;;;
+418;H Vervoer en opslag;2007;3.3;;;;
+419;H Vervoer en opslag;2008;3.3;;;;
+420;H Vervoer en opslag;2009;3.3;;;;
+421;H Vervoer en opslag;2010;3.2;;;;
+422;H Vervoer en opslag;2011;3.3;;;;
+423;I Horeca;2003;15.6;;;;
+424;I Horeca;2004;15.5;;;;
+425;I Horeca;2005;15.6;;;;
+426;I Horeca;2006;15.9;;;;
+427;I Horeca;2007;16.5;;;;
+428;I Horeca;2008;16.9;;;;
+429;I Horeca;2009;16.6;;;;
+430;I Horeca;2010;16.8;;;;
+431;I Horeca;2011;17.3;;;;
+432;J Informatie en communicatie;2003;0.8;;;;
+433;J Informatie en communicatie;2004;0.8;;;;
+434;J Informatie en communicatie;2005;0.8;;;;
+435;J Informatie en communicatie;2006;0.8;;;;
+436;J Informatie en communicatie;2007;0.8;;;;
+437;J Informatie en communicatie;2008;0.8;;;;
+438;J Informatie en communicatie;2009;0.8;;;;
+439;J Informatie en communicatie;2010;0.7;;;;
+440;J Informatie en communicatie;2011;0.7;;;;
+441;K Financiële dienstverlening;2003;1.9;;;;
+442;K Financiële dienstverlening;2004;1.8;;;;
+443;K Financiële dienstverlening;2005;1.9;;;;
+444;K Financiële dienstverlening;2006;1.9;;;;
+445;K Financiële dienstverlening;2007;1.9;;;;
+446;K Financiële dienstverlening;2008;1.9;;;;
+447;K Financiële dienstverlening;2009;1.9;;;;
+448;K Financiële dienstverlening;2010;1.8;;;;
+449;K Financiële dienstverlening;2011;1.8;;;;
+450;L Verhuur en handel van onroerend goed;2003;3.5;;;;
+451;L Verhuur en handel van onroerend goed;2004;3.5;;;;
+452;L Verhuur en handel van onroerend goed;2005;3.5;;;;
+453;L Verhuur en handel van onroerend goed;2006;3.6;;;;
+454;L Verhuur en handel van onroerend goed;2007;3.7;;;;
+455;L Verhuur en handel van onroerend goed;2008;3.8;;;;
+456;L Verhuur en handel van onroerend goed;2009;3.8;;;;
+457;L Verhuur en handel van onroerend goed;2010;3.6;;;;
+458;L Verhuur en handel van onroerend goed;2011;3.6;;;;
+459;M-N Zakelijke dienstverlening;2003;3.4;;;;
+460;M-N Zakelijke dienstverlening;2004;3.4;;;;
+461;M-N Zakelijke dienstverlening;2005;3.4;;;;
+462;M-N Zakelijke dienstverlening;2006;3.6;;;;
+463;M-N Zakelijke dienstverlening;2007;3.7;;;;
+464;M-N Zakelijke dienstverlening;2008;3.8;;;;
+465;M-N Zakelijke dienstverlening;2009;3.8;;;;
+466;M-N Zakelijke dienstverlening;2010;3.6;;;;
+467;M-N Zakelijke dienstverlening;2011;3.7;;;;
+468;M Specialistische zakelijke diensten;2003;2.7;;;;
+469;M Specialistische zakelijke diensten;2004;2.7;;;;
+470;M Specialistische zakelijke diensten;2005;2.7;;;;
+471;M Specialistische zakelijke diensten;2006;2.7;;;;
+472;M Specialistische zakelijke diensten;2007;2.8;;;;
+473;M Specialistische zakelijke diensten;2008;3.0;;;;
+474;M Specialistische zakelijke diensten;2009;3.0;;;;
+475;M Specialistische zakelijke diensten;2010;2.8;;;;
+476;M Specialistische zakelijke diensten;2011;2.8;;;;
+477;N Verhuur en overige zakelijke diensten;2003;0.8;;;;
+478;N Verhuur en overige zakelijke diensten;2004;0.8;;;;
+479;N Verhuur en overige zakelijke diensten;2005;0.8;;;;
+480;N Verhuur en overige zakelijke diensten;2006;0.8;;;;
+481;N Verhuur en overige zakelijke diensten;2007;0.8;;;;
+482;N Verhuur en overige zakelijke diensten;2008;0.8;;;;
+483;N Verhuur en overige zakelijke diensten;2009;0.8;;;;
+484;N Verhuur en overige zakelijke diensten;2010;0.8;;;;
+485;N Verhuur en overige zakelijke diensten;2011;0.8;;;;
+486;O-Q Overheid en zorg;2003;24.2;;;;
+487;O-Q Overheid en zorg;2004;24.2;;;;
+488;O-Q Overheid en zorg;2005;24.2;;;;
+489;O-Q Overheid en zorg;2006;24.5;;;;
+490;O-Q Overheid en zorg;2007;24.8;;;;
+491;O-Q Overheid en zorg;2008;25.3;;;;
+492;O-Q Overheid en zorg;2009;25.8;;;;
+493;O-Q Overheid en zorg;2010;26.7;;;;
+494;O-Q Overheid en zorg;2011;27.0;;;;
+495;O Openbaar bestuur en overheidsdiensten;2003;5.5;;;;
+496;O Openbaar bestuur en overheidsdiensten;2004;5.4;;;;
+497;O Openbaar bestuur en overheidsdiensten;2005;5.2;;;;
+498;O Openbaar bestuur en overheidsdiensten;2006;5.1;;;;
+499;O Openbaar bestuur en overheidsdiensten;2007;5.1;;;;
+500;O Openbaar bestuur en overheidsdiensten;2008;5.1;;;;
+501;O Openbaar bestuur en overheidsdiensten;2009;5.3;;;;
+502;O Openbaar bestuur en overheidsdiensten;2010;5.4;;;;
+503;O Openbaar bestuur en overheidsdiensten;2011;5.3;;;;
+504;P Onderwijs;2003;4.9;;;;
+505;P Onderwijs;2004;4.8;;;;
+506;P Onderwijs;2005;4.8;;;;
+507;P Onderwijs;2006;4.9;;;;
+508;P Onderwijs;2007;5.0;;;;
+509;P Onderwijs;2008;5.0;;;;
+510;P Onderwijs;2009;5.1;;;;
+511;P Onderwijs;2010;5.1;;;;
+512;P Onderwijs;2011;5.1;;;;
+513;Q Gezondheids- en welzijnszorg;2003;13.8;;;;
+514;Q Gezondheids- en welzijnszorg;2004;14.0;;;;
+515;Q Gezondheids- en welzijnszorg;2005;14.2;;;;
+516;Q Gezondheids- en welzijnszorg;2006;14.5;;;;
+517;Q Gezondheids- en welzijnszorg;2007;14.7;;;;
+518;Q Gezondheids- en welzijnszorg;2008;15.2;;;;
+519;Q Gezondheids- en welzijnszorg;2009;15.5;;;;
+520;Q Gezondheids- en welzijnszorg;2010;16.2;;;;
+521;Q Gezondheids- en welzijnszorg;2011;16.7;;;;
+522;R-U Cultuur, recreatie, overige diensten;2003;18.4;;;;
+523;R-U Cultuur, recreatie, overige diensten;2004;18.3;;;;
+524;R-U Cultuur, recreatie, overige diensten;2005;18.7;;;;
+525;R-U Cultuur, recreatie, overige diensten;2006;19.0;;;;
+526;R-U Cultuur, recreatie, overige diensten;2007;19.6;;;;
+527;R-U Cultuur, recreatie, overige diensten;2008;21.7;;;;
+528;R-U Cultuur, recreatie, overige diensten;2009;22.3;;;;
+529;R-U Cultuur, recreatie, overige diensten;2010;22.8;;;;
+530;R-U Cultuur, recreatie, overige diensten;2011;22.7;;;;
+531;R Cultuur, sport en recreatie;2003;10.7;;;;
+532;R Cultuur, sport en recreatie;2004;10.6;;;;
+533;R Cultuur, sport en recreatie;2005;10.9;;;;
+534;R Cultuur, sport en recreatie;2006;11.0;;;;
+535;R Cultuur, sport en recreatie;2007;11.2;;;;
+536;R Cultuur, sport en recreatie;2008;12.7;;;;
+537;R Cultuur, sport en recreatie;2009;13.1;;;;
+538;R Cultuur, sport en recreatie;2010;13.5;;;;
+539;R Cultuur, sport en recreatie;2011;13.7;;;;
+540;S Overige dienstverlening;2003;7.2;;;;
+541;S Overige dienstverlening;2004;7.2;;;;
+542;S Overige dienstverlening;2005;7.3;;;;
+543;S Overige dienstverlening;2006;7.4;;;;
+544;S Overige dienstverlening;2007;7.6;;;;
+545;S Overige dienstverlening;2008;8.1;;;;
+546;S Overige dienstverlening;2009;8.3;;;;
+547;S Overige dienstverlening;2010;8.5;;;;
+548;S Overige dienstverlening;2011;8.4;;;;
+549;T Huishoudens;2003;0.5;;;;
+550;T Huishoudens;2004;0.5;;;;
+551;T Huishoudens;2005;0.5;;;;
+552;T Huishoudens;2006;0.6;;;;
+553;T Huishoudens;2007;0.7;;;;
+554;T Huishoudens;2008;0.9;;;;
+555;T Huishoudens;2009;0.8;;;;
+556;T Huishoudens;2010;0.7;;;;
+557;T Huishoudens;2011;0.6;;;;
+558;U Extraterritoriale organisaties;2003;0.0;;;;
+559;U Extraterritoriale organisaties;2004;0.0;;;;
+560;U Extraterritoriale organisaties;2005;0.0;;;;
+561;U Extraterritoriale organisaties;2006;0.0;;;;
+562;U Extraterritoriale organisaties;2007;0.0;;;;
+563;U Extraterritoriale organisaties;2008;0.0;;;;
+564;U Extraterritoriale organisaties;2009;0.0;;;;
+565;U Extraterritoriale organisaties;2010;0.0;;;;
+566;U Extraterritoriale organisaties;2011;0.0;;;;

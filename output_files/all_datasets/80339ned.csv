@@ -1,0 +1,393 @@
+﻿ID;BedrijfstakkenBranchesSBI93;Perioden;TotaalAantalBanen_1;Bedrijfsgrootte1Tot10Werknemers_2;Bedrijfsgrootte10Tot50Werknemers_3;Bedrijfsgrootte50Tot100Werknemers_4;Bedrijfsgrootte100Tot500Werknemers_5;Bedrijfsgrootte500Werknemers_6
+0;A-Q Alle economische activiteiten ..;2006 december;7692.6;1282.7;1398.0;557.9;1409.3;3044.6
+1;A-Q Alle economische activiteiten ..;2006 december;7660.9;1331.2;1389.8;551.0;1388.2;3000.6
+2;A-Q Alle economische activiteiten ..;2007 december;7865.3;1368.0;1445.3;566.8;1407.6;3077.5
+3;A-Q Alle economische activiteiten ..;2007 december;7885.6;1001.5;1429.8;611.7;1444.7;3397.8
+4;A-Q Alle economische activiteiten ..;2008 december;7993.6;1035.2;1455.5;620.6;1456.4;3425.9
+5;A-Q Alle economische activiteiten ..;2008 december;7892.3;956.6;1422.8;615.1;1459.1;3438.7
+6;A-Q Alle economische activiteiten ..;2009 december;7788.6;936.6;1375.4;588.3;1429.1;3459.2
+7;01 Landbouw, jacht en dienstverlening ..;2006 december;117.1;58.1;43.3;;7.3;
+8;01 Landbouw, jacht en dienstverlening ..;2006 december;117.6;58.8;43.3;;7.3;
+9;01 Landbouw, jacht en dienstverlening ..;2007 december;118.3;56.9;45.6;;8.8;
+10;01 Landbouw, jacht en dienstverlening ..;2007 december;118.4;41.8;52.7;12.5;8.5;2.9
+11;01 Landbouw, jacht en dienstverlening ..;2008 december;119.5;43.7;52.2;11.3;;
+12;01 Landbouw, jacht en dienstverlening ..;2008 december;110.7;39.1;48.7;10.6;;
+13;01 Landbouw, jacht en dienstverlening ..;2009 december;109.4;37.9;46.4;11.3;11.3;2.5
+14;02 Bosbouw en dienstverlening voor ..;2006 december;1.3;0.3;0.3;;0.0;
+15;02 Bosbouw en dienstverlening voor ..;2006 december;1.3;0.3;0.3;;0.0;
+16;02 Bosbouw en dienstverlening voor ..;2007 december;1.3;0.3;0.3;0.0;;
+17;02 Bosbouw en dienstverlening voor ..;2007 december;1.3;;0.3;0.0;0.0;
+18;02 Bosbouw en dienstverlening voor ..;2008 december;1.3;0.3;0.3;;0.0;
+19;02 Bosbouw en dienstverlening voor ..;2008 december;1.3;0.3;0.3;;0.0;
+20;02 Bosbouw en dienstverlening voor ..;2009 december;1.3;0.3;0.3;;0.0;
+21;05 Visserij, kweken van vis en ..;2006 december;1.1;0.6;;0.1;;0.0
+22;05 Visserij, kweken van vis en ..;2006 december;1.1;0.6;;0.1;;0.0
+23;05 Visserij, kweken van vis en ..;2007 december;1.2;0.7;0.3;;;0.0
+24;05 Visserij, kweken van vis en ..;2007 december;1.2;0.5;;0.0;;0.0
+25;05 Visserij, kweken van vis en ..;2008 december;1.2;0.5;0.5;;;0.0
+26;05 Visserij, kweken van vis en ..;2008 december;1.1;0.5;0.5;;;0.0
+27;05 Visserij, kweken van vis en ..;2009 december;1.1;;0.5;0.0;;0.0
+28;CA Winning van energiehoudende ..;2006 december;5.4;0.1;;0.6;1.5;
+29;CA Winning van energiehoudende ..;2006 december;5.3;0.2;;0.6;1.3;
+30;CA Winning van energiehoudende ..;2007 december;5.4;;0.4;0.7;1.2;
+31;CA Winning van energiehoudende ..;2007 december;5.3;0.2;0.5;;1.4;
+32;CA Winning van energiehoudende ..;2008 december;5.4;0.2;;0.3;1.7;
+33;CA Winning van energiehoudende ..;2008 december;5.6;;0.3;0.4;1.9;
+34;CA Winning van energiehoudende ..;2009 december;5.7;0.1;0.4;;1.9;
+35;14 Winning van zand, grind, klei, ..;2006 december;2.1;0.2;0.9;0.3;0.6;0.0
+36;14 Winning van zand, grind, klei, ..;2006 december;2.2;0.4;0.9;0.3;0.6;0.0
+37;14 Winning van zand, grind, klei, ..;2007 december;2.2;0.3;0.8;;0.6;
+38;14 Winning van zand, grind, klei, ..;2007 december;2.2;0.2;0.8;0.4;0.8;0.0
+39;14 Winning van zand, grind, klei, ..;2008 december;2.2;0.2;0.7;0.4;0.9;0.0
+40;14 Winning van zand, grind, klei, ..;2008 december;2.2;0.2;0.7;0.4;0.9;0.0
+41;14 Winning van zand, grind, klei, ..;2009 december;2.1;0.2;0.7;0.3;0.9;0.0
+42;15 VV voedingsmiddelen en dranken;2006 december;120.5;15.1;27.1;14.2;35.6;28.5
+43;15 VV voedingsmiddelen en dranken;2006 december;122.2;16.0;26.7;14.0;37.1;28.4
+44;15 VV voedingsmiddelen en dranken;2007 december;122.8;14.1;27.8;13.3;37.6;30.0
+45;15 VV voedingsmiddelen en dranken;2007 december;122.9;7.4;28.9;16.0;39.3;31.3
+46;15 VV voedingsmiddelen en dranken;2008 december;122.5;7.5;27.7;16.0;39.9;31.3
+47;15 VV voedingsmiddelen en dranken;2008 december;132.7;7.2;27.6;16.2;40.6;41.0
+48;15 VV voedingsmiddelen en dranken;2009 december;122.4;7.3;27.9;16.7;41.1;29.4
+49;16 Verwerking van tabak;2006 december;4.3;0.0;;;0.9;3.2
+50;16 Verwerking van tabak;2006 december;4.3;;0.1;;0.9;3.2
+51;16 Verwerking van tabak;2007 december;3.8;0.0;;0.2;1.3;
+52;16 Verwerking van tabak;2007 december;3.9;0.0;;0.3;1.2;
+53;16 Verwerking van tabak;2008 december;3.8;0.0;;0.3;1.1;
+54;16 Verwerking van tabak;2008 december;3.6;0.0;;0.3;1.4;
+55;16 Verwerking van tabak;2009 december;3.2;;;0.1;1.2;1.8
+56;17 Vervaardiging van textiel;2006 december;12.7;2.2;3.6;;4.8;
+57;17 Vervaardiging van textiel;2006 december;12.7;2.3;3.5;;4.8;
+58;17 Vervaardiging van textiel;2007 december;12.4;2.0;4.1;;4.2;
+59;17 Vervaardiging van textiel;2007 december;12.4;;4.1;1.7;4.5;
+60;17 Vervaardiging van textiel;2008 december;12.1;;4.0;1.7;4.3;
+61;17 Vervaardiging van textiel;2008 december;12.0;;3.9;1.7;5.0;
+62;17 Vervaardiging van textiel;2009 december;10.7;1.4;3.5;1.6;4.2;0.0
+63;"18 VV kleding; bereiden en verven van ..";2006 december;2.7;1.3;1.1;0.0;0.4;0.0
+64;"18 VV kleding; bereiden en verven van ..";2006 december;2.7;1.3;1.1;0.0;0.4;0.0
+65;"18 VV kleding; bereiden en verven van ..";2007 december;2.9;1.1;1.3;;;0.0
+66;"18 VV kleding; bereiden en verven van ..";2007 december;2.8;0.9;1.3;;;0.0
+67;"18 VV kleding; bereiden en verven van ..";2008 december;2.6;0.9;1.3;;;0.0
+68;"18 VV kleding; bereiden en verven van ..";2008 december;2.5;0.9;1.3;;;0.0
+69;"18 VV kleding; bereiden en verven van ..";2009 december;2.2;0.8;1.0;;;0.0
+70;19 VV leer en lederwaren (geen kleding);2006 december;1.8;0.5;;;0.6;0.0
+71;19 VV leer en lederwaren (geen kleding);2006 december;1.8;;0.6;;0.6;0.0
+72;19 VV leer en lederwaren (geen kleding);2007 december;1.8;0.5;0.6;;;0.0
+73;19 VV leer en lederwaren (geen kleding);2007 december;1.8;0.4;0.6;0.2;0.5;0.0
+74;19 VV leer en lederwaren (geen kleding);2008 december;1.8;0.4;0.6;0.3;0.5;0.0
+75;19 VV leer en lederwaren (geen kleding);2008 december;1.8;0.4;0.6;0.3;0.5;0.0
+76;19 VV leer en lederwaren (geen kleding);2009 december;1.7;0.4;0.6;0.2;0.5;0.0
+77;20 Houtindustrie en vervaardiging van ..;2006 december;17.6;3.0;7.2;3.5;4.0;0.0
+78;20 Houtindustrie en vervaardiging van ..;2006 december;17.5;3.0;7.1;3.4;4.0;0.0
+79;20 Houtindustrie en vervaardiging van ..;2007 december;18.2;;7.4;3.6;3.8;
+80;20 Houtindustrie en vervaardiging van ..;2007 december;18.1;2.4;7.2;3.8;4.7;0.0
+81;20 Houtindustrie en vervaardiging van ..;2008 december;17.8;2.6;7.0;3.8;4.4;0.0
+82;20 Houtindustrie en vervaardiging van ..;2008 december;17.6;2.5;7.0;3.6;4.5;0.0
+83;20 Houtindustrie en vervaardiging van ..;2009 december;15.3;2.3;6.2;3.5;3.3;0.0
+84;21 VV papier, karton en papier- en ..;2006 december;21.2;;3.3;3.1;12.6;
+85;21 VV papier, karton en papier- en ..;2006 december;20.9;;3.1;3.1;12.6;
+86;21 VV papier, karton en papier- en ..;2007 december;19.9;;2.7;2.7;12.4;
+87;21 VV papier, karton en papier- en ..;2007 december;20.5;0.5;2.8;3.4;11.9;1.8
+88;21 VV papier, karton en papier- en ..;2008 december;19.2;0.5;2.7;3.2;11.0;1.8
+89;21 VV papier, karton en papier- en ..;2008 december;19.3;0.5;2.7;3.1;11.2;1.8
+90;21 VV papier, karton en papier- en ..;2009 december;17.8;0.4;2.3;2.9;10.6;1.6
+91;22 Uitgeverijen, drukkerijen en repro;2006 december;70.2;11.3;21.5;6.3;19.0;12.1
+92;22 Uitgeverijen, drukkerijen en repro;2006 december;70.1;11.5;21.4;6.1;19.0;12.1
+93;22 Uitgeverijen, drukkerijen en repro;2007 december;71.2;11.0;21.3;6.4;15.3;17.2
+94;22 Uitgeverijen, drukkerijen en repro;2007 december;71.1;9.1;21.3;7.7;14.9;18.0
+95;22 Uitgeverijen, drukkerijen en repro;2008 december;68.8;9.2;20.4;7.6;14.3;17.2
+96;22 Uitgeverijen, drukkerijen en repro;2008 december;68.4;8.9;20.0;7.7;14.4;17.5
+97;22 Uitgeverijen, drukkerijen en repro;2009 december;61.2;8.3;18.1;6.4;12.5;15.9
+98;23 Aardolie- en steenkoolverwerkende ..;2006 december;6.5;0.0;0.3;0.3;1.4;4.5
+99;23 Aardolie- en steenkoolverwerkende ..;2006 december;6.4;0.0;0.2;0.3;1.4;4.5
+100;23 Aardolie- en steenkoolverwerkende ..;2007 december;6.6;0.0;0.3;0.3;1.7;4.3
+101;23 Aardolie- en steenkoolverwerkende ..;2007 december;6.5;;0.2;;1.8;4.3
+102;23 Aardolie- en steenkoolverwerkende ..;2008 december;7.6;0.0;0.2;0.3;2.1;5.0
+103;23 Aardolie- en steenkoolverwerkende ..;2008 december;7.4;0.1;0.2;0.2;2.1;4.9
+104;23 Aardolie- en steenkoolverwerkende ..;2009 december;6.9;0.1;;;1.6;4.9
+105;24 Vervaardiging van chemische producten;2006 december;62.1;1.5;5.4;5.7;22.6;27.0
+106;24 Vervaardiging van chemische producten;2006 december;62.0;1.6;5.3;5.6;22.7;26.8
+107;24 Vervaardiging van chemische producten;2007 december;61.2;1.7;5.6;5.4;21.8;26.7
+108;24 Vervaardiging van chemische producten;2007 december;63.8;1.3;5.3;5.6;23.1;28.6
+109;24 Vervaardiging van chemische producten;2008 december;62.8;1.4;5.1;5.4;21.6;29.3
+110;24 Vervaardiging van chemische producten;2008 december;61.9;1.3;5.2;5.2;21.1;29.2
+111;24 Vervaardiging van chemische producten;2009 december;60.9;1.3;5.6;5.4;20.0;28.7
+112;25 VV producten van rubber en kunststof;2006 december;32.1;;8.8;6.1;12.9;
+113;25 VV producten van rubber en kunststof;2006 december;31.7;;8.8;6.1;12.5;
+114;25 VV producten van rubber en kunststof;2007 december;32.1;;8.6;6.3;12.9;
+115;25 VV producten van rubber en kunststof;2007 december;32.2;2.0;8.2;6.3;12.7;2.9
+116;25 VV producten van rubber en kunststof;2008 december;32.6;2.0;8.8;5.6;13.2;3.0
+117;25 VV producten van rubber en kunststof;2008 december;32.4;1.9;8.6;5.9;12.9;3.0
+118;25 VV producten van rubber en kunststof;2009 december;29.6;2.1;7.6;4.6;11.8;3.5
+119;26 VV glas, aardewerk, cement-, kalk- ..;2006 december;27.9;2.4;6.2;2.3;9.9;7.0
+120;26 VV glas, aardewerk, cement-, kalk- ..;2006 december;28.0;2.5;6.2;2.4;10.0;6.9
+121;26 VV glas, aardewerk, cement-, kalk- ..;2007 december;28.1;2.5;5.8;2.7;10.5;6.6
+122;26 VV glas, aardewerk, cement-, kalk- ..;2007 december;28.0;2.1;5.8;3.4;10.0;6.6
+123;26 VV glas, aardewerk, cement-, kalk- ..;2008 december;27.4;2.1;5.5;3.3;9.9;6.6
+124;26 VV glas, aardewerk, cement-, kalk- ..;2008 december;27.1;2.0;5.5;3.5;9.6;6.5
+125;26 VV glas, aardewerk, cement-, kalk- ..;2009 december;25.5;1.9;5.2;3.1;10.0;5.3
+126;27 Basismetaalindustrie;2006 december;21.4;0.7;1.6;1.2;5.3;12.6
+127;27 Basismetaalindustrie;2006 december;21.1;0.7;1.6;1.2;5.1;12.5
+128;27 Basismetaalindustrie;2007 december;21.2;0.6;1.7;1.1;5.3;12.5
+129;27 Basismetaalindustrie;2007 december;21.2;0.5;1.6;1.1;5.5;12.5
+130;27 Basismetaalindustrie;2008 december;22.6;0.6;1.8;1.1;5.2;13.9
+131;27 Basismetaalindustrie;2008 december;22.6;0.6;1.8;1.1;5.3;13.9
+132;27 Basismetaalindustrie;2009 december;20.7;0.5;1.8;1.1;4.7;12.5
+133;28 VV producten van metaal (geen ..;2006 december;94.0;13.5;37.8;14.6;21.6;6.5
+134;28 VV producten van metaal (geen ..;2006 december;93.8;13.6;37.7;14.6;21.3;6.5
+135;28 VV producten van metaal (geen ..;2007 december;96.4;13.4;39.3;15.1;22.0;6.5
+136;28 VV producten van metaal (geen ..;2007 december;96.1;10.2;39.2;17.2;23.3;6.1
+137;28 VV producten van metaal (geen ..;2008 december;95.6;10.7;39.8;16.9;21.6;6.7
+138;28 VV producten van metaal (geen ..;2008 december;93.2;10.4;39.2;16.9;22.1;4.6
+139;28 VV producten van metaal (geen ..;2009 december;83.3;10.2;34.8;17.0;18.3;3.0
+140;29 VV machines en apparaten;2006 december;88.1;8.0;26.0;14.5;30.3;9.4
+141;29 VV machines en apparaten;2006 december;90.9;8.2;25.8;14.3;30.1;12.6
+142;29 VV machines en apparaten;2007 december;93.8;8.3;25.9;14.2;31.9;13.6
+143;29 VV machines en apparaten;2007 december;97.6;6.7;25.7;14.5;34.1;16.6
+144;29 VV machines en apparaten;2008 december;95.9;6.8;25.4;15.7;33.8;14.1
+145;29 VV machines en apparaten;2008 december;95.4;6.6;25.1;15.4;33.8;14.4
+146;29 VV machines en apparaten;2009 december;90.4;7.0;24.5;15.0;29.8;14.1
+147;30 VV kantoormachines en computers;2006 december;5.0;0.3;0.5;;0.8;
+148;30 VV kantoormachines en computers;2006 december;4.9;0.3;0.5;;0.7;
+149;30 VV kantoormachines en computers;2007 december;4.7;0.4;0.5;;0.8;
+150;30 VV kantoormachines en computers;2007 december;4.7;0.2;0.6;;1.0;
+151;30 VV kantoormachines en computers;2008 december;4.3;0.2;0.6;;0.8;
+152;30 VV kantoormachines en computers;2008 december;4.0;0.2;0.6;;0.4;
+153;30 VV kantoormachines en computers;2009 december;3.7;0.2;0.4;;;2.6
+154;31 VV overige elektrische machines, ..;2006 december;16.9;1.8;5.0;2.2;5.6;2.3
+155;31 VV overige elektrische machines, ..;2006 december;17.0;2.0;5.0;2.2;5.5;2.3
+156;31 VV overige elektrische machines, ..;2007 december;17.5;2.0;4.5;2.2;5.9;2.9
+157;31 VV overige elektrische machines, ..;2007 december;17.5;1.5;4.3;2.7;6.1;2.9
+158;31 VV overige elektrische machines, ..;2008 december;22.7;1.7;4.5;3.0;5.6;7.9
+159;31 VV overige elektrische machines, ..;2008 december;22.7;1.6;4.5;2.9;5.8;7.9
+160;31 VV overige elektrische machines, ..;2009 december;21.3;1.6;4.3;2.6;6.5;6.3
+161;32 VV audio-, video- en ..;2006 december;27.8;0.7;1.9;;2.2;
+162;32 VV audio-, video- en ..;2006 december;17.7;0.8;1.8;0.9;2.0;12.2
+163;32 VV audio-, video- en ..;2007 december;17.0;0.7;1.9;0.9;2.2;11.3
+164;32 VV audio-, video- en ..;2007 december;16.1;0.5;1.7;;2.5;
+165;32 VV audio-, video- en ..;2008 december;11.3;0.6;1.9;;2.1;
+166;32 VV audio-, video- en ..;2008 december;11.1;0.6;1.8;;2.1;
+167;32 VV audio-, video- en ..;2009 december;9.6;;1.7;1.4;1.7;
+168;33 VV medische apparaten en ..;2006 december;24.8;4.3;7.2;2.7;6.6;3.9
+169;33 VV medische apparaten en ..;2006 december;27.7;4.4;7.1;2.5;6.4;7.3
+170;33 VV medische apparaten en ..;2007 december;28.2;4.2;7.6;2.5;6.4;7.6
+171;33 VV medische apparaten en ..;2007 december;28.2;3.7;7.1;3.4;6.4;7.6
+172;33 VV medische apparaten en ..;2008 december;29.2;3.8;7.7;3.5;7.4;6.8
+173;33 VV medische apparaten en ..;2008 december;29.4;3.6;7.6;3.6;7.7;6.8
+174;33 VV medische apparaten en ..;2009 december;28.3;3.7;8.1;3.3;6.1;7.2
+175;34 VV auto's, aanhangwagens en opleggers;2006 december;21.7;1.3;4.2;2.5;4.9;8.8
+176;34 VV auto's, aanhangwagens en opleggers;2006 december;21.6;1.4;4.3;2.4;4.9;8.7
+177;34 VV auto's, aanhangwagens en opleggers;2007 december;22.6;1.3;4.5;2.5;5.1;9.2
+178;34 VV auto's, aanhangwagens en opleggers;2007 december;22.6;1.1;4.3;2.5;5.3;9.4
+179;34 VV auto's, aanhangwagens en opleggers;2008 december;23.0;1.0;4.2;2.5;5.3;9.9
+180;34 VV auto's, aanhangwagens en opleggers;2008 december;22.9;1.0;4.2;2.5;5.4;9.9
+181;34 VV auto's, aanhangwagens en opleggers;2009 december;19.6;1.0;4.0;2.0;4.7;7.8
+182;35 VV transportmiddelen (geen auto's ..;2006 december;23.8;2.4;4.5;2.6;7.4;6.8
+183;35 VV transportmiddelen (geen auto's ..;2006 december;23.4;2.4;4.5;2.7;7.0;6.8
+184;35 VV transportmiddelen (geen auto's ..;2007 december;24.4;2.5;4.9;2.5;8.1;6.4
+185;35 VV transportmiddelen (geen auto's ..;2007 december;24.7;2.1;4.8;2.9;7.7;7.3
+186;35 VV transportmiddelen (geen auto's ..;2008 december;25.1;2.2;4.9;3.0;7.3;7.8
+187;35 VV transportmiddelen (geen auto's ..;2008 december;30.3;2.0;4.9;3.0;8.1;12.2
+188;35 VV transportmiddelen (geen auto's ..;2009 december;30.1;2.1;4.7;3.1;9.4;10.8
+189;"36 VV meubels; vervaardiging van ..";2006 december;137.5;6.6;12.9;4.4;21.7;92.0
+190;"36 VV meubels; vervaardiging van ..";2006 december;137.2;6.6;12.8;4.3;21.6;91.9
+191;"36 VV meubels; vervaardiging van ..";2007 december;136.8;6.7;11.6;5.0;22.8;90.6
+192;"36 VV meubels; vervaardiging van ..";2007 december;132.9;5.8;11.1;4.7;13.2;97.9
+193;"36 VV meubels; vervaardiging van ..";2008 december;135.2;5.8;10.8;4.0;13.2;101.3
+194;"36 VV meubels; vervaardiging van ..";2008 december;137.6;5.7;10.5;4.1;13.2;104.1
+195;"36 VV meubels; vervaardiging van ..";2009 december;138.0;5.6;9.8;3.9;12.1;106.6
+196;37 Voorbereiding tot recycling;2006 december;3.1;0.5;1.3;0.6;0.7;0.0
+197;37 Voorbereiding tot recycling;2006 december;3.0;0.5;1.2;0.6;0.7;0.0
+198;37 Voorbereiding tot recycling;2007 december;3.1;0.6;1.2;0.7;0.7;0.0
+199;37 Voorbereiding tot recycling;2007 december;3.2;0.5;1.3;0.5;1.0;0.0
+200;37 Voorbereiding tot recycling;2008 december;3.3;0.4;1.4;0.5;1.0;0.0
+201;37 Voorbereiding tot recycling;2008 december;3.2;0.4;1.3;0.4;1.0;0.0
+202;37 Voorbereiding tot recycling;2009 december;3.4;0.5;1.2;0.7;1.0;0.0
+203;E Productie en distributie van en ..;2006 december;24.4;0.3;0.4;0.4;8.3;15.0
+204;E Productie en distributie van en ..;2006 december;24.5;0.3;0.4;0.4;8.2;15.2
+205;E Productie en distributie van en ..;2007 december;25.4;0.4;0.4;0.5;8.5;15.6
+206;E Productie en distributie van en ..;2007 december;25.4;0.3;0.3;0.5;4.3;19.9
+207;E Productie en distributie van en ..;2008 december;27.0;0.3;0.6;0.5;3.8;21.8
+208;E Productie en distributie van en ..;2008 december;26.0;0.3;0.5;0.5;4.6;20.2
+209;E Productie en distributie van en ..;2009 december;27.1;0.4;0.7;0.4;3.5;22.3
+210;45 Bouwnijverheid;2006 december;377.0;76.4;138.3;39.8;61.3;61.2
+211;45 Bouwnijverheid;2006 december;377.1;77.4;138.5;39.7;60.9;60.6
+212;45 Bouwnijverheid;2007 december;381.1;75.6;139.9;40.1;63.2;62.3
+213;45 Bouwnijverheid;2007 december;379.0;68.2;140.7;42.8;66.2;61.0
+214;45 Bouwnijverheid;2008 december;379.7;70.6;138.2;42.8;63.9;64.1
+215;45 Bouwnijverheid;2008 december;379.8;67.8;135.9;42.9;65.7;67.4
+216;45 Bouwnijverheid;2009 december;364.1;64.9;129.2;39.7;62.2;68.2
+217;50 Handel in en reparatie van auto's ..;2006 december;131.2;42.3;44.3;11.9;16.7;16.0
+218;50 Handel in en reparatie van auto's ..;2006 december;130.4;42.6;43.9;11.7;16.3;15.9
+219;50 Handel in en reparatie van auto's ..;2007 december;134.1;42.3;45.4;12.6;19.0;14.8
+220;50 Handel in en reparatie van auto's ..;2007 december;133.3;35.0;48.9;12.0;20.9;16.5
+221;50 Handel in en reparatie van auto's ..;2008 december;136.0;36.1;49.8;11.3;21.2;17.5
+222;50 Handel in en reparatie van auto's ..;2008 december;134.1;35.1;48.6;11.5;21.3;17.6
+223;50 Handel in en reparatie van auto's ..;2009 december;128.7;34.5;46.8;11.2;19.5;16.7
+224;51 Groothandel en handelsbemiddeling ..;2006 december;440.6;106.2;148.6;51.3;85.3;49.2
+225;51 Groothandel en handelsbemiddeling ..;2006 december;439.5;108.4;148.4;50.3;84.3;48.1
+226;51 Groothandel en handelsbemiddeling ..;2007 december;455.8;107.2;153.4;56.7;89.7;48.8
+227;51 Groothandel en handelsbemiddeling ..;2007 december;454.2;88.7;155.8;59.7;92.7;57.2
+228;51 Groothandel en handelsbemiddeling ..;2008 december;465.7;91.3;159.3;61.7;98.3;55.1
+229;51 Groothandel en handelsbemiddeling ..;2008 december;461.0;87.2;157.1;62.1;97.2;57.4
+230;51 Groothandel en handelsbemiddeling ..;2009 december;445.5;85.2;152.2;57.3;93.8;57.0
+231;52 Detailhandel en reparatie voor ..;2006 december;674.5;169.3;139.7;28.2;53.3;283.9
+232;52 Detailhandel en reparatie voor ..;2006 december;668.8;170.2;139.3;28.4;51.6;279.3
+233;52 Detailhandel en reparatie voor ..;2007 december;690.1;171.1;145.1;30.1;56.8;287.1
+234;52 Detailhandel en reparatie voor ..;2007 december;686.7;122.9;129.5;58.5;70.2;305.6
+235;52 Detailhandel en reparatie voor ..;2008 december;698.0;124.9;129.4;60.0;71.4;312.2
+236;52 Detailhandel en reparatie voor ..;2008 december;688.6;121.0;126.1;60.2;73.2;308.2
+237;52 Detailhandel en reparatie voor ..;2009 december;688.2;116.9;119.6;58.3;76.0;317.5
+238;55 Logies-, maaltijden- en ..;2006 december;304.0;143.9;88.8;15.9;20.4;34.9
+239;55 Logies-, maaltijden- en ..;2006 december;304.1;144.5;88.8;15.7;20.3;34.8
+240;55 Logies-, maaltijden- en ..;2007 december;319.9;150.3;97.3;15.9;19.4;37.1
+241;55 Logies-, maaltijden- en ..;2007 december;315.4;77.7;135.4;30.5;28.7;43.1
+242;55 Logies-, maaltijden- en ..;2008 december;322.4;80.6;139.6;30.9;27.3;43.9
+243;55 Logies-, maaltijden- en ..;2008 december;312.7;75.6;135.3;30.6;27.7;43.5
+244;55 Logies-, maaltijden- en ..;2009 december;309.0;73.9;132.9;27.1;28.1;47.0
+245;60 Vervoer over land;2006 december;188.2;21.1;55.5;29.3;32.2;50.0
+246;60 Vervoer over land;2006 december;187.4;21.5;55.1;29.0;32.5;49.3
+247;60 Vervoer over land;2007 december;195.9;21.3;56.0;30.7;35.8;52.0
+248;60 Vervoer over land;2007 december;195.2;14.3;50.8;29.1;50.0;50.8
+249;60 Vervoer over land;2008 december;194.0;14.8;50.3;28.7;47.8;52.4
+250;60 Vervoer over land;2008 december;192.4;14.0;49.2;29.2;47.7;52.2
+251;60 Vervoer over land;2009 december;184.4;13.3;46.4;27.8;42.4;54.5
+252;61 Vervoer over water;2006 december;14.1;4.6;2.9;;4.3;
+253;61 Vervoer over water;2006 december;14.1;4.7;2.8;;4.3;
+254;61 Vervoer over water;2007 december;14.5;5.0;3.0;;4.7;
+255;61 Vervoer over water;2007 december;14.1;4.3;2.9;;5.1;
+256;61 Vervoer over water;2008 december;14.8;4.6;2.9;;5.8;
+257;61 Vervoer over water;2008 december;14.4;4.3;2.8;;6.2;
+258;61 Vervoer over water;2009 december;14.7;4.1;3.2;;5.4;
+259;62 Vervoer door de lucht;2006 december;33.0;0.3;0.3;0.3;;
+260;62 Vervoer door de lucht;2006 december;33.0;0.3;0.4;;0.8;
+261;62 Vervoer door de lucht;2007 december;33.1;0.3;0.3;;1.1;
+262;62 Vervoer door de lucht;2007 december;33.0;0.3;0.4;;0.9;
+263;62 Vervoer door de lucht;2008 december;33.6;0.3;0.4;;1.0;
+264;62 Vervoer door de lucht;2008 december;28.6;;0.4;;1.0;26.8
+265;62 Vervoer door de lucht;2009 december;26.7;0.3;0.3;;;24.9
+266;63 Dienstverlening voor het vervoer;2006 december;92.5;12.4;22.1;10.1;23.9;24.0
+267;63 Dienstverlening voor het vervoer;2006 december;92.3;12.4;22.2;10.2;23.0;24.5
+268;63 Dienstverlening voor het vervoer;2007 december;94.3;12.9;23.2;8.8;24.4;25.0
+269;63 Dienstverlening voor het vervoer;2007 december;93.6;9.7;22.1;9.8;21.8;30.2
+270;63 Dienstverlening voor het vervoer;2008 december;99.6;10.0;22.2;10.2;24.0;33.3
+271;63 Dienstverlening voor het vervoer;2008 december;99.0;9.5;22.0;10.5;23.4;33.6
+272;63 Dienstverlening voor het vervoer;2009 december;94.3;9.3;21.0;9.7;23.8;30.6
+273;64 Post en telecommunicatie;2006 december;121.8;4.8;11.3;1.1;6.4;98.2
+274;64 Post en telecommunicatie;2006 december;119.0;4.7;11.2;1.1;6.1;96.1
+275;64 Post en telecommunicatie;2007 december;112.7;5.1;5.9;7.7;3.9;90.0
+276;64 Post en telecommunicatie;2007 december;116.1;3.2;5.8;2.4;4.2;100.4
+277;64 Post en telecommunicatie;2008 december;113.2;3.4;5.8;2.1;3.9;98.0
+278;64 Post en telecommunicatie;2008 december;111.7;3.2;5.8;2.0;4.1;96.5
+279;64 Post en telecommunicatie;2009 december;110.2;3.3;5.7;2.0;3.6;95.6
+280;65 Financiële instellingen ..;2006 december;223.7;76.0;11.8;3.7;18.9;113.3
+281;65 Financiële instellingen ..;2006 december;226.4;77.3;11.6;3.4;18.9;115.2
+282;65 Financiële instellingen ..;2007 december;233.1;83.6;13.8;3.5;18.1;114.1
+283;65 Financiële instellingen ..;2007 december;228.6;76.0;15.1;4.9;7.6;125.0
+284;65 Financiële instellingen ..;2008 december;222.8;79.5;16.1;5.9;7.7;113.7
+285;65 Financiële instellingen ..;2008 december;214.6;72.7;16.0;5.8;7.8;112.4
+286;65 Financiële instellingen ..;2009 december;215.5;72.3;18.7;5.8;7.9;110.9
+287;66 Verzekeringswezen en ..;2006 december;57.5;0.8;2.0;1.7;8.1;44.8
+288;66 Verzekeringswezen en ..;2006 december;59.9;1.2;2.0;1.7;9.2;45.8
+289;66 Verzekeringswezen en ..;2007 december;61.6;1.5;2.0;1.7;7.6;48.8
+290;66 Verzekeringswezen en ..;2007 december;61.8;0.8;1.7;2.3;7.6;49.4
+291;66 Verzekeringswezen en ..;2008 december;73.3;0.9;1.6;1.6;8.2;61.1
+292;66 Verzekeringswezen en ..;2008 december;74.5;0.8;1.8;1.5;8.1;62.3
+293;66 Verzekeringswezen en ..;2009 december;74.4;0.6;1.6;1.6;8.8;61.8
+294;67 Financiële beurzen, ..;2006 december;59.5;23.2;14.7;3.9;8.3;9.4
+295;67 Financiële beurzen, ..;2006 december;59.8;23.7;14.7;3.7;8.4;9.3
+296;67 Financiële beurzen, ..;2007 december;58.5;23.5;15.6;4.3;7.3;7.9
+297;67 Financiële beurzen, ..;2007 december;58.1;20.8;15.2;5.3;9.6;7.1
+298;67 Financiële beurzen, ..;2008 december;57.7;21.1;14.8;4.5;10.3;7.0
+299;67 Financiële beurzen, ..;2008 december;54.8;19.5;14.3;4.3;10.2;6.4
+300;67 Financiële beurzen, ..;2009 december;52.5;18.8;13.3;3.7;9.8;6.9
+301;70 Verhuur van en handel in onroerend ..;2006 december;79.3;26.6;18.6;10.2;17.7;6.3
+302;70 Verhuur van en handel in onroerend ..;2006 december;78.1;27.2;18.5;10.0;16.2;6.3
+303;70 Verhuur van en handel in onroerend ..;2007 december;79.6;27.8;20.3;9.9;15.9;5.6
+304;70 Verhuur van en handel in onroerend ..;2007 december;78.7;24.0;20.0;10.7;18.6;5.4
+305;70 Verhuur van en handel in onroerend ..;2008 december;84.3;24.5;20.6;10.5;19.9;8.7
+306;70 Verhuur van en handel in onroerend ..;2008 december;80.8;23.0;20.4;10.0;19.3;8.1
+307;70 Verhuur van en handel in onroerend ..;2009 december;77.2;21.1;19.1;8.9;20.3;7.7
+308;71 Verhuur van transportmiddelen, ..;2006 december;23.4;7.6;7.0;2.4;3.7;2.6
+309;71 Verhuur van transportmiddelen, ..;2006 december;23.4;7.6;7.1;2.3;3.8;2.6
+310;71 Verhuur van transportmiddelen, ..;2007 december;24.6;7.5;7.7;2.6;3.9;2.8
+311;71 Verhuur van transportmiddelen, ..;2007 december;24.2;5.6;7.8;2.9;4.5;3.4
+312;71 Verhuur van transportmiddelen, ..;2008 december;25.2;5.8;7.5;2.6;5.0;4.3
+313;71 Verhuur van transportmiddelen, ..;2008 december;24.9;5.5;7.2;2.7;5.2;4.3
+314;71 Verhuur van transportmiddelen, ..;2009 december;23.5;5.2;6.8;2.4;4.6;4.5
+315;72 Computerservice- en ..;2006 december;126.6;24.2;29.0;11.0;19.4;43.1
+316;72 Computerservice- en ..;2006 december;127.3;24.7;28.9;11.2;19.2;43.2
+317;72 Computerservice- en ..;2007 december;138.3;26.4;31.9;12.8;20.3;46.9
+318;72 Computerservice- en ..;2007 december;136.8;21.0;32.9;12.9;20.6;49.4
+319;72 Computerservice- en ..;2008 december;147.3;23.1;35.9;14.8;25.0;48.5
+320;72 Computerservice- en ..;2008 december;145.4;21.9;35.3;14.9;25.2;48.1
+321;72 Computerservice- en ..;2009 december;139.3;22.2;35.0;15.7;23.8;42.5
+322;73 speur- en ontwikkelingswerk;2006 december;32.8;2.9;4.5;2.3;8.0;15.2
+323;73 speur- en ontwikkelingswerk;2006 december;31.9;2.8;4.4;2.3;7.9;14.5
+324;73 speur- en ontwikkelingswerk;2007 december;32.9;2.9;4.8;2.7;9.1;13.4
+325;73 speur- en ontwikkelingswerk;2007 december;29.6;2.4;4.8;2.1;9.0;11.3
+326;73 speur- en ontwikkelingswerk;2008 december;34.3;2.5;4.9;2.5;8.3;16.1
+327;73 speur- en ontwikkelingswerk;2008 december;34.5;2.4;5.0;2.5;8.6;16.0
+328;73 speur- en ontwikkelingswerk;2009 december;34.4;2.7;5.2;1.9;7.3;17.2
+329;74 Overige zakelijke dienstverlening;2006 december;1277.7;198.7;238.3;106.4;230.6;503.6
+330;74 Overige zakelijke dienstverlening;2006 december;1250.1;206.1;234.9;103.7;219.5;486.0
+331;74 Overige zakelijke dienstverlening;2007 december;1314.0;224.3;247.3;106.5;220.3;515.5
+332;74 Overige zakelijke dienstverlening;2007 december;1305.3;146.1;208.4;104.1;242.5;604.1
+333;74 Overige zakelijke dienstverlening;2008 december;1301.3;157.5;217.4;111.0;246.9;568.4
+334;74 Overige zakelijke dienstverlening;2008 december;1267.2;146.2;210.6;106.4;238.6;565.3
+335;74 Overige zakelijke dienstverlening;2009 december;1213.5;143.2;199.7;98.6;239.0;533.0
+336;75 Openbaar bestuur, ..;2006 december;501.6;0.5;4.3;11.3;83.6;401.9
+337;75 Openbaar bestuur, ..;2006 december;498.2;0.9;4.4;11.2;83.9;397.9
+338;75 Openbaar bestuur, ..;2007 december;502.1;0.6;4.2;8.8;86.2;402.3
+339;75 Openbaar bestuur, ..;2007 december;502.7;0.4;2.2;8.0;85.5;406.5
+340;75 Openbaar bestuur, ..;2008 december;505.6;0.2;2.1;7.7;84.6;411.0
+341;75 Openbaar bestuur, ..;2008 december;499.5;0.3;2.1;8.0;84.1;405.1
+342;75 Openbaar bestuur, ..;2009 december;518.0;0.2;2.0;7.6;85.5;422.8
+343;80 Onderwijs;2006 december;483.2;11.6;32.8;32.1;195.1;211.6
+344;80 Onderwijs;2006 december;484.4;11.7;32.8;32.1;195.5;212.3
+345;80 Onderwijs;2007 december;502.5;16.4;31.8;31.9;194.7;227.6
+346;80 Onderwijs;2007 december;507.6;6.9;26.5;24.3;190.1;259.8
+347;80 Onderwijs;2008 december;513.8;7.3;26.6;22.8;186.9;270.2
+348;80 Onderwijs;2008 december;514.2;6.8;26.2;22.8;187.9;270.5
+349;80 Onderwijs;2009 december;511.3;7.2;24.7;21.7;183.9;273.7
+350;85 Gezondheids- en welzijnszorg;2006 december;1139.5;84.3;67.3;53.8;205.0;729.1
+351;85 Gezondheids- en welzijnszorg;2006 december;1127.3;89.4;66.7;53.1;201.8;716.3
+352;85 Gezondheids- en welzijnszorg;2007 december;1135.1;88.9;73.4;52.8;193.1;726.9
+353;85 Gezondheids- en welzijnszorg;2007 december;1177.9;65.5;66.1;37.7;174.2;834.3
+354;85 Gezondheids- en welzijnszorg;2008 december;1204.4;67.8;72.0;38.1;174.3;852.2
+355;85 Gezondheids- en welzijnszorg;2008 december;1224.3;66.7;71.6;37.3;177.9;870.9
+356;85 Gezondheids- en welzijnszorg;2009 december;1279.2;67.4;75.5;39.3;179.1;917.8
+357;90 Milieudienstverlening;2006 december;30.9;1.9;4.1;3.1;9.0;12.8
+358;90 Milieudienstverlening;2006 december;30.5;1.7;4.0;3.2;9.0;12.6
+359;90 Milieudienstverlening;2007 december;30.2;1.5;4.8;2.1;8.4;13.4
+360;90 Milieudienstverlening;2007 december;29.0;1.1;4.1;2.2;8.6;13.0
+361;90 Milieudienstverlening;2008 december;29.5;1.1;4.0;2.0;8.9;13.5
+362;90 Milieudienstverlening;2008 december;27.5;1.1;4.0;2.0;9.0;11.5
+363;90 Milieudienstverlening;2009 december;28.7;1.1;4.1;1.9;9.7;11.9
+364;91 Werkgevers-, werknemers- en ..;2006 december;76.1;19.1;17.5;10.1;18.1;11.3
+365;91 Werkgevers-, werknemers- en ..;2006 december;74.7;19.3;17.5;10.2;16.4;11.3
+366;91 Werkgevers-, werknemers- en ..;2007 december;76.3;19.1;19.1;8.2;18.8;11.0
+367;91 Werkgevers-, werknemers- en ..;2007 december;76.3;14.8;18.0;10.9;21.7;11.0
+368;91 Werkgevers-, werknemers- en ..;2008 december;81.7;14.8;18.3;10.8;22.6;15.3
+369;91 Werkgevers-, werknemers- en ..;2008 december;81.4;14.2;18.2;10.7;23.0;15.2
+370;91 Werkgevers-, werknemers- en ..;2009 december;84.3;14.2;18.8;12.0;24.0;15.3
+371;92 Cultuur, sport en recreatie;2006 december;141.3;43.7;43.8;15.3;25.9;12.6
+372;92 Cultuur, sport en recreatie;2006 december;140.7;43.8;43.3;15.2;25.9;12.6
+373;92 Cultuur, sport en recreatie;2007 december;145.0;44.9;45.3;15.7;27.2;11.9
+374;92 Cultuur, sport en recreatie;2007 december;145.1;27.4;48.0;20.2;32.9;16.6
+375;92 Cultuur, sport en recreatie;2008 december;153.6;29.1;50.6;20.9;35.9;17.2
+376;92 Cultuur, sport en recreatie;2008 december;150.3;27.4;48.7;21.1;35.7;17.4
+377;92 Cultuur, sport en recreatie;2009 december;149.1;26.4;48.1;22.1;36.2;16.2
+378;93 Overige dienstverlening;2006 december;67.7;39.8;16.6;3.2;3.9;4.2
+379;93 Overige dienstverlening;2006 december;67.5;40.0;16.3;3.1;3.9;4.2
+380;93 Overige dienstverlening;2007 december;70.5;40.7;16.3;2.5;5.6;5.4
+381;93 Overige dienstverlening;2007 december;69.5;29.7;22.9;4.0;4.4;8.6
+382;93 Overige dienstverlening;2008 december;71.4;30.7;23.3;3.9;4.5;9.0
+383;93 Overige dienstverlening;2008 december;70.1;29.7;23.1;3.8;4.5;9.0
+384;93 Overige dienstverlening;2009 december;69.4;29.6;23.0;3.2;4.1;9.5
+385;SBI'93 Niet in te delen;2006 december;0.0;0.0;0.0;0.0;0.0;0.0
+386;SBI'93 Niet in te delen;2006 december;24.0;23.8;0.2;0.0;0.0;0.0
+387;SBI'93 Niet in te delen;2007 december;28.9;28.6;0.2;0.0;0.0;0.0
+388;SBI'93 Niet in te delen;2007 december;31.6;30.7;;;0.0;0.0
+389;SBI'93 Niet in te delen;2008 december;26.4;25.6;;;0.0;0.0
+390;SBI'93 Niet in te delen;2008 december;0.0;0.0;0.0;0.0;0.0;0.0
+391;SBI'93 Niet in te delen;2009 december;0.0;0.0;0.0;0.0;0.0;0.0

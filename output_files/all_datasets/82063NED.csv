@@ -1,0 +1,673 @@
+﻿ID;Sterklassen;Perioden;Accommodaties_1;Kamers_2;Slaapplaatsen_3;Accommodaties_4;Kamers_5;Slaapplaatsen_6
+0;Totaal Nederlandse hotels;2012 januari;3505;110905;236823;3199;106477;227114
+1;Totaal Nederlandse hotels;2012 februari;3505;110905;236823;3284;107811;230057
+2;Totaal Nederlandse hotels;2012 maart;3505;110905;236823;3348;108842;232252
+3;Totaal Nederlandse hotels;2012 april;3505;110905;236823;3444;110026;234770
+4;Totaal Nederlandse hotels;2012 mei;3505;110905;236823;3449;110065;234821
+5;Totaal Nederlandse hotels;2012 juni;3505;110905;236823;3442;110002;234669
+6;Totaal Nederlandse hotels;2012 juli;3505;110905;236823;3438;109967;234636
+7;Totaal Nederlandse hotels;2012 augustus;3505;110905;236823;3432;109886;234469
+8;Totaal Nederlandse hotels;2012 september;3505;110905;236823;3433;109874;234298
+9;Totaal Nederlandse hotels;2012 oktober;3505;110905;236823;3401;109552;233621
+10;Totaal Nederlandse hotels;2012 november;3505;110905;236823;3311;108475;231265
+11;Totaal Nederlandse hotels;2012 december;3505;110905;236823;3237;107433;228938
+12;Totaal Nederlandse hotels;2013 januari;3510;113813;244145;3229;109315;234318
+13;Totaal Nederlandse hotels;2013 februari;3510;113813;244145;3330;111428;238994
+14;Totaal Nederlandse hotels;2013 maart;3510;113813;244145;3379;112003;240279
+15;Totaal Nederlandse hotels;2013 april;3510;113813;244145;3454;112893;242337
+16;Totaal Nederlandse hotels;2013 mei;3510;113813;244145;3464;112902;242385
+17;Totaal Nederlandse hotels;2013 juni;3510;113813;244145;3451;112323;241347
+18;Totaal Nederlandse hotels;2013 juli;3510;113813;244145;3438;112089;240870
+19;Totaal Nederlandse hotels;2013 augustus;3510;113813;244145;3430;111906;240508
+20;Totaal Nederlandse hotels;2013 september;3510;113813;244145;3428;111926;240541
+21;Totaal Nederlandse hotels;2013 oktober;3510;113813;244145;3388;111653;239883
+22;Totaal Nederlandse hotels;2013 november;3510;113813;244145;3295;110263;236766
+23;Totaal Nederlandse hotels;2013 december;3510;113813;244145;3237;109229;234474
+24;Totaal Nederlandse hotels;2014 januari;3561;117917;252115;3185;112565;240443
+25;Totaal Nederlandse hotels;2014 februari;3561;117917;252115;3309;114754;245197
+26;Totaal Nederlandse hotels;2014 maart;3561;117917;252115;3404;116027;248185
+27;Totaal Nederlandse hotels;2014 april;3561;117917;252115;3504;117009;250405
+28;Totaal Nederlandse hotels;2014 mei;3561;117917;252115;3513;116838;250062
+29;Totaal Nederlandse hotels;2014 juni;3561;117917;252115;3506;116980;250190
+30;Totaal Nederlandse hotels;2014 juli;3561;117917;252115;3500;116876;250007
+31;Totaal Nederlandse hotels;2014 augustus;3561;117917;252115;3496;116817;249892
+32;Totaal Nederlandse hotels;2014 september;3561;117917;252115;3496;116760;249790
+33;Totaal Nederlandse hotels;2014 oktober;3561;117917;252115;3439;116120;248419
+34;Totaal Nederlandse hotels;2014 november;3561;117917;252115;3315;114409;244578
+35;Totaal Nederlandse hotels;2014 december;3561;117917;252115;3232;112664;240816
+36;Totaal Nederlandse hotels;2015 januari;3525;118121;254589;3118;112496;242117
+37;Totaal Nederlandse hotels;2015 februari;3525;118121;254589;3236;114527;246574
+38;Totaal Nederlandse hotels;2015 maart;3525;118121;254589;3350;116094;250077
+39;Totaal Nederlandse hotels;2015 april;3525;118121;254589;3452;117156;252504
+40;Totaal Nederlandse hotels;2015 mei;3525;118121;254589;3477;117393;253005
+41;Totaal Nederlandse hotels;2015 juni;3525;118121;254589;3474;117402;253009
+42;Totaal Nederlandse hotels;2015 juli;3525;118121;254589;3464;117311;252852
+43;Totaal Nederlandse hotels;2015 augustus;3525;118121;254589;3459;117251;252770
+44;Totaal Nederlandse hotels;2015 september;3525;118121;254589;3462;117112;252469
+45;Totaal Nederlandse hotels;2015 oktober;3525;118121;254589;3405;116659;251456
+46;Totaal Nederlandse hotels;2015 november;3525;118121;254589;3267;114748;247095
+47;Totaal Nederlandse hotels;2015 december;3525;118121;254589;3208;113861;245258
+48;Hotels zonder ster;2012 januari;1243;14003;35099;1150;13202;33106
+49;Hotels zonder ster;2012 februari;1243;14003;35099;1157;13196;33070
+50;Hotels zonder ster;2012 maart;1243;14003;35099;1176;13328;33444
+51;Hotels zonder ster;2012 april;1243;14003;35099;1213;13661;34152
+52;Hotels zonder ster;2012 mei;1243;14003;35099;1216;13662;34157
+53;Hotels zonder ster;2012 juni;1243;14003;35099;1212;13637;34110
+54;Hotels zonder ster;2012 juli;1243;14003;35099;1208;13613;34061
+55;Hotels zonder ster;2012 augustus;1243;14003;35099;1207;13600;34027
+56;Hotels zonder ster;2012 september;1243;14003;35099;1208;13570;33838
+57;Hotels zonder ster;2012 oktober;1243;14003;35099;1190;13473;33627
+58;Hotels zonder ster;2012 november;1243;14003;35099;1158;13193;32994
+59;Hotels zonder ster;2012 december;1243;14003;35099;1135;13035;32578
+60;Hotels zonder ster;2013 januari;1250;14237;35820;1157;13294;33706
+61;Hotels zonder ster;2013 februari;1250;14237;35820;1178;13440;34043
+62;Hotels zonder ster;2013 maart;1250;14237;35820;1186;13466;34130
+63;Hotels zonder ster;2013 april;1250;14237;35820;1220;13921;35200
+64;Hotels zonder ster;2013 mei;1250;14237;35820;1226;13920;35222
+65;Hotels zonder ster;2013 juni;1250;14237;35820;1219;13702;34908
+66;Hotels zonder ster;2013 juli;1250;14237;35820;1214;13585;34676
+67;Hotels zonder ster;2013 augustus;1250;14237;35820;1212;13513;34528
+68;Hotels zonder ster;2013 september;1250;14237;35820;1215;13579;34670
+69;Hotels zonder ster;2013 oktober;1250;14237;35820;1193;13480;34439
+70;Hotels zonder ster;2013 november;1250;14237;35820;1159;13030;33317
+71;Hotels zonder ster;2013 december;1250;14237;35820;1143;12989;33190
+72;Hotels zonder ster;2014 januari;1323;16014;39865;1185;14718;36919
+73;Hotels zonder ster;2014 februari;1323;16014;39865;1209;14921;37356
+74;Hotels zonder ster;2014 maart;1323;16014;39865;1242;15276;38332
+75;Hotels zonder ster;2014 april;1323;16014;39865;1295;15673;39284
+76;Hotels zonder ster;2014 mei;1323;16014;39865;1301;15643;39209
+77;Hotels zonder ster;2014 juni;1323;16014;39865;1298;15790;39352
+78;Hotels zonder ster;2014 juli;1323;16014;39865;1297;15783;39341
+79;Hotels zonder ster;2014 augustus;1323;16014;39865;1295;15735;39248
+80;Hotels zonder ster;2014 september;1323;16014;39865;1295;15748;39288
+81;Hotels zonder ster;2014 oktober;1323;16014;39865;1260;15573;38895
+82;Hotels zonder ster;2014 november;1323;16014;39865;1212;15079;37634
+83;Hotels zonder ster;2014 december;1323;16014;39865;1189;14866;37129
+84;Hotels zonder ster;2015 januari;1361;17404;44064;1202;16160;41059
+85;Hotels zonder ster;2015 februari;1361;17404;44064;1224;16319;41410
+86;Hotels zonder ster;2015 maart;1361;17404;44064;1271;16769;42533
+87;Hotels zonder ster;2015 april;1361;17404;44064;1321;17044;43239
+88;Hotels zonder ster;2015 mei;1361;17404;44064;1336;17137;43450
+89;Hotels zonder ster;2015 juni;1361;17404;44064;1332;17099;43370
+90;Hotels zonder ster;2015 juli;1361;17404;44064;1329;17090;43351
+91;Hotels zonder ster;2015 augustus;1361;17404;44064;1325;17052;43321
+92;Hotels zonder ster;2015 september;1361;17404;44064;1328;17064;43340
+93;Hotels zonder ster;2015 oktober;1361;17404;44064;1293;16877;42884
+94;Hotels zonder ster;2015 november;1361;17404;44064;1231;16232;41245
+95;Hotels zonder ster;2015 december;1361;17404;44064;1211;16124;41006
+96;Hotels met 1 ster;2012 januari;238;2737;5736;210;2514;5254
+97;Hotels met 1 ster;2012 februari;238;2737;5736;218;2591;5426
+98;Hotels met 1 ster;2012 maart;238;2737;5736;223;2626;5504
+99;Hotels met 1 ster;2012 april;238;2737;5736;232;2696;5645
+100;Hotels met 1 ster;2012 mei;238;2737;5736;231;2691;5635
+101;Hotels met 1 ster;2012 juni;238;2737;5736;232;2695;5647
+102;Hotels met 1 ster;2012 juli;238;2737;5736;231;2683;5625
+103;Hotels met 1 ster;2012 augustus;238;2737;5736;231;2683;5625
+104;Hotels met 1 ster;2012 september;238;2737;5736;229;2675;5609
+105;Hotels met 1 ster;2012 oktober;238;2737;5736;227;2652;5558
+106;Hotels met 1 ster;2012 november;238;2737;5736;220;2608;5460
+107;Hotels met 1 ster;2012 december;238;2737;5736;213;2550;5332
+108;Hotels met 1 ster;2013 januari;236;2677;5725;213;2494;5320
+109;Hotels met 1 ster;2013 februari;236;2677;5725;220;2567;5498
+110;Hotels met 1 ster;2013 maart;236;2677;5725;223;2577;5522
+111;Hotels met 1 ster;2013 april;236;2677;5725;232;2651;5669
+112;Hotels met 1 ster;2013 mei;236;2677;5725;234;2660;5691
+113;Hotels met 1 ster;2013 juni;236;2677;5725;232;2643;5657
+114;Hotels met 1 ster;2013 juli;236;2677;5725;230;2618;5601
+115;Hotels met 1 ster;2013 augustus;236;2677;5725;230;2618;5601
+116;Hotels met 1 ster;2013 september;236;2677;5725;227;2605;5570
+117;Hotels met 1 ster;2013 oktober;236;2677;5725;222;2563;5477
+118;Hotels met 1 ster;2013 november;236;2677;5725;211;2475;5289
+119;Hotels met 1 ster;2013 december;236;2677;5725;208;2461;5258
+120;Hotels met 1 ster;2014 januari;214;2546;5445;183;2261;4818
+121;Hotels met 1 ster;2014 februari;214;2546;5445;199;2419;5187
+122;Hotels met 1 ster;2014 maart;214;2546;5445;204;2438;5227
+123;Hotels met 1 ster;2014 april;214;2546;5445;208;2491;5333
+124;Hotels met 1 ster;2014 mei;214;2546;5445;208;2475;5302
+125;Hotels met 1 ster;2014 juni;214;2546;5445;206;2443;5247
+126;Hotels met 1 ster;2014 juli;214;2546;5445;204;2434;5229
+127;Hotels met 1 ster;2014 augustus;214;2546;5445;204;2434;5229
+128;Hotels met 1 ster;2014 september;214;2546;5445;204;2434;5229
+129;Hotels met 1 ster;2014 oktober;214;2546;5445;200;2396;5150
+130;Hotels met 1 ster;2014 november;214;2546;5445;188;2309;4957
+131;Hotels met 1 ster;2014 december;214;2546;5445;180;2262;4857
+132;Hotels met 1 ster;2015 januari;193;2308;4912;162;2044;4343
+133;Hotels met 1 ster;2015 februari;193;2308;4912;174;2153;4598
+134;Hotels met 1 ster;2015 maart;193;2308;4912;179;2190;4670
+135;Hotels met 1 ster;2015 april;193;2308;4912;185;2254;4804
+136;Hotels met 1 ster;2015 mei;193;2308;4912;186;2258;4813
+137;Hotels met 1 ster;2015 juni;193;2308;4912;187;2266;4829
+138;Hotels met 1 ster;2015 juli;193;2308;4912;186;2257;4815
+139;Hotels met 1 ster;2015 augustus;193;2308;4912;186;2262;4817
+140;Hotels met 1 ster;2015 september;193;2308;4912;186;2263;4823
+141;Hotels met 1 ster;2015 oktober;193;2308;4912;182;2230;4757
+142;Hotels met 1 ster;2015 november;193;2308;4912;175;2168;4621
+143;Hotels met 1 ster;2015 december;193;2308;4912;166;2108;4499
+144;Hotels met 2 sterren;2012 januari;437;6738;14586;377;5839;12661
+145;Hotels met 2 sterren;2012 februari;437;6738;14586;391;6038;13081
+146;Hotels met 2 sterren;2012 maart;437;6738;14586;401;6293;13606
+147;Hotels met 2 sterren;2012 april;437;6738;14586;431;6650;14393
+148;Hotels met 2 sterren;2012 mei;437;6738;14586;432;6630;14358
+149;Hotels met 2 sterren;2012 juni;437;6738;14586;429;6565;14210
+150;Hotels met 2 sterren;2012 juli;437;6738;14586;431;6618;14351
+151;Hotels met 2 sterren;2012 augustus;437;6738;14586;430;6614;14345
+152;Hotels met 2 sterren;2012 september;437;6738;14586;430;6616;14345
+153;Hotels met 2 sterren;2012 oktober;437;6738;14586;422;6533;14158
+154;Hotels met 2 sterren;2012 november;437;6738;14586;401;6249;13535
+155;Hotels met 2 sterren;2012 december;437;6738;14586;384;6023;13059
+156;Hotels met 2 sterren;2013 januari;415;6116;13168;354;5245;11245
+157;Hotels met 2 sterren;2013 februari;415;6116;13168;372;5626;12079
+158;Hotels met 2 sterren;2013 maart;415;6116;13168;392;5905;12693
+159;Hotels met 2 sterren;2013 april;415;6116;13168;408;6080;13096
+160;Hotels met 2 sterren;2013 mei;415;6116;13168;410;6081;13100
+161;Hotels met 2 sterren;2013 juni;415;6116;13168;410;6081;13100
+162;Hotels met 2 sterren;2013 juli;415;6116;13168;408;6072;13081
+163;Hotels met 2 sterren;2013 augustus;415;6116;13168;406;6060;13059
+164;Hotels met 2 sterren;2013 september;415;6116;13168;404;6049;13031
+165;Hotels met 2 sterren;2013 oktober;415;6116;13168;395;5965;12819
+166;Hotels met 2 sterren;2013 november;415;6116;13168;379;5707;12284
+167;Hotels met 2 sterren;2013 december;415;6116;13168;360;5278;11374
+168;Hotels met 2 sterren;2014 januari;401;6484;13614;332;5485;11440
+169;Hotels met 2 sterren;2014 februari;401;6484;13614;346;5797;12092
+170;Hotels met 2 sterren;2014 maart;401;6484;13614;373;6154;12890
+171;Hotels met 2 sterren;2014 april;401;6484;13614;392;6375;13389
+172;Hotels met 2 sterren;2014 mei;401;6484;13614;395;6394;13427
+173;Hotels met 2 sterren;2014 juni;401;6484;13614;393;6380;13395
+174;Hotels met 2 sterren;2014 juli;401;6484;13614;393;6380;13395
+175;Hotels met 2 sterren;2014 augustus;401;6484;13614;392;6377;13389
+176;Hotels met 2 sterren;2014 september;401;6484;13614;392;6372;13382
+177;Hotels met 2 sterren;2014 oktober;401;6484;13614;383;6290;13176
+178;Hotels met 2 sterren;2014 november;401;6484;13614;353;5909;12359
+179;Hotels met 2 sterren;2014 december;401;6484;13614;340;5591;11662
+180;Hotels met 2 sterren;2015 januari;386;6291;13177;312;5252;10897
+181;Hotels met 2 sterren;2015 februari;386;6291;13177;330;5633;11707
+182;Hotels met 2 sterren;2015 maart;386;6291;13177;353;5942;12400
+183;Hotels met 2 sterren;2015 april;386;6291;13177;378;6224;13031
+184;Hotels met 2 sterren;2015 mei;386;6291;13177;382;6249;13085
+185;Hotels met 2 sterren;2015 juni;386;6291;13177;381;6243;13073
+186;Hotels met 2 sterren;2015 juli;386;6291;13177;379;6235;13056
+187;Hotels met 2 sterren;2015 augustus;386;6291;13177;379;6236;13059
+188;Hotels met 2 sterren;2015 september;386;6291;13177;380;6237;13061
+189;Hotels met 2 sterren;2015 oktober;386;6291;13177;369;6131;12805
+190;Hotels met 2 sterren;2015 november;386;6291;13177;345;5819;12137
+191;Hotels met 2 sterren;2015 december;386;6291;13177;330;5430;11299
+192;Hotels met 3 sterren;2012 januari;1021;32762;67700;910;30618;63161
+193;Hotels met 3 sterren;2012 februari;1021;32762;67700;959;31534;65194
+194;Hotels met 3 sterren;2012 maart;1021;32762;67700;986;32057;66250
+195;Hotels met 3 sterren;2012 april;1021;32762;67700;1003;32426;67022
+196;Hotels met 3 sterren;2012 mei;1021;32762;67700;1005;32489;67113
+197;Hotels met 3 sterren;2012 juni;1021;32762;67700;1004;32512;67144
+198;Hotels met 3 sterren;2012 juli;1021;32762;67700;1005;32504;67129
+199;Hotels met 3 sterren;2012 augustus;1021;32762;67700;1000;32414;66950
+200;Hotels met 3 sterren;2012 september;1021;32762;67700;1002;32444;66996
+201;Hotels met 3 sterren;2012 oktober;1021;32762;67700;999;32346;66813
+202;Hotels met 3 sterren;2012 november;1021;32762;67700;970;31887;65827
+203;Hotels met 3 sterren;2012 december;1021;32762;67700;945;31307;64564
+204;Hotels met 3 sterren;2013 januari;1025;33996;70283;933;32007;66066
+205;Hotels met 3 sterren;2013 februari;1025;33996;70283;982;33225;68670
+206;Hotels met 3 sterren;2013 maart;1025;33996;70283;998;33515;69284
+207;Hotels met 3 sterren;2013 april;1025;33996;70283;1013;33686;69693
+208;Hotels met 3 sterren;2013 mei;1025;33996;70283;1013;33686;69693
+209;Hotels met 3 sterren;2013 juni;1025;33996;70283;1009;33342;69003
+210;Hotels met 3 sterren;2013 juli;1025;33996;70283;1006;33298;68911
+211;Hotels met 3 sterren;2013 augustus;1025;33996;70283;1003;33227;68777
+212;Hotels met 3 sterren;2013 september;1025;33996;70283;1004;33235;68793
+213;Hotels met 3 sterren;2013 oktober;1025;33996;70283;1001;33202;68700
+214;Hotels met 3 sterren;2013 november;1025;33996;70283;969;32608;67428
+215;Hotels met 3 sterren;2013 december;1025;33996;70283;952;32216;66544
+216;Hotels met 3 sterren;2014 januari;1032;35058;72975;908;32653;67819
+217;Hotels met 3 sterren;2014 februari;1032;35058;72975;970;33943;70632
+218;Hotels met 3 sterren;2014 maart;1032;35058;72975;997;34392;71616
+219;Hotels met 3 sterren;2014 april;1032;35058;72975;1019;34660;72193
+220;Hotels met 3 sterren;2014 mei;1032;35058;72975;1020;34588;72040
+221;Hotels met 3 sterren;2014 juni;1032;35058;72975;1021;34633;72120
+222;Hotels met 3 sterren;2014 juli;1032;35058;72975;1018;34545;71966
+223;Hotels met 3 sterren;2014 augustus;1032;35058;72975;1017;34537;71950
+224;Hotels met 3 sterren;2014 september;1032;35058;72975;1018;34551;71980
+225;Hotels met 3 sterren;2014 oktober;1032;35058;72975;1010;34427;71707
+226;Hotels met 3 sterren;2014 november;1032;35058;72975;978;33854;70489
+227;Hotels met 3 sterren;2014 december;1032;35058;72975;947;33153;68953
+228;Hotels met 3 sterren;2015 januari;1004;34655;72300;876;32093;66824
+229;Hotels met 3 sterren;2015 februari;1004;34655;72300;936;33347;69532
+230;Hotels met 3 sterren;2015 maart;1004;34655;72300;969;33923;70750
+231;Hotels met 3 sterren;2015 april;1004;34655;72300;987;34171;71294
+232;Hotels met 3 sterren;2015 mei;1004;34655;72300;992;34286;71521
+233;Hotels met 3 sterren;2015 juni;1004;34655;72300;993;34331;71601
+234;Hotels met 3 sterren;2015 juli;1004;34655;72300;990;34282;71526
+235;Hotels met 3 sterren;2015 augustus;1004;34655;72300;989;34254;71469
+236;Hotels met 3 sterren;2015 september;1004;34655;72300;989;34248;71461
+237;Hotels met 3 sterren;2015 oktober;1004;34655;72300;984;34221;71377
+238;Hotels met 3 sterren;2015 november;1004;34655;72300;942;33509;69867
+239;Hotels met 3 sterren;2015 december;1004;34655;72300;927;33166;69166
+240;Hotels met 4 sterren;2012 januari;539;49641;103530;525;49280;102760
+241;Hotels met 4 sterren;2012 februari;539;49641;103530;532;49428;103114
+242;Hotels met 4 sterren;2012 maart;539;49641;103530;535;49514;103276
+243;Hotels met 4 sterren;2012 april;539;49641;103530;538;49569;103386
+244;Hotels met 4 sterren;2012 mei;539;49641;103530;538;49569;103386
+245;Hotels met 4 sterren;2012 juni;539;49641;103530;538;49569;103386
+246;Hotels met 4 sterren;2012 juli;539;49641;103530;536;49525;103298
+247;Hotels met 4 sterren;2012 augustus;539;49641;103530;537;49551;103350
+248;Hotels met 4 sterren;2012 september;539;49641;103530;537;49545;103338
+249;Hotels met 4 sterren;2012 oktober;539;49641;103530;536;49524;103293
+250;Hotels met 4 sterren;2012 november;539;49641;103530;535;49514;103277
+251;Hotels met 4 sterren;2012 december;539;49641;103530;533;49494;103233
+252;Hotels met 4 sterren;2013 januari;555;51612;108566;543;51100;107398
+253;Hotels met 4 sterren;2013 februari;555;51612;108566;550;51398;108128
+254;Hotels met 4 sterren;2013 maart;555;51612;108566;552;51368;108074
+255;Hotels met 4 sterren;2013 april;555;51612;108566;553;51383;108103
+256;Hotels met 4 sterren;2013 mei;555;51612;108566;553;51383;108103
+257;Hotels met 4 sterren;2013 juni;555;51612;108566;553;51383;108103
+258;Hotels met 4 sterren;2013 juli;555;51612;108566;552;51344;108025
+259;Hotels met 4 sterren;2013 augustus;555;51612;108566;551;51316;107967
+260;Hotels met 4 sterren;2013 september;555;51612;108566;550;51286;107901
+261;Hotels met 4 sterren;2013 oktober;555;51612;108566;549;51271;107872
+262;Hotels met 4 sterren;2013 november;555;51612;108566;549;51271;107872
+263;Hotels met 4 sterren;2013 december;555;51612;108566;546;51113;107532
+264;Hotels met 4 sterren;2014 januari;563;52640;109789;549;52273;109020
+265;Hotels met 4 sterren;2014 februari;563;52640;109789;557;52499;109503
+266;Hotels met 4 sterren;2014 maart;563;52640;109789;560;52592;109693
+267;Hotels met 4 sterren;2014 april;563;52640;109789;562;52635;109779
+268;Hotels met 4 sterren;2014 mei;563;52640;109789;561;52563;109657
+269;Hotels met 4 sterren;2014 juni;563;52640;109789;560;52559;109649
+270;Hotels met 4 sterren;2014 juli;563;52640;109789;560;52559;109649
+271;Hotels met 4 sterren;2014 augustus;563;52640;109789;560;52559;109649
+272;Hotels met 4 sterren;2014 september;563;52640;109789;559;52480;109484
+273;Hotels met 4 sterren;2014 oktober;563;52640;109789;558;52259;109064
+274;Hotels met 4 sterren;2014 november;563;52640;109789;556;52083;108712
+275;Hotels met 4 sterren;2014 december;563;52640;109789;548;51617;107788
+276;Hotels met 4 sterren;2015 januari;553;52282;109905;538;51766;108763
+277;Hotels met 4 sterren;2015 februari;553;52282;109905;544;51894;109096
+278;Hotels met 4 sterren;2015 maart;553;52282;109905;550;52089;109493
+279;Hotels met 4 sterren;2015 april;553;52282;109905;553;52282;109905
+280;Hotels met 4 sterren;2015 mei;553;52282;109905;553;52282;109905
+281;Hotels met 4 sterren;2015 juni;553;52282;109905;553;52282;109905
+282;Hotels met 4 sterren;2015 juli;553;52282;109905;552;52266;109873
+283;Hotels met 4 sterren;2015 augustus;553;52282;109905;552;52266;109873
+284;Hotels met 4 sterren;2015 september;553;52282;109905;551;52119;109553
+285;Hotels met 4 sterren;2015 oktober;553;52282;109905;549;52019;109402
+286;Hotels met 4 sterren;2015 november;553;52282;109905;546;51839;108994
+287;Hotels met 4 sterren;2015 december;553;52282;109905;546;51852;109057
+288;Hotels met 5 sterren;2012 januari;27;5024;10172;27;5024;10172
+289;Hotels met 5 sterren;2012 februari;27;5024;10172;27;5024;10172
+290;Hotels met 5 sterren;2012 maart;27;5024;10172;27;5024;10172
+291;Hotels met 5 sterren;2012 april;27;5024;10172;27;5024;10172
+292;Hotels met 5 sterren;2012 mei;27;5024;10172;27;5024;10172
+293;Hotels met 5 sterren;2012 juni;27;5024;10172;27;5024;10172
+294;Hotels met 5 sterren;2012 juli;27;5024;10172;27;5024;10172
+295;Hotels met 5 sterren;2012 augustus;27;5024;10172;27;5024;10172
+296;Hotels met 5 sterren;2012 september;27;5024;10172;27;5024;10172
+297;Hotels met 5 sterren;2012 oktober;27;5024;10172;27;5024;10172
+298;Hotels met 5 sterren;2012 november;27;5024;10172;27;5024;10172
+299;Hotels met 5 sterren;2012 december;27;5024;10172;27;5024;10172
+300;Hotels met 5 sterren;2013 januari;29;5175;10583;29;5175;10583
+301;Hotels met 5 sterren;2013 februari;29;5175;10583;28;5172;10576
+302;Hotels met 5 sterren;2013 maart;29;5175;10583;28;5172;10576
+303;Hotels met 5 sterren;2013 april;29;5175;10583;28;5172;10576
+304;Hotels met 5 sterren;2013 mei;29;5175;10583;28;5172;10576
+305;Hotels met 5 sterren;2013 juni;29;5175;10583;28;5172;10576
+306;Hotels met 5 sterren;2013 juli;29;5175;10583;28;5172;10576
+307;Hotels met 5 sterren;2013 augustus;29;5175;10583;28;5172;10576
+308;Hotels met 5 sterren;2013 september;29;5175;10583;28;5172;10576
+309;Hotels met 5 sterren;2013 oktober;29;5175;10583;28;5172;10576
+310;Hotels met 5 sterren;2013 november;29;5175;10583;28;5172;10576
+311;Hotels met 5 sterren;2013 december;29;5175;10583;28;5172;10576
+312;Hotels met 5 sterren;2014 januari;28;5175;10427;28;5175;10427
+313;Hotels met 5 sterren;2014 februari;28;5175;10427;28;5175;10427
+314;Hotels met 5 sterren;2014 maart;28;5175;10427;28;5175;10427
+315;Hotels met 5 sterren;2014 april;28;5175;10427;28;5175;10427
+316;Hotels met 5 sterren;2014 mei;28;5175;10427;28;5175;10427
+317;Hotels met 5 sterren;2014 juni;28;5175;10427;28;5175;10427
+318;Hotels met 5 sterren;2014 juli;28;5175;10427;28;5175;10427
+319;Hotels met 5 sterren;2014 augustus;28;5175;10427;28;5175;10427
+320;Hotels met 5 sterren;2014 september;28;5175;10427;28;5175;10427
+321;Hotels met 5 sterren;2014 oktober;28;5175;10427;28;5175;10427
+322;Hotels met 5 sterren;2014 november;28;5175;10427;28;5175;10427
+323;Hotels met 5 sterren;2014 december;28;5175;10427;28;5175;10427
+324;Hotels met 5 sterren;2015 januari;28;5181;10231;28;5181;10231
+325;Hotels met 5 sterren;2015 februari;28;5181;10231;28;5181;10231
+326;Hotels met 5 sterren;2015 maart;28;5181;10231;28;5181;10231
+327;Hotels met 5 sterren;2015 april;28;5181;10231;28;5181;10231
+328;Hotels met 5 sterren;2015 mei;28;5181;10231;28;5181;10231
+329;Hotels met 5 sterren;2015 juni;28;5181;10231;28;5181;10231
+330;Hotels met 5 sterren;2015 juli;28;5181;10231;28;5181;10231
+331;Hotels met 5 sterren;2015 augustus;28;5181;10231;28;5181;10231
+332;Hotels met 5 sterren;2015 september;28;5181;10231;28;5181;10231
+333;Hotels met 5 sterren;2015 oktober;28;5181;10231;28;5181;10231
+334;Hotels met 5 sterren;2015 november;28;5181;10231;28;5181;10231
+335;Hotels met 5 sterren;2015 december;28;5181;10231;28;5181;10231
+336;Totaal Amsterdamse hotels;2012 januari;401;23459;49773;387;23274;49250
+337;Totaal Amsterdamse hotels;2012 februari;401;23459;49773;388;23267;49287
+338;Totaal Amsterdamse hotels;2012 maart;401;23459;49773;389;23269;49325
+339;Totaal Amsterdamse hotels;2012 april;401;23459;49773;394;23354;49520
+340;Totaal Amsterdamse hotels;2012 mei;401;23459;49773;393;23344;49495
+341;Totaal Amsterdamse hotels;2012 juni;401;23459;49773;394;23380;49553
+342;Totaal Amsterdamse hotels;2012 juli;401;23459;49773;394;23380;49553
+343;Totaal Amsterdamse hotels;2012 augustus;401;23459;49773;394;23380;49553
+344;Totaal Amsterdamse hotels;2012 september;401;23459;49773;394;23380;49553
+345;Totaal Amsterdamse hotels;2012 oktober;401;23459;49773;390;23293;49375
+346;Totaal Amsterdamse hotels;2012 november;401;23459;49773;390;23298;49385
+347;Totaal Amsterdamse hotels;2012 december;401;23459;49773;386;23233;49203
+348;Totaal Amsterdamse hotels;2013 januari;423;25559;55084;415;25445;54843
+349;Totaal Amsterdamse hotels;2013 februari;423;25559;55084;417;25469;54896
+350;Totaal Amsterdamse hotels;2013 maart;423;25559;55084;418;25379;54714
+351;Totaal Amsterdamse hotels;2013 april;423;25559;55084;421;25392;54766
+352;Totaal Amsterdamse hotels;2013 mei;423;25559;55084;421;25392;54766
+353;Totaal Amsterdamse hotels;2013 juni;423;25559;55084;418;24945;54008
+354;Totaal Amsterdamse hotels;2013 juli;423;25559;55084;416;24885;53881
+355;Totaal Amsterdamse hotels;2013 augustus;423;25559;55084;414;24818;53756
+356;Totaal Amsterdamse hotels;2013 september;423;25559;55084;413;24813;53746
+357;Totaal Amsterdamse hotels;2013 oktober;423;25559;55084;412;24803;53725
+358;Totaal Amsterdamse hotels;2013 november;423;25559;55084;408;24670;53391
+359;Totaal Amsterdamse hotels;2013 december;423;25559;55084;406;24627;53293
+360;Totaal Amsterdamse hotels;2014 januari;432;27045;58095;417;26764;57590
+361;Totaal Amsterdamse hotels;2014 februari;432;27045;58095;419;26778;57622
+362;Totaal Amsterdamse hotels;2014 maart;432;27045;58095;428;26846;57800
+363;Totaal Amsterdamse hotels;2014 april;432;27045;58095;429;26731;57580
+364;Totaal Amsterdamse hotels;2014 mei;432;27045;58095;428;26714;57546
+365;Totaal Amsterdamse hotels;2014 juni;432;27045;58095;427;26868;57718
+366;Totaal Amsterdamse hotels;2014 juli;432;27045;58095;426;26829;57664
+367;Totaal Amsterdamse hotels;2014 augustus;432;27045;58095;427;26864;57734
+368;Totaal Amsterdamse hotels;2014 september;432;27045;58095;427;26864;57734
+369;Totaal Amsterdamse hotels;2014 oktober;432;27045;58095;424;26839;57685
+370;Totaal Amsterdamse hotels;2014 november;432;27045;58095;421;26652;57314
+371;Totaal Amsterdamse hotels;2014 december;432;27045;58095;414;26568;57099
+372;Totaal Amsterdamse hotels;2015 januari;429;27545;60205;413;27125;59259
+373;Totaal Amsterdamse hotels;2015 februari;429;27545;60205;417;27165;59343
+374;Totaal Amsterdamse hotels;2015 maart;429;27545;60205;419;27190;59423
+375;Totaal Amsterdamse hotels;2015 april;429;27545;60205;421;27268;59594
+376;Totaal Amsterdamse hotels;2015 mei;429;27545;60205;422;27277;59617
+377;Totaal Amsterdamse hotels;2015 juni;429;27545;60205;422;27277;59617
+378;Totaal Amsterdamse hotels;2015 juli;429;27545;60205;421;27238;59563
+379;Totaal Amsterdamse hotels;2015 augustus;429;27545;60205;420;27232;59551
+380;Totaal Amsterdamse hotels;2015 september;429;27545;60205;421;27238;59563
+381;Totaal Amsterdamse hotels;2015 oktober;429;27545;60205;416;27175;59433
+382;Totaal Amsterdamse hotels;2015 november;429;27545;60205;412;27119;59287
+383;Totaal Amsterdamse hotels;2015 december;429;27545;60205;405;27006;59042
+384;Amsterdamse hotels zonder ster;2012 januari;121;3051;8199;117;3010;7994
+385;Amsterdamse hotels zonder ster;2012 februari;121;3051;8199;118;3023;8058
+386;Amsterdamse hotels zonder ster;2012 maart;121;3051;8199;118;3022;8088
+387;Amsterdamse hotels zonder ster;2012 april;121;3051;8199;118;3022;8088
+388;Amsterdamse hotels zonder ster;2012 mei;121;3051;8199;117;3012;8063
+389;Amsterdamse hotels zonder ster;2012 juni;121;3051;8199;117;3012;8063
+390;Amsterdamse hotels zonder ster;2012 juli;121;3051;8199;117;3012;8063
+391;Amsterdamse hotels zonder ster;2012 augustus;121;3051;8199;117;3012;8063
+392;Amsterdamse hotels zonder ster;2012 september;121;3051;8199;117;3012;8063
+393;Amsterdamse hotels zonder ster;2012 oktober;121;3051;8199;117;3012;8063
+394;Amsterdamse hotels zonder ster;2012 november;121;3051;8199;117;3012;8063
+395;Amsterdamse hotels zonder ster;2012 december;121;3051;8199;116;2999;7999
+396;Amsterdamse hotels zonder ster;2013 januari;133;3308;9081;132;3299;9062
+397;Amsterdamse hotels zonder ster;2013 februari;133;3308;9081;133;3308;9081
+398;Amsterdamse hotels zonder ster;2013 maart;133;3308;9081;133;3308;9081
+399;Amsterdamse hotels zonder ster;2013 april;133;3308;9081;133;3308;9081
+400;Amsterdamse hotels zonder ster;2013 mei;133;3308;9081;133;3308;9081
+401;Amsterdamse hotels zonder ster;2013 juni;133;3308;9081;132;3140;8881
+402;Amsterdamse hotels zonder ster;2013 juli;133;3308;9081;132;3140;8881
+403;Amsterdamse hotels zonder ster;2013 augustus;133;3308;9081;131;3112;8829
+404;Amsterdamse hotels zonder ster;2013 september;133;3308;9081;130;3107;8819
+405;Amsterdamse hotels zonder ster;2013 oktober;133;3308;9081;130;3107;8819
+406;Amsterdamse hotels zonder ster;2013 november;133;3308;9081;129;3093;8721
+407;Amsterdamse hotels zonder ster;2013 december;133;3308;9081;129;3093;8721
+408;Amsterdamse hotels zonder ster;2014 januari;140;3892;10434;136;3711;10137
+409;Amsterdamse hotels zonder ster;2014 februari;140;3892;10434;136;3711;10137
+410;Amsterdamse hotels zonder ster;2014 maart;140;3892;10434;138;3716;10184
+411;Amsterdamse hotels zonder ster;2014 april;140;3892;10434;138;3689;10164
+412;Amsterdamse hotels zonder ster;2014 mei;140;3892;10434;137;3672;10130
+413;Amsterdamse hotels zonder ster;2014 juni;140;3892;10434;137;3837;10324
+414;Amsterdamse hotels zonder ster;2014 juli;140;3892;10434;137;3837;10324
+415;Amsterdamse hotels zonder ster;2014 augustus;140;3892;10434;138;3872;10394
+416;Amsterdamse hotels zonder ster;2014 september;140;3892;10434;138;3872;10394
+417;Amsterdamse hotels zonder ster;2014 oktober;140;3892;10434;138;3872;10394
+418;Amsterdamse hotels zonder ster;2014 november;140;3892;10434;138;3872;10394
+419;Amsterdamse hotels zonder ster;2014 december;140;3892;10434;136;3856;10326
+420;Amsterdamse hotels zonder ster;2015 januari;144;4619;12673;140;4574;12532
+421;Amsterdamse hotels zonder ster;2015 februari;144;4619;12673;140;4574;12532
+422;Amsterdamse hotels zonder ster;2015 maart;144;4619;12673;143;4610;12650
+423;Amsterdamse hotels zonder ster;2015 april;144;4619;12673;140;4492;12394
+424;Amsterdamse hotels zonder ster;2015 mei;144;4619;12673;141;4501;12417
+425;Amsterdamse hotels zonder ster;2015 juni;144;4619;12673;141;4501;12417
+426;Amsterdamse hotels zonder ster;2015 juli;144;4619;12673;141;4501;12417
+427;Amsterdamse hotels zonder ster;2015 augustus;144;4619;12673;140;4495;12405
+428;Amsterdamse hotels zonder ster;2015 september;144;4619;12673;141;4501;12417
+429;Amsterdamse hotels zonder ster;2015 oktober;144;4619;12673;139;4478;12366
+430;Amsterdamse hotels zonder ster;2015 november;144;4619;12673;138;4476;12330
+431;Amsterdamse hotels zonder ster;2015 december;144;4619;12673;136;4453;12278
+432;Amsterdamse hotels met 1 ster;2012 januari;48;786;1739;46;757;1680
+433;Amsterdamse hotels met 1 ster;2012 februari;48;786;1739;46;758;1681
+434;Amsterdamse hotels met 1 ster;2012 maart;48;786;1739;46;758;1681
+435;Amsterdamse hotels met 1 ster;2012 april;48;786;1739;46;758;1681
+436;Amsterdamse hotels met 1 ster;2012 mei;48;786;1739;46;758;1681
+437;Amsterdamse hotels met 1 ster;2012 juni;48;786;1739;46;758;1681
+438;Amsterdamse hotels met 1 ster;2012 juli;48;786;1739;46;758;1681
+439;Amsterdamse hotels met 1 ster;2012 augustus;48;786;1739;46;758;1681
+440;Amsterdamse hotels met 1 ster;2012 september;48;786;1739;46;758;1681
+441;Amsterdamse hotels met 1 ster;2012 oktober;48;786;1739;46;758;1681
+442;Amsterdamse hotels met 1 ster;2012 november;48;786;1739;46;758;1681
+443;Amsterdamse hotels met 1 ster;2012 december;48;786;1739;46;758;1681
+444;Amsterdamse hotels met 1 ster;2013 januari;50;811;1821;50;811;1821
+445;Amsterdamse hotels met 1 ster;2013 februari;50;811;1821;50;811;1821
+446;Amsterdamse hotels met 1 ster;2013 maart;50;811;1821;50;811;1821
+447;Amsterdamse hotels met 1 ster;2013 april;50;811;1821;50;811;1821
+448;Amsterdamse hotels met 1 ster;2013 mei;50;811;1821;50;811;1821
+449;Amsterdamse hotels met 1 ster;2013 juni;50;811;1821;49;798;1795
+450;Amsterdamse hotels met 1 ster;2013 juli;50;811;1821;48;777;1746
+451;Amsterdamse hotels met 1 ster;2013 augustus;50;811;1821;48;777;1746
+452;Amsterdamse hotels met 1 ster;2013 september;50;811;1821;48;777;1746
+453;Amsterdamse hotels met 1 ster;2013 oktober;50;811;1821;48;777;1746
+454;Amsterdamse hotels met 1 ster;2013 november;50;811;1821;47;751;1694
+455;Amsterdamse hotels met 1 ster;2013 december;50;811;1821;47;751;1694
+456;Amsterdamse hotels met 1 ster;2014 januari;49;800;1838;46;782;1798
+457;Amsterdamse hotels met 1 ster;2014 februari;49;800;1838;48;796;1830
+458;Amsterdamse hotels met 1 ster;2014 maart;49;800;1838;49;800;1838
+459;Amsterdamse hotels met 1 ster;2014 april;49;800;1838;49;800;1838
+460;Amsterdamse hotels met 1 ster;2014 mei;49;800;1838;49;800;1838
+461;Amsterdamse hotels met 1 ster;2014 juni;49;800;1838;48;789;1816
+462;Amsterdamse hotels met 1 ster;2014 juli;49;800;1838;48;789;1816
+463;Amsterdamse hotels met 1 ster;2014 augustus;49;800;1838;48;789;1816
+464;Amsterdamse hotels met 1 ster;2014 september;49;800;1838;48;789;1816
+465;Amsterdamse hotels met 1 ster;2014 oktober;49;800;1838;48;789;1816
+466;Amsterdamse hotels met 1 ster;2014 november;49;800;1838;47;763;1764
+467;Amsterdamse hotels met 1 ster;2014 december;49;800;1838;45;755;1748
+468;Amsterdamse hotels met 1 ster;2015 januari;45;767;1716;43;759;1699
+469;Amsterdamse hotels met 1 ster;2015 februari;45;767;1716;45;767;1716
+470;Amsterdamse hotels met 1 ster;2015 maart;45;767;1716;43;744;1657
+471;Amsterdamse hotels met 1 ster;2015 april;45;767;1716;44;761;1701
+472;Amsterdamse hotels met 1 ster;2015 mei;45;767;1716;44;761;1701
+473;Amsterdamse hotels met 1 ster;2015 juni;45;767;1716;44;761;1701
+474;Amsterdamse hotels met 1 ster;2015 juli;45;767;1716;44;761;1701
+475;Amsterdamse hotels met 1 ster;2015 augustus;45;767;1716;44;761;1701
+476;Amsterdamse hotels met 1 ster;2015 september;45;767;1716;44;761;1701
+477;Amsterdamse hotels met 1 ster;2015 oktober;45;767;1716;44;761;1701
+478;Amsterdamse hotels met 1 ster;2015 november;45;767;1716;43;735;1649
+479;Amsterdamse hotels met 1 ster;2015 december;45;767;1716;41;727;1632
+480;Amsterdamse hotels met 2 sterren;2012 januari;71;1937;4172;67;1890;4062
+481;Amsterdamse hotels met 2 sterren;2012 februari;71;1937;4172;67;1890;4062
+482;Amsterdamse hotels met 2 sterren;2012 maart;71;1937;4172;67;1890;4062
+483;Amsterdamse hotels met 2 sterren;2012 april;71;1937;4172;71;1937;4172
+484;Amsterdamse hotels met 2 sterren;2012 mei;71;1937;4172;71;1937;4172
+485;Amsterdamse hotels met 2 sterren;2012 juni;71;1937;4172;71;1937;4172
+486;Amsterdamse hotels met 2 sterren;2012 juli;71;1937;4172;71;1937;4172
+487;Amsterdamse hotels met 2 sterren;2012 augustus;71;1937;4172;71;1937;4172
+488;Amsterdamse hotels met 2 sterren;2012 september;71;1937;4172;71;1937;4172
+489;Amsterdamse hotels met 2 sterren;2012 oktober;71;1937;4172;68;1886;4052
+490;Amsterdamse hotels met 2 sterren;2012 november;71;1937;4172;68;1891;4062
+491;Amsterdamse hotels met 2 sterren;2012 december;71;1937;4172;67;1882;4038
+492;Amsterdamse hotels met 2 sterren;2013 januari;63;1575;3324;59;1526;3229
+493;Amsterdamse hotels met 2 sterren;2013 februari;63;1575;3324;59;1526;3229
+494;Amsterdamse hotels met 2 sterren;2013 maart;63;1575;3324;61;1552;3279
+495;Amsterdamse hotels met 2 sterren;2013 april;63;1575;3324;63;1575;3324
+496;Amsterdamse hotels met 2 sterren;2013 mei;63;1575;3324;63;1575;3324
+497;Amsterdamse hotels met 2 sterren;2013 juni;63;1575;3324;63;1575;3324
+498;Amsterdamse hotels met 2 sterren;2013 juli;63;1575;3324;63;1575;3324
+499;Amsterdamse hotels met 2 sterren;2013 augustus;63;1575;3324;63;1575;3324
+500;Amsterdamse hotels met 2 sterren;2013 september;63;1575;3324;63;1575;3324
+501;Amsterdamse hotels met 2 sterren;2013 oktober;63;1575;3324;62;1565;3303
+502;Amsterdamse hotels met 2 sterren;2013 november;63;1575;3324;60;1472;3119
+503;Amsterdamse hotels met 2 sterren;2013 december;63;1575;3324;60;1472;3119
+504;Amsterdamse hotels met 2 sterren;2014 januari;63;1603;3539;58;1543;3420
+505;Amsterdamse hotels met 2 sterren;2014 februari;63;1603;3539;58;1543;3420
+506;Amsterdamse hotels met 2 sterren;2014 maart;63;1603;3539;61;1580;3494
+507;Amsterdamse hotels met 2 sterren;2014 april;63;1603;3539;63;1603;3539
+508;Amsterdamse hotels met 2 sterren;2014 mei;63;1603;3539;63;1603;3539
+509;Amsterdamse hotels met 2 sterren;2014 juni;63;1603;3539;63;1603;3539
+510;Amsterdamse hotels met 2 sterren;2014 juli;63;1603;3539;63;1603;3539
+511;Amsterdamse hotels met 2 sterren;2014 augustus;63;1603;3539;63;1603;3539
+512;Amsterdamse hotels met 2 sterren;2014 september;63;1603;3539;63;1603;3539
+513;Amsterdamse hotels met 2 sterren;2014 oktober;63;1603;3539;61;1581;3497
+514;Amsterdamse hotels met 2 sterren;2014 november;63;1603;3539;60;1568;3473
+515;Amsterdamse hotels met 2 sterren;2014 december;63;1603;3539;59;1551;3438
+516;Amsterdamse hotels met 2 sterren;2015 januari;63;1611;3529;58;1552;3415
+517;Amsterdamse hotels met 2 sterren;2015 februari;63;1611;3529;59;1569;3448
+518;Amsterdamse hotels met 2 sterren;2015 maart;63;1611;3529;60;1581;3469
+519;Amsterdamse hotels met 2 sterren;2015 april;63;1611;3529;63;1611;3529
+520;Amsterdamse hotels met 2 sterren;2015 mei;63;1611;3529;63;1611;3529
+521;Amsterdamse hotels met 2 sterren;2015 juni;63;1611;3529;63;1611;3529
+522;Amsterdamse hotels met 2 sterren;2015 juli;63;1611;3529;63;1611;3529
+523;Amsterdamse hotels met 2 sterren;2015 augustus;63;1611;3529;63;1611;3529
+524;Amsterdamse hotels met 2 sterren;2015 september;63;1611;3529;63;1611;3529
+525;Amsterdamse hotels met 2 sterren;2015 oktober;63;1611;3529;60;1571;3450
+526;Amsterdamse hotels met 2 sterren;2015 november;63;1611;3529;59;1558;3426
+527;Amsterdamse hotels met 2 sterren;2015 december;63;1611;3529;57;1504;3308
+528;Amsterdamse hotels met 3 sterren;2012 januari;92;6129;12408;89;6076;12289
+529;Amsterdamse hotels met 3 sterren;2012 februari;92;6129;12408;88;6040;12231
+530;Amsterdamse hotels met 3 sterren;2012 maart;92;6129;12408;89;6043;12239
+531;Amsterdamse hotels met 3 sterren;2012 april;92;6129;12408;90;6081;12324
+532;Amsterdamse hotels met 3 sterren;2012 mei;92;6129;12408;90;6081;12324
+533;Amsterdamse hotels met 3 sterren;2012 juni;92;6129;12408;91;6117;12382
+534;Amsterdamse hotels met 3 sterren;2012 juli;92;6129;12408;91;6117;12382
+535;Amsterdamse hotels met 3 sterren;2012 augustus;92;6129;12408;91;6117;12382
+536;Amsterdamse hotels met 3 sterren;2012 september;92;6129;12408;91;6117;12382
+537;Amsterdamse hotels met 3 sterren;2012 oktober;92;6129;12408;90;6081;12324
+538;Amsterdamse hotels met 3 sterren;2012 november;92;6129;12408;90;6081;12324
+539;Amsterdamse hotels met 3 sterren;2012 december;92;6129;12408;89;6053;12260
+540;Amsterdamse hotels met 3 sterren;2013 januari;101;7234;14885;99;7193;14792
+541;Amsterdamse hotels met 3 sterren;2013 februari;101;7234;14885;99;7193;14792
+542;Amsterdamse hotels met 3 sterren;2013 maart;101;7234;14885;99;7193;14792
+543;Amsterdamse hotels met 3 sterren;2013 april;101;7234;14885;100;7183;14799
+544;Amsterdamse hotels met 3 sterren;2013 mei;101;7234;14885;100;7183;14799
+545;Amsterdamse hotels met 3 sterren;2013 juni;101;7234;14885;99;6917;14267
+546;Amsterdamse hotels met 3 sterren;2013 juli;101;7234;14885;99;6917;14267
+547;Amsterdamse hotels met 3 sterren;2013 augustus;101;7234;14885;98;6878;14194
+548;Amsterdamse hotels met 3 sterren;2013 september;101;7234;14885;98;6878;14194
+549;Amsterdamse hotels met 3 sterren;2013 oktober;101;7234;14885;98;6878;14194
+550;Amsterdamse hotels met 3 sterren;2013 november;101;7234;14885;98;6878;14194
+551;Amsterdamse hotels met 3 sterren;2013 december;101;7234;14885;97;6850;14130
+552;Amsterdamse hotels met 3 sterren;2014 januari;102;7508;15555;101;7505;15548
+553;Amsterdamse hotels met 3 sterren;2014 februari;102;7508;15555;101;7505;15548
+554;Amsterdamse hotels met 3 sterren;2014 maart;102;7508;15555;102;7508;15555
+555;Amsterdamse hotels met 3 sterren;2014 april;102;7508;15555;101;7397;15310
+556;Amsterdamse hotels met 3 sterren;2014 mei;102;7508;15555;101;7397;15310
+557;Amsterdamse hotels met 3 sterren;2014 juni;102;7508;15555;101;7397;15310
+558;Amsterdamse hotels met 3 sterren;2014 juli;102;7508;15555;100;7358;15256
+559;Amsterdamse hotels met 3 sterren;2014 augustus;102;7508;15555;100;7358;15256
+560;Amsterdamse hotels met 3 sterren;2014 september;102;7508;15555;100;7358;15256
+561;Amsterdamse hotels met 3 sterren;2014 oktober;102;7508;15555;99;7355;15249
+562;Amsterdamse hotels met 3 sterren;2014 november;102;7508;15555;99;7355;15249
+563;Amsterdamse hotels met 3 sterren;2014 december;102;7508;15555;98;7327;15185
+564;Amsterdamse hotels met 3 sterren;2015 januari;99;7280;15208;96;7136;14891
+565;Amsterdamse hotels met 3 sterren;2015 februari;99;7280;15208;96;7136;14891
+566;Amsterdamse hotels met 3 sterren;2015 maart;99;7280;15208;96;7136;14891
+567;Amsterdamse hotels met 3 sterren;2015 april;99;7280;15208;96;7136;14891
+568;Amsterdamse hotels met 3 sterren;2015 mei;99;7280;15208;96;7136;14891
+569;Amsterdamse hotels met 3 sterren;2015 juni;99;7280;15208;96;7136;14891
+570;Amsterdamse hotels met 3 sterren;2015 juli;99;7280;15208;95;7097;14837
+571;Amsterdamse hotels met 3 sterren;2015 augustus;99;7280;15208;95;7097;14837
+572;Amsterdamse hotels met 3 sterren;2015 september;99;7280;15208;95;7097;14837
+573;Amsterdamse hotels met 3 sterren;2015 oktober;99;7280;15208;95;7097;14837
+574;Amsterdamse hotels met 3 sterren;2015 november;99;7280;15208;95;7097;14837
+575;Amsterdamse hotels met 3 sterren;2015 december;99;7280;15208;94;7069;14779
+576;Amsterdamse hotels met 4 sterren;2012 januari;56;8430;16856;55;8415;16826
+577;Amsterdamse hotels met 4 sterren;2012 februari;56;8430;16856;56;8430;16856
+578;Amsterdamse hotels met 4 sterren;2012 maart;56;8430;16856;56;8430;16856
+579;Amsterdamse hotels met 4 sterren;2012 april;56;8430;16856;56;8430;16856
+580;Amsterdamse hotels met 4 sterren;2012 mei;56;8430;16856;56;8430;16856
+581;Amsterdamse hotels met 4 sterren;2012 juni;56;8430;16856;56;8430;16856
+582;Amsterdamse hotels met 4 sterren;2012 juli;56;8430;16856;56;8430;16856
+583;Amsterdamse hotels met 4 sterren;2012 augustus;56;8430;16856;56;8430;16856
+584;Amsterdamse hotels met 4 sterren;2012 september;56;8430;16856;56;8430;16856
+585;Amsterdamse hotels met 4 sterren;2012 oktober;56;8430;16856;56;8430;16856
+586;Amsterdamse hotels met 4 sterren;2012 november;56;8430;16856;56;8430;16856
+587;Amsterdamse hotels met 4 sterren;2012 december;56;8430;16856;55;8415;16826
+588;Amsterdamse hotels met 4 sterren;2013 januari;62;9394;19288;61;9379;19254
+589;Amsterdamse hotels met 4 sterren;2013 februari;62;9394;19288;62;9394;19288
+590;Amsterdamse hotels met 4 sterren;2013 maart;62;9394;19288;61;9278;19056
+591;Amsterdamse hotels met 4 sterren;2013 april;62;9394;19288;61;9278;19056
+592;Amsterdamse hotels met 4 sterren;2013 mei;62;9394;19288;61;9278;19056
+593;Amsterdamse hotels met 4 sterren;2013 juni;62;9394;19288;61;9278;19056
+594;Amsterdamse hotels met 4 sterren;2013 juli;62;9394;19288;60;9239;18978
+595;Amsterdamse hotels met 4 sterren;2013 augustus;62;9394;19288;60;9239;18978
+596;Amsterdamse hotels met 4 sterren;2013 september;62;9394;19288;60;9239;18978
+597;Amsterdamse hotels met 4 sterren;2013 oktober;62;9394;19288;60;9239;18978
+598;Amsterdamse hotels met 4 sterren;2013 november;62;9394;19288;60;9239;18978
+599;Amsterdamse hotels met 4 sterren;2013 december;62;9394;19288;59;9224;18944
+600;Amsterdamse hotels met 4 sterren;2014 januari;64;10003;20038;62;9984;19996
+601;Amsterdamse hotels met 4 sterren;2014 februari;64;10003;20038;62;9984;19996
+602;Amsterdamse hotels met 4 sterren;2014 maart;64;10003;20038;64;10003;20038
+603;Amsterdamse hotels met 4 sterren;2014 april;64;10003;20038;64;10003;20038
+604;Amsterdamse hotels met 4 sterren;2014 mei;64;10003;20038;64;10003;20038
+605;Amsterdamse hotels met 4 sterren;2014 juni;64;10003;20038;64;10003;20038
+606;Amsterdamse hotels met 4 sterren;2014 juli;64;10003;20038;64;10003;20038
+607;Amsterdamse hotels met 4 sterren;2014 augustus;64;10003;20038;64;10003;20038
+608;Amsterdamse hotels met 4 sterren;2014 september;64;10003;20038;64;10003;20038
+609;Amsterdamse hotels met 4 sterren;2014 oktober;64;10003;20038;64;10003;20038
+610;Amsterdamse hotels met 4 sterren;2014 november;64;10003;20038;63;9855;19743
+611;Amsterdamse hotels met 4 sterren;2014 december;64;10003;20038;62;9840;19711
+612;Amsterdamse hotels met 4 sterren;2015 januari;64;10020;20606;62;9856;20249
+613;Amsterdamse hotels met 4 sterren;2015 februari;64;10020;20606;63;9871;20283
+614;Amsterdamse hotels met 4 sterren;2015 maart;64;10020;20606;63;9871;20283
+615;Amsterdamse hotels met 4 sterren;2015 april;64;10020;20606;64;10020;20606
+616;Amsterdamse hotels met 4 sterren;2015 mei;64;10020;20606;64;10020;20606
+617;Amsterdamse hotels met 4 sterren;2015 juni;64;10020;20606;64;10020;20606
+618;Amsterdamse hotels met 4 sterren;2015 juli;64;10020;20606;64;10020;20606
+619;Amsterdamse hotels met 4 sterren;2015 augustus;64;10020;20606;64;10020;20606
+620;Amsterdamse hotels met 4 sterren;2015 september;64;10020;20606;64;10020;20606
+621;Amsterdamse hotels met 4 sterren;2015 oktober;64;10020;20606;64;10020;20606
+622;Amsterdamse hotels met 4 sterren;2015 november;64;10020;20606;63;10005;20572
+623;Amsterdamse hotels met 4 sterren;2015 december;64;10020;20606;63;10005;20572
+624;Amsterdamse hotels met 5 sterren;2012 januari;13;3126;6399;13;3126;6399
+625;Amsterdamse hotels met 5 sterren;2012 februari;13;3126;6399;13;3126;6399
+626;Amsterdamse hotels met 5 sterren;2012 maart;13;3126;6399;13;3126;6399
+627;Amsterdamse hotels met 5 sterren;2012 april;13;3126;6399;13;3126;6399
+628;Amsterdamse hotels met 5 sterren;2012 mei;13;3126;6399;13;3126;6399
+629;Amsterdamse hotels met 5 sterren;2012 juni;13;3126;6399;13;3126;6399
+630;Amsterdamse hotels met 5 sterren;2012 juli;13;3126;6399;13;3126;6399
+631;Amsterdamse hotels met 5 sterren;2012 augustus;13;3126;6399;13;3126;6399
+632;Amsterdamse hotels met 5 sterren;2012 september;13;3126;6399;13;3126;6399
+633;Amsterdamse hotels met 5 sterren;2012 oktober;13;3126;6399;13;3126;6399
+634;Amsterdamse hotels met 5 sterren;2012 november;13;3126;6399;13;3126;6399
+635;Amsterdamse hotels met 5 sterren;2012 december;13;3126;6399;13;3126;6399
+636;Amsterdamse hotels met 5 sterren;2013 januari;14;3237;6685;14;3237;6685
+637;Amsterdamse hotels met 5 sterren;2013 februari;14;3237;6685;14;3237;6685
+638;Amsterdamse hotels met 5 sterren;2013 maart;14;3237;6685;14;3237;6685
+639;Amsterdamse hotels met 5 sterren;2013 april;14;3237;6685;14;3237;6685
+640;Amsterdamse hotels met 5 sterren;2013 mei;14;3237;6685;14;3237;6685
+641;Amsterdamse hotels met 5 sterren;2013 juni;14;3237;6685;14;3237;6685
+642;Amsterdamse hotels met 5 sterren;2013 juli;14;3237;6685;14;3237;6685
+643;Amsterdamse hotels met 5 sterren;2013 augustus;14;3237;6685;14;3237;6685
+644;Amsterdamse hotels met 5 sterren;2013 september;14;3237;6685;14;3237;6685
+645;Amsterdamse hotels met 5 sterren;2013 oktober;14;3237;6685;14;3237;6685
+646;Amsterdamse hotels met 5 sterren;2013 november;14;3237;6685;14;3237;6685
+647;Amsterdamse hotels met 5 sterren;2013 december;14;3237;6685;14;3237;6685
+648;Amsterdamse hotels met 5 sterren;2014 januari;14;3239;6691;14;3239;6691
+649;Amsterdamse hotels met 5 sterren;2014 februari;14;3239;6691;14;3239;6691
+650;Amsterdamse hotels met 5 sterren;2014 maart;14;3239;6691;14;3239;6691
+651;Amsterdamse hotels met 5 sterren;2014 april;14;3239;6691;14;3239;6691
+652;Amsterdamse hotels met 5 sterren;2014 mei;14;3239;6691;14;3239;6691
+653;Amsterdamse hotels met 5 sterren;2014 juni;14;3239;6691;14;3239;6691
+654;Amsterdamse hotels met 5 sterren;2014 juli;14;3239;6691;14;3239;6691
+655;Amsterdamse hotels met 5 sterren;2014 augustus;14;3239;6691;14;3239;6691
+656;Amsterdamse hotels met 5 sterren;2014 september;14;3239;6691;14;3239;6691
+657;Amsterdamse hotels met 5 sterren;2014 oktober;14;3239;6691;14;3239;6691
+658;Amsterdamse hotels met 5 sterren;2014 november;14;3239;6691;14;3239;6691
+659;Amsterdamse hotels met 5 sterren;2014 december;14;3239;6691;14;3239;6691
+660;Amsterdamse hotels met 5 sterren;2015 januari;14;3248;6473;14;3248;6473
+661;Amsterdamse hotels met 5 sterren;2015 februari;14;3248;6473;14;3248;6473
+662;Amsterdamse hotels met 5 sterren;2015 maart;14;3248;6473;14;3248;6473
+663;Amsterdamse hotels met 5 sterren;2015 april;14;3248;6473;14;3248;6473
+664;Amsterdamse hotels met 5 sterren;2015 mei;14;3248;6473;14;3248;6473
+665;Amsterdamse hotels met 5 sterren;2015 juni;14;3248;6473;14;3248;6473
+666;Amsterdamse hotels met 5 sterren;2015 juli;14;3248;6473;14;3248;6473
+667;Amsterdamse hotels met 5 sterren;2015 augustus;14;3248;6473;14;3248;6473
+668;Amsterdamse hotels met 5 sterren;2015 september;14;3248;6473;14;3248;6473
+669;Amsterdamse hotels met 5 sterren;2015 oktober;14;3248;6473;14;3248;6473
+670;Amsterdamse hotels met 5 sterren;2015 november;14;3248;6473;14;3248;6473
+671;Amsterdamse hotels met 5 sterren;2015 december;14;3248;6473;14;3248;6473

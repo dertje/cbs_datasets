@@ -1,0 +1,1641 @@
+﻿ID;ArbeidspositieEindePeriode;Persoonskenmerken;Perioden;BeginPeriodeTotaal15Tot65Jaar_1;BeginPeriodeWerkzameBeroepsbevolking_2;BeginPeriodeWerklozeBeroepsbevolking_3;BeginPeriodeNietBeroepsbevolking_4
+0;1;3;2003;10903.0;6969.0;396.0;3537.0
+1;1;3;2004;10925.0;6941.0;476.0;3508.0
+2;1;3;2005;10940.0;6973.0;482.0;3485.0
+3;1;3;2006;10951.0;7097.0;410.0;3444.0
+4;1;3;2007;10968.0;7309.0;344.0;3315.0
+5;1;3;2008;10997.0;7501.0;300.0;3196.0
+6;1;3;2009;11013.0;7469.0;377.0;3167.0
+7;1;3;2010;11017.0;7391.0;426.0;3200.0
+8;1;3;2011;10994.0;7392.0;419.0;3183.0
+9;1;3;2012;10993.0;7387.0;507.0;3099.0
+10;1;1;2003;5512.0;4138.0;205.0;1168.0
+11;1;1;2004;5516.0;4095.0;235.0;1186.0
+12;1;1;2005;5517.0;4078.0;230.0;1210.0
+13;1;1;2006;5517.0;4121.0;186.0;1209.0
+14;1;1;2007;5521.0;4192.0;164.0;1165.0
+15;1;1;2008;5533.0;4285.0;141.0;1107.0
+16;1;1;2009;5537.0;4217.0;184.0;1135.0
+17;1;1;2010;5533.0;4121.0;214.0;1198.0
+18;1;1;2011;5517.0;4125.0;211.0;1180.0
+19;1;1;2012;5520.0;4083.0;247.0;1190.0
+20;1;2;2003;5391.0;2831.0;191.0;2369.0
+21;1;2;2004;5409.0;2846.0;241.0;2322.0
+22;1;2;2005;5423.0;2896.0;252.0;2275.0
+23;1;2;2006;5434.0;2976.0;224.0;2235.0
+24;1;2;2007;5447.0;3117.0;180.0;2150.0
+25;1;2;2008;5464.0;3215.0;159.0;2089.0
+26;1;2;2009;5476.0;3252.0;193.0;2032.0
+27;1;2;2010;5485.0;3270.0;212.0;2002.0
+28;1;2;2011;5477.0;3267.0;208.0;2002.0
+29;1;2;2012;5474.0;3304.0;260.0;1910.0
+30;1;4;2003;1921.0;812.0;88.0;1020.0
+31;1;4;2004;1929.0;751.0;115.0;1063.0
+32;1;4;2005;1937.0;740.0;102.0;1095.0
+33;1;4;2006;1944.0;764.0;85.0;1096.0
+34;1;4;2007;1957.0;804.0;74.0;1079.0
+35;1;4;2008;1978.0;829.0;69.0;1080.0
+36;1;4;2009;1996.0;794.0;103.0;1099.0
+37;1;4;2010;2006.0;732.0;110.0;1164.0
+38;1;4;2011;2010.0;732.0;97.0;1181.0
+39;1;4;2012;2023.0;727.0;120.0;1176.0
+40;1;5;2003;4870.0;3860.0;203.0;807.0
+41;1;5;2004;4809.0;3798.0;223.0;788.0
+42;1;5;2005;4744.0;3782.0;234.0;728.0
+43;1;5;2006;4673.0;3787.0;180.0;707.0
+44;1;5;2007;4600.0;3813.0;141.0;646.0
+45;1;5;2008;4534.0;3850.0;114.0;570.0
+46;1;5;2009;4467.0;3764.0;146.0;557.0
+47;1;5;2010;4399.0;3686.0;174.0;539.0
+48;1;5;2011;4341.0;3618.0;177.0;546.0
+49;1;5;2012;4319.0;3575.0;202.0;542.0
+50;1;6;2003;4113.0;2297.0;105.0;1710.0
+51;1;6;2004;4187.0;2392.0;137.0;1658.0
+52;1;6;2005;4260.0;2451.0;146.0;1663.0
+53;1;6;2006;4334.0;2546.0;146.0;1642.0
+54;1;6;2007;4411.0;2692.0;129.0;1590.0
+55;1;6;2008;4484.0;2821.0;117.0;1546.0
+56;1;6;2009;4550.0;2910.0;128.0;1511.0
+57;1;6;2010;4612.0;2972.0;142.0;1498.0
+58;1;6;2011;4642.0;3042.0;145.0;1455.0
+59;1;6;2012;4651.0;3086.0;185.0;1380.0
+60;1;7;2003;8785.0;5746.0;258.0;2782.0
+61;1;7;2004;8774.0;5713.0;315.0;2746.0
+62;1;7;2005;8766.0;5739.0;315.0;2712.0
+63;1;7;2006;8760.0;5841.0;264.0;2655.0
+64;1;7;2007;8759.0;5979.0;234.0;2546.0
+65;1;7;2008;8751.0;6072.0;191.0;2488.0
+66;1;7;2009;8715.0;6064.0;252.0;2399.0
+67;1;7;2010;8722.0;6017.0;272.0;2433.0
+68;1;7;2011;8655.0;5943.0;269.0;2443.0
+69;1;7;2012;8607.0;5965.0;321.0;2321.0
+70;1;8;2003;1021.0;649.0;41.0;331.0
+71;1;8;2004;1019.0;632.0;53.0;334.0
+72;1;8;2005;1016.0;637.0;57.0;322.0
+73;1;8;2006;1015.0;642.0;47.0;326.0
+74;1;8;2007;1014.0;654.0;40.0;320.0
+75;1;8;2008;1025.0;694.0;38.0;293.0
+76;1;8;2009;1044.0;681.0;43.0;320.0
+77;1;8;2010;1044.0;670.0;52.0;321.0
+78;1;8;2011;1052.0;695.0;52.0;305.0
+79;1;8;2012;1064.0;702.0;70.0;292.0
+80;1;9;2003;1097.0;574.0;97.0;425.0
+81;1;9;2004;1132.0;596.0;108.0;428.0
+82;1;9;2005;1158.0;597.0;110.0;451.0
+83;1;9;2006;1177.0;614.0;99.0;464.0
+84;1;9;2007;1195.0;676.0;69.0;449.0
+85;1;9;2008;1220.0;735.0;71.0;415.0
+86;1;9;2009;1254.0;724.0;82.0;448.0
+87;1;9;2010;1252.0;704.0;102.0;446.0
+88;1;9;2011;1286.0;755.0;98.0;434.0
+89;1;9;2012;1317.0;719.0;114.0;484.0
+90;1;Opleidingsniveau: Lager onderwijs;2003;3917.0;1842.0;158.0;1917.0
+91;1;Opleidingsniveau: Lager onderwijs;2004;3710.0;1718.0;173.0;1819.0
+92;1;Opleidingsniveau: Lager onderwijs;2005;3653.0;1676.0;165.0;1812.0
+93;1;Opleidingsniveau: Lager onderwijs;2006;3605.0;1662.0;146.0;1797.0
+94;1;Opleidingsniveau: Lager onderwijs;2007;3488.0;1678.0;121.0;1689.0
+95;1;Opleidingsniveau: Lager onderwijs;2008;3551.0;1766.0;113.0;1673.0
+96;1;Opleidingsniveau: Lager onderwijs;2009;3483.0;1701.0;128.0;1654.0
+97;1;Opleidingsniveau: Lager onderwijs;2010;3460.0;1640.0;154.0;1666.0
+98;1;Opleidingsniveau: Lager onderwijs;2011;3422.0;1642.0;144.0;1636.0
+99;1;Opleidingsniveau: Lager onderwijs;2012;3304.0;1560.0;171.0;1573.0
+100;1;Opleidingsniveau: Middelbaar onderwijs;2003;4515.0;3127.0;157.0;1231.0
+101;1;Opleidingsniveau: Middelbaar onderwijs;2004;4481.0;3059.0;197.0;1225.0
+102;1;Opleidingsniveau: Middelbaar onderwijs;2005;4517.0;3078.0;210.0;1229.0
+103;1;Opleidingsniveau: Middelbaar onderwijs;2006;4543.0;3155.0;180.0;1208.0
+104;1;Opleidingsniveau: Middelbaar onderwijs;2007;4605.0;3262.0;149.0;1194.0
+105;1;Opleidingsniveau: Middelbaar onderwijs;2008;4488.0;3263.0;113.0;1112.0
+106;1;Opleidingsniveau: Middelbaar onderwijs;2009;4495.0;3231.0;166.0;1099.0
+107;1;Opleidingsniveau: Middelbaar onderwijs;2010;4423.0;3145.0;172.0;1107.0
+108;1;Opleidingsniveau: Middelbaar onderwijs;2011;4459.0;3156.0;176.0;1127.0
+109;1;Opleidingsniveau: Middelbaar onderwijs;2012;4441.0;3107.0;216.0;1118.0
+110;1;Opleidingsniveau: Hoger onderwijs;2003;2444.0;1980.0;80.0;384.0
+111;1;Opleidingsniveau: Hoger onderwijs;2004;2661.0;2127.0;99.0;434.0
+112;1;Opleidingsniveau: Hoger onderwijs;2005;2710.0;2183.0;106.0;421.0
+113;1;Opleidingsniveau: Hoger onderwijs;2006;2747.0;2243.0;81.0;422.0
+114;1;Opleidingsniveau: Hoger onderwijs;2007;2823.0;2335.0;71.0;417.0
+115;1;Opleidingsniveau: Hoger onderwijs;2008;2939.0;2457.0;74.0;408.0
+116;1;Opleidingsniveau: Hoger onderwijs;2009;3010.0;2518.0;83.0;409.0
+117;1;Opleidingsniveau: Hoger onderwijs;2010;3086.0;2573.0;98.0;415.0
+118;1;Opleidingsniveau: Hoger onderwijs;2011;3069.0;2560.0;99.0;410.0
+119;1;Opleidingsniveau: Hoger onderwijs;2012;3164.0;2669.0;117.0;378.0
+120;1;Opleidingsniveau:onbekend;2003;27.0;20.0;;6.0
+121;1;Opleidingsniveau:onbekend;2004;73.0;36.0;7.0;30.0
+122;1;Opleidingsniveau:onbekend;2005;60.0;36.0;2.0;22.0
+123;1;Opleidingsniveau:onbekend;2006;57.0;37.0;2.0;17.0
+124;1;Opleidingsniveau:onbekend;2007;52.0;35.0;3.0;15.0
+125;1;Opleidingsniveau:onbekend;2008;18.0;15.0;;3.0
+126;1;Opleidingsniveau:onbekend;2009;25.0;20.0;;5.0
+127;1;Opleidingsniveau:onbekend;2010;48.0;33.0;3.0;12.0
+128;1;Opleidingsniveau:onbekend;2011;44.0;34.0;;10.0
+129;1;Opleidingsniveau:onbekend;2012;82.0;50.0;3.0;29.0
+130;1;Werkkring: werkn. vaste arbeidsrelatie;2003;5509.0;5353.0;44.0;113.0
+131;1;Werkkring: werkn. vaste arbeidsrelatie;2004;5436.0;5277.0;53.0;106.0
+132;1;Werkkring: werkn. vaste arbeidsrelatie;2005;5413.0;5226.0;64.0;123.0
+133;1;Werkkring: werkn. vaste arbeidsrelatie;2006;5378.0;5192.0;58.0;128.0
+134;1;Werkkring: werkn. vaste arbeidsrelatie;2007;5426.0;5236.0;47.0;143.0
+135;1;Werkkring: werkn. vaste arbeidsrelatie;2008;5493.0;5324.0;42.0;128.0
+136;1;Werkkring: werkn. vaste arbeidsrelatie;2009;5412.0;5271.0;46.0;95.0
+137;1;Werkkring: werkn. vaste arbeidsrelatie;2010;5360.0;5203.0;53.0;104.0
+138;1;Werkkring: werkn. vaste arbeidsrelatie;2011;5293.0;5149.0;43.0;101.0
+139;1;Werkkring: werkn. vaste arbeidsrelatie;2012;5132.0;5022.0;34.0;76.0
+140;1;Werkkring: werkn. flexibele arbeidsrel.;2003;1044.0;793.0;83.0;168.0
+141;1;Werkkring: werkn. flexibele arbeidsrel.;2004;1097.0;796.0;118.0;183.0
+142;1;Werkkring: werkn. flexibele arbeidsrel.;2005;1158.0;859.0;105.0;195.0
+143;1;Werkkring: werkn. flexibele arbeidsrel.;2006;1295.0;966.0;104.0;224.0
+144;1;Werkkring: werkn. flexibele arbeidsrel.;2007;1407.0;1079.0;91.0;237.0
+145;1;Werkkring: werkn. flexibele arbeidsrel.;2008;1399.0;1129.0;64.0;206.0
+146;1;Werkkring: werkn. flexibele arbeidsrel.;2009;1435.0;1146.0;100.0;190.0
+147;1;Werkkring: werkn. flexibele arbeidsrel.;2010;1472.0;1158.0;115.0;199.0
+148;1;Werkkring: werkn. flexibele arbeidsrel.;2011;1518.0;1193.0;103.0;221.0
+149;1;Werkkring: werkn. flexibele arbeidsrel.;2012;1599.0;1295.0;109.0;195.0
+150;1;Werkkring: zelfstandige;2003;868.0;824.0;7.0;38.0
+151;1;Werkkring: zelfstandige;2004;917.0;869.0;11.0;38.0
+152;1;Werkkring: zelfstandige;2005;940.0;888.0;11.0;41.0
+153;1;Werkkring: zelfstandige;2006;996.0;939.0;9.0;48.0
+154;1;Werkkring: zelfstandige;2007;1058.0;994.0;9.0;54.0
+155;1;Werkkring: zelfstandige;2008;1098.0;1048.0;10.0;40.0
+156;1;Werkkring: zelfstandige;2009;1104.0;1052.0;13.0;40.0
+157;1;Werkkring: zelfstandige;2010;1091.0;1031.0;16.0;45.0
+158;1;Werkkring: zelfstandige;2011;1118.0;1049.0;15.0;53.0
+159;1;Werkkring: zelfstandige;2012;1135.0;1070.0;21.0;44.0
+160;1;Werkkring: zelfst. zonder pers.;2003;539.0;502.0;6.0;31.0
+161;1;Werkkring: zelfst. zonder pers.;2004;563.0;521.0;10.0;32.0
+162;1;Werkkring: zelfst. zonder pers.;2005;588.0;544.0;9.0;35.0
+163;1;Werkkring: zelfst. zonder pers.;2006;636.0;589.0;8.0;39.0
+164;1;Werkkring: zelfst. zonder pers.;2007;683.0;628.0;8.0;47.0
+165;1;Werkkring: zelfst. zonder pers.;2008;735.0;691.0;9.0;35.0
+166;1;Werkkring: zelfst. zonder pers.;2009;750.0;704.0;12.0;34.0
+167;1;Werkkring: zelfst. zonder pers.;2010;736.0;683.0;15.0;38.0
+168;1;Werkkring: zelfst. zonder pers.;2011;769.0;707.0;14.0;48.0
+169;1;Werkkring: zelfst. zonder pers.;2012;807.0;750.0;20.0;37.0
+170;1;Arbeidsduur: 12 tot 32 uur per week;2003;2171.0;1951.0;49.0;171.0
+171;1;Arbeidsduur: 12 tot 32 uur per week;2004;2226.0;1972.0;71.0;183.0
+172;1;Arbeidsduur: 12 tot 32 uur per week;2005;2283.0;2019.0;65.0;199.0
+173;1;Arbeidsduur: 12 tot 32 uur per week;2006;2355.0;2060.0;70.0;224.0
+174;1;Arbeidsduur: 12 tot 32 uur per week;2007;2496.0;2189.0;67.0;241.0
+175;1;Arbeidsduur: 12 tot 32 uur per week;2008;2522.0;2243.0;51.0;228.0
+176;1;Arbeidsduur: 12 tot 32 uur per week;2009;2551.0;2293.0;63.0;195.0
+177;1;Arbeidsduur: 12 tot 32 uur per week;2010;2556.0;2287.0;72.0;197.0
+178;1;Arbeidsduur: 12 tot 32 uur per week;2011;2559.0;2263.0;69.0;227.0
+179;1;Arbeidsduur: 12 tot 32 uur per week;2012;2628.0;2359.0;72.0;197.0
+180;1;Arbeidsduur: 32 uur per week of meer;2003;5182.0;4968.0;83.0;131.0
+181;1;Arbeidsduur: 32 uur per week of meer;2004;5155.0;4923.0;108.0;124.0
+182;1;Arbeidsduur: 32 uur per week of meer;2005;5158.0;4905.0;110.0;143.0
+183;1;Arbeidsduur: 32 uur per week of meer;2006;5224.0;4977.0;97.0;150.0
+184;1;Arbeidsduur: 32 uur per week of meer;2007;5303.0;5061.0;77.0;166.0
+185;1;Arbeidsduur: 32 uur per week of meer;2008;5375.0;5192.0;62.0;121.0
+186;1;Arbeidsduur: 32 uur per week of meer;2009;5311.0;5112.0;92.0;107.0
+187;1;Arbeidsduur: 32 uur per week of meer;2010;5225.0;4992.0;104.0;128.0
+188;1;Arbeidsduur: 32 uur per week of meer;2011;5232.0;5014.0;90.0;127.0
+189;1;Arbeidsduur: 32 uur per week of meer;2012;5102.0;4913.0;88.0;101.0
+190;1;Anciënniteit: 0 tot 6 maanden;2003;491.0;491.0;;
+191;1;Anciënniteit: 0 tot 6 maanden;2004;468.0;468.0;;
+192;1;Anciënniteit: 0 tot 6 maanden;2005;494.0;494.0;;
+193;1;Anciënniteit: 0 tot 6 maanden;2006;572.0;572.0;;
+194;1;Anciënniteit: 0 tot 6 maanden;2007;670.0;670.0;;
+195;1;Anciënniteit: 0 tot 6 maanden;2008;666.0;666.0;;
+196;1;Anciënniteit: 0 tot 6 maanden;2009;543.0;543.0;;
+197;1;Anciënniteit: 0 tot 6 maanden;2010;526.0;526.0;;
+198;1;Anciënniteit: 0 tot 6 maanden;2011;563.0;563.0;;
+199;1;Anciënniteit: 0 tot 6 maanden;2012;544.0;544.0;;
+200;1;Anciënniteit: 6 tot 12 maanden;2003;434.0;434.0;;
+201;1;Anciënniteit: 6 tot 12 maanden;2004;343.0;343.0;;
+202;1;Anciënniteit: 6 tot 12 maanden;2005;340.0;340.0;;
+203;1;Anciënniteit: 6 tot 12 maanden;2006;401.0;401.0;;
+204;1;Anciënniteit: 6 tot 12 maanden;2007;468.0;468.0;;
+205;1;Anciënniteit: 6 tot 12 maanden;2008;510.0;510.0;;
+206;1;Anciënniteit: 6 tot 12 maanden;2009;467.0;467.0;;
+207;1;Anciënniteit: 6 tot 12 maanden;2010;391.0;391.0;;
+208;1;Anciënniteit: 6 tot 12 maanden;2011;394.0;394.0;;
+209;1;Anciënniteit: 6 tot 12 maanden;2012;411.0;411.0;;
+210;1;Anciënniteit: 12 tot 24 maanden;2003;694.0;694.0;;
+211;1;Anciënniteit: 12 tot 24 maanden;2004;578.0;578.0;;
+212;1;Anciënniteit: 12 tot 24 maanden;2005;527.0;527.0;;
+213;1;Anciënniteit: 12 tot 24 maanden;2006;559.0;559.0;;
+214;1;Anciënniteit: 12 tot 24 maanden;2007;658.0;658.0;;
+215;1;Anciënniteit: 12 tot 24 maanden;2008;760.0;760.0;;
+216;1;Anciënniteit: 12 tot 24 maanden;2009;760.0;760.0;;
+217;1;Anciënniteit: 12 tot 24 maanden;2010;658.0;658.0;;
+218;1;Anciënniteit: 12 tot 24 maanden;2011;617.0;617.0;;
+219;1;Anciënniteit: 12 tot 24 maanden;2012;599.0;599.0;;
+220;1;Anciënniteit: 24 maanden of meer;2003;5350.0;5350.0;;
+221;1;Anciënniteit: 24 maanden of meer;2004;5551.0;5551.0;;
+222;1;Anciënniteit: 24 maanden of meer;2005;5614.0;5613.0;;
+223;1;Anciënniteit: 24 maanden of meer;2006;5565.0;5565.0;;
+224;1;Anciënniteit: 24 maanden of meer;2007;5513.0;5513.0;;
+225;1;Anciënniteit: 24 maanden of meer;2008;5565.0;5565.0;;
+226;1;Anciënniteit: 24 maanden of meer;2009;5699.0;5699.0;;
+227;1;Anciënniteit: 24 maanden of meer;2010;5815.0;5815.0;;
+228;1;Anciënniteit: 24 maanden of meer;2011;5770.0;5770.0;;
+229;1;Anciënniteit: 24 maanden of meer;2012;5773.0;5773.0;;
+230;1;Anciënniteit: onbekend;2003;;;;
+231;1;Anciënniteit: onbekend;2004;;;;
+232;1;Anciënniteit: onbekend;2005;;;;
+233;1;Anciënniteit: onbekend;2006;;;;
+234;1;Anciënniteit: onbekend;2007;;;;
+235;1;Anciënniteit: onbekend;2008;;;;
+236;1;Anciënniteit: onbekend;2009;;;;
+237;1;Anciënniteit: onbekend;2010;;;;
+238;1;Anciënniteit: onbekend;2011;;;;
+239;1;Anciënniteit: onbekend;2012;;;;
+240;1;Type scholing: geen scholing;2003;8033.0;5436.0;303.0;2294.0
+241;1;Type scholing: geen scholing;2004;8119.0;5535.0;346.0;2238.0
+242;1;Type scholing: geen scholing;2005;8118.0;5536.0;354.0;2228.0
+243;1;Type scholing: geen scholing;2006;8100.0;5633.0;299.0;2169.0
+244;1;Type scholing: geen scholing;2007;7840.0;5592.0;250.0;1998.0
+245;1;Type scholing: geen scholing;2008;7845.0;5713.0;212.0;1920.0
+246;1;Type scholing: geen scholing;2009;7865.0;5721.0;256.0;1887.0
+247;1;Type scholing: geen scholing;2010;7913.0;5753.0;303.0;1857.0
+248;1;Type scholing: geen scholing;2011;7874.0;5708.0;301.0;1865.0
+249;1;Type scholing: geen scholing;2012;;;;
+250;1;Type scholing: initieel;2003;47.0;27.0;5.0;14.0
+251;1;Type scholing: initieel;2004;38.0;22.0;7.0;9.0
+252;1;Type scholing: initieel;2005;48.0;28.0;6.0;13.0
+253;1;Type scholing: initieel;2006;34.0;23.0;4.0;7.0
+254;1;Type scholing: initieel;2007;32.0;22.0;4.0;6.0
+255;1;Type scholing: initieel;2008;41.0;28.0;6.0;7.0
+256;1;Type scholing: initieel;2009;40.0;26.0;6.0;7.0
+257;1;Type scholing: initieel;2010;49.0;25.0;5.0;19.0
+258;1;Type scholing: initieel;2011;5.0;3.0;;3.0
+259;1;Type scholing: initieel;2012;;;;
+260;1;Type scholing: post-initieel (kort);2003;598.0;523.0;16.0;60.0
+261;1;Type scholing: post-initieel (kort);2004;536.0;456.0;19.0;61.0
+262;1;Type scholing: post-initieel (kort);2005;580.0;507.0;25.0;48.0
+263;1;Type scholing: post-initieel (kort);2006;544.0;480.0;15.0;50.0
+264;1;Type scholing: post-initieel (kort);2007;632.0;561.0;14.0;57.0
+265;1;Type scholing: post-initieel (kort);2008;627.0;563.0;9.0;55.0
+266;1;Type scholing: post-initieel (kort);2009;605.0;552.0;19.0;33.0
+267;1;Type scholing: post-initieel (kort);2010;675.0;598.0;21.0;55.0
+268;1;Type scholing: post-initieel (kort);2011;723.0;659.0;17.0;47.0
+269;1;Type scholing: post-initieel (kort);2012;;;;
+270;1;Type scholing: post-initieel (lang);2003;821.0;612.0;27.0;181.0
+271;1;Type scholing: post-initieel (lang);2004;743.0;557.0;38.0;148.0
+272;1;Type scholing: post-initieel (lang);2005;704.0;522.0;41.0;141.0
+273;1;Type scholing: post-initieel (lang);2006;718.0;533.0;40.0;145.0
+274;1;Type scholing: post-initieel (lang);2007;752.0;576.0;21.0;155.0
+275;1;Type scholing: post-initieel (lang);2008;741.0;598.0;20.0;123.0
+276;1;Type scholing: post-initieel (lang);2009;754.0;599.0;24.0;131.0
+277;1;Type scholing: post-initieel (lang);2010;796.0;585.0;40.0;172.0
+278;1;Type scholing: post-initieel (lang);2011;702.0;560.0;33.0;109.0
+279;1;Type scholing: post-initieel (lang);2012;;;;
+280;1;Type scholing: onbekend;2003;1404.0;370.0;45.0;989.0
+281;1;Type scholing: onbekend;2004;1490.0;372.0;66.0;1052.0
+282;1;Type scholing: onbekend;2005;1489.0;379.0;56.0;1054.0
+283;1;Type scholing: onbekend;2006;1555.0;429.0;53.0;1073.0
+284;1;Type scholing: onbekend;2007;1712.0;558.0;55.0;1100.0
+285;1;Type scholing: onbekend;2008;1742.0;599.0;53.0;1090.0
+286;1;Type scholing: onbekend;2009;1750.0;570.0;72.0;1108.0
+287;1;Type scholing: onbekend;2010;1585.0;430.0;57.0;1097.0
+288;1;Type scholing: onbekend;2011;1688.0;462.0;68.0;1159.0
+289;1;Type scholing: onbekend;2012;;;;
+290;1;Korte opleiding betaald door werkgever;2003;490.0;454.0;9.0;27.0
+291;1;Korte opleiding betaald door werkgever;2004;431.0;395.0;13.0;23.0
+292;1;Korte opleiding betaald door werkgever;2005;480.0;444.0;13.0;22.0
+293;1;Korte opleiding betaald door werkgever;2006;446.0;414.0;8.0;24.0
+294;1;Korte opleiding betaald door werkgever;2007;532.0;496.0;10.0;27.0
+295;1;Korte opleiding betaald door werkgever;2008;528.0;497.0;6.0;25.0
+296;1;Korte opleiding betaald door werkgever;2009;494.0;467.0;11.0;17.0
+297;1;Korte opleiding betaald door werkgever;2010;569.0;525.0;14.0;29.0
+298;1;Korte opleiding betaald door werkgever;2011;614.0;578.0;10.0;26.0
+299;1;Korte opleiding betaald door werkgever;2012;;;;
+300;1;Korte zelf betaalde opleiding;2003;107.0;68.0;7.0;33.0
+301;1;Korte zelf betaalde opleiding;2004;104.0;60.0;6.0;38.0
+302;1;Korte zelf betaalde opleiding;2005;99.0;62.0;11.0;26.0
+303;1;Korte zelf betaalde opleiding;2006;98.0;65.0;6.0;26.0
+304;1;Korte zelf betaalde opleiding;2007;99.0;64.0;4.0;31.0
+305;1;Korte zelf betaalde opleiding;2008;98.0;66.0;3.0;29.0
+306;1;Korte zelf betaalde opleiding;2009;109.0;84.0;8.0;17.0
+307;1;Korte zelf betaalde opleiding;2010;104.0;72.0;7.0;25.0
+308;1;Korte zelf betaalde opleiding;2011;108.0;80.0;6.0;21.0
+309;1;Korte zelf betaalde opleiding;2012;;;;
+310;1;Lange opleiding betaald door werkgever;2003;344.0;272.0;9.0;62.0
+311;1;Lange opleiding betaald door werkgever;2004;292.0;233.0;12.0;47.0
+312;1;Lange opleiding betaald door werkgever;2005;241.0;196.0;12.0;33.0
+313;1;Lange opleiding betaald door werkgever;2006;259.0;195.0;13.0;51.0
+314;1;Lange opleiding betaald door werkgever;2007;294.0;239.0;8.0;46.0
+315;1;Lange opleiding betaald door werkgever;2008;296.0;249.0;7.0;39.0
+316;1;Lange opleiding betaald door werkgever;2009;318.0;255.0;10.0;53.0
+317;1;Lange opleiding betaald door werkgever;2010;307.0;248.0;14.0;45.0
+318;1;Lange opleiding betaald door werkgever;2011;283.0;241.0;14.0;29.0
+319;1;Lange opleiding betaald door werkgever;2012;;;;
+320;1;Lange zelf betaalde opleiding;2003;318.0;213.0;16.0;89.0
+321;1;Lange zelf betaalde opleiding;2004;277.0;186.0;20.0;71.0
+322;1;Lange zelf betaalde opleiding;2005;286.0;186.0;21.0;79.0
+323;1;Lange zelf betaalde opleiding;2006;286.0;204.0;22.0;60.0
+324;1;Lange zelf betaalde opleiding;2007;292.0;199.0;12.0;81.0
+325;1;Lange zelf betaalde opleiding;2008;279.0;201.0;11.0;66.0
+326;1;Lange zelf betaalde opleiding;2009;270.0;199.0;12.0;59.0
+327;1;Lange zelf betaalde opleiding;2010;256.0;188.0;16.0;53.0
+328;1;Lange zelf betaalde opleiding;2011;253.0;181.0;16.0;56.0
+329;1;Lange zelf betaalde opleiding;2012;;;;
+330;1;Kosten: onbekend/nvt;2003;9644.0;5962.0;355.0;3327.0
+331;1;Kosten: onbekend/nvt;2004;9821.0;6067.0;425.0;3330.0
+332;1;Kosten: onbekend/nvt;2005;9834.0;6085.0;424.0;3325.0
+333;1;Kosten: onbekend/nvt;2006;9863.0;6219.0;361.0;3283.0
+334;1;Kosten: onbekend/nvt;2007;9751.0;6312.0;309.0;3131.0
+335;1;Kosten: onbekend/nvt;2008;9797.0;6487.0;273.0;3036.0
+336;1;Kosten: onbekend/nvt;2009;9821.0;6463.0;336.0;3022.0
+337;1;Kosten: onbekend/nvt;2010;9782.0;6359.0;375.0;3048.0
+338;1;Kosten: onbekend/nvt;2011;9736.0;6312.0;373.0;3051.0
+339;1;Kosten: onbekend/nvt;2012;;;;
+340;1;Reden scholing: niet werkgerelateerd;2003;181.0;119.0;7.0;55.0
+341;1;Reden scholing: niet werkgerelateerd;2004;164.0;111.0;4.0;48.0
+342;1;Reden scholing: niet werkgerelateerd;2005;154.0;106.0;4.0;44.0
+343;1;Reden scholing: niet werkgerelateerd;2006;156.0;114.0;6.0;37.0
+344;1;Reden scholing: niet werkgerelateerd;2007;187.0;127.0;6.0;54.0
+345;1;Reden scholing: niet werkgerelateerd;2008;189.0;140.0;3.0;45.0
+346;1;Reden scholing: niet werkgerelateerd;2009;184.0;143.0;4.0;38.0
+347;1;Reden scholing: niet werkgerelateerd;2010;150.0;115.0;6.0;30.0
+348;1;Reden scholing: niet werkgerelateerd;2011;141.0;106.0;6.0;29.0
+349;1;Reden scholing: niet werkgerelateerd;2012;;;;
+350;1;Reden scholing: bijblijven;2003;447.0;382.0;5.0;60.0
+351;1;Reden scholing: bijblijven;2004;395.0;334.0;5.0;57.0
+352;1;Reden scholing: bijblijven;2005;418.0;364.0;6.0;49.0
+353;1;Reden scholing: bijblijven;2006;371.0;328.0;4.0;39.0
+354;1;Reden scholing: bijblijven;2007;443.0;381.0;3.0;59.0
+355;1;Reden scholing: bijblijven;2008;444.0;398.0;3.0;42.0
+356;1;Reden scholing: bijblijven;2009;408.0;368.0;6.0;34.0
+357;1;Reden scholing: bijblijven;2010;502.0;449.0;5.0;47.0
+358;1;Reden scholing: bijblijven;2011;488.0;445.0;7.0;35.0
+359;1;Reden scholing: bijblijven;2012;;;;
+360;1;Reden scholing: verplicht;2003;229.0;211.0;;18.0
+361;1;Reden scholing: verplicht;2004;201.0;179.0;4.0;17.0
+362;1;Reden scholing: verplicht;2005;204.0;186.0;4.0;14.0
+363;1;Reden scholing: verplicht;2006;208.0;184.0;3.0;21.0
+364;1;Reden scholing: verplicht;2007;244.0;224.0;4.0;17.0
+365;1;Reden scholing: verplicht;2008;233.0;214.0;3.0;16.0
+366;1;Reden scholing: verplicht;2009;242.0;217.0;4.0;22.0
+367;1;Reden scholing: verplicht;2010;232.0;205.0;5.0;22.0
+368;1;Reden scholing: verplicht;2011;265.0;245.0;4.0;16.0
+369;1;Reden scholing: verplicht;2012;;;;
+370;1;Reden scholing: promotie;2003;163.0;161.0;;2.0
+371;1;Reden scholing: promotie;2004;137.0;137.0;;
+372;1;Reden scholing: promotie;2005;135.0;134.0;;
+373;1;Reden scholing: promotie;2006;131.0;130.0;;
+374;1;Reden scholing: promotie;2007;158.0;157.0;;
+375;1;Reden scholing: promotie;2008;172.0;172.0;;
+376;1;Reden scholing: promotie;2009;165.0;164.0;;
+377;1;Reden scholing: promotie;2010;148.0;146.0;;
+378;1;Reden scholing: promotie;2011;157.0;156.0;;
+379;1;Reden scholing: promotie;2012;;;;
+380;1;Reden scholing: ander werk;2003;300.0;285.0;2.0;12.0
+381;1;Reden scholing: ander werk;2004;269.0;256.0;3.0;10.0
+382;1;Reden scholing: ander werk;2005;258.0;243.0;4.0;10.0
+383;1;Reden scholing: ander werk;2006;270.0;256.0;4.0;10.0
+384;1;Reden scholing: ander werk;2007;320.0;304.0;3.0;13.0
+385;1;Reden scholing: ander werk;2008;329.0;317.0;2.0;10.0
+386;1;Reden scholing: ander werk;2009;323.0;308.0;4.0;11.0
+387;1;Reden scholing: ander werk;2010;286.0;273.0;4.0;9.0
+388;1;Reden scholing: ander werk;2011;311.0;297.0;3.0;11.0
+389;1;Reden scholing: ander werk;2012;;;;
+390;1;Reden scholing: kans werk;2003;97.0;;27.0;70.0
+391;1;Reden scholing: kans werk;2004;92.0;;36.0;56.0
+392;1;Reden scholing: kans werk;2005;88.0;;40.0;48.0
+393;1;Reden scholing: kans werk;2006;93.0;;35.0;58.0
+394;1;Reden scholing: kans werk;2007;75.0;;22.0;53.0
+395;1;Reden scholing: kans werk;2008;75.0;;18.0;57.0
+396;1;Reden scholing: kans werk;2009;78.0;;28.0;51.0
+397;1;Reden scholing: kans werk;2010;87.0;;36.0;52.0
+398;1;Reden scholing: kans werk;2011;74.0;;29.0;45.0
+399;1;Reden scholing: kans werk;2012;;;;
+400;1;Reden scholing: onbekend/nvt;2003;9486.0;5810.0;354.0;3321.0
+401;1;Reden scholing: onbekend/nvt;2004;9668.0;5925.0;423.0;3319.0
+402;1;Reden scholing: onbekend/nvt;2005;9684.0;5940.0;424.0;3320.0
+403;1;Reden scholing: onbekend/nvt;2006;9722.0;6086.0;358.0;3277.0
+404;1;Reden scholing: onbekend/nvt;2007;9540.0;6116.0;306.0;3118.0
+405;1;Reden scholing: onbekend/nvt;2008;9555.0;6259.0;271.0;3025.0
+406;1;Reden scholing: onbekend/nvt;2009;9613.0;6269.0;333.0;3011.0
+407;1;Reden scholing: onbekend/nvt;2010;9612.0;6202.0;370.0;3040.0
+408;1;Reden scholing: onbekend/nvt;2011;9559.0;6142.0;370.0;3046.0
+409;1;Reden scholing: onbekend/nvt;2012;;;;
+410;2;3;2003;6941.0;6488.0;134.0;319.0
+411;2;3;2004;6973.0;6465.0;183.0;326.0
+412;2;3;2005;7097.0;6559.0;180.0;359.0
+413;2;3;2006;7309.0;6736.0;171.0;402.0
+414;2;3;2007;7501.0;6919.0;147.0;435.0
+415;2;3;2008;7469.0;6979.0;116.0;374.0
+416;2;3;2009;7391.0;6907.0;158.0;326.0
+417;2;3;2010;7392.0;6860.0;184.0;348.0
+418;2;3;2011;7387.0;6850.0;161.0;376.0
+419;2;3;2012;7283.0;6803.0;164.0;316.0
+420;2;1;2003;4107.0;3895.0;77.0;136.0
+421;2;1;2004;4096.0;3850.0;101.0;145.0
+422;2;1;2005;4122.0;3866.0;97.0;159.0
+423;2;1;2006;4218.0;3960.0;79.0;179.0
+424;2;1;2007;4278.0;4014.0;72.0;192.0
+425;2;1;2008;4227.0;4024.0;54.0;150.0
+426;2;1;2009;4149.0;3922.0;85.0;142.0
+427;2;1;2010;4139.0;3881.0;98.0;160.0
+428;2;1;2011;4110.0;3854.0;87.0;169.0
+429;2;1;2012;4040.0;3814.0;88.0;138.0
+430;2;2;2003;2834.0;2593.0;57.0;184.0
+431;2;2;2004;2877.0;2615.0;81.0;181.0
+432;2;2;2005;2975.0;2693.0;83.0;199.0
+433;2;2;2006;3092.0;2776.0;92.0;223.0
+434;2;2;2007;3222.0;2904.0;75.0;243.0
+435;2;2;2008;3242.0;2955.0;62.0;225.0
+436;2;2;2009;3242.0;2986.0;73.0;183.0
+437;2;2;2010;3253.0;2979.0;86.0;189.0
+438;2;2;2011;3277.0;2996.0;74.0;207.0
+439;2;2;2012;3243.0;2989.0;76.0;178.0
+440;2;4;2003;903.0;680.0;38.0;185.0
+441;2;4;2004;890.0;636.0;58.0;195.0
+442;2;4;2005;898.0;640.0;52.0;206.0
+443;2;4;2006;935.0;659.0;45.0;231.0
+444;2;4;2007;970.0;673.0;42.0;256.0
+445;2;4;2008;934.0;667.0;33.0;234.0
+446;2;4;2009;881.0;638.0;47.0;196.0
+447;2;4;2010;850.0;583.0;51.0;217.0
+448;2;4;2011;861.0;586.0;38.0;238.0
+449;2;4;2012;819.0;568.0;45.0;206.0
+450;2;5;2003;3856.0;3689.0;75.0;92.0
+451;2;5;2004;3815.0;3630.0;95.0;91.0
+452;2;5;2005;3837.0;3640.0;95.0;101.0
+453;2;5;2006;3877.0;3672.0;88.0;118.0
+454;2;5;2007;3875.0;3693.0;69.0;113.0
+455;2;5;2008;3816.0;3672.0;56.0;88.0
+456;2;5;2009;3735.0;3582.0;74.0;79.0
+457;2;5;2010;3682.0;3515.0;90.0;76.0
+458;2;5;2011;3600.0;3437.0;83.0;80.0
+459;2;5;2012;3533.0;3385.0;80.0;68.0
+460;2;6;2003;2183.0;2119.0;21.0;42.0
+461;2;6;2004;2268.0;2199.0;30.0;40.0
+462;2;6;2005;2362.0;2278.0;32.0;52.0
+463;2;6;2006;2498.0;2406.0;38.0;53.0
+464;2;6;2007;2656.0;2553.0;37.0;67.0
+465;2;6;2008;2719.0;2640.0;27.0;53.0
+466;2;6;2009;2775.0;2687.0;38.0;50.0
+467;2;6;2010;2860.0;2762.0;43.0;55.0
+468;2;6;2011;2926.0;2827.0;41.0;59.0
+469;2;6;2012;2932.0;2851.0;39.0;42.0
+470;2;7;2003;5731.0;5382.0;98.0;250.0
+471;2;7;2004;5724.0;5347.0;121.0;256.0
+472;2;7;2005;5805.0;5416.0;122.0;267.0
+473;2;7;2006;5976.0;5563.0;113.0;299.0
+474;2;7;2007;6112.0;5683.0;105.0;324.0
+475;2;7;2008;6046.0;5682.0;77.0;287.0
+476;2;7;2009;6012.0;5657.0;108.0;247.0
+477;2;7;2010;5990.0;5603.0;121.0;267.0
+478;2;7;2011;5948.0;5541.0;111.0;296.0
+479;2;7;2012;5862.0;5513.0;109.0;240.0
+480;2;8;2003;635.0;593.0;14.0;27.0
+481;2;8;2004;637.0;586.0;20.0;31.0
+482;2;8;2005;639.0;589.0;20.0;31.0
+483;2;8;2006;668.0;605.0;22.0;42.0
+484;2;8;2007;669.0;612.0;16.0;41.0
+485;2;8;2008;687.0;639.0;16.0;32.0
+486;2;8;2009;673.0;624.0;18.0;32.0
+487;2;8;2010;678.0;618.0;24.0;35.0
+488;2;8;2011;686.0;633.0;20.0;32.0
+489;2;8;2012;689.0;641.0;19.0;29.0
+490;2;9;2003;575.0;513.0;21.0;42.0
+491;2;9;2004;612.0;532.0;41.0;39.0
+492;2;9;2005;653.0;555.0;38.0;60.0
+493;2;9;2006;665.0;568.0;36.0;61.0
+494;2;9;2007;721.0;625.0;25.0;71.0
+495;2;9;2008;736.0;658.0;23.0;55.0
+496;2;9;2009;706.0;627.0;33.0;47.0
+497;2;9;2010;723.0;638.0;39.0;46.0
+498;2;9;2011;752.0;675.0;30.0;48.0
+499;2;9;2012;730.0;648.0;36.0;46.0
+500;2;Opleidingsniveau: Lager onderwijs;2003;1856.0;1654.0;46.0;155.0
+501;2;Opleidingsniveau: Lager onderwijs;2004;1753.0;1558.0;54.0;141.0
+502;2;Opleidingsniveau: Lager onderwijs;2005;1745.0;1535.0;56.0;154.0
+503;2;Opleidingsniveau: Lager onderwijs;2006;1766.0;1539.0;52.0;174.0
+504;2;Opleidingsniveau: Lager onderwijs;2007;1773.0;1536.0;47.0;190.0
+505;2;Opleidingsniveau: Lager onderwijs;2008;1784.0;1574.0;38.0;172.0
+506;2;Opleidingsniveau: Lager onderwijs;2009;1694.0;1505.0;47.0;142.0
+507;2;Opleidingsniveau: Lager onderwijs;2010;1680.0;1470.0;57.0;153.0
+508;2;Opleidingsniveau: Lager onderwijs;2011;1659.0;1470.0;39.0;150.0
+509;2;Opleidingsniveau: Lager onderwijs;2012;1561.0;1388.0;45.0;128.0
+510;2;Opleidingsniveau: Middelbaar onderwijs;2003;3105.0;2926.0;53.0;126.0
+511;2;Opleidingsniveau: Middelbaar onderwijs;2004;3063.0;2847.0;79.0;137.0
+512;2;Opleidingsniveau: Middelbaar onderwijs;2005;3128.0;2901.0;78.0;149.0
+513;2;Opleidingsniveau: Middelbaar onderwijs;2006;3233.0;2993.0;76.0;164.0
+514;2;Opleidingsniveau: Middelbaar onderwijs;2007;3343.0;3098.0;66.0;179.0
+515;2;Opleidingsniveau: Middelbaar onderwijs;2008;3231.0;3038.0;45.0;148.0
+516;2;Opleidingsniveau: Middelbaar onderwijs;2009;3196.0;2992.0;68.0;136.0
+517;2;Opleidingsniveau: Middelbaar onderwijs;2010;3137.0;2917.0;79.0;141.0
+518;2;Opleidingsniveau: Middelbaar onderwijs;2011;3159.0;2922.0;69.0;168.0
+519;2;Opleidingsniveau: Middelbaar onderwijs;2012;3042.0;2839.0;69.0;134.0
+520;2;Opleidingsniveau: Hoger onderwijs;2003;1963.0;1890.0;34.0;38.0
+521;2;Opleidingsniveau: Hoger onderwijs;2004;2118.0;2027.0;46.0;46.0
+522;2;Opleidingsniveau: Hoger onderwijs;2005;2188.0;2088.0;45.0;54.0
+523;2;Opleidingsniveau: Hoger onderwijs;2006;2275.0;2171.0;43.0;61.0
+524;2;Opleidingsniveau: Hoger onderwijs;2007;2351.0;2254.0;32.0;65.0
+525;2;Opleidingsniveau: Hoger onderwijs;2008;2441.0;2353.0;33.0;54.0
+526;2;Opleidingsniveau: Hoger onderwijs;2009;2482.0;2392.0;42.0;47.0
+527;2;Opleidingsniveau: Hoger onderwijs;2010;2543.0;2443.0;47.0;53.0
+528;2;Opleidingsniveau: Hoger onderwijs;2011;2536.0;2426.0;53.0;57.0
+529;2;Opleidingsniveau: Hoger onderwijs;2012;2632.0;2530.0;50.0;52.0
+530;2;Opleidingsniveau:onbekend;2003;18.0;17.0;;
+531;2;Opleidingsniveau:onbekend;2004;39.0;33.0;4.0;2.0
+532;2;Opleidingsniveau:onbekend;2005;37.0;35.0;;2.0
+533;2;Opleidingsniveau:onbekend;2006;36.0;33.0;;2.0
+534;2;Opleidingsniveau:onbekend;2007;35.0;31.0;2.0;2.0
+535;2;Opleidingsniveau:onbekend;2008;13.0;13.0;;
+536;2;Opleidingsniveau:onbekend;2009;19.0;19.0;;
+537;2;Opleidingsniveau:onbekend;2010;32.0;30.0;;
+538;2;Opleidingsniveau:onbekend;2011;32.0;32.0;;
+539;2;Opleidingsniveau:onbekend;2012;49.0;46.0;;2.0
+540;2;Werkkring: werkn. vaste arbeidsrelatie;2003;5245.0;5088.0;44.0;113.0
+541;2;Werkkring: werkn. vaste arbeidsrelatie;2004;5169.0;5010.0;53.0;106.0
+542;2;Werkkring: werkn. vaste arbeidsrelatie;2005;5188.0;5001.0;64.0;123.0
+543;2;Werkkring: werkn. vaste arbeidsrelatie;2006;5192.0;5005.0;58.0;128.0
+544;2;Werkkring: werkn. vaste arbeidsrelatie;2007;5241.0;5051.0;47.0;143.0
+545;2;Werkkring: werkn. vaste arbeidsrelatie;2008;5257.0;5087.0;42.0;128.0
+546;2;Werkkring: werkn. vaste arbeidsrelatie;2009;5148.0;5007.0;46.0;95.0
+547;2;Werkkring: werkn. vaste arbeidsrelatie;2010;5111.0;4954.0;53.0;104.0
+548;2;Werkkring: werkn. vaste arbeidsrelatie;2011;5060.0;4915.0;43.0;101.0
+549;2;Werkkring: werkn. vaste arbeidsrelatie;2012;4895.0;4785.0;34.0;76.0
+550;2;Werkkring: werkn. flexibele arbeidsrel.;2003;870.0;618.0;83.0;168.0
+551;2;Werkkring: werkn. flexibele arbeidsrel.;2004;933.0;632.0;118.0;183.0
+552;2;Werkkring: werkn. flexibele arbeidsrel.;2005;1007.0;707.0;105.0;195.0
+553;2;Werkkring: werkn. flexibele arbeidsrel.;2006;1154.0;826.0;104.0;224.0
+554;2;Werkkring: werkn. flexibele arbeidsrel.;2007;1241.0;912.0;91.0;237.0
+555;2;Werkkring: werkn. flexibele arbeidsrel.;2008;1156.0;887.0;64.0;206.0
+556;2;Werkkring: werkn. flexibele arbeidsrel.;2009;1190.0;901.0;100.0;190.0
+557;2;Werkkring: werkn. flexibele arbeidsrel.;2010;1233.0;919.0;115.0;199.0
+558;2;Werkkring: werkn. flexibele arbeidsrel.;2011;1262.0;937.0;103.0;221.0
+559;2;Werkkring: werkn. flexibele arbeidsrel.;2012;1315.0;1011.0;109.0;195.0
+560;2;Werkkring: zelfstandige;2003;826.0;782.0;7.0;38.0
+561;2;Werkkring: zelfstandige;2004;871.0;823.0;11.0;38.0
+562;2;Werkkring: zelfstandige;2005;902.0;851.0;10.0;41.0
+563;2;Werkkring: zelfstandige;2006;962.0;905.0;9.0;48.0
+564;2;Werkkring: zelfstandige;2007;1019.0;955.0;9.0;54.0
+565;2;Werkkring: zelfstandige;2008;1055.0;1005.0;10.0;40.0
+566;2;Werkkring: zelfstandige;2009;1051.0;998.0;13.0;40.0
+567;2;Werkkring: zelfstandige;2010;1047.0;987.0;16.0;45.0
+568;2;Werkkring: zelfstandige;2011;1066.0;997.0;15.0;53.0
+569;2;Werkkring: zelfstandige;2012;1072.0;1007.0;21.0;44.0
+570;2;Werkkring: zelfst. zonder pers.;2003;507.0;470.0;6.0;31.0
+571;2;Werkkring: zelfst. zonder pers.;2004;530.0;488.0;10.0;32.0
+572;2;Werkkring: zelfst. zonder pers.;2005;559.0;515.0;9.0;35.0
+573;2;Werkkring: zelfst. zonder pers.;2006;608.0;560.0;8.0;39.0
+574;2;Werkkring: zelfst. zonder pers.;2007;653.0;598.0;8.0;47.0
+575;2;Werkkring: zelfst. zonder pers.;2008;702.0;658.0;9.0;35.0
+576;2;Werkkring: zelfst. zonder pers.;2009;703.0;657.0;12.0;34.0
+577;2;Werkkring: zelfst. zonder pers.;2010;700.0;647.0;15.0;38.0
+578;2;Werkkring: zelfst. zonder pers.;2011;725.0;663.0;14.0;48.0
+579;2;Werkkring: zelfst. zonder pers.;2012;754.0;697.0;20.0;37.0
+580;2;Arbeidsduur: 12 tot 32 uur per week;2003;1959.0;1739.0;49.0;171.0
+581;2;Arbeidsduur: 12 tot 32 uur per week;2004;2013.0;1759.0;71.0;183.0
+582;2;Arbeidsduur: 12 tot 32 uur per week;2005;2086.0;1822.0;65.0;198.0
+583;2;Arbeidsduur: 12 tot 32 uur per week;2006;2166.0;1872.0;70.0;224.0
+584;2;Arbeidsduur: 12 tot 32 uur per week;2007;2297.0;1989.0;67.0;241.0
+585;2;Arbeidsduur: 12 tot 32 uur per week;2008;2287.0;2008.0;51.0;228.0
+586;2;Arbeidsduur: 12 tot 32 uur per week;2009;2282.0;2025.0;63.0;195.0
+587;2;Arbeidsduur: 12 tot 32 uur per week;2010;2304.0;2034.0;72.0;197.0
+588;2;Arbeidsduur: 12 tot 32 uur per week;2011;2300.0;2004.0;69.0;227.0
+589;2;Arbeidsduur: 12 tot 32 uur per week;2012;2354.0;2085.0;72.0;197.0
+590;2;Arbeidsduur: 32 uur per week of meer;2003;4931.0;4717.0;83.0;131.0
+591;2;Arbeidsduur: 32 uur per week of meer;2004;4907.0;4675.0;108.0;124.0
+592;2;Arbeidsduur: 32 uur per week of meer;2005;4954.0;4702.0;110.0;143.0
+593;2;Arbeidsduur: 32 uur per week of meer;2006;5072.0;4825.0;97.0;150.0
+594;2;Arbeidsduur: 32 uur per week of meer;2007;5134.0;4892.0;77.0;166.0
+595;2;Arbeidsduur: 32 uur per week of meer;2008;5117.0;4934.0;62.0;121.0
+596;2;Arbeidsduur: 32 uur per week of meer;2009;5044.0;4845.0;92.0;107.0
+597;2;Arbeidsduur: 32 uur per week of meer;2010;4993.0;4761.0;104.0;128.0
+598;2;Arbeidsduur: 32 uur per week of meer;2011;4995.0;4777.0;90.0;127.0
+599;2;Arbeidsduur: 32 uur per week of meer;2012;4842.0;4653.0;88.0;101.0
+600;2;Anciënniteit: 0 tot 6 maanden;2003;397.0;397.0;;
+601;2;Anciënniteit: 0 tot 6 maanden;2004;381.0;381.0;;
+602;2;Anciënniteit: 0 tot 6 maanden;2005;411.0;411.0;;
+603;2;Anciënniteit: 0 tot 6 maanden;2006;494.0;494.0;;
+604;2;Anciënniteit: 0 tot 6 maanden;2007;580.0;580.0;;
+605;2;Anciënniteit: 0 tot 6 maanden;2008;536.0;536.0;;
+606;2;Anciënniteit: 0 tot 6 maanden;2009;433.0;433.0;;
+607;2;Anciënniteit: 0 tot 6 maanden;2010;416.0;416.0;;
+608;2;Anciënniteit: 0 tot 6 maanden;2011;454.0;454.0;;
+609;2;Anciënniteit: 0 tot 6 maanden;2012;420.0;420.0;;
+610;2;Anciënniteit: 6 tot 12 maanden;2003;377.0;377.0;;
+611;2;Anciënniteit: 6 tot 12 maanden;2004;304.0;304.0;;
+612;2;Anciënniteit: 6 tot 12 maanden;2005;305.0;305.0;;
+613;2;Anciënniteit: 6 tot 12 maanden;2006;370.0;370.0;;
+614;2;Anciënniteit: 6 tot 12 maanden;2007;429.0;429.0;;
+615;2;Anciënniteit: 6 tot 12 maanden;2008;450.0;450.0;;
+616;2;Anciënniteit: 6 tot 12 maanden;2009;408.0;408.0;;
+617;2;Anciënniteit: 6 tot 12 maanden;2010;336.0;336.0;;
+618;2;Anciënniteit: 6 tot 12 maanden;2011;339.0;339.0;;
+619;2;Anciënniteit: 6 tot 12 maanden;2012;349.0;349.0;;
+620;2;Anciënniteit: 12 tot 24 maanden;2003;635.0;635.0;;
+621;2;Anciënniteit: 12 tot 24 maanden;2004;526.0;526.0;;
+622;2;Anciënniteit: 12 tot 24 maanden;2005;490.0;490.0;;
+623;2;Anciënniteit: 12 tot 24 maanden;2006;525.0;525.0;;
+624;2;Anciënniteit: 12 tot 24 maanden;2007;613.0;613.0;;
+625;2;Anciënniteit: 12 tot 24 maanden;2008;686.0;686.0;;
+626;2;Anciënniteit: 12 tot 24 maanden;2009;679.0;679.0;;
+627;2;Anciënniteit: 12 tot 24 maanden;2010;591.0;591.0;;
+628;2;Anciënniteit: 12 tot 24 maanden;2011;542.0;542.0;;
+629;2;Anciënniteit: 12 tot 24 maanden;2012;532.0;532.0;;
+630;2;Anciënniteit: 24 maanden of meer;2003;5078.0;5078.0;;
+631;2;Anciënniteit: 24 maanden of meer;2004;5253.0;5253.0;;
+632;2;Anciënniteit: 24 maanden of meer;2005;5353.0;5353.0;;
+633;2;Anciënniteit: 24 maanden of meer;2006;5346.0;5346.0;;
+634;2;Anciënniteit: 24 maanden of meer;2007;5297.0;5297.0;;
+635;2;Anciënniteit: 24 maanden of meer;2008;5307.0;5307.0;;
+636;2;Anciënniteit: 24 maanden of meer;2009;5387.0;5387.0;;
+637;2;Anciënniteit: 24 maanden of meer;2010;5517.0;5517.0;;
+638;2;Anciënniteit: 24 maanden of meer;2011;5472.0;5472.0;;
+639;2;Anciënniteit: 24 maanden of meer;2012;5444.0;5444.0;;
+640;2;Anciënniteit: onbekend;2003;;;;
+641;2;Anciënniteit: onbekend;2004;;;;
+642;2;Anciënniteit: onbekend;2005;;;;
+643;2;Anciënniteit: onbekend;2006;;;;
+644;2;Anciënniteit: onbekend;2007;;;;
+645;2;Anciënniteit: onbekend;2008;;;;
+646;2;Anciënniteit: onbekend;2009;;;;
+647;2;Anciënniteit: onbekend;2010;;;;
+648;2;Anciënniteit: onbekend;2011;;;;
+649;2;Anciënniteit: onbekend;2012;;;;
+650;2;Type scholing: geen scholing;2003;5309.0;5100.0;100.0;109.0
+651;2;Type scholing: geen scholing;2004;5417.0;5186.0;124.0;107.0
+652;2;Type scholing: geen scholing;2005;5494.0;5245.0;128.0;121.0
+653;2;Type scholing: geen scholing;2006;5638.0;5389.0;116.0;132.0
+654;2;Type scholing: geen scholing;2007;5576.0;5346.0;99.0;131.0
+655;2;Type scholing: geen scholing;2008;5556.0;5375.0;76.0;105.0
+656;2;Type scholing: geen scholing;2009;5562.0;5356.0;106.0;100.0
+657;2;Type scholing: geen scholing;2010;5628.0;5396.0;133.0;99.0
+658;2;Type scholing: geen scholing;2011;5559.0;5334.0;116.0;109.0
+659;2;Type scholing: geen scholing;2012;;;;
+660;2;Type scholing: initieel;2003;30.0;24.0;3.0;3.0
+661;2;Type scholing: initieel;2004;29.0;21.0;5.0;3.0
+662;2;Type scholing: initieel;2005;34.0;25.0;5.0;4.0
+663;2;Type scholing: initieel;2006;28.0;22.0;3.0;3.0
+664;2;Type scholing: initieel;2007;26.0;20.0;3.0;3.0
+665;2;Type scholing: initieel;2008;34.0;26.0;4.0;4.0
+666;2;Type scholing: initieel;2009;29.0;22.0;4.0;3.0
+667;2;Type scholing: initieel;2010;19.0;16.0;;3.0
+668;2;Type scholing: initieel;2011;3.0;3.0;;
+669;2;Type scholing: initieel;2012;;;;
+670;2;Type scholing: post-initieel (kort);2003;512.0;501.0;5.0;6.0
+671;2;Type scholing: post-initieel (kort);2004;451.0;437.0;9.0;5.0
+672;2;Type scholing: post-initieel (kort);2005;507.0;492.0;9.0;7.0
+673;2;Type scholing: post-initieel (kort);2006;485.0;470.0;8.0;7.0
+674;2;Type scholing: post-initieel (kort);2007;564.0;550.0;6.0;8.0
+675;2;Type scholing: post-initieel (kort);2008;556.0;543.0;4.0;9.0
+676;2;Type scholing: post-initieel (kort);2009;546.0;532.0;9.0;4.0
+677;2;Type scholing: post-initieel (kort);2010;595.0;576.0;10.0;9.0
+678;2;Type scholing: post-initieel (kort);2011;644.0;628.0;8.0;8.0
+679;2;Type scholing: post-initieel (kort);2012;;;;
+680;2;Type scholing: post-initieel (lang);2003;609.0;576.0;11.0;22.0
+681;2;Type scholing: post-initieel (lang);2004;564.0;530.0;15.0;19.0
+682;2;Type scholing: post-initieel (lang);2005;539.0;500.0;16.0;23.0
+683;2;Type scholing: post-initieel (lang);2006;561.0;512.0;21.0;27.0
+684;2;Type scholing: post-initieel (lang);2007;595.0;552.0;10.0;33.0
+685;2;Type scholing: post-initieel (lang);2008;593.0;566.0;11.0;16.0
+686;2;Type scholing: post-initieel (lang);2009;590.0;557.0;9.0;24.0
+687;2;Type scholing: post-initieel (lang);2010;629.0;555.0;22.0;51.0
+688;2;Type scholing: post-initieel (lang);2011;561.0;528.0;13.0;21.0
+689;2;Type scholing: post-initieel (lang);2012;;;;
+690;2;Type scholing: onbekend;2003;481.0;287.0;15.0;179.0
+691;2;Type scholing: onbekend;2004;513.0;291.0;30.0;192.0
+692;2;Type scholing: onbekend;2005;523.0;297.0;22.0;204.0
+693;2;Type scholing: onbekend;2006;598.0;343.0;23.0;232.0
+694;2;Type scholing: onbekend;2007;739.0;452.0;28.0;260.0
+695;2;Type scholing: onbekend;2008;731.0;469.0;22.0;240.0
+696;2;Type scholing: onbekend;2009;664.0;440.0;30.0;194.0
+697;2;Type scholing: onbekend;2010;521.0;317.0;18.0;187.0
+698;2;Type scholing: onbekend;2011;619.0;357.0;24.0;238.0
+699;2;Type scholing: onbekend;2012;;;;
+700;2;Korte opleiding betaald door werkgever;2003;444.0;438.0;2.0;4.0
+701;2;Korte opleiding betaald door werkgever;2004;390.0;381.0;6.0;3.0
+702;2;Korte opleiding betaald door werkgever;2005;443.0;433.0;5.0;5.0
+703;2;Korte opleiding betaald door werkgever;2006;416.0;407.0;4.0;5.0
+704;2;Korte opleiding betaald door werkgever;2007;495.0;488.0;3.0;4.0
+705;2;Korte opleiding betaald door werkgever;2008;489.0;481.0;2.0;5.0
+706;2;Korte opleiding betaald door werkgever;2009;459.0;452.0;5.0;2.0
+707;2;Korte opleiding betaald door werkgever;2010;522.0;510.0;6.0;6.0
+708;2;Korte opleiding betaald door werkgever;2011;562.0;552.0;5.0;5.0
+709;2;Korte opleiding betaald door werkgever;2012;;;;
+710;2;Korte zelf betaalde opleiding;2003;67.0;62.0;3.0;2.0
+711;2;Korte zelf betaalde opleiding;2004;60.0;55.0;3.0;3.0
+712;2;Korte zelf betaalde opleiding;2005;63.0;57.0;3.0;3.0
+713;2;Korte zelf betaalde opleiding;2006;69.0;62.0;4.0;2.0
+714;2;Korte zelf betaalde opleiding;2007;68.0;61.0;3.0;4.0
+715;2;Korte zelf betaalde opleiding;2008;66.0;61.0;2.0;3.0
+716;2;Korte zelf betaalde opleiding;2009;86.0;79.0;5.0;2.0
+717;2;Korte zelf betaalde opleiding;2010;72.0;65.0;4.0;3.0
+718;2;Korte zelf betaalde opleiding;2011;81.0;75.0;3.0;3.0
+719;2;Korte zelf betaalde opleiding;2012;;;;
+720;2;Lange opleiding betaald door werkgever;2003;272.0;261.0;3.0;8.0
+721;2;Lange opleiding betaald door werkgever;2004;233.0;226.0;3.0;4.0
+722;2;Lange opleiding betaald door werkgever;2005;200.0;190.0;5.0;5.0
+723;2;Lange opleiding betaald door werkgever;2006;202.0;191.0;7.0;5.0
+724;2;Lange opleiding betaald door werkgever;2007;241.0;230.0;2.0;9.0
+725;2;Lange opleiding betaald door werkgever;2008;250.0;242.0;4.0;4.0
+726;2;Lange opleiding betaald door werkgever;2009;256.0;242.0;3.0;11.0
+727;2;Lange opleiding betaald door werkgever;2010;250.0;237.0;8.0;4.0
+728;2;Lange opleiding betaald door werkgever;2011;242.0;232.0;5.0;5.0
+729;2;Lange opleiding betaald door werkgever;2012;;;;
+730;2;Lange zelf betaalde opleiding;2003;208.0;193.0;7.0;8.0
+731;2;Lange zelf betaalde opleiding;2004;188.0;171.0;9.0;8.0
+732;2;Lange zelf betaalde opleiding;2005;194.0;175.0;9.0;10.0
+733;2;Lange zelf betaalde opleiding;2006;215.0;191.0;12.0;11.0
+734;2;Lange zelf betaalde opleiding;2007;209.0;187.0;7.0;15.0
+735;2;Lange zelf betaalde opleiding;2008;198.0;183.0;5.0;9.0
+736;2;Lange zelf betaalde opleiding;2009;192.0;177.0;5.0;10.0
+737;2;Lange zelf betaalde opleiding;2010;191.0;177.0;7.0;7.0
+738;2;Lange zelf betaalde opleiding;2011;180.0;164.0;7.0;10.0
+739;2;Lange zelf betaalde opleiding;2012;;;;
+740;2;Kosten: onbekend/nvt;2003;5950.0;5534.0;119.0;297.0
+741;2;Kosten: onbekend/nvt;2004;6101.0;5632.0;162.0;308.0
+742;2;Kosten: onbekend/nvt;2005;6198.0;5704.0;158.0;336.0
+743;2;Kosten: onbekend/nvt;2006;6408.0;5885.0;145.0;378.0
+744;2;Kosten: onbekend/nvt;2007;6487.0;5953.0;131.0;404.0
+745;2;Kosten: onbekend/nvt;2008;6467.0;6011.0;103.0;353.0
+746;2;Kosten: onbekend/nvt;2009;6398.0;5958.0;140.0;300.0
+747;2;Kosten: onbekend/nvt;2010;6358.0;5871.0;158.0;328.0
+748;2;Kosten: onbekend/nvt;2011;6322.0;5827.0;141.0;354.0
+749;2;Kosten: onbekend/nvt;2012;;;;
+750;2;Reden scholing: niet werkgerelateerd;2003;118.0;113.0;3.0;3.0
+751;2;Reden scholing: niet werkgerelateerd;2004;111.0;104.0;;5.0
+752;2;Reden scholing: niet werkgerelateerd;2005;106.0;101.0;;4.0
+753;2;Reden scholing: niet werkgerelateerd;2006;116.0;110.0;3.0;3.0
+754;2;Reden scholing: niet werkgerelateerd;2007;129.0;122.0;3.0;4.0
+755;2;Reden scholing: niet werkgerelateerd;2008;138.0;132.0;;5.0
+756;2;Reden scholing: niet werkgerelateerd;2009;134.0;129.0;2.0;4.0
+757;2;Reden scholing: niet werkgerelateerd;2010;115.0;109.0;3.0;2.0
+758;2;Reden scholing: niet werkgerelateerd;2011;107.0;101.0;3.0;3.0
+759;2;Reden scholing: niet werkgerelateerd;2012;;;;
+760;2;Reden scholing: bijblijven;2003;373.0;367.0;2.0;4.0
+761;2;Reden scholing: bijblijven;2004;331.0;325.0;3.0;3.0
+762;2;Reden scholing: bijblijven;2005;362.0;355.0;2.0;5.0
+763;2;Reden scholing: bijblijven;2006;324.0;319.0;2.0;3.0
+764;2;Reden scholing: bijblijven;2007;384.0;375.0;2.0;8.0
+765;2;Reden scholing: bijblijven;2008;394.0;387.0;2.0;5.0
+766;2;Reden scholing: bijblijven;2009;364.0;357.0;3.0;4.0
+767;2;Reden scholing: bijblijven;2010;441.0;435.0;2.0;4.0
+768;2;Reden scholing: bijblijven;2011;433.0;426.0;3.0;4.0
+769;2;Reden scholing: bijblijven;2012;;;;
+770;2;Reden scholing: verplicht;2003;207.0;205.0;;2.0
+771;2;Reden scholing: verplicht;2004;174.0;171.0;2.0;
+772;2;Reden scholing: verplicht;2005;184.0;179.0;;4.0
+773;2;Reden scholing: verplicht;2006;184.0;179.0;2.0;3.0
+774;2;Reden scholing: verplicht;2007;225.0;219.0;;4.0
+775;2;Reden scholing: verplicht;2008;210.0;206.0;2.0;2.0
+776;2;Reden scholing: verplicht;2009;213.0;207.0;2.0;4.0
+777;2;Reden scholing: verplicht;2010;202.0;197.0;3.0;2.0
+778;2;Reden scholing: verplicht;2011;241.0;235.0;2.0;4.0
+779;2;Reden scholing: verplicht;2012;;;;
+780;2;Reden scholing: promotie;2003;155.0;154.0;;
+781;2;Reden scholing: promotie;2004;133.0;133.0;;
+782;2;Reden scholing: promotie;2005;131.0;131.0;;
+783;2;Reden scholing: promotie;2006;130.0;129.0;;
+784;2;Reden scholing: promotie;2007;154.0;153.0;;
+785;2;Reden scholing: promotie;2008;165.0;165.0;;
+786;2;Reden scholing: promotie;2009;158.0;158.0;;
+787;2;Reden scholing: promotie;2010;142.0;142.0;;
+788;2;Reden scholing: promotie;2011;152.0;151.0;;
+789;2;Reden scholing: promotie;2012;;;;
+790;2;Reden scholing: ander werk;2003;265.0;259.0;;5.0
+791;2;Reden scholing: ander werk;2004;241.0;237.0;2.0;2.0
+792;2;Reden scholing: ander werk;2005;233.0;229.0;2.0;2.0
+793;2;Reden scholing: ander werk;2006;250.0;243.0;2.0;5.0
+794;2;Reden scholing: ander werk;2007;294.0;286.0;;6.0
+795;2;Reden scholing: ander werk;2008;299.0;295.0;;3.0
+796;2;Reden scholing: ander werk;2009;286.0;281.0;;4.0
+797;2;Reden scholing: ander werk;2010;260.0;255.0;2.0;3.0
+798;2;Reden scholing: ander werk;2011;276.0;272.0;2.0;3.0
+799;2;Reden scholing: ander werk;2012;;;;
+800;2;Reden scholing: kans werk;2003;19.0;;10.0;9.0
+801;2;Reden scholing: kans werk;2004;23.0;;15.0;8.0
+802;2;Reden scholing: kans werk;2005;25.0;;15.0;10.0
+803;2;Reden scholing: kans werk;2006;30.0;;20.0;10.0
+804;2;Reden scholing: kans werk;2007;22.0;;10.0;12.0
+805;2;Reden scholing: kans werk;2008;19.0;;8.0;11.0
+806;2;Reden scholing: kans werk;2009;27.0;;12.0;15.0
+807;2;Reden scholing: kans werk;2010;29.0;;18.0;11.0
+808;2;Reden scholing: kans werk;2011;22.0;;12.0;11.0
+809;2;Reden scholing: kans werk;2012;;;;
+810;2;Reden scholing: onbekend/nvt;2003;5804.0;5390.0;118.0;295.0
+811;2;Reden scholing: onbekend/nvt;2004;5960.0;5495.0;160.0;305.0
+812;2;Reden scholing: onbekend/nvt;2005;6056.0;5564.0;157.0;335.0
+813;2;Reden scholing: onbekend/nvt;2006;6276.0;5756.0;143.0;377.0
+814;2;Reden scholing: onbekend/nvt;2007;6292.0;5763.0;130.0;400.0
+815;2;Reden scholing: onbekend/nvt;2008;6244.0;5794.0;102.0;348.0
+816;2;Reden scholing: onbekend/nvt;2009;6208.0;5775.0;138.0;295.0
+817;2;Reden scholing: onbekend/nvt;2010;6203.0;5722.0;155.0;326.0
+818;2;Reden scholing: onbekend/nvt;2011;6157.0;5665.0;140.0;352.0
+819;2;Reden scholing: onbekend/nvt;2012;;;;
+820;3;3;2003;476.0;177.0;137.0;162.0
+821;3;3;2004;482.0;156.0;157.0;169.0
+822;3;3;2005;410.0;115.0;153.0;142.0
+823;3;3;2006;344.0;88.0;113.0;142.0
+824;3;3;2007;300.0;89.0;86.0;125.0
+825;3;3;2008;377.0;167.0;87.0;123.0
+826;3;3;2009;426.0;193.0;95.0;138.0
+827;3;3;2010;419.0;166.0;114.0;140.0
+828;3;3;2011;507.0;210.0;131.0;166.0
+829;3;3;2012;656.0;239.0;197.0;220.0
+830;3;1;2003;243.0;103.0;80.0;59.0
+831;3;1;2004;234.0;87.0;78.0;69.0
+832;3;1;2005;189.0;62.0;80.0;47.0
+833;3;1;2006;147.0;42.0;59.0;47.0
+834;3;1;2007;138.0;48.0;43.0;47.0
+835;3;1;2008;185.0;92.0;45.0;48.0
+836;3;1;2009;212.0;108.0;49.0;55.0
+837;3;1;2010;196.0;83.0;58.0;55.0
+838;3;1;2011;262.0;120.0;73.0;69.0
+839;3;1;2012;321.0;126.0;101.0;94.0
+840;3;2;2003;233.0;74.0;57.0;102.0
+841;3;2;2004;248.0;69.0;79.0;99.0
+842;3;2;2005;220.0;53.0;73.0;95.0
+843;3;2;2006;196.0;46.0;55.0;95.0
+844;3;2;2007;162.0;41.0;42.0;78.0
+845;3;2;2008;192.0;75.0;42.0;75.0
+846;3;2;2009;214.0;85.0;46.0;83.0
+847;3;2;2010;223.0;82.0;56.0;84.0
+848;3;2;2011;244.0;90.0;58.0;97.0
+849;3;2;2012;337.0;114.0;96.0;127.0
+850;3;4;2003;115.0;39.0;21.0;56.0
+851;3;4;2004;108.0;24.0;18.0;65.0
+852;3;4;2005;83.0;17.0;13.0;54.0
+853;3;4;2006;75.0;17.0;10.0;48.0
+854;3;4;2007;78.0;23.0;6.0;48.0
+855;3;4;2008;98.0;36.0;12.0;50.0
+856;3;4;2009;100.0;34.0;13.0;52.0
+857;3;4;2010;112.0;30.0;17.0;65.0
+858;3;4;2011;135.0;40.0;17.0;77.0
+859;3;4;2012;155.0;42.0;29.0;84.0
+860;3;5;2003;237.0;96.0;71.0;71.0
+861;3;5;2004;233.0;82.0;77.0;74.0
+862;3;5;2005;197.0;63.0;75.0;59.0
+863;3;5;2006;147.0;43.0;43.0;61.0
+864;3;5;2007;124.0;43.0;35.0;46.0
+865;3;5;2008;154.0;82.0;29.0;43.0
+866;3;5;2009;178.0;92.0;39.0;47.0
+867;3;5;2010;168.0;82.0;45.0;41.0
+868;3;5;2011;199.0;98.0;55.0;47.0
+869;3;5;2012;260.0;106.0;81.0;73.0
+870;3;6;2003;123.0;43.0;46.0;34.0
+871;3;6;2004;141.0;49.0;62.0;30.0
+872;3;6;2005;129.0;35.0;65.0;29.0
+873;3;6;2006;122.0;28.0;61.0;34.0
+874;3;6;2007;98.0;23.0;44.0;31.0
+875;3;6;2008;125.0;49.0;47.0;29.0
+876;3;6;2009;148.0;67.0;43.0;38.0
+877;3;6;2010;139.0;54.0;51.0;34.0
+878;3;6;2011;173.0;72.0;59.0;42.0
+879;3;6;2012;242.0;92.0;87.0;63.0
+880;3;7;2003;317.0;122.0;82.0;112.0
+881;3;7;2004;324.0;111.0;106.0;107.0
+882;3;7;2005;276.0;85.0;94.0;97.0
+883;3;7;2006;232.0;64.0;73.0;95.0
+884;3;7;2007;195.0;62.0;56.0;78.0
+885;3;7;2008;262.0;124.0;52.0;86.0
+886;3;7;2009;281.0;135.0;63.0;84.0
+887;3;7;2010;280.0;121.0;72.0;88.0
+888;3;7;2011;334.0;142.0;82.0;110.0
+889;3;7;2012;446.0;184.0;122.0;140.0
+890;3;8;2003;56.0;23.0;13.0;20.0
+891;3;8;2004;55.0;18.0;16.0;21.0
+892;3;8;2005;52.0;14.0;23.0;15.0
+893;3;8;2006;39.0;10.0;12.0;17.0
+894;3;8;2007;39.0;11.0;11.0;17.0
+895;3;8;2008;47.0;21.0;12.0;14.0
+896;3;8;2009;48.0;20.0;11.0;17.0
+897;3;8;2010;47.0;19.0;11.0;16.0
+898;3;8;2011;59.0;28.0;15.0;16.0
+899;3;8;2012;74.0;25.0;26.0;23.0
+900;3;9;2003;103.0;33.0;41.0;29.0
+901;3;9;2004;102.0;27.0;35.0;41.0
+902;3;9;2005;82.0;16.0;37.0;30.0
+903;3;9;2006;73.0;15.0;28.0;30.0
+904;3;9;2007;66.0;17.0;19.0;30.0
+905;3;9;2008;68.0;23.0;23.0;23.0
+906;3;9;2009;97.0;39.0;21.0;37.0
+907;3;9;2010;92.0;26.0;31.0;36.0
+908;3;9;2011;113.0;39.0;33.0;41.0
+909;3;9;2012;136.0;31.0;48.0;57.0
+910;3;Opleidingsniveau: Lager onderwijs;2003;192.0;65.0;51.0;76.0
+911;3;Opleidingsniveau: Lager onderwijs;2004;177.0;46.0;57.0;73.0
+912;3;Opleidingsniveau: Lager onderwijs;2005;151.0;37.0;50.0;64.0
+913;3;Opleidingsniveau: Lager onderwijs;2006;134.0;28.0;42.0;64.0
+914;3;Opleidingsniveau: Lager onderwijs;2007;114.0;29.0;31.0;53.0
+915;3;Opleidingsniveau: Lager onderwijs;2008;139.0;49.0;36.0;55.0
+916;3;Opleidingsniveau: Lager onderwijs;2009;154.0;62.0;34.0;58.0
+917;3;Opleidingsniveau: Lager onderwijs;2010;150.0;43.0;42.0;65.0
+918;3;Opleidingsniveau: Lager onderwijs;2011;187.0;60.0;45.0;82.0
+919;3;Opleidingsniveau: Lager onderwijs;2012;219.0;64.0;65.0;90.0
+920;3;Opleidingsniveau: Middelbaar onderwijs;2003;191.0;76.0;56.0;59.0
+921;3;Opleidingsniveau: Middelbaar onderwijs;2004;206.0;66.0;65.0;75.0
+922;3;Opleidingsniveau: Middelbaar onderwijs;2005;176.0;52.0;67.0;58.0
+923;3;Opleidingsniveau: Middelbaar onderwijs;2006;145.0;40.0;51.0;54.0
+924;3;Opleidingsniveau: Middelbaar onderwijs;2007;123.0;34.0;34.0;54.0
+925;3;Opleidingsniveau: Middelbaar onderwijs;2008;159.0;77.0;32.0;49.0
+926;3;Opleidingsniveau: Middelbaar onderwijs;2009;171.0;77.0;39.0;55.0
+927;3;Opleidingsniveau: Middelbaar onderwijs;2010;170.0;69.0;42.0;58.0
+928;3;Opleidingsniveau: Middelbaar onderwijs;2011;206.0;90.0;58.0;58.0
+929;3;Opleidingsniveau: Middelbaar onderwijs;2012;292.0;110.0;88.0;94.0
+930;3;Opleidingsniveau: Hoger onderwijs;2003;89.0;36.0;29.0;25.0
+931;3;Opleidingsniveau: Hoger onderwijs;2004;94.0;41.0;34.0;19.0
+932;3;Opleidingsniveau: Hoger onderwijs;2005;81.0;26.0;36.0;19.0
+933;3;Opleidingsniveau: Hoger onderwijs;2006;62.0;19.0;20.0;23.0
+934;3;Opleidingsniveau: Hoger onderwijs;2007;63.0;26.0;20.0;18.0
+935;3;Opleidingsniveau: Hoger onderwijs;2008;78.0;40.0;19.0;19.0
+936;3;Opleidingsniveau: Hoger onderwijs;2009;100.0;53.0;22.0;25.0
+937;3;Opleidingsniveau: Hoger onderwijs;2010;98.0;52.0;29.0;17.0
+938;3;Opleidingsniveau: Hoger onderwijs;2011;112.0;59.0;27.0;25.0
+939;3;Opleidingsniveau: Hoger onderwijs;2012;138.0;63.0;42.0;33.0
+940;3;Opleidingsniveau:onbekend;2003;3.0;;;2.0
+941;3;Opleidingsniveau:onbekend;2004;4.0;2.0;;2.0
+942;3;Opleidingsniveau:onbekend;2005;;;;
+943;3;Opleidingsniveau:onbekend;2006;3.0;;;
+944;3;Opleidingsniveau:onbekend;2007;;;;
+945;3;Opleidingsniveau:onbekend;2008;;;;
+946;3;Opleidingsniveau:onbekend;2009;;;;
+947;3;Opleidingsniveau:onbekend;2010;;;;
+948;3;Opleidingsniveau:onbekend;2011;2.0;;;
+949;3;Opleidingsniveau:onbekend;2012;6.0;;2.0;3.0
+950;3;Werkkring: werkn. vaste arbeidsrelatie;2003;93.0;93.0;;
+951;3;Werkkring: werkn. vaste arbeidsrelatie;2004;85.0;85.0;;
+952;3;Werkkring: werkn. vaste arbeidsrelatie;2005;63.0;63.0;;
+953;3;Werkkring: werkn. vaste arbeidsrelatie;2006;46.0;46.0;;
+954;3;Werkkring: werkn. vaste arbeidsrelatie;2007;39.0;39.0;;
+955;3;Werkkring: werkn. vaste arbeidsrelatie;2008;76.0;76.0;;
+956;3;Werkkring: werkn. vaste arbeidsrelatie;2009;98.0;98.0;;
+957;3;Werkkring: werkn. vaste arbeidsrelatie;2010;76.0;76.0;;
+958;3;Werkkring: werkn. vaste arbeidsrelatie;2011;85.0;85.0;;
+959;3;Werkkring: werkn. vaste arbeidsrelatie;2012;105.0;105.0;;
+960;3;Werkkring: werkn. flexibele arbeidsrel.;2003;76.0;76.0;;
+961;3;Werkkring: werkn. flexibele arbeidsrel.;2004;59.0;59.0;;
+962;3;Werkkring: werkn. flexibele arbeidsrel.;2005;48.0;48.0;;
+963;3;Werkkring: werkn. flexibele arbeidsrel.;2006;37.0;37.0;;
+964;3;Werkkring: werkn. flexibele arbeidsrel.;2007;44.0;44.0;;
+965;3;Werkkring: werkn. flexibele arbeidsrel.;2008;84.0;84.0;;
+966;3;Werkkring: werkn. flexibele arbeidsrel.;2009;81.0;81.0;;
+967;3;Werkkring: werkn. flexibele arbeidsrel.;2010;81.0;81.0;;
+968;3;Werkkring: werkn. flexibele arbeidsrel.;2011;109.0;109.0;;
+969;3;Werkkring: werkn. flexibele arbeidsrel.;2012;118.0;118.0;;
+970;3;Werkkring: zelfstandige;2003;8.0;8.0;;
+971;3;Werkkring: zelfstandige;2004;12.0;12.0;;
+972;3;Werkkring: zelfstandige;2005;5.0;5.0;;
+973;3;Werkkring: zelfstandige;2006;5.0;5.0;;
+974;3;Werkkring: zelfstandige;2007;6.0;6.0;;
+975;3;Werkkring: zelfstandige;2008;7.0;7.0;;
+976;3;Werkkring: zelfstandige;2009;14.0;14.0;;
+977;3;Werkkring: zelfstandige;2010;9.0;9.0;;
+978;3;Werkkring: zelfstandige;2011;16.0;16.0;;
+979;3;Werkkring: zelfstandige;2012;16.0;16.0;;
+980;3;Werkkring: zelfst. zonder pers.;2003;7.0;7.0;;
+981;3;Werkkring: zelfst. zonder pers.;2004;10.0;10.0;;
+982;3;Werkkring: zelfst. zonder pers.;2005;5.0;4.0;;
+983;3;Werkkring: zelfst. zonder pers.;2006;4.0;4.0;;
+984;3;Werkkring: zelfst. zonder pers.;2007;5.0;5.0;;
+985;3;Werkkring: zelfst. zonder pers.;2008;6.0;6.0;;
+986;3;Werkkring: zelfst. zonder pers.;2009;12.0;12.0;;
+987;3;Werkkring: zelfst. zonder pers.;2010;8.0;8.0;;
+988;3;Werkkring: zelfst. zonder pers.;2011;13.0;13.0;;
+989;3;Werkkring: zelfst. zonder pers.;2012;14.0;14.0;;
+990;3;Arbeidsduur: 12 tot 32 uur per week;2003;54.0;54.0;;
+991;3;Arbeidsduur: 12 tot 32 uur per week;2004;51.0;51.0;;
+992;3;Arbeidsduur: 12 tot 32 uur per week;2005;36.0;36.0;;
+993;3;Arbeidsduur: 12 tot 32 uur per week;2006;40.0;40.0;;
+994;3;Arbeidsduur: 12 tot 32 uur per week;2007;33.0;33.0;;
+995;3;Arbeidsduur: 12 tot 32 uur per week;2008;54.0;54.0;;
+996;3;Arbeidsduur: 12 tot 32 uur per week;2009;70.0;70.0;;
+997;3;Arbeidsduur: 12 tot 32 uur per week;2010;56.0;56.0;;
+998;3;Arbeidsduur: 12 tot 32 uur per week;2011;76.0;76.0;;
+999;3;Arbeidsduur: 12 tot 32 uur per week;2012;94.0;94.0;;
+1000;3;Arbeidsduur: 32 uur per week of meer;2003;122.0;122.0;;
+1001;3;Arbeidsduur: 32 uur per week of meer;2004;104.0;104.0;;
+1002;3;Arbeidsduur: 32 uur per week of meer;2005;78.0;78.0;;
+1003;3;Arbeidsduur: 32 uur per week of meer;2006;46.0;46.0;;
+1004;3;Arbeidsduur: 32 uur per week of meer;2007;54.0;54.0;;
+1005;3;Arbeidsduur: 32 uur per week of meer;2008;108.0;108.0;;
+1006;3;Arbeidsduur: 32 uur per week of meer;2009;121.0;121.0;;
+1007;3;Arbeidsduur: 32 uur per week of meer;2010;101.0;101.0;;
+1008;3;Arbeidsduur: 32 uur per week of meer;2011;124.0;124.0;;
+1009;3;Arbeidsduur: 32 uur per week of meer;2012;137.0;137.0;;
+1010;3;Anciënniteit: 0 tot 6 maanden;2003;45.0;45.0;;
+1011;3;Anciënniteit: 0 tot 6 maanden;2004;32.0;32.0;;
+1012;3;Anciënniteit: 0 tot 6 maanden;2005;26.0;25.0;;
+1013;3;Anciënniteit: 0 tot 6 maanden;2006;29.0;29.0;;
+1014;3;Anciënniteit: 0 tot 6 maanden;2007;25.0;25.0;;
+1015;3;Anciënniteit: 0 tot 6 maanden;2008;46.0;46.0;;
+1016;3;Anciënniteit: 0 tot 6 maanden;2009;41.0;41.0;;
+1017;3;Anciënniteit: 0 tot 6 maanden;2010;38.0;38.0;;
+1018;3;Anciënniteit: 0 tot 6 maanden;2011;53.0;53.0;;
+1019;3;Anciënniteit: 0 tot 6 maanden;2012;50.0;50.0;;
+1020;3;Anciënniteit: 6 tot 12 maanden;2003;26.0;26.0;;
+1021;3;Anciënniteit: 6 tot 12 maanden;2004;16.0;16.0;;
+1022;3;Anciënniteit: 6 tot 12 maanden;2005;14.0;14.0;;
+1023;3;Anciënniteit: 6 tot 12 maanden;2006;11.0;11.0;;
+1024;3;Anciënniteit: 6 tot 12 maanden;2007;12.0;12.0;;
+1025;3;Anciënniteit: 6 tot 12 maanden;2008;27.0;27.0;;
+1026;3;Anciënniteit: 6 tot 12 maanden;2009;23.0;23.0;;
+1027;3;Anciënniteit: 6 tot 12 maanden;2010;20.0;20.0;;
+1028;3;Anciënniteit: 6 tot 12 maanden;2011;28.0;28.0;;
+1029;3;Anciënniteit: 6 tot 12 maanden;2012;30.0;30.0;;
+1030;3;Anciënniteit: 12 tot 24 maanden;2003;26.0;26.0;;
+1031;3;Anciënniteit: 12 tot 24 maanden;2004;20.0;20.0;;
+1032;3;Anciënniteit: 12 tot 24 maanden;2005;14.0;13.0;;
+1033;3;Anciënniteit: 12 tot 24 maanden;2006;8.0;8.0;;
+1034;3;Anciënniteit: 12 tot 24 maanden;2007;13.0;13.0;;
+1035;3;Anciënniteit: 12 tot 24 maanden;2008;26.0;26.0;;
+1036;3;Anciënniteit: 12 tot 24 maanden;2009;34.0;34.0;;
+1037;3;Anciënniteit: 12 tot 24 maanden;2010;23.0;23.0;;
+1038;3;Anciënniteit: 12 tot 24 maanden;2011;26.0;26.0;;
+1039;3;Anciënniteit: 12 tot 24 maanden;2012;33.0;33.0;;
+1040;3;Anciënniteit: 24 maanden of meer;2003;80.0;80.0;;
+1041;3;Anciënniteit: 24 maanden of meer;2004;89.0;89.0;;
+1042;3;Anciënniteit: 24 maanden of meer;2005;63.0;63.0;;
+1043;3;Anciënniteit: 24 maanden of meer;2006;40.0;40.0;;
+1044;3;Anciënniteit: 24 maanden of meer;2007;40.0;40.0;;
+1045;3;Anciënniteit: 24 maanden of meer;2008;69.0;69.0;;
+1046;3;Anciënniteit: 24 maanden of meer;2009;95.0;95.0;;
+1047;3;Anciënniteit: 24 maanden of meer;2010;85.0;85.0;;
+1048;3;Anciënniteit: 24 maanden of meer;2011;101.0;101.0;;
+1049;3;Anciënniteit: 24 maanden of meer;2012;125.0;125.0;;
+1050;3;Anciënniteit: onbekend;2003;;;;
+1051;3;Anciënniteit: onbekend;2004;;;;
+1052;3;Anciënniteit: onbekend;2005;;;;
+1053;3;Anciënniteit: onbekend;2006;;;;
+1054;3;Anciënniteit: onbekend;2007;;;;
+1055;3;Anciënniteit: onbekend;2008;;;;
+1056;3;Anciënniteit: onbekend;2009;;;;
+1057;3;Anciënniteit: onbekend;2010;;;;
+1058;3;Anciënniteit: onbekend;2011;;;;
+1059;3;Anciënniteit: onbekend;2012;;;;
+1060;3;Type scholing: geen scholing;2003;325.0;132.0;111.0;81.0
+1061;3;Type scholing: geen scholing;2004;342.0;123.0;127.0;92.0
+1062;3;Type scholing: geen scholing;2005;287.0;85.0;122.0;80.0
+1063;3;Type scholing: geen scholing;2006;238.0;65.0;95.0;78.0
+1064;3;Type scholing: geen scholing;2007;190.0;63.0;69.0;59.0
+1065;3;Type scholing: geen scholing;2008;246.0;121.0;69.0;56.0
+1066;3;Type scholing: geen scholing;2009;278.0;133.0;74.0;71.0
+1067;3;Type scholing: geen scholing;2010;279.0;124.0;90.0;65.0
+1068;3;Type scholing: geen scholing;2011;326.0;149.0;100.0;77.0
+1069;3;Type scholing: geen scholing;2012;;;;
+1070;3;Type scholing: initieel;2003;3.0;2.0;;
+1071;3;Type scholing: initieel;2004;2.0;;;
+1072;3;Type scholing: initieel;2005;3.0;;;2.0
+1073;3;Type scholing: initieel;2006;3.0;;;2.0
+1074;3;Type scholing: initieel;2007;;;;
+1075;3;Type scholing: initieel;2008;2.0;;;
+1076;3;Type scholing: initieel;2009;3.0;;;
+1077;3;Type scholing: initieel;2010;2.0;;;
+1078;3;Type scholing: initieel;2011;;;;
+1079;3;Type scholing: initieel;2012;;;;
+1080;3;Type scholing: post-initieel (kort);2003;21.0;11.0;5.0;5.0
+1081;3;Type scholing: post-initieel (kort);2004;21.0;10.0;6.0;5.0
+1082;3;Type scholing: post-initieel (kort);2005;20.0;7.0;11.0;2.0
+1083;3;Type scholing: post-initieel (kort);2006;9.0;4.0;2.0;3.0
+1084;3;Type scholing: post-initieel (kort);2007;9.0;4.0;4.0;
+1085;3;Type scholing: post-initieel (kort);2008;14.0;9.0;2.0;2.0
+1086;3;Type scholing: post-initieel (kort);2009;18.0;11.0;5.0;2.0
+1087;3;Type scholing: post-initieel (kort);2010;15.0;8.0;6.0;
+1088;3;Type scholing: post-initieel (kort);2011;25.0;15.0;5.0;5.0
+1089;3;Type scholing: post-initieel (kort);2012;;;;
+1090;3;Type scholing: post-initieel (lang);2003;48.0;17.0;10.0;20.0
+1091;3;Type scholing: post-initieel (lang);2004;40.0;12.0;14.0;14.0
+1092;3;Type scholing: post-initieel (lang);2005;35.0;10.0;14.0;11.0
+1093;3;Type scholing: post-initieel (lang);2006;32.0;7.0;10.0;16.0
+1094;3;Type scholing: post-initieel (lang);2007;32.0;10.0;7.0;16.0
+1095;3;Type scholing: post-initieel (lang);2008;31.0;14.0;5.0;12.0
+1096;3;Type scholing: post-initieel (lang);2009;43.0;22.0;9.0;12.0
+1097;3;Type scholing: post-initieel (lang);2010;42.0;14.0;8.0;19.0
+1098;3;Type scholing: post-initieel (lang);2011;43.0;21.0;13.0;9.0
+1099;3;Type scholing: post-initieel (lang);2012;;;;
+1100;3;Type scholing: onbekend;2003;79.0;15.0;9.0;54.0
+1101;3;Type scholing: onbekend;2004;77.0;10.0;10.0;57.0
+1102;3;Type scholing: onbekend;2005;65.0;13.0;5.0;47.0
+1103;3;Type scholing: onbekend;2006;61.0;12.0;6.0;44.0
+1104;3;Type scholing: onbekend;2007;68.0;12.0;7.0;49.0
+1105;3;Type scholing: onbekend;2008;84.0;22.0;10.0;53.0
+1106;3;Type scholing: onbekend;2009;84.0;26.0;7.0;51.0
+1107;3;Type scholing: onbekend;2010;80.0;18.0;9.0;53.0
+1108;3;Type scholing: onbekend;2011;112.0;25.0;12.0;75.0
+1109;3;Type scholing: onbekend;2012;;;;
+1110;3;Korte opleiding betaald door werkgever;2003;17.0;8.0;4.0;5.0
+1111;3;Korte opleiding betaald door werkgever;2004;15.0;8.0;4.0;4.0
+1112;3;Korte opleiding betaald door werkgever;2005;12.0;6.0;6.0;
+1113;3;Korte opleiding betaald door werkgever;2006;5.0;3.0;;
+1114;3;Korte opleiding betaald door werkgever;2007;7.0;3.0;3.0;
+1115;3;Korte opleiding betaald door werkgever;2008;10.0;7.0;2.0;2.0
+1116;3;Korte opleiding betaald door werkgever;2009;13.0;9.0;3.0;2.0
+1117;3;Korte opleiding betaald door werkgever;2010;11.0;6.0;4.0;
+1118;3;Korte opleiding betaald door werkgever;2011;18.0;12.0;3.0;3.0
+1119;3;Korte opleiding betaald door werkgever;2012;;;;
+1120;3;Korte zelf betaalde opleiding;2003;4.0;2.0;;
+1121;3;Korte zelf betaalde opleiding;2004;5.0;2.0;2.0;
+1122;3;Korte zelf betaalde opleiding;2005;8.0;;6.0;
+1123;3;Korte zelf betaalde opleiding;2006;4.0;;;2.0
+1124;3;Korte zelf betaalde opleiding;2007;;;;
+1125;3;Korte zelf betaalde opleiding;2008;4.0;2.0;;
+1126;3;Korte zelf betaalde opleiding;2009;5.0;2.0;2.0;
+1127;3;Korte zelf betaalde opleiding;2010;4.0;3.0;;
+1128;3;Korte zelf betaalde opleiding;2011;7.0;3.0;2.0;2.0
+1129;3;Korte zelf betaalde opleiding;2012;;;;
+1130;3;Lange opleiding betaald door werkgever;2003;16.0;5.0;3.0;8.0
+1131;3;Lange opleiding betaald door werkgever;2004;13.0;4.0;3.0;6.0
+1132;3;Lange opleiding betaald door werkgever;2005;10.0;2.0;5.0;3.0
+1133;3;Lange opleiding betaald door werkgever;2006;14.0;;3.0;10.0
+1134;3;Lange opleiding betaald door werkgever;2007;13.0;4.0;4.0;5.0
+1135;3;Lange opleiding betaald door werkgever;2008;9.0;3.0;2.0;4.0
+1136;3;Lange opleiding betaald door werkgever;2009;18.0;8.0;4.0;6.0
+1137;3;Lange opleiding betaald door werkgever;2010;13.0;5.0;3.0;5.0
+1138;3;Lange opleiding betaald door werkgever;2011;14.0;6.0;5.0;3.0
+1139;3;Lange opleiding betaald door werkgever;2012;;;;
+1140;3;Lange zelf betaalde opleiding;2003;23.0;10.0;6.0;7.0
+1141;3;Lange zelf betaalde opleiding;2004;19.0;6.0;8.0;6.0
+1142;3;Lange zelf betaalde opleiding;2005;17.0;5.0;7.0;6.0
+1143;3;Lange zelf betaalde opleiding;2006;13.0;5.0;5.0;3.0
+1144;3;Lange zelf betaalde opleiding;2007;15.0;5.0;3.0;6.0
+1145;3;Lange zelf betaalde opleiding;2008;15.0;8.0;3.0;5.0
+1146;3;Lange zelf betaalde opleiding;2009;19.0;10.0;4.0;5.0
+1147;3;Lange zelf betaalde opleiding;2010;14.0;5.0;4.0;4.0
+1148;3;Lange zelf betaalde opleiding;2011;24.0;13.0;6.0;4.0
+1149;3;Lange zelf betaalde opleiding;2012;;;;
+1150;3;Kosten: onbekend/nvt;2003;416.0;152.0;122.0;142.0
+1151;3;Kosten: onbekend/nvt;2004;429.0;136.0;140.0;152.0
+1152;3;Kosten: onbekend/nvt;2005;362.0;101.0;130.0;131.0
+1153;3;Kosten: onbekend/nvt;2006;308.0;78.0;103.0;126.0
+1154;3;Kosten: onbekend/nvt;2007;264.0;77.0;75.0;112.0
+1155;3;Kosten: onbekend/nvt;2008;340.0;147.0;80.0;112.0
+1156;3;Kosten: onbekend/nvt;2009;371.0;164.0;82.0;125.0
+1157;3;Kosten: onbekend/nvt;2010;377.0;147.0;101.0;129.0
+1158;3;Kosten: onbekend/nvt;2011;444.0;177.0;114.0;153.0
+1159;3;Kosten: onbekend/nvt;2012;;;;
+1160;3;Reden scholing: niet werkgerelateerd;2003;5.0;2.0;2.0;2.0
+1161;3;Reden scholing: niet werkgerelateerd;2004;6.0;2.0;2.0;3.0
+1162;3;Reden scholing: niet werkgerelateerd;2005;4.0;2.0;;
+1163;3;Reden scholing: niet werkgerelateerd;2006;6.0;2.0;2.0;2.0
+1164;3;Reden scholing: niet werkgerelateerd;2007;5.0;;2.0;2.0
+1165;3;Reden scholing: niet werkgerelateerd;2008;5.0;3.0;;
+1166;3;Reden scholing: niet werkgerelateerd;2009;7.0;5.0;;
+1167;3;Reden scholing: niet werkgerelateerd;2010;4.0;2.0;;
+1168;3;Reden scholing: niet werkgerelateerd;2011;5.0;2.0;;2.0
+1169;3;Reden scholing: niet werkgerelateerd;2012;;;;
+1170;3;Reden scholing: bijblijven;2003;10.0;6.0;2.0;2.0
+1171;3;Reden scholing: bijblijven;2004;6.0;5.0;;
+1172;3;Reden scholing: bijblijven;2005;7.0;3.0;2.0;2.0
+1173;3;Reden scholing: bijblijven;2006;4.0;3.0;;
+1174;3;Reden scholing: bijblijven;2007;3.0;;;2.0
+1175;3;Reden scholing: bijblijven;2008;8.0;5.0;;2.0
+1176;3;Reden scholing: bijblijven;2009;8.0;5.0;;2.0
+1177;3;Reden scholing: bijblijven;2010;8.0;5.0;;2.0
+1178;3;Reden scholing: bijblijven;2011;12.0;8.0;;2.0
+1179;3;Reden scholing: bijblijven;2012;;;;
+1180;3;Reden scholing: verplicht;2003;3.0;2.0;;
+1181;3;Reden scholing: verplicht;2004;7.0;4.0;;2.0
+1182;3;Reden scholing: verplicht;2005;6.0;3.0;2.0;
+1183;3;Reden scholing: verplicht;2006;5.0;2.0;;2.0
+1184;3;Reden scholing: verplicht;2007;3.0;;;
+1185;3;Reden scholing: verplicht;2008;4.0;2.0;;2.0
+1186;3;Reden scholing: verplicht;2009;7.0;4.0;;3.0
+1187;3;Reden scholing: verplicht;2010;4.0;2.0;;
+1188;3;Reden scholing: verplicht;2011;7.0;5.0;;
+1189;3;Reden scholing: verplicht;2012;;;;
+1190;3;Reden scholing: promotie;2003;5.0;5.0;;
+1191;3;Reden scholing: promotie;2004;3.0;3.0;;
+1192;3;Reden scholing: promotie;2005;2.0;;;
+1193;3;Reden scholing: promotie;2006;;;;
+1194;3;Reden scholing: promotie;2007;2.0;2.0;;
+1195;3;Reden scholing: promotie;2008;5.0;5.0;;
+1196;3;Reden scholing: promotie;2009;4.0;4.0;;
+1197;3;Reden scholing: promotie;2010;4.0;4.0;;
+1198;3;Reden scholing: promotie;2011;4.0;4.0;;
+1199;3;Reden scholing: promotie;2012;;;;
+1200;3;Reden scholing: ander werk;2003;14.0;13.0;;
+1201;3;Reden scholing: ander werk;2004;12.0;9.0;;2.0
+1202;3;Reden scholing: ander werk;2005;9.0;7.0;;
+1203;3;Reden scholing: ander werk;2006;5.0;5.0;;
+1204;3;Reden scholing: ander werk;2007;11.0;9.0;;2.0
+1205;3;Reden scholing: ander werk;2008;12.0;11.0;;
+1206;3;Reden scholing: ander werk;2009;19.0;15.0;;3.0
+1207;3;Reden scholing: ander werk;2010;11.0;9.0;;
+1208;3;Reden scholing: ander werk;2011;19.0;17.0;;
+1209;3;Reden scholing: ander werk;2012;;;;
+1210;3;Reden scholing: kans werk;2003;26.0;;11.0;15.0
+1211;3;Reden scholing: kans werk;2004;22.0;;13.0;9.0
+1212;3;Reden scholing: kans werk;2005;22.0;;16.0;6.0
+1213;3;Reden scholing: kans werk;2006;19.0;;7.0;12.0
+1214;3;Reden scholing: kans werk;2007;16.0;;8.0;8.0
+1215;3;Reden scholing: kans werk;2008;11.0;;5.0;7.0
+1216;3;Reden scholing: kans werk;2009;15.0;;11.0;4.0
+1217;3;Reden scholing: kans werk;2010;14.0;;9.0;6.0
+1218;3;Reden scholing: kans werk;2011;21.0;;13.0;8.0
+1219;3;Reden scholing: kans werk;2012;;;;
+1220;3;Reden scholing: onbekend/nvt;2003;412.0;149.0;122.0;142.0
+1221;3;Reden scholing: onbekend/nvt;2004;426.0;134.0;140.0;152.0
+1222;3;Reden scholing: onbekend/nvt;2005;359.0;99.0;130.0;130.0
+1223;3;Reden scholing: onbekend/nvt;2006;304.0;77.0;103.0;125.0
+1224;3;Reden scholing: onbekend/nvt;2007;261.0;75.0;75.0;111.0
+1225;3;Reden scholing: onbekend/nvt;2008;333.0;141.0;80.0;111.0
+1226;3;Reden scholing: onbekend/nvt;2009;366.0;160.0;82.0;124.0
+1227;3;Reden scholing: onbekend/nvt;2010;374.0;144.0;101.0;129.0
+1228;3;Reden scholing: onbekend/nvt;2011;438.0;173.0;114.0;152.0
+1229;3;Reden scholing: onbekend/nvt;2012;;;;
+1230;4;3;2003;3486.0;304.0;126.0;3056.0
+1231;4;3;2004;3470.0;321.0;136.0;3013.0
+1232;4;3;2005;3433.0;299.0;149.0;2985.0
+1233;4;3;2006;3299.0;273.0;125.0;2900.0
+1234;4;3;2007;3167.0;301.0;111.0;2755.0
+1235;4;3;2008;3150.0;355.0;97.0;2699.0
+1236;4;3;2009;3196.0;368.0;124.0;2704.0
+1237;4;3;2010;3206.0;366.0;128.0;2712.0
+1238;4;3;2011;3100.0;333.0;127.0;2640.0
+1239;4;3;2012;3054.0;345.0;146.0;2563.0
+1240;4;1;2003;1162.0;140.0;49.0;973.0
+1241;4;1;2004;1185.0;158.0;56.0;972.0
+1242;4;1;2005;1205.0;149.0;52.0;1004.0
+1243;4;1;2006;1152.0;120.0;49.0;983.0
+1244;4;1;2007;1105.0;130.0;49.0;926.0
+1245;4;1;2008;1121.0;170.0;42.0;910.0
+1246;4;1;2009;1176.0;187.0;50.0;938.0
+1247;4;1;2010;1197.0;156.0;58.0;983.0
+1248;4;1;2011;1145.0;152.0;51.0;942.0
+1249;4;1;2012;1159.0;143.0;58.0;958.0
+1250;4;2;2003;2324.0;163.0;77.0;2083.0
+1251;4;2;2004;2285.0;163.0;81.0;2042.0
+1252;4;2;2005;2227.0;150.0;97.0;1981.0
+1253;4;2;2006;2147.0;153.0;76.0;1917.0
+1254;4;2;2007;2063.0;171.0;62.0;1829.0
+1255;4;2;2008;2029.0;185.0;55.0;1789.0
+1256;4;2;2009;2021.0;181.0;74.0;1766.0
+1257;4;2;2010;2009.0;209.0;70.0;1730.0
+1258;4;2;2011;1955.0;181.0;76.0;1699.0
+1259;4;2;2012;1894.0;201.0;88.0;1605.0
+1260;4;4;2003;902.0;94.0;30.0;779.0
+1261;4;4;2004;932.0;90.0;39.0;802.0
+1262;4;4;2005;955.0;83.0;37.0;835.0
+1263;4;4;2006;935.0;88.0;30.0;817.0
+1264;4;4;2007;909.0;108.0;26.0;775.0
+1265;4;4;2008;946.0;126.0;24.0;796.0
+1266;4;4;2009;1015.0;121.0;43.0;851.0
+1267;4;4;2010;1044.0;120.0;42.0;882.0
+1268;4;4;2011;1015.0;106.0;42.0;866.0
+1269;4;4;2012;1049.0;117.0;46.0;886.0
+1270;4;5;2003;777.0;75.0;58.0;644.0
+1271;4;5;2004;761.0;86.0;52.0;623.0
+1272;4;5;2005;710.0;79.0;63.0;568.0
+1273;4;5;2006;649.0;72.0;49.0;528.0
+1274;4;5;2007;601.0;77.0;37.0;487.0
+1275;4;5;2008;564.0;96.0;29.0;439.0
+1276;4;5;2009;555.0;91.0;34.0;430.0
+1277;4;5;2010;549.0;89.0;39.0;422.0
+1278;4;5;2011;542.0;83.0;40.0;419.0
+1279;4;5;2012;526.0;84.0;41.0;401.0
+1280;4;6;2003;1807.0;135.0;39.0;1634.0
+1281;4;6;2004;1778.0;144.0;45.0;1588.0
+1282;4;6;2005;1768.0;137.0;49.0;1582.0
+1283;4;6;2006;1715.0;113.0;47.0;1555.0
+1284;4;6;2007;1657.0;116.0;48.0;1493.0
+1285;4;6;2008;1640.0;133.0;44.0;1463.0
+1286;4;6;2009;1626.0;156.0;48.0;1423.0
+1287;4;6;2010;1614.0;157.0;48.0;1409.0
+1288;4;6;2011;1544.0;143.0;46.0;1355.0
+1289;4;6;2012;1477.0;143.0;59.0;1275.0
+1290;4;7;2003;2737.0;241.0;77.0;2419.0
+1291;4;7;2004;2726.0;255.0;88.0;2383.0
+1292;4;7;2005;2685.0;238.0;99.0;2348.0
+1293;4;7;2006;2552.0;214.0;77.0;2260.0
+1294;4;7;2007;2452.0;235.0;74.0;2144.0
+1295;4;7;2008;2443.0;266.0;62.0;2115.0
+1296;4;7;2009;2422.0;272.0;82.0;2068.0
+1297;4;7;2010;2452.0;294.0;79.0;2079.0
+1298;4;7;2011;2373.0;259.0;76.0;2037.0
+1299;4;7;2012;2299.0;268.0;90.0;1941.0
+1300;4;8;2003;331.0;34.0;14.0;283.0
+1301;4;8;2004;327.0;28.0;17.0;282.0
+1302;4;8;2005;326.0;34.0;15.0;277.0
+1303;4;8;2006;308.0;28.0;13.0;267.0
+1304;4;8;2007;306.0;31.0;12.0;263.0
+1305;4;8;2008;291.0;35.0;10.0;247.0
+1306;4;8;2009;322.0;37.0;14.0;271.0
+1307;4;8;2010;319.0;32.0;17.0;270.0
+1308;4;8;2011;307.0;33.0;17.0;257.0
+1309;4;8;2012;301.0;36.0;25.0;240.0
+1310;4;9;2003;418.0;29.0;35.0;354.0
+1311;4;9;2004;418.0;37.0;32.0;349.0
+1312;4;9;2005;422.0;27.0;35.0;360.0
+1313;4;9;2006;439.0;31.0;35.0;373.0
+1314;4;9;2007;408.0;35.0;25.0;348.0
+1315;4;9;2008;416.0;54.0;25.0;337.0
+1316;4;9;2009;451.0;59.0;28.0;364.0
+1317;4;9;2010;436.0;40.0;32.0;364.0
+1318;4;9;2011;421.0;40.0;34.0;346.0
+1319;4;9;2012;451.0;40.0;30.0;381.0
+1320;4;Opleidingsniveau: Lager onderwijs;2003;1868.0;122.0;60.0;1686.0
+1321;4;Opleidingsniveau: Lager onderwijs;2004;1781.0;115.0;61.0;1605.0
+1322;4;Opleidingsniveau: Lager onderwijs;2005;1757.0;105.0;59.0;1594.0
+1323;4;Opleidingsniveau: Lager onderwijs;2006;1705.0;95.0;53.0;1558.0
+1324;4;Opleidingsniveau: Lager onderwijs;2007;1601.0;113.0;42.0;1447.0
+1325;4;Opleidingsniveau: Lager onderwijs;2008;1628.0;143.0;39.0;1446.0
+1326;4;Opleidingsniveau: Lager onderwijs;2009;1635.0;134.0;47.0;1455.0
+1327;4;Opleidingsniveau: Lager onderwijs;2010;1630.0;127.0;55.0;1448.0
+1328;4;Opleidingsniveau: Lager onderwijs;2011;1575.0;112.0;60.0;1404.0
+1329;4;Opleidingsniveau: Lager onderwijs;2012;1524.0;108.0;61.0;1355.0
+1330;4;Opleidingsniveau: Middelbaar onderwijs;2003;1219.0;125.0;48.0;1046.0
+1331;4;Opleidingsniveau: Middelbaar onderwijs;2004;1212.0;146.0;53.0;1013.0
+1332;4;Opleidingsniveau: Middelbaar onderwijs;2005;1212.0;125.0;65.0;1022.0
+1333;4;Opleidingsniveau: Middelbaar onderwijs;2006;1166.0;123.0;53.0;990.0
+1334;4;Opleidingsniveau: Middelbaar onderwijs;2007;1139.0;130.0;49.0;960.0
+1335;4;Opleidingsniveau: Middelbaar onderwijs;2008;1099.0;148.0;36.0;915.0
+1336;4;Opleidingsniveau: Middelbaar onderwijs;2009;1128.0;161.0;58.0;908.0
+1337;4;Opleidingsniveau: Middelbaar onderwijs;2010;1116.0;159.0;50.0;908.0
+1338;4;Opleidingsniveau: Middelbaar onderwijs;2011;1093.0;144.0;49.0;900.0
+1339;4;Opleidingsniveau: Middelbaar onderwijs;2012;1107.0;158.0;59.0;890.0
+1340;4;Opleidingsniveau: Hoger onderwijs;2003;392.0;55.0;17.0;321.0
+1341;4;Opleidingsniveau: Hoger onderwijs;2004;448.0;59.0;19.0;369.0
+1342;4;Opleidingsniveau: Hoger onderwijs;2005;441.0;68.0;25.0;349.0
+1343;4;Opleidingsniveau: Hoger onderwijs;2006;410.0;53.0;19.0;338.0
+1344;4;Opleidingsniveau: Hoger onderwijs;2007;409.0;56.0;19.0;334.0
+1345;4;Opleidingsniveau: Hoger onderwijs;2008;420.0;64.0;22.0;334.0
+1346;4;Opleidingsniveau: Hoger onderwijs;2009;429.0;73.0;19.0;337.0
+1347;4;Opleidingsniveau: Hoger onderwijs;2010;445.0;78.0;22.0;345.0
+1348;4;Opleidingsniveau: Hoger onderwijs;2011;421.0;75.0;18.0;328.0
+1349;4;Opleidingsniveau: Hoger onderwijs;2012;394.0;76.0;25.0;293.0
+1350;4;Opleidingsniveau:onbekend;2003;6.0;3.0;;4.0
+1351;4;Opleidingsniveau:onbekend;2004;30.0;;2.0;26.0
+1352;4;Opleidingsniveau:onbekend;2005;22.0;2.0;;20.0
+1353;4;Opleidingsniveau:onbekend;2006;18.0;3.0;;14.0
+1354;4;Opleidingsniveau:onbekend;2007;17.0;3.0;;13.0
+1355;4;Opleidingsniveau:onbekend;2008;3.0;;;3.0
+1356;4;Opleidingsniveau:onbekend;2009;5.0;;;5.0
+1357;4;Opleidingsniveau:onbekend;2010;15.0;2.0;;11.0
+1358;4;Opleidingsniveau:onbekend;2011;10.0;2.0;;8.0
+1359;4;Opleidingsniveau:onbekend;2012;27.0;3.0;;24.0
+1360;4;Werkkring: werkn. vaste arbeidsrelatie;2003;171.0;171.0;;
+1361;4;Werkkring: werkn. vaste arbeidsrelatie;2004;182.0;182.0;;
+1362;4;Werkkring: werkn. vaste arbeidsrelatie;2005;163.0;163.0;;
+1363;4;Werkkring: werkn. vaste arbeidsrelatie;2006;140.0;140.0;;
+1364;4;Werkkring: werkn. vaste arbeidsrelatie;2007;147.0;147.0;;
+1365;4;Werkkring: werkn. vaste arbeidsrelatie;2008;160.0;160.0;;
+1366;4;Werkkring: werkn. vaste arbeidsrelatie;2009;165.0;165.0;;
+1367;4;Werkkring: werkn. vaste arbeidsrelatie;2010;173.0;173.0;;
+1368;4;Werkkring: werkn. vaste arbeidsrelatie;2011;149.0;149.0;;
+1369;4;Werkkring: werkn. vaste arbeidsrelatie;2012;132.0;132.0;;
+1370;4;Werkkring: werkn. flexibele arbeidsrel.;2003;99.0;99.0;;
+1371;4;Werkkring: werkn. flexibele arbeidsrel.;2004;105.0;105.0;;
+1372;4;Werkkring: werkn. flexibele arbeidsrel.;2005;104.0;104.0;;
+1373;4;Werkkring: werkn. flexibele arbeidsrel.;2006;104.0;104.0;;
+1374;4;Werkkring: werkn. flexibele arbeidsrel.;2007;122.0;122.0;;
+1375;4;Werkkring: werkn. flexibele arbeidsrel.;2008;159.0;159.0;;
+1376;4;Werkkring: werkn. flexibele arbeidsrel.;2009;163.0;163.0;;
+1377;4;Werkkring: werkn. flexibele arbeidsrel.;2010;158.0;158.0;;
+1378;4;Werkkring: werkn. flexibele arbeidsrel.;2011;148.0;148.0;;
+1379;4;Werkkring: werkn. flexibele arbeidsrel.;2012;166.0;166.0;;
+1380;4;Werkkring: zelfstandige;2003;34.0;34.0;;
+1381;4;Werkkring: zelfstandige;2004;34.0;34.0;;
+1382;4;Werkkring: zelfstandige;2005;33.0;33.0;;
+1383;4;Werkkring: zelfstandige;2006;29.0;29.0;;
+1384;4;Werkkring: zelfstandige;2007;32.0;32.0;;
+1385;4;Werkkring: zelfstandige;2008;36.0;36.0;;
+1386;4;Werkkring: zelfstandige;2009;40.0;40.0;;
+1387;4;Werkkring: zelfstandige;2010;35.0;35.0;;
+1388;4;Werkkring: zelfstandige;2011;36.0;36.0;;
+1389;4;Werkkring: zelfstandige;2012;47.0;47.0;;
+1390;4;Werkkring: zelfst. zonder pers.;2003;25.0;25.0;;
+1391;4;Werkkring: zelfst. zonder pers.;2004;23.0;23.0;;
+1392;4;Werkkring: zelfst. zonder pers.;2005;25.0;25.0;;
+1393;4;Werkkring: zelfst. zonder pers.;2006;24.0;24.0;;
+1394;4;Werkkring: zelfst. zonder pers.;2007;24.0;24.0;;
+1395;4;Werkkring: zelfst. zonder pers.;2008;27.0;27.0;;
+1396;4;Werkkring: zelfst. zonder pers.;2009;35.0;35.0;;
+1397;4;Werkkring: zelfst. zonder pers.;2010;29.0;29.0;;
+1398;4;Werkkring: zelfst. zonder pers.;2011;30.0;30.0;;
+1399;4;Werkkring: zelfst. zonder pers.;2012;39.0;39.0;;
+1400;4;Arbeidsduur: 12 tot 32 uur per week;2003;158.0;158.0;;
+1401;4;Arbeidsduur: 12 tot 32 uur per week;2004;162.0;162.0;;
+1402;4;Arbeidsduur: 12 tot 32 uur per week;2005;160.0;160.0;;
+1403;4;Arbeidsduur: 12 tot 32 uur per week;2006;148.0;148.0;;
+1404;4;Arbeidsduur: 12 tot 32 uur per week;2007;166.0;166.0;;
+1405;4;Arbeidsduur: 12 tot 32 uur per week;2008;181.0;181.0;;
+1406;4;Arbeidsduur: 12 tot 32 uur per week;2009;199.0;199.0;;
+1407;4;Arbeidsduur: 12 tot 32 uur per week;2010;196.0;196.0;;
+1408;4;Arbeidsduur: 12 tot 32 uur per week;2011;183.0;183.0;;
+1409;4;Arbeidsduur: 12 tot 32 uur per week;2012;180.0;180.0;;
+1410;4;Arbeidsduur: 32 uur per week of meer;2003;129.0;129.0;;
+1411;4;Arbeidsduur: 32 uur per week of meer;2004;145.0;145.0;;
+1412;4;Arbeidsduur: 32 uur per week of meer;2005;126.0;126.0;;
+1413;4;Arbeidsduur: 32 uur per week of meer;2006;106.0;106.0;;
+1414;4;Arbeidsduur: 32 uur per week of meer;2007;115.0;115.0;;
+1415;4;Arbeidsduur: 32 uur per week of meer;2008;150.0;150.0;;
+1416;4;Arbeidsduur: 32 uur per week of meer;2009;145.0;145.0;;
+1417;4;Arbeidsduur: 32 uur per week of meer;2010;130.0;130.0;;
+1418;4;Arbeidsduur: 32 uur per week of meer;2011;113.0;113.0;;
+1419;4;Arbeidsduur: 32 uur per week of meer;2012;123.0;123.0;;
+1420;4;Anciënniteit: 0 tot 6 maanden;2003;49.0;49.0;;
+1421;4;Anciënniteit: 0 tot 6 maanden;2004;56.0;56.0;;
+1422;4;Anciënniteit: 0 tot 6 maanden;2005;57.0;57.0;;
+1423;4;Anciënniteit: 0 tot 6 maanden;2006;49.0;49.0;;
+1424;4;Anciënniteit: 0 tot 6 maanden;2007;65.0;65.0;;
+1425;4;Anciënniteit: 0 tot 6 maanden;2008;85.0;85.0;;
+1426;4;Anciënniteit: 0 tot 6 maanden;2009;69.0;69.0;;
+1427;4;Anciënniteit: 0 tot 6 maanden;2010;72.0;72.0;;
+1428;4;Anciënniteit: 0 tot 6 maanden;2011;56.0;56.0;;
+1429;4;Anciënniteit: 0 tot 6 maanden;2012;74.0;74.0;;
+1430;4;Anciënniteit: 6 tot 12 maanden;2003;30.0;30.0;;
+1431;4;Anciënniteit: 6 tot 12 maanden;2004;23.0;23.0;;
+1432;4;Anciënniteit: 6 tot 12 maanden;2005;21.0;21.0;;
+1433;4;Anciënniteit: 6 tot 12 maanden;2006;20.0;20.0;;
+1434;4;Anciënniteit: 6 tot 12 maanden;2007;28.0;28.0;;
+1435;4;Anciënniteit: 6 tot 12 maanden;2008;34.0;34.0;;
+1436;4;Anciënniteit: 6 tot 12 maanden;2009;36.0;36.0;;
+1437;4;Anciënniteit: 6 tot 12 maanden;2010;36.0;36.0;;
+1438;4;Anciënniteit: 6 tot 12 maanden;2011;27.0;27.0;;
+1439;4;Anciënniteit: 6 tot 12 maanden;2012;32.0;32.0;;
+1440;4;Anciënniteit: 12 tot 24 maanden;2003;32.0;32.0;;
+1441;4;Anciënniteit: 12 tot 24 maanden;2004;32.0;32.0;;
+1442;4;Anciënniteit: 12 tot 24 maanden;2005;24.0;24.0;;
+1443;4;Anciënniteit: 12 tot 24 maanden;2006;26.0;26.0;;
+1444;4;Anciënniteit: 12 tot 24 maanden;2007;32.0;32.0;;
+1445;4;Anciënniteit: 12 tot 24 maanden;2008;48.0;48.0;;
+1446;4;Anciënniteit: 12 tot 24 maanden;2009;47.0;47.0;;
+1447;4;Anciënniteit: 12 tot 24 maanden;2010;45.0;45.0;;
+1448;4;Anciënniteit: 12 tot 24 maanden;2011;49.0;49.0;;
+1449;4;Anciënniteit: 12 tot 24 maanden;2012;34.0;34.0;;
+1450;4;Anciënniteit: 24 maanden of meer;2003;192.0;192.0;;
+1451;4;Anciënniteit: 24 maanden of meer;2004;209.0;209.0;;
+1452;4;Anciënniteit: 24 maanden of meer;2005;198.0;198.0;;
+1453;4;Anciënniteit: 24 maanden of meer;2006;178.0;178.0;;
+1454;4;Anciënniteit: 24 maanden of meer;2007;176.0;176.0;;
+1455;4;Anciënniteit: 24 maanden of meer;2008;188.0;188.0;;
+1456;4;Anciënniteit: 24 maanden of meer;2009;217.0;217.0;;
+1457;4;Anciënniteit: 24 maanden of meer;2010;213.0;213.0;;
+1458;4;Anciënniteit: 24 maanden of meer;2011;198.0;198.0;;
+1459;4;Anciënniteit: 24 maanden of meer;2012;204.0;204.0;;
+1460;4;Anciënniteit: onbekend;2003;;;;
+1461;4;Anciënniteit: onbekend;2004;;;;
+1462;4;Anciënniteit: onbekend;2005;;;;
+1463;4;Anciënniteit: onbekend;2006;;;;
+1464;4;Anciënniteit: onbekend;2007;;;;
+1465;4;Anciënniteit: onbekend;2008;;;;
+1466;4;Anciënniteit: onbekend;2009;;;;
+1467;4;Anciënniteit: onbekend;2010;;;;
+1468;4;Anciënniteit: onbekend;2011;;;;
+1469;4;Anciënniteit: onbekend;2012;;;;
+1470;4;Type scholing: geen scholing;2003;2399.0;203.0;92.0;2103.0
+1471;4;Type scholing: geen scholing;2004;2360.0;226.0;95.0;2039.0
+1472;4;Type scholing: geen scholing;2005;2337.0;206.0;105.0;2027.0
+1473;4;Type scholing: geen scholing;2006;2224.0;178.0;87.0;1959.0
+1474;4;Type scholing: geen scholing;2007;2074.0;184.0;82.0;1808.0
+1475;4;Type scholing: geen scholing;2008;2043.0;217.0;68.0;1759.0
+1476;4;Type scholing: geen scholing;2009;2024.0;231.0;77.0;1716.0
+1477;4;Type scholing: geen scholing;2010;2005.0;233.0;80.0;1693.0
+1478;4;Type scholing: geen scholing;2011;1989.0;225.0;85.0;1679.0
+1479;4;Type scholing: geen scholing;2012;;;;
+1480;4;Type scholing: initieel;2003;14.0;;;11.0
+1481;4;Type scholing: initieel;2004;8.0;;;6.0
+1482;4;Type scholing: initieel;2005;11.0;3.0;;7.0
+1483;4;Type scholing: initieel;2006;4.0;;;2.0
+1484;4;Type scholing: initieel;2007;5.0;;;3.0
+1485;4;Type scholing: initieel;2008;5.0;;;2.0
+1486;4;Type scholing: initieel;2009;8.0;3.0;;4.0
+1487;4;Type scholing: initieel;2010;28.0;9.0;4.0;15.0
+1488;4;Type scholing: initieel;2011;;;;
+1489;4;Type scholing: initieel;2012;;;;
+1490;4;Type scholing: post-initieel (kort);2003;65.0;11.0;5.0;48.0
+1491;4;Type scholing: post-initieel (kort);2004;64.0;9.0;5.0;50.0
+1492;4;Type scholing: post-initieel (kort);2005;53.0;9.0;5.0;40.0
+1493;4;Type scholing: post-initieel (kort);2006;50.0;6.0;5.0;40.0
+1494;4;Type scholing: post-initieel (kort);2007;59.0;7.0;4.0;48.0
+1495;4;Type scholing: post-initieel (kort);2008;58.0;11.0;3.0;44.0
+1496;4;Type scholing: post-initieel (kort);2009;41.0;9.0;5.0;27.0
+1497;4;Type scholing: post-initieel (kort);2010;64.0;14.0;5.0;45.0
+1498;4;Type scholing: post-initieel (kort);2011;54.0;16.0;3.0;34.0
+1499;4;Type scholing: post-initieel (kort);2012;;;;
+1500;4;Type scholing: post-initieel (lang);2003;164.0;19.0;7.0;139.0
+1501;4;Type scholing: post-initieel (lang);2004;139.0;15.0;9.0;114.0
+1502;4;Type scholing: post-initieel (lang);2005;130.0;13.0;10.0;107.0
+1503;4;Type scholing: post-initieel (lang);2006;125.0;14.0;9.0;102.0
+1504;4;Type scholing: post-initieel (lang);2007;125.0;14.0;5.0;106.0
+1505;4;Type scholing: post-initieel (lang);2008;118.0;18.0;4.0;96.0
+1506;4;Type scholing: post-initieel (lang);2009;121.0;20.0;6.0;95.0
+1507;4;Type scholing: post-initieel (lang);2010;126.0;15.0;9.0;101.0
+1508;4;Type scholing: post-initieel (lang);2011;98.0;11.0;8.0;80.0
+1509;4;Type scholing: post-initieel (lang);2012;;;;
+1510;4;Type scholing: onbekend;2003;845.0;69.0;21.0;755.0
+1511;4;Type scholing: onbekend;2004;900.0;70.0;26.0;803.0
+1512;4;Type scholing: onbekend;2005;901.0;69.0;29.0;803.0
+1513;4;Type scholing: onbekend;2006;896.0;74.0;24.0;797.0
+1514;4;Type scholing: onbekend;2007;905.0;94.0;20.0;791.0
+1515;4;Type scholing: onbekend;2008;927.0;108.0;21.0;798.0
+1516;4;Type scholing: onbekend;2009;1002.0;105.0;34.0;863.0
+1517;4;Type scholing: onbekend;2010;983.0;95.0;30.0;858.0
+1518;4;Type scholing: onbekend;2011;958.0;80.0;32.0;846.0
+1519;4;Type scholing: onbekend;2012;;;;
+1520;4;Korte opleiding betaald door werkgever;2003;29.0;8.0;2.0;18.0
+1521;4;Korte opleiding betaald door werkgever;2004;26.0;6.0;3.0;17.0
+1522;4;Korte opleiding betaald door werkgever;2005;25.0;6.0;2.0;17.0
+1523;4;Korte opleiding betaald door werkgever;2006;24.0;4.0;3.0;17.0
+1524;4;Korte opleiding betaald door werkgever;2007;30.0;5.0;3.0;22.0
+1525;4;Korte opleiding betaald door werkgever;2008;29.0;9.0;2.0;18.0
+1526;4;Korte opleiding betaald door werkgever;2009;22.0;6.0;4.0;13.0
+1527;4;Korte opleiding betaald door werkgever;2010;36.0;9.0;4.0;23.0
+1528;4;Korte opleiding betaald door werkgever;2011;34.0;14.0;2.0;18.0
+1529;4;Korte opleiding betaald door werkgever;2012;;;;
+1530;4;Korte zelf betaalde opleiding;2003;36.0;4.0;3.0;30.0
+1531;4;Korte zelf betaalde opleiding;2004;39.0;3.0;2.0;34.0
+1532;4;Korte zelf betaalde opleiding;2005;28.0;3.0;2.0;23.0
+1533;4;Korte zelf betaalde opleiding;2006;25.0;2.0;;22.0
+1534;4;Korte zelf betaalde opleiding;2007;29.0;2.0;;26.0
+1535;4;Korte zelf betaalde opleiding;2008;28.0;2.0;;25.0
+1536;4;Korte zelf betaalde opleiding;2009;19.0;3.0;;14.0
+1537;4;Korte zelf betaalde opleiding;2010;28.0;4.0;;22.0
+1538;4;Korte zelf betaalde opleiding;2011;20.0;3.0;;16.0
+1539;4;Korte zelf betaalde opleiding;2012;;;;
+1540;4;Lange opleiding betaald door werkgever;2003;56.0;6.0;3.0;47.0
+1541;4;Lange opleiding betaald door werkgever;2004;45.0;4.0;5.0;37.0
+1542;4;Lange opleiding betaald door werkgever;2005;31.0;4.0;2.0;25.0
+1543;4;Lange opleiding betaald door werkgever;2006;42.0;3.0;3.0;36.0
+1544;4;Lange opleiding betaald door werkgever;2007;40.0;5.0;3.0;32.0
+1545;4;Lange opleiding betaald door werkgever;2008;37.0;4.0;;31.0
+1546;4;Lange opleiding betaald door werkgever;2009;45.0;5.0;3.0;36.0
+1547;4;Lange opleiding betaald door werkgever;2010;44.0;6.0;3.0;35.0
+1548;4;Lange opleiding betaald door werkgever;2011;28.0;4.0;3.0;20.0
+1549;4;Lange opleiding betaald door werkgever;2012;;;;
+1550;4;Lange zelf betaalde opleiding;2003;87.0;11.0;3.0;74.0
+1551;4;Lange zelf betaalde opleiding;2004;69.0;9.0;3.0;57.0
+1552;4;Lange zelf betaalde opleiding;2005;75.0;6.0;5.0;63.0
+1553;4;Lange zelf betaalde opleiding;2006;59.0;8.0;5.0;45.0
+1554;4;Lange zelf betaalde opleiding;2007;68.0;7.0;2.0;60.0
+1555;4;Lange zelf betaalde opleiding;2008;66.0;11.0;2.0;52.0
+1556;4;Lange zelf betaalde opleiding;2009;59.0;12.0;3.0;44.0
+1557;4;Lange zelf betaalde opleiding;2010;51.0;5.0;4.0;41.0
+1558;4;Lange zelf betaalde opleiding;2011;49.0;4.0;3.0;41.0
+1559;4;Lange zelf betaalde opleiding;2012;;;;
+1560;4;Kosten: onbekend/nvt;2003;3278.0;276.0;114.0;2888.0
+1561;4;Kosten: onbekend/nvt;2004;3291.0;298.0;123.0;2870.0
+1562;4;Kosten: onbekend/nvt;2005;3274.0;280.0;137.0;2858.0
+1563;4;Kosten: onbekend/nvt;2006;3148.0;256.0;112.0;2779.0
+1564;4;Kosten: onbekend/nvt;2007;3000.0;282.0;103.0;2615.0
+1565;4;Kosten: onbekend/nvt;2008;2990.0;329.0;90.0;2571.0
+1566;4;Kosten: onbekend/nvt;2009;3052.0;342.0;114.0;2597.0
+1567;4;Kosten: onbekend/nvt;2010;3048.0;341.0;116.0;2591.0
+1568;4;Kosten: onbekend/nvt;2011;2970.0;308.0;118.0;2544.0
+1569;4;Kosten: onbekend/nvt;2012;;;;
+1570;4;Reden scholing: niet werkgerelateerd;2003;57.0;4.0;2.0;51.0
+1571;4;Reden scholing: niet werkgerelateerd;2004;47.0;6.0;;40.0
+1572;4;Reden scholing: niet werkgerelateerd;2005;43.0;3.0;;39.0
+1573;4;Reden scholing: niet werkgerelateerd;2006;35.0;2.0;;32.0
+1574;4;Reden scholing: niet werkgerelateerd;2007;53.0;4.0;2.0;48.0
+1575;4;Reden scholing: niet werkgerelateerd;2008;46.0;5.0;;40.0
+1576;4;Reden scholing: niet werkgerelateerd;2009;42.0;9.0;;33.0
+1577;4;Reden scholing: niet werkgerelateerd;2010;31.0;3.0;;26.0
+1578;4;Reden scholing: niet werkgerelateerd;2011;29.0;3.0;2.0;24.0
+1579;4;Reden scholing: niet werkgerelateerd;2012;;;;
+1580;4;Reden scholing: bijblijven;2003;65.0;9.0;2.0;54.0
+1581;4;Reden scholing: bijblijven;2004;58.0;4.0;;53.0
+1582;4;Reden scholing: bijblijven;2005;49.0;5.0;;42.0
+1583;4;Reden scholing: bijblijven;2006;43.0;6.0;2.0;35.0
+1584;4;Reden scholing: bijblijven;2007;55.0;5.0;;49.0
+1585;4;Reden scholing: bijblijven;2008;42.0;6.0;;35.0
+1586;4;Reden scholing: bijblijven;2009;36.0;6.0;2.0;28.0
+1587;4;Reden scholing: bijblijven;2010;53.0;9.0;2.0;42.0
+1588;4;Reden scholing: bijblijven;2011;43.0;11.0;3.0;29.0
+1589;4;Reden scholing: bijblijven;2012;;;;
+1590;4;Reden scholing: verplicht;2003;19.0;4.0;;14.0
+1591;4;Reden scholing: verplicht;2004;20.0;4.0;2.0;15.0
+1592;4;Reden scholing: verplicht;2005;13.0;5.0;;8.0
+1593;4;Reden scholing: verplicht;2006;20.0;3.0;;16.0
+1594;4;Reden scholing: verplicht;2007;17.0;4.0;;11.0
+1595;4;Reden scholing: verplicht;2008;19.0;6.0;;12.0
+1596;4;Reden scholing: verplicht;2009;22.0;5.0;2.0;15.0
+1597;4;Reden scholing: verplicht;2010;26.0;7.0;;18.0
+1598;4;Reden scholing: verplicht;2011;17.0;5.0;;11.0
+1599;4;Reden scholing: verplicht;2012;;;;
+1600;4;Reden scholing: promotie;2003;3.0;2.0;;
+1601;4;Reden scholing: promotie;2004;2.0;;;
+1602;4;Reden scholing: promotie;2005;2.0;2.0;;
+1603;4;Reden scholing: promotie;2006;;;;
+1604;4;Reden scholing: promotie;2007;3.0;2.0;;
+1605;4;Reden scholing: promotie;2008;2.0;2.0;;
+1606;4;Reden scholing: promotie;2009;2.0;2.0;;
+1607;4;Reden scholing: promotie;2010;;;;
+1608;4;Reden scholing: promotie;2011;2.0;;;
+1609;4;Reden scholing: promotie;2012;;;;
+1610;4;Reden scholing: ander werk;2003;20.0;12.0;;7.0
+1611;4;Reden scholing: ander werk;2004;16.0;10.0;;5.0
+1612;4;Reden scholing: ander werk;2005;15.0;7.0;;7.0
+1613;4;Reden scholing: ander werk;2006;14.0;8.0;;5.0
+1614;4;Reden scholing: ander werk;2007;15.0;9.0;;5.0
+1615;4;Reden scholing: ander werk;2008;18.0;12.0;;6.0
+1616;4;Reden scholing: ander werk;2009;18.0;12.0;2.0;5.0
+1617;4;Reden scholing: ander werk;2010;15.0;9.0;;5.0
+1618;4;Reden scholing: ander werk;2011;16.0;8.0;;7.0
+1619;4;Reden scholing: ander werk;2012;;;;
+1620;4;Reden scholing: kans werk;2003;52.0;;6.0;46.0
+1621;4;Reden scholing: kans werk;2004;47.0;;8.0;39.0
+1622;4;Reden scholing: kans werk;2005;41.0;;8.0;33.0
+1623;4;Reden scholing: kans werk;2006;44.0;;7.0;36.0
+1624;4;Reden scholing: kans werk;2007;37.0;;4.0;33.0
+1625;4;Reden scholing: kans werk;2008;44.0;;5.0;39.0
+1626;4;Reden scholing: kans werk;2009;36.0;;5.0;31.0
+1627;4;Reden scholing: kans werk;2010;44.0;;9.0;36.0
+1628;4;Reden scholing: kans werk;2011;30.0;;4.0;27.0
+1629;4;Reden scholing: kans werk;2012;;;;
+1630;4;Reden scholing: onbekend/nvt;2003;3270.0;271.0;115.0;2884.0
+1631;4;Reden scholing: onbekend/nvt;2004;3281.0;296.0;124.0;2862.0
+1632;4;Reden scholing: onbekend/nvt;2005;3269.0;277.0;137.0;2855.0
+1633;4;Reden scholing: onbekend/nvt;2006;3142.0;254.0;112.0;2776.0
+1634;4;Reden scholing: onbekend/nvt;2007;2987.0;277.0;102.0;2608.0
+1635;4;Reden scholing: onbekend/nvt;2008;2979.0;324.0;89.0;2566.0
+1636;4;Reden scholing: onbekend/nvt;2009;3039.0;334.0;113.0;2592.0
+1637;4;Reden scholing: onbekend/nvt;2010;3035.0;336.0;114.0;2585.0
+1638;4;Reden scholing: onbekend/nvt;2011;2963.0;305.0;117.0;2542.0
+1639;4;Reden scholing: onbekend/nvt;2012;;;;

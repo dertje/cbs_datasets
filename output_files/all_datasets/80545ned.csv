@@ -1,0 +1,601 @@
+﻿ID;Bestedingscategorie;VoornaamsteInkomensbronHuishoudens;Perioden;ConsumentenprijsindexCPI_1;Jaarmutatie_2;Wegingscoefficient_3
+0;0;Alle huishoudens;2007;101.61;1.6;100000
+1;0;Alle huishoudens;2008;104.14;2.5;100000
+2;0;Alle huishoudens;2009;105.38;1.2;100000
+3;0;Alle huishoudens;2010;106.72;1.3;100000
+4;0;Alle huishoudens;2011;109.22;2.3;100000
+5;0;Alle huishoudens;2012;111.9;2.5;100000
+6;0;Alle huishoudens;2013;114.71;2.5;100000
+7;0;Alle huishoudens;2014;115.83;1.0;100000
+8;0;Inkomen uit loon;2007;101.56;1.6;100000
+9;0;Inkomen uit loon;2008;104.03;2.4;100000
+10;0;Inkomen uit loon;2009;105.18;1.1;100000
+11;0;Inkomen uit loon;2010;106.58;1.3;100000
+12;0;Inkomen uit loon;2011;109.07;2.3;100000
+13;0;Inkomen uit loon;2012;111.75;2.5;100000
+14;0;Inkomen uit loon;2013;114.55;2.5;100000
+15;0;Inkomen uit loon;2014;115.64;1.0;100000
+16;0;Inkomen uit eigen bedrijven of vermogen;2007;101.79;1.8;100000
+17;0;Inkomen uit eigen bedrijven of vermogen;2008;104.5;2.7;100000
+18;0;Inkomen uit eigen bedrijven of vermogen;2009;105.98;1.4;100000
+19;0;Inkomen uit eigen bedrijven of vermogen;2010;107.25;1.2;100000
+20;0;Inkomen uit eigen bedrijven of vermogen;2011;109.74;2.3;100000
+21;0;Inkomen uit eigen bedrijven of vermogen;2012;112.39;2.4;100000
+22;0;Inkomen uit eigen bedrijven of vermogen;2013;115.41;2.7;100000
+23;0;Inkomen uit eigen bedrijven of vermogen;2014;116.58;1.0;100000
+24;0;Inkomen uit pensioen en AOW;2007;101.78;1.8;100000
+25;0;Inkomen uit pensioen en AOW;2008;104.54;2.7;100000
+26;0;Inkomen uit pensioen en AOW;2009;105.94;1.3;100000
+27;0;Inkomen uit pensioen en AOW;2010;107.19;1.2;100000
+28;0;Inkomen uit pensioen en AOW;2011;109.72;2.4;100000
+29;0;Inkomen uit pensioen en AOW;2012;112.42;2.5;100000
+30;0;Inkomen uit pensioen en AOW;2013;115.14;2.4;100000
+31;0;Inkomen uit pensioen en AOW;2014;116.33;1.0;100000
+32;0;Inkomen uit uitkeringen anders dan AOW;2007;101.43;1.4;100000
+33;0;Inkomen uit uitkeringen anders dan AOW;2008;103.68;2.2;100000
+34;0;Inkomen uit uitkeringen anders dan AOW;2009;104.93;1.2;100000
+35;0;Inkomen uit uitkeringen anders dan AOW;2010;106.11;1.1;100000
+36;0;Inkomen uit uitkeringen anders dan AOW;2011;108.62;2.4;100000
+37;0;Inkomen uit uitkeringen anders dan AOW;2012;111.33;2.5;100000
+38;0;Inkomen uit uitkeringen anders dan AOW;2013;114.21;2.6;100000
+39;0;Inkomen uit uitkeringen anders dan AOW;2014;115.33;1.0;100000
+40;10000;Alle huishoudens;2007;101.03;1.0;10803
+41;10000;Alle huishoudens;2008;106.72;5.6;11067
+42;10000;Alle huishoudens;2009;107.88;1.1;10767
+43;10000;Alle huishoudens;2010;107.78;-0.1;11305
+44;10000;Alle huishoudens;2011;110.17;2.2;11255
+45;10000;Alle huishoudens;2012;112.4;2.0;11281
+46;10000;Alle huishoudens;2013;115.11;2.4;11334
+47;10000;Alle huishoudens;2014;115.04;-0.1;11529
+48;10000;Inkomen uit loon;2007;101.05;1.1;10515
+49;10000;Inkomen uit loon;2008;106.64;5.5;10589
+50;10000;Inkomen uit loon;2009;107.82;1.1;10587
+51;10000;Inkomen uit loon;2010;107.68;-0.1;11158
+52;10000;Inkomen uit loon;2011;110.02;2.2;11080
+53;10000;Inkomen uit loon;2012;112.25;2.0;11068
+54;10000;Inkomen uit loon;2013;114.92;2.4;11068
+55;10000;Inkomen uit loon;2014;114.91;0.0;11262
+56;10000;Inkomen uit eigen bedrijven of vermogen;2007;101.17;1.2;9943
+57;10000;Inkomen uit eigen bedrijven of vermogen;2008;107.12;5.9;9960
+58;10000;Inkomen uit eigen bedrijven of vermogen;2009;108.2;1.0;9971
+59;10000;Inkomen uit eigen bedrijven of vermogen;2010;108.06;-0.1;10315
+60;10000;Inkomen uit eigen bedrijven of vermogen;2011;110.48;2.2;10327
+61;10000;Inkomen uit eigen bedrijven of vermogen;2012;112.76;2.1;10279
+62;10000;Inkomen uit eigen bedrijven of vermogen;2013;115.46;2.4;10640
+63;10000;Inkomen uit eigen bedrijven of vermogen;2014;115.43;0.0;11022
+64;10000;Inkomen uit pensioen en AOW;2007;100.98;1.0;11784
+65;10000;Inkomen uit pensioen en AOW;2008;106.84;5.8;11831
+66;10000;Inkomen uit pensioen en AOW;2009;107.93;1.0;11536
+67;10000;Inkomen uit pensioen en AOW;2010;107.97;0.0;12018
+68;10000;Inkomen uit pensioen en AOW;2011;110.5;2.3;12021
+69;10000;Inkomen uit pensioen en AOW;2012;112.7;2.0;12036
+70;10000;Inkomen uit pensioen en AOW;2013;115.49;2.5;12192
+71;10000;Inkomen uit pensioen en AOW;2014;115.24;-0.2;12337
+72;10000;Inkomen uit uitkeringen anders dan AOW;2007;101.02;1.0;11480
+73;10000;Inkomen uit uitkeringen anders dan AOW;2008;106.76;5.7;11522
+74;10000;Inkomen uit uitkeringen anders dan AOW;2009;107.97;1.1;11311
+75;10000;Inkomen uit uitkeringen anders dan AOW;2010;107.95;0.0;12080
+76;10000;Inkomen uit uitkeringen anders dan AOW;2011;110.34;2.2;12063
+77;10000;Inkomen uit uitkeringen anders dan AOW;2012;112.52;2.0;12530
+78;10000;Inkomen uit uitkeringen anders dan AOW;2013;115.28;2.5;12172
+79;10000;Inkomen uit uitkeringen anders dan AOW;2014;115.23;0.0;12166
+80;20000;Alle huishoudens;2007;101.89;1.9;3038
+81;20000;Alle huishoudens;2008;106.79;4.8;2831
+82;20000;Alle huishoudens;2009;115.82;8.5;2756
+83;20000;Alle huishoudens;2010;119.54;3.2;2968
+84;20000;Alle huishoudens;2011;123.74;3.5;3094
+85;20000;Alle huishoudens;2012;129.05;4.3;3070
+86;20000;Alle huishoudens;2013;141.29;9.5;2936
+87;20000;Alle huishoudens;2014;144.23;2.1;3010
+88;20000;Inkomen uit loon;2007;101.93;1.9;2930
+89;20000;Inkomen uit loon;2008;106.98;5.0;2739
+90;20000;Inkomen uit loon;2009;116.48;8.9;2672
+91;20000;Inkomen uit loon;2010;120.25;3.2;2879
+92;20000;Inkomen uit loon;2011;124.48;3.5;3058
+93;20000;Inkomen uit loon;2012;129.92;4.4;3069
+94;20000;Inkomen uit loon;2013;142.46;9.7;3001
+95;20000;Inkomen uit loon;2014;145.37;2.0;3097
+96;20000;Inkomen uit eigen bedrijven of vermogen;2007;101.65;1.6;2433
+97;20000;Inkomen uit eigen bedrijven of vermogen;2008;106.28;4.6;2276
+98;20000;Inkomen uit eigen bedrijven of vermogen;2009;114.77;8.0;2204
+99;20000;Inkomen uit eigen bedrijven of vermogen;2010;118.15;2.9;2515
+100;20000;Inkomen uit eigen bedrijven of vermogen;2011;122.15;3.4;2535
+101;20000;Inkomen uit eigen bedrijven of vermogen;2012;127.46;4.3;2409
+102;20000;Inkomen uit eigen bedrijven of vermogen;2013;138.89;9.0;2072
+103;20000;Inkomen uit eigen bedrijven of vermogen;2014;141.79;2.1;2027
+104;20000;Inkomen uit pensioen en AOW;2007;101.71;1.7;3413
+105;20000;Inkomen uit pensioen en AOW;2008;106.13;4.3;3162
+106;20000;Inkomen uit pensioen en AOW;2009;113.75;7.2;3065
+107;20000;Inkomen uit pensioen en AOW;2010;117.18;3.0;3112
+108;20000;Inkomen uit pensioen en AOW;2011;121.06;3.3;3041
+109;20000;Inkomen uit pensioen en AOW;2012;125.79;3.9;2904
+110;20000;Inkomen uit pensioen en AOW;2013;136.65;8.6;2648
+111;20000;Inkomen uit pensioen en AOW;2014;139.61;2.2;2570
+112;20000;Inkomen uit uitkeringen anders dan AOW;2007;102.23;2.2;3394
+113;20000;Inkomen uit uitkeringen anders dan AOW;2008;107.5;5.2;3176
+114;20000;Inkomen uit uitkeringen anders dan AOW;2009;117.25;9.1;3392
+115;20000;Inkomen uit uitkeringen anders dan AOW;2010;121.61;3.7;4064
+116;20000;Inkomen uit uitkeringen anders dan AOW;2011;126.5;4.0;4365
+117;20000;Inkomen uit uitkeringen anders dan AOW;2012;132.1;4.4;4417
+118;20000;Inkomen uit uitkeringen anders dan AOW;2013;145.68;10.3;4273
+119;20000;Inkomen uit uitkeringen anders dan AOW;2014;148.89;2.2;4867
+120;30000;Alle huishoudens;2007;101.23;1.2;5335
+121;30000;Alle huishoudens;2008;101.57;0.3;5095
+122;30000;Alle huishoudens;2009;101.09;-0.5;5287
+123;30000;Alle huishoudens;2010;100.57;-0.5;5114
+124;30000;Alle huishoudens;2011;101.59;1.0;5061
+125;30000;Alle huishoudens;2012;102.12;0.5;5152
+126;30000;Alle huishoudens;2013;102.51;0.4;4969
+127;30000;Alle huishoudens;2014;101.53;-1.0;4775
+128;30000;Inkomen uit loon;2007;101.21;1.2;5637
+129;30000;Inkomen uit loon;2008;101.54;0.3;5519
+130;30000;Inkomen uit loon;2009;101.07;-0.5;5587
+131;30000;Inkomen uit loon;2010;100.49;-0.6;5424
+132;30000;Inkomen uit loon;2011;101.49;1.0;5365
+133;30000;Inkomen uit loon;2012;102.01;0.5;5415
+134;30000;Inkomen uit loon;2013;102.37;0.4;5249
+135;30000;Inkomen uit loon;2014;101.37;-1.0;5090
+136;30000;Inkomen uit eigen bedrijven of vermogen;2007;101.13;1.1;5927
+137;30000;Inkomen uit eigen bedrijven of vermogen;2008;101.44;0.3;5916
+138;30000;Inkomen uit eigen bedrijven of vermogen;2009;101.01;-0.4;5579
+139;30000;Inkomen uit eigen bedrijven of vermogen;2010;100.58;-0.4;5151
+140;30000;Inkomen uit eigen bedrijven of vermogen;2011;101.58;1.0;5024
+141;30000;Inkomen uit eigen bedrijven of vermogen;2012;102.04;0.5;5288
+142;30000;Inkomen uit eigen bedrijven of vermogen;2013;102.38;0.3;5342
+143;30000;Inkomen uit eigen bedrijven of vermogen;2014;101.33;-1.0;5183
+144;30000;Inkomen uit pensioen en AOW;2007;101.27;1.3;4506
+145;30000;Inkomen uit pensioen en AOW;2008;101.64;0.4;4518
+146;30000;Inkomen uit pensioen en AOW;2009;101.14;-0.5;4456
+147;30000;Inkomen uit pensioen en AOW;2010;100.77;-0.4;4303
+148;30000;Inkomen uit pensioen en AOW;2011;101.89;1.1;4342
+149;30000;Inkomen uit pensioen en AOW;2012;102.48;0.6;4543
+150;30000;Inkomen uit pensioen en AOW;2013;102.99;0.5;4290
+151;30000;Inkomen uit pensioen en AOW;2014;102.18;-0.8;3972
+152;30000;Inkomen uit uitkeringen anders dan AOW;2007;101.12;1.1;4821
+153;30000;Inkomen uit uitkeringen anders dan AOW;2008;101.45;0.3;4734
+154;30000;Inkomen uit uitkeringen anders dan AOW;2009;101.05;-0.4;4483
+155;30000;Inkomen uit uitkeringen anders dan AOW;2010;100.59;-0.5;4371
+156;30000;Inkomen uit uitkeringen anders dan AOW;2011;101.67;1.1;4172
+157;30000;Inkomen uit uitkeringen anders dan AOW;2012;102.23;0.6;4130
+158;30000;Inkomen uit uitkeringen anders dan AOW;2013;102.73;0.5;3860
+159;30000;Inkomen uit uitkeringen anders dan AOW;2014;101.75;-1.0;3794
+160;40000;Alle huishoudens;2007;102.58;2.6;23807
+161;40000;Alle huishoudens;2008;104.74;2.1;24159
+162;40000;Alle huishoudens;2009;106.6;1.8;23995
+163;40000;Alle huishoudens;2010;106.54;-0.1;23950
+164;40000;Alle huishoudens;2011;109.27;2.6;24203
+165;40000;Alle huishoudens;2012;112.43;2.9;24305
+166;40000;Alle huishoudens;2013;115.9;3.1;24851
+167;40000;Alle huishoudens;2014;119.31;2.9;25361
+168;40000;Inkomen uit loon;2007;102.58;2.6;21591
+169;40000;Inkomen uit loon;2008;104.61;2.0;22266
+170;40000;Inkomen uit loon;2009;106.48;1.8;22072
+171;40000;Inkomen uit loon;2010;106.49;0.0;22142
+172;40000;Inkomen uit loon;2011;109.21;2.6;22506
+173;40000;Inkomen uit loon;2012;112.34;2.9;22765
+174;40000;Inkomen uit loon;2013;115.82;3.1;23327
+175;40000;Inkomen uit loon;2014;119.23;2.9;23787
+176;40000;Inkomen uit eigen bedrijven of vermogen;2007;102.64;2.6;23446
+177;40000;Inkomen uit eigen bedrijven of vermogen;2008;104.99;2.3;24396
+178;40000;Inkomen uit eigen bedrijven of vermogen;2009;106.8;1.7;23651
+179;40000;Inkomen uit eigen bedrijven of vermogen;2010;106.65;-0.1;23979
+180;40000;Inkomen uit eigen bedrijven of vermogen;2011;109.32;2.5;23340
+181;40000;Inkomen uit eigen bedrijven of vermogen;2012;112.42;2.8;23208
+182;40000;Inkomen uit eigen bedrijven of vermogen;2013;115.87;3.1;22532
+183;40000;Inkomen uit eigen bedrijven of vermogen;2014;119.23;2.9;22951
+184;40000;Inkomen uit pensioen en AOW;2007;102.57;2.6;28661
+185;40000;Inkomen uit pensioen en AOW;2008;105.09;2.5;29379
+186;40000;Inkomen uit pensioen en AOW;2009;106.95;1.8;29312
+187;40000;Inkomen uit pensioen en AOW;2010;106.83;-0.1;29079
+188;40000;Inkomen uit pensioen en AOW;2011;109.56;2.6;29636
+189;40000;Inkomen uit pensioen en AOW;2012;112.75;2.9;29714
+190;40000;Inkomen uit pensioen en AOW;2013;116.21;3.1;30236
+191;40000;Inkomen uit pensioen en AOW;2014;119.67;3.0;30558
+192;40000;Inkomen uit uitkeringen anders dan AOW;2007;102.53;2.5;26646
+193;40000;Inkomen uit uitkeringen anders dan AOW;2008;104.42;1.8;26939
+194;40000;Inkomen uit uitkeringen anders dan AOW;2009;106.22;1.7;27160
+195;40000;Inkomen uit uitkeringen anders dan AOW;2010;105.92;-0.3;26748
+196;40000;Inkomen uit uitkeringen anders dan AOW;2011;108.86;2.8;26516
+197;40000;Inkomen uit uitkeringen anders dan AOW;2012;112.23;3.1;25484
+198;40000;Inkomen uit uitkeringen anders dan AOW;2013;115.75;3.1;26225
+199;40000;Inkomen uit uitkeringen anders dan AOW;2014;119.01;2.8;27026
+200;50000;Alle huishoudens;2007;101.18;1.2;6167
+201;50000;Alle huishoudens;2008;103.34;2.1;6510
+202;50000;Alle huishoudens;2009;105.84;2.4;6349
+203;50000;Alle huishoudens;2010;106.67;0.8;6426
+204;50000;Alle huishoudens;2011;108.08;1.3;6133
+205;50000;Alle huishoudens;2012;109.28;1.1;5980
+206;50000;Alle huishoudens;2013;109.93;0.6;5841
+207;50000;Alle huishoudens;2014;108.99;-0.9;5546
+208;50000;Inkomen uit loon;2007;101.19;1.2;6347
+209;50000;Inkomen uit loon;2008;103.39;2.2;6684
+210;50000;Inkomen uit loon;2009;105.89;2.4;6405
+211;50000;Inkomen uit loon;2010;106.68;0.7;6471
+212;50000;Inkomen uit loon;2011;108.03;1.3;6085
+213;50000;Inkomen uit loon;2012;109.21;1.1;6003
+214;50000;Inkomen uit loon;2013;109.83;0.6;5814
+215;50000;Inkomen uit loon;2014;108.82;-0.9;5539
+216;50000;Inkomen uit eigen bedrijven of vermogen;2007;101.07;1.1;6157
+217;50000;Inkomen uit eigen bedrijven of vermogen;2008;103.2;2.1;6568
+218;50000;Inkomen uit eigen bedrijven of vermogen;2009;105.64;2.4;6247
+219;50000;Inkomen uit eigen bedrijven of vermogen;2010;106.4;0.7;6149
+220;50000;Inkomen uit eigen bedrijven of vermogen;2011;107.84;1.4;5831
+221;50000;Inkomen uit eigen bedrijven of vermogen;2012;109.07;1.1;5841
+222;50000;Inkomen uit eigen bedrijven of vermogen;2013;109.72;0.6;5581
+223;50000;Inkomen uit eigen bedrijven of vermogen;2014;108.68;-0.9;4980
+224;50000;Inkomen uit pensioen en AOW;2007;101.21;1.2;5524
+225;50000;Inkomen uit pensioen en AOW;2008;103.31;2.1;5786
+226;50000;Inkomen uit pensioen en AOW;2009;105.88;2.5;6185
+227;50000;Inkomen uit pensioen en AOW;2010;106.94;1.0;6438
+228;50000;Inkomen uit pensioen en AOW;2011;108.53;1.5;6567
+229;50000;Inkomen uit pensioen en AOW;2012;109.85;1.2;6269
+230;50000;Inkomen uit pensioen en AOW;2013;110.62;0.7;6319
+231;50000;Inkomen uit pensioen en AOW;2014;109.93;-0.6;6017
+232;50000;Inkomen uit uitkeringen anders dan AOW;2007;101.1;1.1;5970
+233;50000;Inkomen uit uitkeringen anders dan AOW;2008;103.08;2.0;6320
+234;50000;Inkomen uit uitkeringen anders dan AOW;2009;105.48;2.3;6431
+235;50000;Inkomen uit uitkeringen anders dan AOW;2010;106.19;0.7;6343
+236;50000;Inkomen uit uitkeringen anders dan AOW;2011;107.52;1.3;5782
+237;50000;Inkomen uit uitkeringen anders dan AOW;2012;108.67;1.1;5126
+238;50000;Inkomen uit uitkeringen anders dan AOW;2013;109.13;0.4;5026
+239;50000;Inkomen uit uitkeringen anders dan AOW;2014;108.09;-1.0;4858
+240;60000;Alle huishoudens;2007;101.23;1.2;1075
+241;60000;Alle huishoudens;2008;101.57;0.3;1167
+242;60000;Alle huishoudens;2009;102.55;1.0;1286
+243;60000;Alle huishoudens;2010;103.78;1.2;1141
+244;60000;Alle huishoudens;2011;103.29;-0.5;1038
+245;60000;Alle huishoudens;2012;104.22;0.9;1103
+246;60000;Alle huishoudens;2013;105.56;1.3;1084
+247;60000;Alle huishoudens;2014;105.88;0.3;1134
+248;60000;Inkomen uit loon;2007;101.23;1.2;1043
+249;60000;Inkomen uit loon;2008;101.59;0.4;1126
+250;60000;Inkomen uit loon;2009;102.59;1.0;1234
+251;60000;Inkomen uit loon;2010;103.82;1.2;1095
+252;60000;Inkomen uit loon;2011;103.3;-0.5;995
+253;60000;Inkomen uit loon;2012;104.24;0.9;1045
+254;60000;Inkomen uit loon;2013;105.68;1.4;1020
+255;60000;Inkomen uit loon;2014;105.99;0.3;1066
+256;60000;Inkomen uit eigen bedrijven of vermogen;2007;101.32;1.3;1265
+257;60000;Inkomen uit eigen bedrijven of vermogen;2008;101.82;0.5;1641
+258;60000;Inkomen uit eigen bedrijven of vermogen;2009;102.99;1.1;1669
+259;60000;Inkomen uit eigen bedrijven of vermogen;2010;104.27;1.2;1332
+260;60000;Inkomen uit eigen bedrijven of vermogen;2011;103.74;-0.5;1154
+261;60000;Inkomen uit eigen bedrijven of vermogen;2012;104.58;0.8;1237
+262;60000;Inkomen uit eigen bedrijven of vermogen;2013;106.21;1.6;1223
+263;60000;Inkomen uit eigen bedrijven of vermogen;2014;106.59;0.4;1283
+264;60000;Inkomen uit pensioen en AOW;2007;101.24;1.2;1160
+265;60000;Inkomen uit pensioen en AOW;2008;101.56;0.3;1255
+266;60000;Inkomen uit pensioen en AOW;2009;102.5;0.9;1438
+267;60000;Inkomen uit pensioen en AOW;2010;103.76;1.2;1356
+268;60000;Inkomen uit pensioen en AOW;2011;103.38;-0.4;1288
+269;60000;Inkomen uit pensioen en AOW;2012;104.27;0.9;1389
+270;60000;Inkomen uit pensioen en AOW;2013;105.34;1.0;1363
+271;60000;Inkomen uit pensioen en AOW;2014;105.64;0.3;1410
+272;60000;Inkomen uit uitkeringen anders dan AOW;2007;100.91;0.9;842
+273;60000;Inkomen uit uitkeringen anders dan AOW;2008;100.9;0.0;857
+274;60000;Inkomen uit uitkeringen anders dan AOW;2009;101.35;0.4;832
+275;60000;Inkomen uit uitkeringen anders dan AOW;2010;102.26;0.9;692
+276;60000;Inkomen uit uitkeringen anders dan AOW;2011;101.71;-0.5;592
+277;60000;Inkomen uit uitkeringen anders dan AOW;2012;102.94;1.2;685
+278;60000;Inkomen uit uitkeringen anders dan AOW;2013;103.76;0.8;683
+279;60000;Inkomen uit uitkeringen anders dan AOW;2014;104.05;0.3;718
+280;70000;Alle huishoudens;2007;101.76;1.8;11140
+281;70000;Alle huishoudens;2008;105.72;3.9;11402
+282;70000;Alle huishoudens;2009;103.54;-2.1;11482
+283;70000;Alle huishoudens;2010;108.15;4.5;10701
+284;70000;Alle huishoudens;2011;112.9;4.4;11358
+285;70000;Alle huishoudens;2012;117.83;4.4;11750
+286;70000;Alle huishoudens;2013;120.56;2.3;11612
+287;70000;Alle huishoudens;2014;121.14;0.5;11127
+288;70000;Inkomen uit loon;2007;101.76;1.8;12369
+289;70000;Inkomen uit loon;2008;105.74;3.9;12414
+290;70000;Inkomen uit loon;2009;103.39;-2.2;12448
+291;70000;Inkomen uit loon;2010;108.08;4.5;11459
+292;70000;Inkomen uit loon;2011;112.91;4.5;12050
+293;70000;Inkomen uit loon;2012;117.87;4.4;12431
+294;70000;Inkomen uit loon;2013;120.54;2.3;12259
+295;70000;Inkomen uit loon;2014;121.11;0.5;11739
+296;70000;Inkomen uit eigen bedrijven of vermogen;2007;101.7;1.7;8954
+297;70000;Inkomen uit eigen bedrijven of vermogen;2008;105.48;3.7;8946
+298;70000;Inkomen uit eigen bedrijven of vermogen;2009;103.97;-1.4;9566
+299;70000;Inkomen uit eigen bedrijven of vermogen;2010;108.22;4.1;9128
+300;70000;Inkomen uit eigen bedrijven of vermogen;2011;112.69;4.1;10145
+301;70000;Inkomen uit eigen bedrijven of vermogen;2012;117.26;4.1;10758
+302;70000;Inkomen uit eigen bedrijven of vermogen;2013;120.12;2.4;10912
+303;70000;Inkomen uit eigen bedrijven of vermogen;2014;120.82;0.6;10456
+304;70000;Inkomen uit pensioen en AOW;2007;101.82;1.8;9286
+305;70000;Inkomen uit pensioen en AOW;2008;105.61;3.7;9230
+306;70000;Inkomen uit pensioen en AOW;2009;103.53;-2.0;9587
+307;70000;Inkomen uit pensioen en AOW;2010;108.2;4.5;9014
+308;70000;Inkomen uit pensioen en AOW;2011;112.86;4.3;9675
+309;70000;Inkomen uit pensioen en AOW;2012;117.63;4.2;10230
+310;70000;Inkomen uit pensioen en AOW;2013;120.48;2.4;10400
+311;70000;Inkomen uit pensioen en AOW;2014;120.94;0.4;10087
+312;70000;Inkomen uit uitkeringen anders dan AOW;2007;101.71;1.7;9637
+313;70000;Inkomen uit uitkeringen anders dan AOW;2008;105.93;4.1;9658
+314;70000;Inkomen uit uitkeringen anders dan AOW;2009;104.71;-1.2;10466
+315;70000;Inkomen uit uitkeringen anders dan AOW;2010;108.83;3.9;10388
+316;70000;Inkomen uit uitkeringen anders dan AOW;2011;113.3;4.1;11041
+317;70000;Inkomen uit uitkeringen anders dan AOW;2012;118.65;4.7;10713
+318;70000;Inkomen uit uitkeringen anders dan AOW;2013;121.56;2.5;10039
+319;70000;Inkomen uit uitkeringen anders dan AOW;2014;122.5;0.8;9506
+320;80000;Alle huishoudens;2007;97.23;-2.8;4607
+321;80000;Alle huishoudens;2008;93.22;-4.1;4114
+322;80000;Alle huishoudens;2009;91.41;-1.9;3987
+323;80000;Alle huishoudens;2010;93.26;2.0;3740
+324;80000;Alle huishoudens;2011;95.31;2.2;3477
+325;80000;Alle huishoudens;2012;95.37;0.1;3285
+326;80000;Alle huishoudens;2013;93.6;-1.9;3335
+327;80000;Alle huishoudens;2014;88.39;-5.6;3280
+328;80000;Inkomen uit loon;2007;97.16;-2.8;4852
+329;80000;Inkomen uit loon;2008;93.13;-4.1;4396
+330;80000;Inkomen uit loon;2009;91.29;-2.0;4062
+331;80000;Inkomen uit loon;2010;93.15;2.0;3804
+332;80000;Inkomen uit loon;2011;95.19;2.2;3500
+333;80000;Inkomen uit loon;2012;95.25;0.1;3321
+334;80000;Inkomen uit loon;2013;93.5;-1.8;3321
+335;80000;Inkomen uit loon;2014;88.29;-5.6;3254
+336;80000;Inkomen uit eigen bedrijven of vermogen;2007;97.29;-2.7;3630
+337;80000;Inkomen uit eigen bedrijven of vermogen;2008;93.3;-4.1;3302
+338;80000;Inkomen uit eigen bedrijven of vermogen;2009;91.51;-1.9;3354
+339;80000;Inkomen uit eigen bedrijven of vermogen;2010;93.37;2.0;3171
+340;80000;Inkomen uit eigen bedrijven of vermogen;2011;95.41;2.2;2960
+341;80000;Inkomen uit eigen bedrijven of vermogen;2012;95.47;0.1;2691
+342;80000;Inkomen uit eigen bedrijven of vermogen;2013;93.71;-1.8;2837
+343;80000;Inkomen uit eigen bedrijven of vermogen;2014;88.49;-5.6;2901
+344;80000;Inkomen uit pensioen en AOW;2007;97.36;-2.6;4063
+345;80000;Inkomen uit pensioen en AOW;2008;93.4;-4.1;3686
+346;80000;Inkomen uit pensioen en AOW;2009;91.63;-1.9;3475
+347;80000;Inkomen uit pensioen en AOW;2010;93.49;2.0;3291
+348;80000;Inkomen uit pensioen en AOW;2011;95.54;2.2;3185
+349;80000;Inkomen uit pensioen en AOW;2012;95.61;0.1;3068
+350;80000;Inkomen uit pensioen en AOW;2013;93.85;-1.8;3228
+351;80000;Inkomen uit pensioen en AOW;2014;88.63;-5.6;3182
+352;80000;Inkomen uit uitkeringen anders dan AOW;2007;97.42;-2.6;6595
+353;80000;Inkomen uit uitkeringen anders dan AOW;2008;93.49;-4.0;5984
+354;80000;Inkomen uit uitkeringen anders dan AOW;2009;91.74;-1.9;5583
+355;80000;Inkomen uit uitkeringen anders dan AOW;2010;93.6;2.0;5237
+356;80000;Inkomen uit uitkeringen anders dan AOW;2011;95.66;2.2;4799
+357;80000;Inkomen uit uitkeringen anders dan AOW;2012;95.72;0.1;4330
+358;80000;Inkomen uit uitkeringen anders dan AOW;2013;93.97;-1.8;4408
+359;80000;Inkomen uit uitkeringen anders dan AOW;2014;88.74;-5.6;4340
+360;90000;Alle huishoudens;2007;99.33;-0.7;10189
+361;90000;Alle huishoudens;2008;98.01;-1.3;10362
+362;90000;Alle huishoudens;2009;98.54;0.5;10703
+363;90000;Alle huishoudens;2010;98.79;0.3;10705
+364;90000;Alle huishoudens;2011;99.11;0.3;10405
+365;90000;Alle huishoudens;2012;100.85;1.8;10251
+366;90000;Alle huishoudens;2013;103.22;2.4;10129
+367;90000;Alle huishoudens;2014;103.5;0.3;10009
+368;90000;Inkomen uit loon;2007;98.94;-1.1;10127
+369;90000;Inkomen uit loon;2008;97.26;-1.7;10464
+370;90000;Inkomen uit loon;2009;97.51;0.3;10917
+371;90000;Inkomen uit loon;2010;97.66;0.2;11011
+372;90000;Inkomen uit loon;2011;97.9;0.2;10833
+373;90000;Inkomen uit loon;2012;99.6;1.7;10556
+374;90000;Inkomen uit loon;2013;101.93;2.3;10441
+375;90000;Inkomen uit loon;2014;102.23;0.3;10307
+376;90000;Inkomen uit eigen bedrijven of vermogen;2007;100.27;0.3;10924
+377;90000;Inkomen uit eigen bedrijven of vermogen;2008;99.88;-0.4;11010
+378;90000;Inkomen uit eigen bedrijven of vermogen;2009;101.07;1.2;10794
+379;90000;Inkomen uit eigen bedrijven of vermogen;2010;101.51;0.4;10283
+380;90000;Inkomen uit eigen bedrijven of vermogen;2011;102.02;0.5;9762
+381;90000;Inkomen uit eigen bedrijven of vermogen;2012;103.93;1.9;9812
+382;90000;Inkomen uit eigen bedrijven of vermogen;2013;106.45;2.4;9789
+383;90000;Inkomen uit eigen bedrijven of vermogen;2014;107.08;0.6;9531
+384;90000;Inkomen uit pensioen en AOW;2007;100.4;0.4;9863
+385;90000;Inkomen uit pensioen en AOW;2008;99.99;-0.4;10111
+386;90000;Inkomen uit pensioen en AOW;2009;101.42;1.4;9946
+387;90000;Inkomen uit pensioen en AOW;2010;102.08;0.7;10013
+388;90000;Inkomen uit pensioen en AOW;2011;102.61;0.5;9430
+389;90000;Inkomen uit pensioen en AOW;2012;104.46;1.8;9493
+390;90000;Inkomen uit pensioen en AOW;2013;106.86;2.3;9326
+391;90000;Inkomen uit pensioen en AOW;2014;106.96;0.1;9433
+392;90000;Inkomen uit uitkeringen anders dan AOW;2007;98.88;-1.1;10742
+393;90000;Inkomen uit uitkeringen anders dan AOW;2008;97.21;-1.7;11062
+394;90000;Inkomen uit uitkeringen anders dan AOW;2009;97.21;0.0;10744
+395;90000;Inkomen uit uitkeringen anders dan AOW;2010;97.21;0.0;10303
+396;90000;Inkomen uit uitkeringen anders dan AOW;2011;97.37;0.2;10118
+397;90000;Inkomen uit uitkeringen anders dan AOW;2012;99.18;1.9;10225
+398;90000;Inkomen uit uitkeringen anders dan AOW;2013;101.49;2.3;10230
+399;90000;Inkomen uit uitkeringen anders dan AOW;2014;101.5;0.0;9641
+400;10000 Onderwijs;Alle huishoudens;2007;98.6;-1.4;109
+401;10000 Onderwijs;Alle huishoudens;2008;100.78;2.2;109
+402;10000 Onderwijs;Alle huishoudens;2009;102.11;1.3;109
+403;10000 Onderwijs;Alle huishoudens;2010;101.31;-0.8;135
+404;10000 Onderwijs;Alle huishoudens;2011;103.69;2.3;139
+405;10000 Onderwijs;Alle huishoudens;2012;107.75;3.9;139
+406;10000 Onderwijs;Alle huishoudens;2013;106.69;-1.0;145
+407;10000 Onderwijs;Alle huishoudens;2014;110.47;3.5;146
+408;10000 Onderwijs;Inkomen uit loon;2007;98.6;-1.4;128
+409;10000 Onderwijs;Inkomen uit loon;2008;100.78;2.2;126
+410;10000 Onderwijs;Inkomen uit loon;2009;102.11;1.3;125
+411;10000 Onderwijs;Inkomen uit loon;2010;101.31;-0.8;162
+412;10000 Onderwijs;Inkomen uit loon;2011;103.69;2.3;163
+413;10000 Onderwijs;Inkomen uit loon;2012;107.75;3.9;170
+414;10000 Onderwijs;Inkomen uit loon;2013;106.69;-1.0;175
+415;10000 Onderwijs;Inkomen uit loon;2014;110.47;3.5;181
+416;10000 Onderwijs;Inkomen uit eigen bedrijven of vermogen;2007;98.6;-1.4;85
+417;10000 Onderwijs;Inkomen uit eigen bedrijven of vermogen;2008;100.78;2.2;84
+418;10000 Onderwijs;Inkomen uit eigen bedrijven of vermogen;2009;102.11;1.3;96
+419;10000 Onderwijs;Inkomen uit eigen bedrijven of vermogen;2010;101.31;-0.8;100
+420;10000 Onderwijs;Inkomen uit eigen bedrijven of vermogen;2011;103.69;2.3;109
+421;10000 Onderwijs;Inkomen uit eigen bedrijven of vermogen;2012;107.75;3.9;87
+422;10000 Onderwijs;Inkomen uit eigen bedrijven of vermogen;2013;106.69;-1.0;110
+423;10000 Onderwijs;Inkomen uit eigen bedrijven of vermogen;2014;110.47;3.5;105
+424;10000 Onderwijs;Inkomen uit pensioen en AOW;2007;98.6;-1.4;31
+425;10000 Onderwijs;Inkomen uit pensioen en AOW;2008;100.78;2.2;31
+426;10000 Onderwijs;Inkomen uit pensioen en AOW;2009;102.11;1.3;31
+427;10000 Onderwijs;Inkomen uit pensioen en AOW;2010;101.31;-0.8;46
+428;10000 Onderwijs;Inkomen uit pensioen en AOW;2011;103.69;2.3;71
+429;10000 Onderwijs;Inkomen uit pensioen en AOW;2012;107.75;3.9;82
+430;10000 Onderwijs;Inkomen uit pensioen en AOW;2013;106.69;-1.0;95
+431;10000 Onderwijs;Inkomen uit pensioen en AOW;2014;110.47;3.5;90
+432;10000 Onderwijs;Inkomen uit uitkeringen anders dan AOW;2007;98.6;-1.4;198
+433;10000 Onderwijs;Inkomen uit uitkeringen anders dan AOW;2008;100.78;2.2;196
+434;10000 Onderwijs;Inkomen uit uitkeringen anders dan AOW;2009;102.11;1.3;198
+435;10000 Onderwijs;Inkomen uit uitkeringen anders dan AOW;2010;101.31;-0.8;185
+436;10000 Onderwijs;Inkomen uit uitkeringen anders dan AOW;2011;103.69;2.3;136
+437;10000 Onderwijs;Inkomen uit uitkeringen anders dan AOW;2012;107.75;3.9;66
+438;10000 Onderwijs;Inkomen uit uitkeringen anders dan AOW;2013;106.69;-1.0;63
+439;10000 Onderwijs;Inkomen uit uitkeringen anders dan AOW;2014;110.47;3.5;44
+440;11000 Hotels, café's en restaurants;Alle huishoudens;2007;103.51;3.5;4663
+441;11000 Hotels, café's en restaurants;Alle huishoudens;2008;107.88;4.2;4657
+442;11000 Hotels, café's en restaurants;Alle huishoudens;2009;112.14;3.9;4692
+443;11000 Hotels, café's en restaurants;Alle huishoudens;2010;114.85;2.4;4635
+444;11000 Hotels, café's en restaurants;Alle huishoudens;2011;117.92;2.7;4389
+445;11000 Hotels, café's en restaurants;Alle huishoudens;2012;120.63;2.3;4198
+446;11000 Hotels, café's en restaurants;Alle huishoudens;2013;122.75;1.8;4413
+447;11000 Hotels, café's en restaurants;Alle huishoudens;2014;125.06;1.9;4399
+448;11000 Hotels, café's en restaurants;Inkomen uit loon;2007;103.49;3.5;4981
+449;11000 Hotels, café's en restaurants;Inkomen uit loon;2008;107.88;4.2;4987
+450;11000 Hotels, café's en restaurants;Inkomen uit loon;2009;112.13;3.9;5075
+451;11000 Hotels, café's en restaurants;Inkomen uit loon;2010;114.89;2.5;4984
+452;11000 Hotels, café's en restaurants;Inkomen uit loon;2011;117.98;2.7;4691
+453;11000 Hotels, café's en restaurants;Inkomen uit loon;2012;120.68;2.3;4432
+454;11000 Hotels, café's en restaurants;Inkomen uit loon;2013;122.84;1.8;4632
+455;11000 Hotels, café's en restaurants;Inkomen uit loon;2014;125.14;1.9;4590
+456;11000 Hotels, café's en restaurants;Inkomen uit eigen bedrijven of vermogen;2007;103.56;3.6;4748
+457;11000 Hotels, café's en restaurants;Inkomen uit eigen bedrijven of vermogen;2008;107.9;4.2;4708
+458;11000 Hotels, café's en restaurants;Inkomen uit eigen bedrijven of vermogen;2009;112.18;4.0;4671
+459;11000 Hotels, café's en restaurants;Inkomen uit eigen bedrijven of vermogen;2010;114.68;2.2;4369
+460;11000 Hotels, café's en restaurants;Inkomen uit eigen bedrijven of vermogen;2011;117.71;2.6;3990
+461;11000 Hotels, café's en restaurants;Inkomen uit eigen bedrijven of vermogen;2012;120.44;2.3;3795
+462;11000 Hotels, café's en restaurants;Inkomen uit eigen bedrijven of vermogen;2013;122.53;1.7;4048
+463;11000 Hotels, café's en restaurants;Inkomen uit eigen bedrijven of vermogen;2014;124.82;1.9;4021
+464;11000 Hotels, café's en restaurants;Inkomen uit pensioen en AOW;2007;103.55;3.5;3775
+465;11000 Hotels, café's en restaurants;Inkomen uit pensioen en AOW;2008;107.9;4.2;3756
+466;11000 Hotels, café's en restaurants;Inkomen uit pensioen en AOW;2009;112.18;4.0;3817
+467;11000 Hotels, café's en restaurants;Inkomen uit pensioen en AOW;2010;114.67;2.2;3959
+468;11000 Hotels, café's en restaurants;Inkomen uit pensioen en AOW;2011;117.7;2.6;3859
+469;11000 Hotels, café's en restaurants;Inkomen uit pensioen en AOW;2012;120.43;2.3;3915
+470;11000 Hotels, café's en restaurants;Inkomen uit pensioen en AOW;2013;122.44;1.7;4138
+471;11000 Hotels, café's en restaurants;Inkomen uit pensioen en AOW;2014;124.76;1.9;4221
+472;11000 Hotels, café's en restaurants;Inkomen uit uitkeringen anders dan AOW;2007;103.49;3.5;3471
+473;11000 Hotels, café's en restaurants;Inkomen uit uitkeringen anders dan AOW;2008;107.85;4.2;3481
+474;11000 Hotels, café's en restaurants;Inkomen uit uitkeringen anders dan AOW;2009;112.12;4.0;3660
+475;11000 Hotels, café's en restaurants;Inkomen uit uitkeringen anders dan AOW;2010;114.84;2.4;3544
+476;11000 Hotels, café's en restaurants;Inkomen uit uitkeringen anders dan AOW;2011;117.94;2.7;3493
+477;11000 Hotels, café's en restaurants;Inkomen uit uitkeringen anders dan AOW;2012;120.56;2.2;3261
+478;11000 Hotels, café's en restaurants;Inkomen uit uitkeringen anders dan AOW;2013;122.79;1.8;3657
+479;11000 Hotels, café's en restaurants;Inkomen uit uitkeringen anders dan AOW;2014;125.12;1.9;3650
+480;12000 Diverse goederen en diensten;Alle huishoudens;2007;102.91;2.9;11096
+481;12000 Diverse goederen en diensten;Alle huishoudens;2008;106.8;3.8;10833
+482;12000 Diverse goederen en diensten;Alle huishoudens;2009;109.5;2.5;10849
+483;12000 Diverse goederen en diensten;Alle huishoudens;2010;111.41;1.7;11179
+484;12000 Diverse goederen en diensten;Alle huishoudens;2011;113.99;2.3;11218
+485;12000 Diverse goederen en diensten;Alle huishoudens;2012;116.69;2.4;11278
+486;12000 Diverse goederen en diensten;Alle huishoudens;2013;121.46;4.1;11230
+487;12000 Diverse goederen en diensten;Alle huishoudens;2014;122.99;1.3;11272
+488;12000 Diverse goederen en diensten;Inkomen uit loon;2007;102.9;2.9;11813
+489;12000 Diverse goederen en diensten;Inkomen uit loon;2008;106.75;3.7;11333
+490;12000 Diverse goederen en diensten;Inkomen uit loon;2009;109.43;2.5;11161
+491;12000 Diverse goederen en diensten;Inkomen uit loon;2010;111.33;1.7;11302
+492;12000 Diverse goederen en diensten;Inkomen uit loon;2011;113.92;2.3;11163
+493;12000 Diverse goederen en diensten;Inkomen uit loon;2012;116.68;2.4;11234
+494;12000 Diverse goederen en diensten;Inkomen uit loon;2013;121.59;4.2;11348
+495;12000 Diverse goederen en diensten;Inkomen uit loon;2014;123.14;1.3;11508
+496;12000 Diverse goederen en diensten;Inkomen uit eigen bedrijven of vermogen;2007;102.85;2.8;14697
+497;12000 Diverse goederen en diensten;Inkomen uit eigen bedrijven of vermogen;2008;107.02;4.1;13685
+498;12000 Diverse goederen en diensten;Inkomen uit eigen bedrijven of vermogen;2009;109.78;2.6;14395
+499;12000 Diverse goederen en diensten;Inkomen uit eigen bedrijven of vermogen;2010;111.75;1.8;15454
+500;12000 Diverse goederen en diensten;Inkomen uit eigen bedrijven of vermogen;2011;114.53;2.5;16594
+501;12000 Diverse goederen en diensten;Inkomen uit eigen bedrijven of vermogen;2012;117.29;2.4;16506
+502;12000 Diverse goederen en diensten;Inkomen uit eigen bedrijven of vermogen;2013;122.88;4.8;16536
+503;12000 Diverse goederen en diensten;Inkomen uit eigen bedrijven of vermogen;2014;124.48;1.3;16415
+504;12000 Diverse goederen en diensten;Inkomen uit pensioen en AOW;2007;102.97;3.0;9426
+505;12000 Diverse goederen en diensten;Inkomen uit pensioen en AOW;2008;106.85;3.8;9052
+506;12000 Diverse goederen en diensten;Inkomen uit pensioen en AOW;2009;109.61;2.6;9514
+507;12000 Diverse goederen en diensten;Inkomen uit pensioen en AOW;2010;111.55;1.8;9945
+508;12000 Diverse goederen en diensten;Inkomen uit pensioen en AOW;2011;114.02;2.2;9654
+509;12000 Diverse goederen en diensten;Inkomen uit pensioen en AOW;2012;116.62;2.3;8938
+510;12000 Diverse goederen en diensten;Inkomen uit pensioen en AOW;2013;120.6;3.4;8353
+511;12000 Diverse goederen en diensten;Inkomen uit pensioen en AOW;2014;121.92;1.1;8373
+512;12000 Diverse goederen en diensten;Inkomen uit uitkeringen anders dan AOW;2007;102.98;3.0;6869
+513;12000 Diverse goederen en diensten;Inkomen uit uitkeringen anders dan AOW;2008;106.48;3.4;7076
+514;12000 Diverse goederen en diensten;Inkomen uit uitkeringen anders dan AOW;2009;109.14;2.5;7040
+515;12000 Diverse goederen en diensten;Inkomen uit uitkeringen anders dan AOW;2010;110.92;1.6;7519
+516;12000 Diverse goederen en diensten;Inkomen uit uitkeringen anders dan AOW;2011;113.26;2.1;8621
+517;12000 Diverse goederen en diensten;Inkomen uit uitkeringen anders dan AOW;2012;115.45;1.9;11237
+518;12000 Diverse goederen en diensten;Inkomen uit uitkeringen anders dan AOW;2013;119.12;3.2;11618
+519;12000 Diverse goederen en diensten;Inkomen uit uitkeringen anders dan AOW;2014;120.71;1.3;11426
+520;13000 Cons.geb. belast./overheidsdienst.;Alle huishoudens;2007;102.87;2.9;3420
+521;13000 Cons.geb. belast./overheidsdienst.;Alle huishoudens;2008;107.18;4.2;3239
+522;13000 Cons.geb. belast./overheidsdienst.;Alle huishoudens;2009;111.48;4.0;3253
+523;13000 Cons.geb. belast./overheidsdienst.;Alle huishoudens;2010;115.77;3.8;3407
+524;13000 Cons.geb. belast./overheidsdienst.;Alle huishoudens;2011;117.22;1.3;3597
+525;13000 Cons.geb. belast./overheidsdienst.;Alle huishoudens;2012;118.68;1.2;3674
+526;13000 Cons.geb. belast./overheidsdienst.;Alle huishoudens;2013;121.03;2.0;3693
+527;13000 Cons.geb. belast./overheidsdienst.;Alle huishoudens;2014;124.63;3.0;3744
+528;13000 Cons.geb. belast./overheidsdienst.;Inkomen uit loon;2007;102.88;2.9;3429
+529;13000 Cons.geb. belast./overheidsdienst.;Inkomen uit loon;2008;107.18;4.2;3275
+530;13000 Cons.geb. belast./overheidsdienst.;Inkomen uit loon;2009;111.49;4.0;3346
+531;13000 Cons.geb. belast./overheidsdienst.;Inkomen uit loon;2010;115.77;3.8;3553
+532;13000 Cons.geb. belast./overheidsdienst.;Inkomen uit loon;2011;117.22;1.3;3729
+533;13000 Cons.geb. belast./overheidsdienst.;Inkomen uit loon;2012;118.68;1.2;3783
+534;13000 Cons.geb. belast./overheidsdienst.;Inkomen uit loon;2013;121.03;2.0;3783
+535;13000 Cons.geb. belast./overheidsdienst.;Inkomen uit loon;2014;124.63;3.0;3869
+536;13000 Cons.geb. belast./overheidsdienst.;Inkomen uit eigen bedrijven of vermogen;2007;102.88;2.9;3316
+537;13000 Cons.geb. belast./overheidsdienst.;Inkomen uit eigen bedrijven of vermogen;2008;107.18;4.2;3171
+538;13000 Cons.geb. belast./overheidsdienst.;Inkomen uit eigen bedrijven of vermogen;2009;111.49;4.0;3273
+539;13000 Cons.geb. belast./overheidsdienst.;Inkomen uit eigen bedrijven of vermogen;2010;115.77;3.8;3416
+540;13000 Cons.geb. belast./overheidsdienst.;Inkomen uit eigen bedrijven of vermogen;2011;117.22;1.3;3654
+541;13000 Cons.geb. belast./overheidsdienst.;Inkomen uit eigen bedrijven of vermogen;2012;118.68;1.2;3787
+542;13000 Cons.geb. belast./overheidsdienst.;Inkomen uit eigen bedrijven of vermogen;2013;121.03;2.0;3897
+543;13000 Cons.geb. belast./overheidsdienst.;Inkomen uit eigen bedrijven of vermogen;2014;124.63;3.0;3998
+544;13000 Cons.geb. belast./overheidsdienst.;Inkomen uit pensioen en AOW;2007;102.88;2.9;3147
+545;13000 Cons.geb. belast./overheidsdienst.;Inkomen uit pensioen en AOW;2008;107.18;4.2;3016
+546;13000 Cons.geb. belast./overheidsdienst.;Inkomen uit pensioen en AOW;2009;111.49;4.0;2849
+547;13000 Cons.geb. belast./overheidsdienst.;Inkomen uit pensioen en AOW;2010;115.77;3.8;2813
+548;13000 Cons.geb. belast./overheidsdienst.;Inkomen uit pensioen en AOW;2011;117.22;1.3;2917
+549;13000 Cons.geb. belast./overheidsdienst.;Inkomen uit pensioen en AOW;2012;118.68;1.2;3005
+550;13000 Cons.geb. belast./overheidsdienst.;Inkomen uit pensioen en AOW;2013;121.03;2.0;3081
+551;13000 Cons.geb. belast./overheidsdienst.;Inkomen uit pensioen en AOW;2014;124.63;3.0;3110
+552;13000 Cons.geb. belast./overheidsdienst.;Inkomen uit uitkeringen anders dan AOW;2007;102.88;2.9;3725
+553;13000 Cons.geb. belast./overheidsdienst.;Inkomen uit uitkeringen anders dan AOW;2008;107.18;4.2;3578
+554;13000 Cons.geb. belast./overheidsdienst.;Inkomen uit uitkeringen anders dan AOW;2009;111.49;4.0;3515
+555;13000 Cons.geb. belast./overheidsdienst.;Inkomen uit uitkeringen anders dan AOW;2010;115.77;3.8;3686
+556;13000 Cons.geb. belast./overheidsdienst.;Inkomen uit uitkeringen anders dan AOW;2011;117.22;1.3;4150
+557;13000 Cons.geb. belast./overheidsdienst.;Inkomen uit uitkeringen anders dan AOW;2012;118.68;1.2;4315
+558;13000 Cons.geb. belast./overheidsdienst.;Inkomen uit uitkeringen anders dan AOW;2013;121.03;2.0;4368
+559;13000 Cons.geb. belast./overheidsdienst.;Inkomen uit uitkeringen anders dan AOW;2014;124.63;3.0;4223
+560;14000 Consumptie in het buitenland;Alle huishoudens;2007;102.32;2.3;4551
+561;14000 Consumptie in het buitenland;Alle huishoudens;2008;107.26;4.8;4455
+562;14000 Consumptie in het buitenland;Alle huishoudens;2009;105.32;-1.8;4485
+563;14000 Consumptie in het buitenland;Alle huishoudens;2010;108.81;3.3;4594
+564;14000 Consumptie in het buitenland;Alle huishoudens;2011;113.48;4.3;4634
+565;14000 Consumptie in het buitenland;Alle huishoudens;2012;117.73;3.7;4533
+566;14000 Consumptie in het buitenland;Alle huishoudens;2013;119.76;1.7;4427
+567;14000 Consumptie in het buitenland;Alle huishoudens;2014;120.58;0.7;4667
+568;14000 Consumptie in het buitenland;Inkomen uit loon;2007;102.32;2.3;4238
+569;14000 Consumptie in het buitenland;Inkomen uit loon;2008;107.26;4.8;4082
+570;14000 Consumptie in het buitenland;Inkomen uit loon;2009;105.32;-1.8;4309
+571;14000 Consumptie in het buitenland;Inkomen uit loon;2010;108.81;3.3;4558
+572;14000 Consumptie in het buitenland;Inkomen uit loon;2011;113.48;4.3;4783
+573;14000 Consumptie in het buitenland;Inkomen uit loon;2012;117.73;3.7;4708
+574;14000 Consumptie in het buitenland;Inkomen uit loon;2013;119.76;1.7;4563
+575;14000 Consumptie in het buitenland;Inkomen uit loon;2014;120.58;0.7;4711
+576;14000 Consumptie in het buitenland;Inkomen uit eigen bedrijven of vermogen;2007;102.32;2.3;4474
+577;14000 Consumptie in het buitenland;Inkomen uit eigen bedrijven of vermogen;2008;107.26;4.8;4339
+578;14000 Consumptie in het buitenland;Inkomen uit eigen bedrijven of vermogen;2009;105.32;-1.8;4530
+579;14000 Consumptie in het buitenland;Inkomen uit eigen bedrijven of vermogen;2010;108.81;3.3;4637
+580;14000 Consumptie in het buitenland;Inkomen uit eigen bedrijven of vermogen;2011;113.48;4.3;4577
+581;14000 Consumptie in het buitenland;Inkomen uit eigen bedrijven of vermogen;2012;117.73;3.7;4303
+582;14000 Consumptie in het buitenland;Inkomen uit eigen bedrijven of vermogen;2013;119.76;1.7;4482
+583;14000 Consumptie in het buitenland;Inkomen uit eigen bedrijven of vermogen;2014;120.58;0.7;5128
+584;14000 Consumptie in het buitenland;Inkomen uit pensioen en AOW;2007;102.32;2.3;5361
+585;14000 Consumptie in het buitenland;Inkomen uit pensioen en AOW;2008;107.26;4.8;5187
+586;14000 Consumptie in het buitenland;Inkomen uit pensioen en AOW;2009;105.32;-1.8;4790
+587;14000 Consumptie in het buitenland;Inkomen uit pensioen en AOW;2010;108.81;3.3;4612
+588;14000 Consumptie in het buitenland;Inkomen uit pensioen en AOW;2011;113.48;4.3;4313
+589;14000 Consumptie in het buitenland;Inkomen uit pensioen en AOW;2012;117.73;3.7;4413
+590;14000 Consumptie in het buitenland;Inkomen uit pensioen en AOW;2013;119.76;1.7;4331
+591;14000 Consumptie in het buitenland;Inkomen uit pensioen en AOW;2014;120.58;0.7;4639
+592;14000 Consumptie in het buitenland;Inkomen uit uitkeringen anders dan AOW;2007;102.32;2.3;5610
+593;14000 Consumptie in het buitenland;Inkomen uit uitkeringen anders dan AOW;2008;107.26;4.8;5418
+594;14000 Consumptie in het buitenland;Inkomen uit uitkeringen anders dan AOW;2009;105.32;-1.8;5186
+595;14000 Consumptie in het buitenland;Inkomen uit uitkeringen anders dan AOW;2010;108.81;3.3;4839
+596;14000 Consumptie in het buitenland;Inkomen uit uitkeringen anders dan AOW;2011;113.48;4.3;4152
+597;14000 Consumptie in het buitenland;Inkomen uit uitkeringen anders dan AOW;2012;117.73;3.7;3481
+598;14000 Consumptie in het buitenland;Inkomen uit uitkeringen anders dan AOW;2013;119.76;1.7;3376
+599;14000 Consumptie in het buitenland;Inkomen uit uitkeringen anders dan AOW;2014;120.58;0.7;3740

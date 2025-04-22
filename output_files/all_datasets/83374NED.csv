@@ -1,0 +1,169 @@
+﻿ID;UtiliteitsbouwDienstensector;Oppervlakteklasse;GemiddeldAardgasverbruik_1;GemiddeldElektriciteitsverbruik_2
+0;Detailhandel met koeling;0 tot 250 m²;18.7;231.8
+1;Detailhandel met koeling;250 tot 500 m²;17.2;174.8
+2;Detailhandel met koeling;500 tot 1 000 m²;13.7;243.6
+3;Detailhandel met koeling;1 000 tot 2 500 m²;11.1;279.7
+4;Detailhandel met koeling;2 500 tot 5 000 m²;7.3;201.8
+5;Detailhandel met koeling;5 000 tot 10 000 m²;;
+6;Detailhandel met koeling;10 000 tot 25 000 m²;;
+7;Detailhandel zonder koeling;0 tot 250 m²;17.0;105.2
+8;Detailhandel zonder koeling;250 tot 500 m²;11.9;84.8
+9;Detailhandel zonder koeling;500 tot 1 000 m²;8.8;70.6
+10;Detailhandel zonder koeling;1 000 tot 2 500 m²;6.9;76.1
+11;Detailhandel zonder koeling;2 500 tot 5 000 m²;6.2;70.0
+12;Detailhandel zonder koeling;5 000 tot 10 000 m²;5.8;64.7
+13;Detailhandel zonder koeling;10 000 tot 25 000 m²;6.4;74.1
+14;Groothandel met koeling;0 tot 250 m²;18.1;95.6
+15;Groothandel met koeling;250 tot 500 m²;12.3;83.8
+16;Groothandel met koeling;500 tot 1 000 m²;9.0;126.2
+17;Groothandel met koeling;1 000 tot 2 500 m²;8.2;178.9
+18;Groothandel met koeling;2 500 tot 5 000 m²;7.0;139.5
+19;Groothandel met koeling;5 000 tot 10 000 m²;;173.8
+20;Groothandel met koeling;10 000 tot 25 000 m²;;
+21;Groothandel zonder koeling;0 tot 250 m²;16.6;64.9
+22;Groothandel zonder koeling;250 tot 500 m²;11.9;50.9
+23;Groothandel zonder koeling;500 tot 1 000 m²;8.9;46.1
+24;Groothandel zonder koeling;1 000 tot 2 500 m²;7.3;47.3
+25;Groothandel zonder koeling;2 500 tot 5 000 m²;6.7;50.0
+26;Groothandel zonder koeling;5 000 tot 10 000 m²;6.0;53.7
+27;Groothandel zonder koeling;10 000 tot 25 000 m²;6.6;69.8
+28;Autobedrijf: showroom en garage;0 tot 250 m²;17.7;60.3
+29;Autobedrijf: showroom en garage;250 tot 500 m²;11.0;44.2
+30;Autobedrijf: showroom en garage;500 tot 1 000 m²;8.8;42.8
+31;Autobedrijf: showroom en garage;1 000 tot 2 500 m²;8.5;46.9
+32;Autobedrijf: showroom en garage;2 500 tot 5 000 m²;8.0;51.9
+33;Autobedrijf: showroom en garage;5 000 tot 10 000 m²;7.6;52.7
+34;Autobedrijf: showroom en garage;10 000 tot 25 000 m²;;
+35;Autobedrijf: autoschadeherstelbedrijven;0 tot 250 m²;16.3;61.7
+36;Autobedrijf: autoschadeherstelbedrijven;250 tot 500 m²;12.1;52.3
+37;Autobedrijf: autoschadeherstelbedrijven;500 tot 1 000 m²;12.1;53.0
+38;Autobedrijf: autoschadeherstelbedrijven;1 000 tot 2 500 m²;12.4;55.6
+39;Autobedrijf: autoschadeherstelbedrijven;2 500 tot 5 000 m²;9.2;52.9
+40;Autobedrijf: autoschadeherstelbedrijven;5 000 tot 10 000 m²;;
+41;Autobedrijf: autoschadeherstelbedrijven;10 000 tot 25 000 m²;;
+42;Horeca: café;0 tot 250 m²;22.4;146.0
+43;Horeca: café;250 tot 500 m²;17.4;117.5
+44;Horeca: café;500 tot 1 000 m²;14.4;90.8
+45;Horeca: café;1 000 tot 2 500 m²;10.9;73.2
+46;Horeca: café;2 500 tot 5 000 m²;;
+47;Horeca: café;5 000 tot 10 000 m²;;
+48;Horeca: café;10 000 tot 25 000 m²;;
+49;Horeca: restaurant;0 tot 250 m²;37.4;227.8
+50;Horeca: restaurant;250 tot 500 m²;33.1;184.2
+51;Horeca: restaurant;500 tot 1 000 m²;26.5;149.5
+52;Horeca: restaurant;1 000 tot 2 500 m²;21.3;127.3
+53;Horeca: restaurant;2 500 tot 5 000 m²;;
+54;Horeca: restaurant;5 000 tot 10 000 m²;;
+55;Horeca: restaurant;10 000 tot 25 000 m²;;
+56;Horeca: cafetaria;0 tot 250 m²;38.1;265.3
+57;Horeca: cafetaria;250 tot 500 m²;28.7;172.5
+58;Horeca: cafetaria;500 tot 1 000 m²;24.3;201.5
+59;Horeca: cafetaria;1 000 tot 2 500 m²;;179.4
+60;Horeca: cafetaria;2 500 tot 5 000 m²;;
+61;Horeca: cafetaria;5 000 tot 10 000 m²;;
+62;Horeca: cafetaria;10 000 tot 25 000 m²;;
+63;Horeca: hotels, motels;0 tot 250 m²;22.8;64.9
+64;Horeca: hotels, motels;250 tot 500 m²;22.6;71.5
+65;Horeca: hotels, motels;500 tot 1 000 m²;21.9;85.1
+66;Horeca: hotels, motels;1 000 tot 2 500 m²;21.3;97.6
+67;Horeca: hotels, motels;2 500 tot 5 000 m²;21.1;107.7
+68;Horeca: hotels, motels;5 000 tot 10 000 m²;22.0;112.1
+69;Horeca: hotels, motels;10 000 tot 25 000 m²;21.2;114.0
+70;Kantoor: overheid;0 tot 250 m²;20.9;60.0
+71;Kantoor: overheid;250 tot 500 m²;18.3;49.5
+72;Kantoor: overheid;500 tot 1 000 m²;16.2;51.0
+73;Kantoor: overheid;1 000 tot 2 500 m²;13.3;57.0
+74;Kantoor: overheid;2 500 tot 5 000 m²;11.0;85.2
+75;Kantoor: overheid;5 000 tot 10 000 m²;10.5;90.8
+76;Kantoor: overheid;10 000 tot 25 000 m²;11.6;84.1
+77;Kantoor: overig;0 tot 250 m²;17.3;57.2
+78;Kantoor: overig;250 tot 500 m²;15.0;50.8
+79;Kantoor: overig;500 tot 1 000 m²;12.8;54.9
+80;Kantoor: overig;1 000 tot 2 500 m²;10.9;66.3
+81;Kantoor: overig;2 500 tot 5 000 m²;10.7;76.1
+82;Kantoor: overig;5 000 tot 10 000 m²;10.6;75.8
+83;Kantoor: overig;10 000 tot 25 000 m²;10.9;90.9
+84;Onderwijs: primair;0 tot 250 m²;16.6;38.6
+85;Onderwijs: primair;250 tot 500 m²;18.7;34.4
+86;Onderwijs: primair;500 tot 1 000 m²;15.1;29.8
+87;Onderwijs: primair;1 000 tot 2 500 m²;12.0;27.6
+88;Onderwijs: primair;2 500 tot 5 000 m²;7.9;25.5
+89;Onderwijs: primair;5 000 tot 10 000 m²;4.7;21.0
+90;Onderwijs: primair;10 000 tot 25 000 m²;;
+91;Onderwijs: secundair;0 tot 250 m²;;
+92;Onderwijs: secundair;250 tot 500 m²;;36.3
+93;Onderwijs: secundair;500 tot 1 000 m²;18.2;40.6
+94;Onderwijs: secundair;1 000 tot 2 500 m²;14.8;40.0
+95;Onderwijs: secundair;2 500 tot 5 000 m²;11.8;43.4
+96;Onderwijs: secundair;5 000 tot 10 000 m²;10.1;41.7
+97;Onderwijs: secundair;10 000 tot 25 000 m²;7.5;33.4
+98;Onderwijs: MBO en praktijk;0 tot 250 m²;;
+99;Onderwijs: MBO en praktijk;250 tot 500 m²;;
+100;Onderwijs: MBO en praktijk;500 tot 1 000 m²;15.4;48.9
+101;Onderwijs: MBO en praktijk;1 000 tot 2 500 m²;14.0;49.3
+102;Onderwijs: MBO en praktijk;2 500 tot 5 000 m²;12.3;48.2
+103;Onderwijs: MBO en praktijk;5 000 tot 10 000 m²;10.5;49.4
+104;Onderwijs: MBO en praktijk;10 000 tot 25 000 m²;8.9;54.2
+105;Gezondheidszorg: bijeenkomst;0 tot 250 m²;17.6;43.9
+106;Gezondheidszorg: bijeenkomst;250 tot 500 m²;15.8;40.6
+107;Gezondheidszorg: bijeenkomst;500 tot 1 000 m²;14.3;40.8
+108;Gezondheidszorg: bijeenkomst;1 000 tot 2 500 m²;12.2;37.7
+109;Gezondheidszorg: bijeenkomst;2 500 tot 5 000 m²;9.2;31.4
+110;Gezondheidszorg: bijeenkomst;5 000 tot 10 000 m²;;
+111;Gezondheidszorg: bijeenkomst;10 000 tot 25 000 m²;;
+112;Gezondheidszorg: praktijk;0 tot 250 m²;17.4;59.8
+113;Gezondheidszorg: praktijk;250 tot 500 m²;14.8;51.9
+114;Gezondheidszorg: praktijk;500 tot 1 000 m²;13.0;53.5
+115;Gezondheidszorg: praktijk;1 000 tot 2 500 m²;12.4;58.4
+116;Gezondheidszorg: praktijk;2 500 tot 5 000 m²;12.0;71.5
+117;Gezondheidszorg: praktijk;5 000 tot 10 000 m²;;
+118;Gezondheidszorg: praktijk;10 000 tot 25 000 m²;;
+119;Gezondheidszorg: tehuis;0 tot 250 m²;18.5;49.6
+120;Gezondheidszorg: tehuis;250 tot 500 m²;19.2;57.1
+121;Gezondheidszorg: tehuis;500 tot 1 000 m²;17.3;54.8
+122;Gezondheidszorg: tehuis;1 000 tot 2 500 m²;15.9;57.4
+123;Gezondheidszorg: tehuis;2 500 tot 5 000 m²;18.1;66.0
+124;Gezondheidszorg: tehuis;5 000 tot 10 000 m²;19.6;66.5
+125;Gezondheidszorg: tehuis;10 000 tot 25 000 m²;17.3;56.4
+126;Recreatie: vereniging;0 tot 250 m²;17.9;48.5
+127;Recreatie: vereniging;250 tot 500 m²;14.4;36.5
+128;Recreatie: vereniging;500 tot 1 000 m²;11.2;30.5
+129;Recreatie: vereniging;1 000 tot 2 500 m²;9.1;30.3
+130;Recreatie: vereniging;2 500 tot 5 000 m²;;
+131;Recreatie: vereniging;5 000 tot 10 000 m²;;
+132;Recreatie: vereniging;10 000 tot 25 000 m²;;
+133;Recreatie: binnensport;0 tot 250 m²;17.4;54.9
+134;Recreatie: binnensport;250 tot 500 m²;16.7;42.6
+135;Recreatie: binnensport;500 tot 1 000 m²;13.2;52.6
+136;Recreatie: binnensport;1 000 tot 2 500 m²;11.4;59.0
+137;Recreatie: binnensport;2 500 tot 5 000 m²;9.6;55.1
+138;Recreatie: binnensport;5 000 tot 10 000 m²;10.5;58.2
+139;Recreatie: binnensport;10 000 tot 25 000 m²;;
+140;Recreatie: zwembad;0 tot 250 m²;62.3;173.7
+141;Recreatie: zwembad;250 tot 500 m²;48.7;141.4
+142;Recreatie: zwembad;500 tot 1 000 m²;48.6;138.9
+143;Recreatie: zwembad;1 000 tot 2 500 m²;52.1;153.5
+144;Recreatie: zwembad;2 500 tot 5 000 m²;55.6;132.2
+145;Recreatie: zwembad;5 000 tot 10 000 m²;;
+146;Recreatie: zwembad;10 000 tot 25 000 m²;;
+147;Recreatie: buitensport;0 tot 250 m²;16.8;87.4
+148;Recreatie: buitensport;250 tot 500 m²;15.9;79.8
+149;Recreatie: buitensport;500 tot 1 000 m²;14.0;65.0
+150;Recreatie: buitensport;1 000 tot 2 500 m²;9.7;51.4
+151;Recreatie: buitensport;2 500 tot 5 000 m²;5.3;31.4
+152;Recreatie: buitensport;5 000 tot 10 000 m²;;
+153;Recreatie: buitensport;10 000 tot 25 000 m²;;
+154;Overig: haar- en schoonheidsverzorging;0 tot 250 m²;20.2;79.0
+155;Overig: haar- en schoonheidsverzorging;250 tot 500 m²;13.8;49.9
+156;Overig: haar- en schoonheidsverzorging;500 tot 1 000 m²;11.3;41.4
+157;Overig: haar- en schoonheidsverzorging;1 000 tot 2 500 m²;;
+158;Overig: haar- en schoonheidsverzorging;2 500 tot 5 000 m²;;
+159;Overig: haar- en schoonheidsverzorging;5 000 tot 10 000 m²;;
+160;Overig: haar- en schoonheidsverzorging;10 000 tot 25 000 m²;;
+161;Overig: religie;0 tot 250 m²;18.4;25.4
+162;Overig: religie;250 tot 500 m²;15.7;19.8
+163;Overig: religie;500 tot 1 000 m²;13.6;18.0
+164;Overig: religie;1 000 tot 2 500 m²;10.1;17.2
+165;Overig: religie;2 500 tot 5 000 m²;6.1;19.3
+166;Overig: religie;5 000 tot 10 000 m²;;
+167;Overig: religie;10 000 tot 25 000 m²;;

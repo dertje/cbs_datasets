@@ -1,0 +1,2721 @@
+﻿ID;RegioS;AutochtonenAllochtonen;AantalPersonenMet52WekenInkomen_1;GemiddeldBesteedbaarInkomen_2
+0;Nederland;Totaal Herkomst (land);11404.4;18.6
+1;Nederland;Herkomst: Nederland;9488.1;18.9
+2;Nederland;Herkomst: Niet-Nederland;1916.3;17.2
+3;Nederland;Herkomst: Westers land;994.8;19.1
+4;Nederland;Herkomst: Niet-westers land;921.5;15.1
+5;Noord-Nederland (LD);Totaal Herkomst (land);1184.7;17.2
+6;Noord-Nederland (LD);Herkomst: Nederland;1089.1;17.3
+7;Noord-Nederland (LD);Herkomst: Niet-Nederland;95.6;16.1
+8;Noord-Nederland (LD);Herkomst: Westers land;64.6;17.2
+9;Noord-Nederland (LD);Herkomst: Niet-westers land;31.0;14.0
+10;Oost-Nederland (LD);Totaal Herkomst (land);2391.4;17.9
+11;Oost-Nederland (LD);Herkomst: Nederland;2073.1;18.2
+12;Oost-Nederland (LD);Herkomst: Niet-Nederland;318.3;16.3
+13;Oost-Nederland (LD);Herkomst: Westers land;181.5;17.8
+14;Oost-Nederland (LD);Herkomst: Niet-westers land;136.8;14.4
+15;West-Nederland (LD);Totaal Herkomst (land);5313.1;19.5
+16;West-Nederland (LD);Herkomst: Nederland;4184.7;19.9
+17;West-Nederland (LD);Herkomst: Niet-Nederland;1128.4;17.8
+18;West-Nederland (LD);Herkomst: Westers land;498.5;20.7
+19;West-Nederland (LD);Herkomst: Niet-westers land;629.9;15.5
+20;Zuid-Nederland (LD);Totaal Herkomst (land);2515.2;18.0
+21;Zuid-Nederland (LD);Herkomst: Nederland;2141.2;18.3
+22;Zuid-Nederland (LD);Herkomst: Niet-Nederland;374.0;16.3
+23;Zuid-Nederland (LD);Herkomst: Westers land;250.2;17.3
+24;Zuid-Nederland (LD);Herkomst: Niet-westers land;123.8;14.3
+25;Groningen (PV);Totaal Herkomst (land);399.7;16.9
+26;Groningen (PV);Herkomst: Nederland;359.4;17.0
+27;Groningen (PV);Herkomst: Niet-Nederland;40.3;16.1
+28;Groningen (PV);Herkomst: Westers land;25.6;17.2
+29;Groningen (PV);Herkomst: Niet-westers land;14.7;14.1
+30;Friesland (PV);Totaal Herkomst (land);443.2;17.2
+31;Friesland (PV);Herkomst: Nederland;413.2;17.4
+32;Friesland (PV);Herkomst: Niet-Nederland;30.0;15.8
+33;Friesland (PV);Herkomst: Westers land;20.1;16.8
+34;Friesland (PV);Herkomst: Niet-westers land;9.9;13.6
+35;Drenthe (PV);Totaal Herkomst (land);341.8;17.5
+36;Drenthe (PV);Herkomst: Nederland;316.4;17.6
+37;Drenthe (PV);Herkomst: Niet-Nederland;25.4;16.7
+38;Drenthe (PV);Herkomst: Westers land;18.9;17.5
+39;Drenthe (PV);Herkomst: Niet-westers land;6.4;14.5
+40;Overijssel (PV);Totaal Herkomst (land);771.7;17.4
+41;Overijssel (PV);Herkomst: Nederland;675.9;17.6
+42;Overijssel (PV);Herkomst: Niet-Nederland;95.8;15.6
+43;Overijssel (PV);Herkomst: Westers land;55.5;16.9
+44;Overijssel (PV);Herkomst: Niet-westers land;40.3;13.7
+45;Flevoland (PV);Totaal Herkomst (land);245.5;18.2
+46;Flevoland (PV);Herkomst: Nederland;191.2;18.6
+47;Flevoland (PV);Herkomst: Niet-Nederland;54.3;16.8
+48;Flevoland (PV);Herkomst: Westers land;19.9;18.4
+49;Flevoland (PV);Herkomst: Niet-westers land;34.4;15.9
+50;Gelderland (PV);Totaal Herkomst (land);1374.2;18.2
+51;Gelderland (PV);Herkomst: Nederland;1206.0;18.4
+52;Gelderland (PV);Herkomst: Niet-Nederland;168.2;16.6
+53;Gelderland (PV);Herkomst: Westers land;106.1;18.1
+54;Gelderland (PV);Herkomst: Niet-westers land;62.1;14.1
+55;Utrecht (PV);Totaal Herkomst (land);827.6;20.1
+56;Utrecht (PV);Herkomst: Nederland;687.4;20.5
+57;Utrecht (PV);Herkomst: Niet-Nederland;140.1;17.9
+58;Utrecht (PV);Herkomst: Westers land;68.7;20.6
+59;Utrecht (PV);Herkomst: Niet-westers land;71.5;15.3
+60;Noord-Holland (PV);Totaal Herkomst (land);1834.0;19.8
+61;Noord-Holland (PV);Herkomst: Nederland;1412.1;20.2
+62;Noord-Holland (PV);Herkomst: Niet-Nederland;421.9;18.2
+63;Noord-Holland (PV);Herkomst: Westers land;189.9;21.2
+64;Noord-Holland (PV);Herkomst: Niet-westers land;232.0;15.8
+65;Zuid-Holland (PV);Totaal Herkomst (land);2386.1;19.2
+66;Zuid-Holland (PV);Herkomst: Nederland;1853.3;19.7
+67;Zuid-Holland (PV);Herkomst: Niet-Nederland;532.8;17.5
+68;Zuid-Holland (PV);Herkomst: Westers land;214.4;20.8
+69;Zuid-Holland (PV);Herkomst: Niet-westers land;318.3;15.3
+70;Zeeland (PV);Totaal Herkomst (land);265.5;18.0
+71;Zeeland (PV);Herkomst: Nederland;231.9;18.2
+72;Zeeland (PV);Herkomst: Niet-Nederland;33.6;16.5
+73;Zeeland (PV);Herkomst: Westers land;25.4;17.2
+74;Zeeland (PV);Herkomst: Niet-westers land;8.1;14.1
+75;Noord-Brabant (PV);Totaal Herkomst (land);1710.8;18.4
+76;Noord-Brabant (PV);Herkomst: Nederland;1482.3;18.7
+77;Noord-Brabant (PV);Herkomst: Niet-Nederland;228.5;16.6
+78;Noord-Brabant (PV);Herkomst: Westers land;134.3;18.2
+79;Noord-Brabant (PV);Herkomst: Niet-westers land;94.1;14.5
+80;Limburg (PV);Totaal Herkomst (land);804.5;17.3
+81;Limburg (PV);Herkomst: Nederland;658.9;17.6
+82;Limburg (PV);Herkomst: Niet-Nederland;145.6;15.8
+83;Limburg (PV);Herkomst: Westers land;115.9;16.3
+84;Limburg (PV);Herkomst: Niet-westers land;29.7;13.8
+85;Oost-Groningen (CR);Totaal Herkomst (land);107.8;16.2
+86;Oost-Groningen (CR);Herkomst: Nederland;99.9;16.2
+87;Oost-Groningen (CR);Herkomst: Niet-Nederland;8.0;15.7
+88;Oost-Groningen (CR);Herkomst: Westers land;6.0;16.5
+89;Oost-Groningen (CR);Herkomst: Niet-westers land;2.0;13.5
+90;Delfzijl en omgeving (CR);Totaal Herkomst (land);35.0;17.1
+91;Delfzijl en omgeving (CR);Herkomst: Nederland;31.2;17.2
+92;Delfzijl en omgeving (CR);Herkomst: Niet-Nederland;3.8;15.6
+93;Delfzijl en omgeving (CR);Herkomst: Westers land;2.3;16.5
+94;Delfzijl en omgeving (CR);Herkomst: Niet-westers land;1.4;14.1
+95;Overig Groningen (CR);Totaal Herkomst (land);256.9;17.2
+96;Overig Groningen (CR);Herkomst: Nederland;228.3;17.3
+97;Overig Groningen (CR);Herkomst: Niet-Nederland;28.5;16.2
+98;Overig Groningen (CR);Herkomst: Westers land;17.2;17.5
+99;Overig Groningen (CR);Herkomst: Niet-westers land;11.3;14.2
+100;Noord-Friesland (CR);Totaal Herkomst (land);228.0;17.0
+101;Noord-Friesland (CR);Herkomst: Nederland;212.4;17.1
+102;Noord-Friesland (CR);Herkomst: Niet-Nederland;15.6;15.5
+103;Noord-Friesland (CR);Herkomst: Westers land;10.2;16.7
+104;Noord-Friesland (CR);Herkomst: Niet-westers land;5.5;13.4
+105;Zuidwest-Friesland (CR);Totaal Herkomst (land);71.9;17.7
+106;Zuidwest-Friesland (CR);Herkomst: Nederland;67.4;17.7
+107;Zuidwest-Friesland (CR);Herkomst: Niet-Nederland;4.5;16.2
+108;Zuidwest-Friesland (CR);Herkomst: Westers land;3.4;17.3
+109;Zuidwest-Friesland (CR);Herkomst: Niet-westers land;1.1;12.8
+110;Zuidoost-Friesland (CR);Totaal Herkomst (land);143.3;17.4
+111;Zuidoost-Friesland (CR);Herkomst: Nederland;133.5;17.5
+112;Zuidoost-Friesland (CR);Herkomst: Niet-Nederland;9.8;15.9
+113;Zuidoost-Friesland (CR);Herkomst: Westers land;6.6;16.8
+114;Zuidoost-Friesland (CR);Herkomst: Niet-westers land;3.3;14.1
+115;Noord-Drenthe (CR);Totaal Herkomst (land);130.6;18.3
+116;Noord-Drenthe (CR);Herkomst: Nederland;120.6;18.4
+117;Noord-Drenthe (CR);Herkomst: Niet-Nederland;9.9;18.0
+118;Noord-Drenthe (CR);Herkomst: Westers land;7.4;19.1
+119;Noord-Drenthe (CR);Herkomst: Niet-westers land;2.5;14.6
+120;Zuidoost-Drenthe (CR);Totaal Herkomst (land);120.8;16.7
+121;Zuidoost-Drenthe (CR);Herkomst: Nederland;111.5;16.8
+122;Zuidoost-Drenthe (CR);Herkomst: Niet-Nederland;9.4;15.4
+123;Zuidoost-Drenthe (CR);Herkomst: Westers land;7.2;15.9
+124;Zuidoost-Drenthe (CR);Herkomst: Niet-westers land;2.2;14.0
+125;Zuidwest-Drenthe (CR);Totaal Herkomst (land);90.4;17.4
+126;Zuidwest-Drenthe (CR);Herkomst: Nederland;84.3;17.5
+127;Zuidwest-Drenthe (CR);Herkomst: Niet-Nederland;6.1;16.7
+128;Zuidwest-Drenthe (CR);Herkomst: Westers land;4.3;17.5
+129;Zuidwest-Drenthe (CR);Herkomst: Niet-westers land;1.8;14.9
+130;Noord-Overijssel (CR);Totaal Herkomst (land);238.4;17.6
+131;Noord-Overijssel (CR);Herkomst: Nederland;219.6;17.7
+132;Noord-Overijssel (CR);Herkomst: Niet-Nederland;18.8;16.3
+133;Noord-Overijssel (CR);Herkomst: Westers land;10.6;18.1
+134;Noord-Overijssel (CR);Herkomst: Niet-westers land;8.1;13.9
+135;Zuidwest-Overijssel (CR);Totaal Herkomst (land);105.6;17.6
+136;Zuidwest-Overijssel (CR);Herkomst: Nederland;91.6;17.9
+137;Zuidwest-Overijssel (CR);Herkomst: Niet-Nederland;13.9;15.6
+138;Zuidwest-Overijssel (CR);Herkomst: Westers land;7.2;17.6
+139;Zuidwest-Overijssel (CR);Herkomst: Niet-westers land;6.8;13.5
+140;Twente (CR);Totaal Herkomst (land);427.8;17.1
+141;Twente (CR);Herkomst: Nederland;364.7;17.5
+142;Twente (CR);Herkomst: Niet-Nederland;63.1;15.4
+143;Twente (CR);Herkomst: Westers land;37.7;16.5
+144;Twente (CR);Herkomst: Niet-westers land;25.4;13.6
+145;Veluwe (CR);Totaal Herkomst (land);441.2;18.6
+146;Veluwe (CR);Herkomst: Nederland;396.1;18.8
+147;Veluwe (CR);Herkomst: Niet-Nederland;45.1;17.1
+148;Veluwe (CR);Herkomst: Westers land;27.8;18.8
+149;Veluwe (CR);Herkomst: Niet-westers land;17.3;14.3
+150;Achterhoek (CR);Totaal Herkomst (land);282.8;17.6
+151;Achterhoek (CR);Herkomst: Nederland;255.3;17.8
+152;Achterhoek (CR);Herkomst: Niet-Nederland;27.5;16.0
+153;Achterhoek (CR);Herkomst: Westers land;19.7;16.8
+154;Achterhoek (CR);Herkomst: Niet-westers land;7.9;13.9
+155;Arnhem/Nijmegen (CR);Totaal Herkomst (land);493.7;18.0
+156;Arnhem/Nijmegen (CR);Herkomst: Nederland;413.4;18.3
+157;Arnhem/Nijmegen (CR);Herkomst: Niet-Nederland;80.2;16.4
+158;Arnhem/Nijmegen (CR);Herkomst: Westers land;49.5;17.9
+159;Arnhem/Nijmegen (CR);Herkomst: Niet-westers land;30.8;14.0
+160;Zuidwest-Gelderland (CR);Totaal Herkomst (land);156.5;19.0
+161;Zuidwest-Gelderland (CR);Herkomst: Nederland;141.2;19.2
+162;Zuidwest-Gelderland (CR);Herkomst: Niet-Nederland;15.3;17.4
+163;Zuidwest-Gelderland (CR);Herkomst: Westers land;9.2;19.2
+164;Zuidwest-Gelderland (CR);Herkomst: Niet-westers land;6.1;14.7
+165;Utrecht (CR);Totaal Herkomst (land);827.6;20.1
+166;Utrecht (CR);Herkomst: Nederland;687.4;20.5
+167;Utrecht (CR);Herkomst: Niet-Nederland;140.1;17.9
+168;Utrecht (CR);Herkomst: Westers land;68.7;20.6
+169;Utrecht (CR);Herkomst: Niet-westers land;71.5;15.3
+170;Kop van Noord-Holland (CR);Totaal Herkomst (land);255.2;18.4
+171;Kop van Noord-Holland (CR);Herkomst: Nederland;227.4;18.5
+172;Kop van Noord-Holland (CR);Herkomst: Niet-Nederland;27.8;16.8
+173;Kop van Noord-Holland (CR);Herkomst: Westers land;17.0;18.1
+174;Kop van Noord-Holland (CR);Herkomst: Niet-westers land;10.8;14.8
+175;Alkmaar en omgeving (CR);Totaal Herkomst (land);162.1;19.1
+176;Alkmaar en omgeving (CR);Herkomst: Nederland;138.6;19.4
+177;Alkmaar en omgeving (CR);Herkomst: Niet-Nederland;23.4;17.1
+178;Alkmaar en omgeving (CR);Herkomst: Westers land;13.2;19.2
+179;Alkmaar en omgeving (CR);Herkomst: Niet-westers land;10.3;14.5
+180;IJmond (CR);Totaal Herkomst (land);133.9;19.3
+181;IJmond (CR);Herkomst: Nederland;116.1;19.6
+182;IJmond (CR);Herkomst: Niet-Nederland;17.7;17.7
+183;IJmond (CR);Herkomst: Westers land;11.3;19.2
+184;IJmond (CR);Herkomst: Niet-westers land;6.4;15.2
+185;Agglomeratie Haarlem (CR);Totaal Herkomst (land);155.8;21.1
+186;Agglomeratie Haarlem (CR);Herkomst: Nederland;127.2;21.4
+187;Agglomeratie Haarlem (CR);Herkomst: Niet-Nederland;28.6;19.9
+188;Agglomeratie Haarlem (CR);Herkomst: Westers land;16.5;23.0
+189;Agglomeratie Haarlem (CR);Herkomst: Niet-westers land;12.1;15.6
+190;Zaanstreek (CR);Totaal Herkomst (land);111.4;18.2
+191;Zaanstreek (CR);Herkomst: Nederland;88.5;18.6
+192;Zaanstreek (CR);Herkomst: Niet-Nederland;22.9;16.4
+193;Zaanstreek (CR);Herkomst: Westers land;9.6;18.3
+194;Zaanstreek (CR);Herkomst: Niet-westers land;13.2;15.0
+195;Groot-Amsterdam (CR);Totaal Herkomst (land);845.3;19.8
+196;Groot-Amsterdam (CR);Herkomst: Nederland;571.8;20.7
+197;Groot-Amsterdam (CR);Herkomst: Niet-Nederland;273.5;18.1
+198;Groot-Amsterdam (CR);Herkomst: Westers land;104.1;21.6
+199;Groot-Amsterdam (CR);Herkomst: Niet-westers land;169.5;15.9
+200;Het Gooi en Vechtstreek (CR);Totaal Herkomst (land);170.3;22.5
+201;Het Gooi en Vechtstreek (CR);Herkomst: Nederland;142.4;22.6
+202;Het Gooi en Vechtstreek (CR);Herkomst: Niet-Nederland;27.9;21.7
+203;Het Gooi en Vechtstreek (CR);Herkomst: Westers land;18.2;24.6
+204;Het Gooi en Vechtstreek (CR);Herkomst: Niet-westers land;9.7;16.4
+205;Agglomeratie Leiden en Bollenstreek (CR);Totaal Herkomst (land);270.2;20.0
+206;Agglomeratie Leiden en Bollenstreek (CR);Herkomst: Nederland;233.2;20.0
+207;Agglomeratie Leiden en Bollenstreek (CR);Herkomst: Niet-Nederland;37.0;19.6
+208;Agglomeratie Leiden en Bollenstreek (CR);Herkomst: Westers land;22.3;22.1
+209;Agglomeratie Leiden en Bollenstreek (CR);Herkomst: Niet-westers land;14.7;15.7
+210;Agglomeratie 's-Gravenhage (CR);Totaal Herkomst (land);535.8;20.0
+211;Agglomeratie 's-Gravenhage (CR);Herkomst: Nederland;365.8;20.6
+212;Agglomeratie 's-Gravenhage (CR);Herkomst: Niet-Nederland;170.0;18.7
+213;Agglomeratie 's-Gravenhage (CR);Herkomst: Westers land;66.3;23.3
+214;Agglomeratie 's-Gravenhage (CR);Herkomst: Niet-westers land;103.6;15.8
+215;Delft en Westland (CR);Totaal Herkomst (land);148.4;18.6
+216;Delft en Westland (CR);Herkomst: Nederland;127.6;18.9
+217;Delft en Westland (CR);Herkomst: Niet-Nederland;20.8;17.2
+218;Delft en Westland (CR);Herkomst: Westers land;10.7;19.5
+219;Delft en Westland (CR);Herkomst: Niet-westers land;10.1;14.8
+220;Oost-Zuid-Holland (CR);Totaal Herkomst (land);221.9;19.7
+221;Oost-Zuid-Holland (CR);Herkomst: Nederland;194.0;20.0
+222;Oost-Zuid-Holland (CR);Herkomst: Niet-Nederland;27.9;17.7
+223;Oost-Zuid-Holland (CR);Herkomst: Westers land;15.0;20.0
+224;Oost-Zuid-Holland (CR);Herkomst: Niet-westers land;12.9;15.0
+225;Groot-Rijnmond (CR);Totaal Herkomst (land);941.9;18.7
+226;Groot-Rijnmond (CR);Herkomst: Nederland;705.3;19.4
+227;Groot-Rijnmond (CR);Herkomst: Niet-Nederland;236.6;16.5
+228;Groot-Rijnmond (CR);Herkomst: Westers land;79.9;19.2
+229;Groot-Rijnmond (CR);Herkomst: Niet-westers land;156.7;15.2
+230;Zuidoost-Zuid-Holland (CR);Totaal Herkomst (land);267.8;18.7
+231;Zuidoost-Zuid-Holland (CR);Herkomst: Nederland;227.3;19.0
+232;Zuidoost-Zuid-Holland (CR);Herkomst: Niet-Nederland;40.5;16.5
+233;Zuidoost-Zuid-Holland (CR);Herkomst: Westers land;20.2;18.4
+234;Zuidoost-Zuid-Holland (CR);Herkomst: Niet-westers land;20.4;14.7
+235;Zeeuwsch-Vlaanderen (CR);Totaal Herkomst (land);75.1;18.0
+236;Zeeuwsch-Vlaanderen (CR);Herkomst: Nederland;61.1;18.3
+237;Zeeuwsch-Vlaanderen (CR);Herkomst: Niet-Nederland;14.0;16.4
+238;Zeeuwsch-Vlaanderen (CR);Herkomst: Westers land;12.0;16.9
+239;Zeeuwsch-Vlaanderen (CR);Herkomst: Niet-westers land;2.0;13.8
+240;Overig Zeeland (CR);Totaal Herkomst (land);190.4;18.0
+241;Overig Zeeland (CR);Herkomst: Nederland;170.8;18.2
+242;Overig Zeeland (CR);Herkomst: Niet-Nederland;19.6;16.5
+243;Overig Zeeland (CR);Herkomst: Westers land;13.5;17.5
+244;Overig Zeeland (CR);Herkomst: Niet-westers land;6.1;14.2
+245;West-Noord-Brabant (CR);Totaal Herkomst (land);430.5;18.4
+246;West-Noord-Brabant (CR);Herkomst: Nederland;369.5;18.7
+247;West-Noord-Brabant (CR);Herkomst: Niet-Nederland;61.0;16.6
+248;West-Noord-Brabant (CR);Herkomst: Westers land;35.8;18.1
+249;West-Noord-Brabant (CR);Herkomst: Niet-westers land;25.2;14.4
+250;Midden-Noord-Brabant (CR);Totaal Herkomst (land);320.9;17.9
+251;Midden-Noord-Brabant (CR);Herkomst: Nederland;278.6;18.2
+252;Midden-Noord-Brabant (CR);Herkomst: Niet-Nederland;42.3;16.0
+253;Midden-Noord-Brabant (CR);Herkomst: Westers land;23.2;17.5
+254;Midden-Noord-Brabant (CR);Herkomst: Niet-westers land;19.1;14.1
+255;Noordoost-Noord-Brabant (CR);Totaal Herkomst (land);445.0;18.5
+256;Noordoost-Noord-Brabant (CR);Herkomst: Nederland;393.6;18.8
+257;Noordoost-Noord-Brabant (CR);Herkomst: Niet-Nederland;51.5;16.6
+258;Noordoost-Noord-Brabant (CR);Herkomst: Westers land;30.6;18.2
+259;Noordoost-Noord-Brabant (CR);Herkomst: Niet-westers land;20.9;14.2
+260;Zuidoost-Noord-Brabant (CR);Totaal Herkomst (land);514.3;18.5
+261;Zuidoost-Noord-Brabant (CR);Herkomst: Nederland;440.6;18.8
+262;Zuidoost-Noord-Brabant (CR);Herkomst: Niet-Nederland;73.7;17.1
+263;Zuidoost-Noord-Brabant (CR);Herkomst: Westers land;44.8;18.5
+264;Zuidoost-Noord-Brabant (CR);Herkomst: Niet-westers land;29.0;15.0
+265;Noord-Limburg (CR);Totaal Herkomst (land);199.0;17.2
+266;Noord-Limburg (CR);Herkomst: Nederland;168.8;17.5
+267;Noord-Limburg (CR);Herkomst: Niet-Nederland;30.2;15.5
+268;Noord-Limburg (CR);Herkomst: Westers land;21.1;16.1
+269;Noord-Limburg (CR);Herkomst: Niet-westers land;9.0;14.2
+270;Midden-Limburg (CR);Totaal Herkomst (land);166.6;17.6
+271;Midden-Limburg (CR);Herkomst: Nederland;140.8;17.9
+272;Midden-Limburg (CR);Herkomst: Niet-Nederland;25.7;16.1
+273;Midden-Limburg (CR);Herkomst: Westers land;19.4;16.6
+274;Midden-Limburg (CR);Herkomst: Niet-westers land;6.3;14.4
+275;Zuid-Limburg (CR);Totaal Herkomst (land);439.0;17.1
+276;Zuid-Limburg (CR);Herkomst: Nederland;349.3;17.5
+277;Zuid-Limburg (CR);Herkomst: Niet-Nederland;89.7;15.8
+278;Zuid-Limburg (CR);Herkomst: Westers land;75.3;16.3
+279;Zuid-Limburg (CR);Herkomst: Niet-westers land;14.3;13.2
+280;Flevoland (CR);Totaal Herkomst (land);245.5;18.2
+281;Flevoland (CR);Herkomst: Nederland;191.2;18.6
+282;Flevoland (CR);Herkomst: Niet-Nederland;54.3;16.8
+283;Flevoland (CR);Herkomst: Westers land;19.9;18.4
+284;Flevoland (CR);Herkomst: Niet-westers land;34.4;15.9
+285;Groningen (GA);Totaal Herkomst (land);142.8;17.0
+286;Groningen (GA);Herkomst: Nederland;121.8;17.2
+287;Groningen (GA);Herkomst: Niet-Nederland;21.1;16.0
+288;Groningen (GA);Herkomst: Westers land;12.4;17.3
+289;Groningen (GA);Herkomst: Niet-westers land;8.7;14.2
+290;Leeuwarden (GA);Totaal Herkomst (land);66.0;16.7
+291;Leeuwarden (GA);Herkomst: Nederland;57.5;16.9
+292;Leeuwarden (GA);Herkomst: Niet-Nederland;8.5;15.1
+293;Leeuwarden (GA);Herkomst: Westers land;4.6;16.7
+294;Leeuwarden (GA);Herkomst: Niet-westers land;4.0;13.3
+295;Zwolle (GA);Totaal Herkomst (land);82.2;17.9
+296;Zwolle (GA);Herkomst: Nederland;71.1;18.2
+297;Zwolle (GA);Herkomst: Niet-Nederland;11.1;16.1
+298;Zwolle (GA);Herkomst: Westers land;5.5;18.3
+299;Zwolle (GA);Herkomst: Niet-westers land;5.6;13.9
+300;Enschede (GA);Totaal Herkomst (land);106.6;16.2
+301;Enschede (GA);Herkomst: Nederland;81.9;16.6
+302;Enschede (GA);Herkomst: Niet-Nederland;24.6;14.7
+303;Enschede (GA);Herkomst: Westers land;13.7;15.6
+304;Enschede (GA);Herkomst: Niet-westers land;11.0;13.6
+305;Apeldoorn (GA);Totaal Herkomst (land);110.8;18.5
+306;Apeldoorn (GA);Herkomst: Nederland;95.9;18.7
+307;Apeldoorn (GA);Herkomst: Niet-Nederland;14.9;17.1
+308;Apeldoorn (GA);Herkomst: Westers land;9.1;18.9
+309;Apeldoorn (GA);Herkomst: Niet-westers land;5.8;14.3
+310;Arnhem (GA);Totaal Herkomst (land);102.7;17.6
+311;Arnhem (GA);Herkomst: Nederland;77.0;18.3
+312;Arnhem (GA);Herkomst: Niet-Nederland;25.6;15.5
+313;Arnhem (GA);Herkomst: Westers land;12.2;17.6
+314;Arnhem (GA);Herkomst: Niet-westers land;13.5;13.6
+315;Nijmegen (GA);Totaal Herkomst (land);115.4;17.1
+316;Nijmegen (GA);Herkomst: Nederland;92.2;17.5
+317;Nijmegen (GA);Herkomst: Niet-Nederland;23.1;15.7
+318;Nijmegen (GA);Herkomst: Westers land;13.1;17.0
+319;Nijmegen (GA);Herkomst: Niet-westers land;10.0;13.9
+320;Amersfoort (GA);Totaal Herkomst (land);114.1;20.4
+321;Amersfoort (GA);Herkomst: Nederland;93.7;20.8
+322;Amersfoort (GA);Herkomst: Niet-Nederland;20.3;18.5
+323;Amersfoort (GA);Herkomst: Westers land;10.3;21.0
+324;Amersfoort (GA);Herkomst: Niet-westers land;10.0;15.8
+325;Utrecht (GA);Totaal Herkomst (land);301.3;18.9
+326;Utrecht (GA);Herkomst: Nederland;231.2;19.6
+327;Utrecht (GA);Herkomst: Niet-Nederland;70.1;16.5
+328;Utrecht (GA);Herkomst: Westers land;28.2;18.9
+329;Utrecht (GA);Herkomst: Niet-westers land;41.9;14.9
+330;Amsterdam (GA);Totaal Herkomst (land);713.1;19.5
+331;Amsterdam (GA);Herkomst: Nederland;455.5;20.4
+332;Amsterdam (GA);Herkomst: Niet-Nederland;257.6;17.8
+333;Amsterdam (GA);Herkomst: Westers land;92.7;21.4
+334;Amsterdam (GA);Herkomst: Niet-westers land;165.0;15.7
+335;Haarlem (GA);Totaal Herkomst (land);136.1;21.1
+336;Haarlem (GA);Herkomst: Nederland;110.4;21.4
+337;Haarlem (GA);Herkomst: Niet-Nederland;25.7;19.9
+338;Haarlem (GA);Herkomst: Westers land;14.4;23.3
+339;Haarlem (GA);Herkomst: Niet-westers land;11.3;15.5
+340;Leiden (GA);Totaal Herkomst (land);171.8;20.0
+341;Leiden (GA);Herkomst: Nederland;144.0;20.0
+342;Leiden (GA);Herkomst: Niet-Nederland;27.8;19.5
+343;Leiden (GA);Herkomst: Westers land;15.7;22.4
+344;Leiden (GA);Herkomst: Niet-westers land;12.1;15.8
+345;'s-Gravenhage (GA);Totaal Herkomst (land);424.4;20.0
+346;'s-Gravenhage (GA);Herkomst: Nederland;278.3;20.7
+347;'s-Gravenhage (GA);Herkomst: Niet-Nederland;146.2;18.8
+348;'s-Gravenhage (GA);Herkomst: Westers land;54.7;23.9
+349;'s-Gravenhage (GA);Herkomst: Niet-westers land;91.4;15.7
+350;Rotterdam (GA);Totaal Herkomst (land);683.4;18.1
+351;Rotterdam (GA);Herkomst: Nederland;471.2;19.0
+352;Rotterdam (GA);Herkomst: Niet-Nederland;212.2;16.2
+353;Rotterdam (GA);Herkomst: Westers land;63.8;18.7
+354;Rotterdam (GA);Herkomst: Niet-westers land;148.4;15.1
+355;Dordrecht (GA);Totaal Herkomst (land);163.8;18.5
+356;Dordrecht (GA);Herkomst: Nederland;135.6;18.9
+357;Dordrecht (GA);Herkomst: Niet-Nederland;28.2;16.5
+358;Dordrecht (GA);Herkomst: Westers land;13.4;18.2
+359;Dordrecht (GA);Herkomst: Niet-westers land;14.7;14.9
+360;Breda (GA);Totaal Herkomst (land);121.1;18.9
+361;Breda (GA);Herkomst: Nederland;99.4;19.4
+362;Breda (GA);Herkomst: Niet-Nederland;21.7;17.0
+363;Breda (GA);Herkomst: Westers land;12.2;18.8
+364;Breda (GA);Herkomst: Niet-westers land;9.5;14.6
+365;Tilburg (GA);Totaal Herkomst (land);160.6;17.2
+366;Tilburg (GA);Herkomst: Nederland;132.5;17.6
+367;Tilburg (GA);Herkomst: Niet-Nederland;28.1;15.6
+368;Tilburg (GA);Herkomst: Westers land;13.3;17.3
+369;Tilburg (GA);Herkomst: Niet-westers land;14.8;14.1
+370;'s-Hertogenbosch (GA);Totaal Herkomst (land);116.1;19.2
+371;'s-Hertogenbosch (GA);Herkomst: Nederland;97.5;19.7
+372;'s-Hertogenbosch (GA);Herkomst: Niet-Nederland;18.6;16.6
+373;'s-Hertogenbosch (GA);Herkomst: Westers land;10.5;18.6
+374;'s-Hertogenbosch (GA);Herkomst: Niet-westers land;8.1;14.1
+375;Eindhoven (GA);Totaal Herkomst (land);230.7;18.6
+376;Eindhoven (GA);Herkomst: Nederland;186.1;19.0
+377;Eindhoven (GA);Herkomst: Niet-Nederland;44.6;17.3
+378;Eindhoven (GA);Herkomst: Westers land;24.2;19.1
+379;Eindhoven (GA);Herkomst: Niet-westers land;20.4;15.3
+380;Geleen/Sittard (GA);Totaal Herkomst (land);99.3;17.7
+381;Geleen/Sittard (GA);Herkomst: Nederland;80.7;18.0
+382;Geleen/Sittard (GA);Herkomst: Niet-Nederland;18.5;16.3
+383;Geleen/Sittard (GA);Herkomst: Westers land;15.1;16.9
+384;Geleen/Sittard (GA);Herkomst: Niet-westers land;3.5;13.6
+385;Heerlen (GA);Totaal Herkomst (land);149.7;16.2
+386;Heerlen (GA);Herkomst: Nederland;110.2;16.6
+387;Heerlen (GA);Herkomst: Niet-Nederland;39.5;15.2
+388;Heerlen (GA);Herkomst: Westers land;34.1;15.6
+389;Heerlen (GA);Herkomst: Niet-westers land;5.4;12.8
+390;Maastricht (GA);Totaal Herkomst (land);85.5;16.9
+391;Maastricht (GA);Herkomst: Nederland;69.3;17.2
+392;Maastricht (GA);Herkomst: Niet-Nederland;16.1;15.7
+393;Maastricht (GA);Herkomst: Westers land;12.0;16.6
+394;Maastricht (GA);Herkomst: Niet-westers land;4.1;13.2
+395;Groningen (SG);Totaal Herkomst (land);240.3;17.7
+396;Groningen (SG);Herkomst: Nederland;214.1;17.8
+397;Groningen (SG);Herkomst: Niet-Nederland;26.2;16.6
+398;Groningen (SG);Herkomst: Westers land;16.6;17.9
+399;Groningen (SG);Herkomst: Niet-westers land;9.6;14.4
+400;Leeuwarden (SG);Totaal Herkomst (land);112.2;17.1
+401;Leeuwarden (SG);Herkomst: Nederland;101.7;17.2
+402;Leeuwarden (SG);Herkomst: Niet-Nederland;10.5;15.5
+403;Leeuwarden (SG);Herkomst: Westers land;6.1;17.0
+404;Leeuwarden (SG);Herkomst: Niet-westers land;4.4;13.4
+405;Zwolle (SG);Totaal Herkomst (land);120.8;18.2
+406;Zwolle (SG);Herkomst: Nederland;108.2;18.4
+407;Zwolle (SG);Herkomst: Niet-Nederland;12.6;16.6
+408;Zwolle (SG);Herkomst: Westers land;6.6;18.9
+409;Zwolle (SG);Herkomst: Niet-westers land;6.0;14.1
+410;Enschede (SG);Totaal Herkomst (land);216.4;16.9
+411;Enschede (SG);Herkomst: Nederland;174.2;17.3
+412;Enschede (SG);Herkomst: Niet-Nederland;42.1;15.1
+413;Enschede (SG);Herkomst: Westers land;24.7;16.2
+414;Enschede (SG);Herkomst: Niet-westers land;17.4;13.6
+415;Apeldoorn (SG);Totaal Herkomst (land);150.8;18.4
+416;Apeldoorn (SG);Herkomst: Nederland;132.3;18.6
+417;Apeldoorn (SG);Herkomst: Niet-Nederland;18.6;17.2
+418;Apeldoorn (SG);Herkomst: Westers land;11.7;18.8
+419;Apeldoorn (SG);Herkomst: Niet-westers land;6.8;14.3
+420;Arnhem (SG);Totaal Herkomst (land);246.4;18.3
+421;Arnhem (SG);Herkomst: Nederland;204.7;18.7
+422;Arnhem (SG);Herkomst: Niet-Nederland;41.7;16.5
+423;Arnhem (SG);Herkomst: Westers land;24.6;18.3
+424;Arnhem (SG);Herkomst: Niet-westers land;17.1;13.9
+425;Nijmegen (SG);Totaal Herkomst (land);197.6;17.8
+426;Nijmegen (SG);Herkomst: Nederland;165.6;18.1
+427;Nijmegen (SG);Herkomst: Niet-Nederland;32.0;16.3
+428;Nijmegen (SG);Herkomst: Westers land;20.1;17.7
+429;Nijmegen (SG);Herkomst: Niet-westers land;11.9;14.1
+430;Amersfoort (SG);Totaal Herkomst (land);185.4;20.1
+431;Amersfoort (SG);Herkomst: Nederland;157.0;20.5
+432;Amersfoort (SG);Herkomst: Niet-Nederland;28.4;18.3
+433;Amersfoort (SG);Herkomst: Westers land;14.8;20.7
+434;Amersfoort (SG);Herkomst: Niet-westers land;13.7;15.6
+435;Utrecht (SG);Totaal Herkomst (land);413.4;19.7
+436;Utrecht (SG);Herkomst: Nederland;327.3;20.4
+437;Utrecht (SG);Herkomst: Niet-Nederland;86.1;17.2
+438;Utrecht (SG);Herkomst: Westers land;38.0;20.0
+439;Utrecht (SG);Herkomst: Niet-westers land;48.0;15.1
+440;Amsterdam (SG);Totaal Herkomst (land);1018.9;19.5
+441;Amsterdam (SG);Herkomst: Nederland;691.0;20.3
+442;Amsterdam (SG);Herkomst: Niet-Nederland;327.9;17.9
+443;Amsterdam (SG);Herkomst: Westers land;121.9;21.1
+444;Amsterdam (SG);Herkomst: Niet-westers land;206.0;15.9
+445;Haarlem (SG);Totaal Herkomst (land);289.7;20.3
+446;Haarlem (SG);Herkomst: Nederland;243.3;20.5
+447;Haarlem (SG);Herkomst: Niet-Nederland;46.4;19.1
+448;Haarlem (SG);Herkomst: Westers land;27.8;21.4
+449;Haarlem (SG);Herkomst: Niet-westers land;18.5;15.5
+450;Leiden (SG);Totaal Herkomst (land);229.7;20.1
+451;Leiden (SG);Herkomst: Nederland;196.1;20.2
+452;Leiden (SG);Herkomst: Niet-Nederland;33.6;19.7
+453;Leiden (SG);Herkomst: Westers land;19.9;22.4
+454;Leiden (SG);Herkomst: Niet-westers land;13.7;15.8
+455;'s-Gravenhage (SG);Totaal Herkomst (land);684.2;19.7
+456;'s-Gravenhage (SG);Herkomst: Nederland;493.5;20.2
+457;'s-Gravenhage (SG);Herkomst: Niet-Nederland;190.7;18.6
+458;'s-Gravenhage (SG);Herkomst: Westers land;77.0;22.8
+459;'s-Gravenhage (SG);Herkomst: Niet-westers land;113.7;15.7
+460;Rotterdam (SG);Totaal Herkomst (land);812.7;18.4
+461;Rotterdam (SG);Herkomst: Nederland;585.5;19.2
+462;Rotterdam (SG);Herkomst: Niet-Nederland;227.3;16.4
+463;Rotterdam (SG);Herkomst: Westers land;73.5;19.0
+464;Rotterdam (SG);Herkomst: Niet-westers land;153.8;15.1
+465;Dordrecht (SG);Totaal Herkomst (land);192.7;18.6
+466;Dordrecht (SG);Herkomst: Nederland;161.2;19.0
+467;Dordrecht (SG);Herkomst: Niet-Nederland;31.5;16.6
+468;Dordrecht (SG);Herkomst: Westers land;15.5;18.4
+469;Dordrecht (SG);Herkomst: Niet-westers land;16.0;15.0
+470;Breda (SG);Totaal Herkomst (land);221.4;18.7
+471;Breda (SG);Herkomst: Nederland;187.4;19.1
+472;Breda (SG);Herkomst: Niet-Nederland;34.0;16.8
+473;Breda (SG);Herkomst: Westers land;20.1;18.3
+474;Breda (SG);Herkomst: Niet-westers land;13.8;14.6
+475;Tilburg (SG);Totaal Herkomst (land);207.3;17.6
+476;Tilburg (SG);Herkomst: Nederland;175.2;18.0
+477;Tilburg (SG);Herkomst: Niet-Nederland;32.1;15.8
+478;Tilburg (SG);Herkomst: Westers land;16.1;17.5
+479;Tilburg (SG);Herkomst: Niet-westers land;16.0;14.0
+480;'s-Hertogenbosch (SG);Totaal Herkomst (land);135.6;19.2
+481;'s-Hertogenbosch (SG);Herkomst: Nederland;115.8;19.6
+482;'s-Hertogenbosch (SG);Herkomst: Niet-Nederland;19.8;17.0
+483;'s-Hertogenbosch (SG);Herkomst: Westers land;11.4;19.1
+484;'s-Hertogenbosch (SG);Herkomst: Niet-westers land;8.4;14.1
+485;Eindhoven (SG);Totaal Herkomst (land);288.5;18.9
+486;Eindhoven (SG);Herkomst: Nederland;237.5;19.2
+487;Eindhoven (SG);Herkomst: Niet-Nederland;51.0;17.4
+488;Eindhoven (SG);Herkomst: Westers land;29.1;19.1
+489;Eindhoven (SG);Herkomst: Niet-westers land;21.9;15.2
+490;Geleen/Sittard (SG);Totaal Herkomst (land);108.8;17.8
+491;Geleen/Sittard (SG);Herkomst: Nederland;88.8;18.1
+492;Geleen/Sittard (SG);Herkomst: Niet-Nederland;20.1;16.4
+493;Geleen/Sittard (SG);Herkomst: Westers land;16.5;17.0
+494;Geleen/Sittard (SG);Herkomst: Niet-westers land;3.5;13.6
+495;Heerlen (SG);Totaal Herkomst (land);184.1;16.6
+496;Heerlen (SG);Herkomst: Nederland;139.2;16.9
+497;Heerlen (SG);Herkomst: Niet-Nederland;44.8;15.4
+498;Heerlen (SG);Herkomst: Westers land;39.0;15.8
+499;Heerlen (SG);Herkomst: Niet-westers land;5.8;12.9
+500;Maastricht (SG);Totaal Herkomst (land);129.6;17.4
+501;Maastricht (SG);Herkomst: Nederland;108.5;17.7
+502;Maastricht (SG);Herkomst: Niet-Nederland;21.1;16.1
+503;Maastricht (SG);Herkomst: Westers land;16.5;16.9
+504;Maastricht (SG);Herkomst: Niet-westers land;4.7;13.2
+505;Aa en Hunze;Totaal Herkomst (land);18.1;18.6
+506;Aa en Hunze;Herkomst: Nederland;17.3;18.5
+507;Aa en Hunze;Herkomst: Niet-Nederland;0.8;19.8
+508;Aa en Hunze;Herkomst: Westers land;0.7;20.8
+509;Aa en Hunze;Herkomst: Niet-westers land;;
+510;Aalburg;Totaal Herkomst (land);7.8;19.4
+511;Aalburg;Herkomst: Nederland;7.6;19.4
+512;Aalburg;Herkomst: Niet-Nederland;0.2;19.3
+513;Aalburg;Herkomst: Westers land;0.2;21.0
+514;Aalburg;Herkomst: Niet-westers land;;
+515;Aalsmeer;Totaal Herkomst (land);17.8;20.3
+516;Aalsmeer;Herkomst: Nederland;16.0;20.3
+517;Aalsmeer;Herkomst: Niet-Nederland;1.9;21.1
+518;Aalsmeer;Herkomst: Westers land;1.3;22.7
+519;Aalsmeer;Herkomst: Niet-westers land;0.6;17.3
+520;Aalten;Totaal Herkomst (land);19.1;16.5
+521;Aalten;Herkomst: Nederland;17.2;16.7
+522;Aalten;Herkomst: Niet-Nederland;2.0;14.8
+523;Aalten;Herkomst: Westers land;1.6;15.1
+524;Aalten;Herkomst: Niet-westers land;0.3;13.7
+525;Abcoude;Totaal Herkomst (land);5.8;27.5
+526;Abcoude;Herkomst: Nederland;5.0;27.0
+527;Abcoude;Herkomst: Niet-Nederland;0.8;31.1
+528;Abcoude;Herkomst: Westers land;0.6;31.0
+529;Abcoude;Herkomst: Niet-westers land;0.2;31.4
+530;Achtkarspelen;Totaal Herkomst (land);18.8;16.7
+531;Achtkarspelen;Herkomst: Nederland;18.4;16.7
+532;Achtkarspelen;Herkomst: Niet-Nederland;0.4;14.0
+533;Achtkarspelen;Herkomst: Westers land;0.3;15.1
+534;Achtkarspelen;Herkomst: Niet-westers land;;
+535;Alblasserdam;Totaal Herkomst (land);12.5;18.1
+536;Alblasserdam;Herkomst: Nederland;11.0;18.3
+537;Alblasserdam;Herkomst: Niet-Nederland;1.5;16.6
+538;Alblasserdam;Herkomst: Westers land;0.9;18.1
+539;Alblasserdam;Herkomst: Niet-westers land;0.6;14.4
+540;Albrandswaard;Totaal Herkomst (land);14.7;21.9
+541;Albrandswaard;Herkomst: Nederland;12.8;22.0
+542;Albrandswaard;Herkomst: Niet-Nederland;1.9;20.6
+543;Albrandswaard;Herkomst: Westers land;1.1;22.7
+544;Albrandswaard;Herkomst: Niet-westers land;0.8;17.7
+545;Alkemade;Totaal Herkomst (land);10.4;18.9
+546;Alkemade;Herkomst: Nederland;9.9;18.6
+547;Alkemade;Herkomst: Niet-Nederland;0.5;23.8
+548;Alkemade;Herkomst: Westers land;0.3;28.9
+549;Alkemade;Herkomst: Niet-westers land;;
+550;Alkmaar;Totaal Herkomst (land);68.3;17.9
+551;Alkmaar;Herkomst: Nederland;55.2;18.4
+552;Alkmaar;Herkomst: Niet-Nederland;13.1;15.9
+553;Alkmaar;Herkomst: Westers land;6.6;17.8
+554;Alkmaar;Herkomst: Niet-westers land;6.4;14.0
+555;Almelo;Totaal Herkomst (land);50.5;16.7
+556;Almelo;Herkomst: Nederland;40.0;17.1
+557;Almelo;Herkomst: Niet-Nederland;10.6;15.1
+558;Almelo;Herkomst: Westers land;5.1;16.7
+559;Almelo;Herkomst: Niet-westers land;5.4;13.6
+560;Almere;Totaal Herkomst (land);118.5;18.7
+561;Almere;Herkomst: Nederland;81.9;19.3
+562;Almere;Herkomst: Niet-Nederland;36.6;17.3
+563;Almere;Herkomst: Westers land;11.6;19.0
+564;Almere;Herkomst: Niet-westers land;25.0;16.5
+565;Alphen aan den Rijn;Totaal Herkomst (land);49.8;19.8
+566;Alphen aan den Rijn;Herkomst: Nederland;41.3;20.2
+567;Alphen aan den Rijn;Herkomst: Niet-Nederland;8.4;17.8
+568;Alphen aan den Rijn;Herkomst: Westers land;4.7;19.5
+569;Alphen aan den Rijn;Herkomst: Niet-westers land;3.7;15.6
+570;Alphen-Chaam;Totaal Herkomst (land);6.6;19.3
+571;Alphen-Chaam;Herkomst: Nederland;5.8;19.6
+572;Alphen-Chaam;Herkomst: Niet-Nederland;0.8;17.2
+573;Alphen-Chaam;Herkomst: Westers land;0.7;17.7
+574;Alphen-Chaam;Herkomst: Niet-westers land;;
+575;Ameland;Totaal Herkomst (land);2.4;16.6
+576;Ameland;Herkomst: Nederland;2.3;16.7
+577;Ameland;Herkomst: Niet-Nederland;;
+578;Ameland;Herkomst: Westers land;;
+579;Ameland;Herkomst: Niet-westers land;;
+580;Amersfoort;Totaal Herkomst (land);94.1;20.2
+581;Amersfoort;Herkomst: Nederland;76.1;20.6
+582;Amersfoort;Herkomst: Niet-Nederland;18.0;18.2
+583;Amersfoort;Herkomst: Westers land;8.6;20.9
+584;Amersfoort;Herkomst: Niet-westers land;9.4;15.7
+585;Amstelveen;Totaal Herkomst (land);55.0;22.8
+586;Amstelveen;Herkomst: Nederland;40.9;22.5
+587;Amstelveen;Herkomst: Niet-Nederland;14.0;23.8
+588;Amstelveen;Herkomst: Westers land;8.8;25.8
+589;Amstelveen;Herkomst: Niet-westers land;5.2;20.3
+590;Amsterdam;Totaal Herkomst (land);516.3;19.4
+591;Amsterdam;Herkomst: Nederland;302.0;20.7
+592;Amsterdam;Herkomst: Niet-Nederland;214.4;17.5
+593;Amsterdam;Herkomst: Westers land;71.4;21.4
+594;Amsterdam;Herkomst: Niet-westers land;142.9;15.6
+595;Andijk;Totaal Herkomst (land);4.6;18.1
+596;Andijk;Herkomst: Nederland;4.3;18.2
+597;Andijk;Herkomst: Niet-Nederland;0.3;17.8
+598;Andijk;Herkomst: Westers land;;
+599;Andijk;Herkomst: Niet-westers land;;
+600;Anna Paulowna;Totaal Herkomst (land);9.4;17.7
+601;Anna Paulowna;Herkomst: Nederland;8.8;17.7
+602;Anna Paulowna;Herkomst: Niet-Nederland;0.7;17.1
+603;Anna Paulowna;Herkomst: Westers land;0.5;17.8
+604;Anna Paulowna;Herkomst: Niet-westers land;;
+605;Apeldoorn;Totaal Herkomst (land);110.8;18.5
+606;Apeldoorn;Herkomst: Nederland;95.9;18.7
+607;Apeldoorn;Herkomst: Niet-Nederland;14.9;17.1
+608;Apeldoorn;Herkomst: Westers land;9.1;18.9
+609;Apeldoorn;Herkomst: Niet-westers land;5.8;14.3
+610;Appingedam;Totaal Herkomst (land);8.6;16.9
+611;Appingedam;Herkomst: Nederland;7.7;17.0
+612;Appingedam;Herkomst: Niet-Nederland;0.9;15.9
+613;Appingedam;Herkomst: Westers land;0.6;17.0
+614;Appingedam;Herkomst: Niet-westers land;0.3;13.0
+615;Arcen en Velden;Totaal Herkomst (land);6.3;17.5
+616;Arcen en Velden;Herkomst: Nederland;5.5;17.6
+617;Arcen en Velden;Herkomst: Niet-Nederland;0.9;16.7
+618;Arcen en Velden;Herkomst: Westers land;0.8;17.0
+619;Arcen en Velden;Herkomst: Niet-westers land;;
+620;Arnhem;Totaal Herkomst (land);101.7;17.5
+621;Arnhem;Herkomst: Nederland;76.1;18.2
+622;Arnhem;Herkomst: Niet-Nederland;25.5;15.4
+623;Arnhem;Herkomst: Westers land;12.1;17.6
+624;Arnhem;Herkomst: Niet-westers land;13.5;13.6
+625;Assen;Totaal Herkomst (land);44.7;17.8
+626;Assen;Herkomst: Nederland;39.2;17.9
+627;Assen;Herkomst: Niet-Nederland;5.5;17.0
+628;Assen;Herkomst: Westers land;3.8;18.4
+629;Assen;Herkomst: Niet-westers land;1.8;14.1
+630;Asten;Totaal Herkomst (land);11.5;18.0
+631;Asten;Herkomst: Nederland;10.8;18.1
+632;Asten;Herkomst: Niet-Nederland;0.7;16.7
+633;Asten;Herkomst: Westers land;0.5;18.1
+634;Asten;Herkomst: Niet-westers land;0.2;13.6
+635;Baarle-Nassau;Totaal Herkomst (land);4.8;17.3
+636;Baarle-Nassau;Herkomst: Nederland;3.7;17.5
+637;Baarle-Nassau;Herkomst: Niet-Nederland;1.1;16.6
+638;Baarle-Nassau;Herkomst: Westers land;1.0;16.7
+639;Baarle-Nassau;Herkomst: Niet-westers land;;
+640;Baarn;Totaal Herkomst (land);17.5;20.7
+641;Baarn;Herkomst: Nederland;15.0;20.8
+642;Baarn;Herkomst: Niet-Nederland;2.5;20.1
+643;Baarn;Herkomst: Westers land;1.7;22.5
+644;Baarn;Herkomst: Niet-westers land;0.9;15.3
+645;Barendrecht;Totaal Herkomst (land);29.2;20.9
+646;Barendrecht;Herkomst: Nederland;24.9;21.2
+647;Barendrecht;Herkomst: Niet-Nederland;4.2;19.4
+648;Barendrecht;Herkomst: Westers land;2.1;21.5
+649;Barendrecht;Herkomst: Niet-westers land;2.2;17.3
+650;Barneveld;Totaal Herkomst (land);32.1;19.0
+651;Barneveld;Herkomst: Nederland;29.9;19.2
+652;Barneveld;Herkomst: Niet-Nederland;2.2;17.1
+653;Barneveld;Herkomst: Westers land;1.4;18.9
+654;Barneveld;Herkomst: Niet-westers land;0.7;13.6
+655;Bedum;Totaal Herkomst (land);7.2;17.6
+656;Bedum;Herkomst: Nederland;6.9;17.5
+657;Bedum;Herkomst: Niet-Nederland;0.4;19.0
+658;Bedum;Herkomst: Westers land;0.3;19.5
+659;Bedum;Herkomst: Niet-westers land;;
+660;Beek (L.);Totaal Herkomst (land);11.8;18.5
+661;Beek (L.);Herkomst: Nederland;10.2;18.7
+662;Beek (L.);Herkomst: Niet-Nederland;1.6;17.3
+663;Beek (L.);Herkomst: Westers land;1.3;18.1
+664;Beek (L.);Herkomst: Niet-westers land;0.3;13.4
+665;Beemster;Totaal Herkomst (land);6.0;20.5
+666;Beemster;Herkomst: Nederland;5.6;20.4
+667;Beemster;Herkomst: Niet-Nederland;0.4;21.7
+668;Beemster;Herkomst: Westers land;0.3;22.2
+669;Beemster;Herkomst: Niet-westers land;;
+670;Beesel;Totaal Herkomst (land);9.5;17.6
+671;Beesel;Herkomst: Nederland;8.1;17.9
+672;Beesel;Herkomst: Niet-Nederland;1.4;16.0
+673;Beesel;Herkomst: Westers land;1.1;16.3
+674;Beesel;Herkomst: Niet-westers land;0.3;15.1
+675;Bellingwedde;Totaal Herkomst (land);6.6;16.2
+676;Bellingwedde;Herkomst: Nederland;6.1;16.3
+677;Bellingwedde;Herkomst: Niet-Nederland;0.6;14.4
+678;Bellingwedde;Herkomst: Westers land;0.5;14.6
+679;Bellingwedde;Herkomst: Niet-westers land;;
+680;Bennebroek;Totaal Herkomst (land);3.7;23.4
+681;Bennebroek;Herkomst: Nederland;3.3;23.6
+682;Bennebroek;Herkomst: Niet-Nederland;0.4;21.4
+683;Bennebroek;Herkomst: Westers land;0.4;22.4
+684;Bennebroek;Herkomst: Niet-westers land;;
+685;Bergambacht;Totaal Herkomst (land);6.3;20.0
+686;Bergambacht;Herkomst: Nederland;5.9;20.2
+687;Bergambacht;Herkomst: Niet-Nederland;0.4;17.0
+688;Bergambacht;Herkomst: Westers land;0.3;18.2
+689;Bergambacht;Herkomst: Niet-westers land;;
+690;Bergeijk;Totaal Herkomst (land);12.6;18.8
+691;Bergeijk;Herkomst: Nederland;11.5;18.9
+692;Bergeijk;Herkomst: Niet-Nederland;1.0;17.8
+693;Bergeijk;Herkomst: Westers land;0.9;18.0
+694;Bergeijk;Herkomst: Niet-westers land;;
+695;Bergen (L.);Totaal Herkomst (land);9.5;16.2
+696;Bergen (L.);Herkomst: Nederland;8.0;16.3
+697;Bergen (L.);Herkomst: Niet-Nederland;1.5;15.8
+698;Bergen (L.);Herkomst: Westers land;1.4;16.0
+699;Bergen (L.);Herkomst: Niet-westers land;;
+700;Bergen (NH.);Totaal Herkomst (land);22.3;21.3
+701;Bergen (NH.);Herkomst: Nederland;20.4;21.2
+702;Bergen (NH.);Herkomst: Niet-Nederland;2.0;22.7
+703;Bergen (NH.);Herkomst: Westers land;1.6;23.4
+704;Bergen (NH.);Herkomst: Niet-westers land;0.3;19.8
+705;Bergen op Zoom;Totaal Herkomst (land);45.7;17.8
+706;Bergen op Zoom;Herkomst: Nederland;37.7;18.2
+707;Bergen op Zoom;Herkomst: Niet-Nederland;8.0;16.2
+708;Bergen op Zoom;Herkomst: Westers land;4.0;18.6
+709;Bergen op Zoom;Herkomst: Niet-westers land;4.0;13.9
+710;Berkelland;Totaal Herkomst (land);32.1;17.2
+711;Berkelland;Herkomst: Nederland;29.9;17.2
+712;Berkelland;Herkomst: Niet-Nederland;2.2;16.2
+713;Berkelland;Herkomst: Westers land;1.7;16.9
+714;Berkelland;Herkomst: Niet-westers land;0.5;13.5
+715;Bernheze;Totaal Herkomst (land);20.5;18.8
+716;Bernheze;Herkomst: Nederland;19.3;18.9
+717;Bernheze;Herkomst: Niet-Nederland;1.2;17.4
+718;Bernheze;Herkomst: Westers land;0.9;18.3
+719;Bernheze;Herkomst: Niet-westers land;0.3;14.3
+720;Bernisse;Totaal Herkomst (land);8.8;19.9
+721;Bernisse;Herkomst: Nederland;8.2;20.0
+722;Bernisse;Herkomst: Niet-Nederland;0.7;18.7
+723;Bernisse;Herkomst: Westers land;0.5;19.5
+724;Bernisse;Herkomst: Niet-westers land;;
+725;Best;Totaal Herkomst (land);19.9;19.5
+726;Best;Herkomst: Nederland;17.6;19.7
+727;Best;Herkomst: Niet-Nederland;2.3;18.0
+728;Best;Herkomst: Westers land;1.5;19.6
+729;Best;Herkomst: Niet-westers land;0.8;15.0
+730;Beuningen;Totaal Herkomst (land);17.4;18.7
+731;Beuningen;Herkomst: Nederland;15.6;18.9
+732;Beuningen;Herkomst: Niet-Nederland;1.9;17.1
+733;Beuningen;Herkomst: Westers land;1.4;17.7
+734;Beuningen;Herkomst: Niet-westers land;0.5;15.4
+735;Beverwijk;Totaal Herkomst (land);26.6;18.1
+736;Beverwijk;Herkomst: Nederland;21.6;18.4
+737;Beverwijk;Herkomst: Niet-Nederland;4.9;17.0
+738;Beverwijk;Herkomst: Westers land;2.9;18.3
+739;Beverwijk;Herkomst: Niet-westers land;2.0;15.0
+740;Binnenmaas;Totaal Herkomst (land);20.1;20.5
+741;Binnenmaas;Herkomst: Nederland;18.7;20.5
+742;Binnenmaas;Herkomst: Niet-Nederland;1.4;19.9
+743;Binnenmaas;Herkomst: Westers land;1.1;20.9
+744;Binnenmaas;Herkomst: Niet-westers land;0.3;16.9
+745;Bladel;Totaal Herkomst (land);13.4;18.2
+746;Bladel;Herkomst: Nederland;12.4;18.3
+747;Bladel;Herkomst: Niet-Nederland;1.1;17.0
+748;Bladel;Herkomst: Westers land;0.9;17.4
+749;Bladel;Herkomst: Niet-westers land;;
+750;Blaricum;Totaal Herkomst (land);6.2;31.0
+751;Blaricum;Herkomst: Nederland;5.4;30.4
+752;Blaricum;Herkomst: Niet-Nederland;0.8;34.5
+753;Blaricum;Herkomst: Westers land;0.7;38.4
+754;Blaricum;Herkomst: Niet-westers land;;
+755;Bloemendaal;Totaal Herkomst (land);11.3;32.9
+756;Bloemendaal;Herkomst: Nederland;9.6;32.0
+757;Bloemendaal;Herkomst: Niet-Nederland;1.7;37.8
+758;Bloemendaal;Herkomst: Westers land;1.5;38.5
+759;Bloemendaal;Herkomst: Niet-westers land;0.2;33.4
+760;Boarnsterhim;Totaal Herkomst (land);13.1;18.6
+761;Boarnsterhim;Herkomst: Nederland;12.5;18.6
+762;Boarnsterhim;Herkomst: Niet-Nederland;0.6;17.1
+763;Boarnsterhim;Herkomst: Westers land;0.5;17.6
+764;Boarnsterhim;Herkomst: Niet-westers land;;
+765;Bodegraven;Totaal Herkomst (land);13.1;19.7
+766;Bodegraven;Herkomst: Nederland;11.8;19.9
+767;Bodegraven;Herkomst: Niet-Nederland;1.2;18.1
+768;Bodegraven;Herkomst: Westers land;0.7;19.1
+769;Bodegraven;Herkomst: Niet-westers land;0.5;16.6
+770;Boekel;Totaal Herkomst (land);6.5;17.3
+771;Boekel;Herkomst: Nederland;6.2;17.3
+772;Boekel;Herkomst: Niet-Nederland;0.2;17.5
+773;Boekel;Herkomst: Westers land;0.2;17.9
+774;Boekel;Herkomst: Niet-westers land;;
+775;Bolsward;Totaal Herkomst (land);6.7;17.4
+776;Bolsward;Herkomst: Nederland;6.1;17.5
+777;Bolsward;Herkomst: Niet-Nederland;0.5;15.4
+778;Bolsward;Herkomst: Westers land;0.3;16.9
+779;Bolsward;Herkomst: Niet-westers land;0.2;13.5
+780;Borger-Odoorn;Totaal Herkomst (land);18.3;17.1
+781;Borger-Odoorn;Herkomst: Nederland;17.5;17.2
+782;Borger-Odoorn;Herkomst: Niet-Nederland;0.8;16.5
+783;Borger-Odoorn;Herkomst: Westers land;0.7;16.9
+784;Borger-Odoorn;Herkomst: Niet-westers land;;
+785;Borne;Totaal Herkomst (land);14.0;18.8
+786;Borne;Herkomst: Nederland;12.7;19.0
+787;Borne;Herkomst: Niet-Nederland;1.4;17.8
+788;Borne;Herkomst: Westers land;1.0;19.0
+789;Borne;Herkomst: Niet-westers land;0.3;13.9
+790;Borsele;Totaal Herkomst (land);15.1;18.4
+791;Borsele;Herkomst: Nederland;14.1;18.4
+792;Borsele;Herkomst: Niet-Nederland;0.9;17.3
+793;Borsele;Herkomst: Westers land;0.8;17.6
+794;Borsele;Herkomst: Niet-westers land;;
+795;Boskoop;Totaal Herkomst (land);10.1;19.7
+796;Boskoop;Herkomst: Nederland;9.1;19.9
+797;Boskoop;Herkomst: Niet-Nederland;1.0;17.7
+798;Boskoop;Herkomst: Westers land;0.5;20.2
+799;Boskoop;Herkomst: Niet-westers land;0.6;15.6
+800;Boxmeer;Totaal Herkomst (land);20.3;18.6
+801;Boxmeer;Herkomst: Nederland;18.4;18.7
+802;Boxmeer;Herkomst: Niet-Nederland;1.9;17.4
+803;Boxmeer;Herkomst: Westers land;1.5;18.2
+804;Boxmeer;Herkomst: Niet-westers land;0.4;14.3
+805;Boxtel;Totaal Herkomst (land);21.3;18.3
+806;Boxtel;Herkomst: Nederland;18.9;18.6
+807;Boxtel;Herkomst: Niet-Nederland;2.4;16.3
+808;Boxtel;Herkomst: Westers land;1.4;17.5
+809;Boxtel;Herkomst: Niet-westers land;1.0;14.6
+810;Breda;Totaal Herkomst (land);121.1;18.9
+811;Breda;Herkomst: Nederland;99.4;19.4
+812;Breda;Herkomst: Niet-Nederland;21.7;17.0
+813;Breda;Herkomst: Westers land;12.2;18.8
+814;Breda;Herkomst: Niet-westers land;9.5;14.6
+815;Breukelen;Totaal Herkomst (land);9.8;21.5
+816;Breukelen;Herkomst: Nederland;8.8;21.7
+817;Breukelen;Herkomst: Niet-Nederland;1.0;19.5
+818;Breukelen;Herkomst: Westers land;0.7;21.1
+819;Breukelen;Herkomst: Niet-westers land;0.3;15.2
+820;Brielle;Totaal Herkomst (land);11.1;20.6
+821;Brielle;Herkomst: Nederland;9.9;20.7
+822;Brielle;Herkomst: Niet-Nederland;1.2;19.8
+823;Brielle;Herkomst: Westers land;0.9;20.9
+824;Brielle;Herkomst: Niet-westers land;0.2;15.2
+825;Bronckhorst;Totaal Herkomst (land);26.4;18.7
+826;Bronckhorst;Herkomst: Nederland;25.3;18.7
+827;Bronckhorst;Herkomst: Niet-Nederland;1.1;18.9
+828;Bronckhorst;Herkomst: Westers land;0.9;19.7
+829;Bronckhorst;Herkomst: Niet-westers land;;
+830;Brummen;Totaal Herkomst (land);14.9;18.6
+831;Brummen;Herkomst: Nederland;13.5;18.7
+832;Brummen;Herkomst: Niet-Nederland;1.4;17.8
+833;Brummen;Herkomst: Westers land;0.9;19.9
+834;Brummen;Herkomst: Niet-westers land;0.6;14.3
+835;Brunssum;Totaal Herkomst (land);21.6;16.1
+836;Brunssum;Herkomst: Nederland;16.3;16.3
+837;Brunssum;Herkomst: Niet-Nederland;5.2;15.3
+838;Brunssum;Herkomst: Westers land;4.7;15.8
+839;Brunssum;Herkomst: Niet-westers land;0.6;11.3
+840;Bunnik;Totaal Herkomst (land);9.9;22.4
+841;Bunnik;Herkomst: Nederland;9.0;22.4
+842;Bunnik;Herkomst: Niet-Nederland;1.0;21.7
+843;Bunnik;Herkomst: Westers land;0.7;23.3
+844;Bunnik;Herkomst: Niet-westers land;0.3;17.2
+845;Bunschoten;Totaal Herkomst (land);13.0;18.3
+846;Bunschoten;Herkomst: Nederland;12.3;18.3
+847;Bunschoten;Herkomst: Niet-Nederland;0.7;17.1
+848;Bunschoten;Herkomst: Westers land;0.4;20.0
+849;Bunschoten;Herkomst: Niet-westers land;0.4;14.3
+850;Buren;Totaal Herkomst (land);17.2;19.8
+851;Buren;Herkomst: Nederland;16.2;19.7
+852;Buren;Herkomst: Niet-Nederland;1.0;20.3
+853;Buren;Herkomst: Westers land;0.8;19.9
+854;Buren;Herkomst: Niet-westers land;;
+855;Bussum;Totaal Herkomst (land);21.8;24.5
+856;Bussum;Herkomst: Nederland;18.2;24.6
+857;Bussum;Herkomst: Niet-Nederland;3.7;24.0
+858;Bussum;Herkomst: Westers land;2.8;26.2
+859;Bussum;Herkomst: Niet-westers land;0.9;17.3
+860;Capelle aan den IJssel;Totaal Herkomst (land);45.8;19.5
+861;Capelle aan den IJssel;Herkomst: Nederland;34.7;20.0
+862;Capelle aan den IJssel;Herkomst: Niet-Nederland;11.1;18.1
+863;Capelle aan den IJssel;Herkomst: Westers land;4.9;19.5
+864;Capelle aan den IJssel;Herkomst: Niet-westers land;6.2;17.0
+865;Castricum;Totaal Herkomst (land);24.4;21.0
+866;Castricum;Herkomst: Nederland;22.6;21.2
+867;Castricum;Herkomst: Niet-Nederland;1.8;19.3
+868;Castricum;Herkomst: Westers land;1.4;20.2
+869;Castricum;Herkomst: Niet-westers land;0.4;16.3
+870;Coevorden;Totaal Herkomst (land);25.3;17.2
+871;Coevorden;Herkomst: Nederland;23.7;17.3
+872;Coevorden;Herkomst: Niet-Nederland;1.6;15.4
+873;Coevorden;Herkomst: Westers land;1.3;15.8
+874;Coevorden;Herkomst: Niet-westers land;0.3;13.8
+875;Cranendonck;Totaal Herkomst (land);14.3;18.4
+876;Cranendonck;Herkomst: Nederland;12.3;18.7
+877;Cranendonck;Herkomst: Niet-Nederland;2.0;17.0
+878;Cranendonck;Herkomst: Westers land;1.8;16.9
+879;Cranendonck;Herkomst: Niet-westers land;0.2;17.4
+880;Cromstrijen;Totaal Herkomst (land);9.1;20.1
+881;Cromstrijen;Herkomst: Nederland;8.5;20.1
+882;Cromstrijen;Herkomst: Niet-Nederland;0.6;19.3
+883;Cromstrijen;Herkomst: Westers land;0.4;20.2
+884;Cromstrijen;Herkomst: Niet-westers land;;
+885;Cuijk;Totaal Herkomst (land);17.0;17.4
+886;Cuijk;Herkomst: Nederland;14.1;17.8
+887;Cuijk;Herkomst: Niet-Nederland;2.9;15.6
+888;Cuijk;Herkomst: Westers land;1.8;16.4
+889;Cuijk;Herkomst: Niet-westers land;1.1;14.2
+890;Culemborg;Totaal Herkomst (land);18.0;19.7
+891;Culemborg;Herkomst: Nederland;15.1;20.2
+892;Culemborg;Herkomst: Niet-Nederland;2.9;17.2
+893;Culemborg;Herkomst: Westers land;1.6;18.9
+894;Culemborg;Herkomst: Niet-westers land;1.3;15.3
+895;Dalfsen;Totaal Herkomst (land);18.1;18.4
+896;Dalfsen;Herkomst: Nederland;17.5;18.3
+897;Dalfsen;Herkomst: Niet-Nederland;0.6;21.1
+898;Dalfsen;Herkomst: Westers land;0.5;22.4
+899;Dalfsen;Herkomst: Niet-westers land;;
+900;Dantumadeel;Totaal Herkomst (land);12.9;16.4
+901;Dantumadeel;Herkomst: Nederland;12.6;16.3
+902;Dantumadeel;Herkomst: Niet-Nederland;0.3;17.8
+903;Dantumadeel;Herkomst: Westers land;0.3;17.0
+904;Dantumadeel;Herkomst: Niet-westers land;;
+905;De Bilt;Totaal Herkomst (land);29.6;23.4
+906;De Bilt;Herkomst: Nederland;25.7;23.5
+907;De Bilt;Herkomst: Niet-Nederland;3.9;22.7
+908;De Bilt;Herkomst: Westers land;2.7;25.0
+909;De Bilt;Herkomst: Niet-westers land;1.1;17.0
+910;De Marne;Totaal Herkomst (land);7.4;17.0
+911;De Marne;Herkomst: Nederland;7.0;17.0
+912;De Marne;Herkomst: Niet-Nederland;0.3;15.9
+913;De Marne;Herkomst: Westers land;0.3;17.6
+914;De Marne;Herkomst: Niet-westers land;;
+915;De Ronde Venen;Totaal Herkomst (land);23.7;21.5
+916;De Ronde Venen;Herkomst: Nederland;21.2;21.6
+917;De Ronde Venen;Herkomst: Niet-Nederland;2.5;21.0
+918;De Ronde Venen;Herkomst: Westers land;1.6;22.4
+919;De Ronde Venen;Herkomst: Niet-westers land;0.9;18.3
+920;De Wolden;Totaal Herkomst (land);16.4;18.0
+921;De Wolden;Herkomst: Nederland;15.9;17.9
+922;De Wolden;Herkomst: Niet-Nederland;0.5;21.1
+923;De Wolden;Herkomst: Westers land;0.4;17.3
+924;De Wolden;Herkomst: Niet-westers land;;
+925;Delft;Totaal Herkomst (land);66.1;18.1
+926;Delft;Herkomst: Nederland;51.6;18.5
+927;Delft;Herkomst: Niet-Nederland;14.5;17.0
+928;Delft;Herkomst: Westers land;6.8;19.5
+929;Delft;Herkomst: Niet-westers land;7.7;14.9
+930;Delfzijl;Totaal Herkomst (land);19.1;17.0
+931;Delfzijl;Herkomst: Nederland;16.6;17.3
+932;Delfzijl;Herkomst: Niet-Nederland;2.5;15.0
+933;Delfzijl;Herkomst: Westers land;1.4;15.5
+934;Delfzijl;Herkomst: Niet-westers land;1.1;14.5
+935;Den Helder;Totaal Herkomst (land);41.2;17.3
+936;Den Helder;Herkomst: Nederland;34.3;17.5
+937;Den Helder;Herkomst: Niet-Nederland;6.9;16.2
+938;Den Helder;Herkomst: Westers land;4.3;17.3
+939;Den Helder;Herkomst: Niet-westers land;2.6;14.3
+940;Deurne;Totaal Herkomst (land);22.4;17.8
+941;Deurne;Herkomst: Nederland;21.1;18.0
+942;Deurne;Herkomst: Niet-Nederland;1.4;15.5
+943;Deurne;Herkomst: Westers land;1.0;16.8
+944;Deurne;Herkomst: Niet-westers land;0.4;12.2
+945;Deventer;Totaal Herkomst (land);67.2;17.7
+946;Deventer;Herkomst: Nederland;55.2;18.1
+947;Deventer;Herkomst: Niet-Nederland;12.0;15.4
+948;Deventer;Herkomst: Westers land;5.9;17.6
+949;Deventer;Herkomst: Niet-westers land;6.2;13.4
+950;Diemen;Totaal Herkomst (land);16.6;19.9
+951;Diemen;Herkomst: Nederland;11.6;20.7
+952;Diemen;Herkomst: Niet-Nederland;5.0;18.0
+953;Diemen;Herkomst: Westers land;1.9;19.7
+954;Diemen;Herkomst: Niet-westers land;3.1;17.0
+955;Dinkelland;Totaal Herkomst (land);17.8;17.7
+956;Dinkelland;Herkomst: Nederland;16.5;17.8
+957;Dinkelland;Herkomst: Niet-Nederland;1.4;16.4
+958;Dinkelland;Herkomst: Westers land;1.3;16.7
+959;Dinkelland;Herkomst: Niet-westers land;;
+960;Dirksland;Totaal Herkomst (land);5.5;19.2
+961;Dirksland;Herkomst: Nederland;5.3;19.2
+962;Dirksland;Herkomst: Niet-Nederland;0.2;18.7
+963;Dirksland;Herkomst: Westers land;;
+964;Dirksland;Herkomst: Niet-westers land;;
+965;Doesburg;Totaal Herkomst (land);8.1;17.7
+966;Doesburg;Herkomst: Nederland;6.6;18.1
+967;Doesburg;Herkomst: Niet-Nederland;1.5;16.2
+968;Doesburg;Herkomst: Westers land;0.9;17.4
+969;Doesburg;Herkomst: Niet-westers land;0.6;14.4
+970;Doetinchem;Totaal Herkomst (land);39.8;17.7
+971;Doetinchem;Herkomst: Nederland;35.1;17.9
+972;Doetinchem;Herkomst: Niet-Nederland;4.6;16.0
+973;Doetinchem;Herkomst: Westers land;3.1;17.2
+974;Doetinchem;Herkomst: Niet-westers land;1.6;13.7
+975;Dongen;Totaal Herkomst (land);18.0;18.1
+976;Dongen;Herkomst: Nederland;16.3;18.2
+977;Dongen;Herkomst: Niet-Nederland;1.7;16.4
+978;Dongen;Herkomst: Westers land;1.1;17.4
+979;Dongen;Herkomst: Niet-westers land;0.6;14.6
+980;Dongeradeel;Totaal Herkomst (land);16.9;16.4
+981;Dongeradeel;Herkomst: Nederland;16.2;16.4
+982;Dongeradeel;Herkomst: Niet-Nederland;0.7;16.0
+983;Dongeradeel;Herkomst: Westers land;0.6;17.2
+984;Dongeradeel;Herkomst: Niet-westers land;;
+985;Dordrecht;Totaal Herkomst (land);82.2;18.2
+986;Dordrecht;Herkomst: Nederland;63.3;18.8
+987;Dordrecht;Herkomst: Niet-Nederland;18.9;16.4
+988;Dordrecht;Herkomst: Westers land;8.3;18.1
+989;Dordrecht;Herkomst: Niet-westers land;10.6;15.0
+990;Drechterland;Totaal Herkomst (land);12.9;19.5
+991;Drechterland;Herkomst: Nederland;12.1;19.6
+992;Drechterland;Herkomst: Niet-Nederland;0.8;18.6
+993;Drechterland;Herkomst: Westers land;0.6;19.8
+994;Drechterland;Herkomst: Niet-westers land;;
+995;Drimmelen;Totaal Herkomst (land);18.8;19.0
+996;Drimmelen;Herkomst: Nederland;17.7;18.8
+997;Drimmelen;Herkomst: Niet-Nederland;1.1;22.1
+998;Drimmelen;Herkomst: Westers land;0.9;23.8
+999;Drimmelen;Herkomst: Niet-westers land;;
+1000;Dronten;Totaal Herkomst (land);25.0;18.1
+1001;Dronten;Herkomst: Nederland;22.3;18.3
+1002;Dronten;Herkomst: Niet-Nederland;2.6;16.7
+1003;Dronten;Herkomst: Westers land;1.5;18.7
+1004;Dronten;Herkomst: Niet-westers land;1.1;13.9
+1005;Druten;Totaal Herkomst (land);12.6;17.8
+1006;Druten;Herkomst: Nederland;11.4;17.9
+1007;Druten;Herkomst: Niet-Nederland;1.3;16.9
+1008;Druten;Herkomst: Westers land;0.8;18.5
+1009;Druten;Herkomst: Niet-westers land;0.5;14.3
+1010;Duiven;Totaal Herkomst (land);17.5;18.1
+1011;Duiven;Herkomst: Nederland;15.5;18.2
+1012;Duiven;Herkomst: Niet-Nederland;2.0;17.2
+1013;Duiven;Herkomst: Westers land;1.6;18.1
+1014;Duiven;Herkomst: Niet-westers land;0.5;14.3
+1015;Echt-Susteren;Totaal Herkomst (land);23.2;17.3
+1016;Echt-Susteren;Herkomst: Nederland;19.4;17.5
+1017;Echt-Susteren;Herkomst: Niet-Nederland;3.9;16.5
+1018;Echt-Susteren;Herkomst: Westers land;3.6;16.7
+1019;Echt-Susteren;Herkomst: Niet-westers land;0.3;14.1
+1020;Edam-Volendam;Totaal Herkomst (land);19.3;20.1
+1021;Edam-Volendam;Herkomst: Nederland;18.2;20.3
+1022;Edam-Volendam;Herkomst: Niet-Nederland;1.1;17.8
+1023;Edam-Volendam;Herkomst: Westers land;0.7;19.0
+1024;Edam-Volendam;Herkomst: Niet-westers land;0.4;15.6
+1025;Ede;Totaal Herkomst (land);72.5;18.7
+1026;Ede;Herkomst: Nederland;63.4;19.0
+1027;Ede;Herkomst: Niet-Nederland;9.1;16.6
+1028;Ede;Herkomst: Westers land;5.4;18.1
+1029;Ede;Herkomst: Niet-westers land;3.7;14.3
+1030;Eemnes;Totaal Herkomst (land);5.9;21.3
+1031;Eemnes;Herkomst: Nederland;5.3;21.3
+1032;Eemnes;Herkomst: Niet-Nederland;0.6;21.4
+1033;Eemnes;Herkomst: Westers land;0.5;22.7
+1034;Eemnes;Herkomst: Niet-westers land;;
+1035;Eemsmond;Totaal Herkomst (land);11.1;16.4
+1036;Eemsmond;Herkomst: Nederland;10.7;16.5
+1037;Eemsmond;Herkomst: Niet-Nederland;0.5;14.9
+1038;Eemsmond;Herkomst: Westers land;0.4;15.4
+1039;Eemsmond;Herkomst: Niet-westers land;;
+1040;Eersel;Totaal Herkomst (land);12.8;19.1
+1041;Eersel;Herkomst: Nederland;12.1;19.0
+1042;Eersel;Herkomst: Niet-Nederland;0.7;19.6
+1043;Eersel;Herkomst: Westers land;0.6;20.8
+1044;Eersel;Herkomst: Niet-westers land;;
+1045;Eijsden;Totaal Herkomst (land);8.1;18.7
+1046;Eijsden;Herkomst: Nederland;7.1;18.9
+1047;Eijsden;Herkomst: Niet-Nederland;1.0;17.4
+1048;Eijsden;Herkomst: Westers land;0.9;17.5
+1049;Eijsden;Herkomst: Niet-westers land;;
+1050;Eindhoven;Totaal Herkomst (land);151.3;18.0
+1051;Eindhoven;Herkomst: Nederland;116.1;18.4
+1052;Eindhoven;Herkomst: Niet-Nederland;35.2;16.8
+1053;Eindhoven;Herkomst: Westers land;17.3;18.4
+1054;Eindhoven;Herkomst: Niet-westers land;17.9;15.2
+1055;Elburg;Totaal Herkomst (land);14.6;18.1
+1056;Elburg;Herkomst: Nederland;14.0;18.1
+1057;Elburg;Herkomst: Niet-Nederland;0.7;17.8
+1058;Elburg;Herkomst: Westers land;0.5;18.2
+1059;Elburg;Herkomst: Niet-westers land;;
+1060;Emmen;Totaal Herkomst (land);77.3;16.4
+1061;Emmen;Herkomst: Nederland;70.3;16.5
+1062;Emmen;Herkomst: Niet-Nederland;6.9;15.3
+1063;Emmen;Herkomst: Westers land;5.2;15.8
+1064;Emmen;Herkomst: Niet-westers land;1.7;14.0
+1065;Enkhuizen;Totaal Herkomst (land);12.6;17.8
+1066;Enkhuizen;Herkomst: Nederland;11.3;18.0
+1067;Enkhuizen;Herkomst: Niet-Nederland;1.3;16.3
+1068;Enkhuizen;Herkomst: Westers land;0.8;17.6
+1069;Enkhuizen;Herkomst: Niet-westers land;0.6;14.6
+1070;Enschede;Totaal Herkomst (land);106.6;16.2
+1071;Enschede;Herkomst: Nederland;81.9;16.6
+1072;Enschede;Herkomst: Niet-Nederland;24.6;14.7
+1073;Enschede;Herkomst: Westers land;13.7;15.6
+1074;Enschede;Herkomst: Niet-westers land;11.0;13.6
+1075;Epe;Totaal Herkomst (land);23.2;18.3
+1076;Epe;Herkomst: Nederland;20.7;18.4
+1077;Epe;Herkomst: Niet-Nederland;2.4;17.4
+1078;Epe;Herkomst: Westers land;1.7;18.7
+1079;Epe;Herkomst: Niet-westers land;0.8;14.6
+1080;Ermelo;Totaal Herkomst (land);18.3;19.3
+1081;Ermelo;Herkomst: Nederland;16.9;19.5
+1082;Ermelo;Herkomst: Niet-Nederland;1.4;17.5
+1083;Ermelo;Herkomst: Westers land;1.0;18.5
+1084;Ermelo;Herkomst: Niet-westers land;0.4;15.2
+1085;Etten-Leur;Totaal Herkomst (land);28.7;18.3
+1086;Etten-Leur;Herkomst: Nederland;24.6;18.5
+1087;Etten-Leur;Herkomst: Niet-Nederland;4.1;16.6
+1088;Etten-Leur;Herkomst: Westers land;2.4;17.8
+1089;Etten-Leur;Herkomst: Niet-westers land;1.6;14.8
+1090;Ferwerderadiel;Totaal Herkomst (land);6.0;16.6
+1091;Ferwerderadiel;Herkomst: Nederland;5.8;16.6
+1092;Ferwerderadiel;Herkomst: Niet-Nederland;0.2;15.5
+1093;Ferwerderadiel;Herkomst: Westers land;;
+1094;Ferwerderadiel;Herkomst: Niet-westers land;;
+1095;Franekeradeel;Totaal Herkomst (land);14.3;16.7
+1096;Franekeradeel;Herkomst: Nederland;13.5;16.8
+1097;Franekeradeel;Herkomst: Niet-Nederland;0.8;14.2
+1098;Franekeradeel;Herkomst: Westers land;0.6;14.9
+1099;Franekeradeel;Herkomst: Niet-westers land;0.2;12.3
+1100;Gaasterlân-Sleat;Totaal Herkomst (land);7.1;17.4
+1101;Gaasterlân-Sleat;Herkomst: Nederland;6.8;17.3
+1102;Gaasterlân-Sleat;Herkomst: Niet-Nederland;0.3;19.1
+1103;Gaasterlân-Sleat;Herkomst: Westers land;0.3;19.5
+1104;Gaasterlân-Sleat;Herkomst: Niet-westers land;;
+1105;Geertruidenberg;Totaal Herkomst (land);14.9;18.2
+1106;Geertruidenberg;Herkomst: Nederland;13.8;18.2
+1107;Geertruidenberg;Herkomst: Niet-Nederland;1.1;17.9
+1108;Geertruidenberg;Herkomst: Westers land;0.8;18.3
+1109;Geertruidenberg;Herkomst: Niet-westers land;0.3;17.1
+1110;Geldermalsen;Totaal Herkomst (land);17.6;20.2
+1111;Geldermalsen;Herkomst: Nederland;16.4;20.2
+1112;Geldermalsen;Herkomst: Niet-Nederland;1.2;20.7
+1113;Geldermalsen;Herkomst: Westers land;0.8;23.6
+1114;Geldermalsen;Herkomst: Niet-westers land;0.4;15.0
+1115;Geldrop-Mierlo;Totaal Herkomst (land);26.6;19.1
+1116;Geldrop-Mierlo;Herkomst: Nederland;23.3;19.3
+1117;Geldrop-Mierlo;Herkomst: Niet-Nederland;3.3;18.1
+1118;Geldrop-Mierlo;Herkomst: Westers land;2.3;19.5
+1119;Geldrop-Mierlo;Herkomst: Niet-westers land;1.0;14.9
+1120;Gemert-Bakel;Totaal Herkomst (land);19.7;17.4
+1121;Gemert-Bakel;Herkomst: Nederland;18.4;17.4
+1122;Gemert-Bakel;Herkomst: Niet-Nederland;1.3;16.2
+1123;Gemert-Bakel;Herkomst: Westers land;1.0;16.5
+1124;Gemert-Bakel;Herkomst: Niet-westers land;0.2;14.9
+1125;Gennep;Totaal Herkomst (land);12.2;17.6
+1126;Gennep;Herkomst: Nederland;10.5;17.9
+1127;Gennep;Herkomst: Niet-Nederland;1.8;15.9
+1128;Gennep;Herkomst: Westers land;1.5;16.4
+1129;Gennep;Herkomst: Niet-westers land;0.3;13.2
+1130;Giessenlanden;Totaal Herkomst (land);9.6;20.8
+1131;Giessenlanden;Herkomst: Nederland;9.2;20.9
+1132;Giessenlanden;Herkomst: Niet-Nederland;0.5;20.6
+1133;Giessenlanden;Herkomst: Westers land;0.4;21.0
+1134;Giessenlanden;Herkomst: Niet-westers land;;
+1135;Gilze en Rijen;Totaal Herkomst (land);18.0;17.8
+1136;Gilze en Rijen;Herkomst: Nederland;16.0;18.0
+1137;Gilze en Rijen;Herkomst: Niet-Nederland;2.0;15.5
+1138;Gilze en Rijen;Herkomst: Westers land;1.2;16.8
+1139;Gilze en Rijen;Herkomst: Niet-westers land;0.8;13.6
+1140;Goedereede;Totaal Herkomst (land);7.9;19.7
+1141;Goedereede;Herkomst: Nederland;7.6;19.5
+1142;Goedereede;Herkomst: Niet-Nederland;0.2;23.5
+1143;Goedereede;Herkomst: Westers land;0.2;26.1
+1144;Goedereede;Herkomst: Niet-westers land;;
+1145;Goes;Totaal Herkomst (land);26.6;18.1
+1146;Goes;Herkomst: Nederland;23.5;18.3
+1147;Goes;Herkomst: Niet-Nederland;3.1;16.7
+1148;Goes;Herkomst: Westers land;2.0;17.6
+1149;Goes;Herkomst: Niet-westers land;1.1;15.2
+1150;Goirle;Totaal Herkomst (land);16.0;19.1
+1151;Goirle;Herkomst: Nederland;14.5;19.2
+1152;Goirle;Herkomst: Niet-Nederland;1.5;17.9
+1153;Goirle;Herkomst: Westers land;1.2;18.8
+1154;Goirle;Herkomst: Niet-westers land;0.3;14.3
+1155;Gorinchem;Totaal Herkomst (land);24.0;18.0
+1156;Gorinchem;Herkomst: Nederland;19.2;18.6
+1157;Gorinchem;Herkomst: Niet-Nederland;4.8;15.8
+1158;Gorinchem;Herkomst: Westers land;2.2;18.5
+1159;Gorinchem;Herkomst: Niet-westers land;2.7;13.6
+1160;Gouda;Totaal Herkomst (land);49.2;18.9
+1161;Gouda;Herkomst: Nederland;40.6;19.4
+1162;Gouda;Herkomst: Niet-Nederland;8.7;16.7
+1163;Gouda;Herkomst: Westers land;3.6;19.7
+1164;Gouda;Herkomst: Niet-westers land;5.1;14.6
+1165;Graafstroom;Totaal Herkomst (land);6.2;20.7
+1166;Graafstroom;Herkomst: Nederland;5.9;20.5
+1167;Graafstroom;Herkomst: Niet-Nederland;0.2;23.4
+1168;Graafstroom;Herkomst: Westers land;;
+1169;Graafstroom;Herkomst: Niet-westers land;;
+1170;Graft-De Rijp;Totaal Herkomst (land);4.5;20.6
+1171;Graft-De Rijp;Herkomst: Nederland;4.2;20.2
+1172;Graft-De Rijp;Herkomst: Niet-Nederland;0.3;25.8
+1173;Graft-De Rijp;Herkomst: Westers land;0.2;27.0
+1174;Graft-De Rijp;Herkomst: Niet-westers land;;
+1175;Grave;Totaal Herkomst (land);9.0;17.8
+1176;Grave;Herkomst: Nederland;8.1;17.9
+1177;Grave;Herkomst: Niet-Nederland;0.9;17.3
+1178;Grave;Herkomst: Westers land;0.7;18.3
+1179;Grave;Herkomst: Niet-westers land;;
+1180;Groesbeek;Totaal Herkomst (land);13.5;17.6
+1181;Groesbeek;Herkomst: Nederland;12.0;17.6
+1182;Groesbeek;Herkomst: Niet-Nederland;1.5;17.4
+1183;Groesbeek;Herkomst: Westers land;1.4;17.9
+1184;Groesbeek;Herkomst: Niet-westers land;;
+1185;Groningen (gemeente);Totaal Herkomst (land);129.8;16.4
+1186;Groningen (gemeente);Herkomst: Nederland;109.9;16.6
+1187;Groningen (gemeente);Herkomst: Niet-Nederland;20.0;15.5
+1188;Groningen (gemeente);Herkomst: Westers land;11.5;16.5
+1189;Groningen (gemeente);Herkomst: Niet-westers land;8.5;14.1
+1190;Grootegast;Totaal Herkomst (land);7.9;17.0
+1191;Grootegast;Herkomst: Nederland;7.7;17.1
+1192;Grootegast;Herkomst: Niet-Nederland;;
+1193;Grootegast;Herkomst: Westers land;;
+1194;Grootegast;Herkomst: Niet-westers land;;
+1195;Gulpen-Wittem;Totaal Herkomst (land);10.7;17.6
+1196;Gulpen-Wittem;Herkomst: Nederland;9.3;17.8
+1197;Gulpen-Wittem;Herkomst: Niet-Nederland;1.4;16.7
+1198;Gulpen-Wittem;Herkomst: Westers land;1.2;17.1
+1199;Gulpen-Wittem;Herkomst: Niet-westers land;;
+1200;Haaksbergen;Totaal Herkomst (land);17.3;17.4
+1201;Haaksbergen;Herkomst: Nederland;15.4;17.6
+1202;Haaksbergen;Herkomst: Niet-Nederland;1.9;16.0
+1203;Haaksbergen;Herkomst: Westers land;1.3;17.2
+1204;Haaksbergen;Herkomst: Niet-westers land;0.6;13.3
+1205;Haaren;Totaal Herkomst (land);9.7;19.4
+1206;Haaren;Herkomst: Nederland;9.3;19.4
+1207;Haaren;Herkomst: Niet-Nederland;0.5;19.2
+1208;Haaren;Herkomst: Westers land;0.4;20.3
+1209;Haaren;Herkomst: Niet-westers land;;
+1210;Haarlem;Totaal Herkomst (land);106.8;19.2
+1211;Haarlem;Herkomst: Nederland;85.5;19.6
+1212;Haarlem;Herkomst: Niet-Nederland;21.3;17.7
+1213;Haarlem;Herkomst: Westers land;10.9;20.2
+1214;Haarlem;Herkomst: Niet-westers land;10.4;15.0
+1215;Haarlemmerliede en Spaarnwoude;Totaal Herkomst (land);3.8;21.0
+1216;Haarlemmerliede en Spaarnwoude;Herkomst: Nederland;3.3;21.2
+1217;Haarlemmerliede en Spaarnwoude;Herkomst: Niet-Nederland;0.4;19.6
+1218;Haarlemmerliede en Spaarnwoude;Herkomst: Westers land;0.2;20.1
+1219;Haarlemmerliede en Spaarnwoude;Herkomst: Niet-westers land;;
+1220;Haarlemmermeer;Totaal Herkomst (land);95.2;20.5
+1221;Haarlemmermeer;Herkomst: Nederland;77.4;20.7
+1222;Haarlemmermeer;Herkomst: Niet-Nederland;17.8;19.5
+1223;Haarlemmermeer;Herkomst: Westers land;9.3;21.1
+1224;Haarlemmermeer;Herkomst: Niet-westers land;8.5;17.8
+1225;Halderberge;Totaal Herkomst (land);20.8;18.6
+1226;Halderberge;Herkomst: Nederland;18.9;18.8
+1227;Halderberge;Herkomst: Niet-Nederland;1.9;16.8
+1228;Halderberge;Herkomst: Westers land;1.0;18.0
+1229;Halderberge;Herkomst: Niet-westers land;0.9;15.3
+1230;Hardenberg;Totaal Herkomst (land);39.4;17.0
+1231;Hardenberg;Herkomst: Nederland;37.4;17.1
+1232;Hardenberg;Herkomst: Niet-Nederland;2.0;16.6
+1233;Hardenberg;Herkomst: Westers land;1.6;17.5
+1234;Hardenberg;Herkomst: Niet-westers land;0.4;12.9
+1235;Harderwijk;Totaal Herkomst (land);29.0;18.1
+1236;Harderwijk;Herkomst: Nederland;25.0;18.5
+1237;Harderwijk;Herkomst: Niet-Nederland;4.0;15.8
+1238;Harderwijk;Herkomst: Westers land;1.8;18.6
+1239;Harderwijk;Herkomst: Niet-westers land;2.2;13.6
+1240;Hardinxveld-Giessendam;Totaal Herkomst (land);11.6;18.6
+1241;Hardinxveld-Giessendam;Herkomst: Nederland;11.2;18.7
+1242;Hardinxveld-Giessendam;Herkomst: Niet-Nederland;0.4;17.2
+1243;Hardinxveld-Giessendam;Herkomst: Westers land;0.3;19.0
+1244;Hardinxveld-Giessendam;Herkomst: Niet-westers land;;
+1245;Haren;Totaal Herkomst (land);13.0;23.3
+1246;Haren;Herkomst: Nederland;11.9;23.1
+1247;Haren;Herkomst: Niet-Nederland;1.1;25.3
+1248;Haren;Herkomst: Westers land;0.9;26.7
+1249;Haren;Herkomst: Niet-westers land;0.2;18.8
+1250;Harenkarspel;Totaal Herkomst (land);11.0;18.6
+1251;Harenkarspel;Herkomst: Nederland;10.3;18.7
+1252;Harenkarspel;Herkomst: Niet-Nederland;0.7;17.8
+1253;Harenkarspel;Herkomst: Westers land;0.6;19.4
+1254;Harenkarspel;Herkomst: Niet-westers land;;
+1255;Harlingen;Totaal Herkomst (land);10.7;16.9
+1256;Harlingen;Herkomst: Nederland;9.6;17.2
+1257;Harlingen;Herkomst: Niet-Nederland;1.0;14.4
+1258;Harlingen;Herkomst: Westers land;0.8;15.1
+1259;Harlingen;Herkomst: Niet-westers land;0.2;12.0
+1260;Hattem;Totaal Herkomst (land);8.0;19.6
+1261;Hattem;Herkomst: Nederland;7.6;19.4
+1262;Hattem;Herkomst: Niet-Nederland;0.4;23.0
+1263;Hattem;Herkomst: Westers land;0.3;24.5
+1264;Hattem;Herkomst: Niet-westers land;;
+1265;Heemskerk;Totaal Herkomst (land);26.9;19.0
+1266;Heemskerk;Herkomst: Nederland;22.7;19.3
+1267;Heemskerk;Herkomst: Niet-Nederland;4.2;17.3
+1268;Heemskerk;Herkomst: Westers land;2.6;18.6
+1269;Heemskerk;Herkomst: Niet-westers land;1.6;15.1
+1270;Heemstede;Totaal Herkomst (land);18.0;24.9
+1271;Heemstede;Herkomst: Nederland;15.3;24.8
+1272;Heemstede;Herkomst: Niet-Nederland;2.7;25.8
+1273;Heemstede;Herkomst: Westers land;2.1;28.4
+1274;Heemstede;Herkomst: Niet-westers land;0.6;17.6
+1275;Heerde;Totaal Herkomst (land);12.5;18.6
+1276;Heerde;Herkomst: Nederland;11.9;18.6
+1277;Heerde;Herkomst: Niet-Nederland;0.5;17.7
+1278;Heerde;Herkomst: Westers land;0.4;18.0
+1279;Heerde;Herkomst: Niet-westers land;;
+1280;Heerenveen;Totaal Herkomst (land);30.3;17.9
+1281;Heerenveen;Herkomst: Nederland;27.4;18.2
+1282;Heerenveen;Herkomst: Niet-Nederland;2.9;15.8
+1283;Heerenveen;Herkomst: Westers land;1.7;17.4
+1284;Heerenveen;Herkomst: Niet-westers land;1.2;13.5
+1285;Heerhugowaard;Totaal Herkomst (land);34.6;18.4
+1286;Heerhugowaard;Herkomst: Nederland;29.4;18.7
+1287;Heerhugowaard;Herkomst: Niet-Nederland;5.3;16.3
+1288;Heerhugowaard;Herkomst: Westers land;2.7;17.5
+1289;Heerhugowaard;Herkomst: Niet-westers land;2.5;15.0
+1290;Heerlen;Totaal Herkomst (land);66.0;16.4
+1291;Heerlen;Herkomst: Nederland;48.3;16.8
+1292;Heerlen;Herkomst: Niet-Nederland;17.7;15.2
+1293;Heerlen;Herkomst: Westers land;14.3;15.6
+1294;Heerlen;Herkomst: Niet-westers land;3.4;13.3
+1295;Heeze-Leende;Totaal Herkomst (land);10.6;20.5
+1296;Heeze-Leende;Herkomst: Nederland;9.9;20.6
+1297;Heeze-Leende;Herkomst: Niet-Nederland;0.8;19.7
+1298;Heeze-Leende;Herkomst: Westers land;0.7;20.5
+1299;Heeze-Leende;Herkomst: Niet-westers land;;
+1300;Heiloo;Totaal Herkomst (land);15.5;21.7
+1301;Heiloo;Herkomst: Nederland;14.1;21.8
+1302;Heiloo;Herkomst: Niet-Nederland;1.4;21.6
+1303;Heiloo;Herkomst: Westers land;1.1;23.6
+1304;Heiloo;Herkomst: Niet-westers land;0.4;16.0
+1305;Helden;Totaal Herkomst (land);14.0;17.3
+1306;Helden;Herkomst: Nederland;12.6;17.6
+1307;Helden;Herkomst: Niet-Nederland;1.4;15.1
+1308;Helden;Herkomst: Westers land;0.8;15.3
+1309;Helden;Herkomst: Niet-westers land;0.5;14.7
+1310;Hellendoorn;Totaal Herkomst (land);25.0;17.4
+1311;Hellendoorn;Herkomst: Nederland;23.6;17.4
+1312;Hellendoorn;Herkomst: Niet-Nederland;1.4;16.9
+1313;Hellendoorn;Herkomst: Westers land;1.1;17.8
+1314;Hellendoorn;Herkomst: Niet-westers land;0.3;13.5
+1315;Hellevoetsluis;Totaal Herkomst (land);27.3;19.2
+1316;Hellevoetsluis;Herkomst: Nederland;23.2;19.3
+1317;Hellevoetsluis;Herkomst: Niet-Nederland;4.1;18.6
+1318;Hellevoetsluis;Herkomst: Westers land;2.5;21.0
+1319;Hellevoetsluis;Herkomst: Niet-westers land;1.6;14.8
+1320;Helmond;Totaal Herkomst (land);59.3;17.6
+1321;Helmond;Herkomst: Nederland;48.3;17.9
+1322;Helmond;Herkomst: Niet-Nederland;11.0;15.8
+1323;Helmond;Herkomst: Westers land;6.0;17.2
+1324;Helmond;Herkomst: Niet-westers land;5.0;14.1
+1325;Hendrik-Ido-Ambacht;Totaal Herkomst (land);16.4;20.0
+1326;Hendrik-Ido-Ambacht;Herkomst: Nederland;14.6;20.1
+1327;Hendrik-Ido-Ambacht;Herkomst: Niet-Nederland;1.8;19.1
+1328;Hendrik-Ido-Ambacht;Herkomst: Westers land;1.1;20.3
+1329;Hendrik-Ido-Ambacht;Herkomst: Niet-westers land;0.7;17.0
+1330;Hengelo (O.);Totaal Herkomst (land);57.6;17.5
+1331;Hengelo (O.);Herkomst: Nederland;46.8;17.9
+1332;Hengelo (O.);Herkomst: Niet-Nederland;10.8;15.4
+1333;Hengelo (O.);Herkomst: Westers land;6.1;16.6
+1334;Hengelo (O.);Herkomst: Niet-westers land;4.7;13.8
+1335;Het Bildt;Totaal Herkomst (land);7.4;16.7
+1336;Het Bildt;Herkomst: Nederland;7.1;16.8
+1337;Het Bildt;Herkomst: Niet-Nederland;0.3;14.6
+1338;Het Bildt;Herkomst: Westers land;0.2;15.4
+1339;Het Bildt;Herkomst: Niet-westers land;;
+1340;Heumen;Totaal Herkomst (land);11.5;20.1
+1341;Heumen;Herkomst: Nederland;10.3;19.9
+1342;Heumen;Herkomst: Niet-Nederland;1.2;21.7
+1343;Heumen;Herkomst: Westers land;1.0;22.5
+1344;Heumen;Herkomst: Niet-westers land;0.2;17.6
+1345;Heusden;Totaal Herkomst (land);29.9;18.6
+1346;Heusden;Herkomst: Nederland;26.7;18.8
+1347;Heusden;Herkomst: Niet-Nederland;3.2;16.7
+1348;Heusden;Herkomst: Westers land;1.7;18.3
+1349;Heusden;Herkomst: Niet-westers land;1.4;14.8
+1350;Hillegom;Totaal Herkomst (land);14.6;19.2
+1351;Hillegom;Herkomst: Nederland;13.1;19.5
+1352;Hillegom;Herkomst: Niet-Nederland;1.5;16.6
+1353;Hillegom;Herkomst: Westers land;1.1;17.4
+1354;Hillegom;Herkomst: Niet-westers land;0.4;14.6
+1355;Hilvarenbeek;Totaal Herkomst (land);10.5;19.4
+1356;Hilvarenbeek;Herkomst: Nederland;9.9;19.4
+1357;Hilvarenbeek;Herkomst: Niet-Nederland;0.6;19.5
+1358;Hilvarenbeek;Herkomst: Westers land;0.5;20.0
+1359;Hilvarenbeek;Herkomst: Niet-westers land;;
+1360;Hilversum;Totaal Herkomst (land);60.0;20.6
+1361;Hilversum;Herkomst: Nederland;49.3;20.8
+1362;Hilversum;Herkomst: Niet-Nederland;10.8;19.7
+1363;Hilversum;Herkomst: Westers land;6.3;22.6
+1364;Hilversum;Herkomst: Niet-westers land;4.5;15.8
+1365;Hof van Twente;Totaal Herkomst (land);24.8;18.3
+1366;Hof van Twente;Herkomst: Nederland;23.0;18.4
+1367;Hof van Twente;Herkomst: Niet-Nederland;1.8;16.9
+1368;Hof van Twente;Herkomst: Westers land;1.3;17.7
+1369;Hof van Twente;Herkomst: Niet-westers land;0.4;14.5
+1370;Hoogeveen;Totaal Herkomst (land);38.2;16.6
+1371;Hoogeveen;Herkomst: Nederland;35.2;16.7
+1372;Hoogeveen;Herkomst: Niet-Nederland;3.0;15.1
+1373;Hoogeveen;Herkomst: Westers land;2.3;15.8
+1374;Hoogeveen;Herkomst: Niet-westers land;0.7;12.7
+1375;Hoogezand-Sappemeer;Totaal Herkomst (land);24.1;16.4
+1376;Hoogezand-Sappemeer;Herkomst: Nederland;20.7;16.6
+1377;Hoogezand-Sappemeer;Herkomst: Niet-Nederland;3.3;15.1
+1378;Hoogezand-Sappemeer;Herkomst: Westers land;1.4;16.0
+1379;Hoogezand-Sappemeer;Herkomst: Niet-westers land;1.9;14.5
+1380;Hoorn;Totaal Herkomst (land);48.0;18.6
+1381;Hoorn;Herkomst: Nederland;39.4;19.0
+1382;Hoorn;Herkomst: Niet-Nederland;8.6;16.5
+1383;Hoorn;Herkomst: Westers land;3.9;18.2
+1384;Hoorn;Herkomst: Niet-westers land;4.7;15.0
+1385;Horst aan de Maas;Totaal Herkomst (land);20.6;17.3
+1386;Horst aan de Maas;Herkomst: Nederland;19.1;17.4
+1387;Horst aan de Maas;Herkomst: Niet-Nederland;1.5;16.7
+1388;Horst aan de Maas;Herkomst: Westers land;1.1;17.8
+1389;Horst aan de Maas;Herkomst: Niet-westers land;0.3;13.1
+1390;Houten;Totaal Herkomst (land);30.5;20.9
+1391;Houten;Herkomst: Nederland;27.0;21.0
+1392;Houten;Herkomst: Niet-Nederland;3.5;20.1
+1393;Houten;Herkomst: Westers land;2.1;22.2
+1394;Houten;Herkomst: Niet-westers land;1.4;16.7
+1395;Huizen;Totaal Herkomst (land);29.1;20.8
+1396;Huizen;Herkomst: Nederland;24.4;21.0
+1397;Huizen;Herkomst: Niet-Nederland;4.7;19.7
+1398;Huizen;Herkomst: Westers land;3.0;22.1
+1399;Huizen;Herkomst: Niet-westers land;1.7;15.4
+1400;Hulst;Totaal Herkomst (land);19.0;18.0
+1401;Hulst;Herkomst: Nederland;15.4;18.4
+1402;Hulst;Herkomst: Niet-Nederland;3.6;16.4
+1403;Hulst;Herkomst: Westers land;3.4;16.5
+1404;Hulst;Herkomst: Niet-westers land;0.2;13.7
+1405;IJsselstein;Totaal Herkomst (land);22.8;20.2
+1406;IJsselstein;Herkomst: Nederland;19.1;20.7
+1407;IJsselstein;Herkomst: Niet-Nederland;3.7;17.8
+1408;IJsselstein;Herkomst: Westers land;1.6;20.0
+1409;IJsselstein;Herkomst: Niet-westers land;2.1;16.1
+1410;Jacobswoude;Totaal Herkomst (land);7.5;20.6
+1411;Jacobswoude;Herkomst: Nederland;7.0;20.4
+1412;Jacobswoude;Herkomst: Niet-Nederland;0.5;22.6
+1413;Jacobswoude;Herkomst: Westers land;0.4;24.5
+1414;Jacobswoude;Herkomst: Niet-westers land;;
+1415;Kampen;Totaal Herkomst (land);33.5;16.9
+1416;Kampen;Herkomst: Nederland;31.3;17.0
+1417;Kampen;Herkomst: Niet-Nederland;2.3;15.5
+1418;Kampen;Herkomst: Westers land;1.2;17.7
+1419;Kampen;Herkomst: Niet-westers land;1.1;13.3
+1420;Kapelle;Totaal Herkomst (land);8.2;18.7
+1421;Kapelle;Herkomst: Nederland;7.7;18.7
+1422;Kapelle;Herkomst: Niet-Nederland;0.5;18.4
+1423;Kapelle;Herkomst: Westers land;0.4;19.2
+1424;Kapelle;Herkomst: Niet-westers land;;
+1425;Katwijk;Totaal Herkomst (land);41.2;18.3
+1426;Katwijk;Herkomst: Nederland;38.3;18.4
+1427;Katwijk;Herkomst: Niet-Nederland;2.8;16.4
+1428;Katwijk;Herkomst: Westers land;1.8;17.5
+1429;Katwijk;Herkomst: Niet-westers land;1.0;14.6
+1430;Kerkrade;Totaal Herkomst (land);34.3;15.7
+1431;Kerkrade;Herkomst: Nederland;24.7;16.0
+1432;Kerkrade;Herkomst: Niet-Nederland;9.6;14.8
+1433;Kerkrade;Herkomst: Westers land;8.8;15.0
+1434;Kerkrade;Herkomst: Niet-westers land;0.8;12.9
+1435;Kessel;Totaal Herkomst (land);3.0;17.1
+1436;Kessel;Herkomst: Nederland;2.8;17.2
+1437;Kessel;Herkomst: Niet-Nederland;0.2;15.3
+1438;Kessel;Herkomst: Westers land;0.2;15.3
+1439;Kessel;Herkomst: Niet-westers land;;
+1440;Koggenland;Totaal Herkomst (land);14.8;18.9
+1441;Koggenland;Herkomst: Nederland;13.9;18.9
+1442;Koggenland;Herkomst: Niet-Nederland;0.9;19.0
+1443;Koggenland;Herkomst: Westers land;0.7;20.2
+1444;Koggenland;Herkomst: Niet-westers land;0.2;15.4
+1445;Kollumerland en Nieuwkruisland;Totaal Herkomst (land);8.8;16.4
+1446;Kollumerland en Nieuwkruisland;Herkomst: Nederland;8.5;16.3
+1447;Kollumerland en Nieuwkruisland;Herkomst: Niet-Nederland;0.3;18.1
+1448;Kollumerland en Nieuwkruisland;Herkomst: Westers land;0.2;17.1
+1449;Kollumerland en Nieuwkruisland;Herkomst: Niet-westers land;;
+1450;Korendijk;Totaal Herkomst (land);7.3;19.4
+1451;Korendijk;Herkomst: Nederland;6.9;19.6
+1452;Korendijk;Herkomst: Niet-Nederland;0.4;17.4
+1453;Korendijk;Herkomst: Westers land;0.3;18.9
+1454;Korendijk;Herkomst: Niet-westers land;;
+1455;Krimpen aan den IJssel;Totaal Herkomst (land);19.6;20.1
+1456;Krimpen aan den IJssel;Herkomst: Nederland;17.3;20.3
+1457;Krimpen aan den IJssel;Herkomst: Niet-Nederland;2.3;18.5
+1458;Krimpen aan den IJssel;Herkomst: Westers land;1.7;19.1
+1459;Krimpen aan den IJssel;Herkomst: Niet-westers land;0.6;16.8
+1460;Laarbeek;Totaal Herkomst (land);15.1;18.4
+1461;Laarbeek;Herkomst: Nederland;14.1;18.6
+1462;Laarbeek;Herkomst: Niet-Nederland;1.0;15.3
+1463;Laarbeek;Herkomst: Westers land;0.8;16.2
+1464;Laarbeek;Herkomst: Niet-westers land;0.2;11.9
+1465;Landerd;Totaal Herkomst (land);10.3;18.1
+1466;Landerd;Herkomst: Nederland;9.8;18.2
+1467;Landerd;Herkomst: Niet-Nederland;0.5;17.1
+1468;Landerd;Herkomst: Westers land;0.4;17.6
+1469;Landerd;Herkomst: Niet-westers land;;
+1470;Landgraaf;Totaal Herkomst (land);27.8;16.7
+1471;Landgraaf;Herkomst: Nederland;20.9;17.1
+1472;Landgraaf;Herkomst: Niet-Nederland;6.9;15.6
+1473;Landgraaf;Herkomst: Westers land;6.3;16.1
+1474;Landgraaf;Herkomst: Niet-westers land;0.6;11.3
+1475;Landsmeer;Totaal Herkomst (land);7.3;21.5
+1476;Landsmeer;Herkomst: Nederland;6.5;21.2
+1477;Landsmeer;Herkomst: Niet-Nederland;0.7;24.2
+1478;Landsmeer;Herkomst: Westers land;0.5;25.8
+1479;Landsmeer;Herkomst: Niet-westers land;;
+1480;Langedijk;Totaal Herkomst (land);17.8;19.4
+1481;Langedijk;Herkomst: Nederland;16.3;19.5
+1482;Langedijk;Herkomst: Niet-Nederland;1.5;18.1
+1483;Langedijk;Herkomst: Westers land;1.0;20.6
+1484;Langedijk;Herkomst: Niet-westers land;0.5;13.6
+1485;Lansingerland;Totaal Herkomst (land);31.8;21.7
+1486;Lansingerland;Herkomst: Nederland;28.2;21.7
+1487;Lansingerland;Herkomst: Niet-Nederland;3.6;21.5
+1488;Lansingerland;Herkomst: Westers land;2.1;24.3
+1489;Lansingerland;Herkomst: Niet-westers land;1.4;17.4
+1490;Laren (NH.);Totaal Herkomst (land);7.7;28.1
+1491;Laren (NH.);Herkomst: Nederland;6.7;28.0
+1492;Laren (NH.);Herkomst: Niet-Nederland;1.0;29.2
+1493;Laren (NH.);Herkomst: Westers land;0.9;29.6
+1494;Laren (NH.);Herkomst: Niet-westers land;;
+1495;Leek;Totaal Herkomst (land);13.2;17.7
+1496;Leek;Herkomst: Nederland;12.4;17.6
+1497;Leek;Herkomst: Niet-Nederland;0.8;18.8
+1498;Leek;Herkomst: Westers land;0.6;20.4
+1499;Leek;Herkomst: Niet-westers land;;
+1500;Leerdam;Totaal Herkomst (land);14.3;17.6
+1501;Leerdam;Herkomst: Nederland;11.7;18.2
+1502;Leerdam;Herkomst: Niet-Nederland;2.6;15.0
+1503;Leerdam;Herkomst: Westers land;1.2;16.2
+1504;Leerdam;Herkomst: Niet-westers land;1.3;13.8
+1505;Leeuwarden;Totaal Herkomst (land);66.0;16.7
+1506;Leeuwarden;Herkomst: Nederland;57.5;16.9
+1507;Leeuwarden;Herkomst: Niet-Nederland;8.5;15.1
+1508;Leeuwarden;Herkomst: Westers land;4.6;16.7
+1509;Leeuwarden;Herkomst: Niet-westers land;4.0;13.3
+1510;Leeuwarderadeel;Totaal Herkomst (land);7.1;17.5
+1511;Leeuwarderadeel;Herkomst: Nederland;6.8;17.5
+1512;Leeuwarderadeel;Herkomst: Niet-Nederland;0.4;18.5
+1513;Leeuwarderadeel;Herkomst: Westers land;0.3;18.6
+1514;Leeuwarderadeel;Herkomst: Niet-westers land;;
+1515;Leiden;Totaal Herkomst (land);82.1;19.1
+1516;Leiden;Herkomst: Nederland;65.1;19.3
+1517;Leiden;Herkomst: Niet-Nederland;17.0;18.3
+1518;Leiden;Herkomst: Westers land;8.5;21.3
+1519;Leiden;Herkomst: Niet-westers land;8.5;15.3
+1520;Leiderdorp;Totaal Herkomst (land);18.2;21.0
+1521;Leiderdorp;Herkomst: Nederland;15.1;21.3
+1522;Leiderdorp;Herkomst: Niet-Nederland;3.1;19.7
+1523;Leiderdorp;Herkomst: Westers land;1.9;21.8
+1524;Leiderdorp;Herkomst: Niet-westers land;1.2;16.5
+1525;Leidschendam-Voorburg;Totaal Herkomst (land);52.5;21.3
+1526;Leidschendam-Voorburg;Herkomst: Nederland;40.7;21.6
+1527;Leidschendam-Voorburg;Herkomst: Niet-Nederland;11.7;20.3
+1528;Leidschendam-Voorburg;Herkomst: Westers land;7.0;22.6
+1529;Leidschendam-Voorburg;Herkomst: Niet-westers land;4.7;17.0
+1530;Lelystad;Totaal Herkomst (land);49.4;17.8
+1531;Lelystad;Herkomst: Nederland;38.2;18.4
+1532;Lelystad;Herkomst: Niet-Nederland;11.2;15.6
+1533;Lelystad;Herkomst: Westers land;4.4;17.3
+1534;Lelystad;Herkomst: Niet-westers land;6.8;14.5
+1535;Lemsterland;Totaal Herkomst (land);9.0;18.1
+1536;Lemsterland;Herkomst: Nederland;8.3;18.2
+1537;Lemsterland;Herkomst: Niet-Nederland;0.7;16.3
+1538;Lemsterland;Herkomst: Westers land;0.5;17.4
+1539;Lemsterland;Herkomst: Niet-westers land;0.2;13.4
+1540;Leudal;Totaal Herkomst (land);26.1;18.2
+1541;Leudal;Herkomst: Nederland;23.9;18.3
+1542;Leudal;Herkomst: Niet-Nederland;2.2;17.5
+1543;Leudal;Herkomst: Westers land;2.0;17.8
+1544;Leudal;Herkomst: Niet-westers land;;
+1545;Leusden;Totaal Herkomst (land);19.9;21.3
+1546;Leusden;Herkomst: Nederland;17.6;21.4
+1547;Leusden;Herkomst: Niet-Nederland;2.3;20.5
+1548;Leusden;Herkomst: Westers land;1.7;21.5
+1549;Leusden;Herkomst: Niet-westers land;0.6;17.7
+1550;Liesveld;Totaal Herkomst (land);6.3;19.6
+1551;Liesveld;Herkomst: Nederland;6.0;19.6
+1552;Liesveld;Herkomst: Niet-Nederland;0.3;18.9
+1553;Liesveld;Herkomst: Westers land;;
+1554;Liesveld;Herkomst: Niet-westers land;;
+1555;Lingewaal;Totaal Herkomst (land);7.3;19.4
+1556;Lingewaal;Herkomst: Nederland;6.8;19.5
+1557;Lingewaal;Herkomst: Niet-Nederland;0.5;19.1
+1558;Lingewaal;Herkomst: Westers land;0.3;21.2
+1559;Lingewaal;Herkomst: Niet-westers land;0.3;16.7
+1560;Lingewaard;Totaal Herkomst (land);31.0;18.2
+1561;Lingewaard;Herkomst: Nederland;28.2;18.2
+1562;Lingewaard;Herkomst: Niet-Nederland;2.8;18.4
+1563;Lingewaard;Herkomst: Westers land;2.3;17.8
+1564;Lingewaard;Herkomst: Niet-westers land;0.5;21.4
+1565;Lisse;Totaal Herkomst (land);15.5;19.1
+1566;Lisse;Herkomst: Nederland;14.1;19.3
+1567;Lisse;Herkomst: Niet-Nederland;1.4;17.7
+1568;Lisse;Herkomst: Westers land;1.0;18.8
+1569;Lisse;Herkomst: Niet-westers land;0.4;14.3
+1570;Lith;Totaal Herkomst (land);4.5;18.4
+1571;Lith;Herkomst: Nederland;4.4;18.4
+1572;Lith;Herkomst: Niet-Nederland;;
+1573;Lith;Herkomst: Westers land;;
+1574;Lith;Herkomst: Niet-westers land;;
+1575;Littenseradiel;Totaal Herkomst (land);7.2;18.1
+1576;Littenseradiel;Herkomst: Nederland;6.9;18.1
+1577;Littenseradiel;Herkomst: Niet-Nederland;0.3;18.3
+1578;Littenseradiel;Herkomst: Westers land;0.3;18.7
+1579;Littenseradiel;Herkomst: Niet-westers land;;
+1580;Lochem;Totaal Herkomst (land);23.4;20.0
+1581;Lochem;Herkomst: Nederland;21.5;20.1
+1582;Lochem;Herkomst: Niet-Nederland;1.9;18.5
+1583;Lochem;Herkomst: Westers land;1.3;20.0
+1584;Lochem;Herkomst: Niet-westers land;0.6;14.9
+1585;Loenen;Totaal Herkomst (land);5.7;24.6
+1586;Loenen;Herkomst: Nederland;5.0;23.7
+1587;Loenen;Herkomst: Niet-Nederland;0.7;31.5
+1588;Loenen;Herkomst: Westers land;0.5;34.9
+1589;Loenen;Herkomst: Niet-westers land;;
+1590;Loon op Zand;Totaal Herkomst (land);16.3;18.3
+1591;Loon op Zand;Herkomst: Nederland;15.1;18.3
+1592;Loon op Zand;Herkomst: Niet-Nederland;1.2;18.7
+1593;Loon op Zand;Herkomst: Westers land;0.8;19.6
+1594;Loon op Zand;Herkomst: Niet-westers land;0.3;16.4
+1595;Lopik;Totaal Herkomst (land);9.2;19.9
+1596;Lopik;Herkomst: Nederland;8.8;19.9
+1597;Lopik;Herkomst: Niet-Nederland;0.5;19.1
+1598;Lopik;Herkomst: Westers land;0.2;21.5
+1599;Lopik;Herkomst: Niet-westers land;0.2;16.3
+1600;Loppersum;Totaal Herkomst (land);7.3;17.3
+1601;Loppersum;Herkomst: Nederland;6.9;17.3
+1602;Loppersum;Herkomst: Niet-Nederland;0.4;18.4
+1603;Loppersum;Herkomst: Westers land;0.3;20.1
+1604;Loppersum;Herkomst: Niet-westers land;;
+1605;Losser;Totaal Herkomst (land);15.9;16.9
+1606;Losser;Herkomst: Nederland;13.5;17.1
+1607;Losser;Herkomst: Niet-Nederland;2.4;15.7
+1608;Losser;Herkomst: Westers land;2.1;16.2
+1609;Losser;Herkomst: Niet-westers land;0.3;12.2
+1610;Maarssen;Totaal Herkomst (land);28.0;20.1
+1611;Maarssen;Herkomst: Nederland;23.4;20.4
+1612;Maarssen;Herkomst: Niet-Nederland;4.6;18.7
+1613;Maarssen;Herkomst: Westers land;2.7;20.7
+1614;Maarssen;Herkomst: Niet-westers land;2.0;16.0
+1615;Maasbree;Totaal Herkomst (land);9.1;17.9
+1616;Maasbree;Herkomst: Nederland;8.5;18.0
+1617;Maasbree;Herkomst: Niet-Nederland;0.7;17.0
+1618;Maasbree;Herkomst: Westers land;0.6;16.5
+1619;Maasbree;Herkomst: Niet-westers land;;
+1620;Maasdonk;Totaal Herkomst (land);7.7;18.5
+1621;Maasdonk;Herkomst: Nederland;7.4;18.5
+1622;Maasdonk;Herkomst: Niet-Nederland;0.2;18.6
+1623;Maasdonk;Herkomst: Westers land;;
+1624;Maasdonk;Herkomst: Niet-westers land;;
+1625;Maasdriel;Totaal Herkomst (land);16.4;18.8
+1626;Maasdriel;Herkomst: Nederland;15.3;18.9
+1627;Maasdriel;Herkomst: Niet-Nederland;1.1;17.6
+1628;Maasdriel;Herkomst: Westers land;0.9;18.2
+1629;Maasdriel;Herkomst: Niet-westers land;0.2;15.2
+1630;Maasgouw;Totaal Herkomst (land);17.7;17.8
+1631;Maasgouw;Herkomst: Nederland;15.5;18.1
+1632;Maasgouw;Herkomst: Niet-Nederland;2.3;16.0
+1633;Maasgouw;Herkomst: Westers land;2.1;16.3
+1634;Maasgouw;Herkomst: Niet-westers land;;
+1635;Maassluis;Totaal Herkomst (land);22.6;18.5
+1636;Maassluis;Herkomst: Nederland;18.2;19.2
+1637;Maassluis;Herkomst: Niet-Nederland;4.3;15.7
+1638;Maassluis;Herkomst: Westers land;1.7;17.6
+1639;Maassluis;Herkomst: Niet-westers land;2.6;14.5
+1640;Maastricht;Totaal Herkomst (land);85.5;16.9
+1641;Maastricht;Herkomst: Nederland;69.3;17.2
+1642;Maastricht;Herkomst: Niet-Nederland;16.1;15.7
+1643;Maastricht;Herkomst: Westers land;12.0;16.6
+1644;Maastricht;Herkomst: Niet-westers land;4.1;13.2
+1645;Margraten;Totaal Herkomst (land);9.4;18.9
+1646;Margraten;Herkomst: Nederland;8.4;19.1
+1647;Margraten;Herkomst: Niet-Nederland;1.0;17.4
+1648;Margraten;Herkomst: Westers land;0.9;17.4
+1649;Margraten;Herkomst: Niet-westers land;;
+1650;Marum;Totaal Herkomst (land);6.7;18.0
+1651;Marum;Herkomst: Nederland;6.4;18.1
+1652;Marum;Herkomst: Niet-Nederland;0.3;15.8
+1653;Marum;Herkomst: Westers land;0.3;15.7
+1654;Marum;Herkomst: Niet-westers land;;
+1655;Medemblik;Totaal Herkomst (land);18.3;19.2
+1656;Medemblik;Herkomst: Nederland;16.9;19.3
+1657;Medemblik;Herkomst: Niet-Nederland;1.4;18.0
+1658;Medemblik;Herkomst: Westers land;0.9;19.0
+1659;Medemblik;Herkomst: Niet-westers land;0.5;16.1
+1660;Meerlo-Wanssum;Totaal Herkomst (land);5.5;17.2
+1661;Meerlo-Wanssum;Herkomst: Nederland;5.1;17.1
+1662;Meerlo-Wanssum;Herkomst: Niet-Nederland;0.4;17.3
+1663;Meerlo-Wanssum;Herkomst: Westers land;0.3;17.1
+1664;Meerlo-Wanssum;Herkomst: Niet-westers land;;
+1665;Meerssen;Totaal Herkomst (land);14.1;18.7
+1666;Meerssen;Herkomst: Nederland;12.6;18.9
+1667;Meerssen;Herkomst: Niet-Nederland;1.5;17.4
+1668;Meerssen;Herkomst: Westers land;1.4;18.3
+1669;Meerssen;Herkomst: Niet-westers land;;
+1670;Meijel;Totaal Herkomst (land);4.2;17.6
+1671;Meijel;Herkomst: Nederland;4.1;17.6
+1672;Meijel;Herkomst: Niet-Nederland;;
+1673;Meijel;Herkomst: Westers land;;
+1674;Meijel;Herkomst: Niet-westers land;;
+1675;Menaldumadeel;Totaal Herkomst (land);9.4;17.7
+1676;Menaldumadeel;Herkomst: Nederland;9.0;17.7
+1677;Menaldumadeel;Herkomst: Niet-Nederland;0.4;18.1
+1678;Menaldumadeel;Herkomst: Westers land;0.3;19.1
+1679;Menaldumadeel;Herkomst: Niet-westers land;;
+1680;Menterwolde;Totaal Herkomst (land);8.6;16.6
+1681;Menterwolde;Herkomst: Nederland;8.2;16.5
+1682;Menterwolde;Herkomst: Niet-Nederland;0.4;19.1
+1683;Menterwolde;Herkomst: Westers land;0.4;19.3
+1684;Menterwolde;Herkomst: Niet-westers land;;
+1685;Meppel;Totaal Herkomst (land);22.1;17.6
+1686;Meppel;Herkomst: Nederland;20.2;17.8
+1687;Meppel;Herkomst: Niet-Nederland;1.9;16.0
+1688;Meppel;Herkomst: Westers land;1.2;17.3
+1689;Meppel;Herkomst: Niet-westers land;0.8;14.1
+1690;Middelburg (Z.);Totaal Herkomst (land);33.3;18.0
+1691;Middelburg (Z.);Herkomst: Nederland;28.7;18.2
+1692;Middelburg (Z.);Herkomst: Niet-Nederland;4.6;16.7
+1693;Middelburg (Z.);Herkomst: Westers land;3.0;18.0
+1694;Middelburg (Z.);Herkomst: Niet-westers land;1.6;14.4
+1695;Middelharnis;Totaal Herkomst (land);12.4;18.2
+1696;Middelharnis;Herkomst: Nederland;11.9;18.2
+1697;Middelharnis;Herkomst: Niet-Nederland;0.6;17.5
+1698;Middelharnis;Herkomst: Westers land;0.4;19.5
+1699;Middelharnis;Herkomst: Niet-westers land;;
+1700;Midden-Delfland;Totaal Herkomst (land);12.0;20.5
+1701;Midden-Delfland;Herkomst: Nederland;11.2;20.6
+1702;Midden-Delfland;Herkomst: Niet-Nederland;0.9;19.2
+1703;Midden-Delfland;Herkomst: Westers land;0.5;20.5
+1704;Midden-Delfland;Herkomst: Niet-westers land;0.3;16.8
+1705;Midden-Drenthe;Totaal Herkomst (land);23.5;17.3
+1706;Midden-Drenthe;Herkomst: Nederland;22.4;17.4
+1707;Midden-Drenthe;Herkomst: Niet-Nederland;1.2;17.2
+1708;Midden-Drenthe;Herkomst: Westers land;1.0;17.8
+1709;Midden-Drenthe;Herkomst: Niet-westers land;;
+1710;Mill en Sint Hubert;Totaal Herkomst (land);7.8;16.8
+1711;Mill en Sint Hubert;Herkomst: Nederland;7.4;16.9
+1712;Mill en Sint Hubert;Herkomst: Niet-Nederland;0.4;15.4
+1713;Mill en Sint Hubert;Herkomst: Westers land;0.3;16.4
+1714;Mill en Sint Hubert;Herkomst: Niet-westers land;;
+1715;Millingen aan de Rijn;Totaal Herkomst (land);4.1;17.0
+1716;Millingen aan de Rijn;Herkomst: Nederland;3.5;17.2
+1717;Millingen aan de Rijn;Herkomst: Niet-Nederland;0.6;16.2
+1718;Millingen aan de Rijn;Herkomst: Westers land;0.6;16.7
+1719;Millingen aan de Rijn;Herkomst: Niet-westers land;;
+1720;Moerdijk;Totaal Herkomst (land);25.7;18.8
+1721;Moerdijk;Herkomst: Nederland;23.7;18.9
+1722;Moerdijk;Herkomst: Niet-Nederland;2.0;17.6
+1723;Moerdijk;Herkomst: Westers land;1.3;19.3
+1724;Moerdijk;Herkomst: Niet-westers land;0.6;13.9
+1725;Montferland;Totaal Herkomst (land);24.6;17.3
+1726;Montferland;Herkomst: Nederland;22.0;17.5
+1727;Montferland;Herkomst: Niet-Nederland;2.5;15.6
+1728;Montferland;Herkomst: Westers land;2.2;16.1
+1729;Montferland;Herkomst: Niet-westers land;0.3;12.2
+1730;Montfoort;Totaal Herkomst (land);9.1;20.1
+1731;Montfoort;Herkomst: Nederland;8.4;20.0
+1732;Montfoort;Herkomst: Niet-Nederland;0.8;21.1
+1733;Montfoort;Herkomst: Westers land;0.5;23.0
+1734;Montfoort;Herkomst: Niet-westers land;0.2;16.5
+1735;Mook en Middelaar;Totaal Herkomst (land);5.7;20.5
+1736;Mook en Middelaar;Herkomst: Nederland;5.0;20.7
+1737;Mook en Middelaar;Herkomst: Niet-Nederland;0.7;19.4
+1738;Mook en Middelaar;Herkomst: Westers land;0.5;20.3
+1739;Mook en Middelaar;Herkomst: Niet-westers land;;
+1740;Moordrecht;Totaal Herkomst (land);5.4;18.9
+1741;Moordrecht;Herkomst: Nederland;4.2;19.4
+1742;Moordrecht;Herkomst: Niet-Nederland;1.1;17.0
+1743;Moordrecht;Herkomst: Westers land;0.9;18.0
+1744;Moordrecht;Herkomst: Niet-westers land;0.3;13.7
+1745;Muiden;Totaal Herkomst (land);4.5;25.7
+1746;Muiden;Herkomst: Nederland;3.9;25.8
+1747;Muiden;Herkomst: Niet-Nederland;0.6;25.2
+1748;Muiden;Herkomst: Westers land;0.5;28.4
+1749;Muiden;Herkomst: Niet-westers land;;
+1750;Naarden;Totaal Herkomst (land);11.6;26.9
+1751;Naarden;Herkomst: Nederland;9.6;26.8
+1752;Naarden;Herkomst: Niet-Nederland;2.0;27.3
+1753;Naarden;Herkomst: Westers land;1.4;30.3
+1754;Naarden;Herkomst: Niet-westers land;0.5;18.7
+1755;Neder-Betuwe;Totaal Herkomst (land);14.0;18.1
+1756;Neder-Betuwe;Herkomst: Nederland;13.1;18.2
+1757;Neder-Betuwe;Herkomst: Niet-Nederland;0.9;17.0
+1758;Neder-Betuwe;Herkomst: Westers land;0.7;17.8
+1759;Neder-Betuwe;Herkomst: Niet-westers land;;
+1760;Nederlek;Totaal Herkomst (land);10.0;19.9
+1761;Nederlek;Herkomst: Nederland;9.4;20.0
+1762;Nederlek;Herkomst: Niet-Nederland;0.7;19.0
+1763;Nederlek;Herkomst: Westers land;0.5;19.3
+1764;Nederlek;Herkomst: Niet-westers land;;
+1765;Nederweert;Totaal Herkomst (land);11.6;17.4
+1766;Nederweert;Herkomst: Nederland;10.9;17.4
+1767;Nederweert;Herkomst: Niet-Nederland;0.7;17.0
+1768;Nederweert;Herkomst: Westers land;0.6;17.6
+1769;Nederweert;Herkomst: Niet-westers land;;
+1770;Neerijnen;Totaal Herkomst (land);7.9;19.5
+1771;Neerijnen;Herkomst: Nederland;7.5;19.5
+1772;Neerijnen;Herkomst: Niet-Nederland;0.4;20.1
+1773;Neerijnen;Herkomst: Westers land;0.3;21.7
+1774;Neerijnen;Herkomst: Niet-westers land;;
+1775;Niedorp;Totaal Herkomst (land);8.2;18.7
+1776;Niedorp;Herkomst: Nederland;7.7;18.9
+1777;Niedorp;Herkomst: Niet-Nederland;0.4;16.6
+1778;Niedorp;Herkomst: Westers land;0.3;17.8
+1779;Niedorp;Herkomst: Niet-westers land;;
+1780;Nieuwegein;Totaal Herkomst (land);45.0;18.8
+1781;Nieuwegein;Herkomst: Nederland;36.1;19.2
+1782;Nieuwegein;Herkomst: Niet-Nederland;8.8;17.2
+1783;Nieuwegein;Herkomst: Westers land;4.3;18.8
+1784;Nieuwegein;Herkomst: Niet-westers land;4.5;15.6
+1785;Nieuwerkerk aan den IJssel;Totaal Herkomst (land);14.8;21.2
+1786;Nieuwerkerk aan den IJssel;Herkomst: Nederland;13.1;21.4
+1787;Nieuwerkerk aan den IJssel;Herkomst: Niet-Nederland;1.7;20.0
+1788;Nieuwerkerk aan den IJssel;Herkomst: Westers land;1.0;22.3
+1789;Nieuwerkerk aan den IJssel;Herkomst: Niet-westers land;0.7;16.9
+1790;Nieuwkoop;Totaal Herkomst (land);18.8;19.9
+1791;Nieuwkoop;Herkomst: Nederland;17.5;20.0
+1792;Nieuwkoop;Herkomst: Niet-Nederland;1.3;18.5
+1793;Nieuwkoop;Herkomst: Westers land;0.9;19.3
+1794;Nieuwkoop;Herkomst: Niet-westers land;0.4;16.6
+1795;Nieuw-Lekkerland;Totaal Herkomst (land);5.8;18.5
+1796;Nieuw-Lekkerland;Herkomst: Nederland;5.4;18.6
+1797;Nieuw-Lekkerland;Herkomst: Niet-Nederland;0.4;17.1
+1798;Nieuw-Lekkerland;Herkomst: Westers land;0.3;18.5
+1799;Nieuw-Lekkerland;Herkomst: Niet-westers land;;
+1800;Nijefurd;Totaal Herkomst (land);7.6;17.2
+1801;Nijefurd;Herkomst: Nederland;7.2;17.4
+1802;Nijefurd;Herkomst: Niet-Nederland;0.4;14.4
+1803;Nijefurd;Herkomst: Westers land;0.3;14.9
+1804;Nijefurd;Herkomst: Niet-westers land;;
+1805;Nijkerk;Totaal Herkomst (land);26.6;19.2
+1806;Nijkerk;Herkomst: Nederland;24.4;19.4
+1807;Nijkerk;Herkomst: Niet-Nederland;2.2;17.4
+1808;Nijkerk;Herkomst: Westers land;1.2;19.3
+1809;Nijkerk;Herkomst: Niet-westers land;1.0;15.3
+1810;Nijmegen;Totaal Herkomst (land);115.4;17.1
+1811;Nijmegen;Herkomst: Nederland;92.2;17.5
+1812;Nijmegen;Herkomst: Niet-Nederland;23.1;15.7
+1813;Nijmegen;Herkomst: Westers land;13.1;17.0
+1814;Nijmegen;Herkomst: Niet-westers land;10.0;13.9
+1815;Noord-Beveland;Totaal Herkomst (land);5.3;17.9
+1816;Noord-Beveland;Herkomst: Nederland;4.9;18.2
+1817;Noord-Beveland;Herkomst: Niet-Nederland;0.4;15.1
+1818;Noord-Beveland;Herkomst: Westers land;0.3;14.9
+1819;Noord-Beveland;Herkomst: Niet-westers land;;
+1820;Noordenveld;Totaal Herkomst (land);22.0;18.9
+1821;Noordenveld;Herkomst: Nederland;20.8;18.9
+1822;Noordenveld;Herkomst: Niet-Nederland;1.2;19.7
+1823;Noordenveld;Herkomst: Westers land;1.0;20.3
+1824;Noordenveld;Herkomst: Niet-westers land;;
+1825;Noordoostpolder;Totaal Herkomst (land);30.9;17.1
+1826;Noordoostpolder;Herkomst: Nederland;28.5;17.2
+1827;Noordoostpolder;Herkomst: Niet-Nederland;2.4;15.1
+1828;Noordoostpolder;Herkomst: Westers land;1.4;16.4
+1829;Noordoostpolder;Herkomst: Niet-westers land;1.1;13.4
+1830;Noordwijk;Totaal Herkomst (land);17.6;20.8
+1831;Noordwijk;Herkomst: Nederland;15.7;20.7
+1832;Noordwijk;Herkomst: Niet-Nederland;1.9;21.9
+1833;Noordwijk;Herkomst: Westers land;1.4;24.4
+1834;Noordwijk;Herkomst: Niet-westers land;0.5;14.7
+1835;Noordwijkerhout;Totaal Herkomst (land);10.7;19.4
+1836;Noordwijkerhout;Herkomst: Nederland;9.7;19.5
+1837;Noordwijkerhout;Herkomst: Niet-Nederland;1.0;18.5
+1838;Noordwijkerhout;Herkomst: Westers land;0.8;19.7
+1839;Noordwijkerhout;Herkomst: Niet-westers land;;
+1840;Nuenen, Gerwen en Nederwetten;Totaal Herkomst (land);15.6;21.7
+1841;Nuenen, Gerwen en Nederwetten;Herkomst: Nederland;14.2;21.9
+1842;Nuenen, Gerwen en Nederwetten;Herkomst: Niet-Nederland;1.5;20.5
+1843;Nuenen, Gerwen en Nederwetten;Herkomst: Westers land;1.2;21.3
+1844;Nuenen, Gerwen en Nederwetten;Herkomst: Niet-westers land;0.2;16.1
+1845;Nunspeet;Totaal Herkomst (land);17.5;18.5
+1846;Nunspeet;Herkomst: Nederland;16.6;18.5
+1847;Nunspeet;Herkomst: Niet-Nederland;0.9;17.8
+1848;Nunspeet;Herkomst: Westers land;0.6;18.8
+1849;Nunspeet;Herkomst: Niet-westers land;0.3;15.5
+1850;Nuth;Totaal Herkomst (land);11.6;18.5
+1851;Nuth;Herkomst: Nederland;10.0;18.6
+1852;Nuth;Herkomst: Niet-Nederland;1.6;17.6
+1853;Nuth;Herkomst: Westers land;1.4;18.1
+1854;Nuth;Herkomst: Niet-westers land;;
+1855;Oegstgeest;Totaal Herkomst (land);14.6;25.0
+1856;Oegstgeest;Herkomst: Nederland;12.2;24.8
+1857;Oegstgeest;Herkomst: Niet-Nederland;2.4;26.3
+1858;Oegstgeest;Herkomst: Westers land;1.8;29.0
+1859;Oegstgeest;Herkomst: Niet-westers land;0.6;18.3
+1860;Oirschot;Totaal Herkomst (land);12.4;19.0
+1861;Oirschot;Herkomst: Nederland;11.8;19.0
+1862;Oirschot;Herkomst: Niet-Nederland;0.6;19.2
+1863;Oirschot;Herkomst: Westers land;0.5;20.1
+1864;Oirschot;Herkomst: Niet-westers land;;
+1865;Oisterwijk;Totaal Herkomst (land);18.2;19.9
+1866;Oisterwijk;Herkomst: Nederland;16.8;20.1
+1867;Oisterwijk;Herkomst: Niet-Nederland;1.5;17.7
+1868;Oisterwijk;Herkomst: Westers land;1.1;18.9
+1869;Oisterwijk;Herkomst: Niet-westers land;0.3;13.8
+1870;Oldebroek;Totaal Herkomst (land);15.1;17.7
+1871;Oldebroek;Herkomst: Nederland;14.6;17.7
+1872;Oldebroek;Herkomst: Niet-Nederland;0.6;17.9
+1873;Oldebroek;Herkomst: Westers land;0.4;19.8
+1874;Oldebroek;Herkomst: Niet-westers land;;
+1875;Oldenzaal;Totaal Herkomst (land);22.3;17.7
+1876;Oldenzaal;Herkomst: Nederland;19.4;17.9
+1877;Oldenzaal;Herkomst: Niet-Nederland;2.9;15.8
+1878;Oldenzaal;Herkomst: Westers land;1.8;16.7
+1879;Oldenzaal;Herkomst: Niet-westers land;1.1;14.1
+1880;Olst-Wijhe;Totaal Herkomst (land);12.1;17.7
+1881;Olst-Wijhe;Herkomst: Nederland;11.5;17.7
+1882;Olst-Wijhe;Herkomst: Niet-Nederland;0.6;17.8
+1883;Olst-Wijhe;Herkomst: Westers land;0.4;19.9
+1884;Olst-Wijhe;Herkomst: Niet-westers land;0.2;14.1
+1885;Ommen;Totaal Herkomst (land);12.1;18.2
+1886;Ommen;Herkomst: Nederland;11.6;18.1
+1887;Ommen;Herkomst: Niet-Nederland;0.5;20.1
+1888;Ommen;Herkomst: Westers land;0.3;21.5
+1889;Ommen;Herkomst: Niet-westers land;;
+1890;Onderbanken;Totaal Herkomst (land);5.7;16.9
+1891;Onderbanken;Herkomst: Nederland;4.5;17.2
+1892;Onderbanken;Herkomst: Niet-Nederland;1.2;15.6
+1893;Onderbanken;Herkomst: Westers land;1.2;15.6
+1894;Onderbanken;Herkomst: Niet-westers land;;
+1895;Oost Gelre;Totaal Herkomst (land);21.1;17.0
+1896;Oost Gelre;Herkomst: Nederland;19.6;17.1
+1897;Oost Gelre;Herkomst: Niet-Nederland;1.5;15.1
+1898;Oost Gelre;Herkomst: Westers land;1.2;15.5
+1899;Oost Gelre;Herkomst: Niet-westers land;0.4;13.4
+1900;Oosterhout;Totaal Herkomst (land);37.8;18.8
+1901;Oosterhout;Herkomst: Nederland;32.4;19.3
+1902;Oosterhout;Herkomst: Niet-Nederland;5.4;15.8
+1903;Oosterhout;Herkomst: Westers land;3.1;16.5
+1904;Oosterhout;Herkomst: Niet-westers land;2.3;14.9
+1905;Oostflakkee;Totaal Herkomst (land);7.1;17.6
+1906;Oostflakkee;Herkomst: Nederland;6.7;17.6
+1907;Oostflakkee;Herkomst: Niet-Nederland;0.4;17.2
+1908;Oostflakkee;Herkomst: Westers land;0.3;18.0
+1909;Oostflakkee;Herkomst: Niet-westers land;;
+1910;Ooststellingwerf;Totaal Herkomst (land);18.4;16.6
+1911;Ooststellingwerf;Herkomst: Nederland;17.2;16.7
+1912;Ooststellingwerf;Herkomst: Niet-Nederland;1.2;15.3
+1913;Ooststellingwerf;Herkomst: Westers land;1.0;16.0
+1914;Ooststellingwerf;Herkomst: Niet-westers land;0.2;11.8
+1915;Oostzaan;Totaal Herkomst (land);6.5;19.9
+1916;Oostzaan;Herkomst: Nederland;5.9;20.0
+1917;Oostzaan;Herkomst: Niet-Nederland;0.6;19.3
+1918;Oostzaan;Herkomst: Westers land;0.4;20.1
+1919;Oostzaan;Herkomst: Niet-westers land;0.2;17.5
+1920;Opmeer;Totaal Herkomst (land);7.7;18.8
+1921;Opmeer;Herkomst: Nederland;7.2;18.8
+1922;Opmeer;Herkomst: Niet-Nederland;0.5;19.1
+1923;Opmeer;Herkomst: Westers land;0.4;20.3
+1924;Opmeer;Herkomst: Niet-westers land;;
+1925;Opsterland;Totaal Herkomst (land);20.3;17.9
+1926;Opsterland;Herkomst: Nederland;19.4;17.9
+1927;Opsterland;Herkomst: Niet-Nederland;0.9;17.3
+1928;Opsterland;Herkomst: Westers land;0.7;17.9
+1929;Opsterland;Herkomst: Niet-westers land;;
+1930;Oss;Totaal Herkomst (land);54.2;18.0
+1931;Oss;Herkomst: Nederland;46.1;18.3
+1932;Oss;Herkomst: Niet-Nederland;8.1;16.1
+1933;Oss;Herkomst: Westers land;4.3;17.8
+1934;Oss;Herkomst: Niet-westers land;3.8;14.2
+1935;Oud-Beijerland;Totaal Herkomst (land);16.3;19.9
+1936;Oud-Beijerland;Herkomst: Nederland;15.0;20.0
+1937;Oud-Beijerland;Herkomst: Niet-Nederland;1.3;18.9
+1938;Oud-Beijerland;Herkomst: Westers land;0.9;20.2
+1939;Oud-Beijerland;Herkomst: Niet-westers land;0.4;15.9
+1940;Oude IJsselstreek;Totaal Herkomst (land);27.9;16.9
+1941;Oude IJsselstreek;Herkomst: Nederland;24.6;17.1
+1942;Oude IJsselstreek;Herkomst: Niet-Nederland;3.3;15.1
+1943;Oude IJsselstreek;Herkomst: Westers land;2.1;15.6
+1944;Oude IJsselstreek;Herkomst: Niet-westers land;1.2;14.1
+1945;Ouder-Amstel;Totaal Herkomst (land);9.3;22.6
+1946;Ouder-Amstel;Herkomst: Nederland;7.7;22.8
+1947;Ouder-Amstel;Herkomst: Niet-Nederland;1.6;21.8
+1948;Ouder-Amstel;Herkomst: Westers land;1.0;24.3
+1949;Ouder-Amstel;Herkomst: Niet-westers land;0.6;17.9
+1950;Ouderkerk;Totaal Herkomst (land);5.4;19.7
+1951;Ouderkerk;Herkomst: Nederland;5.1;19.7
+1952;Ouderkerk;Herkomst: Niet-Nederland;0.3;19.6
+1953;Ouderkerk;Herkomst: Westers land;0.2;20.8
+1954;Ouderkerk;Herkomst: Niet-westers land;;
+1955;Oudewater;Totaal Herkomst (land);6.9;20.4
+1956;Oudewater;Herkomst: Nederland;6.5;20.6
+1957;Oudewater;Herkomst: Niet-Nederland;0.4;16.8
+1958;Oudewater;Herkomst: Westers land;0.2;19.0
+1959;Oudewater;Herkomst: Niet-westers land;;
+1960;Overbetuwe;Totaal Herkomst (land);29.2;18.9
+1961;Overbetuwe;Herkomst: Nederland;26.3;19.0
+1962;Overbetuwe;Herkomst: Niet-Nederland;2.9;18.3
+1963;Overbetuwe;Herkomst: Westers land;2.3;19.2
+1964;Overbetuwe;Herkomst: Niet-westers land;0.6;14.6
+1965;Papendrecht;Totaal Herkomst (land);21.8;19.2
+1966;Papendrecht;Herkomst: Nederland;19.0;19.4
+1967;Papendrecht;Herkomst: Niet-Nederland;2.8;17.6
+1968;Papendrecht;Herkomst: Westers land;1.8;18.5
+1969;Papendrecht;Herkomst: Niet-westers land;1.0;15.8
+1970;Pekela;Totaal Herkomst (land);9.1;15.7
+1971;Pekela;Herkomst: Nederland;8.6;15.7
+1972;Pekela;Herkomst: Niet-Nederland;0.6;16.5
+1973;Pekela;Herkomst: Westers land;0.5;16.8
+1974;Pekela;Herkomst: Niet-westers land;;
+1975;Pijnacker-Nootdorp;Totaal Herkomst (land);28.4;21.2
+1976;Pijnacker-Nootdorp;Herkomst: Nederland;25.0;21.4
+1977;Pijnacker-Nootdorp;Herkomst: Niet-Nederland;3.4;20.3
+1978;Pijnacker-Nootdorp;Herkomst: Westers land;1.9;22.0
+1979;Pijnacker-Nootdorp;Herkomst: Niet-westers land;1.5;18.3
+1980;Purmerend;Totaal Herkomst (land);56.0;18.0
+1981;Purmerend;Herkomst: Nederland;44.7;18.4
+1982;Purmerend;Herkomst: Niet-Nederland;11.3;16.8
+1983;Purmerend;Herkomst: Westers land;5.1;17.7
+1984;Purmerend;Herkomst: Niet-westers land;6.2;16.1
+1985;Putten;Totaal Herkomst (land);15.1;19.4
+1986;Putten;Herkomst: Nederland;14.3;19.4
+1987;Putten;Herkomst: Niet-Nederland;0.8;20.0
+1988;Putten;Herkomst: Westers land;0.6;22.3
+1989;Putten;Herkomst: Niet-westers land;0.2;14.1
+1990;Raalte;Totaal Herkomst (land);26.3;17.4
+1991;Raalte;Herkomst: Nederland;25.0;17.5
+1992;Raalte;Herkomst: Niet-Nederland;1.3;15.8
+1993;Raalte;Herkomst: Westers land;0.9;16.3
+1994;Raalte;Herkomst: Niet-westers land;0.4;14.6
+1995;Reeuwijk;Totaal Herkomst (land);8.5;22.5
+1996;Reeuwijk;Herkomst: Nederland;8.0;22.5
+1997;Reeuwijk;Herkomst: Niet-Nederland;0.5;22.0
+1998;Reeuwijk;Herkomst: Westers land;0.4;25.4
+1999;Reeuwijk;Herkomst: Niet-westers land;;
+2000;Reiderland;Totaal Herkomst (land);4.9;15.1
+2001;Reiderland;Herkomst: Nederland;4.4;15.0
+2002;Reiderland;Herkomst: Niet-Nederland;0.6;16.1
+2003;Reiderland;Herkomst: Westers land;0.5;16.3
+2004;Reiderland;Herkomst: Niet-westers land;;
+2005;Reimerswaal;Totaal Herkomst (land);13.8;17.6
+2006;Reimerswaal;Herkomst: Nederland;12.7;17.7
+2007;Reimerswaal;Herkomst: Niet-Nederland;1.0;15.9
+2008;Reimerswaal;Herkomst: Westers land;0.7;17.2
+2009;Reimerswaal;Herkomst: Niet-westers land;0.3;13.5
+2010;Renkum;Totaal Herkomst (land);22.7;20.9
+2011;Renkum;Herkomst: Nederland;20.0;21.0
+2012;Renkum;Herkomst: Niet-Nederland;2.7;20.3
+2013;Renkum;Herkomst: Westers land;2.1;21.7
+2014;Renkum;Herkomst: Niet-westers land;0.6;15.7
+2015;Renswoude;Totaal Herkomst (land);2.8;19.1
+2016;Renswoude;Herkomst: Nederland;2.7;19.3
+2017;Renswoude;Herkomst: Niet-Nederland;;
+2018;Renswoude;Herkomst: Westers land;;
+2019;Renswoude;Herkomst: Niet-westers land;;
+2020;Reusel-De Mierden;Totaal Herkomst (land);9.0;17.6
+2021;Reusel-De Mierden;Herkomst: Nederland;8.3;17.8
+2022;Reusel-De Mierden;Herkomst: Niet-Nederland;0.6;15.3
+2023;Reusel-De Mierden;Herkomst: Westers land;0.5;15.7
+2024;Reusel-De Mierden;Herkomst: Niet-westers land;;
+2025;Rheden;Totaal Herkomst (land);32.3;18.6
+2026;Rheden;Herkomst: Nederland;28.2;18.8
+2027;Rheden;Herkomst: Niet-Nederland;4.1;17.7
+2028;Rheden;Herkomst: Westers land;3.1;19.1
+2029;Rheden;Herkomst: Niet-westers land;1.0;13.5
+2030;Rhenen;Totaal Herkomst (land);12.6;19.4
+2031;Rhenen;Herkomst: Nederland;11.5;19.4
+2032;Rhenen;Herkomst: Niet-Nederland;1.1;19.3
+2033;Rhenen;Herkomst: Westers land;0.7;21.1
+2034;Rhenen;Herkomst: Niet-westers land;0.4;16.2
+2035;Ridderkerk;Totaal Herkomst (land);32.7;18.5
+2036;Ridderkerk;Herkomst: Nederland;28.6;18.7
+2037;Ridderkerk;Herkomst: Niet-Nederland;4.1;16.8
+2038;Ridderkerk;Herkomst: Westers land;2.5;18.2
+2039;Ridderkerk;Herkomst: Niet-westers land;1.6;14.6
+2040;Rijnwaarden;Totaal Herkomst (land);7.6;16.5
+2041;Rijnwaarden;Herkomst: Nederland;6.7;16.6
+2042;Rijnwaarden;Herkomst: Niet-Nederland;0.9;15.5
+2043;Rijnwaarden;Herkomst: Westers land;0.8;15.7
+2044;Rijnwaarden;Herkomst: Niet-westers land;;
+2045;Rijnwoude;Totaal Herkomst (land);13.0;20.1
+2046;Rijnwoude;Herkomst: Nederland;12.3;20.1
+2047;Rijnwoude;Herkomst: Niet-Nederland;0.8;20.4
+2048;Rijnwoude;Herkomst: Westers land;0.6;21.5
+2049;Rijnwoude;Herkomst: Niet-westers land;0.2;17.3
+2050;Rijssen-Holten;Totaal Herkomst (land);23.8;17.8
+2051;Rijssen-Holten;Herkomst: Nederland;22.4;17.9
+2052;Rijssen-Holten;Herkomst: Niet-Nederland;1.4;16.1
+2053;Rijssen-Holten;Herkomst: Westers land;0.7;17.8
+2054;Rijssen-Holten;Herkomst: Niet-westers land;0.7;14.3
+2055;Rijswijk (ZH.);Totaal Herkomst (land);35.3;19.9
+2056;Rijswijk (ZH.);Herkomst: Nederland;27.5;19.9
+2057;Rijswijk (ZH.);Herkomst: Niet-Nederland;7.8;19.8
+2058;Rijswijk (ZH.);Herkomst: Westers land;4.9;21.4
+2059;Rijswijk (ZH.);Herkomst: Niet-westers land;2.9;17.1
+2060;Roerdalen;Totaal Herkomst (land);14.9;18.0
+2061;Roerdalen;Herkomst: Nederland;12.8;18.3
+2062;Roerdalen;Herkomst: Niet-Nederland;2.1;15.8
+2063;Roerdalen;Herkomst: Westers land;2.0;16.0
+2064;Roerdalen;Herkomst: Niet-westers land;;
+2065;Roermond;Totaal Herkomst (land);38.5;17.0
+2066;Roermond;Herkomst: Nederland;29.5;17.5
+2067;Roermond;Herkomst: Niet-Nederland;9.0;15.4
+2068;Roermond;Herkomst: Westers land;5.6;16.3
+2069;Roermond;Herkomst: Niet-westers land;3.3;14.0
+2070;Roosendaal;Totaal Herkomst (land);54.6;17.8
+2071;Roosendaal;Herkomst: Nederland;45.0;18.3
+2072;Roosendaal;Herkomst: Niet-Nederland;9.7;15.4
+2073;Roosendaal;Herkomst: Westers land;4.9;16.8
+2074;Roosendaal;Herkomst: Niet-westers land;4.8;13.9
+2075;Rotterdam;Totaal Herkomst (land);402.2;17.7
+2076;Rotterdam;Herkomst: Nederland;247.2;18.8
+2077;Rotterdam;Herkomst: Niet-Nederland;155.0;15.9
+2078;Rotterdam;Herkomst: Westers land;39.6;18.7
+2079;Rotterdam;Herkomst: Niet-westers land;115.4;15.0
+2080;Rozenburg;Totaal Herkomst (land);8.9;18.6
+2081;Rozenburg;Herkomst: Nederland;7.5;18.8
+2082;Rozenburg;Herkomst: Niet-Nederland;1.4;17.7
+2083;Rozenburg;Herkomst: Westers land;0.9;19.0
+2084;Rozenburg;Herkomst: Niet-westers land;0.5;15.2
+2085;Rozendaal;Totaal Herkomst (land);1.0;27.4
+2086;Rozendaal;Herkomst: Nederland;0.9;28.4
+2087;Rozendaal;Herkomst: Niet-Nederland;;
+2088;Rozendaal;Herkomst: Westers land;;
+2089;Rozendaal;Herkomst: Niet-westers land;;
+2090;Rucphen;Totaal Herkomst (land);16.3;17.6
+2091;Rucphen;Herkomst: Nederland;15.3;17.6
+2092;Rucphen;Herkomst: Niet-Nederland;1.0;16.4
+2093;Rucphen;Herkomst: Westers land;0.8;16.8
+2094;Rucphen;Herkomst: Niet-westers land;;
+2095;Schagen;Totaal Herkomst (land);13.7;18.8
+2096;Schagen;Herkomst: Nederland;12.1;19.0
+2097;Schagen;Herkomst: Niet-Nederland;1.6;17.2
+2098;Schagen;Herkomst: Westers land;1.1;18.2
+2099;Schagen;Herkomst: Niet-westers land;0.5;15.0
+2100;Scheemda;Totaal Herkomst (land);9.7;16.7
+2101;Scheemda;Herkomst: Nederland;9.0;16.8
+2102;Scheemda;Herkomst: Niet-Nederland;0.6;15.6
+2103;Scheemda;Herkomst: Westers land;0.6;15.5
+2104;Scheemda;Herkomst: Niet-westers land;;
+2105;Schermer;Totaal Herkomst (land);3.6;19.9
+2106;Schermer;Herkomst: Nederland;3.4;19.8
+2107;Schermer;Herkomst: Niet-Nederland;0.2;21.8
+2108;Schermer;Herkomst: Westers land;;
+2109;Schermer;Herkomst: Niet-westers land;;
+2110;Scherpenzeel;Totaal Herkomst (land);5.9;19.0
+2111;Scherpenzeel;Herkomst: Nederland;5.6;19.0
+2112;Scherpenzeel;Herkomst: Niet-Nederland;0.3;17.7
+2113;Scherpenzeel;Herkomst: Westers land;0.2;18.5
+2114;Scherpenzeel;Herkomst: Niet-westers land;;
+2115;Schiedam;Totaal Herkomst (land);52.4;17.7
+2116;Schiedam;Herkomst: Nederland;38.7;18.4
+2117;Schiedam;Herkomst: Niet-Nederland;13.6;15.8
+2118;Schiedam;Herkomst: Westers land;4.3;18.0
+2119;Schiedam;Herkomst: Niet-westers land;9.3;14.8
+2120;Schiermonnikoog;Totaal Herkomst (land);0.7;19.0
+2121;Schiermonnikoog;Herkomst: Nederland;0.6;19.4
+2122;Schiermonnikoog;Herkomst: Niet-Nederland;;
+2123;Schiermonnikoog;Herkomst: Westers land;;
+2124;Schiermonnikoog;Herkomst: Niet-westers land;;
+2125;Schijndel;Totaal Herkomst (land);16.3;18.0
+2126;Schijndel;Herkomst: Nederland;15.2;18.2
+2127;Schijndel;Herkomst: Niet-Nederland;1.1;15.4
+2128;Schijndel;Herkomst: Westers land;0.7;16.7
+2129;Schijndel;Herkomst: Niet-westers land;0.3;12.8
+2130;Schinnen;Totaal Herkomst (land);9.5;18.1
+2131;Schinnen;Herkomst: Nederland;8.0;18.2
+2132;Schinnen;Herkomst: Niet-Nederland;1.5;17.6
+2133;Schinnen;Herkomst: Westers land;1.4;17.9
+2134;Schinnen;Herkomst: Niet-westers land;;
+2135;Schoonhoven;Totaal Herkomst (land);8.3;19.0
+2136;Schoonhoven;Herkomst: Nederland;7.4;19.3
+2137;Schoonhoven;Herkomst: Niet-Nederland;1.0;16.9
+2138;Schoonhoven;Herkomst: Westers land;0.5;19.9
+2139;Schoonhoven;Herkomst: Niet-westers land;0.5;14.0
+2140;Schouwen-Duiveland;Totaal Herkomst (land);24.6;18.4
+2141;Schouwen-Duiveland;Herkomst: Nederland;22.9;18.5
+2142;Schouwen-Duiveland;Herkomst: Niet-Nederland;1.7;18.3
+2143;Schouwen-Duiveland;Herkomst: Westers land;1.4;19.4
+2144;Schouwen-Duiveland;Herkomst: Niet-westers land;0.3;13.9
+2145;Sevenum;Totaal Herkomst (land);5.5;17.4
+2146;Sevenum;Herkomst: Nederland;5.2;17.5
+2147;Sevenum;Herkomst: Niet-Nederland;0.3;15.1
+2148;Sevenum;Herkomst: Westers land;0.3;15.6
+2149;Sevenum;Herkomst: Niet-westers land;;
+2150;'s-Gravenhage (gemeente);Totaal Herkomst (land);320.6;19.2
+2151;'s-Gravenhage (gemeente);Herkomst: Nederland;197.3;20.1
+2152;'s-Gravenhage (gemeente);Herkomst: Niet-Nederland;123.2;17.8
+2153;'s-Gravenhage (gemeente);Herkomst: Westers land;40.0;22.8
+2154;'s-Gravenhage (gemeente);Herkomst: Niet-westers land;83.2;15.4
+2155;'s-Hertogenbosch;Totaal Herkomst (land);98.4;18.8
+2156;'s-Hertogenbosch;Herkomst: Nederland;81.8;19.3
+2157;'s-Hertogenbosch;Herkomst: Niet-Nederland;16.6;16.4
+2158;'s-Hertogenbosch;Herkomst: Westers land;8.9;18.4
+2159;'s-Hertogenbosch;Herkomst: Niet-westers land;7.8;14.1
+2160;Simpelveld;Totaal Herkomst (land);7.9;16.9
+2161;Simpelveld;Herkomst: Nederland;6.5;16.9
+2162;Simpelveld;Herkomst: Niet-Nederland;1.3;16.9
+2163;Simpelveld;Herkomst: Westers land;1.3;17.0
+2164;Simpelveld;Herkomst: Niet-westers land;;
+2165;Sint Anthonis;Totaal Herkomst (land);8.3;18.2
+2166;Sint Anthonis;Herkomst: Nederland;8.0;18.3
+2167;Sint Anthonis;Herkomst: Niet-Nederland;0.3;16.6
+2168;Sint Anthonis;Herkomst: Westers land;0.2;16.8
+2169;Sint Anthonis;Herkomst: Niet-westers land;;
+2170;Sint-Michielsgestel;Totaal Herkomst (land);19.5;19.4
+2171;Sint-Michielsgestel;Herkomst: Nederland;18.3;19.3
+2172;Sint-Michielsgestel;Herkomst: Niet-Nederland;1.2;22.1
+2173;Sint-Michielsgestel;Herkomst: Westers land;0.9;24.8
+2174;Sint-Michielsgestel;Herkomst: Niet-westers land;0.3;13.3
+2175;Sint-Oedenrode;Totaal Herkomst (land);12.1;18.4
+2176;Sint-Oedenrode;Herkomst: Nederland;11.5;18.4
+2177;Sint-Oedenrode;Herkomst: Niet-Nederland;0.6;17.8
+2178;Sint-Oedenrode;Herkomst: Westers land;0.5;18.1
+2179;Sint-Oedenrode;Herkomst: Niet-westers land;;
+2180;Sittard-Geleen;Totaal Herkomst (land);68.6;17.6
+2181;Sittard-Geleen;Herkomst: Nederland;54.3;18.0
+2182;Sittard-Geleen;Herkomst: Niet-Nederland;14.3;16.1
+2183;Sittard-Geleen;Herkomst: Westers land;11.4;16.8
+2184;Sittard-Geleen;Herkomst: Niet-westers land;2.9;13.5
+2185;Skarsterlân;Totaal Herkomst (land);18.5;17.9
+2186;Skarsterlân;Herkomst: Nederland;17.6;17.9
+2187;Skarsterlân;Herkomst: Niet-Nederland;0.8;16.5
+2188;Skarsterlân;Herkomst: Westers land;0.6;16.7
+2189;Skarsterlân;Herkomst: Niet-westers land;0.2;15.6
+2190;Sliedrecht;Totaal Herkomst (land);16.5;18.0
+2191;Sliedrecht;Herkomst: Nederland;15.0;18.2
+2192;Sliedrecht;Herkomst: Niet-Nederland;1.5;15.6
+2193;Sliedrecht;Herkomst: Westers land;0.7;16.8
+2194;Sliedrecht;Herkomst: Niet-westers land;0.8;14.5
+2195;Slochteren;Totaal Herkomst (land);10.2;18.2
+2196;Slochteren;Herkomst: Nederland;9.8;18.1
+2197;Slochteren;Herkomst: Niet-Nederland;0.4;20.6
+2198;Slochteren;Herkomst: Westers land;0.4;21.6
+2199;Slochteren;Herkomst: Niet-westers land;;
+2200;Sluis;Totaal Herkomst (land);17.7;17.5
+2201;Sluis;Herkomst: Nederland;14.6;17.8
+2202;Sluis;Herkomst: Niet-Nederland;3.1;16.1
+2203;Sluis;Herkomst: Westers land;2.9;16.4
+2204;Sluis;Herkomst: Niet-westers land;0.2;12.4
+2205;Smallingerland;Totaal Herkomst (land);37.9;17.3
+2206;Smallingerland;Herkomst: Nederland;34.8;17.4
+2207;Smallingerland;Herkomst: Niet-Nederland;3.1;15.6
+2208;Smallingerland;Herkomst: Westers land;2.0;16.2
+2209;Smallingerland;Herkomst: Niet-westers land;1.1;14.6
+2210;Sneek;Totaal Herkomst (land);23.0;17.3
+2211;Sneek;Herkomst: Nederland;21.1;17.4
+2212;Sneek;Herkomst: Niet-Nederland;1.9;16.3
+2213;Sneek;Herkomst: Westers land;1.4;17.6
+2214;Sneek;Herkomst: Niet-westers land;0.5;12.6
+2215;Soest;Totaal Herkomst (land);31.8;20.9
+2216;Soest;Herkomst: Nederland;26.5;21.4
+2217;Soest;Herkomst: Niet-Nederland;5.2;18.0
+2218;Soest;Herkomst: Westers land;3.0;20.2
+2219;Soest;Herkomst: Niet-westers land;2.2;15.0
+2220;Someren;Totaal Herkomst (land);12.7;17.5
+2221;Someren;Herkomst: Nederland;12.1;17.6
+2222;Someren;Herkomst: Niet-Nederland;0.6;16.8
+2223;Someren;Herkomst: Westers land;0.5;17.3
+2224;Someren;Herkomst: Niet-westers land;;
+2225;Son en Breugel;Totaal Herkomst (land);10.6;21.1
+2226;Son en Breugel;Herkomst: Nederland;9.5;20.8
+2227;Son en Breugel;Herkomst: Niet-Nederland;1.1;24.0
+2228;Son en Breugel;Herkomst: Westers land;0.9;25.5
+2229;Son en Breugel;Herkomst: Niet-westers land;0.2;17.9
+2230;Spijkenisse;Totaal Herkomst (land);51.5;18.4
+2231;Spijkenisse;Herkomst: Nederland;41.4;18.7
+2232;Spijkenisse;Herkomst: Niet-Nederland;10.1;17.3
+2233;Spijkenisse;Herkomst: Westers land;4.9;18.5
+2234;Spijkenisse;Herkomst: Niet-westers land;5.3;16.2
+2235;Stadskanaal;Totaal Herkomst (land);23.9;16.0
+2236;Stadskanaal;Herkomst: Nederland;22.5;16.0
+2237;Stadskanaal;Herkomst: Niet-Nederland;1.4;15.3
+2238;Stadskanaal;Herkomst: Westers land;1.0;16.2
+2239;Stadskanaal;Herkomst: Niet-westers land;0.4;12.9
+2240;Staphorst;Totaal Herkomst (land);9.7;18.3
+2241;Staphorst;Herkomst: Nederland;9.5;18.3
+2242;Staphorst;Herkomst: Niet-Nederland;;
+2243;Staphorst;Herkomst: Westers land;;
+2244;Staphorst;Herkomst: Niet-westers land;;
+2245;Stede Broec;Totaal Herkomst (land);14.7;17.9
+2246;Stede Broec;Herkomst: Nederland;13.6;18.0
+2247;Stede Broec;Herkomst: Niet-Nederland;1.2;16.9
+2248;Stede Broec;Herkomst: Westers land;0.7;17.9
+2249;Stede Broec;Herkomst: Niet-westers land;0.4;15.2
+2250;Steenbergen;Totaal Herkomst (land);16.3;18.6
+2251;Steenbergen;Herkomst: Nederland;15.2;18.7
+2252;Steenbergen;Herkomst: Niet-Nederland;1.1;17.9
+2253;Steenbergen;Herkomst: Westers land;0.8;18.8
+2254;Steenbergen;Herkomst: Niet-westers land;0.3;15.0
+2255;Steenwijkerland;Totaal Herkomst (land);29.6;17.3
+2256;Steenwijkerland;Herkomst: Nederland;27.9;17.4
+2257;Steenwijkerland;Herkomst: Niet-Nederland;1.7;15.7
+2258;Steenwijkerland;Herkomst: Westers land;1.1;16.4
+2259;Steenwijkerland;Herkomst: Niet-westers land;0.6;14.4
+2260;Stein (L.);Totaal Herkomst (land);18.8;17.7
+2261;Stein (L.);Herkomst: Nederland;16.2;17.9
+2262;Stein (L.);Herkomst: Niet-Nederland;2.6;16.5
+2263;Stein (L.);Herkomst: Westers land;2.3;16.8
+2264;Stein (L.);Herkomst: Niet-westers land;0.3;14.6
+2265;Strijen;Totaal Herkomst (land);6.2;19.9
+2266;Strijen;Herkomst: Nederland;5.8;19.9
+2267;Strijen;Herkomst: Niet-Nederland;0.4;20.3
+2268;Strijen;Herkomst: Westers land;0.3;21.4
+2269;Strijen;Herkomst: Niet-westers land;;
+2270;Ten Boer;Totaal Herkomst (land);4.8;17.7
+2271;Ten Boer;Herkomst: Nederland;4.6;17.6
+2272;Ten Boer;Herkomst: Niet-Nederland;0.3;19.9
+2273;Ten Boer;Herkomst: Westers land;0.3;20.2
+2274;Ten Boer;Herkomst: Niet-westers land;;
+2275;Terneuzen;Totaal Herkomst (land);38.4;18.1
+2276;Terneuzen;Herkomst: Nederland;31.1;18.5
+2277;Terneuzen;Herkomst: Niet-Nederland;7.3;16.6
+2278;Terneuzen;Herkomst: Westers land;5.7;17.3
+2279;Terneuzen;Herkomst: Niet-westers land;1.6;14.0
+2280;Terschelling;Totaal Herkomst (land);3.3;18.1
+2281;Terschelling;Herkomst: Nederland;3.1;18.2
+2282;Terschelling;Herkomst: Niet-Nederland;0.2;17.2
+2283;Terschelling;Herkomst: Westers land;;
+2284;Terschelling;Herkomst: Niet-westers land;;
+2285;Texel;Totaal Herkomst (land);9.5;17.5
+2286;Texel;Herkomst: Nederland;8.8;17.6
+2287;Texel;Herkomst: Niet-Nederland;0.7;15.5
+2288;Texel;Herkomst: Westers land;0.6;15.8
+2289;Texel;Herkomst: Niet-westers land;;
+2290;Teylingen;Totaal Herkomst (land);23.8;21.4
+2291;Teylingen;Herkomst: Nederland;21.4;21.4
+2292;Teylingen;Herkomst: Niet-Nederland;2.3;21.2
+2293;Teylingen;Herkomst: Westers land;1.6;22.9
+2294;Teylingen;Herkomst: Niet-westers land;0.7;17.0
+2295;Tholen;Totaal Herkomst (land);16.3;17.9
+2296;Tholen;Herkomst: Nederland;15.5;17.9
+2297;Tholen;Herkomst: Niet-Nederland;0.8;17.2
+2298;Tholen;Herkomst: Westers land;0.6;17.3
+2299;Tholen;Herkomst: Niet-westers land;;
+2300;Tiel;Totaal Herkomst (land);28.0;17.8
+2301;Tiel;Herkomst: Nederland;22.6;18.3
+2302;Tiel;Herkomst: Niet-Nederland;5.3;15.8
+2303;Tiel;Herkomst: Westers land;2.6;17.5
+2304;Tiel;Herkomst: Niet-westers land;2.8;14.2
+2305;Tilburg;Totaal Herkomst (land);144.6;17.0
+2306;Tilburg;Herkomst: Nederland;118.0;17.4
+2307;Tilburg;Herkomst: Niet-Nederland;26.6;15.5
+2308;Tilburg;Herkomst: Westers land;12.1;17.1
+2309;Tilburg;Herkomst: Niet-westers land;14.5;14.1
+2310;Tubbergen;Totaal Herkomst (land);13.9;17.6
+2311;Tubbergen;Herkomst: Nederland;13.2;17.7
+2312;Tubbergen;Herkomst: Niet-Nederland;0.7;15.9
+2313;Tubbergen;Herkomst: Westers land;0.6;16.4
+2314;Tubbergen;Herkomst: Niet-westers land;;
+2315;Twenterand;Totaal Herkomst (land);22.3;16.8
+2316;Twenterand;Herkomst: Nederland;21.5;16.8
+2317;Twenterand;Herkomst: Niet-Nederland;0.8;16.2
+2318;Twenterand;Herkomst: Westers land;0.7;16.9
+2319;Twenterand;Herkomst: Niet-westers land;;
+2320;Tynaarlo;Totaal Herkomst (land);22.2;19.7
+2321;Tynaarlo;Herkomst: Nederland;21.0;19.7
+2322;Tynaarlo;Herkomst: Niet-Nederland;1.3;20.0
+2323;Tynaarlo;Herkomst: Westers land;1.0;20.7
+2324;Tynaarlo;Herkomst: Niet-westers land;0.2;17.0
+2325;Tytsjerksteradiel;Totaal Herkomst (land);22.2;17.8
+2326;Tytsjerksteradiel;Herkomst: Nederland;21.3;17.9
+2327;Tytsjerksteradiel;Herkomst: Niet-Nederland;0.9;16.6
+2328;Tytsjerksteradiel;Herkomst: Westers land;0.7;17.7
+2329;Tytsjerksteradiel;Herkomst: Niet-westers land;;
+2330;Ubbergen;Totaal Herkomst (land);6.9;18.8
+2331;Ubbergen;Herkomst: Nederland;6.0;18.8
+2332;Ubbergen;Herkomst: Niet-Nederland;0.8;18.8
+2333;Ubbergen;Herkomst: Westers land;0.7;19.3
+2334;Ubbergen;Herkomst: Niet-westers land;;
+2335;Uden;Totaal Herkomst (land);28.3;18.4
+2336;Uden;Herkomst: Nederland;24.5;18.8
+2337;Uden;Herkomst: Niet-Nederland;3.7;15.6
+2338;Uden;Herkomst: Westers land;2.2;16.7
+2339;Uden;Herkomst: Niet-westers land;1.6;14.1
+2340;Uitgeest;Totaal Herkomst (land);8.3;19.9
+2341;Uitgeest;Herkomst: Nederland;7.6;20.0
+2342;Uitgeest;Herkomst: Niet-Nederland;0.7;18.9
+2343;Uitgeest;Herkomst: Westers land;0.5;20.5
+2344;Uitgeest;Herkomst: Niet-westers land;0.2;15.0
+2345;Uithoorn;Totaal Herkomst (land);19.0;20.6
+2346;Uithoorn;Herkomst: Nederland;16.2;20.8
+2347;Uithoorn;Herkomst: Niet-Nederland;2.8;19.8
+2348;Uithoorn;Herkomst: Westers land;1.8;21.3
+2349;Uithoorn;Herkomst: Niet-westers land;1.0;17.2
+2350;Urk;Totaal Herkomst (land);9.4;17.0
+2351;Urk;Herkomst: Nederland;9.3;17.1
+2352;Urk;Herkomst: Niet-Nederland;;
+2353;Urk;Herkomst: Westers land;;
+2354;Urk;Herkomst: Niet-westers land;;
+2355;Utrecht (gemeente);Totaal Herkomst (land);205.5;18.6
+2356;Utrecht (gemeente);Herkomst: Nederland;152.6;19.4
+2357;Utrecht (gemeente);Herkomst: Niet-Nederland;52.9;16.1
+2358;Utrecht (gemeente);Herkomst: Westers land;19.6;18.6
+2359;Utrecht (gemeente);Herkomst: Niet-westers land;33.4;14.7
+2360;Utrechtse Heuvelrug;Totaal Herkomst (land);34.3;22.3
+2361;Utrechtse Heuvelrug;Herkomst: Nederland;30.3;22.5
+2362;Utrechtse Heuvelrug;Herkomst: Niet-Nederland;4.0;21.2
+2363;Utrechtse Heuvelrug;Herkomst: Westers land;2.8;23.6
+2364;Utrechtse Heuvelrug;Herkomst: Niet-westers land;1.2;15.5
+2365;Vaals;Totaal Herkomst (land);5.8;16.2
+2366;Vaals;Herkomst: Nederland;3.5;15.7
+2367;Vaals;Herkomst: Niet-Nederland;2.2;17.0
+2368;Vaals;Herkomst: Westers land;2.1;17.3
+2369;Vaals;Herkomst: Niet-westers land;;
+2370;Valkenburg a/d Geul;Totaal Herkomst (land);12.6;17.8
+2371;Valkenburg a/d Geul;Herkomst: Nederland;11.1;18.0
+2372;Valkenburg a/d Geul;Herkomst: Niet-Nederland;1.5;16.5
+2373;Valkenburg a/d Geul;Herkomst: Westers land;1.4;17.0
+2374;Valkenburg a/d Geul;Herkomst: Niet-westers land;;
+2375;Valkenswaard;Totaal Herkomst (land);22.3;18.4
+2376;Valkenswaard;Herkomst: Nederland;19.6;18.5
+2377;Valkenswaard;Herkomst: Niet-Nederland;2.6;17.1
+2378;Valkenswaard;Herkomst: Westers land;2.2;17.6
+2379;Valkenswaard;Herkomst: Niet-westers land;0.4;14.4
+2380;Veendam;Totaal Herkomst (land);19.8;16.7
+2381;Veendam;Herkomst: Nederland;17.9;16.9
+2382;Veendam;Herkomst: Niet-Nederland;1.9;15.5
+2383;Veendam;Herkomst: Westers land;1.0;17.7
+2384;Veendam;Herkomst: Niet-westers land;1.0;13.4
+2385;Veenendaal;Totaal Herkomst (land);41.4;18.2
+2386;Veenendaal;Herkomst: Nederland;35.8;18.6
+2387;Veenendaal;Herkomst: Niet-Nederland;5.6;15.7
+2388;Veenendaal;Herkomst: Westers land;2.5;17.4
+2389;Veenendaal;Herkomst: Niet-westers land;3.2;14.5
+2390;Veere;Totaal Herkomst (land);15.2;18.4
+2391;Veere;Herkomst: Nederland;14.3;18.6
+2392;Veere;Herkomst: Niet-Nederland;0.9;15.6
+2393;Veere;Herkomst: Westers land;0.8;16.0
+2394;Veere;Herkomst: Niet-westers land;;
+2395;Veghel;Totaal Herkomst (land);25.8;18.5
+2396;Veghel;Herkomst: Nederland;22.3;18.9
+2397;Veghel;Herkomst: Niet-Nederland;3.5;16.1
+2398;Veghel;Herkomst: Westers land;1.7;17.8
+2399;Veghel;Herkomst: Niet-westers land;1.8;14.4
+2400;Veldhoven;Totaal Herkomst (land);30.9;18.8
+2401;Veldhoven;Herkomst: Nederland;27.2;18.9
+2402;Veldhoven;Herkomst: Niet-Nederland;3.7;18.5
+2403;Veldhoven;Herkomst: Westers land;2.7;19.3
+2404;Veldhoven;Herkomst: Niet-westers land;0.9;16.0
+2405;Velsen;Totaal Herkomst (land);47.6;19.3
+2406;Velsen;Herkomst: Nederland;41.6;19.4
+2407;Velsen;Herkomst: Niet-Nederland;6.1;18.1
+2408;Velsen;Herkomst: Westers land;3.8;19.7
+2409;Velsen;Herkomst: Niet-westers land;2.3;15.3
+2410;Venlo;Totaal Herkomst (land);66.0;16.6
+2411;Venlo;Herkomst: Nederland;51.1;17.1
+2412;Venlo;Herkomst: Niet-Nederland;14.9;15.0
+2413;Venlo;Herkomst: Westers land;9.7;15.4
+2414;Venlo;Herkomst: Niet-westers land;5.2;14.2
+2415;Venray;Totaal Herkomst (land);27.8;17.5
+2416;Venray;Herkomst: Nederland;23.4;17.9
+2417;Venray;Herkomst: Niet-Nederland;4.5;15.4
+2418;Venray;Herkomst: Westers land;2.5;16.6
+2419;Venray;Herkomst: Niet-westers land;1.9;13.9
+2420;Vianen;Totaal Herkomst (land);13.9;19.5
+2421;Vianen;Herkomst: Nederland;12.2;19.7
+2422;Vianen;Herkomst: Niet-Nederland;1.6;17.6
+2423;Vianen;Herkomst: Westers land;0.8;18.5
+2424;Vianen;Herkomst: Niet-westers land;0.8;16.7
+2425;Vlaardingen;Totaal Herkomst (land);51.3;18.0
+2426;Vlaardingen;Herkomst: Nederland;41.3;18.5
+2427;Vlaardingen;Herkomst: Niet-Nederland;10.0;16.1
+2428;Vlaardingen;Herkomst: Westers land;3.7;18.0
+2429;Vlaardingen;Herkomst: Niet-westers land;6.3;15.0
+2430;Vlagtwedde;Totaal Herkomst (land);11.7;15.7
+2431;Vlagtwedde;Herkomst: Nederland;11.0;15.7
+2432;Vlagtwedde;Herkomst: Niet-Nederland;0.7;15.6
+2433;Vlagtwedde;Herkomst: Westers land;0.6;15.9
+2434;Vlagtwedde;Herkomst: Niet-westers land;;
+2435;Vlieland;Totaal Herkomst (land);0.8;19.0
+2436;Vlieland;Herkomst: Nederland;0.7;18.9
+2437;Vlieland;Herkomst: Niet-Nederland;;
+2438;Vlieland;Herkomst: Westers land;;
+2439;Vlieland;Herkomst: Niet-westers land;;
+2440;Vlissingen;Totaal Herkomst (land);32.1;17.2
+2441;Vlissingen;Herkomst: Nederland;26.4;17.6
+2442;Vlissingen;Herkomst: Niet-Nederland;5.7;15.6
+2443;Vlissingen;Herkomst: Westers land;3.6;16.9
+2444;Vlissingen;Herkomst: Niet-westers land;2.1;13.4
+2445;Vlist;Totaal Herkomst (land);6.7;19.7
+2446;Vlist;Herkomst: Nederland;6.3;19.6
+2447;Vlist;Herkomst: Niet-Nederland;0.3;22.0
+2448;Vlist;Herkomst: Westers land;0.3;24.5
+2449;Vlist;Herkomst: Niet-westers land;;
+2450;Voerendaal;Totaal Herkomst (land);9.1;19.0
+2451;Voerendaal;Herkomst: Nederland;7.9;19.3
+2452;Voerendaal;Herkomst: Niet-Nederland;1.2;17.5
+2453;Voerendaal;Herkomst: Westers land;1.1;17.7
+2454;Voerendaal;Herkomst: Niet-westers land;;
+2455;Voorschoten;Totaal Herkomst (land);15.7;23.0
+2456;Voorschoten;Herkomst: Nederland;13.2;22.6
+2457;Voorschoten;Herkomst: Niet-Nederland;2.5;25.0
+2458;Voorschoten;Herkomst: Westers land;1.8;26.6
+2459;Voorschoten;Herkomst: Niet-westers land;0.7;21.0
+2460;Voorst;Totaal Herkomst (land);16.8;18.1
+2461;Voorst;Herkomst: Nederland;15.6;18.2
+2462;Voorst;Herkomst: Niet-Nederland;1.3;17.4
+2463;Voorst;Herkomst: Westers land;1.0;18.0
+2464;Voorst;Herkomst: Niet-westers land;0.3;15.1
+2465;Vught;Totaal Herkomst (land);17.7;21.3
+2466;Vught;Herkomst: Nederland;15.7;21.7
+2467;Vught;Herkomst: Niet-Nederland;2.0;18.6
+2468;Vught;Herkomst: Westers land;1.6;19.4
+2469;Vught;Herkomst: Niet-westers land;0.4;14.8
+2470;Waalre;Totaal Herkomst (land);11.3;22.9
+2471;Waalre;Herkomst: Nederland;9.9;23.0
+2472;Waalre;Herkomst: Niet-Nederland;1.4;22.4
+2473;Waalre;Herkomst: Westers land;1.1;23.8
+2474;Waalre;Herkomst: Niet-westers land;0.3;17.8
+2475;Waalwijk;Totaal Herkomst (land);32.6;18.1
+2476;Waalwijk;Herkomst: Nederland;28.6;18.4
+2477;Waalwijk;Herkomst: Niet-Nederland;4.0;15.7
+2478;Waalwijk;Herkomst: Westers land;2.3;16.9
+2479;Waalwijk;Herkomst: Niet-westers land;1.8;14.1
+2480;Waddinxveen;Totaal Herkomst (land);18.1;19.7
+2481;Waddinxveen;Herkomst: Nederland;15.9;19.9
+2482;Waddinxveen;Herkomst: Niet-Nederland;2.2;17.6
+2483;Waddinxveen;Herkomst: Westers land;1.2;20.4
+2484;Waddinxveen;Herkomst: Niet-westers land;1.0;14.3
+2485;Wageningen;Totaal Herkomst (land);23.1;18.1
+2486;Wageningen;Herkomst: Nederland;19.6;18.3
+2487;Wageningen;Herkomst: Niet-Nederland;3.5;16.9
+2488;Wageningen;Herkomst: Westers land;2.3;18.9
+2489;Wageningen;Herkomst: Niet-westers land;1.2;13.3
+2490;Wassenaar;Totaal Herkomst (land);16.1;32.0
+2491;Wassenaar;Herkomst: Nederland;12.7;28.6
+2492;Wassenaar;Herkomst: Niet-Nederland;3.4;44.6
+2493;Wassenaar;Herkomst: Westers land;2.8;47.8
+2494;Wassenaar;Herkomst: Niet-westers land;0.7;31.0
+2495;Waterland;Totaal Herkomst (land);12.1;21.4
+2496;Waterland;Herkomst: Nederland;11.0;21.5
+2497;Waterland;Herkomst: Niet-Nederland;1.1;21.2
+2498;Waterland;Herkomst: Westers land;0.9;22.0
+2499;Waterland;Herkomst: Niet-westers land;0.2;17.7
+2500;Weert;Totaal Herkomst (land);34.4;18.0
+2501;Weert;Herkomst: Nederland;28.9;18.3
+2502;Weert;Herkomst: Niet-Nederland;5.6;16.4
+2503;Weert;Herkomst: Westers land;3.6;16.8
+2504;Weert;Herkomst: Niet-westers land;2.0;15.6
+2505;Weesp;Totaal Herkomst (land);12.9;19.6
+2506;Weesp;Herkomst: Nederland;10.3;20.1
+2507;Weesp;Herkomst: Niet-Nederland;2.6;17.8
+2508;Weesp;Herkomst: Westers land;1.4;19.5
+2509;Weesp;Herkomst: Niet-westers land;1.2;15.8
+2510;Werkendam;Totaal Herkomst (land);17.9;19.2
+2511;Werkendam;Herkomst: Nederland;17.1;19.2
+2512;Werkendam;Herkomst: Niet-Nederland;0.8;17.8
+2513;Werkendam;Herkomst: Westers land;0.6;18.8
+2514;Werkendam;Herkomst: Niet-westers land;;
+2515;Wervershoof;Totaal Herkomst (land);5.8;18.6
+2516;Wervershoof;Herkomst: Nederland;5.6;18.7
+2517;Wervershoof;Herkomst: Niet-Nederland;0.2;15.8
+2518;Wervershoof;Herkomst: Westers land;;
+2519;Wervershoof;Herkomst: Niet-westers land;;
+2520;West Maas en Waal;Totaal Herkomst (land);12.8;18.4
+2521;West Maas en Waal;Herkomst: Nederland;12.2;18.4
+2522;West Maas en Waal;Herkomst: Niet-Nederland;0.6;18.8
+2523;West Maas en Waal;Herkomst: Westers land;0.5;19.5
+2524;West Maas en Waal;Herkomst: Niet-westers land;;
+2525;Westerveld;Totaal Herkomst (land);13.7;18.8
+2526;Westerveld;Herkomst: Nederland;13.1;18.6
+2527;Westerveld;Herkomst: Niet-Nederland;0.6;23.4
+2528;Westerveld;Herkomst: Westers land;0.5;25.7
+2529;Westerveld;Herkomst: Niet-westers land;;
+2530;Westervoort;Totaal Herkomst (land);11.0;17.3
+2531;Westervoort;Herkomst: Nederland;9.5;17.5
+2532;Westervoort;Herkomst: Niet-Nederland;1.5;15.8
+2533;Westervoort;Herkomst: Westers land;1.1;17.0
+2534;Westervoort;Herkomst: Niet-westers land;0.5;13.1
+2535;Westland;Totaal Herkomst (land);70.3;18.8
+2536;Westland;Herkomst: Nederland;64.9;18.9
+2537;Westland;Herkomst: Niet-Nederland;5.4;17.6
+2538;Westland;Herkomst: Westers land;3.4;19.5
+2539;Westland;Herkomst: Niet-westers land;2.0;14.3
+2540;Weststellingwerf;Totaal Herkomst (land);18.0;16.7
+2541;Weststellingwerf;Herkomst: Nederland;16.9;16.7
+2542;Weststellingwerf;Herkomst: Niet-Nederland;1.0;16.0
+2543;Weststellingwerf;Herkomst: Westers land;0.7;16.9
+2544;Weststellingwerf;Herkomst: Niet-westers land;0.4;14.3
+2545;Westvoorne;Totaal Herkomst (land);9.9;22.8
+2546;Westvoorne;Herkomst: Nederland;9.2;22.8
+2547;Westvoorne;Herkomst: Niet-Nederland;0.8;23.2
+2548;Westvoorne;Herkomst: Westers land;0.6;25.1
+2549;Westvoorne;Herkomst: Niet-westers land;;
+2550;Wierden;Totaal Herkomst (land);15.9;18.2
+2551;Wierden;Herkomst: Nederland;14.8;18.2
+2552;Wierden;Herkomst: Niet-Nederland;1.0;17.9
+2553;Wierden;Herkomst: Westers land;0.9;18.8
+2554;Wierden;Herkomst: Niet-westers land;;
+2555;Wieringen;Totaal Herkomst (land);6.1;19.5
+2556;Wieringen;Herkomst: Nederland;5.7;19.7
+2557;Wieringen;Herkomst: Niet-Nederland;0.4;17.7
+2558;Wieringen;Herkomst: Westers land;0.3;17.5
+2559;Wieringen;Herkomst: Niet-westers land;;
+2560;Wieringermeer;Totaal Herkomst (land);8.7;17.9
+2561;Wieringermeer;Herkomst: Nederland;8.1;17.9
+2562;Wieringermeer;Herkomst: Niet-Nederland;0.6;17.3
+2563;Wieringermeer;Herkomst: Westers land;0.5;18.0
+2564;Wieringermeer;Herkomst: Niet-westers land;;
+2565;Wijchen;Totaal Herkomst (land);27.2;18.3
+2566;Wijchen;Herkomst: Nederland;24.5;18.4
+2567;Wijchen;Herkomst: Niet-Nederland;2.7;17.2
+2568;Wijchen;Herkomst: Westers land;2.0;18.0
+2569;Wijchen;Herkomst: Niet-westers land;0.8;15.3
+2570;Wijdemeren;Totaal Herkomst (land);16.5;21.8
+2571;Wijdemeren;Herkomst: Nederland;14.8;21.7
+2572;Wijdemeren;Herkomst: Niet-Nederland;1.7;22.4
+2573;Wijdemeren;Herkomst: Westers land;1.3;23.3
+2574;Wijdemeren;Herkomst: Niet-westers land;0.4;19.1
+2575;Wijk bij Duurstede;Totaal Herkomst (land);16.1;19.6
+2576;Wijk bij Duurstede;Herkomst: Nederland;14.6;19.7
+2577;Wijk bij Duurstede;Herkomst: Niet-Nederland;1.6;18.3
+2578;Wijk bij Duurstede;Herkomst: Westers land;1.1;19.6
+2579;Wijk bij Duurstede;Herkomst: Niet-westers land;0.5;15.5
+2580;Winschoten;Totaal Herkomst (land);13.3;16.2
+2581;Winschoten;Herkomst: Nederland;12.2;16.3
+2582;Winschoten;Herkomst: Niet-Nederland;1.1;15.7
+2583;Winschoten;Herkomst: Westers land;0.9;16.5
+2584;Winschoten;Herkomst: Niet-westers land;0.2;12.8
+2585;Winsum;Totaal Herkomst (land);9.4;18.1
+2586;Winsum;Herkomst: Nederland;8.9;18.0
+2587;Winsum;Herkomst: Niet-Nederland;0.4;19.7
+2588;Winsum;Herkomst: Westers land;0.3;20.4
+2589;Winsum;Herkomst: Niet-westers land;;
+2590;Winterswijk;Totaal Herkomst (land);20.6;16.4
+2591;Winterswijk;Herkomst: Nederland;18.3;16.6
+2592;Winterswijk;Herkomst: Niet-Nederland;2.4;15.1
+2593;Winterswijk;Herkomst: Westers land;1.8;15.6
+2594;Winterswijk;Herkomst: Niet-westers land;0.6;13.6
+2595;Woensdrecht;Totaal Herkomst (land);14.7;17.9
+2596;Woensdrecht;Herkomst: Nederland;12.4;18.0
+2597;Woensdrecht;Herkomst: Niet-Nederland;2.2;17.6
+2598;Woensdrecht;Herkomst: Westers land;2.0;18.0
+2599;Woensdrecht;Herkomst: Niet-westers land;0.3;14.3
+2600;Woerden;Totaal Herkomst (land);33.0;20.3
+2601;Woerden;Herkomst: Nederland;29.3;20.5
+2602;Woerden;Herkomst: Niet-Nederland;3.7;18.4
+2603;Woerden;Herkomst: Westers land;2.2;19.8
+2604;Woerden;Herkomst: Niet-westers land;1.5;16.3
+2605;Wormerland;Totaal Herkomst (land);11.1;19.2
+2606;Wormerland;Herkomst: Nederland;10.0;19.3
+2607;Wormerland;Herkomst: Niet-Nederland;1.0;18.0
+2608;Wormerland;Herkomst: Westers land;0.7;18.6
+2609;Wormerland;Herkomst: Niet-westers land;0.3;16.5
+2610;Woudenberg;Totaal Herkomst (land);7.6;19.3
+2611;Woudenberg;Herkomst: Nederland;7.1;19.4
+2612;Woudenberg;Herkomst: Niet-Nederland;0.5;18.2
+2613;Woudenberg;Herkomst: Westers land;0.3;20.5
+2614;Woudenberg;Herkomst: Niet-westers land;;
+2615;Woudrichem;Totaal Herkomst (land);9.6;19.0
+2616;Woudrichem;Herkomst: Nederland;9.1;19.0
+2617;Woudrichem;Herkomst: Niet-Nederland;0.5;17.9
+2618;Woudrichem;Herkomst: Westers land;0.4;18.3
+2619;Woudrichem;Herkomst: Niet-westers land;;
+2620;Wûnseradiel;Totaal Herkomst (land);7.8;18.0
+2621;Wûnseradiel;Herkomst: Nederland;7.4;18.1
+2622;Wûnseradiel;Herkomst: Niet-Nederland;0.4;15.6
+2623;Wûnseradiel;Herkomst: Westers land;0.3;16.4
+2624;Wûnseradiel;Herkomst: Niet-westers land;;
+2625;Wymbritseradiel;Totaal Herkomst (land);10.7;18.4
+2626;Wymbritseradiel;Herkomst: Nederland;10.4;18.4
+2627;Wymbritseradiel;Herkomst: Niet-Nederland;0.3;16.8
+2628;Wymbritseradiel;Herkomst: Westers land;0.3;18.1
+2629;Wymbritseradiel;Herkomst: Niet-westers land;;
+2630;Zaanstad;Totaal Herkomst (land);100.3;18.0
+2631;Zaanstad;Herkomst: Nederland;78.5;18.5
+2632;Zaanstad;Herkomst: Niet-Nederland;21.8;16.3
+2633;Zaanstad;Herkomst: Westers land;8.9;18.2
+2634;Zaanstad;Herkomst: Niet-westers land;12.9;14.9
+2635;Zaltbommel;Totaal Herkomst (land);17.3;19.0
+2636;Zaltbommel;Herkomst: Nederland;16.0;19.1
+2637;Zaltbommel;Herkomst: Niet-Nederland;1.3;17.3
+2638;Zaltbommel;Herkomst: Westers land;0.7;20.9
+2639;Zaltbommel;Herkomst: Niet-westers land;0.6;12.9
+2640;Zandvoort;Totaal Herkomst (land);12.2;20.4
+2641;Zandvoort;Herkomst: Nederland;10.1;20.6
+2642;Zandvoort;Herkomst: Niet-Nederland;2.1;19.7
+2643;Zandvoort;Herkomst: Westers land;1.5;20.7
+2644;Zandvoort;Herkomst: Niet-westers land;0.5;17.0
+2645;Zederik;Totaal Herkomst (land);8.9;19.1
+2646;Zederik;Herkomst: Nederland;8.6;19.1
+2647;Zederik;Herkomst: Niet-Nederland;0.3;17.6
+2648;Zederik;Herkomst: Westers land;0.2;19.1
+2649;Zederik;Herkomst: Niet-westers land;;
+2650;Zeevang;Totaal Herkomst (land);4.3;20.8
+2651;Zeevang;Herkomst: Nederland;3.9;21.0
+2652;Zeevang;Herkomst: Niet-Nederland;0.4;19.1
+2653;Zeevang;Herkomst: Westers land;0.3;19.0
+2654;Zeevang;Herkomst: Niet-westers land;;
+2655;Zeewolde;Totaal Herkomst (land);12.3;20.1
+2656;Zeewolde;Herkomst: Nederland;11.0;20.2
+2657;Zeewolde;Herkomst: Niet-Nederland;1.2;18.8
+2658;Zeewolde;Herkomst: Westers land;0.9;19.6
+2659;Zeewolde;Herkomst: Niet-westers land;0.3;16.6
+2660;Zeist;Totaal Herkomst (land);42.1;22.0
+2661;Zeist;Herkomst: Nederland;34.4;22.6
+2662;Zeist;Herkomst: Niet-Nederland;7.7;19.4
+2663;Zeist;Herkomst: Westers land;4.2;22.7
+2664;Zeist;Herkomst: Niet-westers land;3.4;15.4
+2665;Zevenaar;Totaal Herkomst (land);23.0;17.8
+2666;Zevenaar;Herkomst: Nederland;20.0;17.9
+2667;Zevenaar;Herkomst: Niet-Nederland;3.0;17.1
+2668;Zevenaar;Herkomst: Westers land;2.4;17.8
+2669;Zevenaar;Herkomst: Niet-westers land;0.6;14.7
+2670;Zevenhuizen-Moerkapelle;Totaal Herkomst (land);7.1;19.2
+2671;Zevenhuizen-Moerkapelle;Herkomst: Nederland;6.7;19.3
+2672;Zevenhuizen-Moerkapelle;Herkomst: Niet-Nederland;0.4;17.8
+2673;Zevenhuizen-Moerkapelle;Herkomst: Westers land;0.3;19.7
+2674;Zevenhuizen-Moerkapelle;Herkomst: Niet-westers land;;
+2675;Zijpe;Totaal Herkomst (land);7.9;18.7
+2676;Zijpe;Herkomst: Nederland;7.4;18.7
+2677;Zijpe;Herkomst: Niet-Nederland;0.5;18.8
+2678;Zijpe;Herkomst: Westers land;0.4;19.6
+2679;Zijpe;Herkomst: Niet-westers land;;
+2680;Zoetermeer;Totaal Herkomst (land);83.0;19.5
+2681;Zoetermeer;Herkomst: Nederland;62.6;19.9
+2682;Zoetermeer;Herkomst: Niet-Nederland;20.4;18.2
+2683;Zoetermeer;Herkomst: Westers land;9.8;20.1
+2684;Zoetermeer;Herkomst: Niet-westers land;10.7;16.5
+2685;Zoeterwoude;Totaal Herkomst (land);5.9;19.6
+2686;Zoeterwoude;Herkomst: Nederland;5.3;19.8
+2687;Zoeterwoude;Herkomst: Niet-Nederland;0.6;17.9
+2688;Zoeterwoude;Herkomst: Westers land;0.3;20.0
+2689;Zoeterwoude;Herkomst: Niet-westers land;0.2;15.1
+2690;Zuidhorn;Totaal Herkomst (land);12.0;19.0
+2691;Zuidhorn;Herkomst: Nederland;11.5;19.0
+2692;Zuidhorn;Herkomst: Niet-Nederland;0.5;18.5
+2693;Zuidhorn;Herkomst: Westers land;0.4;19.9
+2694;Zuidhorn;Herkomst: Niet-westers land;;
+2695;Zundert;Totaal Herkomst (land);14.9;17.8
+2696;Zundert;Herkomst: Nederland;13.1;18.2
+2697;Zundert;Herkomst: Niet-Nederland;1.7;14.9
+2698;Zundert;Herkomst: Westers land;1.5;15.4
+2699;Zundert;Herkomst: Niet-westers land;;
+2700;Zutphen;Totaal Herkomst (land);32.9;17.6
+2701;Zutphen;Herkomst: Nederland;28.3;17.9
+2702;Zutphen;Herkomst: Niet-Nederland;4.6;15.7
+2703;Zutphen;Herkomst: Westers land;2.9;16.8
+2704;Zutphen;Herkomst: Niet-westers land;1.7;13.9
+2705;Zwartewaterland;Totaal Herkomst (land);13.8;18.2
+2706;Zwartewaterland;Herkomst: Nederland;13.3;18.3
+2707;Zwartewaterland;Herkomst: Niet-Nederland;0.5;15.6
+2708;Zwartewaterland;Herkomst: Westers land;0.4;15.8
+2709;Zwartewaterland;Herkomst: Niet-westers land;;
+2710;Zwijndrecht;Totaal Herkomst (land);31.6;19.0
+2711;Zwijndrecht;Herkomst: Nederland;27.1;19.4
+2712;Zwijndrecht;Herkomst: Niet-Nederland;4.5;16.6
+2713;Zwijndrecht;Herkomst: Westers land;2.3;18.6
+2714;Zwijndrecht;Herkomst: Niet-westers land;2.2;14.6
+2715;Zwolle;Totaal Herkomst (land);82.2;17.9
+2716;Zwolle;Herkomst: Nederland;71.1;18.2
+2717;Zwolle;Herkomst: Niet-Nederland;11.1;16.1
+2718;Zwolle;Herkomst: Westers land;5.5;18.3
+2719;Zwolle;Herkomst: Niet-westers land;5.6;13.9

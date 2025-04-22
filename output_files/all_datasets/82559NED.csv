@@ -1,0 +1,313 @@
+﻿ID;Persoonskenmerken;Marges;CaribischNederland;Perioden;SlachtofferschapTotaal_1;SlachtofferVanGeweldsdelict_2;SlachtofferVanVandalisme_3;VermogensdelictTotaal_4;PogingTotInbraak_5;Autodiefstal_6;DiefstalAndereVoertuigen_7;PogingTotZakkenrollerijBeroving_8;OverigeDiefstal_9
+0;Totaal personen;Perrcentage;Caribisch Nederland;2013;16.7;2.9;4.4;13.2;5.1;1.8;1.2;3.4;6.4
+1;Totaal personen;Perrcentage;Caribisch Nederland;2017/2018;8.8;1.6;1.6;6.8;2.8;0.5;0.6;1.6;2.6
+2;Totaal personen;Perrcentage;Caribisch Nederland;2021;7.6;1.2;2.9;4.6;1.7;0.8;0.7;0.5;2.3
+3;Totaal personen;Perrcentage;Bonaire;2013;16.9;2.3;4.0;14.7;5.8;2.4;1.6;3.5;7.2
+4;Totaal personen;Perrcentage;Bonaire;2017/2018;9.8;1.0;1.5;8.4;4.0;0.8;;1.8;3.2
+5;Totaal personen;Perrcentage;Bonaire;2021;7.6;0.7;1.9;5.7;1.7;0.8;0.8;;3.0
+6;Totaal personen;Perrcentage;Sint-Eustatius;2013;15.0;3.8;7.9;7.1;;;;;4.4
+7;Totaal personen;Perrcentage;Sint-Eustatius;2017/2018;5.0;1.3;;3.5;;;1.3;;1.7
+8;Totaal personen;Perrcentage;Sint-Eustatius;2021;4.3;;1.6;3.7;2.6;1.2;;;1.3
+9;Totaal personen;Perrcentage;Saba;2013;19.1;6.4;;12.7;5.6;;;4.7;3.5
+10;Totaal personen;Perrcentage;Saba;2017/2018;10.7;4.2;2.9;5.2;;;;2.4;2.0
+11;Totaal personen;Perrcentage;Saba;2021;13.1;3.4;7.9;3.2;;;;;2.0
+12;Totaal personen;Betrouwbaarheidsmarge;Caribisch Nederland;2013;2.2;1.0;1.2;2.0;1.3;0.8;0.6;1.1;1.5
+13;Totaal personen;Betrouwbaarheidsmarge;Caribisch Nederland;2017/2018;1.4;0.6;0.6;1.2;0.8;0.3;0.4;0.6;0.8
+14;Totaal personen;Betrouwbaarheidsmarge;Caribisch Nederland;2021;1.3;0.5;0.8;1.1;0.6;0.5;0.4;0.3;0.8
+15;Totaal personen;Betrouwbaarheidsmarge;Bonaire;2013;2.6;1.0;1.4;2.5;1.6;1.1;0.9;1.3;1.8
+16;Totaal personen;Betrouwbaarheidsmarge;Bonaire;2017/2018;1.8;0.6;0.7;1.7;1.2;0.5;;0.8;1.1
+17;Totaal personen;Betrouwbaarheidsmarge;Bonaire;2021;1.9;0.6;1.0;1.6;0.9;0.6;0.6;;1.2
+18;Totaal personen;Betrouwbaarheidsmarge;Sint-Eustatius;2013;6.1;3.2;4.6;4.4;;;;;3.5
+19;Totaal personen;Betrouwbaarheidsmarge;Sint-Eustatius;2017/2018;2.2;1.1;;1.8;;;1.1;;1.3
+20;Totaal personen;Betrouwbaarheidsmarge;Sint-Eustatius;2021;1.8;;1.1;1.7;1.5;1.0;;;1.0
+21;Totaal personen;Betrouwbaarheidsmarge;Saba;2013;6.3;4.0;;5.4;3.7;;;3.4;3.0
+22;Totaal personen;Betrouwbaarheidsmarge;Saba;2017/2018;3.8;2.5;2.1;2.7;;;;1.9;1.7
+23;Totaal personen;Betrouwbaarheidsmarge;Saba;2021;4.0;2.1;3.2;2.1;;;;;1.7
+24;Geslacht: Mannen;Perrcentage;Caribisch Nederland;2013;17.4;3.2;5.1;13.0;5.6;2.5;1.5;3.1;6.5
+25;Geslacht: Mannen;Perrcentage;Caribisch Nederland;2017/2018;9.5;1.9;1.3;7.5;3.2;;;2.5;2.2
+26;Geslacht: Mannen;Perrcentage;Caribisch Nederland;2021;7.9;1.1;2.9;4.8;1.4;1.0;0.9;0.5;2.3
+27;Geslacht: Mannen;Perrcentage;Bonaire;2013;17.4;2.6;3.5;14.7;6.3;3.3;2.0;3.8;7.1
+28;Geslacht: Mannen;Perrcentage;Bonaire;2017/2018;10.5;1.5;0.9;9.2;4.8;;;2.4;2.8
+29;Geslacht: Mannen;Perrcentage;Bonaire;2021;8.2;;2.9;5.9;1.0;1.3;1.0;;3.3
+30;Geslacht: Mannen;Perrcentage;Sint-Eustatius;2013;17.2;;12.2;8.1;;;;;5.7
+31;Geslacht: Mannen;Perrcentage;Sint-Eustatius;2017/2018;4.0;;;2.8;;;;;
+32;Geslacht: Mannen;Perrcentage;Sint-Eustatius;2021;4.6;;;3.8;3.0;;;;
+33;Geslacht: Mannen;Perrcentage;Saba;2013;18.0;7.7;;9.0;6.0;;;;
+34;Geslacht: Mannen;Perrcentage;Saba;2017/2018;14.1;4.6;3.1;8.2;;;;4.7;
+35;Geslacht: Mannen;Perrcentage;Saba;2021;12.3;4.7;6.5;3.1;;;;;
+36;Geslacht: Mannen;Betrouwbaarheidsmarge;Caribisch Nederland;2013;3.1;1.5;1.8;2.8;1.9;1.3;1.0;1.4;2.0
+37;Geslacht: Mannen;Betrouwbaarheidsmarge;Caribisch Nederland;2017/2018;2.0;0.9;0.8;1.8;1.2;;;1.0;1.0
+38;Geslacht: Mannen;Betrouwbaarheidsmarge;Caribisch Nederland;2021;1.9;0.7;1.2;1.5;0.8;0.7;0.7;0.5;1.1
+39;Geslacht: Mannen;Betrouwbaarheidsmarge;Bonaire;2013;3.6;1.5;1.8;3.4;2.4;1.7;1.4;1.8;2.5
+40;Geslacht: Mannen;Betrouwbaarheidsmarge;Bonaire;2017/2018;2.6;1.1;0.8;2.5;1.8;;;1.3;1.4
+41;Geslacht: Mannen;Betrouwbaarheidsmarge;Bonaire;2021;2.7;;1.6;2.3;1.0;1.1;1.0;;1.8
+42;Geslacht: Mannen;Betrouwbaarheidsmarge;Sint-Eustatius;2013;8.6;;7.4;6.2;;;;;5.3
+43;Geslacht: Mannen;Betrouwbaarheidsmarge;Sint-Eustatius;2017/2018;2.7;;;2.3;;;;;
+44;Geslacht: Mannen;Betrouwbaarheidsmarge;Sint-Eustatius;2021;2.7;;;2.5;2.2;;;;
+45;Geslacht: Mannen;Betrouwbaarheidsmarge;Saba;2013;8.8;6.1;;6.5;5.4;;;;
+46;Geslacht: Mannen;Betrouwbaarheidsmarge;Saba;2017/2018;6.1;3.7;3.0;4.8;;;;3.7;
+47;Geslacht: Mannen;Betrouwbaarheidsmarge;Saba;2021;5.5;3.5;4.1;2.9;;;;;
+48;Geslacht: Vrouwen;Perrcentage;Caribisch Nederland;2013;16.0;2.6;3.7;13.5;4.5;0.9;0.9;3.8;6.2
+49;Geslacht: Vrouwen;Perrcentage;Caribisch Nederland;2017/2018;8.1;1.3;1.9;6.0;2.3;0.6;0.6;0.8;3.1
+50;Geslacht: Vrouwen;Perrcentage;Caribisch Nederland;2021;7.3;1.2;2.9;4.5;1.9;0.6;0.5;0.5;2.3
+51;Geslacht: Vrouwen;Perrcentage;Bonaire;2013;16.3;1.9;4.4;14.7;5.2;1.3;1.2;3.2;7.2
+52;Geslacht: Vrouwen;Perrcentage;Bonaire;2017/2018;9.1;;2.1;7.7;3.1;1.0;;1.1;3.6
+53;Geslacht: Vrouwen;Perrcentage;Bonaire;2021;6.9;1.0;;5.6;2.4;;;;2.7
+54;Geslacht: Vrouwen;Perrcentage;Sint-Eustatius;2013;12.2;;;;;;;;
+55;Geslacht: Vrouwen;Perrcentage;Sint-Eustatius;2017/2018;6.1;;;4.2;;;;;3.1
+56;Geslacht: Vrouwen;Perrcentage;Sint-Eustatius;2021;3.9;;2.4;3.5;2.1;;;;2.0
+57;Geslacht: Vrouwen;Perrcentage;Saba;2013;20.1;5.2;;16.3;5.3;;;9.3;
+58;Geslacht: Vrouwen;Perrcentage;Saba;2017/2018;7.3;3.8;;;;;;;
+59;Geslacht: Vrouwen;Perrcentage;Saba;2021;13.8;;9.3;3.3;;;;;
+60;Geslacht: Vrouwen;Betrouwbaarheidsmarge;Caribisch Nederland;2013;3.2;1.4;1.7;3.0;1.8;0.8;0.8;1.7;2.1
+61;Geslacht: Vrouwen;Betrouwbaarheidsmarge;Caribisch Nederland;2017/2018;1.9;0.8;1.0;1.6;1.1;0.5;0.5;0.6;1.2
+62;Geslacht: Vrouwen;Betrouwbaarheidsmarge;Caribisch Nederland;2021;1.9;0.8;1.2;1.5;1.0;0.5;0.5;0.5;1.1
+63;Geslacht: Vrouwen;Betrouwbaarheidsmarge;Bonaire;2013;3.8;1.4;2.1;3.6;2.3;1.1;1.1;1.8;2.6
+64;Geslacht: Vrouwen;Betrouwbaarheidsmarge;Bonaire;2017/2018;2.6;;1.3;2.4;1.5;0.9;;0.9;1.7
+65;Geslacht: Vrouwen;Betrouwbaarheidsmarge;Bonaire;2021;2.6;1.0;;2.4;1.6;;;;1.6
+66;Geslacht: Vrouwen;Betrouwbaarheidsmarge;Sint-Eustatius;2013;8.4;;;;;;;;
+67;Geslacht: Vrouwen;Betrouwbaarheidsmarge;Sint-Eustatius;2017/2018;3.4;;;2.9;;;;;2.5
+68;Geslacht: Vrouwen;Betrouwbaarheidsmarge;Sint-Eustatius;2021;2.5;;2.0;2.4;1.9;;;;1.8
+69;Geslacht: Vrouwen;Betrouwbaarheidsmarge;Saba;2013;9.2;5.1;;8.4;5.1;;;6.6;
+70;Geslacht: Vrouwen;Betrouwbaarheidsmarge;Saba;2017/2018;4.6;3.3;;;;;;;
+71;Geslacht: Vrouwen;Betrouwbaarheidsmarge;Saba;2021;5.7;;4.8;2.9;;;;;
+72;Leeftijd: 15 tot 45 jaar;Perrcentage;Caribisch Nederland;2013;17.5;3.2;4.0;14.4;5.1;1.6;1.6;4.2;7.0
+73;Leeftijd: 15 tot 45 jaar;Perrcentage;Caribisch Nederland;2017/2018;9.8;1.8;1.6;7.4;2.5;;0.6;2.5;3.4
+74;Leeftijd: 15 tot 45 jaar;Perrcentage;Caribisch Nederland;2021;9.1;1.6;3.6;5.2;1.8;;0.8;0.6;2.5
+75;Leeftijd: 15 tot 45 jaar;Perrcentage;Bonaire;2013;19.2;2.6;4.0;16.8;5.6;2.2;2.2;4.3;8.8
+76;Leeftijd: 15 tot 45 jaar;Perrcentage;Bonaire;2017/2018;10.7;1.1;1.3;9.3;3.7;;;2.6;4.1
+77;Leeftijd: 15 tot 45 jaar;Perrcentage;Bonaire;2021;9.3;1.6;2.8;5.8;1.2;;;;3.4
+78;Leeftijd: 15 tot 45 jaar;Perrcentage;Sint-Eustatius;2013;10.2;;;6.3;;;;;
+79;Leeftijd: 15 tot 45 jaar;Perrcentage;Sint-Eustatius;2017/2018;;;;;;;;;
+80;Leeftijd: 15 tot 45 jaar;Perrcentage;Sint-Eustatius;2021;5.5;;;5.5;3.9;;;;2.1
+81;Leeftijd: 15 tot 45 jaar;Perrcentage;Saba;2013;17.5;6.3;;11.2;5.1;;;6.2;
+82;Leeftijd: 15 tot 45 jaar;Perrcentage;Saba;2017/2018;11.6;3.6;;5.7;;;;3.3;
+83;Leeftijd: 15 tot 45 jaar;Perrcentage;Saba;2021;14.3;3.4;9.3;3.0;;;;;
+84;Leeftijd: 15 tot 45 jaar;Betrouwbaarheidsmarge;Caribisch Nederland;2013;3.2;1.5;1.6;2.9;1.8;1.1;1.0;1.7;2.1
+85;Leeftijd: 15 tot 45 jaar;Betrouwbaarheidsmarge;Caribisch Nederland;2017/2018;2.1;0.9;0.9;1.8;1.1;;0.5;1.1;1.3
+86;Leeftijd: 15 tot 45 jaar;Betrouwbaarheidsmarge;Caribisch Nederland;2021;2.1;0.9;1.4;1.6;1.0;;0.6;0.6;1.2
+87;Leeftijd: 15 tot 45 jaar;Betrouwbaarheidsmarge;Bonaire;2013;3.9;1.6;1.9;3.7;2.3;1.5;1.5;2.0;2.8
+88;Leeftijd: 15 tot 45 jaar;Betrouwbaarheidsmarge;Bonaire;2017/2018;2.8;0.9;1.0;2.6;1.7;;;1.4;1.8
+89;Leeftijd: 15 tot 45 jaar;Betrouwbaarheidsmarge;Bonaire;2021;3.0;1.3;1.7;2.4;1.1;;;;1.9
+90;Leeftijd: 15 tot 45 jaar;Betrouwbaarheidsmarge;Sint-Eustatius;2013;7.2;;;5.8;;;;;
+91;Leeftijd: 15 tot 45 jaar;Betrouwbaarheidsmarge;Sint-Eustatius;2017/2018;;;;;;;;;
+92;Leeftijd: 15 tot 45 jaar;Betrouwbaarheidsmarge;Sint-Eustatius;2021;3.0;;;3.0;2.6;;;;1.9
+93;Leeftijd: 15 tot 45 jaar;Betrouwbaarheidsmarge;Saba;2013;7.7;4.9;;6.4;4.4;;;4.9;
+94;Leeftijd: 15 tot 45 jaar;Betrouwbaarheidsmarge;Saba;2017/2018;5.2;3.0;;3.8;;;;2.9;
+95;Leeftijd: 15 tot 45 jaar;Betrouwbaarheidsmarge;Saba;2021;5.8;3.0;4.8;2.9;;;;;
+96;Leeftijd: 45 jaar of ouder;Perrcentage;Caribisch Nederland;2013;16.0;2.6;4.9;12.0;5.1;1.9;0.8;2.6;5.7
+97;Leeftijd: 45 jaar of ouder;Perrcentage;Caribisch Nederland;2017/2018;7.9;1.4;1.6;6.2;3.1;;;0.9;1.9
+98;Leeftijd: 45 jaar of ouder;Perrcentage;Caribisch Nederland;2021;6.2;0.8;2.3;4.1;1.6;1.1;0.7;;2.1
+99;Leeftijd: 45 jaar of ouder;Perrcentage;Bonaire;2013;14.6;2.0;4.0;12.6;6.0;2.5;1.1;2.7;5.6
+100;Leeftijd: 45 jaar of ouder;Perrcentage;Bonaire;2017/2018;9.1;1.0;1.6;7.6;4.2;0.9;;1.0;2.3
+101;Leeftijd: 45 jaar of ouder;Perrcentage;Bonaire;2021;6.0;;1.1;5.6;2.2;1.3;1.3;;2.7
+102;Leeftijd: 45 jaar of ouder;Perrcentage;Sint-Eustatius;2013;20.0;;11.1;7.8;;;;;5.9
+103;Leeftijd: 45 jaar of ouder;Perrcentage;Sint-Eustatius;2017/2018;4.1;;;3.2;;;;;
+104;Leeftijd: 45 jaar of ouder;Perrcentage;Sint-Eustatius;2021;3.1;;1.7;2.0;;1.5;;;
+105;Leeftijd: 45 jaar of ouder;Perrcentage;Saba;2013;21.8;6.7;;15.1;6.6;;;;6.6
+106;Leeftijd: 45 jaar of ouder;Perrcentage;Saba;2017/2018;9.6;5.0;3.8;4.5;;;;;
+107;Leeftijd: 45 jaar of ouder;Perrcentage;Saba;2021;11.9;3.3;6.5;3.4;;;;;2.9
+108;Leeftijd: 45 jaar of ouder;Betrouwbaarheidsmarge;Caribisch Nederland;2013;3.2;1.4;1.9;2.8;1.9;1.2;0.8;1.4;2.0
+109;Leeftijd: 45 jaar of ouder;Betrouwbaarheidsmarge;Caribisch Nederland;2017/2018;1.8;0.8;0.9;1.6;1.2;;;0.6;0.9
+110;Leeftijd: 45 jaar of ouder;Betrouwbaarheidsmarge;Caribisch Nederland;2021;1.7;0.6;1.0;1.4;0.9;0.7;0.6;;1.0
+111;Leeftijd: 45 jaar of ouder;Betrouwbaarheidsmarge;Bonaire;2013;3.5;1.4;1.9;3.3;2.4;1.5;1.0;1.6;2.3
+112;Leeftijd: 45 jaar of ouder;Betrouwbaarheidsmarge;Bonaire;2017/2018;2.5;0.8;1.1;2.3;1.7;0.8;;0.8;1.3
+113;Leeftijd: 45 jaar of ouder;Betrouwbaarheidsmarge;Bonaire;2021;2.3;;1.0;2.2;1.4;1.1;1.1;;1.6
+114;Leeftijd: 45 jaar of ouder;Betrouwbaarheidsmarge;Sint-Eustatius;2013;9.8;;7.7;6.5;;;;;5.7
+115;Leeftijd: 45 jaar of ouder;Betrouwbaarheidsmarge;Sint-Eustatius;2017/2018;2.7;;;2.4;;;;;
+116;Leeftijd: 45 jaar of ouder;Betrouwbaarheidsmarge;Sint-Eustatius;2021;2.2;;1.6;1.8;;1.5;;;
+117;Leeftijd: 45 jaar of ouder;Betrouwbaarheidsmarge;Saba;2013;11.1;6.7;;9.6;6.6;;;;6.6
+118;Leeftijd: 45 jaar of ouder;Betrouwbaarheidsmarge;Saba;2017/2018;5.6;4.1;3.6;3.9;;;;;
+119;Leeftijd: 45 jaar of ouder;Betrouwbaarheidsmarge;Saba;2021;5.4;3.0;4.1;3.0;;;;;2.8
+120;Leeftijd: 15 tot 25 jaar;Perrcentage;Caribisch Nederland;2013;19.8;4.1;3.2;14.4;5.5;;;7.3;5.8
+121;Leeftijd: 15 tot 25 jaar;Perrcentage;Caribisch Nederland;2017/2018;12.0;1.9;;10.6;2.3;;;4.6;5.3
+122;Leeftijd: 15 tot 25 jaar;Perrcentage;Caribisch Nederland;2021;12.9;3.1;4.2;7.3;3.1;;;;
+123;Leeftijd: 15 tot 25 jaar;Perrcentage;Bonaire;2013;20.8;;;16.5;6.8;;;7.2;7.2
+124;Leeftijd: 15 tot 25 jaar;Perrcentage;Bonaire;2017/2018;11.8;;;11.1;3.9;;;4.4;4.8
+125;Leeftijd: 15 tot 25 jaar;Perrcentage;Bonaire;2021;17.8;;6.3;9.8;;;;;
+126;Leeftijd: 15 tot 25 jaar;Perrcentage;Sint-Eustatius;2013;;;;;;;;;
+127;Leeftijd: 15 tot 25 jaar;Perrcentage;Sint-Eustatius;2017/2018;10.8;;;10.8;;;;;
+128;Leeftijd: 15 tot 25 jaar;Perrcentage;Sint-Eustatius;2021;;;;;;;;;
+129;Leeftijd: 15 tot 25 jaar;Perrcentage;Saba;2013;;;;;;;;;
+130;Leeftijd: 15 tot 25 jaar;Perrcentage;Saba;2017/2018;;;;;;;;;
+131;Leeftijd: 15 tot 25 jaar;Perrcentage;Saba;2021;;;;;;;;;
+132;Leeftijd: 15 tot 25 jaar;Betrouwbaarheidsmarge;Caribisch Nederland;2013;6.1;3.0;2.7;5.4;3.5;;;4.0;3.6
+133;Leeftijd: 15 tot 25 jaar;Betrouwbaarheidsmarge;Caribisch Nederland;2017/2018;4.2;1.8;;4.0;1.9;;;2.7;2.9
+134;Leeftijd: 15 tot 25 jaar;Betrouwbaarheidsmarge;Caribisch Nederland;2021;5.0;2.5;3.0;3.8;2.5;;;;
+135;Leeftijd: 15 tot 25 jaar;Betrouwbaarheidsmarge;Bonaire;2013;7.6;;;7.0;4.7;;;4.8;4.8
+136;Leeftijd: 15 tot 25 jaar;Betrouwbaarheidsmarge;Bonaire;2017/2018;5.5;;;5.3;3.3;;;3.5;3.6
+137;Leeftijd: 15 tot 25 jaar;Betrouwbaarheidsmarge;Bonaire;2021;8.0;;5.1;6.2;;;;;
+138;Leeftijd: 15 tot 25 jaar;Betrouwbaarheidsmarge;Sint-Eustatius;2013;;;;;;;;;
+139;Leeftijd: 15 tot 25 jaar;Betrouwbaarheidsmarge;Sint-Eustatius;2017/2018;9.0;;;9.0;;;;;
+140;Leeftijd: 15 tot 25 jaar;Betrouwbaarheidsmarge;Sint-Eustatius;2021;;;;;;;;;
+141;Leeftijd: 15 tot 25 jaar;Betrouwbaarheidsmarge;Saba;2013;;;;;;;;;
+142;Leeftijd: 15 tot 25 jaar;Betrouwbaarheidsmarge;Saba;2017/2018;;;;;;;;;
+143;Leeftijd: 15 tot 25 jaar;Betrouwbaarheidsmarge;Saba;2021;;;;;;;;;
+144;Leeftijd: 25 tot 45 jaar;Perrcentage;Caribisch Nederland;2013;16.5;2.8;4.3;14.4;4.9;1.9;1.5;2.8;7.5
+145;Leeftijd: 25 tot 45 jaar;Perrcentage;Caribisch Nederland;2017/2018;8.9;1.8;1.8;6.2;2.6;;;1.6;2.6
+146;Leeftijd: 25 tot 45 jaar;Perrcentage;Caribisch Nederland;2021;7.9;1.2;3.4;4.5;1.3;;;;2.8
+147;Leeftijd: 25 tot 45 jaar;Perrcentage;Bonaire;2013;18.5;2.3;4.6;16.9;5.1;2.6;2.0;3.2;9.4
+148;Leeftijd: 25 tot 45 jaar;Perrcentage;Bonaire;2017/2018;10.3;1.3;1.5;8.6;3.6;;;1.9;3.8
+149;Leeftijd: 25 tot 45 jaar;Perrcentage;Bonaire;2021;6.5;;1.6;4.5;;;;;3.3
+150;Leeftijd: 25 tot 45 jaar;Perrcentage;Sint-Eustatius;2013;;;;;;;;;
+151;Leeftijd: 25 tot 45 jaar;Perrcentage;Sint-Eustatius;2017/2018;4.4;;;;;;;;
+152;Leeftijd: 25 tot 45 jaar;Perrcentage;Sint-Eustatius;2021;5.5;;;5.5;4.0;;;;2.8
+153;Leeftijd: 25 tot 45 jaar;Perrcentage;Saba;2013;;;;;;;;;
+154;Leeftijd: 25 tot 45 jaar;Perrcentage;Saba;2017/2018;10.4;4.1;;;;;;;
+155;Leeftijd: 25 tot 45 jaar;Perrcentage;Saba;2021;14.7;;10.1;;;;;;
+156;Leeftijd: 25 tot 45 jaar;Betrouwbaarheidsmarge;Caribisch Nederland;2013;3.7;1.7;2.0;3.5;2.2;1.4;1.2;1.7;2.6
+157;Leeftijd: 25 tot 45 jaar;Betrouwbaarheidsmarge;Caribisch Nederland;2017/2018;2.3;1.1;1.1;2.0;1.3;;;1.0;1.3
+158;Leeftijd: 25 tot 45 jaar;Betrouwbaarheidsmarge;Caribisch Nederland;2021;2.3;0.9;1.5;1.7;1.0;;;;1.4
+159;Leeftijd: 25 tot 45 jaar;Betrouwbaarheidsmarge;Bonaire;2013;4.6;1.8;2.5;4.4;2.6;1.9;1.7;2.1;3.4
+160;Leeftijd: 25 tot 45 jaar;Betrouwbaarheidsmarge;Bonaire;2017/2018;3.2;1.2;1.3;3.0;2.0;;;1.4;2.0
+161;Leeftijd: 25 tot 45 jaar;Betrouwbaarheidsmarge;Bonaire;2021;2.9;;1.5;2.5;;;;;2.1
+162;Leeftijd: 25 tot 45 jaar;Betrouwbaarheidsmarge;Sint-Eustatius;2013;;;;;;;;;
+163;Leeftijd: 25 tot 45 jaar;Betrouwbaarheidsmarge;Sint-Eustatius;2017/2018;3.4;;;;;;;;
+164;Leeftijd: 25 tot 45 jaar;Betrouwbaarheidsmarge;Sint-Eustatius;2021;3.5;;;3.5;3.0;;;;2.6
+165;Leeftijd: 25 tot 45 jaar;Betrouwbaarheidsmarge;Saba;2013;;;;;;;;;
+166;Leeftijd: 25 tot 45 jaar;Betrouwbaarheidsmarge;Saba;2017/2018;6.2;4.0;;;;;;;
+167;Leeftijd: 25 tot 45 jaar;Betrouwbaarheidsmarge;Saba;2021;6.6;;5.7;;;;;;
+168;Leeftijd: 45 tot 65 jaar;Perrcentage;Caribisch Nederland;2013;17.1;3.0;5.4;12.4;5.0;1.9;;3.1;6.0
+169;Leeftijd: 45 tot 65 jaar;Perrcentage;Caribisch Nederland;2017/2018;8.8;1.6;1.7;7.1;3.6;0.8;;1.2;2.0
+170;Leeftijd: 45 tot 65 jaar;Perrcentage;Caribisch Nederland;2021;6.6;0.9;2.2;3.9;1.6;;;;2.4
+171;Leeftijd: 45 tot 65 jaar;Perrcentage;Bonaire;2013;15.5;2.2;3.9;13.3;6.0;2.5;;3.6;6.0
+172;Leeftijd: 45 tot 65 jaar;Perrcentage;Bonaire;2017/2018;10.2;;1.5;8.9;5.0;1.2;;1.4;2.4
+173;Leeftijd: 45 tot 65 jaar;Perrcentage;Bonaire;2021;6.8;;;6.3;2.7;;;;3.6
+174;Leeftijd: 45 tot 65 jaar;Perrcentage;Sint-Eustatius;2013;;;;;;;;;
+175;Leeftijd: 45 tot 65 jaar;Perrcentage;Sint-Eustatius;2017/2018;5.0;;;4.4;;;;;
+176;Leeftijd: 45 tot 65 jaar;Perrcentage;Sint-Eustatius;2021;;;;;;;;;
+177;Leeftijd: 45 tot 65 jaar;Perrcentage;Saba;2013;20.2;;;13.4;;;;;
+178;Leeftijd: 45 tot 65 jaar;Perrcentage;Saba;2017/2018;8.9;6.9;;;;;;;
+179;Leeftijd: 45 tot 65 jaar;Perrcentage;Saba;2021;15.1;5.2;9.1;;;;;;
+180;Leeftijd: 45 tot 65 jaar;Betrouwbaarheidsmarge;Caribisch Nederland;2013;3.8;1.7;2.3;3.3;2.2;1.4;;1.7;2.4
+181;Leeftijd: 45 tot 65 jaar;Betrouwbaarheidsmarge;Caribisch Nederland;2017/2018;2.3;1.0;1.0;2.1;1.5;0.7;;0.9;1.1
+182;Leeftijd: 45 tot 65 jaar;Betrouwbaarheidsmarge;Caribisch Nederland;2021;2.1;0.8;1.2;1.6;1.0;;;;1.3
+183;Leeftijd: 45 tot 65 jaar;Betrouwbaarheidsmarge;Bonaire;2013;4.2;1.7;2.2;3.9;2.7;1.8;;2.1;2.7
+184;Leeftijd: 45 tot 65 jaar;Betrouwbaarheidsmarge;Bonaire;2017/2018;3.0;;1.2;2.9;2.2;1.1;;1.2;1.5
+185;Leeftijd: 45 tot 65 jaar;Betrouwbaarheidsmarge;Bonaire;2021;2.9;;;2.8;1.9;;;;2.2
+186;Leeftijd: 45 tot 65 jaar;Betrouwbaarheidsmarge;Sint-Eustatius;2013;;;;;;;;;
+187;Leeftijd: 45 tot 65 jaar;Betrouwbaarheidsmarge;Sint-Eustatius;2017/2018;3.6;;;3.4;;;;;
+188;Leeftijd: 45 tot 65 jaar;Betrouwbaarheidsmarge;Sint-Eustatius;2021;;;;;;;;;
+189;Leeftijd: 45 tot 65 jaar;Betrouwbaarheidsmarge;Saba;2013;13.1;;;11.2;;;;;
+190;Leeftijd: 45 tot 65 jaar;Betrouwbaarheidsmarge;Saba;2017/2018;6.6;5.8;;;;;;;
+191;Leeftijd: 45 tot 65 jaar;Betrouwbaarheidsmarge;Saba;2021;7.4;4.6;6.0;;;;;;
+192;Leeftijd: 65 jaar of ouder;Perrcentage;Caribisch Nederland;2013;12.9;;3.6;10.9;5.4;;;;4.7
+193;Leeftijd: 65 jaar of ouder;Perrcentage;Caribisch Nederland;2017/2018;5.8;;;3.7;1.9;;;;1.8
+194;Leeftijd: 65 jaar of ouder;Perrcentage;Caribisch Nederland;2021;5.2;;2.5;4.5;1.5;2.3;1.8;;1.5
+195;Leeftijd: 65 jaar of ouder;Perrcentage;Bonaire;2013;12.0;;4.1;10.8;5.9;;;;4.5
+196;Leeftijd: 65 jaar of ouder;Perrcentage;Bonaire;2017/2018;6.2;;;4.4;;;;;
+197;Leeftijd: 65 jaar of ouder;Perrcentage;Bonaire;2021;4.1;;;4.1;;;3.5;;
+198;Leeftijd: 65 jaar of ouder;Perrcentage;Sint-Eustatius;2013;;;;;;;;;
+199;Leeftijd: 65 jaar of ouder;Perrcentage;Sint-Eustatius;2017/2018;;;;;;;;;
+200;Leeftijd: 65 jaar of ouder;Perrcentage;Sint-Eustatius;2021;6.5;;;5.4;;;;;
+201;Leeftijd: 65 jaar of ouder;Perrcentage;Saba;2013;;;;;;;;;
+202;Leeftijd: 65 jaar of ouder;Perrcentage;Saba;2017/2018;11.0;;;;;;;;
+203;Leeftijd: 65 jaar of ouder;Perrcentage;Saba;2021;5.9;;;;;;;;
+204;Leeftijd: 65 jaar of ouder;Betrouwbaarheidsmarge;Caribisch Nederland;2013;5.7;;3.2;5.3;3.8;;;;3.6
+205;Leeftijd: 65 jaar of ouder;Betrouwbaarheidsmarge;Caribisch Nederland;2017/2018;3.0;;;2.4;1.7;;;;1.7
+206;Leeftijd: 65 jaar of ouder;Betrouwbaarheidsmarge;Caribisch Nederland;2021;2.8;;1.9;2.6;1.5;1.8;1.6;;1.5
+207;Leeftijd: 65 jaar of ouder;Betrouwbaarheidsmarge;Bonaire;2013;6.4;;3.9;6.1;4.6;;;;4.1
+208;Leeftijd: 65 jaar of ouder;Betrouwbaarheidsmarge;Bonaire;2017/2018;3.9;;;3.4;;;;;
+209;Leeftijd: 65 jaar of ouder;Betrouwbaarheidsmarge;Bonaire;2021;3.5;;;3.5;;;3.3;;
+210;Leeftijd: 65 jaar of ouder;Betrouwbaarheidsmarge;Sint-Eustatius;2013;;;;;;;;;
+211;Leeftijd: 65 jaar of ouder;Betrouwbaarheidsmarge;Sint-Eustatius;2017/2018;;;;;;;;;
+212;Leeftijd: 65 jaar of ouder;Betrouwbaarheidsmarge;Sint-Eustatius;2021;5.6;;;5.1;;;;;
+213;Leeftijd: 65 jaar of ouder;Betrouwbaarheidsmarge;Saba;2013;;;;;;;;;
+214;Leeftijd: 65 jaar of ouder;Betrouwbaarheidsmarge;Saba;2017/2018;10.5;;;;;;;;
+215;Leeftijd: 65 jaar of ouder;Betrouwbaarheidsmarge;Saba;2021;6.6;;;;;;;;
+216;Onderwijsniveau: laag onderwijs;Perrcentage;Caribisch Nederland;2013;14.3;2.9;2.9;10.7;3.9;2.1;0.7;3.4;4.5
+217;Onderwijsniveau: laag onderwijs;Perrcentage;Caribisch Nederland;2017/2018;7.2;1.3;1.2;5.8;2.9;0.5;;1.2;2.0
+218;Onderwijsniveau: laag onderwijs;Perrcentage;Caribisch Nederland;2021;6.8;0.7;2.4;4.5;2.0;1.0;1.0;;1.5
+219;Onderwijsniveau: laag onderwijs;Perrcentage;Bonaire;2013;13.9;2.2;2.2;11.7;4.2;2.8;1.0;3.3;5.0
+220;Onderwijsniveau: laag onderwijs;Perrcentage;Bonaire;2017/2018;8.3;;0.9;7.5;4.3;0.8;;1.6;2.4
+221;Onderwijsniveau: laag onderwijs;Perrcentage;Bonaire;2021;7.9;;1.9;5.9;2.7;1.0;1.0;;2.4
+222;Onderwijsniveau: laag onderwijs;Perrcentage;Sint-Eustatius;2013;12.5;;5.4;6.4;;;;;
+223;Onderwijsniveau: laag onderwijs;Perrcentage;Sint-Eustatius;2017/2018;3.2;;;2.5;;;;;
+224;Onderwijsniveau: laag onderwijs;Perrcentage;Sint-Eustatius;2021;3.4;;;3.0;1.7;1.4;;;
+225;Onderwijsniveau: laag onderwijs;Perrcentage;Saba;2013;22.4;9.4;;11.5;;;;6.4;
+226;Onderwijsniveau: laag onderwijs;Perrcentage;Saba;2017/2018;11.5;5.7;5.0;4.6;;;;;
+227;Onderwijsniveau: laag onderwijs;Perrcentage;Saba;2021;11.4;;7.9;;;;;;
+228;Onderwijsniveau: laag onderwijs;Betrouwbaarheidsmarge;Caribisch Nederland;2013;2.8;1.4;1.4;2.5;1.6;1.2;0.7;1.5;1.7
+229;Onderwijsniveau: laag onderwijs;Betrouwbaarheidsmarge;Caribisch Nederland;2017/2018;1.7;0.7;0.7;1.5;1.1;0.4;;0.7;0.9
+230;Onderwijsniveau: laag onderwijs;Betrouwbaarheidsmarge;Caribisch Nederland;2021;1.8;0.6;1.1;1.5;1.0;0.7;0.7;;0.9
+231;Onderwijsniveau: laag onderwijs;Betrouwbaarheidsmarge;Bonaire;2013;3.3;1.4;1.4;3.0;1.9;1.6;0.9;1.7;2.1
+232;Onderwijsniveau: laag onderwijs;Betrouwbaarheidsmarge;Bonaire;2017/2018;2.3;;0.8;2.2;1.7;0.7;;1.1;1.3
+233;Onderwijsniveau: laag onderwijs;Betrouwbaarheidsmarge;Bonaire;2021;2.7;;1.4;2.3;1.6;1.0;1.0;;1.5
+234;Onderwijsniveau: laag onderwijs;Betrouwbaarheidsmarge;Sint-Eustatius;2013;7.2;;4.9;5.3;;;;;
+235;Onderwijsniveau: laag onderwijs;Betrouwbaarheidsmarge;Sint-Eustatius;2017/2018;2.2;;;1.9;;;;;
+236;Onderwijsniveau: laag onderwijs;Betrouwbaarheidsmarge;Sint-Eustatius;2021;2.2;;;2.1;1.6;1.4;;;
+237;Onderwijsniveau: laag onderwijs;Betrouwbaarheidsmarge;Saba;2013;10.2;7.1;;7.8;;;;6.0;
+238;Onderwijsniveau: laag onderwijs;Betrouwbaarheidsmarge;Saba;2017/2018;6.1;4.4;4.2;4.0;;;;;
+239;Onderwijsniveau: laag onderwijs;Betrouwbaarheidsmarge;Saba;2021;6.3;;5.3;;;;;;
+240;Onderwijsniveau: middelbaar/hoog;Perrcentage;Caribisch Nederland;2013;20.1;3.0;6.5;16.6;6.5;1.4;1.8;3.4;8.9
+241;Onderwijsniveau: middelbaar/hoog;Perrcentage;Caribisch Nederland;2017/2018;10.9;1.9;2.1;8.1;2.8;0.6;0.8;2.1;3.5
+242;Onderwijsniveau: middelbaar/hoog;Perrcentage;Caribisch Nederland;2021;8.8;1.8;3.6;5.0;1.4;0.6;0.5;0.6;3.3
+243;Onderwijsniveau: middelbaar/hoog;Perrcentage;Bonaire;2013;20.5;2.4;6.3;18.4;7.6;1.8;2.5;3.7;9.9
+244;Onderwijsniveau: middelbaar/hoog;Perrcentage;Bonaire;2017/2018;8.3;;0.9;7.5;4.3;0.8;;1.6;2.4
+245;Onderwijsniveau: middelbaar/hoog;Perrcentage;Bonaire;2021;7.4;;2.0;5.6;;;;;3.7
+246;Onderwijsniveau: middelbaar/hoog;Perrcentage;Sint-Eustatius;2013;;;;;;;;;
+247;Onderwijsniveau: middelbaar/hoog;Perrcentage;Sint-Eustatius;2017/2018;8.3;;;5.0;;;;;3.7
+248;Onderwijsniveau: middelbaar/hoog;Perrcentage;Sint-Eustatius;2021;6.1;;2.5;5.5;4.5;;;;2.8
+249;Onderwijsniveau: middelbaar/hoog;Perrcentage;Saba;2013;16.4;;;13.6;6.9;;;;5.4
+250;Onderwijsniveau: middelbaar/hoog;Perrcentage;Saba;2017/2018;9.6;;;5.6;;;;3.5;
+251;Onderwijsniveau: middelbaar/hoog;Perrcentage;Saba;2021;14.2;5.0;8.0;3.3;;;;;2.8
+252;Onderwijsniveau: middelbaar/hoog;Betrouwbaarheidsmarge;Caribisch Nederland;2013;3.6;1.5;2.2;3.4;2.3;1.1;1.2;1.6;2.6
+253;Onderwijsniveau: middelbaar/hoog;Betrouwbaarheidsmarge;Caribisch Nederland;2017/2018;2.3;1.0;1.0;2.0;1.2;0.5;0.6;1.1;1.3
+254;Onderwijsniveau: middelbaar/hoog;Betrouwbaarheidsmarge;Caribisch Nederland;2021;2.1;1.0;1.4;1.6;0.9;0.5;0.5;0.5;1.3
+255;Onderwijsniveau: middelbaar/hoog;Betrouwbaarheidsmarge;Bonaire;2013;4.3;1.6;2.6;4.1;2.8;1.4;1.6;2.0;3.2
+256;Onderwijsniveau: middelbaar/hoog;Betrouwbaarheidsmarge;Bonaire;2017/2018;2.3;;0.8;2.2;1.7;0.7;;1.1;1.3
+257;Onderwijsniveau: middelbaar/hoog;Betrouwbaarheidsmarge;Bonaire;2021;2.7;;1.4;2.4;;;;;1.9
+258;Onderwijsniveau: middelbaar/hoog;Betrouwbaarheidsmarge;Sint-Eustatius;2013;;;;;;;;;
+259;Onderwijsniveau: middelbaar/hoog;Betrouwbaarheidsmarge;Sint-Eustatius;2017/2018;4.8;;;3.8;;;;;3.3
+260;Onderwijsniveau: middelbaar/hoog;Betrouwbaarheidsmarge;Sint-Eustatius;2021;3.7;;2.4;3.5;3.2;;;;2.5
+261;Onderwijsniveau: middelbaar/hoog;Betrouwbaarheidsmarge;Saba;2013;8.0;;;7.4;5.5;;;;4.9
+262;Onderwijsniveau: middelbaar/hoog;Betrouwbaarheidsmarge;Saba;2017/2018;4.8;;;3.7;;;;3.0;
+263;Onderwijsniveau: middelbaar/hoog;Betrouwbaarheidsmarge;Saba;2021;5.1;3.2;4.0;2.6;;;;;2.4
+264;Onderwijsniveau: middelbaar onderwijs;Perrcentage;Caribisch Nederland;2013;20.1;3.9;7.0;16.5;7.1;;2.4;3.6;8.6
+265;Onderwijsniveau: middelbaar onderwijs;Perrcentage;Caribisch Nederland;2017/2018;11.8;2.0;2.2;9.2;3.0;;1.3;2.0;4.2
+266;Onderwijsniveau: middelbaar onderwijs;Perrcentage;Caribisch Nederland;2021;9.3;2.1;3.9;4.9;1.5;;;;3.0
+267;Onderwijsniveau: middelbaar onderwijs;Perrcentage;Bonaire;2013;19.5;3.0;6.8;17.7;8.3;;3.0;3.6;9.2
+268;Onderwijsniveau: middelbaar onderwijs;Perrcentage;Bonaire;2017/2018;13.3;2.2;1.8;11.5;3.7;1.5;;2.3;5.0
+269;Onderwijsniveau: middelbaar onderwijs;Perrcentage;Bonaire;2021;9.1;;2.2;6.3;;;;;4.5
+270;Onderwijsniveau: middelbaar onderwijs;Perrcentage;Sint-Eustatius;2013;;;;;;;;;
+271;Onderwijsniveau: middelbaar onderwijs;Perrcentage;Sint-Eustatius;2017/2018;8.1;;;5.3;;;;;
+272;Onderwijsniveau: middelbaar onderwijs;Perrcentage;Sint-Eustatius;2021;5.9;;;5.1;4.3;;;;
+273;Onderwijsniveau: middelbaar onderwijs;Perrcentage;Saba;2013;;;;;;;;;
+274;Onderwijsniveau: middelbaar onderwijs;Perrcentage;Saba;2017/2018;10.1;;;;;;;;
+275;Onderwijsniveau: middelbaar onderwijs;Perrcentage;Saba;2021;13.5;5.1;8.5;;;;;;
+276;Onderwijsniveau: middelbaar onderwijs;Betrouwbaarheidsmarge;Caribisch Nederland;2013;4.6;2.2;2.9;4.3;3.0;;1.8;2.1;3.2
+277;Onderwijsniveau: middelbaar onderwijs;Betrouwbaarheidsmarge;Caribisch Nederland;2017/2018;3.1;1.3;1.4;2.8;1.6;;1.1;1.4;1.9
+278;Onderwijsniveau: middelbaar onderwijs;Betrouwbaarheidsmarge;Caribisch Nederland;2021;2.7;1.3;1.8;2.0;1.1;;;;1.6
+279;Onderwijsniveau: middelbaar onderwijs;Betrouwbaarheidsmarge;Bonaire;2013;5.1;2.2;3.3;4.9;3.5;;2.2;2.4;3.7
+280;Onderwijsniveau: middelbaar onderwijs;Betrouwbaarheidsmarge;Bonaire;2017/2018;4.0;1.7;1.6;3.8;2.2;1.4;;1.8;2.6
+281;Onderwijsniveau: middelbaar onderwijs;Betrouwbaarheidsmarge;Bonaire;2021;3.8;;1.9;3.2;;;;;2.7
+282;Onderwijsniveau: middelbaar onderwijs;Betrouwbaarheidsmarge;Sint-Eustatius;2013;;;;;;;;;
+283;Onderwijsniveau: middelbaar onderwijs;Betrouwbaarheidsmarge;Sint-Eustatius;2017/2018;6.1;;;5.0;;;;;
+284;Onderwijsniveau: middelbaar onderwijs;Betrouwbaarheidsmarge;Sint-Eustatius;2021;4.3;;;4.0;3.7;;;;
+285;Onderwijsniveau: middelbaar onderwijs;Betrouwbaarheidsmarge;Saba;2013;;;;;;;;;
+286;Onderwijsniveau: middelbaar onderwijs;Betrouwbaarheidsmarge;Saba;2017/2018;7.5;;;;;;;;
+287;Onderwijsniveau: middelbaar onderwijs;Betrouwbaarheidsmarge;Saba;2021;6.6;4.3;5.4;;;;;;
+288;Onderwijsniveau: hoog onderwijs;Perrcentage;Caribisch Nederland;2013;20.1;;5.6;16.6;5.6;2.1;;3.2;9.5
+289;Onderwijsniveau: hoog onderwijs;Perrcentage;Caribisch Nederland;2017/2018;9.6;1.7;2.0;6.5;2.5;;;2.3;2.5
+290;Onderwijsniveau: hoog onderwijs;Perrcentage;Caribisch Nederland;2021;7.9;;3.1;5.3;;;;;3.7
+291;Onderwijsniveau: hoog onderwijs;Perrcentage;Bonaire;2013;22.5;;5.1;19.8;5.9;3.3;;4.0;11.3
+292;Onderwijsniveau: hoog onderwijs;Perrcentage;Bonaire;2017/2018;10.0;;2.7;6.9;3.7;;;;2.6
+293;Onderwijsniveau: hoog onderwijs;Perrcentage;Bonaire;2021;4.7;;;4.7;;;;;
+294;Onderwijsniveau: hoog onderwijs;Perrcentage;Sint-Eustatius;2013;;;;;;;;;
+295;Onderwijsniveau: hoog onderwijs;Perrcentage;Sint-Eustatius;2017/2018;8.7;;;;;;;;
+296;Onderwijsniveau: hoog onderwijs;Perrcentage;Sint-Eustatius;2021;;;;;;;;;
+297;Onderwijsniveau: hoog onderwijs;Perrcentage;Saba;2013;15.0;;;11.8;8.1;;;;
+298;Onderwijsniveau: hoog onderwijs;Perrcentage;Saba;2017/2018;9.1;;;7.0;;;;;
+299;Onderwijsniveau: hoog onderwijs;Perrcentage;Saba;2021;15.1;;7.2;5.7;;;;;5.7
+300;Onderwijsniveau: hoog onderwijs;Betrouwbaarheidsmarge;Caribisch Nederland;2013;5.9;;3.4;5.5;3.4;2.1;;2.6;4.3
+301;Onderwijsniveau: hoog onderwijs;Betrouwbaarheidsmarge;Caribisch Nederland;2017/2018;3.3;1.5;1.6;2.8;1.7;;;1.7;1.7
+302;Onderwijsniveau: hoog onderwijs;Betrouwbaarheidsmarge;Caribisch Nederland;2021;3.3;;2.1;2.7;;;;;2.3
+303;Onderwijsniveau: hoog onderwijs;Betrouwbaarheidsmarge;Bonaire;2013;7.8;;4.1;7.4;4.4;3.3;;3.6;5.9
+304;Onderwijsniveau: hoog onderwijs;Betrouwbaarheidsmarge;Bonaire;2017/2018;4.5;;2.4;3.8;2.8;;;;2.4
+305;Onderwijsniveau: hoog onderwijs;Betrouwbaarheidsmarge;Bonaire;2021;3.5;;;3.5;;;;;
+306;Onderwijsniveau: hoog onderwijs;Betrouwbaarheidsmarge;Sint-Eustatius;2013;;;;;;;;;
+307;Onderwijsniveau: hoog onderwijs;Betrouwbaarheidsmarge;Sint-Eustatius;2017/2018;8.1;;;;;;;;
+308;Onderwijsniveau: hoog onderwijs;Betrouwbaarheidsmarge;Sint-Eustatius;2021;;;;;;;;;
+309;Onderwijsniveau: hoog onderwijs;Betrouwbaarheidsmarge;Saba;2013;9.2;;;8.3;7.0;;;;
+310;Onderwijsniveau: hoog onderwijs;Betrouwbaarheidsmarge;Saba;2017/2018;6.2;;;5.5;;;;;
+311;Onderwijsniveau: hoog onderwijs;Betrouwbaarheidsmarge;Saba;2021;8.3;;6.0;5.3;;;;;5.3

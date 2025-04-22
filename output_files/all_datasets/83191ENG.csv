@@ -1,0 +1,541 @@
+﻿ID;Nationality;CaribbeanNetherlands;Periods;InboundTourismByAir_1
+0;Dutch (Total);Bonaire;2012;62
+1;Dutch (Total);Bonaire;2013;59
+2;Dutch (Total);Bonaire;2014;56
+3;Dutch (Total);Bonaire;2015;55
+4;Dutch (Total);Bonaire;2016;58
+5;Dutch (Total);Bonaire;2017;57
+6;Dutch (Total);Bonaire;2018;56
+7;Dutch (Total);Bonaire;2019;57
+8;Dutch (Total);Bonaire;2020;69
+9;Dutch (Total);Bonaire;2021;71
+10;Dutch (Total);Bonaire;2022;64
+11;Dutch (Total);Bonaire;2023;64
+12;Dutch (Total);St. Eustatius;2012;56
+13;Dutch (Total);St. Eustatius;2013;56
+14;Dutch (Total);St. Eustatius;2014;53
+15;Dutch (Total);St. Eustatius;2015;52
+16;Dutch (Total);St. Eustatius;2016;50
+17;Dutch (Total);St. Eustatius;2017;48
+18;Dutch (Total);St. Eustatius;2018;51
+19;Dutch (Total);St. Eustatius;2019;53
+20;Dutch (Total);St. Eustatius;2020;54
+21;Dutch (Total);St. Eustatius;2021;63
+22;Dutch (Total);St. Eustatius;2022;60
+23;Dutch (Total);St. Eustatius;2023;58
+24;Dutch (Total);Saba;2012;48
+25;Dutch (Total);Saba;2013;43
+26;Dutch (Total);Saba;2014;40
+27;Dutch (Total);Saba;2015;41
+28;Dutch (Total);Saba;2016;41
+29;Dutch (Total);Saba;2017;45
+30;Dutch (Total);Saba;2018;44
+31;Dutch (Total);Saba;2019;46
+32;Dutch (Total);Saba;2020;40
+33;Dutch (Total);Saba;2021;47
+34;Dutch (Total);Saba;2022;48
+35;Dutch (Total);Saba;2023;48
+36;Dutch (Europe);Bonaire;2012;29
+37;Dutch (Europe);Bonaire;2013;29
+38;Dutch (Europe);Bonaire;2014;30
+39;Dutch (Europe);Bonaire;2015;29
+40;Dutch (Europe);Bonaire;2016;32
+41;Dutch (Europe);Bonaire;2017;34
+42;Dutch (Europe);Bonaire;2018;35
+43;Dutch (Europe);Bonaire;2019;35
+44;Dutch (Europe);Bonaire;2020;45
+45;Dutch (Europe);Bonaire;2021;55
+46;Dutch (Europe);Bonaire;2022;54
+47;Dutch (Europe);Bonaire;2023;47
+48;Dutch (Europe);St. Eustatius;2012;21
+49;Dutch (Europe);St. Eustatius;2013;21
+50;Dutch (Europe);St. Eustatius;2014;20
+51;Dutch (Europe);St. Eustatius;2015;20
+52;Dutch (Europe);St. Eustatius;2016;20
+53;Dutch (Europe);St. Eustatius;2017;18
+54;Dutch (Europe);St. Eustatius;2018;20
+55;Dutch (Europe);St. Eustatius;2019;21
+56;Dutch (Europe);St. Eustatius;2020;22
+57;Dutch (Europe);St. Eustatius;2021;32
+58;Dutch (Europe);St. Eustatius;2022;35
+59;Dutch (Europe);St. Eustatius;2023;28
+60;Dutch (Europe);Saba;2012;20
+61;Dutch (Europe);Saba;2013;20
+62;Dutch (Europe);Saba;2014;17
+63;Dutch (Europe);Saba;2015;18
+64;Dutch (Europe);Saba;2016;18
+65;Dutch (Europe);Saba;2017;16
+66;Dutch (Europe);Saba;2018;16
+67;Dutch (Europe);Saba;2019;17
+68;Dutch (Europe);Saba;2020;19
+69;Dutch (Europe);Saba;2021;20
+70;Dutch (Europe);Saba;2022;28
+71;Dutch (Europe);Saba;2023;26
+72;Dutch (Aruba, Curaçao, St. Maarten);Bonaire;2012;32
+73;Dutch (Aruba, Curaçao, St. Maarten);Bonaire;2013;30
+74;Dutch (Aruba, Curaçao, St. Maarten);Bonaire;2014;26
+75;Dutch (Aruba, Curaçao, St. Maarten);Bonaire;2015;26
+76;Dutch (Aruba, Curaçao, St. Maarten);Bonaire;2016;26
+77;Dutch (Aruba, Curaçao, St. Maarten);Bonaire;2017;23
+78;Dutch (Aruba, Curaçao, St. Maarten);Bonaire;2018;21
+79;Dutch (Aruba, Curaçao, St. Maarten);Bonaire;2019;22
+80;Dutch (Aruba, Curaçao, St. Maarten);Bonaire;2020;24
+81;Dutch (Aruba, Curaçao, St. Maarten);Bonaire;2021;15
+82;Dutch (Aruba, Curaçao, St. Maarten);Bonaire;2022;10
+83;Dutch (Aruba, Curaçao, St. Maarten);Bonaire;2023;16
+84;Dutch (Aruba, Curaçao, St. Maarten);St. Eustatius;2012;35
+85;Dutch (Aruba, Curaçao, St. Maarten);St. Eustatius;2013;35
+86;Dutch (Aruba, Curaçao, St. Maarten);St. Eustatius;2014;33
+87;Dutch (Aruba, Curaçao, St. Maarten);St. Eustatius;2015;32
+88;Dutch (Aruba, Curaçao, St. Maarten);St. Eustatius;2016;30
+89;Dutch (Aruba, Curaçao, St. Maarten);St. Eustatius;2017;30
+90;Dutch (Aruba, Curaçao, St. Maarten);St. Eustatius;2018;31
+91;Dutch (Aruba, Curaçao, St. Maarten);St. Eustatius;2019;32
+92;Dutch (Aruba, Curaçao, St. Maarten);St. Eustatius;2020;32
+93;Dutch (Aruba, Curaçao, St. Maarten);St. Eustatius;2021;30
+94;Dutch (Aruba, Curaçao, St. Maarten);St. Eustatius;2022;24
+95;Dutch (Aruba, Curaçao, St. Maarten);St. Eustatius;2023;30
+96;Dutch (Aruba, Curaçao, St. Maarten);Saba;2012;29
+97;Dutch (Aruba, Curaçao, St. Maarten);Saba;2013;23
+98;Dutch (Aruba, Curaçao, St. Maarten);Saba;2014;23
+99;Dutch (Aruba, Curaçao, St. Maarten);Saba;2015;23
+100;Dutch (Aruba, Curaçao, St. Maarten);Saba;2016;23
+101;Dutch (Aruba, Curaçao, St. Maarten);Saba;2017;29
+102;Dutch (Aruba, Curaçao, St. Maarten);Saba;2018;28
+103;Dutch (Aruba, Curaçao, St. Maarten);Saba;2019;29
+104;Dutch (Aruba, Curaçao, St. Maarten);Saba;2020;21
+105;Dutch (Aruba, Curaçao, St. Maarten);Saba;2021;26
+106;Dutch (Aruba, Curaçao, St. Maarten);Saba;2022;20
+107;Dutch (Aruba, Curaçao, St. Maarten);Saba;2023;23
+108;American;Bonaire;2012;20
+109;American;Bonaire;2013;21
+110;American;Bonaire;2014;22
+111;American;Bonaire;2015;22
+112;American;Bonaire;2016;21
+113;American;Bonaire;2017;22
+114;American;Bonaire;2018;23
+115;American;Bonaire;2019;25
+116;American;Bonaire;2020;13
+117;American;Bonaire;2021;16
+118;American;Bonaire;2022;23
+119;American;Bonaire;2023;22
+120;American;St. Eustatius;2012;11
+121;American;St. Eustatius;2013;13
+122;American;St. Eustatius;2014;12
+123;American;St. Eustatius;2015;12
+124;American;St. Eustatius;2016;13
+125;American;St. Eustatius;2017;14
+126;American;St. Eustatius;2018;13
+127;American;St. Eustatius;2019;11
+128;American;St. Eustatius;2020;10
+129;American;St. Eustatius;2021;11
+130;American;St. Eustatius;2022;14
+131;American;St. Eustatius;2023;12
+132;American;Saba;2012;23
+133;American;Saba;2013;26
+134;American;Saba;2014;28
+135;American;Saba;2015;27
+136;American;Saba;2016;29
+137;American;Saba;2017;26
+138;American;Saba;2018;24
+139;American;Saba;2019;25
+140;American;Saba;2020;27
+141;American;Saba;2021;29
+142;American;Saba;2022;26
+143;American;Saba;2023;25
+144;Brazilian;Bonaire;2012;1
+145;Brazilian;Bonaire;2013;1
+146;Brazilian;Bonaire;2014;2
+147;Brazilian;Bonaire;2015;1
+148;Brazilian;Bonaire;2016;1
+149;Brazilian;Bonaire;2017;1
+150;Brazilian;Bonaire;2018;1
+151;Brazilian;Bonaire;2019;1
+152;Brazilian;Bonaire;2020;0
+153;Brazilian;Bonaire;2021;0
+154;Brazilian;Bonaire;2022;0
+155;Brazilian;Bonaire;2023;1
+156;Brazilian;St. Eustatius;2012;0
+157;Brazilian;St. Eustatius;2013;0
+158;Brazilian;St. Eustatius;2014;0
+159;Brazilian;St. Eustatius;2015;0
+160;Brazilian;St. Eustatius;2016;0
+161;Brazilian;St. Eustatius;2017;0
+162;Brazilian;St. Eustatius;2018;0
+163;Brazilian;St. Eustatius;2019;1
+164;Brazilian;St. Eustatius;2020;0
+165;Brazilian;St. Eustatius;2021;0
+166;Brazilian;St. Eustatius;2022;0
+167;Brazilian;St. Eustatius;2023;0
+168;Brazilian;Saba;2012;0
+169;Brazilian;Saba;2013;0
+170;Brazilian;Saba;2014;0
+171;Brazilian;Saba;2015;0
+172;Brazilian;Saba;2016;0
+173;Brazilian;Saba;2017;0
+174;Brazilian;Saba;2018;0
+175;Brazilian;Saba;2019;0
+176;Brazilian;Saba;2020;1
+177;Brazilian;Saba;2021;0
+178;Brazilian;Saba;2022;0
+179;Brazilian;Saba;2023;0
+180;British;Bonaire;2012;1
+181;British;Bonaire;2013;1
+182;British;Bonaire;2014;1
+183;British;Bonaire;2015;1
+184;British;Bonaire;2016;1
+185;British;Bonaire;2017;1
+186;British;Bonaire;2018;1
+187;British;Bonaire;2019;1
+188;British;Bonaire;2020;1
+189;British;Bonaire;2021;1
+190;British;Bonaire;2022;1
+191;British;Bonaire;2023;1
+192;British;St. Eustatius;2012;2
+193;British;St. Eustatius;2013;2
+194;British;St. Eustatius;2014;2
+195;British;St. Eustatius;2015;2
+196;British;St. Eustatius;2016;2
+197;British;St. Eustatius;2017;2
+198;British;St. Eustatius;2018;2
+199;British;St. Eustatius;2019;3
+200;British;St. Eustatius;2020;2
+201;British;St. Eustatius;2021;1
+202;British;St. Eustatius;2022;2
+203;British;St. Eustatius;2023;2
+204;British;Saba;2012;1
+205;British;Saba;2013;2
+206;British;Saba;2014;2
+207;British;Saba;2015;2
+208;British;Saba;2016;2
+209;British;Saba;2017;3
+210;British;Saba;2018;2
+211;British;Saba;2019;2
+212;British;Saba;2020;2
+213;British;Saba;2021;1
+214;British;Saba;2022;1
+215;British;Saba;2023;2
+216;Canadian;Bonaire;2012;2
+217;Canadian;Bonaire;2013;2
+218;Canadian;Bonaire;2014;3
+219;Canadian;Bonaire;2015;2
+220;Canadian;Bonaire;2016;2
+221;Canadian;Bonaire;2017;2
+222;Canadian;Bonaire;2018;3
+223;Canadian;Bonaire;2019;3
+224;Canadian;Bonaire;2020;2
+225;Canadian;Bonaire;2021;1
+226;Canadian;Bonaire;2022;1
+227;Canadian;Bonaire;2023;2
+228;Canadian;St. Eustatius;2012;2
+229;Canadian;St. Eustatius;2013;2
+230;Canadian;St. Eustatius;2014;1
+231;Canadian;St. Eustatius;2015;1
+232;Canadian;St. Eustatius;2016;1
+233;Canadian;St. Eustatius;2017;1
+234;Canadian;St. Eustatius;2018;1
+235;Canadian;St. Eustatius;2019;1
+236;Canadian;St. Eustatius;2020;2
+237;Canadian;St. Eustatius;2021;1
+238;Canadian;St. Eustatius;2022;2
+239;Canadian;St. Eustatius;2023;2
+240;Canadian;Saba;2012;9
+241;Canadian;Saba;2013;10
+242;Canadian;Saba;2014;10
+243;Canadian;Saba;2015;8
+244;Canadian;Saba;2016;8
+245;Canadian;Saba;2017;5
+246;Canadian;Saba;2018;6
+247;Canadian;Saba;2019;5
+248;Canadian;Saba;2020;7
+249;Canadian;Saba;2021;4
+250;Canadian;Saba;2022;6
+251;Canadian;Saba;2023;5
+252;Colombian;Bonaire;2012;1
+253;Colombian;Bonaire;2013;1
+254;Colombian;Bonaire;2014;1
+255;Colombian;Bonaire;2015;1
+256;Colombian;Bonaire;2016;2
+257;Colombian;Bonaire;2017;2
+258;Colombian;Bonaire;2018;2
+259;Colombian;Bonaire;2019;1
+260;Colombian;Bonaire;2020;1
+261;Colombian;Bonaire;2021;1
+262;Colombian;Bonaire;2022;1
+263;Colombian;Bonaire;2023;1
+264;Colombian;St. Eustatius;2012;0
+265;Colombian;St. Eustatius;2013;0
+266;Colombian;St. Eustatius;2014;0
+267;Colombian;St. Eustatius;2015;0
+268;Colombian;St. Eustatius;2016;0
+269;Colombian;St. Eustatius;2017;1
+270;Colombian;St. Eustatius;2018;1
+271;Colombian;St. Eustatius;2019;1
+272;Colombian;St. Eustatius;2020;1
+273;Colombian;St. Eustatius;2021;1
+274;Colombian;St. Eustatius;2022;1
+275;Colombian;St. Eustatius;2023;1
+276;Colombian;Saba;2012;1
+277;Colombian;Saba;2013;1
+278;Colombian;Saba;2014;1
+279;Colombian;Saba;2015;2
+280;Colombian;Saba;2016;2
+281;Colombian;Saba;2017;3
+282;Colombian;Saba;2018;2
+283;Colombian;Saba;2019;2
+284;Colombian;Saba;2020;3
+285;Colombian;Saba;2021;4
+286;Colombian;Saba;2022;2
+287;Colombian;Saba;2023;1
+288;Dominican;Bonaire;2012;1
+289;Dominican;Bonaire;2013;1
+290;Dominican;Bonaire;2014;1
+291;Dominican;Bonaire;2015;1
+292;Dominican;Bonaire;2016;1
+293;Dominican;Bonaire;2017;1
+294;Dominican;Bonaire;2018;1
+295;Dominican;Bonaire;2019;1
+296;Dominican;Bonaire;2020;2
+297;Dominican;Bonaire;2021;1
+298;Dominican;Bonaire;2022;0
+299;Dominican;Bonaire;2023;0
+300;Dominican;St. Eustatius;2012;4
+301;Dominican;St. Eustatius;2013;4
+302;Dominican;St. Eustatius;2014;3
+303;Dominican;St. Eustatius;2015;4
+304;Dominican;St. Eustatius;2016;5
+305;Dominican;St. Eustatius;2017;6
+306;Dominican;St. Eustatius;2018;6
+307;Dominican;St. Eustatius;2019;6
+308;Dominican;St. Eustatius;2020;6
+309;Dominican;St. Eustatius;2021;6
+310;Dominican;St. Eustatius;2022;2
+311;Dominican;St. Eustatius;2023;1
+312;Dominican;Saba;2012;2
+313;Dominican;Saba;2013;2
+314;Dominican;Saba;2014;3
+315;Dominican;Saba;2015;2
+316;Dominican;Saba;2016;2
+317;Dominican;Saba;2017;2
+318;Dominican;Saba;2018;3
+319;Dominican;Saba;2019;2
+320;Dominican;Saba;2020;3
+321;Dominican;Saba;2021;3
+322;Dominican;Saba;2022;1
+323;Dominican;Saba;2023;1
+324;German;Bonaire;2012;2
+325;German;Bonaire;2013;2
+326;German;Bonaire;2014;3
+327;German;Bonaire;2015;3
+328;German;Bonaire;2016;3
+329;German;Bonaire;2017;3
+330;German;Bonaire;2018;3
+331;German;Bonaire;2019;3
+332;German;Bonaire;2020;3
+333;German;Bonaire;2021;2
+334;German;Bonaire;2022;3
+335;German;Bonaire;2023;2
+336;German;St. Eustatius;2012;1
+337;German;St. Eustatius;2013;1
+338;German;St. Eustatius;2014;1
+339;German;St. Eustatius;2015;1
+340;German;St. Eustatius;2016;1
+341;German;St. Eustatius;2017;1
+342;German;St. Eustatius;2018;1
+343;German;St. Eustatius;2019;1
+344;German;St. Eustatius;2020;1
+345;German;St. Eustatius;2021;1
+346;German;St. Eustatius;2022;2
+347;German;St. Eustatius;2023;1
+348;German;Saba;2012;1
+349;German;Saba;2013;2
+350;German;Saba;2014;2
+351;German;Saba;2015;2
+352;German;Saba;2016;2
+353;German;Saba;2017;1
+354;German;Saba;2018;1
+355;German;Saba;2019;1
+356;German;Saba;2020;1
+357;German;Saba;2021;1
+358;German;Saba;2022;1
+359;German;Saba;2023;1
+360;Filipino;Bonaire;2012;0
+361;Filipino;Bonaire;2013;0
+362;Filipino;Bonaire;2014;0
+363;Filipino;Bonaire;2015;0
+364;Filipino;Bonaire;2016;0
+365;Filipino;Bonaire;2017;0
+366;Filipino;Bonaire;2018;0
+367;Filipino;Bonaire;2019;0
+368;Filipino;Bonaire;2020;0
+369;Filipino;Bonaire;2021;0
+370;Filipino;Bonaire;2022;0
+371;Filipino;Bonaire;2023;0
+372;Filipino;St. Eustatius;2012;2
+373;Filipino;St. Eustatius;2013;1
+374;Filipino;St. Eustatius;2014;2
+375;Filipino;St. Eustatius;2015;1
+376;Filipino;St. Eustatius;2016;1
+377;Filipino;St. Eustatius;2017;1
+378;Filipino;St. Eustatius;2018;1
+379;Filipino;St. Eustatius;2019;1
+380;Filipino;St. Eustatius;2020;1
+381;Filipino;St. Eustatius;2021;0
+382;Filipino;St. Eustatius;2022;1
+383;Filipino;St. Eustatius;2023;1
+384;Filipino;Saba;2012;0
+385;Filipino;Saba;2013;0
+386;Filipino;Saba;2014;0
+387;Filipino;Saba;2015;0
+388;Filipino;Saba;2016;0
+389;Filipino;Saba;2017;1
+390;Filipino;Saba;2018;0
+391;Filipino;Saba;2019;0
+392;Filipino;Saba;2020;0
+393;Filipino;Saba;2021;0
+394;Filipino;Saba;2022;1
+395;Filipino;Saba;2023;0
+396;French;Bonaire;2012;0
+397;French;Bonaire;2013;0
+398;French;Bonaire;2014;0
+399;French;Bonaire;2015;1
+400;French;Bonaire;2016;1
+401;French;Bonaire;2017;1
+402;French;Bonaire;2018;1
+403;French;Bonaire;2019;1
+404;French;Bonaire;2020;1
+405;French;Bonaire;2021;1
+406;French;Bonaire;2022;1
+407;French;Bonaire;2023;1
+408;French;St. Eustatius;2012;3
+409;French;St. Eustatius;2013;4
+410;French;St. Eustatius;2014;4
+411;French;St. Eustatius;2015;3
+412;French;St. Eustatius;2016;4
+413;French;St. Eustatius;2017;2
+414;French;St. Eustatius;2018;3
+415;French;St. Eustatius;2019;3
+416;French;St. Eustatius;2020;3
+417;French;St. Eustatius;2021;3
+418;French;St. Eustatius;2022;4
+419;French;St. Eustatius;2023;5
+420;French;Saba;2012;4
+421;French;Saba;2013;5
+422;French;Saba;2014;5
+423;French;Saba;2015;5
+424;French;Saba;2016;5
+425;French;Saba;2017;4
+426;French;Saba;2018;7
+427;French;Saba;2019;5
+428;French;Saba;2020;4
+429;French;Saba;2021;2
+430;French;Saba;2022;5
+431;French;Saba;2023;7
+432;Venezuelan;Bonaire;2012;3
+433;Venezuelan;Bonaire;2013;3
+434;Venezuelan;Bonaire;2014;3
+435;Venezuelan;Bonaire;2015;3
+436;Venezuelan;Bonaire;2016;3
+437;Venezuelan;Bonaire;2017;3
+438;Venezuelan;Bonaire;2018;2
+439;Venezuelan;Bonaire;2019;1
+440;Venezuelan;Bonaire;2020;2
+441;Venezuelan;Bonaire;2021;1
+442;Venezuelan;Bonaire;2022;0
+443;Venezuelan;Bonaire;2023;0
+444;Venezuelan;St. Eustatius;2012;1
+445;Venezuelan;St. Eustatius;2013;1
+446;Venezuelan;St. Eustatius;2014;1
+447;Venezuelan;St. Eustatius;2015;1
+448;Venezuelan;St. Eustatius;2016;1
+449;Venezuelan;St. Eustatius;2017;1
+450;Venezuelan;St. Eustatius;2018;1
+451;Venezuelan;St. Eustatius;2019;1
+452;Venezuelan;St. Eustatius;2020;1
+453;Venezuelan;St. Eustatius;2021;1
+454;Venezuelan;St. Eustatius;2022;1
+455;Venezuelan;St. Eustatius;2023;1
+456;Venezuelan;Saba;2012;0
+457;Venezuelan;Saba;2013;0
+458;Venezuelan;Saba;2014;0
+459;Venezuelan;Saba;2015;0
+460;Venezuelan;Saba;2016;0
+461;Venezuelan;Saba;2017;0
+462;Venezuelan;Saba;2018;0
+463;Venezuelan;Saba;2019;0
+464;Venezuelan;Saba;2020;0
+465;Venezuelan;Saba;2021;0
+466;Venezuelan;Saba;2022;0
+467;Venezuelan;Saba;2023;0
+468;Other European (excluding Dutch);Bonaire;2012;3
+469;Other European (excluding Dutch);Bonaire;2013;4
+470;Other European (excluding Dutch);Bonaire;2014;5
+471;Other European (excluding Dutch);Bonaire;2015;5
+472;Other European (excluding Dutch);Bonaire;2016;5
+473;Other European (excluding Dutch);Bonaire;2017;5
+474;Other European (excluding Dutch);Bonaire;2018;5
+475;Other European (excluding Dutch);Bonaire;2019;4
+476;Other European (excluding Dutch);Bonaire;2020;5
+477;Other European (excluding Dutch);Bonaire;2021;4
+478;Other European (excluding Dutch);Bonaire;2022;4
+479;Other European (excluding Dutch);Bonaire;2023;4
+480;Other European (excluding Dutch);St. Eustatius;2012;5
+481;Other European (excluding Dutch);St. Eustatius;2013;4
+482;Other European (excluding Dutch);St. Eustatius;2014;5
+483;Other European (excluding Dutch);St. Eustatius;2015;5
+484;Other European (excluding Dutch);St. Eustatius;2016;5
+485;Other European (excluding Dutch);St. Eustatius;2017;4
+486;Other European (excluding Dutch);St. Eustatius;2018;4
+487;Other European (excluding Dutch);St. Eustatius;2019;4
+488;Other European (excluding Dutch);St. Eustatius;2020;4
+489;Other European (excluding Dutch);St. Eustatius;2021;4
+490;Other European (excluding Dutch);St. Eustatius;2022;4
+491;Other European (excluding Dutch);St. Eustatius;2023;4
+492;Other European (excluding Dutch);Saba;2012;3
+493;Other European (excluding Dutch);Saba;2013;3
+494;Other European (excluding Dutch);Saba;2014;3
+495;Other European (excluding Dutch);Saba;2015;3
+496;Other European (excluding Dutch);Saba;2016;3
+497;Other European (excluding Dutch);Saba;2017;3
+498;Other European (excluding Dutch);Saba;2018;3
+499;Other European (excluding Dutch);Saba;2019;4
+500;Other European (excluding Dutch);Saba;2020;5
+501;Other European (excluding Dutch);Saba;2021;2
+502;Other European (excluding Dutch);Saba;2022;3
+503;Other European (excluding Dutch);Saba;2023;3
+504;Other nationalities;Bonaire;2012;3
+505;Other nationalities;Bonaire;2013;3
+506;Other nationalities;Bonaire;2014;3
+507;Other nationalities;Bonaire;2015;4
+508;Other nationalities;Bonaire;2016;3
+509;Other nationalities;Bonaire;2017;3
+510;Other nationalities;Bonaire;2018;3
+511;Other nationalities;Bonaire;2019;2
+512;Other nationalities;Bonaire;2020;2
+513;Other nationalities;Bonaire;2021;2
+514;Other nationalities;Bonaire;2022;1
+515;Other nationalities;Bonaire;2023;2
+516;Other nationalities;St. Eustatius;2012;12
+517;Other nationalities;St. Eustatius;2013;13
+518;Other nationalities;St. Eustatius;2014;14
+519;Other nationalities;St. Eustatius;2015;16
+520;Other nationalities;St. Eustatius;2016;16
+521;Other nationalities;St. Eustatius;2017;18
+522;Other nationalities;St. Eustatius;2018;16
+523;Other nationalities;St. Eustatius;2019;15
+524;Other nationalities;St. Eustatius;2020;14
+525;Other nationalities;St. Eustatius;2021;8
+526;Other nationalities;St. Eustatius;2022;9
+527;Other nationalities;St. Eustatius;2023;11
+528;Other nationalities;Saba;2012;7
+529;Other nationalities;Saba;2013;6
+530;Other nationalities;Saba;2014;6
+531;Other nationalities;Saba;2015;7
+532;Other nationalities;Saba;2016;6
+533;Other nationalities;Saba;2017;6
+534;Other nationalities;Saba;2018;7
+535;Other nationalities;Saba;2019;7
+536;Other nationalities;Saba;2020;6
+537;Other nationalities;Saba;2021;7
+538;Other nationalities;Saba;2022;6
+539;Other nationalities;Saba;2023;7

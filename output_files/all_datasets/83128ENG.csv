@@ -1,0 +1,109 @@
+﻿ID;OriginDestination;Periods;TotalWaste_1
+0;Total Dutch economy;1990;51292
+1;Total Dutch economy;1992;51205
+2;Total Dutch economy;1994;50526
+3;Total Dutch economy;1996;53879
+4;Total Dutch economy;1998;59203
+5;Total Dutch economy;2000;62600
+6;Total Dutch economy;2002;62439
+7;Total Dutch economy;2004;61716
+8;Total Dutch economy;2006;60982
+9;Total Dutch economy;2008;63373
+10;Total Dutch economy;2010;60455
+11;Total Dutch economy;2012;60780
+12;Total from abroad;1990;5886
+13;Total from abroad;1992;6758
+14;Total from abroad;1994;7533
+15;Total from abroad;1996;8788
+16;Total from abroad;1998;8869
+17;Total from abroad;2000;9419
+18;Total from abroad;2002;14319
+19;Total from abroad;2004;14340
+20;Total from abroad;2006;16103
+21;Total from abroad;2008;18259
+22;Total from abroad;2010;18538
+23;Total from abroad;2012;19861
+24;Total origin;1990;57178
+25;Total origin;1992;57964
+26;Total origin;1994;58059
+27;Total origin;1996;62667
+28;Total origin;1998;68072
+29;Total origin;2000;72019
+30;Total origin;2002;76757
+31;Total origin;2004;76056
+32;Total origin;2006;77085
+33;Total origin;2008;81631
+34;Total origin;2010;78993
+35;Total origin;2012;80641
+36;34;1990;52946
+37;34;1992;53287
+38;34;1994;52859
+39;34;1996;56825
+40;34;1998;61704
+41;34;2000;64483
+42;34;2002;64295
+43;34;2004;60056
+44;34;2006;62023
+45;34;2008;66089
+46;34;2010;63159
+47;34;2012;65327
+48;35;1990;33080
+49;35;1992;36043
+50;35;1994;37701
+51;35;1996;42604
+52;35;1998;47661
+53;35;2000;52074
+54;35;2002;51913
+55;35;2004;49639
+56;35;2006;49505
+57;35;2008;53485
+58;35;2010;50511
+59;35;2012;53056
+60;36;1990;3820
+61;36;1992;4002
+62;36;1994;4345
+63;36;1996;5696
+64;36;1998;6863
+65;36;2000;7017
+66;36;2002;7939
+67;36;2004;8370
+68;36;2006;8918
+69;36;2008;10175
+70;36;2010;10817
+71;36;2012;10801
+72;37;1990;16047
+73;37;1992;13243
+74;37;1994;10812
+75;37;1996;8525
+76;37;1998;7180
+77;37;2000;5392
+78;37;2002;4442
+79;37;2004;2047
+80;37;2006;3600
+81;37;2008;2429
+82;37;2010;1831
+83;37;2012;1470
+84;Total to abroad;1990;4232
+85;Total to abroad;1992;4676
+86;Total to abroad;1994;5200
+87;Total to abroad;1996;5841
+88;Total to abroad;1998;6368
+89;Total to abroad;2000;7536
+90;Total to abroad;2002;12463
+91;Total to abroad;2004;16000
+92;Total to abroad;2006;15062
+93;Total to abroad;2008;15542
+94;Total to abroad;2010;15834
+95;Total to abroad;2012;15314
+96;Total destination;1990;57178
+97;Total destination;1992;57964
+98;Total destination;1994;58059
+99;Total destination;1996;62667
+100;Total destination;1998;68072
+101;Total destination;2000;72019
+102;Total destination;2002;76757
+103;Total destination;2004;76056
+104;Total destination;2006;77085
+105;Total destination;2008;81631
+106;Total destination;2010;78993
+107;Total destination;2012;80641

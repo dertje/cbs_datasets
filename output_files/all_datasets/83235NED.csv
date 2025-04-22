@@ -1,0 +1,76 @@
+﻿ID;TypeZelfstandigOndernemer;Marges;Perioden;ErgSnelWerken_1;HeelVeelWerkDoen_2;ExtraHardWerken_3;ZelfBeslissen_4;VolgordeWerkzaamhedenBepalen_5;WerktempoBepalen_6;OplossingenBedenken_7;VerlofNemen_8;EmotioneelMoeilijkeWerksituatie_9;EmotioneelVeeleisendWerk_10;EmotioneelBetrokkenBijWerk_11;OngewensteSeksueleAandacht_12;Intimidatie_13;LichamelijkGeweld_14;Pesten_15;PsychischeVermoeidheidDoorHetWerk_16;EmotioneelUitgeput_17;LeegVoelen_18;SOchtendsMoeVoelen_19;VergtVeelOmMetMensenTeWerken_20;UitgeputDoorWerk_21
+0;Zelfstandig ondernemer (totaal);Waarde;2015;26.5;37.9;27.4;90.3;88.7;84.0;88.8;59.2;4.3;9.3;16.1;4.1;11.4;2.3;4.4;7.5;6.9;17.6;10.0;7.5;6.2
+1;Zelfstandig ondernemer (totaal);Waarde;2017;25.9;38.6;27.1;91.0;89.1;84.2;88.7;60.5;;;;4.1;11.2;2.5;4.9;8.8;8.1;19.7;11.7;9.1;7.4
+2;Zelfstandig ondernemer (totaal);Waarde;2019;25.1;37.3;25.9;90.6;88.4;84.4;89.1;63.5;;;;4.5;10.8;2.5;4.8;9.2;8.8;19.1;11.6;9.3;7.1
+3;Zelfstandig ondernemer (totaal);Waarde;2021;25.7;38.8;27.4;89.7;87.9;85.0;87.7;63.5;;;;4.3;10.1;2.1;4.3;9.5;9.6;19.4;11.5;10.3;7.1
+4;Zelfstandig ondernemer (totaal);Waarde;2023;24.2;36.7;26.3;86.6;85.0;83.0;86.1;63.5;;;;5.3;12.8;2.6;5.1;11.7;12.4;22.0;13.6;11.9;9.1
+5;Zelfstandig ondernemer (totaal);Ondergrens 95%-interval;2015;25.2;36.4;26.0;89.3;87.7;82.9;87.8;57.7;3.7;8.5;15.0;3.5;10.5;1.9;3.8;6.8;6.2;16.5;9.1;6.7;5.5
+6;Zelfstandig ondernemer (totaal);Ondergrens 95%-interval;2017;24.7;37.3;25.9;90.2;88.2;83.1;87.8;59.2;;;;3.5;10.3;2.1;4.3;8.1;7.4;18.6;10.8;8.3;6.7
+7;Zelfstandig ondernemer (totaal);Ondergrens 95%-interval;2019;23.9;35.9;24.7;89.7;87.4;83.3;88.1;62.2;;;;4.0;10.0;2.1;4.2;8.4;8.0;18.0;10.7;8.5;6.4
+8;Zelfstandig ondernemer (totaal);Ondergrens 95%-interval;2021;24.7;37.7;26.3;88.9;87.0;84.1;86.8;62.4;;;;3.8;9.4;1.8;3.8;8.8;8.9;18.5;10.7;9.6;6.4
+9;Zelfstandig ondernemer (totaal);Ondergrens 95%-interval;2023;23.1;35.4;25.2;85.6;83.9;81.9;85.2;62.2;;;;4.8;11.9;2.2;4.6;10.9;11.5;20.9;12.7;11.0;8.3
+10;Zelfstandig ondernemer (totaal);Bovengrens 95%-interval;2015;27.9;39.4;28.8;91.2;89.6;85.2;89.7;60.7;4.9;10.2;17.3;4.8;12.4;2.8;5.1;8.4;7.7;18.8;11.0;8.3;7.0
+11;Zelfstandig ondernemer (totaal);Bovengrens 95%-interval;2017;27.1;39.9;28.3;91.8;90.0;85.1;89.6;61.9;;;;4.7;12.0;3.0;5.5;9.7;8.9;20.8;12.6;9.9;8.2
+12;Zelfstandig ondernemer (totaal);Bovengrens 95%-interval;2019;26.3;38.7;27.2;91.4;89.3;85.4;89.9;64.9;;;;5.2;11.7;3.0;5.5;10.1;9.7;20.3;12.6;10.2;7.9
+13;Zelfstandig ondernemer (totaal);Bovengrens 95%-interval;2021;26.8;40.0;28.5;90.5;88.7;85.9;88.4;64.7;;;;4.8;10.8;2.5;4.8;10.2;10.4;20.4;12.3;11.1;7.7
+14;Zelfstandig ondernemer (totaal);Bovengrens 95%-interval;2023;25.4;38.0;27.5;87.5;85.9;83.9;87.0;64.8;;;;6.0;13.7;3.1;5.8;12.7;13.3;23.1;14.6;12.8;10.0
+15;Zelfstandig ondernemer zonder personeel;Waarde;2015;23.2;33.8;24.2;89.8;88.6;85.2;88.7;63.5;3.7;8.9;14.8;3.9;9.7;2.0;4.2;7.1;6.3;16.5;9.3;7.0;5.8
+16;Zelfstandig ondernemer zonder personeel;Waarde;2017;22.6;34.2;22.9;91.6;89.1;85.0;88.8;65.3;;;;4.0;9.9;2.2;4.5;8.3;7.8;18.9;11.0;8.5;7.1
+17;Zelfstandig ondernemer zonder personeel;Waarde;2019;22.0;32.5;22.1;90.6;88.3;84.9;89.4;68.4;;;;4.7;10.1;2.4;4.9;8.1;7.8;18.0;10.7;8.6;6.2
+18;Zelfstandig ondernemer zonder personeel;Waarde;2021;23.1;35.1;24.1;89.6;87.4;85.3;87.8;67.6;;;;4.4;9.3;2.0;4.1;8.8;9.2;18.7;11.0;9.5;6.7
+19;Zelfstandig ondernemer zonder personeel;Waarde;2023;21.2;32.9;23.0;86.3;84.3;83.5;86.1;67.3;;;;5.4;11.8;2.5;5.4;11.1;11.9;21.0;12.8;11.3;8.8
+20;Zelfstandig ondernemer zonder personeel;Ondergrens 95%-interval;2015;21.8;32.2;22.7;88.6;87.4;83.9;87.6;61.8;3.1;8.0;13.6;3.3;8.8;1.6;3.5;6.2;5.5;15.2;8.3;6.2;5.0
+21;Zelfstandig ondernemer zonder personeel;Ondergrens 95%-interval;2017;21.3;32.8;21.6;90.6;88.0;83.8;87.8;63.8;;;;3.4;9.0;1.7;3.9;7.4;7.0;17.7;10.1;7.6;6.3
+22;Zelfstandig ondernemer zonder personeel;Ondergrens 95%-interval;2019;20.7;31.0;20.8;89.5;87.2;83.7;88.4;66.9;;;;4.0;9.1;2.0;4.2;7.2;6.9;16.8;9.7;7.7;5.4
+23;Zelfstandig ondernemer zonder personeel;Ondergrens 95%-interval;2021;22.0;33.9;23.0;88.7;86.5;84.3;86.8;66.3;;;;3.9;8.6;1.6;3.6;8.0;8.5;17.7;10.2;8.7;6.1
+24;Zelfstandig ondernemer zonder personeel;Ondergrens 95%-interval;2023;20.0;31.5;21.8;85.2;83.1;82.4;85.0;65.9;;;;4.8;10.9;2.1;4.7;10.2;10.9;19.8;11.8;10.4;8.0
+25;Zelfstandig ondernemer zonder personeel;Bovengrens 95%-interval;2015;24.7;35.5;25.7;90.8;89.7;86.4;89.8;65.1;4.4;9.9;16.1;4.6;10.8;2.5;4.9;8.0;7.2;17.8;10.4;8.0;6.7
+26;Zelfstandig ondernemer zonder personeel;Bovengrens 95%-interval;2017;23.9;35.7;24.3;92.4;90.0;86.1;89.8;66.8;;;;4.7;10.9;2.7;5.3;9.2;8.7;20.2;12.1;9.4;8.0
+27;Zelfstandig ondernemer zonder personeel;Bovengrens 95%-interval;2019;23.3;34.0;23.5;91.5;89.3;86.1;90.4;69.8;;;;5.4;11.1;3.0;5.7;9.1;8.7;19.3;11.8;9.5;7.1
+28;Zelfstandig ondernemer zonder personeel;Bovengrens 95%-interval;2021;24.3;36.4;25.3;90.4;88.3;86.3;88.6;68.8;;;;5.0;10.1;2.4;4.7;9.6;10.0;19.8;11.9;10.3;7.4
+29;Zelfstandig ondernemer zonder personeel;Bovengrens 95%-interval;2023;22.4;34.3;24.3;87.3;85.3;84.6;87.1;68.6;;;;6.1;12.8;3.0;6.1;12.1;12.9;22.3;13.9;12.3;9.7
+30;Zelfstandig ondernemer z.p.-eigen arbeid;Waarde;2015;24.5;33.1;24.6;88.6;87.4;83.3;89.3;66.4;4.2;10.0;14.2;4.7;9.9;2.1;4.0;7.4;6.7;17.0;9.3;7.4;5.8
+31;Zelfstandig ondernemer z.p.-eigen arbeid;Waarde;2017;23.5;33.3;22.7;91.2;88.3;84.1;89.6;68.6;;;;4.1;10.5;2.2;4.8;8.1;7.6;19.3;10.9;8.9;6.8
+32;Zelfstandig ondernemer z.p.-eigen arbeid;Waarde;2019;21.9;31.3;21.1;89.8;86.8;83.5;89.7;71.1;;;;5.6;10.5;2.4;5.2;8.3;8.0;18.3;11.0;9.2;6.0
+33;Zelfstandig ondernemer z.p.-eigen arbeid;Waarde;2021;23.5;33.8;23.4;88.9;86.1;84.2;87.9;69.8;;;;5.2;9.9;2.2;4.3;9.5;10.1;20.0;11.7;10.4;7.0
+34;Zelfstandig ondernemer z.p.-eigen arbeid;Waarde;2023;21.3;32.1;22.9;85.5;83.1;82.2;86.0;69.1;;;;6.1;11.9;2.6;5.5;11.2;12.1;21.7;13.0;12.1;8.8
+35;Zelfstandig ondernemer z.p.-eigen arbeid;Ondergrens 95%-interval;2015;22.8;31.2;22.9;87.2;85.9;81.7;88.0;64.5;3.4;8.9;12.8;3.9;8.8;1.7;3.3;6.4;5.8;15.5;8.2;6.4;4.9
+36;Zelfstandig ondernemer z.p.-eigen arbeid;Ondergrens 95%-interval;2017;22.0;31.7;21.2;90.0;87.0;82.7;88.4;66.9;;;;3.5;9.4;1.8;4.1;7.1;6.7;17.9;9.8;8.0;5.9
+37;Zelfstandig ondernemer z.p.-eigen arbeid;Ondergrens 95%-interval;2019;20.5;29.6;19.6;88.5;85.5;82.1;88.5;69.4;;;;4.8;9.4;1.9;4.4;7.3;7.1;16.9;9.9;8.1;5.1
+38;Zelfstandig ondernemer z.p.-eigen arbeid;Ondergrens 95%-interval;2021;22.2;32.4;22.2;87.8;84.9;83.1;86.8;68.4;;;;4.6;9.0;1.8;3.7;8.6;9.2;18.8;10.8;9.5;6.3
+39;Zelfstandig ondernemer z.p.-eigen arbeid;Ondergrens 95%-interval;2023;20.0;30.5;21.5;84.2;81.7;80.8;84.8;67.5;;;;5.3;10.9;2.1;4.7;10.2;11.0;20.3;11.9;11.0;7.8
+40;Zelfstandig ondernemer z.p.-eigen arbeid;Bovengrens 95%-interval;2015;26.3;35.0;26.4;89.9;88.7;84.8;90.5;68.3;5.0;11.2;15.6;5.6;11.1;2.8;4.8;8.5;7.8;18.5;10.5;8.5;6.9
+41;Zelfstandig ondernemer z.p.-eigen arbeid;Bovengrens 95%-interval;2017;25.0;35.0;24.3;92.2;89.4;85.3;90.6;70.3;;;;4.9;11.6;2.8;5.7;9.1;8.6;20.8;12.1;10.0;7.8
+42;Zelfstandig ondernemer z.p.-eigen arbeid;Bovengrens 95%-interval;2019;23.5;33.0;22.6;90.9;88.0;84.8;90.8;72.7;;;;6.5;11.7;3.1;6.1;9.4;9.1;19.7;12.3;10.3;6.9
+43;Zelfstandig ondernemer z.p.-eigen arbeid;Bovengrens 95%-interval;2021;24.8;35.3;24.7;89.8;87.1;85.3;88.9;71.2;;;;6.0;10.8;2.7;4.9;10.4;11.1;21.3;12.8;11.4;7.9
+44;Zelfstandig ondernemer z.p.-eigen arbeid;Bovengrens 95%-interval;2023;22.8;33.6;24.3;86.6;84.3;83.4;87.2;70.6;;;;7.0;13.0;3.2;6.3;12.4;13.2;23.1;14.2;13.2;9.8
+45;Zelfstandig ondernemer z.p.-producten;Waarde;2015;19.8;36.0;22.9;92.9;91.9;90.3;87.2;55.4;2.5;6.1;16.4;1.7;9.3;1.6;4.7;6.2;5.2;15.2;9.4;6.1;5.8
+46;Zelfstandig ondernemer z.p.-producten;Waarde;2017;19.9;37.0;23.7;92.7;91.5;87.8;86.6;55.4;;;;3.7;8.3;1.9;3.6;9.0;8.3;17.8;11.4;7.0;7.9
+47;Zelfstandig ondernemer z.p.-producten;Waarde;2019;22.0;36.6;25.5;93.2;93.2;89.7;88.5;59.3;;;;1.6;8.6;2.4;3.9;7.5;6.9;17.3;9.7;6.5;7.0
+48;Zelfstandig ondernemer z.p.-producten;Waarde;2021;22.0;39.5;26.3;91.9;91.9;88.9;87.3;60.2;;;;1.6;7.5;1.4;3.4;6.6;6.2;14.4;8.6;6.6;5.7
+49;Zelfstandig ondernemer z.p.-producten;Waarde;2023;20.7;35.8;23.6;89.1;88.4;88.1;86.1;61.0;;;;3.0;11.4;2.3;5.1;10.9;11.1;18.8;12.3;8.8;8.9
+50;Zelfstandig ondernemer z.p.-producten;Ondergrens 95%-interval;2015;17.1;32.7;20.1;90.8;89.7;88.0;84.6;52.0;1.6;4.6;14.0;1.1;7.5;0.9;3.4;4.7;3.9;12.9;7.5;4.6;4.3
+51;Zelfstandig ondernemer z.p.-producten;Ondergrens 95%-interval;2017;17.4;33.9;21.0;90.9;89.4;85.5;84.3;52.2;;;;2.5;6.6;1.2;2.6;7.2;6.6;15.5;9.4;5.5;6.3
+52;Zelfstandig ondernemer z.p.-producten;Ondergrens 95%-interval;2019;19.3;33.3;22.6;91.2;91.3;87.4;86.2;56.0;;;;0.9;6.9;1.5;2.7;5.9;5.4;14.9;7.8;4.9;5.4
+53;Zelfstandig ondernemer z.p.-producten;Ondergrens 95%-interval;2021;19.8;36.8;23.9;90.2;90.2;87.0;85.4;57.4;;;;1.0;6.2;0.8;2.5;5.3;5.0;12.5;7.2;5.3;4.5
+54;Zelfstandig ondernemer z.p.-producten;Ondergrens 95%-interval;2023;18.2;32.9;21.0;86.8;86.2;85.9;83.8;57.9;;;;2.1;9.6;1.5;3.9;8.9;9.2;16.4;10.2;7.1;7.2
+55;Zelfstandig ondernemer z.p.-producten;Bovengrens 95%-interval;2015;22.7;39.4;26.0;94.5;93.6;92.2;89.4;58.8;3.8;7.9;19.2;2.9;11.5;2.8;6.5;8.0;7.0;17.8;11.6;8.0;7.6
+56;Zelfstandig ondernemer z.p.-producten;Bovengrens 95%-interval;2017;22.7;40.2;26.5;94.2;93.1;89.8;88.6;58.6;;;;5.3;10.2;3.1;5.1;11.1;10.4;20.4;13.7;9.1;10.0
+57;Zelfstandig ondernemer z.p.-producten;Bovengrens 95%-interval;2019;25.0;39.9;28.6;94.8;94.8;91.6;90.5;62.6;;;;2.7;10.7;3.8;5.6;9.6;8.9;20.0;12.0;8.6;8.9
+58;Zelfstandig ondernemer z.p.-producten;Bovengrens 95%-interval;2021;24.4;42.3;28.9;93.3;93.4;90.6;89.1;62.9;;;;2.5;9.1;2.2;4.7;8.1;7.7;16.5;10.4;8.1;7.1
+59;Zelfstandig ondernemer z.p.-producten;Bovengrens 95%-interval;2023;23.4;38.9;26.4;91.0;90.3;90.1;88.2;64.0;;;;4.3;13.6;3.3;6.8;13.1;13.4;21.4;14.7;10.9;11.0
+60;Zelfstandig ondernemer met personeel;Waarde;2015;38.1;52.3;38.7;92.0;89.0;79.9;89.0;43.8;6.2;10.7;20.7;4.9;17.4;3.4;5.1;9.3;9.2;21.6;12.6;8.9;7.7
+61;Zelfstandig ondernemer met personeel;Waarde;2017;38.1;55.3;41.9;89.5;89.3;80.4;88.9;42.7;;;;3.6;15.1;2.8;4.7;11.0;9.2;22.7;14.3;11.5;8.6
+62;Zelfstandig ondernemer met personeel;Waarde;2019;37.3;55.9;40.7;90.9;89.3;82.6;88.1;45.3;;;;4.0;13.8;3.1;4.5;13.4;12.9;23.7;15.1;12.2;10.7
+63;Zelfstandig ondernemer met personeel;Waarde;2021;37.6;55.5;42.4;90.4;90.0;83.8;87.2;45.1;;;;3.7;13.6;2.8;5.2;12.6;11.6;22.7;13.6;14.1;8.6
+64;Zelfstandig ondernemer met personeel;Waarde;2023;39.3;55.5;42.9;88.1;88.4;80.2;86.4;44.9;;;;5.0;17.5;3.0;3.9;14.8;15.1;26.6;17.4;14.6;10.7
+65;Zelfstandig ondernemer met personeel;Ondergrens 95%-interval;2015;35.0;49.0;35.6;90.0;86.8;77.2;86.8;40.6;4.8;8.9;18.2;3.6;15.1;2.4;3.8;7.6;7.5;19.1;10.6;7.3;6.2
+66;Zelfstandig ondernemer met personeel;Ondergrens 95%-interval;2017;35.3;52.3;39.0;87.5;87.2;78.0;86.8;39.8;;;;2.7;13.2;2.0;3.6;9.3;7.6;20.3;12.3;9.8;7.0
+67;Zelfstandig ondernemer met personeel;Ondergrens 95%-interval;2019;34.4;52.9;37.7;89.0;87.2;80.1;86.0;42.2;;;;3.0;11.9;2.2;3.3;11.4;11.0;21.1;13.0;10.3;8.9
+68;Zelfstandig ondernemer met personeel;Ondergrens 95%-interval;2021;35.0;52.8;39.7;88.6;88.2;81.6;85.2;42.4;;;;2.8;11.8;2.1;4.1;10.8;9.9;20.4;11.7;12.3;7.1
+69;Zelfstandig ondernemer met personeel;Ondergrens 95%-interval;2023;36.3;52.3;39.8;85.8;86.3;77.6;84.1;41.7;;;;3.9;15.3;2.0;2.8;12.7;13.0;23.9;15.1;12.5;8.9
+70;Zelfstandig ondernemer met personeel;Bovengrens 95%-interval;2015;41.3;55.5;42.0;93.6;90.8;82.4;90.9;47.0;7.9;12.7;23.5;6.5;20.0;4.9;6.8;11.3;11.1;24.4;15.0;10.9;9.5
+71;Zelfstandig ondernemer met personeel;Bovengrens 95%-interval;2017;41.1;58.2;44.8;91.3;91.0;82.7;90.6;45.6;;;;4.9;17.3;3.8;6.1;12.9;11.0;25.2;16.6;13.5;10.4
+72;Zelfstandig ondernemer met personeel;Bovengrens 95%-interval;2019;40.4;59.0;43.8;92.6;91.1;84.8;90.0;48.4;;;;5.3;15.9;4.3;6.0;15.6;15.2;26.4;17.4;14.4;12.9
+73;Zelfstandig ondernemer met personeel;Bovengrens 95%-interval;2021;40.4;58.3;45.2;91.9;91.5;85.7;89.0;47.8;;;;4.9;15.5;3.9;6.7;14.6;13.5;25.0;15.6;16.2;10.3
+74;Zelfstandig ondernemer met personeel;Bovengrens 95%-interval;2023;42.5;58.7;46.1;90.0;90.3;82.6;88.5;48.0;;;;6.5;19.9;4.3;5.3;17.2;17.6;29.5;20.0;17.0;12.9

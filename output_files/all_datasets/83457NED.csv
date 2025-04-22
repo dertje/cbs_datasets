@@ -1,0 +1,793 @@
+﻿ID;Vervoerwijze;GoederenindelingSITC;CaribischNederland;Perioden;TotaalInEnUitvoer_1;Invoer_2;Uitvoer_3
+0;Totaal zeevaart en luchtvaart;Totaal;Caribisch Nederland;2013;221670;104460;117200
+1;Totaal zeevaart en luchtvaart;Totaal;Caribisch Nederland;2014;222530;120660;101860
+2;Totaal zeevaart en luchtvaart;Totaal;Caribisch Nederland;2015;247600;163350;84260
+3;Totaal zeevaart en luchtvaart;Totaal;Caribisch Nederland;2016;192640;167430;25210
+4;Totaal zeevaart en luchtvaart;Totaal;Caribisch Nederland;2017;338690;203200;135490
+5;Totaal zeevaart en luchtvaart;Totaal;Caribisch Nederland;2018;291590;225990;65590
+6;Totaal zeevaart en luchtvaart;Totaal;Bonaire;2013;199830;83510;116330
+7;Totaal zeevaart en luchtvaart;Totaal;Bonaire;2014;204710;103050;101650
+8;Totaal zeevaart en luchtvaart;Totaal;Bonaire;2015;223520;139440;84080
+9;Totaal zeevaart en luchtvaart;Totaal;Bonaire;2016;177550;152470;25080
+10;Totaal zeevaart en luchtvaart;Totaal;Bonaire;2017;313070;178050;135030
+11;Totaal zeevaart en luchtvaart;Totaal;Bonaire;2018;270810;205980;64830
+12;Totaal zeevaart en luchtvaart;Totaal;Sint-Eustatius;2013;15810;14950;850
+13;Totaal zeevaart en luchtvaart;Totaal;Sint-Eustatius;2014;11470;11280;190
+14;Totaal zeevaart en luchtvaart;Totaal;Sint-Eustatius;2015;15890;15760;130
+15;Totaal zeevaart en luchtvaart;Totaal;Sint-Eustatius;2016;10370;10280;90
+16;Totaal zeevaart en luchtvaart;Totaal;Sint-Eustatius;2017;19950;19560;390
+17;Totaal zeevaart en luchtvaart;Totaal;Sint-Eustatius;2018;15280;14630;650
+18;Totaal zeevaart en luchtvaart;Totaal;Saba;2013;6030;6000;20
+19;Totaal zeevaart en luchtvaart;Totaal;Saba;2014;6350;6330;20
+20;Totaal zeevaart en luchtvaart;Totaal;Saba;2015;8190;8150;50
+21;Totaal zeevaart en luchtvaart;Totaal;Saba;2016;4720;4680;40
+22;Totaal zeevaart en luchtvaart;Totaal;Saba;2017;5660;5600;70
+23;Totaal zeevaart en luchtvaart;Totaal;Saba;2018;5510;5390;120
+24;Totaal zeevaart en luchtvaart;0 Voeding en levende dieren;Caribisch Nederland;2013;12370;12350;20
+25;Totaal zeevaart en luchtvaart;0 Voeding en levende dieren;Caribisch Nederland;2014;13950;13940;10
+26;Totaal zeevaart en luchtvaart;0 Voeding en levende dieren;Caribisch Nederland;2015;16630;16620;10
+27;Totaal zeevaart en luchtvaart;0 Voeding en levende dieren;Caribisch Nederland;2016;17410;17410;0
+28;Totaal zeevaart en luchtvaart;0 Voeding en levende dieren;Caribisch Nederland;2017;17030;17030;0
+29;Totaal zeevaart en luchtvaart;0 Voeding en levende dieren;Caribisch Nederland;2018;16910;16900;10
+30;Totaal zeevaart en luchtvaart;0 Voeding en levende dieren;Bonaire;2013;11600;11580;20
+31;Totaal zeevaart en luchtvaart;0 Voeding en levende dieren;Bonaire;2014;13020;13010;10
+32;Totaal zeevaart en luchtvaart;0 Voeding en levende dieren;Bonaire;2015;15550;15540;10
+33;Totaal zeevaart en luchtvaart;0 Voeding en levende dieren;Bonaire;2016;16160;16160;0
+34;Totaal zeevaart en luchtvaart;0 Voeding en levende dieren;Bonaire;2017;16010;16010;0
+35;Totaal zeevaart en luchtvaart;0 Voeding en levende dieren;Bonaire;2018;16370;16360;10
+36;Totaal zeevaart en luchtvaart;0 Voeding en levende dieren;Sint-Eustatius;2013;180;180;0
+37;Totaal zeevaart en luchtvaart;0 Voeding en levende dieren;Sint-Eustatius;2014;200;200;0
+38;Totaal zeevaart en luchtvaart;0 Voeding en levende dieren;Sint-Eustatius;2015;270;270;0
+39;Totaal zeevaart en luchtvaart;0 Voeding en levende dieren;Sint-Eustatius;2016;240;240;0
+40;Totaal zeevaart en luchtvaart;0 Voeding en levende dieren;Sint-Eustatius;2017;500;500;0
+41;Totaal zeevaart en luchtvaart;0 Voeding en levende dieren;Sint-Eustatius;2018;510;510;0
+42;Totaal zeevaart en luchtvaart;0 Voeding en levende dieren;Saba;2013;590;590;0
+43;Totaal zeevaart en luchtvaart;0 Voeding en levende dieren;Saba;2014;730;730;0
+44;Totaal zeevaart en luchtvaart;0 Voeding en levende dieren;Saba;2015;810;810;0
+45;Totaal zeevaart en luchtvaart;0 Voeding en levende dieren;Saba;2016;1010;1010;0
+46;Totaal zeevaart en luchtvaart;0 Voeding en levende dieren;Saba;2017;530;530;0
+47;Totaal zeevaart en luchtvaart;0 Voeding en levende dieren;Saba;2018;40;40;0
+48;Totaal zeevaart en luchtvaart;1 Dranken en tabak;Caribisch Nederland;2013;5790;5790;0
+49;Totaal zeevaart en luchtvaart;1 Dranken en tabak;Caribisch Nederland;2014;6160;6040;120
+50;Totaal zeevaart en luchtvaart;1 Dranken en tabak;Caribisch Nederland;2015;7660;7590;60
+51;Totaal zeevaart en luchtvaart;1 Dranken en tabak;Caribisch Nederland;2016;7140;7100;40
+52;Totaal zeevaart en luchtvaart;1 Dranken en tabak;Caribisch Nederland;2017;7530;7530;0
+53;Totaal zeevaart en luchtvaart;1 Dranken en tabak;Caribisch Nederland;2018;8290;8280;10
+54;Totaal zeevaart en luchtvaart;1 Dranken en tabak;Bonaire;2013;5520;5520;0
+55;Totaal zeevaart en luchtvaart;1 Dranken en tabak;Bonaire;2014;5920;5800;120
+56;Totaal zeevaart en luchtvaart;1 Dranken en tabak;Bonaire;2015;7200;7130;60
+57;Totaal zeevaart en luchtvaart;1 Dranken en tabak;Bonaire;2016;6460;6420;40
+58;Totaal zeevaart en luchtvaart;1 Dranken en tabak;Bonaire;2017;6660;6660;0
+59;Totaal zeevaart en luchtvaart;1 Dranken en tabak;Bonaire;2018;7090;7080;10
+60;Totaal zeevaart en luchtvaart;1 Dranken en tabak;Sint-Eustatius;2013;170;170;0
+61;Totaal zeevaart en luchtvaart;1 Dranken en tabak;Sint-Eustatius;2014;150;150;0
+62;Totaal zeevaart en luchtvaart;1 Dranken en tabak;Sint-Eustatius;2015;390;390;0
+63;Totaal zeevaart en luchtvaart;1 Dranken en tabak;Sint-Eustatius;2016;600;600;0
+64;Totaal zeevaart en luchtvaart;1 Dranken en tabak;Sint-Eustatius;2017;770;770;0
+65;Totaal zeevaart en luchtvaart;1 Dranken en tabak;Sint-Eustatius;2018;1070;1070;0
+66;Totaal zeevaart en luchtvaart;1 Dranken en tabak;Saba;2013;100;100;0
+67;Totaal zeevaart en luchtvaart;1 Dranken en tabak;Saba;2014;90;90;0
+68;Totaal zeevaart en luchtvaart;1 Dranken en tabak;Saba;2015;70;70;0
+69;Totaal zeevaart en luchtvaart;1 Dranken en tabak;Saba;2016;80;80;0
+70;Totaal zeevaart en luchtvaart;1 Dranken en tabak;Saba;2017;100;100;0
+71;Totaal zeevaart en luchtvaart;1 Dranken en tabak;Saba;2018;130;130;0
+72;Totaal zeevaart en luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Caribisch Nederland;2013;143010;28010;115000
+73;Totaal zeevaart en luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Caribisch Nederland;2014;145010;44010;101000
+74;Totaal zeevaart en luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Caribisch Nederland;2015;136020;53020;83000
+75;Totaal zeevaart en luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Caribisch Nederland;2016;86180;62780;23400
+76;Totaal zeevaart en luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Caribisch Nederland;2017;220000;86600;133300
+77;Totaal zeevaart en luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Caribisch Nederland;2018;191940;129020;62920
+78;Totaal zeevaart en luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Bonaire;2013;143010;28010;115000
+79;Totaal zeevaart en luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Bonaire;2014;145010;44010;101000
+80;Totaal zeevaart en luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Bonaire;2015;136020;53020;83000
+81;Totaal zeevaart en luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Bonaire;2016;86130;62730;23400
+82;Totaal zeevaart en luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Bonaire;2017;220000;86600;133300
+83;Totaal zeevaart en luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Bonaire;2018;191890;128970;62920
+84;Totaal zeevaart en luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Sint-Eustatius;2013;0;0;0
+85;Totaal zeevaart en luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Sint-Eustatius;2014;0;0;0
+86;Totaal zeevaart en luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Sint-Eustatius;2015;0;0;0
+87;Totaal zeevaart en luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Sint-Eustatius;2016;50;50;0
+88;Totaal zeevaart en luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Sint-Eustatius;2017;0;0;0
+89;Totaal zeevaart en luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Sint-Eustatius;2018;40;40;0
+90;Totaal zeevaart en luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Saba;2013;0;0;0
+91;Totaal zeevaart en luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Saba;2014;0;0;0
+92;Totaal zeevaart en luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Saba;2015;0;0;0
+93;Totaal zeevaart en luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Saba;2016;0;0;0
+94;Totaal zeevaart en luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Saba;2017;0;0;0
+95;Totaal zeevaart en luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Saba;2018;10;10;0
+96;Totaal zeevaart en luchtvaart;3 Minerale brandstoffen, smeermiddele...;Caribisch Nederland;2013;10840;10840;0
+97;Totaal zeevaart en luchtvaart;3 Minerale brandstoffen, smeermiddele...;Caribisch Nederland;2014;11770;11770;0
+98;Totaal zeevaart en luchtvaart;3 Minerale brandstoffen, smeermiddele...;Caribisch Nederland;2015;32080;32070;0
+99;Totaal zeevaart en luchtvaart;3 Minerale brandstoffen, smeermiddele...;Caribisch Nederland;2016;24290;24260;30
+100;Totaal zeevaart en luchtvaart;3 Minerale brandstoffen, smeermiddele...;Caribisch Nederland;2017;31340;31320;30
+101;Totaal zeevaart en luchtvaart;3 Minerale brandstoffen, smeermiddele...;Caribisch Nederland;2018;8020;8020;0
+102;Totaal zeevaart en luchtvaart;3 Minerale brandstoffen, smeermiddele...;Bonaire;2013;9170;9170;0
+103;Totaal zeevaart en luchtvaart;3 Minerale brandstoffen, smeermiddele...;Bonaire;2014;9190;9190;0
+104;Totaal zeevaart en luchtvaart;3 Minerale brandstoffen, smeermiddele...;Bonaire;2015;28010;28000;0
+105;Totaal zeevaart en luchtvaart;3 Minerale brandstoffen, smeermiddele...;Bonaire;2016;21830;21800;30
+106;Totaal zeevaart en luchtvaart;3 Minerale brandstoffen, smeermiddele...;Bonaire;2017;28860;28840;30
+107;Totaal zeevaart en luchtvaart;3 Minerale brandstoffen, smeermiddele...;Bonaire;2018;5470;5470;0
+108;Totaal zeevaart en luchtvaart;3 Minerale brandstoffen, smeermiddele...;Sint-Eustatius;2013;1250;1250;0
+109;Totaal zeevaart en luchtvaart;3 Minerale brandstoffen, smeermiddele...;Sint-Eustatius;2014;1300;1300;0
+110;Totaal zeevaart en luchtvaart;3 Minerale brandstoffen, smeermiddele...;Sint-Eustatius;2015;1580;1580;0
+111;Totaal zeevaart en luchtvaart;3 Minerale brandstoffen, smeermiddele...;Sint-Eustatius;2016;1430;1430;0
+112;Totaal zeevaart en luchtvaart;3 Minerale brandstoffen, smeermiddele...;Sint-Eustatius;2017;1580;1580;0
+113;Totaal zeevaart en luchtvaart;3 Minerale brandstoffen, smeermiddele...;Sint-Eustatius;2018;1590;1590;0
+114;Totaal zeevaart en luchtvaart;3 Minerale brandstoffen, smeermiddele...;Saba;2013;420;420;0
+115;Totaal zeevaart en luchtvaart;3 Minerale brandstoffen, smeermiddele...;Saba;2014;1280;1280;0
+116;Totaal zeevaart en luchtvaart;3 Minerale brandstoffen, smeermiddele...;Saba;2015;2490;2490;0
+117;Totaal zeevaart en luchtvaart;3 Minerale brandstoffen, smeermiddele...;Saba;2016;1030;1030;0
+118;Totaal zeevaart en luchtvaart;3 Minerale brandstoffen, smeermiddele...;Saba;2017;910;910;0
+119;Totaal zeevaart en luchtvaart;3 Minerale brandstoffen, smeermiddele...;Saba;2018;970;970;0
+120;Totaal zeevaart en luchtvaart;4 Dierlijke en plantaardige oliën en ...;Caribisch Nederland;2013;200;180;20
+121;Totaal zeevaart en luchtvaart;4 Dierlijke en plantaardige oliën en ...;Caribisch Nederland;2014;330;330;0
+122;Totaal zeevaart en luchtvaart;4 Dierlijke en plantaardige oliën en ...;Caribisch Nederland;2015;290;290;0
+123;Totaal zeevaart en luchtvaart;4 Dierlijke en plantaardige oliën en ...;Caribisch Nederland;2016;1000;950;50
+124;Totaal zeevaart en luchtvaart;4 Dierlijke en plantaardige oliën en ...;Caribisch Nederland;2017;270;250;20
+125;Totaal zeevaart en luchtvaart;4 Dierlijke en plantaardige oliën en ...;Caribisch Nederland;2018;410;350;70
+126;Totaal zeevaart en luchtvaart;4 Dierlijke en plantaardige oliën en ...;Bonaire;2013;200;180;20
+127;Totaal zeevaart en luchtvaart;4 Dierlijke en plantaardige oliën en ...;Bonaire;2014;330;330;0
+128;Totaal zeevaart en luchtvaart;4 Dierlijke en plantaardige oliën en ...;Bonaire;2015;290;290;0
+129;Totaal zeevaart en luchtvaart;4 Dierlijke en plantaardige oliën en ...;Bonaire;2016;1000;950;50
+130;Totaal zeevaart en luchtvaart;4 Dierlijke en plantaardige oliën en ...;Bonaire;2017;270;250;20
+131;Totaal zeevaart en luchtvaart;4 Dierlijke en plantaardige oliën en ...;Bonaire;2018;410;340;70
+132;Totaal zeevaart en luchtvaart;4 Dierlijke en plantaardige oliën en ...;Sint-Eustatius;2013;0;0;0
+133;Totaal zeevaart en luchtvaart;4 Dierlijke en plantaardige oliën en ...;Sint-Eustatius;2014;0;0;0
+134;Totaal zeevaart en luchtvaart;4 Dierlijke en plantaardige oliën en ...;Sint-Eustatius;2015;0;0;0
+135;Totaal zeevaart en luchtvaart;4 Dierlijke en plantaardige oliën en ...;Sint-Eustatius;2016;0;0;0
+136;Totaal zeevaart en luchtvaart;4 Dierlijke en plantaardige oliën en ...;Sint-Eustatius;2017;0;0;0
+137;Totaal zeevaart en luchtvaart;4 Dierlijke en plantaardige oliën en ...;Sint-Eustatius;2018;10;10;0
+138;Totaal zeevaart en luchtvaart;4 Dierlijke en plantaardige oliën en ...;Saba;2013;0;0;0
+139;Totaal zeevaart en luchtvaart;4 Dierlijke en plantaardige oliën en ...;Saba;2014;0;0;0
+140;Totaal zeevaart en luchtvaart;4 Dierlijke en plantaardige oliën en ...;Saba;2015;0;0;0
+141;Totaal zeevaart en luchtvaart;4 Dierlijke en plantaardige oliën en ...;Saba;2016;0;0;0
+142;Totaal zeevaart en luchtvaart;4 Dierlijke en plantaardige oliën en ...;Saba;2017;0;0;0
+143;Totaal zeevaart en luchtvaart;4 Dierlijke en plantaardige oliën en ...;Saba;2018;0;0;0
+144;Totaal zeevaart en luchtvaart;5 Chemische producten;Caribisch Nederland;2013;2090;2090;0
+145;Totaal zeevaart en luchtvaart;5 Chemische producten;Caribisch Nederland;2014;2280;2270;10
+146;Totaal zeevaart en luchtvaart;5 Chemische producten;Caribisch Nederland;2015;3270;3220;40
+147;Totaal zeevaart en luchtvaart;5 Chemische producten;Caribisch Nederland;2016;3220;3190;30
+148;Totaal zeevaart en luchtvaart;5 Chemische producten;Caribisch Nederland;2017;6360;6340;30
+149;Totaal zeevaart en luchtvaart;5 Chemische producten;Caribisch Nederland;2018;4070;4000;80
+150;Totaal zeevaart en luchtvaart;5 Chemische producten;Bonaire;2013;2040;2040;0
+151;Totaal zeevaart en luchtvaart;5 Chemische producten;Bonaire;2014;2220;2210;10
+152;Totaal zeevaart en luchtvaart;5 Chemische producten;Bonaire;2015;3210;3160;40
+153;Totaal zeevaart en luchtvaart;5 Chemische producten;Bonaire;2016;3140;3110;30
+154;Totaal zeevaart en luchtvaart;5 Chemische producten;Bonaire;2017;6010;5980;30
+155;Totaal zeevaart en luchtvaart;5 Chemische producten;Bonaire;2018;3520;3450;70
+156;Totaal zeevaart en luchtvaart;5 Chemische producten;Sint-Eustatius;2013;50;50;0
+157;Totaal zeevaart en luchtvaart;5 Chemische producten;Sint-Eustatius;2014;60;60;0
+158;Totaal zeevaart en luchtvaart;5 Chemische producten;Sint-Eustatius;2015;60;60;0
+159;Totaal zeevaart en luchtvaart;5 Chemische producten;Sint-Eustatius;2016;80;80;0
+160;Totaal zeevaart en luchtvaart;5 Chemische producten;Sint-Eustatius;2017;350;350;0
+161;Totaal zeevaart en luchtvaart;5 Chemische producten;Sint-Eustatius;2018;550;550;10
+162;Totaal zeevaart en luchtvaart;5 Chemische producten;Saba;2013;0;0;0
+163;Totaal zeevaart en luchtvaart;5 Chemische producten;Saba;2014;0;0;0
+164;Totaal zeevaart en luchtvaart;5 Chemische producten;Saba;2015;0;0;0
+165;Totaal zeevaart en luchtvaart;5 Chemische producten;Saba;2016;0;0;0
+166;Totaal zeevaart en luchtvaart;5 Chemische producten;Saba;2017;10;10;0
+167;Totaal zeevaart en luchtvaart;5 Chemische producten;Saba;2018;10;10;0
+168;Totaal zeevaart en luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Caribisch Nederland;2013;19160;18480;690
+169;Totaal zeevaart en luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Caribisch Nederland;2014;16170;16020;150
+170;Totaal zeevaart en luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Caribisch Nederland;2015;25030;24620;400
+171;Totaal zeevaart en luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Caribisch Nederland;2016;30400;29370;1030
+172;Totaal zeevaart en luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Caribisch Nederland;2017;24390;23240;1150
+173;Totaal zeevaart en luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Caribisch Nederland;2018;37750;36450;1300
+174;Totaal zeevaart en luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Bonaire;2013;19150;18470;690
+175;Totaal zeevaart en luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Bonaire;2014;16160;16010;150
+176;Totaal zeevaart en luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Bonaire;2015;25000;24590;400
+177;Totaal zeevaart en luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Bonaire;2016;30360;29330;1030
+178;Totaal zeevaart en luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Bonaire;2017;23980;22840;1140
+179;Totaal zeevaart en luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Bonaire;2018;35990;34690;1300
+180;Totaal zeevaart en luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Sint-Eustatius;2013;0;0;0
+181;Totaal zeevaart en luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Sint-Eustatius;2014;10;10;0
+182;Totaal zeevaart en luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Sint-Eustatius;2015;10;10;0
+183;Totaal zeevaart en luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Sint-Eustatius;2016;30;30;0
+184;Totaal zeevaart en luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Sint-Eustatius;2017;400;400;0
+185;Totaal zeevaart en luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Sint-Eustatius;2018;1750;1750;0
+186;Totaal zeevaart en luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Saba;2013;10;10;0
+187;Totaal zeevaart en luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Saba;2014;0;0;0
+188;Totaal zeevaart en luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Saba;2015;20;20;0
+189;Totaal zeevaart en luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Saba;2016;10;10;0
+190;Totaal zeevaart en luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Saba;2017;10;0;0
+191;Totaal zeevaart en luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Saba;2018;10;10;0
+192;Totaal zeevaart en luchtvaart;7 Machines en vervoermaterieel;Caribisch Nederland;2013;6130;5570;570
+193;Totaal zeevaart en luchtvaart;7 Machines en vervoermaterieel;Caribisch Nederland;2014;4480;4110;370
+194;Totaal zeevaart en luchtvaart;7 Machines en vervoermaterieel;Caribisch Nederland;2015;6350;5940;410
+195;Totaal zeevaart en luchtvaart;7 Machines en vervoermaterieel;Caribisch Nederland;2016;9400;9090;310
+196;Totaal zeevaart en luchtvaart;7 Machines en vervoermaterieel;Caribisch Nederland;2017;8680;8350;320
+197;Totaal zeevaart en luchtvaart;7 Machines en vervoermaterieel;Caribisch Nederland;2018;8220;7960;260
+198;Totaal zeevaart en luchtvaart;7 Machines en vervoermaterieel;Bonaire;2013;5410;4870;540
+199;Totaal zeevaart en luchtvaart;7 Machines en vervoermaterieel;Bonaire;2014;3960;3600;360
+200;Totaal zeevaart en luchtvaart;7 Machines en vervoermaterieel;Bonaire;2015;5820;5420;400
+201;Totaal zeevaart en luchtvaart;7 Machines en vervoermaterieel;Bonaire;2016;9070;8780;290
+202;Totaal zeevaart en luchtvaart;7 Machines en vervoermaterieel;Bonaire;2017;7970;7670;310
+203;Totaal zeevaart en luchtvaart;7 Machines en vervoermaterieel;Bonaire;2018;7050;6800;250
+204;Totaal zeevaart en luchtvaart;7 Machines en vervoermaterieel;Sint-Eustatius;2013;610;600;10
+205;Totaal zeevaart en luchtvaart;7 Machines en vervoermaterieel;Sint-Eustatius;2014;140;140;0
+206;Totaal zeevaart en luchtvaart;7 Machines en vervoermaterieel;Sint-Eustatius;2015;270;270;0
+207;Totaal zeevaart en luchtvaart;7 Machines en vervoermaterieel;Sint-Eustatius;2016;160;160;0
+208;Totaal zeevaart en luchtvaart;7 Machines en vervoermaterieel;Sint-Eustatius;2017;420;420;10
+209;Totaal zeevaart en luchtvaart;7 Machines en vervoermaterieel;Sint-Eustatius;2018;910;890;10
+210;Totaal zeevaart en luchtvaart;7 Machines en vervoermaterieel;Saba;2013;110;100;20
+211;Totaal zeevaart en luchtvaart;7 Machines en vervoermaterieel;Saba;2014;380;370;10
+212;Totaal zeevaart en luchtvaart;7 Machines en vervoermaterieel;Saba;2015;260;250;10
+213;Totaal zeevaart en luchtvaart;7 Machines en vervoermaterieel;Saba;2016;170;150;20
+214;Totaal zeevaart en luchtvaart;7 Machines en vervoermaterieel;Saba;2017;280;270;10
+215;Totaal zeevaart en luchtvaart;7 Machines en vervoermaterieel;Saba;2018;270;260;0
+216;Totaal zeevaart en luchtvaart;8 Diverse gefabriceerde goederen;Caribisch Nederland;2013;1850;1830;30
+217;Totaal zeevaart en luchtvaart;8 Diverse gefabriceerde goederen;Caribisch Nederland;2014;2130;2100;30
+218;Totaal zeevaart en luchtvaart;8 Diverse gefabriceerde goederen;Caribisch Nederland;2015;2380;2320;50
+219;Totaal zeevaart en luchtvaart;8 Diverse gefabriceerde goederen;Caribisch Nederland;2016;3150;3140;10
+220;Totaal zeevaart en luchtvaart;8 Diverse gefabriceerde goederen;Caribisch Nederland;2017;3160;3140;20
+221;Totaal zeevaart en luchtvaart;8 Diverse gefabriceerde goederen;Caribisch Nederland;2018;2980;2950;40
+222;Totaal zeevaart en luchtvaart;8 Diverse gefabriceerde goederen;Bonaire;2013;1850;1830;30
+223;Totaal zeevaart en luchtvaart;8 Diverse gefabriceerde goederen;Bonaire;2014;2130;2100;30
+224;Totaal zeevaart en luchtvaart;8 Diverse gefabriceerde goederen;Bonaire;2015;2350;2290;50
+225;Totaal zeevaart en luchtvaart;8 Diverse gefabriceerde goederen;Bonaire;2016;3140;3130;10
+226;Totaal zeevaart en luchtvaart;8 Diverse gefabriceerde goederen;Bonaire;2017;3090;3070;20
+227;Totaal zeevaart en luchtvaart;8 Diverse gefabriceerde goederen;Bonaire;2018;2870;2840;30
+228;Totaal zeevaart en luchtvaart;8 Diverse gefabriceerde goederen;Sint-Eustatius;2013;0;0;0
+229;Totaal zeevaart en luchtvaart;8 Diverse gefabriceerde goederen;Sint-Eustatius;2014;0;0;0
+230;Totaal zeevaart en luchtvaart;8 Diverse gefabriceerde goederen;Sint-Eustatius;2015;0;0;0
+231;Totaal zeevaart en luchtvaart;8 Diverse gefabriceerde goederen;Sint-Eustatius;2016;0;0;0
+232;Totaal zeevaart en luchtvaart;8 Diverse gefabriceerde goederen;Sint-Eustatius;2017;70;70;0
+233;Totaal zeevaart en luchtvaart;8 Diverse gefabriceerde goederen;Sint-Eustatius;2018;110;110;0
+234;Totaal zeevaart en luchtvaart;8 Diverse gefabriceerde goederen;Saba;2013;0;0;0
+235;Totaal zeevaart en luchtvaart;8 Diverse gefabriceerde goederen;Saba;2014;0;0;0
+236;Totaal zeevaart en luchtvaart;8 Diverse gefabriceerde goederen;Saba;2015;30;30;0
+237;Totaal zeevaart en luchtvaart;8 Diverse gefabriceerde goederen;Saba;2016;10;10;0
+238;Totaal zeevaart en luchtvaart;8 Diverse gefabriceerde goederen;Saba;2017;0;0;0
+239;Totaal zeevaart en luchtvaart;8 Diverse gefabriceerde goederen;Saba;2018;0;0;0
+240;Totaal zeevaart en luchtvaart;9 Niet afzonderlijk genoemde goederen;Caribisch Nederland;2013;20270;19360;900
+241;Totaal zeevaart en luchtvaart;9 Niet afzonderlijk genoemde goederen;Caribisch Nederland;2014;20240;19870;360
+242;Totaal zeevaart en luchtvaart;9 Niet afzonderlijk genoemde goederen;Caribisch Nederland;2015;17970;17680;270
+243;Totaal zeevaart en luchtvaart;9 Niet afzonderlijk genoemde goederen;Caribisch Nederland;2016;10450;10140;310
+244;Totaal zeevaart en luchtvaart;9 Niet afzonderlijk genoemde goederen;Caribisch Nederland;2017;19960;19380;590
+245;Totaal zeevaart en luchtvaart;9 Niet afzonderlijk genoemde goederen;Caribisch Nederland;2018;13000;12080;920
+246;Totaal zeevaart en luchtvaart;9 Niet afzonderlijk genoemde goederen;Bonaire;2013;1930;1870;60
+247;Totaal zeevaart en luchtvaart;9 Niet afzonderlijk genoemde goederen;Bonaire;2014;6770;6600;160
+248;Totaal zeevaart en luchtvaart;9 Niet afzonderlijk genoemde goederen;Bonaire;2015;150;40;110
+249;Totaal zeevaart en luchtvaart;9 Niet afzonderlijk genoemde goederen;Bonaire;2016;260;60;200
+250;Totaal zeevaart en luchtvaart;9 Niet afzonderlijk genoemde goederen;Bonaire;2017;270;120;150
+251;Totaal zeevaart en luchtvaart;9 Niet afzonderlijk genoemde goederen;Bonaire;2018;180;0;170
+252;Totaal zeevaart en luchtvaart;9 Niet afzonderlijk genoemde goederen;Sint-Eustatius;2013;13540;12690;840
+253;Totaal zeevaart en luchtvaart;9 Niet afzonderlijk genoemde goederen;Sint-Eustatius;2014;9610;9420;190
+254;Totaal zeevaart en luchtvaart;9 Niet afzonderlijk genoemde goederen;Sint-Eustatius;2015;13300;13160;130
+255;Totaal zeevaart en luchtvaart;9 Niet afzonderlijk genoemde goederen;Sint-Eustatius;2016;7780;7690;90
+256;Totaal zeevaart en luchtvaart;9 Niet afzonderlijk genoemde goederen;Sint-Eustatius;2017;15870;15480;380
+257;Totaal zeevaart en luchtvaart;9 Niet afzonderlijk genoemde goederen;Sint-Eustatius;2018;8750;8120;630
+258;Totaal zeevaart en luchtvaart;9 Niet afzonderlijk genoemde goederen;Saba;2013;4800;4800;0
+259;Totaal zeevaart en luchtvaart;9 Niet afzonderlijk genoemde goederen;Saba;2014;3860;3850;10
+260;Totaal zeevaart en luchtvaart;9 Niet afzonderlijk genoemde goederen;Saba;2015;4520;4480;30
+261;Totaal zeevaart en luchtvaart;9 Niet afzonderlijk genoemde goederen;Saba;2016;2410;2390;20
+262;Totaal zeevaart en luchtvaart;9 Niet afzonderlijk genoemde goederen;Saba;2017;3830;3780;60
+263;Totaal zeevaart en luchtvaart;9 Niet afzonderlijk genoemde goederen;Saba;2018;4080;3960;120
+264;Zeevaart;Totaal;Caribisch Nederland;2013;221090;103910;117170
+265;Zeevaart;Totaal;Caribisch Nederland;2014;222020;120170;101840
+266;Zeevaart;Totaal;Caribisch Nederland;2015;247080;162840;84240
+267;Zeevaart;Totaal;Caribisch Nederland;2016;192080;166870;25210
+268;Zeevaart;Totaal;Caribisch Nederland;2017;338100;202620;135470
+269;Zeevaart;Totaal;Caribisch Nederland;2018;290780;225200;65590
+270;Zeevaart;Totaal;Bonaire;2013;199330;83030;116300
+271;Zeevaart;Totaal;Bonaire;2014;204260;102620;101630
+272;Zeevaart;Totaal;Bonaire;2015;223080;139010;84060
+273;Zeevaart;Totaal;Bonaire;2016;177040;151960;25080
+274;Zeevaart;Totaal;Bonaire;2017;312520;177500;135010
+275;Zeevaart;Totaal;Bonaire;2018;270040;205230;64820
+276;Zeevaart;Totaal;Sint-Eustatius;2013;15770;14920;850
+277;Zeevaart;Totaal;Sint-Eustatius;2014;11430;11240;190
+278;Zeevaart;Totaal;Sint-Eustatius;2015;15820;15690;130
+279;Zeevaart;Totaal;Sint-Eustatius;2016;10330;10240;90
+280;Zeevaart;Totaal;Sint-Eustatius;2017;19920;19530;390
+281;Zeevaart;Totaal;Sint-Eustatius;2018;15240;14590;650
+282;Zeevaart;Totaal;Saba;2013;5990;5960;20
+283;Zeevaart;Totaal;Saba;2014;6330;6310;20
+284;Zeevaart;Totaal;Saba;2015;8180;8140;50
+285;Zeevaart;Totaal;Saba;2016;4710;4670;40
+286;Zeevaart;Totaal;Saba;2017;5650;5590;70
+287;Zeevaart;Totaal;Saba;2018;5500;5380;120
+288;Zeevaart;0 Voeding en levende dieren;Caribisch Nederland;2013;12250;12230;20
+289;Zeevaart;0 Voeding en levende dieren;Caribisch Nederland;2014;13790;13780;10
+290;Zeevaart;0 Voeding en levende dieren;Caribisch Nederland;2015;16480;16470;10
+291;Zeevaart;0 Voeding en levende dieren;Caribisch Nederland;2016;17230;17230;0
+292;Zeevaart;0 Voeding en levende dieren;Caribisch Nederland;2017;16820;16820;0
+293;Zeevaart;0 Voeding en levende dieren;Caribisch Nederland;2018;16520;16510;10
+294;Zeevaart;0 Voeding en levende dieren;Bonaire;2013;11480;11460;20
+295;Zeevaart;0 Voeding en levende dieren;Bonaire;2014;12860;12850;10
+296;Zeevaart;0 Voeding en levende dieren;Bonaire;2015;15400;15390;10
+297;Zeevaart;0 Voeding en levende dieren;Bonaire;2016;15980;15980;0
+298;Zeevaart;0 Voeding en levende dieren;Bonaire;2017;15790;15790;0
+299;Zeevaart;0 Voeding en levende dieren;Bonaire;2018;15980;15970;10
+300;Zeevaart;0 Voeding en levende dieren;Sint-Eustatius;2013;180;180;0
+301;Zeevaart;0 Voeding en levende dieren;Sint-Eustatius;2014;200;200;0
+302;Zeevaart;0 Voeding en levende dieren;Sint-Eustatius;2015;270;270;0
+303;Zeevaart;0 Voeding en levende dieren;Sint-Eustatius;2016;240;240;0
+304;Zeevaart;0 Voeding en levende dieren;Sint-Eustatius;2017;500;500;0
+305;Zeevaart;0 Voeding en levende dieren;Sint-Eustatius;2018;510;510;0
+306;Zeevaart;0 Voeding en levende dieren;Saba;2013;590;590;0
+307;Zeevaart;0 Voeding en levende dieren;Saba;2014;730;730;0
+308;Zeevaart;0 Voeding en levende dieren;Saba;2015;810;810;0
+309;Zeevaart;0 Voeding en levende dieren;Saba;2016;1010;1010;0
+310;Zeevaart;0 Voeding en levende dieren;Saba;2017;530;530;0
+311;Zeevaart;0 Voeding en levende dieren;Saba;2018;40;40;0
+312;Zeevaart;1 Dranken en tabak;Caribisch Nederland;2013;5780;5780;0
+313;Zeevaart;1 Dranken en tabak;Caribisch Nederland;2014;6160;6040;120
+314;Zeevaart;1 Dranken en tabak;Caribisch Nederland;2015;7660;7590;60
+315;Zeevaart;1 Dranken en tabak;Caribisch Nederland;2016;7130;7090;40
+316;Zeevaart;1 Dranken en tabak;Caribisch Nederland;2017;7530;7520;0
+317;Zeevaart;1 Dranken en tabak;Caribisch Nederland;2018;8280;8270;10
+318;Zeevaart;1 Dranken en tabak;Bonaire;2013;5510;5510;0
+319;Zeevaart;1 Dranken en tabak;Bonaire;2014;5920;5800;120
+320;Zeevaart;1 Dranken en tabak;Bonaire;2015;7200;7130;60
+321;Zeevaart;1 Dranken en tabak;Bonaire;2016;6450;6410;40
+322;Zeevaart;1 Dranken en tabak;Bonaire;2017;6660;6650;0
+323;Zeevaart;1 Dranken en tabak;Bonaire;2018;7080;7070;10
+324;Zeevaart;1 Dranken en tabak;Sint-Eustatius;2013;170;170;0
+325;Zeevaart;1 Dranken en tabak;Sint-Eustatius;2014;150;150;0
+326;Zeevaart;1 Dranken en tabak;Sint-Eustatius;2015;390;390;0
+327;Zeevaart;1 Dranken en tabak;Sint-Eustatius;2016;600;600;0
+328;Zeevaart;1 Dranken en tabak;Sint-Eustatius;2017;770;770;0
+329;Zeevaart;1 Dranken en tabak;Sint-Eustatius;2018;1070;1070;0
+330;Zeevaart;1 Dranken en tabak;Saba;2013;100;100;0
+331;Zeevaart;1 Dranken en tabak;Saba;2014;90;90;0
+332;Zeevaart;1 Dranken en tabak;Saba;2015;70;70;0
+333;Zeevaart;1 Dranken en tabak;Saba;2016;80;80;0
+334;Zeevaart;1 Dranken en tabak;Saba;2017;100;100;0
+335;Zeevaart;1 Dranken en tabak;Saba;2018;130;130;0
+336;Zeevaart;2 Grondstoffen, niet eetbaar, behalve...;Caribisch Nederland;2013;143000;28000;115000
+337;Zeevaart;2 Grondstoffen, niet eetbaar, behalve...;Caribisch Nederland;2014;145000;44000;101000
+338;Zeevaart;2 Grondstoffen, niet eetbaar, behalve...;Caribisch Nederland;2015;136000;53000;83000
+339;Zeevaart;2 Grondstoffen, niet eetbaar, behalve...;Caribisch Nederland;2016;86150;62750;23400
+340;Zeevaart;2 Grondstoffen, niet eetbaar, behalve...;Caribisch Nederland;2017;220000;86600;133300
+341;Zeevaart;2 Grondstoffen, niet eetbaar, behalve...;Caribisch Nederland;2018;191920;129000;62920
+342;Zeevaart;2 Grondstoffen, niet eetbaar, behalve...;Bonaire;2013;143000;28000;115000
+343;Zeevaart;2 Grondstoffen, niet eetbaar, behalve...;Bonaire;2014;145000;44000;101000
+344;Zeevaart;2 Grondstoffen, niet eetbaar, behalve...;Bonaire;2015;136000;53000;83000
+345;Zeevaart;2 Grondstoffen, niet eetbaar, behalve...;Bonaire;2016;86100;62700;23400
+346;Zeevaart;2 Grondstoffen, niet eetbaar, behalve...;Bonaire;2017;219900;86600;133300
+347;Zeevaart;2 Grondstoffen, niet eetbaar, behalve...;Bonaire;2018;191900;129000;62900
+348;Zeevaart;2 Grondstoffen, niet eetbaar, behalve...;Sint-Eustatius;2013;0;0;0
+349;Zeevaart;2 Grondstoffen, niet eetbaar, behalve...;Sint-Eustatius;2014;0;0;0
+350;Zeevaart;2 Grondstoffen, niet eetbaar, behalve...;Sint-Eustatius;2015;0;0;0
+351;Zeevaart;2 Grondstoffen, niet eetbaar, behalve...;Sint-Eustatius;2016;50;50;0
+352;Zeevaart;2 Grondstoffen, niet eetbaar, behalve...;Sint-Eustatius;2017;0;0;0
+353;Zeevaart;2 Grondstoffen, niet eetbaar, behalve...;Sint-Eustatius;2018;40;40;0
+354;Zeevaart;2 Grondstoffen, niet eetbaar, behalve...;Saba;2013;0;0;0
+355;Zeevaart;2 Grondstoffen, niet eetbaar, behalve...;Saba;2014;0;0;0
+356;Zeevaart;2 Grondstoffen, niet eetbaar, behalve...;Saba;2015;0;0;0
+357;Zeevaart;2 Grondstoffen, niet eetbaar, behalve...;Saba;2016;0;0;0
+358;Zeevaart;2 Grondstoffen, niet eetbaar, behalve...;Saba;2017;0;0;0
+359;Zeevaart;2 Grondstoffen, niet eetbaar, behalve...;Saba;2018;10;10;0
+360;Zeevaart;3 Minerale brandstoffen, smeermiddele...;Caribisch Nederland;2013;10840;10840;0
+361;Zeevaart;3 Minerale brandstoffen, smeermiddele...;Caribisch Nederland;2014;11760;11760;0
+362;Zeevaart;3 Minerale brandstoffen, smeermiddele...;Caribisch Nederland;2015;32080;32070;0
+363;Zeevaart;3 Minerale brandstoffen, smeermiddele...;Caribisch Nederland;2016;24290;24260;30
+364;Zeevaart;3 Minerale brandstoffen, smeermiddele...;Caribisch Nederland;2017;31340;31320;30
+365;Zeevaart;3 Minerale brandstoffen, smeermiddele...;Caribisch Nederland;2018;8020;8020;0
+366;Zeevaart;3 Minerale brandstoffen, smeermiddele...;Bonaire;2013;9170;9170;0
+367;Zeevaart;3 Minerale brandstoffen, smeermiddele...;Bonaire;2014;9180;9180;0
+368;Zeevaart;3 Minerale brandstoffen, smeermiddele...;Bonaire;2015;28010;28000;0
+369;Zeevaart;3 Minerale brandstoffen, smeermiddele...;Bonaire;2016;21830;21800;30
+370;Zeevaart;3 Minerale brandstoffen, smeermiddele...;Bonaire;2017;28860;28840;30
+371;Zeevaart;3 Minerale brandstoffen, smeermiddele...;Bonaire;2018;5470;5470;0
+372;Zeevaart;3 Minerale brandstoffen, smeermiddele...;Sint-Eustatius;2013;1250;1250;0
+373;Zeevaart;3 Minerale brandstoffen, smeermiddele...;Sint-Eustatius;2014;1300;1300;0
+374;Zeevaart;3 Minerale brandstoffen, smeermiddele...;Sint-Eustatius;2015;1580;1580;0
+375;Zeevaart;3 Minerale brandstoffen, smeermiddele...;Sint-Eustatius;2016;1430;1430;0
+376;Zeevaart;3 Minerale brandstoffen, smeermiddele...;Sint-Eustatius;2017;1580;1580;0
+377;Zeevaart;3 Minerale brandstoffen, smeermiddele...;Sint-Eustatius;2018;1590;1590;0
+378;Zeevaart;3 Minerale brandstoffen, smeermiddele...;Saba;2013;420;420;0
+379;Zeevaart;3 Minerale brandstoffen, smeermiddele...;Saba;2014;1280;1280;0
+380;Zeevaart;3 Minerale brandstoffen, smeermiddele...;Saba;2015;2490;2490;0
+381;Zeevaart;3 Minerale brandstoffen, smeermiddele...;Saba;2016;1030;1030;0
+382;Zeevaart;3 Minerale brandstoffen, smeermiddele...;Saba;2017;910;910;0
+383;Zeevaart;3 Minerale brandstoffen, smeermiddele...;Saba;2018;970;970;0
+384;Zeevaart;4 Dierlijke en plantaardige oliën en ...;Caribisch Nederland;2013;200;180;20
+385;Zeevaart;4 Dierlijke en plantaardige oliën en ...;Caribisch Nederland;2014;330;330;0
+386;Zeevaart;4 Dierlijke en plantaardige oliën en ...;Caribisch Nederland;2015;290;290;0
+387;Zeevaart;4 Dierlijke en plantaardige oliën en ...;Caribisch Nederland;2016;1000;950;50
+388;Zeevaart;4 Dierlijke en plantaardige oliën en ...;Caribisch Nederland;2017;270;250;20
+389;Zeevaart;4 Dierlijke en plantaardige oliën en ...;Caribisch Nederland;2018;410;350;70
+390;Zeevaart;4 Dierlijke en plantaardige oliën en ...;Bonaire;2013;200;180;20
+391;Zeevaart;4 Dierlijke en plantaardige oliën en ...;Bonaire;2014;330;330;0
+392;Zeevaart;4 Dierlijke en plantaardige oliën en ...;Bonaire;2015;290;290;0
+393;Zeevaart;4 Dierlijke en plantaardige oliën en ...;Bonaire;2016;1000;950;50
+394;Zeevaart;4 Dierlijke en plantaardige oliën en ...;Bonaire;2017;270;250;20
+395;Zeevaart;4 Dierlijke en plantaardige oliën en ...;Bonaire;2018;410;340;70
+396;Zeevaart;4 Dierlijke en plantaardige oliën en ...;Sint-Eustatius;2013;0;0;0
+397;Zeevaart;4 Dierlijke en plantaardige oliën en ...;Sint-Eustatius;2014;0;0;0
+398;Zeevaart;4 Dierlijke en plantaardige oliën en ...;Sint-Eustatius;2015;0;0;0
+399;Zeevaart;4 Dierlijke en plantaardige oliën en ...;Sint-Eustatius;2016;0;0;0
+400;Zeevaart;4 Dierlijke en plantaardige oliën en ...;Sint-Eustatius;2017;0;0;0
+401;Zeevaart;4 Dierlijke en plantaardige oliën en ...;Sint-Eustatius;2018;10;10;0
+402;Zeevaart;4 Dierlijke en plantaardige oliën en ...;Saba;2013;0;0;0
+403;Zeevaart;4 Dierlijke en plantaardige oliën en ...;Saba;2014;0;0;0
+404;Zeevaart;4 Dierlijke en plantaardige oliën en ...;Saba;2015;0;0;0
+405;Zeevaart;4 Dierlijke en plantaardige oliën en ...;Saba;2016;0;0;0
+406;Zeevaart;4 Dierlijke en plantaardige oliën en ...;Saba;2017;0;0;0
+407;Zeevaart;4 Dierlijke en plantaardige oliën en ...;Saba;2018;0;0;0
+408;Zeevaart;5 Chemische producten;Caribisch Nederland;2013;2030;2030;0
+409;Zeevaart;5 Chemische producten;Caribisch Nederland;2014;2240;2230;10
+410;Zeevaart;5 Chemische producten;Caribisch Nederland;2015;3220;3170;40
+411;Zeevaart;5 Chemische producten;Caribisch Nederland;2016;3170;3140;30
+412;Zeevaart;5 Chemische producten;Caribisch Nederland;2017;6310;6290;20
+413;Zeevaart;5 Chemische producten;Caribisch Nederland;2018;4020;3950;70
+414;Zeevaart;5 Chemische producten;Bonaire;2013;1980;1980;0
+415;Zeevaart;5 Chemische producten;Bonaire;2014;2180;2170;10
+416;Zeevaart;5 Chemische producten;Bonaire;2015;3160;3110;40
+417;Zeevaart;5 Chemische producten;Bonaire;2016;3090;3060;30
+418;Zeevaart;5 Chemische producten;Bonaire;2017;5960;5940;20
+419;Zeevaart;5 Chemische producten;Bonaire;2018;3460;3400;70
+420;Zeevaart;5 Chemische producten;Sint-Eustatius;2013;50;50;0
+421;Zeevaart;5 Chemische producten;Sint-Eustatius;2014;60;60;0
+422;Zeevaart;5 Chemische producten;Sint-Eustatius;2015;60;60;0
+423;Zeevaart;5 Chemische producten;Sint-Eustatius;2016;80;80;0
+424;Zeevaart;5 Chemische producten;Sint-Eustatius;2017;350;350;0
+425;Zeevaart;5 Chemische producten;Sint-Eustatius;2018;550;540;10
+426;Zeevaart;5 Chemische producten;Saba;2013;0;0;0
+427;Zeevaart;5 Chemische producten;Saba;2014;0;0;0
+428;Zeevaart;5 Chemische producten;Saba;2015;0;0;0
+429;Zeevaart;5 Chemische producten;Saba;2016;0;0;0
+430;Zeevaart;5 Chemische producten;Saba;2017;10;10;0
+431;Zeevaart;5 Chemische producten;Saba;2018;10;10;0
+432;Zeevaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Caribisch Nederland;2013;19130;18450;690
+433;Zeevaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Caribisch Nederland;2014;16140;15990;150
+434;Zeevaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Caribisch Nederland;2015;24970;24570;400
+435;Zeevaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Caribisch Nederland;2016;30340;29310;1030
+436;Zeevaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Caribisch Nederland;2017;24320;23180;1140
+437;Zeevaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Caribisch Nederland;2018;37670;36380;1300
+438;Zeevaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Bonaire;2013;19120;18440;690
+439;Zeevaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Bonaire;2014;16130;15980;150
+440;Zeevaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Bonaire;2015;24940;24540;400
+441;Zeevaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Bonaire;2016;30300;29270;1030
+442;Zeevaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Bonaire;2017;23920;22780;1140
+443;Zeevaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Bonaire;2018;35910;34620;1300
+444;Zeevaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Sint-Eustatius;2013;0;0;0
+445;Zeevaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Sint-Eustatius;2014;10;10;0
+446;Zeevaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Sint-Eustatius;2015;10;10;0
+447;Zeevaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Sint-Eustatius;2016;30;30;0
+448;Zeevaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Sint-Eustatius;2017;400;400;0
+449;Zeevaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Sint-Eustatius;2018;1750;1750;0
+450;Zeevaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Saba;2013;10;10;0
+451;Zeevaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Saba;2014;0;0;0
+452;Zeevaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Saba;2015;20;20;0
+453;Zeevaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Saba;2016;10;10;0
+454;Zeevaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Saba;2017;10;0;0
+455;Zeevaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Saba;2018;10;10;0
+456;Zeevaart;7 Machines en vervoermaterieel;Caribisch Nederland;2013;6050;5510;550
+457;Zeevaart;7 Machines en vervoermaterieel;Caribisch Nederland;2014;4430;4060;370
+458;Zeevaart;7 Machines en vervoermaterieel;Caribisch Nederland;2015;6270;5870;400
+459;Zeevaart;7 Machines en vervoermaterieel;Caribisch Nederland;2016;9310;9000;310
+460;Zeevaart;7 Machines en vervoermaterieel;Caribisch Nederland;2017;8570;8250;320
+461;Zeevaart;7 Machines en vervoermaterieel;Caribisch Nederland;2018;8130;7870;260
+462;Zeevaart;7 Machines en vervoermaterieel;Bonaire;2013;5330;4810;520
+463;Zeevaart;7 Machines en vervoermaterieel;Bonaire;2014;3910;3550;360
+464;Zeevaart;7 Machines en vervoermaterieel;Bonaire;2015;5740;5350;390
+465;Zeevaart;7 Machines en vervoermaterieel;Bonaire;2016;8980;8690;290
+466;Zeevaart;7 Machines en vervoermaterieel;Bonaire;2017;7870;7560;300
+467;Zeevaart;7 Machines en vervoermaterieel;Bonaire;2018;6960;6710;250
+468;Zeevaart;7 Machines en vervoermaterieel;Sint-Eustatius;2013;610;600;10
+469;Zeevaart;7 Machines en vervoermaterieel;Sint-Eustatius;2014;140;140;0
+470;Zeevaart;7 Machines en vervoermaterieel;Sint-Eustatius;2015;270;270;0
+471;Zeevaart;7 Machines en vervoermaterieel;Sint-Eustatius;2016;160;160;0
+472;Zeevaart;7 Machines en vervoermaterieel;Sint-Eustatius;2017;420;420;10
+473;Zeevaart;7 Machines en vervoermaterieel;Sint-Eustatius;2018;910;890;10
+474;Zeevaart;7 Machines en vervoermaterieel;Saba;2013;110;100;20
+475;Zeevaart;7 Machines en vervoermaterieel;Saba;2014;380;370;10
+476;Zeevaart;7 Machines en vervoermaterieel;Saba;2015;260;250;10
+477;Zeevaart;7 Machines en vervoermaterieel;Saba;2016;170;150;20
+478;Zeevaart;7 Machines en vervoermaterieel;Saba;2017;280;270;10
+479;Zeevaart;7 Machines en vervoermaterieel;Saba;2018;270;260;0
+480;Zeevaart;8 Diverse gefabriceerde goederen;Caribisch Nederland;2013;1790;1770;30
+481;Zeevaart;8 Diverse gefabriceerde goederen;Caribisch Nederland;2014;2080;2050;30
+482;Zeevaart;8 Diverse gefabriceerde goederen;Caribisch Nederland;2015;2300;2250;50
+483;Zeevaart;8 Diverse gefabriceerde goederen;Caribisch Nederland;2016;3060;3050;10
+484;Zeevaart;8 Diverse gefabriceerde goederen;Caribisch Nederland;2017;3060;3040;20
+485;Zeevaart;8 Diverse gefabriceerde goederen;Caribisch Nederland;2018;2850;2810;30
+486;Zeevaart;8 Diverse gefabriceerde goederen;Bonaire;2013;1790;1770;30
+487;Zeevaart;8 Diverse gefabriceerde goederen;Bonaire;2014;2080;2050;30
+488;Zeevaart;8 Diverse gefabriceerde goederen;Bonaire;2015;2270;2220;50
+489;Zeevaart;8 Diverse gefabriceerde goederen;Bonaire;2016;3050;3040;10
+490;Zeevaart;8 Diverse gefabriceerde goederen;Bonaire;2017;2990;2970;20
+491;Zeevaart;8 Diverse gefabriceerde goederen;Bonaire;2018;2740;2710;30
+492;Zeevaart;8 Diverse gefabriceerde goederen;Sint-Eustatius;2013;0;0;0
+493;Zeevaart;8 Diverse gefabriceerde goederen;Sint-Eustatius;2014;0;0;0
+494;Zeevaart;8 Diverse gefabriceerde goederen;Sint-Eustatius;2015;0;0;0
+495;Zeevaart;8 Diverse gefabriceerde goederen;Sint-Eustatius;2016;0;0;0
+496;Zeevaart;8 Diverse gefabriceerde goederen;Sint-Eustatius;2017;70;70;0
+497;Zeevaart;8 Diverse gefabriceerde goederen;Sint-Eustatius;2018;110;110;0
+498;Zeevaart;8 Diverse gefabriceerde goederen;Saba;2013;0;0;0
+499;Zeevaart;8 Diverse gefabriceerde goederen;Saba;2014;0;0;0
+500;Zeevaart;8 Diverse gefabriceerde goederen;Saba;2015;30;30;0
+501;Zeevaart;8 Diverse gefabriceerde goederen;Saba;2016;10;10;0
+502;Zeevaart;8 Diverse gefabriceerde goederen;Saba;2017;0;0;0
+503;Zeevaart;8 Diverse gefabriceerde goederen;Saba;2018;0;0;0
+504;Zeevaart;9 Niet afzonderlijk genoemde goederen;Caribisch Nederland;2013;20050;19150;900
+505;Zeevaart;9 Niet afzonderlijk genoemde goederen;Caribisch Nederland;2014;20080;19720;360
+506;Zeevaart;9 Niet afzonderlijk genoemde goederen;Caribisch Nederland;2015;17890;17610;270
+507;Zeevaart;9 Niet afzonderlijk genoemde goederen;Caribisch Nederland;2016;10400;10090;310
+508;Zeevaart;9 Niet afzonderlijk genoemde goederen;Caribisch Nederland;2017;19930;19340;580
+509;Zeevaart;9 Niet afzonderlijk genoemde goederen;Caribisch Nederland;2018;12960;12040;920
+510;Zeevaart;9 Niet afzonderlijk genoemde goederen;Bonaire;2013;1790;1730;60
+511;Zeevaart;9 Niet afzonderlijk genoemde goederen;Bonaire;2014;6670;6510;160
+512;Zeevaart;9 Niet afzonderlijk genoemde goederen;Bonaire;2015;150;40;110
+513;Zeevaart;9 Niet afzonderlijk genoemde goederen;Bonaire;2016;260;60;200
+514;Zeevaart;9 Niet afzonderlijk genoemde goederen;Bonaire;2017;260;120;150
+515;Zeevaart;9 Niet afzonderlijk genoemde goederen;Bonaire;2018;170;0;170
+516;Zeevaart;9 Niet afzonderlijk genoemde goederen;Sint-Eustatius;2013;13500;12660;840
+517;Zeevaart;9 Niet afzonderlijk genoemde goederen;Sint-Eustatius;2014;9570;9380;190
+518;Zeevaart;9 Niet afzonderlijk genoemde goederen;Sint-Eustatius;2015;13230;13100;130
+519;Zeevaart;9 Niet afzonderlijk genoemde goederen;Sint-Eustatius;2016;7740;7650;90
+520;Zeevaart;9 Niet afzonderlijk genoemde goederen;Sint-Eustatius;2017;15840;15460;380
+521;Zeevaart;9 Niet afzonderlijk genoemde goederen;Sint-Eustatius;2018;8720;8090;630
+522;Zeevaart;9 Niet afzonderlijk genoemde goederen;Saba;2013;4760;4760;0
+523;Zeevaart;9 Niet afzonderlijk genoemde goederen;Saba;2014;3840;3830;10
+524;Zeevaart;9 Niet afzonderlijk genoemde goederen;Saba;2015;4510;4470;30
+525;Zeevaart;9 Niet afzonderlijk genoemde goederen;Saba;2016;2400;2380;20
+526;Zeevaart;9 Niet afzonderlijk genoemde goederen;Saba;2017;3820;3770;60
+527;Zeevaart;9 Niet afzonderlijk genoemde goederen;Saba;2018;4070;3950;120
+528;Luchtvaart;Totaal;Caribisch Nederland;2013;580;550;30
+529;Luchtvaart;Totaal;Caribisch Nederland;2014;510;490;20
+530;Luchtvaart;Totaal;Caribisch Nederland;2015;520;510;20
+531;Luchtvaart;Totaal;Caribisch Nederland;2016;560;560;0
+532;Luchtvaart;Totaal;Caribisch Nederland;2017;590;580;20
+533;Luchtvaart;Totaal;Caribisch Nederland;2018;810;800;10
+534;Luchtvaart;Totaal;Bonaire;2013;500;480;30
+535;Luchtvaart;Totaal;Bonaire;2014;450;430;20
+536;Luchtvaart;Totaal;Bonaire;2015;440;430;20
+537;Luchtvaart;Totaal;Bonaire;2016;510;510;0
+538;Luchtvaart;Totaal;Bonaire;2017;560;540;10
+539;Luchtvaart;Totaal;Bonaire;2018;760;760;10
+540;Luchtvaart;Totaal;Sint-Eustatius;2013;40;30;0
+541;Luchtvaart;Totaal;Sint-Eustatius;2014;40;40;0
+542;Luchtvaart;Totaal;Sint-Eustatius;2015;70;70;0
+543;Luchtvaart;Totaal;Sint-Eustatius;2016;40;40;0
+544;Luchtvaart;Totaal;Sint-Eustatius;2017;30;30;0
+545;Luchtvaart;Totaal;Sint-Eustatius;2018;30;30;0
+546;Luchtvaart;Totaal;Saba;2013;40;40;0
+547;Luchtvaart;Totaal;Saba;2014;20;20;0
+548;Luchtvaart;Totaal;Saba;2015;10;10;0
+549;Luchtvaart;Totaal;Saba;2016;10;10;0
+550;Luchtvaart;Totaal;Saba;2017;10;10;0
+551;Luchtvaart;Totaal;Saba;2018;10;10;0
+552;Luchtvaart;0 Voeding en levende dieren;Caribisch Nederland;2013;120;120;0
+553;Luchtvaart;0 Voeding en levende dieren;Caribisch Nederland;2014;160;160;0
+554;Luchtvaart;0 Voeding en levende dieren;Caribisch Nederland;2015;150;150;0
+555;Luchtvaart;0 Voeding en levende dieren;Caribisch Nederland;2016;180;180;0
+556;Luchtvaart;0 Voeding en levende dieren;Caribisch Nederland;2017;220;220;0
+557;Luchtvaart;0 Voeding en levende dieren;Caribisch Nederland;2018;390;390;0
+558;Luchtvaart;0 Voeding en levende dieren;Bonaire;2013;120;120;0
+559;Luchtvaart;0 Voeding en levende dieren;Bonaire;2014;160;160;0
+560;Luchtvaart;0 Voeding en levende dieren;Bonaire;2015;150;150;0
+561;Luchtvaart;0 Voeding en levende dieren;Bonaire;2016;180;180;0
+562;Luchtvaart;0 Voeding en levende dieren;Bonaire;2017;220;220;0
+563;Luchtvaart;0 Voeding en levende dieren;Bonaire;2018;390;390;0
+564;Luchtvaart;0 Voeding en levende dieren;Sint-Eustatius;2013;0;0;0
+565;Luchtvaart;0 Voeding en levende dieren;Sint-Eustatius;2014;0;0;0
+566;Luchtvaart;0 Voeding en levende dieren;Sint-Eustatius;2015;0;0;0
+567;Luchtvaart;0 Voeding en levende dieren;Sint-Eustatius;2016;0;0;0
+568;Luchtvaart;0 Voeding en levende dieren;Sint-Eustatius;2017;0;0;0
+569;Luchtvaart;0 Voeding en levende dieren;Sint-Eustatius;2018;0;0;0
+570;Luchtvaart;0 Voeding en levende dieren;Saba;2013;0;0;0
+571;Luchtvaart;0 Voeding en levende dieren;Saba;2014;0;0;0
+572;Luchtvaart;0 Voeding en levende dieren;Saba;2015;0;0;0
+573;Luchtvaart;0 Voeding en levende dieren;Saba;2016;0;0;0
+574;Luchtvaart;0 Voeding en levende dieren;Saba;2017;0;0;0
+575;Luchtvaart;0 Voeding en levende dieren;Saba;2018;0;0;0
+576;Luchtvaart;1 Dranken en tabak;Caribisch Nederland;2013;10;10;0
+577;Luchtvaart;1 Dranken en tabak;Caribisch Nederland;2014;0;0;0
+578;Luchtvaart;1 Dranken en tabak;Caribisch Nederland;2015;0;0;0
+579;Luchtvaart;1 Dranken en tabak;Caribisch Nederland;2016;10;10;0
+580;Luchtvaart;1 Dranken en tabak;Caribisch Nederland;2017;10;10;0
+581;Luchtvaart;1 Dranken en tabak;Caribisch Nederland;2018;10;10;0
+582;Luchtvaart;1 Dranken en tabak;Bonaire;2013;10;10;0
+583;Luchtvaart;1 Dranken en tabak;Bonaire;2014;0;0;0
+584;Luchtvaart;1 Dranken en tabak;Bonaire;2015;0;0;0
+585;Luchtvaart;1 Dranken en tabak;Bonaire;2016;10;10;0
+586;Luchtvaart;1 Dranken en tabak;Bonaire;2017;10;10;0
+587;Luchtvaart;1 Dranken en tabak;Bonaire;2018;10;10;0
+588;Luchtvaart;1 Dranken en tabak;Sint-Eustatius;2013;0;0;0
+589;Luchtvaart;1 Dranken en tabak;Sint-Eustatius;2014;0;0;0
+590;Luchtvaart;1 Dranken en tabak;Sint-Eustatius;2015;0;0;0
+591;Luchtvaart;1 Dranken en tabak;Sint-Eustatius;2016;0;0;0
+592;Luchtvaart;1 Dranken en tabak;Sint-Eustatius;2017;0;0;0
+593;Luchtvaart;1 Dranken en tabak;Sint-Eustatius;2018;0;0;0
+594;Luchtvaart;1 Dranken en tabak;Saba;2013;0;0;0
+595;Luchtvaart;1 Dranken en tabak;Saba;2014;0;0;0
+596;Luchtvaart;1 Dranken en tabak;Saba;2015;0;0;0
+597;Luchtvaart;1 Dranken en tabak;Saba;2016;0;0;0
+598;Luchtvaart;1 Dranken en tabak;Saba;2017;0;0;0
+599;Luchtvaart;1 Dranken en tabak;Saba;2018;0;0;0
+600;Luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Caribisch Nederland;2013;10;10;0
+601;Luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Caribisch Nederland;2014;10;10;0
+602;Luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Caribisch Nederland;2015;20;20;0
+603;Luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Caribisch Nederland;2016;30;30;0
+604;Luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Caribisch Nederland;2017;0;0;0
+605;Luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Caribisch Nederland;2018;20;20;0
+606;Luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Bonaire;2013;10;10;0
+607;Luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Bonaire;2014;10;10;0
+608;Luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Bonaire;2015;20;20;0
+609;Luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Bonaire;2016;30;30;0
+610;Luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Bonaire;2017;0;0;0
+611;Luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Bonaire;2018;20;20;0
+612;Luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Sint-Eustatius;2013;0;0;0
+613;Luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Sint-Eustatius;2014;0;0;0
+614;Luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Sint-Eustatius;2015;0;0;0
+615;Luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Sint-Eustatius;2016;0;0;0
+616;Luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Sint-Eustatius;2017;0;0;0
+617;Luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Sint-Eustatius;2018;0;0;0
+618;Luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Saba;2013;0;0;0
+619;Luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Saba;2014;0;0;0
+620;Luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Saba;2015;0;0;0
+621;Luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Saba;2016;0;0;0
+622;Luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Saba;2017;0;0;0
+623;Luchtvaart;2 Grondstoffen, niet eetbaar, behalve...;Saba;2018;0;0;0
+624;Luchtvaart;3 Minerale brandstoffen, smeermiddele...;Caribisch Nederland;2013;0;0;0
+625;Luchtvaart;3 Minerale brandstoffen, smeermiddele...;Caribisch Nederland;2014;10;10;0
+626;Luchtvaart;3 Minerale brandstoffen, smeermiddele...;Caribisch Nederland;2015;0;0;0
+627;Luchtvaart;3 Minerale brandstoffen, smeermiddele...;Caribisch Nederland;2016;0;0;0
+628;Luchtvaart;3 Minerale brandstoffen, smeermiddele...;Caribisch Nederland;2017;0;0;0
+629;Luchtvaart;3 Minerale brandstoffen, smeermiddele...;Caribisch Nederland;2018;0;0;0
+630;Luchtvaart;3 Minerale brandstoffen, smeermiddele...;Bonaire;2013;0;0;0
+631;Luchtvaart;3 Minerale brandstoffen, smeermiddele...;Bonaire;2014;10;10;0
+632;Luchtvaart;3 Minerale brandstoffen, smeermiddele...;Bonaire;2015;0;0;0
+633;Luchtvaart;3 Minerale brandstoffen, smeermiddele...;Bonaire;2016;0;0;0
+634;Luchtvaart;3 Minerale brandstoffen, smeermiddele...;Bonaire;2017;0;0;0
+635;Luchtvaart;3 Minerale brandstoffen, smeermiddele...;Bonaire;2018;0;0;0
+636;Luchtvaart;3 Minerale brandstoffen, smeermiddele...;Sint-Eustatius;2013;0;0;0
+637;Luchtvaart;3 Minerale brandstoffen, smeermiddele...;Sint-Eustatius;2014;0;0;0
+638;Luchtvaart;3 Minerale brandstoffen, smeermiddele...;Sint-Eustatius;2015;0;0;0
+639;Luchtvaart;3 Minerale brandstoffen, smeermiddele...;Sint-Eustatius;2016;0;0;0
+640;Luchtvaart;3 Minerale brandstoffen, smeermiddele...;Sint-Eustatius;2017;0;0;0
+641;Luchtvaart;3 Minerale brandstoffen, smeermiddele...;Sint-Eustatius;2018;0;0;0
+642;Luchtvaart;3 Minerale brandstoffen, smeermiddele...;Saba;2013;0;0;0
+643;Luchtvaart;3 Minerale brandstoffen, smeermiddele...;Saba;2014;0;0;0
+644;Luchtvaart;3 Minerale brandstoffen, smeermiddele...;Saba;2015;0;0;0
+645;Luchtvaart;3 Minerale brandstoffen, smeermiddele...;Saba;2016;0;0;0
+646;Luchtvaart;3 Minerale brandstoffen, smeermiddele...;Saba;2017;0;0;0
+647;Luchtvaart;3 Minerale brandstoffen, smeermiddele...;Saba;2018;0;0;0
+648;Luchtvaart;4 Dierlijke en plantaardige oliën en ...;Caribisch Nederland;2013;0;0;0
+649;Luchtvaart;4 Dierlijke en plantaardige oliën en ...;Caribisch Nederland;2014;0;0;0
+650;Luchtvaart;4 Dierlijke en plantaardige oliën en ...;Caribisch Nederland;2015;0;0;0
+651;Luchtvaart;4 Dierlijke en plantaardige oliën en ...;Caribisch Nederland;2016;0;0;0
+652;Luchtvaart;4 Dierlijke en plantaardige oliën en ...;Caribisch Nederland;2017;0;0;0
+653;Luchtvaart;4 Dierlijke en plantaardige oliën en ...;Caribisch Nederland;2018;0;0;0
+654;Luchtvaart;4 Dierlijke en plantaardige oliën en ...;Bonaire;2013;0;0;0
+655;Luchtvaart;4 Dierlijke en plantaardige oliën en ...;Bonaire;2014;0;0;0
+656;Luchtvaart;4 Dierlijke en plantaardige oliën en ...;Bonaire;2015;0;0;0
+657;Luchtvaart;4 Dierlijke en plantaardige oliën en ...;Bonaire;2016;0;0;0
+658;Luchtvaart;4 Dierlijke en plantaardige oliën en ...;Bonaire;2017;0;0;0
+659;Luchtvaart;4 Dierlijke en plantaardige oliën en ...;Bonaire;2018;0;0;0
+660;Luchtvaart;4 Dierlijke en plantaardige oliën en ...;Sint-Eustatius;2013;0;0;0
+661;Luchtvaart;4 Dierlijke en plantaardige oliën en ...;Sint-Eustatius;2014;0;0;0
+662;Luchtvaart;4 Dierlijke en plantaardige oliën en ...;Sint-Eustatius;2015;0;0;0
+663;Luchtvaart;4 Dierlijke en plantaardige oliën en ...;Sint-Eustatius;2016;0;0;0
+664;Luchtvaart;4 Dierlijke en plantaardige oliën en ...;Sint-Eustatius;2017;0;0;0
+665;Luchtvaart;4 Dierlijke en plantaardige oliën en ...;Sint-Eustatius;2018;0;0;0
+666;Luchtvaart;4 Dierlijke en plantaardige oliën en ...;Saba;2013;0;0;0
+667;Luchtvaart;4 Dierlijke en plantaardige oliën en ...;Saba;2014;0;0;0
+668;Luchtvaart;4 Dierlijke en plantaardige oliën en ...;Saba;2015;0;0;0
+669;Luchtvaart;4 Dierlijke en plantaardige oliën en ...;Saba;2016;0;0;0
+670;Luchtvaart;4 Dierlijke en plantaardige oliën en ...;Saba;2017;0;0;0
+671;Luchtvaart;4 Dierlijke en plantaardige oliën en ...;Saba;2018;0;0;0
+672;Luchtvaart;5 Chemische producten;Caribisch Nederland;2013;60;60;0
+673;Luchtvaart;5 Chemische producten;Caribisch Nederland;2014;40;40;0
+674;Luchtvaart;5 Chemische producten;Caribisch Nederland;2015;50;50;0
+675;Luchtvaart;5 Chemische producten;Caribisch Nederland;2016;50;50;0
+676;Luchtvaart;5 Chemische producten;Caribisch Nederland;2017;50;50;0
+677;Luchtvaart;5 Chemische producten;Caribisch Nederland;2018;50;50;0
+678;Luchtvaart;5 Chemische producten;Bonaire;2013;60;60;0
+679;Luchtvaart;5 Chemische producten;Bonaire;2014;40;40;0
+680;Luchtvaart;5 Chemische producten;Bonaire;2015;50;50;0
+681;Luchtvaart;5 Chemische producten;Bonaire;2016;50;50;0
+682;Luchtvaart;5 Chemische producten;Bonaire;2017;50;50;0
+683;Luchtvaart;5 Chemische producten;Bonaire;2018;50;50;0
+684;Luchtvaart;5 Chemische producten;Sint-Eustatius;2013;0;0;0
+685;Luchtvaart;5 Chemische producten;Sint-Eustatius;2014;0;0;0
+686;Luchtvaart;5 Chemische producten;Sint-Eustatius;2015;0;0;0
+687;Luchtvaart;5 Chemische producten;Sint-Eustatius;2016;0;0;0
+688;Luchtvaart;5 Chemische producten;Sint-Eustatius;2017;0;0;0
+689;Luchtvaart;5 Chemische producten;Sint-Eustatius;2018;0;0;0
+690;Luchtvaart;5 Chemische producten;Saba;2013;0;0;0
+691;Luchtvaart;5 Chemische producten;Saba;2014;0;0;0
+692;Luchtvaart;5 Chemische producten;Saba;2015;0;0;0
+693;Luchtvaart;5 Chemische producten;Saba;2016;0;0;0
+694;Luchtvaart;5 Chemische producten;Saba;2017;0;0;0
+695;Luchtvaart;5 Chemische producten;Saba;2018;0;0;0
+696;Luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Caribisch Nederland;2013;30;30;0
+697;Luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Caribisch Nederland;2014;30;30;0
+698;Luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Caribisch Nederland;2015;60;50;0
+699;Luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Caribisch Nederland;2016;60;60;0
+700;Luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Caribisch Nederland;2017;60;60;0
+701;Luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Caribisch Nederland;2018;80;80;0
+702;Luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Bonaire;2013;30;30;0
+703;Luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Bonaire;2014;30;30;0
+704;Luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Bonaire;2015;60;50;0
+705;Luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Bonaire;2016;60;60;0
+706;Luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Bonaire;2017;60;60;0
+707;Luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Bonaire;2018;80;70;0
+708;Luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Sint-Eustatius;2013;0;0;0
+709;Luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Sint-Eustatius;2014;0;0;0
+710;Luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Sint-Eustatius;2015;0;0;0
+711;Luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Sint-Eustatius;2016;0;0;0
+712;Luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Sint-Eustatius;2017;0;0;0
+713;Luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Sint-Eustatius;2018;0;0;0
+714;Luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Saba;2013;0;0;0
+715;Luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Saba;2014;0;0;0
+716;Luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Saba;2015;0;0;0
+717;Luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Saba;2016;0;0;0
+718;Luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Saba;2017;0;0;0
+719;Luchtvaart;6 Fabrikaten, hoofdzakelijk gerangsch...;Saba;2018;0;0;0
+720;Luchtvaart;7 Machines en vervoermaterieel;Caribisch Nederland;2013;80;60;20
+721;Luchtvaart;7 Machines en vervoermaterieel;Caribisch Nederland;2014;50;50;0
+722;Luchtvaart;7 Machines en vervoermaterieel;Caribisch Nederland;2015;80;70;10
+723;Luchtvaart;7 Machines en vervoermaterieel;Caribisch Nederland;2016;90;90;0
+724;Luchtvaart;7 Machines en vervoermaterieel;Caribisch Nederland;2017;110;110;0
+725;Luchtvaart;7 Machines en vervoermaterieel;Caribisch Nederland;2018;90;90;0
+726;Luchtvaart;7 Machines en vervoermaterieel;Bonaire;2013;80;60;20
+727;Luchtvaart;7 Machines en vervoermaterieel;Bonaire;2014;50;50;0
+728;Luchtvaart;7 Machines en vervoermaterieel;Bonaire;2015;80;70;10
+729;Luchtvaart;7 Machines en vervoermaterieel;Bonaire;2016;90;90;0
+730;Luchtvaart;7 Machines en vervoermaterieel;Bonaire;2017;110;100;0
+731;Luchtvaart;7 Machines en vervoermaterieel;Bonaire;2018;90;90;0
+732;Luchtvaart;7 Machines en vervoermaterieel;Sint-Eustatius;2013;0;0;0
+733;Luchtvaart;7 Machines en vervoermaterieel;Sint-Eustatius;2014;0;0;0
+734;Luchtvaart;7 Machines en vervoermaterieel;Sint-Eustatius;2015;0;0;0
+735;Luchtvaart;7 Machines en vervoermaterieel;Sint-Eustatius;2016;0;0;0
+736;Luchtvaart;7 Machines en vervoermaterieel;Sint-Eustatius;2017;0;0;0
+737;Luchtvaart;7 Machines en vervoermaterieel;Sint-Eustatius;2018;0;0;0
+738;Luchtvaart;7 Machines en vervoermaterieel;Saba;2013;0;0;0
+739;Luchtvaart;7 Machines en vervoermaterieel;Saba;2014;0;0;0
+740;Luchtvaart;7 Machines en vervoermaterieel;Saba;2015;0;0;0
+741;Luchtvaart;7 Machines en vervoermaterieel;Saba;2016;0;0;0
+742;Luchtvaart;7 Machines en vervoermaterieel;Saba;2017;0;0;0
+743;Luchtvaart;7 Machines en vervoermaterieel;Saba;2018;0;0;0
+744;Luchtvaart;8 Diverse gefabriceerde goederen;Caribisch Nederland;2013;60;60;0
+745;Luchtvaart;8 Diverse gefabriceerde goederen;Caribisch Nederland;2014;50;50;0
+746;Luchtvaart;8 Diverse gefabriceerde goederen;Caribisch Nederland;2015;80;70;0
+747;Luchtvaart;8 Diverse gefabriceerde goederen;Caribisch Nederland;2016;90;90;0
+748;Luchtvaart;8 Diverse gefabriceerde goederen;Caribisch Nederland;2017;100;100;0
+749;Luchtvaart;8 Diverse gefabriceerde goederen;Caribisch Nederland;2018;140;130;0
+750;Luchtvaart;8 Diverse gefabriceerde goederen;Bonaire;2013;60;60;0
+751;Luchtvaart;8 Diverse gefabriceerde goederen;Bonaire;2014;50;50;0
+752;Luchtvaart;8 Diverse gefabriceerde goederen;Bonaire;2015;80;70;0
+753;Luchtvaart;8 Diverse gefabriceerde goederen;Bonaire;2016;90;90;0
+754;Luchtvaart;8 Diverse gefabriceerde goederen;Bonaire;2017;100;100;0
+755;Luchtvaart;8 Diverse gefabriceerde goederen;Bonaire;2018;140;130;0
+756;Luchtvaart;8 Diverse gefabriceerde goederen;Sint-Eustatius;2013;0;0;0
+757;Luchtvaart;8 Diverse gefabriceerde goederen;Sint-Eustatius;2014;0;0;0
+758;Luchtvaart;8 Diverse gefabriceerde goederen;Sint-Eustatius;2015;0;0;0
+759;Luchtvaart;8 Diverse gefabriceerde goederen;Sint-Eustatius;2016;0;0;0
+760;Luchtvaart;8 Diverse gefabriceerde goederen;Sint-Eustatius;2017;0;0;0
+761;Luchtvaart;8 Diverse gefabriceerde goederen;Sint-Eustatius;2018;0;0;0
+762;Luchtvaart;8 Diverse gefabriceerde goederen;Saba;2013;0;0;0
+763;Luchtvaart;8 Diverse gefabriceerde goederen;Saba;2014;0;0;0
+764;Luchtvaart;8 Diverse gefabriceerde goederen;Saba;2015;0;0;0
+765;Luchtvaart;8 Diverse gefabriceerde goederen;Saba;2016;0;0;0
+766;Luchtvaart;8 Diverse gefabriceerde goederen;Saba;2017;0;0;0
+767;Luchtvaart;8 Diverse gefabriceerde goederen;Saba;2018;0;0;0
+768;Luchtvaart;9 Niet afzonderlijk genoemde goederen;Caribisch Nederland;2013;220;210;0
+769;Luchtvaart;9 Niet afzonderlijk genoemde goederen;Caribisch Nederland;2014;160;150;0
+770;Luchtvaart;9 Niet afzonderlijk genoemde goederen;Caribisch Nederland;2015;80;70;0
+771;Luchtvaart;9 Niet afzonderlijk genoemde goederen;Caribisch Nederland;2016;50;50;0
+772;Luchtvaart;9 Niet afzonderlijk genoemde goederen;Caribisch Nederland;2017;40;30;0
+773;Luchtvaart;9 Niet afzonderlijk genoemde goederen;Caribisch Nederland;2018;40;40;0
+774;Luchtvaart;9 Niet afzonderlijk genoemde goederen;Bonaire;2013;140;140;0
+775;Luchtvaart;9 Niet afzonderlijk genoemde goederen;Bonaire;2014;100;90;0
+776;Luchtvaart;9 Niet afzonderlijk genoemde goederen;Bonaire;2015;0;0;0
+777;Luchtvaart;9 Niet afzonderlijk genoemde goederen;Bonaire;2016;0;0;0
+778;Luchtvaart;9 Niet afzonderlijk genoemde goederen;Bonaire;2017;0;0;0
+779;Luchtvaart;9 Niet afzonderlijk genoemde goederen;Bonaire;2018;0;0;0
+780;Luchtvaart;9 Niet afzonderlijk genoemde goederen;Sint-Eustatius;2013;40;30;0
+781;Luchtvaart;9 Niet afzonderlijk genoemde goederen;Sint-Eustatius;2014;40;40;0
+782;Luchtvaart;9 Niet afzonderlijk genoemde goederen;Sint-Eustatius;2015;70;60;0
+783;Luchtvaart;9 Niet afzonderlijk genoemde goederen;Sint-Eustatius;2016;40;40;0
+784;Luchtvaart;9 Niet afzonderlijk genoemde goederen;Sint-Eustatius;2017;20;20;0
+785;Luchtvaart;9 Niet afzonderlijk genoemde goederen;Sint-Eustatius;2018;30;30;0
+786;Luchtvaart;9 Niet afzonderlijk genoemde goederen;Saba;2013;40;40;0
+787;Luchtvaart;9 Niet afzonderlijk genoemde goederen;Saba;2014;20;20;0
+788;Luchtvaart;9 Niet afzonderlijk genoemde goederen;Saba;2015;10;10;0
+789;Luchtvaart;9 Niet afzonderlijk genoemde goederen;Saba;2016;10;10;0
+790;Luchtvaart;9 Niet afzonderlijk genoemde goederen;Saba;2017;10;10;0
+791;Luchtvaart;9 Niet afzonderlijk genoemde goederen;Saba;2018;10;10;0

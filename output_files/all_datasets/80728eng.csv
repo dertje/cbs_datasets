@@ -1,0 +1,457 @@
+﻿ID;SIC2008;Periods;AutumnSurveyT1_1;SpringSurveyT_2;AutumnSurveyT_3;AutumnSurveyT1_4;AutumnSurveyT_5;AutumnSurveyT1_6;AutumnSurveyT_7;AutumnSurveyT1_8;AutumnSurveyT_9;AutumnSurveyT1_10;AutumnSurveyT_11
+0;C Manufacturing;2010;;;-21.0;;38.0;;32.0;;14.0;;17.0
+1;C Manufacturing;2011;24.0;25.0;26.0;40.0;37.0;34.0;35.0;16.0;17.0;10.0;11.0
+2;C Manufacturing;2012;5.0;7.0;5.0;43.0;36.0;32.0;34.0;14.0;19.0;10.0;11.0
+3;C Manufacturing;2013;1.0;7.0;-3.0;37.0;39.0;32.0;28.0;20.0;19.0;11.0;15.0
+4;C Manufacturing;2014;2.0;9.0;1.0;42.0;44.0;30.0;30.0;19.0;18.0;10.0;9.0
+5;C Manufacturing;2015;15.0;16.0;9.0;44.0;40.0;30.0;33.0;18.0;16.0;8.0;11.0
+6;C Manufacturing;2016;4.0;-3.0;4.0;40.0;43.0;34.0;33.0;17.0;15.0;10.0;10.0
+7;C Manufacturing;2017;13.0;15.0;19.0;42.0;40.0;32.0;35.0;16.0;15.0;10.0;10.0
+8;C Manufacturing;2018;16.0;25.0;44.0;35.0;33.0;43.0;41.0;14.0;16.0;8.0;10.0
+9;C Manufacturing;2019;-7.0;8.0;3.0;36.0;35.0;33.0;42.0;19.0;13.0;12.0;9.0
+10;C Manufacturing;2020;-2.0;-11.0;-11.0;40.0;36.0;32.0;34.0;14.0;17.0;13.0;12.0
+11;C Manufacturing;2021;-3.0;6.0;;39.0;;31.0;;17.0;;14.0;
+12;10-12 Manufacture of food and beverages;2010;;;-24.0;;37.0;;35.0;;18.0;;10.0
+13;10-12 Manufacture of food and beverages;2011;15.0;8.0;13.0;32.0;35.0;43.0;37.0;15.0;18.0;9.0;10.0
+14;10-12 Manufacture of food and beverages;2012;13.0;23.0;20.0;36.0;35.0;34.0;33.0;19.0;20.0;11.0;12.0
+15;10-12 Manufacture of food and beverages;2013;24.0;21.0;21.0;32.0;32.0;39.0;33.0;20.0;22.0;9.0;12.0
+16;10-12 Manufacture of food and beverages;2014;8.0;8.0;-15.0;29.0;35.0;37.0;34.0;23.0;20.0;11.0;11.0
+17;10-12 Manufacture of food and beverages;2015;13.0;8.0;4.0;34.0;39.0;34.0;32.0;19.0;19.0;12.0;10.0
+18;10-12 Manufacture of food and beverages;2016;3.0;2.0;13.0;38.0;38.0;32.0;34.0;20.0;18.0;11.0;10.0
+19;10-12 Manufacture of food and beverages;2017;-3.0;1.0;7.0;34.0;42.0;35.0;34.0;20.0;15.0;11.0;9.0
+20;10-12 Manufacture of food and beverages;2018;8.0;12.0;36.0;37.0;30.0;36.0;39.0;18.0;19.0;9.0;12.0
+21;10-12 Manufacture of food and beverages;2019;5.0;6.0;-10.0;32.0;37.0;34.0;29.0;21.0;22.0;13.0;12.0
+22;10-12 Manufacture of food and beverages;2020;17.0;-3.0;-1.0;33.0;32.0;38.0;37.0;19.0;18.0;11.0;13.0
+23;10-12 Manufacture of food and beverages;2021;-2.0;13.0;;36.0;;31.0;;20.0;;13.0;
+24;10 Manufacture of food products;2010;;;-23.0;;37.0;;36.0;;20.0;;8.0
+25;10 Manufacture of food products;2011;15.0;8.0;17.0;32.0;35.0;44.0;36.0;17.0;19.0;8.0;10.0
+26;10 Manufacture of food products;2012;14.0;25.0;20.0;36.0;33.0;34.0;33.0;20.0;22.0;10.0;11.0
+27;10 Manufacture of food products;2013;22.0;18.0;15.0;31.0;32.0;38.0;35.0;22.0;23.0;9.0;10.0
+28;10 Manufacture of food products;2014;12.0;10.0;-14.0;27.0;36.0;39.0;34.0;24.0;20.0;10.0;11.0
+29;10 Manufacture of food products;2015;11.0;8.0;1.0;35.0;39.0;33.0;34.0;20.0;18.0;12.0;9.0
+30;10 Manufacture of food products;2016;2.0;2.0;9.0;37.0;35.0;33.0;36.0;20.0;19.0;10.0;10.0
+31;10 Manufacture of food products;2017;-1.0;2.0;9.0;33.0;42.0;36.0;33.0;21.0;16.0;10.0;9.0
+32;10 Manufacture of food products;2018;5.0;10.0;28.0;36.0;31.0;36.0;39.0;19.0;19.0;9.0;11.0
+33;10 Manufacture of food products;2019;10.0;6.0;-15.0;33.0;37.0;33.0;29.0;21.0;23.0;13.0;11.0
+34;10 Manufacture of food products;2020;17.0;2.0;4.0;32.0;31.0;37.0;38.0;20.0;18.0;11.0;13.0
+35;10 Manufacture of food products;2021;-4.0;16.0;;35.0;;32.0;;20.0;;13.0;
+36;11 Manufacture of beverages;2010;;;-41.0;;43.0;;31.0;;6.0;;20.0
+37;11 Manufacture of beverages;2011;19.0;9.0;-15.0;38.0;49.0;41.0;32.0;6.0;6.0;15.0;13.0
+38;11 Manufacture of beverages;2012;25.0;30.0;45.0;48.0;52.0;28.0;34.0;10.0;5.0;14.0;10.0
+39;11 Manufacture of beverages;2013;29.0;41.0;76.0;44.0;37.0;45.0;27.0;3.0;16.0;7.0;20.0
+40;11 Manufacture of beverages;2014;-5.0;-1.0;-15.0;41.0;36.0;23.0;42.0;17.0;11.0;18.0;12.0
+41;11 Manufacture of beverages;2015;26.0;4.0;41.0;30.0;43.0;46.0;26.0;14.0;17.0;10.0;14.0
+42;11 Manufacture of beverages;2016;6.0;-7.0;19.0;43.0;52.0;28.0;28.0;14.0;9.0;16.0;11.0
+43;11 Manufacture of beverages;2017;-8.0;-8.0;12.0;44.0;41.0;31.0;39.0;11.0;7.0;15.0;13.0
+44;11 Manufacture of beverages;2018;24.0;32.0;;44.0;18.0;34.0;64.0;10.0;11.0;12.0;7.0
+45;11 Manufacture of beverages;2019;;5.0;23.0;22.0;42.0;49.0;33.0;12.0;15.0;17.0;10.0
+46;11 Manufacture of beverages;2020;21.0;-22.0;;34.0;;42.0;;16.0;;9.0;
+47;11 Manufacture of beverages;2021;;;;;;;;;;;
+48;12 Manufacture of tobacco products;2010;;;9.0;;38.0;;27.0;;8.0;;27.0
+49;12 Manufacture of tobacco products;2011;-3.0;2.0;-7.0;34.0;14.0;37.0;49.0;7.0;18.0;23.0;18.0
+50;12 Manufacture of tobacco products;2012;-24.0;-19.0;-14.0;19.0;33.0;37.0;30.0;25.0;16.0;19.0;21.0
+51;12 Manufacture of tobacco products;2013;48.0;50.0;63.0;21.0;25.0;35.0;17.0;23.0;22.0;20.0;36.0
+52;12 Manufacture of tobacco products;2014;-33.0;-8.0;-25.0;29.0;17.0;17.0;19.0;19.0;48.0;34.0;16.0
+53;12 Manufacture of tobacco products;2015;3.0;-3.0;-18.0;21.0;31.0;16.0;8.0;29.0;51.0;34.0;10.0
+54;12 Manufacture of tobacco products;2016;1.0;114.0;287.0;31.0;57.0;5.0;6.0;37.0;22.0;27.0;14.0
+55;12 Manufacture of tobacco products;2017;-23.0;-33.0;-54.0;50.0;23.0;6.0;21.0;23.0;38.0;21.0;18.0
+56;12 Manufacture of tobacco products;2018;64.0;34.0;;16.0;25.0;16.0;5.0;51.0;19.0;17.0;51.0
+57;12 Manufacture of tobacco products;2019;;19.0;9.0;16.0;7.0;6.0;1.0;26.0;12.0;52.0;80.0
+58;12 Manufacture of tobacco products;2020;-17.0;-81.0;;39.0;;2.0;;18.0;;41.0;
+59;12 Manufacture of tobacco products;2021;;;;;;;;;;;
+60;13 Manufacture of textiles;2010;;;6.0;;29.0;;43.0;;21.0;;7.0
+61;13 Manufacture of textiles;2011;-20.0;10.0;34.0;31.0;31.0;35.0;45.0;27.0;14.0;7.0;9.0
+62;13 Manufacture of textiles;2012;-10.0;-16.0;7.0;38.0;27.0;37.0;49.0;13.0;17.0;13.0;8.0
+63;13 Manufacture of textiles;2013;-24.0;7.0;-15.0;46.0;31.0;27.0;37.0;22.0;19.0;5.0;14.0
+64;13 Manufacture of textiles;2014;42.0;-6.0;2.0;32.0;43.0;34.0;15.0;16.0;28.0;18.0;14.0
+65;13 Manufacture of textiles;2015;-7.0;-20.0;-21.0;36.0;24.0;10.0;34.0;34.0;33.0;20.0;8.0
+66;13 Manufacture of textiles;2016;10.0;-31.0;-4.0;26.0;31.0;49.0;31.0;17.0;28.0;8.0;10.0
+67;13 Manufacture of textiles;2017;42.0;69.0;58.0;26.0;25.0;44.0;44.0;22.0;22.0;7.0;9.0
+68;13 Manufacture of textiles;2018;23.0;28.0;51.0;27.0;38.0;45.0;27.0;17.0;26.0;11.0;9.0
+69;13 Manufacture of textiles;2019;36.0;17.0;;40.0;;40.0;;14.0;;6.0;
+70;13 Manufacture of textiles;2020;;-23.0;-25.0;;30.0;;42.0;;12.0;;16.0
+71;13 Manufacture of textiles;2021;6.0;9.0;;39.0;;17.0;;24.0;;19.0;
+72;13-15 Man. of textile-, leatherproducts;2010;;;-15.0;;34.0;;38.0;;22.0;;6.0
+73;13-15 Man. of textile-, leatherproducts;2011;-19.0;3.0;16.0;34.0;35.0;32.0;42.0;28.0;14.0;7.0;9.0
+74;13-15 Man. of textile-, leatherproducts;2012;-10.0;-11.0;21.0;40.0;29.0;34.0;42.0;13.0;15.0;12.0;14.0
+75;13-15 Man. of textile-, leatherproducts;2013;-29.0;8.0;39.0;45.0;26.0;28.0;51.0;23.0;15.0;4.0;8.0
+76;13-15 Man. of textile-, leatherproducts;2014;-1.0;-8.0;16.0;35.0;42.0;35.0;17.0;16.0;28.0;14.0;13.0
+77;13-15 Man. of textile-, leatherproducts;2015;-8.0;-19.0;-20.0;37.0;25.0;14.0;35.0;33.0;31.0;15.0;9.0
+78;13-15 Man. of textile-, leatherproducts;2016;10.0;-26.0;-6.0;29.0;39.0;44.0;27.0;19.0;25.0;8.0;9.0
+79;13-15 Man. of textile-, leatherproducts;2017;29.0;44.0;55.0;33.0;24.0;39.0;41.0;21.0;23.0;7.0;12.0
+80;13-15 Man. of textile-, leatherproducts;2018;18.0;33.0;63.0;30.0;39.0;41.0;25.0;18.0;26.0;11.0;10.0
+81;13-15 Man. of textile-, leatherproducts;2019;12.0;5.0;4.0;41.0;35.0;36.0;37.0;17.0;16.0;6.0;11.0
+82;13-15 Man. of textile-, leatherproducts;2020;-10.0;-19.0;-23.0;42.0;32.0;23.0;37.0;21.0;17.0;14.0;14.0
+83;13-15 Man. of textile-, leatherproducts;2021;12.0;24.0;;36.0;;26.0;;23.0;;15.0;
+84;14 Manufacture of wearing apparel;2010;;;-23.0;;62.0;;17.0;;20.0;;1.0
+85;14 Manufacture of wearing apparel;2011;-23.0;-52.0;-86.0;35.0;32.0;22.0;11.0;41.0;14.0;2.0;42.0
+86;14 Manufacture of wearing apparel;2012;2.0;-59.0;;53.0;32.0;25.0;6.0;18.0;1.0;4.0;61.0
+87;14 Manufacture of wearing apparel;2013;;-8.0;;23.0;17.0;39.0;75.0;36.0;9.0;3.0;0.0
+88;14 Manufacture of wearing apparel;2014;;21.0;;65.0;38.0;18.0;16.0;17.0;39.0;0.0;8.0
+89;14 Manufacture of wearing apparel;2015;;-58.0;-47.0;71.0;25.0;8.0;65.0;17.0;9.0;4.0;0.0
+90;14 Manufacture of wearing apparel;2016;35.0;;0.0;35.0;46.0;47.0;14.0;17.0;30.0;0.0;9.0
+91;14 Manufacture of wearing apparel;2017;-11.0;;;43.0;29.0;12.0;17.0;32.0;49.0;13.0;5.0
+92;14 Manufacture of wearing apparel;2018;;-50.0;;36.0;31.0;30.0;8.0;23.0;57.0;11.0;4.0
+93;14 Manufacture of wearing apparel;2019;;-33.0;;26.0;;14.0;;52.0;;8.0;
+94;14 Manufacture of wearing apparel;2020;;-39.0;;;;;;;;;
+95;14 Manufacture of wearing apparel;2021;;;;;;;;;;;
+96;15 Manufacture of leather and footwear;2010;;;-68.0;;51.0;;12.0;;34.0;;3.0
+97;15 Manufacture of leather and footwear;2011;-10.0;-41.0;-39.0;51.0;71.0;17.0;9.0;22.0;11.0;10.0;9.0
+98;15 Manufacture of leather and footwear;2012;-7.0;70.0;;65.0;49.0;10.0;33.0;22.0;15.0;3.0;3.0
+99;15 Manufacture of leather and footwear;2013;;16.0;;38.0;21.0;26.0;67.0;33.0;10.0;3.0;2.0
+100;15 Manufacture of leather and footwear;2014;;-28.0;;42.0;33.0;37.0;34.0;18.0;26.0;2.0;7.0
+101;15 Manufacture of leather and footwear;2015;;20.0;-10.0;31.0;30.0;32.0;36.0;34.0;19.0;3.0;15.0
+102;15 Manufacture of leather and footwear;2016;8.0;;-13.0;39.0;61.0;26.0;17.0;24.0;15.0;10.0;8.0
+103;15 Manufacture of leather and footwear;2017;1.0;;;58.0;23.0;22.0;34.0;18.0;19.0;2.0;24.0
+104;15 Manufacture of leather and footwear;2018;;212.0;;39.0;44.0;28.0;22.0;21.0;22.0;12.0;12.0
+105;15 Manufacture of leather and footwear;2019;;-26.0;-30.0;54.0;46.0;18.0;26.0;23.0;22.0;5.0;5.0
+106;15 Manufacture of leather and footwear;2020;9.0;18.0;;47.0;;18.0;;27.0;;8.0;
+107;15 Manufacture of leather and footwear;2021;;;;;;;;;;;
+108;16-18 Man. wood en paperprod., printing;2010;;;-37.0;;32.0;;36.0;;22.0;;10.0
+109;16-18 Man. wood en paperprod., printing;2011;26.0;-7.0;;30.0;;30.0;;31.0;;9.0;
+110;16-18 Man. wood en paperprod., printing;2012;;;;;;;;;;;
+111;16-18 Man. wood en paperprod., printing;2013;;;;;;;;;;;
+112;16-18 Man. wood en paperprod., printing;2014;;;;;;;;;;;
+113;16-18 Man. wood en paperprod., printing;2015;;;;;;;;;;;
+114;16-18 Man. wood en paperprod., printing;2016;;;;;;;;;;;
+115;16-18 Man. wood en paperprod., printing;2017;;;;;;;;;;;
+116;16-18 Man. wood en paperprod., printing;2018;;;;;;;;;;;
+117;16-18 Man. wood en paperprod., printing;2019;;;;;;;;;;;
+118;16-18 Man. wood en paperprod., printing;2020;;;;;;;;;;;
+119;16-18 Man. wood en paperprod., printing;2021;;;;;;;;;;;
+120;16+23 Man of wooden and buildingmaterial;2010;;;-29.0;;50.0;;27.0;;18.0;;5.0
+121;16+23 Man of wooden and buildingmaterial;2011;10.0;-7.0;-11.0;61.0;53.0;13.0;26.0;21.0;14.0;5.0;6.0
+122;16+23 Man of wooden and buildingmaterial;2012;-7.0;11.0;-16.0;56.0;53.0;19.0;28.0;20.0;12.0;5.0;6.0
+123;16+23 Man of wooden and buildingmaterial;2013;-9.0;5.0;9.0;54.0;51.0;25.0;20.0;12.0;20.0;8.0;9.0
+124;16+23 Man of wooden and buildingmaterial;2014;5.0;-7.0;-12.0;44.0;54.0;30.0;22.0;19.0;17.0;8.0;6.0
+125;16+23 Man of wooden and buildingmaterial;2015;14.0;-10.0;3.0;52.0;53.0;13.0;24.0;27.0;18.0;8.0;5.0
+126;16+23 Man of wooden and buildingmaterial;2016;4.0;-7.0;3.0;57.0;44.0;22.0;27.0;14.0;20.0;7.0;8.0
+127;16+23 Man of wooden and buildingmaterial;2017;22.0;24.0;38.0;52.0;52.0;18.0;26.0;23.0;15.0;8.0;7.0
+128;16+23 Man of wooden and buildingmaterial;2018;12.0;-14.0;-6.0;40.0;56.0;34.0;23.0;17.0;13.0;9.0;8.0
+129;16+23 Man of wooden and buildingmaterial;2019;71.0;36.0;29.0;40.0;46.0;39.0;30.0;11.0;15.0;10.0;8.0
+130;16+23 Man of wooden and buildingmaterial;2020;-5.0;-6.0;-12.0;50.0;53.0;29.0;23.0;13.0;17.0;8.0;7.0
+131;16+23 Man of wooden and buildingmaterial;2021;3.0;-5.0;;49.0;;27.0;;17.0;;7.0;
+132;16 Manufacture of wood products;2010;;;-47.0;;27.0;;44.0;;27.0;;2.0
+133;16 Manufacture of wood products;2011;-2.0;-50.0;-36.0;36.0;46.0;24.0;33.0;39.0;17.0;1.0;4.0
+134;16 Manufacture of wood products;2012;-22.0;22.0;-10.0;44.0;50.0;23.0;37.0;31.0;10.0;2.0;2.0
+135;16 Manufacture of wood products;2013;-5.0;-20.0;3.0;54.0;31.0;30.0;29.0;11.0;32.0;5.0;7.0
+136;16 Manufacture of wood products;2014;-21.0;-23.0;-26.0;46.0;41.0;26.0;25.0;23.0;27.0;5.0;8.0
+137;16 Manufacture of wood products;2015;89.0;-30.0;34.0;38.0;43.0;23.0;41.0;35.0;12.0;5.0;4.0
+138;16 Manufacture of wood products;2016;25.0;-9.0;32.0;52.0;24.0;26.0;42.0;18.0;24.0;4.0;10.0
+139;16 Manufacture of wood products;2017;-16.0;-28.0;33.0;32.0;44.0;19.0;36.0;39.0;15.0;10.0;5.0
+140;16 Manufacture of wood products;2018;29.0;-25.0;-23.0;22.0;40.0;53.0;36.0;15.0;15.0;10.0;9.0
+141;16 Manufacture of wood products;2019;34.0;20.0;1.0;25.0;37.0;42.0;43.0;15.0;10.0;18.0;10.0
+142;16 Manufacture of wood products;2020;-27.0;-29.0;-21.0;28.0;35.0;45.0;38.0;17.0;21.0;10.0;6.0
+143;16 Manufacture of wood products;2021;5.0;24.0;;32.0;;39.0;;21.0;;7.0;
+144;17 Manufacture of paper;2010;;;-23.0;;31.0;;28.0;;22.0;;19.0
+145;17 Manufacture of paper;2011;62.0;33.0;20.0;28.0;34.0;24.0;40.0;35.0;20.0;13.0;6.0
+146;17 Manufacture of paper;2012;4.0;1.0;7.0;40.0;42.0;33.0;26.0;23.0;26.0;5.0;6.0
+147;17 Manufacture of paper;2013;2.0;9.0;8.0;42.0;42.0;29.0;24.0;23.0;26.0;5.0;7.0
+148;17 Manufacture of paper;2014;-10.0;-15.0;-1.0;48.0;44.0;18.0;23.0;26.0;24.0;9.0;9.0
+149;17 Manufacture of paper;2015;48.0;68.0;38.0;36.0;44.0;32.0;34.0;22.0;17.0;9.0;4.0
+150;17 Manufacture of paper;2016;58.0;97.0;85.0;28.0;28.0;55.0;50.0;13.0;17.0;4.0;5.0
+151;17 Manufacture of paper;2017;-29.0;-28.0;-36.0;47.0;34.0;26.0;35.0;20.0;22.0;6.0;9.0
+152;17 Manufacture of paper;2018;-10.0;-11.0;-14.0;44.0;41.0;26.0;38.0;23.0;15.0;7.0;6.0
+153;17 Manufacture of paper;2019;-4.0;8.0;49.0;42.0;47.0;34.0;32.0;15.0;14.0;9.0;7.0
+154;17 Manufacture of paper;2020;11.0;-15.0;-10.0;46.0;42.0;32.0;39.0;14.0;12.0;8.0;7.0
+155;17 Manufacture of paper;2021;12.0;38.0;;43.0;;30.0;;14.0;;13.0;
+156;17-18 Manufacture of paper and printing;2010;;;-34.0;;33.0;;34.0;;21.0;;12.0
+157;17-18 Manufacture of paper and printing;2011;31.0;2.0;7.0;30.0;33.0;31.0;41.0;30.0;21.0;9.0;5.0
+158;17-18 Manufacture of paper and printing;2012;5.0;-8.0;-1.0;42.0;43.0;31.0;29.0;22.0;23.0;5.0;4.0
+159;17-18 Manufacture of paper and printing;2013;8.0;14.0;22.0;44.0;40.0;32.0;31.0;20.0;24.0;4.0;6.0
+160;17-18 Manufacture of paper and printing;2014;9.0;-15.0;3.0;41.0;43.0;33.0;30.0;20.0;21.0;5.0;6.0
+161;17-18 Manufacture of paper and printing;2015;24.0;31.0;36.0;41.0;39.0;32.0;40.0;21.0;17.0;6.0;4.0
+162;17-18 Manufacture of paper and printing;2016;32.0;69.0;73.0;33.0;30.0;49.0;49.0;14.0;16.0;4.0;4.0
+163;17-18 Manufacture of paper and printing;2017;-29.0;-23.0;-26.0;43.0;37.0;29.0;33.0;22.0;22.0;5.0;8.0
+164;17-18 Manufacture of paper and printing;2018;-11.0;-8.0;-12.0;43.0;42.0;27.0;37.0;24.0;15.0;6.0;6.0
+165;17-18 Manufacture of paper and printing;2019;-11.0;3.0;37.0;42.0;44.0;33.0;36.0;16.0;14.0;9.0;6.0
+166;17-18 Manufacture of paper and printing;2020;12.0;-14.0;-14.0;42.0;42.0;35.0;38.0;15.0;13.0;8.0;7.0
+167;17-18 Manufacture of paper and printing;2021;8.0;31.0;;44.0;;29.0;;15.0;;12.0;
+168;18 Printing and reproduction;2010;;;-44.0;;35.0;;41.0;;21.0;;3.0
+169;18 Printing and reproduction;2011;-4.0;-31.0;-7.0;33.0;33.0;45.0;42.0;20.0;22.0;2.0;3.0
+170;18 Printing and reproduction;2012;7.0;-18.0;-14.0;45.0;44.0;30.0;35.0;21.0;19.0;4.0;2.0
+171;18 Printing and reproduction;2013;20.0;24.0;59.0;46.0;36.0;35.0;41.0;16.0;19.0;3.0;3.0
+172;18 Printing and reproduction;2014;42.0;-16.0;7.0;34.0;42.0;50.0;41.0;14.0;15.0;1.0;2.0
+173;18 Printing and reproduction;2015;-7.0;-20.0;34.0;50.0;26.0;30.0;55.0;18.0;15.0;1.0;4.0
+174;18 Printing and reproduction;2016;-10.0;6.0;46.0;44.0;36.0;33.0;47.0;17.0;14.0;6.0;3.0
+175;18 Printing and reproduction;2017;-26.0;-8.0;17.0;33.0;45.0;37.0;27.0;27.0;22.0;3.0;6.0
+176;18 Printing and reproduction;2018;-13.0;3.0;-7.0;38.0;40.0;30.0;35.0;28.0;16.0;4.0;9.0
+177;18 Printing and reproduction;2019;-37.0;-10.0;9.0;43.0;35.0;29.0;50.0;20.0;12.0;8.0;3.0
+178;18 Printing and reproduction;2020;13.0;-11.0;-30.0;31.0;39.0;45.0;33.0;18.0;18.0;6.0;10.0
+179;18 Printing and reproduction;2021;-13.0;17.0;;51.0;;25.0;;20.0;;4.0;
+180;19-22 Refineries and chemistry;2010;;;-6.0;;39.0;;28.0;;10.0;;23.0
+181;19-22 Refineries and chemistry;2011;38.0;51.0;40.0;46.0;38.0;31.0;38.0;13.0;11.0;10.0;13.0
+182;19-22 Refineries and chemistry;2012;17.0;10.0;4.0;47.0;35.0;29.0;35.0;12.0;16.0;12.0;14.0
+183;19-22 Refineries and chemistry;2013;-10.0;1.0;-19.0;39.0;38.0;27.0;22.0;18.0;17.0;16.0;23.0
+184;19-22 Refineries and chemistry;2014;1.0;12.0;9.0;47.0;44.0;25.0;28.0;17.0;17.0;12.0;11.0
+185;19-22 Refineries and chemistry;2015;23.0;17.0;14.0;50.0;36.0;28.0;33.0;15.0;13.0;7.0;18.0
+186;19-22 Refineries and chemistry;2016;-3.0;-7.0;-13.0;39.0;49.0;30.0;25.0;16.0;12.0;15.0;14.0
+187;19-22 Refineries and chemistry;2017;40.0;49.0;40.0;45.0;38.0;28.0;36.0;15.0;10.0;12.0;16.0
+188;19-22 Refineries and chemistry;2018;39.0;59.0;83.0;28.0;33.0;54.0;47.0;9.0;11.0;9.0;9.0
+189;19-22 Refineries and chemistry;2019;-24.0;4.0;-3.0;44.0;36.0;26.0;45.0;17.0;10.0;13.0;10.0
+190;19-22 Refineries and chemistry;2020;-11.0;-13.0;-3.0;51.0;38.0;16.0;27.0;12.0;19.0;20.0;16.0
+191;19-22 Refineries and chemistry;2021;-11.0;-2.0;;43.0;;26.0;;12.0;;19.0;
+192;19 Manufacture of coke and petroleum;2010;;;44.0;;55.0;;16.0;;2.0;;27.0
+193;19 Manufacture of coke and petroleum;2011;16.0;21.0;-52.0;66.0;43.0;27.0;15.0;4.0;16.0;4.0;26.0
+194;19 Manufacture of coke and petroleum;2012;248.0;17.0;-25.0;80.0;53.0;6.0;17.0;7.0;6.0;7.0;24.0
+195;19 Manufacture of coke and petroleum;2013;-3.0;9.0;-58.0;62.0;50.0;5.0;8.0;12.0;11.0;22.0;31.0
+196;19 Manufacture of coke and petroleum;2014;39.0;13.0;32.0;74.0;50.0;3.0;25.0;10.0;10.0;13.0;15.0
+197;19 Manufacture of coke and petroleum;2015;-22.0;-35.0;-34.0;67.0;36.0;23.0;15.0;1.0;8.0;9.0;41.0
+198;19 Manufacture of coke and petroleum;2016;1.0;;14.0;41.0;37.0;23.0;29.0;5.0;13.0;31.0;21.0
+199;19 Manufacture of coke and petroleum;2017;-14.0;52.0;;34.0;33.0;20.0;33.0;13.0;10.0;33.0;24.0
+200;19 Manufacture of coke and petroleum;2018;;;;10.0;16.0;78.0;67.0;4.0;10.0;8.0;7.0
+201;19 Manufacture of coke and petroleum;2019;-76.0;;0.0;39.0;20.0;21.0;69.0;22.0;6.0;18.0;5.0
+202;19 Manufacture of coke and petroleum;2020;-45.0;-58.0;-39.0;56.0;51.0;13.0;12.0;19.0;16.0;12.0;22.0
+203;19 Manufacture of coke and petroleum;2021;-59.0;;;46.0;;17.0;;11.0;;26.0;
+204;20 Manufacture of chemicals;2010;;;-20.0;;32.0;;27.0;;13.0;;27.0
+205;20 Manufacture of chemicals;2011;70.0;73.0;89.0;39.0;37.0;33.0;41.0;15.0;9.0;12.0;13.0
+206;20 Manufacture of chemicals;2012;-11.0;11.0;16.0;36.0;32.0;37.0;38.0;11.0;18.0;16.0;13.0
+207;20 Manufacture of chemicals;2013;-22.0;-16.0;-15.0;39.0;37.0;24.0;19.0;20.0;17.0;17.0;26.0
+208;20 Manufacture of chemicals;2014;-14.0;8.0;4.0;47.0;46.0;20.0;24.0;19.0;20.0;14.0;10.0
+209;20 Manufacture of chemicals;2015;52.0;56.0;48.0;50.0;40.0;26.0;35.0;17.0;13.0;7.0;12.0
+210;20 Manufacture of chemicals;2016;-16.0;-10.0;-25.0;47.0;60.0;23.0;16.0;16.0;9.0;14.0;15.0
+211;20 Manufacture of chemicals;2017;65.0;51.0;;50.0;42.0;24.0;33.0;15.0;9.0;11.0;16.0
+212;20 Manufacture of chemicals;2018;;10.0;17.0;49.0;49.0;27.0;28.0;11.0;11.0;13.0;12.0
+213;20 Manufacture of chemicals;2019;10.0;1.0;-7.0;52.0;46.0;18.0;30.0;16.0;11.0;14.0;13.0
+214;20 Manufacture of chemicals;2020;6.0;-2.0;9.0;54.0;40.0;9.0;21.0;10.0;23.0;27.0;17.0
+215;20 Manufacture of chemicals;2021;1.0;8.0;;47.0;;20.0;;12.0;;22.0;
+216;21 Manufacture of pharmaceuticals;2010;;;-24.0;;46.0;;27.0;;12.0;;15.0
+217;21 Manufacture of pharmaceuticals;2011;8.0;2.0;14.0;42.0;36.0;32.0;37.0;17.0;21.0;9.0;6.0
+218;21 Manufacture of pharmaceuticals;2012;9.0;43.0;48.0;26.0;25.0;45.0;51.0;19.0;10.0;10.0;13.0
+219;21 Manufacture of pharmaceuticals;2013;59.0;172.0;97.0;14.0;39.0;59.0;34.0;13.0;16.0;13.0;12.0
+220;21 Manufacture of pharmaceuticals;2014;51.0;65.0;5.0;22.0;23.0;66.0;51.0;6.0;21.0;6.0;5.0
+221;21 Manufacture of pharmaceuticals;2015;0.0;2.0;1.0;32.0;18.0;38.0;54.0;26.0;18.0;4.0;10.0
+222;21 Manufacture of pharmaceuticals;2016;26.0;;21.0;18.0;32.0;50.0;48.0;25.0;18.0;7.0;2.0
+223;21 Manufacture of pharmaceuticals;2017;10.0;65.0;61.0;33.0;33.0;49.0;44.0;15.0;16.0;2.0;7.0
+224;21 Manufacture of pharmaceuticals;2018;46.0;;116.0;36.0;27.0;54.0;55.0;7.0;11.0;3.0;7.0
+225;21 Manufacture of pharmaceuticals;2019;-11.0;;-14.0;30.0;34.0;48.0;45.0;11.0;10.0;11.0;10.0
+226;21 Manufacture of pharmaceuticals;2020;-32.0;14.0;16.0;46.0;24.0;28.0;60.0;14.0;12.0;12.0;5.0
+227;21 Manufacture of pharmaceuticals;2021;6.0;;;40.0;;42.0;;11.0;;7.0;
+228;Other industry;2010;;;-21.0;;48.0;;34.0;;14.0;;4.0
+229;Other industry;2011;1.0;2.0;18.0;57.0;50.0;25.0;33.0;14.0;11.0;4.0;6.0
+230;Other industry;2012;0.0;3.0;2.0;65.0;54.0;20.0;27.0;11.0;15.0;4.0;4.0
+231;Other industry;2013;9.0;21.0;2.0;52.0;50.0;20.0;29.0;19.0;16.0;9.0;4.0
+232;Other industry;2014;21.0;-9.0;14.0;49.0;51.0;31.0;37.0;17.0;9.0;3.0;3.0
+233;Other industry;2015;-11.0;4.0;;45.0;;34.0;;18.0;;4.0;
+234;Other industry;2016;;;;;;;;;;;
+235;Other industry;2017;;;;;;;;;;;
+236;Other industry;2018;;;;;;;;;;;
+237;Other industry;2019;;;;;;;;;;;
+238;Other industry;2020;;;;;;;;;;;
+239;Other industry;2021;;;;;;;;;;;
+240;22 Manufacture rubber, plastic products;2010;;;10.0;;24.0;;58.0;;14.0;;4.0
+241;22 Manufacture rubber, plastic products;2011;-22.0;58.0;44.0;34.0;37.0;35.0;36.0;26.0;21.0;5.0;6.0
+242;22 Manufacture rubber, plastic products;2012;9.0;-21.0;-27.0;32.0;39.0;41.0;33.0;21.0;22.0;6.0;7.0
+243;22 Manufacture rubber, plastic products;2013;18.0;9.0;17.0;36.0;29.0;40.0;39.0;16.0;25.0;7.0;7.0
+244;22 Manufacture rubber, plastic products;2014;-3.0;-1.0;2.0;32.0;36.0;31.0;34.0;30.0;22.0;7.0;8.0
+245;22 Manufacture rubber, plastic products;2015;3.0;11.0;10.0;34.0;31.0;41.0;43.0;19.0;21.0;6.0;5.0
+246;22 Manufacture rubber, plastic products;2016;31.0;34.0;15.0;31.0;27.0;46.0;45.0;18.0;21.0;5.0;7.0
+247;22 Manufacture rubber, plastic products;2017;19.0;30.0;33.0;29.0;31.0;49.0;48.0;16.0;15.0;6.0;6.0
+248;22 Manufacture rubber, plastic products;2018;30.0;26.0;;27.0;29.0;47.0;47.0;20.0;17.0;6.0;7.0
+249;22 Manufacture rubber, plastic products;2019;26.0;20.0;20.0;26.0;31.0;49.0;50.0;19.0;14.0;6.0;5.0
+250;22 Manufacture rubber, plastic products;2020;19.0;40.0;29.0;35.0;25.0;48.0;54.0;12.0;12.0;5.0;9.0
+251;22 Manufacture rubber, plastic products;2021;-1.0;-2.0;;28.0;;45.0;;14.0;;12.0;
+252;22-23 Man. plastics and constructionprod;2010;;;-6.0;;37.0;;44.0;;15.0;;5.0
+253;22-23 Man. plastics and constructionprod;2011;-8.0;32.0;;50.0;;23.0;;22.0;;5.0;
+254;22-23 Man. plastics and constructionprod;2012;;;;;;;;;;;
+255;22-23 Man. plastics and constructionprod;2013;;;;;;;;;;;
+256;22-23 Man. plastics and constructionprod;2014;;;;;;;;;;;
+257;22-23 Man. plastics and constructionprod;2015;;;;;;;;;;;
+258;22-23 Man. plastics and constructionprod;2016;;;;;;;;;;;
+259;22-23 Man. plastics and constructionprod;2017;;;;;;;;;;;
+260;22-23 Man. plastics and constructionprod;2018;;;;;;;;;;;
+261;22-23 Man. plastics and constructionprod;2019;;;;;;;;;;;
+262;22-23 Man. plastics and constructionprod;2020;;;;;;;;;;;
+263;22-23 Man. plastics and constructionprod;2021;;;;;;;;;;;
+264;23 Manufacture of building materials;2010;;;-22.0;;55.0;;23.0;;15.0;;6.0
+265;23 Manufacture of building materials;2011;13.0;5.0;-4.0;66.0;54.0;11.0;25.0;18.0;14.0;6.0;7.0
+266;23 Manufacture of building materials;2012;-4.0;9.0;-19.0;58.0;54.0;18.0;25.0;18.0;13.0;6.0;8.0
+267;23 Manufacture of building materials;2013;-11.0;10.0;10.0;54.0;55.0;23.0;18.0;13.0;17.0;10.0;10.0
+268;23 Manufacture of building materials;2014;11.0;-3.0;-8.0;43.0;55.0;30.0;22.0;18.0;16.0;9.0;6.0
+269;23 Manufacture of building materials;2015;0.0;-6.0;-2.0;57.0;54.0;10.0;21.0;24.0;19.0;9.0;6.0
+270;23 Manufacture of building materials;2016;-1.0;-6.0;-4.0;58.0;52.0;21.0;22.0;13.0;19.0;8.0;7.0
+271;23 Manufacture of building materials;2017;36.0;45.0;41.0;56.0;57.0;18.0;21.0;19.0;15.0;7.0;7.0
+272;23 Manufacture of building materials;2018;5.0;-7.0;5.0;48.0;64.0;25.0;16.0;19.0;12.0;8.0;8.0
+273;23 Manufacture of building materials;2019;87.0;42.0;41.0;45.0;49.0;39.0;27.0;9.0;17.0;7.0;8.0
+274;23 Manufacture of building materials;2020;1.0;4.0;-10.0;54.0;58.0;26.0;19.0;13.0;15.0;7.0;8.0
+275;23 Manufacture of building materials;2021;2.0;-15.0;;54.0;;24.0;;15.0;;7.0;
+276;24 Manufacture of basic metals;2010;;;-66.0;;63.0;;14.0;;13.0;;10.0
+277;24 Manufacture of basic metals;2011;9.0;99.0;2.0;64.0;52.0;15.0;23.0;12.0;21.0;8.0;5.0
+278;24 Manufacture of basic metals;2012;-6.0;32.0;19.0;56.0;46.0;20.0;33.0;17.0;14.0;7.0;7.0
+279;24 Manufacture of basic metals;2013;-15.0;-8.0;-43.0;44.0;38.0;31.0;38.0;16.0;14.0;8.0;9.0
+280;24 Manufacture of basic metals;2014;1.0;-22.0;13.0;52.0;44.0;29.0;36.0;11.0;9.0;8.0;12.0
+281;24 Manufacture of basic metals;2015;7.0;-15.0;11.0;42.0;51.0;35.0;27.0;9.0;13.0;13.0;9.0
+282;24 Manufacture of basic metals;2016;0.0;-24.0;58.0;37.0;39.0;41.0;44.0;12.0;11.0;10.0;6.0
+283;24 Manufacture of basic metals;2017;7.0;28.0;57.0;42.0;40.0;38.0;16.0;14.0;36.0;6.0;8.0
+284;24 Manufacture of basic metals;2018;-29.0;-31.0;15.0;41.0;38.0;15.0;22.0;28.0;19.0;16.0;21.0
+285;24 Manufacture of basic metals;2019;-2.0;1.0;2.0;38.0;38.0;20.0;35.0;20.0;6.0;22.0;20.0
+286;24 Manufacture of basic metals;2020;12.0;-2.0;1.0;50.0;66.0;24.0;6.0;6.0;12.0;19.0;16.0
+287;24 Manufacture of basic metals;2021;7.0;69.0;;61.0;;10.0;;12.0;;17.0;
+288;24-25 Man. of basic metals and -products;2010;;;-54.0;;51.0;;25.0;;17.0;;7.0
+289;24-25 Man. of basic metals and -products;2011;-3.0;21.0;9.0;52.0;41.0;26.0;36.0;15.0;19.0;7.0;4.0
+290;24-25 Man. of basic metals and -products;2012;-10.0;11.0;10.0;43.0;40.0;33.0;38.0;17.0;16.0;7.0;5.0
+291;24-25 Man. of basic metals and -products;2013;-4.0;-3.0;-9.0;37.0;40.0;35.0;37.0;24.0;16.0;5.0;7.0
+292;24-25 Man. of basic metals and -products;2014;4.0;-8.0;19.0;47.0;37.0;31.0;42.0;16.0;15.0;6.0;6.0
+293;24-25 Man. of basic metals and -products;2015;-4.0;-18.0;7.0;35.0;40.0;40.0;34.0;19.0;17.0;6.0;9.0
+294;24-25 Man. of basic metals and -products;2016;15.0;-6.0;34.0;34.0;34.0;46.0;49.0;14.0;12.0;6.0;5.0
+295;24-25 Man. of basic metals and -products;2017;4.0;-7.0;12.0;37.0;36.0;40.0;34.0;16.0;23.0;7.0;7.0
+296;24-25 Man. of basic metals and -products;2018;-13.0;-6.0;13.0;39.0;38.0;30.0;33.0;21.0;17.0;10.0;12.0
+297;24-25 Man. of basic metals and -products;2019;0.0;-10.0;-3.0;36.0;34.0;34.0;45.0;17.0;10.0;13.0;10.0
+298;24-25 Man. of basic metals and -products;2020;-8.0;-21.0;-17.0;42.0;46.0;33.0;31.0;14.0;13.0;11.0;10.0
+299;24-25 Man. of basic metals and -products;2021;-7.0;-4.0;;46.0;;27.0;;16.0;;11.0;
+300;24-30, 33 Metalectro;2010;;;-29.0;;35.0;;34.0;;14.0;;17.0
+301;24-30, 33 Metalectro;2011;16.0;24.0;32.0;35.0;35.0;35.0;32.0;17.0;22.0;13.0;11.0
+302;24-30, 33 Metalectro;2012;-9.0;-1.0;2.0;39.0;34.0;38.0;33.0;13.0;23.0;10.0;10.0
+303;24-30, 33 Metalectro;2013;-1.0;3.0;-8.0;34.0;45.0;34.0;28.0;23.0;17.0;9.0;10.0
+304;24-30, 33 Metalectro;2014;-4.0;14.0;8.0;50.0;48.0;26.0;31.0;16.0;17.0;8.0;4.0
+305;24-30, 33 Metalectro;2015;10.0;25.0;9.0;43.0;43.0;32.0;35.0;21.0;16.0;4.0;6.0
+306;24-30, 33 Metalectro;2016;9.0;-12.0;11.0;41.0;42.0;38.0;39.0;16.0;14.0;5.0;6.0
+307;24-30, 33 Metalectro;2017;10.0;5.0;15.0;42.0;42.0;38.0;35.0;14.0;18.0;6.0;5.0
+308;24-30, 33 Metalectro;2018;1.0;9.0;21.0;41.0;33.0;33.0;38.0;19.0;20.0;7.0;9.0
+309;24-30, 33 Metalectro;2019;3.0;9.0;14.0;32.0;32.0;38.0;49.0;21.0;12.0;9.0;8.0
+310;24-30, 33 Metalectro;2020;-3.0;-15.0;-25.0;33.0;35.0;46.0;40.0;13.0;16.0;8.0;8.0
+311;24-30, 33 Metalectro;2021;6.0;5.0;;34.0;;36.0;;21.0;;8.0;
+312;25 Manufacture of metal products;2010;;;-42.0;;44.0;;31.0;;20.0;;5.0
+313;25 Manufacture of metal products;2011;-10.0;-6.0;13.0;43.0;37.0;34.0;41.0;17.0;18.0;5.0;4.0
+314;25 Manufacture of metal products;2012;-12.0;6.0;8.0;38.0;38.0;38.0;40.0;17.0;17.0;7.0;5.0
+315;25 Manufacture of metal products;2013;0.0;-1.0;8.0;34.0;40.0;36.0;37.0;26.0;17.0;4.0;6.0
+316;25 Manufacture of metal products;2014;5.0;-3.0;21.0;46.0;35.0;31.0;44.0;18.0;17.0;5.0;4.0
+317;25 Manufacture of metal products;2015;-6.0;-19.0;5.0;34.0;32.0;41.0;39.0;22.0;20.0;4.0;10.0
+318;25 Manufacture of metal products;2016;23.0;1.0;21.0;33.0;31.0;47.0;52.0;15.0;12.0;5.0;5.0
+319;25 Manufacture of metal products;2017;3.0;-12.0;-7.0;33.0;36.0;42.0;45.0;17.0;13.0;8.0;6.0
+320;25 Manufacture of metal products;2018;-2.0;3.0;11.0;39.0;39.0;37.0;39.0;17.0;15.0;7.0;7.0
+321;25 Manufacture of metal products;2019;2.0;-17.0;-5.0;34.0;32.0;44.0;51.0;15.0;12.0;7.0;5.0
+322;25 Manufacture of metal products;2020;-19.0;-27.0;-24.0;36.0;35.0;39.0;45.0;19.0;14.0;6.0;6.0
+323;25 Manufacture of metal products;2021;-15.0;-18.0;;36.0;;38.0;;19.0;;7.0;
+324;26 Manufacture of electronic products;2010;;;-40.0;;38.0;;25.0;;14.0;;23.0
+325;26 Manufacture of electronic products;2011;15.0;15.0;68.0;45.0;38.0;24.0;32.0;15.0;12.0;17.0;18.0
+326;26 Manufacture of electronic products;2012;-5.0;10.0;-6.0;30.0;36.0;47.0;38.0;11.0;12.0;12.0;14.0
+327;26 Manufacture of electronic products;2013;7.0;39.0;76.0;37.0;43.0;32.0;21.0;13.0;14.0;18.0;22.0
+328;26 Manufacture of electronic products;2014;-34.0;20.0;-15.0;33.0;61.0;26.0;24.0;29.0;11.0;12.0;4.0
+329;26 Manufacture of electronic products;2015;-5.0;33.0;-3.0;38.0;29.0;40.0;56.0;18.0;9.0;4.0;5.0
+330;26 Manufacture of electronic products;2016;-24.0;-23.0;3.0;36.0;34.0;42.0;47.0;16.0;13.0;6.0;6.0
+331;26 Manufacture of electronic products;2017;8.0;-17.0;40.0;33.0;42.0;47.0;36.0;13.0;17.0;7.0;5.0
+332;26 Manufacture of electronic products;2018;15.0;17.0;29.0;36.0;30.0;39.0;54.0;22.0;10.0;3.0;6.0
+333;26 Manufacture of electronic products;2019;3.0;20.0;25.0;30.0;36.0;53.0;48.0;12.0;13.0;5.0;3.0
+334;26 Manufacture of electronic products;2020;12.0;17.0;21.0;34.0;25.0;50.0;38.0;11.0;17.0;4.0;20.0
+335;26 Manufacture of electronic products;2021;-3.0;33.0;;31.0;;33.0;;19.0;;17.0;
+336;26-28 Manufact of electronics, machinery;2010;;;-7.0;;22.0;;41.0;;12.0;;25.0
+337;26-28 Manufact of electronics, machinery;2011;17.0;21.0;57.0;26.0;29.0;42.0;38.0;14.0;15.0;18.0;19.0
+338;26-28 Manufact of electronics, machinery;2012;-15.0;-15.0;-14.0;33.0;26.0;36.0;44.0;15.0;13.0;15.0;18.0
+339;26-28 Manufact of electronics, machinery;2013;3.0;3.0;-36.0;26.0;36.0;44.0;28.0;13.0;16.0;17.0;21.0
+340;26-28 Manufact of electronics, machinery;2014;-7.0;39.0;26.0;35.0;41.0;28.0;39.0;21.0;15.0;17.0;6.0
+341;26-28 Manufact of electronics, machinery;2015;8.0;54.0;6.0;33.0;33.0;42.0;44.0;20.0;16.0;5.0;6.0
+342;26-28 Manufact of electronics, machinery;2016;3.0;-21.0;4.0;40.0;36.0;38.0;37.0;17.0;19.0;5.0;8.0
+343;26-28 Manufact of electronics, machinery;2017;12.0;8.0;6.0;36.0;31.0;42.0;41.0;16.0;22.0;7.0;6.0
+344;26-28 Manufact of electronics, machinery;2018;32.0;36.0;47.0;32.0;28.0;40.0;42.0;21.0;22.0;7.0;8.0
+345;26-28 Manufact of electronics, machinery;2019;7.0;32.0;43.0;29.0;29.0;41.0;54.0;22.0;10.0;8.0;7.0
+346;26-28 Manufact of electronics, machinery;2020;1.0;1.0;-13.0;26.0;27.0;57.0;49.0;12.0;16.0;5.0;8.0
+347;26-28 Manufact of electronics, machinery;2021;6.0;8.0;;27.0;;46.0;;20.0;;7.0;
+348;27 Manufacture of electric equipment;2010;;;-8.0;;19.0;;26.0;;7.0;;48.0
+349;27 Manufacture of electric equipment;2011;0.0;53.0;14.0;28.0;16.0;21.0;21.0;10.0;12.0;42.0;51.0
+350;27 Manufacture of electric equipment;2012;13.0;11.0;1.0;21.0;17.0;24.0;19.0;11.0;11.0;45.0;53.0
+351;27 Manufacture of electric equipment;2013;2.0;-3.0;-29.0;21.0;20.0;21.0;15.0;8.0;9.0;50.0;56.0
+352;27 Manufacture of electric equipment;2014;-4.0;-3.0;66.0;19.0;47.0;16.0;23.0;8.0;22.0;56.0;8.0
+353;27 Manufacture of electric equipment;2015;49.0;-2.0;17.0;37.0;45.0;38.0;34.0;21.0;13.0;3.0;8.0
+354;27 Manufacture of electric equipment;2016;-2.0;25.0;29.0;47.0;31.0;28.0;42.0;17.0;22.0;8.0;6.0
+355;27 Manufacture of electric equipment;2017;-9.0;5.0;29.0;30.0;37.0;46.0;34.0;18.0;19.0;5.0;10.0
+356;27 Manufacture of electric equipment;2018;24.0;1.0;0.0;32.0;32.0;51.0;43.0;11.0;15.0;6.0;10.0
+357;27 Manufacture of electric equipment;2019;17.0;15.0;35.0;26.0;43.0;49.0;27.0;16.0;15.0;9.0;15.0
+358;27 Manufacture of electric equipment;2020;50.0;-21.0;-12.0;28.0;32.0;38.0;42.0;28.0;16.0;6.0;10.0
+359;27 Manufacture of electric equipment;2021;19.0;-14.0;;31.0;;46.0;;14.0;;10.0;
+360;28 Manufacture of machinery n.e.c.;2010;;;0.0;;21.0;;47.0;;12.0;;21.0
+361;28 Manufacture of machinery n.e.c.;2011;22.0;17.0;63.0;23.0;29.0;49.0;40.0;14.0;16.0;14.0;15.0
+362;28 Manufacture of machinery n.e.c.;2012;-20.0;-20.0;-17.0;36.0;25.0;37.0;49.0;17.0;13.0;11.0;13.0
+363;28 Manufacture of machinery n.e.c.;2013;3.0;-1.0;-54.0;26.0;37.0;49.0;37.0;14.0;19.0;12.0;7.0
+364;28 Manufacture of machinery n.e.c.;2014;6.0;49.0;36.0;40.0;34.0;32.0;45.0;22.0;15.0;6.0;6.0
+365;28 Manufacture of machinery n.e.c.;2015;6.0;67.0;7.0;32.0;31.0;43.0;43.0;20.0;20.0;5.0;6.0
+366;28 Manufacture of machinery n.e.c.;2016;14.0;-28.0;-2.0;39.0;39.0;39.0;31.0;17.0;20.0;5.0;10.0
+367;28 Manufacture of machinery n.e.c.;2017;21.0;13.0;-3.0;38.0;28.0;38.0;43.0;17.0;23.0;7.0;6.0
+368;28 Manufacture of machinery n.e.c.;2018;37.0;49.0;63.0;31.0;27.0;40.0;40.0;22.0;25.0;7.0;8.0
+369;28 Manufacture of machinery n.e.c.;2019;7.0;38.0;46.0;29.0;27.0;39.0;57.0;24.0;9.0;8.0;6.0
+370;28 Manufacture of machinery n.e.c.;2020;-4.0;2.0;-18.0;25.0;27.0;60.0;53.0;9.0;16.0;5.0;5.0
+371;28 Manufacture of machinery n.e.c.;2021;6.0;9.0;;25.0;;48.0;;22.0;;5.0;
+372;29 Manufacture of cars and trailers;2010;;;-31.0;;25.0;;36.0;;26.0;;13.0
+373;29 Manufacture of cars and trailers;2011;;;;12.0;9.0;33.0;20.0;50.0;66.0;6.0;5.0
+374;29 Manufacture of cars and trailers;2012;;-7.0;31.0;11.0;9.0;73.0;22.0;10.0;65.0;5.0;4.0
+375;29 Manufacture of cars and trailers;2013;-3.0;26.0;99.0;8.0;27.0;29.0;28.0;58.0;40.0;5.0;6.0
+376;29 Manufacture of cars and trailers;2014;-39.0;-21.0;-40.0;27.0;26.0;35.0;34.0;33.0;33.0;5.0;6.0
+377;29 Manufacture of cars and trailers;2015;20.0;32.0;29.0;24.0;22.0;23.0;48.0;46.0;28.0;8.0;3.0
+378;29 Manufacture of cars and trailers;2016;7.0;4.0;-5.0;16.0;24.0;43.0;45.0;37.0;24.0;4.0;8.0
+379;29 Manufacture of cars and trailers;2017;25.0;73.0;98.0;21.0;16.0;55.0;59.0;18.0;19.0;5.0;6.0
+380;29 Manufacture of cars and trailers;2018;-28.0;-5.0;-37.0;17.0;29.0;46.0;36.0;30.0;31.0;7.0;4.0
+381;29 Manufacture of cars and trailers;2019;4.0;8.0;-10.0;25.0;26.0;31.0;34.0;39.0;32.0;5.0;7.0
+382;29 Manufacture of cars and trailers;2020;1.0;31.0;24.0;30.0;31.0;37.0;34.0;25.0;28.0;8.0;7.0
+383;29 Manufacture of cars and trailers;2021;69.0;124.0;;24.0;;34.0;;36.0;;5.0;
+384;29-30 Transport equipment;2010;;;-24.0;;36.0;;33.0;;20.0;;11.0
+385;29-30 Transport equipment;2011;83.0;111.0;46.0;21.0;17.0;31.0;24.0;37.0;55.0;11.0;4.0
+386;29-30 Transport equipment;2012;-2.0;-5.0;32.0;17.0;14.0;67.0;23.0;11.0;58.0;4.0;4.0
+387;29-30 Transport equipment;2013;-5.0;7.0;87.0;12.0;33.0;29.0;31.0;54.0;32.0;5.0;5.0
+388;29-30 Transport equipment;2014;-31.0;-12.0;-29.0;34.0;33.0;35.0;32.0;26.0;28.0;5.0;6.0
+389;29-30 Transport equipment;2015;16.0;22.0;22.0;33.0;31.0;25.0;41.0;35.0;25.0;7.0;3.0
+390;29-30 Transport equipment;2016;2.0;9.0;-3.0;27.0;25.0;40.0;47.0;30.0;20.0;3.0;8.0
+391;29-30 Transport equipment;2017;23.0;54.0;74.0;22.0;18.0;56.0;58.0;16.0;18.0;6.0;6.0
+392;29-30 Transport equipment;2018;-21.0;-2.0;-20.0;22.0;25.0;45.0;42.0;27.0;30.0;6.0;3.0
+393;29-30 Transport equipment;2019;0.0;18.0;6.0;26.0;32.0;34.0;37.0;36.0;24.0;4.0;7.0
+394;29-30 Transport equipment;2020;-4.0;1.0;-28.0;31.0;31.0;38.0;39.0;22.0;23.0;8.0;7.0
+395;29-30 Transport equipment;2021;38.0;89.0;;27.0;;34.0;;33.0;;5.0;
+396;30 Manufacture of other transport;2010;;;-15.0;;45.0;;31.0;;14.0;;10.0
+397;30 Manufacture of other transport;2011;;;;39.0;48.0;27.0;39.0;12.0;11.0;23.0;2.0
+398;30 Manufacture of other transport;2012;;4.0;41.0;45.0;48.0;39.0;33.0;14.0;14.0;2.0;4.0
+399;30 Manufacture of other transport;2013;-22.0;-12.0;64.0;52.0;47.0;29.0;36.0;14.0;12.0;4.0;4.0
+400;30 Manufacture of other transport;2014;-14.0;19.0;12.0;47.0;55.0;33.0;27.0;14.0;13.0;5.0;4.0
+401;30 Manufacture of other transport;2015;9.0;-4.0;7.0;52.0;59.0;31.0;22.0;11.0;15.0;5.0;4.0
+402;30 Manufacture of other transport;2016;-10.0;24.0;4.0;59.0;28.0;29.0;51.0;10.0;11.0;2.0;9.0
+403;30 Manufacture of other transport;2017;19.0;11.0;14.0;23.0;27.0;58.0;54.0;12.0;14.0;7.0;5.0
+404;30 Manufacture of other transport;2018;12.0;14.0;34.0;37.0;19.0;38.0;49.0;20.0;30.0;5.0;2.0
+405;30 Manufacture of other transport;2019;-6.0;42.0;40.0;27.0;39.0;38.0;41.0;32.0;13.0;3.0;6.0
+406;30 Manufacture of other transport;2020;-12.0;-27.0;-58.0;34.0;31.0;40.0;48.0;18.0;15.0;9.0;6.0
+407;30 Manufacture of other transport;2021;-14.0;27.0;;37.0;;36.0;;22.0;;5.0;
+408;31-33 Other manufacturing and repair;2010;;;-13.0;;57.0;;27.0;;12.0;;4.0
+409;31-33 Other manufacturing and repair;2011;6.0;-1.0;;62.0;;21.0;;14.0;;3.0;
+410;31-33 Other manufacturing and repair;2012;;;;;;;;;;;
+411;31-33 Other manufacturing and repair;2013;;;;;;;;;;;
+412;31-33 Other manufacturing and repair;2014;;;;;;;;;;;
+413;31-33 Other manufacturing and repair;2015;;;8.0;;74.0;;17.0;;6.0;;3.0
+414;31-33 Other manufacturing and repair;2016;16.0;0.0;-6.0;65.0;76.0;22.0;14.0;9.0;7.0;4.0;3.0
+415;31-33 Other manufacturing and repair;2017;5.0;-3.0;7.0;74.0;76.0;17.0;15.0;6.0;7.0;3.0;2.0
+416;31-33 Other manufacturing and repair;2018;-7.0;-6.0;16.0;74.0;47.0;16.0;34.0;7.0;13.0;3.0;6.0
+417;31-33 Other manufacturing and repair;2019;-4.0;-2.0;4.0;45.0;40.0;34.0;32.0;15.0;18.0;6.0;10.0
+418;31-33 Other manufacturing and repair;2020;-5.0;-43.0;-44.0;39.0;40.0;27.0;33.0;14.0;14.0;20.0;13.0
+419;31-33 Other manufacturing and repair;2021;2.0;-2.0;;43.0;;24.0;;19.0;;14.0;
+420;31 Manufacture of furniture;2010;;;-54.0;;46.0;;37.0;;13.0;;4.0
+421;31 Manufacture of furniture;2011;11.0;6.0;20.0;42.0;36.0;33.0;37.0;16.0;12.0;9.0;15.0
+422;31 Manufacture of furniture;2012;5.0;4.0;18.0;49.0;39.0;28.0;32.0;15.0;19.0;8.0;9.0
+423;31 Manufacture of furniture;2013;-14.0;13.0;45.0;37.0;42.0;10.0;34.0;45.0;17.0;7.0;6.0
+424;31 Manufacture of furniture;2014;45.0;-26.0;5.0;42.0;32.0;35.0;55.0;20.0;10.0;3.0;3.0
+425;31 Manufacture of furniture;2015;-19.0;18.0;-10.0;46.0;39.0;26.0;47.0;26.0;7.0;2.0;8.0
+426;31 Manufacture of furniture;2016;3.0;7.0;21.0;48.0;40.0;30.0;31.0;13.0;17.0;8.0;13.0
+427;31 Manufacture of furniture;2017;1.0;20.0;;38.0;28.0;31.0;46.0;18.0;21.0;13.0;5.0
+428;31 Manufacture of furniture;2018;9.0;-15.0;48.0;38.0;42.0;39.0;36.0;15.0;18.0;8.0;4.0
+429;31 Manufacture of furniture;2019;-24.0;10.0;25.0;49.0;40.0;28.0;41.0;17.0;12.0;6.0;7.0
+430;31 Manufacture of furniture;2020;-24.0;-6.0;-12.0;41.0;34.0;31.0;42.0;20.0;12.0;8.0;12.0
+431;31 Manufacture of furniture;2021;-12.0;9.0;;44.0;;34.0;;14.0;;8.0;
+432;32 Manufacture of other products;2010;;;-6.0;;49.0;;34.0;;14.0;;3.0
+433;32 Manufacture of other products;2011;-1.0;0.0;17.0;61.0;54.0;23.0;32.0;13.0;11.0;2.0;3.0
+434;32 Manufacture of other products;2012;-2.0;2.0;-4.0;71.0;60.0;17.0;25.0;9.0;13.0;2.0;2.0
+435;32 Manufacture of other products;2013;19.0;24.0;-13.0;57.0;56.0;23.0;26.0;11.0;15.0;9.0;3.0
+436;32 Manufacture of other products;2014;7.0;1.0;25.0;56.0;64.0;27.0;23.0;15.0;9.0;3.0;3.0
+437;32 Manufacture of other products;2015;-4.0;-3.0;33.0;44.0;67.0;40.0;18.0;11.0;11.0;5.0;4.0
+438;32 Manufacture of other products;2016;21.0;-5.0;-11.0;55.0;61.0;25.0;22.0;13.0;12.0;7.0;5.0
+439;32 Manufacture of other products;2017;-18.0;19.0;9.0;53.0;50.0;29.0;26.0;15.0;20.0;2.0;4.0
+440;32 Manufacture of other products;2018;5.0;24.0;6.0;46.0;53.0;29.0;24.0;20.0;14.0;5.0;9.0
+441;32 Manufacture of other products;2019;11.0;60.0;81.0;47.0;37.0;27.0;30.0;18.0;23.0;8.0;10.0
+442;32 Manufacture of other products;2020;0.0;-13.0;50.0;30.0;40.0;24.0;35.0;12.0;10.0;34.0;15.0
+443;32 Manufacture of other products;2021;-20.0;156.0;;38.0;;23.0;;14.0;;25.0;
+444;33 Repair and installation of machinery;2010;;;5.0;;72.0;;15.0;;9.0;;4.0
+445;33 Repair and installation of machinery;2011;13.0;-2.0;-13.0;69.0;82.0;15.0;10.0;14.0;7.0;3.0;0.0
+446;33 Repair and installation of machinery;2012;10.0;45.0;17.0;85.0;89.0;9.0;6.0;5.0;4.0;1.0;1.0
+447;33 Repair and installation of machinery;2013;2.0;12.0;24.0;90.0;82.0;6.0;12.0;4.0;4.0;1.0;1.0
+448;33 Repair and installation of machinery;2014;19.0;16.0;-3.0;83.0;76.0;13.0;7.0;3.0;16.0;1.0;1.0
+449;33 Repair and installation of machinery;2015;32.0;1.0;4.0;71.0;81.0;11.0;12.0;17.0;4.0;1.0;2.0
+450;33 Repair and installation of machinery;2016;16.0;0.0;-8.0;72.0;86.0;20.0;10.0;6.0;3.0;2.0;1.0
+451;33 Repair and installation of machinery;2017;11.0;-10.0;;84.0;91.0;13.0;7.0;2.0;2.0;1.0;0.0
+452;33 Repair and installation of machinery;2018;-12.0;-10.0;7.0;88.0;47.0;9.0;40.0;2.0;9.0;1.0;4.0
+453;33 Repair and installation of machinery;2019;-2.0;-39.0;-42.0;42.0;44.0;44.0;29.0;10.0;16.0;4.0;11.0
+454;33 Repair and installation of machinery;2020;4.0;-56.0;-73.0;51.0;44.0;30.0;25.0;14.0;21.0;5.0;10.0
+455;33 Repair and installation of machinery;2021;39.0;-45.0;;47.0;;20.0;;26.0;;7.0;

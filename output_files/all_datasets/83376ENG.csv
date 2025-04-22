@@ -1,0 +1,361 @@
+﻿ID;BuildingTypesServicesSector;FloorareaSize;ConstructionPeriod;AverageConsumptionOfNaturalGas_1;AverageConsumptionOfElectricity_2
+0;Retail with cooling;0 to 250 m2;To 1921;19.8;219.7
+1;Retail with cooling;0 to 250 m2;1922 to 1976;20.2;232.0
+2;Retail with cooling;0 to 250 m2;1977 to 1993;16.4;243.2
+3;Retail with cooling;0 to 250 m2;From1994;14.4;233.9
+4;Retail with cooling;250 to 500 m2;To 1921;18.6;186.8
+5;Retail with cooling;250 to 500 m2;1922 to 1976;17.8;179.8
+6;Retail with cooling;250 to 500 m2;1977 to 1993;17.9;169.2
+7;Retail with cooling;250 to 500 m2;From1994;12.5;148.9
+8;Retail with cooling;500 to 1 000 m2;To 1921;16.5;224.1
+9;Retail with cooling;500 to 1 000 m2;1922 to 1976;15.7;252.2
+10;Retail with cooling;500 to 1 000 m2;1977 to 1993;12.6;256.7
+11;Retail with cooling;500 to 1 000 m2;From1994;9.9;221.1
+12;Retail with cooling;1 000 to 2 500 m2;To 1921;12.0;237.2
+13;Retail with cooling;1 000 to 2 500 m2;1922 to 1976;12.0;289.3
+14;Retail with cooling;1 000 to 2 500 m2;1977 to 1993;12.0;293.8
+15;Retail with cooling;1 000 to 2 500 m2;From1994;9.3;265.3
+16;Retail with cooling;2 500 to 5 000 m2;To 1921;;
+17;Retail with cooling;2 500 to 5 000 m2;1922 to 1976;;217.9
+18;Retail with cooling;2 500 to 5 000 m2;1977 to 1993;;
+19;Retail with cooling;2 500 to 5 000 m2;From1994;5.9;196.9
+20;Retail without cooling;0 to 250 m2;To 1921;17.8;98.7
+21;Retail without cooling;0 to 250 m2;1922 to 1976;18.1;101.4
+22;Retail without cooling;0 to 250 m2;1977 to 1993;14.9;119.9
+23;Retail without cooling;0 to 250 m2;From1994;12.8;116.4
+24;Retail without cooling;250 to 500 m2;To 1921;12.8;80.1
+25;Retail without cooling;250 to 500 m2;1922 to 1976;12.6;82.2
+26;Retail without cooling;250 to 500 m2;1977 to 1993;10.7;90.1
+27;Retail without cooling;250 to 500 m2;From1994;8.8;94.7
+28;Retail without cooling;500 to 1 000 m2;To 1921;9.7;70.3
+29;Retail without cooling;500 to 1 000 m2;1922 to 1976;9.4;67.7
+30;Retail without cooling;500 to 1 000 m2;1977 to 1993;8.6;72.0
+31;Retail without cooling;500 to 1 000 m2;From1994;6.9;74.6
+32;Retail without cooling;1 000 to 2 500 m2;To 1921;7.6;73.2
+33;Retail without cooling;1 000 to 2 500 m2;1922 to 1976;7.5;73.0
+34;Retail without cooling;1 000 to 2 500 m2;1977 to 1993;7.6;80.1
+35;Retail without cooling;1 000 to 2 500 m2;From1994;5.8;76.9
+36;Retail without cooling;2 500 to 5 000 m2;To 1921;;
+37;Retail without cooling;2 500 to 5 000 m2;1922 to 1976;7.3;71.0
+38;Retail without cooling;2 500 to 5 000 m2;1977 to 1993;6.2;59.1
+39;Retail without cooling;2 500 to 5 000 m2;From1994;5.5;75.0
+40;Wholesale without cooling;0 to 250 m2;To 1921;18.9;64.9
+41;Wholesale without cooling;0 to 250 m2;1922 to 1976;21.0;67.8
+42;Wholesale without cooling;0 to 250 m2;1977 to 1993;16.3;68.8
+43;Wholesale without cooling;0 to 250 m2;From1994;11.7;59.4
+44;Wholesale without cooling;250 to 500 m2;To 1921;15.8;46.3
+45;Wholesale without cooling;250 to 500 m2;1922 to 1976;14.8;52.3
+46;Wholesale without cooling;250 to 500 m2;1977 to 1993;11.4;52.2
+47;Wholesale without cooling;250 to 500 m2;From1994;9.1;50.5
+48;Wholesale without cooling;500 to 1 000 m2;To 1921;10.5;40.2
+49;Wholesale without cooling;500 to 1 000 m2;1922 to 1976;10.7;44.5
+50;Wholesale without cooling;500 to 1 000 m2;1977 to 1993;9.9;48.7
+51;Wholesale without cooling;500 to 1 000 m2;From1994;7.4;46.0
+52;Wholesale without cooling;1 000 to 2 500 m2;To 1921;;
+53;Wholesale without cooling;1 000 to 2 500 m2;1922 to 1976;7.8;44.1
+54;Wholesale without cooling;1 000 to 2 500 m2;1977 to 1993;8.6;47.6
+55;Wholesale without cooling;1 000 to 2 500 m2;From1994;6.2;48.7
+56;Wholesale without cooling;2 500 to 5 000 m2;To 1921;;
+57;Wholesale without cooling;2 500 to 5 000 m2;1922 to 1976;7.5;41.6
+58;Wholesale without cooling;2 500 to 5 000 m2;1977 to 1993;6.6;49.5
+59;Wholesale without cooling;2 500 to 5 000 m2;From1994;6.3;54.3
+60;Motor vehicle companies;0 to 250 m2;To 1921;19.0;59.0
+61;Motor vehicle companies;0 to 250 m2;1922 to 1976;20.3;66.1
+62;Motor vehicle companies;0 to 250 m2;1977 to 1993;16.5;60.7
+63;Motor vehicle companies;0 to 250 m2;From1994;13.5;51.2
+64;Motor vehicle companies;250 to 500 m2;To 1921;13.4;39.8
+65;Motor vehicle companies;250 to 500 m2;1922 to 1976;12.3;44.6
+66;Motor vehicle companies;250 to 500 m2;1977 to 1993;10.7;46.1
+67;Motor vehicle companies;250 to 500 m2;From1994;9.1;43.3
+68;Motor vehicle companies;500 to 1 000 m2;To 1921;9.3;33.3
+69;Motor vehicle companies;500 to 1 000 m2;1922 to 1976;9.6;39.5
+70;Motor vehicle companies;500 to 1 000 m2;1977 to 1993;8.9;46.1
+71;Motor vehicle companies;500 to 1 000 m2;From1994;7.7;44.9
+72;Motor vehicle companies;1 000 to 2 500 m2;To 1921;;
+73;Motor vehicle companies;1 000 to 2 500 m2;1922 to 1976;8.7;41.9
+74;Motor vehicle companies;1 000 to 2 500 m2;1977 to 1993;9.1;46.9
+75;Motor vehicle companies;1 000 to 2 500 m2;From1994;8.0;51.0
+76;Motor vehicle companies;2 500 to 5 000 m2;To 1921;;
+77;Motor vehicle companies;2 500 to 5 000 m2;1922 to 1976;9.2;39.9
+78;Motor vehicle companies;2 500 to 5 000 m2;1977 to 1993;9.4;54.7
+79;Motor vehicle companies;2 500 to 5 000 m2;From1994;7.1;54.9
+80;Motor vehicle repair services;0 to 250 m2;To 1921;18.6;49.3
+81;Motor vehicle repair services;0 to 250 m2;1922 to 1976;20.4;68.3
+82;Motor vehicle repair services;0 to 250 m2;1977 to 1993;16.5;70.2
+83;Motor vehicle repair services;0 to 250 m2;From1994;11.8;54.1
+84;Motor vehicle repair services;250 to 500 m2;To 1921;12.7;37.9
+85;Motor vehicle repair services;250 to 500 m2;1922 to 1976;13.6;50.4
+86;Motor vehicle repair services;250 to 500 m2;1977 to 1993;12.1;56.4
+87;Motor vehicle repair services;250 to 500 m2;From1994;10.8;53.3
+88;Motor vehicle repair services;500 to 1 000 m2;To 1921;;
+89;Motor vehicle repair services;500 to 1 000 m2;1922 to 1976;12.2;47.4
+90;Motor vehicle repair services;500 to 1 000 m2;1977 to 1993;13.2;56.8
+91;Motor vehicle repair services;500 to 1 000 m2;From1994;11.1;54.4
+92;Motor vehicle repair services;1 000 to 2 500 m2;To 1921;;
+93;Motor vehicle repair services;1 000 to 2 500 m2;1922 to 1976;11.5;46.9
+94;Motor vehicle repair services;1 000 to 2 500 m2;1977 to 1993;13.2;58.8
+95;Motor vehicle repair services;1 000 to 2 500 m2;From1994;12.4;59.3
+96;Motor vehicle repair services;2 500 to 5 000 m2;To 1921;;
+97;Motor vehicle repair services;2 500 to 5 000 m2;1922 to 1976;;
+98;Motor vehicle repair services;2 500 to 5 000 m2;1977 to 1993;;
+99;Motor vehicle repair services;2 500 to 5 000 m2;From1994;9.0;55.2
+100;Food and Accommodation: bar;0 to 250 m2;To 1921;23.1;167.4
+101;Food and Accommodation: bar;0 to 250 m2;1922 to 1976;23.5;137.5
+102;Food and Accommodation: bar;0 to 250 m2;1977 to 1993;18.9;124.0
+103;Food and Accommodation: bar;0 to 250 m2;From1994;17.6;102.6
+104;Food and Accommodation: bar;250 to 500 m2;To 1921;17.0;120.5
+105;Food and Accommodation: bar;250 to 500 m2;1922 to 1976;17.6;109.9
+106;Food and Accommodation: bar;250 to 500 m2;1977 to 1993;16.8;125.8
+107;Food and Accommodation: bar;250 to 500 m2;From1994;20.4;135.7
+108;Food and Accommodation: bar;500 to 1 000 m2;To 1921;14.7;93.9
+109;Food and Accommodation: bar;500 to 1 000 m2;1922 to 1976;14.8;85.4
+110;Food and Accommodation: bar;500 to 1 000 m2;1977 to 1993;13.6;104.8
+111;Food and Accommodation: bar;500 to 1 000 m2;From1994;12.7;90.1
+112;Food and Accommodation: bar;1 000 to 2 500 m2;To 1921;11.8;75.9
+113;Food and Accommodation: bar;1 000 to 2 500 m2;1922 to 1976;10.6;63.6
+114;Food and Accommodation: bar;1 000 to 2 500 m2;1977 to 1993;;
+115;Food and Accommodation: bar;1 000 to 2 500 m2;From1994;;
+116;Food and Accommodation: bar;2 500 to 5 000 m2;To 1921;;
+117;Food and Accommodation: bar;2 500 to 5 000 m2;1922 to 1976;;
+118;Food and Accommodation: bar;2 500 to 5 000 m2;1977 to 1993;;
+119;Food and Accommodation: bar;2 500 to 5 000 m2;From1994;;
+120;Food and Accommodation: restaurant;0 to 250 m2;To 1921;40.5;260.4
+121;Food and Accommodation: restaurant;0 to 250 m2;1922 to 1976;39.5;217.7
+122;Food and Accommodation: restaurant;0 to 250 m2;1977 to 1993;33.4;214.5
+123;Food and Accommodation: restaurant;0 to 250 m2;From1994;26.1;177.4
+124;Food and Accommodation: restaurant;250 to 500 m2;To 1921;31.1;185.1
+125;Food and Accommodation: restaurant;250 to 500 m2;1922 to 1976;34.5;169.0
+126;Food and Accommodation: restaurant;250 to 500 m2;1977 to 1993;35.9;205.8
+127;Food and Accommodation: restaurant;250 to 500 m2;From1994;33.0;217.5
+128;Food and Accommodation: restaurant;500 to 1 000 m2;To 1921;24.3;135.7
+129;Food and Accommodation: restaurant;500 to 1 000 m2;1922 to 1976;26.5;138.9
+130;Food and Accommodation: restaurant;500 to 1 000 m2;1977 to 1993;29.1;169.3
+131;Food and Accommodation: restaurant;500 to 1 000 m2;From1994;31.0;199.5
+132;Food and Accommodation: restaurant;1 000 to 2 500 m2;To 1921;17.9;94.7
+133;Food and Accommodation: restaurant;1 000 to 2 500 m2;1922 to 1976;20.4;123.2
+134;Food and Accommodation: restaurant;1 000 to 2 500 m2;1977 to 1993;;
+135;Food and Accommodation: restaurant;1 000 to 2 500 m2;From1994;38.2;159.2
+136;Food and Accommodation: restaurant;2 500 to 5 000 m2;To 1921;;
+137;Food and Accommodation: restaurant;2 500 to 5 000 m2;1922 to 1976;;
+138;Food and Accommodation: restaurant;2 500 to 5 000 m2;1977 to 1993;;
+139;Food and Accommodation: restaurant;2 500 to 5 000 m2;From1994;;
+140;Food and Accommodation: snackbar;0 to 250 m2;To 1921;40.3;264.9
+141;Food and Accommodation: snackbar;0 to 250 m2;1922 to 1976;36.6;258.8
+142;Food and Accommodation: snackbar;0 to 250 m2;1977 to 1993;31.3;295.2
+143;Food and Accommodation: snackbar;0 to 250 m2;From1994;25.3;256.3
+144;Food and Accommodation: snackbar;250 to 500 m2;To 1921;25.8;161.2
+145;Food and Accommodation: snackbar;250 to 500 m2;1922 to 1976;36.1;153.5
+146;Food and Accommodation: snackbar;250 to 500 m2;1977 to 1993;36.5;211.4
+147;Food and Accommodation: snackbar;250 to 500 m2;From1994;22.1;218.8
+148;Food and Accommodation: snackbar;500 to 1 000 m2;To 1921;19.0;158.2
+149;Food and Accommodation: snackbar;500 to 1 000 m2;1922 to 1976;28.5;150.5
+150;Food and Accommodation: snackbar;500 to 1 000 m2;1977 to 1993;;
+151;Food and Accommodation: snackbar;500 to 1 000 m2;From1994;27.0;
+152;Food and Accommodation: snackbar;1 000 to 2 500 m2;To 1921;;
+153;Food and Accommodation: snackbar;1 000 to 2 500 m2;1922 to 1976;;
+154;Food and Accommodation: snackbar;1 000 to 2 500 m2;1977 to 1993;;
+155;Food and Accommodation: snackbar;1 000 to 2 500 m2;From1994;;
+156;Food and Accommodation: snackbar;2 500 to 5 000 m2;To 1921;;
+157;Food and Accommodation: snackbar;2 500 to 5 000 m2;1922 to 1976;;
+158;Food and Accommodation: snackbar;2 500 to 5 000 m2;1977 to 1993;;
+159;Food and Accommodation: snackbar;2 500 to 5 000 m2;From1994;;
+160;Food and Accommodation: hotel;0 to 250 m2;To 1921;25.1;93.2
+161;Food and Accommodation: hotel;0 to 250 m2;1922 to 1976;17.4;62.7
+162;Food and Accommodation: hotel;0 to 250 m2;1977 to 1993;16.3;42.7
+163;Food and Accommodation: hotel;0 to 250 m2;From1994;22.6;45.5
+164;Food and Accommodation: hotel;250 to 500 m2;To 1921;23.5;68.5
+165;Food and Accommodation: hotel;250 to 500 m2;1922 to 1976;21.5;75.5
+166;Food and Accommodation: hotel;250 to 500 m2;1977 to 1993;;
+167;Food and Accommodation: hotel;250 to 500 m2;From1994;;73.9
+168;Food and Accommodation: hotel;500 to 1 000 m2;To 1921;21.4;82.9
+169;Food and Accommodation: hotel;500 to 1 000 m2;1922 to 1976;26.3;80.4
+170;Food and Accommodation: hotel;500 to 1 000 m2;1977 to 1993;22.1;100.7
+171;Food and Accommodation: hotel;500 to 1 000 m2;From1994;21.0;103.3
+172;Food and Accommodation: hotel;1 000 to 2 500 m2;To 1921;21.8;94.0
+173;Food and Accommodation: hotel;1 000 to 2 500 m2;1922 to 1976;22.1;94.9
+174;Food and Accommodation: hotel;1 000 to 2 500 m2;1977 to 1993;19.7;119.4
+175;Food and Accommodation: hotel;1 000 to 2 500 m2;From1994;21.1;93.1
+176;Food and Accommodation: hotel;2 500 to 5 000 m2;To 1921;;101.5
+177;Food and Accommodation: hotel;2 500 to 5 000 m2;1922 to 1976;22.9;97.5
+178;Food and Accommodation: hotel;2 500 to 5 000 m2;1977 to 1993;;110.8
+179;Food and Accommodation: hotel;2 500 to 5 000 m2;From1994;;124.2
+180;Office: public;0 to 250 m2;To 1921;22.4;56.1
+181;Office: public;0 to 250 m2;1922 to 1976;17.7;58.9
+182;Office: public;0 to 250 m2;1977 to 1993;16.3;55.1
+183;Office: public;0 to 250 m2;From1994;17.8;73.6
+184;Office: public;250 to 500 m2;To 1921;19.3;51.3
+185;Office: public;250 to 500 m2;1922 to 1976;17.5;46.1
+186;Office: public;250 to 500 m2;1977 to 1993;17.6;47.3
+187;Office: public;250 to 500 m2;From1994;17.1;56.9
+188;Office: public;500 to 1 000 m2;To 1921;17.3;42.7
+189;Office: public;500 to 1 000 m2;1922 to 1976;15.0;47.7
+190;Office: public;500 to 1 000 m2;1977 to 1993;14.7;50.4
+191;Office: public;500 to 1 000 m2;From1994;13.7;65.6
+192;Office: public;1 000 to 2 500 m2;To 1921;13.8;53.9
+193;Office: public;1 000 to 2 500 m2;1922 to 1976;13.2;48.1
+194;Office: public;1 000 to 2 500 m2;1977 to 1993;12.4;64.7
+195;Office: public;1 000 to 2 500 m2;From1994;10.7;62.3
+196;Office: public;2 500 to 5 000 m2;To 1921;;
+197;Office: public;2 500 to 5 000 m2;1922 to 1976;11.0;81.9
+198;Office: public;2 500 to 5 000 m2;1977 to 1993;11.3;80.9
+199;Office: public;2 500 to 5 000 m2;From1994;14.5;89.9
+200;Office: other;0 to 250 m2;To 1921;19.9;58.1
+201;Office: other;0 to 250 m2;1922 to 1976;20.0;57.2
+202;Office: other;0 to 250 m2;1977 to 1993;16.1;58.7
+203;Office: other;0 to 250 m2;From1994;12.0;55.9
+204;Office: other;250 to 500 m2;To 1921;16.5;44.6
+205;Office: other;250 to 500 m2;1922 to 1976;16.5;49.9
+206;Office: other;250 to 500 m2;1977 to 1993;14.3;57.0
+207;Office: other;250 to 500 m2;From1994;11.4;53.8
+208;Office: other;500 to 1 000 m2;To 1921;14.2;45.7
+209;Office: other;500 to 1 000 m2;1922 to 1976;14.0;51.8
+210;Office: other;500 to 1 000 m2;1977 to 1993;12.1;59.3
+211;Office: other;500 to 1 000 m2;From1994;11.1;60.8
+212;Office: other;1 000 to 2 500 m2;To 1921;12.3;55.0
+213;Office: other;1 000 to 2 500 m2;1922 to 1976;11.9;58.3
+214;Office: other;1 000 to 2 500 m2;1977 to 1993;11.0;66.0
+215;Office: other;1 000 to 2 500 m2;From1994;10.3;71.4
+216;Office: other;2 500 to 5 000 m2;To 1921;;
+217;Office: other;2 500 to 5 000 m2;1922 to 1976;13.0;65.9
+218;Office: other;2 500 to 5 000 m2;1977 to 1993;11.1;73.9
+219;Office: other;2 500 to 5 000 m2;From1994;9.7;81.2
+220;Education: primary;0 to 250 m2;To 1921;;
+221;Education: primary;0 to 250 m2;1922 to 1976;;
+222;Education: primary;0 to 250 m2;1977 to 1993;;
+223;Education: primary;0 to 250 m2;From1994;19.8;40.2
+224;Education: primary;250 to 500 m2;To 1921;;
+225;Education: primary;250 to 500 m2;1922 to 1976;15.9;32.3
+226;Education: primary;250 to 500 m2;1977 to 1993;17.1;34.3
+227;Education: primary;250 to 500 m2;From1994;16.3;40.5
+228;Education: primary;500 to 1 000 m2;To 1921;16.1;35.6
+229;Education: primary;500 to 1 000 m2;1922 to 1976;14.0;28.1
+230;Education: primary;500 to 1 000 m2;1977 to 1993;13.0;29.8
+231;Education: primary;500 to 1 000 m2;From1994;13.8;34.7
+232;Education: primary;1 000 to 2 500 m2;To 1921;12.9;24.8
+233;Education: primary;1 000 to 2 500 m2;1922 to 1976;11.7;25.1
+234;Education: primary;1 000 to 2 500 m2;1977 to 1993;9.7;27.3
+235;Education: primary;1 000 to 2 500 m2;From1994;8.6;34.3
+236;Education: primary;2 500 to 5 000 m2;To 1921;;
+237;Education: primary;2 500 to 5 000 m2;1922 to 1976;8.1;18.6
+238;Education: primary;2 500 to 5 000 m2;1977 to 1993;6.8;21.1
+239;Education: primary;2 500 to 5 000 m2;From1994;19.6;37.0
+240;Healthcare: communal;0 to 250 m2;To 1921;19.6;46.7
+241;Healthcare: communal;0 to 250 m2;1922 to 1976;15.9;43.4
+242;Healthcare: communal;0 to 250 m2;1977 to 1993;14.4;41.2
+243;Healthcare: communal;0 to 250 m2;From1994;16.4;44.9
+244;Healthcare: communal;250 to 500 m2;To 1921;17.2;38.6
+245;Healthcare: communal;250 to 500 m2;1922 to 1976;15.5;36.4
+246;Healthcare: communal;250 to 500 m2;1977 to 1993;13.1;42.9
+247;Healthcare: communal;250 to 500 m2;From1994;15.8;47.7
+248;Healthcare: communal;500 to 1 000 m2;To 1921;15.7;41.8
+249;Healthcare: communal;500 to 1 000 m2;1922 to 1976;13.6;37.7
+250;Healthcare: communal;500 to 1 000 m2;1977 to 1993;11.6;43.5
+251;Healthcare: communal;500 to 1 000 m2;From1994;13.6;42.7
+252;Healthcare: communal;1 000 to 2 500 m2;To 1921;12.8;34.0
+253;Healthcare: communal;1 000 to 2 500 m2;1922 to 1976;12.7;31.8
+254;Healthcare: communal;1 000 to 2 500 m2;1977 to 1993;10.4;39.5
+255;Healthcare: communal;1 000 to 2 500 m2;From1994;19.6;44.2
+256;Healthcare: communal;2 500 to 5 000 m2;To 1921;;
+257;Healthcare: communal;2 500 to 5 000 m2;1922 to 1976;;
+258;Healthcare: communal;2 500 to 5 000 m2;1977 to 1993;;
+259;Healthcare: communal;2 500 to 5 000 m2;From1994;;
+260;Healthcare: practice;0 to 250 m2;To 1921;19.4;60.9
+261;Healthcare: practice;0 to 250 m2;1922 to 1976;16.0;57.2
+262;Healthcare: practice;0 to 250 m2;1977 to 1993;12.9;62.2
+263;Healthcare: practice;0 to 250 m2;From1994;16.7;61.7
+264;Healthcare: practice;250 to 500 m2;To 1921;16.0;42.6
+265;Healthcare: practice;250 to 500 m2;1922 to 1976;13.8;49.4
+266;Healthcare: practice;250 to 500 m2;1977 to 1993;11.5;56.2
+267;Healthcare: practice;250 to 500 m2;From1994;12.7;60.5
+268;Healthcare: practice;500 to 1 000 m2;To 1921;14.7;34.7
+269;Healthcare: practice;500 to 1 000 m2;1922 to 1976;13.3;48.4
+270;Healthcare: practice;500 to 1 000 m2;1977 to 1993;11.5;57.6
+271;Healthcare: practice;500 to 1 000 m2;From1994;13.6;64.2
+272;Healthcare: practice;1 000 to 2 500 m2;To 1921;;
+273;Healthcare: practice;1 000 to 2 500 m2;1922 to 1976;12.2;52.1
+274;Healthcare: practice;1 000 to 2 500 m2;1977 to 1993;11.1;55.6
+275;Healthcare: practice;1 000 to 2 500 m2;From1994;24.0;67.2
+276;Healthcare: practice;2 500 to 5 000 m2;To 1921;;
+277;Healthcare: practice;2 500 to 5 000 m2;1922 to 1976;;
+278;Healthcare: practice;2 500 to 5 000 m2;1977 to 1993;;
+279;Healthcare: practice;2 500 to 5 000 m2;From1994;;
+280;Healthcare: home;0 to 250 m2;To 1921;21.9;65.5
+281;Healthcare: home;0 to 250 m2;1922 to 1976;18.9;46.8
+282;Healthcare: home;0 to 250 m2;1977 to 1993;16.2;49.5
+283;Healthcare: home;0 to 250 m2;From1994;21.3;49.9
+284;Healthcare: home;250 to 500 m2;To 1921;19.3;58.8
+285;Healthcare: home;250 to 500 m2;1922 to 1976;18.9;46.9
+286;Healthcare: home;250 to 500 m2;1977 to 1993;18.6;51.9
+287;Healthcare: home;250 to 500 m2;From1994;19.6;62.9
+288;Healthcare: home;500 to 1 000 m2;To 1921;19.8;54.2
+289;Healthcare: home;500 to 1 000 m2;1922 to 1976;17.5;46.5
+290;Healthcare: home;500 to 1 000 m2;1977 to 1993;15.2;54.3
+291;Healthcare: home;500 to 1 000 m2;From1994;16.7;59.3
+292;Healthcare: home;1 000 to 2 500 m2;To 1921;18.9;48.2
+293;Healthcare: home;1 000 to 2 500 m2;1922 to 1976;16.6;53.9
+294;Healthcare: home;1 000 to 2 500 m2;1977 to 1993;13.6;56.8
+295;Healthcare: home;1 000 to 2 500 m2;From1994;21.7;61.4
+296;Healthcare: home;2 500 to 5 000 m2;To 1921;;
+297;Healthcare: home;2 500 to 5 000 m2;1922 to 1976;18.1;60.8
+298;Healthcare: home;2 500 to 5 000 m2;1977 to 1993;15.5;65.4
+299;Healthcare: home;2 500 to 5 000 m2;From1994;19.2;71.5
+300;Recreation: indoor sports;0 to 250 m2;To 1921;19.7;54.2
+301;Recreation: indoor sports;0 to 250 m2;1922 to 1976;15.7;56.0
+302;Recreation: indoor sports;0 to 250 m2;1977 to 1993;14.3;54.2
+303;Recreation: indoor sports;0 to 250 m2;From1994;16.4;54.3
+304;Recreation: indoor sports;250 to 500 m2;To 1921;18.1;55.3
+305;Recreation: indoor sports;250 to 500 m2;1922 to 1976;16.6;37.9
+306;Recreation: indoor sports;250 to 500 m2;1977 to 1993;13.0;42.0
+307;Recreation: indoor sports;250 to 500 m2;From1994;11.6;52.4
+308;Recreation: indoor sports;500 to 1 000 m2;To 1921;14.6;53.4
+309;Recreation: indoor sports;500 to 1 000 m2;1922 to 1976;14.5;48.8
+310;Recreation: indoor sports;500 to 1 000 m2;1977 to 1993;10.4;51.4
+311;Recreation: indoor sports;500 to 1 000 m2;From1994;12.2;58.6
+312;Recreation: indoor sports;1 000 to 2 500 m2;To 1921;;
+313;Recreation: indoor sports;1 000 to 2 500 m2;1922 to 1976;12.4;50.6
+314;Recreation: indoor sports;1 000 to 2 500 m2;1977 to 1993;9.5;57.9
+315;Recreation: indoor sports;1 000 to 2 500 m2;From1994;10.5;68.1
+316;Recreation: indoor sports;2 500 to 5 000 m2;To 1921;;
+317;Recreation: indoor sports;2 500 to 5 000 m2;1922 to 1976;9.2;48.9
+318;Recreation: indoor sports;2 500 to 5 000 m2;1977 to 1993;9.2;52.1
+319;Recreation: indoor sports;2 500 to 5 000 m2;From1994;21.4;66.6
+320;Recreation: outdoor sports;0 to 250 m2;To 1921;18.6;97.0
+321;Recreation: outdoor sports;0 to 250 m2;1922 to 1976;16.5;88.0
+322;Recreation: outdoor sports;0 to 250 m2;1977 to 1993;14.2;93.3
+323;Recreation: outdoor sports;0 to 250 m2;From1994;14.8;77.6
+324;Recreation: outdoor sports;250 to 500 m2;To 1921;17.3;67.6
+325;Recreation: outdoor sports;250 to 500 m2;1922 to 1976;15.7;76.5
+326;Recreation: outdoor sports;250 to 500 m2;1977 to 1993;14.4;82.9
+327;Recreation: outdoor sports;250 to 500 m2;From1994;15.5;84.2
+328;Recreation: outdoor sports;500 to 1 000 m2;To 1921;;
+329;Recreation: outdoor sports;500 to 1 000 m2;1922 to 1976;13.9;61.6
+330;Recreation: outdoor sports;500 to 1 000 m2;1977 to 1993;12.4;62.8
+331;Recreation: outdoor sports;500 to 1 000 m2;From1994;10.7;73.4
+332;Recreation: outdoor sports;1 000 to 2 500 m2;To 1921;;
+333;Recreation: outdoor sports;1 000 to 2 500 m2;1922 to 1976;9.0;45.2
+334;Recreation: outdoor sports;1 000 to 2 500 m2;1977 to 1993;9.8;49.3
+335;Recreation: outdoor sports;1 000 to 2 500 m2;From1994;19.4;58.2
+336;Recreation: outdoor sports;2 500 to 5 000 m2;To 1921;;
+337;Recreation: outdoor sports;2 500 to 5 000 m2;1922 to 1976;;
+338;Recreation: outdoor sports;2 500 to 5 000 m2;1977 to 1993;;
+339;Recreation: outdoor sports;2 500 to 5 000 m2;From1994;;
+340;Other: religion;0 to 250 m2;To 1921;19.4;23.9
+341;Other: religion;0 to 250 m2;1922 to 1976;18.7;25.4
+342;Other: religion;0 to 250 m2;1977 to 1993;16.9;30.0
+343;Other: religion;0 to 250 m2;From1994;13.2;25.8
+344;Other: religion;250 to 500 m2;To 1921;16.0;19.0
+345;Other: religion;250 to 500 m2;1922 to 1976;16.5;19.7
+346;Other: religion;250 to 500 m2;1977 to 1993;14.1;21.2
+347;Other: religion;250 to 500 m2;From1994;13.0;22.5
+348;Other: religion;500 to 1 000 m2;To 1921;13.4;17.4
+349;Other: religion;500 to 1 000 m2;1922 to 1976;14.5;17.5
+350;Other: religion;500 to 1 000 m2;1977 to 1993;12.6;19.5
+351;Other: religion;500 to 1 000 m2;From1994;10.7;20.5
+352;Other: religion;1 000 to 2 500 m2;To 1921;10.4;16.4
+353;Other: religion;1 000 to 2 500 m2;1922 to 1976;10.6;15.7
+354;Other: religion;1 000 to 2 500 m2;1977 to 1993;8.6;21.4
+355;Other: religion;1 000 to 2 500 m2;From1994;8.2;21.2
+356;Other: religion;2 500 to 5 000 m2;To 1921;;
+357;Other: religion;2 500 to 5 000 m2;1922 to 1976;;
+358;Other: religion;2 500 to 5 000 m2;1977 to 1993;;
+359;Other: religion;2 500 to 5 000 m2;From1994;;

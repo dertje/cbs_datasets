@@ -1,0 +1,526 @@
+﻿ID;BronTechniek;Perioden;GenormaliseerdeBrutoProductie_1;BrutoElektriciteitsproductie_2;NettoElektriciteitsproductie_3;GenormaliseerdeBrutoProductie_4;BrutoElektriciteitsproductie_5;NettoElektriciteitsproductie_6;OpgesteldeInstallatiesEindeVanJaar_7;OpgesteldElektrischVermogenEindeJaar_8
+0;Totaal hernieuwbare energiebronnen;1990;809.0;807.0;725.0;1.0;0.99;0.92;;
+1;Totaal hernieuwbare energiebronnen;1991;930.0;935.0;851.0;1.11;1.12;1.05;;
+2;Totaal hernieuwbare energiebronnen;1992;982.0;994.0;898.0;1.14;1.16;1.08;;
+3;Totaal hernieuwbare energiebronnen;1993;1128.0;1107.0;957.0;1.29;1.27;1.14;;
+4;Totaal hernieuwbare energiebronnen;1994;1252.0;1257.0;1093.0;1.39;1.39;1.26;;
+5;Totaal hernieuwbare energiebronnen;1995;1423.0;1404.0;1220.0;1.54;1.52;1.37;;
+6;Totaal hernieuwbare energiebronnen;1996;1841.0;1816.0;1582.0;1.92;1.89;1.71;;
+7;Totaal hernieuwbare energiebronnen;1997;2045.0;2015.0;1732.0;2.06;2.03;1.81;;
+8;Totaal hernieuwbare energiebronnen;1998;2259.0;2328.0;2024.0;2.19;2.26;2.04;;
+9;Totaal hernieuwbare energiebronnen;1999;2530.0;2509.0;2194.0;2.41;2.39;2.16;;
+10;Totaal hernieuwbare energiebronnen;2000;2871.0;2979.0;2657.0;2.64;2.74;2.53;;
+11;Totaal hernieuwbare energiebronnen;2001;3307.0;3309.0;2985.0;2.98;2.98;2.79;;
+12;Totaal hernieuwbare energiebronnen;2002;4062.0;3981.0;3627.0;3.62;3.54;3.34;;
+13;Totaal hernieuwbare energiebronnen;2003;4048.0;3969.0;3642.0;3.56;3.49;3.31;;
+14;Totaal hernieuwbare energiebronnen;2004;5228.0;5314.0;4954.0;4.45;4.52;4.37;;
+15;Totaal hernieuwbare energiebronnen;2005;7448.0;7452.0;7005.0;6.3;6.3;6.15;;
+16;Totaal hernieuwbare energiebronnen;2006;7868.0;8049.0;7579.0;6.54;6.69;6.53;;
+17;Totaal hernieuwbare energiebronnen;2007;7322.0;7584.0;7139.0;5.96;6.18;6.02;;
+18;Totaal hernieuwbare energiebronnen;2008;9214.0;9533.0;8963.0;7.47;7.72;7.53;;
+19;Totaal hernieuwbare energiebronnen;2009;10755.0;10835.0;10187.0;9.07;9.14;8.94;;
+20;Totaal hernieuwbare energiebronnen;2010;11718.0;11196.0;10485.0;9.6;9.17;8.89;;
+21;Totaal hernieuwbare energiebronnen;2011;11985.0;12320.0;11584.0;9.74;10.01;9.75;;
+22;Totaal hernieuwbare energiebronnen;2012;12456.0;12481.0;11742.0;10.34;10.36;10.09;;
+23;Totaal hernieuwbare energiebronnen;2013;11881.0;12106.0;11429.0;9.9;10.09;9.87;;
+24;Totaal hernieuwbare energiebronnen;2014;11733.0;11648.0;10979.0;9.93;9.86;9.67;;
+25;Totaal hernieuwbare energiebronnen;2015;13152.0;13685.0;13009.0;11.04;11.49;11.4;;
+26;Totaal hernieuwbare energiebronnen;2016;15073.0;14777.0;14103.0;12.55;12.31;12.16;;
+27;Totaal hernieuwbare energiebronnen;2017;16673.0;17437.0;16764.0;13.81;14.44;14.33;;
+28;Totaal hernieuwbare energiebronnen;2018;18533.0;18892.0;18242.0;15.18;15.47;15.37;;
+29;Totaal hernieuwbare energiebronnen;2019;22277.0;22796.0;22041.0;18.23;18.65;18.57;;
+30;Totaal hernieuwbare energiebronnen;2020;31924.0;32740.0;31792.0;26.41;27.14;27.12;;
+31;Totaal hernieuwbare energiebronnen;2021 ;40706.0;40433.0;38888.0;33.25;33.03;32.91;;
+32;Totaal hernieuwbare energiebronnen;2022;46512.0;48093.0;46510.0;39.65;41.0;41.16;;
+33;Totaal hernieuwbare energiebronnen;2023;53671.0;56779.0;55322.0;46.4;49.09;49.45;;
+34;Totaal hernieuwbare energiebronnen;2024 ;;61911.0;60796.0;;52.06;52.45;;
+35;Waterkracht;1990;85.0;85.0;85.0;0.1;0.1;0.11;5.0;37.0
+36;Waterkracht;1991;95.0;104.0;104.0;0.11;0.12;0.13;5.0;37.0
+37;Waterkracht;1992;103.0;120.0;120.0;0.12;0.14;0.14;5.0;37.0
+38;Waterkracht;1993;100.0;92.0;92.0;0.11;0.11;0.11;5.0;37.0
+39;Waterkracht;1994;100.0;100.0;100.0;0.11;0.11;0.11;5.0;37.0
+40;Waterkracht;1995;98.0;88.0;88.0;0.11;0.1;0.1;5.0;37.0
+41;Waterkracht;1996;96.0;80.0;80.0;0.1;0.08;0.09;5.0;37.0
+42;Waterkracht;1997;95.0;92.0;92.0;0.1;0.09;0.1;5.0;37.0
+43;Waterkracht;1998;97.0;112.0;112.0;0.09;0.11;0.11;5.0;37.0
+44;Waterkracht;1999;96.0;90.0;90.0;0.09;0.09;0.09;5.0;37.0
+45;Waterkracht;2000;100.0;142.0;142.0;0.09;0.13;0.14;6.0;37.0
+46;Waterkracht;2001;102.0;117.0;117.0;0.09;0.11;0.11;6.0;37.0
+47;Waterkracht;2002;103.0;110.0;110.0;0.09;0.1;0.1;6.0;37.0
+48;Waterkracht;2003;100.0;72.0;72.0;0.09;0.06;0.07;6.0;37.0
+49;Waterkracht;2004;100.0;95.0;95.0;0.09;0.08;0.08;6.0;37.0
+50;Waterkracht;2005;100.0;88.0;88.0;0.08;0.07;0.08;6.0;37.0
+51;Waterkracht;2006;100.0;106.0;106.0;0.08;0.09;0.09;6.0;37.0
+52;Waterkracht;2007;99.0;107.0;107.0;0.08;0.09;0.09;6.0;37.0
+53;Waterkracht;2008;100.0;102.0;102.0;0.08;0.08;0.09;6.0;37.0
+54;Waterkracht;2009;100.0;98.0;98.0;0.08;0.08;0.09;6.0;37.0
+55;Waterkracht;2010;101.0;105.0;105.0;0.08;0.09;0.09;7.0;37.0
+56;Waterkracht;2011;100.0;57.0;57.0;0.08;0.05;0.05;7.0;37.0
+57;Waterkracht;2012;100.0;104.0;104.0;0.08;0.09;0.09;7.0;37.0
+58;Waterkracht;2013;101.0;114.0;114.0;0.08;0.1;0.1;7.0;37.0
+59;Waterkracht;2014;102.0;112.0;112.0;0.09;0.09;0.1;7.0;37.0
+60;Waterkracht;2015;99.0;93.0;93.0;0.08;0.08;0.08;7.0;37.0
+61;Waterkracht;2016;98.0;100.0;100.0;0.08;0.08;0.09;7.0;37.0
+62;Waterkracht;2017;94.0;61.0;61.0;0.08;0.05;0.05;7.0;37.0
+63;Waterkracht;2018;94.0;72.0;72.0;0.08;0.06;0.06;7.0;37.0
+64;Waterkracht;2019;93.0;74.0;74.0;0.08;0.06;0.06;7.0;37.0
+65;Waterkracht;2020;90.0;46.0;46.0;0.07;0.04;0.04;7.0;37.0
+66;Waterkracht;2021 ;91.0;88.0;88.0;0.07;0.07;0.08;8.0;38.0
+67;Waterkracht;2022;87.0;50.0;50.0;0.07;0.04;0.04;8.0;38.0
+68;Waterkracht;2023;84.0;69.0;69.0;0.07;0.06;0.06;8.0;38.0
+69;Waterkracht;2024 ;;85.0;85.0;;0.07;0.07;;38.0
+70;Totaal windenergie;1990;56.0;56.0;56.0;0.07;0.07;0.07;323.0;50.0
+71;Totaal windenergie;1991;88.0;88.0;88.0;0.11;0.11;0.11;429.0;83.0
+72;Totaal windenergie;1992;137.0;147.0;147.0;0.16;0.17;0.18;497.0;101.0
+73;Totaal windenergie;1993;173.0;174.0;174.0;0.2;0.2;0.21;633.0;131.0
+74;Totaal windenergie;1994;221.0;238.0;238.0;0.24;0.26;0.27;724.0;152.0
+75;Totaal windenergie;1995;314.0;317.0;317.0;0.34;0.34;0.36;1008.0;250.0
+76;Totaal windenergie;1996;435.0;437.0;437.0;0.45;0.46;0.47;1115.0;296.0
+77;Totaal windenergie;1997;489.0;475.0;475.0;0.49;0.48;0.5;1148.0;324.0
+78;Totaal windenergie;1998;571.0;640.0;640.0;0.55;0.62;0.64;1193.0;363.0
+79;Totaal windenergie;1999;642.0;645.0;645.0;0.61;0.61;0.63;1253.0;410.0
+80;Totaal windenergie;2000;744.0;829.0;829.0;0.69;0.76;0.79;1291.0;447.0
+81;Totaal windenergie;2001;822.0;825.0;825.0;0.74;0.74;0.77;1342.0;485.0
+82;Totaal windenergie;2002;1020.0;947.0;947.0;0.91;0.84;0.87;1454.0;672.0
+83;Totaal windenergie;2003;1359.0;1320.0;1320.0;1.19;1.16;1.2;1598.0;905.0
+84;Totaal windenergie;2004;1763.0;1871.0;1871.0;1.5;1.59;1.65;1654.0;1075.0
+85;Totaal windenergie;2005;2034.0;2067.0;2067.0;1.72;1.75;1.81;1710.0;1224.0
+86;Totaal windenergie;2006;2540.0;2734.0;2734.0;2.11;2.27;2.35;1830.0;1561.0
+87;Totaal windenergie;2007;3166.0;3438.0;3438.0;2.58;2.8;2.9;1891.0;1749.0
+88;Totaal windenergie;2008;3925.0;4260.0;4260.0;3.18;3.45;3.58;2038.0;2149.0
+89;Totaal windenergie;2009;4481.0;4581.0;4581.0;3.78;3.86;4.02;1972.0;2222.0
+90;Totaal windenergie;2010;4503.0;3993.0;3993.0;3.69;3.27;3.39;1973.0;2237.0
+91;Totaal windenergie;2011;4725.0;5100.0;5100.0;3.84;4.14;4.29;1978.0;2316.0
+92;Totaal windenergie;2012;4939.0;4982.0;4982.0;4.1;4.14;4.28;1978.0;2433.0
+93;Totaal windenergie;2013;5368.0;5627.0;5627.0;4.47;4.69;4.86;2073.0;2713.0
+94;Totaal windenergie;2014;5810.0;5797.0;5797.0;4.92;4.91;5.11;2124.0;2865.0
+95;Totaal windenergie;2015;6917.0;7550.0;7550.0;5.81;6.34;6.61;2171.0;3391.0
+96;Totaal windenergie;2016;8364.0;8170.0;8170.0;6.97;6.8;7.05;2331.0;4257.0
+97;Totaal windenergie;2017;9642.0;10569.0;10569.0;7.98;8.75;9.04;2270.0;4202.0
+98;Totaal windenergie;2018;10030.0;10549.0;10548.0;8.22;8.64;8.89;2318.0;4393.0
+99;Totaal windenergie;2019;10774.0;11508.0;11508.0;8.82;9.42;9.69;2321.0;4484.0
+100;Totaal windenergie;2020;13949.0;15278.0;15278.0;11.54;12.66;13.03;2612.0;6648.0
+101;Totaal windenergie;2021 ;18998.0;18123.0;17679.0;15.52;14.8;14.96;2770.0;7646.0
+102;Totaal windenergie;2022;21404.0;21566.0;21071.0;18.25;18.38;18.64;2918.0;8700.0
+103;Totaal windenergie;2023;26854.0;29525.0;28926.0;23.22;25.52;25.86;3157.0;10734.0
+104;Totaal windenergie;2024 ;;33368.0;32700.0;;28.06;28.21;;11701.0
+105;Windenergie op land;1990;56.0;56.0;56.0;0.07;0.07;0.07;323.0;50.0
+106;Windenergie op land;1991;88.0;88.0;88.0;0.11;0.11;0.11;429.0;83.0
+107;Windenergie op land;1992;137.0;147.0;147.0;0.16;0.17;0.18;497.0;101.0
+108;Windenergie op land;1993;173.0;174.0;174.0;0.2;0.2;0.21;633.0;131.0
+109;Windenergie op land;1994;221.0;238.0;238.0;0.24;0.26;0.27;724.0;152.0
+110;Windenergie op land;1995;314.0;317.0;317.0;0.34;0.34;0.36;1008.0;250.0
+111;Windenergie op land;1996;435.0;437.0;437.0;0.45;0.46;0.47;1115.0;296.0
+112;Windenergie op land;1997;489.0;475.0;475.0;0.49;0.48;0.5;1148.0;324.0
+113;Windenergie op land;1998;571.0;640.0;640.0;0.55;0.62;0.64;1193.0;363.0
+114;Windenergie op land;1999;642.0;645.0;645.0;0.61;0.61;0.63;1253.0;410.0
+115;Windenergie op land;2000;744.0;829.0;829.0;0.69;0.76;0.79;1291.0;447.0
+116;Windenergie op land;2001;822.0;825.0;825.0;0.74;0.74;0.77;1342.0;485.0
+117;Windenergie op land;2002;1020.0;947.0;947.0;0.91;0.84;0.87;1454.0;672.0
+118;Windenergie op land;2003;1359.0;1320.0;1320.0;1.19;1.16;1.2;1598.0;905.0
+119;Windenergie op land;2004;1763.0;1871.0;1871.0;1.5;1.59;1.65;1654.0;1075.0
+120;Windenergie op land;2005;2034.0;2067.0;2067.0;1.72;1.75;1.81;1710.0;1224.0
+121;Windenergie op land;2006;2477.0;2666.0;2666.0;2.06;2.22;2.3;1794.0;1453.0
+122;Windenergie op land;2007;2862.0;3108.0;3108.0;2.33;2.53;2.62;1855.0;1641.0
+123;Windenergie op land;2008;3376.0;3664.0;3664.0;2.74;2.97;3.08;1942.0;1921.0
+124;Windenergie op land;2009;3762.0;3846.0;3846.0;3.17;3.24;3.37;1876.0;1994.0
+125;Windenergie op land;2010;3737.0;3315.0;3315.0;3.06;2.72;2.81;1877.0;2009.0
+126;Windenergie op land;2011;3982.0;4298.0;4298.0;3.24;3.49;3.62;1882.0;2088.0
+127;Windenergie op land;2012;4156.0;4193.0;4193.0;3.45;3.48;3.6;1882.0;2205.0
+128;Windenergie op land;2013;4632.0;4856.0;4856.0;3.86;4.05;4.19;1977.0;2485.0
+129;Windenergie op land;2014;5060.0;5049.0;5049.0;4.28;4.27;4.45;2028.0;2637.0
+130;Windenergie op land;2015;5882.0;6420.0;6420.0;4.94;5.39;5.62;2032.0;3034.0
+131;Windenergie op land;2016;6041.0;5901.0;5901.0;5.03;4.91;5.09;2042.0;3300.0
+132;Windenergie op land;2017;6267.0;6869.0;6869.0;5.19;5.69;5.87;1981.0;3245.0
+133;Windenergie op land;2018;6578.0;6918.0;6918.0;5.39;5.67;5.83;2029.0;3436.0
+134;Windenergie op land;2019;7429.0;7935.0;7935.0;6.08;6.49;6.68;2032.0;3527.0
+135;Windenergie op land;2020;8962.0;9794.0;9794.0;7.41;8.12;8.36;2150.0;4188.0
+136;Windenergie op land;2021 ;10454.0;10058.0;9813.0;8.54;8.22;8.3;2308.0;5186.0
+137;Windenergie op land;2022;12957.0;13440.0;13134.0;11.04;11.46;11.62;2446.0;6131.0
+138;Windenergie op land;2023;15767.0;17814.0;17453.0;13.63;15.4;15.6;2557.0;6757.0
+139;Windenergie op land;2024 ;;17880.0;17518.0;;15.03;15.11;;6953.0
+140;Windenergie op zee;1990;;;;;;;;
+141;Windenergie op zee;1991;;;;;;;;
+142;Windenergie op zee;1992;;;;;;;;
+143;Windenergie op zee;1993;;;;;;;;
+144;Windenergie op zee;1994;;;;;;;;
+145;Windenergie op zee;1995;;;;;;;;
+146;Windenergie op zee;1996;;;;;;;;
+147;Windenergie op zee;1997;;;;;;;;
+148;Windenergie op zee;1998;;;;;;;;
+149;Windenergie op zee;1999;;;;;;;;
+150;Windenergie op zee;2000;;;;;;;;
+151;Windenergie op zee;2001;;;;;;;;
+152;Windenergie op zee;2002;;;;;;;;
+153;Windenergie op zee;2003;;;;;;;;
+154;Windenergie op zee;2004;;;;;;;;
+155;Windenergie op zee;2005;;;;;;;;
+156;Windenergie op zee;2006;63.0;68.0;68.0;0.05;0.06;0.06;36.0;108.0
+157;Windenergie op zee;2007;303.0;330.0;330.0;0.25;0.27;0.28;36.0;108.0
+158;Windenergie op zee;2008;549.0;596.0;596.0;0.44;0.48;0.5;96.0;228.0
+159;Windenergie op zee;2009;719.0;735.0;735.0;0.61;0.62;0.64;96.0;228.0
+160;Windenergie op zee;2010;765.0;679.0;679.0;0.63;0.56;0.58;96.0;228.0
+161;Windenergie op zee;2011;743.0;802.0;802.0;0.6;0.65;0.67;96.0;228.0
+162;Windenergie op zee;2012;782.0;789.0;789.0;0.65;0.66;0.68;96.0;228.0
+163;Windenergie op zee;2013;736.0;771.0;771.0;0.61;0.64;0.67;96.0;228.0
+164;Windenergie op zee;2014;750.0;748.0;748.0;0.63;0.63;0.66;96.0;228.0
+165;Windenergie op zee;2015;1035.0;1130.0;1130.0;0.87;0.95;0.99;139.0;357.0
+166;Windenergie op zee;2016;2323.0;2269.0;2269.0;1.93;1.89;1.96;289.0;957.0
+167;Windenergie op zee;2017;3375.0;3700.0;3700.0;2.8;3.06;3.16;289.0;957.0
+168;Windenergie op zee;2018;3452.0;3630.0;3630.0;2.83;2.97;3.06;289.0;957.0
+169;Windenergie op zee;2019;3345.0;3573.0;3573.0;2.74;2.92;3.01;289.0;957.0
+170;Windenergie op zee;2020;4987.0;5484.0;5484.0;4.13;4.55;4.68;462.0;2460.0
+171;Windenergie op zee;2021 ;8544.0;8066.0;7865.0;6.98;6.59;6.66;462.0;2460.0
+172;Windenergie op zee;2022;8447.0;8126.0;7936.0;7.2;6.93;7.02;472.0;2570.0
+173;Windenergie op zee;2023;11087.0;11712.0;11473.0;9.59;10.12;10.26;600.0;3978.0
+174;Windenergie op zee;2024 ;;15488.0;15182.0;;13.02;13.1;;4748.0
+175;Zonnestroom;1990;0.0;0.0;0.0;0.0;0.0;0.0;;1.0
+176;Zonnestroom;1991;1.0;1.0;1.0;0.0;0.0;0.0;;1.0
+177;Zonnestroom;1992;1.0;1.0;1.0;0.0;0.0;0.0;;1.0
+178;Zonnestroom;1993;1.0;1.0;1.0;0.0;0.0;0.0;;2.0
+179;Zonnestroom;1994;1.0;1.0;1.0;0.0;0.0;0.0;;2.0
+180;Zonnestroom;1995;2.0;2.0;2.0;0.0;0.0;0.0;;2.0
+181;Zonnestroom;1996;2.0;2.0;2.0;0.0;0.0;0.0;;3.0
+182;Zonnestroom;1997;3.0;3.0;3.0;0.0;0.0;0.0;;4.0
+183;Zonnestroom;1998;4.0;4.0;4.0;0.0;0.0;0.0;;6.0
+184;Zonnestroom;1999;5.0;5.0;5.0;0.01;0.01;0.01;;9.0
+185;Zonnestroom;2000;8.0;8.0;8.0;0.01;0.01;0.01;;13.0
+186;Zonnestroom;2001;12.0;12.0;12.0;0.01;0.01;0.01;;21.0
+187;Zonnestroom;2002;16.0;16.0;16.0;0.01;0.01;0.02;;26.0
+188;Zonnestroom;2003;25.0;25.0;25.0;0.02;0.02;0.02;;46.0
+189;Zonnestroom;2004;34.0;34.0;34.0;0.03;0.03;0.03;;50.0
+190;Zonnestroom;2005;35.0;35.0;35.0;0.03;0.03;0.03;;51.0
+191;Zonnestroom;2006;37.0;37.0;37.0;0.03;0.03;0.03;;53.0
+192;Zonnestroom;2007;38.0;38.0;38.0;0.03;0.03;0.03;;54.0
+193;Zonnestroom;2008;40.0;40.0;40.0;0.03;0.03;0.03;;59.0
+194;Zonnestroom;2009;45.0;45.0;45.0;0.04;0.04;0.04;;69.0
+195;Zonnestroom;2010;56.0;56.0;56.0;0.05;0.05;0.05;;90.0
+196;Zonnestroom;2011;104.0;104.0;104.0;0.08;0.08;0.09;;149.0
+197;Zonnestroom;2012;191.0;191.0;191.0;0.16;0.16;0.16;;287.0
+198;Zonnestroom;2013;410.0;410.0;410.0;0.34;0.34;0.35;;650.0
+199;Zonnestroom;2014;725.0;725.0;725.0;0.61;0.61;0.64;;1007.0
+200;Zonnestroom;2015;1109.0;1109.0;1109.0;0.93;0.93;0.97;;1526.0
+201;Zonnestroom;2016;1602.0;1602.0;1602.0;1.33;1.33;1.38;;2135.0
+202;Zonnestroom;2017;2208.0;2208.0;2208.0;1.83;1.83;1.89;;2911.0
+203;Zonnestroom;2018;3709.0;3709.0;3709.0;3.04;3.04;3.13;;4608.0
+204;Zonnestroom;2019;5399.0;5399.0;5399.0;4.42;4.42;4.55;;7226.0
+205;Zonnestroom;2020;8765.0;8568.0;8568.0;7.25;7.1;7.31;;11108.0
+206;Zonnestroom;2021 ;11304.0;11304.0;11304.0;9.23;9.23;9.57;1730285.0;14823.0
+207;Zonnestroom;2022;16657.0;16657.0;16657.0;14.2;14.2;14.74;2298859.0;17356.0
+208;Zonnestroom;2023;19578.0;19578.0;19578.0;16.93;16.93;17.5;2875487.0;21275.0
+209;Zonnestroom;2024 ;;21645.0;21645.0;;18.2;18.67;;24359.0
+210;Totaal biomassa;1990;668.0;665.0;583.0;0.82;0.82;0.74;;
+211;Totaal biomassa;1991;747.0;742.0;658.0;0.9;0.89;0.81;;
+212;Totaal biomassa;1992;741.0;726.0;630.0;0.86;0.85;0.76;;
+213;Totaal biomassa;1993;854.0;839.0;690.0;0.98;0.96;0.82;;
+214;Totaal biomassa;1994;930.0;918.0;754.0;1.03;1.02;0.87;;
+215;Totaal biomassa;1995;1009.0;998.0;814.0;1.09;1.08;0.91;;
+216;Totaal biomassa;1996;1308.0;1297.0;1063.0;1.36;1.35;1.15;;
+217;Totaal biomassa;1997;1458.0;1446.0;1162.0;1.47;1.46;1.21;;
+218;Totaal biomassa;1998;1587.0;1572.0;1269.0;1.54;1.53;1.28;;
+219;Totaal biomassa;1999;1786.0;1768.0;1453.0;1.7;1.68;1.43;;
+220;Totaal biomassa;2000;2019.0;1999.0;1678.0;1.86;1.84;1.6;;
+221;Totaal biomassa;2001;2372.0;2355.0;2031.0;2.14;2.12;1.9;;
+222;Totaal biomassa;2002;2923.0;2908.0;2554.0;2.6;2.59;2.35;;
+223;Totaal biomassa;2003;2564.0;2552.0;2225.0;2.25;2.24;2.02;;
+224;Totaal biomassa;2004;3332.0;3315.0;2955.0;2.84;2.82;2.6;;
+225;Totaal biomassa;2005;5279.0;5262.0;4815.0;4.47;4.45;4.22;;
+226;Totaal biomassa;2006;5191.0;5173.0;4703.0;4.32;4.3;4.05;;
+227;Totaal biomassa;2007;4019.0;4001.0;3556.0;3.27;3.26;3.0;;
+228;Totaal biomassa;2008;5149.0;5132.0;4562.0;4.17;4.16;3.83;;
+229;Totaal biomassa;2009;6130.0;6111.0;5463.0;5.17;5.15;4.79;;
+230;Totaal biomassa;2010;7058.0;7043.0;6331.0;5.78;5.77;5.37;;
+231;Totaal biomassa;2011;7056.0;7059.0;6323.0;5.73;5.74;5.32;;
+232;Totaal biomassa;2012;7226.0;7204.0;6465.0;6.0;5.98;5.56;;
+233;Totaal biomassa;2013;6003.0;5954.0;5277.0;5.0;4.96;4.56;;
+234;Totaal biomassa;2014;5096.0;5013.0;4345.0;4.31;4.24;3.83;;
+235;Totaal biomassa;2015;5028.0;4934.0;4258.0;4.22;4.14;3.73;;
+236;Totaal biomassa;2016;5010.0;4905.0;4231.0;4.17;4.08;3.65;;
+237;Totaal biomassa;2017;4729.0;4599.0;3926.0;3.92;3.81;3.36;;
+238;Totaal biomassa;2018;4700.0;4561.0;3912.0;3.85;3.74;3.3;;
+239;Totaal biomassa;2019;6011.0;5814.0;5060.0;4.92;4.76;4.26;;
+240;Totaal biomassa;2020;9121.0;8848.0;7899.0;7.54;7.34;6.74;;
+241;Totaal biomassa;2021 ;10314.0;10918.0;9817.0;8.43;8.92;8.31;;
+242;Totaal biomassa;2022;8365.0;9820.0;8733.0;7.13;8.37;7.73;;
+243;Totaal biomassa;2023;7155.0;7607.0;6748.0;6.18;6.58;6.03;;
+244;Totaal biomassa;2024 ;;6813.0;6366.0;;5.73;5.49;;
+245;Afvalverbrandingsinstallaties;1990;539.0;539.0;462.0;0.67;0.67;0.59;;196.0
+246;Afvalverbrandingsinstallaties;1991;588.0;588.0;510.0;0.71;0.71;0.63;;197.0
+247;Afvalverbrandingsinstallaties;1992;567.0;567.0;476.0;0.66;0.66;0.57;;197.0
+248;Afvalverbrandingsinstallaties;1993;634.0;634.0;492.0;0.73;0.73;0.58;;277.0
+249;Afvalverbrandingsinstallaties;1994;661.0;661.0;506.0;0.73;0.73;0.58;;277.0
+250;Afvalverbrandingsinstallaties;1995;703.0;703.0;528.0;0.76;0.76;0.59;;277.0
+251;Afvalverbrandingsinstallaties;1996;953.0;953.0;731.0;0.99;0.99;0.79;;387.0
+252;Afvalverbrandingsinstallaties;1997;1108.0;1108.0;836.0;1.12;1.12;0.87;;394.0
+253;Afvalverbrandingsinstallaties;1998;1188.0;1188.0;898.0;1.15;1.15;0.9;;394.0
+254;Afvalverbrandingsinstallaties;1999;1261.0;1261.0;967.0;1.2;1.2;0.95;;394.0
+255;Afvalverbrandingsinstallaties;2000;1272.0;1272.0;987.0;1.17;1.17;0.94;11.0;394.0
+256;Afvalverbrandingsinstallaties;2001;1214.0;1214.0;945.0;1.09;1.09;0.88;11.0;394.0
+257;Afvalverbrandingsinstallaties;2002;1207.0;1207.0;933.0;1.07;1.07;0.86;11.0;394.0
+258;Afvalverbrandingsinstallaties;2003;1208.0;1208.0;946.0;1.06;1.06;0.86;11.0;400.0
+259;Afvalverbrandingsinstallaties;2004;1178.0;1178.0;915.0;1.0;1.0;0.81;11.0;400.0
+260;Afvalverbrandingsinstallaties;2005;1266.0;1266.0;984.0;1.07;1.07;0.86;11.0;429.0
+261;Afvalverbrandingsinstallaties;2006;1312.0;1312.0;1013.0;1.09;1.09;0.87;11.0;429.0
+262;Afvalverbrandingsinstallaties;2007;1395.0;1395.0;1095.0;1.14;1.14;0.92;11.0;506.0
+263;Afvalverbrandingsinstallaties;2008;1409.0;1409.0;1070.0;1.14;1.14;0.9;11.0;506.0
+264;Afvalverbrandingsinstallaties;2009;1572.0;1572.0;1207.0;1.33;1.33;1.06;11.0;546.0
+265;Afvalverbrandingsinstallaties;2010;1763.0;1763.0;1397.0;1.44;1.44;1.18;11.0;586.0
+266;Afvalverbrandingsinstallaties;2011;2034.0;2034.0;1634.0;1.65;1.65;1.38;12.0;649.0
+267;Afvalverbrandingsinstallaties;2012;2235.0;2235.0;1800.0;1.86;1.86;1.55;12.0;649.0
+268;Afvalverbrandingsinstallaties;2013;2076.0;2076.0;1667.0;1.73;1.73;1.44;12.0;649.0
+269;Afvalverbrandingsinstallaties;2014;1909.0;1909.0;1481.0;1.62;1.62;1.31;12.0;649.0
+270;Afvalverbrandingsinstallaties;2015;1997.0;1997.0;1550.0;1.68;1.68;1.36;12.0;649.0
+271;Afvalverbrandingsinstallaties;2016;2005.0;2005.0;1569.0;1.67;1.67;1.35;12.0;649.0
+272;Afvalverbrandingsinstallaties;2017;1904.0;1904.0;1478.0;1.58;1.58;1.26;12.0;649.0
+273;Afvalverbrandingsinstallaties;2018;2172.0;2172.0;1753.0;1.78;1.78;1.48;12.0;800.0
+274;Afvalverbrandingsinstallaties;2019;2082.0;2082.0;1651.0;1.7;1.7;1.39;;778.0
+275;Afvalverbrandingsinstallaties;2020;2193.0;2193.0;1780.0;1.81;1.82;1.52;;780.0
+276;Afvalverbrandingsinstallaties;2021 ;2208.0;2208.0;1779.0;1.8;1.8;1.5;;788.0
+277;Afvalverbrandingsinstallaties;2022;2225.0;2225.0;1753.0;1.9;1.9;1.55;;788.0
+278;Afvalverbrandingsinstallaties;2023;1982.0;1982.0;1581.0;1.71;1.71;1.41;;788.0
+279;Afvalverbrandingsinstallaties;2024 ;;1799.0;1745.0;;1.51;1.5;;
+280;Bij- en meestoken biomassa in centrales;1990;;;;;;;;
+281;Bij- en meestoken biomassa in centrales;1991;;;;;;;;
+282;Bij- en meestoken biomassa in centrales;1992;;;;;;;;
+283;Bij- en meestoken biomassa in centrales;1993;;;;;;;;
+284;Bij- en meestoken biomassa in centrales;1994;;;;;;;;
+285;Bij- en meestoken biomassa in centrales;1995;4.0;4.0;4.0;0.0;0.0;0.0;;
+286;Bij- en meestoken biomassa in centrales;1996;42.0;42.0;40.0;0.04;0.04;0.04;;
+287;Bij- en meestoken biomassa in centrales;1997;40.0;40.0;38.0;0.04;0.04;0.04;;
+288;Bij- en meestoken biomassa in centrales;1998;101.0;101.0;96.0;0.1;0.1;0.1;;
+289;Bij- en meestoken biomassa in centrales;1999;165.0;165.0;157.0;0.16;0.16;0.15;;
+290;Bij- en meestoken biomassa in centrales;2000;208.0;208.0;198.0;0.19;0.19;0.19;;
+291;Bij- en meestoken biomassa in centrales;2001;591.0;591.0;563.0;0.53;0.53;0.53;;
+292;Bij- en meestoken biomassa in centrales;2002;1134.0;1134.0;1082.0;1.01;1.01;1.0;;
+293;Bij- en meestoken biomassa in centrales;2003;795.0;795.0;757.0;0.7;0.7;0.69;;
+294;Bij- en meestoken biomassa in centrales;2004;1609.0;1609.0;1539.0;1.37;1.37;1.36;;
+295;Bij- en meestoken biomassa in centrales;2005;3449.0;3449.0;3310.0;2.92;2.92;2.9;;
+296;Bij- en meestoken biomassa in centrales;2006;3244.0;3244.0;3103.0;2.7;2.7;2.67;;
+297;Bij- en meestoken biomassa in centrales;2007;1816.0;1816.0;1711.0;1.48;1.48;1.44;;
+298;Bij- en meestoken biomassa in centrales;2008;2248.0;2248.0;2116.0;1.82;1.82;1.78;;
+299;Bij- en meestoken biomassa in centrales;2009;2615.0;2615.0;2472.0;2.21;2.21;2.17;;
+300;Bij- en meestoken biomassa in centrales;2010;3237.0;3237.0;3043.0;2.65;2.65;2.58;;
+301;Bij- en meestoken biomassa in centrales;2011;3182.0;3182.0;2979.0;2.59;2.59;2.51;;
+302;Bij- en meestoken biomassa in centrales;2012;2953.0;2953.0;2802.0;2.45;2.45;2.41;;
+303;Bij- en meestoken biomassa in centrales;2013;1814.0;1814.0;1699.0;1.51;1.51;1.47;;
+304;Bij- en meestoken biomassa in centrales;2014;933.0;933.0;867.0;0.79;0.79;0.76;;
+305;Bij- en meestoken biomassa in centrales;2015;514.0;514.0;485.0;0.43;0.43;0.43;;
+306;Bij- en meestoken biomassa in centrales;2016;442.0;442.0;419.0;0.37;0.37;0.36;;
+307;Bij- en meestoken biomassa in centrales;2017;530.0;530.0;503.0;0.44;0.44;0.43;;
+308;Bij- en meestoken biomassa in centrales;2018;654.0;654.0;608.0;0.54;0.54;0.51;;
+309;Bij- en meestoken biomassa in centrales;2019;1865.0;1865.0;1730.0;1.53;1.53;1.46;;
+310;Bij- en meestoken biomassa in centrales;2020;4762.0;4762.0;4407.0;3.94;3.95;3.76;;
+311;Bij- en meestoken biomassa in centrales;2021 ;6770.0;6770.0;6311.0;5.53;5.53;5.34;;
+312;Bij- en meestoken biomassa in centrales;2022;5541.0;5541.0;5155.0;4.72;4.72;4.56;;
+313;Bij- en meestoken biomassa in centrales;2023;3775.0;3776.0;3518.0;3.26;3.26;3.14;;
+314;Bij- en meestoken biomassa in centrales;2024 ;;3294.0;3093.0;;2.77;2.67;;
+315;Biomassaketels bedrijven, WKK;1990;34.0;34.0;33.0;0.04;0.04;0.04;;
+316;Biomassaketels bedrijven, WKK;1991;34.0;34.0;32.0;0.04;0.04;0.04;;
+317;Biomassaketels bedrijven, WKK;1992;30.0;30.0;29.0;0.04;0.04;0.03;;
+318;Biomassaketels bedrijven, WKK;1993;25.0;25.0;24.0;0.03;0.03;0.03;;
+319;Biomassaketels bedrijven, WKK;1994;31.0;31.0;29.0;0.03;0.03;0.03;;
+320;Biomassaketels bedrijven, WKK;1995;36.0;36.0;35.0;0.04;0.04;0.04;;
+321;Biomassaketels bedrijven, WKK;1996;30.0;30.0;29.0;0.03;0.03;0.03;;
+322;Biomassaketels bedrijven, WKK;1997;31.0;31.0;29.0;0.03;0.03;0.03;;
+323;Biomassaketels bedrijven, WKK;1998;27.0;27.0;25.0;0.03;0.03;0.03;;
+324;Biomassaketels bedrijven, WKK;1999;66.0;66.0;62.0;0.06;0.06;0.06;;
+325;Biomassaketels bedrijven, WKK;2000;234.0;234.0;216.0;0.22;0.22;0.21;4.0;
+326;Biomassaketels bedrijven, WKK;2001;239.0;239.0;221.0;0.22;0.22;0.21;5.0;
+327;Biomassaketels bedrijven, WKK;2002;233.0;233.0;216.0;0.21;0.21;0.2;4.0;
+328;Biomassaketels bedrijven, WKK;2003;223.0;223.0;205.0;0.2;0.2;0.19;5.0;
+329;Biomassaketels bedrijven, WKK;2004;235.0;235.0;217.0;0.2;0.2;0.19;5.0;
+330;Biomassaketels bedrijven, WKK;2005;253.0;253.0;235.0;0.21;0.21;0.21;5.0;
+331;Biomassaketels bedrijven, WKK;2006;256.0;256.0;236.0;0.21;0.21;0.2;6.0;
+332;Biomassaketels bedrijven, WKK;2007;279.0;279.0;254.0;0.23;0.23;0.21;13.0;
+333;Biomassaketels bedrijven, WKK;2008;741.0;741.0;664.0;0.6;0.6;0.56;17.0;
+334;Biomassaketels bedrijven, WKK;2009;1009.0;1009.0;895.0;0.85;0.85;0.79;17.0;
+335;Biomassaketels bedrijven, WKK;2010;1015.0;1015.0;894.0;0.83;0.83;0.76;18.0;
+336;Biomassaketels bedrijven, WKK;2011;794.0;806.0;705.0;0.65;0.66;0.59;18.0;
+337;Biomassaketels bedrijven, WKK;2012;1007.0;1007.0;885.0;0.84;0.84;0.76;18.0;
+338;Biomassaketels bedrijven, WKK;2013;1084.0;1084.0;961.0;0.9;0.9;0.83;20.0;
+339;Biomassaketels bedrijven, WKK;2014;1166.0;1166.0;1021.0;0.99;0.99;0.9;18.0;
+340;Biomassaketels bedrijven, WKK;2015;1388.0;1388.0;1219.0;1.16;1.16;1.07;19.0;
+341;Biomassaketels bedrijven, WKK;2016;1465.0;1465.0;1281.0;1.22;1.22;1.11;18.0;
+342;Biomassaketels bedrijven, WKK;2017;1242.0;1242.0;1050.0;1.03;1.03;0.9;19.0;
+343;Biomassaketels bedrijven, WKK;2018;849.0;849.0;692.0;0.7;0.7;0.58;21.0;
+344;Biomassaketels bedrijven, WKK;2019;972.0;972.0;814.0;0.8;0.8;0.69;;
+345;Biomassaketels bedrijven, WKK;2020;1022.0;1022.0;870.0;0.85;0.85;0.74;;
+346;Biomassaketels bedrijven, WKK;2021 ;580.0;1071.0;886.0;0.47;0.88;0.75;;
+347;Biomassaketels bedrijven, WKK;2022;209.0;1214.0;1011.0;0.18;1.03;0.89;;
+348;Biomassaketels bedrijven, WKK;2023;1030.0;1150.0;971.0;0.89;0.99;0.87;;
+349;Biomassaketels bedrijven, WKK;2024 ;;1029.0;858.0;;0.86;0.74;;
+350;Totaal biogas;1990;94.0;91.0;88.0;0.12;0.11;0.11;;19.0
+351;Totaal biogas;1991;125.0;120.0;116.0;0.15;0.14;0.14;;21.0
+352;Totaal biogas;1992;144.0;129.0;125.0;0.17;0.15;0.15;;22.0
+353;Totaal biogas;1993;194.0;180.0;175.0;0.22;0.21;0.21;;35.0
+354;Totaal biogas;1994;238.0;225.0;219.0;0.26;0.25;0.25;;45.0
+355;Totaal biogas;1995;266.0;254.0;247.0;0.29;0.27;0.28;;51.0
+356;Totaal biogas;1996;283.0;272.0;264.0;0.29;0.28;0.29;;55.0
+357;Totaal biogas;1997;279.0;267.0;259.0;0.28;0.27;0.27;;52.0
+358;Totaal biogas;1998;271.0;257.0;249.0;0.26;0.25;0.25;;54.0
+359;Totaal biogas;1999;294.0;276.0;268.0;0.28;0.26;0.26;;56.0
+360;Totaal biogas;2000;305.0;286.0;277.0;0.28;0.26;0.26;;59.0
+361;Totaal biogas;2001;328.0;310.0;301.0;0.3;0.28;0.28;;61.0
+362;Totaal biogas;2002;348.0;333.0;323.0;0.31;0.3;0.3;;66.0
+363;Totaal biogas;2003;339.0;327.0;317.0;0.3;0.29;0.29;;65.0
+364;Totaal biogas;2004;310.0;293.0;284.0;0.26;0.25;0.25;;59.0
+365;Totaal biogas;2005;312.0;295.0;286.0;0.26;0.25;0.25;;68.0
+366;Totaal biogas;2006;379.0;361.0;351.0;0.32;0.3;0.3;;89.0
+367;Totaal biogas;2007;529.0;511.0;496.0;0.43;0.42;0.42;;124.0
+368;Totaal biogas;2008;751.0;733.0;711.0;0.61;0.59;0.6;;167.0
+369;Totaal biogas;2009;934.0;916.0;888.0;0.79;0.77;0.78;;186.0
+370;Totaal biogas;2010;1044.0;1028.0;997.0;0.86;0.84;0.85;;200.0
+371;Totaal biogas;2011;1045.0;1036.0;1005.0;0.85;0.84;0.85;;217.0
+372;Totaal biogas;2012;1031.0;1009.0;979.0;0.86;0.84;0.84;;219.0
+373;Totaal biogas;2013;1028.0;980.0;951.0;0.86;0.82;0.82;;230.0
+374;Totaal biogas;2014;1077.0;1005.0;976.0;0.91;0.85;0.86;;237.0
+375;Totaal biogas;2015;1130.0;1036.0;1005.0;0.95;0.87;0.88;;239.0
+376;Totaal biogas;2016;1098.0;993.0;961.0;0.91;0.83;0.83;;221.0
+377;Totaal biogas;2017;1053.0;923.0;896.0;0.87;0.76;0.77;;221.0
+378;Totaal biogas;2018;1026.0;887.0;860.0;0.84;0.73;0.72;;229.0
+379;Totaal biogas;2019;1092.0;895.0;865.0;0.89;0.73;0.73;;203.0
+380;Totaal biogas;2020;1143.0;870.0;843.0;0.95;0.72;0.72;;205.0
+381;Totaal biogas;2021 ;756.0;868.0;842.0;0.62;0.71;0.71;;180.0
+382;Totaal biogas;2022;390.0;840.0;815.0;0.33;0.72;0.72;;179.0
+383;Totaal biogas;2023;368.0;699.0;678.0;0.32;0.6;0.61;;184.0
+384;Totaal biogas;2024 ;;691.0;670.0;;0.58;0.58;;
+385;Biogas uit stortplaatsen;1990;19.0;17.0;16.0;0.02;0.02;0.02;;4.0
+386;Biogas uit stortplaatsen;1991;34.0;29.0;28.0;0.04;0.03;0.03;;6.0
+387;Biogas uit stortplaatsen;1992;47.0;32.0;31.0;0.06;0.04;0.04;;7.0
+388;Biogas uit stortplaatsen;1993;92.0;78.0;76.0;0.11;0.09;0.09;;17.0
+389;Biogas uit stortplaatsen;1994;136.0;124.0;120.0;0.15;0.14;0.14;;27.0
+390;Biogas uit stortplaatsen;1995;153.0;142.0;138.0;0.17;0.15;0.15;;31.0
+391;Biogas uit stortplaatsen;1996;171.0;160.0;155.0;0.18;0.17;0.17;;35.0
+392;Biogas uit stortplaatsen;1997;157.0;145.0;141.0;0.16;0.15;0.15;;32.0
+393;Biogas uit stortplaatsen;1998;163.0;149.0;145.0;0.16;0.14;0.15;;33.0
+394;Biogas uit stortplaatsen;1999;171.0;153.0;149.0;0.16;0.15;0.15;;34.0
+395;Biogas uit stortplaatsen;2000;177.0;158.0;153.0;0.16;0.15;0.15;;35.0
+396;Biogas uit stortplaatsen;2001;182.0;165.0;160.0;0.16;0.15;0.15;;37.0
+397;Biogas uit stortplaatsen;2002;197.0;181.0;176.0;0.18;0.16;0.16;;40.0
+398;Biogas uit stortplaatsen;2003;183.0;171.0;166.0;0.16;0.15;0.15;;38.0
+399;Biogas uit stortplaatsen;2004;155.0;138.0;134.0;0.13;0.12;0.12;;32.0
+400;Biogas uit stortplaatsen;2005;148.0;131.0;127.0;0.13;0.11;0.11;;31.0
+401;Biogas uit stortplaatsen;2006;144.0;127.0;123.0;0.12;0.11;0.11;;32.0
+402;Biogas uit stortplaatsen;2007;132.0;114.0;111.0;0.11;0.09;0.09;;30.0
+403;Biogas uit stortplaatsen;2008;126.0;109.0;106.0;0.1;0.09;0.09;;31.0
+404;Biogas uit stortplaatsen;2009;118.0;100.0;97.0;0.1;0.08;0.08;;29.0
+405;Biogas uit stortplaatsen;2010;109.0;93.0;90.0;0.09;0.08;0.08;;28.0
+406;Biogas uit stortplaatsen;2011;87.0;82.0;79.0;0.07;0.07;0.07;;27.0
+407;Biogas uit stortplaatsen;2012;74.0;68.0;66.0;0.06;0.06;0.06;;23.0
+408;Biogas uit stortplaatsen;2013;60.0;55.0;53.0;0.05;0.05;0.05;;24.0
+409;Biogas uit stortplaatsen;2014;55.0;46.0;46.0;0.05;0.04;0.04;;20.0
+410;Biogas uit stortplaatsen;2015;50.0;43.0;42.0;0.04;0.04;0.04;;20.0
+411;Biogas uit stortplaatsen;2016;40.0;34.0;33.0;0.03;0.03;0.03;;21.0
+412;Biogas uit stortplaatsen;2017;36.0;30.0;29.0;0.03;0.02;0.02;;21.0
+413;Biogas uit stortplaatsen;2018;29.0;23.0;21.0;0.02;0.02;0.02;;19.0
+414;Biogas uit stortplaatsen;2019;28.0;21.0;17.0;0.02;0.02;0.01;;20.0
+415;Biogas uit stortplaatsen;2020;21.0;14.0;12.0;0.02;0.01;0.01;;19.0
+416;Biogas uit stortplaatsen;2021 ;19.0;13.0;13.0;0.02;0.01;0.01;;12.0
+417;Biogas uit stortplaatsen;2022;20.0;14.0;13.0;0.02;0.01;0.01;;10.0
+418;Biogas uit stortplaatsen;2023;22.0;16.0;16.0;0.02;0.01;0.01;;10.0
+419;Biogas uit stortplaatsen;2024 ;;16.0;16.0;;0.01;0.01;;
+420;Biogas rioolwaterzuiveringsinstallaties;1990;71.0;71.0;68.0;0.09;0.09;0.09;;14.0
+421;Biogas rioolwaterzuiveringsinstallaties;1991;87.0;87.0;84.0;0.1;0.1;0.1;;13.0
+422;Biogas rioolwaterzuiveringsinstallaties;1992;92.0;92.0;89.0;0.11;0.11;0.11;;13.0
+423;Biogas rioolwaterzuiveringsinstallaties;1993;95.0;95.0;92.0;0.11;0.11;0.11;;16.0
+424;Biogas rioolwaterzuiveringsinstallaties;1994;98.0;98.0;96.0;0.11;0.11;0.11;;17.0
+425;Biogas rioolwaterzuiveringsinstallaties;1995;106.0;106.0;103.0;0.11;0.11;0.12;;17.0
+426;Biogas rioolwaterzuiveringsinstallaties;1996;102.0;102.0;99.0;0.11;0.11;0.11;;17.0
+427;Biogas rioolwaterzuiveringsinstallaties;1997;113.0;113.0;110.0;0.11;0.11;0.11;;17.0
+428;Biogas rioolwaterzuiveringsinstallaties;1998;98.0;98.0;95.0;0.1;0.1;0.1;;18.0
+429;Biogas rioolwaterzuiveringsinstallaties;1999;109.0;109.0;106.0;0.1;0.1;0.1;;19.0
+430;Biogas rioolwaterzuiveringsinstallaties;2000;111.0;111.0;107.0;0.1;0.1;0.1;;19.0
+431;Biogas rioolwaterzuiveringsinstallaties;2001;129.0;129.0;125.0;0.12;0.12;0.12;;20.0
+432;Biogas rioolwaterzuiveringsinstallaties;2002;130.0;130.0;126.0;0.12;0.12;0.12;;20.0
+433;Biogas rioolwaterzuiveringsinstallaties;2003;129.0;129.0;125.0;0.11;0.11;0.11;;20.0
+434;Biogas rioolwaterzuiveringsinstallaties;2004;133.0;133.0;129.0;0.11;0.11;0.11;;22.0
+435;Biogas rioolwaterzuiveringsinstallaties;2005;123.0;123.0;120.0;0.1;0.1;0.1;;23.0
+436;Biogas rioolwaterzuiveringsinstallaties;2006;132.0;132.0;128.0;0.11;0.11;0.11;;28.0
+437;Biogas rioolwaterzuiveringsinstallaties;2007;143.0;143.0;139.0;0.12;0.12;0.12;;34.0
+438;Biogas rioolwaterzuiveringsinstallaties;2008;150.0;150.0;145.0;0.12;0.12;0.12;;34.0
+439;Biogas rioolwaterzuiveringsinstallaties;2009;151.0;151.0;146.0;0.13;0.13;0.13;;34.0
+440;Biogas rioolwaterzuiveringsinstallaties;2010;164.0;164.0;159.0;0.13;0.13;0.13;;36.0
+441;Biogas rioolwaterzuiveringsinstallaties;2011;173.0;173.0;168.0;0.14;0.14;0.14;;37.0
+442;Biogas rioolwaterzuiveringsinstallaties;2012;185.0;185.0;179.0;0.15;0.15;0.15;;40.0
+443;Biogas rioolwaterzuiveringsinstallaties;2013;194.0;194.0;188.0;0.16;0.16;0.16;;41.0
+444;Biogas rioolwaterzuiveringsinstallaties;2014;201.0;201.0;195.0;0.17;0.17;0.17;;44.0
+445;Biogas rioolwaterzuiveringsinstallaties;2015;206.0;206.0;200.0;0.17;0.17;0.18;;43.0
+446;Biogas rioolwaterzuiveringsinstallaties;2016;208.0;208.0;200.0;0.17;0.17;0.17;;38.0
+447;Biogas rioolwaterzuiveringsinstallaties;2017;196.0;196.0;190.0;0.16;0.16;0.16;;38.0
+448;Biogas rioolwaterzuiveringsinstallaties;2018;198.0;195.0;189.0;0.16;0.16;0.16;;44.0
+449;Biogas rioolwaterzuiveringsinstallaties;2019;207.0;202.0;196.0;0.17;0.17;0.17;;41.0
+450;Biogas rioolwaterzuiveringsinstallaties;2020;218.0;205.0;199.0;0.18;0.17;0.17;;42.0
+451;Biogas rioolwaterzuiveringsinstallaties;2021 ;200.0;180.0;174.0;0.16;0.15;0.15;;39.0
+452;Biogas rioolwaterzuiveringsinstallaties;2022;184.0;163.0;158.0;0.16;0.14;0.14;;41.0
+453;Biogas rioolwaterzuiveringsinstallaties;2023;184.0;157.0;152.0;0.16;0.14;0.14;;41.0
+454;Biogas rioolwaterzuiveringsinstallaties;2024 ;;157.0;152.0;;0.13;0.13;;
+455;Biogas, co-vergisting van mest;1990;;;;;;;;
+456;Biogas, co-vergisting van mest;1991;;;;;;;;
+457;Biogas, co-vergisting van mest;1992;;;;;;;;
+458;Biogas, co-vergisting van mest;1993;;;;;;;;
+459;Biogas, co-vergisting van mest;1994;;;;;;;;
+460;Biogas, co-vergisting van mest;1995;;;;;;;;
+461;Biogas, co-vergisting van mest;1996;;;;;;;;
+462;Biogas, co-vergisting van mest;1997;;;;;;;;
+463;Biogas, co-vergisting van mest;1998;;;;;;;;
+464;Biogas, co-vergisting van mest;1999;;;;;;;;
+465;Biogas, co-vergisting van mest;2000;;;;;;;;
+466;Biogas, co-vergisting van mest;2001;;;;;;;;
+467;Biogas, co-vergisting van mest;2002;;;;;;;;
+468;Biogas, co-vergisting van mest;2003;;;;;;;;
+469;Biogas, co-vergisting van mest;2004;;;;;;;;
+470;Biogas, co-vergisting van mest;2005;9.0;9.0;9.0;0.01;0.01;0.01;17.0;5.0
+471;Biogas, co-vergisting van mest;2006;59.0;59.0;57.0;0.05;0.05;0.05;34.0;18.0
+472;Biogas, co-vergisting van mest;2007;187.0;187.0;181.0;0.15;0.15;0.15;52.0;43.0
+473;Biogas, co-vergisting van mest;2008;370.0;370.0;359.0;0.3;0.3;0.3;74.0;76.0
+474;Biogas, co-vergisting van mest;2009;528.0;528.0;512.0;0.45;0.45;0.45;85.0;94.0
+475;Biogas, co-vergisting van mest;2010;575.0;575.0;557.0;0.47;0.47;0.47;92.0;98.0
+476;Biogas, co-vergisting van mest;2011;562.0;562.0;545.0;0.46;0.46;0.46;98.0;113.0
+477;Biogas, co-vergisting van mest;2012;550.0;550.0;534.0;0.46;0.46;0.46;95.0;117.0
+478;Biogas, co-vergisting van mest;2013;525.0;525.0;510.0;0.44;0.44;0.44;95.0;121.0
+479;Biogas, co-vergisting van mest;2014;525.0;525.0;509.0;0.44;0.44;0.45;101.0;131.0
+480;Biogas, co-vergisting van mest;2015;553.0;553.0;537.0;0.46;0.46;0.47;97.0;133.0
+481;Biogas, co-vergisting van mest;2016;524.0;524.0;508.0;0.44;0.44;0.44;95.0;119.0
+482;Biogas, co-vergisting van mest;2017;509.0;509.0;494.0;0.42;0.42;0.42;95.0;119.0
+483;Biogas, co-vergisting van mest;2018;520.0;493.0;479.0;0.43;0.4;0.4;91.0;123.0
+484;Biogas, co-vergisting van mest;2019;541.0;471.0;457.0;0.44;0.39;0.39;95.0;100.0
+485;Biogas, co-vergisting van mest;2020;565.0;447.0;434.0;0.47;0.37;0.37;95.0;104.0
+486;Biogas, co-vergisting van mest;2021 ;327.0;457.0;443.0;0.27;0.37;0.38;142.0;93.0
+487;Biogas, co-vergisting van mest;2022;77.0;447.0;434.0;0.07;0.38;0.38;142.0;97.0
+488;Biogas, co-vergisting van mest;2023;56.0;323.0;314.0;0.05;0.28;0.28;142.0;101.0
+489;Biogas, co-vergisting van mest;2024 ;;323.0;314.0;;0.27;0.27;;
+490;Overig biogas;1990;4.0;4.0;4.0;0.01;0.01;0.01;;1.0
+491;Overig biogas;1991;4.0;4.0;4.0;0.0;0.0;0.0;;1.0
+492;Overig biogas;1992;5.0;5.0;5.0;0.01;0.01;0.01;;1.0
+493;Overig biogas;1993;7.0;7.0;7.0;0.01;0.01;0.01;;2.0
+494;Overig biogas;1994;3.0;3.0;3.0;0.0;0.0;0.0;;1.0
+495;Overig biogas;1995;7.0;7.0;7.0;0.01;0.01;0.01;;2.0
+496;Overig biogas;1996;10.0;10.0;9.0;0.01;0.01;0.01;;2.0
+497;Overig biogas;1997;8.0;8.0;8.0;0.01;0.01;0.01;;2.0
+498;Overig biogas;1998;10.0;10.0;10.0;0.01;0.01;0.01;;2.0
+499;Overig biogas;1999;14.0;14.0;13.0;0.01;0.01;0.01;;3.0
+500;Overig biogas;2000;17.0;17.0;16.0;0.02;0.02;0.02;;4.0
+501;Overig biogas;2001;17.0;17.0;16.0;0.01;0.01;0.02;;4.0
+502;Overig biogas;2002;22.0;22.0;21.0;0.02;0.02;0.02;;5.0
+503;Overig biogas;2003;28.0;28.0;27.0;0.02;0.02;0.02;;7.0
+504;Overig biogas;2004;22.0;22.0;21.0;0.02;0.02;0.02;;6.0
+505;Overig biogas;2005;32.0;32.0;31.0;0.03;0.03;0.03;;8.0
+506;Overig biogas;2006;44.0;44.0;42.0;0.04;0.04;0.04;;11.0
+507;Overig biogas;2007;67.0;67.0;65.0;0.05;0.05;0.05;;17.0
+508;Overig biogas;2008;104.0;104.0;101.0;0.08;0.08;0.08;;26.0
+509;Overig biogas;2009;137.0;137.0;133.0;0.12;0.12;0.12;;29.0
+510;Overig biogas;2010;196.0;196.0;190.0;0.16;0.16;0.16;;38.0
+511;Overig biogas;2011;223.0;219.0;212.0;0.18;0.18;0.18;;40.0
+512;Overig biogas;2012;221.0;206.0;200.0;0.18;0.17;0.17;;40.0
+513;Overig biogas;2013;248.0;206.0;200.0;0.21;0.17;0.17;;43.0
+514;Overig biogas;2014;296.0;233.0;226.0;0.25;0.2;0.2;;43.0
+515;Overig biogas;2015;320.0;233.0;226.0;0.27;0.2;0.2;;43.0
+516;Overig biogas;2016;326.0;227.0;219.0;0.27;0.19;0.19;;43.0
+517;Overig biogas;2017;312.0;189.0;183.0;0.26;0.16;0.16;;43.0
+518;Overig biogas;2018;279.0;175.0;170.0;0.23;0.14;0.14;;41.0
+519;Overig biogas;2019;317.0;201.0;195.0;0.26;0.16;0.16;;42.0
+520;Overig biogas;2020;340.0;204.0;198.0;0.28;0.17;0.17;;40.0
+521;Overig biogas;2021 ;209.0;218.0;212.0;0.17;0.18;0.18;;37.0
+522;Overig biogas;2022;108.0;216.0;209.0;0.09;0.18;0.18;;31.0
+523;Overig biogas;2023;106.0;203.0;197.0;0.09;0.18;0.18;;33.0
+524;Overig biogas;2024 ;;195.0;189.0;;0.16;0.16;;

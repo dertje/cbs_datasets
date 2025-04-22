@@ -1,0 +1,421 @@
+﻿ID;Beroepen;Perioden;GemiddeldeWinst_1;Zelfstandigen_2
+0;Huisartsgeneeskunde;2001;80.8;6215
+1;Huisartsgeneeskunde;2002;94.8;6170
+2;Huisartsgeneeskunde;2003;103.1;6230
+3;Huisartsgeneeskunde;2004;98.0;6250
+4;Huisartsgeneeskunde;2005;98.3;6355
+5;Huisartsgeneeskunde;2006;123.5;6680
+6;Huisartsgeneeskunde;2007;128.1;6595
+7;Huisartsgeneeskunde;2008;122.6;6820
+8;Huisartsgeneeskunde;2009;124.9;6915
+9;Huisartsgeneeskunde;2010;120.9;7455
+10;Huisartsgeneeskunde;2011;124.5;7780
+11;Huisartsgeneeskunde;2012;117.0;8085
+12;Huisartsgeneeskunde;2013;111.1;8330
+13;Huisartsgeneeskunde;2014;113.4;8645
+14;Tandarts;2001;84.7;4410
+15;Tandarts;2002;101.7;4435
+16;Tandarts;2003;106.9;4415
+17;Tandarts;2004;103.5;4415
+18;Tandarts;2005;105.1;4530
+19;Tandarts;2006;108.9;4760
+20;Tandarts;2007;118.2;4710
+21;Tandarts;2008;122.5;4805
+22;Tandarts;2009;119.3;4810
+23;Tandarts;2010;118.5;5050
+24;Tandarts;2011;113.5;5235
+25;Tandarts;2012;114.4;5400
+26;Tandarts;2013;107.0;5480
+27;Tandarts;2014;114.8;5550
+28;Totaal medisch specialist;2001;136.7;3685
+29;Totaal medisch specialist;2002;148.1;3805
+30;Totaal medisch specialist;2003;161.6;3835
+31;Totaal medisch specialist;2004;173.8;3865
+32;Totaal medisch specialist;2005;175.6;3990
+33;Totaal medisch specialist;2006;186.9;4305
+34;Totaal medisch specialist;2007;205.3;4380
+35;Totaal medisch specialist;2008;236.1;4520
+36;Totaal medisch specialist;2009;259.2;4530
+37;Totaal medisch specialist;2010;213.6;5115
+38;Totaal medisch specialist;2011;189.6;5255
+39;Totaal medisch specialist;2012;189.2;5595
+40;Totaal medisch specialist;2013;189.1;5805
+41;Totaal medisch specialist;2014;195.2;5700
+42;Anesthesiologie;2001;146.5;325
+43;Anesthesiologie;2002;154.5;345
+44;Anesthesiologie;2003;172.6;345
+45;Anesthesiologie;2004;184.6;345
+46;Anesthesiologie;2005;187.1;355
+47;Anesthesiologie;2006;196.3;385
+48;Anesthesiologie;2007;213.6;400
+49;Anesthesiologie;2008;314.8;415
+50;Anesthesiologie;2009;353.6;405
+51;Anesthesiologie;2010;277.0;445
+52;Anesthesiologie;2011;221.0;470
+53;Anesthesiologie;2012;214.8;490
+54;Anesthesiologie;2013;209.2;505
+55;Anesthesiologie;2014;219.0;480
+56;Cardiologie;2001;164.7;185
+57;Cardiologie;2002;168.4;200
+58;Cardiologie;2003;185.4;220
+59;Cardiologie;2004;214.7;230
+60;Cardiologie;2005;219.7;240
+61;Cardiologie;2006;228.5;255
+62;Cardiologie;2007;244.4;255
+63;Cardiologie;2008;222.2;265
+64;Cardiologie;2009;228.4;265
+65;Cardiologie;2010;204.8;305
+66;Cardiologie;2011;173.7;305
+67;Cardiologie;2012;202.4;310
+68;Cardiologie;2013;212.3;325
+69;Cardiologie;2014;210.7;320
+70;Cardio-thoracale chirurgie;2001;;5
+71;Cardio-thoracale chirurgie;2002;;10
+72;Cardio-thoracale chirurgie;2003;;10
+73;Cardio-thoracale chirurgie;2004;;10
+74;Cardio-thoracale chirurgie;2005;;15
+75;Cardio-thoracale chirurgie;2006;;15
+76;Cardio-thoracale chirurgie;2007;;15
+77;Cardio-thoracale chirurgie;2008;;15
+78;Cardio-thoracale chirurgie;2009;;15
+79;Cardio-thoracale chirurgie;2010;;15
+80;Cardio-thoracale chirurgie;2011;;15
+81;Cardio-thoracale chirurgie;2012;;20
+82;Cardio-thoracale chirurgie;2013;;15
+83;Cardio-thoracale chirurgie;2014;;15
+84;Dermatologie en venerologie;2001;127.6;145
+85;Dermatologie en venerologie;2002;135.6;150
+86;Dermatologie en venerologie;2003;152.1;145
+87;Dermatologie en venerologie;2004;158.3;145
+88;Dermatologie en venerologie;2005;169.3;145
+89;Dermatologie en venerologie;2006;169.8;155
+90;Dermatologie en venerologie;2007;185.4;160
+91;Dermatologie en venerologie;2008;175.7;175
+92;Dermatologie en venerologie;2009;195.1;175
+93;Dermatologie en venerologie;2010;158.7;205
+94;Dermatologie en venerologie;2011;129.7;215
+95;Dermatologie en venerologie;2012;163.8;220
+96;Dermatologie en venerologie;2013;164.8;230
+97;Dermatologie en venerologie;2014;166.4;225
+98;Heelkunde;2001;143.6;380
+99;Heelkunde;2002;154.2;390
+100;Heelkunde;2003;165.9;375
+101;Heelkunde;2004;176.4;385
+102;Heelkunde;2005;183.3;385
+103;Heelkunde;2006;188.6;425
+104;Heelkunde;2007;211.3;415
+105;Heelkunde;2008;224.4;430
+106;Heelkunde;2009;243.6;420
+107;Heelkunde;2010;207.0;485
+108;Heelkunde;2011;182.1;485
+109;Heelkunde;2012;207.6;535
+110;Heelkunde;2013;210.8;550
+111;Heelkunde;2014;216.0;530
+112;Inwendige geneeskunde;2001;132.8;455
+113;Inwendige geneeskunde;2002;143.5;475
+114;Inwendige geneeskunde;2003;154.0;475
+115;Inwendige geneeskunde;2004;167.8;490
+116;Inwendige geneeskunde;2005;174.7;495
+117;Inwendige geneeskunde;2006;190.6;535
+118;Inwendige geneeskunde;2007;206.6;540
+119;Inwendige geneeskunde;2008;235.5;550
+120;Inwendige geneeskunde;2009;251.1;560
+121;Inwendige geneeskunde;2010;213.1;630
+122;Inwendige geneeskunde;2011;215.5;645
+123;Inwendige geneeskunde;2012;194.4;680
+124;Inwendige geneeskunde;2013;192.3;715
+125;Inwendige geneeskunde;2014;196.0;700
+126;Keel- neus- oorheelkunde;2001;147.0;160
+127;Keel- neus- oorheelkunde;2002;155.7;165
+128;Keel- neus- oorheelkunde;2003;179.0;160
+129;Keel- neus- oorheelkunde;2004;188.4;155
+130;Keel- neus- oorheelkunde;2005;178.0;160
+131;Keel- neus- oorheelkunde;2006;183.9;175
+132;Keel- neus- oorheelkunde;2007;206.7;170
+133;Keel- neus- oorheelkunde;2008;230.5;170
+134;Keel- neus- oorheelkunde;2009;244.8;170
+135;Keel- neus- oorheelkunde;2010;210.0;195
+136;Keel- neus- oorheelkunde;2011;172.5;200
+137;Keel- neus- oorheelkunde;2012;175.3;205
+138;Keel- neus- oorheelkunde;2013;175.2;215
+139;Keel- neus- oorheelkunde;2014;187.5;215
+140;Kindergeneeskunde;2001;;35
+141;Kindergeneeskunde;2002;;30
+142;Kindergeneeskunde;2003;;30
+143;Kindergeneeskunde;2004;;25
+144;Kindergeneeskunde;2005;;25
+145;Kindergeneeskunde;2006;;30
+146;Kindergeneeskunde;2007;;30
+147;Kindergeneeskunde;2008;;35
+148;Kindergeneeskunde;2009;;40
+149;Kindergeneeskunde;2010;;40
+150;Kindergeneeskunde;2011;;45
+151;Kindergeneeskunde;2012;;55
+152;Kindergeneeskunde;2013;;55
+153;Kindergeneeskunde;2014;;50
+154;Klinische geriatrie;2001;;5
+155;Klinische geriatrie;2002;;5
+156;Klinische geriatrie;2003;;0
+157;Klinische geriatrie;2004;;0
+158;Klinische geriatrie;2005;;0
+159;Klinische geriatrie;2006;;0
+160;Klinische geriatrie;2007;;0
+161;Klinische geriatrie;2008;;0
+162;Klinische geriatrie;2009;;5
+163;Klinische geriatrie;2010;;5
+164;Klinische geriatrie;2011;;5
+165;Klinische geriatrie;2012;;5
+166;Klinische geriatrie;2013;;5
+167;Klinische geriatrie;2014;;5
+168;Leer van maag-darm-leverziekten;2001;;60
+169;Leer van maag-darm-leverziekten;2002;;75
+170;Leer van maag-darm-leverziekten;2003;;75
+171;Leer van maag-darm-leverziekten;2004;;85
+172;Leer van maag-darm-leverziekten;2005;;90
+173;Leer van maag-darm-leverziekten;2006;;105
+174;Leer van maag-darm-leverziekten;2007;;110
+175;Leer van maag-darm-leverziekten;2008;;130
+176;Leer van maag-darm-leverziekten;2009;260.8;135
+177;Leer van maag-darm-leverziekten;2010;227.0;160
+178;Leer van maag-darm-leverziekten;2011;239.7;165
+179;Leer van maag-darm-leverziekten;2012;209.7;185
+180;Leer van maag-darm-leverziekten;2013;202.5;190
+181;Leer van maag-darm-leverziekten;2014;209.6;195
+182;Longziekten en tuberculose;2001;131.1;150
+183;Longziekten en tuberculose;2002;152.6;150
+184;Longziekten en tuberculose;2003;164.4;150
+185;Longziekten en tuberculose;2004;171.0;155
+186;Longziekten en tuberculose;2005;179.5;165
+187;Longziekten en tuberculose;2006;192.0;180
+188;Longziekten en tuberculose;2007;219.8;180
+189;Longziekten en tuberculose;2008;243.7;200
+190;Longziekten en tuberculose;2009;267.0;205
+191;Longziekten en tuberculose;2010;238.6;225
+192;Longziekten en tuberculose;2011;211.7;220
+193;Longziekten en tuberculose;2012;186.6;240
+194;Longziekten en tuberculose;2013;186.8;235
+195;Longziekten en tuberculose;2014;191.9;220
+196;Medische microbiologie;2001;;10
+197;Medische microbiologie;2002;;10
+198;Medische microbiologie;2003;;10
+199;Medische microbiologie;2004;;15
+200;Medische microbiologie;2005;;15
+201;Medische microbiologie;2006;;15
+202;Medische microbiologie;2007;;15
+203;Medische microbiologie;2008;;15
+204;Medische microbiologie;2009;;20
+205;Medische microbiologie;2010;;25
+206;Medische microbiologie;2011;;20
+207;Medische microbiologie;2012;;25
+208;Medische microbiologie;2013;;25
+209;Medische microbiologie;2014;;25
+210;Neurochirurgie;2001;;20
+211;Neurochirurgie;2002;;15
+212;Neurochirurgie;2003;;15
+213;Neurochirurgie;2004;;15
+214;Neurochirurgie;2005;;15
+215;Neurochirurgie;2006;;15
+216;Neurochirurgie;2007;;15
+217;Neurochirurgie;2008;;15
+218;Neurochirurgie;2009;;15
+219;Neurochirurgie;2010;;20
+220;Neurochirurgie;2011;;20
+221;Neurochirurgie;2012;;20
+222;Neurochirurgie;2013;;20
+223;Neurochirurgie;2014;;15
+224;Neurologie;2001;125.2;230
+225;Neurologie;2002;132.2;235
+226;Neurologie;2003;144.3;230
+227;Neurologie;2004;159.4;230
+228;Neurologie;2005;159.6;240
+229;Neurologie;2006;171.3;245
+230;Neurologie;2007;184.0;260
+231;Neurologie;2008;214.4;270
+232;Neurologie;2009;240.8;275
+233;Neurologie;2010;201.3;310
+234;Neurologie;2011;166.0;320
+235;Neurologie;2012;193.5;340
+236;Neurologie;2013;198.7;360
+237;Neurologie;2014;199.4;355
+238;Nucleaire geneeskunde;2001;;15
+239;Nucleaire geneeskunde;2002;;15
+240;Nucleaire geneeskunde;2003;;15
+241;Nucleaire geneeskunde;2004;;20
+242;Nucleaire geneeskunde;2005;;20
+243;Nucleaire geneeskunde;2006;;20
+244;Nucleaire geneeskunde;2007;;20
+245;Nucleaire geneeskunde;2008;;30
+246;Nucleaire geneeskunde;2009;;30
+247;Nucleaire geneeskunde;2010;;40
+248;Nucleaire geneeskunde;2011;;35
+249;Nucleaire geneeskunde;2012;;40
+250;Nucleaire geneeskunde;2013;;40
+251;Nucleaire geneeskunde;2014;;40
+252;Obstetrie en gynaecologie;2001;138.8;320
+253;Obstetrie en gynaecologie;2002;144.5;325
+254;Obstetrie en gynaecologie;2003;155.1;340
+255;Obstetrie en gynaecologie;2004;159.6;335
+256;Obstetrie en gynaecologie;2005;159.2;350
+257;Obstetrie en gynaecologie;2006;165.6;365
+258;Obstetrie en gynaecologie;2007;178.3;375
+259;Obstetrie en gynaecologie;2008;197.0;380
+260;Obstetrie en gynaecologie;2009;209.0;370
+261;Obstetrie en gynaecologie;2010;185.0;410
+262;Obstetrie en gynaecologie;2011;157.2;410
+263;Obstetrie en gynaecologie;2012;190.8;425
+264;Obstetrie en gynaecologie;2013;192.2;440
+265;Obstetrie en gynaecologie;2014;196.4;445
+266;Oogheelkunde;2001;127.5;200
+267;Oogheelkunde;2002;138.6;205
+268;Oogheelkunde;2003;151.1;205
+269;Oogheelkunde;2004;166.0;200
+270;Oogheelkunde;2005;171.9;210
+271;Oogheelkunde;2006;186.7;225
+272;Oogheelkunde;2007;200.6;220
+273;Oogheelkunde;2008;198.1;220
+274;Oogheelkunde;2009;208.1;210
+275;Oogheelkunde;2010;183.3;235
+276;Oogheelkunde;2011;148.7;240
+277;Oogheelkunde;2012;172.2;255
+278;Oogheelkunde;2013;175.7;255
+279;Oogheelkunde;2014;174.1;245
+280;Orthopedie;2001;136.3;205
+281;Orthopedie;2002;149.4;205
+282;Orthopedie;2003;164.2;205
+283;Orthopedie;2004;172.7;205
+284;Orthopedie;2005;170.5;210
+285;Orthopedie;2006;185.0;230
+286;Orthopedie;2007;213.0;235
+287;Orthopedie;2008;208.3;245
+288;Orthopedie;2009;241.6;255
+289;Orthopedie;2010;200.5;295
+290;Orthopedie;2011;177.1;305
+291;Orthopedie;2012;198.1;335
+292;Orthopedie;2013;195.9;350
+293;Orthopedie;2014;214.9;350
+294;Pathologie;2001;;25
+295;Pathologie;2002;;30
+296;Pathologie;2003;;30
+297;Pathologie;2004;;30
+298;Pathologie;2005;;25
+299;Pathologie;2006;;30
+300;Pathologie;2007;;25
+301;Pathologie;2008;;25
+302;Pathologie;2009;;30
+303;Pathologie;2010;;35
+304;Pathologie;2011;;45
+305;Pathologie;2012;;40
+306;Pathologie;2013;;50
+307;Pathologie;2014;;50
+308;Psychiatrie;2001;81.1;240
+309;Psychiatrie;2002;91.7;245
+310;Psychiatrie;2003;90.6;240
+311;Psychiatrie;2004;92.4;250
+312;Psychiatrie;2005;86.5;250
+313;Psychiatrie;2006;92.9;280
+314;Psychiatrie;2007;101.2;285
+315;Psychiatrie;2008;103.9;280
+316;Psychiatrie;2009;135.0;270
+317;Psychiatrie;2010;128.9;310
+318;Psychiatrie;2011;128.2;340
+319;Psychiatrie;2012;118.7;385
+320;Psychiatrie;2013;110.6;405
+321;Psychiatrie;2014;116.1;415
+322;Plastische chirurgie;2001;;40
+323;Plastische chirurgie;2002;;45
+324;Plastische chirurgie;2003;;50
+325;Plastische chirurgie;2004;;45
+326;Plastische chirurgie;2005;;40
+327;Plastische chirurgie;2006;;45
+328;Plastische chirurgie;2007;;45
+329;Plastische chirurgie;2008;;55
+330;Plastische chirurgie;2009;;50
+331;Plastische chirurgie;2010;;55
+332;Plastische chirurgie;2011;;65
+333;Plastische chirurgie;2012;;70
+334;Plastische chirurgie;2013;;70
+335;Plastische chirurgie;2014;;80
+336;Radiologie;2001;161.8;285
+337;Radiologie;2002;183.8;290
+338;Radiologie;2003;195.7;305
+339;Radiologie;2004;221.7;300
+340;Radiologie;2005;213.0;330
+341;Radiologie;2006;234.6;360
+342;Radiologie;2007;266.1;365
+343;Radiologie;2008;363.5;375
+344;Radiologie;2009;421.2;365
+345;Radiologie;2010;295.8;400
+346;Radiologie;2011;251.8;415
+347;Radiologie;2012;190.6;440
+348;Radiologie;2013;189.4;465
+349;Radiologie;2014;201.9;435
+350;Radiotherapie;2001;;15
+351;Radiotherapie;2002;;15
+352;Radiotherapie;2003;;10
+353;Radiotherapie;2004;;10
+354;Radiotherapie;2005;;10
+355;Radiotherapie;2006;;10
+356;Radiotherapie;2007;;10
+357;Radiotherapie;2008;;10
+358;Radiotherapie;2009;;10
+359;Radiotherapie;2010;;15
+360;Radiotherapie;2011;;15
+361;Radiotherapie;2012;;15
+362;Radiotherapie;2013;;10
+363;Radiotherapie;2014;;15
+364;Reumatologie;2001;;40
+365;Reumatologie;2002;;40
+366;Reumatologie;2003;;40
+367;Reumatologie;2004;;45
+368;Reumatologie;2005;;45
+369;Reumatologie;2006;;50
+370;Reumatologie;2007;;50
+371;Reumatologie;2008;;50
+372;Reumatologie;2009;;50
+373;Reumatologie;2010;;55
+374;Reumatologie;2011;;55
+375;Reumatologie;2012;;65
+376;Reumatologie;2013;;70
+377;Reumatologie;2014;;70
+378;Revalidatiegeneeskunde;2001;;5
+379;Revalidatiegeneeskunde;2002;;5
+380;Revalidatiegeneeskunde;2003;;5
+381;Revalidatiegeneeskunde;2004;;5
+382;Revalidatiegeneeskunde;2005;;5
+383;Revalidatiegeneeskunde;2006;;5
+384;Revalidatiegeneeskunde;2007;;5
+385;Revalidatiegeneeskunde;2008;;5
+386;Revalidatiegeneeskunde;2009;;5
+387;Revalidatiegeneeskunde;2010;;5
+388;Revalidatiegeneeskunde;2011;;5
+389;Revalidatiegeneeskunde;2012;;0
+390;Revalidatiegeneeskunde;2013;;5
+391;Revalidatiegeneeskunde;2014;;0
+392;Urologie;2001;146.7;115
+393;Urologie;2002;162.4;125
+394;Urologie;2003;181.2;130
+395;Urologie;2004;201.7;125
+396;Urologie;2005;183.7;130
+397;Urologie;2006;198.0;135
+398;Urologie;2007;219.4;140
+399;Urologie;2008;;135
+400;Urologie;2009;205.5;145
+401;Urologie;2010;181.8;175
+402;Urologie;2011;176.9;170
+403;Urologie;2012;175.1;175
+404;Urologie;2013;174.0;180
+405;Urologie;2014;181.3;185
+406;Arts met meerdere specialismen;2001;;20
+407;Arts met meerdere specialismen;2002;;25
+408;Arts met meerdere specialismen;2003;;20
+409;Arts met meerdere specialismen;2004;;25
+410;Arts met meerdere specialismen;2005;;25
+411;Arts met meerdere specialismen;2006;;25
+412;Arts met meerdere specialismen;2007;;30
+413;Arts met meerdere specialismen;2008;;25
+414;Arts met meerdere specialismen;2009;;30
+415;Arts met meerdere specialismen;2010;;30
+416;Arts met meerdere specialismen;2011;;30
+417;Arts met meerdere specialismen;2012;;30
+418;Arts met meerdere specialismen;2013;;20
+419;Arts met meerdere specialismen;2014;;15

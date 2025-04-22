@@ -1,0 +1,325 @@
+﻿ID;DeelgebiedenGWW;Perioden;Inputprijsindex_1;MutatieTenOpzichteVan1JaarEerder_2
+0;42/43: Grond-, weg- en waterbouw;2005 januari;98;
+1;42/43: Grond-, weg- en waterbouw;2005 april;99;
+2;42/43: Grond-, weg- en waterbouw;2005 juli;100;
+3;42/43: Grond-, weg- en waterbouw;2005 oktober;102;
+4;42/43: Grond-, weg- en waterbouw;2006 januari;102;4.5
+5;42/43: Grond-, weg- en waterbouw;2006 april;104;4.3
+6;42/43: Grond-, weg- en waterbouw;2006 juli;105;4.4
+7;42/43: Grond-, weg- en waterbouw;2006 oktober;104;2.7
+8;42/43: Grond-, weg- en waterbouw;2007 januari;105;2.4
+9;42/43: Grond-, weg- en waterbouw;2007 april;106;2.2
+10;42/43: Grond-, weg- en waterbouw;2007 juli;108;2.8
+11;42/43: Grond-, weg- en waterbouw;2007 oktober;108;3.8
+12;42/43: Grond-, weg- en waterbouw;2008 januari;111;5.7
+13;42/43: Grond-, weg- en waterbouw;2008 april;113;6.3
+14;42/43: Grond-, weg- en waterbouw;2008 juli;118;9.3
+15;42/43: Grond-, weg- en waterbouw;2008 oktober;116;6.9
+16;42/43: Grond-, weg- en waterbouw;2009 januari;112;0.9
+17;42/43: Grond-, weg- en waterbouw;2009 april;111;-1.4
+18;42/43: Grond-, weg- en waterbouw;2009 juli;112;-5.0
+19;42/43: Grond-, weg- en waterbouw;2009 oktober;112;-3.1
+20;42/43: Grond-, weg- en waterbouw;2010 januari;113;1.6
+21;42/43: Grond-, weg- en waterbouw;2010 april;116;4.1
+22;42/43: Grond-, weg- en waterbouw;2010 juli;116;3.5
+23;42/43: Grond-, weg- en waterbouw;2010 oktober;116;3.3
+24;42/43: Grond-, weg- en waterbouw;2011 januari;118;4.3
+25;42/43: Grond-, weg- en waterbouw;2011 april;120;3.9
+26;42/43: Grond-, weg- en waterbouw;2011 juli;120;3.9
+27;42/43: Grond-, weg- en waterbouw;2011 oktober;120;3.8
+28;42/43: Grond-, weg- en waterbouw;2012 januari;122;3.1
+29;42/43: Grond-, weg- en waterbouw;2012 april;123;2.5
+30;42/43: Grond-, weg- en waterbouw;2012 juli;123;2.5
+31;42/43: Grond-, weg- en waterbouw;2012 oktober;124;3.0
+32;42/43: Grond-, weg- en waterbouw;2013 januari;124;1.7
+33;42/43: Grond-, weg- en waterbouw;2013 april;123;0.2
+34;42/43: Grond-, weg- en waterbouw;2013 juli;123;0.0
+35;42/43: Grond-, weg- en waterbouw;2013 oktober;123;-0.7
+36;42111: Wegen met open verharding;2005 januari;99;
+37;42111: Wegen met open verharding;2005 april;100;
+38;42111: Wegen met open verharding;2005 juli;100;
+39;42111: Wegen met open verharding;2005 oktober;101;
+40;42111: Wegen met open verharding;2006 januari;102;3.5
+41;42111: Wegen met open verharding;2006 april;102;2.7
+42;42111: Wegen met open verharding;2006 juli;103;2.5
+43;42111: Wegen met open verharding;2006 oktober;102;1.3
+44;42111: Wegen met open verharding;2007 januari;103;1.0
+45;42111: Wegen met open verharding;2007 april;104;1.5
+46;42111: Wegen met open verharding;2007 juli;105;2.2
+47;42111: Wegen met open verharding;2007 oktober;105;2.8
+48;42111: Wegen met open verharding;2008 januari;107;3.8
+49;42111: Wegen met open verharding;2008 april;109;4.4
+50;42111: Wegen met open verharding;2008 juli;111;5.8
+51;42111: Wegen met open verharding;2008 oktober;110;5.0
+52;42111: Wegen met open verharding;2009 januari;111;3.6
+53;42111: Wegen met open verharding;2009 april;111;2.4
+54;42111: Wegen met open verharding;2009 juli;112;0.6
+55;42111: Wegen met open verharding;2009 oktober;112;1.3
+56;42111: Wegen met open verharding;2010 januari;113;1.7
+57;42111: Wegen met open verharding;2010 april;114;2.1
+58;42111: Wegen met open verharding;2010 juli;114;1.8
+59;42111: Wegen met open verharding;2010 oktober;114;1.8
+60;42111: Wegen met open verharding;2011 januari;115;1.9
+61;42111: Wegen met open verharding;2011 april;116;2.1
+62;42111: Wegen met open verharding;2011 juli;116;2.1
+63;42111: Wegen met open verharding;2011 oktober;116;2.2
+64;42111: Wegen met open verharding;2012 januari;117;2.1
+65;42111: Wegen met open verharding;2012 april;118;2.1
+66;42111: Wegen met open verharding;2012 juli;118;1.9
+67;42111: Wegen met open verharding;2012 oktober;119;2.6
+68;42111: Wegen met open verharding;2013 januari;119;1.1
+69;42111: Wegen met open verharding;2013 april;119;0.4
+70;42111: Wegen met open verharding;2013 juli;119;0.3
+71;42111: Wegen met open verharding;2013 oktober;118;-0.7
+72;42112: Wegen met gesloten verharding;2005 januari;96;
+73;42112: Wegen met gesloten verharding;2005 april;98;
+74;42112: Wegen met gesloten verharding;2005 juli;101;
+75;42112: Wegen met gesloten verharding;2005 oktober;104;
+76;42112: Wegen met gesloten verharding;2006 januari;104;9.1
+77;42112: Wegen met gesloten verharding;2006 april;107;9.0
+78;42112: Wegen met gesloten verharding;2006 juli;108;7.4
+79;42112: Wegen met gesloten verharding;2006 oktober;106;2.9
+80;42112: Wegen met gesloten verharding;2007 januari;106;1.6
+81;42112: Wegen met gesloten verharding;2007 april;108;0.8
+82;42112: Wegen met gesloten verharding;2007 juli;111;3.2
+83;42112: Wegen met gesloten verharding;2007 oktober;114;6.9
+84;42112: Wegen met gesloten verharding;2008 januari;118;11.2
+85;42112: Wegen met gesloten verharding;2008 april;119;10.1
+86;42112: Wegen met gesloten verharding;2008 juli;128;14.8
+87;42112: Wegen met gesloten verharding;2008 oktober;125;9.5
+88;42112: Wegen met gesloten verharding;2009 januari;114;-3.2
+89;42112: Wegen met gesloten verharding;2009 april;113;-4.9
+90;42112: Wegen met gesloten verharding;2009 juli;116;-9.4
+91;42112: Wegen met gesloten verharding;2009 oktober;117;-6.0
+92;42112: Wegen met gesloten verharding;2010 januari;118;3.6
+93;42112: Wegen met gesloten verharding;2010 april;122;7.3
+94;42112: Wegen met gesloten verharding;2010 juli;122;5.3
+95;42112: Wegen met gesloten verharding;2010 oktober;122;4.2
+96;42112: Wegen met gesloten verharding;2011 januari;124;5.2
+97;42112: Wegen met gesloten verharding;2011 april;129;5.9
+98;42112: Wegen met gesloten verharding;2011 juli;129;5.8
+99;42112: Wegen met gesloten verharding;2011 oktober;130;6.2
+100;42112: Wegen met gesloten verharding;2012 januari;132;6.0
+101;42112: Wegen met gesloten verharding;2012 april;135;4.6
+102;42112: Wegen met gesloten verharding;2012 juli;135;4.7
+103;42112: Wegen met gesloten verharding;2012 oktober;136;5.2
+104;42112: Wegen met gesloten verharding;2013 januari;136;3.3
+105;42112: Wegen met gesloten verharding;2013 april;135;0.2
+106;42112: Wegen met gesloten verharding;2013 juli;135;-0.3
+107;42112: Wegen met gesloten verharding;2013 oktober;135;-1.1
+108;4212: Boven- en ondergrondse spoorwegen;2005 januari;99;
+109;4212: Boven- en ondergrondse spoorwegen;2005 april;100;
+110;4212: Boven- en ondergrondse spoorwegen;2005 juli;101;
+111;4212: Boven- en ondergrondse spoorwegen;2005 oktober;100;
+112;4212: Boven- en ondergrondse spoorwegen;2006 januari;101;2.3
+113;4212: Boven- en ondergrondse spoorwegen;2006 april;102;2.7
+114;4212: Boven- en ondergrondse spoorwegen;2006 juli;105;4.8
+115;4212: Boven- en ondergrondse spoorwegen;2006 oktober;106;5.8
+116;4212: Boven- en ondergrondse spoorwegen;2007 januari;107;5.8
+117;4212: Boven- en ondergrondse spoorwegen;2007 april;108;5.7
+118;4212: Boven- en ondergrondse spoorwegen;2007 juli;109;3.6
+119;4212: Boven- en ondergrondse spoorwegen;2007 oktober;109;2.4
+120;4212: Boven- en ondergrondse spoorwegen;2008 januari;110;2.2
+121;4212: Boven- en ondergrondse spoorwegen;2008 april;111;3.0
+122;4212: Boven- en ondergrondse spoorwegen;2008 juli;114;4.2
+123;4212: Boven- en ondergrondse spoorwegen;2008 oktober;113;4.1
+124;4212: Boven- en ondergrondse spoorwegen;2009 januari;112;2.3
+125;4212: Boven- en ondergrondse spoorwegen;2009 april;112;0.2
+126;4212: Boven- en ondergrondse spoorwegen;2009 juli;112;-1.7
+127;4212: Boven- en ondergrondse spoorwegen;2009 oktober;112;-1.2
+128;4212: Boven- en ondergrondse spoorwegen;2010 januari;113;1.0
+129;4212: Boven- en ondergrondse spoorwegen;2010 april;115;2.9
+130;4212: Boven- en ondergrondse spoorwegen;2010 juli;116;3.4
+131;4212: Boven- en ondergrondse spoorwegen;2010 oktober;116;3.5
+132;4212: Boven- en ondergrondse spoorwegen;2011 januari;118;3.7
+133;4212: Boven- en ondergrondse spoorwegen;2011 april;118;2.5
+134;4212: Boven- en ondergrondse spoorwegen;2011 juli;118;1.8
+135;4212: Boven- en ondergrondse spoorwegen;2011 oktober;117;1.0
+136;4212: Boven- en ondergrondse spoorwegen;2012 januari;118;0.6
+137;4212: Boven- en ondergrondse spoorwegen;2012 april;119;1.1
+138;4212: Boven- en ondergrondse spoorwegen;2012 juli;120;1.9
+139;4212: Boven- en ondergrondse spoorwegen;2012 oktober;120;2.5
+140;4212: Boven- en ondergrondse spoorwegen;2013 januari;120;1.6
+141;4212: Boven- en ondergrondse spoorwegen;2013 april;120;0.8
+142;4212: Boven- en ondergrondse spoorwegen;2013 juli;119;-0.7
+143;4212: Boven- en ondergrondse spoorwegen;2013 oktober;119;-1.0
+144;4213: Bruggen en tunnels;2005 januari;100;
+145;4213: Bruggen en tunnels;2005 april;100;
+146;4213: Bruggen en tunnels;2005 juli;100;
+147;4213: Bruggen en tunnels;2005 oktober;101;
+148;4213: Bruggen en tunnels;2006 januari;101;1.6
+149;4213: Bruggen en tunnels;2006 april;102;2.6
+150;4213: Bruggen en tunnels;2006 juli;105;5.0
+151;4213: Bruggen en tunnels;2006 oktober;106;4.9
+152;4213: Bruggen en tunnels;2007 januari;107;5.2
+153;4213: Bruggen en tunnels;2007 april;108;6.0
+154;4213: Bruggen en tunnels;2007 juli;109;4.0
+155;4213: Bruggen en tunnels;2007 oktober;107;1.6
+156;4213: Bruggen en tunnels;2008 januari;111;4.4
+157;4213: Bruggen en tunnels;2008 april;116;6.9
+158;4213: Bruggen en tunnels;2008 juli;122;12.1
+159;4213: Bruggen en tunnels;2008 oktober;116;8.2
+160;4213: Bruggen en tunnels;2009 januari;114;2.5
+161;4213: Bruggen en tunnels;2009 april;112;-3.3
+162;4213: Bruggen en tunnels;2009 juli;112;-8.3
+163;4213: Bruggen en tunnels;2009 oktober;112;-4.0
+164;4213: Bruggen en tunnels;2010 januari;112;-1.6
+165;4213: Bruggen en tunnels;2010 april;116;3.7
+166;4213: Bruggen en tunnels;2010 juli;116;3.4
+167;4213: Bruggen en tunnels;2010 oktober;116;3.9
+168;4213: Bruggen en tunnels;2011 januari;119;5.9
+169;4213: Bruggen en tunnels;2011 april;118;1.7
+170;4213: Bruggen en tunnels;2011 juli;119;2.6
+171;4213: Bruggen en tunnels;2011 oktober;119;2.5
+172;4213: Bruggen en tunnels;2012 januari;120;0.8
+173;4213: Bruggen en tunnels;2012 april;120;1.7
+174;4213: Bruggen en tunnels;2012 juli;121;1.7
+175;4213: Bruggen en tunnels;2012 oktober;121;2.1
+176;4213: Bruggen en tunnels;2013 januari;121;1.2
+177;4213: Bruggen en tunnels;2013 april;121;0.7
+178;4213: Bruggen en tunnels;2013 juli;120;-0.3
+179;4213: Bruggen en tunnels;2013 oktober;121;-0.4
+180;4221: Werken voor vloeistoffen;2005 januari;99;
+181;4221: Werken voor vloeistoffen;2005 april;100;
+182;4221: Werken voor vloeistoffen;2005 juli;101;
+183;4221: Werken voor vloeistoffen;2005 oktober;99;
+184;4221: Werken voor vloeistoffen;2006 januari;100;0.5
+185;4221: Werken voor vloeistoffen;2006 april;101;0.3
+186;4221: Werken voor vloeistoffen;2006 juli;101;-0.4
+187;4221: Werken voor vloeistoffen;2006 oktober;100;1.4
+188;4221: Werken voor vloeistoffen;2007 januari;101;1.6
+189;4221: Werken voor vloeistoffen;2007 april;102;1.3
+190;4221: Werken voor vloeistoffen;2007 juli;104;3.3
+191;4221: Werken voor vloeistoffen;2007 oktober;104;3.9
+192;4221: Werken voor vloeistoffen;2008 januari;106;4.1
+193;4221: Werken voor vloeistoffen;2008 april;107;5.4
+194;4221: Werken voor vloeistoffen;2008 juli;112;7.5
+195;4221: Werken voor vloeistoffen;2008 oktober;111;6.4
+196;4221: Werken voor vloeistoffen;2009 januari;110;4.6
+197;4221: Werken voor vloeistoffen;2009 april;110;2.0
+198;4221: Werken voor vloeistoffen;2009 juli;109;-2.4
+199;4221: Werken voor vloeistoffen;2009 oktober;108;-2.4
+200;4221: Werken voor vloeistoffen;2010 januari;109;-1.6
+201;4221: Werken voor vloeistoffen;2010 april;109;-0.1
+202;4221: Werken voor vloeistoffen;2010 juli;110;0.7
+203;4221: Werken voor vloeistoffen;2010 oktober;110;1.4
+204;4221: Werken voor vloeistoffen;2011 januari;111;1.9
+205;4221: Werken voor vloeistoffen;2011 april;112;2.5
+206;4221: Werken voor vloeistoffen;2011 juli;113;2.7
+207;4221: Werken voor vloeistoffen;2011 oktober;113;2.7
+208;4221: Werken voor vloeistoffen;2012 januari;114;2.9
+209;4221: Werken voor vloeistoffen;2012 april;115;2.2
+210;4221: Werken voor vloeistoffen;2012 juli;115;1.9
+211;4221: Werken voor vloeistoffen;2012 oktober;116;2.8
+212;4221: Werken voor vloeistoffen;2013 januari;116;1.5
+213;4221: Werken voor vloeistoffen;2013 april;116;0.8
+214;4221: Werken voor vloeistoffen;2013 juli;116;1.1
+215;4221: Werken voor vloeistoffen;2013 oktober;116;0.0
+216;4291: Waterbouwkundige werken;2005 januari;97;
+217;4291: Waterbouwkundige werken;2005 april;99;
+218;4291: Waterbouwkundige werken;2005 juli;101;
+219;4291: Waterbouwkundige werken;2005 oktober;103;
+220;4291: Waterbouwkundige werken;2006 januari;102;5.7
+221;4291: Waterbouwkundige werken;2006 april;104;4.2
+222;4291: Waterbouwkundige werken;2006 juli;104;3.6
+223;4291: Waterbouwkundige werken;2006 oktober;103;0.4
+224;4291: Waterbouwkundige werken;2007 januari;103;0.6
+225;4291: Waterbouwkundige werken;2007 april;104;0.3
+226;4291: Waterbouwkundige werken;2007 juli;106;1.4
+227;4291: Waterbouwkundige werken;2007 oktober;107;4.0
+228;4291: Waterbouwkundige werken;2008 januari;109;6.5
+229;4291: Waterbouwkundige werken;2008 april;113;8.4
+230;4291: Waterbouwkundige werken;2008 juli;119;12.0
+231;4291: Waterbouwkundige werken;2008 oktober;115;7.3
+232;4291: Waterbouwkundige werken;2009 januari;109;0.1
+233;4291: Waterbouwkundige werken;2009 april;109;-3.4
+234;4291: Waterbouwkundige werken;2009 juli;110;-7.1
+235;4291: Waterbouwkundige werken;2009 oktober;111;-3.4
+236;4291: Waterbouwkundige werken;2010 januari;113;3.0
+237;4291: Waterbouwkundige werken;2010 april;116;6.4
+238;4291: Waterbouwkundige werken;2010 juli;116;5.4
+239;4291: Waterbouwkundige werken;2010 oktober;116;5.0
+240;4291: Waterbouwkundige werken;2011 januari;120;6.1
+241;4291: Waterbouwkundige werken;2011 april;123;6.3
+242;4291: Waterbouwkundige werken;2011 juli;123;6.0
+243;4291: Waterbouwkundige werken;2011 oktober;123;5.8
+244;4291: Waterbouwkundige werken;2012 januari;125;4.7
+245;4291: Waterbouwkundige werken;2012 april;127;3.2
+246;4291: Waterbouwkundige werken;2012 juli;126;2.8
+247;4291: Waterbouwkundige werken;2012 oktober;128;3.9
+248;4291: Waterbouwkundige werken;2013 januari;128;1.9
+249;4291: Waterbouwkundige werken;2013 april;127;-0.1
+250;4291: Waterbouwkundige werken;2013 juli;128;1.1
+251;4291: Waterbouwkundige werken;2013 oktober;127;-0.6
+252;4312: Bouwrijp maken van terreinen;2005 januari;97;
+253;4312: Bouwrijp maken van terreinen;2005 april;99;
+254;4312: Bouwrijp maken van terreinen;2005 juli;100;
+255;4312: Bouwrijp maken van terreinen;2005 oktober;103;
+256;4312: Bouwrijp maken van terreinen;2006 januari;103;6.4
+257;4312: Bouwrijp maken van terreinen;2006 april;104;4.4
+258;4312: Bouwrijp maken van terreinen;2006 juli;104;3.8
+259;4312: Bouwrijp maken van terreinen;2006 oktober;103;-0.4
+260;4312: Bouwrijp maken van terreinen;2007 januari;104;0.6
+261;4312: Bouwrijp maken van terreinen;2007 april;105;1.1
+262;4312: Bouwrijp maken van terreinen;2007 juli;106;2.2
+263;4312: Bouwrijp maken van terreinen;2007 oktober;107;4.0
+264;4312: Bouwrijp maken van terreinen;2008 januari;109;5.5
+265;4312: Bouwrijp maken van terreinen;2008 april;111;6.2
+266;4312: Bouwrijp maken van terreinen;2008 juli;116;9.1
+267;4312: Bouwrijp maken van terreinen;2008 oktober;114;6.2
+268;4312: Bouwrijp maken van terreinen;2009 januari;112;2.0
+269;4312: Bouwrijp maken van terreinen;2009 april;111;0.2
+270;4312: Bouwrijp maken van terreinen;2009 juli;113;-2.6
+271;4312: Bouwrijp maken van terreinen;2009 oktober;113;-0.4
+272;4312: Bouwrijp maken van terreinen;2010 januari;115;3.0
+273;4312: Bouwrijp maken van terreinen;2010 april;117;4.8
+274;4312: Bouwrijp maken van terreinen;2010 juli;117;3.4
+275;4312: Bouwrijp maken van terreinen;2010 oktober;117;3.3
+276;4312: Bouwrijp maken van terreinen;2011 januari;120;4.3
+277;4312: Bouwrijp maken van terreinen;2011 april;122;4.6
+278;4312: Bouwrijp maken van terreinen;2011 juli;122;4.7
+279;4312: Bouwrijp maken van terreinen;2011 oktober;123;4.7
+280;4312: Bouwrijp maken van terreinen;2012 januari;124;3.5
+281;4312: Bouwrijp maken van terreinen;2012 april;125;2.0
+282;4312: Bouwrijp maken van terreinen;2012 juli;124;1.8
+283;4312: Bouwrijp maken van terreinen;2012 oktober;125;1.9
+284;4312: Bouwrijp maken van terreinen;2013 januari;126;1.3
+285;4312: Bouwrijp maken van terreinen;2013 april;124;-0.2
+286;4312: Bouwrijp maken van terreinen;2013 juli;125;0.9
+287;4312: Bouwrijp maken van terreinen;2013 oktober;125;0.0
+288;4321: Elektrische installatie;2005 januari;99;
+289;4321: Elektrische installatie;2005 april;100;
+290;4321: Elektrische installatie;2005 juli;100;
+291;4321: Elektrische installatie;2005 oktober;100;
+292;4321: Elektrische installatie;2006 januari;102;2.4
+293;4321: Elektrische installatie;2006 april;103;3.2
+294;4321: Elektrische installatie;2006 juli;105;4.7
+295;4321: Elektrische installatie;2006 oktober;105;5.0
+296;4321: Elektrische installatie;2007 januari;106;4.1
+297;4321: Elektrische installatie;2007 april;107;3.7
+298;4321: Elektrische installatie;2007 juli;108;2.9
+299;4321: Elektrische installatie;2007 oktober;108;2.1
+300;4321: Elektrische installatie;2008 januari;108;2.2
+301;4321: Elektrische installatie;2008 april;110;2.7
+302;4321: Elektrische installatie;2008 juli;112;3.6
+303;4321: Elektrische installatie;2008 oktober;113;4.9
+304;4321: Elektrische installatie;2009 januari;110;1.9
+305;4321: Elektrische installatie;2009 april;110;0.5
+306;4321: Elektrische installatie;2009 juli;110;-1.5
+307;4321: Elektrische installatie;2009 oktober;110;-2.4
+308;4321: Elektrische installatie;2010 januari;111;0.9
+309;4321: Elektrische installatie;2010 april;113;2.3
+310;4321: Elektrische installatie;2010 juli;113;2.6
+311;4321: Elektrische installatie;2010 oktober;113;2.5
+312;4321: Elektrische installatie;2011 januari;115;3.5
+313;4321: Elektrische installatie;2011 april;115;2.4
+314;4321: Elektrische installatie;2011 juli;116;2.3
+315;4321: Elektrische installatie;2011 oktober;115;1.7
+316;4321: Elektrische installatie;2012 januari;116;0.7
+317;4321: Elektrische installatie;2012 april;116;0.8
+318;4321: Elektrische installatie;2012 juli;117;0.9
+319;4321: Elektrische installatie;2012 oktober;116;1.3
+320;4321: Elektrische installatie;2013 januari;116;0.4
+321;4321: Elektrische installatie;2013 april;116;-0.2
+322;4321: Elektrische installatie;2013 juli;115;-1.1
+323;4321: Elektrische installatie;2013 oktober;115;-1.3

@@ -1,0 +1,211 @@
+﻿ID;RegioS;Perioden;HuurverhogingInclusiefHuurharmonisatie_1;HuurverhogingExclusiefHuurharmonisatie_2
+0;Nederland;2015;2.4;1.9
+1;Nederland;2016;1.9;1.4
+2;Nederland;2017;1.6;1.2
+3;Nederland;2018;2.3;1.8
+4;Nederland;2019;2.5;2.1
+5;Nederland;2020;2.9;2.4
+6;Nederland;2021;0.8;0.3
+7;Nederland;2022;3.0;2.4
+8;Nederland;2023;2.0;1.3
+9;Nederland;2024;5.4;4.7
+10;Noord-Nederland (LD);2015;2.5;1.7
+11;Noord-Nederland (LD);2016;1.4;1.0
+12;Noord-Nederland (LD);2017;1.2;0.8
+13;Noord-Nederland (LD);2018;1.8;1.5
+14;Noord-Nederland (LD);2019;2.3;2.0
+15;Noord-Nederland (LD);2020;2.9;2.6
+16;Noord-Nederland (LD);2021;0.3;-0.1
+17;Noord-Nederland (LD);2022;2.6;2.1
+18;Noord-Nederland (LD);2023;2.0;1.4
+19;Noord-Nederland (LD);2024;5.2;4.8
+20;Oost-Nederland (LD);2015;2.3;1.9
+21;Oost-Nederland (LD);2016;1.7;1.3
+22;Oost-Nederland (LD);2017;1.3;1.0
+23;Oost-Nederland (LD);2018;2.2;1.8
+24;Oost-Nederland (LD);2019;2.2;1.9
+25;Oost-Nederland (LD);2020;2.3;2.0
+26;Oost-Nederland (LD);2021;1.0;0.6
+27;Oost-Nederland (LD);2022;2.7;2.3
+28;Oost-Nederland (LD);2023;1.6;1.0
+29;Oost-Nederland (LD);2024;5.6;4.9
+30;West-Nederland (LD);2015;2.5;2.0
+31;West-Nederland (LD);2016;2.1;1.5
+32;West-Nederland (LD);2017;1.8;1.3
+33;West-Nederland (LD);2018;2.6;2.0
+34;West-Nederland (LD);2019;2.8;2.3
+35;West-Nederland (LD);2020;3.1;2.5
+36;West-Nederland (LD);2021;0.9;0.3
+37;West-Nederland (LD);2022;3.2;2.5
+38;West-Nederland (LD);2023;2.1;1.4
+39;West-Nederland (LD);2024;5.5;4.6
+40;Zuid-Nederland (LD);2015;2.2;1.8
+41;Zuid-Nederland (LD);2016;1.7;1.3
+42;Zuid-Nederland (LD);2017;1.6;1.2
+43;Zuid-Nederland (LD);2018;2.0;1.6
+44;Zuid-Nederland (LD);2019;2.3;2.0
+45;Zuid-Nederland (LD);2020;2.7;2.4
+46;Zuid-Nederland (LD);2021;0.6;0.3
+47;Zuid-Nederland (LD);2022;2.7;2.3
+48;Zuid-Nederland (LD);2023;1.8;1.2
+49;Zuid-Nederland (LD);2024;5.3;4.8
+50;Groningen (PV);2015;2.8;1.9
+51;Groningen (PV);2016;1.5;1.0
+52;Groningen (PV);2017;1.1;0.8
+53;Groningen (PV);2018;1.9;1.6
+54;Groningen (PV);2019;2.5;2.1
+55;Groningen (PV);2020;3.0;2.6
+56;Groningen (PV);2021;0.5;0.0
+57;Groningen (PV);2022;2.8;2.2
+58;Groningen (PV);2023;1.9;1.1
+59;Groningen (PV);2024;5.0;4.6
+60;Fryslân (PV);2015;2.5;1.7
+61;Fryslân (PV);2016;1.6;1.1
+62;Fryslân (PV);2017;1.3;0.9
+63;Fryslân (PV);2018;2.3;1.7
+64;Fryslân (PV);2019;2.3;1.9
+65;Fryslân (PV);2020;2.8;2.4
+66;Fryslân (PV);2021;-0.1;-0.4
+67;Fryslân (PV);2022;2.5;2.1
+68;Fryslân (PV);2023;2.4;1.9
+69;Fryslân (PV);2024;5.1;4.9
+70;Drenthe (PV);2015;1.8;1.5
+71;Drenthe (PV);2016;1.2;0.9
+72;Drenthe (PV);2017;1.1;0.7
+73;Drenthe (PV);2018;1.1;1.1
+74;Drenthe (PV);2019;1.9;1.8
+75;Drenthe (PV);2020;3.0;2.8
+76;Drenthe (PV);2021;0.6;0.0
+77;Drenthe (PV);2022;2.5;2.2
+78;Drenthe (PV);2023;1.7;1.3
+79;Drenthe (PV);2024;5.8;4.9
+80;Overijssel (PV);2015;2.2;1.6
+81;Overijssel (PV);2016;1.9;1.3
+82;Overijssel (PV);2017;1.5;1.0
+83;Overijssel (PV);2018;2.2;1.7
+84;Overijssel (PV);2019;2.1;1.9
+85;Overijssel (PV);2020;2.1;1.6
+86;Overijssel (PV);2021;1.4;0.7
+87;Overijssel (PV);2022;2.6;2.1
+88;Overijssel (PV);2023;2.1;1.2
+89;Overijssel (PV);2024;5.7;4.9
+90;Flevoland (PV);2015;2.3;2.1
+91;Flevoland (PV);2016;1.6;1.6
+92;Flevoland (PV);2017;1.3;1.2
+93;Flevoland (PV);2018;1.9;1.7
+94;Flevoland (PV);2019;2.3;2.1
+95;Flevoland (PV);2020;2.4;2.4
+96;Flevoland (PV);2021;0.2;0.1
+97;Flevoland (PV);2022;2.7;2.5
+98;Flevoland (PV);2023;1.2;0.6
+99;Flevoland (PV);2024;5.5;4.7
+100;Gelderland (PV);2015;2.4;1.9
+101;Gelderland (PV);2016;1.6;1.3
+102;Gelderland (PV);2017;1.1;0.9
+103;Gelderland (PV);2018;2.2;1.8
+104;Gelderland (PV);2019;2.2;1.9
+105;Gelderland (PV);2020;2.4;2.1
+106;Gelderland (PV);2021;0.9;0.6
+107;Gelderland (PV);2022;2.7;2.3
+108;Gelderland (PV);2023;1.4;0.9
+109;Gelderland (PV);2024;5.6;4.9
+110;Utrecht (PV);2015;2.4;2.2
+111;Utrecht (PV);2016;1.5;1.4
+112;Utrecht (PV);2017;1.3;1.0
+113;Utrecht (PV);2018;2.4;1.9
+114;Utrecht (PV);2019;2.4;2.0
+115;Utrecht (PV);2020;2.8;2.5
+116;Utrecht (PV);2021;1.2;0.6
+117;Utrecht (PV);2022;3.3;2.6
+118;Utrecht (PV);2023;1.6;1.2
+119;Utrecht (PV);2024;5.6;4.8
+120;Noord-Holland (PV);2015;2.6;2.1
+121;Noord-Holland (PV);2016;2.4;1.6
+122;Noord-Holland (PV);2017;2.0;1.4
+123;Noord-Holland (PV);2018;2.8;2.0
+124;Noord-Holland (PV);2019;3.1;2.5
+125;Noord-Holland (PV);2020;3.2;2.5
+126;Noord-Holland (PV);2021;0.8;0.2
+127;Noord-Holland (PV);2022;3.4;2.4
+128;Noord-Holland (PV);2023;2.3;1.5
+129;Noord-Holland (PV);2024;5.3;4.4
+130;Zuid-Holland (PV);2015;2.4;1.9
+131;Zuid-Holland (PV);2016;1.9;1.4
+132;Zuid-Holland (PV);2017;1.8;1.3
+133;Zuid-Holland (PV);2018;2.5;2.0
+134;Zuid-Holland (PV);2019;2.6;2.2
+135;Zuid-Holland (PV);2020;3.2;2.4
+136;Zuid-Holland (PV);2021;1.0;0.3
+137;Zuid-Holland (PV);2022;3.0;2.5
+138;Zuid-Holland (PV);2023;2.2;1.5
+139;Zuid-Holland (PV);2024;5.6;4.8
+140;Zeeland (PV);2015;2.5;1.7
+141;Zeeland (PV);2016;1.7;1.1
+142;Zeeland (PV);2017;1.4;1.0
+143;Zeeland (PV);2018;1.7;1.4
+144;Zeeland (PV);2019;2.3;2.1
+145;Zeeland (PV);2020;2.9;2.5
+146;Zeeland (PV);2021;0.4;0.1
+147;Zeeland (PV);2022;2.7;2.3
+148;Zeeland (PV);2023;1.6;1.0
+149;Zeeland (PV);2024;5.1;4.9
+150;Noord-Brabant (PV);2015;2.2;1.8
+151;Noord-Brabant (PV);2016;1.8;1.3
+152;Noord-Brabant (PV);2017;1.5;1.1
+153;Noord-Brabant (PV);2018;2.1;1.7
+154;Noord-Brabant (PV);2019;2.3;2.0
+155;Noord-Brabant (PV);2020;2.8;2.4
+156;Noord-Brabant (PV);2021;0.6;0.3
+157;Noord-Brabant (PV);2022;2.8;2.3
+158;Noord-Brabant (PV);2023;2.0;1.1
+159;Noord-Brabant (PV);2024;5.4;4.8
+160;Limburg (PV);2015;2.0;1.7
+161;Limburg (PV);2016;1.6;1.4
+162;Limburg (PV);2017;1.6;1.3
+163;Limburg (PV);2018;1.8;1.5
+164;Limburg (PV);2019;2.5;2.0
+165;Limburg (PV);2020;2.6;2.4
+166;Limburg (PV);2021;0.4;0.2
+167;Limburg (PV);2022;2.7;2.3
+168;Limburg (PV);2023;1.5;1.2
+169;Limburg (PV);2024;5.2;4.8
+170;Amsterdam;2015;3.1;2.2
+171;Amsterdam;2016;2.9;1.7
+172;Amsterdam;2017;2.5;1.5
+173;Amsterdam;2018;3.3;2.1
+174;Amsterdam;2019;3.4;2.8
+175;Amsterdam;2020;3.5;2.5
+176;Amsterdam;2021;1.1;0.3
+177;Amsterdam;2022;3.6;2.5
+178;Amsterdam;2023;2.8;1.7
+179;Amsterdam;2024;5.2;4.1
+180;'s-Gravenhage (gemeente);2015;2.1;1.8
+181;'s-Gravenhage (gemeente);2016;2.1;1.4
+182;'s-Gravenhage (gemeente);2017;1.7;1.6
+183;'s-Gravenhage (gemeente);2018;2.8;2.0
+184;'s-Gravenhage (gemeente);2019;2.5;2.3
+185;'s-Gravenhage (gemeente);2020;3.6;2.8
+186;'s-Gravenhage (gemeente);2021;0.8;0.2
+187;'s-Gravenhage (gemeente);2022;3.4;2.6
+188;'s-Gravenhage (gemeente);2023;2.7;2.0
+189;'s-Gravenhage (gemeente);2024;5.4;4.7
+190;Rotterdam;2015;2.8;2.2
+191;Rotterdam;2016;2.2;1.3
+192;Rotterdam;2017;1.8;1.3
+193;Rotterdam;2018;2.7;2.1
+194;Rotterdam;2019;3.2;2.4
+195;Rotterdam;2020;4.1;2.8
+196;Rotterdam;2021;1.2;0.2
+197;Rotterdam;2022;3.0;2.5
+198;Rotterdam;2023;2.6;1.5
+199;Rotterdam;2024;5.9;4.9
+200;Utrecht (gemeente);2015;2.4;2.0
+201;Utrecht (gemeente);2016;1.5;1.1
+202;Utrecht (gemeente);2017;1.3;1.0
+203;Utrecht (gemeente);2018;2.8;1.9
+204;Utrecht (gemeente);2019;2.4;2.0
+205;Utrecht (gemeente);2020;2.6;2.2
+206;Utrecht (gemeente);2021;1.6;0.8
+207;Utrecht (gemeente);2022;3.5;2.6
+208;Utrecht (gemeente);2023;2.4;1.8
+209;Utrecht (gemeente);2024;5.8;4.5

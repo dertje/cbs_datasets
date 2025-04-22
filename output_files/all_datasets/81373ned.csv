@@ -1,0 +1,865 @@
+﻿ID;Geslacht;Leeftijd;Herkomstgroepering;Perioden;InstroomBijstandInclHerinstroom_1;HerinstroomBijstand_2
+0;Totaal mannen en vrouwen;Totaal leeftijd;Totaal herkomstgroepering;2005 1e kwartaal;32990;9880
+1;Totaal mannen en vrouwen;Totaal leeftijd;Totaal herkomstgroepering;2005 2e kwartaal;24660;6440
+2;Totaal mannen en vrouwen;Totaal leeftijd;Totaal herkomstgroepering;2005 3e kwartaal;26020;7300
+3;Totaal mannen en vrouwen;Totaal leeftijd;Totaal herkomstgroepering;2005 4e kwartaal;23490;6840
+4;Totaal mannen en vrouwen;Totaal leeftijd;Totaal herkomstgroepering;2006 1e kwartaal;31420;10980
+5;Totaal mannen en vrouwen;Totaal leeftijd;Totaal herkomstgroepering;2006 2e kwartaal;24810;7730
+6;Totaal mannen en vrouwen;Totaal leeftijd;Totaal herkomstgroepering;2006 3e kwartaal;23420;7720
+7;Totaal mannen en vrouwen;Totaal leeftijd;Totaal herkomstgroepering;2006 4e kwartaal;21240;7190
+8;Totaal mannen en vrouwen;Totaal leeftijd;Totaal herkomstgroepering;2007 1e kwartaal;23310;7610
+9;Totaal mannen en vrouwen;Totaal leeftijd;Totaal herkomstgroepering;2007 2e kwartaal;17900;5660
+10;Totaal mannen en vrouwen;Totaal leeftijd;Totaal herkomstgroepering;2007 3e kwartaal;19820;5970
+11;Totaal mannen en vrouwen;Totaal leeftijd;Totaal herkomstgroepering;2007 4e kwartaal;21230;6110
+12;Totaal mannen en vrouwen;Totaal leeftijd;Autochtoon;2005 1e kwartaal;16260;4660
+13;Totaal mannen en vrouwen;Totaal leeftijd;Autochtoon;2005 2e kwartaal;12160;3050
+14;Totaal mannen en vrouwen;Totaal leeftijd;Autochtoon;2005 3e kwartaal;13070;3290
+15;Totaal mannen en vrouwen;Totaal leeftijd;Autochtoon;2005 4e kwartaal;11250;3050
+16;Totaal mannen en vrouwen;Totaal leeftijd;Autochtoon;2006 1e kwartaal;15590;5410
+17;Totaal mannen en vrouwen;Totaal leeftijd;Autochtoon;2006 2e kwartaal;12090;3660
+18;Totaal mannen en vrouwen;Totaal leeftijd;Autochtoon;2006 3e kwartaal;11160;3450
+19;Totaal mannen en vrouwen;Totaal leeftijd;Autochtoon;2006 4e kwartaal;10050;3280
+20;Totaal mannen en vrouwen;Totaal leeftijd;Autochtoon;2007 1e kwartaal;11140;3460
+21;Totaal mannen en vrouwen;Totaal leeftijd;Autochtoon;2007 2e kwartaal;8640;2600
+22;Totaal mannen en vrouwen;Totaal leeftijd;Autochtoon;2007 3e kwartaal;8910;2630
+23;Totaal mannen en vrouwen;Totaal leeftijd;Autochtoon;2007 4e kwartaal;8700;2690
+24;Totaal mannen en vrouwen;Totaal leeftijd;Westerse allochtoon;2005 1e kwartaal;3470;1060
+25;Totaal mannen en vrouwen;Totaal leeftijd;Westerse allochtoon;2005 2e kwartaal;2580;640
+26;Totaal mannen en vrouwen;Totaal leeftijd;Westerse allochtoon;2005 3e kwartaal;2600;710
+27;Totaal mannen en vrouwen;Totaal leeftijd;Westerse allochtoon;2005 4e kwartaal;2420;670
+28;Totaal mannen en vrouwen;Totaal leeftijd;Westerse allochtoon;2006 1e kwartaal;3320;1150
+29;Totaal mannen en vrouwen;Totaal leeftijd;Westerse allochtoon;2006 2e kwartaal;2720;880
+30;Totaal mannen en vrouwen;Totaal leeftijd;Westerse allochtoon;2006 3e kwartaal;2420;780
+31;Totaal mannen en vrouwen;Totaal leeftijd;Westerse allochtoon;2006 4e kwartaal;2260;700
+32;Totaal mannen en vrouwen;Totaal leeftijd;Westerse allochtoon;2007 1e kwartaal;2520;800
+33;Totaal mannen en vrouwen;Totaal leeftijd;Westerse allochtoon;2007 2e kwartaal;1930;560
+34;Totaal mannen en vrouwen;Totaal leeftijd;Westerse allochtoon;2007 3e kwartaal;2370;620
+35;Totaal mannen en vrouwen;Totaal leeftijd;Westerse allochtoon;2007 4e kwartaal;2990;600
+36;Totaal mannen en vrouwen;Totaal leeftijd;Niet-westerse allochtoon;2005 1e kwartaal;13270;4160
+37;Totaal mannen en vrouwen;Totaal leeftijd;Niet-westerse allochtoon;2005 2e kwartaal;9920;2750
+38;Totaal mannen en vrouwen;Totaal leeftijd;Niet-westerse allochtoon;2005 3e kwartaal;10350;3290
+39;Totaal mannen en vrouwen;Totaal leeftijd;Niet-westerse allochtoon;2005 4e kwartaal;9820;3120
+40;Totaal mannen en vrouwen;Totaal leeftijd;Niet-westerse allochtoon;2006 1e kwartaal;12520;4420
+41;Totaal mannen en vrouwen;Totaal leeftijd;Niet-westerse allochtoon;2006 2e kwartaal;10000;3190
+42;Totaal mannen en vrouwen;Totaal leeftijd;Niet-westerse allochtoon;2006 3e kwartaal;9840;3500
+43;Totaal mannen en vrouwen;Totaal leeftijd;Niet-westerse allochtoon;2006 4e kwartaal;8940;3220
+44;Totaal mannen en vrouwen;Totaal leeftijd;Niet-westerse allochtoon;2007 1e kwartaal;9660;3360
+45;Totaal mannen en vrouwen;Totaal leeftijd;Niet-westerse allochtoon;2007 2e kwartaal;7330;2500
+46;Totaal mannen en vrouwen;Totaal leeftijd;Niet-westerse allochtoon;2007 3e kwartaal;8540;2730
+47;Totaal mannen en vrouwen;Totaal leeftijd;Niet-westerse allochtoon;2007 4e kwartaal;9540;2820
+48;Totaal mannen en vrouwen;Jonger dan 25 jaar;Totaal herkomstgroepering;2005 1e kwartaal;8720;1780
+49;Totaal mannen en vrouwen;Jonger dan 25 jaar;Totaal herkomstgroepering;2005 2e kwartaal;5920;1170
+50;Totaal mannen en vrouwen;Jonger dan 25 jaar;Totaal herkomstgroepering;2005 3e kwartaal;6400;1300
+51;Totaal mannen en vrouwen;Jonger dan 25 jaar;Totaal herkomstgroepering;2005 4e kwartaal;5520;1220
+52;Totaal mannen en vrouwen;Jonger dan 25 jaar;Totaal herkomstgroepering;2006 1e kwartaal;6750;1770
+53;Totaal mannen en vrouwen;Jonger dan 25 jaar;Totaal herkomstgroepering;2006 2e kwartaal;4950;1180
+54;Totaal mannen en vrouwen;Jonger dan 25 jaar;Totaal herkomstgroepering;2006 3e kwartaal;4620;1160
+55;Totaal mannen en vrouwen;Jonger dan 25 jaar;Totaal herkomstgroepering;2006 4e kwartaal;4010;1060
+56;Totaal mannen en vrouwen;Jonger dan 25 jaar;Totaal herkomstgroepering;2007 1e kwartaal;4440;1090
+57;Totaal mannen en vrouwen;Jonger dan 25 jaar;Totaal herkomstgroepering;2007 2e kwartaal;3140;710
+58;Totaal mannen en vrouwen;Jonger dan 25 jaar;Totaal herkomstgroepering;2007 3e kwartaal;3610;690
+59;Totaal mannen en vrouwen;Jonger dan 25 jaar;Totaal herkomstgroepering;2007 4e kwartaal;3750;660
+60;Totaal mannen en vrouwen;Jonger dan 25 jaar;Autochtoon;2005 1e kwartaal;4570;880
+61;Totaal mannen en vrouwen;Jonger dan 25 jaar;Autochtoon;2005 2e kwartaal;3020;570
+62;Totaal mannen en vrouwen;Jonger dan 25 jaar;Autochtoon;2005 3e kwartaal;3440;630
+63;Totaal mannen en vrouwen;Jonger dan 25 jaar;Autochtoon;2005 4e kwartaal;2760;600
+64;Totaal mannen en vrouwen;Jonger dan 25 jaar;Autochtoon;2006 1e kwartaal;3500;940
+65;Totaal mannen en vrouwen;Jonger dan 25 jaar;Autochtoon;2006 2e kwartaal;2450;600
+66;Totaal mannen en vrouwen;Jonger dan 25 jaar;Autochtoon;2006 3e kwartaal;2260;590
+67;Totaal mannen en vrouwen;Jonger dan 25 jaar;Autochtoon;2006 4e kwartaal;1940;520
+68;Totaal mannen en vrouwen;Jonger dan 25 jaar;Autochtoon;2007 1e kwartaal;2250;540
+69;Totaal mannen en vrouwen;Jonger dan 25 jaar;Autochtoon;2007 2e kwartaal;1550;340
+70;Totaal mannen en vrouwen;Jonger dan 25 jaar;Autochtoon;2007 3e kwartaal;1750;340
+71;Totaal mannen en vrouwen;Jonger dan 25 jaar;Autochtoon;2007 4e kwartaal;1680;340
+72;Totaal mannen en vrouwen;Jonger dan 25 jaar;Westerse allochtoon;2005 1e kwartaal;710;150
+73;Totaal mannen en vrouwen;Jonger dan 25 jaar;Westerse allochtoon;2005 2e kwartaal;470;100
+74;Totaal mannen en vrouwen;Jonger dan 25 jaar;Westerse allochtoon;2005 3e kwartaal;500;110
+75;Totaal mannen en vrouwen;Jonger dan 25 jaar;Westerse allochtoon;2005 4e kwartaal;470;100
+76;Totaal mannen en vrouwen;Jonger dan 25 jaar;Westerse allochtoon;2006 1e kwartaal;550;160
+77;Totaal mannen en vrouwen;Jonger dan 25 jaar;Westerse allochtoon;2006 2e kwartaal;450;110
+78;Totaal mannen en vrouwen;Jonger dan 25 jaar;Westerse allochtoon;2006 3e kwartaal;390;100
+79;Totaal mannen en vrouwen;Jonger dan 25 jaar;Westerse allochtoon;2006 4e kwartaal;340;90
+80;Totaal mannen en vrouwen;Jonger dan 25 jaar;Westerse allochtoon;2007 1e kwartaal;380;110
+81;Totaal mannen en vrouwen;Jonger dan 25 jaar;Westerse allochtoon;2007 2e kwartaal;300;70
+82;Totaal mannen en vrouwen;Jonger dan 25 jaar;Westerse allochtoon;2007 3e kwartaal;320;60
+83;Totaal mannen en vrouwen;Jonger dan 25 jaar;Westerse allochtoon;2007 4e kwartaal;380;60
+84;Totaal mannen en vrouwen;Jonger dan 25 jaar;Niet-westerse allochtoon;2005 1e kwartaal;3430;750
+85;Totaal mannen en vrouwen;Jonger dan 25 jaar;Niet-westerse allochtoon;2005 2e kwartaal;2420;500
+86;Totaal mannen en vrouwen;Jonger dan 25 jaar;Niet-westerse allochtoon;2005 3e kwartaal;2470;560
+87;Totaal mannen en vrouwen;Jonger dan 25 jaar;Niet-westerse allochtoon;2005 4e kwartaal;2290;520
+88;Totaal mannen en vrouwen;Jonger dan 25 jaar;Niet-westerse allochtoon;2006 1e kwartaal;2690;680
+89;Totaal mannen en vrouwen;Jonger dan 25 jaar;Niet-westerse allochtoon;2006 2e kwartaal;2060;470
+90;Totaal mannen en vrouwen;Jonger dan 25 jaar;Niet-westerse allochtoon;2006 3e kwartaal;1970;470
+91;Totaal mannen en vrouwen;Jonger dan 25 jaar;Niet-westerse allochtoon;2006 4e kwartaal;1730;450
+92;Totaal mannen en vrouwen;Jonger dan 25 jaar;Niet-westerse allochtoon;2007 1e kwartaal;1810;440
+93;Totaal mannen en vrouwen;Jonger dan 25 jaar;Niet-westerse allochtoon;2007 2e kwartaal;1300;300
+94;Totaal mannen en vrouwen;Jonger dan 25 jaar;Niet-westerse allochtoon;2007 3e kwartaal;1540;290
+95;Totaal mannen en vrouwen;Jonger dan 25 jaar;Niet-westerse allochtoon;2007 4e kwartaal;1680;270
+96;Totaal mannen en vrouwen;25 tot 35 jaar;Totaal herkomstgroepering;2005 1e kwartaal;10300;2920
+97;Totaal mannen en vrouwen;25 tot 35 jaar;Totaal herkomstgroepering;2005 2e kwartaal;7830;2050
+98;Totaal mannen en vrouwen;25 tot 35 jaar;Totaal herkomstgroepering;2005 3e kwartaal;8210;2280
+99;Totaal mannen en vrouwen;25 tot 35 jaar;Totaal herkomstgroepering;2005 4e kwartaal;7560;2190
+100;Totaal mannen en vrouwen;25 tot 35 jaar;Totaal herkomstgroepering;2006 1e kwartaal;9530;3200
+101;Totaal mannen en vrouwen;25 tot 35 jaar;Totaal herkomstgroepering;2006 2e kwartaal;7390;2380
+102;Totaal mannen en vrouwen;25 tot 35 jaar;Totaal herkomstgroepering;2006 3e kwartaal;6730;2290
+103;Totaal mannen en vrouwen;25 tot 35 jaar;Totaal herkomstgroepering;2006 4e kwartaal;6100;2220
+104;Totaal mannen en vrouwen;25 tot 35 jaar;Totaal herkomstgroepering;2007 1e kwartaal;6620;2370
+105;Totaal mannen en vrouwen;25 tot 35 jaar;Totaal herkomstgroepering;2007 2e kwartaal;4890;1660
+106;Totaal mannen en vrouwen;25 tot 35 jaar;Totaal herkomstgroepering;2007 3e kwartaal;5400;1760
+107;Totaal mannen en vrouwen;25 tot 35 jaar;Totaal herkomstgroepering;2007 4e kwartaal;5830;1810
+108;Totaal mannen en vrouwen;25 tot 35 jaar;Autochtoon;2005 1e kwartaal;4660;1250
+109;Totaal mannen en vrouwen;25 tot 35 jaar;Autochtoon;2005 2e kwartaal;3560;910
+110;Totaal mannen en vrouwen;25 tot 35 jaar;Autochtoon;2005 3e kwartaal;3860;960
+111;Totaal mannen en vrouwen;25 tot 35 jaar;Autochtoon;2005 4e kwartaal;3370;900
+112;Totaal mannen en vrouwen;25 tot 35 jaar;Autochtoon;2006 1e kwartaal;4380;1460
+113;Totaal mannen en vrouwen;25 tot 35 jaar;Autochtoon;2006 2e kwartaal;3290;1020
+114;Totaal mannen en vrouwen;25 tot 35 jaar;Autochtoon;2006 3e kwartaal;2900;930
+115;Totaal mannen en vrouwen;25 tot 35 jaar;Autochtoon;2006 4e kwartaal;2630;940
+116;Totaal mannen en vrouwen;25 tot 35 jaar;Autochtoon;2007 1e kwartaal;2840;970
+117;Totaal mannen en vrouwen;25 tot 35 jaar;Autochtoon;2007 2e kwartaal;2110;700
+118;Totaal mannen en vrouwen;25 tot 35 jaar;Autochtoon;2007 3e kwartaal;2170;700
+119;Totaal mannen en vrouwen;25 tot 35 jaar;Autochtoon;2007 4e kwartaal;2090;720
+120;Totaal mannen en vrouwen;25 tot 35 jaar;Westerse allochtoon;2005 1e kwartaal;1040;300
+121;Totaal mannen en vrouwen;25 tot 35 jaar;Westerse allochtoon;2005 2e kwartaal;780;180
+122;Totaal mannen en vrouwen;25 tot 35 jaar;Westerse allochtoon;2005 3e kwartaal;790;240
+123;Totaal mannen en vrouwen;25 tot 35 jaar;Westerse allochtoon;2005 4e kwartaal;720;210
+124;Totaal mannen en vrouwen;25 tot 35 jaar;Westerse allochtoon;2006 1e kwartaal;930;310
+125;Totaal mannen en vrouwen;25 tot 35 jaar;Westerse allochtoon;2006 2e kwartaal;720;250
+126;Totaal mannen en vrouwen;25 tot 35 jaar;Westerse allochtoon;2006 3e kwartaal;650;210
+127;Totaal mannen en vrouwen;25 tot 35 jaar;Westerse allochtoon;2006 4e kwartaal;600;190
+128;Totaal mannen en vrouwen;25 tot 35 jaar;Westerse allochtoon;2007 1e kwartaal;690;250
+129;Totaal mannen en vrouwen;25 tot 35 jaar;Westerse allochtoon;2007 2e kwartaal;480;130
+130;Totaal mannen en vrouwen;25 tot 35 jaar;Westerse allochtoon;2007 3e kwartaal;580;170
+131;Totaal mannen en vrouwen;25 tot 35 jaar;Westerse allochtoon;2007 4e kwartaal;760;160
+132;Totaal mannen en vrouwen;25 tot 35 jaar;Niet-westerse allochtoon;2005 1e kwartaal;4590;1370
+133;Totaal mannen en vrouwen;25 tot 35 jaar;Niet-westerse allochtoon;2005 2e kwartaal;3490;960
+134;Totaal mannen en vrouwen;25 tot 35 jaar;Niet-westerse allochtoon;2005 3e kwartaal;3560;1080
+135;Totaal mannen en vrouwen;25 tot 35 jaar;Niet-westerse allochtoon;2005 4e kwartaal;3480;1080
+136;Totaal mannen en vrouwen;25 tot 35 jaar;Niet-westerse allochtoon;2006 1e kwartaal;4220;1430
+137;Totaal mannen en vrouwen;25 tot 35 jaar;Niet-westerse allochtoon;2006 2e kwartaal;3380;1100
+138;Totaal mannen en vrouwen;25 tot 35 jaar;Niet-westerse allochtoon;2006 3e kwartaal;3180;1140
+139;Totaal mannen en vrouwen;25 tot 35 jaar;Niet-westerse allochtoon;2006 4e kwartaal;2870;1090
+140;Totaal mannen en vrouwen;25 tot 35 jaar;Niet-westerse allochtoon;2007 1e kwartaal;3100;1160
+141;Totaal mannen en vrouwen;25 tot 35 jaar;Niet-westerse allochtoon;2007 2e kwartaal;2300;830
+142;Totaal mannen en vrouwen;25 tot 35 jaar;Niet-westerse allochtoon;2007 3e kwartaal;2650;890
+143;Totaal mannen en vrouwen;25 tot 35 jaar;Niet-westerse allochtoon;2007 4e kwartaal;2990;940
+144;Totaal mannen en vrouwen;35 tot 45 jaar;Totaal herkomstgroepering;2005 1e kwartaal;7660;2730
+145;Totaal mannen en vrouwen;35 tot 45 jaar;Totaal herkomstgroepering;2005 2e kwartaal;5990;1680
+146;Totaal mannen en vrouwen;35 tot 45 jaar;Totaal herkomstgroepering;2005 3e kwartaal;6410;1990
+147;Totaal mannen en vrouwen;35 tot 45 jaar;Totaal herkomstgroepering;2005 4e kwartaal;6040;1890
+148;Totaal mannen en vrouwen;35 tot 45 jaar;Totaal herkomstgroepering;2006 1e kwartaal;8590;3260
+149;Totaal mannen en vrouwen;35 tot 45 jaar;Totaal herkomstgroepering;2006 2e kwartaal;7040;2290
+150;Totaal mannen en vrouwen;35 tot 45 jaar;Totaal herkomstgroepering;2006 3e kwartaal;6630;2300
+151;Totaal mannen en vrouwen;35 tot 45 jaar;Totaal herkomstgroepering;2006 4e kwartaal;6060;2110
+152;Totaal mannen en vrouwen;35 tot 45 jaar;Totaal herkomstgroepering;2007 1e kwartaal;6570;2330
+153;Totaal mannen en vrouwen;35 tot 45 jaar;Totaal herkomstgroepering;2007 2e kwartaal;5100;1790
+154;Totaal mannen en vrouwen;35 tot 45 jaar;Totaal herkomstgroepering;2007 3e kwartaal;5590;1890
+155;Totaal mannen en vrouwen;35 tot 45 jaar;Totaal herkomstgroepering;2007 4e kwartaal;6060;1950
+156;Totaal mannen en vrouwen;35 tot 45 jaar;Autochtoon;2005 1e kwartaal;3630;1270
+157;Totaal mannen en vrouwen;35 tot 45 jaar;Autochtoon;2005 2e kwartaal;2920;790
+158;Totaal mannen en vrouwen;35 tot 45 jaar;Autochtoon;2005 3e kwartaal;3130;910
+159;Totaal mannen en vrouwen;35 tot 45 jaar;Autochtoon;2005 4e kwartaal;2810;840
+160;Totaal mannen en vrouwen;35 tot 45 jaar;Autochtoon;2006 1e kwartaal;4220;1590
+161;Totaal mannen en vrouwen;35 tot 45 jaar;Autochtoon;2006 2e kwartaal;3450;1080
+162;Totaal mannen en vrouwen;35 tot 45 jaar;Autochtoon;2006 3e kwartaal;3190;1010
+163;Totaal mannen en vrouwen;35 tot 45 jaar;Autochtoon;2006 4e kwartaal;2780;940
+164;Totaal mannen en vrouwen;35 tot 45 jaar;Autochtoon;2007 1e kwartaal;3050;1060
+165;Totaal mannen en vrouwen;35 tot 45 jaar;Autochtoon;2007 2e kwartaal;2450;820
+166;Totaal mannen en vrouwen;35 tot 45 jaar;Autochtoon;2007 3e kwartaal;2420;830
+167;Totaal mannen en vrouwen;35 tot 45 jaar;Autochtoon;2007 4e kwartaal;2330;860
+168;Totaal mannen en vrouwen;35 tot 45 jaar;Westerse allochtoon;2005 1e kwartaal;870;300
+169;Totaal mannen en vrouwen;35 tot 45 jaar;Westerse allochtoon;2005 2e kwartaal;640;170
+170;Totaal mannen en vrouwen;35 tot 45 jaar;Westerse allochtoon;2005 3e kwartaal;670;180
+171;Totaal mannen en vrouwen;35 tot 45 jaar;Westerse allochtoon;2005 4e kwartaal;700;200
+172;Totaal mannen en vrouwen;35 tot 45 jaar;Westerse allochtoon;2006 1e kwartaal;970;340
+173;Totaal mannen en vrouwen;35 tot 45 jaar;Westerse allochtoon;2006 2e kwartaal;780;270
+174;Totaal mannen en vrouwen;35 tot 45 jaar;Westerse allochtoon;2006 3e kwartaal;680;250
+175;Totaal mannen en vrouwen;35 tot 45 jaar;Westerse allochtoon;2006 4e kwartaal;680;220
+176;Totaal mannen en vrouwen;35 tot 45 jaar;Westerse allochtoon;2007 1e kwartaal;710;230
+177;Totaal mannen en vrouwen;35 tot 45 jaar;Westerse allochtoon;2007 2e kwartaal;530;180
+178;Totaal mannen en vrouwen;35 tot 45 jaar;Westerse allochtoon;2007 3e kwartaal;690;180
+179;Totaal mannen en vrouwen;35 tot 45 jaar;Westerse allochtoon;2007 4e kwartaal;910;190
+180;Totaal mannen en vrouwen;35 tot 45 jaar;Niet-westerse allochtoon;2005 1e kwartaal;3170;1160
+181;Totaal mannen en vrouwen;35 tot 45 jaar;Niet-westerse allochtoon;2005 2e kwartaal;2430;730
+182;Totaal mannen en vrouwen;35 tot 45 jaar;Niet-westerse allochtoon;2005 3e kwartaal;2610;910
+183;Totaal mannen en vrouwen;35 tot 45 jaar;Niet-westerse allochtoon;2005 4e kwartaal;2530;850
+184;Totaal mannen en vrouwen;35 tot 45 jaar;Niet-westerse allochtoon;2006 1e kwartaal;3400;1330
+185;Totaal mannen en vrouwen;35 tot 45 jaar;Niet-westerse allochtoon;2006 2e kwartaal;2810;940
+186;Totaal mannen en vrouwen;35 tot 45 jaar;Niet-westerse allochtoon;2006 3e kwartaal;2760;1040
+187;Totaal mannen en vrouwen;35 tot 45 jaar;Niet-westerse allochtoon;2006 4e kwartaal;2600;940
+188;Totaal mannen en vrouwen;35 tot 45 jaar;Niet-westerse allochtoon;2007 1e kwartaal;2810;1050
+189;Totaal mannen en vrouwen;35 tot 45 jaar;Niet-westerse allochtoon;2007 2e kwartaal;2120;790
+190;Totaal mannen en vrouwen;35 tot 45 jaar;Niet-westerse allochtoon;2007 3e kwartaal;2480;880
+191;Totaal mannen en vrouwen;35 tot 45 jaar;Niet-westerse allochtoon;2007 4e kwartaal;2820;910
+192;Totaal mannen en vrouwen;45 tot 55 jaar;Totaal herkomstgroepering;2005 1e kwartaal;4270;1580
+193;Totaal mannen en vrouwen;45 tot 55 jaar;Totaal herkomstgroepering;2005 2e kwartaal;3460;1060
+194;Totaal mannen en vrouwen;45 tot 55 jaar;Totaal herkomstgroepering;2005 3e kwartaal;3360;1150
+195;Totaal mannen en vrouwen;45 tot 55 jaar;Totaal herkomstgroepering;2005 4e kwartaal;2950;1000
+196;Totaal mannen en vrouwen;45 tot 55 jaar;Totaal herkomstgroepering;2006 1e kwartaal;4430;1830
+197;Totaal mannen en vrouwen;45 tot 55 jaar;Totaal herkomstgroepering;2006 2e kwartaal;3760;1320
+198;Totaal mannen en vrouwen;45 tot 55 jaar;Totaal herkomstgroepering;2006 3e kwartaal;3720;1310
+199;Totaal mannen en vrouwen;45 tot 55 jaar;Totaal herkomstgroepering;2006 4e kwartaal;3610;1270
+200;Totaal mannen en vrouwen;45 tot 55 jaar;Totaal herkomstgroepering;2007 1e kwartaal;4040;1320
+201;Totaal mannen en vrouwen;45 tot 55 jaar;Totaal herkomstgroepering;2007 2e kwartaal;3370;1060
+202;Totaal mannen en vrouwen;45 tot 55 jaar;Totaal herkomstgroepering;2007 3e kwartaal;3600;1150
+203;Totaal mannen en vrouwen;45 tot 55 jaar;Totaal herkomstgroepering;2007 4e kwartaal;3970;1220
+204;Totaal mannen en vrouwen;45 tot 55 jaar;Autochtoon;2005 1e kwartaal;2220;770
+205;Totaal mannen en vrouwen;45 tot 55 jaar;Autochtoon;2005 2e kwartaal;1820;510
+206;Totaal mannen en vrouwen;45 tot 55 jaar;Autochtoon;2005 3e kwartaal;1780;550
+207;Totaal mannen en vrouwen;45 tot 55 jaar;Autochtoon;2005 4e kwartaal;1540;480
+208;Totaal mannen en vrouwen;45 tot 55 jaar;Autochtoon;2006 1e kwartaal;2340;930
+209;Totaal mannen en vrouwen;45 tot 55 jaar;Autochtoon;2006 2e kwartaal;1950;630
+210;Totaal mannen en vrouwen;45 tot 55 jaar;Autochtoon;2006 3e kwartaal;1910;610
+211;Totaal mannen en vrouwen;45 tot 55 jaar;Autochtoon;2006 4e kwartaal;1910;630
+212;Totaal mannen en vrouwen;45 tot 55 jaar;Autochtoon;2007 1e kwartaal;2130;640
+213;Totaal mannen en vrouwen;45 tot 55 jaar;Autochtoon;2007 2e kwartaal;1780;510
+214;Totaal mannen en vrouwen;45 tot 55 jaar;Autochtoon;2007 3e kwartaal;1750;530
+215;Totaal mannen en vrouwen;45 tot 55 jaar;Autochtoon;2007 4e kwartaal;1850;580
+216;Totaal mannen en vrouwen;45 tot 55 jaar;Westerse allochtoon;2005 1e kwartaal;560;210
+217;Totaal mannen en vrouwen;45 tot 55 jaar;Westerse allochtoon;2005 2e kwartaal;480;140
+218;Totaal mannen en vrouwen;45 tot 55 jaar;Westerse allochtoon;2005 3e kwartaal;430;120
+219;Totaal mannen en vrouwen;45 tot 55 jaar;Westerse allochtoon;2005 4e kwartaal;370;110
+220;Totaal mannen en vrouwen;45 tot 55 jaar;Westerse allochtoon;2006 1e kwartaal;560;220
+221;Totaal mannen en vrouwen;45 tot 55 jaar;Westerse allochtoon;2006 2e kwartaal;480;160
+222;Totaal mannen en vrouwen;45 tot 55 jaar;Westerse allochtoon;2006 3e kwartaal;440;130
+223;Totaal mannen en vrouwen;45 tot 55 jaar;Westerse allochtoon;2006 4e kwartaal;440;140
+224;Totaal mannen en vrouwen;45 tot 55 jaar;Westerse allochtoon;2007 1e kwartaal;520;150
+225;Totaal mannen en vrouwen;45 tot 55 jaar;Westerse allochtoon;2007 2e kwartaal;400;110
+226;Totaal mannen en vrouwen;45 tot 55 jaar;Westerse allochtoon;2007 3e kwartaal;520;140
+227;Totaal mannen en vrouwen;45 tot 55 jaar;Westerse allochtoon;2007 4e kwartaal;670;130
+228;Totaal mannen en vrouwen;45 tot 55 jaar;Niet-westerse allochtoon;2005 1e kwartaal;1490;600
+229;Totaal mannen en vrouwen;45 tot 55 jaar;Niet-westerse allochtoon;2005 2e kwartaal;1160;410
+230;Totaal mannen en vrouwen;45 tot 55 jaar;Niet-westerse allochtoon;2005 3e kwartaal;1160;480
+231;Totaal mannen en vrouwen;45 tot 55 jaar;Niet-westerse allochtoon;2005 4e kwartaal;1040;410
+232;Totaal mannen en vrouwen;45 tot 55 jaar;Niet-westerse allochtoon;2006 1e kwartaal;1530;690
+233;Totaal mannen en vrouwen;45 tot 55 jaar;Niet-westerse allochtoon;2006 2e kwartaal;1330;530
+234;Totaal mannen en vrouwen;45 tot 55 jaar;Niet-westerse allochtoon;2006 3e kwartaal;1360;570
+235;Totaal mannen en vrouwen;45 tot 55 jaar;Niet-westerse allochtoon;2006 4e kwartaal;1250;500
+236;Totaal mannen en vrouwen;45 tot 55 jaar;Niet-westerse allochtoon;2007 1e kwartaal;1400;540
+237;Totaal mannen en vrouwen;45 tot 55 jaar;Niet-westerse allochtoon;2007 2e kwartaal;1190;440
+238;Totaal mannen en vrouwen;45 tot 55 jaar;Niet-westerse allochtoon;2007 3e kwartaal;1320;480
+239;Totaal mannen en vrouwen;45 tot 55 jaar;Niet-westerse allochtoon;2007 4e kwartaal;1450;510
+240;Totaal mannen en vrouwen;55 tot 65 jaar;Totaal herkomstgroepering;2005 1e kwartaal;2050;870
+241;Totaal mannen en vrouwen;55 tot 65 jaar;Totaal herkomstgroepering;2005 2e kwartaal;1470;500
+242;Totaal mannen en vrouwen;55 tot 65 jaar;Totaal herkomstgroepering;2005 3e kwartaal;1640;580
+243;Totaal mannen en vrouwen;55 tot 65 jaar;Totaal herkomstgroepering;2005 4e kwartaal;1420;540
+244;Totaal mannen en vrouwen;55 tot 65 jaar;Totaal herkomstgroepering;2006 1e kwartaal;2130;920
+245;Totaal mannen en vrouwen;55 tot 65 jaar;Totaal herkomstgroepering;2006 2e kwartaal;1660;570
+246;Totaal mannen en vrouwen;55 tot 65 jaar;Totaal herkomstgroepering;2006 3e kwartaal;1730;680
+247;Totaal mannen en vrouwen;55 tot 65 jaar;Totaal herkomstgroepering;2006 4e kwartaal;1470;540
+248;Totaal mannen en vrouwen;55 tot 65 jaar;Totaal herkomstgroepering;2007 1e kwartaal;1650;510
+249;Totaal mannen en vrouwen;55 tot 65 jaar;Totaal herkomstgroepering;2007 2e kwartaal;1400;450
+250;Totaal mannen en vrouwen;55 tot 65 jaar;Totaal herkomstgroepering;2007 3e kwartaal;1620;490
+251;Totaal mannen en vrouwen;55 tot 65 jaar;Totaal herkomstgroepering;2007 4e kwartaal;1620;460
+252;Totaal mannen en vrouwen;55 tot 65 jaar;Autochtoon;2005 1e kwartaal;1170;490
+253;Totaal mannen en vrouwen;55 tot 65 jaar;Autochtoon;2005 2e kwartaal;840;280
+254;Totaal mannen en vrouwen;55 tot 65 jaar;Autochtoon;2005 3e kwartaal;870;250
+255;Totaal mannen en vrouwen;55 tot 65 jaar;Autochtoon;2005 4e kwartaal;780;230
+256;Totaal mannen en vrouwen;55 tot 65 jaar;Autochtoon;2006 1e kwartaal;1150;500
+257;Totaal mannen en vrouwen;55 tot 65 jaar;Autochtoon;2006 2e kwartaal;950;330
+258;Totaal mannen en vrouwen;55 tot 65 jaar;Autochtoon;2006 3e kwartaal;910;310
+259;Totaal mannen en vrouwen;55 tot 65 jaar;Autochtoon;2006 4e kwartaal;790;250
+260;Totaal mannen en vrouwen;55 tot 65 jaar;Autochtoon;2007 1e kwartaal;870;250
+261;Totaal mannen en vrouwen;55 tot 65 jaar;Autochtoon;2007 2e kwartaal;760;240
+262;Totaal mannen en vrouwen;55 tot 65 jaar;Autochtoon;2007 3e kwartaal;810;240
+263;Totaal mannen en vrouwen;55 tot 65 jaar;Autochtoon;2007 4e kwartaal;750;210
+264;Totaal mannen en vrouwen;55 tot 65 jaar;Westerse allochtoon;2005 1e kwartaal;290;110
+265;Totaal mannen en vrouwen;55 tot 65 jaar;Westerse allochtoon;2005 2e kwartaal;210;60
+266;Totaal mannen en vrouwen;55 tot 65 jaar;Westerse allochtoon;2005 3e kwartaal;220;70
+267;Totaal mannen en vrouwen;55 tot 65 jaar;Westerse allochtoon;2005 4e kwartaal;160;60
+268;Totaal mannen en vrouwen;55 tot 65 jaar;Westerse allochtoon;2006 1e kwartaal;310;120
+269;Totaal mannen en vrouwen;55 tot 65 jaar;Westerse allochtoon;2006 2e kwartaal;280;80
+270;Totaal mannen en vrouwen;55 tot 65 jaar;Westerse allochtoon;2006 3e kwartaal;260;90
+271;Totaal mannen en vrouwen;55 tot 65 jaar;Westerse allochtoon;2006 4e kwartaal;190;50
+272;Totaal mannen en vrouwen;55 tot 65 jaar;Westerse allochtoon;2007 1e kwartaal;230;70
+273;Totaal mannen en vrouwen;55 tot 65 jaar;Westerse allochtoon;2007 2e kwartaal;220;60
+274;Totaal mannen en vrouwen;55 tot 65 jaar;Westerse allochtoon;2007 3e kwartaal;260;70
+275;Totaal mannen en vrouwen;55 tot 65 jaar;Westerse allochtoon;2007 4e kwartaal;270;60
+276;Totaal mannen en vrouwen;55 tot 65 jaar;Niet-westerse allochtoon;2005 1e kwartaal;600;270
+277;Totaal mannen en vrouwen;55 tot 65 jaar;Niet-westerse allochtoon;2005 2e kwartaal;420;150
+278;Totaal mannen en vrouwen;55 tot 65 jaar;Niet-westerse allochtoon;2005 3e kwartaal;550;260
+279;Totaal mannen en vrouwen;55 tot 65 jaar;Niet-westerse allochtoon;2005 4e kwartaal;490;260
+280;Totaal mannen en vrouwen;55 tot 65 jaar;Niet-westerse allochtoon;2006 1e kwartaal;670;300
+281;Totaal mannen en vrouwen;55 tot 65 jaar;Niet-westerse allochtoon;2006 2e kwartaal;420;160
+282;Totaal mannen en vrouwen;55 tot 65 jaar;Niet-westerse allochtoon;2006 3e kwartaal;570;280
+283;Totaal mannen en vrouwen;55 tot 65 jaar;Niet-westerse allochtoon;2006 4e kwartaal;490;240
+284;Totaal mannen en vrouwen;55 tot 65 jaar;Niet-westerse allochtoon;2007 1e kwartaal;550;180
+285;Totaal mannen en vrouwen;55 tot 65 jaar;Niet-westerse allochtoon;2007 2e kwartaal;420;160
+286;Totaal mannen en vrouwen;55 tot 65 jaar;Niet-westerse allochtoon;2007 3e kwartaal;550;190
+287;Totaal mannen en vrouwen;55 tot 65 jaar;Niet-westerse allochtoon;2007 4e kwartaal;600;200
+288;Mannen;Totaal leeftijd;Totaal herkomstgroepering;2005 1e kwartaal;16680;5100
+289;Mannen;Totaal leeftijd;Totaal herkomstgroepering;2005 2e kwartaal;12360;3450
+290;Mannen;Totaal leeftijd;Totaal herkomstgroepering;2005 3e kwartaal;12610;3820
+291;Mannen;Totaal leeftijd;Totaal herkomstgroepering;2005 4e kwartaal;12010;3790
+292;Mannen;Totaal leeftijd;Totaal herkomstgroepering;2006 1e kwartaal;15870;5610
+293;Mannen;Totaal leeftijd;Totaal herkomstgroepering;2006 2e kwartaal;12240;4020
+294;Mannen;Totaal leeftijd;Totaal herkomstgroepering;2006 3e kwartaal;11040;3970
+295;Mannen;Totaal leeftijd;Totaal herkomstgroepering;2006 4e kwartaal;10370;3890
+296;Mannen;Totaal leeftijd;Totaal herkomstgroepering;2007 1e kwartaal;11320;4030
+297;Mannen;Totaal leeftijd;Totaal herkomstgroepering;2007 2e kwartaal;8490;2990
+298;Mannen;Totaal leeftijd;Totaal herkomstgroepering;2007 3e kwartaal;9550;3160
+299;Mannen;Totaal leeftijd;Totaal herkomstgroepering;2007 4e kwartaal;10530;3280
+300;Mannen;Totaal leeftijd;Autochtoon;2005 1e kwartaal;7780;2240
+301;Mannen;Totaal leeftijd;Autochtoon;2005 2e kwartaal;5800;1570
+302;Mannen;Totaal leeftijd;Autochtoon;2005 3e kwartaal;5950;1640
+303;Mannen;Totaal leeftijd;Autochtoon;2005 4e kwartaal;5520;1670
+304;Mannen;Totaal leeftijd;Autochtoon;2006 1e kwartaal;7420;2630
+305;Mannen;Totaal leeftijd;Autochtoon;2006 2e kwartaal;5600;1820
+306;Mannen;Totaal leeftijd;Autochtoon;2006 3e kwartaal;5030;1750
+307;Mannen;Totaal leeftijd;Autochtoon;2006 4e kwartaal;4650;1690
+308;Mannen;Totaal leeftijd;Autochtoon;2007 1e kwartaal;5150;1740
+309;Mannen;Totaal leeftijd;Autochtoon;2007 2e kwartaal;3850;1330
+310;Mannen;Totaal leeftijd;Autochtoon;2007 3e kwartaal;3990;1340
+311;Mannen;Totaal leeftijd;Autochtoon;2007 4e kwartaal;4020;1380
+312;Mannen;Totaal leeftijd;Westerse allochtoon;2005 1e kwartaal;1590;500
+313;Mannen;Totaal leeftijd;Westerse allochtoon;2005 2e kwartaal;1210;330
+314;Mannen;Totaal leeftijd;Westerse allochtoon;2005 3e kwartaal;1240;360
+315;Mannen;Totaal leeftijd;Westerse allochtoon;2005 4e kwartaal;1170;350
+316;Mannen;Totaal leeftijd;Westerse allochtoon;2006 1e kwartaal;1570;540
+317;Mannen;Totaal leeftijd;Westerse allochtoon;2006 2e kwartaal;1260;420
+318;Mannen;Totaal leeftijd;Westerse allochtoon;2006 3e kwartaal;1050;360
+319;Mannen;Totaal leeftijd;Westerse allochtoon;2006 4e kwartaal;1010;350
+320;Mannen;Totaal leeftijd;Westerse allochtoon;2007 1e kwartaal;1130;400
+321;Mannen;Totaal leeftijd;Westerse allochtoon;2007 2e kwartaal;810;260
+322;Mannen;Totaal leeftijd;Westerse allochtoon;2007 3e kwartaal;1060;310
+323;Mannen;Totaal leeftijd;Westerse allochtoon;2007 4e kwartaal;1380;310
+324;Mannen;Totaal leeftijd;Niet-westerse allochtoon;2005 1e kwartaal;7310;2360
+325;Mannen;Totaal leeftijd;Niet-westerse allochtoon;2005 2e kwartaal;5360;1540
+326;Mannen;Totaal leeftijd;Niet-westerse allochtoon;2005 3e kwartaal;5420;1820
+327;Mannen;Totaal leeftijd;Niet-westerse allochtoon;2005 4e kwartaal;5320;1780
+328;Mannen;Totaal leeftijd;Niet-westerse allochtoon;2006 1e kwartaal;6880;2440
+329;Mannen;Totaal leeftijd;Niet-westerse allochtoon;2006 2e kwartaal;5380;1780
+330;Mannen;Totaal leeftijd;Niet-westerse allochtoon;2006 3e kwartaal;4960;1860
+331;Mannen;Totaal leeftijd;Niet-westerse allochtoon;2006 4e kwartaal;4710;1860
+332;Mannen;Totaal leeftijd;Niet-westerse allochtoon;2007 1e kwartaal;5040;1890
+333;Mannen;Totaal leeftijd;Niet-westerse allochtoon;2007 2e kwartaal;3830;1410
+334;Mannen;Totaal leeftijd;Niet-westerse allochtoon;2007 3e kwartaal;4500;1520
+335;Mannen;Totaal leeftijd;Niet-westerse allochtoon;2007 4e kwartaal;5130;1600
+336;Mannen;Jonger dan 25 jaar;Totaal herkomstgroepering;2005 1e kwartaal;4230;900
+337;Mannen;Jonger dan 25 jaar;Totaal herkomstgroepering;2005 2e kwartaal;2770;570
+338;Mannen;Jonger dan 25 jaar;Totaal herkomstgroepering;2005 3e kwartaal;2870;630
+339;Mannen;Jonger dan 25 jaar;Totaal herkomstgroepering;2005 4e kwartaal;2600;620
+340;Mannen;Jonger dan 25 jaar;Totaal herkomstgroepering;2006 1e kwartaal;3220;890
+341;Mannen;Jonger dan 25 jaar;Totaal herkomstgroepering;2006 2e kwartaal;2240;530
+342;Mannen;Jonger dan 25 jaar;Totaal herkomstgroepering;2006 3e kwartaal;1860;500
+343;Mannen;Jonger dan 25 jaar;Totaal herkomstgroepering;2006 4e kwartaal;1770;500
+344;Mannen;Jonger dan 25 jaar;Totaal herkomstgroepering;2007 1e kwartaal;1910;500
+345;Mannen;Jonger dan 25 jaar;Totaal herkomstgroepering;2007 2e kwartaal;1270;310
+346;Mannen;Jonger dan 25 jaar;Totaal herkomstgroepering;2007 3e kwartaal;1450;290
+347;Mannen;Jonger dan 25 jaar;Totaal herkomstgroepering;2007 4e kwartaal;1700;300
+348;Mannen;Jonger dan 25 jaar;Autochtoon;2005 1e kwartaal;2100;420
+349;Mannen;Jonger dan 25 jaar;Autochtoon;2005 2e kwartaal;1380;270
+350;Mannen;Jonger dan 25 jaar;Autochtoon;2005 3e kwartaal;1440;290
+351;Mannen;Jonger dan 25 jaar;Autochtoon;2005 4e kwartaal;1230;290
+352;Mannen;Jonger dan 25 jaar;Autochtoon;2006 1e kwartaal;1550;450
+353;Mannen;Jonger dan 25 jaar;Autochtoon;2006 2e kwartaal;1040;260
+354;Mannen;Jonger dan 25 jaar;Autochtoon;2006 3e kwartaal;820;220
+355;Mannen;Jonger dan 25 jaar;Autochtoon;2006 4e kwartaal;800;230
+356;Mannen;Jonger dan 25 jaar;Autochtoon;2007 1e kwartaal;900;220
+357;Mannen;Jonger dan 25 jaar;Autochtoon;2007 2e kwartaal;560;130
+358;Mannen;Jonger dan 25 jaar;Autochtoon;2007 3e kwartaal;610;120
+359;Mannen;Jonger dan 25 jaar;Autochtoon;2007 4e kwartaal;670;130
+360;Mannen;Jonger dan 25 jaar;Westerse allochtoon;2005 1e kwartaal;320;70
+361;Mannen;Jonger dan 25 jaar;Westerse allochtoon;2005 2e kwartaal;200;50
+362;Mannen;Jonger dan 25 jaar;Westerse allochtoon;2005 3e kwartaal;230;50
+363;Mannen;Jonger dan 25 jaar;Westerse allochtoon;2005 4e kwartaal;220;50
+364;Mannen;Jonger dan 25 jaar;Westerse allochtoon;2006 1e kwartaal;250;80
+365;Mannen;Jonger dan 25 jaar;Westerse allochtoon;2006 2e kwartaal;190;40
+366;Mannen;Jonger dan 25 jaar;Westerse allochtoon;2006 3e kwartaal;150;40
+367;Mannen;Jonger dan 25 jaar;Westerse allochtoon;2006 4e kwartaal;150;30
+368;Mannen;Jonger dan 25 jaar;Westerse allochtoon;2007 1e kwartaal;170;50
+369;Mannen;Jonger dan 25 jaar;Westerse allochtoon;2007 2e kwartaal;120;30
+370;Mannen;Jonger dan 25 jaar;Westerse allochtoon;2007 3e kwartaal;110;20
+371;Mannen;Jonger dan 25 jaar;Westerse allochtoon;2007 4e kwartaal;160;20
+372;Mannen;Jonger dan 25 jaar;Niet-westerse allochtoon;2005 1e kwartaal;1810;420
+373;Mannen;Jonger dan 25 jaar;Niet-westerse allochtoon;2005 2e kwartaal;1190;250
+374;Mannen;Jonger dan 25 jaar;Niet-westerse allochtoon;2005 3e kwartaal;1200;290
+375;Mannen;Jonger dan 25 jaar;Niet-westerse allochtoon;2005 4e kwartaal;1150;280
+376;Mannen;Jonger dan 25 jaar;Niet-westerse allochtoon;2006 1e kwartaal;1420;370
+377;Mannen;Jonger dan 25 jaar;Niet-westerse allochtoon;2006 2e kwartaal;1020;220
+378;Mannen;Jonger dan 25 jaar;Niet-westerse allochtoon;2006 3e kwartaal;890;240
+379;Mannen;Jonger dan 25 jaar;Niet-westerse allochtoon;2006 4e kwartaal;820;240
+380;Mannen;Jonger dan 25 jaar;Niet-westerse allochtoon;2007 1e kwartaal;850;220
+381;Mannen;Jonger dan 25 jaar;Niet-westerse allochtoon;2007 2e kwartaal;600;150
+382;Mannen;Jonger dan 25 jaar;Niet-westerse allochtoon;2007 3e kwartaal;730;150
+383;Mannen;Jonger dan 25 jaar;Niet-westerse allochtoon;2007 4e kwartaal;860;150
+384;Mannen;25 tot 35 jaar;Totaal herkomstgroepering;2005 1e kwartaal;5370;1550
+385;Mannen;25 tot 35 jaar;Totaal herkomstgroepering;2005 2e kwartaal;4060;1130
+386;Mannen;25 tot 35 jaar;Totaal herkomstgroepering;2005 3e kwartaal;4130;1210
+387;Mannen;25 tot 35 jaar;Totaal herkomstgroepering;2005 4e kwartaal;4010;1260
+388;Mannen;25 tot 35 jaar;Totaal herkomstgroepering;2006 1e kwartaal;5020;1710
+389;Mannen;25 tot 35 jaar;Totaal herkomstgroepering;2006 2e kwartaal;3710;1260
+390;Mannen;25 tot 35 jaar;Totaal herkomstgroepering;2006 3e kwartaal;3240;1230
+391;Mannen;25 tot 35 jaar;Totaal herkomstgroepering;2006 4e kwartaal;3020;1220
+392;Mannen;25 tot 35 jaar;Totaal herkomstgroepering;2007 1e kwartaal;3250;1300
+393;Mannen;25 tot 35 jaar;Totaal herkomstgroepering;2007 2e kwartaal;2360;890
+394;Mannen;25 tot 35 jaar;Totaal herkomstgroepering;2007 3e kwartaal;2590;920
+395;Mannen;25 tot 35 jaar;Totaal herkomstgroepering;2007 4e kwartaal;2860;950
+396;Mannen;25 tot 35 jaar;Autochtoon;2005 1e kwartaal;2410;660
+397;Mannen;25 tot 35 jaar;Autochtoon;2005 2e kwartaal;1830;490
+398;Mannen;25 tot 35 jaar;Autochtoon;2005 3e kwartaal;1860;490
+399;Mannen;25 tot 35 jaar;Autochtoon;2005 4e kwartaal;1750;510
+400;Mannen;25 tot 35 jaar;Autochtoon;2006 1e kwartaal;2270;780
+401;Mannen;25 tot 35 jaar;Autochtoon;2006 2e kwartaal;1610;540
+402;Mannen;25 tot 35 jaar;Autochtoon;2006 3e kwartaal;1390;520
+403;Mannen;25 tot 35 jaar;Autochtoon;2006 4e kwartaal;1250;480
+404;Mannen;25 tot 35 jaar;Autochtoon;2007 1e kwartaal;1350;510
+405;Mannen;25 tot 35 jaar;Autochtoon;2007 2e kwartaal;980;370
+406;Mannen;25 tot 35 jaar;Autochtoon;2007 3e kwartaal;990;370
+407;Mannen;25 tot 35 jaar;Autochtoon;2007 4e kwartaal;980;360
+408;Mannen;25 tot 35 jaar;Westerse allochtoon;2005 1e kwartaal;490;150
+409;Mannen;25 tot 35 jaar;Westerse allochtoon;2005 2e kwartaal;380;100
+410;Mannen;25 tot 35 jaar;Westerse allochtoon;2005 3e kwartaal;370;120
+411;Mannen;25 tot 35 jaar;Westerse allochtoon;2005 4e kwartaal;360;110
+412;Mannen;25 tot 35 jaar;Westerse allochtoon;2006 1e kwartaal;440;140
+413;Mannen;25 tot 35 jaar;Westerse allochtoon;2006 2e kwartaal;330;120
+414;Mannen;25 tot 35 jaar;Westerse allochtoon;2006 3e kwartaal;280;110
+415;Mannen;25 tot 35 jaar;Westerse allochtoon;2006 4e kwartaal;270;90
+416;Mannen;25 tot 35 jaar;Westerse allochtoon;2007 1e kwartaal;310;130
+417;Mannen;25 tot 35 jaar;Westerse allochtoon;2007 2e kwartaal;200;60
+418;Mannen;25 tot 35 jaar;Westerse allochtoon;2007 3e kwartaal;260;80
+419;Mannen;25 tot 35 jaar;Westerse allochtoon;2007 4e kwartaal;330;90
+420;Mannen;25 tot 35 jaar;Niet-westerse allochtoon;2005 1e kwartaal;2470;740
+421;Mannen;25 tot 35 jaar;Niet-westerse allochtoon;2005 2e kwartaal;1850;530
+422;Mannen;25 tot 35 jaar;Niet-westerse allochtoon;2005 3e kwartaal;1890;600
+423;Mannen;25 tot 35 jaar;Niet-westerse allochtoon;2005 4e kwartaal;1900;650
+424;Mannen;25 tot 35 jaar;Niet-westerse allochtoon;2006 1e kwartaal;2300;790
+425;Mannen;25 tot 35 jaar;Niet-westerse allochtoon;2006 2e kwartaal;1770;600
+426;Mannen;25 tot 35 jaar;Niet-westerse allochtoon;2006 3e kwartaal;1570;600
+427;Mannen;25 tot 35 jaar;Niet-westerse allochtoon;2006 4e kwartaal;1510;650
+428;Mannen;25 tot 35 jaar;Niet-westerse allochtoon;2007 1e kwartaal;1580;660
+429;Mannen;25 tot 35 jaar;Niet-westerse allochtoon;2007 2e kwartaal;1180;460
+430;Mannen;25 tot 35 jaar;Niet-westerse allochtoon;2007 3e kwartaal;1340;470
+431;Mannen;25 tot 35 jaar;Niet-westerse allochtoon;2007 4e kwartaal;1550;500
+432;Mannen;35 tot 45 jaar;Totaal herkomstgroepering;2005 1e kwartaal;3950;1470
+433;Mannen;35 tot 45 jaar;Totaal herkomstgroepering;2005 2e kwartaal;3090;970
+434;Mannen;35 tot 45 jaar;Totaal herkomstgroepering;2005 3e kwartaal;3230;1100
+435;Mannen;35 tot 45 jaar;Totaal herkomstgroepering;2005 4e kwartaal;3200;1090
+436;Mannen;35 tot 45 jaar;Totaal herkomstgroepering;2006 1e kwartaal;4440;1690
+437;Mannen;35 tot 45 jaar;Totaal herkomstgroepering;2006 2e kwartaal;3600;1240
+438;Mannen;35 tot 45 jaar;Totaal herkomstgroepering;2006 3e kwartaal;3340;1250
+439;Mannen;35 tot 45 jaar;Totaal herkomstgroepering;2006 4e kwartaal;3080;1190
+440;Mannen;35 tot 45 jaar;Totaal herkomstgroepering;2007 1e kwartaal;3360;1280
+441;Mannen;35 tot 45 jaar;Totaal herkomstgroepering;2007 2e kwartaal;2530;980
+442;Mannen;35 tot 45 jaar;Totaal herkomstgroepering;2007 3e kwartaal;2850;1080
+443;Mannen;35 tot 45 jaar;Totaal herkomstgroepering;2007 4e kwartaal;3130;1100
+444;Mannen;35 tot 45 jaar;Autochtoon;2005 1e kwartaal;1670;590
+445;Mannen;35 tot 45 jaar;Autochtoon;2005 2e kwartaal;1320;430
+446;Mannen;35 tot 45 jaar;Autochtoon;2005 3e kwartaal;1450;470
+447;Mannen;35 tot 45 jaar;Autochtoon;2005 4e kwartaal;1410;480
+448;Mannen;35 tot 45 jaar;Autochtoon;2006 1e kwartaal;1990;750
+449;Mannen;35 tot 45 jaar;Autochtoon;2006 2e kwartaal;1590;530
+450;Mannen;35 tot 45 jaar;Autochtoon;2006 3e kwartaal;1480;530
+451;Mannen;35 tot 45 jaar;Autochtoon;2006 4e kwartaal;1310;500
+452;Mannen;35 tot 45 jaar;Autochtoon;2007 1e kwartaal;1470;560
+453;Mannen;35 tot 45 jaar;Autochtoon;2007 2e kwartaal;1120;420
+454;Mannen;35 tot 45 jaar;Autochtoon;2007 3e kwartaal;1100;440
+455;Mannen;35 tot 45 jaar;Autochtoon;2007 4e kwartaal;1090;460
+456;Mannen;35 tot 45 jaar;Westerse allochtoon;2005 1e kwartaal;390;150
+457;Mannen;35 tot 45 jaar;Westerse allochtoon;2005 2e kwartaal;280;80
+458;Mannen;35 tot 45 jaar;Westerse allochtoon;2005 3e kwartaal;320;80
+459;Mannen;35 tot 45 jaar;Westerse allochtoon;2005 4e kwartaal;330;100
+460;Mannen;35 tot 45 jaar;Westerse allochtoon;2006 1e kwartaal;460;160
+461;Mannen;35 tot 45 jaar;Westerse allochtoon;2006 2e kwartaal;380;140
+462;Mannen;35 tot 45 jaar;Westerse allochtoon;2006 3e kwartaal;310;120
+463;Mannen;35 tot 45 jaar;Westerse allochtoon;2006 4e kwartaal;310;120
+464;Mannen;35 tot 45 jaar;Westerse allochtoon;2007 1e kwartaal;310;110
+465;Mannen;35 tot 45 jaar;Westerse allochtoon;2007 2e kwartaal;230;90
+466;Mannen;35 tot 45 jaar;Westerse allochtoon;2007 3e kwartaal;320;100
+467;Mannen;35 tot 45 jaar;Westerse allochtoon;2007 4e kwartaal;440;100
+468;Mannen;35 tot 45 jaar;Niet-westerse allochtoon;2005 1e kwartaal;1890;730
+469;Mannen;35 tot 45 jaar;Niet-westerse allochtoon;2005 2e kwartaal;1480;470
+470;Mannen;35 tot 45 jaar;Niet-westerse allochtoon;2005 3e kwartaal;1460;550
+471;Mannen;35 tot 45 jaar;Niet-westerse allochtoon;2005 4e kwartaal;1460;510
+472;Mannen;35 tot 45 jaar;Niet-westerse allochtoon;2006 1e kwartaal;1990;780
+473;Mannen;35 tot 45 jaar;Niet-westerse allochtoon;2006 2e kwartaal;1640;580
+474;Mannen;35 tot 45 jaar;Niet-westerse allochtoon;2006 3e kwartaal;1550;600
+475;Mannen;35 tot 45 jaar;Niet-westerse allochtoon;2006 4e kwartaal;1460;570
+476;Mannen;35 tot 45 jaar;Niet-westerse allochtoon;2007 1e kwartaal;1580;610
+477;Mannen;35 tot 45 jaar;Niet-westerse allochtoon;2007 2e kwartaal;1180;470
+478;Mannen;35 tot 45 jaar;Niet-westerse allochtoon;2007 3e kwartaal;1440;540
+479;Mannen;35 tot 45 jaar;Niet-westerse allochtoon;2007 4e kwartaal;1600;540
+480;Mannen;45 tot 55 jaar;Totaal herkomstgroepering;2005 1e kwartaal;2150;790
+481;Mannen;45 tot 55 jaar;Totaal herkomstgroepering;2005 2e kwartaal;1760;560
+482;Mannen;45 tot 55 jaar;Totaal herkomstgroepering;2005 3e kwartaal;1690;630
+483;Mannen;45 tot 55 jaar;Totaal herkomstgroepering;2005 4e kwartaal;1540;560
+484;Mannen;45 tot 55 jaar;Totaal herkomstgroepering;2006 1e kwartaal;2230;930
+485;Mannen;45 tot 55 jaar;Totaal herkomstgroepering;2006 2e kwartaal;1910;720
+486;Mannen;45 tot 55 jaar;Totaal herkomstgroepering;2006 3e kwartaal;1860;680
+487;Mannen;45 tot 55 jaar;Totaal herkomstgroepering;2006 4e kwartaal;1850;740
+488;Mannen;45 tot 55 jaar;Totaal herkomstgroepering;2007 1e kwartaal;2060;710
+489;Mannen;45 tot 55 jaar;Totaal herkomstgroepering;2007 2e kwartaal;1700;590
+490;Mannen;45 tot 55 jaar;Totaal herkomstgroepering;2007 3e kwartaal;1940;620
+491;Mannen;45 tot 55 jaar;Totaal herkomstgroepering;2007 4e kwartaal;2080;680
+492;Mannen;45 tot 55 jaar;Autochtoon;2005 1e kwartaal;1050;360
+493;Mannen;45 tot 55 jaar;Autochtoon;2005 2e kwartaal;850;250
+494;Mannen;45 tot 55 jaar;Autochtoon;2005 3e kwartaal;820;280
+495;Mannen;45 tot 55 jaar;Autochtoon;2005 4e kwartaal;750;260
+496;Mannen;45 tot 55 jaar;Autochtoon;2006 1e kwartaal;1100;450
+497;Mannen;45 tot 55 jaar;Autochtoon;2006 2e kwartaal;940;330
+498;Mannen;45 tot 55 jaar;Autochtoon;2006 3e kwartaal;930;310
+499;Mannen;45 tot 55 jaar;Autochtoon;2006 4e kwartaal;920;340
+500;Mannen;45 tot 55 jaar;Autochtoon;2007 1e kwartaal;1020;330
+501;Mannen;45 tot 55 jaar;Autochtoon;2007 2e kwartaal;850;280
+502;Mannen;45 tot 55 jaar;Autochtoon;2007 3e kwartaal;910;280
+503;Mannen;45 tot 55 jaar;Autochtoon;2007 4e kwartaal;910;300
+504;Mannen;45 tot 55 jaar;Westerse allochtoon;2005 1e kwartaal;250;80
+505;Mannen;45 tot 55 jaar;Westerse allochtoon;2005 2e kwartaal;250;80
+506;Mannen;45 tot 55 jaar;Westerse allochtoon;2005 3e kwartaal;210;70
+507;Mannen;45 tot 55 jaar;Westerse allochtoon;2005 4e kwartaal;170;50
+508;Mannen;45 tot 55 jaar;Westerse allochtoon;2006 1e kwartaal;260;100
+509;Mannen;45 tot 55 jaar;Westerse allochtoon;2006 2e kwartaal;230;80
+510;Mannen;45 tot 55 jaar;Westerse allochtoon;2006 3e kwartaal;200;60
+511;Mannen;45 tot 55 jaar;Westerse allochtoon;2006 4e kwartaal;200;70
+512;Mannen;45 tot 55 jaar;Westerse allochtoon;2007 1e kwartaal;240;70
+513;Mannen;45 tot 55 jaar;Westerse allochtoon;2007 2e kwartaal;180;50
+514;Mannen;45 tot 55 jaar;Westerse allochtoon;2007 3e kwartaal;260;70
+515;Mannen;45 tot 55 jaar;Westerse allochtoon;2007 4e kwartaal;310;70
+516;Mannen;45 tot 55 jaar;Niet-westerse allochtoon;2005 1e kwartaal;860;350
+517;Mannen;45 tot 55 jaar;Niet-westerse allochtoon;2005 2e kwartaal;660;230
+518;Mannen;45 tot 55 jaar;Niet-westerse allochtoon;2005 3e kwartaal;660;280
+519;Mannen;45 tot 55 jaar;Niet-westerse allochtoon;2005 4e kwartaal;620;250
+520;Mannen;45 tot 55 jaar;Niet-westerse allochtoon;2006 1e kwartaal;870;390
+521;Mannen;45 tot 55 jaar;Niet-westerse allochtoon;2006 2e kwartaal;750;310
+522;Mannen;45 tot 55 jaar;Niet-westerse allochtoon;2006 3e kwartaal;720;310
+523;Mannen;45 tot 55 jaar;Niet-westerse allochtoon;2006 4e kwartaal;740;320
+524;Mannen;45 tot 55 jaar;Niet-westerse allochtoon;2007 1e kwartaal;800;310
+525;Mannen;45 tot 55 jaar;Niet-westerse allochtoon;2007 2e kwartaal;670;260
+526;Mannen;45 tot 55 jaar;Niet-westerse allochtoon;2007 3e kwartaal;770;270
+527;Mannen;45 tot 55 jaar;Niet-westerse allochtoon;2007 4e kwartaal;850;310
+528;Mannen;55 tot 65 jaar;Totaal herkomstgroepering;2005 1e kwartaal;970;400
+529;Mannen;55 tot 65 jaar;Totaal herkomstgroepering;2005 2e kwartaal;700;230
+530;Mannen;55 tot 65 jaar;Totaal herkomstgroepering;2005 3e kwartaal;690;250
+531;Mannen;55 tot 65 jaar;Totaal herkomstgroepering;2005 4e kwartaal;670;260
+532;Mannen;55 tot 65 jaar;Totaal herkomstgroepering;2006 1e kwartaal;960;390
+533;Mannen;55 tot 65 jaar;Totaal herkomstgroepering;2006 2e kwartaal;780;270
+534;Mannen;55 tot 65 jaar;Totaal herkomstgroepering;2006 3e kwartaal;750;310
+535;Mannen;55 tot 65 jaar;Totaal herkomstgroepering;2006 4e kwartaal;640;240
+536;Mannen;55 tot 65 jaar;Totaal herkomstgroepering;2007 1e kwartaal;740;250
+537;Mannen;55 tot 65 jaar;Totaal herkomstgroepering;2007 2e kwartaal;630;230
+538;Mannen;55 tot 65 jaar;Totaal herkomstgroepering;2007 3e kwartaal;720;260
+539;Mannen;55 tot 65 jaar;Totaal herkomstgroepering;2007 4e kwartaal;760;260
+540;Mannen;55 tot 65 jaar;Autochtoon;2005 1e kwartaal;560;220
+541;Mannen;55 tot 65 jaar;Autochtoon;2005 2e kwartaal;420;140
+542;Mannen;55 tot 65 jaar;Autochtoon;2005 3e kwartaal;370;110
+543;Mannen;55 tot 65 jaar;Autochtoon;2005 4e kwartaal;390;120
+544;Mannen;55 tot 65 jaar;Autochtoon;2006 1e kwartaal;520;210
+545;Mannen;55 tot 65 jaar;Autochtoon;2006 2e kwartaal;430;160
+546;Mannen;55 tot 65 jaar;Autochtoon;2006 3e kwartaal;410;170
+547;Mannen;55 tot 65 jaar;Autochtoon;2006 4e kwartaal;360;140
+548;Mannen;55 tot 65 jaar;Autochtoon;2007 1e kwartaal;410;130
+549;Mannen;55 tot 65 jaar;Autochtoon;2007 2e kwartaal;330;120
+550;Mannen;55 tot 65 jaar;Autochtoon;2007 3e kwartaal;380;130
+551;Mannen;55 tot 65 jaar;Autochtoon;2007 4e kwartaal;370;130
+552;Mannen;55 tot 65 jaar;Westerse allochtoon;2005 1e kwartaal;130;50
+553;Mannen;55 tot 65 jaar;Westerse allochtoon;2005 2e kwartaal;100;30
+554;Mannen;55 tot 65 jaar;Westerse allochtoon;2005 3e kwartaal;110;40
+555;Mannen;55 tot 65 jaar;Westerse allochtoon;2005 4e kwartaal;80;40
+556;Mannen;55 tot 65 jaar;Westerse allochtoon;2006 1e kwartaal;150;60
+557;Mannen;55 tot 65 jaar;Westerse allochtoon;2006 2e kwartaal;140;40
+558;Mannen;55 tot 65 jaar;Westerse allochtoon;2006 3e kwartaal;110;30
+559;Mannen;55 tot 65 jaar;Westerse allochtoon;2006 4e kwartaal;90;30
+560;Mannen;55 tot 65 jaar;Westerse allochtoon;2007 1e kwartaal;100;40
+561;Mannen;55 tot 65 jaar;Westerse allochtoon;2007 2e kwartaal;90;30
+562;Mannen;55 tot 65 jaar;Westerse allochtoon;2007 3e kwartaal;110;40
+563;Mannen;55 tot 65 jaar;Westerse allochtoon;2007 4e kwartaal;130;40
+564;Mannen;55 tot 65 jaar;Niet-westerse allochtoon;2005 1e kwartaal;280;130
+565;Mannen;55 tot 65 jaar;Niet-westerse allochtoon;2005 2e kwartaal;180;60
+566;Mannen;55 tot 65 jaar;Niet-westerse allochtoon;2005 3e kwartaal;210;100
+567;Mannen;55 tot 65 jaar;Niet-westerse allochtoon;2005 4e kwartaal;200;100
+568;Mannen;55 tot 65 jaar;Niet-westerse allochtoon;2006 1e kwartaal;290;120
+569;Mannen;55 tot 65 jaar;Niet-westerse allochtoon;2006 2e kwartaal;210;70
+570;Mannen;55 tot 65 jaar;Niet-westerse allochtoon;2006 3e kwartaal;230;110
+571;Mannen;55 tot 65 jaar;Niet-westerse allochtoon;2006 4e kwartaal;190;80
+572;Mannen;55 tot 65 jaar;Niet-westerse allochtoon;2007 1e kwartaal;230;90
+573;Mannen;55 tot 65 jaar;Niet-westerse allochtoon;2007 2e kwartaal;200;80
+574;Mannen;55 tot 65 jaar;Niet-westerse allochtoon;2007 3e kwartaal;220;90
+575;Mannen;55 tot 65 jaar;Niet-westerse allochtoon;2007 4e kwartaal;270;100
+576;Vrouwen;Totaal leeftijd;Totaal herkomstgroepering;2005 1e kwartaal;16320;4770
+577;Vrouwen;Totaal leeftijd;Totaal herkomstgroepering;2005 2e kwartaal;12300;3000
+578;Vrouwen;Totaal leeftijd;Totaal herkomstgroepering;2005 3e kwartaal;13410;3480
+579;Vrouwen;Totaal leeftijd;Totaal herkomstgroepering;2005 4e kwartaal;11480;3040
+580;Vrouwen;Totaal leeftijd;Totaal herkomstgroepering;2006 1e kwartaal;15550;5380
+581;Vrouwen;Totaal leeftijd;Totaal herkomstgroepering;2006 2e kwartaal;12570;3710
+582;Vrouwen;Totaal leeftijd;Totaal herkomstgroepering;2006 3e kwartaal;12390;3750
+583;Vrouwen;Totaal leeftijd;Totaal herkomstgroepering;2006 4e kwartaal;10880;3300
+584;Vrouwen;Totaal leeftijd;Totaal herkomstgroepering;2007 1e kwartaal;11990;3590
+585;Vrouwen;Totaal leeftijd;Totaal herkomstgroepering;2007 2e kwartaal;9410;2670
+586;Vrouwen;Totaal leeftijd;Totaal herkomstgroepering;2007 3e kwartaal;10280;2820
+587;Vrouwen;Totaal leeftijd;Totaal herkomstgroepering;2007 4e kwartaal;10700;2820
+588;Vrouwen;Totaal leeftijd;Autochtoon;2005 1e kwartaal;8470;2420
+589;Vrouwen;Totaal leeftijd;Autochtoon;2005 2e kwartaal;6370;1480
+590;Vrouwen;Totaal leeftijd;Autochtoon;2005 3e kwartaal;7120;1650
+591;Vrouwen;Totaal leeftijd;Autochtoon;2005 4e kwartaal;5740;1380
+592;Vrouwen;Totaal leeftijd;Autochtoon;2006 1e kwartaal;8170;2780
+593;Vrouwen;Totaal leeftijd;Autochtoon;2006 2e kwartaal;6490;1830
+594;Vrouwen;Totaal leeftijd;Autochtoon;2006 3e kwartaal;6140;1690
+595;Vrouwen;Totaal leeftijd;Autochtoon;2006 4e kwartaal;5400;1600
+596;Vrouwen;Totaal leeftijd;Autochtoon;2007 1e kwartaal;5990;1720
+597;Vrouwen;Totaal leeftijd;Autochtoon;2007 2e kwartaal;4800;1280
+598;Vrouwen;Totaal leeftijd;Autochtoon;2007 3e kwartaal;4930;1290
+599;Vrouwen;Totaal leeftijd;Autochtoon;2007 4e kwartaal;4680;1320
+600;Vrouwen;Totaal leeftijd;Westerse allochtoon;2005 1e kwartaal;1880;560
+601;Vrouwen;Totaal leeftijd;Westerse allochtoon;2005 2e kwartaal;1370;310
+602;Vrouwen;Totaal leeftijd;Westerse allochtoon;2005 3e kwartaal;1360;360
+603;Vrouwen;Totaal leeftijd;Westerse allochtoon;2005 4e kwartaal;1250;330
+604;Vrouwen;Totaal leeftijd;Westerse allochtoon;2006 1e kwartaal;1750;610
+605;Vrouwen;Totaal leeftijd;Westerse allochtoon;2006 2e kwartaal;1460;460
+606;Vrouwen;Totaal leeftijd;Westerse allochtoon;2006 3e kwartaal;1370;420
+607;Vrouwen;Totaal leeftijd;Westerse allochtoon;2006 4e kwartaal;1240;350
+608;Vrouwen;Totaal leeftijd;Westerse allochtoon;2007 1e kwartaal;1390;400
+609;Vrouwen;Totaal leeftijd;Westerse allochtoon;2007 2e kwartaal;1110;300
+610;Vrouwen;Totaal leeftijd;Westerse allochtoon;2007 3e kwartaal;1310;310
+611;Vrouwen;Totaal leeftijd;Westerse allochtoon;2007 4e kwartaal;1610;290
+612;Vrouwen;Totaal leeftijd;Niet-westerse allochtoon;2005 1e kwartaal;5960;1790
+613;Vrouwen;Totaal leeftijd;Niet-westerse allochtoon;2005 2e kwartaal;4560;1210
+614;Vrouwen;Totaal leeftijd;Niet-westerse allochtoon;2005 3e kwartaal;4930;1470
+615;Vrouwen;Totaal leeftijd;Niet-westerse allochtoon;2005 4e kwartaal;4500;1330
+616;Vrouwen;Totaal leeftijd;Niet-westerse allochtoon;2006 1e kwartaal;5640;1980
+617;Vrouwen;Totaal leeftijd;Niet-westerse allochtoon;2006 2e kwartaal;4620;1410
+618;Vrouwen;Totaal leeftijd;Niet-westerse allochtoon;2006 3e kwartaal;4880;1640
+619;Vrouwen;Totaal leeftijd;Niet-westerse allochtoon;2006 4e kwartaal;4230;1360
+620;Vrouwen;Totaal leeftijd;Niet-westerse allochtoon;2007 1e kwartaal;4620;1470
+621;Vrouwen;Totaal leeftijd;Niet-westerse allochtoon;2007 2e kwartaal;3500;1090
+622;Vrouwen;Totaal leeftijd;Niet-westerse allochtoon;2007 3e kwartaal;4040;1210
+623;Vrouwen;Totaal leeftijd;Niet-westerse allochtoon;2007 4e kwartaal;4410;1220
+624;Vrouwen;Jonger dan 25 jaar;Totaal herkomstgroepering;2005 1e kwartaal;4480;880
+625;Vrouwen;Jonger dan 25 jaar;Totaal herkomstgroepering;2005 2e kwartaal;3150;600
+626;Vrouwen;Jonger dan 25 jaar;Totaal herkomstgroepering;2005 3e kwartaal;3530;670
+627;Vrouwen;Jonger dan 25 jaar;Totaal herkomstgroepering;2005 4e kwartaal;2920;600
+628;Vrouwen;Jonger dan 25 jaar;Totaal herkomstgroepering;2006 1e kwartaal;3520;880
+629;Vrouwen;Jonger dan 25 jaar;Totaal herkomstgroepering;2006 2e kwartaal;2710;650
+630;Vrouwen;Jonger dan 25 jaar;Totaal herkomstgroepering;2006 3e kwartaal;2760;650
+631;Vrouwen;Jonger dan 25 jaar;Totaal herkomstgroepering;2006 4e kwartaal;2240;560
+632;Vrouwen;Jonger dan 25 jaar;Totaal herkomstgroepering;2007 1e kwartaal;2520;600
+633;Vrouwen;Jonger dan 25 jaar;Totaal herkomstgroepering;2007 2e kwartaal;1870;400
+634;Vrouwen;Jonger dan 25 jaar;Totaal herkomstgroepering;2007 3e kwartaal;2170;390
+635;Vrouwen;Jonger dan 25 jaar;Totaal herkomstgroepering;2007 4e kwartaal;2050;370
+636;Vrouwen;Jonger dan 25 jaar;Autochtoon;2005 1e kwartaal;2480;470
+637;Vrouwen;Jonger dan 25 jaar;Autochtoon;2005 2e kwartaal;1640;300
+638;Vrouwen;Jonger dan 25 jaar;Autochtoon;2005 3e kwartaal;2000;340
+639;Vrouwen;Jonger dan 25 jaar;Autochtoon;2005 4e kwartaal;1530;310
+640;Vrouwen;Jonger dan 25 jaar;Autochtoon;2006 1e kwartaal;1950;490
+641;Vrouwen;Jonger dan 25 jaar;Autochtoon;2006 2e kwartaal;1410;340
+642;Vrouwen;Jonger dan 25 jaar;Autochtoon;2006 3e kwartaal;1440;360
+643;Vrouwen;Jonger dan 25 jaar;Autochtoon;2006 4e kwartaal;1130;290
+644;Vrouwen;Jonger dan 25 jaar;Autochtoon;2007 1e kwartaal;1350;320
+645;Vrouwen;Jonger dan 25 jaar;Autochtoon;2007 2e kwartaal;980;210
+646;Vrouwen;Jonger dan 25 jaar;Autochtoon;2007 3e kwartaal;1150;220
+647;Vrouwen;Jonger dan 25 jaar;Autochtoon;2007 4e kwartaal;1010;210
+648;Vrouwen;Jonger dan 25 jaar;Westerse allochtoon;2005 1e kwartaal;390;80
+649;Vrouwen;Jonger dan 25 jaar;Westerse allochtoon;2005 2e kwartaal;270;50
+650;Vrouwen;Jonger dan 25 jaar;Westerse allochtoon;2005 3e kwartaal;270;60
+651;Vrouwen;Jonger dan 25 jaar;Westerse allochtoon;2005 4e kwartaal;250;50
+652;Vrouwen;Jonger dan 25 jaar;Westerse allochtoon;2006 1e kwartaal;300;80
+653;Vrouwen;Jonger dan 25 jaar;Westerse allochtoon;2006 2e kwartaal;250;70
+654;Vrouwen;Jonger dan 25 jaar;Westerse allochtoon;2006 3e kwartaal;240;60
+655;Vrouwen;Jonger dan 25 jaar;Westerse allochtoon;2006 4e kwartaal;190;50
+656;Vrouwen;Jonger dan 25 jaar;Westerse allochtoon;2007 1e kwartaal;210;60
+657;Vrouwen;Jonger dan 25 jaar;Westerse allochtoon;2007 2e kwartaal;190;50
+658;Vrouwen;Jonger dan 25 jaar;Westerse allochtoon;2007 3e kwartaal;210;40
+659;Vrouwen;Jonger dan 25 jaar;Westerse allochtoon;2007 4e kwartaal;220;40
+660;Vrouwen;Jonger dan 25 jaar;Niet-westerse allochtoon;2005 1e kwartaal;1620;340
+661;Vrouwen;Jonger dan 25 jaar;Niet-westerse allochtoon;2005 2e kwartaal;1230;260
+662;Vrouwen;Jonger dan 25 jaar;Niet-westerse allochtoon;2005 3e kwartaal;1270;270
+663;Vrouwen;Jonger dan 25 jaar;Niet-westerse allochtoon;2005 4e kwartaal;1150;240
+664;Vrouwen;Jonger dan 25 jaar;Niet-westerse allochtoon;2006 1e kwartaal;1270;310
+665;Vrouwen;Jonger dan 25 jaar;Niet-westerse allochtoon;2006 2e kwartaal;1040;250
+666;Vrouwen;Jonger dan 25 jaar;Niet-westerse allochtoon;2006 3e kwartaal;1080;230
+667;Vrouwen;Jonger dan 25 jaar;Niet-westerse allochtoon;2006 4e kwartaal;920;220
+668;Vrouwen;Jonger dan 25 jaar;Niet-westerse allochtoon;2007 1e kwartaal;960;220
+669;Vrouwen;Jonger dan 25 jaar;Niet-westerse allochtoon;2007 2e kwartaal;700;140
+670;Vrouwen;Jonger dan 25 jaar;Niet-westerse allochtoon;2007 3e kwartaal;810;140
+671;Vrouwen;Jonger dan 25 jaar;Niet-westerse allochtoon;2007 4e kwartaal;820;120
+672;Vrouwen;25 tot 35 jaar;Totaal herkomstgroepering;2005 1e kwartaal;4920;1370
+673;Vrouwen;25 tot 35 jaar;Totaal herkomstgroepering;2005 2e kwartaal;3770;920
+674;Vrouwen;25 tot 35 jaar;Totaal herkomstgroepering;2005 3e kwartaal;4080;1070
+675;Vrouwen;25 tot 35 jaar;Totaal herkomstgroepering;2005 4e kwartaal;3560;930
+676;Vrouwen;25 tot 35 jaar;Totaal herkomstgroepering;2006 1e kwartaal;4510;1490
+677;Vrouwen;25 tot 35 jaar;Totaal herkomstgroepering;2006 2e kwartaal;3680;1110
+678;Vrouwen;25 tot 35 jaar;Totaal herkomstgroepering;2006 3e kwartaal;3490;1060
+679;Vrouwen;25 tot 35 jaar;Totaal herkomstgroepering;2006 4e kwartaal;3080;1000
+680;Vrouwen;25 tot 35 jaar;Totaal herkomstgroepering;2007 1e kwartaal;3370;1070
+681;Vrouwen;25 tot 35 jaar;Totaal herkomstgroepering;2007 2e kwartaal;2530;760
+682;Vrouwen;25 tot 35 jaar;Totaal herkomstgroepering;2007 3e kwartaal;2820;840
+683;Vrouwen;25 tot 35 jaar;Totaal herkomstgroepering;2007 4e kwartaal;2970;860
+684;Vrouwen;25 tot 35 jaar;Autochtoon;2005 1e kwartaal;2250;590
+685;Vrouwen;25 tot 35 jaar;Autochtoon;2005 2e kwartaal;1740;420
+686;Vrouwen;25 tot 35 jaar;Autochtoon;2005 3e kwartaal;2000;470
+687;Vrouwen;25 tot 35 jaar;Autochtoon;2005 4e kwartaal;1620;390
+688;Vrouwen;25 tot 35 jaar;Autochtoon;2006 1e kwartaal;2110;680
+689;Vrouwen;25 tot 35 jaar;Autochtoon;2006 2e kwartaal;1680;480
+690;Vrouwen;25 tot 35 jaar;Autochtoon;2006 3e kwartaal;1510;420
+691;Vrouwen;25 tot 35 jaar;Autochtoon;2006 4e kwartaal;1380;460
+692;Vrouwen;25 tot 35 jaar;Autochtoon;2007 1e kwartaal;1480;460
+693;Vrouwen;25 tot 35 jaar;Autochtoon;2007 2e kwartaal;1130;320
+694;Vrouwen;25 tot 35 jaar;Autochtoon;2007 3e kwartaal;1180;330
+695;Vrouwen;25 tot 35 jaar;Autochtoon;2007 4e kwartaal;1110;350
+696;Vrouwen;25 tot 35 jaar;Westerse allochtoon;2005 1e kwartaal;550;150
+697;Vrouwen;25 tot 35 jaar;Westerse allochtoon;2005 2e kwartaal;400;80
+698;Vrouwen;25 tot 35 jaar;Westerse allochtoon;2005 3e kwartaal;420;120
+699;Vrouwen;25 tot 35 jaar;Westerse allochtoon;2005 4e kwartaal;360;100
+700;Vrouwen;25 tot 35 jaar;Westerse allochtoon;2006 1e kwartaal;480;170
+701;Vrouwen;25 tot 35 jaar;Westerse allochtoon;2006 2e kwartaal;400;130
+702;Vrouwen;25 tot 35 jaar;Westerse allochtoon;2006 3e kwartaal;370;110
+703;Vrouwen;25 tot 35 jaar;Westerse allochtoon;2006 4e kwartaal;340;100
+704;Vrouwen;25 tot 35 jaar;Westerse allochtoon;2007 1e kwartaal;370;110
+705;Vrouwen;25 tot 35 jaar;Westerse allochtoon;2007 2e kwartaal;280;70
+706;Vrouwen;25 tot 35 jaar;Westerse allochtoon;2007 3e kwartaal;320;90
+707;Vrouwen;25 tot 35 jaar;Westerse allochtoon;2007 4e kwartaal;430;80
+708;Vrouwen;25 tot 35 jaar;Niet-westerse allochtoon;2005 1e kwartaal;2120;630
+709;Vrouwen;25 tot 35 jaar;Niet-westerse allochtoon;2005 2e kwartaal;1640;430
+710;Vrouwen;25 tot 35 jaar;Niet-westerse allochtoon;2005 3e kwartaal;1670;480
+711;Vrouwen;25 tot 35 jaar;Niet-westerse allochtoon;2005 4e kwartaal;1580;440
+712;Vrouwen;25 tot 35 jaar;Niet-westerse allochtoon;2006 1e kwartaal;1920;650
+713;Vrouwen;25 tot 35 jaar;Niet-westerse allochtoon;2006 2e kwartaal;1610;510
+714;Vrouwen;25 tot 35 jaar;Niet-westerse allochtoon;2006 3e kwartaal;1620;540
+715;Vrouwen;25 tot 35 jaar;Niet-westerse allochtoon;2006 4e kwartaal;1360;440
+716;Vrouwen;25 tot 35 jaar;Niet-westerse allochtoon;2007 1e kwartaal;1520;500
+717;Vrouwen;25 tot 35 jaar;Niet-westerse allochtoon;2007 2e kwartaal;1120;370
+718;Vrouwen;25 tot 35 jaar;Niet-westerse allochtoon;2007 3e kwartaal;1310;420
+719;Vrouwen;25 tot 35 jaar;Niet-westerse allochtoon;2007 4e kwartaal;1430;430
+720;Vrouwen;35 tot 45 jaar;Totaal herkomstgroepering;2005 1e kwartaal;3710;1260
+721;Vrouwen;35 tot 45 jaar;Totaal herkomstgroepering;2005 2e kwartaal;2910;710
+722;Vrouwen;35 tot 45 jaar;Totaal herkomstgroepering;2005 3e kwartaal;3170;890
+723;Vrouwen;35 tot 45 jaar;Totaal herkomstgroepering;2005 4e kwartaal;2840;800
+724;Vrouwen;35 tot 45 jaar;Totaal herkomstgroepering;2006 1e kwartaal;4150;1570
+725;Vrouwen;35 tot 45 jaar;Totaal herkomstgroepering;2006 2e kwartaal;3440;1040
+726;Vrouwen;35 tot 45 jaar;Totaal herkomstgroepering;2006 3e kwartaal;3290;1050
+727;Vrouwen;35 tot 45 jaar;Totaal herkomstgroepering;2006 4e kwartaal;2980;920
+728;Vrouwen;35 tot 45 jaar;Totaal herkomstgroepering;2007 1e kwartaal;3210;1050
+729;Vrouwen;35 tot 45 jaar;Totaal herkomstgroepering;2007 2e kwartaal;2570;820
+730;Vrouwen;35 tot 45 jaar;Totaal herkomstgroepering;2007 3e kwartaal;2740;810
+731;Vrouwen;35 tot 45 jaar;Totaal herkomstgroepering;2007 4e kwartaal;2930;860
+732;Vrouwen;35 tot 45 jaar;Autochtoon;2005 1e kwartaal;1960;680
+733;Vrouwen;35 tot 45 jaar;Autochtoon;2005 2e kwartaal;1590;360
+734;Vrouwen;35 tot 45 jaar;Autochtoon;2005 3e kwartaal;1680;440
+735;Vrouwen;35 tot 45 jaar;Autochtoon;2005 4e kwartaal;1410;360
+736;Vrouwen;35 tot 45 jaar;Autochtoon;2006 1e kwartaal;2230;840
+737;Vrouwen;35 tot 45 jaar;Autochtoon;2006 2e kwartaal;1870;550
+738;Vrouwen;35 tot 45 jaar;Autochtoon;2006 3e kwartaal;1720;480
+739;Vrouwen;35 tot 45 jaar;Autochtoon;2006 4e kwartaal;1470;440
+740;Vrouwen;35 tot 45 jaar;Autochtoon;2007 1e kwartaal;1580;500
+741;Vrouwen;35 tot 45 jaar;Autochtoon;2007 2e kwartaal;1330;400
+742;Vrouwen;35 tot 45 jaar;Autochtoon;2007 3e kwartaal;1320;380
+743;Vrouwen;35 tot 45 jaar;Autochtoon;2007 4e kwartaal;1230;390
+744;Vrouwen;35 tot 45 jaar;Westerse allochtoon;2005 1e kwartaal;470;150
+745;Vrouwen;35 tot 45 jaar;Westerse allochtoon;2005 2e kwartaal;360;90
+746;Vrouwen;35 tot 45 jaar;Westerse allochtoon;2005 3e kwartaal;350;100
+747;Vrouwen;35 tot 45 jaar;Westerse allochtoon;2005 4e kwartaal;370;100
+748;Vrouwen;35 tot 45 jaar;Westerse allochtoon;2006 1e kwartaal;510;180
+749;Vrouwen;35 tot 45 jaar;Westerse allochtoon;2006 2e kwartaal;410;130
+750;Vrouwen;35 tot 45 jaar;Westerse allochtoon;2006 3e kwartaal;380;130
+751;Vrouwen;35 tot 45 jaar;Westerse allochtoon;2006 4e kwartaal;370;100
+752;Vrouwen;35 tot 45 jaar;Westerse allochtoon;2007 1e kwartaal;400;120
+753;Vrouwen;35 tot 45 jaar;Westerse allochtoon;2007 2e kwartaal;300;90
+754;Vrouwen;35 tot 45 jaar;Westerse allochtoon;2007 3e kwartaal;380;90
+755;Vrouwen;35 tot 45 jaar;Westerse allochtoon;2007 4e kwartaal;470;90
+756;Vrouwen;35 tot 45 jaar;Niet-westerse allochtoon;2005 1e kwartaal;1280;430
+757;Vrouwen;35 tot 45 jaar;Niet-westerse allochtoon;2005 2e kwartaal;950;260
+758;Vrouwen;35 tot 45 jaar;Niet-westerse allochtoon;2005 3e kwartaal;1150;360
+759;Vrouwen;35 tot 45 jaar;Niet-westerse allochtoon;2005 4e kwartaal;1060;340
+760;Vrouwen;35 tot 45 jaar;Niet-westerse allochtoon;2006 1e kwartaal;1410;550
+761;Vrouwen;35 tot 45 jaar;Niet-westerse allochtoon;2006 2e kwartaal;1170;360
+762;Vrouwen;35 tot 45 jaar;Niet-westerse allochtoon;2006 3e kwartaal;1200;440
+763;Vrouwen;35 tot 45 jaar;Niet-westerse allochtoon;2006 4e kwartaal;1130;380
+764;Vrouwen;35 tot 45 jaar;Niet-westerse allochtoon;2007 1e kwartaal;1230;440
+765;Vrouwen;35 tot 45 jaar;Niet-westerse allochtoon;2007 2e kwartaal;940;320
+766;Vrouwen;35 tot 45 jaar;Niet-westerse allochtoon;2007 3e kwartaal;1040;340
+767;Vrouwen;35 tot 45 jaar;Niet-westerse allochtoon;2007 4e kwartaal;1220;380
+768;Vrouwen;45 tot 55 jaar;Totaal herkomstgroepering;2005 1e kwartaal;2120;790
+769;Vrouwen;45 tot 55 jaar;Totaal herkomstgroepering;2005 2e kwartaal;1700;500
+770;Vrouwen;45 tot 55 jaar;Totaal herkomstgroepering;2005 3e kwartaal;1670;510
+771;Vrouwen;45 tot 55 jaar;Totaal herkomstgroepering;2005 4e kwartaal;1410;440
+772;Vrouwen;45 tot 55 jaar;Totaal herkomstgroepering;2006 1e kwartaal;2200;900
+773;Vrouwen;45 tot 55 jaar;Totaal herkomstgroepering;2006 2e kwartaal;1850;600
+774;Vrouwen;45 tot 55 jaar;Totaal herkomstgroepering;2006 3e kwartaal;1860;620
+775;Vrouwen;45 tot 55 jaar;Totaal herkomstgroepering;2006 4e kwartaal;1750;540
+776;Vrouwen;45 tot 55 jaar;Totaal herkomstgroepering;2007 1e kwartaal;1980;610
+777;Vrouwen;45 tot 55 jaar;Totaal herkomstgroepering;2007 2e kwartaal;1670;470
+778;Vrouwen;45 tot 55 jaar;Totaal herkomstgroepering;2007 3e kwartaal;1650;530
+779;Vrouwen;45 tot 55 jaar;Totaal herkomstgroepering;2007 4e kwartaal;1890;540
+780;Vrouwen;45 tot 55 jaar;Autochtoon;2005 1e kwartaal;1180;410
+781;Vrouwen;45 tot 55 jaar;Autochtoon;2005 2e kwartaal;970;260
+782;Vrouwen;45 tot 55 jaar;Autochtoon;2005 3e kwartaal;960;270
+783;Vrouwen;45 tot 55 jaar;Autochtoon;2005 4e kwartaal;790;210
+784;Vrouwen;45 tot 55 jaar;Autochtoon;2006 1e kwartaal;1240;480
+785;Vrouwen;45 tot 55 jaar;Autochtoon;2006 2e kwartaal;1010;300
+786;Vrouwen;45 tot 55 jaar;Autochtoon;2006 3e kwartaal;980;300
+787;Vrouwen;45 tot 55 jaar;Autochtoon;2006 4e kwartaal;990;290
+788;Vrouwen;45 tot 55 jaar;Autochtoon;2007 1e kwartaal;1110;310
+789;Vrouwen;45 tot 55 jaar;Autochtoon;2007 2e kwartaal;930;230
+790;Vrouwen;45 tot 55 jaar;Autochtoon;2007 3e kwartaal;850;250
+791;Vrouwen;45 tot 55 jaar;Autochtoon;2007 4e kwartaal;940;280
+792;Vrouwen;45 tot 55 jaar;Westerse allochtoon;2005 1e kwartaal;320;120
+793;Vrouwen;45 tot 55 jaar;Westerse allochtoon;2005 2e kwartaal;230;60
+794;Vrouwen;45 tot 55 jaar;Westerse allochtoon;2005 3e kwartaal;210;50
+795;Vrouwen;45 tot 55 jaar;Westerse allochtoon;2005 4e kwartaal;200;60
+796;Vrouwen;45 tot 55 jaar;Westerse allochtoon;2006 1e kwartaal;300;120
+797;Vrouwen;45 tot 55 jaar;Westerse allochtoon;2006 2e kwartaal;250;90
+798;Vrouwen;45 tot 55 jaar;Westerse allochtoon;2006 3e kwartaal;240;70
+799;Vrouwen;45 tot 55 jaar;Westerse allochtoon;2006 4e kwartaal;240;70
+800;Vrouwen;45 tot 55 jaar;Westerse allochtoon;2007 1e kwartaal;280;80
+801;Vrouwen;45 tot 55 jaar;Westerse allochtoon;2007 2e kwartaal;220;60
+802;Vrouwen;45 tot 55 jaar;Westerse allochtoon;2007 3e kwartaal;260;80
+803;Vrouwen;45 tot 55 jaar;Westerse allochtoon;2007 4e kwartaal;360;60
+804;Vrouwen;45 tot 55 jaar;Niet-westerse allochtoon;2005 1e kwartaal;630;250
+805;Vrouwen;45 tot 55 jaar;Niet-westerse allochtoon;2005 2e kwartaal;500;180
+806;Vrouwen;45 tot 55 jaar;Niet-westerse allochtoon;2005 3e kwartaal;500;200
+807;Vrouwen;45 tot 55 jaar;Niet-westerse allochtoon;2005 4e kwartaal;420;170
+808;Vrouwen;45 tot 55 jaar;Niet-westerse allochtoon;2006 1e kwartaal;660;300
+809;Vrouwen;45 tot 55 jaar;Niet-westerse allochtoon;2006 2e kwartaal;590;220
+810;Vrouwen;45 tot 55 jaar;Niet-westerse allochtoon;2006 3e kwartaal;640;260
+811;Vrouwen;45 tot 55 jaar;Niet-westerse allochtoon;2006 4e kwartaal;520;170
+812;Vrouwen;45 tot 55 jaar;Niet-westerse allochtoon;2007 1e kwartaal;590;220
+813;Vrouwen;45 tot 55 jaar;Niet-westerse allochtoon;2007 2e kwartaal;520;180
+814;Vrouwen;45 tot 55 jaar;Niet-westerse allochtoon;2007 3e kwartaal;550;210
+815;Vrouwen;45 tot 55 jaar;Niet-westerse allochtoon;2007 4e kwartaal;600;200
+816;Vrouwen;55 tot 65 jaar;Totaal herkomstgroepering;2005 1e kwartaal;1080;470
+817;Vrouwen;55 tot 65 jaar;Totaal herkomstgroepering;2005 2e kwartaal;770;270
+818;Vrouwen;55 tot 65 jaar;Totaal herkomstgroepering;2005 3e kwartaal;950;330
+819;Vrouwen;55 tot 65 jaar;Totaal herkomstgroepering;2005 4e kwartaal;760;290
+820;Vrouwen;55 tot 65 jaar;Totaal herkomstgroepering;2006 1e kwartaal;1170;530
+821;Vrouwen;55 tot 65 jaar;Totaal herkomstgroepering;2006 2e kwartaal;880;300
+822;Vrouwen;55 tot 65 jaar;Totaal herkomstgroepering;2006 3e kwartaal;990;370
+823;Vrouwen;55 tot 65 jaar;Totaal herkomstgroepering;2006 4e kwartaal;830;290
+824;Vrouwen;55 tot 65 jaar;Totaal herkomstgroepering;2007 1e kwartaal;910;260
+825;Vrouwen;55 tot 65 jaar;Totaal herkomstgroepering;2007 2e kwartaal;770;230
+826;Vrouwen;55 tot 65 jaar;Totaal herkomstgroepering;2007 3e kwartaal;900;240
+827;Vrouwen;55 tot 65 jaar;Totaal herkomstgroepering;2007 4e kwartaal;860;200
+828;Vrouwen;55 tot 65 jaar;Autochtoon;2005 1e kwartaal;610;270
+829;Vrouwen;55 tot 65 jaar;Autochtoon;2005 2e kwartaal;430;140
+830;Vrouwen;55 tot 65 jaar;Autochtoon;2005 3e kwartaal;500;140
+831;Vrouwen;55 tot 65 jaar;Autochtoon;2005 4e kwartaal;390;110
+832;Vrouwen;55 tot 65 jaar;Autochtoon;2006 1e kwartaal;630;290
+833;Vrouwen;55 tot 65 jaar;Autochtoon;2006 2e kwartaal;520;170
+834;Vrouwen;55 tot 65 jaar;Autochtoon;2006 3e kwartaal;490;140
+835;Vrouwen;55 tot 65 jaar;Autochtoon;2006 4e kwartaal;430;110
+836;Vrouwen;55 tot 65 jaar;Autochtoon;2007 1e kwartaal;460;130
+837;Vrouwen;55 tot 65 jaar;Autochtoon;2007 2e kwartaal;430;120
+838;Vrouwen;55 tot 65 jaar;Autochtoon;2007 3e kwartaal;430;110
+839;Vrouwen;55 tot 65 jaar;Autochtoon;2007 4e kwartaal;380;80
+840;Vrouwen;55 tot 65 jaar;Westerse allochtoon;2005 1e kwartaal;150;60
+841;Vrouwen;55 tot 65 jaar;Westerse allochtoon;2005 2e kwartaal;110;40
+842;Vrouwen;55 tot 65 jaar;Westerse allochtoon;2005 3e kwartaal;110;30
+843;Vrouwen;55 tot 65 jaar;Westerse allochtoon;2005 4e kwartaal;80;20
+844;Vrouwen;55 tot 65 jaar;Westerse allochtoon;2006 1e kwartaal;160;60
+845;Vrouwen;55 tot 65 jaar;Westerse allochtoon;2006 2e kwartaal;150;40
+846;Vrouwen;55 tot 65 jaar;Westerse allochtoon;2006 3e kwartaal;150;50
+847;Vrouwen;55 tot 65 jaar;Westerse allochtoon;2006 4e kwartaal;110;30
+848;Vrouwen;55 tot 65 jaar;Westerse allochtoon;2007 1e kwartaal;130;30
+849;Vrouwen;55 tot 65 jaar;Westerse allochtoon;2007 2e kwartaal;120;30
+850;Vrouwen;55 tot 65 jaar;Westerse allochtoon;2007 3e kwartaal;150;20
+851;Vrouwen;55 tot 65 jaar;Westerse allochtoon;2007 4e kwartaal;140;20
+852;Vrouwen;55 tot 65 jaar;Niet-westerse allochtoon;2005 1e kwartaal;310;140
+853;Vrouwen;55 tot 65 jaar;Niet-westerse allochtoon;2005 2e kwartaal;240;90
+854;Vrouwen;55 tot 65 jaar;Niet-westerse allochtoon;2005 3e kwartaal;350;160
+855;Vrouwen;55 tot 65 jaar;Niet-westerse allochtoon;2005 4e kwartaal;290;160
+856;Vrouwen;55 tot 65 jaar;Niet-westerse allochtoon;2006 1e kwartaal;380;190
+857;Vrouwen;55 tot 65 jaar;Niet-westerse allochtoon;2006 2e kwartaal;210;80
+858;Vrouwen;55 tot 65 jaar;Niet-westerse allochtoon;2006 3e kwartaal;340;180
+859;Vrouwen;55 tot 65 jaar;Niet-westerse allochtoon;2006 4e kwartaal;300;150
+860;Vrouwen;55 tot 65 jaar;Niet-westerse allochtoon;2007 1e kwartaal;320;100
+861;Vrouwen;55 tot 65 jaar;Niet-westerse allochtoon;2007 2e kwartaal;220;80
+862;Vrouwen;55 tot 65 jaar;Niet-westerse allochtoon;2007 3e kwartaal;330;100
+863;Vrouwen;55 tot 65 jaar;Niet-westerse allochtoon;2007 4e kwartaal;340;100

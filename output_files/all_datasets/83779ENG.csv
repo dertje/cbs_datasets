@@ -1,0 +1,937 @@
+﻿ID;Sex;PersonCharacteristics;Periods;MedianDevelopmentPurchasingPower_1;PersonsWithPurchasingPowerDecrease_2;PersonsWithPurchasingPowerIncrease_3;k_20thPercentile_4;k_40thPercentile_5;k_60thPercentile_6;k_80thPercentile_7
+0;Total male and female;Total persons;2012;-1.1;57.8;42.2;-9.4;-2.5;0.4;7.1
+1;Total male and female;Total persons;2013;-1.1;56.0;44.0;-9.6;-2.8;0.8;7.9
+2;Total male and female;Total persons;2014;1.9;37.6;62.4;-6.5;0.4;3.7;11.6
+3;Total male and female;Total persons;2015;1.3;40.4;59.6;-6.8;-0.1;3.3;11.4
+4;Total male and female;Total persons;2016;3.0;32.3;67.7;-4.6;1.2;5.4;13.9
+5;Total male and female;Total persons;2017;0.7;43.9;56.1;-6.4;-0.5;2.6;11.5
+6;Total male and female;Total persons;2018;0.6;45.6;54.4;-6.3;-0.5;2.7;11.6
+7;Total male and female;Total persons;2019;1.5;35.6;64.4;-5.4;0.5;3.6;12.3
+8;Total male and female;Total persons;2020;2.5;32.0;68.0;-5.6;1.2;4.8;13.4
+9;Total male and female;Total persons;2021;1.4;41.8;58.2;-5.8;-0.2;3.7;13.0
+10;Total male and female;Total persons;2022;-1.1;54.5;45.5;-8.4;-2.9;1.5;9.6
+11;Total male and female;Total persons;2023;0.3;47.9;52.1;-7.1;-1.2;2.1;9.3
+12;Total male and female;Age: 0 to 14 years;2012;-0.8;54.8;45.2;-9.1;-2.6;1.0;7.3
+13;Total male and female;Age: 0 to 14 years;2013;-0.1;50.3;49.7;-8.7;-1.8;1.8;8.3
+14;Total male and female;Age: 0 to 14 years;2014;2.6;36.0;64.0;-5.9;0.9;4.6;11.9
+15;Total male and female;Age: 0 to 14 years;2015;2.5;36.8;63.2;-6.3;0.7;4.5;12.0
+16;Total male and female;Age: 0 to 14 years;2016;4.9;28.1;71.9;-3.6;2.9;7.0;14.7
+17;Total male and female;Age: 0 to 14 years;2017;1.7;39.5;60.5;-6.0;0.1;3.7;11.9
+18;Total male and female;Age: 0 to 14 years;2018;1.8;39.6;60.4;-5.9;0.1;3.9;12.1
+19;Total male and female;Age: 0 to 14 years;2019;2.4;35.7;64.3;-5.4;0.8;4.5;12.6
+20;Total male and female;Age: 0 to 14 years;2020;4.2;30.5;69.5;-4.8;2.2;6.4;14.1
+21;Total male and female;Age: 0 to 14 years;2021;2.7;35.7;64.3;-5.4;0.8;4.8;13.1
+22;Total male and female;Age: 0 to 14 years;2022;0.0;49.8;50.2;-7.8;-2.0;2.3;10.1
+23;Total male and female;Age: 0 to 14 years;2023;1.2;43.5;56.5;-6.5;-0.7;3.2;9.4
+24;Total male and female;Age: 15 to 24 years;2012;-0.3;50.9;49.1;-13.9;-3.2;2.7;12.2
+25;Total male and female;Age: 15 to 24 years;2013;0.8;47.3;52.7;-13.3;-2.2;3.8;13.9
+26;Total male and female;Age: 15 to 24 years;2014;3.6;38.6;61.4;-10.7;0.5;6.8;17.9
+27;Total male and female;Age: 15 to 24 years;2015;3.8;37.8;62.2;-11.0;0.7;7.2;18.5
+28;Total male and female;Age: 15 to 24 years;2016;6.0;32.2;67.8;-7.4;2.8;9.5;21.6
+29;Total male and female;Age: 15 to 24 years;2017;3.8;37.5;62.5;-8.4;0.8;7.3;19.8
+30;Total male and female;Age: 15 to 24 years;2018;4.0;36.9;63.1;-8.2;1.0;7.5;19.4
+31;Total male and female;Age: 15 to 24 years;2019;4.9;33.9;66.1;-7.0;1.9;8.4;20.0
+32;Total male and female;Age: 15 to 24 years;2020;5.7;33.0;67.0;-7.6;2.5;9.1;20.3
+33;Total male and female;Age: 15 to 24 years;2021;4.7;35.0;65.0;-7.6;1.6;8.2;20.2
+34;Total male and female;Age: 15 to 24 years;2022;2.1;43.5;56.5;-10.1;-1.1;5.5;16.9
+35;Total male and female;Age: 15 to 24 years;2023;3.5;38.5;61.5;-8.4;0.5;6.7;17.1
+36;Total male and female;Age: 25 to 44 years;2012;-0.9;54.4;45.6;-11.3;-2.9;1.2;8.6
+37;Total male and female;Age: 25 to 44 years;2013;0.0;50.2;49.8;-10.9;-2.1;2.1;9.8
+38;Total male and female;Age: 25 to 44 years;2014;2.7;37.2;62.8;-7.9;0.7;4.9;13.6
+39;Total male and female;Age: 25 to 44 years;2015;2.3;38.9;61.1;-8.5;0.2;4.6;13.8
+40;Total male and female;Age: 25 to 44 years;2016;4.9;30.9;69.1;-5.8;2.5;7.3;17.0
+41;Total male and female;Age: 25 to 44 years;2017;1.5;41.4;58.6;-8.2;-0.3;4.0;14.1
+42;Total male and female;Age: 25 to 44 years;2018;1.8;41.1;58.9;-8.0;-0.2;4.3;14.4
+43;Total male and female;Age: 25 to 44 years;2019;2.5;37.1;62.9;-7.5;0.5;5.0;14.7
+44;Total male and female;Age: 25 to 44 years;2020;4.1;32.8;67.2;-7.0;1.9;6.6;16.0
+45;Total male and female;Age: 25 to 44 years;2021;2.7;37.3;62.7;-7.4;0.6;5.2;15.6
+46;Total male and female;Age: 25 to 44 years;2022;0.1;49.8;50.2;-10.0;-2.2;2.7;12.3
+47;Total male and female;Age: 25 to 44 years;2023;0.9;45.3;54.7;-9.0;-1.1;3.1;11.1
+48;Total male and female;Age: 45 to 64 years;2012;-1.4;58.6;41.4;-9.6;-3.0;0.3;7.2
+49;Total male and female;Age: 45 to 64 years;2013;-0.9;55.0;45.0;-9.7;-2.6;1.0;8.2
+50;Total male and female;Age: 45 to 64 years;2014;2.1;38.2;61.8;-6.8;0.4;4.0;12.1
+51;Total male and female;Age: 45 to 64 years;2015;1.5;40.0;60.0;-7.2;0.0;3.6;11.7
+52;Total male and female;Age: 45 to 64 years;2016;3.2;32.7;67.3;-5.1;1.3;5.4;13.9
+53;Total male and female;Age: 45 to 64 years;2017;0.6;45.2;54.8;-7.0;-0.7;2.6;11.6
+54;Total male and female;Age: 45 to 64 years;2018;0.5;46.2;53.8;-7.1;-0.7;2.6;11.3
+55;Total male and female;Age: 45 to 64 years;2019;1.6;37.9;62.1;-5.9;0.3;3.6;12.4
+56;Total male and female;Age: 45 to 64 years;2020;2.7;33.8;66.2;-6.3;1.3;4.9;13.3
+57;Total male and female;Age: 45 to 64 years;2021;1.5;40.7;59.3;-6.5;-0.1;3.7;13.1
+58;Total male and female;Age: 45 to 64 years;2022;-1.0;54.4;45.6;-9.2;-2.9;1.6;9.6
+59;Total male and female;Age: 45 to 64 years;2023;0.1;49.7;50.3;-7.7;-1.8;1.9;9.0
+60;Total male and female;Age: 65 years or older;2012;-1.2;70.1;29.9;-4.6;-1.7;-0.7;1.6
+61;Total male and female;Age: 65 years or older;2013;-2.8;78.1;21.9;-7.2;-3.8;-1.9;0.3
+62;Total male and female;Age: 65 years or older;2014;0.8;37.9;62.1;-3.1;0.2;1.4;3.7
+63;Total male and female;Age: 65 years or older;2015;0.1;47.9;52.1;-3.3;-0.5;0.7;2.8
+64;Total male and female;Age: 65 years or older;2016;0.8;37.5;62.5;-2.8;0.2;1.4;3.5
+65;Total male and female;Age: 65 years or older;2017;-0.1;53.1;46.9;-3.4;-0.7;0.3;2.7
+66;Total male and female;Age: 65 years or older;2018;-0.3;60.4;39.6;-3.0;-0.7;0.0;2.8
+67;Total male and female;Age: 65 years or older;2019;0.7;31.4;68.6;-1.8;0.4;1.1;4.0
+68;Total male and female;Age: 65 years or older;2020;1.2;28.7;71.3;-2.6;0.8;1.6;4.1
+69;Total male and female;Age: 65 years or older;2021;-0.3;57.4;42.6;-2.8;-0.6;0.1;4.4
+70;Total male and female;Age: 65 years or older;2022;-3.0;70.4;29.6;-5.8;-3.5;-2.3;3.2
+71;Total male and female;Age: 65 years or older;2023;-0.6;56.9;43.1;-4.7;-1.4;0.2;3.0
+72;Total male and female;Background: Netherlands;2012;-1.0;57.7;42.3;-8.9;-2.4;0.4;6.8
+73;Total male and female;Background: Netherlands;2013;-1.0;56.0;44.0;-9.1;-2.7;0.8;7.5
+74;Total male and female;Background: Netherlands;2014;1.8;37.5;62.5;-6.1;0.4;3.6;11.0
+75;Total male and female;Background: Netherlands;2015;1.2;40.5;59.5;-6.4;-0.1;3.2;10.8
+76;Total male and female;Background: Netherlands;2016;2.9;32.2;67.8;-4.3;1.2;5.3;13.3
+77;Total male and female;Background: Netherlands;2017;0.6;44.7;55.3;-6.2;-0.6;2.4;10.7
+78;Total male and female;Background: Netherlands;2018;0.5;46.1;53.9;-6.1;-0.5;2.5;10.7
+79;Total male and female;Background: Netherlands;2019;1.5;35.5;64.5;-5.1;0.4;3.4;11.5
+80;Total male and female;Background: Netherlands;2020;2.4;31.7;68.3;-5.2;1.2;4.6;12.6
+81;Total male and female;Background: Netherlands;2021;;;;;;;
+82;Total male and female;Background: Netherlands;2022;;;;;;;
+83;Total male and female;Background: Netherlands;2023;;;;;;;
+84;Total male and female;Background: western;2012;-1.2;58.0;42.0;-10.4;-2.6;0.4;8.1
+85;Total male and female;Background: western;2013;-1.3;57.1;42.9;-10.8;-3.1;0.7;8.7
+86;Total male and female;Background: western;2014;1.9;37.8;62.2;-7.2;0.4;3.8;13.0
+87;Total male and female;Background: western;2015;1.3;40.8;59.2;-7.7;-0.1;3.4;12.8
+88;Total male and female;Background: western;2016;2.7;33.5;66.5;-5.7;1.1;5.3;15.1
+89;Total male and female;Background: western;2017;0.7;44.1;55.9;-7.3;-0.5;2.7;13.0
+90;Total male and female;Background: western;2018;0.6;45.6;54.4;-6.9;-0.5;3.0;13.1
+91;Total male and female;Background: western;2019;1.5;36.3;63.7;-6.3;0.4;3.8;13.8
+92;Total male and female;Background: western;2020;2.3;33.5;66.5;-6.9;1.1;4.8;14.5
+93;Total male and female;Background: western;2021;;;;;;;
+94;Total male and female;Background: western;2022;;;;;;;
+95;Total male and female;Background: western;2023;;;;;;;
+96;Total male and female;Background: non-western;2012;-1.8;58.5;41.5;-13.0;-4.0;0.4;9.4
+97;Total male and female;Background: non-western;2013;-1.1;55.1;44.9;-12.6;-3.1;1.2;10.5
+98;Total male and female;Background: non-western;2014;2.2;38.5;61.5;-8.7;0.4;4.5;14.8
+99;Total male and female;Background: non-western;2015;2.0;39.4;60.6;-8.6;0.1;4.5;15.2
+100;Total male and female;Background: non-western;2016;3.7;32.4;67.6;-6.5;1.4;6.5;17.5
+101;Total male and female;Background: non-western;2017;1.6;38.7;61.3;-7.4;0.2;4.4;16.0
+102;Total male and female;Background: non-western;2018;1.5;42.1;57.9;-7.2;-0.2;4.6;16.3
+103;Total male and female;Background: non-western;2019;2.3;35.7;64.3;-6.6;0.5;5.3;16.7
+104;Total male and female;Background: non-western;2020;3.4;32.1;67.9;-6.6;1.5;6.4;17.8
+105;Total male and female;Background: non-western;2021;;;;;;;
+106;Total male and female;Background: non-western;2022;;;;;;;
+107;Total male and female;Background: non-western;2023;;;;;;;
+108;Total male and female;Pos. in hh.: main earner;2012;-1.1;59.9;40.1;-8.0;-2.2;0.0;6.0
+109;Total male and female;Pos. in hh.: main earner;2013;-1.4;59.0;41.0;-8.4;-2.8;0.2;6.6
+110;Total male and female;Pos. in hh.: main earner;2014;1.7;36.3;63.7;-5.2;0.5;3.0;10.1
+111;Total male and female;Pos. in hh.: main earner;2015;1.0;40.0;60.0;-5.4;0.0;2.4;9.7
+112;Total male and female;Pos. in hh.: main earner;2016;2.0;32.1;67.9;-3.7;1.0;4.1;11.7
+113;Total male and female;Pos. in hh.: main earner;2017;0.4;45.1;54.9;-5.4;-0.5;1.6;9.3
+114;Total male and female;Pos. in hh.: main earner;2018;0.1;48.4;51.6;-5.2;-0.5;1.6;9.4
+115;Total male and female;Pos. in hh.: main earner;2019;1.1;34.3;65.7;-4.2;0.4;2.6;10.1
+116;Total male and female;Pos. in hh.: main earner;2020;2.0;29.8;70.2;-4.1;1.2;3.6;11.2
+117;Total male and female;Pos. in hh.: main earner;2021;0.6;44.1;55.9;-4.5;-0.3;2.5;10.9
+118;Total male and female;Pos. in hh.: main earner;2022;-1.5;56.4;43.6;-7.1;-2.9;1.0;7.9
+119;Total male and female;Pos. in hh.: main earner;2023;0.1;49.6;50.4;-6.1;-1.3;1.4;7.6
+120;Total male and female;Pos. in hh.: main earner without partner;2012;-1.1;62.7;37.3;-7.1;-1.9;-0.3;5.1
+121;Total male and female;Pos. in hh.: main earner without partner;2013;-1.4;61.9;38.1;-7.8;-2.5;-0.2;5.4
+122;Total male and female;Pos. in hh.: main earner without partner;2014;1.6;34.0;66.0;-4.3;0.7;2.5;8.9
+123;Total male and female;Pos. in hh.: main earner without partner;2015;1.0;37.3;62.7;-4.3;0.2;1.8;8.5
+124;Total male and female;Pos. in hh.: main earner without partner;2016;1.7;30.9;69.1;-3.2;1.0;2.9;9.8
+125;Total male and female;Pos. in hh.: main earner without partner;2017;0.4;43.8;56.2;-4.5;-0.3;1.0;7.4
+126;Total male and female;Pos. in hh.: main earner without partner;2018;0.0;50.5;49.5;-4.2;-0.4;0.7;7.5
+127;Total male and female;Pos. in hh.: main earner without partner;2019;1.0;32.0;68.0;-3.1;0.5;1.7;8.2
+128;Total male and female;Pos. in hh.: main earner without partner;2020;1.8;26.6;73.4;-2.7;1.3;2.6;9.2
+129;Total male and female;Pos. in hh.: main earner without partner;2021;0.3;45.4;54.6;-3.2;-0.2;1.5;8.8
+130;Total male and female;Pos. in hh.: main earner without partner;2022;-1.0;54.0;46.0;-5.5;-2.5;1.9;7.4
+131;Total male and female;Pos. in hh.: main earner without partner;2023;0.2;48.6;51.4;-5.1;-1.0;1.3;6.9
+132;Total male and female;Pos. in hh.: main earner with partner;2012;-1.1;58.8;41.2;-8.0;-2.4;0.2;5.8
+133;Total male and female;Pos. in hh.: main earner with partner;2013;-1.3;57.9;42.1;-8.3;-3.0;0.4;6.3
+134;Total male and female;Pos. in hh.: main earner with partner;2014;1.7;37.5;62.5;-5.1;0.3;3.4;9.8
+135;Total male and female;Pos. in hh.: main earner with partner;2015;1.0;42.0;58.0;-5.5;-0.2;2.8;9.3
+136;Total male and female;Pos. in hh.: main earner with partner;2016;2.6;32.4;67.6;-3.5;1.1;4.8;11.8
+137;Total male and female;Pos. in hh.: main earner with partner;2017;0.4;46.4;53.6;-5.5;-0.7;2.0;9.2
+138;Total male and female;Pos. in hh.: main earner with partner;2018;0.3;47.3;52.7;-5.3;-0.6;2.2;9.4
+139;Total male and female;Pos. in hh.: main earner with partner;2019;1.4;35.6;64.4;-4.3;0.4;3.1;10.2
+140;Total male and female;Pos. in hh.: main earner with partner;2020;2.2;31.5;68.5;-4.3;1.0;4.3;11.5
+141;Total male and female;Pos. in hh.: main earner with partner;2021;1.0;43.6;56.4;-5.0;-0.3;3.0;10.7
+142;Total male and female;Pos. in hh.: main earner with partner;2022;-2.0;59.2;40.8;-7.8;-3.3;0.2;7.3
+143;Total male and female;Pos. in hh.: main earner with partner;2023;-0.1;50.8;49.2;-6.4;-1.5;1.3;7.2
+144;Total male and female;Pos. in hh.: partner of main earner;2012;-1.1;58.8;41.2;-8.0;-2.4;0.2;5.8
+145;Total male and female;Pos. in hh.: partner of main earner;2013;-1.3;57.9;42.1;-8.3;-3.0;0.4;6.3
+146;Total male and female;Pos. in hh.: partner of main earner;2014;1.7;37.5;62.5;-5.1;0.3;3.4;9.8
+147;Total male and female;Pos. in hh.: partner of main earner;2015;1.0;42.0;58.0;-5.5;-0.2;2.8;9.3
+148;Total male and female;Pos. in hh.: partner of main earner;2016;2.6;32.4;67.6;-3.5;1.1;4.8;11.8
+149;Total male and female;Pos. in hh.: partner of main earner;2017;0.4;46.4;53.6;-5.5;-0.7;2.0;9.2
+150;Total male and female;Pos. in hh.: partner of main earner;2018;0.3;47.3;52.7;-5.3;-0.6;2.2;9.4
+151;Total male and female;Pos. in hh.: partner of main earner;2019;1.4;35.6;64.4;-4.3;0.4;3.1;10.2
+152;Total male and female;Pos. in hh.: partner of main earner;2020;2.2;31.5;68.5;-4.3;1.0;4.3;11.4
+153;Total male and female;Pos. in hh.: partner of main earner;2021;1.0;43.6;56.4;-5.0;-0.3;3.0;10.6
+154;Total male and female;Pos. in hh.: partner of main earner;2022;-2.0;59.2;40.8;-7.8;-3.3;0.2;7.2
+155;Total male and female;Pos. in hh.: partner of main earner;2023;-0.1;50.8;49.2;-6.4;-1.5;1.3;7.1
+156;Total male and female;Pos. in hh.: child underage;2012;-0.7;53.6;46.4;-8.8;-2.5;1.2;7.7
+157;Total male and female;Pos. in hh.: child underage;2013;0.1;49.2;50.8;-8.4;-1.7;2.1;8.7
+158;Total male and female;Pos. in hh.: child underage;2014;2.9;35.3;64.7;-5.5;1.0;4.9;12.3
+159;Total male and female;Pos. in hh.: child underage;2015;2.8;35.9;64.1;-5.9;0.9;4.9;12.5
+160;Total male and female;Pos. in hh.: child underage;2016;5.1;27.6;72.4;-3.3;3.0;7.2;15.1
+161;Total male and female;Pos. in hh.: child underage;2017;1.9;38.4;61.6;-5.6;0.3;4.1;12.4
+162;Total male and female;Pos. in hh.: child underage;2018;2.1;38.4;61.6;-5.5;0.3;4.4;12.6
+163;Total male and female;Pos. in hh.: child underage;2019;2.8;34.3;65.7;-4.9;1.0;5.1;13.3
+164;Total male and female;Pos. in hh.: child underage;2020;4.5;29.7;70.3;-4.4;2.4;6.8;14.6
+165;Total male and female;Pos. in hh.: child underage;2021;3.0;34.6;65.4;-5.0;1.1;5.2;13.7
+166;Total male and female;Pos. in hh.: child underage;2022;0.4;48.2;51.8;-7.4;-1.7;2.7;10.8
+167;Total male and female;Pos. in hh.: child underage;2023;1.6;42.1;57.9;-6.2;-0.4;3.6;10.1
+168;Total male and female;Pos. in hh.: child of age;2012;0.0;50.1;49.9;-9.5;-2.3;2.5;10.3
+169;Total male and female;Pos. in hh.: child of age;2013;0.8;46.8;53.2;-8.9;-1.6;3.5;11.9
+170;Total male and female;Pos. in hh.: child of age;2014;3.8;35.2;64.8;-6.1;1.2;6.7;15.9
+171;Total male and female;Pos. in hh.: child of age;2015;3.9;35.2;64.8;-6.0;1.2;7.0;16.3
+172;Total male and female;Pos. in hh.: child of age;2016;6.1;28.9;71.1;-3.9;3.3;9.3;19.2
+173;Total male and female;Pos. in hh.: child of age;2017;3.8;35.9;64.1;-5.5;1.0;7.0;17.2
+174;Total male and female;Pos. in hh.: child of age;2018;3.9;35.4;64.6;-5.6;1.1;7.1;17.0
+175;Total male and female;Pos. in hh.: child of age;2019;4.7;31.9;68.1;-4.7;2.0;7.9;17.8
+176;Total male and female;Pos. in hh.: child of age;2020;5.4;30.7;69.3;-5.1;2.6;8.6;18.5
+177;Total male and female;Pos. in hh.: child of age;2021;4.7;32.8;67.2;-5.0;1.9;8.0;18.5
+178;Total male and female;Pos. in hh.: child of age;2022;1.6;44.5;55.5;-8.0;-1.3;4.9;14.8
+179;Total male and female;Pos. in hh.: child of age;2023;3.3;36.8;63.2;-6.0;0.8;6.2;15.1
+180;Total male and female;Pos. in hh.: other member;2012;-1.6;57.6;42.4;-12.0;-3.8;0.6;8.8
+181;Total male and female;Pos. in hh.: other member;2013;-1.1;55.4;44.6;-11.4;-3.4;1.1;9.7
+182;Total male and female;Pos. in hh.: other member;2014;1.9;40.8;59.2;-8.1;-0.2;4.2;13.8
+183;Total male and female;Pos. in hh.: other member;2015;1.5;42.5;57.5;-8.5;-0.5;4.1;14.1
+184;Total male and female;Pos. in hh.: other member;2016;3.5;35.3;64.7;-6.5;1.2;6.1;16.2
+185;Total male and female;Pos. in hh.: other member;2017;1.3;43.3;56.7;-7.6;-0.5;4.2;15.0
+186;Total male and female;Pos. in hh.: other member;2018;1.5;42.8;57.2;-7.6;-0.5;4.3;14.7
+187;Total male and female;Pos. in hh.: other member;2019;2.4;37.4;62.6;-6.6;0.5;5.1;15.3
+188;Total male and female;Pos. in hh.: other member;2020;3.2;35.1;64.9;-7.0;1.2;6.0;16.0
+189;Total male and female;Pos. in hh.: other member;2021;2.4;38.5;61.5;-6.9;0.3;5.3;15.8
+190;Total male and female;Pos. in hh.: other member;2022;-0.6;52.5;47.5;-9.8;-3.0;2.2;12.5
+191;Total male and female;Pos. in hh.: other member;2023;1.3;43.9;56.1;-7.8;-0.8;3.6;12.0
+192;Total male and female;SEC: employee;2012;-0.7;54.3;45.7;-8.5;-2.5;1.1;7.1
+193;Total male and female;SEC: employee;2013;0.3;48.0;52.0;-7.6;-1.4;2.2;8.7
+194;Total male and female;SEC: employee;2014;2.9;34.9;65.1;-5.4;1.1;4.7;11.5
+195;Total male and female;SEC: employee;2015;2.5;36.1;63.9;-5.4;0.7;4.5;11.8
+196;Total male and female;SEC: employee;2016;4.8;28.0;72.0;-3.2;2.9;6.9;14.5
+197;Total male and female;SEC: employee;2017;1.3;42.2;57.8;-6.0;-0.4;3.4;11.3
+198;Total male and female;SEC: employee;2018;1.6;40.9;59.1;-5.8;-0.1;3.8;11.7
+199;Total male and female;SEC: employee;2019;2.5;35.5;64.5;-5.1;0.8;4.6;12.5
+200;Total male and female;SEC: employee;2020;4.1;30.6;69.4;-4.4;2.2;6.2;13.8
+201;Total male and female;SEC: employee;2021;2.6;35.4;64.6;-5.1;0.9;4.8;13.1
+202;Total male and female;SEC: employee;2022;-0.6;53.2;46.8;-8.1;-2.5;1.6;9.6
+203;Total male and female;SEC: employee;2023;0.7;46.5;53.5;-6.7;-1.2;2.7;9.8
+204;Total male and female;SEC: self-employed (total);2012;-2.2;55.7;44.3;-19.9;-6.4;1.9;16.9
+205;Total male and female;SEC: self-employed (total);2013;-2.7;56.5;43.5;-19.9;-6.8;1.6;17.0
+206;Total male and female;SEC: self-employed (total);2014;3.4;41.9;58.1;-13.4;-0.8;8.4;27.9
+207;Total male and female;SEC: self-employed (total);2015;1.7;45.8;54.2;-17.1;-2.6;6.2;22.0
+208;Total male and female;SEC: self-employed (total);2016;4.7;38.6;61.4;-11.4;0.6;9.5;26.5
+209;Total male and female;SEC: self-employed (total);2017;2.4;44.2;55.8;-13.3;-1.6;7.2;24.0
+210;Total male and female;SEC: self-employed (total);2018;1.9;45.3;54.7;-14.2;-2.0;6.5;22.0
+211;Total male and female;SEC: self-employed (total);2019;2.2;44.4;55.6;-13.8;-1.7;6.7;22.9
+212;Total male and female;SEC: self-employed (total);2020;2.8;43.4;56.6;-16.2;-1.7;7.7;23.8
+213;Total male and female;SEC: self-employed (total);2021;2.2;44.5;55.5;-13.9;-1.8;7.0;23.6
+214;Total male and female;SEC: self-employed (total);2022;-1.3;53.1;46.9;-17.3;-5.2;3.3;19.1
+215;Total male and female;SEC: self-employed (total);2023;-1.6;55.9;44.1;-15.2;-4.8;1.2;11.1
+216;Total male and female;SEC: benefit recipient and pensioner;2012;-1.2;67.5;32.5;-5.7;-1.9;-0.7;2.7
+217;Total male and female;SEC: benefit recipient and pensioner;2013;-2.6;73.8;26.2;-7.9;-3.7;-1.6;1.4
+218;Total male and female;SEC: benefit recipient and pensioner;2014;0.9;38.0;62.0;-3.9;0.2;1.7;5.2
+219;Total male and female;SEC: benefit recipient and pensioner;2015;0.2;46.1;53.9;-4.1;-0.4;0.9;4.1
+220;Total male and female;SEC: benefit recipient and pensioner;2016;1.0;36.8;63.2;-3.3;0.3;1.5;4.8
+221;Total male and female;SEC: benefit recipient and pensioner;2017;0.0;50.6;49.4;-3.9;-0.6;0.5;3.7
+222;Total male and female;SEC: benefit recipient and pensioner;2018;-0.3;58.7;41.3;-3.5;-0.7;0.1;3.5
+223;Total male and female;SEC: benefit recipient and pensioner;2019;0.7;32.3;67.7;-2.2;0.3;1.1;4.5
+224;Total male and female;SEC: benefit recipient and pensioner;2020;1.3;28.5;71.5;-2.7;0.9;1.7;4.7
+225;Total male and female;SEC: benefit recipient and pensioner;2021;-0.2;55.9;44.1;-3.0;-0.6;0.2;4.8
+226;Total male and female;SEC: benefit recipient and pensioner;2022;-2.7;64.6;35.4;-5.5;-3.3;-1.4;4.6
+227;Total male and female;SEC: benefit recipient and pensioner;2023;-0.2;52.5;47.5;-4.3;-1.1;0.6;3.8
+228;Total male and female;SEC: benefit claimant;2012;-1.5;64.3;35.7;-9.5;-2.6;-0.7;5.3
+229;Total male and female;SEC: benefit claimant;2013;-1.7;64.2;35.8;-10.6;-2.8;-0.8;5.6
+230;Total male and female;SEC: benefit claimant;2014;1.5;38.1;61.9;-7.0;0.3;2.4;9.7
+231;Total male and female;SEC: benefit claimant;2015;0.7;41.9;58.1;-7.2;-0.2;1.7;8.7
+232;Total male and female;SEC: benefit claimant;2016;1.3;33.9;66.1;-5.6;0.8;2.5;9.6
+233;Total male and female;SEC: benefit claimant;2017;0.4;42.3;57.7;-5.9;-0.2;1.2;8.2
+234;Total male and female;SEC: benefit claimant;2018;-0.1;51.4;48.6;-5.8;-0.5;0.7;7.7
+235;Total male and female;SEC: benefit claimant;2019;0.7;35.4;64.6;-4.6;0.2;1.6;8.3
+236;Total male and female;SEC: benefit claimant;2020;1.7;29.4;70.6;-4.3;1.3;2.4;9.0
+237;Total male and female;SEC: benefit claimant;2021;0.1;47.9;52.1;-5.3;-0.3;1.2;8.6
+238;Total male and female;SEC: benefit claimant;2022;2.4;42.3;57.7;-6.0;-0.8;4.5;8.1
+239;Total male and female;SEC: benefit claimant;2023;1.4;36.2;63.8;-4.3;0.5;2.7;8.4
+240;Total male and female;SEC: claiming unemployment benefit;2012;-2.3;60.2;39.8;-14.5;-5.1;0.0;7.1
+241;Total male and female;SEC: claiming unemployment benefit;2013;-2.3;59.1;40.9;-15.1;-5.4;0.2;8.0
+242;Total male and female;SEC: claiming unemployment benefit;2014;-0.1;50.2;49.8;-13.1;-3.1;2.5;10.4
+243;Total male and female;SEC: claiming unemployment benefit;2015;0.2;49.3;50.7;-12.4;-2.6;2.4;10.5
+244;Total male and female;SEC: claiming unemployment benefit;2016;1.4;44.2;55.8;-11.1;-1.2;3.7;12.1
+245;Total male and female;SEC: claiming unemployment benefit;2017;0.1;49.5;50.5;-11.7;-2.2;2.4;11.3
+246;Total male and female;SEC: claiming unemployment benefit;2018;0.2;48.9;51.1;-11.6;-2.0;2.4;10.9
+247;Total male and female;SEC: claiming unemployment benefit;2019;0.7;46.8;53.2;-11.8;-1.8;3.0;11.6
+248;Total male and female;SEC: claiming unemployment benefit;2020;1.1;46.4;53.6;-13.7;-2.3;3.6;12.2
+249;Total male and female;SEC: claiming unemployment benefit;2021;0.7;47.6;52.4;-14.3;-2.6;4.0;14.3
+250;Total male and female;SEC: claiming unemployment benefit;2022;-1.9;55.8;44.2;-17.3;-5.6;1.3;10.6
+251;Total male and female;SEC: claiming unemployment benefit;2023;-0.9;52.4;47.6;-16.7;-4.7;2.7;10.9
+252;Total male and female;SEC: claiming social provision benefit;2012;-1.6;66.3;33.7;-8.3;-2.3;-0.9;5.1
+253;Total male and female;SEC: claiming social provision benefit;2013;-1.6;66.0;34.0;-9.6;-2.3;-1.0;5.3
+254;Total male and female;SEC: claiming social provision benefit;2014;2.0;30.7;69.3;-4.3;1.3;2.7;10.6
+255;Total male and female;SEC: claiming social provision benefit;2015;0.9;36.1;63.9;-5.2;0.3;1.6;8.4
+256;Total male and female;SEC: claiming social provision benefit;2016;1.3;30.4;69.6;-4.2;1.0;2.0;8.6
+257;Total male and female;SEC: claiming social provision benefit;2017;0.5;36.0;64.0;-3.7;0.2;1.1;7.5
+258;Total male and female;SEC: claiming social provision benefit;2018;-0.2;53.9;46.1;-4.3;-0.5;0.4;6.5
+259;Total male and female;SEC: claiming social provision benefit;2019;0.6;33.5;66.5;-2.9;0.2;1.1;7.0
+260;Total male and female;SEC: claiming social provision benefit;2020;1.7;24.6;75.4;-1.8;1.4;2.1;7.6
+261;Total male and female;SEC: claiming social provision benefit;2021;0.0;50.6;49.4;-2.9;-0.3;0.8;7.9
+262;Total male and female;SEC: claiming social provision benefit;2022;4.5;28.6;71.4;-3.1;2.9;5.3;8.5
+263;Total male and female;SEC: claiming social provision benefit;2023;1.4;32.8;67.2;-2.8;0.7;2.5;8.0
+264;Total male and female;SEC: claiming disability benefit;2012;-1.3;63.1;36.9;-8.7;-2.4;-0.4;4.9
+265;Total male and female;SEC: claiming disability benefit;2013;-1.7;63.4;36.6;-9.4;-2.9;-0.6;5.1
+266;Total male and female;SEC: claiming disability benefit;2014;1.0;41.2;58.8;-6.5;-0.1;2.1;8.4
+267;Total male and female;SEC: claiming disability benefit;2015;0.5;45.1;54.9;-6.6;-0.5;1.5;8.1
+268;Total male and female;SEC: claiming disability benefit;2016;1.4;33.9;66.1;-4.9;0.7;2.9;9.7
+269;Total male and female;SEC: claiming disability benefit;2017;0.2;47.7;52.3;-6.5;-0.6;1.1;8.0
+270;Total male and female;SEC: claiming disability benefit;2018;0.1;48.5;51.5;-6.3;-0.5;1.1;8.0
+271;Total male and female;SEC: claiming disability benefit;2019;1.0;35.3;64.7;-5.2;0.4;2.1;9.0
+272;Total male and female;SEC: claiming disability benefit;2020;1.8;31.8;68.2;-5.5;1.3;3.0;9.9
+273;Total male and female;SEC: claiming disability benefit;2021;0.3;44.4;55.6;-6.9;-0.3;1.5;8.7
+274;Total male and female;SEC: claiming disability benefit;2022;-1.6;56.7;43.3;-8.4;-2.7;1.0;7.0
+275;Total male and female;SEC: claiming disability benefit;2023;1.6;38.5;61.5;-5.4;0.2;2.9;8.5
+276;Total male and female;SEC: pensioner;2012;-1.2;68.9;31.1;-4.7;-1.7;-0.7;2.0
+277;Total male and female;SEC: pensioner;2013;-2.8;77.5;22.5;-7.3;-3.8;-1.9;0.5
+278;Total male and female;SEC: pensioner;2014;0.8;37.8;62.2;-3.0;0.2;1.4;3.9
+279;Total male and female;SEC: pensioner;2015;0.1;47.5;52.5;-3.2;-0.4;0.7;2.9
+280;Total male and female;SEC: pensioner;2016;0.8;37.5;62.5;-2.7;0.2;1.4;3.4
+281;Total male and female;SEC: pensioner;2017;-0.2;53.4;46.6;-3.2;-0.7;0.3;2.4
+282;Total male and female;SEC: pensioner;2018;-0.4;61.3;38.7;-2.7;-0.7;0.0;2.3
+283;Total male and female;SEC: pensioner;2019;0.7;30.8;69.2;-1.4;0.4;1.0;3.5
+284;Total male and female;SEC: pensioner;2020;1.2;27.7;72.3;-2.0;0.8;1.5;3.3
+285;Total male and female;SEC: pensioner;2021;-0.3;58.6;41.4;-2.4;-0.6;0.1;3.4
+286;Total male and female;SEC: pensioner;2022;-3.0;71.8;28.2;-5.3;-3.4;-2.4;2.7
+287;Total male and female;SEC: pensioner;2023;-0.6;57.6;42.4;-4.2;-1.4;0.2;2.5
+288;Total male and female;SEC: (school) child or student;2012;-0.9;54.3;45.7;-10.4;-2.9;1.2;8.2
+289;Total male and female;SEC: (school) child or student;2013;0.0;49.8;50.2;-9.9;-2.0;2.1;9.6
+290;Total male and female;SEC: (school) child or student;2014;2.7;37.5;62.5;-7.2;0.6;4.9;13.1
+291;Total male and female;SEC: (school) child or student;2015;2.7;37.7;62.3;-7.6;0.6;5.0;13.4
+292;Total male and female;SEC: (school) child or student;2016;4.9;30.1;69.9;-4.8;2.6;7.3;16.0
+293;Total male and female;SEC: (school) child or student;2017;1.9;39.6;60.4;-6.7;0.1;4.3;13.6
+294;Total male and female;SEC: (school) child or student;2018;2.1;39.4;60.6;-6.6;0.1;4.6;13.5
+295;Total male and female;SEC: (school) child or student;2019;2.8;35.6;64.4;-5.8;0.9;5.3;14.1
+296;Total male and female;SEC: (school) child or student;2020;4.4;31.7;68.3;-5.6;2.1;6.8;15.2
+297;Total male and female;SEC: (school) child or student;2021;2.9;36.0;64.0;-6.0;0.9;5.4;14.6
+298;Total male and female;SEC: (school) child or student;2022;0.4;48.4;51.6;-8.3;-1.9;2.9;11.5
+299;Total male and female;SEC: (school) child or student;2023;1.6;42.6;57.4;-7.0;-0.6;3.8;11.0
+300;Total male and female;SEC: other (without income);2012;-1.8;61.6;38.4;-9.6;-3.3;-0.3;6.3
+301;Total male and female;SEC: other (without income);2013;-1.4;58.0;42.0;-9.9;-3.2;0.4;6.9
+302;Total male and female;SEC: other (without income);2014;1.4;40.5;59.5;-6.7;-0.1;3.0;10.5
+303;Total male and female;SEC: other (without income);2015;1.0;42.6;57.4;-7.0;-0.4;2.8;10.3
+304;Total male and female;SEC: other (without income);2016;2.4;34.8;65.2;-5.3;0.9;4.4;12.0
+305;Total male and female;SEC: other (without income);2017;0.2;48.0;52.0;-7.1;-1.0;1.8;10.1
+306;Total male and female;SEC: other (without income);2018;0.2;48.0;52.0;-7.0;-0.8;2.1;10.5
+307;Total male and female;SEC: other (without income);2019;1.6;37.1;62.9;-5.8;0.4;3.2;11.7
+308;Total male and female;SEC: other (without income);2020;2.5;33.2;66.8;-6.2;1.2;4.4;12.3
+309;Total male and female;SEC: other (without income);2021;1.0;43.5;56.5;-6.9;-0.5;3.0;12.3
+310;Total male and female;SEC: other (without income);2022;-1.6;57.1;42.9;-9.6;-3.3;0.8;8.7
+311;Total male and female;SEC: other (without income);2023;-0.6;52.9;47.1;-9.3;-2.5;1.4;8.5
+312;Male;Total persons;2012;-1.1;57.3;42.7;-9.7;-2.6;0.5;7.4
+313;Male;Total persons;2013;-1.0;55.2;44.8;-9.7;-2.8;1.0;8.2
+314;Male;Total persons;2014;1.9;37.9;62.1;-6.7;0.4;3.9;11.9
+315;Male;Total persons;2015;1.4;40.6;59.4;-7.0;-0.1;3.5;11.7
+316;Male;Total persons;2016;3.2;32.3;67.7;-4.7;1.3;5.7;14.3
+317;Male;Total persons;2017;0.8;43.9;56.1;-6.6;-0.5;2.8;12.0
+318;Male;Total persons;2018;0.7;44.9;55.1;-6.4;-0.5;3.0;12.0
+319;Male;Total persons;2019;1.7;35.8;64.2;-5.6;0.5;3.8;12.7
+320;Male;Total persons;2020;2.6;32.4;67.6;-5.8;1.2;5.0;13.7
+321;Male;Total persons;2021;1.5;41.3;58.7;-6.0;-0.1;3.9;13.4
+322;Male;Total persons;2022;-1.1;54.5;45.5;-8.6;-2.9;1.5;9.9
+323;Male;Total persons;2023;0.3;48.0;52.0;-7.3;-1.3;2.2;9.5
+324;Male;Age: 0 to 14 years;2012;-0.9;54.8;45.2;-9.1;-2.6;1.0;7.3
+325;Male;Age: 0 to 14 years;2013;-0.1;50.3;49.7;-8.7;-1.8;1.8;8.3
+326;Male;Age: 0 to 14 years;2014;2.6;36.1;63.9;-5.9;0.9;4.6;11.8
+327;Male;Age: 0 to 14 years;2015;2.5;36.9;63.1;-6.3;0.7;4.5;12.0
+328;Male;Age: 0 to 14 years;2016;4.9;28.2;71.8;-3.6;2.8;7.0;14.7
+329;Male;Age: 0 to 14 years;2017;1.7;39.5;60.5;-5.9;0.1;3.7;11.9
+330;Male;Age: 0 to 14 years;2018;1.8;39.7;60.3;-5.9;0.1;3.9;12.1
+331;Male;Age: 0 to 14 years;2019;2.4;35.7;64.3;-5.4;0.7;4.5;12.6
+332;Male;Age: 0 to 14 years;2020;4.2;30.4;69.6;-4.7;2.2;6.4;14.1
+333;Male;Age: 0 to 14 years;2021;2.6;35.8;64.2;-5.4;0.8;4.8;13.1
+334;Male;Age: 0 to 14 years;2022;0.0;49.8;50.2;-7.8;-2.0;2.4;10.1
+335;Male;Age: 0 to 14 years;2023;1.2;43.5;56.5;-6.5;-0.7;3.2;9.4
+336;Male;Age: 15 to 24 years;2012;-0.2;50.9;49.1;-13.1;-3.1;2.6;11.7
+337;Male;Age: 15 to 24 years;2013;0.8;47.2;52.8;-12.6;-2.1;3.8;13.4
+338;Male;Age: 15 to 24 years;2014;3.6;38.1;61.9;-9.8;0.6;6.8;17.6
+339;Male;Age: 15 to 24 years;2015;3.9;37.3;62.7;-10.2;0.9;7.2;18.1
+340;Male;Age: 15 to 24 years;2016;6.1;31.6;68.4;-6.8;2.9;9.5;21.1
+341;Male;Age: 15 to 24 years;2017;3.9;37.1;62.9;-7.9;0.9;7.3;19.4
+342;Male;Age: 15 to 24 years;2018;4.1;36.4;63.6;-7.8;1.1;7.6;19.1
+343;Male;Age: 15 to 24 years;2019;5.0;33.6;66.4;-6.6;2.0;8.4;19.8
+344;Male;Age: 15 to 24 years;2020;5.7;32.8;67.2;-7.3;2.5;9.1;20.1
+345;Male;Age: 15 to 24 years;2021;4.8;34.7;65.3;-7.2;1.7;8.3;20.1
+346;Male;Age: 15 to 24 years;2022;2.1;43.2;56.8;-9.7;-1.0;5.6;16.9
+347;Male;Age: 15 to 24 years;2023;3.5;38.2;61.8;-8.0;0.6;6.8;17.0
+348;Male;Age: 25 to 44 years;2012;-0.9;54.4;45.6;-11.7;-2.9;1.2;8.8
+349;Male;Age: 25 to 44 years;2013;0.0;50.2;49.8;-11.3;-2.2;2.1;10.1
+350;Male;Age: 25 to 44 years;2014;2.7;37.5;62.5;-8.3;0.7;5.0;14.0
+351;Male;Age: 25 to 44 years;2015;2.2;39.4;60.6;-8.8;0.1;4.6;14.1
+352;Male;Age: 25 to 44 years;2016;4.9;31.2;68.8;-6.0;2.4;7.4;17.5
+353;Male;Age: 25 to 44 years;2017;1.6;41.6;58.4;-8.5;-0.3;4.1;14.5
+354;Male;Age: 25 to 44 years;2018;1.9;41.0;59.0;-8.2;-0.2;4.5;14.9
+355;Male;Age: 25 to 44 years;2019;2.6;37.1;62.9;-7.7;0.5;5.1;15.2
+356;Male;Age: 25 to 44 years;2020;4.1;33.2;66.8;-7.4;1.8;6.6;16.3
+357;Male;Age: 25 to 44 years;2021;2.7;37.4;62.6;-7.7;0.5;5.3;16.0
+358;Male;Age: 25 to 44 years;2022;0.0;50.0;50.0;-10.4;-2.3;2.7;12.6
+359;Male;Age: 25 to 44 years;2023;0.8;46.1;53.9;-9.4;-1.3;2.9;11.1
+360;Male;Age: 45 to 64 years;2012;-1.3;58.1;41.9;-9.6;-3.0;0.4;7.3
+361;Male;Age: 45 to 64 years;2013;-0.7;53.9;46.1;-9.6;-2.5;1.2;8.5
+362;Male;Age: 45 to 64 years;2014;2.1;38.2;61.8;-6.8;0.4;4.1;12.3
+363;Male;Age: 45 to 64 years;2015;1.6;39.8;60.2;-7.2;0.0;3.7;11.8
+364;Male;Age: 45 to 64 years;2016;3.5;32.0;68.0;-4.9;1.5;5.7;14.2
+365;Male;Age: 45 to 64 years;2017;0.7;44.7;55.3;-6.8;-0.7;2.8;11.8
+366;Male;Age: 45 to 64 years;2018;0.7;45.2;54.8;-6.8;-0.6;2.8;11.6
+367;Male;Age: 45 to 64 years;2019;1.7;37.4;62.6;-5.8;0.3;3.8;12.5
+368;Male;Age: 45 to 64 years;2020;2.9;33.4;66.6;-6.1;1.4;5.0;13.3
+369;Male;Age: 45 to 64 years;2021;1.7;39.7;60.3;-6.2;0.0;3.9;13.2
+370;Male;Age: 45 to 64 years;2022;-1.0;54.4;45.6;-9.0;-2.8;1.5;9.6
+371;Male;Age: 45 to 64 years;2023;0.0;50.0;50.0;-7.7;-1.8;1.8;8.8
+372;Male;Age: 65 years or older;2012;-1.2;68.7;31.3;-5.4;-1.8;-0.7;2.1
+373;Male;Age: 65 years or older;2013;-3.1;77.2;22.8;-7.8;-4.0;-2.1;0.6
+374;Male;Age: 65 years or older;2014;0.7;40.0;60.0;-3.7;0.0;1.3;4.2
+375;Male;Age: 65 years or older;2015;0.0;50.2;49.8;-4.0;-0.6;0.6;3.3
+376;Male;Age: 65 years or older;2016;0.8;39.1;60.9;-3.3;0.1;1.4;4.2
+377;Male;Age: 65 years or older;2017;-0.3;54.7;45.3;-4.0;-0.8;0.3;3.3
+378;Male;Age: 65 years or older;2018;-0.4;60.4;39.6;-3.7;-0.8;0.0;3.5
+379;Male;Age: 65 years or older;2019;0.7;33.4;66.6;-2.4;0.3;1.1;4.7
+380;Male;Age: 65 years or older;2020;1.1;31.4;68.6;-3.8;0.7;1.5;4.8
+381;Male;Age: 65 years or older;2021;-0.3;57.5;42.5;-3.7;-0.7;0.2;5.2
+382;Male;Age: 65 years or older;2022;-3.1;71.0;29.0;-6.6;-3.6;-2.4;3.0
+383;Male;Age: 65 years or older;2023;-0.6;56.9;43.1;-5.3;-1.5;0.3;3.4
+384;Male;Background: Netherlands;2012;-1.0;57.1;42.9;-9.1;-2.5;0.5;7.0
+385;Male;Background: Netherlands;2013;-0.9;55.1;44.9;-9.2;-2.7;1.0;7.9
+386;Male;Background: Netherlands;2014;1.9;37.8;62.2;-6.3;0.4;3.8;11.4
+387;Male;Background: Netherlands;2015;1.3;40.7;59.3;-6.7;-0.1;3.4;11.1
+388;Male;Background: Netherlands;2016;3.2;32.2;67.8;-4.4;1.3;5.5;13.8
+389;Male;Background: Netherlands;2017;0.7;44.6;55.4;-6.4;-0.6;2.6;11.2
+390;Male;Background: Netherlands;2018;0.6;45.4;54.6;-6.2;-0.5;2.8;11.2
+391;Male;Background: Netherlands;2019;1.6;35.8;64.2;-5.3;0.5;3.6;11.9
+392;Male;Background: Netherlands;2020;2.6;32.2;67.8;-5.5;1.2;4.9;12.9
+393;Male;Background: Netherlands;2021;;;;;;;
+394;Male;Background: Netherlands;2022;;;;;;;
+395;Male;Background: Netherlands;2023;;;;;;;
+396;Male;Background: western;2012;-1.2;57.5;42.5;-10.8;-2.7;0.5;8.4
+397;Male;Background: western;2013;-1.3;56.4;43.6;-11.0;-3.2;0.8;9.1
+398;Male;Background: western;2014;1.9;38.1;61.9;-7.5;0.3;4.0;13.4
+399;Male;Background: western;2015;1.3;41.3;58.7;-8.0;-0.2;3.5;13.1
+400;Male;Background: western;2016;2.9;33.7;66.3;-5.9;1.1;5.5;15.5
+401;Male;Background: western;2017;0.7;44.2;55.8;-7.5;-0.6;2.9;13.5
+402;Male;Background: western;2018;0.7;45.0;55.0;-7.1;-0.5;3.2;13.6
+403;Male;Background: western;2019;1.7;36.6;63.4;-6.6;0.4;4.0;14.2
+404;Male;Background: western;2020;2.4;34.0;66.0;-7.3;1.0;5.0;14.8
+405;Male;Background: western;2021;;;;;;;
+406;Male;Background: western;2022;;;;;;;
+407;Male;Background: western;2023;;;;;;;
+408;Male;Background: non-western;2012;-1.7;58.2;41.8;-13.4;-4.0;0.5;9.8
+409;Male;Background: non-western;2013;-1.1;54.9;45.1;-12.9;-3.1;1.3;10.9
+410;Male;Background: non-western;2014;2.2;38.8;61.2;-9.1;0.3;4.6;15.2
+411;Male;Background: non-western;2015;2.0;39.7;60.3;-8.9;0.1;4.6;15.6
+412;Male;Background: non-western;2016;3.8;32.5;67.5;-6.6;1.5;6.7;18.1
+413;Male;Background: non-western;2017;1.7;38.9;61.1;-7.6;0.1;4.6;16.6
+414;Male;Background: non-western;2018;1.6;41.8;58.2;-7.4;-0.2;4.8;17.0
+415;Male;Background: non-western;2019;2.4;35.8;64.2;-7.0;0.6;5.5;17.3
+416;Male;Background: non-western;2020;3.5;32.5;67.5;-7.0;1.5;6.6;18.4
+417;Male;Background: non-western;2021;;;;;;;
+418;Male;Background: non-western;2022;;;;;;;
+419;Male;Background: non-western;2023;;;;;;;
+420;Male;Pos. in hh.: main earner;2012;-1.1;59.0;41.0;-8.3;-2.3;0.2;6.3
+421;Male;Pos. in hh.: main earner;2013;-1.3;57.8;42.2;-8.6;-2.9;0.4;6.8
+422;Male;Pos. in hh.: main earner;2014;1.6;37.3;62.7;-5.4;0.4;3.3;10.3
+423;Male;Pos. in hh.: main earner;2015;1.0;41.4;58.6;-5.7;-0.2;2.6;9.8
+424;Male;Pos. in hh.: main earner;2016;2.4;32.4;67.6;-3.8;1.0;4.6;12.2
+425;Male;Pos. in hh.: main earner;2017;0.4;45.9;54.1;-5.6;-0.6;1.9;9.8
+426;Male;Pos. in hh.: main earner;2018;0.2;47.6;52.4;-5.3;-0.6;2.0;9.9
+427;Male;Pos. in hh.: main earner;2019;1.3;35.0;65.0;-4.4;0.4;2.9;10.7
+428;Male;Pos. in hh.: main earner;2020;2.1;31.0;69.0;-4.5;1.1;4.0;11.6
+429;Male;Pos. in hh.: main earner;2021;0.8;43.6;56.4;-4.9;-0.3;2.8;11.2
+430;Male;Pos. in hh.: main earner;2022;-1.7;57.6;42.4;-7.5;-3.1;0.6;8.0
+431;Male;Pos. in hh.: main earner;2023;-0.1;50.4;49.6;-6.5;-1.5;1.4;7.6
+432;Male;Pos. in hh.: main earner without partner;2012;-1.1;60.5;39.5;-8.4;-2.1;-0.1;6.5
+433;Male;Pos. in hh.: main earner without partner;2013;-1.2;57.9;42.1;-8.6;-2.4;0.4;7.1
+434;Male;Pos. in hh.: main earner without partner;2014;1.7;35.6;64.4;-5.4;0.6;2.9;10.4
+435;Male;Pos. in hh.: main earner without partner;2015;0.9;38.9;61.1;-5.4;0.1;2.1;9.7
+436;Male;Pos. in hh.: main earner without partner;2016;1.9;31.0;69.0;-3.7;1.1;3.9;11.6
+437;Male;Pos. in hh.: main earner without partner;2017;0.4;44.5;55.5;-5.2;-0.4;1.3;9.2
+438;Male;Pos. in hh.: main earner without partner;2018;0.1;48.5;51.5;-4.7;-0.4;1.2;9.2
+439;Male;Pos. in hh.: main earner without partner;2019;1.1;33.0;67.0;-3.7;0.5;2.2;9.7
+440;Male;Pos. in hh.: main earner without partner;2020;1.9;28.5;71.5;-3.7;1.3;3.1;10.2
+441;Male;Pos. in hh.: main earner without partner;2021;0.5;43.3;56.7;-3.8;-0.2;2.1;10.2
+442;Male;Pos. in hh.: main earner without partner;2022;-1.0;54.2;45.8;-6.1;-2.5;1.8;8.2
+443;Male;Pos. in hh.: main earner without partner;2023;0.0;49.8;50.2;-6.0;-1.3;1.2;7.0
+444;Male;Pos. in hh.: main earner with partner;2012;-1.2;59.1;40.9;-7.9;-2.4;0.1;5.6
+445;Male;Pos. in hh.: main earner with partner;2013;-1.4;58.5;41.5;-8.2;-3.0;0.3;6.1
+446;Male;Pos. in hh.: main earner with partner;2014;1.6;37.6;62.4;-5.0;0.3;3.3;9.5
+447;Male;Pos. in hh.: main earner with partner;2015;0.9;42.3;57.7;-5.4;-0.3;2.7;9.0
+448;Male;Pos. in hh.: main earner with partner;2016;2.5;32.6;67.4;-3.5;1.0;4.6;11.5
+449;Male;Pos. in hh.: main earner with partner;2017;0.4;46.6;53.4;-5.3;-0.7;1.9;9.0
+450;Male;Pos. in hh.: main earner with partner;2018;0.3;47.6;52.4;-5.2;-0.6;2.1;9.2
+451;Male;Pos. in hh.: main earner with partner;2019;1.3;35.4;64.6;-4.2;0.4;3.0;10.1
+452;Male;Pos. in hh.: main earner with partner;2020;2.1;31.5;68.5;-4.2;1.0;4.2;11.2
+453;Male;Pos. in hh.: main earner with partner;2021;0.9;44.1;55.9;-4.9;-0.4;2.9;10.4
+454;Male;Pos. in hh.: main earner with partner;2022;-2.1;59.8;40.2;-7.7;-3.3;0.1;7.1
+455;Male;Pos. in hh.: main earner with partner;2023;-0.1;51.1;48.9;-6.4;-1.5;1.3;7.0
+456;Male;Pos. in hh.: partner of main earner;2012;-1.1;56.6;43.4;-9.4;-2.7;0.6;7.2
+457;Male;Pos. in hh.: partner of main earner;2013;-0.7;53.7;46.3;-9.4;-2.7;1.3;8.1
+458;Male;Pos. in hh.: partner of main earner;2014;2.2;37.1;62.9;-6.2;0.6;4.3;11.8
+459;Male;Pos. in hh.: partner of main earner;2015;1.6;40.1;59.9;-6.5;0.0;3.7;11.4
+460;Male;Pos. in hh.: partner of main earner;2016;3.5;31.6;68.4;-4.2;1.5;5.8;13.8
+461;Male;Pos. in hh.: partner of main earner;2017;0.7;44.8;55.2;-6.3;-0.6;2.6;10.6
+462;Male;Pos. in hh.: partner of main earner;2018;0.7;45.3;54.7;-6.0;-0.6;2.7;10.6
+463;Male;Pos. in hh.: partner of main earner;2019;1.6;36.8;63.2;-5.2;0.4;3.6;11.2
+464;Male;Pos. in hh.: partner of main earner;2020;2.9;32.0;68.0;-5.0;1.3;5.2;12.8
+465;Male;Pos. in hh.: partner of main earner;2021;1.5;41.0;59.0;-5.6;-0.1;3.7;12.0
+466;Male;Pos. in hh.: partner of main earner;2022;-1.4;56.3;43.7;-8.4;-3.1;0.9;8.4
+467;Male;Pos. in hh.: partner of main earner;2023;0.0;49.8;50.2;-6.8;-1.5;1.7;7.8
+468;Male;Pos. in hh.: child underage;2012;-0.7;53.7;46.3;-8.8;-2.5;1.2;7.7
+469;Male;Pos. in hh.: child underage;2013;0.1;49.2;50.8;-8.4;-1.7;2.1;8.7
+470;Male;Pos. in hh.: child underage;2014;2.8;35.3;64.7;-5.5;1.0;4.9;12.3
+471;Male;Pos. in hh.: child underage;2015;2.7;36.0;64.0;-5.9;0.9;4.9;12.5
+472;Male;Pos. in hh.: child underage;2016;5.0;27.7;72.3;-3.3;3.0;7.2;15.1
+473;Male;Pos. in hh.: child underage;2017;1.9;38.4;61.6;-5.6;0.3;4.1;12.5
+474;Male;Pos. in hh.: child underage;2018;2.1;38.4;61.6;-5.6;0.3;4.4;12.7
+475;Male;Pos. in hh.: child underage;2019;2.8;34.3;65.7;-4.9;1.0;5.1;13.3
+476;Male;Pos. in hh.: child underage;2020;4.5;29.7;70.3;-4.4;2.4;6.8;14.7
+477;Male;Pos. in hh.: child underage;2021;3.0;34.7;65.3;-5.0;1.1;5.2;13.8
+478;Male;Pos. in hh.: child underage;2022;0.4;48.1;51.9;-7.4;-1.7;2.8;10.8
+479;Male;Pos. in hh.: child underage;2023;1.6;42.0;58.0;-6.2;-0.4;3.6;10.2
+480;Male;Pos. in hh.: child of age;2012;-0.2;50.8;49.2;-9.7;-2.4;2.3;10.1
+481;Male;Pos. in hh.: child of age;2013;0.6;47.6;52.4;-9.1;-1.8;3.3;11.7
+482;Male;Pos. in hh.: child of age;2014;3.6;35.5;64.5;-6.1;1.1;6.5;15.9
+483;Male;Pos. in hh.: child of age;2015;3.7;35.7;64.3;-6.1;1.1;6.8;16.3
+484;Male;Pos. in hh.: child of age;2016;5.9;29.3;70.7;-3.9;3.1;9.1;19.1
+485;Male;Pos. in hh.: child of age;2017;3.5;36.5;63.5;-5.6;0.8;6.8;17.1
+486;Male;Pos. in hh.: child of age;2018;3.7;36.1;63.9;-5.7;0.9;6.9;16.9
+487;Male;Pos. in hh.: child of age;2019;4.4;32.4;67.6;-4.9;1.8;7.6;17.6
+488;Male;Pos. in hh.: child of age;2020;5.0;31.3;68.7;-5.3;2.3;8.2;18.2
+489;Male;Pos. in hh.: child of age;2021;4.4;33.4;66.6;-5.2;1.7;7.7;18.3
+490;Male;Pos. in hh.: child of age;2022;1.3;45.6;54.4;-8.2;-1.5;4.5;14.7
+491;Male;Pos. in hh.: child of age;2023;3.0;37.9;62.1;-6.2;0.5;5.8;14.8
+492;Male;Pos. in hh.: other member;2012;-1.6;57.2;42.8;-12.3;-3.9;0.7;9.3
+493;Male;Pos. in hh.: other member;2013;-1.0;54.7;45.3;-11.6;-3.4;1.3;10.5
+494;Male;Pos. in hh.: other member;2014;2.0;40.7;59.3;-8.4;-0.2;4.4;14.6
+495;Male;Pos. in hh.: other member;2015;1.6;42.3;57.7;-8.7;-0.5;4.3;14.9
+496;Male;Pos. in hh.: other member;2016;3.7;34.7;65.3;-6.5;1.3;6.5;17.0
+497;Male;Pos. in hh.: other member;2017;1.5;42.7;57.3;-7.6;-0.5;4.5;15.8
+498;Male;Pos. in hh.: other member;2018;1.6;42.3;57.7;-7.6;-0.4;4.6;15.4
+499;Male;Pos. in hh.: other member;2019;2.5;37.3;62.7;-6.8;0.5;5.3;15.8
+500;Male;Pos. in hh.: other member;2020;3.3;35.2;64.8;-7.1;1.2;6.1;16.6
+501;Male;Pos. in hh.: other member;2021;2.5;38.5;61.5;-7.2;0.3;5.4;16.3
+502;Male;Pos. in hh.: other member;2022;-0.5;51.8;48.2;-9.9;-2.9;2.4;13.2
+503;Male;Pos. in hh.: other member;2023;1.2;44.2;55.8;-8.0;-0.9;3.6;12.2
+504;Male;SEC: employee;2012;-0.8;54.5;45.5;-8.2;-2.5;1.0;7.0
+505;Male;SEC: employee;2013;0.4;47.6;52.4;-7.2;-1.3;2.2;8.6
+506;Male;SEC: employee;2014;2.8;34.9;65.1;-5.2;1.0;4.6;11.1
+507;Male;SEC: employee;2015;2.4;36.1;63.9;-5.1;0.7;4.4;11.4
+508;Male;SEC: employee;2016;4.8;27.8;72.2;-3.1;2.9;6.8;14.1
+509;Male;SEC: employee;2017;1.3;42.1;57.9;-5.8;-0.3;3.4;11.0
+510;Male;SEC: employee;2018;1.6;40.3;59.7;-5.5;0.0;3.8;11.5
+511;Male;SEC: employee;2019;2.5;34.9;65.1;-4.7;0.9;4.6;12.2
+512;Male;SEC: employee;2020;4.1;30.1;69.9;-4.1;2.3;6.1;13.5
+513;Male;SEC: employee;2021;2.7;34.6;65.4;-4.8;1.0;4.8;12.9
+514;Male;SEC: employee;2022;-0.7;53.3;46.7;-7.8;-2.5;1.5;9.3
+515;Male;SEC: employee;2023;0.6;46.6;53.4;-6.5;-1.2;2.7;9.7
+516;Male;SEC: self-employed (total);2012;-2.3;55.6;44.4;-21.1;-6.9;2.1;18.0
+517;Male;SEC: self-employed (total);2013;-3.0;56.8;43.2;-20.9;-7.4;1.6;18.0
+518;Male;SEC: self-employed (total);2014;3.7;41.7;58.3;-13.9;-0.7;9.2;30.3
+519;Male;SEC: self-employed (total);2015;1.4;46.5;53.5;-18.5;-3.1;6.2;22.5
+520;Male;SEC: self-employed (total);2016;4.8;38.7;61.3;-11.8;0.5;9.9;27.8
+521;Male;SEC: self-employed (total);2017;2.5;44.1;55.9;-13.8;-1.6;7.6;25.1
+522;Male;SEC: self-employed (total);2018;2.0;45.3;54.7;-14.8;-2.1;6.8;23.0
+523;Male;SEC: self-employed (total);2019;2.2;44.7;55.3;-14.3;-1.8;6.9;24.1
+524;Male;SEC: self-employed (total);2020;2.7;43.8;56.2;-17.1;-2.0;7.7;24.2
+525;Male;SEC: self-employed (total);2021;2.2;44.7;55.3;-14.3;-1.9;7.0;24.0
+526;Male;SEC: self-employed (total);2022;-1.4;53.3;46.7;-17.6;-5.3;3.3;19.6
+527;Male;SEC: self-employed (total);2023;-1.8;56.6;43.4;-15.5;-5.0;1.0;10.9
+528;Male;SEC: benefit recipient and pensioner;2012;-1.2;66.2;33.8;-6.2;-1.9;-0.6;3.2
+529;Male;SEC: benefit recipient and pensioner;2013;-2.7;73.1;26.9;-8.3;-3.8;-1.7;1.8
+530;Male;SEC: benefit recipient and pensioner;2014;0.8;39.6;60.4;-4.4;0.0;1.6;5.6
+531;Male;SEC: benefit recipient and pensioner;2015;0.1;48.0;52.0;-4.6;-0.6;0.8;4.4
+532;Male;SEC: benefit recipient and pensioner;2016;0.9;37.7;62.3;-3.6;0.2;1.5;5.3
+533;Male;SEC: benefit recipient and pensioner;2017;-0.1;51.9;48.1;-4.2;-0.7;0.4;4.1
+534;Male;SEC: benefit recipient and pensioner;2018;-0.3;58.9;41.1;-3.9;-0.8;0.1;3.9
+535;Male;SEC: benefit recipient and pensioner;2019;0.7;33.1;66.9;-2.4;0.3;1.2;4.9
+536;Male;SEC: benefit recipient and pensioner;2020;1.2;29.8;70.2;-3.2;0.8;1.6;5.0
+537;Male;SEC: benefit recipient and pensioner;2021;-0.3;56.3;43.7;-3.5;-0.6;0.2;5.0
+538;Male;SEC: benefit recipient and pensioner;2022;-2.8;65.5;34.5;-5.9;-3.4;-1.5;4.8
+539;Male;SEC: benefit recipient and pensioner;2023;-0.2;52.2;47.8;-4.6;-1.1;0.7;4.0
+540;Male;SEC: benefit claimant;2012;-1.4;63.7;36.3;-9.2;-2.4;-0.6;5.6
+541;Male;SEC: benefit claimant;2013;-1.7;64.0;36.0;-10.4;-2.7;-0.7;5.8
+542;Male;SEC: benefit claimant;2014;1.4;38.7;61.3;-7.1;0.2;2.3;9.7
+543;Male;SEC: benefit claimant;2015;0.6;42.8;57.2;-7.3;-0.3;1.4;8.4
+544;Male;SEC: benefit claimant;2016;1.3;33.5;66.5;-5.4;0.9;2.4;9.7
+545;Male;SEC: benefit claimant;2017;0.3;42.7;57.3;-5.7;-0.2;1.0;8.0
+546;Male;SEC: benefit claimant;2018;-0.1;52.0;48.0;-5.6;-0.5;0.6;7.4
+547;Male;SEC: benefit claimant;2019;0.7;34.3;65.7;-4.1;0.3;1.5;8.2
+548;Male;SEC: benefit claimant;2020;1.7;28.0;72.0;-3.7;1.4;2.3;8.8
+549;Male;SEC: benefit claimant;2021;0.1;48.5;51.5;-4.9;-0.3;0.9;8.0
+550;Male;SEC: benefit claimant;2022;2.5;42.1;57.9;-5.5;-0.7;4.8;8.1
+551;Male;SEC: benefit claimant;2023;1.5;34.6;65.4;-4.0;0.6;2.6;8.0
+552;Male;SEC: claiming unemployment benefit;2012;-1.9;58.5;41.5;-14.4;-4.7;0.4;7.6
+553;Male;SEC: claiming unemployment benefit;2013;-2.0;57.9;42.1;-15.0;-5.1;0.6;8.5
+554;Male;SEC: claiming unemployment benefit;2014;0.0;50.0;50.0;-13.3;-3.0;2.6;10.5
+555;Male;SEC: claiming unemployment benefit;2015;0.2;48.9;51.1;-12.4;-2.5;2.5;10.7
+556;Male;SEC: claiming unemployment benefit;2016;1.7;42.8;57.2;-11.0;-0.8;4.1;12.8
+557;Male;SEC: claiming unemployment benefit;2017;0.4;48.3;51.7;-12.2;-1.9;2.7;12.0
+558;Male;SEC: claiming unemployment benefit;2018;0.5;47.2;52.8;-11.9;-1.7;2.8;12.0
+559;Male;SEC: claiming unemployment benefit;2019;1.1;45.5;54.5;-12.1;-1.6;3.6;12.6
+560;Male;SEC: claiming unemployment benefit;2020;1.2;46.3;53.7;-14.4;-2.4;3.9;12.9
+561;Male;SEC: claiming unemployment benefit;2021;1.1;46.7;53.3;-14.9;-2.4;4.5;15.3
+562;Male;SEC: claiming unemployment benefit;2022;-1.2;53.5;46.5;-17.6;-5.0;2.0;11.2
+563;Male;SEC: claiming unemployment benefit;2023;-0.1;50.4;49.6;-17.3;-4.4;3.5;12.0
+564;Male;SEC: claiming social provision benefit;2012;-1.4;66.2;33.8;-7.8;-2.1;-0.9;5.3
+565;Male;SEC: claiming social provision benefit;2013;-1.7;66.6;33.4;-9.1;-2.2;-1.1;5.3
+566;Male;SEC: claiming social provision benefit;2014;1.9;30.3;69.7;-4.0;1.2;2.6;10.7
+567;Male;SEC: claiming social provision benefit;2015;0.8;35.8;64.2;-4.9;0.3;1.5;8.3
+568;Male;SEC: claiming social provision benefit;2016;1.3;29.8;70.2;-3.7;1.0;1.9;8.5
+569;Male;SEC: claiming social provision benefit;2017;0.4;36.4;63.6;-3.3;0.1;0.9;7.0
+570;Male;SEC: claiming social provision benefit;2018;-0.2;55.3;44.7;-4.1;-0.5;0.2;6.0
+571;Male;SEC: claiming social provision benefit;2019;0.5;32.7;67.3;-2.3;0.2;1.0;6.5
+572;Male;SEC: claiming social provision benefit;2020;1.7;22.8;77.2;-1.1;1.5;2.0;7.1
+573;Male;SEC: claiming social provision benefit;2021;-0.1;52.2;47.8;-2.4;-0.3;0.4;7.0
+574;Male;SEC: claiming social provision benefit;2022;4.9;27.9;72.1;-2.9;3.3;5.6;8.4
+575;Male;SEC: claiming social provision benefit;2023;1.2;33.0;67.0;-2.9;0.7;2.0;6.9
+576;Male;SEC: claiming disability benefit;2012;-1.1;62.5;37.5;-8.1;-2.2;-0.3;5.1
+577;Male;SEC: claiming disability benefit;2013;-1.6;63.1;36.9;-8.8;-2.7;-0.5;5.2
+578;Male;SEC: claiming disability benefit;2014;0.9;41.6;58.4;-6.1;-0.2;1.9;8.2
+579;Male;SEC: claiming disability benefit;2015;0.3;46.8;53.2;-6.5;-0.7;1.2;7.4
+580;Male;SEC: claiming disability benefit;2016;1.4;33.4;66.6;-4.6;0.8;2.7;9.5
+581;Male;SEC: claiming disability benefit;2017;0.1;48.3;51.7;-6.2;-0.6;1.0;7.8
+582;Male;SEC: claiming disability benefit;2018;0.1;48.5;51.5;-6.0;-0.4;0.9;7.9
+583;Male;SEC: claiming disability benefit;2019;1.1;33.6;66.4;-4.6;0.5;2.1;9.0
+584;Male;SEC: claiming disability benefit;2020;1.8;30.4;69.6;-4.8;1.4;2.8;9.8
+585;Male;SEC: claiming disability benefit;2021;0.2;43.7;56.3;-6.4;-0.2;1.2;8.2
+586;Male;SEC: claiming disability benefit;2022;-1.6;57.1;42.9;-7.7;-2.6;0.9;6.9
+587;Male;SEC: claiming disability benefit;2023;2.0;34.8;65.2;-4.5;0.8;3.2;8.7
+588;Male;SEC: pensioner;2012;-1.2;67.5;32.5;-5.2;-1.8;-0.7;2.4
+589;Male;SEC: pensioner;2013;-3.1;76.8;23.2;-7.7;-4.0;-2.1;0.7
+590;Male;SEC: pensioner;2014;0.7;39.9;60.1;-3.5;0.0;1.4;4.3
+591;Male;SEC: pensioner;2015;0.0;49.8;50.2;-3.7;-0.6;0.6;3.2
+592;Male;SEC: pensioner;2016;0.8;38.8;61.2;-3.0;0.1;1.3;4.0
+593;Male;SEC: pensioner;2017;-0.3;55.1;44.9;-3.6;-0.8;0.3;2.9
+594;Male;SEC: pensioner;2018;-0.4;61.3;38.7;-3.1;-0.8;-0.1;2.8
+595;Male;SEC: pensioner;2019;0.7;32.2;67.8;-1.8;0.3;1.1;4.0
+596;Male;SEC: pensioner;2020;1.1;29.8;70.2;-2.7;0.7;1.5;3.8
+597;Male;SEC: pensioner;2021;-0.3;58.9;41.1;-2.9;-0.7;0.1;3.9
+598;Male;SEC: pensioner;2022;-3.1;72.7;27.3;-5.7;-3.5;-2.5;2.3
+599;Male;SEC: pensioner;2023;-0.6;57.4;42.6;-4.5;-1.4;0.2;2.8
+600;Male;SEC: (school) child or student;2012;-0.9;54.4;45.6;-10.2;-2.9;1.2;8.1
+601;Male;SEC: (school) child or student;2013;0.0;49.8;50.2;-9.7;-2.0;2.1;9.4
+602;Male;SEC: (school) child or student;2014;2.7;37.4;62.6;-7.1;0.6;4.9;13.0
+603;Male;SEC: (school) child or student;2015;2.7;37.6;62.4;-7.5;0.6;5.0;13.3
+604;Male;SEC: (school) child or student;2016;4.9;30.0;70.0;-4.7;2.6;7.2;15.9
+605;Male;SEC: (school) child or student;2017;1.9;39.5;60.5;-6.6;0.1;4.3;13.5
+606;Male;SEC: (school) child or student;2018;2.1;39.4;60.6;-6.5;0.1;4.5;13.5
+607;Male;SEC: (school) child or student;2019;2.8;35.7;64.3;-5.8;0.9;5.2;14.1
+608;Male;SEC: (school) child or student;2020;4.4;31.7;68.3;-5.5;2.1;6.8;15.2
+609;Male;SEC: (school) child or student;2021;2.9;36.0;64.0;-5.9;0.9;5.3;14.5
+610;Male;SEC: (school) child or student;2022;0.4;48.4;51.6;-8.3;-1.9;2.9;11.5
+611;Male;SEC: (school) child or student;2023;1.6;42.6;57.4;-7.0;-0.6;3.8;11.0
+612;Male;SEC: other (without income);2012;-1.6;59.4;40.6;-11.5;-3.4;0.1;9.0
+613;Male;SEC: other (without income);2013;-1.3;56.7;43.3;-12.4;-3.3;0.7;8.9
+614;Male;SEC: other (without income);2014;1.7;39.6;60.4;-8.3;0.1;3.7;12.9
+615;Male;SEC: other (without income);2015;0.8;44.5;55.5;-9.3;-0.7;2.6;11.8
+616;Male;SEC: other (without income);2016;2.2;36.6;63.4;-7.1;0.6;4.4;13.5
+617;Male;SEC: other (without income);2017;0.1;49.1;50.9;-8.7;-1.2;1.7;11.6
+618;Male;SEC: other (without income);2018;0.2;48.0;52.0;-7.7;-0.8;2.1;12.3
+619;Male;SEC: other (without income);2019;1.3;39.2;60.8;-6.5;0.1;3.2;13.6
+620;Male;SEC: other (without income);2020;2.4;32.9;67.1;-6.7;1.1;4.4;13.7
+621;Male;SEC: other (without income);2021;0.8;44.8;55.2;-7.3;-0.6;3.0;13.9
+622;Male;SEC: other (without income);2022;-0.5;51.9;48.1;-9.0;-2.7;2.2;11.3
+623;Male;SEC: other (without income);2023;-0.1;50.4;49.6;-9.6;-2.1;1.9;10.0
+624;Female;Total persons;2012;-1.1;58.3;41.7;-9.2;-2.4;0.3;6.8
+625;Female;Total persons;2013;-1.2;56.8;43.2;-9.4;-2.8;0.6;7.6
+626;Female;Total persons;2014;1.8;37.3;62.7;-6.3;0.4;3.5;11.2
+627;Female;Total persons;2015;1.3;40.1;59.9;-6.5;0.0;3.2;11.1
+628;Female;Total persons;2016;2.7;32.3;67.7;-4.5;1.2;5.1;13.4
+629;Female;Total persons;2017;0.6;44.0;56.0;-6.3;-0.5;2.4;11.1
+630;Female;Total persons;2018;0.4;46.1;53.9;-6.2;-0.5;2.5;11.1
+631;Female;Total persons;2019;1.4;35.4;64.6;-5.2;0.4;3.4;11.9
+632;Female;Total persons;2020;2.4;31.5;68.5;-5.3;1.2;4.7;13.0
+633;Female;Total persons;2021;1.2;42.3;57.7;-5.6;-0.2;3.5;12.6
+634;Female;Total persons;2022;-1.1;54.6;45.4;-8.2;-2.9;1.5;9.2
+635;Female;Total persons;2023;0.3;47.8;52.2;-6.9;-1.2;2.1;9.2
+636;Female;Age: 0 to 14 years;2012;-0.8;54.7;45.3;-9.1;-2.6;1.0;7.3
+637;Female;Age: 0 to 14 years;2013;-0.1;50.3;49.7;-8.7;-1.8;1.8;8.3
+638;Female;Age: 0 to 14 years;2014;2.7;36.0;64.0;-5.8;0.9;4.6;11.9
+639;Female;Age: 0 to 14 years;2015;2.5;36.8;63.2;-6.2;0.7;4.5;12.0
+640;Female;Age: 0 to 14 years;2016;4.9;28.0;72.0;-3.5;2.9;7.0;14.8
+641;Female;Age: 0 to 14 years;2017;1.7;39.5;60.5;-6.0;0.1;3.7;11.9
+642;Female;Age: 0 to 14 years;2018;1.8;39.6;60.4;-5.9;0.1;4.0;12.1
+643;Female;Age: 0 to 14 years;2019;2.5;35.6;64.4;-5.4;0.8;4.6;12.6
+644;Female;Age: 0 to 14 years;2020;4.2;30.5;69.5;-4.8;2.2;6.4;14.1
+645;Female;Age: 0 to 14 years;2021;2.7;35.6;64.4;-5.3;0.8;4.8;13.1
+646;Female;Age: 0 to 14 years;2022;0.0;49.8;50.2;-7.8;-2.0;2.3;10.1
+647;Female;Age: 0 to 14 years;2023;1.2;43.5;56.5;-6.5;-0.7;3.2;9.4
+648;Female;Age: 15 to 24 years;2012;-0.3;51.0;49.0;-14.8;-3.3;2.7;12.6
+649;Female;Age: 15 to 24 years;2013;0.8;47.4;52.6;-14.1;-2.3;3.9;14.5
+650;Female;Age: 15 to 24 years;2014;3.5;39.2;60.8;-11.7;0.3;6.8;18.4
+651;Female;Age: 15 to 24 years;2015;3.8;38.4;61.6;-12.0;0.6;7.1;19.0
+652;Female;Age: 15 to 24 years;2016;5.9;32.7;67.3;-8.1;2.7;9.5;22.2
+653;Female;Age: 15 to 24 years;2017;3.7;37.9;62.1;-8.9;0.7;7.3;20.2
+654;Female;Age: 15 to 24 years;2018;3.9;37.3;62.7;-8.7;0.8;7.4;19.7
+655;Female;Age: 15 to 24 years;2019;4.9;34.3;65.7;-7.3;1.8;8.3;20.3
+656;Female;Age: 15 to 24 years;2020;5.7;33.2;66.8;-7.9;2.5;9.1;20.5
+657;Female;Age: 15 to 24 years;2021;4.6;35.4;64.6;-8.0;1.5;8.2;20.4
+658;Female;Age: 15 to 24 years;2022;2.0;43.8;56.2;-10.5;-1.2;5.4;17.0
+659;Female;Age: 15 to 24 years;2023;3.4;38.9;61.1;-8.9;0.3;6.7;17.4
+660;Female;Age: 25 to 44 years;2012;-0.8;54.4;45.6;-10.9;-2.8;1.2;8.3
+661;Female;Age: 25 to 44 years;2013;-0.1;50.3;49.7;-10.5;-2.0;2.0;9.4
+662;Female;Age: 25 to 44 years;2014;2.7;37.0;63.0;-7.6;0.7;4.9;13.2
+663;Female;Age: 25 to 44 years;2015;2.4;38.4;61.6;-8.1;0.4;4.7;13.6
+664;Female;Age: 25 to 44 years;2016;4.8;30.6;69.4;-5.5;2.5;7.2;16.5
+665;Female;Age: 25 to 44 years;2017;1.5;41.2;58.8;-8.0;-0.2;3.9;13.6
+666;Female;Age: 25 to 44 years;2018;1.7;41.1;58.9;-7.8;-0.2;4.2;13.9
+667;Female;Age: 25 to 44 years;2019;2.5;37.1;62.9;-7.3;0.5;4.9;14.3
+668;Female;Age: 25 to 44 years;2020;4.2;32.4;67.6;-6.6;1.9;6.7;15.8
+669;Female;Age: 25 to 44 years;2021;2.6;37.2;62.8;-7.2;0.6;5.1;15.2
+670;Female;Age: 25 to 44 years;2022;0.1;49.5;50.5;-9.7;-2.1;2.7;11.9
+671;Female;Age: 25 to 44 years;2023;1.1;44.5;55.5;-8.5;-1.0;3.3;11.0
+672;Female;Age: 45 to 64 years;2012;-1.4;59.0;41.0;-9.5;-3.0;0.2;7.0
+673;Female;Age: 45 to 64 years;2013;-1.1;56.0;44.0;-9.8;-2.8;0.8;8.0
+674;Female;Age: 45 to 64 years;2014;2.0;38.3;61.7;-6.8;0.3;3.9;12.0
+675;Female;Age: 45 to 64 years;2015;1.5;40.2;59.8;-7.2;0.0;3.5;11.6
+676;Female;Age: 45 to 64 years;2016;3.0;33.5;66.5;-5.4;1.2;5.2;13.5
+677;Female;Age: 45 to 64 years;2017;0.5;45.7;54.3;-7.2;-0.8;2.5;11.4
+678;Female;Age: 45 to 64 years;2018;0.4;47.3;52.7;-7.3;-0.8;2.4;11.1
+679;Female;Age: 45 to 64 years;2019;1.5;38.4;61.6;-6.1;0.2;3.5;12.3
+680;Female;Age: 45 to 64 years;2020;2.6;34.3;65.7;-6.5;1.2;4.8;13.2
+681;Female;Age: 45 to 64 years;2021;1.4;41.8;58.2;-6.8;-0.2;3.6;13.0
+682;Female;Age: 45 to 64 years;2022;-1.1;54.3;45.7;-9.5;-2.9;1.6;9.6
+683;Female;Age: 45 to 64 years;2023;0.1;49.4;50.6;-7.8;-1.7;2.0;9.3
+684;Female;Age: 65 years or older;2012;-1.2;71.2;28.8;-4.1;-1.6;-0.8;1.3
+685;Female;Age: 65 years or older;2013;-2.7;79.0;21.0;-6.7;-3.6;-1.8;0.2
+686;Female;Age: 65 years or older;2014;0.9;36.1;63.9;-2.6;0.3;1.4;3.4
+687;Female;Age: 65 years or older;2015;0.2;45.9;54.1;-2.8;-0.3;0.7;2.4
+688;Female;Age: 65 years or older;2016;0.9;36.1;63.9;-2.4;0.3;1.4;3.1
+689;Female;Age: 65 years or older;2017;-0.1;51.6;48.4;-2.9;-0.6;0.4;2.2
+690;Female;Age: 65 years or older;2018;-0.3;60.4;39.6;-2.5;-0.6;0.0;2.2
+691;Female;Age: 65 years or older;2019;0.7;29.7;70.3;-1.2;0.4;1.0;3.4
+692;Female;Age: 65 years or older;2020;1.2;26.4;73.6;-1.7;0.9;1.6;3.6
+693;Female;Age: 65 years or older;2021;-0.2;57.3;42.7;-2.2;-0.5;0.1;3.8
+694;Female;Age: 65 years or older;2022;-2.9;69.8;30.2;-5.2;-3.4;-2.2;3.3
+695;Female;Age: 65 years or older;2023;-0.5;57.0;43.0;-4.3;-1.3;0.2;2.6
+696;Female;Background: Netherlands;2012;-1.1;58.3;41.7;-8.6;-2.3;0.3;6.5
+697;Female;Background: Netherlands;2013;-1.1;56.9;43.1;-8.9;-2.7;0.6;7.2
+698;Female;Background: Netherlands;2014;1.8;37.2;62.8;-5.9;0.4;3.4;10.7
+699;Female;Background: Netherlands;2015;1.2;40.2;59.8;-6.2;0.0;3.0;10.5
+700;Female;Background: Netherlands;2016;2.6;32.2;67.8;-4.2;1.2;5.0;12.8
+701;Female;Background: Netherlands;2017;0.5;44.8;55.2;-6.1;-0.5;2.1;10.3
+702;Female;Background: Netherlands;2018;0.3;46.8;53.2;-6.0;-0.5;2.2;10.3
+703;Female;Background: Netherlands;2019;1.3;35.3;64.7;-5.0;0.4;3.1;11.1
+704;Female;Background: Netherlands;2020;2.3;31.3;68.7;-5.0;1.2;4.4;12.3
+705;Female;Background: Netherlands;2021;;;;;;;
+706;Female;Background: Netherlands;2022;;;;;;;
+707;Female;Background: Netherlands;2023;;;;;;;
+708;Female;Background: western;2012;-1.2;58.5;41.5;-10.0;-2.5;0.3;7.8
+709;Female;Background: western;2013;-1.4;57.7;42.3;-10.5;-3.1;0.5;8.4
+710;Female;Background: western;2014;1.8;37.5;62.5;-7.0;0.4;3.7;12.7
+711;Female;Background: western;2015;1.2;40.3;59.7;-7.4;0.0;3.3;12.5
+712;Female;Background: western;2016;2.5;33.4;66.6;-5.5;1.1;5.0;14.7
+713;Female;Background: western;2017;0.6;44.0;56.0;-7.1;-0.5;2.5;12.5
+714;Female;Background: western;2018;0.5;46.1;53.9;-6.8;-0.5;2.7;12.7
+715;Female;Background: western;2019;1.4;36.0;64.0;-6.0;0.4;3.6;13.5
+716;Female;Background: western;2020;2.2;33.0;67.0;-6.6;1.1;4.6;14.2
+717;Female;Background: western;2021;;;;;;;
+718;Female;Background: western;2022;;;;;;;
+719;Female;Background: western;2023;;;;;;;
+720;Female;Background: non-western;2012;-1.8;58.8;41.2;-12.6;-3.9;0.3;9.0
+721;Female;Background: non-western;2013;-1.1;55.4;44.6;-12.2;-3.0;1.1;10.2
+722;Female;Background: non-western;2014;2.2;38.2;61.8;-8.4;0.5;4.4;14.4
+723;Female;Background: non-western;2015;2.1;39.0;61.0;-8.3;0.2;4.5;14.8
+724;Female;Background: non-western;2016;3.5;32.3;67.7;-6.3;1.4;6.3;16.9
+725;Female;Background: non-western;2017;1.6;38.4;61.6;-7.1;0.2;4.2;15.4
+726;Female;Background: non-western;2018;1.4;42.3;57.7;-6.9;-0.2;4.3;15.7
+727;Female;Background: non-western;2019;2.3;35.6;64.4;-6.3;0.5;5.1;16.1
+728;Female;Background: non-western;2020;3.3;31.8;68.2;-6.2;1.5;6.3;17.3
+729;Female;Background: non-western;2021;;;;;;;
+730;Female;Background: non-western;2022;;;;;;;
+731;Female;Background: non-western;2023;;;;;;;
+732;Female;Pos. in hh.: main earner;2012;-1.1;61.8;38.2;-7.3;-2.0;-0.2;5.5
+733;Female;Pos. in hh.: main earner;2013;-1.4;61.4;38.6;-8.2;-2.5;-0.2;5.9
+734;Female;Pos. in hh.: main earner;2014;1.7;34.2;65.8;-4.6;0.7;2.7;9.6
+735;Female;Pos. in hh.: main earner;2015;1.1;37.2;62.8;-4.7;0.3;2.1;9.4
+736;Female;Pos. in hh.: main earner;2016;1.7;31.5;68.5;-3.6;1.0;3.2;10.6
+737;Female;Pos. in hh.: main earner;2017;0.4;43.7;56.3;-5.1;-0.3;1.1;8.2
+738;Female;Pos. in hh.: main earner;2018;0.0;50.0;50.0;-4.8;-0.5;0.9;8.3
+739;Female;Pos. in hh.: main earner;2019;1.0;33.1;66.9;-3.7;0.4;1.9;9.0
+740;Female;Pos. in hh.: main earner;2020;1.9;27.5;72.5;-3.2;1.3;3.0;10.4
+741;Female;Pos. in hh.: main earner;2021;0.3;44.9;55.1;-3.8;-0.2;1.9;10.2
+742;Female;Pos. in hh.: main earner;2022;-1.1;54.2;45.8;-6.2;-2.6;1.8;7.6
+743;Female;Pos. in hh.: main earner;2023;0.2;48.0;52.0;-5.3;-1.0;1.5;7.7
+744;Female;Pos. in hh.: main earner without partner;2012;-1.1;64.2;35.8;-6.2;-1.9;-0.5;4.2
+745;Female;Pos. in hh.: main earner without partner;2013;-1.5;64.6;35.4;-7.3;-2.5;-0.5;4.3
+746;Female;Pos. in hh.: main earner without partner;2014;1.6;32.8;67.2;-3.6;0.8;2.3;7.8
+747;Female;Pos. in hh.: main earner without partner;2015;1.0;36.1;63.9;-3.6;0.3;1.6;7.6
+748;Female;Pos. in hh.: main earner without partner;2016;1.5;30.7;69.3;-2.9;1.0;2.3;8.5
+749;Female;Pos. in hh.: main earner without partner;2017;0.4;43.2;56.8;-4.1;-0.2;0.9;6.2
+750;Female;Pos. in hh.: main earner without partner;2018;-0.1;51.9;48.1;-3.9;-0.4;0.4;6.3
+751;Female;Pos. in hh.: main earner without partner;2019;0.9;31.3;68.7;-2.7;0.5;1.5;7.1
+752;Female;Pos. in hh.: main earner without partner;2020;1.7;25.3;74.7;-2.0;1.3;2.4;8.5
+753;Female;Pos. in hh.: main earner without partner;2021;0.1;47.0;53.0;-2.9;-0.3;1.1;7.8
+754;Female;Pos. in hh.: main earner without partner;2022;-1.0;53.8;46.2;-5.0;-2.5;2.0;6.7
+755;Female;Pos. in hh.: main earner without partner;2023;0.2;47.6;52.4;-4.5;-0.8;1.3;6.9
+756;Female;Pos. in hh.: main earner with partner;2012;-1.1;56.6;43.4;-9.2;-2.6;0.6;7.1
+757;Female;Pos. in hh.: main earner with partner;2013;-0.7;53.8;46.2;-9.3;-2.7;1.2;8.0
+758;Female;Pos. in hh.: main earner with partner;2014;2.2;37.0;63.0;-6.2;0.6;4.2;11.7
+759;Female;Pos. in hh.: main earner with partner;2015;1.6;40.1;59.9;-6.5;0.0;3.6;11.3
+760;Female;Pos. in hh.: main earner with partner;2016;3.5;31.5;68.5;-4.2;1.5;5.8;13.8
+761;Female;Pos. in hh.: main earner with partner;2017;0.7;44.9;55.1;-6.3;-0.6;2.6;10.6
+762;Female;Pos. in hh.: main earner with partner;2018;0.7;45.5;54.5;-6.0;-0.6;2.7;10.6
+763;Female;Pos. in hh.: main earner with partner;2019;1.6;36.8;63.2;-5.2;0.4;3.5;11.2
+764;Female;Pos. in hh.: main earner with partner;2020;2.9;31.8;68.2;-4.9;1.3;5.2;12.8
+765;Female;Pos. in hh.: main earner with partner;2021;1.5;41.0;59.0;-5.5;-0.1;3.7;11.9
+766;Female;Pos. in hh.: main earner with partner;2022;-1.4;56.4;43.6;-8.3;-3.1;0.9;8.4
+767;Female;Pos. in hh.: main earner with partner;2023;0.1;49.6;50.4;-6.8;-1.4;1.7;7.8
+768;Female;Pos. in hh.: partner of main earner;2012;-1.2;59.1;40.9;-7.9;-2.4;0.1;5.6
+769;Female;Pos. in hh.: partner of main earner;2013;-1.4;58.5;41.5;-8.2;-3.0;0.3;6.0
+770;Female;Pos. in hh.: partner of main earner;2014;1.6;37.6;62.4;-5.0;0.3;3.2;9.5
+771;Female;Pos. in hh.: partner of main earner;2015;0.9;42.3;57.7;-5.3;-0.3;2.6;9.0
+772;Female;Pos. in hh.: partner of main earner;2016;2.5;32.6;67.4;-3.5;1.0;4.6;11.5
+773;Female;Pos. in hh.: partner of main earner;2017;0.3;46.6;53.4;-5.3;-0.7;1.9;9.0
+774;Female;Pos. in hh.: partner of main earner;2018;0.3;47.6;52.4;-5.2;-0.6;2.1;9.2
+775;Female;Pos. in hh.: partner of main earner;2019;1.3;35.4;64.6;-4.2;0.4;3.0;10.0
+776;Female;Pos. in hh.: partner of main earner;2020;2.1;31.5;68.5;-4.2;1.0;4.2;11.2
+777;Female;Pos. in hh.: partner of main earner;2021;0.9;44.1;55.9;-4.9;-0.4;2.9;10.4
+778;Female;Pos. in hh.: partner of main earner;2022;-2.1;59.8;40.2;-7.7;-3.3;0.0;7.0
+779;Female;Pos. in hh.: partner of main earner;2023;-0.1;51.0;49.0;-6.4;-1.5;1.3;7.0
+780;Female;Pos. in hh.: child underage;2012;-0.7;53.6;46.4;-8.8;-2.5;1.3;7.6
+781;Female;Pos. in hh.: child underage;2013;0.2;49.1;50.9;-8.3;-1.7;2.1;8.7
+782;Female;Pos. in hh.: child underage;2014;2.9;35.2;64.8;-5.5;1.0;4.9;12.4
+783;Female;Pos. in hh.: child underage;2015;2.8;35.9;64.1;-5.9;0.9;4.9;12.4
+784;Female;Pos. in hh.: child underage;2016;5.1;27.6;72.4;-3.2;3.0;7.2;15.1
+785;Female;Pos. in hh.: child underage;2017;1.9;38.5;61.5;-5.6;0.3;4.1;12.4
+786;Female;Pos. in hh.: child underage;2018;2.1;38.4;61.6;-5.5;0.3;4.4;12.6
+787;Female;Pos. in hh.: child underage;2019;2.8;34.3;65.7;-4.9;1.0;5.1;13.2
+788;Female;Pos. in hh.: child underage;2020;4.5;29.8;70.2;-4.4;2.4;6.8;14.6
+789;Female;Pos. in hh.: child underage;2021;3.0;34.6;65.4;-5.0;1.1;5.2;13.7
+790;Female;Pos. in hh.: child underage;2022;0.4;48.3;51.7;-7.4;-1.7;2.7;10.7
+791;Female;Pos. in hh.: child underage;2023;1.5;42.2;57.8;-6.2;-0.4;3.6;10.1
+792;Female;Pos. in hh.: child of age;2012;0.3;48.9;51.1;-9.3;-2.1;2.8;10.5
+793;Female;Pos. in hh.: child of age;2013;1.2;45.4;54.6;-8.6;-1.3;3.9;12.1
+794;Female;Pos. in hh.: child of age;2014;4.0;34.7;65.3;-6.0;1.4;6.9;15.9
+795;Female;Pos. in hh.: child of age;2015;4.3;34.5;65.5;-5.9;1.5;7.3;16.4
+796;Female;Pos. in hh.: child of age;2016;6.4;28.4;71.6;-3.7;3.5;9.6;19.3
+797;Female;Pos. in hh.: child of age;2017;4.1;35.0;65.0;-5.3;1.3;7.4;17.3
+798;Female;Pos. in hh.: child of age;2018;4.3;34.5;65.5;-5.3;1.5;7.5;17.2
+799;Female;Pos. in hh.: child of age;2019;5.2;31.1;68.9;-4.5;2.4;8.4;18.0
+800;Female;Pos. in hh.: child of age;2020;5.9;29.8;70.2;-4.7;3.0;9.1;18.9
+801;Female;Pos. in hh.: child of age;2021;5.1;31.9;68.1;-4.7;2.2;8.5;18.7
+802;Female;Pos. in hh.: child of age;2022;2.1;42.8;57.2;-7.6;-0.8;5.4;15.1
+803;Female;Pos. in hh.: child of age;2023;3.8;35.3;64.7;-5.6;1.2;6.8;15.6
+804;Female;Pos. in hh.: other member;2012;-1.6;57.9;42.1;-11.8;-3.8;0.5;8.4
+805;Female;Pos. in hh.: other member;2013;-1.2;55.9;44.1;-11.2;-3.4;0.9;9.2
+806;Female;Pos. in hh.: other member;2014;1.8;40.8;59.2;-8.0;-0.2;4.0;13.2
+807;Female;Pos. in hh.: other member;2015;1.4;42.6;57.4;-8.3;-0.5;4.0;13.6
+808;Female;Pos. in hh.: other member;2016;3.3;35.8;64.2;-6.5;1.0;5.9;15.6
+809;Female;Pos. in hh.: other member;2017;1.2;43.7;56.3;-7.5;-0.6;3.9;14.5
+810;Female;Pos. in hh.: other member;2018;1.4;43.2;56.8;-7.6;-0.5;4.1;14.3
+811;Female;Pos. in hh.: other member;2019;2.3;37.5;62.5;-6.5;0.5;5.0;14.9
+812;Female;Pos. in hh.: other member;2020;3.2;35.0;65.0;-6.8;1.2;5.9;15.5
+813;Female;Pos. in hh.: other member;2021;2.4;38.4;61.6;-6.8;0.3;5.2;15.4
+814;Female;Pos. in hh.: other member;2022;-0.7;53.0;47.0;-9.7;-3.0;2.0;12.0
+815;Female;Pos. in hh.: other member;2023;1.3;43.7;56.3;-7.6;-0.8;3.7;11.8
+816;Female;SEC: employee;2012;-0.7;54.1;45.9;-8.8;-2.5;1.1;7.3
+817;Female;SEC: employee;2013;0.3;48.5;51.5;-8.1;-1.5;2.1;8.8
+818;Female;SEC: employee;2014;2.9;34.9;65.1;-5.6;1.1;4.8;11.9
+819;Female;SEC: employee;2015;2.6;36.1;63.9;-5.8;0.8;4.6;12.2
+820;Female;SEC: employee;2016;4.9;28.2;71.8;-3.5;3.0;7.0;14.9
+821;Female;SEC: employee;2017;1.4;42.2;57.8;-6.3;-0.4;3.5;11.7
+822;Female;SEC: employee;2018;1.5;41.6;58.4;-6.3;-0.3;3.7;11.9
+823;Female;SEC: employee;2019;2.5;36.1;63.9;-5.4;0.7;4.6;12.8
+824;Female;SEC: employee;2020;4.1;31.1;68.9;-4.8;2.2;6.3;14.1
+825;Female;SEC: employee;2021;2.5;36.2;63.8;-5.6;0.7;4.8;13.4
+826;Female;SEC: employee;2022;-0.6;53.1;46.9;-8.5;-2.5;1.6;9.8
+827;Female;SEC: employee;2023;0.7;46.3;53.7;-7.0;-1.2;2.8;10.0
+828;Female;SEC: self-employed (total);2012;-2.0;55.8;44.2;-17.8;-5.7;1.7;15.2
+829;Female;SEC: self-employed (total);2013;-2.2;56.0;44.0;-18.2;-6.0;1.6;15.3
+830;Female;SEC: self-employed (total);2014;2.8;42.3;57.7;-12.5;-0.9;7.2;24.1
+831;Female;SEC: self-employed (total);2015;2.0;44.5;55.5;-14.8;-1.8;6.2;20.9
+832;Female;SEC: self-employed (total);2016;4.4;38.5;61.5;-10.7;0.6;8.8;24.4
+833;Female;SEC: self-employed (total);2017;2.1;44.4;55.6;-12.5;-1.5;6.5;22.2
+834;Female;SEC: self-employed (total);2018;1.7;45.2;54.8;-13.4;-1.9;6.0;20.4
+835;Female;SEC: self-employed (total);2019;2.2;44.0;56.0;-12.9;-1.5;6.3;21.0
+836;Female;SEC: self-employed (total);2020;3.1;42.6;57.4;-14.6;-1.2;7.7;23.1
+837;Female;SEC: self-employed (total);2021;2.4;44.0;56.0;-13.1;-1.6;7.0;23.1
+838;Female;SEC: self-employed (total);2022;-1.1;52.7;47.3;-16.7;-5.0;3.3;18.2
+839;Female;SEC: self-employed (total);2023;-1.2;54.5;45.5;-14.6;-4.3;1.6;11.5
+840;Female;SEC: benefit recipient and pensioner;2012;-1.2;68.5;31.5;-5.4;-1.8;-0.7;2.3
+841;Female;SEC: benefit recipient and pensioner;2013;-2.4;74.4;25.6;-7.6;-3.5;-1.6;1.2
+842;Female;SEC: benefit recipient and pensioner;2014;1.0;36.5;63.5;-3.5;0.3;1.7;4.9
+843;Female;SEC: benefit recipient and pensioner;2015;0.3;44.5;55.5;-3.7;-0.3;0.9;3.8
+844;Female;SEC: benefit recipient and pensioner;2016;1.0;36.1;63.9;-3.1;0.4;1.5;4.4
+845;Female;SEC: benefit recipient and pensioner;2017;0.0;49.4;50.6;-3.6;-0.5;0.5;3.3
+846;Female;SEC: benefit recipient and pensioner;2018;-0.3;58.6;41.4;-3.2;-0.6;0.1;3.2
+847;Female;SEC: benefit recipient and pensioner;2019;0.7;31.7;68.3;-2.0;0.3;1.1;4.1
+848;Female;SEC: benefit recipient and pensioner;2020;1.3;27.5;72.5;-2.3;0.9;1.7;4.4
+849;Female;SEC: benefit recipient and pensioner;2021;-0.2;55.5;44.5;-2.7;-0.5;0.2;4.6
+850;Female;SEC: benefit recipient and pensioner;2022;-2.6;63.9;36.1;-5.3;-3.2;-1.2;4.6
+851;Female;SEC: benefit recipient and pensioner;2023;-0.2;52.7;47.3;-4.2;-1.1;0.6;3.7
+852;Female;SEC: benefit claimant;2012;-1.7;64.8;35.2;-9.7;-2.7;-0.8;5.1
+853;Female;SEC: benefit claimant;2013;-1.7;64.4;35.6;-10.8;-2.9;-0.8;5.4
+854;Female;SEC: benefit claimant;2014;1.6;37.6;62.4;-6.9;0.4;2.5;9.8
+855;Female;SEC: benefit claimant;2015;0.8;41.1;58.9;-7.1;-0.1;1.8;8.9
+856;Female;SEC: benefit claimant;2016;1.4;34.2;65.8;-5.9;0.8;2.6;9.5
+857;Female;SEC: benefit claimant;2017;0.4;41.9;58.1;-6.1;-0.2;1.4;8.4
+858;Female;SEC: benefit claimant;2018;-0.1;51.0;49.0;-6.0;-0.5;0.9;7.8
+859;Female;SEC: benefit claimant;2019;0.7;36.3;63.7;-5.0;0.2;1.7;8.4
+860;Female;SEC: benefit claimant;2020;1.7;30.5;69.5;-4.7;1.3;2.5;9.2
+861;Female;SEC: benefit claimant;2021;0.2;47.5;52.5;-5.7;-0.3;1.5;9.0
+862;Female;SEC: benefit claimant;2022;2.3;42.5;57.5;-6.5;-0.8;4.3;8.1
+863;Female;SEC: benefit claimant;2023;1.4;37.4;62.6;-4.5;0.3;2.8;8.7
+864;Female;SEC: claiming unemployment benefit;2012;-2.9;62.5;37.5;-14.7;-5.7;-0.6;6.3
+865;Female;SEC: claiming unemployment benefit;2013;-2.7;60.9;39.1;-15.1;-5.7;-0.2;7.3
+866;Female;SEC: claiming unemployment benefit;2014;-0.1;50.5;49.5;-13.0;-3.2;2.4;10.2
+867;Female;SEC: claiming unemployment benefit;2015;0.1;49.7;50.3;-12.5;-2.7;2.3;10.2
+868;Female;SEC: claiming unemployment benefit;2016;1.1;45.5;54.5;-11.1;-1.5;3.3;11.3
+869;Female;SEC: claiming unemployment benefit;2017;-0.1;50.6;49.4;-11.3;-2.4;2.1;10.6
+870;Female;SEC: claiming unemployment benefit;2018;-0.1;50.3;49.7;-11.3;-2.3;2.0;9.9
+871;Female;SEC: claiming unemployment benefit;2019;0.4;48.1;51.9;-11.5;-2.0;2.5;10.5
+872;Female;SEC: claiming unemployment benefit;2020;1.0;46.4;53.6;-13.1;-2.2;3.3;11.6
+873;Female;SEC: claiming unemployment benefit;2021;0.4;48.5;51.5;-13.7;-2.9;3.3;13.2
+874;Female;SEC: claiming unemployment benefit;2022;-2.6;58.3;41.7;-17.0;-6.3;0.6;9.8
+875;Female;SEC: claiming unemployment benefit;2023;-1.5;54.6;45.4;-16.0;-5.0;1.7;9.6
+876;Female;SEC: claiming social provision benefit;2012;-1.7;66.4;33.6;-8.7;-2.5;-1.0;5.0
+877;Female;SEC: claiming social provision benefit;2013;-1.6;65.6;34.4;-9.9;-2.3;-0.9;5.3
+878;Female;SEC: claiming social provision benefit;2014;2.0;31.1;68.9;-4.5;1.3;2.7;10.5
+879;Female;SEC: claiming social provision benefit;2015;0.9;36.4;63.6;-5.4;0.3;1.8;8.5
+880;Female;SEC: claiming social provision benefit;2016;1.3;30.9;69.1;-4.6;1.0;2.1;8.7
+881;Female;SEC: claiming social provision benefit;2017;0.5;35.6;64.4;-4.0;0.2;1.3;7.8
+882;Female;SEC: claiming social provision benefit;2018;-0.1;52.8;47.2;-4.5;-0.5;0.5;7.0
+883;Female;SEC: claiming social provision benefit;2019;0.6;34.1;65.9;-3.3;0.2;1.3;7.5
+884;Female;SEC: claiming social provision benefit;2020;1.7;26.1;73.9;-2.5;1.4;2.2;8.0
+885;Female;SEC: claiming social provision benefit;2021;0.0;49.3;50.7;-3.3;-0.3;1.2;8.5
+886;Female;SEC: claiming social provision benefit;2022;4.2;29.1;70.9;-3.3;2.7;5.2;8.6
+887;Female;SEC: claiming social provision benefit;2023;1.6;32.7;67.3;-2.7;0.8;3.0;8.9
+888;Female;SEC: claiming disability benefit;2012;-1.5;63.6;36.4;-9.1;-2.7;-0.5;4.7
+889;Female;SEC: claiming disability benefit;2013;-1.8;63.7;36.3;-9.9;-3.2;-0.6;5.0
+890;Female;SEC: claiming disability benefit;2014;1.1;40.8;59.2;-6.8;-0.1;2.3;8.5
+891;Female;SEC: claiming disability benefit;2015;0.6;43.5;56.5;-6.6;-0.4;1.9;8.7
+892;Female;SEC: claiming disability benefit;2016;1.5;34.4;65.6;-5.1;0.7;3.0;9.8
+893;Female;SEC: claiming disability benefit;2017;0.2;47.2;52.8;-6.6;-0.7;1.3;8.1
+894;Female;SEC: claiming disability benefit;2018;0.1;48.5;51.5;-6.5;-0.5;1.2;8.2
+895;Female;SEC: claiming disability benefit;2019;0.9;36.7;63.3;-5.6;0.3;2.1;9.0
+896;Female;SEC: claiming disability benefit;2020;1.8;32.9;67.1;-5.9;1.1;3.1;10.0
+897;Female;SEC: claiming disability benefit;2021;0.3;44.9;55.1;-7.2;-0.3;1.7;9.1
+898;Female;SEC: claiming disability benefit;2022;-1.5;56.4;43.6;-8.9;-2.8;1.1;7.0
+899;Female;SEC: claiming disability benefit;2023;1.2;41.3;58.7;-6.0;-0.2;2.6;8.3
+900;Female;SEC: pensioner;2012;-1.2;70.0;30.0;-4.3;-1.7;-0.7;1.6
+901;Female;SEC: pensioner;2013;-2.7;78.1;21.9;-6.9;-3.6;-1.8;0.3
+902;Female;SEC: pensioner;2014;0.9;36.1;63.9;-2.6;0.3;1.5;3.6
+903;Female;SEC: pensioner;2015;0.2;45.6;54.4;-2.8;-0.3;0.8;2.6
+904;Female;SEC: pensioner;2016;0.9;36.4;63.6;-2.4;0.3;1.4;3.0
+905;Female;SEC: pensioner;2017;-0.1;52.0;48.0;-2.9;-0.6;0.4;2.0
+906;Female;SEC: pensioner;2018;-0.3;61.3;38.7;-2.4;-0.7;0.0;1.9
+907;Female;SEC: pensioner;2019;0.7;29.7;70.3;-1.1;0.4;1.0;3.1
+908;Female;SEC: pensioner;2020;1.2;26.0;74.0;-1.5;0.9;1.5;3.0
+909;Female;SEC: pensioner;2021;-0.3;58.4;41.6;-2.0;-0.5;0.1;3.0
+910;Female;SEC: pensioner;2022;-2.9;71.0;29.0;-5.0;-3.4;-2.3;2.9
+911;Female;SEC: pensioner;2023;-0.5;57.7;42.3;-4.0;-1.3;0.2;2.3
+912;Female;SEC: (school) child or student;2012;-0.8;54.2;45.8;-10.5;-2.9;1.2;8.3
+913;Female;SEC: (school) child or student;2013;0.0;49.8;50.2;-10.1;-2.0;2.2;9.7
+914;Female;SEC: (school) child or student;2014;2.7;37.6;62.4;-7.4;0.6;4.9;13.3
+915;Female;SEC: (school) child or student;2015;2.7;37.7;62.3;-7.8;0.5;5.0;13.5
+916;Female;SEC: (school) child or student;2016;4.9;30.2;69.8;-4.9;2.6;7.3;16.2
+917;Female;SEC: (school) child or student;2017;2.0;39.6;60.4;-6.8;0.1;4.4;13.7
+918;Female;SEC: (school) child or student;2018;2.1;39.4;60.6;-6.7;0.1;4.6;13.6
+919;Female;SEC: (school) child or student;2019;2.9;35.6;64.4;-5.9;0.9;5.3;14.2
+920;Female;SEC: (school) child or student;2020;4.4;31.8;68.2;-5.7;2.1;6.8;15.3
+921;Female;SEC: (school) child or student;2021;3.0;35.9;64.1;-6.0;0.9;5.4;14.6
+922;Female;SEC: (school) child or student;2022;0.4;48.4;51.6;-8.4;-1.9;2.9;11.6
+923;Female;SEC: (school) child or student;2023;1.6;42.6;57.4;-7.1;-0.6;3.8;11.1
+924;Female;SEC: other (without income);2012;-1.8;61.8;38.2;-9.5;-3.3;-0.3;6.1
+925;Female;SEC: other (without income);2013;-1.4;58.1;41.9;-9.8;-3.2;0.3;6.7
+926;Female;SEC: other (without income);2014;1.3;40.6;59.4;-6.6;-0.1;3.0;10.3
+927;Female;SEC: other (without income);2015;1.0;42.4;57.6;-6.8;-0.3;2.8;10.2
+928;Female;SEC: other (without income);2016;2.4;34.6;65.4;-5.1;0.9;4.4;11.9
+929;Female;SEC: other (without income);2017;0.2;47.9;52.1;-7.0;-1.0;1.8;10.0
+930;Female;SEC: other (without income);2018;0.2;48.0;52.0;-6.9;-0.8;2.1;10.3
+931;Female;SEC: other (without income);2019;1.7;36.8;63.2;-5.7;0.4;3.2;11.5
+932;Female;SEC: other (without income);2020;2.5;33.3;66.7;-6.1;1.2;4.4;12.2
+933;Female;SEC: other (without income);2021;1.0;43.3;56.7;-6.9;-0.4;3.0;12.1
+934;Female;SEC: other (without income);2022;-1.8;57.9;42.1;-9.7;-3.3;0.5;8.3
+935;Female;SEC: other (without income);2023;-0.6;53.4;46.6;-9.2;-2.6;1.3;8.2

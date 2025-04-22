@@ -1,0 +1,397 @@
+﻿ID;Sectoren;Effecten;Perioden;Koerswaarde_1;TotaalEmissie_2;EmissieOpenbaar_3;EmissieOnderhands_4
+0;Totaal sectoren;Aandelen;1983;49646.0;;;
+1;Totaal sectoren;Aandelen;1984;61061.0;;;
+2;Totaal sectoren;Aandelen;1985;79965.0;;;
+3;Totaal sectoren;Aandelen;1986;88012.0;;;
+4;Totaal sectoren;Aandelen;1987;73907.0;;;
+5;Totaal sectoren;Aandelen;1988;98082.0;;;
+6;Totaal sectoren;Aandelen;1989;134264.0;;;
+7;Totaal sectoren;Aandelen;1990;113923.0;;;
+8;Totaal sectoren;Aandelen;1991;131412.0;;;
+9;Totaal sectoren;Aandelen;1992;140983.0;;;
+10;Totaal sectoren;Aandelen;1993;203939.0;;;
+11;Totaal sectoren;Aandelen;1994;222624.0;;;
+12;Totaal sectoren;Aandelen;1995;258949.0;;;
+13;Totaal sectoren;Aandelen;1996;357685.0;;;
+14;Totaal sectoren;Aandelen;1997;505548.0;;;
+15;Totaal sectoren;Aandelen;1998;601612.0;;;
+16;Totaal sectoren;Aandelen;1999;810363.0;25836.0;15544.0;10292.0
+17;Totaal sectoren;Aandelen;2000;781271.0;28202.0;25200.0;3002.0
+18;Totaal sectoren;Aandelen;2001;654490.0;27685.0;20740.0;6945.0
+19;Totaal sectoren;Aandelen;2002;445305.0;10199.0;7218.0;2981.0
+20;Totaal sectoren;Aandelen;2003;466185.0;12225.0;11409.0;816.0
+21;Totaal sectoren;Aandelen;2004;491187.0;11626.0;6617.0;5009.0
+22;Totaal sectoren;Aandelen;2005;604841.0;12898.0;7104.0;5794.0
+23;Totaal sectoren;Aandelen;2006;718390.0;8905.0;7772.0;1133.0
+24;Totaal sectoren;Aandelen;2007;672144.0;25003.0;21594.0;3409.0
+25;Totaal sectoren;Aandelen;2008;288383.0;7736.0;5112.0;2624.0
+26;Totaal sectoren;Aandelen;2009;383310.0;14693.0;12782.0;1911.0
+27;Totaal sectoren;Aandelen;2010;423618.0;8666.0;5314.0;3352.0
+28;Totaal sectoren;Aandelen;2011;393077.0;7567.0;6041.0;1526.0
+29;Totaal sectoren;Aandelen;2012;437858.0;7207.0;2585.0;4622.0
+30;Totaal sectoren;Aandelen;2013;507423.0;10309.0;7405.0;2904.0
+31;Totaal sectoren;Aandelen;2014;552587.0;10482.0;9307.0;1175.0
+32;Totaal sectoren;Aandelen;2015;602827.0;9455.0;9087.0;368.0
+33;Totaal sectoren;Obligaties;1983;;;;
+34;Totaal sectoren;Obligaties;1984;;;;
+35;Totaal sectoren;Obligaties;1985;;;;
+36;Totaal sectoren;Obligaties;1986;;;;
+37;Totaal sectoren;Obligaties;1987;;;;
+38;Totaal sectoren;Obligaties;1988;;;;
+39;Totaal sectoren;Obligaties;1989;;;;
+40;Totaal sectoren;Obligaties;1990;;;;
+41;Totaal sectoren;Obligaties;1991;;;;
+42;Totaal sectoren;Obligaties;1992;;;;
+43;Totaal sectoren;Obligaties;1993;;42100.0;42100.0;
+44;Totaal sectoren;Obligaties;1994;164925.0;32100.0;32100.0;
+45;Totaal sectoren;Obligaties;1995;188605.0;59475.0;59475.0;
+46;Totaal sectoren;Obligaties;1996;203706.0;38825.0;38825.0;
+47;Totaal sectoren;Obligaties;1997;212164.0;;;
+48;Totaal sectoren;Obligaties;1998;226832.0;22141.0;22141.0;
+49;Totaal sectoren;Obligaties;1999;275695.0;59831.0;59831.0;
+50;Totaal sectoren;Obligaties;2000;295400.0;61891.0;61891.0;
+51;Totaal sectoren;Obligaties;2001;351500.0;89814.0;89814.0;
+52;Totaal sectoren;Obligaties;2002;376400.0;70135.0;70135.0;
+53;Totaal sectoren;Obligaties;2003;418200.0;100465.0;100465.0;
+54;Totaal sectoren;Obligaties;2004;452400.0;93079.0;93079.0;
+55;Totaal sectoren;Obligaties;2005;521300.0;106872.0;106872.0;
+56;Totaal sectoren;Obligaties;2006;553500.0;108784.0;108784.0;
+57;Totaal sectoren;Obligaties;2007;678185.0;150855.0;150855.0;
+58;Totaal sectoren;Obligaties;2008;782935.0;116501.0;116501.0;
+59;Totaal sectoren;Obligaties;2009;833052.0;165079.0;165079.0;
+60;Totaal sectoren;Obligaties;2010;885452.0;208655.0;208655.0;
+61;Totaal sectoren;Obligaties;2011;941732.0;177167.0;177167.0;
+62;Totaal sectoren;Obligaties;2012;995169.0;175973.0;175973.0;
+63;Totaal sectoren;Obligaties;2013;940623.0;175973.0;122369.0;
+64;Totaal sectoren;Obligaties;2014;958908.0;109055.0;109055.0;
+65;Totaal sectoren;Obligaties;2015;913021.0;107040.0;107040.0;
+66;Overheid;Aandelen;1983;;;;
+67;Overheid;Aandelen;1984;;;;
+68;Overheid;Aandelen;1985;;;;
+69;Overheid;Aandelen;1986;;;;
+70;Overheid;Aandelen;1987;;;;
+71;Overheid;Aandelen;1988;;;;
+72;Overheid;Aandelen;1989;;;;
+73;Overheid;Aandelen;1990;;;;
+74;Overheid;Aandelen;1991;;;;
+75;Overheid;Aandelen;1992;;;;
+76;Overheid;Aandelen;1993;;;;
+77;Overheid;Aandelen;1994;;;;
+78;Overheid;Aandelen;1995;;;;
+79;Overheid;Aandelen;1996;;;;
+80;Overheid;Aandelen;1997;;;;
+81;Overheid;Aandelen;1998;;;;
+82;Overheid;Aandelen;1999;;;;
+83;Overheid;Aandelen;2000;;;;
+84;Overheid;Aandelen;2001;;;;
+85;Overheid;Aandelen;2002;;;;
+86;Overheid;Aandelen;2003;;;;
+87;Overheid;Aandelen;2004;;;;
+88;Overheid;Aandelen;2005;;;;
+89;Overheid;Aandelen;2006;;;;
+90;Overheid;Aandelen;2007;;;;
+91;Overheid;Aandelen;2008;;;;
+92;Overheid;Aandelen;2009;;;;
+93;Overheid;Aandelen;2010;;;;
+94;Overheid;Aandelen;2011;;;;
+95;Overheid;Aandelen;2012;;;;
+96;Overheid;Aandelen;2013;;;;
+97;Overheid;Aandelen;2014;;;;
+98;Overheid;Aandelen;2015;;;;
+99;Overheid;Obligaties;1983;;;;
+100;Overheid;Obligaties;1984;;;;
+101;Overheid;Obligaties;1985;;;;
+102;Overheid;Obligaties;1986;;;;
+103;Overheid;Obligaties;1987;;;;
+104;Overheid;Obligaties;1988;;;;
+105;Overheid;Obligaties;1989;;;;
+106;Overheid;Obligaties;1990;;;;
+107;Overheid;Obligaties;1991;;;;
+108;Overheid;Obligaties;1992;;;;
+109;Overheid;Obligaties;1993;;38300.0;38300.0;
+110;Overheid;Obligaties;1994;127954.0;27500.0;27500.0;
+111;Overheid;Obligaties;1995;145380.0;52667.0;52667.0;
+112;Overheid;Obligaties;1996;151025.0;33628.0;33628.0;
+113;Overheid;Obligaties;1997;153927.0;;;
+114;Overheid;Obligaties;1998;161032.0;21362.0;21362.0;
+115;Overheid;Obligaties;1999;174164.0;22354.0;22354.0;
+116;Overheid;Obligaties;2000;169600.0;15045.0;15045.0;
+117;Overheid;Obligaties;2001;171900.0;19809.0;19809.0;
+118;Overheid;Obligaties;2002;170400.0;22615.0;22615.0;
+119;Overheid;Obligaties;2003;181700.0;34236.0;34236.0;
+120;Overheid;Obligaties;2004;195600.0;32295.0;32295.0;
+121;Overheid;Obligaties;2005;219600.0;32889.0;32889.0;
+122;Overheid;Obligaties;2006;211400.0;21490.0;21490.0;
+123;Overheid;Obligaties;2007;209939.0;21090.0;21090.0;
+124;Overheid;Obligaties;2008;279742.0;29004.0;29004.0;
+125;Overheid;Obligaties;2009;275266.0;48979.0;48979.0;
+126;Overheid;Obligaties;2010;304670.0;53687.0;53687.0;
+127;Overheid;Obligaties;2011;330014.0;53904.0;53904.0;
+128;Overheid;Obligaties;2012;358018.0;67336.0;67336.0;
+129;Overheid;Obligaties;2013;370444.0;67336.0;52198.0;
+130;Overheid;Obligaties;2014;406187.0;52615.0;52615.0;
+131;Overheid;Obligaties;2015;392818.0;49617.0;49617.0;
+132;Financiële instellingen;Aandelen;1983;6735.0;;;
+133;Financiële instellingen;Aandelen;1984;8098.0;;;
+134;Financiële instellingen;Aandelen;1985;14461.0;;;
+135;Financiële instellingen;Aandelen;1986;13130.0;;;
+136;Financiële instellingen;Aandelen;1987;9255.0;;;
+137;Financiële instellingen;Aandelen;1988;13117.0;;;
+138;Financiële instellingen;Aandelen;1989;16929.0;;;
+139;Financiële instellingen;Aandelen;1990;13489.0;;;
+140;Financiële instellingen;Aandelen;1991;15603.0;;;
+141;Financiële instellingen;Aandelen;1992;19593.0;;;
+142;Financiële instellingen;Aandelen;1993;30445.0;;2600.0;
+143;Financiële instellingen;Aandelen;1994;28580.0;;1500.0;
+144;Financiële instellingen;Aandelen;1995;39404.0;;1022.0;
+145;Financiële instellingen;Aandelen;1996;60385.0;;3929.0;
+146;Financiële instellingen;Aandelen;1997;94064.0;;;
+147;Financiële instellingen;Aandelen;1998;157045.0;;2957.0;
+148;Financiële instellingen;Aandelen;1999;180690.0;8710.0;2521.0;6189.0
+149;Financiële instellingen;Aandelen;2000;201376.0;2203.0;1107.0;1096.0
+150;Financiële instellingen;Aandelen;2001;167373.0;1767.0;0.0;1767.0
+151;Financiële instellingen;Aandelen;2002;97796.0;142.0;0.0;142.0
+152;Financiële instellingen;Aandelen;2003;108064.0;485.0;0.0;485.0
+153;Financiële instellingen;Aandelen;2004;124893.0;307.0;148.0;159.0
+154;Financiële instellingen;Aandelen;2005;165527.0;2722.0;0.0;2722.0
+155;Financiële instellingen;Aandelen;2006;202238.0;499.0;416.0;83.0
+156;Financiële instellingen;Aandelen;2007;193512.0;14997.0;14317.0;680.0
+157;Financiële instellingen;Aandelen;2008;25144.0;2120.0;0.0;2120.0
+158;Financiële instellingen;Aandelen;2009;40318.0;8472.0;8462.0;10.0
+159;Financiële instellingen;Aandelen;2010;41265.0;28.0;0.0;28.0
+160;Financiële instellingen;Aandelen;2011;31453.0;981.0;903.0;78.0
+161;Financiële instellingen;Aandelen;2012;40151.0;22.0;2.0;20.0
+162;Financiële instellingen;Aandelen;2013;58269.0;219.0;63.0;156.0
+163;Financiële instellingen;Aandelen;2014;70767.0;127.0;0.0;127.0
+164;Financiële instellingen;Aandelen;2015;99777.0;917.0;804.0;113.0
+165;Financiële instellingen;Obligaties;1983;;;;
+166;Financiële instellingen;Obligaties;1984;;;;
+167;Financiële instellingen;Obligaties;1985;;;;
+168;Financiële instellingen;Obligaties;1986;;;;
+169;Financiële instellingen;Obligaties;1987;;;;
+170;Financiële instellingen;Obligaties;1988;;;;
+171;Financiële instellingen;Obligaties;1989;;;;
+172;Financiële instellingen;Obligaties;1990;;;;
+173;Financiële instellingen;Obligaties;1991;;;;
+174;Financiële instellingen;Obligaties;1992;;;;
+175;Financiële instellingen;Obligaties;1993;;3600.0;3600.0;
+176;Financiële instellingen;Obligaties;1994;31964.0;3200.0;3200.0;
+177;Financiële instellingen;Obligaties;1995;37529.0;6808.0;6808.0;
+178;Financiële instellingen;Obligaties;1996;46114.0;5137.0;5137.0;
+179;Financiële instellingen;Obligaties;1997;51222.0;;;
+180;Financiële instellingen;Obligaties;1998;57217.0;779.0;779.0;
+181;Financiële instellingen;Obligaties;1999;87770.0;32684.0;32684.0;
+182;Financiële instellingen;Obligaties;2000;97500.0;29304.0;29304.0;
+183;Financiële instellingen;Obligaties;2001;144400.0;58264.0;58264.0;
+184;Financiële instellingen;Obligaties;2002;171800.0;41764.0;41764.0;
+185;Financiële instellingen;Obligaties;2003;204200.0;61800.0;61800.0;
+186;Financiële instellingen;Obligaties;2004;230800.0;60306.0;60306.0;
+187;Financiële instellingen;Obligaties;2005;277600.0;71268.0;71268.0;
+188;Financiële instellingen;Obligaties;2006;319700.0;83805.0;83805.0;
+189;Financiële instellingen;Obligaties;2007;440730.0;124517.0;124517.0;
+190;Financiële instellingen;Obligaties;2008;476408.0;82018.0;82018.0;
+191;Financiële instellingen;Obligaties;2009;527217.0;111208.0;111208.0;
+192;Financiële instellingen;Obligaties;2010;549337.0;152280.0;152280.0;
+193;Financiële instellingen;Obligaties;2011;579479.0;121329.0;121329.0;
+194;Financiële instellingen;Obligaties;2012;605137.0;105348.0;105348.0;
+195;Financiële instellingen;Obligaties;2013;539928.0;105348.0;67036.0;
+196;Financiële instellingen;Obligaties;2014;526580.0;55943.0;55943.0;
+197;Financiële instellingen;Obligaties;2015;492632.0;52350.0;52350.0;
+198;Beleggingsmaatschappijen;Aandelen;1983;7660.0;;;
+199;Beleggingsmaatschappijen;Aandelen;1984;8440.0;;;
+200;Beleggingsmaatschappijen;Aandelen;1985;10713.0;;;
+201;Beleggingsmaatschappijen;Aandelen;1986;12158.0;;;
+202;Beleggingsmaatschappijen;Aandelen;1987;10779.0;;;
+203;Beleggingsmaatschappijen;Aandelen;1988;13544.0;;;
+204;Beleggingsmaatschappijen;Aandelen;1989;17873.0;;;
+205;Beleggingsmaatschappijen;Aandelen;1990;16663.0;;;
+206;Beleggingsmaatschappijen;Aandelen;1991;20003.0;;;
+207;Beleggingsmaatschappijen;Aandelen;1992;25248.0;;;
+208;Beleggingsmaatschappijen;Aandelen;1993;36730.0;;;
+209;Beleggingsmaatschappijen;Aandelen;1994;40010.0;;;
+210;Beleggingsmaatschappijen;Aandelen;1995;44587.0;;;
+211;Beleggingsmaatschappijen;Aandelen;1996;52946.0;;;
+212;Beleggingsmaatschappijen;Aandelen;1997;64501.0;;;
+213;Beleggingsmaatschappijen;Aandelen;1998;77550.0;;;
+214;Beleggingsmaatschappijen;Aandelen;1999;106853.0;5420.0;5414.0;6.0
+215;Beleggingsmaatschappijen;Aandelen;2000;86423.0;11470.0;11470.0;0.0
+216;Beleggingsmaatschappijen;Aandelen;2001;75909.0;14376.0;13850.0;526.0
+217;Beleggingsmaatschappijen;Aandelen;2002;60229.0;6155.0;6041.0;114.0
+218;Beleggingsmaatschappijen;Aandelen;2003;64945.0;8045.0;8045.0;0.0
+219;Beleggingsmaatschappijen;Aandelen;2004;68367.0;5017.0;5017.0;0.0
+220;Beleggingsmaatschappijen;Aandelen;2005;73179.0;6051.0;6051.0;0.0
+221;Beleggingsmaatschappijen;Aandelen;2006;90770.0;6733.0;6733.0;0.0
+222;Beleggingsmaatschappijen;Aandelen;2007;80648.0;6078.0;6078.0;0.0
+223;Beleggingsmaatschappijen;Aandelen;2008;46128.0;4723.0;4723.0;0.0
+224;Beleggingsmaatschappijen;Aandelen;2009;55433.0;3099.0;3099.0;0.0
+225;Beleggingsmaatschappijen;Aandelen;2010;57904.0;3903.0;3903.0;0.0
+226;Beleggingsmaatschappijen;Aandelen;2011;52912.0;4806.0;4806.0;0.0
+227;Beleggingsmaatschappijen;Aandelen;2012;54273.0;10.0;10.0;0.0
+228;Beleggingsmaatschappijen;Aandelen;2013;52244.0;2881.0;2881.0;0.0
+229;Beleggingsmaatschappijen;Aandelen;2014;47011.0;5611.0;5611.0;0.0
+230;Beleggingsmaatschappijen;Aandelen;2015;45667.0;5716.0;5716.0;0.0
+231;Beleggingsmaatschappijen;Obligaties;1983;;;;
+232;Beleggingsmaatschappijen;Obligaties;1984;;;;
+233;Beleggingsmaatschappijen;Obligaties;1985;;;;
+234;Beleggingsmaatschappijen;Obligaties;1986;;;;
+235;Beleggingsmaatschappijen;Obligaties;1987;;;;
+236;Beleggingsmaatschappijen;Obligaties;1988;;;;
+237;Beleggingsmaatschappijen;Obligaties;1989;;;;
+238;Beleggingsmaatschappijen;Obligaties;1990;;;;
+239;Beleggingsmaatschappijen;Obligaties;1991;;;;
+240;Beleggingsmaatschappijen;Obligaties;1992;;;;
+241;Beleggingsmaatschappijen;Obligaties;1993;;;;
+242;Beleggingsmaatschappijen;Obligaties;1994;;;;
+243;Beleggingsmaatschappijen;Obligaties;1995;;;;
+244;Beleggingsmaatschappijen;Obligaties;1996;;;;
+245;Beleggingsmaatschappijen;Obligaties;1997;;;;
+246;Beleggingsmaatschappijen;Obligaties;1998;;;;
+247;Beleggingsmaatschappijen;Obligaties;1999;;;;
+248;Beleggingsmaatschappijen;Obligaties;2000;;;;
+249;Beleggingsmaatschappijen;Obligaties;2001;;;;
+250;Beleggingsmaatschappijen;Obligaties;2002;;;;
+251;Beleggingsmaatschappijen;Obligaties;2003;;;;
+252;Beleggingsmaatschappijen;Obligaties;2004;;;;
+253;Beleggingsmaatschappijen;Obligaties;2005;;;;
+254;Beleggingsmaatschappijen;Obligaties;2006;;;;
+255;Beleggingsmaatschappijen;Obligaties;2007;;;;
+256;Beleggingsmaatschappijen;Obligaties;2008;;;;
+257;Beleggingsmaatschappijen;Obligaties;2009;;;;
+258;Beleggingsmaatschappijen;Obligaties;2010;;;;
+259;Beleggingsmaatschappijen;Obligaties;2011;;;;
+260;Beleggingsmaatschappijen;Obligaties;2012;;;;
+261;Beleggingsmaatschappijen;Obligaties;2013;;;;
+262;Beleggingsmaatschappijen;Obligaties;2014;;;;
+263;Beleggingsmaatschappijen;Obligaties;2015;;;;
+264;Vastgoedmaatschappijen;Aandelen;1983;1308.0;;;
+265;Vastgoedmaatschappijen;Aandelen;1984;1718.0;;;
+266;Vastgoedmaatschappijen;Aandelen;1985;2213.0;;;
+267;Vastgoedmaatschappijen;Aandelen;1986;2554.0;;;
+268;Vastgoedmaatschappijen;Aandelen;1987;3398.0;;;
+269;Vastgoedmaatschappijen;Aandelen;1988;5145.0;;;
+270;Vastgoedmaatschappijen;Aandelen;1989;6926.0;;;
+271;Vastgoedmaatschappijen;Aandelen;1990;5368.0;;;
+272;Vastgoedmaatschappijen;Aandelen;1991;5731.0;;;
+273;Vastgoedmaatschappijen;Aandelen;1992;4937.0;;;
+274;Vastgoedmaatschappijen;Aandelen;1993;7024.0;;;
+275;Vastgoedmaatschappijen;Aandelen;1994;6226.0;;;
+276;Vastgoedmaatschappijen;Aandelen;1995;6210.0;;;
+277;Vastgoedmaatschappijen;Aandelen;1996;7958.0;;;
+278;Vastgoedmaatschappijen;Aandelen;1997;9931.0;;;
+279;Vastgoedmaatschappijen;Aandelen;1998;10386.0;;;
+280;Vastgoedmaatschappijen;Aandelen;1999;11052.0;271.0;61.0;210.0
+281;Vastgoedmaatschappijen;Aandelen;2000;13591.0;507.0;425.0;82.0
+282;Vastgoedmaatschappijen;Aandelen;2001;13904.0;327.0;276.0;51.0
+283;Vastgoedmaatschappijen;Aandelen;2002;11546.0;1024.0;381.0;643.0
+284;Vastgoedmaatschappijen;Aandelen;2003;12511.0;342.0;341.0;1.0
+285;Vastgoedmaatschappijen;Aandelen;2004;14979.0;272.0;162.0;110.0
+286;Vastgoedmaatschappijen;Aandelen;2005;16830.0;388.0;268.0;120.0
+287;Vastgoedmaatschappijen;Aandelen;2006;22890.0;447.0;447.0;0.0
+288;Vastgoedmaatschappijen;Aandelen;2007;18925.0;521.0;464.0;57.0
+289;Vastgoedmaatschappijen;Aandelen;2008;6862.0;385.0;382.0;3.0
+290;Vastgoedmaatschappijen;Aandelen;2009;9334.0;641.0;200.0;441.0
+291;Vastgoedmaatschappijen;Aandelen;2010;10359.0;702.0;702.0;0.0
+292;Vastgoedmaatschappijen;Aandelen;2011;7287.0;314.0;314.0;0.0
+293;Vastgoedmaatschappijen;Aandelen;2012;7503.0;35.0;10.0;25.0
+294;Vastgoedmaatschappijen;Aandelen;2013;7860.0;454.0;454.0;0.0
+295;Vastgoedmaatschappijen;Aandelen;2014;9751.0;733.0;733.0;0.0
+296;Vastgoedmaatschappijen;Aandelen;2015;6352.0;544.0;544.0;0.0
+297;Vastgoedmaatschappijen;Obligaties;1983;;;;
+298;Vastgoedmaatschappijen;Obligaties;1984;;;;
+299;Vastgoedmaatschappijen;Obligaties;1985;;;;
+300;Vastgoedmaatschappijen;Obligaties;1986;;;;
+301;Vastgoedmaatschappijen;Obligaties;1987;;;;
+302;Vastgoedmaatschappijen;Obligaties;1988;;;;
+303;Vastgoedmaatschappijen;Obligaties;1989;;;;
+304;Vastgoedmaatschappijen;Obligaties;1990;;;;
+305;Vastgoedmaatschappijen;Obligaties;1991;;;;
+306;Vastgoedmaatschappijen;Obligaties;1992;;;;
+307;Vastgoedmaatschappijen;Obligaties;1993;;;;
+308;Vastgoedmaatschappijen;Obligaties;1994;;;;
+309;Vastgoedmaatschappijen;Obligaties;1995;;;;
+310;Vastgoedmaatschappijen;Obligaties;1996;;;;
+311;Vastgoedmaatschappijen;Obligaties;1997;;;;
+312;Vastgoedmaatschappijen;Obligaties;1998;;;;
+313;Vastgoedmaatschappijen;Obligaties;1999;;;;
+314;Vastgoedmaatschappijen;Obligaties;2000;;;;
+315;Vastgoedmaatschappijen;Obligaties;2001;;;;
+316;Vastgoedmaatschappijen;Obligaties;2002;;;;
+317;Vastgoedmaatschappijen;Obligaties;2003;;;;
+318;Vastgoedmaatschappijen;Obligaties;2004;;;;
+319;Vastgoedmaatschappijen;Obligaties;2005;;;;
+320;Vastgoedmaatschappijen;Obligaties;2006;;;;
+321;Vastgoedmaatschappijen;Obligaties;2007;;;;
+322;Vastgoedmaatschappijen;Obligaties;2008;;;;
+323;Vastgoedmaatschappijen;Obligaties;2009;;;;
+324;Vastgoedmaatschappijen;Obligaties;2010;;;;
+325;Vastgoedmaatschappijen;Obligaties;2011;;;;
+326;Vastgoedmaatschappijen;Obligaties;2012;;;;
+327;Vastgoedmaatschappijen;Obligaties;2013;;;;
+328;Vastgoedmaatschappijen;Obligaties;2014;;;;
+329;Vastgoedmaatschappijen;Obligaties;2015;;;;
+330;Niet-financiële ondernemingen;Aandelen;1983;33944.0;;;
+331;Niet-financiële ondernemingen;Aandelen;1984;42805.0;;;
+332;Niet-financiële ondernemingen;Aandelen;1985;52579.0;;;
+333;Niet-financiële ondernemingen;Aandelen;1986;60170.0;;;
+334;Niet-financiële ondernemingen;Aandelen;1987;50475.0;;;
+335;Niet-financiële ondernemingen;Aandelen;1988;66276.0;;;
+336;Niet-financiële ondernemingen;Aandelen;1989;92537.0;;;
+337;Niet-financiële ondernemingen;Aandelen;1990;78403.0;;;
+338;Niet-financiële ondernemingen;Aandelen;1991;90076.0;;;
+339;Niet-financiële ondernemingen;Aandelen;1992;91204.0;;;
+340;Niet-financiële ondernemingen;Aandelen;1993;129741.0;;1100.0;
+341;Niet-financiële ondernemingen;Aandelen;1994;147807.0;;3000.0;
+342;Niet-financiële ondernemingen;Aandelen;1995;168749.0;;718.0;
+343;Niet-financiële ondernemingen;Aandelen;1996;236397.0;;4976.0;
+344;Niet-financiële ondernemingen;Aandelen;1997;337051.0;;;
+345;Niet-financiële ondernemingen;Aandelen;1998;356630.0;;2202.0;
+346;Niet-financiële ondernemingen;Aandelen;1999;511768.0;11429.0;7543.0;3886.0
+347;Niet-financiële ondernemingen;Aandelen;2000;479880.0;14014.0;12192.0;1822.0
+348;Niet-financiële ondernemingen;Aandelen;2001;397305.0;11210.0;6608.0;4602.0
+349;Niet-financiële ondernemingen;Aandelen;2002;275730.0;2881.0;798.0;2083.0
+350;Niet-financiële ondernemingen;Aandelen;2003;280663.0;3352.0;3022.0;330.0
+351;Niet-financiële ondernemingen;Aandelen;2004;282947.0;6033.0;1292.0;4741.0
+352;Niet-financiële ondernemingen;Aandelen;2005;349305.0;3739.0;786.0;2953.0
+353;Niet-financiële ondernemingen;Aandelen;2006;402485.0;1227.0;176.0;1051.0
+354;Niet-financiële ondernemingen;Aandelen;2007;379054.0;3402.0;733.0;2669.0
+355;Niet-financiële ondernemingen;Aandelen;2008;210245.0;508.0;6.0;502.0
+356;Niet-financiële ondernemingen;Aandelen;2009;278220.0;2483.0;1024.0;1459.0
+357;Niet-financiële ondernemingen;Aandelen;2010;314091.0;4030.0;706.0;3324.0
+358;Niet-financiële ondernemingen;Aandelen;2011;301424.0;1466.0;18.0;1448.0
+359;Niet-financiële ondernemingen;Aandelen;2012;335931.0;4857.0;280.0;4577.0
+360;Niet-financiële ondernemingen;Aandelen;2013;388871.0;6755.0;4007.0;2748.0
+361;Niet-financiële ondernemingen;Aandelen;2014;425057.0;4011.0;2963.0;1049.0
+362;Niet-financiële ondernemingen;Aandelen;2015;451031.0;2277.0;2022.0;255.0
+363;Niet-financiële ondernemingen;Obligaties;1983;;;;
+364;Niet-financiële ondernemingen;Obligaties;1984;;;;
+365;Niet-financiële ondernemingen;Obligaties;1985;;;;
+366;Niet-financiële ondernemingen;Obligaties;1986;;;;
+367;Niet-financiële ondernemingen;Obligaties;1987;;;;
+368;Niet-financiële ondernemingen;Obligaties;1988;;;;
+369;Niet-financiële ondernemingen;Obligaties;1989;;;;
+370;Niet-financiële ondernemingen;Obligaties;1990;;;;
+371;Niet-financiële ondernemingen;Obligaties;1991;;;;
+372;Niet-financiële ondernemingen;Obligaties;1992;;;;
+373;Niet-financiële ondernemingen;Obligaties;1993;;200.0;200.0;
+374;Niet-financiële ondernemingen;Obligaties;1994;5007.0;1400.0;1400.0;
+375;Niet-financiële ondernemingen;Obligaties;1995;5696.0;;0.0;
+376;Niet-financiële ondernemingen;Obligaties;1996;6567.0;60.0;60.0;
+377;Niet-financiële ondernemingen;Obligaties;1997;7015.0;;;
+378;Niet-financiële ondernemingen;Obligaties;1998;8583.0;0.0;0.0;
+379;Niet-financiële ondernemingen;Obligaties;1999;13761.0;4793.0;4793.0;
+380;Niet-financiële ondernemingen;Obligaties;2000;28300.0;17542.0;17542.0;
+381;Niet-financiële ondernemingen;Obligaties;2001;35200.0;11741.0;11741.0;
+382;Niet-financiële ondernemingen;Obligaties;2002;34200.0;5756.0;5756.0;
+383;Niet-financiële ondernemingen;Obligaties;2003;32300.0;4429.0;4429.0;
+384;Niet-financiële ondernemingen;Obligaties;2004;26100.0;478.0;478.0;
+385;Niet-financiële ondernemingen;Obligaties;2005;24100.0;2715.0;2715.0;
+386;Niet-financiële ondernemingen;Obligaties;2006;22300.0;3489.0;3489.0;
+387;Niet-financiële ondernemingen;Obligaties;2007;27516.0;5248.0;5248.0;
+388;Niet-financiële ondernemingen;Obligaties;2008;26785.0;5479.0;5479.0;
+389;Niet-financiële ondernemingen;Obligaties;2009;30569.0;4892.0;4892.0;
+390;Niet-financiële ondernemingen;Obligaties;2010;31445.0;2688.0;2688.0;
+391;Niet-financiële ondernemingen;Obligaties;2011;32239.0;1934.0;1934.0;
+392;Niet-financiële ondernemingen;Obligaties;2012;32014.0;3289.0;3289.0;
+393;Niet-financiële ondernemingen;Obligaties;2013;30354.0;3289.0;3135.0;
+394;Niet-financiële ondernemingen;Obligaties;2014;26140.0;498.0;498.0;
+395;Niet-financiële ondernemingen;Obligaties;2015;27572.0;5073.0;5073.0;

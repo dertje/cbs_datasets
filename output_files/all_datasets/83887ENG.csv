@@ -1,0 +1,469 @@
+﻿ID;CostComponents;Periods;InputPriceIndices_1;ChangesComparedToOneYearEarlier_2
+0;Total building costs;2012 January;97.1;
+1;Total building costs;2012 February;97.3;
+2;Total building costs;2012 March;97.4;
+3;Total building costs;2012 April;97.6;
+4;Total building costs;2012 May;97.6;
+5;Total building costs;2012 June;97.7;
+6;Total building costs;2012 July;97.6;
+7;Total building costs;2012 August;98.0;
+8;Total building costs;2012 September;97.9;
+9;Total building costs;2012 October;97.8;
+10;Total building costs;2012 November;97.8;
+11;Total building costs;2012 December;97.7;
+12;Total building costs;2012;97.6;
+13;Total building costs;2013 January;97.8;0.8
+14;Total building costs;2013 February;98.0;0.8
+15;Total building costs;2013 March;98.0;0.6
+16;Total building costs;2013 April;97.9;0.3
+17;Total building costs;2013 May;97.9;0.3
+18;Total building costs;2013 June;97.8;0.1
+19;Total building costs;2013 July;97.6;0.1
+20;Total building costs;2013 August;97.7;-0.3
+21;Total building costs;2013 September;97.6;-0.3
+22;Total building costs;2013 October;97.6;-0.2
+23;Total building costs;2013 November;97.7;-0.1
+24;Total building costs;2013 December;97.7;-0.1
+25;Total building costs;2013;97.8;0.2
+26;Total building costs;2014 January;98.6;0.8
+27;Total building costs;2014 February;98.5;0.5
+28;Total building costs;2014 March;98.5;0.5
+29;Total building costs;2014 April;98.5;0.6
+30;Total building costs;2014 May;98.5;0.6
+31;Total building costs;2014 June;98.5;0.7
+32;Total building costs;2014 July;98.5;0.9
+33;Total building costs;2014 August;98.6;0.9
+34;Total building costs;2014 September;98.6;1.0
+35;Total building costs;2014 October;99.1;1.5
+36;Total building costs;2014 November;99.1;1.5
+37;Total building costs;2014 December;99.3;1.6
+38;Total building costs;2014;98.7;0.9
+39;Total building costs;2015 January;99.2;0.6
+40;Total building costs;2015 February;99.2;0.7
+41;Total building costs;2015 March;99.4;0.9
+42;Total building costs;2015 April;99.6;1.2
+43;Total building costs;2015 May;99.6;1.1
+44;Total building costs;2015 June;99.6;1.1
+45;Total building costs;2015 July;100.2;1.7
+46;Total building costs;2015 August;100.3;1.7
+47;Total building costs;2015 September;100.3;1.7
+48;Total building costs;2015 October;100.7;1.7
+49;Total building costs;2015 November;100.8;1.7
+50;Total building costs;2015 December;101.1;1.9
+51;Total building costs;2015;100.0;1.3
+52;Total building costs;2016 January;101.2;2.0
+53;Total building costs;2016 February;101.2;2.0
+54;Total building costs;2016 March;101.3;2.0
+55;Total building costs;2016 April;100.9;1.2
+56;Total building costs;2016 May;101.1;1.5
+57;Total building costs;2016 June;101.2;1.6
+58;Total building costs;2016 July;102.0;1.8
+59;Total building costs;2016 August;102.1;1.8
+60;Total building costs;2016 September;102.0;1.7
+61;Total building costs;2016 October;102.1;1.4
+62;Total building costs;2016 November;102.3;1.5
+63;Total building costs;2016 December;102.3;1.2
+64;Total building costs;2016;101.7;1.7
+65;Total building costs;2017 January;102.9;1.7
+66;Total building costs;2017 February;103.0;1.8
+67;Total building costs;2017 March;103.2;1.8
+68;Total building costs;2017 April;103.5;2.6
+69;Total building costs;2017 May;103.4;2.3
+70;Total building costs;2017 June;103.5;2.3
+71;Total building costs;2017 July;103.6;1.6
+72;Total building costs;2017 August;104.4;2.2
+73;Total building costs;2017 September;104.4;2.3
+74;Total building costs;2017 October;104.7;2.5
+75;Total building costs;2017 November;105.0;2.6
+76;Total building costs;2017 December;104.6;2.2
+77;Total building costs;2017;103.9;2.2
+78;Total building costs;2018 January;105.5;2.5
+79;Total building costs;2018 February;105.6;2.5
+80;Total building costs;2018 March;105.3;2.1
+81;Total building costs;2018 April;105.6;2.0
+82;Total building costs;2018 May;105.8;2.3
+83;Total building costs;2018 June;106.0;2.4
+84;Total building costs;2018 July;106.6;2.9
+85;Total building costs;2018 August;107.3;2.8
+86;Total building costs;2018 September;107.7;3.2
+87;Total building costs;2018 October;107.5;2.7
+88;Total building costs;2018 November;107.3;2.2
+89;Total building costs;2018 December;107.6;2.9
+90;Total building costs;2018;106.5;2.5
+91;Total building costs;2019 January;108.6;3.0
+92;Total building costs;2019 February;108.6;2.8
+93;Total building costs;2019 March;108.7;3.2
+94;Total building costs;2019 April;108.8;3.0
+95;Total building costs;2019 May;108.9;3.0
+96;Total building costs;2019 June;109.0;2.8
+97;Total building costs;2019 July;110.3;3.4
+98;Total building costs;2019 August;109.9;2.5
+99;Total building costs;2019 September;110.1;2.2
+100;Total building costs;2019 October;110.0;2.4
+101;Total building costs;2019 November;110.0;2.5
+102;Total building costs;2019 December;110.8;3.0
+103;Total building costs;2019;109.5;2.8
+104;Total building costs;2020 January;111.7;2.8
+105;Total building costs;2020 February;111.7;2.8
+106;Total building costs;2020 March;111.6;2.7
+107;Total building costs;2020 April;111.1;2.1
+108;Total building costs;2020 May;111.1;2.0
+109;Total building costs;2020 June;111.1;2.0
+110;Total building costs;2020 July;112.2;1.7
+111;Total building costs;2020 August;112.5;2.3
+112;Total building costs;2020 September;112.3;2.0
+113;Total building costs;2020 October;112.1;1.9
+114;Total building costs;2020 November;112.2;2.0
+115;Total building costs;2020 December;113.2;2.1
+116;Total building costs;2020;111.9;2.2
+117;Total building costs;2021 January;114.0;2.1
+118;Total building costs;2021 February;114.0;2.1
+119;Total building costs;2021 March;114.3;2.4
+120;Total building costs;2021 April;115.1;3.6
+121;Total building costs;2021 May;115.9;4.4
+122;Total building costs;2021 June;116.9;5.2
+123;Total building costs;2021 July;118.2;5.4
+124;Total building costs;2021 August;118.0;5.0
+125;Total building costs;2021 September;118.3;5.4
+126;Total building costs;2021 October;119.1;6.3
+127;Total building costs;2021 November;119.3;6.3
+128;Total building costs;2021 December;119.5;5.6
+129;Total building costs;2021;116.9;4.5
+130;Total building costs;2022 January;122.5;7.5
+131;Total building costs;2022 February;123.1;8.0
+132;Total building costs;2022 March;125.2;9.6
+133;Total building costs;2022 April;127.4;10.6
+134;Total building costs;2022 May;128.0;10.4
+135;Total building costs;2022 June;127.5;9.1
+136;Total building costs;2022 July;128.5;8.7
+137;Total building costs;2022 August;128.7;9.0
+138;Total building costs;2022 September;129.6;9.5
+139;Total building costs;2022 October;130.0;9.1
+140;Total building costs;2022 November;129.7;8.8
+141;Total building costs;2022 December;129.7;8.5
+142;Total building costs;2022;127.5;9.1
+143;Total building costs;2023 January;133.1;8.7
+144;Total building costs;2023 February;133.5;8.5
+145;Total building costs;2023 March;134.4;7.4
+146;Total building costs;2023 April;134.6;5.7
+147;Total building costs;2023 May;134.7;5.2
+148;Total building costs;2023 June;134.5;5.5
+149;Total building costs;2023 July;134.7;4.8
+150;Total building costs;2023 August;134.2;4.3
+151;Total building costs;2023 September;134.3;3.6
+152;Total building costs;2023 October;134.2;3.2
+153;Total building costs;2023 November;133.8;3.1
+154;Total building costs;2023 December;133.8;3.2
+155;Total building costs;2023;134.2;5.2
+156;Wages;2012 January;94.1;
+157;Wages;2012 February;94.5;
+158;Wages;2012 March;94.5;
+159;Wages;2012 April;95.2;
+160;Wages;2012 May;95.2;
+161;Wages;2012 June;95.2;
+162;Wages;2012 July;95.3;
+163;Wages;2012 August;96.1;
+164;Wages;2012 September;96.1;
+165;Wages;2012 October;96.1;
+166;Wages;2012 November;96.1;
+167;Wages;2012 December;96.1;
+168;Wages;2012;95.4;
+169;Wages;2013 January;96.6;2.7
+170;Wages;2013 February;97.0;2.7
+171;Wages;2013 March;97.0;2.7
+172;Wages;2013 April;97.2;2.1
+173;Wages;2013 May;97.2;2.1
+174;Wages;2013 June;97.2;2.0
+175;Wages;2013 July;97.2;2.0
+176;Wages;2013 August;97.2;1.2
+177;Wages;2013 September;97.2;1.2
+178;Wages;2013 October;97.2;1.2
+179;Wages;2013 November;97.2;1.2
+180;Wages;2013 December;97.2;1.2
+181;Wages;2013;97.1;1.8
+182;Wages;2014 January;98.9;2.3
+183;Wages;2014 February;98.9;1.9
+184;Wages;2014 March;99.0;2.0
+185;Wages;2014 April;99.0;1.8
+186;Wages;2014 May;99.0;1.8
+187;Wages;2014 June;99.0;1.8
+188;Wages;2014 July;99.0;1.8
+189;Wages;2014 August;99.0;1.8
+190;Wages;2014 September;99.0;1.8
+191;Wages;2014 October;99.6;2.5
+192;Wages;2014 November;99.6;2.5
+193;Wages;2014 December;99.6;2.5
+194;Wages;2014;99.1;2.1
+195;Wages;2015 January;99.2;0.4
+196;Wages;2015 February;99.2;0.4
+197;Wages;2015 March;99.3;0.4
+198;Wages;2015 April;99.3;0.4
+199;Wages;2015 May;99.3;0.4
+200;Wages;2015 June;99.3;0.4
+201;Wages;2015 July;100.5;1.6
+202;Wages;2015 August;100.5;1.6
+203;Wages;2015 September;100.5;1.6
+204;Wages;2015 October;100.6;1.0
+205;Wages;2015 November;100.6;1.0
+206;Wages;2015 December;101.4;1.7
+207;Wages;2015;100.0;0.9
+208;Wages;2016 January;100.9;1.7
+209;Wages;2016 February;100.9;1.7
+210;Wages;2016 March;100.9;1.6
+211;Wages;2016 April;100.9;1.6
+212;Wages;2016 May;100.9;1.6
+213;Wages;2016 June;100.9;1.6
+214;Wages;2016 July;102.3;1.7
+215;Wages;2016 August;102.3;1.7
+216;Wages;2016 September;102.4;1.8
+217;Wages;2016 October;102.4;1.7
+218;Wages;2016 November;102.4;1.7
+219;Wages;2016 December;102.4;1.0
+220;Wages;2016;101.6;1.6
+221;Wages;2017 January;103.1;2.2
+222;Wages;2017 February;103.1;2.2
+223;Wages;2017 March;103.1;2.2
+224;Wages;2017 April;103.1;2.2
+225;Wages;2017 May;103.0;2.1
+226;Wages;2017 June;103.0;2.1
+227;Wages;2017 July;103.6;1.3
+228;Wages;2017 August;104.4;2.1
+229;Wages;2017 September;104.4;2.0
+230;Wages;2017 October;104.4;2.0
+231;Wages;2017 November;104.4;2.0
+232;Wages;2017 December;104.4;2.0
+233;Wages;2017;103.7;2.0
+234;Wages;2018 January;105.2;2.0
+235;Wages;2018 February;105.2;2.0
+236;Wages;2018 March;105.2;2.0
+237;Wages;2018 April;105.2;2.0
+238;Wages;2018 May;105.2;2.1
+239;Wages;2018 June;105.2;2.1
+240;Wages;2018 July;106.2;2.6
+241;Wages;2018 August;107.4;2.9
+242;Wages;2018 September;107.4;2.9
+243;Wages;2018 October;107.5;3.0
+244;Wages;2018 November;107.5;3.0
+245;Wages;2018 December;107.5;3.0
+246;Wages;2018;106.2;2.5
+247;Wages;2019 January;107.7;2.4
+248;Wages;2019 February;107.7;2.4
+249;Wages;2019 March;107.7;2.4
+250;Wages;2019 April;107.8;2.4
+251;Wages;2019 May;107.8;2.4
+252;Wages;2019 June;108.0;2.7
+253;Wages;2019 July;110.0;3.5
+254;Wages;2019 August;110.0;2.4
+255;Wages;2019 September;110.0;2.4
+256;Wages;2019 October;110.0;2.3
+257;Wages;2019 November;110.0;2.3
+258;Wages;2019 December;111.7;3.9
+259;Wages;2019;109.0;2.6
+260;Wages;2020 January;112.3;4.3
+261;Wages;2020 February;112.3;4.3
+262;Wages;2020 March;112.3;4.3
+263;Wages;2020 April;112.3;4.3
+264;Wages;2020 May;112.4;4.3
+265;Wages;2020 June;112.5;4.2
+266;Wages;2020 July;114.4;4.0
+267;Wages;2020 August;114.4;4.0
+268;Wages;2020 September;114.4;4.0
+269;Wages;2020 October;114.4;4.0
+270;Wages;2020 November;114.4;4.0
+271;Wages;2020 December;115.4;3.3
+272;Wages;2020;113.5;4.1
+273;Wages;2021 January;114.8;2.2
+274;Wages;2021 February;114.8;2.2
+275;Wages;2021 March;115.3;2.6
+276;Wages;2021 April;115.3;2.6
+277;Wages;2021 May;115.3;2.5
+278;Wages;2021 June;115.3;2.4
+279;Wages;2021 July;115.3;0.8
+280;Wages;2021 August;114.1;-0.2
+281;Wages;2021 September;114.1;-0.2
+282;Wages;2021 October;114.5;0.1
+283;Wages;2021 November;114.5;0.1
+284;Wages;2021 December;114.5;-0.8
+285;Wages;2021;114.8;1.2
+286;Wages;2022 January;117.2;2.1
+287;Wages;2022 February;117.2;2.1
+288;Wages;2022 March;117.3;1.7
+289;Wages;2022 April;117.8;2.1
+290;Wages;2022 May;117.8;2.1
+291;Wages;2022 June;117.8;2.1
+292;Wages;2022 July;117.8;2.2
+293;Wages;2022 August;117.8;3.3
+294;Wages;2022 September;119.3;4.6
+295;Wages;2022 October;119.3;4.2
+296;Wages;2022 November;119.3;4.2
+297;Wages;2022 December;119.3;4.2
+298;Wages;2022;118.2;2.9
+299;Wages;2023 January;121.0;3.2
+300;Wages;2023 February;121.0;3.2
+301;Wages;2023 March;122.8;4.7
+302;Wages;2023 April;122.9;4.4
+303;Wages;2023 May;122.9;4.4
+304;Wages;2023 June;122.9;4.4
+305;Wages;2023 July;124.4;5.6
+306;Wages;2023 August;124.4;5.6
+307;Wages;2023 September;124.4;4.3
+308;Wages;2023 October;124.4;4.3
+309;Wages;2023 November;124.4;4.3
+310;Wages;2023 December;124.4;4.3
+311;Wages;2023;123.3;4.4
+312;Building materials;2012 January;99.9;
+313;Building materials;2012 February;100.0;
+314;Building materials;2012 March;100.2;
+315;Building materials;2012 April;100.0;
+316;Building materials;2012 May;100.0;
+317;Building materials;2012 June;100.1;
+318;Building materials;2012 July;99.8;
+319;Building materials;2012 August;99.8;
+320;Building materials;2012 September;99.8;
+321;Building materials;2012 October;99.6;
+322;Building materials;2012 November;99.5;
+323;Building materials;2012 December;99.4;
+324;Building materials;2012;99.8;
+325;Building materials;2013 January;99.0;-1.0
+326;Building materials;2013 February;99.1;-1.0
+327;Building materials;2013 March;99.0;-1.2
+328;Building materials;2013 April;98.7;-1.3
+329;Building materials;2013 May;98.6;-1.5
+330;Building materials;2013 June;98.3;-1.7
+331;Building materials;2013 July;98.1;-1.7
+332;Building materials;2013 August;98.2;-1.6
+333;Building materials;2013 September;98.0;-1.8
+334;Building materials;2013 October;98.1;-1.5
+335;Building materials;2013 November;98.2;-1.4
+336;Building materials;2013 December;98.1;-1.3
+337;Building materials;2013;98.4;-1.4
+338;Building materials;2014 January;98.4;-0.6
+339;Building materials;2014 February;98.1;-0.9
+340;Building materials;2014 March;98.0;-1.0
+341;Building materials;2014 April;98.1;-0.6
+342;Building materials;2014 May;98.0;-0.5
+343;Building materials;2014 June;98.0;-0.3
+344;Building materials;2014 July;98.1;0.1
+345;Building materials;2014 August;98.3;0.1
+346;Building materials;2014 September;98.3;0.3
+347;Building materials;2014 October;98.6;0.5
+348;Building materials;2014 November;98.6;0.5
+349;Building materials;2014 December;98.9;0.8
+350;Building materials;2014;98.3;-0.1
+351;Building materials;2015 January;99.1;0.8
+352;Building materials;2015 February;99.2;1.1
+353;Building materials;2015 March;99.4;1.4
+354;Building materials;2015 April;99.9;1.9
+355;Building materials;2015 May;99.8;1.8
+356;Building materials;2015 June;99.8;1.8
+357;Building materials;2015 July;99.9;1.8
+358;Building materials;2015 August;100.1;1.8
+359;Building materials;2015 September;100.0;1.8
+360;Building materials;2015 October;100.9;2.3
+361;Building materials;2015 November;100.9;2.3
+362;Building materials;2015 December;100.9;2.0
+363;Building materials;2015;100.0;1.7
+364;Building materials;2016 January;101.6;2.4
+365;Building materials;2016 February;101.5;2.4
+366;Building materials;2016 March;101.8;2.4
+367;Building materials;2016 April;100.9;1.0
+368;Building materials;2016 May;101.3;1.5
+369;Building materials;2016 June;101.5;1.7
+370;Building materials;2016 July;101.7;1.9
+371;Building materials;2016 August;102.0;1.9
+372;Building materials;2016 September;101.7;1.7
+373;Building materials;2016 October;101.9;1.0
+374;Building materials;2016 November;102.3;1.3
+375;Building materials;2016 December;102.3;1.4
+376;Building materials;2016;101.7;1.7
+377;Building materials;2017 January;102.7;1.2
+378;Building materials;2017 February;102.9;1.4
+379;Building materials;2017 March;103.3;1.5
+380;Building materials;2017 April;104.0;3.0
+381;Building materials;2017 May;103.7;2.4
+382;Building materials;2017 June;104.0;2.4
+383;Building materials;2017 July;103.7;1.9
+384;Building materials;2017 August;104.3;2.3
+385;Building materials;2017 September;104.4;2.6
+386;Building materials;2017 October;105.0;3.1
+387;Building materials;2017 November;105.6;3.3
+388;Building materials;2017 December;104.8;2.4
+389;Building materials;2017;104.0;2.3
+390;Building materials;2018 January;105.8;2.9
+391;Building materials;2018 February;106.0;3.0
+392;Building materials;2018 March;105.5;2.2
+393;Building materials;2018 April;106.1;2.0
+394;Building materials;2018 May;106.3;2.5
+395;Building materials;2018 June;106.8;2.8
+396;Building materials;2018 July;107.0;3.2
+397;Building materials;2018 August;107.2;2.8
+398;Building materials;2018 September;108.1;3.5
+399;Building materials;2018 October;107.5;2.4
+400;Building materials;2018 November;107.2;1.4
+401;Building materials;2018 December;107.8;2.9
+402;Building materials;2018;106.8;2.6
+403;Building materials;2019 January;109.5;3.6
+404;Building materials;2019 February;109.5;3.3
+405;Building materials;2019 March;109.8;4.1
+406;Building materials;2019 April;109.9;3.6
+407;Building materials;2019 May;110.0;3.5
+408;Building materials;2019 June;109.9;2.9
+409;Building materials;2019 July;110.6;3.4
+410;Building materials;2019 August;109.9;2.5
+411;Building materials;2019 September;110.2;2.0
+412;Building materials;2019 October;110.1;2.5
+413;Building materials;2019 November;110.1;2.7
+414;Building materials;2019 December;110.0;2.1
+415;Building materials;2019;110.0;3.0
+416;Building materials;2020 January;111.0;1.4
+417;Building materials;2020 February;111.1;1.4
+418;Building materials;2020 March;111.0;1.1
+419;Building materials;2020 April;110.0;0.1
+420;Building materials;2020 May;109.8;-0.2
+421;Building materials;2020 June;109.8;-0.1
+422;Building materials;2020 July;110.1;-0.5
+423;Building materials;2020 August;110.6;0.6
+424;Building materials;2020 September;110.3;0.1
+425;Building materials;2020 October;109.9;-0.2
+426;Building materials;2020 November;110.2;0.1
+427;Building materials;2020 December;111.1;1.0
+428;Building materials;2020;110.4;0.4
+429;Building materials;2021 January;113.2;1.9
+430;Building materials;2021 February;113.3;2.0
+431;Building materials;2021 March;113.4;2.1
+432;Building materials;2021 April;115.1;4.6
+433;Building materials;2021 May;116.6;6.2
+434;Building materials;2021 June;118.5;7.9
+435;Building materials;2021 July;121.1;10.1
+436;Building materials;2021 August;121.9;10.2
+437;Building materials;2021 September;122.5;11.1
+438;Building materials;2021 October;123.7;12.5
+439;Building materials;2021 November;124.0;12.5
+440;Building materials;2021 December;124.5;12.1
+441;Building materials;2021;119.0;7.8
+442;Building materials;2022 January;127.6;12.8
+443;Building materials;2022 February;128.9;13.8
+444;Building materials;2022 March;132.9;17.3
+445;Building materials;2022 April;136.7;18.9
+446;Building materials;2022 May;138.0;18.4
+447;Building materials;2022 June;137.0;15.6
+448;Building materials;2022 July;138.9;14.7
+449;Building materials;2022 August;139.2;14.2
+450;Building materials;2022 September;139.6;14.0
+451;Building materials;2022 October;140.4;13.5
+452;Building materials;2022 November;139.9;12.8
+453;Building materials;2022 December;139.8;12.3
+454;Building materials;2022;136.6;14.8
+455;Building materials;2023 January;144.9;13.5
+456;Building materials;2023 February;145.7;13.1
+457;Building materials;2023 March;145.8;9.7
+458;Building materials;2023 April;146.1;6.8
+459;Building materials;2023 May;146.1;5.8
+460;Building materials;2023 June;145.8;6.4
+461;Building materials;2023 July;144.7;4.1
+462;Building materials;2023 August;143.8;3.3
+463;Building materials;2023 September;144.0;3.1
+464;Building materials;2023 October;143.7;2.3
+465;Building materials;2023 November;143.0;2.2
+466;Building materials;2023 December;143.1;2.3
+467;Building materials;2023;144.7;5.9

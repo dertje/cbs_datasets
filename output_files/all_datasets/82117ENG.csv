@@ -1,0 +1,281 @@
+﻿ID;SectorBranchSIC2008;Periods;NaturalGasDelivered_1;ElectricityDelivered_2
+0;F Construction;2010;174;1009
+1;F Construction;2011;141;941
+2;F Construction;2012;158;898
+3;F Construction;2013;160;944
+4;F Construction;2014;129;867
+5;F Construction;2015;135;878
+6;F Construction;2016;130;890
+7;F Construction;2017;152;954
+8;F Construction;2018;156;943
+9;F Construction;2019;123;897
+10;F Construction;2020;90;955
+11;F Construction;2021;100;1014
+12;F Construction;2022;79;1006
+13;F Construction;2023;76;978
+14;G-I Trade, transport, hotels, catering;2010;2023;17053
+15;G-I Trade, transport, hotels, catering;2011;1618;16954
+16;G-I Trade, transport, hotels, catering;2012;1823;16853
+17;G-I Trade, transport, hotels, catering;2013;1877;17090
+18;G-I Trade, transport, hotels, catering;2014;1492;16665
+19;G-I Trade, transport, hotels, catering;2015;1613;16954
+20;G-I Trade, transport, hotels, catering;2016;1649;16928
+21;G-I Trade, transport, hotels, catering;2017;1691;17228
+22;G-I Trade, transport, hotels, catering;2018;1687;17469
+23;G-I Trade, transport, hotels, catering;2019;1601;17080
+24;G-I Trade, transport, hotels, catering;2020;1402;16365
+25;G-I Trade, transport, hotels, catering;2021;1498;16397
+26;G-I Trade, transport, hotels, catering;2022;1253;16847
+27;G-I Trade, transport, hotels, catering;2023;1166;16712
+28;G Wholesale and retail trade;2010;1156;9247
+29;G Wholesale and retail trade;2011;865;9209
+30;G Wholesale and retail trade;2012;938;8977
+31;G Wholesale and retail trade;2013;959;9082
+32;G Wholesale and retail trade;2014;726;8766
+33;G Wholesale and retail trade;2015;788;8880
+34;G Wholesale and retail trade;2016;810;8721
+35;G Wholesale and retail trade;2017;856;8777
+36;G Wholesale and retail trade;2018;806;8543
+37;G Wholesale and retail trade;2019;733;8167
+38;G Wholesale and retail trade;2020;645;7894
+39;G Wholesale and retail trade;2021;711;7782
+40;G Wholesale and retail trade;2022;574;7715
+41;G Wholesale and retail trade;2023;491;7561
+42;H Transportation and storage;2010;321;4923
+43;H Transportation and storage;2011;315;4826
+44;H Transportation and storage;2012;346;4873
+45;H Transportation and storage;2013;358;4934
+46;H Transportation and storage;2014;312;4851
+47;H Transportation and storage;2015;326;4953
+48;H Transportation and storage;2016;318;5055
+49;H Transportation and storage;2017;323;5341
+50;H Transportation and storage;2018;366;5645
+51;H Transportation and storage;2019;365;5609
+52;H Transportation and storage;2020;312;5471
+53;H Transportation and storage;2021;319;5645
+54;H Transportation and storage;2022;252;5894
+55;H Transportation and storage;2023;270;5894
+56;I Accommodation and food serving;2010;546;2884
+57;I Accommodation and food serving;2011;439;2919
+58;I Accommodation and food serving;2012;539;3002
+59;I Accommodation and food serving;2013;561;3074
+60;I Accommodation and food serving;2014;453;3048
+61;I Accommodation and food serving;2015;498;3121
+62;I Accommodation and food serving;2016;522;3152
+63;I Accommodation and food serving;2017;512;3109
+64;I Accommodation and food serving;2018;514;3281
+65;I Accommodation and food serving;2019;503;3304
+66;I Accommodation and food serving;2020;444;3001
+67;I Accommodation and food serving;2021;468;2969
+68;I Accommodation and food serving;2022;427;3238
+69;I Accommodation and food serving;2023;406;3257
+70;J Information and communication;2010;131;2709
+71;J Information and communication;2011;98;2779
+72;J Information and communication;2012;103;2713
+73;J Information and communication;2013;86;2681
+74;J Information and communication;2014;71;2700
+75;J Information and communication;2015;81;2736
+76;J Information and communication;2016;77;2758
+77;J Information and communication;2017;51;2829
+78;J Information and communication;2018;49;3630
+79;J Information and communication;2019;43;4042
+80;J Information and communication;2020;38;4408
+81;J Information and communication;2021;41;4876
+82;J Information and communication;2022;33;5399
+83;J Information and communication;2023;29;5551
+84;K-L Financial services and real estate;2010;420;3422
+85;K-L Financial services and real estate;2011;315;3276
+86;K-L Financial services and real estate;2012;342;2884
+87;K-L Financial services and real estate;2013;324;2833
+88;K-L Financial services and real estate;2014;252;2730
+89;K-L Financial services and real estate;2015;274;2653
+90;K-L Financial services and real estate;2016;284;2779
+91;K-L Financial services and real estate;2017;309;2848
+92;K-L Financial services and real estate;2018;269;2457
+93;K-L Financial services and real estate;2019;236;2281
+94;K-L Financial services and real estate;2020;206;2149
+95;K-L Financial services and real estate;2021;227;2102
+96;K-L Financial services and real estate;2022;182;2084
+97;K-L Financial services and real estate;2023;158;2029
+98;K Financial institutions;2010;190;1858
+99;K Financial institutions;2011;145;1787
+100;K Financial institutions;2012;169;1672
+101;K Financial institutions;2013;164;1652
+102;K Financial institutions;2014;126;1553
+103;K Financial institutions;2015;142;1531
+104;K Financial institutions;2016;145;1525
+105;K Financial institutions;2017;154;1518
+106;K Financial institutions;2018;145;1382
+107;K Financial institutions;2019;125;1279
+108;K Financial institutions;2020;105;1181
+109;K Financial institutions;2021;114;1123
+110;K Financial institutions;2022;91;1108
+111;K Financial institutions;2023;78;1065
+112;L Renting, buying, selling real estate;2010;230;1564
+113;L Renting, buying, selling real estate;2011;170;1490
+114;L Renting, buying, selling real estate;2012;173;1212
+115;L Renting, buying, selling real estate;2013;160;1181
+116;L Renting, buying, selling real estate;2014;126;1177
+117;L Renting, buying, selling real estate;2015;132;1122
+118;L Renting, buying, selling real estate;2016;139;1254
+119;L Renting, buying, selling real estate;2017;155;1329
+120;L Renting, buying, selling real estate;2018;124;1075
+121;L Renting, buying, selling real estate;2019;111;1002
+122;L Renting, buying, selling real estate;2020;101;967
+123;L Renting, buying, selling real estate;2021;113;979
+124;L Renting, buying, selling real estate;2022;91;976
+125;L Renting, buying, selling real estate;2023;80;965
+126;M-N Business services;2010;331;2066
+127;M-N Business services;2011;247;2013
+128;M-N Business services;2012;269;1931
+129;M-N Business services;2013;267;1930
+130;M-N Business services;2014;207;1834
+131;M-N Business services;2015;229;1841
+132;M-N Business services;2016;240;1905
+133;M-N Business services;2017;256;2025
+134;M-N Business services;2018;255;2123
+135;M-N Business services;2019;234;2063
+136;M-N Business services;2020;208;2009
+137;M-N Business services;2021;241;2067
+138;M-N Business services;2022;199;2086
+139;M-N Business services;2023;200;2086
+140;M Other specialised business services;2010;222;1272
+141;M Other specialised business services;2011;166;1255
+142;M Other specialised business services;2012;180;1210
+143;M Other specialised business services;2013;168;1199
+144;M Other specialised business services;2014;130;1138
+145;M Other specialised business services;2015;149;1163
+146;M Other specialised business services;2016;154;1191
+147;M Other specialised business services;2017;170;1289
+148;M Other specialised business services;2018;174;1438
+149;M Other specialised business services;2019;163;1426
+150;M Other specialised business services;2020;148;1421
+151;M Other specialised business services;2021;172;1487
+152;M Other specialised business services;2022;143;1523
+153;M Other specialised business services;2023;151;1554
+154;N Renting and other business support;2010;109;794
+155;N Renting and other business support;2011;81;758
+156;N Renting and other business support;2012;89;721
+157;N Renting and other business support;2013;98;730
+158;N Renting and other business support;2014;76;696
+159;N Renting and other business support;2015;80;678
+160;N Renting and other business support;2016;86;714
+161;N Renting and other business support;2017;86;736
+162;N Renting and other business support;2018;80;686
+163;N Renting and other business support;2019;72;636
+164;N Renting and other business support;2020;59;589
+165;N Renting and other business support;2021;69;581
+166;N Renting and other business support;2022;56;562
+167;N Renting and other business support;2023;49;532
+168;O-Q Government and care;2010;1901;8729
+169;O-Q Government and care;2011;1502;8944
+170;O-Q Government and care;2012;1741;8926
+171;O-Q Government and care;2013;1691;8761
+172;O-Q Government and care;2014;1362;8534
+173;O-Q Government and care;2015;1453;8750
+174;O-Q Government and care;2016;1408;8482
+175;O-Q Government and care;2017;1362;8366
+176;O-Q Government and care;2018;1310;8166
+177;O-Q Government and care;2019;1197;7806
+178;O-Q Government and care;2020;1088;7452
+179;O-Q Government and care;2021;1193;7466
+180;O-Q Government and care;2022;1009;7405
+181;O-Q Government and care;2023;947;7407
+182;O Public administration and services;2010;559;4037
+183;O Public administration and services;2011;423;4003
+184;O Public administration and services;2012;470;3941
+185;O Public administration and services;2013;372;3592
+186;O Public administration and services;2014;302;3518
+187;O Public administration and services;2015;334;3694
+188;O Public administration and services;2016;305;3472
+189;O Public administration and services;2017;325;3473
+190;O Public administration and services;2018;263;3189
+191;O Public administration and services;2019;236;3018
+192;O Public administration and services;2020;198;2814
+193;O Public administration and services;2021;217;2787
+194;O Public administration and services;2022;184;2747
+195;O Public administration and services;2023;176;2850
+196;P Education;2010;439;1620
+197;P Education;2011;334;1676
+198;P Education;2012;371;1621
+199;P Education;2013;381;1664
+200;P Education;2014;291;1611
+201;P Education;2015;301;1590
+202;P Education;2016;324;1649
+203;P Education;2017;288;1531
+204;P Education;2018;302;1491
+205;P Education;2019;284;1450
+206;P Education;2020;265;1420
+207;P Education;2021;307;1457
+208;P Education;2022;248;1487
+209;P Education;2023;229;1476
+210;Q Health and social work activities;2010;904;3072
+211;Q Health and social work activities;2011;745;3265
+212;Q Health and social work activities;2012;900;3364
+213;Q Health and social work activities;2013;938;3504
+214;Q Health and social work activities;2014;769;3405
+215;Q Health and social work activities;2015;819;3466
+216;Q Health and social work activities;2016;779;3361
+217;Q Health and social work activities;2017;749;3362
+218;Q Health and social work activities;2018;745;3486
+219;Q Health and social work activities;2019;677;3338
+220;Q Health and social work activities;2020;625;3218
+221;Q Health and social work activities;2021;669;3223
+222;Q Health and social work activities;2022;577;3170
+223;Q Health and social work activities;2023;542;3081
+224;R-U Culture, recreation, other services;2010;577;2210
+225;R-U Culture, recreation, other services;2011;466;2185
+226;R-U Culture, recreation, other services;2012;501;2171
+227;R-U Culture, recreation, other services;2013;537;2273
+228;R-U Culture, recreation, other services;2014;427;2194
+229;R-U Culture, recreation, other services;2015;473;2312
+230;R-U Culture, recreation, other services;2016;472;2282
+231;R-U Culture, recreation, other services;2017;441;2209
+232;R-U Culture, recreation, other services;2018;422;2131
+233;R-U Culture, recreation, other services;2019;388;2031
+234;R-U Culture, recreation, other services;2020;349;1817
+235;R-U Culture, recreation, other services;2021;370;1752
+236;R-U Culture, recreation, other services;2022;330;1862
+237;R-U Culture, recreation, other services;2023;303;1820
+238;R Culture, sports and recreation;2010;306;1520
+239;R Culture, sports and recreation;2011;246;1494
+240;R Culture, sports and recreation;2012;264;1484
+241;R Culture, sports and recreation;2013;296;1585
+242;R Culture, sports and recreation;2014;234;1530
+243;R Culture, sports and recreation;2015;258;1603
+244;R Culture, sports and recreation;2016;254;1583
+245;R Culture, sports and recreation;2017;236;1505
+246;R Culture, sports and recreation;2018;223;1491
+247;R Culture, sports and recreation;2019;205;1439
+248;R Culture, sports and recreation;2020;193;1292
+249;R Culture, sports and recreation;2021;206;1251
+250;R Culture, sports and recreation;2022;181;1349
+251;R Culture, sports and recreation;2023;167;1320
+252;S Other service activities;2010;264;664
+253;S Other service activities;2011;214;666
+254;S Other service activities;2012;230;660
+255;S Other service activities;2013;232;636
+256;S Other service activities;2014;188;614
+257;S Other service activities;2015;207;657
+258;S Other service activities;2016;210;646
+259;S Other service activities;2017;198;653
+260;S Other service activities;2018;192;584
+261;S Other service activities;2019;175;541
+262;S Other service activities;2020;149;477
+263;S Other service activities;2021;158;454
+264;S Other service activities;2022;143;470
+265;S Other service activities;2023;130;460
+266;U Extraterritorial organisations;2010;7;26
+267;U Extraterritorial organisations;2011;6;25
+268;U Extraterritorial organisations;2012;6;27
+269;U Extraterritorial organisations;2013;9;52
+270;U Extraterritorial organisations;2014;6;50
+271;U Extraterritorial organisations;2015;8;52
+272;U Extraterritorial organisations;2016;8;52
+273;U Extraterritorial organisations;2017;8;51
+274;U Extraterritorial organisations;2018;7;56
+275;U Extraterritorial organisations;2019;7;51
+276;U Extraterritorial organisations;2020;6;48
+277;U Extraterritorial organisations;2021;7;46
+278;U Extraterritorial organisations;2022;6;43
+279;U Extraterritorial organisations;2023;5;40

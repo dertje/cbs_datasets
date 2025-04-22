@@ -1,0 +1,361 @@
+﻿ID;VehicleCategory;YearOfConstructionOfVehicle;RoadType;CO_1;VOC_2;NOx_3;PM10_4
+0;Total;Years of construction 1999 and older;Urban roads;8.22;1.04;1.1;0.089
+1;Total;Years of construction 1999 and older;Rural roads;3.82;0.39;0.79;0.051
+2;Total;Years of construction 1999 and older;Motorways;3.6;0.27;1.22;0.06
+3;Total;2000;Urban roads;3.52;0.5;1.03;0.049
+4;Total;2000;Rural roads;2.29;0.16;0.54;0.023
+5;Total;2000;Motorways;1.44;0.05;1.06;0.05
+6;Total;2001;Urban roads;2.7;0.5;1.04;0.04
+7;Total;2001;Rural roads;1.96;0.15;0.59;0.018
+8;Total;2001;Motorways;1.09;0.05;1.23;0.042
+9;Total;2002;Urban roads;2.69;0.53;1.05;0.04
+10;Total;2002;Rural roads;1.89;0.15;0.59;0.018
+11;Total;2002;Motorways;1.06;0.05;1.18;0.04
+12;Total;2003;Urban roads;2.57;0.61;1.23;0.045
+13;Total;2003;Rural roads;1.81;0.15;0.62;0.018
+14;Total;2003;Motorways;0.91;0.04;1.12;0.041
+15;Total;2004;Urban roads;2.39;0.61;1.29;0.049
+16;Total;2004;Rural roads;1.62;0.14;0.68;0.02
+17;Total;2004;Motorways;0.82;0.04;1.21;0.045
+18;Total;2005;Urban roads;2.13;0.58;1.09;0.031
+19;Total;2005;Rural roads;1.51;0.13;0.56;0.014
+20;Total;2005;Motorways;0.75;0.03;0.98;0.031
+21;Total;2006;Urban roads;2.26;0.57;1.15;0.027
+22;Total;2006;Rural roads;1.65;0.14;0.72;0.015
+23;Total;2006;Motorways;0.71;0.02;0.74;0.025
+24;Total;2007;Urban roads;2.11;0.54;0.96;0.027
+25;Total;2007;Rural roads;1.53;0.13;0.56;0.015
+26;Total;2007;Motorways;0.65;0.01;0.53;0.026
+27;Total;2008;Urban roads;2.08;0.49;0.99;0.027
+28;Total;2008;Rural roads;1.57;0.13;0.58;0.015
+29;Total;2008;Motorways;0.69;0.01;0.55;0.025
+30;Passenger car-petrol;Years of construction 1999 and older;Urban roads;9.06;0.99;0.65;0.015
+31;Passenger car-petrol;Years of construction 1999 and older;Rural roads;4.48;0.4;0.49;0.008
+32;Passenger car-petrol;Years of construction 1999 and older;Motorways;3.73;0.24;0.8;0.008
+33;Passenger car-petrol;2000;Urban roads;4.53;0.43;0.23;0.008
+34;Passenger car-petrol;2000;Rural roads;3.6;0.21;0.1;0.002
+35;Passenger car-petrol;2000;Motorways;2.24;0.02;0.08;0.002
+36;Passenger car-petrol;2001;Urban roads;3.33;0.43;0.12;0.006
+37;Passenger car-petrol;2001;Rural roads;3.17;0.21;0.06;0.002
+38;Passenger car-petrol;2001;Motorways;1.57;0.01;0.03;0.002
+39;Passenger car-petrol;2002;Urban roads;3.33;0.43;0.12;0.006
+40;Passenger car-petrol;2002;Rural roads;3.17;0.21;0.06;0.002
+41;Passenger car-petrol;2002;Motorways;1.57;0.01;0.03;0.002
+42;Passenger car-petrol;2003;Urban roads;2.89;0.41;0.1;0.006
+43;Passenger car-petrol;2003;Rural roads;2.92;0.2;0.04;0.002
+44;Passenger car-petrol;2003;Motorways;1.44;0.01;0.02;0.002
+45;Passenger car-petrol;2004;Urban roads;2.67;0.41;0.09;0.007
+46;Passenger car-petrol;2004;Rural roads;2.79;0.2;0.03;0.002
+47;Passenger car-petrol;2004;Motorways;1.38;0.01;0.02;0.002
+48;Passenger car-petrol;2005;Urban roads;2.45;0.4;0.07;0.007
+49;Passenger car-petrol;2005;Rural roads;2.67;0.19;0.02;0.002
+50;Passenger car-petrol;2005;Motorways;1.31;0.01;0.01;0.002
+51;Passenger car-petrol;2006;Urban roads;2.45;0.4;0.07;0.007
+52;Passenger car-petrol;2006;Rural roads;2.67;0.19;0.02;0.002
+53;Passenger car-petrol;2006;Motorways;1.31;0.01;0.01;0.002
+54;Passenger car-petrol;2007;Urban roads;2.45;0.4;0.07;0.007
+55;Passenger car-petrol;2007;Rural roads;2.67;0.19;0.02;0.002
+56;Passenger car-petrol;2007;Motorways;1.31;0.01;0.01;0.002
+57;Passenger car-petrol;2008;Urban roads;2.45;0.4;0.07;0.007
+58;Passenger car-petrol;2008;Rural roads;2.67;0.19;0.02;0.002
+59;Passenger car-petrol;2008;Motorways;1.31;0.01;0.01;0.002
+60;Passenger car-diesel;Years of construction 1999 and older;Urban roads;1.22;0.24;0.89;0.234
+61;Passenger car-diesel;Years of construction 1999 and older;Rural roads;0.39;0.09;0.55;0.112
+62;Passenger car-diesel;Years of construction 1999 and older;Motorways;0.31;0.07;0.65;0.138
+63;Passenger car-diesel;2000;Urban roads;0.73;0.11;0.96;0.087
+64;Passenger car-diesel;2000;Rural roads;0.21;0.03;0.55;0.036
+65;Passenger car-diesel;2000;Motorways;0.04;0.01;0.52;0.082
+66;Passenger car-diesel;2001;Urban roads;0.6;0.05;0.89;0.06
+67;Passenger car-diesel;2001;Rural roads;0.17;0.01;0.55;0.026
+68;Passenger car-diesel;2001;Motorways;0.01;0.0;0.54;0.058
+69;Passenger car-diesel;2002;Urban roads;0.6;0.05;0.89;0.06
+70;Passenger car-diesel;2002;Rural roads;0.17;0.01;0.55;0.026
+71;Passenger car-diesel;2002;Motorways;0.01;0.0;0.54;0.058
+72;Passenger car-diesel;2003;Urban roads;0.6;0.05;0.89;0.06
+73;Passenger car-diesel;2003;Rural roads;0.17;0.01;0.55;0.026
+74;Passenger car-diesel;2003;Motorways;0.01;0.0;0.54;0.058
+75;Passenger car-diesel;2004;Urban roads;0.6;0.05;0.89;0.06
+76;Passenger car-diesel;2004;Rural roads;0.17;0.01;0.55;0.026
+77;Passenger car-diesel;2004;Motorways;0.01;0.0;0.54;0.058
+78;Passenger car-diesel;2005;Urban roads;0.25;0.02;0.51;0.02
+79;Passenger car-diesel;2005;Rural roads;0.14;0.01;0.38;0.012
+80;Passenger car-diesel;2005;Motorways;0.03;0.0;0.39;0.028
+81;Passenger car-diesel;2006;Urban roads;0.25;0.02;0.51;0.02
+82;Passenger car-diesel;2006;Rural roads;0.14;0.01;0.38;0.012
+83;Passenger car-diesel;2006;Motorways;0.03;0.0;0.39;0.028
+84;Passenger car-diesel;2007;Urban roads;0.25;0.02;0.51;0.02
+85;Passenger car-diesel;2007;Rural roads;0.14;0.01;0.38;0.012
+86;Passenger car-diesel;2007;Motorways;0.03;0.0;0.39;0.028
+87;Passenger car-diesel;2008;Urban roads;0.25;0.02;0.51;0.02
+88;Passenger car-diesel;2008;Rural roads;0.14;0.01;0.38;0.012
+89;Passenger car-diesel;2008;Motorways;0.03;0.0;0.39;0.028
+90;Passenger car-LPG;Years of construction 1999 and older;Urban roads;7.38;0.92;0.87;0.013
+91;Passenger car-LPG;Years of construction 1999 and older;Rural roads;3.78;0.41;0.61;0.008
+92;Passenger car-LPG;Years of construction 1999 and older;Motorways;1.35;0.25;0.78;0.008
+93;Passenger car-LPG;2000;Urban roads;5.0;0.51;0.43;0.007
+94;Passenger car-LPG;2000;Rural roads;2.85;0.19;0.27;0.003
+95;Passenger car-LPG;2000;Motorways;1.16;0.02;0.31;0.003
+96;Passenger car-LPG;2001;Urban roads;2.58;0.4;0.39;0.005
+97;Passenger car-LPG;2001;Rural roads;2.57;0.17;0.2;0.002
+98;Passenger car-LPG;2001;Motorways;1.0;0.01;0.15;0.002
+99;Passenger car-LPG;2002;Urban roads;2.58;0.4;0.39;0.005
+100;Passenger car-LPG;2002;Rural roads;2.57;0.17;0.2;0.002
+101;Passenger car-LPG;2002;Motorways;1.0;0.01;0.15;0.002
+102;Passenger car-LPG;2003;Urban roads;2.25;0.4;0.27;0.005
+103;Passenger car-LPG;2003;Rural roads;2.19;0.16;0.13;0.002
+104;Passenger car-LPG;2003;Motorways;0.9;0.01;0.09;0.002
+105;Passenger car-LPG;2004;Urban roads;2.09;0.4;0.21;0.005
+106;Passenger car-LPG;2004;Rural roads;2.01;0.15;0.1;0.002
+107;Passenger car-LPG;2004;Motorways;0.85;0.01;0.05;0.002
+108;Passenger car-LPG;2005;Urban roads;1.92;0.39;0.15;0.005
+109;Passenger car-LPG;2005;Rural roads;1.82;0.15;0.06;0.002
+110;Passenger car-LPG;2005;Motorways;0.8;0.01;0.02;0.002
+111;Passenger car-LPG;2006;Urban roads;1.92;0.39;0.15;0.005
+112;Passenger car-LPG;2006;Rural roads;1.82;0.15;0.06;0.002
+113;Passenger car-LPG;2006;Motorways;0.8;0.01;0.02;0.002
+114;Passenger car-LPG;2007;Urban roads;1.92;0.39;0.15;0.005
+115;Passenger car-LPG;2007;Rural roads;1.82;0.15;0.06;0.002
+116;Passenger car-LPG;2007;Motorways;0.8;0.01;0.02;0.002
+117;Passenger car-LPG;2008;Urban roads;1.92;0.39;0.15;0.005
+118;Passenger car-LPG;2008;Rural roads;1.82;0.15;0.06;0.002
+119;Passenger car-LPG;2008;Motorways;0.8;0.01;0.02;0.002
+120;Delivery van-petrol;Years of construction 1999 and older;Urban roads;10.76;1.55;1.26;0.023
+121;Delivery van-petrol;Years of construction 1999 and older;Rural roads;6.99;0.65;1.27;0.013
+122;Delivery van-petrol;Years of construction 1999 and older;Motorways;5.0;0.44;1.8;0.014
+123;Delivery van-petrol;2000;Urban roads;2.83;0.23;0.2;0.006
+124;Delivery van-petrol;2000;Rural roads;1.34;0.04;0.12;0.003
+125;Delivery van-petrol;2000;Motorways;1.3;0.04;0.06;0.003
+126;Delivery van-petrol;2001;Urban roads;1.78;0.22;0.1;0.004
+127;Delivery van-petrol;2001;Rural roads;0.94;0.02;0.02;0.001
+128;Delivery van-petrol;2001;Motorways;0.63;0.01;0.04;0.001
+129;Delivery van-petrol;2002;Urban roads;1.78;0.22;0.1;0.004
+130;Delivery van-petrol;2002;Rural roads;0.94;0.02;0.02;0.001
+131;Delivery van-petrol;2002;Motorways;0.63;0.01;0.04;0.001
+132;Delivery van-petrol;2003;Urban roads;1.58;0.21;0.08;0.004
+133;Delivery van-petrol;2003;Rural roads;0.59;0.01;0.03;0.001
+134;Delivery van-petrol;2003;Motorways;0.54;0.01;0.03;0.001
+135;Delivery van-petrol;2004;Urban roads;1.47;0.21;0.07;0.004
+136;Delivery van-petrol;2004;Rural roads;0.42;0.01;0.04;0.001
+137;Delivery van-petrol;2004;Motorways;0.5;0.01;0.03;0.001
+138;Delivery van-petrol;2005;Urban roads;1.37;0.2;0.07;0.004
+139;Delivery van-petrol;2005;Rural roads;0.25;0.01;0.04;0.002
+140;Delivery van-petrol;2005;Motorways;0.46;0.01;0.02;0.002
+141;Delivery van-petrol;2006;Urban roads;1.37;0.2;0.07;0.004
+142;Delivery van-petrol;2006;Rural roads;0.25;0.01;0.04;0.002
+143;Delivery van-petrol;2006;Motorways;0.46;0.01;0.02;0.002
+144;Delivery van-petrol;2007;Urban roads;1.37;0.2;0.07;0.004
+145;Delivery van-petrol;2007;Rural roads;0.25;0.01;0.04;0.002
+146;Delivery van-petrol;2007;Motorways;0.46;0.01;0.02;0.002
+147;Delivery van-petrol;2008;Urban roads;1.37;0.2;0.07;0.004
+148;Delivery van-petrol;2008;Rural roads;0.25;0.01;0.04;0.002
+149;Delivery van-petrol;2008;Motorways;0.46;0.01;0.02;0.002
+150;Delivery van-diesel;Years of construction 1999 and older;Urban roads;1.77;0.3;1.53;0.352
+151;Delivery van-diesel;Years of construction 1999 and older;Rural roads;0.4;0.19;1.01;0.185
+152;Delivery van-diesel;Years of construction 1999 and older;Motorways;0.37;0.18;1.41;0.208
+153;Delivery van-diesel;2000;Urban roads;0.72;0.12;1.37;0.125
+154;Delivery van-diesel;2000;Rural roads;0.08;0.04;0.76;0.063
+155;Delivery van-diesel;2000;Motorways;0.08;0.03;0.89;0.109
+156;Delivery van-diesel;2001;Urban roads;0.51;0.05;1.27;0.099
+157;Delivery van-diesel;2001;Rural roads;0.02;0.01;0.79;0.042
+158;Delivery van-diesel;2001;Motorways;0.05;0.02;0.78;0.096
+159;Delivery van-diesel;2002;Urban roads;0.51;0.05;1.27;0.099
+160;Delivery van-diesel;2002;Rural roads;0.02;0.01;0.79;0.042
+161;Delivery van-diesel;2002;Motorways;0.05;0.02;0.78;0.096
+162;Delivery van-diesel;2003;Urban roads;0.51;0.05;1.27;0.099
+163;Delivery van-diesel;2003;Rural roads;0.02;0.01;0.79;0.042
+164;Delivery van-diesel;2003;Motorways;0.05;0.02;0.78;0.096
+165;Delivery van-diesel;2004;Urban roads;0.51;0.05;1.27;0.099
+166;Delivery van-diesel;2004;Rural roads;0.02;0.01;0.79;0.042
+167;Delivery van-diesel;2004;Motorways;0.05;0.02;0.78;0.096
+168;Delivery van-diesel;2005;Urban roads;0.15;0.02;0.73;0.062
+169;Delivery van-diesel;2005;Rural roads;0.02;0.0;0.54;0.035
+170;Delivery van-diesel;2005;Motorways;0.07;0.01;0.57;0.087
+171;Delivery van-diesel;2006;Urban roads;0.15;0.02;0.73;0.062
+172;Delivery van-diesel;2006;Rural roads;0.02;0.0;0.54;0.035
+173;Delivery van-diesel;2006;Motorways;0.07;0.01;0.57;0.087
+174;Delivery van-diesel;2007;Urban roads;0.15;0.02;0.73;0.062
+175;Delivery van-diesel;2007;Rural roads;0.02;0.0;0.54;0.035
+176;Delivery van-diesel;2007;Motorways;0.07;0.01;0.57;0.087
+177;Delivery van-diesel;2008;Urban roads;0.15;0.02;0.73;0.062
+178;Delivery van-diesel;2008;Rural roads;0.02;0.0;0.54;0.035
+179;Delivery van-diesel;2008;Motorways;0.07;0.01;0.57;0.087
+180;Delivery van-LPG;Years of construction 1999 and older;Urban roads;10.54;1.22;1.44;0.01
+181;Delivery van-LPG;Years of construction 1999 and older;Rural roads;9.82;0.59;1.39;0.006
+182;Delivery van-LPG;Years of construction 1999 and older;Motorways;3.44;0.48;2.12;0.007
+183;Delivery van-LPG;2000;Urban roads;6.05;0.4;0.46;0.005
+184;Delivery van-LPG;2000;Rural roads;6.01;0.06;0.4;0.003
+185;Delivery van-LPG;2000;Motorways;2.73;0.06;0.46;0.003
+186;Delivery van-LPG;2001;Urban roads;1.69;0.28;0.35;0.003
+187;Delivery van-LPG;2001;Rural roads;1.17;0.06;0.29;0.002
+188;Delivery van-LPG;2001;Motorways;2.0;0.03;0.19;0.002
+189;Delivery van-LPG;2002;Urban roads;1.69;0.28;0.35;0.003
+190;Delivery van-LPG;2002;Rural roads;1.17;0.06;0.29;0.002
+191;Delivery van-LPG;2002;Motorways;2.0;0.03;0.19;0.002
+192;Delivery van-LPG;2003;Urban roads;1.33;0.24;0.26;0.003
+193;Delivery van-LPG;2003;Rural roads;0.8;0.05;0.21;0.002
+194;Delivery van-LPG;2003;Motorways;1.36;0.02;0.14;0.002
+195;Delivery van-LPG;2004;Urban roads;1.15;0.22;0.21;0.003
+196;Delivery van-LPG;2004;Rural roads;0.61;0.04;0.17;0.002
+197;Delivery van-LPG;2004;Motorways;1.03;0.02;0.11;0.002
+198;Delivery van-LPG;2005;Urban roads;0.97;0.21;0.16;0.003
+199;Delivery van-LPG;2005;Rural roads;0.42;0.03;0.14;0.002
+200;Delivery van-LPG;2005;Motorways;0.71;0.01;0.09;0.002
+201;Delivery van-LPG;2006;Urban roads;0.97;0.21;0.16;0.003
+202;Delivery van-LPG;2006;Rural roads;0.42;0.03;0.14;0.002
+203;Delivery van-LPG;2006;Motorways;0.71;0.01;0.09;0.002
+204;Delivery van-LPG;2007;Urban roads;0.97;0.21;0.16;0.003
+205;Delivery van-LPG;2007;Rural roads;0.42;0.03;0.14;0.002
+206;Delivery van-LPG;2007;Motorways;0.71;0.01;0.09;0.002
+207;Delivery van-LPG;2008;Urban roads;0.97;0.21;0.16;0.003
+208;Delivery van-LPG;2008;Rural roads;0.42;0.03;0.14;0.002
+209;Delivery van-LPG;2008;Motorways;0.71;0.01;0.09;0.002
+210;Lorry-diesel;Years of construction 1999 and older;Urban roads;3.02;1.61;9.58;0.548
+211;Lorry-diesel;Years of construction 1999 and older;Rural roads;1.8;0.62;7.89;0.321
+212;Lorry-diesel;Years of construction 1999 and older;Motorways;1.36;0.48;7.55;0.259
+213;Lorry-diesel;2000;Urban roads;1.98;0.57;9.69;0.184
+214;Lorry-diesel;2000;Rural roads;1.32;0.32;7.33;0.126
+215;Lorry-diesel;2000;Motorways;0.93;0.25;6.52;0.104
+216;Lorry-diesel;2001;Urban roads;2.22;0.55;10.02;0.159
+217;Lorry-diesel;2001;Rural roads;1.49;0.31;7.18;0.103
+218;Lorry-diesel;2001;Motorways;1.05;0.24;6.5;0.08
+219;Lorry-diesel;2002;Urban roads;2.48;0.56;10.67;0.146
+220;Lorry-diesel;2002;Rural roads;1.65;0.32;7.25;0.087
+221;Lorry-diesel;2002;Motorways;1.16;0.24;6.59;0.063
+222;Lorry-diesel;2003;Urban roads;2.5;0.56;10.82;0.146
+223;Lorry-diesel;2003;Rural roads;1.63;0.32;7.12;0.087
+224;Lorry-diesel;2003;Motorways;1.2;0.24;6.75;0.064
+225;Lorry-diesel;2004;Urban roads;2.51;0.57;10.82;0.146
+226;Lorry-diesel;2004;Rural roads;1.62;0.32;7.1;0.087
+227;Lorry-diesel;2004;Motorways;1.19;0.24;6.73;0.064
+228;Lorry-diesel;2005;Urban roads;3.1;0.44;10.78;0.12
+229;Lorry-diesel;2005;Rural roads;1.75;0.25;6.81;0.071
+230;Lorry-diesel;2005;Motorways;1.16;0.19;5.86;0.052
+231;Lorry-diesel;2006;Urban roads;4.56;0.21;11.4;0.071
+232;Lorry-diesel;2006;Rural roads;2.13;0.12;6.49;0.041
+233;Lorry-diesel;2006;Motorways;1.15;0.08;4.29;0.029
+234;Lorry-diesel;2007;Urban roads;5.37;0.09;11.57;0.046
+235;Lorry-diesel;2007;Rural roads;2.37;0.05;6.3;0.025
+236;Lorry-diesel;2007;Motorways;1.18;0.03;3.54;0.018
+237;Lorry-diesel;2008;Urban roads;5.21;0.09;11.37;0.045
+238;Lorry-diesel;2008;Rural roads;2.3;0.05;6.2;0.025
+239;Lorry-diesel;2008;Motorways;1.14;0.03;3.48;0.018
+240;Road tractor-diesel;Years of construction 1999 and older;Urban roads;5.02;2.47;17.16;0.984
+241;Road tractor-diesel;Years of construction 1999 and older;Rural roads;2.61;0.77;11.93;0.496
+242;Road tractor-diesel;Years of construction 1999 and older;Motorways;1.88;0.54;9.73;0.36
+243;Road tractor-diesel;2000;Urban roads;3.16;0.77;14.96;0.316
+244;Road tractor-diesel;2000;Rural roads;1.86;0.41;9.85;0.189
+245;Road tractor-diesel;2000;Motorways;1.38;0.29;7.78;0.147
+246;Road tractor-diesel;2001;Urban roads;3.45;0.75;15.76;0.235
+247;Road tractor-diesel;2001;Rural roads;2.03;0.4;9.66;0.136
+248;Road tractor-diesel;2001;Motorways;1.49;0.27;7.6;0.102
+249;Road tractor-diesel;2002;Urban roads;3.66;0.73;16.36;0.175
+250;Road tractor-diesel;2002;Rural roads;2.15;0.39;9.52;0.097
+251;Road tractor-diesel;2002;Motorways;1.56;0.26;7.46;0.068
+252;Road tractor-diesel;2003;Urban roads;3.66;0.73;16.36;0.175
+253;Road tractor-diesel;2003;Rural roads;2.15;0.39;9.52;0.097
+254;Road tractor-diesel;2003;Motorways;1.56;0.26;7.46;0.068
+255;Road tractor-diesel;2004;Urban roads;3.66;0.73;16.36;0.175
+256;Road tractor-diesel;2004;Rural roads;2.15;0.39;9.52;0.097
+257;Road tractor-diesel;2004;Motorways;1.56;0.26;7.46;0.068
+258;Road tractor-diesel;2005;Urban roads;5.11;0.59;15.88;0.146
+259;Road tractor-diesel;2005;Rural roads;2.53;0.31;9.04;0.08
+260;Road tractor-diesel;2005;Motorways;1.59;0.21;6.62;0.056
+261;Road tractor-diesel;2006;Urban roads;7.99;0.3;14.94;0.088
+262;Road tractor-diesel;2006;Rural roads;3.27;0.16;8.07;0.046
+263;Road tractor-diesel;2006;Motorways;1.64;0.1;4.92;0.032
+264;Road tractor-diesel;2007;Urban roads;9.43;0.16;14.47;0.059
+265;Road tractor-diesel;2007;Rural roads;3.64;0.08;7.59;0.03
+266;Road tractor-diesel;2007;Motorways;1.67;0.04;4.07;0.02
+267;Road tractor-diesel;2008;Urban roads;9.43;0.16;14.47;0.059
+268;Road tractor-diesel;2008;Rural roads;3.64;0.08;7.59;0.03
+269;Road tractor-diesel;2008;Motorways;1.67;0.04;4.07;0.02
+270;Bus-diesel;Years of construction 1999 and older;Urban roads;4.04;2.08;14.01;0.862
+271;Bus-diesel;Years of construction 1999 and older;Rural roads;2.03;0.75;10.15;0.466
+272;Bus-diesel;Years of construction 1999 and older;Motorways;1.31;0.58;7.91;0.293
+273;Bus-diesel;2000;Urban roads;2.39;0.57;12.07;0.304
+274;Bus-diesel;2000;Rural roads;1.12;0.31;7.85;0.244
+275;Bus-diesel;2000;Motorways;0.67;0.25;6.25;0.111
+276;Bus-diesel;2001;Urban roads;2.31;0.55;11.33;0.248
+277;Bus-diesel;2001;Rural roads;1.09;0.29;6.98;0.188
+278;Bus-diesel;2001;Motorways;0.67;0.24;5.17;0.11
+279;Bus-diesel;2002;Urban roads;2.24;0.53;10.77;0.206
+280;Bus-diesel;2002;Rural roads;1.06;0.28;6.33;0.146
+281;Bus-diesel;2002;Motorways;0.67;0.23;4.36;0.109
+282;Bus-diesel;2003;Urban roads;2.24;0.53;10.77;0.206
+283;Bus-diesel;2003;Rural roads;1.06;0.28;6.33;0.146
+284;Bus-diesel;2003;Motorways;0.67;0.23;4.36;0.109
+285;Bus-diesel;2004;Urban roads;2.24;0.53;10.77;0.206
+286;Bus-diesel;2004;Rural roads;1.06;0.28;6.33;0.146
+287;Bus-diesel;2004;Motorways;0.67;0.23;4.36;0.109
+288;Bus-diesel;2005;Urban roads;1.74;0.4;10.15;0.179
+289;Bus-diesel;2005;Rural roads;0.82;0.22;5.8;0.12
+290;Bus-diesel;2005;Motorways;0.52;0.17;3.98;0.086
+291;Bus-diesel;2006;Urban roads;0.74;0.15;8.91;0.125
+292;Bus-diesel;2006;Rural roads;0.35;0.08;4.74;0.068
+293;Bus-diesel;2006;Motorways;0.22;0.06;3.22;0.039
+294;Bus-diesel;2007;Urban roads;0.24;0.03;8.29;0.098
+295;Bus-diesel;2007;Rural roads;0.11;0.01;4.21;0.043
+296;Bus-diesel;2007;Motorways;0.07;0.01;2.84;0.016
+297;Bus-diesel;2008;Urban roads;0.24;0.03;7.36;0.096
+298;Bus-diesel;2008;Rural roads;0.11;0.01;3.77;0.04
+299;Bus-diesel;2008;Motorways;0.07;0.01;2.52;0.016
+300;Motorcycle-petrol;Years of construction 1999 and older;Urban roads;27.07;3.75;0.1;0.017
+301;Motorcycle-petrol;Years of construction 1999 and older;Rural roads;16.13;1.57;0.17;0.017
+302;Motorcycle-petrol;Years of construction 1999 and older;Motorways;27.13;1.34;0.42;0.017
+303;Motorcycle-petrol;2000;Urban roads;11.87;1.44;0.14;0.015
+304;Motorcycle-petrol;2000;Rural roads;6.07;0.66;0.22;0.015
+305;Motorcycle-petrol;2000;Motorways;18.65;0.42;0.49;0.015
+306;Motorcycle-petrol;2001;Urban roads;11.87;1.44;0.14;0.015
+307;Motorcycle-petrol;2001;Rural roads;6.07;0.66;0.22;0.015
+308;Motorcycle-petrol;2001;Motorways;18.65;0.42;0.49;0.015
+309;Motorcycle-petrol;2002;Urban roads;11.87;1.44;0.14;0.015
+310;Motorcycle-petrol;2002;Rural roads;6.07;0.66;0.22;0.015
+311;Motorcycle-petrol;2002;Motorways;18.65;0.42;0.49;0.015
+312;Motorcycle-petrol;2003;Urban roads;11.87;1.44;0.14;0.015
+313;Motorcycle-petrol;2003;Rural roads;6.07;0.66;0.22;0.015
+314;Motorcycle-petrol;2003;Motorways;18.65;0.42;0.49;0.015
+315;Motorcycle-petrol;2004;Urban roads;11.87;1.44;0.14;0.015
+316;Motorcycle-petrol;2004;Rural roads;6.07;0.66;0.22;0.015
+317;Motorcycle-petrol;2004;Motorways;18.65;0.42;0.49;0.015
+318;Motorcycle-petrol;2005;Urban roads;11.87;1.44;0.14;0.015
+319;Motorcycle-petrol;2005;Rural roads;6.07;0.66;0.22;0.015
+320;Motorcycle-petrol;2005;Motorways;18.65;0.42;0.49;0.015
+321;Motorcycle-petrol;2006;Urban roads;11.87;1.44;0.14;0.015
+322;Motorcycle-petrol;2006;Rural roads;6.07;0.66;0.22;0.015
+323;Motorcycle-petrol;2006;Motorways;18.65;0.42;0.49;0.015
+324;Motorcycle-petrol;2007;Urban roads;11.87;1.44;0.14;0.015
+325;Motorcycle-petrol;2007;Rural roads;6.07;0.66;0.22;0.015
+326;Motorcycle-petrol;2007;Motorways;18.65;0.42;0.49;0.015
+327;Motorcycle-petrol;2008;Urban roads;11.87;1.44;0.14;0.015
+328;Motorcycle-petrol;2008;Rural roads;6.07;0.66;0.22;0.015
+329;Motorcycle-petrol;2008;Motorways;18.65;0.42;0.49;0.015
+330;Moped-petrol;Years of construction 1999 and older;Urban roads;10.0;6.0;0.05;0.04
+331;Moped-petrol;Years of construction 1999 and older;Rural roads;10.0;6.0;0.05;0.04
+332;Moped-petrol;Years of construction 1999 and older;Motorways;;;;
+333;Moped-petrol;2000;Urban roads;10.0;6.0;0.05;0.04
+334;Moped-petrol;2000;Rural roads;10.0;6.0;0.05;0.04
+335;Moped-petrol;2000;Motorways;;;;
+336;Moped-petrol;2001;Urban roads;10.0;6.0;0.05;0.04
+337;Moped-petrol;2001;Rural roads;10.0;6.0;0.05;0.04
+338;Moped-petrol;2001;Motorways;;;;
+339;Moped-petrol;2002;Urban roads;10.0;6.0;0.05;0.04
+340;Moped-petrol;2002;Rural roads;10.0;6.0;0.05;0.04
+341;Moped-petrol;2002;Motorways;;;;
+342;Moped-petrol;2003;Urban roads;10.0;6.0;0.05;0.04
+343;Moped-petrol;2003;Rural roads;10.0;6.0;0.05;0.04
+344;Moped-petrol;2003;Motorways;;;;
+345;Moped-petrol;2004;Urban roads;10.0;6.0;0.05;0.04
+346;Moped-petrol;2004;Rural roads;10.0;6.0;0.05;0.04
+347;Moped-petrol;2004;Motorways;;;;
+348;Moped-petrol;2005;Urban roads;10.0;6.0;0.05;0.04
+349;Moped-petrol;2005;Rural roads;10.0;6.0;0.05;0.04
+350;Moped-petrol;2005;Motorways;;;;
+351;Moped-petrol;2006;Urban roads;10.0;6.0;0.05;0.04
+352;Moped-petrol;2006;Rural roads;10.0;6.0;0.05;0.04
+353;Moped-petrol;2006;Motorways;;;;
+354;Moped-petrol;2007;Urban roads;10.0;6.0;0.05;0.04
+355;Moped-petrol;2007;Rural roads;10.0;6.0;0.05;0.04
+356;Moped-petrol;2007;Motorways;;;;
+357;Moped-petrol;2008;Urban roads;10.0;6.0;0.05;0.04
+358;Moped-petrol;2008;Rural roads;10.0;6.0;0.05;0.04
+359;Moped-petrol;2008;Motorways;;;;

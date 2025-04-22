@@ -1,0 +1,817 @@
+﻿ID;BedrijfstakkenBranchesSBI2008;RegioS;Perioden;OmzetNetto_1;PersoneleKosten_2;ToegevoegdeWaardeTegenMarktprijzen_3
+0;C Industrie;Nederland;2009;245704;40440;54629.0
+1;C Industrie;Nederland;2010;267976;41152;60328.0
+2;C Industrie;Nederland;2011;300932;43187;62720.0
+3;C Industrie;Nederland;2012;307345;42745;60205.0
+4;C Industrie;Nederland;2013;301156;42810;58430.0
+5;C Industrie;Nederland;2014;324489;44165;
+6;C Industrie;Noord-Nederland (LD);2009;18119;4140;5293.0
+7;C Industrie;Noord-Nederland (LD);2010;19790;4071;5725.0
+8;C Industrie;Noord-Nederland (LD);2011;21541;4216;5944.0
+9;C Industrie;Noord-Nederland (LD);2012;19995;4219;5496.0
+10;C Industrie;Noord-Nederland (LD);2013;18319;3860;4695.0
+11;C Industrie;Noord-Nederland (LD);2014;20970;4451;
+12;C Industrie;Oost-Nederland (LD);2009;44840;9173;10950.0
+13;C Industrie;Oost-Nederland (LD);2010;46859;9174;12226.0
+14;C Industrie;Oost-Nederland (LD);2011;50668;9628;13004.0
+15;C Industrie;Oost-Nederland (LD);2012;51448;9718;12688.0
+16;C Industrie;Oost-Nederland (LD);2013;52231;9550;12714.0
+17;C Industrie;Oost-Nederland (LD);2014;52931;9873;
+18;C Industrie;West-Nederland (LD);2009;112968;14592;20268.0
+19;C Industrie;West-Nederland (LD);2010;120135;14859;21980.0
+20;C Industrie;West-Nederland (LD);2011;134432;15599;21994.0
+21;C Industrie;West-Nederland (LD);2012;143438;15180;20863.0
+22;C Industrie;West-Nederland (LD);2013;139355;15365;20609.0
+23;C Industrie;West-Nederland (LD);2014;157528;15613;
+24;C Industrie;Zuid-Nederland (LD);2009;69776;12535;18118.0
+25;C Industrie;Zuid-Nederland (LD);2010;81193;13048;20397.0
+26;C Industrie;Zuid-Nederland (LD);2011;94291;13744;21778.0
+27;C Industrie;Zuid-Nederland (LD);2012;92465;13628;21158.0
+28;C Industrie;Zuid-Nederland (LD);2013;91251;14035;20413.0
+29;C Industrie;Zuid-Nederland (LD);2014;93060;14228;
+30;C Industrie;Groningen (PV);2009;5676;1335;1369.0
+31;C Industrie;Groningen (PV);2010;6685;1375;1624.0
+32;C Industrie;Groningen (PV);2011;7158;1462;1701.0
+33;C Industrie;Groningen (PV);2012;7016;1416;1633.0
+34;C Industrie;Groningen (PV);2013;6592;1331;1572.0
+35;C Industrie;Groningen (PV);2014;6607;1447;
+36;C Industrie;Friesland (PV);2009;7046;1651;2412.0
+37;C Industrie;Friesland (PV);2010;7831;1572;2571.0
+38;C Industrie;Friesland (PV);2011;8537;1609;2725.0
+39;C Industrie;Friesland (PV);2012;7299;1633;2466.0
+40;C Industrie;Friesland (PV);2013;6314;1461;1791.0
+41;C Industrie;Friesland (PV);2014;7921;1772;
+42;C Industrie;Drenthe (PV);2009;5397;1154;1512.0
+43;C Industrie;Drenthe (PV);2010;5274;1125;1530.0
+44;C Industrie;Drenthe (PV);2011;5847;1145;1518.0
+45;C Industrie;Drenthe (PV);2012;5680;1170;1397.0
+46;C Industrie;Drenthe (PV);2013;5413;1069;1332.0
+47;C Industrie;Drenthe (PV);2014;6443;1232;
+48;C Industrie;Overijssel (PV);2009;15517;3506;4589.0
+49;C Industrie;Overijssel (PV);2010;15150;3561;4658.0
+50;C Industrie;Overijssel (PV);2011;16371;3704;4972.0
+51;C Industrie;Overijssel (PV);2012;16691;3799;4914.0
+52;C Industrie;Overijssel (PV);2013;16686;3721;4801.0
+53;C Industrie;Overijssel (PV);2014;16252;3764;
+54;C Industrie;Flevoland (PV);2009;3325;648;710.0
+55;C Industrie;Flevoland (PV);2010;3324;589;732.0
+56;C Industrie;Flevoland (PV);2011;3748;671;816.0
+57;C Industrie;Flevoland (PV);2012;3748;647;774.0
+58;C Industrie;Flevoland (PV);2013;3634;618;735.0
+59;C Industrie;Flevoland (PV);2014;4309;704;
+60;C Industrie;Gelderland (PV);2009;25998;5019;5651.0
+61;C Industrie;Gelderland (PV);2010;28384;5024;6836.0
+62;C Industrie;Gelderland (PV);2011;30549;5252;7216.0
+63;C Industrie;Gelderland (PV);2012;31010;5273;7000.0
+64;C Industrie;Gelderland (PV);2013;31910;5211;7178.0
+65;C Industrie;Gelderland (PV);2014;32369;5405;
+66;C Industrie;Utrecht (PV);2009;9372;2015;2704.0
+67;C Industrie;Utrecht (PV);2010;9018;2154;2900.0
+68;C Industrie;Utrecht (PV);2011;10186;2218;3074.0
+69;C Industrie;Utrecht (PV);2012;9942;2081;2567.0
+70;C Industrie;Utrecht (PV);2013;11179;2160;3072.0
+71;C Industrie;Utrecht (PV);2014;12628;2168;
+72;C Industrie;Noord-Holland (PV);2009;26704;4770;6509.0
+73;C Industrie;Noord-Holland (PV);2010;27584;4750;6879.0
+74;C Industrie;Noord-Holland (PV);2011;25579;4820;6180.0
+75;C Industrie;Noord-Holland (PV);2012;25218;4904;6319.0
+76;C Industrie;Noord-Holland (PV);2013;25348;4963;6224.0
+77;C Industrie;Noord-Holland (PV);2014;44950;5078;
+78;C Industrie;Zuid-Holland (PV);2009;63664;6575;9103.0
+79;C Industrie;Zuid-Holland (PV);2010;75514;6707;10318.0
+80;C Industrie;Zuid-Holland (PV);2011;89781;7270;10701.0
+81;C Industrie;Zuid-Holland (PV);2012;99490;6917;9994.0
+82;C Industrie;Zuid-Holland (PV);2013;94277;6966;9434.0
+83;C Industrie;Zuid-Holland (PV);2014;91486;7127;
+84;C Industrie;Zeeland (PV);2009;13229;1232;1951.0
+85;C Industrie;Zeeland (PV);2010;8019;1248;1883.0
+86;C Industrie;Zeeland (PV);2011;8886;1292;2040.0
+87;C Industrie;Zeeland (PV);2012;8788;1278;1983.0
+88;C Industrie;Zeeland (PV);2013;8551;1276;1878.0
+89;C Industrie;Zeeland (PV);2014;8464;1241;
+90;C Industrie;Noord-Brabant (PV);2009;51452;9171;13922.0
+91;C Industrie;Noord-Brabant (PV);2010;57617;9635;15532.0
+92;C Industrie;Noord-Brabant (PV);2011;66809;10052;16887.0
+93;C Industrie;Noord-Brabant (PV);2012;64499;9959;16487.0
+94;C Industrie;Noord-Brabant (PV);2013;64795;10162;15595.0
+95;C Industrie;Noord-Brabant (PV);2014;65648;10398;
+96;C Industrie;Limburg (PV);2009;18324;3364;4196.0
+97;C Industrie;Limburg (PV);2010;23575;3412;4865.0
+98;C Industrie;Limburg (PV);2011;27482;3692;4891.0
+99;C Industrie;Limburg (PV);2012;27966;3668;4670.0
+100;C Industrie;Limburg (PV);2013;26455;3873;4818.0
+101;C Industrie;Limburg (PV);2014;27411;3830;
+102;F Bouwnijverheid;Nederland;2009;89351;20548;27191.0
+103;F Bouwnijverheid;Nederland;2010;81274;19967;26001.0
+104;F Bouwnijverheid;Nederland;2011;85109;20835;26298.0
+105;F Bouwnijverheid;Nederland;2012;76953;20026;24156.0
+106;F Bouwnijverheid;Nederland;2013;72157;18729;22748.0
+107;F Bouwnijverheid;Nederland;2014;74599;18158;
+108;F Bouwnijverheid;Noord-Nederland (LD);2009;6877;1737;2225.0
+109;F Bouwnijverheid;Noord-Nederland (LD);2010;6812;1818;2342.0
+110;F Bouwnijverheid;Noord-Nederland (LD);2011;6914;1818;2245.0
+111;F Bouwnijverheid;Noord-Nederland (LD);2012;6199;1686;2018.0
+112;F Bouwnijverheid;Noord-Nederland (LD);2013;5140;1484;1683.0
+113;F Bouwnijverheid;Noord-Nederland (LD);2014;5666;1482;
+114;F Bouwnijverheid;Oost-Nederland (LD);2009;18219;4203;5562.0
+115;F Bouwnijverheid;Oost-Nederland (LD);2010;16925;4126;5453.0
+116;F Bouwnijverheid;Oost-Nederland (LD);2011;18450;4369;5516.0
+117;F Bouwnijverheid;Oost-Nederland (LD);2012;16314;4103;5009.0
+118;F Bouwnijverheid;Oost-Nederland (LD);2013;14482;3727;4224.0
+119;F Bouwnijverheid;Oost-Nederland (LD);2014;15167;3690;
+120;F Bouwnijverheid;West-Nederland (LD);2009;44635;10274;13264.0
+121;F Bouwnijverheid;West-Nederland (LD);2010;40613;9885;12777.0
+122;F Bouwnijverheid;West-Nederland (LD);2011;41609;10224;12963.0
+123;F Bouwnijverheid;West-Nederland (LD);2012;37938;9998;11964.0
+124;F Bouwnijverheid;West-Nederland (LD);2013;34272;8997;11081.0
+125;F Bouwnijverheid;West-Nederland (LD);2014;38324;9280;
+126;F Bouwnijverheid;Zuid-Nederland (LD);2009;19620;4335;6141.0
+127;F Bouwnijverheid;Zuid-Nederland (LD);2010;16923;4138;5430.0
+128;F Bouwnijverheid;Zuid-Nederland (LD);2011;18136;4423;5573.0
+129;F Bouwnijverheid;Zuid-Nederland (LD);2012;16502;4238;5165.0
+130;F Bouwnijverheid;Zuid-Nederland (LD);2013;18263;4521;5760.0
+131;F Bouwnijverheid;Zuid-Nederland (LD);2014;15442;3706;
+132;F Bouwnijverheid;Groningen (PV);2009;2128;540;668.0
+133;F Bouwnijverheid;Groningen (PV);2010;2057;542;682.0
+134;F Bouwnijverheid;Groningen (PV);2011;2067;567;685.0
+135;F Bouwnijverheid;Groningen (PV);2012;1887;547;620.0
+136;F Bouwnijverheid;Groningen (PV);2013;1664;526;533.0
+137;F Bouwnijverheid;Groningen (PV);2014;1687;457;
+138;F Bouwnijverheid;Friesland (PV);2009;2780;674;907.0
+139;F Bouwnijverheid;Friesland (PV);2010;2794;733;962.0
+140;F Bouwnijverheid;Friesland (PV);2011;2790;690;889.0
+141;F Bouwnijverheid;Friesland (PV);2012;2500;638;805.0
+142;F Bouwnijverheid;Friesland (PV);2013;1755;468;568.0
+143;F Bouwnijverheid;Friesland (PV);2014;2262;547;
+144;F Bouwnijverheid;Drenthe (PV);2009;1969;522;650.0
+145;F Bouwnijverheid;Drenthe (PV);2010;1961;542;698.0
+146;F Bouwnijverheid;Drenthe (PV);2011;2058;561;671.0
+147;F Bouwnijverheid;Drenthe (PV);2012;1813;502;594.0
+148;F Bouwnijverheid;Drenthe (PV);2013;1721;490;582.0
+149;F Bouwnijverheid;Drenthe (PV);2014;1718;478;
+150;F Bouwnijverheid;Overijssel (PV);2009;6975;1617;2048.0
+151;F Bouwnijverheid;Overijssel (PV);2010;6280;1538;1955.0
+152;F Bouwnijverheid;Overijssel (PV);2011;7006;1669;2044.0
+153;F Bouwnijverheid;Overijssel (PV);2012;5847;1535;1824.0
+154;F Bouwnijverheid;Overijssel (PV);2013;4973;1304;1423.0
+155;F Bouwnijverheid;Overijssel (PV);2014;5667;1365;
+156;F Bouwnijverheid;Flevoland (PV);2009;1224;266;365.0
+157;F Bouwnijverheid;Flevoland (PV);2010;1280;280;384.0
+158;F Bouwnijverheid;Flevoland (PV);2011;1358;295;392.0
+159;F Bouwnijverheid;Flevoland (PV);2012;1258;286;364.0
+160;F Bouwnijverheid;Flevoland (PV);2013;1540;291;517.0
+161;F Bouwnijverheid;Flevoland (PV);2014;1071;230;
+162;F Bouwnijverheid;Gelderland (PV);2009;10021;2319;3148.0
+163;F Bouwnijverheid;Gelderland (PV);2010;9365;2309;3114.0
+164;F Bouwnijverheid;Gelderland (PV);2011;10086;2404;3080.0
+165;F Bouwnijverheid;Gelderland (PV);2012;9208;2281;2820.0
+166;F Bouwnijverheid;Gelderland (PV);2013;7970;2132;2285.0
+167;F Bouwnijverheid;Gelderland (PV);2014;8428;2095;
+168;F Bouwnijverheid;Utrecht (PV);2009;7878;1806;2149.0
+169;F Bouwnijverheid;Utrecht (PV);2010;7703;1874;2263.0
+170;F Bouwnijverheid;Utrecht (PV);2011;8273;1936;2369.0
+171;F Bouwnijverheid;Utrecht (PV);2012;7162;1827;2091.0
+172;F Bouwnijverheid;Utrecht (PV);2013;6266;1756;1909.0
+173;F Bouwnijverheid;Utrecht (PV);2014;6744;1702;
+174;F Bouwnijverheid;Noord-Holland (PV);2009;11692;2531;3495.0
+175;F Bouwnijverheid;Noord-Holland (PV);2010;10893;2535;3426.0
+176;F Bouwnijverheid;Noord-Holland (PV);2011;11514;2726;3517.0
+177;F Bouwnijverheid;Noord-Holland (PV);2012;10295;2587;3235.0
+178;F Bouwnijverheid;Noord-Holland (PV);2013;8622;2162;2640.0
+179;F Bouwnijverheid;Noord-Holland (PV);2014;10419;2450;
+180;F Bouwnijverheid;Zuid-Holland (PV);2009;23333;5540;7110.0
+181;F Bouwnijverheid;Zuid-Holland (PV);2010;20419;5077;6574.0
+182;F Bouwnijverheid;Zuid-Holland (PV);2011;19993;5080;6485.0
+183;F Bouwnijverheid;Zuid-Holland (PV);2012;18743;5066;6041.0
+184;F Bouwnijverheid;Zuid-Holland (PV);2013;18214;4731;6173.0
+185;F Bouwnijverheid;Zuid-Holland (PV);2014;19691;4695;
+186;F Bouwnijverheid;Zeeland (PV);2009;1732;398;510.0
+187;F Bouwnijverheid;Zeeland (PV);2010;1598;399;514.0
+188;F Bouwnijverheid;Zeeland (PV);2011;1829;483;592.0
+189;F Bouwnijverheid;Zeeland (PV);2012;1739;518;597.0
+190;F Bouwnijverheid;Zeeland (PV);2013;1170;348;360.0
+191;F Bouwnijverheid;Zeeland (PV);2014;1470;433;
+192;F Bouwnijverheid;Noord-Brabant (PV);2009;15955;3463;5001.0
+193;F Bouwnijverheid;Noord-Brabant (PV);2010;13454;3215;4229.0
+194;F Bouwnijverheid;Noord-Brabant (PV);2011;14502;3453;4364.0
+195;F Bouwnijverheid;Noord-Brabant (PV);2012;13186;3319;4051.0
+196;F Bouwnijverheid;Noord-Brabant (PV);2013;15748;3831;4960.0
+197;F Bouwnijverheid;Noord-Brabant (PV);2014;12533;2948;
+198;F Bouwnijverheid;Limburg (PV);2009;3665;871;1140.0
+199;F Bouwnijverheid;Limburg (PV);2010;3469;923;1201.0
+200;F Bouwnijverheid;Limburg (PV);2011;3633;971;1209.0
+201;F Bouwnijverheid;Limburg (PV);2012;3315;919;1114.0
+202;F Bouwnijverheid;Limburg (PV);2013;2514;690;800.0
+203;F Bouwnijverheid;Limburg (PV);2014;2909;758;
+204;G Handel;Nederland;2009;491554;41687;68516.0
+205;G Handel;Nederland;2010;535409;43236;72901.0
+206;G Handel;Nederland;2011;598336;45050;74897.0
+207;G Handel;Nederland;2012;606695;45387;74857.0
+208;G Handel;Nederland;2013;591280;44709;75778.0
+209;G Handel;Nederland;2014;566327;45144;
+210;G Handel;Noord-Nederland (LD);2009;28506;2614;4042.0
+211;G Handel;Noord-Nederland (LD);2010;29344;2830;4449.0
+212;G Handel;Noord-Nederland (LD);2011;28281;2798;4349.0
+213;G Handel;Noord-Nederland (LD);2012;28741;2940;4503.0
+214;G Handel;Noord-Nederland (LD);2013;26483;2738;4087.0
+215;G Handel;Noord-Nederland (LD);2014;27369;2754;
+216;G Handel;Oost-Nederland (LD);2009;75551;7822;11674.0
+217;G Handel;Oost-Nederland (LD);2010;95791;8327;12757.0
+218;G Handel;Oost-Nederland (LD);2011;109763;8689;13407.0
+219;G Handel;Oost-Nederland (LD);2012;86563;8864;12841.0
+220;G Handel;Oost-Nederland (LD);2013;83250;8651;12522.0
+221;G Handel;Oost-Nederland (LD);2014;89456;8940;
+222;G Handel;West-Nederland (LD);2009;293487;22305;39190.0
+223;G Handel;West-Nederland (LD);2010;309657;22754;41078.0
+224;G Handel;West-Nederland (LD);2011;350544;23755;41972.0
+225;G Handel;West-Nederland (LD);2012;384638;23775;42466.0
+226;G Handel;West-Nederland (LD);2013;378361;23685;44391.0
+227;G Handel;West-Nederland (LD);2014;348387;23780;
+228;G Handel;Zuid-Nederland (LD);2009;94011;8946;13609.0
+229;G Handel;Zuid-Nederland (LD);2010;100617;9324;14618.0
+230;G Handel;Zuid-Nederland (LD);2011;109747;9808;15169.0
+231;G Handel;Zuid-Nederland (LD);2012;106754;9807;15046.0
+232;G Handel;Zuid-Nederland (LD);2013;103185;9634;14778.0
+233;G Handel;Zuid-Nederland (LD);2014;101115;9671;
+234;G Handel;Groningen (PV);2009;9472;836;1287.0
+235;G Handel;Groningen (PV);2010;9551;872;1357.0
+236;G Handel;Groningen (PV);2011;8233;843;1339.0
+237;G Handel;Groningen (PV);2012;8403;880;1335.0
+238;G Handel;Groningen (PV);2013;7831;811;1166.0
+239;G Handel;Groningen (PV);2014;8676;865;
+240;G Handel;Friesland (PV);2009;10631;994;1573.0
+241;G Handel;Friesland (PV);2010;10674;1109;1676.0
+242;G Handel;Friesland (PV);2011;10908;1123;1677.0
+243;G Handel;Friesland (PV);2012;11616;1210;1903.0
+244;G Handel;Friesland (PV);2013;10157;1103;1697.0
+245;G Handel;Friesland (PV);2014;9959;1035;
+246;G Handel;Drenthe (PV);2009;8403;784;1182.0
+247;G Handel;Drenthe (PV);2010;9119;848;1415.0
+248;G Handel;Drenthe (PV);2011;9140;832;1334.0
+249;G Handel;Drenthe (PV);2012;8722;850;1264.0
+250;G Handel;Drenthe (PV);2013;8495;824;1224.0
+251;G Handel;Drenthe (PV);2014;8735;854;
+252;G Handel;Overijssel (PV);2009;24720;2316;3448.0
+253;G Handel;Overijssel (PV);2010;26486;2493;3790.0
+254;G Handel;Overijssel (PV);2011;28812;2606;4059.0
+255;G Handel;Overijssel (PV);2012;25575;2691;3925.0
+256;G Handel;Overijssel (PV);2013;24575;2655;3923.0
+257;G Handel;Overijssel (PV);2014;27359;2724;
+258;G Handel;Flevoland (PV);2009;8836;980;1365.0
+259;G Handel;Flevoland (PV);2010;10443;1109;1559.0
+260;G Handel;Flevoland (PV);2011;11240;1159;1632.0
+261;G Handel;Flevoland (PV);2012;11324;1241;1686.0
+262;G Handel;Flevoland (PV);2013;10904;1236;1683.0
+263;G Handel;Flevoland (PV);2014;11960;1295;
+264;G Handel;Gelderland (PV);2009;41994;4526;6861.0
+265;G Handel;Gelderland (PV);2010;58862;4725;7408.0
+266;G Handel;Gelderland (PV);2011;69710;4924;7716.0
+267;G Handel;Gelderland (PV);2012;49663;4932;7230.0
+268;G Handel;Gelderland (PV);2013;47771;4760;6915.0
+269;G Handel;Gelderland (PV);2014;50137;4921;
+270;G Handel;Utrecht (PV);2009;42991;3804;6736.0
+271;G Handel;Utrecht (PV);2010;43574;3865;6571.0
+272;G Handel;Utrecht (PV);2011;43813;3860;6648.0
+273;G Handel;Utrecht (PV);2012;42631;3927;6154.0
+274;G Handel;Utrecht (PV);2013;39874;3881;5936.0
+275;G Handel;Utrecht (PV);2014;37698;3798;
+276;G Handel;Noord-Holland (PV);2009;122419;8587;15149.0
+277;G Handel;Noord-Holland (PV);2010;126282;8779;16110.0
+278;G Handel;Noord-Holland (PV);2011;148353;9335;17241.0
+279;G Handel;Noord-Holland (PV);2012;154165;9280;17709.0
+280;G Handel;Noord-Holland (PV);2013;152740;9545;20052.0
+281;G Handel;Noord-Holland (PV);2014;131130;9219;
+282;G Handel;Zuid-Holland (PV);2009;121521;9237;16286.0
+283;G Handel;Zuid-Holland (PV);2010;132737;9394;17274.0
+284;G Handel;Zuid-Holland (PV);2011;150551;9760;16841.0
+285;G Handel;Zuid-Holland (PV);2012;179966;9745;17370.0
+286;G Handel;Zuid-Holland (PV);2013;178524;9538;17287.0
+287;G Handel;Zuid-Holland (PV);2014;172372;9951;
+288;G Handel;Zeeland (PV);2009;6555;677;1020.0
+289;G Handel;Zeeland (PV);2010;7064;716;1123.0
+290;G Handel;Zeeland (PV);2011;7827;800;1242.0
+291;G Handel;Zeeland (PV);2012;7876;823;1233.0
+292;G Handel;Zeeland (PV);2013;7223;721;1116.0
+293;G Handel;Zeeland (PV);2014;7187;812;
+294;G Handel;Noord-Brabant (PV);2009;70343;6646;10048.0
+295;G Handel;Noord-Brabant (PV);2010;75544;6911;10842.0
+296;G Handel;Noord-Brabant (PV);2011;81779;7320;11355.0
+297;G Handel;Noord-Brabant (PV);2012;79208;7259;11211.0
+298;G Handel;Noord-Brabant (PV);2013;75217;7004;10885.0
+299;G Handel;Noord-Brabant (PV);2014;74040;7134;
+300;G Handel;Limburg (PV);2009;23667;2301;3561.0
+301;G Handel;Limburg (PV);2010;25073;2414;3776.0
+302;G Handel;Limburg (PV);2011;27969;2488;3814.0
+303;G Handel;Limburg (PV);2012;27546;2549;3835.0
+304;G Handel;Limburg (PV);2013;27968;2630;3893.0
+305;G Handel;Limburg (PV);2014;27074;2537;
+306;H Vervoer en opslag;Nederland;2009;69268;18815;23089.0
+307;H Vervoer en opslag;Nederland;2010;72431;18527;23885.0
+308;H Vervoer en opslag;Nederland;2011;79108;19319;25383.0
+309;H Vervoer en opslag;Nederland;2012;77931;19678;24270.0
+310;H Vervoer en opslag;Nederland;2013;80553;19992;25098.0
+311;H Vervoer en opslag;Nederland;2014;80218;19107;
+312;H Vervoer en opslag;Noord-Nederland (LD);2009;3660;1073;1391.0
+313;H Vervoer en opslag;Noord-Nederland (LD);2010;3634;1045;1470.0
+314;H Vervoer en opslag;Noord-Nederland (LD);2011;3994;1153;1550.0
+315;H Vervoer en opslag;Noord-Nederland (LD);2012;4245;1218;1579.0
+316;H Vervoer en opslag;Noord-Nederland (LD);2013;4487;1302;1688.0
+317;H Vervoer en opslag;Noord-Nederland (LD);2014;4497;1253;
+318;H Vervoer en opslag;Oost-Nederland (LD);2009;8963;2702;3240.0
+319;H Vervoer en opslag;Oost-Nederland (LD);2010;9718;2776;3416.0
+320;H Vervoer en opslag;Oost-Nederland (LD);2011;11282;3102;3690.0
+321;H Vervoer en opslag;Oost-Nederland (LD);2012;11118;3048;3536.0
+322;H Vervoer en opslag;Oost-Nederland (LD);2013;11101;3067;3513.0
+323;H Vervoer en opslag;Oost-Nederland (LD);2014;11491;3069;
+324;H Vervoer en opslag;West-Nederland (LD);2009;43094;11175;14076.0
+325;H Vervoer en opslag;West-Nederland (LD);2010;45383;11028;14629.0
+326;H Vervoer en opslag;West-Nederland (LD);2011;48806;11224;15446.0
+327;H Vervoer en opslag;West-Nederland (LD);2012;47201;11429;14399.0
+328;H Vervoer en opslag;West-Nederland (LD);2013;48575;11531;14867.0
+329;H Vervoer en opslag;West-Nederland (LD);2014;47074;10689;
+330;H Vervoer en opslag;Zuid-Nederland (LD);2009;13551;3865;4381.0
+331;H Vervoer en opslag;Zuid-Nederland (LD);2010;13696;3678;4370.0
+332;H Vervoer en opslag;Zuid-Nederland (LD);2011;15026;3839;4697.0
+333;H Vervoer en opslag;Zuid-Nederland (LD);2012;15366;3984;4757.0
+334;H Vervoer en opslag;Zuid-Nederland (LD);2013;16391;4092;5030.0
+335;H Vervoer en opslag;Zuid-Nederland (LD);2014;17156;4096;
+336;H Vervoer en opslag;Groningen (PV);2009;1746;477;645.0
+337;H Vervoer en opslag;Groningen (PV);2010;1758;482;686.0
+338;H Vervoer en opslag;Groningen (PV);2011;1901;531;697.0
+339;H Vervoer en opslag;Groningen (PV);2012;2032;542;715.0
+340;H Vervoer en opslag;Groningen (PV);2013;2193;579;773.0
+341;H Vervoer en opslag;Groningen (PV);2014;2161;548;
+342;H Vervoer en opslag;Friesland (PV);2009;1204;371;472.0
+343;H Vervoer en opslag;Friesland (PV);2010;1228;363;515.0
+344;H Vervoer en opslag;Friesland (PV);2011;1352;406;558.0
+345;H Vervoer en opslag;Friesland (PV);2012;1445;438;558.0
+346;H Vervoer en opslag;Friesland (PV);2013;1521;474;613.0
+347;H Vervoer en opslag;Friesland (PV);2014;1555;456;
+348;H Vervoer en opslag;Drenthe (PV);2009;709;225;275.0
+349;H Vervoer en opslag;Drenthe (PV);2010;647;201;270.0
+350;H Vervoer en opslag;Drenthe (PV);2011;741;216;295.0
+351;H Vervoer en opslag;Drenthe (PV);2012;768;238;305.0
+352;H Vervoer en opslag;Drenthe (PV);2013;772;249;302.0
+353;H Vervoer en opslag;Drenthe (PV);2014;781;249;
+354;H Vervoer en opslag;Overijssel (PV);2009;2359;782;882.0
+355;H Vervoer en opslag;Overijssel (PV);2010;2558;789;931.0
+356;H Vervoer en opslag;Overijssel (PV);2011;2873;844;1008.0
+357;H Vervoer en opslag;Overijssel (PV);2012;2818;853;979.0
+358;H Vervoer en opslag;Overijssel (PV);2013;2868;879;986.0
+359;H Vervoer en opslag;Overijssel (PV);2014;3056;926;
+360;H Vervoer en opslag;Flevoland (PV);2009;1033;279;309.0
+361;H Vervoer en opslag;Flevoland (PV);2010;1858;425;540.0
+362;H Vervoer en opslag;Flevoland (PV);2011;2718;584;696.0
+363;H Vervoer en opslag;Flevoland (PV);2012;2721;597;620.0
+364;H Vervoer en opslag;Flevoland (PV);2013;2487;566;594.0
+365;H Vervoer en opslag;Flevoland (PV);2014;2449;462;
+366;H Vervoer en opslag;Gelderland (PV);2009;5570;1641;2050.0
+367;H Vervoer en opslag;Gelderland (PV);2010;5303;1562;1945.0
+368;H Vervoer en opslag;Gelderland (PV);2011;5691;1675;1986.0
+369;H Vervoer en opslag;Gelderland (PV);2012;5580;1598;1937.0
+370;H Vervoer en opslag;Gelderland (PV);2013;5745;1622;1932.0
+371;H Vervoer en opslag;Gelderland (PV);2014;5986;1681;
+372;H Vervoer en opslag;Utrecht (PV);2009;3267;1226;887.0
+373;H Vervoer en opslag;Utrecht (PV);2010;3665;1335;851.0
+374;H Vervoer en opslag;Utrecht (PV);2011;3973;1360;979.0
+375;H Vervoer en opslag;Utrecht (PV);2012;3545;1387;917.0
+376;H Vervoer en opslag;Utrecht (PV);2013;3423;1354;905.0
+377;H Vervoer en opslag;Utrecht (PV);2014;3822;1405;
+378;H Vervoer en opslag;Noord-Holland (PV);2009;17836;4782;5442.0
+379;H Vervoer en opslag;Noord-Holland (PV);2010;18003;4501;5611.0
+380;H Vervoer en opslag;Noord-Holland (PV);2011;18301;4345;5883.0
+381;H Vervoer en opslag;Noord-Holland (PV);2012;18859;4466;5797.0
+382;H Vervoer en opslag;Noord-Holland (PV);2013;20074;4469;6112.0
+383;H Vervoer en opslag;Noord-Holland (PV);2014;16382;3449;
+384;H Vervoer en opslag;Zuid-Holland (PV);2009;20362;4731;7144.0
+385;H Vervoer en opslag;Zuid-Holland (PV);2010;22123;4756;7516.0
+386;H Vervoer en opslag;Zuid-Holland (PV);2011;24602;5006;7826.0
+387;H Vervoer en opslag;Zuid-Holland (PV);2012;22833;5069;6927.0
+388;H Vervoer en opslag;Zuid-Holland (PV);2013;23069;5179;7059.0
+389;H Vervoer en opslag;Zuid-Holland (PV);2014;24762;5325;
+390;H Vervoer en opslag;Zeeland (PV);2009;1629;435;603.0
+391;H Vervoer en opslag;Zeeland (PV);2010;1592;436;651.0
+392;H Vervoer en opslag;Zeeland (PV);2011;1931;513;758.0
+393;H Vervoer en opslag;Zeeland (PV);2012;1964;506;758.0
+394;H Vervoer en opslag;Zeeland (PV);2013;2009;529;791.0
+395;H Vervoer en opslag;Zeeland (PV);2014;2108;510;
+396;H Vervoer en opslag;Noord-Brabant (PV);2009;9594;2732;3052.0
+397;H Vervoer en opslag;Noord-Brabant (PV);2010;9578;2573;2977.0
+398;H Vervoer en opslag;Noord-Brabant (PV);2011;10298;2657;3173.0
+399;H Vervoer en opslag;Noord-Brabant (PV);2012;10727;2793;3253.0
+400;H Vervoer en opslag;Noord-Brabant (PV);2013;10669;2809;3328.0
+401;H Vervoer en opslag;Noord-Brabant (PV);2014;11996;2902;
+402;H Vervoer en opslag;Limburg (PV);2009;3957;1133;1329.0
+403;H Vervoer en opslag;Limburg (PV);2010;4117;1106;1393.0
+404;H Vervoer en opslag;Limburg (PV);2011;4728;1182;1524.0
+405;H Vervoer en opslag;Limburg (PV);2012;4639;1190;1504.0
+406;H Vervoer en opslag;Limburg (PV);2013;5722;1283;1702.0
+407;H Vervoer en opslag;Limburg (PV);2014;5160;1194;
+408;I Horeca;Nederland;2009;17060;4937;7162.0
+409;I Horeca;Nederland;2010;17806;5029;7593.0
+410;I Horeca;Nederland;2011;18865;5375;8310.0
+411;I Horeca;Nederland;2012;19221;5517;8457.0
+412;I Horeca;Nederland;2013;19753;5655;8669.0
+413;I Horeca;Nederland;2014;20725;5842;
+414;I Horeca;Noord-Nederland (LD);2009;1428;380;584.0
+415;I Horeca;Noord-Nederland (LD);2010;1528;399;639.0
+416;I Horeca;Noord-Nederland (LD);2011;1584;420;680.0
+417;I Horeca;Noord-Nederland (LD);2012;1630;440;702.0
+418;I Horeca;Noord-Nederland (LD);2013;832;242;375.0
+419;I Horeca;Noord-Nederland (LD);2014;1604;434;
+420;I Horeca;Oost-Nederland (LD);2009;2937;802;1224.0
+421;I Horeca;Oost-Nederland (LD);2010;3124;829;1308.0
+422;I Horeca;Oost-Nederland (LD);2011;3252;886;1415.0
+423;I Horeca;Oost-Nederland (LD);2012;3307;907;1433.0
+424;I Horeca;Oost-Nederland (LD);2013;3890;1178;1702.0
+425;I Horeca;Oost-Nederland (LD);2014;3303;903;
+426;I Horeca;West-Nederland (LD);2009;9202;2780;3902.0
+427;I Horeca;West-Nederland (LD);2010;9444;2788;4096.0
+428;I Horeca;West-Nederland (LD);2011;10240;3028;4566.0
+429;I Horeca;West-Nederland (LD);2012;10410;3086;4629.0
+430;I Horeca;West-Nederland (LD);2013;10148;3014;4524.0
+431;I Horeca;West-Nederland (LD);2014;11024;3226;
+432;I Horeca;Zuid-Nederland (LD);2009;3492;974;1452.0
+433;I Horeca;Zuid-Nederland (LD);2010;3709;1013;1550.0
+434;I Horeca;Zuid-Nederland (LD);2011;3789;1041;1649.0
+435;I Horeca;Zuid-Nederland (LD);2012;3875;1084;1693.0
+436;I Horeca;Zuid-Nederland (LD);2013;4882;1222;2068.0
+437;I Horeca;Zuid-Nederland (LD);2014;4794;1280;
+438;I Horeca;Groningen (PV);2009;415;106;164.0
+439;I Horeca;Groningen (PV);2010;439;112;174.0
+440;I Horeca;Groningen (PV);2011;438;114;183.0
+441;I Horeca;Groningen (PV);2012;446;119;185.0
+442;I Horeca;Groningen (PV);2013;201;66;81.0
+443;I Horeca;Groningen (PV);2014;464;126;
+444;I Horeca;Friesland (PV);2009;553;142;227.0
+445;I Horeca;Friesland (PV);2010;606;157;261.0
+446;I Horeca;Friesland (PV);2011;628;165;280.0
+447;I Horeca;Friesland (PV);2012;649;175;291.0
+448;I Horeca;Friesland (PV);2013;307;78;148.0
+449;I Horeca;Friesland (PV);2014;637;172;
+450;I Horeca;Drenthe (PV);2009;459;133;193.0
+451;I Horeca;Drenthe (PV);2010;484;130;203.0
+452;I Horeca;Drenthe (PV);2011;518;141;216.0
+453;I Horeca;Drenthe (PV);2012;535;146;226.0
+454;I Horeca;Drenthe (PV);2013;324;97;147.0
+455;I Horeca;Drenthe (PV);2014;503;136;
+456;I Horeca;Overijssel (PV);2009;948;267;411.0
+457;I Horeca;Overijssel (PV);2010;1011;277;445.0
+458;I Horeca;Overijssel (PV);2011;1044;287;471.0
+459;I Horeca;Overijssel (PV);2012;1076;301;486.0
+460;I Horeca;Overijssel (PV);2013;1392;430;623.0
+461;I Horeca;Overijssel (PV);2014;1045;289;
+462;I Horeca;Flevoland (PV);2009;246;66;101.0
+463;I Horeca;Flevoland (PV);2010;255;69;105.0
+464;I Horeca;Flevoland (PV);2011;253;72;108.0
+465;I Horeca;Flevoland (PV);2012;276;76;119.0
+466;I Horeca;Flevoland (PV);2013;126;38;53.0
+467;I Horeca;Flevoland (PV);2014;289;80;
+468;I Horeca;Gelderland (PV);2009;1743;469;711.0
+469;I Horeca;Gelderland (PV);2010;1857;482;759.0
+470;I Horeca;Gelderland (PV);2011;1955;527;836.0
+471;I Horeca;Gelderland (PV);2012;1956;530;828.0
+472;I Horeca;Gelderland (PV);2013;2372;710;1025.0
+473;I Horeca;Gelderland (PV);2014;1969;533;
+474;I Horeca;Utrecht (PV);2009;1178;355;517.0
+475;I Horeca;Utrecht (PV);2010;1223;355;541.0
+476;I Horeca;Utrecht (PV);2011;1254;368;568.0
+477;I Horeca;Utrecht (PV);2012;1309;378;580.0
+478;I Horeca;Utrecht (PV);2013;1724;539;783.0
+479;I Horeca;Utrecht (PV);2014;1390;424;
+480;I Horeca;Noord-Holland (PV);2009;4172;1280;1752.0
+481;I Horeca;Noord-Holland (PV);2010;4272;1295;1886.0
+482;I Horeca;Noord-Holland (PV);2011;4809;1438;2160.0
+483;I Horeca;Noord-Holland (PV);2012;4858;1456;2178.0
+484;I Horeca;Noord-Holland (PV);2013;5135;1453;2259.0
+485;I Horeca;Noord-Holland (PV);2014;5318;1560;
+486;I Horeca;Zuid-Holland (PV);2009;3253;999;1390.0
+487;I Horeca;Zuid-Holland (PV);2010;3329;986;1408.0
+488;I Horeca;Zuid-Holland (PV);2011;3540;1063;1557.0
+489;I Horeca;Zuid-Holland (PV);2012;3607;1091;1595.0
+490;I Horeca;Zuid-Holland (PV);2013;2894;926;1303.0
+491;I Horeca;Zuid-Holland (PV);2014;3653;1077;
+492;I Horeca;Zeeland (PV);2009;599;146;243.0
+493;I Horeca;Zeeland (PV);2010;620;152;260.0
+494;I Horeca;Zeeland (PV);2011;637;159;280.0
+495;I Horeca;Zeeland (PV);2012;636;162;277.0
+496;I Horeca;Zeeland (PV);2013;396;96;179.0
+497;I Horeca;Zeeland (PV);2014;663;165;
+498;I Horeca;Noord-Brabant (PV);2009;2229;633;937.0
+499;I Horeca;Noord-Brabant (PV);2010;2413;662;1015.0
+500;I Horeca;Noord-Brabant (PV);2011;2475;684;1086.0
+501;I Horeca;Noord-Brabant (PV);2012;2546;717;1110.0
+502;I Horeca;Noord-Brabant (PV);2013;3354;877;1409.0
+503;I Horeca;Noord-Brabant (PV);2014;3169;843;
+504;I Horeca;Limburg (PV);2009;1263;341;515.0
+505;I Horeca;Limburg (PV);2010;1296;352;535.0
+506;I Horeca;Limburg (PV);2011;1314;357;564.0
+507;I Horeca;Limburg (PV);2012;1328;367;583.0
+508;I Horeca;Limburg (PV);2013;1528;345;659.0
+509;I Horeca;Limburg (PV);2014;1625;437;
+510;J Informatie en communicatie;Nederland;2009;50182;14334;23239.0
+511;J Informatie en communicatie;Nederland;2010;49770;13923;23557.0
+512;J Informatie en communicatie;Nederland;2011;49530;14358;23358.0
+513;J Informatie en communicatie;Nederland;2012;51054;15156;24136.0
+514;J Informatie en communicatie;Nederland;2013;49566;15019;23516.0
+515;J Informatie en communicatie;Nederland;2014;57623;16370;
+516;J Informatie en communicatie;Noord-Nederland (LD);2009;3446;909;1826.0
+517;J Informatie en communicatie;Noord-Nederland (LD);2010;3178;815;1843.0
+518;J Informatie en communicatie;Noord-Nederland (LD);2011;3105;889;1741.0
+519;J Informatie en communicatie;Noord-Nederland (LD);2012;3041;891;1691.0
+520;J Informatie en communicatie;Noord-Nederland (LD);2013;2877;840;1537.0
+521;J Informatie en communicatie;Noord-Nederland (LD);2014;2891;810;
+522;J Informatie en communicatie;Oost-Nederland (LD);2009;5389;1762;2475.0
+523;J Informatie en communicatie;Oost-Nederland (LD);2010;5423;1738;2615.0
+524;J Informatie en communicatie;Oost-Nederland (LD);2011;5265;1742;2361.0
+525;J Informatie en communicatie;Oost-Nederland (LD);2012;5604;1825;2691.0
+526;J Informatie en communicatie;Oost-Nederland (LD);2013;5730;1875;2763.0
+527;J Informatie en communicatie;Oost-Nederland (LD);2014;7043;1939;
+528;J Informatie en communicatie;West-Nederland (LD);2009;34394;9783;15891.0
+529;J Informatie en communicatie;West-Nederland (LD);2010;33898;9381;15727.0
+530;J Informatie en communicatie;West-Nederland (LD);2011;34238;9713;16163.0
+531;J Informatie en communicatie;West-Nederland (LD);2012;35527;10392;16576.0
+532;J Informatie en communicatie;West-Nederland (LD);2013;34019;10178;16082.0
+533;J Informatie en communicatie;West-Nederland (LD);2014;40595;11387;
+534;J Informatie en communicatie;Zuid-Nederland (LD);2009;6953;1880;3047.0
+535;J Informatie en communicatie;Zuid-Nederland (LD);2010;7271;1989;3372.0
+536;J Informatie en communicatie;Zuid-Nederland (LD);2011;6922;2014;3093.0
+537;J Informatie en communicatie;Zuid-Nederland (LD);2012;6881;2048;3178.0
+538;J Informatie en communicatie;Zuid-Nederland (LD);2013;6940;2126;3135.0
+539;J Informatie en communicatie;Zuid-Nederland (LD);2014;7094;2234;
+540;J Informatie en communicatie;Groningen (PV);2009;2374;605;1361.0
+541;J Informatie en communicatie;Groningen (PV);2010;2216;535;1345.0
+542;J Informatie en communicatie;Groningen (PV);2011;2003;563;1163.0
+543;J Informatie en communicatie;Groningen (PV);2012;1892;553;1086.0
+544;J Informatie en communicatie;Groningen (PV);2013;1640;478;943.0
+545;J Informatie en communicatie;Groningen (PV);2014;1842;507;
+546;J Informatie en communicatie;Friesland (PV);2009;723;192;321.0
+547;J Informatie en communicatie;Friesland (PV);2010;672;184;358.0
+548;J Informatie en communicatie;Friesland (PV);2011;797;217;429.0
+549;J Informatie en communicatie;Friesland (PV);2012;809;209;438.0
+550;J Informatie en communicatie;Friesland (PV);2013;778;190;380.0
+551;J Informatie en communicatie;Friesland (PV);2014;678;170;
+552;J Informatie en communicatie;Drenthe (PV);2009;349;112;144.0
+553;J Informatie en communicatie;Drenthe (PV);2010;290;96;140.0
+554;J Informatie en communicatie;Drenthe (PV);2011;306;110;149.0
+555;J Informatie en communicatie;Drenthe (PV);2012;341;129;168.0
+556;J Informatie en communicatie;Drenthe (PV);2013;460;171;213.0
+557;J Informatie en communicatie;Drenthe (PV);2014;372;133;
+558;J Informatie en communicatie;Overijssel (PV);2009;1599;465;732.0
+559;J Informatie en communicatie;Overijssel (PV);2010;1747;485;840.0
+560;J Informatie en communicatie;Overijssel (PV);2011;1478;462;666.0
+561;J Informatie en communicatie;Overijssel (PV);2012;1792;523;845.0
+562;J Informatie en communicatie;Overijssel (PV);2013;1782;574;876.0
+563;J Informatie en communicatie;Overijssel (PV);2014;2540;539;
+564;J Informatie en communicatie;Flevoland (PV);2009;782;270;338.0
+565;J Informatie en communicatie;Flevoland (PV);2010;670;225;303.0
+566;J Informatie en communicatie;Flevoland (PV);2011;668;225;289.0
+567;J Informatie en communicatie;Flevoland (PV);2012;703;234;298.0
+568;J Informatie en communicatie;Flevoland (PV);2013;839;246;351.0
+569;J Informatie en communicatie;Flevoland (PV);2014;971;336;
+570;J Informatie en communicatie;Gelderland (PV);2009;3008;1026;1406.0
+571;J Informatie en communicatie;Gelderland (PV);2010;3005;1029;1472.0
+572;J Informatie en communicatie;Gelderland (PV);2011;3118;1055;1406.0
+573;J Informatie en communicatie;Gelderland (PV);2012;3109;1067;1547.0
+574;J Informatie en communicatie;Gelderland (PV);2013;3109;1055;1536.0
+575;J Informatie en communicatie;Gelderland (PV);2014;3533;1063;
+576;J Informatie en communicatie;Utrecht (PV);2009;6987;2563;3549.0
+577;J Informatie en communicatie;Utrecht (PV);2010;5791;2257;2891.0
+578;J Informatie en communicatie;Utrecht (PV);2011;6537;2496;3308.0
+579;J Informatie en communicatie;Utrecht (PV);2012;6943;2679;3535.0
+580;J Informatie en communicatie;Utrecht (PV);2013;6690;2664;3551.0
+581;J Informatie en communicatie;Utrecht (PV);2014;6416;2594;
+582;J Informatie en communicatie;Noord-Holland (PV);2009;15489;4052;6530.0
+583;J Informatie en communicatie;Noord-Holland (PV);2010;16385;4203;6999.0
+584;J Informatie en communicatie;Noord-Holland (PV);2011;15279;4160;6806.0
+585;J Informatie en communicatie;Noord-Holland (PV);2012;15233;4343;6870.0
+586;J Informatie en communicatie;Noord-Holland (PV);2013;14388;4163;6667.0
+587;J Informatie en communicatie;Noord-Holland (PV);2014;22569;5864;
+588;J Informatie en communicatie;Zuid-Holland (PV);2009;11708;3116;5712.0
+589;J Informatie en communicatie;Zuid-Holland (PV);2010;11464;2858;5716.0
+590;J Informatie en communicatie;Zuid-Holland (PV);2011;12164;2991;5931.0
+591;J Informatie en communicatie;Zuid-Holland (PV);2012;13158;3306;6068.0
+592;J Informatie en communicatie;Zuid-Holland (PV);2013;12692;3297;5754.0
+593;J Informatie en communicatie;Zuid-Holland (PV);2014;11341;2876;
+594;J Informatie en communicatie;Zeeland (PV);2009;210;52;99.0
+595;J Informatie en communicatie;Zeeland (PV);2010;258;63;121.0
+596;J Informatie en communicatie;Zeeland (PV);2011;257;66;119.0
+597;J Informatie en communicatie;Zeeland (PV);2012;193;64;103.0
+598;J Informatie en communicatie;Zeeland (PV);2013;250;55;110.0
+599;J Informatie en communicatie;Zeeland (PV);2014;269;53;
+600;J Informatie en communicatie;Noord-Brabant (PV);2009;4273;1322;1983.0
+601;J Informatie en communicatie;Noord-Brabant (PV);2010;4737;1421;2323.0
+602;J Informatie en communicatie;Noord-Brabant (PV);2011;4403;1512;2118.0
+603;J Informatie en communicatie;Noord-Brabant (PV);2012;4375;1513;2105.0
+604;J Informatie en communicatie;Noord-Brabant (PV);2013;4478;1595;2158.0
+605;J Informatie en communicatie;Noord-Brabant (PV);2014;4769;1610;
+606;J Informatie en communicatie;Limburg (PV);2009;2680;557;1064.0
+607;J Informatie en communicatie;Limburg (PV);2010;2534;567;1049.0
+608;J Informatie en communicatie;Limburg (PV);2011;2519;502;975.0
+609;J Informatie en communicatie;Limburg (PV);2012;2507;535;1073.0
+610;J Informatie en communicatie;Limburg (PV);2013;2461;532;977.0
+611;J Informatie en communicatie;Limburg (PV);2014;2324;624;
+612;M Specialistische zakelijke diensten;Nederland;2009;67613;25569;32980.0
+613;M Specialistische zakelijke diensten;Nederland;2010;70342;25806;34083.0
+614;M Specialistische zakelijke diensten;Nederland;2011;72818;27103;35657.0
+615;M Specialistische zakelijke diensten;Nederland;2012;74503;26744;35461.0
+616;M Specialistische zakelijke diensten;Nederland;2013;74648;27125;35417.0
+617;M Specialistische zakelijke diensten;Nederland;2014;74130;27413;
+618;M Specialistische zakelijke diensten;Noord-Nederland (LD);2009;4092;1450;1961.0
+619;M Specialistische zakelijke diensten;Noord-Nederland (LD);2010;4245;1504;2019.0
+620;M Specialistische zakelijke diensten;Noord-Nederland (LD);2011;4377;1577;2118.0
+621;M Specialistische zakelijke diensten;Noord-Nederland (LD);2012;4332;1509;2105.0
+622;M Specialistische zakelijke diensten;Noord-Nederland (LD);2013;3247;1150;1379.0
+623;M Specialistische zakelijke diensten;Noord-Nederland (LD);2014;4361;1435;
+624;M Specialistische zakelijke diensten;Oost-Nederland (LD);2009;10470;3997;5190.0
+625;M Specialistische zakelijke diensten;Oost-Nederland (LD);2010;11714;4450;5924.0
+626;M Specialistische zakelijke diensten;Oost-Nederland (LD);2011;11750;4493;6004.0
+627;M Specialistische zakelijke diensten;Oost-Nederland (LD);2012;11557;4443;5901.0
+628;M Specialistische zakelijke diensten;Oost-Nederland (LD);2013;13541;4999;6572.0
+629;M Specialistische zakelijke diensten;Oost-Nederland (LD);2014;12833;4189;
+630;M Specialistische zakelijke diensten;West-Nederland (LD);2009;41812;16011;20034.0
+631;M Specialistische zakelijke diensten;West-Nederland (LD);2010;43352;15727;20551.0
+632;M Specialistische zakelijke diensten;West-Nederland (LD);2011;45017;16763;21655.0
+633;M Specialistische zakelijke diensten;West-Nederland (LD);2012;46558;16596;21717.0
+634;M Specialistische zakelijke diensten;West-Nederland (LD);2013;46342;16292;21670.0
+635;M Specialistische zakelijke diensten;West-Nederland (LD);2014;44751;17118;
+636;M Specialistische zakelijke diensten;Zuid-Nederland (LD);2009;11239;4111;5794.0
+637;M Specialistische zakelijke diensten;Zuid-Nederland (LD);2010;11030;4125;5588.0
+638;M Specialistische zakelijke diensten;Zuid-Nederland (LD);2011;11674;4270;5881.0
+639;M Specialistische zakelijke diensten;Zuid-Nederland (LD);2012;12056;4196;5738.0
+640;M Specialistische zakelijke diensten;Zuid-Nederland (LD);2013;11517;4684;5796.0
+641;M Specialistische zakelijke diensten;Zuid-Nederland (LD);2014;12185;4669;
+642;M Specialistische zakelijke diensten;Groningen (PV);2009;1468;576;740.0
+643;M Specialistische zakelijke diensten;Groningen (PV);2010;1526;584;758.0
+644;M Specialistische zakelijke diensten;Groningen (PV);2011;1615;632;830.0
+645;M Specialistische zakelijke diensten;Groningen (PV);2012;1583;594;797.0
+646;M Specialistische zakelijke diensten;Groningen (PV);2013;1382;492;606.0
+647;M Specialistische zakelijke diensten;Groningen (PV);2014;1552;566;
+648;M Specialistische zakelijke diensten;Friesland (PV);2009;1417;524;737.0
+649;M Specialistische zakelijke diensten;Friesland (PV);2010;1445;544;748.0
+650;M Specialistische zakelijke diensten;Friesland (PV);2011;1444;555;746.0
+651;M Specialistische zakelijke diensten;Friesland (PV);2012;1476;543;773.0
+652;M Specialistische zakelijke diensten;Friesland (PV);2013;784;329;367.0
+653;M Specialistische zakelijke diensten;Friesland (PV);2014;978;355;
+654;M Specialistische zakelijke diensten;Drenthe (PV);2009;1207;350;484.0
+655;M Specialistische zakelijke diensten;Drenthe (PV);2010;1275;376;514.0
+656;M Specialistische zakelijke diensten;Drenthe (PV);2011;1318;390;543.0
+657;M Specialistische zakelijke diensten;Drenthe (PV);2012;1273;372;536.0
+658;M Specialistische zakelijke diensten;Drenthe (PV);2013;1081;329;406.0
+659;M Specialistische zakelijke diensten;Drenthe (PV);2014;1831;514;
+660;M Specialistische zakelijke diensten;Overijssel (PV);2009;2952;1126;1483.0
+661;M Specialistische zakelijke diensten;Overijssel (PV);2010;3279;1251;1690.0
+662;M Specialistische zakelijke diensten;Overijssel (PV);2011;3293;1287;1735.0
+663;M Specialistische zakelijke diensten;Overijssel (PV);2012;3172;1248;1675.0
+664;M Specialistische zakelijke diensten;Overijssel (PV);2013;3681;1545;1847.0
+665;M Specialistische zakelijke diensten;Overijssel (PV);2014;5296;1357;
+666;M Specialistische zakelijke diensten;Flevoland (PV);2009;1125;381;495.0
+667;M Specialistische zakelijke diensten;Flevoland (PV);2010;1236;438;582.0
+668;M Specialistische zakelijke diensten;Flevoland (PV);2011;1192;451;599.0
+669;M Specialistische zakelijke diensten;Flevoland (PV);2012;1133;429;586.0
+670;M Specialistische zakelijke diensten;Flevoland (PV);2013;919;425;476.0
+671;M Specialistische zakelijke diensten;Flevoland (PV);2014;861;389;
+672;M Specialistische zakelijke diensten;Gelderland (PV);2009;6394;2490;3212.0
+673;M Specialistische zakelijke diensten;Gelderland (PV);2010;7199;2761;3652.0
+674;M Specialistische zakelijke diensten;Gelderland (PV);2011;7265;2754;3670.0
+675;M Specialistische zakelijke diensten;Gelderland (PV);2012;7252;2766;3639.0
+676;M Specialistische zakelijke diensten;Gelderland (PV);2013;8941;3029;4249.0
+677;M Specialistische zakelijke diensten;Gelderland (PV);2014;6676;2444;
+678;M Specialistische zakelijke diensten;Utrecht (PV);2009;8283;3210;3751.0
+679;M Specialistische zakelijke diensten;Utrecht (PV);2010;7850;2959;3698.0
+680;M Specialistische zakelijke diensten;Utrecht (PV);2011;8612;3362;4179.0
+681;M Specialistische zakelijke diensten;Utrecht (PV);2012;8559;3245;4012.0
+682;M Specialistische zakelijke diensten;Utrecht (PV);2013;8967;2950;4862.0
+683;M Specialistische zakelijke diensten;Utrecht (PV);2014;7974;3475;
+684;M Specialistische zakelijke diensten;Noord-Holland (PV);2009;17376;6140;8072.0
+685;M Specialistische zakelijke diensten;Noord-Holland (PV);2010;17951;6141;8496.0
+686;M Specialistische zakelijke diensten;Noord-Holland (PV);2011;18758;6626;9054.0
+687;M Specialistische zakelijke diensten;Noord-Holland (PV);2012;20053;6713;9253.0
+688;M Specialistische zakelijke diensten;Noord-Holland (PV);2013;18101;6038;7698.0
+689;M Specialistische zakelijke diensten;Noord-Holland (PV);2014;19697;6653;
+690;M Specialistische zakelijke diensten;Zuid-Holland (PV);2009;15625;6456;7919.0
+691;M Specialistische zakelijke diensten;Zuid-Holland (PV);2010;16882;6381;7992.0
+692;M Specialistische zakelijke diensten;Zuid-Holland (PV);2011;16973;6504;8042.0
+693;M Specialistische zakelijke diensten;Zuid-Holland (PV);2012;17271;6375;8077.0
+694;M Specialistische zakelijke diensten;Zuid-Holland (PV);2013;18804;7076;8853.0
+695;M Specialistische zakelijke diensten;Zuid-Holland (PV);2014;16603;6798;
+696;M Specialistische zakelijke diensten;Zeeland (PV);2009;528;206;291.0
+697;M Specialistische zakelijke diensten;Zeeland (PV);2010;668;246;365.0
+698;M Specialistische zakelijke diensten;Zeeland (PV);2011;674;271;380.0
+699;M Specialistische zakelijke diensten;Zeeland (PV);2012;675;264;374.0
+700;M Specialistische zakelijke diensten;Zeeland (PV);2013;471;229;257.0
+701;M Specialistische zakelijke diensten;Zeeland (PV);2014;477;194;
+702;M Specialistische zakelijke diensten;Noord-Brabant (PV);2009;8114;3003;4160.0
+703;M Specialistische zakelijke diensten;Noord-Brabant (PV);2010;8540;3158;4301.0
+704;M Specialistische zakelijke diensten;Noord-Brabant (PV);2011;8871;3203;4471.0
+705;M Specialistische zakelijke diensten;Noord-Brabant (PV);2012;9160;3169;4358.0
+706;M Specialistische zakelijke diensten;Noord-Brabant (PV);2013;9089;3702;4589.0
+707;M Specialistische zakelijke diensten;Noord-Brabant (PV);2014;8916;3460;
+708;M Specialistische zakelijke diensten;Limburg (PV);2009;3125;1108;1634.0
+709;M Specialistische zakelijke diensten;Limburg (PV);2010;2490;967;1287.0
+710;M Specialistische zakelijke diensten;Limburg (PV);2011;2803;1067;1410.0
+711;M Specialistische zakelijke diensten;Limburg (PV);2012;2896;1027;1380.0
+712;M Specialistische zakelijke diensten;Limburg (PV);2013;2428;982;1207.0
+713;M Specialistische zakelijke diensten;Limburg (PV);2014;3269;1209;
+714;N Verhuur en overige zakelijke diensten;Nederland;2009;46713;15636;19909.0
+715;N Verhuur en overige zakelijke diensten;Nederland;2010;47630;15965;20594.0
+716;N Verhuur en overige zakelijke diensten;Nederland;2011;51411;16642;21206.0
+717;N Verhuur en overige zakelijke diensten;Nederland;2012;52275;16782;21932.0
+718;N Verhuur en overige zakelijke diensten;Nederland;2013;53912;17667;23159.0
+719;N Verhuur en overige zakelijke diensten;Nederland;2014;58103;18855;
+720;N Verhuur en overige zakelijke diensten;Noord-Nederland (LD);2009;3227;1082;1286.0
+721;N Verhuur en overige zakelijke diensten;Noord-Nederland (LD);2010;3183;1028;1289.0
+722;N Verhuur en overige zakelijke diensten;Noord-Nederland (LD);2011;3574;1119;1325.0
+723;N Verhuur en overige zakelijke diensten;Noord-Nederland (LD);2012;3712;1201;1433.0
+724;N Verhuur en overige zakelijke diensten;Noord-Nederland (LD);2013;3969;1297;1453.0
+725;N Verhuur en overige zakelijke diensten;Noord-Nederland (LD);2014;4017;1380;
+726;N Verhuur en overige zakelijke diensten;Oost-Nederland (LD);2009;8256;2764;3716.0
+727;N Verhuur en overige zakelijke diensten;Oost-Nederland (LD);2010;8352;3016;3870.0
+728;N Verhuur en overige zakelijke diensten;Oost-Nederland (LD);2011;8984;3059;4056.0
+729;N Verhuur en overige zakelijke diensten;Oost-Nederland (LD);2012;8511;2732;3474.0
+730;N Verhuur en overige zakelijke diensten;Oost-Nederland (LD);2013;8278;2860;3627.0
+731;N Verhuur en overige zakelijke diensten;Oost-Nederland (LD);2014;8732;3028;
+732;N Verhuur en overige zakelijke diensten;West-Nederland (LD);2009;27166;8654;11284.0
+733;N Verhuur en overige zakelijke diensten;West-Nederland (LD);2010;27433;8700;11532.0
+734;N Verhuur en overige zakelijke diensten;West-Nederland (LD);2011;28368;8983;11442.0
+735;N Verhuur en overige zakelijke diensten;West-Nederland (LD);2012;29958;9271;12439.0
+736;N Verhuur en overige zakelijke diensten;West-Nederland (LD);2013;30998;9676;13188.0
+737;N Verhuur en overige zakelijke diensten;West-Nederland (LD);2014;34819;10783;
+738;N Verhuur en overige zakelijke diensten;Zuid-Nederland (LD);2009;8065;3137;3623.0
+739;N Verhuur en overige zakelijke diensten;Zuid-Nederland (LD);2010;8662;3220;3904.0
+740;N Verhuur en overige zakelijke diensten;Zuid-Nederland (LD);2011;10485;3482;4384.0
+741;N Verhuur en overige zakelijke diensten;Zuid-Nederland (LD);2012;10095;3578;4586.0
+742;N Verhuur en overige zakelijke diensten;Zuid-Nederland (LD);2013;10667;3834;4890.0
+743;N Verhuur en overige zakelijke diensten;Zuid-Nederland (LD);2014;10534;3663;
+744;N Verhuur en overige zakelijke diensten;Groningen (PV);2009;1157;449;481.0
+745;N Verhuur en overige zakelijke diensten;Groningen (PV);2010;1152;430;489.0
+746;N Verhuur en overige zakelijke diensten;Groningen (PV);2011;1232;438;502.0
+747;N Verhuur en overige zakelijke diensten;Groningen (PV);2012;1301;471;527.0
+748;N Verhuur en overige zakelijke diensten;Groningen (PV);2013;1380;516;546.0
+749;N Verhuur en overige zakelijke diensten;Groningen (PV);2014;1364;538;
+750;N Verhuur en overige zakelijke diensten;Friesland (PV);2009;1199;352;435.0
+751;N Verhuur en overige zakelijke diensten;Friesland (PV);2010;1218;323;428.0
+752;N Verhuur en overige zakelijke diensten;Friesland (PV);2011;1449;347;455.0
+753;N Verhuur en overige zakelijke diensten;Friesland (PV);2012;1417;358;451.0
+754;N Verhuur en overige zakelijke diensten;Friesland (PV);2013;1607;418;487.0
+755;N Verhuur en overige zakelijke diensten;Friesland (PV);2014;1587;409;
+756;N Verhuur en overige zakelijke diensten;Drenthe (PV);2009;871;280;370.0
+757;N Verhuur en overige zakelijke diensten;Drenthe (PV);2010;813;275;371.0
+758;N Verhuur en overige zakelijke diensten;Drenthe (PV);2011;892;334;367.0
+759;N Verhuur en overige zakelijke diensten;Drenthe (PV);2012;994;372;455.0
+760;N Verhuur en overige zakelijke diensten;Drenthe (PV);2013;982;363;420.0
+761;N Verhuur en overige zakelijke diensten;Drenthe (PV);2014;1065;434;
+762;N Verhuur en overige zakelijke diensten;Overijssel (PV);2009;2750;951;1146.0
+763;N Verhuur en overige zakelijke diensten;Overijssel (PV);2010;2703;1014;1187.0
+764;N Verhuur en overige zakelijke diensten;Overijssel (PV);2011;3001;997;1283.0
+765;N Verhuur en overige zakelijke diensten;Overijssel (PV);2012;2507;900;1009.0
+766;N Verhuur en overige zakelijke diensten;Overijssel (PV);2013;2376;928;1025.0
+767;N Verhuur en overige zakelijke diensten;Overijssel (PV);2014;2343;961;
+768;N Verhuur en overige zakelijke diensten;Flevoland (PV);2009;1229;284;679.0
+769;N Verhuur en overige zakelijke diensten;Flevoland (PV);2010;1138;264;601.0
+770;N Verhuur en overige zakelijke diensten;Flevoland (PV);2011;1169;286;679.0
+771;N Verhuur en overige zakelijke diensten;Flevoland (PV);2012;1264;296;653.0
+772;N Verhuur en overige zakelijke diensten;Flevoland (PV);2013;1261;267;626.0
+773;N Verhuur en overige zakelijke diensten;Flevoland (PV);2014;1469;384;
+774;N Verhuur en overige zakelijke diensten;Gelderland (PV);2009;4276;1529;1891.0
+775;N Verhuur en overige zakelijke diensten;Gelderland (PV);2010;4512;1738;2082.0
+776;N Verhuur en overige zakelijke diensten;Gelderland (PV);2011;4815;1776;2094.0
+777;N Verhuur en overige zakelijke diensten;Gelderland (PV);2012;4740;1537;1812.0
+778;N Verhuur en overige zakelijke diensten;Gelderland (PV);2013;4641;1665;1976.0
+779;N Verhuur en overige zakelijke diensten;Gelderland (PV);2014;4921;1683;
+780;N Verhuur en overige zakelijke diensten;Utrecht (PV);2009;4327;1508;2138.0
+781;N Verhuur en overige zakelijke diensten;Utrecht (PV);2010;4079;1564;1871.0
+782;N Verhuur en overige zakelijke diensten;Utrecht (PV);2011;4568;1535;1933.0
+783;N Verhuur en overige zakelijke diensten;Utrecht (PV);2012;5203;1807;2055.0
+784;N Verhuur en overige zakelijke diensten;Utrecht (PV);2013;5281;2031;2037.0
+785;N Verhuur en overige zakelijke diensten;Utrecht (PV);2014;5570;2210;
+786;N Verhuur en overige zakelijke diensten;Noord-Holland (PV);2009;10554;3257;4149.0
+787;N Verhuur en overige zakelijke diensten;Noord-Holland (PV);2010;11316;3374;4668.0
+788;N Verhuur en overige zakelijke diensten;Noord-Holland (PV);2011;11957;3691;4825.0
+789;N Verhuur en overige zakelijke diensten;Noord-Holland (PV);2012;12842;3662;5549.0
+790;N Verhuur en overige zakelijke diensten;Noord-Holland (PV);2013;14209;3998;6614.0
+791;N Verhuur en overige zakelijke diensten;Noord-Holland (PV);2014;17213;4600;
+792;N Verhuur en overige zakelijke diensten;Zuid-Holland (PV);2009;11579;3657;4708.0
+793;N Verhuur en overige zakelijke diensten;Zuid-Holland (PV);2010;11325;3508;4680.0
+794;N Verhuur en overige zakelijke diensten;Zuid-Holland (PV);2011;11048;3502;4366.0
+795;N Verhuur en overige zakelijke diensten;Zuid-Holland (PV);2012;11151;3522;4494.0
+796;N Verhuur en overige zakelijke diensten;Zuid-Holland (PV);2013;10800;3423;4248.0
+797;N Verhuur en overige zakelijke diensten;Zuid-Holland (PV);2014;11316;3723;
+798;N Verhuur en overige zakelijke diensten;Zeeland (PV);2009;705;232;290.0
+799;N Verhuur en overige zakelijke diensten;Zeeland (PV);2010;713;254;312.0
+800;N Verhuur en overige zakelijke diensten;Zeeland (PV);2011;795;255;317.0
+801;N Verhuur en overige zakelijke diensten;Zeeland (PV);2012;761;281;341.0
+802;N Verhuur en overige zakelijke diensten;Zeeland (PV);2013;709;224;290.0
+803;N Verhuur en overige zakelijke diensten;Zeeland (PV);2014;720;250;
+804;N Verhuur en overige zakelijke diensten;Noord-Brabant (PV);2009;5983;2346;2765.0
+805;N Verhuur en overige zakelijke diensten;Noord-Brabant (PV);2010;6579;2436;3028.0
+806;N Verhuur en overige zakelijke diensten;Noord-Brabant (PV);2011;7986;2592;3372.0
+807;N Verhuur en overige zakelijke diensten;Noord-Brabant (PV);2012;7643;2661;3521.0
+808;N Verhuur en overige zakelijke diensten;Noord-Brabant (PV);2013;8072;2790;3650.0
+809;N Verhuur en overige zakelijke diensten;Noord-Brabant (PV);2014;8004;2648;
+810;N Verhuur en overige zakelijke diensten;Limburg (PV);2009;2081;790;858.0
+811;N Verhuur en overige zakelijke diensten;Limburg (PV);2010;2083;784;876.0
+812;N Verhuur en overige zakelijke diensten;Limburg (PV);2011;2499;889;1012.0
+813;N Verhuur en overige zakelijke diensten;Limburg (PV);2012;2452;917;1065.0
+814;N Verhuur en overige zakelijke diensten;Limburg (PV);2013;2595;1043;1241.0
+815;N Verhuur en overige zakelijke diensten;Limburg (PV);2014;2531;1015;

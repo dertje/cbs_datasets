@@ -1,0 +1,469 @@
+﻿ID;Componenten;Perioden;InputprijsindexBouwkosten_1;OntwikkelingTOVEenJaarEerder_2
+0;Bouwkosten totaal;2012 januari;97.1;
+1;Bouwkosten totaal;2012 februari;97.3;
+2;Bouwkosten totaal;2012 maart;97.4;
+3;Bouwkosten totaal;2012 april;97.6;
+4;Bouwkosten totaal;2012 mei;97.6;
+5;Bouwkosten totaal;2012 juni;97.7;
+6;Bouwkosten totaal;2012 juli;97.6;
+7;Bouwkosten totaal;2012 augustus;98.0;
+8;Bouwkosten totaal;2012 september;97.9;
+9;Bouwkosten totaal;2012 oktober;97.8;
+10;Bouwkosten totaal;2012 november;97.8;
+11;Bouwkosten totaal;2012 december;97.7;
+12;Bouwkosten totaal;2012;97.6;
+13;Bouwkosten totaal;2013 januari;97.8;0.8
+14;Bouwkosten totaal;2013 februari;98.0;0.8
+15;Bouwkosten totaal;2013 maart;98.0;0.6
+16;Bouwkosten totaal;2013 april;97.9;0.3
+17;Bouwkosten totaal;2013 mei;97.9;0.3
+18;Bouwkosten totaal;2013 juni;97.8;0.1
+19;Bouwkosten totaal;2013 juli;97.6;0.1
+20;Bouwkosten totaal;2013 augustus;97.7;-0.3
+21;Bouwkosten totaal;2013 september;97.6;-0.3
+22;Bouwkosten totaal;2013 oktober;97.6;-0.2
+23;Bouwkosten totaal;2013 november;97.7;-0.1
+24;Bouwkosten totaal;2013 december;97.7;-0.1
+25;Bouwkosten totaal;2013;97.8;0.2
+26;Bouwkosten totaal;2014 januari;98.6;0.8
+27;Bouwkosten totaal;2014 februari;98.5;0.5
+28;Bouwkosten totaal;2014 maart;98.5;0.5
+29;Bouwkosten totaal;2014 april;98.5;0.6
+30;Bouwkosten totaal;2014 mei;98.5;0.6
+31;Bouwkosten totaal;2014 juni;98.5;0.7
+32;Bouwkosten totaal;2014 juli;98.5;0.9
+33;Bouwkosten totaal;2014 augustus;98.6;0.9
+34;Bouwkosten totaal;2014 september;98.6;1.0
+35;Bouwkosten totaal;2014 oktober;99.1;1.5
+36;Bouwkosten totaal;2014 november;99.1;1.5
+37;Bouwkosten totaal;2014 december;99.3;1.6
+38;Bouwkosten totaal;2014;98.7;0.9
+39;Bouwkosten totaal;2015 januari;99.2;0.6
+40;Bouwkosten totaal;2015 februari;99.2;0.7
+41;Bouwkosten totaal;2015 maart;99.4;0.9
+42;Bouwkosten totaal;2015 april;99.6;1.2
+43;Bouwkosten totaal;2015 mei;99.6;1.1
+44;Bouwkosten totaal;2015 juni;99.6;1.1
+45;Bouwkosten totaal;2015 juli;100.2;1.7
+46;Bouwkosten totaal;2015 augustus;100.3;1.7
+47;Bouwkosten totaal;2015 september;100.3;1.7
+48;Bouwkosten totaal;2015 oktober;100.7;1.7
+49;Bouwkosten totaal;2015 november;100.8;1.7
+50;Bouwkosten totaal;2015 december;101.1;1.9
+51;Bouwkosten totaal;2015;100.0;1.3
+52;Bouwkosten totaal;2016 januari;101.2;2.0
+53;Bouwkosten totaal;2016 februari;101.2;2.0
+54;Bouwkosten totaal;2016 maart;101.3;2.0
+55;Bouwkosten totaal;2016 april;100.9;1.2
+56;Bouwkosten totaal;2016 mei;101.1;1.5
+57;Bouwkosten totaal;2016 juni;101.2;1.6
+58;Bouwkosten totaal;2016 juli;102.0;1.8
+59;Bouwkosten totaal;2016 augustus;102.1;1.8
+60;Bouwkosten totaal;2016 september;102.0;1.7
+61;Bouwkosten totaal;2016 oktober;102.1;1.4
+62;Bouwkosten totaal;2016 november;102.3;1.5
+63;Bouwkosten totaal;2016 december;102.3;1.2
+64;Bouwkosten totaal;2016;101.7;1.7
+65;Bouwkosten totaal;2017 januari;102.9;1.7
+66;Bouwkosten totaal;2017 februari;103.0;1.8
+67;Bouwkosten totaal;2017 maart;103.2;1.8
+68;Bouwkosten totaal;2017 april;103.5;2.6
+69;Bouwkosten totaal;2017 mei;103.4;2.3
+70;Bouwkosten totaal;2017 juni;103.5;2.3
+71;Bouwkosten totaal;2017 juli;103.6;1.6
+72;Bouwkosten totaal;2017 augustus;104.4;2.2
+73;Bouwkosten totaal;2017 september;104.4;2.3
+74;Bouwkosten totaal;2017 oktober;104.7;2.5
+75;Bouwkosten totaal;2017 november;105.0;2.6
+76;Bouwkosten totaal;2017 december;104.6;2.2
+77;Bouwkosten totaal;2017;103.9;2.2
+78;Bouwkosten totaal;2018 januari;105.5;2.5
+79;Bouwkosten totaal;2018 februari;105.6;2.5
+80;Bouwkosten totaal;2018 maart;105.3;2.1
+81;Bouwkosten totaal;2018 april;105.6;2.0
+82;Bouwkosten totaal;2018 mei;105.8;2.3
+83;Bouwkosten totaal;2018 juni;106.0;2.4
+84;Bouwkosten totaal;2018 juli;106.6;2.9
+85;Bouwkosten totaal;2018 augustus;107.3;2.8
+86;Bouwkosten totaal;2018 september;107.7;3.2
+87;Bouwkosten totaal;2018 oktober;107.5;2.7
+88;Bouwkosten totaal;2018 november;107.3;2.2
+89;Bouwkosten totaal;2018 december;107.6;2.9
+90;Bouwkosten totaal;2018;106.5;2.5
+91;Bouwkosten totaal;2019 januari;108.6;3.0
+92;Bouwkosten totaal;2019 februari;108.6;2.8
+93;Bouwkosten totaal;2019 maart;108.7;3.2
+94;Bouwkosten totaal;2019 april;108.8;3.0
+95;Bouwkosten totaal;2019 mei;108.9;3.0
+96;Bouwkosten totaal;2019 juni;109.0;2.8
+97;Bouwkosten totaal;2019 juli;110.3;3.4
+98;Bouwkosten totaal;2019 augustus;109.9;2.5
+99;Bouwkosten totaal;2019 september;110.1;2.2
+100;Bouwkosten totaal;2019 oktober;110.0;2.4
+101;Bouwkosten totaal;2019 november;110.0;2.5
+102;Bouwkosten totaal;2019 december;110.8;3.0
+103;Bouwkosten totaal;2019;109.5;2.8
+104;Bouwkosten totaal;2020 januari;111.7;2.8
+105;Bouwkosten totaal;2020 februari;111.7;2.8
+106;Bouwkosten totaal;2020 maart;111.6;2.7
+107;Bouwkosten totaal;2020 april;111.1;2.1
+108;Bouwkosten totaal;2020 mei;111.1;2.0
+109;Bouwkosten totaal;2020 juni;111.1;2.0
+110;Bouwkosten totaal;2020 juli;112.2;1.7
+111;Bouwkosten totaal;2020 augustus;112.5;2.3
+112;Bouwkosten totaal;2020 september;112.3;2.0
+113;Bouwkosten totaal;2020 oktober;112.1;1.9
+114;Bouwkosten totaal;2020 november;112.2;2.0
+115;Bouwkosten totaal;2020 december;113.2;2.1
+116;Bouwkosten totaal;2020;111.9;2.2
+117;Bouwkosten totaal;2021 januari;114.0;2.1
+118;Bouwkosten totaal;2021 februari;114.0;2.1
+119;Bouwkosten totaal;2021 maart;114.3;2.4
+120;Bouwkosten totaal;2021 april;115.1;3.6
+121;Bouwkosten totaal;2021 mei;115.9;4.4
+122;Bouwkosten totaal;2021 juni;116.9;5.2
+123;Bouwkosten totaal;2021 juli;118.2;5.4
+124;Bouwkosten totaal;2021 augustus;118.0;5.0
+125;Bouwkosten totaal;2021 september;118.3;5.4
+126;Bouwkosten totaal;2021 oktober;119.1;6.3
+127;Bouwkosten totaal;2021 november;119.3;6.3
+128;Bouwkosten totaal;2021 december;119.5;5.6
+129;Bouwkosten totaal;2021;116.9;4.5
+130;Bouwkosten totaal;2022 januari;122.5;7.5
+131;Bouwkosten totaal;2022 februari;123.1;8.0
+132;Bouwkosten totaal;2022 maart;125.2;9.6
+133;Bouwkosten totaal;2022 april;127.4;10.6
+134;Bouwkosten totaal;2022 mei;128.0;10.4
+135;Bouwkosten totaal;2022 juni;127.5;9.1
+136;Bouwkosten totaal;2022 juli;128.5;8.7
+137;Bouwkosten totaal;2022 augustus;128.7;9.0
+138;Bouwkosten totaal;2022 september;129.6;9.5
+139;Bouwkosten totaal;2022 oktober;130.0;9.1
+140;Bouwkosten totaal;2022 november;129.7;8.8
+141;Bouwkosten totaal;2022 december;129.7;8.5
+142;Bouwkosten totaal;2022;127.5;9.1
+143;Bouwkosten totaal;2023 januari;133.1;8.7
+144;Bouwkosten totaal;2023 februari;133.5;8.5
+145;Bouwkosten totaal;2023 maart;134.4;7.4
+146;Bouwkosten totaal;2023 april;134.6;5.7
+147;Bouwkosten totaal;2023 mei;134.7;5.2
+148;Bouwkosten totaal;2023 juni;134.5;5.5
+149;Bouwkosten totaal;2023 juli;134.7;4.8
+150;Bouwkosten totaal;2023 augustus;134.2;4.3
+151;Bouwkosten totaal;2023 september;134.3;3.6
+152;Bouwkosten totaal;2023 oktober;134.2;3.2
+153;Bouwkosten totaal;2023 november;133.8;3.1
+154;Bouwkosten totaal;2023 december;133.8;3.2
+155;Bouwkosten totaal;2023;134.2;5.2
+156;Looncomponent;2012 januari;94.1;
+157;Looncomponent;2012 februari;94.5;
+158;Looncomponent;2012 maart;94.5;
+159;Looncomponent;2012 april;95.2;
+160;Looncomponent;2012 mei;95.2;
+161;Looncomponent;2012 juni;95.2;
+162;Looncomponent;2012 juli;95.3;
+163;Looncomponent;2012 augustus;96.1;
+164;Looncomponent;2012 september;96.1;
+165;Looncomponent;2012 oktober;96.1;
+166;Looncomponent;2012 november;96.1;
+167;Looncomponent;2012 december;96.1;
+168;Looncomponent;2012;95.4;
+169;Looncomponent;2013 januari;96.6;2.7
+170;Looncomponent;2013 februari;97.0;2.7
+171;Looncomponent;2013 maart;97.0;2.7
+172;Looncomponent;2013 april;97.2;2.1
+173;Looncomponent;2013 mei;97.2;2.1
+174;Looncomponent;2013 juni;97.2;2.0
+175;Looncomponent;2013 juli;97.2;2.0
+176;Looncomponent;2013 augustus;97.2;1.2
+177;Looncomponent;2013 september;97.2;1.2
+178;Looncomponent;2013 oktober;97.2;1.2
+179;Looncomponent;2013 november;97.2;1.2
+180;Looncomponent;2013 december;97.2;1.2
+181;Looncomponent;2013;97.1;1.8
+182;Looncomponent;2014 januari;98.9;2.3
+183;Looncomponent;2014 februari;98.9;1.9
+184;Looncomponent;2014 maart;99.0;2.0
+185;Looncomponent;2014 april;99.0;1.8
+186;Looncomponent;2014 mei;99.0;1.8
+187;Looncomponent;2014 juni;99.0;1.8
+188;Looncomponent;2014 juli;99.0;1.8
+189;Looncomponent;2014 augustus;99.0;1.8
+190;Looncomponent;2014 september;99.0;1.8
+191;Looncomponent;2014 oktober;99.6;2.5
+192;Looncomponent;2014 november;99.6;2.5
+193;Looncomponent;2014 december;99.6;2.5
+194;Looncomponent;2014;99.1;2.1
+195;Looncomponent;2015 januari;99.2;0.4
+196;Looncomponent;2015 februari;99.2;0.4
+197;Looncomponent;2015 maart;99.3;0.4
+198;Looncomponent;2015 april;99.3;0.4
+199;Looncomponent;2015 mei;99.3;0.4
+200;Looncomponent;2015 juni;99.3;0.4
+201;Looncomponent;2015 juli;100.5;1.6
+202;Looncomponent;2015 augustus;100.5;1.6
+203;Looncomponent;2015 september;100.5;1.6
+204;Looncomponent;2015 oktober;100.6;1.0
+205;Looncomponent;2015 november;100.6;1.0
+206;Looncomponent;2015 december;101.4;1.7
+207;Looncomponent;2015;100.0;0.9
+208;Looncomponent;2016 januari;100.9;1.7
+209;Looncomponent;2016 februari;100.9;1.7
+210;Looncomponent;2016 maart;100.9;1.6
+211;Looncomponent;2016 april;100.9;1.6
+212;Looncomponent;2016 mei;100.9;1.6
+213;Looncomponent;2016 juni;100.9;1.6
+214;Looncomponent;2016 juli;102.3;1.7
+215;Looncomponent;2016 augustus;102.3;1.7
+216;Looncomponent;2016 september;102.4;1.8
+217;Looncomponent;2016 oktober;102.4;1.7
+218;Looncomponent;2016 november;102.4;1.7
+219;Looncomponent;2016 december;102.4;1.0
+220;Looncomponent;2016;101.6;1.6
+221;Looncomponent;2017 januari;103.1;2.2
+222;Looncomponent;2017 februari;103.1;2.2
+223;Looncomponent;2017 maart;103.1;2.2
+224;Looncomponent;2017 april;103.1;2.2
+225;Looncomponent;2017 mei;103.0;2.1
+226;Looncomponent;2017 juni;103.0;2.1
+227;Looncomponent;2017 juli;103.6;1.3
+228;Looncomponent;2017 augustus;104.4;2.1
+229;Looncomponent;2017 september;104.4;2.0
+230;Looncomponent;2017 oktober;104.4;2.0
+231;Looncomponent;2017 november;104.4;2.0
+232;Looncomponent;2017 december;104.4;2.0
+233;Looncomponent;2017;103.7;2.0
+234;Looncomponent;2018 januari;105.2;2.0
+235;Looncomponent;2018 februari;105.2;2.0
+236;Looncomponent;2018 maart;105.2;2.0
+237;Looncomponent;2018 april;105.2;2.0
+238;Looncomponent;2018 mei;105.2;2.1
+239;Looncomponent;2018 juni;105.2;2.1
+240;Looncomponent;2018 juli;106.2;2.6
+241;Looncomponent;2018 augustus;107.4;2.9
+242;Looncomponent;2018 september;107.4;2.9
+243;Looncomponent;2018 oktober;107.5;3.0
+244;Looncomponent;2018 november;107.5;3.0
+245;Looncomponent;2018 december;107.5;3.0
+246;Looncomponent;2018;106.2;2.5
+247;Looncomponent;2019 januari;107.7;2.4
+248;Looncomponent;2019 februari;107.7;2.4
+249;Looncomponent;2019 maart;107.7;2.4
+250;Looncomponent;2019 april;107.8;2.4
+251;Looncomponent;2019 mei;107.8;2.4
+252;Looncomponent;2019 juni;108.0;2.7
+253;Looncomponent;2019 juli;110.0;3.5
+254;Looncomponent;2019 augustus;110.0;2.4
+255;Looncomponent;2019 september;110.0;2.4
+256;Looncomponent;2019 oktober;110.0;2.3
+257;Looncomponent;2019 november;110.0;2.3
+258;Looncomponent;2019 december;111.7;3.9
+259;Looncomponent;2019;109.0;2.6
+260;Looncomponent;2020 januari;112.3;4.3
+261;Looncomponent;2020 februari;112.3;4.3
+262;Looncomponent;2020 maart;112.3;4.3
+263;Looncomponent;2020 april;112.3;4.3
+264;Looncomponent;2020 mei;112.4;4.3
+265;Looncomponent;2020 juni;112.5;4.2
+266;Looncomponent;2020 juli;114.4;4.0
+267;Looncomponent;2020 augustus;114.4;4.0
+268;Looncomponent;2020 september;114.4;4.0
+269;Looncomponent;2020 oktober;114.4;4.0
+270;Looncomponent;2020 november;114.4;4.0
+271;Looncomponent;2020 december;115.4;3.3
+272;Looncomponent;2020;113.5;4.1
+273;Looncomponent;2021 januari;114.8;2.2
+274;Looncomponent;2021 februari;114.8;2.2
+275;Looncomponent;2021 maart;115.3;2.6
+276;Looncomponent;2021 april;115.3;2.6
+277;Looncomponent;2021 mei;115.3;2.5
+278;Looncomponent;2021 juni;115.3;2.4
+279;Looncomponent;2021 juli;115.3;0.8
+280;Looncomponent;2021 augustus;114.1;-0.2
+281;Looncomponent;2021 september;114.1;-0.2
+282;Looncomponent;2021 oktober;114.5;0.1
+283;Looncomponent;2021 november;114.5;0.1
+284;Looncomponent;2021 december;114.5;-0.8
+285;Looncomponent;2021;114.8;1.2
+286;Looncomponent;2022 januari;117.2;2.1
+287;Looncomponent;2022 februari;117.2;2.1
+288;Looncomponent;2022 maart;117.3;1.7
+289;Looncomponent;2022 april;117.8;2.1
+290;Looncomponent;2022 mei;117.8;2.1
+291;Looncomponent;2022 juni;117.8;2.1
+292;Looncomponent;2022 juli;117.8;2.2
+293;Looncomponent;2022 augustus;117.8;3.3
+294;Looncomponent;2022 september;119.3;4.6
+295;Looncomponent;2022 oktober;119.3;4.2
+296;Looncomponent;2022 november;119.3;4.2
+297;Looncomponent;2022 december;119.3;4.2
+298;Looncomponent;2022;118.2;2.9
+299;Looncomponent;2023 januari;121.0;3.2
+300;Looncomponent;2023 februari;121.0;3.2
+301;Looncomponent;2023 maart;122.8;4.7
+302;Looncomponent;2023 april;122.9;4.4
+303;Looncomponent;2023 mei;122.9;4.4
+304;Looncomponent;2023 juni;122.9;4.4
+305;Looncomponent;2023 juli;124.4;5.6
+306;Looncomponent;2023 augustus;124.4;5.6
+307;Looncomponent;2023 september;124.4;4.3
+308;Looncomponent;2023 oktober;124.4;4.3
+309;Looncomponent;2023 november;124.4;4.3
+310;Looncomponent;2023 december;124.4;4.3
+311;Looncomponent;2023;123.3;4.4
+312;Materiaalcomponent;2012 januari;99.9;
+313;Materiaalcomponent;2012 februari;100.0;
+314;Materiaalcomponent;2012 maart;100.2;
+315;Materiaalcomponent;2012 april;100.0;
+316;Materiaalcomponent;2012 mei;100.0;
+317;Materiaalcomponent;2012 juni;100.1;
+318;Materiaalcomponent;2012 juli;99.8;
+319;Materiaalcomponent;2012 augustus;99.8;
+320;Materiaalcomponent;2012 september;99.8;
+321;Materiaalcomponent;2012 oktober;99.6;
+322;Materiaalcomponent;2012 november;99.5;
+323;Materiaalcomponent;2012 december;99.4;
+324;Materiaalcomponent;2012;99.8;
+325;Materiaalcomponent;2013 januari;99.0;-1.0
+326;Materiaalcomponent;2013 februari;99.1;-1.0
+327;Materiaalcomponent;2013 maart;99.0;-1.2
+328;Materiaalcomponent;2013 april;98.7;-1.3
+329;Materiaalcomponent;2013 mei;98.6;-1.5
+330;Materiaalcomponent;2013 juni;98.3;-1.7
+331;Materiaalcomponent;2013 juli;98.1;-1.7
+332;Materiaalcomponent;2013 augustus;98.2;-1.6
+333;Materiaalcomponent;2013 september;98.0;-1.8
+334;Materiaalcomponent;2013 oktober;98.1;-1.5
+335;Materiaalcomponent;2013 november;98.2;-1.4
+336;Materiaalcomponent;2013 december;98.1;-1.3
+337;Materiaalcomponent;2013;98.4;-1.4
+338;Materiaalcomponent;2014 januari;98.4;-0.6
+339;Materiaalcomponent;2014 februari;98.1;-0.9
+340;Materiaalcomponent;2014 maart;98.0;-1.0
+341;Materiaalcomponent;2014 april;98.1;-0.6
+342;Materiaalcomponent;2014 mei;98.0;-0.5
+343;Materiaalcomponent;2014 juni;98.0;-0.3
+344;Materiaalcomponent;2014 juli;98.1;0.1
+345;Materiaalcomponent;2014 augustus;98.3;0.1
+346;Materiaalcomponent;2014 september;98.3;0.3
+347;Materiaalcomponent;2014 oktober;98.6;0.5
+348;Materiaalcomponent;2014 november;98.6;0.5
+349;Materiaalcomponent;2014 december;98.9;0.8
+350;Materiaalcomponent;2014;98.3;-0.1
+351;Materiaalcomponent;2015 januari;99.1;0.8
+352;Materiaalcomponent;2015 februari;99.2;1.1
+353;Materiaalcomponent;2015 maart;99.4;1.4
+354;Materiaalcomponent;2015 april;99.9;1.9
+355;Materiaalcomponent;2015 mei;99.8;1.8
+356;Materiaalcomponent;2015 juni;99.8;1.8
+357;Materiaalcomponent;2015 juli;99.9;1.8
+358;Materiaalcomponent;2015 augustus;100.1;1.8
+359;Materiaalcomponent;2015 september;100.0;1.8
+360;Materiaalcomponent;2015 oktober;100.9;2.3
+361;Materiaalcomponent;2015 november;100.9;2.3
+362;Materiaalcomponent;2015 december;100.9;2.0
+363;Materiaalcomponent;2015;100.0;1.7
+364;Materiaalcomponent;2016 januari;101.6;2.4
+365;Materiaalcomponent;2016 februari;101.5;2.4
+366;Materiaalcomponent;2016 maart;101.8;2.4
+367;Materiaalcomponent;2016 april;100.9;1.0
+368;Materiaalcomponent;2016 mei;101.3;1.5
+369;Materiaalcomponent;2016 juni;101.5;1.7
+370;Materiaalcomponent;2016 juli;101.7;1.9
+371;Materiaalcomponent;2016 augustus;102.0;1.9
+372;Materiaalcomponent;2016 september;101.7;1.7
+373;Materiaalcomponent;2016 oktober;101.9;1.0
+374;Materiaalcomponent;2016 november;102.3;1.3
+375;Materiaalcomponent;2016 december;102.3;1.4
+376;Materiaalcomponent;2016;101.7;1.7
+377;Materiaalcomponent;2017 januari;102.7;1.2
+378;Materiaalcomponent;2017 februari;102.9;1.4
+379;Materiaalcomponent;2017 maart;103.3;1.5
+380;Materiaalcomponent;2017 april;104.0;3.0
+381;Materiaalcomponent;2017 mei;103.7;2.4
+382;Materiaalcomponent;2017 juni;104.0;2.4
+383;Materiaalcomponent;2017 juli;103.7;1.9
+384;Materiaalcomponent;2017 augustus;104.3;2.3
+385;Materiaalcomponent;2017 september;104.4;2.6
+386;Materiaalcomponent;2017 oktober;105.0;3.1
+387;Materiaalcomponent;2017 november;105.6;3.3
+388;Materiaalcomponent;2017 december;104.8;2.4
+389;Materiaalcomponent;2017;104.0;2.3
+390;Materiaalcomponent;2018 januari;105.8;2.9
+391;Materiaalcomponent;2018 februari;106.0;3.0
+392;Materiaalcomponent;2018 maart;105.5;2.2
+393;Materiaalcomponent;2018 april;106.1;2.0
+394;Materiaalcomponent;2018 mei;106.3;2.5
+395;Materiaalcomponent;2018 juni;106.8;2.8
+396;Materiaalcomponent;2018 juli;107.0;3.2
+397;Materiaalcomponent;2018 augustus;107.2;2.8
+398;Materiaalcomponent;2018 september;108.1;3.5
+399;Materiaalcomponent;2018 oktober;107.5;2.4
+400;Materiaalcomponent;2018 november;107.2;1.4
+401;Materiaalcomponent;2018 december;107.8;2.9
+402;Materiaalcomponent;2018;106.8;2.6
+403;Materiaalcomponent;2019 januari;109.5;3.6
+404;Materiaalcomponent;2019 februari;109.5;3.3
+405;Materiaalcomponent;2019 maart;109.8;4.1
+406;Materiaalcomponent;2019 april;109.9;3.6
+407;Materiaalcomponent;2019 mei;110.0;3.5
+408;Materiaalcomponent;2019 juni;109.9;2.9
+409;Materiaalcomponent;2019 juli;110.6;3.4
+410;Materiaalcomponent;2019 augustus;109.9;2.5
+411;Materiaalcomponent;2019 september;110.2;2.0
+412;Materiaalcomponent;2019 oktober;110.1;2.5
+413;Materiaalcomponent;2019 november;110.1;2.7
+414;Materiaalcomponent;2019 december;110.0;2.1
+415;Materiaalcomponent;2019;110.0;3.0
+416;Materiaalcomponent;2020 januari;111.0;1.4
+417;Materiaalcomponent;2020 februari;111.1;1.4
+418;Materiaalcomponent;2020 maart;111.0;1.1
+419;Materiaalcomponent;2020 april;110.0;0.1
+420;Materiaalcomponent;2020 mei;109.8;-0.2
+421;Materiaalcomponent;2020 juni;109.8;-0.1
+422;Materiaalcomponent;2020 juli;110.1;-0.5
+423;Materiaalcomponent;2020 augustus;110.6;0.6
+424;Materiaalcomponent;2020 september;110.3;0.1
+425;Materiaalcomponent;2020 oktober;109.9;-0.2
+426;Materiaalcomponent;2020 november;110.2;0.1
+427;Materiaalcomponent;2020 december;111.1;1.0
+428;Materiaalcomponent;2020;110.4;0.4
+429;Materiaalcomponent;2021 januari;113.2;1.9
+430;Materiaalcomponent;2021 februari;113.3;2.0
+431;Materiaalcomponent;2021 maart;113.4;2.1
+432;Materiaalcomponent;2021 april;115.1;4.6
+433;Materiaalcomponent;2021 mei;116.6;6.2
+434;Materiaalcomponent;2021 juni;118.5;7.9
+435;Materiaalcomponent;2021 juli;121.1;10.1
+436;Materiaalcomponent;2021 augustus;121.9;10.2
+437;Materiaalcomponent;2021 september;122.5;11.1
+438;Materiaalcomponent;2021 oktober;123.7;12.5
+439;Materiaalcomponent;2021 november;124.0;12.5
+440;Materiaalcomponent;2021 december;124.5;12.1
+441;Materiaalcomponent;2021;119.0;7.8
+442;Materiaalcomponent;2022 januari;127.6;12.8
+443;Materiaalcomponent;2022 februari;128.9;13.8
+444;Materiaalcomponent;2022 maart;132.9;17.3
+445;Materiaalcomponent;2022 april;136.7;18.9
+446;Materiaalcomponent;2022 mei;138.0;18.4
+447;Materiaalcomponent;2022 juni;137.0;15.6
+448;Materiaalcomponent;2022 juli;138.9;14.7
+449;Materiaalcomponent;2022 augustus;139.2;14.2
+450;Materiaalcomponent;2022 september;139.6;14.0
+451;Materiaalcomponent;2022 oktober;140.4;13.5
+452;Materiaalcomponent;2022 november;139.9;12.8
+453;Materiaalcomponent;2022 december;139.8;12.3
+454;Materiaalcomponent;2022;136.6;14.8
+455;Materiaalcomponent;2023 januari;144.9;13.5
+456;Materiaalcomponent;2023 februari;145.7;13.1
+457;Materiaalcomponent;2023 maart;145.8;9.7
+458;Materiaalcomponent;2023 april;146.1;6.8
+459;Materiaalcomponent;2023 mei;146.1;5.8
+460;Materiaalcomponent;2023 juni;145.8;6.4
+461;Materiaalcomponent;2023 juli;144.7;4.1
+462;Materiaalcomponent;2023 augustus;143.8;3.3
+463;Materiaalcomponent;2023 september;144.0;3.1
+464;Materiaalcomponent;2023 oktober;143.7;2.3
+465;Materiaalcomponent;2023 november;143.0;2.2
+466;Materiaalcomponent;2023 december;143.1;2.3
+467;Materiaalcomponent;2023;144.7;5.9

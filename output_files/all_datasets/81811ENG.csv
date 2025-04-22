@@ -1,0 +1,1531 @@
+﻿ID;SectorBranchesSIC2008;Periods;Value_1;Price_2;Volume_3;Value_4;Price_5;Volume_6
+0;Hotels, restaurants and bars;2005 January;81.5;86.8;93.9;;;
+1;Hotels, restaurants and bars;2005 February;80.0;87.0;92.0;;;
+2;Hotels, restaurants and bars;2005 March;89.0;87.3;101.9;;;
+3;Hotels, restaurants and bars;2005 1st quarter;83.5;87.1;95.9;;;
+4;Hotels, restaurants and bars;2005 April;98.9;87.6;112.9;;;
+5;Hotels, restaurants and bars;2005 May;104.4;87.4;119.4;;;
+6;Hotels, restaurants and bars;2005 June;105.7;88.1;120.0;;;
+7;Hotels, restaurants and bars;2005 2nd quarter;103.0;87.7;117.4;;;
+8;Hotels, restaurants and bars;2005 July;103.3;87.7;117.8;;;
+9;Hotels, restaurants and bars;2005 August;102.1;87.3;117.0;;;
+10;Hotels, restaurants and bars;2005 September;104.9;88.1;119.0;;;
+11;Hotels, restaurants and bars;2005 3rd quarter;103.4;87.7;117.9;;;
+12;Hotels, restaurants and bars;2005 October;102.4;88.1;116.2;;;
+13;Hotels, restaurants and bars;2005 November;95.3;88.2;108.0;;;
+14;Hotels, restaurants and bars;2005 December;97.5;88.0;110.8;;;
+15;Hotels, restaurants and bars;2005 4th quarter;98.4;88.1;111.7;;;
+16;Hotels, restaurants and bars;2005;97.1;87.7;110.7;;;
+17;Hotels, restaurants and bars;2006 January;84.5;88.2;95.8;3.6;1.5;2.0
+18;Hotels, restaurants and bars;2006 February;82.9;88.5;93.7;3.5;1.7;1.8
+19;Hotels, restaurants and bars;2006 March;93.3;89.1;104.7;4.8;2.0;2.7
+20;Hotels, restaurants and bars;2006 1st quarter;86.9;88.6;98.0;4.0;1.8;2.2
+21;Hotels, restaurants and bars;2006 April;105.0;89.3;117.6;6.1;1.9;4.1
+22;Hotels, restaurants and bars;2006 May;109.8;89.4;122.9;5.2;2.2;3.0
+23;Hotels, restaurants and bars;2006 June;110.7;89.9;123.2;4.7;2.0;2.7
+24;Hotels, restaurants and bars;2006 2nd quarter;108.5;89.5;121.2;5.3;2.0;3.2
+25;Hotels, restaurants and bars;2006 July;107.4;89.3;120.2;4.0;1.8;2.1
+26;Hotels, restaurants and bars;2006 August;107.0;89.1;120.0;4.8;2.1;2.6
+27;Hotels, restaurants and bars;2006 September;111.8;90.3;123.8;6.5;2.5;4.0
+28;Hotels, restaurants and bars;2006 3rd quarter;108.7;89.6;121.3;5.1;2.1;2.9
+29;Hotels, restaurants and bars;2006 October;105.7;90.3;117.0;3.2;2.5;0.7
+30;Hotels, restaurants and bars;2006 November;100.9;90.6;111.4;6.0;2.8;3.1
+31;Hotels, restaurants and bars;2006 December;103.9;90.5;114.8;6.6;2.9;3.6
+32;Hotels, restaurants and bars;2006 4th quarter;103.5;90.5;114.4;5.2;2.7;2.4
+33;Hotels, restaurants and bars;2006;101.9;89.5;113.8;5.0;2.2;2.7
+34;Hotels, restaurants and bars;2007 January;90.3;90.8;99.5;6.9;3.0;3.9
+35;Hotels, restaurants and bars;2007 February;90.5;91.9;98.5;9.2;3.8;5.2
+36;Hotels, restaurants and bars;2007 March;102.3;92.1;111.1;9.7;3.4;6.1
+37;Hotels, restaurants and bars;2007 1st quarter;94.4;91.6;103.0;8.7;3.4;5.1
+38;Hotels, restaurants and bars;2007 April;113.0;92.2;122.6;7.6;3.2;4.3
+39;Hotels, restaurants and bars;2007 May;115.3;92.1;125.2;5.0;3.0;1.9
+40;Hotels, restaurants and bars;2007 June;119.2;92.6;128.6;7.6;3.1;4.4
+41;Hotels, restaurants and bars;2007 2nd quarter;115.8;92.3;125.5;6.7;3.1;3.5
+42;Hotels, restaurants and bars;2007 July;111.0;91.7;121.0;3.4;2.7;0.7
+43;Hotels, restaurants and bars;2007 August;109.9;91.8;119.7;2.8;3.0;-0.3
+44;Hotels, restaurants and bars;2007 September;113.5;93.8;121.1;1.6;3.9;-2.2
+45;Hotels, restaurants and bars;2007 3rd quarter;111.5;92.4;120.6;2.6;3.2;-0.6
+46;Hotels, restaurants and bars;2007 October;109.4;93.6;116.8;3.5;3.6;-0.2
+47;Hotels, restaurants and bars;2007 November;104.1;93.5;111.4;3.1;3.1;0.0
+48;Hotels, restaurants and bars;2007 December;106.6;93.3;114.2;2.6;3.1;-0.5
+49;Hotels, restaurants and bars;2007 4th quarter;106.7;93.5;114.1;3.1;3.3;-0.2
+50;Hotels, restaurants and bars;2007;107.1;92.4;115.8;5.1;3.2;1.8
+51;Hotels, restaurants and bars;2008 January;92.0;94.0;97.9;1.9;3.5;-1.6
+52;Hotels, restaurants and bars;2008 February;95.3;94.4;101.0;5.3;2.7;2.5
+53;Hotels, restaurants and bars;2008 March;103.4;95.0;108.8;1.0;3.2;-2.1
+54;Hotels, restaurants and bars;2008 1st quarter;96.9;94.5;102.6;2.7;3.1;-0.4
+55;Hotels, restaurants and bars;2008 April;112.7;96.3;117.0;-0.3;4.5;-4.5
+56;Hotels, restaurants and bars;2008 May;120.6;96.2;125.3;4.6;4.5;0.1
+57;Hotels, restaurants and bars;2008 June;115.5;96.0;120.4;-3.1;3.6;-6.4
+58;Hotels, restaurants and bars;2008 2nd quarter;116.2;96.1;120.9;0.4;4.2;-3.6
+59;Hotels, restaurants and bars;2008 July;109.9;95.5;115.1;-1.0;4.1;-4.9
+60;Hotels, restaurants and bars;2008 August;111.8;95.2;117.5;1.7;3.6;-1.8
+61;Hotels, restaurants and bars;2008 September;110.1;97.1;113.4;-3.0;3.5;-6.3
+62;Hotels, restaurants and bars;2008 3rd quarter;110.6;95.9;115.3;-0.8;3.8;-4.4
+63;Hotels, restaurants and bars;2008 October;108.8;97.1;112.1;-0.5;3.7;-4.1
+64;Hotels, restaurants and bars;2008 November;101.6;97.2;104.6;-2.3;4.0;-6.1
+65;Hotels, restaurants and bars;2008 December;100.1;96.8;103.4;-6.1;3.7;-9.4
+66;Hotels, restaurants and bars;2008 4th quarter;103.5;97.0;106.7;-3.0;3.8;-6.5
+67;Hotels, restaurants and bars;2008;106.8;95.9;111.4;-0.2;3.7;-3.8
+68;Hotels, restaurants and bars;2009 January;89.1;96.9;91.9;-3.2;3.1;-6.1
+69;Hotels, restaurants and bars;2009 February;88.5;97.3;91.0;-7.2;3.1;-10.0
+70;Hotels, restaurants and bars;2009 March;96.4;97.7;98.6;-6.7;2.9;-9.4
+71;Hotels, restaurants and bars;2009 1st quarter;91.3;97.3;93.8;-5.8;3.0;-8.5
+72;Hotels, restaurants and bars;2009 April;107.5;98.0;109.7;-4.6;1.8;-6.3
+73;Hotels, restaurants and bars;2009 May;112.6;97.9;115.0;-6.6;1.8;-8.2
+74;Hotels, restaurants and bars;2009 June;108.8;98.3;110.7;-5.8;2.4;-8.1
+75;Hotels, restaurants and bars;2009 2nd quarter;109.6;98.1;111.8;-5.7;2.0;-7.5
+76;Hotels, restaurants and bars;2009 July;108.0;97.6;110.7;-1.7;2.2;-3.8
+77;Hotels, restaurants and bars;2009 August;107.5;97.4;110.3;-3.9;2.3;-6.1
+78;Hotels, restaurants and bars;2009 September;103.0;99.2;103.8;-6.4;2.2;-8.5
+79;Hotels, restaurants and bars;2009 3rd quarter;106.2;98.1;108.3;-4.0;2.3;-6.1
+80;Hotels, restaurants and bars;2009 October;103.3;98.7;104.7;-5.1;1.6;-6.6
+81;Hotels, restaurants and bars;2009 November;94.5;99.2;95.3;-7.0;2.1;-8.9
+82;Hotels, restaurants and bars;2009 December;95.1;98.6;96.5;-4.9;1.9;-6.7
+83;Hotels, restaurants and bars;2009 4th quarter;97.7;98.8;98.8;-5.7;1.9;-7.4
+84;Hotels, restaurants and bars;2009;101.2;98.1;103.2;-5.3;2.3;-7.4
+85;Hotels, restaurants and bars;2010 January;83.7;99.0;84.5;-6.1;2.2;-8.1
+86;Hotels, restaurants and bars;2010 February;83.0;99.2;83.6;-6.3;2.0;-8.1
+87;Hotels, restaurants and bars;2010 March;92.2;99.6;92.5;-4.4;1.9;-6.2
+88;Hotels, restaurants and bars;2010 1st quarter;86.3;99.3;86.9;-5.6;2.0;-7.4
+89;Hotels, restaurants and bars;2010 April;104.5;100.0;104.4;-2.8;2.1;-4.8
+90;Hotels, restaurants and bars;2010 May;107.3;100.0;107.2;-4.7;2.2;-6.8
+91;Hotels, restaurants and bars;2010 June;105.8;100.1;105.7;-2.7;1.8;-4.5
+92;Hotels, restaurants and bars;2010 2nd quarter;105.9;100.1;105.8;-3.4;2.0;-5.4
+93;Hotels, restaurants and bars;2010 July;107.9;99.2;108.8;-0.1;1.6;-1.7
+94;Hotels, restaurants and bars;2010 August;106.0;99.8;106.2;-1.3;2.5;-3.7
+95;Hotels, restaurants and bars;2010 September;106.8;101.0;105.7;3.7;1.8;1.9
+96;Hotels, restaurants and bars;2010 3rd quarter;106.9;100.0;106.9;0.7;2.0;-1.2
+97;Hotels, restaurants and bars;2010 October;108.9;100.8;108.0;5.4;2.2;3.2
+98;Hotels, restaurants and bars;2010 November;97.1;100.8;96.3;2.7;1.6;1.1
+99;Hotels, restaurants and bars;2010 December;97.0;100.4;96.5;1.9;1.8;0.1
+100;Hotels, restaurants and bars;2010 4th quarter;101.0;100.7;100.3;3.4;1.9;1.5
+101;Hotels, restaurants and bars;2010;100.0;100.0;100.0;-1.2;2.0;-3.1
+102;Hotels, restaurants and bars;2011 January;88.3;101.1;87.3;5.5;2.1;3.3
+103;Hotels, restaurants and bars;2011 February;86.4;101.7;85.0;4.2;2.4;1.7
+104;Hotels, restaurants and bars;2011 March;100.2;102.2;98.1;8.8;2.6;6.0
+105;Hotels, restaurants and bars;2011 1st quarter;91.6;101.6;90.1;6.2;2.4;3.7
+106;Hotels, restaurants and bars;2011 April;112.3;102.6;109.5;7.5;2.5;4.8
+107;Hotels, restaurants and bars;2011 May;112.6;102.9;109.4;4.9;2.9;2.0
+108;Hotels, restaurants and bars;2011 June;115.0;102.9;111.8;8.7;2.8;5.7
+109;Hotels, restaurants and bars;2011 2nd quarter;113.3;102.8;110.2;7.0;2.7;4.2
+110;Hotels, restaurants and bars;2011 July;111.2;102.2;108.8;3.0;3.0;0.0
+111;Hotels, restaurants and bars;2011 August;106.7;102.1;104.6;0.6;2.3;-1.6
+112;Hotels, restaurants and bars;2011 September;112.4;103.7;108.4;5.2;2.7;2.5
+113;Hotels, restaurants and bars;2011 3rd quarter;110.1;102.7;107.2;3.0;2.6;0.3
+114;Hotels, restaurants and bars;2011 October;109.6;103.6;105.7;0.6;2.8;-2.1
+115;Hotels, restaurants and bars;2011 November;101.0;103.2;97.8;4.1;2.5;1.6
+116;Hotels, restaurants and bars;2011 December;102.3;102.8;99.4;5.5;2.4;3.0
+117;Hotels, restaurants and bars;2011 4th quarter;104.3;103.2;101.0;3.3;2.5;0.7
+118;Hotels, restaurants and bars;2011;104.8;102.6;102.1;4.8;2.6;2.2
+119;Hotels, restaurants and bars;2012 January;90.7;103.0;88.0;2.7;1.9;0.7
+120;Hotels, restaurants and bars;2012 February;89.1;103.5;86.1;3.1;1.8;1.3
+121;Hotels, restaurants and bars;2012 March;104.5;103.4;101.0;4.3;1.2;3.0
+122;Hotels, restaurants and bars;2012 1st quarter;94.7;103.3;91.7;3.4;1.6;1.7
+123;Hotels, restaurants and bars;2012 April;112.6;104.5;107.7;0.3;1.9;-1.6
+124;Hotels, restaurants and bars;2012 May;116.5;104.8;111.2;3.5;1.8;1.6
+125;Hotels, restaurants and bars;2012 June;115.4;104.6;110.4;0.4;1.6;-1.2
+126;Hotels, restaurants and bars;2012 2nd quarter;114.8;104.6;109.8;1.4;1.8;-0.4
+127;Hotels, restaurants and bars;2012 July;110.2;104.6;105.3;-0.8;2.4;-3.2
+128;Hotels, restaurants and bars;2012 August;109.4;104.1;105.1;2.5;2.0;0.5
+129;Hotels, restaurants and bars;2012 September;113.0;105.1;107.5;0.6;1.3;-0.8
+130;Hotels, restaurants and bars;2012 3rd quarter;110.9;104.6;106.0;0.7;1.9;-1.2
+131;Hotels, restaurants and bars;2012 October;108.1;105.4;102.6;-1.4;1.7;-3.0
+132;Hotels, restaurants and bars;2012 November;102.3;105.2;97.3;1.3;1.9;-0.5
+133;Hotels, restaurants and bars;2012 December;104.7;105.1;99.6;2.4;2.2;0.2
+134;Hotels, restaurants and bars;2012  4th quarter;105.0;105.2;99.8;0.7;1.9;-1.2
+135;Hotels, restaurants and bars;2012;106.4;104.4;101.8;1.5;1.8;-0.3
+136;Hotels, restaurants and bars;2013 January;89.6;105.2;85.2;-1.2;2.1;-3.2
+137;Hotels, restaurants and bars;2013 February;86.8;105.5;82.2;-2.6;1.9;-4.5
+138;Hotels, restaurants and bars;2013 March;102.5;105.8;96.8;-1.9;2.3;-4.2
+139;Hotels, restaurants and bars;2013 1st quarter;92.9;105.5;88.1;-1.9;2.1;-3.9
+140;Hotels, restaurants and bars;2013 April;111.7;106.1;105.3;-0.8;1.5;-2.2
+141;Hotels, restaurants and bars;2013 May;117.2;106.8;109.7;0.6;1.9;-1.3
+142;Hotels, restaurants and bars;2013 June;118.1;106.8;110.6;2.3;2.1;0.2
+143;Hotels, restaurants and bars;2013 2nd quarter;115.7;106.5;108.6;0.7;1.8;-1.1
+144;Hotels, restaurants and bars;2013 July;112.2;106.8;105.1;1.8;2.0;-0.3
+145;Hotels, restaurants and bars;2013 August;114.4;106.9;107.0;4.6;2.7;1.9
+146;Hotels, restaurants and bars;2013 September;112.4;107.6;104.5;-0.6;2.4;-2.9
+147;Hotels, restaurants and bars;2013 3rd quarter;113.0;107.1;105.5;1.9;2.3;-0.4
+148;Hotels, restaurants and bars;2013 October;109.1;107.3;101.7;1.0;1.9;-0.9
+149;Hotels, restaurants and bars;2013 November;104.4;106.9;97.6;2.0;1.7;0.3
+150;Hotels, restaurants and bars;2013 December;104.9;106.5;98.5;0.2;1.3;-1.1
+151;Hotels, restaurants and bars;2013 4th quarter;106.1;106.9;99.2;1.0;1.6;-0.6
+152;Hotels, restaurants and bars;2013;106.9;106.5;100.4;0.5;2.0;-1.4
+153;I Accommodation and food serving;2005 January;;;;;;
+154;I Accommodation and food serving;2005 February;;;;;;
+155;I Accommodation and food serving;2005 March;;;;;;
+156;I Accommodation and food serving;2005 1st quarter;83.6;;;;;
+157;I Accommodation and food serving;2005 April;;;;;;
+158;I Accommodation and food serving;2005 May;;;;;;
+159;I Accommodation and food serving;2005 June;;;;;;
+160;I Accommodation and food serving;2005 2nd quarter;100.1;;;;;
+161;I Accommodation and food serving;2005 July;;;;;;
+162;I Accommodation and food serving;2005 August;;;;;;
+163;I Accommodation and food serving;2005 September;;;;;;
+164;I Accommodation and food serving;2005 3rd quarter;101.5;;;;;
+165;I Accommodation and food serving;2005 October;;;;;;
+166;I Accommodation and food serving;2005 November;;;;;;
+167;I Accommodation and food serving;2005 December;;;;;;
+168;I Accommodation and food serving;2005 4th quarter;96.2;;;;;
+169;I Accommodation and food serving;2005;95.3;;;;;
+170;I Accommodation and food serving;2006 January;;;;;;
+171;I Accommodation and food serving;2006 February;;;;;;
+172;I Accommodation and food serving;2006 March;;;;;;
+173;I Accommodation and food serving;2006 1st quarter;86.6;;;3.5;;
+174;I Accommodation and food serving;2006 April;;;;;;
+175;I Accommodation and food serving;2006 May;;;;;;
+176;I Accommodation and food serving;2006 June;;;;;;
+177;I Accommodation and food serving;2006 2nd quarter;105.4;;;5.3;;
+178;I Accommodation and food serving;2006 July;;;;;;
+179;I Accommodation and food serving;2006 August;;;;;;
+180;I Accommodation and food serving;2006 September;;;;;;
+181;I Accommodation and food serving;2006 3rd quarter;106.6;;;5.0;;
+182;I Accommodation and food serving;2006 October;;;;;;
+183;I Accommodation and food serving;2006 November;;;;;;
+184;I Accommodation and food serving;2006 December;;;;;;
+185;I Accommodation and food serving;2006 4th quarter;101.1;;;5.1;;
+186;I Accommodation and food serving;2006;99.9;;;4.8;;
+187;I Accommodation and food serving;2007 January;;;;;;
+188;I Accommodation and food serving;2007 February;;;;;;
+189;I Accommodation and food serving;2007 March;;;;;;
+190;I Accommodation and food serving;2007 1st quarter;92.8;;;7.2;;
+191;I Accommodation and food serving;2007 April;;;;;;
+192;I Accommodation and food serving;2007 May;;;;;;
+193;I Accommodation and food serving;2007 June;;;;;;
+194;I Accommodation and food serving;2007 2nd quarter;113.1;;;7.3;;
+195;I Accommodation and food serving;2007 July;;;;;;
+196;I Accommodation and food serving;2007 August;;;;;;
+197;I Accommodation and food serving;2007 September;;;;;;
+198;I Accommodation and food serving;2007 3rd quarter;110.2;;;3.4;;
+199;I Accommodation and food serving;2007 October;;;;;;
+200;I Accommodation and food serving;2007 November;;;;;;
+201;I Accommodation and food serving;2007 December;;;;;;
+202;I Accommodation and food serving;2007 4th quarter;105.5;;;4.4;;
+203;I Accommodation and food serving;2007;105.4;;;5.5;;
+204;I Accommodation and food serving;2008 January;;;;;;
+205;I Accommodation and food serving;2008 February;;;;;;
+206;I Accommodation and food serving;2008 March;;;;;;
+207;I Accommodation and food serving;2008 1st quarter;96.3;;;3.8;;
+208;I Accommodation and food serving;2008 April;;;;;;
+209;I Accommodation and food serving;2008 May;;;;;;
+210;I Accommodation and food serving;2008 June;;;;;;
+211;I Accommodation and food serving;2008 2nd quarter;113.9;;;0.7;;
+212;I Accommodation and food serving;2008 July;;;;;;
+213;I Accommodation and food serving;2008 August;;;;;;
+214;I Accommodation and food serving;2008 September;;;;;;
+215;I Accommodation and food serving;2008 3rd quarter;109.3;;;-0.9;;
+216;I Accommodation and food serving;2008 October;;;;;;
+217;I Accommodation and food serving;2008 November;;;;;;
+218;I Accommodation and food serving;2008 December;;;;;;
+219;I Accommodation and food serving;2008 4th quarter;102.7;;;-2.7;;
+220;I Accommodation and food serving;2008;105.5;;;0.1;;
+221;I Accommodation and food serving;2009 January;;;;;;
+222;I Accommodation and food serving;2009 February;;;;;;
+223;I Accommodation and food serving;2009 March;;;;;;
+224;I Accommodation and food serving;2009 1st quarter;91.8;;;-4.8;;
+225;I Accommodation and food serving;2009 April;;;;;;
+226;I Accommodation and food serving;2009 May;;;;;;
+227;I Accommodation and food serving;2009 June;;;;;;
+228;I Accommodation and food serving;2009 2nd quarter;108.1;;;-5.1;;
+229;I Accommodation and food serving;2009 July;;;;;;
+230;I Accommodation and food serving;2009 August;;;;;;
+231;I Accommodation and food serving;2009 September;;;;;;
+232;I Accommodation and food serving;2009 3rd quarter;105.1;;;-3.8;;
+233;I Accommodation and food serving;2009 October;;;;;;
+234;I Accommodation and food serving;2009 November;;;;;;
+235;I Accommodation and food serving;2009 December;;;;;;
+236;I Accommodation and food serving;2009 4th quarter;97.1;;;-5.5;;
+237;I Accommodation and food serving;2009;100.5;;;-4.8;;
+238;I Accommodation and food serving;2010 January;;;;;;
+239;I Accommodation and food serving;2010 February;;;;;;
+240;I Accommodation and food serving;2010 March;;;;;;
+241;I Accommodation and food serving;2010 1st quarter;87.8;;;-4.3;;
+242;I Accommodation and food serving;2010 April;;;;;;
+243;I Accommodation and food serving;2010 May;;;;;;
+244;I Accommodation and food serving;2010 June;;;;;;
+245;I Accommodation and food serving;2010 2nd quarter;104.7;;;-3.1;;
+246;I Accommodation and food serving;2010 July;;;;;;
+247;I Accommodation and food serving;2010 August;;;;;;
+248;I Accommodation and food serving;2010 September;;;;;;
+249;I Accommodation and food serving;2010 3rd quarter;106.7;;;1.5;;
+250;I Accommodation and food serving;2010 October;;;;;;
+251;I Accommodation and food serving;2010 November;;;;;;
+252;I Accommodation and food serving;2010 December;;;;;;
+253;I Accommodation and food serving;2010 4th quarter;100.8;;;3.9;;
+254;I Accommodation and food serving;2010;100.0;;;-0.5;;
+255;I Accommodation and food serving;2011 January;;;;;;
+256;I Accommodation and food serving;2011 February;;;;;;
+257;I Accommodation and food serving;2011 March;;;;;;
+258;I Accommodation and food serving;2011 1st quarter;91.5;;;4.2;;
+259;I Accommodation and food serving;2011 April;;;;;;
+260;I Accommodation and food serving;2011 May;;;;;;
+261;I Accommodation and food serving;2011 June;;;;;;
+262;I Accommodation and food serving;2011 2nd quarter;111.5;;;6.5;;
+263;I Accommodation and food serving;2011 July;;;;;;
+264;I Accommodation and food serving;2011 August;;;;;;
+265;I Accommodation and food serving;2011 September;;;;;;
+266;I Accommodation and food serving;2011 3rd quarter;109.2;;;2.3;;
+267;I Accommodation and food serving;2011 October;;;;;;
+268;I Accommodation and food serving;2011 November;;;;;;
+269;I Accommodation and food serving;2011 December;;;;;;
+270;I Accommodation and food serving;2011 4th quarter;103.5;;;2.6;;
+271;I Accommodation and food serving;2011;103.9;;;3.9;;
+272;I Accommodation and food serving;2012 January;;;;;;
+273;I Accommodation and food serving;2012 February;;;;;;
+274;I Accommodation and food serving;2012 March;;;;;;
+275;I Accommodation and food serving;2012 1st quarter;94.0;;;2.8;;
+276;I Accommodation and food serving;2012 April;;;;;;
+277;I Accommodation and food serving;2012 May;;;;;;
+278;I Accommodation and food serving;2012 June;;;;;;
+279;I Accommodation and food serving;2012 2nd quarter;113.7;;;1.9;;
+280;I Accommodation and food serving;2012 July;;;;;;
+281;I Accommodation and food serving;2012 August;;;;;;
+282;I Accommodation and food serving;2012 September;;;;;;
+283;I Accommodation and food serving;2012 3rd quarter;110.4;;;1.2;;
+284;I Accommodation and food serving;2012 October;;;;;;
+285;I Accommodation and food serving;2012 November;;;;;;
+286;I Accommodation and food serving;2012 December;;;;;;
+287;I Accommodation and food serving;2012  4th quarter;104.1;;;0.6;;
+288;I Accommodation and food serving;2012;105.6;;;1.6;;
+289;I Accommodation and food serving;2013 January;;;;;;
+290;I Accommodation and food serving;2013 February;;;;;;
+291;I Accommodation and food serving;2013 March;;;;;;
+292;I Accommodation and food serving;2013 1st quarter;92.1;;;-2.0;;
+293;I Accommodation and food serving;2013 April;;;;;;
+294;I Accommodation and food serving;2013 May;;;;;;
+295;I Accommodation and food serving;2013 June;;;;;;
+296;I Accommodation and food serving;2013 2nd quarter;114.1;;;0.4;;
+297;I Accommodation and food serving;2013 July;;;;;;
+298;I Accommodation and food serving;2013 August;;;;;;
+299;I Accommodation and food serving;2013 September;;;;;;
+300;I Accommodation and food serving;2013 3rd quarter;113.4;;;2.6;;
+301;I Accommodation and food serving;2013 October;;;;;;
+302;I Accommodation and food serving;2013 November;;;;;;
+303;I Accommodation and food serving;2013 December;;;;;;
+304;I Accommodation and food serving;2013 4th quarter;105.7;;;1.5;;
+305;I Accommodation and food serving;2013;106.3;;;0.7;;
+306;55 Accommodation;2005 January;;;;;;
+307;55 Accommodation;2005 February;;;;;;
+308;55 Accommodation;2005 March;;;;;;
+309;55 Accommodation;2005 1st quarter;76.8;;;;;
+310;55 Accommodation;2005 April;;;;;;
+311;55 Accommodation;2005 May;;;;;;
+312;55 Accommodation;2005 June;;;;;;
+313;55 Accommodation;2005 2nd quarter;98.7;;;;;
+314;55 Accommodation;2005 July;;;;;;
+315;55 Accommodation;2005 August;;;;;;
+316;55 Accommodation;2005 September;;;;;;
+317;55 Accommodation;2005 3rd quarter;99.2;;;;;
+318;55 Accommodation;2005 October;;;;;;
+319;55 Accommodation;2005 November;;;;;;
+320;55 Accommodation;2005 December;;;;;;
+321;55 Accommodation;2005 4th quarter;88.0;;;;;
+322;55 Accommodation;2005;90.7;;;;;
+323;55 Accommodation;2006 January;;;;;;
+324;55 Accommodation;2006 February;;;;;;
+325;55 Accommodation;2006 March;;;;;;
+326;55 Accommodation;2006 1st quarter;78.6;;;2.3;;
+327;55 Accommodation;2006 April;;;;;;
+328;55 Accommodation;2006 May;;;;;;
+329;55 Accommodation;2006 June;;;;;;
+330;55 Accommodation;2006 2nd quarter;107.0;;;8.5;;
+331;55 Accommodation;2006 July;;;;;;
+332;55 Accommodation;2006 August;;;;;;
+333;55 Accommodation;2006 September;;;;;;
+334;55 Accommodation;2006 3rd quarter;104.3;;;5.1;;
+335;55 Accommodation;2006 October;;;;;;
+336;55 Accommodation;2006 November;;;;;;
+337;55 Accommodation;2006 December;;;;;;
+338;55 Accommodation;2006 4th quarter;91.8;;;4.3;;
+339;55 Accommodation;2006;95.4;;;5.2;;
+340;55 Accommodation;2007 January;;;;;;
+341;55 Accommodation;2007 February;;;;;;
+342;55 Accommodation;2007 March;;;;;;
+343;55 Accommodation;2007 1st quarter;83.7;;;6.5;;
+344;55 Accommodation;2007 April;;;;;;
+345;55 Accommodation;2007 May;;;;;;
+346;55 Accommodation;2007 June;;;;;;
+347;55 Accommodation;2007 2nd quarter;112.2;;;4.8;;
+348;55 Accommodation;2007 July;;;;;;
+349;55 Accommodation;2007 August;;;;;;
+350;55 Accommodation;2007 September;;;;;;
+351;55 Accommodation;2007 3rd quarter;109.0;;;4.5;;
+352;55 Accommodation;2007 October;;;;;;
+353;55 Accommodation;2007 November;;;;;;
+354;55 Accommodation;2007 December;;;;;;
+355;55 Accommodation;2007 4th quarter;98.3;;;7.1;;
+356;55 Accommodation;2007;100.8;;;5.6;;
+357;55 Accommodation;2008 January;;;;;;
+358;55 Accommodation;2008 February;;;;;;
+359;55 Accommodation;2008 March;;;;;;
+360;55 Accommodation;2008 1st quarter;89.1;;;6.4;;
+361;55 Accommodation;2008 April;;;;;;
+362;55 Accommodation;2008 May;;;;;;
+363;55 Accommodation;2008 June;;;;;;
+364;55 Accommodation;2008 2nd quarter;116.6;;;4.0;;
+365;55 Accommodation;2008 July;;;;;;
+366;55 Accommodation;2008 August;;;;;;
+367;55 Accommodation;2008 September;;;;;;
+368;55 Accommodation;2008 3rd quarter;110.3;;;1.2;;
+369;55 Accommodation;2008 October;;;;;;
+370;55 Accommodation;2008 November;;;;;;
+371;55 Accommodation;2008 December;;;;;;
+372;55 Accommodation;2008 4th quarter;96.8;;;-1.5;;
+373;55 Accommodation;2008;103.2;;;2.4;;
+374;55 Accommodation;2009 January;;;;;;
+375;55 Accommodation;2009 February;;;;;;
+376;55 Accommodation;2009 March;;;;;;
+377;55 Accommodation;2009 1st quarter;85.2;;;-4.4;;
+378;55 Accommodation;2009 April;;;;;;
+379;55 Accommodation;2009 May;;;;;;
+380;55 Accommodation;2009 June;;;;;;
+381;55 Accommodation;2009 2nd quarter;108.7;;;-6.8;;
+382;55 Accommodation;2009 July;;;;;;
+383;55 Accommodation;2009 August;;;;;;
+384;55 Accommodation;2009 September;;;;;;
+385;55 Accommodation;2009 3rd quarter;108.0;;;-2.1;;
+386;55 Accommodation;2009 October;;;;;;
+387;55 Accommodation;2009 November;;;;;;
+388;55 Accommodation;2009 December;;;;;;
+389;55 Accommodation;2009 4th quarter;90.5;;;-6.5;;
+390;55 Accommodation;2009;98.1;;;-4.9;;
+391;55 Accommodation;2010 January;;;;;;
+392;55 Accommodation;2010 February;;;;;;
+393;55 Accommodation;2010 March;;;;;;
+394;55 Accommodation;2010 1st quarter;82.4;;;-3.3;;
+395;55 Accommodation;2010 April;;;;;;
+396;55 Accommodation;2010 May;;;;;;
+397;55 Accommodation;2010 June;;;;;;
+398;55 Accommodation;2010 2nd quarter;107.2;;;-1.4;;
+399;55 Accommodation;2010 July;;;;;;
+400;55 Accommodation;2010 August;;;;;;
+401;55 Accommodation;2010 September;;;;;;
+402;55 Accommodation;2010 3rd quarter;110.8;;;2.6;;
+403;55 Accommodation;2010 October;;;;;;
+404;55 Accommodation;2010 November;;;;;;
+405;55 Accommodation;2010 December;;;;;;
+406;55 Accommodation;2010 4th quarter;99.6;;;10.1;;
+407;55 Accommodation;2010;100.0;;;1.9;;
+408;55 Accommodation;2011 January;;;;;;
+409;55 Accommodation;2011 February;;;;;;
+410;55 Accommodation;2011 March;;;;;;
+411;55 Accommodation;2011 1st quarter;84.5;;;2.6;;
+412;55 Accommodation;2011 April;;;;;;
+413;55 Accommodation;2011 May;;;;;;
+414;55 Accommodation;2011 June;;;;;;
+415;55 Accommodation;2011 2nd quarter;114.2;;;6.6;;
+416;55 Accommodation;2011 July;;;;;;
+417;55 Accommodation;2011 August;;;;;;
+418;55 Accommodation;2011 September;;;;;;
+419;55 Accommodation;2011 3rd quarter;113.0;;;1.9;;
+420;55 Accommodation;2011 October;;;;;;
+421;55 Accommodation;2011 November;;;;;;
+422;55 Accommodation;2011 December;;;;;;
+423;55 Accommodation;2011 4th quarter;99.2;;;-0.4;;
+424;55 Accommodation;2011;102.7;;;2.7;;
+425;55 Accommodation;2012 January;;;;;;
+426;55 Accommodation;2012 February;;;;;;
+427;55 Accommodation;2012 March;;;;;;
+428;55 Accommodation;2012 1st quarter;86.8;;;2.7;;
+429;55 Accommodation;2012 April;;;;;;
+430;55 Accommodation;2012 May;;;;;;
+431;55 Accommodation;2012 June;;;;;;
+432;55 Accommodation;2012 2nd quarter;118.7;;;4.0;;
+433;55 Accommodation;2012 July;;;;;;
+434;55 Accommodation;2012 August;;;;;;
+435;55 Accommodation;2012 September;;;;;;
+436;55 Accommodation;2012 3rd quarter;115.1;;;1.9;;
+437;55 Accommodation;2012 October;;;;;;
+438;55 Accommodation;2012 November;;;;;;
+439;55 Accommodation;2012 December;;;;;;
+440;55 Accommodation;2012  4th quarter;99.6;;;0.4;;
+441;55 Accommodation;2012;105.1;;;2.3;;
+442;55 Accommodation;2013 January;;;;;;
+443;55 Accommodation;2013 February;;;;;;
+444;55 Accommodation;2013 March;;;;;;
+445;55 Accommodation;2013 1st quarter;86.2;;;-0.7;;
+446;55 Accommodation;2013 April;;;;;;
+447;55 Accommodation;2013 May;;;;;;
+448;55 Accommodation;2013 June;;;;;;
+449;55 Accommodation;2013 2nd quarter;119.7;;;0.9;;
+450;55 Accommodation;2013 July;;;;;;
+451;55 Accommodation;2013 August;;;;;;
+452;55 Accommodation;2013 September;;;;;;
+453;55 Accommodation;2013 3rd quarter;124.2;;;7.9;;
+454;55 Accommodation;2013 October;;;;;;
+455;55 Accommodation;2013 November;;;;;;
+456;55 Accommodation;2013 December;;;;;;
+457;55 Accommodation;2013 4th quarter;103.8;;;4.2;;
+458;55 Accommodation;2013;108.3;;;3.1;;
+459;551 Hotels and similar accommodation;2005 January;68.9;;;;;
+460;551 Hotels and similar accommodation;2005 February;70.1;;;;;
+461;551 Hotels and similar accommodation;2005 March;84.1;;;;;
+462;551 Hotels and similar accommodation;2005 1st quarter;74.4;;;;;
+463;551 Hotels and similar accommodation;2005 April;99.9;;;;;
+464;551 Hotels and similar accommodation;2005 May;103.6;;;;;
+465;551 Hotels and similar accommodation;2005 June;104.2;;;;;
+466;551 Hotels and similar accommodation;2005 2nd quarter;102.6;;;;;
+467;551 Hotels and similar accommodation;2005 July;91.2;;;;;
+468;551 Hotels and similar accommodation;2005 August;91.7;;;;;
+469;551 Hotels and similar accommodation;2005 September;110.7;;;;;
+470;551 Hotels and similar accommodation;2005 3rd quarter;97.9;;;;;
+471;551 Hotels and similar accommodation;2005 October;104.2;;;;;
+472;551 Hotels and similar accommodation;2005 November;97.7;;;;;
+473;551 Hotels and similar accommodation;2005 December;83.4;;;;;
+474;551 Hotels and similar accommodation;2005 4th quarter;95.1;;;;;
+475;551 Hotels and similar accommodation;2005;92.5;;;;;
+476;551 Hotels and similar accommodation;2006 January;72.1;;;4.6;;
+477;551 Hotels and similar accommodation;2006 February;71.0;;;1.2;;
+478;551 Hotels and similar accommodation;2006 March;88.7;;;5.5;;
+479;551 Hotels and similar accommodation;2006 1st quarter;77.3;;;3.9;;
+480;551 Hotels and similar accommodation;2006 April;106.6;;;6.7;;
+481;551 Hotels and similar accommodation;2006 May;112.7;;;8.7;;
+482;551 Hotels and similar accommodation;2006 June;115.3;;;10.6;;
+483;551 Hotels and similar accommodation;2006 2nd quarter;111.5;;;8.7;;
+484;551 Hotels and similar accommodation;2006 July;95.5;;;4.7;;
+485;551 Hotels and similar accommodation;2006 August;95.7;;;4.4;;
+486;551 Hotels and similar accommodation;2006 September;119.3;;;7.7;;
+487;551 Hotels and similar accommodation;2006 3rd quarter;103.5;;;5.7;;
+488;551 Hotels and similar accommodation;2006 October;109.0;;;4.6;;
+489;551 Hotels and similar accommodation;2006 November;102.7;;;5.1;;
+490;551 Hotels and similar accommodation;2006 December;89.4;;;7.1;;
+491;551 Hotels and similar accommodation;2006 4th quarter;100.3;;;5.5;;
+492;551 Hotels and similar accommodation;2006;98.2;;;6.1;;
+493;551 Hotels and similar accommodation;2007 January;80.0;;;10.9;;
+494;551 Hotels and similar accommodation;2007 February;79.7;;;12.4;;
+495;551 Hotels and similar accommodation;2007 March;98.9;;;11.5;;
+496;551 Hotels and similar accommodation;2007 1st quarter;86.2;;;11.6;;
+497;551 Hotels and similar accommodation;2007 April;113.0;;;6.0;;
+498;551 Hotels and similar accommodation;2007 May;115.1;;;2.2;;
+499;551 Hotels and similar accommodation;2007 June;122.7;;;6.5;;
+500;551 Hotels and similar accommodation;2007 2nd quarter;117.0;;;4.9;;
+501;551 Hotels and similar accommodation;2007 July;100.9;;;5.7;;
+502;551 Hotels and similar accommodation;2007 August;99.8;;;4.2;;
+503;551 Hotels and similar accommodation;2007 September;125.2;;;4.9;;
+504;551 Hotels and similar accommodation;2007 3rd quarter;108.6;;;4.9;;
+505;551 Hotels and similar accommodation;2007 October;117.6;;;7.9;;
+506;551 Hotels and similar accommodation;2007 November;110.6;;;7.7;;
+507;551 Hotels and similar accommodation;2007 December;96.0;;;7.4;;
+508;551 Hotels and similar accommodation;2007 4th quarter;108.1;;;7.7;;
+509;551 Hotels and similar accommodation;2007;105.0;;;6.9;;
+510;551 Hotels and similar accommodation;2008 January;85.8;;;7.3;;
+511;551 Hotels and similar accommodation;2008 February;86.0;;;7.8;;
+512;551 Hotels and similar accommodation;2008 March;103.6;;;4.7;;
+513;551 Hotels and similar accommodation;2008 1st quarter;91.8;;;6.5;;
+514;551 Hotels and similar accommodation;2008 April;118.9;;;5.3;;
+515;551 Hotels and similar accommodation;2008 May;127.8;;;11.0;;
+516;551 Hotels and similar accommodation;2008 June;121.9;;;-0.7;;
+517;551 Hotels and similar accommodation;2008 2nd quarter;122.9;;;5.0;;
+518;551 Hotels and similar accommodation;2008 July;102.3;;;1.3;;
+519;551 Hotels and similar accommodation;2008 August;103.5;;;3.7;;
+520;551 Hotels and similar accommodation;2008 September;125.3;;;0.1;;
+521;551 Hotels and similar accommodation;2008 3rd quarter;110.3;;;1.6;;
+522;551 Hotels and similar accommodation;2008 October;118.1;;;0.4;;
+523;551 Hotels and similar accommodation;2008 November;106.1;;;-4.1;;
+524;551 Hotels and similar accommodation;2008 December;87.1;;;-9.3;;
+525;551 Hotels and similar accommodation;2008 4th quarter;103.7;;;-4.0;;
+526;551 Hotels and similar accommodation;2008;107.2;;;2.1;;
+527;551 Hotels and similar accommodation;2009 January;77.9;;;-9.2;;
+528;551 Hotels and similar accommodation;2009 February;77.5;;;-9.8;;
+529;551 Hotels and similar accommodation;2009 March;94.4;;;-8.9;;
+530;551 Hotels and similar accommodation;2009 1st quarter;83.3;;;-9.3;;
+531;551 Hotels and similar accommodation;2009 April;103.8;;;-12.7;;
+532;551 Hotels and similar accommodation;2009 May;112.9;;;-11.6;;
+533;551 Hotels and similar accommodation;2009 June;112.1;;;-8.0;;
+534;551 Hotels and similar accommodation;2009 2nd quarter;109.6;;;-10.8;;
+535;551 Hotels and similar accommodation;2009 July;97.0;;;-5.1;;
+536;551 Hotels and similar accommodation;2009 August;101.0;;;-2.4;;
+537;551 Hotels and similar accommodation;2009 September;110.7;;;-11.6;;
+538;551 Hotels and similar accommodation;2009 3rd quarter;102.9;;;-6.7;;
+539;551 Hotels and similar accommodation;2009 October;104.4;;;-11.6;;
+540;551 Hotels and similar accommodation;2009 November;95.7;;;-9.8;;
+541;551 Hotels and similar accommodation;2009 December;85.0;;;-2.4;;
+542;551 Hotels and similar accommodation;2009 4th quarter;95.0;;;-8.4;;
+543;551 Hotels and similar accommodation;2009;97.7;;;-8.8;;
+544;551 Hotels and similar accommodation;2010 January;72.3;;;-7.2;;
+545;551 Hotels and similar accommodation;2010 February;73.8;;;-4.8;;
+546;551 Hotels and similar accommodation;2010 March;92.6;;;-1.9;;
+547;551 Hotels and similar accommodation;2010 1st quarter;79.6;;;-4.4;;
+548;551 Hotels and similar accommodation;2010 April;106.1;;;2.2;;
+549;551 Hotels and similar accommodation;2010 May;109.4;;;-3.1;;
+550;551 Hotels and similar accommodation;2010 June;110.9;;;-1.1;;
+551;551 Hotels and similar accommodation;2010 2nd quarter;108.8;;;-0.8;;
+552;551 Hotels and similar accommodation;2010 July;100.5;;;3.6;;
+553;551 Hotels and similar accommodation;2010 August;104.1;;;3.1;;
+554;551 Hotels and similar accommodation;2010 September;118.5;;;7.0;;
+555;551 Hotels and similar accommodation;2010 3rd quarter;107.7;;;4.7;;
+556;551 Hotels and similar accommodation;2010 October;114.9;;;10.1;;
+557;551 Hotels and similar accommodation;2010 November;104.9;;;9.6;;
+558;551 Hotels and similar accommodation;2010 December;91.9;;;8.1;;
+559;551 Hotels and similar accommodation;2010 4th quarter;103.9;;;9.4;;
+560;551 Hotels and similar accommodation;2010;100.0;;;2.3;;
+561;551 Hotels and similar accommodation;2011 January;78.6;;;8.7;;
+562;551 Hotels and similar accommodation;2011 February;77.3;;;4.7;;
+563;551 Hotels and similar accommodation;2011 March;99.5;;;7.5;;
+564;551 Hotels and similar accommodation;2011 1st quarter;85.1;;;7.0;;
+565;551 Hotels and similar accommodation;2011 April;114.8;;;8.2;;
+566;551 Hotels and similar accommodation;2011 May;118.1;;;7.9;;
+567;551 Hotels and similar accommodation;2011 June;119.8;;;8.0;;
+568;551 Hotels and similar accommodation;2011 2nd quarter;117.6;;;8.1;;
+569;551 Hotels and similar accommodation;2011 July;105.9;;;5.4;;
+570;551 Hotels and similar accommodation;2011 August;102.8;;;-1.3;;
+571;551 Hotels and similar accommodation;2011 September;124.1;;;4.8;;
+572;551 Hotels and similar accommodation;2011 3rd quarter;110.9;;;3.0;;
+573;551 Hotels and similar accommodation;2011 October;116.2;;;1.1;;
+574;551 Hotels and similar accommodation;2011 November;107.0;;;2.0;;
+575;551 Hotels and similar accommodation;2011 December;91.1;;;-0.9;;
+576;551 Hotels and similar accommodation;2011 4th quarter;104.8;;;0.8;;
+577;551 Hotels and similar accommodation;2011;104.6;;;4.6;;
+578;551 Hotels and similar accommodation;2012 January;80.1;;;1.9;;
+579;551 Hotels and similar accommodation;2012 February;80.0;;;3.5;;
+580;551 Hotels and similar accommodation;2012 March;102.4;;;2.9;;
+581;551 Hotels and similar accommodation;2012 1st quarter;87.5;;;2.8;;
+582;551 Hotels and similar accommodation;2012 April;118.0;;;2.8;;
+583;551 Hotels and similar accommodation;2012 May;124.6;;;5.5;;
+584;551 Hotels and similar accommodation;2012 June;122.6;;;2.3;;
+585;551 Hotels and similar accommodation;2012 2nd quarter;121.7;;;3.5;;
+586;551 Hotels and similar accommodation;2012 July;104.2;;;-1.6;;
+587;551 Hotels and similar accommodation;2012 August;103.7;;;0.9;;
+588;551 Hotels and similar accommodation;2012 September;124.9;;;0.6;;
+589;551 Hotels and similar accommodation;2012 3rd quarter;110.9;;;0.0;;
+590;551 Hotels and similar accommodation;2012 October;118.2;;;1.8;;
+591;551 Hotels and similar accommodation;2012 November;104.1;;;-2.8;;
+592;551 Hotels and similar accommodation;2012 December;91.2;;;0.1;;
+593;551 Hotels and similar accommodation;2012  4th quarter;104.5;;;-0.3;;
+594;551 Hotels and similar accommodation;2012;106.2;;;1.5;;
+595;551 Hotels and similar accommodation;2013 January;80.2;;;0.1;;
+596;551 Hotels and similar accommodation;2013 February;77.7;;;-2.8;;
+597;551 Hotels and similar accommodation;2013 March;104.0;;;1.6;;
+598;551 Hotels and similar accommodation;2013 1st quarter;87.3;;;-0.2;;
+599;551 Hotels and similar accommodation;2013 April;120.4;;;2.0;;
+600;551 Hotels and similar accommodation;2013 May;125.5;;;0.7;;
+601;551 Hotels and similar accommodation;2013 June;126.1;;;2.8;;
+602;551 Hotels and similar accommodation;2013 2nd quarter;124.0;;;1.9;;
+603;551 Hotels and similar accommodation;2013 July;111.0;;;6.5;;
+604;551 Hotels and similar accommodation;2013 August;114.4;;;10.4;;
+605;551 Hotels and similar accommodation;2013 September;128.4;;;2.8;;
+606;551 Hotels and similar accommodation;2013 3rd quarter;117.9;;;6.3;;
+607;551 Hotels and similar accommodation;2013 October;120.3;;;1.7;;
+608;551 Hotels and similar accommodation;2013 November;108.4;;;4.2;;
+609;551 Hotels and similar accommodation;2013 December;93.8;;;2.9;;
+610;551 Hotels and similar accommodation;2013 4th quarter;107.5;;;2.9;;
+611;551 Hotels and similar accommodation;2013;109.2;;;2.8;;
+612;56 Food and beverage service activities;2005 January;;;;;;
+613;56 Food and beverage service activities;2005 February;;;;;;
+614;56 Food and beverage service activities;2005 March;;;;;;
+615;56 Food and beverage service activities;2005 1st quarter;86.2;;;;;
+616;56 Food and beverage service activities;2005 April;;;;;;
+617;56 Food and beverage service activities;2005 May;;;;;;
+618;56 Food and beverage service activities;2005 June;;;;;;
+619;56 Food and beverage service activities;2005 2nd quarter;100.6;;;;;
+620;56 Food and beverage service activities;2005 July;;;;;;
+621;56 Food and beverage service activities;2005 August;;;;;;
+622;56 Food and beverage service activities;2005 September;;;;;;
+623;56 Food and beverage service activities;2005 3rd quarter;102.3;;;;;
+624;56 Food and beverage service activities;2005 October;;;;;;
+625;56 Food and beverage service activities;2005 November;;;;;;
+626;56 Food and beverage service activities;2005 December;;;;;;
+627;56 Food and beverage service activities;2005 4th quarter;99.2;;;;;
+628;56 Food and beverage service activities;2005;97.1;;;;;
+629;56 Food and beverage service activities;2006 January;;;;;;
+630;56 Food and beverage service activities;2006 February;;;;;;
+631;56 Food and beverage service activities;2006 March;;;;;;
+632;56 Food and beverage service activities;2006 1st quarter;89.5;;;3.9;;
+633;56 Food and beverage service activities;2006 April;;;;;;
+634;56 Food and beverage service activities;2006 May;;;;;;
+635;56 Food and beverage service activities;2006 June;;;;;;
+636;56 Food and beverage service activities;2006 2nd quarter;104.8;;;4.2;;
+637;56 Food and beverage service activities;2006 July;;;;;;
+638;56 Food and beverage service activities;2006 August;;;;;;
+639;56 Food and beverage service activities;2006 September;;;;;;
+640;56 Food and beverage service activities;2006 3rd quarter;107.4;;;5.0;;
+641;56 Food and beverage service activities;2006 October;;;;;;
+642;56 Food and beverage service activities;2006 November;;;;;;
+643;56 Food and beverage service activities;2006 December;;;;;;
+644;56 Food and beverage service activities;2006 4th quarter;104.6;;;5.4;;
+645;56 Food and beverage service activities;2006;101.6;;;4.6;;
+646;56 Food and beverage service activities;2007 January;;;;;;
+647;56 Food and beverage service activities;2007 February;;;;;;
+648;56 Food and beverage service activities;2007 March;;;;;;
+649;56 Food and beverage service activities;2007 1st quarter;96.2;;;7.5;;
+650;56 Food and beverage service activities;2007 April;;;;;;
+651;56 Food and beverage service activities;2007 May;;;;;;
+652;56 Food and beverage service activities;2007 June;;;;;;
+653;56 Food and beverage service activities;2007 2nd quarter;113.4;;;8.2;;
+654;56 Food and beverage service activities;2007 July;;;;;;
+655;56 Food and beverage service activities;2007 August;;;;;;
+656;56 Food and beverage service activities;2007 September;;;;;;
+657;56 Food and beverage service activities;2007 3rd quarter;110.7;;;3.0;;
+658;56 Food and beverage service activities;2007 October;;;;;;
+659;56 Food and beverage service activities;2007 November;;;;;;
+660;56 Food and beverage service activities;2007 December;;;;;;
+661;56 Food and beverage service activities;2007 4th quarter;108.2;;;3.5;;
+662;56 Food and beverage service activities;2007;107.1;;;5.5;;
+663;56 Food and beverage service activities;2008 January;;;;;;
+664;56 Food and beverage service activities;2008 February;;;;;;
+665;56 Food and beverage service activities;2008 March;;;;;;
+666;56 Food and beverage service activities;2008 1st quarter;99.1;;;3.0;;
+667;56 Food and beverage service activities;2008 April;;;;;;
+668;56 Food and beverage service activities;2008 May;;;;;;
+669;56 Food and beverage service activities;2008 June;;;;;;
+670;56 Food and beverage service activities;2008 2nd quarter;112.9;;;-0.5;;
+671;56 Food and beverage service activities;2008 July;;;;;;
+672;56 Food and beverage service activities;2008 August;;;;;;
+673;56 Food and beverage service activities;2008 September;;;;;;
+674;56 Food and beverage service activities;2008 3rd quarter;108.9;;;-1.6;;
+675;56 Food and beverage service activities;2008 October;;;;;;
+676;56 Food and beverage service activities;2008 November;;;;;;
+677;56 Food and beverage service activities;2008 December;;;;;;
+678;56 Food and beverage service activities;2008 4th quarter;104.9;;;-3.1;;
+679;56 Food and beverage service activities;2008;106.4;;;-0.7;;
+680;56 Food and beverage service activities;2009 January;;;;;;
+681;56 Food and beverage service activities;2009 February;;;;;;
+682;56 Food and beverage service activities;2009 March;;;;;;
+683;56 Food and beverage service activities;2009 1st quarter;94.2;;;-4.9;;
+684;56 Food and beverage service activities;2009 April;;;;;;
+685;56 Food and beverage service activities;2009 May;;;;;;
+686;56 Food and beverage service activities;2009 June;;;;;;
+687;56 Food and beverage service activities;2009 2nd quarter;107.8;;;-4.5;;
+688;56 Food and beverage service activities;2009 July;;;;;;
+689;56 Food and beverage service activities;2009 August;;;;;;
+690;56 Food and beverage service activities;2009 September;;;;;;
+691;56 Food and beverage service activities;2009 3rd quarter;104.0;;;-4.5;;
+692;56 Food and beverage service activities;2009 October;;;;;;
+693;56 Food and beverage service activities;2009 November;;;;;;
+694;56 Food and beverage service activities;2009 December;;;;;;
+695;56 Food and beverage service activities;2009 4th quarter;99.5;;;-5.1;;
+696;56 Food and beverage service activities;2009;101.4;;;-4.7;;
+697;56 Food and beverage service activities;2010 January;;;;;;
+698;56 Food and beverage service activities;2010 February;;;;;;
+699;56 Food and beverage service activities;2010 March;;;;;;
+700;56 Food and beverage service activities;2010 1st quarter;89.8;;;-4.7;;
+701;56 Food and beverage service activities;2010 April;;;;;;
+702;56 Food and beverage service activities;2010 May;;;;;;
+703;56 Food and beverage service activities;2010 June;;;;;;
+704;56 Food and beverage service activities;2010 2nd quarter;103.8;;;-3.7;;
+705;56 Food and beverage service activities;2010 July;;;;;;
+706;56 Food and beverage service activities;2010 August;;;;;;
+707;56 Food and beverage service activities;2010 September;;;;;;
+708;56 Food and beverage service activities;2010 3rd quarter;105.1;;;1.1;;
+709;56 Food and beverage service activities;2010 October;;;;;;
+710;56 Food and beverage service activities;2010 November;;;;;;
+711;56 Food and beverage service activities;2010 December;;;;;;
+712;56 Food and beverage service activities;2010 4th quarter;101.3;;;1.8;;
+713;56 Food and beverage service activities;2010;100.0;;;-1.4;;
+714;56 Food and beverage service activities;2011 January;;;;;;
+715;56 Food and beverage service activities;2011 February;;;;;;
+716;56 Food and beverage service activities;2011 March;;;;;;
+717;56 Food and beverage service activities;2011 1st quarter;94.1;;;4.8;;
+718;56 Food and beverage service activities;2011 April;;;;;;
+719;56 Food and beverage service activities;2011 May;;;;;;
+720;56 Food and beverage service activities;2011 June;;;;;;
+721;56 Food and beverage service activities;2011 2nd quarter;110.5;;;6.5;;
+722;56 Food and beverage service activities;2011 July;;;;;;
+723;56 Food and beverage service activities;2011 August;;;;;;
+724;56 Food and beverage service activities;2011 September;;;;;;
+725;56 Food and beverage service activities;2011 3rd quarter;107.8;;;2.5;;
+726;56 Food and beverage service activities;2011 October;;;;;;
+727;56 Food and beverage service activities;2011 November;;;;;;
+728;56 Food and beverage service activities;2011 December;;;;;;
+729;56 Food and beverage service activities;2011 4th quarter;105.1;;;3.7;;
+730;56 Food and beverage service activities;2011;104.4;;;4.4;;
+731;56 Food and beverage service activities;2012 January;;;;;;
+732;56 Food and beverage service activities;2012 February;;;;;;
+733;56 Food and beverage service activities;2012 March;;;;;;
+734;56 Food and beverage service activities;2012 1st quarter;96.7;;;2.8;;
+735;56 Food and beverage service activities;2012 April;;;;;;
+736;56 Food and beverage service activities;2012 May;;;;;;
+737;56 Food and beverage service activities;2012 June;;;;;;
+738;56 Food and beverage service activities;2012 2nd quarter;111.8;;;1.1;;
+739;56 Food and beverage service activities;2012 July;;;;;;
+740;56 Food and beverage service activities;2012 August;;;;;;
+741;56 Food and beverage service activities;2012 September;;;;;;
+742;56 Food and beverage service activities;2012 3rd quarter;108.7;;;0.9;;
+743;56 Food and beverage service activities;2012 October;;;;;;
+744;56 Food and beverage service activities;2012 November;;;;;;
+745;56 Food and beverage service activities;2012 December;;;;;;
+746;56 Food and beverage service activities;2012  4th quarter;105.8;;;0.7;;
+747;56 Food and beverage service activities;2012;105.8;;;1.3;;
+748;56 Food and beverage service activities;2013 January;;;;;;
+749;56 Food and beverage service activities;2013 February;;;;;;
+750;56 Food and beverage service activities;2013 March;;;;;;
+751;56 Food and beverage service activities;2013 1st quarter;94.4;;;-2.5;;
+752;56 Food and beverage service activities;2013 April;;;;;;
+753;56 Food and beverage service activities;2013 May;;;;;;
+754;56 Food and beverage service activities;2013 June;;;;;;
+755;56 Food and beverage service activities;2013 2nd quarter;112.0;;;0.2;;
+756;56 Food and beverage service activities;2013 July;;;;;;
+757;56 Food and beverage service activities;2013 August;;;;;;
+758;56 Food and beverage service activities;2013 September;;;;;;
+759;56 Food and beverage service activities;2013 3rd quarter;109.3;;;0.5;;
+760;56 Food and beverage service activities;2013 October;;;;;;
+761;56 Food and beverage service activities;2013 November;;;;;;
+762;56 Food and beverage service activities;2013 December;;;;;;
+763;56 Food and beverage service activities;2013 4th quarter;106.5;;;0.6;;
+764;56 Food and beverage service activities;2013;105.5;;;-0.2;;
+765;561 Restaurants ;2005 January;82.3;86.9;94.7;;;
+766;561 Restaurants ;2005 February;78.5;87.1;90.2;;;
+767;561 Restaurants ;2005 March;88.1;87.1;101.1;;;
+768;561 Restaurants ;2005 1st quarter;83.0;87.0;95.3;;;
+769;561 Restaurants ;2005 April;97.2;87.3;111.3;;;
+770;561 Restaurants ;2005 May;103.3;87.2;118.4;;;
+771;561 Restaurants ;2005 June;103.2;87.6;117.8;;;
+772;561 Restaurants ;2005 2nd quarter;101.2;87.4;115.8;;;
+773;561 Restaurants ;2005 July;105.1;87.6;120.0;;;
+774;561 Restaurants ;2005 August;104.3;87.5;119.2;;;
+775;561 Restaurants ;2005 September;101.8;87.5;116.3;;;
+776;561 Restaurants ;2005 3rd quarter;103.7;87.5;118.5;;;
+777;561 Restaurants ;2005 October;100.5;87.7;114.7;;;
+778;561 Restaurants ;2005 November;92.7;87.9;105.5;;;
+779;561 Restaurants ;2005 December;99.1;87.9;112.7;;;
+780;561 Restaurants ;2005 4th quarter;97.4;87.8;111.0;;;
+781;561 Restaurants ;2005;96.3;87.4;110.2;;;
+782;561 Restaurants ;2006 January;85.3;88.4;96.6;3.7;1.7;2.0
+783;561 Restaurants ;2006 February;81.3;88.4;92.0;3.6;1.6;2.0
+784;561 Restaurants ;2006 March;91.9;88.6;103.7;4.4;1.8;2.5
+785;561 Restaurants ;2006 1st quarter;86.2;88.5;97.4;3.9;1.7;2.2
+786;561 Restaurants ;2006 April;102.6;88.9;115.5;5.6;1.8;3.7
+787;561 Restaurants ;2006 May;107.7;88.8;121.3;4.3;1.8;2.4
+788;561 Restaurants ;2006 June;107.6;89.1;120.8;4.3;1.7;2.5
+789;561 Restaurants ;2006 2nd quarter;106.0;88.9;119.2;4.7;1.8;2.9
+790;561 Restaurants ;2006 July;109.5;89.3;122.6;4.1;2.0;2.1
+791;561 Restaurants ;2006 August;110.0;89.4;123.0;5.4;2.2;3.2
+792;561 Restaurants ;2006 September;108.5;89.6;121.1;6.6;2.4;4.1
+793;561 Restaurants ;2006 3rd quarter;109.3;89.5;122.2;5.4;2.2;3.1
+794;561 Restaurants ;2006 October;104.2;89.9;115.9;3.6;2.5;1.0
+795;561 Restaurants ;2006 November;99.8;90.0;110.8;7.6;2.5;5.0
+796;561 Restaurants ;2006 December;105.0;90.2;116.4;6.0;2.7;3.2
+797;561 Restaurants ;2006 4th quarter;103.0;90.1;114.4;5.7;2.6;3.0
+798;561 Restaurants ;2006;101.1;89.2;113.3;5.0;2.1;2.8
+799;561 Restaurants ;2007 January;91.6;90.9;100.8;7.4;2.8;4.4
+800;561 Restaurants ;2007 February;90.2;91.4;98.7;10.9;3.3;7.3
+801;561 Restaurants ;2007 March;102.3;91.5;111.8;11.3;3.2;7.8
+802;561 Restaurants ;2007 1st quarter;94.7;91.3;103.8;9.9;3.1;6.5
+803;561 Restaurants ;2007 April;112.4;91.6;122.7;9.5;3.1;6.2
+804;561 Restaurants ;2007 May;115.5;91.9;125.7;7.2;3.5;3.6
+805;561 Restaurants ;2007 June;117.3;92.0;127.5;9.1;3.3;5.6
+806;561 Restaurants ;2007 2nd quarter;115.1;91.9;125.3;8.6;3.3;5.1
+807;561 Restaurants ;2007 July;114.2;91.8;124.3;4.2;2.8;1.4
+808;561 Restaurants ;2007 August;114.5;92.2;124.1;4.1;3.1;0.9
+809;561 Restaurants ;2007 September;109.6;92.4;118.6;1.0;3.1;-2.0
+810;561 Restaurants ;2007 3rd quarter;112.7;92.1;122.3;3.1;3.0;0.1
+811;561 Restaurants ;2007 October;106.8;92.4;115.5;2.5;2.8;-0.3
+812;561 Restaurants ;2007 November;101.3;92.9;109.0;1.5;3.2;-1.7
+813;561 Restaurants ;2007 December;106.3;93.3;113.9;1.2;3.4;-2.1
+814;561 Restaurants ;2007 4th quarter;104.8;92.9;112.8;1.8;3.2;-1.4
+815;561 Restaurants ;2007;106.8;92.0;116.0;5.6;3.2;2.4
+816;561 Restaurants ;2008 January;91.7;93.9;97.7;0.1;3.3;-3.1
+817;561 Restaurants ;2008 February;94.6;94.4;100.2;4.9;3.3;1.5
+818;561 Restaurants ;2008 March;101.6;94.6;107.4;-0.6;3.4;-3.9
+819;561 Restaurants ;2008 1st quarter;96.0;94.3;101.8;1.3;3.3;-1.9
+820;561 Restaurants ;2008 April;109.2;95.2;114.7;-2.9;3.9;-6.5
+821;561 Restaurants ;2008 May;118.2;95.6;123.7;2.4;4.0;-1.5
+822;561 Restaurants ;2008 June;111.8;95.5;117.0;-4.7;3.8;-8.2
+823;561 Restaurants ;2008 2nd quarter;113.1;95.4;118.5;-1.7;3.9;-5.4
+824;561 Restaurants ;2008 July;112.5;95.9;117.3;-1.5;4.4;-5.6
+825;561 Restaurants ;2008 August;115.2;96.0;120.0;0.7;4.1;-3.3
+826;561 Restaurants ;2008 September;105.6;96.3;109.7;-3.6;4.2;-7.5
+827;561 Restaurants ;2008 3rd quarter;111.1;96.1;115.6;-1.4;4.3;-5.5
+828;561 Restaurants ;2008 October;107.4;96.5;111.2;0.5;4.4;-3.7
+829;561 Restaurants ;2008 November;100.3;96.9;103.5;-1.0;4.2;-5.0
+830;561 Restaurants ;2008 December;103.1;96.8;106.5;-3.0;3.7;-6.5
+831;561 Restaurants ;2008 4th quarter;103.6;96.7;107.1;-1.2;4.1;-5.1
+832;561 Restaurants ;2008;105.9;95.6;110.7;-0.8;3.9;-4.6
+833;561 Restaurants ;2009 January;91.8;97.0;94.7;0.1;3.3;-3.1
+834;561 Restaurants ;2009 February;89.9;97.6;92.1;-4.9;3.4;-8.1
+835;561 Restaurants ;2009 March;98.0;97.6;100.4;-3.6;3.2;-6.6
+836;561 Restaurants ;2009 1st quarter;93.2;97.4;95.7;-2.9;3.3;-5.9
+837;561 Restaurants ;2009 April;110.1;97.9;112.5;0.8;2.8;-1.9
+838;561 Restaurants ;2009 May;114.1;98.0;116.5;-3.5;2.6;-5.9
+839;561 Restaurants ;2009 June;108.9;98.1;111.0;-2.6;2.7;-5.1
+840;561 Restaurants ;2009 2nd quarter;111.0;98.0;113.3;-1.8;2.7;-4.4
+841;561 Restaurants ;2009 July;112.7;98.3;114.6;0.2;2.5;-2.3
+842;561 Restaurants ;2009 August;111.2;98.4;113.0;-3.5;2.5;-5.8
+843;561 Restaurants ;2009 September;101.2;98.7;102.5;-4.2;2.5;-6.5
+844;561 Restaurants ;2009 3rd quarter;108.4;98.5;110.1;-2.5;2.5;-4.8
+845;561 Restaurants ;2009 October;104.4;98.6;105.8;-2.8;2.2;-4.9
+846;561 Restaurants ;2009 November;94.9;98.8;96.1;-5.3;2.0;-7.2
+847;561 Restaurants ;2009 December;98.2;98.9;99.2;-4.8;2.2;-6.9
+848;561 Restaurants ;2009 4th quarter;99.2;98.8;100.4;-4.3;2.1;-6.3
+849;561 Restaurants ;2009;103.0;98.2;104.9;-2.8;2.6;-5.3
+850;561 Restaurants ;2010 January;86.7;99.2;87.3;-5.6;2.3;-7.8
+851;561 Restaurants ;2010 February;84.3;99.5;84.7;-6.3;1.9;-8.0
+852;561 Restaurants ;2010 March;92.6;99.7;92.9;-5.4;2.1;-7.4
+853;561 Restaurants ;2010 1st quarter;87.9;99.4;88.3;-5.8;2.1;-7.7
+854;561 Restaurants ;2010 April;104.1;99.6;104.6;-5.4;1.7;-7.0
+855;561 Restaurants ;2010 May;107.2;99.6;107.6;-6.0;1.7;-7.6
+856;561 Restaurants ;2010 June;103.1;100.0;103.1;-5.3;1.9;-7.1
+857;561 Restaurants ;2010 2nd quarter;104.8;99.7;105.1;-5.6;1.8;-7.2
+858;561 Restaurants ;2010 July;109.7;100.2;109.5;-2.7;1.9;-4.5
+859;561 Restaurants ;2010 August;107.4;100.1;107.3;-3.4;1.7;-5.0
+860;561 Restaurants ;2010 September;103.2;100.3;102.8;1.9;1.7;0.3
+861;561 Restaurants ;2010 3rd quarter;106.8;100.2;106.5;-1.5;1.8;-3.2
+862;561 Restaurants ;2010 October;108.0;100.6;107.4;3.4;1.9;1.5
+863;561 Restaurants ;2010 November;94.9;100.5;94.4;-0.1;1.7;-1.7
+864;561 Restaurants ;2010 December;98.8;100.8;98.0;0.7;1.9;-1.2
+865;561 Restaurants ;2010 4th quarter;100.6;100.6;99.9;1.4;1.8;-0.4
+866;561 Restaurants ;2010;100.0;100.0;100.0;-2.9;1.9;-4.7
+867;561 Restaurants ;2011 January;90.8;101.3;89.7;4.8;2.1;2.7
+868;561 Restaurants ;2011 February;89.1;101.7;87.6;5.7;2.3;3.3
+869;561 Restaurants ;2011 March;100.6;102.3;98.3;8.6;2.6;5.8
+870;561 Restaurants ;2011 1st quarter;93.5;101.8;91.9;6.4;2.3;4.0
+871;561 Restaurants ;2011 April;112.2;102.2;109.8;7.8;2.7;5.0
+872;561 Restaurants ;2011 May;113.0;102.6;110.1;5.4;3.0;2.3
+873;561 Restaurants ;2011 June;115.4;102.7;112.4;11.9;2.7;9.0
+874;561 Restaurants ;2011 2nd quarter;113.5;102.5;110.8;8.3;2.8;5.4
+875;561 Restaurants ;2011 July;114.4;102.7;111.4;4.3;2.5;1.8
+876;561 Restaurants ;2011 August;109.6;102.9;106.5;2.0;2.8;-0.8
+877;561 Restaurants ;2011 September;110.6;103.3;107.1;7.2;2.9;4.1
+878;561 Restaurants ;2011 3rd quarter;111.5;103.0;108.3;4.4;2.7;1.7
+879;561 Restaurants ;2011 October;109.7;103.5;105.9;1.6;2.9;-1.3
+880;561 Restaurants ;2011 November;100.2;103.5;96.8;5.6;3.0;2.5
+881;561 Restaurants ;2011 December;107.4;103.7;103.6;8.7;2.8;5.7
+882;561 Restaurants ;2011 4th quarter;105.8;103.5;102.1;5.2;2.9;2.2
+883;561 Restaurants ;2011;106.1;102.7;103.3;6.1;2.7;3.3
+884;561 Restaurants ;2012 January;95.3;104.1;91.6;5.0;2.8;2.1
+885;561 Restaurants ;2012 February;91.9;104.3;88.1;3.2;2.5;0.6
+886;561 Restaurants ;2012 March;107.1;104.4;102.5;6.4;2.1;4.3
+887;561 Restaurants ;2012 1st quarter;98.1;104.3;94.1;4.9;2.5;2.4
+888;561 Restaurants ;2012 April;113.2;104.3;108.5;0.8;2.0;-1.2
+889;561 Restaurants ;2012 May;117.5;104.6;112.3;3.9;1.9;2.0
+890;561 Restaurants ;2012 June;115.4;104.8;110.1;0.1;2.1;-2.0
+891;561 Restaurants ;2012 2nd quarter;115.4;104.6;110.3;1.6;2.0;-0.4
+892;561 Restaurants ;2012 July;115.4;104.7;110.2;0.9;2.0;-1.0
+893;561 Restaurants ;2012 August;114.6;104.9;109.2;4.5;1.9;2.6
+894;561 Restaurants ;2012 September;113.4;104.9;108.1;2.6;1.5;1.0
+895;561 Restaurants ;2012 3rd quarter;114.5;104.8;109.2;2.6;1.8;0.8
+896;561 Restaurants ;2012 October;108.6;105.4;103.0;-1.0;1.8;-2.7
+897;561 Restaurants ;2012 November;104.0;105.5;98.6;3.8;2.0;1.8
+898;561 Restaurants ;2012 December;110.8;105.7;104.8;3.1;1.9;1.1
+899;561 Restaurants ;2012  4th quarter;107.8;105.5;102.1;1.9;1.9;0.0
+900;561 Restaurants ;2012;108.9;104.8;103.9;2.7;2.0;0.6
+901;561 Restaurants ;2013 January;95.1;105.9;89.8;-0.3;1.7;-2.0
+902;561 Restaurants ;2013 February;92.0;106.2;86.6;0.1;1.8;-1.7
+903;561 Restaurants ;2013 March;105.5;106.2;99.4;-1.4;1.7;-3.1
+904;561 Restaurants ;2013 1st quarter;97.5;106.1;91.9;-0.6;1.7;-2.3
+905;561 Restaurants ;2013 April;113.5;106.2;106.9;0.3;1.8;-1.5
+906;561 Restaurants ;2013 May;120.5;106.5;113.1;2.6;1.9;0.7
+907;561 Restaurants ;2013 June;121.7;106.7;114.1;5.4;1.8;3.6
+908;561 Restaurants ;2013 2nd quarter;118.6;106.5;111.4;2.8;1.8;0.9
+909;561 Restaurants ;2013 July;118.1;106.7;110.7;2.3;1.9;0.4
+910;561 Restaurants ;2013 August;120.3;107.0;112.5;5.0;2.0;3.0
+911;561 Restaurants ;2013 September;113.2;107.0;105.8;-0.2;2.1;-2.2
+912;561 Restaurants ;2013 3rd quarter;117.2;106.9;109.6;2.4;2.0;0.4
+913;561 Restaurants ;2013 October;111.1;107.1;103.8;2.3;1.6;0.7
+914;561 Restaurants ;2013 November;107.8;107.1;100.7;3.7;1.5;2.1
+915;561 Restaurants ;2013 December;112.5;107.3;104.8;1.6;1.6;0.0
+916;561 Restaurants ;2013 4th quarter;110.5;107.2;103.1;2.5;1.6;0.9
+917;561 Restaurants ;2013;110.9;106.7;104.0;1.8;1.8;0.1
+918;56101 Restaurants;2005 January;85.0;86.8;97.9;;;
+919;56101 Restaurants;2005 February;82.0;87.1;94.1;;;
+920;56101 Restaurants;2005 March;92.4;87.1;106.0;;;
+921;56101 Restaurants;2005 1st quarter;86.4;87.0;99.3;;;
+922;56101 Restaurants;2005 April;100.3;87.3;114.9;;;
+923;56101 Restaurants;2005 May;105.2;87.2;120.7;;;
+924;56101 Restaurants;2005 June;104.5;87.4;119.5;;;
+925;56101 Restaurants;2005 2nd quarter;103.4;87.3;118.4;;;
+926;56101 Restaurants;2005 July;105.1;87.5;120.2;;;
+927;56101 Restaurants;2005 August;105.0;87.3;120.3;;;
+928;56101 Restaurants;2005 September;106.5;87.4;122.0;;;
+929;56101 Restaurants;2005 3rd quarter;105.5;87.4;120.8;;;
+930;56101 Restaurants;2005 October;106.0;87.6;121.0;;;
+931;56101 Restaurants;2005 November;99.4;87.8;113.2;;;
+932;56101 Restaurants;2005 December;107.4;87.8;122.3;;;
+933;56101 Restaurants;2005 4th quarter;104.3;87.7;118.8;;;
+934;56101 Restaurants;2005;99.9;87.4;114.3;;;
+935;56101 Restaurants;2006 January;89.6;88.4;101.3;5.3;1.8;3.5
+936;56101 Restaurants;2006 February;85.3;88.3;96.6;4.1;1.5;2.6
+937;56101 Restaurants;2006 March;96.3;88.6;108.8;4.3;1.7;2.6
+938;56101 Restaurants;2006 1st quarter;90.4;88.4;102.2;4.6;1.6;2.9
+939;56101 Restaurants;2006 April;107.7;88.8;121.3;7.4;1.7;5.6
+940;56101 Restaurants;2006 May;112.7;88.8;126.9;7.0;1.8;5.1
+941;56101 Restaurants;2006 June;110.1;89.2;123.4;5.3;2.0;3.3
+942;56101 Restaurants;2006 2nd quarter;110.2;88.9;123.9;6.6;1.8;4.6
+943;56101 Restaurants;2006 July;110.4;89.4;123.5;5.0;2.2;2.8
+944;56101 Restaurants;2006 August;111.6;89.4;124.9;6.4;2.4;3.8
+945;56101 Restaurants;2006 September;113.3;89.7;126.3;6.4;2.7;3.5
+946;56101 Restaurants;2006 3rd quarter;111.8;89.5;124.9;5.9;2.4;3.4
+947;56101 Restaurants;2006 October;109.0;90.1;121.0;2.9;2.8;0.0
+948;56101 Restaurants;2006 November;106.5;90.2;118.1;7.1;2.7;4.4
+949;56101 Restaurants;2006 December;113.0;90.4;125.0;5.2;3.0;2.2
+950;56101 Restaurants;2006 4th quarter;109.5;90.2;121.4;5.0;2.8;2.1
+951;56101 Restaurants;2006;105.5;89.3;118.1;5.6;2.2;3.3
+952;56101 Restaurants;2007 January;95.6;90.7;105.3;6.7;2.6;4.0
+953;56101 Restaurants;2007 February;93.8;91.0;103.1;9.9;3.0;6.7
+954;56101 Restaurants;2007 March;106.4;91.1;116.8;10.5;2.9;7.4
+955;56101 Restaurants;2007 1st quarter;98.6;90.9;108.4;9.1;2.8;6.1
+956;56101 Restaurants;2007 April;116.6;91.3;127.6;8.2;2.8;5.2
+957;56101 Restaurants;2007 May;119.1;91.6;130.0;5.7;3.2;2.5
+958;56101 Restaurants;2007 June;120.9;91.6;131.9;9.8;2.8;6.9
+959;56101 Restaurants;2007 2nd quarter;118.9;91.5;129.9;7.9;2.9;4.8
+960;56101 Restaurants;2007 July;117.3;91.4;128.2;6.2;2.3;3.9
+961;56101 Restaurants;2007 August;117.6;91.9;128.0;5.4;2.8;2.5
+962;56101 Restaurants;2007 September;115.3;92.1;125.2;1.7;2.6;-0.8
+963;56101 Restaurants;2007 3rd quarter;116.7;91.8;127.2;4.4;2.5;1.8
+964;56101 Restaurants;2007 October;112.3;92.1;121.9;3.0;2.2;0.7
+965;56101 Restaurants;2007 November;107.7;92.7;116.2;1.1;2.8;-1.7
+966;56101 Restaurants;2007 December;113.4;93.1;121.8;0.3;2.9;-2.5
+967;56101 Restaurants;2007 4th quarter;111.1;92.6;120.0;1.5;2.7;-1.2
+968;56101 Restaurants;2007;111.3;91.7;121.3;5.6;2.7;2.8
+969;56101 Restaurants;2008 January;94.3;93.3;101.1;-1.3;2.8;-4.0
+970;56101 Restaurants;2008 February;97.8;93.9;104.2;4.3;3.2;1.1
+971;56101 Restaurants;2008 March;106.6;94.3;113.1;0.2;3.5;-3.2
+972;56101 Restaurants;2008 1st quarter;99.6;93.8;106.1;1.0;3.2;-2.1
+973;56101 Restaurants;2008 April;113.0;95.0;119.0;-3.0;4.0;-6.8
+974;56101 Restaurants;2008 May;122.4;95.4;128.3;2.8;4.2;-1.3
+975;56101 Restaurants;2008 June;114.6;95.4;120.1;-5.2;4.1;-9.0
+976;56101 Restaurants;2008 2nd quarter;116.7;95.3;122.5;-1.8;4.1;-5.7
+977;56101 Restaurants;2008 July;115.0;95.9;120.0;-1.9;4.8;-6.4
+978;56101 Restaurants;2008 August;118.7;96.0;123.6;0.9;4.5;-3.4
+979;56101 Restaurants;2008 September;110.4;96.4;114.5;-4.2;4.7;-8.5
+980;56101 Restaurants;2008 3rd quarter;114.7;96.1;119.4;-1.7;4.7;-6.1
+981;56101 Restaurants;2008 October;111.6;96.7;115.5;-0.6;5.0;-5.3
+982;56101 Restaurants;2008 November;105.1;97.1;108.3;-2.3;4.8;-6.8
+983;56101 Restaurants;2008 December;107.5;96.9;110.9;-5.2;4.1;-9.0
+984;56101 Restaurants;2008 4th quarter;108.1;96.9;111.6;-2.7;4.6;-7.0
+985;56101 Restaurants;2008;109.8;95.5;114.9;-1.4;4.1;-5.3
+986;56101 Restaurants;2009 January;92.9;97.0;95.7;-1.6;4.0;-5.3
+987;56101 Restaurants;2009 February;91.0;97.8;93.1;-7.0;4.1;-10.6
+988;56101 Restaurants;2009 March;100.2;97.7;102.5;-6.0;3.6;-9.3
+989;56101 Restaurants;2009 1st quarter;94.7;97.5;97.1;-4.9;3.9;-8.5
+990;56101 Restaurants;2009 April;112.2;98.0;114.5;-0.7;3.2;-3.8
+991;56101 Restaurants;2009 May;116.5;98.1;118.8;-4.8;2.8;-7.4
+992;56101 Restaurants;2009 June;111.2;98.2;113.2;-2.9;3.0;-5.7
+993;56101 Restaurants;2009 2nd quarter;113.3;98.1;115.5;-2.9;3.0;-5.7
+994;56101 Restaurants;2009 July;113.3;98.4;115.2;-1.5;2.7;-4.0
+995;56101 Restaurants;2009 August;112.2;98.6;113.8;-5.5;2.7;-7.9
+996;56101 Restaurants;2009 September;102.2;98.9;103.4;-7.4;2.5;-9.7
+997;56101 Restaurants;2009 3rd quarter;109.3;98.6;110.8;-4.8;2.6;-7.2
+998;56101 Restaurants;2009 October;105.3;98.7;106.7;-5.7;2.1;-7.6
+999;56101 Restaurants;2009 November;96.0;98.8;97.2;-8.7;1.8;-10.3
+1000;56101 Restaurants;2009 December;101.3;98.9;102.5;-5.7;2.0;-7.6
+1001;56101 Restaurants;2009 4th quarter;100.9;98.8;102.1;-6.7;2.0;-8.5
+1002;56101 Restaurants;2009;104.5;98.3;106.4;-4.8;2.9;-7.4
+1003;56101 Restaurants;2010 January;86.2;99.2;86.9;-7.2;2.2;-9.2
+1004;56101 Restaurants;2010 February;84.4;99.5;84.9;-7.2;1.7;-8.8
+1005;56101 Restaurants;2010 March;93.4;99.7;93.7;-6.7;2.1;-8.6
+1006;56101 Restaurants;2010 1st quarter;88.0;99.4;88.5;-7.0;2.0;-8.9
+1007;56101 Restaurants;2010 April;104.8;99.5;105.3;-6.6;1.5;-8.0
+1008;56101 Restaurants;2010 May;106.2;99.5;106.7;-8.8;1.5;-10.2
+1009;56101 Restaurants;2010 June;101.9;100.1;101.9;-8.3;1.9;-10.0
+1010;56101 Restaurants;2010 2nd quarter;104.3;99.7;104.6;-7.9;1.6;-9.4
+1011;56101 Restaurants;2010 July;105.5;100.3;105.2;-6.9;1.9;-8.7
+1012;56101 Restaurants;2010 August;106.4;100.1;106.2;-5.2;1.6;-6.7
+1013;56101 Restaurants;2010 September;103.9;100.4;103.5;1.7;1.5;0.1
+1014;56101 Restaurants;2010 3rd quarter;105.3;100.3;105.0;-3.7;1.7;-5.3
+1015;56101 Restaurants;2010 October;108.6;100.6;107.9;3.1;1.9;1.2
+1016;56101 Restaurants;2010 November;96.4;100.5;96.0;0.4;1.7;-1.3
+1017;56101 Restaurants;2010 December;102.2;100.6;101.6;0.9;1.7;-0.8
+1018;56101 Restaurants;2010 4th quarter;102.4;100.6;101.8;1.5;1.8;-0.3
+1019;56101 Restaurants;2010;100.0;100.0;100.0;-4.3;1.8;-6.0
+1020;56101 Restaurants;2011 January;90.3;101.2;89.1;4.7;2.1;2.5
+1021;56101 Restaurants;2011 February;88.5;101.5;87.2;4.9;2.1;2.8
+1022;56101 Restaurants;2011 March;100.2;102.1;98.2;7.3;2.4;4.8
+1023;56101 Restaurants;2011 1st quarter;93.0;101.6;91.5;5.7;2.2;3.4
+1024;56101 Restaurants;2011 April;111.6;102.0;109.5;6.5;2.4;4.0
+1025;56101 Restaurants;2011 May;111.5;102.4;108.9;5.0;2.9;2.1
+1026;56101 Restaurants;2011 June;112.9;102.4;110.2;10.7;2.3;8.2
+1027;56101 Restaurants;2011 2nd quarter;112.0;102.3;109.5;7.4;2.6;4.7
+1028;56101 Restaurants;2011 July;110.7;102.4;108.2;4.9;2.0;2.8
+1029;56101 Restaurants;2011 August;105.5;102.7;102.8;-0.8;2.5;-3.2
+1030;56101 Restaurants;2011 September;110.7;103.1;107.4;6.5;2.7;3.7
+1031;56101 Restaurants;2011 3rd quarter;109.0;102.7;106.1;3.5;2.4;1.1
+1032;56101 Restaurants;2011 October;108.9;103.4;105.4;0.3;2.7;-2.4
+1033;56101 Restaurants;2011 November;101.3;103.3;98.1;5.1;2.8;2.2
+1034;56101 Restaurants;2011 December;109.6;103.4;106.0;7.2;2.8;4.3
+1035;56101 Restaurants;2011 4th quarter;106.6;103.4;103.1;4.1;2.8;1.3
+1036;56101 Restaurants;2011;105.2;102.5;102.6;5.2;2.5;2.6
+1037;56101 Restaurants;2012 January;94.4;103.8;90.9;4.6;2.5;2.0
+1038;56101 Restaurants;2012 February;91.4;104.0;87.9;3.2;2.5;0.8
+1039;56101 Restaurants;2012 March;105.8;104.1;101.6;5.6;2.0;3.5
+1040;56101 Restaurants;2012 1st quarter;97.2;104.0;93.5;4.5;2.3;2.2
+1041;56101 Restaurants;2012 April;112.9;103.9;108.7;1.1;1.9;-0.7
+1042;56101 Restaurants;2012 May;116.1;104.1;111.5;4.1;1.7;2.4
+1043;56101 Restaurants;2012 June;113.7;104.4;108.9;0.7;1.9;-1.2
+1044;56101 Restaurants;2012 2nd quarter;114.2;104.1;109.7;2.0;1.8;0.1
+1045;56101 Restaurants;2012 July;112.9;104.2;108.4;1.9;1.7;0.2
+1046;56101 Restaurants;2012 August;110.7;104.4;106.0;4.9;1.7;3.2
+1047;56101 Restaurants;2012 September;114.3;104.4;109.5;3.2;1.3;2.0
+1048;56101 Restaurants;2012 3rd quarter;112.6;104.3;108.0;3.3;1.6;1.7
+1049;56101 Restaurants;2012 October;109.7;105.0;104.5;0.7;1.6;-0.9
+1050;56101 Restaurants;2012 November;105.7;105.3;100.4;4.3;1.9;2.4
+1051;56101 Restaurants;2012 December;114.0;105.3;108.3;4.0;1.8;2.2
+1052;56101 Restaurants;2012  4th quarter;109.8;105.2;104.4;3.0;1.8;1.2
+1053;56101 Restaurants;2012;108.5;104.4;103.9;3.1;1.9;1.3
+1054;56101 Restaurants;2013 January;95.4;105.4;90.5;1.1;1.5;-0.4
+1055;56101 Restaurants;2013 February;91.6;105.7;86.7;0.2;1.6;-1.4
+1056;56101 Restaurants;2013 March;106.5;105.6;100.9;0.7;1.4;-0.7
+1057;56101 Restaurants;2013 1st quarter;97.9;105.5;92.7;0.7;1.5;-0.8
+1058;56101 Restaurants;2013 April;114.3;105.6;108.2;1.3;1.7;-0.4
+1059;56101 Restaurants;2013 May;119.7;106.1;112.8;3.1;1.9;1.2
+1060;56101 Restaurants;2013 June;121.6;106.2;114.4;7.0;1.8;5.1
+1061;56101 Restaurants;2013 2nd quarter;118.5;106.0;111.8;3.8;1.8;1.9
+1062;56101 Restaurants;2013 July;116.0;106.2;109.2;2.8;2.0;0.7
+1063;56101 Restaurants;2013 August;117.4;106.6;110.1;6.1;2.1;3.9
+1064;56101 Restaurants;2013 September;112.8;106.6;105.9;-1.3;2.1;-3.3
+1065;56101 Restaurants;2013 3rd quarter;115.4;106.5;108.4;2.5;2.1;0.4
+1066;56101 Restaurants;2013 October;110.9;106.6;104.1;1.1;1.5;-0.4
+1067;56101 Restaurants;2013 November;109.9;106.7;103.0;4.0;1.4;2.6
+1068;56101 Restaurants;2013 December;115.9;106.8;108.6;1.7;1.4;0.3
+1069;56101 Restaurants;2013 4th quarter;112.3;106.7;105.2;2.2;1.4;0.8
+1070;56101 Restaurants;2013;111.0;106.2;104.5;2.4;1.7;0.6
+1071;56102-56103 Snackbars, icecream parlours;2005 January;77.0;87.0;88.5;;;
+1072;56102-56103 Snackbars, icecream parlours;2005 February;72.0;87.0;82.7;;;
+1073;56102-56103 Snackbars, icecream parlours;2005 March;79.9;87.0;91.8;;;
+1074;56102-56103 Snackbars, icecream parlours;2005 1st quarter;76.3;87.0;87.7;;;
+1075;56102-56103 Snackbars, icecream parlours;2005 April;91.2;87.3;104.5;;;
+1076;56102-56103 Snackbars, icecream parlours;2005 May;99.5;87.2;114.1;;;
+1077;56102-56103 Snackbars, icecream parlours;2005 June;100.6;87.9;114.4;;;
+1078;56102-56103 Snackbars, icecream parlours;2005 2nd quarter;97.1;87.5;111.0;;;
+1079;56102-56103 Snackbars, icecream parlours;2005 July;105.2;87.8;119.7;;;
+1080;56102-56103 Snackbars, icecream parlours;2005 August;103.0;87.8;117.2;;;
+1081;56102-56103 Snackbars, icecream parlours;2005 September;92.7;87.8;105.5;;;
+1082;56102-56103 Snackbars, icecream parlours;2005 3rd quarter;100.3;87.8;114.1;;;
+1083;56102-56103 Snackbars, icecream parlours;2005 October;90.2;87.8;102.6;;;
+1084;56102-56103 Snackbars, icecream parlours;2005 November;80.0;88.0;91.0;;;
+1085;56102-56103 Snackbars, icecream parlours;2005 December;83.2;88.0;94.5;;;
+1086;56102-56103 Snackbars, icecream parlours;2005 4th quarter;84.5;87.9;96.0;;;
+1087;56102-56103 Snackbars, icecream parlours;2005;89.5;87.6;102.2;;;
+1088;56102-56103 Snackbars, icecream parlours;2006 January;77.3;88.3;87.5;0.3;1.5;-1.2
+1089;56102-56103 Snackbars, icecream parlours;2006 February;73.7;88.5;83.3;2.5;1.7;0.7
+1090;56102-56103 Snackbars, icecream parlours;2006 March;83.4;88.8;94.0;4.4;2.0;2.4
+1091;56102-56103 Snackbars, icecream parlours;2006 1st quarter;78.1;88.5;88.2;2.4;1.7;0.7
+1092;56102-56103 Snackbars, icecream parlours;2006 April;92.9;89.0;104.4;1.8;2.0;-0.1
+1093;56102-56103 Snackbars, icecream parlours;2006 May;98.2;88.7;110.7;-1.3;1.8;-3.0
+1094;56102-56103 Snackbars, icecream parlours;2006 June;102.9;89.0;115.6;2.3;1.2;1.1
+1095;56102-56103 Snackbars, icecream parlours;2006 2nd quarter;98.0;88.9;110.2;0.9;1.6;-0.7
+1096;56102-56103 Snackbars, icecream parlours;2006 July;107.8;89.2;120.8;2.5;1.6;0.9
+1097;56102-56103 Snackbars, icecream parlours;2006 August;106.7;89.4;119.4;3.7;1.7;1.9
+1098;56102-56103 Snackbars, icecream parlours;2006 September;99.4;89.4;111.1;7.2;1.8;5.3
+1099;56102-56103 Snackbars, icecream parlours;2006 3rd quarter;104.6;89.3;117.1;4.4;1.7;2.6
+1100;56102-56103 Snackbars, icecream parlours;2006 October;94.9;89.6;106.0;5.3;1.9;3.3
+1101;56102-56103 Snackbars, icecream parlours;2006 November;86.9;89.8;96.8;8.6;2.0;6.4
+1102;56102-56103 Snackbars, icecream parlours;2006 December;89.7;89.9;99.8;7.9;2.2;5.6
+1103;56102-56103 Snackbars, icecream parlours;2006 4th quarter;90.5;89.7;100.9;7.2;2.0;5.0
+1104;56102-56103 Snackbars, icecream parlours;2006;92.8;89.1;104.1;3.7;1.8;1.9
+1105;56102-56103 Snackbars, icecream parlours;2007 January;84.1;91.1;92.2;8.8;3.2;5.4
+1106;56102-56103 Snackbars, icecream parlours;2007 February;83.3;92.1;90.5;13.0;4.0;8.7
+1107;56102-56103 Snackbars, icecream parlours;2007 March;94.4;92.3;102.3;13.1;4.0;8.8
+1108;56102-56103 Snackbars, icecream parlours;2007 1st quarter;87.2;91.8;95.0;11.7;3.7;7.7
+1109;56102-56103 Snackbars, icecream parlours;2007 April;104.5;92.2;113.3;12.5;3.6;8.6
+1110;56102-56103 Snackbars, icecream parlours;2007 May;108.5;92.4;117.4;10.4;4.1;6.0
+1111;56102-56103 Snackbars, icecream parlours;2007 June;110.5;92.8;119.1;7.4;4.3;3.0
+1112;56102-56103 Snackbars, icecream parlours;2007 2nd quarter;107.8;92.5;116.6;10.0;4.0;5.8
+1113;56102-56103 Snackbars, icecream parlours;2007 July;108.2;92.6;116.8;0.3;3.8;-3.3
+1114;56102-56103 Snackbars, icecream parlours;2007 August;108.4;92.8;116.8;1.6;3.9;-2.2
+1115;56102-56103 Snackbars, icecream parlours;2007 September;98.7;93.0;106.1;-0.7;4.0;-4.5
+1116;56102-56103 Snackbars, icecream parlours;2007 3rd quarter;105.1;92.8;113.2;0.4;3.9;-3.3
+1117;56102-56103 Snackbars, icecream parlours;2007 October;96.4;93.1;103.5;1.6;4.0;-2.3
+1118;56102-56103 Snackbars, icecream parlours;2007 November;89.1;93.4;95.3;2.4;4.1;-1.6
+1119;56102-56103 Snackbars, icecream parlours;2007 December;92.7;93.8;98.8;3.3;4.4;-1.0
+1120;56102-56103 Snackbars, icecream parlours;2007 4th quarter;92.7;93.5;99.2;2.4;4.1;-1.6
+1121;56102-56103 Snackbars, icecream parlours;2007;98.2;92.6;106.0;5.8;3.9;1.8
+1122;56102-56103 Snackbars, icecream parlours;2008 January;86.7;95.0;91.3;3.1;4.2;-1.1
+1123;56102-56103 Snackbars, icecream parlours;2008 February;88.3;95.2;92.7;6.0;3.5;2.5
+1124;56102-56103 Snackbars, icecream parlours;2008 March;92.1;95.2;96.8;-2.4;3.2;-5.4
+1125;56102-56103 Snackbars, icecream parlours;2008 1st quarter;89.0;95.1;93.6;2.1;3.6;-1.5
+1126;56102-56103 Snackbars, icecream parlours;2008 April;101.9;95.6;106.5;-2.5;3.7;-6.0
+1127;56102-56103 Snackbars, icecream parlours;2008 May;110.2;95.9;115.0;1.7;3.7;-2.0
+1128;56102-56103 Snackbars, icecream parlours;2008 June;106.6;95.9;111.2;-3.5;3.3;-6.6
+1129;56102-56103 Snackbars, icecream parlours;2008 2nd quarter;106.3;95.8;110.9;-1.5;3.6;-4.9
+1130;56102-56103 Snackbars, icecream parlours;2008 July;107.6;95.9;112.1;-0.6;3.6;-4.0
+1131;56102-56103 Snackbars, icecream parlours;2008 August;108.5;96.0;113.0;0.1;3.4;-3.2
+1132;56102-56103 Snackbars, icecream parlours;2008 September;96.4;96.0;100.4;-2.3;3.3;-5.4
+1133;56102-56103 Snackbars, icecream parlours;2008 3rd quarter;104.2;96.0;108.5;-0.9;3.4;-4.2
+1134;56102-56103 Snackbars, icecream parlours;2008 October;99.2;96.3;103.0;2.9;3.4;-0.5
+1135;56102-56103 Snackbars, icecream parlours;2008 November;90.9;96.4;94.3;2.1;3.2;-1.1
+1136;56102-56103 Snackbars, icecream parlours;2008 December;94.8;96.6;98.1;2.2;2.9;-0.7
+1137;56102-56103 Snackbars, icecream parlours;2008 4th quarter;95.0;96.4;98.5;2.4;3.2;-0.7
+1138;56102-56103 Snackbars, icecream parlours;2008;98.6;95.8;102.9;0.4;3.4;-2.9
+1139;56102-56103 Snackbars, icecream parlours;2009 January;89.9;96.8;92.8;3.7;2.0;1.7
+1140;56102-56103 Snackbars, icecream parlours;2009 February;87.9;97.3;90.3;-0.5;2.2;-2.6
+1141;56102-56103 Snackbars, icecream parlours;2009 March;93.7;97.4;96.1;1.7;2.3;-0.6
+1142;56102-56103 Snackbars, icecream parlours;2009 1st quarter;90.5;97.2;93.1;1.6;2.2;-0.6
+1143;56102-56103 Snackbars, icecream parlours;2009 April;106.1;97.6;108.7;4.1;2.1;2.0
+1144;56102-56103 Snackbars, icecream parlours;2009 May;109.7;97.9;112.0;-0.5;2.1;-2.6
+1145;56102-56103 Snackbars, icecream parlours;2009 June;104.5;97.8;106.8;-2.0;2.1;-4.0
+1146;56102-56103 Snackbars, icecream parlours;2009 2nd quarter;106.7;97.8;109.2;0.5;2.1;-1.6
+1147;56102-56103 Snackbars, icecream parlours;2009 July;111.5;98.1;113.6;3.7;2.3;1.3
+1148;56102-56103 Snackbars, icecream parlours;2009 August;109.3;98.0;111.5;0.7;2.1;-1.4
+1149;56102-56103 Snackbars, icecream parlours;2009 September;99.3;98.4;100.9;3.0;2.4;0.5
+1150;56102-56103 Snackbars, icecream parlours;2009 3rd quarter;106.7;98.2;108.7;2.4;2.3;0.1
+1151;56102-56103 Snackbars, icecream parlours;2009 October;102.7;98.5;104.2;3.5;2.3;1.2
+1152;56102-56103 Snackbars, icecream parlours;2009 November;92.8;98.7;94.0;2.1;2.4;-0.3
+1153;56102-56103 Snackbars, icecream parlours;2009 December;92.1;99.1;93.0;-2.8;2.6;-5.3
+1154;56102-56103 Snackbars, icecream parlours;2009 4th quarter;95.9;98.8;97.1;1.0;2.4;-1.5
+1155;56102-56103 Snackbars, icecream parlours;2009;99.9;98.0;102.0;1.4;2.2;-0.9
+1156;56102-56103 Snackbars, icecream parlours;2010 January;87.5;99.3;88.1;-2.6;2.5;-5.0
+1157;56102-56103 Snackbars, icecream parlours;2010 February;84.0;99.4;84.5;-4.4;2.2;-6.4
+1158;56102-56103 Snackbars, icecream parlours;2010 March;91.1;99.6;91.5;-2.8;2.2;-4.9
+1159;56102-56103 Snackbars, icecream parlours;2010 1st quarter;87.6;99.5;88.0;-3.2;2.3;-5.4
+1160;56102-56103 Snackbars, icecream parlours;2010 April;102.8;99.7;103.1;-3.1;2.1;-5.1
+1161;56102-56103 Snackbars, icecream parlours;2010 May;109.2;99.8;109.5;-0.4;1.9;-2.3
+1162;56102-56103 Snackbars, icecream parlours;2010 June;105.4;99.9;105.5;0.9;2.1;-1.2
+1163;56102-56103 Snackbars, icecream parlours;2010 2nd quarter;105.8;99.8;106.0;-0.9;2.1;-2.9
+1164;56102-56103 Snackbars, icecream parlours;2010 July;117.6;99.9;117.7;5.5;1.8;3.6
+1165;56102-56103 Snackbars, icecream parlours;2010 August;109.5;100.0;109.5;0.2;2.0;-1.7
+1166;56102-56103 Snackbars, icecream parlours;2010 September;101.7;100.2;101.5;2.5;1.9;0.6
+1167;56102-56103 Snackbars, icecream parlours;2010 3rd quarter;109.6;100.1;109.6;2.8;1.9;0.8
+1168;56102-56103 Snackbars, icecream parlours;2010 October;106.8;100.5;106.3;4.1;2.0;2.0
+1169;56102-56103 Snackbars, icecream parlours;2010 November;91.9;100.4;91.5;-1.0;1.7;-2.7
+1170;56102-56103 Snackbars, icecream parlours;2010 December;92.3;101.2;91.2;0.2;2.1;-1.9
+1171;56102-56103 Snackbars, icecream parlours;2010 4th quarter;97.0;100.7;96.3;1.2;2.0;-0.7
+1172;56102-56103 Snackbars, icecream parlours;2010;100.0;100.0;100.0;0.1;2.1;-2.0
+1173;56102-56103 Snackbars, icecream parlours;2011 January;92.0;101.4;90.7;5.1;2.1;2.9
+1174;56102-56103 Snackbars, icecream parlours;2011 February;90.1;102.1;88.3;7.2;2.7;4.4
+1175;56102-56103 Snackbars, icecream parlours;2011 March;101.3;102.7;98.7;11.2;3.1;7.9
+1176;56102-56103 Snackbars, icecream parlours;2011 1st quarter;94.5;102.1;92.5;7.9;2.6;5.1
+1177;56102-56103 Snackbars, icecream parlours;2011 April;113.4;102.8;110.3;10.3;3.1;7.0
+1178;56102-56103 Snackbars, icecream parlours;2011 May;115.8;103.1;112.4;6.1;3.3;2.7
+1179;56102-56103 Snackbars, icecream parlours;2011 June;120.1;103.2;116.4;14.0;3.3;10.4
+1180;56102-56103 Snackbars, icecream parlours;2011 2nd quarter;116.4;103.0;113.1;10.1;3.2;6.6
+1181;56102-56103 Snackbars, icecream parlours;2011 July;121.3;103.3;117.5;3.1;3.3;-0.2
+1182;56102-56103 Snackbars, icecream parlours;2011 August;117.3;103.3;113.5;7.1;3.4;3.6
+1183;56102-56103 Snackbars, icecream parlours;2011 September;110.3;103.6;106.4;8.4;3.4;4.9
+1184;56102-56103 Snackbars, icecream parlours;2011 3rd quarter;116.3;103.4;112.5;6.1;3.4;2.7
+1185;56102-56103 Snackbars, icecream parlours;2011 October;111.1;103.8;107.0;4.0;3.3;0.7
+1186;56102-56103 Snackbars, icecream parlours;2011 November;98.1;103.8;94.5;6.7;3.4;3.3
+1187;56102-56103 Snackbars, icecream parlours;2011 December;103.3;104.1;99.2;11.8;2.8;8.8
+1188;56102-56103 Snackbars, icecream parlours;2011 4th quarter;104.1;103.9;100.2;7.3;3.2;4.0
+1189;56102-56103 Snackbars, icecream parlours;2011;107.8;103.1;104.6;7.8;3.1;4.6
+1190;56102-56103 Snackbars, icecream parlours;2012 January;97.1;104.7;92.8;5.6;3.2;2.3
+1191;56102-56103 Snackbars, icecream parlours;2012 February;92.8;104.8;88.6;3.0;2.6;0.4
+1192;56102-56103 Snackbars, icecream parlours;2012 March;109.5;105.1;104.2;8.1;2.3;5.6
+1193;56102-56103 Snackbars, icecream parlours;2012 1st quarter;99.8;104.9;95.2;5.7;2.7;2.9
+1194;56102-56103 Snackbars, icecream parlours;2012 April;113.7;105.2;108.0;0.3;2.4;-2.1
+1195;56102-56103 Snackbars, icecream parlours;2012 May;120.1;105.5;113.9;3.7;2.4;1.3
+1196;56102-56103 Snackbars, icecream parlours;2012 June;118.8;105.7;112.4;-1.1;2.4;-3.4
+1197;56102-56103 Snackbars, icecream parlours;2012 2nd quarter;117.5;105.5;111.5;0.9;2.4;-1.4
+1198;56102-56103 Snackbars, icecream parlours;2012 July;120.2;105.7;113.7;-0.9;2.4;-3.2
+1199;56102-56103 Snackbars, icecream parlours;2012 August;121.9;105.8;115.3;3.9;2.3;1.5
+1200;56102-56103 Snackbars, icecream parlours;2012 September;111.7;105.8;105.6;1.3;2.1;-0.8
+1201;56102-56103 Snackbars, icecream parlours;2012 3rd quarter;118.0;105.8;111.5;1.4;2.3;-0.8
+1202;56102-56103 Snackbars, icecream parlours;2012 October;106.5;106.1;100.3;-4.1;2.3;-6.2
+1203;56102-56103 Snackbars, icecream parlours;2012 November;100.8;106.0;95.1;2.8;2.1;0.7
+1204;56102-56103 Snackbars, icecream parlours;2012 December;104.6;106.4;98.3;1.3;2.2;-0.9
+1205;56102-56103 Snackbars, icecream parlours;2012  4th quarter;104.0;106.2;97.9;-0.2;2.2;-2.3
+1206;56102-56103 Snackbars, icecream parlours;2012;109.8;105.6;104.0;1.8;2.4;-0.5
+1207;56102-56103 Snackbars, icecream parlours;2013 January;94.4;106.9;88.3;-2.8;2.1;-4.8
+1208;56102-56103 Snackbars, icecream parlours;2013 February;92.7;107.1;86.6;-0.1;2.2;-2.3
+1209;56102-56103 Snackbars, icecream parlours;2013 March;103.6;107.3;96.5;-5.4;2.1;-7.3
+1210;56102-56103 Snackbars, icecream parlours;2013 1st quarter;96.9;107.1;90.5;-2.9;2.1;-4.9
+1211;56102-56103 Snackbars, icecream parlours;2013 April;111.9;107.3;104.3;-1.6;1.9;-3.5
+1212;56102-56103 Snackbars, icecream parlours;2013 May;122.0;107.4;113.6;1.6;1.8;-0.2
+1213;56102-56103 Snackbars, icecream parlours;2013 June;121.9;107.4;113.5;2.6;1.7;0.9
+1214;56102-56103 Snackbars, icecream parlours;2013 2nd quarter;118.6;107.4;110.5;0.9;1.8;-0.9
+1215;56102-56103 Snackbars, icecream parlours;2013 July;122.2;107.5;113.6;1.6;1.7;-0.1
+1216;56102-56103 Snackbars, icecream parlours;2013 August;125.9;107.8;116.9;3.3;1.9;1.4
+1217;56102-56103 Snackbars, icecream parlours;2013 September;114.0;107.9;105.6;2.0;2.0;0.0
+1218;56102-56103 Snackbars, icecream parlours;2013 3rd quarter;120.7;107.7;112.0;2.3;1.9;0.4
+1219;56102-56103 Snackbars, icecream parlours;2013 October;111.5;108.0;103.2;4.7;1.8;2.9
+1220;56102-56103 Snackbars, icecream parlours;2013 November;103.8;107.9;96.2;2.9;1.7;1.2
+1221;56102-56103 Snackbars, icecream parlours;2013 December;105.9;108.4;97.7;1.2;1.9;-0.7
+1222;56102-56103 Snackbars, icecream parlours;2013 4th quarter;107.0;108.1;99.0;3.0;1.8;1.1
+1223;56102-56103 Snackbars, icecream parlours;2013;110.8;107.6;103.0;0.9;1.9;-1.0
+1224;562 Canteens and catering;2005 January;;;;;;
+1225;562 Canteens and catering;2005 February;;;;;;
+1226;562 Canteens and catering;2005 March;;;;;;
+1227;562 Canteens and catering;2005 1st quarter;85.3;;;;;
+1228;562 Canteens and catering;2005 April;;;;;;
+1229;562 Canteens and catering;2005 May;;;;;;
+1230;562 Canteens and catering;2005 June;;;;;;
+1231;562 Canteens and catering;2005 2nd quarter;90.1;;;;;
+1232;562 Canteens and catering;2005 July;;;;;;
+1233;562 Canteens and catering;2005 August;;;;;;
+1234;562 Canteens and catering;2005 September;;;;;;
+1235;562 Canteens and catering;2005 3rd quarter;90.6;;;;;
+1236;562 Canteens and catering;2005 October;;;;;;
+1237;562 Canteens and catering;2005 November;;;;;;
+1238;562 Canteens and catering;2005 December;;;;;;
+1239;562 Canteens and catering;2005 4th quarter;98.5;;;;;
+1240;562 Canteens and catering;2005;91.1;;;;;
+1241;562 Canteens and catering;2006 January;;;;;;
+1242;562 Canteens and catering;2006 February;;;;;;
+1243;562 Canteens and catering;2006 March;;;;;;
+1244;562 Canteens and catering;2006 1st quarter;88.3;;;3.5;;
+1245;562 Canteens and catering;2006 April;;;;;;
+1246;562 Canteens and catering;2006 May;;;;;;
+1247;562 Canteens and catering;2006 June;;;;;;
+1248;562 Canteens and catering;2006 2nd quarter;93.3;;;3.6;;
+1249;562 Canteens and catering;2006 July;;;;;;
+1250;562 Canteens and catering;2006 August;;;;;;
+1251;562 Canteens and catering;2006 September;;;;;;
+1252;562 Canteens and catering;2006 3rd quarter;95.4;;;5.3;;
+1253;562 Canteens and catering;2006 October;;;;;;
+1254;562 Canteens and catering;2006 November;;;;;;
+1255;562 Canteens and catering;2006 December;;;;;;
+1256;562 Canteens and catering;2006 4th quarter;105.1;;;6.7;;
+1257;562 Canteens and catering;2006;95.5;;;4.8;;
+1258;562 Canteens and catering;2007 January;;;;;;
+1259;562 Canteens and catering;2007 February;;;;;;
+1260;562 Canteens and catering;2007 March;;;;;;
+1261;562 Canteens and catering;2007 1st quarter;93.3;;;5.7;;
+1262;562 Canteens and catering;2007 April;;;;;;
+1263;562 Canteens and catering;2007 May;;;;;;
+1264;562 Canteens and catering;2007 June;;;;;;
+1265;562 Canteens and catering;2007 2nd quarter;105.1;;;12.7;;
+1266;562 Canteens and catering;2007 July;;;;;;
+1267;562 Canteens and catering;2007 August;;;;;;
+1268;562 Canteens and catering;2007 September;;;;;;
+1269;562 Canteens and catering;2007 3rd quarter;103.6;;;8.7;;
+1270;562 Canteens and catering;2007 October;;;;;;
+1271;562 Canteens and catering;2007 November;;;;;;
+1272;562 Canteens and catering;2007 December;;;;;;
+1273;562 Canteens and catering;2007 4th quarter;116.6;;;11.0;;
+1274;562 Canteens and catering;2007;104.7;;;9.6;;
+1275;562 Canteens and catering;2008 January;;;;;;
+1276;562 Canteens and catering;2008 February;;;;;;
+1277;562 Canteens and catering;2008 March;;;;;;
+1278;562 Canteens and catering;2008 1st quarter;101.5;;;8.7;;
+1279;562 Canteens and catering;2008 April;;;;;;
+1280;562 Canteens and catering;2008 May;;;;;;
+1281;562 Canteens and catering;2008 June;;;;;;
+1282;562 Canteens and catering;2008 2nd quarter;107.3;;;2.1;;
+1283;562 Canteens and catering;2008 July;;;;;;
+1284;562 Canteens and catering;2008 August;;;;;;
+1285;562 Canteens and catering;2008 September;;;;;;
+1286;562 Canteens and catering;2008 3rd quarter;101.4;;;-2.2;;
+1287;562 Canteens and catering;2008 October;;;;;;
+1288;562 Canteens and catering;2008 November;;;;;;
+1289;562 Canteens and catering;2008 December;;;;;;
+1290;562 Canteens and catering;2008 4th quarter;111.0;;;-4.8;;
+1291;562 Canteens and catering;2008;105.3;;;0.6;;
+1292;562 Canteens and catering;2009 January;;;;;;
+1293;562 Canteens and catering;2009 February;;;;;;
+1294;562 Canteens and catering;2009 March;;;;;;
+1295;562 Canteens and catering;2009 1st quarter;96.0;;;-5.4;;
+1296;562 Canteens and catering;2009 April;;;;;;
+1297;562 Canteens and catering;2009 May;;;;;;
+1298;562 Canteens and catering;2009 June;;;;;;
+1299;562 Canteens and catering;2009 2nd quarter;100.4;;;-6.4;;
+1300;562 Canteens and catering;2009 July;;;;;;
+1301;562 Canteens and catering;2009 August;;;;;;
+1302;562 Canteens and catering;2009 September;;;;;;
+1303;562 Canteens and catering;2009 3rd quarter;90.6;;;-10.6;;
+1304;562 Canteens and catering;2009 October;;;;;;
+1305;562 Canteens and catering;2009 November;;;;;;
+1306;562 Canteens and catering;2009 December;;;;;;
+1307;562 Canteens and catering;2009 4th quarter;104.0;;;-6.3;;
+1308;562 Canteens and catering;2009;97.7;;;-7.2;;
+1309;562 Canteens and catering;2010 January;;;;;;
+1310;562 Canteens and catering;2010 February;;;;;;
+1311;562 Canteens and catering;2010 March;;;;;;
+1312;562 Canteens and catering;2010 1st quarter;96.0;;;0.0;;
+1313;562 Canteens and catering;2010 April;;;;;;
+1314;562 Canteens and catering;2010 May;;;;;;
+1315;562 Canteens and catering;2010 June;;;;;;
+1316;562 Canteens and catering;2010 2nd quarter;99.0;;;-1.3;;
+1317;562 Canteens and catering;2010 July;;;;;;
+1318;562 Canteens and catering;2010 August;;;;;;
+1319;562 Canteens and catering;2010 September;;;;;;
+1320;562 Canteens and catering;2010 3rd quarter;98.5;;;8.8;;
+1321;562 Canteens and catering;2010 October;;;;;;
+1322;562 Canteens and catering;2010 November;;;;;;
+1323;562 Canteens and catering;2010 December;;;;;;
+1324;562 Canteens and catering;2010 4th quarter;106.5;;;2.3;;
+1325;562 Canteens and catering;2010;100.0;;;2.3;;
+1326;562 Canteens and catering;2011 January;;;;;;
+1327;562 Canteens and catering;2011 February;;;;;;
+1328;562 Canteens and catering;2011 March;;;;;;
+1329;562 Canteens and catering;2011 1st quarter;96.2;;;0.2;;
+1330;562 Canteens and catering;2011 April;;;;;;
+1331;562 Canteens and catering;2011 May;;;;;;
+1332;562 Canteens and catering;2011 June;;;;;;
+1333;562 Canteens and catering;2011 2nd quarter;104.6;;;5.6;;
+1334;562 Canteens and catering;2011 July;;;;;;
+1335;562 Canteens and catering;2011 August;;;;;;
+1336;562 Canteens and catering;2011 September;;;;;;
+1337;562 Canteens and catering;2011 3rd quarter;99.0;;;0.5;;
+1338;562 Canteens and catering;2011 October;;;;;;
+1339;562 Canteens and catering;2011 November;;;;;;
+1340;562 Canteens and catering;2011 December;;;;;;
+1341;562 Canteens and catering;2011 4th quarter;108.9;;;2.3;;
+1342;562 Canteens and catering;2011;102.2;;;2.2;;
+1343;562 Canteens and catering;2012 January;;;;;;
+1344;562 Canteens and catering;2012 February;;;;;;
+1345;562 Canteens and catering;2012 March;;;;;;
+1346;562 Canteens and catering;2012 1st quarter;95.6;;;-0.6;;
+1347;562 Canteens and catering;2012 April;;;;;;
+1348;562 Canteens and catering;2012 May;;;;;;
+1349;562 Canteens and catering;2012 June;;;;;;
+1350;562 Canteens and catering;2012 2nd quarter;107.8;;;3.1;;
+1351;562 Canteens and catering;2012 July;;;;;;
+1352;562 Canteens and catering;2012 August;;;;;;
+1353;562 Canteens and catering;2012 September;;;;;;
+1354;562 Canteens and catering;2012 3rd quarter;99.5;;;0.5;;
+1355;562 Canteens and catering;2012 October;;;;;;
+1356;562 Canteens and catering;2012 November;;;;;;
+1357;562 Canteens and catering;2012 December;;;;;;
+1358;562 Canteens and catering;2012  4th quarter;108.4;;;-0.5;;
+1359;562 Canteens and catering;2012;102.9;;;0.7;;
+1360;562 Canteens and catering;2013 January;;;;;;
+1361;562 Canteens and catering;2013 February;;;;;;
+1362;562 Canteens and catering;2013 March;;;;;;
+1363;562 Canteens and catering;2013 1st quarter;93.0;;;-2.8;;
+1364;562 Canteens and catering;2013 April;;;;;;
+1365;562 Canteens and catering;2013 May;;;;;;
+1366;562 Canteens and catering;2013 June;;;;;;
+1367;562 Canteens and catering;2013 2nd quarter;107.4;;;-0.4;;
+1368;562 Canteens and catering;2013 July;;;;;;
+1369;562 Canteens and catering;2013 August;;;;;;
+1370;562 Canteens and catering;2013 September;;;;;;
+1371;562 Canteens and catering;2013 3rd quarter;100.1;;;0.6;;
+1372;562 Canteens and catering;2013 October;;;;;;
+1373;562 Canteens and catering;2013 November;;;;;;
+1374;562 Canteens and catering;2013 December;;;;;;
+1375;562 Canteens and catering;2013 4th quarter;109.6;;;1.1;;
+1376;562 Canteens and catering;2013;102.5;;;-0.3;;
+1377;563 Bars;2005 January;93.3;83.5;111.8;;;
+1378;563 Bars;2005 February;94.7;83.6;113.2;;;
+1379;563 Bars;2005 March;96.7;83.9;115.3;;;
+1380;563 Bars;2005 1st quarter;94.9;83.7;113.4;;;
+1381;563 Bars;2005 April;102.3;83.9;122.0;;;
+1382;563 Bars;2005 May;108.0;84.2;128.2;;;
+1383;563 Bars;2005 June;113.8;84.4;134.8;;;
+1384;563 Bars;2005 2nd quarter;108.0;84.2;128.3;;;
+1385;563 Bars;2005 July;111.7;84.6;132.1;;;
+1386;563 Bars;2005 August;107.9;84.8;127.3;;;
+1387;563 Bars;2005 September;106.6;84.8;125.7;;;
+1388;563 Bars;2005 3rd quarter;108.7;84.7;128.3;;;
+1389;563 Bars;2005 October;105.2;84.9;123.9;;;
+1390;563 Bars;2005 November;99.0;85.0;116.5;;;
+1391;563 Bars;2005 December;108.9;85.1;128.0;;;
+1392;563 Bars;2005 4th quarter;104.4;85.0;122.8;;;
+1393;563 Bars;2005;104.0;84.4;123.2;;;
+1394;563 Bars;2006 January;95.8;85.3;112.3;2.6;2.2;0.4
+1395;563 Bars;2006 February;99.8;85.5;116.6;5.4;2.3;3.0
+1396;563 Bars;2006 March;101.6;86.1;118.1;5.0;2.6;2.4
+1397;563 Bars;2006 1st quarter;99.0;85.6;115.6;4.4;2.4;1.9
+1398;563 Bars;2006 April;109.3;86.2;126.8;6.9;2.8;4.0
+1399;563 Bars;2006 May;112.1;86.3;129.9;3.9;2.5;1.3
+1400;563 Bars;2006 June;113.6;86.5;131.3;-0.2;2.5;-2.6
+1401;563 Bars;2006 2nd quarter;111.7;86.3;129.3;3.4;2.6;0.8
+1402;563 Bars;2006 July;114.9;86.5;132.8;2.9;2.3;0.5
+1403;563 Bars;2006 August;111.6;86.6;128.9;3.4;2.1;1.3
+1404;563 Bars;2006 September;111.9;86.8;128.9;5.0;2.3;2.6
+1405;563 Bars;2006 3rd quarter;112.8;86.6;130.2;3.7;2.2;1.5
+1406;563 Bars;2006 October;106.0;87.3;121.4;0.7;2.8;-2.1
+1407;563 Bars;2006 November;102.0;87.7;116.4;3.1;3.2;-0.1
+1408;563 Bars;2006 December;116.9;87.8;133.2;7.4;3.2;4.1
+1409;563 Bars;2006 4th quarter;108.3;87.6;123.7;3.8;3.1;0.7
+1410;563 Bars;2006;108.0;86.5;124.7;3.8;2.6;1.2
+1411;563 Bars;2007 January;98.4;88.1;111.6;2.7;3.3;-0.6
+1412;563 Bars;2007 February;103.2;88.8;116.1;3.4;3.9;-0.4
+1413;563 Bars;2007 March;106.0;89.3;118.7;4.3;3.7;0.5
+1414;563 Bars;2007 1st quarter;102.5;88.7;115.5;3.5;3.6;-0.2
+1415;563 Bars;2007 April;114.3;89.2;128.1;4.6;3.5;1.1
+1416;563 Bars;2007 May;115.0;89.3;128.8;2.6;3.4;-0.9
+1417;563 Bars;2007 June;119.8;89.6;133.8;5.5;3.5;1.9
+1418;563 Bars;2007 2nd quarter;116.4;89.4;130.2;4.2;3.5;0.7
+1419;563 Bars;2007 July;114.0;89.6;127.2;-0.8;3.5;-4.2
+1420;563 Bars;2007 August;109.4;89.9;121.7;-1.9;3.9;-5.6
+1421;563 Bars;2007 September;110.9;90.2;123.1;-0.9;3.9;-4.6
+1422;563 Bars;2007 3rd quarter;111.4;89.9;124.0;-1.2;3.8;-4.8
+1423;563 Bars;2007 October;106.8;90.2;118.4;0.8;3.4;-2.5
+1424;563 Bars;2007 November;104.1;90.4;115.1;2.0;3.2;-1.1
+1425;563 Bars;2007 December;118.8;90.5;131.4;1.6;3.1;-1.4
+1426;563 Bars;2007 4th quarter;109.9;90.4;121.6;1.5;3.2;-1.7
+1427;563 Bars;2007;110.1;89.6;122.8;1.9;3.5;-1.5
+1428;563 Bars;2008 January;99.7;91.5;109.0;1.3;3.8;-2.4
+1429;563 Bars;2008 February;107.5;91.5;117.5;4.2;3.0;1.2
+1430;563 Bars;2008 March;107.5;91.8;117.0;1.4;2.9;-1.4
+1431;563 Bars;2008 1st quarter;104.9;91.6;114.5;2.3;3.2;-0.9
+1432;563 Bars;2008 April;114.5;92.2;124.2;0.2;3.4;-3.1
+1433;563 Bars;2008 May;118.7;92.4;128.4;3.2;3.5;-0.3
+1434;563 Bars;2008 June;117.8;92.7;127.1;-1.7;3.6;-5.0
+1435;563 Bars;2008 2nd quarter;117.0;92.5;126.5;0.5;3.5;-2.8
+1436;563 Bars;2008 July;111.7;93.1;120.0;-2.0;4.0;-5.7
+1437;563 Bars;2008 August;112.3;93.1;120.5;2.6;3.6;-0.9
+1438;563 Bars;2008 September;104.9;93.5;112.2;-5.4;3.8;-8.9
+1439;563 Bars;2008 3rd quarter;109.6;93.3;117.6;-1.6;3.8;-5.2
+1440;563 Bars;2008 October;102.4;93.9;109.0;-4.2;4.1;-7.9
+1441;563 Bars;2008 November;100.3;94.3;106.4;-3.6;4.2;-7.5
+1442;563 Bars;2008 December;106.6;94.7;112.6;-10.3;4.6;-14.3
+1443;563 Bars;2008 4th quarter;103.1;94.3;109.3;-6.2;4.3;-10.1
+1444;563 Bars;2008;108.7;92.9;117.0;-1.3;3.7;-4.8
+1445;563 Bars;2009 January;94.2;95.3;98.8;-5.5;4.2;-9.3
+1446;563 Bars;2009 February;96.9;95.9;101.0;-9.9;4.8;-14.0
+1447;563 Bars;2009 March;94.7;96.2;98.5;-11.8;4.7;-15.8
+1448;563 Bars;2009 1st quarter;95.3;95.8;99.4;-9.1;4.6;-13.1
+1449;563 Bars;2009 April;104.9;96.7;108.4;-8.5;4.9;-12.7
+1450;563 Bars;2009 May;108.3;96.7;112.0;-8.7;4.6;-12.8
+1451;563 Bars;2009 June;104.7;96.9;108.1;-11.1;4.5;-14.9
+1452;563 Bars;2009 2nd quarter;106.0;96.8;109.5;-9.4;4.7;-13.5
+1453;563 Bars;2009 July;108.3;97.3;111.3;-3.0;4.5;-7.2
+1454;563 Bars;2009 August;105.2;97.4;107.9;-6.3;4.6;-10.4
+1455;563 Bars;2009 September;99.2;97.9;101.3;-5.5;4.6;-9.6
+1456;563 Bars;2009 3rd quarter;104.2;97.5;106.9;-4.9;4.6;-9.1
+1457;563 Bars;2009 October;99.3;98.4;100.9;-3.0;4.7;-7.4
+1458;563 Bars;2009 November;92.3;98.4;93.8;-8.0;4.4;-11.9
+1459;563 Bars;2009 December;98.6;98.8;99.8;-7.5;4.3;-11.3
+1460;563 Bars;2009 4th quarter;96.7;98.5;98.2;-6.2;4.5;-10.2
+1461;563 Bars;2009;100.5;97.2;103.5;-7.5;4.6;-11.5
+1462;563 Bars;2010 January;88.4;98.9;89.4;-6.1;3.8;-9.5
+1463;563 Bars;2010 February;89.5;98.9;90.5;-7.6;3.2;-10.4
+1464;563 Bars;2010 March;90.5;99.3;91.1;-4.5;3.3;-7.5
+1465;563 Bars;2010 1st quarter;89.5;99.1;90.3;-6.1;3.4;-9.2
+1466;563 Bars;2010 April;103.5;99.4;104.1;-1.3;2.8;-4.0
+1467;563 Bars;2010 May;105.1;99.7;105.4;-3.0;3.0;-5.9
+1468;563 Bars;2010 June;107.1;99.8;107.3;2.2;3.0;-0.8
+1469;563 Bars;2010 2nd quarter;105.2;99.6;105.6;-0.7;2.9;-3.6
+1470;563 Bars;2010 July;111.6;99.7;111.9;3.0;2.5;0.5
+1471;563 Bars;2010 August;104.6;99.9;104.7;-0.5;2.5;-3.0
+1472;563 Bars;2010 September;103.3;100.4;102.8;4.2;2.6;1.5
+1473;563 Bars;2010 3rd quarter;106.5;100.0;106.5;2.2;2.6;-0.4
+1474;563 Bars;2010 October;104.6;101.1;103.5;5.4;2.8;2.5
+1475;563 Bars;2010 November;94.1;101.3;92.9;1.9;2.9;-1.0
+1476;563 Bars;2010 December;97.7;101.4;96.4;-0.9;2.7;-3.5
+1477;563 Bars;2010 4th quarter;98.8;101.3;97.6;2.1;2.8;-0.6
+1478;563 Bars;2010;100.0;100.0;100.0;-0.5;2.9;-3.4
+1479;563 Bars;2011 January;92.4;101.8;90.7;4.4;2.9;1.5
+1480;563 Bars;2011 February;89.5;102.2;87.6;0.0;3.3;-3.2
+1481;563 Bars;2011 March;100.1;102.4;97.7;10.6;3.1;7.3
+1482;563 Bars;2011 1st quarter;94.0;102.1;92.0;5.0;3.1;1.9
+1483;563 Bars;2011 April;109.6;102.5;106.9;5.8;3.1;2.6
+1484;563 Bars;2011 May;105.5;102.8;102.6;0.4;3.1;-2.6
+1485;563 Bars;2011 June;108.9;103.0;105.7;1.7;3.2;-1.4
+1486;563 Bars;2011 2nd quarter;108.0;102.8;105.1;2.6;3.1;-0.5
+1487;563 Bars;2011 July;108.8;103.2;105.4;-2.5;3.5;-5.8
+1488;563 Bars;2011 August;103.9;103.2;100.7;-0.7;3.3;-3.9
+1489;563 Bars;2011 September;104.3;103.6;100.7;1.0;3.1;-2.1
+1490;563 Bars;2011 3rd quarter;105.6;103.3;102.3;-0.8;3.3;-4.0
+1491;563 Bars;2011 October;102.1;103.7;98.4;-2.4;2.6;-4.9
+1492;563 Bars;2011 November;96.6;103.7;93.1;2.7;2.4;0.3
+1493;563 Bars;2011 December;101.4;103.8;97.7;3.8;2.4;1.4
+1494;563 Bars;2011 4th quarter;100.0;103.7;96.4;1.2;2.4;-1.2
+1495;563 Bars;2011;101.9;103.0;98.9;1.9;3.0;-1.1
+1496;563 Bars;2012 January;90.4;104.2;86.7;-2.1;2.4;-4.4
+1497;563 Bars;2012 February;91.8;104.5;87.9;2.6;2.2;0.4
+1498;563 Bars;2012 March;100.4;104.5;96.0;0.3;2.1;-1.7
+1499;563 Bars;2012 1st quarter;94.2;104.4;90.2;0.2;2.2;-1.9
+1500;563 Bars;2012 April;105.3;104.8;100.5;-3.8;2.3;-6.0
+1501;563 Bars;2012 May;105.1;105.2;100.0;-0.3;2.3;-2.6
+1502;563 Bars;2012 June;107.6;105.3;102.2;-1.1;2.3;-3.3
+1503;563 Bars;2012 2nd quarter;106.0;105.1;100.9;-1.8;2.3;-4.0
+1504;563 Bars;2012 July;103.7;105.5;98.3;-4.7;2.3;-6.8
+1505;563 Bars;2012 August;102.7;105.4;97.5;-1.1;2.2;-3.2
+1506;563 Bars;2012 September;99.2;105.7;93.9;-4.9;2.0;-6.8
+1507;563 Bars;2012 3rd quarter;101.9;105.5;96.5;-3.6;2.2;-5.6
+1508;563 Bars;2012 October;95.6;106.8;89.6;-6.3;2.9;-9.0
+1509;563 Bars;2012 November;96.3;106.8;90.2;-0.3;3.0;-3.2
+1510;563 Bars;2012 December;104.1;107.0;97.3;2.7;3.1;-0.4
+1511;563 Bars;2012  4th quarter;98.7;106.9;92.4;-1.3;3.0;-4.2
+1512;563 Bars;2012;100.2;105.5;95.0;-1.7;2.4;-4.0
+1513;563 Bars;2013 January;86.0;108.1;79.6;-4.8;3.7;-8.2
+1514;563 Bars;2013 February;83.4;108.3;77.0;-9.2;3.7;-12.4
+1515;563 Bars;2013 March;93.2;108.6;85.8;-7.2;3.9;-10.7
+1516;563 Bars;2013 1st quarter;87.5;108.3;80.8;-7.1;3.8;-10.4
+1517;563 Bars;2013 April;97.9;108.8;90.0;-7.0;3.8;-10.4
+1518;563 Bars;2013 May;99.9;109.0;91.7;-5.0;3.6;-8.3
+1519;563 Bars;2013 June;100.3;109.2;91.8;-6.8;3.7;-10.2
+1520;563 Bars;2013 2nd quarter;99.4;109.0;91.2;-6.3;3.7;-9.6
+1521;563 Bars;2013 July;98.5;109.2;90.2;-5.0;3.5;-8.2
+1522;563 Bars;2013 August;99.6;109.4;91.0;-3.1;3.8;-6.6
+1523;563 Bars;2013 September;92.9;109.9;84.5;-6.4;4.0;-10.0
+1524;563 Bars;2013 3rd quarter;97.0;109.5;88.6;-4.8;3.8;-8.3
+1525;563 Bars;2013 October;91.9;110.0;83.5;-3.9;3.0;-6.8
+1526;563 Bars;2013 November;91.4;110.3;82.9;-5.1;3.3;-8.1
+1527;563 Bars;2013 December;97.9;110.5;88.6;-6.0;3.3;-8.9
+1528;563 Bars;2013 4th quarter;93.7;110.3;85.0;-5.0;3.2;-8.0
+1529;563 Bars;2013;94.4;109.3;86.4;-5.8;3.6;-9.1

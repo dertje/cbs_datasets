@@ -1,0 +1,1501 @@
+﻿ID;HealthAndLifestyle;PersonalCharacteristics;Periods;NotHappy_1;Happy_2;NotSatisfiedWithLife_3;SatisfiedWithLife_4
+0;999;Total population;2003;13.0;87.0;13.0;87.0
+1;999;Total population;2004;13.0;87.0;13.0;87.0
+2;999;Total population;2005;13.0;87.0;14.0;86.0
+3;999;Total population;2006;12.0;88.0;13.0;87.0
+4;999;Total population;2007;12.0;88.0;13.0;87.0
+5;999;Total population;2008;12.0;88.0;12.0;88.0
+6;999;Total population;2009;11.0;89.0;13.0;87.0
+7;999;Total population;2010 old method;13.0;87.0;14.0;86.0
+8;999;Total population;2010 new method;16.0;84.0;15.0;85.0
+9;999;Total population;2012;17.0;83.0;17.0;83.0
+10;999;Gender: male;2003;12.0;88.0;13.0;87.0
+11;999;Gender: male;2004;11.0;89.0;13.0;87.0
+12;999;Gender: male;2005;13.0;87.0;14.0;86.0
+13;999;Gender: male;2006;10.0;90.0;13.0;87.0
+14;999;Gender: male;2007;11.0;89.0;12.0;88.0
+15;999;Gender: male;2008;12.0;88.0;11.0;89.0
+16;999;Gender: male;2009;10.0;90.0;12.0;88.0
+17;999;Gender: male;2010 old method;11.0;89.0;13.0;87.0
+18;999;Gender: male;2010 new method;15.0;85.0;15.0;85.0
+19;999;Gender: male;2012;18.0;82.0;17.0;83.0
+20;999;Gender: female;2003;14.0;86.0;14.0;86.0
+21;999;Gender: female;2004;14.0;86.0;14.0;86.0
+22;999;Gender: female;2005;14.0;86.0;14.0;86.0
+23;999;Gender: female;2006;13.0;87.0;14.0;86.0
+24;999;Gender: female;2007;13.0;87.0;13.0;87.0
+25;999;Gender: female;2008;12.0;88.0;12.0;88.0
+26;999;Gender: female;2009;13.0;87.0;13.0;87.0
+27;999;Gender: female;2010 old method;14.0;86.0;15.0;85.0
+28;999;Gender: female;2010 new method;18.0;82.0;16.0;84.0
+29;999;Gender: female;2012;16.0;84.0;17.0;83.0
+30;999;Age: 18 to 35 years;2003;9.0;91.0;11.0;89.0
+31;999;Age: 18 to 35 years;2004;10.0;90.0;12.0;88.0
+32;999;Age: 18 to 35 years;2005;11.0;89.0;13.0;87.0
+33;999;Age: 18 to 35 years;2006;8.0;92.0;12.0;88.0
+34;999;Age: 18 to 35 years;2007;10.0;90.0;10.0;90.0
+35;999;Age: 18 to 35 years;2008;7.0;93.0;9.0;91.0
+36;999;Age: 18 to 35 years;2009;9.0;91.0;11.0;89.0
+37;999;Age: 18 to 35 years;2010 old method;8.0;92.0;11.0;89.0
+38;999;Age: 18 to 35 years;2010 new method;13.0;87.0;14.0;86.0
+39;999;Age: 18 to 35 years;2012;12.0;88.0;15.0;85.0
+40;999;Age: 35 to 50 years;2003;12.0;88.0;14.0;86.0
+41;999;Age: 35 to 50 years;2004;12.0;88.0;14.0;86.0
+42;999;Age: 35 to 50 years;2005;12.0;88.0;14.0;86.0
+43;999;Age: 35 to 50 years;2006;12.0;88.0;14.0;86.0
+44;999;Age: 35 to 50 years;2007;11.0;89.0;13.0;87.0
+45;999;Age: 35 to 50 years;2008;13.0;87.0;14.0;86.0
+46;999;Age: 35 to 50 years;2009;11.0;89.0;14.0;86.0
+47;999;Age: 35 to 50 years;2010 old method;12.0;88.0;15.0;85.0
+48;999;Age: 35 to 50 years;2010 new method;16.0;84.0;16.0;84.0
+49;999;Age: 35 to 50 years;2012;16.0;84.0;17.0;83.0
+50;999;Age: 50 to 65 years;2003;14.0;86.0;13.0;87.0
+51;999;Age: 50 to 65 years;2004;14.0;86.0;14.0;86.0
+52;999;Age: 50 to 65 years;2005;15.0;85.0;16.0;84.0
+53;999;Age: 50 to 65 years;2006;13.0;87.0;15.0;85.0
+54;999;Age: 50 to 65 years;2007;14.0;86.0;14.0;86.0
+55;999;Age: 50 to 65 years;2008;13.0;87.0;12.0;88.0
+56;999;Age: 50 to 65 years;2009;11.0;89.0;13.0;87.0
+57;999;Age: 50 to 65 years;2010 old method;14.0;86.0;15.0;85.0
+58;999;Age: 50 to 65 years;2010 new method;17.0;83.0;16.0;84.0
+59;999;Age: 50 to 65 years;2012;22.0;78.0;21.0;79.0
+60;999;Age: 65 years or older;2003;18.0;82.0;15.0;85.0
+61;999;Age: 65 years or older;2004;17.0;83.0;13.0;87.0
+62;999;Age: 65 years or older;2005;17.0;83.0;13.0;87.0
+63;999;Age: 65 years or older;2006;15.0;85.0;12.0;88.0
+64;999;Age: 65 years or older;2007;16.0;84.0;14.0;86.0
+65;999;Age: 65 years or older;2008;15.0;85.0;12.0;88.0
+66;999;Age: 65 years or older;2009;15.0;85.0;13.0;87.0
+67;999;Age: 65 years or older;2010 old method;18.0;82.0;14.0;86.0
+68;999;Age: 65 years or older;2010 new method;20.0;80.0;16.0;84.0
+69;999;Age: 65 years or older;2012;18.0;82.0;15.0;85.0
+70;999;Origin: Dutch background;2003;11.0;89.0;12.0;88.0
+71;999;Origin: Dutch background;2004;11.0;89.0;12.0;88.0
+72;999;Origin: Dutch background;2005;11.0;89.0;12.0;88.0
+73;999;Origin: Dutch background;2006;10.0;90.0;12.0;88.0
+74;999;Origin: Dutch background;2007;11.0;89.0;12.0;88.0
+75;999;Origin: Dutch background;2008;10.0;90.0;11.0;89.0
+76;999;Origin: Dutch background;2009;10.0;90.0;11.0;89.0
+77;999;Origin: Dutch background;2010 old method;11.0;89.0;12.0;88.0
+78;999;Origin: Dutch background;2010 new method;15.0;85.0;15.0;85.0
+79;999;Origin: Dutch background;2012;16.0;84.0;16.0;84.0
+80;999;Origin: Western background;2003;17.0;83.0;16.0;84.0
+81;999;Origin: Western background;2004;14.0;86.0;16.0;84.0
+82;999;Origin: Western background;2005;17.0;83.0;15.0;85.0
+83;999;Origin: Western background;2006;13.0;87.0;16.0;84.0
+84;999;Origin: Western background;2007;15.0;85.0;16.0;84.0
+85;999;Origin: Western background;2008;15.0;85.0;15.0;85.0
+86;999;Origin: Western background;2009;12.0;88.0;17.0;83.0
+87;999;Origin: Western background;2010 old method;15.0;85.0;18.0;82.0
+88;999;Origin: Western background;2010 new method;19.0;81.0;18.0;82.0
+89;999;Origin: Western background;2012;19.0;81.0;21.0;79.0
+90;999;Origin: Non-western background;2003;28.0;72.0;25.0;75.0
+91;999;Origin: Non-western background;2004;28.0;72.0;27.0;73.0
+92;999;Origin: Non-western background;2005;28.0;72.0;27.0;73.0
+93;999;Origin: Non-western background;2006;22.0;78.0;28.0;72.0
+94;999;Origin: Non-western background;2007;25.0;75.0;19.0;81.0
+95;999;Origin: Non-western background;2008;23.0;77.0;19.0;81.0
+96;999;Origin: Non-western background;2009;22.0;78.0;24.0;76.0
+97;999;Origin: Non-western background;2010 old method;23.0;77.0;22.0;78.0
+98;999;Origin: Non-western background;2010 new method;26.0;74.0;20.0;80.0
+99;999;Origin: Non-western background;2012;23.0;77.0;25.0;75.0
+100;123;Total population;2003;5.0;95.0;5.0;95.0
+101;123;Total population;2004;4.0;96.0;5.0;95.0
+102;123;Total population;2005;5.0;95.0;6.0;94.0
+103;123;Total population;2006;3.0;97.0;4.0;96.0
+104;123;Total population;2007;5.0;95.0;5.0;95.0
+105;123;Total population;2008;4.0;96.0;5.0;95.0
+106;123;Total population;2009;4.0;96.0;6.0;94.0
+107;123;Total population;2010 old method;4.0;96.0;6.0;94.0
+108;123;Total population;2010 new method;8.0;92.0;6.0;94.0
+109;123;Total population;2012;5.0;95.0;7.0;93.0
+110;123;Gender: male;2003;5.0;95.0;5.0;95.0
+111;123;Gender: male;2004;4.0;96.0;6.0;94.0
+112;123;Gender: male;2005;6.0;94.0;8.0;92.0
+113;123;Gender: male;2006;3.0;97.0;4.0;96.0
+114;123;Gender: male;2007;6.0;94.0;6.0;94.0
+115;123;Gender: male;2008;5.0;95.0;6.0;94.0
+116;123;Gender: male;2009;4.0;96.0;6.0;94.0
+117;123;Gender: male;2010 old method;4.0;96.0;5.0;95.0
+118;123;Gender: male;2010 new method;6.0;94.0;6.0;94.0
+119;123;Gender: male;2012;6.0;94.0;7.0;93.0
+120;123;Gender: female;2003;4.0;96.0;5.0;95.0
+121;123;Gender: female;2004;4.0;96.0;5.0;95.0
+122;123;Gender: female;2005;4.0;96.0;5.0;95.0
+123;123;Gender: female;2006;2.0;98.0;3.0;97.0
+124;123;Gender: female;2007;4.0;96.0;4.0;96.0
+125;123;Gender: female;2008;3.0;97.0;4.0;96.0
+126;123;Gender: female;2009;4.0;96.0;5.0;95.0
+127;123;Gender: female;2010 old method;5.0;95.0;7.0;93.0
+128;123;Gender: female;2010 new method;9.0;91.0;6.0;94.0
+129;123;Gender: female;2012;4.0;96.0;6.0;94.0
+130;123;Age: 18 to 35 years;2003;4.0;96.0;5.0;95.0
+131;123;Age: 18 to 35 years;2004;4.0;96.0;6.0;94.0
+132;123;Age: 18 to 35 years;2005;5.0;95.0;8.0;92.0
+133;123;Age: 18 to 35 years;2006;2.0;98.0;6.0;94.0
+134;123;Age: 18 to 35 years;2007;4.0;96.0;4.0;96.0
+135;123;Age: 18 to 35 years;2008;2.0;98.0;5.0;95.0
+136;123;Age: 18 to 35 years;2009;3.0;97.0;4.0;96.0
+137;123;Age: 18 to 35 years;2010 old method;3.0;97.0;5.0;95.0
+138;123;Age: 18 to 35 years;2010 new method;7.0;93.0;5.0;95.0
+139;123;Age: 18 to 35 years;2012;5.0;95.0;7.0;93.0
+140;123;Age: 35 to 50 years;2003;4.0;96.0;4.0;96.0
+141;123;Age: 35 to 50 years;2004;3.0;97.0;5.0;95.0
+142;123;Age: 35 to 50 years;2005;5.0;95.0;5.0;95.0
+143;123;Age: 35 to 50 years;2006;3.0;97.0;3.0;97.0
+144;123;Age: 35 to 50 years;2007;6.0;94.0;5.0;95.0
+145;123;Age: 35 to 50 years;2008;5.0;95.0;4.0;96.0
+146;123;Age: 35 to 50 years;2009;4.0;96.0;6.0;94.0
+147;123;Age: 35 to 50 years;2010 old method;4.0;96.0;9.0;91.0
+148;123;Age: 35 to 50 years;2010 new method;7.0;93.0;6.0;94.0
+149;123;Age: 35 to 50 years;2012;6.0;94.0;6.0;94.0
+150;123;Age: 50 to 65 years;2003;6.0;94.0;5.0;95.0
+151;123;Age: 50 to 65 years;2004;4.0;96.0;6.0;94.0
+152;123;Age: 50 to 65 years;2005;5.0;95.0;7.0;93.0
+153;123;Age: 50 to 65 years;2006;2.0;98.0;3.0;97.0
+154;123;Age: 50 to 65 years;2007;5.0;95.0;6.0;94.0
+155;123;Age: 50 to 65 years;2008;4.0;96.0;5.0;95.0
+156;123;Age: 50 to 65 years;2009;4.0;96.0;7.0;93.0
+157;123;Age: 50 to 65 years;2010 old method;8.0;92.0;6.0;94.0
+158;123;Age: 50 to 65 years;2010 new method;8.0;92.0;7.0;93.0
+159;123;Age: 50 to 65 years;2012;;;;
+160;123;Age: 65 years or older;2003;6.0;94.0;5.0;95.0
+161;123;Age: 65 years or older;2004;4.0;96.0;5.0;95.0
+162;123;Age: 65 years or older;2005;5.0;95.0;4.0;96.0
+163;123;Age: 65 years or older;2006;5.0;95.0;1.0;99.0
+164;123;Age: 65 years or older;2007;11.0;89.0;8.0;92.0
+165;123;Age: 65 years or older;2008;6.0;94.0;5.0;95.0
+166;123;Age: 65 years or older;2009;6.0;94.0;5.0;95.0
+167;123;Age: 65 years or older;2010 old method;;;;
+168;123;Age: 65 years or older;2010 new method;;;;
+169;123;Age: 65 years or older;2012;;;;
+170;123;Origin: Dutch background;2003;4.0;96.0;4.0;96.0
+171;123;Origin: Dutch background;2004;3.0;97.0;5.0;95.0
+172;123;Origin: Dutch background;2005;3.0;97.0;5.0;95.0
+173;123;Origin: Dutch background;2006;2.0;98.0;3.0;97.0
+174;123;Origin: Dutch background;2007;5.0;95.0;5.0;95.0
+175;123;Origin: Dutch background;2008;3.0;97.0;5.0;95.0
+176;123;Origin: Dutch background;2009;3.0;97.0;4.0;96.0
+177;123;Origin: Dutch background;2010 old method;4.0;96.0;6.0;94.0
+178;123;Origin: Dutch background;2010 new method;7.0;93.0;6.0;94.0
+179;123;Origin: Dutch background;2012;4.0;96.0;5.0;95.0
+180;123;Origin: Western background;2003;6.0;94.0;6.0;94.0
+181;123;Origin: Western background;2004;3.0;97.0;6.0;94.0
+182;123;Origin: Western background;2005;6.0;94.0;6.0;94.0
+183;123;Origin: Western background;2006;4.0;96.0;6.0;94.0
+184;123;Origin: Western background;2007;7.0;93.0;6.0;94.0
+185;123;Origin: Western background;2008;4.0;96.0;5.0;95.0
+186;123;Origin: Western background;2009;6.0;94.0;9.0;91.0
+187;123;Origin: Western background;2010 old method;;;;
+188;123;Origin: Western background;2010 new method;;;;
+189;123;Origin: Western background;2012;;;;
+190;123;Origin: Non-western background;2003;12.0;88.0;12.0;88.0
+191;123;Origin: Non-western background;2004;14.0;86.0;16.0;84.0
+192;123;Origin: Non-western background;2005;16.0;84.0;19.0;81.0
+193;123;Origin: Non-western background;2006;;;;
+194;123;Origin: Non-western background;2007;11.0;89.0;4.0;96.0
+195;123;Origin: Non-western background;2008;11.0;89.0;7.0;93.0
+196;123;Origin: Non-western background;2009;12.0;88.0;14.0;86.0
+197;123;Origin: Non-western background;2010 old method;;;;
+198;123;Origin: Non-western background;2010 new method;;;;
+199;123;Origin: Non-western background;2012;;;;
+200;456;Total population;2003;9.0;91.0;9.0;91.0
+201;456;Total population;2004;9.0;91.0;10.0;90.0
+202;456;Total population;2005;10.0;90.0;10.0;90.0
+203;456;Total population;2006;8.0;92.0;10.0;90.0
+204;456;Total population;2007;8.0;92.0;9.0;91.0
+205;456;Total population;2008;8.0;92.0;8.0;92.0
+206;456;Total population;2009;8.0;92.0;9.0;91.0
+207;456;Total population;2010 old method;8.0;92.0;10.0;90.0
+208;456;Total population;2010 new method;12.0;88.0;12.0;88.0
+209;456;Total population;2012;12.0;88.0;12.0;88.0
+210;456;Gender: male;2003;9.0;91.0;9.0;91.0
+211;456;Gender: male;2004;8.0;92.0;10.0;90.0
+212;456;Gender: male;2005;10.0;90.0;10.0;90.0
+213;456;Gender: male;2006;7.0;93.0;10.0;90.0
+214;456;Gender: male;2007;7.0;93.0;9.0;91.0
+215;456;Gender: male;2008;8.0;92.0;8.0;92.0
+216;456;Gender: male;2009;7.0;93.0;9.0;91.0
+217;456;Gender: male;2010 old method;7.0;93.0;10.0;90.0
+218;456;Gender: male;2010 new method;11.0;89.0;12.0;88.0
+219;456;Gender: male;2012;14.0;86.0;14.0;86.0
+220;456;Gender: female;2003;9.0;91.0;9.0;91.0
+221;456;Gender: female;2004;10.0;90.0;10.0;90.0
+222;456;Gender: female;2005;10.0;90.0;10.0;90.0
+223;456;Gender: female;2006;10.0;90.0;11.0;89.0
+224;456;Gender: female;2007;9.0;91.0;10.0;90.0
+225;456;Gender: female;2008;8.0;92.0;8.0;92.0
+226;456;Gender: female;2009;9.0;91.0;10.0;90.0
+227;456;Gender: female;2010 old method;9.0;91.0;9.0;91.0
+228;456;Gender: female;2010 new method;13.0;87.0;12.0;88.0
+229;456;Gender: female;2012;11.0;89.0;11.0;89.0
+230;456;Age: 18 to 35 years;2003;8.0;92.0;9.0;91.0
+231;456;Age: 18 to 35 years;2004;8.0;92.0;11.0;89.0
+232;456;Age: 18 to 35 years;2005;10.0;90.0;11.0;89.0
+233;456;Age: 18 to 35 years;2006;7.0;93.0;10.0;90.0
+234;456;Age: 18 to 35 years;2007;9.0;91.0;9.0;91.0
+235;456;Age: 18 to 35 years;2008;6.0;94.0;8.0;92.0
+236;456;Age: 18 to 35 years;2009;7.0;93.0;9.0;91.0
+237;456;Age: 18 to 35 years;2010 old method;7.0;93.0;9.0;91.0
+238;456;Age: 18 to 35 years;2010 new method;12.0;88.0;13.0;87.0
+239;456;Age: 18 to 35 years;2012;12.0;88.0;14.0;86.0
+240;456;Age: 35 to 50 years;2003;9.0;91.0;11.0;89.0
+241;456;Age: 35 to 50 years;2004;9.0;91.0;10.0;90.0
+242;456;Age: 35 to 50 years;2005;9.0;91.0;11.0;89.0
+243;456;Age: 35 to 50 years;2006;9.0;91.0;12.0;88.0
+244;456;Age: 35 to 50 years;2007;6.0;94.0;10.0;90.0
+245;456;Age: 35 to 50 years;2008;9.0;91.0;10.0;90.0
+246;456;Age: 35 to 50 years;2009;9.0;91.0;13.0;87.0
+247;456;Age: 35 to 50 years;2010 old method;7.0;93.0;12.0;88.0
+248;456;Age: 35 to 50 years;2010 new method;12.0;88.0;12.0;88.0
+249;456;Age: 35 to 50 years;2012;13.0;87.0;13.0;87.0
+250;456;Age: 50 to 65 years;2003;9.0;91.0;8.0;92.0
+251;456;Age: 50 to 65 years;2004;9.0;91.0;9.0;91.0
+252;456;Age: 50 to 65 years;2005;10.0;90.0;10.0;90.0
+253;456;Age: 50 to 65 years;2006;9.0;91.0;10.0;90.0
+254;456;Age: 50 to 65 years;2007;9.0;91.0;9.0;91.0
+255;456;Age: 50 to 65 years;2008;8.0;92.0;7.0;93.0
+256;456;Age: 50 to 65 years;2009;8.0;92.0;8.0;92.0
+257;456;Age: 50 to 65 years;2010 old method;8.0;92.0;10.0;90.0
+258;456;Age: 50 to 65 years;2010 new method;12.0;88.0;11.0;89.0
+259;456;Age: 50 to 65 years;2012;14.0;86.0;14.0;86.0
+260;456;Age: 65 years or older;2003;12.0;88.0;8.0;92.0
+261;456;Age: 65 years or older;2004;10.0;90.0;6.0;94.0
+262;456;Age: 65 years or older;2005;11.0;89.0;7.0;93.0
+263;456;Age: 65 years or older;2006;9.0;91.0;8.0;92.0
+264;456;Age: 65 years or older;2007;9.0;91.0;9.0;91.0
+265;456;Age: 65 years or older;2008;9.0;91.0;5.0;95.0
+266;456;Age: 65 years or older;2009;9.0;91.0;6.0;94.0
+267;456;Age: 65 years or older;2010 old method;11.0;89.0;7.0;93.0
+268;456;Age: 65 years or older;2010 new method;13.0;87.0;11.0;89.0
+269;456;Age: 65 years or older;2012;11.0;89.0;9.0;91.0
+270;456;Origin: Dutch background;2003;8.0;92.0;8.0;92.0
+271;456;Origin: Dutch background;2004;8.0;92.0;9.0;91.0
+272;456;Origin: Dutch background;2005;8.0;92.0;9.0;91.0
+273;456;Origin: Dutch background;2006;8.0;92.0;9.0;91.0
+274;456;Origin: Dutch background;2007;7.0;93.0;9.0;91.0
+275;456;Origin: Dutch background;2008;7.0;93.0;7.0;93.0
+276;456;Origin: Dutch background;2009;7.0;93.0;8.0;92.0
+277;456;Origin: Dutch background;2010 old method;7.0;93.0;9.0;91.0
+278;456;Origin: Dutch background;2010 new method;11.0;89.0;11.0;89.0
+279;456;Origin: Dutch background;2012;12.0;88.0;12.0;88.0
+280;456;Origin: Western background;2003;13.0;87.0;10.0;90.0
+281;456;Origin: Western background;2004;10.0;90.0;12.0;88.0
+282;456;Origin: Western background;2005;12.0;88.0;12.0;88.0
+283;456;Origin: Western background;2006;9.0;91.0;12.0;88.0
+284;456;Origin: Western background;2007;11.0;89.0;13.0;87.0
+285;456;Origin: Western background;2008;11.0;89.0;13.0;87.0
+286;456;Origin: Western background;2009;10.0;90.0;14.0;86.0
+287;456;Origin: Western background;2010 old method;11.0;89.0;15.0;85.0
+288;456;Origin: Western background;2010 new method;15.0;85.0;15.0;85.0
+289;456;Origin: Western background;2012;;;;
+290;456;Origin: Non-western background;2003;20.0;80.0;18.0;82.0
+291;456;Origin: Non-western background;2004;18.0;82.0;18.0;82.0
+292;456;Origin: Non-western background;2005;24.0;76.0;19.0;81.0
+293;456;Origin: Non-western background;2006;14.0;86.0;22.0;78.0
+294;456;Origin: Non-western background;2007;15.0;85.0;13.0;87.0
+295;456;Origin: Non-western background;2008;14.0;86.0;9.0;91.0
+296;456;Origin: Non-western background;2009;15.0;85.0;20.0;80.0
+297;456;Origin: Non-western background;2010 old method;10.0;90.0;13.0;87.0
+298;456;Origin: Non-western background;2010 new method;19.0;81.0;14.0;86.0
+299;456;Origin: Non-western background;2012;;;;
+300;789;Total population;2003;29.0;71.0;30.0;70.0
+301;789;Total population;2004;29.0;71.0;29.0;71.0
+302;789;Total population;2005;28.0;72.0;29.0;71.0
+303;789;Total population;2006;28.0;72.0;30.0;70.0
+304;789;Total population;2007;29.0;71.0;29.0;71.0
+305;789;Total population;2008;28.0;72.0;28.0;72.0
+306;789;Total population;2009;27.0;73.0;28.0;72.0
+307;789;Total population;2010 old method;32.0;68.0;31.0;69.0
+308;789;Total population;2010 new method;33.0;67.0;32.0;68.0
+309;789;Total population;2012;39.0;61.0;38.0;62.0
+310;789;Gender: male;2003;29.0;71.0;30.0;70.0
+311;789;Gender: male;2004;29.0;71.0;30.0;70.0
+312;789;Gender: male;2005;27.0;73.0;29.0;71.0
+313;789;Gender: male;2006;27.0;73.0;31.0;69.0
+314;789;Gender: male;2007;28.0;72.0;29.0;71.0
+315;789;Gender: male;2008;29.0;71.0;28.0;72.0
+316;789;Gender: male;2009;25.0;75.0;28.0;72.0
+317;789;Gender: male;2010 old method;30.0;70.0;31.0;69.0
+318;789;Gender: male;2010 new method;33.0;67.0;32.0;68.0
+319;789;Gender: male;2012;45.0;55.0;40.0;60.0
+320;789;Gender: female;2003;29.0;71.0;30.0;70.0
+321;789;Gender: female;2004;29.0;71.0;29.0;71.0
+322;789;Gender: female;2005;29.0;71.0;29.0;71.0
+323;789;Gender: female;2006;28.0;72.0;29.0;71.0
+324;789;Gender: female;2007;30.0;70.0;28.0;72.0
+325;789;Gender: female;2008;27.0;73.0;28.0;72.0
+326;789;Gender: female;2009;29.0;71.0;28.0;72.0
+327;789;Gender: female;2010 old method;33.0;67.0;31.0;69.0
+328;789;Gender: female;2010 new method;33.0;67.0;32.0;68.0
+329;789;Gender: female;2012;35.0;65.0;37.0;63.0
+330;789;Age: 18 to 35 years;2003;28.0;72.0;35.0;65.0
+331;789;Age: 18 to 35 years;2004;30.0;70.0;32.0;68.0
+332;789;Age: 18 to 35 years;2005;30.0;70.0;37.0;63.0
+333;789;Age: 18 to 35 years;2006;26.0;74.0;33.0;67.0
+334;789;Age: 18 to 35 years;2007;27.0;73.0;31.0;69.0
+335;789;Age: 18 to 35 years;2008;24.0;76.0;27.0;73.0
+336;789;Age: 18 to 35 years;2009;35.0;65.0;41.0;59.0
+337;789;Age: 18 to 35 years;2010 old method;;;;
+338;789;Age: 18 to 35 years;2010 new method;39.0;61.0;38.0;62.0
+339;789;Age: 18 to 35 years;2012;;;;
+340;789;Age: 35 to 50 years;2003;35.0;65.0;38.0;62.0
+341;789;Age: 35 to 50 years;2004;32.0;68.0;39.0;61.0
+342;789;Age: 35 to 50 years;2005;30.0;70.0;32.0;68.0
+343;789;Age: 35 to 50 years;2006;34.0;66.0;39.0;61.0
+344;789;Age: 35 to 50 years;2007;33.0;67.0;37.0;63.0
+345;789;Age: 35 to 50 years;2008;33.0;67.0;37.0;63.0
+346;789;Age: 35 to 50 years;2009;32.0;68.0;33.0;67.0
+347;789;Age: 35 to 50 years;2010 old method;39.0;61.0;34.0;66.0
+348;789;Age: 35 to 50 years;2010 new method;37.0;63.0;38.0;62.0
+349;789;Age: 35 to 50 years;2012;;;;
+350;789;Age: 50 to 65 years;2003;26.0;74.0;28.0;72.0
+351;789;Age: 50 to 65 years;2004;27.0;73.0;27.0;73.0
+352;789;Age: 50 to 65 years;2005;28.0;72.0;30.0;70.0
+353;789;Age: 50 to 65 years;2006;27.0;73.0;30.0;70.0
+354;789;Age: 50 to 65 years;2007;29.0;71.0;28.0;72.0
+355;789;Age: 50 to 65 years;2008;29.0;71.0;28.0;72.0
+356;789;Age: 50 to 65 years;2009;23.0;77.0;25.0;75.0
+357;789;Age: 50 to 65 years;2010 old method;29.0;71.0;32.0;68.0
+358;789;Age: 50 to 65 years;2010 new method;31.0;69.0;31.0;69.0
+359;789;Age: 50 to 65 years;2012;44.0;56.0;41.0;59.0
+360;789;Age: 65 years or older;2003;28.0;72.0;24.0;76.0
+361;789;Age: 65 years or older;2004;27.0;73.0;23.0;77.0
+362;789;Age: 65 years or older;2005;26.0;74.0;20.0;80.0
+363;789;Age: 65 years or older;2006;26.0;74.0;21.0;79.0
+364;789;Age: 65 years or older;2007;27.0;73.0;22.0;78.0
+365;789;Age: 65 years or older;2008;24.0;76.0;22.0;78.0
+366;789;Age: 65 years or older;2009;25.0;75.0;23.0;77.0
+367;789;Age: 65 years or older;2010 old method;29.0;71.0;26.0;74.0
+368;789;Age: 65 years or older;2010 new method;31.0;69.0;25.0;75.0
+369;789;Age: 65 years or older;2012;32.0;68.0;26.0;74.0
+370;789;Origin: Dutch background;2003;26.0;74.0;28.0;72.0
+371;789;Origin: Dutch background;2004;25.0;75.0;27.0;73.0
+372;789;Origin: Dutch background;2005;26.0;74.0;27.0;73.0
+373;789;Origin: Dutch background;2006;26.0;74.0;27.0;73.0
+374;789;Origin: Dutch background;2007;25.0;75.0;27.0;73.0
+375;789;Origin: Dutch background;2008;24.0;76.0;25.0;75.0
+376;789;Origin: Dutch background;2009;26.0;74.0;27.0;73.0
+377;789;Origin: Dutch background;2010 old method;29.0;71.0;29.0;71.0
+378;789;Origin: Dutch background;2010 new method;31.0;69.0;30.0;70.0
+379;789;Origin: Dutch background;2012;38.0;62.0;36.0;64.0
+380;789;Origin: Western background;2003;31.0;69.0;33.0;67.0
+381;789;Origin: Western background;2004;31.0;69.0;30.0;70.0
+382;789;Origin: Western background;2005;33.0;67.0;28.0;72.0
+383;789;Origin: Western background;2006;29.0;71.0;34.0;66.0
+384;789;Origin: Western background;2007;33.0;67.0;31.0;69.0
+385;789;Origin: Western background;2008;34.0;66.0;32.0;68.0
+386;789;Origin: Western background;2009;24.0;76.0;29.0;71.0
+387;789;Origin: Western background;2010 old method;;;;
+388;789;Origin: Western background;2010 new method;;;;
+389;789;Origin: Western background;2012;;;;
+390;789;Origin: Non-western background;2003;45.0;55.0;40.0;60.0
+391;789;Origin: Non-western background;2004;48.0;52.0;46.0;54.0
+392;789;Origin: Non-western background;2005;39.0;61.0;40.0;60.0
+393;789;Origin: Non-western background;2006;42.0;58.0;42.0;58.0
+394;789;Origin: Non-western background;2007;48.0;52.0;37.0;63.0
+395;789;Origin: Non-western background;2008;44.0;56.0;39.0;61.0
+396;789;Origin: Non-western background;2009;41.0;59.0;37.0;63.0
+397;789;Origin: Non-western background;2010 old method;47.0;53.0;40.0;60.0
+398;789;Origin: Non-western background;2010 new method;43.0;57.0;39.0;61.0
+399;789;Origin: Non-western background;2012;;;;
+400;1234;Total population;2003;12.0;88.0;11.0;89.0
+401;1234;Total population;2004;11.0;89.0;11.0;89.0
+402;1234;Total population;2005;12.0;88.0;11.0;89.0
+403;1234;Total population;2006;10.0;90.0;11.0;89.0
+404;1234;Total population;2007;10.0;90.0;11.0;89.0
+405;1234;Total population;2008;10.0;90.0;10.0;90.0
+406;1234;Total population;2009;10.0;90.0;11.0;89.0
+407;1234;Total population;2010 old method;11.0;89.0;12.0;88.0
+408;1234;Total population;2010 new method;14.0;86.0;13.0;87.0
+409;1234;Total population;2012;;;;
+410;1234;Gender: male;2003;11.0;89.0;11.0;89.0
+411;1234;Gender: male;2004;9.0;91.0;10.0;90.0
+412;1234;Gender: male;2005;10.0;90.0;11.0;89.0
+413;1234;Gender: male;2006;8.0;92.0;11.0;89.0
+414;1234;Gender: male;2007;9.0;91.0;10.0;90.0
+415;1234;Gender: male;2008;9.0;91.0;9.0;91.0
+416;1234;Gender: male;2009;8.0;92.0;10.0;90.0
+417;1234;Gender: male;2010 old method;10.0;90.0;10.0;90.0
+418;1234;Gender: male;2010 new method;12.0;88.0;12.0;88.0
+419;1234;Gender: male;2012;;;;
+420;1234;Gender: female;2003;13.0;87.0;12.0;88.0
+421;1234;Gender: female;2004;13.0;87.0;12.0;88.0
+422;1234;Gender: female;2005;13.0;87.0;12.0;88.0
+423;1234;Gender: female;2006;12.0;88.0;12.0;88.0
+424;1234;Gender: female;2007;12.0;88.0;11.0;89.0
+425;1234;Gender: female;2008;11.0;89.0;11.0;89.0
+426;1234;Gender: female;2009;12.0;88.0;12.0;88.0
+427;1234;Gender: female;2010 old method;12.0;88.0;13.0;87.0
+428;1234;Gender: female;2010 new method;16.0;84.0;14.0;86.0
+429;1234;Gender: female;2012;;;;
+430;1234;Age: 18 to 35 years;2003;8.0;92.0;9.0;91.0
+431;1234;Age: 18 to 35 years;2004;8.0;92.0;9.0;91.0
+432;1234;Age: 18 to 35 years;2005;8.0;92.0;10.0;90.0
+433;1234;Age: 18 to 35 years;2006;7.0;93.0;10.0;90.0
+434;1234;Age: 18 to 35 years;2007;7.0;93.0;8.0;92.0
+435;1234;Age: 18 to 35 years;2008;5.0;95.0;7.0;93.0
+436;1234;Age: 18 to 35 years;2009;7.0;93.0;9.0;91.0
+437;1234;Age: 18 to 35 years;2010 old method;7.0;93.0;9.0;91.0
+438;1234;Age: 18 to 35 years;2010 new method;12.0;88.0;10.0;90.0
+439;1234;Age: 18 to 35 years;2012;;;;
+440;1234;Age: 35 to 50 years;2003;10.0;90.0;12.0;88.0
+441;1234;Age: 35 to 50 years;2004;10.0;90.0;12.0;88.0
+442;1234;Age: 35 to 50 years;2005;10.0;90.0;11.0;89.0
+443;1234;Age: 35 to 50 years;2006;9.0;91.0;12.0;88.0
+444;1234;Age: 35 to 50 years;2007;8.0;92.0;11.0;89.0
+445;1234;Age: 35 to 50 years;2008;10.0;90.0;11.0;89.0
+446;1234;Age: 35 to 50 years;2009;9.0;91.0;13.0;87.0
+447;1234;Age: 35 to 50 years;2010 old method;10.0;90.0;13.0;87.0
+448;1234;Age: 35 to 50 years;2010 new method;14.0;86.0;14.0;86.0
+449;1234;Age: 35 to 50 years;2012;;;;
+450;1234;Age: 50 to 65 years;2003;13.0;87.0;11.0;89.0
+451;1234;Age: 50 to 65 years;2004;12.0;88.0;12.0;88.0
+452;1234;Age: 50 to 65 years;2005;13.0;87.0;13.0;87.0
+453;1234;Age: 50 to 65 years;2006;11.0;89.0;13.0;87.0
+454;1234;Age: 50 to 65 years;2007;12.0;88.0;12.0;88.0
+455;1234;Age: 50 to 65 years;2008;12.0;88.0;11.0;89.0
+456;1234;Age: 50 to 65 years;2009;10.0;90.0;11.0;89.0
+457;1234;Age: 50 to 65 years;2010 old method;12.0;88.0;11.0;89.0
+458;1234;Age: 50 to 65 years;2010 new method;14.0;86.0;14.0;86.0
+459;1234;Age: 50 to 65 years;2012;;;;
+460;1234;Age: 65 years or older;2003;17.0;83.0;14.0;86.0
+461;1234;Age: 65 years or older;2004;16.0;84.0;12.0;88.0
+462;1234;Age: 65 years or older;2005;17.0;83.0;12.0;88.0
+463;1234;Age: 65 years or older;2006;14.0;86.0;11.0;89.0
+464;1234;Age: 65 years or older;2007;15.0;85.0;12.0;88.0
+465;1234;Age: 65 years or older;2008;14.0;86.0;11.0;89.0
+466;1234;Age: 65 years or older;2009;14.0;86.0;12.0;88.0
+467;1234;Age: 65 years or older;2010 old method;17.0;83.0;14.0;86.0
+468;1234;Age: 65 years or older;2010 new method;19.0;81.0;15.0;85.0
+469;1234;Age: 65 years or older;2012;;;;
+470;1234;Origin: Dutch background;2003;10.0;90.0;10.0;90.0
+471;1234;Origin: Dutch background;2004;10.0;90.0;10.0;90.0
+472;1234;Origin: Dutch background;2005;10.0;90.0;10.0;90.0
+473;1234;Origin: Dutch background;2006;10.0;90.0;10.0;90.0
+474;1234;Origin: Dutch background;2007;9.0;91.0;10.0;90.0
+475;1234;Origin: Dutch background;2008;9.0;91.0;9.0;91.0
+476;1234;Origin: Dutch background;2009;9.0;91.0;9.0;91.0
+477;1234;Origin: Dutch background;2010 old method;10.0;90.0;11.0;89.0
+478;1234;Origin: Dutch background;2010 new method;13.0;87.0;12.0;88.0
+479;1234;Origin: Dutch background;2012;;;;
+480;1234;Origin: Western background;2003;15.0;85.0;13.0;87.0
+481;1234;Origin: Western background;2004;12.0;88.0;13.0;87.0
+482;1234;Origin: Western background;2005;14.0;86.0;12.0;88.0
+483;1234;Origin: Western background;2006;12.0;88.0;12.0;88.0
+484;1234;Origin: Western background;2007;13.0;87.0;13.0;87.0
+485;1234;Origin: Western background;2008;12.0;88.0;13.0;87.0
+486;1234;Origin: Western background;2009;11.0;89.0;15.0;85.0
+487;1234;Origin: Western background;2010 old method;15.0;85.0;15.0;85.0
+488;1234;Origin: Western background;2010 new method;17.0;83.0;13.0;87.0
+489;1234;Origin: Western background;2012;;;;
+490;1234;Origin: Non-western background;2003;26.0;74.0;23.0;77.0
+491;1234;Origin: Non-western background;2004;24.0;76.0;23.0;77.0
+492;1234;Origin: Non-western background;2005;24.0;76.0;22.0;78.0
+493;1234;Origin: Non-western background;2006;16.0;84.0;22.0;78.0
+494;1234;Origin: Non-western background;2007;21.0;79.0;17.0;83.0
+495;1234;Origin: Non-western background;2008;18.0;82.0;15.0;85.0
+496;1234;Origin: Non-western background;2009;18.0;82.0;22.0;78.0
+497;1234;Origin: Non-western background;2010 old method;23.0;77.0;18.0;82.0
+498;1234;Origin: Non-western background;2010 new method;22.0;78.0;18.0;82.0
+499;1234;Origin: Non-western background;2012;;;;
+500;5678;Total population;2003;15.0;85.0;17.0;83.0
+501;5678;Total population;2004;16.0;84.0;18.0;82.0
+502;5678;Total population;2005;16.0;84.0;19.0;81.0
+503;5678;Total population;2006;15.0;85.0;18.0;82.0
+504;5678;Total population;2007;17.0;83.0;18.0;82.0
+505;5678;Total population;2008;16.0;84.0;16.0;84.0
+506;5678;Total population;2009;15.0;85.0;17.0;83.0
+507;5678;Total population;2010 old method;15.0;85.0;19.0;81.0
+508;5678;Total population;2010 new method;20.0;80.0;21.0;79.0
+509;5678;Total population;2012;;;;
+510;5678;Gender: male;2003;15.0;85.0;16.0;84.0
+511;5678;Gender: male;2004;16.0;84.0;18.0;82.0
+512;5678;Gender: male;2005;16.0;84.0;18.0;82.0
+513;5678;Gender: male;2006;13.0;87.0;16.0;84.0
+514;5678;Gender: male;2007;16.0;84.0;17.0;83.0
+515;5678;Gender: male;2008;16.0;84.0;16.0;84.0
+516;5678;Gender: male;2009;14.0;86.0;16.0;84.0
+517;5678;Gender: male;2010 old method;12.0;88.0;17.0;83.0
+518;5678;Gender: male;2010 new method;19.0;81.0;21.0;79.0
+519;5678;Gender: male;2012;;;;
+520;5678;Gender: female;2003;16.0;84.0;18.0;82.0
+521;5678;Gender: female;2004;16.0;84.0;19.0;81.0
+522;5678;Gender: female;2005;17.0;83.0;21.0;79.0
+523;5678;Gender: female;2006;18.0;82.0;20.0;80.0
+524;5678;Gender: female;2007;18.0;82.0;20.0;80.0
+525;5678;Gender: female;2008;16.0;84.0;16.0;84.0
+526;5678;Gender: female;2009;17.0;83.0;18.0;82.0
+527;5678;Gender: female;2010 old method;20.0;80.0;21.0;79.0
+528;5678;Gender: female;2010 new method;22.0;78.0;22.0;78.0
+529;5678;Gender: female;2012;;;;
+530;5678;Age: 18 to 35 years;2003;12.0;88.0;14.0;86.0
+531;5678;Age: 18 to 35 years;2004;13.0;87.0;18.0;82.0
+532;5678;Age: 18 to 35 years;2005;15.0;85.0;19.0;81.0
+533;5678;Age: 18 to 35 years;2006;10.0;90.0;16.0;84.0
+534;5678;Age: 18 to 35 years;2007;14.0;86.0;15.0;85.0
+535;5678;Age: 18 to 35 years;2008;11.0;89.0;14.0;86.0
+536;5678;Age: 18 to 35 years;2009;12.0;88.0;15.0;85.0
+537;5678;Age: 18 to 35 years;2010 old method;10.0;90.0;14.0;86.0
+538;5678;Age: 18 to 35 years;2010 new method;16.0;84.0;20.0;80.0
+539;5678;Age: 18 to 35 years;2012;;;;
+540;5678;Age: 35 to 50 years;2003;15.0;85.0;18.0;82.0
+541;5678;Age: 35 to 50 years;2004;16.0;84.0;19.0;81.0
+542;5678;Age: 35 to 50 years;2005;16.0;84.0;19.0;81.0
+543;5678;Age: 35 to 50 years;2006;16.0;84.0;19.0;81.0
+544;5678;Age: 35 to 50 years;2007;16.0;84.0;19.0;81.0
+545;5678;Age: 35 to 50 years;2008;19.0;81.0;19.0;81.0
+546;5678;Age: 35 to 50 years;2009;16.0;84.0;18.0;82.0
+547;5678;Age: 35 to 50 years;2010 old method;15.0;85.0;21.0;79.0
+548;5678;Age: 35 to 50 years;2010 new method;21.0;79.0;21.0;79.0
+549;5678;Age: 35 to 50 years;2012;;;;
+550;5678;Age: 50 to 65 years;2003;17.0;83.0;18.0;82.0
+551;5678;Age: 50 to 65 years;2004;17.0;83.0;19.0;81.0
+552;5678;Age: 50 to 65 years;2005;18.0;82.0;21.0;79.0
+553;5678;Age: 50 to 65 years;2006;17.0;83.0;19.0;81.0
+554;5678;Age: 50 to 65 years;2007;18.0;82.0;20.0;80.0
+555;5678;Age: 50 to 65 years;2008;17.0;83.0;15.0;85.0
+556;5678;Age: 50 to 65 years;2009;16.0;84.0;17.0;83.0
+557;5678;Age: 50 to 65 years;2010 old method;19.0;81.0;24.0;76.0
+558;5678;Age: 50 to 65 years;2010 new method;24.0;76.0;23.0;77.0
+559;5678;Age: 50 to 65 years;2012;;;;
+560;5678;Age: 65 years or older;2003;23.0;77.0;20.0;80.0
+561;5678;Age: 65 years or older;2004;24.0;76.0;18.0;82.0
+562;5678;Age: 65 years or older;2005;16.0;84.0;15.0;85.0
+563;5678;Age: 65 years or older;2006;21.0;79.0;19.0;81.0
+564;5678;Age: 65 years or older;2007;23.0;77.0;24.0;76.0
+565;5678;Age: 65 years or older;2008;20.0;80.0;18.0;82.0
+566;5678;Age: 65 years or older;2009;23.0;77.0;20.0;80.0
+567;5678;Age: 65 years or older;2010 old method;;;;
+568;5678;Age: 65 years or older;2010 new method;;;;
+569;5678;Age: 65 years or older;2012;;;;
+570;5678;Origin: Dutch background;2003;13.0;87.0;15.0;85.0
+571;5678;Origin: Dutch background;2004;14.0;86.0;16.0;84.0
+572;5678;Origin: Dutch background;2005;13.0;87.0;17.0;83.0
+573;5678;Origin: Dutch background;2006;12.0;88.0;15.0;85.0
+574;5678;Origin: Dutch background;2007;14.0;86.0;17.0;83.0
+575;5678;Origin: Dutch background;2008;13.0;87.0;14.0;86.0
+576;5678;Origin: Dutch background;2009;14.0;86.0;15.0;85.0
+577;5678;Origin: Dutch background;2010 old method;14.0;86.0;16.0;84.0
+578;5678;Origin: Dutch background;2010 new method;18.0;82.0;20.0;80.0
+579;5678;Origin: Dutch background;2012;;;;
+580;5678;Origin: Western background;2003;20.0;80.0;20.0;80.0
+581;5678;Origin: Western background;2004;17.0;83.0;20.0;80.0
+582;5678;Origin: Western background;2005;21.0;79.0;21.0;79.0
+583;5678;Origin: Western background;2006;16.0;84.0;24.0;76.0
+584;5678;Origin: Western background;2007;21.0;79.0;23.0;77.0
+585;5678;Origin: Western background;2008;20.0;80.0;21.0;79.0
+586;5678;Origin: Western background;2009;16.0;84.0;21.0;79.0
+587;5678;Origin: Western background;2010 old method;;;;
+588;5678;Origin: Western background;2010 new method;;;;
+589;5678;Origin: Western background;2012;;;;
+590;5678;Origin: Non-western background;2003;31.0;69.0;29.0;71.0
+591;5678;Origin: Non-western background;2004;36.0;64.0;37.0;63.0
+592;5678;Origin: Non-western background;2005;36.0;64.0;37.0;63.0
+593;5678;Origin: Non-western background;2006;33.0;67.0;38.0;62.0
+594;5678;Origin: Non-western background;2007;35.0;65.0;25.0;75.0
+595;5678;Origin: Non-western background;2008;35.0;65.0;28.0;72.0
+596;5678;Origin: Non-western background;2009;32.0;68.0;31.0;69.0
+597;5678;Origin: Non-western background;2010 old method;;;;
+598;5678;Origin: Non-western background;2010 new method;34.0;66.0;26.0;74.0
+599;5678;Origin: Non-western background;2012;;;;
+600;12;Total population;2003;;;;
+601;12;Total population;2004;;;;
+602;12;Total population;2005;19.0;81.0;17.0;83.0
+603;12;Total population;2006;18.0;82.0;17.0;83.0
+604;12;Total population;2007;18.0;82.0;17.0;83.0
+605;12;Total population;2008;15.0;85.0;15.0;85.0
+606;12;Total population;2009;16.0;84.0;16.0;84.0
+607;12;Total population;2010 old method;19.0;81.0;16.0;84.0
+608;12;Total population;2010 new method;24.0;76.0;20.0;80.0
+609;12;Total population;2012;;;;
+610;12;Gender: male;2003;;;;
+611;12;Gender: male;2004;;;;
+612;12;Gender: male;2005;21.0;79.0;23.0;77.0
+613;12;Gender: male;2006;17.0;83.0;20.0;80.0
+614;12;Gender: male;2007;18.0;82.0;20.0;80.0
+615;12;Gender: male;2008;19.0;81.0;16.0;84.0
+616;12;Gender: male;2009;12.0;88.0;14.0;86.0
+617;12;Gender: male;2010 old method;16.0;84.0;13.0;87.0
+618;12;Gender: male;2010 new method;24.0;76.0;20.0;80.0
+619;12;Gender: male;2012;;;;
+620;12;Gender: female;2003;;;;
+621;12;Gender: female;2004;;;;
+622;12;Gender: female;2005;18.0;82.0;14.0;86.0
+623;12;Gender: female;2006;18.0;82.0;16.0;84.0
+624;12;Gender: female;2007;18.0;82.0;16.0;84.0
+625;12;Gender: female;2008;14.0;86.0;15.0;85.0
+626;12;Gender: female;2009;18.0;82.0;17.0;83.0
+627;12;Gender: female;2010 old method;20.0;80.0;17.0;83.0
+628;12;Gender: female;2010 new method;24.0;76.0;20.0;80.0
+629;12;Gender: female;2012;;;;
+630;12;Age: 18 to 35 years;2003;;;;
+631;12;Age: 18 to 35 years;2004;;;;
+632;12;Age: 18 to 35 years;2005;15.0;85.0;13.0;87.0
+633;12;Age: 18 to 35 years;2006;12.0;88.0;11.0;89.0
+634;12;Age: 18 to 35 years;2007;13.0;87.0;17.0;83.0
+635;12;Age: 18 to 35 years;2008;7.0;93.0;10.0;90.0
+636;12;Age: 18 to 35 years;2009;10.0;90.0;12.0;88.0
+637;12;Age: 18 to 35 years;2010 old method;;;;
+638;12;Age: 18 to 35 years;2010 new method;;;;
+639;12;Age: 18 to 35 years;2012;;;;
+640;12;Age: 35 to 50 years;2003;;;;
+641;12;Age: 35 to 50 years;2004;;;;
+642;12;Age: 35 to 50 years;2005;18.0;82.0;19.0;81.0
+643;12;Age: 35 to 50 years;2006;20.0;80.0;23.0;77.0
+644;12;Age: 35 to 50 years;2007;16.0;84.0;16.0;84.0
+645;12;Age: 35 to 50 years;2008;16.0;84.0;18.0;82.0
+646;12;Age: 35 to 50 years;2009;16.0;84.0;19.0;81.0
+647;12;Age: 35 to 50 years;2010 old method;20.0;80.0;16.0;84.0
+648;12;Age: 35 to 50 years;2010 new method;24.0;76.0;23.0;77.0
+649;12;Age: 35 to 50 years;2012;;;;
+650;12;Age: 50 to 65 years;2003;;;;
+651;12;Age: 50 to 65 years;2004;;;;
+652;12;Age: 50 to 65 years;2005;21.0;79.0;25.0;75.0
+653;12;Age: 50 to 65 years;2006;23.0;77.0;22.0;78.0
+654;12;Age: 50 to 65 years;2007;23.0;77.0;19.0;81.0
+655;12;Age: 50 to 65 years;2008;17.0;83.0;17.0;83.0
+656;12;Age: 50 to 65 years;2009;18.0;82.0;13.0;87.0
+657;12;Age: 50 to 65 years;2010 old method;;;;
+658;12;Age: 50 to 65 years;2010 new method;;;;
+659;12;Age: 50 to 65 years;2012;;;;
+660;12;Age: 65 years or older;2003;;;;
+661;12;Age: 65 years or older;2004;;;;
+662;12;Age: 65 years or older;2005;21.0;79.0;12.0;88.0
+663;12;Age: 65 years or older;2006;16.0;84.0;13.0;87.0
+664;12;Age: 65 years or older;2007;20.0;80.0;16.0;84.0
+665;12;Age: 65 years or older;2008;18.0;82.0;16.0;84.0
+666;12;Age: 65 years or older;2009;19.0;81.0;17.0;83.0
+667;12;Age: 65 years or older;2010 old method;20.0;80.0;15.0;85.0
+668;12;Age: 65 years or older;2010 new method;27.0;73.0;20.0;80.0
+669;12;Age: 65 years or older;2012;;;;
+670;12;Origin: Dutch background;2003;;;;
+671;12;Origin: Dutch background;2004;;;;
+672;12;Origin: Dutch background;2005;16.0;84.0;16.0;84.0
+673;12;Origin: Dutch background;2006;15.0;85.0;15.0;85.0
+674;12;Origin: Dutch background;2007;16.0;84.0;16.0;84.0
+675;12;Origin: Dutch background;2008;15.0;85.0;15.0;85.0
+676;12;Origin: Dutch background;2009;15.0;85.0;14.0;86.0
+677;12;Origin: Dutch background;2010 old method;15.0;85.0;15.0;85.0
+678;12;Origin: Dutch background;2010 new method;24.0;76.0;19.0;81.0
+679;12;Origin: Dutch background;2012;;;;
+680;12;Origin: Western background;2003;;;;
+681;12;Origin: Western background;2004;;;;
+682;12;Origin: Western background;2005;;;;
+683;12;Origin: Western background;2006;;;;
+684;12;Origin: Western background;2007;;;;
+685;12;Origin: Western background;2008;;;;
+686;12;Origin: Western background;2009;;;;
+687;12;Origin: Western background;2010 old method;;;;
+688;12;Origin: Western background;2010 new method;;;;
+689;12;Origin: Western background;2012;;;;
+690;12;Origin: Non-western background;2003;;;;
+691;12;Origin: Non-western background;2004;;;;
+692;12;Origin: Non-western background;2005;28.0;72.0;22.0;78.0
+693;12;Origin: Non-western background;2006;24.0;76.0;24.0;76.0
+694;12;Origin: Non-western background;2007;27.0;73.0;20.0;80.0
+695;12;Origin: Non-western background;2008;17.0;83.0;15.0;85.0
+696;12;Origin: Non-western background;2009;20.0;80.0;22.0;78.0
+697;12;Origin: Non-western background;2010 old method;;;;
+698;12;Origin: Non-western background;2010 new method;;;;
+699;12;Origin: Non-western background;2012;;;;
+700;34;Total population;2003;;;;
+701;34;Total population;2004;;;;
+702;34;Total population;2005;10.0;90.0;12.0;88.0
+703;34;Total population;2006;9.0;91.0;12.0;88.0
+704;34;Total population;2007;9.0;91.0;11.0;89.0
+705;34;Total population;2008;9.0;91.0;10.0;90.0
+706;34;Total population;2009;8.0;92.0;10.0;90.0
+707;34;Total population;2010 old method;9.0;91.0;11.0;89.0
+708;34;Total population;2010 new method;14.0;86.0;12.0;88.0
+709;34;Total population;2012;;;;
+710;34;Gender: male;2003;;;;
+711;34;Gender: male;2004;;;;
+712;34;Gender: male;2005;9.0;91.0;11.0;89.0
+713;34;Gender: male;2006;8.0;92.0;11.0;89.0
+714;34;Gender: male;2007;8.0;92.0;10.0;90.0
+715;34;Gender: male;2008;9.0;91.0;9.0;91.0
+716;34;Gender: male;2009;7.0;93.0;10.0;90.0
+717;34;Gender: male;2010 old method;8.0;92.0;11.0;89.0
+718;34;Gender: male;2010 new method;13.0;87.0;12.0;88.0
+719;34;Gender: male;2012;;;;
+720;34;Gender: female;2003;;;;
+721;34;Gender: female;2004;;;;
+722;34;Gender: female;2005;11.0;89.0;13.0;87.0
+723;34;Gender: female;2006;11.0;89.0;12.0;88.0
+724;34;Gender: female;2007;10.0;90.0;12.0;88.0
+725;34;Gender: female;2008;9.0;91.0;10.0;90.0
+726;34;Gender: female;2009;9.0;91.0;10.0;90.0
+727;34;Gender: female;2010 old method;9.0;91.0;11.0;89.0
+728;34;Gender: female;2010 new method;15.0;85.0;13.0;87.0
+729;34;Gender: female;2012;;;;
+730;34;Age: 18 to 35 years;2003;;;;
+731;34;Age: 18 to 35 years;2004;;;;
+732;34;Age: 18 to 35 years;2005;8.0;92.0;11.0;89.0
+733;34;Age: 18 to 35 years;2006;7.0;93.0;12.0;88.0
+734;34;Age: 18 to 35 years;2007;7.0;93.0;10.0;90.0
+735;34;Age: 18 to 35 years;2008;6.0;94.0;8.0;92.0
+736;34;Age: 18 to 35 years;2009;6.0;94.0;9.0;91.0
+737;34;Age: 18 to 35 years;2010 old method;5.0;95.0;8.0;92.0
+738;34;Age: 18 to 35 years;2010 new method;11.0;89.0;11.0;89.0
+739;34;Age: 18 to 35 years;2012;;;;
+740;34;Age: 35 to 50 years;2003;;;;
+741;34;Age: 35 to 50 years;2004;;;;
+742;34;Age: 35 to 50 years;2005;9.0;91.0;12.0;88.0
+743;34;Age: 35 to 50 years;2006;9.0;91.0;12.0;88.0
+744;34;Age: 35 to 50 years;2007;7.0;93.0;11.0;89.0
+745;34;Age: 35 to 50 years;2008;10.0;90.0;10.0;90.0
+746;34;Age: 35 to 50 years;2009;7.0;93.0;11.0;89.0
+747;34;Age: 35 to 50 years;2010 old method;7.0;93.0;11.0;89.0
+748;34;Age: 35 to 50 years;2010 new method;13.0;87.0;13.0;87.0
+749;34;Age: 35 to 50 years;2012;;;;
+750;34;Age: 50 to 65 years;2003;;;;
+751;34;Age: 50 to 65 years;2004;;;;
+752;34;Age: 50 to 65 years;2005;11.0;89.0;12.0;88.0
+753;34;Age: 50 to 65 years;2006;10.0;90.0;12.0;88.0
+754;34;Age: 50 to 65 years;2007;10.0;90.0;11.0;89.0
+755;34;Age: 50 to 65 years;2008;10.0;90.0;10.0;90.0
+756;34;Age: 50 to 65 years;2009;9.0;91.0;11.0;89.0
+757;34;Age: 50 to 65 years;2010 old method;11.0;89.0;12.0;88.0
+758;34;Age: 50 to 65 years;2010 new method;15.0;85.0;13.0;87.0
+759;34;Age: 50 to 65 years;2012;;;;
+760;34;Age: 65 years or older;2003;;;;
+761;34;Age: 65 years or older;2004;;;;
+762;34;Age: 65 years or older;2005;13.0;87.0;11.0;89.0
+763;34;Age: 65 years or older;2006;13.0;87.0;10.0;90.0
+764;34;Age: 65 years or older;2007;14.0;86.0;12.0;88.0
+765;34;Age: 65 years or older;2008;11.0;89.0;11.0;89.0
+766;34;Age: 65 years or older;2009;11.0;89.0;9.0;91.0
+767;34;Age: 65 years or older;2010 old method;12.0;88.0;13.0;87.0
+768;34;Age: 65 years or older;2010 new method;16.0;84.0;12.0;88.0
+769;34;Age: 65 years or older;2012;;;;
+770;34;Origin: Dutch background;2003;;;;
+771;34;Origin: Dutch background;2004;;;;
+772;34;Origin: Dutch background;2005;9.0;91.0;11.0;89.0
+773;34;Origin: Dutch background;2006;9.0;91.0;10.0;90.0
+774;34;Origin: Dutch background;2007;8.0;92.0;11.0;89.0
+775;34;Origin: Dutch background;2008;8.0;92.0;9.0;91.0
+776;34;Origin: Dutch background;2009;8.0;92.0;10.0;90.0
+777;34;Origin: Dutch background;2010 old method;8.0;92.0;11.0;89.0
+778;34;Origin: Dutch background;2010 new method;13.0;87.0;12.0;88.0
+779;34;Origin: Dutch background;2012;;;;
+780;34;Origin: Western background;2003;;;;
+781;34;Origin: Western background;2004;;;;
+782;34;Origin: Western background;2005;13.0;87.0;14.0;86.0
+783;34;Origin: Western background;2006;10.0;90.0;12.0;88.0
+784;34;Origin: Western background;2007;13.0;87.0;14.0;86.0
+785;34;Origin: Western background;2008;13.0;87.0;15.0;85.0
+786;34;Origin: Western background;2009;8.0;92.0;13.0;87.0
+787;34;Origin: Western background;2010 old method;12.0;88.0;13.0;87.0
+788;34;Origin: Western background;2010 new method;14.0;86.0;11.0;89.0
+789;34;Origin: Western background;2012;;;;
+790;34;Origin: Non-western background;2003;;;;
+791;34;Origin: Non-western background;2004;;;;
+792;34;Origin: Non-western background;2005;23.0;77.0;24.0;76.0
+793;34;Origin: Non-western background;2006;13.0;87.0;27.0;73.0
+794;34;Origin: Non-western background;2007;16.0;84.0;14.0;86.0
+795;34;Origin: Non-western background;2008;23.0;77.0;13.0;87.0
+796;34;Origin: Non-western background;2009;11.0;89.0;15.0;85.0
+797;34;Origin: Non-western background;2010 old method;;;;
+798;34;Origin: Non-western background;2010 new method;;;;
+799;34;Origin: Non-western background;2012;;;;
+800;56;Total population;2003;;;;
+801;56;Total population;2004;;;;
+802;56;Total population;2005;13.0;87.0;15.0;85.0
+803;56;Total population;2006;10.0;90.0;11.0;89.0
+804;56;Total population;2007;12.0;88.0;13.0;87.0
+805;56;Total population;2008;11.0;89.0;10.0;90.0
+806;56;Total population;2009;11.0;89.0;11.0;89.0
+807;56;Total population;2010 old method;11.0;89.0;14.0;86.0
+808;56;Total population;2010 new method;18.0;82.0;19.0;81.0
+809;56;Total population;2012;;;;
+810;56;Gender: male;2003;;;;
+811;56;Gender: male;2004;;;;
+812;56;Gender: male;2005;11.0;89.0;13.0;87.0
+813;56;Gender: male;2006;8.0;92.0;10.0;90.0
+814;56;Gender: male;2007;11.0;89.0;12.0;88.0
+815;56;Gender: male;2008;10.0;90.0;11.0;89.0
+816;56;Gender: male;2009;10.0;90.0;10.0;90.0
+817;56;Gender: male;2010 old method;11.0;89.0;13.0;87.0
+818;56;Gender: male;2010 new method;16.0;84.0;18.0;82.0
+819;56;Gender: male;2012;;;;
+820;56;Gender: female;2003;;;;
+821;56;Gender: female;2004;;;;
+822;56;Gender: female;2005;21.0;79.0;22.0;78.0
+823;56;Gender: female;2006;16.0;84.0;14.0;86.0
+824;56;Gender: female;2007;18.0;82.0;16.0;84.0
+825;56;Gender: female;2008;13.0;87.0;7.0;93.0
+826;56;Gender: female;2009;16.0;84.0;15.0;85.0
+827;56;Gender: female;2010 old method;;;;
+828;56;Gender: female;2010 new method;;;;
+829;56;Gender: female;2012;;;;
+830;56;Age: 18 to 35 years;2003;;;;
+831;56;Age: 18 to 35 years;2004;;;;
+832;56;Age: 18 to 35 years;2005;8.0;92.0;14.0;86.0
+833;56;Age: 18 to 35 years;2006;9.0;91.0;7.0;93.0
+834;56;Age: 18 to 35 years;2007;10.0;90.0;8.0;92.0
+835;56;Age: 18 to 35 years;2008;6.0;94.0;9.0;91.0
+836;56;Age: 18 to 35 years;2009;10.0;90.0;9.0;91.0
+837;56;Age: 18 to 35 years;2010 old method;;;;
+838;56;Age: 18 to 35 years;2010 new method;;;;
+839;56;Age: 18 to 35 years;2012;;;;
+840;56;Age: 35 to 50 years;2003;;;;
+841;56;Age: 35 to 50 years;2004;;;;
+842;56;Age: 35 to 50 years;2005;16.0;84.0;15.0;85.0
+843;56;Age: 35 to 50 years;2006;8.0;92.0;12.0;88.0
+844;56;Age: 35 to 50 years;2007;9.0;91.0;17.0;83.0
+845;56;Age: 35 to 50 years;2008;15.0;85.0;13.0;87.0
+846;56;Age: 35 to 50 years;2009;12.0;88.0;11.0;89.0
+847;56;Age: 35 to 50 years;2010 old method;;;;
+848;56;Age: 35 to 50 years;2010 new method;;;;
+849;56;Age: 35 to 50 years;2012;;;;
+850;56;Age: 50 to 65 years;2003;;;;
+851;56;Age: 50 to 65 years;2004;;;;
+852;56;Age: 50 to 65 years;2005;17.0;83.0;17.0;83.0
+853;56;Age: 50 to 65 years;2006;11.0;89.0;13.0;87.0
+854;56;Age: 50 to 65 years;2007;16.0;84.0;15.0;85.0
+855;56;Age: 50 to 65 years;2008;13.0;87.0;10.0;90.0
+856;56;Age: 50 to 65 years;2009;11.0;89.0;12.0;88.0
+857;56;Age: 50 to 65 years;2010 old method;;;;
+858;56;Age: 50 to 65 years;2010 new method;;;;
+859;56;Age: 50 to 65 years;2012;;;;
+860;56;Age: 65 years or older;2003;;;;
+861;56;Age: 65 years or older;2004;;;;
+862;56;Age: 65 years or older;2005;;;;
+863;56;Age: 65 years or older;2006;;;;
+864;56;Age: 65 years or older;2007;;;;
+865;56;Age: 65 years or older;2008;;;;
+866;56;Age: 65 years or older;2009;;;;
+867;56;Age: 65 years or older;2010 old method;;;;
+868;56;Age: 65 years or older;2010 new method;;;;
+869;56;Age: 65 years or older;2012;;;;
+870;56;Origin: Dutch background;2003;;;;
+871;56;Origin: Dutch background;2004;;;;
+872;56;Origin: Dutch background;2005;12.0;88.0;15.0;85.0
+873;56;Origin: Dutch background;2006;8.0;92.0;10.0;90.0
+874;56;Origin: Dutch background;2007;11.0;89.0;12.0;88.0
+875;56;Origin: Dutch background;2008;11.0;89.0;10.0;90.0
+876;56;Origin: Dutch background;2009;10.0;90.0;10.0;90.0
+877;56;Origin: Dutch background;2010 old method;11.0;89.0;11.0;89.0
+878;56;Origin: Dutch background;2010 new method;17.0;83.0;19.0;81.0
+879;56;Origin: Dutch background;2012;;;;
+880;56;Origin: Western background;2003;;;;
+881;56;Origin: Western background;2004;;;;
+882;56;Origin: Western background;2005;;;;
+883;56;Origin: Western background;2006;;;;
+884;56;Origin: Western background;2007;;;;
+885;56;Origin: Western background;2008;;;;
+886;56;Origin: Western background;2009;;;;
+887;56;Origin: Western background;2010 old method;;;;
+888;56;Origin: Western background;2010 new method;;;;
+889;56;Origin: Western background;2012;;;;
+890;56;Origin: Non-western background;2003;;;;
+891;56;Origin: Non-western background;2004;;;;
+892;56;Origin: Non-western background;2005;;;;
+893;56;Origin: Non-western background;2006;;;;
+894;56;Origin: Non-western background;2007;;;;
+895;56;Origin: Non-western background;2008;;;;
+896;56;Origin: Non-western background;2009;;;;
+897;56;Origin: Non-western background;2010 old method;;;;
+898;56;Origin: Non-western background;2010 new method;;;;
+899;56;Origin: Non-western background;2012;;;;
+900;901;Total population;2003;;;;
+901;901;Total population;2004;;;;
+902;901;Total population;2005;20.0;80.0;21.0;79.0
+903;901;Total population;2006;15.0;85.0;13.0;87.0
+904;901;Total population;2007;15.0;85.0;14.0;86.0
+905;901;Total population;2008;17.0;83.0;16.0;84.0
+906;901;Total population;2009;20.0;80.0;25.0;75.0
+907;901;Total population;2010 old method;;;;
+908;901;Total population;2010 new method;21.0;79.0;16.0;84.0
+909;901;Total population;2012;;;;
+910;901;Gender: male;2003;;;;
+911;901;Gender: male;2004;;;;
+912;901;Gender: male;2005;;;;
+913;901;Gender: male;2006;;;;
+914;901;Gender: male;2007;;;;
+915;901;Gender: male;2008;;;;
+916;901;Gender: male;2009;;;;
+917;901;Gender: male;2010 old method;;;;
+918;901;Gender: male;2010 new method;;;;
+919;901;Gender: male;2012;;;;
+920;901;Gender: female;2003;;;;
+921;901;Gender: female;2004;;;;
+922;901;Gender: female;2005;20.0;80.0;19.0;81.0
+923;901;Gender: female;2006;;;;
+924;901;Gender: female;2007;;;;
+925;901;Gender: female;2008;14.0;86.0;17.0;83.0
+926;901;Gender: female;2009;;;;
+927;901;Gender: female;2010 old method;;;;
+928;901;Gender: female;2010 new method;;;;
+929;901;Gender: female;2012;;;;
+930;901;Age: 18 to 35 years;2003;;;;
+931;901;Age: 18 to 35 years;2004;;;;
+932;901;Age: 18 to 35 years;2005;;;;
+933;901;Age: 18 to 35 years;2006;;;;
+934;901;Age: 18 to 35 years;2007;;;;
+935;901;Age: 18 to 35 years;2008;;;;
+936;901;Age: 18 to 35 years;2009;;;;
+937;901;Age: 18 to 35 years;2010 old method;;;;
+938;901;Age: 18 to 35 years;2010 new method;;;;
+939;901;Age: 18 to 35 years;2012;;;;
+940;901;Age: 35 to 50 years;2003;;;;
+941;901;Age: 35 to 50 years;2004;;;;
+942;901;Age: 35 to 50 years;2005;;;;
+943;901;Age: 35 to 50 years;2006;;;;
+944;901;Age: 35 to 50 years;2007;;;;
+945;901;Age: 35 to 50 years;2008;;;;
+946;901;Age: 35 to 50 years;2009;;;;
+947;901;Age: 35 to 50 years;2010 old method;;;;
+948;901;Age: 35 to 50 years;2010 new method;;;;
+949;901;Age: 35 to 50 years;2012;;;;
+950;901;Age: 50 to 65 years;2003;;;;
+951;901;Age: 50 to 65 years;2004;;;;
+952;901;Age: 50 to 65 years;2005;;;;
+953;901;Age: 50 to 65 years;2006;;;;
+954;901;Age: 50 to 65 years;2007;;;;
+955;901;Age: 50 to 65 years;2008;;;;
+956;901;Age: 50 to 65 years;2009;;;;
+957;901;Age: 50 to 65 years;2010 old method;;;;
+958;901;Age: 50 to 65 years;2010 new method;;;;
+959;901;Age: 50 to 65 years;2012;;;;
+960;901;Age: 65 years or older;2003;;;;
+961;901;Age: 65 years or older;2004;;;;
+962;901;Age: 65 years or older;2005;;;;
+963;901;Age: 65 years or older;2006;;;;
+964;901;Age: 65 years or older;2007;;;;
+965;901;Age: 65 years or older;2008;;;;
+966;901;Age: 65 years or older;2009;;;;
+967;901;Age: 65 years or older;2010 old method;;;;
+968;901;Age: 65 years or older;2010 new method;;;;
+969;901;Age: 65 years or older;2012;;;;
+970;901;Origin: Dutch background;2003;;;;
+971;901;Origin: Dutch background;2004;;;;
+972;901;Origin: Dutch background;2005;15.0;85.0;20.0;80.0
+973;901;Origin: Dutch background;2006;14.0;86.0;10.0;90.0
+974;901;Origin: Dutch background;2007;15.0;85.0;13.0;87.0
+975;901;Origin: Dutch background;2008;13.0;87.0;13.0;87.0
+976;901;Origin: Dutch background;2009;;;;
+977;901;Origin: Dutch background;2010 old method;;;;
+978;901;Origin: Dutch background;2010 new method;;;;
+979;901;Origin: Dutch background;2012;;;;
+980;901;Origin: Western background;2003;;;;
+981;901;Origin: Western background;2004;;;;
+982;901;Origin: Western background;2005;;;;
+983;901;Origin: Western background;2006;;;;
+984;901;Origin: Western background;2007;;;;
+985;901;Origin: Western background;2008;;;;
+986;901;Origin: Western background;2009;;;;
+987;901;Origin: Western background;2010 old method;;;;
+988;901;Origin: Western background;2010 new method;;;;
+989;901;Origin: Western background;2012;;;;
+990;901;Origin: Non-western background;2003;;;;
+991;901;Origin: Non-western background;2004;;;;
+992;901;Origin: Non-western background;2005;;;;
+993;901;Origin: Non-western background;2006;;;;
+994;901;Origin: Non-western background;2007;;;;
+995;901;Origin: Non-western background;2008;;;;
+996;901;Origin: Non-western background;2009;;;;
+997;901;Origin: Non-western background;2010 old method;;;;
+998;901;Origin: Non-western background;2010 new method;;;;
+999;901;Origin: Non-western background;2012;;;;
+1000;234;Total population;2003;;;;
+1001;234;Total population;2004;;;;
+1002;234;Total population;2005;13.0;87.0;14.0;86.0
+1003;234;Total population;2006;11.0;89.0;13.0;87.0
+1004;234;Total population;2007;11.0;89.0;12.0;88.0
+1005;234;Total population;2008;12.0;88.0;12.0;88.0
+1006;234;Total population;2009;11.0;89.0;12.0;88.0
+1007;234;Total population;2010 old method;11.0;89.0;13.0;87.0
+1008;234;Total population;2010 new method;14.0;86.0;14.0;86.0
+1009;234;Total population;2012;;;;
+1010;234;Gender: male;2003;;;;
+1011;234;Gender: male;2004;;;;
+1012;234;Gender: male;2005;13.0;87.0;14.0;86.0
+1013;234;Gender: male;2006;9.0;91.0;13.0;87.0
+1014;234;Gender: male;2007;11.0;89.0;12.0;88.0
+1015;234;Gender: male;2008;13.0;87.0;12.0;88.0
+1016;234;Gender: male;2009;10.0;90.0;12.0;88.0
+1017;234;Gender: male;2010 old method;11.0;89.0;12.0;88.0
+1018;234;Gender: male;2010 new method;14.0;86.0;15.0;85.0
+1019;234;Gender: male;2012;;;;
+1020;234;Gender: female;2003;;;;
+1021;234;Gender: female;2004;;;;
+1022;234;Gender: female;2005;13.0;87.0;13.0;87.0
+1023;234;Gender: female;2006;12.0;88.0;13.0;87.0
+1024;234;Gender: female;2007;12.0;88.0;13.0;87.0
+1025;234;Gender: female;2008;11.0;89.0;11.0;89.0
+1026;234;Gender: female;2009;12.0;88.0;12.0;88.0
+1027;234;Gender: female;2010 old method;12.0;88.0;13.0;87.0
+1028;234;Gender: female;2010 new method;14.0;86.0;14.0;86.0
+1029;234;Gender: female;2012;;;;
+1030;234;Age: 18 to 35 years;2003;;;;
+1031;234;Age: 18 to 35 years;2004;;;;
+1032;234;Age: 18 to 35 years;2005;10.0;90.0;13.0;87.0
+1033;234;Age: 18 to 35 years;2006;8.0;92.0;11.0;89.0
+1034;234;Age: 18 to 35 years;2007;9.0;91.0;10.0;90.0
+1035;234;Age: 18 to 35 years;2008;7.0;93.0;9.0;91.0
+1036;234;Age: 18 to 35 years;2009;8.0;92.0;10.0;90.0
+1037;234;Age: 18 to 35 years;2010 old method;8.0;92.0;10.0;90.0
+1038;234;Age: 18 to 35 years;2010 new method;12.0;88.0;13.0;87.0
+1039;234;Age: 18 to 35 years;2012;;;;
+1040;234;Age: 35 to 50 years;2003;;;;
+1041;234;Age: 35 to 50 years;2004;;;;
+1042;234;Age: 35 to 50 years;2005;12.0;88.0;13.0;87.0
+1043;234;Age: 35 to 50 years;2006;10.0;90.0;13.0;87.0
+1044;234;Age: 35 to 50 years;2007;10.0;90.0;13.0;87.0
+1045;234;Age: 35 to 50 years;2008;13.0;87.0;13.0;87.0
+1046;234;Age: 35 to 50 years;2009;10.0;90.0;14.0;86.0
+1047;234;Age: 35 to 50 years;2010 old method;10.0;90.0;14.0;86.0
+1048;234;Age: 35 to 50 years;2010 new method;13.0;87.0;14.0;86.0
+1049;234;Age: 35 to 50 years;2012;;;;
+1050;234;Age: 50 to 65 years;2003;;;;
+1051;234;Age: 50 to 65 years;2004;;;;
+1052;234;Age: 50 to 65 years;2005;15.0;85.0;15.0;85.0
+1053;234;Age: 50 to 65 years;2006;14.0;86.0;16.0;84.0
+1054;234;Age: 50 to 65 years;2007;13.0;87.0;14.0;86.0
+1055;234;Age: 50 to 65 years;2008;15.0;85.0;13.0;87.0
+1056;234;Age: 50 to 65 years;2009;13.0;87.0;12.0;88.0
+1057;234;Age: 50 to 65 years;2010 old method;13.0;87.0;15.0;85.0
+1058;234;Age: 50 to 65 years;2010 new method;18.0;82.0;16.0;84.0
+1059;234;Age: 50 to 65 years;2012;;;;
+1060;234;Age: 65 years or older;2003;;;;
+1061;234;Age: 65 years or older;2004;;;;
+1062;234;Age: 65 years or older;2005;18.0;82.0;13.0;87.0
+1063;234;Age: 65 years or older;2006;15.0;85.0;14.0;86.0
+1064;234;Age: 65 years or older;2007;16.0;84.0;14.0;86.0
+1065;234;Age: 65 years or older;2008;17.0;83.0;14.0;86.0
+1066;234;Age: 65 years or older;2009;16.0;84.0;11.0;89.0
+1067;234;Age: 65 years or older;2010 old method;21.0;79.0;13.0;87.0
+1068;234;Age: 65 years or older;2010 new method;18.0;82.0;15.0;85.0
+1069;234;Age: 65 years or older;2012;;;;
+1070;234;Origin: Dutch background;2003;;;;
+1071;234;Origin: Dutch background;2004;;;;
+1072;234;Origin: Dutch background;2005;11.0;89.0;12.0;88.0
+1073;234;Origin: Dutch background;2006;10.0;90.0;11.0;89.0
+1074;234;Origin: Dutch background;2007;9.0;91.0;12.0;88.0
+1075;234;Origin: Dutch background;2008;10.0;90.0;11.0;89.0
+1076;234;Origin: Dutch background;2009;10.0;90.0;10.0;90.0
+1077;234;Origin: Dutch background;2010 old method;10.0;90.0;11.0;89.0
+1078;234;Origin: Dutch background;2010 new method;13.0;87.0;14.0;86.0
+1079;234;Origin: Dutch background;2012;;;;
+1080;234;Origin: Western background;2003;;;;
+1081;234;Origin: Western background;2004;;;;
+1082;234;Origin: Western background;2005;16.0;84.0;15.0;85.0
+1083;234;Origin: Western background;2006;12.0;88.0;15.0;85.0
+1084;234;Origin: Western background;2007;16.0;84.0;15.0;85.0
+1085;234;Origin: Western background;2008;14.0;86.0;14.0;86.0
+1086;234;Origin: Western background;2009;13.0;87.0;18.0;82.0
+1087;234;Origin: Western background;2010 old method;15.0;85.0;16.0;84.0
+1088;234;Origin: Western background;2010 new method;19.0;81.0;17.0;83.0
+1089;234;Origin: Western background;2012;;;;
+1090;234;Origin: Non-western background;2003;;;;
+1091;234;Origin: Non-western background;2004;;;;
+1092;234;Origin: Non-western background;2005;27.0;73.0;26.0;74.0
+1093;234;Origin: Non-western background;2006;18.0;82.0;29.0;71.0
+1094;234;Origin: Non-western background;2007;24.0;76.0;18.0;82.0
+1095;234;Origin: Non-western background;2008;25.0;75.0;20.0;80.0
+1096;234;Origin: Non-western background;2009;19.0;81.0;21.0;79.0
+1097;234;Origin: Non-western background;2010 old method;19.0;81.0;22.0;78.0
+1098;234;Origin: Non-western background;2010 new method;24.0;76.0;16.0;84.0
+1099;234;Origin: Non-western background;2012;;;;
+1100;567;Total population;2003;;;;
+1101;567;Total population;2004;;;;
+1102;567;Total population;2005;13.0;87.0;13.0;87.0
+1103;567;Total population;2006;11.0;89.0;12.0;88.0
+1104;567;Total population;2007;12.0;88.0;12.0;88.0
+1105;567;Total population;2008;11.0;89.0;11.0;89.0
+1106;567;Total population;2009;12.0;88.0;12.0;88.0
+1107;567;Total population;2010 old method;12.0;88.0;14.0;86.0
+1108;567;Total population;2010 new method;16.0;84.0;15.0;85.0
+1109;567;Total population;2012;;;;
+1110;567;Gender: male;2003;;;;
+1111;567;Gender: male;2004;;;;
+1112;567;Gender: male;2005;12.0;88.0;12.0;88.0
+1113;567;Gender: male;2006;9.0;91.0;11.0;89.0
+1114;567;Gender: male;2007;10.0;90.0;11.0;89.0
+1115;567;Gender: male;2008;11.0;89.0;10.0;90.0
+1116;567;Gender: male;2009;9.0;91.0;11.0;89.0
+1117;567;Gender: male;2010 old method;10.0;90.0;13.0;87.0
+1118;567;Gender: male;2010 new method;13.0;87.0;14.0;86.0
+1119;567;Gender: male;2012;;;;
+1120;567;Gender: female;2003;;;;
+1121;567;Gender: female;2004;;;;
+1122;567;Gender: female;2005;14.0;86.0;14.0;86.0
+1123;567;Gender: female;2006;14.0;86.0;13.0;87.0
+1124;567;Gender: female;2007;15.0;85.0;12.0;88.0
+1125;567;Gender: female;2008;12.0;88.0;13.0;87.0
+1126;567;Gender: female;2009;16.0;84.0;13.0;87.0
+1127;567;Gender: female;2010 old method;15.0;85.0;15.0;85.0
+1128;567;Gender: female;2010 new method;19.0;81.0;16.0;84.0
+1129;567;Gender: female;2012;;;;
+1130;567;Age: 18 to 35 years;2003;;;;
+1131;567;Age: 18 to 35 years;2004;;;;
+1132;567;Age: 18 to 35 years;2005;12.0;88.0;12.0;88.0
+1133;567;Age: 18 to 35 years;2006;7.0;93.0;10.0;90.0
+1134;567;Age: 18 to 35 years;2007;9.0;91.0;8.0;92.0
+1135;567;Age: 18 to 35 years;2008;7.0;93.0;9.0;91.0
+1136;567;Age: 18 to 35 years;2009;9.0;91.0;11.0;89.0
+1137;567;Age: 18 to 35 years;2010 old method;7.0;93.0;11.0;89.0
+1138;567;Age: 18 to 35 years;2010 new method;14.0;86.0;14.0;86.0
+1139;567;Age: 18 to 35 years;2012;;;;
+1140;567;Age: 35 to 50 years;2003;;;;
+1141;567;Age: 35 to 50 years;2004;;;;
+1142;567;Age: 35 to 50 years;2005;12.0;88.0;14.0;86.0
+1143;567;Age: 35 to 50 years;2006;11.0;89.0;14.0;86.0
+1144;567;Age: 35 to 50 years;2007;10.0;90.0;11.0;89.0
+1145;567;Age: 35 to 50 years;2008;12.0;88.0;13.0;87.0
+1146;567;Age: 35 to 50 years;2009;13.0;87.0;13.0;87.0
+1147;567;Age: 35 to 50 years;2010 old method;12.0;88.0;16.0;84.0
+1148;567;Age: 35 to 50 years;2010 new method;15.0;85.0;16.0;84.0
+1149;567;Age: 35 to 50 years;2012;;;;
+1150;567;Age: 50 to 65 years;2003;;;;
+1151;567;Age: 50 to 65 years;2004;;;;
+1152;567;Age: 50 to 65 years;2005;12.0;88.0;14.0;86.0
+1153;567;Age: 50 to 65 years;2006;11.0;89.0;12.0;88.0
+1154;567;Age: 50 to 65 years;2007;13.0;87.0;12.0;88.0
+1155;567;Age: 50 to 65 years;2008;11.0;89.0;10.0;90.0
+1156;567;Age: 50 to 65 years;2009;9.0;91.0;11.0;89.0
+1157;567;Age: 50 to 65 years;2010 old method;14.0;86.0;14.0;86.0
+1158;567;Age: 50 to 65 years;2010 new method;15.0;85.0;15.0;85.0
+1159;567;Age: 50 to 65 years;2012;;;;
+1160;567;Age: 65 years or older;2003;;;;
+1161;567;Age: 65 years or older;2004;;;;
+1162;567;Age: 65 years or older;2005;15.0;85.0;12.0;88.0
+1163;567;Age: 65 years or older;2006;14.0;86.0;9.0;91.0
+1164;567;Age: 65 years or older;2007;15.0;85.0;14.0;86.0
+1165;567;Age: 65 years or older;2008;14.0;86.0;11.0;89.0
+1166;567;Age: 65 years or older;2009;16.0;84.0;12.0;88.0
+1167;567;Age: 65 years or older;2010 old method;14.0;86.0;13.0;87.0
+1168;567;Age: 65 years or older;2010 new method;19.0;81.0;14.0;86.0
+1169;567;Age: 65 years or older;2012;;;;
+1170;567;Origin: Dutch background;2003;;;;
+1171;567;Origin: Dutch background;2004;;;;
+1172;567;Origin: Dutch background;2005;10.0;90.0;12.0;88.0
+1173;567;Origin: Dutch background;2006;9.0;91.0;10.0;90.0
+1174;567;Origin: Dutch background;2007;11.0;89.0;11.0;89.0
+1175;567;Origin: Dutch background;2008;10.0;90.0;10.0;90.0
+1176;567;Origin: Dutch background;2009;10.0;90.0;10.0;90.0
+1177;567;Origin: Dutch background;2010 old method;11.0;89.0;12.0;88.0
+1178;567;Origin: Dutch background;2010 new method;15.0;85.0;14.0;86.0
+1179;567;Origin: Dutch background;2012;;;;
+1180;567;Origin: Western background;2003;;;;
+1181;567;Origin: Western background;2004;;;;
+1182;567;Origin: Western background;2005;15.0;85.0;13.0;87.0
+1183;567;Origin: Western background;2006;14.0;86.0;18.0;82.0
+1184;567;Origin: Western background;2007;11.0;89.0;13.0;87.0
+1185;567;Origin: Western background;2008;15.0;85.0;15.0;85.0
+1186;567;Origin: Western background;2009;13.0;87.0;15.0;85.0
+1187;567;Origin: Western background;2010 old method;;;;
+1188;567;Origin: Western background;2010 new method;16.0;84.0;13.0;87.0
+1189;567;Origin: Western background;2012;;;;
+1190;567;Origin: Non-western background;2003;;;;
+1191;567;Origin: Non-western background;2004;;;;
+1192;567;Origin: Non-western background;2005;30.0;70.0;27.0;73.0
+1193;567;Origin: Non-western background;2006;22.0;78.0;24.0;76.0
+1194;567;Origin: Non-western background;2007;26.0;74.0;21.0;79.0
+1195;567;Origin: Non-western background;2008;23.0;77.0;20.0;80.0
+1196;567;Origin: Non-western background;2009;30.0;70.0;26.0;74.0
+1197;567;Origin: Non-western background;2010 old method;27.0;73.0;28.0;72.0
+1198;567;Origin: Non-western background;2010 new method;25.0;75.0;26.0;74.0
+1199;567;Origin: Non-western background;2012;;;;
+1200;890;Total population;2003;;;;
+1201;890;Total population;2004;;;;
+1202;890;Total population;2005;14.0;86.0;17.0;83.0
+1203;890;Total population;2006;15.0;85.0;17.0;83.0
+1204;890;Total population;2007;17.0;83.0;19.0;81.0
+1205;890;Total population;2008;12.0;88.0;14.0;86.0
+1206;890;Total population;2009;12.0;88.0;16.0;84.0
+1207;890;Total population;2010 old method;15.0;85.0;17.0;83.0
+1208;890;Total population;2010 new method;21.0;79.0;20.0;80.0
+1209;890;Total population;2012;;;;
+1210;890;Gender: male;2003;;;;
+1211;890;Gender: male;2004;;;;
+1212;890;Gender: male;2005;11.0;89.0;17.0;83.0
+1213;890;Gender: male;2006;15.0;85.0;16.0;84.0
+1214;890;Gender: male;2007;14.0;86.0;18.0;82.0
+1215;890;Gender: male;2008;9.0;91.0;12.0;88.0
+1216;890;Gender: male;2009;12.0;88.0;16.0;84.0
+1217;890;Gender: male;2010 old method;12.0;88.0;15.0;85.0
+1218;890;Gender: male;2010 new method;18.0;82.0;19.0;81.0
+1219;890;Gender: male;2012;;;;
+1220;890;Gender: female;2003;;;;
+1221;890;Gender: female;2004;;;;
+1222;890;Gender: female;2005;15.0;85.0;16.0;84.0
+1223;890;Gender: female;2006;15.0;85.0;17.0;83.0
+1224;890;Gender: female;2007;19.0;81.0;20.0;80.0
+1225;890;Gender: female;2008;14.0;86.0;15.0;85.0
+1226;890;Gender: female;2009;13.0;87.0;16.0;84.0
+1227;890;Gender: female;2010 old method;18.0;82.0;18.0;82.0
+1228;890;Gender: female;2010 new method;24.0;76.0;21.0;79.0
+1229;890;Gender: female;2012;;;;
+1230;890;Age: 18 to 35 years;2003;;;;
+1231;890;Age: 18 to 35 years;2004;;;;
+1232;890;Age: 18 to 35 years;2005;6.0;94.0;16.0;84.0
+1233;890;Age: 18 to 35 years;2006;12.0;88.0;18.0;82.0
+1234;890;Age: 18 to 35 years;2007;;;;
+1235;890;Age: 18 to 35 years;2008;11.0;89.0;14.0;86.0
+1236;890;Age: 18 to 35 years;2009;14.0;86.0;18.0;82.0
+1237;890;Age: 18 to 35 years;2010 old method;;;;
+1238;890;Age: 18 to 35 years;2010 new method;;;;
+1239;890;Age: 18 to 35 years;2012;;;;
+1240;890;Age: 35 to 50 years;2003;;;;
+1241;890;Age: 35 to 50 years;2004;;;;
+1242;890;Age: 35 to 50 years;2005;15.0;85.0;17.0;83.0
+1243;890;Age: 35 to 50 years;2006;17.0;83.0;17.0;83.0
+1244;890;Age: 35 to 50 years;2007;14.0;86.0;20.0;80.0
+1245;890;Age: 35 to 50 years;2008;14.0;86.0;16.0;84.0
+1246;890;Age: 35 to 50 years;2009;10.0;90.0;16.0;84.0
+1247;890;Age: 35 to 50 years;2010 old method;15.0;85.0;18.0;82.0
+1248;890;Age: 35 to 50 years;2010 new method;22.0;78.0;23.0;77.0
+1249;890;Age: 35 to 50 years;2012;;;;
+1250;890;Age: 50 to 65 years;2003;;;;
+1251;890;Age: 50 to 65 years;2004;;;;
+1252;890;Age: 50 to 65 years;2005;16.0;84.0;19.0;81.0
+1253;890;Age: 50 to 65 years;2006;15.0;85.0;17.0;83.0
+1254;890;Age: 50 to 65 years;2007;19.0;81.0;18.0;82.0
+1255;890;Age: 50 to 65 years;2008;13.0;87.0;16.0;84.0
+1256;890;Age: 50 to 65 years;2009;14.0;86.0;17.0;83.0
+1257;890;Age: 50 to 65 years;2010 old method;13.0;87.0;14.0;86.0
+1258;890;Age: 50 to 65 years;2010 new method;19.0;81.0;20.0;80.0
+1259;890;Age: 50 to 65 years;2012;;;;
+1260;890;Age: 65 years or older;2003;;;;
+1261;890;Age: 65 years or older;2004;;;;
+1262;890;Age: 65 years or older;2005;13.0;87.0;12.0;88.0
+1263;890;Age: 65 years or older;2006;15.0;85.0;14.0;86.0
+1264;890;Age: 65 years or older;2007;18.0;82.0;18.0;82.0
+1265;890;Age: 65 years or older;2008;8.0;92.0;6.0;94.0
+1266;890;Age: 65 years or older;2009;13.0;87.0;14.0;86.0
+1267;890;Age: 65 years or older;2010 old method;;;;
+1268;890;Age: 65 years or older;2010 new method;;;;
+1269;890;Age: 65 years or older;2012;;;;
+1270;890;Origin: Dutch background;2003;;;;
+1271;890;Origin: Dutch background;2004;;;;
+1272;890;Origin: Dutch background;2005;11.0;89.0;15.0;85.0
+1273;890;Origin: Dutch background;2006;13.0;87.0;16.0;84.0
+1274;890;Origin: Dutch background;2007;14.0;86.0;17.0;83.0
+1275;890;Origin: Dutch background;2008;10.0;90.0;12.0;88.0
+1276;890;Origin: Dutch background;2009;12.0;88.0;14.0;86.0
+1277;890;Origin: Dutch background;2010 old method;11.0;89.0;14.0;86.0
+1278;890;Origin: Dutch background;2010 new method;20.0;80.0;20.0;80.0
+1279;890;Origin: Dutch background;2012;;;;
+1280;890;Origin: Western background;2003;;;;
+1281;890;Origin: Western background;2004;;;;
+1282;890;Origin: Western background;2005;;;;
+1283;890;Origin: Western background;2006;;;;
+1284;890;Origin: Western background;2007;;;;
+1285;890;Origin: Western background;2008;;;;
+1286;890;Origin: Western background;2009;;;;
+1287;890;Origin: Western background;2010 old method;;;;
+1288;890;Origin: Western background;2010 new method;;;;
+1289;890;Origin: Western background;2012;;;;
+1290;890;Origin: Non-western background;2003;;;;
+1291;890;Origin: Non-western background;2004;;;;
+1292;890;Origin: Non-western background;2005;;;;
+1293;890;Origin: Non-western background;2006;;;;
+1294;890;Origin: Non-western background;2007;;;;
+1295;890;Origin: Non-western background;2008;;;;
+1296;890;Origin: Non-western background;2009;19.0;81.0;29.0;71.0
+1297;890;Origin: Non-western background;2010 old method;;;;
+1298;890;Origin: Non-western background;2010 new method;;;;
+1299;890;Origin: Non-western background;2012;;;;
+1300;23;Total population;2003;;;;
+1301;23;Total population;2004;;;;
+1302;23;Total population;2005;14.0;86.0;16.0;84.0
+1303;23;Total population;2006;13.0;87.0;16.0;84.0
+1304;23;Total population;2007;13.0;87.0;14.0;86.0
+1305;23;Total population;2008;13.0;87.0;14.0;86.0
+1306;23;Total population;2009;11.0;89.0;13.0;87.0
+1307;23;Total population;2010 old method;;;;
+1308;23;Total population;2010 new method;;;;
+1309;23;Total population;2012;;;;
+1310;23;Gender: male;2003;;;;
+1311;23;Gender: male;2004;;;;
+1312;23;Gender: male;2005;13.0;87.0;15.0;85.0
+1313;23;Gender: male;2006;11.0;89.0;15.0;85.0
+1314;23;Gender: male;2007;12.0;88.0;14.0;86.0
+1315;23;Gender: male;2008;12.0;88.0;13.0;87.0
+1316;23;Gender: male;2009;8.0;92.0;11.0;89.0
+1317;23;Gender: male;2010 old method;;;;
+1318;23;Gender: male;2010 new method;;;;
+1319;23;Gender: male;2012;;;;
+1320;23;Gender: female;2003;;;;
+1321;23;Gender: female;2004;;;;
+1322;23;Gender: female;2005;16.0;84.0;17.0;83.0
+1323;23;Gender: female;2006;14.0;86.0;16.0;84.0
+1324;23;Gender: female;2007;15.0;85.0;14.0;86.0
+1325;23;Gender: female;2008;14.0;86.0;15.0;85.0
+1326;23;Gender: female;2009;14.0;86.0;15.0;85.0
+1327;23;Gender: female;2010 old method;;;;
+1328;23;Gender: female;2010 new method;;;;
+1329;23;Gender: female;2012;;;;
+1330;23;Age: 18 to 35 years;2003;;;;
+1331;23;Age: 18 to 35 years;2004;;;;
+1332;23;Age: 18 to 35 years;2005;10.0;90.0;14.0;86.0
+1333;23;Age: 18 to 35 years;2006;9.0;91.0;13.0;87.0
+1334;23;Age: 18 to 35 years;2007;9.0;91.0;9.0;91.0
+1335;23;Age: 18 to 35 years;2008;8.0;92.0;10.0;90.0
+1336;23;Age: 18 to 35 years;2009;6.0;94.0;8.0;92.0
+1337;23;Age: 18 to 35 years;2010 old method;;;;
+1338;23;Age: 18 to 35 years;2010 new method;;;;
+1339;23;Age: 18 to 35 years;2012;;;;
+1340;23;Age: 35 to 50 years;2003;;;;
+1341;23;Age: 35 to 50 years;2004;;;;
+1342;23;Age: 35 to 50 years;2005;13.0;87.0;15.0;85.0
+1343;23;Age: 35 to 50 years;2006;12.0;88.0;15.0;85.0
+1344;23;Age: 35 to 50 years;2007;10.0;90.0;13.0;87.0
+1345;23;Age: 35 to 50 years;2008;14.0;86.0;15.0;85.0
+1346;23;Age: 35 to 50 years;2009;10.0;90.0;13.0;87.0
+1347;23;Age: 35 to 50 years;2010 old method;;;;
+1348;23;Age: 35 to 50 years;2010 new method;;;;
+1349;23;Age: 35 to 50 years;2012;;;;
+1350;23;Age: 50 to 65 years;2003;;;;
+1351;23;Age: 50 to 65 years;2004;;;;
+1352;23;Age: 50 to 65 years;2005;16.0;84.0;20.0;80.0
+1353;23;Age: 50 to 65 years;2006;15.0;85.0;19.0;81.0
+1354;23;Age: 50 to 65 years;2007;16.0;84.0;17.0;83.0
+1355;23;Age: 50 to 65 years;2008;12.0;88.0;13.0;87.0
+1356;23;Age: 50 to 65 years;2009;11.0;89.0;13.0;87.0
+1357;23;Age: 50 to 65 years;2010 old method;;;;
+1358;23;Age: 50 to 65 years;2010 new method;;;;
+1359;23;Age: 50 to 65 years;2012;;;;
+1360;23;Age: 65 years or older;2003;;;;
+1361;23;Age: 65 years or older;2004;;;;
+1362;23;Age: 65 years or older;2005;20.0;80.0;15.0;85.0
+1363;23;Age: 65 years or older;2006;16.0;84.0;16.0;84.0
+1364;23;Age: 65 years or older;2007;21.0;79.0;19.0;81.0
+1365;23;Age: 65 years or older;2008;19.0;81.0;16.0;84.0
+1366;23;Age: 65 years or older;2009;18.0;82.0;17.0;83.0
+1367;23;Age: 65 years or older;2010 old method;;;;
+1368;23;Age: 65 years or older;2010 new method;;;;
+1369;23;Age: 65 years or older;2012;;;;
+1370;23;Origin: Dutch background;2003;;;;
+1371;23;Origin: Dutch background;2004;;;;
+1372;23;Origin: Dutch background;2005;12.0;88.0;14.0;86.0
+1373;23;Origin: Dutch background;2006;11.0;89.0;13.0;87.0
+1374;23;Origin: Dutch background;2007;12.0;88.0;14.0;86.0
+1375;23;Origin: Dutch background;2008;12.0;88.0;13.0;87.0
+1376;23;Origin: Dutch background;2009;11.0;89.0;12.0;88.0
+1377;23;Origin: Dutch background;2010 old method;;;;
+1378;23;Origin: Dutch background;2010 new method;;;;
+1379;23;Origin: Dutch background;2012;;;;
+1380;23;Origin: Western background;2003;;;;
+1381;23;Origin: Western background;2004;;;;
+1382;23;Origin: Western background;2005;18.0;82.0;18.0;82.0
+1383;23;Origin: Western background;2006;13.0;87.0;19.0;81.0
+1384;23;Origin: Western background;2007;15.0;85.0;15.0;85.0
+1385;23;Origin: Western background;2008;14.0;86.0;21.0;79.0
+1386;23;Origin: Western background;2009;11.0;89.0;16.0;84.0
+1387;23;Origin: Western background;2010 old method;;;;
+1388;23;Origin: Western background;2010 new method;;;;
+1389;23;Origin: Western background;2012;;;;
+1390;23;Origin: Non-western background;2003;;;;
+1391;23;Origin: Non-western background;2004;;;;
+1392;23;Origin: Non-western background;2005;33.0;67.0;32.0;68.0
+1393;23;Origin: Non-western background;2006;26.0;74.0;30.0;70.0
+1394;23;Origin: Non-western background;2007;23.0;77.0;16.0;84.0
+1395;23;Origin: Non-western background;2008;24.0;76.0;17.0;83.0
+1396;23;Origin: Non-western background;2009;16.0;84.0;18.0;82.0
+1397;23;Origin: Non-western background;2010 old method;;;;
+1398;23;Origin: Non-western background;2010 new method;;;;
+1399;23;Origin: Non-western background;2012;;;;
+1400;45;Total population;2003;;;;
+1401;45;Total population;2004;;;;
+1402;45;Total population;2005;10.0;90.0;11.0;89.0
+1403;45;Total population;2006;10.0;90.0;10.0;90.0
+1404;45;Total population;2007;10.0;90.0;10.0;90.0
+1405;45;Total population;2008;10.0;90.0;10.0;90.0
+1406;45;Total population;2009;9.0;91.0;10.0;90.0
+1407;45;Total population;2010 old method;;;;
+1408;45;Total population;2010 new method;;;;
+1409;45;Total population;2012;;;;
+1410;45;Gender: male;2003;;;;
+1411;45;Gender: male;2004;;;;
+1412;45;Gender: male;2005;9.0;91.0;11.0;89.0
+1413;45;Gender: male;2006;8.0;92.0;10.0;90.0
+1414;45;Gender: male;2007;8.0;92.0;10.0;90.0
+1415;45;Gender: male;2008;10.0;90.0;9.0;91.0
+1416;45;Gender: male;2009;8.0;92.0;10.0;90.0
+1417;45;Gender: male;2010 old method;;;;
+1418;45;Gender: male;2010 new method;;;;
+1419;45;Gender: male;2012;;;;
+1420;45;Gender: female;2003;;;;
+1421;45;Gender: female;2004;;;;
+1422;45;Gender: female;2005;11.0;89.0;11.0;89.0
+1423;45;Gender: female;2006;11.0;89.0;11.0;89.0
+1424;45;Gender: female;2007;11.0;89.0;11.0;89.0
+1425;45;Gender: female;2008;9.0;91.0;10.0;90.0
+1426;45;Gender: female;2009;11.0;89.0;11.0;89.0
+1427;45;Gender: female;2010 old method;;;;
+1428;45;Gender: female;2010 new method;;;;
+1429;45;Gender: female;2012;;;;
+1430;45;Age: 18 to 35 years;2003;;;;
+1431;45;Age: 18 to 35 years;2004;;;;
+1432;45;Age: 18 to 35 years;2005;9.0;91.0;11.0;89.0
+1433;45;Age: 18 to 35 years;2006;8.0;92.0;10.0;90.0
+1434;45;Age: 18 to 35 years;2007;8.0;92.0;11.0;89.0
+1435;45;Age: 18 to 35 years;2008;7.0;93.0;8.0;92.0
+1436;45;Age: 18 to 35 years;2009;9.0;91.0;11.0;89.0
+1437;45;Age: 18 to 35 years;2010 old method;;;;
+1438;45;Age: 18 to 35 years;2010 new method;;;;
+1439;45;Age: 18 to 35 years;2012;;;;
+1440;45;Age: 35 to 50 years;2003;;;;
+1441;45;Age: 35 to 50 years;2004;;;;
+1442;45;Age: 35 to 50 years;2005;9.0;91.0;12.0;88.0
+1443;45;Age: 35 to 50 years;2006;9.0;91.0;11.0;89.0
+1444;45;Age: 35 to 50 years;2007;8.0;92.0;12.0;88.0
+1445;45;Age: 35 to 50 years;2008;9.0;91.0;10.0;90.0
+1446;45;Age: 35 to 50 years;2009;9.0;91.0;12.0;88.0
+1447;45;Age: 35 to 50 years;2010 old method;;;;
+1448;45;Age: 35 to 50 years;2010 new method;;;;
+1449;45;Age: 35 to 50 years;2012;;;;
+1450;45;Age: 50 to 65 years;2003;;;;
+1451;45;Age: 50 to 65 years;2004;;;;
+1452;45;Age: 50 to 65 years;2005;12.0;88.0;12.0;88.0
+1453;45;Age: 50 to 65 years;2006;11.0;89.0;11.0;89.0
+1454;45;Age: 50 to 65 years;2007;11.0;89.0;10.0;90.0
+1455;45;Age: 50 to 65 years;2008;11.0;89.0;10.0;90.0
+1456;45;Age: 50 to 65 years;2009;10.0;90.0;10.0;90.0
+1457;45;Age: 50 to 65 years;2010 old method;;;;
+1458;45;Age: 50 to 65 years;2010 new method;;;;
+1459;45;Age: 50 to 65 years;2012;;;;
+1460;45;Age: 65 years or older;2003;;;;
+1461;45;Age: 65 years or older;2004;;;;
+1462;45;Age: 65 years or older;2005;11.0;89.0;8.0;92.0
+1463;45;Age: 65 years or older;2006;11.0;89.0;8.0;92.0
+1464;45;Age: 65 years or older;2007;12.0;88.0;9.0;91.0
+1465;45;Age: 65 years or older;2008;10.0;90.0;10.0;90.0
+1466;45;Age: 65 years or older;2009;10.0;90.0;8.0;92.0
+1467;45;Age: 65 years or older;2010 old method;;;;
+1468;45;Age: 65 years or older;2010 new method;;;;
+1469;45;Age: 65 years or older;2012;;;;
+1470;45;Origin: Dutch background;2003;;;;
+1471;45;Origin: Dutch background;2004;;;;
+1472;45;Origin: Dutch background;2005;10.0;90.0;11.0;89.0
+1473;45;Origin: Dutch background;2006;9.0;91.0;9.0;91.0
+1474;45;Origin: Dutch background;2007;8.0;92.0;10.0;90.0
+1475;45;Origin: Dutch background;2008;9.0;91.0;9.0;91.0
+1476;45;Origin: Dutch background;2009;9.0;91.0;9.0;91.0
+1477;45;Origin: Dutch background;2010 old method;;;;
+1478;45;Origin: Dutch background;2010 new method;;;;
+1479;45;Origin: Dutch background;2012;;;;
+1480;45;Origin: Western background;2003;;;;
+1481;45;Origin: Western background;2004;;;;
+1482;45;Origin: Western background;2005;14.0;86.0;14.0;86.0
+1483;45;Origin: Western background;2006;13.0;87.0;11.0;89.0
+1484;45;Origin: Western background;2007;15.0;85.0;14.0;86.0
+1485;45;Origin: Western background;2008;14.0;86.0;11.0;89.0
+1486;45;Origin: Western background;2009;10.0;90.0;15.0;85.0
+1487;45;Origin: Western background;2010 old method;;;;
+1488;45;Origin: Western background;2010 new method;;;;
+1489;45;Origin: Western background;2012;;;;
+1490;45;Origin: Non-western background;2003;;;;
+1491;45;Origin: Non-western background;2004;;;;
+1492;45;Origin: Non-western background;2005;14.0;86.0;13.0;87.0
+1493;45;Origin: Non-western background;2006;16.0;84.0;24.0;76.0
+1494;45;Origin: Non-western background;2007;20.0;80.0;19.0;81.0
+1495;45;Origin: Non-western background;2008;16.0;84.0;14.0;86.0
+1496;45;Origin: Non-western background;2009;19.0;81.0;22.0;78.0
+1497;45;Origin: Non-western background;2010 old method;;;;
+1498;45;Origin: Non-western background;2010 new method;;;;
+1499;45;Origin: Non-western background;2012;;;;

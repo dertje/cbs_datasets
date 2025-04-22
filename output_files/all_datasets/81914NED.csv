@@ -1,0 +1,92 @@
+﻿ID;Vervoerwijzen;Perioden;TotaalGoederenvervoer_1;BinnenlandsGoederenvervoer_2;Totaal_3;AanvoerNaarNederland_4;AfvoerNaarBuitenland_5
+0;Totaal alle vervoerwijzen;1998;1391;530.0;861;465;396
+1;Totaal alle vervoerwijzen;1999;1434;587.0;847;453;393
+2;Totaal alle vervoerwijzen;2000;1447;575.0;872;468;404
+3;Totaal alle vervoerwijzen;2001;1488;586.0;902;486;417
+4;Totaal alle vervoerwijzen;2002;1459;557.0;902;482;420
+5;Totaal alle vervoerwijzen;2003;1522;620.0;901;486;416
+6;Totaal alle vervoerwijzen;2004;1621;637.0;984;527;458
+7;Totaal alle vervoerwijzen;2005;1639;640.0;998;542;457
+8;Totaal alle vervoerwijzen;2006;1683;648.0;1035;562;473
+9;Totaal alle vervoerwijzen;2007;1756;678.0;1078;587;492
+10;Totaal alle vervoerwijzen;2008;1747;650.0;1096;602;494
+11;Totaal alle vervoerwijzen;2009;1607;652.0;955;515;441
+12;Totaal alle vervoerwijzen;2010;1646;602.0;1044;571;473
+13;Zeevaart;1998;406;;406;320;86
+14;Zeevaart;1999;397;;397;305;92
+15;Zeevaart;2000;424;;424;325;99
+16;Zeevaart;2001;424;;424;326;98
+17;Zeevaart;2002;432;;432;327;105
+18;Zeevaart;2003;431;;431;329;102
+19;Zeevaart;2004;464;;464;351;113
+20;Zeevaart;2005;487;;487;364;122
+21;Zeevaart;2006;505;;505;373;131
+22;Zeevaart;2007;537;;537;392;145
+23;Zeevaart;2008;560;;560;412;148
+24;Zeevaart;2009;510;;510;356;153
+25;Zeevaart;2010;568;;568;402;166
+26;Binnenvaart;1998;282;98.0;184;52;132
+27;Binnenvaart;1999;275;99.0;176;53;124
+28;Binnenvaart;2000;275;102.0;173;50;123
+29;Binnenvaart;2001;295;109.0;186;56;131
+30;Binnenvaart;2002;279;102.0;177;53;123
+31;Binnenvaart;2003;262;95.0;167;51;116
+32;Binnenvaart;2004;285;99.0;186;60;125
+33;Binnenvaart;2005;279;95.0;184;61;123
+34;Binnenvaart;2006;287;97.0;190;64;126
+35;Binnenvaart;2007;295;102.0;193;69;124
+36;Binnenvaart;2008;285;97.0;188;66;122
+37;Binnenvaart;2009;236;92.0;145;56;88
+38;Binnenvaart;2010;263;93.0;170;67;103
+39;Wegvervoer;1998;568;428.0;140;69;71
+40;Wegvervoer;1999;627;483.0;144;71;73
+41;Wegvervoer;2000;614;468.0;146;71;75
+42;Wegvervoer;2001;624;473.0;151;75;76
+43;Wegvervoer;2002;598;450.0;148;73;75
+44;Wegvervoer;2003;672;519.0;152;76;77
+45;Wegvervoer;2004;705;532.0;173;83;90
+46;Wegvervoer;2005;711;539.0;172;82;90
+47;Wegvervoer;2006;728;545.0;183;88;95
+48;Wegvervoer;2007;758;570.0;188;90;98
+49;Wegvervoer;2008;734;548.0;186;90;96
+50;Wegvervoer;2009;726;556.0;170;81;89
+51;Wegvervoer;2010;670;504.0;166;79;87
+52;Spoorvervoer;1998;25;4.0;20;7;13
+53;Spoorvervoer;1999;25;5.0;21;7;14
+54;Spoorvervoer;2000;28;5.0;23;8;15
+55;Spoorvervoer;2001;26;4.0;22;7;15
+56;Spoorvervoer;2002;28;6.0;22;7;15
+57;Spoorvervoer;2003;30;6.0;24;7;17
+58;Spoorvervoer;2004;33;6.0;27;7;20
+59;Spoorvervoer;2005;34;6.0;28;8;20
+60;Spoorvervoer;2006;37;6.0;31;8;23
+61;Spoorvervoer;2007;39;6.0;34;9;25
+62;Spoorvervoer;2008;38;5.0;33;9;24
+63;Spoorvervoer;2009;31;5.0;27;7;19
+64;Spoorvervoer;2010;33;5.0;29;8;21
+65;Luchtvaart;1998;1;;1;1;1
+66;Luchtvaart;1999;1;;1;1;1
+67;Luchtvaart;2000;1;;1;1;1
+68;Luchtvaart;2001;1;;1;1;1
+69;Luchtvaart;2002;1;;1;1;1
+70;Luchtvaart;2003;1;;1;1;1
+71;Luchtvaart;2004;2;;2;1;1
+72;Luchtvaart;2005;2;;2;1;1
+73;Luchtvaart;2006;2;;2;1;1
+74;Luchtvaart;2007;2;;2;1;1
+75;Luchtvaart;2008;2;;2;1;1
+76;Luchtvaart;2009;1;;1;1;1
+77;Luchtvaart;2010;2;;2;1;1
+78;Pijpleidingvervoer grensoverschrijdend;1998;109;;109;16;93
+79;Pijpleidingvervoer grensoverschrijdend;1999;108;;108;17;91
+80;Pijpleidingvervoer grensoverschrijdend;2000;104;;104;13;91
+81;Pijpleidingvervoer grensoverschrijdend;2001;118;;118;21;97
+82;Pijpleidingvervoer grensoverschrijdend;2002;121;;121;21;101
+83;Pijpleidingvervoer grensoverschrijdend;2003;126;;126;23;103
+84;Pijpleidingvervoer grensoverschrijdend;2004;133;;133;25;109
+85;Pijpleidingvervoer grensoverschrijdend;2005;126;;126;26;100
+86;Pijpleidingvervoer grensoverschrijdend;2006;125;;125;27;98
+87;Pijpleidingvervoer grensoverschrijdend;2007;125;;125;26;99
+88;Pijpleidingvervoer grensoverschrijdend;2008;127;;127;24;103
+89;Pijpleidingvervoer grensoverschrijdend;2009;103;;103;13;90
+90;Pijpleidingvervoer grensoverschrijdend;2010;110;;110;15;95
