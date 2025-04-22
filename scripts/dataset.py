@@ -20,7 +20,26 @@ class CBSDataSet:
         return ET.fromstring(response.content)
 
     def get_flat_entries(self):
-        return self.typed_root.findall('atom:entry', self.namespaces)
+        all_entries = []
+        url = f"{self.base_url}/TypedDataSet"
+        
+        while True:
+            response = requests.get(url)
+            response.raise_for_status()
+
+            root = ET.fromstring(response.content)
+            entries = root.findall('atom:entry', self.namespaces)
+            all_entries.extend(entries)
+
+            # Zoek naar de volgende skiptoken
+            next_link_elem = root.find(".//atom:link[@rel='next']", self.namespaces)
+            if next_link_elem is not None:
+                url = next_link_elem.attrib['href']
+            else:
+                break
+
+        return all_entries
+
 
     def get_table_info_entry(self):
         return self.table_info_root.find('atom:entry', self.namespaces)

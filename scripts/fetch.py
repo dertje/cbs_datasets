@@ -10,7 +10,7 @@ def get_datasets_names(url: str):
     dataset_names = []
 
     for link in dataset_links:
-        match = re.search(r'/ODataFeed/OData/([^/]+)', link['href'])
+        match = re.search(r'/ODataFeed/OData/([^/]+)', link['href']) # TODO match to not get english sets
         if match:
             dataset_names.append(match.group(1).strip())
 

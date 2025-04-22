@@ -19,7 +19,7 @@ def process_table_info(dataset_name: str):
         return None  # Mark as failed
 
 def get_table_info_values(dataset):
-    entry = dataset.get_table_info_entry() # TODO add check for if dataset does not have entry (then it should skip it)
+    entry = dataset.get_table_info_entry()
     namespaces = dataset.namespaces
     row = {}
 
@@ -36,7 +36,7 @@ def get_table_info_values(dataset):
         elif child.text and child.text.strip():
             row[tag] = child.text.strip()
         else:
-            # Optionally extract attributes (e.g. link href)
+            # Extract attributes (e.g. link href)
             if tag == "link":
                 href = child.attrib.get("href")
                 if href:
