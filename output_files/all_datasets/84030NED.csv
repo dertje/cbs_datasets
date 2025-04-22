@@ -1,0 +1,1591 @@
+﻿ID;KenmerkenArbeidsongeval;Marges;Perioden;Arbeidsongeval4DagenVerzuimOfMeer_1
+0;Totaal;Waarde;2014;88.0
+1;Totaal;Waarde;2015;73.0
+2;Totaal;Waarde;2016;81.0
+3;Totaal;Waarde;2017;93.0
+4;Totaal;Waarde;2018;91.0
+5;Totaal;Waarde;2019;93.0
+6;Totaal;Waarde;2020;77.0
+7;Totaal;Waarde;2021;82.0
+8;Totaal;Waarde;2022;85.0
+9;Totaal;Waarde;2023;85.0
+10;Totaal;Ondergrens 95%-interval;2014;80.0
+11;Totaal;Ondergrens 95%-interval;2015;66.0
+12;Totaal;Ondergrens 95%-interval;2016;74.0
+13;Totaal;Ondergrens 95%-interval;2017;86.0
+14;Totaal;Ondergrens 95%-interval;2018;85.0
+15;Totaal;Ondergrens 95%-interval;2019;86.0
+16;Totaal;Ondergrens 95%-interval;2020;71.0
+17;Totaal;Ondergrens 95%-interval;2021;76.0
+18;Totaal;Ondergrens 95%-interval;2022;78.0
+19;Totaal;Ondergrens 95%-interval;2023;78.0
+20;Totaal;Bovengrens 95%-interval;2014;96.0
+21;Totaal;Bovengrens 95%-interval;2015;80.0
+22;Totaal;Bovengrens 95%-interval;2016;89.0
+23;Totaal;Bovengrens 95%-interval;2017;102.0
+24;Totaal;Bovengrens 95%-interval;2018;98.0
+25;Totaal;Bovengrens 95%-interval;2019;100.0
+26;Totaal;Bovengrens 95%-interval;2020;83.0
+27;Totaal;Bovengrens 95%-interval;2021;90.0
+28;Totaal;Bovengrens 95%-interval;2022;92.0
+29;Totaal;Bovengrens 95%-interval;2023;92.0
+30;Oorzaak: ergens aan gesneden of gestoten;Waarde;2014;
+31;Oorzaak: ergens aan gesneden of gestoten;Waarde;2015;
+32;Oorzaak: ergens aan gesneden of gestoten;Waarde;2016;
+33;Oorzaak: ergens aan gesneden of gestoten;Waarde;2017;8.0
+34;Oorzaak: ergens aan gesneden of gestoten;Waarde;2018;7.0
+35;Oorzaak: ergens aan gesneden of gestoten;Waarde;2019;6.0
+36;Oorzaak: ergens aan gesneden of gestoten;Waarde;2020;6.0
+37;Oorzaak: ergens aan gesneden of gestoten;Waarde;2021;5.0
+38;Oorzaak: ergens aan gesneden of gestoten;Waarde;2022;5.0
+39;Oorzaak: ergens aan gesneden of gestoten;Waarde;2023;7.0
+40;Oorzaak: ergens aan gesneden of gestoten;Ondergrens 95%-interval;2014;
+41;Oorzaak: ergens aan gesneden of gestoten;Ondergrens 95%-interval;2015;
+42;Oorzaak: ergens aan gesneden of gestoten;Ondergrens 95%-interval;2016;
+43;Oorzaak: ergens aan gesneden of gestoten;Ondergrens 95%-interval;2017;6.0
+44;Oorzaak: ergens aan gesneden of gestoten;Ondergrens 95%-interval;2018;6.0
+45;Oorzaak: ergens aan gesneden of gestoten;Ondergrens 95%-interval;2019;5.0
+46;Oorzaak: ergens aan gesneden of gestoten;Ondergrens 95%-interval;2020;4.0
+47;Oorzaak: ergens aan gesneden of gestoten;Ondergrens 95%-interval;2021;4.0
+48;Oorzaak: ergens aan gesneden of gestoten;Ondergrens 95%-interval;2022;4.0
+49;Oorzaak: ergens aan gesneden of gestoten;Ondergrens 95%-interval;2023;5.0
+50;Oorzaak: ergens aan gesneden of gestoten;Bovengrens 95%-interval;2014;
+51;Oorzaak: ergens aan gesneden of gestoten;Bovengrens 95%-interval;2015;
+52;Oorzaak: ergens aan gesneden of gestoten;Bovengrens 95%-interval;2016;
+53;Oorzaak: ergens aan gesneden of gestoten;Bovengrens 95%-interval;2017;10.0
+54;Oorzaak: ergens aan gesneden of gestoten;Bovengrens 95%-interval;2018;9.0
+55;Oorzaak: ergens aan gesneden of gestoten;Bovengrens 95%-interval;2019;8.0
+56;Oorzaak: ergens aan gesneden of gestoten;Bovengrens 95%-interval;2020;8.0
+57;Oorzaak: ergens aan gesneden of gestoten;Bovengrens 95%-interval;2021;7.0
+58;Oorzaak: ergens aan gesneden of gestoten;Bovengrens 95%-interval;2022;7.0
+59;Oorzaak: ergens aan gesneden of gestoten;Bovengrens 95%-interval;2023;9.0
+60;Oorzaak: door een voorwerp geraakt;Waarde;2014;
+61;Oorzaak: door een voorwerp geraakt;Waarde;2015;
+62;Oorzaak: door een voorwerp geraakt;Waarde;2016;
+63;Oorzaak: door een voorwerp geraakt;Waarde;2017;7.0
+64;Oorzaak: door een voorwerp geraakt;Waarde;2018;7.0
+65;Oorzaak: door een voorwerp geraakt;Waarde;2019;7.0
+66;Oorzaak: door een voorwerp geraakt;Waarde;2020;5.0
+67;Oorzaak: door een voorwerp geraakt;Waarde;2021;3.0
+68;Oorzaak: door een voorwerp geraakt;Waarde;2022;5.0
+69;Oorzaak: door een voorwerp geraakt;Waarde;2023;4.0
+70;Oorzaak: door een voorwerp geraakt;Ondergrens 95%-interval;2014;
+71;Oorzaak: door een voorwerp geraakt;Ondergrens 95%-interval;2015;
+72;Oorzaak: door een voorwerp geraakt;Ondergrens 95%-interval;2016;
+73;Oorzaak: door een voorwerp geraakt;Ondergrens 95%-interval;2017;5.0
+74;Oorzaak: door een voorwerp geraakt;Ondergrens 95%-interval;2018;6.0
+75;Oorzaak: door een voorwerp geraakt;Ondergrens 95%-interval;2019;5.0
+76;Oorzaak: door een voorwerp geraakt;Ondergrens 95%-interval;2020;4.0
+77;Oorzaak: door een voorwerp geraakt;Ondergrens 95%-interval;2021;2.0
+78;Oorzaak: door een voorwerp geraakt;Ondergrens 95%-interval;2022;4.0
+79;Oorzaak: door een voorwerp geraakt;Ondergrens 95%-interval;2023;3.0
+80;Oorzaak: door een voorwerp geraakt;Bovengrens 95%-interval;2014;
+81;Oorzaak: door een voorwerp geraakt;Bovengrens 95%-interval;2015;
+82;Oorzaak: door een voorwerp geraakt;Bovengrens 95%-interval;2016;
+83;Oorzaak: door een voorwerp geraakt;Bovengrens 95%-interval;2017;9.0
+84;Oorzaak: door een voorwerp geraakt;Bovengrens 95%-interval;2018;10.0
+85;Oorzaak: door een voorwerp geraakt;Bovengrens 95%-interval;2019;9.0
+86;Oorzaak: door een voorwerp geraakt;Bovengrens 95%-interval;2020;7.0
+87;Oorzaak: door een voorwerp geraakt;Bovengrens 95%-interval;2021;5.0
+88;Oorzaak: door een voorwerp geraakt;Bovengrens 95%-interval;2022;7.0
+89;Oorzaak: door een voorwerp geraakt;Bovengrens 95%-interval;2023;6.0
+90;Oorzaak: een beknelling;Waarde;2014;
+91;Oorzaak: een beknelling;Waarde;2015;
+92;Oorzaak: een beknelling;Waarde;2016;
+93;Oorzaak: een beknelling;Waarde;2017;4.0
+94;Oorzaak: een beknelling;Waarde;2018;6.0
+95;Oorzaak: een beknelling;Waarde;2019;5.0
+96;Oorzaak: een beknelling;Waarde;2020;6.0
+97;Oorzaak: een beknelling;Waarde;2021;4.0
+98;Oorzaak: een beknelling;Waarde;2022;5.0
+99;Oorzaak: een beknelling;Waarde;2023;5.0
+100;Oorzaak: een beknelling;Ondergrens 95%-interval;2014;
+101;Oorzaak: een beknelling;Ondergrens 95%-interval;2015;
+102;Oorzaak: een beknelling;Ondergrens 95%-interval;2016;
+103;Oorzaak: een beknelling;Ondergrens 95%-interval;2017;3.0
+104;Oorzaak: een beknelling;Ondergrens 95%-interval;2018;4.0
+105;Oorzaak: een beknelling;Ondergrens 95%-interval;2019;4.0
+106;Oorzaak: een beknelling;Ondergrens 95%-interval;2020;4.0
+107;Oorzaak: een beknelling;Ondergrens 95%-interval;2021;2.0
+108;Oorzaak: een beknelling;Ondergrens 95%-interval;2022;4.0
+109;Oorzaak: een beknelling;Ondergrens 95%-interval;2023;3.0
+110;Oorzaak: een beknelling;Bovengrens 95%-interval;2014;
+111;Oorzaak: een beknelling;Bovengrens 95%-interval;2015;
+112;Oorzaak: een beknelling;Bovengrens 95%-interval;2016;
+113;Oorzaak: een beknelling;Bovengrens 95%-interval;2017;7.0
+114;Oorzaak: een beknelling;Bovengrens 95%-interval;2018;8.0
+115;Oorzaak: een beknelling;Bovengrens 95%-interval;2019;7.0
+116;Oorzaak: een beknelling;Bovengrens 95%-interval;2020;8.0
+117;Oorzaak: een beknelling;Bovengrens 95%-interval;2021;5.0
+118;Oorzaak: een beknelling;Bovengrens 95%-interval;2022;7.0
+119;Oorzaak: een beknelling;Bovengrens 95%-interval;2023;6.0
+120;Oorzaak: val van hoogte;Waarde;2014;
+121;Oorzaak: val van hoogte;Waarde;2015;
+122;Oorzaak: val van hoogte;Waarde;2016;
+123;Oorzaak: val van hoogte;Waarde;2017;5.0
+124;Oorzaak: val van hoogte;Waarde;2018;3.0
+125;Oorzaak: val van hoogte;Waarde;2019;4.0
+126;Oorzaak: val van hoogte;Waarde;2020;5.0
+127;Oorzaak: val van hoogte;Waarde;2021;5.0
+128;Oorzaak: val van hoogte;Waarde;2022;2.0
+129;Oorzaak: val van hoogte;Waarde;2023;5.0
+130;Oorzaak: val van hoogte;Ondergrens 95%-interval;2014;
+131;Oorzaak: val van hoogte;Ondergrens 95%-interval;2015;
+132;Oorzaak: val van hoogte;Ondergrens 95%-interval;2016;
+133;Oorzaak: val van hoogte;Ondergrens 95%-interval;2017;3.0
+134;Oorzaak: val van hoogte;Ondergrens 95%-interval;2018;2.0
+135;Oorzaak: val van hoogte;Ondergrens 95%-interval;2019;3.0
+136;Oorzaak: val van hoogte;Ondergrens 95%-interval;2020;4.0
+137;Oorzaak: val van hoogte;Ondergrens 95%-interval;2021;4.0
+138;Oorzaak: val van hoogte;Ondergrens 95%-interval;2022;1.0
+139;Oorzaak: val van hoogte;Ondergrens 95%-interval;2023;4.0
+140;Oorzaak: val van hoogte;Bovengrens 95%-interval;2014;
+141;Oorzaak: val van hoogte;Bovengrens 95%-interval;2015;
+142;Oorzaak: val van hoogte;Bovengrens 95%-interval;2016;
+143;Oorzaak: val van hoogte;Bovengrens 95%-interval;2017;7.0
+144;Oorzaak: val van hoogte;Bovengrens 95%-interval;2018;5.0
+145;Oorzaak: val van hoogte;Bovengrens 95%-interval;2019;6.0
+146;Oorzaak: val van hoogte;Bovengrens 95%-interval;2020;7.0
+147;Oorzaak: val van hoogte;Bovengrens 95%-interval;2021;7.0
+148;Oorzaak: val van hoogte;Bovengrens 95%-interval;2022;4.0
+149;Oorzaak: val van hoogte;Bovengrens 95%-interval;2023;7.0
+150;Oorzaak: uitglijden, struikelen of  val;Waarde;2014;
+151;Oorzaak: uitglijden, struikelen of  val;Waarde;2015;
+152;Oorzaak: uitglijden, struikelen of  val;Waarde;2016;
+153;Oorzaak: uitglijden, struikelen of  val;Waarde;2017;12.0
+154;Oorzaak: uitglijden, struikelen of  val;Waarde;2018;14.0
+155;Oorzaak: uitglijden, struikelen of  val;Waarde;2019;13.0
+156;Oorzaak: uitglijden, struikelen of  val;Waarde;2020;12.0
+157;Oorzaak: uitglijden, struikelen of  val;Waarde;2021;13.0
+158;Oorzaak: uitglijden, struikelen of  val;Waarde;2022;13.0
+159;Oorzaak: uitglijden, struikelen of  val;Waarde;2023;10.0
+160;Oorzaak: uitglijden, struikelen of  val;Ondergrens 95%-interval;2014;
+161;Oorzaak: uitglijden, struikelen of  val;Ondergrens 95%-interval;2015;
+162;Oorzaak: uitglijden, struikelen of  val;Ondergrens 95%-interval;2016;
+163;Oorzaak: uitglijden, struikelen of  val;Ondergrens 95%-interval;2017;10.0
+164;Oorzaak: uitglijden, struikelen of  val;Ondergrens 95%-interval;2018;11.0
+165;Oorzaak: uitglijden, struikelen of  val;Ondergrens 95%-interval;2019;11.0
+166;Oorzaak: uitglijden, struikelen of  val;Ondergrens 95%-interval;2020;10.0
+167;Oorzaak: uitglijden, struikelen of  val;Ondergrens 95%-interval;2021;10.0
+168;Oorzaak: uitglijden, struikelen of  val;Ondergrens 95%-interval;2022;11.0
+169;Oorzaak: uitglijden, struikelen of  val;Ondergrens 95%-interval;2023;8.0
+170;Oorzaak: uitglijden, struikelen of  val;Bovengrens 95%-interval;2014;
+171;Oorzaak: uitglijden, struikelen of  val;Bovengrens 95%-interval;2015;
+172;Oorzaak: uitglijden, struikelen of  val;Bovengrens 95%-interval;2016;
+173;Oorzaak: uitglijden, struikelen of  val;Bovengrens 95%-interval;2017;15.0
+174;Oorzaak: uitglijden, struikelen of  val;Bovengrens 95%-interval;2018;16.0
+175;Oorzaak: uitglijden, struikelen of  val;Bovengrens 95%-interval;2019;16.0
+176;Oorzaak: uitglijden, struikelen of  val;Bovengrens 95%-interval;2020;15.0
+177;Oorzaak: uitglijden, struikelen of  val;Bovengrens 95%-interval;2021;16.0
+178;Oorzaak: uitglijden, struikelen of  val;Bovengrens 95%-interval;2022;16.0
+179;Oorzaak: uitglijden, struikelen of  val;Bovengrens 95%-interval;2023;13.0
+180;Oorzaak: bedreigd, gebeten, geschopt;Waarde;2014;
+181;Oorzaak: bedreigd, gebeten, geschopt;Waarde;2015;
+182;Oorzaak: bedreigd, gebeten, geschopt;Waarde;2016;
+183;Oorzaak: bedreigd, gebeten, geschopt;Waarde;2017;3.0
+184;Oorzaak: bedreigd, gebeten, geschopt;Waarde;2018;3.0
+185;Oorzaak: bedreigd, gebeten, geschopt;Waarde;2019;3.0
+186;Oorzaak: bedreigd, gebeten, geschopt;Waarde;2020;3.0
+187;Oorzaak: bedreigd, gebeten, geschopt;Waarde;2021;4.0
+188;Oorzaak: bedreigd, gebeten, geschopt;Waarde;2022;3.0
+189;Oorzaak: bedreigd, gebeten, geschopt;Waarde;2023;4.0
+190;Oorzaak: bedreigd, gebeten, geschopt;Ondergrens 95%-interval;2014;
+191;Oorzaak: bedreigd, gebeten, geschopt;Ondergrens 95%-interval;2015;
+192;Oorzaak: bedreigd, gebeten, geschopt;Ondergrens 95%-interval;2016;
+193;Oorzaak: bedreigd, gebeten, geschopt;Ondergrens 95%-interval;2017;2.0
+194;Oorzaak: bedreigd, gebeten, geschopt;Ondergrens 95%-interval;2018;2.0
+195;Oorzaak: bedreigd, gebeten, geschopt;Ondergrens 95%-interval;2019;2.0
+196;Oorzaak: bedreigd, gebeten, geschopt;Ondergrens 95%-interval;2020;2.0
+197;Oorzaak: bedreigd, gebeten, geschopt;Ondergrens 95%-interval;2021;3.0
+198;Oorzaak: bedreigd, gebeten, geschopt;Ondergrens 95%-interval;2022;2.0
+199;Oorzaak: bedreigd, gebeten, geschopt;Ondergrens 95%-interval;2023;2.0
+200;Oorzaak: bedreigd, gebeten, geschopt;Bovengrens 95%-interval;2014;
+201;Oorzaak: bedreigd, gebeten, geschopt;Bovengrens 95%-interval;2015;
+202;Oorzaak: bedreigd, gebeten, geschopt;Bovengrens 95%-interval;2016;
+203;Oorzaak: bedreigd, gebeten, geschopt;Bovengrens 95%-interval;2017;4.0
+204;Oorzaak: bedreigd, gebeten, geschopt;Bovengrens 95%-interval;2018;5.0
+205;Oorzaak: bedreigd, gebeten, geschopt;Bovengrens 95%-interval;2019;4.0
+206;Oorzaak: bedreigd, gebeten, geschopt;Bovengrens 95%-interval;2020;5.0
+207;Oorzaak: bedreigd, gebeten, geschopt;Bovengrens 95%-interval;2021;6.0
+208;Oorzaak: bedreigd, gebeten, geschopt;Bovengrens 95%-interval;2022;4.0
+209;Oorzaak: bedreigd, gebeten, geschopt;Bovengrens 95%-interval;2023;5.0
+210;Oorzaak: stroom, hitte, kou, lawaai...;Waarde;2014;
+211;Oorzaak: stroom, hitte, kou, lawaai...;Waarde;2015;
+212;Oorzaak: stroom, hitte, kou, lawaai...;Waarde;2016;
+213;Oorzaak: stroom, hitte, kou, lawaai...;Waarde;2017;0.0
+214;Oorzaak: stroom, hitte, kou, lawaai...;Waarde;2018;1.0
+215;Oorzaak: stroom, hitte, kou, lawaai...;Waarde;2019;3.0
+216;Oorzaak: stroom, hitte, kou, lawaai...;Waarde;2020;0.0
+217;Oorzaak: stroom, hitte, kou, lawaai...;Waarde;2021;1.0
+218;Oorzaak: stroom, hitte, kou, lawaai...;Waarde;2022;1.0
+219;Oorzaak: stroom, hitte, kou, lawaai...;Waarde;2023;1.0
+220;Oorzaak: stroom, hitte, kou, lawaai...;Ondergrens 95%-interval;2014;
+221;Oorzaak: stroom, hitte, kou, lawaai...;Ondergrens 95%-interval;2015;
+222;Oorzaak: stroom, hitte, kou, lawaai...;Ondergrens 95%-interval;2016;
+223;Oorzaak: stroom, hitte, kou, lawaai...;Ondergrens 95%-interval;2017;0.0
+224;Oorzaak: stroom, hitte, kou, lawaai...;Ondergrens 95%-interval;2018;1.0
+225;Oorzaak: stroom, hitte, kou, lawaai...;Ondergrens 95%-interval;2019;2.0
+226;Oorzaak: stroom, hitte, kou, lawaai...;Ondergrens 95%-interval;2020;0.0
+227;Oorzaak: stroom, hitte, kou, lawaai...;Ondergrens 95%-interval;2021;1.0
+228;Oorzaak: stroom, hitte, kou, lawaai...;Ondergrens 95%-interval;2022;1.0
+229;Oorzaak: stroom, hitte, kou, lawaai...;Ondergrens 95%-interval;2023;1.0
+230;Oorzaak: stroom, hitte, kou, lawaai...;Bovengrens 95%-interval;2014;
+231;Oorzaak: stroom, hitte, kou, lawaai...;Bovengrens 95%-interval;2015;
+232;Oorzaak: stroom, hitte, kou, lawaai...;Bovengrens 95%-interval;2016;
+233;Oorzaak: stroom, hitte, kou, lawaai...;Bovengrens 95%-interval;2017;2.0
+234;Oorzaak: stroom, hitte, kou, lawaai...;Bovengrens 95%-interval;2018;2.0
+235;Oorzaak: stroom, hitte, kou, lawaai...;Bovengrens 95%-interval;2019;4.0
+236;Oorzaak: stroom, hitte, kou, lawaai...;Bovengrens 95%-interval;2020;1.0
+237;Oorzaak: stroom, hitte, kou, lawaai...;Bovengrens 95%-interval;2021;3.0
+238;Oorzaak: stroom, hitte, kou, lawaai...;Bovengrens 95%-interval;2022;3.0
+239;Oorzaak: stroom, hitte, kou, lawaai...;Bovengrens 95%-interval;2023;3.0
+240;Oorzaak: fysieke overbelasting;Waarde;2014;
+241;Oorzaak: fysieke overbelasting;Waarde;2015;
+242;Oorzaak: fysieke overbelasting;Waarde;2016;
+243;Oorzaak: fysieke overbelasting;Waarde;2017;15.0
+244;Oorzaak: fysieke overbelasting;Waarde;2018;13.0
+245;Oorzaak: fysieke overbelasting;Waarde;2019;11.0
+246;Oorzaak: fysieke overbelasting;Waarde;2020;11.0
+247;Oorzaak: fysieke overbelasting;Waarde;2021;13.0
+248;Oorzaak: fysieke overbelasting;Waarde;2022;13.0
+249;Oorzaak: fysieke overbelasting;Waarde;2023;10.0
+250;Oorzaak: fysieke overbelasting;Ondergrens 95%-interval;2014;
+251;Oorzaak: fysieke overbelasting;Ondergrens 95%-interval;2015;
+252;Oorzaak: fysieke overbelasting;Ondergrens 95%-interval;2016;
+253;Oorzaak: fysieke overbelasting;Ondergrens 95%-interval;2017;12.0
+254;Oorzaak: fysieke overbelasting;Ondergrens 95%-interval;2018;11.0
+255;Oorzaak: fysieke overbelasting;Ondergrens 95%-interval;2019;9.0
+256;Oorzaak: fysieke overbelasting;Ondergrens 95%-interval;2020;9.0
+257;Oorzaak: fysieke overbelasting;Ondergrens 95%-interval;2021;10.0
+258;Oorzaak: fysieke overbelasting;Ondergrens 95%-interval;2022;11.0
+259;Oorzaak: fysieke overbelasting;Ondergrens 95%-interval;2023;8.0
+260;Oorzaak: fysieke overbelasting;Bovengrens 95%-interval;2014;
+261;Oorzaak: fysieke overbelasting;Bovengrens 95%-interval;2015;
+262;Oorzaak: fysieke overbelasting;Bovengrens 95%-interval;2016;
+263;Oorzaak: fysieke overbelasting;Bovengrens 95%-interval;2017;18.0
+264;Oorzaak: fysieke overbelasting;Bovengrens 95%-interval;2018;16.0
+265;Oorzaak: fysieke overbelasting;Bovengrens 95%-interval;2019;14.0
+266;Oorzaak: fysieke overbelasting;Bovengrens 95%-interval;2020;14.0
+267;Oorzaak: fysieke overbelasting;Bovengrens 95%-interval;2021;16.0
+268;Oorzaak: fysieke overbelasting;Bovengrens 95%-interval;2022;16.0
+269;Oorzaak: fysieke overbelasting;Bovengrens 95%-interval;2023;12.0
+270;Oorzaak: psychische overbelasting;Waarde;2014;
+271;Oorzaak: psychische overbelasting;Waarde;2015;
+272;Oorzaak: psychische overbelasting;Waarde;2016;
+273;Oorzaak: psychische overbelasting;Waarde;2017;24.0
+274;Oorzaak: psychische overbelasting;Waarde;2018;22.0
+275;Oorzaak: psychische overbelasting;Waarde;2019;23.0
+276;Oorzaak: psychische overbelasting;Waarde;2020;13.0
+277;Oorzaak: psychische overbelasting;Waarde;2021;18.0
+278;Oorzaak: psychische overbelasting;Waarde;2022;22.0
+279;Oorzaak: psychische overbelasting;Waarde;2023;20.0
+280;Oorzaak: psychische overbelasting;Ondergrens 95%-interval;2014;
+281;Oorzaak: psychische overbelasting;Ondergrens 95%-interval;2015;
+282;Oorzaak: psychische overbelasting;Ondergrens 95%-interval;2016;
+283;Oorzaak: psychische overbelasting;Ondergrens 95%-interval;2017;20.0
+284;Oorzaak: psychische overbelasting;Ondergrens 95%-interval;2018;19.0
+285;Oorzaak: psychische overbelasting;Ondergrens 95%-interval;2019;20.0
+286;Oorzaak: psychische overbelasting;Ondergrens 95%-interval;2020;11.0
+287;Oorzaak: psychische overbelasting;Ondergrens 95%-interval;2021;15.0
+288;Oorzaak: psychische overbelasting;Ondergrens 95%-interval;2022;19.0
+289;Oorzaak: psychische overbelasting;Ondergrens 95%-interval;2023;17.0
+290;Oorzaak: psychische overbelasting;Bovengrens 95%-interval;2014;
+291;Oorzaak: psychische overbelasting;Bovengrens 95%-interval;2015;
+292;Oorzaak: psychische overbelasting;Bovengrens 95%-interval;2016;
+293;Oorzaak: psychische overbelasting;Bovengrens 95%-interval;2017;29.0
+294;Oorzaak: psychische overbelasting;Bovengrens 95%-interval;2018;25.0
+295;Oorzaak: psychische overbelasting;Bovengrens 95%-interval;2019;27.0
+296;Oorzaak: psychische overbelasting;Bovengrens 95%-interval;2020;16.0
+297;Oorzaak: psychische overbelasting;Bovengrens 95%-interval;2021;22.0
+298;Oorzaak: psychische overbelasting;Bovengrens 95%-interval;2022;25.0
+299;Oorzaak: psychische overbelasting;Bovengrens 95%-interval;2023;23.0
+300;Oorzaak: verkeersongeval op openbare weg;Waarde;2014;
+301;Oorzaak: verkeersongeval op openbare weg;Waarde;2015;
+302;Oorzaak: verkeersongeval op openbare weg;Waarde;2016;
+303;Oorzaak: verkeersongeval op openbare weg;Waarde;2017;3.0
+304;Oorzaak: verkeersongeval op openbare weg;Waarde;2018;3.0
+305;Oorzaak: verkeersongeval op openbare weg;Waarde;2019;3.0
+306;Oorzaak: verkeersongeval op openbare weg;Waarde;2020;4.0
+307;Oorzaak: verkeersongeval op openbare weg;Waarde;2021;4.0
+308;Oorzaak: verkeersongeval op openbare weg;Waarde;2022;3.0
+309;Oorzaak: verkeersongeval op openbare weg;Waarde;2023;5.0
+310;Oorzaak: verkeersongeval op openbare weg;Ondergrens 95%-interval;2014;
+311;Oorzaak: verkeersongeval op openbare weg;Ondergrens 95%-interval;2015;
+312;Oorzaak: verkeersongeval op openbare weg;Ondergrens 95%-interval;2016;
+313;Oorzaak: verkeersongeval op openbare weg;Ondergrens 95%-interval;2017;2.0
+314;Oorzaak: verkeersongeval op openbare weg;Ondergrens 95%-interval;2018;2.0
+315;Oorzaak: verkeersongeval op openbare weg;Ondergrens 95%-interval;2019;2.0
+316;Oorzaak: verkeersongeval op openbare weg;Ondergrens 95%-interval;2020;2.0
+317;Oorzaak: verkeersongeval op openbare weg;Ondergrens 95%-interval;2021;2.0
+318;Oorzaak: verkeersongeval op openbare weg;Ondergrens 95%-interval;2022;2.0
+319;Oorzaak: verkeersongeval op openbare weg;Ondergrens 95%-interval;2023;3.0
+320;Oorzaak: verkeersongeval op openbare weg;Bovengrens 95%-interval;2014;
+321;Oorzaak: verkeersongeval op openbare weg;Bovengrens 95%-interval;2015;
+322;Oorzaak: verkeersongeval op openbare weg;Bovengrens 95%-interval;2016;
+323;Oorzaak: verkeersongeval op openbare weg;Bovengrens 95%-interval;2017;5.0
+324;Oorzaak: verkeersongeval op openbare weg;Bovengrens 95%-interval;2018;4.0
+325;Oorzaak: verkeersongeval op openbare weg;Bovengrens 95%-interval;2019;5.0
+326;Oorzaak: verkeersongeval op openbare weg;Bovengrens 95%-interval;2020;5.0
+327;Oorzaak: verkeersongeval op openbare weg;Bovengrens 95%-interval;2021;6.0
+328;Oorzaak: verkeersongeval op openbare weg;Bovengrens 95%-interval;2022;5.0
+329;Oorzaak: verkeersongeval op openbare weg;Bovengrens 95%-interval;2023;7.0
+330;Oorzaak: anders;Waarde;2014;
+331;Oorzaak: anders;Waarde;2015;
+332;Oorzaak: anders;Waarde;2016;
+333;Oorzaak: anders;Waarde;2017;9.0
+334;Oorzaak: anders;Waarde;2018;9.0
+335;Oorzaak: anders;Waarde;2019;12.0
+336;Oorzaak: anders;Waarde;2020;10.0
+337;Oorzaak: anders;Waarde;2021;11.0
+338;Oorzaak: anders;Waarde;2022;9.0
+339;Oorzaak: anders;Waarde;2023;11.0
+340;Oorzaak: anders;Ondergrens 95%-interval;2014;
+341;Oorzaak: anders;Ondergrens 95%-interval;2015;
+342;Oorzaak: anders;Ondergrens 95%-interval;2016;
+343;Oorzaak: anders;Ondergrens 95%-interval;2017;7.0
+344;Oorzaak: anders;Ondergrens 95%-interval;2018;7.0
+345;Oorzaak: anders;Ondergrens 95%-interval;2019;10.0
+346;Oorzaak: anders;Ondergrens 95%-interval;2020;8.0
+347;Oorzaak: anders;Ondergrens 95%-interval;2021;9.0
+348;Oorzaak: anders;Ondergrens 95%-interval;2022;7.0
+349;Oorzaak: anders;Ondergrens 95%-interval;2023;9.0
+350;Oorzaak: anders;Bovengrens 95%-interval;2014;
+351;Oorzaak: anders;Bovengrens 95%-interval;2015;
+352;Oorzaak: anders;Bovengrens 95%-interval;2016;
+353;Oorzaak: anders;Bovengrens 95%-interval;2017;12.0
+354;Oorzaak: anders;Bovengrens 95%-interval;2018;12.0
+355;Oorzaak: anders;Bovengrens 95%-interval;2019;15.0
+356;Oorzaak: anders;Bovengrens 95%-interval;2020;13.0
+357;Oorzaak: anders;Bovengrens 95%-interval;2021;14.0
+358;Oorzaak: anders;Bovengrens 95%-interval;2022;12.0
+359;Oorzaak: anders;Bovengrens 95%-interval;2023;14.0
+360;Oorzaak: onbekend;Waarde;2014;
+361;Oorzaak: onbekend;Waarde;2015;
+362;Oorzaak: onbekend;Waarde;2016;
+363;Oorzaak: onbekend;Waarde;2017;3.0
+364;Oorzaak: onbekend;Waarde;2018;3.0
+365;Oorzaak: onbekend;Waarde;2019;2.0
+366;Oorzaak: onbekend;Waarde;2020;1.0
+367;Oorzaak: onbekend;Waarde;2021;2.0
+368;Oorzaak: onbekend;Waarde;2022;2.0
+369;Oorzaak: onbekend;Waarde;2023;3.0
+370;Oorzaak: onbekend;Ondergrens 95%-interval;2014;
+371;Oorzaak: onbekend;Ondergrens 95%-interval;2015;
+372;Oorzaak: onbekend;Ondergrens 95%-interval;2016;
+373;Oorzaak: onbekend;Ondergrens 95%-interval;2017;2.0
+374;Oorzaak: onbekend;Ondergrens 95%-interval;2018;2.0
+375;Oorzaak: onbekend;Ondergrens 95%-interval;2019;1.0
+376;Oorzaak: onbekend;Ondergrens 95%-interval;2020;1.0
+377;Oorzaak: onbekend;Ondergrens 95%-interval;2021;1.0
+378;Oorzaak: onbekend;Ondergrens 95%-interval;2022;1.0
+379;Oorzaak: onbekend;Ondergrens 95%-interval;2023;2.0
+380;Oorzaak: onbekend;Bovengrens 95%-interval;2014;
+381;Oorzaak: onbekend;Bovengrens 95%-interval;2015;
+382;Oorzaak: onbekend;Bovengrens 95%-interval;2016;
+383;Oorzaak: onbekend;Bovengrens 95%-interval;2017;5.0
+384;Oorzaak: onbekend;Bovengrens 95%-interval;2018;5.0
+385;Oorzaak: onbekend;Bovengrens 95%-interval;2019;3.0
+386;Oorzaak: onbekend;Bovengrens 95%-interval;2020;2.0
+387;Oorzaak: onbekend;Bovengrens 95%-interval;2021;4.0
+388;Oorzaak: onbekend;Bovengrens 95%-interval;2022;3.0
+389;Oorzaak: onbekend;Bovengrens 95%-interval;2023;5.0
+390;Verwonding: hoofd;Waarde;2014;6.0
+391;Verwonding: hoofd;Waarde;2015;7.0
+392;Verwonding: hoofd;Waarde;2016;5.0
+393;Verwonding: hoofd;Waarde;2017;4.0
+394;Verwonding: hoofd;Waarde;2018;5.0
+395;Verwonding: hoofd;Waarde;2019;5.0
+396;Verwonding: hoofd;Waarde;2020;4.0
+397;Verwonding: hoofd;Waarde;2021;5.0
+398;Verwonding: hoofd;Waarde;2022;5.0
+399;Verwonding: hoofd;Waarde;2023;6.0
+400;Verwonding: hoofd;Ondergrens 95%-interval;2014;4.0
+401;Verwonding: hoofd;Ondergrens 95%-interval;2015;5.0
+402;Verwonding: hoofd;Ondergrens 95%-interval;2016;3.0
+403;Verwonding: hoofd;Ondergrens 95%-interval;2017;2.0
+404;Verwonding: hoofd;Ondergrens 95%-interval;2018;3.0
+405;Verwonding: hoofd;Ondergrens 95%-interval;2019;4.0
+406;Verwonding: hoofd;Ondergrens 95%-interval;2020;3.0
+407;Verwonding: hoofd;Ondergrens 95%-interval;2021;4.0
+408;Verwonding: hoofd;Ondergrens 95%-interval;2022;4.0
+409;Verwonding: hoofd;Ondergrens 95%-interval;2023;5.0
+410;Verwonding: hoofd;Bovengrens 95%-interval;2014;8.0
+411;Verwonding: hoofd;Bovengrens 95%-interval;2015;9.0
+412;Verwonding: hoofd;Bovengrens 95%-interval;2016;7.0
+413;Verwonding: hoofd;Bovengrens 95%-interval;2017;6.0
+414;Verwonding: hoofd;Bovengrens 95%-interval;2018;6.0
+415;Verwonding: hoofd;Bovengrens 95%-interval;2019;7.0
+416;Verwonding: hoofd;Bovengrens 95%-interval;2020;6.0
+417;Verwonding: hoofd;Bovengrens 95%-interval;2021;8.0
+418;Verwonding: hoofd;Bovengrens 95%-interval;2022;7.0
+419;Verwonding: hoofd;Bovengrens 95%-interval;2023;8.0
+420;Verwonding: hals en nekwervels;Waarde;2014;2.0
+421;Verwonding: hals en nekwervels;Waarde;2015;1.0
+422;Verwonding: hals en nekwervels;Waarde;2016;2.0
+423;Verwonding: hals en nekwervels;Waarde;2017;3.0
+424;Verwonding: hals en nekwervels;Waarde;2018;1.0
+425;Verwonding: hals en nekwervels;Waarde;2019;1.0
+426;Verwonding: hals en nekwervels;Waarde;2020;1.0
+427;Verwonding: hals en nekwervels;Waarde;2021;2.0
+428;Verwonding: hals en nekwervels;Waarde;2022;1.0
+429;Verwonding: hals en nekwervels;Waarde;2023;1.0
+430;Verwonding: hals en nekwervels;Ondergrens 95%-interval;2014;1.0
+431;Verwonding: hals en nekwervels;Ondergrens 95%-interval;2015;0.0
+432;Verwonding: hals en nekwervels;Ondergrens 95%-interval;2016;1.0
+433;Verwonding: hals en nekwervels;Ondergrens 95%-interval;2017;2.0
+434;Verwonding: hals en nekwervels;Ondergrens 95%-interval;2018;0.0
+435;Verwonding: hals en nekwervels;Ondergrens 95%-interval;2019;1.0
+436;Verwonding: hals en nekwervels;Ondergrens 95%-interval;2020;1.0
+437;Verwonding: hals en nekwervels;Ondergrens 95%-interval;2021;1.0
+438;Verwonding: hals en nekwervels;Ondergrens 95%-interval;2022;0.0
+439;Verwonding: hals en nekwervels;Ondergrens 95%-interval;2023;1.0
+440;Verwonding: hals en nekwervels;Bovengrens 95%-interval;2014;4.0
+441;Verwonding: hals en nekwervels;Bovengrens 95%-interval;2015;2.0
+442;Verwonding: hals en nekwervels;Bovengrens 95%-interval;2016;3.0
+443;Verwonding: hals en nekwervels;Bovengrens 95%-interval;2017;5.0
+444;Verwonding: hals en nekwervels;Bovengrens 95%-interval;2018;1.0
+445;Verwonding: hals en nekwervels;Bovengrens 95%-interval;2019;2.0
+446;Verwonding: hals en nekwervels;Bovengrens 95%-interval;2020;2.0
+447;Verwonding: hals en nekwervels;Bovengrens 95%-interval;2021;3.0
+448;Verwonding: hals en nekwervels;Bovengrens 95%-interval;2022;1.0
+449;Verwonding: hals en nekwervels;Bovengrens 95%-interval;2023;2.0
+450;Verwonding: rug en rugwervels;Waarde;2014;12.0
+451;Verwonding: rug en rugwervels;Waarde;2015;10.0
+452;Verwonding: rug en rugwervels;Waarde;2016;8.0
+453;Verwonding: rug en rugwervels;Waarde;2017;9.0
+454;Verwonding: rug en rugwervels;Waarde;2018;9.0
+455;Verwonding: rug en rugwervels;Waarde;2019;8.0
+456;Verwonding: rug en rugwervels;Waarde;2020;8.0
+457;Verwonding: rug en rugwervels;Waarde;2021;9.0
+458;Verwonding: rug en rugwervels;Waarde;2022;7.0
+459;Verwonding: rug en rugwervels;Waarde;2023;8.0
+460;Verwonding: rug en rugwervels;Ondergrens 95%-interval;2014;9.0
+461;Verwonding: rug en rugwervels;Ondergrens 95%-interval;2015;8.0
+462;Verwonding: rug en rugwervels;Ondergrens 95%-interval;2016;6.0
+463;Verwonding: rug en rugwervels;Ondergrens 95%-interval;2017;7.0
+464;Verwonding: rug en rugwervels;Ondergrens 95%-interval;2018;7.0
+465;Verwonding: rug en rugwervels;Ondergrens 95%-interval;2019;6.0
+466;Verwonding: rug en rugwervels;Ondergrens 95%-interval;2020;6.0
+467;Verwonding: rug en rugwervels;Ondergrens 95%-interval;2021;7.0
+468;Verwonding: rug en rugwervels;Ondergrens 95%-interval;2022;5.0
+469;Verwonding: rug en rugwervels;Ondergrens 95%-interval;2023;6.0
+470;Verwonding: rug en rugwervels;Bovengrens 95%-interval;2014;15.0
+471;Verwonding: rug en rugwervels;Bovengrens 95%-interval;2015;13.0
+472;Verwonding: rug en rugwervels;Bovengrens 95%-interval;2016;11.0
+473;Verwonding: rug en rugwervels;Bovengrens 95%-interval;2017;12.0
+474;Verwonding: rug en rugwervels;Bovengrens 95%-interval;2018;11.0
+475;Verwonding: rug en rugwervels;Bovengrens 95%-interval;2019;10.0
+476;Verwonding: rug en rugwervels;Bovengrens 95%-interval;2020;10.0
+477;Verwonding: rug en rugwervels;Bovengrens 95%-interval;2021;12.0
+478;Verwonding: rug en rugwervels;Bovengrens 95%-interval;2022;9.0
+479;Verwonding: rug en rugwervels;Bovengrens 95%-interval;2023;11.0
+480;Verwonding: romp en organen;Waarde;2014;2.0
+481;Verwonding: romp en organen;Waarde;2015;2.0
+482;Verwonding: romp en organen;Waarde;2016;4.0
+483;Verwonding: romp en organen;Waarde;2017;3.0
+484;Verwonding: romp en organen;Waarde;2018;3.0
+485;Verwonding: romp en organen;Waarde;2019;3.0
+486;Verwonding: romp en organen;Waarde;2020;3.0
+487;Verwonding: romp en organen;Waarde;2021;3.0
+488;Verwonding: romp en organen;Waarde;2022;5.0
+489;Verwonding: romp en organen;Waarde;2023;2.0
+490;Verwonding: romp en organen;Ondergrens 95%-interval;2014;1.0
+491;Verwonding: romp en organen;Ondergrens 95%-interval;2015;1.0
+492;Verwonding: romp en organen;Ondergrens 95%-interval;2016;2.0
+493;Verwonding: romp en organen;Ondergrens 95%-interval;2017;2.0
+494;Verwonding: romp en organen;Ondergrens 95%-interval;2018;2.0
+495;Verwonding: romp en organen;Ondergrens 95%-interval;2019;2.0
+496;Verwonding: romp en organen;Ondergrens 95%-interval;2020;2.0
+497;Verwonding: romp en organen;Ondergrens 95%-interval;2021;2.0
+498;Verwonding: romp en organen;Ondergrens 95%-interval;2022;3.0
+499;Verwonding: romp en organen;Ondergrens 95%-interval;2023;1.0
+500;Verwonding: romp en organen;Bovengrens 95%-interval;2014;4.0
+501;Verwonding: romp en organen;Bovengrens 95%-interval;2015;4.0
+502;Verwonding: romp en organen;Bovengrens 95%-interval;2016;6.0
+503;Verwonding: romp en organen;Bovengrens 95%-interval;2017;5.0
+504;Verwonding: romp en organen;Bovengrens 95%-interval;2018;4.0
+505;Verwonding: romp en organen;Bovengrens 95%-interval;2019;5.0
+506;Verwonding: romp en organen;Bovengrens 95%-interval;2020;4.0
+507;Verwonding: romp en organen;Bovengrens 95%-interval;2021;4.0
+508;Verwonding: romp en organen;Bovengrens 95%-interval;2022;7.0
+509;Verwonding: romp en organen;Bovengrens 95%-interval;2023;4.0
+510;Verwonding: bovenste ledematen;Waarde;2014;22.0
+511;Verwonding: bovenste ledematen;Waarde;2015;16.0
+512;Verwonding: bovenste ledematen;Waarde;2016;23.0
+513;Verwonding: bovenste ledematen;Waarde;2017;24.0
+514;Verwonding: bovenste ledematen;Waarde;2018;24.0
+515;Verwonding: bovenste ledematen;Waarde;2019;23.0
+516;Verwonding: bovenste ledematen;Waarde;2020;20.0
+517;Verwonding: bovenste ledematen;Waarde;2021;20.0
+518;Verwonding: bovenste ledematen;Waarde;2022;16.0
+519;Verwonding: bovenste ledematen;Waarde;2023;22.0
+520;Verwonding: bovenste ledematen;Ondergrens 95%-interval;2014;18.0
+521;Verwonding: bovenste ledematen;Ondergrens 95%-interval;2015;13.0
+522;Verwonding: bovenste ledematen;Ondergrens 95%-interval;2016;19.0
+523;Verwonding: bovenste ledematen;Ondergrens 95%-interval;2017;20.0
+524;Verwonding: bovenste ledematen;Ondergrens 95%-interval;2018;21.0
+525;Verwonding: bovenste ledematen;Ondergrens 95%-interval;2019;20.0
+526;Verwonding: bovenste ledematen;Ondergrens 95%-interval;2020;17.0
+527;Verwonding: bovenste ledematen;Ondergrens 95%-interval;2021;17.0
+528;Verwonding: bovenste ledematen;Ondergrens 95%-interval;2022;14.0
+529;Verwonding: bovenste ledematen;Ondergrens 95%-interval;2023;19.0
+530;Verwonding: bovenste ledematen;Bovengrens 95%-interval;2014;26.0
+531;Verwonding: bovenste ledematen;Bovengrens 95%-interval;2015;20.0
+532;Verwonding: bovenste ledematen;Bovengrens 95%-interval;2016;27.0
+533;Verwonding: bovenste ledematen;Bovengrens 95%-interval;2017;29.0
+534;Verwonding: bovenste ledematen;Bovengrens 95%-interval;2018;28.0
+535;Verwonding: bovenste ledematen;Bovengrens 95%-interval;2019;27.0
+536;Verwonding: bovenste ledematen;Bovengrens 95%-interval;2020;24.0
+537;Verwonding: bovenste ledematen;Bovengrens 95%-interval;2021;24.0
+538;Verwonding: bovenste ledematen;Bovengrens 95%-interval;2022;19.0
+539;Verwonding: bovenste ledematen;Bovengrens 95%-interval;2023;26.0
+540;Verwonding: onderste ledematen;Waarde;2014;18.0
+541;Verwonding: onderste ledematen;Waarde;2015;19.0
+542;Verwonding: onderste ledematen;Waarde;2016;17.0
+543;Verwonding: onderste ledematen;Waarde;2017;16.0
+544;Verwonding: onderste ledematen;Waarde;2018;18.0
+545;Verwonding: onderste ledematen;Waarde;2019;19.0
+546;Verwonding: onderste ledematen;Waarde;2020;17.0
+547;Verwonding: onderste ledematen;Waarde;2021;17.0
+548;Verwonding: onderste ledematen;Waarde;2022;23.0
+549;Verwonding: onderste ledematen;Waarde;2023;15.0
+550;Verwonding: onderste ledematen;Ondergrens 95%-interval;2014;14.0
+551;Verwonding: onderste ledematen;Ondergrens 95%-interval;2015;16.0
+552;Verwonding: onderste ledematen;Ondergrens 95%-interval;2016;14.0
+553;Verwonding: onderste ledematen;Ondergrens 95%-interval;2017;13.0
+554;Verwonding: onderste ledematen;Ondergrens 95%-interval;2018;15.0
+555;Verwonding: onderste ledematen;Ondergrens 95%-interval;2019;16.0
+556;Verwonding: onderste ledematen;Ondergrens 95%-interval;2020;15.0
+557;Verwonding: onderste ledematen;Ondergrens 95%-interval;2021;14.0
+558;Verwonding: onderste ledematen;Ondergrens 95%-interval;2022;20.0
+559;Verwonding: onderste ledematen;Ondergrens 95%-interval;2023;12.0
+560;Verwonding: onderste ledematen;Bovengrens 95%-interval;2014;22.0
+561;Verwonding: onderste ledematen;Bovengrens 95%-interval;2015;23.0
+562;Verwonding: onderste ledematen;Bovengrens 95%-interval;2016;21.0
+563;Verwonding: onderste ledematen;Bovengrens 95%-interval;2017;20.0
+564;Verwonding: onderste ledematen;Bovengrens 95%-interval;2018;21.0
+565;Verwonding: onderste ledematen;Bovengrens 95%-interval;2019;23.0
+566;Verwonding: onderste ledematen;Bovengrens 95%-interval;2020;21.0
+567;Verwonding: onderste ledematen;Bovengrens 95%-interval;2021;20.0
+568;Verwonding: onderste ledematen;Bovengrens 95%-interval;2022;27.0
+569;Verwonding: onderste ledematen;Bovengrens 95%-interval;2023;18.0
+570;Verwonding: gehele lichaam, div. plekken;Waarde;2014;2.0
+571;Verwonding: gehele lichaam, div. plekken;Waarde;2015;1.0
+572;Verwonding: gehele lichaam, div. plekken;Waarde;2016;3.0
+573;Verwonding: gehele lichaam, div. plekken;Waarde;2017;3.0
+574;Verwonding: gehele lichaam, div. plekken;Waarde;2018;2.0
+575;Verwonding: gehele lichaam, div. plekken;Waarde;2019;3.0
+576;Verwonding: gehele lichaam, div. plekken;Waarde;2020;2.0
+577;Verwonding: gehele lichaam, div. plekken;Waarde;2021;3.0
+578;Verwonding: gehele lichaam, div. plekken;Waarde;2022;2.0
+579;Verwonding: gehele lichaam, div. plekken;Waarde;2023;3.0
+580;Verwonding: gehele lichaam, div. plekken;Ondergrens 95%-interval;2014;1.0
+581;Verwonding: gehele lichaam, div. plekken;Ondergrens 95%-interval;2015;0.0
+582;Verwonding: gehele lichaam, div. plekken;Ondergrens 95%-interval;2016;2.0
+583;Verwonding: gehele lichaam, div. plekken;Ondergrens 95%-interval;2017;2.0
+584;Verwonding: gehele lichaam, div. plekken;Ondergrens 95%-interval;2018;2.0
+585;Verwonding: gehele lichaam, div. plekken;Ondergrens 95%-interval;2019;2.0
+586;Verwonding: gehele lichaam, div. plekken;Ondergrens 95%-interval;2020;1.0
+587;Verwonding: gehele lichaam, div. plekken;Ondergrens 95%-interval;2021;2.0
+588;Verwonding: gehele lichaam, div. plekken;Ondergrens 95%-interval;2022;1.0
+589;Verwonding: gehele lichaam, div. plekken;Ondergrens 95%-interval;2023;2.0
+590;Verwonding: gehele lichaam, div. plekken;Bovengrens 95%-interval;2014;3.0
+591;Verwonding: gehele lichaam, div. plekken;Bovengrens 95%-interval;2015;2.0
+592;Verwonding: gehele lichaam, div. plekken;Bovengrens 95%-interval;2016;4.0
+593;Verwonding: gehele lichaam, div. plekken;Bovengrens 95%-interval;2017;5.0
+594;Verwonding: gehele lichaam, div. plekken;Bovengrens 95%-interval;2018;4.0
+595;Verwonding: gehele lichaam, div. plekken;Bovengrens 95%-interval;2019;4.0
+596;Verwonding: gehele lichaam, div. plekken;Bovengrens 95%-interval;2020;4.0
+597;Verwonding: gehele lichaam, div. plekken;Bovengrens 95%-interval;2021;4.0
+598;Verwonding: gehele lichaam, div. plekken;Bovengrens 95%-interval;2022;4.0
+599;Verwonding: gehele lichaam, div. plekken;Bovengrens 95%-interval;2023;4.0
+600;Verwonding: anders;Waarde;2014;3.0
+601;Verwonding: anders;Waarde;2015;2.0
+602;Verwonding: anders;Waarde;2016;4.0
+603;Verwonding: anders;Waarde;2017;6.0
+604;Verwonding: anders;Waarde;2018;4.0
+605;Verwonding: anders;Waarde;2019;5.0
+606;Verwonding: anders;Waarde;2020;4.0
+607;Verwonding: anders;Waarde;2021;4.0
+608;Verwonding: anders;Waarde;2022;4.0
+609;Verwonding: anders;Waarde;2023;4.0
+610;Verwonding: anders;Ondergrens 95%-interval;2014;2.0
+611;Verwonding: anders;Ondergrens 95%-interval;2015;1.0
+612;Verwonding: anders;Ondergrens 95%-interval;2016;3.0
+613;Verwonding: anders;Ondergrens 95%-interval;2017;4.0
+614;Verwonding: anders;Ondergrens 95%-interval;2018;3.0
+615;Verwonding: anders;Ondergrens 95%-interval;2019;4.0
+616;Verwonding: anders;Ondergrens 95%-interval;2020;3.0
+617;Verwonding: anders;Ondergrens 95%-interval;2021;3.0
+618;Verwonding: anders;Ondergrens 95%-interval;2022;3.0
+619;Verwonding: anders;Ondergrens 95%-interval;2023;3.0
+620;Verwonding: anders;Bovengrens 95%-interval;2014;5.0
+621;Verwonding: anders;Bovengrens 95%-interval;2015;4.0
+622;Verwonding: anders;Bovengrens 95%-interval;2016;6.0
+623;Verwonding: anders;Bovengrens 95%-interval;2017;8.0
+624;Verwonding: anders;Bovengrens 95%-interval;2018;6.0
+625;Verwonding: anders;Bovengrens 95%-interval;2019;7.0
+626;Verwonding: anders;Bovengrens 95%-interval;2020;6.0
+627;Verwonding: anders;Bovengrens 95%-interval;2021;6.0
+628;Verwonding: anders;Bovengrens 95%-interval;2022;6.0
+629;Verwonding: anders;Bovengrens 95%-interval;2023;6.0
+630;Verwonding: onbekend;Waarde;2014;23.0
+631;Verwonding: onbekend;Waarde;2015;14.0
+632;Verwonding: onbekend;Waarde;2016;16.0
+633;Verwonding: onbekend;Waarde;2017;26.0
+634;Verwonding: onbekend;Waarde;2018;26.0
+635;Verwonding: onbekend;Waarde;2019;25.0
+636;Verwonding: onbekend;Waarde;2020;17.0
+637;Verwonding: onbekend;Waarde;2021;20.0
+638;Verwonding: onbekend;Waarde;2022;21.0
+639;Verwonding: onbekend;Waarde;2023;23.0
+640;Verwonding: onbekend;Ondergrens 95%-interval;2014;19.0
+641;Verwonding: onbekend;Ondergrens 95%-interval;2015;12.0
+642;Verwonding: onbekend;Ondergrens 95%-interval;2016;13.0
+643;Verwonding: onbekend;Ondergrens 95%-interval;2017;22.0
+644;Verwonding: onbekend;Ondergrens 95%-interval;2018;23.0
+645;Verwonding: onbekend;Ondergrens 95%-interval;2019;21.0
+646;Verwonding: onbekend;Ondergrens 95%-interval;2020;14.0
+647;Verwonding: onbekend;Ondergrens 95%-interval;2021;16.0
+648;Verwonding: onbekend;Ondergrens 95%-interval;2022;18.0
+649;Verwonding: onbekend;Ondergrens 95%-interval;2023;20.0
+650;Verwonding: onbekend;Bovengrens 95%-interval;2014;27.0
+651;Verwonding: onbekend;Bovengrens 95%-interval;2015;18.0
+652;Verwonding: onbekend;Bovengrens 95%-interval;2016;20.0
+653;Verwonding: onbekend;Bovengrens 95%-interval;2017;30.0
+654;Verwonding: onbekend;Bovengrens 95%-interval;2018;30.0
+655;Verwonding: onbekend;Bovengrens 95%-interval;2019;29.0
+656;Verwonding: onbekend;Bovengrens 95%-interval;2020;20.0
+657;Verwonding: onbekend;Bovengrens 95%-interval;2021;23.0
+658;Verwonding: onbekend;Bovengrens 95%-interval;2022;25.0
+659;Verwonding: onbekend;Bovengrens 95%-interval;2023;27.0
+660;Soort letsel: wonden en opp. Letsels;Waarde;2014;10.0
+661;Soort letsel: wonden en opp. Letsels;Waarde;2015;7.0
+662;Soort letsel: wonden en opp. Letsels;Waarde;2016;10.0
+663;Soort letsel: wonden en opp. Letsels;Waarde;2017;11.0
+664;Soort letsel: wonden en opp. Letsels;Waarde;2018;11.0
+665;Soort letsel: wonden en opp. Letsels;Waarde;2019;9.0
+666;Soort letsel: wonden en opp. Letsels;Waarde;2020;9.0
+667;Soort letsel: wonden en opp. Letsels;Waarde;2021;8.0
+668;Soort letsel: wonden en opp. Letsels;Waarde;2022;7.0
+669;Soort letsel: wonden en opp. Letsels;Waarde;2023;9.0
+670;Soort letsel: wonden en opp. Letsels;Ondergrens 95%-interval;2014;7.0
+671;Soort letsel: wonden en opp. Letsels;Ondergrens 95%-interval;2015;5.0
+672;Soort letsel: wonden en opp. Letsels;Ondergrens 95%-interval;2016;8.0
+673;Soort letsel: wonden en opp. Letsels;Ondergrens 95%-interval;2017;8.0
+674;Soort letsel: wonden en opp. Letsels;Ondergrens 95%-interval;2018;9.0
+675;Soort letsel: wonden en opp. Letsels;Ondergrens 95%-interval;2019;7.0
+676;Soort letsel: wonden en opp. Letsels;Ondergrens 95%-interval;2020;7.0
+677;Soort letsel: wonden en opp. Letsels;Ondergrens 95%-interval;2021;6.0
+678;Soort letsel: wonden en opp. Letsels;Ondergrens 95%-interval;2022;5.0
+679;Soort letsel: wonden en opp. Letsels;Ondergrens 95%-interval;2023;7.0
+680;Soort letsel: wonden en opp. Letsels;Bovengrens 95%-interval;2014;13.0
+681;Soort letsel: wonden en opp. Letsels;Bovengrens 95%-interval;2015;10.0
+682;Soort letsel: wonden en opp. Letsels;Bovengrens 95%-interval;2016;13.0
+683;Soort letsel: wonden en opp. Letsels;Bovengrens 95%-interval;2017;14.0
+684;Soort letsel: wonden en opp. Letsels;Bovengrens 95%-interval;2018;13.0
+685;Soort letsel: wonden en opp. Letsels;Bovengrens 95%-interval;2019;11.0
+686;Soort letsel: wonden en opp. Letsels;Bovengrens 95%-interval;2020;12.0
+687;Soort letsel: wonden en opp. Letsels;Bovengrens 95%-interval;2021;10.0
+688;Soort letsel: wonden en opp. Letsels;Bovengrens 95%-interval;2022;9.0
+689;Soort letsel: wonden en opp. Letsels;Bovengrens 95%-interval;2023;11.0
+690;Soort letsel: botbreuken;Waarde;2014;9.0
+691;Soort letsel: botbreuken;Waarde;2015;10.0
+692;Soort letsel: botbreuken;Waarde;2016;7.0
+693;Soort letsel: botbreuken;Waarde;2017;8.0
+694;Soort letsel: botbreuken;Waarde;2018;10.0
+695;Soort letsel: botbreuken;Waarde;2019;8.0
+696;Soort letsel: botbreuken;Waarde;2020;9.0
+697;Soort letsel: botbreuken;Waarde;2021;11.0
+698;Soort letsel: botbreuken;Waarde;2022;7.0
+699;Soort letsel: botbreuken;Waarde;2023;9.0
+700;Soort letsel: botbreuken;Ondergrens 95%-interval;2014;6.0
+701;Soort letsel: botbreuken;Ondergrens 95%-interval;2015;8.0
+702;Soort letsel: botbreuken;Ondergrens 95%-interval;2016;5.0
+703;Soort letsel: botbreuken;Ondergrens 95%-interval;2017;6.0
+704;Soort letsel: botbreuken;Ondergrens 95%-interval;2018;8.0
+705;Soort letsel: botbreuken;Ondergrens 95%-interval;2019;7.0
+706;Soort letsel: botbreuken;Ondergrens 95%-interval;2020;7.0
+707;Soort letsel: botbreuken;Ondergrens 95%-interval;2021;9.0
+708;Soort letsel: botbreuken;Ondergrens 95%-interval;2022;5.0
+709;Soort letsel: botbreuken;Ondergrens 95%-interval;2023;7.0
+710;Soort letsel: botbreuken;Bovengrens 95%-interval;2014;12.0
+711;Soort letsel: botbreuken;Bovengrens 95%-interval;2015;13.0
+712;Soort letsel: botbreuken;Bovengrens 95%-interval;2016;10.0
+713;Soort letsel: botbreuken;Bovengrens 95%-interval;2017;11.0
+714;Soort letsel: botbreuken;Bovengrens 95%-interval;2018;12.0
+715;Soort letsel: botbreuken;Bovengrens 95%-interval;2019;11.0
+716;Soort letsel: botbreuken;Bovengrens 95%-interval;2020;11.0
+717;Soort letsel: botbreuken;Bovengrens 95%-interval;2021;14.0
+718;Soort letsel: botbreuken;Bovengrens 95%-interval;2022;9.0
+719;Soort letsel: botbreuken;Bovengrens 95%-interval;2023;12.0
+720;Soort letsel: ontwrichting, verstuiking;Waarde;2014;24.0
+721;Soort letsel: ontwrichting, verstuiking;Waarde;2015;22.0
+722;Soort letsel: ontwrichting, verstuiking;Waarde;2016;23.0
+723;Soort letsel: ontwrichting, verstuiking;Waarde;2017;26.0
+724;Soort letsel: ontwrichting, verstuiking;Waarde;2018;26.0
+725;Soort letsel: ontwrichting, verstuiking;Waarde;2019;31.0
+726;Soort letsel: ontwrichting, verstuiking;Waarde;2020;25.0
+727;Soort letsel: ontwrichting, verstuiking;Waarde;2021;26.0
+728;Soort letsel: ontwrichting, verstuiking;Waarde;2022;30.0
+729;Soort letsel: ontwrichting, verstuiking;Waarde;2023;23.0
+730;Soort letsel: ontwrichting, verstuiking;Ondergrens 95%-interval;2014;20.0
+731;Soort letsel: ontwrichting, verstuiking;Ondergrens 95%-interval;2015;18.0
+732;Soort letsel: ontwrichting, verstuiking;Ondergrens 95%-interval;2016;20.0
+733;Soort letsel: ontwrichting, verstuiking;Ondergrens 95%-interval;2017;22.0
+734;Soort letsel: ontwrichting, verstuiking;Ondergrens 95%-interval;2018;23.0
+735;Soort letsel: ontwrichting, verstuiking;Ondergrens 95%-interval;2019;28.0
+736;Soort letsel: ontwrichting, verstuiking;Ondergrens 95%-interval;2020;22.0
+737;Soort letsel: ontwrichting, verstuiking;Ondergrens 95%-interval;2021;23.0
+738;Soort letsel: ontwrichting, verstuiking;Ondergrens 95%-interval;2022;26.0
+739;Soort letsel: ontwrichting, verstuiking;Ondergrens 95%-interval;2023;20.0
+740;Soort letsel: ontwrichting, verstuiking;Bovengrens 95%-interval;2014;29.0
+741;Soort letsel: ontwrichting, verstuiking;Bovengrens 95%-interval;2015;26.0
+742;Soort letsel: ontwrichting, verstuiking;Bovengrens 95%-interval;2016;28.0
+743;Soort letsel: ontwrichting, verstuiking;Bovengrens 95%-interval;2017;30.0
+744;Soort letsel: ontwrichting, verstuiking;Bovengrens 95%-interval;2018;30.0
+745;Soort letsel: ontwrichting, verstuiking;Bovengrens 95%-interval;2019;36.0
+746;Soort letsel: ontwrichting, verstuiking;Bovengrens 95%-interval;2020;29.0
+747;Soort letsel: ontwrichting, verstuiking;Bovengrens 95%-interval;2021;31.0
+748;Soort letsel: ontwrichting, verstuiking;Bovengrens 95%-interval;2022;34.0
+749;Soort letsel: ontwrichting, verstuiking;Bovengrens 95%-interval;2023;27.0
+750;Soort letsel: hersenschudding, inwendig;Waarde;2014;4.0
+751;Soort letsel: hersenschudding, inwendig;Waarde;2015;3.0
+752;Soort letsel: hersenschudding, inwendig;Waarde;2016;4.0
+753;Soort letsel: hersenschudding, inwendig;Waarde;2017;3.0
+754;Soort letsel: hersenschudding, inwendig;Waarde;2018;3.0
+755;Soort letsel: hersenschudding, inwendig;Waarde;2019;4.0
+756;Soort letsel: hersenschudding, inwendig;Waarde;2020;3.0
+757;Soort letsel: hersenschudding, inwendig;Waarde;2021;3.0
+758;Soort letsel: hersenschudding, inwendig;Waarde;2022;3.0
+759;Soort letsel: hersenschudding, inwendig;Waarde;2023;3.0
+760;Soort letsel: hersenschudding, inwendig;Ondergrens 95%-interval;2014;3.0
+761;Soort letsel: hersenschudding, inwendig;Ondergrens 95%-interval;2015;2.0
+762;Soort letsel: hersenschudding, inwendig;Ondergrens 95%-interval;2016;2.0
+763;Soort letsel: hersenschudding, inwendig;Ondergrens 95%-interval;2017;2.0
+764;Soort letsel: hersenschudding, inwendig;Ondergrens 95%-interval;2018;2.0
+765;Soort letsel: hersenschudding, inwendig;Ondergrens 95%-interval;2019;3.0
+766;Soort letsel: hersenschudding, inwendig;Ondergrens 95%-interval;2020;2.0
+767;Soort letsel: hersenschudding, inwendig;Ondergrens 95%-interval;2021;2.0
+768;Soort letsel: hersenschudding, inwendig;Ondergrens 95%-interval;2022;2.0
+769;Soort letsel: hersenschudding, inwendig;Ondergrens 95%-interval;2023;2.0
+770;Soort letsel: hersenschudding, inwendig;Bovengrens 95%-interval;2014;6.0
+771;Soort letsel: hersenschudding, inwendig;Bovengrens 95%-interval;2015;5.0
+772;Soort letsel: hersenschudding, inwendig;Bovengrens 95%-interval;2016;6.0
+773;Soort letsel: hersenschudding, inwendig;Bovengrens 95%-interval;2017;5.0
+774;Soort letsel: hersenschudding, inwendig;Bovengrens 95%-interval;2018;4.0
+775;Soort letsel: hersenschudding, inwendig;Bovengrens 95%-interval;2019;5.0
+776;Soort letsel: hersenschudding, inwendig;Bovengrens 95%-interval;2020;4.0
+777;Soort letsel: hersenschudding, inwendig;Bovengrens 95%-interval;2021;4.0
+778;Soort letsel: hersenschudding, inwendig;Bovengrens 95%-interval;2022;5.0
+779;Soort letsel: hersenschudding, inwendig;Bovengrens 95%-interval;2023;5.0
+780;Soort letsel: ander lichamelijk letsel;Waarde;2014;4.0
+781;Soort letsel: ander lichamelijk letsel;Waarde;2015;4.0
+782;Soort letsel: ander lichamelijk letsel;Waarde;2016;4.0
+783;Soort letsel: ander lichamelijk letsel;Waarde;2017;5.0
+784;Soort letsel: ander lichamelijk letsel;Waarde;2018;5.0
+785;Soort letsel: ander lichamelijk letsel;Waarde;2019;5.0
+786;Soort letsel: ander lichamelijk letsel;Waarde;2020;3.0
+787;Soort letsel: ander lichamelijk letsel;Waarde;2021;3.0
+788;Soort letsel: ander lichamelijk letsel;Waarde;2022;3.0
+789;Soort letsel: ander lichamelijk letsel;Waarde;2023;4.0
+790;Soort letsel: ander lichamelijk letsel;Ondergrens 95%-interval;2014;3.0
+791;Soort letsel: ander lichamelijk letsel;Ondergrens 95%-interval;2015;3.0
+792;Soort letsel: ander lichamelijk letsel;Ondergrens 95%-interval;2016;3.0
+793;Soort letsel: ander lichamelijk letsel;Ondergrens 95%-interval;2017;3.0
+794;Soort letsel: ander lichamelijk letsel;Ondergrens 95%-interval;2018;4.0
+795;Soort letsel: ander lichamelijk letsel;Ondergrens 95%-interval;2019;4.0
+796;Soort letsel: ander lichamelijk letsel;Ondergrens 95%-interval;2020;2.0
+797;Soort letsel: ander lichamelijk letsel;Ondergrens 95%-interval;2021;2.0
+798;Soort letsel: ander lichamelijk letsel;Ondergrens 95%-interval;2022;2.0
+799;Soort letsel: ander lichamelijk letsel;Ondergrens 95%-interval;2023;3.0
+800;Soort letsel: ander lichamelijk letsel;Bovengrens 95%-interval;2014;7.0
+801;Soort letsel: ander lichamelijk letsel;Bovengrens 95%-interval;2015;6.0
+802;Soort letsel: ander lichamelijk letsel;Bovengrens 95%-interval;2016;6.0
+803;Soort letsel: ander lichamelijk letsel;Bovengrens 95%-interval;2017;7.0
+804;Soort letsel: ander lichamelijk letsel;Bovengrens 95%-interval;2018;7.0
+805;Soort letsel: ander lichamelijk letsel;Bovengrens 95%-interval;2019;7.0
+806;Soort letsel: ander lichamelijk letsel;Bovengrens 95%-interval;2020;5.0
+807;Soort letsel: ander lichamelijk letsel;Bovengrens 95%-interval;2021;4.0
+808;Soort letsel: ander lichamelijk letsel;Bovengrens 95%-interval;2022;4.0
+809;Soort letsel: ander lichamelijk letsel;Bovengrens 95%-interval;2023;5.0
+810;Soort letsel: psychische schade;Waarde;2014;21.0
+811;Soort letsel: psychische schade;Waarde;2015;14.0
+812;Soort letsel: psychische schade;Waarde;2016;18.0
+813;Soort letsel: psychische schade;Waarde;2017;25.0
+814;Soort letsel: psychische schade;Waarde;2018;24.0
+815;Soort letsel: psychische schade;Waarde;2019;24.0
+816;Soort letsel: psychische schade;Waarde;2020;16.0
+817;Soort letsel: psychische schade;Waarde;2021;19.0
+818;Soort letsel: psychische schade;Waarde;2022;22.0
+819;Soort letsel: psychische schade;Waarde;2023;23.0
+820;Soort letsel: psychische schade;Ondergrens 95%-interval;2014;18.0
+821;Soort letsel: psychische schade;Ondergrens 95%-interval;2015;12.0
+822;Soort letsel: psychische schade;Ondergrens 95%-interval;2016;15.0
+823;Soort letsel: psychische schade;Ondergrens 95%-interval;2017;21.0
+824;Soort letsel: psychische schade;Ondergrens 95%-interval;2018;21.0
+825;Soort letsel: psychische schade;Ondergrens 95%-interval;2019;21.0
+826;Soort letsel: psychische schade;Ondergrens 95%-interval;2020;13.0
+827;Soort letsel: psychische schade;Ondergrens 95%-interval;2021;16.0
+828;Soort letsel: psychische schade;Ondergrens 95%-interval;2022;19.0
+829;Soort letsel: psychische schade;Ondergrens 95%-interval;2023;20.0
+830;Soort letsel: psychische schade;Bovengrens 95%-interval;2014;25.0
+831;Soort letsel: psychische schade;Bovengrens 95%-interval;2015;18.0
+832;Soort letsel: psychische schade;Bovengrens 95%-interval;2016;22.0
+833;Soort letsel: psychische schade;Bovengrens 95%-interval;2017;30.0
+834;Soort letsel: psychische schade;Bovengrens 95%-interval;2018;28.0
+835;Soort letsel: psychische schade;Bovengrens 95%-interval;2019;28.0
+836;Soort letsel: psychische schade;Bovengrens 95%-interval;2020;19.0
+837;Soort letsel: psychische schade;Bovengrens 95%-interval;2021;22.0
+838;Soort letsel: psychische schade;Bovengrens 95%-interval;2022;26.0
+839;Soort letsel: psychische schade;Bovengrens 95%-interval;2023;27.0
+840;Soort letsel: onderscheid niet te maken;Waarde;2014;14.0
+841;Soort letsel: onderscheid niet te maken;Waarde;2015;10.0
+842;Soort letsel: onderscheid niet te maken;Waarde;2016;14.0
+843;Soort letsel: onderscheid niet te maken;Waarde;2017;14.0
+844;Soort letsel: onderscheid niet te maken;Waarde;2018;12.0
+845;Soort letsel: onderscheid niet te maken;Waarde;2019;9.0
+846;Soort letsel: onderscheid niet te maken;Waarde;2020;11.0
+847;Soort letsel: onderscheid niet te maken;Waarde;2021;11.0
+848;Soort letsel: onderscheid niet te maken;Waarde;2022;11.0
+849;Soort letsel: onderscheid niet te maken;Waarde;2023;11.0
+850;Soort letsel: onderscheid niet te maken;Ondergrens 95%-interval;2014;11.0
+851;Soort letsel: onderscheid niet te maken;Ondergrens 95%-interval;2015;8.0
+852;Soort letsel: onderscheid niet te maken;Ondergrens 95%-interval;2016;11.0
+853;Soort letsel: onderscheid niet te maken;Ondergrens 95%-interval;2017;12.0
+854;Soort letsel: onderscheid niet te maken;Ondergrens 95%-interval;2018;9.0
+855;Soort letsel: onderscheid niet te maken;Ondergrens 95%-interval;2019;7.0
+856;Soort letsel: onderscheid niet te maken;Ondergrens 95%-interval;2020;9.0
+857;Soort letsel: onderscheid niet te maken;Ondergrens 95%-interval;2021;9.0
+858;Soort letsel: onderscheid niet te maken;Ondergrens 95%-interval;2022;9.0
+859;Soort letsel: onderscheid niet te maken;Ondergrens 95%-interval;2023;9.0
+860;Soort letsel: onderscheid niet te maken;Bovengrens 95%-interval;2014;17.0
+861;Soort letsel: onderscheid niet te maken;Bovengrens 95%-interval;2015;13.0
+862;Soort letsel: onderscheid niet te maken;Bovengrens 95%-interval;2016;17.0
+863;Soort letsel: onderscheid niet te maken;Bovengrens 95%-interval;2017;18.0
+864;Soort letsel: onderscheid niet te maken;Bovengrens 95%-interval;2018;14.0
+865;Soort letsel: onderscheid niet te maken;Bovengrens 95%-interval;2019;12.0
+866;Soort letsel: onderscheid niet te maken;Bovengrens 95%-interval;2020;14.0
+867;Soort letsel: onderscheid niet te maken;Bovengrens 95%-interval;2021;14.0
+868;Soort letsel: onderscheid niet te maken;Bovengrens 95%-interval;2022;14.0
+869;Soort letsel: onderscheid niet te maken;Bovengrens 95%-interval;2023;14.0
+870;Soort letsel: onbekend;Waarde;2014;2.0
+871;Soort letsel: onbekend;Waarde;2015;2.0
+872;Soort letsel: onbekend;Waarde;2016;1.0
+873;Soort letsel: onbekend;Waarde;2017;2.0
+874;Soort letsel: onbekend;Waarde;2018;1.0
+875;Soort letsel: onbekend;Waarde;2019;2.0
+876;Soort letsel: onbekend;Waarde;2020;1.0
+877;Soort letsel: onbekend;Waarde;2021;2.0
+878;Soort letsel: onbekend;Waarde;2022;2.0
+879;Soort letsel: onbekend;Waarde;2023;3.0
+880;Soort letsel: onbekend;Ondergrens 95%-interval;2014;1.0
+881;Soort letsel: onbekend;Ondergrens 95%-interval;2015;1.0
+882;Soort letsel: onbekend;Ondergrens 95%-interval;2016;0.0
+883;Soort letsel: onbekend;Ondergrens 95%-interval;2017;1.0
+884;Soort letsel: onbekend;Ondergrens 95%-interval;2018;1.0
+885;Soort letsel: onbekend;Ondergrens 95%-interval;2019;1.0
+886;Soort letsel: onbekend;Ondergrens 95%-interval;2020;0.0
+887;Soort letsel: onbekend;Ondergrens 95%-interval;2021;1.0
+888;Soort letsel: onbekend;Ondergrens 95%-interval;2022;1.0
+889;Soort letsel: onbekend;Ondergrens 95%-interval;2023;2.0
+890;Soort letsel: onbekend;Bovengrens 95%-interval;2014;4.0
+891;Soort letsel: onbekend;Bovengrens 95%-interval;2015;4.0
+892;Soort letsel: onbekend;Bovengrens 95%-interval;2016;2.0
+893;Soort letsel: onbekend;Bovengrens 95%-interval;2017;4.0
+894;Soort letsel: onbekend;Bovengrens 95%-interval;2018;2.0
+895;Soort letsel: onbekend;Bovengrens 95%-interval;2019;3.0
+896;Soort letsel: onbekend;Bovengrens 95%-interval;2020;2.0
+897;Soort letsel: onbekend;Bovengrens 95%-interval;2021;4.0
+898;Soort letsel: onbekend;Bovengrens 95%-interval;2022;4.0
+899;Soort letsel: onbekend;Bovengrens 95%-interval;2023;4.0
+900;Hulp: ja, op het werk;Waarde;2014;18.0
+901;Hulp: ja, op het werk;Waarde;2015;10.0
+902;Hulp: ja, op het werk;Waarde;2016;10.0
+903;Hulp: ja, op het werk;Waarde;2017;14.0
+904;Hulp: ja, op het werk;Waarde;2018;14.0
+905;Hulp: ja, op het werk;Waarde;2019;13.0
+906;Hulp: ja, op het werk;Waarde;2020;11.0
+907;Hulp: ja, op het werk;Waarde;2021;14.0
+908;Hulp: ja, op het werk;Waarde;2022;13.0
+909;Hulp: ja, op het werk;Waarde;2023;
+910;Hulp: ja, op het werk;Ondergrens 95%-interval;2014;15.0
+911;Hulp: ja, op het werk;Ondergrens 95%-interval;2015;8.0
+912;Hulp: ja, op het werk;Ondergrens 95%-interval;2016;7.0
+913;Hulp: ja, op het werk;Ondergrens 95%-interval;2017;11.0
+914;Hulp: ja, op het werk;Ondergrens 95%-interval;2018;12.0
+915;Hulp: ja, op het werk;Ondergrens 95%-interval;2019;11.0
+916;Hulp: ja, op het werk;Ondergrens 95%-interval;2020;9.0
+917;Hulp: ja, op het werk;Ondergrens 95%-interval;2021;11.0
+918;Hulp: ja, op het werk;Ondergrens 95%-interval;2022;10.0
+919;Hulp: ja, op het werk;Ondergrens 95%-interval;2023;
+920;Hulp: ja, op het werk;Bovengrens 95%-interval;2014;22.0
+921;Hulp: ja, op het werk;Bovengrens 95%-interval;2015;13.0
+922;Hulp: ja, op het werk;Bovengrens 95%-interval;2016;13.0
+923;Hulp: ja, op het werk;Bovengrens 95%-interval;2017;17.0
+924;Hulp: ja, op het werk;Bovengrens 95%-interval;2018;17.0
+925;Hulp: ja, op het werk;Bovengrens 95%-interval;2019;16.0
+926;Hulp: ja, op het werk;Bovengrens 95%-interval;2020;13.0
+927;Hulp: ja, op het werk;Bovengrens 95%-interval;2021;17.0
+928;Hulp: ja, op het werk;Bovengrens 95%-interval;2022;16.0
+929;Hulp: ja, op het werk;Bovengrens 95%-interval;2023;
+930;Hulp: ja, eerste hulp ziekenhuis;Waarde;2014;21.0
+931;Hulp: ja, eerste hulp ziekenhuis;Waarde;2015;19.0
+932;Hulp: ja, eerste hulp ziekenhuis;Waarde;2016;19.0
+933;Hulp: ja, eerste hulp ziekenhuis;Waarde;2017;19.0
+934;Hulp: ja, eerste hulp ziekenhuis;Waarde;2018;21.0
+935;Hulp: ja, eerste hulp ziekenhuis;Waarde;2019;20.0
+936;Hulp: ja, eerste hulp ziekenhuis;Waarde;2020;16.0
+937;Hulp: ja, eerste hulp ziekenhuis;Waarde;2021;20.0
+938;Hulp: ja, eerste hulp ziekenhuis;Waarde;2022;15.0
+939;Hulp: ja, eerste hulp ziekenhuis;Waarde;2023;
+940;Hulp: ja, eerste hulp ziekenhuis;Ondergrens 95%-interval;2014;18.0
+941;Hulp: ja, eerste hulp ziekenhuis;Ondergrens 95%-interval;2015;16.0
+942;Hulp: ja, eerste hulp ziekenhuis;Ondergrens 95%-interval;2016;16.0
+943;Hulp: ja, eerste hulp ziekenhuis;Ondergrens 95%-interval;2017;16.0
+944;Hulp: ja, eerste hulp ziekenhuis;Ondergrens 95%-interval;2018;18.0
+945;Hulp: ja, eerste hulp ziekenhuis;Ondergrens 95%-interval;2019;17.0
+946;Hulp: ja, eerste hulp ziekenhuis;Ondergrens 95%-interval;2020;13.0
+947;Hulp: ja, eerste hulp ziekenhuis;Ondergrens 95%-interval;2021;16.0
+948;Hulp: ja, eerste hulp ziekenhuis;Ondergrens 95%-interval;2022;12.0
+949;Hulp: ja, eerste hulp ziekenhuis;Ondergrens 95%-interval;2023;
+950;Hulp: ja, eerste hulp ziekenhuis;Bovengrens 95%-interval;2014;26.0
+951;Hulp: ja, eerste hulp ziekenhuis;Bovengrens 95%-interval;2015;23.0
+952;Hulp: ja, eerste hulp ziekenhuis;Bovengrens 95%-interval;2016;23.0
+953;Hulp: ja, eerste hulp ziekenhuis;Bovengrens 95%-interval;2017;23.0
+954;Hulp: ja, eerste hulp ziekenhuis;Bovengrens 95%-interval;2018;24.0
+955;Hulp: ja, eerste hulp ziekenhuis;Bovengrens 95%-interval;2019;23.0
+956;Hulp: ja, eerste hulp ziekenhuis;Bovengrens 95%-interval;2020;19.0
+957;Hulp: ja, eerste hulp ziekenhuis;Bovengrens 95%-interval;2021;23.0
+958;Hulp: ja, eerste hulp ziekenhuis;Bovengrens 95%-interval;2022;18.0
+959;Hulp: ja, eerste hulp ziekenhuis;Bovengrens 95%-interval;2023;
+960;Hulp: ja, ziekenhuis , niet overnacht;Waarde;2014;14.0
+961;Hulp: ja, ziekenhuis , niet overnacht;Waarde;2015;16.0
+962;Hulp: ja, ziekenhuis , niet overnacht;Waarde;2016;14.0
+963;Hulp: ja, ziekenhuis , niet overnacht;Waarde;2017;15.0
+964;Hulp: ja, ziekenhuis , niet overnacht;Waarde;2018;19.0
+965;Hulp: ja, ziekenhuis , niet overnacht;Waarde;2019;18.0
+966;Hulp: ja, ziekenhuis , niet overnacht;Waarde;2020;17.0
+967;Hulp: ja, ziekenhuis , niet overnacht;Waarde;2021;14.0
+968;Hulp: ja, ziekenhuis , niet overnacht;Waarde;2022;17.0
+969;Hulp: ja, ziekenhuis , niet overnacht;Waarde;2023;
+970;Hulp: ja, ziekenhuis , niet overnacht;Ondergrens 95%-interval;2014;11.0
+971;Hulp: ja, ziekenhuis , niet overnacht;Ondergrens 95%-interval;2015;13.0
+972;Hulp: ja, ziekenhuis , niet overnacht;Ondergrens 95%-interval;2016;12.0
+973;Hulp: ja, ziekenhuis , niet overnacht;Ondergrens 95%-interval;2017;12.0
+974;Hulp: ja, ziekenhuis , niet overnacht;Ondergrens 95%-interval;2018;16.0
+975;Hulp: ja, ziekenhuis , niet overnacht;Ondergrens 95%-interval;2019;15.0
+976;Hulp: ja, ziekenhuis , niet overnacht;Ondergrens 95%-interval;2020;14.0
+977;Hulp: ja, ziekenhuis , niet overnacht;Ondergrens 95%-interval;2021;12.0
+978;Hulp: ja, ziekenhuis , niet overnacht;Ondergrens 95%-interval;2022;14.0
+979;Hulp: ja, ziekenhuis , niet overnacht;Ondergrens 95%-interval;2023;
+980;Hulp: ja, ziekenhuis , niet overnacht;Bovengrens 95%-interval;2014;17.0
+981;Hulp: ja, ziekenhuis , niet overnacht;Bovengrens 95%-interval;2015;20.0
+982;Hulp: ja, ziekenhuis , niet overnacht;Bovengrens 95%-interval;2016;18.0
+983;Hulp: ja, ziekenhuis , niet overnacht;Bovengrens 95%-interval;2017;19.0
+984;Hulp: ja, ziekenhuis , niet overnacht;Bovengrens 95%-interval;2018;23.0
+985;Hulp: ja, ziekenhuis , niet overnacht;Bovengrens 95%-interval;2019;21.0
+986;Hulp: ja, ziekenhuis , niet overnacht;Bovengrens 95%-interval;2020;20.0
+987;Hulp: ja, ziekenhuis , niet overnacht;Bovengrens 95%-interval;2021;18.0
+988;Hulp: ja, ziekenhuis , niet overnacht;Bovengrens 95%-interval;2022;20.0
+989;Hulp: ja, ziekenhuis , niet overnacht;Bovengrens 95%-interval;2023;
+990;Hulp: ja, ziekenhuis, => 1 overnachting;Waarde;2014;7.0
+991;Hulp: ja, ziekenhuis, => 1 overnachting;Waarde;2015;5.0
+992;Hulp: ja, ziekenhuis, => 1 overnachting;Waarde;2016;4.0
+993;Hulp: ja, ziekenhuis, => 1 overnachting;Waarde;2017;4.0
+994;Hulp: ja, ziekenhuis, => 1 overnachting;Waarde;2018;5.0
+995;Hulp: ja, ziekenhuis, => 1 overnachting;Waarde;2019;4.0
+996;Hulp: ja, ziekenhuis, => 1 overnachting;Waarde;2020;2.0
+997;Hulp: ja, ziekenhuis, => 1 overnachting;Waarde;2021;3.0
+998;Hulp: ja, ziekenhuis, => 1 overnachting;Waarde;2022;3.0
+999;Hulp: ja, ziekenhuis, => 1 overnachting;Waarde;2023;
+1000;Hulp: ja, ziekenhuis, => 1 overnachting;Ondergrens 95%-interval;2014;5.0
+1001;Hulp: ja, ziekenhuis, => 1 overnachting;Ondergrens 95%-interval;2015;3.0
+1002;Hulp: ja, ziekenhuis, => 1 overnachting;Ondergrens 95%-interval;2016;3.0
+1003;Hulp: ja, ziekenhuis, => 1 overnachting;Ondergrens 95%-interval;2017;3.0
+1004;Hulp: ja, ziekenhuis, => 1 overnachting;Ondergrens 95%-interval;2018;3.0
+1005;Hulp: ja, ziekenhuis, => 1 overnachting;Ondergrens 95%-interval;2019;3.0
+1006;Hulp: ja, ziekenhuis, => 1 overnachting;Ondergrens 95%-interval;2020;1.0
+1007;Hulp: ja, ziekenhuis, => 1 overnachting;Ondergrens 95%-interval;2021;2.0
+1008;Hulp: ja, ziekenhuis, => 1 overnachting;Ondergrens 95%-interval;2022;2.0
+1009;Hulp: ja, ziekenhuis, => 1 overnachting;Ondergrens 95%-interval;2023;
+1010;Hulp: ja, ziekenhuis, => 1 overnachting;Bovengrens 95%-interval;2014;10.0
+1011;Hulp: ja, ziekenhuis, => 1 overnachting;Bovengrens 95%-interval;2015;7.0
+1012;Hulp: ja, ziekenhuis, => 1 overnachting;Bovengrens 95%-interval;2016;6.0
+1013;Hulp: ja, ziekenhuis, => 1 overnachting;Bovengrens 95%-interval;2017;6.0
+1014;Hulp: ja, ziekenhuis, => 1 overnachting;Bovengrens 95%-interval;2018;6.0
+1015;Hulp: ja, ziekenhuis, => 1 overnachting;Bovengrens 95%-interval;2019;5.0
+1016;Hulp: ja, ziekenhuis, => 1 overnachting;Bovengrens 95%-interval;2020;4.0
+1017;Hulp: ja, ziekenhuis, => 1 overnachting;Bovengrens 95%-interval;2021;5.0
+1018;Hulp: ja, ziekenhuis, => 1 overnachting;Bovengrens 95%-interval;2022;4.0
+1019;Hulp: ja, ziekenhuis, => 1 overnachting;Bovengrens 95%-interval;2023;
+1020;Hulp: ja, ergens anders;Waarde;2014;31.0
+1021;Hulp: ja, ergens anders;Waarde;2015;20.0
+1022;Hulp: ja, ergens anders;Waarde;2016;28.0
+1023;Hulp: ja, ergens anders;Waarde;2017;33.0
+1024;Hulp: ja, ergens anders;Waarde;2018;26.0
+1025;Hulp: ja, ergens anders;Waarde;2019;33.0
+1026;Hulp: ja, ergens anders;Waarde;2020;24.0
+1027;Hulp: ja, ergens anders;Waarde;2021;25.0
+1028;Hulp: ja, ergens anders;Waarde;2022;28.0
+1029;Hulp: ja, ergens anders;Waarde;2023;
+1030;Hulp: ja, ergens anders;Ondergrens 95%-interval;2014;26.0
+1031;Hulp: ja, ergens anders;Ondergrens 95%-interval;2015;17.0
+1032;Hulp: ja, ergens anders;Ondergrens 95%-interval;2016;24.0
+1033;Hulp: ja, ergens anders;Ondergrens 95%-interval;2017;28.0
+1034;Hulp: ja, ergens anders;Ondergrens 95%-interval;2018;23.0
+1035;Hulp: ja, ergens anders;Ondergrens 95%-interval;2019;29.0
+1036;Hulp: ja, ergens anders;Ondergrens 95%-interval;2020;21.0
+1037;Hulp: ja, ergens anders;Ondergrens 95%-interval;2021;22.0
+1038;Hulp: ja, ergens anders;Ondergrens 95%-interval;2022;24.0
+1039;Hulp: ja, ergens anders;Ondergrens 95%-interval;2023;
+1040;Hulp: ja, ergens anders;Bovengrens 95%-interval;2014;36.0
+1041;Hulp: ja, ergens anders;Bovengrens 95%-interval;2015;25.0
+1042;Hulp: ja, ergens anders;Bovengrens 95%-interval;2016;32.0
+1043;Hulp: ja, ergens anders;Bovengrens 95%-interval;2017;38.0
+1044;Hulp: ja, ergens anders;Bovengrens 95%-interval;2018;30.0
+1045;Hulp: ja, ergens anders;Bovengrens 95%-interval;2019;37.0
+1046;Hulp: ja, ergens anders;Bovengrens 95%-interval;2020;28.0
+1047;Hulp: ja, ergens anders;Bovengrens 95%-interval;2021;30.0
+1048;Hulp: ja, ergens anders;Bovengrens 95%-interval;2022;32.0
+1049;Hulp: ja, ergens anders;Bovengrens 95%-interval;2023;
+1050;Hulp: nee, geen medische hulp gehad;Waarde;2014;11.0
+1051;Hulp: nee, geen medische hulp gehad;Waarde;2015;12.0
+1052;Hulp: nee, geen medische hulp gehad;Waarde;2016;15.0
+1053;Hulp: nee, geen medische hulp gehad;Waarde;2017;18.0
+1054;Hulp: nee, geen medische hulp gehad;Waarde;2018;15.0
+1055;Hulp: nee, geen medische hulp gehad;Waarde;2019;14.0
+1056;Hulp: nee, geen medische hulp gehad;Waarde;2020;16.0
+1057;Hulp: nee, geen medische hulp gehad;Waarde;2021;16.0
+1058;Hulp: nee, geen medische hulp gehad;Waarde;2022;20.0
+1059;Hulp: nee, geen medische hulp gehad;Waarde;2023;
+1060;Hulp: nee, geen medische hulp gehad;Ondergrens 95%-interval;2014;9.0
+1061;Hulp: nee, geen medische hulp gehad;Ondergrens 95%-interval;2015;9.0
+1062;Hulp: nee, geen medische hulp gehad;Ondergrens 95%-interval;2016;12.0
+1063;Hulp: nee, geen medische hulp gehad;Ondergrens 95%-interval;2017;14.0
+1064;Hulp: nee, geen medische hulp gehad;Ondergrens 95%-interval;2018;13.0
+1065;Hulp: nee, geen medische hulp gehad;Ondergrens 95%-interval;2019;12.0
+1066;Hulp: nee, geen medische hulp gehad;Ondergrens 95%-interval;2020;13.0
+1067;Hulp: nee, geen medische hulp gehad;Ondergrens 95%-interval;2021;13.0
+1068;Hulp: nee, geen medische hulp gehad;Ondergrens 95%-interval;2022;17.0
+1069;Hulp: nee, geen medische hulp gehad;Ondergrens 95%-interval;2023;
+1070;Hulp: nee, geen medische hulp gehad;Bovengrens 95%-interval;2014;14.0
+1071;Hulp: nee, geen medische hulp gehad;Bovengrens 95%-interval;2015;15.0
+1072;Hulp: nee, geen medische hulp gehad;Bovengrens 95%-interval;2016;18.0
+1073;Hulp: nee, geen medische hulp gehad;Bovengrens 95%-interval;2017;21.0
+1074;Hulp: nee, geen medische hulp gehad;Bovengrens 95%-interval;2018;18.0
+1075;Hulp: nee, geen medische hulp gehad;Bovengrens 95%-interval;2019;17.0
+1076;Hulp: nee, geen medische hulp gehad;Bovengrens 95%-interval;2020;19.0
+1077;Hulp: nee, geen medische hulp gehad;Bovengrens 95%-interval;2021;19.0
+1078;Hulp: nee, geen medische hulp gehad;Bovengrens 95%-interval;2022;23.0
+1079;Hulp: nee, geen medische hulp gehad;Bovengrens 95%-interval;2023;
+1080;Hulp: op het werk;Waarde;2014;
+1081;Hulp: op het werk;Waarde;2015;
+1082;Hulp: op het werk;Waarde;2016;
+1083;Hulp: op het werk;Waarde;2017;
+1084;Hulp: op het werk;Waarde;2018;
+1085;Hulp: op het werk;Waarde;2019;
+1086;Hulp: op het werk;Waarde;2020;
+1087;Hulp: op het werk;Waarde;2021;
+1088;Hulp: op het werk;Waarde;2022;
+1089;Hulp: op het werk;Waarde;2023;14.0
+1090;Hulp: op het werk;Ondergrens 95%-interval;2014;
+1091;Hulp: op het werk;Ondergrens 95%-interval;2015;
+1092;Hulp: op het werk;Ondergrens 95%-interval;2016;
+1093;Hulp: op het werk;Ondergrens 95%-interval;2017;
+1094;Hulp: op het werk;Ondergrens 95%-interval;2018;
+1095;Hulp: op het werk;Ondergrens 95%-interval;2019;
+1096;Hulp: op het werk;Ondergrens 95%-interval;2020;
+1097;Hulp: op het werk;Ondergrens 95%-interval;2021;
+1098;Hulp: op het werk;Ondergrens 95%-interval;2022;
+1099;Hulp: op het werk;Ondergrens 95%-interval;2023;11.0
+1100;Hulp: op het werk;Bovengrens 95%-interval;2014;
+1101;Hulp: op het werk;Bovengrens 95%-interval;2015;
+1102;Hulp: op het werk;Bovengrens 95%-interval;2016;
+1103;Hulp: op het werk;Bovengrens 95%-interval;2017;
+1104;Hulp: op het werk;Bovengrens 95%-interval;2018;
+1105;Hulp: op het werk;Bovengrens 95%-interval;2019;
+1106;Hulp: op het werk;Bovengrens 95%-interval;2020;
+1107;Hulp: op het werk;Bovengrens 95%-interval;2021;
+1108;Hulp: op het werk;Bovengrens 95%-interval;2022;
+1109;Hulp: op het werk;Bovengrens 95%-interval;2023;17.0
+1110;Hulp: huisarts of praktijkondersteuner;Waarde;2014;
+1111;Hulp: huisarts of praktijkondersteuner;Waarde;2015;
+1112;Hulp: huisarts of praktijkondersteuner;Waarde;2016;
+1113;Hulp: huisarts of praktijkondersteuner;Waarde;2017;
+1114;Hulp: huisarts of praktijkondersteuner;Waarde;2018;
+1115;Hulp: huisarts of praktijkondersteuner;Waarde;2019;
+1116;Hulp: huisarts of praktijkondersteuner;Waarde;2020;
+1117;Hulp: huisarts of praktijkondersteuner;Waarde;2021;
+1118;Hulp: huisarts of praktijkondersteuner;Waarde;2022;
+1119;Hulp: huisarts of praktijkondersteuner;Waarde;2023;40.0
+1120;Hulp: huisarts of praktijkondersteuner;Ondergrens 95%-interval;2014;
+1121;Hulp: huisarts of praktijkondersteuner;Ondergrens 95%-interval;2015;
+1122;Hulp: huisarts of praktijkondersteuner;Ondergrens 95%-interval;2016;
+1123;Hulp: huisarts of praktijkondersteuner;Ondergrens 95%-interval;2017;
+1124;Hulp: huisarts of praktijkondersteuner;Ondergrens 95%-interval;2018;
+1125;Hulp: huisarts of praktijkondersteuner;Ondergrens 95%-interval;2019;
+1126;Hulp: huisarts of praktijkondersteuner;Ondergrens 95%-interval;2020;
+1127;Hulp: huisarts of praktijkondersteuner;Ondergrens 95%-interval;2021;
+1128;Hulp: huisarts of praktijkondersteuner;Ondergrens 95%-interval;2022;
+1129;Hulp: huisarts of praktijkondersteuner;Ondergrens 95%-interval;2023;35.0
+1130;Hulp: huisarts of praktijkondersteuner;Bovengrens 95%-interval;2014;
+1131;Hulp: huisarts of praktijkondersteuner;Bovengrens 95%-interval;2015;
+1132;Hulp: huisarts of praktijkondersteuner;Bovengrens 95%-interval;2016;
+1133;Hulp: huisarts of praktijkondersteuner;Bovengrens 95%-interval;2017;
+1134;Hulp: huisarts of praktijkondersteuner;Bovengrens 95%-interval;2018;
+1135;Hulp: huisarts of praktijkondersteuner;Bovengrens 95%-interval;2019;
+1136;Hulp: huisarts of praktijkondersteuner;Bovengrens 95%-interval;2020;
+1137;Hulp: huisarts of praktijkondersteuner;Bovengrens 95%-interval;2021;
+1138;Hulp: huisarts of praktijkondersteuner;Bovengrens 95%-interval;2022;
+1139;Hulp: huisarts of praktijkondersteuner;Bovengrens 95%-interval;2023;44.0
+1140;Hulp: (spoedeisende) 1e hulp ziekenhuis;Waarde;2014;
+1141;Hulp: (spoedeisende) 1e hulp ziekenhuis;Waarde;2015;
+1142;Hulp: (spoedeisende) 1e hulp ziekenhuis;Waarde;2016;
+1143;Hulp: (spoedeisende) 1e hulp ziekenhuis;Waarde;2017;
+1144;Hulp: (spoedeisende) 1e hulp ziekenhuis;Waarde;2018;
+1145;Hulp: (spoedeisende) 1e hulp ziekenhuis;Waarde;2019;
+1146;Hulp: (spoedeisende) 1e hulp ziekenhuis;Waarde;2020;
+1147;Hulp: (spoedeisende) 1e hulp ziekenhuis;Waarde;2021;
+1148;Hulp: (spoedeisende) 1e hulp ziekenhuis;Waarde;2022;
+1149;Hulp: (spoedeisende) 1e hulp ziekenhuis;Waarde;2023;16.0
+1150;Hulp: (spoedeisende) 1e hulp ziekenhuis;Ondergrens 95%-interval;2014;
+1151;Hulp: (spoedeisende) 1e hulp ziekenhuis;Ondergrens 95%-interval;2015;
+1152;Hulp: (spoedeisende) 1e hulp ziekenhuis;Ondergrens 95%-interval;2016;
+1153;Hulp: (spoedeisende) 1e hulp ziekenhuis;Ondergrens 95%-interval;2017;
+1154;Hulp: (spoedeisende) 1e hulp ziekenhuis;Ondergrens 95%-interval;2018;
+1155;Hulp: (spoedeisende) 1e hulp ziekenhuis;Ondergrens 95%-interval;2019;
+1156;Hulp: (spoedeisende) 1e hulp ziekenhuis;Ondergrens 95%-interval;2020;
+1157;Hulp: (spoedeisende) 1e hulp ziekenhuis;Ondergrens 95%-interval;2021;
+1158;Hulp: (spoedeisende) 1e hulp ziekenhuis;Ondergrens 95%-interval;2022;
+1159;Hulp: (spoedeisende) 1e hulp ziekenhuis;Ondergrens 95%-interval;2023;13.0
+1160;Hulp: (spoedeisende) 1e hulp ziekenhuis;Bovengrens 95%-interval;2014;
+1161;Hulp: (spoedeisende) 1e hulp ziekenhuis;Bovengrens 95%-interval;2015;
+1162;Hulp: (spoedeisende) 1e hulp ziekenhuis;Bovengrens 95%-interval;2016;
+1163;Hulp: (spoedeisende) 1e hulp ziekenhuis;Bovengrens 95%-interval;2017;
+1164;Hulp: (spoedeisende) 1e hulp ziekenhuis;Bovengrens 95%-interval;2018;
+1165;Hulp: (spoedeisende) 1e hulp ziekenhuis;Bovengrens 95%-interval;2019;
+1166;Hulp: (spoedeisende) 1e hulp ziekenhuis;Bovengrens 95%-interval;2020;
+1167;Hulp: (spoedeisende) 1e hulp ziekenhuis;Bovengrens 95%-interval;2021;
+1168;Hulp: (spoedeisende) 1e hulp ziekenhuis;Bovengrens 95%-interval;2022;
+1169;Hulp: (spoedeisende) 1e hulp ziekenhuis;Bovengrens 95%-interval;2023;19.0
+1170;Hulp: zieken. of klin. niet overnacht;Waarde;2014;
+1171;Hulp: zieken. of klin. niet overnacht;Waarde;2015;
+1172;Hulp: zieken. of klin. niet overnacht;Waarde;2016;
+1173;Hulp: zieken. of klin. niet overnacht;Waarde;2017;
+1174;Hulp: zieken. of klin. niet overnacht;Waarde;2018;
+1175;Hulp: zieken. of klin. niet overnacht;Waarde;2019;
+1176;Hulp: zieken. of klin. niet overnacht;Waarde;2020;
+1177;Hulp: zieken. of klin. niet overnacht;Waarde;2021;
+1178;Hulp: zieken. of klin. niet overnacht;Waarde;2022;
+1179;Hulp: zieken. of klin. niet overnacht;Waarde;2023;13.0
+1180;Hulp: zieken. of klin. niet overnacht;Ondergrens 95%-interval;2014;
+1181;Hulp: zieken. of klin. niet overnacht;Ondergrens 95%-interval;2015;
+1182;Hulp: zieken. of klin. niet overnacht;Ondergrens 95%-interval;2016;
+1183;Hulp: zieken. of klin. niet overnacht;Ondergrens 95%-interval;2017;
+1184;Hulp: zieken. of klin. niet overnacht;Ondergrens 95%-interval;2018;
+1185;Hulp: zieken. of klin. niet overnacht;Ondergrens 95%-interval;2019;
+1186;Hulp: zieken. of klin. niet overnacht;Ondergrens 95%-interval;2020;
+1187;Hulp: zieken. of klin. niet overnacht;Ondergrens 95%-interval;2021;
+1188;Hulp: zieken. of klin. niet overnacht;Ondergrens 95%-interval;2022;
+1189;Hulp: zieken. of klin. niet overnacht;Ondergrens 95%-interval;2023;11.0
+1190;Hulp: zieken. of klin. niet overnacht;Bovengrens 95%-interval;2014;
+1191;Hulp: zieken. of klin. niet overnacht;Bovengrens 95%-interval;2015;
+1192;Hulp: zieken. of klin. niet overnacht;Bovengrens 95%-interval;2016;
+1193;Hulp: zieken. of klin. niet overnacht;Bovengrens 95%-interval;2017;
+1194;Hulp: zieken. of klin. niet overnacht;Bovengrens 95%-interval;2018;
+1195;Hulp: zieken. of klin. niet overnacht;Bovengrens 95%-interval;2019;
+1196;Hulp: zieken. of klin. niet overnacht;Bovengrens 95%-interval;2020;
+1197;Hulp: zieken. of klin. niet overnacht;Bovengrens 95%-interval;2021;
+1198;Hulp: zieken. of klin. niet overnacht;Bovengrens 95%-interval;2022;
+1199;Hulp: zieken. of klin. niet overnacht;Bovengrens 95%-interval;2023;16.0
+1200;Hulp: zkh of kl., min. 1 overnachting;Waarde;2014;
+1201;Hulp: zkh of kl., min. 1 overnachting;Waarde;2015;
+1202;Hulp: zkh of kl., min. 1 overnachting;Waarde;2016;
+1203;Hulp: zkh of kl., min. 1 overnachting;Waarde;2017;
+1204;Hulp: zkh of kl., min. 1 overnachting;Waarde;2018;
+1205;Hulp: zkh of kl., min. 1 overnachting;Waarde;2019;
+1206;Hulp: zkh of kl., min. 1 overnachting;Waarde;2020;
+1207;Hulp: zkh of kl., min. 1 overnachting;Waarde;2021;
+1208;Hulp: zkh of kl., min. 1 overnachting;Waarde;2022;
+1209;Hulp: zkh of kl., min. 1 overnachting;Waarde;2023;2.0
+1210;Hulp: zkh of kl., min. 1 overnachting;Ondergrens 95%-interval;2014;
+1211;Hulp: zkh of kl., min. 1 overnachting;Ondergrens 95%-interval;2015;
+1212;Hulp: zkh of kl., min. 1 overnachting;Ondergrens 95%-interval;2016;
+1213;Hulp: zkh of kl., min. 1 overnachting;Ondergrens 95%-interval;2017;
+1214;Hulp: zkh of kl., min. 1 overnachting;Ondergrens 95%-interval;2018;
+1215;Hulp: zkh of kl., min. 1 overnachting;Ondergrens 95%-interval;2019;
+1216;Hulp: zkh of kl., min. 1 overnachting;Ondergrens 95%-interval;2020;
+1217;Hulp: zkh of kl., min. 1 overnachting;Ondergrens 95%-interval;2021;
+1218;Hulp: zkh of kl., min. 1 overnachting;Ondergrens 95%-interval;2022;
+1219;Hulp: zkh of kl., min. 1 overnachting;Ondergrens 95%-interval;2023;1.0
+1220;Hulp: zkh of kl., min. 1 overnachting;Bovengrens 95%-interval;2014;
+1221;Hulp: zkh of kl., min. 1 overnachting;Bovengrens 95%-interval;2015;
+1222;Hulp: zkh of kl., min. 1 overnachting;Bovengrens 95%-interval;2016;
+1223;Hulp: zkh of kl., min. 1 overnachting;Bovengrens 95%-interval;2017;
+1224;Hulp: zkh of kl., min. 1 overnachting;Bovengrens 95%-interval;2018;
+1225;Hulp: zkh of kl., min. 1 overnachting;Bovengrens 95%-interval;2019;
+1226;Hulp: zkh of kl., min. 1 overnachting;Bovengrens 95%-interval;2020;
+1227;Hulp: zkh of kl., min. 1 overnachting;Bovengrens 95%-interval;2021;
+1228;Hulp: zkh of kl., min. 1 overnachting;Bovengrens 95%-interval;2022;
+1229;Hulp: zkh of kl., min. 1 overnachting;Bovengrens 95%-interval;2023;4.0
+1230;Hulp: fysiotherapeut;Waarde;2014;
+1231;Hulp: fysiotherapeut;Waarde;2015;
+1232;Hulp: fysiotherapeut;Waarde;2016;
+1233;Hulp: fysiotherapeut;Waarde;2017;
+1234;Hulp: fysiotherapeut;Waarde;2018;
+1235;Hulp: fysiotherapeut;Waarde;2019;
+1236;Hulp: fysiotherapeut;Waarde;2020;
+1237;Hulp: fysiotherapeut;Waarde;2021;
+1238;Hulp: fysiotherapeut;Waarde;2022;
+1239;Hulp: fysiotherapeut;Waarde;2023;16.0
+1240;Hulp: fysiotherapeut;Ondergrens 95%-interval;2014;
+1241;Hulp: fysiotherapeut;Ondergrens 95%-interval;2015;
+1242;Hulp: fysiotherapeut;Ondergrens 95%-interval;2016;
+1243;Hulp: fysiotherapeut;Ondergrens 95%-interval;2017;
+1244;Hulp: fysiotherapeut;Ondergrens 95%-interval;2018;
+1245;Hulp: fysiotherapeut;Ondergrens 95%-interval;2019;
+1246;Hulp: fysiotherapeut;Ondergrens 95%-interval;2020;
+1247;Hulp: fysiotherapeut;Ondergrens 95%-interval;2021;
+1248;Hulp: fysiotherapeut;Ondergrens 95%-interval;2022;
+1249;Hulp: fysiotherapeut;Ondergrens 95%-interval;2023;13.0
+1250;Hulp: fysiotherapeut;Bovengrens 95%-interval;2014;
+1251;Hulp: fysiotherapeut;Bovengrens 95%-interval;2015;
+1252;Hulp: fysiotherapeut;Bovengrens 95%-interval;2016;
+1253;Hulp: fysiotherapeut;Bovengrens 95%-interval;2017;
+1254;Hulp: fysiotherapeut;Bovengrens 95%-interval;2018;
+1255;Hulp: fysiotherapeut;Bovengrens 95%-interval;2019;
+1256;Hulp: fysiotherapeut;Bovengrens 95%-interval;2020;
+1257;Hulp: fysiotherapeut;Bovengrens 95%-interval;2021;
+1258;Hulp: fysiotherapeut;Bovengrens 95%-interval;2022;
+1259;Hulp: fysiotherapeut;Bovengrens 95%-interval;2023;19.0
+1260;Hulp: coach, psycholoog of ggz-hulpverl.;Waarde;2014;
+1261;Hulp: coach, psycholoog of ggz-hulpverl.;Waarde;2015;
+1262;Hulp: coach, psycholoog of ggz-hulpverl.;Waarde;2016;
+1263;Hulp: coach, psycholoog of ggz-hulpverl.;Waarde;2017;
+1264;Hulp: coach, psycholoog of ggz-hulpverl.;Waarde;2018;
+1265;Hulp: coach, psycholoog of ggz-hulpverl.;Waarde;2019;
+1266;Hulp: coach, psycholoog of ggz-hulpverl.;Waarde;2020;
+1267;Hulp: coach, psycholoog of ggz-hulpverl.;Waarde;2021;
+1268;Hulp: coach, psycholoog of ggz-hulpverl.;Waarde;2022;
+1269;Hulp: coach, psycholoog of ggz-hulpverl.;Waarde;2023;16.0
+1270;Hulp: coach, psycholoog of ggz-hulpverl.;Ondergrens 95%-interval;2014;
+1271;Hulp: coach, psycholoog of ggz-hulpverl.;Ondergrens 95%-interval;2015;
+1272;Hulp: coach, psycholoog of ggz-hulpverl.;Ondergrens 95%-interval;2016;
+1273;Hulp: coach, psycholoog of ggz-hulpverl.;Ondergrens 95%-interval;2017;
+1274;Hulp: coach, psycholoog of ggz-hulpverl.;Ondergrens 95%-interval;2018;
+1275;Hulp: coach, psycholoog of ggz-hulpverl.;Ondergrens 95%-interval;2019;
+1276;Hulp: coach, psycholoog of ggz-hulpverl.;Ondergrens 95%-interval;2020;
+1277;Hulp: coach, psycholoog of ggz-hulpverl.;Ondergrens 95%-interval;2021;
+1278;Hulp: coach, psycholoog of ggz-hulpverl.;Ondergrens 95%-interval;2022;
+1279;Hulp: coach, psycholoog of ggz-hulpverl.;Ondergrens 95%-interval;2023;14.0
+1280;Hulp: coach, psycholoog of ggz-hulpverl.;Bovengrens 95%-interval;2014;
+1281;Hulp: coach, psycholoog of ggz-hulpverl.;Bovengrens 95%-interval;2015;
+1282;Hulp: coach, psycholoog of ggz-hulpverl.;Bovengrens 95%-interval;2016;
+1283;Hulp: coach, psycholoog of ggz-hulpverl.;Bovengrens 95%-interval;2017;
+1284;Hulp: coach, psycholoog of ggz-hulpverl.;Bovengrens 95%-interval;2018;
+1285;Hulp: coach, psycholoog of ggz-hulpverl.;Bovengrens 95%-interval;2019;
+1286;Hulp: coach, psycholoog of ggz-hulpverl.;Bovengrens 95%-interval;2020;
+1287;Hulp: coach, psycholoog of ggz-hulpverl.;Bovengrens 95%-interval;2021;
+1288;Hulp: coach, psycholoog of ggz-hulpverl.;Bovengrens 95%-interval;2022;
+1289;Hulp: coach, psycholoog of ggz-hulpverl.;Bovengrens 95%-interval;2023;19.0
+1290;Hulp: ergens anders;Waarde;2014;
+1291;Hulp: ergens anders;Waarde;2015;
+1292;Hulp: ergens anders;Waarde;2016;
+1293;Hulp: ergens anders;Waarde;2017;
+1294;Hulp: ergens anders;Waarde;2018;
+1295;Hulp: ergens anders;Waarde;2019;
+1296;Hulp: ergens anders;Waarde;2020;
+1297;Hulp: ergens anders;Waarde;2021;
+1298;Hulp: ergens anders;Waarde;2022;
+1299;Hulp: ergens anders;Waarde;2023;4.0
+1300;Hulp: ergens anders;Ondergrens 95%-interval;2014;
+1301;Hulp: ergens anders;Ondergrens 95%-interval;2015;
+1302;Hulp: ergens anders;Ondergrens 95%-interval;2016;
+1303;Hulp: ergens anders;Ondergrens 95%-interval;2017;
+1304;Hulp: ergens anders;Ondergrens 95%-interval;2018;
+1305;Hulp: ergens anders;Ondergrens 95%-interval;2019;
+1306;Hulp: ergens anders;Ondergrens 95%-interval;2020;
+1307;Hulp: ergens anders;Ondergrens 95%-interval;2021;
+1308;Hulp: ergens anders;Ondergrens 95%-interval;2022;
+1309;Hulp: ergens anders;Ondergrens 95%-interval;2023;3.0
+1310;Hulp: ergens anders;Bovengrens 95%-interval;2014;
+1311;Hulp: ergens anders;Bovengrens 95%-interval;2015;
+1312;Hulp: ergens anders;Bovengrens 95%-interval;2016;
+1313;Hulp: ergens anders;Bovengrens 95%-interval;2017;
+1314;Hulp: ergens anders;Bovengrens 95%-interval;2018;
+1315;Hulp: ergens anders;Bovengrens 95%-interval;2019;
+1316;Hulp: ergens anders;Bovengrens 95%-interval;2020;
+1317;Hulp: ergens anders;Bovengrens 95%-interval;2021;
+1318;Hulp: ergens anders;Bovengrens 95%-interval;2022;
+1319;Hulp: ergens anders;Bovengrens 95%-interval;2023;6.0
+1320;Hulp: geen hulp gehad;Waarde;2014;
+1321;Hulp: geen hulp gehad;Waarde;2015;
+1322;Hulp: geen hulp gehad;Waarde;2016;
+1323;Hulp: geen hulp gehad;Waarde;2017;
+1324;Hulp: geen hulp gehad;Waarde;2018;
+1325;Hulp: geen hulp gehad;Waarde;2019;
+1326;Hulp: geen hulp gehad;Waarde;2020;
+1327;Hulp: geen hulp gehad;Waarde;2021;
+1328;Hulp: geen hulp gehad;Waarde;2022;
+1329;Hulp: geen hulp gehad;Waarde;2023;10.0
+1330;Hulp: geen hulp gehad;Ondergrens 95%-interval;2014;
+1331;Hulp: geen hulp gehad;Ondergrens 95%-interval;2015;
+1332;Hulp: geen hulp gehad;Ondergrens 95%-interval;2016;
+1333;Hulp: geen hulp gehad;Ondergrens 95%-interval;2017;
+1334;Hulp: geen hulp gehad;Ondergrens 95%-interval;2018;
+1335;Hulp: geen hulp gehad;Ondergrens 95%-interval;2019;
+1336;Hulp: geen hulp gehad;Ondergrens 95%-interval;2020;
+1337;Hulp: geen hulp gehad;Ondergrens 95%-interval;2021;
+1338;Hulp: geen hulp gehad;Ondergrens 95%-interval;2022;
+1339;Hulp: geen hulp gehad;Ondergrens 95%-interval;2023;8.0
+1340;Hulp: geen hulp gehad;Bovengrens 95%-interval;2014;
+1341;Hulp: geen hulp gehad;Bovengrens 95%-interval;2015;
+1342;Hulp: geen hulp gehad;Bovengrens 95%-interval;2016;
+1343;Hulp: geen hulp gehad;Bovengrens 95%-interval;2017;
+1344;Hulp: geen hulp gehad;Bovengrens 95%-interval;2018;
+1345;Hulp: geen hulp gehad;Bovengrens 95%-interval;2019;
+1346;Hulp: geen hulp gehad;Bovengrens 95%-interval;2020;
+1347;Hulp: geen hulp gehad;Bovengrens 95%-interval;2021;
+1348;Hulp: geen hulp gehad;Bovengrens 95%-interval;2022;
+1349;Hulp: geen hulp gehad;Bovengrens 95%-interval;2023;12.0
+1350;Verzuimduur: 4, 5 of 6 dagen;Waarde;2014;18.0
+1351;Verzuimduur: 4, 5 of 6 dagen;Waarde;2015;14.0
+1352;Verzuimduur: 4, 5 of 6 dagen;Waarde;2016;14.0
+1353;Verzuimduur: 4, 5 of 6 dagen;Waarde;2017;17.0
+1354;Verzuimduur: 4, 5 of 6 dagen;Waarde;2018;16.0
+1355;Verzuimduur: 4, 5 of 6 dagen;Waarde;2019;17.0
+1356;Verzuimduur: 4, 5 of 6 dagen;Waarde;2020;13.0
+1357;Verzuimduur: 4, 5 of 6 dagen;Waarde;2021;14.0
+1358;Verzuimduur: 4, 5 of 6 dagen;Waarde;2022;18.0
+1359;Verzuimduur: 4, 5 of 6 dagen;Waarde;2023;15.0
+1360;Verzuimduur: 4, 5 of 6 dagen;Ondergrens 95%-interval;2014;15.0
+1361;Verzuimduur: 4, 5 of 6 dagen;Ondergrens 95%-interval;2015;12.0
+1362;Verzuimduur: 4, 5 of 6 dagen;Ondergrens 95%-interval;2016;11.0
+1363;Verzuimduur: 4, 5 of 6 dagen;Ondergrens 95%-interval;2017;14.0
+1364;Verzuimduur: 4, 5 of 6 dagen;Ondergrens 95%-interval;2018;14.0
+1365;Verzuimduur: 4, 5 of 6 dagen;Ondergrens 95%-interval;2019;15.0
+1366;Verzuimduur: 4, 5 of 6 dagen;Ondergrens 95%-interval;2020;10.0
+1367;Verzuimduur: 4, 5 of 6 dagen;Ondergrens 95%-interval;2021;12.0
+1368;Verzuimduur: 4, 5 of 6 dagen;Ondergrens 95%-interval;2022;15.0
+1369;Verzuimduur: 4, 5 of 6 dagen;Ondergrens 95%-interval;2023;12.0
+1370;Verzuimduur: 4, 5 of 6 dagen;Bovengrens 95%-interval;2014;22.0
+1371;Verzuimduur: 4, 5 of 6 dagen;Bovengrens 95%-interval;2015;18.0
+1372;Verzuimduur: 4, 5 of 6 dagen;Bovengrens 95%-interval;2016;17.0
+1373;Verzuimduur: 4, 5 of 6 dagen;Bovengrens 95%-interval;2017;21.0
+1374;Verzuimduur: 4, 5 of 6 dagen;Bovengrens 95%-interval;2018;19.0
+1375;Verzuimduur: 4, 5 of 6 dagen;Bovengrens 95%-interval;2019;21.0
+1376;Verzuimduur: 4, 5 of 6 dagen;Bovengrens 95%-interval;2020;15.0
+1377;Verzuimduur: 4, 5 of 6 dagen;Bovengrens 95%-interval;2021;18.0
+1378;Verzuimduur: 4, 5 of 6 dagen;Bovengrens 95%-interval;2022;21.0
+1379;Verzuimduur: 4, 5 of 6 dagen;Bovengrens 95%-interval;2023;18.0
+1380;Verzuimduur: 1 tot 2 weken;Waarde;2014;15.0
+1381;Verzuimduur: 1 tot 2 weken;Waarde;2015;13.0
+1382;Verzuimduur: 1 tot 2 weken;Waarde;2016;17.0
+1383;Verzuimduur: 1 tot 2 weken;Waarde;2017;19.0
+1384;Verzuimduur: 1 tot 2 weken;Waarde;2018;19.0
+1385;Verzuimduur: 1 tot 2 weken;Waarde;2019;17.0
+1386;Verzuimduur: 1 tot 2 weken;Waarde;2020;17.0
+1387;Verzuimduur: 1 tot 2 weken;Waarde;2021;16.0
+1388;Verzuimduur: 1 tot 2 weken;Waarde;2022;13.0
+1389;Verzuimduur: 1 tot 2 weken;Waarde;2023;15.0
+1390;Verzuimduur: 1 tot 2 weken;Ondergrens 95%-interval;2014;12.0
+1391;Verzuimduur: 1 tot 2 weken;Ondergrens 95%-interval;2015;10.0
+1392;Verzuimduur: 1 tot 2 weken;Ondergrens 95%-interval;2016;14.0
+1393;Verzuimduur: 1 tot 2 weken;Ondergrens 95%-interval;2017;16.0
+1394;Verzuimduur: 1 tot 2 weken;Ondergrens 95%-interval;2018;16.0
+1395;Verzuimduur: 1 tot 2 weken;Ondergrens 95%-interval;2019;14.0
+1396;Verzuimduur: 1 tot 2 weken;Ondergrens 95%-interval;2020;14.0
+1397;Verzuimduur: 1 tot 2 weken;Ondergrens 95%-interval;2021;13.0
+1398;Verzuimduur: 1 tot 2 weken;Ondergrens 95%-interval;2022;11.0
+1399;Verzuimduur: 1 tot 2 weken;Ondergrens 95%-interval;2023;12.0
+1400;Verzuimduur: 1 tot 2 weken;Bovengrens 95%-interval;2014;19.0
+1401;Verzuimduur: 1 tot 2 weken;Bovengrens 95%-interval;2015;16.0
+1402;Verzuimduur: 1 tot 2 weken;Bovengrens 95%-interval;2016;20.0
+1403;Verzuimduur: 1 tot 2 weken;Bovengrens 95%-interval;2017;23.0
+1404;Verzuimduur: 1 tot 2 weken;Bovengrens 95%-interval;2018;22.0
+1405;Verzuimduur: 1 tot 2 weken;Bovengrens 95%-interval;2019;20.0
+1406;Verzuimduur: 1 tot 2 weken;Bovengrens 95%-interval;2020;21.0
+1407;Verzuimduur: 1 tot 2 weken;Bovengrens 95%-interval;2021;20.0
+1408;Verzuimduur: 1 tot 2 weken;Bovengrens 95%-interval;2022;16.0
+1409;Verzuimduur: 1 tot 2 weken;Bovengrens 95%-interval;2023;18.0
+1410;Verzuimduur: 2 tot 3 weken;Waarde;2014;12.0
+1411;Verzuimduur: 2 tot 3 weken;Waarde;2015;13.0
+1412;Verzuimduur: 2 tot 3 weken;Waarde;2016;13.0
+1413;Verzuimduur: 2 tot 3 weken;Waarde;2017;13.0
+1414;Verzuimduur: 2 tot 3 weken;Waarde;2018;13.0
+1415;Verzuimduur: 2 tot 3 weken;Waarde;2019;15.0
+1416;Verzuimduur: 2 tot 3 weken;Waarde;2020;11.0
+1417;Verzuimduur: 2 tot 3 weken;Waarde;2021;7.0
+1418;Verzuimduur: 2 tot 3 weken;Waarde;2022;12.0
+1419;Verzuimduur: 2 tot 3 weken;Waarde;2023;9.0
+1420;Verzuimduur: 2 tot 3 weken;Ondergrens 95%-interval;2014;9.0
+1421;Verzuimduur: 2 tot 3 weken;Ondergrens 95%-interval;2015;10.0
+1422;Verzuimduur: 2 tot 3 weken;Ondergrens 95%-interval;2016;10.0
+1423;Verzuimduur: 2 tot 3 weken;Ondergrens 95%-interval;2017;11.0
+1424;Verzuimduur: 2 tot 3 weken;Ondergrens 95%-interval;2018;11.0
+1425;Verzuimduur: 2 tot 3 weken;Ondergrens 95%-interval;2019;13.0
+1426;Verzuimduur: 2 tot 3 weken;Ondergrens 95%-interval;2020;8.0
+1427;Verzuimduur: 2 tot 3 weken;Ondergrens 95%-interval;2021;5.0
+1428;Verzuimduur: 2 tot 3 weken;Ondergrens 95%-interval;2022;10.0
+1429;Verzuimduur: 2 tot 3 weken;Ondergrens 95%-interval;2023;7.0
+1430;Verzuimduur: 2 tot 3 weken;Bovengrens 95%-interval;2014;15.0
+1431;Verzuimduur: 2 tot 3 weken;Bovengrens 95%-interval;2015;16.0
+1432;Verzuimduur: 2 tot 3 weken;Bovengrens 95%-interval;2016;16.0
+1433;Verzuimduur: 2 tot 3 weken;Bovengrens 95%-interval;2017;17.0
+1434;Verzuimduur: 2 tot 3 weken;Bovengrens 95%-interval;2018;16.0
+1435;Verzuimduur: 2 tot 3 weken;Bovengrens 95%-interval;2019;18.0
+1436;Verzuimduur: 2 tot 3 weken;Bovengrens 95%-interval;2020;13.0
+1437;Verzuimduur: 2 tot 3 weken;Bovengrens 95%-interval;2021;9.0
+1438;Verzuimduur: 2 tot 3 weken;Bovengrens 95%-interval;2022;15.0
+1439;Verzuimduur: 2 tot 3 weken;Bovengrens 95%-interval;2023;12.0
+1440;Verzuimduur: 3 weken tot 1 maand;Waarde;2014;11.0
+1441;Verzuimduur: 3 weken tot 1 maand;Waarde;2015;9.0
+1442;Verzuimduur: 3 weken tot 1 maand;Waarde;2016;9.0
+1443;Verzuimduur: 3 weken tot 1 maand;Waarde;2017;10.0
+1444;Verzuimduur: 3 weken tot 1 maand;Waarde;2018;8.0
+1445;Verzuimduur: 3 weken tot 1 maand;Waarde;2019;10.0
+1446;Verzuimduur: 3 weken tot 1 maand;Waarde;2020;8.0
+1447;Verzuimduur: 3 weken tot 1 maand;Waarde;2021;13.0
+1448;Verzuimduur: 3 weken tot 1 maand;Waarde;2022;8.0
+1449;Verzuimduur: 3 weken tot 1 maand;Waarde;2023;11.0
+1450;Verzuimduur: 3 weken tot 1 maand;Ondergrens 95%-interval;2014;8.0
+1451;Verzuimduur: 3 weken tot 1 maand;Ondergrens 95%-interval;2015;7.0
+1452;Verzuimduur: 3 weken tot 1 maand;Ondergrens 95%-interval;2016;7.0
+1453;Verzuimduur: 3 weken tot 1 maand;Ondergrens 95%-interval;2017;8.0
+1454;Verzuimduur: 3 weken tot 1 maand;Ondergrens 95%-interval;2018;6.0
+1455;Verzuimduur: 3 weken tot 1 maand;Ondergrens 95%-interval;2019;8.0
+1456;Verzuimduur: 3 weken tot 1 maand;Ondergrens 95%-interval;2020;6.0
+1457;Verzuimduur: 3 weken tot 1 maand;Ondergrens 95%-interval;2021;10.0
+1458;Verzuimduur: 3 weken tot 1 maand;Ondergrens 95%-interval;2022;6.0
+1459;Verzuimduur: 3 weken tot 1 maand;Ondergrens 95%-interval;2023;9.0
+1460;Verzuimduur: 3 weken tot 1 maand;Bovengrens 95%-interval;2014;14.0
+1461;Verzuimduur: 3 weken tot 1 maand;Bovengrens 95%-interval;2015;12.0
+1462;Verzuimduur: 3 weken tot 1 maand;Bovengrens 95%-interval;2016;12.0
+1463;Verzuimduur: 3 weken tot 1 maand;Bovengrens 95%-interval;2017;13.0
+1464;Verzuimduur: 3 weken tot 1 maand;Bovengrens 95%-interval;2018;10.0
+1465;Verzuimduur: 3 weken tot 1 maand;Bovengrens 95%-interval;2019;13.0
+1466;Verzuimduur: 3 weken tot 1 maand;Bovengrens 95%-interval;2020;10.0
+1467;Verzuimduur: 3 weken tot 1 maand;Bovengrens 95%-interval;2021;16.0
+1468;Verzuimduur: 3 weken tot 1 maand;Bovengrens 95%-interval;2022;11.0
+1469;Verzuimduur: 3 weken tot 1 maand;Bovengrens 95%-interval;2023;14.0
+1470;Verzuimduur: 1 tot 3 maanden;Waarde;2014;15.0
+1471;Verzuimduur: 1 tot 3 maanden;Waarde;2015;11.0
+1472;Verzuimduur: 1 tot 3 maanden;Waarde;2016;14.0
+1473;Verzuimduur: 1 tot 3 maanden;Waarde;2017;17.0
+1474;Verzuimduur: 1 tot 3 maanden;Waarde;2018;17.0
+1475;Verzuimduur: 1 tot 3 maanden;Waarde;2019;15.0
+1476;Verzuimduur: 1 tot 3 maanden;Waarde;2020;15.0
+1477;Verzuimduur: 1 tot 3 maanden;Waarde;2021;15.0
+1478;Verzuimduur: 1 tot 3 maanden;Waarde;2022;17.0
+1479;Verzuimduur: 1 tot 3 maanden;Waarde;2023;18.0
+1480;Verzuimduur: 1 tot 3 maanden;Ondergrens 95%-interval;2014;12.0
+1481;Verzuimduur: 1 tot 3 maanden;Ondergrens 95%-interval;2015;8.0
+1482;Verzuimduur: 1 tot 3 maanden;Ondergrens 95%-interval;2016;11.0
+1483;Verzuimduur: 1 tot 3 maanden;Ondergrens 95%-interval;2017;14.0
+1484;Verzuimduur: 1 tot 3 maanden;Ondergrens 95%-interval;2018;15.0
+1485;Verzuimduur: 1 tot 3 maanden;Ondergrens 95%-interval;2019;12.0
+1486;Verzuimduur: 1 tot 3 maanden;Ondergrens 95%-interval;2020;13.0
+1487;Verzuimduur: 1 tot 3 maanden;Ondergrens 95%-interval;2021;12.0
+1488;Verzuimduur: 1 tot 3 maanden;Ondergrens 95%-interval;2022;14.0
+1489;Verzuimduur: 1 tot 3 maanden;Ondergrens 95%-interval;2023;15.0
+1490;Verzuimduur: 1 tot 3 maanden;Bovengrens 95%-interval;2014;18.0
+1491;Verzuimduur: 1 tot 3 maanden;Bovengrens 95%-interval;2015;14.0
+1492;Verzuimduur: 1 tot 3 maanden;Bovengrens 95%-interval;2016;17.0
+1493;Verzuimduur: 1 tot 3 maanden;Bovengrens 95%-interval;2017;21.0
+1494;Verzuimduur: 1 tot 3 maanden;Bovengrens 95%-interval;2018;21.0
+1495;Verzuimduur: 1 tot 3 maanden;Bovengrens 95%-interval;2019;18.0
+1496;Verzuimduur: 1 tot 3 maanden;Bovengrens 95%-interval;2020;18.0
+1497;Verzuimduur: 1 tot 3 maanden;Bovengrens 95%-interval;2021;19.0
+1498;Verzuimduur: 1 tot 3 maanden;Bovengrens 95%-interval;2022;20.0
+1499;Verzuimduur: 1 tot 3 maanden;Bovengrens 95%-interval;2023;21.0
+1500;Verzuimduur: 3 tot 6 maanden;Waarde;2014;11.0
+1501;Verzuimduur: 3 tot 6 maanden;Waarde;2015;7.0
+1502;Verzuimduur: 3 tot 6 maanden;Waarde;2016;9.0
+1503;Verzuimduur: 3 tot 6 maanden;Waarde;2017;10.0
+1504;Verzuimduur: 3 tot 6 maanden;Waarde;2018;10.0
+1505;Verzuimduur: 3 tot 6 maanden;Waarde;2019;12.0
+1506;Verzuimduur: 3 tot 6 maanden;Waarde;2020;8.0
+1507;Verzuimduur: 3 tot 6 maanden;Waarde;2021;9.0
+1508;Verzuimduur: 3 tot 6 maanden;Waarde;2022;10.0
+1509;Verzuimduur: 3 tot 6 maanden;Waarde;2023;10.0
+1510;Verzuimduur: 3 tot 6 maanden;Ondergrens 95%-interval;2014;8.0
+1511;Verzuimduur: 3 tot 6 maanden;Ondergrens 95%-interval;2015;5.0
+1512;Verzuimduur: 3 tot 6 maanden;Ondergrens 95%-interval;2016;7.0
+1513;Verzuimduur: 3 tot 6 maanden;Ondergrens 95%-interval;2017;8.0
+1514;Verzuimduur: 3 tot 6 maanden;Ondergrens 95%-interval;2018;8.0
+1515;Verzuimduur: 3 tot 6 maanden;Ondergrens 95%-interval;2019;9.0
+1516;Verzuimduur: 3 tot 6 maanden;Ondergrens 95%-interval;2020;6.0
+1517;Verzuimduur: 3 tot 6 maanden;Ondergrens 95%-interval;2021;7.0
+1518;Verzuimduur: 3 tot 6 maanden;Ondergrens 95%-interval;2022;8.0
+1519;Verzuimduur: 3 tot 6 maanden;Ondergrens 95%-interval;2023;8.0
+1520;Verzuimduur: 3 tot 6 maanden;Bovengrens 95%-interval;2014;14.0
+1521;Verzuimduur: 3 tot 6 maanden;Bovengrens 95%-interval;2015;9.0
+1522;Verzuimduur: 3 tot 6 maanden;Bovengrens 95%-interval;2016;12.0
+1523;Verzuimduur: 3 tot 6 maanden;Bovengrens 95%-interval;2017;13.0
+1524;Verzuimduur: 3 tot 6 maanden;Bovengrens 95%-interval;2018;12.0
+1525;Verzuimduur: 3 tot 6 maanden;Bovengrens 95%-interval;2019;14.0
+1526;Verzuimduur: 3 tot 6 maanden;Bovengrens 95%-interval;2020;10.0
+1527;Verzuimduur: 3 tot 6 maanden;Bovengrens 95%-interval;2021;11.0
+1528;Verzuimduur: 3 tot 6 maanden;Bovengrens 95%-interval;2022;13.0
+1529;Verzuimduur: 3 tot 6 maanden;Bovengrens 95%-interval;2023;12.0
+1530;Verzuimduur: 6 maanden of langer;Waarde;2014;6.0
+1531;Verzuimduur: 6 maanden of langer;Waarde;2015;5.0
+1532;Verzuimduur: 6 maanden of langer;Waarde;2016;5.0
+1533;Verzuimduur: 6 maanden of langer;Waarde;2017;6.0
+1534;Verzuimduur: 6 maanden of langer;Waarde;2018;7.0
+1535;Verzuimduur: 6 maanden of langer;Waarde;2019;7.0
+1536;Verzuimduur: 6 maanden of langer;Waarde;2020;5.0
+1537;Verzuimduur: 6 maanden of langer;Waarde;2021;8.0
+1538;Verzuimduur: 6 maanden of langer;Waarde;2022;5.0
+1539;Verzuimduur: 6 maanden of langer;Waarde;2023;7.0
+1540;Verzuimduur: 6 maanden of langer;Ondergrens 95%-interval;2014;4.0
+1541;Verzuimduur: 6 maanden of langer;Ondergrens 95%-interval;2015;4.0
+1542;Verzuimduur: 6 maanden of langer;Ondergrens 95%-interval;2016;3.0
+1543;Verzuimduur: 6 maanden of langer;Ondergrens 95%-interval;2017;4.0
+1544;Verzuimduur: 6 maanden of langer;Ondergrens 95%-interval;2018;6.0
+1545;Verzuimduur: 6 maanden of langer;Ondergrens 95%-interval;2019;5.0
+1546;Verzuimduur: 6 maanden of langer;Ondergrens 95%-interval;2020;3.0
+1547;Verzuimduur: 6 maanden of langer;Ondergrens 95%-interval;2021;6.0
+1548;Verzuimduur: 6 maanden of langer;Ondergrens 95%-interval;2022;4.0
+1549;Verzuimduur: 6 maanden of langer;Ondergrens 95%-interval;2023;5.0
+1550;Verzuimduur: 6 maanden of langer;Bovengrens 95%-interval;2014;8.0
+1551;Verzuimduur: 6 maanden of langer;Bovengrens 95%-interval;2015;7.0
+1552;Verzuimduur: 6 maanden of langer;Bovengrens 95%-interval;2016;7.0
+1553;Verzuimduur: 6 maanden of langer;Bovengrens 95%-interval;2017;8.0
+1554;Verzuimduur: 6 maanden of langer;Bovengrens 95%-interval;2018;10.0
+1555;Verzuimduur: 6 maanden of langer;Bovengrens 95%-interval;2019;9.0
+1556;Verzuimduur: 6 maanden of langer;Bovengrens 95%-interval;2020;7.0
+1557;Verzuimduur: 6 maanden of langer;Bovengrens 95%-interval;2021;11.0
+1558;Verzuimduur: 6 maanden of langer;Bovengrens 95%-interval;2022;7.0
+1559;Verzuimduur: 6 maanden of langer;Bovengrens 95%-interval;2023;9.0
+1560;Verzuimduur: onbekend;Waarde;2014;1.0
+1561;Verzuimduur: onbekend;Waarde;2015;0.0
+1562;Verzuimduur: onbekend;Waarde;2016;1.0
+1563;Verzuimduur: onbekend;Waarde;2017;1.0
+1564;Verzuimduur: onbekend;Waarde;2018;0.0
+1565;Verzuimduur: onbekend;Waarde;2019;0.0
+1566;Verzuimduur: onbekend;Waarde;2020;0.0
+1567;Verzuimduur: onbekend;Waarde;2021;0.0
+1568;Verzuimduur: onbekend;Waarde;2022;1.0
+1569;Verzuimduur: onbekend;Waarde;2023;0.0
+1570;Verzuimduur: onbekend;Ondergrens 95%-interval;2014;0.0
+1571;Verzuimduur: onbekend;Ondergrens 95%-interval;2015;0.0
+1572;Verzuimduur: onbekend;Ondergrens 95%-interval;2016;1.0
+1573;Verzuimduur: onbekend;Ondergrens 95%-interval;2017;0.0
+1574;Verzuimduur: onbekend;Ondergrens 95%-interval;2018;0.0
+1575;Verzuimduur: onbekend;Ondergrens 95%-interval;2019;0.0
+1576;Verzuimduur: onbekend;Ondergrens 95%-interval;2020;0.0
+1577;Verzuimduur: onbekend;Ondergrens 95%-interval;2021;0.0
+1578;Verzuimduur: onbekend;Ondergrens 95%-interval;2022;0.0
+1579;Verzuimduur: onbekend;Ondergrens 95%-interval;2023;0.0
+1580;Verzuimduur: onbekend;Bovengrens 95%-interval;2014;2.0
+1581;Verzuimduur: onbekend;Bovengrens 95%-interval;2015;1.0
+1582;Verzuimduur: onbekend;Bovengrens 95%-interval;2016;2.0
+1583;Verzuimduur: onbekend;Bovengrens 95%-interval;2017;2.0
+1584;Verzuimduur: onbekend;Bovengrens 95%-interval;2018;1.0
+1585;Verzuimduur: onbekend;Bovengrens 95%-interval;2019;1.0
+1586;Verzuimduur: onbekend;Bovengrens 95%-interval;2020;1.0
+1587;Verzuimduur: onbekend;Bovengrens 95%-interval;2021;1.0
+1588;Verzuimduur: onbekend;Bovengrens 95%-interval;2022;1.0
+1589;Verzuimduur: onbekend;Bovengrens 95%-interval;2023;1.0

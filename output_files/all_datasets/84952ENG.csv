@@ -1,0 +1,827 @@
+﻿ID;FarmAnimals;Periods;Livestock_1
+0;Cattle (total);2018 April;3897
+1;Cattle (total);2018 December;3690
+2;Cattle (total);2019 April;3750
+3;Cattle (total);2019 December;3721
+4;Cattle (total);2020 April;3766
+5;Cattle (total);2020 December;3691
+6;Cattle (total);2021 April;3732
+7;Cattle (total);2021 December;3705
+8;Cattle (total);2022 April;3766
+9;Cattle (total);2022 December;3751
+10;Cattle (total);2023 April;3749
+11;Cattle (total);2023 December;3739
+12;Cattle (total);2024 April;3693
+13;Cattle (total);2024 December;3542
+14;Young cattle for milk (total);2018 April;1032
+15;Young cattle for milk (total);2018 December;951
+16;Young cattle for milk (total);2019 April;924
+17;Young cattle for milk (total);2019 December;954
+18;Young cattle for milk (total);2020 April;935
+19;Young cattle for milk (total);2020 December;985
+20;Young cattle for milk (total);2021 April;966
+21;Young cattle for milk (total);2021 December;984
+22;Young cattle for milk (total);2022 April;982
+23;Young cattle for milk (total);2022 December;1006
+24;Young cattle for milk (total);2023 April;992
+25;Young cattle for milk (total);2023 December;1000
+26;Young cattle for milk (total);2024 April;967
+27;Young cattle for milk (total);2024 December;940
+28;Young cattle for milk, < 1 year, female;2018 April;438
+29;Young cattle for milk, < 1 year, female;2018 December;407
+30;Young cattle for milk, < 1 year, female;2019 April;410
+31;Young cattle for milk, < 1 year, female;2019 December;434
+32;Young cattle for milk, < 1 year, female;2020 April;439
+33;Young cattle for milk, < 1 year, female;2020 December;455
+34;Young cattle for milk, < 1 year, female;2021 April;451
+35;Young cattle for milk, < 1 year, female;2021 December;449
+36;Young cattle for milk, < 1 year, female;2022 April;453
+37;Young cattle for milk, < 1 year, female;2022 December;463
+38;Young cattle for milk, < 1 year, female;2023 April;456
+39;Young cattle for milk, < 1 year, female;2023 December;442
+40;Young cattle for milk, < 1 year, female;2024 April;430
+41;Young cattle for milk, < 1 year, female;2024 December;413
+42;Young cattle for milk, < 1 year, male;2018 April;45
+43;Young cattle for milk, < 1 year, male;2018 December;47
+44;Young cattle for milk, < 1 year, male;2019 April;43
+45;Young cattle for milk, < 1 year, male;2019 December;52
+46;Young cattle for milk, < 1 year, male;2020 April;41
+47;Young cattle for milk, < 1 year, male;2020 December;54
+48;Young cattle for milk, < 1 year, male;2021 April;41
+49;Young cattle for milk, < 1 year, male;2021 December;48
+50;Young cattle for milk, < 1 year, male;2022 April;40
+51;Young cattle for milk, < 1 year, male;2022 December;51
+52;Young cattle for milk, < 1 year, male;2023 April;43
+53;Young cattle for milk, < 1 year, male;2023 December;49
+54;Young cattle for milk, < 1 year, male;2024 April;44
+55;Young cattle for milk, < 1 year, male;2024 December;51
+56;Young cattle for milk, 1-2 years, female;2018 April;447
+57;Young cattle for milk, 1-2 years, female;2018 December;399
+58;Young cattle for milk, 1-2 years, female;2019 April;388
+59;Young cattle for milk, 1-2 years, female;2019 December;373
+60;Young cattle for milk, 1-2 years, female;2020 April;373
+61;Young cattle for milk, 1-2 years, female;2020 December;394
+62;Young cattle for milk, 1-2 years, female;2021 April;399
+63;Young cattle for milk, 1-2 years, female;2021 December;405
+64;Young cattle for milk, 1-2 years, female;2022 April;413
+65;Young cattle for milk, 1-2 years, female;2022 December;412
+66;Young cattle for milk, 1-2 years, female;2023 April;415
+67;Young cattle for milk, 1-2 years, female;2023 December;423
+68;Young cattle for milk, 1-2 years, female;2024 April;414
+69;Young cattle for milk, 1-2 years, female;2024 December;395
+70;Young cattle for milk, 1-2 years, male;2018 April;8
+71;Young cattle for milk, 1-2 years, male;2018 December;10
+72;Young cattle for milk, 1-2 years, male;2019 April;8
+73;Young cattle for milk, 1-2 years, male;2019 December;9
+74;Young cattle for milk, 1-2 years, male;2020 April;8
+75;Young cattle for milk, 1-2 years, male;2020 December;10
+76;Young cattle for milk, 1-2 years, male;2021 April;10
+77;Young cattle for milk, 1-2 years, male;2021 December;10
+78;Young cattle for milk, 1-2 years, male;2022 April;9
+79;Young cattle for milk, 1-2 years, male;2022 December;10
+80;Young cattle for milk, 1-2 years, male;2023 April;9
+81;Young cattle for milk, 1-2 years, male;2023 December;11
+82;Young cattle for milk, 1-2 years, male;2024 April;9
+83;Young cattle for milk, 1-2 years, male;2024 December;10
+84;Young cattle for milk, >= 2 years, fem.;2018 April;93
+85;Young cattle for milk, >= 2 years, fem.;2018 December;88
+86;Young cattle for milk, >= 2 years, fem.;2019 April;74
+87;Young cattle for milk, >= 2 years, fem.;2019 December;86
+88;Young cattle for milk, >= 2 years, fem.;2020 April;74
+89;Young cattle for milk, >= 2 years, fem.;2020 December;72
+90;Young cattle for milk, >= 2 years, fem.;2021 April;65
+91;Young cattle for milk, >= 2 years, fem.;2021 December;72
+92;Young cattle for milk, >= 2 years, fem.;2022 April;67
+93;Young cattle for milk, >= 2 years, fem.;2022 December;71
+94;Young cattle for milk, >= 2 years, fem.;2023 April;70
+95;Young cattle for milk, >= 2 years, fem.;2023 December;76
+96;Young cattle for milk, >= 2 years, fem.;2024 April;70
+97;Young cattle for milk, >= 2 years, fem.;2024 December;72
+98;Dairy cows (>= 2 years);2018 April;1622
+99;Dairy cows (>= 2 years);2018 December;1552
+100;Dairy cows (>= 2 years);2019 April;1578
+101;Dairy cows (>= 2 years);2019 December;1590
+102;Dairy cows (>= 2 years);2020 April;1593
+103;Dairy cows (>= 2 years);2020 December;1569
+104;Dairy cows (>= 2 years);2021 April;1571
+105;Dairy cows (>= 2 years);2021 December;1554
+106;Dairy cows (>= 2 years);2022 April;1571
+107;Dairy cows (>= 2 years);2022 December;1570
+108;Dairy cows (>= 2 years);2023 April;1574
+109;Dairy cows (>= 2 years);2023 December;1552
+110;Dairy cows (>= 2 years);2024 April;1544
+111;Dairy cows (>= 2 years);2024 December;1521
+112;Veal calves (total);2018 April;995
+113;Veal calves (total);2018 December;988
+114;Veal calves (total);2019 April;1005
+115;Veal calves (total);2019 December;978
+116;Veal calves (total);2020 April;1000
+117;Veal calves (total);2020 December;939
+118;Veal calves (total);2021 April;958
+119;Veal calves (total);2021 December;960
+120;Veal calves (total);2022 April;974
+121;Veal calves (total);2022 December;953
+122;Veal calves (total);2023 April;927
+123;Veal calves (total);2023 December;957
+124;Veal calves (total);2024 April;925
+125;Veal calves (total);2024 December;858
+126;Calves for rosé meat (< 1 year);2018 April;366
+127;Calves for rosé meat (< 1 year);2018 December;355
+128;Calves for rosé meat (< 1 year);2019 April;373
+129;Calves for rosé meat (< 1 year);2019 December;364
+130;Calves for rosé meat (< 1 year);2020 April;371
+131;Calves for rosé meat (< 1 year);2020 December;325
+132;Calves for rosé meat (< 1 year);2021 April;339
+133;Calves for rosé meat (< 1 year);2021 December;328
+134;Calves for rosé meat (< 1 year);2022 April;351
+135;Calves for rosé meat (< 1 year);2022 December;339
+136;Calves for rosé meat (< 1 year);2023 April;336
+137;Calves for rosé meat (< 1 year);2023 December;331
+138;Calves for rosé meat (< 1 year);2024 April;324
+139;Calves for rosé meat (< 1 year);2024 December;312
+140;Calves for white meat (< 1 year);2018 April;629
+141;Calves for white meat (< 1 year);2018 December;633
+142;Calves for white meat (< 1 year);2019 April;632
+143;Calves for white meat (< 1 year);2019 December;614
+144;Calves for white meat (< 1 year);2020 April;628
+145;Calves for white meat (< 1 year);2020 December;614
+146;Calves for white meat (< 1 year);2021 April;619
+147;Calves for white meat (< 1 year);2021 December;632
+148;Calves for white meat (< 1 year);2022 April;623
+149;Calves for white meat (< 1 year);2022 December;614
+150;Calves for white meat (< 1 year);2023 April;591
+151;Calves for white meat (< 1 year);2023 December;626
+152;Calves for white meat (< 1 year);2024 April;601
+153;Calves for white meat (< 1 year);2024 December;547
+154;Young cattle for meat (total);2018 April;170
+155;Young cattle for meat (total);2018 December;144
+156;Young cattle for meat (total);2019 April;166
+157;Young cattle for meat (total);2019 December;143
+158;Young cattle for meat (total);2020 April;166
+159;Young cattle for meat (total);2020 December;144
+160;Young cattle for meat (total);2021 April;168
+161;Young cattle for meat (total);2021 December;150
+162;Young cattle for meat (total);2022 April;174
+163;Young cattle for meat (total);2022 December;166
+164;Young cattle for meat (total);2023 April;191
+165;Young cattle for meat (total);2023 December;171
+166;Young cattle for meat (total);2024 April;192
+167;Young cattle for meat (total);2024 December;167
+168;Young cattle for meat < 1 year, female;2018 April;31
+169;Young cattle for meat < 1 year, female;2018 December;22
+170;Young cattle for meat < 1 year, female;2019 April;31
+171;Young cattle for meat < 1 year, female;2019 December;23
+172;Young cattle for meat < 1 year, female;2020 April;32
+173;Young cattle for meat < 1 year, female;2020 December;24
+174;Young cattle for meat < 1 year, female;2021 April;32
+175;Young cattle for meat < 1 year, female;2021 December;26
+176;Young cattle for meat < 1 year, female;2022 April;35
+177;Young cattle for meat < 1 year, female;2022 December;31
+178;Young cattle for meat < 1 year, female;2023 April;39
+179;Young cattle for meat < 1 year, female;2023 December;32
+180;Young cattle for meat < 1 year, female;2024 April;42
+181;Young cattle for meat < 1 year, female;2024 December;34
+182;Young cattle for meat < 1 year, male;2018 April;51
+183;Young cattle for meat < 1 year, male;2018 December;46
+184;Young cattle for meat < 1 year, male;2019 April;47
+185;Young cattle for meat < 1 year, male;2019 December;41
+186;Young cattle for meat < 1 year, male;2020 April;46
+187;Young cattle for meat < 1 year, male;2020 December;39
+188;Young cattle for meat < 1 year, male;2021 April;42
+189;Young cattle for meat < 1 year, male;2021 December;35
+190;Young cattle for meat < 1 year, male;2022 April;44
+191;Young cattle for meat < 1 year, male;2022 December;39
+192;Young cattle for meat < 1 year, male;2023 April;44
+193;Young cattle for meat < 1 year, male;2023 December;38
+194;Young cattle for meat < 1 year, male;2024 April;43
+195;Young cattle for meat < 1 year, male;2024 December;37
+196;Young cattle for meat 1-2 years, female;2018 April;27
+197;Young cattle for meat 1-2 years, female;2018 December;21
+198;Young cattle for meat 1-2 years, female;2019 April;27
+199;Young cattle for meat 1-2 years, female;2019 December;22
+200;Young cattle for meat 1-2 years, female;2020 April;28
+201;Young cattle for meat 1-2 years, female;2020 December;26
+202;Young cattle for meat 1-2 years, female;2021 April;32
+203;Young cattle for meat 1-2 years, female;2021 December;28
+204;Young cattle for meat 1-2 years, female;2022 April;33
+205;Young cattle for meat 1-2 years, female;2022 December;36
+206;Young cattle for meat 1-2 years, female;2023 April;42
+207;Young cattle for meat 1-2 years, female;2023 December;39
+208;Young cattle for meat 1-2 years, female;2024 April;43
+209;Young cattle for meat 1-2 years, female;2024 December;38
+210;Young cattle for meat 1-2 years, male;2018 April;37
+211;Young cattle for meat 1-2 years, male;2018 December;35
+212;Young cattle for meat 1-2 years, male;2019 April;36
+213;Young cattle for meat 1-2 years, male;2019 December;37
+214;Young cattle for meat 1-2 years, male;2020 April;36
+215;Young cattle for meat 1-2 years, male;2020 December;35
+216;Young cattle for meat 1-2 years, male;2021 April;38
+217;Young cattle for meat 1-2 years, male;2021 December;38
+218;Young cattle for meat 1-2 years, male;2022 April;39
+219;Young cattle for meat 1-2 years, male;2022 December;39
+220;Young cattle for meat 1-2 years, male;2023 April;40
+221;Young cattle for meat 1-2 years, male;2023 December;38
+222;Young cattle for meat 1-2 years, male;2024 April;36
+223;Young cattle for meat 1-2 years, male;2024 December;33
+224;Young cattle for meat >= 2 years, female;2018 April;24
+225;Young cattle for meat >= 2 years, female;2018 December;20
+226;Young cattle for meat >= 2 years, female;2019 April;25
+227;Young cattle for meat >= 2 years, female;2019 December;21
+228;Young cattle for meat >= 2 years, female;2020 April;24
+229;Young cattle for meat >= 2 years, female;2020 December;21
+230;Young cattle for meat >= 2 years, female;2021 April;23
+231;Young cattle for meat >= 2 years, female;2021 December;21
+232;Young cattle for meat >= 2 years, female;2022 April;23
+233;Young cattle for meat >= 2 years, female;2022 December;22
+234;Young cattle for meat >= 2 years, female;2023 April;25
+235;Young cattle for meat >= 2 years, female;2023 December;25
+236;Young cattle for meat >= 2 years, female;2024 April;27
+237;Young cattle for meat >= 2 years, female;2024 December;25
+238;Other cattle (total);2018 April;63
+239;Other cattle (total);2018 December;42
+240;Other cattle (total);2019 April;63
+241;Other cattle (total);2019 December;43
+242;Other cattle (total);2020 April;58
+243;Other cattle (total);2020 December;43
+244;Other cattle (total);2021 April;56
+245;Other cattle (total);2021 December;45
+246;Other cattle (total);2022 April;53
+247;Other cattle (total);2022 December;44
+248;Other cattle (total);2023 April;52
+249;Other cattle (total);2023 December;45
+250;Other cattle (total);2024 April;51
+251;Other cattle (total);2024 December;43
+252;Bulls (>= 2 years) (total);2018 April;15
+253;Bulls (>= 2 years) (total);2018 December;13
+254;Bulls (>= 2 years) (total);2019 April;14
+255;Bulls (>= 2 years) (total);2019 December;13
+256;Bulls (>= 2 years) (total);2020 April;14
+257;Bulls (>= 2 years) (total);2020 December;11
+258;Bulls (>= 2 years) (total);2021 April;13
+259;Bulls (>= 2 years) (total);2021 December;12
+260;Bulls (>= 2 years) (total);2022 April;12
+261;Bulls (>= 2 years) (total);2022 December;12
+262;Bulls (>= 2 years) (total);2023 April;14
+263;Bulls (>= 2 years) (total);2023 December;13
+264;Bulls (>= 2 years) (total);2024 April;15
+265;Bulls (>= 2 years) (total);2024 December;13
+266;Sheep (total);2018 April;866
+267;Sheep (total);2018 December;743
+268;Sheep (total);2019 April;918
+269;Sheep (total);2019 December;758
+270;Sheep (total);2020 April;890
+271;Sheep (total);2020 December;710
+272;Sheep (total);2021 April;860
+273;Sheep (total);2021 December;729
+274;Sheep (total);2022 April;854
+275;Sheep (total);2022 December;723
+276;Sheep (total);2023 April;839
+277;Sheep (total);2023 December;665
+278;Sheep (total);2024 April;733
+279;Sheep (total);2024 December;604
+280;Sheep 0 to 7 months;2018 April;327
+281;Sheep 0 to 7 months;2018 December;88
+282;Sheep 0 to 7 months;2019 April;335
+283;Sheep 0 to 7 months;2019 December;88
+284;Sheep 0 to 7 months;2020 April;341
+285;Sheep 0 to 7 months;2020 December;88
+286;Sheep 0 to 7 months;2021 April;338
+287;Sheep 0 to 7 months;2021 December;93
+288;Sheep 0 to 7 months;2022 April;313
+289;Sheep 0 to 7 months;2022 December;88
+290;Sheep 0 to 7 months;2023 April;289
+291;Sheep 0 to 7 months;2023 December;90
+292;Sheep 0 to 7 months;2024 April;237
+293;Sheep 0 to 7 months;2024 December;94
+294;Sheep for milking 7 months to 1 year;2018 April;1
+295;Sheep for milking 7 months to 1 year;2018 December;4
+296;Sheep for milking 7 months to 1 year;2019 April;2
+297;Sheep for milking 7 months to 1 year;2019 December;4
+298;Sheep for milking 7 months to 1 year;2020 April;1
+299;Sheep for milking 7 months to 1 year;2020 December;3
+300;Sheep for milking 7 months to 1 year;2021 April;1
+301;Sheep for milking 7 months to 1 year;2021 December;4
+302;Sheep for milking 7 months to 1 year;2022 April;1
+303;Sheep for milking 7 months to 1 year;2022 December;3
+304;Sheep for milking 7 months to 1 year;2023 April;2
+305;Sheep for milking 7 months to 1 year;2023 December;3
+306;Sheep for milking 7 months to 1 year;2024 April;1
+307;Sheep for milking 7 months to 1 year;2024 December;3
+308;Sheep for milking older than 1 year;2018 April;11
+309;Sheep for milking older than 1 year;2018 December;10
+310;Sheep for milking older than 1 year;2019 April;14
+311;Sheep for milking older than 1 year;2019 December;12
+312;Sheep for milking older than 1 year;2020 April;14
+313;Sheep for milking older than 1 year;2020 December;12
+314;Sheep for milking older than 1 year;2021 April;14
+315;Sheep for milking older than 1 year;2021 December;13
+316;Sheep for milking older than 1 year;2022 April;13
+317;Sheep for milking older than 1 year;2022 December;12
+318;Sheep for milking older than 1 year;2023 April;14
+319;Sheep for milking older than 1 year;2023 December;12
+320;Sheep for milking older than 1 year;2024 April;11
+321;Sheep for milking older than 1 year;2024 December;10
+322;Other sheep 7 months to 1 year;2018 April;84
+323;Other sheep 7 months to 1 year;2018 December;245
+324;Other sheep 7 months to 1 year;2019 April;103
+325;Other sheep 7 months to 1 year;2019 December;239
+326;Other sheep 7 months to 1 year;2020 April;79
+327;Other sheep 7 months to 1 year;2020 December;210
+328;Other sheep 7 months to 1 year;2021 April;72
+329;Other sheep 7 months to 1 year;2021 December;234
+330;Other sheep 7 months to 1 year;2022 April;85
+331;Other sheep 7 months to 1 year;2022 December;224
+332;Other sheep 7 months to 1 year;2023 April;84
+333;Other sheep 7 months to 1 year;2023 December;190
+334;Other sheep 7 months to 1 year;2024 April;76
+335;Other sheep 7 months to 1 year;2024 December;160
+336;Other sheep older than 1 year;2018 April;421
+337;Other sheep older than 1 year;2018 December;369
+338;Other sheep older than 1 year;2019 April;437
+339;Other sheep older than 1 year;2019 December;382
+340;Other sheep older than 1 year;2020 April;432
+341;Other sheep older than 1 year;2020 December;369
+342;Other sheep older than 1 year;2021 April;413
+343;Other sheep older than 1 year;2021 December;358
+344;Other sheep older than 1 year;2022 April;419
+345;Other sheep older than 1 year;2022 December;369
+346;Other sheep older than 1 year;2023 April;425
+347;Other sheep older than 1 year;2023 December;346
+348;Other sheep older than 1 year;2024 April;386
+349;Other sheep older than 1 year;2024 December;315
+350;Rams >= 7 months;2018 April;22
+351;Rams >= 7 months;2018 December;27
+352;Rams >= 7 months;2019 April;27
+353;Rams >= 7 months;2019 December;32
+354;Rams >= 7 months;2020 April;24
+355;Rams >= 7 months;2020 December;27
+356;Rams >= 7 months;2021 April;22
+357;Rams >= 7 months;2021 December;27
+358;Rams >= 7 months;2022 April;23
+359;Rams >= 7 months;2022 December;27
+360;Rams >= 7 months;2023 April;25
+361;Rams >= 7 months;2023 December;25
+362;Rams >= 7 months;2024 April;20
+363;Rams >= 7 months;2024 December;22
+364;Goats (total);2018 April;588
+365;Goats (total);2018 December;518
+366;Goats (total);2019 April;615
+367;Goats (total);2019 December;551
+368;Goats (total);2020 April;633
+369;Goats (total);2020 December;557
+370;Goats (total);2021 April;643
+371;Goats (total);2021 December;575
+372;Goats (total);2022 April;645
+373;Goats (total);2022 December;570
+374;Goats (total);2023 April;647
+375;Goats (total);2023 December;566
+376;Goats (total);2024 April;631
+377;Goats (total);2024 December;546
+378;Goats 0 to 7 months;2018 April;137
+379;Goats 0 to 7 months;2018 December;25
+380;Goats 0 to 7 months;2019 April;133
+381;Goats 0 to 7 months;2019 December;31
+382;Goats 0 to 7 months;2020 April;132
+383;Goats 0 to 7 months;2020 December;34
+384;Goats 0 to 7 months;2021 April;137
+385;Goats 0 to 7 months;2021 December;33
+386;Goats 0 to 7 months;2022 April;133
+387;Goats 0 to 7 months;2022 December;32
+388;Goats 0 to 7 months;2023 April;134
+389;Goats 0 to 7 months;2023 December;31
+390;Goats 0 to 7 months;2024 April;133
+391;Goats 0 to 7 months;2024 December;30
+392;Dairy goats 7 months to 1 year;2018 April;45
+393;Dairy goats 7 months to 1 year;2018 December;103
+394;Dairy goats 7 months to 1 year;2019 April;37
+395;Dairy goats 7 months to 1 year;2019 December;96
+396;Dairy goats 7 months to 1 year;2020 April;35
+397;Dairy goats 7 months to 1 year;2020 December;96
+398;Dairy goats 7 months to 1 year;2021 April;32
+399;Dairy goats 7 months to 1 year;2021 December;103
+400;Dairy goats 7 months to 1 year;2022 April;33
+401;Dairy goats 7 months to 1 year;2022 December;98
+402;Dairy goats 7 months to 1 year;2023 April;32
+403;Dairy goats 7 months to 1 year;2023 December;95
+404;Dairy goats 7 months to 1 year;2024 April;29
+405;Dairy goats 7 months to 1 year;2024 December;94
+406;Dairy goats 1 year or older;2018 April;387
+407;Dairy goats 1 year or older;2018 December;366
+408;Dairy goats 1 year or older;2019 April;420
+409;Dairy goats 1 year or older;2019 December;396
+410;Dairy goats 1 year or older;2020 April;441
+411;Dairy goats 1 year or older;2020 December;401
+412;Dairy goats 1 year or older;2021 April;451
+413;Dairy goats 1 year or older;2021 December;416
+414;Dairy goats 1 year or older;2022 April;456
+415;Dairy goats 1 year or older;2022 December;417
+416;Dairy goats 1 year or older;2023 April;458
+417;Dairy goats 1 year or older;2023 December;417
+418;Dairy goats 1 year or older;2024 April;446
+419;Dairy goats 1 year or older;2024 December;398
+420;Other goats 7 months to 1 year;2018 April;2
+421;Other goats 7 months to 1 year;2018 December;5
+422;Other goats 7 months to 1 year;2019 April;2
+423;Other goats 7 months to 1 year;2019 December;4
+424;Other goats 7 months to 1 year;2020 April;2
+425;Other goats 7 months to 1 year;2020 December;4
+426;Other goats 7 months to 1 year;2021 April;1
+427;Other goats 7 months to 1 year;2021 December;2
+428;Other goats 7 months to 1 year;2022 April;2
+429;Other goats 7 months to 1 year;2022 December;2
+430;Other goats 7 months to 1 year;2023 April;1
+431;Other goats 7 months to 1 year;2023 December;2
+432;Other goats 7 months to 1 year;2024 April;1
+433;Other goats 7 months to 1 year;2024 December;2
+434;Other goats 1 year or older;2018 April;9
+435;Other goats 1 year or older;2018 December;9
+436;Other goats 1 year or older;2019 April;13
+437;Other goats 1 year or older;2019 December;13
+438;Other goats 1 year or older;2020 April;12
+439;Other goats 1 year or older;2020 December;12
+440;Other goats 1 year or older;2021 April;11
+441;Other goats 1 year or older;2021 December;11
+442;Other goats 1 year or older;2022 April;12
+443;Other goats 1 year or older;2022 December;11
+444;Other goats 1 year or older;2023 April;12
+445;Other goats 1 year or older;2023 December;11
+446;Other goats 1 year or older;2024 April;11
+447;Other goats 1 year or older;2024 December;11
+448;Male goats 7 months or older;2018 April;9
+449;Male goats 7 months or older;2018 December;10
+450;Male goats 7 months or older;2019 April;10
+451;Male goats 7 months or older;2019 December;11
+452;Male goats 7 months or older;2020 April;10
+453;Male goats 7 months or older;2020 December;11
+454;Male goats 7 months or older;2021 April;10
+455;Male goats 7 months or older;2021 December;11
+456;Male goats 7 months or older;2022 April;10
+457;Male goats 7 months or older;2022 December;11
+458;Male goats 7 months or older;2023 April;10
+459;Male goats 7 months or older;2023 December;11
+460;Male goats 7 months or older;2024 April;10
+461;Male goats 7 months or older;2024 December;11
+462;Chickens (total);2018 April;97792
+463;Chickens (total);2018 December;94892
+464;Chickens (total);2019 April;93963
+465;Chickens (total);2019 December;92974
+466;Chickens (total);2020 April;95153
+467;Chickens (total);2020 December;87456
+468;Chickens (total);2021 April;89508
+469;Chickens (total);2021 December;89503
+470;Chickens (total);2022 April;88372
+471;Chickens (total);2022 December;83086
+472;Chickens (total);2023 April;86274
+473;Chickens (total);2023 December;82036
+474;Chickens (total);2024 April;83285
+475;Chickens (total);2024 December;82339
+476;Laying hens (total);2018 April;45773
+477;Laying hens (total);2018 December;43169
+478;Laying hens (total);2019 April;42609
+479;Laying hens (total);2019 December;41597
+480;Laying hens (total);2020 April;42015
+481;Laying hens (total);2020 December;42260
+482;Laying hens (total);2021 April;42442
+483;Laying hens (total);2021 December;41899
+484;Laying hens (total);2022 April;41334
+485;Laying hens (total);2022 December;40319
+486;Laying hens (total);2023 April;41953
+487;Laying hens (total);2023 December;39991
+488;Laying hens (total);2024 April;39332
+489;Laying hens (total);2024 December;37569
+490;Laying hens for rearing;2018 April;11209
+491;Laying hens for rearing;2018 December;10046
+492;Laying hens for rearing;2019 April;9804
+493;Laying hens for rearing;2019 December;9810
+494;Laying hens for rearing;2020 April;10784
+495;Laying hens for rearing;2020 December;9315
+496;Laying hens for rearing;2021 April;10109
+497;Laying hens for rearing;2021 December;8489
+498;Laying hens for rearing;2022 April;9224
+499;Laying hens for rearing;2022 December;8183
+500;Laying hens for rearing;2023 April;9700
+501;Laying hens for rearing;2023 December;8268
+502;Laying hens for rearing;2024 April;8892
+503;Laying hens for rearing;2024 December;6860
+504;Laying hens for production (< 20 months);2018 April;30565
+505;Laying hens for production (< 20 months);2018 December;30267
+506;Laying hens for production (< 20 months);2019 April;29423
+507;Laying hens for production (< 20 months);2019 December;29087
+508;Laying hens for production (< 20 months);2020 April;28192
+509;Laying hens for production (< 20 months);2020 December;31001
+510;Laying hens for production (< 20 months);2021 April;29431
+511;Laying hens for production (< 20 months);2021 December;30534
+512;Laying hens for production (< 20 months);2022 April;28005
+513;Laying hens for production (< 20 months);2022 December;28042
+514;Laying hens for production (< 20 months);2023 April;26396
+515;Laying hens for production (< 20 months);2023 December;27100
+516;Laying hens for production (< 20 months);2024 April;25461
+517;Laying hens for production (< 20 months);2024 December;26387
+518;Laying hens for production (>=20 months);2018 April;3999
+519;Laying hens for production (>=20 months);2018 December;2856
+520;Laying hens for production (>=20 months);2019 April;3382
+521;Laying hens for production (>=20 months);2019 December;2700
+522;Laying hens for production (>=20 months);2020 April;3039
+523;Laying hens for production (>=20 months);2020 December;1943
+524;Laying hens for production (>=20 months);2021 April;2902
+525;Laying hens for production (>=20 months);2021 December;2876
+526;Laying hens for production (>=20 months);2022 April;4105
+527;Laying hens for production (>=20 months);2022 December;4094
+528;Laying hens for production (>=20 months);2023 April;5857
+529;Laying hens for production (>=20 months);2023 December;4623
+530;Laying hens for production (>=20 months);2024 April;4979
+531;Laying hens for production (>=20 months);2024 December;4322
+532;Breeding stock for laying hens (total);2018 April;1380
+533;Breeding stock for laying hens (total);2018 December;1507
+534;Breeding stock for laying hens (total);2019 April;1574
+535;Breeding stock for laying hens (total);2019 December;1436
+536;Breeding stock for laying hens (total);2020 April;1422
+537;Breeding stock for laying hens (total);2020 December;1535
+538;Breeding stock for laying hens (total);2021 April;1765
+539;Breeding stock for laying hens (total);2021 December;1757
+540;Breeding stock for laying hens (total);2022 April;1834
+541;Breeding stock for laying hens (total);2022 December;1588
+542;Breeding stock for laying hens (total);2023 April;1506
+543;Breeding stock for laying hens (total);2023 December;1522
+544;Breeding stock for laying hens (total);2024 April;1534
+545;Breeding stock for laying hens (total);2024 December;1829
+546;Breeding stock for laying hens, rearing;2018 April;330
+547;Breeding stock for laying hens, rearing;2018 December;363
+548;Breeding stock for laying hens, rearing;2019 April;382
+549;Breeding stock for laying hens, rearing;2019 December;254
+550;Breeding stock for laying hens, rearing;2020 April;289
+551;Breeding stock for laying hens, rearing;2020 December;448
+552;Breeding stock for laying hens, rearing;2021 April;485
+553;Breeding stock for laying hens, rearing;2021 December;576
+554;Breeding stock for laying hens, rearing;2022 April;476
+555;Breeding stock for laying hens, rearing;2022 December;318
+556;Breeding stock for laying hens, rearing;2023 April;332
+557;Breeding stock for laying hens, rearing;2023 December;314
+558;Breeding stock for laying hens, rearing;2024 April;364
+559;Breeding stock for laying hens, rearing;2024 December;650
+560;Breeding stock for laying hens prod.;2018 April;1050
+561;Breeding stock for laying hens prod.;2018 December;1145
+562;Breeding stock for laying hens prod.;2019 April;1192
+563;Breeding stock for laying hens prod.;2019 December;1182
+564;Breeding stock for laying hens prod.;2020 April;1133
+565;Breeding stock for laying hens prod.;2020 December;1087
+566;Breeding stock for laying hens prod.;2021 April;1280
+567;Breeding stock for laying hens prod.;2021 December;1181
+568;Breeding stock for laying hens prod.;2022 April;1358
+569;Breeding stock for laying hens prod.;2022 December;1270
+570;Breeding stock for laying hens prod.;2023 April;1174
+571;Breeding stock for laying hens prod.;2023 December;1207
+572;Breeding stock for laying hens prod.;2024 April;1170
+573;Breeding stock for laying hens prod.;2024 December;1179
+574;Broilers;2018 April;43188
+575;Broilers;2018 December;42930
+576;Broilers;2019 April;42617
+577;Broilers;2019 December;42452
+578;Broilers;2020 April;44325
+579;Broilers;2020 December;36710
+580;Broilers;2021 April;37928
+581;Broilers;2021 December;38785
+582;Broilers;2022 April;38160
+583;Broilers;2022 December;34349
+584;Broilers;2023 April;35961
+585;Broilers;2023 December;33717
+586;Broilers;2024 April;35660
+587;Broilers;2024 December;36373
+588;Breeding stock for broilers (total);2018 April;7451
+589;Breeding stock for broilers (total);2018 December;7286
+590;Breeding stock for broilers (total);2019 April;7163
+591;Breeding stock for broilers (total);2019 December;7490
+592;Breeding stock for broilers (total);2020 April;7391
+593;Breeding stock for broilers (total);2020 December;6951
+594;Breeding stock for broilers (total);2021 April;7373
+595;Breeding stock for broilers (total);2021 December;7062
+596;Breeding stock for broilers (total);2022 April;7045
+597;Breeding stock for broilers (total);2022 December;6830
+598;Breeding stock for broilers (total);2023 April;6855
+599;Breeding stock for broilers (total);2023 December;6807
+600;Breeding stock for broilers (total);2024 April;6759
+601;Breeding stock for broilers (total);2024 December;6568
+602;Breeding stock for broilers, rearing;2018 April;2775
+603;Breeding stock for broilers, rearing;2018 December;2656
+604;Breeding stock for broilers, rearing;2019 April;2544
+605;Breeding stock for broilers, rearing;2019 December;3085
+606;Breeding stock for broilers, rearing;2020 April;2664
+607;Breeding stock for broilers, rearing;2020 December;2857
+608;Breeding stock for broilers, rearing;2021 April;2710
+609;Breeding stock for broilers, rearing;2021 December;2926
+610;Breeding stock for broilers, rearing;2022 April;2595
+611;Breeding stock for broilers, rearing;2022 December;2576
+612;Breeding stock for broilers, rearing;2023 April;2548
+613;Breeding stock for broilers, rearing;2023 December;2717
+614;Breeding stock for broilers, rearing;2024 April;2608
+615;Breeding stock for broilers, rearing;2024 December;2514
+616;"Breeding stock for broilers; production";2018 April;4677
+617;"Breeding stock for broilers; production";2018 December;4630
+618;"Breeding stock for broilers; production";2019 April;4620
+619;"Breeding stock for broilers; production";2019 December;4405
+620;"Breeding stock for broilers; production";2020 April;4727
+621;"Breeding stock for broilers; production";2020 December;4094
+622;"Breeding stock for broilers; production";2021 April;4663
+623;"Breeding stock for broilers; production";2021 December;4137
+624;"Breeding stock for broilers; production";2022 April;4450
+625;"Breeding stock for broilers; production";2022 December;4254
+626;"Breeding stock for broilers; production";2023 April;4307
+627;"Breeding stock for broilers; production";2023 December;4090
+628;"Breeding stock for broilers; production";2024 April;4150
+629;"Breeding stock for broilers; production";2024 December;4054
+630;Ducks for slaughter;2018 April;872
+631;Ducks for slaughter;2018 December;861
+632;Ducks for slaughter;2019 April;920
+633;Ducks for slaughter;2019 December;763
+634;Ducks for slaughter;2020 April;712
+635;Ducks for slaughter;2020 December;680
+636;Ducks for slaughter;2021 April;568
+637;Ducks for slaughter;2021 December;722
+638;Ducks for slaughter;2022 April;607
+639;Ducks for slaughter;2022 December;546
+640;Ducks for slaughter;2023 April;453
+641;Ducks for slaughter;2023 December;524
+642;Ducks for slaughter;2024 April;378
+643;Ducks for slaughter;2024 December;363
+644;Turkeys;2018 April;556
+645;Turkeys;2018 December;578
+646;Turkeys;2019 April;532
+647;Turkeys;2019 December;607
+648;Turkeys;2020 April;566
+649;Turkeys;2020 December;573
+650;Turkeys;2021 April;589
+651;Turkeys;2021 December;601
+652;Turkeys;2022 April;474
+653;Turkeys;2022 December;337
+654;Turkeys;2023 April;530
+655;Turkeys;2023 December;512
+656;Turkeys;2024 April;493
+657;Turkeys;2024 December;370
+658;Pigs (total);2018 April;12391
+659;Pigs (total);2018 December;11909
+660;Pigs (total);2019 April;12214
+661;Pigs (total);2019 December;11921
+662;Pigs (total);2020 April;11860
+663;Pigs (total);2020 December;11541
+664;Pigs (total);2021 April;11372
+665;Pigs (total);2021 December;10872
+666;Pigs (total);2022 April;11235
+667;Pigs (total);2022 December;10706
+668;Pigs (total);2023 April;10770
+669;Pigs (total);2023 December;10375
+670;Pigs (total);2024 April;10477
+671;Pigs (total);2024 December;10182
+672;Piglets < 20 kg, still with the sow;2018 April;2202
+673;Piglets < 20 kg, still with the sow;2018 December;1888
+674;Piglets < 20 kg, still with the sow;2019 April;2174
+675;Piglets < 20 kg, still with the sow;2019 December;1910
+676;Piglets < 20 kg, still with the sow;2020 April;2118
+677;Piglets < 20 kg, still with the sow;2020 December;1850
+678;Piglets < 20 kg, still with the sow;2021 April;1978
+679;Piglets < 20 kg, still with the sow;2021 December;1766
+680;Piglets < 20 kg, still with the sow;2022 April;1984
+681;Piglets < 20 kg, still with the sow;2022 December;1735
+682;Piglets < 20 kg, still with the sow;2023 April;1954
+683;Piglets < 20 kg, still with the sow;2023 December;1862
+684;Piglets < 20 kg, still with the sow;2024 April;1917
+685;Piglets < 20 kg, still with the sow;2024 December;1740
+686;Young pigs < 50 kg;2018 April;5265
+687;Young pigs < 50 kg;2018 December;5015
+688;Young pigs < 50 kg;2019 April;5168
+689;Young pigs < 50 kg;2019 December;4796
+690;Young pigs < 50 kg;2020 April;5016
+691;Young pigs < 50 kg;2020 December;4718
+692;Young pigs < 50 kg;2021 April;4819
+693;Young pigs < 50 kg;2021 December;4556
+694;Young pigs < 50 kg;2022 April;4747
+695;Young pigs < 50 kg;2022 December;4252
+696;Young pigs < 50 kg;2023 April;4532
+697;Young pigs < 50 kg;2023 December;4089
+698;Young pigs < 50 kg;2024 April;4392
+699;Young pigs < 50 kg;2024 December;4283
+700;Pigs for fattening, >=50 kg (total);2018 April;3865
+701;Pigs for fattening, >=50 kg (total);2018 December;4032
+702;Pigs for fattening, >=50 kg (total);2019 April;3853
+703;Pigs for fattening, >=50 kg (total);2019 December;4163
+704;Pigs for fattening, >=50 kg (total);2020 April;3719
+705;Pigs for fattening, >=50 kg (total);2020 December;4045
+706;Pigs for fattening, >=50 kg (total);2021 April;3630
+707;Pigs for fattening, >=50 kg (total);2021 December;3632
+708;Pigs for fattening, >=50 kg (total);2022 April;3578
+709;Pigs for fattening, >=50 kg (total);2022 December;3827
+710;Pigs for fattening, >=50 kg (total);2023 April;3403
+711;Pigs for fattening, >=50 kg (total);2023 December;3506
+712;Pigs for fattening, >=50 kg (total);2024 April;3310
+713;Pigs for fattening, >=50 kg (total);2024 December;3370
+714;Pigs for fattening, 50 - 80 kg;2018 April;1745
+715;Pigs for fattening, 50 - 80 kg;2018 December;1666
+716;Pigs for fattening, 50 - 80 kg;2019 April;1725
+717;Pigs for fattening, 50 - 80 kg;2019 December;1755
+718;Pigs for fattening, 50 - 80 kg;2020 April;1651
+719;Pigs for fattening, 50 - 80 kg;2020 December;1731
+720;Pigs for fattening, 50 - 80 kg;2021 April;1590
+721;Pigs for fattening, 50 - 80 kg;2021 December;1587
+722;Pigs for fattening, 50 - 80 kg;2022 April;1551
+723;Pigs for fattening, 50 - 80 kg;2022 December;1630
+724;Pigs for fattening, 50 - 80 kg;2023 April;1469
+725;Pigs for fattening, 50 - 80 kg;2023 December;1489
+726;Pigs for fattening, 50 - 80 kg;2024 April;1417
+727;Pigs for fattening, 50 - 80 kg;2024 December;1438
+728;Pigs for fattening, 80 - 110 kg;2018 April;1649
+729;Pigs for fattening, 80 - 110 kg;2018 December;1679
+730;Pigs for fattening, 80 - 110 kg;2019 April;1655
+731;Pigs for fattening, 80 - 110 kg;2019 December;1743
+732;Pigs for fattening, 80 - 110 kg;2020 April;1564
+733;Pigs for fattening, 80 - 110 kg;2020 December;1653
+734;Pigs for fattening, 80 - 110 kg;2021 April;1510
+735;Pigs for fattening, 80 - 110 kg;2021 December;1439
+736;Pigs for fattening, 80 - 110 kg;2022 April;1492
+737;Pigs for fattening, 80 - 110 kg;2022 December;1559
+738;Pigs for fattening, 80 - 110 kg;2023 April;1436
+739;Pigs for fattening, 80 - 110 kg;2023 December;1413
+740;Pigs for fattening, 80 - 110 kg;2024 April;1382
+741;Pigs for fattening, 80 - 110 kg;2024 December;1362
+742;Pigs for fattening, >= 110 kg;2018 April;472
+743;Pigs for fattening, >= 110 kg;2018 December;687
+744;Pigs for fattening, >= 110 kg;2019 April;474
+745;Pigs for fattening, >= 110 kg;2019 December;666
+746;Pigs for fattening, >= 110 kg;2020 April;504
+747;Pigs for fattening, >= 110 kg;2020 December;661
+748;Pigs for fattening, >= 110 kg;2021 April;530
+749;Pigs for fattening, >= 110 kg;2021 December;606
+750;Pigs for fattening, >= 110 kg;2022 April;535
+751;Pigs for fattening, >= 110 kg;2022 December;637
+752;Pigs for fattening, >= 110 kg;2023 April;498
+753;Pigs for fattening, >= 110 kg;2023 December;605
+754;Pigs for fattening, >= 110 kg;2024 April;511
+755;Pigs for fattening, >= 110 kg;2024 December;571
+756;Breeding pigs >= 50 kg;2018 April;1059
+757;Breeding pigs >= 50 kg;2018 December;974
+758;Breeding pigs >= 50 kg;2019 April;1018
+759;Breeding pigs >= 50 kg;2019 December;1052
+760;Breeding pigs >= 50 kg;2020 April;1008
+761;Breeding pigs >= 50 kg;2020 December;929
+762;Breeding pigs >= 50 kg;2021 April;945
+763;Breeding pigs >= 50 kg;2021 December;918
+764;Breeding pigs >= 50 kg;2022 April;926
+765;Breeding pigs >= 50 kg;2022 December;892
+766;Breeding pigs >= 50 kg;2023 April;881
+767;Breeding pigs >= 50 kg;2023 December;917
+768;Breeding pigs >= 50 kg;2024 April;858
+769;Breeding pigs >= 50 kg;2024 December;789
+770;Sows, >= 50 kg, mated;2018 April;695
+771;Sows, >= 50 kg, mated;2018 December;640
+772;Sows, >= 50 kg, mated;2019 April;673
+773;Sows, >= 50 kg, mated;2019 December;661
+774;Sows, >= 50 kg, mated;2020 April;662
+775;Sows, >= 50 kg, mated;2020 December;580
+776;Sows, >= 50 kg, mated;2021 April;615
+777;Sows, >= 50 kg, mated;2021 December;567
+778;Sows, >= 50 kg, mated;2022 April;594
+779;Sows, >= 50 kg, mated;2022 December;561
+780;Sows, >= 50 kg, mated;2023 April;566
+781;Sows, >= 50 kg, mated;2023 December;563
+782;Sows, >= 50 kg, mated;2024 April;559
+783;Sows, >= 50 kg, mated;2024 December;496
+784;Sows, >= 50 kg, with piglets;2018 April;178
+785;Sows, >= 50 kg, with piglets;2018 December;153
+786;Sows, >= 50 kg, with piglets;2019 April;173
+787;Sows, >= 50 kg, with piglets;2019 December;159
+788;Sows, >= 50 kg, with piglets;2020 April;169
+789;Sows, >= 50 kg, with piglets;2020 December;151
+790;Sows, >= 50 kg, with piglets;2021 April;155
+791;Sows, >= 50 kg, with piglets;2021 December;148
+792;Sows, >= 50 kg, with piglets;2022 April;155
+793;Sows, >= 50 kg, with piglets;2022 December;138
+794;Sows, >= 50 kg, with piglets;2023 April;151
+795;Sows, >= 50 kg, with piglets;2023 December;150
+796;Sows, >= 50 kg, with piglets;2024 April;146
+797;Sows, >= 50 kg, with piglets;2024 December;136
+798;Young sows;2018 April;128
+799;Young sows;2018 December;134
+800;Young sows;2019 April;122
+801;Young sows;2019 December;160
+802;Young sows;2020 April;130
+803;Young sows;2020 December;152
+804;Young sows;2021 April;127
+805;Young sows;2021 December;145
+806;Young sows;2022 April;132
+807;Young sows;2022 December;147
+808;Young sows;2023 April;122
+809;Young sows;2023 December;144
+810;Young sows;2024 April;115
+811;Young sows;2024 December;108
+812;Other breading pigs;2018 April;58
+813;Other breading pigs;2018 December;47
+814;Other breading pigs;2019 April;50
+815;Other breading pigs;2019 December;72
+816;Other breading pigs;2020 April;47
+817;Other breading pigs;2020 December;46
+818;Other breading pigs;2021 April;47
+819;Other breading pigs;2021 December;58
+820;Other breading pigs;2022 April;44
+821;Other breading pigs;2022 December;46
+822;Other breading pigs;2023 April;43
+823;Other breading pigs;2023 December;60
+824;Other breading pigs;2024 April;38
+825;Other breading pigs;2024 December;48

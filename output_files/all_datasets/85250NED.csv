@@ -1,0 +1,141 @@
+﻿ID;Gewichtsklassen;Perioden;Sloopvoertuigen_1;GewichtSloopvoertuigen_2
+0;Totaal personenauto's;2018;195374;197582
+1;Totaal personenauto's;2019;184153;188281
+2;Totaal personenauto's;2020;172865;179162
+3;Totaal personenauto's;2021;174374;180838
+4;Totaal personenauto's;2022;140365;146158
+5;Totaal personenauto's;2023;126323;132812
+6;Totaal personenauto's;2024;145994;155391
+7;Personenauto's tot 650 kg;2018;1036;633
+8;Personenauto's tot 650 kg;2019;740;444
+9;Personenauto's tot 650 kg;2020;619;372
+10;Personenauto's tot 650 kg;2021;448;263
+11;Personenauto's tot 650 kg;2022;327;191
+12;Personenauto's tot 650 kg;2023;245;133
+13;Personenauto's tot 650 kg;2024;234;118
+14;Personenauto's 650 tot 750 kg;2018;10802;7649
+15;Personenauto's 650 tot 750 kg;2019;9097;6444
+16;Personenauto's 650 tot 750 kg;2020;7296;5167
+17;Personenauto's 650 tot 750 kg;2021;6708;4752
+18;Personenauto's 650 tot 750 kg;2022;4736;3352
+19;Personenauto's 650 tot 750 kg;2023;3666;2596
+20;Personenauto's 650 tot 750 kg;2024;3568;2527
+21;Personenauto's 750 tot 850 kg;2018;34197;27319
+22;Personenauto's 750 tot 850 kg;2019;29577;23636
+23;Personenauto's 750 tot 850 kg;2020;24794;19808
+24;Personenauto's 750 tot 850 kg;2021;24401;19487
+25;Personenauto's 750 tot 850 kg;2022;19393;15494
+26;Personenauto's 750 tot 850 kg;2023;16989;13604
+27;Personenauto's 750 tot 850 kg;2024;19050;15271
+28;Personenauto's 850 tot 950 kg;2018;44390;39658
+29;Personenauto's 850 tot 950 kg;2019;42430;37934
+30;Personenauto's 850 tot 950 kg;2020;39359;35245
+31;Personenauto's 850 tot 950 kg;2021;40369;36186
+32;Personenauto's 850 tot 950 kg;2022;32193;28902
+33;Personenauto's 850 tot 950 kg;2023;27153;24433
+34;Personenauto's 850 tot 950 kg;2024;28709;25863
+35;Personenauto's 950 tot 1 050 kg;2018;28884;28861
+36;Personenauto's 950 tot 1 050 kg;2019;26814;26792
+37;Personenauto's 950 tot 1 050 kg;2020;25366;25330
+38;Personenauto's 950 tot 1 050 kg;2021;27100;27025
+39;Personenauto's 950 tot 1 050 kg;2022;23504;23410
+40;Personenauto's 950 tot 1 050 kg;2023;22681;22582
+41;Personenauto's 950 tot 1 050 kg;2024;26691;26573
+42;Personenauto's 1 050 tot 1 150 kg;2018;26150;28569
+43;Personenauto's 1 050 tot 1 150 kg;2019;25632;28009
+44;Personenauto's 1 050 tot 1 150 kg;2020;25137;27478
+45;Personenauto's 1 050 tot 1 150 kg;2021;25519;27897
+46;Personenauto's 1 050 tot 1 150 kg;2022;19731;21584
+47;Personenauto's 1 050 tot 1 150 kg;2023;17716;19395
+48;Personenauto's 1 050 tot 1 150 kg;2024;20677;22649
+49;Personenauto's 1 150 tot 1 250 kg;2018;22020;26478
+50;Personenauto's 1 150 tot 1 250 kg;2019;21275;25563
+51;Personenauto's 1 150 tot 1 250 kg;2020;20395;24505
+52;Personenauto's 1 150 tot 1 250 kg;2021;19801;23772
+53;Personenauto's 1 150 tot 1 250 kg;2022;15396;18467
+54;Personenauto's 1 150 tot 1 250 kg;2023;14029;16806
+55;Personenauto's 1 150 tot 1 250 kg;2024;17355;20784
+56;Personenauto's 1 250 tot 1 350 kg;2018;16782;21666
+57;Personenauto's 1 250 tot 1 350 kg;2019;16973;21922
+58;Personenauto's 1 250 tot 1 350 kg;2020;17490;22600
+59;Personenauto's 1 250 tot 1 350 kg;2021;17648;22813
+60;Personenauto's 1 250 tot 1 350 kg;2022;13946;18014
+61;Personenauto's 1 250 tot 1 350 kg;2023;12726;16439
+62;Personenauto's 1 250 tot 1 350 kg;2024;15203;19632
+63;Personenauto's 1 350 kg of meer;2018;11113;16749
+64;Personenauto's 1 350 kg of meer;2019;11615;17538
+65;Personenauto's 1 350 kg of meer;2020;12409;18657
+66;Personenauto's 1 350 kg of meer;2021;12380;18645
+67;Personenauto's 1 350 kg of meer;2022;11139;16744
+68;Personenauto's 1 350 kg of meer;2023;11118;16824
+69;Personenauto's 1 350 kg of meer;2024;14507;21974
+70;Personenauto's leeggewicht onbekend;2018;0;0
+71;Personenauto's leeggewicht onbekend;2019;0;0
+72;Personenauto's leeggewicht onbekend;2020;0;0
+73;Personenauto's leeggewicht onbekend;2021;0;0
+74;Personenauto's leeggewicht onbekend;2022;0;0
+75;Personenauto's leeggewicht onbekend;2023;0;0
+76;Personenauto's leeggewicht onbekend;2024;0;0
+77;Totaal bedrijfsauto's;2018;12962;20506
+78;Totaal bedrijfsauto's;2019;12428;20111
+79;Totaal bedrijfsauto's;2020;12360;19894
+80;Totaal bedrijfsauto's;2021;9967;15718
+81;Totaal bedrijfsauto's;2022;7521;13094
+82;Totaal bedrijfsauto's;2023;7614;13795
+83;Totaal bedrijfsauto's;2024;9954;17012
+84;Bedrijfsauto's minder dan 1 000 kg;2018;107;96
+85;Bedrijfsauto's minder dan 1 000 kg;2019;105;94
+86;Bedrijfsauto's minder dan 1 000 kg;2020;74;68
+87;Bedrijfsauto's minder dan 1 000 kg;2021;76;70
+88;Bedrijfsauto's minder dan 1 000 kg;2022;38;34
+89;Bedrijfsauto's minder dan 1 000 kg;2023;31;29
+90;Bedrijfsauto's minder dan 1 000 kg;2024;43;39
+91;Bedrijfsauto's 1 000 tot 1 500 kg;2018;9441;11019
+92;Bedrijfsauto's 1 000 tot 1 500 kg;2019;9056;10681
+93;Bedrijfsauto's 1 000 tot 1 500 kg;2020;9067;10767
+94;Bedrijfsauto's 1 000 tot 1 500 kg;2021;7512;8990
+95;Bedrijfsauto's 1 000 tot 1 500 kg;2022;5359;6453
+96;Bedrijfsauto's 1 000 tot 1 500 kg;2023;5271;6395
+97;Bedrijfsauto's 1 000 tot 1 500 kg;2024;6578;8073
+98;Bedrijfsauto's 1 500 tot 2 500 kg;2018;2817;5084
+99;Bedrijfsauto's 1 500 tot 2 500 kg;2019;2687;4870
+100;Bedrijfsauto's 1 500 tot 2 500 kg;2020;2681;4887
+101;Bedrijfsauto's 1 500 tot 2 500 kg;2021;1958;3607
+102;Bedrijfsauto's 1 500 tot 2 500 kg;2022;1634;3041
+103;Bedrijfsauto's 1 500 tot 2 500 kg;2023;1812;3390
+104;Bedrijfsauto's 1 500 tot 2 500 kg;2024;2828;5243
+105;Bedrijfsauto's 2 500 tot 5 000 kg;2018;194;634
+106;Bedrijfsauto's 2 500 tot 5 000 kg;2019;180;602
+107;Bedrijfsauto's 2 500 tot 5 000 kg;2020;158;500
+108;Bedrijfsauto's 2 500 tot 5 000 kg;2021;145;477
+109;Bedrijfsauto's 2 500 tot 5 000 kg;2022;195;656
+110;Bedrijfsauto's 2 500 tot 5 000 kg;2023;155;473
+111;Bedrijfsauto's 2 500 tot 5 000 kg;2024;171;508
+112;Bedrijfsauto's 5 000 tot 7 000 kg;2018;77;497
+113;Bedrijfsauto's 5 000 tot 7 000 kg;2019;54;335
+114;Bedrijfsauto's 5 000 tot 7 000 kg;2020;73;450
+115;Bedrijfsauto's 5 000 tot 7 000 kg;2021;55;337
+116;Bedrijfsauto's 5 000 tot 7 000 kg;2022;31;197
+117;Bedrijfsauto's 5 000 tot 7 000 kg;2023;42;269
+118;Bedrijfsauto's 5 000 tot 7 000 kg;2024;36;220
+119;Bedrijfsauto's 7 000 tot 10 000 kg;2018;218;1763
+120;Bedrijfsauto's 7 000 tot 10 000 kg;2019;215;1708
+121;Bedrijfsauto's 7 000 tot 10 000 kg;2020;172;1379
+122;Bedrijfsauto's 7 000 tot 10 000 kg;2021;142;1153
+123;Bedrijfsauto's 7 000 tot 10 000 kg;2022;171;1385
+124;Bedrijfsauto's 7 000 tot 10 000 kg;2023;195;1561
+125;Bedrijfsauto's 7 000 tot 10 000 kg;2024;209;1704
+126;Bedrijfsauto's 10 000 kg of meer;2018;108;1413
+127;Bedrijfsauto's 10 000 kg of meer;2019;131;1821
+128;Bedrijfsauto's 10 000 kg of meer;2020;135;1843
+129;Bedrijfsauto's 10 000 kg of meer;2021;79;1085
+130;Bedrijfsauto's 10 000 kg of meer;2022;93;1328
+131;Bedrijfsauto's 10 000 kg of meer;2023;108;1679
+132;Bedrijfsauto's 10 000 kg of meer;2024;89;1224
+133;Bedrijfsauto's leeggewicht onbekend;2018;0;0
+134;Bedrijfsauto's leeggewicht onbekend;2019;0;0
+135;Bedrijfsauto's leeggewicht onbekend;2020;0;0
+136;Bedrijfsauto's leeggewicht onbekend;2021;0;0
+137;Bedrijfsauto's leeggewicht onbekend;2022;0;0
+138;Bedrijfsauto's leeggewicht onbekend;2023;0;0
+139;Bedrijfsauto's leeggewicht onbekend;2024;0;0

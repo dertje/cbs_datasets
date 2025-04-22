@@ -1,0 +1,451 @@
+﻿ID;Sectoren;Milieudomeinen;Perioden;TotaleAanbodMilieudiensten_1;Productie_2;IntermediaireConsumptie_3;Import_4;Export_5;BelastingSubsidies_6;TotaleVerbruikMilieudiensten_7;FinaleBestedingen_8;Investeringen_9;BetaaldeOverdrachten_10;OntvangenOverdrachten_11;BetalingenBuitenland_12;OntvangstenBuitenland_13;UitgavenMilieubescherming_14
+0;Totaal sectoren;Totaal milieubescherming;2013    ;14447;15898.0;2706.0;262.0;344.0;1336.0;13512.0;7583.0;3491.0;489.0;310.0;;179.0;17182.0
+1;Totaal sectoren;Totaal milieubescherming;2014    ;14576;16066.0;2740.0;241.0;320.0;1329.0;13630.0;7302.0;4113.0;479.0;346.0;;133.0;17879.0
+2;Totaal sectoren;Totaal milieubescherming;2015    ;14294;15921.0;2652.0;272.0;348.0;1101.0;14294.0;8936.0;4593.0;508.0;377.0;;131.0;19018.0
+3;Totaal sectoren;Totaal milieubescherming;2016    ;14840;16686.0;2778.0;273.0;451.0;1110.0;14840.0;9380.0;3151.0;376.0;226.0;;150.0;18141.0
+4;Totaal sectoren;Totaal milieubescherming;2017    ;15258;17231.0;2955.0;263.0;411.0;1130.0;15258.0;9530.0;2892.0;468.0;318.0;;150.0;18299.0
+5;Totaal sectoren;Totaal milieubescherming;2018    ;15848;17985.0;3126.0;256.0;422.0;1155.0;15848.0;9985.0;3325.0;584.0;404.0;;180.0;19353.0
+6;Totaal sectoren;Totaal milieubescherming;2019;16213;18528.0;3329.0;244.0;428.0;1198.0;16213.0;10170.0;3426.0;493.0;319.0;;174.0;19813.0
+7;Totaal sectoren;Totaal milieubescherming;2020;16906;19214.0;3404.0;358.0;466.0;1204.0;16906.0;10902.0;3452.0;522.0;346.0;;176.0;20535.0
+8;Totaal sectoren;Totaal milieubescherming;2021;17918;20509.0;3731.0;296.0;453.0;1297.0;17918.0;11528.0;3795.0;540.0;376.0;;164.0;21877.0
+9;Totaal sectoren;Lucht;2013    ;186;186.0;0.0;0.0;0.0;0.0;186.0;145.0;134.0;154.0;36.0;;118.0;438.0
+10;Totaal sectoren;Lucht;2014    ;175;175.0;0.0;0.0;0.0;0.0;175.0;135.0;566.0;145.0;61.0;;85.0;826.0
+11;Totaal sectoren;Lucht;2015    ;127;127.0;0.0;0.0;0.0;0.0;127.0;104.0;765.0;151.0;68.0;;83.0;975.0
+12;Totaal sectoren;Lucht;2016    ;177;177.0;0.0;0.0;0.0;0.0;177.0;145.0;135.0;135.0;41.0;;94.0;406.0
+13;Totaal sectoren;Lucht;2017    ;171;171.0;0.0;0.0;0.0;0.0;171.0;140.0;111.0;243.0;147.0;;96.0;378.0
+14;Totaal sectoren;Lucht;2018    ;183;183.0;0.0;0.0;0.0;0.0;183.0;158.0;162.0;262.0;145.0;;117.0;462.0
+15;Totaal sectoren;Lucht;2019;237;237.0;0.0;0.0;0.0;0.0;237.0;202.0;177.0;195.0;84.0;;110.0;524.0
+16;Totaal sectoren;Lucht;2020;264;264.0;0.0;0.0;0.0;0.0;264.0;226.0;160.0;181.0;69.0;;112.0;537.0
+17;Totaal sectoren;Lucht;2021;270;270.0;0.0;0.0;0.0;0.0;270.0;234.0;211.0;162.0;57.0;;105.0;585.0
+18;Totaal sectoren;Afvalwater;2013    ;4082;4196.0;296.0;0.0;0.0;182.0;4007.0;2986.0;1831.0;50.0;35.0;;15.0;5853.0
+19;Totaal sectoren;Afvalwater;2014    ;4131;4255.0;305.0;0.0;0.0;181.0;4056.0;3037.0;1609.0;32.0;20.0;;12.0;5677.0
+20;Totaal sectoren;Afvalwater;2015    ;3975;4103.0;278.0;0.0;0.0;151.0;3975.0;3076.0;1256.0;45.0;34.0;;11.0;5242.0
+21;Totaal sectoren;Afvalwater;2016    ;3964;4091.0;272.0;0.0;0.0;145.0;3964.0;3094.0;1246.0;35.0;22.0;;13.0;5223.0
+22;Totaal sectoren;Afvalwater;2017    ;3995;4131.0;286.0;0.0;0.0;151.0;3995.0;3091.0;1234.0;40.0;27.0;;13.0;5242.0
+23;Totaal sectoren;Afvalwater;2018    ;3840;3917.0;179.0;0.0;0.0;102.0;3840.0;3207.0;1270.0;36.0;20.0;;16.0;5126.0
+24;Totaal sectoren;Afvalwater;2019;3924;4012.0;197.0;0.0;0.0;109.0;3924.0;3247.0;1318.0;40.0;26.0;;15.0;5257.0
+25;Totaal sectoren;Afvalwater;2020;4059;4177.0;203.0;0.0;0.0;84.0;4059.0;3526.0;1443.0;32.0;17.0;;15.0;5516.0
+26;Totaal sectoren;Afvalwater;2021;4261;4389.0;225.0;0.0;0.0;96.0;4261.0;3653.0;1479.0;44.0;30.0;;13.0;5753.0
+27;Totaal sectoren;Afval;2013    ;7295;8564.0;2257.0;262.0;344.0;1070.0;6436.0;2646.0;966.0;22.0;22.0;;0.0;7402.0
+28;Totaal sectoren;Afval;2014    ;7450;8748.0;2296.0;241.0;320.0;1077.0;6579.0;2683.0;990.0;15.0;15.0;;0.0;7569.0
+29;Totaal sectoren;Afval;2015    ;7576;9010.0;2239.0;272.0;348.0;880.0;7576.0;4104.0;1127.0;48.0;48.0;;0.0;8703.0
+30;Totaal sectoren;Afval;2016    ;7680;9333.0;2361.0;273.0;451.0;886.0;7680.0;4281.0;1320.0;25.0;25.0;;0.0;9000.0
+31;Totaal sectoren;Afval;2017    ;7743;9503.0;2501.0;263.0;411.0;889.0;7743.0;4283.0;1270.0;22.0;22.0;;0.0;9013.0
+32;Totaal sectoren;Afval;2018    ;8210;10174.0;2743.0;256.0;422.0;946.0;8210.0;4476.0;1615.0;30.0;30.0;;0.0;9825.0
+33;Totaal sectoren;Afval;2019;8308;10418.0;2910.0;244.0;428.0;983.0;8308.0;4453.0;1510.0;25.0;25.0;;0.0;9818.0
+34;Totaal sectoren;Afval;2020;8763;10891.0;3056.0;358.0;466.0;1036.0;8763.0;4667.0;1499.0;23.0;23.0;;0.0;10262.0
+35;Totaal sectoren;Afval;2021;9220;11604.0;3331.0;296.0;453.0;1104.0;9220.0;4902.0;1802.0;27.0;27.0;;0.0;11022.0
+36;Totaal sectoren;Bodem, grond- en oppervlaktewater;2013    ;709;777.0;153.0;0.0;0.0;85.0;709.0;183.0;95.0;0.0;0.0;;0.0;804.0
+37;Totaal sectoren;Bodem, grond- en oppervlaktewater;2014    ;636;704.0;139.0;0.0;0.0;71.0;636.0;163.0;126.0;0.0;0.0;;0.0;762.0
+38;Totaal sectoren;Bodem, grond- en oppervlaktewater;2015    ;617;682.0;135.0;0.0;0.0;70.0;617.0;183.0;117.0;0.0;0.0;;0.0;734.0
+39;Totaal sectoren;Bodem, grond- en oppervlaktewater;2016    ;684;752.0;146.0;0.0;0.0;79.0;684.0;210.0;97.0;0.0;0.0;;0.0;782.0
+40;Totaal sectoren;Bodem, grond- en oppervlaktewater;2017    ;743;821.0;168.0;0.0;0.0;90.0;743.0;192.0;90.0;0.0;0.0;;0.0;833.0
+41;Totaal sectoren;Bodem, grond- en oppervlaktewater;2018    ;813;910.0;203.0;0.0;0.0;106.0;813.0;161.0;70.0;0.0;0.0;;0.0;883.0
+42;Totaal sectoren;Bodem, grond- en oppervlaktewater;2019;811;928.0;222.0;0.0;0.0;106.0;811.0;162.0;132.0;0.0;0.0;;0.0;943.0
+43;Totaal sectoren;Bodem, grond- en oppervlaktewater;2020;692;754.0;145.0;0.0;0.0;84.0;692.0;175.0;102.0;0.0;0.0;;0.0;795.0
+44;Totaal sectoren;Bodem, grond- en oppervlaktewater;2021;797;875.0;175.0;0.0;0.0;97.0;797.0;197.0;94.0;0.0;0.0;;0.0;891.0
+45;Totaal sectoren;Geluid;2013    ;92;92.0;0.0;0.0;0.0;0.0;92.0;79.0;34.0;0.0;0.0;;0.0;126.0
+46;Totaal sectoren;Geluid;2014    ;79;79.0;0.0;0.0;0.0;0.0;79.0;65.0;49.0;0.0;0.0;;0.0;128.0
+47;Totaal sectoren;Geluid;2015    ;82;82.0;0.0;0.0;0.0;0.0;82.0;66.0;35.0;0.0;0.0;;0.0;117.0
+48;Totaal sectoren;Geluid;2016    ;62;62.0;0.0;0.0;0.0;0.0;62.0;49.0;15.0;0.0;0.0;;0.0;76.0
+49;Totaal sectoren;Geluid;2017    ;67;67.0;0.0;0.0;0.0;0.0;67.0;53.0;8.0;0.0;0.0;;0.0;76.0
+50;Totaal sectoren;Geluid;2018    ;59;59.0;0.0;0.0;0.0;0.0;59.0;49.0;9.0;0.0;0.0;;0.0;68.0
+51;Totaal sectoren;Geluid;2019;55;55.0;0.0;0.0;0.0;0.0;55.0;47.0;26.0;0.0;0.0;;0.0;81.0
+52;Totaal sectoren;Geluid;2020;60;60.0;0.0;0.0;0.0;0.0;60.0;51.0;18.0;0.0;0.0;;0.0;77.0
+53;Totaal sectoren;Geluid;2021;56;56.0;0.0;0.0;0.0;0.0;56.0;48.0;15.0;0.0;0.0;;0.0;70.0
+54;Totaal sectoren;Natuur en landschap;2013    ;850;850.0;0.0;0.0;0.0;0.0;850.0;609.0;313.0;194.0;163.0;;31.0;1194.0
+55;Totaal sectoren;Natuur en landschap;2014    ;879;879.0;0.0;0.0;0.0;0.0;879.0;604.0;635.0;186.0;161.0;;26.0;1540.0
+56;Totaal sectoren;Natuur en landschap;2015    ;824;824.0;0.0;0.0;0.0;0.0;824.0;601.0;1218.0;145.0;119.0;;26.0;2068.0
+57;Totaal sectoren;Natuur en landschap;2016    ;1044;1044.0;0.0;0.0;0.0;0.0;1044.0;698.0;273.0;134.0;104.0;;30.0;1347.0
+58;Totaal sectoren;Natuur en landschap;2017    ;1171;1171.0;0.0;0.0;0.0;0.0;1171.0;760.0;102.0;108.0;80.0;;28.0;1301.0
+59;Totaal sectoren;Natuur en landschap;2018    ;1257;1257.0;0.0;0.0;0.0;0.0;1257.0;818.0;124.0;175.0;143.0;;32.0;1413.0
+60;Totaal sectoren;Natuur en landschap;2019;1290;1290.0;0.0;0.0;0.0;0.0;1290.0;844.0;191.0;160.0;126.0;;33.0;1515.0
+61;Totaal sectoren;Natuur en landschap;2020;1335;1335.0;0.0;0.0;0.0;0.0;1335.0;909.0;146.0;207.0;175.0;;33.0;1514.0
+62;Totaal sectoren;Natuur en landschap;2021;1392;1392.0;0.0;0.0;0.0;0.0;1392.0;951.0;115.0;192.0;160.0;;32.0;1539.0
+63;Totaal sectoren;Straling;2013    ;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;;0.0;0.0
+64;Totaal sectoren;Straling;2014    ;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;;0.0;0.0
+65;Totaal sectoren;Straling;2015    ;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;;0.0;0.0
+66;Totaal sectoren;Straling;2016    ;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;;0.0;0.0
+67;Totaal sectoren;Straling;2017    ;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;;0.0;0.0
+68;Totaal sectoren;Straling;2018    ;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;;0.0;0.0
+69;Totaal sectoren;Straling;2019;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;;0.0;0.0
+70;Totaal sectoren;Straling;2020;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;;0.0;0.0
+71;Totaal sectoren;Straling;2021;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;;0.0;0.0
+72;Totaal sectoren;Milieu onderzoek;2013    ;54;54.0;0.0;0.0;0.0;0.0;54.0;53.0;2.0;0.0;0.0;;0.0;56.0
+73;Totaal sectoren;Milieu onderzoek;2014    ;46;46.0;0.0;0.0;0.0;0.0;46.0;46.0;1.0;0.0;0.0;;0.0;47.0
+74;Totaal sectoren;Milieu onderzoek;2015    ;27;27.0;0.0;0.0;0.0;0.0;27.0;27.0;2.0;0.0;0.0;;0.0;29.0
+75;Totaal sectoren;Milieu onderzoek;2016    ;51;51.0;0.0;0.0;0.0;0.0;51.0;50.0;1.0;0.0;0.0;;0.0;52.0
+76;Totaal sectoren;Milieu onderzoek;2017    ;60;60.0;0.0;0.0;0.0;0.0;60.0;60.0;1.0;0.0;0.0;;0.0;61.0
+77;Totaal sectoren;Milieu onderzoek;2018    ;82;82.0;0.0;0.0;0.0;0.0;82.0;82.0;3.0;2.0;2.0;;0.0;86.0
+78;Totaal sectoren;Milieu onderzoek;2019;89;89.0;0.0;0.0;0.0;0.0;89.0;89.0;2.0;0.0;0.0;;0.0;90.0
+79;Totaal sectoren;Milieu onderzoek;2020;101;101.0;0.0;0.0;0.0;0.0;101.0;101.0;1.0;0.0;0.0;;0.0;103.0
+80;Totaal sectoren;Milieu onderzoek;2021;137;137.0;0.0;0.0;0.0;0.0;137.0;137.0;1.0;0.0;0.0;;0.0;138.0
+81;Totaal sectoren;Overige milieubescherming;2013    ;1179;1179.0;0.0;0.0;0.0;;1178.0;882.0;116.0;69.0;54.0;;15.0;1309.0
+82;Totaal sectoren;Overige milieubescherming;2014    ;1180;1180.0;0.0;0.0;0.0;0.0;1180.0;881.0;138.0;101.0;89.0;;12.0;1330.0
+83;Totaal sectoren;Overige milieubescherming;2015    ;1066;1066.0;0.0;0.0;0.0;0.0;1066.0;775.0;74.0;119.0;108.0;;11.0;1151.0
+84;Totaal sectoren;Overige milieubescherming;2016    ;1178;1178.0;0.0;0.0;0.0;0.0;1178.0;854.0;64.0;47.0;34.0;;13.0;1255.0
+85;Totaal sectoren;Overige milieubescherming;2017    ;1307;1307.0;0.0;0.0;0.0;0.0;1307.0;950.0;75.0;55.0;42.0;;13.0;1395.0
+86;Totaal sectoren;Overige milieubescherming;2018    ;1402;1402.0;0.0;0.0;0.0;0.0;1402.0;1034.0;72.0;80.0;64.0;;16.0;1490.0
+87;Totaal sectoren;Overige milieubescherming;2019;1499;1499.0;0.0;0.0;0.0;0.0;1499.0;1126.0;70.0;73.0;58.0;;15.0;1584.0
+88;Totaal sectoren;Overige milieubescherming;2020;1632;1632.0;0.0;0.0;0.0;0.0;1632.0;1246.0;83.0;79.0;63.0;;16.0;1731.0
+89;Totaal sectoren;Overige milieubescherming;2021;1786;1786.0;0.0;0.0;0.0;0.0;1786.0;1407.0;78.0;115.0;101.0;;14.0;1878.0
+90;"Overheid; totaal";Totaal milieubescherming;2013    ;9212;10146.0;934.0;;;;9211.0;5859.0;2819.0;489.0;;;179.0;8857.0
+91;"Overheid; totaal";Totaal milieubescherming;2014    ;9251;10185.0;934.0;;;;9239.0;5584.0;2836.0;479.0;;;133.0;8869.0
+92;"Overheid; totaal";Totaal milieubescherming;2015    ;9189;10143.0;954.0;;;;10143.0;7191.0;3094.0;508.0;;;131.0;10416.0
+93;"Overheid; totaal";Totaal milieubescherming;2016    ;9718;10761.0;1043.0;;;;10761.0;7645.0;2350.0;376.0;;;150.0;10145.0
+94;"Overheid; totaal";Totaal milieubescherming;2017    ;10051;11086.0;1035.0;;;;11086.0;7805.0;2176.0;468.0;;;150.0;10131.0
+95;"Overheid; totaal";Totaal milieubescherming;2018    ;10469;11541.0;1072.0;;;;11541.0;8234.0;2285.0;584.0;;;180.0;10699.0
+96;"Overheid; totaal";Totaal milieubescherming;2019;10691;11819.0;1128.0;;;;11819.0;8346.0;2357.0;493.0;;;174.0;10876.0
+97;"Overheid; totaal";Totaal milieubescherming;2020;11198;12471.0;1273.0;;;;12471.0;8909.0;2516.0;522.0;;;176.0;11601.0
+98;"Overheid; totaal";Totaal milieubescherming;2021;11771;13186.0;1415.0;;;;13186.0;9432.0;2631.0;540.0;;;164.0;12227.0
+99;"Overheid; totaal";Lucht;2013    ;165;165.0;;;;;165.0;145.0;15.0;154.0;;;118.0;278.0
+100;"Overheid; totaal";Lucht;2014    ;157;157.0;;;;;157.0;135.0;42.0;145.0;;;85.0;262.0
+101;"Overheid; totaal";Lucht;2015    ;124;124.0;;;;;124.0;104.0;12.0;151.0;;;83.0;199.0
+102;"Overheid; totaal";Lucht;2016    ;175;175.0;;;;;175.0;145.0;11.0;135.0;;;94.0;250.0
+103;"Overheid; totaal";Lucht;2017    ;169;169.0;;;;;169.0;140.0;11.0;243.0;;;96.0;247.0
+104;"Overheid; totaal";Lucht;2018    ;179;179.0;;;;;179.0;158.0;10.0;262.0;;;117.0;285.0
+105;"Overheid; totaal";Lucht;2019;232;232.0;;;;;232.0;202.0;12.0;195.0;;;110.0;324.0
+106;"Overheid; totaal";Lucht;2020;258;258.0;;;;;258.0;226.0;14.0;181.0;;;112.0;353.0
+107;"Overheid; totaal";Lucht;2021;263;263.0;;;;;263.0;234.0;14.0;162.0;;;105.0;352.0
+108;"Overheid; totaal";Afvalwater;2013    ;3334;3409.0;75.0;;;;3334.0;2986.0;1763.0;50.0;;;15.0;4764.0
+109;"Overheid; totaal";Afvalwater;2014    ;3363;3438.0;75.0;;;;3363.0;3037.0;1350.0;32.0;;;12.0;4399.0
+110;"Overheid; totaal";Afvalwater;2015    ;3299;3376.0;76.0;;;;3376.0;3076.0;1136.0;45.0;;;11.0;4223.0
+111;"Overheid; totaal";Afvalwater;2016    ;3295;3378.0;83.0;;;;3378.0;3094.0;1109.0;35.0;;;13.0;4216.0
+112;"Overheid; totaal";Afvalwater;2017    ;3290;3373.0;83.0;;;;3373.0;3091.0;1118.0;40.0;;;13.0;4222.0
+113;"Overheid; totaal";Afvalwater;2018    ;3410;3496.0;86.0;;;;3496.0;3207.0;1182.0;36.0;;;16.0;4405.0
+114;"Overheid; totaal";Afvalwater;2019;3459;3550.0;90.0;;;;3550.0;3247.0;1224.0;40.0;;;15.0;4485.0
+115;"Overheid; totaal";Afvalwater;2020;3640;3742.0;102.0;;;;3742.0;3526.0;1319.0;32.0;;;15.0;4859.0
+116;"Overheid; totaal";Afvalwater;2021;3761;3875.0;113.0;;;;3875.0;3653.0;1367.0;44.0;;;13.0;5033.0
+117;"Overheid; totaal";Afval;2013    ;3775;4634.0;859.0;;;;3775.0;1077.0;591.0;22.0;;;0.0;1668.0
+118;"Overheid; totaal";Afval;2014    ;3819;4678.0;859.0;;;;3807.0;1121.0;641.0;15.0;;;0.0;1762.0
+119;"Overheid; totaal";Afval;2015    ;3996;4874.0;878.0;;;;4874.0;2539.0;633.0;48.0;;;0.0;3172.0
+120;"Overheid; totaal";Afval;2016    ;4130;5090.0;960.0;;;;5090.0;2710.0;870.0;25.0;;;0.0;3580.0
+121;"Overheid; totaal";Afval;2017    ;4247;5199.0;952.0;;;;5199.0;2727.0;847.0;22.0;;;0.0;3574.0
+122;"Overheid; totaal";Afval;2018    ;4400;5386.0;986.0;;;;5386.0;2885.0;881.0;30.0;;;0.0;3766.0
+123;"Overheid; totaal";Afval;2019;4387;5425.0;1038.0;;;;5425.0;2790.0;843.0;25.0;;;0.0;3633.0
+124;"Overheid; totaal";Afval;2020;4512;5683.0;1171.0;;;;5683.0;2862.0;928.0;23.0;;;0.0;3790.0
+125;"Overheid; totaal";Afval;2021;4698;6000.0;1302.0;;;;6000.0;2976.0;1030.0;27.0;;;0.0;4006.0
+126;"Overheid; totaal";Bodem, grond- en oppervlaktewater;2013    ;209;209.0;;;;;209.0;183.0;19.0;;;;;202.0
+127;"Overheid; totaal";Bodem, grond- en oppervlaktewater;2014    ;197;197.0;;;;;197.0;163.0;42.0;;;;;205.0
+128;"Overheid; totaal";Bodem, grond- en oppervlaktewater;2015    ;223;223.0;;;;;223.0;183.0;21.0;;;;;204.0
+129;"Overheid; totaal";Bodem, grond- en oppervlaktewater;2016    ;259;259.0;;;;;259.0;210.0;19.0;;;;;228.0
+130;"Overheid; totaal";Bodem, grond- en oppervlaktewater;2017    ;238;238.0;;;;;238.0;192.0;17.0;;;;;209.0
+131;"Overheid; totaal";Bodem, grond- en oppervlaktewater;2018    ;196;196.0;;;;;196.0;161.0;13.0;;;;;175.0
+132;"Overheid; totaal";Bodem, grond- en oppervlaktewater;2019;195;195.0;;;;;195.0;162.0;17.0;;;;;180.0
+133;"Overheid; totaal";Bodem, grond- en oppervlaktewater;2020;210;210.0;;;;;210.0;175.0;20.0;;;;;195.0
+134;"Overheid; totaal";Bodem, grond- en oppervlaktewater;2021;228;228.0;;;;;228.0;197.0;25.0;;;;;222.0
+135;"Overheid; totaal";Geluid;2013    ;92;92.0;;;;;92.0;79.0;21.0;;;;;100.0
+136;"Overheid; totaal";Geluid;2014    ;79;79.0;;;;;79.0;65.0;17.0;;;;;82.0
+137;"Overheid; totaal";Geluid;2015    ;82;82.0;;;;;82.0;66.0;10.0;;;;;76.0
+138;"Overheid; totaal";Geluid;2016    ;62;62.0;;;;;62.0;49.0;5.0;;;;;53.0
+139;"Overheid; totaal";Geluid;2017    ;67;67.0;;;;;67.0;53.0;5.0;;;;;58.0
+140;"Overheid; totaal";Geluid;2018    ;59;59.0;;;;;59.0;49.0;4.0;;;;;53.0
+141;"Overheid; totaal";Geluid;2019;55;55.0;;;;;55.0;47.0;3.0;;;;;50.0
+142;"Overheid; totaal";Geluid;2020;60;60.0;;;;;60.0;51.0;9.0;;;;;60.0
+143;"Overheid; totaal";Geluid;2021;56;56.0;;;;;56.0;48.0;3.0;;;;;51.0
+144;"Overheid; totaal";Natuur en landschap;2013    ;536;536.0;;;;;536.0;454.0;292.0;194.0;;;31.0;777.0
+145;"Overheid; totaal";Natuur en landschap;2014    ;550;550.0;;;;;550.0;449.0;606.0;186.0;;;26.0;1081.0
+146;"Overheid; totaal";Natuur en landschap;2015    ;512;512.0;;;;;512.0;421.0;1206.0;145.0;;;26.0;1654.0
+147;"Overheid; totaal";Natuur en landschap;2016    ;716;716.0;;;;;716.0;534.0;271.0;134.0;;;30.0;835.0
+148;"Overheid; totaal";Natuur en landschap;2017    ;828;828.0;;;;;828.0;591.0;101.0;108.0;;;28.0;720.0
+149;"Overheid; totaal";Natuur en landschap;2018    ;913;913.0;;;;;913.0;658.0;119.0;175.0;;;32.0;808.0
+150;"Overheid; totaal";Natuur en landschap;2019;949;949.0;;;;;949.0;683.0;186.0;160.0;;;33.0;903.0
+151;"Overheid; totaal";Natuur en landschap;2020;960;960.0;;;;;960.0;721.0;142.0;207.0;;;33.0;897.0
+152;"Overheid; totaal";Natuur en landschap;2021;1031;1031.0;;;;;1031.0;781.0;113.0;192.0;;;32.0;926.0
+153;"Overheid; totaal";Straling;2013    ;0;0.0;;;;;0.0;0.0;0.0;;;;;0.0
+154;"Overheid; totaal";Straling;2014    ;0;0.0;;;;;0.0;0.0;0.0;;;;;0.0
+155;"Overheid; totaal";Straling;2015    ;0;0.0;;;;;0.0;;0.0;;;;;0.0
+156;"Overheid; totaal";Straling;2016    ;0;0.0;;;;;0.0;;0.0;;;;;0.0
+157;"Overheid; totaal";Straling;2017    ;0;0.0;;;;;0.0;;0.0;;;;;0.0
+158;"Overheid; totaal";Straling;2018    ;0;0.0;;;;;0.0;;0.0;;;;;0.0
+159;"Overheid; totaal";Straling;2019;0;0.0;;;;;0.0;;0.0;;;;;0.0
+160;"Overheid; totaal";Straling;2020;0;0.0;;;;;0.0;;0.0;;;;;0.0
+161;"Overheid; totaal";Straling;2021;0;0.0;;;;;0.0;;0.0;;;;;0.0
+162;"Overheid; totaal";Milieu onderzoek;2013    ;54;54.0;;;;;54.0;53.0;2.0;;;;;55.0
+163;"Overheid; totaal";Milieu onderzoek;2014    ;46;46.0;;;;;46.0;46.0;1.0;;;;;47.0
+164;"Overheid; totaal";Milieu onderzoek;2015    ;27;27.0;;;;;27.0;27.0;2.0;;;;;29.0
+165;"Overheid; totaal";Milieu onderzoek;2016    ;51;51.0;;;;;51.0;50.0;1.0;;;;;51.0
+166;"Overheid; totaal";Milieu onderzoek;2017    ;60;60.0;;;;;60.0;60.0;1.0;;;;;61.0
+167;"Overheid; totaal";Milieu onderzoek;2018    ;82;82.0;;;;;82.0;82.0;3.0;;;;;86.0
+168;"Overheid; totaal";Milieu onderzoek;2019;89;89.0;;;;;89.0;89.0;2.0;;;;;90.0
+169;"Overheid; totaal";Milieu onderzoek;2020;101;101.0;;;;;101.0;101.0;1.0;;;;;103.0
+170;"Overheid; totaal";Milieu onderzoek;2021;137;137.0;;;;;137.0;137.0;1.0;;;;;138.0
+171;"Overheid; totaal";Overige milieubescherming;2013    ;1047;1047.0;;;;;1046.0;882.0;116.0;69.0;;;15.0;1013.0
+172;"Overheid; totaal";Overige milieubescherming;2014    ;1040;1040.0;;;;;1040.0;881.0;138.0;101.0;;;12.0;1031.0
+173;"Overheid; totaal";Overige milieubescherming;2015    ;924;924.0;;;;;924.0;775.0;74.0;119.0;;;11.0;860.0
+174;"Overheid; totaal";Overige milieubescherming;2016    ;1031;1031.0;;;;;1031.0;854.0;64.0;47.0;;;13.0;931.0
+175;"Overheid; totaal";Overige milieubescherming;2017    ;1151;1151.0;;;;;1151.0;950.0;75.0;55.0;;;13.0;1038.0
+176;"Overheid; totaal";Overige milieubescherming;2018    ;1229;1229.0;;;;;1229.0;1034.0;72.0;80.0;;;16.0;1122.0
+177;"Overheid; totaal";Overige milieubescherming;2019;1324;1324.0;;;;;1324.0;1126.0;70.0;73.0;;;15.0;1211.0
+178;"Overheid; totaal";Overige milieubescherming;2020;1456;1456.0;;;;;1456.0;1246.0;83.0;79.0;;;16.0;1345.0
+179;"Overheid; totaal";Overige milieubescherming;2021;1596;1596.0;;;;;1596.0;1407.0;78.0;115.0;;;14.0;1499.0
+180;"Overheid; markt";Totaal milieubescherming;2013    ;3352;3352.0;;;;;;;;;;;;
+181;"Overheid; markt";Totaal milieubescherming;2014    ;3342;3342.0;;;;;;;;;;;;
+182;"Overheid; markt";Totaal milieubescherming;2015    ;2952;2952.0;;;;;;;;;;;;
+183;"Overheid; markt";Totaal milieubescherming;2016    ;3116;3116.0;;;;;;;;;;;;
+184;"Overheid; markt";Totaal milieubescherming;2017    ;3281;3281.0;;;;;;;;;;;;
+185;"Overheid; markt";Totaal milieubescherming;2018    ;3307;3307.0;;;;;;;;;;;;
+186;"Overheid; markt";Totaal milieubescherming;2019;3474;3474.0;;;;;;;;;;;;
+187;"Overheid; markt";Totaal milieubescherming;2020;3561;3561.0;;;;;;;;;;;;
+188;"Overheid; markt";Totaal milieubescherming;2021;3754;3754.0;;;;;;;;;;;;
+189;"Overheid; markt";Lucht;2013    ;20;20.0;;;;;;;;;;;;
+190;"Overheid; markt";Lucht;2014    ;22;22.0;;;;;;;;;;;;
+191;"Overheid; markt";Lucht;2015    ;20;20.0;;;;;;;;;;;;
+192;"Overheid; markt";Lucht;2016    ;30;30.0;;;;;;;;;;;;
+193;"Overheid; markt";Lucht;2017    ;29;29.0;;;;;;;;;;;;
+194;"Overheid; markt";Lucht;2018    ;21;21.0;;;;;;;;;;;;
+195;"Overheid; markt";Lucht;2019;30;30.0;;;;;;;;;;;;
+196;"Overheid; markt";Lucht;2020;32;32.0;;;;;;;;;;;;
+197;"Overheid; markt";Lucht;2021;29;29.0;;;;;;;;;;;;
+198;"Overheid; markt";Afvalwater;2013    ;348;348.0;;;;;;;;;;;;
+199;"Overheid; markt";Afvalwater;2014    ;326;326.0;;;;;;;;;;;;
+200;"Overheid; markt";Afvalwater;2015    ;300;300.0;;;;;;;;;;;;
+201;"Overheid; markt";Afvalwater;2016    ;284;284.0;;;;;;;;;;;;
+202;"Overheid; markt";Afvalwater;2017    ;282;282.0;;;;;;;;;;;;
+203;"Overheid; markt";Afvalwater;2018    ;289;289.0;;;;;;;;;;;;
+204;"Overheid; markt";Afvalwater;2019;303;303.0;;;;;;;;;;;;
+205;"Overheid; markt";Afvalwater;2020;216;216.0;;;;;;;;;;;;
+206;"Overheid; markt";Afvalwater;2021;222;222.0;;;;;;;;;;;;
+207;"Overheid; markt";Afval;2013    ;2698;2698.0;;;;;;;;;;;;
+208;"Overheid; markt";Afval;2014    ;2686;2686.0;;;;;;;;;;;;
+209;"Overheid; markt";Afval;2015    ;2335;2335.0;;;;;;;;;;;;
+210;"Overheid; markt";Afval;2016    ;2380;2380.0;;;;;;;;;;;;
+211;"Overheid; markt";Afval;2017    ;2472;2472.0;;;;;;;;;;;;
+212;"Overheid; markt";Afval;2018    ;2501;2501.0;;;;;;;;;;;;
+213;"Overheid; markt";Afval;2019;2635;2635.0;;;;;;;;;;;;
+214;"Overheid; markt";Afval;2020;2821;2821.0;;;;;;;;;;;;
+215;"Overheid; markt";Afval;2021;3024;3024.0;;;;;;;;;;;;
+216;"Overheid; markt";Bodem, grond- en oppervlaktewater;2013    ;26;26.0;;;;;;;;;;;;
+217;"Overheid; markt";Bodem, grond- en oppervlaktewater;2014    ;34;34.0;;;;;;;;;;;;
+218;"Overheid; markt";Bodem, grond- en oppervlaktewater;2015    ;40;40.0;;;;;;;;;;;;
+219;"Overheid; markt";Bodem, grond- en oppervlaktewater;2016    ;49;49.0;;;;;;;;;;;;
+220;"Overheid; markt";Bodem, grond- en oppervlaktewater;2017    ;46;46.0;;;;;;;;;;;;
+221;"Overheid; markt";Bodem, grond- en oppervlaktewater;2018    ;35;35.0;;;;;;;;;;;;
+222;"Overheid; markt";Bodem, grond- en oppervlaktewater;2019;33;33.0;;;;;;;;;;;;
+223;"Overheid; markt";Bodem, grond- en oppervlaktewater;2020;35;35.0;;;;;;;;;;;;
+224;"Overheid; markt";Bodem, grond- en oppervlaktewater;2021;32;32.0;;;;;;;;;;;;
+225;"Overheid; markt";Geluid;2013    ;13;13.0;;;;;;;;;;;;
+226;"Overheid; markt";Geluid;2014    ;14;14.0;;;;;;;;;;;;
+227;"Overheid; markt";Geluid;2015    ;16;16.0;;;;;;;;;;;;
+228;"Overheid; markt";Geluid;2016    ;13;13.0;;;;;;;;;;;;
+229;"Overheid; markt";Geluid;2017    ;14;14.0;;;;;;;;;;;;
+230;"Overheid; markt";Geluid;2018    ;11;11.0;;;;;;;;;;;;
+231;"Overheid; markt";Geluid;2019;8;8.0;;;;;;;;;;;;
+232;"Overheid; markt";Geluid;2020;9;9.0;;;;;;;;;;;;
+233;"Overheid; markt";Geluid;2021;8;8.0;;;;;;;;;;;;
+234;"Overheid; markt";Natuur en landschap;2013    ;82;82.0;;;;;;;;;;;;
+235;"Overheid; markt";Natuur en landschap;2014    ;101;101.0;;;;;;;;;;;;
+236;"Overheid; markt";Natuur en landschap;2015    ;91;91.0;;;;;;;;;;;;
+237;"Overheid; markt";Natuur en landschap;2016    ;182;182.0;;;;;;;;;;;;
+238;"Overheid; markt";Natuur en landschap;2017    ;237;237.0;;;;;;;;;;;;
+239;"Overheid; markt";Natuur en landschap;2018    ;255;255.0;;;;;;;;;;;;
+240;"Overheid; markt";Natuur en landschap;2019;266;266.0;;;;;;;;;;;;
+241;"Overheid; markt";Natuur en landschap;2020;239;239.0;;;;;;;;;;;;
+242;"Overheid; markt";Natuur en landschap;2021;250;250.0;;;;;;;;;;;;
+243;"Overheid; markt";Straling;2013    ;0;0.0;;;;;;;;;;;;
+244;"Overheid; markt";Straling;2014    ;0;0.0;;;;;;;;;;;;
+245;"Overheid; markt";Straling;2015    ;0;0.0;;;;;;;;;;;;
+246;"Overheid; markt";Straling;2016    ;0;0.0;;;;;;;;;;;;
+247;"Overheid; markt";Straling;2017    ;0;0.0;;;;;;;;;;;;
+248;"Overheid; markt";Straling;2018    ;0;0.0;;;;;;;;;;;;
+249;"Overheid; markt";Straling;2019;0;0.0;;;;;;;;;;;;
+250;"Overheid; markt";Straling;2020;0;0.0;;;;;;;;;;;;
+251;"Overheid; markt";Straling;2021;0;0.0;;;;;;;;;;;;
+252;"Overheid; markt";Milieu onderzoek;2013    ;1;1.0;;;;;;;;;;;;
+253;"Overheid; markt";Milieu onderzoek;2014    ;0;0.0;;;;;;;;;;;;
+254;"Overheid; markt";Milieu onderzoek;2015    ;0;;;;;;;;;;;;;
+255;"Overheid; markt";Milieu onderzoek;2016    ;1;;;;;;;;;;;;;
+256;"Overheid; markt";Milieu onderzoek;2017    ;0;;;;;;;;;;;;;
+257;"Overheid; markt";Milieu onderzoek;2018    ;0;;;;;;;;;;;;;
+258;"Overheid; markt";Milieu onderzoek;2019;0;;;;;;;;;;;;;
+259;"Overheid; markt";Milieu onderzoek;2020;0;;;;;;;;;;;;;
+260;"Overheid; markt";Milieu onderzoek;2021;0;;;;;;;;;;;;;
+261;"Overheid; markt";Overige milieubescherming;2013    ;164;164.0;;;;;;;;;;;;
+262;"Overheid; markt";Overige milieubescherming;2014    ;159;159.0;;;;;;;;;;;;
+263;"Overheid; markt";Overige milieubescherming;2015    ;150;150.0;;;;;;;;;;;;
+264;"Overheid; markt";Overige milieubescherming;2016    ;177;177.0;;;;;;;;;;;;
+265;"Overheid; markt";Overige milieubescherming;2017    ;201;201.0;;;;;;;;;;;;
+266;"Overheid; markt";Overige milieubescherming;2018    ;195;195.0;;;;;;;;;;;;
+267;"Overheid; markt";Overige milieubescherming;2019;198;198.0;;;;;;;;;;;;
+268;"Overheid; markt";Overige milieubescherming;2020;210;210.0;;;;;;;;;;;;
+269;"Overheid; markt";Overige milieubescherming;2021;189;189.0;;;;;;;;;;;;
+270;Bedrijven;Totaal milieubescherming;2013    ;5235;5752.0;1772.0;262.0;344.0;1336.0;2577.0;;672.0;;310.0;;;6601.0
+271;Bedrijven;Totaal milieubescherming;2014    ;5325;5881.0;1806.0;241.0;320.0;1329.0;2674.0;;1277.0;;346.0;;;7293.0
+272;Bedrijven;Totaal milieubescherming;2015    ;5105;5778.0;1698.0;272.0;348.0;1101.0;2406.0;;1499.0;;377.0;;;6857.0
+273;Bedrijven;Totaal milieubescherming;2016    ;5123;5925.0;1735.0;273.0;451.0;1110.0;2345.0;;801.0;;226.0;;;6261.0
+274;Bedrijven;Totaal milieubescherming;2017    ;5207;6145.0;1920.0;263.0;411.0;1130.0;2447.0;;716.0;;318.0;;;6444.0
+275;Bedrijven;Totaal milieubescherming;2018    ;5379;6444.0;2054.0;256.0;422.0;1155.0;2556.0;;1040.0;;404.0;;;6903.0
+276;Bedrijven;Totaal milieubescherming;2019;5522;6709.0;2201.0;244.0;428.0;1198.0;2570.0;;1069.0;;319.0;;;7113.0
+277;Bedrijven;Totaal milieubescherming;2020;5709;6744.0;2131.0;358.0;466.0;1204.0;2443.0;;936.0;;346.0;;;6940.0
+278;Bedrijven;Totaal milieubescherming;2021;6147;7323.0;2316.0;296.0;453.0;1297.0;2636.0;;1164.0;;376.0;;;7554.0
+279;Bedrijven;Lucht;2013    ;21;21.0;;;;;21.0;;119.0;;36.0;;;160.0
+280;Bedrijven;Lucht;2014    ;18;18.0;;;;;18.0;;524.0;;61.0;;;564.0
+281;Bedrijven;Lucht;2015    ;3;3.0;;;;;3.0;;753.0;;68.0;;;776.0
+282;Bedrijven;Lucht;2016    ;2;2.0;;;;;2.0;;124.0;;41.0;;;156.0
+283;Bedrijven;Lucht;2017    ;2;2.0;;;;;2.0;;100.0;;147.0;;;131.0
+284;Bedrijven;Lucht;2018    ;4;4.0;;;;;4.0;;152.0;;145.0;;;177.0
+285;Bedrijven;Lucht;2019;5;5.0;;;;;5.0;;165.0;;84.0;;;200.0
+286;Bedrijven;Lucht;2020;6;6.0;;;;;6.0;;146.0;;69.0;;;184.0
+287;Bedrijven;Lucht;2021;7;7.0;;;;;7.0;;197.0;;57.0;;;233.0
+288;Bedrijven;Afvalwater;2013    ;748;787.0;221.0;;;182.0;673.0;;68.0;;35.0;;;1089.0
+289;Bedrijven;Afvalwater;2014    ;768;817.0;230.0;;;181.0;693.0;;259.0;;20.0;;;1278.0
+290;Bedrijven;Afvalwater;2015    ;676;727.0;202.0;;;151.0;599.0;;119.0;;34.0;;;1019.0
+291;Bedrijven;Afvalwater;2016    ;670;713.0;188.0;;;145.0;586.0;;137.0;;22.0;;;1007.0
+292;Bedrijven;Afvalwater;2017    ;705;757.0;203.0;;;151.0;622.0;;116.0;;27.0;;;1020.0
+293;Bedrijven;Afvalwater;2018    ;430;421.0;93.0;;;102.0;345.0;;88.0;;20.0;;;721.0
+294;Bedrijven;Afvalwater;2019;465;462.0;107.0;;;109.0;375.0;;94.0;;26.0;;;772.0
+295;Bedrijven;Afvalwater;2020;419;436.0;101.0;;;84.0;317.0;;124.0;;17.0;;;657.0
+296;Bedrijven;Afvalwater;2021;499;514.0;112.0;;;96.0;386.0;;112.0;;30.0;;;720.0
+297;Bedrijven;Afval;2013    ;3520;3930.0;1398.0;262.0;344.0;1070.0;1092.0;;375.0;;22.0;;;4165.0
+298;Bedrijven;Afval;2014    ;3631;4070.0;1437.0;241.0;320.0;1077.0;1210.0;;349.0;;15.0;;;4245.0
+299;Bedrijven;Afval;2015    ;3580;4136.0;1361.0;272.0;348.0;880.0;1137.0;;494.0;;48.0;;;3966.0
+300;Bedrijven;Afval;2016    ;3550;4243.0;1401.0;273.0;451.0;886.0;1020.0;;450.0;;25.0;;;3850.0
+301;Bedrijven;Afval;2017    ;3496;4304.0;1548.0;263.0;411.0;889.0;988.0;;423.0;;22.0;;;3883.0
+302;Bedrijven;Afval;2018    ;3810;4788.0;1757.0;256.0;422.0;946.0;1233.0;;734.0;;30.0;;;4468.0
+303;Bedrijven;Afval;2019;3921;4994.0;1872.0;244.0;428.0;983.0;1220.0;;667.0;;25.0;;;4522.0
+304;Bedrijven;Afval;2020;4251;5208.0;1885.0;358.0;466.0;1036.0;1275.0;;571.0;;23.0;;;4667.0
+305;Bedrijven;Afval;2021;4522;5604.0;2029.0;296.0;453.0;1104.0;1294.0;;772.0;;27.0;;;5090.0
+306;Bedrijven;Bodem, grond- en oppervlaktewater;2013    ;500;568.0;153.0;;;85.0;500.0;;76.0;;0.0;;;602.0
+307;Bedrijven;Bodem, grond- en oppervlaktewater;2014    ;439;507.0;139.0;;;71.0;439.0;;84.0;;0.0;;;557.0
+308;Bedrijven;Bodem, grond- en oppervlaktewater;2015    ;394;459.0;135.0;;;70.0;394.0;;96.0;;0.0;;;529.0
+309;Bedrijven;Bodem, grond- en oppervlaktewater;2016    ;426;493.0;146.0;;;79.0;426.0;;79.0;;0.0;;;553.0
+310;Bedrijven;Bodem, grond- en oppervlaktewater;2017    ;505;583.0;168.0;;;90.0;505.0;;73.0;;0.0;;;624.0
+311;Bedrijven;Bodem, grond- en oppervlaktewater;2018    ;617;714.0;203.0;;;106.0;617.0;;57.0;;0.0;;;708.0
+312;Bedrijven;Bodem, grond- en oppervlaktewater;2019;615;732.0;222.0;;;106.0;615.0;;115.0;;0.0;;;763.0
+313;Bedrijven;Bodem, grond- en oppervlaktewater;2020;482;544.0;145.0;;;84.0;482.0;;82.0;;0.0;;;599.0
+314;Bedrijven;Bodem, grond- en oppervlaktewater;2021;569;647.0;175.0;;;97.0;569.0;;69.0;;0.0;;;669.0
+315;Bedrijven;Geluid;2013    ;0;0.0;;;;;0.0;;13.0;;0.0;;;26.0
+316;Bedrijven;Geluid;2014    ;0;0.0;;;;;0.0;;32.0;;0.0;;;46.0
+317;Bedrijven;Geluid;2015    ;0;0.0;;;;;0.0;;25.0;;0.0;;;41.0
+318;Bedrijven;Geluid;2016    ;0;0.0;;;;;0.0;;10.0;;0.0;;;23.0
+319;Bedrijven;Geluid;2017    ;0;0.0;;;;;0.0;;3.0;;0.0;;;17.0
+320;Bedrijven;Geluid;2018    ;0;0.0;;;;;0.0;;5.0;;0.0;;;16.0
+321;Bedrijven;Geluid;2019;0;0.0;;;;;0.0;;23.0;;0.0;;;31.0
+322;Bedrijven;Geluid;2020;0;0.0;;;;;0.0;;9.0;;0.0;;;18.0
+323;Bedrijven;Geluid;2021;0;0.0;;;;;0.0;;12.0;;0.0;;;20.0
+324;Bedrijven;Natuur en landschap;2013    ;314;314.0;;;;;159.0;;21.0;;163.0;;;262.0
+325;Bedrijven;Natuur en landschap;2014    ;329;329.0;;;;;174.0;;29.0;;161.0;;;304.0
+326;Bedrijven;Natuur en landschap;2015    ;311;311.0;;;;;131.0;;12.0;;119.0;;;234.0
+327;Bedrijven;Natuur en landschap;2016    ;327;327.0;;;;;163.0;;2.0;;104.0;;;347.0
+328;Bedrijven;Natuur en landschap;2017    ;343;343.0;;;;;174.0;;1.0;;80.0;;;412.0
+329;Bedrijven;Natuur en landschap;2018    ;344;344.0;;;;;184.0;;5.0;;143.0;;;444.0
+330;Bedrijven;Natuur en landschap;2019;341;341.0;;;;;180.0;;5.0;;126.0;;;451.0
+331;Bedrijven;Natuur en landschap;2020;375;375.0;;;;;187.0;;4.0;;175.0;;;430.0
+332;Bedrijven;Natuur en landschap;2021;361;361.0;;;;;191.0;;2.0;;160.0;;;443.0
+333;Bedrijven;Straling;2013    ;0;0.0;;;;;0.0;;0.0;;0.0;;;0.0
+334;Bedrijven;Straling;2014    ;0;0.0;;;;;0.0;;0.0;;0.0;;;0.0
+335;Bedrijven;Straling;2015    ;0;0.0;;;;;0.0;;0.0;;0.0;;;0.0
+336;Bedrijven;Straling;2016    ;0;0.0;;;;;0.0;;0.0;;0.0;;;0.0
+337;Bedrijven;Straling;2017    ;0;0.0;;;;;0.0;;0.0;;0.0;;;0.0
+338;Bedrijven;Straling;2018    ;0;0.0;;;;;0.0;;0.0;;0.0;;;0.0
+339;Bedrijven;Straling;2019;0;0.0;;;;;0.0;;0.0;;0.0;;;0.0
+340;Bedrijven;Straling;2020;0;0.0;;;;;0.0;;0.0;;0.0;;;0.0
+341;Bedrijven;Straling;2021;0;0.0;;;;;0.0;;0.0;;0.0;;;0.0
+342;Bedrijven;Milieu onderzoek;2013    ;0;0.0;;;;;0.0;;0.0;;0.0;;;1.0
+343;Bedrijven;Milieu onderzoek;2014    ;0;0.0;;;;;0.0;;0.0;;0.0;;;0.0
+344;Bedrijven;Milieu onderzoek;2015    ;0;0.0;;;;;0.0;;0.0;;0.0;;;0.0
+345;Bedrijven;Milieu onderzoek;2016    ;0;0.0;;;;;0.0;;0.0;;0.0;;;1.0
+346;Bedrijven;Milieu onderzoek;2017    ;0;0.0;;;;;0.0;;0.0;;0.0;;;0.0
+347;Bedrijven;Milieu onderzoek;2018    ;0;0.0;;;;;0.0;;0.0;;2.0;;;0.0
+348;Bedrijven;Milieu onderzoek;2019;0;0.0;;;;;0.0;;0.0;;0.0;;;0.0
+349;Bedrijven;Milieu onderzoek;2020;0;0.0;;;;;0.0;;0.0;;0.0;;;0.0
+350;Bedrijven;Milieu onderzoek;2021;0;0.0;;;;;0.0;;0.0;;0.0;;;0.0
+351;Bedrijven;Overige milieubescherming;2013    ;132;132.0;;;;;132.0;;0.0;;54.0;;;296.0
+352;Bedrijven;Overige milieubescherming;2014    ;140;140.0;;;;0.0;140.0;;0.0;;89.0;;;299.0
+353;Bedrijven;Overige milieubescherming;2015    ;142;142.0;;;;0.0;142.0;;0.0;;108.0;;;292.0
+354;Bedrijven;Overige milieubescherming;2016    ;147;147.0;;;;;147.0;;0.0;;34.0;;;324.0
+355;Bedrijven;Overige milieubescherming;2017    ;156;156.0;;;;;156.0;;0.0;;42.0;;;357.0
+356;Bedrijven;Overige milieubescherming;2018    ;173;173.0;;;;;173.0;;0.0;;64.0;;;368.0
+357;Bedrijven;Overige milieubescherming;2019;175;175.0;;;;;175.0;;0.0;;58.0;;;373.0
+358;Bedrijven;Overige milieubescherming;2020;176;176.0;;;;;176.0;;0.0;;63.0;;;386.0
+359;Bedrijven;Overige milieubescherming;2021;190;190.0;;;;;190.0;;0.0;;101.0;;;379.0
+360;Huishoudens;Totaal milieubescherming;2013    ;0;;;;;;1724.0;1724.0;;;;;;1724.0
+361;Huishoudens;Totaal milieubescherming;2014    ;0;;;;;;1717.0;1717.0;;;;;;1717.0
+362;Huishoudens;Totaal milieubescherming;2015    ;0;;;;;;1745.0;1745.0;;;;;;1745.0
+363;Huishoudens;Totaal milieubescherming;2016    ;0;;;;;;1735.0;1735.0;;;;;;1735.0
+364;Huishoudens;Totaal milieubescherming;2017    ;0;;;;;;1725.0;1725.0;;;;;;1725.0
+365;Huishoudens;Totaal milieubescherming;2018    ;0;;;;;;1751.0;1751.0;;;;;;1751.0
+366;Huishoudens;Totaal milieubescherming;2019;0;;;;;;1824.0;1824.0;;;;;;1824.0
+367;Huishoudens;Totaal milieubescherming;2020;0;;;;;;1993.0;1993.0;;;;;;1993.0
+368;Huishoudens;Totaal milieubescherming;2021;0;;;;;;2096.0;2096.0;;;;;;2096.0
+369;Huishoudens;Lucht;2013    ;0;;;;;;0.0;;;;;;;0.0
+370;Huishoudens;Lucht;2014    ;0;;;;;;0.0;;;;;;;0.0
+371;Huishoudens;Lucht;2015    ;0;;;;;;0.0;;;;;;;0.0
+372;Huishoudens;Lucht;2016    ;0;;;;;;0.0;;;;;;;0.0
+373;Huishoudens;Lucht;2017    ;0;;;;;;0.0;;;;;;;0.0
+374;Huishoudens;Lucht;2018    ;0;;;;;;0.0;;;;;;;0.0
+375;Huishoudens;Lucht;2019;0;;;;;;0.0;;;;;;;0.0
+376;Huishoudens;Lucht;2020;0;;;;;;0.0;;;;;;;0.0
+377;Huishoudens;Lucht;2021;0;;;;;;0.0;;;;;;;0.0
+378;Huishoudens;Afvalwater;2013    ;0;;;;;;0.0;;;;;;;0.0
+379;Huishoudens;Afvalwater;2014    ;0;;;;;;0.0;;;;;;;0.0
+380;Huishoudens;Afvalwater;2015    ;0;;;;;;0.0;;;;;;;0.0
+381;Huishoudens;Afvalwater;2016    ;0;;;;;;0.0;;;;;;;0.0
+382;Huishoudens;Afvalwater;2017    ;0;;;;;;0.0;;;;;;;0.0
+383;Huishoudens;Afvalwater;2018    ;0;;;;;;0.0;;;;;;;0.0
+384;Huishoudens;Afvalwater;2019;0;;;;;;0.0;;;;;;;0.0
+385;Huishoudens;Afvalwater;2020;0;;;;;;0.0;;;;;;;0.0
+386;Huishoudens;Afvalwater;2021;0;;;;;;0.0;;;;;;;0.0
+387;Huishoudens;Afval;2013    ;0;;;;;;1569.0;1569.0;;;;;;1569.0
+388;Huishoudens;Afval;2014    ;0;;;;;;1562.0;1562.0;;;;;;1562.0
+389;Huishoudens;Afval;2015    ;0;;;;;;1565.0;1565.0;;;;;;1565.0
+390;Huishoudens;Afval;2016    ;0;;;;;;1571.0;1571.0;;;;;;1571.0
+391;Huishoudens;Afval;2017    ;0;;;;;;1556.0;1556.0;;;;;;1556.0
+392;Huishoudens;Afval;2018    ;0;;;;;;1591.0;1591.0;;;;;;1591.0
+393;Huishoudens;Afval;2019;0;;;;;;1663.0;1663.0;;;;;;1663.0
+394;Huishoudens;Afval;2020;0;;;;;;1805.0;1805.0;;;;;;1805.0
+395;Huishoudens;Afval;2021;0;;;;;;1926.0;1926.0;;;;;;1926.0
+396;Huishoudens;Bodem, grond- en oppervlaktewater;2013    ;0;;;;;;0.0;;;;;;;0.0
+397;Huishoudens;Bodem, grond- en oppervlaktewater;2014    ;0;;;;;;0.0;;;;;;;0.0
+398;Huishoudens;Bodem, grond- en oppervlaktewater;2015    ;0;;;;;;0.0;;;;;;;0.0
+399;Huishoudens;Bodem, grond- en oppervlaktewater;2016    ;0;;;;;;0.0;;;;;;;0.0
+400;Huishoudens;Bodem, grond- en oppervlaktewater;2017    ;0;;;;;;0.0;;;;;;;0.0
+401;Huishoudens;Bodem, grond- en oppervlaktewater;2018    ;0;;;;;;0.0;;;;;;;0.0
+402;Huishoudens;Bodem, grond- en oppervlaktewater;2019;0;;;;;;0.0;;;;;;;0.0
+403;Huishoudens;Bodem, grond- en oppervlaktewater;2020;0;;;;;;0.0;;;;;;;0.0
+404;Huishoudens;Bodem, grond- en oppervlaktewater;2021;0;;;;;;0.0;;;;;;;0.0
+405;Huishoudens;Geluid;2013    ;0;;;;;;0.0;;;;;;;0.0
+406;Huishoudens;Geluid;2014    ;0;;;;;;0.0;;;;;;;0.0
+407;Huishoudens;Geluid;2015    ;0;;;;;;0.0;;;;;;;0.0
+408;Huishoudens;Geluid;2016    ;0;;;;;;0.0;;;;;;;0.0
+409;Huishoudens;Geluid;2017    ;0;;;;;;0.0;;;;;;;0.0
+410;Huishoudens;Geluid;2018    ;0;;;;;;0.0;;;;;;;0.0
+411;Huishoudens;Geluid;2019;0;;;;;;0.0;;;;;;;0.0
+412;Huishoudens;Geluid;2020;0;;;;;;0.0;;;;;;;0.0
+413;Huishoudens;Geluid;2021;0;;;;;;0.0;;;;;;;0.0
+414;Huishoudens;Natuur en landschap;2013    ;0;;;;;;155.0;155.0;;;;;;155.0
+415;Huishoudens;Natuur en landschap;2014    ;0;;;;;;155.0;155.0;;;;;;155.0
+416;Huishoudens;Natuur en landschap;2015    ;0;;;;;;180.0;180.0;;;;;;180.0
+417;Huishoudens;Natuur en landschap;2016    ;0;;;;;;164.0;164.0;;;;;;164.0
+418;Huishoudens;Natuur en landschap;2017    ;0;;;;;;169.0;169.0;;;;;;169.0
+419;Huishoudens;Natuur en landschap;2018    ;0;;;;;;160.0;160.0;;;;;;160.0
+420;Huishoudens;Natuur en landschap;2019;0;;;;;;161.0;161.0;;;;;;161.0
+421;Huishoudens;Natuur en landschap;2020;0;;;;;;188.0;188.0;;;;;;188.0
+422;Huishoudens;Natuur en landschap;2021;0;;;;;;170.0;170.0;;;;;;170.0
+423;Huishoudens;Straling;2013    ;0;;;;;;0.0;;;;;;;0.0
+424;Huishoudens;Straling;2014    ;0;;;;;;0.0;;;;;;;0.0
+425;Huishoudens;Straling;2015    ;0;;;;;;0.0;;;;;;;0.0
+426;Huishoudens;Straling;2016    ;0;;;;;;0.0;;;;;;;0.0
+427;Huishoudens;Straling;2017    ;0;;;;;;0.0;;;;;;;0.0
+428;Huishoudens;Straling;2018    ;0;;;;;;0.0;;;;;;;0.0
+429;Huishoudens;Straling;2019;0;;;;;;0.0;;;;;;;0.0
+430;Huishoudens;Straling;2020;0;;;;;;0.0;;;;;;;0.0
+431;Huishoudens;Straling;2021;0;;;;;;0.0;;;;;;;0.0
+432;Huishoudens;Milieu onderzoek;2013    ;0;;;;;;0.0;;;;;;;0.0
+433;Huishoudens;Milieu onderzoek;2014    ;0;;;;;;0.0;;;;;;;0.0
+434;Huishoudens;Milieu onderzoek;2015    ;0;;;;;;0.0;;;;;;;0.0
+435;Huishoudens;Milieu onderzoek;2016    ;0;;;;;;0.0;;;;;;;0.0
+436;Huishoudens;Milieu onderzoek;2017    ;0;;;;;;0.0;;;;;;;0.0
+437;Huishoudens;Milieu onderzoek;2018    ;0;;;;;;0.0;;;;;;;0.0
+438;Huishoudens;Milieu onderzoek;2019;0;;;;;;0.0;;;;;;;0.0
+439;Huishoudens;Milieu onderzoek;2020;0;;;;;;0.0;;;;;;;0.0
+440;Huishoudens;Milieu onderzoek;2021;0;;;;;;0.0;;;;;;;0.0
+441;Huishoudens;Overige milieubescherming;2013    ;0;;;;;;0.0;;;;;;;0.0
+442;Huishoudens;Overige milieubescherming;2014    ;0;;;;;;0.0;;;;;;;0.0
+443;Huishoudens;Overige milieubescherming;2015    ;0;;;;;;0.0;;;;;;;0.0
+444;Huishoudens;Overige milieubescherming;2016    ;0;;;;;;0.0;;;;;;;0.0
+445;Huishoudens;Overige milieubescherming;2017    ;0;;;;;;0.0;;;;;;;0.0
+446;Huishoudens;Overige milieubescherming;2018    ;0;;;;;;0.0;;;;;;;0.0
+447;Huishoudens;Overige milieubescherming;2019;0;;;;;;0.0;;;;;;;0.0
+448;Huishoudens;Overige milieubescherming;2020;0;;;;;;0.0;;;;;;;0.0
+449;Huishoudens;Overige milieubescherming;2021;0;;;;;;0.0;;;;;;;0.0

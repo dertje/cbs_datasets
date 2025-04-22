@@ -1,0 +1,343 @@
+﻿ID;Landbouwproductie;Perioden;Hoeveelheid_1;EenheidVanProductie_2
+0;Consumptieaardappelen (totaal);2015;45739.0;1000kg               
+1;Consumptieaardappelen (totaal);2016;27319.0;1000kg               
+2;Consumptieaardappelen (totaal);2017;59783.0;1000kg               
+3;Consumptieaardappelen (totaal);2018;46232.0;1000kg               
+4;Consumptieaardappelen (totaal);2019;52538.0;1000kg               
+5;Consumptieaardappelen (totaal);2020;59740.0;1000kg               
+6;Consumptieaardappelen (totaal);2021;42907.0;1000kg               
+7;Consumptieaardappelen (totaal);2022;61670.0;1000 kg              
+8;Consumptieaardappelen (totaal);2023;38791.0;1000 kg              
+9;Pootaardappelen (totaal);2015;12621.0;1000kg               
+10;Pootaardappelen (totaal);2016;9432.0;1000kg               
+11;Pootaardappelen (totaal);2017;11458.0;1000kg               
+12;Pootaardappelen (totaal);2018;13630.0;1000kg               
+13;Pootaardappelen (totaal);2019;15972.0;1000kg               
+14;Pootaardappelen (totaal);2020;20510.0;1000kg               
+15;Pootaardappelen (totaal);2021;17548.0;1000kg               
+16;Pootaardappelen (totaal);2022;20330.0;1000 kg              
+17;Pootaardappelen (totaal);2023;17950.0;1000 kg              
+18;Gerst (totaal);2015;2979.0;1000kg               
+19;Gerst (totaal);2016;2952.0;1000kg               
+20;Gerst (totaal);2017;2139.0;1000kg               
+21;Gerst (totaal);2018;3101.0;1000kg               
+22;Gerst (totaal);2019;3477.0;1000kg               
+23;Gerst (totaal);2020;4136.0;1000kg               
+24;Gerst (totaal);2021;5681.0;1000kg               
+25;Gerst (totaal);2022;5770.0;1000 kg              
+26;Gerst (totaal);2023;6697.0;1000 kg              
+27;Haver;2015;2148.0;1000kg               
+28;Haver;2016;1633.0;1000kg               
+29;Haver;2017;1661.0;1000kg               
+30;Haver;2018;2746.0;1000kg               
+31;Haver;2019;3229.0;1000kg               
+32;Haver;2020;3689.0;1000kg               
+33;Haver;2021;3576.0;1000kg               
+34;Haver;2022;4461.0;1000 kg              
+35;Haver;2023;3257.0;1000 kg              
+36;Tarwe (totaal);2015;7769.0;1000kg               
+37;Tarwe (totaal);2016;4685.0;1000kg               
+38;Tarwe (totaal);2017;4689.0;1000kg               
+39;Tarwe (totaal);2018;5046.0;1000kg               
+40;Tarwe (totaal);2019;4662.0;1000kg               
+41;Tarwe (totaal);2020;6340.0;1000kg               
+42;Tarwe (totaal);2021;5315.0;1000kg               
+43;Tarwe (totaal);2022;8937.0;1000 kg              
+44;Tarwe (totaal);2023;7822.0;1000 kg              
+45;Rogge;2015;1339.0;1000kg               
+46;Rogge;2016;705.0;1000kg               
+47;Rogge;2017;961.0;1000kg               
+48;Rogge;2018;1265.0;1000kg               
+49;Rogge;2019;1024.0;1000kg               
+50;Rogge;2020;1840.0;1000kg               
+51;Rogge;2021;1934.0;1000kg               
+52;Rogge;2022;3027.0;1000 kg              
+53;Rogge;2023;1410.0;1000 kg              
+54;Triticale;2015;1513.0;1000kg               
+55;Triticale;2016;687.0;1000kg               
+56;Triticale;2017;1618.0;1000kg               
+57;Triticale;2018;1586.0;1000kg               
+58;Triticale;2019;2566.0;1000kg               
+59;Triticale;2020;1609.0;1000kg               
+60;Triticale;2021;1658.0;1000kg               
+61;Triticale;2022;2481.0;1000 kg              
+62;Triticale;2023;1887.0;1000 kg              
+63;Maïs (totaal);2015;1541.0;1000kg               
+64;Maïs (totaal);2016;1110.0;1000kg               
+65;Maïs (totaal);2017;839.0;1000kg               
+66;Maïs (totaal);2018;1159.0;1000kg               
+67;Maïs (totaal);2019;696.0;1000kg               
+68;Maïs (totaal);2020;833.0;1000kg               
+69;Maïs (totaal);2021;817.0;1000kg               
+70;Maïs (totaal);2022;2116.0;1000 kg              
+71;Maïs (totaal);2023;1003.0;1000 kg              
+72;Asperges, productie;2015;142.0;1000kg               
+73;Asperges, productie;2016;118.0;1000kg               
+74;Asperges, productie;2017;246.0;1000kg               
+75;Asperges, productie;2018;349.0;1000kg               
+76;Asperges, productie;2019;234.0;1000kg               
+77;Asperges, productie;2020;310.0;1000kg               
+78;Asperges, productie;2021;316.0;1000kg               
+79;Asperges, productie;2022;408.0;1000 kg              
+80;Asperges, productie;2023;443.0;1000 kg              
+81;Prei;2015;1213.0;1000kg               
+82;Prei;2016;1766.0;1000kg               
+83;Prei;2017;2042.0;1000kg               
+84;Prei;2018;3432.0;1000kg               
+85;Prei;2019;2425.0;1000kg               
+86;Prei;2020;1719.0;1000kg               
+87;Prei;2021;3755.0;1000kg               
+88;Prei;2022;2810.0;1000 kg              
+89;Prei;2023;3014.0;1000 kg              
+90;Sla (totaal);2015;992.0;1000kg               
+91;Sla (totaal);2016;1632.0;1000kg               
+92;Sla (totaal);2017;2708.0;1000kg               
+93;Sla (totaal);2018;1652.0;1000kg               
+94;Sla (totaal);2019;2868.0;1000kg               
+95;Sla (totaal);2020;489.0;1000kg               
+96;Sla (totaal);2021;747.0;1000kg               
+97;Sla (totaal);2022;1478.0;1000 kg              
+98;Sla (totaal);2023;777.0;1000 kg              
+99;Spinazie;2015;8720.0;1000kg               
+100;Spinazie;2016;8251.0;1000kg               
+101;Spinazie;2017;8687.0;1000kg               
+102;Spinazie;2018;12037.0;1000kg               
+103;Spinazie;2019;13520.0;1000kg               
+104;Spinazie;2020;10393.0;1000kg               
+105;Spinazie;2021;15427.0;1000kg               
+106;Spinazie;2022;13513.0;1000 kg              
+107;Spinazie;2023;12014.0;1000 kg              
+108;Knolselderij;2015;2257.0;1000kg               
+109;Knolselderij;2016;2856.0;1000kg               
+110;Knolselderij;2017;8306.0;1000kg               
+111;Knolselderij;2018;6694.0;1000kg               
+112;Knolselderij;2019;7454.0;1000kg               
+113;Knolselderij;2020;6953.0;1000kg               
+114;Knolselderij;2021;9691.0;1000kg               
+115;Knolselderij;2022;8892.0;1000 kg              
+116;Knolselderij;2023;10000.0;1000 kg              
+117;Rode bieten;2015;18136.0;1000kg               
+118;Rode bieten;2016;15344.0;1000kg               
+119;Rode bieten;2017;26018.0;1000kg               
+120;Rode bieten;2018;21138.0;1000kg               
+121;Rode bieten;2019;24246.0;1000kg               
+122;Rode bieten;2020;26523.0;1000kg               
+123;Rode bieten;2021;17446.0;1000kg               
+124;Rode bieten;2022;25176.0;1000 kg              
+125;Rode bieten;2023;32063.0;1000 kg              
+126;Zaai-uien;2015;41531.0;1000kg               
+127;Zaai-uien;2016;42616.0;1000kg               
+128;Zaai-uien;2017;32856.0;1000kg               
+129;Zaai-uien;2018;32723.0;1000kg               
+130;Zaai-uien;2019;44583.0;1000kg               
+131;Zaai-uien;2020;54023.0;1000kg               
+132;Zaai-uien;2021;57046.0;1000kg               
+133;Zaai-uien;2022;47959.0;1000 kg              
+134;Zaai-uien;2023;41136.0;1000 kg              
+135;Winterpeen;2015;57328.0;1000kg               
+136;Winterpeen;2016;60269.0;1000kg               
+137;Winterpeen;2017;65962.0;1000kg               
+138;Winterpeen;2018;64695.0;1000kg               
+139;Winterpeen;2019;75922.0;1000kg               
+140;Winterpeen;2020;76972.0;1000kg               
+141;Winterpeen;2021;86240.0;1000kg               
+142;Winterpeen;2022;56404.0;1000 kg              
+143;Winterpeen;2023;65905.0;1000 kg              
+144;Bloemkool;2015;3820.0;1000kg               
+145;Bloemkool;2016;4369.0;1000kg               
+146;Bloemkool;2017;4157.0;1000kg               
+147;Bloemkool;2018;4601.0;1000kg               
+148;Bloemkool;2019;3885.0;1000kg               
+149;Bloemkool;2020;4849.0;1000kg               
+150;Bloemkool;2021;4675.0;1000kg               
+151;Bloemkool;2022;4041.0;1000 kg              
+152;Bloemkool;2023;3955.0;1000 kg              
+153;Broccoli;2015;1695.0;1000kg               
+154;Broccoli;2016;1488.0;1000kg               
+155;Broccoli;2017;1580.0;1000kg               
+156;Broccoli;2018;2002.0;1000kg               
+157;Broccoli;2019;1839.0;1000kg               
+158;Broccoli;2020;1360.0;1000kg               
+159;Broccoli;2021;1379.0;1000kg               
+160;Broccoli;2022;1866.0;1000 kg              
+161;Broccoli;2023;672.0;1000 kg              
+162;Sluitkool (totaal);2015;13691.0;1000kg               
+163;Sluitkool (totaal);2016;12051.0;1000kg               
+164;Sluitkool (totaal);2017;13542.0;1000kg               
+165;Sluitkool (totaal);2018;12147.0;1000kg               
+166;Sluitkool (totaal);2019;13472.0;1000kg               
+167;Sluitkool (totaal);2020;15488.0;1000kg               
+168;Sluitkool (totaal);2021;17603.0;1000kg               
+169;Sluitkool (totaal);2022;12599.0;1000 kg              
+170;Sluitkool (totaal);2023;16090.0;1000 kg              
+171;Spruitkool;2015;859.0;1000kg               
+172;Spruitkool;2016;1705.0;1000kg               
+173;Spruitkool;2017;3090.0;1000kg               
+174;Spruitkool;2018;1792.0;1000kg               
+175;Spruitkool;2019;2123.0;1000kg               
+176;Spruitkool;2020;1057.0;1000kg               
+177;Spruitkool;2021;1265.0;1000kg               
+178;Spruitkool;2022;2228.0;1000 kg              
+179;Spruitkool;2023;1078.0;1000 kg              
+180;Stambonen;2015;1617.0;1000kg               
+181;Stambonen;2016;1990.0;1000kg               
+182;Stambonen;2017;2489.0;1000kg               
+183;Stambonen;2018;3647.0;1000kg               
+184;Stambonen;2019;6078.0;1000kg               
+185;Stambonen;2020;4087.0;1000kg               
+186;Stambonen;2021;7903.0;1000kg               
+187;Stambonen;2022;5785.0;1000 kg              
+188;Stambonen;2023;6904.0;1000 kg              
+189;Snijmaïs;2015;35697.0;1000kg               
+190;Snijmaïs;2016;31049.0;1000kg               
+191;Snijmaïs;2017;32795.0;1000kg               
+192;Snijmaïs;2018;34391.0;1000kg               
+193;Snijmaïs;2019;46122.0;1000kg               
+194;Snijmaïs;2020;47131.0;1000kg               
+195;Snijmaïs;2021;48591.0;1000kg               
+196;Snijmaïs;2022;53418.0;1000 kg              
+197;Snijmaïs;2023;69745.0;1000 kg              
+198;Aardbeien, productie;2015;215.0;1000kg               
+199;Aardbeien, productie;2016;106.0;1000kg               
+200;Aardbeien, productie;2017;177.0;1000kg               
+201;Aardbeien, productie;2018;110.0;1000kg               
+202;Aardbeien, productie;2019;179.0;1000kg               
+203;Aardbeien, productie;2020;130.0;1000kg               
+204;Aardbeien, productie;2021;448.0;1000kg               
+205;Aardbeien, productie;2022;82.0;1000 kg              
+206;Aardbeien, productie;2023;78.0;1000 kg              
+207;Appels;2015;7177.0;1000kg               
+208;Appels;2016;6658.0;1000kg               
+209;Appels;2017;4701.0;1000kg               
+210;Appels;2018;6053.0;1000kg               
+211;Appels;2019;7820.0;1000kg               
+212;Appels;2020;6290.0;1000kg               
+213;Appels;2021;7632.0;1000kg               
+214;Appels;2022;7228.0;1000 kg              
+215;Appels;2023;7478.0;1000 kg              
+216;Peren;2015;2682.0;1000kg               
+217;Peren;2016;4187.0;1000kg               
+218;Peren;2017;4987.0;1000kg               
+219;Peren;2018;3326.0;1000kg               
+220;Peren;2019;3648.0;1000kg               
+221;Peren;2020;4075.0;1000kg               
+222;Peren;2021;4185.0;1000kg               
+223;Peren;2022;4207.0;1000 kg              
+224;Peren;2023;4725.0;1000 kg              
+225;Vlees, totaal;2015;10451.0;1000kgkarkasgewicht  
+226;Vlees, totaal;2016;11135.0;1000kgkarkasgewicht  
+227;Vlees, totaal;2017;13130.0;1000kgkarkasgewicht  
+228;Vlees, totaal;2018;13749.0;1000kgkarkasgewicht  
+229;Vlees, totaal;2019;15038.0;1000kgkarkasgewicht  
+230;Vlees, totaal;2020;14941.0;1000kgkarkasgewicht  
+231;Vlees, totaal;2021;15469.0;1000kgkarkasgewicht  
+232;Vlees, totaal;2022;15018.0;1000 kg karkasgewicht
+233;Vlees, totaal;2023;16033.0;1000 kg karkasgewicht
+234;Rund- en kalfsvlees;2015;3460.0;1000kgkarkasgewicht  
+235;Rund- en kalfsvlees;2016;3728.0;1000kgkarkasgewicht  
+236;Rund- en kalfsvlees;2017;3963.0;1000kgkarkasgewicht  
+237;Rund- en kalfsvlees;2018;4017.0;1000kgkarkasgewicht  
+238;Rund- en kalfsvlees;2019;3974.0;1000kgkarkasgewicht  
+239;Rund- en kalfsvlees;2020;4198.0;1000kgkarkasgewicht  
+240;Rund- en kalfsvlees;2021;4457.0;1000kgkarkasgewicht  
+241;Rund- en kalfsvlees;2022;3568.0;1000 kg karkasgewicht
+242;Rund- en kalfsvlees;2023;3698.0;1000 kg karkasgewicht
+243;Varkensvlees;2015;6527.0;1000kgkarkasgewicht  
+244;Varkensvlees;2016;6957.0;1000kgkarkasgewicht  
+245;Varkensvlees;2017;8660.0;1000kgkarkasgewicht  
+246;Varkensvlees;2018;9133.0;1000kgkarkasgewicht  
+247;Varkensvlees;2019;10247.0;1000kgkarkasgewicht  
+248;Varkensvlees;2020;9597.0;1000kgkarkasgewicht  
+249;Varkensvlees;2021;10067.0;1000kgkarkasgewicht  
+250;Varkensvlees;2022;10512.0;1000 kg karkasgewicht
+251;Varkensvlees;2023;11247.0;1000 kg karkasgewicht
+252;Vlees van pluimvee;2015;464.0;1000kgkarkasgewicht  
+253;Vlees van pluimvee;2016;550.0;1000kgkarkasgewicht  
+254;Vlees van pluimvee;2017;507.0;1000kgkarkasgewicht  
+255;Vlees van pluimvee;2018;599.0;1000kgkarkasgewicht  
+256;Vlees van pluimvee;2019;817.0;1000kgkarkasgewicht  
+257;Vlees van pluimvee;2020;1146.0;1000kgkarkasgewicht  
+258;Vlees van pluimvee;2021;945.0;1000kgkarkasgewicht  
+259;Vlees van pluimvee;2022;938.0;1000 kg karkasgewicht
+260;Vlees van pluimvee;2023;1088.0;1000 kg karkasgewicht
+261;Rauwe melk, totaal;2015;197956.0;1000kg               
+262;Rauwe melk, totaal;2016;218061.0;1000kg               
+263;Rauwe melk, totaal;2017;247795.0;1000kg               
+264;Rauwe melk, totaal;2018;293681.0;1000kg               
+265;Rauwe melk, totaal;2019;301634.0;1000kg               
+266;Rauwe melk, totaal;2020;315979.0;1000kg               
+267;Rauwe melk, totaal;2021;333838.0;1000kg               
+268;Rauwe melk, totaal;2022;346405.0;1000 kg              
+269;Rauwe melk, totaal;2023;367919.0;1000 kg              
+270;Koemelk;2015;177695.0;1000kg               
+271;Koemelk;2016;198576.0;1000kg               
+272;Koemelk;2017;223181.0;1000kg               
+273;Koemelk;2018;260260.0;1000kg               
+274;Koemelk;2019;265314.0;1000kg               
+275;Koemelk;2020;280287.0;1000kg               
+276;Koemelk;2021;296192.0;1000kg               
+277;Koemelk;2022;309403.0;1000 kg              
+278;Koemelk;2023;333665.0;1000 kg              
+279;Geitenmelk;2015;20261.0;1000kg               
+280;Geitenmelk;2016;19485.0;1000kg               
+281;Geitenmelk;2017;24614.0;1000kg               
+282;Geitenmelk;2018;33421.0;1000kg               
+283;Geitenmelk;2019;36320.0;1000kg               
+284;Geitenmelk;2020;35692.0;1000kg               
+285;Geitenmelk;2021;37646.0;1000kg               
+286;Geitenmelk;2022;37002.0;1000 kg              
+287;Geitenmelk;2023;34254.0;1000 kg              
+288;Slagroom;2015;239.0;1000kg               
+289;Slagroom;2016;263.0;1000kg               
+290;Slagroom;2017;299.0;1000kg               
+291;Slagroom;2018;354.0;1000kg               
+292;Slagroom;2019;363.0;1000kg               
+293;Slagroom;2020;381.0;1000kg               
+294;Slagroom;2021;402.0;1000kg               
+295;Slagroom;2022;505.0;1000 kg              
+296;Slagroom;2023;638.0;1000 kg              
+297;Boter;2015;2426.0;1000kg               
+298;Boter;2016;2672.0;1000kg               
+299;Boter;2017;3037.0;1000kg               
+300;Boter;2018;3599.0;1000kg               
+301;Boter;2019;3697.0;1000kg               
+302;Boter;2020;3872.0;1000kg               
+303;Boter;2021;4091.0;1000kg               
+304;Boter;2022;3512.0;1000 kg              
+305;Boter;2023;3767.0;1000 kg              
+306;Kaas;2015;6384.0;1000kg               
+307;Kaas;2016;7033.0;1000kg               
+308;Kaas;2017;7992.0;1000kg               
+309;Kaas;2018;9471.0;1000kg               
+310;Kaas;2019;9728.0;1000kg               
+311;Kaas;2020;10191.0;1000kg               
+312;Kaas;2021;10766.0;1000kg               
+313;Kaas;2022;10645.0;1000 kg              
+314;Kaas;2023;13414.0;1000 kg              
+315;Yoghurts e.d.;2015;19264.0;1000kg               
+316;Yoghurts e.d.;2016;21221.0;1000kg               
+317;Yoghurts e.d.;2017;24114.0;1000kg               
+318;Yoghurts e.d.;2018;28579.0;1000kg               
+319;Yoghurts e.d.;2019;29353.0;1000kg               
+320;Yoghurts e.d.;2020;30749.0;1000kg               
+321;Yoghurts e.d.;2021;32487.0;1000kg               
+322;Yoghurts e.d.;2022;27758.0;1000 kg              
+323;Yoghurts e.d.;2023;29496.0;1000 kg              
+324;Eieren voor consumptie;2015;708004275.0;stuks                
+325;Eieren voor consumptie;2016;773102000.0;stuks                
+326;Eieren voor consumptie;2017;882995575.0;stuks                
+327;Eieren voor consumptie;2018;996378075.0;stuks                
+328;Eieren voor consumptie;2019;1032801000.0;stuks                
+329;Eieren voor consumptie;2020;1007555450.0;stuks                
+330;Eieren voor consumptie;2021;998847850.0;stuks                
+331;Eieren voor consumptie;2022;981338900.0;stuks                
+332;Eieren voor consumptie;2023;822732900.0;stuks                
+333;Mosselen;2015;;1000kglevendgewicht  
+334;Mosselen;2016;5195.0;1000kglevendgewicht  
+335;Mosselen;2017;3611.0;1000kglevendgewicht  
+336;Mosselen;2018;3751.0;1000kglevendgewicht  
+337;Mosselen;2019;8536.0;1000kglevendgewicht  
+338;Mosselen;2020;7978.0;1000kglevendgewicht  
+339;Mosselen;2021;15277.0;1000kglevendgewicht  
+340;Mosselen;2022;13912.0;1000 kg karkasgewicht
+341;Mosselen;2023;19406.0;1000kg levendgewicht 

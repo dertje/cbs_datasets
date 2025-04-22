@@ -1,0 +1,1861 @@
+﻿ID;Beroepen;TypeInkomen;Perioden;AantalWerkzameArtsen_1;GemiddeldeWinst_2;GemiddeldJaarloonExclBijzBeloning_3;GemiddeldJaarloonInclBijzBeloning_4;GemiddeldJaarloonInclPerVTE_5;GemiddeldeDividendenAanmBelang_6;GemiddeldInkomenUitOverigeArbeid_7;GemiddeldGestandaardiseerdInkomen_8
+0;Totaal specialisten (excl. psychiaters);Totaal;2011;14.1;71.7;79.7;92.2;100.1;4.8;0.9;73.2
+1;Totaal specialisten (excl. psychiaters);Totaal;2012;14.6;73.7;79.4;91.2;99.1;4.4;0.9;74.1
+2;Totaal specialisten (excl. psychiaters);Totaal;2013;15.2;73.2;79.7;95.4;103.5;2.3;0.6;74.0
+3;Totaal specialisten (excl. psychiaters);Totaal;2014;15.3;74.5;80.6;93.3;101.5;9.9;0.7;80.7
+4;Totaal specialisten (excl. psychiaters);Totaal;2015;16.0;28.0;110.0;126.0;134.7;1.9;0.8;70.8
+5;Totaal specialisten (excl. psychiaters);Totaal;2016;16.4;26.0;111.6;130.1;139.0;3.6;0.6;71.7
+6;Totaal specialisten (excl. psychiaters);Totaal;2017;16.9;24.9;113.0;128.8;138.0;6.1;0.5;75.2
+7;Totaal specialisten (excl. psychiaters);Totaal;2018;17.1;21.0;116.3;131.8;;7.6;0.7;74.3
+8;Totaal specialisten (excl. psychiaters);Totaal;2019;17.8;20.5;118.5;133.7;;23.6;0.8;86.3
+9;Totaal specialisten (excl. psychiaters);Totaal;2020;18.4;20.1;120.4;136.6;;10.8;0.5;81.3
+10;Totaal specialisten (excl. psychiaters);Totaal;2021;19.0;21.2;121.0;137.2;;9.1;0.6;82.7
+11;Totaal specialisten (excl. psychiaters);Totaal;2022;19.5;;121.9;137.8;;;;
+12;Totaal specialisten (excl. psychiaters);Arts alleen werknemer (excl. DGA);2011;6.6;;123.5;144.0;153.8;;;61.8
+13;Totaal specialisten (excl. psychiaters);Arts alleen werknemer (excl. DGA);2012;6.8;;125.5;145.5;155.5;;;62.0
+14;Totaal specialisten (excl. psychiaters);Arts alleen werknemer (excl. DGA);2013;7.3;;126.3;150.2;160.6;;;63.3
+15;Totaal specialisten (excl. psychiaters);Arts alleen werknemer (excl. DGA);2014;7.5;;126.7;148.3;157.7;;;66.5
+16;Totaal specialisten (excl. psychiaters);Arts alleen werknemer (excl. DGA);2015;8.1;;131.4;156.1;166.1;;;67.6
+17;Totaal specialisten (excl. psychiaters);Arts alleen werknemer (excl. DGA);2016;8.6;;132.3;161.1;171.0;;;69.1
+18;Totaal specialisten (excl. psychiaters);Arts alleen werknemer (excl. DGA);2017;8.9;;133.5;157.6;167.8;;;70.0
+19;Totaal specialisten (excl. psychiaters);Arts alleen werknemer (excl. DGA);2018;9.2;;134.7;158.9;;;;69.9
+20;Totaal specialisten (excl. psychiaters);Arts alleen werknemer (excl. DGA);2019;9.5;;136.1;159.8;;;;75.1
+21;Totaal specialisten (excl. psychiaters);Arts alleen werknemer (excl. DGA);2020;9.9;;140.3;166.1;;;;76.9
+22;Totaal specialisten (excl. psychiaters);Arts alleen werknemer (excl. DGA);2021;10.3;;141.4;166.7;;;;77.9
+23;Totaal specialisten (excl. psychiaters);Arts alleen werknemer (excl. DGA);2022;10.5;;143.0;168.0;;;;
+24;Totaal specialisten (excl. psychiaters);Arts alleen zelfstandige (excl. DGA);2011;4.9;192.9;;;;;;84.3
+25;Totaal specialisten (excl. psychiaters);Arts alleen zelfstandige (excl. DGA);2012;5.2;194.5;;;;;;86.3
+26;Totaal specialisten (excl. psychiaters);Arts alleen zelfstandige (excl. DGA);2013;5.4;194.6;;;;;;86.4
+27;Totaal specialisten (excl. psychiaters);Arts alleen zelfstandige (excl. DGA);2014;5.3;201.4;;;;;;90.1
+28;Totaal specialisten (excl. psychiaters);Arts alleen zelfstandige (excl. DGA);2015;2.2;179.1;;;;;;85.7
+29;Totaal specialisten (excl. psychiaters);Arts alleen zelfstandige (excl. DGA);2016;2.2;181.0;;;;;;87.3
+30;Totaal specialisten (excl. psychiaters);Arts alleen zelfstandige (excl. DGA);2017;2.2;179.2;;;;;;87.9
+31;Totaal specialisten (excl. psychiaters);Arts alleen zelfstandige (excl. DGA);2018;1.9;169.8;;;;;;86.3
+32;Totaal specialisten (excl. psychiaters);Arts alleen zelfstandige (excl. DGA);2019;1.9;174.9;;;;;;90.9
+33;Totaal specialisten (excl. psychiaters);Arts alleen zelfstandige (excl. DGA);2020;2.0;172.7;;;;;;90.7
+34;Totaal specialisten (excl. psychiaters);Arts alleen zelfstandige (excl. DGA);2021;2.1;177.6;;;;;;93.6
+35;Totaal specialisten (excl. psychiaters);Arts alleen zelfstandige (excl. DGA);2022;2.1;;;;;;;
+36;Totaal specialisten (excl. psychiaters);Arts DGA;2011;1.4;6.2;116.1;125.5;135.1;44.6;;82.1
+37;Totaal specialisten (excl. psychiaters);Arts DGA;2012;1.4;7.5;111.9;119.4;130.1;45.0;;82.6
+38;Totaal specialisten (excl. psychiaters);Arts DGA;2013;1.3;7.9;110.7;133.7;143.0;23.4;;75.4
+39;Totaal specialisten (excl. psychiaters);Arts DGA;2014;1.3;12.1;107.8;114.5;126.8;107.8;;119.4
+40;Totaal specialisten (excl. psychiaters);Arts DGA;2015;4.3;2.7;116.7;121.5;128.3;6.7;;65.0
+41;Totaal specialisten (excl. psychiaters);Arts DGA;2016;4.5;1.4;118.5;122.6;129.2;12.6;;66.2
+42;Totaal specialisten (excl. psychiaters);Arts DGA;2017;4.7;1.4;118.7;123.6;131.4;20.5;;76.5
+43;Totaal specialisten (excl. psychiaters);Arts DGA;2018;4.9;1.8;121.5;125.0;;24.6;;75.0
+44;Totaal specialisten (excl. psychiaters);Arts DGA;2019;5.3;1.6;122.7;125.7;;77.0;;103.1
+45;Totaal specialisten (excl. psychiaters);Arts DGA;2020;5.4;1.5;122.4;125.2;;34.7;;84.1
+46;Totaal specialisten (excl. psychiaters);Arts DGA;2021;5.5;1.7;123.0;125.9;;29.8;;84.8
+47;Totaal specialisten (excl. psychiaters);Arts DGA;2022;5.6;;123.6;126.3;;;;
+48;Totaal specialisten (excl. psychiaters);Arts met overig of gecombineerd inkomen;2011;1.2;48.6;116.6;137.0;164.0;3.0;10.5;80.0
+49;Totaal specialisten (excl. psychiaters);Arts met overig of gecombineerd inkomen;2012;1.3;50.7;113.5;133.0;159.9;1.3;9.6;80.3
+50;Totaal specialisten (excl. psychiaters);Arts met overig of gecombineerd inkomen;2013;1.2;43.4;116.7;142.4;171.0;0.3;7.8;80.7
+51;Totaal specialisten (excl. psychiaters);Arts met overig of gecombineerd inkomen;2014;1.2;51.5;112.7;132.5;160.2;2.5;8.9;84.7
+52;Totaal specialisten (excl. psychiaters);Arts met overig of gecombineerd inkomen;2015;1.3;30.8;137.3;160.6;176.8;0.2;9.6;83.7
+53;Totaal specialisten (excl. psychiaters);Arts met overig of gecombineerd inkomen;2016;1.2;25.6;134.3;164.8;184.5;1.3;8.5;83.1
+54;Totaal specialisten (excl. psychiaters);Arts met overig of gecombineerd inkomen;2017;1.1;24.2;137.8;162.7;180.8;2.0;7.8;86.6
+55;Totaal specialisten (excl. psychiaters);Arts met overig of gecombineerd inkomen;2018;1.1;23.1;135.3;158.6;;4.1;10.7;86.4
+56;Totaal specialisten (excl. psychiaters);Arts met overig of gecombineerd inkomen;2019;1.2;25.5;141.1;165.6;;5.8;11.8;93.5
+57;Totaal specialisten (excl. psychiaters);Arts met overig of gecombineerd inkomen;2020;1.0;22.8;140.9;165.2;;2.5;8.9;90.5
+58;Totaal specialisten (excl. psychiaters);Arts met overig of gecombineerd inkomen;2021;1.1;23.8;140.4;166.3;;2.9;9.8;95.9
+59;Totaal specialisten (excl. psychiaters);Arts met overig of gecombineerd inkomen;2022;1.2;;139.6;163.8;;;;
+60;"Arts; anesthesiologie";Totaal;2011;1.3;79.3;88.7;102.5;113.6;5.9;1.0;76.2
+61;"Arts; anesthesiologie";Totaal;2012;1.4;78.8;87.9;100.5;109.8;5.5;1.1;76.5
+62;"Arts; anesthesiologie";Totaal;2013;1.4;76.4;87.6;105.6;113.8;2.2;0.8;74.5
+63;"Arts; anesthesiologie";Totaal;2014;1.4;77.4;90.6;104.9;113.2;10.5;0.9;82.1
+64;"Arts; anesthesiologie";Totaal;2015;1.5;28.0;119.6;136.8;145.0;2.5;1.0;71.5
+65;"Arts; anesthesiologie";Totaal;2016;1.5;26.7;120.4;141.1;149.9;3.2;0.9;72.8
+66;"Arts; anesthesiologie";Totaal;2017;1.6;26.0;120.8;137.8;146.8;6.1;0.8;76.5
+67;"Arts; anesthesiologie";Totaal;2018;1.6;21.1;124.3;140.3;;8.6;0.9;75.9
+68;"Arts; anesthesiologie";Totaal;2019;1.7;18.4;127.1;142.4;;24.2;1.0;87.2
+69;"Arts; anesthesiologie";Totaal;2020;1.8;18.4;129.2;146.0;;11.7;0.8;82.3
+70;"Arts; anesthesiologie";Totaal;2021;1.8;18.6;130.7;147.5;;10.0;1.1;83.6
+71;"Arts; anesthesiologie";Totaal;2022;1.8;;133.0;149.9;;;;
+72;"Arts; anesthesiologie";Arts alleen werknemer (excl. DGA);2011;0.6;;138.2;160.3;173.5;;;63.9
+73;"Arts; anesthesiologie";Arts alleen werknemer (excl. DGA);2012;0.6;;139.4;161.7;175.5;;;64.2
+74;"Arts; anesthesiologie";Arts alleen werknemer (excl. DGA);2013;0.7;;139.6;166.6;179.5;;;65.1
+75;"Arts; anesthesiologie";Arts alleen werknemer (excl. DGA);2014;0.7;;141.5;165.9;175.3;;;68.4
+76;"Arts; anesthesiologie";Arts alleen werknemer (excl. DGA);2015;0.7;;147.3;175.0;183.7;;;71.1
+77;"Arts; anesthesiologie";Arts alleen werknemer (excl. DGA);2016;0.7;;146.3;180.1;189.8;;;72.9
+78;"Arts; anesthesiologie";Arts alleen werknemer (excl. DGA);2017;0.8;;146.4;172.2;183.0;;;73.6
+79;"Arts; anesthesiologie";Arts alleen werknemer (excl. DGA);2018;0.8;;146.0;171.1;;;;74.3
+80;"Arts; anesthesiologie";Arts alleen werknemer (excl. DGA);2019;0.9;;147.1;171.3;;;;78.9
+81;"Arts; anesthesiologie";Arts alleen werknemer (excl. DGA);2020;0.9;;151.4;178.4;;;;79.6
+82;"Arts; anesthesiologie";Arts alleen werknemer (excl. DGA);2021;1.0;;153.9;180.5;;;;81.2
+83;"Arts; anesthesiologie";Arts alleen werknemer (excl. DGA);2022;1.0;;156.8;182.8;;;;
+84;"Arts; anesthesiologie";Arts alleen zelfstandige (excl. DGA);2011;0.5;219.6;;;;;;90.5
+85;"Arts; anesthesiologie";Arts alleen zelfstandige (excl. DGA);2012;0.5;215.2;;;;;;91.3
+86;"Arts; anesthesiologie";Arts alleen zelfstandige (excl. DGA);2013;0.5;209.2;;;;;;88.0
+87;"Arts; anesthesiologie";Arts alleen zelfstandige (excl. DGA);2014;0.5;219.0;;;;;;93.8
+88;"Arts; anesthesiologie";Arts alleen zelfstandige (excl. DGA);2015;0.2;187.6;;;;;;88.3
+89;"Arts; anesthesiologie";Arts alleen zelfstandige (excl. DGA);2016;0.2;190.9;;;;;;92.9
+90;"Arts; anesthesiologie";Arts alleen zelfstandige (excl. DGA);2017;0.2;185.3;;;;;;90.3
+91;"Arts; anesthesiologie";Arts alleen zelfstandige (excl. DGA);2018;0.2;169.5;;;;;;86.5
+92;"Arts; anesthesiologie";Arts alleen zelfstandige (excl. DGA);2019;0.2;180.9;;;;;;90.3
+93;"Arts; anesthesiologie";Arts alleen zelfstandige (excl. DGA);2020;0.2;174.4;;;;;;91.7
+94;"Arts; anesthesiologie";Arts alleen zelfstandige (excl. DGA);2021;0.2;176.2;;;;;;93.1
+95;"Arts; anesthesiologie";Arts alleen zelfstandige (excl. DGA);2022;0.2;;;;;;;
+96;"Arts; anesthesiologie";Arts DGA;2011;0.1;0.4;129.4;144.4;154.0;52.3;;85.9
+97;"Arts; anesthesiologie";Arts DGA;2012;0.1;1.2;119.6;124.9;131.7;53.2;;85.5
+98;"Arts; anesthesiologie";Arts DGA;2013;0.1;4.8;112.1;144.8;148.2;24.8;;74.6
+99;"Arts; anesthesiologie";Arts DGA;2014;0.1;6.4;115.2;120.1;130.6;104.0;;115.5
+100;"Arts; anesthesiologie";Arts DGA;2015;0.4;2.4;121.8;126.4;131.9;7.5;;63.0
+101;"Arts; anesthesiologie";Arts DGA;2016;0.4;0.6;122.5;125.5;131.1;10.7;;61.7
+102;"Arts; anesthesiologie";Arts DGA;2017;0.5;0.7;122.9;129.7;134.6;20.9;;73.3
+103;"Arts; anesthesiologie";Arts DGA;2018;0.5;2.5;125.1;129.0;;26.6;;72.2
+104;"Arts; anesthesiologie";Arts DGA;2019;0.5;1.1;125.0;128.6;;74.6;;100.2
+105;"Arts; anesthesiologie";Arts DGA;2020;0.5;0.6;124.8;127.6;;37.3;;82.4
+106;"Arts; anesthesiologie";Arts DGA;2021;0.5;1.1;125.9;127.7;;31.7;;82.8
+107;"Arts; anesthesiologie";Arts DGA;2022;0.5;;126.1;129.3;;;;
+108;"Arts; anesthesiologie";Arts met overig of gecombineerd inkomen;2011;0.1;23.0;129.3;152.4;187.2;3.1;11.7;69.6
+109;"Arts; anesthesiologie";Arts met overig of gecombineerd inkomen;2012;0.1;29.8;127.9;148.2;172.3;0.8;12.4;70.9
+110;"Arts; anesthesiologie";Arts met overig of gecombineerd inkomen;2013;0.1;25.1;128.2;155.0;176.5;0.0;9.4;70.3
+111;"Arts; anesthesiologie";Arts met overig of gecombineerd inkomen;2014;0.1;33.0;127.1;150.3;171.9;0.8;9.6;74.5
+112;"Arts; anesthesiologie";Arts met overig of gecombineerd inkomen;2015;0.1;18.0;139.5;163.2;179.2;0.3;10.4;73.0
+113;"Arts; anesthesiologie";Arts met overig of gecombineerd inkomen;2016;0.1;19.6;140.1;172.5;190.0;0.0;9.0;76.5
+114;"Arts; anesthesiologie";Arts met overig of gecombineerd inkomen;2017;0.1;23.8;143.5;168.8;184.9;0.0;9.3;82.9
+115;"Arts; anesthesiologie";Arts met overig of gecombineerd inkomen;2018;0.1;22.3;143.2;166.7;;4.9;10.6;84.1
+116;"Arts; anesthesiologie";Arts met overig of gecombineerd inkomen;2019;0.1;19.7;149.5;173.1;;0.6;12.4;84.4
+117;"Arts; anesthesiologie";Arts met overig of gecombineerd inkomen;2020;0.1;21.9;147.9;172.5;;2.9;9.3;87.4
+118;"Arts; anesthesiologie";Arts met overig of gecombineerd inkomen;2021;0.2;17.3;146.2;172.0;;0.0;13.0;90.6
+119;"Arts; anesthesiologie";Arts met overig of gecombineerd inkomen;2022;0.2;;151.9;178.6;;;;
+120;"Arts; cardiologie";Totaal;2011;0.8;66.0;77.3;89.1;93.3;9.2;1.3;70.4
+121;"Arts; cardiologie";Totaal;2012;0.8;80.6;76.3;86.8;91.8;6.3;1.5;75.0
+122;"Arts; cardiologie";Totaal;2013;0.9;84.2;75.3;88.6;95.1;3.6;1.0;75.9
+123;"Arts; cardiologie";Totaal;2014;0.9;82.6;76.8;88.1;95.2;17.9;1.1;85.1
+124;"Arts; cardiologie";Totaal;2015;0.9;34.4;109.6;122.3;128.3;4.1;1.2;72.2
+125;"Arts; cardiologie";Totaal;2016;0.9;32.5;112.0;126.7;132.6;7.2;1.1;74.8
+126;"Arts; cardiologie";Totaal;2017;1.0;28.8;113.9;126.0;132.5;11.0;0.8;79.4
+127;"Arts; cardiologie";Totaal;2018;1.0;25.4;116.9;130.1;;12.8;0.8;76.3
+128;"Arts; cardiologie";Totaal;2019;1.0;26.2;119.6;132.5;;30.8;1.5;89.7
+129;"Arts; cardiologie";Totaal;2020;1.0;23.0;122.6;136.9;;14.9;0.4;82.3
+130;"Arts; cardiologie";Totaal;2021;1.1;24.5;122.4;136.5;;10.1;0.5;83.3
+131;"Arts; cardiologie";Totaal;2022;1.1;;122.4;135.7;;;;
+132;"Arts; cardiologie";Arts alleen werknemer (excl. DGA);2011;0.3;;116.7;140.5;145.2;;;60.1
+133;"Arts; cardiologie";Arts alleen werknemer (excl. DGA);2012;0.3;;122.2;141.8;148.0;;;62.0
+134;"Arts; cardiologie";Arts alleen werknemer (excl. DGA);2013;0.3;;123.1;146.3;154.9;;;62.0
+135;"Arts; cardiologie";Arts alleen werknemer (excl. DGA);2014;0.3;;123.6;145.7;152.8;;;66.5
+136;"Arts; cardiologie";Arts alleen werknemer (excl. DGA);2015;0.4;;130.3;152.3;159.8;;;67.0
+137;"Arts; cardiologie";Arts alleen werknemer (excl. DGA);2016;0.4;;132.8;158.5;165.7;;;72.1
+138;"Arts; cardiologie";Arts alleen werknemer (excl. DGA);2017;0.4;;134.3;156.3;163.5;;;73.6
+139;"Arts; cardiologie";Arts alleen werknemer (excl. DGA);2018;0.4;;134.7;156.5;;;;69.8
+140;"Arts; cardiologie";Arts alleen werknemer (excl. DGA);2019;0.4;;137.8;160.9;;;;75.2
+141;"Arts; cardiologie";Arts alleen werknemer (excl. DGA);2020;0.5;;145.9;171.8;;;;76.8
+142;"Arts; cardiologie";Arts alleen werknemer (excl. DGA);2021;0.5;;145.9;170.9;;;;79.6
+143;"Arts; cardiologie";Arts alleen werknemer (excl. DGA);2022;0.5;;147.7;171.2;;;;
+144;"Arts; cardiologie";Arts alleen zelfstandige (excl. DGA);2011;0.3;171.2;;;;;;73.0
+145;"Arts; cardiologie";Arts alleen zelfstandige (excl. DGA);2012;0.3;203.3;;;;;;86.5
+146;"Arts; cardiologie";Arts alleen zelfstandige (excl. DGA);2013;0.3;211.8;;;;;;90.4
+147;"Arts; cardiologie";Arts alleen zelfstandige (excl. DGA);2014;0.3;210.7;;;;;;91.0
+148;"Arts; cardiologie";Arts alleen zelfstandige (excl. DGA);2015;0.1;210.7;;;;;;91.8
+149;"Arts; cardiologie";Arts alleen zelfstandige (excl. DGA);2016;0.1;207.8;;;;;;89.4
+150;"Arts; cardiologie";Arts alleen zelfstandige (excl. DGA);2017;0.1;204.2;;;;;;91.1
+151;"Arts; cardiologie";Arts alleen zelfstandige (excl. DGA);2018;0.1;;;;;;;85.9
+152;"Arts; cardiologie";Arts alleen zelfstandige (excl. DGA);2019;0.1;199.2;;;;;;92.8
+153;"Arts; cardiologie";Arts alleen zelfstandige (excl. DGA);2020;0.1;177.2;;;;;;90.3
+154;"Arts; cardiologie";Arts alleen zelfstandige (excl. DGA);2021;0.1;178.1;;;;;;91.3
+155;"Arts; cardiologie";Arts alleen zelfstandige (excl. DGA);2022;0.1;;;;;;;
+156;"Arts; cardiologie";Arts DGA;2011;0.2;4.8;123.8;129.7;134.6;37.7;;77.2
+157;"Arts; cardiologie";Arts DGA;2012;0.2;13.9;112.0;120.5;128.5;28.8;;74.1
+158;"Arts; cardiologie";Arts DGA;2013;0.2;11.5;111.2;126.9;133.1;17.4;;69.4
+159;"Arts; cardiologie";Arts DGA;2014;0.2;25.9;106.6;113.6;127.3;83.2;;110.6
+160;"Arts; cardiologie";Arts DGA;2015;0.3;4.5;120.5;124.7;129.7;10.8;;66.9
+161;"Arts; cardiologie";Arts DGA;2016;0.3;3.2;123.3;127.1;131.1;19.5;;71.0
+162;"Arts; cardiologie";Arts DGA;2017;0.4;3.1;122.6;125.4;131.3;27.0;;80.3
+163;"Arts; cardiologie";Arts DGA;2018;0.4;7.5;123.0;127.9;;30.1;;80.4
+164;"Arts; cardiologie";Arts DGA;2019;0.4;6.0;125.6;128.4;;74.5;;102.9
+165;"Arts; cardiologie";Arts DGA;2020;0.4;4.7;126.5;130.1;;37.3;;86.1
+166;"Arts; cardiologie";Arts DGA;2021;0.4;4.4;126.7;129.9;;25.9;;83.4
+167;"Arts; cardiologie";Arts DGA;2022;0.4;;126.7;129.9;;;;
+168;"Arts; cardiologie";Arts met overig of gecombineerd inkomen;2011;0.1;;;;;;;
+169;"Arts; cardiologie";Arts met overig of gecombineerd inkomen;2012;0.1;;;;;;;
+170;"Arts; cardiologie";Arts met overig of gecombineerd inkomen;2013;0.1;;;;;;;
+171;"Arts; cardiologie";Arts met overig of gecombineerd inkomen;2014;0.1;;;;;;;
+172;"Arts; cardiologie";Arts met overig of gecombineerd inkomen;2015;0.1;;;;;;;
+173;"Arts; cardiologie";Arts met overig of gecombineerd inkomen;2016;0.1;;;;;;;
+174;"Arts; cardiologie";Arts met overig of gecombineerd inkomen;2017;0.1;;;;;;;
+175;"Arts; cardiologie";Arts met overig of gecombineerd inkomen;2018;0.1;;;;;;;
+176;"Arts; cardiologie";Arts met overig of gecombineerd inkomen;2019;0.1;;;;;;;
+177;"Arts; cardiologie";Arts met overig of gecombineerd inkomen;2020;0.1;;;;;;;
+178;"Arts; cardiologie";Arts met overig of gecombineerd inkomen;2021;0.1;;;;;;;
+179;"Arts; cardiologie";Arts met overig of gecombineerd inkomen;2022;0.1;;;;;;;
+180;"Arts; cardio-thoracale chirurgie";Totaal;2011;0.1;49.3;142.4;178.2;180.0;2.1;0.3;79.2
+181;"Arts; cardio-thoracale chirurgie";Totaal;2012;0.1;44.6;144.5;170.9;174.0;0.4;0.7;75.5
+182;"Arts; cardio-thoracale chirurgie";Totaal;2013;0.1;44.8;146.0;178.3;181.2;0.0;0.6;77.4
+183;"Arts; cardio-thoracale chirurgie";Totaal;2014;0.1;43.3;145.0;180.0;185.7;5.9;1.5;86.3
+184;"Arts; cardio-thoracale chirurgie";Totaal;2015;0.1;11.3;164.0;200.2;205.7;0.8;0.1;78.8
+185;"Arts; cardio-thoracale chirurgie";Totaal;2016;0.1;7.9;170.9;208.3;212.0;5.5;0.1;84.3
+186;"Arts; cardio-thoracale chirurgie";Totaal;2017;0.1;7.8;170.7;201.7;208.2;6.3;0.2;82.8
+187;"Arts; cardio-thoracale chirurgie";Totaal;2018;0.1;9.8;176.4;212.4;;11.8;0.2;91.9
+188;"Arts; cardio-thoracale chirurgie";Totaal;2019;0.1;7.5;183.1;216.6;;41.7;0.7;107.2
+189;"Arts; cardio-thoracale chirurgie";Totaal;2020;0.1;6.6;183.5;218.6;;9.1;0.4;96.2
+190;"Arts; cardio-thoracale chirurgie";Totaal;2021;0.1;9.0;190.3;224.8;;7.6;0.2;98.8
+191;"Arts; cardio-thoracale chirurgie";Totaal;2022;0.1;;184.6;221.7;;;;
+192;"Arts; cardio-thoracale chirurgie";Arts alleen werknemer (excl. DGA);2011;0.1;;;;;;;
+193;"Arts; cardio-thoracale chirurgie";Arts alleen werknemer (excl. DGA);2012;0.1;;;;;;;
+194;"Arts; cardio-thoracale chirurgie";Arts alleen werknemer (excl. DGA);2013;0.1;;;;;;;
+195;"Arts; cardio-thoracale chirurgie";Arts alleen werknemer (excl. DGA);2014;0.1;;;;;;;
+196;"Arts; cardio-thoracale chirurgie";Arts alleen werknemer (excl. DGA);2015;0.1;;;;;;;
+197;"Arts; cardio-thoracale chirurgie";Arts alleen werknemer (excl. DGA);2016;0.1;;;;;;;
+198;"Arts; cardio-thoracale chirurgie";Arts alleen werknemer (excl. DGA);2017;0.1;;;;;;;
+199;"Arts; cardio-thoracale chirurgie";Arts alleen werknemer (excl. DGA);2018;0.1;;;;;;;
+200;"Arts; cardio-thoracale chirurgie";Arts alleen werknemer (excl. DGA);2019;0.1;;;;;;;
+201;"Arts; cardio-thoracale chirurgie";Arts alleen werknemer (excl. DGA);2020;0.1;;;;;;;
+202;"Arts; cardio-thoracale chirurgie";Arts alleen werknemer (excl. DGA);2021;0.1;;;;;;;
+203;"Arts; cardio-thoracale chirurgie";Arts alleen werknemer (excl. DGA);2022;0.1;;;;;;;
+204;"Arts; cardio-thoracale chirurgie";Arts alleen zelfstandige (excl. DGA);2011;0.0;;;;;;;
+205;"Arts; cardio-thoracale chirurgie";Arts alleen zelfstandige (excl. DGA);2012;0.0;;;;;;;
+206;"Arts; cardio-thoracale chirurgie";Arts alleen zelfstandige (excl. DGA);2013;0.0;;;;;;;
+207;"Arts; cardio-thoracale chirurgie";Arts alleen zelfstandige (excl. DGA);2014;0.0;;;;;;;
+208;"Arts; cardio-thoracale chirurgie";Arts alleen zelfstandige (excl. DGA);2015;0.0;;;;;;;
+209;"Arts; cardio-thoracale chirurgie";Arts alleen zelfstandige (excl. DGA);2016;0.0;;;;;;;
+210;"Arts; cardio-thoracale chirurgie";Arts alleen zelfstandige (excl. DGA);2017;0.0;;;;;;;
+211;"Arts; cardio-thoracale chirurgie";Arts alleen zelfstandige (excl. DGA);2018;0.0;;;;;;;
+212;"Arts; cardio-thoracale chirurgie";Arts alleen zelfstandige (excl. DGA);2019;0.0;;;;;;;
+213;"Arts; cardio-thoracale chirurgie";Arts alleen zelfstandige (excl. DGA);2020;0.0;;;;;;;
+214;"Arts; cardio-thoracale chirurgie";Arts alleen zelfstandige (excl. DGA);2021;0.0;;;;;;;
+215;"Arts; cardio-thoracale chirurgie";Arts alleen zelfstandige (excl. DGA);2022;0.0;;;;;;;
+216;"Arts; cardio-thoracale chirurgie";Arts DGA;2011;0.0;;;;;;;
+217;"Arts; cardio-thoracale chirurgie";Arts DGA;2012;0.0;;;;;;;
+218;"Arts; cardio-thoracale chirurgie";Arts DGA;2013;0.0;;;;;;;
+219;"Arts; cardio-thoracale chirurgie";Arts DGA;2014;0.0;;;;;;;
+220;"Arts; cardio-thoracale chirurgie";Arts DGA;2015;0.0;;;;;;;
+221;"Arts; cardio-thoracale chirurgie";Arts DGA;2016;0.0;;;;;;;
+222;"Arts; cardio-thoracale chirurgie";Arts DGA;2017;0.0;;;;;;;
+223;"Arts; cardio-thoracale chirurgie";Arts DGA;2018;0.0;;;;;;;
+224;"Arts; cardio-thoracale chirurgie";Arts DGA;2019;0.0;;;;;;;
+225;"Arts; cardio-thoracale chirurgie";Arts DGA;2020;0.0;;;;;;;
+226;"Arts; cardio-thoracale chirurgie";Arts DGA;2021;0.0;;;;;;;
+227;"Arts; cardio-thoracale chirurgie";Arts DGA;2022;0.0;;;;;;;
+228;"Arts; cardio-thoracale chirurgie";Arts met overig of gecombineerd inkomen;2011;0.0;;;;;;;
+229;"Arts; cardio-thoracale chirurgie";Arts met overig of gecombineerd inkomen;2012;0.0;;;;;;;
+230;"Arts; cardio-thoracale chirurgie";Arts met overig of gecombineerd inkomen;2013;0.0;;;;;;;
+231;"Arts; cardio-thoracale chirurgie";Arts met overig of gecombineerd inkomen;2014;0.0;;;;;;;
+232;"Arts; cardio-thoracale chirurgie";Arts met overig of gecombineerd inkomen;2015;0.0;;;;;;;
+233;"Arts; cardio-thoracale chirurgie";Arts met overig of gecombineerd inkomen;2016;0.0;;;;;;;
+234;"Arts; cardio-thoracale chirurgie";Arts met overig of gecombineerd inkomen;2017;0.0;;;;;;;
+235;"Arts; cardio-thoracale chirurgie";Arts met overig of gecombineerd inkomen;2018;0.0;;;;;;;
+236;"Arts; cardio-thoracale chirurgie";Arts met overig of gecombineerd inkomen;2019;0.0;;;;;;;
+237;"Arts; cardio-thoracale chirurgie";Arts met overig of gecombineerd inkomen;2020;0.0;;;;;;;
+238;"Arts; cardio-thoracale chirurgie";Arts met overig of gecombineerd inkomen;2021;0.0;;;;;;;
+239;"Arts; cardio-thoracale chirurgie";Arts met overig of gecombineerd inkomen;2022;0.0;;;;;;;
+240;"Arts; dermatologie en venerologie";Totaal;2011;0.4;72.4;51.2;59.7;68.1;7.8;0.5;72.8
+241;"Arts; dermatologie en venerologie";Totaal;2012;0.4;90.8;52.1;59.8;67.8;8.1;1.0;78.9
+242;"Arts; dermatologie en venerologie";Totaal;2013;0.5;88.1;54.7;65.5;75.3;3.8;0.5;78.8
+243;"Arts; dermatologie en venerologie";Totaal;2014;0.4;91.9;53.9;62.7;72.3;14.6;0.7;88.2
+244;"Arts; dermatologie en venerologie";Totaal;2015;0.5;36.0;86.9;96.4;107.4;1.4;1.0;71.2
+245;"Arts; dermatologie en venerologie";Totaal;2016;0.5;34.6;86.4;98.0;110.6;4.0;0.4;69.5
+246;"Arts; dermatologie en venerologie";Totaal;2017;0.5;34.2;84.9;95.8;110.3;9.4;0.4;75.6
+247;"Arts; dermatologie en venerologie";Totaal;2018;0.5;30.2;87.6;97.9;;11.4;0.9;74.4
+248;"Arts; dermatologie en venerologie";Totaal;2019;0.6;29.5;91.2;101.7;;25.2;0.6;87.1
+249;"Arts; dermatologie en venerologie";Totaal;2020;0.6;27.8;92.5;103.6;;11.0;0.4;79.0
+250;"Arts; dermatologie en venerologie";Totaal;2021;0.6;29.6;94.7;105.9;;14.1;0.5;85.5
+251;"Arts; dermatologie en venerologie";Totaal;2022;0.6;;94.0;104.3;;;;
+252;"Arts; dermatologie en venerologie";Arts alleen werknemer (excl. DGA);2011;0.1;;;;;;;
+253;"Arts; dermatologie en venerologie";Arts alleen werknemer (excl. DGA);2012;0.1;;115.9;135.1;146.6;;;65.0
+254;"Arts; dermatologie en venerologie";Arts alleen werknemer (excl. DGA);2013;0.1;;118.8;144.7;157.2;;;67.2
+255;"Arts; dermatologie en venerologie";Arts alleen werknemer (excl. DGA);2014;0.1;;118.5;141.2;154.4;;;79.1
+256;"Arts; dermatologie en venerologie";Arts alleen werknemer (excl. DGA);2015;0.2;;115.9;135.6;151.8;;;69.2
+257;"Arts; dermatologie en venerologie";Arts alleen werknemer (excl. DGA);2016;0.2;;112.7;134.6;154.1;;;67.7
+258;"Arts; dermatologie en venerologie";Arts alleen werknemer (excl. DGA);2017;0.2;;109.9;131.9;152.4;;;68.7
+259;"Arts; dermatologie en venerologie";Arts alleen werknemer (excl. DGA);2018;0.2;;108.1;128.9;;;;66.2
+260;"Arts; dermatologie en venerologie";Arts alleen werknemer (excl. DGA);2019;0.2;;109.0;130.5;;;;68.7
+261;"Arts; dermatologie en venerologie";Arts alleen werknemer (excl. DGA);2020;0.2;;112.1;134.3;;;;72.5
+262;"Arts; dermatologie en venerologie";Arts alleen werknemer (excl. DGA);2021;0.2;;116.1;139.4;;;;77.3
+263;"Arts; dermatologie en venerologie";Arts alleen werknemer (excl. DGA);2022;0.2;;117.9;138.0;;;;
+264;"Arts; dermatologie en venerologie";Arts alleen zelfstandige (excl. DGA);2011;0.2;129.7;;;;;;73.2
+265;"Arts; dermatologie en venerologie";Arts alleen zelfstandige (excl. DGA);2012;0.2;164.5;;;;;;82.6
+266;"Arts; dermatologie en venerologie";Arts alleen zelfstandige (excl. DGA);2013;0.2;165.9;;;;;;84.4
+267;"Arts; dermatologie en venerologie";Arts alleen zelfstandige (excl. DGA);2014;0.2;166.4;;;;;;83.8
+268;"Arts; dermatologie en venerologie";Arts alleen zelfstandige (excl. DGA);2015;0.1;;;;;;;82.0
+269;"Arts; dermatologie en venerologie";Arts alleen zelfstandige (excl. DGA);2016;0.1;144.5;;;;;;75.1
+270;"Arts; dermatologie en venerologie";Arts alleen zelfstandige (excl. DGA);2017;0.1;146.2;;;;;;80.4
+271;"Arts; dermatologie en venerologie";Arts alleen zelfstandige (excl. DGA);2018;0.1;;;;;;;83.6
+272;"Arts; dermatologie en venerologie";Arts alleen zelfstandige (excl. DGA);2019;0.1;;;;;;;
+273;"Arts; dermatologie en venerologie";Arts alleen zelfstandige (excl. DGA);2020;0.1;;;;;;;
+274;"Arts; dermatologie en venerologie";Arts alleen zelfstandige (excl. DGA);2021;0.1;;;;;;;90.4
+275;"Arts; dermatologie en venerologie";Arts alleen zelfstandige (excl. DGA);2022;0.1;;;;;;;
+276;"Arts; dermatologie en venerologie";Arts DGA;2011;0.1;;;;;;;
+277;"Arts; dermatologie en venerologie";Arts DGA;2012;0.1;;;;;;;
+278;"Arts; dermatologie en venerologie";Arts DGA;2013;0.1;;;;;;;
+279;"Arts; dermatologie en venerologie";Arts DGA;2014;0.1;;;;;;;
+280;"Arts; dermatologie en venerologie";Arts DGA;2015;0.2;2.7;107.8;112.4;122.2;4.1;;64.1
+281;"Arts; dermatologie en venerologie";Arts DGA;2016;0.2;0.5;109.4;114.2;124.6;11.8;;67.5
+282;"Arts; dermatologie en venerologie";Arts DGA;2017;0.2;2.6;108.7;112.5;125.9;26.1;;82.1
+283;"Arts; dermatologie en venerologie";Arts DGA;2018;0.2;3.1;110.1;113.6;;29.2;;79.6
+284;"Arts; dermatologie en venerologie";Arts DGA;2019;0.2;2.1;110.7;113.3;;64.9;;100.5
+285;"Arts; dermatologie en venerologie";Arts DGA;2020;0.2;1.0;109.5;111.8;;26.1;;81.8
+286;"Arts; dermatologie en venerologie";Arts DGA;2021;0.2;1.5;112.7;114.7;;32.2;;88.1
+287;"Arts; dermatologie en venerologie";Arts DGA;2022;0.2;;109.0;112.3;;;;
+288;"Arts; dermatologie en venerologie";Arts met overig of gecombineerd inkomen;2011;0.0;;;;;;;
+289;"Arts; dermatologie en venerologie";Arts met overig of gecombineerd inkomen;2012;0.0;;;;;;;
+290;"Arts; dermatologie en venerologie";Arts met overig of gecombineerd inkomen;2013;0.0;;;;;;;
+291;"Arts; dermatologie en venerologie";Arts met overig of gecombineerd inkomen;2014;0.0;;;;;;;
+292;"Arts; dermatologie en venerologie";Arts met overig of gecombineerd inkomen;2015;0.0;;;;;;;
+293;"Arts; dermatologie en venerologie";Arts met overig of gecombineerd inkomen;2016;0.0;;;;;;;
+294;"Arts; dermatologie en venerologie";Arts met overig of gecombineerd inkomen;2017;0.0;;;;;;;
+295;"Arts; dermatologie en venerologie";Arts met overig of gecombineerd inkomen;2018;0.0;;;;;;;
+296;"Arts; dermatologie en venerologie";Arts met overig of gecombineerd inkomen;2019;0.0;;;;;;;
+297;"Arts; dermatologie en venerologie";Arts met overig of gecombineerd inkomen;2020;0.0;;;;;;;
+298;"Arts; dermatologie en venerologie";Arts met overig of gecombineerd inkomen;2021;0.0;;;;;;;
+299;"Arts; dermatologie en venerologie";Arts met overig of gecombineerd inkomen;2022;0.0;;;;;;;
+300;"Arts; heelkunde";Totaal;2011;1.0;89.0;63.3;73.7;80.7;3.6;0.6;69.8
+301;"Arts; heelkunde";Totaal;2012;1.1;105.2;62.8;72.7;79.0;2.5;0.3;75.3
+302;"Arts; heelkunde";Totaal;2013;1.1;104.7;65.2;78.0;84.2;0.9;0.3;75.7
+303;"Arts; heelkunde";Totaal;2014;1.1;105.7;66.2;77.9;83.4;8.3;0.7;80.4
+304;"Arts; heelkunde";Totaal;2015;1.2;39.8;110.2;124.4;131.0;1.4;0.6;71.9
+305;"Arts; heelkunde";Totaal;2016;1.2;34.0;115.1;130.5;135.7;4.7;0.6;72.4
+306;"Arts; heelkunde";Totaal;2017;1.2;33.6;116.2;131.0;137.2;6.0;0.4;75.7
+307;"Arts; heelkunde";Totaal;2018;1.2;26.1;122.9;138.8;;9.2;0.5;77.8
+308;"Arts; heelkunde";Totaal;2019;1.2;26.2;126.4;140.6;;33.5;1.0;92.9
+309;"Arts; heelkunde";Totaal;2020;1.3;25.4;126.9;142.1;;19.0;0.7;88.0
+310;"Arts; heelkunde";Totaal;2021;1.3;26.8;128.4;142.6;;14.2;0.6;87.4
+311;"Arts; heelkunde";Totaal;2022;1.4;;130.1;146.1;;;;
+312;"Arts; heelkunde";Arts alleen werknemer (excl. DGA);2011;0.4;;125.0;147.5;158.4;;;60.8
+313;"Arts; heelkunde";Arts alleen werknemer (excl. DGA);2012;0.4;;127.2;149.1;159.1;;;61.2
+314;"Arts; heelkunde";Arts alleen werknemer (excl. DGA);2013;0.4;;130.3;155.4;163.8;;;62.7
+315;"Arts; heelkunde";Arts alleen werknemer (excl. DGA);2014;0.4;;132.4;157.2;163.7;;;64.0
+316;"Arts; heelkunde";Arts alleen werknemer (excl. DGA);2015;0.5;;137.6;164.2;171.9;;;67.5
+317;"Arts; heelkunde";Arts alleen werknemer (excl. DGA);2016;0.5;;144.1;172.7;177.7;;;68.7
+318;"Arts; heelkunde";Arts alleen werknemer (excl. DGA);2017;0.5;;147.5;175.8;181.6;;;71.9
+319;"Arts; heelkunde";Arts alleen werknemer (excl. DGA);2018;0.5;;151.7;182.5;;;;72.8
+320;"Arts; heelkunde";Arts alleen werknemer (excl. DGA);2019;0.5;;154.5;182.3;;;;77.9
+321;"Arts; heelkunde";Arts alleen werknemer (excl. DGA);2020;0.5;;158.9;190.4;;;;81.6
+322;"Arts; heelkunde";Arts alleen werknemer (excl. DGA);2021;0.6;;159.0;186.1;;;;81.4
+323;"Arts; heelkunde";Arts alleen werknemer (excl. DGA);2022;0.6;;162.3;193.2;;;;
+324;"Arts; heelkunde";Arts alleen zelfstandige (excl. DGA);2011;0.5;181.8;;;;;;75.0
+325;"Arts; heelkunde";Arts alleen zelfstandige (excl. DGA);2012;0.5;208.2;;;;;;85.9
+326;"Arts; heelkunde";Arts alleen zelfstandige (excl. DGA);2013;0.5;210.7;;;;;;87.2
+327;"Arts; heelkunde";Arts alleen zelfstandige (excl. DGA);2014;0.5;216.0;;;;;;89.6
+328;"Arts; heelkunde";Arts alleen zelfstandige (excl. DGA);2015;0.2;220.2;;;;;;93.3
+329;"Arts; heelkunde";Arts alleen zelfstandige (excl. DGA);2016;0.2;226.0;;;;;;96.6
+330;"Arts; heelkunde";Arts alleen zelfstandige (excl. DGA);2017;0.2;223.6;;;;;;95.0
+331;"Arts; heelkunde";Arts alleen zelfstandige (excl. DGA);2018;0.1;200.5;;;;;;94.3
+332;"Arts; heelkunde";Arts alleen zelfstandige (excl. DGA);2019;0.1;202.4;;;;;;101.2
+333;"Arts; heelkunde";Arts alleen zelfstandige (excl. DGA);2020;0.2;199.1;;;;;;100.0
+334;"Arts; heelkunde";Arts alleen zelfstandige (excl. DGA);2021;0.2;212.9;;;;;;105.3
+335;"Arts; heelkunde";Arts alleen zelfstandige (excl. DGA);2022;0.2;;;;;;;
+336;"Arts; heelkunde";Arts DGA;2011;0.1;;;;;;;
+337;"Arts; heelkunde";Arts DGA;2012;0.1;;;;;;;
+338;"Arts; heelkunde";Arts DGA;2013;0.1;;;;;;;
+339;"Arts; heelkunde";Arts DGA;2014;0.1;;;;;;;
+340;"Arts; heelkunde";Arts DGA;2015;0.4;4.2;121.5;125.6;129.3;4.1;;64.4
+341;"Arts; heelkunde";Arts DGA;2016;0.4;0.7;121.6;125.9;129.4;12.6;;65.9
+342;"Arts; heelkunde";Arts DGA;2017;0.4;0.5;121.3;125.4;131.8;15.4;;72.0
+343;"Arts; heelkunde";Arts DGA;2018;0.5;0.9;126.7;129.5;;22.1;;76.5
+344;"Arts; heelkunde";Arts DGA;2019;0.5;0.9;131.4;134.6;;81.0;;105.3
+345;"Arts; heelkunde";Arts DGA;2020;0.5;0.8;128.5;130.2;;46.2;;90.4
+346;"Arts; heelkunde";Arts DGA;2021;0.5;0.7;130.0;132.5;;33.8;;86.8
+347;"Arts; heelkunde";Arts DGA;2022;0.5;;131.1;132.9;;;;
+348;"Arts; heelkunde";Arts met overig of gecombineerd inkomen;2011;0.1;;;;;;;
+349;"Arts; heelkunde";Arts met overig of gecombineerd inkomen;2012;0.1;;;;;;;
+350;"Arts; heelkunde";Arts met overig of gecombineerd inkomen;2013;0.1;;;;;;;
+351;"Arts; heelkunde";Arts met overig of gecombineerd inkomen;2014;0.1;;;;;;;
+352;"Arts; heelkunde";Arts met overig of gecombineerd inkomen;2015;0.1;;;;;;;
+353;"Arts; heelkunde";Arts met overig of gecombineerd inkomen;2016;0.1;;;;;;;
+354;"Arts; heelkunde";Arts met overig of gecombineerd inkomen;2017;0.1;;;;;;;
+355;"Arts; heelkunde";Arts met overig of gecombineerd inkomen;2018;0.1;;;;;;;
+356;"Arts; heelkunde";Arts met overig of gecombineerd inkomen;2019;0.1;;;;;;;
+357;"Arts; heelkunde";Arts met overig of gecombineerd inkomen;2020;0.1;;;;;;;
+358;"Arts; heelkunde";Arts met overig of gecombineerd inkomen;2021;0.1;;;;;;;
+359;"Arts; heelkunde";Arts met overig of gecombineerd inkomen;2022;0.1;;;;;;;
+360;"Arts; inwendige geneeskunde";Totaal;2011;1.7;84.6;76.8;89.7;95.8;3.0;1.1;77.2
+361;"Arts; inwendige geneeskunde";Totaal;2012;1.8;78.3;77.0;90.4;97.2;2.7;1.0;75.4
+362;"Arts; inwendige geneeskunde";Totaal;2013;1.9;76.6;76.9;93.4;100.4;2.7;0.7;76.0
+363;"Arts; inwendige geneeskunde";Totaal;2014;1.9;78.3;77.8;92.0;98.6;6.7;0.6;81.3
+364;"Arts; inwendige geneeskunde";Totaal;2015;2.0;31.6;109.4;127.4;135.4;1.1;1.3;72.4
+365;"Arts; inwendige geneeskunde";Totaal;2016;2.0;29.9;111.1;132.4;140.6;2.5;0.7;73.7
+366;"Arts; inwendige geneeskunde";Totaal;2017;2.0;27.0;112.8;130.0;138.4;3.8;0.6;73.5
+367;"Arts; inwendige geneeskunde";Totaal;2018;2.1;22.8;115.8;133.9;;6.2;0.8;73.7
+368;"Arts; inwendige geneeskunde";Totaal;2019;2.1;22.4;118.5;136.7;;17.3;1.1;83.6
+369;"Arts; inwendige geneeskunde";Totaal;2020;2.2;21.7;120.6;139.4;;6.7;0.7;80.0
+370;"Arts; inwendige geneeskunde";Totaal;2021;2.3;23.7;119.7;138.9;;5.0;0.7;81.5
+371;"Arts; inwendige geneeskunde";Totaal;2022;2.4;;120.2;137.8;;;;
+372;"Arts; inwendige geneeskunde";Arts alleen werknemer (excl. DGA);2011;0.8;;123.1;145.2;152.1;;;63.0
+373;"Arts; inwendige geneeskunde";Arts alleen werknemer (excl. DGA);2012;0.8;;125.5;148.5;155.7;;;63.1
+374;"Arts; inwendige geneeskunde";Arts alleen werknemer (excl. DGA);2013;0.9;;126.4;152.9;161.2;;;65.2
+375;"Arts; inwendige geneeskunde";Arts alleen werknemer (excl. DGA);2014;0.9;;127.8;151.8;159.8;;;67.6
+376;"Arts; inwendige geneeskunde";Arts alleen werknemer (excl. DGA);2015;1.0;;132.5;158.9;167.2;;;68.4
+377;"Arts; inwendige geneeskunde";Arts alleen werknemer (excl. DGA);2016;1.1;;134.4;165.5;173.5;;;70.9
+378;"Arts; inwendige geneeskunde";Arts alleen werknemer (excl. DGA);2017;1.1;;134.5;160.0;168.7;;;69.3
+379;"Arts; inwendige geneeskunde";Arts alleen werknemer (excl. DGA);2018;1.2;;134.6;161.9;;;;68.9
+380;"Arts; inwendige geneeskunde";Arts alleen werknemer (excl. DGA);2019;1.2;;136.2;163.0;;;;74.7
+381;"Arts; inwendige geneeskunde";Arts alleen werknemer (excl. DGA);2020;1.3;;140.0;168.9;;;;76.4
+382;"Arts; inwendige geneeskunde";Arts alleen werknemer (excl. DGA);2021;1.3;;139.2;167.8;;;;77.5
+383;"Arts; inwendige geneeskunde";Arts alleen werknemer (excl. DGA);2022;1.4;;139.5;165.9;;;;
+384;"Arts; inwendige geneeskunde";Arts alleen zelfstandige (excl. DGA);2011;0.6;214.6;;;;;;93.1
+385;"Arts; inwendige geneeskunde";Arts alleen zelfstandige (excl. DGA);2012;0.7;194.3;;;;;;86.9
+386;"Arts; inwendige geneeskunde";Arts alleen zelfstandige (excl. DGA);2013;0.7;191.6;;;;;;86.8
+387;"Arts; inwendige geneeskunde";Arts alleen zelfstandige (excl. DGA);2014;0.7;196.0;;;;;;90.0
+388;"Arts; inwendige geneeskunde";Arts alleen zelfstandige (excl. DGA);2015;0.3;180.9;;;;;;87.5
+389;"Arts; inwendige geneeskunde";Arts alleen zelfstandige (excl. DGA);2016;0.3;180.6;;;;;;89.3
+390;"Arts; inwendige geneeskunde";Arts alleen zelfstandige (excl. DGA);2017;0.3;177.6;;;;;;87.7
+391;"Arts; inwendige geneeskunde";Arts alleen zelfstandige (excl. DGA);2018;0.3;173.4;;;;;;87.1
+392;"Arts; inwendige geneeskunde";Arts alleen zelfstandige (excl. DGA);2019;0.2;182.9;;;;;;90.7
+393;"Arts; inwendige geneeskunde";Arts alleen zelfstandige (excl. DGA);2020;0.3;179.6;;;;;;93.5
+394;"Arts; inwendige geneeskunde";Arts alleen zelfstandige (excl. DGA);2021;0.3;187.6;;;;;;95.6
+395;"Arts; inwendige geneeskunde";Arts alleen zelfstandige (excl. DGA);2022;0.3;;;;;;;
+396;"Arts; inwendige geneeskunde";Arts DGA;2011;0.1;4.7;112.6;118.4;;45.5;;84.7
+397;"Arts; inwendige geneeskunde";Arts DGA;2012;0.1;;;;;;;
+398;"Arts; inwendige geneeskunde";Arts DGA;2013;0.1;;;;;;;
+399;"Arts; inwendige geneeskunde";Arts DGA;2014;0.1;;;;;;;
+400;"Arts; inwendige geneeskunde";Arts DGA;2015;0.5;0.8;116.3;120.5;127.9;4.7;;63.6
+401;"Arts; inwendige geneeskunde";Arts DGA;2016;0.5;0.6;118.8;122.4;130.0;9.5;;63.5
+402;"Arts; inwendige geneeskunde";Arts DGA;2017;0.5;0.2;119.6;122.7;130.5;14.9;;68.9
+403;"Arts; inwendige geneeskunde";Arts DGA;2018;0.5;0.3;121.8;125.2;;22.0;;72.8
+404;"Arts; inwendige geneeskunde";Arts DGA;2019;0.6;0.1;122.9;126.1;;61.9;;95.5
+405;"Arts; inwendige geneeskunde";Arts DGA;2020;0.6;1.2;124.0;126.0;;25.3;;79.6
+406;"Arts; inwendige geneeskunde";Arts DGA;2021;0.6;0.8;122.9;126.4;;19.3;;79.4
+407;"Arts; inwendige geneeskunde";Arts DGA;2022;0.6;;123.4;126.0;;;;
+408;"Arts; inwendige geneeskunde";Arts met overig of gecombineerd inkomen;2011;0.2;53.1;116.9;137.1;158.6;1.3;11.3;81.6
+409;"Arts; inwendige geneeskunde";Arts met overig of gecombineerd inkomen;2012;0.2;51.7;114.4;136.1;164.7;0.7;9.6;83.4
+410;"Arts; inwendige geneeskunde";Arts met overig of gecombineerd inkomen;2013;0.2;37.9;120.1;150.5;177.9;0.0;8.1;81.1
+411;"Arts; inwendige geneeskunde";Arts met overig of gecombineerd inkomen;2014;0.1;51.5;112.0;134.5;164.6;0.0;6.9;86.7
+412;"Arts; inwendige geneeskunde";Arts met overig of gecombineerd inkomen;2015;0.2;34.7;140.9;174.4;191.8;0.0;13.0;90.0
+413;"Arts; inwendige geneeskunde";Arts met overig of gecombineerd inkomen;2016;0.2;28.2;139.5;185.3;206.7;1.6;8.6;91.7
+414;"Arts; inwendige geneeskunde";Arts met overig of gecombineerd inkomen;2017;0.1;23.7;144.1;180.5;199.8;1.5;8.8;92.4
+415;"Arts; inwendige geneeskunde";Arts met overig of gecombineerd inkomen;2018;0.1;19.3;146.1;174.6;;5.4;11.4;92.4
+416;"Arts; inwendige geneeskunde";Arts met overig of gecombineerd inkomen;2019;0.2;22.6;150.4;185.3;;12.2;14.4;96.1
+417;"Arts; inwendige geneeskunde";Arts met overig of gecombineerd inkomen;2020;0.1;13.7;149.0;178.0;;3.3;12.2;89.6
+418;"Arts; inwendige geneeskunde";Arts met overig of gecombineerd inkomen;2021;0.2;17.5;151.5;180.5;;0.0;10.7;97.6
+419;"Arts; inwendige geneeskunde";Arts met overig of gecombineerd inkomen;2022;0.2;;149.1;176.5;;;;
+420;"Arts; keel- neus- oorheelkunde";Totaal;2011;0.4;86.1;63.0;71.6;76.7;9.5;1.3;73.9
+421;"Arts; keel- neus- oorheelkunde";Totaal;2012;0.4;89.2;62.9;71.7;76.7;6.5;1.7;74.3
+422;"Arts; keel- neus- oorheelkunde";Totaal;2013;0.4;90.3;61.2;74.2;80.6;2.0;0.2;73.6
+423;"Arts; keel- neus- oorheelkunde";Totaal;2014;0.4;97.8;59.6;68.1;76.1;18.9;0.2;84.7
+424;"Arts; keel- neus- oorheelkunde";Totaal;2015;0.5;32.0;100.2;110.7;119.3;5.7;0.7;69.0
+425;"Arts; keel- neus- oorheelkunde";Totaal;2016;0.5;30.1;101.7;114.1;122.7;8.3;0.4;71.7
+426;"Arts; keel- neus- oorheelkunde";Totaal;2017;0.5;32.1;101.4;112.8;123.8;10.0;0.6;78.2
+427;"Arts; keel- neus- oorheelkunde";Totaal;2018;0.5;30.4;102.5;112.6;;11.8;0.7;75.4
+428;"Arts; keel- neus- oorheelkunde";Totaal;2019;0.5;29.8;105.0;115.5;;32.6;0.8;88.9
+429;"Arts; keel- neus- oorheelkunde";Totaal;2020;0.5;29.1;106.5;117.7;;22.5;0.6;85.7
+430;"Arts; keel- neus- oorheelkunde";Totaal;2021;0.5;32.5;108.2;120.2;;15.5;0.9;86.0
+431;"Arts; keel- neus- oorheelkunde";Totaal;2022;0.5;;108.1;119.4;;;;
+432;"Arts; keel- neus- oorheelkunde";Arts alleen werknemer (excl. DGA);2011;0.1;;127.7;151.4;160.9;;;62.9
+433;"Arts; keel- neus- oorheelkunde";Arts alleen werknemer (excl. DGA);2012;0.1;;131.6;155.2;164.1;;;64.3
+434;"Arts; keel- neus- oorheelkunde";Arts alleen werknemer (excl. DGA);2013;0.1;;130.0;159.0;170.5;;;62.9
+435;"Arts; keel- neus- oorheelkunde";Arts alleen werknemer (excl. DGA);2014;0.1;;128.3;151.3;163.1;;;68.0
+436;"Arts; keel- neus- oorheelkunde";Arts alleen werknemer (excl. DGA);2015;0.2;;131.5;154.2;165.3;;;67.3
+437;"Arts; keel- neus- oorheelkunde";Arts alleen werknemer (excl. DGA);2016;0.2;;132.2;158.8;171.2;;;68.2
+438;"Arts; keel- neus- oorheelkunde";Arts alleen werknemer (excl. DGA);2017;0.2;;131.2;154.9;169.6;;;72.1
+439;"Arts; keel- neus- oorheelkunde";Arts alleen werknemer (excl. DGA);2018;0.1;;136.3;162.1;;;;69.2
+440;"Arts; keel- neus- oorheelkunde";Arts alleen werknemer (excl. DGA);2019;0.2;;136.2;160.8;;;;76.8
+441;"Arts; keel- neus- oorheelkunde";Arts alleen werknemer (excl. DGA);2020;0.2;;141.2;168.0;;;;76.2
+442;"Arts; keel- neus- oorheelkunde";Arts alleen werknemer (excl. DGA);2021;0.2;;145.8;172.4;;;;77.1
+443;"Arts; keel- neus- oorheelkunde";Arts alleen werknemer (excl. DGA);2022;0.2;;143.8;169.4;;;;
+444;"Arts; keel- neus- oorheelkunde";Arts alleen zelfstandige (excl. DGA);2011;0.2;170.9;;;;;;76.7
+445;"Arts; keel- neus- oorheelkunde";Arts alleen zelfstandige (excl. DGA);2012;0.2;173.9;;;;;;78.0
+446;"Arts; keel- neus- oorheelkunde";Arts alleen zelfstandige (excl. DGA);2013;0.2;174.0;;;;;;80.0
+447;"Arts; keel- neus- oorheelkunde";Arts alleen zelfstandige (excl. DGA);2014;0.2;187.5;;;;;;84.5
+448;"Arts; keel- neus- oorheelkunde";Arts alleen zelfstandige (excl. DGA);2015;0.1;;;;;;;
+449;"Arts; keel- neus- oorheelkunde";Arts alleen zelfstandige (excl. DGA);2016;0.1;;;;;;;
+450;"Arts; keel- neus- oorheelkunde";Arts alleen zelfstandige (excl. DGA);2017;0.1;;;;;;;
+451;"Arts; keel- neus- oorheelkunde";Arts alleen zelfstandige (excl. DGA);2018;0.1;;;;;;;
+452;"Arts; keel- neus- oorheelkunde";Arts alleen zelfstandige (excl. DGA);2019;0.1;;;;;;;
+453;"Arts; keel- neus- oorheelkunde";Arts alleen zelfstandige (excl. DGA);2020;0.1;;;;;;;
+454;"Arts; keel- neus- oorheelkunde";Arts alleen zelfstandige (excl. DGA);2021;0.1;;;;;;;
+455;"Arts; keel- neus- oorheelkunde";Arts alleen zelfstandige (excl. DGA);2022;0.1;;;;;;;
+456;"Arts; keel- neus- oorheelkunde";Arts DGA;2011;0.1;;;;;;;
+457;"Arts; keel- neus- oorheelkunde";Arts DGA;2012;0.1;;;;;;;
+458;"Arts; keel- neus- oorheelkunde";Arts DGA;2013;0.1;;;;;;;
+459;"Arts; keel- neus- oorheelkunde";Arts DGA;2014;0.1;;;;;;;
+460;"Arts; keel- neus- oorheelkunde";Arts DGA;2015;0.2;2.1;114.4;117.4;122.9;12.6;;65.7
+461;"Arts; keel- neus- oorheelkunde";Arts DGA;2016;0.2;0.2;116.7;121.1;127.6;19.5;;68.7
+462;"Arts; keel- neus- oorheelkunde";Arts DGA;2017;0.2;0.0;117.7;122.4;130.0;24.5;;80.9
+463;"Arts; keel- neus- oorheelkunde";Arts DGA;2018;0.2;3.2;116.5;118.2;;26.7;;77.4
+464;"Arts; keel- neus- oorheelkunde";Arts DGA;2019;0.2;2.4;118.9;120.8;;75.2;;100.6
+465;"Arts; keel- neus- oorheelkunde";Arts DGA;2020;0.2;1.3;120.6;122.4;;54.3;;95.7
+466;"Arts; keel- neus- oorheelkunde";Arts DGA;2021;0.2;3.5;120.8;123.7;;37.5;;92.0
+467;"Arts; keel- neus- oorheelkunde";Arts DGA;2022;0.2;;121.3;123.4;;;;
+468;"Arts; keel- neus- oorheelkunde";Arts met overig of gecombineerd inkomen;2011;0.0;;;;;;;
+469;"Arts; keel- neus- oorheelkunde";Arts met overig of gecombineerd inkomen;2012;0.0;;;;;;;
+470;"Arts; keel- neus- oorheelkunde";Arts met overig of gecombineerd inkomen;2013;0.0;;;;;;;
+471;"Arts; keel- neus- oorheelkunde";Arts met overig of gecombineerd inkomen;2014;0.0;;;;;;;
+472;"Arts; keel- neus- oorheelkunde";Arts met overig of gecombineerd inkomen;2015;0.0;;;;;;;
+473;"Arts; keel- neus- oorheelkunde";Arts met overig of gecombineerd inkomen;2016;0.0;;;;;;;
+474;"Arts; keel- neus- oorheelkunde";Arts met overig of gecombineerd inkomen;2017;0.0;;;;;;;
+475;"Arts; keel- neus- oorheelkunde";Arts met overig of gecombineerd inkomen;2018;0.0;;;;;;;
+476;"Arts; keel- neus- oorheelkunde";Arts met overig of gecombineerd inkomen;2019;0.0;;;;;;;
+477;"Arts; keel- neus- oorheelkunde";Arts met overig of gecombineerd inkomen;2020;0.0;;;;;;;
+478;"Arts; keel- neus- oorheelkunde";Arts met overig of gecombineerd inkomen;2021;0.0;;;;;;;
+479;"Arts; keel- neus- oorheelkunde";Arts met overig of gecombineerd inkomen;2022;0.0;;;;;;;
+480;"Arts; kindergeneeskunde";Totaal;2011;1.3;5.0;116.7;133.4;145.8;0.1;0.4;61.9
+481;"Arts; kindergeneeskunde";Totaal;2012;1.3;6.4;118.1;134.6;147.0;0.3;0.4;61.9
+482;"Arts; kindergeneeskunde";Totaal;2013;1.3;6.6;119.1;139.4;152.7;0.2;0.4;64.0
+483;"Arts; kindergeneeskunde";Totaal;2014;1.3;7.0;121.6;139.6;152.4;0.4;0.4;70.5
+484;"Arts; kindergeneeskunde";Totaal;2015;1.3;0.7;128.8;151.7;165.2;0.0;0.4;68.0
+485;"Arts; kindergeneeskunde";Totaal;2016;1.4;0.6;129.6;155.9;169.0;0.4;0.4;70.0
+486;"Arts; kindergeneeskunde";Totaal;2017;1.4;0.6;132.8;153.7;165.3;0.5;0.3;71.0
+487;"Arts; kindergeneeskunde";Totaal;2018;1.4;0.8;134.2;155.0;;0.8;0.3;73.2
+488;"Arts; kindergeneeskunde";Totaal;2019;1.5;1.2;136.4;158.0;;1.2;0.3;78.4
+489;"Arts; kindergeneeskunde";Totaal;2020;1.5;1.0;140.6;163.3;;1.1;0.4;79.4
+490;"Arts; kindergeneeskunde";Totaal;2021;1.5;1.1;143.2;165.2;;1.3;0.4;79.1
+491;"Arts; kindergeneeskunde";Totaal;2022;1.6;;145.0;167.5;;;;
+492;"Arts; kindergeneeskunde";Arts alleen werknemer (excl. DGA);2011;1.1;;120.6;137.9;150.4;;;61.5
+493;"Arts; kindergeneeskunde";Arts alleen werknemer (excl. DGA);2012;1.2;;122.9;140.2;152.9;;;60.8
+494;"Arts; kindergeneeskunde";Arts alleen werknemer (excl. DGA);2013;1.2;;124.1;145.0;158.7;;;62.7
+495;"Arts; kindergeneeskunde";Arts alleen werknemer (excl. DGA);2014;1.2;;126.6;145.3;158.1;;;69.4
+496;"Arts; kindergeneeskunde";Arts alleen werknemer (excl. DGA);2015;1.2;;129.9;153.5;167.0;;;67.9
+497;"Arts; kindergeneeskunde";Arts alleen werknemer (excl. DGA);2016;1.3;;131.0;158.2;171.3;;;70.1
+498;"Arts; kindergeneeskunde";Arts alleen werknemer (excl. DGA);2017;1.3;;133.5;155.0;166.8;;;70.9
+499;"Arts; kindergeneeskunde";Arts alleen werknemer (excl. DGA);2018;1.3;;135.6;157.0;;;;73.1
+500;"Arts; kindergeneeskunde";Arts alleen werknemer (excl. DGA);2019;1.4;;137.8;160.1;;;;78.1
+501;"Arts; kindergeneeskunde";Arts alleen werknemer (excl. DGA);2020;1.4;;142.7;166.1;;;;79.5
+502;"Arts; kindergeneeskunde";Arts alleen werknemer (excl. DGA);2021;1.4;;145.0;167.8;;;;78.7
+503;"Arts; kindergeneeskunde";Arts alleen werknemer (excl. DGA);2022;1.4;;147.4;170.6;;;;
+504;"Arts; kindergeneeskunde";Arts alleen zelfstandige (excl. DGA);2011;0.0;;;;;;;
+505;"Arts; kindergeneeskunde";Arts alleen zelfstandige (excl. DGA);2012;0.1;;;;;;;
+506;"Arts; kindergeneeskunde";Arts alleen zelfstandige (excl. DGA);2013;0.1;;;;;;;
+507;"Arts; kindergeneeskunde";Arts alleen zelfstandige (excl. DGA);2014;0.0;;;;;;;
+508;"Arts; kindergeneeskunde";Arts alleen zelfstandige (excl. DGA);2015;0.0;;;;;;;
+509;"Arts; kindergeneeskunde";Arts alleen zelfstandige (excl. DGA);2016;0.0;;;;;;;
+510;"Arts; kindergeneeskunde";Arts alleen zelfstandige (excl. DGA);2017;0.0;;;;;;;
+511;"Arts; kindergeneeskunde";Arts alleen zelfstandige (excl. DGA);2018;0.0;;;;;;;
+512;"Arts; kindergeneeskunde";Arts alleen zelfstandige (excl. DGA);2019;0.0;;;;;;;
+513;"Arts; kindergeneeskunde";Arts alleen zelfstandige (excl. DGA);2020;0.0;;;;;;;
+514;"Arts; kindergeneeskunde";Arts alleen zelfstandige (excl. DGA);2021;0.0;;;;;;;
+515;"Arts; kindergeneeskunde";Arts alleen zelfstandige (excl. DGA);2022;0.0;;;;;;;
+516;"Arts; kindergeneeskunde";Arts DGA;2011;0.0;;;;;;;
+517;"Arts; kindergeneeskunde";Arts DGA;2012;0.0;;;;;;;
+518;"Arts; kindergeneeskunde";Arts DGA;2013;0.0;;;;;;;
+519;"Arts; kindergeneeskunde";Arts DGA;2014;0.0;;;;;;;
+520;"Arts; kindergeneeskunde";Arts DGA;2015;0.0;;;;;;;
+521;"Arts; kindergeneeskunde";Arts DGA;2016;0.0;;;;;;;
+522;"Arts; kindergeneeskunde";Arts DGA;2017;0.0;;;;;;;
+523;"Arts; kindergeneeskunde";Arts DGA;2018;0.0;;;;;;;
+524;"Arts; kindergeneeskunde";Arts DGA;2019;0.0;;;;;;;
+525;"Arts; kindergeneeskunde";Arts DGA;2020;0.0;;;;;;;
+526;"Arts; kindergeneeskunde";Arts DGA;2021;0.0;;;;;;;
+527;"Arts; kindergeneeskunde";Arts DGA;2022;0.0;;;;;;;
+528;"Arts; kindergeneeskunde";Arts met overig of gecombineerd inkomen;2011;0.1;;;;;;;
+529;"Arts; kindergeneeskunde";Arts met overig of gecombineerd inkomen;2012;0.1;;;;;;;
+530;"Arts; kindergeneeskunde";Arts met overig of gecombineerd inkomen;2013;0.1;;;;;;;
+531;"Arts; kindergeneeskunde";Arts met overig of gecombineerd inkomen;2014;0.1;;;;;;;
+532;"Arts; kindergeneeskunde";Arts met overig of gecombineerd inkomen;2015;0.1;;;;;;;
+533;"Arts; kindergeneeskunde";Arts met overig of gecombineerd inkomen;2016;0.1;;;;;;;
+534;"Arts; kindergeneeskunde";Arts met overig of gecombineerd inkomen;2017;0.1;;;;;;;
+535;"Arts; kindergeneeskunde";Arts met overig of gecombineerd inkomen;2018;0.1;;;;;;;
+536;"Arts; kindergeneeskunde";Arts met overig of gecombineerd inkomen;2019;0.1;;;;;;;
+537;"Arts; kindergeneeskunde";Arts met overig of gecombineerd inkomen;2020;0.1;;;;;;;
+538;"Arts; kindergeneeskunde";Arts met overig of gecombineerd inkomen;2021;0.1;;;;;;;
+539;"Arts; kindergeneeskunde";Arts met overig of gecombineerd inkomen;2022;0.1;;;;;;;
+540;"Arts; klinische genetica";Totaal;2011;0.1;0.0;94.6;115.6;131.1;0.0;0.0;54.5
+541;"Arts; klinische genetica";Totaal;2012;0.1;0.0;97.5;120.7;135.3;0.0;0.1;57.4
+542;"Arts; klinische genetica";Totaal;2013;0.1;0.0;96.7;122.9;139.0;0.0;-0.1;57.8
+543;"Arts; klinische genetica";Totaal;2014;0.1;0.0;99.6;123.5;139.1;0.0;0.3;60.7
+544;"Arts; klinische genetica";Totaal;2015;0.1;0.0;103.3;127.5;145.3;0.0;0.0;65.1
+545;"Arts; klinische genetica";Totaal;2016;0.1;0.0;105.1;132.8;151.7;0.0;0.0;64.0
+546;"Arts; klinische genetica";Totaal;2017;0.1;0.1;105.7;130.2;148.3;0.0;0.0;66.7
+547;"Arts; klinische genetica";Totaal;2018;0.2;0.1;108.5;134.1;;0.0;0.0;66.4
+548;"Arts; klinische genetica";Totaal;2019;0.2;0.0;113.1;139.2;;0.0;0.0;77.4
+549;"Arts; klinische genetica";Totaal;2020;0.2;0.0;116.8;144.5;;0.0;0.0;80.4
+550;"Arts; klinische genetica";Totaal;2021;0.2;0.1;117.3;149.2;;0.0;0.0;78.3
+551;"Arts; klinische genetica";Totaal;2022;0.2;;119.0;146.4;;;;
+552;"Arts; klinische genetica";Arts alleen werknemer (excl. DGA);2011;0.1;;94.6;115.5;;;;54.7
+553;"Arts; klinische genetica";Arts alleen werknemer (excl. DGA);2012;0.1;;97.4;120.7;135.0;;;57.3
+554;"Arts; klinische genetica";Arts alleen werknemer (excl. DGA);2013;0.1;;96.8;123.0;139.1;;;57.8
+555;"Arts; klinische genetica";Arts alleen werknemer (excl. DGA);2014;0.1;;99.7;123.6;139.1;;;60.6
+556;"Arts; klinische genetica";Arts alleen werknemer (excl. DGA);2015;0.1;;103.2;127.5;145.3;;;65.1
+557;"Arts; klinische genetica";Arts alleen werknemer (excl. DGA);2016;0.1;;104.9;132.7;151.7;;;63.5
+558;"Arts; klinische genetica";Arts alleen werknemer (excl. DGA);2017;0.1;;105.6;130.1;148.3;;;66.7
+559;"Arts; klinische genetica";Arts alleen werknemer (excl. DGA);2018;0.2;;108.7;134.3;;;;66.3
+560;"Arts; klinische genetica";Arts alleen werknemer (excl. DGA);2019;0.2;;113.1;139.3;;;;77.4
+561;"Arts; klinische genetica";Arts alleen werknemer (excl. DGA);2020;0.2;;116.8;144.6;;;;80.5
+562;"Arts; klinische genetica";Arts alleen werknemer (excl. DGA);2021;0.2;;117.8;149.9;;;;78.4
+563;"Arts; klinische genetica";Arts alleen werknemer (excl. DGA);2022;0.2;;119.0;146.4;;;;
+564;"Arts; klinische genetica";Arts alleen zelfstandige (excl. DGA);2011;0.0;;;;;;;
+565;"Arts; klinische genetica";Arts alleen zelfstandige (excl. DGA);2012;0.0;;;;;;;
+566;"Arts; klinische genetica";Arts alleen zelfstandige (excl. DGA);2013;0.0;;;;;;;
+567;"Arts; klinische genetica";Arts alleen zelfstandige (excl. DGA);2014;0.0;;;;;;;
+568;"Arts; klinische genetica";Arts alleen zelfstandige (excl. DGA);2015;0.0;;;;;;;
+569;"Arts; klinische genetica";Arts alleen zelfstandige (excl. DGA);2016;0.0;;;;;;;
+570;"Arts; klinische genetica";Arts alleen zelfstandige (excl. DGA);2017;0.0;;;;;;;
+571;"Arts; klinische genetica";Arts alleen zelfstandige (excl. DGA);2018;0.0;;;;;;;
+572;"Arts; klinische genetica";Arts alleen zelfstandige (excl. DGA);2019;0.0;;;;;;;
+573;"Arts; klinische genetica";Arts alleen zelfstandige (excl. DGA);2020;0.0;;;;;;;
+574;"Arts; klinische genetica";Arts alleen zelfstandige (excl. DGA);2021;0.0;;;;;;;
+575;"Arts; klinische genetica";Arts alleen zelfstandige (excl. DGA);2022;0.0;;;;;;;
+576;"Arts; klinische genetica";Arts DGA;2011;0.0;;;;;;;
+577;"Arts; klinische genetica";Arts DGA;2012;0.0;;;;;;;
+578;"Arts; klinische genetica";Arts DGA;2013;0.0;;;;;;;
+579;"Arts; klinische genetica";Arts DGA;2014;0.0;;;;;;;
+580;"Arts; klinische genetica";Arts DGA;2015;0.0;;;;;;;
+581;"Arts; klinische genetica";Arts DGA;2016;0.0;;;;;;;
+582;"Arts; klinische genetica";Arts DGA;2017;0.0;;;;;;;
+583;"Arts; klinische genetica";Arts DGA;2018;0.0;;;;;;;
+584;"Arts; klinische genetica";Arts DGA;2019;0.0;;;;;;;
+585;"Arts; klinische genetica";Arts DGA;2020;0.0;;;;;;;
+586;"Arts; klinische genetica";Arts DGA;2021;0.0;;;;;;;
+587;"Arts; klinische genetica";Arts DGA;2022;0.0;;;;;;;
+588;"Arts; klinische genetica";Arts met overig of gecombineerd inkomen;2011;0.0;;;;;;;
+589;"Arts; klinische genetica";Arts met overig of gecombineerd inkomen;2012;0.0;;;;;;;
+590;"Arts; klinische genetica";Arts met overig of gecombineerd inkomen;2013;0.0;;;;;;;
+591;"Arts; klinische genetica";Arts met overig of gecombineerd inkomen;2014;0.0;;;;;;;
+592;"Arts; klinische genetica";Arts met overig of gecombineerd inkomen;2015;0.0;;;;;;;
+593;"Arts; klinische genetica";Arts met overig of gecombineerd inkomen;2016;0.0;;;;;;;
+594;"Arts; klinische genetica";Arts met overig of gecombineerd inkomen;2017;0.0;;;;;;;
+595;"Arts; klinische genetica";Arts met overig of gecombineerd inkomen;2018;0.0;;;;;;;
+596;"Arts; klinische genetica";Arts met overig of gecombineerd inkomen;2019;0.0;;;;;;;
+597;"Arts; klinische genetica";Arts met overig of gecombineerd inkomen;2020;0.0;;;;;;;
+598;"Arts; klinische genetica";Arts met overig of gecombineerd inkomen;2021;0.0;;;;;;;
+599;"Arts; klinische genetica";Arts met overig of gecombineerd inkomen;2022;0.0;;;;;;;
+600;"Arts; klinische geriatrie";Totaal;2011;0.2;0.9;114.4;126.6;135.8;0.0;0.5;54.3
+601;"Arts; klinische geriatrie";Totaal;2012;0.2;2.2;116.8;128.3;136.9;0.3;0.5;56.3
+602;"Arts; klinische geriatrie";Totaal;2013;0.2;1.6;117.5;134.3;144.4;0.0;0.4;58.2
+603;"Arts; klinische geriatrie";Totaal;2014;0.2;2.6;116.9;128.9;139.2;0.2;0.1;58.9
+604;"Arts; klinische geriatrie";Totaal;2015;0.2;0.7;119.3;137.4;147.3;0.0;0.2;58.9
+605;"Arts; klinische geriatrie";Totaal;2016;0.2;0.7;121.8;142.6;151.9;0.0;0.3;60.6
+606;"Arts; klinische geriatrie";Totaal;2017;0.3;0.9;123.5;138.6;148.7;0.6;0.2;61.9
+607;"Arts; klinische geriatrie";Totaal;2018;0.3;0.8;124.1;138.6;;0.1;0.1;59.9
+608;"Arts; klinische geriatrie";Totaal;2019;0.3;1.0;124.5;138.7;;1.6;0.1;62.9
+609;"Arts; klinische geriatrie";Totaal;2020;0.3;1.1;128.7;144.5;;0.7;0.2;66.4
+610;"Arts; klinische geriatrie";Totaal;2021;0.4;0.7;127.2;142.3;;0.2;0.4;66.9
+611;"Arts; klinische geriatrie";Totaal;2022;0.4;;127.5;142.5;;;;
+612;"Arts; klinische geriatrie";Arts alleen werknemer (excl. DGA);2011;0.2;;113.9;126.1;135.7;;;54.1
+613;"Arts; klinische geriatrie";Arts alleen werknemer (excl. DGA);2012;0.2;;116.3;127.9;136.9;;;55.4
+614;"Arts; klinische geriatrie";Arts alleen werknemer (excl. DGA);2013;0.2;;119.2;136.5;146.2;;;57.9
+615;"Arts; klinische geriatrie";Arts alleen werknemer (excl. DGA);2014;0.2;;119.3;131.6;140.9;;;58.6
+616;"Arts; klinische geriatrie";Arts alleen werknemer (excl. DGA);2015;0.2;;121.4;140.2;150.0;;;59.1
+617;"Arts; klinische geriatrie";Arts alleen werknemer (excl. DGA);2016;0.2;;122.4;143.6;152.9;;;60.7
+618;"Arts; klinische geriatrie";Arts alleen werknemer (excl. DGA);2017;0.3;;124.8;140.2;150.4;;;61.5
+619;"Arts; klinische geriatrie";Arts alleen werknemer (excl. DGA);2018;0.3;;125.2;140.3;;;;59.8
+620;"Arts; klinische geriatrie";Arts alleen werknemer (excl. DGA);2019;0.3;;126.5;141.1;;;;61.4
+621;"Arts; klinische geriatrie";Arts alleen werknemer (excl. DGA);2020;0.3;;130.0;146.3;;;;65.6
+622;"Arts; klinische geriatrie";Arts alleen werknemer (excl. DGA);2021;0.3;;128.3;143.6;;;;66.7
+623;"Arts; klinische geriatrie";Arts alleen werknemer (excl. DGA);2022;0.3;;128.4;143.8;;;;
+624;"Arts; klinische geriatrie";Arts alleen zelfstandige (excl. DGA);2011;0.0;;;;;;;
+625;"Arts; klinische geriatrie";Arts alleen zelfstandige (excl. DGA);2012;0.0;;;;;;;
+626;"Arts; klinische geriatrie";Arts alleen zelfstandige (excl. DGA);2013;0.0;;;;;;;
+627;"Arts; klinische geriatrie";Arts alleen zelfstandige (excl. DGA);2014;0.0;;;;;;;
+628;"Arts; klinische geriatrie";Arts alleen zelfstandige (excl. DGA);2015;0.0;;;;;;;
+629;"Arts; klinische geriatrie";Arts alleen zelfstandige (excl. DGA);2016;0.0;;;;;;;
+630;"Arts; klinische geriatrie";Arts alleen zelfstandige (excl. DGA);2017;0.0;;;;;;;
+631;"Arts; klinische geriatrie";Arts alleen zelfstandige (excl. DGA);2018;0.0;;;;;;;
+632;"Arts; klinische geriatrie";Arts alleen zelfstandige (excl. DGA);2019;0.0;;;;;;;
+633;"Arts; klinische geriatrie";Arts alleen zelfstandige (excl. DGA);2020;0.0;;;;;;;
+634;"Arts; klinische geriatrie";Arts alleen zelfstandige (excl. DGA);2021;0.0;;;;;;;
+635;"Arts; klinische geriatrie";Arts alleen zelfstandige (excl. DGA);2022;0.0;;;;;;;
+636;"Arts; klinische geriatrie";Arts DGA;2011;0.0;;;;;;;
+637;"Arts; klinische geriatrie";Arts DGA;2012;0.0;;;;;;;
+638;"Arts; klinische geriatrie";Arts DGA;2013;0.0;;;;;;;
+639;"Arts; klinische geriatrie";Arts DGA;2014;0.0;;;;;;;
+640;"Arts; klinische geriatrie";Arts DGA;2015;0.0;;;;;;;
+641;"Arts; klinische geriatrie";Arts DGA;2016;0.0;;;;;;;
+642;"Arts; klinische geriatrie";Arts DGA;2017;0.0;;;;;;;
+643;"Arts; klinische geriatrie";Arts DGA;2018;0.0;;;;;;;
+644;"Arts; klinische geriatrie";Arts DGA;2019;0.0;;;;;;;
+645;"Arts; klinische geriatrie";Arts DGA;2020;0.0;;;;;;;
+646;"Arts; klinische geriatrie";Arts DGA;2021;0.0;;;;;;;
+647;"Arts; klinische geriatrie";Arts DGA;2022;0.0;;;;;;;
+648;"Arts; klinische geriatrie";Arts met overig of gecombineerd inkomen;2011;0.0;;;;;;;
+649;"Arts; klinische geriatrie";Arts met overig of gecombineerd inkomen;2012;0.0;;;;;;;
+650;"Arts; klinische geriatrie";Arts met overig of gecombineerd inkomen;2013;0.0;;;;;;;
+651;"Arts; klinische geriatrie";Arts met overig of gecombineerd inkomen;2014;0.0;;;;;;;
+652;"Arts; klinische geriatrie";Arts met overig of gecombineerd inkomen;2015;0.0;;;;;;;
+653;"Arts; klinische geriatrie";Arts met overig of gecombineerd inkomen;2016;0.0;;;;;;;
+654;"Arts; klinische geriatrie";Arts met overig of gecombineerd inkomen;2017;0.0;;;;;;;
+655;"Arts; klinische geriatrie";Arts met overig of gecombineerd inkomen;2018;0.0;;;;;;;
+656;"Arts; klinische geriatrie";Arts met overig of gecombineerd inkomen;2019;0.0;;;;;;;
+657;"Arts; klinische geriatrie";Arts met overig of gecombineerd inkomen;2020;0.0;;;;;;;
+658;"Arts; klinische geriatrie";Arts met overig of gecombineerd inkomen;2021;0.0;;;;;;;
+659;"Arts; klinische geriatrie";Arts met overig of gecombineerd inkomen;2022;0.0;;;;;;;
+660;"Arts; longziekten en tuberculose";Totaal;2011;0.5;103.3;65.3;74.6;80.0;4.5;0.6;77.1
+661;"Arts; longziekten en tuberculose";Totaal;2012;0.5;91.4;65.6;74.4;78.7;7.1;0.6;75.2
+662;"Arts; longziekten en tuberculose";Totaal;2013;0.5;89.0;67.0;80.3;83.8;0.9;0.6;75.5
+663;"Arts; longziekten en tuberculose";Totaal;2014;0.5;87.2;69.1;78.5;83.7;8.4;0.7;77.8
+664;"Arts; longziekten en tuberculose";Totaal;2015;0.6;34.5;101.1;112.8;120.2;1.2;0.9;68.3
+665;"Arts; longziekten en tuberculose";Totaal;2016;0.6;31.9;101.0;115.9;122.9;4.0;0.7;68.7
+666;"Arts; longziekten en tuberculose";Totaal;2017;0.6;29.4;102.8;115.8;123.9;5.4;0.5;72.4
+667;"Arts; longziekten en tuberculose";Totaal;2018;0.6;22.1;108.3;120.2;;6.8;0.9;70.0
+668;"Arts; longziekten en tuberculose";Totaal;2019;0.6;24.5;110.4;122.3;;24.7;0.9;83.4
+669;"Arts; longziekten en tuberculose";Totaal;2020;0.7;21.6;115.7;129.0;;7.6;0.3;75.6
+670;"Arts; longziekten en tuberculose";Totaal;2021;0.7;25.3;113.7;126.2;;6.9;0.3;78.4
+671;"Arts; longziekten en tuberculose";Totaal;2022;0.7;;112.7;124.6;;;;
+672;"Arts; longziekten en tuberculose";Arts alleen werknemer (excl. DGA);2011;0.2;;124.5;144.0;151.3;;;60.0
+673;"Arts; longziekten en tuberculose";Arts alleen werknemer (excl. DGA);2012;0.2;;126.1;145.1;155.2;;;58.0
+674;"Arts; longziekten en tuberculose";Arts alleen werknemer (excl. DGA);2013;0.2;;126.7;147.3;156.0;;;63.0
+675;"Arts; longziekten en tuberculose";Arts alleen werknemer (excl. DGA);2014;0.2;;123.5;141.8;149.1;;;61.2
+676;"Arts; longziekten en tuberculose";Arts alleen werknemer (excl. DGA);2015;0.2;;128.4;149.8;157.6;;;62.0
+677;"Arts; longziekten en tuberculose";Arts alleen werknemer (excl. DGA);2016;0.2;;127.4;154.2;160.9;;;62.6
+678;"Arts; longziekten en tuberculose";Arts alleen werknemer (excl. DGA);2017;0.3;;128.4;148.9;157.5;;;66.0
+679;"Arts; longziekten en tuberculose";Arts alleen werknemer (excl. DGA);2018;0.3;;129.9;151.2;;;;64.9
+680;"Arts; longziekten en tuberculose";Arts alleen werknemer (excl. DGA);2019;0.3;;130.9;152.5;;;;69.0
+681;"Arts; longziekten en tuberculose";Arts alleen werknemer (excl. DGA);2020;0.3;;136.3;160.1;;;;71.2
+682;"Arts; longziekten en tuberculose";Arts alleen werknemer (excl. DGA);2021;0.3;;134.3;156.6;;;;73.4
+683;"Arts; longziekten en tuberculose";Arts alleen werknemer (excl. DGA);2022;0.3;;137.9;159.8;;;;
+684;"Arts; longziekten en tuberculose";Arts alleen zelfstandige (excl. DGA);2011;0.2;212.1;;;;;;90.2
+685;"Arts; longziekten en tuberculose";Arts alleen zelfstandige (excl. DGA);2012;0.2;187.1;;;;;;84.2
+686;"Arts; longziekten en tuberculose";Arts alleen zelfstandige (excl. DGA);2013;0.2;186.1;;;;;;86.8
+687;"Arts; longziekten en tuberculose";Arts alleen zelfstandige (excl. DGA);2014;0.2;191.9;;;;;;87.9
+688;"Arts; longziekten en tuberculose";Arts alleen zelfstandige (excl. DGA);2015;0.1;;;;;;;86.1
+689;"Arts; longziekten en tuberculose";Arts alleen zelfstandige (excl. DGA);2016;0.1;;;;;;;79.4
+690;"Arts; longziekten en tuberculose";Arts alleen zelfstandige (excl. DGA);2017;0.1;;;;;;;84.1
+691;"Arts; longziekten en tuberculose";Arts alleen zelfstandige (excl. DGA);2018;0.1;;;;;;;
+692;"Arts; longziekten en tuberculose";Arts alleen zelfstandige (excl. DGA);2019;0.1;;;;;;;
+693;"Arts; longziekten en tuberculose";Arts alleen zelfstandige (excl. DGA);2020;0.1;;;;;;;
+694;"Arts; longziekten en tuberculose";Arts alleen zelfstandige (excl. DGA);2021;0.1;;;;;;;
+695;"Arts; longziekten en tuberculose";Arts alleen zelfstandige (excl. DGA);2022;0.1;;;;;;;
+696;"Arts; longziekten en tuberculose";Arts DGA;2011;0.0;;;;;;;
+697;"Arts; longziekten en tuberculose";Arts DGA;2012;0.0;;;;;;;
+698;"Arts; longziekten en tuberculose";Arts DGA;2013;0.0;;;;;;;
+699;"Arts; longziekten en tuberculose";Arts DGA;2014;0.0;;;;;;;
+700;"Arts; longziekten en tuberculose";Arts DGA;2015;0.2;1.1;115.4;118.5;125.1;4.0;;61.6
+701;"Arts; longziekten en tuberculose";Arts DGA;2016;0.2;0.5;114.2;118.2;127.8;12.7;;67.5
+702;"Arts; longziekten en tuberculose";Arts DGA;2017;0.2;0.0;114.5;120.3;128.6;17.8;;72.7
+703;"Arts; longziekten en tuberculose";Arts DGA;2018;0.2;0.1;119.9;121.7;;19.0;;71.9
+704;"Arts; longziekten en tuberculose";Arts DGA;2019;0.2;0.4;121.8;123.2;;75.1;;102.9
+705;"Arts; longziekten en tuberculose";Arts DGA;2020;0.2;0.5;122.4;123.6;;21.8;;75.9
+706;"Arts; longziekten en tuberculose";Arts DGA;2021;0.2;1.8;120.1;121.6;;19.8;;78.2
+707;"Arts; longziekten en tuberculose";Arts DGA;2022;0.2;;121.2;123.0;;;;
+708;"Arts; longziekten en tuberculose";Arts met overig of gecombineerd inkomen;2011;0.0;;;;;;;
+709;"Arts; longziekten en tuberculose";Arts met overig of gecombineerd inkomen;2012;0.0;;;;;;;
+710;"Arts; longziekten en tuberculose";Arts met overig of gecombineerd inkomen;2013;0.0;;;;;;;
+711;"Arts; longziekten en tuberculose";Arts met overig of gecombineerd inkomen;2014;0.0;;;;;;;
+712;"Arts; longziekten en tuberculose";Arts met overig of gecombineerd inkomen;2015;0.0;;;;;;;
+713;"Arts; longziekten en tuberculose";Arts met overig of gecombineerd inkomen;2016;0.0;;;;;;;
+714;"Arts; longziekten en tuberculose";Arts met overig of gecombineerd inkomen;2017;0.0;;;;;;;
+715;"Arts; longziekten en tuberculose";Arts met overig of gecombineerd inkomen;2018;0.0;;;;;;;
+716;"Arts; longziekten en tuberculose";Arts met overig of gecombineerd inkomen;2019;0.0;;;;;;;
+717;"Arts; longziekten en tuberculose";Arts met overig of gecombineerd inkomen;2020;0.0;;;;;;;
+718;"Arts; longziekten en tuberculose";Arts met overig of gecombineerd inkomen;2021;0.0;;;;;;;
+719;"Arts; longziekten en tuberculose";Arts met overig of gecombineerd inkomen;2022;0.0;;;;;;;
+720;"Arts; maag- darm- leverziekten";Totaal;2011;0.3;133.2;60.3;71.2;79.5;4.4;0.8;87.7
+721;"Arts; maag- darm- leverziekten";Totaal;2012;0.3;117.8;59.4;70.7;77.6;6.3;1.1;83.0
+722;"Arts; maag- darm- leverziekten";Totaal;2013;0.4;109.7;59.6;73.9;79.9;2.6;0.5;80.7
+723;"Arts; maag- darm- leverziekten";Totaal;2014;0.4;114.2;60.4;71.3;77.8;15.5;0.6;93.3
+724;"Arts; maag- darm- leverziekten";Totaal;2015;0.4;43.9;102.7;115.2;121.1;0.9;1.0;74.5
+725;"Arts; maag- darm- leverziekten";Totaal;2016;0.5;40.8;103.9;119.2;126.4;5.1;0.9;73.8
+726;"Arts; maag- darm- leverziekten";Totaal;2017;0.5;38.3;103.7;115.4;122.2;7.6;0.5;76.1
+727;"Arts; maag- darm- leverziekten";Totaal;2018;0.5;30.6;109.8;121.9;;11.5;1.3;77.4
+728;"Arts; maag- darm- leverziekten";Totaal;2019;0.5;31.0;111.5;123.1;;39.1;1.2;94.8
+729;"Arts; maag- darm- leverziekten";Totaal;2020;0.6;31.5;112.3;125.2;;12.9;1.2;83.1
+730;"Arts; maag- darm- leverziekten";Totaal;2021;0.6;34.1;109.9;124.9;;11.4;1.1;90.1
+731;"Arts; maag- darm- leverziekten";Totaal;2022;0.6;;109.8;121.8;;;;
+732;"Arts; maag- darm- leverziekten";Arts alleen werknemer (excl. DGA);2011;0.1;;;;;;;
+733;"Arts; maag- darm- leverziekten";Arts alleen werknemer (excl. DGA);2012;0.1;;;;;;;
+734;"Arts; maag- darm- leverziekten";Arts alleen werknemer (excl. DGA);2013;0.1;;131.9;161.2;172.4;;;71.2
+735;"Arts; maag- darm- leverziekten";Arts alleen werknemer (excl. DGA);2014;0.1;;133.8;157.8;164.9;;;78.1
+736;"Arts; maag- darm- leverziekten";Arts alleen werknemer (excl. DGA);2015;0.1;;142.3;169.1;176.3;;;75.9
+737;"Arts; maag- darm- leverziekten";Arts alleen werknemer (excl. DGA);2016;0.2;;140.1;173.5;183.2;;;74.5
+738;"Arts; maag- darm- leverziekten";Arts alleen werknemer (excl. DGA);2017;0.2;;138.1;164.0;171.6;;;73.4
+739;"Arts; maag- darm- leverziekten";Arts alleen werknemer (excl. DGA);2018;0.2;;141.3;168.5;;;;73.5
+740;"Arts; maag- darm- leverziekten";Arts alleen werknemer (excl. DGA);2019;0.2;;140.3;166.3;;;;77.0
+741;"Arts; maag- darm- leverziekten";Arts alleen werknemer (excl. DGA);2020;0.2;;146.0;175.0;;;;80.1
+742;"Arts; maag- darm- leverziekten";Arts alleen werknemer (excl. DGA);2021;0.2;;138.5;165.6;;;;93.3
+743;"Arts; maag- darm- leverziekten";Arts alleen werknemer (excl. DGA);2022;0.2;;139.0;165.3;;;;
+744;"Arts; maag- darm- leverziekten";Arts alleen zelfstandige (excl. DGA);2011;0.2;237.4;;;;;;97.7
+745;"Arts; maag- darm- leverziekten";Arts alleen zelfstandige (excl. DGA);2012;0.2;208.6;;;;;;89.3
+746;"Arts; maag- darm- leverziekten";Arts alleen zelfstandige (excl. DGA);2013;0.2;201.6;;;;;;86.5
+747;"Arts; maag- darm- leverziekten";Arts alleen zelfstandige (excl. DGA);2014;0.2;209.6;;;;;;94.2
+748;"Arts; maag- darm- leverziekten";Arts alleen zelfstandige (excl. DGA);2015;0.1;;;;;;;
+749;"Arts; maag- darm- leverziekten";Arts alleen zelfstandige (excl. DGA);2016;0.1;;;;;;;
+750;"Arts; maag- darm- leverziekten";Arts alleen zelfstandige (excl. DGA);2017;0.1;;;;;;;
+751;"Arts; maag- darm- leverziekten";Arts alleen zelfstandige (excl. DGA);2018;0.1;;;;;;;
+752;"Arts; maag- darm- leverziekten";Arts alleen zelfstandige (excl. DGA);2019;0.1;;;;;;;
+753;"Arts; maag- darm- leverziekten";Arts alleen zelfstandige (excl. DGA);2020;0.1;;;;;;;
+754;"Arts; maag- darm- leverziekten";Arts alleen zelfstandige (excl. DGA);2021;0.1;178.9;;;;;;96.5
+755;"Arts; maag- darm- leverziekten";Arts alleen zelfstandige (excl. DGA);2022;0.1;;;;;;;
+756;"Arts; maag- darm- leverziekten";Arts DGA;2011;0.0;;;;;;;
+757;"Arts; maag- darm- leverziekten";Arts DGA;2012;0.0;;;;;;;
+758;"Arts; maag- darm- leverziekten";Arts DGA;2013;0.0;;;;;;;
+759;"Arts; maag- darm- leverziekten";Arts DGA;2014;0.0;;;;;;;
+760;"Arts; maag- darm- leverziekten";Arts DGA;2015;0.2;1.0;113.6;117.6;121.4;2.4;;57.8
+761;"Arts; maag- darm- leverziekten";Arts DGA;2016;0.2;0.2;115.3;119.4;125.3;12.6;;60.2
+762;"Arts; maag- darm- leverziekten";Arts DGA;2017;0.2;0.0;117.5;120.5;126.0;18.5;;69.9
+763;"Arts; maag- darm- leverziekten";Arts DGA;2018;0.2;0.0;122.8;125.8;;27.3;;73.8
+764;"Arts; maag- darm- leverziekten";Arts DGA;2019;0.2;0.0;126.8;128.8;;92.5;;107.6
+765;"Arts; maag- darm- leverziekten";Arts DGA;2020;0.2;0.0;125.3;128.5;;30.2;;79.1
+766;"Arts; maag- darm- leverziekten";Arts DGA;2021;0.2;0.1;126.5;130.0;;27.3;;81.0
+767;"Arts; maag- darm- leverziekten";Arts DGA;2022;0.3;;125.1;126.8;;;;
+768;"Arts; maag- darm- leverziekten";Arts met overig of gecombineerd inkomen;2011;0.0;;;;;;;
+769;"Arts; maag- darm- leverziekten";Arts met overig of gecombineerd inkomen;2012;0.0;;;;;;;
+770;"Arts; maag- darm- leverziekten";Arts met overig of gecombineerd inkomen;2013;0.0;;;;;;;
+771;"Arts; maag- darm- leverziekten";Arts met overig of gecombineerd inkomen;2014;0.0;;;;;;;
+772;"Arts; maag- darm- leverziekten";Arts met overig of gecombineerd inkomen;2015;0.0;;;;;;;
+773;"Arts; maag- darm- leverziekten";Arts met overig of gecombineerd inkomen;2016;0.0;;;;;;;
+774;"Arts; maag- darm- leverziekten";Arts met overig of gecombineerd inkomen;2017;0.0;;;;;;;
+775;"Arts; maag- darm- leverziekten";Arts met overig of gecombineerd inkomen;2018;0.0;;;;;;;
+776;"Arts; maag- darm- leverziekten";Arts met overig of gecombineerd inkomen;2019;0.0;;;;;;;
+777;"Arts; maag- darm- leverziekten";Arts met overig of gecombineerd inkomen;2020;0.0;;;;;;;
+778;"Arts; maag- darm- leverziekten";Arts met overig of gecombineerd inkomen;2021;0.0;;;;;;;
+779;"Arts; maag- darm- leverziekten";Arts met overig of gecombineerd inkomen;2022;0.0;;;;;;;
+780;"Arts; medische microbiologie";Totaal;2011;0.2;27.7;124.8;150.2;155.5;15.3;0.2;82.9
+781;"Arts; medische microbiologie";Totaal;2012;0.2;23.8;119.1;136.6;144.4;11.8;0.7;77.7
+782;"Arts; medische microbiologie";Totaal;2013;0.2;22.4;121.1;143.7;152.5;9.7;0.3;74.3
+783;"Arts; medische microbiologie";Totaal;2014;0.2;26.8;122.1;141.0;147.2;30.2;0.3;86.5
+784;"Arts; medische microbiologie";Totaal;2015;0.2;10.5;132.1;155.6;162.0;6.5;-1.2;74.8
+785;"Arts; medische microbiologie";Totaal;2016;0.3;9.1;129.8;155.0;164.3;4.2;0.1;74.1
+786;"Arts; medische microbiologie";Totaal;2017;0.3;9.3;132.1;157.9;164.6;13.7;0.1;87.9
+787;"Arts; medische microbiologie";Totaal;2018;0.3;9.8;133.0;155.0;;5.2;0.2;77.9
+788;"Arts; medische microbiologie";Totaal;2019;0.3;7.8;136.2;159.5;;34.7;0.2;100.0
+789;"Arts; medische microbiologie";Totaal;2020;0.3;9.8;136.8;158.8;;27.5;0.2;92.2
+790;"Arts; medische microbiologie";Totaal;2021;0.3;13.3;137.7;158.6;;13.3;0.3;88.5
+791;"Arts; medische microbiologie";Totaal;2022;0.3;;135.0;156.9;;;;
+792;"Arts; medische microbiologie";Arts alleen werknemer (excl. DGA);2011;0.2;;137.1;159.1;165.2;;;66.6
+793;"Arts; medische microbiologie";Arts alleen werknemer (excl. DGA);2012;0.2;;134.3;155.3;163.5;;;65.1
+794;"Arts; medische microbiologie";Arts alleen werknemer (excl. DGA);2013;0.2;;133.4;160.0;169.3;;;65.7
+795;"Arts; medische microbiologie";Arts alleen werknemer (excl. DGA);2014;0.2;;138.1;162.0;168.0;;;69.6
+796;"Arts; medische microbiologie";Arts alleen werknemer (excl. DGA);2015;0.2;;142.1;172.5;178.8;;;72.2
+797;"Arts; medische microbiologie";Arts alleen werknemer (excl. DGA);2016;0.2;;139.2;171.5;177.3;;;72.5
+798;"Arts; medische microbiologie";Arts alleen werknemer (excl. DGA);2017;0.2;;143.2;175.4;181.6;;;84.0
+799;"Arts; medische microbiologie";Arts alleen werknemer (excl. DGA);2018;0.2;;143.5;172.8;;;;76.3
+800;"Arts; medische microbiologie";Arts alleen werknemer (excl. DGA);2019;0.2;;147.7;180.5;;;;90.2
+801;"Arts; medische microbiologie";Arts alleen werknemer (excl. DGA);2020;0.2;;150.4;181.1;;;;91.4
+802;"Arts; medische microbiologie";Arts alleen werknemer (excl. DGA);2021;0.2;;154.1;183.9;;;;84.5
+803;"Arts; medische microbiologie";Arts alleen werknemer (excl. DGA);2022;0.2;;150.3;180.9;;;;
+804;"Arts; medische microbiologie";Arts alleen zelfstandige (excl. DGA);2011;0.0;;;;;;;
+805;"Arts; medische microbiologie";Arts alleen zelfstandige (excl. DGA);2012;0.0;;;;;;;
+806;"Arts; medische microbiologie";Arts alleen zelfstandige (excl. DGA);2013;0.0;;;;;;;
+807;"Arts; medische microbiologie";Arts alleen zelfstandige (excl. DGA);2014;0.0;;;;;;;
+808;"Arts; medische microbiologie";Arts alleen zelfstandige (excl. DGA);2015;0.0;;;;;;;
+809;"Arts; medische microbiologie";Arts alleen zelfstandige (excl. DGA);2016;0.0;;;;;;;
+810;"Arts; medische microbiologie";Arts alleen zelfstandige (excl. DGA);2017;0.0;;;;;;;
+811;"Arts; medische microbiologie";Arts alleen zelfstandige (excl. DGA);2018;0.0;;;;;;;
+812;"Arts; medische microbiologie";Arts alleen zelfstandige (excl. DGA);2019;0.0;;;;;;;
+813;"Arts; medische microbiologie";Arts alleen zelfstandige (excl. DGA);2020;0.0;;;;;;;
+814;"Arts; medische microbiologie";Arts alleen zelfstandige (excl. DGA);2021;0.0;;;;;;;
+815;"Arts; medische microbiologie";Arts alleen zelfstandige (excl. DGA);2022;0.0;;;;;;;
+816;"Arts; medische microbiologie";Arts DGA;2011;0.0;;;;;;;
+817;"Arts; medische microbiologie";Arts DGA;2012;0.0;;;;;;;
+818;"Arts; medische microbiologie";Arts DGA;2013;0.0;;;;;;;
+819;"Arts; medische microbiologie";Arts DGA;2014;0.0;;;;;;;
+820;"Arts; medische microbiologie";Arts DGA;2015;0.1;;;;;;;
+821;"Arts; medische microbiologie";Arts DGA;2016;0.1;;;;;;;
+822;"Arts; medische microbiologie";Arts DGA;2017;0.1;;;;;;;
+823;"Arts; medische microbiologie";Arts DGA;2018;0.1;;;;;;;
+824;"Arts; medische microbiologie";Arts DGA;2019;0.1;;;;;;;
+825;"Arts; medische microbiologie";Arts DGA;2020;0.1;;;;;;;
+826;"Arts; medische microbiologie";Arts DGA;2021;0.1;;;;;;;
+827;"Arts; medische microbiologie";Arts DGA;2022;0.1;;;;;;;
+828;"Arts; medische microbiologie";Arts met overig of gecombineerd inkomen;2011;0.0;;;;;;;
+829;"Arts; medische microbiologie";Arts met overig of gecombineerd inkomen;2012;0.0;;;;;;;
+830;"Arts; medische microbiologie";Arts met overig of gecombineerd inkomen;2013;0.0;;;;;;;
+831;"Arts; medische microbiologie";Arts met overig of gecombineerd inkomen;2014;0.0;;;;;;;
+832;"Arts; medische microbiologie";Arts met overig of gecombineerd inkomen;2015;0.0;;;;;;;
+833;"Arts; medische microbiologie";Arts met overig of gecombineerd inkomen;2016;0.0;;;;;;;
+834;"Arts; medische microbiologie";Arts met overig of gecombineerd inkomen;2017;0.0;;;;;;;
+835;"Arts; medische microbiologie";Arts met overig of gecombineerd inkomen;2018;0.0;;;;;;;
+836;"Arts; medische microbiologie";Arts met overig of gecombineerd inkomen;2019;0.0;;;;;;;
+837;"Arts; medische microbiologie";Arts met overig of gecombineerd inkomen;2020;0.0;;;;;;;
+838;"Arts; medische microbiologie";Arts met overig of gecombineerd inkomen;2021;0.0;;;;;;;
+839;"Arts; medische microbiologie";Arts met overig of gecombineerd inkomen;2022;0.0;;;;;;;
+840;"Arts; neurochirurgie";Totaal;2011;0.1;73.1;120.8;143.0;150.8;2.5;4.1;81.4
+841;"Arts; neurochirurgie";Totaal;2012;0.1;73.7;122.1;146.1;154.2;7.1;1.6;83.5
+842;"Arts; neurochirurgie";Totaal;2013;0.1;62.1;131.9;157.1;165.4;2.7;0.6;79.8
+843;"Arts; neurochirurgie";Totaal;2014;0.1;67.8;129.9;159.9;169.2;13.7;0.9;88.0
+844;"Arts; neurochirurgie";Totaal;2015;0.1;32.8;153.8;182.8;187.0;0.7;0.8;82.4
+845;"Arts; neurochirurgie";Totaal;2016;0.1;28.6;152.8;188.3;195.1;1.8;0.0;84.6
+846;"Arts; neurochirurgie";Totaal;2017;0.1;26.8;155.6;184.0;189.6;8.1;0.0;83.1
+847;"Arts; neurochirurgie";Totaal;2018;0.1;26.5;157.4;186.4;;6.2;0.4;86.5
+848;"Arts; neurochirurgie";Totaal;2019;0.1;20.7;155.6;184.0;;42.3;0.1;105.4
+849;"Arts; neurochirurgie";Totaal;2020;0.1;22.3;159.5;196.9;;15.0;0.2;99.4
+850;"Arts; neurochirurgie";Totaal;2021;0.2;21.9;163.3;198.4;;16.7;0.4;104.2
+851;"Arts; neurochirurgie";Totaal;2022;0.2;;161.6;195.9;;;;
+852;"Arts; neurochirurgie";Arts alleen werknemer (excl. DGA);2011;0.1;;;;;;;
+853;"Arts; neurochirurgie";Arts alleen werknemer (excl. DGA);2012;0.1;;;;;;;
+854;"Arts; neurochirurgie";Arts alleen werknemer (excl. DGA);2013;0.1;;;;;;;
+855;"Arts; neurochirurgie";Arts alleen werknemer (excl. DGA);2014;0.1;;;;;;;
+856;"Arts; neurochirurgie";Arts alleen werknemer (excl. DGA);2015;0.1;;;;;;;
+857;"Arts; neurochirurgie";Arts alleen werknemer (excl. DGA);2016;0.1;;;;;;;
+858;"Arts; neurochirurgie";Arts alleen werknemer (excl. DGA);2017;0.1;;;;;;;
+859;"Arts; neurochirurgie";Arts alleen werknemer (excl. DGA);2018;0.1;;;;;;;
+860;"Arts; neurochirurgie";Arts alleen werknemer (excl. DGA);2019;0.1;;;;;;;
+861;"Arts; neurochirurgie";Arts alleen werknemer (excl. DGA);2020;0.1;;;;;;;
+862;"Arts; neurochirurgie";Arts alleen werknemer (excl. DGA);2021;0.1;;185.5;230.8;;;;
+863;"Arts; neurochirurgie";Arts alleen werknemer (excl. DGA);2022;0.1;;182.0;226.2;;;;
+864;"Arts; neurochirurgie";Arts alleen zelfstandige (excl. DGA);2011;0.0;;;;;;;
+865;"Arts; neurochirurgie";Arts alleen zelfstandige (excl. DGA);2012;0.0;;;;;;;
+866;"Arts; neurochirurgie";Arts alleen zelfstandige (excl. DGA);2013;0.0;;;;;;;
+867;"Arts; neurochirurgie";Arts alleen zelfstandige (excl. DGA);2014;0.0;;;;;;;
+868;"Arts; neurochirurgie";Arts alleen zelfstandige (excl. DGA);2015;0.0;;;;;;;
+869;"Arts; neurochirurgie";Arts alleen zelfstandige (excl. DGA);2016;0.0;;;;;;;
+870;"Arts; neurochirurgie";Arts alleen zelfstandige (excl. DGA);2017;0.0;;;;;;;
+871;"Arts; neurochirurgie";Arts alleen zelfstandige (excl. DGA);2018;0.0;;;;;;;
+872;"Arts; neurochirurgie";Arts alleen zelfstandige (excl. DGA);2019;0.0;;;;;;;
+873;"Arts; neurochirurgie";Arts alleen zelfstandige (excl. DGA);2020;0.0;;;;;;;
+874;"Arts; neurochirurgie";Arts alleen zelfstandige (excl. DGA);2021;0.0;;;;;;;
+875;"Arts; neurochirurgie";Arts alleen zelfstandige (excl. DGA);2022;0.0;;;;;;;
+876;"Arts; neurochirurgie";Arts DGA;2011;0.0;;;;;;;
+877;"Arts; neurochirurgie";Arts DGA;2012;0.0;;;;;;;
+878;"Arts; neurochirurgie";Arts DGA;2013;0.0;;;;;;;
+879;"Arts; neurochirurgie";Arts DGA;2014;0.0;;;;;;;
+880;"Arts; neurochirurgie";Arts DGA;2015;0.0;;;;;;;
+881;"Arts; neurochirurgie";Arts DGA;2016;0.0;;;;;;;
+882;"Arts; neurochirurgie";Arts DGA;2017;0.0;;;;;;;
+883;"Arts; neurochirurgie";Arts DGA;2018;0.0;;;;;;;
+884;"Arts; neurochirurgie";Arts DGA;2019;0.0;;;;;;;
+885;"Arts; neurochirurgie";Arts DGA;2020;0.0;;;;;;;
+886;"Arts; neurochirurgie";Arts DGA;2021;0.0;;;;;;;
+887;"Arts; neurochirurgie";Arts DGA;2022;0.0;;;;;;;
+888;"Arts; neurochirurgie";Arts met overig of gecombineerd inkomen;2011;0.0;;;;;;;
+889;"Arts; neurochirurgie";Arts met overig of gecombineerd inkomen;2012;0.0;;;;;;;
+890;"Arts; neurochirurgie";Arts met overig of gecombineerd inkomen;2013;0.0;;;;;;;
+891;"Arts; neurochirurgie";Arts met overig of gecombineerd inkomen;2014;0.0;;;;;;;
+892;"Arts; neurochirurgie";Arts met overig of gecombineerd inkomen;2015;0.0;;;;;;;
+893;"Arts; neurochirurgie";Arts met overig of gecombineerd inkomen;2016;0.0;;;;;;;
+894;"Arts; neurochirurgie";Arts met overig of gecombineerd inkomen;2017;0.0;;;;;;;
+895;"Arts; neurochirurgie";Arts met overig of gecombineerd inkomen;2018;0.0;;;;;;;
+896;"Arts; neurochirurgie";Arts met overig of gecombineerd inkomen;2019;0.0;;;;;;;
+897;"Arts; neurochirurgie";Arts met overig of gecombineerd inkomen;2020;0.0;;;;;;;
+898;"Arts; neurochirurgie";Arts met overig of gecombineerd inkomen;2021;0.0;;;;;;;
+899;"Arts; neurochirurgie";Arts met overig of gecombineerd inkomen;2022;0.0;;;;;;;
+900;"Arts; neurologie";Totaal;2011;0.7;75.7;67.8;80.0;86.4;1.0;1.1;70.4
+901;"Arts; neurologie";Totaal;2012;0.8;90.6;67.8;77.7;84.4;1.8;0.7;76.7
+902;"Arts; neurologie";Totaal;2013;0.8;93.0;67.6;82.0;88.9;0.8;0.5;77.2
+903;"Arts; neurologie";Totaal;2014;0.8;90.0;68.0;78.8;85.7;3.2;0.6;77.9
+904;"Arts; neurologie";Totaal;2015;0.8;34.0;102.3;117.5;125.8;1.0;0.7;69.8
+905;"Arts; neurologie";Totaal;2016;0.9;32.6;102.7;121.1;129.7;2.5;0.5;70.4
+906;"Arts; neurologie";Totaal;2017;0.9;30.0;105.1;119.6;129.4;4.3;0.4;71.6
+907;"Arts; neurologie";Totaal;2018;0.9;25.4;108.6;124.2;;5.5;0.6;72.3
+908;"Arts; neurologie";Totaal;2019;0.9;23.8;111.1;126.5;;15.3;0.9;81.2
+909;"Arts; neurologie";Totaal;2020;1.0;24.3;111.9;125.9;;8.6;0.4;78.3
+910;"Arts; neurologie";Totaal;2021;1.0;24.0;112.1;126.0;;5.9;0.6;79.7
+911;"Arts; neurologie";Totaal;2022;1.0;;113.7;128.1;;;;
+912;"Arts; neurologie";Arts alleen werknemer (excl. DGA);2011;0.3;;119.8;139.2;148.1;;;61.2
+913;"Arts; neurologie";Arts alleen werknemer (excl. DGA);2012;0.3;;124.9;143.9;151.6;;;63.1
+914;"Arts; neurologie";Arts alleen werknemer (excl. DGA);2013;0.3;;123.0;146.7;155.8;;;64.4
+915;"Arts; neurologie";Arts alleen werknemer (excl. DGA);2014;0.4;;119.5;139.1;148.4;;;64.5
+916;"Arts; neurologie";Arts alleen werknemer (excl. DGA);2015;0.4;;125.3;150.3;159.7;;;67.8
+917;"Arts; neurologie";Arts alleen werknemer (excl. DGA);2016;0.4;;126.6;157.0;167.0;;;69.0
+918;"Arts; neurologie";Arts alleen werknemer (excl. DGA);2017;0.4;;128.0;152.2;161.8;;;67.7
+919;"Arts; neurologie";Arts alleen werknemer (excl. DGA);2018;0.5;;128.7;155.7;;;;69.2
+920;"Arts; neurologie";Arts alleen werknemer (excl. DGA);2019;0.5;;130.2;157.0;;;;72.1
+921;"Arts; neurologie";Arts alleen werknemer (excl. DGA);2020;0.5;;133.9;158.8;;;;74.0
+922;"Arts; neurologie";Arts alleen werknemer (excl. DGA);2021;0.5;;135.0;159.4;;;;77.5
+923;"Arts; neurologie";Arts alleen werknemer (excl. DGA);2022;0.5;;137.0;163.1;;;;
+924;"Arts; neurologie";Arts alleen zelfstandige (excl. DGA);2011;0.3;165.0;;;;;;78.0
+925;"Arts; neurologie";Arts alleen zelfstandige (excl. DGA);2012;0.3;192.9;;;;;;88.8
+926;"Arts; neurologie";Arts alleen zelfstandige (excl. DGA);2013;0.4;197.3;;;;;;89.0
+927;"Arts; neurologie";Arts alleen zelfstandige (excl. DGA);2014;0.4;199.4;;;;;;89.7
+928;"Arts; neurologie";Arts alleen zelfstandige (excl. DGA);2015;0.1;173.0;;;;;;76.7
+929;"Arts; neurologie";Arts alleen zelfstandige (excl. DGA);2016;0.2;176.4;;;;;;80.2
+930;"Arts; neurologie";Arts alleen zelfstandige (excl. DGA);2017;0.2;169.7;;;;;;80.8
+931;"Arts; neurologie";Arts alleen zelfstandige (excl. DGA);2018;0.1;169.7;;;;;;82.2
+932;"Arts; neurologie";Arts alleen zelfstandige (excl. DGA);2019;0.1;163.0;;;;;;89.7
+933;"Arts; neurologie";Arts alleen zelfstandige (excl. DGA);2020;0.1;166.0;;;;;;90.0
+934;"Arts; neurologie";Arts alleen zelfstandige (excl. DGA);2021;0.1;157.4;;;;;;87.4
+935;"Arts; neurologie";Arts alleen zelfstandige (excl. DGA);2022;0.1;;;;;;;
+936;"Arts; neurologie";Arts DGA;2011;0.0;;;;;;;
+937;"Arts; neurologie";Arts DGA;2012;0.0;;;;;;;
+938;"Arts; neurologie";Arts DGA;2013;0.0;;;;;;;
+939;"Arts; neurologie";Arts DGA;2014;0.0;;;;;;;
+940;"Arts; neurologie";Arts DGA;2015;0.2;4.5;117.8;123.5;130.3;3.8;;66.0
+941;"Arts; neurologie";Arts DGA;2016;0.2;0.7;120.0;125.2;132.5;8.8;;64.5
+942;"Arts; neurologie";Arts DGA;2017;0.3;0.8;120.2;123.6;131.8;15.6;;70.8
+943;"Arts; neurologie";Arts DGA;2018;0.3;0.5;123.8;127.1;;17.9;;72.2
+944;"Arts; neurologie";Arts DGA;2019;0.3;1.1;123.3;126.2;;48.5;;90.5
+945;"Arts; neurologie";Arts DGA;2020;0.3;1.5;122.3;124.9;;26.4;;80.0
+946;"Arts; neurologie";Arts DGA;2021;0.3;1.7;122.8;125.8;;18.0;;79.1
+947;"Arts; neurologie";Arts DGA;2022;0.3;;124.6;127.0;;;;
+948;"Arts; neurologie";Arts met overig of gecombineerd inkomen;2011;0.1;;114.4;131.5;;;7.9;
+949;"Arts; neurologie";Arts met overig of gecombineerd inkomen;2012;0.1;;;;;;;
+950;"Arts; neurologie";Arts met overig of gecombineerd inkomen;2013;0.1;;;;;;;
+951;"Arts; neurologie";Arts met overig of gecombineerd inkomen;2014;0.1;;;;;;;
+952;"Arts; neurologie";Arts met overig of gecombineerd inkomen;2015;0.1;;;;;;;
+953;"Arts; neurologie";Arts met overig of gecombineerd inkomen;2016;0.1;;;;;;;
+954;"Arts; neurologie";Arts met overig of gecombineerd inkomen;2017;0.1;;;;;;;
+955;"Arts; neurologie";Arts met overig of gecombineerd inkomen;2018;0.0;;;;;;;
+956;"Arts; neurologie";Arts met overig of gecombineerd inkomen;2019;0.1;;;;;;;
+957;"Arts; neurologie";Arts met overig of gecombineerd inkomen;2020;0.0;;;;;;;
+958;"Arts; neurologie";Arts met overig of gecombineerd inkomen;2021;0.1;;;;;;;
+959;"Arts; neurologie";Arts met overig of gecombineerd inkomen;2022;0.1;;;;;;;
+960;"Arts; nucleaire geneeskunde";Totaal;2011;0.1;68.7;87.1;100.6;107.6;3.0;0.1;74.8
+961;"Arts; nucleaire geneeskunde";Totaal;2012;0.1;55.4;87.6;101.1;106.3;0.0;0.2;67.4
+962;"Arts; nucleaire geneeskunde";Totaal;2013;0.2;66.2;87.8;103.3;110.1;1.4;0.1;71.1
+963;"Arts; nucleaire geneeskunde";Totaal;2014;0.1;63.1;88.8;101.5;109.1;2.4;0.1;72.1
+964;"Arts; nucleaire geneeskunde";Totaal;2015;0.2;20.6;111.7;131.9;140.1;0.8;-0.1;64.5
+965;"Arts; nucleaire geneeskunde";Totaal;2016;0.2;17.1;114.0;133.3;142.7;2.6;-0.1;64.4
+966;"Arts; nucleaire geneeskunde";Totaal;2017;0.2;16.8;113.4;129.0;138.8;2.2;0.0;63.9
+967;"Arts; nucleaire geneeskunde";Totaal;2018;0.2;8.5;120.2;136.6;;3.7;-0.1;64.2
+968;"Arts; nucleaire geneeskunde";Totaal;2019;0.2;10.2;121.9;137.0;;16.6;-0.1;76.3
+969;"Arts; nucleaire geneeskunde";Totaal;2020;0.2;11.7;128.1;143.3;;7.8;-0.1;73.8
+970;"Arts; nucleaire geneeskunde";Totaal;2021;0.2;11.9;129.3;143.5;;9.7;0.0;78.5
+971;"Arts; nucleaire geneeskunde";Totaal;2022;0.2;;132.5;147.4;;;;
+972;"Arts; nucleaire geneeskunde";Arts alleen werknemer (excl. DGA);2011;0.1;;;;;;;
+973;"Arts; nucleaire geneeskunde";Arts alleen werknemer (excl. DGA);2012;0.1;;;;;;;
+974;"Arts; nucleaire geneeskunde";Arts alleen werknemer (excl. DGA);2013;0.1;;122.2;144.3;151.7;;;
+975;"Arts; nucleaire geneeskunde";Arts alleen werknemer (excl. DGA);2014;0.1;;;;;;;
+976;"Arts; nucleaire geneeskunde";Arts alleen werknemer (excl. DGA);2015;0.1;;;;;;;
+977;"Arts; nucleaire geneeskunde";Arts alleen werknemer (excl. DGA);2016;0.1;;128.2;153.7;163.0;;;63.3
+978;"Arts; nucleaire geneeskunde";Arts alleen werknemer (excl. DGA);2017;0.1;;126.5;147.4;156.1;;;62.8
+979;"Arts; nucleaire geneeskunde";Arts alleen werknemer (excl. DGA);2018;0.1;;127.2;148.3;;;;62.2
+980;"Arts; nucleaire geneeskunde";Arts alleen werknemer (excl. DGA);2019;0.1;;136.0;157.2;;;;68.0
+981;"Arts; nucleaire geneeskunde";Arts alleen werknemer (excl. DGA);2020;0.1;;145.1;169.0;;;;71.6
+982;"Arts; nucleaire geneeskunde";Arts alleen werknemer (excl. DGA);2021;0.1;;147.6;170.4;;;;72.0
+983;"Arts; nucleaire geneeskunde";Arts alleen werknemer (excl. DGA);2022;0.1;;;;;;;
+984;"Arts; nucleaire geneeskunde";Arts alleen zelfstandige (excl. DGA);2011;0.0;;;;;;;
+985;"Arts; nucleaire geneeskunde";Arts alleen zelfstandige (excl. DGA);2012;0.0;;;;;;;
+986;"Arts; nucleaire geneeskunde";Arts alleen zelfstandige (excl. DGA);2013;0.0;;;;;;;
+987;"Arts; nucleaire geneeskunde";Arts alleen zelfstandige (excl. DGA);2014;0.0;;;;;;;
+988;"Arts; nucleaire geneeskunde";Arts alleen zelfstandige (excl. DGA);2015;0.0;;;;;;;
+989;"Arts; nucleaire geneeskunde";Arts alleen zelfstandige (excl. DGA);2016;0.0;;;;;;;
+990;"Arts; nucleaire geneeskunde";Arts alleen zelfstandige (excl. DGA);2017;0.0;;;;;;;
+991;"Arts; nucleaire geneeskunde";Arts alleen zelfstandige (excl. DGA);2018;0.0;;;;;;;
+992;"Arts; nucleaire geneeskunde";Arts alleen zelfstandige (excl. DGA);2019;0.0;;;;;;;
+993;"Arts; nucleaire geneeskunde";Arts alleen zelfstandige (excl. DGA);2020;0.0;;;;;;;
+994;"Arts; nucleaire geneeskunde";Arts alleen zelfstandige (excl. DGA);2021;0.0;;;;;;;
+995;"Arts; nucleaire geneeskunde";Arts alleen zelfstandige (excl. DGA);2022;0.0;;;;;;;
+996;"Arts; nucleaire geneeskunde";Arts DGA;2011;0.0;;;;;;;
+997;"Arts; nucleaire geneeskunde";Arts DGA;2012;0.0;;;;;;;
+998;"Arts; nucleaire geneeskunde";Arts DGA;2013;0.0;;;;;;;
+999;"Arts; nucleaire geneeskunde";Arts DGA;2014;0.0;;;;;;;
+1000;"Arts; nucleaire geneeskunde";Arts DGA;2015;0.0;;;;;;;
+1001;"Arts; nucleaire geneeskunde";Arts DGA;2016;0.0;;;;;;;
+1002;"Arts; nucleaire geneeskunde";Arts DGA;2017;0.0;;;;;;;
+1003;"Arts; nucleaire geneeskunde";Arts DGA;2018;0.0;;;;;;;
+1004;"Arts; nucleaire geneeskunde";Arts DGA;2019;0.1;;;;;;;
+1005;"Arts; nucleaire geneeskunde";Arts DGA;2020;0.1;;;;;;;
+1006;"Arts; nucleaire geneeskunde";Arts DGA;2021;0.1;;;;;;;
+1007;"Arts; nucleaire geneeskunde";Arts DGA;2022;0.1;;;;;;;
+1008;"Arts; nucleaire geneeskunde";Arts met overig of gecombineerd inkomen;2011;0.0;;;;;;;
+1009;"Arts; nucleaire geneeskunde";Arts met overig of gecombineerd inkomen;2012;0.0;;;;;;;
+1010;"Arts; nucleaire geneeskunde";Arts met overig of gecombineerd inkomen;2013;0.0;;;;;;;
+1011;"Arts; nucleaire geneeskunde";Arts met overig of gecombineerd inkomen;2014;0.0;;;;;;;
+1012;"Arts; nucleaire geneeskunde";Arts met overig of gecombineerd inkomen;2015;0.0;;;;;;;
+1013;"Arts; nucleaire geneeskunde";Arts met overig of gecombineerd inkomen;2016;0.0;;;;;;;
+1014;"Arts; nucleaire geneeskunde";Arts met overig of gecombineerd inkomen;2017;0.0;;;;;;;
+1015;"Arts; nucleaire geneeskunde";Arts met overig of gecombineerd inkomen;2018;0.0;;;;;;;
+1016;"Arts; nucleaire geneeskunde";Arts met overig of gecombineerd inkomen;2019;0.0;;;;;;;
+1017;"Arts; nucleaire geneeskunde";Arts met overig of gecombineerd inkomen;2020;0.0;;;;;;;
+1018;"Arts; nucleaire geneeskunde";Arts met overig of gecombineerd inkomen;2021;0.0;;;;;;;
+1019;"Arts; nucleaire geneeskunde";Arts met overig of gecombineerd inkomen;2022;0.0;;;;;;;
+1020;"Arts; obstetrie en gynaecologie";Totaal;2011;0.8;82.4;60.6;70.2;75.9;5.1;0.7;73.0
+1021;"Arts; obstetrie en gynaecologie";Totaal;2012;0.9;101.4;59.8;68.9;75.3;3.9;0.9;79.0
+1022;"Arts; obstetrie en gynaecologie";Totaal;2013;0.9;99.0;61.2;73.5;81.3;2.2;0.4;78.2
+1023;"Arts; obstetrie en gynaecologie";Totaal;2014;0.9;101.7;61.6;72.4;80.1;9.0;0.8;87.0
+1024;"Arts; obstetrie en gynaecologie";Totaal;2015;0.9;39.2;99.7;112.0;121.5;2.0;0.3;71.3
+1025;"Arts; obstetrie en gynaecologie";Totaal;2016;0.9;36.9;102.1;116.7;126.3;4.1;0.2;73.9
+1026;"Arts; obstetrie en gynaecologie";Totaal;2017;1.0;36.4;103.7;117.7;127.1;4.8;0.2;74.6
+1027;"Arts; obstetrie en gynaecologie";Totaal;2018;1.0;31.8;106.7;119.7;;7.9;0.6;76.6
+1028;"Arts; obstetrie en gynaecologie";Totaal;2019;1.0;28.5;108.5;121.2;;27.2;0.4;89.7
+1029;"Arts; obstetrie en gynaecologie";Totaal;2020;1.0;27.0;111.0;124.9;;9.2;0.5;83.1
+1030;"Arts; obstetrie en gynaecologie";Totaal;2021;1.1;27.0;110.9;123.8;;8.7;0.8;82.3
+1031;"Arts; obstetrie en gynaecologie";Totaal;2022;1.1;;111.9;125.4;;;;
+1032;"Arts; obstetrie en gynaecologie";Arts alleen werknemer (excl. DGA);2011;0.3;;126.2;147.4;159.6;;;64.4
+1033;"Arts; obstetrie en gynaecologie";Arts alleen werknemer (excl. DGA);2012;0.3;;125.5;146.2;157.9;;;66.0
+1034;"Arts; obstetrie en gynaecologie";Arts alleen werknemer (excl. DGA);2013;0.3;;128.7;156.1;165.8;;;67.1
+1035;"Arts; obstetrie en gynaecologie";Arts alleen werknemer (excl. DGA);2014;0.3;;125.2;149.3;158.6;;;73.5
+1036;"Arts; obstetrie en gynaecologie";Arts alleen werknemer (excl. DGA);2015;0.4;;131.8;154.5;165.4;;;66.8
+1037;"Arts; obstetrie en gynaecologie";Arts alleen werknemer (excl. DGA);2016;0.4;;135.0;163.2;173.5;;;70.1
+1038;"Arts; obstetrie en gynaecologie";Arts alleen werknemer (excl. DGA);2017;0.4;;138.9;165.1;173.1;;;71.1
+1039;"Arts; obstetrie en gynaecologie";Arts alleen werknemer (excl. DGA);2018;0.4;;135.7;160.8;;;;71.5
+1040;"Arts; obstetrie en gynaecologie";Arts alleen werknemer (excl. DGA);2019;0.4;;135.1;159.3;;;;81.3
+1041;"Arts; obstetrie en gynaecologie";Arts alleen werknemer (excl. DGA);2020;0.5;;138.1;165.5;;;;79.1
+1042;"Arts; obstetrie en gynaecologie";Arts alleen werknemer (excl. DGA);2021;0.5;;137.3;161.7;;;;76.0
+1043;"Arts; obstetrie en gynaecologie";Arts alleen werknemer (excl. DGA);2022;0.5;;139.9;165.3;;;;
+1044;"Arts; obstetrie en gynaecologie";Arts alleen zelfstandige (excl. DGA);2011;0.4;155.5;;;;;;74.2
+1045;"Arts; obstetrie en gynaecologie";Arts alleen zelfstandige (excl. DGA);2012;0.4;189.8;;;;;;85.1
+1046;"Arts; obstetrie en gynaecologie";Arts alleen zelfstandige (excl. DGA);2013;0.4;191.1;;;;;;86.0
+1047;"Arts; obstetrie en gynaecologie";Arts alleen zelfstandige (excl. DGA);2014;0.4;196.4;;;;;;91.1
+1048;"Arts; obstetrie en gynaecologie";Arts alleen zelfstandige (excl. DGA);2015;0.2;181.5;;;;;;84.4
+1049;"Arts; obstetrie en gynaecologie";Arts alleen zelfstandige (excl. DGA);2016;0.2;184.9;;;;;;88.7
+1050;"Arts; obstetrie en gynaecologie";Arts alleen zelfstandige (excl. DGA);2017;0.2;181.6;;;;;;85.5
+1051;"Arts; obstetrie en gynaecologie";Arts alleen zelfstandige (excl. DGA);2018;0.2;191.3;;;;;;89.7
+1052;"Arts; obstetrie en gynaecologie";Arts alleen zelfstandige (excl. DGA);2019;0.2;176.1;;;;;;89.0
+1053;"Arts; obstetrie en gynaecologie";Arts alleen zelfstandige (excl. DGA);2020;0.2;167.9;;;;;;92.1
+1054;"Arts; obstetrie en gynaecologie";Arts alleen zelfstandige (excl. DGA);2021;0.2;172.7;;;;;;92.7
+1055;"Arts; obstetrie en gynaecologie";Arts alleen zelfstandige (excl. DGA);2022;0.2;;;;;;;
+1056;"Arts; obstetrie en gynaecologie";Arts DGA;2011;0.1;;;;;;;
+1057;"Arts; obstetrie en gynaecologie";Arts DGA;2012;0.1;;;;;;;
+1058;"Arts; obstetrie en gynaecologie";Arts DGA;2013;0.1;;;;;;;
+1059;"Arts; obstetrie en gynaecologie";Arts DGA;2014;0.1;;;;;;;
+1060;"Arts; obstetrie en gynaecologie";Arts DGA;2015;0.3;3.4;108.8;113.7;123.8;6.1;;65.9
+1061;"Arts; obstetrie en gynaecologie";Arts DGA;2016;0.3;1.6;111.7;114.6;124.6;11.9;;67.8
+1062;"Arts; obstetrie en gynaecologie";Arts DGA;2017;0.3;3.1;111.2;116.0;127.0;13.3;;71.1
+1063;"Arts; obstetrie en gynaecologie";Arts DGA;2018;0.3;0.4;115.8;118.3;;21.4;;75.4
+1064;"Arts; obstetrie en gynaecologie";Arts DGA;2019;0.4;1.9;117.3;119.7;;73.5;;100.4
+1065;"Arts; obstetrie en gynaecologie";Arts DGA;2020;0.4;1.0;119.8;121.1;;23.6;;81.6
+1066;"Arts; obstetrie en gynaecologie";Arts DGA;2021;0.4;0.2;119.3;121.0;;24.4;;83.8
+1067;"Arts; obstetrie en gynaecologie";Arts DGA;2022;0.4;;120.0;121.8;;;;
+1068;"Arts; obstetrie en gynaecologie";Arts met overig of gecombineerd inkomen;2011;0.1;;;;;;;
+1069;"Arts; obstetrie en gynaecologie";Arts met overig of gecombineerd inkomen;2012;0.1;;;;;;;
+1070;"Arts; obstetrie en gynaecologie";Arts met overig of gecombineerd inkomen;2013;0.1;;;;;;;
+1071;"Arts; obstetrie en gynaecologie";Arts met overig of gecombineerd inkomen;2014;0.1;;;;;;;
+1072;"Arts; obstetrie en gynaecologie";Arts met overig of gecombineerd inkomen;2015;0.1;;;;;;;
+1073;"Arts; obstetrie en gynaecologie";Arts met overig of gecombineerd inkomen;2016;0.0;;;;;;;
+1074;"Arts; obstetrie en gynaecologie";Arts met overig of gecombineerd inkomen;2017;0.0;;;;;;;
+1075;"Arts; obstetrie en gynaecologie";Arts met overig of gecombineerd inkomen;2018;0.0;;;;;;;
+1076;"Arts; obstetrie en gynaecologie";Arts met overig of gecombineerd inkomen;2019;0.1;;;;;;;
+1077;"Arts; obstetrie en gynaecologie";Arts met overig of gecombineerd inkomen;2020;0.1;;;;;;;
+1078;"Arts; obstetrie en gynaecologie";Arts met overig of gecombineerd inkomen;2021;0.1;;;;;;;
+1079;"Arts; obstetrie en gynaecologie";Arts met overig of gecombineerd inkomen;2022;0.0;;;;;;;
+1080;"Arts; oogheelkunde";Totaal;2011;0.5;69.1;67.0;76.0;84.7;8.0;0.6;74.5
+1081;"Arts; oogheelkunde";Totaal;2012;0.6;81.1;64.5;72.8;82.4;5.8;0.6;80.0
+1082;"Arts; oogheelkunde";Totaal;2013;0.6;83.8;66.1;81.5;95.6;1.9;0.8;80.4
+1083;"Arts; oogheelkunde";Totaal;2014;0.6;82.4;65.8;77.1;87.1;18.4;1.1;93.2
+1084;"Arts; oogheelkunde";Totaal;2015;0.6;27.4;100.5;113.6;127.0;3.5;0.9;76.3
+1085;"Arts; oogheelkunde";Totaal;2016;0.6;24.4;102.4;116.9;128.2;4.5;0.7;74.2
+1086;"Arts; oogheelkunde";Totaal;2017;0.6;24.3;104.3;121.6;136.0;8.7;0.5;88.0
+1087;"Arts; oogheelkunde";Totaal;2018;0.6;20.4;104.2;117.2;;12.3;1.4;79.1
+1088;"Arts; oogheelkunde";Totaal;2019;0.7;21.2;106.1;118.8;;40.7;0.9;97.3
+1089;"Arts; oogheelkunde";Totaal;2020;0.7;20.7;105.8;119.8;;18.1;0.5;85.4
+1090;"Arts; oogheelkunde";Totaal;2021;0.7;22.1;106.7;121.2;;18.6;0.7;89.5
+1091;"Arts; oogheelkunde";Totaal;2022;0.7;;107.2;119.9;;;;
+1092;"Arts; oogheelkunde";Arts alleen werknemer (excl. DGA);2011;0.2;;120.4;141.6;161.8;;;68.9
+1093;"Arts; oogheelkunde";Arts alleen werknemer (excl. DGA);2012;0.2;;117.4;135.9;156.6;;;70.1
+1094;"Arts; oogheelkunde";Arts alleen werknemer (excl. DGA);2013;0.2;;125.3;153.2;176.3;;;72.0
+1095;"Arts; oogheelkunde";Arts alleen werknemer (excl. DGA);2014;0.2;;123.4;149.4;165.5;;;77.1
+1096;"Arts; oogheelkunde";Arts alleen werknemer (excl. DGA);2015;0.2;;130.9;157.6;177.9;;;73.8
+1097;"Arts; oogheelkunde";Arts alleen werknemer (excl. DGA);2016;0.2;;130.0;159.4;179.0;;;74.4
+1098;"Arts; oogheelkunde";Arts alleen werknemer (excl. DGA);2017;0.2;;128.5;160.3;177.9;;;83.1
+1099;"Arts; oogheelkunde";Arts alleen werknemer (excl. DGA);2018;0.2;;128.2;153.8;;;;74.8
+1100;"Arts; oogheelkunde";Arts alleen werknemer (excl. DGA);2019;0.2;;128.1;153.0;;;;78.7
+1101;"Arts; oogheelkunde";Arts alleen werknemer (excl. DGA);2020;0.2;;129.4;156.6;;;;79.9
+1102;"Arts; oogheelkunde";Arts alleen werknemer (excl. DGA);2021;0.2;;131.8;162.7;;;;81.5
+1103;"Arts; oogheelkunde";Arts alleen werknemer (excl. DGA);2022;0.2;;133.9;164.2;;;;
+1104;"Arts; oogheelkunde";Arts alleen zelfstandige (excl. DGA);2011;0.2;149.9;;;;;;76.9
+1105;"Arts; oogheelkunde";Arts alleen zelfstandige (excl. DGA);2012;0.3;171.8;;;;;;89.0
+1106;"Arts; oogheelkunde";Arts alleen zelfstandige (excl. DGA);2013;0.3;175.2;;;;;;87.5
+1107;"Arts; oogheelkunde";Arts alleen zelfstandige (excl. DGA);2014;0.2;174.1;;;;;;94.1
+1108;"Arts; oogheelkunde";Arts alleen zelfstandige (excl. DGA);2015;0.1;;;;;;;84.5
+1109;"Arts; oogheelkunde";Arts alleen zelfstandige (excl. DGA);2016;0.1;;;;;;;85.0
+1110;"Arts; oogheelkunde";Arts alleen zelfstandige (excl. DGA);2017;0.1;;;;;;;
+1111;"Arts; oogheelkunde";Arts alleen zelfstandige (excl. DGA);2018;0.1;;;;;;;
+1112;"Arts; oogheelkunde";Arts alleen zelfstandige (excl. DGA);2019;0.1;;;;;;;
+1113;"Arts; oogheelkunde";Arts alleen zelfstandige (excl. DGA);2020;0.1;;;;;;;
+1114;"Arts; oogheelkunde";Arts alleen zelfstandige (excl. DGA);2021;0.1;;;;;;;
+1115;"Arts; oogheelkunde";Arts alleen zelfstandige (excl. DGA);2022;0.1;;;;;;;
+1116;"Arts; oogheelkunde";Arts DGA;2011;0.1;-1.1;118.7;125.8;;38.0;;75.2
+1117;"Arts; oogheelkunde";Arts DGA;2012;0.1;-1.1;116.7;124.6;;24.3;;75.0
+1118;"Arts; oogheelkunde";Arts DGA;2013;0.1;;;;;;;
+1119;"Arts; oogheelkunde";Arts DGA;2014;0.1;;;;;;;
+1120;"Arts; oogheelkunde";Arts DGA;2015;0.2;2.2;112.5;117.7;127.1;8.7;;71.7
+1121;"Arts; oogheelkunde";Arts DGA;2016;0.2;0.9;116.0;121.2;127.9;10.3;;68.3
+1122;"Arts; oogheelkunde";Arts DGA;2017;0.3;1.9;116.4;124.8;137.6;20.0;;91.1
+1123;"Arts; oogheelkunde";Arts DGA;2018;0.3;1.1;118.2;122.7;;25.7;;76.2
+1124;"Arts; oogheelkunde";Arts DGA;2019;0.3;1.8;117.4;122.3;;89.7;;112.1
+1125;"Arts; oogheelkunde";Arts DGA;2020;0.3;0.9;115.7;121.4;;39.9;;88.2
+1126;"Arts; oogheelkunde";Arts DGA;2021;0.3;0.4;117.1;121.5;;40.7;;93.2
+1127;"Arts; oogheelkunde";Arts DGA;2022;0.3;;117.5;120.0;;;;
+1128;"Arts; oogheelkunde";Arts met overig of gecombineerd inkomen;2011;0.0;;;;;;;
+1129;"Arts; oogheelkunde";Arts met overig of gecombineerd inkomen;2012;0.0;;;;;;;
+1130;"Arts; oogheelkunde";Arts met overig of gecombineerd inkomen;2013;0.1;;;;;;;
+1131;"Arts; oogheelkunde";Arts met overig of gecombineerd inkomen;2014;0.1;;;;;;;
+1132;"Arts; oogheelkunde";Arts met overig of gecombineerd inkomen;2015;0.0;;;;;;;
+1133;"Arts; oogheelkunde";Arts met overig of gecombineerd inkomen;2016;0.0;;;;;;;
+1134;"Arts; oogheelkunde";Arts met overig of gecombineerd inkomen;2017;0.0;;;;;;;
+1135;"Arts; oogheelkunde";Arts met overig of gecombineerd inkomen;2018;0.0;;;;;;;
+1136;"Arts; oogheelkunde";Arts met overig of gecombineerd inkomen;2019;0.0;;;;;;;
+1137;"Arts; oogheelkunde";Arts met overig of gecombineerd inkomen;2020;0.0;;;;;;;
+1138;"Arts; oogheelkunde";Arts met overig of gecombineerd inkomen;2021;0.0;;;;;;;
+1139;"Arts; oogheelkunde";Arts met overig of gecombineerd inkomen;2022;0.0;;;;;;;
+1140;"Arts; orthopedie";Totaal;2011;0.6;101.2;56.5;64.7;67.2;3.3;1.8;70.8
+1141;"Arts; orthopedie";Totaal;2012;0.6;117.0;54.3;62.2;68.2;3.2;1.8;75.7
+1142;"Arts; orthopedie";Totaal;2013;0.6;115.9;53.6;62.9;65.3;1.6;1.3;74.0
+1143;"Arts; orthopedie";Totaal;2014;0.6;124.3;53.9;61.2;65.6;9.8;1.1;81.7
+1144;"Arts; orthopedie";Totaal;2015;0.7;42.3;106.1;118.6;125.2;2.2;1.0;70.4
+1145;"Arts; orthopedie";Totaal;2016;0.7;37.8;107.0;122.9;129.1;5.5;0.8;69.7
+1146;"Arts; orthopedie";Totaal;2017;0.7;36.8;109.9;123.4;128.8;9.3;0.5;73.5
+1147;"Arts; orthopedie";Totaal;2018;0.7;30.5;116.6;128.7;;10.5;0.6;72.6
+1148;"Arts; orthopedie";Totaal;2019;0.7;30.3;116.8;128.3;;25.8;0.5;82.6
+1149;"Arts; orthopedie";Totaal;2020;0.7;30.5;117.1;129.1;;15.0;0.5;81.6
+1150;"Arts; orthopedie";Totaal;2021;0.8;30.9;117.4;131.0;;16.4;0.3;82.3
+1151;"Arts; orthopedie";Totaal;2022;0.8;;118.6;132.1;;;;
+1152;"Arts; orthopedie";Arts alleen werknemer (excl. DGA);2011;0.1;;126.9;149.2;154.1;;;61.5
+1153;"Arts; orthopedie";Arts alleen werknemer (excl. DGA);2012;0.1;;128.8;149.6;153.0;;;60.5
+1154;"Arts; orthopedie";Arts alleen werknemer (excl. DGA);2013;0.1;;124.4;147.5;150.0;;;60.8
+1155;"Arts; orthopedie";Arts alleen werknemer (excl. DGA);2014;0.2;;118.8;140.2;149.4;;;63.7
+1156;"Arts; orthopedie";Arts alleen werknemer (excl. DGA);2015;0.2;;134.3;160.1;168.6;;;69.1
+1157;"Arts; orthopedie";Arts alleen werknemer (excl. DGA);2016;0.2;;133.9;167.1;176.6;;;68.3
+1158;"Arts; orthopedie";Arts alleen werknemer (excl. DGA);2017;0.2;;139.2;168.5;177.5;;;68.4
+1159;"Arts; orthopedie";Arts alleen werknemer (excl. DGA);2018;0.2;;146.3;173.5;;;;71.6
+1160;"Arts; orthopedie";Arts alleen werknemer (excl. DGA);2019;0.2;;144.3;167.8;;;;74.6
+1161;"Arts; orthopedie";Arts alleen werknemer (excl. DGA);2020;0.2;;151.3;177.1;;;;84.0
+1162;"Arts; orthopedie";Arts alleen werknemer (excl. DGA);2021;0.3;;146.0;175.0;;;;75.9
+1163;"Arts; orthopedie";Arts alleen werknemer (excl. DGA);2022;0.3;;150.0;179.4;;;;
+1164;"Arts; orthopedie";Arts alleen zelfstandige (excl. DGA);2011;0.3;176.7;;;;;;74.0
+1165;"Arts; orthopedie";Arts alleen zelfstandige (excl. DGA);2012;0.3;199.0;;;;;;83.3
+1166;"Arts; orthopedie";Arts alleen zelfstandige (excl. DGA);2013;0.3;196.3;;;;;;81.2
+1167;"Arts; orthopedie";Arts alleen zelfstandige (excl. DGA);2014;0.4;214.9;;;;;;85.9
+1168;"Arts; orthopedie";Arts alleen zelfstandige (excl. DGA);2015;0.1;187.0;;;;;;79.8
+1169;"Arts; orthopedie";Arts alleen zelfstandige (excl. DGA);2016;0.1;194.3;;;;;;82.8
+1170;"Arts; orthopedie";Arts alleen zelfstandige (excl. DGA);2017;0.1;191.7;;;;;;82.2
+1171;"Arts; orthopedie";Arts alleen zelfstandige (excl. DGA);2018;0.1;;;;;;;81.0
+1172;"Arts; orthopedie";Arts alleen zelfstandige (excl. DGA);2019;0.1;;;;;;;87.3
+1173;"Arts; orthopedie";Arts alleen zelfstandige (excl. DGA);2020;0.1;;;;;;;86.0
+1174;"Arts; orthopedie";Arts alleen zelfstandige (excl. DGA);2021;0.1;;;;;;;89.2
+1175;"Arts; orthopedie";Arts alleen zelfstandige (excl. DGA);2022;0.1;;;;;;;
+1176;"Arts; orthopedie";Arts DGA;2011;0.1;;;;;;;
+1177;"Arts; orthopedie";Arts DGA;2012;0.1;;;;;;;
+1178;"Arts; orthopedie";Arts DGA;2013;0.1;;;;;;;
+1179;"Arts; orthopedie";Arts DGA;2014;0.1;;;;;;;
+1180;"Arts; orthopedie";Arts DGA;2015;0.3;1.8;118.3;124.4;131.0;3.9;;60.2
+1181;"Arts; orthopedie";Arts DGA;2016;0.3;1.2;120.8;125.7;131.8;11.5;;62.7
+1182;"Arts; orthopedie";Arts DGA;2017;0.3;1.2;122.6;127.0;131.7;21.1;;71.6
+1183;"Arts; orthopedie";Arts DGA;2018;0.3;0.8;126.4;129.3;;21.0;;68.6
+1184;"Arts; orthopedie";Arts DGA;2019;0.3;1.2;125.3;128.5;;55.9;;87.0
+1185;"Arts; orthopedie";Arts DGA;2020;0.3;1.3;124.9;129.1;;32.0;;78.2
+1186;"Arts; orthopedie";Arts DGA;2021;0.3;0.6;128.4;131.5;;37.1;;84.0
+1187;"Arts; orthopedie";Arts DGA;2022;0.3;;129.7;132.2;;;;
+1188;"Arts; orthopedie";Arts met overig of gecombineerd inkomen;2011;0.1;;;;;;;
+1189;"Arts; orthopedie";Arts met overig of gecombineerd inkomen;2012;0.1;;;;;;;
+1190;"Arts; orthopedie";Arts met overig of gecombineerd inkomen;2013;0.1;;;;;;;
+1191;"Arts; orthopedie";Arts met overig of gecombineerd inkomen;2014;0.1;;;;;;;
+1192;"Arts; orthopedie";Arts met overig of gecombineerd inkomen;2015;0.1;;;;;;;
+1193;"Arts; orthopedie";Arts met overig of gecombineerd inkomen;2016;0.1;;;;;;;
+1194;"Arts; orthopedie";Arts met overig of gecombineerd inkomen;2017;0.1;;;;;;;
+1195;"Arts; orthopedie";Arts met overig of gecombineerd inkomen;2018;0.1;;;;;;;
+1196;"Arts; orthopedie";Arts met overig of gecombineerd inkomen;2019;0.1;;;;;;;
+1197;"Arts; orthopedie";Arts met overig of gecombineerd inkomen;2020;0.1;;;;;;;
+1198;"Arts; orthopedie";Arts met overig of gecombineerd inkomen;2021;0.0;;;;;;;
+1199;"Arts; orthopedie";Arts met overig of gecombineerd inkomen;2022;0.1;;;;;;;
+1200;"Arts; pathologie";Totaal;2011;0.3;33.1;113.9;134.1;143.4;3.4;1.6;73.5
+1201;"Arts; pathologie";Totaal;2012;0.3;31.9;115.9;134.8;143.0;2.5;1.3;72.5
+1202;"Arts; pathologie";Totaal;2013;0.3;33.9;114.5;140.4;147.8;1.4;0.8;70.9
+1203;"Arts; pathologie";Totaal;2014;0.4;35.8;113.3;133.4;140.7;4.6;0.4;75.7
+1204;"Arts; pathologie";Totaal;2015;0.4;9.5;128.2;154.9;163.5;1.9;0.1;69.8
+1205;"Arts; pathologie";Totaal;2016;0.4;9.3;128.1;158.5;166.7;0.8;0.2;71.2
+1206;"Arts; pathologie";Totaal;2017;0.4;8.0;129.2;153.3;162.1;3.2;0.3;73.0
+1207;"Arts; pathologie";Totaal;2018;0.4;4.5;134.5;155.9;;3.3;0.2;70.9
+1208;"Arts; pathologie";Totaal;2019;0.4;3.4;135.2;154.4;;8.6;1.1;78.5
+1209;"Arts; pathologie";Totaal;2020;0.4;6.6;134.3;155.1;;4.3;0.5;77.0
+1210;"Arts; pathologie";Totaal;2021;0.4;1.3;141.0;164.1;;4.4;0.2;78.8
+1211;"Arts; pathologie";Totaal;2022;0.4;;143.3;166.5;;;;
+1212;"Arts; pathologie";Arts alleen werknemer (excl. DGA);2011;0.2;;131.6;155.2;164.6;;;66.3
+1213;"Arts; pathologie";Arts alleen werknemer (excl. DGA);2012;0.2;;135.3;157.4;164.9;;;65.4
+1214;"Arts; pathologie";Arts alleen werknemer (excl. DGA);2013;0.3;;135.2;164.2;171.1;;;64.1
+1215;"Arts; pathologie";Arts alleen werknemer (excl. DGA);2014;0.3;;134.7;160.1;166.9;;;65.0
+1216;"Arts; pathologie";Arts alleen werknemer (excl. DGA);2015;0.3;;136.7;168.3;176.3;;;67.2
+1217;"Arts; pathologie";Arts alleen werknemer (excl. DGA);2016;0.3;;136.1;172.7;180.8;;;69.7
+1218;"Arts; pathologie";Arts alleen werknemer (excl. DGA);2017;0.3;;136.0;164.9;173.6;;;68.9
+1219;"Arts; pathologie";Arts alleen werknemer (excl. DGA);2018;0.3;;140.7;165.5;;;;69.3
+1220;"Arts; pathologie";Arts alleen werknemer (excl. DGA);2019;0.3;;139.5;162.0;;;;74.2
+1221;"Arts; pathologie";Arts alleen werknemer (excl. DGA);2020;0.3;;140.6;165.3;;;;73.9
+1222;"Arts; pathologie";Arts alleen werknemer (excl. DGA);2021;0.3;;146.9;174.4;;;;76.9
+1223;"Arts; pathologie";Arts alleen werknemer (excl. DGA);2022;0.3;;149.2;176.4;;;;
+1224;"Arts; pathologie";Arts alleen zelfstandige (excl. DGA);2011;0.0;;;;;;;
+1225;"Arts; pathologie";Arts alleen zelfstandige (excl. DGA);2012;0.0;;;;;;;
+1226;"Arts; pathologie";Arts alleen zelfstandige (excl. DGA);2013;0.0;;;;;;;
+1227;"Arts; pathologie";Arts alleen zelfstandige (excl. DGA);2014;0.1;;;;;;;
+1228;"Arts; pathologie";Arts alleen zelfstandige (excl. DGA);2015;0.0;;;;;;;
+1229;"Arts; pathologie";Arts alleen zelfstandige (excl. DGA);2016;0.0;;;;;;;
+1230;"Arts; pathologie";Arts alleen zelfstandige (excl. DGA);2017;0.0;;;;;;;
+1231;"Arts; pathologie";Arts alleen zelfstandige (excl. DGA);2018;0.0;;;;;;;
+1232;"Arts; pathologie";Arts alleen zelfstandige (excl. DGA);2019;0.0;;;;;;;
+1233;"Arts; pathologie";Arts alleen zelfstandige (excl. DGA);2020;0.0;;;;;;;
+1234;"Arts; pathologie";Arts alleen zelfstandige (excl. DGA);2021;0.0;;;;;;;
+1235;"Arts; pathologie";Arts alleen zelfstandige (excl. DGA);2022;0.0;;;;;;;
+1236;"Arts; pathologie";Arts DGA;2011;0.0;;;;;;;
+1237;"Arts; pathologie";Arts DGA;2012;0.0;;;;;;;
+1238;"Arts; pathologie";Arts DGA;2013;0.0;;;;;;;
+1239;"Arts; pathologie";Arts DGA;2014;0.0;;;;;;;
+1240;"Arts; pathologie";Arts DGA;2015;0.0;;;;;;;
+1241;"Arts; pathologie";Arts DGA;2016;0.0;;;;;;;
+1242;"Arts; pathologie";Arts DGA;2017;0.0;;;;;;;
+1243;"Arts; pathologie";Arts DGA;2018;0.1;;;;;;;
+1244;"Arts; pathologie";Arts DGA;2019;0.1;;;;;;;
+1245;"Arts; pathologie";Arts DGA;2020;0.1;;;;;;;
+1246;"Arts; pathologie";Arts DGA;2021;0.1;;;;;;;
+1247;"Arts; pathologie";Arts DGA;2022;0.1;;;;;;;
+1248;"Arts; pathologie";Arts met overig of gecombineerd inkomen;2011;0.0;;;;;;;
+1249;"Arts; pathologie";Arts met overig of gecombineerd inkomen;2012;0.0;;;;;;;
+1250;"Arts; pathologie";Arts met overig of gecombineerd inkomen;2013;0.0;;;;;;;
+1251;"Arts; pathologie";Arts met overig of gecombineerd inkomen;2014;0.0;;;;;;;
+1252;"Arts; pathologie";Arts met overig of gecombineerd inkomen;2015;0.0;;;;;;;
+1253;"Arts; pathologie";Arts met overig of gecombineerd inkomen;2016;0.0;;;;;;;
+1254;"Arts; pathologie";Arts met overig of gecombineerd inkomen;2017;0.0;;;;;;;
+1255;"Arts; pathologie";Arts met overig of gecombineerd inkomen;2018;0.0;;;;;;;
+1256;"Arts; pathologie";Arts met overig of gecombineerd inkomen;2019;0.0;;;;;;;
+1257;"Arts; pathologie";Arts met overig of gecombineerd inkomen;2020;0.0;;;;;;;
+1258;"Arts; pathologie";Arts met overig of gecombineerd inkomen;2021;0.0;;;;;;;
+1259;"Arts; pathologie";Arts met overig of gecombineerd inkomen;2022;0.0;;;;;;;
+1260;Totaal psychiaters;Totaal;2011;2.7;22.7;88.3;106.1;120.7;0.9;1.9;62.0
+1261;Totaal psychiaters;Totaal;2012;2.8;23.4;87.1;105.5;120.2;0.4;1.7;62.1
+1262;Totaal psychiaters;Totaal;2013;2.9;21.6;87.1;107.5;121.6;0.5;1.5;62.8
+1263;Totaal psychiaters;Totaal;2014;2.9;22.3;86.8;105.1;119.8;1.9;1.5;64.6
+1264;Totaal psychiaters;Totaal;2015;3.0;21.4;87.7;106.6;121.4;0.3;1.3;63.6
+1265;Totaal psychiaters;Totaal;2016;3.0;21.5;87.4;108.6;123.5;0.9;1.3;65.4
+1266;Totaal psychiaters;Totaal;2017;3.1;24.3;87.4;111.1;128.9;1.6;1.4;68.8
+1267;Totaal psychiaters;Totaal;2018;3.2;26.6;87.6;111.1;;0.7;1.2;67.4
+1268;Totaal psychiaters;Totaal;2019;3.3;28.0;89.5;113.1;;2.4;1.2;71.7
+1269;Totaal psychiaters;Totaal;2020;3.3;30.7;91.0;115.9;;1.4;1.4;74.7
+1270;Totaal psychiaters;Totaal;2021;3.4;31.9;93.6;119.4;;1.5;1.4;77.4
+1271;Totaal psychiaters;Totaal;2022;3.4;;95.6;121.4;;;;
+1272;Totaal psychiaters;Arts alleen werknemer (excl. DGA);2011;1.7;;101.2;121.8;134.9;;;54.9
+1273;Totaal psychiaters;Arts alleen werknemer (excl. DGA);2012;1.7;;101.8;123.4;136.7;;;55.1
+1274;Totaal psychiaters;Arts alleen werknemer (excl. DGA);2013;1.8;;102.4;126.9;139.5;;;56.6
+1275;Totaal psychiaters;Arts alleen werknemer (excl. DGA);2014;1.8;;102.1;124.1;136.5;;;57.4
+1276;Totaal psychiaters;Arts alleen werknemer (excl. DGA);2015;1.9;;103.0;125.8;138.5;;;57.3
+1277;Totaal psychiaters;Arts alleen werknemer (excl. DGA);2016;1.9;;103.2;128.9;142.8;;;59.5
+1278;Totaal psychiaters;Arts alleen werknemer (excl. DGA);2017;1.9;;105.4;135.0;150.8;;;61.8
+1279;Totaal psychiaters;Arts alleen werknemer (excl. DGA);2018;2.0;;106.4;135.5;;;;60.4
+1280;Totaal psychiaters;Arts alleen werknemer (excl. DGA);2019;2.0;;108.8;138.3;;;;63.7
+1281;Totaal psychiaters;Arts alleen werknemer (excl. DGA);2020;2.1;;112.5;143.8;;;;66.6
+1282;Totaal psychiaters;Arts alleen werknemer (excl. DGA);2021;2.1;;115.9;149.0;;;;69.3
+1283;Totaal psychiaters;Arts alleen werknemer (excl. DGA);2022;2.1;;117.5;150.2;;;;
+1284;Totaal psychiaters;Arts alleen zelfstandige (excl. DGA);2011;0.3;122.9;;;;;;83.4
+1285;Totaal psychiaters;Arts alleen zelfstandige (excl. DGA);2012;0.4;118.5;;;;;;81.6
+1286;Totaal psychiaters;Arts alleen zelfstandige (excl. DGA);2013;0.4;111.3;;;;;;78.9
+1287;Totaal psychiaters;Arts alleen zelfstandige (excl. DGA);2014;0.4;116.1;;;;;;83.9
+1288;Totaal psychiaters;Arts alleen zelfstandige (excl. DGA);2015;0.4;110.9;;;;;;82.2
+1289;Totaal psychiaters;Arts alleen zelfstandige (excl. DGA);2016;0.5;109.1;;;;;;82.7
+1290;Totaal psychiaters;Arts alleen zelfstandige (excl. DGA);2017;0.5;112.6;;;;;;84.0
+1291;Totaal psychiaters;Arts alleen zelfstandige (excl. DGA);2018;0.5;121.4;;;;;;83.2
+1292;Totaal psychiaters;Arts alleen zelfstandige (excl. DGA);2019;0.5;130.2;;;;;;87.0
+1293;Totaal psychiaters;Arts alleen zelfstandige (excl. DGA);2020;0.6;136.1;;;;;;91.1
+1294;Totaal psychiaters;Arts alleen zelfstandige (excl. DGA);2021;0.6;141.6;;;;;;95.2
+1295;Totaal psychiaters;Arts alleen zelfstandige (excl. DGA);2022;0.6;;;;;;;
+1296;Totaal psychiaters;Arts DGA;2011;0.1;;;;;;;
+1297;Totaal psychiaters;Arts DGA;2012;0.1;;;;;;;
+1298;Totaal psychiaters;Arts DGA;2013;0.1;;;;;;;
+1299;Totaal psychiaters;Arts DGA;2014;0.1;;;;;;;
+1300;Totaal psychiaters;Arts DGA;2015;0.1;6.3;89.9;99.7;113.2;3.3;;68.1
+1301;Totaal psychiaters;Arts DGA;2016;0.1;7.7;90.4;99.4;110.2;21.2;;76.7
+1302;Totaal psychiaters;Arts DGA;2017;0.1;5.2;90.4;96.8;109.2;39.8;;96.3
+1303;Totaal psychiaters;Arts DGA;2018;0.1;8.2;90.2;94.7;;16.7;;74.1
+1304;Totaal psychiaters;Arts DGA;2019;0.1;11.7;92.1;96.9;;53.6;;97.2
+1305;Totaal psychiaters;Arts DGA;2020;0.1;13.4;88.8;94.9;;33.1;;89.2
+1306;Totaal psychiaters;Arts DGA;2021;0.1;15.7;91.0;96.1;;28.3;;87.2
+1307;Totaal psychiaters;Arts DGA;2022;0.2;;93.5;98.9;;;;
+1308;Totaal psychiaters;Arts met overig of gecombineerd inkomen;2011;0.6;30.5;99.3;119.5;140.8;0.1;8.8;68.2
+1309;Totaal psychiaters;Arts met overig of gecombineerd inkomen;2012;0.6;31.2;98.0;119.6;142.0;0.0;8.0;68.7
+1310;Totaal psychiaters;Arts met overig of gecombineerd inkomen;2013;0.6;29.3;98.9;121.7;145.7;0.0;7.6;69.4
+1311;Totaal psychiaters;Arts met overig of gecombineerd inkomen;2014;0.6;27.5;96.8;116.6;139.9;0.5;7.5;67.4
+1312;Totaal psychiaters;Arts met overig of gecombineerd inkomen;2015;0.6;28.2;98.0;119.1;143.1;0.5;6.6;69.2
+1313;Totaal psychiaters;Arts met overig of gecombineerd inkomen;2016;0.6;25.7;101.0;125.4;148.6;0.2;7.3;68.9
+1314;Totaal psychiaters;Arts met overig of gecombineerd inkomen;2017;0.6;28.7;100.8;128.1;156.3;0.4;7.3;72.5
+1315;Totaal psychiaters;Arts met overig of gecombineerd inkomen;2018;0.6;31.2;102.1;129.8;;0.3;6.5;74.7
+1316;Totaal psychiaters;Arts met overig of gecombineerd inkomen;2019;0.6;32.2;102.9;130.2;;0.6;6.8;78.9
+1317;Totaal psychiaters;Arts met overig of gecombineerd inkomen;2020;0.6;37.1;102.8;131.3;;1.2;7.8;83.2
+1318;Totaal psychiaters;Arts met overig of gecombineerd inkomen;2021;0.6;41.4;103.6;132.1;;0.3;8.1;85.5
+1319;Totaal psychiaters;Arts met overig of gecombineerd inkomen;2022;0.6;;107.2;137.0;;;;
+1320;"Arts; plastische chirurgie";Totaal;2011;0.2;95.8;81.9;92.6;107.0;11.2;2.5;88.4
+1321;"Arts; plastische chirurgie";Totaal;2012;0.2;84.6;80.9;91.6;106.0;25.2;0.4;94.5
+1322;"Arts; plastische chirurgie";Totaal;2013;0.2;89.8;80.0;95.8;110.7;11.1;1.0;86.9
+1323;"Arts; plastische chirurgie";Totaal;2014;0.2;95.2;77.6;87.5;103.8;27.0;0.6;98.5
+1324;"Arts; plastische chirurgie";Totaal;2015;0.3;42.4;103.1;115.3;129.0;6.3;0.7;86.7
+1325;"Arts; plastische chirurgie";Totaal;2016;0.3;45.0;104.9;115.5;130.3;6.5;1.3;84.1
+1326;"Arts; plastische chirurgie";Totaal;2017;0.3;47.1;103.3;113.9;130.3;14.8;1.1;94.2
+1327;"Arts; plastische chirurgie";Totaal;2018;0.3;41.1;105.8;116.2;;30.7;0.8;93.8
+1328;"Arts; plastische chirurgie";Totaal;2019;0.3;38.6;106.5;115.9;;66.3;0.2;119.7
+1329;"Arts; plastische chirurgie";Totaal;2020;0.3;40.0;107.1;118.6;;33.1;0.3;98.2
+1330;"Arts; plastische chirurgie";Totaal;2021;0.3;40.5;109.6;121.2;;19.4;0.5;92.3
+1331;"Arts; plastische chirurgie";Totaal;2022;0.3;;111.9;121.8;;;;
+1332;"Arts; plastische chirurgie";Arts alleen werknemer (excl. DGA);2011;0.0;;;;;;;
+1333;"Arts; plastische chirurgie";Arts alleen werknemer (excl. DGA);2012;0.0;;;;;;;
+1334;"Arts; plastische chirurgie";Arts alleen werknemer (excl. DGA);2013;0.0;;;;;;;
+1335;"Arts; plastische chirurgie";Arts alleen werknemer (excl. DGA);2014;0.0;;;;;;;
+1336;"Arts; plastische chirurgie";Arts alleen werknemer (excl. DGA);2015;0.1;;;;;;;
+1337;"Arts; plastische chirurgie";Arts alleen werknemer (excl. DGA);2016;0.1;;;;;;;
+1338;"Arts; plastische chirurgie";Arts alleen werknemer (excl. DGA);2017;0.1;;;;;;;
+1339;"Arts; plastische chirurgie";Arts alleen werknemer (excl. DGA);2018;0.1;;;;;;;
+1340;"Arts; plastische chirurgie";Arts alleen werknemer (excl. DGA);2019;0.1;;;;;;;
+1341;"Arts; plastische chirurgie";Arts alleen werknemer (excl. DGA);2020;0.1;;;;;;;
+1342;"Arts; plastische chirurgie";Arts alleen werknemer (excl. DGA);2021;0.1;;;;;;;
+1343;"Arts; plastische chirurgie";Arts alleen werknemer (excl. DGA);2022;0.1;;;;;;;
+1344;"Arts; plastische chirurgie";Arts alleen zelfstandige (excl. DGA);2011;0.1;;;;;;;
+1345;"Arts; plastische chirurgie";Arts alleen zelfstandige (excl. DGA);2012;0.1;;;;;;;
+1346;"Arts; plastische chirurgie";Arts alleen zelfstandige (excl. DGA);2013;0.1;;;;;;;
+1347;"Arts; plastische chirurgie";Arts alleen zelfstandige (excl. DGA);2014;0.1;;;;;;;
+1348;"Arts; plastische chirurgie";Arts alleen zelfstandige (excl. DGA);2015;0.0;;;;;;;
+1349;"Arts; plastische chirurgie";Arts alleen zelfstandige (excl. DGA);2016;0.0;;;;;;;
+1350;"Arts; plastische chirurgie";Arts alleen zelfstandige (excl. DGA);2017;0.0;;;;;;;
+1351;"Arts; plastische chirurgie";Arts alleen zelfstandige (excl. DGA);2018;0.0;;;;;;;
+1352;"Arts; plastische chirurgie";Arts alleen zelfstandige (excl. DGA);2019;0.0;;;;;;;
+1353;"Arts; plastische chirurgie";Arts alleen zelfstandige (excl. DGA);2020;0.1;;;;;;;
+1354;"Arts; plastische chirurgie";Arts alleen zelfstandige (excl. DGA);2021;0.1;;;;;;;
+1355;"Arts; plastische chirurgie";Arts alleen zelfstandige (excl. DGA);2022;0.1;;;;;;;
+1356;"Arts; plastische chirurgie";Arts DGA;2011;0.1;;;;;;;
+1357;"Arts; plastische chirurgie";Arts DGA;2012;0.1;;;;;;;
+1358;"Arts; plastische chirurgie";Arts DGA;2013;0.1;;;;;;;
+1359;"Arts; plastische chirurgie";Arts DGA;2014;0.1;;;;;;;
+1360;"Arts; plastische chirurgie";Arts DGA;2015;0.1;13.3;119.3;126.4;140.8;12.8;;69.7
+1361;"Arts; plastische chirurgie";Arts DGA;2016;0.1;19.5;119.9;123.4;137.7;12.3;;70.6
+1362;"Arts; plastische chirurgie";Arts DGA;2017;0.1;16.5;119.4;124.0;142.9;27.8;;85.5
+1363;"Arts; plastische chirurgie";Arts DGA;2018;0.2;11.8;121.8;125.2;;58.1;;93.9
+1364;"Arts; plastische chirurgie";Arts DGA;2019;0.2;9.6;119.9;123.8;;121.6;;136.5
+1365;"Arts; plastische chirurgie";Arts DGA;2020;0.2;12.0;120.8;126.3;;62.8;;99.8
+1366;"Arts; plastische chirurgie";Arts DGA;2021;0.2;15.3;119.2;125.3;;37.8;;87.5
+1367;"Arts; plastische chirurgie";Arts DGA;2022;0.2;;124.0;126.3;;;;
+1368;"Arts; plastische chirurgie";Arts met overig of gecombineerd inkomen;2011;0.0;;;;;;;
+1369;"Arts; plastische chirurgie";Arts met overig of gecombineerd inkomen;2012;0.0;;;;;;;
+1370;"Arts; plastische chirurgie";Arts met overig of gecombineerd inkomen;2013;0.0;;;;;;;
+1371;"Arts; plastische chirurgie";Arts met overig of gecombineerd inkomen;2014;0.0;;;;;;;
+1372;"Arts; plastische chirurgie";Arts met overig of gecombineerd inkomen;2015;0.0;;;;;;;
+1373;"Arts; plastische chirurgie";Arts met overig of gecombineerd inkomen;2016;0.0;;;;;;;
+1374;"Arts; plastische chirurgie";Arts met overig of gecombineerd inkomen;2017;0.0;;;;;;;
+1375;"Arts; plastische chirurgie";Arts met overig of gecombineerd inkomen;2018;0.0;;;;;;;
+1376;"Arts; plastische chirurgie";Arts met overig of gecombineerd inkomen;2019;0.0;;;;;;;
+1377;"Arts; plastische chirurgie";Arts met overig of gecombineerd inkomen;2020;0.0;;;;;;;
+1378;"Arts; plastische chirurgie";Arts met overig of gecombineerd inkomen;2021;0.0;;;;;;;
+1379;"Arts; plastische chirurgie";Arts met overig of gecombineerd inkomen;2022;0.0;;;;;;;
+1380;"Arts; radiologie";Totaal;2011;0.9;128.2;66.1;76.2;84.8;10.6;0.6;89.5
+1381;"Arts; radiologie";Totaal;2012;0.9;97.5;63.8;73.4;81.5;11.1;0.8;81.1
+1382;"Arts; radiologie";Totaal;2013;1.0;96.1;62.8;76.7;83.4;4.5;0.8;79.0
+1383;"Arts; radiologie";Totaal;2014;1.0;97.1;62.9;72.0;81.1;20.6;1.1;89.5
+1384;"Arts; radiologie";Totaal;2015;1.0;35.7;98.4;109.4;117.7;3.9;1.3;71.8
+1385;"Arts; radiologie";Totaal;2016;1.0;32.4;103.1;115.8;123.5;6.8;0.8;73.2
+1386;"Arts; radiologie";Totaal;2017;1.1;31.3;104.1;117.7;125.7;11.8;0.7;83.0
+1387;"Arts; radiologie";Totaal;2018;1.1;27.5;108.3;121.0;;10.2;0.8;77.3
+1388;"Arts; radiologie";Totaal;2019;1.1;28.1;109.9;121.5;;42.3;0.7;96.6
+1389;"Arts; radiologie";Totaal;2020;1.2;27.8;110.3;122.7;;18.3;0.4;85.1
+1390;"Arts; radiologie";Totaal;2021;1.2;31.1;110.4;123.3;;17.0;0.5;88.9
+1391;"Arts; radiologie";Totaal;2022;1.2;;110.6;123.1;;;;
+1392;"Arts; radiologie";Arts alleen werknemer (excl. DGA);2011;0.2;;124.7;150.9;159.5;;;61.2
+1393;"Arts; radiologie";Arts alleen werknemer (excl. DGA);2012;0.3;;125.1;147.9;157.7;;;60.3
+1394;"Arts; radiologie";Arts alleen werknemer (excl. DGA);2013;0.3;;121.5;144.4;153.3;;;63.0
+1395;"Arts; radiologie";Arts alleen werknemer (excl. DGA);2014;0.3;;120.6;142.7;152.2;;;63.4
+1396;"Arts; radiologie";Arts alleen werknemer (excl. DGA);2015;0.4;;126.1;148.4;158.6;;;65.5
+1397;"Arts; radiologie";Arts alleen werknemer (excl. DGA);2016;0.4;;126.2;152.6;161.6;;;66.1
+1398;"Arts; radiologie";Arts alleen werknemer (excl. DGA);2017;0.4;;125.9;149.7;162.1;;;67.7
+1399;"Arts; radiologie";Arts alleen werknemer (excl. DGA);2018;0.4;;126.6;151.2;;;;68.2
+1400;"Arts; radiologie";Arts alleen werknemer (excl. DGA);2019;0.4;;127.4;151.3;;;;73.4
+1401;"Arts; radiologie";Arts alleen werknemer (excl. DGA);2020;0.4;;131.9;157.9;;;;72.1
+1402;"Arts; radiologie";Arts alleen werknemer (excl. DGA);2021;0.4;;133.8;160.1;;;;73.8
+1403;"Arts; radiologie";Arts alleen werknemer (excl. DGA);2022;0.5;;135.8;160.9;;;;
+1404;"Arts; radiologie";Arts alleen zelfstandige (excl. DGA);2011;0.4;252.4;;;;;;101.5
+1405;"Arts; radiologie";Arts alleen zelfstandige (excl. DGA);2012;0.4;191.6;;;;;;87.1
+1406;"Arts; radiologie";Arts alleen zelfstandige (excl. DGA);2013;0.5;189.9;;;;;;84.6
+1407;"Arts; radiologie";Arts alleen zelfstandige (excl. DGA);2014;0.4;201.9;;;;;;89.6
+1408;"Arts; radiologie";Arts alleen zelfstandige (excl. DGA);2015;0.2;174.8;;;;;;82.2
+1409;"Arts; radiologie";Arts alleen zelfstandige (excl. DGA);2016;0.2;189.6;;;;;;83.8
+1410;"Arts; radiologie";Arts alleen zelfstandige (excl. DGA);2017;0.2;186.7;;;;;;89.4
+1411;"Arts; radiologie";Arts alleen zelfstandige (excl. DGA);2018;0.2;188.2;;;;;;86.5
+1412;"Arts; radiologie";Arts alleen zelfstandige (excl. DGA);2019;0.2;192.6;;;;;;87.8
+1413;"Arts; radiologie";Arts alleen zelfstandige (excl. DGA);2020;0.2;188.2;;;;;;86.6
+1414;"Arts; radiologie";Arts alleen zelfstandige (excl. DGA);2021;0.2;200.3;;;;;;99.3
+1415;"Arts; radiologie";Arts alleen zelfstandige (excl. DGA);2022;0.2;;;;;;;
+1416;"Arts; radiologie";Arts DGA;2011;0.2;19.2;120.3;125.2;145.8;49.9;;90.5
+1417;"Arts; radiologie";Arts DGA;2012;0.2;11.5;117.3;121.6;140.7;62.2;;91.4
+1418;"Arts; radiologie";Arts DGA;2013;0.1;7.1;119.2;149.8;158.9;21.0;;77.7
+1419;"Arts; radiologie";Arts DGA;2014;0.2;22.7;97.8;102.0;123.1;108.5;;124.7
+1420;"Arts; radiologie";Arts DGA;2015;0.4;1.3;114.8;120.3;127.8;9.5;;67.2
+1421;"Arts; radiologie";Arts DGA;2016;0.4;0.0;118.2;121.2;126.1;16.1;;70.3
+1422;"Arts; radiologie";Arts DGA;2017;0.4;0.0;118.1;126.2;132.3;29.4;;89.3
+1423;"Arts; radiologie";Arts DGA;2018;0.5;0.1;120.4;124.7;;24.3;;76.0
+1424;"Arts; radiologie";Arts DGA;2019;0.5;0.4;122.7;125.4;;97.6;;115.5
+1425;"Arts; radiologie";Arts DGA;2020;0.5;0.4;121.8;124.4;;42.3;;89.6
+1426;"Arts; radiologie";Arts DGA;2021;0.5;1.0;121.8;124.8;;39.7;;92.2
+1427;"Arts; radiologie";Arts DGA;2022;0.5;;121.8;125.8;;;;
+1428;"Arts; radiologie";Arts met overig of gecombineerd inkomen;2011;0.1;;;;;;;
+1429;"Arts; radiologie";Arts met overig of gecombineerd inkomen;2012;0.1;;;;;;;
+1430;"Arts; radiologie";Arts met overig of gecombineerd inkomen;2013;0.1;;;;;;;
+1431;"Arts; radiologie";Arts met overig of gecombineerd inkomen;2014;0.1;;;;;;;
+1432;"Arts; radiologie";Arts met overig of gecombineerd inkomen;2015;0.1;;;;;;;
+1433;"Arts; radiologie";Arts met overig of gecombineerd inkomen;2016;0.1;;;;;;;
+1434;"Arts; radiologie";Arts met overig of gecombineerd inkomen;2017;0.1;;;;;;;
+1435;"Arts; radiologie";Arts met overig of gecombineerd inkomen;2018;0.1;;;;;;;
+1436;"Arts; radiologie";Arts met overig of gecombineerd inkomen;2019;0.1;;;;;;;
+1437;"Arts; radiologie";Arts met overig of gecombineerd inkomen;2020;0.1;;;;;;;
+1438;"Arts; radiologie";Arts met overig of gecombineerd inkomen;2021;0.1;;;;;;;
+1439;"Arts; radiologie";Arts met overig of gecombineerd inkomen;2022;0.1;;;;;;;
+1440;"Arts; radiotherapie";Totaal;2011;0.2;15.9;111.9;129.7;134.7;1.1;0.1;64.2
+1441;"Arts; radiotherapie";Totaal;2012;0.2;13.1;113.5;133.4;140.1;0.7;0.3;62.7
+1442;"Arts; radiotherapie";Totaal;2013;0.2;11.4;114.9;135.1;141.8;0.3;0.1;61.9
+1443;"Arts; radiotherapie";Totaal;2014;0.3;9.6;114.5;132.8;139.3;2.2;0.2;65.1
+1444;"Arts; radiotherapie";Totaal;2015;0.3;9.2;119.2;145.2;151.4;0.0;0.3;66.5
+1445;"Arts; radiotherapie";Totaal;2016;0.3;7.9;119.9;150.1;156.0;0.1;0.2;66.5
+1446;"Arts; radiotherapie";Totaal;2017;0.3;8.7;121.5;145.5;151.9;2.2;0.2;68.5
+1447;"Arts; radiotherapie";Totaal;2018;0.3;9.0;123.6;146.1;;1.2;0.0;69.0
+1448;"Arts; radiotherapie";Totaal;2019;0.3;7.5;124.3;149.7;;5.4;0.1;74.9
+1449;"Arts; radiotherapie";Totaal;2020;0.3;7.4;128.7;156.1;;0.7;0.1;73.8
+1450;"Arts; radiotherapie";Totaal;2021;0.3;8.0;131.0;157.2;;2.1;0.1;78.8
+1451;"Arts; radiotherapie";Totaal;2022;0.3;;131.8;156.5;;;;
+1452;"Arts; radiotherapie";Arts alleen werknemer (excl. DGA);2011;0.2;;119.0;138.5;144.1;;;60.5
+1453;"Arts; radiotherapie";Arts alleen werknemer (excl. DGA);2012;0.2;;120.2;141.6;148.3;;;60.4
+1454;"Arts; radiotherapie";Arts alleen werknemer (excl. DGA);2013;0.2;;120.6;141.8;149.0;;;60.0
+1455;"Arts; radiotherapie";Arts alleen werknemer (excl. DGA);2014;0.2;;120.2;140.3;147.4;;;62.4
+1456;"Arts; radiotherapie";Arts alleen werknemer (excl. DGA);2015;0.2;;125.3;153.9;160.8;;;65.2
+1457;"Arts; radiotherapie";Arts alleen werknemer (excl. DGA);2016;0.3;;125.6;158.5;164.7;;;65.2
+1458;"Arts; radiotherapie";Arts alleen werknemer (excl. DGA);2017;0.3;;128.4;154.8;161.8;;;66.1
+1459;"Arts; radiotherapie";Arts alleen werknemer (excl. DGA);2018;0.3;;130.2;154.9;;;;66.5
+1460;"Arts; radiotherapie";Arts alleen werknemer (excl. DGA);2019;0.3;;129.9;157.4;;;;71.0
+1461;"Arts; radiotherapie";Arts alleen werknemer (excl. DGA);2020;0.3;;134.4;163.9;;;;72.2
+1462;"Arts; radiotherapie";Arts alleen werknemer (excl. DGA);2021;0.3;;137.0;165.9;;;;76.3
+1463;"Arts; radiotherapie";Arts alleen werknemer (excl. DGA);2022;0.3;;138.2;165.5;;;;
+1464;"Arts; radiotherapie";Arts alleen zelfstandige (excl. DGA);2011;0.0;;;;;;;
+1465;"Arts; radiotherapie";Arts alleen zelfstandige (excl. DGA);2012;0.0;;;;;;;
+1466;"Arts; radiotherapie";Arts alleen zelfstandige (excl. DGA);2013;0.0;;;;;;;
+1467;"Arts; radiotherapie";Arts alleen zelfstandige (excl. DGA);2014;0.0;;;;;;;
+1468;"Arts; radiotherapie";Arts alleen zelfstandige (excl. DGA);2015;0.0;;;;;;;
+1469;"Arts; radiotherapie";Arts alleen zelfstandige (excl. DGA);2016;0.0;;;;;;;
+1470;"Arts; radiotherapie";Arts alleen zelfstandige (excl. DGA);2017;0.0;;;;;;;
+1471;"Arts; radiotherapie";Arts alleen zelfstandige (excl. DGA);2018;0.0;;;;;;;
+1472;"Arts; radiotherapie";Arts alleen zelfstandige (excl. DGA);2019;0.0;;;;;;;
+1473;"Arts; radiotherapie";Arts alleen zelfstandige (excl. DGA);2020;0.0;;;;;;;
+1474;"Arts; radiotherapie";Arts alleen zelfstandige (excl. DGA);2021;0.0;;;;;;;
+1475;"Arts; radiotherapie";Arts alleen zelfstandige (excl. DGA);2022;0.0;;;;;;;
+1476;"Arts; radiotherapie";Arts DGA;2011;0.0;;;;;;;
+1477;"Arts; radiotherapie";Arts DGA;2012;0.0;;;;;;;
+1478;"Arts; radiotherapie";Arts DGA;2013;0.0;;;;;;;
+1479;"Arts; radiotherapie";Arts DGA;2014;0.0;;;;;;;
+1480;"Arts; radiotherapie";Arts DGA;2015;0.0;;;;;;;
+1481;"Arts; radiotherapie";Arts DGA;2016;0.0;;;;;;;
+1482;"Arts; radiotherapie";Arts DGA;2017;0.0;;;;;;;
+1483;"Arts; radiotherapie";Arts DGA;2018;0.0;;;;;;;
+1484;"Arts; radiotherapie";Arts DGA;2019;0.0;;;;;;;
+1485;"Arts; radiotherapie";Arts DGA;2020;0.0;;;;;;;
+1486;"Arts; radiotherapie";Arts DGA;2021;0.0;;;;;;;
+1487;"Arts; radiotherapie";Arts DGA;2022;0.0;;;;;;;
+1488;"Arts; radiotherapie";Arts met overig of gecombineerd inkomen;2011;0.0;;;;;;;
+1489;"Arts; radiotherapie";Arts met overig of gecombineerd inkomen;2012;0.0;;;;;;;
+1490;"Arts; radiotherapie";Arts met overig of gecombineerd inkomen;2013;0.0;;;;;;;
+1491;"Arts; radiotherapie";Arts met overig of gecombineerd inkomen;2014;0.0;;;;;;;
+1492;"Arts; radiotherapie";Arts met overig of gecombineerd inkomen;2015;0.0;;;;;;;
+1493;"Arts; radiotherapie";Arts met overig of gecombineerd inkomen;2016;0.0;;;;;;;
+1494;"Arts; radiotherapie";Arts met overig of gecombineerd inkomen;2017;0.0;;;;;;;
+1495;"Arts; radiotherapie";Arts met overig of gecombineerd inkomen;2018;0.0;;;;;;;
+1496;"Arts; radiotherapie";Arts met overig of gecombineerd inkomen;2019;0.0;;;;;;;
+1497;"Arts; radiotherapie";Arts met overig of gecombineerd inkomen;2020;0.0;;;;;;;
+1498;"Arts; radiotherapie";Arts met overig of gecombineerd inkomen;2021;0.0;;;;;;;
+1499;"Arts; radiotherapie";Arts met overig of gecombineerd inkomen;2022;0.0;;;;;;;
+1500;"Arts; reumatologie";Totaal;2011;0.2;65.8;86.9;99.0;107.3;8.0;2.5;75.2
+1501;"Arts; reumatologie";Totaal;2012;0.2;62.7;86.7;96.8;105.6;0.4;1.7;71.7
+1502;"Arts; reumatologie";Totaal;2013;0.2;58.4;88.1;100.9;109.7;6.1;1.5;76.6
+1503;"Arts; reumatologie";Totaal;2014;0.2;58.5;87.9;98.8;107.2;3.3;1.0;75.7
+1504;"Arts; reumatologie";Totaal;2015;0.3;23.1;110.7;125.5;132.9;0.6;1.1;71.0
+1505;"Arts; reumatologie";Totaal;2016;0.3;19.9;110.3;128.0;138.1;1.9;1.1;71.0
+1506;"Arts; reumatologie";Totaal;2017;0.3;19.8;109.3;120.8;131.1;2.6;0.9;69.1
+1507;"Arts; reumatologie";Totaal;2018;0.3;20.4;109.4;122.2;;2.4;1.0;69.3
+1508;"Arts; reumatologie";Totaal;2019;0.3;18.9;112.3;124.8;;8.4;0.9;74.6
+1509;"Arts; reumatologie";Totaal;2020;0.3;20.3;113.2;126.8;;3.0;0.5;75.0
+1510;"Arts; reumatologie";Totaal;2021;0.4;18.5;114.0;126.9;;2.2;0.5;75.7
+1511;"Arts; reumatologie";Totaal;2022;0.4;;116.7;132.9;;;;
+1512;"Arts; reumatologie";Arts alleen werknemer (excl. DGA);2011;0.1;;119.0;135.6;145.3;;;59.3
+1513;"Arts; reumatologie";Arts alleen werknemer (excl. DGA);2012;0.1;;121.7;135.9;145.4;;;61.9
+1514;"Arts; reumatologie";Arts alleen werknemer (excl. DGA);2013;0.1;;125.6;143.6;154.2;;;62.4
+1515;"Arts; reumatologie";Arts alleen werknemer (excl. DGA);2014;0.1;;125.4;141.0;149.2;;;61.8
+1516;"Arts; reumatologie";Arts alleen werknemer (excl. DGA);2015;0.2;;123.2;142.8;151.5;;;63.7
+1517;"Arts; reumatologie";Arts alleen werknemer (excl. DGA);2016;0.2;;125.6;149.3;158.7;;;66.3
+1518;"Arts; reumatologie";Arts alleen werknemer (excl. DGA);2017;0.2;;126.6;142.5;153.4;;;65.1
+1519;"Arts; reumatologie";Arts alleen werknemer (excl. DGA);2018;0.2;;126.8;144.1;;;;65.7
+1520;"Arts; reumatologie";Arts alleen werknemer (excl. DGA);2019;0.2;;130.6;147.5;;;;67.6
+1521;"Arts; reumatologie";Arts alleen werknemer (excl. DGA);2020;0.2;;133.4;152.1;;;;71.0
+1522;"Arts; reumatologie";Arts alleen werknemer (excl. DGA);2021;0.2;;130.2;148.4;;;;73.5
+1523;"Arts; reumatologie";Arts alleen werknemer (excl. DGA);2022;0.2;;133.6;156.1;;;;
+1524;"Arts; reumatologie";Arts alleen zelfstandige (excl. DGA);2011;0.1;;;;;;;
+1525;"Arts; reumatologie";Arts alleen zelfstandige (excl. DGA);2012;0.1;;;;;;;
+1526;"Arts; reumatologie";Arts alleen zelfstandige (excl. DGA);2013;0.1;;;;;;;
+1527;"Arts; reumatologie";Arts alleen zelfstandige (excl. DGA);2014;0.1;;;;;;;
+1528;"Arts; reumatologie";Arts alleen zelfstandige (excl. DGA);2015;0.0;;;;;;;
+1529;"Arts; reumatologie";Arts alleen zelfstandige (excl. DGA);2016;0.0;;;;;;;
+1530;"Arts; reumatologie";Arts alleen zelfstandige (excl. DGA);2017;0.0;;;;;;;
+1531;"Arts; reumatologie";Arts alleen zelfstandige (excl. DGA);2018;0.0;;;;;;;
+1532;"Arts; reumatologie";Arts alleen zelfstandige (excl. DGA);2019;0.0;;;;;;;
+1533;"Arts; reumatologie";Arts alleen zelfstandige (excl. DGA);2020;0.0;;;;;;;
+1534;"Arts; reumatologie";Arts alleen zelfstandige (excl. DGA);2021;0.0;;;;;;;
+1535;"Arts; reumatologie";Arts alleen zelfstandige (excl. DGA);2022;0.0;;;;;;;
+1536;"Arts; reumatologie";Arts DGA;2011;0.0;;;;;;;
+1537;"Arts; reumatologie";Arts DGA;2012;0.0;;;;;;;
+1538;"Arts; reumatologie";Arts DGA;2013;0.0;;;;;;;
+1539;"Arts; reumatologie";Arts DGA;2014;0.0;;;;;;;
+1540;"Arts; reumatologie";Arts DGA;2015;0.1;;;;;;;
+1541;"Arts; reumatologie";Arts DGA;2016;0.1;;;;;;;
+1542;"Arts; reumatologie";Arts DGA;2017;0.1;;;;;;;
+1543;"Arts; reumatologie";Arts DGA;2018;0.1;;;;;;;
+1544;"Arts; reumatologie";Arts DGA;2019;0.1;;;;;;;
+1545;"Arts; reumatologie";Arts DGA;2020;0.1;;;;;;;
+1546;"Arts; reumatologie";Arts DGA;2021;0.1;;;;;;;
+1547;"Arts; reumatologie";Arts DGA;2022;0.1;;;;;;;
+1548;"Arts; reumatologie";Arts met overig of gecombineerd inkomen;2011;0.0;;;;;;;
+1549;"Arts; reumatologie";Arts met overig of gecombineerd inkomen;2012;0.0;;;;;;;
+1550;"Arts; reumatologie";Arts met overig of gecombineerd inkomen;2013;0.0;;;;;;;
+1551;"Arts; reumatologie";Arts met overig of gecombineerd inkomen;2014;0.0;;;;;;;
+1552;"Arts; reumatologie";Arts met overig of gecombineerd inkomen;2015;0.0;;;;;;;
+1553;"Arts; reumatologie";Arts met overig of gecombineerd inkomen;2016;0.0;;;;;;;
+1554;"Arts; reumatologie";Arts met overig of gecombineerd inkomen;2017;0.0;;;;;;;
+1555;"Arts; reumatologie";Arts met overig of gecombineerd inkomen;2018;0.0;;;;;;;
+1556;"Arts; reumatologie";Arts met overig of gecombineerd inkomen;2019;0.0;;;;;;;
+1557;"Arts; reumatologie";Arts met overig of gecombineerd inkomen;2020;0.0;;;;;;;
+1558;"Arts; reumatologie";Arts met overig of gecombineerd inkomen;2021;0.0;;;;;;;
+1559;"Arts; reumatologie";Arts met overig of gecombineerd inkomen;2022;0.0;;;;;;;
+1560;"Arts; revalidatiegeneeskunde";Totaal;2011;0.4;0.8;106.5;117.9;127.2;0.0;0.2;53.5
+1561;"Arts; revalidatiegeneeskunde";Totaal;2012;0.5;0.6;108.0;119.3;129.7;0.0;0.3;54.6
+1562;"Arts; revalidatiegeneeskunde";Totaal;2013;0.5;0.8;109.3;124.9;136.2;0.0;0.2;56.5
+1563;"Arts; revalidatiegeneeskunde";Totaal;2014;0.5;1.1;109.0;120.2;131.1;0.1;0.3;55.8
+1564;"Arts; revalidatiegeneeskunde";Totaal;2015;0.5;1.0;110.6;126.4;137.4;0.0;0.2;58.5
+1565;"Arts; revalidatiegeneeskunde";Totaal;2016;0.5;1.6;109.4;127.9;140.8;0.3;0.2;60.0
+1566;"Arts; revalidatiegeneeskunde";Totaal;2017;0.5;1.8;112.1;124.9;137.5;0.2;0.4;60.4
+1567;"Arts; revalidatiegeneeskunde";Totaal;2018;0.6;2.5;112.0;124.8;;0.0;0.4;60.8
+1568;"Arts; revalidatiegeneeskunde";Totaal;2019;0.6;3.1;112.0;124.8;;0.5;0.1;62.4
+1569;"Arts; revalidatiegeneeskunde";Totaal;2020;0.6;2.6;114.7;128.7;;0.0;0.1;64.5
+1570;"Arts; revalidatiegeneeskunde";Totaal;2021;0.6;3.2;115.7;129.2;;0.0;0.1;66.9
+1571;"Arts; revalidatiegeneeskunde";Totaal;2022;0.6;;117.0;130.0;;;;
+1572;"Arts; revalidatiegeneeskunde";Arts alleen werknemer (excl. DGA);2011;0.4;;105.9;117.2;126.3;;;52.9
+1573;"Arts; revalidatiegeneeskunde";Arts alleen werknemer (excl. DGA);2012;0.4;;107.3;118.6;128.4;;;54.1
+1574;"Arts; revalidatiegeneeskunde";Arts alleen werknemer (excl. DGA);2013;0.4;;108.6;123.5;134.0;;;55.5
+1575;"Arts; revalidatiegeneeskunde";Arts alleen werknemer (excl. DGA);2014;0.5;;108.0;118.9;129.7;;;54.8
+1576;"Arts; revalidatiegeneeskunde";Arts alleen werknemer (excl. DGA);2015;0.5;;110.1;125.8;136.3;;;57.5
+1577;"Arts; revalidatiegeneeskunde";Arts alleen werknemer (excl. DGA);2016;0.5;;110.3;129.0;141.1;;;59.4
+1578;"Arts; revalidatiegeneeskunde";Arts alleen werknemer (excl. DGA);2017;0.5;;113.3;126.1;138.5;;;59.8
+1579;"Arts; revalidatiegeneeskunde";Arts alleen werknemer (excl. DGA);2018;0.5;;114.2;127.0;;;;60.1
+1580;"Arts; revalidatiegeneeskunde";Arts alleen werknemer (excl. DGA);2019;0.6;;114.3;127.3;;;;61.9
+1581;"Arts; revalidatiegeneeskunde";Arts alleen werknemer (excl. DGA);2020;0.6;;117.5;132.0;;;;64.2
+1582;"Arts; revalidatiegeneeskunde";Arts alleen werknemer (excl. DGA);2021;0.6;;118.1;132.0;;;;66.3
+1583;"Arts; revalidatiegeneeskunde";Arts alleen werknemer (excl. DGA);2022;0.6;;119.0;132.1;;;;
+1584;"Arts; revalidatiegeneeskunde";Arts alleen zelfstandige (excl. DGA);2011;0.0;;;;;;;
+1585;"Arts; revalidatiegeneeskunde";Arts alleen zelfstandige (excl. DGA);2012;0.0;;;;;;;
+1586;"Arts; revalidatiegeneeskunde";Arts alleen zelfstandige (excl. DGA);2013;0.0;;;;;;;
+1587;"Arts; revalidatiegeneeskunde";Arts alleen zelfstandige (excl. DGA);2014;0.0;;;;;;;
+1588;"Arts; revalidatiegeneeskunde";Arts alleen zelfstandige (excl. DGA);2015;0.0;;;;;;;
+1589;"Arts; revalidatiegeneeskunde";Arts alleen zelfstandige (excl. DGA);2016;0.0;;;;;;;
+1590;"Arts; revalidatiegeneeskunde";Arts alleen zelfstandige (excl. DGA);2017;0.0;;;;;;;
+1591;"Arts; revalidatiegeneeskunde";Arts alleen zelfstandige (excl. DGA);2018;0.0;;;;;;;
+1592;"Arts; revalidatiegeneeskunde";Arts alleen zelfstandige (excl. DGA);2019;0.0;;;;;;;
+1593;"Arts; revalidatiegeneeskunde";Arts alleen zelfstandige (excl. DGA);2020;0.0;;;;;;;
+1594;"Arts; revalidatiegeneeskunde";Arts alleen zelfstandige (excl. DGA);2021;0.0;;;;;;;
+1595;"Arts; revalidatiegeneeskunde";Arts alleen zelfstandige (excl. DGA);2022;0.0;;;;;;;
+1596;"Arts; revalidatiegeneeskunde";Arts DGA;2011;0.0;;;;;;;
+1597;"Arts; revalidatiegeneeskunde";Arts DGA;2012;0.0;;;;;;;
+1598;"Arts; revalidatiegeneeskunde";Arts DGA;2013;0.0;;;;;;;
+1599;"Arts; revalidatiegeneeskunde";Arts DGA;2014;0.0;;;;;;;
+1600;"Arts; revalidatiegeneeskunde";Arts DGA;2015;0.0;;;;;;;
+1601;"Arts; revalidatiegeneeskunde";Arts DGA;2016;0.0;;;;;;;
+1602;"Arts; revalidatiegeneeskunde";Arts DGA;2017;0.0;;;;;;;
+1603;"Arts; revalidatiegeneeskunde";Arts DGA;2018;0.0;;;;;;;
+1604;"Arts; revalidatiegeneeskunde";Arts DGA;2019;0.0;;;;;;;
+1605;"Arts; revalidatiegeneeskunde";Arts DGA;2020;0.0;;;;;;;
+1606;"Arts; revalidatiegeneeskunde";Arts DGA;2021;0.0;;;;;;;
+1607;"Arts; revalidatiegeneeskunde";Arts DGA;2022;0.0;;;;;;;
+1608;"Arts; revalidatiegeneeskunde";Arts met overig of gecombineerd inkomen;2011;0.0;;;;;;;
+1609;"Arts; revalidatiegeneeskunde";Arts met overig of gecombineerd inkomen;2012;0.0;;;;;;;
+1610;"Arts; revalidatiegeneeskunde";Arts met overig of gecombineerd inkomen;2013;0.0;;;;;;;
+1611;"Arts; revalidatiegeneeskunde";Arts met overig of gecombineerd inkomen;2014;0.0;;;;;;;
+1612;"Arts; revalidatiegeneeskunde";Arts met overig of gecombineerd inkomen;2015;0.0;;;;;;;
+1613;"Arts; revalidatiegeneeskunde";Arts met overig of gecombineerd inkomen;2016;0.0;;;;;;;
+1614;"Arts; revalidatiegeneeskunde";Arts met overig of gecombineerd inkomen;2017;0.0;;;;;;;
+1615;"Arts; revalidatiegeneeskunde";Arts met overig of gecombineerd inkomen;2018;0.0;;;;;;;
+1616;"Arts; revalidatiegeneeskunde";Arts met overig of gecombineerd inkomen;2019;0.0;;;;;;;
+1617;"Arts; revalidatiegeneeskunde";Arts met overig of gecombineerd inkomen;2020;0.0;;;;;;;
+1618;"Arts; revalidatiegeneeskunde";Arts met overig of gecombineerd inkomen;2021;0.0;;;;;;;
+1619;"Arts; revalidatiegeneeskunde";Arts met overig of gecombineerd inkomen;2022;0.0;;;;;;;
+1620;"Arts; urologie";Totaal;2011;0.3;92.6;58.2;66.5;71.5;4.6;0.5;69.6
+1621;"Arts; urologie";Totaal;2012;0.3;93.4;59.4;68.4;73.8;3.8;0.6;68.4
+1622;"Arts; urologie";Totaal;2013;0.4;88.8;60.0;71.5;76.3;2.5;0.5;69.4
+1623;"Arts; urologie";Totaal;2014;0.4;96.2;60.2;69.2;74.3;15.3;0.3;79.3
+1624;"Arts; urologie";Totaal;2015;0.4;33.9;102.9;114.8;119.0;1.2;0.4;66.5
+1625;"Arts; urologie";Totaal;2016;0.4;31.7;103.6;115.7;122.1;3.4;0.8;68.0
+1626;"Arts; urologie";Totaal;2017;0.4;30.6;103.1;116.4;123.5;10.6;0.3;76.6
+1627;"Arts; urologie";Totaal;2018;0.4;26.4;106.6;119.4;;7.6;0.3;71.4
+1628;"Arts; urologie";Totaal;2019;0.4;26.4;109.8;122.0;;33.7;0.4;91.9
+1629;"Arts; urologie";Totaal;2020;0.4;24.6;111.6;125.0;;9.1;0.2;84.0
+1630;"Arts; urologie";Totaal;2021;0.4;27.6;110.6;124.6;;10.0;0.3;82.0
+1631;"Arts; urologie";Totaal;2022;0.5;;110.7;122.8;;;;
+1632;"Arts; urologie";Arts alleen werknemer (excl. DGA);2011;0.1;;;;;;;
+1633;"Arts; urologie";Arts alleen werknemer (excl. DGA);2012;0.1;;;;;;;
+1634;"Arts; urologie";Arts alleen werknemer (excl. DGA);2013;0.1;;;;;;;
+1635;"Arts; urologie";Arts alleen werknemer (excl. DGA);2014;0.1;;131.8;158.3;166.0;;;
+1636;"Arts; urologie";Arts alleen werknemer (excl. DGA);2015;0.1;;134.9;160.1;166.0;;;65.6
+1637;"Arts; urologie";Arts alleen werknemer (excl. DGA);2016;0.1;;133.1;158.1;164.6;;;67.9
+1638;"Arts; urologie";Arts alleen werknemer (excl. DGA);2017;0.1;;137.2;166.0;174.1;;;73.8
+1639;"Arts; urologie";Arts alleen werknemer (excl. DGA);2018;0.1;;136.1;164.7;;;;70.5
+1640;"Arts; urologie";Arts alleen werknemer (excl. DGA);2019;0.1;;139.3;165.0;;;;85.4
+1641;"Arts; urologie";Arts alleen werknemer (excl. DGA);2020;0.2;;145.2;175.5;;;;95.6
+1642;"Arts; urologie";Arts alleen werknemer (excl. DGA);2021;0.2;;144.8;177.4;;;;84.0
+1643;"Arts; urologie";Arts alleen werknemer (excl. DGA);2022;0.2;;143.4;170.1;;;;
+1644;"Arts; urologie";Arts alleen zelfstandige (excl. DGA);2011;0.2;175.2;;;;;;76.3
+1645;"Arts; urologie";Arts alleen zelfstandige (excl. DGA);2012;0.2;175.0;;;;;;74.1
+1646;"Arts; urologie";Arts alleen zelfstandige (excl. DGA);2013;0.2;173.6;;;;;;75.7
+1647;"Arts; urologie";Arts alleen zelfstandige (excl. DGA);2014;0.2;181.3;;;;;;81.0
+1648;"Arts; urologie";Arts alleen zelfstandige (excl. DGA);2015;0.1;;;;;;;
+1649;"Arts; urologie";Arts alleen zelfstandige (excl. DGA);2016;0.1;;;;;;;
+1650;"Arts; urologie";Arts alleen zelfstandige (excl. DGA);2017;0.1;;;;;;;
+1651;"Arts; urologie";Arts alleen zelfstandige (excl. DGA);2018;0.1;;;;;;;
+1652;"Arts; urologie";Arts alleen zelfstandige (excl. DGA);2019;0.1;;;;;;;
+1653;"Arts; urologie";Arts alleen zelfstandige (excl. DGA);2020;0.1;;;;;;;
+1654;"Arts; urologie";Arts alleen zelfstandige (excl. DGA);2021;0.1;;;;;;;
+1655;"Arts; urologie";Arts alleen zelfstandige (excl. DGA);2022;0.1;;;;;;;
+1656;"Arts; urologie";Arts DGA;2011;0.1;;;;;;;
+1657;"Arts; urologie";Arts DGA;2012;0.1;;;;;;;
+1658;"Arts; urologie";Arts DGA;2013;0.1;;;;;;;
+1659;"Arts; urologie";Arts DGA;2014;0.1;;;;;;;
+1660;"Arts; urologie";Arts DGA;2015;0.2;-0.2;118.5;123.8;127.2;3.1;;60.2
+1661;"Arts; urologie";Arts DGA;2016;0.2;0.0;122.2;125.3;129.3;8.4;;60.3
+1662;"Arts; urologie";Arts DGA;2017;0.2;1.1;118.5;123.9;130.3;19.4;;76.5
+1663;"Arts; urologie";Arts DGA;2018;0.2;0.0;121.0;124.2;;17.4;;67.2
+1664;"Arts; urologie";Arts DGA;2019;0.2;0.6;119.6;124.7;;72.6;;96.8
+1665;"Arts; urologie";Arts DGA;2020;0.2;1.0;118.6;122.2;;20.1;;74.3
+1666;"Arts; urologie";Arts DGA;2021;0.2;1.9;120.3;123.1;;22.6;;78.9
+1667;"Arts; urologie";Arts DGA;2022;0.2;;120.3;123.2;;;;
+1668;"Arts; urologie";Arts met overig of gecombineerd inkomen;2011;0.0;;;;;;;
+1669;"Arts; urologie";Arts met overig of gecombineerd inkomen;2012;0.0;;;;;;;
+1670;"Arts; urologie";Arts met overig of gecombineerd inkomen;2013;0.0;;;;;;;
+1671;"Arts; urologie";Arts met overig of gecombineerd inkomen;2014;0.0;;;;;;;
+1672;"Arts; urologie";Arts met overig of gecombineerd inkomen;2015;0.0;;;;;;;
+1673;"Arts; urologie";Arts met overig of gecombineerd inkomen;2016;0.0;;;;;;;
+1674;"Arts; urologie";Arts met overig of gecombineerd inkomen;2017;0.0;;;;;;;
+1675;"Arts; urologie";Arts met overig of gecombineerd inkomen;2018;0.0;;;;;;;
+1676;"Arts; urologie";Arts met overig of gecombineerd inkomen;2019;0.0;;;;;;;
+1677;"Arts; urologie";Arts met overig of gecombineerd inkomen;2020;0.0;;;;;;;
+1678;"Arts; urologie";Arts met overig of gecombineerd inkomen;2021;0.0;;;;;;;
+1679;"Arts; urologie";Arts met overig of gecombineerd inkomen;2022;0.0;;;;;;;
+1680;Arts met meerdere specialismen;Totaal;2011;0.1;;;;;;;
+1681;Arts met meerdere specialismen;Totaal;2012;0.1;;;;;;;
+1682;Arts met meerdere specialismen;Totaal;2013;0.1;;;;;;;
+1683;Arts met meerdere specialismen;Totaal;2014;0.1;;;;;;;
+1684;Arts met meerdere specialismen;Totaal;2015;0.1;;;;;;;
+1685;Arts met meerdere specialismen;Totaal;2016;0.1;;;;;;;
+1686;Arts met meerdere specialismen;Totaal;2017;0.0;;;;;;;
+1687;Arts met meerdere specialismen;Totaal;2018;0.0;;;;;;;
+1688;Arts met meerdere specialismen;Totaal;2019;0.0;;;;;;;
+1689;Arts met meerdere specialismen;Totaal;2020;0.0;;;;;;;
+1690;Arts met meerdere specialismen;Totaal;2021;0.0;;;;;;;
+1691;Arts met meerdere specialismen;Totaal;2022;0.0;;;;;;;
+1692;Arts met meerdere specialismen;Arts alleen werknemer (excl. DGA);2011;0.0;;;;;;;
+1693;Arts met meerdere specialismen;Arts alleen werknemer (excl. DGA);2012;0.0;;;;;;;
+1694;Arts met meerdere specialismen;Arts alleen werknemer (excl. DGA);2013;0.0;;;;;;;
+1695;Arts met meerdere specialismen;Arts alleen werknemer (excl. DGA);2014;0.0;;;;;;;
+1696;Arts met meerdere specialismen;Arts alleen werknemer (excl. DGA);2015;0.0;;;;;;;
+1697;Arts met meerdere specialismen;Arts alleen werknemer (excl. DGA);2016;0.0;;;;;;;
+1698;Arts met meerdere specialismen;Arts alleen werknemer (excl. DGA);2017;0.0;;;;;;;
+1699;Arts met meerdere specialismen;Arts alleen werknemer (excl. DGA);2018;0.0;;;;;;;
+1700;Arts met meerdere specialismen;Arts alleen werknemer (excl. DGA);2019;0.0;;;;;;;
+1701;Arts met meerdere specialismen;Arts alleen werknemer (excl. DGA);2020;0.0;;;;;;;
+1702;Arts met meerdere specialismen;Arts alleen werknemer (excl. DGA);2021;0.0;;;;;;;
+1703;Arts met meerdere specialismen;Arts alleen werknemer (excl. DGA);2022;0.0;;;;;;;
+1704;Arts met meerdere specialismen;Arts alleen zelfstandige (excl. DGA);2011;0.0;;;;;;;
+1705;Arts met meerdere specialismen;Arts alleen zelfstandige (excl. DGA);2012;0.0;;;;;;;
+1706;Arts met meerdere specialismen;Arts alleen zelfstandige (excl. DGA);2013;0.0;;;;;;;
+1707;Arts met meerdere specialismen;Arts alleen zelfstandige (excl. DGA);2014;0.0;;;;;;;
+1708;Arts met meerdere specialismen;Arts alleen zelfstandige (excl. DGA);2015;0.0;;;;;;;
+1709;Arts met meerdere specialismen;Arts alleen zelfstandige (excl. DGA);2016;0.0;;;;;;;
+1710;Arts met meerdere specialismen;Arts alleen zelfstandige (excl. DGA);2017;0.0;;;;;;;
+1711;Arts met meerdere specialismen;Arts alleen zelfstandige (excl. DGA);2018;0.0;;;;;;;
+1712;Arts met meerdere specialismen;Arts alleen zelfstandige (excl. DGA);2019;0.0;;;;;;;
+1713;Arts met meerdere specialismen;Arts alleen zelfstandige (excl. DGA);2020;0.0;;;;;;;
+1714;Arts met meerdere specialismen;Arts alleen zelfstandige (excl. DGA);2021;0.0;;;;;;;
+1715;Arts met meerdere specialismen;Arts alleen zelfstandige (excl. DGA);2022;0.0;;;;;;;
+1716;Arts met meerdere specialismen;Arts DGA;2011;0.0;;;;;;;
+1717;Arts met meerdere specialismen;Arts DGA;2012;0.0;;;;;;;
+1718;Arts met meerdere specialismen;Arts DGA;2013;0.0;;;;;;;
+1719;Arts met meerdere specialismen;Arts DGA;2014;0.0;;;;;;;
+1720;Arts met meerdere specialismen;Arts DGA;2015;0.0;;;;;;;
+1721;Arts met meerdere specialismen;Arts DGA;2016;0.0;;;;;;;
+1722;Arts met meerdere specialismen;Arts DGA;2017;0.0;;;;;;;
+1723;Arts met meerdere specialismen;Arts DGA;2018;0.0;;;;;;;
+1724;Arts met meerdere specialismen;Arts DGA;2019;0.0;;;;;;;
+1725;Arts met meerdere specialismen;Arts DGA;2020;0.0;;;;;;;
+1726;Arts met meerdere specialismen;Arts DGA;2021;0.0;;;;;;;
+1727;Arts met meerdere specialismen;Arts DGA;2022;0.0;;;;;;;
+1728;Arts met meerdere specialismen;Arts met overig of gecombineerd inkomen;2011;0.0;;;;;;;
+1729;Arts met meerdere specialismen;Arts met overig of gecombineerd inkomen;2012;0.0;;;;;;;
+1730;Arts met meerdere specialismen;Arts met overig of gecombineerd inkomen;2013;0.0;;;;;;;
+1731;Arts met meerdere specialismen;Arts met overig of gecombineerd inkomen;2014;0.0;;;;;;;
+1732;Arts met meerdere specialismen;Arts met overig of gecombineerd inkomen;2015;0.0;;;;;;;
+1733;Arts met meerdere specialismen;Arts met overig of gecombineerd inkomen;2016;0.0;;;;;;;
+1734;Arts met meerdere specialismen;Arts met overig of gecombineerd inkomen;2017;0.0;;;;;;;
+1735;Arts met meerdere specialismen;Arts met overig of gecombineerd inkomen;2018;0.0;;;;;;;
+1736;Arts met meerdere specialismen;Arts met overig of gecombineerd inkomen;2019;0.0;;;;;;;
+1737;Arts met meerdere specialismen;Arts met overig of gecombineerd inkomen;2020;0.0;;;;;;;
+1738;Arts met meerdere specialismen;Arts met overig of gecombineerd inkomen;2021;0.0;;;;;;;
+1739;Arts met meerdere specialismen;Arts met overig of gecombineerd inkomen;2022;0.0;;;;;;;
+1740;"Arts; huisartsgeneeskunde";Totaal;2011;10.4;99.8;14.1;16.5;23.6;0.9;0.4;66.0
+1741;"Arts; huisartsgeneeskunde";Totaal;2012;10.6;94.9;13.9;16.3;23.4;0.9;0.3;64.2
+1742;"Arts; huisartsgeneeskunde";Totaal;2013;10.8;90.6;13.7;16.8;23.9;0.7;0.3;62.8
+1743;"Arts; huisartsgeneeskunde";Totaal;2014;11.2;93.3;13.4;16.1;23.4;2.4;0.2;65.8
+1744;"Arts; huisartsgeneeskunde";Totaal;2015;11.5;89.7;13.3;16.0;23.4;0.4;0.2;62.4
+1745;"Arts; huisartsgeneeskunde";Totaal;2016;11.6;94.2;13.3;16.1;23.5;0.5;0.2;64.9
+1746;"Arts; huisartsgeneeskunde";Totaal;2017;12.0;92.7;13.3;16.3;24.9;0.9;0.2;65.1
+1747;"Arts; huisartsgeneeskunde";Totaal;2018;12.3;95.1;13.1;16.0;;0.8;0.2;65.3
+1748;"Arts; huisartsgeneeskunde";Totaal;2019;12.7;98.7;13.0;15.8;;2.1;0.3;70.4
+1749;"Arts; huisartsgeneeskunde";Totaal;2020;13.1;103.6;13.3;16.1;;1.7;0.2;72.2
+1750;"Arts; huisartsgeneeskunde";Totaal;2021;13.3;103.7;14.3;17.2;;1.4;0.3;73.3
+1751;"Arts; huisartsgeneeskunde";Totaal;2022;13.4;;14.8;17.7;;;;
+1752;"Arts; huisartsgeneeskunde";Arts alleen werknemer (excl. DGA);2011;1.2;;58.8;70.2;90.1;;;46.6
+1753;"Arts; huisartsgeneeskunde";Arts alleen werknemer (excl. DGA);2012;1.2;;60.4;72.8;92.4;;;47.4
+1754;"Arts; huisartsgeneeskunde";Arts alleen werknemer (excl. DGA);2013;1.2;;61.3;76.9;97.7;;;48.4
+1755;"Arts; huisartsgeneeskunde";Arts alleen werknemer (excl. DGA);2014;1.2;;61.4;76.7;98.6;;;50.2
+1756;"Arts; huisartsgeneeskunde";Arts alleen werknemer (excl. DGA);2015;1.2;;61.9;76.2;98.0;;;49.0
+1757;"Arts; huisartsgeneeskunde";Arts alleen werknemer (excl. DGA);2016;1.2;;62.4;78.9;101.7;;;49.8
+1758;"Arts; huisartsgeneeskunde";Arts alleen werknemer (excl. DGA);2017;1.2;;63.8;81.1;106.4;;;52.5
+1759;"Arts; huisartsgeneeskunde";Arts alleen werknemer (excl. DGA);2018;1.2;;65.0;84.2;;;;52.1
+1760;"Arts; huisartsgeneeskunde";Arts alleen werknemer (excl. DGA);2019;1.1;;66.6;85.7;;;;56.6
+1761;"Arts; huisartsgeneeskunde";Arts alleen werknemer (excl. DGA);2020;1.2;;67.0;85.4;;;;58.9
+1762;"Arts; huisartsgeneeskunde";Arts alleen werknemer (excl. DGA);2021;1.2;;68.3;86.6;;;;57.5
+1763;"Arts; huisartsgeneeskunde";Arts alleen werknemer (excl. DGA);2022;1.2;;69.4;87.7;;;;
+1764;"Arts; huisartsgeneeskunde";Arts alleen zelfstandige (excl. DGA);2011;7.7;123.9;;;;;;69.3
+1765;"Arts; huisartsgeneeskunde";Arts alleen zelfstandige (excl. DGA);2012;8.0;117.0;;;;;;66.7
+1766;"Arts; huisartsgeneeskunde";Arts alleen zelfstandige (excl. DGA);2013;8.3;111.3;;;;;;64.9
+1767;"Arts; huisartsgeneeskunde";Arts alleen zelfstandige (excl. DGA);2014;8.6;113.4;;;;;;66.8
+1768;"Arts; huisartsgeneeskunde";Arts alleen zelfstandige (excl. DGA);2015;9.0;108.2;;;;;;64.1
+1769;"Arts; huisartsgeneeskunde";Arts alleen zelfstandige (excl. DGA);2016;9.1;113.3;;;;;;66.9
+1770;"Arts; huisartsgeneeskunde";Arts alleen zelfstandige (excl. DGA);2017;9.4;111.2;;;;;;66.2
+1771;"Arts; huisartsgeneeskunde";Arts alleen zelfstandige (excl. DGA);2018;9.7;113.3;;;;;;66.7
+1772;"Arts; huisartsgeneeskunde";Arts alleen zelfstandige (excl. DGA);2019;10.1;116.9;;;;;;71.0
+1773;"Arts; huisartsgeneeskunde";Arts alleen zelfstandige (excl. DGA);2020;10.4;123.2;;;;;;73.5
+1774;"Arts; huisartsgeneeskunde";Arts alleen zelfstandige (excl. DGA);2021;10.4;125.2;;;;;;75.2
+1775;"Arts; huisartsgeneeskunde";Arts alleen zelfstandige (excl. DGA);2022;10.4;;;;;;;
+1776;"Arts; huisartsgeneeskunde";Arts DGA;2011;0.3;8.8;84.8;88.6;93.8;24.8;;68.7
+1777;"Arts; huisartsgeneeskunde";Arts DGA;2012;0.3;10.0;84.4;87.4;94.2;25.8;;72.0
+1778;"Arts; huisartsgeneeskunde";Arts DGA;2013;0.3;9.5;86.3;100.0;109.3;20.7;;70.0
+1779;"Arts; huisartsgeneeskunde";Arts DGA;2014;0.4;10.1;86.5;89.8;97.0;76.2;;101.6
+1780;"Arts; huisartsgeneeskunde";Arts DGA;2015;0.3;12.2;86.8;95.4;104.1;13.7;;68.7
+1781;"Arts; huisartsgeneeskunde";Arts DGA;2016;0.3;10.1;87.7;92.7;104.5;16.5;;65.8
+1782;"Arts; huisartsgeneeskunde";Arts DGA;2017;0.4;11.8;89.4;98.2;107.7;28.6;;78.3
+1783;"Arts; huisartsgeneeskunde";Arts DGA;2018;0.4;11.9;87.1;91.7;;24.6;;70.1
+1784;"Arts; huisartsgeneeskunde";Arts DGA;2019;0.4;13.5;86.1;90.6;;65.3;;95.5
+1785;"Arts; huisartsgeneeskunde";Arts DGA;2020;0.5;13.3;86.3;90.3;;48.6;;87.7
+1786;"Arts; huisartsgeneeskunde";Arts DGA;2021;0.5;14.4;85.8;89.1;;33.2;;80.6
+1787;"Arts; huisartsgeneeskunde";Arts DGA;2022;0.5;;87.1;91.6;;;;
+1788;"Arts; huisartsgeneeskunde";Arts met overig of gecombineerd inkomen;2011;1.1;65.3;35.5;42.1;80.8;0.6;4.2;62.7
+1789;"Arts; huisartsgeneeskunde";Arts met overig of gecombineerd inkomen;2012;1.1;63.3;33.7;40.2;81.5;0.5;3.5;62.0
+1790;"Arts; huisartsgeneeskunde";Arts met overig of gecombineerd inkomen;2013;1.0;56.4;36.1;43.8;86.8;0.2;3.0;60.0
+1791;"Arts; huisartsgeneeskunde";Arts met overig of gecombineerd inkomen;2014;1.0;59.8;36.0;43.9;89.5;0.4;3.0;63.3
+1792;"Arts; huisartsgeneeskunde";Arts met overig of gecombineerd inkomen;2015;1.0;59.1;36.8;44.2;92.5;0.0;2.6;62.1
+1793;"Arts; huisartsgeneeskunde";Arts met overig of gecombineerd inkomen;2016;1.0;61.6;36.4;44.4;93.6;0.2;2.6;64.0
+1794;"Arts; huisartsgeneeskunde";Arts met overig of gecombineerd inkomen;2017;1.0;59.9;36.3;44.3;95.3;0.3;2.8;65.3
+1795;"Arts; huisartsgeneeskunde";Arts met overig of gecombineerd inkomen;2018;1.0;60.5;37.5;45.8;;0.1;2.9;65.4
+1796;"Arts; huisartsgeneeskunde";Arts met overig of gecombineerd inkomen;2019;1.0;61.5;38.0;46.5;;0.9;3.3;68.5
+1797;"Arts; huisartsgeneeskunde";Arts met overig of gecombineerd inkomen;2020;1.0;65.6;38.0;46.4;;0.2;3.2;68.4
+1798;"Arts; huisartsgeneeskunde";Arts met overig of gecombineerd inkomen;2021;1.1;60.4;39.3;48.0;;0.8;3.3;69.8
+1799;"Arts; huisartsgeneeskunde";Arts met overig of gecombineerd inkomen;2022;1.2;;46.0;54.6;;;;
+1800;Tandarts;Totaal;2011;7.8;80.0;25.3;27.9;33.3;5.7;0.5;64.3
+1801;Tandarts;Totaal;2012;7.8;82.8;24.3;26.5;31.6;4.4;0.4;64.7
+1802;Tandarts;Totaal;2013;7.9;77.8;23.5;27.8;32.8;3.2;0.3;62.5
+1803;Tandarts;Totaal;2014;7.9;84.1;22.9;25.2;29.9;13.8;0.4;72.1
+1804;Tandarts;Totaal;2015;8.2;81.8;23.2;25.9;31.3;2.3;0.3;64.1
+1805;Tandarts;Totaal;2016;8.2;79.6;23.3;25.8;31.3;3.6;0.3;64.9
+1806;Tandarts;Totaal;2017;8.2;80.9;23.1;25.9;31.4;4.3;0.3;69.7
+1807;Tandarts;Totaal;2018;8.3;82.3;23.0;25.4;;6.6;0.3;68.2
+1808;Tandarts;Totaal;2019;8.5;84.0;23.3;25.2;;16.2;0.3;77.5
+1809;Tandarts;Totaal;2020;8.6;76.5;22.3;24.3;;5.4;0.3;69.3
+1810;Tandarts;Totaal;2021;8.8;82.2;23.4;25.5;;5.6;0.4;72.5
+1811;Tandarts;Totaal;2022;8.7;;24.7;26.8;;;;
+1812;Tandarts;Arts alleen werknemer (excl. DGA);2011;0.6;;73.4;85.6;105.4;;;51.2
+1813;Tandarts;Arts alleen werknemer (excl. DGA);2012;0.6;;71.9;82.7;101.6;;;49.9
+1814;Tandarts;Arts alleen werknemer (excl. DGA);2013;0.6;;69.3;84.6;106.2;;;49.6
+1815;Tandarts;Arts alleen werknemer (excl. DGA);2014;0.6;;66.8;79.6;99.8;;;57.5
+1816;Tandarts;Arts alleen werknemer (excl. DGA);2015;0.6;;68.0;79.7;100.8;;;49.2
+1817;Tandarts;Arts alleen werknemer (excl. DGA);2016;0.7;;67.6;79.7;99.8;;;51.8
+1818;Tandarts;Arts alleen werknemer (excl. DGA);2017;0.6;;68.6;81.6;100.8;;;55.0
+1819;Tandarts;Arts alleen werknemer (excl. DGA);2018;0.6;;68.8;84.8;;;;53.6
+1820;Tandarts;Arts alleen werknemer (excl. DGA);2019;0.7;;67.8;79.2;;;;59.4
+1821;Tandarts;Arts alleen werknemer (excl. DGA);2020;0.7;;69.1;80.5;;;;53.8
+1822;Tandarts;Arts alleen werknemer (excl. DGA);2021;0.7;;71.8;84.2;;;;58.6
+1823;Tandarts;Arts alleen werknemer (excl. DGA);2022;0.7;;72.9;85.1;;;;
+1824;Tandarts;Arts alleen zelfstandige (excl. DGA);2011;5.3;112.5;;;;;;64.1
+1825;Tandarts;Arts alleen zelfstandige (excl. DGA);2012;5.4;114.5;;;;;;65.6
+1826;Tandarts;Arts alleen zelfstandige (excl. DGA);2013;5.4;107.1;;;;;;62.9
+1827;Tandarts;Arts alleen zelfstandige (excl. DGA);2014;5.5;114.8;;;;;;67.4
+1828;Tandarts;Arts alleen zelfstandige (excl. DGA);2015;5.7;112.4;;;;;;66.3
+1829;Tandarts;Arts alleen zelfstandige (excl. DGA);2016;5.7;110.2;;;;;;66.0
+1830;Tandarts;Arts alleen zelfstandige (excl. DGA);2017;5.7;110.5;;;;;;67.6
+1831;Tandarts;Arts alleen zelfstandige (excl. DGA);2018;5.8;112.4;;;;;;68.1
+1832;Tandarts;Arts alleen zelfstandige (excl. DGA);2019;5.9;115.7;;;;;;73.0
+1833;Tandarts;Arts alleen zelfstandige (excl. DGA);2020;6.0;104.9;;;;;;69.7
+1834;Tandarts;Arts alleen zelfstandige (excl. DGA);2021;6.0;114.2;;;;;;72.6
+1835;Tandarts;Arts alleen zelfstandige (excl. DGA);2022;5.9;;;;;;;
+1836;Tandarts;Arts DGA;2011;1.4;3.0;95.0;101.7;110.6;30.9;;72.3
+1837;Tandarts;Arts DGA;2012;1.4;4.2;94.2;99.6;108.6;23.9;;69.6
+1838;Tandarts;Arts DGA;2013;1.4;2.9;93.2;109.2;119.1;18.1;;67.8
+1839;Tandarts;Arts DGA;2014;1.4;3.8;93.4;98.4;107.3;79.5;;100.5
+1840;Tandarts;Arts DGA;2015;1.4;4.7;92.2;100.2;109.4;13.5;;63.1
+1841;Tandarts;Arts DGA;2016;1.4;5.2;91.1;96.9;107.3;19.5;;68.9
+1842;Tandarts;Arts DGA;2017;1.4;5.0;92.5;100.4;109.0;24.1;;87.6
+1843;Tandarts;Arts DGA;2018;1.4;5.9;91.8;96.3;;37.3;;77.6
+1844;Tandarts;Arts DGA;2019;1.5;5.4;90.6;94.3;;87.3;;107.3
+1845;Tandarts;Arts DGA;2020;1.5;5.4;85.8;89.6;;31.8;;76.7
+1846;Tandarts;Arts DGA;2021;1.6;5.8;85.7;89.3;;31.8;;79.7
+1847;Tandarts;Arts DGA;2022;1.6;;86.1;89.8;;;;
+1848;Tandarts;Arts met overig of gecombineerd inkomen;2011;0.5;53.3;32.4;38.4;75.3;2.9;6.9;59.7
+1849;Tandarts;Arts met overig of gecombineerd inkomen;2012;0.5;56.8;33.1;39.5;76.1;3.1;5.7;60.2
+1850;Tandarts;Arts met overig of gecombineerd inkomen;2013;0.5;51.3;31.8;38.4;78.9;0.7;4.5;56.3
+1851;Tandarts;Arts met overig of gecombineerd inkomen;2014;0.5;56.2;32.6;39.0;75.2;4.4;6.0;64.2
+1852;Tandarts;Arts met overig of gecombineerd inkomen;2015;0.4;52.8;32.3;38.9;76.9;0.8;6.2;58.7
+1853;Tandarts;Arts met overig of gecombineerd inkomen;2016;0.5;51.1;30.7;36.8;75.3;0.4;5.2;57.5
+1854;Tandarts;Arts met overig of gecombineerd inkomen;2017;0.5;53.4;31.1;37.1;74.4;1.1;5.3;61.6
+1855;Tandarts;Arts met overig of gecombineerd inkomen;2018;0.5;55.1;31.7;38.1;;1.4;5.9;60.8
+1856;Tandarts;Arts met overig of gecombineerd inkomen;2019;0.5;54.1;34.2;40.4;;8.5;5.5;68.1
+1857;Tandarts;Arts met overig of gecombineerd inkomen;2020;0.5;50.3;35.8;41.8;;3.1;5.3;64.6
+1858;Tandarts;Arts met overig of gecombineerd inkomen;2021;0.5;54.4;33.2;39.1;;0.5;6.9;66.8
+1859;Tandarts;Arts met overig of gecombineerd inkomen;2022;0.6;;44.2;49.8;;;;

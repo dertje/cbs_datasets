@@ -1,0 +1,1369 @@
+﻿ID;Margins;Regions;Periods;BusinessConfidence_1
+0;Value;Groningen (PV);2014 1st quarter;-19.1
+1;Value;Groningen (PV);2014 2nd quarter;-17.3
+2;Value;Groningen (PV);2014 3rd quarter;-12.6
+3;Value;Groningen (PV);2014 4th quarter;6.1
+4;Value;Groningen (PV);2015 1st quarter;-8.9
+5;Value;Groningen (PV);2015 2nd quarter;-5.0
+6;Value;Groningen (PV);2015 3rd quarter;8.5
+7;Value;Groningen (PV);2015 4th quarter;8.9
+8;Value;Groningen (PV);2016 1st quarter;4.0
+9;Value;Groningen (PV);2016 2nd quarter;-2.2
+10;Value;Groningen (PV);2016 3rd quarter;-7.4
+11;Value;Groningen (PV);2016 4th quarter;0.5
+12;Value;Groningen (PV);2017 1st quarter;2.0
+13;Value;Groningen (PV);2017 2nd quarter;9.9
+14;Value;Groningen (PV);2017 3rd quarter;7.1
+15;Value;Groningen (PV);2017 4th quarter;6.4
+16;Value;Groningen (PV);2018 1st quarter;13.8
+17;Value;Groningen (PV);2018 2nd quarter;2.7
+18;Value;Groningen (PV);2018 3rd quarter;-5.8
+19;Value;Groningen (PV);2018 4th quarter;9.7
+20;Value;Groningen (PV);2019 1st quarter;6.3
+21;Value;Groningen (PV);2019 2nd quarter;3.9
+22;Value;Groningen (PV);2019 3rd quarter;5.3
+23;Value;Groningen (PV);2019 4th quarter;4.2
+24;Value;Groningen (PV);2020 1st quarter;-5.7
+25;Value;Groningen (PV);2020 2nd quarter;-25.7
+26;Value;Groningen (PV);2020 3rd quarter;-16.1
+27;Value;Groningen (PV);2020 4th quarter;-12.9
+28;Value;Groningen (PV);2021 1st quarter;-12.1
+29;Value;Groningen (PV);2021 2nd quarter;9.0
+30;Value;Groningen (PV);2021 3rd quarter;19.0
+31;Value;Groningen (PV);2021 4th quarter;14.8
+32;Value;Groningen (PV);2022 1st quarter;5.3
+33;Value;Groningen (PV);2022 2nd quarter;7.3
+34;Value;Groningen (PV);2022 3rd quarter;1.6
+35;Value;Groningen (PV);2022 4th quarter;-7.1
+36;Value;Groningen (PV);2023 1st quarter;-4.2
+37;Value;Groningen (PV);2023 2nd quarter;-3.2
+38;Value;Fryslân (PV);2014 1st quarter;1.6
+39;Value;Fryslân (PV);2014 2nd quarter;-0.5
+40;Value;Fryslân (PV);2014 3rd quarter;0.1
+41;Value;Fryslân (PV);2014 4th quarter;2.2
+42;Value;Fryslân (PV);2015 1st quarter;2.7
+43;Value;Fryslân (PV);2015 2nd quarter;5.6
+44;Value;Fryslân (PV);2015 3rd quarter;8.0
+45;Value;Fryslân (PV);2015 4th quarter;13.7
+46;Value;Fryslân (PV);2016 1st quarter;4.4
+47;Value;Fryslân (PV);2016 2nd quarter;7.0
+48;Value;Fryslân (PV);2016 3rd quarter;6.8
+49;Value;Fryslân (PV);2016 4th quarter;7.7
+50;Value;Fryslân (PV);2017 1st quarter;11.4
+51;Value;Fryslân (PV);2017 2nd quarter;14.2
+52;Value;Fryslân (PV);2017 3rd quarter;14.6
+53;Value;Fryslân (PV);2017 4th quarter;14.2
+54;Value;Fryslân (PV);2018 1st quarter;16.4
+55;Value;Fryslân (PV);2018 2nd quarter;20.0
+56;Value;Fryslân (PV);2018 3rd quarter;13.6
+57;Value;Fryslân (PV);2018 4th quarter;13.2
+58;Value;Fryslân (PV);2019 1st quarter;10.6
+59;Value;Fryslân (PV);2019 2nd quarter;11.9
+60;Value;Fryslân (PV);2019 3rd quarter;8.2
+61;Value;Fryslân (PV);2019 4th quarter;3.8
+62;Value;Fryslân (PV);2020 1st quarter;6.5
+63;Value;Fryslân (PV);2020 2nd quarter;-24.8
+64;Value;Fryslân (PV);2020 3rd quarter;-15.3
+65;Value;Fryslân (PV);2020 4th quarter;-3.8
+66;Value;Fryslân (PV);2021 1st quarter;-3.2
+67;Value;Fryslân (PV);2021 2nd quarter;0.7
+68;Value;Fryslân (PV);2021 3rd quarter;10.4
+69;Value;Fryslân (PV);2021 4th quarter;9.0
+70;Value;Fryslân (PV);2022 1st quarter;3.1
+71;Value;Fryslân (PV);2022 2nd quarter;11.3
+72;Value;Fryslân (PV);2022 3rd quarter;0.3
+73;Value;Fryslân (PV);2022 4th quarter;-3.5
+74;Value;Fryslân (PV);2023 1st quarter;4.4
+75;Value;Fryslân (PV);2023 2nd quarter;0.9
+76;Value;Drenthe (PV);2014 1st quarter;-2.9
+77;Value;Drenthe (PV);2014 2nd quarter;-3.3
+78;Value;Drenthe (PV);2014 3rd quarter;-2.2
+79;Value;Drenthe (PV);2014 4th quarter;1.0
+80;Value;Drenthe (PV);2015 1st quarter;2.7
+81;Value;Drenthe (PV);2015 2nd quarter;-0.8
+82;Value;Drenthe (PV);2015 3rd quarter;7.1
+83;Value;Drenthe (PV);2015 4th quarter;4.2
+84;Value;Drenthe (PV);2016 1st quarter;3.2
+85;Value;Drenthe (PV);2016 2nd quarter;4.8
+86;Value;Drenthe (PV);2016 3rd quarter;2.8
+87;Value;Drenthe (PV);2016 4th quarter;7.4
+88;Value;Drenthe (PV);2017 1st quarter;6.4
+89;Value;Drenthe (PV);2017 2nd quarter;14.3
+90;Value;Drenthe (PV);2017 3rd quarter;11.8
+91;Value;Drenthe (PV);2017 4th quarter;10.5
+92;Value;Drenthe (PV);2018 1st quarter;16.4
+93;Value;Drenthe (PV);2018 2nd quarter;12.1
+94;Value;Drenthe (PV);2018 3rd quarter;7.9
+95;Value;Drenthe (PV);2018 4th quarter;8.7
+96;Value;Drenthe (PV);2019 1st quarter;8.1
+97;Value;Drenthe (PV);2019 2nd quarter;6.3
+98;Value;Drenthe (PV);2019 3rd quarter;7.9
+99;Value;Drenthe (PV);2019 4th quarter;1.2
+100;Value;Drenthe (PV);2020 1st quarter;-1.5
+101;Value;Drenthe (PV);2020 2nd quarter;-37.3
+102;Value;Drenthe (PV);2020 3rd quarter;-23.5
+103;Value;Drenthe (PV);2020 4th quarter;-12.0
+104;Value;Drenthe (PV);2021 1st quarter;-14.0
+105;Value;Drenthe (PV);2021 2nd quarter;-5.4
+106;Value;Drenthe (PV);2021 3rd quarter;9.5
+107;Value;Drenthe (PV);2021 4th quarter;11.7
+108;Value;Drenthe (PV);2022 1st quarter;5.4
+109;Value;Drenthe (PV);2022 2nd quarter;5.9
+110;Value;Drenthe (PV);2022 3rd quarter;1.8
+111;Value;Drenthe (PV);2022 4th quarter;-1.8
+112;Value;Drenthe (PV);2023 1st quarter;0.5
+113;Value;Drenthe (PV);2023 2nd quarter;0.2
+114;Value;Overijssel (PV);2014 1st quarter;-4.4
+115;Value;Overijssel (PV);2014 2nd quarter;-2.5
+116;Value;Overijssel (PV);2014 3rd quarter;-1.4
+117;Value;Overijssel (PV);2014 4th quarter;4.1
+118;Value;Overijssel (PV);2015 1st quarter;1.1
+119;Value;Overijssel (PV);2015 2nd quarter;2.8
+120;Value;Overijssel (PV);2015 3rd quarter;5.6
+121;Value;Overijssel (PV);2015 4th quarter;9.7
+122;Value;Overijssel (PV);2016 1st quarter;8.3
+123;Value;Overijssel (PV);2016 2nd quarter;6.8
+124;Value;Overijssel (PV);2016 3rd quarter;7.2
+125;Value;Overijssel (PV);2016 4th quarter;8.8
+126;Value;Overijssel (PV);2017 1st quarter;11.6
+127;Value;Overijssel (PV);2017 2nd quarter;14.3
+128;Value;Overijssel (PV);2017 3rd quarter;15.1
+129;Value;Overijssel (PV);2017 4th quarter;15.3
+130;Value;Overijssel (PV);2018 1st quarter;17.8
+131;Value;Overijssel (PV);2018 2nd quarter;12.8
+132;Value;Overijssel (PV);2018 3rd quarter;12.9
+133;Value;Overijssel (PV);2018 4th quarter;12.5
+134;Value;Overijssel (PV);2019 1st quarter;14.0
+135;Value;Overijssel (PV);2019 2nd quarter;10.0
+136;Value;Overijssel (PV);2019 3rd quarter;9.3
+137;Value;Overijssel (PV);2019 4th quarter;5.9
+138;Value;Overijssel (PV);2020 1st quarter;4.9
+139;Value;Overijssel (PV);2020 2nd quarter;-31.5
+140;Value;Overijssel (PV);2020 3rd quarter;-15.8
+141;Value;Overijssel (PV);2020 4th quarter;-8.7
+142;Value;Overijssel (PV);2021 1st quarter;-2.8
+143;Value;Overijssel (PV);2021 2nd quarter;8.1
+144;Value;Overijssel (PV);2021 3rd quarter;14.9
+145;Value;Overijssel (PV);2021 4th quarter;11.6
+146;Value;Overijssel (PV);2022 1st quarter;9.4
+147;Value;Overijssel (PV);2022 2nd quarter;12.7
+148;Value;Overijssel (PV);2022 3rd quarter;6.3
+149;Value;Overijssel (PV);2022 4th quarter;0.6
+150;Value;Overijssel (PV);2023 1st quarter;0.8
+151;Value;Overijssel (PV);2023 2nd quarter;0.4
+152;Value;Flevoland (PV);2014 1st quarter;-1.5
+153;Value;Flevoland (PV);2014 2nd quarter;-0.6
+154;Value;Flevoland (PV);2014 3rd quarter;-1.4
+155;Value;Flevoland (PV);2014 4th quarter;4.7
+156;Value;Flevoland (PV);2015 1st quarter;5.1
+157;Value;Flevoland (PV);2015 2nd quarter;7.0
+158;Value;Flevoland (PV);2015 3rd quarter;7.2
+159;Value;Flevoland (PV);2015 4th quarter;8.3
+160;Value;Flevoland (PV);2016 1st quarter;11.5
+161;Value;Flevoland (PV);2016 2nd quarter;4.0
+162;Value;Flevoland (PV);2016 3rd quarter;10.9
+163;Value;Flevoland (PV);2016 4th quarter;12.0
+164;Value;Flevoland (PV);2017 1st quarter;14.3
+165;Value;Flevoland (PV);2017 2nd quarter;14.1
+166;Value;Flevoland (PV);2017 3rd quarter;15.3
+167;Value;Flevoland (PV);2017 4th quarter;13.4
+168;Value;Flevoland (PV);2018 1st quarter;9.1
+169;Value;Flevoland (PV);2018 2nd quarter;5.4
+170;Value;Flevoland (PV);2018 3rd quarter;7.0
+171;Value;Flevoland (PV);2018 4th quarter;7.4
+172;Value;Flevoland (PV);2019 1st quarter;5.8
+173;Value;Flevoland (PV);2019 2nd quarter;2.5
+174;Value;Flevoland (PV);2019 3rd quarter;7.0
+175;Value;Flevoland (PV);2019 4th quarter;4.6
+176;Value;Flevoland (PV);2020 1st quarter;2.8
+177;Value;Flevoland (PV);2020 2nd quarter;-28.8
+178;Value;Flevoland (PV);2020 3rd quarter;-16.7
+179;Value;Flevoland (PV);2020 4th quarter;-11.1
+180;Value;Flevoland (PV);2021 1st quarter;-11.1
+181;Value;Flevoland (PV);2021 2nd quarter;-2.8
+182;Value;Flevoland (PV);2021 3rd quarter;14.5
+183;Value;Flevoland (PV);2021 4th quarter;11.9
+184;Value;Flevoland (PV);2022 1st quarter;1.5
+185;Value;Flevoland (PV);2022 2nd quarter;15.0
+186;Value;Flevoland (PV);2022 3rd quarter;8.3
+187;Value;Flevoland (PV);2022 4th quarter;-4.8
+188;Value;Flevoland (PV);2023 1st quarter;5.0
+189;Value;Flevoland (PV);2023 2nd quarter;-1.4
+190;Value;Gelderland (PV);2014 1st quarter;-2.3
+191;Value;Gelderland (PV);2014 2nd quarter;0.4
+192;Value;Gelderland (PV);2014 3rd quarter;2.7
+193;Value;Gelderland (PV);2014 4th quarter;3.9
+194;Value;Gelderland (PV);2015 1st quarter;3.8
+195;Value;Gelderland (PV);2015 2nd quarter;4.7
+196;Value;Gelderland (PV);2015 3rd quarter;10.9
+197;Value;Gelderland (PV);2015 4th quarter;8.7
+198;Value;Gelderland (PV);2016 1st quarter;9.7
+199;Value;Gelderland (PV);2016 2nd quarter;9.7
+200;Value;Gelderland (PV);2016 3rd quarter;10.0
+201;Value;Gelderland (PV);2016 4th quarter;11.7
+202;Value;Gelderland (PV);2017 1st quarter;15.1
+203;Value;Gelderland (PV);2017 2nd quarter;16.8
+204;Value;Gelderland (PV);2017 3rd quarter;17.3
+205;Value;Gelderland (PV);2017 4th quarter;17.0
+206;Value;Gelderland (PV);2018 1st quarter;17.4
+207;Value;Gelderland (PV);2018 2nd quarter;14.3
+208;Value;Gelderland (PV);2018 3rd quarter;19.1
+209;Value;Gelderland (PV);2018 4th quarter;14.7
+210;Value;Gelderland (PV);2019 1st quarter;10.1
+211;Value;Gelderland (PV);2019 2nd quarter;11.2
+212;Value;Gelderland (PV);2019 3rd quarter;10.1
+213;Value;Gelderland (PV);2019 4th quarter;7.6
+214;Value;Gelderland (PV);2020 1st quarter;7.5
+215;Value;Gelderland (PV);2020 2nd quarter;-34.1
+216;Value;Gelderland (PV);2020 3rd quarter;-18.6
+217;Value;Gelderland (PV);2020 4th quarter;-8.1
+218;Value;Gelderland (PV);2021 1st quarter;-7.7
+219;Value;Gelderland (PV);2021 2nd quarter;5.7
+220;Value;Gelderland (PV);2021 3rd quarter;18.8
+221;Value;Gelderland (PV);2021 4th quarter;12.4
+222;Value;Gelderland (PV);2022 1st quarter;0.7
+223;Value;Gelderland (PV);2022 2nd quarter;8.7
+224;Value;Gelderland (PV);2022 3rd quarter;6.3
+225;Value;Gelderland (PV);2022 4th quarter;0.2
+226;Value;Gelderland (PV);2023 1st quarter;3.2
+227;Value;Gelderland (PV);2023 2nd quarter;2.6
+228;Value;Utrecht (PV);2014 1st quarter;-6.6
+229;Value;Utrecht (PV);2014 2nd quarter;4.6
+230;Value;Utrecht (PV);2014 3rd quarter;-0.7
+231;Value;Utrecht (PV);2014 4th quarter;3.4
+232;Value;Utrecht (PV);2015 1st quarter;6.6
+233;Value;Utrecht (PV);2015 2nd quarter;4.3
+234;Value;Utrecht (PV);2015 3rd quarter;4.7
+235;Value;Utrecht (PV);2015 4th quarter;7.6
+236;Value;Utrecht (PV);2016 1st quarter;7.1
+237;Value;Utrecht (PV);2016 2nd quarter;6.7
+238;Value;Utrecht (PV);2016 3rd quarter;11.5
+239;Value;Utrecht (PV);2016 4th quarter;9.4
+240;Value;Utrecht (PV);2017 1st quarter;11.4
+241;Value;Utrecht (PV);2017 2nd quarter;14.9
+242;Value;Utrecht (PV);2017 3rd quarter;11.5
+243;Value;Utrecht (PV);2017 4th quarter;8.9
+244;Value;Utrecht (PV);2018 1st quarter;7.0
+245;Value;Utrecht (PV);2018 2nd quarter;10.0
+246;Value;Utrecht (PV);2018 3rd quarter;13.2
+247;Value;Utrecht (PV);2018 4th quarter;14.4
+248;Value;Utrecht (PV);2019 1st quarter;9.8
+249;Value;Utrecht (PV);2019 2nd quarter;9.7
+250;Value;Utrecht (PV);2019 3rd quarter;10.6
+251;Value;Utrecht (PV);2019 4th quarter;5.7
+252;Value;Utrecht (PV);2020 1st quarter;1.6
+253;Value;Utrecht (PV);2020 2nd quarter;-34.6
+254;Value;Utrecht (PV);2020 3rd quarter;-23.1
+255;Value;Utrecht (PV);2020 4th quarter;-8.9
+256;Value;Utrecht (PV);2021 1st quarter;-7.9
+257;Value;Utrecht (PV);2021 2nd quarter;4.4
+258;Value;Utrecht (PV);2021 3rd quarter;20.0
+259;Value;Utrecht (PV);2021 4th quarter;15.2
+260;Value;Utrecht (PV);2022 1st quarter;3.5
+261;Value;Utrecht (PV);2022 2nd quarter;13.8
+262;Value;Utrecht (PV);2022 3rd quarter;6.9
+263;Value;Utrecht (PV);2022 4th quarter;-1.9
+264;Value;Utrecht (PV);2023 1st quarter;6.2
+265;Value;Utrecht (PV);2023 2nd quarter;8.9
+266;Value;Noord-Holland (PV);2014 1st quarter;-3.1
+267;Value;Noord-Holland (PV);2014 2nd quarter;-0.5
+268;Value;Noord-Holland (PV);2014 3rd quarter;4.8
+269;Value;Noord-Holland (PV);2014 4th quarter;5.8
+270;Value;Noord-Holland (PV);2015 1st quarter;5.3
+271;Value;Noord-Holland (PV);2015 2nd quarter;7.5
+272;Value;Noord-Holland (PV);2015 3rd quarter;9.5
+273;Value;Noord-Holland (PV);2015 4th quarter;11.1
+274;Value;Noord-Holland (PV);2016 1st quarter;9.0
+275;Value;Noord-Holland (PV);2016 2nd quarter;8.1
+276;Value;Noord-Holland (PV);2016 3rd quarter;9.5
+277;Value;Noord-Holland (PV);2016 4th quarter;8.9
+278;Value;Noord-Holland (PV);2017 1st quarter;14.9
+279;Value;Noord-Holland (PV);2017 2nd quarter;15.5
+280;Value;Noord-Holland (PV);2017 3rd quarter;14.7
+281;Value;Noord-Holland (PV);2017 4th quarter;15.3
+282;Value;Noord-Holland (PV);2018 1st quarter;18.7
+283;Value;Noord-Holland (PV);2018 2nd quarter;15.4
+284;Value;Noord-Holland (PV);2018 3rd quarter;18.0
+285;Value;Noord-Holland (PV);2018 4th quarter;14.9
+286;Value;Noord-Holland (PV);2019 1st quarter;6.9
+287;Value;Noord-Holland (PV);2019 2nd quarter;10.6
+288;Value;Noord-Holland (PV);2019 3rd quarter;12.8
+289;Value;Noord-Holland (PV);2019 4th quarter;7.0
+290;Value;Noord-Holland (PV);2020 1st quarter;5.5
+291;Value;Noord-Holland (PV);2020 2nd quarter;-38.0
+292;Value;Noord-Holland (PV);2020 3rd quarter;-23.1
+293;Value;Noord-Holland (PV);2020 4th quarter;-7.7
+294;Value;Noord-Holland (PV);2021 1st quarter;-7.6
+295;Value;Noord-Holland (PV);2021 2nd quarter;2.5
+296;Value;Noord-Holland (PV);2021 3rd quarter;19.8
+297;Value;Noord-Holland (PV);2021 4th quarter;17.2
+298;Value;Noord-Holland (PV);2022 1st quarter;6.8
+299;Value;Noord-Holland (PV);2022 2nd quarter;16.3
+300;Value;Noord-Holland (PV);2022 3rd quarter;8.3
+301;Value;Noord-Holland (PV);2022 4th quarter;4.2
+302;Value;Noord-Holland (PV);2023 1st quarter;5.2
+303;Value;Noord-Holland (PV);2023 2nd quarter;8.8
+304;Value;Zuid-Holland (PV);2014 1st quarter;-0.8
+305;Value;Zuid-Holland (PV);2014 2nd quarter;2.5
+306;Value;Zuid-Holland (PV);2014 3rd quarter;3.0
+307;Value;Zuid-Holland (PV);2014 4th quarter;2.6
+308;Value;Zuid-Holland (PV);2015 1st quarter;2.3
+309;Value;Zuid-Holland (PV);2015 2nd quarter;2.9
+310;Value;Zuid-Holland (PV);2015 3rd quarter;6.5
+311;Value;Zuid-Holland (PV);2015 4th quarter;9.0
+312;Value;Zuid-Holland (PV);2016 1st quarter;6.6
+313;Value;Zuid-Holland (PV);2016 2nd quarter;8.1
+314;Value;Zuid-Holland (PV);2016 3rd quarter;5.2
+315;Value;Zuid-Holland (PV);2016 4th quarter;8.7
+316;Value;Zuid-Holland (PV);2017 1st quarter;10.8
+317;Value;Zuid-Holland (PV);2017 2nd quarter;12.0
+318;Value;Zuid-Holland (PV);2017 3rd quarter;14.0
+319;Value;Zuid-Holland (PV);2017 4th quarter;11.9
+320;Value;Zuid-Holland (PV);2018 1st quarter;16.1
+321;Value;Zuid-Holland (PV);2018 2nd quarter;11.9
+322;Value;Zuid-Holland (PV);2018 3rd quarter;12.3
+323;Value;Zuid-Holland (PV);2018 4th quarter;9.4
+324;Value;Zuid-Holland (PV);2019 1st quarter;9.0
+325;Value;Zuid-Holland (PV);2019 2nd quarter;11.0
+326;Value;Zuid-Holland (PV);2019 3rd quarter;10.8
+327;Value;Zuid-Holland (PV);2019 4th quarter;6.1
+328;Value;Zuid-Holland (PV);2020 1st quarter;7.5
+329;Value;Zuid-Holland (PV);2020 2nd quarter;-30.7
+330;Value;Zuid-Holland (PV);2020 3rd quarter;-18.0
+331;Value;Zuid-Holland (PV);2020 4th quarter;-9.8
+332;Value;Zuid-Holland (PV);2021 1st quarter;-8.2
+333;Value;Zuid-Holland (PV);2021 2nd quarter;2.5
+334;Value;Zuid-Holland (PV);2021 3rd quarter;13.7
+335;Value;Zuid-Holland (PV);2021 4th quarter;12.8
+336;Value;Zuid-Holland (PV);2022 1st quarter;5.7
+337;Value;Zuid-Holland (PV);2022 2nd quarter;11.3
+338;Value;Zuid-Holland (PV);2022 3rd quarter;6.6
+339;Value;Zuid-Holland (PV);2022 4th quarter;-0.5
+340;Value;Zuid-Holland (PV);2023 1st quarter;5.0
+341;Value;Zuid-Holland (PV);2023 2nd quarter;4.0
+342;Value;Zeeland (PV);2014 1st quarter;-1.5
+343;Value;Zeeland (PV);2014 2nd quarter;-1.7
+344;Value;Zeeland (PV);2014 3rd quarter;-11.8
+345;Value;Zeeland (PV);2014 4th quarter;0.2
+346;Value;Zeeland (PV);2015 1st quarter;2.3
+347;Value;Zeeland (PV);2015 2nd quarter;3.1
+348;Value;Zeeland (PV);2015 3rd quarter;6.8
+349;Value;Zeeland (PV);2015 4th quarter;7.5
+350;Value;Zeeland (PV);2016 1st quarter;7.8
+351;Value;Zeeland (PV);2016 2nd quarter;9.0
+352;Value;Zeeland (PV);2016 3rd quarter;7.6
+353;Value;Zeeland (PV);2016 4th quarter;7.5
+354;Value;Zeeland (PV);2017 1st quarter;11.3
+355;Value;Zeeland (PV);2017 2nd quarter;8.7
+356;Value;Zeeland (PV);2017 3rd quarter;9.5
+357;Value;Zeeland (PV);2017 4th quarter;11.4
+358;Value;Zeeland (PV);2018 1st quarter;10.8
+359;Value;Zeeland (PV);2018 2nd quarter;11.8
+360;Value;Zeeland (PV);2018 3rd quarter;9.6
+361;Value;Zeeland (PV);2018 4th quarter;8.2
+362;Value;Zeeland (PV);2019 1st quarter;10.2
+363;Value;Zeeland (PV);2019 2nd quarter;9.6
+364;Value;Zeeland (PV);2019 3rd quarter;6.3
+365;Value;Zeeland (PV);2019 4th quarter;3.6
+366;Value;Zeeland (PV);2020 1st quarter;2.8
+367;Value;Zeeland (PV);2020 2nd quarter;-33.1
+368;Value;Zeeland (PV);2020 3rd quarter;-13.1
+369;Value;Zeeland (PV);2020 4th quarter;-10.8
+370;Value;Zeeland (PV);2021 1st quarter;-19.7
+371;Value;Zeeland (PV);2021 2nd quarter;-1.0
+372;Value;Zeeland (PV);2021 3rd quarter;15.6
+373;Value;Zeeland (PV);2021 4th quarter;10.3
+374;Value;Zeeland (PV);2022 1st quarter;5.5
+375;Value;Zeeland (PV);2022 2nd quarter;10.2
+376;Value;Zeeland (PV);2022 3rd quarter;4.0
+377;Value;Zeeland (PV);2022 4th quarter;-4.1
+378;Value;Zeeland (PV);2023 1st quarter;-3.1
+379;Value;Zeeland (PV);2023 2nd quarter;1.6
+380;Value;Noord-Brabant (PV);2014 1st quarter;-0.1
+381;Value;Noord-Brabant (PV);2014 2nd quarter;2.2
+382;Value;Noord-Brabant (PV);2014 3rd quarter;-0.4
+383;Value;Noord-Brabant (PV);2014 4th quarter;5.0
+384;Value;Noord-Brabant (PV);2015 1st quarter;4.0
+385;Value;Noord-Brabant (PV);2015 2nd quarter;6.2
+386;Value;Noord-Brabant (PV);2015 3rd quarter;7.0
+387;Value;Noord-Brabant (PV);2015 4th quarter;8.0
+388;Value;Noord-Brabant (PV);2016 1st quarter;6.8
+389;Value;Noord-Brabant (PV);2016 2nd quarter;6.0
+390;Value;Noord-Brabant (PV);2016 3rd quarter;7.1
+391;Value;Noord-Brabant (PV);2016 4th quarter;8.9
+392;Value;Noord-Brabant (PV);2017 1st quarter;12.9
+393;Value;Noord-Brabant (PV);2017 2nd quarter;11.5
+394;Value;Noord-Brabant (PV);2017 3rd quarter;12.1
+395;Value;Noord-Brabant (PV);2017 4th quarter;12.6
+396;Value;Noord-Brabant (PV);2018 1st quarter;14.8
+397;Value;Noord-Brabant (PV);2018 2nd quarter;12.9
+398;Value;Noord-Brabant (PV);2018 3rd quarter;12.2
+399;Value;Noord-Brabant (PV);2018 4th quarter;11.1
+400;Value;Noord-Brabant (PV);2019 1st quarter;10.5
+401;Value;Noord-Brabant (PV);2019 2nd quarter;9.9
+402;Value;Noord-Brabant (PV);2019 3rd quarter;7.5
+403;Value;Noord-Brabant (PV);2019 4th quarter;5.9
+404;Value;Noord-Brabant (PV);2020 1st quarter;5.6
+405;Value;Noord-Brabant (PV);2020 2nd quarter;-30.5
+406;Value;Noord-Brabant (PV);2020 3rd quarter;-16.1
+407;Value;Noord-Brabant (PV);2020 4th quarter;-9.7
+408;Value;Noord-Brabant (PV);2021 1st quarter;-5.9
+409;Value;Noord-Brabant (PV);2021 2nd quarter;5.7
+410;Value;Noord-Brabant (PV);2021 3rd quarter;17.3
+411;Value;Noord-Brabant (PV);2021 4th quarter;12.9
+412;Value;Noord-Brabant (PV);2022 1st quarter;4.7
+413;Value;Noord-Brabant (PV);2022 2nd quarter;11.6
+414;Value;Noord-Brabant (PV);2022 3rd quarter;7.0
+415;Value;Noord-Brabant (PV);2022 4th quarter;4.8
+416;Value;Noord-Brabant (PV);2023 1st quarter;6.6
+417;Value;Noord-Brabant (PV);2023 2nd quarter;5.3
+418;Value;Limburg (PV);2014 1st quarter;-0.6
+419;Value;Limburg (PV);2014 2nd quarter;1.6
+420;Value;Limburg (PV);2014 3rd quarter;0.4
+421;Value;Limburg (PV);2014 4th quarter;0.8
+422;Value;Limburg (PV);2015 1st quarter;2.1
+423;Value;Limburg (PV);2015 2nd quarter;4.1
+424;Value;Limburg (PV);2015 3rd quarter;6.4
+425;Value;Limburg (PV);2015 4th quarter;6.6
+426;Value;Limburg (PV);2016 1st quarter;5.1
+427;Value;Limburg (PV);2016 2nd quarter;5.1
+428;Value;Limburg (PV);2016 3rd quarter;7.7
+429;Value;Limburg (PV);2016 4th quarter;8.3
+430;Value;Limburg (PV);2017 1st quarter;13.0
+431;Value;Limburg (PV);2017 2nd quarter;11.5
+432;Value;Limburg (PV);2017 3rd quarter;10.2
+433;Value;Limburg (PV);2017 4th quarter;11.0
+434;Value;Limburg (PV);2018 1st quarter;12.7
+435;Value;Limburg (PV);2018 2nd quarter;12.2
+436;Value;Limburg (PV);2018 3rd quarter;14.8
+437;Value;Limburg (PV);2018 4th quarter;10.3
+438;Value;Limburg (PV);2019 1st quarter;6.5
+439;Value;Limburg (PV);2019 2nd quarter;7.7
+440;Value;Limburg (PV);2019 3rd quarter;3.8
+441;Value;Limburg (PV);2019 4th quarter;-1.8
+442;Value;Limburg (PV);2020 1st quarter;-2.0
+443;Value;Limburg (PV);2020 2nd quarter;-38.0
+444;Value;Limburg (PV);2020 3rd quarter;-19.3
+445;Value;Limburg (PV);2020 4th quarter;-14.4
+446;Value;Limburg (PV);2021 1st quarter;-13.5
+447;Value;Limburg (PV);2021 2nd quarter;1.7
+448;Value;Limburg (PV);2021 3rd quarter;17.0
+449;Value;Limburg (PV);2021 4th quarter;10.6
+450;Value;Limburg (PV);2022 1st quarter;6.2
+451;Value;Limburg (PV);2022 2nd quarter;10.0
+452;Value;Limburg (PV);2022 3rd quarter;0.5
+453;Value;Limburg (PV);2022 4th quarter;-3.6
+454;Value;Limburg (PV);2023 1st quarter;3.9
+455;Value;Limburg (PV);2023 2nd quarter;-1.6
+456;Lower bound 95% confidence interval;Groningen (PV);2014 1st quarter;-30.2
+457;Lower bound 95% confidence interval;Groningen (PV);2014 2nd quarter;-24.2
+458;Lower bound 95% confidence interval;Groningen (PV);2014 3rd quarter;-14.8
+459;Lower bound 95% confidence interval;Groningen (PV);2014 4th quarter;-9.2
+460;Lower bound 95% confidence interval;Groningen (PV);2015 1st quarter;-11.0
+461;Lower bound 95% confidence interval;Groningen (PV);2015 2nd quarter;-7.3
+462;Lower bound 95% confidence interval;Groningen (PV);2015 3rd quarter;-17.6
+463;Lower bound 95% confidence interval;Groningen (PV);2015 4th quarter;-4.5
+464;Lower bound 95% confidence interval;Groningen (PV);2016 1st quarter;-7.4
+465;Lower bound 95% confidence interval;Groningen (PV);2016 2nd quarter;-4.7
+466;Lower bound 95% confidence interval;Groningen (PV);2016 3rd quarter;-9.6
+467;Lower bound 95% confidence interval;Groningen (PV);2016 4th quarter;-1.8
+468;Lower bound 95% confidence interval;Groningen (PV);2017 1st quarter;-1.2
+469;Lower bound 95% confidence interval;Groningen (PV);2017 2nd quarter;6.4
+470;Lower bound 95% confidence interval;Groningen (PV);2017 3rd quarter;3.1
+471;Lower bound 95% confidence interval;Groningen (PV);2017 4th quarter;2.9
+472;Lower bound 95% confidence interval;Groningen (PV);2018 1st quarter;10.6
+473;Lower bound 95% confidence interval;Groningen (PV);2018 2nd quarter;-0.6
+474;Lower bound 95% confidence interval;Groningen (PV);2018 3rd quarter;-9.7
+475;Lower bound 95% confidence interval;Groningen (PV);2018 4th quarter;6.5
+476;Lower bound 95% confidence interval;Groningen (PV);2019 1st quarter;2.1
+477;Lower bound 95% confidence interval;Groningen (PV);2019 2nd quarter;-0.1
+478;Lower bound 95% confidence interval;Groningen (PV);2019 3rd quarter;1.8
+479;Lower bound 95% confidence interval;Groningen (PV);2019 4th quarter;0.8
+480;Lower bound 95% confidence interval;Groningen (PV);2020 1st quarter;-10.4
+481;Lower bound 95% confidence interval;Groningen (PV);2020 2nd quarter;-32.1
+482;Lower bound 95% confidence interval;Groningen (PV);2020 3rd quarter;-22.2
+483;Lower bound 95% confidence interval;Groningen (PV);2020 4th quarter;-18.6
+484;Lower bound 95% confidence interval;Groningen (PV);2021 1st quarter;-17.9
+485;Lower bound 95% confidence interval;Groningen (PV);2021 2nd quarter;4.0
+486;Lower bound 95% confidence interval;Groningen (PV);2021 3rd quarter;14.2
+487;Lower bound 95% confidence interval;Groningen (PV);2021 4th quarter;9.8
+488;Lower bound 95% confidence interval;Groningen (PV);2022 1st quarter;-0.2
+489;Lower bound 95% confidence interval;Groningen (PV);2022 2nd quarter;2.0
+490;Lower bound 95% confidence interval;Groningen (PV);2022 3rd quarter;-2.9
+491;Lower bound 95% confidence interval;Groningen (PV);2022 4th quarter;-11.3
+492;Lower bound 95% confidence interval;Groningen (PV);2023 1st quarter;-8.7
+493;Lower bound 95% confidence interval;Groningen (PV);2023 2nd quarter;-7.7
+494;Lower bound 95% confidence interval;Fryslân (PV);2014 1st quarter;-3.5
+495;Lower bound 95% confidence interval;Fryslân (PV);2014 2nd quarter;-5.2
+496;Lower bound 95% confidence interval;Fryslân (PV);2014 3rd quarter;-4.8
+497;Lower bound 95% confidence interval;Fryslân (PV);2014 4th quarter;-1.0
+498;Lower bound 95% confidence interval;Fryslân (PV);2015 1st quarter;-1.4
+499;Lower bound 95% confidence interval;Fryslân (PV);2015 2nd quarter;1.6
+500;Lower bound 95% confidence interval;Fryslân (PV);2015 3rd quarter;3.3
+501;Lower bound 95% confidence interval;Fryslân (PV);2015 4th quarter;11.2
+502;Lower bound 95% confidence interval;Fryslân (PV);2016 1st quarter;0.4
+503;Lower bound 95% confidence interval;Fryslân (PV);2016 2nd quarter;3.0
+504;Lower bound 95% confidence interval;Fryslân (PV);2016 3rd quarter;2.3
+505;Lower bound 95% confidence interval;Fryslân (PV);2016 4th quarter;3.4
+506;Lower bound 95% confidence interval;Fryslân (PV);2017 1st quarter;6.6
+507;Lower bound 95% confidence interval;Fryslân (PV);2017 2nd quarter;9.3
+508;Lower bound 95% confidence interval;Fryslân (PV);2017 3rd quarter;9.7
+509;Lower bound 95% confidence interval;Fryslân (PV);2017 4th quarter;10.3
+510;Lower bound 95% confidence interval;Fryslân (PV);2018 1st quarter;11.6
+511;Lower bound 95% confidence interval;Fryslân (PV);2018 2nd quarter;15.4
+512;Lower bound 95% confidence interval;Fryslân (PV);2018 3rd quarter;8.4
+513;Lower bound 95% confidence interval;Fryslân (PV);2018 4th quarter;8.1
+514;Lower bound 95% confidence interval;Fryslân (PV);2019 1st quarter;5.1
+515;Lower bound 95% confidence interval;Fryslân (PV);2019 2nd quarter;6.9
+516;Lower bound 95% confidence interval;Fryslân (PV);2019 3rd quarter;2.9
+517;Lower bound 95% confidence interval;Fryslân (PV);2019 4th quarter;-1.2
+518;Lower bound 95% confidence interval;Fryslân (PV);2020 1st quarter;1.4
+519;Lower bound 95% confidence interval;Fryslân (PV);2020 2nd quarter;-30.9
+520;Lower bound 95% confidence interval;Fryslân (PV);2020 3rd quarter;-20.8
+521;Lower bound 95% confidence interval;Fryslân (PV);2020 4th quarter;-10.3
+522;Lower bound 95% confidence interval;Fryslân (PV);2021 1st quarter;-10.4
+523;Lower bound 95% confidence interval;Fryslân (PV);2021 2nd quarter;-5.7
+524;Lower bound 95% confidence interval;Fryslân (PV);2021 3rd quarter;3.8
+525;Lower bound 95% confidence interval;Fryslân (PV);2021 4th quarter;2.7
+526;Lower bound 95% confidence interval;Fryslân (PV);2022 1st quarter;-4.1
+527;Lower bound 95% confidence interval;Fryslân (PV);2022 2nd quarter;5.0
+528;Lower bound 95% confidence interval;Fryslân (PV);2022 3rd quarter;-6.2
+529;Lower bound 95% confidence interval;Fryslân (PV);2022 4th quarter;-9.4
+530;Lower bound 95% confidence interval;Fryslân (PV);2023 1st quarter;-2.9
+531;Lower bound 95% confidence interval;Fryslân (PV);2023 2nd quarter;-5.0
+532;Lower bound 95% confidence interval;Drenthe (PV);2014 1st quarter;-9.0
+533;Lower bound 95% confidence interval;Drenthe (PV);2014 2nd quarter;-9.4
+534;Lower bound 95% confidence interval;Drenthe (PV);2014 3rd quarter;-7.8
+535;Lower bound 95% confidence interval;Drenthe (PV);2014 4th quarter;-2.2
+536;Lower bound 95% confidence interval;Drenthe (PV);2015 1st quarter;-3.3
+537;Lower bound 95% confidence interval;Drenthe (PV);2015 2nd quarter;-5.9
+538;Lower bound 95% confidence interval;Drenthe (PV);2015 3rd quarter;1.3
+539;Lower bound 95% confidence interval;Drenthe (PV);2015 4th quarter;0.8
+540;Lower bound 95% confidence interval;Drenthe (PV);2016 1st quarter;-2.3
+541;Lower bound 95% confidence interval;Drenthe (PV);2016 2nd quarter;-0.2
+542;Lower bound 95% confidence interval;Drenthe (PV);2016 3rd quarter;-3.0
+543;Lower bound 95% confidence interval;Drenthe (PV);2016 4th quarter;2.6
+544;Lower bound 95% confidence interval;Drenthe (PV);2017 1st quarter;1.0
+545;Lower bound 95% confidence interval;Drenthe (PV);2017 2nd quarter;9.2
+546;Lower bound 95% confidence interval;Drenthe (PV);2017 3rd quarter;6.5
+547;Lower bound 95% confidence interval;Drenthe (PV);2017 4th quarter;6.0
+548;Lower bound 95% confidence interval;Drenthe (PV);2018 1st quarter;10.7
+549;Lower bound 95% confidence interval;Drenthe (PV);2018 2nd quarter;6.1
+550;Lower bound 95% confidence interval;Drenthe (PV);2018 3rd quarter;0.9
+551;Lower bound 95% confidence interval;Drenthe (PV);2018 4th quarter;3.1
+552;Lower bound 95% confidence interval;Drenthe (PV);2019 1st quarter;2.2
+553;Lower bound 95% confidence interval;Drenthe (PV);2019 2nd quarter;0.6
+554;Lower bound 95% confidence interval;Drenthe (PV);2019 3rd quarter;2.7
+555;Lower bound 95% confidence interval;Drenthe (PV);2019 4th quarter;-4.1
+556;Lower bound 95% confidence interval;Drenthe (PV);2020 1st quarter;-8.6
+557;Lower bound 95% confidence interval;Drenthe (PV);2020 2nd quarter;-44.3
+558;Lower bound 95% confidence interval;Drenthe (PV);2020 3rd quarter;-30.8
+559;Lower bound 95% confidence interval;Drenthe (PV);2020 4th quarter;-19.5
+560;Lower bound 95% confidence interval;Drenthe (PV);2021 1st quarter;-22.8
+561;Lower bound 95% confidence interval;Drenthe (PV);2021 2nd quarter;-11.5
+562;Lower bound 95% confidence interval;Drenthe (PV);2021 3rd quarter;2.7
+563;Lower bound 95% confidence interval;Drenthe (PV);2021 4th quarter;5.3
+564;Lower bound 95% confidence interval;Drenthe (PV);2022 1st quarter;-3.0
+565;Lower bound 95% confidence interval;Drenthe (PV);2022 2nd quarter;-1.5
+566;Lower bound 95% confidence interval;Drenthe (PV);2022 3rd quarter;-5.6
+567;Lower bound 95% confidence interval;Drenthe (PV);2022 4th quarter;-8.3
+568;Lower bound 95% confidence interval;Drenthe (PV);2023 1st quarter;-7.0
+569;Lower bound 95% confidence interval;Drenthe (PV);2023 2nd quarter;-7.4
+570;Lower bound 95% confidence interval;Overijssel (PV);2014 1st quarter;-8.3
+571;Lower bound 95% confidence interval;Overijssel (PV);2014 2nd quarter;-6.1
+572;Lower bound 95% confidence interval;Overijssel (PV);2014 3rd quarter;-5.0
+573;Lower bound 95% confidence interval;Overijssel (PV);2014 4th quarter;1.8
+574;Lower bound 95% confidence interval;Overijssel (PV);2015 1st quarter;-2.7
+575;Lower bound 95% confidence interval;Overijssel (PV);2015 2nd quarter;-0.6
+576;Lower bound 95% confidence interval;Overijssel (PV);2015 3rd quarter;1.8
+577;Lower bound 95% confidence interval;Overijssel (PV);2015 4th quarter;7.5
+578;Lower bound 95% confidence interval;Overijssel (PV);2016 1st quarter;5.0
+579;Lower bound 95% confidence interval;Overijssel (PV);2016 2nd quarter;3.2
+580;Lower bound 95% confidence interval;Overijssel (PV);2016 3rd quarter;3.5
+581;Lower bound 95% confidence interval;Overijssel (PV);2016 4th quarter;5.5
+582;Lower bound 95% confidence interval;Overijssel (PV);2017 1st quarter;8.3
+583;Lower bound 95% confidence interval;Overijssel (PV);2017 2nd quarter;10.9
+584;Lower bound 95% confidence interval;Overijssel (PV);2017 3rd quarter;11.9
+585;Lower bound 95% confidence interval;Overijssel (PV);2017 4th quarter;12.1
+586;Lower bound 95% confidence interval;Overijssel (PV);2018 1st quarter;14.5
+587;Lower bound 95% confidence interval;Overijssel (PV);2018 2nd quarter;9.9
+588;Lower bound 95% confidence interval;Overijssel (PV);2018 3rd quarter;9.8
+589;Lower bound 95% confidence interval;Overijssel (PV);2018 4th quarter;9.3
+590;Lower bound 95% confidence interval;Overijssel (PV);2019 1st quarter;10.9
+591;Lower bound 95% confidence interval;Overijssel (PV);2019 2nd quarter;6.8
+592;Lower bound 95% confidence interval;Overijssel (PV);2019 3rd quarter;6.3
+593;Lower bound 95% confidence interval;Overijssel (PV);2019 4th quarter;3.0
+594;Lower bound 95% confidence interval;Overijssel (PV);2020 1st quarter;1.8
+595;Lower bound 95% confidence interval;Overijssel (PV);2020 2nd quarter;-35.5
+596;Lower bound 95% confidence interval;Overijssel (PV);2020 3rd quarter;-20.0
+597;Lower bound 95% confidence interval;Overijssel (PV);2020 4th quarter;-12.9
+598;Lower bound 95% confidence interval;Overijssel (PV);2021 1st quarter;-7.5
+599;Lower bound 95% confidence interval;Overijssel (PV);2021 2nd quarter;4.0
+600;Lower bound 95% confidence interval;Overijssel (PV);2021 3rd quarter;10.6
+601;Lower bound 95% confidence interval;Overijssel (PV);2021 4th quarter;7.8
+602;Lower bound 95% confidence interval;Overijssel (PV);2022 1st quarter;4.7
+603;Lower bound 95% confidence interval;Overijssel (PV);2022 2nd quarter;8.3
+604;Lower bound 95% confidence interval;Overijssel (PV);2022 3rd quarter;2.3
+605;Lower bound 95% confidence interval;Overijssel (PV);2022 4th quarter;-3.2
+606;Lower bound 95% confidence interval;Overijssel (PV);2023 1st quarter;-3.1
+607;Lower bound 95% confidence interval;Overijssel (PV);2023 2nd quarter;-3.5
+608;Lower bound 95% confidence interval;Flevoland (PV);2014 1st quarter;-8.6
+609;Lower bound 95% confidence interval;Flevoland (PV);2014 2nd quarter;-7.1
+610;Lower bound 95% confidence interval;Flevoland (PV);2014 3rd quarter;-8.2
+611;Lower bound 95% confidence interval;Flevoland (PV);2014 4th quarter;0.7
+612;Lower bound 95% confidence interval;Flevoland (PV);2015 1st quarter;-0.7
+613;Lower bound 95% confidence interval;Flevoland (PV);2015 2nd quarter;0.8
+614;Lower bound 95% confidence interval;Flevoland (PV);2015 3rd quarter;1.9
+615;Lower bound 95% confidence interval;Flevoland (PV);2015 4th quarter;4.6
+616;Lower bound 95% confidence interval;Flevoland (PV);2016 1st quarter;7.1
+617;Lower bound 95% confidence interval;Flevoland (PV);2016 2nd quarter;-1.2
+618;Lower bound 95% confidence interval;Flevoland (PV);2016 3rd quarter;5.0
+619;Lower bound 95% confidence interval;Flevoland (PV);2016 4th quarter;5.7
+620;Lower bound 95% confidence interval;Flevoland (PV);2017 1st quarter;7.1
+621;Lower bound 95% confidence interval;Flevoland (PV);2017 2nd quarter;8.7
+622;Lower bound 95% confidence interval;Flevoland (PV);2017 3rd quarter;10.2
+623;Lower bound 95% confidence interval;Flevoland (PV);2017 4th quarter;7.5
+624;Lower bound 95% confidence interval;Flevoland (PV);2018 1st quarter;3.2
+625;Lower bound 95% confidence interval;Flevoland (PV);2018 2nd quarter;0.5
+626;Lower bound 95% confidence interval;Flevoland (PV);2018 3rd quarter;0.8
+627;Lower bound 95% confidence interval;Flevoland (PV);2018 4th quarter;1.4
+628;Lower bound 95% confidence interval;Flevoland (PV);2019 1st quarter;-0.1
+629;Lower bound 95% confidence interval;Flevoland (PV);2019 2nd quarter;-3.2
+630;Lower bound 95% confidence interval;Flevoland (PV);2019 3rd quarter;0.5
+631;Lower bound 95% confidence interval;Flevoland (PV);2019 4th quarter;-0.9
+632;Lower bound 95% confidence interval;Flevoland (PV);2020 1st quarter;-3.5
+633;Lower bound 95% confidence interval;Flevoland (PV);2020 2nd quarter;-36.4
+634;Lower bound 95% confidence interval;Flevoland (PV);2020 3rd quarter;-23.9
+635;Lower bound 95% confidence interval;Flevoland (PV);2020 4th quarter;-18.2
+636;Lower bound 95% confidence interval;Flevoland (PV);2021 1st quarter;-20.5
+637;Lower bound 95% confidence interval;Flevoland (PV);2021 2nd quarter;-10.0
+638;Lower bound 95% confidence interval;Flevoland (PV);2021 3rd quarter;6.5
+639;Lower bound 95% confidence interval;Flevoland (PV);2021 4th quarter;5.1
+640;Lower bound 95% confidence interval;Flevoland (PV);2022 1st quarter;-7.3
+641;Lower bound 95% confidence interval;Flevoland (PV);2022 2nd quarter;7.4
+642;Lower bound 95% confidence interval;Flevoland (PV);2022 3rd quarter;-0.4
+643;Lower bound 95% confidence interval;Flevoland (PV);2022 4th quarter;-12.2
+644;Lower bound 95% confidence interval;Flevoland (PV);2023 1st quarter;-2.7
+645;Lower bound 95% confidence interval;Flevoland (PV);2023 2nd quarter;-8.7
+646;Lower bound 95% confidence interval;Gelderland (PV);2014 1st quarter;-5.6
+647;Lower bound 95% confidence interval;Gelderland (PV);2014 2nd quarter;-2.8
+648;Lower bound 95% confidence interval;Gelderland (PV);2014 3rd quarter;-0.5
+649;Lower bound 95% confidence interval;Gelderland (PV);2014 4th quarter;1.9
+650;Lower bound 95% confidence interval;Gelderland (PV);2015 1st quarter;0.6
+651;Lower bound 95% confidence interval;Gelderland (PV);2015 2nd quarter;1.9
+652;Lower bound 95% confidence interval;Gelderland (PV);2015 3rd quarter;7.8
+653;Lower bound 95% confidence interval;Gelderland (PV);2015 4th quarter;6.6
+654;Lower bound 95% confidence interval;Gelderland (PV);2016 1st quarter;6.7
+655;Lower bound 95% confidence interval;Gelderland (PV);2016 2nd quarter;7.1
+656;Lower bound 95% confidence interval;Gelderland (PV);2016 3rd quarter;7.3
+657;Lower bound 95% confidence interval;Gelderland (PV);2016 4th quarter;9.3
+658;Lower bound 95% confidence interval;Gelderland (PV);2017 1st quarter;12.4
+659;Lower bound 95% confidence interval;Gelderland (PV);2017 2nd quarter;14.0
+660;Lower bound 95% confidence interval;Gelderland (PV);2017 3rd quarter;14.7
+661;Lower bound 95% confidence interval;Gelderland (PV);2017 4th quarter;14.2
+662;Lower bound 95% confidence interval;Gelderland (PV);2018 1st quarter;14.4
+663;Lower bound 95% confidence interval;Gelderland (PV);2018 2nd quarter;11.4
+664;Lower bound 95% confidence interval;Gelderland (PV);2018 3rd quarter;16.3
+665;Lower bound 95% confidence interval;Gelderland (PV);2018 4th quarter;12.3
+666;Lower bound 95% confidence interval;Gelderland (PV);2019 1st quarter;7.3
+667;Lower bound 95% confidence interval;Gelderland (PV);2019 2nd quarter;8.5
+668;Lower bound 95% confidence interval;Gelderland (PV);2019 3rd quarter;7.5
+669;Lower bound 95% confidence interval;Gelderland (PV);2019 4th quarter;5.1
+670;Lower bound 95% confidence interval;Gelderland (PV);2020 1st quarter;4.9
+671;Lower bound 95% confidence interval;Gelderland (PV);2020 2nd quarter;-37.5
+672;Lower bound 95% confidence interval;Gelderland (PV);2020 3rd quarter;-21.9
+673;Lower bound 95% confidence interval;Gelderland (PV);2020 4th quarter;-11.4
+674;Lower bound 95% confidence interval;Gelderland (PV);2021 1st quarter;-11.3
+675;Lower bound 95% confidence interval;Gelderland (PV);2021 2nd quarter;2.4
+676;Lower bound 95% confidence interval;Gelderland (PV);2021 3rd quarter;15.8
+677;Lower bound 95% confidence interval;Gelderland (PV);2021 4th quarter;9.6
+678;Lower bound 95% confidence interval;Gelderland (PV);2022 1st quarter;-2.7
+679;Lower bound 95% confidence interval;Gelderland (PV);2022 2nd quarter;5.8
+680;Lower bound 95% confidence interval;Gelderland (PV);2022 3rd quarter;3.5
+681;Lower bound 95% confidence interval;Gelderland (PV);2022 4th quarter;-2.6
+682;Lower bound 95% confidence interval;Gelderland (PV);2023 1st quarter;0.0
+683;Lower bound 95% confidence interval;Gelderland (PV);2023 2nd quarter;-0.2
+684;Lower bound 95% confidence interval;Utrecht (PV);2014 1st quarter;-9.9
+685;Lower bound 95% confidence interval;Utrecht (PV);2014 2nd quarter;1.2
+686;Lower bound 95% confidence interval;Utrecht (PV);2014 3rd quarter;-3.9
+687;Lower bound 95% confidence interval;Utrecht (PV);2014 4th quarter;1.4
+688;Lower bound 95% confidence interval;Utrecht (PV);2015 1st quarter;2.9
+689;Lower bound 95% confidence interval;Utrecht (PV);2015 2nd quarter;0.9
+690;Lower bound 95% confidence interval;Utrecht (PV);2015 3rd quarter;1.3
+691;Lower bound 95% confidence interval;Utrecht (PV);2015 4th quarter;5.6
+692;Lower bound 95% confidence interval;Utrecht (PV);2016 1st quarter;4.3
+693;Lower bound 95% confidence interval;Utrecht (PV);2016 2nd quarter;3.4
+694;Lower bound 95% confidence interval;Utrecht (PV);2016 3rd quarter;8.7
+695;Lower bound 95% confidence interval;Utrecht (PV);2016 4th quarter;6.5
+696;Lower bound 95% confidence interval;Utrecht (PV);2017 1st quarter;8.5
+697;Lower bound 95% confidence interval;Utrecht (PV);2017 2nd quarter;11.9
+698;Lower bound 95% confidence interval;Utrecht (PV);2017 3rd quarter;8.6
+699;Lower bound 95% confidence interval;Utrecht (PV);2017 4th quarter;6.3
+700;Lower bound 95% confidence interval;Utrecht (PV);2018 1st quarter;3.7
+701;Lower bound 95% confidence interval;Utrecht (PV);2018 2nd quarter;7.6
+702;Lower bound 95% confidence interval;Utrecht (PV);2018 3rd quarter;10.3
+703;Lower bound 95% confidence interval;Utrecht (PV);2018 4th quarter;12.0
+704;Lower bound 95% confidence interval;Utrecht (PV);2019 1st quarter;7.2
+705;Lower bound 95% confidence interval;Utrecht (PV);2019 2nd quarter;7.1
+706;Lower bound 95% confidence interval;Utrecht (PV);2019 3rd quarter;8.1
+707;Lower bound 95% confidence interval;Utrecht (PV);2019 4th quarter;3.2
+708;Lower bound 95% confidence interval;Utrecht (PV);2020 1st quarter;-2.0
+709;Lower bound 95% confidence interval;Utrecht (PV);2020 2nd quarter;-38.4
+710;Lower bound 95% confidence interval;Utrecht (PV);2020 3rd quarter;-26.8
+711;Lower bound 95% confidence interval;Utrecht (PV);2020 4th quarter;-12.5
+712;Lower bound 95% confidence interval;Utrecht (PV);2021 1st quarter;-12.0
+713;Lower bound 95% confidence interval;Utrecht (PV);2021 2nd quarter;0.8
+714;Lower bound 95% confidence interval;Utrecht (PV);2021 3rd quarter;16.5
+715;Lower bound 95% confidence interval;Utrecht (PV);2021 4th quarter;11.5
+716;Lower bound 95% confidence interval;Utrecht (PV);2022 1st quarter;-0.6
+717;Lower bound 95% confidence interval;Utrecht (PV);2022 2nd quarter;10.2
+718;Lower bound 95% confidence interval;Utrecht (PV);2022 3rd quarter;3.3
+719;Lower bound 95% confidence interval;Utrecht (PV);2022 4th quarter;-5.3
+720;Lower bound 95% confidence interval;Utrecht (PV);2023 1st quarter;2.8
+721;Lower bound 95% confidence interval;Utrecht (PV);2023 2nd quarter;5.2
+722;Lower bound 95% confidence interval;Noord-Holland (PV);2014 1st quarter;-5.8
+723;Lower bound 95% confidence interval;Noord-Holland (PV);2014 2nd quarter;-2.9
+724;Lower bound 95% confidence interval;Noord-Holland (PV);2014 3rd quarter;2.0
+725;Lower bound 95% confidence interval;Noord-Holland (PV);2014 4th quarter;4.0
+726;Lower bound 95% confidence interval;Noord-Holland (PV);2015 1st quarter;2.7
+727;Lower bound 95% confidence interval;Noord-Holland (PV);2015 2nd quarter;4.9
+728;Lower bound 95% confidence interval;Noord-Holland (PV);2015 3rd quarter;6.9
+729;Lower bound 95% confidence interval;Noord-Holland (PV);2015 4th quarter;9.4
+730;Lower bound 95% confidence interval;Noord-Holland (PV);2016 1st quarter;6.7
+731;Lower bound 95% confidence interval;Noord-Holland (PV);2016 2nd quarter;6.0
+732;Lower bound 95% confidence interval;Noord-Holland (PV);2016 3rd quarter;7.5
+733;Lower bound 95% confidence interval;Noord-Holland (PV);2016 4th quarter;7.0
+734;Lower bound 95% confidence interval;Noord-Holland (PV);2017 1st quarter;12.8
+735;Lower bound 95% confidence interval;Noord-Holland (PV);2017 2nd quarter;13.4
+736;Lower bound 95% confidence interval;Noord-Holland (PV);2017 3rd quarter;12.4
+737;Lower bound 95% confidence interval;Noord-Holland (PV);2017 4th quarter;13.1
+738;Lower bound 95% confidence interval;Noord-Holland (PV);2018 1st quarter;16.3
+739;Lower bound 95% confidence interval;Noord-Holland (PV);2018 2nd quarter;13.1
+740;Lower bound 95% confidence interval;Noord-Holland (PV);2018 3rd quarter;15.9
+741;Lower bound 95% confidence interval;Noord-Holland (PV);2018 4th quarter;12.9
+742;Lower bound 95% confidence interval;Noord-Holland (PV);2019 1st quarter;4.7
+743;Lower bound 95% confidence interval;Noord-Holland (PV);2019 2nd quarter;8.8
+744;Lower bound 95% confidence interval;Noord-Holland (PV);2019 3rd quarter;10.9
+745;Lower bound 95% confidence interval;Noord-Holland (PV);2019 4th quarter;5.2
+746;Lower bound 95% confidence interval;Noord-Holland (PV);2020 1st quarter;3.3
+747;Lower bound 95% confidence interval;Noord-Holland (PV);2020 2nd quarter;-40.5
+748;Lower bound 95% confidence interval;Noord-Holland (PV);2020 3rd quarter;-25.5
+749;Lower bound 95% confidence interval;Noord-Holland (PV);2020 4th quarter;-10.4
+750;Lower bound 95% confidence interval;Noord-Holland (PV);2021 1st quarter;-10.4
+751;Lower bound 95% confidence interval;Noord-Holland (PV);2021 2nd quarter;0.2
+752;Lower bound 95% confidence interval;Noord-Holland (PV);2021 3rd quarter;17.6
+753;Lower bound 95% confidence interval;Noord-Holland (PV);2021 4th quarter;15.1
+754;Lower bound 95% confidence interval;Noord-Holland (PV);2022 1st quarter;4.2
+755;Lower bound 95% confidence interval;Noord-Holland (PV);2022 2nd quarter;14.0
+756;Lower bound 95% confidence interval;Noord-Holland (PV);2022 3rd quarter;6.0
+757;Lower bound 95% confidence interval;Noord-Holland (PV);2022 4th quarter;2.1
+758;Lower bound 95% confidence interval;Noord-Holland (PV);2023 1st quarter;2.9
+759;Lower bound 95% confidence interval;Noord-Holland (PV);2023 2nd quarter;6.4
+760;Lower bound 95% confidence interval;Zuid-Holland (PV);2014 1st quarter;-3.5
+761;Lower bound 95% confidence interval;Zuid-Holland (PV);2014 2nd quarter;0.0
+762;Lower bound 95% confidence interval;Zuid-Holland (PV);2014 3rd quarter;0.6
+763;Lower bound 95% confidence interval;Zuid-Holland (PV);2014 4th quarter;1.1
+764;Lower bound 95% confidence interval;Zuid-Holland (PV);2015 1st quarter;-0.2
+765;Lower bound 95% confidence interval;Zuid-Holland (PV);2015 2nd quarter;0.0
+766;Lower bound 95% confidence interval;Zuid-Holland (PV);2015 3rd quarter;3.8
+767;Lower bound 95% confidence interval;Zuid-Holland (PV);2015 4th quarter;7.2
+768;Lower bound 95% confidence interval;Zuid-Holland (PV);2016 1st quarter;4.0
+769;Lower bound 95% confidence interval;Zuid-Holland (PV);2016 2nd quarter;5.7
+770;Lower bound 95% confidence interval;Zuid-Holland (PV);2016 3rd quarter;2.8
+771;Lower bound 95% confidence interval;Zuid-Holland (PV);2016 4th quarter;6.4
+772;Lower bound 95% confidence interval;Zuid-Holland (PV);2017 1st quarter;8.4
+773;Lower bound 95% confidence interval;Zuid-Holland (PV);2017 2nd quarter;9.8
+774;Lower bound 95% confidence interval;Zuid-Holland (PV);2017 3rd quarter;11.8
+775;Lower bound 95% confidence interval;Zuid-Holland (PV);2017 4th quarter;9.9
+776;Lower bound 95% confidence interval;Zuid-Holland (PV);2018 1st quarter;13.7
+777;Lower bound 95% confidence interval;Zuid-Holland (PV);2018 2nd quarter;9.6
+778;Lower bound 95% confidence interval;Zuid-Holland (PV);2018 3rd quarter;10.2
+779;Lower bound 95% confidence interval;Zuid-Holland (PV);2018 4th quarter;7.4
+780;Lower bound 95% confidence interval;Zuid-Holland (PV);2019 1st quarter;7.0
+781;Lower bound 95% confidence interval;Zuid-Holland (PV);2019 2nd quarter;9.1
+782;Lower bound 95% confidence interval;Zuid-Holland (PV);2019 3rd quarter;8.9
+783;Lower bound 95% confidence interval;Zuid-Holland (PV);2019 4th quarter;4.3
+784;Lower bound 95% confidence interval;Zuid-Holland (PV);2020 1st quarter;5.5
+785;Lower bound 95% confidence interval;Zuid-Holland (PV);2020 2nd quarter;-33.1
+786;Lower bound 95% confidence interval;Zuid-Holland (PV);2020 3rd quarter;-20.7
+787;Lower bound 95% confidence interval;Zuid-Holland (PV);2020 4th quarter;-12.2
+788;Lower bound 95% confidence interval;Zuid-Holland (PV);2021 1st quarter;-10.8
+789;Lower bound 95% confidence interval;Zuid-Holland (PV);2021 2nd quarter;-0.1
+790;Lower bound 95% confidence interval;Zuid-Holland (PV);2021 3rd quarter;11.0
+791;Lower bound 95% confidence interval;Zuid-Holland (PV);2021 4th quarter;10.5
+792;Lower bound 95% confidence interval;Zuid-Holland (PV);2022 1st quarter;3.0
+793;Lower bound 95% confidence interval;Zuid-Holland (PV);2022 2nd quarter;8.9
+794;Lower bound 95% confidence interval;Zuid-Holland (PV);2022 3rd quarter;4.3
+795;Lower bound 95% confidence interval;Zuid-Holland (PV);2022 4th quarter;-2.8
+796;Lower bound 95% confidence interval;Zuid-Holland (PV);2023 1st quarter;2.7
+797;Lower bound 95% confidence interval;Zuid-Holland (PV);2023 2nd quarter;1.7
+798;Lower bound 95% confidence interval;Zeeland (PV);2014 1st quarter;-7.4
+799;Lower bound 95% confidence interval;Zeeland (PV);2014 2nd quarter;-7.4
+800;Lower bound 95% confidence interval;Zeeland (PV);2014 3rd quarter;-17.8
+801;Lower bound 95% confidence interval;Zeeland (PV);2014 4th quarter;-2.8
+802;Lower bound 95% confidence interval;Zeeland (PV);2015 1st quarter;-3.7
+803;Lower bound 95% confidence interval;Zeeland (PV);2015 2nd quarter;-2.6
+804;Lower bound 95% confidence interval;Zeeland (PV);2015 3rd quarter;1.2
+805;Lower bound 95% confidence interval;Zeeland (PV);2015 4th quarter;4.4
+806;Lower bound 95% confidence interval;Zeeland (PV);2016 1st quarter;2.1
+807;Lower bound 95% confidence interval;Zeeland (PV);2016 2nd quarter;3.7
+808;Lower bound 95% confidence interval;Zeeland (PV);2016 3rd quarter;2.1
+809;Lower bound 95% confidence interval;Zeeland (PV);2016 4th quarter;2.7
+810;Lower bound 95% confidence interval;Zeeland (PV);2017 1st quarter;6.3
+811;Lower bound 95% confidence interval;Zeeland (PV);2017 2nd quarter;3.2
+812;Lower bound 95% confidence interval;Zeeland (PV);2017 3rd quarter;4.6
+813;Lower bound 95% confidence interval;Zeeland (PV);2017 4th quarter;6.9
+814;Lower bound 95% confidence interval;Zeeland (PV);2018 1st quarter;6.3
+815;Lower bound 95% confidence interval;Zeeland (PV);2018 2nd quarter;7.0
+816;Lower bound 95% confidence interval;Zeeland (PV);2018 3rd quarter;4.3
+817;Lower bound 95% confidence interval;Zeeland (PV);2018 4th quarter;3.3
+818;Lower bound 95% confidence interval;Zeeland (PV);2019 1st quarter;4.1
+819;Lower bound 95% confidence interval;Zeeland (PV);2019 2nd quarter;4.5
+820;Lower bound 95% confidence interval;Zeeland (PV);2019 3rd quarter;1.4
+821;Lower bound 95% confidence interval;Zeeland (PV);2019 4th quarter;-0.9
+822;Lower bound 95% confidence interval;Zeeland (PV);2020 1st quarter;-3.0
+823;Lower bound 95% confidence interval;Zeeland (PV);2020 2nd quarter;-39.8
+824;Lower bound 95% confidence interval;Zeeland (PV);2020 3rd quarter;-20.5
+825;Lower bound 95% confidence interval;Zeeland (PV);2020 4th quarter;-17.7
+826;Lower bound 95% confidence interval;Zeeland (PV);2021 1st quarter;-27.5
+827;Lower bound 95% confidence interval;Zeeland (PV);2021 2nd quarter;-7.8
+828;Lower bound 95% confidence interval;Zeeland (PV);2021 3rd quarter;8.1
+829;Lower bound 95% confidence interval;Zeeland (PV);2021 4th quarter;3.8
+830;Lower bound 95% confidence interval;Zeeland (PV);2022 1st quarter;-1.8
+831;Lower bound 95% confidence interval;Zeeland (PV);2022 2nd quarter;2.4
+832;Lower bound 95% confidence interval;Zeeland (PV);2022 3rd quarter;-2.7
+833;Lower bound 95% confidence interval;Zeeland (PV);2022 4th quarter;-10.8
+834;Lower bound 95% confidence interval;Zeeland (PV);2023 1st quarter;-12.2
+835;Lower bound 95% confidence interval;Zeeland (PV);2023 2nd quarter;-6.0
+836;Lower bound 95% confidence interval;Noord-Brabant (PV);2014 1st quarter;-2.7
+837;Lower bound 95% confidence interval;Noord-Brabant (PV);2014 2nd quarter;-0.1
+838;Lower bound 95% confidence interval;Noord-Brabant (PV);2014 3rd quarter;-2.7
+839;Lower bound 95% confidence interval;Noord-Brabant (PV);2014 4th quarter;3.4
+840;Lower bound 95% confidence interval;Noord-Brabant (PV);2015 1st quarter;1.5
+841;Lower bound 95% confidence interval;Noord-Brabant (PV);2015 2nd quarter;3.7
+842;Lower bound 95% confidence interval;Noord-Brabant (PV);2015 3rd quarter;4.6
+843;Lower bound 95% confidence interval;Noord-Brabant (PV);2015 4th quarter;6.3
+844;Lower bound 95% confidence interval;Noord-Brabant (PV);2016 1st quarter;4.6
+845;Lower bound 95% confidence interval;Noord-Brabant (PV);2016 2nd quarter;3.9
+846;Lower bound 95% confidence interval;Noord-Brabant (PV);2016 3rd quarter;5.0
+847;Lower bound 95% confidence interval;Noord-Brabant (PV);2016 4th quarter;6.9
+848;Lower bound 95% confidence interval;Noord-Brabant (PV);2017 1st quarter;10.9
+849;Lower bound 95% confidence interval;Noord-Brabant (PV);2017 2nd quarter;9.4
+850;Lower bound 95% confidence interval;Noord-Brabant (PV);2017 3rd quarter;10.0
+851;Lower bound 95% confidence interval;Noord-Brabant (PV);2017 4th quarter;10.6
+852;Lower bound 95% confidence interval;Noord-Brabant (PV);2018 1st quarter;12.6
+853;Lower bound 95% confidence interval;Noord-Brabant (PV);2018 2nd quarter;10.8
+854;Lower bound 95% confidence interval;Noord-Brabant (PV);2018 3rd quarter;10.2
+855;Lower bound 95% confidence interval;Noord-Brabant (PV);2018 4th quarter;9.1
+856;Lower bound 95% confidence interval;Noord-Brabant (PV);2019 1st quarter;8.5
+857;Lower bound 95% confidence interval;Noord-Brabant (PV);2019 2nd quarter;7.9
+858;Lower bound 95% confidence interval;Noord-Brabant (PV);2019 3rd quarter;5.6
+859;Lower bound 95% confidence interval;Noord-Brabant (PV);2019 4th quarter;3.9
+860;Lower bound 95% confidence interval;Noord-Brabant (PV);2020 1st quarter;3.5
+861;Lower bound 95% confidence interval;Noord-Brabant (PV);2020 2nd quarter;-33.1
+862;Lower bound 95% confidence interval;Noord-Brabant (PV);2020 3rd quarter;-18.7
+863;Lower bound 95% confidence interval;Noord-Brabant (PV);2020 4th quarter;-12.4
+864;Lower bound 95% confidence interval;Noord-Brabant (PV);2021 1st quarter;-9.2
+865;Lower bound 95% confidence interval;Noord-Brabant (PV);2021 2nd quarter;3.1
+866;Lower bound 95% confidence interval;Noord-Brabant (PV);2021 3rd quarter;14.8
+867;Lower bound 95% confidence interval;Noord-Brabant (PV);2021 4th quarter;10.4
+868;Lower bound 95% confidence interval;Noord-Brabant (PV);2022 1st quarter;1.8
+869;Lower bound 95% confidence interval;Noord-Brabant (PV);2022 2nd quarter;9.0
+870;Lower bound 95% confidence interval;Noord-Brabant (PV);2022 3rd quarter;4.1
+871;Lower bound 95% confidence interval;Noord-Brabant (PV);2022 4th quarter;2.2
+872;Lower bound 95% confidence interval;Noord-Brabant (PV);2023 1st quarter;3.9
+873;Lower bound 95% confidence interval;Noord-Brabant (PV);2023 2nd quarter;2.7
+874;Lower bound 95% confidence interval;Limburg (PV);2014 1st quarter;-4.6
+875;Lower bound 95% confidence interval;Limburg (PV);2014 2nd quarter;-2.1
+876;Lower bound 95% confidence interval;Limburg (PV);2014 3rd quarter;-3.3
+877;Lower bound 95% confidence interval;Limburg (PV);2014 4th quarter;-1.4
+878;Lower bound 95% confidence interval;Limburg (PV);2015 1st quarter;-1.4
+879;Lower bound 95% confidence interval;Limburg (PV);2015 2nd quarter;0.6
+880;Lower bound 95% confidence interval;Limburg (PV);2015 3rd quarter;2.9
+881;Lower bound 95% confidence interval;Limburg (PV);2015 4th quarter;4.4
+882;Lower bound 95% confidence interval;Limburg (PV);2016 1st quarter;1.7
+883;Lower bound 95% confidence interval;Limburg (PV);2016 2nd quarter;1.8
+884;Lower bound 95% confidence interval;Limburg (PV);2016 3rd quarter;4.3
+885;Lower bound 95% confidence interval;Limburg (PV);2016 4th quarter;5.2
+886;Lower bound 95% confidence interval;Limburg (PV);2017 1st quarter;10.1
+887;Lower bound 95% confidence interval;Limburg (PV);2017 2nd quarter;8.5
+888;Lower bound 95% confidence interval;Limburg (PV);2017 3rd quarter;7.1
+889;Lower bound 95% confidence interval;Limburg (PV);2017 4th quarter;7.9
+890;Lower bound 95% confidence interval;Limburg (PV);2018 1st quarter;9.6
+891;Lower bound 95% confidence interval;Limburg (PV);2018 2nd quarter;9.0
+892;Lower bound 95% confidence interval;Limburg (PV);2018 3rd quarter;11.6
+893;Lower bound 95% confidence interval;Limburg (PV);2018 4th quarter;7.4
+894;Lower bound 95% confidence interval;Limburg (PV);2019 1st quarter;3.4
+895;Lower bound 95% confidence interval;Limburg (PV);2019 2nd quarter;4.2
+896;Lower bound 95% confidence interval;Limburg (PV);2019 3rd quarter;0.7
+897;Lower bound 95% confidence interval;Limburg (PV);2019 4th quarter;-4.7
+898;Lower bound 95% confidence interval;Limburg (PV);2020 1st quarter;-5.5
+899;Lower bound 95% confidence interval;Limburg (PV);2020 2nd quarter;-42.2
+900;Lower bound 95% confidence interval;Limburg (PV);2020 3rd quarter;-23.6
+901;Lower bound 95% confidence interval;Limburg (PV);2020 4th quarter;-18.2
+902;Lower bound 95% confidence interval;Limburg (PV);2021 1st quarter;-17.6
+903;Lower bound 95% confidence interval;Limburg (PV);2021 2nd quarter;-2.2
+904;Lower bound 95% confidence interval;Limburg (PV);2021 3rd quarter;13.0
+905;Lower bound 95% confidence interval;Limburg (PV);2021 4th quarter;6.9
+906;Lower bound 95% confidence interval;Limburg (PV);2022 1st quarter;1.8
+907;Lower bound 95% confidence interval;Limburg (PV);2022 2nd quarter;5.6
+908;Lower bound 95% confidence interval;Limburg (PV);2022 3rd quarter;-3.6
+909;Lower bound 95% confidence interval;Limburg (PV);2022 4th quarter;-8.0
+910;Lower bound 95% confidence interval;Limburg (PV);2023 1st quarter;0.0
+911;Lower bound 95% confidence interval;Limburg (PV);2023 2nd quarter;-5.2
+912;Upper bound 95% confidence interval;Groningen (PV);2014 1st quarter;-7.9
+913;Upper bound 95% confidence interval;Groningen (PV);2014 2nd quarter;-10.3
+914;Upper bound 95% confidence interval;Groningen (PV);2014 3rd quarter;-10.3
+915;Upper bound 95% confidence interval;Groningen (PV);2014 4th quarter;21.3
+916;Upper bound 95% confidence interval;Groningen (PV);2015 1st quarter;-6.8
+917;Upper bound 95% confidence interval;Groningen (PV);2015 2nd quarter;-2.8
+918;Upper bound 95% confidence interval;Groningen (PV);2015 3rd quarter;34.6
+919;Upper bound 95% confidence interval;Groningen (PV);2015 4th quarter;22.3
+920;Upper bound 95% confidence interval;Groningen (PV);2016 1st quarter;15.4
+921;Upper bound 95% confidence interval;Groningen (PV);2016 2nd quarter;0.4
+922;Upper bound 95% confidence interval;Groningen (PV);2016 3rd quarter;-5.3
+923;Upper bound 95% confidence interval;Groningen (PV);2016 4th quarter;2.8
+924;Upper bound 95% confidence interval;Groningen (PV);2017 1st quarter;5.2
+925;Upper bound 95% confidence interval;Groningen (PV);2017 2nd quarter;13.4
+926;Upper bound 95% confidence interval;Groningen (PV);2017 3rd quarter;11.0
+927;Upper bound 95% confidence interval;Groningen (PV);2017 4th quarter;10.0
+928;Upper bound 95% confidence interval;Groningen (PV);2018 1st quarter;16.9
+929;Upper bound 95% confidence interval;Groningen (PV);2018 2nd quarter;6.0
+930;Upper bound 95% confidence interval;Groningen (PV);2018 3rd quarter;-2.0
+931;Upper bound 95% confidence interval;Groningen (PV);2018 4th quarter;13.0
+932;Upper bound 95% confidence interval;Groningen (PV);2019 1st quarter;10.5
+933;Upper bound 95% confidence interval;Groningen (PV);2019 2nd quarter;7.8
+934;Upper bound 95% confidence interval;Groningen (PV);2019 3rd quarter;8.8
+935;Upper bound 95% confidence interval;Groningen (PV);2019 4th quarter;7.5
+936;Upper bound 95% confidence interval;Groningen (PV);2020 1st quarter;-1.1
+937;Upper bound 95% confidence interval;Groningen (PV);2020 2nd quarter;-19.4
+938;Upper bound 95% confidence interval;Groningen (PV);2020 3rd quarter;-10.0
+939;Upper bound 95% confidence interval;Groningen (PV);2020 4th quarter;-7.2
+940;Upper bound 95% confidence interval;Groningen (PV);2021 1st quarter;-6.3
+941;Upper bound 95% confidence interval;Groningen (PV);2021 2nd quarter;14.0
+942;Upper bound 95% confidence interval;Groningen (PV);2021 3rd quarter;23.7
+943;Upper bound 95% confidence interval;Groningen (PV);2021 4th quarter;19.9
+944;Upper bound 95% confidence interval;Groningen (PV);2022 1st quarter;10.8
+945;Upper bound 95% confidence interval;Groningen (PV);2022 2nd quarter;12.7
+946;Upper bound 95% confidence interval;Groningen (PV);2022 3rd quarter;6.0
+947;Upper bound 95% confidence interval;Groningen (PV);2022 4th quarter;-3.0
+948;Upper bound 95% confidence interval;Groningen (PV);2023 1st quarter;0.4
+949;Upper bound 95% confidence interval;Groningen (PV);2023 2nd quarter;1.2
+950;Upper bound 95% confidence interval;Fryslân (PV);2014 1st quarter;6.8
+951;Upper bound 95% confidence interval;Fryslân (PV);2014 2nd quarter;4.2
+952;Upper bound 95% confidence interval;Fryslân (PV);2014 3rd quarter;5.1
+953;Upper bound 95% confidence interval;Fryslân (PV);2014 4th quarter;5.4
+954;Upper bound 95% confidence interval;Fryslân (PV);2015 1st quarter;6.8
+955;Upper bound 95% confidence interval;Fryslân (PV);2015 2nd quarter;9.7
+956;Upper bound 95% confidence interval;Fryslân (PV);2015 3rd quarter;12.7
+957;Upper bound 95% confidence interval;Fryslân (PV);2015 4th quarter;16.2
+958;Upper bound 95% confidence interval;Fryslân (PV);2016 1st quarter;8.4
+959;Upper bound 95% confidence interval;Fryslân (PV);2016 2nd quarter;11.0
+960;Upper bound 95% confidence interval;Fryslân (PV);2016 3rd quarter;11.3
+961;Upper bound 95% confidence interval;Fryslân (PV);2016 4th quarter;12.1
+962;Upper bound 95% confidence interval;Fryslân (PV);2017 1st quarter;16.3
+963;Upper bound 95% confidence interval;Fryslân (PV);2017 2nd quarter;19.0
+964;Upper bound 95% confidence interval;Fryslân (PV);2017 3rd quarter;19.6
+965;Upper bound 95% confidence interval;Fryslân (PV);2017 4th quarter;18.0
+966;Upper bound 95% confidence interval;Fryslân (PV);2018 1st quarter;21.2
+967;Upper bound 95% confidence interval;Fryslân (PV);2018 2nd quarter;24.7
+968;Upper bound 95% confidence interval;Fryslân (PV);2018 3rd quarter;18.9
+969;Upper bound 95% confidence interval;Fryslân (PV);2018 4th quarter;18.2
+970;Upper bound 95% confidence interval;Fryslân (PV);2019 1st quarter;16.1
+971;Upper bound 95% confidence interval;Fryslân (PV);2019 2nd quarter;16.8
+972;Upper bound 95% confidence interval;Fryslân (PV);2019 3rd quarter;13.5
+973;Upper bound 95% confidence interval;Fryslân (PV);2019 4th quarter;8.7
+974;Upper bound 95% confidence interval;Fryslân (PV);2020 1st quarter;11.5
+975;Upper bound 95% confidence interval;Fryslân (PV);2020 2nd quarter;-18.6
+976;Upper bound 95% confidence interval;Fryslân (PV);2020 3rd quarter;-9.8
+977;Upper bound 95% confidence interval;Fryslân (PV);2020 4th quarter;2.7
+978;Upper bound 95% confidence interval;Fryslân (PV);2021 1st quarter;3.9
+979;Upper bound 95% confidence interval;Fryslân (PV);2021 2nd quarter;7.1
+980;Upper bound 95% confidence interval;Fryslân (PV);2021 3rd quarter;17.0
+981;Upper bound 95% confidence interval;Fryslân (PV);2021 4th quarter;15.3
+982;Upper bound 95% confidence interval;Fryslân (PV);2022 1st quarter;10.4
+983;Upper bound 95% confidence interval;Fryslân (PV);2022 2nd quarter;17.7
+984;Upper bound 95% confidence interval;Fryslân (PV);2022 3rd quarter;6.9
+985;Upper bound 95% confidence interval;Fryslân (PV);2022 4th quarter;2.4
+986;Upper bound 95% confidence interval;Fryslân (PV);2023 1st quarter;11.8
+987;Upper bound 95% confidence interval;Fryslân (PV);2023 2nd quarter;6.9
+988;Upper bound 95% confidence interval;Drenthe (PV);2014 1st quarter;3.1
+989;Upper bound 95% confidence interval;Drenthe (PV);2014 2nd quarter;2.9
+990;Upper bound 95% confidence interval;Drenthe (PV);2014 3rd quarter;3.4
+991;Upper bound 95% confidence interval;Drenthe (PV);2014 4th quarter;4.3
+992;Upper bound 95% confidence interval;Drenthe (PV);2015 1st quarter;8.6
+993;Upper bound 95% confidence interval;Drenthe (PV);2015 2nd quarter;4.3
+994;Upper bound 95% confidence interval;Drenthe (PV);2015 3rd quarter;13.0
+995;Upper bound 95% confidence interval;Drenthe (PV);2015 4th quarter;7.7
+996;Upper bound 95% confidence interval;Drenthe (PV);2016 1st quarter;8.7
+997;Upper bound 95% confidence interval;Drenthe (PV);2016 2nd quarter;9.8
+998;Upper bound 95% confidence interval;Drenthe (PV);2016 3rd quarter;8.5
+999;Upper bound 95% confidence interval;Drenthe (PV);2016 4th quarter;12.2
+1000;Upper bound 95% confidence interval;Drenthe (PV);2017 1st quarter;11.9
+1001;Upper bound 95% confidence interval;Drenthe (PV);2017 2nd quarter;19.4
+1002;Upper bound 95% confidence interval;Drenthe (PV);2017 3rd quarter;17.1
+1003;Upper bound 95% confidence interval;Drenthe (PV);2017 4th quarter;15.0
+1004;Upper bound 95% confidence interval;Drenthe (PV);2018 1st quarter;22.0
+1005;Upper bound 95% confidence interval;Drenthe (PV);2018 2nd quarter;18.1
+1006;Upper bound 95% confidence interval;Drenthe (PV);2018 3rd quarter;14.8
+1007;Upper bound 95% confidence interval;Drenthe (PV);2018 4th quarter;14.2
+1008;Upper bound 95% confidence interval;Drenthe (PV);2019 1st quarter;13.9
+1009;Upper bound 95% confidence interval;Drenthe (PV);2019 2nd quarter;12.1
+1010;Upper bound 95% confidence interval;Drenthe (PV);2019 3rd quarter;13.0
+1011;Upper bound 95% confidence interval;Drenthe (PV);2019 4th quarter;6.5
+1012;Upper bound 95% confidence interval;Drenthe (PV);2020 1st quarter;5.7
+1013;Upper bound 95% confidence interval;Drenthe (PV);2020 2nd quarter;-30.3
+1014;Upper bound 95% confidence interval;Drenthe (PV);2020 3rd quarter;-16.2
+1015;Upper bound 95% confidence interval;Drenthe (PV);2020 4th quarter;-4.5
+1016;Upper bound 95% confidence interval;Drenthe (PV);2021 1st quarter;-5.3
+1017;Upper bound 95% confidence interval;Drenthe (PV);2021 2nd quarter;0.7
+1018;Upper bound 95% confidence interval;Drenthe (PV);2021 3rd quarter;16.3
+1019;Upper bound 95% confidence interval;Drenthe (PV);2021 4th quarter;18.2
+1020;Upper bound 95% confidence interval;Drenthe (PV);2022 1st quarter;13.9
+1021;Upper bound 95% confidence interval;Drenthe (PV);2022 2nd quarter;13.3
+1022;Upper bound 95% confidence interval;Drenthe (PV);2022 3rd quarter;9.3
+1023;Upper bound 95% confidence interval;Drenthe (PV);2022 4th quarter;4.7
+1024;Upper bound 95% confidence interval;Drenthe (PV);2023 1st quarter;8.0
+1025;Upper bound 95% confidence interval;Drenthe (PV);2023 2nd quarter;7.8
+1026;Upper bound 95% confidence interval;Overijssel (PV);2014 1st quarter;-0.5
+1027;Upper bound 95% confidence interval;Overijssel (PV);2014 2nd quarter;1.1
+1028;Upper bound 95% confidence interval;Overijssel (PV);2014 3rd quarter;2.3
+1029;Upper bound 95% confidence interval;Overijssel (PV);2014 4th quarter;6.4
+1030;Upper bound 95% confidence interval;Overijssel (PV);2015 1st quarter;4.9
+1031;Upper bound 95% confidence interval;Overijssel (PV);2015 2nd quarter;6.2
+1032;Upper bound 95% confidence interval;Overijssel (PV);2015 3rd quarter;9.4
+1033;Upper bound 95% confidence interval;Overijssel (PV);2015 4th quarter;11.8
+1034;Upper bound 95% confidence interval;Overijssel (PV);2016 1st quarter;11.7
+1035;Upper bound 95% confidence interval;Overijssel (PV);2016 2nd quarter;10.4
+1036;Upper bound 95% confidence interval;Overijssel (PV);2016 3rd quarter;11.0
+1037;Upper bound 95% confidence interval;Overijssel (PV);2016 4th quarter;12.2
+1038;Upper bound 95% confidence interval;Overijssel (PV);2017 1st quarter;15.0
+1039;Upper bound 95% confidence interval;Overijssel (PV);2017 2nd quarter;17.7
+1040;Upper bound 95% confidence interval;Overijssel (PV);2017 3rd quarter;18.3
+1041;Upper bound 95% confidence interval;Overijssel (PV);2017 4th quarter;18.6
+1042;Upper bound 95% confidence interval;Overijssel (PV);2018 1st quarter;21.0
+1043;Upper bound 95% confidence interval;Overijssel (PV);2018 2nd quarter;15.7
+1044;Upper bound 95% confidence interval;Overijssel (PV);2018 3rd quarter;16.1
+1045;Upper bound 95% confidence interval;Overijssel (PV);2018 4th quarter;15.8
+1046;Upper bound 95% confidence interval;Overijssel (PV);2019 1st quarter;17.1
+1047;Upper bound 95% confidence interval;Overijssel (PV);2019 2nd quarter;13.1
+1048;Upper bound 95% confidence interval;Overijssel (PV);2019 3rd quarter;12.3
+1049;Upper bound 95% confidence interval;Overijssel (PV);2019 4th quarter;8.9
+1050;Upper bound 95% confidence interval;Overijssel (PV);2020 1st quarter;7.9
+1051;Upper bound 95% confidence interval;Overijssel (PV);2020 2nd quarter;-27.4
+1052;Upper bound 95% confidence interval;Overijssel (PV);2020 3rd quarter;-11.6
+1053;Upper bound 95% confidence interval;Overijssel (PV);2020 4th quarter;-4.4
+1054;Upper bound 95% confidence interval;Overijssel (PV);2021 1st quarter;1.9
+1055;Upper bound 95% confidence interval;Overijssel (PV);2021 2nd quarter;12.2
+1056;Upper bound 95% confidence interval;Overijssel (PV);2021 3rd quarter;19.1
+1057;Upper bound 95% confidence interval;Overijssel (PV);2021 4th quarter;15.4
+1058;Upper bound 95% confidence interval;Overijssel (PV);2022 1st quarter;14.0
+1059;Upper bound 95% confidence interval;Overijssel (PV);2022 2nd quarter;17.0
+1060;Upper bound 95% confidence interval;Overijssel (PV);2022 3rd quarter;10.4
+1061;Upper bound 95% confidence interval;Overijssel (PV);2022 4th quarter;4.4
+1062;Upper bound 95% confidence interval;Overijssel (PV);2023 1st quarter;4.6
+1063;Upper bound 95% confidence interval;Overijssel (PV);2023 2nd quarter;4.4
+1064;Upper bound 95% confidence interval;Flevoland (PV);2014 1st quarter;5.6
+1065;Upper bound 95% confidence interval;Flevoland (PV);2014 2nd quarter;5.9
+1066;Upper bound 95% confidence interval;Flevoland (PV);2014 3rd quarter;5.3
+1067;Upper bound 95% confidence interval;Flevoland (PV);2014 4th quarter;8.6
+1068;Upper bound 95% confidence interval;Flevoland (PV);2015 1st quarter;11.0
+1069;Upper bound 95% confidence interval;Flevoland (PV);2015 2nd quarter;13.3
+1070;Upper bound 95% confidence interval;Flevoland (PV);2015 3rd quarter;12.5
+1071;Upper bound 95% confidence interval;Flevoland (PV);2015 4th quarter;12.1
+1072;Upper bound 95% confidence interval;Flevoland (PV);2016 1st quarter;16.0
+1073;Upper bound 95% confidence interval;Flevoland (PV);2016 2nd quarter;9.3
+1074;Upper bound 95% confidence interval;Flevoland (PV);2016 3rd quarter;16.7
+1075;Upper bound 95% confidence interval;Flevoland (PV);2016 4th quarter;18.3
+1076;Upper bound 95% confidence interval;Flevoland (PV);2017 1st quarter;21.5
+1077;Upper bound 95% confidence interval;Flevoland (PV);2017 2nd quarter;19.6
+1078;Upper bound 95% confidence interval;Flevoland (PV);2017 3rd quarter;20.4
+1079;Upper bound 95% confidence interval;Flevoland (PV);2017 4th quarter;19.4
+1080;Upper bound 95% confidence interval;Flevoland (PV);2018 1st quarter;15.0
+1081;Upper bound 95% confidence interval;Flevoland (PV);2018 2nd quarter;10.3
+1082;Upper bound 95% confidence interval;Flevoland (PV);2018 3rd quarter;13.1
+1083;Upper bound 95% confidence interval;Flevoland (PV);2018 4th quarter;13.5
+1084;Upper bound 95% confidence interval;Flevoland (PV);2019 1st quarter;11.8
+1085;Upper bound 95% confidence interval;Flevoland (PV);2019 2nd quarter;8.2
+1086;Upper bound 95% confidence interval;Flevoland (PV);2019 3rd quarter;13.5
+1087;Upper bound 95% confidence interval;Flevoland (PV);2019 4th quarter;10.1
+1088;Upper bound 95% confidence interval;Flevoland (PV);2020 1st quarter;9.0
+1089;Upper bound 95% confidence interval;Flevoland (PV);2020 2nd quarter;-21.2
+1090;Upper bound 95% confidence interval;Flevoland (PV);2020 3rd quarter;-9.6
+1091;Upper bound 95% confidence interval;Flevoland (PV);2020 4th quarter;-3.9
+1092;Upper bound 95% confidence interval;Flevoland (PV);2021 1st quarter;-1.7
+1093;Upper bound 95% confidence interval;Flevoland (PV);2021 2nd quarter;4.5
+1094;Upper bound 95% confidence interval;Flevoland (PV);2021 3rd quarter;22.5
+1095;Upper bound 95% confidence interval;Flevoland (PV);2021 4th quarter;18.7
+1096;Upper bound 95% confidence interval;Flevoland (PV);2022 1st quarter;10.3
+1097;Upper bound 95% confidence interval;Flevoland (PV);2022 2nd quarter;22.6
+1098;Upper bound 95% confidence interval;Flevoland (PV);2022 3rd quarter;17.0
+1099;Upper bound 95% confidence interval;Flevoland (PV);2022 4th quarter;2.5
+1100;Upper bound 95% confidence interval;Flevoland (PV);2023 1st quarter;12.7
+1101;Upper bound 95% confidence interval;Flevoland (PV);2023 2nd quarter;5.8
+1102;Upper bound 95% confidence interval;Gelderland (PV);2014 1st quarter;1.0
+1103;Upper bound 95% confidence interval;Gelderland (PV);2014 2nd quarter;3.6
+1104;Upper bound 95% confidence interval;Gelderland (PV);2014 3rd quarter;5.9
+1105;Upper bound 95% confidence interval;Gelderland (PV);2014 4th quarter;5.9
+1106;Upper bound 95% confidence interval;Gelderland (PV);2015 1st quarter;7.1
+1107;Upper bound 95% confidence interval;Gelderland (PV);2015 2nd quarter;7.5
+1108;Upper bound 95% confidence interval;Gelderland (PV);2015 3rd quarter;14.0
+1109;Upper bound 95% confidence interval;Gelderland (PV);2015 4th quarter;10.7
+1110;Upper bound 95% confidence interval;Gelderland (PV);2016 1st quarter;12.7
+1111;Upper bound 95% confidence interval;Gelderland (PV);2016 2nd quarter;12.3
+1112;Upper bound 95% confidence interval;Gelderland (PV);2016 3rd quarter;12.8
+1113;Upper bound 95% confidence interval;Gelderland (PV);2016 4th quarter;14.1
+1114;Upper bound 95% confidence interval;Gelderland (PV);2017 1st quarter;17.8
+1115;Upper bound 95% confidence interval;Gelderland (PV);2017 2nd quarter;19.6
+1116;Upper bound 95% confidence interval;Gelderland (PV);2017 3rd quarter;19.9
+1117;Upper bound 95% confidence interval;Gelderland (PV);2017 4th quarter;19.8
+1118;Upper bound 95% confidence interval;Gelderland (PV);2018 1st quarter;20.4
+1119;Upper bound 95% confidence interval;Gelderland (PV);2018 2nd quarter;17.2
+1120;Upper bound 95% confidence interval;Gelderland (PV);2018 3rd quarter;21.9
+1121;Upper bound 95% confidence interval;Gelderland (PV);2018 4th quarter;17.2
+1122;Upper bound 95% confidence interval;Gelderland (PV);2019 1st quarter;13.0
+1123;Upper bound 95% confidence interval;Gelderland (PV);2019 2nd quarter;13.9
+1124;Upper bound 95% confidence interval;Gelderland (PV);2019 3rd quarter;12.8
+1125;Upper bound 95% confidence interval;Gelderland (PV);2019 4th quarter;10.1
+1126;Upper bound 95% confidence interval;Gelderland (PV);2020 1st quarter;10.2
+1127;Upper bound 95% confidence interval;Gelderland (PV);2020 2nd quarter;-30.7
+1128;Upper bound 95% confidence interval;Gelderland (PV);2020 3rd quarter;-15.3
+1129;Upper bound 95% confidence interval;Gelderland (PV);2020 4th quarter;-4.9
+1130;Upper bound 95% confidence interval;Gelderland (PV);2021 1st quarter;-4.0
+1131;Upper bound 95% confidence interval;Gelderland (PV);2021 2nd quarter;8.9
+1132;Upper bound 95% confidence interval;Gelderland (PV);2021 3rd quarter;21.7
+1133;Upper bound 95% confidence interval;Gelderland (PV);2021 4th quarter;15.1
+1134;Upper bound 95% confidence interval;Gelderland (PV);2022 1st quarter;4.1
+1135;Upper bound 95% confidence interval;Gelderland (PV);2022 2nd quarter;11.6
+1136;Upper bound 95% confidence interval;Gelderland (PV);2022 3rd quarter;9.1
+1137;Upper bound 95% confidence interval;Gelderland (PV);2022 4th quarter;3.0
+1138;Upper bound 95% confidence interval;Gelderland (PV);2023 1st quarter;6.4
+1139;Upper bound 95% confidence interval;Gelderland (PV);2023 2nd quarter;5.3
+1140;Upper bound 95% confidence interval;Utrecht (PV);2014 1st quarter;-3.4
+1141;Upper bound 95% confidence interval;Utrecht (PV);2014 2nd quarter;8.1
+1142;Upper bound 95% confidence interval;Utrecht (PV);2014 3rd quarter;2.4
+1143;Upper bound 95% confidence interval;Utrecht (PV);2014 4th quarter;5.4
+1144;Upper bound 95% confidence interval;Utrecht (PV);2015 1st quarter;10.3
+1145;Upper bound 95% confidence interval;Utrecht (PV);2015 2nd quarter;7.8
+1146;Upper bound 95% confidence interval;Utrecht (PV);2015 3rd quarter;8.2
+1147;Upper bound 95% confidence interval;Utrecht (PV);2015 4th quarter;9.7
+1148;Upper bound 95% confidence interval;Utrecht (PV);2016 1st quarter;10.0
+1149;Upper bound 95% confidence interval;Utrecht (PV);2016 2nd quarter;10.0
+1150;Upper bound 95% confidence interval;Utrecht (PV);2016 3rd quarter;14.2
+1151;Upper bound 95% confidence interval;Utrecht (PV);2016 4th quarter;12.3
+1152;Upper bound 95% confidence interval;Utrecht (PV);2017 1st quarter;14.2
+1153;Upper bound 95% confidence interval;Utrecht (PV);2017 2nd quarter;17.9
+1154;Upper bound 95% confidence interval;Utrecht (PV);2017 3rd quarter;14.4
+1155;Upper bound 95% confidence interval;Utrecht (PV);2017 4th quarter;11.5
+1156;Upper bound 95% confidence interval;Utrecht (PV);2018 1st quarter;10.2
+1157;Upper bound 95% confidence interval;Utrecht (PV);2018 2nd quarter;12.4
+1158;Upper bound 95% confidence interval;Utrecht (PV);2018 3rd quarter;16.2
+1159;Upper bound 95% confidence interval;Utrecht (PV);2018 4th quarter;16.9
+1160;Upper bound 95% confidence interval;Utrecht (PV);2019 1st quarter;12.5
+1161;Upper bound 95% confidence interval;Utrecht (PV);2019 2nd quarter;12.2
+1162;Upper bound 95% confidence interval;Utrecht (PV);2019 3rd quarter;13.2
+1163;Upper bound 95% confidence interval;Utrecht (PV);2019 4th quarter;8.2
+1164;Upper bound 95% confidence interval;Utrecht (PV);2020 1st quarter;5.3
+1165;Upper bound 95% confidence interval;Utrecht (PV);2020 2nd quarter;-30.7
+1166;Upper bound 95% confidence interval;Utrecht (PV);2020 3rd quarter;-19.5
+1167;Upper bound 95% confidence interval;Utrecht (PV);2020 4th quarter;-5.2
+1168;Upper bound 95% confidence interval;Utrecht (PV);2021 1st quarter;-3.8
+1169;Upper bound 95% confidence interval;Utrecht (PV);2021 2nd quarter;8.1
+1170;Upper bound 95% confidence interval;Utrecht (PV);2021 3rd quarter;23.4
+1171;Upper bound 95% confidence interval;Utrecht (PV);2021 4th quarter;18.8
+1172;Upper bound 95% confidence interval;Utrecht (PV);2022 1st quarter;7.7
+1173;Upper bound 95% confidence interval;Utrecht (PV);2022 2nd quarter;17.3
+1174;Upper bound 95% confidence interval;Utrecht (PV);2022 3rd quarter;10.5
+1175;Upper bound 95% confidence interval;Utrecht (PV);2022 4th quarter;1.6
+1176;Upper bound 95% confidence interval;Utrecht (PV);2023 1st quarter;9.6
+1177;Upper bound 95% confidence interval;Utrecht (PV);2023 2nd quarter;12.6
+1178;Upper bound 95% confidence interval;Noord-Holland (PV);2014 1st quarter;-0.4
+1179;Upper bound 95% confidence interval;Noord-Holland (PV);2014 2nd quarter;1.9
+1180;Upper bound 95% confidence interval;Noord-Holland (PV);2014 3rd quarter;7.6
+1181;Upper bound 95% confidence interval;Noord-Holland (PV);2014 4th quarter;7.7
+1182;Upper bound 95% confidence interval;Noord-Holland (PV);2015 1st quarter;7.8
+1183;Upper bound 95% confidence interval;Noord-Holland (PV);2015 2nd quarter;10.0
+1184;Upper bound 95% confidence interval;Noord-Holland (PV);2015 3rd quarter;12.1
+1185;Upper bound 95% confidence interval;Noord-Holland (PV);2015 4th quarter;12.9
+1186;Upper bound 95% confidence interval;Noord-Holland (PV);2016 1st quarter;11.4
+1187;Upper bound 95% confidence interval;Noord-Holland (PV);2016 2nd quarter;10.1
+1188;Upper bound 95% confidence interval;Noord-Holland (PV);2016 3rd quarter;11.5
+1189;Upper bound 95% confidence interval;Noord-Holland (PV);2016 4th quarter;10.8
+1190;Upper bound 95% confidence interval;Noord-Holland (PV);2017 1st quarter;16.9
+1191;Upper bound 95% confidence interval;Noord-Holland (PV);2017 2nd quarter;17.5
+1192;Upper bound 95% confidence interval;Noord-Holland (PV);2017 3rd quarter;17.1
+1193;Upper bound 95% confidence interval;Noord-Holland (PV);2017 4th quarter;17.4
+1194;Upper bound 95% confidence interval;Noord-Holland (PV);2018 1st quarter;21.1
+1195;Upper bound 95% confidence interval;Noord-Holland (PV);2018 2nd quarter;17.7
+1196;Upper bound 95% confidence interval;Noord-Holland (PV);2018 3rd quarter;20.2
+1197;Upper bound 95% confidence interval;Noord-Holland (PV);2018 4th quarter;16.9
+1198;Upper bound 95% confidence interval;Noord-Holland (PV);2019 1st quarter;9.0
+1199;Upper bound 95% confidence interval;Noord-Holland (PV);2019 2nd quarter;12.3
+1200;Upper bound 95% confidence interval;Noord-Holland (PV);2019 3rd quarter;14.6
+1201;Upper bound 95% confidence interval;Noord-Holland (PV);2019 4th quarter;8.8
+1202;Upper bound 95% confidence interval;Noord-Holland (PV);2020 1st quarter;7.7
+1203;Upper bound 95% confidence interval;Noord-Holland (PV);2020 2nd quarter;-35.5
+1204;Upper bound 95% confidence interval;Noord-Holland (PV);2020 3rd quarter;-20.8
+1205;Upper bound 95% confidence interval;Noord-Holland (PV);2020 4th quarter;-5.1
+1206;Upper bound 95% confidence interval;Noord-Holland (PV);2021 1st quarter;-4.8
+1207;Upper bound 95% confidence interval;Noord-Holland (PV);2021 2nd quarter;4.8
+1208;Upper bound 95% confidence interval;Noord-Holland (PV);2021 3rd quarter;22.1
+1209;Upper bound 95% confidence interval;Noord-Holland (PV);2021 4th quarter;19.4
+1210;Upper bound 95% confidence interval;Noord-Holland (PV);2022 1st quarter;9.3
+1211;Upper bound 95% confidence interval;Noord-Holland (PV);2022 2nd quarter;18.5
+1212;Upper bound 95% confidence interval;Noord-Holland (PV);2022 3rd quarter;10.5
+1213;Upper bound 95% confidence interval;Noord-Holland (PV);2022 4th quarter;6.3
+1214;Upper bound 95% confidence interval;Noord-Holland (PV);2023 1st quarter;7.6
+1215;Upper bound 95% confidence interval;Noord-Holland (PV);2023 2nd quarter;11.1
+1216;Upper bound 95% confidence interval;Zuid-Holland (PV);2014 1st quarter;1.9
+1217;Upper bound 95% confidence interval;Zuid-Holland (PV);2014 2nd quarter;4.9
+1218;Upper bound 95% confidence interval;Zuid-Holland (PV);2014 3rd quarter;5.4
+1219;Upper bound 95% confidence interval;Zuid-Holland (PV);2014 4th quarter;4.2
+1220;Upper bound 95% confidence interval;Zuid-Holland (PV);2015 1st quarter;4.7
+1221;Upper bound 95% confidence interval;Zuid-Holland (PV);2015 2nd quarter;5.8
+1222;Upper bound 95% confidence interval;Zuid-Holland (PV);2015 3rd quarter;9.2
+1223;Upper bound 95% confidence interval;Zuid-Holland (PV);2015 4th quarter;10.8
+1224;Upper bound 95% confidence interval;Zuid-Holland (PV);2016 1st quarter;9.3
+1225;Upper bound 95% confidence interval;Zuid-Holland (PV);2016 2nd quarter;10.5
+1226;Upper bound 95% confidence interval;Zuid-Holland (PV);2016 3rd quarter;7.6
+1227;Upper bound 95% confidence interval;Zuid-Holland (PV);2016 4th quarter;10.9
+1228;Upper bound 95% confidence interval;Zuid-Holland (PV);2017 1st quarter;13.1
+1229;Upper bound 95% confidence interval;Zuid-Holland (PV);2017 2nd quarter;14.1
+1230;Upper bound 95% confidence interval;Zuid-Holland (PV);2017 3rd quarter;16.1
+1231;Upper bound 95% confidence interval;Zuid-Holland (PV);2017 4th quarter;13.8
+1232;Upper bound 95% confidence interval;Zuid-Holland (PV);2018 1st quarter;18.4
+1233;Upper bound 95% confidence interval;Zuid-Holland (PV);2018 2nd quarter;14.3
+1234;Upper bound 95% confidence interval;Zuid-Holland (PV);2018 3rd quarter;14.5
+1235;Upper bound 95% confidence interval;Zuid-Holland (PV);2018 4th quarter;11.3
+1236;Upper bound 95% confidence interval;Zuid-Holland (PV);2019 1st quarter;11.0
+1237;Upper bound 95% confidence interval;Zuid-Holland (PV);2019 2nd quarter;13.0
+1238;Upper bound 95% confidence interval;Zuid-Holland (PV);2019 3rd quarter;12.8
+1239;Upper bound 95% confidence interval;Zuid-Holland (PV);2019 4th quarter;7.8
+1240;Upper bound 95% confidence interval;Zuid-Holland (PV);2020 1st quarter;9.5
+1241;Upper bound 95% confidence interval;Zuid-Holland (PV);2020 2nd quarter;-28.2
+1242;Upper bound 95% confidence interval;Zuid-Holland (PV);2020 3rd quarter;-15.4
+1243;Upper bound 95% confidence interval;Zuid-Holland (PV);2020 4th quarter;-7.3
+1244;Upper bound 95% confidence interval;Zuid-Holland (PV);2021 1st quarter;-5.5
+1245;Upper bound 95% confidence interval;Zuid-Holland (PV);2021 2nd quarter;5.1
+1246;Upper bound 95% confidence interval;Zuid-Holland (PV);2021 3rd quarter;16.4
+1247;Upper bound 95% confidence interval;Zuid-Holland (PV);2021 4th quarter;15.1
+1248;Upper bound 95% confidence interval;Zuid-Holland (PV);2022 1st quarter;8.4
+1249;Upper bound 95% confidence interval;Zuid-Holland (PV);2022 2nd quarter;13.7
+1250;Upper bound 95% confidence interval;Zuid-Holland (PV);2022 3rd quarter;9.0
+1251;Upper bound 95% confidence interval;Zuid-Holland (PV);2022 4th quarter;1.8
+1252;Upper bound 95% confidence interval;Zuid-Holland (PV);2023 1st quarter;7.3
+1253;Upper bound 95% confidence interval;Zuid-Holland (PV);2023 2nd quarter;6.3
+1254;Upper bound 95% confidence interval;Zeeland (PV);2014 1st quarter;4.4
+1255;Upper bound 95% confidence interval;Zeeland (PV);2014 2nd quarter;4.0
+1256;Upper bound 95% confidence interval;Zeeland (PV);2014 3rd quarter;-5.7
+1257;Upper bound 95% confidence interval;Zeeland (PV);2014 4th quarter;3.2
+1258;Upper bound 95% confidence interval;Zeeland (PV);2015 1st quarter;8.3
+1259;Upper bound 95% confidence interval;Zeeland (PV);2015 2nd quarter;8.8
+1260;Upper bound 95% confidence interval;Zeeland (PV);2015 3rd quarter;12.4
+1261;Upper bound 95% confidence interval;Zeeland (PV);2015 4th quarter;10.6
+1262;Upper bound 95% confidence interval;Zeeland (PV);2016 1st quarter;13.6
+1263;Upper bound 95% confidence interval;Zeeland (PV);2016 2nd quarter;14.2
+1264;Upper bound 95% confidence interval;Zeeland (PV);2016 3rd quarter;13.1
+1265;Upper bound 95% confidence interval;Zeeland (PV);2016 4th quarter;12.3
+1266;Upper bound 95% confidence interval;Zeeland (PV);2017 1st quarter;16.3
+1267;Upper bound 95% confidence interval;Zeeland (PV);2017 2nd quarter;14.2
+1268;Upper bound 95% confidence interval;Zeeland (PV);2017 3rd quarter;14.4
+1269;Upper bound 95% confidence interval;Zeeland (PV);2017 4th quarter;15.8
+1270;Upper bound 95% confidence interval;Zeeland (PV);2018 1st quarter;15.3
+1271;Upper bound 95% confidence interval;Zeeland (PV);2018 2nd quarter;16.5
+1272;Upper bound 95% confidence interval;Zeeland (PV);2018 3rd quarter;14.8
+1273;Upper bound 95% confidence interval;Zeeland (PV);2018 4th quarter;13.1
+1274;Upper bound 95% confidence interval;Zeeland (PV);2019 1st quarter;16.4
+1275;Upper bound 95% confidence interval;Zeeland (PV);2019 2nd quarter;14.7
+1276;Upper bound 95% confidence interval;Zeeland (PV);2019 3rd quarter;11.2
+1277;Upper bound 95% confidence interval;Zeeland (PV);2019 4th quarter;8.2
+1278;Upper bound 95% confidence interval;Zeeland (PV);2020 1st quarter;8.6
+1279;Upper bound 95% confidence interval;Zeeland (PV);2020 2nd quarter;-26.3
+1280;Upper bound 95% confidence interval;Zeeland (PV);2020 3rd quarter;-5.7
+1281;Upper bound 95% confidence interval;Zeeland (PV);2020 4th quarter;-3.9
+1282;Upper bound 95% confidence interval;Zeeland (PV);2021 1st quarter;-11.8
+1283;Upper bound 95% confidence interval;Zeeland (PV);2021 2nd quarter;5.7
+1284;Upper bound 95% confidence interval;Zeeland (PV);2021 3rd quarter;23.1
+1285;Upper bound 95% confidence interval;Zeeland (PV);2021 4th quarter;16.7
+1286;Upper bound 95% confidence interval;Zeeland (PV);2022 1st quarter;12.8
+1287;Upper bound 95% confidence interval;Zeeland (PV);2022 2nd quarter;18.0
+1288;Upper bound 95% confidence interval;Zeeland (PV);2022 3rd quarter;10.7
+1289;Upper bound 95% confidence interval;Zeeland (PV);2022 4th quarter;2.7
+1290;Upper bound 95% confidence interval;Zeeland (PV);2023 1st quarter;6.0
+1291;Upper bound 95% confidence interval;Zeeland (PV);2023 2nd quarter;9.2
+1292;Upper bound 95% confidence interval;Noord-Brabant (PV);2014 1st quarter;2.4
+1293;Upper bound 95% confidence interval;Noord-Brabant (PV);2014 2nd quarter;4.5
+1294;Upper bound 95% confidence interval;Noord-Brabant (PV);2014 3rd quarter;2.0
+1295;Upper bound 95% confidence interval;Noord-Brabant (PV);2014 4th quarter;6.6
+1296;Upper bound 95% confidence interval;Noord-Brabant (PV);2015 1st quarter;6.5
+1297;Upper bound 95% confidence interval;Noord-Brabant (PV);2015 2nd quarter;8.7
+1298;Upper bound 95% confidence interval;Noord-Brabant (PV);2015 3rd quarter;9.4
+1299;Upper bound 95% confidence interval;Noord-Brabant (PV);2015 4th quarter;9.6
+1300;Upper bound 95% confidence interval;Noord-Brabant (PV);2016 1st quarter;9.1
+1301;Upper bound 95% confidence interval;Noord-Brabant (PV);2016 2nd quarter;8.2
+1302;Upper bound 95% confidence interval;Noord-Brabant (PV);2016 3rd quarter;9.2
+1303;Upper bound 95% confidence interval;Noord-Brabant (PV);2016 4th quarter;10.8
+1304;Upper bound 95% confidence interval;Noord-Brabant (PV);2017 1st quarter;15.0
+1305;Upper bound 95% confidence interval;Noord-Brabant (PV);2017 2nd quarter;13.6
+1306;Upper bound 95% confidence interval;Noord-Brabant (PV);2017 3rd quarter;14.2
+1307;Upper bound 95% confidence interval;Noord-Brabant (PV);2017 4th quarter;14.6
+1308;Upper bound 95% confidence interval;Noord-Brabant (PV);2018 1st quarter;17.0
+1309;Upper bound 95% confidence interval;Noord-Brabant (PV);2018 2nd quarter;15.0
+1310;Upper bound 95% confidence interval;Noord-Brabant (PV);2018 3rd quarter;14.2
+1311;Upper bound 95% confidence interval;Noord-Brabant (PV);2018 4th quarter;13.0
+1312;Upper bound 95% confidence interval;Noord-Brabant (PV);2019 1st quarter;12.5
+1313;Upper bound 95% confidence interval;Noord-Brabant (PV);2019 2nd quarter;11.9
+1314;Upper bound 95% confidence interval;Noord-Brabant (PV);2019 3rd quarter;9.4
+1315;Upper bound 95% confidence interval;Noord-Brabant (PV);2019 4th quarter;7.8
+1316;Upper bound 95% confidence interval;Noord-Brabant (PV);2020 1st quarter;7.6
+1317;Upper bound 95% confidence interval;Noord-Brabant (PV);2020 2nd quarter;-27.8
+1318;Upper bound 95% confidence interval;Noord-Brabant (PV);2020 3rd quarter;-13.5
+1319;Upper bound 95% confidence interval;Noord-Brabant (PV);2020 4th quarter;-7.0
+1320;Upper bound 95% confidence interval;Noord-Brabant (PV);2021 1st quarter;-2.6
+1321;Upper bound 95% confidence interval;Noord-Brabant (PV);2021 2nd quarter;8.3
+1322;Upper bound 95% confidence interval;Noord-Brabant (PV);2021 3rd quarter;19.8
+1323;Upper bound 95% confidence interval;Noord-Brabant (PV);2021 4th quarter;15.4
+1324;Upper bound 95% confidence interval;Noord-Brabant (PV);2022 1st quarter;7.6
+1325;Upper bound 95% confidence interval;Noord-Brabant (PV);2022 2nd quarter;14.2
+1326;Upper bound 95% confidence interval;Noord-Brabant (PV);2022 3rd quarter;9.9
+1327;Upper bound 95% confidence interval;Noord-Brabant (PV);2022 4th quarter;7.5
+1328;Upper bound 95% confidence interval;Noord-Brabant (PV);2023 1st quarter;9.3
+1329;Upper bound 95% confidence interval;Noord-Brabant (PV);2023 2nd quarter;7.8
+1330;Upper bound 95% confidence interval;Limburg (PV);2014 1st quarter;3.3
+1331;Upper bound 95% confidence interval;Limburg (PV);2014 2nd quarter;5.2
+1332;Upper bound 95% confidence interval;Limburg (PV);2014 3rd quarter;4.1
+1333;Upper bound 95% confidence interval;Limburg (PV);2014 4th quarter;3.0
+1334;Upper bound 95% confidence interval;Limburg (PV);2015 1st quarter;5.5
+1335;Upper bound 95% confidence interval;Limburg (PV);2015 2nd quarter;7.6
+1336;Upper bound 95% confidence interval;Limburg (PV);2015 3rd quarter;9.9
+1337;Upper bound 95% confidence interval;Limburg (PV);2015 4th quarter;8.7
+1338;Upper bound 95% confidence interval;Limburg (PV);2016 1st quarter;8.4
+1339;Upper bound 95% confidence interval;Limburg (PV);2016 2nd quarter;8.4
+1340;Upper bound 95% confidence interval;Limburg (PV);2016 3rd quarter;11.1
+1341;Upper bound 95% confidence interval;Limburg (PV);2016 4th quarter;11.3
+1342;Upper bound 95% confidence interval;Limburg (PV);2017 1st quarter;16.0
+1343;Upper bound 95% confidence interval;Limburg (PV);2017 2nd quarter;14.5
+1344;Upper bound 95% confidence interval;Limburg (PV);2017 3rd quarter;13.3
+1345;Upper bound 95% confidence interval;Limburg (PV);2017 4th quarter;14.1
+1346;Upper bound 95% confidence interval;Limburg (PV);2018 1st quarter;15.9
+1347;Upper bound 95% confidence interval;Limburg (PV);2018 2nd quarter;15.4
+1348;Upper bound 95% confidence interval;Limburg (PV);2018 3rd quarter;18.1
+1349;Upper bound 95% confidence interval;Limburg (PV);2018 4th quarter;13.2
+1350;Upper bound 95% confidence interval;Limburg (PV);2019 1st quarter;9.6
+1351;Upper bound 95% confidence interval;Limburg (PV);2019 2nd quarter;11.1
+1352;Upper bound 95% confidence interval;Limburg (PV);2019 3rd quarter;6.9
+1353;Upper bound 95% confidence interval;Limburg (PV);2019 4th quarter;1.2
+1354;Upper bound 95% confidence interval;Limburg (PV);2020 1st quarter;1.6
+1355;Upper bound 95% confidence interval;Limburg (PV);2020 2nd quarter;-33.8
+1356;Upper bound 95% confidence interval;Limburg (PV);2020 3rd quarter;-15.1
+1357;Upper bound 95% confidence interval;Limburg (PV);2020 4th quarter;-10.6
+1358;Upper bound 95% confidence interval;Limburg (PV);2021 1st quarter;-9.4
+1359;Upper bound 95% confidence interval;Limburg (PV);2021 2nd quarter;5.6
+1360;Upper bound 95% confidence interval;Limburg (PV);2021 3rd quarter;21.0
+1361;Upper bound 95% confidence interval;Limburg (PV);2021 4th quarter;14.3
+1362;Upper bound 95% confidence interval;Limburg (PV);2022 1st quarter;10.6
+1363;Upper bound 95% confidence interval;Limburg (PV);2022 2nd quarter;14.5
+1364;Upper bound 95% confidence interval;Limburg (PV);2022 3rd quarter;4.6
+1365;Upper bound 95% confidence interval;Limburg (PV);2022 4th quarter;0.8
+1366;Upper bound 95% confidence interval;Limburg (PV);2023 1st quarter;7.8
+1367;Upper bound 95% confidence interval;Limburg (PV);2023 2nd quarter;2.0

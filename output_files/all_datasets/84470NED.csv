@@ -1,0 +1,193 @@
+﻿ID;SoortFruit;Perioden;TeeltoppervlakteFruit_1
+0;Fruit open grond (totaal);2015;19770.0
+1;Fruit open grond (totaal);2016;20367.0
+2;Fruit open grond (totaal);2017;20463.0
+3;Fruit open grond (totaal);2018;20443.0
+4;Fruit open grond (totaal);2019;20382.0
+5;Fruit open grond (totaal);2020;19926.0
+6;Kleinfruit open grond (totaal);2015;1613.0
+7;Kleinfruit open grond (totaal);2016;1627.0
+8;Kleinfruit open grond (totaal);2017;1743.0
+9;Kleinfruit open grond (totaal);2018;1868.0
+10;Kleinfruit open grond (totaal);2019;1859.0
+11;Kleinfruit open grond (totaal);2020;1761.0
+12;Blauwe bessen;2015;737.0
+13;Blauwe bessen;2016;777.0
+14;Blauwe bessen;2017;832.0
+15;Blauwe bessen;2018;934.0
+16;Blauwe bessen;2019;949.0
+17;Blauwe bessen;2020;920.0
+18;Bramen open grond;2015;36.0
+19;Bramen open grond;2016;28.0
+20;Bramen open grond;2017;38.0
+21;Bramen open grond;2018;43.0
+22;Bramen open grond;2019;42.0
+23;Bramen open grond;2020;51.0
+24;Frambozen open grond;2015;151.0
+25;Frambozen open grond;2016;202.0
+26;Frambozen open grond;2017;250.0
+27;Frambozen open grond;2018;259.0
+28;Frambozen open grond;2019;252.0
+29;Frambozen open grond;2020;193.0
+30;Rode bessen;2015;258.0
+31;Rode bessen;2016;263.0
+32;Rode bessen;2017;283.0
+33;Rode bessen;2018;311.0
+34;Rode bessen;2019;324.0
+35;Rode bessen;2020;336.0
+36;Zwarte bessen;2015;352.0
+37;Zwarte bessen;2016;277.0
+38;Zwarte bessen;2017;234.0
+39;Zwarte bessen;2018;224.0
+40;Zwarte bessen;2019;206.0
+41;Zwarte bessen;2020;190.0
+42;Overige kleinfruit;2015;79.0
+43;Overige kleinfruit;2016;80.0
+44;Overige kleinfruit;2017;106.0
+45;Overige kleinfruit;2018;98.0
+46;Overige kleinfruit;2019;85.0
+47;Overige kleinfruit;2020;71.0
+48;Pit- en steenvruchten (totaal);2015;17947.0
+49;Pit- en steenvruchten (totaal);2016;18523.0
+50;Pit- en steenvruchten (totaal);2017;18496.0
+51;Pit- en steenvruchten (totaal);2018;18334.0
+52;Pit- en steenvruchten (totaal);2019;18295.0
+53;Pit- en steenvruchten (totaal);2020;17922.0
+54;Appelrassen (totaal);2015;7600.0
+55;Appelrassen (totaal);2016;7342.0
+56;Appelrassen (totaal);2017;6953.0
+57;Appelrassen (totaal);2018;6598.0
+58;Appelrassen (totaal);2019;6421.0
+59;Appelrassen (totaal);2020;6154.0
+60;Elstar;2015;
+61;Elstar;2016;
+62;Elstar;2017;
+63;Elstar;2018;2892.0
+64;Elstar;2019;2852.0
+65;Elstar;2020;2709.0
+66;Golden Delicious;2015;
+67;Golden Delicious;2016;
+68;Golden Delicious;2017;
+69;Golden Delicious;2018;212.0
+70;Golden Delicious;2019;204.0
+71;Golden Delicious;2020;175.0
+72;Jonagold (incl. Jonagored);2015;
+73;Jonagold (incl. Jonagored);2016;
+74;Jonagold (incl. Jonagored);2017;
+75;Jonagold (incl. Jonagored);2018;1318.0
+76;Jonagold (incl. Jonagored);2019;1203.0
+77;Jonagold (incl. Jonagored);2020;1140.0
+78;Junami;2015;
+79;Junami;2016;
+80;Junami;2017;
+81;Junami;2018;340.0
+82;Junami;2019;333.0
+83;Junami;2020;283.0
+84;Kanzi;2015;
+85;Kanzi;2016;
+86;Kanzi;2017;
+87;Kanzi;2018;435.0
+88;Kanzi;2019;402.0
+89;Kanzi;2020;397.0
+90;Rode Boskoop (Goudreinette);2015;
+91;Rode Boskoop (Goudreinette);2016;
+92;Rode Boskoop (Goudreinette);2017;
+93;Rode Boskoop (Goudreinette);2018;333.0
+94;Rode Boskoop (Goudreinette);2019;311.0
+95;Rode Boskoop (Goudreinette);2020;288.0
+96;Overige appelrassen;2015;
+97;Overige appelrassen;2016;
+98;Overige appelrassen;2017;
+99;Overige appelrassen;2018;1068.0
+100;Overige appelrassen;2019;1117.0
+101;Overige appelrassen;2020;1163.0
+102;Perenrassen (totaal);2015;9234.0
+103;Perenrassen (totaal);2016;9451.0
+104;Perenrassen (totaal);2017;9741.0
+105;Perenrassen (totaal);2018;9970.0
+106;Perenrassen (totaal);2019;10086.0
+107;Perenrassen (totaal);2020;10001.0
+108;Beurré Alexandre Lucas;2015;
+109;Beurré Alexandre Lucas;2016;
+110;Beurré Alexandre Lucas;2017;
+111;Beurré Alexandre Lucas;2018;673.0
+112;Beurré Alexandre Lucas;2019;646.0
+113;Beurré Alexandre Lucas;2020;612.0
+114;Conference;2015;
+115;Conference;2016;
+116;Conference;2017;
+117;Conference;2018;7513.0
+118;Conference;2019;7570.0
+119;Conference;2020;7562.0
+120;Doyenné du Comice;2015;
+121;Doyenné du Comice;2016;
+122;Doyenné du Comice;2017;
+123;Doyenné du Comice;2018;763.0
+124;Doyenné du Comice;2019;771.0
+125;Doyenné du Comice;2020;726.0
+126;Overige perenrassen;2015;
+127;Overige perenrassen;2016;
+128;Overige perenrassen;2017;
+129;Overige perenrassen;2018;1022.0
+130;Overige perenrassen;2019;1098.0
+131;Overige perenrassen;2020;1101.0
+132;Pruimen;2015;259.0
+133;Pruimen;2016;253.0
+134;Pruimen;2017;259.0
+135;Pruimen;2018;261.0
+136;Pruimen;2019;275.0
+137;Pruimen;2020;274.0
+138;Zoete kersen;2015;508.0
+139;Zoete kersen;2016;534.0
+140;Zoete kersen;2017;544.0
+141;Zoete kersen;2018;546.0
+142;Zoete kersen;2019;529.0
+143;Zoete kersen;2020;545.0
+144;Zure kersen;2015;327.0
+145;Zure kersen;2016;290.0
+146;Zure kersen;2017;270.0
+147;Zure kersen;2018;245.0
+148;Zure kersen;2019;251.0
+149;Zure kersen;2020;242.0
+150;Overige pit- en steenvruchten;2015;527.0
+151;Overige pit- en steenvruchten;2016;1187.0
+152;Overige pit- en steenvruchten;2017;728.0
+153;Overige pit- en steenvruchten;2018;715.0
+154;Overige pit- en steenvruchten;2019;733.0
+155;Overige pit- en steenvruchten;2020;706.0
+156;Noten;2015;61.0
+157;Noten;2016;61.0
+158;Noten;2017;67.0
+159;Noten;2018;70.0
+160;Noten;2019;69.0
+161;Noten;2020;70.0
+162;Wijndruiven;2015;148.0
+163;Wijndruiven;2016;155.0
+164;Wijndruiven;2017;157.0
+165;Wijndruiven;2018;171.0
+166;Wijndruiven;2019;160.0
+167;Wijndruiven;2020;173.0
+168;Kleinfruit onder glas (totaal);2015;64.0
+169;Kleinfruit onder glas (totaal);2016;87.0
+170;Kleinfruit onder glas (totaal);2017;95.0
+171;Kleinfruit onder glas (totaal);2018;123.0
+172;Kleinfruit onder glas (totaal);2019;101.0
+173;Kleinfruit onder glas (totaal);2020;98.0
+174;Bramen onder glas;2015;
+175;Bramen onder glas;2016;
+176;Bramen onder glas;2017;29.0
+177;Bramen onder glas;2018;31.0
+178;Bramen onder glas;2019;32.0
+179;Bramen onder glas;2020;25.0
+180;Frambozen onder glas;2015;
+181;Frambozen onder glas;2016;
+182;Frambozen onder glas;2017;32.0
+183;Frambozen onder glas;2018;26.0
+184;Frambozen onder glas;2019;30.0
+185;Frambozen onder glas;2020;29.0
+186;Overige fruit onder glas;2015;
+187;Overige fruit onder glas;2016;
+188;Overige fruit onder glas;2017;33.0
+189;Overige fruit onder glas;2018;66.0
+190;Overige fruit onder glas;2019;39.0
+191;Overige fruit onder glas;2020;45.0

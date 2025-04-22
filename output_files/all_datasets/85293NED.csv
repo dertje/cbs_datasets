@@ -1,0 +1,113 @@
+﻿ID;BedrijfstakkenBranchesSBI2008;TotaalArbeidskosten_1;ArbeidskostenPerVoltijdeenheid_2;ArbeidskostenPerGewerktUur_3;ArbeidskostenPerBetaaldUur_4;GewerkteUrenPerVoltijdeenheid_5;TotaalOpbouwArbeidskosten_6;Lonen_7;WettelijkeSocialePremies_8;ContractueleSocialePremies_9;ToegerekendeSocialePremies_10;OverigeKosten_11
+0;A-U Alle economische activiteiten;401.4;63.1;38.11;31.04;1657;100;78.2;11.0;7.1;4.0;-0.3
+1;A Landbouw, bosbouw en visserij;3.5;44.0;23.05;19.76;1907;100;80.5;12.4;6.3;2.6;-1.7
+2;01 Landbouw;3.4;43.2;22.66;19.42;1908;100;80.4;12.5;6.3;2.6;-1.7
+3;02 Bosbouw;0.1;60.7;36.1;30.47;1682;100;75.5;12.2;7.5;2.7;2.0
+4;03 Visserij;0.1;72.5;35.26;30.28;2056;100;88.0;8.9;5.5;2.7;-5.1
+5;B Delfstoffenwinning;0.9;117.0;66.26;54.68;1766;100;75.3;7.5;12.8;3.3;1.1
+6;06 Winning van aardolie en aardgas;0.4;153.2;88.34;73.17;1735;100;74.1;6.4;14.4;3.2;2.0
+7;08 Delfstoffenwinning (geen olie en gas);0.2;77.8;40.56;35.57;1917;100;79.4;11.0;4.9;3.5;1.1
+8;09 Dienstverlening delfstoffenwinning;0.3;112.1;66.58;52.15;1684;100;74.7;7.0;15.0;3.2;0.0
+9;C Industrie;45.2;65.6;39.11;31.87;1678;100;79.6;11.3;7.2;4.2;-2.4
+10;10 Voedingsmiddelenindustrie;6.6;63.0;36.11;30.52;1743;100;77.9;11.7;6.0;4.3;0.1
+11;11 Drankenindustrie;0.6;79.3;50.93;38.5;1557;100;77.1;10.6;7.6;4.2;0.5
+12;12 Tabaksindustrie;0.1;81.5;49.09;40.3;1659;100;78.9;10.2;4.4;4.2;2.3
+13;13 Textielindustrie;0.6;58.4;34.55;28.52;1691;100;80.3;12.2;6.4;4.7;-3.6
+14;14 Kledingindustrie;0.1;48.7;29.33;23.92;1659;100;83.5;12.4;6.2;4.9;-7.0
+15;15 Leer- en schoenenindustrie;0.1;51.9;30.73;25.13;1688;100;83.2;12.8;6.4;5.1;-7.6
+16;16 Houtindustrie;0.6;51.1;29.59;24.78;1728;100;78.0;12.4;5.0;4.7;-0.1
+17;17 Papierindustrie;1.1;66.8;40.88;32.73;1633;100;79.0;12.0;4.6;4.5;0.0
+18;18 Grafische industrie;0.7;50.6;32.11;25.41;1577;100;81.7;13.0;4.5;5.0;-4.2
+19;19 Aardolie-industrie;0.7;124.0;77.72;63.85;1596;100;68.8;7.7;18.0;3.7;1.8
+20;20 Chemische industrie;4.2;100.0;57.07;47.56;1753;100;75.9;9.0;11.0;3.9;0.1
+21;21 Farmaceutische industrie;1.2;87.9;50.11;41.8;1753;100;79.6;10.1;5.1;3.9;1.2
+22;22 Rubber- en kunststofproductindustrie;1.9;61.2;39.39;29.33;1554;100;79.0;12.2;5.6;4.4;-1.2
+23;23 Bouwmaterialenindustrie;1.3;65.4;36.74;31.0;1781;100;76.5;11.7;6.5;4.6;0.6
+24;24 Basismetaalindustrie;1.4;72.2;41.29;34.48;1749;100;79.6;11.5;6.9;4.0;-2.1
+25;25 Metaalproductenindustrie;4.8;59.2;33.85;28.43;1748;100;78.8;11.8;7.1;3.9;-1.7
+26;26 Elektrotechnische industrie;2.1;84.3;49.5;40.77;1702;100;83.0;10.0;8.1;3.8;-4.9
+27;27 Elektrische apparatenindustrie;1.6;75.5;44.17;36.42;1709;100;78.1;10.5;8.9;3.8;-1.3
+28;28 Machine-industrie;6.3;73.8;45.0;35.35;1639;100;82.0;11.1;7.0;3.9;-4.0
+29;29 Auto- en aanhangwagenindustrie;1.6;66.8;51.47;32.78;1297;100;81.3;11.5;6.8;3.9;-3.5
+30;30 Overige transportmiddelenindustrie;1.1;65.7;37.6;31.35;1749;100;83.7;11.9;6.6;4.2;-6.5
+31;31 Meubelindustrie;0.8;50.3;29.41;24.41;1710;100;80.5;12.4;4.5;4.9;-2.3
+32;32 Overige industrie;3.2;39.7;25.15;20.62;1579;100;77.1;13.1;6.4;4.9;-1.5
+33;33 Reparatie en installatie van machines;2.6;66.6;37.62;31.36;1770;100;89.4;11.7;8.4;4.5;-14.0
+34;D Energievoorziening;2.3;90.2;50.95;43.38;1770;100;77.0;8.9;7.9;3.5;2.7
+35;35 Energiebedrijven;2.3;90.2;50.95;43.38;1770;100;77.0;8.9;7.9;3.5;2.7
+36;E Waterbedrijven en afvalbeheer;2.2;66.8;36.18;31.07;1848;100;75.2;11.2;8.0;4.7;0.9
+37;36 Waterleidingbedrijven;0.4;77.8;48.0;37.54;1620;100;75.0;9.8;8.7;4.6;1.9
+38;37 Afvalwaterinzameling en -behandeling;0.2;65.5;37.4;31.9;1752;100;74.7;11.6;8.1;4.8;0.8
+39;38 Afvalbehandeling en recycling;1.5;65.2;34.11;29.87;1912;100;75.2;11.5;7.8;4.7;0.8
+40;39 Sanering en overig afvalbeheer;0.1;59.4;31.68;27.2;1873;100;78.4;12.2;6.3;5.0;-1.9
+41;F Bouwnijverheid;20.0;65.1;38.39;30.87;1697;100;76.6;11.2;8.0;3.6;0.6
+42;41 Algemene bouw en projectontwikkeling;6.0;69.9;41.2;32.87;1698;100;76.3;10.6;8.7;3.6;0.8
+43;42 Grond-, water-  en wegenbouw;3.6;75.1;40.77;35.11;1843;100;77.5;10.7;7.8;3.6;0.4
+44;43 Gespecialiseerde bouw;10.4;60.0;36.23;28.67;1656;100;76.5;11.7;7.6;3.6;0.6
+45;G Handel;51.0;52.8;31.5;25.72;1675;100;79.3;11.7;5.7;3.3;0.0
+46;45 Autohandel en -reparatie;5.2;52.0;31.54;25.16;1647;100;79.5;11.9;6.9;3.3;-1.6
+47;46 Groothandel en handelsbemiddeling;29.4;67.1;38.22;31.93;1756;100;79.9;10.8;5.9;3.2;0.2
+48;47 Detailhandel (niet in auto's);16.4;38.3;23.97;19.18;1599;100;78.1;13.2;5.0;3.3;0.3
+49;H Vervoer en opslag;18.7;58.4;33.6;26.79;1737;100;82.5;12.5;8.1;4.3;-7.3
+50;49 Vervoer over land;8.9;58.1;31.67;25.64;1834;100;76.8;12.5;7.3;4.0;-0.7
+51;50 Vervoer over water;1.0;66.7;39.85;30.3;1674;100;84.1;9.9;7.4;4.2;-5.7
+52;51 Vervoer door de lucht;0.7;31.2;25.6;14.87;1218;100;216.4;27.5;29.2;12.1;-185.1
+53;52 Opslag, dienstverlening voor vervoer;6.4;68.3;39.7;32.36;1720;100;77.8;11.1;7.0;3.9;0.3
+54;53 Post en koeriers;1.8;47.6;27.67;23.32;1720;100;74.7;12.4;7.5;3.7;1.6
+55;I Horeca;6.3;29.6;21.62;14.69;1368;100;93.0;16.6;3.1;3.1;-15.8
+56;55 Logiesverstrekking;1.7;32.3;22.35;16.07;1447;100;96.0;16.4;3.7;3.4;-19.5
+57;56 Eet- en drinkgelegenheden;4.6;28.7;21.37;14.24;1343;100;91.9;16.6;2.9;3.0;-14.4
+58;J Informatie en communicatie;20.9;80.4;45.62;38.58;1762;100;82.2;10.1;5.2;2.4;0.2
+59;58 Uitgeverijen;1.4;72.7;43.38;37.01;1676;100;80.9;11.3;4.7;2.6;0.5
+60;"59 Film- en tv-productie; geluidsopname";0.7;62.3;35.18;29.94;1771;100;85.8;10.9;5.6;2.7;-5.0
+61;60 Radio- en televisieomroepen;0.6;85.1;51.03;43.26;1667;100;79.4;10.8;5.1;2.5;2.2
+62;61 Telecommunicatie;2.2;88.1;50.35;43.44;1750;100;80.6;9.8;6.5;2.4;0.7
+63;62 IT-dienstverlening;14.7;81.0;45.61;38.45;1776;100;82.4;10.0;5.1;2.4;0.1
+64;63 Diensten op het gebied van informatie;1.3;81.0;46.03;38.68;1759;100;82.5;9.8;4.5;2.3;1.0
+65;K Financiële dienstverlening;23.8;100.4;57.47;48.86;1746;100;75.9;6.7;11.8;2.1;3.5
+66;64 Bankwezen;14.6;102.4;59.23;50.51;1730;100;77.9;5.6;11.9;2.1;2.5
+67;65 Verzekeraars en pensioenfondsen;4.1;99.9;50.76;43.23;1967;100;70.1;9.0;11.0;2.1;7.7
+68;66 Overige financiële dienstverlening;5.2;95.2;58.65;49.36;1624;100;74.7;8.1;12.1;2.0;3.0
+69;L Verhuur en handel van onroerend goed;4.1;73.0;43.67;36.65;1673;100;77.0;10.0;9.3;2.4;1.3
+70;68 Verhuur en handel van onroerend goed;4.1;73.0;43.67;36.65;1673;100;77.0;10.0;9.3;2.4;1.3
+71;M Specialistische zakelijke diensten;36.1;80.3;46.01;38.75;1746;100;81.0;9.1;8.3;2.4;-0.8
+72;69 Juridische diensten en administratie;8.1;77.5;44.41;37.48;1745;100;77.2;9.5;8.5;2.4;2.4
+73;70 Holdings en managementadviesbureaus;13.3;100.6;57.07;48.3;1764;100;82.2;6.7;10.3;2.3;-1.5
+74;71 Architecten-, ingenieursbureaus e.d.;7.6;70.8;40.11;33.97;1765;100;81.5;10.9;5.5;2.5;-0.4
+75;72 Research;3.1;80.3;46.76;39.46;1718;100;81.2;10.4;9.3;2.6;-3.5
+76;73 Reclamewezen en marktonderzoek;2.2;60.6;34.58;29.29;1753;100;83.9;11.4;6.3;2.6;-4.1
+77;74 Design, fotografie, vertaalbureaus;1.3;58.2;36.52;28.12;1593;100;84.2;11.3;5.4;2.5;-3.4
+78;75 Veterinaire dienstverlening;0.4;56.4;32.64;27.76;1727;100;78.2;12.2;4.7;2.4;2.4
+79;N Verhuur en overige zakelijke diensten;30.3;44.1;25.0;21.07;1764;100;80.3;15.5;3.5;3.7;-2.9
+80;77 Verhuur van roerende goederen;2.2;65.8;37.46;31.23;1756;100;79.3;11.1;8.0;3.4;-1.8
+81;78 Uitzendbureaus en arbeidsbemiddeling;19.8;41.6;22.64;19.68;1840;100;80.3;16.8;2.6;3.4;-3.1
+82;79 Reisbureaus, reisorganisatie en -info;1.1;63.2;39.08;30.0;1617;100;92.8;11.6;3.8;3.4;-11.6
+83;80 Beveiligings- en opsporingsdiensten;1.3;49.7;38.09;25.24;1305;100;79.9;13.5;5.2;3.4;-2.0
+84;81 Schoonmaakbedrijven, hoveniers e.d.;4.3;42.6;26.92;20.87;1582;100;76.7;13.5;5.1;5.2;-0.5
+85;82 Overige zakelijke dienstverlening;1.7;48.1;28.75;23.97;1673;100;83.2;13.6;1.9;3.5;-2.2
+86;O Openbaar bestuur en overheidsdiensten;37.7;79.3;48.19;40.43;1647;100;71.0;8.9;9.2;7.1;3.8
+87;84 Openbaar bestuur en overheidsdiensten;37.7;79.3;48.19;40.43;1647;100;71.0;8.9;9.2;7.1;3.8
+88;P Onderwijs;29.2;73.0;47.15;37.62;1548;100;72.8;10.2;9.6;4.4;3.0
+89;85 Onderwijs;29.2;73.0;47.15;37.62;1548;100;72.8;10.2;9.6;4.4;3.0
+90;Q Gezondheids- en welzijnszorg;59.4;61.2;40.28;31.93;1518;100;77.7;11.6;5.5;5.0;0.2
+91;86 Gezondheidszorg;29.8;70.5;45.05;36.57;1565;100;79.3;10.8;6.1;4.3;-0.4
+92;87 Verpleging en zorg met overnachting;19.5;54.6;36.75;28.74;1486;100;76.5;12.3;4.9;5.9;0.4
+93;88 Welzijnszorg zonder overnachting;10.1;52.7;35.74;27.53;1475;100;75.3;13.0;4.8;5.4;1.6
+94;R Cultuur, sport en recreatie;4.1;51.3;35.38;25.62;1451;100;85.2;12.8;5.9;3.2;-7.1
+95;90 Kunst;0.8;52.0;38.75;25.81;1341;100;86.6;12.7;6.6;3.3;-9.1
+96;91 Bibliotheken, musea en natuurbehoud;1.0;59.7;42.21;30.88;1415;100;76.9;12.2;7.2;3.1;0.6
+97;92 Loterijen en kansspelen;0.4;51.3;45.02;25.52;1141;100;96.5;15.2;8.5;4.0;-24.3
+98;93 Sport en recreatie;1.9;47.5;30.38;23.44;1564;100;86.9;12.8;4.3;3.0;-7.1
+99;S Overige dienstverlening;5.4;57.4;34.8;28.7;1649;100;78.4;12.2;5.8;3.4;0.2
+100;94 Ideële, belangen-, hobbyverenigingen;3.8;72.3;43.9;36.57;1646;100;76.1;11.5;6.5;3.4;2.5
+101;95 Reparatie van consumentenartikelen;0.2;45.2;25.81;21.95;1752;100;79.5;12.2;5.8;3.4;-0.9
+102;96 Overige persoonlijke dienstverlening;1.4;37.8;23.05;18.68;1640;100;84.7;14.0;3.7;3.6;-6.0
+103;A-F Landbouw en nijverheid;74.3;64.9;38.03;31.08;1707;100;78.6;11.2;7.5;3.9;-1.2
+104;B-E Nijverheid (geen bouw) en energie;50.7;67.0;39.69;32.47;1689;100;79.2;11.1;7.4;4.2;-1.9
+105;B-F Nijverheid en energie;70.7;66.5;39.31;32.0;1692;100;78.5;11.2;7.6;4.0;-1.2
+106;G-I Handel, vervoer en horeca;76.1;50.7;30.8;24.43;1645;100;81.2;12.3;6.1;3.5;-3.1
+107;G-N Commerciële dienstverlening;191.2;59.9;35.21;28.88;1702;100;80.4;11.2;6.8;3.0;-1.3
+108;M-N Zakelijke dienstverlening;66.3;58.4;33.26;28.02;1757;100;80.7;12.0;6.1;3.0;-1.7
+109;O-Q Overheid en zorg;126.4;68.4;43.91;35.39;1558;100;74.6;10.5;7.5;5.5;1.9
+110;O-U Niet-commerciële dienstverlening;135.9;67.2;43.15;34.67;1558;100;75.1;10.6;7.4;5.3;1.6
+111;R-U Cultuur, recreatie, overige diensten;9.5;54.6;35.05;27.28;1557;100;81.4;12.5;5.8;3.3;-3.0

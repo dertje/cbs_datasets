@@ -1,0 +1,57 @@
+﻿ID;VoertuigType;Perioden;VoorSloopVrijgekomenVoertuigen_1;Benzine_2;Diesel_3;LPG_4;Overige_5
+0;Totaal motorvoertuigen;2018;208336;176569;27147;4353;267
+1;Totaal motorvoertuigen;2019;196581;165362;27075;3787;357
+2;Totaal motorvoertuigen;2020;185225;154487;27031;3315;392
+3;Totaal motorvoertuigen;2021;184341;160003;20784;3073;481
+4;Totaal motorvoertuigen;2022;147886;129979;15117;2275;515
+5;Totaal motorvoertuigen;2023;133937;116814;14263;2126;734
+6;Totaal motorvoertuigen;2024;155948;135583;16673;2445;1247
+7;Personenauto;2018;195374;176291;14557;4270;256
+8;Personenauto;2019;184153;165114;15001;3709;329
+9;Personenauto;2020;172865;154293;14956;3244;372
+10;Personenauto;2021;174374;159787;11118;3009;460
+11;Personenauto;2022;140365;129817;7860;2222;466
+12;Personenauto;2023;126323;116639;6931;2075;678
+13;Personenauto;2024;145994;135334;7131;2377;1152
+14;Totaal bedrijfsmotorvoertuigen;2018;12962;278;12590;83;11
+15;Totaal bedrijfsmotorvoertuigen;2019;12428;248;12074;78;28
+16;Totaal bedrijfsmotorvoertuigen;2020;12360;194;12075;71;20
+17;Totaal bedrijfsmotorvoertuigen;2021;9967;216;9666;64;21
+18;Totaal bedrijfsmotorvoertuigen;2022;7521;162;7257;53;49
+19;Totaal bedrijfsmotorvoertuigen;2023;7614;175;7332;51;56
+20;Totaal bedrijfsmotorvoertuigen;2024;9954;249;9542;68;95
+21;Bestelauto;2018;12399;267;12044;82;6
+22;Bestelauto;2019;11857;238;11524;75;20
+23;Bestelauto;2020;11864;186;11593;69;16
+24;Bestelauto;2021;9593;214;9306;60;13
+25;Bestelauto;2022;7087;159;6852;51;25
+26;Bestelauto;2023;7158;171;6907;45;35
+27;Bestelauto;2024;9517;242;9139;67;69
+28;Vrachtauto (excl. trekker voor oplegger);2018;136;1;135;0;0
+29;Vrachtauto (excl. trekker voor oplegger);2019;165;3;160;0;2
+30;Vrachtauto (excl. trekker voor oplegger);2020;164;0;164;0;0
+31;Vrachtauto (excl. trekker voor oplegger);2021;122;1;119;0;2
+32;Vrachtauto (excl. trekker voor oplegger);2022;139;1;127;0;11
+33;Vrachtauto (excl. trekker voor oplegger);2023;123;0;114;0;9
+34;Vrachtauto (excl. trekker voor oplegger);2024;114;0;104;0;10
+35;Trekker voor oplegger;2018;221;0;220;0;1
+36;Trekker voor oplegger;2019;209;0;208;0;1
+37;Trekker voor oplegger;2020;183;0;181;1;1
+38;Trekker voor oplegger;2021;133;0;132;0;1
+39;Trekker voor oplegger;2022;171;0;161;0;10
+40;Trekker voor oplegger;2023;189;0;187;0;2
+41;Trekker voor oplegger;2024;176;0;172;0;4
+42;Speciaal voertuig;2018;138;10;124;1;3
+43;Speciaal voertuig;2019;136;7;123;3;3
+44;Speciaal voertuig;2020;108;8;97;1;2
+45;Speciaal voertuig;2021;84;1;77;4;2
+46;Speciaal voertuig;2022;80;2;74;2;2
+47;Speciaal voertuig;2023;97;4;85;6;2
+48;Speciaal voertuig;2024;93;6;86;1;0
+49;Bus;2018;68;0;67;0;1
+50;Bus;2019;61;0;59;0;2
+51;Bus;2020;41;0;40;0;1
+52;Bus;2021;35;0;32;0;3
+53;Bus;2022;44;0;43;0;1
+54;Bus;2023;47;0;39;0;8
+55;Bus;2024;54;1;41;0;12

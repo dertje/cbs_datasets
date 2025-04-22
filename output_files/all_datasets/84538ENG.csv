@@ -1,0 +1,573 @@
+﻿ID;Deelgebieden;Perioden;InputPriceIndices_1;ChangesComparedTo1YearEarlier_2
+0;42/43 Civil engineering works;2012 January;104.0;
+1;42/43 Civil engineering works;2012 April;105.9;
+2;42/43 Civil engineering works;2012 July;106.0;
+3;42/43 Civil engineering works;2012 October;107.0;
+4;42/43 Civil engineering works;2013 January;106.0;2.0
+5;42/43 Civil engineering works;2013 April;106.0;0.0
+6;42/43 Civil engineering works;2013 July;105.0;-0.9
+7;42/43 Civil engineering works;2013 October;105.6;-1.3
+8;42/43 Civil engineering works;2014 January;105.5;-0.5
+9;42/43 Civil engineering works;2014 April;104.7;-1.1
+10;42/43 Civil engineering works;2014 July;105.0;0.0
+11;42/43 Civil engineering works;2014 October;105.6;-0.1
+12;42/43 Civil engineering works;2015 January;100.0;-5.2
+13;42/43 Civil engineering works;2015 April;100.7;-3.8
+14;42/43 Civil engineering works;2015 July;101.5;-3.3
+15;42/43 Civil engineering works;2015 October;98.5;-6.7
+16;42/43 Civil engineering works;2016 January;96.0;-4.1
+17;42/43 Civil engineering works;2016 April;96.9;-3.9
+18;42/43 Civil engineering works;2016 July;99.7;-1.8
+19;42/43 Civil engineering works;2016 October;100.5;2.0
+20;42/43 Civil engineering works;2017 January;103.2;7.5
+21;42/43 Civil engineering works;2017 April;103.5;6.9
+22;42/43 Civil engineering works;2017 July;103.1;3.5
+23;42/43 Civil engineering works;2017 October;104.0;3.6
+24;42/43 Civil engineering works;2018 January;106.5;3.2
+25;42/43 Civil engineering works;2018 April;106.4;2.8
+26;42/43 Civil engineering works;2018 July;110.2;6.8
+27;42/43 Civil engineering works;2018 October;112.1;7.8
+28;42/43 Civil engineering works;2019 January;110.3;3.6
+29;42/43 Civil engineering works;2019 April;112.2;5.4
+30;42/43 Civil engineering works;2019 July;113.1;2.7
+31;42/43 Civil engineering works;2019 October;112.4;0.3
+32;42/43 Civil engineering works;2020 January;113.9;3.3
+33;42/43 Civil engineering works;2020 April;111.1;-0.9
+34;42/43 Civil engineering works;2020 July;113.0;-0.1
+35;42/43 Civil engineering works;2020 October;112.5;0.0
+36;42/43 Civil engineering works;2021 January;114.0;0.1
+37;42/43 Civil engineering works;2021 April;117.6;5.8
+38;42/43 Civil engineering works;2021 July;120.5;6.6
+39;42/43 Civil engineering works;2021 October;121.9;8.4
+40;42/43 Civil engineering works;2022 January;126.9;11.3
+41;42/43 Civil engineering works;2022 April;140.8;19.7
+42;42/43 Civil engineering works;2022 July;141.5;17.4
+43;42/43 Civil engineering works;2022 October;140.3;15.1
+44;42/43 Civil engineering works;2023 January;138.6;9.3
+45;42/43 Civil engineering works;2023 April;139.8;-0.7
+46;42/43 Civil engineering works;2023 July;142.2;0.5
+47;42/43 Civil engineering works;2023 October;145.9;3.9
+48;42/43 Civil engineering works;2024 January;145.4;4.9
+49;42/43 Civil engineering works;2024 April;146.5;4.8
+50;42/43 Civil engineering works;2024 July;148.9;4.7
+51;42/43 Civil engineering works;2024 October;147.1;0.8
+52;"4211a Road construction; brick paving";2012 January;97.7;
+53;"4211a Road construction; brick paving";2012 April;98.4;
+54;"4211a Road construction; brick paving";2012 July;99.2;
+55;"4211a Road construction; brick paving";2012 October;99.9;
+56;"4211a Road construction; brick paving";2013 January;99.5;1.9
+57;"4211a Road construction; brick paving";2013 April;99.5;1.2
+58;"4211a Road construction; brick paving";2013 July;99.2;0.1
+59;"4211a Road construction; brick paving";2013 October;99.1;-0.8
+60;"4211a Road construction; brick paving";2014 January;100.3;0.9
+61;"4211a Road construction; brick paving";2014 April;100.0;0.5
+62;"4211a Road construction; brick paving";2014 July;100.0;0.8
+63;"4211a Road construction; brick paving";2014 October;100.4;1.3
+64;"4211a Road construction; brick paving";2015 January;99.4;-1.0
+65;"4211a Road construction; brick paving";2015 April;99.6;-0.4
+66;"4211a Road construction; brick paving";2015 July;100.5;0.4
+67;"4211a Road construction; brick paving";2015 October;100.3;-0.2
+68;"4211a Road construction; brick paving";2016 January;100.0;0.7
+69;"4211a Road construction; brick paving";2016 April;100.6;1.0
+70;"4211a Road construction; brick paving";2016 July;101.8;1.3
+71;"4211a Road construction; brick paving";2016 October;101.8;1.5
+72;"4211a Road construction; brick paving";2017 January;101.5;1.5
+73;"4211a Road construction; brick paving";2017 April;102.3;1.7
+74;"4211a Road construction; brick paving";2017 July;102.3;0.5
+75;"4211a Road construction; brick paving";2017 October;103.1;1.3
+76;"4211a Road construction; brick paving";2018 January;104.1;2.5
+77;"4211a Road construction; brick paving";2018 April;104.8;2.4
+78;"4211a Road construction; brick paving";2018 July;105.7;3.4
+79;"4211a Road construction; brick paving";2018 October;107.2;4.0
+80;"4211a Road construction; brick paving";2019 January;107.2;2.9
+81;"4211a Road construction; brick paving";2019 April;108.0;3.1
+82;"4211a Road construction; brick paving";2019 July;109.3;3.3
+83;"4211a Road construction; brick paving";2019 October;109.6;2.2
+84;"4211a Road construction; brick paving";2020 January;113.4;5.8
+85;"4211a Road construction; brick paving";2020 April;112.9;4.5
+86;"4211a Road construction; brick paving";2020 July;113.9;4.2
+87;"4211a Road construction; brick paving";2020 October;113.7;3.7
+88;"4211a Road construction; brick paving";2021 January;114.2;0.7
+89;"4211a Road construction; brick paving";2021 April;114.9;1.7
+90;"4211a Road construction; brick paving";2021 July;115.6;1.5
+91;"4211a Road construction; brick paving";2021 October;116.2;2.3
+92;"4211a Road construction; brick paving";2022 January;120.8;5.7
+93;"4211a Road construction; brick paving";2022 April;124.8;8.7
+94;"4211a Road construction; brick paving";2022 July;127.6;10.3
+95;"4211a Road construction; brick paving";2022 October;129.6;11.5
+96;"4211a Road construction; brick paving";2023 January;133.6;10.6
+97;"4211a Road construction; brick paving";2023 April;135.5;8.6
+98;"4211a Road construction; brick paving";2023 July;137.1;7.5
+99;"4211a Road construction; brick paving";2023 October;138.6;6.9
+100;"4211a Road construction; brick paving";2024 January;140.7;5.3
+101;"4211a Road construction; brick paving";2024 April;141.1;4.1
+102;"4211a Road construction; brick paving";2024 July;143.5;4.6
+103;"4211a Road construction; brick paving";2024 October;143.4;3.5
+104;"4211b Road construction; asphalt paving";2012 January;132.6;
+105;"4211b Road construction; asphalt paving";2012 April;140.0;
+106;"4211b Road construction; asphalt paving";2012 July;133.7;
+107;"4211b Road construction; asphalt paving";2012 October;138.2;
+108;"4211b Road construction; asphalt paving";2013 January;133.3;0.5
+109;"4211b Road construction; asphalt paving";2013 April;132.9;-5.0
+110;"4211b Road construction; asphalt paving";2013 July;130.1;-2.7
+111;"4211b Road construction; asphalt paving";2013 October;133.8;-3.1
+112;"4211b Road construction; asphalt paving";2014 January;130.7;-2.0
+113;"4211b Road construction; asphalt paving";2014 April;127.8;-3.9
+114;"4211b Road construction; asphalt paving";2014 July;127.7;-1.8
+115;"4211b Road construction; asphalt paving";2014 October;126.4;-5.5
+116;"4211b Road construction; asphalt paving";2015 January;100.8;-22.9
+117;"4211b Road construction; asphalt paving";2015 April;103.7;-18.8
+118;"4211b Road construction; asphalt paving";2015 July;106.4;-16.7
+119;"4211b Road construction; asphalt paving";2015 October;93.1;-26.3
+120;"4211b Road construction; asphalt paving";2016 January;84.0;-16.7
+121;"4211b Road construction; asphalt paving";2016 April;85.2;-17.8
+122;"4211b Road construction; asphalt paving";2016 July;95.4;-10.4
+123;"4211b Road construction; asphalt paving";2016 October;98.3;5.5
+124;"4211b Road construction; asphalt paving";2017 January;108.2;28.8
+125;"4211b Road construction; asphalt paving";2017 April;107.0;25.5
+126;"4211b Road construction; asphalt paving";2017 July;104.2;9.2
+127;"4211b Road construction; asphalt paving";2017 October;106.9;8.8
+128;"4211b Road construction; asphalt paving";2018 January;114.4;5.7
+129;"4211b Road construction; asphalt paving";2018 April;112.2;4.9
+130;"4211b Road construction; asphalt paving";2018 July;128.5;23.4
+131;"4211b Road construction; asphalt paving";2018 October;133.7;25.0
+132;"4211b Road construction; asphalt paving";2019 January;124.6;9.0
+133;"4211b Road construction; asphalt paving";2019 April;129.8;15.7
+134;"4211b Road construction; asphalt paving";2019 July;132.6;3.2
+135;"4211b Road construction; asphalt paving";2019 October;128.3;-4.0
+136;"4211b Road construction; asphalt paving";2020 January;124.9;0.2
+137;"4211b Road construction; asphalt paving";2020 April;113.3;-12.8
+138;"4211b Road construction; asphalt paving";2020 July;120.1;-9.4
+139;"4211b Road construction; asphalt paving";2020 October;117.8;-8.2
+140;"4211b Road construction; asphalt paving";2021 January;118.2;-5.3
+141;"4211b Road construction; asphalt paving";2021 April;128.6;13.5
+142;"4211b Road construction; asphalt paving";2021 July;132.5;10.3
+143;"4211b Road construction; asphalt paving";2021 October;137.3;16.6
+144;"4211b Road construction; asphalt paving";2022 January;140.8;19.1
+145;"4211b Road construction; asphalt paving";2022 April;180.8;40.6
+146;"4211b Road construction; asphalt paving";2022 July;177.8;34.2
+147;"4211b Road construction; asphalt paving";2022 October;161.2;17.4
+148;"4211b Road construction; asphalt paving";2023 January;155.6;10.5
+149;"4211b Road construction; asphalt paving";2023 April;154.5;-14.5
+150;"4211b Road construction; asphalt paving";2023 July;160.4;-9.8
+151;"4211b Road construction; asphalt paving";2023 October;177.3;10.0
+152;"4211b Road construction; asphalt paving";2024 January;163.7;5.2
+153;"4211b Road construction; asphalt paving";2024 April;166.1;7.5
+154;"4211b Road construction; asphalt paving";2024 July;170.2;6.1
+155;"4211b Road construction; asphalt paving";2024 October;162.4;-8.4
+156;4212 Railways and underground railway.;2012 January;99.3;
+157;4212 Railways and underground railway.;2012 April;99.8;
+158;4212 Railways and underground railway.;2012 July;99.8;
+159;4212 Railways and underground railway.;2012 October;99.9;
+160;4212 Railways and underground railway.;2013 January;99.4;0.1
+161;4212 Railways and underground railway.;2013 April;98.9;-0.9
+162;4212 Railways and underground railway.;2013 July;97.6;-2.2
+163;4212 Railways and underground railway.;2013 October;97.5;-2.5
+164;4212 Railways and underground railway.;2014 January;98.0;-1.4
+165;4212 Railways and underground railway.;2014 April;97.7;-1.2
+166;4212 Railways and underground railway.;2014 July;98.5;0.9
+167;4212 Railways and underground railway.;2014 October;99.2;1.8
+168;4212 Railways and underground railway.;2015 January;99.6;1.6
+169;4212 Railways and underground railway.;2015 April;100.6;3.0
+170;4212 Railways and underground railway.;2015 July;100.2;1.8
+171;4212 Railways and underground railway.;2015 October;99.7;0.4
+172;4212 Railways and underground railway.;2016 January;99.4;-0.2
+173;4212 Railways and underground railway.;2016 April;99.5;-1.1
+174;4212 Railways and underground railway.;2016 July;101.4;1.1
+175;4212 Railways and underground railway.;2016 October;101.3;1.7
+176;4212 Railways and underground railway.;2017 January;103.8;4.4
+177;4212 Railways and underground railway.;2017 April;104.9;5.4
+178;4212 Railways and underground railway.;2017 July;103.7;2.3
+179;4212 Railways and underground railway.;2017 October;104.8;3.4
+180;4212 Railways and underground railway.;2018 January;105.8;1.9
+181;4212 Railways and underground railway.;2018 April;105.8;0.8
+182;4212 Railways and underground railway.;2018 July;107.2;3.3
+183;4212 Railways and underground railway.;2018 October;107.5;2.6
+184;4212 Railways and underground railway.;2019 January;107.7;1.9
+185;4212 Railways and underground railway.;2019 April;108.5;2.6
+186;4212 Railways and underground railway.;2019 July;109.0;1.6
+187;4212 Railways and underground railway.;2019 October;109.3;1.6
+188;4212 Railways and underground railway.;2020 January;110.1;2.2
+189;4212 Railways and underground railway.;2020 April;109.5;0.9
+190;4212 Railways and underground railway.;2020 July;110.2;1.1
+191;4212 Railways and underground railway.;2020 October;110.3;1.0
+192;4212 Railways and underground railway.;2021 January;112.8;2.4
+193;4212 Railways and underground railway.;2021 April;115.6;5.6
+194;4212 Railways and underground railway.;2021 July;120.2;9.1
+195;4212 Railways and underground railway.;2021 October;123.1;11.6
+196;4212 Railways and underground railway.;2022 January;126.5;12.2
+197;4212 Railways and underground railway.;2022 April;133.5;15.5
+198;4212 Railways and underground railway.;2022 July;134.5;12.0
+199;4212 Railways and underground railway.;2022 October;134.4;9.2
+200;4212 Railways and underground railway.;2023 January;134.7;6.4
+201;4212 Railways and underground railway.;2023 April;135.2;1.3
+202;4212 Railways and underground railway.;2023 July;133.4;-0.8
+203;4212 Railways and underground railway.;2023 October;133.2;-0.9
+204;4212 Railways and underground railway.;2024 January;134.3;-0.3
+205;4212 Railways and underground railway.;2024 April;135.4;0.1
+206;4212 Railways and underground railway.;2024 July;138.0;3.5
+207;4212 Railways and underground railway.;2024 October;136.3;2.3
+208;"4212a Railways; New construction";2012 January;98.9;
+209;"4212a Railways; New construction";2012 April;99.4;
+210;"4212a Railways; New construction";2012 July;99.8;
+211;"4212a Railways; New construction";2012 October;99.9;
+212;"4212a Railways; New construction";2013 January;99.8;0.8
+213;"4212a Railways; New construction";2013 April;99.3;-0.1
+214;"4212a Railways; New construction";2013 July;98.4;-1.4
+215;"4212a Railways; New construction";2013 October;98.5;-1.4
+216;"4212a Railways; New construction";2014 January;99.1;-0.7
+217;"4212a Railways; New construction";2014 April;98.7;-0.6
+218;"4212a Railways; New construction";2014 July;99.0;0.6
+219;"4212a Railways; New construction";2014 October;99.6;1.1
+220;"4212a Railways; New construction";2015 January;99.6;0.5
+221;"4212a Railways; New construction";2015 April;100.3;1.6
+222;"4212a Railways; New construction";2015 July;100.3;1.3
+223;"4212a Railways; New construction";2015 October;99.9;0.3
+224;"4212a Railways; New construction";2016 January;99.7;0.1
+225;"4212a Railways; New construction";2016 April;99.8;-0.5
+226;"4212a Railways; New construction";2016 July;101.0;0.7
+227;"4212a Railways; New construction";2016 October;101.1;1.2
+228;"4212a Railways; New construction";2017 January;102.9;3.2
+229;"4212a Railways; New construction";2017 April;103.9;4.2
+230;"4212a Railways; New construction";2017 July;103.2;2.2
+231;"4212a Railways; New construction";2017 October;104.3;3.2
+232;"4212a Railways; New construction";2018 January;105.4;2.5
+233;"4212a Railways; New construction";2018 April;105.7;1.7
+234;"4212a Railways; New construction";2018 July;107.0;3.6
+235;"4212a Railways; New construction";2018 October;107.4;3.0
+236;"4212a Railways; New construction";2019 January;108.0;2.4
+237;"4212a Railways; New construction";2019 April;108.8;2.9
+238;"4212a Railways; New construction";2019 July;109.2;2.1
+239;"4212a Railways; New construction";2019 October;109.4;1.9
+240;"4212a Railways; New construction";2020 January;110.4;2.3
+241;"4212a Railways; New construction";2020 April;110.0;1.1
+242;"4212a Railways; New construction";2020 July;110.6;1.3
+243;"4212a Railways; New construction";2020 October;110.8;1.3
+244;"4212a Railways; New construction";2021 January;113.5;2.8
+245;"4212a Railways; New construction";2021 April;115.6;5.1
+246;"4212a Railways; New construction";2021 July;119.9;8.4
+247;"4212a Railways; New construction";2021 October;121.9;10.0
+248;"4212a Railways; New construction";2022 January;125.5;10.6
+249;"4212a Railways; New construction";2022 April;132.6;14.7
+250;"4212a Railways; New construction";2022 July;133.3;11.2
+251;"4212a Railways; New construction";2022 October;132.7;8.9
+252;"4212a Railways; New construction";2023 January;133.3;6.1
+253;"4212a Railways; New construction";2023 April;134.4;1.3
+254;"4212a Railways; New construction";2023 July;133.6;0.3
+255;"4212a Railways; New construction";2023 October;133.5;0.6
+256;"4212a Railways; New construction";2024 January;135.5;1.7
+257;"4212a Railways; New construction";2024 April;136.2;1.4
+258;"4212a Railways; New construction";2024 July;138.3;3.5
+259;"4212a Railways; New construction";2024 October;137.6;3.0
+260;"4212b Railways; Exploitation/Maintenance";2012 January;98.7;
+261;"4212b Railways; Exploitation/Maintenance";2012 April;99.1;
+262;"4212b Railways; Exploitation/Maintenance";2012 July;99.2;
+263;"4212b Railways; Exploitation/Maintenance";2012 October;99.7;
+264;"4212b Railways; Exploitation/Maintenance";2013 January;99.8;1.1
+265;"4212b Railways; Exploitation/Maintenance";2013 April;99.5;0.4
+266;"4212b Railways; Exploitation/Maintenance";2013 July;98.8;-0.4
+267;"4212b Railways; Exploitation/Maintenance";2013 October;99.0;-0.7
+268;"4212b Railways; Exploitation/Maintenance";2014 January;99.5;-0.3
+269;"4212b Railways; Exploitation/Maintenance";2014 April;99.0;-0.5
+270;"4212b Railways; Exploitation/Maintenance";2014 July;99.1;0.3
+271;"4212b Railways; Exploitation/Maintenance";2014 October;100.0;1.0
+272;"4212b Railways; Exploitation/Maintenance";2015 January;99.8;0.3
+273;"4212b Railways; Exploitation/Maintenance";2015 April;100.3;1.3
+274;"4212b Railways; Exploitation/Maintenance";2015 July;100.2;1.0
+275;"4212b Railways; Exploitation/Maintenance";2015 October;100.0;0.0
+276;"4212b Railways; Exploitation/Maintenance";2016 January;99.8;0.0
+277;"4212b Railways; Exploitation/Maintenance";2016 April;99.8;-0.5
+278;"4212b Railways; Exploitation/Maintenance";2016 July;100.9;0.7
+279;"4212b Railways; Exploitation/Maintenance";2016 October;101.1;1.2
+280;"4212b Railways; Exploitation/Maintenance";2017 January;102.8;2.9
+281;"4212b Railways; Exploitation/Maintenance";2017 April;102.9;3.1
+282;"4212b Railways; Exploitation/Maintenance";2017 July;102.6;1.7
+283;"4212b Railways; Exploitation/Maintenance";2017 October;103.5;2.3
+284;"4212b Railways; Exploitation/Maintenance";2018 January;104.6;1.8
+285;"4212b Railways; Exploitation/Maintenance";2018 April;104.7;1.8
+286;"4212b Railways; Exploitation/Maintenance";2018 July;106.1;3.4
+287;"4212b Railways; Exploitation/Maintenance";2018 October;106.7;3.2
+288;"4212b Railways; Exploitation/Maintenance";2019 January;108.2;3.4
+289;"4212b Railways; Exploitation/Maintenance";2019 April;108.1;3.2
+290;"4212b Railways; Exploitation/Maintenance";2019 July;108.4;2.2
+291;"4212b Railways; Exploitation/Maintenance";2019 October;109.0;2.1
+292;"4212b Railways; Exploitation/Maintenance";2020 January;110.0;1.7
+293;"4212b Railways; Exploitation/Maintenance";2020 April;109.0;0.9
+294;"4212b Railways; Exploitation/Maintenance";2020 July;110.2;1.6
+295;"4212b Railways; Exploitation/Maintenance";2020 October;111.0;1.9
+296;"4212b Railways; Exploitation/Maintenance";2021 January;113.4;3.1
+297;"4212b Railways; Exploitation/Maintenance";2021 April;114.8;5.2
+298;"4212b Railways; Exploitation/Maintenance";2021 July;118.6;7.6
+299;"4212b Railways; Exploitation/Maintenance";2021 October;123.3;11.1
+300;"4212b Railways; Exploitation/Maintenance";2022 January;131.0;15.5
+301;"4212b Railways; Exploitation/Maintenance";2022 April;134.8;17.4
+302;"4212b Railways; Exploitation/Maintenance";2022 July;138.8;17.1
+303;"4212b Railways; Exploitation/Maintenance";2022 October;139.3;13.0
+304;"4212b Railways; Exploitation/Maintenance";2023 January;142.3;8.6
+305;"4212b Railways; Exploitation/Maintenance";2023 April;136.1;1.0
+306;"4212b Railways; Exploitation/Maintenance";2023 July;133.6;-3.8
+307;"4212b Railways; Exploitation/Maintenance";2023 October;134.7;-3.3
+308;"4212b Railways; Exploitation/Maintenance";2024 January;133.9;-6.0
+309;"4212b Railways; Exploitation/Maintenance";2024 April;132.0;-3.0
+310;"4212b Railways; Exploitation/Maintenance";2024 July;134.4;0.6
+311;"4212b Railways; Exploitation/Maintenance";2024 October;135.9;0.9
+312;"4213 Bridges and tunnels; constructio.";2012 January;100.2;
+313;"4213 Bridges and tunnels; constructio.";2012 April;100.6;
+314;"4213 Bridges and tunnels; constructio.";2012 July;100.6;
+315;"4213 Bridges and tunnels; constructio.";2012 October;100.9;
+316;"4213 Bridges and tunnels; constructio.";2013 January;100.8;0.5
+317;"4213 Bridges and tunnels; constructio.";2013 April;100.3;-0.3
+318;"4213 Bridges and tunnels; constructio.";2013 July;99.5;-1.1
+319;"4213 Bridges and tunnels; constructio.";2013 October;99.9;-1.0
+320;"4213 Bridges and tunnels; constructio.";2014 January;100.7;-0.1
+321;"4213 Bridges and tunnels; constructio.";2014 April;100.1;-0.2
+322;"4213 Bridges and tunnels; constructio.";2014 July;100.0;0.6
+323;"4213 Bridges and tunnels; constructio.";2014 October;100.5;0.6
+324;"4213 Bridges and tunnels; constructio.";2015 January;99.9;-0.7
+325;"4213 Bridges and tunnels; constructio.";2015 April;100.3;0.2
+326;"4213 Bridges and tunnels; constructio.";2015 July;100.5;0.4
+327;"4213 Bridges and tunnels; constructio.";2015 October;99.7;-0.8
+328;"4213 Bridges and tunnels; constructio.";2016 January;99.1;-0.8
+329;"4213 Bridges and tunnels; constructio.";2016 April;99.6;-0.7
+330;"4213 Bridges and tunnels; constructio.";2016 July;101.1;0.7
+331;"4213 Bridges and tunnels; constructio.";2016 October;100.9;1.2
+332;"4213 Bridges and tunnels; constructio.";2017 January;102.4;3.3
+333;"4213 Bridges and tunnels; constructio.";2017 April;103.5;4.0
+334;"4213 Bridges and tunnels; constructio.";2017 July;103.2;2.1
+335;"4213 Bridges and tunnels; constructio.";2017 October;105.0;4.0
+336;"4213 Bridges and tunnels; constructio.";2018 January;106.0;3.5
+337;"4213 Bridges and tunnels; constructio.";2018 April;106.3;2.7
+338;"4213 Bridges and tunnels; constructio.";2018 July;107.3;4.0
+339;"4213 Bridges and tunnels; constructio.";2018 October;108.1;3.0
+340;"4213 Bridges and tunnels; constructio.";2019 January;108.6;2.5
+341;"4213 Bridges and tunnels; constructio.";2019 April;108.7;2.3
+342;"4213 Bridges and tunnels; constructio.";2019 July;109.4;2.0
+343;"4213 Bridges and tunnels; constructio.";2019 October;108.9;0.7
+344;"4213 Bridges and tunnels; constructio.";2020 January;110.4;1.6
+345;"4213 Bridges and tunnels; constructio.";2020 April;109.8;1.0
+346;"4213 Bridges and tunnels; constructio.";2020 July;110.5;1.0
+347;"4213 Bridges and tunnels; constructio.";2020 October;110.7;1.7
+348;"4213 Bridges and tunnels; constructio.";2021 January;114.7;3.9
+349;"4213 Bridges and tunnels; constructio.";2021 April;116.2;5.9
+350;"4213 Bridges and tunnels; constructio.";2021 July;122.0;10.4
+351;"4213 Bridges and tunnels; constructio.";2021 October;123.6;11.7
+352;"4213 Bridges and tunnels; constructio.";2022 January;127.5;11.2
+353;"4213 Bridges and tunnels; constructio.";2022 April;138.8;19.5
+354;"4213 Bridges and tunnels; constructio.";2022 July;137.6;12.8
+355;"4213 Bridges and tunnels; constructio.";2022 October;136.5;10.4
+356;"4213 Bridges and tunnels; constructio.";2023 January;136.2;6.8
+357;"4213 Bridges and tunnels; constructio.";2023 April;136.5;-1.6
+358;"4213 Bridges and tunnels; constructio.";2023 July;134.9;-2.0
+359;"4213 Bridges and tunnels; constructio.";2023 October;134.3;-1.6
+360;"4213 Bridges and tunnels; constructio.";2024 January;136.0;-0.1
+361;"4213 Bridges and tunnels; constructio.";2024 April;136.0;-0.4
+362;"4213 Bridges and tunnels; constructio.";2024 July;138.7;2.8
+363;"4213 Bridges and tunnels; constructio.";2024 October;137.7;2.6
+364;4221 Constructions and construction w.;2012 January;95.4;
+365;4221 Constructions and construction w.;2012 April;96.1;
+366;4221 Constructions and construction w.;2012 July;96.3;
+367;4221 Constructions and construction w.;2012 October;96.8;
+368;4221 Constructions and construction w.;2013 January;96.6;1.3
+369;4221 Constructions and construction w.;2013 April;96.9;0.9
+370;4221 Constructions and construction w.;2013 July;97.1;0.9
+371;4221 Constructions and construction w.;2013 October;97.1;0.2
+372;4221 Constructions and construction w.;2014 January;97.7;1.1
+373;4221 Constructions and construction w.;2014 April;97.7;0.8
+374;4221 Constructions and construction w.;2014 July;98.4;1.3
+375;4221 Constructions and construction w.;2014 October;101.3;4.3
+376;4221 Constructions and construction w.;2015 January;100.3;2.7
+377;4221 Constructions and construction w.;2015 April;98.9;1.2
+378;4221 Constructions and construction w.;2015 July;100.2;1.9
+379;4221 Constructions and construction w.;2015 October;100.0;-1.2
+380;4221 Constructions and construction w.;2016 January;99.3;-1.0
+381;4221 Constructions and construction w.;2016 April;100.5;1.7
+382;4221 Constructions and construction w.;2016 July;101.0;0.7
+383;4221 Constructions and construction w.;2016 October;101.6;1.6
+384;4221 Constructions and construction w.;2017 January;103.5;4.2
+385;4221 Constructions and construction w.;2017 April;103.1;2.6
+386;4221 Constructions and construction w.;2017 July;105.0;4.0
+387;4221 Constructions and construction w.;2017 October;104.5;2.8
+388;4221 Constructions and construction w.;2018 January;107.2;3.7
+389;4221 Constructions and construction w.;2018 April;108.3;5.0
+390;4221 Constructions and construction w.;2018 July;108.3;3.1
+391;4221 Constructions and construction w.;2018 October;110.0;5.3
+392;4221 Constructions and construction w.;2019 January;110.4;2.9
+393;4221 Constructions and construction w.;2019 April;112.2;3.6
+394;4221 Constructions and construction w.;2019 July;112.1;3.5
+395;4221 Constructions and construction w.;2019 October;112.5;2.2
+396;4221 Constructions and construction w.;2020 January;116.3;5.4
+397;4221 Constructions and construction w.;2020 April;116.5;3.9
+398;4221 Constructions and construction w.;2020 July;117.2;4.6
+399;4221 Constructions and construction w.;2020 October;118.1;5.0
+400;4221 Constructions and construction w.;2021 January;119.0;2.3
+401;4221 Constructions and construction w.;2021 April;123.4;5.9
+402;4221 Constructions and construction w.;2021 July;125.4;6.9
+403;4221 Constructions and construction w.;2021 October;121.3;2.7
+404;4221 Constructions and construction w.;2022 January;128.4;8.0
+405;4221 Constructions and construction w.;2022 April;137.7;11.6
+406;4221 Constructions and construction w.;2022 July;136.6;8.9
+407;4221 Constructions and construction w.;2022 October;145.4;19.9
+408;4221 Constructions and construction w.;2023 January;143.0;11.4
+409;4221 Constructions and construction w.;2023 April;146.7;6.5
+410;4221 Constructions and construction w.;2023 July;151.7;11.1
+411;4221 Constructions and construction w.;2023 October;151.3;4.0
+412;4221 Constructions and construction w.;2024 January;153.0;7.0
+413;4221 Constructions and construction w.;2024 April;153.8;4.9
+414;4221 Constructions and construction w.;2024 July;157.5;3.8
+415;4221 Constructions and construction w.;2024 October;157.4;4.0
+416;4291 Constructions and construction w.;2012 January;100.1;
+417;4291 Constructions and construction w.;2012 April;101.8;
+418;4291 Constructions and construction w.;2012 July;104.4;
+419;4291 Constructions and construction w.;2012 October;105.2;
+420;4291 Constructions and construction w.;2013 January;104.8;4.8
+421;4291 Constructions and construction w.;2013 April;104.2;2.4
+422;4291 Constructions and construction w.;2013 July;103.5;-0.9
+423;4291 Constructions and construction w.;2013 October;104.0;-1.1
+424;4291 Constructions and construction w.;2014 January;104.4;-0.4
+425;4291 Constructions and construction w.;2014 April;103.8;-0.4
+426;4291 Constructions and construction w.;2014 July;103.9;0.4
+427;4291 Constructions and construction w.;2014 October;104.0;0.0
+428;4291 Constructions and construction w.;2015 January;99.6;-4.6
+429;4291 Constructions and construction w.;2015 April;100.3;-3.4
+430;4291 Constructions and construction w.;2015 July;101.4;-2.5
+431;4291 Constructions and construction w.;2015 October;99.3;-4.6
+432;4291 Constructions and construction w.;2016 January;96.5;-3.1
+433;4291 Constructions and construction w.;2016 April;98.0;-2.3
+434;4291 Constructions and construction w.;2016 July;100.5;-0.8
+435;4291 Constructions and construction w.;2016 October;100.2;1.0
+436;4291 Constructions and construction w.;2017 January;100.6;4.3
+437;4291 Constructions and construction w.;2017 April;101.8;3.9
+438;4291 Constructions and construction w.;2017 July;101.3;0.8
+439;4291 Constructions and construction w.;2017 October;102.4;2.2
+440;4291 Constructions and construction w.;2018 January;104.1;3.4
+441;4291 Constructions and construction w.;2018 April;104.5;2.6
+442;4291 Constructions and construction w.;2018 July;107.5;6.0
+443;4291 Constructions and construction w.;2018 October;109.5;7.0
+444;4291 Constructions and construction w.;2019 January;108.0;3.8
+445;4291 Constructions and construction w.;2019 April;109.8;5.1
+446;4291 Constructions and construction w.;2019 July;111.0;3.3
+447;4291 Constructions and construction w.;2019 October;110.7;1.1
+448;4291 Constructions and construction w.;2020 January;113.5;5.1
+449;4291 Constructions and construction w.;2020 April;111.2;1.3
+450;4291 Constructions and construction w.;2020 July;113.2;2.0
+451;4291 Constructions and construction w.;2020 October;112.7;1.8
+452;4291 Constructions and construction w.;2021 January;114.9;1.2
+453;4291 Constructions and construction w.;2021 April;116.5;4.7
+454;4291 Constructions and construction w.;2021 July;118.1;4.2
+455;4291 Constructions and construction w.;2021 October;119.5;6.1
+456;4291 Constructions and construction w.;2022 January;125.6;9.3
+457;4291 Constructions and construction w.;2022 April;136.2;16.9
+458;4291 Constructions and construction w.;2022 July;138.2;17.1
+459;4291 Constructions and construction w.;2022 October;137.4;15.0
+460;4291 Constructions and construction w.;2023 January;137.7;9.7
+461;4291 Constructions and construction w.;2023 April;140.9;3.5
+462;4291 Constructions and construction w.;2023 July;144.9;4.8
+463;4291 Constructions and construction w.;2023 October;148.3;7.9
+464;4291 Constructions and construction w.;2024 January;151.2;9.8
+465;4291 Constructions and construction w.;2024 April;152.2;8.0
+466;4291 Constructions and construction w.;2024 July;153.9;6.2
+467;4291 Constructions and construction w.;2024 October;153.3;3.4
+468;4312 Site preparation works;2012 January;98.3;
+469;4312 Site preparation works;2012 April;99.3;
+470;4312 Site preparation works;2012 July;102.9;
+471;4312 Site preparation works;2012 October;103.4;
+472;4312 Site preparation works;2013 January;104.2;5.9
+473;4312 Site preparation works;2013 April;103.0;3.6
+474;4312 Site preparation works;2013 July;103.5;0.6
+475;4312 Site preparation works;2013 October;103.3;-0.1
+476;4312 Site preparation works;2014 January;103.5;-0.6
+477;4312 Site preparation works;2014 April;103.2;0.2
+478;4312 Site preparation works;2014 July;103.2;-0.3
+479;4312 Site preparation works;2014 October;103.0;-0.3
+480;4312 Site preparation works;2015 January;99.6;-3.8
+481;4312 Site preparation works;2015 April;100.2;-2.9
+482;4312 Site preparation works;2015 July;100.8;-2.3
+483;4312 Site preparation works;2015 October;99.7;-3.2
+484;4312 Site preparation works;2016 January;96.2;-3.4
+485;4312 Site preparation works;2016 April;98.4;-1.7
+486;4312 Site preparation works;2016 July;100.1;-0.7
+487;4312 Site preparation works;2016 October;99.9;0.2
+488;4312 Site preparation works;2017 January;100.1;4.0
+489;4312 Site preparation works;2017 April;100.9;2.5
+490;4312 Site preparation works;2017 July;100.3;0.2
+491;4312 Site preparation works;2017 October;101.1;1.3
+492;4312 Site preparation works;2018 January;103.3;3.2
+493;4312 Site preparation works;2018 April;103.4;2.5
+494;4312 Site preparation works;2018 July;105.3;5.0
+495;4312 Site preparation works;2018 October;107.5;6.2
+496;4312 Site preparation works;2019 January;105.4;2.0
+497;4312 Site preparation works;2019 April;107.1;3.6
+498;4312 Site preparation works;2019 July;107.6;2.2
+499;4312 Site preparation works;2019 October;108.3;0.8
+500;4312 Site preparation works;2020 January;110.4;4.8
+501;4312 Site preparation works;2020 April;108.0;0.9
+502;4312 Site preparation works;2020 July;108.6;0.9
+503;4312 Site preparation works;2020 October;107.9;-0.4
+504;4312 Site preparation works;2021 January;110.5;0.0
+505;4312 Site preparation works;2021 April;111.1;2.9
+506;4312 Site preparation works;2021 July;113.2;4.3
+507;4312 Site preparation works;2021 October;115.5;7.1
+508;4312 Site preparation works;2022 January;121.5;10.0
+509;4312 Site preparation works;2022 April;132.0;18.8
+510;4312 Site preparation works;2022 July;136.4;20.5
+511;4312 Site preparation works;2022 October;138.7;20.0
+512;4312 Site preparation works;2023 January;134.9;11.1
+513;4312 Site preparation works;2023 April;134.4;1.8
+514;4312 Site preparation works;2023 July;137.4;0.7
+515;4312 Site preparation works;2023 October;142.2;2.6
+516;4312 Site preparation works;2024 January;145.3;7.6
+517;4312 Site preparation works;2024 April;146.9;9.4
+518;4312 Site preparation works;2024 July;147.2;7.1
+519;4312 Site preparation works;2024 October;146.0;2.6
+520;4321 Electrical installation works;2012 January;99.3;
+521;4321 Electrical installation works;2012 April;99.8;
+522;4321 Electrical installation works;2012 July;100.5;
+523;4321 Electrical installation works;2012 October;99.9;
+524;4321 Electrical installation works;2013 January;99.6;0.3
+525;4321 Electrical installation works;2013 April;100.7;0.9
+526;4321 Electrical installation works;2013 July;99.3;-1.3
+527;4321 Electrical installation works;2013 October;98.6;-1.3
+528;4321 Electrical installation works;2014 January;98.9;-0.8
+529;4321 Electrical installation works;2014 April;98.3;-2.4
+530;4321 Electrical installation works;2014 July;98.8;-0.4
+531;4321 Electrical installation works;2014 October;99.5;0.9
+532;4321 Electrical installation works;2015 January;100.1;1.2
+533;4321 Electrical installation works;2015 April;101.4;3.2
+534;4321 Electrical installation works;2015 July;100.0;1.1
+535;4321 Electrical installation works;2015 October;99.0;-0.5
+536;4321 Electrical installation works;2016 January;99.1;-1.0
+537;4321 Electrical installation works;2016 April;98.5;-2.9
+538;4321 Electrical installation works;2016 July;99.4;-0.6
+539;4321 Electrical installation works;2016 October;101.0;2.0
+540;4321 Electrical installation works;2017 January;103.5;4.4
+541;4321 Electrical installation works;2017 April;104.1;5.7
+542;4321 Electrical installation works;2017 July;103.7;4.4
+543;4321 Electrical installation works;2017 October;103.9;2.9
+544;4321 Electrical installation works;2018 January;103.8;0.3
+545;4321 Electrical installation works;2018 April;103.5;-0.6
+546;4321 Electrical installation works;2018 July;104.2;0.5
+547;4321 Electrical installation works;2018 October;104.3;0.3
+548;4321 Electrical installation works;2019 January;104.4;0.6
+549;4321 Electrical installation works;2019 April;104.6;1.0
+550;4321 Electrical installation works;2019 July;105.1;0.9
+551;4321 Electrical installation works;2019 October;105.0;0.7
+552;4321 Electrical installation works;2020 January;105.7;1.3
+553;4321 Electrical installation works;2020 April;104.9;0.4
+554;4321 Electrical installation works;2020 July;104.9;-0.2
+555;4321 Electrical installation works;2020 October;104.0;-0.9
+556;4321 Electrical installation works;2021 January;105.1;-0.6
+557;4321 Electrical installation works;2021 April;107.3;2.2
+558;4321 Electrical installation works;2021 July;111.2;6.1
+559;4321 Electrical installation works;2021 October;115.0;10.5
+560;4321 Electrical installation works;2022 January;117.9;12.1
+561;4321 Electrical installation works;2022 April;124.6;16.1
+562;4321 Electrical installation works;2022 July;127.5;14.6
+563;4321 Electrical installation works;2022 October;126.2;9.7
+564;4321 Electrical installation works;2023 January;124.4;5.5
+565;4321 Electrical installation works;2023 April;123.3;-1.0
+566;4321 Electrical installation works;2023 July;120.3;-5.7
+567;4321 Electrical installation works;2023 October;119.7;-5.1
+568;4321 Electrical installation works;2024 January;121.0;-2.7
+569;4321 Electrical installation works;2024 April;121.7;-1.3
+570;4321 Electrical installation works;2024 July;123.1;2.3
+571;4321 Electrical installation works;2024 October;122.0;1.9

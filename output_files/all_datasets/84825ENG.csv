@@ -1,0 +1,351 @@
+﻿ID;TypeOfRental;IncomeClasses;Periods;RentIncreaseIncludingHarmonisation_1;RentIncreaseExcludingHarmonisation_2
+0;Total;Total;2015;2.4;1.9
+1;Total;Total;2016;1.9;1.4
+2;Total;Total;2017;1.6;1.2
+3;Total;Total;2018;2.3;1.8
+4;Total;Total;2019;2.5;2.1
+5;Total;Total;2020;2.9;2.4
+6;Total;Total;2021;0.8;0.3
+7;Total;Total;2022;3.0;2.4
+8;Total;Total;2023;2.0;1.3
+9;Total;Total;2024;5.4;4.7
+10;Total;High income;2015;2.8;2.6
+11;Total;High income;2016;2.5;2.1
+12;Total;High income;2017;2.4;2.1
+13;Total;High income;2018;4.2;4.2
+14;Total;High income;2019;4.4;4.5
+15;Total;High income;2020;5.5;5.2
+16;Total;High income;2021;;
+17;Total;High income;2022;;
+18;Total;High income;2023;9.1;9.0
+19;Total;High income;2024;10.2;10.1
+20;Total;Middle income;2015;;
+21;Total;Middle income;2016;;
+22;Total;Middle income;2017;;
+23;Total;Middle income;2018;;
+24;Total;Middle income;2019;;
+25;Total;Middle income;2020;;
+26;Total;Middle income;2021;;
+27;Total;Middle income;2022;;
+28;Total;Middle income;2023;5.1;4.9
+29;Total;Middle income;2024;6.2;6.1
+30;Total;Low income;2015;2.2;1.7
+31;Total;Low income;2016;1.6;1.1
+32;Total;Low income;2017;1.4;0.9
+33;Total;Low income;2018;2.1;1.8
+34;Total;Low income;2019;2.1;1.8
+35;Total;Low income;2020;2.8;2.4
+36;Total;Low income;2021;;
+37;Total;Low income;2022;;
+38;Total;Low income;2023;0.2;-0.2
+39;Total;Low income;2024;5.5;5.0
+40;Total;Exception group;2015;2.2;2.0
+41;Total;Exception group;2016;2.0;1.5
+42;Total;Exception group;2017;1.2;1.1
+43;Total;Exception group;2018;2.1;1.9
+44;Total;Exception group;2019;2.1;2.0
+45;Total;Exception group;2020;2.8;2.6
+46;Total;Exception group;2021;;
+47;Total;Exception group;2022;;
+48;Total;Exception group;2023;;
+49;Total;Exception group;2024;;
+50;Total;Income not requested;2015;;
+51;Total;Income not requested;2016;;
+52;Total;Income not requested;2017;0.9;0.8
+53;Total;Income not requested;2018;1.8;1.5
+54;Total;Income not requested;2019;2.3;1.8
+55;Total;Income not requested;2020;2.8;2.2
+56;Total;Income not requested;2021;;
+57;Total;Income not requested;2022;;
+58;Total;Income not requested;2023;2.4;1.6
+59;Total;Income not requested;2024;5.3;4.5
+60;Total;Income unknown;2015;2.9;1.6
+61;Total;Income unknown;2016;2.0;1.4
+62;Total;Income unknown;2017;3.0;1.3
+63;Total;Income unknown;2018;2.4;1.7
+64;Total;Income unknown;2019;2.7;2.2
+65;Total;Income unknown;2020;3.4;2.9
+66;Total;Income unknown;2021;;
+67;Total;Income unknown;2022;;
+68;Total;Income unknown;2023;1.1;0.9
+69;Total;Income unknown;2024;5.8;4.8
+70;Liberalised rental;Total;2015;1.8;1.6
+71;Liberalised rental;Total;2016;2.2;1.6
+72;Liberalised rental;Total;2017;2.3;1.7
+73;Liberalised rental;Total;2018;3.1;2.0
+74;Liberalised rental;Total;2019;3.3;2.6
+75;Liberalised rental;Total;2020;3.0;2.1
+76;Liberalised rental;Total;2021;2.2;1.3
+77;Liberalised rental;Total;2022;3.8;2.8
+78;Liberalised rental;Total;2023;4.5;3.4
+79;Liberalised rental;Total;2024;5.0;4.1
+80;Liberalised rental;High income;2015;1.7;1.6
+81;Liberalised rental;High income;2016;2.1;1.7
+82;Liberalised rental;High income;2017;2.4;1.9
+83;Liberalised rental;High income;2018;3.9;3.9
+84;Liberalised rental;High income;2019;5.6;5.3
+85;Liberalised rental;High income;2020;4.5;4.5
+86;Liberalised rental;High income;2021;;
+87;Liberalised rental;High income;2022;;
+88;Liberalised rental;High income;2023;6.7;6.2
+89;Liberalised rental;High income;2024;11.4;10.5
+90;Liberalised rental;Middle income;2015;;
+91;Liberalised rental;Middle income;2016;;
+92;Liberalised rental;Middle income;2017;;
+93;Liberalised rental;Middle income;2018;;
+94;Liberalised rental;Middle income;2019;;
+95;Liberalised rental;Middle income;2020;;
+96;Liberalised rental;Middle income;2021;;
+97;Liberalised rental;Middle income;2022;;
+98;Liberalised rental;Middle income;2023;4.5;4.5
+99;Liberalised rental;Middle income;2024;5.8;5.8
+100;Liberalised rental;Low income;2015;1.6;1.5
+101;Liberalised rental;Low income;2016;2.4;1.6
+102;Liberalised rental;Low income;2017;2.5;1.7
+103;Liberalised rental;Low income;2018;3.7;3.3
+104;Liberalised rental;Low income;2019;5.2;2.4
+105;Liberalised rental;Low income;2020;3.8;3.2
+106;Liberalised rental;Low income;2021;;
+107;Liberalised rental;Low income;2022;;
+108;Liberalised rental;Low income;2023;3.6;2.9
+109;Liberalised rental;Low income;2024;5.4;3.0
+110;Liberalised rental;Exception group;2015;1.6;1.8
+111;Liberalised rental;Exception group;2016;2.3;1.6
+112;Liberalised rental;Exception group;2017;1.8;1.6
+113;Liberalised rental;Exception group;2018;4.4;2.3
+114;Liberalised rental;Exception group;2019;3.1;2.1
+115;Liberalised rental;Exception group;2020;3.1;2.9
+116;Liberalised rental;Exception group;2021;;
+117;Liberalised rental;Exception group;2022;;
+118;Liberalised rental;Exception group;2023;;
+119;Liberalised rental;Exception group;2024;;
+120;Liberalised rental;Income not requested;2015;;
+121;Liberalised rental;Income not requested;2016;;
+122;Liberalised rental;Income not requested;2017;1.4;1.2
+123;Liberalised rental;Income not requested;2018;2.7;2.1
+124;Liberalised rental;Income not requested;2019;3.2;2.3
+125;Liberalised rental;Income not requested;2020;3.0;2.1
+126;Liberalised rental;Income not requested;2021;;
+127;Liberalised rental;Income not requested;2022;;
+128;Liberalised rental;Income not requested;2023;4.5;3.4
+129;Liberalised rental;Income not requested;2024;5.0;4.1
+130;Liberalised rental;Income unknown;2015;2.1;1.4
+131;Liberalised rental;Income unknown;2016;2.1;1.4
+132;Liberalised rental;Income unknown;2017;3.1;1.4
+133;Liberalised rental;Income unknown;2018;3.1;1.9
+134;Liberalised rental;Income unknown;2019;3.3;2.6
+135;Liberalised rental;Income unknown;2020;5.2;3.4
+136;Liberalised rental;Income unknown;2021;;
+137;Liberalised rental;Income unknown;2022;;
+138;Liberalised rental;Income unknown;2023;1.5;2.8
+139;Liberalised rental;Income unknown;2024;1.0;0.7
+140;"Total; regulated";Total;2015;2.6;2.0
+141;"Total; regulated";Total;2016;1.8;1.3
+142;"Total; regulated";Total;2017;1.4;1.0
+143;"Total; regulated";Total;2018;2.1;1.8
+144;"Total; regulated";Total;2019;2.3;2.0
+145;"Total; regulated";Total;2020;2.8;2.4
+146;"Total; regulated";Total;2021;0.3;-0.1
+147;"Total; regulated";Total;2022;2.6;2.2
+148;"Total; regulated";Total;2023;1.0;0.5
+149;"Total; regulated";Total;2024;5.6;5.0
+150;"Total; regulated";High income;2015;3.6;3.5
+151;"Total; regulated";High income;2016;2.8;2.4
+152;"Total; regulated";High income;2017;2.3;2.2
+153;"Total; regulated";High income;2018;4.2;4.2
+154;"Total; regulated";High income;2019;4.4;4.5
+155;"Total; regulated";High income;2020;5.5;5.2
+156;"Total; regulated";High income;2021;;
+157;"Total; regulated";High income;2022;;
+158;"Total; regulated";High income;2023;9.4;9.4
+159;"Total; regulated";High income;2024;10.1;10.1
+160;"Total; regulated";Middle income;2015;;
+161;"Total; regulated";Middle income;2016;;
+162;"Total; regulated";Middle income;2017;;
+163;"Total; regulated";Middle income;2018;;
+164;"Total; regulated";Middle income;2019;;
+165;"Total; regulated";Middle income;2020;;
+166;"Total; regulated";Middle income;2021;;
+167;"Total; regulated";Middle income;2022;;
+168;"Total; regulated";Middle income;2023;5.1;4.9
+169;"Total; regulated";Middle income;2024;6.3;6.2
+170;"Total; regulated";Low income;2015;2.2;1.7
+171;"Total; regulated";Low income;2016;1.5;1.0
+172;"Total; regulated";Low income;2017;1.2;0.8
+173;"Total; regulated";Low income;2018;2.0;1.7
+174;"Total; regulated";Low income;2019;2.1;1.8
+175;"Total; regulated";Low income;2020;2.8;2.4
+176;"Total; regulated";Low income;2021;;
+177;"Total; regulated";Low income;2022;;
+178;"Total; regulated";Low income;2023;0.1;-0.2
+179;"Total; regulated";Low income;2024;5.5;5.0
+180;"Total; regulated";Exception group;2015;2.4;2.1
+181;"Total; regulated";Exception group;2016;1.9;1.5
+182;"Total; regulated";Exception group;2017;1.1;0.9
+183;"Total; regulated";Exception group;2018;2.1;1.9
+184;"Total; regulated";Exception group;2019;2.0;2.0
+185;"Total; regulated";Exception group;2020;2.8;2.6
+186;"Total; regulated";Exception group;2021;;
+187;"Total; regulated";Exception group;2022;;
+188;"Total; regulated";Exception group;2023;;
+189;"Total; regulated";Exception group;2024;;
+190;"Total; regulated";Income not requested;2015;;
+191;"Total; regulated";Income not requested;2016;;
+192;"Total; regulated";Income not requested;2017;0.8;0.7
+193;"Total; regulated";Income not requested;2018;1.5;1.3
+194;"Total; regulated";Income not requested;2019;1.9;1.6
+195;"Total; regulated";Income not requested;2020;2.7;2.3
+196;"Total; regulated";Income not requested;2021;;
+197;"Total; regulated";Income not requested;2022;;
+198;"Total; regulated";Income not requested;2023;1.1;0.4
+199;"Total; regulated";Income not requested;2024;5.5;4.7
+200;"Total; regulated";Income unknown;2015;3.4;1.7
+201;"Total; regulated";Income unknown;2016;1.9;1.4
+202;"Total; regulated";Income unknown;2017;2.9;1.3
+203;"Total; regulated";Income unknown;2018;2.1;1.6
+204;"Total; regulated";Income unknown;2019;2.4;1.9
+205;"Total; regulated";Income unknown;2020;3.4;2.9
+206;"Total; regulated";Income unknown;2021;;
+207;"Total; regulated";Income unknown;2022;;
+208;"Total; regulated";Income unknown;2023;1.1;0.9
+209;"Total; regulated";Income unknown;2024;5.9;4.9
+210;"Social landlords; regulated";Total;2015;2.6;1.9
+211;"Social landlords; regulated";Total;2016;1.6;1.0
+212;"Social landlords; regulated";Total;2017;1.1;0.6
+213;"Social landlords; regulated";Total;2018;1.7;1.4
+214;"Social landlords; regulated";Total;2019;2.0;1.7
+215;"Social landlords; regulated";Total;2020;2.7;2.3
+216;"Social landlords; regulated";Total;2021;0.3;-0.1
+217;"Social landlords; regulated";Total;2022;2.6;2.2
+218;"Social landlords; regulated";Total;2023;0.1;-0.3
+219;"Social landlords; regulated";Total;2024;5.6;4.9
+220;"Social landlords; regulated";High income;2015;3.8;3.6
+221;"Social landlords; regulated";High income;2016;2.5;2.2
+222;"Social landlords; regulated";High income;2017;2.2;2.0
+223;"Social landlords; regulated";High income;2018;4.1;4.3
+224;"Social landlords; regulated";High income;2019;4.2;4.4
+225;"Social landlords; regulated";High income;2020;5.6;5.2
+226;"Social landlords; regulated";High income;2021;;
+227;"Social landlords; regulated";High income;2022;;
+228;"Social landlords; regulated";High income;2023;8.9;8.8
+229;"Social landlords; regulated";High income;2024;9.7;9.7
+230;"Social landlords; regulated";Middle income;2015;;
+231;"Social landlords; regulated";Middle income;2016;;
+232;"Social landlords; regulated";Middle income;2017;;
+233;"Social landlords; regulated";Middle income;2018;;
+234;"Social landlords; regulated";Middle income;2019;;
+235;"Social landlords; regulated";Middle income;2020;;
+236;"Social landlords; regulated";Middle income;2021;;
+237;"Social landlords; regulated";Middle income;2022;;
+238;"Social landlords; regulated";Middle income;2023;4.8;4.6
+239;"Social landlords; regulated";Middle income;2024;6.3;6.1
+240;"Social landlords; regulated";Low income;2015;2.2;1.6
+241;"Social landlords; regulated";Low income;2016;1.4;0.8
+242;"Social landlords; regulated";Low income;2017;0.9;0.4
+243;"Social landlords; regulated";Low income;2018;1.7;1.4
+244;"Social landlords; regulated";Low income;2019;1.9;1.7
+245;"Social landlords; regulated";Low income;2020;2.7;2.3
+246;"Social landlords; regulated";Low income;2021;;
+247;"Social landlords; regulated";Low income;2022;;
+248;"Social landlords; regulated";Low income;2023;-0.6;-0.9
+249;"Social landlords; regulated";Low income;2024;5.4;4.9
+250;"Social landlords; regulated";Exception group;2015;2.4;2.0
+251;"Social landlords; regulated";Exception group;2016;1.8;1.4
+252;"Social landlords; regulated";Exception group;2017;0.7;0.5
+253;"Social landlords; regulated";Exception group;2018;1.7;1.5
+254;"Social landlords; regulated";Exception group;2019;1.9;1.8
+255;"Social landlords; regulated";Exception group;2020;2.7;2.5
+256;"Social landlords; regulated";Exception group;2021;;
+257;"Social landlords; regulated";Exception group;2022;;
+258;"Social landlords; regulated";Exception group;2023;;
+259;"Social landlords; regulated";Exception group;2024;;
+260;"Social landlords; regulated";Income not requested;2015;;
+261;"Social landlords; regulated";Income not requested;2016;;
+262;"Social landlords; regulated";Income not requested;2017;0.6;0.5
+263;"Social landlords; regulated";Income not requested;2018;1.5;1.2
+264;"Social landlords; regulated";Income not requested;2019;1.8;1.5
+265;"Social landlords; regulated";Income not requested;2020;2.5;2.0
+266;"Social landlords; regulated";Income not requested;2021;;
+267;"Social landlords; regulated";Income not requested;2022;;
+268;"Social landlords; regulated";Income not requested;2023;0.1;-0.6
+269;"Social landlords; regulated";Income not requested;2024;5.5;4.6
+270;"Social landlords; regulated";Income unknown;2015;3.8;1.6
+271;"Social landlords; regulated";Income unknown;2016;1.6;1.0
+272;"Social landlords; regulated";Income unknown;2017;3.0;0.6
+273;"Social landlords; regulated";Income unknown;2018;1.6;1.2
+274;"Social landlords; regulated";Income unknown;2019;1.9;1.4
+275;"Social landlords; regulated";Income unknown;2020;3.1;2.4
+276;"Social landlords; regulated";Income unknown;2021;;
+277;"Social landlords; regulated";Income unknown;2022;;
+278;"Social landlords; regulated";Income unknown;2023;0.4;0.1
+279;"Social landlords; regulated";Income unknown;2024;5.9;4.6
+280;"Other landlords; regulated";Total;2015;2.6;2.4
+281;"Other landlords; regulated";Total;2016;2.3;2.0
+282;"Other landlords; regulated";Total;2017;2.5;2.3
+283;"Other landlords; regulated";Total;2018;3.3;2.9
+284;"Other landlords; regulated";Total;2019;3.3;3.0
+285;"Other landlords; regulated";Total;2020;3.4;3.0
+286;"Other landlords; regulated";Total;2021;0.3;0.2
+287;"Other landlords; regulated";Total;2022;2.8;2.4
+288;"Other landlords; regulated";Total;2023;3.7;3.0
+289;"Other landlords; regulated";Total;2024;5.7;5.2
+290;"Other landlords; regulated";High income;2015;3.3;3.3
+291;"Other landlords; regulated";High income;2016;3.0;2.8
+292;"Other landlords; regulated";High income;2017;2.7;2.7
+293;"Other landlords; regulated";High income;2018;4.4;4.2
+294;"Other landlords; regulated";High income;2019;4.9;4.9
+295;"Other landlords; regulated";High income;2020;5.4;5.3
+296;"Other landlords; regulated";High income;2021;;
+297;"Other landlords; regulated";High income;2022;;
+298;"Other landlords; regulated";High income;2023;12.1;12.1
+299;"Other landlords; regulated";High income;2024;12.4;12.4
+300;"Other landlords; regulated";Middle income;2015;;
+301;"Other landlords; regulated";Middle income;2016;;
+302;"Other landlords; regulated";Middle income;2017;;
+303;"Other landlords; regulated";Middle income;2018;;
+304;"Other landlords; regulated";Middle income;2019;;
+305;"Other landlords; regulated";Middle income;2020;;
+306;"Other landlords; regulated";Middle income;2021;;
+307;"Other landlords; regulated";Middle income;2022;;
+308;"Other landlords; regulated";Middle income;2023;6.3;6.2
+309;"Other landlords; regulated";Middle income;2024;6.4;6.4
+310;"Other landlords; regulated";Low income;2015;2.4;2.1
+311;"Other landlords; regulated";Low income;2016;1.9;1.8
+312;"Other landlords; regulated";Low income;2017;2.3;2.1
+313;"Other landlords; regulated";Low income;2018;3.6;3.1
+314;"Other landlords; regulated";Low income;2019;3.7;3.6
+315;"Other landlords; regulated";Low income;2020;3.6;3.9
+316;"Other landlords; regulated";Low income;2021;;
+317;"Other landlords; regulated";Low income;2022;;
+318;"Other landlords; regulated";Low income;2023;3.2;2.9
+319;"Other landlords; regulated";Low income;2024;5.8;5.6
+320;"Other landlords; regulated";Exception group;2015;2.4;2.4
+321;"Other landlords; regulated";Exception group;2016;2.2;1.8
+322;"Other landlords; regulated";Exception group;2017;2.4;2.4
+323;"Other landlords; regulated";Exception group;2018;3.5;3.5
+324;"Other landlords; regulated";Exception group;2019;3.9;3.9
+325;"Other landlords; regulated";Exception group;2020;4.4;4.4
+326;"Other landlords; regulated";Exception group;2021;;
+327;"Other landlords; regulated";Exception group;2022;;
+328;"Other landlords; regulated";Exception group;2023;;
+329;"Other landlords; regulated";Exception group;2024;;
+330;"Other landlords; regulated";Income not requested;2015;;
+331;"Other landlords; regulated";Income not requested;2016;;
+332;"Other landlords; regulated";Income not requested;2017;2.2;1.9
+333;"Other landlords; regulated";Income not requested;2018;2.1;2.0
+334;"Other landlords; regulated";Income not requested;2019;2.5;2.3
+335;"Other landlords; regulated";Income not requested;2020;3.2;2.8
+336;"Other landlords; regulated";Income not requested;2021;;
+337;"Other landlords; regulated";Income not requested;2022;;
+338;"Other landlords; regulated";Income not requested;2023;3.7;2.7
+339;"Other landlords; regulated";Income not requested;2024;5.6;4.9
+340;"Other landlords; regulated";Income unknown;2015;2.5;2.0
+341;"Other landlords; regulated";Income unknown;2016;2.4;1.9
+342;"Other landlords; regulated";Income unknown;2017;2.9;2.3
+343;"Other landlords; regulated";Income unknown;2018;3.1;2.6
+344;"Other landlords; regulated";Income unknown;2019;3.2;2.9
+345;"Other landlords; regulated";Income unknown;2020;4.5;4.4
+346;"Other landlords; regulated";Income unknown;2021;;
+347;"Other landlords; regulated";Income unknown;2022;;
+348;"Other landlords; regulated";Income unknown;2023;3.7;3.7
+349;"Other landlords; regulated";Income unknown;2024;5.8;5.8

@@ -1,0 +1,51 @@
+﻿ID;SoortVerhuur;Perioden;HuurverhogingInclusiefRenovatie_1;EffectRenovatie_2;HuurverhogingInclusiefHarmonisatie_3;EffectHarmonisatie_4;HuurverhogingExclusiefHarmonisatie_5;AandeelHarmonisatieWoningen_6
+0;Totaal;2015;;;2.4;0.5;1.9;5.6
+1;Totaal;2016;;;1.9;0.5;1.4;6.7
+2;Totaal;2017;;;1.6;0.4;1.2;6.4
+3;Totaal;2018;;;2.3;0.5;1.8;6.0
+4;Totaal;2019;;;2.5;0.4;2.1;6.4
+5;Totaal;2020;3.0;0.1;2.9;0.5;2.4;6.4
+6;Totaal;2021;0.9;0.1;0.8;0.5;0.3;7.3
+7;Totaal;2022;3.1;0.1;3.0;0.6;2.4;6.5
+8;Totaal;2023;2.1;0.1;2.0;0.7;1.3;6.8
+9;Totaal;2024;5.6;0.2;5.4;0.7;4.7;5.8
+10;Geliberaliseerde verhuur;2015;;;1.8;0.2;1.6;8.8
+11;Geliberaliseerde verhuur;2016;;;2.2;0.6;1.6;10.0
+12;Geliberaliseerde verhuur;2017;;;2.3;0.6;1.7;9.7
+13;Geliberaliseerde verhuur;2018;;;3.1;1.1;2.0;9.3
+14;Geliberaliseerde verhuur;2019;;;3.3;0.7;2.6;7.9
+15;Geliberaliseerde verhuur;2020;3.4;0.4;3.0;0.9;2.1;9.9
+16;Geliberaliseerde verhuur;2021;2.5;0.3;2.2;0.9;1.3;11.0
+17;Geliberaliseerde verhuur;2022;4.1;0.3;3.8;1.0;2.8;11.3
+18;Geliberaliseerde verhuur;2023;4.7;0.2;4.5;1.1;3.4;10.4
+19;Geliberaliseerde verhuur;2024;5.4;0.4;5.0;0.9;4.1;9.3
+20;"Totaal; gereguleerd";2015;;;2.6;0.6;2.0;5.4
+21;"Totaal; gereguleerd";2016;;;1.8;0.5;1.3;6.6
+22;"Totaal; gereguleerd";2017;;;1.4;0.4;1.0;6.1
+23;"Totaal; gereguleerd";2018;;;2.1;0.3;1.8;5.7
+24;"Totaal; gereguleerd";2019;;;2.3;0.3;2.0;6.0
+25;"Totaal; gereguleerd";2020;2.9;0.1;2.8;0.4;2.4;5.8
+26;"Totaal; gereguleerd";2021;0.3;0.0;0.3;0.4;-0.1;6.5
+27;"Totaal; gereguleerd";2022;2.7;0.1;2.6;0.4;2.2;5.6
+28;"Totaal; gereguleerd";2023;1.2;0.2;1.0;0.5;0.5;6.0
+29;"Totaal; gereguleerd";2024;5.7;0.1;5.6;0.6;5.0;4.9
+30;"Sociale verhuurders; gereguleerd";2015;;;2.6;0.7;1.9;5.4
+31;"Sociale verhuurders; gereguleerd";2016;;;1.6;0.6;1.0;6.6
+32;"Sociale verhuurders; gereguleerd";2017;;;1.1;0.5;0.6;6.1
+33;"Sociale verhuurders; gereguleerd";2018;;;1.7;0.3;1.4;5.6
+34;"Sociale verhuurders; gereguleerd";2019;;;2.0;0.3;1.7;6.0
+35;"Sociale verhuurders; gereguleerd";2020;2.7;0.0;2.7;0.4;2.3;5.9
+36;"Sociale verhuurders; gereguleerd";2021;0.3;0.0;0.3;0.4;-0.1;6.9
+37;"Sociale verhuurders; gereguleerd";2022;2.6;0.0;2.6;0.4;2.2;5.4
+38;"Sociale verhuurders; gereguleerd";2023;0.2;0.1;0.1;0.4;-0.3;5.8
+39;"Sociale verhuurders; gereguleerd";2024;5.6;0.0;5.6;0.7;4.9;5.2
+40;"Overige verhuurders; gereguleerd";2015;;;2.6;0.2;2.4;5.8
+41;"Overige verhuurders; gereguleerd";2016;;;2.3;0.3;2.0;6.3
+42;"Overige verhuurders; gereguleerd";2017;;;2.5;0.2;2.3;6.2
+43;"Overige verhuurders; gereguleerd";2018;;;3.3;0.4;2.9;6.1
+44;"Overige verhuurders; gereguleerd";2019;;;3.3;0.3;3.0;6.0
+45;"Overige verhuurders; gereguleerd";2020;3.6;0.2;3.4;0.4;3.0;5.4
+46;"Overige verhuurders; gereguleerd";2021;0.4;0.1;0.3;0.1;0.2;4.8
+47;"Overige verhuurders; gereguleerd";2022;2.9;0.1;2.8;0.4;2.4;6.3
+48;"Overige verhuurders; gereguleerd";2023;4.2;0.5;3.7;0.7;3.0;7.0
+49;"Overige verhuurders; gereguleerd";2024;6.0;0.3;5.7;0.5;5.2;4.1

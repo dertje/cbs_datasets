@@ -1,0 +1,601 @@
+﻿ID;Zorgaanbieders;Perioden;ZorguitgavenInBredeZin_1;UitgavenVoorGezondheidszorgIntDef_2;UitgavenVerplichteVerzekeringen_3
+0;Totaal aanbieders zorg en welzijn;1998;39380;30737;22931
+1;Totaal aanbieders zorg en welzijn;1999;42394;32822;24237
+2;Totaal aanbieders zorg en welzijn;2000;45361;34836;26017
+3;Totaal aanbieders zorg en welzijn;2001;50767;38837;29277
+4;Totaal aanbieders zorg en welzijn;2002;56663;43344;32892
+5;Totaal aanbieders zorg en welzijn;2003;60888;46443;35621
+6;Totaal aanbieders zorg en welzijn;2004;63003;48222;36433
+7;Totaal aanbieders zorg en welzijn;2005;65424;50112;37702
+8;Totaal aanbieders zorg en welzijn;2006;68495;53080;47970
+9;Totaal aanbieders zorg en welzijn;2007;72713;56053;49101
+10;Totaal aanbieders zorg en welzijn;2008;77705;60038;51472
+11;Totaal aanbieders zorg en welzijn;2009;82298;62440;54456
+12;Totaal aanbieders zorg en welzijn;2010;85790;64910;57003
+13;Totaal aanbieders zorg en welzijn;2011;88125;66555;58387
+14;Totaal aanbieders zorg en welzijn;2012;90622;68816;60324
+15;Totaal aanbieders zorg en welzijn;2013;90954;69901;61316
+16;Totaal aanbieders zorg en welzijn;2014;91927;70964;62360
+17;Totaal aanbieders zorg en welzijn;2015;92323;71236;58604
+18;Totaal aanbieders zorg en welzijn;2016;94842;72918;59877
+19;Totaal aanbieders zorg en welzijn;2017;96972;74614;61506
+20;Totaal aanbieders zorg en welzijn;2018;101031;77553;64063
+21;Totaal aanbieders zorg en welzijn;2019;107429;82447;68531
+22;Totaal aanbieders zorg en welzijn;2020;116381;89285;72167
+23;Totaal aanbieders zorg en welzijn;2021;124691;96619;76285
+24;Totaal aanbieders zorg en welzijn;2022;126197;96028;79318
+25;GLZ: Totaal aanb. geneesk., langd. Zorg;1998;33875;29067;22358
+26;GLZ: Totaal aanb. geneesk., langd. Zorg;1999;36195;31047;23641
+27;GLZ: Totaal aanb. geneesk., langd. Zorg;2000;38583;32975;25393
+28;GLZ: Totaal aanb. geneesk., langd. Zorg;2001;43225;36818;28593
+29;GLZ: Totaal aanb. geneesk., langd. Zorg;2002;48745;41196;32216
+30;GLZ: Totaal aanb. geneesk., langd. Zorg;2003;52582;44225;34905
+31;GLZ: Totaal aanb. geneesk., langd. Zorg;2004;54700;45918;35699
+32;GLZ: Totaal aanb. geneesk., langd. Zorg;2005;56571;47443;36895
+33;GLZ: Totaal aanb. geneesk., langd. Zorg;2006;59152;50090;46217
+34;GLZ: Totaal aanb. geneesk., langd. Zorg;2007;62404;52913;47480
+35;GLZ: Totaal aanb. geneesk., langd. Zorg;2008;66592;56973;49903
+36;GLZ: Totaal aanb. geneesk., langd. Zorg;2009;70213;59348;52967
+37;GLZ: Totaal aanb. geneesk., langd. Zorg;2010;73402;61816;55461
+38;GLZ: Totaal aanb. geneesk., langd. Zorg;2011;75593;63306;56687
+39;GLZ: Totaal aanb. geneesk., langd. Zorg;2012;78309;65571;58508
+40;GLZ: Totaal aanb. geneesk., langd. Zorg;2013;78957;66583;59435
+41;GLZ: Totaal aanb. geneesk., langd. Zorg;2014;80116;67526;60388
+42;GLZ: Totaal aanb. geneesk., langd. Zorg;2015;80118;67774;57006
+43;GLZ: Totaal aanb. geneesk., langd. Zorg;2016;82021;69514;58365
+44;GLZ: Totaal aanb. geneesk., langd. Zorg;2017;83932;71216;59963
+45;GLZ: Totaal aanb. geneesk., langd. Zorg;2018;87334;74079;62530
+46;GLZ: Totaal aanb. geneesk., langd. Zorg;2019;92804;78832;66930
+47;GLZ: Totaal aanb. geneesk., langd. Zorg;2020;100535;85231;70573
+48;GLZ: Totaal aanb. geneesk., langd. Zorg;2021;107835;92426;74522
+49;GLZ: Totaal aanb. geneesk., langd. Zorg;2022;107649;91786;77446
+50;GLZ: Aanb. medisch-specialistische zorg;1998;9710;8844;6715
+51;GLZ: Aanb. medisch-specialistische zorg;1999;10249;9297;6897
+52;GLZ: Aanb. medisch-specialistische zorg;2000;10806;9787;7358
+53;GLZ: Aanb. medisch-specialistische zorg;2001;12245;11087;8351
+54;GLZ: Aanb. medisch-specialistische zorg;2002;13791;12500;9309
+55;GLZ: Aanb. medisch-specialistische zorg;2003;14691;13331;9915
+56;GLZ: Aanb. medisch-specialistische zorg;2004;15628;14181;10431
+57;GLZ: Aanb. medisch-specialistische zorg;2005;16302;14814;10808
+58;GLZ: Aanb. medisch-specialistische zorg;2006;17058;15530;15615
+59;GLZ: Aanb. medisch-specialistische zorg;2007;18086;16435;15987
+60;GLZ: Aanb. medisch-specialistische zorg;2008;19719;17963;16822
+61;GLZ: Aanb. medisch-specialistische zorg;2009;21260;19271;18128
+62;GLZ: Aanb. medisch-specialistische zorg;2010;22482;20417;19177
+63;GLZ: Aanb. medisch-specialistische zorg;2011;22620;20109;19112
+64;GLZ: Aanb. medisch-specialistische zorg;2012;23550;20896;19623
+65;GLZ: Aanb. medisch-specialistische zorg;2013;24479;21864;20939
+66;GLZ: Aanb. medisch-specialistische zorg;2014;24870;22128;21183
+67;GLZ: Aanb. medisch-specialistische zorg;2015;25601;23259;21680
+68;GLZ: Aanb. medisch-specialistische zorg;2016;26413;23994;22265
+69;GLZ: Aanb. medisch-specialistische zorg;2017;26870;24407;22701
+70;GLZ: Aanb. medisch-specialistische zorg;2018;27986;25466;23664
+71;GLZ: Aanb. medisch-specialistische zorg;2019;29369;26745;24872
+72;GLZ: Aanb. medisch-specialistische zorg;2020;31177;28506;25850
+73;GLZ: Aanb. medisch-specialistische zorg;2021;32193;29356;27035
+74;GLZ: Aanb. medisch-specialistische zorg;2022;32980;29985;28034
+75;GLZMS: Algemene ziekenhuizen;1998;5952;5712;4467
+76;GLZMS: Algemene ziekenhuizen;1999;6178;5926;4532
+77;GLZMS: Algemene ziekenhuizen;2000;6548;6280;4874
+78;GLZMS: Algemene ziekenhuizen;2001;7474;7171;5560
+79;GLZMS: Algemene ziekenhuizen;2002;8224;7888;6044
+80;GLZMS: Algemene ziekenhuizen;2003;8701;8345;6404
+81;GLZMS: Algemene ziekenhuizen;2004;9146;8770;6646
+82;GLZMS: Algemene ziekenhuizen;2005;9542;9144;6851
+83;GLZMS: Algemene ziekenhuizen;2006;10091;9681;9947
+84;GLZMS: Algemene ziekenhuizen;2007;10571;10156;10099
+85;GLZMS: Algemene ziekenhuizen;2008;10923;10462;9948
+86;GLZMS: Algemene ziekenhuizen;2009;11764;11283;10738
+87;GLZMS: Algemene ziekenhuizen;2010;12842;12332;11767
+88;GLZMS: Algemene ziekenhuizen;2011;12678;11814;11497
+89;GLZMS: Algemene ziekenhuizen;2012;13324;12341;11934
+90;GLZMS: Algemene ziekenhuizen;2013;13919;12950;12708
+91;GLZMS: Algemene ziekenhuizen;2014;14131;13075;12770
+92;GLZMS: Algemene ziekenhuizen;2015;14706;14092;13186
+93;GLZMS: Algemene ziekenhuizen;2016;14978;14358;13365
+94;GLZMS: Algemene ziekenhuizen;2017;14983;14355;13393
+95;GLZMS: Algemene ziekenhuizen;2018;15586;14945;13899
+96;GLZMS: Algemene ziekenhuizen;2019;16215;15546;14470
+97;GLZMS: Algemene ziekenhuizen;2020;17343;16694;15122
+98;GLZMS: Algemene ziekenhuizen;2021;17734;17011;15715
+99;GLZMS: Algemene ziekenhuizen;2022;18025;17230;16144
+100;GLZMS: UMC's;1998;2013;1393;1101
+101;GLZMS: UMC's;1999;2226;1532;1180
+102;GLZMS: UMC's;2000;2389;1645;1286
+103;GLZMS: UMC's;2001;2754;1906;1501
+104;GLZMS: UMC's;2002;3272;2325;1800
+105;GLZMS: UMC's;2003;3476;2483;1908
+106;GLZMS: UMC's;2004;3713;2652;2022
+107;GLZMS: UMC's;2005;3777;2697;2076
+108;GLZMS: UMC's;2006;3938;2831;3020
+109;GLZMS: UMC's;2007;4262;3036;3029
+110;GLZMS: UMC's;2008;4894;3613;3559
+111;GLZMS: UMC's;2009;5357;3866;3832
+112;GLZMS: UMC's;2010;5751;4211;4169
+113;GLZMS: UMC's;2011;5965;4334;4276
+114;GLZMS: UMC's;2012;6115;4459;4280
+115;GLZMS: UMC's;2013;6357;4731;4705
+116;GLZMS: UMC's;2014;6471;4806;4893
+117;GLZMS: UMC's;2015;6964;5273;5316
+118;GLZMS: UMC's;2016;7225;5459;5475
+119;GLZMS: UMC's;2017;7584;5785;5792
+120;GLZMS: UMC's;2018;7852;6003;6016
+121;GLZMS: UMC's;2019;8336;6413;6399
+122;GLZMS: UMC's;2020;8941;6952;6643
+123;GLZMS: UMC's;2021;9264;7183;6971
+124;GLZMS: UMC's;2022;9534;7367;7321
+125;GLZMS: Overige aanb. med.-spec. zorg;1998;1745;1739;1147
+126;GLZMS: Overige aanb. med.-spec. zorg;1999;1845;1839;1186
+127;GLZMS: Overige aanb. med.-spec. zorg;2000;1868;1862;1198
+128;GLZMS: Overige aanb. med.-spec. zorg;2001;2017;2009;1289
+129;GLZMS: Overige aanb. med.-spec. zorg;2002;2295;2287;1465
+130;GLZMS: Overige aanb. med.-spec. zorg;2003;2513;2504;1603
+131;GLZMS: Overige aanb. med.-spec. zorg;2004;2769;2760;1763
+132;GLZMS: Overige aanb. med.-spec. zorg;2005;2983;2973;1881
+133;GLZMS: Overige aanb. med.-spec. zorg;2006;3029;3019;2648
+134;GLZMS: Overige aanb. med.-spec. zorg;2007;3253;3243;2858
+135;GLZMS: Overige aanb. med.-spec. zorg;2008;3902;3887;3315
+136;GLZMS: Overige aanb. med.-spec. zorg;2009;4139;4122;3558
+137;GLZMS: Overige aanb. med.-spec. zorg;2010;3889;3873;3240
+138;GLZMS: Overige aanb. med.-spec. zorg;2011;3977;3961;3338
+139;GLZMS: Overige aanb. med.-spec. zorg;2012;4112;4096;3409
+140;GLZMS: Overige aanb. med.-spec. zorg;2013;4204;4183;3527
+141;GLZMS: Overige aanb. med.-spec. zorg;2014;4269;4246;3520
+142;GLZMS: Overige aanb. med.-spec. zorg;2015;3930;3894;3178
+143;GLZMS: Overige aanb. med.-spec. zorg;2016;4210;4177;3425
+144;GLZMS: Overige aanb. med.-spec. zorg;2017;4303;4268;3517
+145;GLZMS: Overige aanb. med.-spec. zorg;2018;4548;4518;3749
+146;GLZMS: Overige aanb. med.-spec. zorg;2019;4818;4787;4003
+147;GLZMS: Overige aanb. med.-spec. zorg;2020;4893;4860;4085
+148;GLZMS: Overige aanb. med.-spec. zorg;2021;5195;5161;4348
+149;GLZMS: Overige aanb. med.-spec. zorg;2022;5422;5387;4569
+150;GLZ: Aanb. geestelijke gezondheidszorg;1998;2479;1930;2019
+151;GLZ: Aanb. geestelijke gezondheidszorg;1999;2666;2071;2183
+152;GLZ: Aanb. geestelijke gezondheidszorg;2000;2803;2166;2296
+153;GLZ: Aanb. geestelijke gezondheidszorg;2001;3102;2372;2541
+154;GLZ: Aanb. geestelijke gezondheidszorg;2002;3490;2626;2846
+155;GLZ: Aanb. geestelijke gezondheidszorg;2003;3915;2900;3204
+156;GLZ: Aanb. geestelijke gezondheidszorg;2004;4236;3146;3487
+157;GLZ: Aanb. geestelijke gezondheidszorg;2005;4547;3343;3739
+158;GLZ: Aanb. geestelijke gezondheidszorg;2006;4783;3464;3898
+159;GLZ: Aanb. geestelijke gezondheidszorg;2007;5211;3731;4227
+160;GLZ: Aanb. geestelijke gezondheidszorg;2008;5503;4367;4396
+161;GLZ: Aanb. geestelijke gezondheidszorg;2009;5952;4308;4728
+162;GLZ: Aanb. geestelijke gezondheidszorg;2010;6133;4343;4870
+163;GLZ: Aanb. geestelijke gezondheidszorg;2011;6428;4537;5113
+164;GLZ: Aanb. geestelijke gezondheidszorg;2012;6616;4691;5230
+165;GLZ: Aanb. geestelijke gezondheidszorg;2013;6699;4541;5295
+166;GLZ: Aanb. geestelijke gezondheidszorg;2014;6745;4527;5386
+167;GLZ: Aanb. geestelijke gezondheidszorg;2015;6283;4586;3322
+168;GLZ: Aanb. geestelijke gezondheidszorg;2016;6450;4797;3323
+169;GLZ: Aanb. geestelijke gezondheidszorg;2017;6533;4894;3358
+170;GLZ: Aanb. geestelijke gezondheidszorg;2018;6785;5103;3471
+171;GLZ: Aanb. geestelijke gezondheidszorg;2019;7242;5493;3693
+172;GLZ: Aanb. geestelijke gezondheidszorg;2020;7810;5937;4011
+173;GLZ: Aanb. geestelijke gezondheidszorg;2021;8068;6033;4618
+174;GLZ: Aanb. geestelijke gezondheidszorg;2022;8307;6252;4894
+175;GLZ: Huisartsenpraktijken;1998;1351;1315;886
+176;GLZ: Huisartsenpraktijken;1999;1418;1380;922
+177;GLZ: Huisartsenpraktijken;2000;1543;1501;1027
+178;GLZ: Huisartsenpraktijken;2001;1687;1623;1090
+179;GLZ: Huisartsenpraktijken;2002;1934;1859;1246
+180;GLZ: Huisartsenpraktijken;2003;2127;2045;1336
+181;GLZ: Huisartsenpraktijken;2004;2122;2028;1321
+182;GLZ: Huisartsenpraktijken;2005;2124;2030;1307
+183;GLZ: Huisartsenpraktijken;2006;2394;2301;2234
+184;GLZ: Huisartsenpraktijken;2007;2585;2484;2414
+185;GLZ: Huisartsenpraktijken;2008;2645;2537;2435
+186;GLZ: Huisartsenpraktijken;2009;2740;2625;2516
+187;GLZ: Huisartsenpraktijken;2010;2888;2765;2653
+188;GLZ: Huisartsenpraktijken;2011;3183;3043;2925
+189;GLZ: Huisartsenpraktijken;2012;3152;2996;2879
+190;GLZ: Huisartsenpraktijken;2013;3248;3087;3115
+191;GLZ: Huisartsenpraktijken;2014;3483;3312;3354
+192;GLZ: Huisartsenpraktijken;2015;3570;3390;3447
+193;GLZ: Huisartsenpraktijken;2016;3710;3521;3589
+194;GLZ: Huisartsenpraktijken;2017;3776;3581;3676
+195;GLZ: Huisartsenpraktijken;2018;3983;3780;3882
+196;GLZ: Huisartsenpraktijken;2019;4430;4210;4299
+197;GLZ: Huisartsenpraktijken;2020;4793;4563;4576
+198;GLZ: Huisartsenpraktijken;2021;4961;4732;4750
+199;GLZ: Huisartsenpraktijken;2022;5076;4821;4902
+200;GLZ: Tandartsenpraktijken;1998;1190;1188;333
+201;GLZ: Tandartsenpraktijken;1999;1256;1253;343
+202;GLZ: Tandartsenpraktijken;2000;1364;1362;371
+203;GLZ: Tandartsenpraktijken;2001;1519;1516;393
+204;GLZ: Tandartsenpraktijken;2002;1746;1743;456
+205;GLZ: Tandartsenpraktijken;2003;1914;1910;476
+206;GLZ: Tandartsenpraktijken;2004;1971;1968;347
+207;GLZ: Tandartsenpraktijken;2005;1942;1938;346
+208;GLZ: Tandartsenpraktijken;2006;2025;2020;524
+209;GLZ: Tandartsenpraktijken;2007;2207;2203;568
+210;GLZ: Tandartsenpraktijken;2008;2376;2372;655
+211;GLZ: Tandartsenpraktijken;2009;2511;2506;716
+212;GLZ: Tandartsenpraktijken;2010;2613;2608;754
+213;GLZ: Tandartsenpraktijken;2011;2682;2676;701
+214;GLZ: Tandartsenpraktijken;2012;2790;2785;725
+215;GLZ: Tandartsenpraktijken;2013;2662;2658;692
+216;GLZ: Tandartsenpraktijken;2014;2755;2750;741
+217;GLZ: Tandartsenpraktijken;2015;2730;2726;738
+218;GLZ: Tandartsenpraktijken;2016;2855;2850;751
+219;GLZ: Tandartsenpraktijken;2017;2845;2840;753
+220;GLZ: Tandartsenpraktijken;2018;2915;2910;780
+221;GLZ: Tandartsenpraktijken;2019;2976;2972;829
+222;GLZ: Tandartsenpraktijken;2020;2686;2620;786
+223;GLZ: Tandartsenpraktijken;2021;2936;2929;871
+224;GLZ: Tandartsenpraktijken;2022;3007;3003;896
+225;GLZ: Paramedische praktijken;1998;777;777;447
+226;GLZ: Paramedische praktijken;1999;872;872;497
+227;GLZ: Paramedische praktijken;2000;925;925;536
+228;GLZ: Paramedische praktijken;2001;1019;1019;586
+229;GLZ: Paramedische praktijken;2002;1088;1088;618
+230;GLZ: Paramedische praktijken;2003;1180;1180;655
+231;GLZ: Paramedische praktijken;2004;1191;1191;367
+232;GLZ: Paramedische praktijken;2005;1251;1251;378
+233;GLZ: Paramedische praktijken;2006;1432;1432;596
+234;GLZ: Paramedische praktijken;2007;1567;1567;672
+235;GLZ: Paramedische praktijken;2008;1679;1679;724
+236;GLZ: Paramedische praktijken;2009;1801;1801;817
+237;GLZ: Paramedische praktijken;2010;1866;1866;896
+238;GLZ: Paramedische praktijken;2011;1983;1983;914
+239;GLZ: Paramedische praktijken;2012;1966;1966;827
+240;GLZ: Paramedische praktijken;2013;1930;1930;785
+241;GLZ: Paramedische praktijken;2014;1989;1989;821
+242;GLZ: Paramedische praktijken;2015;2028;2028;844
+243;GLZ: Paramedische praktijken;2016;2192;2192;893
+244;GLZ: Paramedische praktijken;2017;2191;2191;916
+245;GLZ: Paramedische praktijken;2018;2258;2258;969
+246;GLZ: Paramedische praktijken;2019;2300;2300;1008
+247;GLZ: Paramedische praktijken;2020;2222;2222;1033
+248;GLZ: Paramedische praktijken;2021;2501;2494;1181
+249;GLZ: Paramedische praktijken;2022;2543;2543;1215
+250;GLZ: Aanb. verpleging en verzorging;1998;7550;6182;6238
+251;GLZ: Aanb. verpleging en verzorging;1999;7961;6537;6595
+252;GLZ: Aanb. verpleging en verzorging;2000;8569;7004;7152
+253;GLZ: Aanb. verpleging en verzorging;2001;9757;7998;8279
+254;GLZ: Aanb. verpleging en verzorging;2002;11148;9156;9507
+255;GLZ: Aanb. verpleging en verzorging;2003;12075;9870;10367
+256;GLZ: Aanb. verpleging en verzorging;2004;12214;9896;10378
+257;GLZ: Aanb. verpleging en verzorging;2005;12572;10064;10644
+258;GLZ: Aanb. verpleging en verzorging;2006;13118;11242;11356
+259;GLZ: Aanb. verpleging en verzorging;2007;13329;11483;10597
+260;GLZ: Aanb. verpleging en verzorging;2008;14116;12309;11464
+261;GLZ: Aanb. verpleging en verzorging;2009;14696;12734;11931
+262;GLZ: Aanb. verpleging en verzorging;2010;15369;13205;12505
+263;GLZ: Aanb. verpleging en verzorging;2011;15890;13595;12909
+264;GLZ: Aanb. verpleging en verzorging;2012;17158;14781;14109
+265;GLZ: Aanb. verpleging en verzorging;2013;17306;15167;14150
+266;GLZ: Aanb. verpleging en verzorging;2014;17304;15157;14149
+267;GLZ: Aanb. verpleging en verzorging;2015;17219;14260;13810
+268;GLZ: Aanb. verpleging en verzorging;2016;17260;14474;14147
+269;GLZ: Aanb. verpleging en verzorging;2017;17933;15010;14749
+270;GLZ: Aanb. verpleging en verzorging;2018;18989;15976;15587
+271;GLZ: Aanb. verpleging en verzorging;2019;20583;17364;17020
+272;GLZ: Aanb. verpleging en verzorging;2020;23289;19298;18391
+273;GLZ: Aanb. verpleging en verzorging;2021;23567;20036;19481
+274;GLZ: Aanb. verpleging en verzorging;2022;23821;20308;19898
+275;GLZ: Aanbieders gehandicaptenzorg;1998;3662;1902;2777
+276;GLZ: Aanbieders gehandicaptenzorg;1999;3946;2057;3028
+277;GLZ: Aanbieders gehandicaptenzorg;2000;4194;2197;3300
+278;GLZ: Aanbieders gehandicaptenzorg;2001;4623;2398;3602
+279;GLZ: Aanbieders gehandicaptenzorg;2002;5254;2686;4110
+280;GLZ: Aanbieders gehandicaptenzorg;2003;5750;2920;4535
+281;GLZ: Aanbieders gehandicaptenzorg;2004;6081;3079;4881
+282;GLZ: Aanbieders gehandicaptenzorg;2005;6263;3191;5019
+283;GLZ: Aanbieders gehandicaptenzorg;2006;6720;3170;5389
+284;GLZ: Aanbieders gehandicaptenzorg;2007;6938;3269;5861
+285;GLZ: Aanbieders gehandicaptenzorg;2008;7611;3601;6525
+286;GLZ: Aanbieders gehandicaptenzorg;2009;8294;3895;7089
+287;GLZ: Aanbieders gehandicaptenzorg;2010;8597;4020;7367
+288;GLZ: Aanbieders gehandicaptenzorg;2011;9027;4365;7699
+289;GLZ: Aanbieders gehandicaptenzorg;2012;9749;4885;8502
+290;GLZ: Aanbieders gehandicaptenzorg;2013;9701;5122;8427
+291;GLZ: Aanbieders gehandicaptenzorg;2014;9911;5356;8657
+292;GLZ: Aanbieders gehandicaptenzorg;2015;9532;5109;7141
+293;GLZ: Aanbieders gehandicaptenzorg;2016;9929;5247;7366
+294;GLZ: Aanbieders gehandicaptenzorg;2017;10337;5650;7628
+295;GLZ: Aanbieders gehandicaptenzorg;2018;10793;5799;7950
+296;GLZ: Aanbieders gehandicaptenzorg;2019;11616;6338;8607
+297;GLZ: Aanbieders gehandicaptenzorg;2020;12804;7268;9239
+298;GLZ: Aanbieders gehandicaptenzorg;2021;13052;7376;9907
+299;GLZ: Aanbieders gehandicaptenzorg;2022;13504;7592;10351
+300;GLZ: Totaal overige aanbieders;1998;7155;6929;2944
+301;GLZ: Totaal overige aanbieders;1999;7826;7580;3174
+302;GLZ: Totaal overige aanbieders;2000;8380;8033;3354
+303;GLZ: Totaal overige aanbieders;2001;9273;8805;3751
+304;GLZ: Totaal overige aanbieders;2002;10296;9538;4123
+305;GLZ: Totaal overige aanbieders;2003;10931;10068;4417
+306;GLZ: Totaal overige aanbieders;2004;11256;10430;4487
+307;GLZ: Totaal overige aanbieders;2005;11570;10812;4654
+308;GLZ: Totaal overige aanbieders;2006;11622;10931;6605
+309;GLZ: Totaal overige aanbieders;2007;12481;11742;7155
+310;GLZ: Totaal overige aanbieders;2008;12944;12146;6883
+311;GLZ: Totaal overige aanbieders;2009;12958;12208;7042
+312;GLZ: Totaal overige aanbieders;2010;13454;12593;7239
+313;GLZ: Totaal overige aanbieders;2011;13780;12997;7314
+314;GLZ: Totaal overige aanbieders;2012;13327;12571;6612
+315;GLZ: Totaal overige aanbieders;2013;12933;12215;6033
+316;GLZ: Totaal overige aanbieders;2014;13060;12308;6097
+317;GLZ: Totaal overige aanbieders;2015;13154;12415;6023
+318;GLZ: Totaal overige aanbieders;2016;13213;12439;6031
+319;GLZ: Totaal overige aanbieders;2017;13446;12643;6183
+320;GLZ: Totaal overige aanbieders;2018;13626;12788;6226
+321;GLZ: Totaal overige aanbieders;2019;14288;13410;6602
+322;GLZ: Totaal overige aanbieders;2020;15754;14817;6688
+323;GLZ: Totaal overige aanbieders;2021;20556;19470;6680
+324;GLZ: Totaal overige aanbieders;2022;18410;17282;7257
+325;GLZO: Aanbieders preventie;1998;1146;1146;108
+326;GLZO: Aanbieders preventie;1999;1260;1260;113
+327;GLZO: Aanbieders preventie;2000;1407;1320;118
+328;GLZO: Aanbieders preventie;2001;1555;1394;122
+329;GLZO: Aanbieders preventie;2002;1815;1433;135
+330;GLZO: Aanbieders preventie;2003;1997;1498;132
+331;GLZO: Aanbieders preventie;2004;1961;1507;131
+332;GLZO: Aanbieders preventie;2005;1901;1517;136
+333;GLZO: Aanbieders preventie;2006;1774;1426;85
+334;GLZO: Aanbieders preventie;2007;1894;1519;100
+335;GLZO: Aanbieders preventie;2008;1921;1402;89
+336;GLZO: Aanbieders preventie;2009;1985;1514;88
+337;GLZO: Aanbieders preventie;2010;2061;1579;98
+338;GLZO: Aanbieders preventie;2011;1993;1542;95
+339;GLZO: Aanbieders preventie;2012;1999;1554;82
+340;GLZO: Aanbieders preventie;2013;1937;1529;85
+341;GLZO: Aanbieders preventie;2014;1947;1550;88
+342;GLZO: Aanbieders preventie;2015;1904;1525;86
+343;GLZO: Aanbieders preventie;2016;1958;1563;90
+344;GLZO: Aanbieders preventie;2017;2020;1601;93
+345;GLZO: Aanbieders preventie;2018;2072;1634;100
+346;GLZO: Aanbieders preventie;2019;2243;1759;108
+347;GLZO: Aanbieders preventie;2020;3241;2729;124
+348;GLZO: Aanbieders preventie;2021;6479;5916;132
+349;GLZO: Aanbieders preventie;2022;4232;3635;141
+350;GLZO: Aanbieders geneesmiddelen;1998;3284;3277;1922
+351;GLZO: Aanbieders geneesmiddelen;1999;3600;3592;2091
+352;GLZO: Aanbieders geneesmiddelen;2000;3844;3836;2232
+353;GLZO: Aanbieders geneesmiddelen;2001;4211;4203;2489
+354;GLZO: Aanbieders geneesmiddelen;2002;4559;4550;2673
+355;GLZO: Aanbieders geneesmiddelen;2003;4878;4868;2892
+356;GLZO: Aanbieders geneesmiddelen;2004;4997;4987;2853
+357;GLZO: Aanbieders geneesmiddelen;2005;5198;5187;2987
+358;GLZO: Aanbieders geneesmiddelen;2006;5261;5250;4381
+359;GLZO: Aanbieders geneesmiddelen;2007;5689;5677;4765
+360;GLZO: Aanbieders geneesmiddelen;2008;5583;5573;4361
+361;GLZO: Aanbieders geneesmiddelen;2009;5633;5622;4392
+362;GLZO: Aanbieders geneesmiddelen;2010;5769;5759;4500
+363;GLZO: Aanbieders geneesmiddelen;2011;5838;5827;4474
+364;GLZO: Aanbieders geneesmiddelen;2012;5266;5257;3821
+365;GLZO: Aanbieders geneesmiddelen;2013;5030;5023;3396
+366;GLZO: Aanbieders geneesmiddelen;2014;5029;5021;3416
+367;GLZO: Aanbieders geneesmiddelen;2015;5098;5090;3421
+368;GLZO: Aanbieders geneesmiddelen;2016;5222;5214;3503
+369;GLZO: Aanbieders geneesmiddelen;2017;5379;5371;3638
+370;GLZO: Aanbieders geneesmiddelen;2018;5359;5352;3605
+371;GLZO: Aanbieders geneesmiddelen;2019;5645;5637;3828
+372;GLZO: Aanbieders geneesmiddelen;2020;5771;5765;3866
+373;GLZO: Aanbieders geneesmiddelen;2021;5700;5696;3780
+374;GLZO: Aanbieders geneesmiddelen;2022;6105;6098;4112
+375;GLZO: Aanbieders therapeutische middelen;1998;1576;1516;544
+376;GLZO: Aanbieders therapeutische middelen;1999;1661;1601;556
+377;GLZO: Aanbieders therapeutische middelen;2000;1754;1692;572
+378;GLZO: Aanbieders therapeutische middelen;2001;1890;1826;614
+379;GLZO: Aanbieders therapeutische middelen;2002;1994;1921;668
+380;GLZO: Aanbieders therapeutische middelen;2003;2153;2072;739
+381;GLZO: Aanbieders therapeutische middelen;2004;2294;2214;807
+382;GLZO: Aanbieders therapeutische middelen;2005;2334;2256;797
+383;GLZO: Aanbieders therapeutische middelen;2006;2411;2330;1085
+384;GLZO: Aanbieders therapeutische middelen;2007;2500;2415;1152
+385;GLZO: Aanbieders therapeutische middelen;2008;2786;2786;1150
+386;GLZO: Aanbieders therapeutische middelen;2009;2520;2520;1219
+387;GLZO: Aanbieders therapeutische middelen;2010;2671;2671;1254
+388;GLZO: Aanbieders therapeutische middelen;2011;2908;2908;1287
+389;GLZO: Aanbieders therapeutische middelen;2012;3052;3052;1314
+390;GLZO: Aanbieders therapeutische middelen;2013;2932;2932;1214
+391;GLZO: Aanbieders therapeutische middelen;2014;2979;2979;1236
+392;GLZO: Aanbieders therapeutische middelen;2015;3029;3029;1270
+393;GLZO: Aanbieders therapeutische middelen;2016;2898;2898;1185
+394;GLZO: Aanbieders therapeutische middelen;2017;2869;2869;1215
+395;GLZO: Aanbieders therapeutische middelen;2018;2963;2963;1250
+396;GLZO: Aanbieders therapeutische middelen;2019;3066;3066;1322
+397;GLZO: Aanbieders therapeutische middelen;2020;3125;3125;1388
+398;GLZO: Aanbieders therapeutische middelen;2021;3787;3787;1425
+399;GLZO: Aanbieders therapeutische middelen;2022;3639;3639;1492
+400;GLZO: Ondersteunende diensten;1998;391;283;89
+401;GLZO: Ondersteunende diensten;1999;498;369;116
+402;GLZO: Ondersteunende diensten;2000;514;372;117
+403;GLZO: Ondersteunende diensten;2001;670;481;173
+404;GLZO: Ondersteunende diensten;2002;893;643;254
+405;GLZO: Ondersteunende diensten;2003;766;533;211
+406;GLZO: Ondersteunende diensten;2004;830;589;261
+407;GLZO: Ondersteunende diensten;2005;907;665;286
+408;GLZO: Ondersteunende diensten;2006;855;650;306
+409;GLZO: Ondersteunende diensten;2007;953;731;361
+410;GLZO: Ondersteunende diensten;2008;1110;884;464
+411;GLZO: Ondersteunende diensten;2009;1191;962;479
+412;GLZO: Ondersteunende diensten;2010;1294;963;474
+413;GLZO: Ondersteunende diensten;2011;1322;1038;493
+414;GLZO: Ondersteunende diensten;2012;1306;1038;443
+415;GLZO: Ondersteunende diensten;2013;1261;994;388
+416;GLZO: Ondersteunende diensten;2014;1344;1031;402
+417;GLZO: Ondersteunende diensten;2015;1370;1050;298
+418;GLZO: Ondersteunende diensten;2016;1386;1047;328
+419;GLZO: Ondersteunende diensten;2017;1401;1056;317
+420;GLZO: Ondersteunende diensten;2018;1457;1098;334
+421;GLZO: Ondersteunende diensten;2019;1495;1146;321
+422;GLZO: Ondersteunende diensten;2020;1796;1420;304
+423;GLZO: Ondersteunende diensten;2021;2638;2182;304
+424;GLZO: Ondersteunende diensten;2022;2374;1898;301
+425;GLZO: Aanb. ov.geneesk., langdurige zorg;1998;758;707;282
+426;GLZO: Aanb. ov.geneesk., langdurige zorg;1999;808;758;299
+427;GLZO: Aanb. ov.geneesk., langdurige zorg;2000;862;814;315
+428;GLZO: Aanb. ov.geneesk., langdurige zorg;2001;946;901;353
+429;GLZO: Aanb. ov.geneesk., langdurige zorg;2002;1035;991;393
+430;GLZO: Aanb. ov.geneesk., langdurige zorg;2003;1137;1096;443
+431;GLZO: Aanb. ov.geneesk., langdurige zorg;2004;1175;1133;435
+432;GLZO: Aanb. ov.geneesk., langdurige zorg;2005;1231;1187;448
+433;GLZO: Aanb. ov.geneesk., langdurige zorg;2006;1321;1276;749
+434;GLZO: Aanb. ov.geneesk., langdurige zorg;2007;1445;1399;777
+435;GLZO: Aanb. ov.geneesk., langdurige zorg;2008;1543;1501;818
+436;GLZO: Aanb. ov.geneesk., langdurige zorg;2009;1628;1590;863
+437;GLZO: Aanb. ov.geneesk., langdurige zorg;2010;1658;1621;914
+438;GLZO: Aanb. ov.geneesk., langdurige zorg;2011;1718;1681;964
+439;GLZO: Aanb. ov.geneesk., langdurige zorg;2012;1705;1671;953
+440;GLZO: Aanb. ov.geneesk., langdurige zorg;2013;1772;1737;950
+441;GLZO: Aanb. ov.geneesk., langdurige zorg;2014;1762;1727;955
+442;GLZO: Aanb. ov.geneesk., langdurige zorg;2015;1754;1721;948
+443;GLZO: Aanb. ov.geneesk., langdurige zorg;2016;1748;1717;925
+444;GLZO: Aanb. ov.geneesk., langdurige zorg;2017;1778;1746;920
+445;GLZO: Aanb. ov.geneesk., langdurige zorg;2018;1775;1741;938
+446;GLZO: Aanb. ov.geneesk., langdurige zorg;2019;1839;1801;1023
+447;GLZO: Aanb. ov.geneesk., langdurige zorg;2020;1820;1777;1006
+448;GLZO: Aanb. ov.geneesk., langdurige zorg;2021;1952;1890;1040
+449;GLZO: Aanb. ov.geneesk., langdurige zorg;2022;2060;2012;1211
+450;WJK: Totaal aanbieders WJK;1998;3442;0;0
+451;WJK: Totaal aanbieders WJK;1999;4002;0;0
+452;WJK: Totaal aanbieders WJK;2000;4477;0;0
+453;WJK: Totaal aanbieders WJK;2001;5055;0;5
+454;WJK: Totaal aanbieders WJK;2002;5214;0;10
+455;WJK: Totaal aanbieders WJK;2003;5513;2;20
+456;WJK: Totaal aanbieders WJK;2004;5463;3;30
+457;WJK: Totaal aanbieders WJK;2005;5592;7;50
+458;WJK: Totaal aanbieders WJK;2006;5827;89;222
+459;WJK: Totaal aanbieders WJK;2007;6618;92;231
+460;WJK: Totaal aanbieders WJK;2008;7533;108;290
+461;WJK: Totaal aanbieders WJK;2009;8417;120;302
+462;WJK: Totaal aanbieders WJK;2010;8705;130;346
+463;WJK: Totaal aanbieders WJK;2011;8670;134;391
+464;WJK: Totaal aanbieders WJK;2012;8552;179;489
+465;WJK: Totaal aanbieders WJK;2013;8162;181;488
+466;WJK: Totaal aanbieders WJK;2014;7866;174;496
+467;WJK: Totaal aanbieders WJK;2015;8276;216;133
+468;WJK: Totaal aanbieders WJK;2016;8920;218;112
+469;WJK: Totaal aanbieders WJK;2017;9147;219;121
+470;WJK: Totaal aanbieders WJK;2018;9692;227;129
+471;WJK: Totaal aanbieders WJK;2019;10385;209;150
+472;WJK: Totaal aanbieders WJK;2020;11146;227;162
+473;WJK: Totaal aanbieders WJK;2021;12003;251;320
+474;WJK: Totaal aanbieders WJK;2022;13638;267;357
+475;WJK: Aanbieders kinderopvang;1998;754;0;0
+476;WJK: Aanbieders kinderopvang;1999;885;0;0
+477;WJK: Aanbieders kinderopvang;2000;1089;0;0
+478;WJK: Aanbieders kinderopvang;2001;1249;0;0
+479;WJK: Aanbieders kinderopvang;2002;1440;0;0
+480;WJK: Aanbieders kinderopvang;2003;1656;0;0
+481;WJK: Aanbieders kinderopvang;2004;1931;0;0
+482;WJK: Aanbieders kinderopvang;2005;2074;0;0
+483;WJK: Aanbieders kinderopvang;2006;2351;0;0
+484;WJK: Aanbieders kinderopvang;2007;2908;0;0
+485;WJK: Aanbieders kinderopvang;2008;3625;0;0
+486;WJK: Aanbieders kinderopvang;2009;3946;0;0
+487;WJK: Aanbieders kinderopvang;2010;4031;0;0
+488;WJK: Aanbieders kinderopvang;2011;4142;0;0
+489;WJK: Aanbieders kinderopvang;2012;3994;0;0
+490;WJK: Aanbieders kinderopvang;2013;3614;0;0
+491;WJK: Aanbieders kinderopvang;2014;3220;0;0
+492;WJK: Aanbieders kinderopvang;2015;3137;0;0
+493;WJK: Aanbieders kinderopvang;2016;3535;0;0
+494;WJK: Aanbieders kinderopvang;2017;3857;0;0
+495;WJK: Aanbieders kinderopvang;2018;4319;0;0
+496;WJK: Aanbieders kinderopvang;2019;4902;0;0
+497;WJK: Aanbieders kinderopvang;2020;5324;0;0
+498;WJK: Aanbieders kinderopvang;2021;5735;0;0
+499;WJK: Aanbieders kinderopvang;2022;6185;0;0
+500;WJK: Aanbieders jeugdzorg;1998;824;0;0
+501;WJK: Aanbieders jeugdzorg;1999;949;0;0
+502;WJK: Aanbieders jeugdzorg;2000;1063;0;0
+503;WJK: Aanbieders jeugdzorg;2001;1203;0;0
+504;WJK: Aanbieders jeugdzorg;2002;1159;0;0
+505;WJK: Aanbieders jeugdzorg;2003;1178;0;0
+506;WJK: Aanbieders jeugdzorg;2004;1170;0;0
+507;WJK: Aanbieders jeugdzorg;2005;1180;0;0
+508;WJK: Aanbieders jeugdzorg;2006;1244;20;24
+509;WJK: Aanbieders jeugdzorg;2007;1368;25;30
+510;WJK: Aanbieders jeugdzorg;2008;1432;35;45
+511;WJK: Aanbieders jeugdzorg;2009;1807;39;49
+512;WJK: Aanbieders jeugdzorg;2010;1922;44;55
+513;WJK: Aanbieders jeugdzorg;2011;1904;53;68
+514;WJK: Aanbieders jeugdzorg;2012;2009;90;124
+515;WJK: Aanbieders jeugdzorg;2013;2010;93;123
+516;WJK: Aanbieders jeugdzorg;2014;2009;87;121
+517;WJK: Aanbieders jeugdzorg;2015;2164;107;49
+518;WJK: Aanbieders jeugdzorg;2016;2107;98;32
+519;WJK: Aanbieders jeugdzorg;2017;2202;101;37
+520;WJK: Aanbieders jeugdzorg;2018;2295;107;39
+521;WJK: Aanbieders jeugdzorg;2019;2278;74;48
+522;WJK: Aanbieders jeugdzorg;2020;2468;79;57
+523;WJK: Aanbieders jeugdzorg;2021;2571;87;67
+524;WJK: Aanbieders jeugdzorg;2022;2665;93;71
+525;WJK: Aanbieders maatschappelijke opvang;1998;1019;0;0
+526;WJK: Aanbieders maatschappelijke opvang;1999;1251;0;0
+527;WJK: Aanbieders maatschappelijke opvang;2000;1364;0;0
+528;WJK: Aanbieders maatschappelijke opvang;2001;1549;0;5
+529;WJK: Aanbieders maatschappelijke opvang;2002;1515;0;10
+530;WJK: Aanbieders maatschappelijke opvang;2003;1422;2;20
+531;WJK: Aanbieders maatschappelijke opvang;2004;1176;3;30
+532;WJK: Aanbieders maatschappelijke opvang;2005;1113;7;50
+533;WJK: Aanbieders maatschappelijke opvang;2006;1017;69;198
+534;WJK: Aanbieders maatschappelijke opvang;2007;1033;67;201
+535;WJK: Aanbieders maatschappelijke opvang;2008;1090;72;245
+536;WJK: Aanbieders maatschappelijke opvang;2009;1183;81;253
+537;WJK: Aanbieders maatschappelijke opvang;2010;1205;86;291
+538;WJK: Aanbieders maatschappelijke opvang;2011;1165;81;323
+539;WJK: Aanbieders maatschappelijke opvang;2012;1197;89;365
+540;WJK: Aanbieders maatschappelijke opvang;2013;1218;88;365
+541;WJK: Aanbieders maatschappelijke opvang;2014;1346;87;375
+542;WJK: Aanbieders maatschappelijke opvang;2015;1678;109;84
+543;WJK: Aanbieders maatschappelijke opvang;2016;1985;120;80
+544;WJK: Aanbieders maatschappelijke opvang;2017;1727;118;85
+545;WJK: Aanbieders maatschappelijke opvang;2018;1645;119;89
+546;WJK: Aanbieders maatschappelijke opvang;2019;1709;135;102
+547;WJK: Aanbieders maatschappelijke opvang;2020;1902;147;105
+548;WJK: Aanbieders maatschappelijke opvang;2021;2108;164;254
+549;WJK: Aanbieders maatschappelijke opvang;2022;3178;174;286
+550;WJK: Aanbieders sociaal werk;1998;845;0;0
+551;WJK: Aanbieders sociaal werk;1999;917;0;0
+552;WJK: Aanbieders sociaal werk;2000;961;0;0
+553;WJK: Aanbieders sociaal werk;2001;1055;0;0
+554;WJK: Aanbieders sociaal werk;2002;1100;0;0
+555;WJK: Aanbieders sociaal werk;2003;1257;0;0
+556;WJK: Aanbieders sociaal werk;2004;1186;0;0
+557;WJK: Aanbieders sociaal werk;2005;1225;0;0
+558;WJK: Aanbieders sociaal werk;2006;1216;0;0
+559;WJK: Aanbieders sociaal werk;2007;1309;0;0
+560;WJK: Aanbieders sociaal werk;2008;1386;0;0
+561;WJK: Aanbieders sociaal werk;2009;1481;0;0
+562;WJK: Aanbieders sociaal werk;2010;1547;0;0
+563;WJK: Aanbieders sociaal werk;2011;1459;0;0
+564;WJK: Aanbieders sociaal werk;2012;1352;0;0
+565;WJK: Aanbieders sociaal werk;2013;1320;0;0
+566;WJK: Aanbieders sociaal werk;2014;1291;0;0
+567;WJK: Aanbieders sociaal werk;2015;1296;0;0
+568;WJK: Aanbieders sociaal werk;2016;1292;0;0
+569;WJK: Aanbieders sociaal werk;2017;1361;0;0
+570;WJK: Aanbieders sociaal werk;2018;1432;0;0
+571;WJK: Aanbieders sociaal werk;2019;1495;0;0
+572;WJK: Aanbieders sociaal werk;2020;1451;0;0
+573;WJK: Aanbieders sociaal werk;2021;1589;0;0
+574;WJK: Aanbieders sociaal werk;2022;1610;0;0
+575;Beleids- en beheerorganisaties;1998;2063;1671;573
+576;Beleids- en beheerorganisaties;1999;2197;1775;595
+577;Beleids- en beheerorganisaties;2000;2301;1861;624
+578;Beleids- en beheerorganisaties;2001;2487;2019;678
+579;Beleids- en beheerorganisaties;2002;2703;2148;667
+580;Beleids- en beheerorganisaties;2003;2793;2216;696
+581;Beleids- en beheerorganisaties;2004;2840;2300;704
+582;Beleids- en beheerorganisaties;2005;3261;2662;756
+583;Beleids- en beheerorganisaties;2006;3516;2901;1531
+584;Beleids- en beheerorganisaties;2007;3691;3048;1390
+585;Beleids- en beheerorganisaties;2008;3579;2957;1278
+586;Beleids- en beheerorganisaties;2009;3668;2971;1186
+587;Beleids- en beheerorganisaties;2010;3683;2964;1197
+588;Beleids- en beheerorganisaties;2011;3862;3114;1309
+589;Beleids- en beheerorganisaties;2012;3761;3067;1327
+590;Beleids- en beheerorganisaties;2013;3836;3137;1393
+591;Beleids- en beheerorganisaties;2014;3945;3264;1476
+592;Beleids- en beheerorganisaties;2015;3929;3246;1465
+593;Beleids- en beheerorganisaties;2016;3902;3187;1400
+594;Beleids- en beheerorganisaties;2017;3894;3179;1422
+595;Beleids- en beheerorganisaties;2018;4005;3247;1405
+596;Beleids- en beheerorganisaties;2019;4240;3406;1451
+597;Beleids- en beheerorganisaties;2020;4700;3828;1432
+598;Beleids- en beheerorganisaties;2021;4853;3942;1442
+599;Beleids- en beheerorganisaties;2022;4911;3976;1515
