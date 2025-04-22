@@ -1,0 +1,85 @@
+﻿ID;Vakgebieden;Perioden;Prijsindexcijfers_1;Kwartaalmutatie_2;Jaarmutatie_3;Wegingsfactoren_4
+0;Notariaat totaal;2003 4e kwartaal;   100;      ;      ;100
+1;Notariaat totaal;2004 1e kwartaal;  98,7;  -1,3;      ;100
+2;Notariaat totaal;2004 2e kwartaal;  98,9;   0,2;      ;100
+3;Notariaat totaal;2004 3e kwartaal;  98,6;  -0,3;      ;100
+4;Notariaat totaal;2004 4e kwartaal;  98,6;   0,0;  -1,4;100
+5;Notariaat totaal;2004 jaargemiddelde;  98,7;      ;      ;100
+6;Notariaat totaal;2005 1e kwartaal;  98,1;  -0,5;  -0,6;100
+7;Notariaat totaal;2005 2e kwartaal;  98,0;  -0,1;  -0,9;100
+8;Notariaat totaal;2005 3e kwartaal;  97,3;  -0,7;  -1,3;100
+9;Notariaat totaal;2005 4e kwartaal;  97,5;   0,2;  -1,1;100
+10;Notariaat totaal;2005 jaargemiddelde;  97,7;      ;  -1,0;100
+11;Notariaat totaal;2006 1e kwartaal;  98,8;   1,3;   0,7;100
+12;Notariaat totaal;2006 2e kwartaal;  98,2;  -0,6;   0,2;100
+13;Notariaat totaal;2006 3e kwartaal;  98,2;   0,0;   0,9;100
+14;Notariaat totaal;2006 4e kwartaal;  97,3;  -0,9;  -0,2;100
+15;Notariaat totaal;2006 jaargemiddelde;  98,1;      ;   0,4;100
+16;Notariaat totaal;2007 1e kwartaal;  98,9;   1,6;   0,1;100
+17;Notariaat totaal;2007 2e kwartaal;  97,8;  -1,1;  -0,4;100
+18;Notariaat totaal;2007 3e kwartaal;  98,1;   0,3;  -0,1;100
+19;Notariaat totaal;2007 4e kwartaal;  96,3;  -1,8;  -1,0;100
+20;Notariaat totaal;2007 jaargemiddelde;  97,8;      ;  -0,3;100
+21;Familiepraktijk;2003 4e kwartaal;   100;      ;      ;17
+22;Familiepraktijk;2004 1e kwartaal;   102;     2;      ;17
+23;Familiepraktijk;2004 2e kwartaal;   103;     1;      ;17
+24;Familiepraktijk;2004 3e kwartaal;   103;     0;      ;17
+25;Familiepraktijk;2004 4e kwartaal;   103;     0;     3;17
+26;Familiepraktijk;2004 jaargemiddelde;  103 ;      ;      ;17
+27;Familiepraktijk;2005 1e kwartaal;   107;     4;     5;17
+28;Familiepraktijk;2005 2e kwartaal;   107;     0;     4;17
+29;Familiepraktijk;2005 3e kwartaal;   107;     0;     4;17
+30;Familiepraktijk;2005 4e kwartaal;   108;     1;     5;17
+31;Familiepraktijk;2005 jaargemiddelde;   107;      ;     4;17
+32;Familiepraktijk;2006 1e kwartaal;   110;     2;     3;17
+33;Familiepraktijk;2006 2e kwartaal;   112;     2;     5;17
+34;Familiepraktijk;2006 3e kwartaal;   112;     0;     5;17
+35;Familiepraktijk;2006 4e kwartaal;   112;     0;     4;17
+36;Familiepraktijk;2006 jaargemiddelde;   112;      ;     5;17
+37;Familiepraktijk;2007 1e kwartaal;   115;     3;     5;17
+38;Familiepraktijk;2007 2e kwartaal;   113;    -2;     1;17
+39;Familiepraktijk;2007 3e kwartaal;   115;     2;     3;17
+40;Familiepraktijk;2007 4e kwartaal;   115;     0;     3;17
+41;Familiepraktijk;2007 jaargemiddelde;   115;      ;     3;17
+42;Onroerend goed;2003 4e kwartaal;   100;      ;      ;67
+43;Onroerend goed;2004 1e kwartaal;    98;    -2;      ;67
+44;Onroerend goed;2004 2e kwartaal;    98;     0;      ;67
+45;Onroerend goed;2004 3e kwartaal;    97;    -1;      ;67
+46;Onroerend goed;2004 4e kwartaal;    97;     0;    -3;67
+47;Onroerend goed;2004 jaargemiddelde;    98;      ;      ;67
+48;Onroerend goed;2005 1e kwartaal;    95;    -2;    -3;67
+49;Onroerend goed;2005 2e kwartaal;    94;    -1;    -4;67
+50;Onroerend goed;2005 3e kwartaal;    93;    -1;    -4;67
+51;Onroerend goed;2005 4e kwartaal;    94;     1;    -3;67
+52;Onroerend goed;2005 jaargemiddelde;    94;      ;    -4;67
+53;Onroerend goed;2006 1e kwartaal;    94;     0;    -1;67
+54;Onroerend goed;2006 2e kwartaal;    92;    -2;    -2;67
+55;Onroerend goed;2006 3e kwartaal;    92;     0;    -1;67
+56;Onroerend goed;2006 4e kwartaal;    91;    -1;    -3;67
+57;Onroerend goed;2006 jaargemiddelde;    92;      ;    -2;67
+58;Onroerend goed;2007 1e kwartaal;    92;     1;    -2;67
+59;Onroerend goed;2007 2e kwartaal;    91;    -1;    -1;67
+60;Onroerend goed;2007 3e kwartaal;    90;    -1;    -2;67
+61;Onroerend goed;2007 4e kwartaal;    88;    -2;    -3;67
+62;Onroerend goed;2007 jaargemiddelde;    90;      ;    -2;67
+63;Ondernemingspraktijk;2003 4e kwartaal;   100;      ;      ;16
+64;Ondernemingspraktijk;2004 1e kwartaal;    99;    -1;      ;16
+65;Ondernemingspraktijk;2004 2e kwartaal;   101;     2;      ;16
+66;Ondernemingspraktijk;2004 3e kwartaal;   100;    -1;      ;16
+67;Ondernemingspraktijk;2004 4e kwartaal;   102;     2;     2;16
+68;Ondernemingspraktijk;2004 jaargemiddelde;   101;      ;      ;16
+69;Ondernemingspraktijk;2005 1e kwartaal;   103;     1;     4;16
+70;Ondernemingspraktijk;2005 2e kwartaal;   103;     0;     2;16
+71;Ondernemingspraktijk;2005 3e kwartaal;   103;     0;     3;16
+72;Ondernemingspraktijk;2005 4e kwartaal;   102;    -1;     0;16
+73;Ondernemingspraktijk;2005 jaargemiddelde;   103;      ;     2;16
+74;Ondernemingspraktijk;2006 1e kwartaal;   107;     5;     4;16
+75;Ondernemingspraktijk;2006 2e kwartaal;   108;     1;     5;16
+76;Ondernemingspraktijk;2006 3e kwartaal;   109;     1;     6;16
+77;Ondernemingspraktijk;2006 4e kwartaal;   108;    -1;     6;16
+78;Ondernemingspraktijk;2006 jaargemiddelde;   108;      ;     5;16
+79;Ondernemingspraktijk;2007 1e kwartaal;   111;     3;     4;16
+80;Ondernemingspraktijk;2007 2e kwartaal;   111;     0;     3;16
+81;Ondernemingspraktijk;2007 3e kwartaal;   113;     2;     4;16
+82;Ondernemingspraktijk;2007 4e kwartaal;   112;    -1;     4;16
+83;Ondernemingspraktijk;2007 jaargemiddelde;   112;      ;     4;16

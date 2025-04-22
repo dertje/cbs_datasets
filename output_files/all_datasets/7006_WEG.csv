@@ -1,0 +1,1105 @@
+﻿ID;VoertuigEnBestemming;Perioden;Prijsindexcijfers_1;Kwartaalmutatie_2;Jaarmutatie_3;Wegingscoefficienten_4
+0;Totaal voertuigtypen;1994 1e kwartaal;100.0;;;10000
+1;Totaal voertuigtypen;1994 2e kwartaal;100.0;0.0;;10000
+2;Totaal voertuigtypen;1994 3e kwartaal;100.0;0.0;;10000
+3;Totaal voertuigtypen;1994 4e kwartaal;100.0;0.0;;10000
+4;Totaal voertuigtypen;1994;100.0;;;10000
+5;Totaal voertuigtypen;1995 1e kwartaal;100.3;0.3;0.3;10000
+6;Totaal voertuigtypen;1995 2e kwartaal;100.3;0.0;0.3;10000
+7;Totaal voertuigtypen;1995 3e kwartaal;100.4;0.1;0.4;10000
+8;Totaal voertuigtypen;1995 4e kwartaal;100.4;0.0;0.4;10000
+9;Totaal voertuigtypen;1995;100.3;;0.3;10000
+10;Totaal voertuigtypen;1996 1e kwartaal;101.5;1.1;1.2;10000
+11;Totaal voertuigtypen;1996 2e kwartaal;101.8;0.3;1.5;10000
+12;Totaal voertuigtypen;1996 3e kwartaal;101.6;-0.2;1.2;10000
+13;Totaal voertuigtypen;1996 4e kwartaal;101.6;0.0;1.2;10000
+14;Totaal voertuigtypen;1996;101.6;;1.3;10000
+15;Totaal voertuigtypen;1997 1e kwartaal;102.8;1.2;1.3;10000
+16;Totaal voertuigtypen;1997 2e kwartaal;103.0;0.2;1.2;10000
+17;Totaal voertuigtypen;1997 3e kwartaal;103.1;0.1;1.5;10000
+18;Totaal voertuigtypen;1997 4e kwartaal;103.3;0.2;1.7;10000
+19;Totaal voertuigtypen;1997;103.0;;1.4;10000
+20;Totaal voertuigtypen;1998 1e kwartaal;104.5;1.2;1.7;10000
+21;Totaal voertuigtypen;1998 2e kwartaal;104.8;0.3;1.7;10000
+22;Totaal voertuigtypen;1998 3e kwartaal;104.9;0.1;1.7;10000
+23;Totaal voertuigtypen;1998 4e kwartaal;104.9;0.0;1.5;10000
+24;Totaal voertuigtypen;1998;104.8;;1.7;10000
+25;Totaal voertuigtypen;1999 1e kwartaal;105.8;0.9;1.2;10000
+26;Totaal voertuigtypen;1999 2e kwartaal;105.8;0.0;1.0;10000
+27;Totaal voertuigtypen;1999 3e kwartaal;105.9;0.1;1.0;10000
+28;Totaal voertuigtypen;1999 4e kwartaal;106.3;0.4;1.3;10000
+29;Totaal voertuigtypen;1999;105.9;;1.0;10000
+30;Totaal voertuigtypen;2000 1e kwartaal;108.6;2.2;2.6;10000
+31;Totaal voertuigtypen;2000 2e kwartaal;109.0;0.4;3.0;10000
+32;Totaal voertuigtypen;2000 3e kwartaal;109.8;0.7;3.7;10000
+33;Totaal voertuigtypen;2000 4e kwartaal;111.1;1.2;4.5;10000
+34;Totaal voertuigtypen;2000;109.6;;3.5;10000
+35;Totaal voertuigtypen;2001 1e kwartaal;113.7;2.3;4.7;10000
+36;Totaal voertuigtypen;2001 2e kwartaal;114.1;0.4;4.7;10000
+37;Totaal voertuigtypen;2001 3e kwartaal;114.0;-0.1;3.8;10000
+38;Totaal voertuigtypen;2001 4e kwartaal;114.3;0.3;2.9;10000
+39;Totaal voertuigtypen;2001;114.0;;4.0;10000
+40;Totaal voertuigtypen;2002 1e kwartaal;116.2;1.7;2.2;10000
+41;Totaal voertuigtypen;2002 2e kwartaal;116.7;0.4;2.3;10000
+42;Totaal voertuigtypen;2002 3e kwartaal;117.0;0.3;2.6;10000
+43;Totaal voertuigtypen;2002 4e kwartaal;117.3;0.3;2.6;10000
+44;Totaal voertuigtypen;2002;116.8;;2.5;10000
+45;Totaal voertuigtypen;2003 1e kwartaal;119.0;1.4;2.4;10000
+46;Totaal, containervervoer;1994 1e kwartaal;100.0;;;838
+47;Totaal, containervervoer;1994 2e kwartaal;100.4;0.4;;838
+48;Totaal, containervervoer;1994 3e kwartaal;99.6;-0.8;;838
+49;Totaal, containervervoer;1994 4e kwartaal;99.7;0.1;;838
+50;Totaal, containervervoer;1994;99.9;;;838
+51;Totaal, containervervoer;1995 1e kwartaal;99.9;0.2;-0.1;838
+52;Totaal, containervervoer;1995 2e kwartaal;100.0;0.1;-0.4;838
+53;Totaal, containervervoer;1995 3e kwartaal;100.1;0.1;0.5;838
+54;Totaal, containervervoer;1995 4e kwartaal;100.2;0.1;0.5;838
+55;Totaal, containervervoer;1995;100.0;;0.1;838
+56;Totaal, containervervoer;1996 1e kwartaal;101.6;1.4;1.7;838
+57;Totaal, containervervoer;1996 2e kwartaal;102.0;0.4;2.0;838
+58;Totaal, containervervoer;1996 3e kwartaal;102.0;0.0;1.9;838
+59;Totaal, containervervoer;1996 4e kwartaal;100.8;-1.2;0.6;838
+60;Totaal, containervervoer;1996;101.6;;1.6;838
+61;Totaal, containervervoer;1997 1e kwartaal;101.4;0.6;-0.2;838
+62;Totaal, containervervoer;1997 2e kwartaal;100.8;-0.6;-1.2;838
+63;Totaal, containervervoer;1997 3e kwartaal;100.2;-0.6;-1.8;838
+64;Totaal, containervervoer;1997 4e kwartaal;100.2;0.0;-0.6;838
+65;Totaal, containervervoer;1997;100.7;;-0.9;838
+66;Totaal, containervervoer;1998 1e kwartaal;101.1;0.9;-0.3;838
+67;Totaal, containervervoer;1998 2e kwartaal;100.9;-0.2;0.1;838
+68;Totaal, containervervoer;1998 3e kwartaal;101.8;0.9;1.6;838
+69;Totaal, containervervoer;1998 4e kwartaal;101.8;0.0;1.6;838
+70;Totaal, containervervoer;1998;101.4;;0.7;838
+71;Totaal, containervervoer;1999 1e kwartaal;102.9;1.1;1.8;838
+72;Totaal, containervervoer;1999 2e kwartaal;103.3;0.4;2.4;838
+73;Totaal, containervervoer;1999 3e kwartaal;103.3;0.0;1.5;838
+74;Totaal, containervervoer;1999 4e kwartaal;103.2;-0.1;1.4;838
+75;Totaal, containervervoer;1999;103.2;;1.8;838
+76;Totaal, containervervoer;2000 1e kwartaal;108.0;4.7;5.0;838
+77;Totaal, containervervoer;2000 2e kwartaal;108.6;0.6;5.1;838
+78;Totaal, containervervoer;2000 3e kwartaal;108.7;0.1;5.2;838
+79;Totaal, containervervoer;2000 4e kwartaal;109.4;0.6;6.0;838
+80;Totaal, containervervoer;2000;108.7;;5.3;838
+81;Totaal, containervervoer;2001 1e kwartaal;111.7;2.1;3.4;838
+82;Totaal, containervervoer;2001 2e kwartaal;111.6;-0.1;2.8;838
+83;Totaal, containervervoer;2001 3e kwartaal;111.5;-0.1;2.6;838
+84;Totaal, containervervoer;2001 4e kwartaal;111.6;0.1;2.0;838
+85;Totaal, containervervoer;2001;111.6;;2.7;838
+86;Totaal, containervervoer;2002 1e kwartaal;112.3;0.6;0.5;838
+87;Totaal, containervervoer;2002 2e kwartaal;112.2;-0.1;0.5;838
+88;Totaal, containervervoer;2002 3e kwartaal;112.3;0.1;0.7;838
+89;Totaal, containervervoer;2002 4e kwartaal;112.3;0.0;0.6;838
+90;Totaal, containervervoer;2002;112.3;;0.6;838
+91;Totaal, containervervoer;2003 1e kwartaal;112.7;0.4;0.4;838
+92;Totaal, verhuisvervoer;1994 1e kwartaal;100.0;;;218
+93;Totaal, verhuisvervoer;1994 2e kwartaal;101.5;1.5;;218
+94;Totaal, verhuisvervoer;1994 3e kwartaal;103.1;1.6;;218
+95;Totaal, verhuisvervoer;1994 4e kwartaal;100.3;-2.7;;218
+96;Totaal, verhuisvervoer;1994;101.2;;;218
+97;Totaal, verhuisvervoer;1995 1e kwartaal;100.2;-0.1;0.2;218
+98;Totaal, verhuisvervoer;1995 2e kwartaal;100.8;0.6;-0.7;218
+99;Totaal, verhuisvervoer;1995 3e kwartaal;102.9;2.1;-0.2;218
+100;Totaal, verhuisvervoer;1995 4e kwartaal;101.9;-1.0;1.6;218
+101;Totaal, verhuisvervoer;1995;101.4;;0.2;218
+102;Totaal, verhuisvervoer;1996 1e kwartaal;98.7;-3.1;-1.5;218
+103;Totaal, verhuisvervoer;1996 2e kwartaal;102.6;4.0;1.8;218
+104;Totaal, verhuisvervoer;1996 3e kwartaal;104.0;1.4;1.1;218
+105;Totaal, verhuisvervoer;1996 4e kwartaal;100.7;-3.2;-1.2;218
+106;Totaal, verhuisvervoer;1996;101.5;;0.1;218
+107;Totaal, verhuisvervoer;1997 1e kwartaal;102.7;2.0;4.1;218
+108;Totaal, verhuisvervoer;1997 2e kwartaal;107.6;4.8;4.9;218
+109;Totaal, verhuisvervoer;1997 3e kwartaal;108.4;0.7;4.2;218
+110;Totaal, verhuisvervoer;1997 4e kwartaal;104.6;-3.5;3.9;218
+111;Totaal, verhuisvervoer;1997;105.9;;4.3;218
+112;Totaal, verhuisvervoer;1998 1e kwartaal;106.8;2.1;4.0;218
+113;Totaal, verhuisvervoer;1998 2e kwartaal;114.5;7.2;6.4;218
+114;Totaal, verhuisvervoer;1998 3e kwartaal;115.7;1.0;6.7;218
+115;Totaal, verhuisvervoer;1998 4e kwartaal;113.1;-2.2;8.1;218
+116;Totaal, verhuisvervoer;1998;112.5;;6.2;218
+117;Totaal, verhuisvervoer;1999 1e kwartaal;115.5;2.1;8.1;218
+118;Totaal, verhuisvervoer;1999 2e kwartaal;117.3;1.6;2.4;218
+119;Totaal, verhuisvervoer;1999 3e kwartaal;118.1;0.7;2.1;218
+120;Totaal, verhuisvervoer;1999 4e kwartaal;116.9;-1.0;3.4;218
+121;Totaal, verhuisvervoer;1999;116.9;;3.9;218
+122;Totaal, verhuisvervoer;2000 1e kwartaal;116.1;-0.7;0.5;218
+123;Totaal, verhuisvervoer;2000 2e kwartaal;117.0;0.8;-0.3;218
+124;Totaal, verhuisvervoer;2000 3e kwartaal;123.0;5.1;4.1;218
+125;Totaal, verhuisvervoer;2000 4e kwartaal;125.0;1.6;6.9;218
+126;Totaal, verhuisvervoer;2000;120.3;;2.9;218
+127;Totaal, verhuisvervoer;2001 1e kwartaal;124.3;-0.6;7.1;218
+128;Totaal, verhuisvervoer;2001 2e kwartaal;128.3;3.2;9.7;218
+129;Totaal, verhuisvervoer;2001 3e kwartaal;126.5;-1.4;2.8;218
+130;Totaal, verhuisvervoer;2001 4e kwartaal;123.7;-2.2;-1.0;218
+131;Totaal, verhuisvervoer;2001;125.7;;4.5;218
+132;Totaal, verhuisvervoer;2002 1e kwartaal;121.0;-2.2;-2.7;218
+133;Totaal, verhuisvervoer;2002 2e kwartaal;122.1;0.9;-4.8;218
+134;Totaal, verhuisvervoer;2002 3e kwartaal;123.2;0.9;-2.6;218
+135;Totaal, verhuisvervoer;2002 4e kwartaal;120.9;-1.9;-2.3;218
+136;Totaal, verhuisvervoer;2002;121.8;;-3.1;218
+137;Totaal, verhuisvervoer;2003 1e kwartaal;121.8;0.7;0.7;218
+138;Totaal, open en gesloten vervoer;1994 1e kwartaal;100.0;;;4336
+139;Totaal, open en gesloten vervoer;1994 2e kwartaal;99.8;-0.2;;4336
+140;Totaal, open en gesloten vervoer;1994 3e kwartaal;99.9;0.1;;4336
+141;Totaal, open en gesloten vervoer;1994 4e kwartaal;100.0;0.1;;4336
+142;Totaal, open en gesloten vervoer;1994;99.9;;;4336
+143;Totaal, open en gesloten vervoer;1995 1e kwartaal;101.2;1.2;1.2;4336
+144;Totaal, open en gesloten vervoer;1995 2e kwartaal;101.3;0.1;1.5;4336
+145;Totaal, open en gesloten vervoer;1995 3e kwartaal;101.2;-0.1;1.3;4336
+146;Totaal, open en gesloten vervoer;1995 4e kwartaal;101.6;0.4;1.6;4336
+147;Totaal, open en gesloten vervoer;1995;101.3;;1.4;4336
+148;Totaal, open en gesloten vervoer;1996 1e kwartaal;102.9;1.3;1.7;4336
+149;Totaal, open en gesloten vervoer;1996 2e kwartaal;102.9;0.0;1.6;4336
+150;Totaal, open en gesloten vervoer;1996 3e kwartaal;102.7;-0.2;1.5;4336
+151;Totaal, open en gesloten vervoer;1996 4e kwartaal;102.8;0.1;1.2;4336
+152;Totaal, open en gesloten vervoer;1996;102.8;;1.5;4336
+153;Totaal, open en gesloten vervoer;1997 1e kwartaal;104.5;1.7;1.6;4336
+154;Totaal, open en gesloten vervoer;1997 2e kwartaal;104.8;0.3;1.8;4336
+155;Totaal, open en gesloten vervoer;1997 3e kwartaal;105.1;0.3;2.3;4336
+156;Totaal, open en gesloten vervoer;1997 4e kwartaal;105.6;0.5;2.7;4336
+157;Totaal, open en gesloten vervoer;1997;105.0;;2.1;4336
+158;Totaal, open en gesloten vervoer;1998 1e kwartaal;107.3;1.6;2.7;4336
+159;Totaal, open en gesloten vervoer;1998 2e kwartaal;107.2;-0.1;2.3;4336
+160;Totaal, open en gesloten vervoer;1998 3e kwartaal;107.3;0.1;2.1;4336
+161;Totaal, open en gesloten vervoer;1998 4e kwartaal;107.3;0.0;1.6;4336
+162;Totaal, open en gesloten vervoer;1998;107.3;;2.2;4336
+163;Totaal, open en gesloten vervoer;1999 1e kwartaal;108.2;0.8;0.8;4336
+164;Totaal, open en gesloten vervoer;1999 2e kwartaal;108.3;0.1;1.0;4336
+165;Totaal, open en gesloten vervoer;1999 3e kwartaal;108.4;0.1;1.0;4336
+166;Totaal, open en gesloten vervoer;1999 4e kwartaal;109.0;0.6;1.6;4336
+167;Totaal, open en gesloten vervoer;1999;108.5;;1.1;4336
+168;Totaal, open en gesloten vervoer;2000 1e kwartaal;110.8;1.7;2.4;4336
+169;Totaal, open en gesloten vervoer;2000 2e kwartaal;110.9;0.1;2.4;4336
+170;Totaal, open en gesloten vervoer;2000 3e kwartaal;111.6;0.6;3.0;4336
+171;Totaal, open en gesloten vervoer;2000 4e kwartaal;113.4;1.6;4.0;4336
+172;Totaal, open en gesloten vervoer;2000;111.7;;2.9;4336
+173;Totaal, open en gesloten vervoer;2001 1e kwartaal;117.8;3.9;6.3;4336
+174;Totaal, open en gesloten vervoer;2001 2e kwartaal;118.3;0.4;6.7;4336
+175;Totaal, open en gesloten vervoer;2001 3e kwartaal;118.2;-0.1;5.9;4336
+176;Totaal, open en gesloten vervoer;2001 4e kwartaal;118.0;-0.2;4.1;4336
+177;Totaal, open en gesloten vervoer;2001;118.1;;5.7;4336
+178;Totaal, open en gesloten vervoer;2002 1e kwartaal;121.2;2.7;2.9;4336
+179;Totaal, open en gesloten vervoer;2002 2e kwartaal;121.2;0.0;2.5;4336
+180;Totaal, open en gesloten vervoer;2002 3e kwartaal;121.7;0.4;3.0;4336
+181;Totaal, open en gesloten vervoer;2002 4e kwartaal;122.0;0.2;3.4;4336
+182;Totaal, open en gesloten vervoer;2002;121.5;;2.9;4336
+183;Totaal, open en gesloten vervoer;2003 1e kwartaal;124.3;1.9;2.6;4336
+184;Totaal, koel- vriesvervoer;1994 1e kwartaal;100.0;;;1184
+185;Totaal, koel- vriesvervoer;1994 2e kwartaal;99.8;-0.2;;1184
+186;Totaal, koel- vriesvervoer;1994 3e kwartaal;99.9;0.1;;1184
+187;Totaal, koel- vriesvervoer;1994 4e kwartaal;100.2;0.3;;1184
+188;Totaal, koel- vriesvervoer;1994;100.0;;;1184
+189;Totaal, koel- vriesvervoer;1995 1e kwartaal;99.6;-0.6;-0.4;1184
+190;Totaal, koel- vriesvervoer;1995 2e kwartaal;99.6;0.0;-0.2;1184
+191;Totaal, koel- vriesvervoer;1995 3e kwartaal;99.3;-0.3;-0.6;1184
+192;Totaal, koel- vriesvervoer;1995 4e kwartaal;99.4;0.1;-0.8;1184
+193;Totaal, koel- vriesvervoer;1995;99.5;;-0.5;1184
+194;Totaal, koel- vriesvervoer;1996 1e kwartaal;100.1;0.7;0.5;1184
+195;Totaal, koel- vriesvervoer;1996 2e kwartaal;100.2;0.1;0.6;1184
+196;Totaal, koel- vriesvervoer;1996 3e kwartaal;100.2;0.0;0.9;1184
+197;Totaal, koel- vriesvervoer;1996 4e kwartaal;99.9;-0.3;0.5;1184
+198;Totaal, koel- vriesvervoer;1996;100.1;;0.6;1184
+199;Totaal, koel- vriesvervoer;1997 1e kwartaal;100.5;0.6;0.4;1184
+200;Totaal, koel- vriesvervoer;1997 2e kwartaal;100.6;0.1;0.4;1184
+201;Totaal, koel- vriesvervoer;1997 3e kwartaal;101.2;0.6;1.0;1184
+202;Totaal, koel- vriesvervoer;1997 4e kwartaal;101.3;0.1;1.4;1184
+203;Totaal, koel- vriesvervoer;1997;100.9;;0.8;1184
+204;Totaal, koel- vriesvervoer;1998 1e kwartaal;101.7;0.4;1.2;1184
+205;Totaal, koel- vriesvervoer;1998 2e kwartaal;101.8;0.1;1.2;1184
+206;Totaal, koel- vriesvervoer;1998 3e kwartaal;102.0;0.2;0.8;1184
+207;Totaal, koel- vriesvervoer;1998 4e kwartaal;102.2;0.2;0.9;1184
+208;Totaal, koel- vriesvervoer;1998;101.9;;1.0;1184
+209;Totaal, koel- vriesvervoer;1999 1e kwartaal;102.6;0.4;0.9;1184
+210;Totaal, koel- vriesvervoer;1999 2e kwartaal;102.7;0.1;0.9;1184
+211;Totaal, koel- vriesvervoer;1999 3e kwartaal;103.4;0.7;1.4;1184
+212;Totaal, koel- vriesvervoer;1999 4e kwartaal;103.4;0.0;1.2;1184
+213;Totaal, koel- vriesvervoer;1999;103.0;;1.1;1184
+214;Totaal, koel- vriesvervoer;2000 1e kwartaal;105.4;1.9;2.7;1184
+215;Totaal, koel- vriesvervoer;2000 2e kwartaal;106.0;0.6;3.2;1184
+216;Totaal, koel- vriesvervoer;2000 3e kwartaal;107.0;0.9;3.5;1184
+217;Totaal, koel- vriesvervoer;2000 4e kwartaal;107.4;0.4;3.9;1184
+218;Totaal, koel- vriesvervoer;2000;106.5;;3.4;1184
+219;Totaal, koel- vriesvervoer;2001 1e kwartaal;109.6;2.0;4.0;1184
+220;Totaal, koel- vriesvervoer;2001 2e kwartaal;109.6;0.0;3.4;1184
+221;Totaal, koel- vriesvervoer;2001 3e kwartaal;109.8;0.2;2.6;1184
+222;Totaal, koel- vriesvervoer;2001 4e kwartaal;110.0;0.2;2.4;1184
+223;Totaal, koel- vriesvervoer;2001;109.8;;3.1;1184
+224;Totaal, koel- vriesvervoer;2002 1e kwartaal;112.1;1.9;2.3;1184
+225;Totaal, koel- vriesvervoer;2002 2e kwartaal;112.2;0.1;2.4;1184
+226;Totaal, koel- vriesvervoer;2002 3e kwartaal;112.0;-0.2;2.0;1184
+227;Totaal, koel- vriesvervoer;2002 4e kwartaal;112.0;0.0;1.8;1184
+228;Totaal, koel- vriesvervoer;2002;112.1;;2.1;1184
+229;Totaal, koel- vriesvervoer;2003 1e kwartaal;112.9;0.8;0.7;1184
+230;Totaal, tankvervoer;1994 1e kwartaal;100.0;;;838
+231;Totaal, tankvervoer;1994 2e kwartaal;100.1;0.1;;838
+232;Totaal, tankvervoer;1994 3e kwartaal;100.3;0.2;;838
+233;Totaal, tankvervoer;1994 4e kwartaal;100.1;-0.2;;838
+234;Totaal, tankvervoer;1994;100.1;;;838
+235;Totaal, tankvervoer;1995 1e kwartaal;100.0;-0.1;0.0;838
+236;Totaal, tankvervoer;1995 2e kwartaal;100.2;0.2;0.1;838
+237;Totaal, tankvervoer;1995 3e kwartaal;99.7;-0.5;-0.6;838
+238;Totaal, tankvervoer;1995 4e kwartaal;99.5;-0.2;-0.6;838
+239;Totaal, tankvervoer;1995;99.9;;-0.2;838
+240;Totaal, tankvervoer;1996 1e kwartaal;99.5;0.0;-0.5;838
+241;Totaal, tankvervoer;1996 2e kwartaal;99.6;0.1;-0.6;838
+242;Totaal, tankvervoer;1996 3e kwartaal;99.5;-0.1;-0.2;838
+243;Totaal, tankvervoer;1996 4e kwartaal;99.6;0.1;0.1;838
+244;Totaal, tankvervoer;1996;99.6;;-0.3;838
+245;Totaal, tankvervoer;1997 1e kwartaal;99.9;0.3;0.4;838
+246;Totaal, tankvervoer;1997 2e kwartaal;100.2;0.3;0.6;838
+247;Totaal, tankvervoer;1997 3e kwartaal;100.2;0.0;0.7;838
+248;Totaal, tankvervoer;1997 4e kwartaal;99.9;-0.3;0.3;838
+249;Totaal, tankvervoer;1997;100.1;;0.5;838
+250;Totaal, tankvervoer;1998 1e kwartaal;101.2;1.3;1.3;838
+251;Totaal, tankvervoer;1998 2e kwartaal;101.0;-0.2;0.8;838
+252;Totaal, tankvervoer;1998 3e kwartaal;100.3;-0.7;0.1;838
+253;Totaal, tankvervoer;1998 4e kwartaal;100.5;0.2;0.6;838
+254;Totaal, tankvervoer;1998;100.7;;0.6;838
+255;Totaal, tankvervoer;1999 1e kwartaal;100.0;-0.5;-1.2;838
+256;Totaal, tankvervoer;1999 2e kwartaal;99.4;-0.6;-1.6;838
+257;Totaal, tankvervoer;1999 3e kwartaal;99.1;-0.3;-1.2;838
+258;Totaal, tankvervoer;1999 4e kwartaal;99.4;0.3;-1.1;838
+259;Totaal, tankvervoer;1999;99.5;;-1.2;838
+260;Totaal, tankvervoer;2000 1e kwartaal;102.1;2.7;2.1;838
+261;Totaal, tankvervoer;2000 2e kwartaal;102.8;0.7;3.4;838
+262;Totaal, tankvervoer;2000 3e kwartaal;102.9;0.1;3.8;838
+263;Totaal, tankvervoer;2000 4e kwartaal;103.9;1.0;4.5;838
+264;Totaal, tankvervoer;2000;102.9;;3.4;838
+265;Totaal, tankvervoer;2001 1e kwartaal;104.2;0.3;2.1;838
+266;Totaal, tankvervoer;2001 2e kwartaal;105.3;1.1;2.4;838
+267;Totaal, tankvervoer;2001 3e kwartaal;105.2;-0.1;2.2;838
+268;Totaal, tankvervoer;2001 4e kwartaal;106.0;0.8;2.0;838
+269;Totaal, tankvervoer;2001;105.2;;2.2;838
+270;Totaal, tankvervoer;2002 1e kwartaal;106.3;0.3;2.0;838
+271;Totaal, tankvervoer;2002 2e kwartaal;106.6;0.3;1.2;838
+272;Totaal, tankvervoer;2002 3e kwartaal;106.6;0.0;1.3;838
+273;Totaal, tankvervoer;2002 4e kwartaal;106.8;0.2;0.8;838
+274;Totaal, tankvervoer;2002;106.6;;1.3;838
+275;Totaal, tankvervoer;2003 1e kwartaal;108.3;1.4;1.9;838
+276;Totaal, kippervervoer;1994 1e kwartaal;100.0;;;351
+277;Totaal, kippervervoer;1994 2e kwartaal;100.2;0.2;;351
+278;Totaal, kippervervoer;1994 3e kwartaal;100.1;-0.1;;351
+279;Totaal, kippervervoer;1994 4e kwartaal;99.2;-0.9;;351
+280;Totaal, kippervervoer;1994;99.9;;;351
+281;Totaal, kippervervoer;1995 1e kwartaal;99.8;0.6;-0.2;351
+282;Totaal, kippervervoer;1995 2e kwartaal;100.0;0.2;-0.2;351
+283;Totaal, kippervervoer;1995 3e kwartaal;101.0;1.0;0.9;351
+284;Totaal, kippervervoer;1995 4e kwartaal;101.5;0.5;2.3;351
+285;Totaal, kippervervoer;1995;100.6;;0.7;351
+286;Totaal, kippervervoer;1996 1e kwartaal;101.9;0.4;2.1;351
+287;Totaal, kippervervoer;1996 2e kwartaal;102.1;0.2;2.1;351
+288;Totaal, kippervervoer;1996 3e kwartaal;101.8;-0.3;0.8;351
+289;Totaal, kippervervoer;1996 4e kwartaal;104.1;2.3;2.6;351
+290;Totaal, kippervervoer;1996;102.5;;1.9;351
+291;Totaal, kippervervoer;1997 1e kwartaal;103.4;-0.7;1.5;351
+292;Totaal, kippervervoer;1997 2e kwartaal;103.0;-0.4;0.9;351
+293;Totaal, kippervervoer;1997 3e kwartaal;102.8;-0.2;1.0;351
+294;Totaal, kippervervoer;1997 4e kwartaal;103.3;0.5;-0.8;351
+295;Totaal, kippervervoer;1997;103.1;;0.6;351
+296;Totaal, kippervervoer;1998 1e kwartaal;104.7;1.4;1.3;351
+297;Totaal, kippervervoer;1998 2e kwartaal;104.4;-0.3;1.4;351
+298;Totaal, kippervervoer;1998 3e kwartaal;104.9;0.5;2.0;351
+299;Totaal, kippervervoer;1998 4e kwartaal;105.1;0.2;1.7;351
+300;Totaal, kippervervoer;1998;104.8;;1.6;351
+301;Totaal, kippervervoer;1999 1e kwartaal;105.8;0.7;1.1;351
+302;Totaal, kippervervoer;1999 2e kwartaal;105.8;0.0;1.3;351
+303;Totaal, kippervervoer;1999 3e kwartaal;107.2;1.3;2.2;351
+304;Totaal, kippervervoer;1999 4e kwartaal;107.1;-0.1;1.9;351
+305;Totaal, kippervervoer;1999;106.5;;1.6;351
+306;Totaal, kippervervoer;2000 1e kwartaal;110.4;3.1;4.3;351
+307;Totaal, kippervervoer;2000 2e kwartaal;111.4;0.9;5.3;351
+308;Totaal, kippervervoer;2000 3e kwartaal;113.0;1.4;5.4;351
+309;Totaal, kippervervoer;2000 4e kwartaal;113.7;0.6;6.2;351
+310;Totaal, kippervervoer;2000;112.1;;5.3;351
+311;Totaal, kippervervoer;2001 1e kwartaal;118.4;4.1;7.2;351
+312;Totaal, kippervervoer;2001 2e kwartaal;119.6;1.0;7.4;351
+313;Totaal, kippervervoer;2001 3e kwartaal;119.3;-0.3;5.6;351
+314;Totaal, kippervervoer;2001 4e kwartaal;119.6;0.3;5.2;351
+315;Totaal, kippervervoer;2001;119.2;;6.3;351
+316;Totaal, kippervervoer;2002 1e kwartaal;122.1;2.1;3.1;351
+317;Totaal, kippervervoer;2002 2e kwartaal;125.9;3.1;5.3;351
+318;Totaal, kippervervoer;2002 3e kwartaal;125.9;0.0;5.5;351
+319;Totaal, kippervervoer;2002 4e kwartaal;125.5;-0.3;4.9;351
+320;Totaal, kippervervoer;2002;124.9;;4.8;351
+321;Totaal, kippervervoer;2003 1e kwartaal;124.4;-0.9;1.9;351
+322;Totaal, overig vervoer;1994 1e kwartaal;100.0;;;2235
+323;Totaal, overig vervoer;1994 2e kwartaal;99.9;-0.1;;2235
+324;Totaal, overig vervoer;1994 3e kwartaal;99.9;0.0;;2235
+325;Totaal, overig vervoer;1994 4e kwartaal;100.0;0.1;;2235
+326;Totaal, overig vervoer;1994;100.0;;;2235
+327;Totaal, overig vervoer;1995 1e kwartaal;99.3;-0.7;-0.7;2235
+328;Totaal, overig vervoer;1995 2e kwartaal;98.7;-0.6;-1.2;2235
+329;Totaal, overig vervoer;1995 3e kwartaal;99.6;0.9;-0.3;2235
+330;Totaal, overig vervoer;1995 4e kwartaal;98.9;-0.7;-1.1;2235
+331;Totaal, overig vervoer;1995;99.1;;-0.9;2235
+332;Totaal, overig vervoer;1996 1e kwartaal;100.4;1.5;1.1;2235
+333;Totaal, overig vervoer;1996 2e kwartaal;101.1;0.7;2.4;2235
+334;Totaal, overig vervoer;1996 3e kwartaal;100.7;-0.4;1.1;2235
+335;Totaal, overig vervoer;1996 4e kwartaal;100.9;0.2;2.0;2235
+336;Totaal, overig vervoer;1996;100.8;;1.7;2235
+337;Totaal, overig vervoer;1997 1e kwartaal;102.2;1.3;1.8;2235
+338;Totaal, overig vervoer;1997 2e kwartaal;102.1;-0.1;1.0;2235
+339;Totaal, overig vervoer;1997 3e kwartaal;102.0;-0.1;1.3;2235
+340;Totaal, overig vervoer;1997 4e kwartaal;102.2;0.2;1.3;2235
+341;Totaal, overig vervoer;1997;102.1;;1.3;2235
+342;Totaal, overig vervoer;1998 1e kwartaal;103.0;0.8;0.8;2235
+343;Totaal, overig vervoer;1998 2e kwartaal;103.6;0.6;1.5;2235
+344;Totaal, overig vervoer;1998 3e kwartaal;103.7;0.1;1.7;2235
+345;Totaal, overig vervoer;1998 4e kwartaal;103.9;0.2;1.7;2235
+346;Totaal, overig vervoer;1998;103.5;;1.4;2235
+347;Totaal, overig vervoer;1999 1e kwartaal;105.1;1.2;2.0;2235
+348;Totaal, overig vervoer;1999 2e kwartaal;105.1;0.0;1.4;2235
+349;Totaal, overig vervoer;1999 3e kwartaal;104.6;-0.5;0.9;2235
+350;Totaal, overig vervoer;1999 4e kwartaal;105.0;0.4;1.1;2235
+351;Totaal, overig vervoer;1999;104.9;;1.4;2235
+352;Totaal, overig vervoer;2000 1e kwartaal;107.4;2.3;2.2;2235
+353;Totaal, overig vervoer;2000 2e kwartaal;108.2;0.7;2.9;2235
+354;Totaal, overig vervoer;2000 3e kwartaal;109.0;0.7;4.2;2235
+355;Totaal, overig vervoer;2000 4e kwartaal;110.2;1.1;5.0;2235
+356;Totaal, overig vervoer;2000;108.7;;3.6;2235
+357;Totaal, overig vervoer;2001 1e kwartaal;110.5;0.3;2.9;2235
+358;Totaal, overig vervoer;2001 2e kwartaal;110.1;-0.4;1.8;2235
+359;Totaal, overig vervoer;2001 3e kwartaal;110.3;0.2;1.2;2235
+360;Totaal, overig vervoer;2001 4e kwartaal;111.6;1.2;1.3;2235
+361;Totaal, overig vervoer;2001;110.6;;1.7;2235
+362;Totaal, overig vervoer;2002 1e kwartaal;112.4;0.7;1.7;2235
+363;Totaal, overig vervoer;2002 2e kwartaal;113.9;1.3;3.5;2235
+364;Totaal, overig vervoer;2002 3e kwartaal;114.1;0.2;3.4;2235
+365;Totaal, overig vervoer;2002 4e kwartaal;114.9;0.7;3.0;2235
+366;Totaal, overig vervoer;2002;113.8;;2.9;2235
+367;Totaal, overig vervoer;2003 1e kwartaal;117.3;2.1;4.4;2235
+368;Nationaal totaal;1994 1e kwartaal;100.0;;;5272
+369;Nationaal totaal;1994 2e kwartaal;100.1;0.1;;5272
+370;Nationaal totaal;1994 3e kwartaal;100.2;0.1;;5272
+371;Nationaal totaal;1994 4e kwartaal;100.2;0.0;;5272
+372;Nationaal totaal;1994;100.1;;;5272
+373;Nationaal totaal;1995 1e kwartaal;101.2;1.0;1.2;5272
+374;Nationaal totaal;1995 2e kwartaal;101.1;-0.1;1.0;5272
+375;Nationaal totaal;1995 3e kwartaal;101.4;0.3;1.2;5272
+376;Nationaal totaal;1995 4e kwartaal;101.5;0.1;1.3;5272
+377;Nationaal totaal;1995;101.3;;1.2;5272
+378;Nationaal totaal;1996 1e kwartaal;102.2;0.7;1.0;5272
+379;Nationaal totaal;1996 2e kwartaal;102.7;0.5;1.6;5272
+380;Nationaal totaal;1996 3e kwartaal;102.8;0.1;1.4;5272
+381;Nationaal totaal;1996 4e kwartaal;102.6;-0.2;1.1;5272
+382;Nationaal totaal;1996;102.6;;1.3;5272
+383;Nationaal totaal;1997 1e kwartaal;104.3;1.7;2.1;5272
+384;Nationaal totaal;1997 2e kwartaal;104.5;0.2;1.8;5272
+385;Nationaal totaal;1997 3e kwartaal;104.7;0.2;1.8;5272
+386;Nationaal totaal;1997 4e kwartaal;104.9;0.2;2.2;5272
+387;Nationaal totaal;1997;104.6;;1.9;5272
+388;Nationaal totaal;1998 1e kwartaal;106.7;1.7;2.3;5272
+389;Nationaal totaal;1998 2e kwartaal;106.8;0.1;2.2;5272
+390;Nationaal totaal;1998 3e kwartaal;107.0;0.2;2.2;5272
+391;Nationaal totaal;1998 4e kwartaal;107.2;0.2;2.2;5272
+392;Nationaal totaal;1998;106.9;;2.2;5272
+393;Nationaal totaal;1999 1e kwartaal;108.2;0.9;1.4;5272
+394;Nationaal totaal;1999 2e kwartaal;108.4;0.2;1.5;5272
+395;Nationaal totaal;1999 3e kwartaal;108.7;0.3;1.6;5272
+396;Nationaal totaal;1999 4e kwartaal;108.9;0.2;1.6;5272
+397;Nationaal totaal;1999;108.6;;1.6;5272
+398;Nationaal totaal;2000 1e kwartaal;111.4;2.3;3.0;5272
+399;Nationaal totaal;2000 2e kwartaal;111.8;0.4;3.1;5272
+400;Nationaal totaal;2000 3e kwartaal;112.6;0.7;3.6;5272
+401;Nationaal totaal;2000 4e kwartaal;113.9;1.2;4.6;5272
+402;Nationaal totaal;2000;112.4;;3.5;5272
+403;Nationaal totaal;2001 1e kwartaal;117.8;3.4;5.7;5272
+404;Nationaal totaal;2001 2e kwartaal;118.1;0.3;5.6;5272
+405;Nationaal totaal;2001 3e kwartaal;118.1;0.0;4.9;5272
+406;Nationaal totaal;2001 4e kwartaal;118.1;0.0;3.7;5272
+407;Nationaal totaal;2001;118.0;;5.0;5272
+408;Nationaal totaal;2002 1e kwartaal;121.5;2.9;3.1;5272
+409;Nationaal totaal;2002 2e kwartaal;121.9;0.3;3.2;5272
+410;Nationaal totaal;2002 3e kwartaal;122.1;0.2;3.4;5272
+411;Nationaal totaal;2002 4e kwartaal;122.2;0.1;3.5;5272
+412;Nationaal totaal;2002;121.9;;3.3;5272
+413;Nationaal totaal;2003 1e kwartaal;124.1;1.6;2.1;5272
+414;Nationaal containervervoer;1994 1e kwartaal;100.0;;;666
+415;Nationaal containervervoer;1994 2e kwartaal;100.0;0.0;;666
+416;Nationaal containervervoer;1994 3e kwartaal;99.8;-0.2;;666
+417;Nationaal containervervoer;1994 4e kwartaal;99.9;0.1;;666
+418;Nationaal containervervoer;1994;99.9;;;666
+419;Nationaal containervervoer;1995 1e kwartaal;99.5;-0.4;-0.5;666
+420;Nationaal containervervoer;1995 2e kwartaal;99.6;0.1;-0.4;666
+421;Nationaal containervervoer;1995 3e kwartaal;99.7;0.1;-0.1;666
+422;Nationaal containervervoer;1995 4e kwartaal;99.7;0.0;-0.2;666
+423;Nationaal containervervoer;1995;99.6;;-0.3;666
+424;Nationaal containervervoer;1996 1e kwartaal;101.6;1.9;2.1;666
+425;Nationaal containervervoer;1996 2e kwartaal;101.7;0.1;2.1;666
+426;Nationaal containervervoer;1996 3e kwartaal;101.7;0.0;2.0;666
+427;Nationaal containervervoer;1996 4e kwartaal;100.4;-1.3;0.7;666
+428;Nationaal containervervoer;1996;101.4;;1.8;666
+429;Nationaal containervervoer;1997 1e kwartaal;100.9;0.5;-0.7;666
+430;Nationaal containervervoer;1997 2e kwartaal;100.6;-0.3;-1.1;666
+431;Nationaal containervervoer;1997 3e kwartaal;99.8;-0.8;-1.9;666
+432;Nationaal containervervoer;1997 4e kwartaal;99.6;-0.2;-0.8;666
+433;Nationaal containervervoer;1997;100.2;;-1.2;666
+434;Nationaal containervervoer;1998 1e kwartaal;100.7;1.1;-0.2;666
+435;Nationaal containervervoer;1998 2e kwartaal;100.8;0.1;0.2;666
+436;Nationaal containervervoer;1998 3e kwartaal;101.7;0.9;1.9;666
+437;Nationaal containervervoer;1998 4e kwartaal;101.7;0.0;2.1;666
+438;Nationaal containervervoer;1998;101.2;;1.0;666
+439;Nationaal containervervoer;1999 1e kwartaal;102.9;1.2;2.2;666
+440;Nationaal containervervoer;1999 2e kwartaal;103.4;0.5;2.6;666
+441;Nationaal containervervoer;1999 3e kwartaal;103.4;0.0;1.7;666
+442;Nationaal containervervoer;1999 4e kwartaal;103.3;-0.1;1.6;666
+443;Nationaal containervervoer;1999;103.3;;2.1;666
+444;Nationaal containervervoer;2000 1e kwartaal;108.4;4.9;5.3;666
+445;Nationaal containervervoer;2000 2e kwartaal;108.7;0.3;5.1;666
+446;Nationaal containervervoer;2000 3e kwartaal;108.8;0.1;5.2;666
+447;Nationaal containervervoer;2000 4e kwartaal;109.4;0.6;5.9;666
+448;Nationaal containervervoer;2000;108.8;;5.3;666
+449;Nationaal containervervoer;2001 1e kwartaal;111.8;2.2;3.1;666
+450;Nationaal containervervoer;2001 2e kwartaal;111.6;-0.2;2.7;666
+451;Nationaal containervervoer;2001 3e kwartaal;111.7;0.1;2.7;666
+452;Nationaal containervervoer;2001 4e kwartaal;111.8;0.1;2.2;666
+453;Nationaal containervervoer;2001;111.7;;2.7;666
+454;Nationaal containervervoer;2002 1e kwartaal;112.3;0.4;0.4;666
+455;Nationaal containervervoer;2002 2e kwartaal;112.3;0.0;0.6;666
+456;Nationaal containervervoer;2002 3e kwartaal;112.3;0.0;0.5;666
+457;Nationaal containervervoer;2002 4e kwartaal;112.3;0.0;0.4;666
+458;Nationaal containervervoer;2002;112.3;;0.5;666
+459;Nationaal containervervoer;2003 1e kwartaal;112.5;0.2;0.2;666
+460;Nationaal verhuisvervoer;1994 1e kwartaal;100.0;;;137
+461;Nationaal verhuisvervoer;1994 2e kwartaal;99.9;-0.1;;137
+462;Nationaal verhuisvervoer;1994 3e kwartaal;100.0;0.1;;137
+463;Nationaal verhuisvervoer;1994 4e kwartaal;99.9;-0.1;;137
+464;Nationaal verhuisvervoer;1994;100.0;;;137
+465;Nationaal verhuisvervoer;1995 1e kwartaal;99.1;-0.8;-0.9;137
+466;Nationaal verhuisvervoer;1995 2e kwartaal;98.7;-0.4;-1.2;137
+467;Nationaal verhuisvervoer;1995 3e kwartaal;101.0;2.3;1.0;137
+468;Nationaal verhuisvervoer;1995 4e kwartaal;100.6;-0.4;0.7;137
+469;Nationaal verhuisvervoer;1995;99.8;;-0.2;137
+470;Nationaal verhuisvervoer;1996 1e kwartaal;98.2;-2.4;-0.9;137
+471;Nationaal verhuisvervoer;1996 2e kwartaal;102.3;4.2;3.6;137
+472;Nationaal verhuisvervoer;1996 3e kwartaal;103.6;1.3;2.6;137
+473;Nationaal verhuisvervoer;1996 4e kwartaal;100.2;-3.3;-0.4;137
+474;Nationaal verhuisvervoer;1996;101.1;;1.3;137
+475;Nationaal verhuisvervoer;1997 1e kwartaal;102.7;2.5;4.6;137
+476;Nationaal verhuisvervoer;1997 2e kwartaal;107.5;4.7;5.1;137
+477;Nationaal verhuisvervoer;1997 3e kwartaal;108.6;1.0;4.8;137
+478;Nationaal verhuisvervoer;1997 4e kwartaal;104.7;-3.6;4.5;137
+479;Nationaal verhuisvervoer;1997;105.9;;4.7;137
+480;Nationaal verhuisvervoer;1998 1e kwartaal;106.7;1.9;3.9;137
+481;Nationaal verhuisvervoer;1998 2e kwartaal;113.7;6.6;5.8;137
+482;Nationaal verhuisvervoer;1998 3e kwartaal;114.5;0.7;5.4;137
+483;Nationaal verhuisvervoer;1998 4e kwartaal;112.7;-1.6;7.6;137
+484;Nationaal verhuisvervoer;1998;111.9;;5.7;137
+485;Nationaal verhuisvervoer;1999 1e kwartaal;114.6;1.7;7.4;137
+486;Nationaal verhuisvervoer;1999 2e kwartaal;115.8;1.0;1.8;137
+487;Nationaal verhuisvervoer;1999 3e kwartaal;117.1;1.1;2.3;137
+488;Nationaal verhuisvervoer;1999 4e kwartaal;116.3;-0.7;3.2;137
+489;Nationaal verhuisvervoer;1999;116.0;;3.7;137
+490;Nationaal verhuisvervoer;2000 1e kwartaal;116.2;-0.1;1.4;137
+491;Nationaal verhuisvervoer;2000 2e kwartaal;116.8;0.5;0.9;137
+492;Nationaal verhuisvervoer;2000 3e kwartaal;122.0;4.5;4.2;137
+493;Nationaal verhuisvervoer;2000 4e kwartaal;124.3;1.9;6.9;137
+494;Nationaal verhuisvervoer;2000;119.8;;3.3;137
+495;Nationaal verhuisvervoer;2001 1e kwartaal;125.2;0.7;7.7;137
+496;Nationaal verhuisvervoer;2001 2e kwartaal;130.4;4.2;11.6;137
+497;Nationaal verhuisvervoer;2001 3e kwartaal;127.6;-2.1;4.6;137
+498;Nationaal verhuisvervoer;2001 4e kwartaal;124.5;-2.4;0.2;137
+499;Nationaal verhuisvervoer;2001;126.9;;5.9;137
+500;Nationaal verhuisvervoer;2002 1e kwartaal;124.1;-0.3;-0.9;137
+501;Nationaal verhuisvervoer;2002 2e kwartaal;126.5;1.9;-3.0;137
+502;Nationaal verhuisvervoer;2002 3e kwartaal;127.2;0.6;-0.3;137
+503;Nationaal verhuisvervoer;2002 4e kwartaal;125.7;-1.2;1.0;137
+504;Nationaal verhuisvervoer;2002;125.9;;-0.8;137
+505;Nationaal verhuisvervoer;2003 1e kwartaal;126.8;0.9;2.2;137
+506;Nationaal open en gesloten vervoer;1994 1e kwartaal;100.0;;;2592
+507;Nationaal open en gesloten vervoer;1994 2e kwartaal;100.0;0.0;;2592
+508;Nationaal open en gesloten vervoer;1994 3e kwartaal;100.1;0.1;;2592
+509;Nationaal open en gesloten vervoer;1994 4e kwartaal;100.2;0.1;;2592
+510;Nationaal open en gesloten vervoer;1994;100.1;;;2592
+511;Nationaal open en gesloten vervoer;1995 1e kwartaal;101.9;1.7;1.9;2592
+512;Nationaal open en gesloten vervoer;1995 2e kwartaal;101.9;0.0;1.9;2592
+513;Nationaal open en gesloten vervoer;1995 3e kwartaal;102.1;0.2;2.0;2592
+514;Nationaal open en gesloten vervoer;1995 4e kwartaal;102.4;0.3;2.2;2592
+515;Nationaal open en gesloten vervoer;1995;102.1;;2.0;2592
+516;Nationaal open en gesloten vervoer;1996 1e kwartaal;103.5;1.1;1.6;2592
+517;Nationaal open en gesloten vervoer;1996 2e kwartaal;103.8;0.3;1.9;2592
+518;Nationaal open en gesloten vervoer;1996 3e kwartaal;104.0;0.2;1.9;2592
+519;Nationaal open en gesloten vervoer;1996 4e kwartaal;104.0;0.0;1.6;2592
+520;Nationaal open en gesloten vervoer;1996;103.8;;1.7;2592
+521;Nationaal open en gesloten vervoer;1997 1e kwartaal;106.5;2.4;2.9;2592
+522;Nationaal open en gesloten vervoer;1997 2e kwartaal;106.7;0.2;2.8;2592
+523;Nationaal open en gesloten vervoer;1997 3e kwartaal;107.3;0.6;3.2;2592
+524;Nationaal open en gesloten vervoer;1997 4e kwartaal;108.0;0.7;3.8;2592
+525;Nationaal open en gesloten vervoer;1997;107.1;;3.2;2592
+526;Nationaal open en gesloten vervoer;1998 1e kwartaal;110.9;2.7;4.1;2592
+527;Nationaal open en gesloten vervoer;1998 2e kwartaal;110.7;-0.2;3.7;2592
+528;Nationaal open en gesloten vervoer;1998 3e kwartaal;110.7;0.0;3.2;2592
+529;Nationaal open en gesloten vervoer;1998 4e kwartaal;110.9;0.2;2.7;2592
+530;Nationaal open en gesloten vervoer;1998;110.8;;3.5;2592
+531;Nationaal open en gesloten vervoer;1999 1e kwartaal;112.2;1.2;1.2;2592
+532;Nationaal open en gesloten vervoer;1999 2e kwartaal;112.3;0.1;1.4;2592
+533;Nationaal open en gesloten vervoer;1999 3e kwartaal;112.5;0.2;1.6;2592
+534;Nationaal open en gesloten vervoer;1999 4e kwartaal;112.9;0.4;1.8;2592
+535;Nationaal open en gesloten vervoer;1999;112.5;;1.5;2592
+536;Nationaal open en gesloten vervoer;2000 1e kwartaal;115.0;1.9;2.5;2592
+537;Nationaal open en gesloten vervoer;2000 2e kwartaal;115.3;0.3;2.7;2592
+538;Nationaal open en gesloten vervoer;2000 3e kwartaal;115.7;0.3;2.8;2592
+539;Nationaal open en gesloten vervoer;2000 4e kwartaal;117.5;1.6;4.1;2592
+540;Nationaal open en gesloten vervoer;2000;115.9;;3.0;2592
+541;Nationaal open en gesloten vervoer;2001 1e kwartaal;123.4;5.0;7.3;2592
+542;Nationaal open en gesloten vervoer;2001 2e kwartaal;123.4;0.0;7.0;2592
+543;Nationaal open en gesloten vervoer;2001 3e kwartaal;123.5;0.1;6.7;2592
+544;Nationaal open en gesloten vervoer;2001 4e kwartaal;123.4;-0.1;5.0;2592
+545;Nationaal open en gesloten vervoer;2001;123.4;;6.5;2592
+546;Nationaal open en gesloten vervoer;2002 1e kwartaal;128.8;4.4;4.4;2592
+547;Nationaal open en gesloten vervoer;2002 2e kwartaal;128.9;0.1;4.5;2592
+548;Nationaal open en gesloten vervoer;2002 3e kwartaal;129.1;0.2;4.5;2592
+549;Nationaal open en gesloten vervoer;2002 4e kwartaal;129.2;0.1;4.7;2592
+550;Nationaal open en gesloten vervoer;2002;129.0;;4.5;2592
+551;Nationaal open en gesloten vervoer;2003 1e kwartaal;132.5;2.6;2.9;2592
+552;Nationaal koel- vriesvervoer;1994 1e kwartaal;100.0;;;312
+553;Nationaal koel- vriesvervoer;1994 2e kwartaal;101.7;1.7;;312
+554;Nationaal koel- vriesvervoer;1994 3e kwartaal;101.2;-0.5;;312
+555;Nationaal koel- vriesvervoer;1994 4e kwartaal;101.2;0.0;;312
+556;Nationaal koel- vriesvervoer;1994;101.0;;;312
+557;Nationaal koel- vriesvervoer;1995 1e kwartaal;101.4;0.2;1.4;312
+558;Nationaal koel- vriesvervoer;1995 2e kwartaal;101.4;0.0;-0.3;312
+559;Nationaal koel- vriesvervoer;1995 3e kwartaal;101.3;-0.1;0.1;312
+560;Nationaal koel- vriesvervoer;1995 4e kwartaal;101.5;0.2;0.3;312
+561;Nationaal koel- vriesvervoer;1995;101.4;;0.4;312
+562;Nationaal koel- vriesvervoer;1996 1e kwartaal;102.4;0.9;1.0;312
+563;Nationaal koel- vriesvervoer;1996 2e kwartaal;102.9;0.5;1.5;312
+564;Nationaal koel- vriesvervoer;1996 3e kwartaal;103.5;0.6;2.2;312
+565;Nationaal koel- vriesvervoer;1996 4e kwartaal;102.9;-0.6;1.4;312
+566;Nationaal koel- vriesvervoer;1996;102.9;;1.5;312
+567;Nationaal koel- vriesvervoer;1997 1e kwartaal;102.9;0.0;0.5;312
+568;Nationaal koel- vriesvervoer;1997 2e kwartaal;103.6;0.7;0.7;312
+569;Nationaal koel- vriesvervoer;1997 3e kwartaal;103.5;-0.1;0.0;312
+570;Nationaal koel- vriesvervoer;1997 4e kwartaal;103.6;0.1;0.7;312
+571;Nationaal koel- vriesvervoer;1997;103.4;;0.5;312
+572;Nationaal koel- vriesvervoer;1998 1e kwartaal;103.7;0.1;0.8;312
+573;Nationaal koel- vriesvervoer;1998 2e kwartaal;103.8;0.1;0.2;312
+574;Nationaal koel- vriesvervoer;1998 3e kwartaal;104.7;0.9;1.2;312
+575;Nationaal koel- vriesvervoer;1998 4e kwartaal;104.7;0.0;1.1;312
+576;Nationaal koel- vriesvervoer;1998;104.3;;0.9;312
+577;Nationaal koel- vriesvervoer;1999 1e kwartaal;105.9;1.1;2.1;312
+578;Nationaal koel- vriesvervoer;1999 2e kwartaal;105.9;0.0;2.0;312
+579;Nationaal koel- vriesvervoer;1999 3e kwartaal;105.9;0.0;1.1;312
+580;Nationaal koel- vriesvervoer;1999 4e kwartaal;105.9;0.0;1.1;312
+581;Nationaal koel- vriesvervoer;1999;105.9;;1.5;312
+582;Nationaal koel- vriesvervoer;2000 1e kwartaal;106.9;0.9;0.9;312
+583;Nationaal koel- vriesvervoer;2000 2e kwartaal;107.5;0.6;1.5;312
+584;Nationaal koel- vriesvervoer;2000 3e kwartaal;108.2;0.7;2.2;312
+585;Nationaal koel- vriesvervoer;2000 4e kwartaal;108.2;0.0;2.2;312
+586;Nationaal koel- vriesvervoer;2000;107.7;;1.7;312
+587;Nationaal koel- vriesvervoer;2001 1e kwartaal;110.9;2.5;3.7;312
+588;Nationaal koel- vriesvervoer;2001 2e kwartaal;110.8;-0.1;3.1;312
+589;Nationaal koel- vriesvervoer;2001 3e kwartaal;111.8;0.9;3.3;312
+590;Nationaal koel- vriesvervoer;2001 4e kwartaal;111.9;0.1;3.4;312
+591;Nationaal koel- vriesvervoer;2001;111.4;;3.4;312
+592;Nationaal koel- vriesvervoer;2002 1e kwartaal;114.8;2.6;3.5;312
+593;Nationaal koel- vriesvervoer;2002 2e kwartaal;114.6;-0.2;3.4;312
+594;Nationaal koel- vriesvervoer;2002 3e kwartaal;114.6;0.0;2.5;312
+595;Nationaal koel- vriesvervoer;2002 4e kwartaal;114.6;0.0;2.4;312
+596;Nationaal koel- vriesvervoer;2002;114.7;;3.0;312
+597;Nationaal koel- vriesvervoer;2003 1e kwartaal;115.7;1.0;0.8;312
+598;Nationaal tankvervoer;1994 1e kwartaal;100.0;;;426
+599;Nationaal tankvervoer;1994 2e kwartaal;100.3;0.3;;426
+600;Nationaal tankvervoer;1994 3e kwartaal;101.3;1.0;;426
+601;Nationaal tankvervoer;1994 4e kwartaal;100.9;-0.4;;426
+602;Nationaal tankvervoer;1994;100.6;;;426
+603;Nationaal tankvervoer;1995 1e kwartaal;100.6;-0.3;0.6;426
+604;Nationaal tankvervoer;1995 2e kwartaal;100.6;0.0;0.3;426
+605;Nationaal tankvervoer;1995 3e kwartaal;99.3;-1.3;-2.0;426
+606;Nationaal tankvervoer;1995 4e kwartaal;99.3;0.0;-1.6;426
+607;Nationaal tankvervoer;1995;99.9;;-0.7;426
+608;Nationaal tankvervoer;1996 1e kwartaal;99.4;0.1;-1.2;426
+609;Nationaal tankvervoer;1996 2e kwartaal;99.4;0.0;-1.2;426
+610;Nationaal tankvervoer;1996 3e kwartaal;99.0;-0.4;-0.3;426
+611;Nationaal tankvervoer;1996 4e kwartaal;99.0;0.0;-0.3;426
+612;Nationaal tankvervoer;1996;99.2;;-0.7;426
+613;Nationaal tankvervoer;1997 1e kwartaal;99.6;0.6;0.2;426
+614;Nationaal tankvervoer;1997 2e kwartaal;100.1;0.5;0.7;426
+615;Nationaal tankvervoer;1997 3e kwartaal;100.1;0.0;1.1;426
+616;Nationaal tankvervoer;1997 4e kwartaal;100.1;0.0;1.1;426
+617;Nationaal tankvervoer;1997;100.0;;0.8;426
+618;Nationaal tankvervoer;1998 1e kwartaal;100.5;0.4;0.9;426
+619;Nationaal tankvervoer;1998 2e kwartaal;100.4;-0.1;0.3;426
+620;Nationaal tankvervoer;1998 3e kwartaal;99.8;-0.6;-0.3;426
+621;Nationaal tankvervoer;1998 4e kwartaal;100.1;0.3;0.0;426
+622;Nationaal tankvervoer;1998;100.2;;0.2;426
+623;Nationaal tankvervoer;1999 1e kwartaal;99.4;-0.7;-1.1;426
+624;Nationaal tankvervoer;1999 2e kwartaal;99.4;0.0;-1.0;426
+625;Nationaal tankvervoer;1999 3e kwartaal;98.9;-0.5;-0.9;426
+626;Nationaal tankvervoer;1999 4e kwartaal;99.5;0.6;-0.6;426
+627;Nationaal tankvervoer;1999;99.3;;-0.9;426
+628;Nationaal tankvervoer;2000 1e kwartaal;101.4;1.9;2.0;426
+629;Nationaal tankvervoer;2000 2e kwartaal;100.2;-1.2;0.8;426
+630;Nationaal tankvervoer;2000 3e kwartaal;101.0;0.8;2.1;426
+631;Nationaal tankvervoer;2000 4e kwartaal;101.6;0.6;2.1;426
+632;Nationaal tankvervoer;2000;101.1;;1.8;426
+633;Nationaal tankvervoer;2001 1e kwartaal;102.6;1.0;1.2;426
+634;Nationaal tankvervoer;2001 2e kwartaal;103.2;0.6;3.0;426
+635;Nationaal tankvervoer;2001 3e kwartaal;102.5;-0.7;1.5;426
+636;Nationaal tankvervoer;2001 4e kwartaal;102.9;0.4;1.3;426
+637;Nationaal tankvervoer;2001;102.8;;1.7;426
+638;Nationaal tankvervoer;2002 1e kwartaal;103.9;1.0;1.3;426
+639;Nationaal tankvervoer;2002 2e kwartaal;104.2;0.3;1.0;426
+640;Nationaal tankvervoer;2002 3e kwartaal;104.0;-0.2;1.5;426
+641;Nationaal tankvervoer;2002 4e kwartaal;104.5;0.5;1.6;426
+642;Nationaal tankvervoer;2002;104.2;;1.4;426
+643;Nationaal tankvervoer;2003 1e kwartaal;106.0;1.4;2.0;426
+644;Nationaal kippervervoer;1994 1e kwartaal;100.0;;;304
+645;Nationaal kippervervoer;1994 2e kwartaal;100.3;0.3;;304
+646;Nationaal kippervervoer;1994 3e kwartaal;100.3;0.0;;304
+647;Nationaal kippervervoer;1994 4e kwartaal;99.4;-0.9;;304
+648;Nationaal kippervervoer;1994;100.0;;;304
+649;Nationaal kippervervoer;1995 1e kwartaal;100.0;0.6;0.0;304
+650;Nationaal kippervervoer;1995 2e kwartaal;100.3;0.3;0.0;304
+651;Nationaal kippervervoer;1995 3e kwartaal;101.1;0.8;0.8;304
+652;Nationaal kippervervoer;1995 4e kwartaal;101.8;0.7;2.4;304
+653;Nationaal kippervervoer;1995;100.8;;0.8;304
+654;Nationaal kippervervoer;1996 1e kwartaal;102.1;0.3;2.1;304
+655;Nationaal kippervervoer;1996 2e kwartaal;102.8;0.7;2.5;304
+656;Nationaal kippervervoer;1996 3e kwartaal;102.5;-0.3;1.4;304
+657;Nationaal kippervervoer;1996 4e kwartaal;104.6;2.0;2.8;304
+658;Nationaal kippervervoer;1996;103.0;;2.2;304
+659;Nationaal kippervervoer;1997 1e kwartaal;103.8;-0.8;1.7;304
+660;Nationaal kippervervoer;1997 2e kwartaal;103.3;-0.5;0.5;304
+661;Nationaal kippervervoer;1997 3e kwartaal;103.2;-0.1;0.7;304
+662;Nationaal kippervervoer;1997 4e kwartaal;103.7;0.5;-0.9;304
+663;Nationaal kippervervoer;1997;103.5;;0.5;304
+664;Nationaal kippervervoer;1998 1e kwartaal;104.7;1.0;0.9;304
+665;Nationaal kippervervoer;1998 2e kwartaal;104.4;-0.3;1.1;304
+666;Nationaal kippervervoer;1998 3e kwartaal;104.9;0.5;1.6;304
+667;Nationaal kippervervoer;1998 4e kwartaal;105.2;0.3;1.4;304
+668;Nationaal kippervervoer;1998;104.8;;1.3;304
+669;Nationaal kippervervoer;1999 1e kwartaal;106.1;0.9;1.3;304
+670;Nationaal kippervervoer;1999 2e kwartaal;106.2;0.1;1.7;304
+671;Nationaal kippervervoer;1999 3e kwartaal;107.4;1.1;2.4;304
+672;Nationaal kippervervoer;1999 4e kwartaal;107.3;-0.1;2.0;304
+673;Nationaal kippervervoer;1999;106.8;;1.9;304
+674;Nationaal kippervervoer;2000 1e kwartaal;110.8;3.3;4.4;304
+675;Nationaal kippervervoer;2000 2e kwartaal;111.5;0.6;5.0;304
+676;Nationaal kippervervoer;2000 3e kwartaal;113.5;1.8;5.7;304
+677;Nationaal kippervervoer;2000 4e kwartaal;114.4;0.8;6.6;304
+678;Nationaal kippervervoer;2000;112.6;;5.4;304
+679;Nationaal kippervervoer;2001 1e kwartaal;119.7;4.6;8.0;304
+680;Nationaal kippervervoer;2001 2e kwartaal;121.1;1.2;8.6;304
+681;Nationaal kippervervoer;2001 3e kwartaal;120.8;-0.2;6.4;304
+682;Nationaal kippervervoer;2001 4e kwartaal;120.7;-0.1;5.5;304
+683;Nationaal kippervervoer;2001;120.6;;7.1;304
+684;Nationaal kippervervoer;2002 1e kwartaal;122.8;1.7;2.6;304
+685;Nationaal kippervervoer;2002 2e kwartaal;127.6;3.9;5.4;304
+686;Nationaal kippervervoer;2002 3e kwartaal;127.6;0.0;5.6;304
+687;Nationaal kippervervoer;2002 4e kwartaal;127.1;-0.4;5.3;304
+688;Nationaal kippervervoer;2002;126.3;;4.7;304
+689;Nationaal kippervervoer;2003 1e kwartaal;125.9;-0.9;2.5;304
+690;Nationaal overig vervoer;1994 1e kwartaal;100.0;;;835
+691;Nationaal overig vervoer;1994 2e kwartaal;99.9;-0.1;;835
+692;Nationaal overig vervoer;1994 3e kwartaal;99.8;-0.1;;835
+693;Nationaal overig vervoer;1994 4e kwartaal;100.1;0.3;;835
+694;Nationaal overig vervoer;1994;100.0;;;835
+695;Nationaal overig vervoer;1995 1e kwartaal;101.5;1.4;1.5;835
+696;Nationaal overig vervoer;1995 2e kwartaal;100.8;-0.7;0.9;835
+697;Nationaal overig vervoer;1995 3e kwartaal;101.9;1.1;2.1;835
+698;Nationaal overig vervoer;1995 4e kwartaal;101.1;-0.8;1.0;835
+699;Nationaal overig vervoer;1995;101.3;;1.3;835
+700;Nationaal overig vervoer;1996 1e kwartaal;101.0;-0.1;-0.5;835
+701;Nationaal overig vervoer;1996 2e kwartaal;101.5;0.5;0.7;835
+702;Nationaal overig vervoer;1996 3e kwartaal;101.5;0.0;-0.4;835
+703;Nationaal overig vervoer;1996 4e kwartaal;101.5;0.0;0.4;835
+704;Nationaal overig vervoer;1996;101.4;;0.1;835
+705;Nationaal overig vervoer;1997 1e kwartaal;103.4;1.9;2.4;835
+706;Nationaal overig vervoer;1997 2e kwartaal;103.2;-0.2;1.7;835
+707;Nationaal overig vervoer;1997 3e kwartaal;103.1;-0.1;1.6;835
+708;Nationaal overig vervoer;1997 4e kwartaal;103.1;0.0;1.6;835
+709;Nationaal overig vervoer;1997;103.2;;1.8;835
+710;Nationaal overig vervoer;1998 1e kwartaal;103.7;0.6;0.3;835
+711;Nationaal overig vervoer;1998 2e kwartaal;103.6;-0.1;0.4;835
+712;Nationaal overig vervoer;1998 3e kwartaal;103.7;0.1;0.6;835
+713;Nationaal overig vervoer;1998 4e kwartaal;104.4;0.7;1.3;835
+714;Nationaal overig vervoer;1998;103.8;;0.6;835
+715;Nationaal overig vervoer;1999 1e kwartaal;105.2;0.8;1.4;835
+716;Nationaal overig vervoer;1999 2e kwartaal;105.2;0.0;1.5;835
+717;Nationaal overig vervoer;1999 3e kwartaal;106.0;0.8;2.2;835
+718;Nationaal overig vervoer;1999 4e kwartaal;106.2;0.2;1.7;835
+719;Nationaal overig vervoer;1999;105.7;;1.8;835
+720;Nationaal overig vervoer;2000 1e kwartaal;108.7;2.4;3.3;835
+721;Nationaal overig vervoer;2000 2e kwartaal;110.1;1.3;4.7;835
+722;Nationaal overig vervoer;2000 3e kwartaal;111.9;1.6;5.6;835
+723;Nationaal overig vervoer;2000 4e kwartaal;112.6;0.6;6.0;835
+724;Nationaal overig vervoer;2000;110.8;;4.8;835
+725;Nationaal overig vervoer;2001 1e kwartaal;113.5;0.8;4.4;835
+726;Nationaal overig vervoer;2001 2e kwartaal;114.2;0.6;3.7;835
+727;Nationaal overig vervoer;2001 3e kwartaal;114.5;0.3;2.3;835
+728;Nationaal overig vervoer;2001 4e kwartaal;114.4;-0.1;1.6;835
+729;Nationaal overig vervoer;2001;114.2;;3.1;835
+730;Nationaal overig vervoer;2002 1e kwartaal;116.6;1.9;2.7;835
+731;Nationaal overig vervoer;2002 2e kwartaal;117.1;0.4;2.5;835
+732;Nationaal overig vervoer;2002 3e kwartaal;117.5;0.3;2.6;835
+733;Nationaal overig vervoer;2002 4e kwartaal;117.6;0.1;2.8;835
+734;Nationaal overig vervoer;2002;117.2;;2.6;835
+735;Nationaal overig vervoer;2003 1e kwartaal;118.4;0.7;1.5;835
+736;Internationaal totaal;1994 1e kwartaal;100.0;;;4728
+737;Internationaal totaal;1994 2e kwartaal;99.8;-0.2;;4728
+738;Internationaal totaal;1994 3e kwartaal;99.8;0.0;;4728
+739;Internationaal totaal;1994 4e kwartaal;99.8;0.0;;4728
+740;Internationaal totaal;1994;99.8;;;4728
+741;Internationaal totaal;1995 1e kwartaal;99.3;-0.5;-0.7;4728
+742;Internationaal totaal;1995 2e kwartaal;99.3;0.0;-0.5;4728
+743;Internationaal totaal;1995 3e kwartaal;99.3;0.0;-0.5;4728
+744;Internationaal totaal;1995 4e kwartaal;99.3;0.0;-0.5;4728
+745;Internationaal totaal;1995;99.3;;-0.5;4728
+746;Internationaal totaal;1996 1e kwartaal;100.7;1.4;1.4;4728
+747;Internationaal totaal;1996 2e kwartaal;100.8;0.1;1.5;4728
+748;Internationaal totaal;1996 3e kwartaal;100.4;-0.4;1.1;4728
+749;Internationaal totaal;1996 4e kwartaal;100.5;0.1;1.2;4728
+750;Internationaal totaal;1996;100.6;;1.3;4728
+751;Internationaal totaal;1997 1e kwartaal;101.1;0.6;0.4;4728
+752;Internationaal totaal;1997 2e kwartaal;101.3;0.2;0.5;4728
+753;Internationaal totaal;1997 3e kwartaal;101.4;0.1;1.0;4728
+754;Internationaal totaal;1997 4e kwartaal;101.5;0.1;1.0;4728
+755;Internationaal totaal;1997;101.3;;0.7;4728
+756;Internationaal totaal;1998 1e kwartaal;102.1;0.6;1.0;4728
+757;Internationaal totaal;1998 2e kwartaal;102.5;0.4;1.2;4728
+758;Internationaal totaal;1998 3e kwartaal;102.5;0.0;1.1;4728
+759;Internationaal totaal;1998 4e kwartaal;102.5;0.0;1.0;4728
+760;Internationaal totaal;1998;102.4;;1.1;4728
+761;Internationaal totaal;1999 1e kwartaal;103.0;0.5;0.9;4728
+762;Internationaal totaal;1999 2e kwartaal;103.0;0.0;0.5;4728
+763;Internationaal totaal;1999 3e kwartaal;102.8;-0.2;0.3;4728
+764;Internationaal totaal;1999 4e kwartaal;103.3;0.5;0.8;4728
+765;Internationaal totaal;1999;103.0;;0.6;4728
+766;Internationaal totaal;2000 1e kwartaal;105.4;2.0;2.3;4728
+767;Internationaal totaal;2000 2e kwartaal;105.9;0.5;2.8;4728
+768;Internationaal totaal;2000 3e kwartaal;106.6;0.7;3.7;4728
+769;Internationaal totaal;2000 4e kwartaal;108.0;1.3;4.5;4728
+770;Internationaal totaal;2000;106.5;;3.4;4728
+771;Internationaal totaal;2001 1e kwartaal;109.2;1.1;3.6;4728
+772;Internationaal totaal;2001 2e kwartaal;109.5;0.3;3.4;4728
+773;Internationaal totaal;2001 3e kwartaal;109.4;-0.1;2.6;4728
+774;Internationaal totaal;2001 4e kwartaal;110.1;0.6;1.9;4728
+775;Internationaal totaal;2001;109.4;;2.7;4728
+776;Internationaal totaal;2002 1e kwartaal;110.3;0.2;1.0;4728
+777;Internationaal totaal;2002 2e kwartaal;110.9;0.5;1.3;4728
+778;Internationaal totaal;2002 3e kwartaal;111.2;0.3;1.6;4728
+779;Internationaal totaal;2002 4e kwartaal;111.8;0.5;1.5;4728
+780;Internationaal totaal;2002;111.1;;1.6;4728
+781;Internationaal totaal;2003 1e kwartaal;113.4;1.4;2.8;4728
+782;Internationaal containervervoer;1994 1e kwartaal;100.0;;;171
+783;Internationaal containervervoer;1994 2e kwartaal;101.9;1.9;;171
+784;Internationaal containervervoer;1994 3e kwartaal;98.5;-3.3;;171
+785;Internationaal containervervoer;1994 4e kwartaal;99.1;0.6;;171
+786;Internationaal containervervoer;1994;99.9;;;171
+787;Internationaal containervervoer;1995 1e kwartaal;101.5;2.4;1.5;171
+788;Internationaal containervervoer;1995 2e kwartaal;101.5;0.0;-0.4;171
+789;Internationaal containervervoer;1995 3e kwartaal;101.6;0.1;3.1;171
+790;Internationaal containervervoer;1995 4e kwartaal;102.1;0.5;3.0;171
+791;Internationaal containervervoer;1995;101.7;;1.8;171
+792;Internationaal containervervoer;1996 1e kwartaal;101.3;-0.8;-0.2;171
+793;Internationaal containervervoer;1996 2e kwartaal;103.1;1.8;1.6;171
+794;Internationaal containervervoer;1996 3e kwartaal;103.0;-0.1;1.4;171
+795;Internationaal containervervoer;1996 4e kwartaal;102.4;-0.6;0.3;171
+796;Internationaal containervervoer;1996;102.5;;0.8;171
+797;Internationaal containervervoer;1997 1e kwartaal;103.5;1.1;2.2;171
+798;Internationaal containervervoer;1997 2e kwartaal;101.8;-1.6;-1.3;171
+799;Internationaal containervervoer;1997 3e kwartaal;101.8;0.0;-1.2;171
+800;Internationaal containervervoer;1997 4e kwartaal;102.4;0.6;0.0;171
+801;Internationaal containervervoer;1997;102.4;;-0.1;171
+802;Internationaal containervervoer;1998 1e kwartaal;102.6;0.2;-0.9;171
+803;Internationaal containervervoer;1998 2e kwartaal;101.1;-1.5;-0.7;171
+804;Internationaal containervervoer;1998 3e kwartaal;102.3;1.2;0.5;171
+805;Internationaal containervervoer;1998 4e kwartaal;102.3;0.0;-0.1;171
+806;Internationaal containervervoer;1998;102.1;;-0.3;171
+807;Internationaal containervervoer;1999 1e kwartaal;102.8;0.5;0.2;171
+808;Internationaal containervervoer;1999 2e kwartaal;102.8;0.0;1.7;171
+809;Internationaal containervervoer;1999 3e kwartaal;102.9;0.1;0.6;171
+810;Internationaal containervervoer;1999 4e kwartaal;102.8;-0.1;0.5;171
+811;Internationaal containervervoer;1999;102.8;;0.7;171
+812;Internationaal containervervoer;2000 1e kwartaal;106.7;3.8;3.8;171
+813;Internationaal containervervoer;2000 2e kwartaal;108.2;1.4;5.3;171
+814;Internationaal containervervoer;2000 3e kwartaal;108.2;0.0;5.2;171
+815;Internationaal containervervoer;2000 4e kwartaal;109.3;1.0;6.3;171
+816;Internationaal containervervoer;2000;108.1;;5.2;171
+817;Internationaal containervervoer;2001 1e kwartaal;111.4;1.9;4.4;171
+818;Internationaal containervervoer;2001 2e kwartaal;111.9;0.4;3.4;171
+819;Internationaal containervervoer;2001 3e kwartaal;111.0;-0.8;2.6;171
+820;Internationaal containervervoer;2001 4e kwartaal;111.1;0.1;1.6;171
+821;Internationaal containervervoer;2001;111.4;;3.1;171
+822;Internationaal containervervoer;2002 1e kwartaal;112.1;0.9;0.6;171
+823;Internationaal containervervoer;2002 2e kwartaal;112.1;0.0;0.2;171
+824;Internationaal containervervoer;2002 3e kwartaal;112.1;0.0;1.0;171
+825;Internationaal containervervoer;2002 4e kwartaal;112.1;0.0;0.9;171
+826;Internationaal containervervoer;2002;112.1;;0.6;171
+827;Internationaal containervervoer;2003 1e kwartaal;113.6;1.3;1.3;171
+828;Internationaal verhuisvervoer;1994 1e kwartaal;100.0;;;81
+829;Internationaal verhuisvervoer;1994 2e kwartaal;104.3;4.3;;81
+830;Internationaal verhuisvervoer;1994 3e kwartaal;108.5;4.0;;81
+831;Internationaal verhuisvervoer;1994 4e kwartaal;101.0;-6.9;;81
+832;Internationaal verhuisvervoer;1994;103.5;;;81
+833;Internationaal verhuisvervoer;1995 1e kwartaal;102.1;1.1;2.1;81
+834;Internationaal verhuisvervoer;1995 2e kwartaal;104.3;2.2;0.0;81
+835;Internationaal verhuisvervoer;1995 3e kwartaal;106.0;1.6;-2.3;81
+836;Internationaal verhuisvervoer;1995 4e kwartaal;104.1;-1.8;3.1;81
+837;Internationaal verhuisvervoer;1995;104.1;;0.6;81
+838;Internationaal verhuisvervoer;1996 1e kwartaal;99.6;-4.3;-2.4;81
+839;Internationaal verhuisvervoer;1996 2e kwartaal;103.1;3.5;-1.2;81
+840;Internationaal verhuisvervoer;1996 3e kwartaal;104.6;1.5;-1.3;81
+841;Internationaal verhuisvervoer;1996 4e kwartaal;101.6;-2.9;-2.4;81
+842;Internationaal verhuisvervoer;1996;102.2;;-1.8;81
+843;Internationaal verhuisvervoer;1997 1e kwartaal;102.8;1.2;3.2;81
+844;Internationaal verhuisvervoer;1997 2e kwartaal;107.7;4.8;4.5;81
+845;Internationaal verhuisvervoer;1997 3e kwartaal;108.2;0.5;3.4;81
+846;Internationaal verhuisvervoer;1997 4e kwartaal;104.5;-3.4;2.9;81
+847;Internationaal verhuisvervoer;1997;105.8;;3.5;81
+848;Internationaal verhuisvervoer;1998 1e kwartaal;107.0;2.4;4.1;81
+849;Internationaal verhuisvervoer;1998 2e kwartaal;115.9;8.3;7.6;81
+850;Internationaal verhuisvervoer;1998 3e kwartaal;117.8;1.6;8.9;81
+851;Internationaal verhuisvervoer;1998 4e kwartaal;113.8;-3.4;8.9;81
+852;Internationaal verhuisvervoer;1998;113.6;;7.4;81
+853;Internationaal verhuisvervoer;1999 1e kwartaal;117.1;2.9;9.4;81
+854;Internationaal verhuisvervoer;1999 2e kwartaal;119.7;2.2;3.3;81
+855;Internationaal verhuisvervoer;1999 3e kwartaal;119.7;0.0;1.6;81
+856;Internationaal verhuisvervoer;1999 4e kwartaal;117.8;-1.6;3.5;81
+857;Internationaal verhuisvervoer;1999;118.6;;4.4;81
+858;Internationaal verhuisvervoer;2000 1e kwartaal;115.9;-1.6;-1.0;81
+859;Internationaal verhuisvervoer;2000 2e kwartaal;117.4;1.3;-1.9;81
+860;Internationaal verhuisvervoer;2000 3e kwartaal;124.6;6.1;4.1;81
+861;Internationaal verhuisvervoer;2000 4e kwartaal;126.1;1.2;7.0;81
+862;Internationaal verhuisvervoer;2000;121.0;;2.0;81
+863;Internationaal verhuisvervoer;2001 1e kwartaal;122.7;-2.7;5.9;81
+864;Internationaal verhuisvervoer;2001 2e kwartaal;124.7;1.6;6.2;81
+865;Internationaal verhuisvervoer;2001 3e kwartaal;124.7;0.0;0.1;81
+866;Internationaal verhuisvervoer;2001 4e kwartaal;122.3;-1.9;-3.0;81
+867;Internationaal verhuisvervoer;2001;123.6;;2.1;81
+868;Internationaal verhuisvervoer;2002 1e kwartaal;115.9;-5.2;-5.5;81
+869;Internationaal verhuisvervoer;2002 2e kwartaal;114.6;-1.1;-8.1;81
+870;Internationaal verhuisvervoer;2002 3e kwartaal;116.4;1.6;-6.7;81
+871;Internationaal verhuisvervoer;2002 4e kwartaal;112.7;-3.2;-7.8;81
+872;Internationaal verhuisvervoer;2002;114.9;;-7.0;81
+873;Internationaal verhuisvervoer;2003 1e kwartaal;113.3;0.5;-2.2;81
+874;Internationaal open en gesloten vervoer;1994 1e kwartaal;100.0;;;1744
+875;Internationaal open en gesloten vervoer;1994 2e kwartaal;99.6;-0.4;;1744
+876;Internationaal open en gesloten vervoer;1994 3e kwartaal;99.6;0.0;;1744
+877;Internationaal open en gesloten vervoer;1994 4e kwartaal;99.8;0.2;;1744
+878;Internationaal open en gesloten vervoer;1994;99.7;;;1744
+879;Internationaal open en gesloten vervoer;1995 1e kwartaal;100.1;0.3;0.1;1744
+880;Internationaal open en gesloten vervoer;1995 2e kwartaal;100.5;0.4;0.9;1744
+881;Internationaal open en gesloten vervoer;1995 3e kwartaal;99.7;-0.8;0.1;1744
+882;Internationaal open en gesloten vervoer;1995 4e kwartaal;100.3;0.6;0.5;1744
+883;Internationaal open en gesloten vervoer;1995;100.2;;0.5;1744
+884;Internationaal open en gesloten vervoer;1996 1e kwartaal;102.0;1.7;1.9;1744
+885;Internationaal open en gesloten vervoer;1996 2e kwartaal;101.5;-0.5;1.0;1744
+886;Internationaal open en gesloten vervoer;1996 3e kwartaal;100.9;-0.6;1.2;1744
+887;Internationaal open en gesloten vervoer;1996 4e kwartaal;101.0;0.1;0.7;1744
+888;Internationaal open en gesloten vervoer;1996;101.3;;1.1;1744
+889;Internationaal open en gesloten vervoer;1997 1e kwartaal;101.5;0.5;-0.5;1744
+890;Internationaal open en gesloten vervoer;1997 2e kwartaal;102.0;0.5;0.5;1744
+891;Internationaal open en gesloten vervoer;1997 3e kwartaal;101.8;-0.2;0.9;1744
+892;Internationaal open en gesloten vervoer;1997 4e kwartaal;102.0;0.2;1.0;1744
+893;Internationaal open en gesloten vervoer;1997;101.8;;0.5;1744
+894;Internationaal open en gesloten vervoer;1998 1e kwartaal;102.0;0.0;0.5;1744
+895;Internationaal open en gesloten vervoer;1998 2e kwartaal;102.0;0.0;0.0;1744
+896;Internationaal open en gesloten vervoer;1998 3e kwartaal;102.1;0.1;0.3;1744
+897;Internationaal open en gesloten vervoer;1998 4e kwartaal;102.0;-0.1;0.0;1744
+898;Internationaal open en gesloten vervoer;1998;102.0;;0.2;1744
+899;Internationaal open en gesloten vervoer;1999 1e kwartaal;102.1;0.1;0.1;1744
+900;Internationaal open en gesloten vervoer;1999 2e kwartaal;102.3;0.2;0.3;1744
+901;Internationaal open en gesloten vervoer;1999 3e kwartaal;102.2;-0.1;0.1;1744
+902;Internationaal open en gesloten vervoer;1999 4e kwartaal;103.2;1.0;1.2;1744
+903;Internationaal open en gesloten vervoer;1999;102.4;;0.4;1744
+904;Internationaal open en gesloten vervoer;2000 1e kwartaal;104.5;1.3;2.4;1744
+905;Internationaal open en gesloten vervoer;2000 2e kwartaal;104.5;0.0;2.2;1744
+906;Internationaal open en gesloten vervoer;2000 3e kwartaal;105.5;1.0;3.2;1744
+907;Internationaal open en gesloten vervoer;2000 4e kwartaal;107.4;1.8;4.1;1744
+908;Internationaal open en gesloten vervoer;2000;105.5;;3.0;1744
+909;Internationaal open en gesloten vervoer;2001 1e kwartaal;109.6;2.0;4.9;1744
+910;Internationaal open en gesloten vervoer;2001 2e kwartaal;110.7;1.0;5.9;1744
+911;Internationaal open en gesloten vervoer;2001 3e kwartaal;110.3;-0.4;4.5;1744
+912;Internationaal open en gesloten vervoer;2001 4e kwartaal;110.0;-0.3;2.4;1744
+913;Internationaal open en gesloten vervoer;2001;110.2;;4.5;1744
+914;Internationaal open en gesloten vervoer;2002 1e kwartaal;109.9;-0.1;0.3;1744
+915;Internationaal open en gesloten vervoer;2002 2e kwartaal;109.8;-0.1;-0.8;1744
+916;Internationaal open en gesloten vervoer;2002 3e kwartaal;110.7;0.8;0.4;1744
+917;Internationaal open en gesloten vervoer;2002 4e kwartaal;111.3;0.5;1.2;1744
+918;Internationaal open en gesloten vervoer;2002;110.4;;0.2;1744
+919;Internationaal open en gesloten vervoer;2003 1e kwartaal;112.1;0.7;2.0;1744
+920;Internationaal koel- vriesvervoer;1994 1e kwartaal;100.0;;;872
+921;Internationaal koel- vriesvervoer;1994 2e kwartaal;99.2;-0.8;;872
+922;Internationaal koel- vriesvervoer;1994 3e kwartaal;99.4;0.2;;872
+923;Internationaal koel- vriesvervoer;1994 4e kwartaal;99.9;0.5;;872
+924;Internationaal koel- vriesvervoer;1994;99.6;;;872
+925;Internationaal koel- vriesvervoer;1995 1e kwartaal;98.9;-1.0;-1.1;872
+926;Internationaal koel- vriesvervoer;1995 2e kwartaal;98.9;0.0;-0.3;872
+927;Internationaal koel- vriesvervoer;1995 3e kwartaal;98.6;-0.3;-0.8;872
+928;Internationaal koel- vriesvervoer;1995 4e kwartaal;98.7;0.1;-1.2;872
+929;Internationaal koel- vriesvervoer;1995;98.8;;-0.8;872
+930;Internationaal koel- vriesvervoer;1996 1e kwartaal;99.2;0.5;0.3;872
+931;Internationaal koel- vriesvervoer;1996 2e kwartaal;99.3;0.1;0.4;872
+932;Internationaal koel- vriesvervoer;1996 3e kwartaal;99.0;-0.3;0.4;872
+933;Internationaal koel- vriesvervoer;1996 4e kwartaal;98.8;-0.2;0.1;872
+934;Internationaal koel- vriesvervoer;1996;99.1;;0.3;872
+935;Internationaal koel- vriesvervoer;1997 1e kwartaal;99.7;0.9;0.5;872
+936;Internationaal koel- vriesvervoer;1997 2e kwartaal;99.5;-0.2;0.2;872
+937;Internationaal koel- vriesvervoer;1997 3e kwartaal;100.3;0.8;1.3;872
+938;Internationaal koel- vriesvervoer;1997 4e kwartaal;100.5;0.2;1.7;872
+939;Internationaal koel- vriesvervoer;1997;100.0;;0.9;872
+940;Internationaal koel- vriesvervoer;1998 1e kwartaal;100.9;0.4;1.2;872
+941;Internationaal koel- vriesvervoer;1998 2e kwartaal;101.1;0.2;1.6;872
+942;Internationaal koel- vriesvervoer;1998 3e kwartaal;101.0;-0.1;0.7;872
+943;Internationaal koel- vriesvervoer;1998 4e kwartaal;101.3;0.3;0.8;872
+944;Internationaal koel- vriesvervoer;1998;101.1;;1.1;872
+945;Internationaal koel- vriesvervoer;1999 1e kwartaal;101.4;0.1;0.5;872
+946;Internationaal koel- vriesvervoer;1999 2e kwartaal;101.5;0.1;0.4;872
+947;Internationaal koel- vriesvervoer;1999 3e kwartaal;102.5;1.0;1.5;872
+948;Internationaal koel- vriesvervoer;1999 4e kwartaal;102.5;0.0;1.2;872
+949;Internationaal koel- vriesvervoer;1999;102.0;;0.9;872
+950;Internationaal koel- vriesvervoer;2000 1e kwartaal;104.9;2.3;3.5;872
+951;Internationaal koel- vriesvervoer;2000 2e kwartaal;105.4;0.5;3.8;872
+952;Internationaal koel- vriesvervoer;2000 3e kwartaal;106.5;1.0;3.9;872
+953;Internationaal koel- vriesvervoer;2000 4e kwartaal;107.2;0.7;4.6;872
+954;Internationaal koel- vriesvervoer;2000;106.0;;3.9;872
+955;Internationaal koel- vriesvervoer;2001 1e kwartaal;109.1;1.8;4.0;872
+956;Internationaal koel- vriesvervoer;2001 2e kwartaal;109.1;0.0;3.5;872
+957;Internationaal koel- vriesvervoer;2001 3e kwartaal;109.1;0.0;2.4;872
+958;Internationaal koel- vriesvervoer;2001 4e kwartaal;109.3;0.2;2.0;872
+959;Internationaal koel- vriesvervoer;2001;109.2;;3.0;872
+960;Internationaal koel- vriesvervoer;2002 1e kwartaal;111.1;1.6;1.8;872
+961;Internationaal koel- vriesvervoer;2002 2e kwartaal;111.3;0.2;2.0;872
+962;Internationaal koel- vriesvervoer;2002 3e kwartaal;111.1;-0.2;1.8;872
+963;Internationaal koel- vriesvervoer;2002 4e kwartaal;111.1;0.0;1.6;872
+964;Internationaal koel- vriesvervoer;2002;111.2;;1.8;872
+965;Internationaal koel- vriesvervoer;2003 1e kwartaal;111.8;0.6;0.6;872
+966;Internationaal tankvervoer;1994 1e kwartaal;100.0;;;412
+967;Internationaal tankvervoer;1994 2e kwartaal;99.9;-0.1;;412
+968;Internationaal tankvervoer;1994 3e kwartaal;99.4;-0.5;;412
+969;Internationaal tankvervoer;1994 4e kwartaal;99.4;0.0;;412
+970;Internationaal tankvervoer;1994;99.7;;;412
+971;Internationaal tankvervoer;1995 1e kwartaal;99.5;0.1;-0.5;412
+972;Internationaal tankvervoer;1995 2e kwartaal;99.8;0.3;-0.1;412
+973;Internationaal tankvervoer;1995 3e kwartaal;100.2;0.4;0.8;412
+974;Internationaal tankvervoer;1995 4e kwartaal;99.8;-0.4;0.4;412
+975;Internationaal tankvervoer;1995;99.8;;0.1;412
+976;Internationaal tankvervoer;1996 1e kwartaal;99.7;-0.1;0.2;412
+977;Internationaal tankvervoer;1996 2e kwartaal;99.8;0.1;0.0;412
+978;Internationaal tankvervoer;1996 3e kwartaal;100.1;0.3;-0.1;412
+979;Internationaal tankvervoer;1996 4e kwartaal;100.3;0.2;0.5;412
+980;Internationaal tankvervoer;1996;100.0;;0.2;412
+981;Internationaal tankvervoer;1997 1e kwartaal;100.2;-0.1;0.5;412
+982;Internationaal tankvervoer;1997 2e kwartaal;100.3;0.1;0.5;412
+983;Internationaal tankvervoer;1997 3e kwartaal;100.3;0.0;0.2;412
+984;Internationaal tankvervoer;1997 4e kwartaal;99.7;-0.6;-0.6;412
+985;Internationaal tankvervoer;1997;100.2;;0.2;412
+986;Internationaal tankvervoer;1998 1e kwartaal;101.9;2.2;1.7;412
+987;Internationaal tankvervoer;1998 2e kwartaal;101.6;-0.3;1.3;412
+988;Internationaal tankvervoer;1998 3e kwartaal;100.8;-0.8;0.5;412
+989;Internationaal tankvervoer;1998 4e kwartaal;100.8;0.0;1.1;412
+990;Internationaal tankvervoer;1998;101.3;;1.1;412
+991;Internationaal tankvervoer;1999 1e kwartaal;100.7;-0.1;-1.2;412
+992;Internationaal tankvervoer;1999 2e kwartaal;99.4;-1.3;-2.2;412
+993;Internationaal tankvervoer;1999 3e kwartaal;99.4;0.0;-1.4;412
+994;Internationaal tankvervoer;1999 4e kwartaal;99.4;0.0;-1.4;412
+995;Internationaal tankvervoer;1999;99.7;;-1.6;412
+996;Internationaal tankvervoer;2000 1e kwartaal;102.9;3.5;2.2;412
+997;Internationaal tankvervoer;2000 2e kwartaal;105.5;2.5;6.1;412
+998;Internationaal tankvervoer;2000 3e kwartaal;104.9;-0.6;5.5;412
+999;Internationaal tankvervoer;2000 4e kwartaal;106.3;1.3;6.9;412
+1000;Internationaal tankvervoer;2000;104.9;;5.2;412
+1001;Internationaal tankvervoer;2001 1e kwartaal;105.9;-0.4;2.9;412
+1002;Internationaal tankvervoer;2001 2e kwartaal;107.5;1.5;1.9;412
+1003;Internationaal tankvervoer;2001 3e kwartaal;107.9;0.4;2.9;412
+1004;Internationaal tankvervoer;2001 4e kwartaal;109.2;1.2;2.7;412
+1005;Internationaal tankvervoer;2001;107.6;;2.6;412
+1006;Internationaal tankvervoer;2002 1e kwartaal;108.7;-0.5;2.6;412
+1007;Internationaal tankvervoer;2002 2e kwartaal;109.0;0.3;1.4;412
+1008;Internationaal tankvervoer;2002 3e kwartaal;109.2;0.2;1.2;412
+1009;Internationaal tankvervoer;2002 4e kwartaal;109.2;0.0;0.0;412
+1010;Internationaal tankvervoer;2002;109.0;;1.3;412
+1011;Internationaal tankvervoer;2003 1e kwartaal;110.7;1.4;1.8;412
+1012;Internationaal kippervervoer;1994 1e kwartaal;100.0;;;47
+1013;Internationaal kippervervoer;1994 2e kwartaal;100.0;0.0;;47
+1014;Internationaal kippervervoer;1994 3e kwartaal;98.3;-1.7;;47
+1015;Internationaal kippervervoer;1994 4e kwartaal;98.3;0.0;;47
+1016;Internationaal kippervervoer;1994;99.1;;;47
+1017;Internationaal kippervervoer;1995 1e kwartaal;98.3;0.0;-1.7;47
+1018;Internationaal kippervervoer;1995 2e kwartaal;98.2;-0.1;-1.8;47
+1019;Internationaal kippervervoer;1995 3e kwartaal;100.2;2.0;1.9;47
+1020;Internationaal kippervervoer;1995 4e kwartaal;100.2;0.0;1.9;47
+1021;Internationaal kippervervoer;1995;99.2;;0.1;47
+1022;Internationaal kippervervoer;1996 1e kwartaal;100.5;0.3;2.2;47
+1023;Internationaal kippervervoer;1996 2e kwartaal;97.4;-3.1;-0.8;47
+1024;Internationaal kippervervoer;1996 3e kwartaal;97.3;-0.1;-2.9;47
+1025;Internationaal kippervervoer;1996 4e kwartaal;100.6;3.4;0.4;47
+1026;Internationaal kippervervoer;1996;98.9;;-0.3;47
+1027;Internationaal kippervervoer;1997 1e kwartaal;100.6;0.0;0.1;47
+1028;Internationaal kippervervoer;1997 2e kwartaal;100.6;0.0;3.3;47
+1029;Internationaal kippervervoer;1997 3e kwartaal;100.6;0.0;3.4;47
+1030;Internationaal kippervervoer;1997 4e kwartaal;100.6;0.0;0.0;47
+1031;Internationaal kippervervoer;1997;100.6;;1.7;47
+1032;Internationaal kippervervoer;1998 1e kwartaal;104.3;3.7;3.7;47
+1033;Internationaal kippervervoer;1998 2e kwartaal;104.6;0.3;4.0;47
+1034;Internationaal kippervervoer;1998 3e kwartaal;104.4;-0.2;3.8;47
+1035;Internationaal kippervervoer;1998 4e kwartaal;104.3;-0.1;3.7;47
+1036;Internationaal kippervervoer;1998;104.4;;3.8;47
+1037;Internationaal kippervervoer;1999 1e kwartaal;103.7;-0.6;-0.6;47
+1038;Internationaal kippervervoer;1999 2e kwartaal;103.7;0.0;-0.9;47
+1039;Internationaal kippervervoer;1999 3e kwartaal;105.8;2.0;1.3;47
+1040;Internationaal kippervervoer;1999 4e kwartaal;105.6;-0.2;1.2;47
+1041;Internationaal kippervervoer;1999;104.7;;0.3;47
+1042;Internationaal kippervervoer;2000 1e kwartaal;107.7;2.0;3.9;47
+1043;Internationaal kippervervoer;2000 2e kwartaal;110.6;2.7;6.7;47
+1044;Internationaal kippervervoer;2000 3e kwartaal;109.8;-0.7;3.8;47
+1045;Internationaal kippervervoer;2000 4e kwartaal;109.6;-0.2;3.8;47
+1046;Internationaal kippervervoer;2000;109.4;;4.5;47
+1047;Internationaal kippervervoer;2001 1e kwartaal;109.7;0.1;1.9;47
+1048;Internationaal kippervervoer;2001 2e kwartaal;109.7;0.0;-0.8;47
+1049;Internationaal kippervervoer;2001 3e kwartaal;109.7;0.0;-0.1;47
+1050;Internationaal kippervervoer;2001 4e kwartaal;112.7;2.7;2.8;47
+1051;Internationaal kippervervoer;2001;110.5;;1.0;47
+1052;Internationaal kippervervoer;2002 1e kwartaal;117.4;4.2;7.0;47
+1053;Internationaal kippervervoer;2002 2e kwartaal;115.1;-2.0;4.9;47
+1054;Internationaal kippervervoer;2002 3e kwartaal;115.1;0.0;4.9;47
+1055;Internationaal kippervervoer;2002 4e kwartaal;115.1;0.0;2.1;47
+1056;Internationaal kippervervoer;2002;115.7;;4.7;47
+1057;Internationaal kippervervoer;2003 1e kwartaal;115.1;0.0;-2.0;47
+1058;Internationaal overig vervoer;1994 1e kwartaal;100.0;;;1400
+1059;Internationaal overig vervoer;1994 2e kwartaal;100.0;0.0;;1400
+1060;Internationaal overig vervoer;1994 3e kwartaal;99.9;-0.1;;1400
+1061;Internationaal overig vervoer;1994 4e kwartaal;100.0;0.1;;1400
+1062;Internationaal overig vervoer;1994;100.0;;;1400
+1063;Internationaal overig vervoer;1995 1e kwartaal;98.0;-2.0;-2.0;1400
+1064;Internationaal overig vervoer;1995 2e kwartaal;97.5;-0.5;-2.5;1400
+1065;Internationaal overig vervoer;1995 3e kwartaal;98.1;0.6;-1.8;1400
+1066;Internationaal overig vervoer;1995 4e kwartaal;97.6;-0.5;-2.4;1400
+1067;Internationaal overig vervoer;1995;97.8;;-2.2;1400
+1068;Internationaal overig vervoer;1996 1e kwartaal;100.1;2.6;2.1;1400
+1069;Internationaal overig vervoer;1996 2e kwartaal;100.9;0.8;3.5;1400
+1070;Internationaal overig vervoer;1996 3e kwartaal;100.3;-0.6;2.2;1400
+1071;Internationaal overig vervoer;1996 4e kwartaal;100.6;0.3;3.1;1400
+1072;Internationaal overig vervoer;1996;100.5;;2.8;1400
+1073;Internationaal overig vervoer;1997 1e kwartaal;101.5;0.9;1.4;1400
+1074;Internationaal overig vervoer;1997 2e kwartaal;101.5;0.0;0.6;1400
+1075;Internationaal overig vervoer;1997 3e kwartaal;101.4;-0.1;1.1;1400
+1076;Internationaal overig vervoer;1997 4e kwartaal;101.7;0.3;1.1;1400
+1077;Internationaal overig vervoer;1997;101.5;;1.0;1400
+1078;Internationaal overig vervoer;1998 1e kwartaal;102.7;1.0;1.2;1400
+1079;Internationaal overig vervoer;1998 2e kwartaal;103.6;0.9;2.1;1400
+1080;Internationaal overig vervoer;1998 3e kwartaal;103.6;0.0;2.2;1400
+1081;Internationaal overig vervoer;1998 4e kwartaal;103.6;0.0;1.9;1400
+1082;Internationaal overig vervoer;1998;103.4;;1.9;1400
+1083;Internationaal overig vervoer;1999 1e kwartaal;104.9;1.3;2.1;1400
+1084;Internationaal overig vervoer;1999 2e kwartaal;104.9;0.0;1.3;1400
+1085;Internationaal overig vervoer;1999 3e kwartaal;103.8;-1.0;0.2;1400
+1086;Internationaal overig vervoer;1999 4e kwartaal;104.2;0.4;0.6;1400
+1087;Internationaal overig vervoer;1999;104.5;;1.1;1400
+1088;Internationaal overig vervoer;2000 1e kwartaal;106.7;2.4;1.7;1400
+1089;Internationaal overig vervoer;2000 2e kwartaal;107.1;0.4;2.1;1400
+1090;Internationaal overig vervoer;2000 3e kwartaal;107.3;0.2;3.4;1400
+1091;Internationaal overig vervoer;2000 4e kwartaal;108.7;1.3;4.3;1400
+1092;Internationaal overig vervoer;2000;107.4;;2.8;1400
+1093;Internationaal overig vervoer;2001 1e kwartaal;108.7;0.0;1.9;1400
+1094;Internationaal overig vervoer;2001 2e kwartaal;107.7;-0.9;0.6;1400
+1095;Internationaal overig vervoer;2001 3e kwartaal;107.9;0.2;0.6;1400
+1096;Internationaal overig vervoer;2001 4e kwartaal;110.0;1.9;1.2;1400
+1097;Internationaal overig vervoer;2001;108.6;;1.1;1400
+1098;Internationaal overig vervoer;2002 1e kwartaal;110.0;0.0;1.2;1400
+1099;Internationaal overig vervoer;2002 2e kwartaal;112.0;1.8;4.0;1400
+1100;Internationaal overig vervoer;2002 3e kwartaal;112.0;0.0;3.8;1400
+1101;Internationaal overig vervoer;2002 4e kwartaal;113.3;1.2;3.0;1400
+1102;Internationaal overig vervoer;2002;111.8;;2.9;1400
+1103;Internationaal overig vervoer;2003 1e kwartaal;116.7;3.0;6.1;1400

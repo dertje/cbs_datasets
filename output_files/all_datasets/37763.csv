@@ -1,0 +1,55 @@
+﻿ID;Geslacht;Bedrijfstak;Perioden;MensenMetOuderschapsverlof_1;DuurOuderschapsverlof_2;TotaalOuderschapsverlofGebruikers_3;RechthebbendenOuderschapsverlof20Uur_4;RechthebbendenOuderschapsverlof12Uur_5;GebruikOuderschapsverlof20Uur_6;GebruikOuderschapsverlof12Uur_7;UrenOuderschapsverlofPerWeek_8;ArbeidsduurPerWeek_9
+0;Totaal mannen en vrouwen;Alle bedrijfstakken;1992/'94;17;23;39;227;;17;;13;34
+1;Totaal mannen en vrouwen;Alle bedrijfstakken;1993/'95;19;26;39;228;;17;;12;34
+2;Totaal mannen en vrouwen;Alle bedrijfstakken;1994/'96;21;26;44;231;;19;;12;33
+3;Totaal mannen en vrouwen;Alle bedrijfstakken;1995/'97;22;25;47;233;;20;;11;33
+4;Totaal mannen en vrouwen;Alle bedrijfstakken;1996/'98;25;25;54;245;269.0;22;20.0;11;33
+5;Totaal mannen en vrouwen;Alle bedrijfstakken;1997/'99;27;27;58;251;276.0;23;21.0;11;33
+6;Totaal mannen en vrouwen;Openbaar bestuur, onderwijs, gezondheid;1992/'94;12;23;28;64;;44;;12;32
+7;Totaal mannen en vrouwen;Openbaar bestuur, onderwijs, gezondheid;1993/'95;14;27;28;65;;44;;12;32
+8;Totaal mannen en vrouwen;Openbaar bestuur, onderwijs, gezondheid;1994/'96;15;27;30;65;;47;;11;32
+9;Totaal mannen en vrouwen;Openbaar bestuur, onderwijs, gezondheid;1995/'97;16;28;30;63;;47;;11;31
+10;Totaal mannen en vrouwen;Openbaar bestuur, onderwijs, gezondheid;1996/'98;16;28;32;65;76.0;49;42.0;10;31
+11;Totaal mannen en vrouwen;Openbaar bestuur, onderwijs, gezondheid;1997/'99;17;29;34;64;77.0;53;45.0;10;31
+12;Totaal mannen en vrouwen;Overige bedrijfstakken;1992/'94;5;24;11;164;;6;;14;34
+13;Totaal mannen en vrouwen;Overige bedrijfstakken;1993/'95;5;25;11;163;;7;;13;34
+14;Totaal mannen en vrouwen;Overige bedrijfstakken;1994/'96;6;23;14;166;;8;;12;34
+15;Totaal mannen en vrouwen;Overige bedrijfstakken;1995/'97;7;21;18;170;;10;;12;34
+16;Totaal mannen en vrouwen;Overige bedrijfstakken;1996/'98;8;21;22;181;193.0;12;12.0;12;34
+17;Totaal mannen en vrouwen;Overige bedrijfstakken;1997/'99;10;24;24;187;199.0;13;12.0;11;34
+18;Mannen;Alle bedrijfstakken;1992/'94;7;27;14;170;;8;;11;39
+19;Mannen;Alle bedrijfstakken;1993/'95;8;31;14;166;;9;;10;39
+20;Mannen;Alle bedrijfstakken;1994/'96;9;28;17;165;;10;;9;39
+21;Mannen;Alle bedrijfstakken;1995/'97;9;22;21;164;;13;;9;39
+22;Mannen;Alle bedrijfstakken;1996/'98;9;22;22;169;170.0;13;13.0;9;38
+23;Mannen;Alle bedrijfstakken;1997/'99;9;25;20;171;172.0;12;12.0;8;38
+24;Mannen;Openbaar bestuur, onderwijs, gezondheid;1992/'94;5;28;10;34;;30;;10;39
+25;Mannen;Openbaar bestuur, onderwijs, gezondheid;1993/'95;6;33;10;33;;31;;10;39
+26;Mannen;Openbaar bestuur, onderwijs, gezondheid;1994/'96;6;32;11;31;;35;;9;38
+27;Mannen;Openbaar bestuur, onderwijs, gezondheid;1995/'97;6;26;13;29;;45;;9;38
+28;Mannen;Openbaar bestuur, onderwijs, gezondheid;1996/'98;6;26;12;28;28.0;43;43.0;8;38
+29;Mannen;Openbaar bestuur, onderwijs, gezondheid;1997/'99;5;28;11;28;28.0;38;38.0;8;37
+30;Mannen;Overige bedrijfstakken;1992/'94;2;23;4;135;;3;;12;39
+31;Mannen;Overige bedrijfstakken;1993/'95;2;26;4;133;;3;;10;39
+32;Mannen;Overige bedrijfstakken;1994/'96;2;21;6;134;;5;;9;39
+33;Mannen;Overige bedrijfstakken;1995/'97;2;15;9;135;;6;;9;39
+34;Mannen;Overige bedrijfstakken;1996/'98;3;18;10;141;142.0;7;7.0;10;39
+35;Mannen;Overige bedrijfstakken;1997/'99;3;22;10;143;144.0;7;7.0;9;38
+36;Vrouwen;Alle bedrijfstakken;1992/'94;10;21;24;57;;43;;14;26
+37;Vrouwen;Alle bedrijfstakken;1993/'95;11;24;25;62;;40;;13;26
+38;Vrouwen;Alle bedrijfstakken;1994/'96;12;24;27;66;;41;;13;26
+39;Vrouwen;Alle bedrijfstakken;1995/'97;14;28;26;70;;37;;13;26
+40;Vrouwen;Alle bedrijfstakken;1996/'98;16;27;32;76;98.0;42;33.0;12;26
+41;Vrouwen;Alle bedrijfstakken;1997/'99;18;27;37;80;104.0;47;36.0;12;26
+42;Vrouwen;Openbaar bestuur, onderwijs, gezondheid;1992/'94;7;20;18;29;;62;;14;27
+43;Vrouwen;Openbaar bestuur, onderwijs, gezondheid;1993/'95;8;24;18;32;;58;;13;27
+44;Vrouwen;Openbaar bestuur, onderwijs, gezondheid;1994/'96;9;24;20;34;;58;;13;27
+45;Vrouwen;Openbaar bestuur, onderwijs, gezondheid;1995/'97;9;30;17;35;;49;;12;27
+46;Vrouwen;Openbaar bestuur, onderwijs, gezondheid;1996/'98;11;29;20;37;48.0;54;41.0;11;26
+47;Vrouwen;Openbaar bestuur, onderwijs, gezondheid;1997/'99;12;29;23;36;48.0;65;48.0;11;26
+48;Vrouwen;Overige bedrijfstakken;1992/'94;3;25;6;28;;23;;16;25
+49;Vrouwen;Overige bedrijfstakken;1993/'95;3;25;7;30;;22;;14;25
+50;Vrouwen;Overige bedrijfstakken;1994/'96;3;25;8;32;;24;;14;25
+51;Vrouwen;Overige bedrijfstakken;1995/'97;4;26;9;35;;25;;14;25
+52;Vrouwen;Overige bedrijfstakken;1996/'98;5;24;12;40;50.0;31;24.0;13;25
+53;Vrouwen;Overige bedrijfstakken;1997/'99;6;25;14;44;55.0;32;25.0;13;25

@@ -1,0 +1,89 @@
+﻿ID;TypeOfAppeal;Periods;AppealsPendingAtTheBegOfThePeriod_1;AppealsSubmitted_2;SimplifiedProcedure_3;ProtestsSubmitted_4;DroppedInadmissibleUnfounded_5;AdmittedProtests_6;DecisionsMade_7;CourtDecisions_8;AppealsPendingAtTheEndOfThePeriod_9
+0;Decisions and actions SIO;1992 1st  quarter;1422;775;84;29;16;0;139;621;1366
+1;Decisions and actions SIO;1992 first six months;1422;1608;203;64;48;2;297;1113;1433
+2;Decisions and actions SIO;1992 1st-3rd quarter;1422;1982;307;99;53;3;408;1443;1292
+3;Decisions and actions SIO;1992 Total;1422;2161;343;110;106;4;529;1600;1115
+4;Decisions and actions SIO;1993 1st  quarter;1115;218;32;18;4;3;116;185;1014
+5;Decisions and actions SIO;1993 first six months;1115;496;57;29;28;3;249;301;1005
+6;Decisions and actions SIO;1993 1st-3rd quarter;1115;1173;91;44;28;3;388;482;1343
+7;Decisions and actions SIO;1993 Total;1115;3083;190;53;39;4;512;588;2922
+8;Decisions and actions SIO;1994 1st  quarter;2922;1680;164;51;22;1;204;126;4137
+9;Decisions and actions SIO;1994 first six months;2922;2259;398;121;71;2;343;268;4222
+10;Decisions and actions SIO;1994 1st-3rd quarter;2922;2835;728;151;110;4;444;357;4269
+11;Decisions and actions SIO;1994 Total;2922;3183;965;191;156;14;584;443;4148
+12;Decisions and actions SIO;1995 1st  quarter;4148;363;89;18;31;1;120;166;4123
+13;Decisions and actions SIO;1995 first six months;4148;822;146;42;40;2;266;263;4297
+14;Decisions and actions SIO;1995 1st-3rd quarter;4148;1278;304;74;73;3;377;399;4347
+15;Decisions and actions SIO;1995 Total;4148;1558;389;93;100;3;513;506;4291
+16;Decisions and actions SIO;1996 1st  quarter;4291;308;100;12;13;1;202;146;4150
+17;Decisions and actions SIO;1996 first six months;4291;605;145;26;36;3;306;245;4190
+18;Decisions and actions SIO;1996 1st-3rd quarter;4291;871;193;32;46;3;521;789;3645
+19;Decisions and actions SIO;1996 Total;4291;1050;287;50;59;3;647;2564;1834
+20;Decisions and actions SIO;1997 1st  quarter;1834;415;41;4;15;0;88;487;1622
+21;Decisions and actions SIO;1997 first six months;1834;779;132;17;18;1;236;680;1564
+22;Decisions and actions SIO;1997 1st-3rd quarter;1834;1064;195;33;34;3;333;774;1595
+23;Decisions and actions SIO;1997 Total;1834;1579;441;53;42;5;456;916;1611
+24;Decisions and actions SIO;1998 1st  quarter;1611;228;76;6;21;1;86;129;1533
+25;Decisions and actions SIO;1998 first six months;1611;592;89;11;22;1;192;239;1672
+26;Decisions and actions SIO;1998 1st-3rd quarter;1611;978;208;26;25;2;310;428;1644
+27;Decisions and actions SIO;1998 Total;1611;1326;270;32;43;2;490;529;1637
+28;Decisions and actions SIO;1999 1st  quarter;1637;324;62;9;2;1;122;106;1678
+29;Decisions and actions SIO;1999 first six months;1637;545;97;10;10;1;270;208;1607
+30;Decisions and actions SIO;1999 1st-3rd quarter;1637;762;134;20;11;3;426;305;1543
+31;Decisions and actions SIO;1999 Total;1637;1021;194;21;22;5;569;415;1479
+32;Decisions and actions SIO;2000 1st  quarter;1479;252;103;14;5;2;159;141;1337
+33;Decisions and actions SIO;2000 first six months;1479;515;137;21;11;4;294;349;1224
+34;Decisions and actions SIO;2000 1st-3rd quarter;1479;741;179;25;12;5;425;416;1213
+35;Decisions and actions SIO;2000 Total;1479;945;206;31;17;5;501;484;1247
+36;Decisions and actions SIO;2001 1st  quarter;1247;226;6;1;3;0;150;112;1203
+37;Decisions and actions SIO;2001 first six months;1247;464;42;5;6;0;315;221;1132
+38;Decisions and actions SIO;2001 1st-3rd quarter;1247;724;81;11;14;1;600;314;973
+39;Decisions and actions SIO;2001 Total;1247;1057;110;17;15;1;722;376;1098
+40;Decisions and actions SIO;2002 1st quarter;1098;493;29;3;6;0;143;305;1111
+41;Decisions and actions SIO;2002 first six months;1098;1222;48;13;15;0;295;420;1555
+42;Decisions and actions SIO;2002 1st-3rd quarter;1098;1559;175;24;17;0;420;493;1576
+43;Decisions and actions SIO;2002 Total;1098;1938;375;34;27;0;562;629;1477
+44;Disciplinary actions;1992 1st  quarter;18;4;2;1;1;0;3;0;17
+45;Disciplinary actions;1992 first six months;18;6;2;1;3;0;10;0;10
+46;Disciplinary actions;1992 1st-3rd quarter;18;6;2;1;3;0;10;1;9
+47;Disciplinary actions;1992 Total;18;15;2;1;3;0;13;1;15
+48;Disciplinary actions;1993 1st  quarter;15;14;0;0;0;0;6;0;23
+49;Disciplinary actions;1993 first six months;15;17;5;0;0;0;10;0;17
+50;Disciplinary actions;1993 1st-3rd quarter;15;19;6;0;0;0;15;0;13
+51;Disciplinary actions;1993 Total;15;23;6;0;0;0;22;0;10
+52;Disciplinary actions;1994 1st  quarter;10;4;0;0;0;0;1;0;13
+53;Disciplinary actions;1994 first six months;10;6;0;0;0;0;5;0;11
+54;Disciplinary actions;1994 1st-3rd quarter;10;15;0;0;0;0;7;1;17
+55;Disciplinary actions;1994 Total;10;29;3;2;1;0;7;3;27
+56;Disciplinary actions;1995 1st  quarter;27;9;0;0;1;0;6;1;28
+57;Disciplinary actions;1995 first six months;27;13;1;0;1;0;12;1;25
+58;Disciplinary actions;1995 1st-3rd quarter;27;28;1;0;1;0;16;1;36
+59;Disciplinary actions;1995 Total;27;41;2;1;1;0;25;1;40
+60;Disciplinary actions;1996 1st  quarter;40;13;1;1;0;0;2;4;47
+61;Disciplinary actions;1996 first six months;40;27;3;2;2;0;16;3;45
+62;Disciplinary actions;1996 1st-3rd quarter;40;39;3;2;2;0;22;3;51
+63;Disciplinary actions;1996 Total;40;47;6;4;2;0;27;6;50
+64;Disciplinary actions;1997 1st  quarter;50;16;0;0;2;0;7;2;55
+65;Disciplinary actions;1997 first six months;50;34;1;1;2;0;18;5;59
+66;Disciplinary actions;1997 1st-3rd quarter;50;51;1;1;3;1;19;10;69
+67;Disciplinary actions;1997 Total;50;63;1;1;3;1;26;10;74
+68;Disciplinary actions;1998 1st  quarter;74;12;2;0;0;0;12;0;72
+69;Disciplinary actions;1998 first six months;74;29;3;1;0;0;28;1;72
+70;Disciplinary actions;1998 1st-3rd quarter;74;38;5;2;0;0;45;1;63
+71;Disciplinary actions;1998 Total;74;55;5;2;1;0;48;4;73
+72;Disciplinary actions;1999 1st  quarter;73;8;2;1;0;0;3;2;75
+73;Disciplinary actions;1999 first six months;73;26;2;1;0;0;19;3;76
+74;Disciplinary actions;1999 1st-3rd quarter;73;33;3;1;1;0;24;3;76
+75;Disciplinary actions;1999 Total;73;43;5;2;3;0;37;6;67
+76;Disciplinary actions;2000 1st  quarter;67;20;1;1;0;0;16;2;69
+77;Disciplinary actions;2000 first six months;67;29;2;2;2;0;28;3;63
+78;Disciplinary actions;2000 1st-3rd quarter;67;41;2;2;2;0;35;7;64
+79;Disciplinary actions;2000 Total;67;50;4;3;3;0;50;7;56
+80;Disciplinary actions;2001 1st  quarter;56;11;0;0;0;0;7;1;59
+81;Disciplinary actions;2001 first six months;56;24;0;0;0;0;20;3;57
+82;Disciplinary actions;2001 1st-3rd quarter;56;37;2;1;0;0;27;5;60
+83;Disciplinary actions;2001 Total;56;53;2;1;0;0;37;6;65
+84;Disciplinary actions;2002 1st quarter;65;14;2;0;0;0;20;0;57
+85;Disciplinary actions;2002 first six months;65;33;2;0;0;0;38;1;57
+86;Disciplinary actions;2002 1st-3rd quarter;65;60;2;0;0;0;60;4;59
+87;Disciplinary actions;2002 Total;65;74;2;0;0;0;74;6;57

@@ -1,0 +1,33 @@
+﻿ID;Huishoudenskenmerken;Perioden;TotaalHuishouden_1;AantalMetBijzondereBijstand_2;GemiddeldBedragBijzondereBijstand_3;TotaalMetInkomenTot105_4;AantalMetBijzonderBijstand_5;GemiddeldBedragBijzondereBijstand_6;TotaalMetInkomen105Tot120_7;AantalMetBijzonderBijstand_8;GemiddeldBedragBijzondereBijstand_9;Tot227Euro_10;k_227Tot454Euro_11;k_454Tot681Euro_12;k_681Tot908Euro_13;k_908Tot1361Euro_14;MeerDan1360Euro_15
+0;Totaal huishoudens;1999;6868;267;0.7;630;152;0.6;417;43.0;0.7;107;57.0;32.0;16.0;22.0;32.0
+1;Totaal huishoudens;2000;6941;258;0.3;605;144;0.3;402;41.0;0.3;162;46.0;19.0;10.0;10.0;11.0
+2;Alleenstaande man, tot 65 jaar;1999;908;38;0.6;101;22;0.5;38;5.0;0.5;17;7.0;4.0;2.0;2.0;5.0
+3;Alleenstaande man, tot 65 jaar;2000;940;40;0.3;99;23;0.3;37;4.0;0.3;26;5.0;3.0;2.0;2.0;
+4;Alleenstaande vrouw, tot 65 jaar;1999;707;37;0.6;98;25;0.4;43;5.0;0.5;17;8.0;3.0;3.0;2.0;4.0
+5;Alleenstaande vrouw, tot 65 jaar;2000;712;36;0.3;100;26;0.3;38;5.0;0.2;25;5.0;2.0;;;2.0
+6;Alleenstaande man, 65 jaar en ouder;1999;165;4;0.4;18;2;0.4;26;1.0;0.8;2;;;0.0;0.0;
+7;Alleenstaande man, 65 jaar en ouder;2000;168;4;0.3;19;3;0.2;24;;0.2;3;;;0.0;;0.0
+8;Alleenstaande vrouw, 65 jaar en ouder;1999;583;22;0.6;110;18;0.5;122;3.0;0.9;8;6.0;3.0;;2.0;
+9;Alleenstaande vrouw, 65 jaar en ouder;2000;589;23;0.3;104;18;0.3;120;4.0;0.3;17;4.0;;;;
+10;Eenoudergezin met minderjarige kinderen;1999;286;80;0.7;111;51;0.6;39;14.0;0.9;32;17.0;9.0;5.0;7.0;10.0
+11;Eenoudergezin met minderjarige kinderen;2000;302;75;0.4;111;46;0.4;42;14.0;0.3;44;14.0;6.0;3.0;3.0;4.0
+12;(Echt)paar met minderjarige kinderen;1999;1558;38;0.7;70;16;0.7;36;7.0;0.7;11;9.0;6.0;3.0;4.0;6.0
+13;(Echt)paar met minderjarige kinderen;2000;1575;36;0.4;64;14;0.4;33;7.0;0.3;19;8.0;3.0;2.0;2.0;2.0
+14;(Echt)paar zonder minderjarige kinderen;1999;2445;32;0.7;112;15;0.7;104;5.0;0.5;13;6.0;4.0;2.0;2.0;3.0
+15;(Echt)paar zonder minderjarige kinderen;2000;2474;31;0.3;101;12;0.3;101;5.0;0.2;20;6.0;2.0;1.0;1.0;1.0
+16;Overige huishoudens;1999;216;16;0.6;11;2;0.7;9;2.0;0.7;6;3.0;2.0;1.0;2.0;2.0
+17;Overige huishoudens;2000;181;14;0.3;8;1;0.2;7;2.0;0.3;8;3.0;1.0;;;
+18;Met hoofdkostwinner jonger dan 65 jaar;1999;1793;23;0.7;75;10;0.8;33;3.0;0.7;10;4.0;3.0;2.0;2.0;3.0
+19;Met hoofdkostwinner jonger dan 65 jaar;2000;1804;21;0.3;66;8;0.3;33;3.0;0.4;14;4.0;1.0;;1.0;1.0
+20;Met hoofdkostwinner van 65 jaar en ouder;1999;652;9;0.5;37;5;0.6;70;2.0;0.4;4;2.0;2.0;;;
+21;Met hoofdkostwinner van 65 jaar en ouder;2000;670;10;0.2;35;5;0.2;67;3.0;0.2;7;2.0;;;;
+22;Actief;1999;4518;51;0.7;156;8;0.8;96;12.0;0.8;20;10.0;6.0;4.0;5.0;6.0
+23;Actief;2000;4566;50;0.3;166;9;0.4;86;9.0;0.3;33;8.0;4.0;2.0;2.0;2.0
+24;Niet-actief;1999;2350;216;0.6;474;144;0.6;321;31.0;0.7;88;47.0;26.0;12.0;17.0;26.0
+25;Niet-actief;2000;2375;208;0.3;440;136;0.3;316;33.0;0.3;130;39.0;15.0;8.0;8.0;9.0
+26;Ontvanger van bijstands- en ww uitkering;1999;401;160;0.7;226;108;0.6;45;21.0;0.7;66;33.0;17.0;10.0;13.0;21.0
+27;Ontvanger van bijstands- en ww uitkering;2000;366;148;0.4;210;100;0.3;42;19.0;0.3;90;27.0;10.0;6.0;6.0;8.0
+28;Arbeidsongeschikte;1999;270;18;0.6;59;10;0.6;43;4.0;0.5;7;5.0;3.0;1.0;1.0;2.0
+29;Arbeidsongeschikte;2000;290;22;0.3;57;10;0.4;50;6.0;0.3;13;4.0;2.0;1.0;;
+30;Pensioenontvanger;1999;1609;37;0.5;178;24;0.5;233;7.0;0.7;15;10.0;5.0;1.0;3.0;3.0
+31;Pensioenontvanger;2000;1643;37;0.3;169;25;0.3;224;7.0;0.2;26;7.0;2.0;1.0;;

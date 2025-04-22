@@ -1,0 +1,19 @@
+﻿ID;Geslacht;Dienstverband;Perioden;TotaalWerknemers_1;Medici_2;KlinischChemici_3;AnderLaboratoriumpersoneel_4;AfnamePersoneel_5;MedischAdministratiefPersoneel_6;Directie_7;OverigPersoneel_8;TotaalFTEWerknemers_9;Medici_10;KlinischChemici_11;AnderLaboratoriumpersoneel_12;AfnamePersoneel_13;MedischAdministratiefPersoneel_14;Directie_15;OverigPersoneel_16;TotaalOverigeWerkzamePersonen_17
+0;Totaal mannen en vrouwen;Totaal dienstverband;2001;847;73;7;63;561;77;26;40;393.8;22.5;1.6;34.1;258.2;46.3;10.7;20.3;8.5
+1;Totaal mannen en vrouwen;Totaal dienstverband;2002;723;60;5;60;473;67;15;43;353.1;19.6;0.6;35.4;228.3;40.7;8.9;19.6;10.6
+2;Totaal mannen en vrouwen;Fulltime dienstverband;2001;44;1;0;7;18;10;3;5;44.0;1.0;0.0;7.0;18.0;10.0;3.0;5.0;
+3;Totaal mannen en vrouwen;Fulltime dienstverband;2002;42;2;0;10;14;6;3;7;42.0;2.0;0.0;10.0;14.0;6.0;3.0;7.0;
+4;Totaal mannen en vrouwen;Parttime dienstverband;2001;803;72;7;56;543;67;23;35;349.7;21.5;1.6;27.1;240.2;36.3;7.7;15.3;
+5;Totaal mannen en vrouwen;Parttime dienstverband;2002;681;58;5;50;459;61;12;36;311.1;17.6;0.6;25.4;214.3;34.7;5.9;12.6;
+6;Mannen;Totaal dienstverband;2001;82;41;5;5;7;3;10;11;29.8;10.4;1.3;2.8;6.5;1.7;2.7;4.4;
+7;Mannen;Totaal dienstverband;2002;61;33;3;4;4;1;7;9;22.0;9.4;0.3;1.8;3.9;0.5;3.4;2.7;
+8;Mannen;Fulltime dienstverband;2001;8;1;0;2;3;1;0;1;8.0;1.0;0.0;2.0;3.0;1.0;0.0;1.0;
+9;Mannen;Fulltime dienstverband;2002;7;1;0;1;3;0;1;1;7.0;1.0;0.0;1.0;3.0;0.0;1.0;1.0;
+10;Mannen;Parttime dienstverband;2001;74;40;5;3;4;2;10;10;21.8;9.4;1.3;0.8;3.5;0.7;2.7;3.4;
+11;Mannen;Parttime dienstverband;2002;54;32;3;3;1;1;6;8;15.0;8.4;0.3;0.8;0.9;0.5;2.4;1.7;
+12;Vrouwen;Totaal dienstverband;2001;765;32;2;58;554;74;16;29;363.9;12.1;0.3;31.3;251.7;44.6;8.0;15.9;
+13;Vrouwen;Totaal dienstverband;2002;662;27;2;56;469;66;8;34;331.1;10.2;0.3;33.6;224.4;40.2;5.5;16.9;
+14;Vrouwen;Fulltime dienstverband;2001;36;0;0;5;15;9;3;4;36.0;0.0;0.0;5.0;15.0;9.0;3.0;4.0;
+15;Vrouwen;Fulltime dienstverband;2002;35;1;0;9;11;6;2;6;35.0;1.0;0.0;9.0;11.0;6.0;2.0;6.0;
+16;Vrouwen;Parttime dienstverband;2001;729;32;2;53;539;65;13;25;327.9;12.1;0.3;26.3;236.7;35.6;5.0;11.9;
+17;Vrouwen;Parttime dienstverband;2002;627;26;2;47;458;60;6;28;296.1;9.2;0.3;24.6;213.4;34.2;3.5;10.9;

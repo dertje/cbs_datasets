@@ -1,0 +1,21 @@
+﻿ID;HuishoudensNaarInkomenspositie;Perioden;TotaalAantalParticuliereHuishoudens_1;HuishoudensMetEigenWoning_2;HuishoudensZonderEigenWoning_3;TeKlein_4;TeDonker_5;SlechteVerwarming_6;LekkendDak_7;VochtigeMurenOfVloeren_8;VerrotteRaamkozijnenOfVloeren_9;TeGehorig_10;GeluidsoverlastVanBuren_11;GeluidsoverlastFabriekenVerkeerEtc_12;Stankoverlast_13;LastVanVandalismeOfMisdaad_14;HuishMetTeZwareVasteWoonlasten_15
+0;1;1996;6192.0;47.0;53.0;;;;;;;;;;;;
+1;1;1998;6413.0;51.0;49.0;10.0;6.0;6.0;3.0;9.0;8.0;22.0;19.0;19.0;11.0;17.0;25.0
+2;1;1999;6453.0;51.0;49.0;10.0;5.0;5.0;4.0;10.0;7.0;21.0;18.0;18.0;12.0;18.0;22.0
+3;1;2000;6528.0;51.0;49.0;10.0;6.0;5.0;3.0;9.0;7.0;21.0;19.0;20.0;12.0;17.0;21.0
+4;3;1996;973.0;8.0;92.0;;;;;;;;;;;;
+5;3;1998;861.0;10.0;90.0;12.0;10.0;12.0;5.0;15.0;10.0;35.0;24.0;21.0;14.0;22.0;48.0
+6;3;1999;835.0;10.0;90.0;11.0;6.0;12.0;4.0;15.0;10.0;32.0;27.0;18.0;12.0;21.0;44.0
+7;3;2000;801.0;10.0;90.0;11.0;8.0;10.0;4.0;13.0;10.0;34.0;24.0;21.0;15.0;21.0;41.0
+8;Hh. boven de lage-inkomensgrens, totaal;1996;5219.0;54.0;46.0;;;;;;;;;;;;
+9;Hh. boven de lage-inkomensgrens, totaal;1998;5553.0;57.0;43.0;10.0;6.0;4.0;3.0;8.0;7.0;20.0;18.0;19.0;11.0;16.0;20.0
+10;Hh. boven de lage-inkomensgrens, totaal;1999;5619.0;58.0;42.0;10.0;5.0;4.0;4.0;9.0;6.0;19.0;17.0;18.0;11.0;18.0;18.0
+11;Hh. boven de lage-inkomensgrens, totaal;2000;5727.0;56.0;44.0;10.0;5.0;4.0;3.0;8.0;7.0;19.0;18.0;19.0;11.0;16.0;17.0
+12;Hh. met ink. onder of rond soc. minimum;1996;;;;;;;;;;;;;;;
+13;Hh. met ink. onder of rond soc. minimum;1998;631.0;9.0;91.0;14.0;11.0;12.0;6.0;19.0;12.0;40.0;28.0;21.0;12.0;26.0;47.0
+14;Hh. met ink. onder of rond soc. minimum;1999;627.0;10.0;90.0;12.0;6.0;13.0;4.0;15.0;10.0;37.0;32.0;19.0;9.0;24.0;44.0
+15;Hh. met ink. onder of rond soc. minimum;2000;610.0;11.0;89.0;11.0;7.0;11.0;4.0;14.0;11.0;35.0;24.0;20.0;14.0;20.0;39.0
+16;Hh. met inkomen boven sociale minimum;1996;;;;;;;;;;;;;;;
+17;Hh. met inkomen boven sociale minimum;1998;5783.0;55.0;45.0;10.0;6.0;5.0;3.0;7.0;7.0;20.0;17.0;19.0;11.0;15.0;22.0
+18;Hh. met inkomen boven sociale minimum;1999;5826.0;56.0;44.0;10.0;5.0;4.0;4.0;10.0;6.0;19.0;17.0;18.0;12.0;18.0;19.0
+19;Hh. met inkomen boven sociale minimum;2000;5917.0;55.0;45.0;10.0;5.0;4.0;3.0;8.0;7.0;19.0;19.0;20.0;11.0;16.0;18.0

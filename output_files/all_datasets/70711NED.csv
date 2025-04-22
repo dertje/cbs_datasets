@@ -1,0 +1,441 @@
+﻿ID;Herkomst;Kenmerken;ParticuliereHuishoudensMetInkomen_1;BesteedbaarInkomen_2;GestandaardiseerdInkomen_3;AantalHuishoudensMet52WekenInkomen_4;BesteedbaarInkomen_5;GestandaardiseerdInkomen_6;MetLaagInkomen_7;MetLangdurigLaagInkomen_8;OnderOfRondSociaalMinimum_9
+0;Nederland;Totaal Kenmerken;6623.8;25.9;18.0;6477.2;26.2;18.2;825.5;370.7;610.7
+1;Nederland;Sociaal economische categorie: actief;4275.3;29.7;19.6;4219.3;30.0;19.8;256.6;52.6;165.9
+2;Nederland;Sociaal economische categorie: pensioen;1550.0;19.9;16.3;1547.3;20.0;16.3;223.6;142.2;183.6
+3;Nederland;Soc. econ. categorie:overige uitkeringen;798.5;17.0;12.4;710.6;17.2;12.6;345.2;175.8;261.3
+4;Nederland;Eenpersoonshuishoudens;2141.3;15.6;15.6;2053.7;15.9;15.9;448.2;233.9;330.6
+5;Nederland;Meerpersoonshuishoudens zonder kinderen;2629.5;31.0;21.0;2604.5;31.1;21.1;129.4;45.0;120.9
+6;Nederland;Meerpersoonshuishoudens met kinderen;1853.0;30.5;16.4;1819.0;30.8;16.5;247.8;91.8;159.2
+7;Nederland;Leeftijd hoofdkostwinner: tot 45 jaar;3007.7;25.8;17.4;2903.2;26.4;17.7;373.9;115.5;253.1
+8;Nederland;Leeftijd hoofdkostwinner: 45-65 jaar;2226.5;29.7;19.8;2186.1;30.0;19.9;242.4;117.3;180.7
+9;Nederland;Leeftijd hoofdkostwinner: 65 jr en ouder;1389.6;20.0;16.4;1388.0;20.0;16.4;209.2;137.8;176.9
+10;Autochtonen;Totaal Kenmerken;5505.6;26.4;18.3;5421.9;26.6;18.5;585.8;270.6;434.4
+11;Autochtonen;Sociaal economische categorie: actief;3559.6;30.3;20.0;3532.9;30.5;20.1;184.0;36.4;121.7
+12;Autochtonen;Sociaal economische categorie: pensioen;1392.8;19.9;16.3;1390.5;19.9;16.3;192.7;123.4;156.5
+13;Autochtonen;Soc. econ. categorie:overige uitkeringen;553.2;17.7;13.1;498.5;17.9;13.3;209.2;110.7;156.3
+14;Autochtonen;Eenpersoonshuishoudens;1739.6;15.9;15.9;1691.2;16.1;16.1;342.4;188.2;251.4
+15;Autochtonen;Meerpersoonshuishoudens zonder kinderen;2293.9;31.2;21.2;2278.1;31.3;21.2;97.1;33.7;91.1
+16;Autochtonen;Meerpersoonshuishoudens met kinderen;1472.1;31.5;16.9;1452.6;31.6;17.0;146.3;48.6;91.9
+17;Autochtonen;Leeftijd hoofdkostwinner: tot 45 jaar;2378.6;26.7;18.0;2324.5;27.1;18.2;234.8;69.7;157.2
+18;Autochtonen;Leeftijd hoofdkostwinner: 45-65 jaar;1874.4;30.3;20.1;1845.7;30.6;20.2;171.8;82.1;127.9
+19;Autochtonen;Leeftijd hoofdkostwinner: 65 jr en ouder;1252.6;20.0;16.4;1251.7;20.0;16.4;179.2;118.8;149.4
+20;Allochtonen;Totaal Kenmerken;1113.1;23.2;16.1;1051.4;24.1;16.7;238.8;100.1;175.6
+21;Allochtonen;Sociaal economische categorie: actief;712.3;26.6;17.9;683.4;27.5;18.5;72.3;16.2;43.9
+22;Allochtonen;Sociaal economische categorie: pensioen;156.9;20.2;16.4;156.5;20.2;16.4;30.8;18.8;26.9
+23;Allochtonen;Soc. econ. categorie:overige uitkeringen;243.9;15.3;10.8;211.5;15.6;11.0;135.8;65.1;104.8
+24;Allochtonen;Eenpersoonshuishoudens;398.6;14.3;14.3;360.3;15.2;15.2;105.3;45.6;78.7
+25;Allochtonen;Meerpersoonshuishoudens zonder kinderen;334.4;29.8;20.2;325.3;30.2;20.4;32.2;11.3;29.7
+26;Allochtonen;Meerpersoonshuishoudens met kinderen;380.1;26.8;14.4;365.8;27.3;14.7;101.3;43.1;67.3
+27;Allochtonen;Leeftijd hoofdkostwinner: tot 45 jaar;625.4;22.2;15.1;576.0;23.4;15.8;138.5;45.8;95.5
+28;Allochtonen;Leeftijd hoofdkostwinner: 45-65 jaar;351.0;26.4;17.9;339.5;26.8;18.1;70.5;35.3;52.7
+29;Allochtonen;Leeftijd hoofdkostwinner: 65 jr en ouder;136.7;20.0;16.4;136.0;20.0;16.5;29.9;19.0;27.4
+30;Herkomstland onbekend;Totaal Kenmerken;5.1;19.4;15.0;3.9;23.5;18.0;0.8;0.1;0.7
+31;Herkomstland onbekend;Sociaal economische categorie: actief;3.4;22.7;17.4;3.0;25.4;19.4;0.4;;0.3
+32;Herkomstland onbekend;Sociaal economische categorie: pensioen;0.3;17.7;14.3;0.3;18.6;15.0;0.2;;0.2
+33;Herkomstland onbekend;Soc. econ. categorie:overige uitkeringen;1.3;11.5;9.1;0.6;16.2;12.0;0.3;;0.2
+34;Herkomstland onbekend;Eenpersoonshuishoudens;3.1;12.4;12.4;2.1;15.6;15.6;0.6;;0.5
+35;Herkomstland onbekend;Meerpersoonshuishoudens zonder kinderen;1.2;30.6;21.0;1.1;32.6;22.4;0.1;;0.1
+36;Herkomstland onbekend;Meerpersoonshuishoudens met kinderen;0.8;29.7;16.0;0.6;33.5;18.0;0.1;;0.1
+37;Herkomstland onbekend;Leeftijd hoofdkostwinner: tot 45 jaar;3.7;17.9;14.0;2.7;22.1;17.0;0.6;;0.4
+38;Herkomstland onbekend;Leeftijd hoofdkostwinner: 45-65 jaar;1.1;24.3;18.2;0.9;27.8;20.6;0.2;;0.2
+39;Herkomstland onbekend;Leeftijd hoofdkostwinner: 65 jr en ouder;0.3;21.1;16.8;0.3;23.5;18.6;0.1;;0.1
+40;Westerse allochtonen;Totaal Kenmerken;618.6;25.4;18.2;590.1;26.0;18.6;84.6;37.0;64.6
+41;Westerse allochtonen;Sociaal economische categorie: actief;387.4;29.0;19.9;376.2;29.7;20.4;26.5;4.9;18.1
+42;Westerse allochtonen;Sociaal economische categorie: pensioen;134.2;20.8;17.0;134.0;20.8;17.1;18.9;11.7;16.0
+43;Westerse allochtonen;Soc. econ. categorie:overige uitkeringen;96.9;17.6;13.1;79.9;17.4;12.9;39.2;20.4;30.4
+44;Westerse allochtonen;Eenpersoonshuishoudens;231.3;15.8;15.8;214.6;16.5;16.5;49.4;24.5;37.1
+45;Westerse allochtonen;Meerpersoonshuishoudens zonder kinderen;234.8;31.5;21.4;229.3;31.7;21.6;13.6;4.7;12.8
+46;Westerse allochtonen;Meerpersoonshuishoudens met kinderen;152.5;30.7;16.8;146.3;31.2;17.1;21.7;7.8;14.7
+47;Westerse allochtonen;Leeftijd hoofdkostwinner: tot 45 jaar;269.0;24.7;17.4;249.3;25.8;18.1;37.2;10.8;26.4
+48;Westerse allochtonen;Leeftijd hoofdkostwinner: 45-65 jaar;232.6;28.6;19.7;224.3;29.0;19.9;29.7;14.8;22.6
+49;Westerse allochtonen;Leeftijd hoofdkostwinner: 65 jr en ouder;117.0;20.8;17.2;116.5;20.8;17.2;17.7;11.4;15.6
+50;Niet-westerse allochtonen;Totaal Kenmerken;494.5;20.5;13.5;461.3;21.5;14.1;154.2;63.1;111.0
+51;Niet-westerse allochtonen;Sociaal economische categorie: actief;324.9;23.7;15.4;307.2;24.8;16.1;45.7;11.3;25.8
+52;Niet-westerse allochtonen;Sociaal economische categorie: pensioen;22.6;16.6;12.7;22.5;16.7;12.7;11.9;7.1;10.9
+53;Niet-westerse allochtonen;Soc. econ. categorie:overige uitkeringen;147.0;13.9;9.4;131.6;14.6;9.8;96.6;44.7;74.4
+54;Niet-westerse allochtonen;Eenpersoonshuishoudens;167.3;12.2;12.2;145.7;13.4;13.4;55.9;21.1;41.6
+55;Niet-westerse allochtonen;Meerpersoonshuishoudens zonder kinderen;99.5;26.0;17.2;96.0;26.6;17.6;18.6;6.6;16.9
+56;Niet-westerse allochtonen;Meerpersoonshuishoudens met kinderen;227.6;24.1;12.8;219.5;24.7;13.1;79.7;35.3;52.5
+57;Niet-westerse allochtonen;Leeftijd hoofdkostwinner: tot 45 jaar;356.3;20.2;13.3;326.7;21.6;14.1;101.3;35.0;69.1
+58;Niet-westerse allochtonen;Leeftijd hoofdkostwinner: 45-65 jaar;118.5;22.1;14.3;115.2;22.4;14.6;40.8;20.5;30.1
+59;Niet-westerse allochtonen;Leeftijd hoofdkostwinner: 65 jr en ouder;19.7;15.2;12.1;19.4;15.3;12.2;12.1;7.5;11.8
+60;België;Totaal Kenmerken;50.9;25.0;18.1;48.4;25.5;18.4;7.1;3.6;5.4
+61;België;Sociaal economische categorie: actief;27.3;29.8;20.4;26.6;30.4;20.8;1.9;0.3;1.3
+62;België;Sociaal economische categorie: pensioen;15.4;19.8;16.2;15.4;19.9;16.2;2.5;1.6;2.0
+63;België;Soc. econ. categorie:overige uitkeringen;8.2;18.7;13.8;6.5;18.5;13.6;2.7;1.6;2.1
+64;België;Eenpersoonshuishoudens;18.9;15.7;15.7;17.5;16.1;16.1;4.3;2.5;3.2
+65;België;Meerpersoonshuishoudens zonder kinderen;21.5;30.3;20.7;21.0;30.5;20.9;1.3;0.5;1.3
+66;België;Meerpersoonshuishoudens met kinderen;10.5;30.9;16.9;9.9;31.4;17.1;1.4;0.5;1.0
+67;België;Leeftijd hoofdkostwinner: tot 45 jaar;18.4;25.0;17.5;16.8;26.1;18.1;2.6;0.9;1.8
+68;België;Leeftijd hoofdkostwinner: 45-65 jaar;18.3;28.7;19.9;17.6;29.2;20.1;2.2;1.1;1.7
+69;België;Leeftijd hoofdkostwinner: 65 jr en ouder;14.2;20.1;16.5;14.1;20.1;16.5;2.3;1.6;1.9
+70;Duitsland;Totaal Kenmerken;200.0;24.6;17.8;191.1;24.8;17.9;27.4;13.6;21.1
+71;Duitsland;Sociaal economische categorie: actief;100.6;29.3;20.0;98.8;29.8;20.3;6.2;1.2;4.3
+72;Duitsland;Sociaal economische categorie: pensioen;62.3;19.6;16.1;62.2;19.6;16.1;9.2;5.8;7.6
+73;Duitsland;Soc. econ. categorie:overige uitkeringen;37.1;20.2;14.7;30.0;19.2;14.1;12.0;6.6;9.2
+74;Duitsland;Eenpersoonshuishoudens;72.7;15.0;15.0;68.7;15.3;15.3;17.5;9.9;13.2
+75;Duitsland;Meerpersoonshuishoudens zonder kinderen;91.8;30.0;20.5;89.2;29.9;20.4;5.2;2.0;4.8
+76;Duitsland;Meerpersoonshuishoudens met kinderen;35.4;30.4;16.6;33.3;30.7;16.7;4.8;1.7;3.2
+77;Duitsland;Leeftijd hoofdkostwinner: tot 45 jaar;55.4;24.5;17.1;50.7;25.1;17.5;7.7;2.3;5.4
+78;Duitsland;Leeftijd hoofdkostwinner: 45-65 jaar;91.0;27.6;19.2;87.1;27.8;19.3;11.5;5.8;8.7
+79;Duitsland;Leeftijd hoofdkostwinner: 65 jr en ouder;53.5;19.5;16.1;53.2;19.6;16.2;8.3;5.4;7.0
+80;Frankrijk;Totaal Kenmerken;10.8;24.2;17.8;9.7;26.2;19.2;1.5;0.6;1.1
+81;Frankrijk;Sociaal economische categorie: actief;7.8;27.1;19.5;7.3;28.7;20.6;0.6;0.1;0.4
+82;Frankrijk;Sociaal economische categorie: pensioen;1.3;19.9;17.0;1.3;19.9;17.0;0.3;0.2;0.2
+83;Frankrijk;Soc. econ. categorie:overige uitkeringen;1.7;13.7;10.3;1.1;16.9;12.6;0.6;0.3;0.4
+84;Frankrijk;Eenpersoonshuishoudens;4.9;15.1;15.1;4.2;16.9;16.9;1.0;0.4;0.7
+85;Frankrijk;Meerpersoonshuishoudens zonder kinderen;3.2;31.6;21.9;3.0;32.8;22.8;0.2;0.0;0.2
+86;Frankrijk;Meerpersoonshuishoudens met kinderen;2.7;31.8;17.6;2.5;33.6;18.6;0.3;0.1;0.2
+87;Frankrijk;Leeftijd hoofdkostwinner: tot 45 jaar;6.7;23.3;16.9;5.8;26.0;18.8;0.9;0.2;0.6
+88;Frankrijk;Leeftijd hoofdkostwinner: 45-65 jaar;2.9;28.3;20.3;2.7;29.6;21.2;0.4;0.2;0.3
+89;Frankrijk;Leeftijd hoofdkostwinner: 65 jr en ouder;1.2;19.4;16.8;1.2;19.4;16.8;0.2;0.2;0.2
+90;Verenigd Koninkrijk;Totaal Kenmerken;29.0;27.6;20.0;26.6;29.2;21.0;3.5;1.2;2.5
+91;Verenigd Koninkrijk;Sociaal economische categorie: actief;23.1;29.9;21.2;21.7;31.5;22.3;1.6;0.2;1.1
+92;Verenigd Koninkrijk;Sociaal economische categorie: pensioen;2.3;21.6;18.5;2.3;21.7;18.5;0.4;0.2;0.3
+93;Verenigd Koninkrijk;Soc. econ. categorie:overige uitkeringen;3.7;16.9;13.0;2.6;16.6;12.7;1.5;0.8;1.1
+94;Verenigd Koninkrijk;Eenpersoonshuishoudens;12.1;17.4;17.4;10.5;18.9;18.9;2.0;0.8;1.4
+95;Verenigd Koninkrijk;Meerpersoonshuishoudens zonder kinderen;9.0;36.4;24.9;8.6;37.2;25.5;0.5;0.1;0.4
+96;Verenigd Koninkrijk;Meerpersoonshuishoudens met kinderen;8.0;33.1;18.2;7.6;34.2;18.8;1.0;0.3;0.7
+97;Verenigd Koninkrijk;Leeftijd hoofdkostwinner: tot 45 jaar;16.8;25.2;18.5;15.0;27.2;19.8;2.0;0.5;1.5
+98;Verenigd Koninkrijk;Leeftijd hoofdkostwinner: 45-65 jaar;10.3;32.4;22.5;9.7;33.4;23.1;1.1;0.5;0.7
+99;Verenigd Koninkrijk;Leeftijd hoofdkostwinner: 65 jr en ouder;2.0;23.0;19.5;1.9;23.1;19.7;0.3;0.2;0.3
+100;Portugal, Spanje, Italië en Griekenland;Totaal Kenmerken;36.5;23.5;16.4;34.2;24.7;17.2;5.5;1.9;4.3
+101;Portugal, Spanje, Italië en Griekenland;Sociaal economische categorie: actief;26.7;25.8;17.8;25.2;27.0;18.6;2.2;0.3;1.5
+102;Portugal, Spanje, Italië en Griekenland;Sociaal economische categorie: pensioen;3.6;19.8;14.9;3.6;19.8;14.9;0.8;0.5;0.8
+103;Portugal, Spanje, Italië en Griekenland;Soc. econ. categorie:overige uitkeringen;6.3;15.7;11.5;5.4;16.8;12.3;2.5;1.2;2.0
+104;Portugal, Spanje, Italië en Griekenland;Eenpersoonshuishoudens;13.1;13.9;13.9;11.4;15.3;15.3;2.9;1.0;2.2
+105;Portugal, Spanje, Italië en Griekenland;Meerpersoonshuishoudens zonder kinderen;13.3;29.3;19.6;13.1;29.8;19.9;1.0;0.3;1.0
+106;Portugal, Spanje, Italië en Griekenland;Meerpersoonshuishoudens met kinderen;10.1;28.1;15.5;9.7;28.8;15.9;1.6;0.6;1.1
+107;Portugal, Spanje, Italië en Griekenland;Leeftijd hoofdkostwinner: tot 45 jaar;22.5;22.8;16.1;20.4;24.5;17.2;3.2;0.7;2.4
+108;Portugal, Spanje, Italië en Griekenland;Leeftijd hoofdkostwinner: 45-65 jaar;11.5;26.0;17.7;11.1;26.5;18.0;1.5;0.7;1.2
+109;Portugal, Spanje, Italië en Griekenland;Leeftijd hoofdkostwinner: 65 jr en ouder;2.6;18.0;13.9;2.6;17.9;13.9;0.8;0.5;0.7
+110;Overige EU-landen;Totaal Kenmerken;15.0;26.1;19.1;13.9;27.5;20.1;2.0;0.9;1.6
+111;Overige EU-landen;Sociaal economische categorie: actief;10.7;28.9;20.6;10.1;30.2;21.5;0.9;0.2;0.7
+112;Overige EU-landen;Sociaal economische categorie: pensioen;2.3;21.6;18.2;2.3;21.6;18.2;0.4;0.2;0.3
+113;Overige EU-landen;Soc. econ. categorie:overige uitkeringen;2.1;16.5;12.5;1.5;18.3;13.8;0.7;0.5;0.6
+114;Overige EU-landen;Eenpersoonshuishoudens;6.4;16.2;16.2;5.6;17.7;17.7;1.2;0.6;0.9
+115;Overige EU-landen;Meerpersoonshuishoudens zonder kinderen;5.3;33.3;23.0;5.1;34.0;23.5;0.4;0.1;0.3
+116;Overige EU-landen;Meerpersoonshuishoudens met kinderen;3.4;33.7;18.5;3.2;34.5;18.9;0.4;0.2;0.3
+117;Overige EU-landen;Leeftijd hoofdkostwinner: tot 45 jaar;7.9;24.4;18.0;7.0;26.7;19.6;1.0;0.3;0.8
+118;Overige EU-landen;Leeftijd hoofdkostwinner: 45-65 jaar;5.2;30.5;21.2;5.0;31.2;21.6;0.6;0.3;0.5
+119;Overige EU-landen;Leeftijd hoofdkostwinner: 65 jr en ouder;1.9;21.3;18.1;1.9;21.2;17.9;0.4;0.2;0.3
+120;Rijke OESO-landen;Totaal Kenmerken;20.4;29.8;21.4;18.6;31.7;22.8;2.5;0.7;1.9
+121;Rijke OESO-landen;Sociaal economische categorie: actief;16.6;32.1;22.8;15.6;34.0;24.0;1.4;0.2;1.0
+122;Rijke OESO-landen;Sociaal economische categorie: pensioen;1.5;24.1;20.0;1.5;24.1;20.0;0.3;0.2;0.3
+123;Rijke OESO-landen;Soc. econ. categorie:overige uitkeringen;2.3;16.9;12.7;1.5;16.3;12.5;0.8;0.4;0.7
+124;Rijke OESO-landen;Eenpersoonshuishoudens;8.3;18.7;18.7;7.1;20.8;20.8;1.4;0.5;1.1
+125;Rijke OESO-landen;Meerpersoonshuishoudens zonder kinderen;6.2;37.5;26.1;5.9;38.5;26.8;0.4;0.1;0.4
+126;Rijke OESO-landen;Meerpersoonshuishoudens met kinderen;5.9;37.3;20.4;5.5;38.6;21.0;0.7;0.2;0.4
+127;Rijke OESO-landen;Leeftijd hoofdkostwinner: tot 45 jaar;13.3;27.8;20.1;11.8;30.3;21.9;1.5;0.3;1.1
+128;Rijke OESO-landen;Leeftijd hoofdkostwinner: 45-65 jaar;5.7;35.5;24.5;5.4;36.4;25.1;0.6;0.2;0.6
+129;Rijke OESO-landen;Leeftijd hoofdkostwinner: 65 jr en ouder;1.4;25.8;21.4;1.4;25.9;21.5;0.3;0.2;0.3
+130;Indonesië/voormalig Nederlands-Indië;Totaal Kenmerken;199.8;27.0;19.2;195.3;27.4;19.4;21.5;9.1;16.1
+131;Indonesië/voormalig Nederlands-Indië;Sociaal economische categorie: actief;138.6;29.8;20.3;136.7;30.1;20.5;7.9;1.7;5.2
+132;Indonesië/voormalig Nederlands-Indië;Sociaal economische categorie: pensioen;39.6;23.1;18.9;39.5;23.1;18.9;3.9;2.2;3.5
+133;Indonesië/voormalig Nederlands-Indië;Soc. econ. categorie:overige uitkeringen;21.6;16.3;12.5;19.0;16.6;12.7;9.8;5.2;7.4
+134;Indonesië/voormalig Nederlands-Indië;Eenpersoonshuishoudens;74.0;17.1;17.1;71.1;17.5;17.5;12.5;6.0;9.4
+135;Indonesië/voormalig Nederlands-Indië;Meerpersoonshuishoudens zonder kinderen;67.2;33.7;22.9;66.6;33.8;23.0;2.4;0.7;2.3
+136;Indonesië/voormalig Nederlands-Indië;Meerpersoonshuishoudens met kinderen;58.6;31.9;17.4;57.6;32.2;17.6;6.7;2.4;4.4
+137;Indonesië/voormalig Nederlands-Indië;Leeftijd hoofdkostwinner: tot 45 jaar;96.7;26.2;18.3;93.5;26.8;18.7;10.8;3.2;7.4
+138;Indonesië/voormalig Nederlands-Indië;Leeftijd hoofdkostwinner: 45-65 jaar;68.7;30.0;20.4;67.3;30.3;20.5;7.2;3.7;5.4
+139;Indonesië/voormalig Nederlands-Indië;Leeftijd hoofdkostwinner: 65 jr en ouder;34.4;23.2;19.2;34.4;23.2;19.2;3.5;2.1;3.2
+140;Voormalig Joegoslavië;Totaal Kenmerken;24.8;20.8;14.0;23.5;21.6;14.6;7.2;3.0;5.5
+141;Voormalig Joegoslavië;Sociaal economische categorie: actief;16.0;24.5;16.1;15.4;25.4;16.6;1.7;0.4;0.9
+142;Voormalig Joegoslavië;Sociaal economische categorie: pensioen;0.9;17.1;14.0;0.9;17.1;14.0;0.3;0.1;0.3
+143;Voormalig Joegoslavië;Soc. econ. categorie:overige uitkeringen;7.9;13.6;9.8;7.2;14.1;10.2;5.2;2.5;4.3
+144;Voormalig Joegoslavië;Eenpersoonshuishoudens;8.1;12.4;12.4;7.3;13.2;13.2;3.0;1.2;2.3
+145;Voormalig Joegoslavië;Meerpersoonshuishoudens zonder kinderen;7.0;26.2;17.3;6.8;26.7;17.6;1.3;0.5;1.2
+146;Voormalig Joegoslavië;Meerpersoonshuishoudens met kinderen;9.8;23.8;13.1;9.4;24.4;13.4;2.9;1.3;2.0
+147;Voormalig Joegoslavië;Leeftijd hoofdkostwinner: tot 45 jaar;15.7;20.2;13.5;14.6;21.3;14.2;4.1;1.5;2.9
+148;Voormalig Joegoslavië;Leeftijd hoofdkostwinner: 45-65 jaar;7.9;23.1;15.4;7.7;23.4;15.6;2.4;1.2;1.9
+149;Voormalig Joegoslavië;Leeftijd hoofdkostwinner: 65 jr en ouder;1.3;14.2;11.7;1.3;14.2;11.7;0.7;0.4;0.7
+150;Voormalige Sovjet-Unie;Totaal Kenmerken;8.1;19.3;14.0;7.2;20.9;15.2;2.5;0.7;2.0
+151;Voormalige Sovjet-Unie;Sociaal economische categorie: actief;4.9;23.7;16.4;4.5;25.5;17.6;0.8;0.1;0.6
+152;Voormalige Sovjet-Unie;Sociaal economische categorie: pensioen;0.9;16.7;15.0;0.9;16.8;15.1;0.2;0.1;0.2
+153;Voormalige Sovjet-Unie;Soc. econ. categorie:overige uitkeringen;2.4;11.3;8.6;1.9;12.1;9.3;1.5;0.5;1.2
+154;Voormalige Sovjet-Unie;Eenpersoonshuishoudens;3.4;12.4;12.4;2.9;13.9;13.9;1.2;0.4;1.0
+155;Voormalige Sovjet-Unie;Meerpersoonshuishoudens zonder kinderen;2.2;26.7;18.1;2.1;27.8;18.8;0.4;0.1;0.3
+156;Voormalige Sovjet-Unie;Meerpersoonshuishoudens met kinderen;2.5;22.2;12.7;2.3;23.6;13.4;0.9;0.2;0.7
+157;Voormalige Sovjet-Unie;Leeftijd hoofdkostwinner: tot 45 jaar;4.5;16.9;12.2;3.8;19.1;13.8;1.5;0.3;1.1
+158;Voormalige Sovjet-Unie;Leeftijd hoofdkostwinner: 45-65 jaar;2.6;24.6;16.8;2.5;25.3;17.3;0.7;0.3;0.5
+159;Voormalige Sovjet-Unie;Leeftijd hoofdkostwinner: 65 jr en ouder;1.0;16.7;14.7;1.0;16.8;14.9;0.3;0.1;0.3
+160;Overig voormalige Oostbloklanden;Totaal Kenmerken;22.7;23.8;17.3;21.1;24.9;18.1;3.9;1.6;3.1
+161;Overig voormalige Oostbloklanden;Sociaal economische categorie: actief;14.8;26.8;18.8;13.9;28.2;19.7;1.4;0.2;1.1
+162;Overig voormalige Oostbloklanden;Sociaal economische categorie: pensioen;4.2;20.7;17.0;4.1;20.8;17.1;0.7;0.5;0.6
+163;Overig voormalige Oostbloklanden;Soc. econ. categorie:overige uitkeringen;3.7;15.5;11.8;3.1;15.6;12.0;1.8;0.9;1.4
+164;Overig voormalige Oostbloklanden;Eenpersoonshuishoudens;9.2;14.8;14.8;8.2;16.0;16.0;2.3;1.1;1.7
+165;Overig voormalige Oostbloklanden;Meerpersoonshuishoudens zonder kinderen;7.9;31.0;21.1;7.7;31.3;21.4;0.6;0.2;0.6
+166;Overig voormalige Oostbloklanden;Meerpersoonshuishoudens met kinderen;5.5;28.7;16.1;5.2;29.4;16.4;1.0;0.3;0.7
+167;Overig voormalige Oostbloklanden;Leeftijd hoofdkostwinner: tot 45 jaar;10.7;21.7;15.6;9.5;23.6;16.9;1.9;0.5;1.4
+168;Overig voormalige Oostbloklanden;Leeftijd hoofdkostwinner: 45-65 jaar;8.4;27.6;19.3;8.1;27.9;19.5;1.4;0.7;1.0
+169;Overig voormalige Oostbloklanden;Leeftijd hoofdkostwinner: 65 jr en ouder;3.6;21.4;17.8;3.5;21.4;17.8;0.7;0.5;0.6
+170;Overige westerse landen;Totaal Kenmerken;0.5;23.7;16.6;0.5;26.1;18.2;0.1;;0.1
+171;Overige westerse landen;Sociaal economische categorie: actief;0.4;25.4;17.5;0.4;28.2;19.4;0.1;;
+172;Overige westerse landen;Sociaal economische categorie: pensioen;;;;;;;0.0;0.0;0.0
+173;Overige westerse landen;Soc. econ. categorie:overige uitkeringen;0.1;13.2;10.8;0.1;12.1;9.9;0.0;;
+174;Overige westerse landen;Eenpersoonshuishoudens;0.2;13.3;13.3;0.2;15.8;15.8;;;
+175;Overige westerse landen;Meerpersoonshuishoudens zonder kinderen;0.1;31.1;21.1;0.1;32.2;21.9;;;
+176;Overige westerse landen;Meerpersoonshuishoudens met kinderen;0.2;33.1;17.8;0.2;33.6;18.1;;;
+177;Overige westerse landen;Leeftijd hoofdkostwinner: tot 45 jaar;0.4;22.1;15.5;0.3;24.5;17.0;0.1;;0.0
+178;Overige westerse landen;Leeftijd hoofdkostwinner: 45-65 jaar;0.1;29.6;20.5;0.1;32.4;22.6;;;
+179;Overige westerse landen;Leeftijd hoofdkostwinner: 65 jr en ouder;;;;;;;;0.0;
+180;Turkije;Totaal Kenmerken;98.6;23.2;13.6;94.6;23.8;13.9;28.1;12.0;19.8
+181;Turkije;Sociaal economische categorie: actief;64.6;26.7;15.2;62.6;27.3;15.6;8.3;2.3;4.0
+182;Turkije;Sociaal economische categorie: pensioen;4.3;16.4;11.5;4.3;16.5;11.5;2.2;1.0;2.0
+183;Turkije;Soc. econ. categorie:overige uitkeringen;29.6;16.6;10.2;27.7;17.0;10.4;17.5;8.6;13.7
+184;Turkije;Eenpersoonshuishoudens;17.8;11.9;11.9;15.6;13.0;13.0;6.1;1.8;4.3
+185;Turkije;Meerpersoonshuishoudens zonder kinderen;20.6;24.1;15.4;20.1;24.4;15.6;5.1;2.1;4.4
+186;Turkije;Meerpersoonshuishoudens met kinderen;60.2;26.2;13.4;58.9;26.5;13.6;16.9;8.1;11.1
+187;Turkije;Leeftijd hoofdkostwinner: tot 45 jaar;76.3;23.9;13.8;72.6;24.7;14.2;19.1;7.6;12.5
+188;Turkije;Leeftijd hoofdkostwinner: 45-65 jaar;19.7;21.7;13.3;19.4;21.8;13.4;7.2;3.5;5.6
+189;Turkije;Leeftijd hoofdkostwinner: 65 jr en ouder;2.6;13.9;10.4;2.6;13.9;10.4;1.7;0.8;1.7
+190;Marokko;Totaal Kenmerken;79.4;21.0;12.6;75.6;21.7;12.9;29.0;13.2;19.2
+191;Marokko;Sociaal economische categorie: actief;48.2;24.3;14.5;46.1;25.1;14.9;7.7;2.4;3.5
+192;Marokko;Sociaal economische categorie: pensioen;3.7;17.2;10.9;3.7;17.3;10.9;2.1;1.0;1.9
+193;Marokko;Soc. econ. categorie:overige uitkeringen;27.5;15.7;9.4;25.8;16.2;9.6;19.1;9.8;13.8
+194;Marokko;Eenpersoonshuishoudens;19.9;11.6;11.6;17.4;12.6;12.6;6.8;2.1;4.7
+195;Marokko;Meerpersoonshuishoudens zonder kinderen;15.3;23.8;15.5;14.9;24.1;15.7;3.7;1.5;3.3
+196;Marokko;Meerpersoonshuishoudens met kinderen;44.2;24.2;12.0;43.3;24.5;12.1;18.4;9.6;11.2
+197;Marokko;Leeftijd hoofdkostwinner: tot 45 jaar;55.9;20.8;12.8;52.5;21.8;13.3;17.7;7.1;11.4
+198;Marokko;Leeftijd hoofdkostwinner: 45-65 jaar;20.4;22.1;12.2;20.1;22.3;12.2;9.3;5.0;6.0
+199;Marokko;Leeftijd hoofdkostwinner: 65 jr en ouder;3.0;15.5;10.2;3.0;15.6;10.3;2.0;1.0;1.8
+200;Suriname;Totaal Kenmerken;127.2;21.5;15.1;122.0;22.1;15.5;33.2;15.9;25.0
+201;Suriname;Sociaal economische categorie: actief;87.6;25.0;17.0;84.9;25.6;17.4;8.4;1.7;4.9
+202;Suriname;Sociaal economische categorie: pensioen;8.9;15.8;13.1;8.9;15.8;13.2;4.8;3.4;4.5
+203;Suriname;Soc. econ. categorie:overige uitkeringen;30.7;13.2;10.1;28.2;13.7;10.4;20.1;10.7;15.6
+204;Suriname;Eenpersoonshuishoudens;50.5;13.2;13.2;46.8;13.9;13.9;17.7;9.1;13.7
+205;Suriname;Meerpersoonshuishoudens zonder kinderen;27.9;29.6;19.7;27.5;29.9;19.9;2.9;1.2;2.7
+206;Suriname;Meerpersoonshuishoudens met kinderen;48.9;25.4;14.3;47.7;25.8;14.5;12.6;5.6;8.7
+207;Suriname;Leeftijd hoofdkostwinner: tot 45 jaar;82.9;21.5;14.8;78.3;22.3;15.4;18.6;6.9;13.0
+208;Suriname;Leeftijd hoofdkostwinner: 45-65 jaar;36.2;23.1;16.2;35.6;23.4;16.3;9.7;5.4;7.1
+209;Suriname;Leeftijd hoofdkostwinner: 65 jr en ouder;8.1;14.7;12.6;8.1;14.8;12.6;5.0;3.6;4.9
+210;Nederlandse Antillen en Aruba;Totaal Kenmerken;45.8;18.4;13.4;40.6;20.2;14.6;13.1;4.0;9.7
+211;Nederlandse Antillen en Aruba;Sociaal economische categorie: actief;30.4;21.7;15.5;27.6;23.4;16.7;3.7;0.5;2.3
+212;Nederlandse Antillen en Aruba;Sociaal economische categorie: pensioen;1.5;17.7;14.4;1.5;17.8;14.6;0.7;0.4;0.6
+213;Nederlandse Antillen en Aruba;Soc. econ. categorie:overige uitkeringen;14.0;11.6;8.8;11.5;12.7;9.6;8.8;3.1;6.8
+214;Nederlandse Antillen en Aruba;Eenpersoonshuishoudens;20.5;11.9;11.9;17.1;13.6;13.6;6.3;2.0;4.9
+215;Nederlandse Antillen en Aruba;Meerpersoonshuishoudens zonder kinderen;8.9;27.1;18.6;8.4;28.3;19.4;1.0;0.2;0.9
+216;Nederlandse Antillen en Aruba;Meerpersoonshuishoudens met kinderen;16.4;21.9;12.4;15.1;23.2;13.1;5.8;1.8;3.8
+217;Nederlandse Antillen en Aruba;Leeftijd hoofdkostwinner: tot 45 jaar;32.8;17.5;12.7;28.2;19.6;14.1;9.2;2.3;6.5
+218;Nederlandse Antillen en Aruba;Leeftijd hoofdkostwinner: 45-65 jaar;11.3;21.7;15.6;10.8;22.4;16.0;3.0;1.2;2.3
+219;Nederlandse Antillen en Aruba;Leeftijd hoofdkostwinner: 65 jr en ouder;1.6;15.4;12.9;1.6;15.7;13.2;0.9;0.5;0.9
+220;Afghanistan;Totaal Kenmerken;6.9;12.2;8.0;5.0;15.2;9.8;3.2;0.6;2.5
+221;Afghanistan;Sociaal economische categorie: actief;3.4;12.6;8.7;2.3;16.8;11.5;0.9;0.1;0.6
+222;Afghanistan;Sociaal economische categorie: pensioen;;;;;;;;0.0;
+223;Afghanistan;Soc. econ. categorie:overige uitkeringen;3.6;11.8;7.3;2.8;13.8;8.4;2.3;0.4;1.9
+224;Afghanistan;Eenpersoonshuishoudens;2.9;7.4;7.4;1.9;9.8;9.8;1.1;0.1;0.9
+225;Afghanistan;Meerpersoonshuishoudens zonder kinderen;1.0;14.2;9.6;0.7;17.8;12.0;0.3;0.0;0.2
+226;Afghanistan;Meerpersoonshuishoudens met kinderen;3.1;16.0;8.1;2.5;18.4;9.2;1.9;0.4;1.4
+227;Afghanistan;Leeftijd hoofdkostwinner: tot 45 jaar;5.7;11.6;7.8;4.0;14.7;9.9;2.5;0.4;1.9
+228;Afghanistan;Leeftijd hoofdkostwinner: 45-65 jaar;1.1;15.0;8.4;0.9;17.1;9.6;0.6;0.1;0.4
+229;Afghanistan;Leeftijd hoofdkostwinner: 65 jr en ouder;0.2;14.7;9.6;0.2;15.5;10.2;0.1;;0.1
+230;China;Totaal Kenmerken;9.6;18.5;11.9;8.7;19.9;12.7;4.2;1.7;3.1
+231;China;Sociaal economische categorie: actief;6.6;21.6;13.4;6.1;23.0;14.2;2.1;0.7;1.5
+232;China;Sociaal economische categorie: pensioen;0.8;13.4;10.4;0.8;13.4;10.4;0.6;0.4;0.6
+233;China;Soc. econ. categorie:overige uitkeringen;2.2;11.3;8.0;1.8;12.2;8.7;1.5;0.6;1.0
+234;China;Eenpersoonshuishoudens;2.8;9.8;9.8;2.2;11.5;11.5;1.2;0.5;0.9
+235;China;Meerpersoonshuishoudens zonder kinderen;2.6;22.4;14.5;2.5;23.2;15.0;1.0;0.5;1.0
+236;China;Meerpersoonshuishoudens met kinderen;4.2;21.9;11.6;4.0;22.6;12.0;1.9;0.8;1.3
+237;China;Leeftijd hoofdkostwinner: tot 45 jaar;6.0;17.6;11.3;5.2;19.6;12.4;2.4;0.7;1.5
+238;China;Leeftijd hoofdkostwinner: 45-65 jaar;2.9;21.9;13.6;2.7;22.4;13.9;1.2;0.6;1.0
+239;China;Leeftijd hoofdkostwinner: 65 jr en ouder;0.7;13.0;10.3;0.7;13.0;10.3;0.6;0.4;0.6
+240;Filipijnen;Totaal Kenmerken;1.8;19.8;13.9;1.6;21.8;15.2;0.4;0.1;0.3
+241;Filipijnen;Sociaal economische categorie: actief;1.5;21.6;15.0;1.4;23.4;16.2;0.2;;0.2
+242;Filipijnen;Sociaal economische categorie: pensioen;0.1;14.5;11.3;0.1;14.5;11.3;;;
+243;Filipijnen;Soc. econ. categorie:overige uitkeringen;0.3;11.6;8.3;0.2;13.6;9.5;0.1;0.1;0.1
+244;Filipijnen;Eenpersoonshuishoudens;0.7;10.7;10.7;0.5;13.1;13.1;0.1;;0.1
+245;Filipijnen;Meerpersoonshuishoudens zonder kinderen;0.5;27.3;18.5;0.5;28.0;18.9;0.0;;0.0
+246;Filipijnen;Meerpersoonshuishoudens met kinderen;0.7;23.6;13.7;0.7;24.1;14.0;0.2;0.1;0.1
+247;Filipijnen;Leeftijd hoofdkostwinner: tot 45 jaar;1.3;18.4;13.1;1.1;20.7;14.7;0.3;0.1;0.2
+248;Filipijnen;Leeftijd hoofdkostwinner: 45-65 jaar;0.6;23.2;15.7;0.5;24.1;16.3;0.1;;0.1
+249;Filipijnen;Leeftijd hoofdkostwinner: 65 jr en ouder;;;;;;;;;0.0
+250;Hongkong;Totaal Kenmerken;5.5;21.9;13.7;5.3;22.5;14.0;1.9;0.9;1.6
+251;Hongkong;Sociaal economische categorie: actief;4.4;24.1;14.9;4.2;24.6;15.2;1.2;0.5;0.9
+252;Hongkong;Sociaal economische categorie: pensioen;0.4;13.2;9.8;0.4;13.2;9.8;0.3;0.2;0.3
+253;Hongkong;Soc. econ. categorie:overige uitkeringen;0.8;13.5;8.7;0.7;14.1;9.1;0.5;0.2;0.4
+254;Hongkong;Eenpersoonshuishoudens;1.2;13.3;13.3;1.2;13.9;13.9;0.4;0.1;0.4
+255;Hongkong;Meerpersoonshuishoudens zonder kinderen;1.8;25.9;16.1;1.8;26.5;16.5;0.5;0.2;0.6
+256;Hongkong;Meerpersoonshuishoudens met kinderen;2.4;23.3;12.0;2.3;23.8;12.3;1.0;0.5;0.7
+257;Hongkong;Leeftijd hoofdkostwinner: tot 45 jaar;3.3;22.3;14.3;3.2;23.1;14.8;0.9;0.3;0.7
+258;Hongkong;Leeftijd hoofdkostwinner: 45-65 jaar;1.8;22.2;12.9;1.7;22.6;13.1;0.7;0.4;0.6
+259;Hongkong;Leeftijd hoofdkostwinner: 65 jr en ouder;0.4;16.1;11.5;0.4;16.3;11.6;0.3;0.2;0.3
+260;India;Totaal Kenmerken;4.4;23.5;16.1;4.1;24.5;16.7;1.1;0.4;0.9
+261;India;Sociaal economische categorie: actief;3.3;25.5;17.3;3.2;26.3;17.8;0.6;0.1;0.4
+262;India;Sociaal economische categorie: pensioen;0.2;25.9;20.2;0.2;25.9;20.2;0.1;0.0;0.1
+263;India;Soc. econ. categorie:overige uitkeringen;0.8;14.7;9.9;0.7;15.4;9.9;0.5;0.3;0.4
+264;India;Eenpersoonshuishoudens;1.5;15.6;15.6;1.3;16.8;16.8;0.3;0.1;0.2
+265;India;Meerpersoonshuishoudens zonder kinderen;1.1;30.8;20.9;1.0;31.8;21.6;0.2;0.1;0.2
+266;India;Meerpersoonshuishoudens met kinderen;1.9;25.4;13.6;1.8;25.7;13.8;0.6;0.2;0.4
+267;India;Leeftijd hoofdkostwinner: tot 45 jaar;2.8;21.7;15.2;2.6;22.9;15.9;0.7;0.2;0.5
+268;India;Leeftijd hoofdkostwinner: 45-65 jaar;1.4;26.5;17.2;1.3;27.0;17.5;0.4;0.2;0.3
+269;India;Leeftijd hoofdkostwinner: 65 jr en ouder;0.2;27.5;21.1;0.2;27.5;21.1;0.1;;0.1
+270;Irak;Totaal Kenmerken;12.1;14.3;9.7;10.4;16.0;10.7;6.2;2.0;4.8
+271;Irak;Sociaal economische categorie: actief;6.0;15.9;11.1;4.8;18.9;13.0;1.4;0.3;1.0
+272;Irak;Sociaal economische categorie: pensioen;0.1;13.4;9.6;0.1;13.4;9.6;0.0;;
+273;Irak;Soc. econ. categorie:overige uitkeringen;6.0;12.7;8.2;5.5;13.4;8.6;4.7;1.7;3.8
+274;Irak;Eenpersoonshuishoudens;4.9;9.5;9.5;3.8;11.3;11.3;2.0;0.6;1.6
+275;Irak;Meerpersoonshuishoudens zonder kinderen;1.9;15.9;10.8;1.6;17.6;12.0;0.7;0.1;0.7
+276;Irak;Meerpersoonshuishoudens met kinderen;5.3;18.2;9.4;5.0;18.9;9.7;3.4;1.3;2.5
+277;Irak;Leeftijd hoofdkostwinner: tot 45 jaar;9.7;13.8;9.5;8.2;15.6;10.7;4.7;1.5;3.6
+278;Irak;Leeftijd hoofdkostwinner: 45-65 jaar;2.1;17.1;10.2;1.9;18.1;10.7;1.2;0.5;1.0
+279;Irak;Leeftijd hoofdkostwinner: 65 jr en ouder;0.3;12.0;9.4;0.3;13.0;10.1;0.2;0.1;0.2
+280;Iran;Totaal Kenmerken;9.5;16.7;12.1;8.3;18.1;13.1;3.6;1.4;2.6
+281;Iran;Sociaal economische categorie: actief;5.3;21.0;14.9;4.9;22.1;15.7;0.7;0.2;0.4
+282;Iran;Sociaal economische categorie: pensioen;0.1;21.1;15.4;0.1;21.1;15.4;0.1;;0.0
+283;Iran;Soc. econ. categorie:overige uitkeringen;4.1;11.1;8.4;3.3;12.1;9.2;2.8;1.1;2.2
+284;Iran;Eenpersoonshuishoudens;4.3;11.4;11.4;3.6;12.8;12.8;1.7;0.7;1.2
+285;Iran;Meerpersoonshuishoudens zonder kinderen;1.6;22.3;15.3;1.4;23.3;16.0;0.4;0.1;0.4
+286;Iran;Meerpersoonshuishoudens met kinderen;3.6;20.6;11.5;3.3;21.6;12.1;1.5;0.5;1.1
+287;Iran;Leeftijd hoofdkostwinner: tot 45 jaar;7.1;16.5;12.1;6.2;18.1;13.3;2.4;0.8;1.7
+288;Iran;Leeftijd hoofdkostwinner: 45-65 jaar;2.0;17.9;12.2;1.9;18.7;12.7;0.9;0.4;0.7
+289;Iran;Leeftijd hoofdkostwinner: 65 jr en ouder;0.3;13.5;11.0;0.3;14.4;11.6;0.2;0.1;0.2
+290;Pakistan;Totaal Kenmerken;5.1;20.0;12.9;4.7;21.0;13.5;1.8;0.7;1.4
+291;Pakistan;Sociaal economische categorie: actief;3.6;22.8;14.8;3.4;23.6;15.3;0.7;0.2;0.5
+292;Pakistan;Sociaal economische categorie: pensioen;0.1;20.4;11.3;0.1;20.4;11.3;0.0;;
+293;Pakistan;Soc. econ. categorie:overige uitkeringen;1.5;13.3;8.6;1.3;14.3;9.2;1.0;0.5;0.8
+294;Pakistan;Eenpersoonshuishoudens;1.8;12.9;12.9;1.5;14.3;14.3;0.5;0.1;0.4
+295;Pakistan;Meerpersoonshuishoudens zonder kinderen;0.8;25.4;17.0;0.8;26.2;17.5;0.2;0.0;0.1
+296;Pakistan;Meerpersoonshuishoudens met kinderen;2.6;23.2;11.7;2.5;23.7;11.9;1.2;0.5;0.8
+297;Pakistan;Leeftijd hoofdkostwinner: tot 45 jaar;3.7;19.7;13.0;3.4;20.9;13.8;1.2;0.4;0.9
+298;Pakistan;Leeftijd hoofdkostwinner: 45-65 jaar;1.4;20.8;12.6;1.4;21.4;12.9;0.6;0.3;0.5
+299;Pakistan;Leeftijd hoofdkostwinner: 65 jr en ouder;;;;;;;;;
+300;Sri Lanka;Totaal Kenmerken;2.8;17.3;12.0;2.6;18.2;12.6;1.0;0.3;0.6
+301;Sri Lanka;Sociaal economische categorie: actief;2.1;19.0;13.1;2.0;19.6;13.5;0.5;0.1;0.2
+302;Sri Lanka;Sociaal economische categorie: pensioen;;;;;;;;;
+303;Sri Lanka;Soc. econ. categorie:overige uitkeringen;0.7;12.1;8.6;0.6;13.1;9.2;0.5;0.2;0.4
+304;Sri Lanka;Eenpersoonshuishoudens;1.1;12.5;12.5;0.9;13.7;13.7;0.3;0.1;0.2
+305;Sri Lanka;Meerpersoonshuishoudens zonder kinderen;0.5;21.2;14.3;0.5;21.6;14.5;0.1;;0.1
+306;Sri Lanka;Meerpersoonshuishoudens met kinderen;1.3;19.9;10.7;1.2;20.4;11.0;0.6;0.2;0.3
+307;Sri Lanka;Leeftijd hoofdkostwinner: tot 45 jaar;2.3;16.6;11.7;2.1;17.6;12.3;0.7;0.2;0.4
+308;Sri Lanka;Leeftijd hoofdkostwinner: 45-65 jaar;0.5;20.6;13.3;0.5;21.0;13.5;0.2;0.1;0.2
+309;Sri Lanka;Leeftijd hoofdkostwinner: 65 jr en ouder;;;;;;;;;
+310;Vietnam;Totaal Kenmerken;5.4;21.6;13.8;5.2;22.4;14.2;1.5;0.8;1.1
+311;Vietnam;Sociaal economische categorie: actief;4.2;24.0;15.0;4.0;25.0;15.6;0.5;0.2;0.3
+312;Vietnam;Sociaal economische categorie: pensioen;0.2;15.3;11.1;0.2;15.3;11.1;0.1;0.1;0.1
+313;Vietnam;Soc. econ. categorie:overige uitkeringen;1.0;13.0;9.1;1.0;13.3;9.2;0.8;0.5;0.7
+314;Vietnam;Eenpersoonshuishoudens;1.5;12.5;12.5;1.3;13.7;13.7;0.4;0.2;0.4
+315;Vietnam;Meerpersoonshuishoudens zonder kinderen;1.1;26.3;17.1;1.1;26.8;17.4;0.2;0.1;0.2
+316;Vietnam;Meerpersoonshuishoudens met kinderen;2.8;24.7;13.2;2.8;24.9;13.3;0.9;0.5;0.6
+317;Vietnam;Leeftijd hoofdkostwinner: tot 45 jaar;4.1;22.0;14.1;3.9;23.0;14.7;0.9;0.4;0.6
+318;Vietnam;Leeftijd hoofdkostwinner: 45-65 jaar;1.1;22.0;13.2;1.1;22.2;13.4;0.4;0.3;0.3
+319;Vietnam;Leeftijd hoofdkostwinner: 65 jr en ouder;0.2;12.5;10.4;0.2;12.7;10.5;0.2;0.1;0.2
+320;Overig Azië;Totaal Kenmerken;10.6;20.0;13.9;9.5;21.5;14.8;3.5;1.2;2.6
+321;Overig Azië;Sociaal economische categorie: actief;7.6;22.6;15.5;7.1;24.0;16.4;1.7;0.4;1.1
+322;Overig Azië;Sociaal economische categorie: pensioen;0.4;19.6;16.2;0.4;19.6;16.2;0.1;;0.1
+323;Overig Azië;Soc. econ. categorie:overige uitkeringen;2.6;12.5;8.6;2.1;13.5;9.2;1.7;0.7;1.3
+324;Overig Azië;Eenpersoonshuishoudens;4.2;12.3;12.3;3.5;13.8;13.8;1.4;0.4;1.0
+325;Overig Azië;Meerpersoonshuishoudens zonder kinderen;2.3;27.3;18.6;2.2;28.1;19.1;0.5;0.1;0.4
+326;Overig Azië;Meerpersoonshuishoudens met kinderen;4.0;24.0;12.8;3.8;24.7;13.2;1.6;0.7;1.1
+327;Overig Azië;Leeftijd hoofdkostwinner: tot 45 jaar;8.0;19.0;13.4;7.1;20.8;14.6;2.6;0.8;1.8
+328;Overig Azië;Leeftijd hoofdkostwinner: 45-65 jaar;2.2;23.7;14.9;2.1;24.1;15.2;0.8;0.4;0.6
+329;Overig Azië;Leeftijd hoofdkostwinner: 65 jr en ouder;0.4;20.1;16.4;0.4;20.4;16.6;0.1;;0.1
+330;Egypte;Totaal Kenmerken;5.6;18.6;13.1;5.3;19.2;13.4;2.1;0.8;1.4
+331;Egypte;Sociaal economische categorie: actief;4.2;20.7;14.3;4.1;21.1;14.6;1.1;0.3;0.7
+332;Egypte;Sociaal economische categorie: pensioen;0.1;19.8;15.8;0.1;19.8;15.8;;;
+333;Egypte;Soc. econ. categorie:overige uitkeringen;1.4;12.2;9.0;1.2;12.4;9.2;0.9;0.4;0.7
+334;Egypte;Eenpersoonshuishoudens;2.3;12.9;12.9;2.1;13.5;13.5;0.8;0.3;0.6
+335;Egypte;Meerpersoonshuishoudens zonder kinderen;0.8;23.7;16.6;0.8;24.4;17.0;0.2;0.1;0.2
+336;Egypte;Meerpersoonshuishoudens met kinderen;2.5;22.0;12.0;2.4;22.4;12.2;1.1;0.4;0.6
+337;Egypte;Leeftijd hoofdkostwinner: tot 45 jaar;4.3;17.7;12.6;4.1;18.4;13.0;1.6;0.5;1.1
+338;Egypte;Leeftijd hoofdkostwinner: 45-65 jaar;1.3;21.3;14.2;1.2;21.7;14.4;0.5;0.2;0.4
+339;Egypte;Leeftijd hoofdkostwinner: 65 jr en ouder;0.1;24.2;19.5;0.1;24.2;19.5;;;
+340;Ethiopië;Totaal Kenmerken;3.5;15.6;12.0;3.3;16.5;12.6;1.4;0.7;1.0
+341;Ethiopië;Sociaal economische categorie: actief;2.1;18.2;14.1;1.9;19.2;14.8;0.3;0.1;0.1
+342;Ethiopië;Sociaal economische categorie: pensioen;;;;;;;;;
+343;Ethiopië;Soc. econ. categorie:overige uitkeringen;1.4;11.9;8.9;1.3;12.6;9.4;1.1;0.6;0.8
+344;Ethiopië;Eenpersoonshuishoudens;1.8;12.1;12.1;1.7;13.0;13.0;0.6;0.2;0.5
+345;Ethiopië;Meerpersoonshuishoudens zonder kinderen;0.5;22.2;15.6;0.5;22.8;16.0;0.1;;0.1
+346;Ethiopië;Meerpersoonshuishoudens met kinderen;1.2;18.4;10.3;1.1;19.1;10.6;0.7;0.4;0.4
+347;Ethiopië;Leeftijd hoofdkostwinner: tot 45 jaar;3.0;15.2;11.8;2.7;16.2;12.6;1.1;0.5;0.8
+348;Ethiopië;Leeftijd hoofdkostwinner: 45-65 jaar;0.6;17.8;12.6;0.6;18.3;13.0;0.2;0.1;0.2
+349;Ethiopië;Leeftijd hoofdkostwinner: 65 jr en ouder;;;;;;;;;
+350;Ghana;Totaal Kenmerken;7.0;20.0;15.2;6.6;20.6;15.6;1.7;0.5;1.1
+351;Ghana;Sociaal economische categorie: actief;5.5;21.6;16.5;5.3;22.5;17.1;0.6;0.1;0.3
+352;Ghana;Sociaal economische categorie: pensioen;0.0;15.0;10.3;0.0;15.0;10.3;;;
+353;Ghana;Soc. econ. categorie:overige uitkeringen;1.4;13.8;10.2;1.3;13.3;9.5;1.0;0.5;0.8
+354;Ghana;Eenpersoonshuishoudens;3.2;15.7;15.7;2.8;16.6;16.6;0.5;0.1;0.3
+355;Ghana;Meerpersoonshuishoudens zonder kinderen;1.0;28.6;20.2;1.0;29.0;20.5;0.1;;0.1
+356;Ghana;Meerpersoonshuishoudens met kinderen;2.8;21.7;12.8;2.8;21.9;12.9;1.1;0.4;0.7
+357;Ghana;Leeftijd hoofdkostwinner: tot 45 jaar;5.7;19.7;15.0;5.3;20.4;15.4;1.4;0.5;0.9
+358;Ghana;Leeftijd hoofdkostwinner: 45-65 jaar;1.3;21.0;16.0;1.3;21.5;16.3;0.2;0.1;0.2
+359;Ghana;Leeftijd hoofdkostwinner: 65 jr en ouder;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+360;Kaapverdië;Totaal Kenmerken;7.2;21.0;14.2;6.9;21.6;14.6;1.8;0.7;1.3
+361;Kaapverdië;Sociaal economische categorie: actief;5.2;23.5;15.7;5.0;24.2;16.1;0.5;0.1;0.3
+362;Kaapverdië;Sociaal economische categorie: pensioen;0.4;15.5;11.6;0.4;15.5;11.6;0.2;0.1;0.2
+363;Kaapverdië;Soc. econ. categorie:overige uitkeringen;1.6;13.9;9.9;1.5;14.5;10.3;1.0;0.5;0.8
+364;Kaapverdië;Eenpersoonshuishoudens;2.6;13.3;13.3;2.4;14.0;14.0;0.6;0.3;0.5
+365;Kaapverdië;Meerpersoonshuishoudens zonder kinderen;1.3;28.2;18.3;1.3;28.6;18.6;0.1;0.0;0.1
+366;Kaapverdië;Meerpersoonshuishoudens met kinderen;3.3;24.0;13.3;3.3;24.4;13.5;1.0;0.4;0.6
+367;Kaapverdië;Leeftijd hoofdkostwinner: tot 45 jaar;4.5;20.0;13.5;4.2;20.8;14.0;1.2;0.4;0.8
+368;Kaapverdië;Leeftijd hoofdkostwinner: 45-65 jaar;2.5;23.7;15.9;2.4;24.1;16.1;0.4;0.2;0.3
+369;Kaapverdië;Leeftijd hoofdkostwinner: 65 jr en ouder;0.3;12.8;10.5;0.3;12.8;10.5;0.2;0.1;0.2
+370;Somalië;Totaal Kenmerken;10.7;13.4;9.9;9.3;14.7;10.8;5.3;1.9;3.8
+371;Somalië;Sociaal economische categorie: actief;4.9;15.2;12.0;4.2;17.1;13.5;1.0;0.2;0.5
+372;Somalië;Sociaal economische categorie: pensioen;;;;;;;;;
+373;Somalië;Soc. econ. categorie:overige uitkeringen;5.7;11.8;8.1;5.0;12.6;8.6;4.3;1.8;3.3
+374;Somalië;Eenpersoonshuishoudens;5.4;10.3;10.3;4.4;11.8;11.8;2.0;0.5;1.5
+375;Somalië;Meerpersoonshuishoudens zonder kinderen;1.1;18.3;12.9;1.0;19.4;13.7;0.3;0.1;0.3
+376;Somalië;Meerpersoonshuishoudens met kinderen;4.2;16.0;8.6;3.8;16.7;9.0;3.0;1.4;2.1
+377;Somalië;Leeftijd hoofdkostwinner: tot 45 jaar;9.5;13.2;9.9;8.1;14.6;10.9;4.6;1.6;3.2
+378;Somalië;Leeftijd hoofdkostwinner: 45-65 jaar;1.1;15.1;10.1;1.0;15.6;10.4;0.6;0.3;0.5
+379;Somalië;Leeftijd hoofdkostwinner: 65 jr en ouder;0.1;11.5;9.1;0.1;12.0;9.6;0.1;;0.1
+380;Tunesië;Totaal Kenmerken;2.3;20.7;13.9;2.2;21.4;14.3;0.6;0.3;0.5
+381;Tunesië;Sociaal economische categorie: actief;1.5;23.7;15.5;1.5;24.4;16.0;0.2;0.1;0.1
+382;Tunesië;Sociaal economische categorie: pensioen;0.0;15.8;12.7;0.0;15.8;12.7;;;
+383;Tunesië;Soc. econ. categorie:overige uitkeringen;0.7;14.8;10.5;0.7;15.3;10.8;0.4;0.2;0.3
+384;Tunesië;Eenpersoonshuishoudens;0.8;13.4;13.4;0.8;14.2;14.2;0.2;0.1;0.2
+385;Tunesië;Meerpersoonshuishoudens zonder kinderen;0.5;24.9;16.6;0.5;25.1;16.7;0.1;;0.1
+386;Tunesië;Meerpersoonshuishoudens met kinderen;1.0;24.5;13.0;1.0;25.1;13.4;0.4;0.2;0.2
+387;Tunesië;Leeftijd hoofdkostwinner: tot 45 jaar;1.4;19.5;13.6;1.3;20.5;14.3;0.4;0.1;0.3
+388;Tunesië;Leeftijd hoofdkostwinner: 45-65 jaar;0.9;22.8;14.4;0.9;22.9;14.5;0.3;0.1;0.2
+389;Tunesië;Leeftijd hoofdkostwinner: 65 jr en ouder;;;;;;;;0.0;
+390;Overig Afrika;Totaal Kenmerken;19.5;18.9;14.0;17.1;20.9;15.4;5.2;1.3;3.4
+391;Overig Afrika;Sociaal economische categorie: actief;13.8;21.6;15.9;12.4;23.6;17.3;1.9;0.2;1.0
+392;Overig Afrika;Sociaal economische categorie: pensioen;0.6;24.7;19.3;0.6;24.7;19.3;0.2;0.1;0.1
+393;Overig Afrika;Soc. econ. categorie:overige uitkeringen;5.1;11.1;8.6;4.2;12.1;9.3;3.2;1.0;2.3
+394;Overig Afrika;Eenpersoonshuishoudens;9.5;12.9;12.9;7.8;14.7;14.7;2.6;0.5;1.6
+395;Overig Afrika;Meerpersoonshuishoudens zonder kinderen;3.6;27.0;19.0;3.4;28.7;20.1;0.5;0.0;0.4
+396;Overig Afrika;Meerpersoonshuishoudens met kinderen;6.3;23.4;13.0;5.9;24.5;13.6;2.2;0.7;1.4
+397;Overig Afrika;Leeftijd hoofdkostwinner: tot 45 jaar;16.4;17.8;13.3;14.3;19.8;14.7;4.5;0.9;2.9
+398;Overig Afrika;Leeftijd hoofdkostwinner: 45-65 jaar;2.5;24.9;17.6;2.4;26.2;18.5;0.6;0.3;0.4
+399;Overig Afrika;Leeftijd hoofdkostwinner: 65 jr en ouder;0.5;25.9;21.0;0.5;25.9;21.0;0.1;0.1;0.1
+400;Brazilië;Totaal Kenmerken;1.8;20.7;15.3;1.6;21.8;16.2;0.4;0.1;0.3
+401;Brazilië;Sociaal economische categorie: actief;1.4;22.4;16.5;1.2;24.1;17.7;0.1;;0.1
+402;Brazilië;Sociaal economische categorie: pensioen;0.1;21.1;15.2;0.1;21.1;15.2;;;
+403;Brazilië;Soc. econ. categorie:overige uitkeringen;0.3;13.9;10.6;0.3;11.7;9.8;0.2;0.1;0.2
+404;Brazilië;Eenpersoonshuishoudens;0.8;13.2;13.2;0.7;14.9;14.9;0.2;0.1;0.1
+405;Brazilië;Meerpersoonshuishoudens zonder kinderen;0.4;27.8;19.3;0.4;28.2;19.6;0.1;;0.1
+406;Brazilië;Meerpersoonshuishoudens met kinderen;0.5;26.8;15.1;0.4;26.5;15.0;0.1;0.1;0.1
+407;Brazilië;Leeftijd hoofdkostwinner: tot 45 jaar;1.3;19.4;14.6;1.2;21.7;16.2;0.2;0.1;0.2
+408;Brazilië;Leeftijd hoofdkostwinner: 45-65 jaar;0.4;24.4;17.3;0.4;21.9;16.1;0.1;0.1;0.1
+409;Brazilië;Leeftijd hoofdkostwinner: 65 jr en ouder;0.0;23.4;17.0;0.0;23.4;17.0;0.0;0.0;0.0
+410;Dominicaanse Republiek;Totaal Kenmerken;2.5;13.0;9.5;2.1;14.9;10.8;1.3;0.5;0.9
+411;Dominicaanse Republiek;Sociaal economische categorie: actief;1.0;16.7;11.8;0.8;19.3;13.5;0.3;0.1;0.1
+412;Dominicaanse Republiek;Sociaal economische categorie: pensioen;0.0;11.5;9.7;0.0;11.5;9.7;;;
+413;Dominicaanse Republiek;Soc. econ. categorie:overige uitkeringen;1.5;10.6;8.0;1.2;12.1;8.9;1.0;0.4;0.8
+414;Dominicaanse Republiek;Eenpersoonshuishoudens;1.2;8.4;8.4;0.8;10.5;10.5;0.6;0.2;0.4
+415;Dominicaanse Republiek;Meerpersoonshuishoudens zonder kinderen;0.3;20.0;13.5;0.2;21.8;14.7;0.1;;0.1
+416;Dominicaanse Republiek;Meerpersoonshuishoudens met kinderen;1.1;16.3;9.7;1.0;16.9;10.1;0.7;0.2;0.5
+417;Dominicaanse Republiek;Leeftijd hoofdkostwinner: tot 45 jaar;1.9;13.2;9.4;1.5;15.9;11.0;0.9;0.3;0.6
+418;Dominicaanse Republiek;Leeftijd hoofdkostwinner: 45-65 jaar;0.6;12.4;10.0;0.5;12.7;10.2;0.4;0.2;0.3
+419;Dominicaanse Republiek;Leeftijd hoofdkostwinner: 65 jr en ouder;;;;;;;;;
+420;Colombia;Totaal Kenmerken;1.7;15.6;11.9;1.4;17.6;13.4;0.6;0.2;0.4
+421;Colombia;Sociaal economische categorie: actief;1.1;17.6;13.4;0.9;20.6;15.5;0.2;0.0;0.1
+422;Colombia;Sociaal economische categorie: pensioen;;;;;;;;;
+423;Colombia;Soc. econ. categorie:overige uitkeringen;0.5;11.0;8.7;0.5;11.7;9.2;0.4;0.1;0.3
+424;Colombia;Eenpersoonshuishoudens;0.8;10.4;10.4;0.6;12.4;12.4;0.3;0.1;0.2
+425;Colombia;Meerpersoonshuishoudens zonder kinderen;0.3;26.0;18.2;0.3;27.0;18.9;0.1;;0.0
+426;Colombia;Meerpersoonshuishoudens met kinderen;0.6;18.2;11.1;0.5;19.6;12.0;0.2;0.1;0.2
+427;Colombia;Leeftijd hoofdkostwinner: tot 45 jaar;1.3;16.0;12.2;1.0;18.4;14.0;0.4;0.1;0.3
+428;Colombia;Leeftijd hoofdkostwinner: 45-65 jaar;0.4;14.7;11.1;0.3;15.6;11.8;0.2;0.1;0.1
+429;Colombia;Leeftijd hoofdkostwinner: 65 jr en ouder;;;;;;;;;
+430;Overig Latijns Amerika;Totaal Kenmerken;7.8;20.2;14.5;7.2;21.4;15.3;2.3;1.0;1.8
+431;Overig Latijns Amerika;Sociaal economische categorie: actief;5.6;23.0;16.1;5.2;24.4;17.0;0.9;0.1;0.6
+432;Overig Latijns Amerika;Sociaal economische categorie: pensioen;0.5;17.6;14.4;0.5;18.0;14.7;0.2;0.2;0.2
+433;Overig Latijns Amerika;Soc. econ. categorie:overige uitkeringen;1.7;11.8;9.3;1.5;12.3;9.7;1.2;0.7;1.0
+434;Overig Latijns Amerika;Eenpersoonshuishoudens;3.5;12.2;12.2;3.1;13.3;13.3;1.3;0.6;1.0
+435;Overig Latijns Amerika;Meerpersoonshuishoudens zonder kinderen;1.8;29.0;19.6;1.7;29.9;20.3;0.2;0.1;0.2
+436;Overig Latijns Amerika;Meerpersoonshuishoudens met kinderen;2.6;24.9;14.0;2.4;25.8;14.5;0.8;0.3;0.5
+437;Overig Latijns Amerika;Leeftijd hoofdkostwinner: tot 45 jaar;5.0;19.8;14.1;4.5;21.5;15.3;1.2;0.3;0.9
+438;Overig Latijns Amerika;Leeftijd hoofdkostwinner: 45-65 jaar;2.3;22.1;15.5;2.2;22.6;15.9;0.7;0.4;0.6
+439;Overig Latijns Amerika;Leeftijd hoofdkostwinner: 65 jr en ouder;0.5;15.0;12.7;0.5;15.2;12.9;0.3;0.3;0.3

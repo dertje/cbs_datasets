@@ -1,0 +1,115 @@
+﻿ID;Regio;SoortCijfer;RoomsKatholiek_1;Gereformeerd_2;NederlandsHervormd_3;Islam_4;GeenKerkelijkeGezindte_5
+0;Totaal Nederland;Percentages;30.4;6.7;13.1;5.7;40.7
+1;Totaal Nederland;Standaardfout;0.2;0.1;0.1;0.0;0.2
+2;Noord Nederland;Percentages;7.7;15.5;17.9;2.0;51.8
+3;Noord Nederland;Standaardfout;0.3;0.4;0.4;0.0;0.5
+4;Oost Nederland;Percentages;26.1;8.8;20.0;4.4;36.8
+5;Oost Nederland;Standaardfout;0.3;0.2;0.3;0.0;0.4
+6;West Nederland;Percentages;19.1;6.3;13.5;7.8;49.2
+7;West Nederland;Standaardfout;0.2;0.1;0.2;0.0;0.3
+8;Zuid Nederland;Percentages;69.0;1.4;3.4;4.2;21.2
+9;Zuid Nederland;Standaardfout;0.3;0.1;0.1;0.0;0.3
+10;Groningen;Percentages;6.3;14.7;12.9;2.5;58.9
+11;Groningen;Standaardfout;0.4;0.6;0.6;0.0;0.9
+12;Friesland;Percentages;7.6;18.4;18.5;1.9;47.9
+13;Friesland;Standaardfout;0.5;0.7;0.7;0.0;0.9
+14;Drenthe;Percentages;9.6;12.6;23.1;1.7;48.6
+15;Drenthe;Standaardfout;0.6;0.7;0.8;0.0;1.0
+16;Overijssel;Percentages;26.6;10.0;19.7;4.5;34.7
+17;Overijssel;Standaardfout;0.6;0.4;0.5;0.0;0.6
+18;Flevoland;Percentages;13.6;11.7;10.1;6.0;53.5
+19;Flevoland;Standaardfout;0.8;0.8;0.7;0.0;1.2
+20;Gelderland;Percentages;27.9;7.6;21.8;4.0;35.2
+21;Gelderland;Standaardfout;0.4;0.3;0.4;0.0;0.5
+22;Utrecht;Percentages;20.7;8.4;16.5;7.0;43.7
+23;Utrecht;Standaardfout;0.5;0.4;0.5;0.0;0.6
+24;Noord Holland;Percentages;19.8;3.5;7.3;8.3;57.8
+25;Noord Holland;Standaardfout;0.3;0.2;0.2;0.0;0.4
+26;Zuid Holland;Percentages;18.0;7.1;16.1;8.3;46.0
+27;Zuid Holland;Standaardfout;0.3;0.2;0.3;0.0;0.4
+28;Zeeland;Percentages;20.8;12.3;23.8;2.3;36.4
+29;Zeeland;Standaardfout;0.9;0.7;1.0;0.0;1.1
+30;Noord Brabant;Percentages;64.4;1.8;4.3;4.5;24.2
+31;Noord Brabant;Standaardfout;0.4;0.1;0.2;0.0;0.4
+32;Limburg;Percentages;78.4;0.7;1.4;3.5;14.8
+33;Limburg;Standaardfout;0.5;0.1;0.2;0.0;0.5
+34;Oost-Groningen;Percentages;6.4;9.6;16.1;1.9;60.9
+35;Oost-Groningen;Standaardfout;0.9;1.0;1.3;0.0;1.7
+36;Delfzijl en omgeving;Percentages;2.8;14.9;17.8;3.0;56.6
+37;Delfzijl en omgeving;Standaardfout;1.0;2.1;2.3;0.0;3.0
+38;Overig Groningen;Percentages;6.7;16.8;10.8;2.6;58.5
+39;Overig Groningen;Standaardfout;0.6;0.9;0.7;0.0;1.1
+40;Noord-Friesland;Percentages;5.6;21.0;18.2;1.9;47.3
+41;Noord-Friesland;Standaardfout;0.5;1.0;0.9;0.0;1.2
+42;Zuidwest-Friesland;Percentages;10.8;14.1;26.6;1.5;40.9
+43;Zuidwest-Friesland;Standaardfout;1.3;1.5;1.9;0.0;2.1
+44;Zuidoost-Friesland;Percentages;9.5;15.9;14.8;1.9;52.8
+45;Zuidoost-Friesland;Standaardfout;0.9;1.2;1.1;0.0;1.6
+46;Noord-Drenthe;Percentages;5.8;14.3;19.8;1.6;54.2
+47;Noord-Drenthe;Standaardfout;0.8;1.2;1.3;0.0;1.7
+48;Zuidoost-Drenthe;Percentages;16.4;6.7;22.3;1.7;48.5
+49;Zuidoost-Drenthe;Standaardfout;1.3;0.8;1.4;0.0;1.7
+50;Zuidwest-Drenthe;Percentages;6.0;17.7;28.1;1.9;41.7
+51;Zuidwest-Drenthe;Standaardfout;0.9;1.4;1.7;0.0;1.8
+52;Noord-Overijssel;Percentages;11.9;20.5;29.8;2.4;31.0
+53;Noord-Overijssel;Standaardfout;0.8;1.0;1.1;0.0;1.1
+54;Zuidwest-Overijssel;Percentages;29.8;2.6;14.8;5.6;44.7
+55;Zuidwest-Overijssel;Standaardfout;1.6;0.6;1.2;0.0;1.7
+56;Twente;Percentages;33.9;6.1;15.5;5.4;34.0
+57;Twente;Standaardfout;0.8;0.4;0.6;0.0;0.8
+58;Veluwe;Percentages;10.7;15.3;32.3;3.5;31.8
+59;Veluwe;Standaardfout;0.5;0.6;0.8;0.0;0.8
+60;Achterhoek;Percentages;34.4;4.7;23.9;3.0;31.2
+61;Achterhoek;Standaardfout;1.0;0.5;0.9;0.0;1.0
+62;Arnhem/Nijmegen;Percentages;41.3;2.5;9.1;4.9;40.4
+63;Arnhem/Nijmegen;Standaardfout;0.8;0.3;0.5;0.0;0.8
+64;Zuidwest-Gelderland;Percentages;23.8;7.3;26.7;4.1;36.2
+65;Zuidwest-Gelderland;Standaardfout;1.2;0.8;1.3;0.0;1.4
+66;Utrecht;Percentages;20.7;8.4;16.5;7.0;43.7
+67;Utrecht;Standaardfout;0.5;0.4;0.5;0.0;0.6
+68;Kop van Noord-Holland;Percentages;29.7;4.0;5.8;2.1;56.2
+69;Kop van Noord-Holland;Standaardfout;1.0;0.4;0.5;0.0;1.1
+70;Alkmaar en omgeving;Percentages;25.2;3.6;7.8;4.0;55.4
+71;Alkmaar en omgeving;Standaardfout;1.3;0.5;0.8;0.0;1.4
+72;IJmond;Percentages;29.7;4.3;6.4;3.7;53.4
+73;IJmond;Standaardfout;1.5;0.7;0.8;0.0;1.6
+74;Agglomeratie Haarlem;Percentages;18.2;2.8;6.3;6.4;64.4
+75;Agglomeratie Haarlem;Standaardfout;1.2;0.5;0.7;0.0;1.4
+76;Zaanstreek;Percentages;15.8;4.3;5.5;8.8;63.5
+77;Zaanstreek;Standaardfout;1.3;0.7;0.8;0.0;1.8
+78;Groot Amsterdam;Percentages;15.3;3.0;6.4;12.7;59.2
+79;Groot Amsterdam;Standaardfout;0.5;0.2;0.3;0.0;0.6
+80;Het Gooi en Vechtstreek;Percentages;18.1;5.2;16.5;4.9;49.4
+81;Het Gooi en Vechtstreek;Standaardfout;1.1;0.6;1.1;0.0;1.4
+82;Aggl. Leiden en Bollenstreek;Percentages;26.9;8.1;16.3;4.1;41.8
+83;Aggl. Leiden en Bollenstreek;Standaardfout;0.9;0.6;0.8;0.0;1.0
+84;Agglomeratie 's-Gravenhage;Percentages;21.5;4.2;11.1;11.0;47.8
+85;Agglomeratie 's-Gravenhage;Standaardfout;0.7;0.3;0.5;0.0;0.8
+86;Delft en Westland;Percentages;29.7;10.4;14.4;5.2;37.6
+87;Delft en Westland;Standaardfout;1.3;0.9;1.0;0.0;1.4
+88;Oost-Zuid-Holland;Percentages;19.9;9.8;18.8;5.1;44.1
+89;Oost-Zuid-Holland;Standaardfout;1.0;0.7;1.0;0.0;1.2
+90;Groot Rijnmond;Percentages;14.2;6.2;15.5;9.9;48.6
+91;Groot Rijnmond;Standaardfout;0.4;0.3;0.4;0.0;0.6
+92;Zuidoost-Zuid-Holland;Percentages;8.3;9.9;24.5;5.8;45.2
+93;Zuidoost-Zuid-Holland;Standaardfout;0.6;0.6;0.9;0.0;1.0
+94;Zeeuws-Vlaanderen;Percentages;44.9;6.2;15.8;2.4;29.7
+95;Zeeuws-Vlaanderen;Standaardfout;2.1;1.0;1.6;0.0;2.0
+96;Overig Zeeland;Percentages;11.7;14.6;26.8;2.3;38.9
+97;Overig Zeeland;Standaardfout;0.9;0.9;1.2;0.0;1.3
+98;West-Noord-Brabant;Percentages;59.4;2.3;5.5;5.1;27.4
+99;West-Noord-Brabant;Standaardfout;0.9;0.3;0.4;0.0;0.8
+100;Midden-Noord-Brabant;Percentages;60.7;4.4;7.8;4.8;21.7
+101;Midden-Noord-Brabant;Standaardfout;1.1;0.4;0.6;0.0;0.9
+102;Noordoost-Noord-Brabant;Percentages;70.0;0.6;2.7;4.0;22.0
+103;Noordoost-Noord-Brabant;Standaardfout;0.8;0.1;0.3;0.0;0.7
+104;Zuidoost-Noord-Brabant;Percentages;65.4;1.1;2.9;4.2;25.1
+105;Zuidoost-Noord-Brabant;Standaardfout;0.8;0.2;0.3;0.0;0.7
+106;Noord-Limburg;Percentages;76.0;0.7;0.9;4.6;17.3
+107;Noord-Limburg;Standaardfout;1.1;0.2;0.2;0.0;1.0
+108;Midden-Limburg;Percentages;81.6;0.4;1.1;4.0;12.5
+109;Midden-Limburg;Standaardfout;1.1;0.2;0.3;0.0;0.9
+110;Zuid-Limburg;Percentages;78.4;0.8;1.7;2.9;14.6
+111;Zuid-Limburg;Standaardfout;0.7;0.2;0.2;0.0;0.6
+112;Flevoland;Percentages;13.6;11.7;10.1;6.0;53.5
+113;Flevoland;Standaardfout;0.8;0.8;0.7;0.0;1.2

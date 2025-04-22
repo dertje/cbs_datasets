@@ -1,0 +1,463 @@
+﻿ID;Countries;Periods;OfficeRentsAndOccupancyCosts_1
+0;Australia - Sydney;2001 January;374.0
+1;Australia - Sydney;2001 July;373.0
+2;Australia - Sydney;2002 January;360.0
+3;Australia - Sydney;2002 July;414.0
+4;Australia - Sydney;2003 January;397.0
+5;Australia - Sydney;2003 August;472.0
+6;Australia - Sydney;2004 January;527.0
+7;Australia - Sydney;2004 August;490.0
+8;Australia - Sydney;2005 January;540.0
+9;Australia - Sydney;2005 August;435.0
+10;Australia - Sydney;2006 May;426.0
+11;Australia - Sydney;2006 November;462.0
+12;Australia - Sydney;2007 May;529.0
+13;Australia - Sydney;2007 November;563.0
+14;Australia - Sydney;2008 May;738.0
+15;Australia - Sydney;2008 November;639.0
+16;Australia - Sydney;2009 May;456.0
+17;Australia - Sydney;2009 November;560.0
+18;Australia - Sydney;2010 May;574.0
+19;Australia - Sydney;2010 November;615.0
+20;Australia - Sydney;2012 April;1269.0
+21;Australia - Sydney;2013 April;1283.0
+22;Austria - Vienna;2001 January;291.0
+23;Austria - Vienna;2001 July;250.0
+24;Austria - Vienna;2002 January;259.0
+25;Austria - Vienna;2002 July;297.0
+26;Austria - Vienna;2003 January;319.0
+27;Austria - Vienna;2003 August;341.0
+28;Austria - Vienna;2004 January;374.0
+29;Austria - Vienna;2004 August;360.0
+30;Austria - Vienna;2005 January;397.0
+31;Austria - Vienna;2005 August;361.0
+32;Austria - Vienna;2006 May;361.0
+33;Austria - Vienna;2006 November;379.0
+34;Austria - Vienna;2007 May;407.0
+35;Austria - Vienna;2007 November;450.0
+36;Austria - Vienna;2008 May;520.0
+37;Austria - Vienna;2008 November;488.0
+38;Austria - Vienna;2009 May;452.0
+39;Austria - Vienna;2009 November;485.0
+40;Austria - Vienna;2010 May;448.0
+41;Austria - Vienna;2010 November;452.0
+42;Austria - Vienna;2012 April;475.0
+43;Austria - Vienna;2013 April;461.0
+44;Belgium - Brussels;2001 January;291.0
+45;Belgium - Brussels;2001 July;297.0
+46;Belgium - Brussels;2002 January;313.0
+47;Belgium - Brussels;2002 July;366.0
+48;Belgium - Brussels;2003 January;426.0
+49;Belgium - Brussels;2003 August;471.0
+50;Belgium - Brussels;2004 January;510.0
+51;Belgium - Brussels;2004 August;534.0
+52;Belgium - Brussels;2005 January;583.0
+53;Belgium - Brussels;2005 August;531.0
+54;Belgium - Brussels;2006 May;544.0
+55;Belgium - Brussels;2006 November;571.0
+56;Belgium - Brussels;2007 May;600.0
+57;Belgium - Brussels;2007 November;642.0
+58;Belgium - Brussels;2008 May;697.0
+59;Belgium - Brussels;2008 November;618.0
+60;Belgium - Brussels;2009 May;543.0
+61;Belgium - Brussels;2009 November;582.0
+62;Belgium - Brussels;2010 May;537.0
+63;Belgium - Brussels;2010 November;595.0
+64;Belgium - Brussels;2012 April;581.0
+65;Belgium - Brussels;2013 April;559.0
+66;Canada - Calgary;2001 January;
+67;Canada - Calgary;2001 July;
+68;Canada - Calgary;2002 January;
+69;Canada - Calgary;2002 July;
+70;Canada - Calgary;2003 January;
+71;Canada - Calgary;2003 August;
+72;Canada - Calgary;2004 January;
+73;Canada - Calgary;2004 August;
+74;Canada - Calgary;2005 January;
+75;Canada - Calgary;2005 August;
+76;Canada - Calgary;2006 May;
+77;Canada - Calgary;2006 November;576.0
+78;Canada - Calgary;2007 May;597.0
+79;Canada - Calgary;2007 November;693.0
+80;Canada - Calgary;2008 May;713.0
+81;Canada - Calgary;2008 November;
+82;Canada - Calgary;2009 May;
+83;Canada - Calgary;2009 November;
+84;Canada - Calgary;2010 May;
+85;Canada - Calgary;2010 November;
+86;Canada - Calgary;2012 April;
+87;Canada - Calgary;2013 April;
+88;Canada - Toronto (CBD);2001 January;408.0
+89;Canada - Toronto (CBD);2001 July;383.0
+90;Canada - Toronto (CBD);2002 January;367.0
+91;Canada - Toronto (CBD);2002 July;376.0
+92;Canada - Toronto (CBD);2003 January;371.0
+93;Canada - Toronto (CBD);2003 August;386.0
+94;Canada - Toronto (CBD);2004 January;449.0
+95;Canada - Toronto (CBD);2004 August;385.0
+96;Canada - Toronto (CBD);2005 January;465.0
+97;Canada - Toronto (CBD);2005 August;406.0
+98;Canada - Toronto (CBD);2006 May;543.0
+99;Canada - Toronto (CBD);2006 November;568.0
+100;Canada - Toronto (CBD);2007 May;562.0
+101;Canada - Toronto (CBD);2007 November;686.0
+102;Canada - Toronto (CBD);2008 May;672.0
+103;Canada - Toronto (CBD);2008 November;662.0
+104;Canada - Toronto (CBD);2009 May;558.0
+105;Canada - Toronto (CBD);2009 November;654.0
+106;Canada - Toronto (CBD);2010 May;644.0
+107;Canada - Toronto (CBD);2010 November;636.0
+108;Canada - Toronto (CBD);2012 April;766.0
+109;Canada - Toronto (CBD);2013 April;661.0
+110;Czech Republic - Prague;2001 January;281.0
+111;Czech Republic - Prague;2001 July;285.0
+112;Czech Republic - Prague;2002 January;284.0
+113;Czech Republic - Prague;2002 July;310.0
+114;Czech Republic - Prague;2003 January;327.0
+115;Czech Republic - Prague;2003 August;345.0
+116;Czech Republic - Prague;2004 January;374.0
+117;Czech Republic - Prague;2004 August;372.0
+118;Czech Republic - Prague;2005 January;389.0
+119;Czech Republic - Prague;2005 August;404.0
+120;Czech Republic - Prague;2006 May;346.0
+121;Czech Republic - Prague;2006 November;380.0
+122;Czech Republic - Prague;2007 May;413.0
+123;Czech Republic - Prague;2007 November;437.0
+124;Czech Republic - Prague;2008 May;603.0
+125;Czech Republic - Prague;2008 November;579.0
+126;Czech Republic - Prague;2009 May;573.0
+127;Czech Republic - Prague;2009 November;566.0
+128;Czech Republic - Prague;2010 May;535.0
+129;Czech Republic - Prague;2010 November;524.0
+130;Czech Republic - Prague;2012 April;527.0
+131;Czech Republic - Prague;2013 April;511.0
+132;Denmark - Copenhagen;2001 January;287.0
+133;Denmark - Copenhagen;2001 July;280.0
+134;Denmark - Copenhagen;2002 January;291.0
+135;Denmark - Copenhagen;2002 July;316.0
+136;Denmark - Copenhagen;2003 January;335.0
+137;Denmark - Copenhagen;2003 August;368.0
+138;Denmark - Copenhagen;2004 January;400.0
+139;Denmark - Copenhagen;2004 August;381.0
+140;Denmark - Copenhagen;2005 January;416.0
+141;Denmark - Copenhagen;2005 August;378.0
+142;Denmark - Copenhagen;2006 May;381.0
+143;Denmark - Copenhagen;2006 November;410.0
+144;Denmark - Copenhagen;2007 May;452.0
+145;Denmark - Copenhagen;2007 November;494.0
+146;Denmark - Copenhagen;2008 May;562.0
+147;Denmark - Copenhagen;2008 November;498.0
+148;Denmark - Copenhagen;2009 May;476.0
+149;Denmark - Copenhagen;2009 November;498.0
+150;Denmark - Copenhagen;2010 May;450.0
+151;Denmark - Copenhagen;2010 November;453.0
+152;Denmark - Copenhagen;2012 April;458.0
+153;Denmark - Copenhagen;2013 April;436.0
+154;Finland - Helsinki;2001 January;335.0
+155;Finland - Helsinki;2001 July;319.0
+156;Finland - Helsinki;2002 January;326.0
+157;Finland - Helsinki;2002 July;354.0
+158;Finland - Helsinki;2003 January;336.0
+159;Finland - Helsinki;2003 August;364.0
+160;Finland - Helsinki;2004 January;387.0
+161;Finland - Helsinki;2004 August;377.0
+162;Finland - Helsinki;2005 January;398.0
+163;Finland - Helsinki;2005 August;365.0
+164;Finland - Helsinki;2006 May;402.0
+165;Finland - Helsinki;2006 November;363.0
+166;Finland - Helsinki;2007 May;473.0
+167;Finland - Helsinki;2007 November;475.0
+168;Finland - Helsinki;2008 May;616.0
+169;Finland - Helsinki;2008 November;562.0
+170;Finland - Helsinki;2009 May;512.0
+171;Finland - Helsinki;2009 November;537.0
+172;Finland - Helsinki;2010 May;477.0
+173;Finland - Helsinki;2010 November;580.0
+174;Finland - Helsinki;2012 April;555.0
+175;Finland - Helsinki;2013 April;545.0
+176;France - Paris;2001 January;908.0
+177;France - Paris;2001 July;864.0
+178;France - Paris;2002 January;824.0
+179;France - Paris;2002 July;901.0
+180;France - Paris;2003 January;882.0
+181;France - Paris;2003 August;975.0
+182;France - Paris;2004 January;1016.0
+183;France - Paris;2004 August;902.0
+184;France - Paris;2005 January;1038.0
+185;France - Paris;2005 August;964.0
+186;France - Paris;2006 May;993.0
+187;France - Paris;2006 November;1136.0
+188;France - Paris;2007 May;1202.0
+189;France - Paris;2007 November;1372.0
+190;France - Paris;2008 May;1528.0
+191;France - Paris;2008 November;1417.0
+192;France - Paris;2009 May;1237.0
+193;France - Paris;2009 November;1319.0
+194;France - Paris;2010 May;1219.0
+195;France - Paris;2010 November;1246.0
+196;France - Paris;2012 April;1333.0
+197;France - Paris;2013 April;1284.0
+198;Germany - Frankfurt am Main;2001 January;628.0
+199;Germany - Frankfurt am Main;2001 July;654.0
+200;Germany - Frankfurt am Main;2002 January;651.0
+201;Germany - Frankfurt am Main;2002 July;610.0
+202;Germany - Frankfurt am Main;2003 January;614.0
+203;Germany - Frankfurt am Main;2003 August;660.0
+204;Germany - Frankfurt am Main;2004 January;651.0
+205;Germany - Frankfurt am Main;2004 August;634.0
+206;Germany - Frankfurt am Main;2005 January;676.0
+207;Germany - Frankfurt am Main;2005 August;684.0
+208;Germany - Frankfurt am Main;2006 May;582.0
+209;Germany - Frankfurt am Main;2006 November;606.0
+210;Germany - Frankfurt am Main;2007 May;654.0
+211;Germany - Frankfurt am Main;2007 November;726.0
+212;Germany - Frankfurt am Main;2008 May;889.0
+213;Germany - Frankfurt am Main;2008 November;798.0
+214;Germany - Frankfurt am Main;2009 May;735.0
+215;Germany - Frankfurt am Main;2009 November;812.0
+216;Germany - Frankfurt am Main;2010 May;750.0
+217;Germany - Frankfurt am Main;2010 November;756.0
+218;Germany - Frankfurt am Main;2012 April;739.0
+219;Germany - Frankfurt am Main;2013 April;711.0
+220;Hungary - Budapest;2001 January;269.0
+221;Hungary - Budapest;2001 July;259.0
+222;Hungary - Budapest;2002 January;254.0
+223;Hungary - Budapest;2002 July;267.0
+224;Hungary - Budapest;2003 January;283.0
+225;Hungary - Budapest;2003 August;305.0
+226;Hungary - Budapest;2004 January;330.0
+227;Hungary - Budapest;2004 August;322.0
+228;Hungary - Budapest;2005 January;352.0
+229;Hungary - Budapest;2005 August;459.0
+230;Hungary - Budapest;2006 May;377.0
+231;Hungary - Budapest;2006 November;397.0
+232;Hungary - Budapest;2007 May;435.0
+233;Hungary - Budapest;2007 November;484.0
+234;Hungary - Budapest;2008 May;549.0
+235;Hungary - Budapest;2008 November;500.0
+236;Hungary - Budapest;2009 May;433.0
+237;Hungary - Budapest;2009 November;472.0
+238;Hungary - Budapest;2010 May;436.0
+239;Hungary - Budapest;2010 November;440.0
+240;Hungary - Budapest;2012 April;430.0
+241;Hungary - Budapest;2013 April;414.0
+242;Ireland - Dublin;2001 January;571.0
+243;Ireland - Dublin;2001 July;547.0
+244;Ireland - Dublin;2002 January;568.0
+245;Ireland - Dublin;2002 July;621.0
+246;Ireland - Dublin;2003 January;648.0
+247;Ireland - Dublin;2003 August;716.0
+248;Ireland - Dublin;2004 January;750.0
+249;Ireland - Dublin;2004 August;730.0
+250;Ireland - Dublin;2005 January;805.0
+251;Ireland - Dublin;2005 August;874.0
+252;Ireland - Dublin;2006 May;939.0
+253;Ireland - Dublin;2006 November;996.0
+254;Ireland - Dublin;2007 May;1146.0
+255;Ireland - Dublin;2007 November;1223.0
+256;Ireland - Dublin;2008 May;1363.0
+257;Ireland - Dublin;2008 November;1169.0
+258;Ireland - Dublin;2009 May;1007.0
+259;Ireland - Dublin;2009 November;875.0
+260;Ireland - Dublin;2010 May;721.0
+261;Ireland - Dublin;2010 November;714.0
+262;Ireland - Dublin;2012 April;580.0
+263;Ireland - Dublin;2013 April;570.0
+264;Italy - Milan;2001 January;390.0
+265;Italy - Milan;2001 July;407.0
+266;Italy - Milan;2002 January;422.0
+267;Italy - Milan;2002 July;519.0
+268;Italy - Milan;2003 January;557.0
+269;Italy - Milan;2003 August;552.0
+270;Italy - Milan;2004 January;735.0
+271;Italy - Milan;2004 August;653.0
+272;Italy - Milan;2005 January;685.0
+273;Italy - Milan;2005 August;656.0
+274;Italy - Milan;2006 May;645.0
+275;Italy - Milan;2006 November;689.0
+276;Italy - Milan;2007 May;733.0
+277;Italy - Milan;2007 November;785.0
+278;Italy - Milan;2008 May;919.0
+279;Italy - Milan;2008 November;923.0
+280;Italy - Milan;2009 May;871.0
+281;Italy - Milan;2009 November;909.0
+282;Italy - Milan;2010 May;839.0
+283;Italy - Milan;2010 November;846.0
+284;Italy - Milan;2012 April;827.0
+285;Italy - Milan;2013 April;768.0
+286;Japan - Tokyo, Inner Central;2001 January;1583.0
+287;Japan - Tokyo, Inner Central;2001 July;1336.0
+288;Japan - Tokyo, Inner Central;2002 January;1317.0
+289;Japan - Tokyo, Inner Central;2002 July;1465.0
+290;Japan - Tokyo, Inner Central;2003 January;1271.0
+291;Japan - Tokyo, Inner Central;2003 August;1229.0
+292;Japan - Tokyo, Inner Central;2004 January;1271.0
+293;Japan - Tokyo, Inner Central;2004 August;1251.0
+294;Japan - Tokyo, Inner Central;2005 January;1339.0
+295;Japan - Tokyo, Inner Central;2005 August;1411.0
+296;Japan - Tokyo, Inner Central;2006 May;1400.0
+297;Japan - Tokyo, Inner Central;2006 November;1568.0
+298;Japan - Tokyo, Inner Central;2007 May;1745.0
+299;Japan - Tokyo, Inner Central;2007 November;1922.0
+300;Japan - Tokyo, Inner Central;2008 May;2371.0
+301;Japan - Tokyo, Inner Central;2008 November;1983.0
+302;Japan - Tokyo, Inner Central;2009 May;1977.0
+303;Japan - Tokyo, Inner Central;2009 November;1848.0
+304;Japan - Tokyo, Inner Central;2010 May;1550.0
+305;Japan - Tokyo, Inner Central;2010 November;1702.0
+306;Japan - Tokyo, Inner Central;2012 April;2007.0
+307;Japan - Tokyo, Inner Central;2013 April;1735.0
+308;The Netherlands - Amsterdam;2001 January;363.0
+309;The Netherlands - Amsterdam;2001 July;359.0
+310;The Netherlands - Amsterdam;2002 January;372.0
+311;The Netherlands - Amsterdam;2002 July;383.0
+312;The Netherlands - Amsterdam;2003 January;417.0
+313;The Netherlands - Amsterdam;2003 August;442.0
+314;The Netherlands - Amsterdam;2004 January;472.0
+315;The Netherlands - Amsterdam;2004 August;453.0
+316;The Netherlands - Amsterdam;2005 January;481.0
+317;The Netherlands - Amsterdam;2005 August;438.0
+318;The Netherlands - Amsterdam;2006 May;442.0
+319;The Netherlands - Amsterdam;2006 November;499.0
+320;The Netherlands - Amsterdam;2007 May;525.0
+321;The Netherlands - Amsterdam;2007 November;561.0
+322;The Netherlands - Amsterdam;2008 May;624.0
+323;The Netherlands - Amsterdam;2008 November;566.0
+324;The Netherlands - Amsterdam;2009 May;531.0
+325;The Netherlands - Amsterdam;2009 November;586.0
+326;The Netherlands - Amsterdam;2010 May;542.0
+327;The Netherlands - Amsterdam;2010 November;546.0
+328;The Netherlands - Amsterdam;2012 April;547.0
+329;The Netherlands - Amsterdam;2013 April;529.0
+330;Poland - Warsaw;2001 January;427.0
+331;Poland - Warsaw;2001 July;420.0
+332;Poland - Warsaw;2002 January;413.0
+333;Poland - Warsaw;2002 July;413.0
+334;Poland - Warsaw;2003 January;413.0
+335;Poland - Warsaw;2003 August;473.0
+336;Poland - Warsaw;2004 January;459.0
+337;Poland - Warsaw;2004 August;459.0
+338;Poland - Warsaw;2005 January;459.0
+339;Poland - Warsaw;2005 August;401.0
+340;Poland - Warsaw;2006 May;394.0
+341;Poland - Warsaw;2006 November;448.0
+342;Poland - Warsaw;2007 May;524.0
+343;Poland - Warsaw;2007 November;741.0
+344;Poland - Warsaw;2008 May;824.0
+345;Poland - Warsaw;2008 November;768.0
+346;Poland - Warsaw;2009 May;583.0
+347;Poland - Warsaw;2009 November;566.0
+348;Poland - Warsaw;2010 May;522.0
+349;Poland - Warsaw;2010 November;563.0
+350;Poland - Warsaw;2012 April;586.0
+351;Poland - Warsaw;2013 April;564.0
+352;South Korea - Seoul;2001 January;671.0
+353;South Korea - Seoul;2001 July;626.0
+354;South Korea - Seoul;2002 January;523.0
+355;South Korea - Seoul;2002 July;549.0
+356;South Korea - Seoul;2003 January;555.0
+357;South Korea - Seoul;2003 August;562.0
+358;South Korea - Seoul;2004 January;560.0
+359;South Korea - Seoul;2004 August;583.0
+360;South Korea - Seoul;2005 January;630.0
+361;South Korea - Seoul;2005 August;665.0
+362;South Korea - Seoul;2006 May;743.0
+363;South Korea - Seoul;2006 November;769.0
+364;South Korea - Seoul;2007 May;791.0
+365;South Korea - Seoul;2007 November;835.0
+366;South Korea - Seoul;2008 May;769.0
+367;South Korea - Seoul;2008 November;648.0
+368;South Korea - Seoul;2009 May;583.0
+369;South Korea - Seoul;2009 November;681.0
+370;South Korea - Seoul;2010 May;773.0
+371;South Korea - Seoul;2010 November;764.0
+372;South Korea - Seoul;2012 April;976.0
+373;South Korea - Seoul;2013 April;1008.0
+374;Spain - Madrid;2001 January;520.0
+375;Spain - Madrid;2001 July;542.0
+376;Spain - Madrid;2002 January;555.0
+377;Spain - Madrid;2002 July;563.0
+378;Spain - Madrid;2003 January;550.0
+379;Spain - Madrid;2003 August;548.0
+380;Spain - Madrid;2004 January;553.0
+381;Spain - Madrid;2004 August;511.0
+382;Spain - Madrid;2005 January;596.0
+383;Spain - Madrid;2005 August;569.0
+384;Spain - Madrid;2006 May;581.0
+385;Spain - Madrid;2006 November;714.0
+386;Spain - Madrid;2007 May;844.0
+387;Spain - Madrid;2007 November;905.0
+388;Spain - Madrid;2008 May;1040.0
+389;Spain - Madrid;2008 November;952.0
+390;Spain - Madrid;2009 May;716.0
+391;Spain - Madrid;2009 November;728.0
+392;Spain - Madrid;2010 May;653.0
+393;Spain - Madrid;2010 November;621.0
+394;Spain - Madrid;2012 April;587.0
+395;Spain - Madrid;2013 April;543.0
+396;Sweden - Stockholm;2001 January;579.0
+397;Sweden - Stockholm;2001 July;508.0
+398;Sweden - Stockholm;2002 January;448.0
+399;Sweden - Stockholm;2002 July;500.0
+400;Sweden - Stockholm;2003 January;498.0
+401;Sweden - Stockholm;2003 August;533.0
+402;Sweden - Stockholm;2004 January;570.0
+403;Sweden - Stockholm;2004 August;537.0
+404;Sweden - Stockholm;2005 January;599.0
+405;Sweden - Stockholm;2005 August;518.0
+406;Sweden - Stockholm;2006 May;562.0
+407;Sweden - Stockholm;2006 November;631.0
+408;Sweden - Stockholm;2007 May;675.0
+409;Sweden - Stockholm;2007 November;824.0
+410;Sweden - Stockholm;2008 May;933.0
+411;Sweden - Stockholm;2008 November;794.0
+412;Sweden - Stockholm;2009 May;631.0
+413;Sweden - Stockholm;2009 November;731.0
+414;Sweden - Stockholm;2010 May;707.0
+415;Sweden - Stockholm;2010 November;789.0
+416;Sweden - Stockholm;2012 April;812.0
+417;Sweden - Stockholm;2013 April;825.0
+418;United Kingdom - London, West End;2001 January;1689.0
+419;United Kingdom - London, West End;2001 July;1697.0
+420;United Kingdom - London, West End;2002 January;1575.0
+421;United Kingdom - London, West End;2002 July;1601.0
+422;United Kingdom - London, West End;2003 January;1624.0
+423;United Kingdom - London, West End;2003 August;1599.0
+424;United Kingdom - London, West End;2004 January;1606.0
+425;United Kingdom - London, West End;2004 August;1909.0
+426;United Kingdom - London, West End;2005 January;2062.0
+427;United Kingdom - London, West End;2005 August;1923.0
+428;United Kingdom - London, West End;2006 May;2079.0
+429;United Kingdom - London, West End;2006 November;2282.0
+430;United Kingdom - London, West End;2007 May;2597.0
+431;United Kingdom - London, West End;2007 November;3540.0
+432;United Kingdom - London, West End;2008 May;3224.0
+433;United Kingdom - London, West End;2008 November;2677.0
+434;United Kingdom - London, West End;2009 May;1858.0
+435;United Kingdom - London, West End;2009 November;1990.0
+436;United Kingdom - London, West End;2010 May;1969.0
+437;United Kingdom - London, West End;2010 November;2085.0
+438;United Kingdom - London, West End;2012 April;2370.0
+439;United Kingdom - London, West End;2013 April;2396.0
+440;United States - New York, Midtown Manhat;2001 January;696.0
+441;United States - New York, Midtown Manhat;2001 July;699.0
+442;United States - New York, Midtown Manhat;2002 January;680.0
+443;United States - New York, Midtown Manhat;2002 July;639.0
+444;United States - New York, Midtown Manhat;2003 January;615.0
+445;United States - New York, Midtown Manhat;2003 August;576.0
+446;United States - New York, Midtown Manhat;2004 January;563.0
+447;United States - New York, Midtown Manhat;2004 August;560.0
+448;United States - New York, Midtown Manhat;2005 January;565.0
+449;United States - New York, Midtown Manhat;2005 August;578.0
+450;United States - New York, Midtown Manhat;2006 May;593.0
+451;United States - New York, Midtown Manhat;2006 November;668.0
+452;United States - New York, Midtown Manhat;2007 May;747.0
+453;United States - New York, Midtown Manhat;2007 November;1085.0
+454;United States - New York, Midtown Manhat;2008 May;1113.0
+455;United States - New York, Midtown Manhat;2008 November;1055.0
+456;United States - New York, Midtown Manhat;2009 May;738.0
+457;United States - New York, Midtown Manhat;2009 November;742.0
+458;United States - New York, Midtown Manhat;2010 May;694.0
+459;United States - New York, Midtown Manhat;2010 November;717.0
+460;United States - New York, Midtown Manhat;2012 April;1230.0
+461;United States - New York, Midtown Manhat;2013 April;1299.0

@@ -1,0 +1,937 @@
+﻿ID;BedrijfstakkenBranchesSBI93;Grootteklasse;Perioden;UitgavenTotaal_1;Totaal_2;BrutoLoonkosten_3;OverigeExploitatiekosten_4;Totaal_5;Gebouwen_6;OverigeInvesteringen_7;Totaal_8;Onderzoekers_9;Assistenten_10;OverigPersoneel_11;Totaal_12;Onderzoekers_13;Assistenten_14;OverigPersoneel_15;ArbeidsjarenTotaal_16;Onderzoekers_17;Assistenten_18;OverigPersoneel_19;BedrijvenEnInstellingenMetEigenRD_20
+0;Totaal bedrijfstakken;Totaal (10 en meer) werkzame personen;2002;4543.0;4233.0;2553.0;1679.0;310.0;94.0;216.0;61514.0;26256.0;23886.0;11372.0;;;;;47034.0;20419.0;18754.0;7862.0;4169.0
+1;Totaal bedrijfstakken;Totaal (10 en meer) werkzame personen;2003;4804.0;4444.0;2731.0;1713.0;361.0;90.0;271.0;57442.0;24529.0;22719.0;10194.0;6967.0;2125.0;2758.0;2083.0;44485.0;19399.0;18173.0;6912.0;3282.0
+2;Totaal bedrijfstakken;Totaal (10 en meer) werkzame personen;2004;5071.0;;;;;;;68451.0;31278.0;23999.0;13174.0;;;;;50028.0;23247.0;19819.0;6962.0;3931.0
+3;Totaal bedrijfstakken;Totaal (10 en meer) werkzame personen;2005;5169.0;4653.0;3017.0;1635.0;517.0;142.0;375.0;64571.0;29228.0;24652.0;10690.0;8335.0;2934.0;3160.0;2241.0;48587.0;22898.0;19681.0;6009.0;3698.0
+4;Totaal bedrijfstakken;Totaal (10 en meer) werkzame personen;2006;5480.0;;;;;;;68699.0;36096.0;22597.0;10007.0;;;;;52841.0;28011.0;18345.0;6485.0;3433.0
+5;Totaal bedrijfstakken;Totaal (10 en meer) werkzame personen;2007;5495.0;5025.0;3367.0;1658.0;470.0;169.0;301.0;61116.0;31039.0;20792.0;9285.0;10374.0;4111.0;3782.0;2482.0;49246.0;25951.0;17328.0;5967.0;2676.0
+6;Totaal bedrijfstakken;10 tot 50 werkzame personen;2002;422.0;377.0;275.0;102.0;45.0;20.0;25.0;13850.0;6198.0;4879.0;2774.0;;;;;7948.0;3889.0;2701.0;1358.0;2276.0
+7;Totaal bedrijfstakken;10 tot 50 werkzame personen;2003;387.0;345.0;260.0;85.0;42.0;14.0;28.0;10812.0;4966.0;3725.0;2121.0;1327.0;449.0;500.0;378.0;6306.0;3263.0;2099.0;944.0;1574.0
+8;Totaal bedrijfstakken;10 tot 50 werkzame personen;2004;431.0;;;;;;;15135.0;7531.0;3699.0;3905.0;;;;;9074.0;5196.0;2544.0;1335.0;2209.0
+9;Totaal bedrijfstakken;10 tot 50 werkzame personen;2005;466.0;414.0;330.0;83.0;52.0;16.0;36.0;13959.0;7358.0;3951.0;2650.0;1842.0;658.0;643.0;542.0;8755.0;5199.0;2573.0;984.0;2037.0
+10;Totaal bedrijfstakken;10 tot 50 werkzame personen;2006;421.0;;;;;;;11593.0;6710.0;2968.0;1915.0;;;;;8694.0;5439.0;2223.0;1033.0;1841.0
+11;Totaal bedrijfstakken;10 tot 50 werkzame personen;2007;380.0;351.0;279.0;72.0;29.0;8.0;21.0;9754.0;5755.0;2608.0;1391.0;1354.0;516.0;420.0;418.0;6628.0;4165.0;1759.0;703.0;1356.0
+12;Totaal bedrijfstakken;50 tot 250 werkzame personen;2002;830.0;762.0;545.0;217.0;68.0;29.0;39.0;16049.0;6604.0;6257.0;3189.0;;;;;11222.0;4644.0;4644.0;1934.0;1393.0
+13;Totaal bedrijfstakken;50 tot 250 werkzame personen;2003;898.0;821.0;575.0;246.0;77.0;24.0;53.0;15459.0;6648.0;5753.0;3058.0;2330.0;718.0;858.0;754.0;10737.0;4687.0;4216.0;1834.0;1243.0
+14;Totaal bedrijfstakken;50 tot 250 werkzame personen;2004;934.0;;;;;;;17609.0;7720.0;6037.0;3852.0;;;;;11175.0;5288.0;4212.0;1675.0;1247.0
+15;Totaal bedrijfstakken;50 tot 250 werkzame personen;2005;935.0;812.0;581.0;231.0;123.0;37.0;85.0;16479.0;7364.0;5990.0;3125.0;2668.0;895.0;1024.0;750.0;11079.0;5464.0;4218.0;1398.0;1217.0
+16;Totaal bedrijfstakken;50 tot 250 werkzame personen;2006;992.0;;;;;;;16930.0;8033.0;5144.0;3753.0;;;;;14356.0;8516.0;3911.0;1928.0;1151.0
+17;Totaal bedrijfstakken;50 tot 250 werkzame personen;2007;856.0;769.0;551.0;218.0;87.0;33.0;54.0;12925.0;6681.0;4172.0;2073.0;2127.0;807.0;781.0;538.0;10332.0;5683.0;3245.0;1404.0;903.0
+18;Totaal bedrijfstakken;250 of meer werkzame personen;2002;3291.0;3093.0;1733.0;1361.0;197.0;46.0;152.0;31615.0;13454.0;12751.0;5410.0;;;;;27864.0;11885.0;11409.0;4570.0;500.0
+19;Totaal bedrijfstakken;250 of meer werkzame personen;2003;3519.0;3277.0;1895.0;1383.0;242.0;51.0;190.0;31171.0;12915.0;13241.0;5015.0;3309.0;958.0;1400.0;951.0;27442.0;11449.0;11858.0;4135.0;465.0
+20;Totaal bedrijfstakken;250 of meer werkzame personen;2004;3707.0;;;;;;;35707.0;16027.0;14263.0;5417.0;;;;;29779.0;12763.0;13064.0;3952.0;475.0
+21;Totaal bedrijfstakken;250 of meer werkzame personen;2005;3769.0;3426.0;2106.0;1321.0;342.0;89.0;254.0;34133.0;14506.0;14712.0;4915.0;3825.0;1381.0;1494.0;950.0;28753.0;12235.0;12890.0;3627.0;444.0
+22;Totaal bedrijfstakken;250 of meer werkzame personen;2006;4068.0;;;;;;;40177.0;21353.0;14484.0;4339.0;;;;;29791.0;14056.0;12211.0;3525.0;441.0
+23;Totaal bedrijfstakken;250 of meer werkzame personen;2007;4259.0;3905.0;2537.0;1368.0;354.0;128.0;226.0;38436.0;18603.0;14012.0;5822.0;6894.0;2787.0;2581.0;1526.0;32287.0;16103.0;12324.0;3860.0;417.0
+24;D Industrie;Totaal (10 en meer) werkzame personen;2002;3454.0;3266.0;1832.0;1433.0;189.0;29.0;160.0;39943.0;15916.0;17006.0;7021.0;;;;;32468.0;13213.0;14200.0;5055.0;2315.0
+25;D Industrie;Totaal (10 en meer) werkzame personen;2003;3750.0;3488.0;2034.0;1454.0;262.0;55.0;207.0;39158.0;15500.0;16662.0;6996.0;3894.0;1113.0;1708.0;1072.0;32080.0;12995.0;14278.0;4807.0;1986.0
+26;D Industrie;Totaal (10 en meer) werkzame personen;2004;3898.0;;;;;;;41494.0;17170.0;17417.0;6907.0;;;;;33186.0;14044.0;15033.0;4109.0;1967.0
+27;D Industrie;Totaal (10 en meer) werkzame personen;2005;3989.0;3586.0;2177.0;1409.0;403.0;112.0;291.0;41055.0;16475.0;17892.0;6688.0;4424.0;1527.0;1725.0;1172.0;33546.0;14361.0;15214.0;3970.0;1964.0
+28;D Industrie;Totaal (10 en meer) werkzame personen;2006;4094.0;;;;;;;39095.0;17137.0;15777.0;6181.0;;;;;33533.0;15542.0;13556.0;4434.0;1746.0
+29;D Industrie;Totaal (10 en meer) werkzame personen;2007;4010.0;3671.0;2360.0;1311.0;339.0;112.0;227.0;37853.0;16321.0;14782.0;6750.0;5443.0;2003.0;2130.0;1310.0;31584.0;14619.0;12844.0;4121.0;1441.0
+30;D Industrie;10 tot 50 werkzame personen;2002;151.0;137.0;89.0;48.0;14.0;2.0;12.0;5838.0;2442.0;2263.0;1134.0;;;;;3118.0;1398.0;1201.0;520.0;1041.0
+31;D Industrie;10 tot 50 werkzame personen;2003;142.0;128.0;96.0;32.0;14.0;1.0;13.0;4795.0;1931.0;1658.0;1206.0;348.0;83.0;157.0;108.0;2558.0;1225.0;917.0;416.0;815.0
+32;D Industrie;10 tot 50 werkzame personen;2004;145.0;;;;;;;4788.0;2312.0;1241.0;1235.0;;;;;2544.0;1435.0;701.0;408.0;845.0
+33;D Industrie;10 tot 50 werkzame personen;2005;139.0;120.0;93.0;28.0;19.0;3.0;16.0;4280.0;1717.0;1362.0;1201.0;372.0;119.0;116.0;137.0;2412.0;1203.0;815.0;395.0;840.0
+34;D Industrie;10 tot 50 werkzame personen;2006;122.0;;;;;;;4048.0;2179.0;1052.0;816.0;;;;;2753.0;1725.0;657.0;371.0;766.0
+35;D Industrie;10 tot 50 werkzame personen;2007;117.0;104.0;84.0;20.0;13.0;2.0;11.0;3272.0;1633.0;961.0;678.0;224.0;67.0;65.0;92.0;1807.0;988.0;532.0;287.0;600.0
+36;D Industrie;50 tot 250 werkzame personen;2002;504.0;470.0;342.0;128.0;34.0;12.0;22.0;9264.0;3483.0;3948.0;1833.0;;;;;6667.0;2564.0;3045.0;1059.0;947.0
+37;D Industrie;50 tot 250 werkzame personen;2003;528.0;490.0;343.0;147.0;37.0;6.0;31.0;9053.0;3882.0;3463.0;1708.0;956.0;330.0;376.0;250.0;6185.0;2656.0;2586.0;943.0;864.0
+38;D Industrie;50 tot 250 werkzame personen;2004;569.0;;;;;;;10463.0;4292.0;3906.0;2265.0;;;;;6531.0;3193.0;2551.0;787.0;832.0
+39;D Industrie;50 tot 250 werkzame personen;2005;593.0;500.0;349.0;150.0;94.0;26.0;67.0;10732.0;4921.0;3738.0;2072.0;1305.0;504.0;431.0;370.0;7151.0;3764.0;2638.0;748.0;845.0
+40;D Industrie;50 tot 250 werkzame personen;2006;416.0;;;;;;;7542.0;3126.0;2389.0;2028.0;;;;;6170.0;3170.0;2025.0;976.0;704.0
+41;D Industrie;50 tot 250 werkzame personen;2007;375.0;335.0;244.0;91.0;40.0;5.0;35.0;6106.0;2804.0;2043.0;1259.0;621.0;227.0;197.0;197.0;4766.0;2365.0;1585.0;817.0;576.0
+42;D Industrie;250 of meer werkzame personen;2002;2800.0;2658.0;1401.0;1257.0;141.0;16.0;126.0;24841.0;9990.0;10795.0;4055.0;;;;;22682.0;9250.0;9955.0;3476.0;327.0
+43;D Industrie;250 of meer werkzame personen;2003;3081.0;2870.0;1596.0;1275.0;211.0;47.0;163.0;25310.0;9688.0;11541.0;4082.0;2590.0;701.0;1175.0;714.0;23337.0;9114.0;10775.0;3447.0;307.0
+44;D Industrie;250 of meer werkzame personen;2004;3184.0;;;;;;;26243.0;10566.0;12271.0;3406.0;;;;;24111.0;9416.0;11781.0;2914.0;290.0
+45;D Industrie;250 of meer werkzame personen;2005;3256.0;2966.0;1735.0;1231.0;291.0;83.0;208.0;26043.0;9837.0;12791.0;3414.0;2746.0;903.0;1178.0;665.0;23983.0;9394.0;11761.0;2828.0;278.0
+46;D Industrie;250 of meer werkzame personen;2006;3556.0;;;;;;;27505.0;11832.0;12336.0;3337.0;;;;;24610.0;10647.0;10875.0;3088.0;276.0
+47;D Industrie;250 of meer werkzame personen;2007;3517.0;3232.0;2032.0;1199.0;286.0;104.0;181.0;28475.0;11884.0;11777.0;4814.0;4598.0;1709.0;1867.0;1022.0;25011.0;11266.0;10728.0;3017.0;265.0
+48;DA VV voedings- en genotmiddelen;Totaal (10 en meer) werkzame personen;2002;283.0;264.0;167.0;97.0;19.0;5.0;14.0;3907.0;1412.0;1768.0;727.0;;;;;2905.0;1096.0;1329.0;480.0;224.0
+49;DA VV voedings- en genotmiddelen;Totaal (10 en meer) werkzame personen;2003;271.0;243.0;167.0;76.0;28.0;11.0;17.0;3255.0;1146.0;1491.0;619.0;741.0;283.0;348.0;110.0;2553.0;1054.0;1182.0;317.0;173.0
+50;DA VV voedings- en genotmiddelen;Totaal (10 en meer) werkzame personen;2004;227.0;;;;;;;3195.0;1280.0;1279.0;636.0;;;;;2522.0;1162.0;1052.0;307.0;204.0
+51;DA VV voedings- en genotmiddelen;Totaal (10 en meer) werkzame personen;2005;268.0;222.0;163.0;59.0;46.0;28.0;18.0;3436.0;1298.0;1487.0;651.0;947.0;321.0;408.0;219.0;2600.0;1133.0;1158.0;309.0;234.0
+52;DA VV voedings- en genotmiddelen;Totaal (10 en meer) werkzame personen;2006;199.0;;;;;;;2515.0;1170.0;1013.0;332.0;;;;;2419.0;1187.0;1001.0;232.0;165.0
+53;DA VV voedings- en genotmiddelen;Totaal (10 en meer) werkzame personen;2007;262.0;243.0;176.0;68.0;19.0;5.0;13.0;2839.0;1309.0;1145.0;385.0;1012.0;466.0;399.0;147.0;2546.0;1227.0;1012.0;307.0;146.0
+54;DA VV voedings- en genotmiddelen;10 tot 50 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+55;DA VV voedings- en genotmiddelen;10 tot 50 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+56;DA VV voedings- en genotmiddelen;10 tot 50 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+57;DA VV voedings- en genotmiddelen;10 tot 50 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+58;DA VV voedings- en genotmiddelen;10 tot 50 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;21.0
+59;DA VV voedings- en genotmiddelen;10 tot 50 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+60;DA VV voedings- en genotmiddelen;50 tot 250 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+61;DA VV voedings- en genotmiddelen;50 tot 250 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+62;DA VV voedings- en genotmiddelen;50 tot 250 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+63;DA VV voedings- en genotmiddelen;50 tot 250 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+64;DA VV voedings- en genotmiddelen;50 tot 250 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;85.0
+65;DA VV voedings- en genotmiddelen;50 tot 250 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+66;DA VV voedings- en genotmiddelen;250 of meer werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+67;DA VV voedings- en genotmiddelen;250 of meer werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+68;DA VV voedings- en genotmiddelen;250 of meer werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+69;DA VV voedings- en genotmiddelen;250 of meer werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+70;DA VV voedings- en genotmiddelen;250 of meer werkzame personen;2006;;;;;;;;;;;;;;;;;;;;58.0
+71;DA VV voedings- en genotmiddelen;250 of meer werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+72;1700a Textiel, kleding en lederindust...;Totaal (10 en meer) werkzame personen;2002;12.0;12.0;10.0;2.0;0.0;0.0;0.0;335.0;123.0;144.0;68.0;;;;;187.0;74.0;90.0;23.0;60.0
+73;1700a Textiel, kleding en lederindust...;Totaal (10 en meer) werkzame personen;2003;13.0;12.0;9.0;2.0;1.0;0.0;1.0;303.0;107.0;132.0;65.0;59.0;12.0;27.0;20.0;170.0;57.0;83.0;29.0;53.0
+74;1700a Textiel, kleding en lederindust...;Totaal (10 en meer) werkzame personen;2004;21.0;;;;;;;388.0;204.0;128.0;56.0;;;;;282.0;161.0;91.0;30.0;67.0
+75;1700a Textiel, kleding en lederindust...;Totaal (10 en meer) werkzame personen;2005;27.0;26.0;20.0;6.0;2.0;0.0;2.0;390.0;203.0;116.0;71.0;96.0;40.0;27.0;29.0;294.0;155.0;89.0;50.0;77.0
+76;1700a Textiel, kleding en lederindust...;Totaal (10 en meer) werkzame personen;2006;16.0;;;;;;;316.0;177.0;85.0;53.0;;;;;235.0;118.0;89.0;29.0;53.0
+77;1700a Textiel, kleding en lederindust...;Totaal (10 en meer) werkzame personen;2007;15.0;14.0;12.0;3.0;1.0;0.0;1.0;260.0;129.0;89.0;42.0;56.0;20.0;11.0;25.0;176.0;95.0;59.0;22.0;45.0
+78;1700a Textiel, kleding en lederindust...;10 tot 50 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+79;1700a Textiel, kleding en lederindust...;10 tot 50 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+80;1700a Textiel, kleding en lederindust...;10 tot 50 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+81;1700a Textiel, kleding en lederindust...;10 tot 50 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+82;1700a Textiel, kleding en lederindust...;10 tot 50 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;18.0
+83;1700a Textiel, kleding en lederindust...;10 tot 50 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+84;1700a Textiel, kleding en lederindust...;50 tot 250 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+85;1700a Textiel, kleding en lederindust...;50 tot 250 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+86;1700a Textiel, kleding en lederindust...;50 tot 250 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+87;1700a Textiel, kleding en lederindust...;50 tot 250 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+88;1700a Textiel, kleding en lederindust...;50 tot 250 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;31.0
+89;1700a Textiel, kleding en lederindust...;50 tot 250 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+90;1700a Textiel, kleding en lederindust...;250 of meer werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+91;1700a Textiel, kleding en lederindust...;250 of meer werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+92;1700a Textiel, kleding en lederindust...;250 of meer werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+93;1700a Textiel, kleding en lederindust...;250 of meer werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+94;1700a Textiel, kleding en lederindust...;250 of meer werkzame personen;2006;;;;;;;;;;;;;;;;;;;;4.0
+95;1700a Textiel, kleding en lederindust...;250 of meer werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+96;21 VV papier, karton en papier- en ka...;Totaal (10 en meer) werkzame personen;2002;11.0;11.0;10.0;1.0;0.0;0.0;0.0;333.0;104.0;135.0;94.0;;;;;227.0;65.0;107.0;55.0;60.0
+97;21 VV papier, karton en papier- en ka...;Totaal (10 en meer) werkzame personen;2003;9.0;9.0;8.0;1.0;1.0;0.0;1.0;293.0;88.0;118.0;87.0;26.0;6.0;9.0;11.0;141.0;46.0;76.0;19.0;49.0
+98;21 VV papier, karton en papier- en ka...;Totaal (10 en meer) werkzame personen;2004;24.0;;;;;;;348.0;107.0;176.0;65.0;;;;;232.0;92.0;111.0;29.0;37.0
+99;21 VV papier, karton en papier- en ka...;Totaal (10 en meer) werkzame personen;2005;19.0;18.0;14.0;4.0;1.0;0.0;1.0;322.0;112.0;134.0;77.0;47.0;12.0;21.0;14.0;197.0;83.0;91.0;22.0;49.0
+100;21 VV papier, karton en papier- en ka...;Totaal (10 en meer) werkzame personen;2006;7.0;;;;;;;211.0;83.0;79.0;50.0;;;;;129.0;51.0;57.0;20.0;34.0
+101;21 VV papier, karton en papier- en ka...;Totaal (10 en meer) werkzame personen;2007;18.0;15.0;10.0;5.0;3.0;2.0;1.0;234.0;72.0;105.0;57.0;54.0;7.0;15.0;33.0;165.0;55.0;83.0;26.0;26.0
+102;21 VV papier, karton en papier- en ka...;10 tot 50 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+103;21 VV papier, karton en papier- en ka...;10 tot 50 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+104;21 VV papier, karton en papier- en ka...;10 tot 50 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+105;21 VV papier, karton en papier- en ka...;10 tot 50 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+106;21 VV papier, karton en papier- en ka...;10 tot 50 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;2.0
+107;21 VV papier, karton en papier- en ka...;10 tot 50 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+108;21 VV papier, karton en papier- en ka...;50 tot 250 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+109;21 VV papier, karton en papier- en ka...;50 tot 250 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+110;21 VV papier, karton en papier- en ka...;50 tot 250 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+111;21 VV papier, karton en papier- en ka...;50 tot 250 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+112;21 VV papier, karton en papier- en ka...;50 tot 250 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;23.0
+113;21 VV papier, karton en papier- en ka...;50 tot 250 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+114;21 VV papier, karton en papier- en ka...;250 of meer werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+115;21 VV papier, karton en papier- en ka...;250 of meer werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+116;21 VV papier, karton en papier- en ka...;250 of meer werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+117;21 VV papier, karton en papier- en ka...;250 of meer werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+118;21 VV papier, karton en papier- en ka...;250 of meer werkzame personen;2006;;;;;;;;;;;;;;;;;;;;9.0
+119;21 VV papier, karton en papier- en ka...;250 of meer werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+120;22 Uitgeverijen, drukkerijen en repro;Totaal (10 en meer) werkzame personen;2002;24.0;17.0;11.0;6.0;7.0;1.0;6.0;437.0;250.0;82.0;105.0;;;;;237.0;156.0;39.0;43.0;68.0
+121;22 Uitgeverijen, drukkerijen en repro;Totaal (10 en meer) werkzame personen;2003;11.0;10.0;9.0;1.0;0.0;0.0;0.0;338.0;98.0;97.0;143.0;33.0;7.0;17.0;10.0;156.0;40.0;79.0;37.0;20.0
+122;22 Uitgeverijen, drukkerijen en repro;Totaal (10 en meer) werkzame personen;2004;24.0;;;;;;;531.0;285.0;158.0;89.0;;;;;461.0;255.0;174.0;31.0;74.0
+123;22 Uitgeverijen, drukkerijen en repro;Totaal (10 en meer) werkzame personen;2005;12.0;11.0;10.0;1.0;0.0;0.0;0.0;242.0;104.0;84.0;54.0;44.0;14.0;17.0;13.0;174.0;57.0;69.0;48.0;41.0
+124;22 Uitgeverijen, drukkerijen en repro;Totaal (10 en meer) werkzame personen;2006;37.0;;;;;;;504.0;249.0;127.0;128.0;;;;;603.0;393.0;149.0;61.0;84.0
+125;22 Uitgeverijen, drukkerijen en repro;Totaal (10 en meer) werkzame personen;2007;36.0;35.0;29.0;6.0;1.0;1.0;0.0;181.0;55.0;89.0;36.0;26.0;3.0;23.0;0.0;158.0;43.0;89.0;26.0;36.0
+126;22 Uitgeverijen, drukkerijen en repro;10 tot 50 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+127;22 Uitgeverijen, drukkerijen en repro;10 tot 50 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+128;22 Uitgeverijen, drukkerijen en repro;10 tot 50 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+129;22 Uitgeverijen, drukkerijen en repro;10 tot 50 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+130;22 Uitgeverijen, drukkerijen en repro;10 tot 50 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;59.0
+131;22 Uitgeverijen, drukkerijen en repro;10 tot 50 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+132;22 Uitgeverijen, drukkerijen en repro;50 tot 250 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+133;22 Uitgeverijen, drukkerijen en repro;50 tot 250 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+134;22 Uitgeverijen, drukkerijen en repro;50 tot 250 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+135;22 Uitgeverijen, drukkerijen en repro;50 tot 250 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+136;22 Uitgeverijen, drukkerijen en repro;50 tot 250 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;17.0
+137;22 Uitgeverijen, drukkerijen en repro;50 tot 250 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+138;22 Uitgeverijen, drukkerijen en repro;250 of meer werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+139;22 Uitgeverijen, drukkerijen en repro;250 of meer werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+140;22 Uitgeverijen, drukkerijen en repro;250 of meer werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+141;22 Uitgeverijen, drukkerijen en repro;250 of meer werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+142;22 Uitgeverijen, drukkerijen en repro;250 of meer werkzame personen;2006;;;;;;;;;;;;;;;;;;;;8.0
+143;22 Uitgeverijen, drukkerijen en repro;250 of meer werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+144;23 Aardolie- en steenkoolverwerkende ...;Totaal (10 en meer) werkzame personen;2002;9.0;9.0;9.0;0.0;0.0;0.0;0.0;242.0;171.0;57.0;14.0;;;;;54.0;37.0;14.0;3.0;9.0
+145;23 Aardolie- en steenkoolverwerkende ...;Totaal (10 en meer) werkzame personen;2003;5.0;5.0;5.0;0.0;0.0;0.0;0.0;314.0;197.0;100.0;17.0;7.0;2.0;3.0;2.0;42.0;26.0;14.0;2.0;9.0
+146;23 Aardolie- en steenkoolverwerkende ...;Totaal (10 en meer) werkzame personen;2004;5.0;;;;;;;84.0;49.0;28.0;7.0;;;;;51.0;28.0;18.0;4.0;7.0
+147;23 Aardolie- en steenkoolverwerkende ...;Totaal (10 en meer) werkzame personen;2005;8.0;7.0;7.0;1.0;1.0;0.0;1.0;220.0;87.0;129.0;4.0;13.0;3.0;9.0;2.0;67.0;30.0;35.0;2.0;8.0
+148;23 Aardolie- en steenkoolverwerkende ...;Totaal (10 en meer) werkzame personen;2006;6.0;;;;;;;1149.0;68.0;1070.0;11.0;;;;;67.0;28.0;35.0;4.0;8.0
+149;23 Aardolie- en steenkoolverwerkende ...;Totaal (10 en meer) werkzame personen;2007;6.0;5.0;5.0;1.0;0.0;0.0;0.0;74.0;37.0;33.0;4.0;13.0;3.0;6.0;4.0;44.0;18.0;24.0;1.0;8.0
+150;23 Aardolie- en steenkoolverwerkende ...;10 tot 50 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+151;23 Aardolie- en steenkoolverwerkende ...;10 tot 50 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+152;23 Aardolie- en steenkoolverwerkende ...;10 tot 50 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+153;23 Aardolie- en steenkoolverwerkende ...;10 tot 50 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+154;23 Aardolie- en steenkoolverwerkende ...;10 tot 50 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;2.0
+155;23 Aardolie- en steenkoolverwerkende ...;10 tot 50 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+156;23 Aardolie- en steenkoolverwerkende ...;50 tot 250 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+157;23 Aardolie- en steenkoolverwerkende ...;50 tot 250 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+158;23 Aardolie- en steenkoolverwerkende ...;50 tot 250 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+159;23 Aardolie- en steenkoolverwerkende ...;50 tot 250 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+160;23 Aardolie- en steenkoolverwerkende ...;50 tot 250 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;1.0
+161;23 Aardolie- en steenkoolverwerkende ...;50 tot 250 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+162;23 Aardolie- en steenkoolverwerkende ...;250 of meer werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+163;23 Aardolie- en steenkoolverwerkende ...;250 of meer werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+164;23 Aardolie- en steenkoolverwerkende ...;250 of meer werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+165;23 Aardolie- en steenkoolverwerkende ...;250 of meer werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+166;23 Aardolie- en steenkoolverwerkende ...;250 of meer werkzame personen;2006;;;;;;;;;;;;;;;;;;;;4.0
+167;23 Aardolie- en steenkoolverwerkende ...;250 of meer werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+168;2410a Basischemie en vervaardiging va...;Totaal (10 en meer) werkzame personen;2002;284.0;261.0;166.0;95.0;23.0;3.0;20.0;2338.0;923.0;986.0;430.0;;;;;2181.0;869.0;924.0;388.0;77.0
+169;2410a Basischemie en vervaardiging va...;Totaal (10 en meer) werkzame personen;2003;316.0;293.0;175.0;118.0;23.0;1.0;22.0;2689.0;1099.0;1113.0;477.0;489.0;98.0;235.0;156.0;2507.0;1041.0;1029.0;436.0;74.0
+170;2410a Basischemie en vervaardiging va...;Totaal (10 en meer) werkzame personen;2004;528.0;;;;;;;5402.0;2416.0;2196.0;790.0;;;;;3804.0;1882.0;1646.0;276.0;71.0
+171;2410a Basischemie en vervaardiging va...;Totaal (10 en meer) werkzame personen;2005;548.0;468.0;273.0;195.0;80.0;8.0;72.0;5001.0;2431.0;2225.0;345.0;946.0;366.0;391.0;189.0;4150.0;1992.0;1922.0;236.0;71.0
+172;2410a Basischemie en vervaardiging va...;Totaal (10 en meer) werkzame personen;2006;561.0;;;;;;;3778.0;1982.0;1539.0;257.0;;;;;3554.0;1890.0;1469.0;195.0;59.0
+173;2410a Basischemie en vervaardiging va...;Totaal (10 en meer) werkzame personen;2007;685.0;649.0;406.0;244.0;35.0;10.0;26.0;4554.0;2239.0;1816.0;499.0;1227.0;397.0;562.0;268.0;4208.0;2110.0;1676.0;422.0;54.0
+174;2410a Basischemie en vervaardiging va...;10 tot 50 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+175;2410a Basischemie en vervaardiging va...;10 tot 50 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+176;2410a Basischemie en vervaardiging va...;10 tot 50 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+177;2410a Basischemie en vervaardiging va...;10 tot 50 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+178;2410a Basischemie en vervaardiging va...;10 tot 50 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;14.0
+179;2410a Basischemie en vervaardiging va...;10 tot 50 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+180;2410a Basischemie en vervaardiging va...;50 tot 250 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+181;2410a Basischemie en vervaardiging va...;50 tot 250 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+182;2410a Basischemie en vervaardiging va...;50 tot 250 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+183;2410a Basischemie en vervaardiging va...;50 tot 250 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+184;2410a Basischemie en vervaardiging va...;50 tot 250 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;17.0
+185;2410a Basischemie en vervaardiging va...;50 tot 250 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+186;2410a Basischemie en vervaardiging va...;250 of meer werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+187;2410a Basischemie en vervaardiging va...;250 of meer werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+188;2410a Basischemie en vervaardiging va...;250 of meer werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+189;2410a Basischemie en vervaardiging va...;250 of meer werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+190;2410a Basischemie en vervaardiging va...;250 of meer werkzame personen;2006;;;;;;;;;;;;;;;;;;;;28.0
+191;2410a Basischemie en vervaardiging va...;250 of meer werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+192;244 VV farmaceutische producten;Totaal (10 en meer) werkzame personen;2002;382.0;342.0;182.0;160.0;40.0;2.0;38.0;3149.0;1081.0;1223.0;844.0;;;;;2996.0;1037.0;1162.0;797.0;27.0
+193;244 VV farmaceutische producten;Totaal (10 en meer) werkzame personen;2003;455.0;420.0;210.0;210.0;35.0;2.0;33.0;3423.0;1165.0;1343.0;916.0;609.0;149.0;261.0;198.0;3248.0;1114.0;1271.0;863.0;24.0
+194;244 VV farmaceutische producten;Totaal (10 en meer) werkzame personen;2004;505.0;;;;;;;3354.0;1395.0;1466.0;492.0;;;;;3103.0;1326.0;1378.0;398.0;32.0
+195;244 VV farmaceutische producten;Totaal (10 en meer) werkzame personen;2005;544.0;516.0;246.0;270.0;28.0;0.0;28.0;3533.0;1567.0;1536.0;429.0;748.0;260.0;326.0;162.0;3330.0;1518.0;1451.0;361.0;32.0
+196;244 VV farmaceutische producten;Totaal (10 en meer) werkzame personen;2006;595.0;;;;;;;3902.0;1650.0;1786.0;466.0;;;;;3688.0;1592.0;1682.0;414.0;24.0
+197;244 VV farmaceutische producten;Totaal (10 en meer) werkzame personen;2007;471.0;443.0;230.0;213.0;28.0;5.0;22.0;4743.0;1340.0;1634.0;1769.0;1169.0;414.0;566.0;190.0;3169.0;1280.0;1500.0;389.0;22.0
+198;244 VV farmaceutische producten;10 tot 50 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+199;244 VV farmaceutische producten;10 tot 50 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+200;244 VV farmaceutische producten;10 tot 50 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+201;244 VV farmaceutische producten;10 tot 50 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+202;244 VV farmaceutische producten;10 tot 50 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;9.0
+203;244 VV farmaceutische producten;10 tot 50 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+204;244 VV farmaceutische producten;50 tot 250 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+205;244 VV farmaceutische producten;50 tot 250 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+206;244 VV farmaceutische producten;50 tot 250 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+207;244 VV farmaceutische producten;50 tot 250 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+208;244 VV farmaceutische producten;50 tot 250 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;6.0
+209;244 VV farmaceutische producten;50 tot 250 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+210;244 VV farmaceutische producten;250 of meer werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+211;244 VV farmaceutische producten;250 of meer werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+212;244 VV farmaceutische producten;250 of meer werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+213;244 VV farmaceutische producten;250 of meer werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+214;244 VV farmaceutische producten;250 of meer werkzame personen;2006;;;;;;;;;;;;;;;;;;;;9.0
+215;244 VV farmaceutische producten;250 of meer werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+216;2420b Overige chemische eindproducten ..;Totaal (10 en meer) werkzame personen;2002;186.0;175.0;111.0;64.0;11.0;1.0;10.0;2224.0;977.0;917.0;330.0;;;;;1901.0;842.0;784.0;275.0;145.0
+217;2420b Overige chemische eindproducten ..;Totaal (10 en meer) werkzame personen;2003;229.0;192.0;127.0;65.0;37.0;27.0;10.0;2310.0;936.0;1063.0;312.0;567.0;150.0;316.0;101.0;1949.0;814.0;894.0;241.0;136.0
+218;2420b Overige chemische eindproducten ..;Totaal (10 en meer) werkzame personen;2004;218.0;;;;;;;2057.0;984.0;827.0;246.0;;;;;1802.0;898.0;733.0;171.0;82.0
+219;2420b Overige chemische eindproducten ..;Totaal (10 en meer) werkzame personen;2005;194.0;182.0;125.0;58.0;12.0;2.0;10.0;2159.0;1057.0;820.0;283.0;496.0;188.0;208.0;100.0;1871.0;970.0;696.0;204.0;92.0
+220;2420b Overige chemische eindproducten ..;Totaal (10 en meer) werkzame personen;2006;194.0;;;;;;;2252.0;1040.0;844.0;368.0;;;;;2075.0;1034.0;779.0;262.0;95.0
+221;2420b Overige chemische eindproducten ..;Totaal (10 en meer) werkzame personen;2007;136.0;122.0;85.0;37.0;14.0;;;1515.0;788.0;611.0;117.0;364.0;177.0;154.0;33.0;1338.0;706.0;546.0;86.0;78.0
+222;2420b Overige chemische eindproducten ..;10 tot 50 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+223;2420b Overige chemische eindproducten ..;10 tot 50 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+224;2420b Overige chemische eindproducten ..;10 tot 50 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+225;2420b Overige chemische eindproducten ..;10 tot 50 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+226;2420b Overige chemische eindproducten ..;10 tot 50 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;44.0
+227;2420b Overige chemische eindproducten ..;10 tot 50 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+228;2420b Overige chemische eindproducten ..;50 tot 250 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+229;2420b Overige chemische eindproducten ..;50 tot 250 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+230;2420b Overige chemische eindproducten ..;50 tot 250 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+231;2420b Overige chemische eindproducten ..;50 tot 250 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+232;2420b Overige chemische eindproducten ..;50 tot 250 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;35.0
+233;2420b Overige chemische eindproducten ..;50 tot 250 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+234;2420b Overige chemische eindproducten ..;250 of meer werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+235;2420b Overige chemische eindproducten ..;250 of meer werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+236;2420b Overige chemische eindproducten ..;250 of meer werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+237;2420b Overige chemische eindproducten ..;250 of meer werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+238;2420b Overige chemische eindproducten ..;250 of meer werkzame personen;2006;;;;;;;;;;;;;;;;;;;;17.0
+239;2420b Overige chemische eindproducten ..;250 of meer werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+240;25 VV producten van rubber en kunststof;Totaal (10 en meer) werkzame personen;2002;39.0;36.0;27.0;9.0;3.0;0.0;3.0;1052.0;376.0;380.0;296.0;;;;;609.0;222.0;248.0;139.0;128.0
+241;25 VV producten van rubber en kunststof;Totaal (10 en meer) werkzame personen;2003;44.0;40.0;33.0;8.0;4.0;1.0;3.0;925.0;228.0;386.0;311.0;57.0;10.0;15.0;32.0;570.0;171.0;268.0;131.0;117.0
+242;25 VV producten van rubber en kunststof;Totaal (10 en meer) werkzame personen;2004;38.0;;;;;;;1003.0;350.0;376.0;277.0;;;;;596.0;250.0;241.0;105.0;152.0
+243;25 VV producten van rubber en kunststof;Totaal (10 en meer) werkzame personen;2005;47.0;43.0;35.0;8.0;4.0;1.0;3.0;987.0;388.0;414.0;185.0;108.0;51.0;40.0;17.0;634.0;291.0;261.0;82.0;160.0
+244;25 VV producten van rubber en kunststof;Totaal (10 en meer) werkzame personen;2006;43.0;;;;;;;797.0;315.0;268.0;214.0;;;;;614.0;278.0;219.0;118.0;108.0
+245;25 VV producten van rubber en kunststof;Totaal (10 en meer) werkzame personen;2007;46.0;42.0;33.0;9.0;4.0;0.0;3.0;707.0;282.0;224.0;201.0;57.0;19.0;19.0;19.0;542.0;259.0;199.0;84.0;90.0
+246;25 VV producten van rubber en kunststof;10 tot 50 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+247;25 VV producten van rubber en kunststof;10 tot 50 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+248;25 VV producten van rubber en kunststof;10 tot 50 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+249;25 VV producten van rubber en kunststof;10 tot 50 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+250;25 VV producten van rubber en kunststof;10 tot 50 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;38.0
+251;25 VV producten van rubber en kunststof;10 tot 50 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+252;25 VV producten van rubber en kunststof;50 tot 250 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+253;25 VV producten van rubber en kunststof;50 tot 250 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+254;25 VV producten van rubber en kunststof;50 tot 250 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+255;25 VV producten van rubber en kunststof;50 tot 250 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+256;25 VV producten van rubber en kunststof;50 tot 250 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;55.0
+257;25 VV producten van rubber en kunststof;50 tot 250 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+258;25 VV producten van rubber en kunststof;250 of meer werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+259;25 VV producten van rubber en kunststof;250 of meer werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+260;25 VV producten van rubber en kunststof;250 of meer werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+261;25 VV producten van rubber en kunststof;250 of meer werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+262;25 VV producten van rubber en kunststof;250 of meer werkzame personen;2006;;;;;;;;;;;;;;;;;;;;14.0
+263;25 VV producten van rubber en kunststof;250 of meer werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+264;27 Basismetaalindustrie;Totaal (10 en meer) werkzame personen;2002;83.0;83.0;39.0;44.0;1.0;0.0;1.0;866.0;473.0;186.0;207.0;;;;;646.0;380.0;131.0;135.0;33.0
+265;27 Basismetaalindustrie;Totaal (10 en meer) werkzame personen;2003;57.0;54.0;41.0;13.0;2.0;0.0;2.0;1251.0;790.0;205.0;257.0;135.0;53.0;27.0;55.0;613.0;286.0;159.0;168.0;34.0
+266;27 Basismetaalindustrie;Totaal (10 en meer) werkzame personen;2004;51.0;;;;;;;697.0;289.0;163.0;244.0;;;;;549.0;249.0;138.0;162.0;25.0
+267;27 Basismetaalindustrie;Totaal (10 en meer) werkzame personen;2005;57.0;53.0;44.0;9.0;4.0;0.0;4.0;735.0;314.0;168.0;252.0;127.0;43.0;26.0;59.0;580.0;273.0;145.0;162.0;28.0
+268;27 Basismetaalindustrie;Totaal (10 en meer) werkzame personen;2006;;;;;;;;;;;;;;;;;;;;15.0
+269;27 Basismetaalindustrie;Totaal (10 en meer) werkzame personen;2007;;;;;;;;;;;;;;;;;;;;13.0
+270;27 Basismetaalindustrie;10 tot 50 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+271;27 Basismetaalindustrie;10 tot 50 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+272;27 Basismetaalindustrie;10 tot 50 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+273;27 Basismetaalindustrie;10 tot 50 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+274;27 Basismetaalindustrie;10 tot 50 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;2.0
+275;27 Basismetaalindustrie;10 tot 50 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+276;27 Basismetaalindustrie;50 tot 250 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+277;27 Basismetaalindustrie;50 tot 250 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+278;27 Basismetaalindustrie;50 tot 250 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+279;27 Basismetaalindustrie;50 tot 250 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+280;27 Basismetaalindustrie;50 tot 250 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;10.0
+281;27 Basismetaalindustrie;50 tot 250 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+282;27 Basismetaalindustrie;250 of meer werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+283;27 Basismetaalindustrie;250 of meer werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+284;27 Basismetaalindustrie;250 of meer werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+285;27 Basismetaalindustrie;250 of meer werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+286;27 Basismetaalindustrie;250 of meer werkzame personen;2006;;;;;;;;;;;;;;;;;;;;3.0
+287;27 Basismetaalindustrie;250 of meer werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+288;28 VV producten van metaal (geen mach...;Totaal (10 en meer) werkzame personen;2002;58.0;54.0;43.0;11.0;4.0;2.0;2.0;2065.0;650.0;664.0;751.0;;;;;1114.0;447.0;368.0;299.0;354.0
+289;28 VV producten van metaal (geen mach...;Totaal (10 en meer) werkzame personen;2003;50.0;46.0;37.0;9.0;4.0;1.0;2.0;1460.0;555.0;446.0;459.0;43.0;18.0;3.0;22.0;803.0;356.0;264.0;183.0;263.0
+290;28 VV producten van metaal (geen mach...;Totaal (10 en meer) werkzame personen;2004;35.0;;;;;;;1483.0;506.0;466.0;512.0;;;;;734.0;321.0;244.0;168.0;237.0
+291;28 VV producten van metaal (geen mach...;Totaal (10 en meer) werkzame personen;2005;49.0;39.0;29.0;9.0;10.0;2.0;8.0;1491.0;433.0;561.0;497.0;59.0;9.0;17.0;33.0;638.0;241.0;295.0;101.0;231.0
+292;28 VV producten van metaal (geen mach...;Totaal (10 en meer) werkzame personen;2006;51.0;;;;;;;1130.0;625.0;365.0;140.0;;;;;992.0;721.0;220.0;51.0;201.0
+293;28 VV producten van metaal (geen mach...;Totaal (10 en meer) werkzame personen;2007;52.0;44.0;33.0;11.0;9.0;2.0;7.0;940.0;498.0;304.0;138.0;46.0;5.0;15.0;26.0;686.0;398.0;225.0;63.0;171.0
+294;28 VV producten van metaal (geen mach...;10 tot 50 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+295;28 VV producten van metaal (geen mach...;10 tot 50 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+296;28 VV producten van metaal (geen mach...;10 tot 50 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+297;28 VV producten van metaal (geen mach...;10 tot 50 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+298;28 VV producten van metaal (geen mach...;10 tot 50 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;105.0
+299;28 VV producten van metaal (geen mach...;10 tot 50 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+300;28 VV producten van metaal (geen mach...;50 tot 250 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+301;28 VV producten van metaal (geen mach...;50 tot 250 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+302;28 VV producten van metaal (geen mach...;50 tot 250 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+303;28 VV producten van metaal (geen mach...;50 tot 250 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+304;28 VV producten van metaal (geen mach...;50 tot 250 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;80.0
+305;28 VV producten van metaal (geen mach...;50 tot 250 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+306;28 VV producten van metaal (geen mach...;250 of meer werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+307;28 VV producten van metaal (geen mach...;250 of meer werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+308;28 VV producten van metaal (geen mach...;250 of meer werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+309;28 VV producten van metaal (geen mach...;250 of meer werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+310;28 VV producten van metaal (geen mach...;250 of meer werkzame personen;2006;;;;;;;;;;;;;;;;;;;;16.0
+311;28 VV producten van metaal (geen mach...;250 of meer werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+312;29 VV machines en apparaten;Totaal (10 en meer) werkzame personen;2002;480.0;468.0;241.0;226.0;13.0;6.0;7.0;6656.0;3938.0;2162.0;556.0;;;;;5084.0;3100.0;1602.0;383.0;525.0
+313;29 VV machines en apparaten;Totaal (10 en meer) werkzame personen;2003;502.0;464.0;261.0;203.0;38.0;3.0;35.0;6614.0;3492.0;2088.0;1034.0;399.0;140.0;166.0;93.0;5010.0;2876.0;1605.0;528.0;471.0
+314;29 VV machines en apparaten;Totaal (10 en meer) werkzame personen;2004;503.0;;;;;;;6397.0;3305.0;2055.0;1036.0;;;;;4919.0;2692.0;1642.0;585.0;460.0
+315;29 VV machines en apparaten;Totaal (10 en meer) werkzame personen;2005;490.0;427.0;296.0;131.0;63.0;17.0;45.0;6045.0;3277.0;1836.0;932.0;182.0;57.0;59.0;66.0;4779.0;2921.0;1404.0;454.0;430.0
+316;29 VV machines en apparaten;Totaal (10 en meer) werkzame personen;2006;584.0;;;;;;;6368.0;3151.0;1677.0;1539.0;;;;;5172.0;3002.0;1371.0;799.0;383.0
+317;29 VV machines en apparaten;Totaal (10 en meer) werkzame personen;2007;580.0;507.0;373.0;134.0;72.0;4.0;68.0;5963.0;3212.0;1614.0;1137.0;275.0;134.0;28.0;113.0;4804.0;2758.0;1256.0;791.0;313.0
+318;29 VV machines en apparaten;10 tot 50 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+319;29 VV machines en apparaten;10 tot 50 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+320;29 VV machines en apparaten;10 tot 50 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+321;29 VV machines en apparaten;10 tot 50 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+322;29 VV machines en apparaten;10 tot 50 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;183.0
+323;29 VV machines en apparaten;10 tot 50 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+324;29 VV machines en apparaten;50 tot 250 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+325;29 VV machines en apparaten;50 tot 250 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+326;29 VV machines en apparaten;50 tot 250 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+327;29 VV machines en apparaten;50 tot 250 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+328;29 VV machines en apparaten;50 tot 250 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;175.0
+329;29 VV machines en apparaten;50 tot 250 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+330;29 VV machines en apparaten;250 of meer werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+331;29 VV machines en apparaten;250 of meer werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+332;29 VV machines en apparaten;250 of meer werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+333;29 VV machines en apparaten;250 of meer werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+334;29 VV machines en apparaten;250 of meer werkzame personen;2006;;;;;;;;;;;;;;;;;;;;25.0
+335;29 VV machines en apparaten;250 of meer werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+336;DL VV elektrische en optische apparat...;Totaal (10 en meer) werkzame personen;2002;1414.0;1359.0;678.0;681.0;55.0;3.0;52.0;12646.0;4269.0;6861.0;1516.0;;;;;11721.0;3980.0;6386.0;1355.0;301.0
+337;DL VV elektrische en optische apparat...;Totaal (10 en meer) werkzame personen;2003;1597.0;1516.0;826.0;690.0;81.0;6.0;75.0;12758.0;4462.0;6825.0;1471.0;543.0;136.0;211.0;196.0;11853.0;4172.0;6366.0;1316.0;284.0
+338;DL VV elektrische en optische apparat...;Totaal (10 en meer) werkzame personen;2004;1491.0;;;;;;;12199.0;4034.0;6708.0;1456.0;;;;;11269.0;3719.0;6257.0;1293.0;228.0
+339;DL VV elektrische en optische apparat...;Totaal (10 en meer) werkzame personen;2005;1509.0;1385.0;772.0;613.0;123.0;49.0;75.0;12506.0;4101.0;6720.0;1685.0;374.0;102.0;103.0;169.0;11372.0;3776.0;6243.0;1353.0;239.0
+340;DL VV elektrische en optische apparat...;Totaal (10 en meer) werkzame personen;2006;1526.0;;;;;;;12464.0;5278.0;5615.0;1571.0;;;;;11128.0;4120.0;5416.0;1593.0;292.0
+341;DL VV elektrische en optische apparat...;Totaal (10 en meer) werkzame personen;2007;1442.0;1333.0;816.0;516.0;110.0;48.0;62.0;12821.0;5285.0;5991.0;1545.0;877.0;261.0;278.0;337.0;11285.0;4765.0;5239.0;1281.0;261.0
+342;DL VV elektrische en optische apparat...;10 tot 50 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+343;DL VV elektrische en optische apparat...;10 tot 50 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+344;DL VV elektrische en optische apparat...;10 tot 50 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+345;DL VV elektrische en optische apparat...;10 tot 50 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+346;DL VV elektrische en optische apparat...;10 tot 50 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;181.0
+347;DL VV elektrische en optische apparat...;10 tot 50 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+348;DL VV elektrische en optische apparat...;50 tot 250 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+349;DL VV elektrische en optische apparat...;50 tot 250 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+350;DL VV elektrische en optische apparat...;50 tot 250 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+351;DL VV elektrische en optische apparat...;50 tot 250 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+352;DL VV elektrische en optische apparat...;50 tot 250 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;82.0
+353;DL VV elektrische en optische apparat...;50 tot 250 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+354;DL VV elektrische en optische apparat...;250 of meer werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+355;DL VV elektrische en optische apparat...;250 of meer werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+356;DL VV elektrische en optische apparat...;250 of meer werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+357;DL VV elektrische en optische apparat...;250 of meer werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+358;DL VV elektrische en optische apparat...;250 of meer werkzame personen;2006;;;;;;;;;;;;;;;;;;;;30.0
+359;DL VV elektrische en optische apparat...;250 of meer werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+360;DM Vervaardiging van transportmiddelen;Totaal (10 en meer) werkzame personen;2002;132.0;122.0;92.0;30.0;10.0;6.0;4.0;2145.0;767.0;817.0;560.0;;;;;1629.0;639.0;612.0;379.0;121.0
+361;DM Vervaardiging van transportmiddelen;Totaal (10 en meer) werkzame personen;2003;143.0;140.0;91.0;48.0;3.0;0.0;3.0;1999.0;729.0;790.0;481.0;54.0;10.0;25.0;19.0;1681.0;653.0;641.0;388.0;103.0
+362;DM Vervaardiging van transportmiddelen;Totaal (10 en meer) werkzame personen;2004;182.0;;;;;;;3074.0;1562.0;938.0;574.0;;;;;2229.0;749.0;1079.0;400.0;122.0
+363;DM Vervaardiging van transportmiddelen;Totaal (10 en meer) werkzame personen;2005;176.0;153.0;116.0;37.0;23.0;4.0;19.0;2946.0;794.0;1381.0;771.0;128.0;21.0;38.0;69.0;2322.0;712.0;1181.0;429.0;140.0
+364;DM Vervaardiging van transportmiddelen;Totaal (10 en meer) werkzame personen;2006;162.0;;;;;;;2078.0;672.0;882.0;525.0;;;;;1728.0;583.0;778.0;367.0;98.0
+365;DM Vervaardiging van transportmiddelen;Totaal (10 en meer) werkzame personen;2007;161.0;125.0;86.0;39.0;36.0;;;1625.0;546.0;700.0;378.0;75.0;11.0;27.0;37.0;1487.0;499.0;666.0;322.0;66.0
+366;DM Vervaardiging van transportmiddelen;10 tot 50 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+367;DM Vervaardiging van transportmiddelen;10 tot 50 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+368;DM Vervaardiging van transportmiddelen;10 tot 50 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+369;DM Vervaardiging van transportmiddelen;10 tot 50 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+370;DM Vervaardiging van transportmiddelen;10 tot 50 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;43.0
+371;DM Vervaardiging van transportmiddelen;10 tot 50 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+372;DM Vervaardiging van transportmiddelen;50 tot 250 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+373;DM Vervaardiging van transportmiddelen;50 tot 250 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+374;DM Vervaardiging van transportmiddelen;50 tot 250 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+375;DM Vervaardiging van transportmiddelen;50 tot 250 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+376;DM Vervaardiging van transportmiddelen;50 tot 250 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;31.0
+377;DM Vervaardiging van transportmiddelen;50 tot 250 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+378;DM Vervaardiging van transportmiddelen;250 of meer werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+379;DM Vervaardiging van transportmiddelen;250 of meer werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+380;DM Vervaardiging van transportmiddelen;250 of meer werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+381;DM Vervaardiging van transportmiddelen;250 of meer werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+382;DM Vervaardiging van transportmiddelen;250 of meer werkzame personen;2006;;;;;;;;;;;;;;;;;;;;24.0
+383;DM Vervaardiging van transportmiddelen;250 of meer werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+384;2000d Hout-, bouwmaterialen-, overige...;Totaal (10 en meer) werkzame personen;2002;56.0;53.0;46.0;8.0;3.0;1.0;2.0;1548.0;400.0;623.0;524.0;;;;;974.0;268.0;406.0;300.0;182.0
+385;2000d Hout-, bouwmaterialen-, overige...;Totaal (10 en meer) werkzame personen;2003;49.0;44.0;36.0;8.0;5.0;2.0;3.0;1224.0;410.0;466.0;348.0;131.0;41.0;43.0;47.0;784.0;288.0;347.0;149.0;175.0
+386;2000d Hout-, bouwmaterialen-, overige...;Totaal (10 en meer) werkzame personen;2004;45.0;;;;;;;1281.0;405.0;452.0;424.0;;;;;636.0;258.0;229.0;149.0;168.0
+387;2000d Hout-, bouwmaterialen-, overige...;Totaal (10 en meer) werkzame personen;2005;39.0;35.0;27.0;7.0;5.0;1.0;4.0;1041.0;309.0;280.0;452.0;109.0;40.0;36.0;33.0;540.0;208.0;176.0;155.0;132.0
+388;2000d Hout-, bouwmaterialen-, overige...;Totaal (10 en meer) werkzame personen;2006;;;;;;;;;;;;;;;;;;;;127.0
+389;2000d Hout-, bouwmaterialen-, overige...;Totaal (10 en meer) werkzame personen;2007;;;;;;;;;;;;;;;;;;;;113.0
+390;2000d Hout-, bouwmaterialen-, overige...;10 tot 50 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+391;2000d Hout-, bouwmaterialen-, overige...;10 tot 50 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+392;2000d Hout-, bouwmaterialen-, overige...;10 tot 50 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+393;2000d Hout-, bouwmaterialen-, overige...;10 tot 50 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+394;2000d Hout-, bouwmaterialen-, overige...;10 tot 50 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;44.0
+395;2000d Hout-, bouwmaterialen-, overige...;10 tot 50 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+396;2000d Hout-, bouwmaterialen-, overige...;50 tot 250 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+397;2000d Hout-, bouwmaterialen-, overige...;50 tot 250 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+398;2000d Hout-, bouwmaterialen-, overige...;50 tot 250 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+399;2000d Hout-, bouwmaterialen-, overige...;50 tot 250 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+400;2000d Hout-, bouwmaterialen-, overige...;50 tot 250 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;56.0
+401;2000d Hout-, bouwmaterialen-, overige...;50 tot 250 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+402;2000d Hout-, bouwmaterialen-, overige...;250 of meer werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+403;2000d Hout-, bouwmaterialen-, overige...;250 of meer werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+404;2000d Hout-, bouwmaterialen-, overige...;250 of meer werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+405;2000d Hout-, bouwmaterialen-, overige...;250 of meer werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+406;2000d Hout-, bouwmaterialen-, overige...;250 of meer werkzame personen;2006;;;;;;;;;;;;;;;;;;;;27.0
+407;2000d Hout-, bouwmaterialen-, overige...;250 of meer werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+408;5000f Commerciële en milieudienstverl...;Totaal (10 en meer) werkzame personen;2002;884.0;787.0;583.0;204.0;97.0;56.0;41.0;18663.0;9266.0;5868.0;3529.0;;;;;12466.0;6313.0;3796.0;2356.0;1679.0
+409;5000f Commerciële en milieudienstverl...;Totaal (10 en meer) werkzame personen;2003;839.0;770.0;559.0;211.0;69.0;23.0;46.0;15815.0;8097.0;5179.0;2540.0;2563.0;908.0;920.0;735.0;10706.0;5659.0;3307.0;1740.0;1140.0
+410;5000f Commerciële en milieudienstverl...;Totaal (10 en meer) werkzame personen;2004;974.0;;;;;;;22911.0;12561.0;5556.0;4794.0;;;;;14739.0;8193.0;4135.0;2411.0;1704.0
+411;5000f Commerciële en milieudienstverl...;Totaal (10 en meer) werkzame personen;2005;977.0;884.0;691.0;193.0;93.0;23.0;70.0;20656.0;11498.0;5963.0;3196.0;3320.0;1279.0;1243.0;798.0;13317.0;7700.0;3927.0;1690.0;1544.0
+412;5000f Commerciële en milieudienstverl...;Totaal (10 en meer) werkzame personen;2006;1200.0;;;;;;;26954.0;17945.0;5976.0;3033.0;;;;;16765.0;11032.0;4134.0;1599.0;1530.0
+413;5000f Commerciële en milieudienstverl...;Totaal (10 en meer) werkzame personen;2007;1284.0;1180.0;870.0;310.0;103.0;41.0;63.0;20599.0;13309.0;5177.0;2113.0;4398.0;1928.0;1442.0;1028.0;15419.0;10021.0;3833.0;1564.0;1125.0
+414;5000f Commerciële en milieudienstverl...;10 tot 50 werkzame personen;2002;257.0;227.0;175.0;52.0;30.0;18.0;12.0;7567.0;3660.0;2472.0;1434.0;;;;;4672.0;2446.0;1433.0;793.0;1186.0
+415;5000f Commerciële en milieudienstverl...;10 tot 50 werkzame personen;2003;231.0;206.0;160.0;46.0;25.0;11.0;14.0;5718.0;2948.0;1950.0;820.0;892.0;363.0;306.0;223.0;3625.0;2002.0;1133.0;490.0;722.0
+416;5000f Commerciële en milieudienstverl...;10 tot 50 werkzame personen;2004;266.0;;;;;;;9009.0;4948.0;2278.0;1784.0;;;;;6063.0;3588.0;1704.0;771.0;1196.0
+417;5000f Commerciële en milieudienstverl...;10 tot 50 werkzame personen;2005;306.0;278.0;226.0;51.0;28.0;10.0;19.0;9229.0;5496.0;2472.0;1261.0;1274.0;503.0;468.0;303.0;6044.0;3884.0;1672.0;489.0;1111.0
+418;5000f Commerciële en milieudienstverl...;10 tot 50 werkzame personen;2006;290.0;;;;;;;7330.0;4430.0;1891.0;1010.0;;;;;5824.0;3639.0;1558.0;628.0;1007.0
+419;5000f Commerciële en milieudienstverl...;10 tot 50 werkzame personen;2007;252.0;238.0;187.0;50.0;14.0;5.0;9.0;5633.0;3437.0;1574.0;622.0;956.0;337.0;325.0;294.0;4096.0;2529.0;1193.0;375.0;699.0
+420;5000f Commerciële en milieudienstverl...;50 tot 250 werkzame personen;2002;289.0;257.0;180.0;77.0;32.0;16.0;15.0;5823.0;2853.0;1924.0;1046.0;;;;;3953.0;1894.0;1342.0;718.0;379.0
+421;5000f Commerciële en milieudienstverl...;50 tot 250 werkzame personen;2003;302.0;277.0;200.0;77.0;26.0;9.0;17.0;5261.0;2456.0;1902.0;903.0;1069.0;329.0;422.0;318.0;3840.0;1813.0;1384.0;642.0;317.0
+422;5000f Commerciële en milieudienstverl...;50 tot 250 werkzame personen;2004;315.0;;;;;;;6246.0;3170.0;1823.0;1253.0;;;;;4053.0;1913.0;1434.0;706.0;369.0
+423;5000f Commerciële en milieudienstverl...;50 tot 250 werkzame personen;2005;295.0;268.0;206.0;63.0;26.0;10.0;16.0;4980.0;2224.0;1996.0;759.0;1115.0;360.0;501.0;255.0;3404.0;1534.0;1394.0;475.0;321.0
+424;5000f Commerciële en milieudienstverl...;50 tot 250 werkzame personen;2006;529.0;;;;;;;8117.0;4625.0;2319.0;1173.0;;;;;6668.0;4507.0;1537.0;624.0;395.0
+425;5000f Commerciële en milieudienstverl...;50 tot 250 werkzame personen;2007;435.0;395.0;280.0;115.0;40.0;22.0;18.0;6145.0;3708.0;1799.0;638.0;1313.0;566.0;480.0;267.0;4986.0;3156.0;1368.0;462.0;303.0
+426;5000f Commerciële en milieudienstverl...;250 of meer werkzame personen;2002;338.0;303.0;228.0;75.0;35.0;22.0;13.0;5273.0;2753.0;1472.0;1048.0;;;;;3841.0;1974.0;1021.0;846.0;115.0
+427;5000f Commerciële en milieudienstverl...;250 of meer werkzame personen;2003;305.0;287.0;200.0;88.0;18.0;3.0;15.0;4836.0;2692.0;1327.0;817.0;602.0;216.0;192.0;194.0;3241.0;1844.0;789.0;608.0;101.0
+428;5000f Commerciële en milieudienstverl...;250 of meer werkzame personen;2004;393.0;;;;;;;7656.0;4443.0;1455.0;1758.0;;;;;4623.0;2692.0;997.0;934.0;138.0
+429;5000f Commerciële en milieudienstverl...;250 of meer werkzame personen;2005;376.0;337.0;259.0;79.0;38.0;3.0;35.0;6448.0;3778.0;1494.0;1176.0;931.0;416.0;275.0;240.0;3869.0;2281.0;862.0;726.0;112.0
+430;5000f Commerciële en milieudienstverl...;250 of meer werkzame personen;2006;382.0;;;;;;;11506.0;8890.0;1766.0;850.0;;;;;4273.0;2887.0;1039.0;347.0;128.0
+431;5000f Commerciële en milieudienstverl...;250 of meer werkzame personen;2007;597.0;548.0;403.0;145.0;49.0;13.0;36.0;8821.0;6164.0;1805.0;852.0;2129.0;1025.0;637.0;467.0;6336.0;4336.0;1273.0;727.0;123.0
+432;51 Groothandel en handelsbemiddeling ...;Totaal (10 en meer) werkzame personen;2002;202.0;173.0;106.0;67.0;29.0;22.0;7.0;4087.0;1561.0;1087.0;1439.0;;;;;2996.0;1249.0;788.0;959.0;484.0
+433;51 Groothandel en handelsbemiddeling ...;Totaal (10 en meer) werkzame personen;2003;174.0;156.0;98.0;59.0;18.0;7.0;10.0;3049.0;1358.0;968.0;723.0;640.0;243.0;233.0;164.0;2299.0;1110.0;681.0;508.0;307.0
+434;51 Groothandel en handelsbemiddeling ...;Totaal (10 en meer) werkzame personen;2004;213.0;;;;;;;4240.0;2047.0;1264.0;929.0;;;;;3353.0;1788.0;1040.0;526.0;498.0
+435;51 Groothandel en handelsbemiddeling ...;Totaal (10 en meer) werkzame personen;2005;215.0;201.0;154.0;48.0;13.0;5.0;8.0;3908.0;1879.0;1302.0;727.0;824.0;268.0;372.0;184.0;3085.0;1673.0;922.0;490.0;501.0
+436;51 Groothandel en handelsbemiddeling ...;Totaal (10 en meer) werkzame personen;2006;259.0;;;;;;;3353.0;1616.0;1035.0;701.0;;;;;3176.0;2054.0;732.0;390.0;384.0
+437;51 Groothandel en handelsbemiddeling ...;Totaal (10 en meer) werkzame personen;2007;184.0;176.0;107.0;68.0;8.0;3.0;5.0;2805.0;1502.0;827.0;475.0;409.0;174.0;99.0;136.0;2254.0;1319.0;589.0;346.0;279.0
+438;51 Groothandel en handelsbemiddeling ...;10 tot 50 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+439;51 Groothandel en handelsbemiddeling ...;10 tot 50 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+440;51 Groothandel en handelsbemiddeling ...;10 tot 50 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+441;51 Groothandel en handelsbemiddeling ...;10 tot 50 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+442;51 Groothandel en handelsbemiddeling ...;10 tot 50 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;241.0
+443;51 Groothandel en handelsbemiddeling ...;10 tot 50 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+444;51 Groothandel en handelsbemiddeling ...;50 tot 250 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+445;51 Groothandel en handelsbemiddeling ...;50 tot 250 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+446;51 Groothandel en handelsbemiddeling ...;50 tot 250 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+447;51 Groothandel en handelsbemiddeling ...;50 tot 250 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+448;51 Groothandel en handelsbemiddeling ...;50 tot 250 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;123.0
+449;51 Groothandel en handelsbemiddeling ...;50 tot 250 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+450;51 Groothandel en handelsbemiddeling ...;250 of meer werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+451;51 Groothandel en handelsbemiddeling ...;250 of meer werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+452;51 Groothandel en handelsbemiddeling ...;250 of meer werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+453;51 Groothandel en handelsbemiddeling ...;250 of meer werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+454;51 Groothandel en handelsbemiddeling ...;250 of meer werkzame personen;2006;;;;;;;;;;;;;;;;;;;;20.0
+455;51 Groothandel en handelsbemiddeling ...;250 of meer werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+456;52 Detailhandel en reparatie voor par...;Totaal (10 en meer) werkzame personen;2002;42.0;39.0;18.0;21.0;4.0;0.0;4.0;527.0;103.0;150.0;274.0;;;;;473.0;92.0;135.0;247.0;43.0
+457;52 Detailhandel en reparatie voor par...;Totaal (10 en meer) werkzame personen;2003;39.0;36.0;17.0;19.0;3.0;0.0;3.0;458.0;94.0;127.0;237.0;9.0;7.0;2.0;0.0;408.0;83.0;113.0;212.0;8.0
+458;52 Detailhandel en reparatie voor par...;Totaal (10 en meer) werkzame personen;2004;11.0;;;;;;;331.0;100.0;193.0;38.0;;;;;255.0;64.0;162.0;29.0;48.0
+459;52 Detailhandel en reparatie voor par...;Totaal (10 en meer) werkzame personen;2005;0.0;0.0;0.0;0.0;0.0;0.0;0.0;21.0;8.0;8.0;4.0;8.0;0.0;8.0;0.0;7.0;3.0;2.0;2.0;11.0
+460;52 Detailhandel en reparatie voor par...;Totaal (10 en meer) werkzame personen;2006;7.0;;;;;;;87.0;57.0;8.0;22.0;;;;;87.0;60.0;5.0;22.0;18.0
+461;52 Detailhandel en reparatie voor par...;Totaal (10 en meer) werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+462;52 Detailhandel en reparatie voor par...;10 tot 50 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+463;52 Detailhandel en reparatie voor par...;10 tot 50 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+464;52 Detailhandel en reparatie voor par...;10 tot 50 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+465;52 Detailhandel en reparatie voor par...;10 tot 50 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+466;52 Detailhandel en reparatie voor par...;10 tot 50 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;10.0
+467;52 Detailhandel en reparatie voor par...;10 tot 50 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+468;52 Detailhandel en reparatie voor par...;50 tot 250 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+469;52 Detailhandel en reparatie voor par...;50 tot 250 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+470;52 Detailhandel en reparatie voor par...;50 tot 250 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+471;52 Detailhandel en reparatie voor par...;50 tot 250 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+472;52 Detailhandel en reparatie voor par...;50 tot 250 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;6.0
+473;52 Detailhandel en reparatie voor par...;50 tot 250 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+474;52 Detailhandel en reparatie voor par...;250 of meer werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+475;52 Detailhandel en reparatie voor par...;250 of meer werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+476;52 Detailhandel en reparatie voor par...;250 of meer werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+477;52 Detailhandel en reparatie voor par...;250 of meer werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+478;52 Detailhandel en reparatie voor par...;250 of meer werkzame personen;2006;;;;;;;;;;;;;;;;;;;;2.0
+479;52 Detailhandel en reparatie voor par...;250 of meer werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+480;I Vervoer, opslag en communicatie;Totaal (10 en meer) werkzame personen;2002;28.0;27.0;22.0;5.0;1.0;0.0;1.0;516.0;305.0;132.0;79.0;;;;;400.0;239.0;105.0;56.0;75.0
+481;I Vervoer, opslag en communicatie;Totaal (10 en meer) werkzame personen;2003;27.0;25.0;21.0;4.0;2.0;0.0;2.0;425.0;243.0;105.0;76.0;55.0;15.0;3.0;37.0;326.0;204.0;83.0;40.0;52.0
+482;I Vervoer, opslag en communicatie;Totaal (10 en meer) werkzame personen;2004;40.0;;;;;;;847.0;467.0;220.0;160.0;;;;;627.0;350.0;186.0;91.0;103.0
+483;I Vervoer, opslag en communicatie;Totaal (10 en meer) werkzame personen;2005;36.0;30.0;26.0;4.0;6.0;0.0;5.0;543.0;285.0;211.0;48.0;59.0;11.0;32.0;15.0;298.0;175.0;102.0;21.0;70.0
+484;I Vervoer, opslag en communicatie;Totaal (10 en meer) werkzame personen;2006;86.0;;;;;;;1428.0;762.0;514.0;153.0;;;;;1072.0;891.0;139.0;42.0;66.0
+485;I Vervoer, opslag en communicatie;Totaal (10 en meer) werkzame personen;2007;;;;;;;;1139.0;949.0;;;269.0;227.0;;;1012.0;889.0;;;40.0
+486;I Vervoer, opslag en communicatie;10 tot 50 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+487;I Vervoer, opslag en communicatie;10 tot 50 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+488;I Vervoer, opslag en communicatie;10 tot 50 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+489;I Vervoer, opslag en communicatie;10 tot 50 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+490;I Vervoer, opslag en communicatie;10 tot 50 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;28.0
+491;I Vervoer, opslag en communicatie;10 tot 50 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+492;I Vervoer, opslag en communicatie;50 tot 250 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+493;I Vervoer, opslag en communicatie;50 tot 250 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+494;I Vervoer, opslag en communicatie;50 tot 250 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+495;I Vervoer, opslag en communicatie;50 tot 250 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+496;I Vervoer, opslag en communicatie;50 tot 250 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;18.0
+497;I Vervoer, opslag en communicatie;50 tot 250 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+498;I Vervoer, opslag en communicatie;250 of meer werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+499;I Vervoer, opslag en communicatie;250 of meer werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+500;I Vervoer, opslag en communicatie;250 of meer werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+501;I Vervoer, opslag en communicatie;250 of meer werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+502;I Vervoer, opslag en communicatie;250 of meer werkzame personen;2006;;;;;;;;;;;;;;;;;;;;20.0
+503;I Vervoer, opslag en communicatie;250 of meer werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+504;JA Financiële instellingen;Totaal (10 en meer) werkzame personen;2002;43.0;33.0;30.0;3.0;10.0;6.0;4.0;928.0;543.0;329.0;56.0;;;;;600.0;314.0;271.0;15.0;62.0
+505;JA Financiële instellingen;Totaal (10 en meer) werkzame personen;2003;45.0;40.0;32.0;7.0;6.0;3.0;2.0;808.0;458.0;288.0;63.0;130.0;39.0;65.0;26.0;575.0;300.0;241.0;34.0;57.0
+506;JA Financiële instellingen;Totaal (10 en meer) werkzame personen;2004;142.0;;;;;;;2944.0;1448.0;412.0;1084.0;;;;;1643.0;724.0;382.0;538.0;57.0
+507;JA Financiële instellingen;Totaal (10 en meer) werkzame personen;2005;98.0;80.0;67.0;13.0;18.0;1.0;18.0;2016.0;874.0;647.0;494.0;196.0;63.0;92.0;41.0;1095.0;448.0;411.0;236.0;43.0
+508;JA Financiële instellingen;Totaal (10 en meer) werkzame personen;2006;54.0;;;;;;;1027.0;514.0;380.0;133.0;;;;;740.0;412.0;278.0;50.0;92.0
+509;JA Financiële instellingen;Totaal (10 en meer) werkzame personen;2007;;;;;;;;2299.0;991.0;;;848.0;285.0;;;2053.0;859.0;;;67.0
+510;JA Financiële instellingen;10 tot 50 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+511;JA Financiële instellingen;10 tot 50 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+512;JA Financiële instellingen;10 tot 50 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+513;JA Financiële instellingen;10 tot 50 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+514;JA Financiële instellingen;10 tot 50 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;44.0
+515;JA Financiële instellingen;10 tot 50 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+516;JA Financiële instellingen;50 tot 250 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+517;JA Financiële instellingen;50 tot 250 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+518;JA Financiële instellingen;50 tot 250 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+519;JA Financiële instellingen;50 tot 250 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+520;JA Financiële instellingen;50 tot 250 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;24.0
+521;JA Financiële instellingen;50 tot 250 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+522;JA Financiële instellingen;250 of meer werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+523;JA Financiële instellingen;250 of meer werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+524;JA Financiële instellingen;250 of meer werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+525;JA Financiële instellingen;250 of meer werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+526;JA Financiële instellingen;250 of meer werkzame personen;2006;;;;;;;;;;;;;;;;;;;;24.0
+527;JA Financiële instellingen;250 of meer werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+528;72 Computerservice- en informatietech...;Totaal (10 en meer) werkzame personen;2002;297.0;283.0;236.0;47.0;14.0;5.0;9.0;6344.0;4053.0;1318.0;973.0;;;;;4630.0;3114.0;911.0;605.0;538.0
+529;72 Computerservice- en informatietech...;Totaal (10 en meer) werkzame personen;2003;224.0;214.0;177.0;37.0;10.0;1.0;9.0;4026.0;2477.0;1056.0;493.0;339.0;124.0;99.0;116.0;3012.0;1986.0;661.0;365.0;328.0
+530;72 Computerservice- en informatietech...;Totaal (10 en meer) werkzame personen;2004;216.0;;;;;;;5325.0;3693.0;926.0;706.0;;;;;3768.0;2452.0;836.0;481.0;419.0
+531;72 Computerservice- en informatietech...;Totaal (10 en meer) werkzame personen;2005;213.0;197.0;164.0;33.0;16.0;1.0;15.0;4072.0;2711.0;949.0;412.0;334.0;186.0;70.0;77.0;3036.0;2093.0;635.0;308.0;333.0
+532;72 Computerservice- en informatietech...;Totaal (10 en meer) werkzame personen;2006;319.0;;;;;;;10834.0;8866.0;1211.0;758.0;;;;;5518.0;4143.0;1041.0;334.0;483.0
+533;72 Computerservice- en informatietech...;Totaal (10 en meer) werkzame personen;2007;275.0;266.0;210.0;56.0;9.0;4.0;5.0;5424.0;4220.0;982.0;221.0;636.0;459.0;83.0;94.0;4481.0;3733.0;608.0;140.0;378.0
+534;72 Computerservice- en informatietech...;10 tot 50 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+535;72 Computerservice- en informatietech...;10 tot 50 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+536;72 Computerservice- en informatietech...;10 tot 50 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+537;72 Computerservice- en informatietech...;10 tot 50 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+538;72 Computerservice- en informatietech...;10 tot 50 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;369.0
+539;72 Computerservice- en informatietech...;10 tot 50 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+540;72 Computerservice- en informatietech...;50 tot 250 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+541;72 Computerservice- en informatietech...;50 tot 250 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+542;72 Computerservice- en informatietech...;50 tot 250 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+543;72 Computerservice- en informatietech...;50 tot 250 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+544;72 Computerservice- en informatietech...;50 tot 250 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;97.0
+545;72 Computerservice- en informatietech...;50 tot 250 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+546;72 Computerservice- en informatietech...;250 of meer werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+547;72 Computerservice- en informatietech...;250 of meer werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+548;72 Computerservice- en informatietech...;250 of meer werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+549;72 Computerservice- en informatietech...;250 of meer werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+550;72 Computerservice- en informatietech...;250 of meer werkzame personen;2006;;;;;;;;;;;;;;;;;;;;17.0
+551;72 Computerservice- en informatietech...;250 of meer werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+552;731 Natuurwetenschappelijk speur- en ...;Totaal (10 en meer) werkzame personen;2002;113.0;98.0;63.0;36.0;14.0;7.0;7.0;1213.0;593.0;312.0;308.0;;;;;1085.0;536.0;280.0;268.0;30.0
+553;731 Natuurwetenschappelijk speur- en ...;Totaal (10 en meer) werkzame personen;2003;180.0;163.0;110.0;53.0;17.0;9.0;9.0;2369.0;1067.0;789.0;514.0;839.0;257.0;342.0;241.0;1898.0;820.0;669.0;409.0;73.0
+554;731 Natuurwetenschappelijk speur- en ...;Totaal (10 en meer) werkzame personen;2004;165.0;;;;;;;2022.0;863.0;780.0;379.0;;;;;1704.0;722.0;676.0;306.0;61.0
+555;731 Natuurwetenschappelijk speur- en ...;Totaal (10 en meer) werkzame personen;2005;189.0;169.0;114.0;55.0;20.0;11.0;9.0;2363.0;944.0;1019.0;400.0;943.0;290.0;450.0;204.0;1865.0;769.0;824.0;272.0;82.0
+556;731 Natuurwetenschappelijk speur- en ...;Totaal (10 en meer) werkzame personen;2006;264.0;;;;;;;3294.0;1354.0;1361.0;579.0;;;;;2442.0;1149.0;888.0;405.0;74.0
+557;731 Natuurwetenschappelijk speur- en ...;Totaal (10 en meer) werkzame personen;2007;333.0;286.0;173.0;113.0;47.0;30.0;17.0;3571.0;1628.0;1392.0;551.0;1488.0;484.0;672.0;332.0;2734.0;1394.0;965.0;374.0;106.0
+558;731 Natuurwetenschappelijk speur- en ...;10 tot 50 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+559;731 Natuurwetenschappelijk speur- en ...;10 tot 50 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+560;731 Natuurwetenschappelijk speur- en ...;10 tot 50 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+561;731 Natuurwetenschappelijk speur- en ...;10 tot 50 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+562;731 Natuurwetenschappelijk speur- en ...;10 tot 50 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;47.0
+563;731 Natuurwetenschappelijk speur- en ...;10 tot 50 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+564;731 Natuurwetenschappelijk speur- en ...;50 tot 250 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+565;731 Natuurwetenschappelijk speur- en ...;50 tot 250 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+566;731 Natuurwetenschappelijk speur- en ...;50 tot 250 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+567;731 Natuurwetenschappelijk speur- en ...;50 tot 250 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+568;731 Natuurwetenschappelijk speur- en ...;50 tot 250 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;24.0
+569;731 Natuurwetenschappelijk speur- en ...;50 tot 250 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+570;731 Natuurwetenschappelijk speur- en ...;250 of meer werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+571;731 Natuurwetenschappelijk speur- en ...;250 of meer werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+572;731 Natuurwetenschappelijk speur- en ...;250 of meer werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+573;731 Natuurwetenschappelijk speur- en ...;250 of meer werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+574;731 Natuurwetenschappelijk speur- en ...;250 of meer werkzame personen;2006;;;;;;;;;;;;;;;;;;;;3.0
+575;731 Natuurwetenschappelijk speur- en ...;250 of meer werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+576;7411b Juridische en administratieve d...;Totaal (10 en meer) werkzame personen;2002;30.0;30.0;29.0;1.0;0.0;0.0;0.0;996.0;0.0;996.0;0.0;;;;;380.0;0.0;380.0;0.0;90.0
+577;7411b Juridische en administratieve d...;Totaal (10 en meer) werkzame personen;2003;19.0;19.0;17.0;2.0;0.0;0.0;0.0;518.0;134.0;338.0;46.0;100.0;28.0;40.0;32.0;225.0;63.0;151.0;11.0;43.0
+578;7411b Juridische en administratieve d...;Totaal (10 en meer) werkzame personen;2004;48.0;;;;;;;1366.0;1068.0;140.0;158.0;;;;;612.0;425.0;84.0;104.0;71.0
+579;7411b Juridische en administratieve d...;Totaal (10 en meer) werkzame personen;2005;30.0;30.0;23.0;7.0;0.0;0.0;0.0;1035.0;896.0;90.0;48.0;127.0;90.0;32.0;5.0;420.0;333.0;57.0;30.0;53.0
+580;7411b Juridische en administratieve d...;Totaal (10 en meer) werkzame personen;2006;27.0;;;;;;;619.0;420.0;181.0;18.0;;;;;409.0;284.0;115.0;10.0;86.0
+581;7411b Juridische en administratieve d...;Totaal (10 en meer) werkzame personen;2007;11.0;10.0;10.0;0.0;1.0;0.0;1.0;505.0;442.0;55.0;7.0;51.0;38.0;6.0;7.0;204.0;189.0;14.0;1.0;49.0
+582;7411b Juridische en administratieve d...;10 tot 50 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+583;7411b Juridische en administratieve d...;10 tot 50 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+584;7411b Juridische en administratieve d...;10 tot 50 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+585;7411b Juridische en administratieve d...;10 tot 50 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+586;7411b Juridische en administratieve d...;10 tot 50 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;54.0
+587;7411b Juridische en administratieve d...;10 tot 50 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+588;7411b Juridische en administratieve d...;50 tot 250 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+589;7411b Juridische en administratieve d...;50 tot 250 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+590;7411b Juridische en administratieve d...;50 tot 250 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+591;7411b Juridische en administratieve d...;50 tot 250 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+592;7411b Juridische en administratieve d...;50 tot 250 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;29.0
+593;7411b Juridische en administratieve d...;50 tot 250 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+594;7411b Juridische en administratieve d...;250 of meer werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+595;7411b Juridische en administratieve d...;250 of meer werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+596;7411b Juridische en administratieve d...;250 of meer werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+597;7411b Juridische en administratieve d...;250 of meer werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+598;7411b Juridische en administratieve d...;250 of meer werkzame personen;2006;;;;;;;;;;;;;;;;;;;;3.0
+599;7411b Juridische en administratieve d...;250 of meer werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+600;742 Architecten-, ingenieurs- en over...;Totaal (10 en meer) werkzame personen;2002;81.0;75.0;59.0;16.0;6.0;3.0;3.0;2926.0;1530.0;1198.0;198.0;;;;;1268.0;487.0;725.0;56.0;231.0
+601;742 Architecten-, ingenieurs- en over...;Totaal (10 en meer) werkzame personen;2003;99.0;91.0;68.0;23.0;8.0;0.0;8.0;3516.0;1931.0;1332.0;253.0;300.0;131.0;88.0;80.0;1515.0;837.0;580.0;98.0;196.0
+602;742 Architecten-, ingenieurs- en over...;Totaal (10 en meer) werkzame personen;2004;89.0;;;;;;;4137.0;2224.0;1042.0;872.0;;;;;2030.0;1314.0;571.0;145.0;301.0
+603;742 Architecten-, ingenieurs- en over...;Totaal (10 en meer) werkzame personen;2005;132.0;123.0;103.0;21.0;9.0;3.0;6.0;5144.0;3148.0;1275.0;722.0;480.0;235.0;107.0;138.0;2700.0;1797.0;731.0;172.0;278.0
+604;742 Architecten-, ingenieurs- en over...;Totaal (10 en meer) werkzame personen;2006;118.0;;;;;;;4921.0;3675.0;817.0;429.0;;;;;2276.0;1509.0;596.0;171.0;215.0
+605;742 Architecten-, ingenieurs- en over...;Totaal (10 en meer) werkzame personen;2007;156.0;153.0;121.0;32.0;3.0;0.0;3.0;4071.0;3151.0;729.0;190.0;466.0;162.0;199.0;105.0;2091.0;1321.0;639.0;131.0;149.0
+606;742 Architecten-, ingenieurs- en over...;10 tot 50 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+607;742 Architecten-, ingenieurs- en over...;10 tot 50 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+608;742 Architecten-, ingenieurs- en over...;10 tot 50 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+609;742 Architecten-, ingenieurs- en over...;10 tot 50 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+610;742 Architecten-, ingenieurs- en over...;10 tot 50 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;162.0
+611;742 Architecten-, ingenieurs- en over...;10 tot 50 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+612;742 Architecten-, ingenieurs- en over...;50 tot 250 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+613;742 Architecten-, ingenieurs- en over...;50 tot 250 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+614;742 Architecten-, ingenieurs- en over...;50 tot 250 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+615;742 Architecten-, ingenieurs- en over...;50 tot 250 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+616;742 Architecten-, ingenieurs- en over...;50 tot 250 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;40.0
+617;742 Architecten-, ingenieurs- en over...;50 tot 250 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+618;742 Architecten-, ingenieurs- en over...;250 of meer werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+619;742 Architecten-, ingenieurs- en over...;250 of meer werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+620;742 Architecten-, ingenieurs- en over...;250 of meer werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+621;742 Architecten-, ingenieurs- en over...;250 of meer werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+622;742 Architecten-, ingenieurs- en over...;250 of meer werkzame personen;2006;;;;;;;;;;;;;;;;;;;;13.0
+623;742 Architecten-, ingenieurs- en over...;250 of meer werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+624;7000f Verhuur en overige zakelijke di...;Totaal (10 en meer) werkzame personen;2002;40.0;23.0;16.0;7.0;16.0;13.0;4.0;904.0;463.0;305.0;137.0;;;;;530.0;220.0;176.0;134.0;80.0
+625;7000f Verhuur en overige zakelijke di...;Totaal (10 en meer) werkzame personen;2003;27.0;23.0;18.0;5.0;4.0;2.0;2.0;533.0;277.0;151.0;105.0;139.0;58.0;45.0;36.0;387.0;223.0;113.0;51.0;46.0
+626;7000f Verhuur en overige zakelijke di...;Totaal (10 en meer) werkzame personen;2004;47.0;;;;;;;1606.0;601.0;556.0;449.0;;;;;717.0;338.0;195.0;185.0;135.0
+627;7000f Verhuur en overige zakelijke di...;Totaal (10 en meer) werkzame personen;2005;54.0;46.0;35.0;11.0;9.0;3.0;6.0;1418.0;695.0;413.0;309.0;317.0;121.0;70.0;126.0;732.0;372.0;218.0;141.0;153.0
+628;7000f Verhuur en overige zakelijke di...;Totaal (10 en meer) werkzame personen;2006;56.0;;;;;;;1214.0;578.0;426.0;210.0;;;;;914.0;442.0;309.0;163.0;82.0
+629;7000f Verhuur en overige zakelijke di...;Totaal (10 en meer) werkzame personen;2007;40.0;34.0;28.0;6.0;5.0;2.0;3.0;674.0;358.0;226.0;89.0;201.0;82.0;70.0;48.0;514.0;268.0;179.0;67.0;42.0
+630;7000f Verhuur en overige zakelijke di...;10 tot 50 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+631;7000f Verhuur en overige zakelijke di...;10 tot 50 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+632;7000f Verhuur en overige zakelijke di...;10 tot 50 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+633;7000f Verhuur en overige zakelijke di...;10 tot 50 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+634;7000f Verhuur en overige zakelijke di...;10 tot 50 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;39.0
+635;7000f Verhuur en overige zakelijke di...;10 tot 50 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+636;7000f Verhuur en overige zakelijke di...;50 tot 250 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+637;7000f Verhuur en overige zakelijke di...;50 tot 250 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+638;7000f Verhuur en overige zakelijke di...;50 tot 250 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+639;7000f Verhuur en overige zakelijke di...;50 tot 250 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+640;7000f Verhuur en overige zakelijke di...;50 tot 250 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;22.0
+641;7000f Verhuur en overige zakelijke di...;50 tot 250 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+642;7000f Verhuur en overige zakelijke di...;250 of meer werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+643;7000f Verhuur en overige zakelijke di...;250 of meer werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+644;7000f Verhuur en overige zakelijke di...;250 of meer werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+645;7000f Verhuur en overige zakelijke di...;250 of meer werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+646;7000f Verhuur en overige zakelijke di...;250 of meer werkzame personen;2006;;;;;;;;;;;;;;;;;;;;21.0
+647;7000f Verhuur en overige zakelijke di...;250 of meer werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+648;90 Milieudienstverlening;Totaal (10 en meer) werkzame personen;2002;9.0;6.0;4.0;2.0;3.0;1.0;2.0;222.0;116.0;42.0;64.0;;;;;103.0;61.0;26.0;17.0;45.0
+649;90 Milieudienstverlening;Totaal (10 en meer) werkzame personen;2003;4.0;4.0;3.0;1.0;1.0;0.0;1.0;113.0;57.0;26.0;30.0;10.0;6.0;2.0;3.0;61.0;32.0;16.0;13.0;30.0
+650;90 Milieudienstverlening;Totaal (10 en meer) werkzame personen;2004;2.0;;;;;;;93.0;49.0;24.0;19.0;;;;;29.0;16.0;4.0;8.0;12.0
+651;90 Milieudienstverlening;Totaal (10 en meer) werkzame personen;2005;9.0;7.0;5.0;2.0;2.0;0.0;2.0;137.0;56.0;48.0;32.0;32.0;14.0;10.0;8.0;79.0;35.0;27.0;17.0;19.0
+652;90 Milieudienstverlening;Totaal (10 en meer) werkzame personen;2006;11.0;;;;;;;176.0;103.0;43.0;29.0;;;;;131.0;87.0;31.0;13.0;30.0
+653;90 Milieudienstverlening;Totaal (10 en meer) werkzame personen;2007;7.0;;5.0;;;;;112.0;66.0;28.0;18.0;30.0;16.0;9.0;6.0;75.0;49.0;18.0;9.0;14.0
+654;90 Milieudienstverlening;10 tot 50 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+655;90 Milieudienstverlening;10 tot 50 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+656;90 Milieudienstverlening;10 tot 50 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+657;90 Milieudienstverlening;10 tot 50 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+658;90 Milieudienstverlening;10 tot 50 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;14.0
+659;90 Milieudienstverlening;10 tot 50 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+660;90 Milieudienstverlening;50 tot 250 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+661;90 Milieudienstverlening;50 tot 250 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+662;90 Milieudienstverlening;50 tot 250 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+663;90 Milieudienstverlening;50 tot 250 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+664;90 Milieudienstverlening;50 tot 250 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;10.0
+665;90 Milieudienstverlening;50 tot 250 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+666;90 Milieudienstverlening;250 of meer werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+667;90 Milieudienstverlening;250 of meer werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+668;90 Milieudienstverlening;250 of meer werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+669;90 Milieudienstverlening;250 of meer werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+670;90 Milieudienstverlening;250 of meer werkzame personen;2006;;;;;;;;;;;;;;;;;;;;6.0
+671;90 Milieudienstverlening;250 of meer werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+672;0100d Landbouw, winning, energie en bouw;Totaal (10 en meer) werkzame personen;2002;204.0;180.0;138.0;42.0;24.0;9.0;15.0;2908.0;1074.0;1012.0;822.0;;;;;2101.0;893.0;757.0;451.0;175.0
+673;0100d Landbouw, winning, energie en bouw;Totaal (10 en meer) werkzame personen;2003;215.0;186.0;137.0;48.0;30.0;12.0;18.0;2469.0;933.0;878.0;658.0;510.0;104.0;130.0;276.0;1700.0;746.0;588.0;366.0;156.0
+674;0100d Landbouw, winning, energie en bouw;Totaal (10 en meer) werkzame personen;2004;199.0;;;;;;;4046.0;1547.0;1025.0;1474.0;;;;;2103.0;1009.0;651.0;442.0;260.0
+675;0100d Landbouw, winning, energie en bouw;Totaal (10 en meer) werkzame personen;2005;204.0;183.0;150.0;34.0;21.0;7.0;14.0;2859.0;1255.0;797.0;807.0;591.0;128.0;193.0;271.0;1724.0;838.0;539.0;349.0;190.0
+676;0100d Landbouw, winning, energie en bouw;Totaal (10 en meer) werkzame personen;2006;186.0;;;;;;;2651.0;1014.0;843.0;793.0;;;;;2543.0;1436.0;655.0;452.0;158.0
+677;0100d Landbouw, winning, energie en bouw;Totaal (10 en meer) werkzame personen;2007;201.0;174.0;136.0;37.0;27.0;17.0;11.0;2664.0;1409.0;833.0;423.0;533.0;180.0;210.0;143.0;2243.0;1310.0;651.0;282.0;110.0
+678;0100d Landbouw, winning, energie en bouw;10 tot 50 werkzame personen;2002;14.0;13.0;11.0;2.0;1.0;0.0;1.0;445.0;96.0;144.0;206.0;;;;;158.0;45.0;67.0;45.0;49.0
+679;0100d Landbouw, winning, energie en bouw;10 tot 50 werkzame personen;2003;14.0;12.0;5.0;7.0;2.0;2.0;1.0;299.0;87.0;117.0;95.0;87.0;4.0;36.0;47.0;124.0;37.0;49.0;38.0;37.0
+680;0100d Landbouw, winning, energie en bouw;10 tot 50 werkzame personen;2004;20.0;;;;;;;1338.0;272.0;180.0;886.0;;;;;467.0;173.0;138.0;156.0;168.0
+681;0100d Landbouw, winning, energie en bouw;10 tot 50 werkzame personen;2005;21.0;16.0;12.0;4.0;5.0;4.0;1.0;450.0;145.0;116.0;188.0;196.0;35.0;59.0;102.0;299.0;113.0;86.0;101.0;85.0
+682;0100d Landbouw, winning, energie en bouw;10 tot 50 werkzame personen;2006;9.0;;;;;;;215.0;101.0;25.0;89.0;;;;;118.0;75.0;9.0;34.0;68.0
+683;0100d Landbouw, winning, energie en bouw;10 tot 50 werkzame personen;2007;11.0;10.0;8.0;2.0;1.0;0.0;1.0;849.0;685.0;74.0;91.0;174.0;112.0;29.0;32.0;725.0;649.0;35.0;41.0;57.0
+684;0100d Landbouw, winning, energie en bouw;50 tot 250 werkzame personen;2002;37.0;35.0;23.0;12.0;2.0;1.0;2.0;962.0;268.0;385.0;310.0;;;;;602.0;187.0;258.0;158.0;67.0
+685;0100d Landbouw, winning, energie en bouw;50 tot 250 werkzame personen;2003;68.0;54.0;33.0;21.0;14.0;10.0;5.0;1144.0;310.0;387.0;447.0;306.0;60.0;60.0;186.0;712.0;218.0;246.0;248.0;62.0
+686;0100d Landbouw, winning, energie en bouw;50 tot 250 werkzame personen;2004;50.0;;;;;;;900.0;258.0;308.0;334.0;;;;;591.0;181.0;227.0;182.0;46.0
+687;0100d Landbouw, winning, energie en bouw;50 tot 250 werkzame personen;2005;47.0;44.0;26.0;18.0;3.0;1.0;2.0;767.0;219.0;255.0;293.0;248.0;31.0;92.0;125.0;525.0;165.0;185.0;175.0;51.0
+688;0100d Landbouw, winning, energie en bouw;50 tot 250 werkzame personen;2006;47.0;;;;;;;1270.0;283.0;436.0;552.0;;;;;1518.0;840.0;349.0;328.0;52.0
+689;0100d Landbouw, winning, energie en bouw;50 tot 250 werkzame personen;2007;46.0;38.0;26.0;12.0;7.0;6.0;1.0;675.0;169.0;330.0;176.0;193.0;14.0;104.0;74.0;579.0;161.0;292.0;125.0;24.0
+690;0100d Landbouw, winning, energie en bouw;250 of meer werkzame personen;2002;153.0;132.0;104.0;28.0;21.0;8.0;13.0;1501.0;711.0;483.0;307.0;;;;;1341.0;661.0;433.0;248.0;58.0
+691;0100d Landbouw, winning, energie en bouw;250 of meer werkzame personen;2003;133.0;120.0;100.0;20.0;13.0;1.0;12.0;1026.0;536.0;374.0;116.0;117.0;41.0;34.0;43.0;864.0;491.0;293.0;79.0;57.0
+692;0100d Landbouw, winning, energie en bouw;250 of meer werkzame personen;2004;130.0;;;;;;;1808.0;1018.0;537.0;253.0;;;;;1045.0;654.0;286.0;104.0;46.0
+693;0100d Landbouw, winning, energie en bouw;250 of meer werkzame personen;2005;137.0;123.0;112.0;11.0;14.0;2.0;11.0;1642.0;891.0;426.0;325.0;148.0;61.0;42.0;45.0;900.0;560.0;267.0;73.0;54.0
+694;0100d Landbouw, winning, energie en bouw;250 of meer werkzame personen;2006;130.0;;;;;;;1166.0;631.0;383.0;152.0;;;;;908.0;522.0;297.0;89.0;38.0
+695;0100d Landbouw, winning, energie en bouw;250 of meer werkzame personen;2007;145.0;126.0;102.0;24.0;19.0;10.0;9.0;1141.0;555.0;429.0;156.0;166.0;54.0;76.0;36.0;940.0;501.0;324.0;116.0;29.0
+696;0000b Landbouw, bosbouw, visserij (A+B);Totaal (10 en meer) werkzame personen;2002;66.0;56.0;35.0;20.0;10.0;7.0;2.0;1050.0;127.0;339.0;584.0;;;;;700.0;89.0;292.0;319.0;34.0
+697;0000b Landbouw, bosbouw, visserij (A+B);Totaal (10 en meer) werkzame personen;2003;68.0;54.0;26.0;28.0;14.0;11.0;2.0;910.0;187.0;298.0;426.0;386.0;55.0;114.0;216.0;664.0;158.0;256.0;250.0;30.0
+698;0000b Landbouw, bosbouw, visserij (A+B);Totaal (10 en meer) werkzame personen;2004;47.0;;;;;;;1488.0;238.0;349.0;902.0;;;;;764.0;211.0;291.0;262.0;100.0
+699;0000b Landbouw, bosbouw, visserij (A+B);Totaal (10 en meer) werkzame personen;2005;63.0;54.0;31.0;23.0;9.0;7.0;2.0;1228.0;244.0;375.0;608.0;462.0;57.0;173.0;232.0;778.0;205.0;286.0;287.0;63.0
+700;0000b Landbouw, bosbouw, visserij (A+B);Totaal (10 en meer) werkzame personen;2006;55.0;;;;;;;1168.0;346.0;376.0;445.0;;;;;1428.0;888.0;312.0;228.0;58.0
+701;0000b Landbouw, bosbouw, visserij (A+B);Totaal (10 en meer) werkzame personen;2007;66.0;52.0;30.0;22.0;14.0;12.0;1.0;1492.0;806.0;401.0;285.0;406.0;129.0;173.0;103.0;1306.0;777.0;342.0;188.0;46.0
+702;0000b Landbouw, bosbouw, visserij (A+B);10 tot 50 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+703;0000b Landbouw, bosbouw, visserij (A+B);10 tot 50 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+704;0000b Landbouw, bosbouw, visserij (A+B);10 tot 50 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+705;0000b Landbouw, bosbouw, visserij (A+B);10 tot 50 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+706;0000b Landbouw, bosbouw, visserij (A+B);10 tot 50 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;34.0
+707;0000b Landbouw, bosbouw, visserij (A+B);10 tot 50 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+708;0000b Landbouw, bosbouw, visserij (A+B);50 tot 250 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+709;0000b Landbouw, bosbouw, visserij (A+B);50 tot 250 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+710;0000b Landbouw, bosbouw, visserij (A+B);50 tot 250 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+711;0000b Landbouw, bosbouw, visserij (A+B);50 tot 250 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+712;0000b Landbouw, bosbouw, visserij (A+B);50 tot 250 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;21.0
+713;0000b Landbouw, bosbouw, visserij (A+B);50 tot 250 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+714;0000b Landbouw, bosbouw, visserij (A+B);250 of meer werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+715;0000b Landbouw, bosbouw, visserij (A+B);250 of meer werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+716;0000b Landbouw, bosbouw, visserij (A+B);250 of meer werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+717;0000b Landbouw, bosbouw, visserij (A+B);250 of meer werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+718;0000b Landbouw, bosbouw, visserij (A+B);250 of meer werkzame personen;2006;;;;;;;;;;;;;;;;;;;;2.0
+719;0000b Landbouw, bosbouw, visserij (A+B);250 of meer werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+720;C Winning van delfstoffen;Totaal (10 en meer) werkzame personen;2002;83.0;77.0;66.0;11.0;6.0;0.0;6.0;589.0;486.0;56.0;47.0;;;;;583.0;484.0;54.0;45.0;8.0
+721;C Winning van delfstoffen;Totaal (10 en meer) werkzame personen;2003;95.0;86.0;76.0;10.0;9.0;0.0;9.0;490.0;335.0;92.0;63.0;53.0;23.0;12.0;18.0;480.0;330.0;90.0;60.0;9.0
+722;C Winning van delfstoffen;Totaal (10 en meer) werkzame personen;2004;83.0;;;;;;;632.0;549.0;29.0;54.0;;;;;413.0;336.0;27.0;49.0;7.0
+723;C Winning van delfstoffen;Totaal (10 en meer) werkzame personen;2005;99.0;90.0;84.0;7.0;8.0;0.0;8.0;692.0;608.0;59.0;25.0;61.0;44.0;2.0;15.0;464.0;388.0;54.0;22.0;9.0
+724;C Winning van delfstoffen;Totaal (10 en meer) werkzame personen;2006;81.0;;;;;;;352.0;294.0;33.0;26.0;;;;;333.0;282.0;31.0;20.0;5.0
+725;C Winning van delfstoffen;Totaal (10 en meer) werkzame personen;2007;;;;;;;;;;49.0;;;;6.0;;;;40.0;;5.0
+726;C Winning van delfstoffen;10 tot 50 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+727;C Winning van delfstoffen;10 tot 50 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+728;C Winning van delfstoffen;10 tot 50 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+729;C Winning van delfstoffen;10 tot 50 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+730;C Winning van delfstoffen;10 tot 50 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;2.0
+731;C Winning van delfstoffen;10 tot 50 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+732;C Winning van delfstoffen;50 tot 250 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+733;C Winning van delfstoffen;50 tot 250 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+734;C Winning van delfstoffen;50 tot 250 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+735;C Winning van delfstoffen;50 tot 250 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+736;C Winning van delfstoffen;50 tot 250 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;0.0
+737;C Winning van delfstoffen;50 tot 250 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+738;C Winning van delfstoffen;250 of meer werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+739;C Winning van delfstoffen;250 of meer werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+740;C Winning van delfstoffen;250 of meer werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+741;C Winning van delfstoffen;250 of meer werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+742;C Winning van delfstoffen;250 of meer werkzame personen;2006;;;;;;;;;;;;;;;;;;;;3.0
+743;C Winning van delfstoffen;250 of meer werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+744;E Productie en distributie van en han...;Totaal (10 en meer) werkzame personen;2002;22.0;18.0;12.0;6.0;4.0;0.0;4.0;363.0;118.0;208.0;36.0;;;;;262.0;90.0;153.0;20.0;24.0
+745;E Productie en distributie van en han...;Totaal (10 en meer) werkzame personen;2003;24.0;19.0;12.0;7.0;5.0;1.0;4.0;311.0;138.0;125.0;49.0;34.0;16.0;2.0;17.0;181.0;91.0;71.0;19.0;23.0
+746;E Productie en distributie van en han...;Totaal (10 en meer) werkzame personen;2004;23.0;;;;;;;393.0;188.0;165.0;41.0;;;;;246.0;152.0;68.0;26.0;19.0
+747;E Productie en distributie van en han...;Totaal (10 en meer) werkzame personen;2005;23.0;21.0;20.0;1.0;2.0;0.0;2.0;242.0;145.0;68.0;28.0;41.0;15.0;10.0;16.0;165.0;100.0;46.0;19.0;19.0
+748;E Productie en distributie van en han...;Totaal (10 en meer) werkzame personen;2006;26.0;;;;;;;389.0;69.0;183.0;137.0;;;;;344.0;46.0;164.0;134.0;10.0
+749;E Productie en distributie van en han...;Totaal (10 en meer) werkzame personen;2007;;;;;;;;;;106.0;;;;3.0;;;;93.0;;6.0
+750;E Productie en distributie van en han...;10 tot 50 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+751;E Productie en distributie van en han...;10 tot 50 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+752;E Productie en distributie van en han...;10 tot 50 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+753;E Productie en distributie van en han...;10 tot 50 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+754;E Productie en distributie van en han...;10 tot 50 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;0.0
+755;E Productie en distributie van en han...;10 tot 50 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+756;E Productie en distributie van en han...;50 tot 250 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+757;E Productie en distributie van en han...;50 tot 250 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+758;E Productie en distributie van en han...;50 tot 250 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+759;E Productie en distributie van en han...;50 tot 250 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+760;E Productie en distributie van en han...;50 tot 250 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;7.0
+761;E Productie en distributie van en han...;50 tot 250 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+762;E Productie en distributie van en han...;250 of meer werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+763;E Productie en distributie van en han...;250 of meer werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+764;E Productie en distributie van en han...;250 of meer werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+765;E Productie en distributie van en han...;250 of meer werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+766;E Productie en distributie van en han...;250 of meer werkzame personen;2006;;;;;;;;;;;;;;;;;;;;3.0
+767;E Productie en distributie van en han...;250 of meer werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+768;F Bouwnijverheid;Totaal (10 en meer) werkzame personen;2002;33.0;29.0;25.0;4.0;4.0;1.0;3.0;907.0;344.0;408.0;155.0;;;;;557.0;230.0;259.0;68.0;108.0
+769;F Bouwnijverheid;Totaal (10 en meer) werkzame personen;2003;29.0;27.0;23.0;4.0;2.0;0.0;1.0;758.0;273.0;363.0;121.0;37.0;10.0;2.0;25.0;375.0;166.0;171.0;37.0;94.0
+770;F Bouwnijverheid;Totaal (10 en meer) werkzame personen;2004;47.0;;;;;;;1533.0;572.0;483.0;478.0;;;;;680.0;310.0;265.0;105.0;134.0
+771;F Bouwnijverheid;Totaal (10 en meer) werkzame personen;2005;19.0;18.0;15.0;3.0;1.0;0.0;1.0;698.0;259.0;294.0;146.0;28.0;12.0;8.0;8.0;317.0;144.0;153.0;21.0;99.0
+772;F Bouwnijverheid;Totaal (10 en meer) werkzame personen;2006;25.0;;;;;;;741.0;305.0;251.0;185.0;;;;;438.0;220.0;147.0;71.0;86.0
+773;F Bouwnijverheid;Totaal (10 en meer) werkzame personen;2007;22.0;21.0;18.0;3.0;2.0;0.0;2.0;535.0;184.0;277.0;74.0;52.0;7.0;28.0;16.0;362.0;136.0;176.0;50.0;53.0
+774;F Bouwnijverheid;10 tot 50 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+775;F Bouwnijverheid;10 tot 50 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+776;F Bouwnijverheid;10 tot 50 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+777;F Bouwnijverheid;10 tot 50 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+778;F Bouwnijverheid;10 tot 50 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;32.0
+779;F Bouwnijverheid;10 tot 50 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+780;F Bouwnijverheid;50 tot 250 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+781;F Bouwnijverheid;50 tot 250 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+782;F Bouwnijverheid;50 tot 250 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+783;F Bouwnijverheid;50 tot 250 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+784;F Bouwnijverheid;50 tot 250 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;25.0
+785;F Bouwnijverheid;50 tot 250 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+786;F Bouwnijverheid;250 of meer werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+787;F Bouwnijverheid;250 of meer werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+788;F Bouwnijverheid;250 of meer werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+789;F Bouwnijverheid;250 of meer werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+790;F Bouwnijverheid;250 of meer werkzame personen;2006;;;;;;;;;;;;;;;;;;;;30.0
+791;F Bouwnijverheid;250 of meer werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+792;8030.2 Universiteiten;Totaal (10 en meer) werkzame personen;2002;3040.0;2656.0;1651.0;1005.0;384.0;;;37828.0;19399.0;;18428.0;15303.0;5968.0;;9335.0;30793.0;16164.0;;14629.0;
+793;8030.2 Universiteiten;Totaal (10 en meer) werkzame personen;2003;3126.0;2813.0;1733.0;1080.0;314.0;247.0;67.0;38628.0;20144.0;;18484.0;15737.0;6327.0;;9410.0;31370.0;16734.0;;14636.0;
+794;8030.2 Universiteiten;Totaal (10 en meer) werkzame personen;2004;3146.0;2887.0;1802.0;1085.0;259.0;195.0;64.0;39213.0;20778.0;;18436.0;16223.0;6730.0;;9493.0;32095.0;17403.0;;14692.0;
+795;8030.2 Universiteiten;Totaal (10 en meer) werkzame personen;2005;3387.0;3084.0;1876.0;1208.0;303.0;232.0;71.0;38279.0;20754.0;;17525.0;16124.0;6917.0;;9207.0;32305.0;17928.0;;14377.0;
+796;8030.2 Universiteiten;Totaal (10 en meer) werkzame personen;2006;3435.0;3102.0;1834.0;1269.0;332.0;230.0;103.0;38205.0;20852.0;;17352.0;16328.0;7124.0;;9204.0;32229.0;18008.0;;14221.0;
+797;8030.2 Universiteiten;Totaal (10 en meer) werkzame personen;2007;3588.0;3236.0;1946.0;1290.0;352.0;251.0;101.0;38481.0;21023.0;;17457.0;16723.0;7292.0;;9431.0;32402.0;18129.0;;14273.0;
+798;8030.2 Universiteiten;10 tot 50 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+799;8030.2 Universiteiten;10 tot 50 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+800;8030.2 Universiteiten;10 tot 50 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+801;8030.2 Universiteiten;10 tot 50 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+802;8030.2 Universiteiten;10 tot 50 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;
+803;8030.2 Universiteiten;10 tot 50 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+804;8030.2 Universiteiten;50 tot 250 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+805;8030.2 Universiteiten;50 tot 250 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+806;8030.2 Universiteiten;50 tot 250 werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+807;8030.2 Universiteiten;50 tot 250 werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+808;8030.2 Universiteiten;50 tot 250 werkzame personen;2006;;;;;;;;;;;;;;;;;;;;
+809;8030.2 Universiteiten;50 tot 250 werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+810;8030.2 Universiteiten;250 of meer werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+811;8030.2 Universiteiten;250 of meer werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+812;8030.2 Universiteiten;250 of meer werkzame personen;2004;;;;;;;;;;;;;;;;;;;;
+813;8030.2 Universiteiten;250 of meer werkzame personen;2005;;;;;;;;;;;;;;;;;;;;
+814;8030.2 Universiteiten;250 of meer werkzame personen;2006;;;;;;;;;;;;;;;;;;;;
+815;8030.2 Universiteiten;250 of meer werkzame personen;2007;;;;;;;;;;;;;;;;;;;;
+816;Totaal instellingen;Totaal (10 en meer) werkzame personen;2002;1164.0;1070.0;748.0;322.0;93.0;26.0;67.0;14917.0;7821.0;4271.0;2825.0;;;;;13721.0;7292.0;3893.0;2536.0;76.0
+817;Totaal instellingen;Totaal (10 en meer) werkzame personen;2003;1216.0;1131.0;810.0;321.0;85.0;27.0;58.0;15957.0;8627.0;4385.0;2945.0;4214.0;2138.0;1073.0;1003.0;14292.0;7672.0;4095.0;2525.0;103.0
+818;Totaal instellingen;Totaal (10 en meer) werkzame personen;2004;1253.0;1171.0;826.0;344.0;83.0;29.0;54.0;15137.0;8532.0;3984.0;2621.0;4702.0;2490.0;1162.0;1051.0;13578.0;7752.0;3698.0;2129.0;131.0
+819;Totaal instellingen;Totaal (10 en meer) werkzame personen;2005;1216.0;1141.0;805.0;336.0;75.0;21.0;54.0;14133.0;7800.0;3941.0;2392.0;4533.0;2293.0;1206.0;1034.0;12706.0;7028.0;3584.0;2093.0;129.0
+820;Totaal instellingen;Totaal (10 en meer) werkzame personen;2006;1260.0;;;;;;;14627.0;8084.0;3953.0;2590.0;5005.0;2363.0;1515.0;1127.0;12765.0;7131.0;3468.0;2165.0;112.0
+821;Totaal instellingen;Totaal (10 en meer) werkzame personen;2007;1259.0;1135.0;815.0;320.0;125.0;59.0;66.0;14126.0;8044.0;3815.0;2267.0;4876.0;2425.0;1329.0;1122.0;12140.0;6976.0;3341.0;1822.0;106.0
+822;Totaal instellingen;10 tot 50 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+823;Totaal instellingen;10 tot 50 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+824;Totaal instellingen;10 tot 50 werkzame personen;2004;30.0;29.0;21.0;8.0;1.0;0.0;1.0;;;;;;;;;;;;;38.0
+825;Totaal instellingen;10 tot 50 werkzame personen;2005;28.0;27.0;20.0;7.0;1.0;0.0;1.0;537.0;310.0;92.0;135.0;262.0;129.0;53.0;80.0;374.0;220.0;70.0;85.0;34.0
+826;Totaal instellingen;10 tot 50 werkzame personen;2006;45.0;;;;;;;707.0;423.0;132.0;152.0;291.0;139.0;65.0;87.0;489.0;285.0;94.0;109.0;38.0
+827;Totaal instellingen;10 tot 50 werkzame personen;2007;30.0;29.0;20.0;9.0;2.0;0.0;2.0;528.0;331.0;55.0;142.0;261.0;135.0;22.0;104.0;363.0;243.0;34.0;85.0;31.0
+828;Totaal instellingen;50 tot 250 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+829;Totaal instellingen;50 tot 250 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+830;Totaal instellingen;50 tot 250 werkzame personen;2004;341.0;318.0;200.0;118.0;23.0;14.0;9.0;;;;;;;;;;;;;32.0
+831;Totaal instellingen;50 tot 250 werkzame personen;2005;128.0;119.0;83.0;36.0;9.0;3.0;6.0;1938.0;1112.0;349.0;477.0;786.0;415.0;140.0;231.0;1543.0;873.0;277.0;393.0;50.0
+832;Totaal instellingen;50 tot 250 werkzame personen;2006;120.0;;;;;;;1978.0;1123.0;393.0;462.0;783.0;381.0;189.0;213.0;1578.0;902.0;283.0;393.0;28.0
+833;Totaal instellingen;50 tot 250 werkzame personen;2007;77.0;74.0;54.0;20.0;3.0;1.0;2.0;1296.0;778.0;173.0;345.0;540.0;289.0;91.0;160.0;914.0;617.0;104.0;193.0;25.0
+834;Totaal instellingen;250 of meer werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+835;Totaal instellingen;250 of meer werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+836;Totaal instellingen;250 of meer werkzame personen;2004;883.0;824.0;605.0;219.0;59.0;15.0;44.0;10678.0;6257.0;2788.0;1633.0;3091.0;1690.0;752.0;649.0;9660.0;5678.0;2582.0;1400.0;61.0
+837;Totaal instellingen;250 of meer werkzame personen;2005;1061.0;995.0;702.0;293.0;65.0;19.0;47.0;11658.0;6378.0;3500.0;1780.0;3485.0;1749.0;1013.0;723.0;10789.0;5935.0;3237.0;1616.0;45.0
+838;Totaal instellingen;250 of meer werkzame personen;2006;1096.0;;;;;;;11942.0;6538.0;3428.0;1976.0;3931.0;1843.0;1261.0;827.0;10698.0;5944.0;3091.0;1663.0;46.0
+839;Totaal instellingen;250 of meer werkzame personen;2007;1152.0;1032.0;741.0;291.0;120.0;58.0;62.0;12302.0;6935.0;3587.0;1780.0;4075.0;2001.0;1216.0;858.0;10863.0;6116.0;3203.0;1544.0;50.0
+840;Onderzoeksinstellingen;Totaal (10 en meer) werkzame personen;2002;994.0;905.0;625.0;280.0;89.0;26.0;64.0;12113.0;6267.0;3457.0;2389.0;;;;;11269.0;5887.0;3222.0;2160.0;38.0
+841;Onderzoeksinstellingen;Totaal (10 en meer) werkzame personen;2003;978.0;901.0;629.0;273.0;77.0;26.0;51.0;11808.0;5967.0;3553.0;2288.0;2906.0;1291.0;871.0;744.0;11093.0;5632.0;3380.0;2082.0;38.0
+842;Onderzoeksinstellingen;Totaal (10 en meer) werkzame personen;2004;1040.0;969.0;667.0;302.0;71.0;24.0;47.0;11548.0;6181.0;3317.0;2051.0;3414.0;1715.0;942.0;758.0;10790.0;5861.0;3181.0;1749.0;44.0
+843;Onderzoeksinstellingen;Totaal (10 en meer) werkzame personen;2005;1007.0;941.0;657.0;284.0;67.0;21.0;45.0;10706.0;5630.0;3170.0;1906.0;3222.0;1546.0;924.0;752.0;10086.0;5331.0;3024.0;1732.0;51.0
+844;Onderzoeksinstellingen;Totaal (10 en meer) werkzame personen;2006;1016.0;;;;;;;10685.0;5623.0;3060.0;2002.0;3198.0;1388.0;1022.0;788.0;9723.0;5212.0;2816.0;1695.0;39.0
+845;Onderzoeksinstellingen;Totaal (10 en meer) werkzame personen;2007;1020.0;911.0;646.0;265.0;108.0;52.0;56.0;10524.0;5842.0;2989.0;1693.0;3319.0;1582.0;963.0;774.0;9431.0;5298.0;2739.0;1394.0;36.0
+846;Onderzoeksinstellingen;10 tot 50 werkzame personen;2002;18.0;18.0;13.0;5.0;0.0;0.0;0.0;366.0;216.0;27.0;123.0;;;;;309.0;185.0;22.0;103.0;8.0
+847;Onderzoeksinstellingen;10 tot 50 werkzame personen;2003;10.0;10.0;8.0;2.0;0.0;0.0;0.0;261.0;120.0;59.0;82.0;118.0;39.0;22.0;57.0;174.0;92.0;38.0;44.0;11.0
+848;Onderzoeksinstellingen;10 tot 50 werkzame personen;2004;14.0;13.0;10.0;3.0;0.0;0.0;0.0;;;;;;;;;;;;;15.0
+849;Onderzoeksinstellingen;10 tot 50 werkzame personen;2005;13.0;12.0;9.0;3.0;0.0;0.0;0.0;252.0;141.0;18.0;93.0;101.0;47.0;1.0;53.0;163.0;96.0;11.0;56.0;22.0
+850;Onderzoeksinstellingen;10 tot 50 werkzame personen;2006;21.0;;;;;;;419.0;240.0;75.0;104.0;141.0;58.0;27.0;56.0;296.0;162.0;57.0;77.0;15.0
+851;Onderzoeksinstellingen;10 tot 50 werkzame personen;2007;20.0;19.0;13.0;6.0;1.0;0.0;1.0;321.0;194.0;31.0;96.0;144.0;65.0;8.0;71.0;217.0;141.0;19.0;57.0;13.0
+852;Onderzoeksinstellingen;50 tot 250 werkzame personen;2002;124.0;111.0;83.0;28.0;13.0;5.0;8.0;1936.0;1072.0;303.0;561.0;;;;;1730.0;987.0;267.0;476.0;18.0
+853;Onderzoeksinstellingen;50 tot 250 werkzame personen;2003;327.0;294.0;196.0;97.0;34.0;17.0;17.0;4039.0;2029.0;1185.0;825.0;1023.0;499.0;295.0;229.0;3797.0;1894.0;1147.0;757.0;19.0
+854;Onderzoeksinstellingen;50 tot 250 werkzame personen;2004;321.0;299.0;185.0;114.0;22.0;14.0;8.0;;;;;;;;;;;;;15.0
+855;Onderzoeksinstellingen;50 tot 250 werkzame personen;2005;76.0;70.0;49.0;21.0;6.0;2.0;4.0;1001.0;524.0;200.0;277.0;285.0;121.0;56.0;108.0;898.0;481.0;178.0;239.0;15.0
+856;Onderzoeksinstellingen;50 tot 250 werkzame personen;2006;78.0;;;;;;;1153.0;663.0;202.0;288.0;292.0;122.0;51.0;119.0;963.0;556.0;164.0;243.0;10.0
+857;Onderzoeksinstellingen;50 tot 250 werkzame personen;2007;41.0;40.0;28.0;11.0;2.0;1.0;1.0;707.0;411.0;82.0;214.0;169.0;73.0;18.0;78.0;481.0;362.0;38.0;82.0;7.0
+858;Onderzoeksinstellingen;250 of meer werkzame personen;2002;852.0;775.0;528.0;248.0;76.0;21.0;56.0;9811.0;4979.0;3127.0;1705.0;;;;;9230.0;4715.0;2933.0;1582.0;12.0
+859;Onderzoeksinstellingen;250 of meer werkzame personen;2003;641.0;598.0;425.0;174.0;43.0;10.0;33.0;7508.0;3818.0;2309.0;1381.0;1765.0;753.0;554.0;458.0;7122.0;3646.0;2195.0;1281.0;8.0
+860;Onderzoeksinstellingen;250 of meer werkzame personen;2004;705.0;657.0;472.0;185.0;48.0;10.0;38.0;7772.0;4305.0;2231.0;1236.0;2177.0;1116.0;594.0;467.0;7346.0;4099.0;2116.0;1131.0;14.0
+861;Onderzoeksinstellingen;250 of meer werkzame personen;2005;918.0;858.0;599.0;259.0;60.0;19.0;41.0;9453.0;4965.0;2952.0;1536.0;2836.0;1378.0;867.0;591.0;9025.0;4755.0;2834.0;1437.0;14.0
+862;Onderzoeksinstellingen;250 of meer werkzame personen;2006;918.0;;;;;;;9113.0;4720.0;2783.0;1610.0;2765.0;1208.0;944.0;613.0;8464.0;4495.0;2595.0;1375.0;14.0
+863;Onderzoeksinstellingen;250 of meer werkzame personen;2007;958.0;853.0;605.0;248.0;105.0;52.0;54.0;9496.0;5237.0;2876.0;1383.0;3006.0;1444.0;937.0;625.0;8733.0;4795.0;2682.0;1255.0;16.0
+864;Rijksdiensten;Totaal (10 en meer) werkzame personen;2002;89.0;87.0;72.0;15.0;2.0;0.0;2.0;1541.0;913.0;382.0;246.0;;;;;1329.0;830.0;286.0;214.0;17.0
+865;Rijksdiensten;Totaal (10 en meer) werkzame personen;2003;110.0;108.0;93.0;15.0;3.0;0.0;3.0;1627.0;1130.0;285.0;212.0;342.0;246.0;28.0;68.0;1478.0;1034.0;267.0;176.0;16.0
+866;Rijksdiensten;Totaal (10 en meer) werkzame personen;2004;97.0;96.0;82.0;14.0;1.0;0.0;1.0;1441.0;1070.0;170.0;201.0;362.0;255.0;34.0;73.0;1292.0;978.0;152.0;163.0;18.0
+867;Rijksdiensten;Totaal (10 en meer) werkzame personen;2005;85.0;83.0;69.0;14.0;2.0;0.0;2.0;1441.0;998.0;243.0;200.0;389.0;234.0;42.0;113.0;1107.0;805.0;153.0;149.0;18.0
+868;Rijksdiensten;Totaal (10 en meer) werkzame personen;2006;104.0;;;;;;;1656.0;1144.0;302.0;210.0;524.0;304.0;88.0;132.0;1281.0;921.0;203.0;158.0;17.0
+869;Rijksdiensten;Totaal (10 en meer) werkzame personen;2007;97.0;94.0;72.0;21.0;3.0;1.0;2.0;1619.0;1075.0;324.0;220.0;509.0;289.0;86.0;134.0;1190.0;818.0;232.0;140.0;17.0
+870;Rijksdiensten;10 tot 50 werkzame personen;2002;18.0;18.0;14.0;4.0;0.0;0.0;0.0;241.0;133.0;37.0;71.0;;;;;203.0;111.0;30.0;63.0;7.0
+871;Rijksdiensten;10 tot 50 werkzame personen;2003;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+872;Rijksdiensten;10 tot 50 werkzame personen;2004;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+873;Rijksdiensten;10 tot 50 werkzame personen;2005;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+874;Rijksdiensten;10 tot 50 werkzame personen;2006;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+875;Rijksdiensten;10 tot 50 werkzame personen;2007;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+876;Rijksdiensten;50 tot 250 werkzame personen;2002;71.0;69.0;58.0;11.0;2.0;0.0;2.0;1300.0;780.0;345.0;175.0;;;;;1126.0;719.0;256.0;151.0;10.0
+877;Rijksdiensten;50 tot 250 werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+878;Rijksdiensten;50 tot 250 werkzame personen;2004;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+879;Rijksdiensten;50 tot 250 werkzame personen;2005;;;;;;0.0;;;;;;;;;;;;;;
+880;Rijksdiensten;50 tot 250 werkzame personen;2006;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+881;Rijksdiensten;50 tot 250 werkzame personen;2007;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+882;Rijksdiensten;250 of meer werkzame personen;2002;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;;;;;0.0;0.0;0.0;0.0;0.0
+883;Rijksdiensten;250 of meer werkzame personen;2003;;;;;;;;;;;;;;;;;;;;
+884;Rijksdiensten;250 of meer werkzame personen;2004;97.0;96.0;82.0;14.0;1.0;0.0;1.0;1441.0;1070.0;170.0;201.0;362.0;255.0;34.0;73.0;1292.0;978.0;152.0;163.0;18.0
+885;Rijksdiensten;250 of meer werkzame personen;2005;;;;;;0.0;;;;;;;;;;;;;;
+886;Rijksdiensten;250 of meer werkzame personen;2006;104.0;;;;;;;1656.0;1144.0;302.0;210.0;524.0;304.0;88.0;132.0;1281.0;921.0;203.0;158.0;17.0
+887;Rijksdiensten;250 of meer werkzame personen;2007;97.0;94.0;72.0;21.0;3.0;1.0;2.0;1619.0;1075.0;324.0;220.0;509.0;289.0;86.0;134.0;1190.0;818.0;232.0;140.0;17.0
+888;Instellingen voor zorg en welzijn;Totaal (10 en meer) werkzame personen;2002;61.0;59.0;39.0;20.0;2.0;0.0;2.0;976.0;471.0;394.0;111.0;;;;;894.0;434.0;358.0;101.0;8.0
+889;Instellingen voor zorg en welzijn;Totaal (10 en meer) werkzame personen;2003;94.0;90.0;64.0;26.0;4.0;0.0;4.0;1939.0;1094.0;491.0;354.0;800.0;500.0;157.0;143.0;1334.0;714.0;408.0;210.0;19.0
+890;Instellingen voor zorg en welzijn;Totaal (10 en meer) werkzame personen;2004;88.0;78.0;56.0;22.0;9.0;4.0;5.0;1672.0;930.0;449.0;293.0;748.0;410.0;164.0;174.0;1171.0;683.0;330.0;158.0;25.0
+891;Instellingen voor zorg en welzijn;Totaal (10 en meer) werkzame personen;2005;94.0;89.0;60.0;29.0;5.0;0.0;5.0;1469.0;822.0;440.0;207.0;688.0;371.0;193.0;124.0;1197.0;691.0;359.0;147.0;24.0
+892;Instellingen voor zorg en welzijn;Totaal (10 en meer) werkzame personen;2006;104.0;;;;;;;1835.0;1008.0;542.0;285.0;1089.0;548.0;385.0;156.0;1461.0;802.0;416.0;242.0;32.0
+893;Instellingen voor zorg en welzijn;Totaal (10 en meer) werkzame personen;2007;116.0;106.0;77.0;28.0;10.0;4.0;6.0;1501.0;794.0;452.0;255.0;835.0;417.0;258.0;160.0;1216.0;671.0;334.0;209.0;31.0
+894;Instellingen voor zorg en welzijn;10 tot 50 werkzame personen;2002;4.0;4.0;3.0;1.0;0.0;0.0;0.0;85.0;53.0;16.0;16.0;;;;;53.0;36.0;7.0;10.0;5.0
+895;Instellingen voor zorg en welzijn;10 tot 50 werkzame personen;2003;6.0;6.0;5.0;1.0;0.0;0.0;0.0;106.0;60.0;39.0;7.0;35.0;22.0;9.0;4.0;91.0;50.0;35.0;5.0;7.0
+896;Instellingen voor zorg en welzijn;10 tot 50 werkzame personen;2004;14.0;13.0;9.0;4.0;1.0;0.0;0.0;;;;;;;;;;;;;11.0
+897;Instellingen voor zorg en welzijn;10 tot 50 werkzame personen;2005;15.0;14.0;10.0;4.0;0.0;0.0;0.0;285.0;169.0;74.0;42.0;;;;;212.0;125.0;58.0;29.0;12.0
+898;Instellingen voor zorg en welzijn;10 tot 50 werkzame personen;2006;10.0;;;;;;;206.0;124.0;50.0;32.0;127.0;68.0;37.0;22.0;136.0;81.0;32.0;22.0;11.0
+899;Instellingen voor zorg en welzijn;10 tot 50 werkzame personen;2007;6.0;6.0;4.0;2.0;0.0;;;134.0;93.0;19.0;22.0;91.0;57.0;13.0;21.0;93.0;68.0;11.0;13.0;10.0
+900;Instellingen voor zorg en welzijn;50 tot 250 werkzame personen;2002;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;;;;;0.0;0.0;0.0;0.0;0.0
+901;Instellingen voor zorg en welzijn;50 tot 250 werkzame personen;2003;14.0;14.0;11.0;4.0;0.0;0.0;0.0;217.0;116.0;12.0;89.0;142.0;74.0;9.0;59.0;170.0;105.0;11.0;53.0;4.0
+902;Instellingen voor zorg en welzijn;50 tot 250 werkzame personen;2004;5.0;5.0;5.0;0.0;0.0;0.0;0.0;;;;;;;;;;;;;4.0
+903;Instellingen voor zorg en welzijn;50 tot 250 werkzame personen;2005;23.0;22.0;16.0;6.0;1.0;0.0;1.0;440.0;255.0;69.0;116.0;;;;;342.0;203.0;56.0;83.0;8.0
+904;Instellingen voor zorg en welzijn;50 tot 250 werkzame personen;2006;27.0;;;;;;;615.0;330.0;167.0;118.0;385.0;198.0;125.0;62.0;464.0;255.0;103.0;106.0;11.0
+905;Instellingen voor zorg en welzijn;50 tot 250 werkzame personen;2007;22.0;20.0;16.0;4.0;1.0;;;360.0;214.0;63.0;83.0;249.0;139.0;56.0;54.0;287.0;172.0;48.0;67.0;9.0
+906;Instellingen voor zorg en welzijn;250 of meer werkzame personen;2002;57.0;56.0;37.0;19.0;1.0;0.0;1.0;891.0;418.0;378.0;95.0;;;;;841.0;398.0;352.0;91.0;3.0
+907;Instellingen voor zorg en welzijn;250 of meer werkzame personen;2003;74.0;70.0;49.0;21.0;4.0;0.0;4.0;1616.0;918.0;440.0;258.0;623.0;404.0;139.0;80.0;1073.0;559.0;362.0;152.0;8.0
+908;Instellingen voor zorg en welzijn;250 of meer werkzame personen;2004;69.0;60.0;42.0;18.0;9.0;4.0;5.0;1215.0;680.0;347.0;188.0;483.0;270.0;108.0;105.0;883.0;498.0;286.0;99.0;10.0
+909;Instellingen voor zorg en welzijn;250 of meer werkzame personen;2005;56.0;52.0;33.0;19.0;4.0;0.0;4.0;744.0;398.0;297.0;49.0;;;;;643.0;363.0;245.0;35.0;4.0
+910;Instellingen voor zorg en welzijn;250 of meer werkzame personen;2006;66.0;;;;;;;1014.0;554.0;325.0;135.0;577.0;282.0;223.0;72.0;861.0;467.0;281.0;114.0;10.0
+911;Instellingen voor zorg en welzijn;250 of meer werkzame personen;2007;88.0;79.0;57.0;22.0;9.0;3.0;5.0;1007.0;487.0;370.0;150.0;495.0;221.0;189.0;85.0;836.0;432.0;276.0;128.0;12.0
+912;Overige instellingen;Totaal (10 en meer) werkzame personen;2002;20.0;19.0;13.0;7.0;0.0;0.0;0.0;287.0;170.0;38.0;79.0;;;;;229.0;141.0;27.0;61.0;13.0
+913;Overige instellingen;Totaal (10 en meer) werkzame personen;2003;33.0;32.0;25.0;7.0;1.0;0.0;1.0;583.0;436.0;56.0;91.0;166.0;101.0;17.0;48.0;387.0;289.0;42.0;60.0;29.0
+914;Overige instellingen;Totaal (10 en meer) werkzame personen;2004;29.0;28.0;21.0;7.0;1.0;0.0;1.0;476.0;352.0;48.0;76.0;178.0;110.0;22.0;46.0;325.0;230.0;36.0;59.0;44.0
+915;Overige instellingen;Totaal (10 en meer) werkzame personen;2005;30.0;28.0;19.0;9.0;2.0;0.0;2.0;517.0;350.0;88.0;79.0;234.0;142.0;47.0;45.0;315.0;201.0;49.0;66.0;36.0
+916;Overige instellingen;Totaal (10 en meer) werkzame personen;2006;36.0;;;;;;;451.0;309.0;49.0;93.0;194.0;123.0;20.0;51.0;300.0;196.0;33.0;70.0;24.0
+917;Overige instellingen;Totaal (10 en meer) werkzame personen;2007;27.0;24.0;18.0;5.0;3.0;2.0;1.0;482.0;333.0;50.0;99.0;213.0;137.0;22.0;54.0;304.0;190.0;36.0;79.0;22.0
+918;Overige instellingen;10 tot 50 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+919;Overige instellingen;10 tot 50 werkzame personen;2003;3.0;3.0;3.0;0.0;0.0;0.0;0.0;60.0;46.0;0.0;14.0;8.0;3.0;0.0;5.0;39.0;39.0;0.0;0.0;5.0
+920;Overige instellingen;10 tot 50 werkzame personen;2004;3.0;3.0;2.0;1.0;0.0;0.0;0.0;;;;;;;;;;;;;12.0
+921;Overige instellingen;10 tot 50 werkzame personen;2005;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+922;Overige instellingen;10 tot 50 werkzame personen;2006;14.0;;;;;;;82.0;59.0;7.0;16.0;23.0;13.0;1.0;9.0;58.0;42.0;5.0;10.0;12.0
+923;Overige instellingen;10 tot 50 werkzame personen;2007;4.0;;3.0;;;;;73.0;44.0;5.0;24.0;26.0;13.0;;;54.0;35.0;;;8.0
+924;Overige instellingen;50 tot 250 werkzame personen;2002;;;;;;;;;;;;;;;;;;;;
+925;Overige instellingen;50 tot 250 werkzame personen;2003;20.0;19.0;14.0;5.0;1.0;0.0;1.0;367.0;274.0;30.0;63.0;132.0;84.0;12.0;36.0;230.0;162.0;21.0;51.0;13.0
+926;Overige instellingen;50 tot 250 werkzame personen;2004;14.0;14.0;10.0;4.0;1.0;0.0;1.0;;;;;;;;;;;;;13.0
+927;Overige instellingen;50 tot 250 werkzame personen;2005;;;;;;0.0;;;;;;;;;;;;;;
+928;Overige instellingen;50 tot 250 werkzame personen;2006;14.0;;;;;;;210.0;130.0;24.0;56.0;106.0;61.0;13.0;32.0;151.0;91.0;15.0;44.0;7.0
+929;Overige instellingen;50 tot 250 werkzame personen;2007;14.0;14.0;10.0;4.0;0.0;;;229.0;153.0;;;122.0;77.0;;;146.0;84.0;;;9.0
+930;Overige instellingen;250 of meer werkzame personen;2002;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;;;;;0.0;0.0;0.0;0.0;0.0
+931;Overige instellingen;250 of meer werkzame personen;2003;10.0;10.0;8.0;1.0;0.0;0.0;0.0;156.0;116.0;26.0;14.0;26.0;14.0;5.0;7.0;118.0;88.0;21.0;9.0;11.0
+932;Overige instellingen;250 of meer werkzame personen;2004;12.0;11.0;9.0;2.0;1.0;0.0;0.0;250.0;202.0;40.0;8.0;69.0;49.0;16.0;4.0;138.0;103.0;28.0;7.0;19.0
+933;Overige instellingen;250 of meer werkzame personen;2005;;;;;;0.0;;;;;;;;;;;;;;
+934;Overige instellingen;250 of meer werkzame personen;2006;8.0;;;;;;;159.0;120.0;18.0;21.0;65.0;49.0;6.0;10.0;92.0;63.0;13.0;16.0;5.0
+935;Overige instellingen;250 of meer werkzame personen;2007;9.0;;6.0;;;2.0;;180.0;136.0;;;65.0;47.0;4.0;14.0;105.0;72.0;;;5.0

@@ -1,0 +1,133 @@
+﻿ID;Beroepsniveau;DienstverbandWekelijkseArbeidsduur;Perioden;TotaalAantalBanen_1;Voltijdbanen_2;BrutoUurloonAlleBanen_3;BrutoMaandloonAlleBanen_4;BrutoJaarloonAlleBanen_5;BrutoJaarloonVoltijdbanen_6
+0;Totaal beroepsniveau;Totaal dienstverband;2002;6996.3;3887.2;17.24;1958.0;26.2;35.5
+1;Totaal beroepsniveau;Totaal dienstverband;2003;;;;;;
+2;Totaal beroepsniveau;Voltijdwerknemers;2002;3887.2;3887.2;18.28;2621.0;35.5;35.5
+3;Totaal beroepsniveau;Voltijdwerknemers;2003;;;;;;
+4;Totaal beroepsniveau;Deeltijdwerknemers;2002;2500.7;;15.58;1237.0;16.8;
+5;Totaal beroepsniveau;Deeltijdwerknemers;2003;;;;;;
+6;Totaal beroepsniveau;Flexibelwerknemers;2002;608.5;;10.85;683.0;5.1;
+7;Totaal beroepsniveau;Flexibelwerknemers;2003;;;;;;
+8;Totaal beroepsniveau;Totaal wekelijkse abeidsduur;2002;6996.3;3887.2;17.24;1958.0;26.2;35.5
+9;Totaal beroepsniveau;Totaal wekelijkse abeidsduur;2003;;;;;;
+10;Totaal beroepsniveau;< 12 uur per week;2002;796.5;;12.64;322.0;4.4;
+11;Totaal beroepsniveau;< 12 uur per week;2003;;;;;;
+12;Totaal beroepsniveau;12-<20 uur per week;2002;678.7;;14.18;855.0;11.2;
+13;Totaal beroepsniveau;12-<20 uur per week;2003;;;;;;
+14;Totaal beroepsniveau;20-<25 uur per week;2002;614.8;;15.12;1273.0;16.7;
+15;Totaal beroepsniveau;20-<25 uur per week;2003;;;;;;
+16;Totaal beroepsniveau;25-<30 uur per week;2002;234.5;;16.33;1712.0;22.2;
+17;Totaal beroepsniveau;25-<30 uur per week;2003;;;;;;
+18;Totaal beroepsniveau;30-<35 uur per week;2002;601.5;33.9;16.1;1948.0;25.6;37.0
+19;Totaal beroepsniveau;30-<35 uur per week;2003;;;;;;
+20;Totaal beroepsniveau;>= 35 uur  per week;2002;4070.5;3853.3;17.99;2581.0;34.7;35.5
+21;Totaal beroepsniveau;>= 35 uur  per week;2003;;;;;;
+22;Elementair;Totaal dienstverband;2002;617.9;246.7;11.37;1071.0;13.8;23.4
+23;Elementair;Totaal dienstverband;2003;;;;;;
+24;Elementair;Voltijdwerknemers;2002;246.7;246.7;12.16;1745.0;23.4;23.4
+25;Elementair;Voltijdwerknemers;2003;;;;;;
+26;Elementair;Deeltijdwerknemers;2002;238.4;;10.57;667.0;9.1;
+27;Elementair;Deeltijdwerknemers;2003;;;;;;
+28;Elementair;Flexibelwerknemers;2002;132.8;;9.33;545.0;4.5;
+29;Elementair;Flexibelwerknemers;2003;;;;;;
+30;Elementair;Totaal wekelijkse abeidsduur;2002;617.9;246.7;11.37;1071.0;13.8;23.4
+31;Elementair;Totaal wekelijkse abeidsduur;2003;;;;;;
+32;Elementair;< 12 uur per week;2002;166.9;;10.56;294.0;3.8;
+33;Elementair;< 12 uur per week;2003;;;;;;
+34;Elementair;12-<20 uur per week;2002;82.0;;10.18;599.0;7.1;
+35;Elementair;12-<20 uur per week;2003;;;;;;
+36;Elementair;20-<25 uur per week;2002;48.1;;10.45;857.0;10.7;
+37;Elementair;20-<25 uur per week;2003;;;;;;
+38;Elementair;25-<30 uur per week;2002;16.5;;10.57;1110.0;14.0;
+39;Elementair;25-<30 uur per week;2003;;;;;;
+40;Elementair;30-<35 uur per week;2002;28.1;1.5;10.39;1253.0;16.3;35.6
+41;Elementair;30-<35 uur per week;2003;;;;;;
+42;Elementair;>= 35 uur  per week;2002;276.4;245.2;11.82;1697.0;22.1;23.3
+43;Elementair;>= 35 uur  per week;2003;;;;;;
+44;Lager;Totaal dienstverband;2002;1663.0;884.6;13.21;1441.0;19.4;27.3
+45;Lager;Totaal dienstverband;2003;;;;;;
+46;Lager;Voltijdwerknemers;2002;884.6;884.6;13.86;1983.0;27.3;27.3
+47;Lager;Voltijdwerknemers;2003;;;;;;
+48;Lager;Deeltijdwerknemers;2002;588.7;;12.3;886.0;12.0;
+49;Lager;Deeltijdwerknemers;2003;;;;;;
+50;Lager;Flexibelwerknemers;2002;189.7;;9.71;633.0;5.4;
+51;Lager;Flexibelwerknemers;2003;;;;;;
+52;Lager;Totaal wekelijkse abeidsduur;2002;1663.0;884.6;13.21;1441.0;19.4;27.3
+53;Lager;Totaal wekelijkse abeidsduur;2003;;;;;;
+54;Lager;< 12 uur per week;2002;242.1;;12.32;301.0;4.2;
+55;Lager;< 12 uur per week;2003;;;;;;
+56;Lager;12-<20 uur per week;2002;174.7;;11.92;707.0;9.3;
+57;Lager;12-<20 uur per week;2003;;;;;;
+58;Lager;20-<25 uur per week;2002;155.1;;12.65;1060.0;14.0;
+59;Lager;20-<25 uur per week;2003;;;;;;
+60;Lager;25-<30 uur per week;2002;42.8;;12.35;1284.0;16.5;
+61;Lager;25-<30 uur per week;2003;;;;;;
+62;Lager;30-<35 uur per week;2002;121.4;12.5;12.12;1468.0;18.6;33.7
+63;Lager;30-<35 uur per week;2003;;;;;;
+64;Lager;>= 35 uur  per week;2002;926.9;872.1;13.56;1944.0;26.4;27.2
+65;Lager;>= 35 uur  per week;2003;;;;;;
+66;Middelbaar;Totaal dienstverband;2002;2442.3;1489.5;16.81;2024.0;27.3;34.0
+67;Middelbaar;Totaal dienstverband;2003;;;;;;
+68;Middelbaar;Voltijdwerknemers;2002;1489.5;1489.5;17.49;2508.0;34.0;34.0
+69;Middelbaar;Voltijdwerknemers;2003;;;;;;
+70;Middelbaar;Deeltijdwerknemers;2002;862.6;;15.21;1289.0;17.6;
+71;Middelbaar;Deeltijdwerknemers;2003;;;;;;
+72;Middelbaar;Flexibelwerknemers;2002;90.2;;13.22;1061.0;7.9;
+73;Middelbaar;Flexibelwerknemers;2003;;;;;;
+74;Middelbaar;Totaal wekelijkse abeidsduur;2002;2442.3;1489.5;16.81;2024.0;27.3;34.0
+75;Middelbaar;Totaal wekelijkse abeidsduur;2003;;;;;;
+76;Middelbaar;< 12 uur per week;2002;133.7;;16.48;428.0;6.5;
+77;Middelbaar;< 12 uur per week;2003;;;;;;
+78;Middelbaar;12-<20 uur per week;2002;221.2;;15.21;929.0;12.7;
+79;Middelbaar;12-<20 uur per week;2003;;;;;;
+80;Middelbaar;20-<25 uur per week;2002;236.4;;15.29;1286.0;17.2;
+81;Middelbaar;20-<25 uur per week;2003;;;;;;
+82;Middelbaar;25-<30 uur per week;2002;88.1;;15.32;1607.0;20.5;
+83;Middelbaar;25-<30 uur per week;2003;;;;;;
+84;Middelbaar;30-<35 uur per week;2002;223.6;15.4;15.54;1877.0;24.9;38.9
+85;Middelbaar;30-<35 uur per week;2003;;;;;;
+86;Middelbaar;>= 35 uur  per week;2002;1539.3;1474.1;17.27;2479.0;33.4;34.0
+87;Middelbaar;>= 35 uur  per week;2003;;;;;;
+88;Hoger;Totaal dienstverband;2002;1195.3;742.6;22.66;2770.0;37.3;46.0
+89;Hoger;Totaal dienstverband;2003;;;;;;
+90;Hoger;Voltijdwerknemers;2002;742.6;742.6;23.67;3400.0;46.0;46.0
+91;Hoger;Voltijdwerknemers;2003;;;;;;
+92;Hoger;Deeltijdwerknemers;2002;429.7;;19.9;1757.0;23.9;
+93;Hoger;Deeltijdwerknemers;2003;;;;;;
+94;Hoger;Flexibelwerknemers;2002;23.0;;20.35;1351.0;10.9;
+95;Hoger;Flexibelwerknemers;2003;;;;;;
+96;Hoger;Totaal wekelijkse abeidsduur;2002;1195.3;742.6;22.66;2770.0;37.3;46.0
+97;Hoger;Totaal wekelijkse abeidsduur;2003;;;;;;
+98;Hoger;< 12 uur per week;2002;57.4;;19.62;454.0;7.6;
+99;Hoger;< 12 uur per week;2003;;;;;;
+100;Hoger;12-<20 uur per week;2002;95.3;;18.97;1193.0;15.9;
+101;Hoger;12-<20 uur per week;2003;;;;;;
+102;Hoger;20-<25 uur per week;2002;103.0;;20.12;1708.0;23.0;
+103;Hoger;20-<25 uur per week;2003;;;;;;
+104;Hoger;25-<30 uur per week;2002;50.9;;20.27;2129.0;28.6;
+105;Hoger;25-<30 uur per week;2003;;;;;;
+106;Hoger;30-<35 uur per week;2002;121.5;1.7;19.92;2402.0;32.1;47.6
+107;Hoger;30-<35 uur per week;2003;;;;;;
+108;Hoger;>= 35 uur  per week;2002;767.2;740.9;23.58;3383.0;45.5;45.9
+109;Hoger;>= 35 uur  per week;2003;;;;;;
+110;Wetenschappelijk;Totaal dienstverband;2002;496.4;334.4;27.55;3521.0;47.4;54.9
+111;Wetenschappelijk;Totaal dienstverband;2003;;;;;;
+112;Wetenschappelijk;Voltijdwerknemers;2002;334.4;334.4;28.3;4061.0;54.9;54.9
+113;Wetenschappelijk;Voltijdwerknemers;2003;;;;;;
+114;Wetenschappelijk;Deeltijdwerknemers;2002;158.9;;25.31;2426.0;32.4;
+115;Wetenschappelijk;Deeltijdwerknemers;2003;;;;;;
+116;Wetenschappelijk;Flexibelwerknemers;2002;;;;;;
+117;Wetenschappelijk;Flexibelwerknemers;2003;;;;;;
+118;Wetenschappelijk;Totaal wekelijkse abeidsduur;2002;496.4;334.4;27.55;3521.0;47.4;54.9
+119;Wetenschappelijk;Totaal wekelijkse abeidsduur;2003;;;;;;
+120;Wetenschappelijk;< 12 uur per week;2002;16.3;;28.2;747.0;10.6;
+121;Wetenschappelijk;< 12 uur per week;2003;;;;;;
+122;Wetenschappelijk;12-<20 uur per week;2002;25.9;;26.35;1570.0;22.2;
+123;Wetenschappelijk;12-<20 uur per week;2003;;;;;;
+124;Wetenschappelijk;20-<25 uur per week;2002;23.7;;24.68;2113.0;28.1;
+125;Wetenschappelijk;20-<25 uur per week;2003;;;;;;
+126;Wetenschappelijk;25-<30 uur per week;2002;23.2;;25.71;2690.0;35.7;
+127;Wetenschappelijk;25-<30 uur per week;2003;;;;;;
+128;Wetenschappelijk;30-<35 uur per week;2002;58.0;0.3;25.34;3052.0;40.9;
+129;Wetenschappelijk;30-<35 uur per week;2003;;;;;;
+130;Wetenschappelijk;>= 35 uur  per week;2002;349.3;334.1;28.09;4023.0;54.2;54.9
+131;Wetenschappelijk;>= 35 uur  per week;2003;349.3;334.1;28.09;4023.0;54.2;54.9

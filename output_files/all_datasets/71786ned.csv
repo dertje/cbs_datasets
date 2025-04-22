@@ -1,0 +1,753 @@
+﻿ID;Functies;Perioden;TotaalUitgaven_1;LonenEnSocialeLasten_2;Aankopen_3;RenteEnPacht_4;TotaalOverdrachten_5;Inkomensoverdrachten_6;Kapitaaloverdrachten_7;Investeringen_8;TotaalInkomsten_9;Verkopen_10;RentePachtEnDividend_11;Inkomensoverdrachten_12;Kapitaalinkomsten_13
+0;Totaal beleidsterreinen;2003;130690;10743;12298;10750;92073;85517;6556;4826;117151;2951;6095;102961;5144
+1;Totaal beleidsterreinen;2004;130016;10717;11710;10655;92900;86229;6671;4035;121374;3042;7007;106059;5266
+2;Totaal beleidsterreinen;2005;132760;10846;12147;10407;95532;89051;6481;3828;133263;3383;8618;115788;5474
+3;Totaal beleidsterreinen;2006;141174;11216;12944;10259;102672;96223;6449;4083;145259;3256;11307;125068;5628
+4;Totaal beleidsterreinen;2007;150865;11691;13886;10721;110174;102963;7212;4393;153593;3096;11198;133495;5804
+5;Totaal beleidsterreinen;2008;159305;12137;14915;11559;116006;107973;8032;4689;162061;3393;16925;135862;5881
+6;Totaal beleidsterreinen;2009;172869;12618;16032;10786;128535;116089;12446;4899;153506;3427;14579;129500;5999
+7;Totaal beleidsterreinen;2010*;183718;12948;15844;9607;140301;121909;18392;5018;159094;4113;13638;134990;6352
+8;Totaal algemeen overheidsbestuur;2003;43996;2372;3950;10784;26382;25013;1369;508;107439;788;913;101619;4120
+9;Totaal algemeen overheidsbestuur;2004;42453;2253;3894;10660;25225;23988;1237;421;111021;798;1203;104685;4336
+10;Totaal algemeen overheidsbestuur;2005;43209;2323;4376;10335;25680;24208;1472;494;121178;820;1193;114453;4713
+11;Totaal algemeen overheidsbestuur;2006;45567;2424;4338;10258;28034;26410;1625;513;130456;916;1371;123467;4703
+12;Totaal algemeen overheidsbestuur;2007;48380;2582;4621;10720;29868;28201;1667;589;139203;1021;1545;131806;4832
+13;Totaal algemeen overheidsbestuur;2008;51923;2603;4848;11558;32312;30276;2036;602;142181;1013;2331;134018;4820
+14;Totaal algemeen overheidsbestuur;2009;48769;2679;2850;10786;31758;29061;2698;696;133507;910;2417;127620;2561
+15;Totaal algemeen overheidsbestuur;2010*;51677;2770;2953;9607;35733;32276;3457;614;137705;897;1167;133036;2605
+16;Algemeen overheidsbestuur (algemeen);2003;2561;0;2561;0;0;0;0;0;2561;0;0;0;2561
+17;Algemeen overheidsbestuur (algemeen);2004;2577;0;2577;0;0;0;0;0;2577;0;0;0;2577
+18;Algemeen overheidsbestuur (algemeen);2005;2766;0;2648;0;0;0;0;118;2766;118;0;0;2648
+19;Algemeen overheidsbestuur (algemeen);2006;2788;0;2667;0;0;0;0;121;2788;121;0;0;2667
+20;Algemeen overheidsbestuur (algemeen);2007;2918;0;2794;0;0;0;0;124;2918;124;0;0;2794
+21;Algemeen overheidsbestuur (algemeen);2008;2993;0;2874;0;0;0;0;119;2993;119;0;0;2874
+22;Algemeen overheidsbestuur (algemeen);2009;84;0;84;0;0;0;0;0;84;0;0;0;84
+23;Algemeen overheidsbestuur (algemeen);2010*;42;0;42;0;0;0;0;0;42;0;0;0;42
+24;Uitvoerende, wetgevende overheidsorganen;2003;8306;2148;1200;476;4069;4066;3;414;104665;704;786;101619;1557
+25;Uitvoerende, wetgevende overheidsorganen;2004;8904;2164;1167;552;4677;4677;0;344;108235;769;1059;104649;1758
+26;Uitvoerende, wetgevende overheidsorganen;2005;9014;2220;1478;489;4542;4544;-2;286;118068;658;933;114414;2064
+27;Uitvoerende, wetgevende overheidsorganen;2006;8998;2316;1370;601;4416;4423;-7;296;127266;715;1108;123410;2034
+28;Uitvoerende, wetgevende overheidsorganen;2007;9077;2453;1387;754;4149;4197;-48;333;135781;808;1194;131746;2032
+29;Uitvoerende, wetgevende overheidsorganen;2008;9502;2463;1464;615;4616;4545;70;345;137884;820;1155;133970;1939
+30;Uitvoerende, wetgevende overheidsorganen;2009;6620;2514;1746;59;1758;1552;206;542;132134;850;1320;127571;2393
+31;Uitvoerende, wetgevende overheidsorganen;2010*;8788;2576;1822;0;3868;3868;0;522;136939;840;785;132962;2352
+32;Hulp aan het buitenland;2003;3234;15;21;0;3128;2588;540;71;16;0;14;0;1
+33;Hulp aan het buitenland;2004;3275;12;12;0;3182;2628;554;69;11;0;10;0;0
+34;Hulp aan het buitenland;2005;3516;10;25;0;3412;2671;740;69;14;0;14;0;0
+35;Hulp aan het buitenland;2006;3998;11;39;0;3879;3138;741;68;12;1;11;0;0
+36;Hulp aan het buitenland;2007;4134;9;51;0;3991;3218;773;83;15;1;14;0;0
+37;Hulp aan het buitenland;2008;4525;8;53;0;4373;3429;944;92;13;1;11;0;0
+38;Hulp aan het buitenland;2009;4914;6;114;0;4695;3301;1394;100;69;4;8;0;58
+39;Hulp aan het buitenland;2010*;5608;6;133;0;5427;3143;2284;42;234;6;38;0;189
+40;Algemene dienstverlening gecentraliseerd;2003;471;200;157;0;90;64;26;23;88;84;4;0;0
+41;Algemene dienstverlening gecentraliseerd;2004;472;70;124;0;270;245;25;8;64;27;0;36;1
+42;Algemene dienstverlening gecentraliseerd;2005;513;86;157;0;248;220;28;22;85;41;3;39;1
+43;Algemene dienstverlening gecentraliseerd;2006;630;91;205;0;307;227;80;27;136;73;5;57;2
+44;Algemene dienstverlening gecentraliseerd;2007;772;112;301;0;309;262;48;50;140;83;0;52;5
+45;Algemene dienstverlening gecentraliseerd;2008;796;126;329;0;295;269;27;46;123;70;0;47;6
+46;Algemene dienstverlening gecentraliseerd;2009;868;150;420;0;245;245;-1;54;129;54;1;49;25
+47;Algemene dienstverlening gecentraliseerd;2010*;937;179;485;0;223;223;0;51;146;48;3;73;22
+48;Fundamenteel wetenschappelijk onderzoek;2003;2382;2;2;0;2378;2373;5;0;0;0;0;0;0
+49;Fundamenteel wetenschappelijk onderzoek;2004;2497;0;4;0;2494;2490;4;0;0;0;0;0;0
+50;Fundamenteel wetenschappelijk onderzoek;2005;2579;0;0;0;2579;2575;4;0;2;2;0;0;0
+51;Fundamenteel wetenschappelijk onderzoek;2006;2753;0;3;0;2750;2746;4;0;0;0;0;0;0
+52;Fundamenteel wetenschappelijk onderzoek;2007;2876;0;3;0;2873;2868;4;0;1;1;0;0;0
+53;Fundamenteel wetenschappelijk onderzoek;2008;2996;0;4;0;2993;2988;5;0;2;2;0;0;0
+54;Fundamenteel wetenschappelijk onderzoek;2009;3204;0;4;0;3201;3196;5;0;1;1;0;0;0
+55;Fundamenteel wetenschappelijk onderzoek;2010*;3966;0;4;0;3962;3958;5;0;0;0;0;0;0
+56;Onderzoek algemeen overheidsbestuur;2003;43;7;5;0;30;30;0;0;1;1;0;0;0
+57;Onderzoek algemeen overheidsbestuur;2004;81;7;6;0;68;68;0;0;1;1;0;0;0
+58;Onderzoek algemeen overheidsbestuur;2005;55;7;3;0;45;45;0;0;1;1;0;0;0
+59;Onderzoek algemeen overheidsbestuur;2006;66;7;3;0;56;56;0;0;1;1;0;0;0
+60;Onderzoek algemeen overheidsbestuur;2007;69;7;3;0;59;59;0;0;1;1;0;0;0
+61;Onderzoek algemeen overheidsbestuur;2008;73;8;4;0;62;62;0;0;2;2;0;0;0
+62;Onderzoek algemeen overheidsbestuur;2009;78;9;3;0;65;65;0;0;2;2;0;0;0
+63;Onderzoek algemeen overheidsbestuur;2010*;63;10;3;0;51;51;0;0;2;2;0;0;0
+64;Verrichtingen inzake overheidsschuld;2003;10310;0;2;10308;0;0;0;0;109;0;109;0;0
+65;Verrichtingen inzake overheidsschuld;2004;10109;0;1;10108;0;0;0;0;134;0;134;0;0
+66;Verrichtingen inzake overheidsschuld;2005;9909;0;63;9846;0;0;0;0;243;0;243;0;0
+67;Verrichtingen inzake overheidsschuld;2006;9704;0;47;9657;0;0;0;0;253;5;248;0;0
+68;Verrichtingen inzake overheidsschuld;2007;10045;0;79;9966;0;0;0;0;341;4;336;0;0
+69;Verrichtingen inzake overheidsschuld;2008;11062;0;119;10943;0;0;0;0;1164;0;1164;0;0
+70;Verrichtingen inzake overheidsschuld;2009;11203;0;476;10727;0;0;0;0;1088;0;1088;0;0
+71;Verrichtingen inzake overheidsschuld;2010*;10068;0;461;9607;0;0;0;0;342;0;342;0;0
+72;Algemene overdrachten tussen overheden;2003;16690;0;3;0;16687;15892;795;0;0;0;0;0;0
+73;Algemene overdrachten tussen overheden;2004;14537;0;2;0;14535;13881;654;0;0;0;0;0;0
+74;Algemene overdrachten tussen overheden;2005;14856;0;2;0;14854;14152;702;0;0;0;0;0;0
+75;Algemene overdrachten tussen overheden;2006;16630;0;3;0;16627;15820;807;0;0;0;0;0;0
+76;Algemene overdrachten tussen overheden;2007;18490;0;2;0;18488;17598;890;0;8;0;0;8;0
+77;Algemene overdrachten tussen overheden;2008;19977;0;3;0;19974;18983;991;0;0;0;0;0;0
+78;Algemene overdrachten tussen overheden;2009;21798;0;3;0;21795;20701;1094;0;0;0;0;0;0
+79;Algemene overdrachten tussen overheden;2010*;22206;0;3;0;22202;21034;1169;0;0;0;0;0;0
+80;Overig algemeen overheidsbestuur;2003;0;0;0;0;0;0;0;0;0;0;0;0;0
+81;Overig algemeen overheidsbestuur;2004;0;0;0;0;0;0;0;0;0;0;0;0;0
+82;Overig algemeen overheidsbestuur;2005;0;0;0;0;0;0;0;0;0;0;0;0;0
+83;Overig algemeen overheidsbestuur;2006;0;0;0;0;0;0;0;0;0;0;0;0;0
+84;Overig algemeen overheidsbestuur;2007;0;0;0;0;0;0;0;0;0;0;0;0;0
+85;Overig algemeen overheidsbestuur;2008;0;0;0;0;0;0;0;0;0;0;0;0;0
+86;Overig algemeen overheidsbestuur;2009;0;0;0;0;0;0;0;0;0;0;0;0;0
+87;Overig algemeen overheidsbestuur;2010*;0;0;0;0;0;0;0;0;0;0;0;0;0
+88;Totaal landsverdediging;2003;7299;4017;2638;16;174;128;46;455;223;142;2;52;27
+89;Totaal landsverdediging;2004;7314;4028;2570;16;200;142;58;501;289;209;4;45;32
+90;Totaal landsverdediging;2005;7452;4094;2458;22;200;150;50;678;938;812;1;38;88
+91;Totaal landsverdediging;2006;7983;4163;2810;1;176;138;39;833;740;590;1;40;110
+92;Totaal landsverdediging;2007;8162;4182;2968;1;328;262;67;683;444;274;0;2;168
+93;Totaal landsverdediging;2008;8238;4332;3249;1;211;178;33;446;397;292;0;12;94
+94;Totaal landsverdediging;2009;9227;4492;4164;0;227;192;36;344;959;291;0;18;650
+95;Totaal landsverdediging;2010*;8826;4552;3710;0;214;205;9;349;931;353;0;9;568
+96;Landsverdediging (algemeen);2003;1222;534;375;0;127;81;46;186;87;35;0;25;27
+97;Landsverdediging (algemeen);2004;1276;456;497;0;111;53;58;212;191;134;0;25;32
+98;Landsverdediging (algemeen);2005;1488;710;468;0;119;69;50;192;299;189;0;22;88
+99;Landsverdediging (algemeen);2006;1658;678;590;0;116;77;39;274;417;306;0;26;85
+100;Landsverdediging (algemeen);2007;2129;770;847;1;149;83;67;362;528;360;0;0;168
+101;Landsverdediging (algemeen);2008;2385;842;1111;0;98;66;33;334;538;445;0;0;94
+102;Landsverdediging (algemeen);2009;2603;996;1322;0;107;71;36;178;561;332;0;-2;231
+103;Landsverdediging (algemeen);2010*;2415;983;1159;0;97;88;9;176;275;69;0;0;206
+104;Defensie (algemeen);2003;0;0;0;0;0;0;0;0;0;0;0;0;0
+105;Defensie (algemeen);2004;0;0;0;0;0;0;0;0;0;0;0;0;0
+106;Defensie (algemeen);2005;0;0;0;0;0;0;0;0;-9;-9;0;0;0
+107;Defensie (algemeen);2006;18;0;6;0;0;0;0;12;0;0;0;0;0
+108;Defensie (algemeen);2007;16;-5;13;0;0;0;0;8;31;31;0;0;0
+109;Defensie (algemeen);2008;24;-3;24;0;0;0;0;2;45;45;0;0;0
+110;Defensie (algemeen);2009;33;0;30;0;0;0;0;3;0;0;0;0;0
+111;Defensie (algemeen);2010*;15;0;14;0;0;0;0;1;0;0;0;0;0
+112;Landmacht;2003;2081;1239;694;16;1;1;0;131;67;57;1;10;0
+113;Landmacht;2004;2158;1228;781;15;10;10;0;125;63;55;3;5;0
+114;Landmacht;2005;2221;1193;732;20;8;8;0;270;19;11;0;9;0
+115;Landmacht;2006;2211;1143;852;1;0;0;0;216;9;6;0;3;0
+116;Landmacht;2007;2076;1099;784;0;0;0;0;193;4;4;0;0;0
+117;Landmacht;2008;2184;1179;902;0;0;0;0;103;81;80;0;2;0
+118;Landmacht;2009;2332;1241;938;0;0;0;0;153;-24;-39;0;0;15
+119;Landmacht;2010*;2180;1265;756;0;0;0;0;160;57;29;0;0;28
+120;Luchtmacht;2003;1456;543;829;0;0;0;0;85;34;30;1;3;0
+121;Luchtmacht;2004;1339;505;747;0;0;0;0;87;40;36;1;3;0
+122;Luchtmacht;2005;1186;503;549;1;0;0;0;134;296;292;2;3;0
+123;Luchtmacht;2006;1455;568;623;0;0;0;0;263;-46;-50;0;4;0
+124;Luchtmacht;2007;1194;494;620;0;0;0;0;81;3;3;0;0;0
+125;Luchtmacht;2008;1230;551;675;0;0;0;0;5;-143;-143;0;0;0
+126;Luchtmacht;2009;1096;508;584;0;0;0;0;4;-16;-17;0;0;0
+127;Luchtmacht;2010*;1081;517;558;0;0;0;0;6;-8;-9;0;0;1
+128;Zeemacht;2003;1349;703;592;0;3;3;0;50;26;21;0;6;0
+129;Zeemacht;2004;1272;791;405;0;1;1;0;75;-12;-17;0;5;0
+130;Zeemacht;2005;1284;616;585;2;2;2;0;81;329;327;0;2;0
+131;Zeemacht;2006;1294;727;501;0;0;0;0;66;359;326;1;7;25
+132;Zeemacht;2007;1342;787;443;0;74;74;0;38;-125;-125;0;0;0
+133;Zeemacht;2008;922;592;328;0;0;0;0;2;-137;-137;0;0;0
+134;Zeemacht;2009;1221;593;624;0;-1;-1;0;6;-27;-27;0;0;1
+135;Zeemacht;2010*;1121;582;533;0;0;0;0;6;-1;-2;0;0;1
+136;Militaire pensioenen;2003;952;938;14;0;0;0;0;0;0;0;0;0;0
+137;Militaire pensioenen;2004;1007;971;36;0;0;0;0;0;0;0;0;0;0
+138;Militaire pensioenen;2005;1033;1016;17;0;0;0;0;0;0;0;0;0;0
+139;Militaire pensioenen;2006;1034;997;36;0;0;0;0;0;0;0;0;0;0
+140;Militaire pensioenen;2007;1012;1011;0;0;0;0;0;0;0;0;0;0;0
+141;Militaire pensioenen;2008;1083;1083;0;0;0;0;0;0;0;0;0;0;0
+142;Militaire pensioenen;2009;1056;1056;0;0;0;0;0;0;0;0;0;0;0
+143;Militaire pensioenen;2010*;1133;1133;0;0;0;0;0;0;0;0;0;0;0
+144;Bescherming van de burgerbevolking;2003;0;0;0;0;0;0;0;0;0;0;0;0;0
+145;Bescherming van de burgerbevolking;2004;0;0;0;0;0;0;0;0;0;0;0;0;0
+146;Bescherming van de burgerbevolking;2005;0;0;0;0;0;0;0;0;0;0;0;0;0
+147;Bescherming van de burgerbevolking;2006;0;0;0;0;0;0;0;0;0;0;0;0;0
+148;Bescherming van de burgerbevolking;2007;0;0;0;0;0;0;0;0;0;0;0;0;0
+149;Bescherming van de burgerbevolking;2008;0;0;0;0;0;0;0;0;0;0;0;0;0
+150;Bescherming van de burgerbevolking;2009;0;0;0;0;0;0;0;0;0;0;0;0;0
+151;Bescherming van de burgerbevolking;2010*;0;0;0;0;0;0;0;0;0;0;0;0;0
+152;Militaire hulp aan het buitenland;2003;238;60;135;0;40;40;0;3;8;0;0;8;0
+153;Militaire hulp aan het buitenland;2004;260;76;106;0;76;76;0;2;7;1;0;6;0
+154;Militaire hulp aan het buitenland;2005;231;57;108;0;64;64;0;2;4;2;0;3;0
+155;Militaire hulp aan het buitenland;2006;313;49;202;0;60;60;0;1;2;1;0;0;0
+156;Militaire hulp aan het buitenland;2007;393;26;262;0;105;105;0;1;4;2;0;2;0
+157;Militaire hulp aan het buitenland;2008;411;90;208;0;113;113;0;0;12;2;0;10;0
+158;Militaire hulp aan het buitenland;2009;430;99;231;0;100;100;0;0;25;1;0;20;4
+159;Militaire hulp aan het buitenland;2010*;399;75;227;0;97;97;0;0;11;0;0;9;1
+160;Onderzoek inzake landsverdediging;2003;0;0;0;0;0;0;0;0;0;0;0;0;0
+161;Onderzoek inzake landsverdediging;2004;0;0;0;0;0;0;0;0;0;0;0;0;0
+162;Onderzoek inzake landsverdediging;2005;0;0;0;0;0;0;0;0;0;0;0;0;0
+163;Onderzoek inzake landsverdediging;2006;0;0;0;0;0;0;0;0;0;0;0;0;0
+164;Onderzoek inzake landsverdediging;2007;0;0;0;0;0;0;0;0;0;0;0;0;0
+165;Onderzoek inzake landsverdediging;2008;0;0;0;0;0;0;0;0;0;0;0;0;0
+166;Onderzoek inzake landsverdediging;2009;21;0;0;0;21;21;0;0;0;0;0;0;0
+167;Onderzoek inzake landsverdediging;2010*;20;0;0;0;20;20;0;0;0;0;0;0;0
+168;Landsverdediging (overig);2003;3;0;0;0;3;3;0;0;0;0;0;0;0
+169;Landsverdediging (overig);2004;3;0;0;0;3;3;0;0;0;0;0;0;0
+170;Landsverdediging (overig);2005;8;0;0;0;8;8;0;0;0;0;0;0;0
+171;Landsverdediging (overig);2006;0;0;0;0;0;0;0;0;0;0;0;0;0
+172;Landsverdediging (overig);2007;0;0;0;0;0;0;0;0;0;0;0;0;0
+173;Landsverdediging (overig);2008;0;0;0;0;0;0;0;0;0;0;0;0;0
+174;Landsverdediging (overig);2009;0;0;0;0;0;0;0;0;0;0;0;0;0
+175;Landsverdediging (overig);2010*;0;0;0;0;0;0;0;0;0;0;0;0;0
+176;Totaal openbare orde en veiligheid;2003;8254;1998;1475;0;4271;4255;17;510;1159;333;0;724;102
+177;Totaal openbare orde en veiligheid;2004;8587;2119;1579;0;4443;4430;13;447;1231;298;0;763;169
+178;Totaal openbare orde en veiligheid;2005;8712;2153;1618;0;4535;4523;12;406;1290;333;0;791;166
+179;Totaal openbare orde en veiligheid;2006;9282;2252;1723;0;4856;4820;36;452;1325;308;0;843;174
+180;Totaal openbare orde en veiligheid;2007;10005;2420;1867;0;5147;5133;14;572;1268;327;2;758;180
+181;Totaal openbare orde en veiligheid;2008;10783;2550;2143;0;5628;5614;14;461;1304;380;4;726;195
+182;Totaal openbare orde en veiligheid;2009;11505;2689;2455;0;5753;5746;7;608;1698;414;13;769;502
+183;Totaal openbare orde en veiligheid;2010*;11515;2747;2389;0;5884;5882;2;495;1766;496;0;772;497
+184;Openbare orde en veiligheid (algemeen);2003;456;93;226;0;105;105;0;32;52;46;0;2;5
+185;Openbare orde en veiligheid (algemeen);2004;484;108;263;0;100;100;0;12;102;54;0;1;47
+186;Openbare orde en veiligheid (algemeen);2005;366;100;206;0;49;49;0;10;75;72;0;1;2
+187;Openbare orde en veiligheid (algemeen);2006;312;103;153;0;46;46;0;10;37;34;0;0;2
+188;Openbare orde en veiligheid (algemeen);2007;345;87;153;0;88;88;0;17;27;25;0;0;2
+189;Openbare orde en veiligheid (algemeen);2008;300;79;135;0;78;78;0;9;28;26;0;0;2
+190;Openbare orde en veiligheid (algemeen);2009;330;78;124;0;116;116;0;13;47;30;0;0;17
+191;Openbare orde en veiligheid (algemeen);2010*;431;76;123;0;217;217;0;16;49;31;0;0;18
+192;Politie;2003;3969;314;255;0;3304;3304;1;95;111;87;0;2;22
+193;Politie;2004;4144;352;268;0;3439;3438;1;86;75;45;0;0;30
+194;Politie;2005;4152;336;269;0;3500;3499;1;47;63;27;0;0;36
+195;Politie;2006;4536;374;357;0;3732;3730;2;74;96;59;0;0;37
+196;Politie;2007;4786;405;365;0;3917;3914;3;99;101;67;0;0;35
+197;Politie;2008;5134;437;366;0;4247;4247;0;84;111;71;0;0;40
+198;Politie;2009;5373;454;427;0;4355;4355;0;137;121;46;0;0;75
+199;Politie;2010*;5283;453;399;0;4361;4361;0;70;93;20;0;0;74
+200;Brandweer en rampenbestrijding;2003;152;10;20;0;113;111;2;9;0;0;0;0;0
+201;Brandweer en rampenbestrijding;2004;155;10;19;0;119;117;2;8;0;0;0;0;0
+202;Brandweer en rampenbestrijding;2005;170;15;33;0;118;118;0;3;0;0;0;0;0
+203;Brandweer en rampenbestrijding;2006;181;15;41;0;122;122;0;4;0;0;0;0;0
+204;Brandweer en rampenbestrijding;2007;189;16;41;0;132;132;0;0;3;3;0;0;0
+205;Brandweer en rampenbestrijding;2008;181;13;37;0;130;130;0;1;6;5;0;0;0
+206;Brandweer en rampenbestrijding;2009;202;10;40;0;151;151;0;1;13;8;0;0;5
+207;Brandweer en rampenbestrijding;2010*;215;10;38;0;163;163;0;4;9;1;0;0;8
+208;Rechtspraak;2003;1819;827;453;0;394;394;0;145;761;160;0;571;31
+209;Rechtspraak;2004;1883;845;473;0;426;426;0;138;808;166;0;612;30
+210;Rechtspraak;2005;1965;876;522;0;427;427;0;140;899;194;0;638;66
+211;Rechtspraak;2006;2028;897;520;0;456;456;0;154;919;171;0;680;68
+212;Rechtspraak;2007;2174;971;547;0;474;474;0;182;1005;179;0;745;81
+213;Rechtspraak;2008;2231;1052;541;0;501;501;0;136;1008;213;0;714;82
+214;Rechtspraak;2009;2499;1116;670;0;536;536;0;177;1204;261;0;758;185
+215;Rechtspraak;2010*;2565;1220;658;0;528;528;0;159;1285;341;0;761;184
+216;Gevangeniswezen;2003;1766;700;484;0;355;341;14;227;234;40;0;150;44
+217;Gevangeniswezen;2004;1821;745;514;0;359;350;9;203;245;33;0;149;63
+218;Gevangeniswezen;2005;1935;760;536;0;434;423;11;205;252;38;0;152;62
+219;Gevangeniswezen;2006;2071;786;589;0;490;456;34;206;273;44;0;163;66
+220;Gevangeniswezen;2007;2316;853;685;0;525;514;11;252;130;52;2;13;62
+221;Gevangeniswezen;2008;2702;864;951;0;661;646;14;227;148;61;4;12;71
+222;Gevangeniswezen;2009;2846;913;1076;0;583;576;7;275;299;64;13;11;211
+223;Gevangeniswezen;2010*;2764;870;1047;0;605;604;2;241;315;100;0;12;204
+224;Onderzoek inzake openbare orde;2003;14;5;7;0;0;0;0;2;0;0;0;0;0
+225;Onderzoek inzake openbare orde;2004;13;6;7;0;0;0;0;0;1;1;0;0;0
+226;Onderzoek inzake openbare orde;2005;17;6;5;0;7;7;0;0;1;1;0;0;0
+227;Onderzoek inzake openbare orde;2006;22;6;5;0;11;11;0;0;0;0;0;0;0
+228;Onderzoek inzake openbare orde;2007;21;6;5;0;10;10;0;0;0;0;0;0;0
+229;Onderzoek inzake openbare orde;2008;20;6;4;0;11;11;0;0;0;0;0;0;0
+230;Onderzoek inzake openbare orde;2009;23;6;5;0;13;13;0;0;0;0;0;0;0
+231;Onderzoek inzake openbare orde;2010*;19;5;4;0;10;10;0;0;0;0;0;0;0
+232;Openbare orde en veiligheid (overig);2003;79;48;32;0;0;0;0;0;1;0;0;0;0
+233;Openbare orde en veiligheid (overig);2004;88;53;35;0;0;0;0;0;1;1;0;0;0
+234;Openbare orde en veiligheid (overig);2005;108;62;47;0;0;0;0;0;1;1;0;0;0
+235;Openbare orde en veiligheid (overig);2006;134;72;58;0;0;0;0;4;0;0;0;0;0
+236;Openbare orde en veiligheid (overig);2007;175;82;72;0;0;0;0;21;1;1;0;0;0
+237;Openbare orde en veiligheid (overig);2008;215;100;110;0;0;0;0;5;3;3;0;0;0
+238;Openbare orde en veiligheid (overig);2009;225;113;107;0;0;0;0;5;7;4;0;0;3
+239;Openbare orde en veiligheid (overig);2010*;232;113;114;0;0;0;0;5;7;3;0;0;4
+240;Totaal economische aangelegenheden;2003;17711;1296;2580;-50;10933;7780;3153;2952;6596;812;5084;439;261
+241;Totaal economische aangelegenheden;2004;16006;1219;2189;-21;10213;7184;3029;2405;7236;719;5705;446;366
+242;Totaal economische aangelegenheden;2005;15696;1170;2058;50;10425;7831;2595;1992;8507;605;7299;432;170
+243;Totaal economische aangelegenheden;2006;15865;1272;2290;0;10288;7819;2469;2015;11414;682;9800;655;278
+244;Totaal economische aangelegenheden;2007;17133;1344;2670;0;10848;7960;2889;2271;10748;714;9495;314;226
+245;Totaal economische aangelegenheden;2008;17706;1430;2695;0;10654;7952;2702;2928;15938;787;14442;355;353
+246;Totaal economische aangelegenheden;2009;24098;1471;4349;0;15372;9392;5980;2906;15276;910;11961;339;2065
+247;Totaal economische aangelegenheden;2010*;25201;1504;4417;0;16075;9766;6309;3205;16389;1382;12260;406;2341
+248;Economische aangelegenheden (algemeen);2003;788;237;419;-50;76;76;0;107;757;42;708;7;0
+249;Economische aangelegenheden (algemeen);2004;739;231;359;-21;92;31;62;77;1084;28;1056;1;0
+250;Economische aangelegenheden (algemeen);2005;554;172;269;0;36;36;0;77;1163;9;0;0;0
+251;Economische aangelegenheden (algemeen);2006;414;146;194;0;16;16;0;58;1295;10;1285;0;0
+252;Economische aangelegenheden (algemeen);2007;434;187;150;0;23;23;0;74;1527;10;1517;0;0
+253;Economische aangelegenheden (algemeen);2008;406;152;186;0;18;18;0;51;1805;7;1798;0;0
+254;Economische aangelegenheden (algemeen);2009;467;152;223;0;19;19;0;73;61;1;12;0;48
+255;Economische aangelegenheden (algemeen);2010*;422;152;196;0;10;10;0;64;63;3;8;0;51
+256;Algemene economische aangelegenheden;2003;5554;234;287;0;5025;4728;297;8;349;101;111;86;50
+257;Algemene economische aangelegenheden;2004;4931;230;214;0;4481;4385;96;6;308;87;9;135;77
+258;Algemene economische aangelegenheden;2005;4720;266;185;0;4260;4431;-171;9;332;71;0;233;28
+259;Algemene economische aangelegenheden;2006;4085;276;206;0;3594;4276;-682;9;542;82;1;381;77
+260;Algemene economische aangelegenheden;2007;4677;288;246;0;4135;4237;-102;8;296;88;2;145;62
+261;Algemene economische aangelegenheden;2008;4935;296;251;0;4380;4456;-76;9;394;144;2;163;86
+262;Algemene economische aangelegenheden;2009;7279;306;277;0;6682;4409;2273;14;3071;248;2623;151;49
+263;Algemene economische aangelegenheden;2010*;6020;305;311;0;5378;4307;1071;26;3224;701;2271;205;47
+264;Landbouw, bosbouw, visserij en jacht;2003;1505;398;440;0;503;303;200;165;450;159;20;181;91
+265;Landbouw, bosbouw, visserij en jacht;2004;1127;355;316;0;335;209;126;120;400;156;23;152;69
+266;Landbouw, bosbouw, visserij en jacht;2005;983;297;264;0;283;181;102;141;218;81;21;45;71
+267;Landbouw, bosbouw, visserij en jacht;2006;1203;317;292;0;431;184;248;162;312;97;20;116;79
+268;Landbouw, bosbouw, visserij en jacht;2007;1211;336;286;0;481;155;326;108;159;55;20;23;60
+269;Landbouw, bosbouw, visserij en jacht;2008;1308;362;332;0;532;147;385;82;181;59;19;30;72
+270;Landbouw, bosbouw, visserij en jacht;2009;1205;336;450;0;340;149;192;79;232;71;16;25;121
+271;Landbouw, bosbouw, visserij en jacht;2010*;1438;348;438;0;570;209;361;82;232;80;15;20;117
+272;Brandstoffen en energie;2003;257;0;4;0;253;199;55;0;3568;0;3479;89;0
+273;Brandstoffen en energie;2004;244;4;7;0;232;185;48;0;3990;0;3902;88;0
+274;Brandstoffen en energie;2005;385;0;1;0;385;312;72;0;7071;0;6993;78;0
+275;Brandstoffen en energie;2006;785;0;0;0;785;764;21;0;8567;0;8486;81;0
+276;Brandstoffen en energie;2007;650;0;0;0;650;636;14;0;8034;0;7949;85;0
+277;Brandstoffen en energie;2008;504;0;0;0;504;494;10;0;12700;0;12617;83;0
+278;Brandstoffen en energie;2009;865;0;1;0;864;839;25;0;9139;0;9045;94;0
+279;Brandstoffen en energie;2010*;850;0;2;0;848;818;30;0;9855;2;9764;89;0
+280;Mijnbouw, industrie en bouwnijverheid;2003;20;3;4;0;13;13;0;0;763;0;763;0;0
+281;Mijnbouw, industrie en bouwnijverheid;2004;-8;0;3;0;-11;-11;0;0;708;0;708;0;0
+282;Mijnbouw, industrie en bouwnijverheid;2005;50;3;4;0;43;33;10;0;-874;0;-874;0;0
+283;Mijnbouw, industrie en bouwnijverheid;2006;39;3;5;0;31;16;15;0;3;1;2;0;0
+284;Mijnbouw, industrie en bouwnijverheid;2007;18;3;6;0;9;9;0;0;2;0;2;0;0
+285;Mijnbouw, industrie en bouwnijverheid;2008;15;3;2;0;9;9;0;0;2;0;2;0;0
+286;Mijnbouw, industrie en bouwnijverheid;2009;14;4;1;0;9;9;0;0;4;0;4;0;0
+287;Mijnbouw, industrie en bouwnijverheid;2010*;14;4;2;0;8;8;0;0;3;0;2;0;0
+288;Vervoer;2003;8462;358;1234;0;4358;1896;2462;2511;590;447;0;74;70
+289;Vervoer;2004;7989;335;1107;0;4456;1792;2664;2092;688;409;0;69;210
+290;Vervoer;2005;8010;372;1166;50;4765;2266;2499;1657;559;407;0;63;90
+291;Vervoer;2006;8249;468;1418;0;4677;1929;2747;1687;637;455;0;59;123
+292;Vervoer;2007;8946;467;1781;0;4847;2259;2588;1851;644;478;0;60;106
+293;Vervoer;2008;9103;541;1746;0;4351;2081;2270;2465;773;533;0;74;166
+294;Vervoer;2009;11518;593;3093;0;5545;2378;3167;2287;2543;549;257;63;1673
+295;Vervoer;2010*;13515;611;3141;0;7080;2607;4473;2683;2717;552;196;83;1886
+296;Communicatie;2003;37;7;21;0;9;9;0;0;27;1;0;0;27
+297;Communicatie;2004;60;9;26;0;25;25;0;0;10;8;3;0;0
+298;Communicatie;2005;71;9;33;0;29;29;0;0;-12;9;0;0;-21
+299;Communicatie;2006;68;8;20;0;40;40;0;0;9;0;0;17;-8
+300;Communicatie;2007;74;9;14;0;51;51;0;0;19;30;0;1;-12
+301;Communicatie;2008;66;8;6;0;53;53;0;0;1;1;0;1;0
+302;Communicatie;2009;85;9;6;0;70;70;0;0;1;0;0;0;1
+303;Communicatie;2010*;92;9;18;0;64;64;0;0;27;0;0;0;27
+304;Andere bedrijfstakken;2003;511;54;125;0;171;34;137;161;88;64;0;2;23
+305;Andere bedrijfstakken;2004;342;50;116;0;66;34;32;110;41;32;0;0;9
+306;Andere bedrijfstakken;2005;382;48;96;0;129;47;82;109;43;27;0;14;2
+307;Andere bedrijfstakken;2006;432;41;131;0;162;43;119;98;44;36;0;1;7
+308;Andere bedrijfstakken;2007;542;41;165;0;106;43;63;230;60;52;0;0;9
+309;Andere bedrijfstakken;2008;717;56;168;0;172;58;114;322;75;42;0;4;29
+310;Andere bedrijfstakken;2009;1150;61;275;0;363;40;323;451;199;40;0;4;155
+311;Andere bedrijfstakken;2010*;1136;64;289;0;434;60;374;349;248;43;0;8;197
+312;Onderzoek economische aangelegenheden;2003;577;6;47;0;524;522;2;0;3;0;3;0;0
+313;Onderzoek economische aangelegenheden;2004;582;4;41;0;537;535;2;0;6;1;5;0;0
+314;Onderzoek economische aangelegenheden;2005;541;4;41;0;496;496;0;0;7;2;5;0;0
+315;Onderzoek economische aangelegenheden;2006;589;13;25;0;551;551;0;0;5;0;5;0;0
+316;Onderzoek economische aangelegenheden;2007;582;13;21;0;548;547;0;0;7;2;5;0;0
+317;Onderzoek economische aangelegenheden;2008;654;12;6;0;636;636;0;0;7;2;5;0;0
+318;Onderzoek economische aangelegenheden;2009;1498;12;8;0;1479;1479;0;0;11;0;5;2;4
+319;Onderzoek economische aangelegenheden;2010*;1702;11;8;0;1683;1683;0;0;10;2;4;1;3
+320;Economische aangelegenheden (overig);2003;0;0;0;0;0;0;0;0;0;0;0;0;0
+321;Economische aangelegenheden (overig);2004;0;0;0;0;0;0;0;0;0;0;0;0;0
+322;Economische aangelegenheden (overig);2005;0;0;0;0;0;0;0;0;0;0;0;0;0
+323;Economische aangelegenheden (overig);2006;0;0;0;0;0;0;0;0;0;0;0;0;0
+324;Economische aangelegenheden (overig);2007;0;0;0;0;0;0;0;0;0;0;0;0;0
+325;Economische aangelegenheden (overig);2008;0;0;0;0;0;0;0;0;0;0;0;0;0
+326;Economische aangelegenheden (overig);2009;16;0;16;0;0;0;0;0;16;0;0;0;16
+327;Economische aangelegenheden (overig);2010*;13;0;13;0;0;0;0;0;13;0;0;0;13
+328;Totaal milieubescherming;2003;955;120;197;0;443;234;209;195;160;66;0;94;0
+329;Totaal milieubescherming;2004;992;117;197;0;583;278;306;95;183;105;0;78;0
+330;Totaal milieubescherming;2005;839;107;212;0;452;295;157;69;199;110;0;89;0
+331;Totaal milieubescherming;2006;963;109;256;0;544;346;198;55;193;97;0;96;0
+332;Totaal milieubescherming;2007;1137;116;260;0;718;404;314;44;189;103;0;85;1
+333;Totaal milieubescherming;2008;1157;105;301;0;714;376;337;38;269;119;0;80;70
+334;Totaal milieubescherming;2009;1617;116;377;0;1063;533;530;60;307;197;0;65;45
+335;Totaal milieubescherming;2010*;1235;110;331;0;761;509;252;34;467;230;0;58;180
+336;Milieubescherming (algemeen);2003;201;106;85;0;7;-115;122;3;59;59;0;0;0
+337;Milieubescherming (algemeen);2004;188;102;79;0;7;7;0;0;85;85;0;0;0
+338;Milieubescherming (algemeen);2005;175;91;84;0;0;0;0;0;86;86;0;0;0
+339;Milieubescherming (algemeen);2006;171;88;82;0;0;0;0;0;74;74;0;0;0
+340;Milieubescherming (algemeen);2007;189;93;96;0;0;0;0;0;92;92;0;0;0
+341;Milieubescherming (algemeen);2008;235;81;116;0;39;39;0;0;101;101;0;0;0
+342;Milieubescherming (algemeen);2009;239;84;141;0;14;14;0;0;183;183;0;0;0
+343;Milieubescherming (algemeen);2010*;215;80;129;0;5;5;0;0;207;207;0;0;0
+344;Afvalbeheer;2003;0;0;0;0;0;0;0;0;0;0;0;0;0
+345;Afvalbeheer;2004;0;0;0;0;0;0;0;0;0;0;0;0;0
+346;Afvalbeheer;2005;0;0;0;0;0;0;0;0;0;0;0;0;0
+347;Afvalbeheer;2006;0;0;0;0;0;0;0;0;0;0;0;0;0
+348;Afvalbeheer;2007;0;0;0;0;0;0;0;0;0;0;0;0;0
+349;Afvalbeheer;2008;0;0;0;0;0;0;0;0;0;0;0;0;0
+350;Afvalbeheer;2009;183;0;16;0;167;161;5;0;0;0;0;0;0
+351;Afvalbeheer;2010*;119;0;12;0;107;107;0;0;0;0;0;0;0
+352;Afvalwaterbeheer;2003;0;0;0;0;0;0;0;0;30;0;0;30;0
+353;Afvalwaterbeheer;2004;0;0;0;0;0;0;0;0;32;0;0;32;0
+354;Afvalwaterbeheer;2005;0;0;0;0;0;0;0;0;32;0;0;32;0
+355;Afvalwaterbeheer;2006;25;2;21;0;0;0;0;2;37;0;0;37;0
+356;Afvalwaterbeheer;2007;33;3;19;0;0;0;0;10;30;0;0;30;0
+357;Afvalwaterbeheer;2008;36;6;22;0;0;0;0;7;23;0;0;23;0
+358;Afvalwaterbeheer;2009;31;7;22;0;2;2;0;1;16;0;0;15;1
+359;Afvalwaterbeheer;2010*;31;7;22;0;2;2;0;1;21;0;0;20;1
+360;Bestrijding van milieuverontreiniging;2003;532;4;70;0;290;248;42;167;38;1;0;37;0
+361;Bestrijding van milieuverontreiniging;2004;565;4;80;0;402;156;246;79;45;12;0;33;0
+362;Bestrijding van milieuverontreiniging;2005;414;5;75;0;286;153;134;48;64;16;0;49;0
+363;Bestrijding van milieuverontreiniging;2006;461;8;96;0;327;151;176;31;70;16;0;54;0
+364;Bestrijding van milieuverontreiniging;2007;614;7;95;0;485;320;164;27;66;10;0;55;1
+365;Bestrijding van milieuverontreiniging;2008;574;7;107;0;435;251;184;25;70;14;0;56;0
+366;Bestrijding van milieuverontreiniging;2009;615;11;132;0;424;240;184;49;92;5;0;50;38
+367;Bestrijding van milieuverontreiniging;2010*;475;6;105;0;342;259;83;22;217;8;0;37;173
+368;Bescherming biodiversiteit en landschap;2003;180;7;2;0;146;101;46;24;32;6;0;27;0
+369;Bescherming biodiversiteit en landschap;2004;161;6;3;0;136;109;28;16;21;8;0;13;0
+370;Bescherming biodiversiteit en landschap;2005;184;7;3;0;154;132;22;21;17;8;0;9;0
+371;Bescherming biodiversiteit en landschap;2006;215;7;4;0;183;165;18;22;10;6;0;5;0
+372;Bescherming biodiversiteit en landschap;2007;207;9;2;0;189;56;134;7;2;1;0;1;0
+373;Bescherming biodiversiteit en landschap;2008;226;7;1;0;213;61;152;5;75;4;0;1;70
+374;Bescherming biodiversiteit en landschap;2009;387;10;7;0;359;67;293;11;15;9;0;1;5
+375;Bescherming biodiversiteit en landschap;2010*;270;12;8;0;239;70;169;11;21;15;0;1;5
+376;Onderzoek inzake milieubescherming;2003;41;3;37;0;0;0;0;0;0;0;0;0;0
+377;Onderzoek inzake milieubescherming;2004;39;4;34;0;0;0;0;0;0;0;0;0;0
+378;Onderzoek inzake milieubescherming;2005;50;4;46;0;0;0;0;0;0;0;0;0;0
+379;Onderzoek inzake milieubescherming;2006;51;4;47;0;0;0;0;0;0;0;0;0;0
+380;Onderzoek inzake milieubescherming;2007;49;5;45;0;0;0;0;0;0;0;0;0;0
+381;Onderzoek inzake milieubescherming;2008;61;5;51;0;5;5;0;0;0;0;0;0;0
+382;Onderzoek inzake milieubescherming;2009;57;5;52;0;0;0;0;0;0;0;0;0;0
+383;Onderzoek inzake milieubescherming;2010*;56;5;51;0;0;0;0;0;0;0;0;0;0
+384;Milieubescherming (overig);2003;2;0;2;0;0;0;0;0;0;0;0;0;0
+385;Milieubescherming (overig);2004;39;0;1;0;38;6;33;0;0;0;0;0;0
+386;Milieubescherming (overig);2005;16;0;4;0;12;10;2;0;0;0;0;0;0
+387;Milieubescherming (overig);2006;40;0;6;0;34;29;5;0;1;1;0;0;0
+388;Milieubescherming (overig);2007;46;0;3;0;43;28;16;0;0;0;0;0;0
+389;Milieubescherming (overig);2008;26;0;3;0;23;22;1;0;0;0;0;0;0
+390;Milieubescherming (overig);2009;105;0;7;0;98;50;48;0;0;0;0;0;0
+391;Milieubescherming (overig);2010*;70;0;4;0;66;66;0;0;0;0;0;0;0
+392;Totaal huisvesting en gemeenschapsvoorz.;2003;1623;150;630;0;813;234;579;30;355;56;0;0;299
+393;Totaal huisvesting en gemeenschapsvoorz.;2004;1604;168;468;0;935;216;719;33;452;118;0;0;334
+394;Totaal huisvesting en gemeenschapsvoorz.;2005;1494;175;486;0;796;113;682;38;424;104;0;13;307
+395;Totaal huisvesting en gemeenschapsvoorz.;2006;1486;168;520;0;752;88;664;46;483;141;0;0;343
+396;Totaal huisvesting en gemeenschapsvoorz.;2007;1323;168;512;0;594;77;518;49;501;126;0;0;375
+397;Totaal huisvesting en gemeenschapsvoorz.;2008;1618;188;481;1;913;58;855;34;464;140;0;0;324
+398;Totaal huisvesting en gemeenschapsvoorz.;2009;1894;199;204;0;1461;316;1145;30;176;130;0;0;46
+399;Totaal huisvesting en gemeenschapsvoorz.;2010*;1004;193;205;0;545;142;403;61;149;127;0;0;22
+400;Gemeenschapsvoorzieningen algemeen;2003;74;40;22;0;12;11;2;0;0;0;0;0;0
+401;Gemeenschapsvoorzieningen algemeen;2004;55;39;18;0;-2;-2;0;0;9;9;0;0;0
+402;Gemeenschapsvoorzieningen algemeen;2005;55;35;10;0;10;8;2;0;29;29;0;0;0
+403;Gemeenschapsvoorzieningen algemeen;2006;60;36;13;0;11;6;5;0;32;32;0;0;0
+404;Gemeenschapsvoorzieningen algemeen;2007;61;38;15;0;8;6;2;0;18;18;0;0;0
+405;Gemeenschapsvoorzieningen algemeen;2008;67;43;15;0;10;6;4;0;29;29;0;0;0
+406;Gemeenschapsvoorzieningen algemeen;2009;65;42;16;0;7;6;1;0;9;9;0;0;0
+407;Gemeenschapsvoorzieningen algemeen;2010*;60;40;15;0;6;6;0;0;20;20;0;0;0
+408;Huisvesting;2003;1048;96;528;0;403;219;184;21;352;53;0;0;299
+409;Huisvesting;2004;925;103;391;0;417;212;205;14;441;107;0;0;334
+410;Huisvesting;2005;826;96;394;0;320;101;219;16;394;74;0;13;307
+411;Huisvesting;2006;923;87;395;0;416;77;339;24;451;108;0;0;343
+412;Huisvesting;2007;810;88;389;0;308;65;243;25;483;108;0;0;375
+413;Huisvesting;2008;863;84;344;1;425;48;377;10;430;106;0;0;324
+414;Huisvesting;2009;1174;93;41;0;1026;305;720;14;150;120;0;0;30
+415;Huisvesting;2010*;353;83;50;0;173;125;48;46;109;104;0;0;6
+416;Stads- en plattelandsontwikkeling;2003;415;0;8;0;397;5;393;9;0;0;0;0;0
+417;Stads- en plattelandsontwikkeling;2004;522;0;1;0;515;1;515;6;0;0;0;0;0
+418;Stads- en plattelandsontwikkeling;2005;471;0;2;0;462;0;461;8;0;0;0;0;0
+419;Stads- en plattelandsontwikkeling;2006;329;2;3;0;321;0;320;3;0;0;0;0;0
+420;Stads- en plattelandsontwikkeling;2007;290;1;7;0;274;1;274;8;0;0;0;0;0
+421;Stads- en plattelandsontwikkeling;2008;503;3;18;0;475;1;474;7;5;5;0;0;0
+422;Stads- en plattelandsontwikkeling;2009;449;6;18;0;425;2;423;1;1;0;0;0;0
+423;Stads- en plattelandsontwikkeling;2010*;396;14;18;0;363;8;355;1;2;2;0;0;0
+424;Watervoorziening;2003;0;0;0;0;0;0;0;0;0;0;0;0;0
+425;Watervoorziening;2004;0;0;0;0;0;0;0;0;0;0;0;0;0
+426;Watervoorziening;2005;0;0;0;0;0;0;0;0;0;0;0;0;0
+427;Watervoorziening;2006;0;0;0;0;0;0;0;0;0;0;0;0;0
+428;Watervoorziening;2007;0;0;0;0;0;0;0;0;0;0;0;0;0
+429;Watervoorziening;2008;0;0;0;0;0;0;0;0;0;0;0;0;0
+430;Watervoorziening;2009;0;0;0;0;0;0;0;0;0;0;0;0;0
+431;Watervoorziening;2010*;0;0;0;0;0;0;0;0;0;0;0;0;0
+432;Straatverlichting;2003;0;0;0;0;0;0;0;0;0;0;0;0;0
+433;Straatverlichting;2004;0;0;0;0;0;0;0;0;0;0;0;0;0
+434;Straatverlichting;2005;0;0;0;0;0;0;0;0;0;0;0;0;0
+435;Straatverlichting;2006;0;0;0;0;0;0;0;0;0;0;0;0;0
+436;Straatverlichting;2007;0;0;0;0;0;0;0;0;0;0;0;0;0
+437;Straatverlichting;2008;0;0;0;0;0;0;0;0;0;0;0;0;0
+438;Straatverlichting;2009;0;0;0;0;0;0;0;0;0;0;0;0;0
+439;Straatverlichting;2010*;0;0;0;0;0;0;0;0;0;0;0;0;0
+440;Onderzoek gemeenschapsvoorzieningen;2003;15;3;12;0;0;0;0;0;3;3;0;0;0
+441;Onderzoek gemeenschapsvoorzieningen;2004;15;2;8;0;5;5;0;0;2;2;0;0;0
+442;Onderzoek gemeenschapsvoorzieningen;2005;17;1;11;0;5;5;0;0;1;1;0;0;0
+443;Onderzoek gemeenschapsvoorzieningen;2006;18;1;12;0;5;5;0;0;0;0;0;0;0
+444;Onderzoek gemeenschapsvoorzieningen;2007;16;2;11;0;4;4;0;0;0;0;0;0;0
+445;Onderzoek gemeenschapsvoorzieningen;2008;18;2;12;0;4;4;0;0;0;0;0;0;0
+446;Onderzoek gemeenschapsvoorzieningen;2009;15;1;11;0;3;3;0;0;0;0;0;0;0
+447;Onderzoek gemeenschapsvoorzieningen;2010*;19;2;13;0;4;4;0;0;0;0;0;0;0
+448;Overige gemeenschapsvoorzieningen;2003;72;11;60;0;0;0;0;0;0;0;0;0;0
+449;Overige gemeenschapsvoorzieningen;2004;87;24;50;0;0;0;0;14;0;0;0;0;0
+450;Overige gemeenschapsvoorzieningen;2005;126;43;69;0;0;0;0;14;0;0;0;0;0
+451;Overige gemeenschapsvoorzieningen;2006;157;41;97;0;0;0;0;19;0;0;0;0;0
+452;Overige gemeenschapsvoorzieningen;2007;146;39;90;0;0;0;0;17;0;0;0;0;0
+453;Overige gemeenschapsvoorzieningen;2008;167;56;92;0;0;0;0;18;0;0;0;0;0
+454;Overige gemeenschapsvoorzieningen;2009;190;57;118;0;0;0;0;15;17;1;0;0;16
+455;Overige gemeenschapsvoorzieningen;2010*;176;54;108;0;0;0;0;14;17;2;0;0;15
+456;Totaal volksgezondheid;2003;7700;197;148;0;7333;7333;0;22;68;55;3;7;4
+457;Totaal volksgezondheid;2004;9280;203;167;0;8897;8897;0;13;87;71;0;7;9
+458;Totaal volksgezondheid;2005;9277;281;274;0;8708;8684;23;15;166;128;27;0;11
+459;Totaal volksgezondheid;2006;7926;263;274;0;7370;7370;0;20;102;84;1;7;11
+460;Totaal volksgezondheid;2007;8345;274;261;0;7790;7790;0;21;107;93;2;0;13
+461;Totaal volksgezondheid;2008;9154;269;348;0;8499;8499;0;38;212;196;1;0;15
+462;Totaal volksgezondheid;2009;9637;276;531;0;8780;8780;0;50;137;119;1;0;18
+463;Totaal volksgezondheid;2010*;15590;298;620;0;14623;8850;5774;49;154;133;0;0;22
+464;Volksgezondheid (algemeen);2003;411;188;120;0;81;81;0;22;65;54;0;7;4
+465;Volksgezondheid (algemeen);2004;396;190;141;0;52;52;0;13;87;70;0;7;9
+466;Volksgezondheid (algemeen);2005;630;269;245;0;101;78;23;15;137;126;0;0;11
+467;Volksgezondheid (algemeen);2006;676;251;218;0;188;188;0;20;96;78;0;7;11
+468;Volksgezondheid (algemeen);2007;1287;261;225;0;780;780;0;21;99;86;0;0;13
+469;Volksgezondheid (algemeen);2008;1573;255;294;0;988;988;0;36;211;196;0;0;15
+470;Volksgezondheid (algemeen);2009;1789;262;354;0;1125;1125;0;48;135;118;0;0;16
+471;Volksgezondheid (algemeen);2010*;7650;284;406;0;6913;1139;5774;48;152;131;0;0;21
+472;Medische producten, apparatuur;2003;47;0;4;0;44;44;0;0;1;1;0;0;0
+473;Medische producten, apparatuur;2004;37;3;2;0;32;32;0;0;0;0;0;0;0
+474;Medische producten, apparatuur;2005;62;3;2;0;58;58;0;0;2;2;0;0;0
+475;Medische producten, apparatuur;2006;41;3;4;0;34;34;0;0;5;5;0;0;0
+476;Medische producten, apparatuur;2007;77;3;2;0;72;72;0;0;7;7;0;0;0
+477;Medische producten, apparatuur;2008;99;3;2;0;93;93;0;1;0;0;0;0;0
+478;Medische producten, apparatuur;2009;182;3;116;0;62;62;0;1;0;0;0;0;0
+479;Medische producten, apparatuur;2010*;203;3;155;0;45;45;0;0;0;0;0;0;0
+480;Extramurale medische zorg;2003;6813;0;0;0;6813;6813;0;0;0;0;0;0;0
+481;Extramurale medische zorg;2004;8437;0;0;0;8437;8437;0;0;0;0;0;0;0
+482;Extramurale medische zorg;2005;8183;0;0;0;8183;8183;0;0;0;0;0;0;0
+483;Extramurale medische zorg;2006;6626;0;0;0;6625;6625;0;0;0;0;0;0;0
+484;Extramurale medische zorg;2007;6357;0;0;0;6357;6357;0;0;0;0;0;0;0
+485;Extramurale medische zorg;2008;6848;0;1;0;6847;6847;0;0;0;0;0;0;0
+486;Extramurale medische zorg;2009;6954;0;1;0;6954;6954;0;0;0;0;0;0;0
+487;Extramurale medische zorg;2010*;6998;0;0;0;6998;6998;0;0;0;0;0;0;0
+488;Intramurale medische zorg;2003;44;0;0;0;44;44;0;0;0;0;0;0;0
+489;Intramurale medische zorg;2004;44;0;0;0;44;44;0;0;0;0;0;0;0
+490;Intramurale medische zorg;2005;43;0;0;0;43;43;0;0;0;0;0;0;0
+491;Intramurale medische zorg;2006;39;0;14;0;26;26;0;0;0;0;0;0;0
+492;Intramurale medische zorg;2007;39;0;8;0;32;32;0;0;0;0;0;0;0
+493;Intramurale medische zorg;2008;56;0;7;0;49;49;0;0;0;0;0;0;0
+494;Intramurale medische zorg;2009;83;0;4;0;79;79;0;0;0;0;0;0;0
+495;Intramurale medische zorg;2010*;89;0;3;0;86;86;0;0;0;0;0;0;0
+496;Openbare gezondheidszorg;2003;309;1;16;0;292;292;0;0;3;0;3;0;0
+497;Openbare gezondheidszorg;2004;303;1;10;0;292;292;0;0;0;0;0;0;0
+498;Openbare gezondheidszorg;2005;293;1;10;0;282;282;0;0;27;0;27;0;0
+499;Openbare gezondheidszorg;2006;389;1;19;0;369;369;0;0;1;0;1;0;0
+500;Openbare gezondheidszorg;2007;406;1;17;0;388;388;0;0;2;0;2;0;0
+501;Openbare gezondheidszorg;2008;397;0;24;0;372;372;0;1;1;0;1;0;0
+502;Openbare gezondheidszorg;2009;416;0;31;0;384;384;0;1;1;0;1;0;0
+503;Openbare gezondheidszorg;2010*;469;0;32;0;437;437;0;1;2;2;0;0;0
+504;Onderzoek inzake gezondheidszorg;2003;76;8;8;0;59;59;0;1;0;0;0;0;0
+505;Onderzoek inzake gezondheidszorg;2004;63;9;14;0;40;40;0;0;0;0;0;0;0
+506;Onderzoek inzake gezondheidszorg;2005;67;9;17;0;42;42;0;0;0;0;0;0;0
+507;Onderzoek inzake gezondheidszorg;2006;156;9;19;0;128;128;0;0;0;0;0;0;0
+508;Onderzoek inzake gezondheidszorg;2007;174;9;10;0;155;155;0;0;0;0;0;0;0
+509;Onderzoek inzake gezondheidszorg;2008;177;10;21;0;146;146;0;0;0;0;0;0;0
+510;Onderzoek inzake gezondheidszorg;2009;208;10;25;0;173;173;0;0;0;0;0;0;0
+511;Onderzoek inzake gezondheidszorg;2010*;176;11;23;0;142;142;0;0;0;0;0;0;0
+512;Overige volksgezondheid;2003;0;0;0;0;0;0;0;0;0;0;0;0;0
+513;Overige volksgezondheid;2004;0;0;0;0;0;0;0;0;0;0;0;0;0
+514;Overige volksgezondheid;2005;0;0;0;0;0;0;0;0;0;0;0;0;0
+515;Overige volksgezondheid;2006;0;0;0;0;0;0;0;0;0;0;0;0;0
+516;Overige volksgezondheid;2007;5;0;0;0;5;5;0;0;0;0;0;0;0
+517;Overige volksgezondheid;2008;4;0;0;0;4;4;0;0;0;0;0;0;0
+518;Overige volksgezondheid;2009;3;0;0;0;3;3;0;0;0;0;0;0;0
+519;Overige volksgezondheid;2010*;5;0;0;0;5;5;0;0;0;0;0;0;0
+520;Totaal recreatie, cultuur en religie;2003;1755;36;67;0;1622;1482;139;30;530;223;4;0;304
+521;Totaal recreatie, cultuur en religie;2004;1722;42;52;0;1607;1461;145;21;225;220;4;0;1
+522;Totaal recreatie, cultuur en religie;2005;1769;38;57;0;1650;1492;158;24;207;201;3;0;3
+523;Totaal recreatie, cultuur en religie;2006;1817;38;98;0;1657;1514;143;24;217;196;21;0;1
+524;Totaal recreatie, cultuur en religie;2007;1771;49;61;0;1638;1490;148;23;223;190;32;0;1
+525;Totaal recreatie, cultuur en religie;2008;1924;51;33;0;1816;1656;160;24;226;224;1;0;1
+526;Totaal recreatie, cultuur en religie;2009;1948;58;62;0;1788;1684;104;40;251;213;11;0;27
+527;Totaal recreatie, cultuur en religie;2010*;1998;55;67;0;1834;1703;131;42;231;200;4;0;28
+528;Recreatie, cultuur en religie (algemeen);2003;5;0;2;0;0;0;0;3;0;0;0;0;0
+529;Recreatie, cultuur en religie (algemeen);2004;4;0;2;0;0;0;0;2;0;0;0;0;0
+530;Recreatie, cultuur en religie (algemeen);2005;4;0;2;0;0;0;0;2;0;0;0;0;0
+531;Recreatie, cultuur en religie (algemeen);2006;4;0;2;0;0;0;0;3;0;0;0;0;0
+532;Recreatie, cultuur en religie (algemeen);2007;5;0;2;0;0;0;0;3;0;0;0;0;0
+533;Recreatie, cultuur en religie (algemeen);2008;6;0;3;0;0;0;0;3;0;0;0;0;0
+534;Recreatie, cultuur en religie (algemeen);2009;10;0;6;0;0;0;0;5;2;0;0;0;2
+535;Recreatie, cultuur en religie (algemeen);2010*;11;0;6;0;0;0;0;5;3;0;0;0;3
+536;Diensten inzake recreatie en sport;2003;118;3;1;0;106;68;38;8;0;0;0;0;0
+537;Diensten inzake recreatie en sport;2004;106;3;1;0;97;67;30;5;0;0;0;0;0
+538;Diensten inzake recreatie en sport;2005;96;2;1;0;86;72;14;7;0;0;0;0;0
+539;Diensten inzake recreatie en sport;2006;150;2;2;0;139;125;14;7;0;0;0;0;0
+540;Diensten inzake recreatie en sport;2007;154;2;1;0;149;97;52;2;0;0;0;0;0
+541;Diensten inzake recreatie en sport;2008;143;2;1;0;139;101;38;2;0;0;0;0;0
+542;Diensten inzake recreatie en sport;2009;132;2;3;0;120;114;6;7;2;0;0;0;2
+543;Diensten inzake recreatie en sport;2010*;132;2;4;0;117;114;4;8;3;0;0;0;3
+544;Diensten op het gebied van cultuur;2003;748;34;63;0;633;533;101;19;11;10;0;0;1
+545;Diensten op het gebied van cultuur;2004;740;40;48;0;640;524;115;13;3;2;0;0;1
+546;Diensten op het gebied van cultuur;2005;779;8;39;0;717;573;144;15;5;2;0;0;3
+547;Diensten op het gebied van cultuur;2006;838;36;56;0;731;602;129;15;2;2;0;0;1
+548;Diensten op het gebied van cultuur;2007;824;47;56;0;702;606;96;18;3;2;0;0;1
+549;Diensten op het gebied van cultuur;2008;881;49;29;0;784;662;122;19;4;4;0;0;1
+550;Diensten op het gebied van cultuur;2009;899;56;50;0;763;665;98;29;26;4;2;0;21
+551;Diensten op het gebied van cultuur;2010*;948;53;54;0;813;685;127;29;26;4;2;0;21
+552;Diensten van omroepen en uitgeverijen;2003;881;0;0;0;881;881;0;0;520;213;4;0;303
+553;Diensten van omroepen en uitgeverijen;2004;868;0;0;0;868;868;0;0;221;218;4;0;-1
+554;Diensten van omroepen en uitgeverijen;2005;845;0;0;0;845;845;0;0;202;199;3;0;0
+555;Diensten van omroepen en uitgeverijen;2006;759;0;0;0;759;759;0;0;215;194;21;0;0
+556;Diensten van omroepen en uitgeverijen;2007;784;0;0;0;784;784;0;0;220;188;32;0;0
+557;Diensten van omroepen en uitgeverijen;2008;888;0;0;0;888;888;0;0;221;220;1;0;0
+558;Diensten van omroepen en uitgeverijen;2009;902;0;0;0;902;902;0;0;218;209;9;0;0
+559;Diensten van omroepen en uitgeverijen;2010*;902;0;0;0;902;902;0;0;199;197;2;0;0
+560;Diensten maatschappelijke organisaties;2003;0;0;0;0;0;0;0;0;0;0;0;0;0
+561;Diensten maatschappelijke organisaties;2004;0;0;0;0;0;0;0;0;0;0;0;0;0
+562;Diensten maatschappelijke organisaties;2005;0;0;0;0;0;0;0;0;0;0;0;0;0
+563;Diensten maatschappelijke organisaties;2006;0;0;0;0;0;0;0;0;0;0;0;0;0
+564;Diensten maatschappelijke organisaties;2007;0;0;0;0;0;0;0;0;0;0;0;0;0
+565;Diensten maatschappelijke organisaties;2008;0;0;0;0;0;0;0;0;0;0;0;0;0
+566;Diensten maatschappelijke organisaties;2009;0;0;0;0;0;0;0;0;0;0;0;0;0
+567;Diensten maatschappelijke organisaties;2010*;0;0;0;0;0;0;0;0;0;0;0;0;0
+568;Onderzoek recreatie, cultuur en religie;2003;3;0;2;0;2;2;0;0;0;0;0;0;0
+569;Onderzoek recreatie, cultuur en religie;2004;4;0;2;0;2;2;0;0;0;0;0;0;0
+570;Onderzoek recreatie, cultuur en religie;2005;4;0;3;0;2;2;0;0;0;0;0;0;0
+571;Onderzoek recreatie, cultuur en religie;2006;67;0;38;0;29;29;0;0;0;0;0;0;0
+572;Onderzoek recreatie, cultuur en religie;2007;4;0;2;0;3;3;0;0;0;0;0;0;0
+573;Onderzoek recreatie, cultuur en religie;2008;6;0;1;0;5;5;0;0;0;0;0;0;0
+574;Onderzoek recreatie, cultuur en religie;2009;3;0;1;0;2;2;0;0;0;0;0;0;0
+575;Onderzoek recreatie, cultuur en religie;2010*;4;0;1;0;3;3;0;0;0;0;0;0;0
+576;Recreatie, cultuur en religie (overig);2003;0;0;0;0;0;0;0;0;0;0;0;0;0
+577;Recreatie, cultuur en religie (overig);2004;0;0;0;0;0;0;0;0;0;0;0;0;0
+578;Recreatie, cultuur en religie (overig);2005;40;28;13;0;0;0;0;0;0;0;0;0;0
+579;Recreatie, cultuur en religie (overig);2006;0;0;0;0;0;0;0;0;0;0;0;0;0
+580;Recreatie, cultuur en religie (overig);2007;0;0;0;0;0;0;0;0;0;0;0;0;0
+581;Recreatie, cultuur en religie (overig);2008;0;0;0;0;0;0;0;0;0;0;0;0;0
+582;Recreatie, cultuur en religie (overig);2009;0;0;0;0;0;0;0;0;0;0;0;0;0
+583;Recreatie, cultuur en religie (overig);2010*;0;0;0;0;0;0;0;0;0;0;0;0;0
+584;Totaal onderwijs;2003;20834;166;128;0;20507;19462;1044;33;533;419;90;18;6
+585;Totaal onderwijs;2004;21604;171;95;0;21313;20149;1164;24;554;458;91;1;3
+586;Totaal onderwijs;2005;22252;121;138;0;21963;20635;1329;29;322;220;95;2;5
+587;Totaal onderwijs;2006;23428;114;142;0;23138;21861;1277;35;308;190;114;2;3
+588;Totaal onderwijs;2007;24103;118;133;0;23818;22222;1596;34;325;199;123;0;3
+589;Totaal onderwijs;2008;25610;124;185;0;25265;23370;1895;36;334;185;146;0;3
+590;Totaal onderwijs;2009;27120;132;218;0;26717;24823;1894;53;396;193;177;0;26
+591;Totaal onderwijs;2010*;27070;216;317;0;26470;24496;1974;68;465;230;207;0;28
+592;Onderwijs (algemeen);2003;30;1;-4;0;0;0;0;33;0;0;0;0;0
+593;Onderwijs (algemeen);2004;26;1;2;0;0;0;0;23;0;0;0;0;0
+594;Onderwijs (algemeen);2005;29;0;2;0;0;0;0;26;0;0;0;0;0
+595;Onderwijs (algemeen);2006;31;0;3;0;0;0;0;28;0;0;0;0;0
+596;Onderwijs (algemeen);2007;36;0;3;0;0;0;0;33;0;0;0;0;0
+597;Onderwijs (algemeen);2008;72;0;38;0;0;0;0;35;0;0;0;0;0
+598;Onderwijs (algemeen);2009;108;0;55;0;0;0;0;53;18;0;0;0;18
+599;Onderwijs (algemeen);2010*;116;0;61;0;0;0;0;55;21;0;0;0;21
+600;Pre-primair en primair onderwijs;2003;7252;5;3;0;7245;7245;0;0;9;5;0;2;2
+601;Pre-primair en primair onderwijs;2004;7482;2;10;0;7471;7471;0;0;6;5;0;1;0
+602;Pre-primair en primair onderwijs;2005;7728;2;6;0;7721;7721;0;0;9;5;0;2;2
+603;Pre-primair en primair onderwijs;2006;8162;1;6;0;8155;8155;0;0;7;5;0;2;0
+604;Pre-primair en primair onderwijs;2007;8469;0;7;0;8462;8462;0;0;2;2;0;0;0
+605;Pre-primair en primair onderwijs;2008;8941;0;6;0;8935;8935;0;0;3;3;0;0;0
+606;Pre-primair en primair onderwijs;2009;9498;0;5;0;9493;9493;0;0;2;2;0;0;0
+607;Pre-primair en primair onderwijs;2010*;9572;0;5;0;9567;9567;0;0;2;2;0;0;0
+608;Secundair onderwijs;2003;8613;5;8;0;8600;8390;210;0;452;409;27;15;0
+609;Secundair onderwijs;2004;9145;0;9;0;9136;8919;217;0;450;450;0;0;0
+610;Secundair onderwijs;2005;9373;0;9;0;9363;9159;204;0;232;203;29;0;0
+611;Secundair onderwijs;2006;10175;0;9;0;10166;9884;282;0;181;181;0;0;0
+612;Secundair onderwijs;2007;10288;0;9;0;10278;9812;466;0;189;189;0;0;0
+613;Secundair onderwijs;2008;10895;0;9;0;10886;10321;565;0;180;180;0;0;0
+614;Secundair onderwijs;2009;11303;0;9;0;11294;10718;576;0;188;188;0;0;0
+615;Secundair onderwijs;2010*;11540;0;12;0;11528;10880;648;0;203;203;0;0;0
+616;Postsecundair niet-tertiair onderwijs;2003;33;0;0;0;33;30;3;0;0;0;0;0;0
+617;Postsecundair niet-tertiair onderwijs;2004;34;0;0;0;34;31;3;0;0;0;0;0;0
+618;Postsecundair niet-tertiair onderwijs;2005;36;0;0;0;36;33;3;0;0;0;0;0;0
+619;Postsecundair niet-tertiair onderwijs;2006;39;0;0;0;39;36;4;0;0;0;0;0;0
+620;Postsecundair niet-tertiair onderwijs;2007;42;0;0;0;42;35;6;0;0;0;0;0;0
+621;Postsecundair niet-tertiair onderwijs;2008;42;0;0;0;42;36;6;0;0;0;0;0;0
+622;Postsecundair niet-tertiair onderwijs;2009;39;0;0;0;39;35;5;0;0;0;0;0;0
+623;Postsecundair niet-tertiair onderwijs;2010*;34;0;0;0;34;30;4;0;0;0;0;0;0
+624;Tertiair onderwijs;2003;4130;3;12;0;4115;3291;824;0;63;0;63;0;0
+625;Tertiair onderwijs;2004;4193;0;7;0;4186;3250;936;0;91;0;91;0;0
+626;Tertiair onderwijs;2005;4332;0;6;0;4326;3224;1102;0;66;0;66;0;0
+627;Tertiair onderwijs;2006;4265;0;6;0;4260;3293;967;0;114;0;114;0;0
+628;Tertiair onderwijs;2007;4706;0;6;0;4701;3608;1093;0;123;0;123;0;0
+629;Tertiair onderwijs;2008;5099;0;6;0;5093;3799;1294;0;146;0;146;0;0
+630;Tertiair onderwijs;2009;5338;0;6;0;5332;4043;1289;0;177;0;177;0;0
+631;Tertiair onderwijs;2010*;4847;0;7;0;4840;3518;1323;0;207;0;207;0;0
+632;Onderwijs niet naar niveau ingedeeld;2003;245;0;0;0;245;237;8;0;0;0;0;0;0
+633;Onderwijs niet naar niveau ingedeeld;2004;246;0;0;0;245;238;8;0;0;0;0;0;0
+634;Onderwijs niet naar niveau ingedeeld;2005;267;0;0;0;267;247;20;0;0;0;0;0;0
+635;Onderwijs niet naar niveau ingedeeld;2006;263;0;0;0;263;238;24;0;0;0;0;0;0
+636;Onderwijs niet naar niveau ingedeeld;2007;220;0;0;0;220;190;30;0;0;0;0;0;0
+637;Onderwijs niet naar niveau ingedeeld;2008;223;0;0;0;223;194;29;0;0;0;0;0;0
+638;Onderwijs niet naar niveau ingedeeld;2009;369;0;0;0;369;344;24;0;0;0;0;0;0
+639;Onderwijs niet naar niveau ingedeeld;2010*;324;0;0;0;324;324;0;0;0;0;0;0;0
+640;Ondersteunende diensten voor onderwijs;2003;0;0;0;0;0;0;0;0;0;0;0;0;0
+641;Ondersteunende diensten voor onderwijs;2004;0;0;0;0;0;0;0;0;0;0;0;0;0
+642;Ondersteunende diensten voor onderwijs;2005;0;0;0;0;0;0;0;0;0;0;0;0;0
+643;Ondersteunende diensten voor onderwijs;2006;0;0;0;0;0;0;0;0;0;0;0;0;0
+644;Ondersteunende diensten voor onderwijs;2007;0;0;0;0;0;0;0;0;0;0;0;0;0
+645;Ondersteunende diensten voor onderwijs;2008;0;0;0;0;0;0;0;0;0;0;0;0;0
+646;Ondersteunende diensten voor onderwijs;2009;0;0;0;0;0;0;0;0;0;0;0;0;0
+647;Ondersteunende diensten voor onderwijs;2010*;0;0;0;0;0;0;0;0;0;0;0;0;0
+648;Onderzoek op het gebied van onderwijs;2003;64;0;0;0;64;64;0;0;0;0;0;0;0
+649;Onderzoek op het gebied van onderwijs;2004;62;0;0;0;62;62;0;0;0;0;0;0;0
+650;Onderzoek op het gebied van onderwijs;2005;64;0;0;0;64;64;0;0;0;0;0;0;0
+651;Onderzoek op het gebied van onderwijs;2006;51;0;0;0;51;51;0;0;0;0;0;0;0
+652;Onderzoek op het gebied van onderwijs;2007;51;0;0;0;51;51;0;0;0;0;0;0;0
+653;Onderzoek op het gebied van onderwijs;2008;51;0;0;0;51;51;0;0;0;0;0;0;0
+654;Onderzoek op het gebied van onderwijs;2009;52;0;0;0;52;52;0;0;0;0;0;0;0
+655;Onderzoek op het gebied van onderwijs;2010*;52;0;0;0;52;52;0;0;0;0;0;0;0
+656;Onderwijs (overig);2003;468;153;110;0;206;206;0;-1;9;5;0;0;4
+657;Onderwijs (overig);2004;416;168;67;0;179;179;0;1;7;4;0;0;3
+658;Onderwijs (overig);2005;424;120;115;0;187;187;0;3;15;12;0;0;3
+659;Onderwijs (overig);2006;442;113;119;0;204;204;0;7;7;4;0;0;3
+660;Onderwijs (overig);2007;291;118;108;0;65;65;0;1;11;8;0;0;3
+661;Onderwijs (overig);2008;286;124;127;0;35;35;0;1;5;2;0;0;3
+662;Onderwijs (overig);2009;407;132;137;0;138;138;0;0;6;3;0;0;3
+663;Onderwijs (overig);2010*;582;216;228;0;125;125;0;13;27;24;0;0;3
+664;Totaal sociale bescherming;2003;20564;391;484;0;19597;19597;0;92;88;57;0;9;22
+665;Totaal sociale bescherming;2004;20455;399;500;0;19484;19484;0;72;95;46;0;34;15
+666;Totaal sociale bescherming;2005;22061;383;470;0;21123;21120;3;85;32;51;0;-30;10
+667;Totaal sociale bescherming;2006;26857;414;494;0;25858;25858;0;91;19;53;0;-41;7
+668;Totaal sociale bescherming;2007;30506;440;535;0;29426;29426;0;106;586;50;0;530;6
+669;Totaal sociale bescherming;2008;31193;484;631;0;29994;29994;0;83;737;58;0;672;7
+670;Totaal sociale bescherming;2009;37056;507;822;0;35616;35563;53;112;798;51;0;688;59
+671;Totaal sociale bescherming;2010*;39603;504;836;0;38161;38079;82;102;838;66;0;709;63
+672;Sociale bescherming (algemeen);2003;5555;110;81;0;5325;6520;-1195;38;10;9;0;1;0
+673;Sociale bescherming (algemeen);2004;5406;114;104;0;5156;5156;0;32;7;6;0;1;0
+674;Sociale bescherming (algemeen);2005;243;88;79;0;42;42;0;35;7;6;0;0;0
+675;Sociale bescherming (algemeen);2006;270;88;93;0;56;56;0;34;13;13;0;1;0
+676;Sociale bescherming (algemeen);2007;242;80;87;0;30;30;0;45;8;8;0;0;0
+677;Sociale bescherming (algemeen);2008;224;89;84;0;27;27;0;25;10;10;0;0;0
+678;Sociale bescherming (algemeen);2009;230;92;105;0;8;8;0;25;31;7;0;0;23
+679;Sociale bescherming (algemeen);2010*;233;87;113;0;4;4;0;30;31;6;0;0;25
+680;Ziekte en arbeidsongeschiktheid;2003;1772;3;52;0;1717;1717;0;0;0;0;0;0;0
+681;Ziekte en arbeidsongeschiktheid;2004;1826;3;64;0;1759;1759;0;0;0;0;0;0;0
+682;Ziekte en arbeidsongeschiktheid;2005;2130;4;59;0;2067;2067;0;0;0;0;0;0;0
+683;Ziekte en arbeidsongeschiktheid;2006;2200;3;67;0;2129;2129;0;0;0;0;0;0;0
+684;Ziekte en arbeidsongeschiktheid;2007;2337;3;73;0;2260;2260;0;0;0;0;0;0;0
+685;Ziekte en arbeidsongeschiktheid;2008;2646;0;137;0;2509;2509;0;0;0;0;0;0;0
+686;Ziekte en arbeidsongeschiktheid;2009;2842;0;196;0;2646;2646;0;0;0;0;0;0;0
+687;Ziekte en arbeidsongeschiktheid;2010*;3428;0;190;0;3238;3238;0;0;0;0;0;0;0
+688;Ouderdom;2003;4352;3;18;0;4331;3136;1195;0;0;0;0;0;0
+689;Ouderdom;2004;4333;3;18;0;4312;4312;0;0;0;0;0;0;0
+690;Ouderdom;2005;6102;5;10;0;6087;6087;0;0;-35;0;0;-35;0
+691;Ouderdom;2006;7943;6;5;0;7932;7932;0;0;-50;0;0;-50;0
+692;Ouderdom;2007;9510;6;21;0;9484;9484;0;0;0;0;0;0;0
+693;Ouderdom;2008;7622;6;11;0;7605;7605;0;0;0;0;0;0;0
+694;Ouderdom;2009;12038;6;18;0;12015;12015;0;0;0;0;0;0;0
+695;Ouderdom;2010*;13423;9;45;0;13368;13344;24;0;1;1;0;0;0
+696;Nabestaanden;2003;19;0;1;0;18;18;0;0;0;0;0;0;0
+697;Nabestaanden;2004;207;0;1;0;206;206;0;0;0;0;0;0;0
+698;Nabestaanden;2005;177;0;0;0;177;177;0;0;0;0;0;0;0
+699;Nabestaanden;2006;196;0;0;0;196;196;0;0;0;0;0;0;0
+700;Nabestaanden;2007;233;0;0;0;233;233;0;0;0;0;0;0;0
+701;Nabestaanden;2008;62;0;0;0;62;62;0;0;0;0;0;0;0
+702;Nabestaanden;2009;122;0;0;0;122;95;27;0;0;0;0;0;0
+703;Nabestaanden;2010*;220;0;0;0;220;220;0;0;0;0;0;0;0
+704;Gezin en kinderen;2003;4733;96;98;0;4519;4519;0;20;7;0;0;4;3
+705;Gezin en kinderen;2004;4818;95;108;0;4597;4597;0;18;8;0;0;4;3
+706;Gezin en kinderen;2005;5058;98;110;0;4833;4833;0;18;8;2;0;4;2
+707;Gezin en kinderen;2006;5541;109;111;0;5305;5305;0;17;6;0;0;5;2
+708;Gezin en kinderen;2007;6978;120;120;0;6718;6718;0;20;530;1;0;529;1
+709;Gezin en kinderen;2008;8616;145;138;0;8320;8320;0;15;675;3;0;672;0
+710;Gezin en kinderen;2009;9211;145;175;0;8870;8870;0;21;698;4;0;688;6
+711;Gezin en kinderen;2010*;9203;146;172;0;8864;8864;0;21;722;7;0;709;7
+712;Werkloosheid;2003;90;0;6;0;84;84;0;0;0;0;0;0;0
+713;Werkloosheid;2004;66;0;6;0;60;60;0;0;0;0;0;0;0
+714;Werkloosheid;2005;4717;0;6;0;4712;4712;0;0;0;0;0;0;0
+715;Werkloosheid;2006;4288;0;7;0;4281;4281;0;0;0;0;0;0;0
+716;Werkloosheid;2007;3961;2;1;0;3957;3957;0;0;0;0;0;0;0
+717;Werkloosheid;2008;3997;0;9;0;3988;3988;0;0;0;0;0;0;0
+718;Werkloosheid;2009;3989;0;8;0;3981;3981;0;0;0;0;0;0;0
+719;Werkloosheid;2010*;4016;0;7;0;4009;4009;0;0;0;0;0;0;0
+720;Huisvesting;2003;1606;0;2;0;1604;1604;0;0;0;0;0;0;0
+721;Huisvesting;2004;1650;0;2;0;1649;1649;0;0;28;0;0;28;0
+722;Huisvesting;2005;1688;0;1;0;1687;1687;0;0;0;0;0;0;0
+723;Huisvesting;2006;2028;0;1;0;2027;2027;0;0;0;0;0;0;0
+724;Huisvesting;2007;2163;1;14;0;2149;2149;0;0;0;0;0;0;0
+725;Huisvesting;2008;2183;5;13;0;2165;2165;0;0;0;0;0;0;0
+726;Huisvesting;2009;2164;9;5;0;2150;2150;0;0;0;0;0;0;0
+727;Huisvesting;2010*;2250;5;3;0;2242;2242;0;0;0;0;0;0;0
+728;Sociale uitsluiting niet eerder genoemd;2003;1998;177;193;0;1595;1595;0;34;68;47;0;4;18
+729;Sociale uitsluiting niet eerder genoemd;2004;1715;183;168;0;1342;1342;0;23;52;40;0;1;12
+730;Sociale uitsluiting niet eerder genoemd;2005;1541;187;176;0;1146;1146;0;32;52;44;0;0;8
+731;Sociale uitsluiting niet eerder genoemd;2006;3999;206;181;0;3572;3572;0;40;49;40;0;4;6
+732;Sociale uitsluiting niet eerder genoemd;2007;4685;227;191;0;4227;4227;0;41;47;41;0;1;5
+733;Sociale uitsluiting niet eerder genoemd;2008;5446;238;210;0;4955;4955;0;44;53;46;0;0;7
+734;Sociale uitsluiting niet eerder genoemd;2009;6063;254;284;0;5458;5433;26;66;68;40;0;0;28
+735;Sociale uitsluiting niet eerder genoemd;2010*;6777;257;278;0;6192;6133;59;51;83;52;0;0;31
+736;Onderzoek inzake sociale bescherming;2003;0;0;0;0;0;0;0;0;0;0;0;0;0
+737;Onderzoek inzake sociale bescherming;2004;1;0;0;0;1;1;0;0;0;0;0;0;0
+738;Onderzoek inzake sociale bescherming;2005;1;0;0;0;1;1;0;0;0;0;0;0;0
+739;Onderzoek inzake sociale bescherming;2006;0;0;0;0;0;0;0;0;0;0;0;0;0
+740;Onderzoek inzake sociale bescherming;2007;0;0;0;0;0;0;0;0;0;0;0;0;0
+741;Onderzoek inzake sociale bescherming;2008;0;0;0;0;0;0;0;0;0;0;0;0;0
+742;Onderzoek inzake sociale bescherming;2009;0;0;0;0;0;0;0;0;0;0;0;0;0
+743;Onderzoek inzake sociale bescherming;2010*;0;0;0;0;0;0;0;0;0;0;0;0;0
+744;Sociale bescherming (overig);2003;439;1;34;0;404;404;0;0;2;0;0;0;2
+745;Sociale bescherming (overig);2004;434;1;31;0;402;402;0;0;0;0;0;0;0
+746;Sociale bescherming (overig);2005;403;1;29;0;373;370;3;0;0;0;0;0;0
+747;Sociale bescherming (overig);2006;393;1;30;0;361;361;0;0;0;0;0;0;0
+748;Sociale bescherming (overig);2007;398;1;30;0;368;368;0;0;0;0;0;0;0
+749;Sociale bescherming (overig);2008;397;1;31;0;364;364;0;0;0;0;0;0;0
+750;Sociale bescherming (overig);2009;399;1;32;0;366;366;0;0;1;0;0;0;1
+751;Sociale bescherming (overig);2010*;55;1;29;0;25;25;0;0;0;0;0;0;0

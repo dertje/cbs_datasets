@@ -1,0 +1,2629 @@
+﻿ID;Bedrijfsgroep;Geslacht;Dienstvorm;Personen_1
+0;0;Totaal mannen en vrouwen;Totaal van alle dienstvormen;3185816
+1;0;Totaal mannen en vrouwen;Staat;81334
+2;0;Totaal mannen en vrouwen;Provincie;3990
+3;0;Totaal mannen en vrouwen;Gemeente;112456
+4;0;Totaal mannen en vrouwen;Waterschap;4129
+5;0;Totaal mannen en vrouwen;Particulier;2983907
+6;0;Mannen;Totaal van alle dienstvormen;2418237
+7;0;Mannen;Staat;69912
+8;0;Mannen;Provincie;3258
+9;0;Mannen;Gemeente;90714
+10;0;Mannen;Waterschap;4075
+11;0;Mannen;Particulier;2250278
+12;0;Vrouwen;Totaal van alle dienstvormen;767579
+13;0;Vrouwen;Staat;11422
+14;0;Vrouwen;Provincie;732
+15;0;Vrouwen;Gemeente;21742
+16;0;Vrouwen;Waterschap;54
+17;0;Vrouwen;Particulier;733629
+18;111;Totaal mannen en vrouwen;Totaal van alle dienstvormen;3496
+19;111;Totaal mannen en vrouwen;Staat;0
+20;111;Totaal mannen en vrouwen;Provincie;0
+21;111;Totaal mannen en vrouwen;Gemeente;5
+22;111;Totaal mannen en vrouwen;Waterschap;0
+23;111;Totaal mannen en vrouwen;Particulier;3491
+24;111;Mannen;Totaal van alle dienstvormen;3453
+25;111;Mannen;Staat;0
+26;111;Mannen;Provincie;0
+27;111;Mannen;Gemeente;5
+28;111;Mannen;Waterschap;0
+29;111;Mannen;Particulier;3448
+30;111;Vrouwen;Totaal van alle dienstvormen;43
+31;111;Vrouwen;Staat;0
+32;111;Vrouwen;Provincie;0
+33;111;Vrouwen;Gemeente;0
+34;111;Vrouwen;Waterschap;0
+35;111;Vrouwen;Particulier;43
+36;301;Totaal mannen en vrouwen;Totaal van alle dienstvormen;24319
+37;301;Totaal mannen en vrouwen;Staat;282
+38;301;Totaal mannen en vrouwen;Provincie;0
+39;301;Totaal mannen en vrouwen;Gemeente;123
+40;301;Totaal mannen en vrouwen;Waterschap;0
+41;301;Totaal mannen en vrouwen;Particulier;23914
+42;301;Mannen;Totaal van alle dienstvormen;22881
+43;301;Mannen;Staat;275
+44;301;Mannen;Provincie;0
+45;301;Mannen;Gemeente;115
+46;301;Mannen;Waterschap;0
+47;301;Mannen;Particulier;22491
+48;301;Vrouwen;Totaal van alle dienstvormen;1438
+49;301;Vrouwen;Staat;7
+50;301;Vrouwen;Provincie;0
+51;301;Vrouwen;Gemeente;8
+52;301;Vrouwen;Waterschap;0
+53;301;Vrouwen;Particulier;1423
+54;302;Totaal mannen en vrouwen;Totaal van alle dienstvormen;3251
+55;302;Totaal mannen en vrouwen;Staat;148
+56;302;Totaal mannen en vrouwen;Provincie;0
+57;302;Totaal mannen en vrouwen;Gemeente;10
+58;302;Totaal mannen en vrouwen;Waterschap;0
+59;302;Totaal mannen en vrouwen;Particulier;3093
+60;302;Mannen;Totaal van alle dienstvormen;2856
+61;302;Mannen;Staat;110
+62;302;Mannen;Provincie;0
+63;302;Mannen;Gemeente;9
+64;302;Mannen;Waterschap;0
+65;302;Mannen;Particulier;2737
+66;302;Vrouwen;Totaal van alle dienstvormen;395
+67;302;Vrouwen;Staat;38
+68;302;Vrouwen;Provincie;0
+69;302;Vrouwen;Gemeente;1
+70;302;Vrouwen;Waterschap;0
+71;302;Vrouwen;Particulier;356
+72;402;Totaal mannen en vrouwen;Totaal van alle dienstvormen;2853
+73;402;Totaal mannen en vrouwen;Staat;7
+74;402;Totaal mannen en vrouwen;Provincie;3
+75;402;Totaal mannen en vrouwen;Gemeente;2736
+76;402;Totaal mannen en vrouwen;Waterschap;0
+77;402;Totaal mannen en vrouwen;Particulier;107
+78;402;Mannen;Totaal van alle dienstvormen;2736
+79;402;Mannen;Staat;6
+80;402;Mannen;Provincie;3
+81;402;Mannen;Gemeente;2625
+82;402;Mannen;Waterschap;0
+83;402;Mannen;Particulier;102
+84;402;Vrouwen;Totaal van alle dienstvormen;117
+85;402;Vrouwen;Staat;1
+86;402;Vrouwen;Provincie;0
+87;402;Vrouwen;Gemeente;111
+88;402;Vrouwen;Waterschap;0
+89;402;Vrouwen;Particulier;5
+90;403;Totaal mannen en vrouwen;Totaal van alle dienstvormen;123934
+91;403;Totaal mannen en vrouwen;Staat;287
+92;403;Totaal mannen en vrouwen;Provincie;6
+93;403;Totaal mannen en vrouwen;Gemeente;3437
+94;403;Totaal mannen en vrouwen;Waterschap;16
+95;403;Totaal mannen en vrouwen;Particulier;120188
+96;403;Mannen;Totaal van alle dienstvormen;123490
+97;403;Mannen;Staat;271
+98;403;Mannen;Provincie;6
+99;403;Mannen;Gemeente;3350
+100;403;Mannen;Waterschap;16
+101;403;Mannen;Particulier;119847
+102;403;Vrouwen;Totaal van alle dienstvormen;444
+103;403;Vrouwen;Staat;16
+104;403;Vrouwen;Provincie;0
+105;403;Vrouwen;Gemeente;87
+106;403;Vrouwen;Waterschap;0
+107;403;Vrouwen;Particulier;341
+108;405;Totaal mannen en vrouwen;Totaal van alle dienstvormen;6684
+109;405;Totaal mannen en vrouwen;Staat;2
+110;405;Totaal mannen en vrouwen;Provincie;1
+111;405;Totaal mannen en vrouwen;Gemeente;54
+112;405;Totaal mannen en vrouwen;Waterschap;1
+113;405;Totaal mannen en vrouwen;Particulier;6626
+114;405;Mannen;Totaal van alle dienstvormen;6625
+115;405;Mannen;Staat;2
+116;405;Mannen;Provincie;1
+117;405;Mannen;Gemeente;54
+118;405;Mannen;Waterschap;1
+119;405;Mannen;Particulier;6567
+120;405;Vrouwen;Totaal van alle dienstvormen;59
+121;405;Vrouwen;Staat;0
+122;405;Vrouwen;Provincie;0
+123;405;Vrouwen;Gemeente;0
+124;405;Vrouwen;Waterschap;0
+125;405;Vrouwen;Particulier;59
+126;406;Totaal mannen en vrouwen;Totaal van alle dienstvormen;510
+127;406;Totaal mannen en vrouwen;Staat;0
+128;406;Totaal mannen en vrouwen;Provincie;0
+129;406;Totaal mannen en vrouwen;Gemeente;6
+130;406;Totaal mannen en vrouwen;Waterschap;0
+131;406;Totaal mannen en vrouwen;Particulier;504
+132;406;Mannen;Totaal van alle dienstvormen;505
+133;406;Mannen;Staat;0
+134;406;Mannen;Provincie;0
+135;406;Mannen;Gemeente;5
+136;406;Mannen;Waterschap;0
+137;406;Mannen;Particulier;500
+138;406;Vrouwen;Totaal van alle dienstvormen;5
+139;406;Vrouwen;Staat;0
+140;406;Vrouwen;Provincie;0
+141;406;Vrouwen;Gemeente;1
+142;406;Vrouwen;Waterschap;0
+143;406;Vrouwen;Particulier;4
+144;407;Totaal mannen en vrouwen;Totaal van alle dienstvormen;36403
+145;407;Totaal mannen en vrouwen;Staat;939
+146;407;Totaal mannen en vrouwen;Provincie;345
+147;407;Totaal mannen en vrouwen;Gemeente;2783
+148;407;Totaal mannen en vrouwen;Waterschap;1438
+149;407;Totaal mannen en vrouwen;Particulier;30898
+150;407;Mannen;Totaal van alle dienstvormen;36282
+151;407;Mannen;Staat;906
+152;407;Mannen;Provincie;343
+153;407;Mannen;Gemeente;2778
+154;407;Mannen;Waterschap;1438
+155;407;Mannen;Particulier;30817
+156;407;Vrouwen;Totaal van alle dienstvormen;121
+157;407;Vrouwen;Staat;33
+158;407;Vrouwen;Provincie;2
+159;407;Vrouwen;Gemeente;5
+160;407;Vrouwen;Waterschap;0
+161;407;Vrouwen;Particulier;81
+162;409;Totaal mannen en vrouwen;Totaal van alle dienstvormen;4754
+163;409;Totaal mannen en vrouwen;Staat;13
+164;409;Totaal mannen en vrouwen;Provincie;7
+165;409;Totaal mannen en vrouwen;Gemeente;2683
+166;409;Totaal mannen en vrouwen;Waterschap;20
+167;409;Totaal mannen en vrouwen;Particulier;2031
+168;409;Mannen;Totaal van alle dienstvormen;4752
+169;409;Mannen;Staat;13
+170;409;Mannen;Provincie;7
+171;409;Mannen;Gemeente;2681
+172;409;Mannen;Waterschap;20
+173;409;Mannen;Particulier;2031
+174;409;Vrouwen;Totaal van alle dienstvormen;2
+175;409;Vrouwen;Staat;0
+176;409;Vrouwen;Provincie;0
+177;409;Vrouwen;Gemeente;2
+178;409;Vrouwen;Waterschap;0
+179;409;Vrouwen;Particulier;0
+180;410;Totaal mannen en vrouwen;Totaal van alle dienstvormen;7534
+181;410;Totaal mannen en vrouwen;Staat;607
+182;410;Totaal mannen en vrouwen;Provincie;634
+183;410;Totaal mannen en vrouwen;Gemeente;2422
+184;410;Totaal mannen en vrouwen;Waterschap;776
+185;410;Totaal mannen en vrouwen;Particulier;3095
+186;410;Mannen;Totaal van alle dienstvormen;7519
+187;410;Mannen;Staat;604
+188;410;Mannen;Provincie;634
+189;410;Mannen;Gemeente;2422
+190;410;Mannen;Waterschap;776
+191;410;Mannen;Particulier;3083
+192;410;Vrouwen;Totaal van alle dienstvormen;15
+193;410;Vrouwen;Staat;3
+194;410;Vrouwen;Provincie;0
+195;410;Vrouwen;Gemeente;0
+196;410;Vrouwen;Waterschap;0
+197;410;Vrouwen;Particulier;12
+198;411;Totaal mannen en vrouwen;Totaal van alle dienstvormen;8337
+199;411;Totaal mannen en vrouwen;Staat;0
+200;411;Totaal mannen en vrouwen;Provincie;0
+201;411;Totaal mannen en vrouwen;Gemeente;17
+202;411;Totaal mannen en vrouwen;Waterschap;0
+203;411;Totaal mannen en vrouwen;Particulier;8320
+204;411;Mannen;Totaal van alle dienstvormen;8334
+205;411;Mannen;Staat;0
+206;411;Mannen;Provincie;0
+207;411;Mannen;Gemeente;17
+208;411;Mannen;Waterschap;0
+209;411;Mannen;Particulier;8317
+210;411;Vrouwen;Totaal van alle dienstvormen;3
+211;411;Vrouwen;Staat;0
+212;411;Vrouwen;Provincie;0
+213;411;Vrouwen;Gemeente;0
+214;411;Vrouwen;Waterschap;0
+215;411;Vrouwen;Particulier;3
+216;412;Totaal mannen en vrouwen;Totaal van alle dienstvormen;39320
+217;412;Totaal mannen en vrouwen;Staat;3
+218;412;Totaal mannen en vrouwen;Provincie;0
+219;412;Totaal mannen en vrouwen;Gemeente;506
+220;412;Totaal mannen en vrouwen;Waterschap;4
+221;412;Totaal mannen en vrouwen;Particulier;38807
+222;412;Mannen;Totaal van alle dienstvormen;39224
+223;412;Mannen;Staat;3
+224;412;Mannen;Provincie;0
+225;412;Mannen;Gemeente;505
+226;412;Mannen;Waterschap;4
+227;412;Mannen;Particulier;38712
+228;412;Vrouwen;Totaal van alle dienstvormen;96
+229;412;Vrouwen;Staat;0
+230;412;Vrouwen;Provincie;0
+231;412;Vrouwen;Gemeente;1
+232;412;Vrouwen;Waterschap;0
+233;412;Vrouwen;Particulier;95
+234;413;Totaal mannen en vrouwen;Totaal van alle dienstvormen;2462
+235;413;Totaal mannen en vrouwen;Staat;2
+236;413;Totaal mannen en vrouwen;Provincie;0
+237;413;Totaal mannen en vrouwen;Gemeente;21
+238;413;Totaal mannen en vrouwen;Waterschap;1
+239;413;Totaal mannen en vrouwen;Particulier;2438
+240;413;Mannen;Totaal van alle dienstvormen;2425
+241;413;Mannen;Staat;2
+242;413;Mannen;Provincie;0
+243;413;Mannen;Gemeente;21
+244;413;Mannen;Waterschap;1
+245;413;Mannen;Particulier;2401
+246;413;Vrouwen;Totaal van alle dienstvormen;37
+247;413;Vrouwen;Staat;0
+248;413;Vrouwen;Provincie;0
+249;413;Vrouwen;Gemeente;0
+250;413;Vrouwen;Waterschap;0
+251;413;Vrouwen;Particulier;37
+252;416;Totaal mannen en vrouwen;Totaal van alle dienstvormen;10308
+253;416;Totaal mannen en vrouwen;Staat;1
+254;416;Totaal mannen en vrouwen;Provincie;0
+255;416;Totaal mannen en vrouwen;Gemeente;37
+256;416;Totaal mannen en vrouwen;Waterschap;0
+257;416;Totaal mannen en vrouwen;Particulier;10270
+258;416;Mannen;Totaal van alle dienstvormen;9710
+259;416;Mannen;Staat;1
+260;416;Mannen;Provincie;0
+261;416;Mannen;Gemeente;34
+262;416;Mannen;Waterschap;0
+263;416;Mannen;Particulier;9675
+264;416;Vrouwen;Totaal van alle dienstvormen;598
+265;416;Vrouwen;Staat;0
+266;416;Vrouwen;Provincie;0
+267;416;Vrouwen;Gemeente;3
+268;416;Vrouwen;Waterschap;0
+269;416;Vrouwen;Particulier;595
+270;417;Totaal mannen en vrouwen;Totaal van alle dienstvormen;3232
+271;417;Totaal mannen en vrouwen;Staat;0
+272;417;Totaal mannen en vrouwen;Provincie;0
+273;417;Totaal mannen en vrouwen;Gemeente;748
+274;417;Totaal mannen en vrouwen;Waterschap;0
+275;417;Totaal mannen en vrouwen;Particulier;2484
+276;417;Mannen;Totaal van alle dienstvormen;1882
+277;417;Mannen;Staat;0
+278;417;Mannen;Provincie;0
+279;417;Mannen;Gemeente;91
+280;417;Mannen;Waterschap;0
+281;417;Mannen;Particulier;1791
+282;417;Vrouwen;Totaal van alle dienstvormen;1350
+283;417;Vrouwen;Staat;0
+284;417;Vrouwen;Provincie;0
+285;417;Vrouwen;Gemeente;657
+286;417;Vrouwen;Waterschap;0
+287;417;Vrouwen;Particulier;693
+288;419;Totaal mannen en vrouwen;Totaal van alle dienstvormen;64
+289;419;Totaal mannen en vrouwen;Staat;0
+290;419;Totaal mannen en vrouwen;Provincie;0
+291;419;Totaal mannen en vrouwen;Gemeente;3
+292;419;Totaal mannen en vrouwen;Waterschap;0
+293;419;Totaal mannen en vrouwen;Particulier;61
+294;419;Mannen;Totaal van alle dienstvormen;63
+295;419;Mannen;Staat;0
+296;419;Mannen;Provincie;0
+297;419;Mannen;Gemeente;3
+298;419;Mannen;Waterschap;0
+299;419;Mannen;Particulier;60
+300;419;Vrouwen;Totaal van alle dienstvormen;1
+301;419;Vrouwen;Staat;0
+302;419;Vrouwen;Provincie;0
+303;419;Vrouwen;Gemeente;0
+304;419;Vrouwen;Waterschap;0
+305;419;Vrouwen;Particulier;1
+306;420;Totaal mannen en vrouwen;Totaal van alle dienstvormen;7292
+307;420;Totaal mannen en vrouwen;Staat;13
+308;420;Totaal mannen en vrouwen;Provincie;0
+309;420;Totaal mannen en vrouwen;Gemeente;7003
+310;420;Totaal mannen en vrouwen;Waterschap;1
+311;420;Totaal mannen en vrouwen;Particulier;275
+312;420;Mannen;Totaal van alle dienstvormen;7190
+313;420;Mannen;Staat;12
+314;420;Mannen;Provincie;0
+315;420;Mannen;Gemeente;6910
+316;420;Mannen;Waterschap;1
+317;420;Mannen;Particulier;267
+318;420;Vrouwen;Totaal van alle dienstvormen;102
+319;420;Vrouwen;Staat;1
+320;420;Vrouwen;Provincie;0
+321;420;Vrouwen;Gemeente;93
+322;420;Vrouwen;Waterschap;0
+323;420;Vrouwen;Particulier;8
+324;517;Totaal mannen en vrouwen;Totaal van alle dienstvormen;280
+325;517;Totaal mannen en vrouwen;Staat;48
+326;517;Totaal mannen en vrouwen;Provincie;0
+327;517;Totaal mannen en vrouwen;Gemeente;0
+328;517;Totaal mannen en vrouwen;Waterschap;0
+329;517;Totaal mannen en vrouwen;Particulier;232
+330;517;Mannen;Totaal van alle dienstvormen;270
+331;517;Mannen;Staat;48
+332;517;Mannen;Provincie;0
+333;517;Mannen;Gemeente;0
+334;517;Mannen;Waterschap;0
+335;517;Mannen;Particulier;222
+336;517;Vrouwen;Totaal van alle dienstvormen;10
+337;517;Vrouwen;Staat;0
+338;517;Vrouwen;Provincie;0
+339;517;Vrouwen;Gemeente;0
+340;517;Vrouwen;Waterschap;0
+341;517;Vrouwen;Particulier;10
+342;524;Totaal mannen en vrouwen;Totaal van alle dienstvormen;1774
+343;524;Totaal mannen en vrouwen;Staat;4
+344;524;Totaal mannen en vrouwen;Provincie;0
+345;524;Totaal mannen en vrouwen;Gemeente;0
+346;524;Totaal mannen en vrouwen;Waterschap;0
+347;524;Totaal mannen en vrouwen;Particulier;1770
+348;524;Mannen;Totaal van alle dienstvormen;1243
+349;524;Mannen;Staat;4
+350;524;Mannen;Provincie;0
+351;524;Mannen;Gemeente;0
+352;524;Mannen;Waterschap;0
+353;524;Mannen;Particulier;1239
+354;524;Vrouwen;Totaal van alle dienstvormen;531
+355;524;Vrouwen;Staat;0
+356;524;Vrouwen;Provincie;0
+357;524;Vrouwen;Gemeente;0
+358;524;Vrouwen;Waterschap;0
+359;524;Vrouwen;Particulier;531
+360;529;Totaal mannen en vrouwen;Totaal van alle dienstvormen;4301
+361;529;Totaal mannen en vrouwen;Staat;1
+362;529;Totaal mannen en vrouwen;Provincie;0
+363;529;Totaal mannen en vrouwen;Gemeente;53
+364;529;Totaal mannen en vrouwen;Waterschap;0
+365;529;Totaal mannen en vrouwen;Particulier;4247
+366;529;Mannen;Totaal van alle dienstvormen;1819
+367;529;Mannen;Staat;1
+368;529;Mannen;Provincie;0
+369;529;Mannen;Gemeente;35
+370;529;Mannen;Waterschap;0
+371;529;Mannen;Particulier;1783
+372;529;Vrouwen;Totaal van alle dienstvormen;2482
+373;529;Vrouwen;Staat;0
+374;529;Vrouwen;Provincie;0
+375;529;Vrouwen;Gemeente;18
+376;529;Vrouwen;Waterschap;0
+377;529;Vrouwen;Particulier;2464
+378;603;Totaal mannen en vrouwen;Totaal van alle dienstvormen;5285
+379;603;Totaal mannen en vrouwen;Staat;0
+380;603;Totaal mannen en vrouwen;Provincie;0
+381;603;Totaal mannen en vrouwen;Gemeente;9
+382;603;Totaal mannen en vrouwen;Waterschap;0
+383;603;Totaal mannen en vrouwen;Particulier;5276
+384;603;Mannen;Totaal van alle dienstvormen;5266
+385;603;Mannen;Staat;0
+386;603;Mannen;Provincie;0
+387;603;Mannen;Gemeente;9
+388;603;Mannen;Waterschap;0
+389;603;Mannen;Particulier;5257
+390;603;Vrouwen;Totaal van alle dienstvormen;19
+391;603;Vrouwen;Staat;0
+392;603;Vrouwen;Provincie;0
+393;603;Vrouwen;Gemeente;0
+394;603;Vrouwen;Waterschap;0
+395;603;Vrouwen;Particulier;19
+396;611;Totaal mannen en vrouwen;Totaal van alle dienstvormen;18429
+397;611;Totaal mannen en vrouwen;Staat;0
+398;611;Totaal mannen en vrouwen;Provincie;0
+399;611;Totaal mannen en vrouwen;Gemeente;10
+400;611;Totaal mannen en vrouwen;Waterschap;0
+401;611;Totaal mannen en vrouwen;Particulier;18419
+402;611;Mannen;Totaal van alle dienstvormen;18130
+403;611;Mannen;Staat;0
+404;611;Mannen;Provincie;0
+405;611;Mannen;Gemeente;10
+406;611;Mannen;Waterschap;0
+407;611;Mannen;Particulier;18120
+408;611;Vrouwen;Totaal van alle dienstvormen;299
+409;611;Vrouwen;Staat;0
+410;611;Vrouwen;Provincie;0
+411;611;Vrouwen;Gemeente;0
+412;611;Vrouwen;Waterschap;0
+413;611;Vrouwen;Particulier;299
+414;614;Totaal mannen en vrouwen;Totaal van alle dienstvormen;543
+415;614;Totaal mannen en vrouwen;Staat;0
+416;614;Totaal mannen en vrouwen;Provincie;0
+417;614;Totaal mannen en vrouwen;Gemeente;1
+418;614;Totaal mannen en vrouwen;Waterschap;0
+419;614;Totaal mannen en vrouwen;Particulier;542
+420;614;Mannen;Totaal van alle dienstvormen;505
+421;614;Mannen;Staat;0
+422;614;Mannen;Provincie;0
+423;614;Mannen;Gemeente;1
+424;614;Mannen;Waterschap;0
+425;614;Mannen;Particulier;504
+426;614;Vrouwen;Totaal van alle dienstvormen;38
+427;614;Vrouwen;Staat;0
+428;614;Vrouwen;Provincie;0
+429;614;Vrouwen;Gemeente;0
+430;614;Vrouwen;Waterschap;0
+431;614;Vrouwen;Particulier;38
+432;616;Totaal mannen en vrouwen;Totaal van alle dienstvormen;3583
+433;616;Totaal mannen en vrouwen;Staat;0
+434;616;Totaal mannen en vrouwen;Provincie;0
+435;616;Totaal mannen en vrouwen;Gemeente;20
+436;616;Totaal mannen en vrouwen;Waterschap;0
+437;616;Totaal mannen en vrouwen;Particulier;3563
+438;616;Mannen;Totaal van alle dienstvormen;3559
+439;616;Mannen;Staat;0
+440;616;Mannen;Provincie;0
+441;616;Mannen;Gemeente;20
+442;616;Mannen;Waterschap;0
+443;616;Mannen;Particulier;3539
+444;616;Vrouwen;Totaal van alle dienstvormen;24
+445;616;Vrouwen;Staat;0
+446;616;Vrouwen;Provincie;0
+447;616;Vrouwen;Gemeente;0
+448;616;Vrouwen;Waterschap;0
+449;616;Vrouwen;Particulier;24
+450;617;Totaal mannen en vrouwen;Totaal van alle dienstvormen;853
+451;617;Totaal mannen en vrouwen;Staat;1
+452;617;Totaal mannen en vrouwen;Provincie;0
+453;617;Totaal mannen en vrouwen;Gemeente;8
+454;617;Totaal mannen en vrouwen;Waterschap;0
+455;617;Totaal mannen en vrouwen;Particulier;844
+456;617;Mannen;Totaal van alle dienstvormen;841
+457;617;Mannen;Staat;1
+458;617;Mannen;Provincie;0
+459;617;Mannen;Gemeente;7
+460;617;Mannen;Waterschap;0
+461;617;Mannen;Particulier;833
+462;617;Vrouwen;Totaal van alle dienstvormen;12
+463;617;Vrouwen;Staat;0
+464;617;Vrouwen;Provincie;0
+465;617;Vrouwen;Gemeente;1
+466;617;Vrouwen;Waterschap;0
+467;617;Vrouwen;Particulier;11
+468;618;Totaal mannen en vrouwen;Totaal van alle dienstvormen;1049
+469;618;Totaal mannen en vrouwen;Staat;0
+470;618;Totaal mannen en vrouwen;Provincie;0
+471;618;Totaal mannen en vrouwen;Gemeente;33
+472;618;Totaal mannen en vrouwen;Waterschap;0
+473;618;Totaal mannen en vrouwen;Particulier;1016
+474;618;Mannen;Totaal van alle dienstvormen;1025
+475;618;Mannen;Staat;0
+476;618;Mannen;Provincie;0
+477;618;Mannen;Gemeente;33
+478;618;Mannen;Waterschap;0
+479;618;Mannen;Particulier;992
+480;618;Vrouwen;Totaal van alle dienstvormen;24
+481;618;Vrouwen;Staat;0
+482;618;Vrouwen;Provincie;0
+483;618;Vrouwen;Gemeente;0
+484;618;Vrouwen;Waterschap;0
+485;618;Vrouwen;Particulier;24
+486;620;Totaal mannen en vrouwen;Totaal van alle dienstvormen;2028
+487;620;Totaal mannen en vrouwen;Staat;0
+488;620;Totaal mannen en vrouwen;Provincie;0
+489;620;Totaal mannen en vrouwen;Gemeente;24
+490;620;Totaal mannen en vrouwen;Waterschap;0
+491;620;Totaal mannen en vrouwen;Particulier;2004
+492;620;Mannen;Totaal van alle dienstvormen;1813
+493;620;Mannen;Staat;0
+494;620;Mannen;Provincie;0
+495;620;Mannen;Gemeente;24
+496;620;Mannen;Waterschap;0
+497;620;Mannen;Particulier;1789
+498;620;Vrouwen;Totaal van alle dienstvormen;215
+499;620;Vrouwen;Staat;0
+500;620;Vrouwen;Provincie;0
+501;620;Vrouwen;Gemeente;0
+502;620;Vrouwen;Waterschap;0
+503;620;Vrouwen;Particulier;215
+504;701;Totaal mannen en vrouwen;Totaal van alle dienstvormen;71044
+505;701;Totaal mannen en vrouwen;Staat;194
+506;701;Totaal mannen en vrouwen;Provincie;0
+507;701;Totaal mannen en vrouwen;Gemeente;34
+508;701;Totaal mannen en vrouwen;Waterschap;0
+509;701;Totaal mannen en vrouwen;Particulier;70816
+510;701;Mannen;Totaal van alle dienstvormen;27661
+511;701;Mannen;Staat;135
+512;701;Mannen;Provincie;0
+513;701;Mannen;Gemeente;31
+514;701;Mannen;Waterschap;0
+515;701;Mannen;Particulier;27495
+516;701;Vrouwen;Totaal van alle dienstvormen;43383
+517;701;Vrouwen;Staat;59
+518;701;Vrouwen;Provincie;0
+519;701;Vrouwen;Gemeente;3
+520;701;Vrouwen;Waterschap;0
+521;701;Vrouwen;Particulier;43321
+522;716;Totaal mannen en vrouwen;Totaal van alle dienstvormen;19436
+523;716;Totaal mannen en vrouwen;Staat;37
+524;716;Totaal mannen en vrouwen;Provincie;0
+525;716;Totaal mannen en vrouwen;Gemeente;176
+526;716;Totaal mannen en vrouwen;Waterschap;1
+527;716;Totaal mannen en vrouwen;Particulier;19222
+528;716;Mannen;Totaal van alle dienstvormen;6162
+529;716;Mannen;Staat;27
+530;716;Mannen;Provincie;0
+531;716;Mannen;Gemeente;41
+532;716;Mannen;Waterschap;1
+533;716;Mannen;Particulier;6093
+534;716;Vrouwen;Totaal van alle dienstvormen;13274
+535;716;Vrouwen;Staat;10
+536;716;Vrouwen;Provincie;0
+537;716;Vrouwen;Gemeente;135
+538;716;Vrouwen;Waterschap;0
+539;716;Vrouwen;Particulier;13129
+540;718;Totaal mannen en vrouwen;Totaal van alle dienstvormen;880
+541;718;Totaal mannen en vrouwen;Staat;0
+542;718;Totaal mannen en vrouwen;Provincie;0
+543;718;Totaal mannen en vrouwen;Gemeente;359
+544;718;Totaal mannen en vrouwen;Waterschap;0
+545;718;Totaal mannen en vrouwen;Particulier;521
+546;718;Mannen;Totaal van alle dienstvormen;558
+547;718;Mannen;Staat;0
+548;718;Mannen;Provincie;0
+549;718;Mannen;Gemeente;209
+550;718;Mannen;Waterschap;0
+551;718;Mannen;Particulier;349
+552;718;Vrouwen;Totaal van alle dienstvormen;322
+553;718;Vrouwen;Staat;0
+554;718;Vrouwen;Provincie;0
+555;718;Vrouwen;Gemeente;150
+556;718;Vrouwen;Waterschap;0
+557;718;Vrouwen;Particulier;172
+558;904;Totaal mannen en vrouwen;Totaal van alle dienstvormen;31773
+559;904;Totaal mannen en vrouwen;Staat;9
+560;904;Totaal mannen en vrouwen;Provincie;0
+561;904;Totaal mannen en vrouwen;Gemeente;2
+562;904;Totaal mannen en vrouwen;Waterschap;0
+563;904;Totaal mannen en vrouwen;Particulier;31762
+564;904;Mannen;Totaal van alle dienstvormen;28797
+565;904;Mannen;Staat;9
+566;904;Mannen;Provincie;0
+567;904;Mannen;Gemeente;2
+568;904;Mannen;Waterschap;0
+569;904;Mannen;Particulier;28786
+570;904;Vrouwen;Totaal van alle dienstvormen;2976
+571;904;Vrouwen;Staat;0
+572;904;Vrouwen;Provincie;0
+573;904;Vrouwen;Gemeente;0
+574;904;Vrouwen;Waterschap;0
+575;904;Vrouwen;Particulier;2976
+576;905;Totaal mannen en vrouwen;Totaal van alle dienstvormen;2577
+577;905;Totaal mannen en vrouwen;Staat;12
+578;905;Totaal mannen en vrouwen;Provincie;0
+579;905;Totaal mannen en vrouwen;Gemeente;1
+580;905;Totaal mannen en vrouwen;Waterschap;0
+581;905;Totaal mannen en vrouwen;Particulier;2564
+582;905;Mannen;Totaal van alle dienstvormen;2265
+583;905;Mannen;Staat;12
+584;905;Mannen;Provincie;0
+585;905;Mannen;Gemeente;1
+586;905;Mannen;Waterschap;0
+587;905;Mannen;Particulier;2252
+588;905;Vrouwen;Totaal van alle dienstvormen;312
+589;905;Vrouwen;Staat;0
+590;905;Vrouwen;Provincie;0
+591;905;Vrouwen;Gemeente;0
+592;905;Vrouwen;Waterschap;0
+593;905;Vrouwen;Particulier;312
+594;X, 6. Veenderijen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;10571
+595;X, 6. Veenderijen;Totaal mannen en vrouwen;Staat;0
+596;X, 6. Veenderijen;Totaal mannen en vrouwen;Provincie;0
+597;X, 6. Veenderijen;Totaal mannen en vrouwen;Gemeente;112
+598;X, 6. Veenderijen;Totaal mannen en vrouwen;Waterschap;11
+599;X, 6. Veenderijen;Totaal mannen en vrouwen;Particulier;10448
+600;X, 6. Veenderijen;Mannen;Totaal van alle dienstvormen;8767
+601;X, 6. Veenderijen;Mannen;Staat;0
+602;X, 6. Veenderijen;Mannen;Provincie;0
+603;X, 6. Veenderijen;Mannen;Gemeente;111
+604;X, 6. Veenderijen;Mannen;Waterschap;11
+605;X, 6. Veenderijen;Mannen;Particulier;8645
+606;X, 6. Veenderijen;Vrouwen;Totaal van alle dienstvormen;1804
+607;X, 6. Veenderijen;Vrouwen;Staat;0
+608;X, 6. Veenderijen;Vrouwen;Provincie;0
+609;X, 6. Veenderijen;Vrouwen;Gemeente;1
+610;X, 6. Veenderijen;Vrouwen;Waterschap;0
+611;X, 6. Veenderijen;Vrouwen;Particulier;1803
+612;X, 7. Turfstrooiselfabrieken;Totaal mannen en vrouwen;Totaal van alle dienstvormen;275
+613;X, 7. Turfstrooiselfabrieken;Totaal mannen en vrouwen;Staat;0
+614;X, 7. Turfstrooiselfabrieken;Totaal mannen en vrouwen;Provincie;0
+615;X, 7. Turfstrooiselfabrieken;Totaal mannen en vrouwen;Gemeente;11
+616;X, 7. Turfstrooiselfabrieken;Totaal mannen en vrouwen;Waterschap;0
+617;X, 7. Turfstrooiselfabrieken;Totaal mannen en vrouwen;Particulier;264
+618;X, 7. Turfstrooiselfabrieken;Mannen;Totaal van alle dienstvormen;262
+619;X, 7. Turfstrooiselfabrieken;Mannen;Staat;0
+620;X, 7. Turfstrooiselfabrieken;Mannen;Provincie;0
+621;X, 7. Turfstrooiselfabrieken;Mannen;Gemeente;11
+622;X, 7. Turfstrooiselfabrieken;Mannen;Waterschap;0
+623;X, 7. Turfstrooiselfabrieken;Mannen;Particulier;251
+624;X, 7. Turfstrooiselfabrieken;Vrouwen;Totaal van alle dienstvormen;13
+625;X, 7. Turfstrooiselfabrieken;Vrouwen;Staat;0
+626;X, 7. Turfstrooiselfabrieken;Vrouwen;Provincie;0
+627;X, 7. Turfstrooiselfabrieken;Vrouwen;Gemeente;0
+628;X, 7. Turfstrooiselfabrieken;Vrouwen;Waterschap;0
+629;X, 7. Turfstrooiselfabrieken;Vrouwen;Particulier;13
+630;X, 10. Delverijen v. klei, zand en grind;Totaal mannen en vrouwen;Totaal van alle dienstvormen;1311
+631;X, 10. Delverijen v. klei, zand en grind;Totaal mannen en vrouwen;Staat;0
+632;X, 10. Delverijen v. klei, zand en grind;Totaal mannen en vrouwen;Provincie;0
+633;X, 10. Delverijen v. klei, zand en grind;Totaal mannen en vrouwen;Gemeente;34
+634;X, 10. Delverijen v. klei, zand en grind;Totaal mannen en vrouwen;Waterschap;0
+635;X, 10. Delverijen v. klei, zand en grind;Totaal mannen en vrouwen;Particulier;1277
+636;X, 10. Delverijen v. klei, zand en grind;Mannen;Totaal van alle dienstvormen;1310
+637;X, 10. Delverijen v. klei, zand en grind;Mannen;Staat;0
+638;X, 10. Delverijen v. klei, zand en grind;Mannen;Provincie;0
+639;X, 10. Delverijen v. klei, zand en grind;Mannen;Gemeente;34
+640;X, 10. Delverijen v. klei, zand en grind;Mannen;Waterschap;0
+641;X, 10. Delverijen v. klei, zand en grind;Mannen;Particulier;1276
+642;X, 10. Delverijen v. klei, zand en grind;Vrouwen;Totaal van alle dienstvormen;1
+643;X, 10. Delverijen v. klei, zand en grind;Vrouwen;Staat;0
+644;X, 10. Delverijen v. klei, zand en grind;Vrouwen;Provincie;0
+645;X, 10. Delverijen v. klei, zand en grind;Vrouwen;Gemeente;0
+646;X, 10. Delverijen v. klei, zand en grind;Vrouwen;Waterschap;0
+647;X, 10. Delverijen v. klei, zand en grind;Vrouwen;Particulier;1
+648;XI-XIII, 6. IJzer- en metaalgieterijen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;8375
+649;XI-XIII, 6. IJzer- en metaalgieterijen;Totaal mannen en vrouwen;Staat;16
+650;XI-XIII, 6. IJzer- en metaalgieterijen;Totaal mannen en vrouwen;Provincie;0
+651;XI-XIII, 6. IJzer- en metaalgieterijen;Totaal mannen en vrouwen;Gemeente;4
+652;XI-XIII, 6. IJzer- en metaalgieterijen;Totaal mannen en vrouwen;Waterschap;0
+653;XI-XIII, 6. IJzer- en metaalgieterijen;Totaal mannen en vrouwen;Particulier;8355
+654;XI-XIII, 6. IJzer- en metaalgieterijen;Mannen;Totaal van alle dienstvormen;8311
+655;XI-XIII, 6. IJzer- en metaalgieterijen;Mannen;Staat;16
+656;XI-XIII, 6. IJzer- en metaalgieterijen;Mannen;Provincie;0
+657;XI-XIII, 6. IJzer- en metaalgieterijen;Mannen;Gemeente;4
+658;XI-XIII, 6. IJzer- en metaalgieterijen;Mannen;Waterschap;0
+659;XI-XIII, 6. IJzer- en metaalgieterijen;Mannen;Particulier;8291
+660;XI-XIII, 6. IJzer- en metaalgieterijen;Vrouwen;Totaal van alle dienstvormen;64
+661;XI-XIII, 6. IJzer- en metaalgieterijen;Vrouwen;Staat;0
+662;XI-XIII, 6. IJzer- en metaalgieterijen;Vrouwen;Provincie;0
+663;XI-XIII, 6. IJzer- en metaalgieterijen;Vrouwen;Gemeente;0
+664;XI-XIII, 6. IJzer- en metaalgieterijen;Vrouwen;Waterschap;0
+665;XI-XIII, 6. IJzer- en metaalgieterijen;Vrouwen;Particulier;64
+666;XI-XIII, 12. Koper- en blikslagerijen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;3587
+667;XI-XIII, 12. Koper- en blikslagerijen;Totaal mannen en vrouwen;Staat;2
+668;XI-XIII, 12. Koper- en blikslagerijen;Totaal mannen en vrouwen;Provincie;0
+669;XI-XIII, 12. Koper- en blikslagerijen;Totaal mannen en vrouwen;Gemeente;3
+670;XI-XIII, 12. Koper- en blikslagerijen;Totaal mannen en vrouwen;Waterschap;0
+671;XI-XIII, 12. Koper- en blikslagerijen;Totaal mannen en vrouwen;Particulier;3582
+672;XI-XIII, 12. Koper- en blikslagerijen;Mannen;Totaal van alle dienstvormen;3563
+673;XI-XIII, 12. Koper- en blikslagerijen;Mannen;Staat;2
+674;XI-XIII, 12. Koper- en blikslagerijen;Mannen;Provincie;0
+675;XI-XIII, 12. Koper- en blikslagerijen;Mannen;Gemeente;3
+676;XI-XIII, 12. Koper- en blikslagerijen;Mannen;Waterschap;0
+677;XI-XIII, 12. Koper- en blikslagerijen;Mannen;Particulier;3558
+678;XI-XIII, 12. Koper- en blikslagerijen;Vrouwen;Totaal van alle dienstvormen;24
+679;XI-XIII, 12. Koper- en blikslagerijen;Vrouwen;Staat;0
+680;XI-XIII, 12. Koper- en blikslagerijen;Vrouwen;Provincie;0
+681;XI-XIII, 12. Koper- en blikslagerijen;Vrouwen;Gemeente;0
+682;XI-XIII, 12. Koper- en blikslagerijen;Vrouwen;Waterschap;0
+683;XI-XIII, 12. Koper- en blikslagerijen;Vrouwen;Particulier;24
+684;XI-XIII, 14. Radio-installatie-inricht.;Totaal mannen en vrouwen;Totaal van alle dienstvormen;1173
+685;XI-XIII, 14. Radio-installatie-inricht.;Totaal mannen en vrouwen;Staat;13
+686;XI-XIII, 14. Radio-installatie-inricht.;Totaal mannen en vrouwen;Provincie;0
+687;XI-XIII, 14. Radio-installatie-inricht.;Totaal mannen en vrouwen;Gemeente;8
+688;XI-XIII, 14. Radio-installatie-inricht.;Totaal mannen en vrouwen;Waterschap;0
+689;XI-XIII, 14. Radio-installatie-inricht.;Totaal mannen en vrouwen;Particulier;1152
+690;XI-XIII, 14. Radio-installatie-inricht.;Mannen;Totaal van alle dienstvormen;1161
+691;XI-XIII, 14. Radio-installatie-inricht.;Mannen;Staat;13
+692;XI-XIII, 14. Radio-installatie-inricht.;Mannen;Provincie;0
+693;XI-XIII, 14. Radio-installatie-inricht.;Mannen;Gemeente;8
+694;XI-XIII, 14. Radio-installatie-inricht.;Mannen;Waterschap;0
+695;XI-XIII, 14. Radio-installatie-inricht.;Mannen;Particulier;1140
+696;XI-XIII, 14. Radio-installatie-inricht.;Vrouwen;Totaal van alle dienstvormen;12
+697;XI-XIII, 14. Radio-installatie-inricht.;Vrouwen;Staat;0
+698;XI-XIII, 14. Radio-installatie-inricht.;Vrouwen;Provincie;0
+699;XI-XIII, 14. Radio-installatie-inricht.;Vrouwen;Gemeente;0
+700;XI-XIII, 14. Radio-installatie-inricht.;Vrouwen;Waterschap;0
+701;XI-XIII, 14. Radio-installatie-inricht.;Vrouwen;Particulier;12
+702;XI-XIII, 15. Loodgieterijen, enz.;Totaal mannen en vrouwen;Totaal van alle dienstvormen;13846
+703;XI-XIII, 15. Loodgieterijen, enz.;Totaal mannen en vrouwen;Staat;3
+704;XI-XIII, 15. Loodgieterijen, enz.;Totaal mannen en vrouwen;Provincie;1
+705;XI-XIII, 15. Loodgieterijen, enz.;Totaal mannen en vrouwen;Gemeente;123
+706;XI-XIII, 15. Loodgieterijen, enz.;Totaal mannen en vrouwen;Waterschap;0
+707;XI-XIII, 15. Loodgieterijen, enz.;Totaal mannen en vrouwen;Particulier;13719
+708;XI-XIII, 15. Loodgieterijen, enz.;Mannen;Totaal van alle dienstvormen;13695
+709;XI-XIII, 15. Loodgieterijen, enz.;Mannen;Staat;3
+710;XI-XIII, 15. Loodgieterijen, enz.;Mannen;Provincie;1
+711;XI-XIII, 15. Loodgieterijen, enz.;Mannen;Gemeente;123
+712;XI-XIII, 15. Loodgieterijen, enz.;Mannen;Waterschap;0
+713;XI-XIII, 15. Loodgieterijen, enz.;Mannen;Particulier;13568
+714;XI-XIII, 15. Loodgieterijen, enz.;Vrouwen;Totaal van alle dienstvormen;151
+715;XI-XIII, 15. Loodgieterijen, enz.;Vrouwen;Staat;0
+716;XI-XIII, 15. Loodgieterijen, enz.;Vrouwen;Provincie;0
+717;XI-XIII, 15. Loodgieterijen, enz.;Vrouwen;Gemeente;0
+718;XI-XIII, 15. Loodgieterijen, enz.;Vrouwen;Waterschap;0
+719;XI-XIII, 15. Loodgieterijen, enz.;Vrouwen;Particulier;151
+720;XI-XIII, 16. Smederijen, enz.;Totaal mannen en vrouwen;Totaal van alle dienstvormen;27919
+721;XI-XIII, 16. Smederijen, enz.;Totaal mannen en vrouwen;Staat;10
+722;XI-XIII, 16. Smederijen, enz.;Totaal mannen en vrouwen;Provincie;0
+723;XI-XIII, 16. Smederijen, enz.;Totaal mannen en vrouwen;Gemeente;219
+724;XI-XIII, 16. Smederijen, enz.;Totaal mannen en vrouwen;Waterschap;0
+725;XI-XIII, 16. Smederijen, enz.;Totaal mannen en vrouwen;Particulier;27690
+726;XI-XIII, 16. Smederijen, enz.;Mannen;Totaal van alle dienstvormen;27794
+727;XI-XIII, 16. Smederijen, enz.;Mannen;Staat;10
+728;XI-XIII, 16. Smederijen, enz.;Mannen;Provincie;0
+729;XI-XIII, 16. Smederijen, enz.;Mannen;Gemeente;219
+730;XI-XIII, 16. Smederijen, enz.;Mannen;Waterschap;0
+731;XI-XIII, 16. Smederijen, enz.;Mannen;Particulier;27565
+732;XI-XIII, 16. Smederijen, enz.;Vrouwen;Totaal van alle dienstvormen;125
+733;XI-XIII, 16. Smederijen, enz.;Vrouwen;Staat;0
+734;XI-XIII, 16. Smederijen, enz.;Vrouwen;Provincie;0
+735;XI-XIII, 16. Smederijen, enz.;Vrouwen;Gemeente;0
+736;XI-XIII, 16. Smederijen, enz.;Vrouwen;Waterschap;0
+737;XI-XIII, 16. Smederijen, enz.;Vrouwen;Particulier;125
+738;XI-XIII, 18. Galvaniseerinr., enz.;Totaal mannen en vrouwen;Totaal van alle dienstvormen;1200
+739;XI-XIII, 18. Galvaniseerinr., enz.;Totaal mannen en vrouwen;Staat;1
+740;XI-XIII, 18. Galvaniseerinr., enz.;Totaal mannen en vrouwen;Provincie;0
+741;XI-XIII, 18. Galvaniseerinr., enz.;Totaal mannen en vrouwen;Gemeente;0
+742;XI-XIII, 18. Galvaniseerinr., enz.;Totaal mannen en vrouwen;Waterschap;0
+743;XI-XIII, 18. Galvaniseerinr., enz.;Totaal mannen en vrouwen;Particulier;1199
+744;XI-XIII, 18. Galvaniseerinr., enz.;Mannen;Totaal van alle dienstvormen;1178
+745;XI-XIII, 18. Galvaniseerinr., enz.;Mannen;Staat;1
+746;XI-XIII, 18. Galvaniseerinr., enz.;Mannen;Provincie;0
+747;XI-XIII, 18. Galvaniseerinr., enz.;Mannen;Gemeente;0
+748;XI-XIII, 18. Galvaniseerinr., enz.;Mannen;Waterschap;0
+749;XI-XIII, 18. Galvaniseerinr., enz.;Mannen;Particulier;1177
+750;XI-XIII, 18. Galvaniseerinr., enz.;Vrouwen;Totaal van alle dienstvormen;22
+751;XI-XIII, 18. Galvaniseerinr., enz.;Vrouwen;Staat;0
+752;XI-XIII, 18. Galvaniseerinr., enz.;Vrouwen;Provincie;0
+753;XI-XIII, 18. Galvaniseerinr., enz.;Vrouwen;Gemeente;0
+754;XI-XIII, 18. Galvaniseerinr., enz.;Vrouwen;Waterschap;0
+755;XI-XIII, 18. Galvaniseerinr., enz.;Vrouwen;Particulier;22
+756;XI-XIII, 19. Stempelfabr. en graveerinr.;Totaal mannen en vrouwen;Totaal van alle dienstvormen;350
+757;XI-XIII, 19. Stempelfabr. en graveerinr.;Totaal mannen en vrouwen;Staat;1
+758;XI-XIII, 19. Stempelfabr. en graveerinr.;Totaal mannen en vrouwen;Provincie;0
+759;XI-XIII, 19. Stempelfabr. en graveerinr.;Totaal mannen en vrouwen;Gemeente;0
+760;XI-XIII, 19. Stempelfabr. en graveerinr.;Totaal mannen en vrouwen;Waterschap;0
+761;XI-XIII, 19. Stempelfabr. en graveerinr.;Totaal mannen en vrouwen;Particulier;349
+762;XI-XIII, 19. Stempelfabr. en graveerinr.;Mannen;Totaal van alle dienstvormen;330
+763;XI-XIII, 19. Stempelfabr. en graveerinr.;Mannen;Staat;1
+764;XI-XIII, 19. Stempelfabr. en graveerinr.;Mannen;Provincie;0
+765;XI-XIII, 19. Stempelfabr. en graveerinr.;Mannen;Gemeente;0
+766;XI-XIII, 19. Stempelfabr. en graveerinr.;Mannen;Waterschap;0
+767;XI-XIII, 19. Stempelfabr. en graveerinr.;Mannen;Particulier;329
+768;XI-XIII, 19. Stempelfabr. en graveerinr.;Vrouwen;Totaal van alle dienstvormen;20
+769;XI-XIII, 19. Stempelfabr. en graveerinr.;Vrouwen;Staat;0
+770;XI-XIII, 19. Stempelfabr. en graveerinr.;Vrouwen;Provincie;0
+771;XI-XIII, 19. Stempelfabr. en graveerinr.;Vrouwen;Gemeente;0
+772;XI-XIII, 19. Stempelfabr. en graveerinr.;Vrouwen;Waterschap;0
+773;XI-XIII, 19. Stempelfabr. en graveerinr.;Vrouwen;Particulier;20
+774;XI-XIII, 23. Schroeven-, bouten- en ...;Totaal mannen en vrouwen;Totaal van alle dienstvormen;1127
+775;XI-XIII, 23. Schroeven-, bouten- en ...;Totaal mannen en vrouwen;Staat;2
+776;XI-XIII, 23. Schroeven-, bouten- en ...;Totaal mannen en vrouwen;Provincie;0
+777;XI-XIII, 23. Schroeven-, bouten- en ...;Totaal mannen en vrouwen;Gemeente;0
+778;XI-XIII, 23. Schroeven-, bouten- en ...;Totaal mannen en vrouwen;Waterschap;0
+779;XI-XIII, 23. Schroeven-, bouten- en ...;Totaal mannen en vrouwen;Particulier;1125
+780;XI-XIII, 23. Schroeven-, bouten- en ...;Mannen;Totaal van alle dienstvormen;1035
+781;XI-XIII, 23. Schroeven-, bouten- en ...;Mannen;Staat;2
+782;XI-XIII, 23. Schroeven-, bouten- en ...;Mannen;Provincie;0
+783;XI-XIII, 23. Schroeven-, bouten- en ...;Mannen;Gemeente;0
+784;XI-XIII, 23. Schroeven-, bouten- en ...;Mannen;Waterschap;0
+785;XI-XIII, 23. Schroeven-, bouten- en ...;Mannen;Particulier;1033
+786;XI-XIII, 23. Schroeven-, bouten- en ...;Vrouwen;Totaal van alle dienstvormen;92
+787;XI-XIII, 23. Schroeven-, bouten- en ...;Vrouwen;Staat;0
+788;XI-XIII, 23. Schroeven-, bouten- en ...;Vrouwen;Provincie;0
+789;XI-XIII, 23. Schroeven-, bouten- en ...;Vrouwen;Gemeente;0
+790;XI-XIII, 23. Schroeven-, bouten- en ...;Vrouwen;Waterschap;0
+791;XI-XIII, 23. Schroeven-, bouten- en ...;Vrouwen;Particulier;92
+792;XI-XIII, 29. Gereedsch. en ijzerw.fabr.;Totaal mannen en vrouwen;Totaal van alle dienstvormen;1997
+793;XI-XIII, 29. Gereedsch. en ijzerw.fabr.;Totaal mannen en vrouwen;Staat;1
+794;XI-XIII, 29. Gereedsch. en ijzerw.fabr.;Totaal mannen en vrouwen;Provincie;0
+795;XI-XIII, 29. Gereedsch. en ijzerw.fabr.;Totaal mannen en vrouwen;Gemeente;0
+796;XI-XIII, 29. Gereedsch. en ijzerw.fabr.;Totaal mannen en vrouwen;Waterschap;0
+797;XI-XIII, 29. Gereedsch. en ijzerw.fabr.;Totaal mannen en vrouwen;Particulier;1996
+798;XI-XIII, 29. Gereedsch. en ijzerw.fabr.;Mannen;Totaal van alle dienstvormen;1914
+799;XI-XIII, 29. Gereedsch. en ijzerw.fabr.;Mannen;Staat;1
+800;XI-XIII, 29. Gereedsch. en ijzerw.fabr.;Mannen;Provincie;0
+801;XI-XIII, 29. Gereedsch. en ijzerw.fabr.;Mannen;Gemeente;0
+802;XI-XIII, 29. Gereedsch. en ijzerw.fabr.;Mannen;Waterschap;0
+803;XI-XIII, 29. Gereedsch. en ijzerw.fabr.;Mannen;Particulier;1913
+804;XI-XIII, 29. Gereedsch. en ijzerw.fabr.;Vrouwen;Totaal van alle dienstvormen;83
+805;XI-XIII, 29. Gereedsch. en ijzerw.fabr.;Vrouwen;Staat;0
+806;XI-XIII, 29. Gereedsch. en ijzerw.fabr.;Vrouwen;Provincie;0
+807;XI-XIII, 29. Gereedsch. en ijzerw.fabr.;Vrouwen;Gemeente;0
+808;XI-XIII, 29. Gereedsch. en ijzerw.fabr.;Vrouwen;Waterschap;0
+809;XI-XIII, 29. Gereedsch. en ijzerw.fabr.;Vrouwen;Particulier;83
+810;XI-XIII, 31. Slotenfabrieken;Totaal mannen en vrouwen;Totaal van alle dienstvormen;427
+811;XI-XIII, 31. Slotenfabrieken;Totaal mannen en vrouwen;Staat;1
+812;XI-XIII, 31. Slotenfabrieken;Totaal mannen en vrouwen;Provincie;0
+813;XI-XIII, 31. Slotenfabrieken;Totaal mannen en vrouwen;Gemeente;0
+814;XI-XIII, 31. Slotenfabrieken;Totaal mannen en vrouwen;Waterschap;0
+815;XI-XIII, 31. Slotenfabrieken;Totaal mannen en vrouwen;Particulier;426
+816;XI-XIII, 31. Slotenfabrieken;Mannen;Totaal van alle dienstvormen;395
+817;XI-XIII, 31. Slotenfabrieken;Mannen;Staat;1
+818;XI-XIII, 31. Slotenfabrieken;Mannen;Provincie;0
+819;XI-XIII, 31. Slotenfabrieken;Mannen;Gemeente;0
+820;XI-XIII, 31. Slotenfabrieken;Mannen;Waterschap;0
+821;XI-XIII, 31. Slotenfabrieken;Mannen;Particulier;394
+822;XI-XIII, 31. Slotenfabrieken;Vrouwen;Totaal van alle dienstvormen;32
+823;XI-XIII, 31. Slotenfabrieken;Vrouwen;Staat;0
+824;XI-XIII, 31. Slotenfabrieken;Vrouwen;Provincie;0
+825;XI-XIII, 31. Slotenfabrieken;Vrouwen;Gemeente;0
+826;XI-XIII, 31. Slotenfabrieken;Vrouwen;Waterschap;0
+827;XI-XIII, 31. Slotenfabrieken;Vrouwen;Particulier;32
+828;XI-XIII, 34. Wapen- en munitiefabrieken;Totaal mannen en vrouwen;Totaal van alle dienstvormen;2146
+829;XI-XIII, 34. Wapen- en munitiefabrieken;Totaal mannen en vrouwen;Staat;1781
+830;XI-XIII, 34. Wapen- en munitiefabrieken;Totaal mannen en vrouwen;Provincie;0
+831;XI-XIII, 34. Wapen- en munitiefabrieken;Totaal mannen en vrouwen;Gemeente;0
+832;XI-XIII, 34. Wapen- en munitiefabrieken;Totaal mannen en vrouwen;Waterschap;0
+833;XI-XIII, 34. Wapen- en munitiefabrieken;Totaal mannen en vrouwen;Particulier;365
+834;XI-XIII, 34. Wapen- en munitiefabrieken;Mannen;Totaal van alle dienstvormen;2049
+835;XI-XIII, 34. Wapen- en munitiefabrieken;Mannen;Staat;1744
+836;XI-XIII, 34. Wapen- en munitiefabrieken;Mannen;Provincie;0
+837;XI-XIII, 34. Wapen- en munitiefabrieken;Mannen;Gemeente;0
+838;XI-XIII, 34. Wapen- en munitiefabrieken;Mannen;Waterschap;0
+839;XI-XIII, 34. Wapen- en munitiefabrieken;Mannen;Particulier;305
+840;XI-XIII, 34. Wapen- en munitiefabrieken;Vrouwen;Totaal van alle dienstvormen;97
+841;XI-XIII, 34. Wapen- en munitiefabrieken;Vrouwen;Staat;37
+842;XI-XIII, 34. Wapen- en munitiefabrieken;Vrouwen;Provincie;0
+843;XI-XIII, 34. Wapen- en munitiefabrieken;Vrouwen;Gemeente;0
+844;XI-XIII, 34. Wapen- en munitiefabrieken;Vrouwen;Waterschap;0
+845;XI-XIII, 34. Wapen- en munitiefabrieken;Vrouwen;Particulier;60
+846;XI-XIII, 36. Constructiewerkplaatsen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;6139
+847;XI-XIII, 36. Constructiewerkplaatsen;Totaal mannen en vrouwen;Staat;11
+848;XI-XIII, 36. Constructiewerkplaatsen;Totaal mannen en vrouwen;Provincie;0
+849;XI-XIII, 36. Constructiewerkplaatsen;Totaal mannen en vrouwen;Gemeente;10
+850;XI-XIII, 36. Constructiewerkplaatsen;Totaal mannen en vrouwen;Waterschap;0
+851;XI-XIII, 36. Constructiewerkplaatsen;Totaal mannen en vrouwen;Particulier;6118
+852;XI-XIII, 36. Constructiewerkplaatsen;Mannen;Totaal van alle dienstvormen;5945
+853;XI-XIII, 36. Constructiewerkplaatsen;Mannen;Staat;11
+854;XI-XIII, 36. Constructiewerkplaatsen;Mannen;Provincie;0
+855;XI-XIII, 36. Constructiewerkplaatsen;Mannen;Gemeente;10
+856;XI-XIII, 36. Constructiewerkplaatsen;Mannen;Waterschap;0
+857;XI-XIII, 36. Constructiewerkplaatsen;Mannen;Particulier;5924
+858;XI-XIII, 36. Constructiewerkplaatsen;Vrouwen;Totaal van alle dienstvormen;194
+859;XI-XIII, 36. Constructiewerkplaatsen;Vrouwen;Staat;0
+860;XI-XIII, 36. Constructiewerkplaatsen;Vrouwen;Provincie;0
+861;XI-XIII, 36. Constructiewerkplaatsen;Vrouwen;Gemeente;0
+862;XI-XIII, 36. Constructiewerkplaatsen;Vrouwen;Waterschap;0
+863;XI-XIII, 36. Constructiewerkplaatsen;Vrouwen;Particulier;194
+864;XI-XIII, 37. Ketelmakerijen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;2775
+865;XI-XIII, 37. Ketelmakerijen;Totaal mannen en vrouwen;Staat;0
+866;XI-XIII, 37. Ketelmakerijen;Totaal mannen en vrouwen;Provincie;0
+867;XI-XIII, 37. Ketelmakerijen;Totaal mannen en vrouwen;Gemeente;4
+868;XI-XIII, 37. Ketelmakerijen;Totaal mannen en vrouwen;Waterschap;0
+869;XI-XIII, 37. Ketelmakerijen;Totaal mannen en vrouwen;Particulier;2771
+870;XI-XIII, 37. Ketelmakerijen;Mannen;Totaal van alle dienstvormen;2772
+871;XI-XIII, 37. Ketelmakerijen;Mannen;Staat;0
+872;XI-XIII, 37. Ketelmakerijen;Mannen;Provincie;0
+873;XI-XIII, 37. Ketelmakerijen;Mannen;Gemeente;4
+874;XI-XIII, 37. Ketelmakerijen;Mannen;Waterschap;0
+875;XI-XIII, 37. Ketelmakerijen;Mannen;Particulier;2768
+876;XI-XIII, 37. Ketelmakerijen;Vrouwen;Totaal van alle dienstvormen;3
+877;XI-XIII, 37. Ketelmakerijen;Vrouwen;Staat;0
+878;XI-XIII, 37. Ketelmakerijen;Vrouwen;Provincie;0
+879;XI-XIII, 37. Ketelmakerijen;Vrouwen;Gemeente;0
+880;XI-XIII, 37. Ketelmakerijen;Vrouwen;Waterschap;0
+881;XI-XIII, 37. Ketelmakerijen;Vrouwen;Particulier;3
+882;XI-XIII, 38. Machine- en appendagefabr.;Totaal mannen en vrouwen;Totaal van alle dienstvormen;29802
+883;XI-XIII, 38. Machine- en appendagefabr.;Totaal mannen en vrouwen;Staat;5
+884;XI-XIII, 38. Machine- en appendagefabr.;Totaal mannen en vrouwen;Provincie;1
+885;XI-XIII, 38. Machine- en appendagefabr.;Totaal mannen en vrouwen;Gemeente;8
+886;XI-XIII, 38. Machine- en appendagefabr.;Totaal mannen en vrouwen;Waterschap;0
+887;XI-XIII, 38. Machine- en appendagefabr.;Totaal mannen en vrouwen;Particulier;29788
+888;XI-XIII, 38. Machine- en appendagefabr.;Mannen;Totaal van alle dienstvormen;29159
+889;XI-XIII, 38. Machine- en appendagefabr.;Mannen;Staat;5
+890;XI-XIII, 38. Machine- en appendagefabr.;Mannen;Provincie;1
+891;XI-XIII, 38. Machine- en appendagefabr.;Mannen;Gemeente;8
+892;XI-XIII, 38. Machine- en appendagefabr.;Mannen;Waterschap;0
+893;XI-XIII, 38. Machine- en appendagefabr.;Mannen;Particulier;29145
+894;XI-XIII, 38. Machine- en appendagefabr.;Vrouwen;Totaal van alle dienstvormen;643
+895;XI-XIII, 38. Machine- en appendagefabr.;Vrouwen;Staat;0
+896;XI-XIII, 38. Machine- en appendagefabr.;Vrouwen;Provincie;0
+897;XI-XIII, 38. Machine- en appendagefabr.;Vrouwen;Gemeente;0
+898;XI-XIII, 38. Machine- en appendagefabr.;Vrouwen;Waterschap;0
+899;XI-XIII, 38. Machine- en appendagefabr.;Vrouwen;Particulier;643
+900;XI-XIII, 39. Scheepswerven;Totaal mannen en vrouwen;Totaal van alle dienstvormen;32900
+901;XI-XIII, 39. Scheepswerven;Totaal mannen en vrouwen;Staat;13
+902;XI-XIII, 39. Scheepswerven;Totaal mannen en vrouwen;Provincie;1
+903;XI-XIII, 39. Scheepswerven;Totaal mannen en vrouwen;Gemeente;52
+904;XI-XIII, 39. Scheepswerven;Totaal mannen en vrouwen;Waterschap;0
+905;XI-XIII, 39. Scheepswerven;Totaal mannen en vrouwen;Particulier;32834
+906;XI-XIII, 39. Scheepswerven;Mannen;Totaal van alle dienstvormen;32688
+907;XI-XIII, 39. Scheepswerven;Mannen;Staat;12
+908;XI-XIII, 39. Scheepswerven;Mannen;Provincie;1
+909;XI-XIII, 39. Scheepswerven;Mannen;Gemeente;52
+910;XI-XIII, 39. Scheepswerven;Mannen;Waterschap;0
+911;XI-XIII, 39. Scheepswerven;Mannen;Particulier;32623
+912;XI-XIII, 39. Scheepswerven;Vrouwen;Totaal van alle dienstvormen;212
+913;XI-XIII, 39. Scheepswerven;Vrouwen;Staat;1
+914;XI-XIII, 39. Scheepswerven;Vrouwen;Provincie;0
+915;XI-XIII, 39. Scheepswerven;Vrouwen;Gemeente;0
+916;XI-XIII, 39. Scheepswerven;Vrouwen;Waterschap;0
+917;XI-XIII, 39. Scheepswerven;Vrouwen;Particulier;211
+918;XI-XIII, 43. Rijwielfabr. en herstelpl.;Totaal mannen en vrouwen;Totaal van alle dienstvormen;16838
+919;XI-XIII, 43. Rijwielfabr. en herstelpl.;Totaal mannen en vrouwen;Staat;22
+920;XI-XIII, 43. Rijwielfabr. en herstelpl.;Totaal mannen en vrouwen;Provincie;0
+921;XI-XIII, 43. Rijwielfabr. en herstelpl.;Totaal mannen en vrouwen;Gemeente;45
+922;XI-XIII, 43. Rijwielfabr. en herstelpl.;Totaal mannen en vrouwen;Waterschap;0
+923;XI-XIII, 43. Rijwielfabr. en herstelpl.;Totaal mannen en vrouwen;Particulier;16771
+924;XI-XIII, 43. Rijwielfabr. en herstelpl.;Mannen;Totaal van alle dienstvormen;16663
+925;XI-XIII, 43. Rijwielfabr. en herstelpl.;Mannen;Staat;20
+926;XI-XIII, 43. Rijwielfabr. en herstelpl.;Mannen;Provincie;0
+927;XI-XIII, 43. Rijwielfabr. en herstelpl.;Mannen;Gemeente;45
+928;XI-XIII, 43. Rijwielfabr. en herstelpl.;Mannen;Waterschap;0
+929;XI-XIII, 43. Rijwielfabr. en herstelpl.;Mannen;Particulier;16598
+930;XI-XIII, 43. Rijwielfabr. en herstelpl.;Vrouwen;Totaal van alle dienstvormen;175
+931;XI-XIII, 43. Rijwielfabr. en herstelpl.;Vrouwen;Staat;2
+932;XI-XIII, 43. Rijwielfabr. en herstelpl.;Vrouwen;Provincie;0
+933;XI-XIII, 43. Rijwielfabr. en herstelpl.;Vrouwen;Gemeente;0
+934;XI-XIII, 43. Rijwielfabr. en herstelpl.;Vrouwen;Waterschap;0
+935;XI-XIII, 43. Rijwielfabr. en herstelpl.;Vrouwen;Particulier;173
+936;XI-XIII, 44. Vliegtuigfabrieken;Totaal mannen en vrouwen;Totaal van alle dienstvormen;596
+937;XI-XIII, 44. Vliegtuigfabrieken;Totaal mannen en vrouwen;Staat;75
+938;XI-XIII, 44. Vliegtuigfabrieken;Totaal mannen en vrouwen;Provincie;0
+939;XI-XIII, 44. Vliegtuigfabrieken;Totaal mannen en vrouwen;Gemeente;0
+940;XI-XIII, 44. Vliegtuigfabrieken;Totaal mannen en vrouwen;Waterschap;0
+941;XI-XIII, 44. Vliegtuigfabrieken;Totaal mannen en vrouwen;Particulier;521
+942;XI-XIII, 44. Vliegtuigfabrieken;Mannen;Totaal van alle dienstvormen;583
+943;XI-XIII, 44. Vliegtuigfabrieken;Mannen;Staat;75
+944;XI-XIII, 44. Vliegtuigfabrieken;Mannen;Provincie;0
+945;XI-XIII, 44. Vliegtuigfabrieken;Mannen;Gemeente;0
+946;XI-XIII, 44. Vliegtuigfabrieken;Mannen;Waterschap;0
+947;XI-XIII, 44. Vliegtuigfabrieken;Mannen;Particulier;508
+948;XI-XIII, 44. Vliegtuigfabrieken;Vrouwen;Totaal van alle dienstvormen;13
+949;XI-XIII, 44. Vliegtuigfabrieken;Vrouwen;Staat;0
+950;XI-XIII, 44. Vliegtuigfabrieken;Vrouwen;Provincie;0
+951;XI-XIII, 44. Vliegtuigfabrieken;Vrouwen;Gemeente;0
+952;XI-XIII, 44. Vliegtuigfabrieken;Vrouwen;Waterschap;0
+953;XI-XIII, 44. Vliegtuigfabrieken;Vrouwen;Particulier;13
+954;XI-XIII, 45. Spoor- en tramwegwerkpl.;Totaal mannen en vrouwen;Totaal van alle dienstvormen;6779
+955;XI-XIII, 45. Spoor- en tramwegwerkpl.;Totaal mannen en vrouwen;Staat;0
+956;XI-XIII, 45. Spoor- en tramwegwerkpl.;Totaal mannen en vrouwen;Provincie;0
+957;XI-XIII, 45. Spoor- en tramwegwerkpl.;Totaal mannen en vrouwen;Gemeente;426
+958;XI-XIII, 45. Spoor- en tramwegwerkpl.;Totaal mannen en vrouwen;Waterschap;0
+959;XI-XIII, 45. Spoor- en tramwegwerkpl.;Totaal mannen en vrouwen;Particulier;6353
+960;XI-XIII, 45. Spoor- en tramwegwerkpl.;Mannen;Totaal van alle dienstvormen;6774
+961;XI-XIII, 45. Spoor- en tramwegwerkpl.;Mannen;Staat;0
+962;XI-XIII, 45. Spoor- en tramwegwerkpl.;Mannen;Provincie;0
+963;XI-XIII, 45. Spoor- en tramwegwerkpl.;Mannen;Gemeente;426
+964;XI-XIII, 45. Spoor- en tramwegwerkpl.;Mannen;Waterschap;0
+965;XI-XIII, 45. Spoor- en tramwegwerkpl.;Mannen;Particulier;6348
+966;XI-XIII, 45. Spoor- en tramwegwerkpl.;Vrouwen;Totaal van alle dienstvormen;5
+967;XI-XIII, 45. Spoor- en tramwegwerkpl.;Vrouwen;Staat;0
+968;XI-XIII, 45. Spoor- en tramwegwerkpl.;Vrouwen;Provincie;0
+969;XI-XIII, 45. Spoor- en tramwegwerkpl.;Vrouwen;Gemeente;0
+970;XI-XIII, 45. Spoor- en tramwegwerkpl.;Vrouwen;Waterschap;0
+971;XI-XIII, 45. Spoor- en tramwegwerkpl.;Vrouwen;Particulier;5
+972;XI-XIII, 46. Wagen- en carrosseriefabr.;Totaal mannen en vrouwen;Totaal van alle dienstvormen;4086
+973;XI-XIII, 46. Wagen- en carrosseriefabr.;Totaal mannen en vrouwen;Staat;0
+974;XI-XIII, 46. Wagen- en carrosseriefabr.;Totaal mannen en vrouwen;Provincie;0
+975;XI-XIII, 46. Wagen- en carrosseriefabr.;Totaal mannen en vrouwen;Gemeente;3
+976;XI-XIII, 46. Wagen- en carrosseriefabr.;Totaal mannen en vrouwen;Waterschap;0
+977;XI-XIII, 46. Wagen- en carrosseriefabr.;Totaal mannen en vrouwen;Particulier;4083
+978;XI-XIII, 46. Wagen- en carrosseriefabr.;Mannen;Totaal van alle dienstvormen;4047
+979;XI-XIII, 46. Wagen- en carrosseriefabr.;Mannen;Staat;0
+980;XI-XIII, 46. Wagen- en carrosseriefabr.;Mannen;Provincie;0
+981;XI-XIII, 46. Wagen- en carrosseriefabr.;Mannen;Gemeente;3
+982;XI-XIII, 46. Wagen- en carrosseriefabr.;Mannen;Waterschap;0
+983;XI-XIII, 46. Wagen- en carrosseriefabr.;Mannen;Particulier;4044
+984;XI-XIII, 46. Wagen- en carrosseriefabr.;Vrouwen;Totaal van alle dienstvormen;39
+985;XI-XIII, 46. Wagen- en carrosseriefabr.;Vrouwen;Staat;0
+986;XI-XIII, 46. Wagen- en carrosseriefabr.;Vrouwen;Provincie;0
+987;XI-XIII, 46. Wagen- en carrosseriefabr.;Vrouwen;Gemeente;0
+988;XI-XIII, 46. Wagen- en carrosseriefabr.;Vrouwen;Waterschap;0
+989;XI-XIII, 46. Wagen- en carrosseriefabr.;Vrouwen;Particulier;39
+990;XI-XIII, 47. Wagenmakerijen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;3696
+991;XI-XIII, 47. Wagenmakerijen;Totaal mannen en vrouwen;Staat;20
+992;XI-XIII, 47. Wagenmakerijen;Totaal mannen en vrouwen;Provincie;0
+993;XI-XIII, 47. Wagenmakerijen;Totaal mannen en vrouwen;Gemeente;14
+994;XI-XIII, 47. Wagenmakerijen;Totaal mannen en vrouwen;Waterschap;0
+995;XI-XIII, 47. Wagenmakerijen;Totaal mannen en vrouwen;Particulier;3662
+996;XI-XIII, 47. Wagenmakerijen;Mannen;Totaal van alle dienstvormen;3675
+997;XI-XIII, 47. Wagenmakerijen;Mannen;Staat;20
+998;XI-XIII, 47. Wagenmakerijen;Mannen;Provincie;0
+999;XI-XIII, 47. Wagenmakerijen;Mannen;Gemeente;14
+1000;XI-XIII, 47. Wagenmakerijen;Mannen;Waterschap;0
+1001;XI-XIII, 47. Wagenmakerijen;Mannen;Particulier;3641
+1002;XI-XIII, 47. Wagenmakerijen;Vrouwen;Totaal van alle dienstvormen;21
+1003;XI-XIII, 47. Wagenmakerijen;Vrouwen;Staat;0
+1004;XI-XIII, 47. Wagenmakerijen;Vrouwen;Provincie;0
+1005;XI-XIII, 47. Wagenmakerijen;Vrouwen;Gemeente;0
+1006;XI-XIII, 47. Wagenmakerijen;Vrouwen;Waterschap;0
+1007;XI-XIII, 47. Wagenmakerijen;Vrouwen;Particulier;21
+1008;XI-XIII, 50. Electrotechn. fabr. enz.;Totaal mannen en vrouwen;Totaal van alle dienstvormen;30139
+1009;XI-XIII, 50. Electrotechn. fabr. enz.;Totaal mannen en vrouwen;Staat;1745
+1010;XI-XIII, 50. Electrotechn. fabr. enz.;Totaal mannen en vrouwen;Provincie;10
+1011;XI-XIII, 50. Electrotechn. fabr. enz.;Totaal mannen en vrouwen;Gemeente;1188
+1012;XI-XIII, 50. Electrotechn. fabr. enz.;Totaal mannen en vrouwen;Waterschap;0
+1013;XI-XIII, 50. Electrotechn. fabr. enz.;Totaal mannen en vrouwen;Particulier;27196
+1014;XI-XIII, 50. Electrotechn. fabr. enz.;Mannen;Totaal van alle dienstvormen;25804
+1015;XI-XIII, 50. Electrotechn. fabr. enz.;Mannen;Staat;1725
+1016;XI-XIII, 50. Electrotechn. fabr. enz.;Mannen;Provincie;10
+1017;XI-XIII, 50. Electrotechn. fabr. enz.;Mannen;Gemeente;1151
+1018;XI-XIII, 50. Electrotechn. fabr. enz.;Mannen;Waterschap;0
+1019;XI-XIII, 50. Electrotechn. fabr. enz.;Mannen;Particulier;22918
+1020;XI-XIII, 50. Electrotechn. fabr. enz.;Vrouwen;Totaal van alle dienstvormen;4335
+1021;XI-XIII, 50. Electrotechn. fabr. enz.;Vrouwen;Staat;20
+1022;XI-XIII, 50. Electrotechn. fabr. enz.;Vrouwen;Provincie;0
+1023;XI-XIII, 50. Electrotechn. fabr. enz.;Vrouwen;Gemeente;37
+1024;XI-XIII, 50. Electrotechn. fabr. enz.;Vrouwen;Waterschap;0
+1025;XI-XIII, 50. Electrotechn. fabr. enz.;Vrouwen;Particulier;4278
+1026;XI-XIII, 51. Gas-, electr.- en ...;Totaal mannen en vrouwen;Totaal van alle dienstvormen;948
+1027;XI-XIII, 51. Gas-, electr.- en ...;Totaal mannen en vrouwen;Staat;0
+1028;XI-XIII, 51. Gas-, electr.- en ...;Totaal mannen en vrouwen;Provincie;0
+1029;XI-XIII, 51. Gas-, electr.- en ...;Totaal mannen en vrouwen;Gemeente;3
+1030;XI-XIII, 51. Gas-, electr.- en ...;Totaal mannen en vrouwen;Waterschap;0
+1031;XI-XIII, 51. Gas-, electr.- en ...;Totaal mannen en vrouwen;Particulier;945
+1032;XI-XIII, 51. Gas-, electr.- en ...;Mannen;Totaal van alle dienstvormen;930
+1033;XI-XIII, 51. Gas-, electr.- en ...;Mannen;Staat;0
+1034;XI-XIII, 51. Gas-, electr.- en ...;Mannen;Provincie;0
+1035;XI-XIII, 51. Gas-, electr.- en ...;Mannen;Gemeente;3
+1036;XI-XIII, 51. Gas-, electr.- en ...;Mannen;Waterschap;0
+1037;XI-XIII, 51. Gas-, electr.- en ...;Mannen;Particulier;927
+1038;XI-XIII, 51. Gas-, electr.- en ...;Vrouwen;Totaal van alle dienstvormen;18
+1039;XI-XIII, 51. Gas-, electr.- en ...;Vrouwen;Staat;0
+1040;XI-XIII, 51. Gas-, electr.- en ...;Vrouwen;Provincie;0
+1041;XI-XIII, 51. Gas-, electr.- en ...;Vrouwen;Gemeente;0
+1042;XI-XIII, 51. Gas-, electr.- en ...;Vrouwen;Waterschap;0
+1043;XI-XIII, 51. Gas-, electr.- en ...;Vrouwen;Particulier;18
+1044;XI-XIII, 52. Instrumentmakerijen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;2377
+1045;XI-XIII, 52. Instrumentmakerijen;Totaal mannen en vrouwen;Staat;30
+1046;XI-XIII, 52. Instrumentmakerijen;Totaal mannen en vrouwen;Provincie;0
+1047;XI-XIII, 52. Instrumentmakerijen;Totaal mannen en vrouwen;Gemeente;5
+1048;XI-XIII, 52. Instrumentmakerijen;Totaal mannen en vrouwen;Waterschap;0
+1049;XI-XIII, 52. Instrumentmakerijen;Totaal mannen en vrouwen;Particulier;2342
+1050;XI-XIII, 52. Instrumentmakerijen;Mannen;Totaal van alle dienstvormen;2172
+1051;XI-XIII, 52. Instrumentmakerijen;Mannen;Staat;30
+1052;XI-XIII, 52. Instrumentmakerijen;Mannen;Provincie;0
+1053;XI-XIII, 52. Instrumentmakerijen;Mannen;Gemeente;5
+1054;XI-XIII, 52. Instrumentmakerijen;Mannen;Waterschap;0
+1055;XI-XIII, 52. Instrumentmakerijen;Mannen;Particulier;2137
+1056;XI-XIII, 52. Instrumentmakerijen;Vrouwen;Totaal van alle dienstvormen;205
+1057;XI-XIII, 52. Instrumentmakerijen;Vrouwen;Staat;0
+1058;XI-XIII, 52. Instrumentmakerijen;Vrouwen;Provincie;0
+1059;XI-XIII, 52. Instrumentmakerijen;Vrouwen;Gemeente;0
+1060;XI-XIII, 52. Instrumentmakerijen;Vrouwen;Waterschap;0
+1061;XI-XIII, 52. Instrumentmakerijen;Vrouwen;Particulier;205
+1062;XI-XIII, 54. Klokken- en uurwerkfabr.;Totaal mannen en vrouwen;Totaal van alle dienstvormen;2605
+1063;XI-XIII, 54. Klokken- en uurwerkfabr.;Totaal mannen en vrouwen;Staat;0
+1064;XI-XIII, 54. Klokken- en uurwerkfabr.;Totaal mannen en vrouwen;Provincie;0
+1065;XI-XIII, 54. Klokken- en uurwerkfabr.;Totaal mannen en vrouwen;Gemeente;7
+1066;XI-XIII, 54. Klokken- en uurwerkfabr.;Totaal mannen en vrouwen;Waterschap;0
+1067;XI-XIII, 54. Klokken- en uurwerkfabr.;Totaal mannen en vrouwen;Particulier;2598
+1068;XI-XIII, 54. Klokken- en uurwerkfabr.;Mannen;Totaal van alle dienstvormen;2589
+1069;XI-XIII, 54. Klokken- en uurwerkfabr.;Mannen;Staat;0
+1070;XI-XIII, 54. Klokken- en uurwerkfabr.;Mannen;Provincie;0
+1071;XI-XIII, 54. Klokken- en uurwerkfabr.;Mannen;Gemeente;7
+1072;XI-XIII, 54. Klokken- en uurwerkfabr.;Mannen;Waterschap;0
+1073;XI-XIII, 54. Klokken- en uurwerkfabr.;Mannen;Particulier;2582
+1074;XI-XIII, 54. Klokken- en uurwerkfabr.;Vrouwen;Totaal van alle dienstvormen;16
+1075;XI-XIII, 54. Klokken- en uurwerkfabr.;Vrouwen;Staat;0
+1076;XI-XIII, 54. Klokken- en uurwerkfabr.;Vrouwen;Provincie;0
+1077;XI-XIII, 54. Klokken- en uurwerkfabr.;Vrouwen;Gemeente;0
+1078;XI-XIII, 54. Klokken- en uurwerkfabr.;Vrouwen;Waterschap;0
+1079;XI-XIII, 54. Klokken- en uurwerkfabr.;Vrouwen;Particulier;16
+1080;XI-XIII, 55. Goud- en zilversmederijen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;2859
+1081;XI-XIII, 55. Goud- en zilversmederijen;Totaal mannen en vrouwen;Staat;144
+1082;XI-XIII, 55. Goud- en zilversmederijen;Totaal mannen en vrouwen;Provincie;0
+1083;XI-XIII, 55. Goud- en zilversmederijen;Totaal mannen en vrouwen;Gemeente;0
+1084;XI-XIII, 55. Goud- en zilversmederijen;Totaal mannen en vrouwen;Waterschap;0
+1085;XI-XIII, 55. Goud- en zilversmederijen;Totaal mannen en vrouwen;Particulier;2715
+1086;XI-XIII, 55. Goud- en zilversmederijen;Mannen;Totaal van alle dienstvormen;2620
+1087;XI-XIII, 55. Goud- en zilversmederijen;Mannen;Staat;131
+1088;XI-XIII, 55. Goud- en zilversmederijen;Mannen;Provincie;0
+1089;XI-XIII, 55. Goud- en zilversmederijen;Mannen;Gemeente;0
+1090;XI-XIII, 55. Goud- en zilversmederijen;Mannen;Waterschap;0
+1091;XI-XIII, 55. Goud- en zilversmederijen;Mannen;Particulier;2489
+1092;XI-XIII, 55. Goud- en zilversmederijen;Vrouwen;Totaal van alle dienstvormen;239
+1093;XI-XIII, 55. Goud- en zilversmederijen;Vrouwen;Staat;13
+1094;XI-XIII, 55. Goud- en zilversmederijen;Vrouwen;Provincie;0
+1095;XI-XIII, 55. Goud- en zilversmederijen;Vrouwen;Gemeente;0
+1096;XI-XIII, 55. Goud- en zilversmederijen;Vrouwen;Waterschap;0
+1097;XI-XIII, 55. Goud- en zilversmederijen;Vrouwen;Particulier;226
+1098;XI-XIII, 56. Rijkswerven;Totaal mannen en vrouwen;Totaal van alle dienstvormen;1707
+1099;XI-XIII, 56. Rijkswerven;Totaal mannen en vrouwen;Staat;1707
+1100;XI-XIII, 56. Rijkswerven;Totaal mannen en vrouwen;Provincie;0
+1101;XI-XIII, 56. Rijkswerven;Totaal mannen en vrouwen;Gemeente;0
+1102;XI-XIII, 56. Rijkswerven;Totaal mannen en vrouwen;Waterschap;0
+1103;XI-XIII, 56. Rijkswerven;Totaal mannen en vrouwen;Particulier;0
+1104;XI-XIII, 56. Rijkswerven;Mannen;Totaal van alle dienstvormen;1693
+1105;XI-XIII, 56. Rijkswerven;Mannen;Staat;1693
+1106;XI-XIII, 56. Rijkswerven;Mannen;Provincie;0
+1107;XI-XIII, 56. Rijkswerven;Mannen;Gemeente;0
+1108;XI-XIII, 56. Rijkswerven;Mannen;Waterschap;0
+1109;XI-XIII, 56. Rijkswerven;Mannen;Particulier;0
+1110;XI-XIII, 56. Rijkswerven;Vrouwen;Totaal van alle dienstvormen;14
+1111;XI-XIII, 56. Rijkswerven;Vrouwen;Staat;14
+1112;XI-XIII, 56. Rijkswerven;Vrouwen;Provincie;0
+1113;XI-XIII, 56. Rijkswerven;Vrouwen;Gemeente;0
+1114;XI-XIII, 56. Rijkswerven;Vrouwen;Waterschap;0
+1115;XI-XIII, 56. Rijkswerven;Vrouwen;Particulier;0
+1116;XIV, 8. Boekbinderijen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;5464
+1117;XIV, 8. Boekbinderijen;Totaal mannen en vrouwen;Staat;26
+1118;XIV, 8. Boekbinderijen;Totaal mannen en vrouwen;Provincie;0
+1119;XIV, 8. Boekbinderijen;Totaal mannen en vrouwen;Gemeente;28
+1120;XIV, 8. Boekbinderijen;Totaal mannen en vrouwen;Waterschap;0
+1121;XIV, 8. Boekbinderijen;Totaal mannen en vrouwen;Particulier;5410
+1122;XIV, 8. Boekbinderijen;Mannen;Totaal van alle dienstvormen;4564
+1123;XIV, 8. Boekbinderijen;Mannen;Staat;26
+1124;XIV, 8. Boekbinderijen;Mannen;Provincie;0
+1125;XIV, 8. Boekbinderijen;Mannen;Gemeente;25
+1126;XIV, 8. Boekbinderijen;Mannen;Waterschap;0
+1127;XIV, 8. Boekbinderijen;Mannen;Particulier;4513
+1128;XIV, 8. Boekbinderijen;Vrouwen;Totaal van alle dienstvormen;900
+1129;XIV, 8. Boekbinderijen;Vrouwen;Staat;0
+1130;XIV, 8. Boekbinderijen;Vrouwen;Provincie;0
+1131;XIV, 8. Boekbinderijen;Vrouwen;Gemeente;3
+1132;XIV, 8. Boekbinderijen;Vrouwen;Waterschap;0
+1133;XIV, 8. Boekbinderijen;Vrouwen;Particulier;897
+1134;XVI, 1. Gasfabrieken;Totaal mannen en vrouwen;Totaal van alle dienstvormen;10070
+1135;XVI, 1. Gasfabrieken;Totaal mannen en vrouwen;Staat;9
+1136;XVI, 1. Gasfabrieken;Totaal mannen en vrouwen;Provincie;0
+1137;XVI, 1. Gasfabrieken;Totaal mannen en vrouwen;Gemeente;9311
+1138;XVI, 1. Gasfabrieken;Totaal mannen en vrouwen;Waterschap;0
+1139;XVI, 1. Gasfabrieken;Totaal mannen en vrouwen;Particulier;750
+1140;XVI, 1. Gasfabrieken;Mannen;Totaal van alle dienstvormen;9847
+1141;XVI, 1. Gasfabrieken;Mannen;Staat;9
+1142;XVI, 1. Gasfabrieken;Mannen;Provincie;0
+1143;XVI, 1. Gasfabrieken;Mannen;Gemeente;9106
+1144;XVI, 1. Gasfabrieken;Mannen;Waterschap;0
+1145;XVI, 1. Gasfabrieken;Mannen;Particulier;732
+1146;XVI, 1. Gasfabrieken;Vrouwen;Totaal van alle dienstvormen;223
+1147;XVI, 1. Gasfabrieken;Vrouwen;Staat;0
+1148;XVI, 1. Gasfabrieken;Vrouwen;Provincie;0
+1149;XVI, 1. Gasfabrieken;Vrouwen;Gemeente;205
+1150;XVI, 1. Gasfabrieken;Vrouwen;Waterschap;0
+1151;XVI, 1. Gasfabrieken;Vrouwen;Particulier;18
+1152;XVI, 2. Electriciteitsbedrijven;Totaal mannen en vrouwen;Totaal van alle dienstvormen;10226
+1153;XVI, 2. Electriciteitsbedrijven;Totaal mannen en vrouwen;Staat;50
+1154;XVI, 2. Electriciteitsbedrijven;Totaal mannen en vrouwen;Provincie;531
+1155;XVI, 2. Electriciteitsbedrijven;Totaal mannen en vrouwen;Gemeente;6399
+1156;XVI, 2. Electriciteitsbedrijven;Totaal mannen en vrouwen;Waterschap;0
+1157;XVI, 2. Electriciteitsbedrijven;Totaal mannen en vrouwen;Particulier;3246
+1158;XVI, 2. Electriciteitsbedrijven;Mannen;Totaal van alle dienstvormen;9865
+1159;XVI, 2. Electriciteitsbedrijven;Mannen;Staat;50
+1160;XVI, 2. Electriciteitsbedrijven;Mannen;Provincie;502
+1161;XVI, 2. Electriciteitsbedrijven;Mannen;Gemeente;6235
+1162;XVI, 2. Electriciteitsbedrijven;Mannen;Waterschap;0
+1163;XVI, 2. Electriciteitsbedrijven;Mannen;Particulier;3078
+1164;XVI, 2. Electriciteitsbedrijven;Vrouwen;Totaal van alle dienstvormen;361
+1165;XVI, 2. Electriciteitsbedrijven;Vrouwen;Staat;0
+1166;XVI, 2. Electriciteitsbedrijven;Vrouwen;Provincie;29
+1167;XVI, 2. Electriciteitsbedrijven;Vrouwen;Gemeente;164
+1168;XVI, 2. Electriciteitsbedrijven;Vrouwen;Waterschap;0
+1169;XVI, 2. Electriciteitsbedrijven;Vrouwen;Particulier;168
+1170;XVII, 5. Brood- en beschuitfabrieken ...;Totaal mannen en vrouwen;Totaal van alle dienstvormen;49964
+1171;XVII, 5. Brood- en beschuitfabrieken ...;Totaal mannen en vrouwen;Staat;23
+1172;XVII, 5. Brood- en beschuitfabrieken ...;Totaal mannen en vrouwen;Provincie;0
+1173;XVII, 5. Brood- en beschuitfabrieken ...;Totaal mannen en vrouwen;Gemeente;0
+1174;XVII, 5. Brood- en beschuitfabrieken ...;Totaal mannen en vrouwen;Waterschap;0
+1175;XVII, 5. Brood- en beschuitfabrieken ...;Totaal mannen en vrouwen;Particulier;49941
+1176;XVII, 5. Brood- en beschuitfabrieken ...;Mannen;Totaal van alle dienstvormen;48323
+1177;XVII, 5. Brood- en beschuitfabrieken ...;Mannen;Staat;23
+1178;XVII, 5. Brood- en beschuitfabrieken ...;Mannen;Provincie;0
+1179;XVII, 5. Brood- en beschuitfabrieken ...;Mannen;Gemeente;0
+1180;XVII, 5. Brood- en beschuitfabrieken ...;Mannen;Waterschap;0
+1181;XVII, 5. Brood- en beschuitfabrieken ...;Mannen;Particulier;48300
+1182;XVII, 5. Brood- en beschuitfabrieken ...;Vrouwen;Totaal van alle dienstvormen;1641
+1183;XVII, 5. Brood- en beschuitfabrieken ...;Vrouwen;Staat;0
+1184;XVII, 5. Brood- en beschuitfabrieken ...;Vrouwen;Provincie;0
+1185;XVII, 5. Brood- en beschuitfabrieken ...;Vrouwen;Gemeente;0
+1186;XVII, 5. Brood- en beschuitfabrieken ...;Vrouwen;Waterschap;0
+1187;XVII, 5. Brood- en beschuitfabrieken ...;Vrouwen;Particulier;1641
+1188;XVII, 14. IJsfabrieken;Totaal mannen en vrouwen;Totaal van alle dienstvormen;442
+1189;XVII, 14. IJsfabrieken;Totaal mannen en vrouwen;Staat;0
+1190;XVII, 14. IJsfabrieken;Totaal mannen en vrouwen;Provincie;0
+1191;XVII, 14. IJsfabrieken;Totaal mannen en vrouwen;Gemeente;6
+1192;XVII, 14. IJsfabrieken;Totaal mannen en vrouwen;Waterschap;0
+1193;XVII, 14. IJsfabrieken;Totaal mannen en vrouwen;Particulier;436
+1194;XVII, 14. IJsfabrieken;Mannen;Totaal van alle dienstvormen;431
+1195;XVII, 14. IJsfabrieken;Mannen;Staat;0
+1196;XVII, 14. IJsfabrieken;Mannen;Provincie;0
+1197;XVII, 14. IJsfabrieken;Mannen;Gemeente;6
+1198;XVII, 14. IJsfabrieken;Mannen;Waterschap;0
+1199;XVII, 14. IJsfabrieken;Mannen;Particulier;425
+1200;XVII, 14. IJsfabrieken;Vrouwen;Totaal van alle dienstvormen;11
+1201;XVII, 14. IJsfabrieken;Vrouwen;Staat;0
+1202;XVII, 14. IJsfabrieken;Vrouwen;Provincie;0
+1203;XVII, 14. IJsfabrieken;Vrouwen;Gemeente;0
+1204;XVII, 14. IJsfabrieken;Vrouwen;Waterschap;0
+1205;XVII, 14. IJsfabrieken;Vrouwen;Particulier;11
+1206;XVII, 28. Waterleidingen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;2990
+1207;XVII, 28. Waterleidingen;Totaal mannen en vrouwen;Staat;13
+1208;XVII, 28. Waterleidingen;Totaal mannen en vrouwen;Provincie;190
+1209;XVII, 28. Waterleidingen;Totaal mannen en vrouwen;Gemeente;1951
+1210;XVII, 28. Waterleidingen;Totaal mannen en vrouwen;Waterschap;7
+1211;XVII, 28. Waterleidingen;Totaal mannen en vrouwen;Particulier;829
+1212;XVII, 28. Waterleidingen;Mannen;Totaal van alle dienstvormen;2898
+1213;XVII, 28. Waterleidingen;Mannen;Staat;12
+1214;XVII, 28. Waterleidingen;Mannen;Provincie;184
+1215;XVII, 28. Waterleidingen;Mannen;Gemeente;1900
+1216;XVII, 28. Waterleidingen;Mannen;Waterschap;7
+1217;XVII, 28. Waterleidingen;Mannen;Particulier;795
+1218;XVII, 28. Waterleidingen;Vrouwen;Totaal van alle dienstvormen;92
+1219;XVII, 28. Waterleidingen;Vrouwen;Staat;1
+1220;XVII, 28. Waterleidingen;Vrouwen;Provincie;6
+1221;XVII, 28. Waterleidingen;Vrouwen;Gemeente;51
+1222;XVII, 28. Waterleidingen;Vrouwen;Waterschap;0
+1223;XVII, 28. Waterleidingen;Vrouwen;Particulier;34
+1224;XVII, 29. Abattoirs;Totaal mannen en vrouwen;Totaal van alle dienstvormen;1382
+1225;XVII, 29. Abattoirs;Totaal mannen en vrouwen;Staat;0
+1226;XVII, 29. Abattoirs;Totaal mannen en vrouwen;Provincie;0
+1227;XVII, 29. Abattoirs;Totaal mannen en vrouwen;Gemeente;1144
+1228;XVII, 29. Abattoirs;Totaal mannen en vrouwen;Waterschap;0
+1229;XVII, 29. Abattoirs;Totaal mannen en vrouwen;Particulier;238
+1230;XVII, 29. Abattoirs;Mannen;Totaal van alle dienstvormen;1342
+1231;XVII, 29. Abattoirs;Mannen;Staat;0
+1232;XVII, 29. Abattoirs;Mannen;Provincie;0
+1233;XVII, 29. Abattoirs;Mannen;Gemeente;1109
+1234;XVII, 29. Abattoirs;Mannen;Waterschap;0
+1235;XVII, 29. Abattoirs;Mannen;Particulier;233
+1236;XVII, 29. Abattoirs;Vrouwen;Totaal van alle dienstvormen;40
+1237;XVII, 29. Abattoirs;Vrouwen;Staat;0
+1238;XVII, 29. Abattoirs;Vrouwen;Provincie;0
+1239;XVII, 29. Abattoirs;Vrouwen;Gemeente;35
+1240;XVII, 29. Abattoirs;Vrouwen;Waterschap;0
+1241;XVII, 29. Abattoirs;Vrouwen;Particulier;5
+1242;XVII, 30. Slachterijen en vleeschw.fabr.;Totaal mannen en vrouwen;Totaal van alle dienstvormen;35436
+1243;XVII, 30. Slachterijen en vleeschw.fabr.;Totaal mannen en vrouwen;Staat;0
+1244;XVII, 30. Slachterijen en vleeschw.fabr.;Totaal mannen en vrouwen;Provincie;0
+1245;XVII, 30. Slachterijen en vleeschw.fabr.;Totaal mannen en vrouwen;Gemeente;34
+1246;XVII, 30. Slachterijen en vleeschw.fabr.;Totaal mannen en vrouwen;Waterschap;0
+1247;XVII, 30. Slachterijen en vleeschw.fabr.;Totaal mannen en vrouwen;Particulier;35402
+1248;XVII, 30. Slachterijen en vleeschw.fabr.;Mannen;Totaal van alle dienstvormen;34613
+1249;XVII, 30. Slachterijen en vleeschw.fabr.;Mannen;Staat;0
+1250;XVII, 30. Slachterijen en vleeschw.fabr.;Mannen;Provincie;0
+1251;XVII, 30. Slachterijen en vleeschw.fabr.;Mannen;Gemeente;33
+1252;XVII, 30. Slachterijen en vleeschw.fabr.;Mannen;Waterschap;0
+1253;XVII, 30. Slachterijen en vleeschw.fabr.;Mannen;Particulier;34580
+1254;XVII, 30. Slachterijen en vleeschw.fabr.;Vrouwen;Totaal van alle dienstvormen;823
+1255;XVII, 30. Slachterijen en vleeschw.fabr.;Vrouwen;Staat;0
+1256;XVII, 30. Slachterijen en vleeschw.fabr.;Vrouwen;Provincie;0
+1257;XVII, 30. Slachterijen en vleeschw.fabr.;Vrouwen;Gemeente;1
+1258;XVII, 30. Slachterijen en vleeschw.fabr.;Vrouwen;Waterschap;0
+1259;XVII, 30. Slachterijen en vleeschw.fabr.;Vrouwen;Particulier;822
+1260;XVII, 32. Darmenbewerkerijen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;522
+1261;XVII, 32. Darmenbewerkerijen;Totaal mannen en vrouwen;Staat;0
+1262;XVII, 32. Darmenbewerkerijen;Totaal mannen en vrouwen;Provincie;0
+1263;XVII, 32. Darmenbewerkerijen;Totaal mannen en vrouwen;Gemeente;9
+1264;XVII, 32. Darmenbewerkerijen;Totaal mannen en vrouwen;Waterschap;0
+1265;XVII, 32. Darmenbewerkerijen;Totaal mannen en vrouwen;Particulier;513
+1266;XVII, 32. Darmenbewerkerijen;Mannen;Totaal van alle dienstvormen;401
+1267;XVII, 32. Darmenbewerkerijen;Mannen;Staat;0
+1268;XVII, 32. Darmenbewerkerijen;Mannen;Provincie;0
+1269;XVII, 32. Darmenbewerkerijen;Mannen;Gemeente;9
+1270;XVII, 32. Darmenbewerkerijen;Mannen;Waterschap;0
+1271;XVII, 32. Darmenbewerkerijen;Mannen;Particulier;392
+1272;XVII, 32. Darmenbewerkerijen;Vrouwen;Totaal van alle dienstvormen;121
+1273;XVII, 32. Darmenbewerkerijen;Vrouwen;Staat;0
+1274;XVII, 32. Darmenbewerkerijen;Vrouwen;Provincie;0
+1275;XVII, 32. Darmenbewerkerijen;Vrouwen;Gemeente;0
+1276;XVII, 32. Darmenbewerkerijen;Vrouwen;Waterschap;0
+1277;XVII, 32. Darmenbewerkerijen;Vrouwen;Particulier;121
+1278;XVII, 46. Koksbedrijven en kokerijen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;916
+1279;XVII, 46. Koksbedrijven en kokerijen;Totaal mannen en vrouwen;Staat;0
+1280;XVII, 46. Koksbedrijven en kokerijen;Totaal mannen en vrouwen;Provincie;0
+1281;XVII, 46. Koksbedrijven en kokerijen;Totaal mannen en vrouwen;Gemeente;9
+1282;XVII, 46. Koksbedrijven en kokerijen;Totaal mannen en vrouwen;Waterschap;0
+1283;XVII, 46. Koksbedrijven en kokerijen;Totaal mannen en vrouwen;Particulier;907
+1284;XVII, 46. Koksbedrijven en kokerijen;Mannen;Totaal van alle dienstvormen;784
+1285;XVII, 46. Koksbedrijven en kokerijen;Mannen;Staat;0
+1286;XVII, 46. Koksbedrijven en kokerijen;Mannen;Provincie;0
+1287;XVII, 46. Koksbedrijven en kokerijen;Mannen;Gemeente;3
+1288;XVII, 46. Koksbedrijven en kokerijen;Mannen;Waterschap;0
+1289;XVII, 46. Koksbedrijven en kokerijen;Mannen;Particulier;781
+1290;XVII, 46. Koksbedrijven en kokerijen;Vrouwen;Totaal van alle dienstvormen;132
+1291;XVII, 46. Koksbedrijven en kokerijen;Vrouwen;Staat;0
+1292;XVII, 46. Koksbedrijven en kokerijen;Vrouwen;Provincie;0
+1293;XVII, 46. Koksbedrijven en kokerijen;Vrouwen;Gemeente;6
+1294;XVII, 46. Koksbedrijven en kokerijen;Vrouwen;Waterschap;0
+1295;XVII, 46. Koksbedrijven en kokerijen;Vrouwen;Particulier;126
+1296;XVIII, 1. Landbouw (akkerb. en veehoud.);Totaal mannen en vrouwen;Totaal van alle dienstvormen;549366
+1297;XVIII, 1. Landbouw (akkerb. en veehoud.);Totaal mannen en vrouwen;Staat;52
+1298;XVIII, 1. Landbouw (akkerb. en veehoud.);Totaal mannen en vrouwen;Provincie;12
+1299;XVIII, 1. Landbouw (akkerb. en veehoud.);Totaal mannen en vrouwen;Gemeente;171
+1300;XVIII, 1. Landbouw (akkerb. en veehoud.);Totaal mannen en vrouwen;Waterschap;117
+1301;XVIII, 1. Landbouw (akkerb. en veehoud.);Totaal mannen en vrouwen;Particulier;549014
+1302;XVIII, 1. Landbouw (akkerb. en veehoud.);Mannen;Totaal van alle dienstvormen;441774
+1303;XVIII, 1. Landbouw (akkerb. en veehoud.);Mannen;Staat;50
+1304;XVIII, 1. Landbouw (akkerb. en veehoud.);Mannen;Provincie;12
+1305;XVIII, 1. Landbouw (akkerb. en veehoud.);Mannen;Gemeente;166
+1306;XVIII, 1. Landbouw (akkerb. en veehoud.);Mannen;Waterschap;117
+1307;XVIII, 1. Landbouw (akkerb. en veehoud.);Mannen;Particulier;441429
+1308;XVIII, 1. Landbouw (akkerb. en veehoud.);Vrouwen;Totaal van alle dienstvormen;107592
+1309;XVIII, 1. Landbouw (akkerb. en veehoud.);Vrouwen;Staat;2
+1310;XVIII, 1. Landbouw (akkerb. en veehoud.);Vrouwen;Provincie;0
+1311;XVIII, 1. Landbouw (akkerb. en veehoud.);Vrouwen;Gemeente;5
+1312;XVIII, 1. Landbouw (akkerb. en veehoud.);Vrouwen;Waterschap;0
+1313;XVIII, 1. Landbouw (akkerb. en veehoud.);Vrouwen;Particulier;107585
+1314;XVIII, 2. Groenten- en ooftteelt;Totaal mannen en vrouwen;Totaal van alle dienstvormen;50327
+1315;XVIII, 2. Groenten- en ooftteelt;Totaal mannen en vrouwen;Staat;3
+1316;XVIII, 2. Groenten- en ooftteelt;Totaal mannen en vrouwen;Provincie;7
+1317;XVIII, 2. Groenten- en ooftteelt;Totaal mannen en vrouwen;Gemeente;20
+1318;XVIII, 2. Groenten- en ooftteelt;Totaal mannen en vrouwen;Waterschap;3
+1319;XVIII, 2. Groenten- en ooftteelt;Totaal mannen en vrouwen;Particulier;50294
+1320;XVIII, 2. Groenten- en ooftteelt;Mannen;Totaal van alle dienstvormen;49050
+1321;XVIII, 2. Groenten- en ooftteelt;Mannen;Staat;3
+1322;XVIII, 2. Groenten- en ooftteelt;Mannen;Provincie;7
+1323;XVIII, 2. Groenten- en ooftteelt;Mannen;Gemeente;20
+1324;XVIII, 2. Groenten- en ooftteelt;Mannen;Waterschap;3
+1325;XVIII, 2. Groenten- en ooftteelt;Mannen;Particulier;49017
+1326;XVIII, 2. Groenten- en ooftteelt;Vrouwen;Totaal van alle dienstvormen;1277
+1327;XVIII, 2. Groenten- en ooftteelt;Vrouwen;Staat;0
+1328;XVIII, 2. Groenten- en ooftteelt;Vrouwen;Provincie;0
+1329;XVIII, 2. Groenten- en ooftteelt;Vrouwen;Gemeente;0
+1330;XVIII, 2. Groenten- en ooftteelt;Vrouwen;Waterschap;0
+1331;XVIII, 2. Groenten- en ooftteelt;Vrouwen;Particulier;1277
+1332;XVIII, 3. Boomkweekerijen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;5437
+1333;XVIII, 3. Boomkweekerijen;Totaal mannen en vrouwen;Staat;1
+1334;XVIII, 3. Boomkweekerijen;Totaal mannen en vrouwen;Provincie;2
+1335;XVIII, 3. Boomkweekerijen;Totaal mannen en vrouwen;Gemeente;31
+1336;XVIII, 3. Boomkweekerijen;Totaal mannen en vrouwen;Waterschap;0
+1337;XVIII, 3. Boomkweekerijen;Totaal mannen en vrouwen;Particulier;5403
+1338;XVIII, 3. Boomkweekerijen;Mannen;Totaal van alle dienstvormen;5376
+1339;XVIII, 3. Boomkweekerijen;Mannen;Staat;1
+1340;XVIII, 3. Boomkweekerijen;Mannen;Provincie;2
+1341;XVIII, 3. Boomkweekerijen;Mannen;Gemeente;31
+1342;XVIII, 3. Boomkweekerijen;Mannen;Waterschap;0
+1343;XVIII, 3. Boomkweekerijen;Mannen;Particulier;5342
+1344;XVIII, 3. Boomkweekerijen;Vrouwen;Totaal van alle dienstvormen;61
+1345;XVIII, 3. Boomkweekerijen;Vrouwen;Staat;0
+1346;XVIII, 3. Boomkweekerijen;Vrouwen;Provincie;0
+1347;XVIII, 3. Boomkweekerijen;Vrouwen;Gemeente;0
+1348;XVIII, 3. Boomkweekerijen;Vrouwen;Waterschap;0
+1349;XVIII, 3. Boomkweekerijen;Vrouwen;Particulier;61
+1350;XVIII, 4. Bloemisterijen en tuinierd.;Totaal mannen en vrouwen;Totaal van alle dienstvormen;16183
+1351;XVIII, 4. Bloemisterijen en tuinierd.;Totaal mannen en vrouwen;Staat;8
+1352;XVIII, 4. Bloemisterijen en tuinierd.;Totaal mannen en vrouwen;Provincie;2
+1353;XVIII, 4. Bloemisterijen en tuinierd.;Totaal mannen en vrouwen;Gemeente;1779
+1354;XVIII, 4. Bloemisterijen en tuinierd.;Totaal mannen en vrouwen;Waterschap;1
+1355;XVIII, 4. Bloemisterijen en tuinierd.;Totaal mannen en vrouwen;Particulier;14393
+1356;XVIII, 4. Bloemisterijen en tuinierd.;Mannen;Totaal van alle dienstvormen;15988
+1357;XVIII, 4. Bloemisterijen en tuinierd.;Mannen;Staat;8
+1358;XVIII, 4. Bloemisterijen en tuinierd.;Mannen;Provincie;2
+1359;XVIII, 4. Bloemisterijen en tuinierd.;Mannen;Gemeente;1772
+1360;XVIII, 4. Bloemisterijen en tuinierd.;Mannen;Waterschap;1
+1361;XVIII, 4. Bloemisterijen en tuinierd.;Mannen;Particulier;14205
+1362;XVIII, 4. Bloemisterijen en tuinierd.;Vrouwen;Totaal van alle dienstvormen;195
+1363;XVIII, 4. Bloemisterijen en tuinierd.;Vrouwen;Staat;0
+1364;XVIII, 4. Bloemisterijen en tuinierd.;Vrouwen;Provincie;0
+1365;XVIII, 4. Bloemisterijen en tuinierd.;Vrouwen;Gemeente;7
+1366;XVIII, 4. Bloemisterijen en tuinierd.;Vrouwen;Waterschap;0
+1367;XVIII, 4. Bloemisterijen en tuinierd.;Vrouwen;Particulier;188
+1368;XVIII, 5. Bloembollencultuur;Totaal mannen en vrouwen;Totaal van alle dienstvormen;11232
+1369;XVIII, 5. Bloembollencultuur;Totaal mannen en vrouwen;Staat;0
+1370;XVIII, 5. Bloembollencultuur;Totaal mannen en vrouwen;Provincie;0
+1371;XVIII, 5. Bloembollencultuur;Totaal mannen en vrouwen;Gemeente;1
+1372;XVIII, 5. Bloembollencultuur;Totaal mannen en vrouwen;Waterschap;0
+1373;XVIII, 5. Bloembollencultuur;Totaal mannen en vrouwen;Particulier;11231
+1374;XVIII, 5. Bloembollencultuur;Mannen;Totaal van alle dienstvormen;11094
+1375;XVIII, 5. Bloembollencultuur;Mannen;Staat;0
+1376;XVIII, 5. Bloembollencultuur;Mannen;Provincie;0
+1377;XVIII, 5. Bloembollencultuur;Mannen;Gemeente;1
+1378;XVIII, 5. Bloembollencultuur;Mannen;Waterschap;0
+1379;XVIII, 5. Bloembollencultuur;Mannen;Particulier;11093
+1380;XVIII, 5. Bloembollencultuur;Vrouwen;Totaal van alle dienstvormen;138
+1381;XVIII, 5. Bloembollencultuur;Vrouwen;Staat;0
+1382;XVIII, 5. Bloembollencultuur;Vrouwen;Provincie;0
+1383;XVIII, 5. Bloembollencultuur;Vrouwen;Gemeente;0
+1384;XVIII, 5. Bloembollencultuur;Vrouwen;Waterschap;0
+1385;XVIII, 5. Bloembollencultuur;Vrouwen;Particulier;138
+1386;XVIII, 7. Boschbouw;Totaal mannen en vrouwen;Totaal van alle dienstvormen;4196
+1387;XVIII, 7. Boschbouw;Totaal mannen en vrouwen;Staat;514
+1388;XVIII, 7. Boschbouw;Totaal mannen en vrouwen;Provincie;8
+1389;XVIII, 7. Boschbouw;Totaal mannen en vrouwen;Gemeente;144
+1390;XVIII, 7. Boschbouw;Totaal mannen en vrouwen;Waterschap;3
+1391;XVIII, 7. Boschbouw;Totaal mannen en vrouwen;Particulier;3527
+1392;XVIII, 7. Boschbouw;Mannen;Totaal van alle dienstvormen;4185
+1393;XVIII, 7. Boschbouw;Mannen;Staat;506
+1394;XVIII, 7. Boschbouw;Mannen;Provincie;8
+1395;XVIII, 7. Boschbouw;Mannen;Gemeente;144
+1396;XVIII, 7. Boschbouw;Mannen;Waterschap;3
+1397;XVIII, 7. Boschbouw;Mannen;Particulier;3524
+1398;XVIII, 7. Boschbouw;Vrouwen;Totaal van alle dienstvormen;11
+1399;XVIII, 7. Boschbouw;Vrouwen;Staat;8
+1400;XVIII, 7. Boschbouw;Vrouwen;Provincie;0
+1401;XVIII, 7. Boschbouw;Vrouwen;Gemeente;0
+1402;XVIII, 7. Boschbouw;Vrouwen;Waterschap;0
+1403;XVIII, 7. Boschbouw;Vrouwen;Particulier;3
+1404;XVIII, 8. Ontginning;Totaal mannen en vrouwen;Totaal van alle dienstvormen;1907
+1405;XVIII, 8. Ontginning;Totaal mannen en vrouwen;Staat;22
+1406;XVIII, 8. Ontginning;Totaal mannen en vrouwen;Provincie;5
+1407;XVIII, 8. Ontginning;Totaal mannen en vrouwen;Gemeente;108
+1408;XVIII, 8. Ontginning;Totaal mannen en vrouwen;Waterschap;12
+1409;XVIII, 8. Ontginning;Totaal mannen en vrouwen;Particulier;1760
+1410;XVIII, 8. Ontginning;Mannen;Totaal van alle dienstvormen;1871
+1411;XVIII, 8. Ontginning;Mannen;Staat;22
+1412;XVIII, 8. Ontginning;Mannen;Provincie;5
+1413;XVIII, 8. Ontginning;Mannen;Gemeente;108
+1414;XVIII, 8. Ontginning;Mannen;Waterschap;12
+1415;XVIII, 8. Ontginning;Mannen;Particulier;1724
+1416;XVIII, 8. Ontginning;Vrouwen;Totaal van alle dienstvormen;36
+1417;XVIII, 8. Ontginning;Vrouwen;Staat;0
+1418;XVIII, 8. Ontginning;Vrouwen;Provincie;0
+1419;XVIII, 8. Ontginning;Vrouwen;Gemeente;0
+1420;XVIII, 8. Ontginning;Vrouwen;Waterschap;0
+1421;XVIII, 8. Ontginning;Vrouwen;Particulier;36
+1422;XIX, 1. Zee- en kustvisscherij;Totaal mannen en vrouwen;Totaal van alle dienstvormen;12100
+1423;XIX, 1. Zee- en kustvisscherij;Totaal mannen en vrouwen;Staat;4
+1424;XIX, 1. Zee- en kustvisscherij;Totaal mannen en vrouwen;Provincie;0
+1425;XIX, 1. Zee- en kustvisscherij;Totaal mannen en vrouwen;Gemeente;1
+1426;XIX, 1. Zee- en kustvisscherij;Totaal mannen en vrouwen;Waterschap;0
+1427;XIX, 1. Zee- en kustvisscherij;Totaal mannen en vrouwen;Particulier;12095
+1428;XIX, 1. Zee- en kustvisscherij;Mannen;Totaal van alle dienstvormen;11810
+1429;XIX, 1. Zee- en kustvisscherij;Mannen;Staat;4
+1430;XIX, 1. Zee- en kustvisscherij;Mannen;Provincie;0
+1431;XIX, 1. Zee- en kustvisscherij;Mannen;Gemeente;1
+1432;XIX, 1. Zee- en kustvisscherij;Mannen;Waterschap;0
+1433;XIX, 1. Zee- en kustvisscherij;Mannen;Particulier;11805
+1434;XIX, 1. Zee- en kustvisscherij;Vrouwen;Totaal van alle dienstvormen;290
+1435;XIX, 1. Zee- en kustvisscherij;Vrouwen;Staat;0
+1436;XIX, 1. Zee- en kustvisscherij;Vrouwen;Provincie;0
+1437;XIX, 1. Zee- en kustvisscherij;Vrouwen;Gemeente;0
+1438;XIX, 1. Zee- en kustvisscherij;Vrouwen;Waterschap;0
+1439;XIX, 1. Zee- en kustvisscherij;Vrouwen;Particulier;290
+1440;XIX, 2. Zoetwatervisscherij;Totaal mannen en vrouwen;Totaal van alle dienstvormen;2446
+1441;XIX, 2. Zoetwatervisscherij;Totaal mannen en vrouwen;Staat;0
+1442;XIX, 2. Zoetwatervisscherij;Totaal mannen en vrouwen;Provincie;0
+1443;XIX, 2. Zoetwatervisscherij;Totaal mannen en vrouwen;Gemeente;2
+1444;XIX, 2. Zoetwatervisscherij;Totaal mannen en vrouwen;Waterschap;0
+1445;XIX, 2. Zoetwatervisscherij;Totaal mannen en vrouwen;Particulier;2444
+1446;XIX, 2. Zoetwatervisscherij;Mannen;Totaal van alle dienstvormen;2440
+1447;XIX, 2. Zoetwatervisscherij;Mannen;Staat;0
+1448;XIX, 2. Zoetwatervisscherij;Mannen;Provincie;0
+1449;XIX, 2. Zoetwatervisscherij;Mannen;Gemeente;2
+1450;XIX, 2. Zoetwatervisscherij;Mannen;Waterschap;0
+1451;XIX, 2. Zoetwatervisscherij;Mannen;Particulier;2438
+1452;XIX, 2. Zoetwatervisscherij;Vrouwen;Totaal van alle dienstvormen;6
+1453;XIX, 2. Zoetwatervisscherij;Vrouwen;Staat;0
+1454;XIX, 2. Zoetwatervisscherij;Vrouwen;Provincie;0
+1455;XIX, 2. Zoetwatervisscherij;Vrouwen;Gemeente;0
+1456;XIX, 2. Zoetwatervisscherij;Vrouwen;Waterschap;0
+1457;XIX, 2. Zoetwatervisscherij;Vrouwen;Particulier;6
+1458;XIX, 5. Jacht;Totaal mannen en vrouwen;Totaal van alle dienstvormen;348
+1459;XIX, 5. Jacht;Totaal mannen en vrouwen;Staat;0
+1460;XIX, 5. Jacht;Totaal mannen en vrouwen;Provincie;0
+1461;XIX, 5. Jacht;Totaal mannen en vrouwen;Gemeente;0
+1462;XIX, 5. Jacht;Totaal mannen en vrouwen;Waterschap;1
+1463;XIX, 5. Jacht;Totaal mannen en vrouwen;Particulier;347
+1464;XIX, 5. Jacht;Mannen;Totaal van alle dienstvormen;348
+1465;XIX, 5. Jacht;Mannen;Staat;0
+1466;XIX, 5. Jacht;Mannen;Provincie;0
+1467;XIX, 5. Jacht;Mannen;Gemeente;0
+1468;XIX, 5. Jacht;Mannen;Waterschap;1
+1469;XIX, 5. Jacht;Mannen;Particulier;347
+1470;XIX, 5. Jacht;Vrouwen;Totaal van alle dienstvormen;0
+1471;XIX, 5. Jacht;Vrouwen;Staat;0
+1472;XIX, 5. Jacht;Vrouwen;Provincie;0
+1473;XIX, 5. Jacht;Vrouwen;Gemeente;0
+1474;XIX, 5. Jacht;Vrouwen;Waterschap;0
+1475;XIX, 5. Jacht;Vrouwen;Particulier;0
+1476;XX, 2. Groot-, tusschen- en detailhandel;Totaal mannen en vrouwen;Totaal van alle dienstvormen;136665
+1477;XX, 2. Groot-, tusschen- en detailhandel;Totaal mannen en vrouwen;Staat;94
+1478;XX, 2. Groot-, tusschen- en detailhandel;Totaal mannen en vrouwen;Provincie;0
+1479;XX, 2. Groot-, tusschen- en detailhandel;Totaal mannen en vrouwen;Gemeente;56
+1480;XX, 2. Groot-, tusschen- en detailhandel;Totaal mannen en vrouwen;Waterschap;0
+1481;XX, 2. Groot-, tusschen- en detailhandel;Totaal mannen en vrouwen;Particulier;136515
+1482;XX, 2. Groot-, tusschen- en detailhandel;Mannen;Totaal van alle dienstvormen;123363
+1483;XX, 2. Groot-, tusschen- en detailhandel;Mannen;Staat;65
+1484;XX, 2. Groot-, tusschen- en detailhandel;Mannen;Provincie;0
+1485;XX, 2. Groot-, tusschen- en detailhandel;Mannen;Gemeente;51
+1486;XX, 2. Groot-, tusschen- en detailhandel;Mannen;Waterschap;0
+1487;XX, 2. Groot-, tusschen- en detailhandel;Mannen;Particulier;123247
+1488;XX, 2. Groot-, tusschen- en detailhandel;Vrouwen;Totaal van alle dienstvormen;13302
+1489;XX, 2. Groot-, tusschen- en detailhandel;Vrouwen;Staat;29
+1490;XX, 2. Groot-, tusschen- en detailhandel;Vrouwen;Provincie;0
+1491;XX, 2. Groot-, tusschen- en detailhandel;Vrouwen;Gemeente;5
+1492;XX, 2. Groot-, tusschen- en detailhandel;Vrouwen;Waterschap;0
+1493;XX, 2. Groot-, tusschen- en detailhandel;Vrouwen;Particulier;13268
+1494;XX, 6. Handel in onr. goed, woningbur.;Totaal mannen en vrouwen;Totaal van alle dienstvormen;2737
+1495;XX, 6. Handel in onr. goed, woningbur.;Totaal mannen en vrouwen;Staat;0
+1496;XX, 6. Handel in onr. goed, woningbur.;Totaal mannen en vrouwen;Provincie;0
+1497;XX, 6. Handel in onr. goed, woningbur.;Totaal mannen en vrouwen;Gemeente;271
+1498;XX, 6. Handel in onr. goed, woningbur.;Totaal mannen en vrouwen;Waterschap;0
+1499;XX, 6. Handel in onr. goed, woningbur.;Totaal mannen en vrouwen;Particulier;2466
+1500;XX, 6. Handel in onr. goed, woningbur.;Mannen;Totaal van alle dienstvormen;2370
+1501;XX, 6. Handel in onr. goed, woningbur.;Mannen;Staat;0
+1502;XX, 6. Handel in onr. goed, woningbur.;Mannen;Provincie;0
+1503;XX, 6. Handel in onr. goed, woningbur.;Mannen;Gemeente;229
+1504;XX, 6. Handel in onr. goed, woningbur.;Mannen;Waterschap;0
+1505;XX, 6. Handel in onr. goed, woningbur.;Mannen;Particulier;2141
+1506;XX, 6. Handel in onr. goed, woningbur.;Vrouwen;Totaal van alle dienstvormen;367
+1507;XX, 6. Handel in onr. goed, woningbur.;Vrouwen;Staat;0
+1508;XX, 6. Handel in onr. goed, woningbur.;Vrouwen;Provincie;0
+1509;XX, 6. Handel in onr. goed, woningbur.;Vrouwen;Gemeente;42
+1510;XX, 6. Handel in onr. goed, woningbur.;Vrouwen;Waterschap;0
+1511;XX, 6. Handel in onr. goed, woningbur.;Vrouwen;Particulier;325
+1512;XX, 8. Markt- en tentoonstellingswezen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;4249
+1513;XX, 8. Markt- en tentoonstellingswezen;Totaal mannen en vrouwen;Staat;30
+1514;XX, 8. Markt- en tentoonstellingswezen;Totaal mannen en vrouwen;Provincie;0
+1515;XX, 8. Markt- en tentoonstellingswezen;Totaal mannen en vrouwen;Gemeente;186
+1516;XX, 8. Markt- en tentoonstellingswezen;Totaal mannen en vrouwen;Waterschap;0
+1517;XX, 8. Markt- en tentoonstellingswezen;Totaal mannen en vrouwen;Particulier;4033
+1518;XX, 8. Markt- en tentoonstellingswezen;Mannen;Totaal van alle dienstvormen;3824
+1519;XX, 8. Markt- en tentoonstellingswezen;Mannen;Staat;28
+1520;XX, 8. Markt- en tentoonstellingswezen;Mannen;Provincie;0
+1521;XX, 8. Markt- en tentoonstellingswezen;Mannen;Gemeente;177
+1522;XX, 8. Markt- en tentoonstellingswezen;Mannen;Waterschap;0
+1523;XX, 8. Markt- en tentoonstellingswezen;Mannen;Particulier;3619
+1524;XX, 8. Markt- en tentoonstellingswezen;Vrouwen;Totaal van alle dienstvormen;425
+1525;XX, 8. Markt- en tentoonstellingswezen;Vrouwen;Staat;2
+1526;XX, 8. Markt- en tentoonstellingswezen;Vrouwen;Provincie;0
+1527;XX, 8. Markt- en tentoonstellingswezen;Vrouwen;Gemeente;9
+1528;XX, 8. Markt- en tentoonstellingswezen;Vrouwen;Waterschap;0
+1529;XX, 8. Markt- en tentoonstellingswezen;Vrouwen;Particulier;414
+1530;XX, 10. Verhuurinrichtingen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;1240
+1531;XX, 10. Verhuurinrichtingen;Totaal mannen en vrouwen;Staat;0
+1532;XX, 10. Verhuurinrichtingen;Totaal mannen en vrouwen;Provincie;0
+1533;XX, 10. Verhuurinrichtingen;Totaal mannen en vrouwen;Gemeente;7
+1534;XX, 10. Verhuurinrichtingen;Totaal mannen en vrouwen;Waterschap;2
+1535;XX, 10. Verhuurinrichtingen;Totaal mannen en vrouwen;Particulier;1231
+1536;XX, 10. Verhuurinrichtingen;Mannen;Totaal van alle dienstvormen;1058
+1537;XX, 10. Verhuurinrichtingen;Mannen;Staat;0
+1538;XX, 10. Verhuurinrichtingen;Mannen;Provincie;0
+1539;XX, 10. Verhuurinrichtingen;Mannen;Gemeente;7
+1540;XX, 10. Verhuurinrichtingen;Mannen;Waterschap;2
+1541;XX, 10. Verhuurinrichtingen;Mannen;Particulier;1049
+1542;XX, 10. Verhuurinrichtingen;Vrouwen;Totaal van alle dienstvormen;182
+1543;XX, 10. Verhuurinrichtingen;Vrouwen;Staat;0
+1544;XX, 10. Verhuurinrichtingen;Vrouwen;Provincie;0
+1545;XX, 10. Verhuurinrichtingen;Vrouwen;Gemeente;0
+1546;XX, 10. Verhuurinrichtingen;Vrouwen;Waterschap;0
+1547;XX, 10. Verhuurinrichtingen;Vrouwen;Particulier;182
+1548;XX, 12. Adviesbureaux e.d.;Totaal mannen en vrouwen;Totaal van alle dienstvormen;3037
+1549;XX, 12. Adviesbureaux e.d.;Totaal mannen en vrouwen;Staat;30
+1550;XX, 12. Adviesbureaux e.d.;Totaal mannen en vrouwen;Provincie;0
+1551;XX, 12. Adviesbureaux e.d.;Totaal mannen en vrouwen;Gemeente;728
+1552;XX, 12. Adviesbureaux e.d.;Totaal mannen en vrouwen;Waterschap;0
+1553;XX, 12. Adviesbureaux e.d.;Totaal mannen en vrouwen;Particulier;2279
+1554;XX, 12. Adviesbureaux e.d.;Mannen;Totaal van alle dienstvormen;2242
+1555;XX, 12. Adviesbureaux e.d.;Mannen;Staat;21
+1556;XX, 12. Adviesbureaux e.d.;Mannen;Provincie;0
+1557;XX, 12. Adviesbureaux e.d.;Mannen;Gemeente;614
+1558;XX, 12. Adviesbureaux e.d.;Mannen;Waterschap;0
+1559;XX, 12. Adviesbureaux e.d.;Mannen;Particulier;1607
+1560;XX, 12. Adviesbureaux e.d.;Vrouwen;Totaal van alle dienstvormen;795
+1561;XX, 12. Adviesbureaux e.d.;Vrouwen;Staat;9
+1562;XX, 12. Adviesbureaux e.d.;Vrouwen;Provincie;0
+1563;XX, 12. Adviesbureaux e.d.;Vrouwen;Gemeente;114
+1564;XX, 12. Adviesbureaux e.d.;Vrouwen;Waterschap;0
+1565;XX, 12. Adviesbureaux e.d.;Vrouwen;Particulier;672
+1566;XX, 14. Huishoudelijke en sanitaire art.;Totaal mannen en vrouwen;Totaal van alle dienstvormen;4854
+1567;XX, 14. Huishoudelijke en sanitaire art.;Totaal mannen en vrouwen;Staat;0
+1568;XX, 14. Huishoudelijke en sanitaire art.;Totaal mannen en vrouwen;Provincie;0
+1569;XX, 14. Huishoudelijke en sanitaire art.;Totaal mannen en vrouwen;Gemeente;3
+1570;XX, 14. Huishoudelijke en sanitaire art.;Totaal mannen en vrouwen;Waterschap;0
+1571;XX, 14. Huishoudelijke en sanitaire art.;Totaal mannen en vrouwen;Particulier;4851
+1572;XX, 14. Huishoudelijke en sanitaire art.;Mannen;Totaal van alle dienstvormen;2961
+1573;XX, 14. Huishoudelijke en sanitaire art.;Mannen;Staat;0
+1574;XX, 14. Huishoudelijke en sanitaire art.;Mannen;Provincie;0
+1575;XX, 14. Huishoudelijke en sanitaire art.;Mannen;Gemeente;1
+1576;XX, 14. Huishoudelijke en sanitaire art.;Mannen;Waterschap;0
+1577;XX, 14. Huishoudelijke en sanitaire art.;Mannen;Particulier;2960
+1578;XX, 14. Huishoudelijke en sanitaire art.;Vrouwen;Totaal van alle dienstvormen;1893
+1579;XX, 14. Huishoudelijke en sanitaire art.;Vrouwen;Staat;0
+1580;XX, 14. Huishoudelijke en sanitaire art.;Vrouwen;Provincie;0
+1581;XX, 14. Huishoudelijke en sanitaire art.;Vrouwen;Gemeente;2
+1582;XX, 14. Huishoudelijke en sanitaire art.;Vrouwen;Waterschap;0
+1583;XX, 14. Huishoudelijke en sanitaire art.;Vrouwen;Particulier;1891
+1584;XX, 23. Drogerijen, genees- en verbandm.;Totaal mannen en vrouwen;Totaal van alle dienstvormen;3970
+1585;XX, 23. Drogerijen, genees- en verbandm.;Totaal mannen en vrouwen;Staat;11
+1586;XX, 23. Drogerijen, genees- en verbandm.;Totaal mannen en vrouwen;Provincie;0
+1587;XX, 23. Drogerijen, genees- en verbandm.;Totaal mannen en vrouwen;Gemeente;0
+1588;XX, 23. Drogerijen, genees- en verbandm.;Totaal mannen en vrouwen;Waterschap;0
+1589;XX, 23. Drogerijen, genees- en verbandm.;Totaal mannen en vrouwen;Particulier;3959
+1590;XX, 23. Drogerijen, genees- en verbandm.;Mannen;Totaal van alle dienstvormen;2783
+1591;XX, 23. Drogerijen, genees- en verbandm.;Mannen;Staat;6
+1592;XX, 23. Drogerijen, genees- en verbandm.;Mannen;Provincie;0
+1593;XX, 23. Drogerijen, genees- en verbandm.;Mannen;Gemeente;0
+1594;XX, 23. Drogerijen, genees- en verbandm.;Mannen;Waterschap;0
+1595;XX, 23. Drogerijen, genees- en verbandm.;Mannen;Particulier;2777
+1596;XX, 23. Drogerijen, genees- en verbandm.;Vrouwen;Totaal van alle dienstvormen;1187
+1597;XX, 23. Drogerijen, genees- en verbandm.;Vrouwen;Staat;5
+1598;XX, 23. Drogerijen, genees- en verbandm.;Vrouwen;Provincie;0
+1599;XX, 23. Drogerijen, genees- en verbandm.;Vrouwen;Gemeente;0
+1600;XX, 23. Drogerijen, genees- en verbandm.;Vrouwen;Waterschap;0
+1601;XX, 23. Drogerijen, genees- en verbandm.;Vrouwen;Particulier;1182
+1602;XX, 35. Visch;Totaal mannen en vrouwen;Totaal van alle dienstvormen;2309
+1603;XX, 35. Visch;Totaal mannen en vrouwen;Staat;0
+1604;XX, 35. Visch;Totaal mannen en vrouwen;Provincie;0
+1605;XX, 35. Visch;Totaal mannen en vrouwen;Gemeente;28
+1606;XX, 35. Visch;Totaal mannen en vrouwen;Waterschap;0
+1607;XX, 35. Visch;Totaal mannen en vrouwen;Particulier;2281
+1608;XX, 35. Visch;Mannen;Totaal van alle dienstvormen;1866
+1609;XX, 35. Visch;Mannen;Staat;0
+1610;XX, 35. Visch;Mannen;Provincie;0
+1611;XX, 35. Visch;Mannen;Gemeente;27
+1612;XX, 35. Visch;Mannen;Waterschap;0
+1613;XX, 35. Visch;Mannen;Particulier;1839
+1614;XX, 35. Visch;Vrouwen;Totaal van alle dienstvormen;443
+1615;XX, 35. Visch;Vrouwen;Staat;0
+1616;XX, 35. Visch;Vrouwen;Provincie;0
+1617;XX, 35. Visch;Vrouwen;Gemeente;1
+1618;XX, 35. Visch;Vrouwen;Waterschap;0
+1619;XX, 35. Visch;Vrouwen;Particulier;442
+1620;XX, 48. Electrische apparaten;Totaal mannen en vrouwen;Totaal van alle dienstvormen;732
+1621;XX, 48. Electrische apparaten;Totaal mannen en vrouwen;Staat;0
+1622;XX, 48. Electrische apparaten;Totaal mannen en vrouwen;Provincie;0
+1623;XX, 48. Electrische apparaten;Totaal mannen en vrouwen;Gemeente;8
+1624;XX, 48. Electrische apparaten;Totaal mannen en vrouwen;Waterschap;0
+1625;XX, 48. Electrische apparaten;Totaal mannen en vrouwen;Particulier;724
+1626;XX, 48. Electrische apparaten;Mannen;Totaal van alle dienstvormen;445
+1627;XX, 48. Electrische apparaten;Mannen;Staat;0
+1628;XX, 48. Electrische apparaten;Mannen;Provincie;0
+1629;XX, 48. Electrische apparaten;Mannen;Gemeente;8
+1630;XX, 48. Electrische apparaten;Mannen;Waterschap;0
+1631;XX, 48. Electrische apparaten;Mannen;Particulier;437
+1632;XX, 48. Electrische apparaten;Vrouwen;Totaal van alle dienstvormen;287
+1633;XX, 48. Electrische apparaten;Vrouwen;Staat;0
+1634;XX, 48. Electrische apparaten;Vrouwen;Provincie;0
+1635;XX, 48. Electrische apparaten;Vrouwen;Gemeente;0
+1636;XX, 48. Electrische apparaten;Vrouwen;Waterschap;0
+1637;XX, 48. Electrische apparaten;Vrouwen;Particulier;287
+1638;XXI, 2. Tramwegen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;14107
+1639;XXI, 2. Tramwegen;Totaal mannen en vrouwen;Staat;0
+1640;XXI, 2. Tramwegen;Totaal mannen en vrouwen;Provincie;0
+1641;XXI, 2. Tramwegen;Totaal mannen en vrouwen;Gemeente;4207
+1642;XXI, 2. Tramwegen;Totaal mannen en vrouwen;Waterschap;0
+1643;XXI, 2. Tramwegen;Totaal mannen en vrouwen;Particulier;9900
+1644;XXI, 2. Tramwegen;Mannen;Totaal van alle dienstvormen;13912
+1645;XXI, 2. Tramwegen;Mannen;Staat;0
+1646;XXI, 2. Tramwegen;Mannen;Provincie;0
+1647;XXI, 2. Tramwegen;Mannen;Gemeente;4175
+1648;XXI, 2. Tramwegen;Mannen;Waterschap;0
+1649;XXI, 2. Tramwegen;Mannen;Particulier;9737
+1650;XXI, 2. Tramwegen;Vrouwen;Totaal van alle dienstvormen;195
+1651;XXI, 2. Tramwegen;Vrouwen;Staat;0
+1652;XXI, 2. Tramwegen;Vrouwen;Provincie;0
+1653;XXI, 2. Tramwegen;Vrouwen;Gemeente;32
+1654;XXI, 2. Tramwegen;Vrouwen;Waterschap;0
+1655;XXI, 2. Tramwegen;Vrouwen;Particulier;163
+1656;XXI, 3. Autobusondernemingen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;3104
+1657;XXI, 3. Autobusondernemingen;Totaal mannen en vrouwen;Staat;0
+1658;XXI, 3. Autobusondernemingen;Totaal mannen en vrouwen;Provincie;0
+1659;XXI, 3. Autobusondernemingen;Totaal mannen en vrouwen;Gemeente;145
+1660;XXI, 3. Autobusondernemingen;Totaal mannen en vrouwen;Waterschap;0
+1661;XXI, 3. Autobusondernemingen;Totaal mannen en vrouwen;Particulier;2959
+1662;XXI, 3. Autobusondernemingen;Mannen;Totaal van alle dienstvormen;3070
+1663;XXI, 3. Autobusondernemingen;Mannen;Staat;0
+1664;XXI, 3. Autobusondernemingen;Mannen;Provincie;0
+1665;XXI, 3. Autobusondernemingen;Mannen;Gemeente;145
+1666;XXI, 3. Autobusondernemingen;Mannen;Waterschap;0
+1667;XXI, 3. Autobusondernemingen;Mannen;Particulier;2925
+1668;XXI, 3. Autobusondernemingen;Vrouwen;Totaal van alle dienstvormen;34
+1669;XXI, 3. Autobusondernemingen;Vrouwen;Staat;0
+1670;XXI, 3. Autobusondernemingen;Vrouwen;Provincie;0
+1671;XXI, 3. Autobusondernemingen;Vrouwen;Gemeente;0
+1672;XXI, 3. Autobusondernemingen;Vrouwen;Waterschap;0
+1673;XXI, 3. Autobusondernemingen;Vrouwen;Particulier;34
+1674;XXI, 7. Omnibusdiensten, paardentrams;Totaal mannen en vrouwen;Totaal van alle dienstvormen;18
+1675;XXI, 7. Omnibusdiensten, paardentrams;Totaal mannen en vrouwen;Staat;0
+1676;XXI, 7. Omnibusdiensten, paardentrams;Totaal mannen en vrouwen;Provincie;0
+1677;XXI, 7. Omnibusdiensten, paardentrams;Totaal mannen en vrouwen;Gemeente;2
+1678;XXI, 7. Omnibusdiensten, paardentrams;Totaal mannen en vrouwen;Waterschap;0
+1679;XXI, 7. Omnibusdiensten, paardentrams;Totaal mannen en vrouwen;Particulier;16
+1680;XXI, 7. Omnibusdiensten, paardentrams;Mannen;Totaal van alle dienstvormen;16
+1681;XXI, 7. Omnibusdiensten, paardentrams;Mannen;Staat;0
+1682;XXI, 7. Omnibusdiensten, paardentrams;Mannen;Provincie;0
+1683;XXI, 7. Omnibusdiensten, paardentrams;Mannen;Gemeente;2
+1684;XXI, 7. Omnibusdiensten, paardentrams;Mannen;Waterschap;0
+1685;XXI, 7. Omnibusdiensten, paardentrams;Mannen;Particulier;14
+1686;XXI, 7. Omnibusdiensten, paardentrams;Vrouwen;Totaal van alle dienstvormen;2
+1687;XXI, 7. Omnibusdiensten, paardentrams;Vrouwen;Staat;0
+1688;XXI, 7. Omnibusdiensten, paardentrams;Vrouwen;Provincie;0
+1689;XXI, 7. Omnibusdiensten, paardentrams;Vrouwen;Gemeente;0
+1690;XXI, 7. Omnibusdiensten, paardentrams;Vrouwen;Waterschap;0
+1691;XXI, 7. Omnibusdiensten, paardentrams;Vrouwen;Particulier;2
+1692;XXI, 11. Binnenscheepvaart;Totaal mannen en vrouwen;Totaal van alle dienstvormen;43228
+1693;XXI, 11. Binnenscheepvaart;Totaal mannen en vrouwen;Staat;17
+1694;XXI, 11. Binnenscheepvaart;Totaal mannen en vrouwen;Provincie;29
+1695;XXI, 11. Binnenscheepvaart;Totaal mannen en vrouwen;Gemeente;55
+1696;XXI, 11. Binnenscheepvaart;Totaal mannen en vrouwen;Waterschap;6
+1697;XXI, 11. Binnenscheepvaart;Totaal mannen en vrouwen;Particulier;43121
+1698;XXI, 11. Binnenscheepvaart;Mannen;Totaal van alle dienstvormen;42532
+1699;XXI, 11. Binnenscheepvaart;Mannen;Staat;17
+1700;XXI, 11. Binnenscheepvaart;Mannen;Provincie;29
+1701;XXI, 11. Binnenscheepvaart;Mannen;Gemeente;55
+1702;XXI, 11. Binnenscheepvaart;Mannen;Waterschap;6
+1703;XXI, 11. Binnenscheepvaart;Mannen;Particulier;42425
+1704;XXI, 11. Binnenscheepvaart;Vrouwen;Totaal van alle dienstvormen;696
+1705;XXI, 11. Binnenscheepvaart;Vrouwen;Staat;0
+1706;XXI, 11. Binnenscheepvaart;Vrouwen;Provincie;0
+1707;XXI, 11. Binnenscheepvaart;Vrouwen;Gemeente;0
+1708;XXI, 11. Binnenscheepvaart;Vrouwen;Waterschap;0
+1709;XXI, 11. Binnenscheepvaart;Vrouwen;Particulier;696
+1710;XXI, 12. Veerdiensten;Totaal mannen en vrouwen;Totaal van alle dienstvormen;1694
+1711;XXI, 12. Veerdiensten;Totaal mannen en vrouwen;Staat;106
+1712;XXI, 12. Veerdiensten;Totaal mannen en vrouwen;Provincie;90
+1713;XXI, 12. Veerdiensten;Totaal mannen en vrouwen;Gemeente;756
+1714;XXI, 12. Veerdiensten;Totaal mannen en vrouwen;Waterschap;5
+1715;XXI, 12. Veerdiensten;Totaal mannen en vrouwen;Particulier;737
+1716;XXI, 12. Veerdiensten;Mannen;Totaal van alle dienstvormen;1674
+1717;XXI, 12. Veerdiensten;Mannen;Staat;106
+1718;XXI, 12. Veerdiensten;Mannen;Provincie;87
+1719;XXI, 12. Veerdiensten;Mannen;Gemeente;753
+1720;XXI, 12. Veerdiensten;Mannen;Waterschap;5
+1721;XXI, 12. Veerdiensten;Mannen;Particulier;723
+1722;XXI, 12. Veerdiensten;Vrouwen;Totaal van alle dienstvormen;20
+1723;XXI, 12. Veerdiensten;Vrouwen;Staat;0
+1724;XXI, 12. Veerdiensten;Vrouwen;Provincie;3
+1725;XXI, 12. Veerdiensten;Vrouwen;Gemeente;3
+1726;XXI, 12. Veerdiensten;Vrouwen;Waterschap;0
+1727;XXI, 12. Veerdiensten;Vrouwen;Particulier;14
+1728;XXI, 13. Loods- en seinwezen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;1308
+1729;XXI, 13. Loods- en seinwezen;Totaal mannen en vrouwen;Staat;1100
+1730;XXI, 13. Loods- en seinwezen;Totaal mannen en vrouwen;Provincie;0
+1731;XXI, 13. Loods- en seinwezen;Totaal mannen en vrouwen;Gemeente;45
+1732;XXI, 13. Loods- en seinwezen;Totaal mannen en vrouwen;Waterschap;0
+1733;XXI, 13. Loods- en seinwezen;Totaal mannen en vrouwen;Particulier;163
+1734;XXI, 13. Loods- en seinwezen;Mannen;Totaal van alle dienstvormen;1297
+1735;XXI, 13. Loods- en seinwezen;Mannen;Staat;1092
+1736;XXI, 13. Loods- en seinwezen;Mannen;Provincie;0
+1737;XXI, 13. Loods- en seinwezen;Mannen;Gemeente;45
+1738;XXI, 13. Loods- en seinwezen;Mannen;Waterschap;0
+1739;XXI, 13. Loods- en seinwezen;Mannen;Particulier;160
+1740;XXI, 13. Loods- en seinwezen;Vrouwen;Totaal van alle dienstvormen;11
+1741;XXI, 13. Loods- en seinwezen;Vrouwen;Staat;8
+1742;XXI, 13. Loods- en seinwezen;Vrouwen;Provincie;0
+1743;XXI, 13. Loods- en seinwezen;Vrouwen;Gemeente;0
+1744;XXI, 13. Loods- en seinwezen;Vrouwen;Waterschap;0
+1745;XXI, 13. Loods- en seinwezen;Vrouwen;Particulier;3
+1746;XXI, 14. Sluis- en havenwezen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;2646
+1747;XXI, 14. Sluis- en havenwezen;Totaal mannen en vrouwen;Staat;817
+1748;XXI, 14. Sluis- en havenwezen;Totaal mannen en vrouwen;Provincie;275
+1749;XXI, 14. Sluis- en havenwezen;Totaal mannen en vrouwen;Gemeente;1010
+1750;XXI, 14. Sluis- en havenwezen;Totaal mannen en vrouwen;Waterschap;246
+1751;XXI, 14. Sluis- en havenwezen;Totaal mannen en vrouwen;Particulier;298
+1752;XXI, 14. Sluis- en havenwezen;Mannen;Totaal van alle dienstvormen;2562
+1753;XXI, 14. Sluis- en havenwezen;Mannen;Staat;813
+1754;XXI, 14. Sluis- en havenwezen;Mannen;Provincie;265
+1755;XXI, 14. Sluis- en havenwezen;Mannen;Gemeente;984
+1756;XXI, 14. Sluis- en havenwezen;Mannen;Waterschap;227
+1757;XXI, 14. Sluis- en havenwezen;Mannen;Particulier;273
+1758;XXI, 14. Sluis- en havenwezen;Vrouwen;Totaal van alle dienstvormen;84
+1759;XXI, 14. Sluis- en havenwezen;Vrouwen;Staat;4
+1760;XXI, 14. Sluis- en havenwezen;Vrouwen;Provincie;10
+1761;XXI, 14. Sluis- en havenwezen;Vrouwen;Gemeente;26
+1762;XXI, 14. Sluis- en havenwezen;Vrouwen;Waterschap;19
+1763;XXI, 14. Sluis- en havenwezen;Vrouwen;Particulier;25
+1764;XXI, 17. Expediteursbedrijven;Totaal mannen en vrouwen;Totaal van alle dienstvormen;33659
+1765;XXI, 17. Expediteursbedrijven;Totaal mannen en vrouwen;Staat;351
+1766;XXI, 17. Expediteursbedrijven;Totaal mannen en vrouwen;Provincie;14
+1767;XXI, 17. Expediteursbedrijven;Totaal mannen en vrouwen;Gemeente;482
+1768;XXI, 17. Expediteursbedrijven;Totaal mannen en vrouwen;Waterschap;1
+1769;XXI, 17. Expediteursbedrijven;Totaal mannen en vrouwen;Particulier;32811
+1770;XXI, 17. Expediteursbedrijven;Mannen;Totaal van alle dienstvormen;32716
+1771;XXI, 17. Expediteursbedrijven;Mannen;Staat;331
+1772;XXI, 17. Expediteursbedrijven;Mannen;Provincie;14
+1773;XXI, 17. Expediteursbedrijven;Mannen;Gemeente;479
+1774;XXI, 17. Expediteursbedrijven;Mannen;Waterschap;1
+1775;XXI, 17. Expediteursbedrijven;Mannen;Particulier;31891
+1776;XXI, 17. Expediteursbedrijven;Vrouwen;Totaal van alle dienstvormen;943
+1777;XXI, 17. Expediteursbedrijven;Vrouwen;Staat;20
+1778;XXI, 17. Expediteursbedrijven;Vrouwen;Provincie;0
+1779;XXI, 17. Expediteursbedrijven;Vrouwen;Gemeente;3
+1780;XXI, 17. Expediteursbedrijven;Vrouwen;Waterschap;0
+1781;XXI, 17. Expediteursbedrijven;Vrouwen;Particulier;920
+1782;XXI, 18. Bestel- en bodediensten;Totaal mannen en vrouwen;Totaal van alle dienstvormen;4939
+1783;XXI, 18. Bestel- en bodediensten;Totaal mannen en vrouwen;Staat;1
+1784;XXI, 18. Bestel- en bodediensten;Totaal mannen en vrouwen;Provincie;0
+1785;XXI, 18. Bestel- en bodediensten;Totaal mannen en vrouwen;Gemeente;7
+1786;XXI, 18. Bestel- en bodediensten;Totaal mannen en vrouwen;Waterschap;0
+1787;XXI, 18. Bestel- en bodediensten;Totaal mannen en vrouwen;Particulier;4931
+1788;XXI, 18. Bestel- en bodediensten;Mannen;Totaal van alle dienstvormen;4855
+1789;XXI, 18. Bestel- en bodediensten;Mannen;Staat;1
+1790;XXI, 18. Bestel- en bodediensten;Mannen;Provincie;0
+1791;XXI, 18. Bestel- en bodediensten;Mannen;Gemeente;6
+1792;XXI, 18. Bestel- en bodediensten;Mannen;Waterschap;0
+1793;XXI, 18. Bestel- en bodediensten;Mannen;Particulier;4848
+1794;XXI, 18. Bestel- en bodediensten;Vrouwen;Totaal van alle dienstvormen;84
+1795;XXI, 18. Bestel- en bodediensten;Vrouwen;Staat;0
+1796;XXI, 18. Bestel- en bodediensten;Vrouwen;Provincie;0
+1797;XXI, 18. Bestel- en bodediensten;Vrouwen;Gemeente;1
+1798;XXI, 18. Bestel- en bodediensten;Vrouwen;Waterschap;0
+1799;XXI, 18. Bestel- en bodediensten;Vrouwen;Particulier;83
+1800;XXI, 19. Overige transportondernemingen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;26193
+1801;XXI, 19. Overige transportondernemingen;Totaal mannen en vrouwen;Staat;5
+1802;XXI, 19. Overige transportondernemingen;Totaal mannen en vrouwen;Provincie;0
+1803;XXI, 19. Overige transportondernemingen;Totaal mannen en vrouwen;Gemeente;79
+1804;XXI, 19. Overige transportondernemingen;Totaal mannen en vrouwen;Waterschap;0
+1805;XXI, 19. Overige transportondernemingen;Totaal mannen en vrouwen;Particulier;26109
+1806;XXI, 19. Overige transportondernemingen;Mannen;Totaal van alle dienstvormen;25895
+1807;XXI, 19. Overige transportondernemingen;Mannen;Staat;5
+1808;XXI, 19. Overige transportondernemingen;Mannen;Provincie;0
+1809;XXI, 19. Overige transportondernemingen;Mannen;Gemeente;76
+1810;XXI, 19. Overige transportondernemingen;Mannen;Waterschap;0
+1811;XXI, 19. Overige transportondernemingen;Mannen;Particulier;25814
+1812;XXI, 19. Overige transportondernemingen;Vrouwen;Totaal van alle dienstvormen;298
+1813;XXI, 19. Overige transportondernemingen;Vrouwen;Staat;0
+1814;XXI, 19. Overige transportondernemingen;Vrouwen;Provincie;0
+1815;XXI, 19. Overige transportondernemingen;Vrouwen;Gemeente;3
+1816;XXI, 19. Overige transportondernemingen;Vrouwen;Waterschap;0
+1817;XXI, 19. Overige transportondernemingen;Vrouwen;Particulier;295
+1818;XXI, 22. Begrafeniswezen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;1177
+1819;XXI, 22. Begrafeniswezen;Totaal mannen en vrouwen;Staat;0
+1820;XXI, 22. Begrafeniswezen;Totaal mannen en vrouwen;Provincie;0
+1821;XXI, 22. Begrafeniswezen;Totaal mannen en vrouwen;Gemeente;305
+1822;XXI, 22. Begrafeniswezen;Totaal mannen en vrouwen;Waterschap;0
+1823;XXI, 22. Begrafeniswezen;Totaal mannen en vrouwen;Particulier;872
+1824;XXI, 22. Begrafeniswezen;Mannen;Totaal van alle dienstvormen;1149
+1825;XXI, 22. Begrafeniswezen;Mannen;Staat;0
+1826;XXI, 22. Begrafeniswezen;Mannen;Provincie;0
+1827;XXI, 22. Begrafeniswezen;Mannen;Gemeente;304
+1828;XXI, 22. Begrafeniswezen;Mannen;Waterschap;0
+1829;XXI, 22. Begrafeniswezen;Mannen;Particulier;845
+1830;XXI, 22. Begrafeniswezen;Vrouwen;Totaal van alle dienstvormen;28
+1831;XXI, 22. Begrafeniswezen;Vrouwen;Staat;0
+1832;XXI, 22. Begrafeniswezen;Vrouwen;Provincie;0
+1833;XXI, 22. Begrafeniswezen;Vrouwen;Gemeente;1
+1834;XXI, 22. Begrafeniswezen;Vrouwen;Waterschap;0
+1835;XXI, 22. Begrafeniswezen;Vrouwen;Particulier;27
+1836;XXI, 23. Posterijen, telegr. en telef.;Totaal mannen en vrouwen;Totaal van alle dienstvormen;24280
+1837;XXI, 23. Posterijen, telegr. en telef.;Totaal mannen en vrouwen;Staat;23056
+1838;XXI, 23. Posterijen, telegr. en telef.;Totaal mannen en vrouwen;Provincie;0
+1839;XXI, 23. Posterijen, telegr. en telef.;Totaal mannen en vrouwen;Gemeente;802
+1840;XXI, 23. Posterijen, telegr. en telef.;Totaal mannen en vrouwen;Waterschap;0
+1841;XXI, 23. Posterijen, telegr. en telef.;Totaal mannen en vrouwen;Particulier;422
+1842;XXI, 23. Posterijen, telegr. en telef.;Mannen;Totaal van alle dienstvormen;19119
+1843;XXI, 23. Posterijen, telegr. en telef.;Mannen;Staat;18394
+1844;XXI, 23. Posterijen, telegr. en telef.;Mannen;Provincie;0
+1845;XXI, 23. Posterijen, telegr. en telef.;Mannen;Gemeente;425
+1846;XXI, 23. Posterijen, telegr. en telef.;Mannen;Waterschap;0
+1847;XXI, 23. Posterijen, telegr. en telef.;Mannen;Particulier;300
+1848;XXI, 23. Posterijen, telegr. en telef.;Vrouwen;Totaal van alle dienstvormen;5161
+1849;XXI, 23. Posterijen, telegr. en telef.;Vrouwen;Staat;4662
+1850;XXI, 23. Posterijen, telegr. en telef.;Vrouwen;Provincie;0
+1851;XXI, 23. Posterijen, telegr. en telef.;Vrouwen;Gemeente;377
+1852;XXI, 23. Posterijen, telegr. en telef.;Vrouwen;Waterschap;0
+1853;XXI, 23. Posterijen, telegr. en telef.;Vrouwen;Particulier;122
+1854;XXI, 24. Radiozend- en -ontvanginr.;Totaal mannen en vrouwen;Totaal van alle dienstvormen;1530
+1855;XXI, 24. Radiozend- en -ontvanginr.;Totaal mannen en vrouwen;Staat;146
+1856;XXI, 24. Radiozend- en -ontvanginr.;Totaal mannen en vrouwen;Provincie;0
+1857;XXI, 24. Radiozend- en -ontvanginr.;Totaal mannen en vrouwen;Gemeente;43
+1858;XXI, 24. Radiozend- en -ontvanginr.;Totaal mannen en vrouwen;Waterschap;0
+1859;XXI, 24. Radiozend- en -ontvanginr.;Totaal mannen en vrouwen;Particulier;1341
+1860;XXI, 24. Radiozend- en -ontvanginr.;Mannen;Totaal van alle dienstvormen;1412
+1861;XXI, 24. Radiozend- en -ontvanginr.;Mannen;Staat;144
+1862;XXI, 24. Radiozend- en -ontvanginr.;Mannen;Provincie;0
+1863;XXI, 24. Radiozend- en -ontvanginr.;Mannen;Gemeente;41
+1864;XXI, 24. Radiozend- en -ontvanginr.;Mannen;Waterschap;0
+1865;XXI, 24. Radiozend- en -ontvanginr.;Mannen;Particulier;1227
+1866;XXI, 24. Radiozend- en -ontvanginr.;Vrouwen;Totaal van alle dienstvormen;118
+1867;XXI, 24. Radiozend- en -ontvanginr.;Vrouwen;Staat;2
+1868;XXI, 24. Radiozend- en -ontvanginr.;Vrouwen;Provincie;0
+1869;XXI, 24. Radiozend- en -ontvanginr.;Vrouwen;Gemeente;2
+1870;XXI, 24. Radiozend- en -ontvanginr.;Vrouwen;Waterschap;0
+1871;XXI, 24. Radiozend- en -ontvanginr.;Vrouwen;Particulier;114
+1872;XXII, 1. Bankinstellingen, kassiers enz.;Totaal mannen en vrouwen;Totaal van alle dienstvormen;24411
+1873;XXII, 1. Bankinstellingen, kassiers enz.;Totaal mannen en vrouwen;Staat;37
+1874;XXII, 1. Bankinstellingen, kassiers enz.;Totaal mannen en vrouwen;Provincie;0
+1875;XXII, 1. Bankinstellingen, kassiers enz.;Totaal mannen en vrouwen;Gemeente;7
+1876;XXII, 1. Bankinstellingen, kassiers enz.;Totaal mannen en vrouwen;Waterschap;0
+1877;XXII, 1. Bankinstellingen, kassiers enz.;Totaal mannen en vrouwen;Particulier;24367
+1878;XXII, 1. Bankinstellingen, kassiers enz.;Mannen;Totaal van alle dienstvormen;20687
+1879;XXII, 1. Bankinstellingen, kassiers enz.;Mannen;Staat;34
+1880;XXII, 1. Bankinstellingen, kassiers enz.;Mannen;Provincie;0
+1881;XXII, 1. Bankinstellingen, kassiers enz.;Mannen;Gemeente;7
+1882;XXII, 1. Bankinstellingen, kassiers enz.;Mannen;Waterschap;0
+1883;XXII, 1. Bankinstellingen, kassiers enz.;Mannen;Particulier;20646
+1884;XXII, 1. Bankinstellingen, kassiers enz.;Vrouwen;Totaal van alle dienstvormen;3724
+1885;XXII, 1. Bankinstellingen, kassiers enz.;Vrouwen;Staat;3
+1886;XXII, 1. Bankinstellingen, kassiers enz.;Vrouwen;Provincie;0
+1887;XXII, 1. Bankinstellingen, kassiers enz.;Vrouwen;Gemeente;0
+1888;XXII, 1. Bankinstellingen, kassiers enz.;Vrouwen;Waterschap;0
+1889;XXII, 1. Bankinstellingen, kassiers enz.;Vrouwen;Particulier;3721
+1890;XXII, 2. Cheque- en girodiensten;Totaal mannen en vrouwen;Totaal van alle dienstvormen;1152
+1891;XXII, 2. Cheque- en girodiensten;Totaal mannen en vrouwen;Staat;976
+1892;XXII, 2. Cheque- en girodiensten;Totaal mannen en vrouwen;Provincie;0
+1893;XXII, 2. Cheque- en girodiensten;Totaal mannen en vrouwen;Gemeente;176
+1894;XXII, 2. Cheque- en girodiensten;Totaal mannen en vrouwen;Waterschap;0
+1895;XXII, 2. Cheque- en girodiensten;Totaal mannen en vrouwen;Particulier;0
+1896;XXII, 2. Cheque- en girodiensten;Mannen;Totaal van alle dienstvormen;508
+1897;XXII, 2. Cheque- en girodiensten;Mannen;Staat;353
+1898;XXII, 2. Cheque- en girodiensten;Mannen;Provincie;0
+1899;XXII, 2. Cheque- en girodiensten;Mannen;Gemeente;155
+1900;XXII, 2. Cheque- en girodiensten;Mannen;Waterschap;0
+1901;XXII, 2. Cheque- en girodiensten;Mannen;Particulier;0
+1902;XXII, 2. Cheque- en girodiensten;Vrouwen;Totaal van alle dienstvormen;644
+1903;XXII, 2. Cheque- en girodiensten;Vrouwen;Staat;623
+1904;XXII, 2. Cheque- en girodiensten;Vrouwen;Provincie;0
+1905;XXII, 2. Cheque- en girodiensten;Vrouwen;Gemeente;21
+1906;XXII, 2. Cheque- en girodiensten;Vrouwen;Waterschap;0
+1907;XXII, 2. Cheque- en girodiensten;Vrouwen;Particulier;0
+1908;XXII, 4. Hypotheekbanken;Totaal mannen en vrouwen;Totaal van alle dienstvormen;670
+1909;XXII, 4. Hypotheekbanken;Totaal mannen en vrouwen;Staat;0
+1910;XXII, 4. Hypotheekbanken;Totaal mannen en vrouwen;Provincie;0
+1911;XXII, 4. Hypotheekbanken;Totaal mannen en vrouwen;Gemeente;7
+1912;XXII, 4. Hypotheekbanken;Totaal mannen en vrouwen;Waterschap;0
+1913;XXII, 4. Hypotheekbanken;Totaal mannen en vrouwen;Particulier;663
+1914;XXII, 4. Hypotheekbanken;Mannen;Totaal van alle dienstvormen;550
+1915;XXII, 4. Hypotheekbanken;Mannen;Staat;0
+1916;XXII, 4. Hypotheekbanken;Mannen;Provincie;0
+1917;XXII, 4. Hypotheekbanken;Mannen;Gemeente;6
+1918;XXII, 4. Hypotheekbanken;Mannen;Waterschap;0
+1919;XXII, 4. Hypotheekbanken;Mannen;Particulier;544
+1920;XXII, 4. Hypotheekbanken;Vrouwen;Totaal van alle dienstvormen;120
+1921;XXII, 4. Hypotheekbanken;Vrouwen;Staat;0
+1922;XXII, 4. Hypotheekbanken;Vrouwen;Provincie;0
+1923;XXII, 4. Hypotheekbanken;Vrouwen;Gemeente;1
+1924;XXII, 4. Hypotheekbanken;Vrouwen;Waterschap;0
+1925;XXII, 4. Hypotheekbanken;Vrouwen;Particulier;119
+1926;XXII, 5. Spaarbanken;Totaal mannen en vrouwen;Totaal van alle dienstvormen;1408
+1927;XXII, 5. Spaarbanken;Totaal mannen en vrouwen;Staat;373
+1928;XXII, 5. Spaarbanken;Totaal mannen en vrouwen;Provincie;0
+1929;XXII, 5. Spaarbanken;Totaal mannen en vrouwen;Gemeente;39
+1930;XXII, 5. Spaarbanken;Totaal mannen en vrouwen;Waterschap;0
+1931;XXII, 5. Spaarbanken;Totaal mannen en vrouwen;Particulier;996
+1932;XXII, 5. Spaarbanken;Mannen;Totaal van alle dienstvormen;1149
+1933;XXII, 5. Spaarbanken;Mannen;Staat;284
+1934;XXII, 5. Spaarbanken;Mannen;Provincie;0
+1935;XXII, 5. Spaarbanken;Mannen;Gemeente;32
+1936;XXII, 5. Spaarbanken;Mannen;Waterschap;0
+1937;XXII, 5. Spaarbanken;Mannen;Particulier;833
+1938;XXII, 5. Spaarbanken;Vrouwen;Totaal van alle dienstvormen;259
+1939;XXII, 5. Spaarbanken;Vrouwen;Staat;89
+1940;XXII, 5. Spaarbanken;Vrouwen;Provincie;0
+1941;XXII, 5. Spaarbanken;Vrouwen;Gemeente;7
+1942;XXII, 5. Spaarbanken;Vrouwen;Waterschap;0
+1943;XXII, 5. Spaarbanken;Vrouwen;Particulier;163
+1944;XXII, 6. Banken van leening en pandjesh.;Totaal mannen en vrouwen;Totaal van alle dienstvormen;270
+1945;XXII, 6. Banken van leening en pandjesh.;Totaal mannen en vrouwen;Staat;0
+1946;XXII, 6. Banken van leening en pandjesh.;Totaal mannen en vrouwen;Provincie;0
+1947;XXII, 6. Banken van leening en pandjesh.;Totaal mannen en vrouwen;Gemeente;184
+1948;XXII, 6. Banken van leening en pandjesh.;Totaal mannen en vrouwen;Waterschap;0
+1949;XXII, 6. Banken van leening en pandjesh.;Totaal mannen en vrouwen;Particulier;86
+1950;XXII, 6. Banken van leening en pandjesh.;Mannen;Totaal van alle dienstvormen;235
+1951;XXII, 6. Banken van leening en pandjesh.;Mannen;Staat;0
+1952;XXII, 6. Banken van leening en pandjesh.;Mannen;Provincie;0
+1953;XXII, 6. Banken van leening en pandjesh.;Mannen;Gemeente;166
+1954;XXII, 6. Banken van leening en pandjesh.;Mannen;Waterschap;0
+1955;XXII, 6. Banken van leening en pandjesh.;Mannen;Particulier;69
+1956;XXII, 6. Banken van leening en pandjesh.;Vrouwen;Totaal van alle dienstvormen;35
+1957;XXII, 6. Banken van leening en pandjesh.;Vrouwen;Staat;0
+1958;XXII, 6. Banken van leening en pandjesh.;Vrouwen;Provincie;0
+1959;XXII, 6. Banken van leening en pandjesh.;Vrouwen;Gemeente;18
+1960;XXII, 6. Banken van leening en pandjesh.;Vrouwen;Waterschap;0
+1961;XXII, 6. Banken van leening en pandjesh.;Vrouwen;Particulier;17
+1962;XXII, 8. Loterijkantoren;Totaal mannen en vrouwen;Totaal van alle dienstvormen;361
+1963;XXII, 8. Loterijkantoren;Totaal mannen en vrouwen;Staat;164
+1964;XXII, 8. Loterijkantoren;Totaal mannen en vrouwen;Provincie;0
+1965;XXII, 8. Loterijkantoren;Totaal mannen en vrouwen;Gemeente;0
+1966;XXII, 8. Loterijkantoren;Totaal mannen en vrouwen;Waterschap;0
+1967;XXII, 8. Loterijkantoren;Totaal mannen en vrouwen;Particulier;197
+1968;XXII, 8. Loterijkantoren;Mannen;Totaal van alle dienstvormen;181
+1969;XXII, 8. Loterijkantoren;Mannen;Staat;46
+1970;XXII, 8. Loterijkantoren;Mannen;Provincie;0
+1971;XXII, 8. Loterijkantoren;Mannen;Gemeente;0
+1972;XXII, 8. Loterijkantoren;Mannen;Waterschap;0
+1973;XXII, 8. Loterijkantoren;Mannen;Particulier;135
+1974;XXII, 8. Loterijkantoren;Vrouwen;Totaal van alle dienstvormen;180
+1975;XXII, 8. Loterijkantoren;Vrouwen;Staat;118
+1976;XXII, 8. Loterijkantoren;Vrouwen;Provincie;0
+1977;XXII, 8. Loterijkantoren;Vrouwen;Gemeente;0
+1978;XXII, 8. Loterijkantoren;Vrouwen;Waterschap;0
+1979;XXII, 8. Loterijkantoren;Vrouwen;Particulier;62
+1980;XXIII, 1. Verzekeringsm. en ziekenf.;Totaal mannen en vrouwen;Totaal van alle dienstvormen;20217
+1981;XXIII, 1. Verzekeringsm. en ziekenf.;Totaal mannen en vrouwen;Staat;3447
+1982;XXIII, 1. Verzekeringsm. en ziekenf.;Totaal mannen en vrouwen;Provincie;0
+1983;XXIII, 1. Verzekeringsm. en ziekenf.;Totaal mannen en vrouwen;Gemeente;40
+1984;XXIII, 1. Verzekeringsm. en ziekenf.;Totaal mannen en vrouwen;Waterschap;0
+1985;XXIII, 1. Verzekeringsm. en ziekenf.;Totaal mannen en vrouwen;Particulier;16730
+1986;XXIII, 1. Verzekeringsm. en ziekenf.;Mannen;Totaal van alle dienstvormen;16716
+1987;XXIII, 1. Verzekeringsm. en ziekenf.;Mannen;Staat;2466
+1988;XXIII, 1. Verzekeringsm. en ziekenf.;Mannen;Provincie;0
+1989;XXIII, 1. Verzekeringsm. en ziekenf.;Mannen;Gemeente;35
+1990;XXIII, 1. Verzekeringsm. en ziekenf.;Mannen;Waterschap;0
+1991;XXIII, 1. Verzekeringsm. en ziekenf.;Mannen;Particulier;14215
+1992;XXIII, 1. Verzekeringsm. en ziekenf.;Vrouwen;Totaal van alle dienstvormen;3501
+1993;XXIII, 1. Verzekeringsm. en ziekenf.;Vrouwen;Staat;981
+1994;XXIII, 1. Verzekeringsm. en ziekenf.;Vrouwen;Provincie;0
+1995;XXIII, 1. Verzekeringsm. en ziekenf.;Vrouwen;Gemeente;5
+1996;XXIII, 1. Verzekeringsm. en ziekenf.;Vrouwen;Waterschap;0
+1997;XXIII, 1. Verzekeringsm. en ziekenf.;Vrouwen;Particulier;2515
+1998;XXIV, 1. Hooge Coll. van Staat, enz.;Totaal mannen en vrouwen;Totaal van alle dienstvormen;12286
+1999;XXIV, 1. Hooge Coll. van Staat, enz.;Totaal mannen en vrouwen;Staat;3442
+2000;XXIV, 1. Hooge Coll. van Staat, enz.;Totaal mannen en vrouwen;Provincie;732
+2001;XXIV, 1. Hooge Coll. van Staat, enz.;Totaal mannen en vrouwen;Gemeente;7716
+2002;XXIV, 1. Hooge Coll. van Staat, enz.;Totaal mannen en vrouwen;Waterschap;396
+2003;XXIV, 1. Hooge Coll. van Staat, enz.;Totaal mannen en vrouwen;Particulier;0
+2004;XXIV, 1. Hooge Coll. van Staat, enz.;Mannen;Totaal van alle dienstvormen;10321
+2005;XXIV, 1. Hooge Coll. van Staat, enz.;Mannen;Staat;2622
+2006;XXIV, 1. Hooge Coll. van Staat, enz.;Mannen;Provincie;622
+2007;XXIV, 1. Hooge Coll. van Staat, enz.;Mannen;Gemeente;6712
+2008;XXIV, 1. Hooge Coll. van Staat, enz.;Mannen;Waterschap;365
+2009;XXIV, 1. Hooge Coll. van Staat, enz.;Mannen;Particulier;0
+2010;XXIV, 1. Hooge Coll. van Staat, enz.;Vrouwen;Totaal van alle dienstvormen;1965
+2011;XXIV, 1. Hooge Coll. van Staat, enz.;Vrouwen;Staat;820
+2012;XXIV, 1. Hooge Coll. van Staat, enz.;Vrouwen;Provincie;110
+2013;XXIV, 1. Hooge Coll. van Staat, enz.;Vrouwen;Gemeente;1004
+2014;XXIV, 1. Hooge Coll. van Staat, enz.;Vrouwen;Waterschap;31
+2015;XXIV, 1. Hooge Coll. van Staat, enz.;Vrouwen;Particulier;0
+2016;XXIV, 2. Diplomatie en consulaatwezen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;339
+2017;XXIV, 2. Diplomatie en consulaatwezen;Totaal mannen en vrouwen;Staat;166
+2018;XXIV, 2. Diplomatie en consulaatwezen;Totaal mannen en vrouwen;Provincie;0
+2019;XXIV, 2. Diplomatie en consulaatwezen;Totaal mannen en vrouwen;Gemeente;0
+2020;XXIV, 2. Diplomatie en consulaatwezen;Totaal mannen en vrouwen;Waterschap;0
+2021;XXIV, 2. Diplomatie en consulaatwezen;Totaal mannen en vrouwen;Particulier;173
+2022;XXIV, 2. Diplomatie en consulaatwezen;Mannen;Totaal van alle dienstvormen;273
+2023;XXIV, 2. Diplomatie en consulaatwezen;Mannen;Staat;131
+2024;XXIV, 2. Diplomatie en consulaatwezen;Mannen;Provincie;0
+2025;XXIV, 2. Diplomatie en consulaatwezen;Mannen;Gemeente;0
+2026;XXIV, 2. Diplomatie en consulaatwezen;Mannen;Waterschap;0
+2027;XXIV, 2. Diplomatie en consulaatwezen;Mannen;Particulier;142
+2028;XXIV, 2. Diplomatie en consulaatwezen;Vrouwen;Totaal van alle dienstvormen;66
+2029;XXIV, 2. Diplomatie en consulaatwezen;Vrouwen;Staat;35
+2030;XXIV, 2. Diplomatie en consulaatwezen;Vrouwen;Provincie;0
+2031;XXIV, 2. Diplomatie en consulaatwezen;Vrouwen;Gemeente;0
+2032;XXIV, 2. Diplomatie en consulaatwezen;Vrouwen;Waterschap;0
+2033;XXIV, 2. Diplomatie en consulaatwezen;Vrouwen;Particulier;31
+2034;XXIV, 3. Financie- en belastingwezen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;13121
+2035;XXIV, 3. Financie- en belastingwezen;Totaal mannen en vrouwen;Staat;11390
+2036;XXIV, 3. Financie- en belastingwezen;Totaal mannen en vrouwen;Provincie;11
+2037;XXIV, 3. Financie- en belastingwezen;Totaal mannen en vrouwen;Gemeente;1512
+2038;XXIV, 3. Financie- en belastingwezen;Totaal mannen en vrouwen;Waterschap;43
+2039;XXIV, 3. Financie- en belastingwezen;Totaal mannen en vrouwen;Particulier;165
+2040;XXIV, 3. Financie- en belastingwezen;Mannen;Totaal van alle dienstvormen;12351
+2041;XXIV, 3. Financie- en belastingwezen;Mannen;Staat;10714
+2042;XXIV, 3. Financie- en belastingwezen;Mannen;Provincie;11
+2043;XXIV, 3. Financie- en belastingwezen;Mannen;Gemeente;1437
+2044;XXIV, 3. Financie- en belastingwezen;Mannen;Waterschap;42
+2045;XXIV, 3. Financie- en belastingwezen;Mannen;Particulier;147
+2046;XXIV, 3. Financie- en belastingwezen;Vrouwen;Totaal van alle dienstvormen;770
+2047;XXIV, 3. Financie- en belastingwezen;Vrouwen;Staat;676
+2048;XXIV, 3. Financie- en belastingwezen;Vrouwen;Provincie;0
+2049;XXIV, 3. Financie- en belastingwezen;Vrouwen;Gemeente;75
+2050;XXIV, 3. Financie- en belastingwezen;Vrouwen;Waterschap;1
+2051;XXIV, 3. Financie- en belastingwezen;Vrouwen;Particulier;18
+2052;XXIV, 4. Tollen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;98
+2053;XXIV, 4. Tollen;Totaal mannen en vrouwen;Staat;3
+2054;XXIV, 4. Tollen;Totaal mannen en vrouwen;Provincie;0
+2055;XXIV, 4. Tollen;Totaal mannen en vrouwen;Gemeente;29
+2056;XXIV, 4. Tollen;Totaal mannen en vrouwen;Waterschap;6
+2057;XXIV, 4. Tollen;Totaal mannen en vrouwen;Particulier;60
+2058;XXIV, 4. Tollen;Mannen;Totaal van alle dienstvormen;87
+2059;XXIV, 4. Tollen;Mannen;Staat;2
+2060;XXIV, 4. Tollen;Mannen;Provincie;0
+2061;XXIV, 4. Tollen;Mannen;Gemeente;25
+2062;XXIV, 4. Tollen;Mannen;Waterschap;5
+2063;XXIV, 4. Tollen;Mannen;Particulier;55
+2064;XXIV, 4. Tollen;Vrouwen;Totaal van alle dienstvormen;11
+2065;XXIV, 4. Tollen;Vrouwen;Staat;1
+2066;XXIV, 4. Tollen;Vrouwen;Provincie;0
+2067;XXIV, 4. Tollen;Vrouwen;Gemeente;4
+2068;XXIV, 4. Tollen;Vrouwen;Waterschap;1
+2069;XXIV, 4. Tollen;Vrouwen;Particulier;5
+2070;XXIV, 5. Rechts-, politie-, gevangenisw.;Totaal mannen en vrouwen;Totaal van alle dienstvormen;20121
+2071;XXIV, 5. Rechts-, politie-, gevangenisw.;Totaal mannen en vrouwen;Staat;6399
+2072;XXIV, 5. Rechts-, politie-, gevangenisw.;Totaal mannen en vrouwen;Provincie;29
+2073;XXIV, 5. Rechts-, politie-, gevangenisw.;Totaal mannen en vrouwen;Gemeente;11325
+2074;XXIV, 5. Rechts-, politie-, gevangenisw.;Totaal mannen en vrouwen;Waterschap;10
+2075;XXIV, 5. Rechts-, politie-, gevangenisw.;Totaal mannen en vrouwen;Particulier;2358
+2076;XXIV, 5. Rechts-, politie-, gevangenisw.;Mannen;Totaal van alle dienstvormen;19557
+2077;XXIV, 5. Rechts-, politie-, gevangenisw.;Mannen;Staat;6152
+2078;XXIV, 5. Rechts-, politie-, gevangenisw.;Mannen;Provincie;28
+2079;XXIV, 5. Rechts-, politie-, gevangenisw.;Mannen;Gemeente;11129
+2080;XXIV, 5. Rechts-, politie-, gevangenisw.;Mannen;Waterschap;10
+2081;XXIV, 5. Rechts-, politie-, gevangenisw.;Mannen;Particulier;2238
+2082;XXIV, 5. Rechts-, politie-, gevangenisw.;Vrouwen;Totaal van alle dienstvormen;564
+2083;XXIV, 5. Rechts-, politie-, gevangenisw.;Vrouwen;Staat;247
+2084;XXIV, 5. Rechts-, politie-, gevangenisw.;Vrouwen;Provincie;1
+2085;XXIV, 5. Rechts-, politie-, gevangenisw.;Vrouwen;Gemeente;196
+2086;XXIV, 5. Rechts-, politie-, gevangenisw.;Vrouwen;Waterschap;0
+2087;XXIV, 5. Rechts-, politie-, gevangenisw.;Vrouwen;Particulier;120
+2088;XXIV, 6. Arbeidsinsp., volksgez., enz.;Totaal mannen en vrouwen;Totaal van alle dienstvormen;2592
+2089;XXIV, 6. Arbeidsinsp., volksgez., enz.;Totaal mannen en vrouwen;Staat;794
+2090;XXIV, 6. Arbeidsinsp., volksgez., enz.;Totaal mannen en vrouwen;Provincie;48
+2091;XXIV, 6. Arbeidsinsp., volksgez., enz.;Totaal mannen en vrouwen;Gemeente;1219
+2092;XXIV, 6. Arbeidsinsp., volksgez., enz.;Totaal mannen en vrouwen;Waterschap;0
+2093;XXIV, 6. Arbeidsinsp., volksgez., enz.;Totaal mannen en vrouwen;Particulier;531
+2094;XXIV, 6. Arbeidsinsp., volksgez., enz.;Mannen;Totaal van alle dienstvormen;2226
+2095;XXIV, 6. Arbeidsinsp., volksgez., enz.;Mannen;Staat;684
+2096;XXIV, 6. Arbeidsinsp., volksgez., enz.;Mannen;Provincie;39
+2097;XXIV, 6. Arbeidsinsp., volksgez., enz.;Mannen;Gemeente;1040
+2098;XXIV, 6. Arbeidsinsp., volksgez., enz.;Mannen;Waterschap;0
+2099;XXIV, 6. Arbeidsinsp., volksgez., enz.;Mannen;Particulier;463
+2100;XXIV, 6. Arbeidsinsp., volksgez., enz.;Vrouwen;Totaal van alle dienstvormen;366
+2101;XXIV, 6. Arbeidsinsp., volksgez., enz.;Vrouwen;Staat;110
+2102;XXIV, 6. Arbeidsinsp., volksgez., enz.;Vrouwen;Provincie;9
+2103;XXIV, 6. Arbeidsinsp., volksgez., enz.;Vrouwen;Gemeente;179
+2104;XXIV, 6. Arbeidsinsp., volksgez., enz.;Vrouwen;Waterschap;0
+2105;XXIV, 6. Arbeidsinsp., volksgez., enz.;Vrouwen;Particulier;68
+2106;XXIV, 7. Krijgswezen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;11927
+2107;XXIV, 7. Krijgswezen;Totaal mannen en vrouwen;Staat;11927
+2108;XXIV, 7. Krijgswezen;Totaal mannen en vrouwen;Provincie;0
+2109;XXIV, 7. Krijgswezen;Totaal mannen en vrouwen;Gemeente;0
+2110;XXIV, 7. Krijgswezen;Totaal mannen en vrouwen;Waterschap;0
+2111;XXIV, 7. Krijgswezen;Totaal mannen en vrouwen;Particulier;0
+2112;XXIV, 7. Krijgswezen;Mannen;Totaal van alle dienstvormen;11834
+2113;XXIV, 7. Krijgswezen;Mannen;Staat;11834
+2114;XXIV, 7. Krijgswezen;Mannen;Provincie;0
+2115;XXIV, 7. Krijgswezen;Mannen;Gemeente;0
+2116;XXIV, 7. Krijgswezen;Mannen;Waterschap;0
+2117;XXIV, 7. Krijgswezen;Mannen;Particulier;0
+2118;XXIV, 7. Krijgswezen;Vrouwen;Totaal van alle dienstvormen;93
+2119;XXIV, 7. Krijgswezen;Vrouwen;Staat;93
+2120;XXIV, 7. Krijgswezen;Vrouwen;Provincie;0
+2121;XXIV, 7. Krijgswezen;Vrouwen;Gemeente;0
+2122;XXIV, 7. Krijgswezen;Vrouwen;Waterschap;0
+2123;XXIV, 7. Krijgswezen;Vrouwen;Particulier;0
+2124;XXIV, 8. Bemalingsinrichtingen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;1161
+2125;XXIV, 8. Bemalingsinrichtingen;Totaal mannen en vrouwen;Staat;37
+2126;XXIV, 8. Bemalingsinrichtingen;Totaal mannen en vrouwen;Provincie;14
+2127;XXIV, 8. Bemalingsinrichtingen;Totaal mannen en vrouwen;Gemeente;30
+2128;XXIV, 8. Bemalingsinrichtingen;Totaal mannen en vrouwen;Waterschap;1000
+2129;XXIV, 8. Bemalingsinrichtingen;Totaal mannen en vrouwen;Particulier;80
+2130;XXIV, 8. Bemalingsinrichtingen;Mannen;Totaal van alle dienstvormen;1158
+2131;XXIV, 8. Bemalingsinrichtingen;Mannen;Staat;37
+2132;XXIV, 8. Bemalingsinrichtingen;Mannen;Provincie;14
+2133;XXIV, 8. Bemalingsinrichtingen;Mannen;Gemeente;30
+2134;XXIV, 8. Bemalingsinrichtingen;Mannen;Waterschap;998
+2135;XXIV, 8. Bemalingsinrichtingen;Mannen;Particulier;79
+2136;XXIV, 8. Bemalingsinrichtingen;Vrouwen;Totaal van alle dienstvormen;3
+2137;XXIV, 8. Bemalingsinrichtingen;Vrouwen;Staat;0
+2138;XXIV, 8. Bemalingsinrichtingen;Vrouwen;Provincie;0
+2139;XXIV, 8. Bemalingsinrichtingen;Vrouwen;Gemeente;0
+2140;XXIV, 8. Bemalingsinrichtingen;Vrouwen;Waterschap;2
+2141;XXIV, 8. Bemalingsinrichtingen;Vrouwen;Particulier;1
+2142;XXIV, 9. Brandweer;Totaal mannen en vrouwen;Totaal van alle dienstvormen;568
+2143;XXIV, 9. Brandweer;Totaal mannen en vrouwen;Staat;0
+2144;XXIV, 9. Brandweer;Totaal mannen en vrouwen;Provincie;0
+2145;XXIV, 9. Brandweer;Totaal mannen en vrouwen;Gemeente;560
+2146;XXIV, 9. Brandweer;Totaal mannen en vrouwen;Waterschap;0
+2147;XXIV, 9. Brandweer;Totaal mannen en vrouwen;Particulier;8
+2148;XXIV, 9. Brandweer;Mannen;Totaal van alle dienstvormen;564
+2149;XXIV, 9. Brandweer;Mannen;Staat;0
+2150;XXIV, 9. Brandweer;Mannen;Provincie;0
+2151;XXIV, 9. Brandweer;Mannen;Gemeente;556
+2152;XXIV, 9. Brandweer;Mannen;Waterschap;0
+2153;XXIV, 9. Brandweer;Mannen;Particulier;8
+2154;XXIV, 9. Brandweer;Vrouwen;Totaal van alle dienstvormen;4
+2155;XXIV, 9. Brandweer;Vrouwen;Staat;0
+2156;XXIV, 9. Brandweer;Vrouwen;Provincie;0
+2157;XXIV, 9. Brandweer;Vrouwen;Gemeente;4
+2158;XXIV, 9. Brandweer;Vrouwen;Waterschap;0
+2159;XXIV, 9. Brandweer;Vrouwen;Particulier;0
+2160;XXIV, 10. Archieven, musea enz.;Totaal mannen en vrouwen;Totaal van alle dienstvormen;4559
+2161;XXIV, 10. Archieven, musea enz.;Totaal mannen en vrouwen;Staat;1453
+2162;XXIV, 10. Archieven, musea enz.;Totaal mannen en vrouwen;Provincie;4
+2163;XXIV, 10. Archieven, musea enz.;Totaal mannen en vrouwen;Gemeente;349
+2164;XXIV, 10. Archieven, musea enz.;Totaal mannen en vrouwen;Waterschap;0
+2165;XXIV, 10. Archieven, musea enz.;Totaal mannen en vrouwen;Particulier;2753
+2166;XXIV, 10. Archieven, musea enz.;Mannen;Totaal van alle dienstvormen;3723
+2167;XXIV, 10. Archieven, musea enz.;Mannen;Staat;1150
+2168;XXIV, 10. Archieven, musea enz.;Mannen;Provincie;4
+2169;XXIV, 10. Archieven, musea enz.;Mannen;Gemeente;269
+2170;XXIV, 10. Archieven, musea enz.;Mannen;Waterschap;0
+2171;XXIV, 10. Archieven, musea enz.;Mannen;Particulier;2300
+2172;XXIV, 10. Archieven, musea enz.;Vrouwen;Totaal van alle dienstvormen;836
+2173;XXIV, 10. Archieven, musea enz.;Vrouwen;Staat;303
+2174;XXIV, 10. Archieven, musea enz.;Vrouwen;Provincie;0
+2175;XXIV, 10. Archieven, musea enz.;Vrouwen;Gemeente;80
+2176;XXIV, 10. Archieven, musea enz.;Vrouwen;Waterschap;0
+2177;XXIV, 10. Archieven, musea enz.;Vrouwen;Particulier;453
+2178;XXIV, 11. Bibliotheken en leeszalen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;1008
+2179;XXIV, 11. Bibliotheken en leeszalen;Totaal mannen en vrouwen;Staat;99
+2180;XXIV, 11. Bibliotheken en leeszalen;Totaal mannen en vrouwen;Provincie;10
+2181;XXIV, 11. Bibliotheken en leeszalen;Totaal mannen en vrouwen;Gemeente;214
+2182;XXIV, 11. Bibliotheken en leeszalen;Totaal mannen en vrouwen;Waterschap;0
+2183;XXIV, 11. Bibliotheken en leeszalen;Totaal mannen en vrouwen;Particulier;685
+2184;XXIV, 11. Bibliotheken en leeszalen;Mannen;Totaal van alle dienstvormen;416
+2185;XXIV, 11. Bibliotheken en leeszalen;Mannen;Staat;71
+2186;XXIV, 11. Bibliotheken en leeszalen;Mannen;Provincie;10
+2187;XXIV, 11. Bibliotheken en leeszalen;Mannen;Gemeente;84
+2188;XXIV, 11. Bibliotheken en leeszalen;Mannen;Waterschap;0
+2189;XXIV, 11. Bibliotheken en leeszalen;Mannen;Particulier;251
+2190;XXIV, 11. Bibliotheken en leeszalen;Vrouwen;Totaal van alle dienstvormen;592
+2191;XXIV, 11. Bibliotheken en leeszalen;Vrouwen;Staat;28
+2192;XXIV, 11. Bibliotheken en leeszalen;Vrouwen;Provincie;0
+2193;XXIV, 11. Bibliotheken en leeszalen;Vrouwen;Gemeente;130
+2194;XXIV, 11. Bibliotheken en leeszalen;Vrouwen;Waterschap;0
+2195;XXIV, 11. Bibliotheken en leeszalen;Vrouwen;Particulier;434
+2196;XXIV, 20. Dokterspraktijken;Totaal mannen en vrouwen;Totaal van alle dienstvormen;39249
+2197;XXIV, 20. Dokterspraktijken;Totaal mannen en vrouwen;Staat;2397
+2198;XXIV, 20. Dokterspraktijken;Totaal mannen en vrouwen;Provincie;964
+2199;XXIV, 20. Dokterspraktijken;Totaal mannen en vrouwen;Gemeente;6975
+2200;XXIV, 20. Dokterspraktijken;Totaal mannen en vrouwen;Waterschap;0
+2201;XXIV, 20. Dokterspraktijken;Totaal mannen en vrouwen;Particulier;28913
+2202;XXIV, 20. Dokterspraktijken;Mannen;Totaal van alle dienstvormen;11967
+2203;XXIV, 20. Dokterspraktijken;Mannen;Staat;716
+2204;XXIV, 20. Dokterspraktijken;Mannen;Provincie;405
+2205;XXIV, 20. Dokterspraktijken;Mannen;Gemeente;1821
+2206;XXIV, 20. Dokterspraktijken;Mannen;Waterschap;0
+2207;XXIV, 20. Dokterspraktijken;Mannen;Particulier;9025
+2208;XXIV, 20. Dokterspraktijken;Vrouwen;Totaal van alle dienstvormen;27282
+2209;XXIV, 20. Dokterspraktijken;Vrouwen;Staat;1681
+2210;XXIV, 20. Dokterspraktijken;Vrouwen;Provincie;559
+2211;XXIV, 20. Dokterspraktijken;Vrouwen;Gemeente;5154
+2212;XXIV, 20. Dokterspraktijken;Vrouwen;Waterschap;0
+2213;XXIV, 20. Dokterspraktijken;Vrouwen;Particulier;19888
+2214;XXIV, 23. Verpleging van armen, enz.;Totaal mannen en vrouwen;Totaal van alle dienstvormen;12040
+2215;XXIV, 23. Verpleging van armen, enz.;Totaal mannen en vrouwen;Staat;91
+2216;XXIV, 23. Verpleging van armen, enz.;Totaal mannen en vrouwen;Provincie;0
+2217;XXIV, 23. Verpleging van armen, enz.;Totaal mannen en vrouwen;Gemeente;1644
+2218;XXIV, 23. Verpleging van armen, enz.;Totaal mannen en vrouwen;Waterschap;0
+2219;XXIV, 23. Verpleging van armen, enz.;Totaal mannen en vrouwen;Particulier;10305
+2220;XXIV, 23. Verpleging van armen, enz.;Mannen;Totaal van alle dienstvormen;3140
+2221;XXIV, 23. Verpleging van armen, enz.;Mannen;Staat;58
+2222;XXIV, 23. Verpleging van armen, enz.;Mannen;Provincie;0
+2223;XXIV, 23. Verpleging van armen, enz.;Mannen;Gemeente;948
+2224;XXIV, 23. Verpleging van armen, enz.;Mannen;Waterschap;0
+2225;XXIV, 23. Verpleging van armen, enz.;Mannen;Particulier;2134
+2226;XXIV, 23. Verpleging van armen, enz.;Vrouwen;Totaal van alle dienstvormen;8900
+2227;XXIV, 23. Verpleging van armen, enz.;Vrouwen;Staat;33
+2228;XXIV, 23. Verpleging van armen, enz.;Vrouwen;Provincie;0
+2229;XXIV, 23. Verpleging van armen, enz.;Vrouwen;Gemeente;696
+2230;XXIV, 23. Verpleging van armen, enz.;Vrouwen;Waterschap;0
+2231;XXIV, 23. Verpleging van armen, enz.;Vrouwen;Particulier;8171
+2232;XXIV, 25. Schouwburgen, concertgeb. enz.;Totaal mannen en vrouwen;Totaal van alle dienstvormen;1542
+2233;XXIV, 25. Schouwburgen, concertgeb. enz.;Totaal mannen en vrouwen;Staat;0
+2234;XXIV, 25. Schouwburgen, concertgeb. enz.;Totaal mannen en vrouwen;Provincie;0
+2235;XXIV, 25. Schouwburgen, concertgeb. enz.;Totaal mannen en vrouwen;Gemeente;105
+2236;XXIV, 25. Schouwburgen, concertgeb. enz.;Totaal mannen en vrouwen;Waterschap;0
+2237;XXIV, 25. Schouwburgen, concertgeb. enz.;Totaal mannen en vrouwen;Particulier;1437
+2238;XXIV, 25. Schouwburgen, concertgeb. enz.;Mannen;Totaal van alle dienstvormen;1110
+2239;XXIV, 25. Schouwburgen, concertgeb. enz.;Mannen;Staat;0
+2240;XXIV, 25. Schouwburgen, concertgeb. enz.;Mannen;Provincie;0
+2241;XXIV, 25. Schouwburgen, concertgeb. enz.;Mannen;Gemeente;74
+2242;XXIV, 25. Schouwburgen, concertgeb. enz.;Mannen;Waterschap;0
+2243;XXIV, 25. Schouwburgen, concertgeb. enz.;Mannen;Particulier;1036
+2244;XXIV, 25. Schouwburgen, concertgeb. enz.;Vrouwen;Totaal van alle dienstvormen;432
+2245;XXIV, 25. Schouwburgen, concertgeb. enz.;Vrouwen;Staat;0
+2246;XXIV, 25. Schouwburgen, concertgeb. enz.;Vrouwen;Provincie;0
+2247;XXIV, 25. Schouwburgen, concertgeb. enz.;Vrouwen;Gemeente;31
+2248;XXIV, 25. Schouwburgen, concertgeb. enz.;Vrouwen;Waterschap;0
+2249;XXIV, 25. Schouwburgen, concertgeb. enz.;Vrouwen;Particulier;401
+2250;XXIV, 26. Bioscopen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;1808
+2251;XXIV, 26. Bioscopen;Totaal mannen en vrouwen;Staat;0
+2252;XXIV, 26. Bioscopen;Totaal mannen en vrouwen;Provincie;0
+2253;XXIV, 26. Bioscopen;Totaal mannen en vrouwen;Gemeente;5
+2254;XXIV, 26. Bioscopen;Totaal mannen en vrouwen;Waterschap;0
+2255;XXIV, 26. Bioscopen;Totaal mannen en vrouwen;Particulier;1803
+2256;XXIV, 26. Bioscopen;Mannen;Totaal van alle dienstvormen;1265
+2257;XXIV, 26. Bioscopen;Mannen;Staat;0
+2258;XXIV, 26. Bioscopen;Mannen;Provincie;0
+2259;XXIV, 26. Bioscopen;Mannen;Gemeente;5
+2260;XXIV, 26. Bioscopen;Mannen;Waterschap;0
+2261;XXIV, 26. Bioscopen;Mannen;Particulier;1260
+2262;XXIV, 26. Bioscopen;Vrouwen;Totaal van alle dienstvormen;543
+2263;XXIV, 26. Bioscopen;Vrouwen;Staat;0
+2264;XXIV, 26. Bioscopen;Vrouwen;Provincie;0
+2265;XXIV, 26. Bioscopen;Vrouwen;Gemeente;0
+2266;XXIV, 26. Bioscopen;Vrouwen;Waterschap;0
+2267;XXIV, 26. Bioscopen;Vrouwen;Particulier;543
+2268;XXIV, 27. Tooneel-, opera-, cabaretgez.;Totaal mannen en vrouwen;Totaal van alle dienstvormen;4132
+2269;XXIV, 27. Tooneel-, opera-, cabaretgez.;Totaal mannen en vrouwen;Staat;0
+2270;XXIV, 27. Tooneel-, opera-, cabaretgez.;Totaal mannen en vrouwen;Provincie;0
+2271;XXIV, 27. Tooneel-, opera-, cabaretgez.;Totaal mannen en vrouwen;Gemeente;8
+2272;XXIV, 27. Tooneel-, opera-, cabaretgez.;Totaal mannen en vrouwen;Waterschap;0
+2273;XXIV, 27. Tooneel-, opera-, cabaretgez.;Totaal mannen en vrouwen;Particulier;4124
+2274;XXIV, 27. Tooneel-, opera-, cabaretgez.;Mannen;Totaal van alle dienstvormen;3271
+2275;XXIV, 27. Tooneel-, opera-, cabaretgez.;Mannen;Staat;0
+2276;XXIV, 27. Tooneel-, opera-, cabaretgez.;Mannen;Provincie;0
+2277;XXIV, 27. Tooneel-, opera-, cabaretgez.;Mannen;Gemeente;7
+2278;XXIV, 27. Tooneel-, opera-, cabaretgez.;Mannen;Waterschap;0
+2279;XXIV, 27. Tooneel-, opera-, cabaretgez.;Mannen;Particulier;3264
+2280;XXIV, 27. Tooneel-, opera-, cabaretgez.;Vrouwen;Totaal van alle dienstvormen;861
+2281;XXIV, 27. Tooneel-, opera-, cabaretgez.;Vrouwen;Staat;0
+2282;XXIV, 27. Tooneel-, opera-, cabaretgez.;Vrouwen;Provincie;0
+2283;XXIV, 27. Tooneel-, opera-, cabaretgez.;Vrouwen;Gemeente;1
+2284;XXIV, 27. Tooneel-, opera-, cabaretgez.;Vrouwen;Waterschap;0
+2285;XXIV, 27. Tooneel-, opera-, cabaretgez.;Vrouwen;Particulier;860
+2286;XXIV, 30. Sportinrichtingen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;474
+2287;XXIV, 30. Sportinrichtingen;Totaal mannen en vrouwen;Staat;0
+2288;XXIV, 30. Sportinrichtingen;Totaal mannen en vrouwen;Provincie;0
+2289;XXIV, 30. Sportinrichtingen;Totaal mannen en vrouwen;Gemeente;33
+2290;XXIV, 30. Sportinrichtingen;Totaal mannen en vrouwen;Waterschap;0
+2291;XXIV, 30. Sportinrichtingen;Totaal mannen en vrouwen;Particulier;441
+2292;XXIV, 30. Sportinrichtingen;Mannen;Totaal van alle dienstvormen;451
+2293;XXIV, 30. Sportinrichtingen;Mannen;Staat;0
+2294;XXIV, 30. Sportinrichtingen;Mannen;Provincie;0
+2295;XXIV, 30. Sportinrichtingen;Mannen;Gemeente;31
+2296;XXIV, 30. Sportinrichtingen;Mannen;Waterschap;0
+2297;XXIV, 30. Sportinrichtingen;Mannen;Particulier;420
+2298;XXIV, 30. Sportinrichtingen;Vrouwen;Totaal van alle dienstvormen;23
+2299;XXIV, 30. Sportinrichtingen;Vrouwen;Staat;0
+2300;XXIV, 30. Sportinrichtingen;Vrouwen;Provincie;0
+2301;XXIV, 30. Sportinrichtingen;Vrouwen;Gemeente;2
+2302;XXIV, 30. Sportinrichtingen;Vrouwen;Waterschap;0
+2303;XXIV, 30. Sportinrichtingen;Vrouwen;Particulier;21
+2304;XXIV, 31. Niet te rangschikken;Totaal mannen en vrouwen;Totaal van alle dienstvormen;5645
+2305;XXIV, 31. Niet te rangschikken;Totaal mannen en vrouwen;Staat;169
+2306;XXIV, 31. Niet te rangschikken;Totaal mannen en vrouwen;Provincie;3
+2307;XXIV, 31. Niet te rangschikken;Totaal mannen en vrouwen;Gemeente;31
+2308;XXIV, 31. Niet te rangschikken;Totaal mannen en vrouwen;Waterschap;1
+2309;XXIV, 31. Niet te rangschikken;Totaal mannen en vrouwen;Particulier;5441
+2310;XXIV, 31. Niet te rangschikken;Mannen;Totaal van alle dienstvormen;4101
+2311;XXIV, 31. Niet te rangschikken;Mannen;Staat;152
+2312;XXIV, 31. Niet te rangschikken;Mannen;Provincie;0
+2313;XXIV, 31. Niet te rangschikken;Mannen;Gemeente;13
+2314;XXIV, 31. Niet te rangschikken;Mannen;Waterschap;1
+2315;XXIV, 31. Niet te rangschikken;Mannen;Particulier;3935
+2316;XXIV, 31. Niet te rangschikken;Vrouwen;Totaal van alle dienstvormen;1544
+2317;XXIV, 31. Niet te rangschikken;Vrouwen;Staat;17
+2318;XXIV, 31. Niet te rangschikken;Vrouwen;Provincie;3
+2319;XXIV, 31. Niet te rangschikken;Vrouwen;Gemeente;18
+2320;XXIV, 31. Niet te rangschikken;Vrouwen;Waterschap;0
+2321;XXIV, 31. Niet te rangschikken;Vrouwen;Particulier;1506
+2322;XXIV, 32. Veeartspraktijken;Totaal mannen en vrouwen;Totaal van alle dienstvormen;390
+2323;XXIV, 32. Veeartspraktijken;Totaal mannen en vrouwen;Staat;8
+2324;XXIV, 32. Veeartspraktijken;Totaal mannen en vrouwen;Provincie;0
+2325;XXIV, 32. Veeartspraktijken;Totaal mannen en vrouwen;Gemeente;35
+2326;XXIV, 32. Veeartspraktijken;Totaal mannen en vrouwen;Waterschap;0
+2327;XXIV, 32. Veeartspraktijken;Totaal mannen en vrouwen;Particulier;347
+2328;XXIV, 32. Veeartspraktijken;Mannen;Totaal van alle dienstvormen;389
+2329;XXIV, 32. Veeartspraktijken;Mannen;Staat;8
+2330;XXIV, 32. Veeartspraktijken;Mannen;Provincie;0
+2331;XXIV, 32. Veeartspraktijken;Mannen;Gemeente;35
+2332;XXIV, 32. Veeartspraktijken;Mannen;Waterschap;0
+2333;XXIV, 32. Veeartspraktijken;Mannen;Particulier;346
+2334;XXIV, 32. Veeartspraktijken;Vrouwen;Totaal van alle dienstvormen;1
+2335;XXIV, 32. Veeartspraktijken;Vrouwen;Staat;0
+2336;XXIV, 32. Veeartspraktijken;Vrouwen;Provincie;0
+2337;XXIV, 32. Veeartspraktijken;Vrouwen;Gemeente;0
+2338;XXIV, 32. Veeartspraktijken;Vrouwen;Waterschap;0
+2339;XXIV, 32. Veeartspraktijken;Vrouwen;Particulier;1
+2340;XXIV, 33. Vroedvrouwen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;726
+2341;XXIV, 33. Vroedvrouwen;Totaal mannen en vrouwen;Staat;0
+2342;XXIV, 33. Vroedvrouwen;Totaal mannen en vrouwen;Provincie;0
+2343;XXIV, 33. Vroedvrouwen;Totaal mannen en vrouwen;Gemeente;323
+2344;XXIV, 33. Vroedvrouwen;Totaal mannen en vrouwen;Waterschap;0
+2345;XXIV, 33. Vroedvrouwen;Totaal mannen en vrouwen;Particulier;403
+2346;XXIV, 33. Vroedvrouwen;Mannen;Totaal van alle dienstvormen;1
+2347;XXIV, 33. Vroedvrouwen;Mannen;Staat;0
+2348;XXIV, 33. Vroedvrouwen;Mannen;Provincie;0
+2349;XXIV, 33. Vroedvrouwen;Mannen;Gemeente;0
+2350;XXIV, 33. Vroedvrouwen;Mannen;Waterschap;0
+2351;XXIV, 33. Vroedvrouwen;Mannen;Particulier;1
+2352;XXIV, 33. Vroedvrouwen;Vrouwen;Totaal van alle dienstvormen;725
+2353;XXIV, 33. Vroedvrouwen;Vrouwen;Staat;0
+2354;XXIV, 33. Vroedvrouwen;Vrouwen;Provincie;0
+2355;XXIV, 33. Vroedvrouwen;Vrouwen;Gemeente;323
+2356;XXIV, 33. Vroedvrouwen;Vrouwen;Waterschap;0
+2357;XXIV, 33. Vroedvrouwen;Vrouwen;Particulier;402
+2358;XXIV, 34. Massage-inrichtingen enz.;Totaal mannen en vrouwen;Totaal van alle dienstvormen;481
+2359;XXIV, 34. Massage-inrichtingen enz.;Totaal mannen en vrouwen;Staat;1
+2360;XXIV, 34. Massage-inrichtingen enz.;Totaal mannen en vrouwen;Provincie;0
+2361;XXIV, 34. Massage-inrichtingen enz.;Totaal mannen en vrouwen;Gemeente;7
+2362;XXIV, 34. Massage-inrichtingen enz.;Totaal mannen en vrouwen;Waterschap;0
+2363;XXIV, 34. Massage-inrichtingen enz.;Totaal mannen en vrouwen;Particulier;473
+2364;XXIV, 34. Massage-inrichtingen enz.;Mannen;Totaal van alle dienstvormen;247
+2365;XXIV, 34. Massage-inrichtingen enz.;Mannen;Staat;1
+2366;XXIV, 34. Massage-inrichtingen enz.;Mannen;Provincie;0
+2367;XXIV, 34. Massage-inrichtingen enz.;Mannen;Gemeente;1
+2368;XXIV, 34. Massage-inrichtingen enz.;Mannen;Waterschap;0
+2369;XXIV, 34. Massage-inrichtingen enz.;Mannen;Particulier;245
+2370;XXIV, 34. Massage-inrichtingen enz.;Vrouwen;Totaal van alle dienstvormen;234
+2371;XXIV, 34. Massage-inrichtingen enz.;Vrouwen;Staat;0
+2372;XXIV, 34. Massage-inrichtingen enz.;Vrouwen;Provincie;0
+2373;XXIV, 34. Massage-inrichtingen enz.;Vrouwen;Gemeente;6
+2374;XXIV, 34. Massage-inrichtingen enz.;Vrouwen;Waterschap;0
+2375;XXIV, 34. Massage-inrichtingen enz.;Vrouwen;Particulier;228
+2376;XXV, 1. Hooger onderwijs;Totaal mannen en vrouwen;Totaal van alle dienstvormen;3412
+2377;XXV, 1. Hooger onderwijs;Totaal mannen en vrouwen;Staat;1496
+2378;XXV, 1. Hooger onderwijs;Totaal mannen en vrouwen;Provincie;0
+2379;XXV, 1. Hooger onderwijs;Totaal mannen en vrouwen;Gemeente;265
+2380;XXV, 1. Hooger onderwijs;Totaal mannen en vrouwen;Waterschap;0
+2381;XXV, 1. Hooger onderwijs;Totaal mannen en vrouwen;Particulier;1651
+2382;XXV, 1. Hooger onderwijs;Mannen;Totaal van alle dienstvormen;3034
+2383;XXV, 1. Hooger onderwijs;Mannen;Staat;1294
+2384;XXV, 1. Hooger onderwijs;Mannen;Provincie;0
+2385;XXV, 1. Hooger onderwijs;Mannen;Gemeente;230
+2386;XXV, 1. Hooger onderwijs;Mannen;Waterschap;0
+2387;XXV, 1. Hooger onderwijs;Mannen;Particulier;1510
+2388;XXV, 1. Hooger onderwijs;Vrouwen;Totaal van alle dienstvormen;378
+2389;XXV, 1. Hooger onderwijs;Vrouwen;Staat;202
+2390;XXV, 1. Hooger onderwijs;Vrouwen;Provincie;0
+2391;XXV, 1. Hooger onderwijs;Vrouwen;Gemeente;35
+2392;XXV, 1. Hooger onderwijs;Vrouwen;Waterschap;0
+2393;XXV, 1. Hooger onderwijs;Vrouwen;Particulier;141
+2394;XXV, 2. Voorber. hooger en middelb. ond.;Totaal mannen en vrouwen;Totaal van alle dienstvormen;7256
+2395;XXV, 2. Voorber. hooger en middelb. ond.;Totaal mannen en vrouwen;Staat;818
+2396;XXV, 2. Voorber. hooger en middelb. ond.;Totaal mannen en vrouwen;Provincie;0
+2397;XXV, 2. Voorber. hooger en middelb. ond.;Totaal mannen en vrouwen;Gemeente;2056
+2398;XXV, 2. Voorber. hooger en middelb. ond.;Totaal mannen en vrouwen;Waterschap;0
+2399;XXV, 2. Voorber. hooger en middelb. ond.;Totaal mannen en vrouwen;Particulier;4382
+2400;XXV, 2. Voorber. hooger en middelb. ond.;Mannen;Totaal van alle dienstvormen;5431
+2401;XXV, 2. Voorber. hooger en middelb. ond.;Mannen;Staat;685
+2402;XXV, 2. Voorber. hooger en middelb. ond.;Mannen;Provincie;0
+2403;XXV, 2. Voorber. hooger en middelb. ond.;Mannen;Gemeente;1531
+2404;XXV, 2. Voorber. hooger en middelb. ond.;Mannen;Waterschap;0
+2405;XXV, 2. Voorber. hooger en middelb. ond.;Mannen;Particulier;3215
+2406;XXV, 2. Voorber. hooger en middelb. ond.;Vrouwen;Totaal van alle dienstvormen;1825
+2407;XXV, 2. Voorber. hooger en middelb. ond.;Vrouwen;Staat;133
+2408;XXV, 2. Voorber. hooger en middelb. ond.;Vrouwen;Provincie;0
+2409;XXV, 2. Voorber. hooger en middelb. ond.;Vrouwen;Gemeente;525
+2410;XXV, 2. Voorber. hooger en middelb. ond.;Vrouwen;Waterschap;0
+2411;XXV, 2. Voorber. hooger en middelb. ond.;Vrouwen;Particulier;1167
+2412;XXV, 3. Lager onderwijs;Totaal mannen en vrouwen;Totaal van alle dienstvormen;54047
+2413;XXV, 3. Lager onderwijs;Totaal mannen en vrouwen;Staat;241
+2414;XXV, 3. Lager onderwijs;Totaal mannen en vrouwen;Provincie;0
+2415;XXV, 3. Lager onderwijs;Totaal mannen en vrouwen;Gemeente;19245
+2416;XXV, 3. Lager onderwijs;Totaal mannen en vrouwen;Waterschap;0
+2417;XXV, 3. Lager onderwijs;Totaal mannen en vrouwen;Particulier;34561
+2418;XXV, 3. Lager onderwijs;Mannen;Totaal van alle dienstvormen;24682
+2419;XXV, 3. Lager onderwijs;Mannen;Staat;168
+2420;XXV, 3. Lager onderwijs;Mannen;Provincie;0
+2421;XXV, 3. Lager onderwijs;Mannen;Gemeente;10231
+2422;XXV, 3. Lager onderwijs;Mannen;Waterschap;0
+2423;XXV, 3. Lager onderwijs;Mannen;Particulier;14283
+2424;XXV, 3. Lager onderwijs;Vrouwen;Totaal van alle dienstvormen;29365
+2425;XXV, 3. Lager onderwijs;Vrouwen;Staat;73
+2426;XXV, 3. Lager onderwijs;Vrouwen;Provincie;0
+2427;XXV, 3. Lager onderwijs;Vrouwen;Gemeente;9014
+2428;XXV, 3. Lager onderwijs;Vrouwen;Waterschap;0
+2429;XXV, 3. Lager onderwijs;Vrouwen;Particulier;20278
+2430;XXV, 4. Onderwijzersopleiding;Totaal mannen en vrouwen;Totaal van alle dienstvormen;2123
+2431;XXV, 4. Onderwijzersopleiding;Totaal mannen en vrouwen;Staat;211
+2432;XXV, 4. Onderwijzersopleiding;Totaal mannen en vrouwen;Provincie;0
+2433;XXV, 4. Onderwijzersopleiding;Totaal mannen en vrouwen;Gemeente;82
+2434;XXV, 4. Onderwijzersopleiding;Totaal mannen en vrouwen;Waterschap;0
+2435;XXV, 4. Onderwijzersopleiding;Totaal mannen en vrouwen;Particulier;1830
+2436;XXV, 4. Onderwijzersopleiding;Mannen;Totaal van alle dienstvormen;828
+2437;XXV, 4. Onderwijzersopleiding;Mannen;Staat;173
+2438;XXV, 4. Onderwijzersopleiding;Mannen;Provincie;0
+2439;XXV, 4. Onderwijzersopleiding;Mannen;Gemeente;49
+2440;XXV, 4. Onderwijzersopleiding;Mannen;Waterschap;0
+2441;XXV, 4. Onderwijzersopleiding;Mannen;Particulier;606
+2442;XXV, 4. Onderwijzersopleiding;Vrouwen;Totaal van alle dienstvormen;1295
+2443;XXV, 4. Onderwijzersopleiding;Vrouwen;Staat;38
+2444;XXV, 4. Onderwijzersopleiding;Vrouwen;Provincie;0
+2445;XXV, 4. Onderwijzersopleiding;Vrouwen;Gemeente;33
+2446;XXV, 4. Onderwijzersopleiding;Vrouwen;Waterschap;0
+2447;XXV, 4. Onderwijzersopleiding;Vrouwen;Particulier;1224
+2448;XXV, 5. Militair onderwijs;Totaal mannen en vrouwen;Totaal van alle dienstvormen;160
+2449;XXV, 5. Militair onderwijs;Totaal mannen en vrouwen;Staat;160
+2450;XXV, 5. Militair onderwijs;Totaal mannen en vrouwen;Provincie;0
+2451;XXV, 5. Militair onderwijs;Totaal mannen en vrouwen;Gemeente;0
+2452;XXV, 5. Militair onderwijs;Totaal mannen en vrouwen;Waterschap;0
+2453;XXV, 5. Militair onderwijs;Totaal mannen en vrouwen;Particulier;0
+2454;XXV, 5. Militair onderwijs;Mannen;Totaal van alle dienstvormen;141
+2455;XXV, 5. Militair onderwijs;Mannen;Staat;141
+2456;XXV, 5. Militair onderwijs;Mannen;Provincie;0
+2457;XXV, 5. Militair onderwijs;Mannen;Gemeente;0
+2458;XXV, 5. Militair onderwijs;Mannen;Waterschap;0
+2459;XXV, 5. Militair onderwijs;Mannen;Particulier;0
+2460;XXV, 5. Militair onderwijs;Vrouwen;Totaal van alle dienstvormen;19
+2461;XXV, 5. Militair onderwijs;Vrouwen;Staat;19
+2462;XXV, 5. Militair onderwijs;Vrouwen;Provincie;0
+2463;XXV, 5. Militair onderwijs;Vrouwen;Gemeente;0
+2464;XXV, 5. Militair onderwijs;Vrouwen;Waterschap;0
+2465;XXV, 5. Militair onderwijs;Vrouwen;Particulier;0
+2466;XXV, 6. Vakonderwijs voor jongens;Totaal mannen en vrouwen;Totaal van alle dienstvormen;2853
+2467;XXV, 6. Vakonderwijs voor jongens;Totaal mannen en vrouwen;Staat;184
+2468;XXV, 6. Vakonderwijs voor jongens;Totaal mannen en vrouwen;Provincie;0
+2469;XXV, 6. Vakonderwijs voor jongens;Totaal mannen en vrouwen;Gemeente;373
+2470;XXV, 6. Vakonderwijs voor jongens;Totaal mannen en vrouwen;Waterschap;0
+2471;XXV, 6. Vakonderwijs voor jongens;Totaal mannen en vrouwen;Particulier;2296
+2472;XXV, 6. Vakonderwijs voor jongens;Mannen;Totaal van alle dienstvormen;2677
+2473;XXV, 6. Vakonderwijs voor jongens;Mannen;Staat;169
+2474;XXV, 6. Vakonderwijs voor jongens;Mannen;Provincie;0
+2475;XXV, 6. Vakonderwijs voor jongens;Mannen;Gemeente;349
+2476;XXV, 6. Vakonderwijs voor jongens;Mannen;Waterschap;0
+2477;XXV, 6. Vakonderwijs voor jongens;Mannen;Particulier;2159
+2478;XXV, 6. Vakonderwijs voor jongens;Vrouwen;Totaal van alle dienstvormen;176
+2479;XXV, 6. Vakonderwijs voor jongens;Vrouwen;Staat;15
+2480;XXV, 6. Vakonderwijs voor jongens;Vrouwen;Provincie;0
+2481;XXV, 6. Vakonderwijs voor jongens;Vrouwen;Gemeente;24
+2482;XXV, 6. Vakonderwijs voor jongens;Vrouwen;Waterschap;0
+2483;XXV, 6. Vakonderwijs voor jongens;Vrouwen;Particulier;137
+2484;XXV, 7. Vakonderwijs voor meisjes;Totaal mannen en vrouwen;Totaal van alle dienstvormen;4343
+2485;XXV, 7. Vakonderwijs voor meisjes;Totaal mannen en vrouwen;Staat;95
+2486;XXV, 7. Vakonderwijs voor meisjes;Totaal mannen en vrouwen;Provincie;0
+2487;XXV, 7. Vakonderwijs voor meisjes;Totaal mannen en vrouwen;Gemeente;341
+2488;XXV, 7. Vakonderwijs voor meisjes;Totaal mannen en vrouwen;Waterschap;0
+2489;XXV, 7. Vakonderwijs voor meisjes;Totaal mannen en vrouwen;Particulier;3907
+2490;XXV, 7. Vakonderwijs voor meisjes;Mannen;Totaal van alle dienstvormen;198
+2491;XXV, 7. Vakonderwijs voor meisjes;Mannen;Staat;24
+2492;XXV, 7. Vakonderwijs voor meisjes;Mannen;Provincie;0
+2493;XXV, 7. Vakonderwijs voor meisjes;Mannen;Gemeente;13
+2494;XXV, 7. Vakonderwijs voor meisjes;Mannen;Waterschap;0
+2495;XXV, 7. Vakonderwijs voor meisjes;Mannen;Particulier;161
+2496;XXV, 7. Vakonderwijs voor meisjes;Vrouwen;Totaal van alle dienstvormen;4145
+2497;XXV, 7. Vakonderwijs voor meisjes;Vrouwen;Staat;71
+2498;XXV, 7. Vakonderwijs voor meisjes;Vrouwen;Provincie;0
+2499;XXV, 7. Vakonderwijs voor meisjes;Vrouwen;Gemeente;328
+2500;XXV, 7. Vakonderwijs voor meisjes;Vrouwen;Waterschap;0
+2501;XXV, 7. Vakonderwijs voor meisjes;Vrouwen;Particulier;3746
+2502;XXV, 8. Taalscholen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;440
+2503;XXV, 8. Taalscholen;Totaal mannen en vrouwen;Staat;0
+2504;XXV, 8. Taalscholen;Totaal mannen en vrouwen;Provincie;0
+2505;XXV, 8. Taalscholen;Totaal mannen en vrouwen;Gemeente;2
+2506;XXV, 8. Taalscholen;Totaal mannen en vrouwen;Waterschap;0
+2507;XXV, 8. Taalscholen;Totaal mannen en vrouwen;Particulier;438
+2508;XXV, 8. Taalscholen;Mannen;Totaal van alle dienstvormen;241
+2509;XXV, 8. Taalscholen;Mannen;Staat;0
+2510;XXV, 8. Taalscholen;Mannen;Provincie;0
+2511;XXV, 8. Taalscholen;Mannen;Gemeente;1
+2512;XXV, 8. Taalscholen;Mannen;Waterschap;0
+2513;XXV, 8. Taalscholen;Mannen;Particulier;240
+2514;XXV, 8. Taalscholen;Vrouwen;Totaal van alle dienstvormen;199
+2515;XXV, 8. Taalscholen;Vrouwen;Staat;0
+2516;XXV, 8. Taalscholen;Vrouwen;Provincie;0
+2517;XXV, 8. Taalscholen;Vrouwen;Gemeente;1
+2518;XXV, 8. Taalscholen;Vrouwen;Waterschap;0
+2519;XXV, 8. Taalscholen;Vrouwen;Particulier;198
+2520;XXV, 9. Kunst- en teekenacademies;Totaal mannen en vrouwen;Totaal van alle dienstvormen;200
+2521;XXV, 9. Kunst- en teekenacademies;Totaal mannen en vrouwen;Staat;30
+2522;XXV, 9. Kunst- en teekenacademies;Totaal mannen en vrouwen;Provincie;0
+2523;XXV, 9. Kunst- en teekenacademies;Totaal mannen en vrouwen;Gemeente;23
+2524;XXV, 9. Kunst- en teekenacademies;Totaal mannen en vrouwen;Waterschap;0
+2525;XXV, 9. Kunst- en teekenacademies;Totaal mannen en vrouwen;Particulier;147
+2526;XXV, 9. Kunst- en teekenacademies;Mannen;Totaal van alle dienstvormen;158
+2527;XXV, 9. Kunst- en teekenacademies;Mannen;Staat;26
+2528;XXV, 9. Kunst- en teekenacademies;Mannen;Provincie;0
+2529;XXV, 9. Kunst- en teekenacademies;Mannen;Gemeente;21
+2530;XXV, 9. Kunst- en teekenacademies;Mannen;Waterschap;0
+2531;XXV, 9. Kunst- en teekenacademies;Mannen;Particulier;111
+2532;XXV, 9. Kunst- en teekenacademies;Vrouwen;Totaal van alle dienstvormen;42
+2533;XXV, 9. Kunst- en teekenacademies;Vrouwen;Staat;4
+2534;XXV, 9. Kunst- en teekenacademies;Vrouwen;Provincie;0
+2535;XXV, 9. Kunst- en teekenacademies;Vrouwen;Gemeente;2
+2536;XXV, 9. Kunst- en teekenacademies;Vrouwen;Waterschap;0
+2537;XXV, 9. Kunst- en teekenacademies;Vrouwen;Particulier;36
+2538;XXV, 10. Muziekscholen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;713
+2539;XXV, 10. Muziekscholen;Totaal mannen en vrouwen;Staat;1
+2540;XXV, 10. Muziekscholen;Totaal mannen en vrouwen;Provincie;0
+2541;XXV, 10. Muziekscholen;Totaal mannen en vrouwen;Gemeente;46
+2542;XXV, 10. Muziekscholen;Totaal mannen en vrouwen;Waterschap;0
+2543;XXV, 10. Muziekscholen;Totaal mannen en vrouwen;Particulier;666
+2544;XXV, 10. Muziekscholen;Mannen;Totaal van alle dienstvormen;384
+2545;XXV, 10. Muziekscholen;Mannen;Staat;1
+2546;XXV, 10. Muziekscholen;Mannen;Provincie;0
+2547;XXV, 10. Muziekscholen;Mannen;Gemeente;29
+2548;XXV, 10. Muziekscholen;Mannen;Waterschap;0
+2549;XXV, 10. Muziekscholen;Mannen;Particulier;354
+2550;XXV, 10. Muziekscholen;Vrouwen;Totaal van alle dienstvormen;329
+2551;XXV, 10. Muziekscholen;Vrouwen;Staat;0
+2552;XXV, 10. Muziekscholen;Vrouwen;Provincie;0
+2553;XXV, 10. Muziekscholen;Vrouwen;Gemeente;17
+2554;XXV, 10. Muziekscholen;Vrouwen;Waterschap;0
+2555;XXV, 10. Muziekscholen;Vrouwen;Particulier;312
+2556;XXV, 12. Sportscholen (w.o. maneges);Totaal mannen en vrouwen;Totaal van alle dienstvormen;529
+2557;XXV, 12. Sportscholen (w.o. maneges);Totaal mannen en vrouwen;Staat;8
+2558;XXV, 12. Sportscholen (w.o. maneges);Totaal mannen en vrouwen;Provincie;0
+2559;XXV, 12. Sportscholen (w.o. maneges);Totaal mannen en vrouwen;Gemeente;90
+2560;XXV, 12. Sportscholen (w.o. maneges);Totaal mannen en vrouwen;Waterschap;0
+2561;XXV, 12. Sportscholen (w.o. maneges);Totaal mannen en vrouwen;Particulier;431
+2562;XXV, 12. Sportscholen (w.o. maneges);Mannen;Totaal van alle dienstvormen;390
+2563;XXV, 12. Sportscholen (w.o. maneges);Mannen;Staat;7
+2564;XXV, 12. Sportscholen (w.o. maneges);Mannen;Provincie;0
+2565;XXV, 12. Sportscholen (w.o. maneges);Mannen;Gemeente;55
+2566;XXV, 12. Sportscholen (w.o. maneges);Mannen;Waterschap;0
+2567;XXV, 12. Sportscholen (w.o. maneges);Mannen;Particulier;328
+2568;XXV, 12. Sportscholen (w.o. maneges);Vrouwen;Totaal van alle dienstvormen;139
+2569;XXV, 12. Sportscholen (w.o. maneges);Vrouwen;Staat;1
+2570;XXV, 12. Sportscholen (w.o. maneges);Vrouwen;Provincie;0
+2571;XXV, 12. Sportscholen (w.o. maneges);Vrouwen;Gemeente;35
+2572;XXV, 12. Sportscholen (w.o. maneges);Vrouwen;Waterschap;0
+2573;XXV, 12. Sportscholen (w.o. maneges);Vrouwen;Particulier;103
+2574;XXV, 13. Bewaarscholen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;5711
+2575;XXV, 13. Bewaarscholen;Totaal mannen en vrouwen;Staat;0
+2576;XXV, 13. Bewaarscholen;Totaal mannen en vrouwen;Provincie;0
+2577;XXV, 13. Bewaarscholen;Totaal mannen en vrouwen;Gemeente;1352
+2578;XXV, 13. Bewaarscholen;Totaal mannen en vrouwen;Waterschap;0
+2579;XXV, 13. Bewaarscholen;Totaal mannen en vrouwen;Particulier;4359
+2580;XXV, 13. Bewaarscholen;Mannen;Totaal van alle dienstvormen;13
+2581;XXV, 13. Bewaarscholen;Mannen;Staat;0
+2582;XXV, 13. Bewaarscholen;Mannen;Provincie;0
+2583;XXV, 13. Bewaarscholen;Mannen;Gemeente;0
+2584;XXV, 13. Bewaarscholen;Mannen;Waterschap;0
+2585;XXV, 13. Bewaarscholen;Mannen;Particulier;13
+2586;XXV, 13. Bewaarscholen;Vrouwen;Totaal van alle dienstvormen;5698
+2587;XXV, 13. Bewaarscholen;Vrouwen;Staat;0
+2588;XXV, 13. Bewaarscholen;Vrouwen;Provincie;0
+2589;XXV, 13. Bewaarscholen;Vrouwen;Gemeente;1352
+2590;XXV, 13. Bewaarscholen;Vrouwen;Waterschap;0
+2591;XXV, 13. Bewaarscholen;Vrouwen;Particulier;4346
+2592;XXV, 14. Opleidingscursussen;Totaal mannen en vrouwen;Totaal van alle dienstvormen;787
+2593;XXV, 14. Opleidingscursussen;Totaal mannen en vrouwen;Staat;0
+2594;XXV, 14. Opleidingscursussen;Totaal mannen en vrouwen;Provincie;0
+2595;XXV, 14. Opleidingscursussen;Totaal mannen en vrouwen;Gemeente;12
+2596;XXV, 14. Opleidingscursussen;Totaal mannen en vrouwen;Waterschap;0
+2597;XXV, 14. Opleidingscursussen;Totaal mannen en vrouwen;Particulier;775
+2598;XXV, 14. Opleidingscursussen;Mannen;Totaal van alle dienstvormen;332
+2599;XXV, 14. Opleidingscursussen;Mannen;Staat;0
+2600;XXV, 14. Opleidingscursussen;Mannen;Provincie;0
+2601;XXV, 14. Opleidingscursussen;Mannen;Gemeente;8
+2602;XXV, 14. Opleidingscursussen;Mannen;Waterschap;0
+2603;XXV, 14. Opleidingscursussen;Mannen;Particulier;324
+2604;XXV, 14. Opleidingscursussen;Vrouwen;Totaal van alle dienstvormen;455
+2605;XXV, 14. Opleidingscursussen;Vrouwen;Staat;0
+2606;XXV, 14. Opleidingscursussen;Vrouwen;Provincie;0
+2607;XXV, 14. Opleidingscursussen;Vrouwen;Gemeente;4
+2608;XXV, 14. Opleidingscursussen;Vrouwen;Waterschap;0
+2609;XXV, 14. Opleidingscursussen;Vrouwen;Particulier;451
+2610;XXVIII, 1. Kerkgenootsch. of kerk. gez.;Totaal mannen en vrouwen;Totaal van alle dienstvormen;17624
+2611;XXVIII, 1. Kerkgenootsch. of kerk. gez.;Totaal mannen en vrouwen;Staat;15
+2612;XXVIII, 1. Kerkgenootsch. of kerk. gez.;Totaal mannen en vrouwen;Provincie;1
+2613;XXVIII, 1. Kerkgenootsch. of kerk. gez.;Totaal mannen en vrouwen;Gemeente;20
+2614;XXVIII, 1. Kerkgenootsch. of kerk. gez.;Totaal mannen en vrouwen;Waterschap;0
+2615;XXVIII, 1. Kerkgenootsch. of kerk. gez.;Totaal mannen en vrouwen;Particulier;17588
+2616;XXVIII, 1. Kerkgenootsch. of kerk. gez.;Mannen;Totaal van alle dienstvormen;12431
+2617;XXVIII, 1. Kerkgenootsch. of kerk. gez.;Mannen;Staat;14
+2618;XXVIII, 1. Kerkgenootsch. of kerk. gez.;Mannen;Provincie;1
+2619;XXVIII, 1. Kerkgenootsch. of kerk. gez.;Mannen;Gemeente;15
+2620;XXVIII, 1. Kerkgenootsch. of kerk. gez.;Mannen;Waterschap;0
+2621;XXVIII, 1. Kerkgenootsch. of kerk. gez.;Mannen;Particulier;12401
+2622;XXVIII, 1. Kerkgenootsch. of kerk. gez.;Vrouwen;Totaal van alle dienstvormen;5193
+2623;XXVIII, 1. Kerkgenootsch. of kerk. gez.;Vrouwen;Staat;1
+2624;XXVIII, 1. Kerkgenootsch. of kerk. gez.;Vrouwen;Provincie;0
+2625;XXVIII, 1. Kerkgenootsch. of kerk. gez.;Vrouwen;Gemeente;5
+2626;XXVIII, 1. Kerkgenootsch. of kerk. gez.;Vrouwen;Waterschap;0
+2627;XXVIII, 1. Kerkgenootsch. of kerk. gez.;Vrouwen;Particulier;5187

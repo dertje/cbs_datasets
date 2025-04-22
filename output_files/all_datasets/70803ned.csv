@@ -1,0 +1,967 @@
+﻿ID;Geslacht;Kenmerken;Perioden;TotaalBaanvinders_1;k_1JaarGeledenGewerkt_2;VoorhScholierStudentSchoolverlater_3;VoorheenWerkzaam_4;VoorheenArbeidsongeschikt_5;Herintreder_6;OverigeBaanvinders_7;Baanwisselaars_8;TotaalOnbenutArbeidsaanbod_9;k_1JaarGeledenGewerkt_10;VoorhScholierStudentSchoolverlater_11;VoorheenWerkzaam_12;VoorheenArbeidsongeschikt_13;Herintreder_14;OverigOnbenutArbeidsaanbod_15
+0;Mannen en vrouwen;Totaal leeftijd;2000;1147.0;538.0;320.0;119.0;12.0;70.0;88.0;513.0;718.0;93.0;143.0;118.0;88.0;170.0;106.0
+1;Mannen en vrouwen;Totaal leeftijd;2001;1150.0;563.0;306.0;133.0;13.0;74.0;61.0;547.0;676.0;112.0;147.0;109.0;82.0;152.0;75.0
+2;Mannen en vrouwen;Totaal leeftijd;2002;1061.0;535.0;274.0;123.0;11.0;62.0;56.0;516.0;713.0;138.0;161.0;112.0;75.0;149.0;79.0
+3;Mannen en vrouwen;Totaal leeftijd;2003;909.0;432.0;246.0;120.0;13.0;43.0;56.0;406.0;864.0;193.0;177.0;153.0;99.0;145.0;96.0
+4;Mannen en vrouwen;Totaal leeftijd;2004;807.0;372.0;227.0;117.0;11.0;34.0;46.0;351.0;1004.0;194.0;209.0;210.0;106.0;177.0;108.0
+5;Mannen en vrouwen;Totaal leeftijd;2005;820.0;369.0;223.0;139.0;9.0;32.0;48.0;341.0;1047.0;184.0;220.0;229.0;113.0;183.0;117.0
+6;Mannen en vrouwen;Totaal leeftijd;2006;972.0;437.0;258.0;155.0;11.0;42.0;69.0;406.0;970.0;138.0;205.0;218.0;114.0;177.0;118.0
+7;Mannen en vrouwen;15 tot 25 jarigen;2000;377.0;94.0;232.0;16.0;;;34.0;85.0;136.0;14.0;95.0;7.0;;;17.0
+8;Mannen en vrouwen;15 tot 25 jarigen;2001;370.0;104.0;233.0;22.0;;;9.0;99.0;143.0;20.0;109.0;8.0;;;4.0
+9;Mannen en vrouwen;15 tot 25 jarigen;2002;348.0;107.0;213.0;17.0;;;9.0;100.0;155.0;23.0;116.0;8.0;;;6.0
+10;Mannen en vrouwen;15 tot 25 jarigen;2003;311.0;85.0;193.0;25.0;;;8.0;76.0;190.0;33.0;133.0;15.0;;2.0;6.0
+11;Mannen en vrouwen;15 tot 25 jarigen;2004;272.0;68.0;176.0;20.0;;;8.0;62.0;229.0;34.0;157.0;22.0;2.0;;13.0
+12;Mannen en vrouwen;15 tot 25 jarigen;2005;273.0;74.0;168.0;23.0;;;9.0;61.0;229.0;28.0;165.0;20.0;2.0;2.0;13.0
+13;Mannen en vrouwen;15 tot 25 jarigen;2006;311.0;84.0;190.0;25.0;;;11.0;76.0;202.0;19.0;157.0;13.0;;;10.0
+14;Mannen en vrouwen;25 tot 35 jarigen;2000;415.0;241.0;88.0;53.0;4.0;6.0;23.0;234.0;160.0;33.0;48.0;25.0;11.0;22.0;21.0
+15;Mannen en vrouwen;25 tot 35 jarigen;2001;395.0;236.0;73.0;52.0;3.0;6.0;25.0;232.0;144.0;34.0;38.0;24.0;14.0;17.0;17.0
+16;Mannen en vrouwen;25 tot 35 jarigen;2002;339.0;203.0;61.0;49.0;2.0;4.0;20.0;194.0;166.0;47.0;45.0;27.0;13.0;19.0;16.0
+17;Mannen en vrouwen;25 tot 35 jarigen;2003;281.0;163.0;53.0;43.0;3.0;2.0;17.0;155.0;191.0;60.0;44.0;35.0;14.0;20.0;19.0
+18;Mannen en vrouwen;25 tot 35 jarigen;2004;268.0;151.0;51.0;43.0;3.0;4.0;17.0;144.0;211.0;52.0;52.0;46.0;18.0;22.0;21.0
+19;Mannen en vrouwen;25 tot 35 jarigen;2005;270.0;141.0;55.0;50.0;2.0;4.0;18.0;134.0;205.0;46.0;55.0;44.0;17.0;22.0;21.0
+20;Mannen en vrouwen;25 tot 35 jarigen;2006;328.0;178.0;68.0;52.0;3.0;6.0;22.0;167.0;179.0;37.0;48.0;36.0;18.0;15.0;25.0
+21;Mannen en vrouwen;35 tot 45 jarigen;2000;232.0;136.0;;30.0;4.0;44.0;18.0;131.0;187.0;20.0;;31.0;26.0;83.0;28.0
+22;Mannen en vrouwen;35 tot 45 jarigen;2001;248.0;149.0;;36.0;4.0;43.0;16.0;146.0;179.0;29.0;;29.0;22.0;71.0;27.0
+23;Mannen en vrouwen;35 tot 45 jarigen;2002;233.0;141.0;;34.0;5.0;38.0;15.0;138.0;183.0;33.0;;31.0;22.0;73.0;24.0
+24;Mannen en vrouwen;35 tot 45 jarigen;2003;198.0;117.0;;32.0;4.0;26.0;19.0;113.0;227.0;47.0;;45.0;36.0;70.0;29.0
+25;Mannen en vrouwen;35 tot 45 jarigen;2004;167.0;97.0;;33.0;4.0;20.0;13.0;90.0;264.0;51.0;;60.0;33.0;86.0;34.0
+26;Mannen en vrouwen;35 tot 45 jarigen;2005;171.0;98.0;;36.0;4.0;20.0;13.0;94.0;277.0;53.0;;65.0;38.0;88.0;34.0
+27;Mannen en vrouwen;35 tot 45 jarigen;2006;202.0;109.0;;44.0;5.0;24.0;20.0;102.0;253.0;38.0;;56.0;38.0;90.0;31.0
+28;Mannen en vrouwen;45 tot 55 jarigen;2000;108.0;59.0;;17.0;3.0;18.0;11.0;57.0;161.0;19.0;;31.0;34.0;55.0;23.0
+29;Mannen en vrouwen;45 tot 55 jarigen;2001;117.0;64.0;;19.0;4.0;21.0;9.0;62.0;143.0;21.0;;27.0;30.0;51.0;14.0
+30;Mannen en vrouwen;45 tot 55 jarigen;2002;119.0;70.0;;20.0;3.0;18.0;9.0;71.0;140.0;26.0;;24.0;24.0;46.0;20.0
+31;Mannen en vrouwen;45 tot 55 jarigen;2003;96.0;57.0;;14.0;4.0;12.0;9.0;53.0;168.0;37.0;;35.0;33.0;42.0;22.0
+32;Mannen en vrouwen;45 tot 55 jarigen;2004;83.0;49.0;;17.0;3.0;9.0;6.0;47.0;194.0;35.0;;49.0;36.0;53.0;22.0
+33;Mannen en vrouwen;45 tot 55 jarigen;2005;86.0;46.0;;23.0;2.0;7.0;7.0;43.0;207.0;35.0;;58.0;34.0;55.0;26.0
+34;Mannen en vrouwen;45 tot 55 jarigen;2006;106.0;56.0;;25.0;2.0;11.0;12.0;51.0;198.0;25.0;;60.0;36.0;53.0;25.0
+35;Mannen en vrouwen;55 tot 65 jarigen;2000;15.0;8.0;;3.0;;;2.0;7.0;74.0;8.0;;24.0;17.0;9.0;18.0
+36;Mannen en vrouwen;55 tot 65 jarigen;2001;20.0;9.0;;4.0;;4.0;2.0;8.0;67.0;7.0;;21.0;14.0;13.0;12.0
+37;Mannen en vrouwen;55 tot 65 jarigen;2002;23.0;14.0;;4.0;;2.0;3.0;13.0;69.0;10.0;;22.0;15.0;11.0;13.0
+38;Mannen en vrouwen;55 tot 65 jarigen;2003;22.0;10.0;;5.0;;3.0;4.0;9.0;88.0;16.0;;24.0;15.0;13.0;20.0
+39;Mannen en vrouwen;55 tot 65 jarigen;2004;17.0;8.0;;4.0;;;3.0;8.0;106.0;21.0;;34.0;17.0;16.0;18.0
+40;Mannen en vrouwen;55 tot 65 jarigen;2005;20.0;10.0;;7.0;;;2.0;8.0;128.0;21.0;;42.0;23.0;18.0;23.0
+41;Mannen en vrouwen;55 tot 65 jarigen;2006;25.0;10.0;;10.0;;;4.0;9.0;138.0;18.0;;52.0;22.0;19.0;27.0
+42;Mannen en vrouwen;Eenpersoonshuishouden;2000;198.0;83.0;63.0;26.0;2.0;7.0;18.0;76.0;142.0;20.0;27.0;31.0;31.0;11.0;22.0
+43;Mannen en vrouwen;Eenpersoonshuishouden;2001;189.0;94.0;46.0;23.0;3.0;7.0;17.0;90.0;144.0;27.0;32.0;27.0;25.0;13.0;19.0
+44;Mannen en vrouwen;Eenpersoonshuishouden;2002;169.0;91.0;34.0;22.0;3.0;7.0;11.0;86.0;146.0;30.0;30.0;24.0;22.0;18.0;22.0
+45;Mannen en vrouwen;Eenpersoonshuishouden;2003;142.0;68.0;33.0;20.0;2.0;5.0;14.0;61.0;180.0;45.0;27.0;42.0;35.0;10.0;22.0
+46;Mannen en vrouwen;Eenpersoonshuishouden;2004;131.0;56.0;32.0;26.0;3.0;3.0;11.0;52.0;202.0;44.0;34.0;53.0;31.0;15.0;25.0
+47;Mannen en vrouwen;Eenpersoonshuishouden;2005;134.0;59.0;32.0;26.0;2.0;5.0;10.0;55.0;228.0;40.0;36.0;66.0;40.0;20.0;27.0
+48;Mannen en vrouwen;Eenpersoonshuishouden;2006;162.0;76.0;36.0;27.0;3.0;4.0;16.0;130.0;197.0;28.0;28.0;60.0;37.0;16.0;27.0
+49;Mannen en vrouwen;Alleenstaande ouder;2000;26.0;10.0;2.0;4.0;;7.0;2.0;10.0;49.0;5.0;5.0;7.0;4.0;22.0;6.0
+50;Mannen en vrouwen;Alleenstaande ouder;2001;32.0;13.0;3.0;4.0;;8.0;2.0;11.0;47.0;5.0;5.0;6.0;6.0;19.0;6.0
+51;Mannen en vrouwen;Alleenstaande ouder;2002;29.0;13.0;2.0;4.0;;8.0;2.0;13.0;48.0;6.0;5.0;9.0;6.0;18.0;4.0
+52;Mannen en vrouwen;Alleenstaande ouder;2003;29.0;13.0;3.0;4.0;;5.0;3.0;12.0;60.0;7.0;4.0;11.0;10.0;21.0;7.0
+53;Mannen en vrouwen;Alleenstaande ouder;2004;22.0;10.0;;4.0;;5.0;2.0;9.0;70.0;7.0;5.0;16.0;10.0;23.0;9.0
+54;Mannen en vrouwen;Alleenstaande ouder;2005;24.0;9.0;;6.0;;4.0;3.0;8.0;76.0;12.0;5.0;15.0;11.0;26.0;8.0
+55;Mannen en vrouwen;Alleenstaande ouder;2006;30.0;11.0;2.0;6.0;;5.0;5.0;53.0;77.0;9.0;4.0;13.0;13.0;29.0;9.0
+56;Mannen en vrouwen;Lid van ouderpaar;2000;318.0;185.0;18.0;43.0;5.0;48.0;20.0;179.0;273.0;31.0;20.0;40.0;27.0;117.0;38.0
+57;Mannen en vrouwen;Lid van ouderpaar;2001;333.0;194.0;17.0;51.0;5.0;50.0;17.0;192.0;248.0;36.0;15.0;41.0;27.0;99.0;30.0
+58;Mannen en vrouwen;Lid van ouderpaar;2002;299.0;184.0;12.0;41.0;5.0;38.0;18.0;182.0;255.0;49.0;15.0;42.0;25.0;95.0;29.0
+59;Mannen en vrouwen;Lid van ouderpaar;2003;257.0;155.0;11.0;40.0;6.0;27.0;17.0;151.0;297.0;63.0;17.0;51.0;32.0;98.0;36.0
+60;Mannen en vrouwen;Lid van ouderpaar;2004;216.0;128.0;10.0;40.0;4.0;22.0;13.0;122.0;351.0;63.0;19.0;71.0;38.0;120.0;40.0
+61;Mannen en vrouwen;Lid van ouderpaar;2005;215.0;125.0;9.0;47.0;4.0;18.0;13.0;117.0;352.0;60.0;20.0;74.0;37.0;119.0;42.0
+62;Mannen en vrouwen;Lid van ouderpaar;2006;268.0;148.0;13.0;54.0;5.0;27.0;20.0;80.0;324.0;49.0;16.0;74.0;36.0;110.0;39.0
+63;Mannen en vrouwen;Ouderpaar, jongste kind 0 tot 6 jaar;2000;163.0;103.0;15.0;22.0;2.0;13.0;8.0;101.0;105.0;15.0;15.0;20.0;8.0;33.0;14.0
+64;Mannen en vrouwen;Ouderpaar, jongste kind 0 tot 6 jaar;2001;176.0;109.0;14.0;28.0;;15.0;8.0;109.0;97.0;17.0;13.0;17.0;10.0;27.0;14.0
+65;Mannen en vrouwen;Ouderpaar, jongste kind 0 tot 6 jaar;2002;149.0;97.0;9.0;22.0;;12.0;8.0;97.0;109.0;24.0;12.0;18.0;10.0;32.0;12.0
+66;Mannen en vrouwen;Ouderpaar, jongste kind 0 tot 6 jaar;2003;131.0;83.0;9.0;20.0;2.0;9.0;8.0;83.0;122.0;27.0;14.0;25.0;9.0;33.0;14.0
+67;Mannen en vrouwen;Ouderpaar, jongste kind 0 tot 6 jaar;2004;117.0;69.0;8.0;23.0;;10.0;6.0;65.0;146.0;31.0;16.0;31.0;14.0;36.0;18.0
+68;Mannen en vrouwen;Ouderpaar, jongste kind 0 tot 6 jaar;2005;110.0;63.0;8.0;25.0;2.0;7.0;6.0;59.0;145.0;30.0;17.0;33.0;14.0;34.0;17.0
+69;Mannen en vrouwen;Ouderpaar, jongste kind 0 tot 6 jaar;2006;147.0;85.0;11.0;28.0;2.0;11.0;9.0;28.0;121.0;23.0;13.0;27.0;11.0;32.0;15.0
+70;Mannen en vrouwen;Ouderpaar, jongste kind 6 tot 12 jaar;2000;78.0;40.0;2.0;9.0;;18.0;6.0;40.0;73.0;6.0;4.0;7.0;7.0;38.0;10.0
+71;Mannen en vrouwen;Ouderpaar, jongste kind 6 tot 12 jaar;2001;75.0;41.0;2.0;9.0;;16.0;6.0;41.0;66.0;7.0;2.0;12.0;7.0;32.0;7.0
+72;Mannen en vrouwen;Ouderpaar, jongste kind 6 tot 12 jaar;2002;74.0;43.0;2.0;9.0;2.0;14.0;4.0;42.0;65.0;10.0;2.0;11.0;5.0;29.0;8.0
+73;Mannen en vrouwen;Ouderpaar, jongste kind 6 tot 12 jaar;2003;60.0;35.0;2.0;8.0;;9.0;4.0;33.0;81.0;16.0;3.0;12.0;11.0;28.0;12.0
+74;Mannen en vrouwen;Ouderpaar, jongste kind 6 tot 12 jaar;2004;46.0;25.0;2.0;9.0;2.0;6.0;3.0;24.0;81.0;12.0;2.0;15.0;7.0;35.0;8.0
+75;Mannen en vrouwen;Ouderpaar, jongste kind 6 tot 12 jaar;2005;51.0;30.0;;10.0;;6.0;3.0;28.0;84.0;12.0;3.0;15.0;8.0;37.0;10.0
+76;Mannen en vrouwen;Ouderpaar, jongste kind 6 tot 12 jaar;2006;58.0;29.0;2.0;11.0;2.0;8.0;5.0;20.0;87.0;12.0;2.0;16.0;10.0;36.0;10.0
+77;Mannen en vrouwen;Ouderpaar, jongste kind 12 tot 18 jaar;2000;49.0;26.0;;6.0;;13.0;3.0;24.0;55.0;6.0;;7.0;5.0;28.0;9.0
+78;Mannen en vrouwen;Ouderpaar, jongste kind 12 tot 18 jaar;2001;53.0;27.0;;9.0;2.0;12.0;2.0;26.0;47.0;7.0;;7.0;5.0;23.0;5.0
+79;Mannen en vrouwen;Ouderpaar, jongste kind 12 tot 18 jaar;2002;51.0;30.0;;6.0;2.0;9.0;3.0;30.0;45.0;8.0;;7.0;6.0;19.0;5.0
+80;Mannen en vrouwen;Ouderpaar, jongste kind 12 tot 18 jaar;2003;45.0;25.0;;8.0;2.0;6.0;4.0;24.0;55.0;11.0;;7.0;7.0;23.0;7.0
+81;Mannen en vrouwen;Ouderpaar, jongste kind 12 tot 18 jaar;2004;34.0;21.0;;5.0;;4.0;3.0;20.0;71.0;11.0;;13.0;9.0;30.0;8.0
+82;Mannen en vrouwen;Ouderpaar, jongste kind 12 tot 18 jaar;2005;33.0;19.0;;7.0;;4.0;2.0;18.0;70.0;12.0;;13.0;8.0;28.0;9.0
+83;Mannen en vrouwen;Ouderpaar, jongste kind 12 tot 18 jaar;2006;42.0;22.0;;10.0;;5.0;3.0;11.0;67.0;8.0;;15.0;8.0;26.0;10.0
+84;Mannen en vrouwen;Ouderpaar met jongste kind >=18 jaar;2000;28.0;16.0;;5.0;;4.0;2.0;15.0;40.0;4.0;;7.0;6.0;18.0;5.0
+85;Mannen en vrouwen;Ouderpaar met jongste kind >=18 jaar;2001;29.0;16.0;;5.0;;6.0;;16.0;38.0;6.0;;6.0;6.0;17.0;4.0
+86;Mannen en vrouwen;Ouderpaar met jongste kind >=18 jaar;2002;24.0;14.0;;4.0;;4.0;2.0;14.0;37.0;7.0;;6.0;5.0;15.0;4.0
+87;Mannen en vrouwen;Ouderpaar met jongste kind >=18 jaar;2003;21.0;12.0;;4.0;;2.0;;11.0;39.0;9.0;;7.0;6.0;14.0;3.0
+88;Mannen en vrouwen;Ouderpaar met jongste kind >=18 jaar;2004;20.0;14.0;;3.0;;2.0;;13.0;53.0;9.0;;12.0;8.0;19.0;5.0
+89;Mannen en vrouwen;Ouderpaar met jongste kind >=18 jaar;2005;21.0;13.0;;5.0;;;2.0;12.0;53.0;6.0;;13.0;8.0;20.0;6.0
+90;Mannen en vrouwen;Ouderpaar met jongste kind >=18 jaar;2006;22.0;12.0;;5.0;;2.0;2.0;10.0;49.0;6.0;;15.0;8.0;15.0;5.0
+91;Mannen en vrouwen;Lid van een paar (geen ouder);2000;313.0;191.0;63.0;33.0;3.0;6.0;17.0;180.0;140.0;27.0;14.0;33.0;24.0;19.0;24.0
+92;Mannen en vrouwen;Lid van een paar (geen ouder);2001;301.0;182.0;52.0;38.0;3.0;8.0;17.0;176.0;124.0;30.0;12.0;28.0;20.0;19.0;15.0
+93;Mannen en vrouwen;Lid van een paar (geen ouder);2002;279.0;166.0;49.0;39.0;2.0;7.0;16.0;158.0;128.0;32.0;14.0;28.0;18.0;17.0;19.0
+94;Mannen en vrouwen;Lid van een paar (geen ouder);2003;228.0;128.0;40.0;37.0;3.0;5.0;15.0;123.0;162.0;49.0;16.0;36.0;19.0;15.0;25.0
+95;Mannen en vrouwen;Lid van een paar (geen ouder);2004;205.0;117.0;36.0;32.0;3.0;4.0;13.0;112.0;186.0;51.0;21.0;49.0;21.0;17.0;26.0
+96;Mannen en vrouwen;Lid van een paar (geen ouder);2005;207.0;112.0;37.0;39.0;2.0;4.0;13.0;107.0;193.0;47.0;21.0;57.0;20.0;16.0;32.0
+97;Mannen en vrouwen;Lid van een paar (geen ouder);2006;248.0;137.0;43.0;43.0;;5.0;19.0;138.0;182.0;34.0;20.0;55.0;23.0;19.0;32.0
+98;Mannen en vrouwen;Minderjarig kind;2000;47.0;;47.0;;;;;;33.0;;33.0;;;;
+99;Mannen en vrouwen;Minderjarig kind;2001;52.0;;52.0;;;;;;34.0;;34.0;;;;
+100;Mannen en vrouwen;Minderjarig kind;2002;50.0;;50.0;;;;;;38.0;;38.0;;;;
+101;Mannen en vrouwen;Minderjarig kind;2003;43.0;;43.0;;;;;;41.0;;41.0;;;;
+102;Mannen en vrouwen;Minderjarig kind;2004;38.0;;38.0;;;;;;42.0;;42.0;;;;
+103;Mannen en vrouwen;Minderjarig kind;2005;38.0;;38.0;;;;;;47.0;;47.0;;;;
+104;Mannen en vrouwen;Minderjarig kind;2006;38.0;;38.0;;;;;8.0;48.0;;48.0;;;;
+105;Mannen en vrouwen;Meerderjarig kind;2000;217.0;62.0;113.0;12.0;;;29.0;59.0;67.0;8.0;39.0;5.0;;;14.0
+106;Mannen en vrouwen;Meerderjarig kind;2001;220.0;72.0;128.0;14.0;;;5.0;71.0;65.0;11.0;43.0;5.0;3.0;;2.0
+107;Mannen en vrouwen;Meerderjarig kind;2002;209.0;72.0;117.0;13.0;;;7.0;68.0;82.0;19.0;52.0;5.0;2.0;;3.0
+108;Mannen en vrouwen;Meerderjarig kind;2003;187.0;61.0;106.0;14.0;;;5.0;54.0;100.0;24.0;59.0;10.0;2.0;;4.0
+109;Mannen en vrouwen;Meerderjarig kind;2004;174.0;54.0;101.0;13.0;;;5.0;50.0;127.0;26.0;76.0;15.0;3.0;2.0;6.0
+110;Mannen en vrouwen;Meerderjarig kind;2005;173.0;51.0;96.0;18.0;;;7.0;45.0;124.0;20.0;80.0;14.0;3.0;;6.0
+111;Mannen en vrouwen;Meerderjarig kind;2006;201.0;58.0;115.0;21.0;;;7.0;;117.0;15.0;79.0;11.0;3.0;;8.0
+112;Mannen en vrouwen;Overig lid van een huishouden;2000;28.0;9.0;14.0;2.0;;;2.0;9.0;14.0;2.0;7.0;;2.0;;
+113;Mannen en vrouwen;Overig lid van een huishouden;2001;23.0;8.0;8.0;3.0;;;2.0;8.0;14.0;3.0;6.0;2.0;;;2.0
+114;Mannen en vrouwen;Overig lid van een huishouden;2002;26.0;9.0;12.0;3.0;;;;10.0;17.0;2.0;8.0;3.0;;;2.0
+115;Mannen en vrouwen;Overig lid van een huishouden;2003;23.0;7.0;10.0;4.0;;;2.0;5.0;23.0;5.0;11.0;2.0;;;2.0
+116;Mannen en vrouwen;Overig lid van een huishouden;2004;20.0;6.0;9.0;2.0;;;2.0;6.0;25.0;3.0;12.0;6.0;2.0;;2.0
+117;Mannen en vrouwen;Overig lid van een huishouden;2005;29.0;12.0;9.0;4.0;;;2.0;10.0;27.0;6.0;11.0;4.0;2.0;2.0;2.0
+118;Mannen en vrouwen;Overig lid van een huishouden;2006;25.0;8.0;10.0;3.0;;;2.0;9.0;25.0;3.0;10.0;5.0;2.0;2.0;3.0
+119;Mannen en vrouwen;CWI ingeschreven;2000;43.0;14.0;10.0;6.0;;6.0;6.0;10.0;191.0;37.0;24.0;46.0;21.0;30.0;33.0
+120;Mannen en vrouwen;CWI ingeschreven;2001;33.0;10.0;7.0;6.0;;4.0;5.0;8.0;173.0;42.0;20.0;39.0;22.0;25.0;25.0
+121;Mannen en vrouwen;CWI ingeschreven;2002;34.0;14.0;7.0;6.0;2.0;3.0;2.0;10.0;195.0;63.0;22.0;45.0;23.0;21.0;22.0
+122;Mannen en vrouwen;CWI ingeschreven;2003;36.0;11.0;8.0;6.0;2.0;5.0;5.0;8.0;282.0;100.0;30.0;71.0;29.0;24.0;28.0
+123;Mannen en vrouwen;CWI ingeschreven;2004;42.0;12.0;9.0;9.0;3.0;4.0;5.0;9.0;353.0;107.0;34.0;107.0;41.0;32.0;33.0
+124;Mannen en vrouwen;CWI ingeschreven;2005;45.0;13.0;7.0;14.0;2.0;4.0;5.0;9.0;348.0;95.0;33.0;114.0;41.0;30.0;35.0
+125;Mannen en vrouwen;CWI ingeschreven;2006;52.0;15.0;8.0;15.0;3.0;5.0;7.0;385.0;283.0;64.0;18.0;105.0;36.0;32.0;28.0
+126;Mannen en vrouwen;Onderwijsniveau: lager;2000;352.0;135.0;107.0;38.0;6.0;32.0;34.0;126.0;338.0;31.0;75.0;55.0;47.0;87.0;43.0
+127;Mannen en vrouwen;Onderwijsniveau: lager;2001;356.0;140.0;127.0;39.0;6.0;31.0;15.0;136.0;322.0;39.0;84.0;48.0;44.0;80.0;28.0
+128;Mannen en vrouwen;Onderwijsniveau: lager;2002;329.0;139.0;109.0;36.0;6.0;24.0;15.0;132.0;325.0;47.0;91.0;45.0;37.0;72.0;32.0
+129;Mannen en vrouwen;Onderwijsniveau: lager;2003;268.0;103.0;94.0;33.0;6.0;17.0;15.0;95.0;381.0;69.0;96.0;63.0;48.0;72.0;32.0
+130;Mannen en vrouwen;Onderwijsniveau: lager;2004;230.0;81.0;89.0;32.0;5.0;12.0;10.0;75.0;397.0;60.0;103.0;78.0;45.0;81.0;30.0
+131;Mannen en vrouwen;Onderwijsniveau: lager;2005;223.0;77.0;81.0;38.0;3.0;11.0;13.0;67.0;414.0;52.0;113.0;82.0;49.0;81.0;36.0
+132;Mannen en vrouwen;Onderwijsniveau: lager;2006;265.0;88.0;95.0;42.0;5.0;16.0;19.0;80.0;385.0;42.0;107.0;77.0;49.0;73.0;38.0
+133;Mannen en vrouwen;Onderwijsniveau: middelbaar;2000;505.0;252.0;136.0;53.0;4.0;24.0;35.0;239.0;262.0;37.0;49.0;41.0;32.0;66.0;37.0
+134;Mannen en vrouwen;Onderwijsniveau: middelbaar;2001;500.0;263.0;114.0;62.0;5.0;29.0;27.0;254.0;245.0;47.0;48.0;40.0;28.0;53.0;29.0
+135;Mannen en vrouwen;Onderwijsniveau: middelbaar;2002;450.0;233.0;108.0;52.0;5.0;27.0;26.0;221.0;266.0;60.0;51.0;44.0;27.0;57.0;26.0
+136;Mannen en vrouwen;Onderwijsniveau: middelbaar;2003;389.0;195.0;95.0;55.0;5.0;17.0;23.0;182.0;324.0;75.0;60.0;58.0;37.0;56.0;37.0
+137;Mannen en vrouwen;Onderwijsniveau: middelbaar;2004;328.0;156.0;82.0;49.0;4.0;14.0;22.0;146.0;400.0;84.0;74.0;86.0;41.0;68.0;47.0
+138;Mannen en vrouwen;Onderwijsniveau: middelbaar;2005;342.0;160.0;79.0;60.0;4.0;15.0;23.0;146.0;439.0;83.0;80.0;102.0;45.0;77.0;53.0
+139;Mannen en vrouwen;Onderwijsniveau: middelbaar;2006;403.0;186.0;97.0;68.0;4.0;18.0;30.0;173.0;403.0;64.0;70.0;96.0;46.0;77.0;50.0
+140;Mannen en vrouwen;Onderwijsniveau: hoger;2000;286.0;150.0;76.0;28.0;;13.0;18.0;147.0;115.0;25.0;19.0;21.0;9.0;17.0;24.0
+141;Mannen en vrouwen;Onderwijsniveau: hoger;2001;287.0;158.0;64.0;32.0;2.0;13.0;18.0;156.0;105.0;26.0;14.0;20.0;10.0;19.0;17.0
+142;Mannen en vrouwen;Onderwijsniveau: hoger;2002;277.0;161.0;56.0;34.0;;10.0;15.0;161.0;120.0;32.0;19.0;21.0;10.0;19.0;20.0
+143;Mannen en vrouwen;Onderwijsniveau: hoger;2003;248.0;131.0;56.0;32.0;2.0;9.0;18.0;127.0;155.0;48.0;20.0;31.0;14.0;17.0;26.0
+144;Mannen en vrouwen;Onderwijsniveau: hoger;2004;244.0;132.0;54.0;35.0;2.0;7.0;14.0;127.0;194.0;45.0;31.0;44.0;18.0;27.0;29.0
+145;Mannen en vrouwen;Onderwijsniveau: hoger;2005;252.0;131.0;62.0;40.0;;6.0;12.0;127.0;184.0;47.0;26.0;44.0;17.0;23.0;27.0
+146;Mannen en vrouwen;Onderwijsniveau: hoger;2006;297.0;160.0;64.0;44.0;2.0;8.0;19.0;151.0;171.0;31.0;26.0;42.0;17.0;26.0;29.0
+147;Mannen en vrouwen;Onderwijsniveau: onbekend;2000;4.0;2.0;;;;;;2.0;2.0;;;;;;
+148;Mannen en vrouwen;Onderwijsniveau: onbekend;2001;6.0;3.0;2.0;;;;;2.0;4.0;;;;;;
+149;Mannen en vrouwen;Onderwijsniveau: onbekend;2002;4.0;2.0;;;;;;2.0;2.0;;;;;;
+150;Mannen en vrouwen;Onderwijsniveau: onbekend;2003;4.0;3.0;;;;;;3.0;4.0;;;;;;
+151;Mannen en vrouwen;Onderwijsniveau: onbekend;2004;5.0;3.0;2.0;;;;;2.0;13.0;4.0;;3.0;2.0;;
+152;Mannen en vrouwen;Onderwijsniveau: onbekend;2005;3.0;;;;;;;;10.0;2.0;;2.0;2.0;2.0;
+153;Mannen en vrouwen;Onderwijsniveau: onbekend;2006;7.0;3.0;2.0;;;;;3.0;11.0;;2.0;2.0;2.0;2.0;
+154;Mannen en vrouwen;Autochtonen;2000;909.0;444.0;243.0;94.0;9.0;53.0;67.0;427.0;490.0;68.0;91.0;81.0;65.0;124.0;60.0
+155;Mannen en vrouwen;Autochtonen;2001;903.0;465.0;237.0;97.0;10.0;52.0;41.0;454.0;462.0;75.0;95.0;77.0;59.0;119.0;36.0
+156;Mannen en vrouwen;Autochtonen;2002;839.0;441.0;210.0;94.0;9.0;41.0;43.0;428.0;485.0;97.0;107.0;74.0;55.0;109.0;44.0
+157;Mannen en vrouwen;Autochtonen;2003;714.0;358.0;188.0;89.0;10.0;31.0;39.0;339.0;561.0;128.0;105.0;100.0;73.0;106.0;49.0
+158;Mannen en vrouwen;Autochtonen;2004;626.0;303.0;171.0;87.0;8.0;24.0;33.0;287.0;651.0;133.0;130.0;134.0;75.0;123.0;56.0
+159;Mannen en vrouwen;Autochtonen;2005;644.0;307.0;167.0;105.0;7.0;20.0;37.0;287.0;682.0;126.0;133.0;149.0;78.0;130.0;66.0
+160;Mannen en vrouwen;Autochtonen;2006;756.0;360.0;192.0;117.0;8.0;29.0;51.0;336.0;617.0;92.0;128.0;138.0;77.0;117.0;64.0
+161;Mannen en vrouwen;Allochtonen;2000;238.0;95.0;77.0;25.0;2.0;17.0;21.0;87.0;228.0;25.0;52.0;36.0;23.0;46.0;46.0
+162;Mannen en vrouwen;Allochtonen;2001;247.0;98.0;69.0;36.0;2.0;22.0;20.0;93.0;214.0;37.0;52.0;32.0;23.0;32.0;38.0
+163;Mannen en vrouwen;Allochtonen;2002;221.0;94.0;64.0;28.0;2.0;20.0;12.0;88.0;228.0;42.0;54.0;38.0;19.0;40.0;35.0
+164;Mannen en vrouwen;Allochtonen;2003;194.0;74.0;58.0;31.0;3.0;11.0;18.0;67.0;303.0;65.0;72.0;53.0;26.0;40.0;47.0
+165;Mannen en vrouwen;Allochtonen;2004;180.0;68.0;56.0;30.0;2.0;11.0;13.0;63.0;352.0;61.0;78.0;76.0;31.0;54.0;52.0
+166;Mannen en vrouwen;Allochtonen;2005;177.0;62.0;56.0;34.0;2.0;12.0;11.0;55.0;365.0;59.0;87.0;80.0;36.0;53.0;50.0
+167;Mannen en vrouwen;Allochtonen;2006;216.0;77.0;66.0;38.0;3.0;13.0;18.0;71.0;353.0;45.0;77.0;80.0;37.0;60.0;54.0
+168;Mannen en vrouwen;Westerse allochtonen;2000;119.0;57.0;31.0;14.0;;6.0;9.0;53.0;90.0;12.0;14.0;15.0;9.0;21.0;19.0
+169;Mannen en vrouwen;Westerse allochtonen;2001;119.0;55.0;24.0;19.0;;9.0;11.0;55.0;84.0;17.0;16.0;11.0;10.0;15.0;13.0
+170;Mannen en vrouwen;Westerse allochtonen;2002;105.0;51.0;23.0;17.0;;8.0;6.0;49.0;84.0;19.0;15.0;17.0;7.0;14.0;12.0
+171;Mannen en vrouwen;Westerse allochtonen;2003;93.0;39.0;26.0;13.0;2.0;6.0;7.0;36.0;106.0;25.0;18.0;20.0;10.0;14.0;19.0
+172;Mannen en vrouwen;Westerse allochtonen;2004;81.0;39.0;17.0;14.0;;4.0;6.0;36.0;126.0;28.0;23.0;26.0;10.0;17.0;22.0
+173;Mannen en vrouwen;Westerse allochtonen;2005;82.0;33.0;22.0;16.0;;5.0;5.0;30.0;128.0;23.0;24.0;33.0;13.0;18.0;19.0
+174;Mannen en vrouwen;Westerse allochtonen;2006;98.0;43.0;24.0;20.0;;4.0;7.0;38.0;116.0;15.0;18.0;28.0;14.0;20.0;22.0
+175;Mannen en vrouwen;Niet-westerse allochtonen;2000;118.0;38.0;46.0;11.0;;11.0;11.0;33.0;138.0;13.0;38.0;21.0;14.0;25.0;27.0
+176;Mannen en vrouwen;Niet-westerse allochtonen;2001;128.0;43.0;45.0;16.0;2.0;13.0;9.0;38.0;130.0;20.0;36.0;20.0;12.0;17.0;25.0
+177;Mannen en vrouwen;Niet-westerse allochtonen;2002;116.0;43.0;41.0;12.0;;13.0;7.0;38.0;144.0;23.0;39.0;21.0;12.0;26.0;23.0
+178;Mannen en vrouwen;Niet-westerse allochtonen;2003;101.0;35.0;32.0;17.0;;5.0;11.0;31.0;198.0;40.0;54.0;33.0;16.0;26.0;28.0
+179;Mannen en vrouwen;Niet-westerse allochtonen;2004;99.0;29.0;39.0;16.0;2.0;6.0;7.0;27.0;226.0;33.0;55.0;50.0;21.0;37.0;30.0
+180;Mannen en vrouwen;Niet-westerse allochtonen;2005;95.0;28.0;34.0;19.0;;7.0;6.0;25.0;236.0;36.0;63.0;48.0;23.0;35.0;31.0
+181;Mannen en vrouwen;Niet-westerse allochtonen;2006;118.0;35.0;42.0;18.0;2.0;9.0;11.0;32.0;237.0;30.0;59.0;52.0;23.0;40.0;33.0
+182;Mannen en vrouwen;Herkomst: onbekend;2000;;;;;;;;;;;;;;;
+183;Mannen en vrouwen;Herkomst: onbekend;2001;;;;;;;;;;;;;;;
+184;Mannen en vrouwen;Herkomst: onbekend;2002;;;;;;;;;;;;;;;
+185;Mannen en vrouwen;Herkomst: onbekend;2003;;;;;;;;;;;;;;;
+186;Mannen en vrouwen;Herkomst: onbekend;2004;;;;;;;;;;;;;;;
+187;Mannen en vrouwen;Herkomst: onbekend;2005;;;;;;;;;;;;;;;
+188;Mannen en vrouwen;Herkomst: onbekend;2006;;;;;;;;68.0;;;;;;;
+189;Mannen en vrouwen;Had een baan < 1 jaar geleden;2000;538.0;538.0;;;;;;486.0;93.0;93.0;;;;;
+190;Mannen en vrouwen;Had een baan < 1 jaar geleden;2001;563.0;563.0;;;;;;518.0;112.0;112.0;;;;;
+191;Mannen en vrouwen;Had een baan < 1 jaar geleden;2002;535.0;535.0;;;;;;482.0;138.0;138.0;;;;;
+192;Mannen en vrouwen;Had een baan < 1 jaar geleden;2003;432.0;432.0;;;;;;380.0;193.0;193.0;;;;;
+193;Mannen en vrouwen;Had een baan < 1 jaar geleden;2004;372.0;372.0;;;;;;328.0;194.0;194.0;;;;;
+194;Mannen en vrouwen;Had een baan < 1 jaar geleden;2005;369.0;369.0;;;;;;319.0;184.0;184.0;;;;;
+195;Mannen en vrouwen;Had een baan < 1 jaar geleden;2006;437.0;437.0;;;;;;22.0;138.0;138.0;;;;;
+196;Mannen en vrouwen;Had een baan 1 tot 2 jaar geleden;2000;98.0;;3.0;95.0;;;;27.0;50.0;;;49.0;;;
+197;Mannen en vrouwen;Had een baan 1 tot 2 jaar geleden;2001;114.0;;3.0;111.0;;;;29.0;54.0;;;53.0;;;
+198;Mannen en vrouwen;Had een baan 1 tot 2 jaar geleden;2002;109.0;;5.0;105.0;;;;34.0;61.0;;;59.0;;;
+199;Mannen en vrouwen;Had een baan 1 tot 2 jaar geleden;2003;107.0;;3.0;104.0;;;;26.0;92.0;;2.0;91.0;;;
+200;Mannen en vrouwen;Had een baan 1 tot 2 jaar geleden;2004;102.0;;2.0;99.0;;;;23.0;117.0;;;116.0;;;
+201;Mannen en vrouwen;Had een baan 1 tot 2 jaar geleden;2005;107.0;;;106.0;;;;22.0;109.0;;2.0;107.0;;;
+202;Mannen en vrouwen;Had een baan 1 tot 2 jaar geleden;2006;117.0;;3.0;113.0;;;;;90.0;;;89.0;;;
+203;Mannen en vrouwen;Had een baan 2 tot 5  jaar geleden;2000;50.0;;2.0;14.0;7.0;5.0;23.0;;95.0;;;22.0;27.0;13.0;31.0
+204;Mannen en vrouwen;Had een baan 2 tot 5  jaar geleden;2001;53.0;;2.0;13.0;7.0;5.0;26.0;;85.0;;;19.0;29.0;11.0;26.0
+205;Mannen en vrouwen;Had een baan 2 tot 5  jaar geleden;2002;47.0;;2.0;10.0;5.0;4.0;24.0;;99.0;;2.0;22.0;33.0;13.0;29.0
+206;Mannen en vrouwen;Had een baan 2 tot 5  jaar geleden;2003;48.0;;3.0;10.0;7.0;2.0;26.0;;124.0;;2.0;31.0;36.0;16.0;39.0
+207;Mannen en vrouwen;Had een baan 2 tot 5  jaar geleden;2004;48.0;;2.0;14.0;7.0;4.0;21.0;;162.0;;;48.0;43.0;20.0;49.0
+208;Mannen en vrouwen;Had een baan 2 tot 5  jaar geleden;2005;58.0;;3.0;25.0;4.0;4.0;23.0;;176.0;;;70.0;39.0;15.0;52.0
+209;Mannen en vrouwen;Had een baan 2 tot 5  jaar geleden;2006;74.0;;3.0;31.0;6.0;5.0;29.0;;180.0;;2.0;77.0;33.0;15.0;54.0
+210;Mannen en vrouwen;Had een baan 5 tot 10 jaar geleden;2000;29.0;;;7.0;3.0;8.0;10.0;;113.0;;2.0;27.0;25.0;28.0;31.0
+211;Mannen en vrouwen;Had een baan 5 tot 10 jaar geleden;2001;25.0;;;7.0;4.0;6.0;8.0;;94.0;;;21.0;22.0;24.0;27.0
+212;Mannen en vrouwen;Had een baan 5 tot 10 jaar geleden;2002;20.0;;;5.0;4.0;4.0;7.0;;81.0;;;13.0;19.0;24.0;24.0
+213;Mannen en vrouwen;Had een baan 5 tot 10 jaar geleden;2003;21.0;;;5.0;4.0;5.0;6.0;;96.0;;;16.0;29.0;24.0;27.0
+214;Mannen en vrouwen;Had een baan 5 tot 10 jaar geleden;2004;13.0;;;;3.0;3.0;5.0;;115.0;;;26.0;36.0;23.0;30.0
+215;Mannen en vrouwen;Had een baan 5 tot 10 jaar geleden;2005;16.0;;;5.0;3.0;3.0;6.0;;132.0;;;28.0;40.0;30.0;33.0
+216;Mannen en vrouwen;Had een baan 5 tot 10 jaar geleden;2006;27.0;;;7.0;3.0;5.0;11.0;;138.0;;;27.0;46.0;29.0;35.0
+217;Mannen en vrouwen;Had een baan > 10 jaar geleden;2000;31.0;;;4.0;2.0;16.0;9.0;;183.0;;;20.0;36.0;97.0;30.0
+218;Mannen en vrouwen;Had een baan > 10 jaar geleden;2001;35.0;;;3.0;2.0;22.0;7.0;;160.0;;;16.0;30.0;91.0;22.0
+219;Mannen en vrouwen;Had een baan > 10 jaar geleden;2002;27.0;;;3.0;2.0;17.0;5.0;;143.0;;;17.0;23.0;77.0;25.0
+220;Mannen en vrouwen;Had een baan > 10 jaar geleden;2003;20.0;;;2.0;2.0;12.0;4.0;;152.0;;;16.0;35.0;73.0;29.0
+221;Mannen en vrouwen;Had een baan > 10 jaar geleden;2004;13.0;;;2.0;;7.0;3.0;;166.0;;;20.0;27.0;90.0;29.0
+222;Mannen en vrouwen;Had een baan > 10 jaar geleden;2005;15.0;;;3.0;2.0;6.0;3.0;;187.0;;;25.0;35.0;95.0;32.0
+223;Mannen en vrouwen;Had een baan > 10 jaar geleden;2006;20.0;;;4.0;2.0;9.0;5.0;;176.0;;;25.0;36.0;85.0;30.0
+224;Mannen en vrouwen;Heeft nooit een baan gehad;2000;296.0;;256.0;;;40.0;;;134.0;;103.0;;;31.0;
+225;Mannen en vrouwen;Heeft nooit een baan gehad;2001;288.0;;248.0;;;40.0;;;136.0;;110.0;;;26.0;
+226;Mannen en vrouwen;Heeft nooit een baan gehad;2002;252.0;;216.0;;;36.0;;;154.0;;119.0;;;36.0;
+227;Mannen en vrouwen;Heeft nooit een baan gehad;2003;217.0;;194.0;;;23.0;;;164.0;;130.0;;;33.0;
+228;Mannen en vrouwen;Heeft nooit een baan gehad;2004;202.0;;183.0;;;19.0;;;207.0;;163.0;;;44.0;
+229;Mannen en vrouwen;Heeft nooit een baan gehad;2005;199.0;;179.0;;;20.0;;;212.0;;168.0;;;44.0;
+230;Mannen en vrouwen;Heeft nooit een baan gehad;2006;234.0;;211.0;;;23.0;;;200.0;;152.0;;;47.0;
+231;Mannen en vrouwen;Onbekend of men ooit baan heeft gehad;2000;104.0;;58.0;;;;46.0;;50.0;;36.0;;;;14.0
+232;Mannen en vrouwen;Onbekend of men ooit baan heeft gehad;2001;72.0;;53.0;;;;19.0;;35.0;;35.0;;;;
+233;Mannen en vrouwen;Onbekend of men ooit baan heeft gehad;2002;70.0;;51.0;;;;19.0;;38.0;;38.0;;;;
+234;Mannen en vrouwen;Onbekend of men ooit baan heeft gehad;2003;64.0;;45.0;;;;20.0;;42.0;;42.0;;;;
+235;Mannen en vrouwen;Onbekend of men ooit baan heeft gehad;2004;57.0;;40.0;;;;17.0;;43.0;;43.0;;;;
+236;Mannen en vrouwen;Onbekend of men ooit baan heeft gehad;2005;56.0;;39.0;;;;17.0;;47.0;;47.0;;;;
+237;Mannen en vrouwen;Onbekend of men ooit baan heeft gehad;2006;63.0;;40.0;;;;23.0;306.0;49.0;;49.0;;;;
+238;Mannen en vrouwen;Kan op korte termijn beginnen;2000;;;;;;;;;522.0;72.0;106.0;90.0;59.0;119.0;76.0
+239;Mannen en vrouwen;Kan op korte termijn beginnen;2001;;;;;;;;;476.0;83.0;104.0;80.0;50.0;106.0;52.0
+240;Mannen en vrouwen;Kan op korte termijn beginnen;2002;;;;;;;;;516.0;115.0;117.0;85.0;49.0;97.0;53.0
+241;Mannen en vrouwen;Kan op korte termijn beginnen;2003;;;;;;;;;666.0;168.0;137.0;124.0;65.0;103.0;69.0
+242;Mannen en vrouwen;Kan op korte termijn beginnen;2004;;;;;;;;;795.0;171.0;164.0;176.0;73.0;129.0;83.0
+243;Mannen en vrouwen;Kan op korte termijn beginnen;2005;;;;;;;;;814.0;153.0;169.0;190.0;77.0;133.0;92.0
+244;Mannen en vrouwen;Kan op korte termijn beginnen;2006;;;;;;;;;753.0;116.0;162.0;178.0;73.0;131.0;92.0
+245;Mannen en vrouwen;Afgelopen 4 weken gezocht;2000;;;;;;;;;270.0;52.0;62.0;50.0;20.0;49.0;37.0
+246;Mannen en vrouwen;Afgelopen 4 weken gezocht;2001;;;;;;;;;252.0;60.0;63.0;43.0;17.0;43.0;25.0
+247;Mannen en vrouwen;Afgelopen 4 weken gezocht;2002;;;;;;;;;302.0;89.0;73.0;52.0;21.0;43.0;24.0
+248;Mannen en vrouwen;Afgelopen 4 weken gezocht;2003;;;;;;;;;399.0;139.0;78.0;81.0;25.0;44.0;31.0
+249;Mannen en vrouwen;Afgelopen 4 weken gezocht;2004;;;;;;;;;479.0;139.0;96.0;121.0;34.0;48.0;41.0
+250;Mannen en vrouwen;Afgelopen 4 weken gezocht;2005;;;;;;;;;483.0;125.0;94.0;135.0;34.0;51.0;43.0
+251;Mannen en vrouwen;Afgelopen 4 weken gezocht;2006;;;;;;;;;413.0;89.0;88.0;116.0;32.0;48.0;39.0
+252;Mannen en vrouwen;Afgelopen 4 weken niet gezocht;2000;;;;;;;;;252.0;20.0;43.0;40.0;39.0;71.0;39.0
+253;Mannen en vrouwen;Afgelopen 4 weken niet gezocht;2001;;;;;;;;;224.0;23.0;41.0;37.0;33.0;63.0;28.0
+254;Mannen en vrouwen;Afgelopen 4 weken niet gezocht;2002;;;;;;;;;214.0;26.0;44.0;33.0;28.0;54.0;29.0
+255;Mannen en vrouwen;Afgelopen 4 weken niet gezocht;2003;;;;;;;;;267.0;29.0;59.0;43.0;39.0;59.0;38.0
+256;Mannen en vrouwen;Afgelopen 4 weken niet gezocht;2004;;;;;;;;;315.0;32.0;67.0;54.0;39.0;81.0;42.0
+257;Mannen en vrouwen;Afgelopen 4 weken niet gezocht;2005;;;;;;;;;331.0;28.0;75.0;55.0;42.0;82.0;49.0
+258;Mannen en vrouwen;Afgelopen 4 weken niet gezocht;2006;;;;;;;;;341.0;27.0;74.0;62.0;41.0;83.0;53.0
+259;Mannen en vrouwen;Kan niet op korte termijn beginnen;2000;;;;;;;;;196.0;21.0;38.0;28.0;30.0;50.0;29.0
+260;Mannen en vrouwen;Kan niet op korte termijn beginnen;2001;;;;;;;;;200.0;28.0;43.0;29.0;32.0;45.0;22.0
+261;Mannen en vrouwen;Kan niet op korte termijn beginnen;2002;;;;;;;;;197.0;23.0;44.0;27.0;26.0;52.0;25.0
+262;Mannen en vrouwen;Kan niet op korte termijn beginnen;2003;;;;;;;;;198.0;25.0;40.0;29.0;35.0;43.0;27.0
+263;Mannen en vrouwen;Kan niet op korte termijn beginnen;2004;;;;;;;;;209.0;23.0;45.0;35.0;33.0;49.0;25.0
+264;Mannen en vrouwen;Kan niet op korte termijn beginnen;2005;;;;;;;;;233.0;31.0;51.0;40.0;37.0;50.0;25.0
+265;Mannen en vrouwen;Kan niet op korte termijn beginnen;2006;;;;;;;;;217.0;21.0;43.0;40.0;41.0;46.0;26.0
+266;Mannen en vrouwen;Werknemers vaste arbeidsrelatie;2000;820.0;431.0;196.0;83.0;9.0;44.0;57.0;421.0;59.0;4.0;16.0;6.0;2.0;23.0;8.0
+267;Mannen en vrouwen;Werknemers vaste arbeidsrelatie;2001;842.0;461.0;189.0;99.0;8.0;44.0;41.0;458.0;56.0;4.0;17.0;6.0;2.0;23.0;4.0
+268;Mannen en vrouwen;Werknemers vaste arbeidsrelatie;2002;762.0;424.0;159.0;92.0;8.0;39.0;40.0;421.0;63.0;5.0;20.0;8.0;2.0;22.0;6.0
+269;Mannen en vrouwen;Werknemers vaste arbeidsrelatie;2003;632.0;337.0;145.0;84.0;7.0;26.0;34.0;329.0;69.0;5.0;19.0;9.0;3.0;24.0;8.0
+270;Mannen en vrouwen;Werknemers vaste arbeidsrelatie;2004;526.0;279.0;122.0;72.0;6.0;19.0;27.0;273.0;81.0;7.0;26.0;10.0;3.0;28.0;7.0
+271;Mannen en vrouwen;Werknemers vaste arbeidsrelatie;2005;501.0;264.0;113.0;81.0;4.0;14.0;25.0;256.0;90.0;7.0;26.0;12.0;3.0;33.0;9.0
+272;Mannen en vrouwen;Werknemers vaste arbeidsrelatie;2006;603.0;317.0;127.0;94.0;5.0;21.0;39.0;69.0;80.0;3.0;25.0;10.0;4.0;30.0;7.0
+273;Mannen en vrouwen;Werknemers flexibele arbeidsrelatie;2000;269.0;75.0;117.0;29.0;2.0;21.0;25.0;60.0;66.0;5.0;22.0;6.0;2.0;22.0;9.0
+274;Mannen en vrouwen;Werknemers flexibele arbeidsrelatie;2001;247.0;70.0;111.0;26.0;3.0;22.0;15.0;58.0;52.0;4.0;20.0;5.0;2.0;15.0;5.0
+275;Mannen en vrouwen;Werknemers flexibele arbeidsrelatie;2002;244.0;79.0;106.0;25.0;3.0;19.0;11.0;65.0;57.0;5.0;26.0;6.0;2.0;14.0;5.0
+276;Mannen en vrouwen;Werknemers flexibele arbeidsrelatie;2003;228.0;67.0;96.0;31.0;3.0;13.0;17.0;52.0;66.0;6.0;32.0;8.0;2.0;14.0;5.0
+277;Mannen en vrouwen;Werknemers flexibele arbeidsrelatie;2004;229.0;63.0;98.0;37.0;4.0;12.0;15.0;51.0;80.0;8.0;36.0;10.0;2.0;14.0;9.0
+278;Mannen en vrouwen;Werknemers flexibele arbeidsrelatie;2005;258.0;70.0;105.0;46.0;4.0;15.0;19.0;52.0;86.0;7.0;39.0;10.0;4.0;17.0;9.0
+279;Mannen en vrouwen;Werknemers flexibele arbeidsrelatie;2006;300.0;86.0;123.0;48.0;4.0;17.0;22.0;31.0;79.0;4.0;39.0;10.0;2.0;16.0;7.0
+280;Mannen en vrouwen;Zelfstandigen;2000;58.0;33.0;7.0;8.0;;4.0;6.0;32.0;17.0;;2.0;2.0;;8.0;3.0
+281;Mannen en vrouwen;Zelfstandigen;2001;60.0;33.0;6.0;8.0;;8.0;5.0;31.0;16.0;2.0;2.0;2.0;;6.0;2.0
+282;Mannen en vrouwen;Zelfstandigen;2002;55.0;32.0;9.0;6.0;;4.0;4.0;30.0;16.0;2.0;2.0;3.0;;6.0;3.0
+283;Mannen en vrouwen;Zelfstandigen;2003;49.0;28.0;6.0;5.0;2.0;4.0;5.0;24.0;19.0;2.0;;4.0;3.0;5.0;3.0
+284;Mannen en vrouwen;Zelfstandigen;2004;53.0;29.0;7.0;7.0;;4.0;4.0;27.0;25.0;4.0;3.0;5.0;;6.0;6.0
+285;Mannen en vrouwen;Zelfstandigen;2005;61.0;35.0;5.0;12.0;;4.0;4.0;33.0;27.0;3.0;2.0;8.0;2.0;7.0;5.0
+286;Mannen en vrouwen;Zelfstandigen;2006;69.0;34.0;9.0;13.0;;4.0;8.0;22.0;29.0;3.0;4.0;6.0;;8.0;7.0
+287;Mannen en vrouwen;Abeidsrelatie: onbekend;2000;;;;;;;;;576.0;84.0;104.0;103.0;82.0;118.0;86.0
+288;Mannen en vrouwen;Abeidsrelatie: onbekend;2001;;;;;;;;;552.0;101.0;108.0;96.0;76.0;108.0;63.0
+289;Mannen en vrouwen;Abeidsrelatie: onbekend;2002;;;;;;;;;576.0;127.0;113.0;95.0;69.0;108.0;65.0
+290;Mannen en vrouwen;Abeidsrelatie: onbekend;2003;;;;;;;;;709.0;180.0;125.0;132.0;91.0;102.0;80.0
+291;Mannen en vrouwen;Abeidsrelatie: onbekend;2004;;;;;;;;;818.0;174.0;144.0;186.0;100.0;128.0;86.0
+292;Mannen en vrouwen;Abeidsrelatie: onbekend;2005;;;;;;;;;843.0;166.0;153.0;199.0;104.0;127.0;93.0
+293;Mannen en vrouwen;Abeidsrelatie: onbekend;2006;;;;;;;;84.0;783.0;128.0;136.0;191.0;107.0;124.0;98.0
+294;Mannen en vrouwen;Arbeidsduur: 12 tot 20 uur;2000;108.0;26.0;39.0;11.0;2.0;20.0;11.0;22.0;;;;;;;
+295;Mannen en vrouwen;Arbeidsduur: 12 tot 20 uur;2001;123.0;28.0;45.0;17.0;4.0;24.0;6.0;26.0;;;;;;;
+296;Mannen en vrouwen;Arbeidsduur: 12 tot 20 uur;2002;116.0;34.0;42.0;13.0;2.0;19.0;5.0;30.0;;;;;;;
+297;Mannen en vrouwen;Arbeidsduur: 12 tot 20 uur;2003;105.0;29.0;39.0;14.0;3.0;14.0;6.0;26.0;;;;;;;
+298;Mannen en vrouwen;Arbeidsduur: 12 tot 20 uur;2004;86.0;22.0;35.0;11.0;3.0;12.0;4.0;20.0;;;;;;;
+299;Mannen en vrouwen;Arbeidsduur: 12 tot 20 uur;2005;93.0;23.0;39.0;13.0;3.0;9.0;6.0;18.0;;;;;;;
+300;Mannen en vrouwen;Arbeidsduur: 12 tot 20 uur;2006;109.0;26.0;45.0;16.0;2.0;11.0;8.0;300.0;;;;;;;
+301;Mannen en vrouwen;Arbeidsduur : 20 tot 35 uur;2000;290.0;112.0;90.0;30.0;5.0;30.0;23.0;101.0;;;;;;;
+302;Mannen en vrouwen;Arbeidsduur : 20 tot 35 uur;2001;302.0;130.0;83.0;36.0;6.0;29.0;19.0;122.0;;;;;;;
+303;Mannen en vrouwen;Arbeidsduur : 20 tot 35 uur;2002;313.0;137.0;87.0;40.0;6.0;25.0;18.0;132.0;;;;;;;
+304;Mannen en vrouwen;Arbeidsduur : 20 tot 35 uur;2003;278.0;114.0;82.0;37.0;5.0;18.0;22.0;107.0;;;;;;;
+305;Mannen en vrouwen;Arbeidsduur : 20 tot 35 uur;2004;229.0;89.0;73.0;34.0;5.0;12.0;16.0;84.0;;;;;;;
+306;Mannen en vrouwen;Arbeidsduur : 20 tot 35 uur;2005;229.0;94.0;67.0;34.0;3.0;15.0;17.0;81.0;;;;;;;
+307;Mannen en vrouwen;Arbeidsduur : 20 tot 35 uur;2006;264.0;96.0;77.0;48.0;5.0;18.0;20.0;;;;;;;;
+308;Mannen en vrouwen;Arbeidsduur: 35 uur of meer;2000;749.0;400.0;191.0;79.0;5.0;19.0;54.0;390.0;;;;;;;
+309;Mannen en vrouwen;Arbeidsduur: 35 uur of meer;2001;724.0;405.0;178.0;81.0;3.0;21.0;36.0;400.0;;;;;;;
+310;Mannen en vrouwen;Arbeidsduur: 35 uur of meer;2002;632.0;364.0;145.0;70.0;3.0;18.0;33.0;353.0;;;;;;;
+311;Mannen en vrouwen;Arbeidsduur: 35 uur of meer;2003;526.0;289.0;124.0;69.0;4.0;12.0;28.0;273.0;;;;;;;
+312;Mannen en vrouwen;Arbeidsduur: 35 uur of meer;2004;492.0;261.0;119.0;72.0;2.0;11.0;27.0;247.0;;;;;;;
+313;Mannen en vrouwen;Arbeidsduur: 35 uur of meer;2005;498.0;252.0;118.0;91.0;3.0;9.0;26.0;242.0;;;;;;;
+314;Mannen en vrouwen;Arbeidsduur: 35 uur of meer;2006;599.0;315.0;135.0;91.0;4.0;14.0;41.0;;;;;;;;
+315;Mannen en vrouwen;Arbeidsduur: onbekend;2000;;;;;;;;;718.0;93.0;143.0;118.0;88.0;170.0;106.0
+316;Mannen en vrouwen;Arbeidsduur: onbekend;2001;;;;;;;;;676.0;112.0;147.0;109.0;82.0;152.0;75.0
+317;Mannen en vrouwen;Arbeidsduur: onbekend;2002;;;;;;;;;713.0;138.0;161.0;112.0;75.0;149.0;79.0
+318;Mannen en vrouwen;Arbeidsduur: onbekend;2003;;;;;;;;;864.0;193.0;177.0;153.0;99.0;145.0;96.0
+319;Mannen en vrouwen;Arbeidsduur: onbekend;2004;;;;;;;;;1004.0;194.0;209.0;210.0;106.0;177.0;108.0
+320;Mannen en vrouwen;Arbeidsduur: onbekend;2005;;;;;;;;;1047.0;184.0;220.0;229.0;113.0;183.0;117.0
+321;Mannen en vrouwen;Arbeidsduur: onbekend;2006;;;;;;;;;970.0;138.0;205.0;218.0;114.0;177.0;118.0
+322;Mannen;Totaal leeftijd;2000;619.0;315.0;165.0;68.0;5.0;14.0;51.0;307.0;279.0;45.0;66.0;57.0;52.0;9.0;49.0
+323;Mannen;Totaal leeftijd;2001;608.0;326.0;156.0;72.0;6.0;16.0;32.0;321.0;263.0;56.0;69.0;54.0;41.0;8.0;34.0
+324;Mannen;Totaal leeftijd;2002;551.0;302.0;135.0;64.0;6.0;12.0;32.0;293.0;301.0;78.0;83.0;52.0;37.0;13.0;37.0
+325;Mannen;Totaal leeftijd;2003;482.0;247.0;126.0;66.0;5.0;9.0;30.0;232.0;381.0;115.0;84.0;79.0;51.0;10.0;44.0
+326;Mannen;Totaal leeftijd;2004;446.0;219.0;122.0;66.0;5.0;8.0;26.0;206.0;449.0;113.0;103.0;117.0;52.0;17.0;47.0
+327;Mannen;Totaal leeftijd;2005;457.0;218.0;115.0;85.0;4.0;9.0;26.0;206.0;457.0;100.0;105.0;126.0;58.0;19.0;47.0
+328;Mannen;Totaal leeftijd;2006;536.0;258.0;135.0;88.0;4.0;12.0;39.0;246.0;414.0;71.0;104.0;115.0;53.0;17.0;54.0
+329;Mannen;15 tot 25 jarigen;2000;194.0;49.0;120.0;7.0;;;18.0;44.0;64.0;7.0;47.0;2.0;;;8.0
+330;Mannen;15 tot 25 jarigen;2001;192.0;56.0;119.0;12.0;;;4.0;54.0;71.0;10.0;54.0;4.0;;;2.0
+331;Mannen;15 tot 25 jarigen;2002;172.0;56.0;102.0;8.0;;;6.0;53.0;84.0;12.0;63.0;4.0;;;4.0
+332;Mannen;15 tot 25 jarigen;2003;164.0;46.0;100.0;13.0;;;4.0;41.0;98.0;18.0;67.0;8.0;;;3.0
+333;Mannen;15 tot 25 jarigen;2004;143.0;36.0;93.0;10.0;;;4.0;33.0;118.0;18.0;78.0;13.0;;;7.0
+334;Mannen;15 tot 25 jarigen;2005;140.0;38.0;85.0;11.0;;;5.0;31.0;113.0;15.0;81.0;10.0;;;6.0
+335;Mannen;15 tot 25 jarigen;2006;161.0;45.0;99.0;12.0;;;5.0;42.0;103.0;9.0;82.0;5.0;;;6.0
+336;Mannen;25 tot 35 jarigen;2000;231.0;138.0;45.0;31.0;;;16.0;138.0;58.0;13.0;20.0;11.0;5.0;;9.0
+337;Mannen;25 tot 35 jarigen;2001;213.0;132.0;37.0;28.0;;;15.0;131.0;57.0;17.0;15.0;9.0;7.0;;9.0
+338;Mannen;25 tot 35 jarigen;2002;191.0;118.0;33.0;27.0;;;12.0;115.0;69.0;26.0;20.0;12.0;5.0;;7.0
+339;Mannen;25 tot 35 jarigen;2003;150.0;92.0;25.0;22.0;;;10.0;87.0;84.0;37.0;17.0;15.0;6.0;;9.0
+340;Mannen;25 tot 35 jarigen;2004;153.0;86.0;29.0;25.0;2.0;;11.0;81.0;89.0;29.0;25.0;20.0;6.0;;9.0
+341;Mannen;25 tot 35 jarigen;2005;156.0;84.0;30.0;31.0;;;10.0;84.0;86.0;24.0;24.0;22.0;7.0;;9.0
+342;Mannen;25 tot 35 jarigen;2006;185.0;104.0;36.0;29.0;;;14.0;98.0;77.0;18.0;21.0;18.0;6.0;;13.0
+343;Mannen;35 tot 45 jarigen;2000;125.0;85.0;;17.0;;11.0;10.0;83.0;58.0;10.0;;13.0;15.0;7.0;13.0
+344;Mannen;35 tot 45 jarigen;2001;138.0;97.0;;19.0;2.0;12.0;8.0;97.0;53.0;13.0;;12.0;11.0;6.0;11.0
+345;Mannen;35 tot 45 jarigen;2002;117.0;80.0;;19.0;2.0;8.0;8.0;79.0;65.0;20.0;;12.0;10.0;11.0;13.0
+346;Mannen;35 tot 45 jarigen;2003;104.0;69.0;;18.0;;5.0;10.0;68.0;83.0;26.0;;21.0;18.0;6.0;12.0
+347;Mannen;35 tot 45 jarigen;2004;96.0;62.0;;20.0;;6.0;7.0;59.0;105.0;30.0;;33.0;17.0;11.0;14.0
+348;Mannen;35 tot 45 jarigen;2005;98.0;62.0;;22.0;2.0;6.0;6.0;60.0;106.0;27.0;;34.0;21.0;11.0;13.0
+349;Mannen;35 tot 45 jarigen;2006;112.0;67.0;;24.0;;9.0;11.0;66.0;84.0;20.0;;26.0;17.0;11.0;11.0
+350;Mannen;45 tot 55 jarigen;2000;58.0;37.0;;11.0;2.0;3.0;5.0;36.0;54.0;9.0;;14.0;21.0;2.0;8.0
+351;Mannen;45 tot 55 jarigen;2001;55.0;36.0;;9.0;2.0;4.0;4.0;34.0;46.0;10.0;;15.0;15.0;2.0;5.0
+352;Mannen;45 tot 55 jarigen;2002;57.0;39.0;;9.0;;4.0;5.0;38.0;45.0;14.0;;10.0;12.0;3.0;7.0
+353;Mannen;45 tot 55 jarigen;2003;48.0;32.0;;9.0;2.0;2.0;3.0;29.0;67.0;22.0;;18.0;16.0;3.0;8.0
+354;Mannen;45 tot 55 jarigen;2004;43.0;28.0;;9.0;2.0;;3.0;27.0;77.0;21.0;;27.0;17.0;4.0;8.0
+355;Mannen;45 tot 55 jarigen;2005;50.0;28.0;;15.0;;2.0;4.0;26.0;78.0;18.0;;31.0;15.0;6.0;7.0
+356;Mannen;45 tot 55 jarigen;2006;60.0;35.0;;15.0;;2.0;6.0;33.0;77.0;13.0;;33.0;17.0;5.0;9.0
+357;Mannen;55 tot 65 jarigen;2000;11.0;6.0;;3.0;;;;5.0;44.0;6.0;;16.0;11.0;;11.0
+358;Mannen;55 tot 65 jarigen;2001;11.0;6.0;;3.0;;;;5.0;37.0;6.0;;14.0;8.0;;8.0
+359;Mannen;55 tot 65 jarigen;2002;14.0;10.0;;2.0;;;;9.0;37.0;7.0;;14.0;9.0;;7.0
+360;Mannen;55 tot 65 jarigen;2003;16.0;8.0;;4.0;;;3.0;7.0;50.0;11.0;;17.0;9.0;;11.0
+361;Mannen;55 tot 65 jarigen;2004;11.0;6.0;;3.0;;;2.0;6.0;60.0;15.0;;24.0;10.0;2.0;10.0
+362;Mannen;55 tot 65 jarigen;2005;13.0;7.0;;5.0;;;;5.0;73.0;16.0;;28.0;14.0;2.0;13.0
+363;Mannen;55 tot 65 jarigen;2006;18.0;8.0;;7.0;;;3.0;7.0;73.0;11.0;;33.0;12.0;;16.0
+364;Mannen;Eenpersoonshuishouden;2000;114.0;47.0;34.0;15.0;;3.0;13.0;44.0;89.0;13.0;15.0;22.0;19.0;4.0;15.0
+365;Mannen;Eenpersoonshuishouden;2001;105.0;53.0;22.0;14.0;2.0;4.0;10.0;49.0;90.0;18.0;22.0;17.0;17.0;3.0;14.0
+366;Mannen;Eenpersoonshuishouden;2002;91.0;48.0;16.0;13.0;;5.0;7.0;45.0;92.0;21.0;18.0;16.0;14.0;7.0;16.0
+367;Mannen;Eenpersoonshuishouden;2003;78.0;38.0;16.0;11.0;;2.0;9.0;33.0;120.0;34.0;15.0;29.0;22.0;4.0;15.0
+368;Mannen;Eenpersoonshuishouden;2004;75.0;32.0;16.0;16.0;;3.0;8.0;29.0;131.0;33.0;17.0;38.0;19.0;7.0;16.0
+369;Mannen;Eenpersoonshuishouden;2005;79.0;33.0;18.0;18.0;;3.0;7.0;31.0;145.0;27.0;20.0;47.0;26.0;10.0;16.0
+370;Mannen;Eenpersoonshuishouden;2006;93.0;44.0;17.0;17.0;;2.0;11.0;70.0;129.0;19.0;19.0;43.0;22.0;8.0;18.0
+371;Mannen;Alleenstaande ouder;2000;3.0;;;;;;;;4.0;;;;;;
+372;Mannen;Alleenstaande ouder;2001;2.0;2.0;;;;;;2.0;3.0;;;;;;
+373;Mannen;Alleenstaande ouder;2002;4.0;2.0;;;;;;2.0;5.0;;;;;;
+374;Mannen;Alleenstaande ouder;2003;4.0;2.0;;;;;;;6.0;;;;2.0;;
+375;Mannen;Alleenstaande ouder;2004;2.0;;;;;;;;7.0;;;3.0;2.0;;
+376;Mannen;Alleenstaande ouder;2005;2.0;;;;;;;;6.0;2.0;;3.0;;;
+377;Mannen;Alleenstaande ouder;2006;4.0;2.0;;;;;;35.0;8.0;;;3.0;3.0;;
+378;Mannen;Lid van ouderpaar;2000;176.0;124.0;8.0;24.0;2.0;7.0;10.0;122.0;64.0;13.0;4.0;15.0;15.0;4.0;13.0
+379;Mannen;Lid van ouderpaar;2001;177.0;123.0;8.0;27.0;2.0;9.0;9.0;123.0;58.0;15.0;3.0;15.0;12.0;3.0;10.0
+380;Mannen;Lid van ouderpaar;2002;160.0;116.0;5.0;22.0;3.0;5.0;8.0;115.0;70.0;24.0;4.0;18.0;10.0;4.0;10.0
+381;Mannen;Lid van ouderpaar;2003;139.0;97.0;4.0;23.0;2.0;4.0;8.0;96.0;89.0;32.0;3.0;21.0;15.0;4.0;14.0
+382;Mannen;Lid van ouderpaar;2004;127.0;86.0;5.0;23.0;2.0;4.0;7.0;82.0;108.0;34.0;4.0;33.0;18.0;6.0;14.0
+383;Mannen;Lid van ouderpaar;2005;128.0;81.0;5.0;31.0;;3.0;7.0;78.0;101.0;28.0;3.0;32.0;19.0;6.0;13.0
+384;Mannen;Lid van ouderpaar;2006;156.0;99.0;6.0;32.0;2.0;7.0;10.0;59.0;88.0;24.0;2.0;31.0;14.0;6.0;12.0
+385;Mannen;Ouderpaar, jongste kind 0 tot 6 jaar;2000;103.0;73.0;8.0;13.0;;3.0;4.0;73.0;27.0;5.0;3.0;6.0;4.0;2.0;6.0
+386;Mannen;Ouderpaar, jongste kind 0 tot 6 jaar;2001;109.0;75.0;8.0;16.0;;5.0;5.0;76.0;25.0;7.0;3.0;5.0;3.0;;6.0
+387;Mannen;Ouderpaar, jongste kind 0 tot 6 jaar;2002;93.0;67.0;4.0;13.0;;2.0;4.0;68.0;32.0;12.0;4.0;7.0;3.0;2.0;5.0
+388;Mannen;Ouderpaar, jongste kind 0 tot 6 jaar;2003;79.0;57.0;3.0;12.0;;2.0;5.0;57.0;37.0;13.0;2.0;9.0;5.0;2.0;7.0
+389;Mannen;Ouderpaar, jongste kind 0 tot 6 jaar;2004;76.0;50.0;4.0;14.0;;3.0;5.0;47.0;49.0;14.0;4.0;14.0;7.0;3.0;8.0
+390;Mannen;Ouderpaar, jongste kind 0 tot 6 jaar;2005;70.0;43.0;4.0;17.0;;;4.0;42.0;45.0;14.0;3.0;13.0;8.0;2.0;6.0
+391;Mannen;Ouderpaar, jongste kind 0 tot 6 jaar;2006;92.0;61.0;5.0;16.0;;4.0;5.0;18.0;35.0;10.0;2.0;10.0;5.0;3.0;5.0
+392;Mannen;Ouderpaar, jongste kind 6 tot 12 jaar;2000;37.0;25.0;;5.0;;2.0;3.0;25.0;15.0;3.0;;2.0;4.0;2.0;3.0
+393;Mannen;Ouderpaar, jongste kind 6 tot 12 jaar;2001;35.0;26.0;;4.0;;2.0;2.0;26.0;13.0;3.0;;4.0;3.0;;2.0
+394;Mannen;Ouderpaar, jongste kind 6 tot 12 jaar;2002;33.0;26.0;;4.0;;;2.0;24.0;16.0;5.0;;4.0;2.0;;3.0
+395;Mannen;Ouderpaar, jongste kind 6 tot 12 jaar;2003;30.0;22.0;;5.0;;;2.0;20.0;24.0;9.0;;4.0;6.0;;4.0
+396;Mannen;Ouderpaar, jongste kind 6 tot 12 jaar;2004;24.0;16.0;;5.0;;;2.0;15.0;24.0;8.0;;8.0;4.0;2.0;3.0
+397;Mannen;Ouderpaar, jongste kind 6 tot 12 jaar;2005;31.0;20.0;;7.0;;;;19.0;20.0;5.0;;7.0;3.0;2.0;3.0
+398;Mannen;Ouderpaar, jongste kind 6 tot 12 jaar;2006;29.0;17.0;;6.0;;2.0;2.0;11.0;20.0;6.0;;7.0;3.0;;3.0
+399;Mannen;Ouderpaar, jongste kind 12 tot 18 jaar;2000;18.0;12.0;;3.0;;;;12.0;11.0;2.0;;3.0;3.0;;2.0
+400;Mannen;Ouderpaar, jongste kind 12 tot 18 jaar;2001;22.0;14.0;;5.0;;2.0;;14.0;10.0;2.0;;3.0;3.0;;
+401;Mannen;Ouderpaar, jongste kind 12 tot 18 jaar;2002;23.0;16.0;;3.0;;;2.0;15.0;12.0;4.0;;3.0;3.0;;
+402;Mannen;Ouderpaar, jongste kind 12 tot 18 jaar;2003;20.0;12.0;;4.0;;;;12.0;15.0;6.0;;4.0;2.0;;2.0
+403;Mannen;Ouderpaar, jongste kind 12 tot 18 jaar;2004;16.0;12.0;;2.0;;;;12.0;20.0;7.0;;6.0;5.0;;2.0
+404;Mannen;Ouderpaar, jongste kind 12 tot 18 jaar;2005;17.0;12.0;;4.0;;;;12.0;19.0;6.0;;6.0;4.0;;2.0
+405;Mannen;Ouderpaar, jongste kind 12 tot 18 jaar;2006;22.0;12.0;;7.0;;;;7.0;17.0;4.0;;7.0;3.0;;3.0
+406;Mannen;Ouderpaar met jongste kind >=18 jaar;2000;18.0;13.0;;3.0;;;;12.0;11.0;2.0;;3.0;4.0;;2.0
+407;Mannen;Ouderpaar met jongste kind >=18 jaar;2001;12.0;7.0;;3.0;;;;7.0;10.0;3.0;;3.0;3.0;;2.0
+408;Mannen;Ouderpaar met jongste kind >=18 jaar;2002;11.0;8.0;;2.0;;;;8.0;10.0;4.0;;3.0;2.0;;
+409;Mannen;Ouderpaar met jongste kind >=18 jaar;2003;10.0;7.0;;2.0;;;;6.0;13.0;5.0;;4.0;2.0;;
+410;Mannen;Ouderpaar met jongste kind >=18 jaar;2004;10.0;8.0;;2.0;;;;8.0;15.0;5.0;;5.0;2.0;;2.0
+411;Mannen;Ouderpaar met jongste kind >=18 jaar;2005;11.0;7.0;;2.0;;;;6.0;16.0;3.0;;6.0;4.0;2.0;2.0
+412;Mannen;Ouderpaar met jongste kind >=18 jaar;2006;14.0;8.0;;3.0;;;2.0;2.0;16.0;4.0;;7.0;3.0;;2.0
+413;Mannen;Lid van een paar (geen ouder);2000;146.0;96.0;19.0;19.0;;2.0;9.0;93.0;57.0;12.0;4.0;14.0;15.0;;11.0
+414;Mannen;Lid van een paar (geen ouder);2001;146.0;96.0;20.0;18.0;;2.0;8.0;95.0;49.0;13.0;2.0;16.0;9.0;;7.0
+415;Mannen;Lid van een paar (geen ouder);2002;131.0;85.0;17.0;18.0;;2.0;9.0;82.0;49.0;17.0;4.0;11.0;9.0;;7.0
+416;Mannen;Lid van een paar (geen ouder);2003;104.0;62.0;13.0;18.0;;2.0;7.0;60.0;69.0;28.0;4.0;18.0;9.0;;10.0
+417;Mannen;Lid van een paar (geen ouder);2004;99.0;60.0;15.0;17.0;;;6.0;57.0;82.0;26.0;6.0;28.0;10.0;;11.0
+418;Mannen;Lid van een paar (geen ouder);2005;107.0;63.0;13.0;21.0;;2.0;6.0;62.0;87.0;26.0;6.0;32.0;9.0;;13.0
+419;Mannen;Lid van een paar (geen ouder);2006;122.0;72.0;15.0;21.0;;2.0;12.0;95.0;78.0;16.0;7.0;29.0;10.0;;16.0
+420;Mannen;Minderjarig kind;2000;27.0;;27.0;;;;;;17.0;;17.0;;;;
+421;Mannen;Minderjarig kind;2001;31.0;;31.0;;;;;;18.0;;17.0;;;;
+422;Mannen;Minderjarig kind;2002;26.0;;26.0;;;;;;23.0;;23.0;;;;
+423;Mannen;Minderjarig kind;2003;25.0;;25.0;;;;;;21.0;;21.0;;;;
+424;Mannen;Minderjarig kind;2004;22.0;;22.0;;;;;;22.0;;22.0;;;;
+425;Mannen;Minderjarig kind;2005;21.0;;21.0;;;;;;24.0;;24.0;;;;
+426;Mannen;Minderjarig kind;2006;22.0;;22.0;;;;;4.0;26.0;;26.0;;;;
+427;Mannen;Meerderjarig kind;2000;137.0;42.0;69.0;8.0;;;17.0;40.0;39.0;6.0;21.0;4.0;;;7.0
+428;Mannen;Meerderjarig kind;2001;134.0;48.0;72.0;10.0;;;3.0;48.0;37.0;7.0;22.0;4.0;2.0;;2.0
+429;Mannen;Meerderjarig kind;2002;127.0;46.0;66.0;8.0;;;7.0;44.0;53.0;14.0;31.0;4.0;;;3.0
+430;Mannen;Meerderjarig kind;2003;119.0;42.0;61.0;11.0;;;4.0;38.0;60.0;16.0;33.0;8.0;;;2.0
+431;Mannen;Meerderjarig kind;2004;109.0;36.0;60.0;9.0;;;4.0;33.0;82.0;17.0;46.0;11.0;2.0;;4.0
+432;Mannen;Meerderjarig kind;2005;103.0;33.0;53.0;12.0;;;5.0;29.0;76.0;12.0;46.0;10.0;3.0;;5.0
+433;Mannen;Meerderjarig kind;2006;125.0;37.0;69.0;14.0;;;4.0;;69.0;9.0;44.0;7.0;2.0;;6.0
+434;Mannen;Overig lid van een huishouden;2000;16.0;6.0;7.0;2.0;;;;7.0;9.0;;5.0;;;;
+435;Mannen;Overig lid van een huishouden;2001;13.0;5.0;4.0;2.0;;;2.0;4.0;8.0;2.0;3.0;;;;
+436;Mannen;Overig lid van een huishouden;2002;13.0;4.0;5.0;3.0;;;;5.0;9.0;;3.0;2.0;;;
+437;Mannen;Overig lid van een huishouden;2003;14.0;5.0;5.0;3.0;;;;4.0;17.0;4.0;8.0;2.0;;;2.0
+438;Mannen;Overig lid van een huishouden;2004;12.0;4.0;5.0;2.0;;;;3.0;18.0;2.0;7.0;5.0;;;
+439;Mannen;Overig lid van een huishouden;2005;16.0;7.0;5.0;2.0;;;;5.0;18.0;4.0;6.0;3.0;2.0;;
+440;Mannen;Overig lid van een huishouden;2006;14.0;4.0;5.0;2.0;;;2.0;5.0;16.0;2.0;6.0;3.0;;;2.0
+441;Mannen;CWI ingeschreven;2000;22.0;8.0;5.0;3.0;;;4.0;6.0;96.0;20.0;11.0;28.0;12.0;5.0;19.0
+442;Mannen;CWI ingeschreven;2001;16.0;5.0;3.0;3.0;;;3.0;3.0;87.0;23.0;9.0;22.0;13.0;4.0;15.0
+443;Mannen;CWI ingeschreven;2002;18.0;8.0;3.0;4.0;;;;7.0;110.0;41.0;13.0;26.0;14.0;4.0;14.0
+444;Mannen;CWI ingeschreven;2003;21.0;7.0;5.0;4.0;;2.0;3.0;5.0;154.0;64.0;12.0;42.0;15.0;3.0;17.0
+445;Mannen;CWI ingeschreven;2004;24.0;7.0;6.0;5.0;2.0;2.0;3.0;5.0;201.0;67.0;16.0;69.0;22.0;7.0;19.0
+446;Mannen;CWI ingeschreven;2005;24.0;7.0;5.0;8.0;;;3.0;5.0;193.0;55.0;17.0;71.0;23.0;9.0;18.0
+447;Mannen;CWI ingeschreven;2006;28.0;8.0;4.0;9.0;;;4.0;232.0;148.0;35.0;9.0;63.0;17.0;9.0;16.0
+448;Mannen;Onderwijsniveau: lager;2000;209.0;90.0;65.0;24.0;3.0;6.0;21.0;85.0;133.0;16.0;33.0;26.0;32.0;5.0;20.0
+449;Mannen;Onderwijsniveau: lager;2001;206.0;90.0;76.0;23.0;2.0;6.0;9.0;89.0;131.0;21.0;41.0;25.0;24.0;5.0;15.0
+450;Mannen;Onderwijsniveau: lager;2002;185.0;87.0;59.0;21.0;3.0;4.0;10.0;83.0;141.0;27.0;49.0;21.0;20.0;7.0;17.0
+451;Mannen;Onderwijsniveau: lager;2003;154.0;65.0;55.0;19.0;3.0;4.0;8.0;60.0;167.0;40.0;45.0;34.0;27.0;6.0;15.0
+452;Mannen;Onderwijsniveau: lager;2004;138.0;53.0;55.0;19.0;3.0;3.0;6.0;48.0;173.0;34.0;52.0;45.0;23.0;5.0;14.0
+453;Mannen;Onderwijsniveau: lager;2005;136.0;50.0;48.0;25.0;2.0;3.0;7.0;44.0;181.0;29.0;57.0;45.0;29.0;7.0;14.0
+454;Mannen;Onderwijsniveau: lager;2006;165.0;61.0;60.0;27.0;;4.0;12.0;57.0;167.0;24.0;56.0;39.0;24.0;6.0;18.0
+455;Mannen;Onderwijsniveau: middelbaar;2000;260.0;140.0;67.0;27.0;2.0;5.0;19.0;136.0;95.0;15.0;24.0;19.0;18.0;3.0;17.0
+456;Mannen;Onderwijsniveau: middelbaar;2001;246.0;143.0;52.0;31.0;2.0;5.0;13.0;138.0;87.0;22.0;22.0;18.0;12.0;;11.0
+457;Mannen;Onderwijsniveau: middelbaar;2002;227.0;128.0;52.0;25.0;2.0;5.0;14.0;122.0;106.0;32.0;25.0;20.0;14.0;3.0;11.0
+458;Mannen;Onderwijsniveau: middelbaar;2003;200.0;106.0;47.0;31.0;2.0;2.0;11.0;100.0;138.0;44.0;29.0;28.0;17.0;2.0;17.0
+459;Mannen;Onderwijsniveau: middelbaar;2004;175.0;90.0;39.0;28.0;2.0;3.0;13.0;86.0;174.0;49.0;37.0;44.0;19.0;6.0;18.0
+460;Mannen;Onderwijsniveau: middelbaar;2005;189.0;94.0;41.0;37.0;2.0;4.0;12.0;89.0;188.0;44.0;37.0;57.0;22.0;7.0;21.0
+461;Mannen;Onderwijsniveau: middelbaar;2006;213.0;106.0;47.0;37.0;2.0;5.0;15.0;101.0;171.0;32.0;36.0;51.0;20.0;7.0;23.0
+462;Mannen;Onderwijsniveau: hoger;2000;148.0;84.0;33.0;17.0;;2.0;11.0;85.0;50.0;13.0;9.0;12.0;3.0;2.0;11.0
+463;Mannen;Onderwijsniveau: hoger;2001;152.0;92.0;27.0;17.0;;5.0;10.0;92.0;42.0;12.0;6.0;10.0;5.0;2.0;8.0
+464;Mannen;Onderwijsniveau: hoger;2002;136.0;85.0;23.0;18.0;;2.0;8.0;87.0;53.0;18.0;9.0;11.0;4.0;3.0;9.0
+465;Mannen;Onderwijsniveau: hoger;2003;126.0;74.0;23.0;15.0;;2.0;11.0;70.0;74.0;31.0;10.0;16.0;5.0;;11.0
+466;Mannen;Onderwijsniveau: hoger;2004;129.0;74.0;26.0;18.0;;3.0;7.0;71.0;94.0;26.0;13.0;26.0;9.0;5.0;14.0
+467;Mannen;Onderwijsniveau: hoger;2005;130.0;73.0;26.0;22.0;;2.0;6.0;72.0;85.0;27.0;12.0;23.0;7.0;4.0;12.0
+468;Mannen;Onderwijsniveau: hoger;2006;153.0;90.0;27.0;22.0;;2.0;11.0;86.0;71.0;14.0;10.0;23.0;7.0;4.0;12.0
+469;Mannen;Onderwijsniveau: onbekend;2000;2.0;;;;;;;;;;;;;;
+470;Mannen;Onderwijsniveau: onbekend;2001;4.0;2.0;;;;;;2.0;3.0;;;;;;
+471;Mannen;Onderwijsniveau: onbekend;2002;3.0;2.0;;;;;;;;;;;;;
+472;Mannen;Onderwijsniveau: onbekend;2003;3.0;2.0;;;;;;2.0;2.0;;;;;;
+473;Mannen;Onderwijsniveau: onbekend;2004;4.0;;2.0;;;;;;8.0;3.0;;2.0;;;
+474;Mannen;Onderwijsniveau: onbekend;2005;2.0;;;;;;;;3.0;;;;;;
+475;Mannen;Onderwijsniveau: onbekend;2006;5.0;2.0;;;;;;2.0;5.0;;;2.0;;;
+476;Mannen;Autochtonen;2000;480.0;258.0;122.0;52.0;4.0;7.0;37.0;254.0;176.0;31.0;44.0;36.0;38.0;3.0;24.0
+477;Mannen;Autochtonen;2001;478.0;274.0;119.0;52.0;4.0;7.0;21.0;271.0;162.0;34.0;45.0;35.0;29.0;4.0;14.0
+478;Mannen;Autochtonen;2002;435.0;246.0;107.0;48.0;4.0;6.0;25.0;241.0;193.0;53.0;56.0;34.0;27.0;5.0;18.0
+479;Mannen;Autochtonen;2003;375.0;204.0;97.0;48.0;3.0;4.0;20.0;194.0;231.0;73.0;53.0;47.0;34.0;4.0;20.0
+480;Mannen;Autochtonen;2004;339.0;178.0;90.0;47.0;4.0;4.0;16.0;168.0;278.0;78.0;68.0;70.0;34.0;6.0;22.0
+481;Mannen;Autochtonen;2005;356.0;182.0;84.0;63.0;3.0;4.0;19.0;174.0;280.0;67.0;68.0;77.0;38.0;6.0;24.0
+482;Mannen;Autochtonen;2006;420.0;218.0;101.0;66.0;3.0;5.0;28.0;208.0;250.0;47.0;66.0;69.0;35.0;5.0;27.0
+483;Mannen;Allochtonen;2000;139.0;58.0;43.0;16.0;;7.0;14.0;53.0;103.0;14.0;22.0;21.0;15.0;6.0;24.0
+484;Mannen;Allochtonen;2001;130.0;52.0;37.0;19.0;2.0;10.0;11.0;49.0;100.0;21.0;24.0;19.0;12.0;4.0;21.0
+485;Mannen;Allochtonen;2002;115.0;56.0;28.0;16.0;;6.0;8.0;52.0;108.0;25.0;27.0;18.0;10.0;8.0;19.0
+486;Mannen;Allochtonen;2003;107.0;43.0;29.0;19.0;2.0;5.0;10.0;38.0;150.0;42.0;30.0;32.0;16.0;5.0;24.0
+487;Mannen;Allochtonen;2004;107.0;41.0;32.0;19.0;2.0;4.0;10.0;38.0;171.0;35.0;35.0;47.0;18.0;10.0;25.0
+488;Mannen;Allochtonen;2005;101.0;36.0;31.0;22.0;;5.0;7.0;32.0;177.0;33.0;37.0;49.0;20.0;13.0;23.0
+489;Mannen;Allochtonen;2006;116.0;40.0;34.0;22.0;2.0;7.0;11.0;38.0;164.0;24.0;37.0;46.0;17.0;12.0;28.0
+490;Mannen;Westerse allochtonen;2000;66.0;33.0;16.0;9.0;;2.0;6.0;32.0;31.0;5.0;5.0;8.0;5.0;2.0;7.0
+491;Mannen;Westerse allochtonen;2001;56.0;26.0;12.0;10.0;;2.0;5.0;26.0;31.0;8.0;7.0;7.0;3.0;;4.0
+492;Mannen;Westerse allochtonen;2002;54.0;30.0;10.0;9.0;;3.0;3.0;28.0;33.0;10.0;8.0;7.0;3.0;;5.0
+493;Mannen;Westerse allochtonen;2003;48.0;22.0;12.0;7.0;;2.0;3.0;19.0;43.0;14.0;7.0;10.0;5.0;;6.0
+494;Mannen;Westerse allochtonen;2004;44.0;23.0;8.0;8.0;;;4.0;21.0;52.0;14.0;9.0;14.0;4.0;2.0;9.0
+495;Mannen;Westerse allochtonen;2005;41.0;19.0;10.0;9.0;;;2.0;17.0;58.0;11.0;10.0;18.0;6.0;4.0;8.0
+496;Mannen;Westerse allochtonen;2006;47.0;21.0;10.0;9.0;;2.0;4.0;20.0;49.0;6.0;10.0;15.0;6.0;2.0;9.0
+497;Mannen;Niet-westerse allochtonen;2000;73.0;25.0;27.0;7.0;;5.0;9.0;21.0;71.0;9.0;17.0;13.0;10.0;5.0;17.0
+498;Mannen;Niet-westerse allochtonen;2001;74.0;26.0;25.0;10.0;;7.0;6.0;24.0;70.0;13.0;17.0;12.0;8.0;3.0;16.0
+499;Mannen;Niet-westerse allochtonen;2002;61.0;26.0;18.0;8.0;;3.0;5.0;24.0;74.0;15.0;19.0;12.0;7.0;7.0;14.0
+500;Mannen;Niet-westerse allochtonen;2003;59.0;21.0;17.0;11.0;;3.0;7.0;19.0;107.0;28.0;23.0;22.0;11.0;5.0;18.0
+501;Mannen;Niet-westerse allochtonen;2004;62.0;18.0;23.0;11.0;;3.0;6.0;18.0;119.0;21.0;26.0;33.0;14.0;8.0;17.0
+502;Mannen;Niet-westerse allochtonen;2005;60.0;17.0;21.0;13.0;;4.0;4.0;15.0;119.0;22.0;27.0;31.0;14.0;9.0;15.0
+503;Mannen;Niet-westerse allochtonen;2006;69.0;19.0;24.0;13.0;;5.0;7.0;18.0;115.0;17.0;27.0;32.0;12.0;10.0;18.0
+504;Mannen;Herkomst: onbekend;2000;;;;;;;;;;;;;;;
+505;Mannen;Herkomst: onbekend;2001;;;;;;;;;;;;;;;
+506;Mannen;Herkomst: onbekend;2002;;;;;;;;;;;;;;;
+507;Mannen;Herkomst: onbekend;2003;;;;;;;;;;;;;;;
+508;Mannen;Herkomst: onbekend;2004;;;;;;;;;;;;;;;
+509;Mannen;Herkomst: onbekend;2005;;;;;;;;;;;;;;;
+510;Mannen;Herkomst: onbekend;2006;;;;;;;;41.0;;;;;;;
+511;Mannen;Had een baan < 1 jaar geleden;2000;315.0;315.0;;;;;;289.0;45.0;45.0;;;;;
+512;Mannen;Had een baan < 1 jaar geleden;2001;326.0;326.0;;;;;;304.0;56.0;56.0;;;;;
+513;Mannen;Had een baan < 1 jaar geleden;2002;302.0;302.0;;;;;;276.0;78.0;78.0;;;;;
+514;Mannen;Had een baan < 1 jaar geleden;2003;247.0;247.0;;;;;;217.0;115.0;115.0;;;;;
+515;Mannen;Had een baan < 1 jaar geleden;2004;219.0;219.0;;;;;;193.0;113.0;113.0;;;;;
+516;Mannen;Had een baan < 1 jaar geleden;2005;218.0;218.0;;;;;;191.0;100.0;100.0;;;;;
+517;Mannen;Had een baan < 1 jaar geleden;2006;258.0;258.0;;;;;;14.0;71.0;71.0;;;;;
+518;Mannen;Had een baan 1 tot 2 jaar geleden;2000;54.0;;;53.0;;;;18.0;23.0;;;22.0;;;
+519;Mannen;Had een baan 1 tot 2 jaar geleden;2001;62.0;;;60.0;;;;17.0;25.0;;;24.0;;;
+520;Mannen;Had een baan 1 tot 2 jaar geleden;2002;56.0;;2.0;54.0;;;;17.0;28.0;;;27.0;;;
+521;Mannen;Had een baan 1 tot 2 jaar geleden;2003;59.0;;2.0;57.0;;;;15.0;48.0;;;47.0;;;
+522;Mannen;Had een baan 1 tot 2 jaar geleden;2004;57.0;;;55.0;;;;13.0;64.0;;;64.0;;;
+523;Mannen;Had een baan 1 tot 2 jaar geleden;2005;61.0;;;61.0;;;;15.0;59.0;;;58.0;;;
+524;Mannen;Had een baan 1 tot 2 jaar geleden;2006;66.0;;2.0;64.0;;;;;47.0;;;46.0;;;
+525;Mannen;Had een baan 2 tot 5  jaar geleden;2000;26.0;;;9.0;3.0;;13.0;;43.0;;;11.0;15.0;;16.0
+526;Mannen;Had een baan 2 tot 5  jaar geleden;2001;24.0;;;7.0;2.0;;13.0;;38.0;;;10.0;14.0;;13.0
+527;Mannen;Had een baan 2 tot 5  jaar geleden;2002;23.0;;;6.0;3.0;;13.0;;41.0;;;11.0;16.0;;14.0
+528;Mannen;Had een baan 2 tot 5  jaar geleden;2003;23.0;;;5.0;2.0;;14.0;;57.0;;;17.0;19.0;;19.0
+529;Mannen;Had een baan 2 tot 5  jaar geleden;2004;24.0;;;9.0;3.0;;11.0;;74.0;;;28.0;22.0;;22.0
+530;Mannen;Had een baan 2 tot 5  jaar geleden;2005;35.0;;2.0;18.0;2.0;;13.0;;83.0;;;40.0;20.0;;22.0
+531;Mannen;Had een baan 2 tot 5  jaar geleden;2006;39.0;;;18.0;3.0;;16.0;;89.0;;;43.0;15.0;;29.0
+532;Mannen;Had een baan 5 tot 10 jaar geleden;2000;13.0;;;5.0;;;6.0;;49.0;;;15.0;15.0;;18.0
+533;Mannen;Had een baan 5 tot 10 jaar geleden;2001;10.0;;;3.0;2.0;;5.0;;40.0;;;13.0;13.0;;13.0
+534;Mannen;Had een baan 5 tot 10 jaar geleden;2002;10.0;;;3.0;2.0;;5.0;;31.0;;;7.0;9.0;;15.0
+535;Mannen;Had een baan 5 tot 10 jaar geleden;2003;8.0;;;3.0;;;4.0;;36.0;;;7.0;13.0;;15.0
+536;Mannen;Had een baan 5 tot 10 jaar geleden;2004;6.0;;;;;;4.0;;46.0;;;15.0;16.0;;15.0
+537;Mannen;Had een baan 5 tot 10 jaar geleden;2005;7.0;;;4.0;;;2.0;;51.0;;;16.0;18.0;;15.0
+538;Mannen;Had een baan 5 tot 10 jaar geleden;2006;11.0;;;4.0;;;6.0;;51.0;;;15.0;19.0;2.0;15.0
+539;Mannen;Had een baan > 10 jaar geleden;2000;8.0;;;2.0;;;5.0;;40.0;;;8.0;22.0;;8.0
+540;Mannen;Had een baan > 10 jaar geleden;2001;6.0;;;;;;3.0;;30.0;;;7.0;15.0;;8.0
+541;Mannen;Had een baan > 10 jaar geleden;2002;5.0;;;;;;3.0;;29.0;;;8.0;12.0;;9.0
+542;Mannen;Had een baan > 10 jaar geleden;2003;4.0;;;;;;;;37.0;;;8.0;18.0;;10.0
+543;Mannen;Had een baan > 10 jaar geleden;2004;3.0;;;;;;;;35.0;;;10.0;14.0;;10.0
+544;Mannen;Had een baan > 10 jaar geleden;2005;4.0;;;2.0;;;;;43.0;;;12.0;20.0;;10.0
+545;Mannen;Had een baan > 10 jaar geleden;2006;6.0;;;2.0;;;2.0;;39.0;;;10.0;19.0;;10.0
+546;Mannen;Heeft nooit een baan gehad;2000;144.0;;130.0;;;14.0;;;54.0;;47.0;;;8.0;
+547;Mannen;Heeft nooit een baan gehad;2001;138.0;;122.0;;;16.0;;;57.0;;50.0;;;7.0;
+548;Mannen;Heeft nooit een baan gehad;2002;118.0;;106.0;;;12.0;;;71.0;;58.0;;;12.0;
+549;Mannen;Heeft nooit een baan gehad;2003;104.0;;96.0;;;9.0;;;67.0;;60.0;;;7.0;
+550;Mannen;Heeft nooit een baan gehad;2004;105.0;;98.0;;;7.0;;;93.0;;80.0;;;13.0;
+551;Mannen;Heeft nooit een baan gehad;2005;99.0;;91.0;;;8.0;;;96.0;;79.0;;;17.0;
+552;Mannen;Heeft nooit een baan gehad;2006;119.0;;109.0;;;10.0;;;91.0;;75.0;;;15.0;
+553;Mannen;Onbekend of men ooit baan heeft gehad;2000;60.0;;33.0;;;;26.0;;25.0;;18.0;;;;7.0
+554;Mannen;Onbekend of men ooit baan heeft gehad;2001;43.0;;32.0;;;;11.0;;18.0;;18.0;;;;
+555;Mannen;Onbekend of men ooit baan heeft gehad;2002;37.0;;26.0;;;;11.0;;23.0;;23.0;;;;
+556;Mannen;Onbekend of men ooit baan heeft gehad;2003;37.0;;26.0;;;;11.0;;21.0;;21.0;;;;
+557;Mannen;Onbekend of men ooit baan heeft gehad;2004;33.0;;22.0;;;;10.0;;22.0;;22.0;;;;
+558;Mannen;Onbekend of men ooit baan heeft gehad;2005;32.0;;22.0;;;;10.0;;24.0;;24.0;;;;
+559;Mannen;Onbekend of men ooit baan heeft gehad;2006;37.0;;22.0;;;;15.0;187.0;26.0;;26.0;;;;
+560;Mannen;Kan op korte termijn beginnen;2000;;;;;;;;;212.0;37.0;51.0;45.0;38.0;6.0;35.0
+561;Mannen;Kan op korte termijn beginnen;2001;;;;;;;;;193.0;43.0;52.0;41.0;28.0;6.0;24.0
+562;Mannen;Kan op korte termijn beginnen;2002;;;;;;;;;235.0;69.0;65.0;42.0;26.0;8.0;26.0
+563;Mannen;Kan op korte termijn beginnen;2003;;;;;;;;;312.0;101.0;68.0;67.0;35.0;7.0;35.0
+564;Mannen;Kan op korte termijn beginnen;2004;;;;;;;;;368.0;100.0;83.0;100.0;37.0;13.0;35.0
+565;Mannen;Kan op korte termijn beginnen;2005;;;;;;;;;372.0;84.0;83.0;109.0;41.0;14.0;39.0
+566;Mannen;Kan op korte termijn beginnen;2006;;;;;;;;;334.0;61.0;83.0;98.0;34.0;13.0;45.0
+567;Mannen;Afgelopen 4 weken gezocht;2000;;;;;;;;;114.0;26.0;30.0;26.0;11.0;3.0;17.0
+568;Mannen;Afgelopen 4 weken gezocht;2001;;;;;;;;;109.0;31.0;30.0;23.0;9.0;4.0;12.0
+569;Mannen;Afgelopen 4 weken gezocht;2002;;;;;;;;;147.0;54.0;41.0;27.0;9.0;4.0;12.0
+570;Mannen;Afgelopen 4 weken gezocht;2003;;;;;;;;;205.0;87.0;38.0;46.0;13.0;3.0;17.0
+571;Mannen;Afgelopen 4 weken gezocht;2004;;;;;;;;;246.0;82.0;52.0;72.0;15.0;6.0;19.0
+572;Mannen;Afgelopen 4 weken gezocht;2005;;;;;;;;;238.0;70.0;45.0;79.0;16.0;9.0;18.0
+573;Mannen;Afgelopen 4 weken gezocht;2006;;;;;;;;;191.0;46.0;43.0;65.0;14.0;5.0;18.0
+574;Mannen;Afgelopen 4 weken niet gezocht;2000;;;;;;;;;98.0;11.0;21.0;19.0;27.0;3.0;18.0
+575;Mannen;Afgelopen 4 weken niet gezocht;2001;;;;;;;;;85.0;12.0;22.0;18.0;18.0;2.0;12.0
+576;Mannen;Afgelopen 4 weken niet gezocht;2002;;;;;;;;;88.0;15.0;24.0;15.0;16.0;4.0;14.0
+577;Mannen;Afgelopen 4 weken niet gezocht;2003;;;;;;;;;107.0;14.0;29.0;21.0;22.0;4.0;17.0
+578;Mannen;Afgelopen 4 weken niet gezocht;2004;;;;;;;;;121.0;18.0;31.0;28.0;22.0;7.0;16.0
+579;Mannen;Afgelopen 4 weken niet gezocht;2005;;;;;;;;;134.0;15.0;38.0;30.0;25.0;5.0;21.0
+580;Mannen;Afgelopen 4 weken niet gezocht;2006;;;;;;;;;143.0;15.0;40.0;33.0;20.0;8.0;27.0
+581;Mannen;Kan niet op korte termijn beginnen;2000;;;;;;;;;67.0;8.0;15.0;12.0;15.0;3.0;13.0
+582;Mannen;Kan niet op korte termijn beginnen;2001;;;;;;;;;70.0;13.0;17.0;13.0;14.0;2.0;10.0
+583;Mannen;Kan niet op korte termijn beginnen;2002;;;;;;;;;66.0;9.0;18.0;10.0;11.0;5.0;12.0
+584;Mannen;Kan niet op korte termijn beginnen;2003;;;;;;;;;69.0;14.0;16.0;12.0;16.0;3.0;9.0
+585;Mannen;Kan niet op korte termijn beginnen;2004;;;;;;;;;81.0;13.0;20.0;17.0;16.0;4.0;12.0
+586;Mannen;Kan niet op korte termijn beginnen;2005;;;;;;;;;85.0;16.0;22.0;17.0;17.0;5.0;8.0
+587;Mannen;Kan niet op korte termijn beginnen;2006;;;;;;;;;80.0;10.0;21.0;17.0;18.0;4.0;10.0
+588;Mannen;Werknemers vaste arbeidsrelatie;2000;453.0;254.0;104.0;47.0;4.0;8.0;35.0;252.0;13.0;;7.0;2.0;;;2.0
+589;Mannen;Werknemers vaste arbeidsrelatie;2001;449.0;268.0;94.0;54.0;3.0;9.0;20.0;269.0;11.0;;8.0;;;;
+590;Mannen;Werknemers vaste arbeidsrelatie;2002;403.0;239.0;79.0;50.0;3.0;8.0;23.0;238.0;16.0;2.0;10.0;;;;2.0
+591;Mannen;Werknemers vaste arbeidsrelatie;2003;327.0;187.0;71.0;46.0;2.0;4.0;17.0;182.0;15.0;2.0;8.0;2.0;;;2.0
+592;Mannen;Werknemers vaste arbeidsrelatie;2004;287.0;162.0;63.0;40.0;3.0;4.0;15.0;158.0;19.0;3.0;12.0;;;;
+593;Mannen;Werknemers vaste arbeidsrelatie;2005;283.0;158.0;61.0;49.0;;2.0;13.0;155.0;20.0;;11.0;3.0;;;3.0
+594;Mannen;Werknemers vaste arbeidsrelatie;2006;340.0;188.0;67.0;53.0;2.0;5.0;24.0;36.0;19.0;;11.0;3.0;;;2.0
+595;Mannen;Werknemers flexibele arbeidsrelatie;2000;127.0;36.0;58.0;15.0;;5.0;12.0;30.0;17.0;;10.0;;;;3.0
+596;Mannen;Werknemers flexibele arbeidsrelatie;2001;118.0;33.0;58.0;13.0;2.0;4.0;9.0;28.0;13.0;;8.0;;;;2.0
+597;Mannen;Werknemers flexibele arbeidsrelatie;2002;113.0;39.0;51.0;12.0;2.0;4.0;6.0;32.0;22.0;2.0;13.0;2.0;;;2.0
+598;Mannen;Werknemers flexibele arbeidsrelatie;2003;124.0;40.0;51.0;17.0;2.0;3.0;11.0;31.0;24.0;2.0;17.0;3.0;;;
+599;Mannen;Werknemers flexibele arbeidsrelatie;2004;125.0;36.0;55.0;21.0;;3.0;9.0;29.0;28.0;3.0;17.0;4.0;;;3.0
+600;Mannen;Werknemers flexibele arbeidsrelatie;2005;134.0;38.0;51.0;27.0;2.0;6.0;11.0;29.0;33.0;4.0;21.0;3.0;2.0;;2.0
+601;Mannen;Werknemers flexibele arbeidsrelatie;2006;150.0;45.0;62.0;26.0;2.0;5.0;11.0;24.0;28.0;2.0;20.0;4.0;;;2.0
+602;Mannen;Zelfstandigen;2000;39.0;25.0;3.0;6.0;;;4.0;25.0;4.0;;;;;;2.0
+603;Mannen;Zelfstandigen;2001;41.0;25.0;4.0;5.0;;3.0;3.0;24.0;5.0;;2.0;;;;
+604;Mannen;Zelfstandigen;2002;35.0;23.0;4.0;3.0;;;3.0;23.0;6.0;;;2.0;;;
+605;Mannen;Zelfstandigen;2003;31.0;20.0;3.0;3.0;;;3.0;18.0;8.0;2.0;;3.0;;;2.0
+606;Mannen;Zelfstandigen;2004;34.0;21.0;4.0;4.0;;;3.0;20.0;7.0;2.0;2.0;2.0;;;2.0
+607;Mannen;Zelfstandigen;2005;39.0;23.0;3.0;9.0;;;3.0;22.0;9.0;;;3.0;;;
+608;Mannen;Zelfstandigen;2006;47.0;26.0;6.0;9.0;;;5.0;5.0;10.0;;3.0;2.0;;;3.0
+609;Mannen;Abeidsrelatie: onbekend;2000;;;;;;;;;244.0;43.0;48.0;53.0;49.0;9.0;42.0
+610;Mannen;Abeidsrelatie: onbekend;2001;;;;;;;;;233.0;53.0;51.0;52.0;39.0;8.0;31.0
+611;Mannen;Abeidsrelatie: onbekend;2002;;;;;;;;;257.0;74.0;58.0;47.0;34.0;12.0;32.0
+612;Mannen;Abeidsrelatie: onbekend;2003;;;;;;;;;334.0;110.0;58.0;72.0;47.0;8.0;39.0
+613;Mannen;Abeidsrelatie: onbekend;2004;;;;;;;;;394.0;105.0;73.0;110.0;50.0;16.0;41.0
+614;Mannen;Abeidsrelatie: onbekend;2005;;;;;;;;;395.0;93.0;72.0;116.0;55.0;18.0;41.0
+615;Mannen;Abeidsrelatie: onbekend;2006;;;;;;;;20.0;357.0;68.0;70.0;106.0;50.0;16.0;48.0
+616;Mannen;Arbeidsduur: 12 tot 20 uur;2000;29.0;4.0;17.0;2.0;;;4.0;3.0;;;;;;;
+617;Mannen;Arbeidsduur: 12 tot 20 uur;2001;27.0;3.0;18.0;2.0;;;2.0;3.0;;;;;;;
+618;Mannen;Arbeidsduur: 12 tot 20 uur;2002;26.0;7.0;15.0;2.0;;;;6.0;;;;;;;
+619;Mannen;Arbeidsduur: 12 tot 20 uur;2003;28.0;6.0;16.0;3.0;;;2.0;4.0;;;;;;;
+620;Mannen;Arbeidsduur: 12 tot 20 uur;2004;23.0;4.0;15.0;2.0;;;;4.0;;;;;;;
+621;Mannen;Arbeidsduur: 12 tot 20 uur;2005;29.0;5.0;16.0;4.0;;;;4.0;;;;;;;
+622;Mannen;Arbeidsduur: 12 tot 20 uur;2006;29.0;6.0;16.0;4.0;;;2.0;222.0;;;;;;;
+623;Mannen;Arbeidsduur : 20 tot 35 uur;2000;77.0;24.0;32.0;10.0;2.0;2.0;8.0;21.0;;;;;;;
+624;Mannen;Arbeidsduur : 20 tot 35 uur;2001;80.0;29.0;32.0;9.0;2.0;3.0;5.0;26.0;;;;;;;
+625;Mannen;Arbeidsduur : 20 tot 35 uur;2002;90.0;33.0;34.0;11.0;2.0;3.0;7.0;32.0;;;;;;;
+626;Mannen;Arbeidsduur : 20 tot 35 uur;2003;86.0;28.0;35.0;11.0;2.0;;9.0;26.0;;;;;;;
+627;Mannen;Arbeidsduur : 20 tot 35 uur;2004;76.0;21.0;35.0;10.0;2.0;;7.0;20.0;;;;;;;
+628;Mannen;Arbeidsduur : 20 tot 35 uur;2005;72.0;26.0;25.0;11.0;;3.0;6.0;22.0;;;;;;;
+629;Mannen;Arbeidsduur : 20 tot 35 uur;2006;84.0;23.0;33.0;16.0;2.0;;10.0;;;;;;;;
+630;Mannen;Arbeidsduur: 35 uur of meer;2000;513.0;287.0;116.0;57.0;3.0;11.0;39.0;282.0;;;;;;;
+631;Mannen;Arbeidsduur: 35 uur of meer;2001;501.0;294.0;106.0;60.0;2.0;13.0;25.0;292.0;;;;;;;
+632;Mannen;Arbeidsduur: 35 uur of meer;2002;434.0;262.0;86.0;51.0;3.0;9.0;24.0;255.0;;;;;;;
+633;Mannen;Arbeidsduur: 35 uur of meer;2003;369.0;214.0;75.0;51.0;2.0;7.0;20.0;201.0;;;;;;;
+634;Mannen;Arbeidsduur: 35 uur of meer;2004;347.0;194.0;72.0;53.0;2.0;7.0;19.0;183.0;;;;;;;
+635;Mannen;Arbeidsduur: 35 uur of meer;2005;357.0;187.0;74.0;70.0;2.0;6.0;18.0;180.0;;;;;;;
+636;Mannen;Arbeidsduur: 35 uur of meer;2006;423.0;230.0;86.0;68.0;2.0;10.0;28.0;;;;;;;;
+637;Mannen;Arbeidsduur: onbekend;2000;;;;;;;;;279.0;45.0;66.0;57.0;52.0;9.0;49.0
+638;Mannen;Arbeidsduur: onbekend;2001;;;;;;;;;263.0;56.0;69.0;54.0;41.0;8.0;34.0
+639;Mannen;Arbeidsduur: onbekend;2002;;;;;;;;;301.0;78.0;83.0;52.0;37.0;13.0;37.0
+640;Mannen;Arbeidsduur: onbekend;2003;;;;;;;;;381.0;115.0;84.0;79.0;51.0;10.0;44.0
+641;Mannen;Arbeidsduur: onbekend;2004;;;;;;;;;449.0;113.0;103.0;117.0;52.0;17.0;47.0
+642;Mannen;Arbeidsduur: onbekend;2005;;;;;;;;;457.0;100.0;105.0;126.0;58.0;19.0;47.0
+643;Mannen;Arbeidsduur: onbekend;2006;;;;;;;;;414.0;71.0;104.0;115.0;53.0;17.0;54.0
+644;Vrouwen;Totaal leeftijd;2000;528.0;223.0;155.0;51.0;6.0;56.0;37.0;207.0;439.0;49.0;77.0;61.0;36.0;160.0;57.0
+645;Vrouwen;Totaal leeftijd;2001;542.0;237.0;150.0;61.0;7.0;58.0;28.0;227.0;413.0;56.0;78.0;55.0;40.0;144.0;40.0
+646;Vrouwen;Totaal leeftijd;2002;510.0;234.0;139.0;58.0;6.0;50.0;23.0;223.0;413.0;60.0;78.0;59.0;38.0;136.0;41.0
+647;Vrouwen;Totaal leeftijd;2003;427.0;185.0;120.0;54.0;8.0;34.0;26.0;174.0;483.0;78.0;93.0;74.0;49.0;136.0;52.0
+648;Vrouwen;Totaal leeftijd;2004;361.0;153.0;105.0;51.0;6.0;26.0;20.0;144.0;555.0;80.0;106.0;93.0;54.0;161.0;61.0
+649;Vrouwen;Totaal leeftijd;2005;364.0;151.0;108.0;54.0;5.0;23.0;22.0;135.0;590.0;84.0;115.0;103.0;55.0;164.0;69.0
+650;Vrouwen;Totaal leeftijd;2006;436.0;179.0;123.0;67.0;7.0;31.0;30.0;160.0;556.0;66.0;101.0;103.0;62.0;160.0;64.0
+651;Vrouwen;15 tot 25 jarigen;2000;183.0;46.0;112.0;9.0;;;16.0;41.0;72.0;7.0;49.0;4.0;;;10.0
+652;Vrouwen;15 tot 25 jarigen;2001;178.0;49.0;114.0;10.0;;;4.0;45.0;72.0;10.0;55.0;4.0;;;3.0
+653;Vrouwen;15 tot 25 jarigen;2002;176.0;52.0;112.0;9.0;;;3.0;47.0;71.0;10.0;53.0;4.0;;;2.0
+654;Vrouwen;15 tot 25 jarigen;2003;147.0;40.0;93.0;11.0;;;4.0;35.0;92.0;14.0;66.0;7.0;;2.0;3.0
+655;Vrouwen;15 tot 25 jarigen;2004;129.0;31.0;84.0;10.0;;;4.0;29.0;111.0;16.0;78.0;9.0;;;6.0
+656;Vrouwen;15 tot 25 jarigen;2005;134.0;35.0;83.0;11.0;;;4.0;30.0;116.0;13.0;84.0;9.0;;2.0;7.0
+657;Vrouwen;15 tot 25 jarigen;2006;150.0;40.0;92.0;12.0;;;6.0;35.0;99.0;10.0;75.0;8.0;;;4.0
+658;Vrouwen;25 tot 35 jarigen;2000;184.0;103.0;43.0;23.0;2.0;6.0;7.0;96.0;102.0;20.0;28.0;14.0;6.0;21.0;12.0
+659;Vrouwen;25 tot 35 jarigen;2001;182.0;104.0;36.0;23.0;2.0;6.0;11.0;101.0;87.0;17.0;23.0;15.0;7.0;17.0;8.0
+660;Vrouwen;25 tot 35 jarigen;2002;148.0;86.0;28.0;22.0;;4.0;8.0;79.0;97.0;21.0;25.0;15.0;8.0;19.0;9.0
+661;Vrouwen;25 tot 35 jarigen;2003;131.0;71.0;27.0;21.0;2.0;2.0;7.0;68.0;107.0;23.0;27.0;20.0;7.0;20.0;10.0
+662;Vrouwen;25 tot 35 jarigen;2004;115.0;65.0;21.0;18.0;2.0;3.0;6.0;62.0;122.0;23.0;28.0;26.0;12.0;21.0;12.0
+663;Vrouwen;25 tot 35 jarigen;2005;114.0;57.0;25.0;19.0;;4.0;8.0;51.0;120.0;23.0;31.0;22.0;10.0;22.0;13.0
+664;Vrouwen;25 tot 35 jarigen;2006;143.0;74.0;32.0;22.0;2.0;6.0;8.0;70.0;102.0;18.0;26.0;18.0;12.0;15.0;12.0
+665;Vrouwen;35 tot 45 jarigen;2000;107.0;51.0;;13.0;3.0;33.0;8.0;47.0;130.0;11.0;;17.0;11.0;76.0;15.0
+666;Vrouwen;35 tot 45 jarigen;2001;111.0;52.0;;17.0;2.0;31.0;8.0;49.0;126.0;16.0;;17.0;11.0;65.0;16.0
+667;Vrouwen;35 tot 45 jarigen;2002;116.0;61.0;;15.0;3.0;31.0;7.0;60.0;118.0;14.0;;19.0;12.0;62.0;11.0
+668;Vrouwen;35 tot 45 jarigen;2003;94.0;48.0;;14.0;3.0;21.0;9.0;46.0;144.0;22.0;;24.0;18.0;64.0;17.0
+669;Vrouwen;35 tot 45 jarigen;2004;71.0;35.0;;14.0;2.0;14.0;6.0;31.0;159.0;21.0;;27.0;15.0;75.0;20.0
+670;Vrouwen;35 tot 45 jarigen;2005;73.0;37.0;;14.0;2.0;14.0;7.0;34.0;171.0;26.0;;31.0;17.0;77.0;20.0
+671;Vrouwen;35 tot 45 jarigen;2006;90.0;42.0;;19.0;3.0;15.0;10.0;36.0;169.0;19.0;;30.0;21.0;79.0;20.0
+672;Vrouwen;45 tot 55 jarigen;2000;50.0;22.0;;6.0;;15.0;6.0;21.0;107.0;9.0;;17.0;13.0;53.0;15.0
+673;Vrouwen;45 tot 55 jarigen;2001;62.0;28.0;;10.0;2.0;17.0;5.0;28.0;97.0;12.0;;12.0;15.0;49.0;10.0
+674;Vrouwen;45 tot 55 jarigen;2002;62.0;31.0;;11.0;2.0;14.0;4.0;33.0;95.0;12.0;;15.0;12.0;43.0;13.0
+675;Vrouwen;45 tot 55 jarigen;2003;48.0;25.0;;6.0;2.0;10.0;6.0;24.0;101.0;14.0;;17.0;17.0;39.0;14.0
+676;Vrouwen;45 tot 55 jarigen;2004;40.0;21.0;;8.0;;8.0;3.0;20.0;117.0;14.0;;21.0;19.0;49.0;14.0
+677;Vrouwen;45 tot 55 jarigen;2005;36.0;19.0;;8.0;2.0;5.0;3.0;17.0;129.0;17.0;;27.0;18.0;49.0;18.0
+678;Vrouwen;45 tot 55 jarigen;2006;46.0;21.0;;10.0;;9.0;5.0;18.0;122.0;12.0;;27.0;19.0;47.0;16.0
+679;Vrouwen;55 tot 65 jarigen;2000;4.0;2.0;;;;;;;30.0;2.0;;8.0;6.0;8.0;6.0
+680;Vrouwen;55 tot 65 jarigen;2001;8.0;3.0;;;;3.0;;3.0;30.0;;;7.0;6.0;12.0;4.0
+681;Vrouwen;55 tot 65 jarigen;2002;9.0;4.0;;2.0;;;;4.0;32.0;3.0;;7.0;5.0;11.0;6.0
+682;Vrouwen;55 tot 65 jarigen;2003;6.0;3.0;;;;;;2.0;38.0;5.0;;7.0;6.0;12.0;9.0
+683;Vrouwen;55 tot 65 jarigen;2004;6.0;2.0;;;;;;2.0;46.0;6.0;;10.0;7.0;14.0;9.0
+684;Vrouwen;55 tot 65 jarigen;2005;7.0;3.0;;2.0;;;;3.0;54.0;5.0;;14.0;8.0;16.0;11.0
+685;Vrouwen;55 tot 65 jarigen;2006;7.0;2.0;;3.0;;;;2.0;65.0;7.0;;19.0;10.0;17.0;11.0
+686;Vrouwen;Eenpersoonshuishouden;2000;85.0;35.0;29.0;11.0;;4.0;5.0;32.0;54.0;8.0;12.0;9.0;12.0;7.0;7.0
+687;Vrouwen;Eenpersoonshuishouden;2001;85.0;42.0;24.0;9.0;;2.0;6.0;41.0;54.0;10.0;11.0;10.0;9.0;10.0;5.0
+688;Vrouwen;Eenpersoonshuishouden;2002;78.0;43.0;18.0;9.0;2.0;3.0;4.0;40.0;54.0;8.0;12.0;8.0;8.0;11.0;6.0
+689;Vrouwen;Eenpersoonshuishouden;2003;65.0;29.0;17.0;10.0;;3.0;5.0;28.0;61.0;11.0;12.0;13.0;13.0;6.0;7.0
+690;Vrouwen;Eenpersoonshuishouden;2004;56.0;25.0;16.0;10.0;;;3.0;23.0;71.0;11.0;16.0;15.0;12.0;8.0;9.0
+691;Vrouwen;Eenpersoonshuishouden;2005;55.0;26.0;14.0;8.0;;2.0;4.0;24.0;83.0;13.0;16.0;19.0;14.0;10.0;11.0
+692;Vrouwen;Eenpersoonshuishouden;2006;69.0;31.0;19.0;10.0;;2.0;5.0;60.0;68.0;9.0;9.0;17.0;15.0;8.0;9.0
+693;Vrouwen;Alleenstaande ouder;2000;23.0;8.0;2.0;3.0;;7.0;2.0;8.0;45.0;4.0;5.0;6.0;3.0;21.0;5.0
+694;Vrouwen;Alleenstaande ouder;2001;29.0;11.0;3.0;4.0;;8.0;2.0;10.0;44.0;4.0;5.0;5.0;5.0;19.0;6.0
+695;Vrouwen;Alleenstaande ouder;2002;25.0;11.0;;4.0;;7.0;2.0;11.0;43.0;5.0;4.0;8.0;5.0;17.0;4.0
+696;Vrouwen;Alleenstaande ouder;2003;25.0;11.0;2.0;4.0;;5.0;2.0;11.0;54.0;6.0;4.0;9.0;8.0;21.0;6.0
+697;Vrouwen;Alleenstaande ouder;2004;20.0;8.0;;3.0;;5.0;2.0;8.0;64.0;5.0;5.0;14.0;9.0;22.0;9.0
+698;Vrouwen;Alleenstaande ouder;2005;22.0;8.0;;5.0;;4.0;2.0;7.0;70.0;10.0;5.0;12.0;10.0;25.0;8.0
+699;Vrouwen;Alleenstaande ouder;2006;26.0;9.0;2.0;5.0;;5.0;4.0;18.0;70.0;8.0;4.0;11.0;10.0;28.0;9.0
+700;Vrouwen;Lid van ouderpaar;2000;142.0;61.0;9.0;19.0;3.0;41.0;9.0;57.0;209.0;19.0;16.0;25.0;12.0;113.0;24.0
+701;Vrouwen;Lid van ouderpaar;2001;155.0;71.0;9.0;23.0;3.0;41.0;9.0;68.0;190.0;21.0;12.0;26.0;15.0;96.0;20.0
+702;Vrouwen;Lid van ouderpaar;2002;139.0;69.0;7.0;18.0;2.0;34.0;9.0;67.0;185.0;25.0;11.0;24.0;15.0;91.0;19.0
+703;Vrouwen;Lid van ouderpaar;2003;118.0;58.0;7.0;17.0;4.0;23.0;9.0;55.0;208.0;31.0;15.0;30.0;17.0;94.0;22.0
+704;Vrouwen;Lid van ouderpaar;2004;90.0;42.0;5.0;17.0;2.0;18.0;6.0;40.0;243.0;29.0;15.0;38.0;21.0;114.0;26.0
+705;Vrouwen;Lid van ouderpaar;2005;87.0;44.0;4.0;16.0;2.0;15.0;6.0;39.0;251.0;32.0;17.0;42.0;19.0;113.0;29.0
+706;Vrouwen;Lid van ouderpaar;2006;112.0;50.0;7.0;23.0;3.0;20.0;10.0;21.0;236.0;25.0;14.0;43.0;22.0;104.0;27.0
+707;Vrouwen;Ouderpaar, jongste kind 0 tot 6 jaar;2000;60.0;30.0;7.0;9.0;;10.0;3.0;27.0;78.0;10.0;12.0;14.0;4.0;31.0;8.0
+708;Vrouwen;Ouderpaar, jongste kind 0 tot 6 jaar;2001;68.0;34.0;7.0;12.0;;11.0;3.0;32.0;72.0;10.0;10.0;11.0;7.0;26.0;8.0
+709;Vrouwen;Ouderpaar, jongste kind 0 tot 6 jaar;2002;57.0;30.0;5.0;8.0;;10.0;4.0;29.0;76.0;12.0;9.0;11.0;7.0;30.0;7.0
+710;Vrouwen;Ouderpaar, jongste kind 0 tot 6 jaar;2003;52.0;27.0;6.0;8.0;;7.0;3.0;26.0;85.0;14.0;12.0;16.0;5.0;31.0;7.0
+711;Vrouwen;Ouderpaar, jongste kind 0 tot 6 jaar;2004;40.0;18.0;4.0;9.0;;7.0;2.0;18.0;98.0;17.0;12.0;17.0;8.0;33.0;10.0
+712;Vrouwen;Ouderpaar, jongste kind 0 tot 6 jaar;2005;40.0;20.0;3.0;8.0;;6.0;2.0;17.0;100.0;16.0;14.0;20.0;6.0;32.0;11.0
+713;Vrouwen;Ouderpaar, jongste kind 0 tot 6 jaar;2006;55.0;23.0;6.0;12.0;;8.0;5.0;10.0;86.0;13.0;11.0;17.0;5.0;29.0;10.0
+714;Vrouwen;Ouderpaar, jongste kind 6 tot 12 jaar;2000;41.0;15.0;2.0;4.0;;16.0;3.0;15.0;58.0;3.0;4.0;4.0;3.0;36.0;7.0
+715;Vrouwen;Ouderpaar, jongste kind 6 tot 12 jaar;2001;39.0;15.0;2.0;5.0;;14.0;4.0;14.0;53.0;4.0;2.0;8.0;4.0;31.0;5.0
+716;Vrouwen;Ouderpaar, jongste kind 6 tot 12 jaar;2002;41.0;17.0;2.0;5.0;;13.0;3.0;18.0;49.0;6.0;2.0;7.0;2.0;27.0;5.0
+717;Vrouwen;Ouderpaar, jongste kind 6 tot 12 jaar;2003;30.0;14.0;;3.0;;9.0;2.0;12.0;57.0;7.0;3.0;8.0;5.0;27.0;7.0
+718;Vrouwen;Ouderpaar, jongste kind 6 tot 12 jaar;2004;22.0;10.0;;4.0;;5.0;2.0;9.0;57.0;5.0;2.0;8.0;4.0;34.0;6.0
+719;Vrouwen;Ouderpaar, jongste kind 6 tot 12 jaar;2005;21.0;11.0;;3.0;;5.0;;9.0;64.0;7.0;3.0;8.0;4.0;35.0;7.0
+720;Vrouwen;Ouderpaar, jongste kind 6 tot 12 jaar;2006;29.0;12.0;;5.0;;6.0;3.0;8.0;67.0;6.0;2.0;10.0;7.0;35.0;7.0
+721;Vrouwen;Ouderpaar, jongste kind 12 tot 18 jaar;2000;31.0;13.0;;3.0;;12.0;2.0;12.0;44.0;4.0;;4.0;3.0;27.0;6.0
+722;Vrouwen;Ouderpaar, jongste kind 12 tot 18 jaar;2001;31.0;13.0;;4.0;;11.0;;13.0;37.0;4.0;;4.0;2.0;23.0;4.0
+723;Vrouwen;Ouderpaar, jongste kind 12 tot 18 jaar;2002;28.0;14.0;;3.0;;7.0;2.0;15.0;33.0;4.0;;4.0;3.0;19.0;4.0
+724;Vrouwen;Ouderpaar, jongste kind 12 tot 18 jaar;2003;25.0;12.0;;3.0;;5.0;3.0;11.0;41.0;5.0;;4.0;4.0;23.0;5.0
+725;Vrouwen;Ouderpaar, jongste kind 12 tot 18 jaar;2004;18.0;9.0;;3.0;;4.0;2.0;8.0;51.0;4.0;;7.0;4.0;29.0;6.0
+726;Vrouwen;Ouderpaar, jongste kind 12 tot 18 jaar;2005;16.0;7.0;;3.0;;3.0;2.0;7.0;51.0;6.0;;7.0;4.0;27.0;6.0
+727;Vrouwen;Ouderpaar, jongste kind 12 tot 18 jaar;2006;20.0;10.0;;3.0;;5.0;2.0;4.0;50.0;4.0;;8.0;5.0;26.0;6.0
+728;Vrouwen;Ouderpaar met jongste kind >=18 jaar;2000;10.0;3.0;;2.0;;4.0;;3.0;29.0;2.0;;4.0;2.0;18.0;3.0
+729;Vrouwen;Ouderpaar met jongste kind >=18 jaar;2001;18.0;9.0;;2.0;;6.0;;9.0;27.0;3.0;;3.0;3.0;17.0;2.0
+730;Vrouwen;Ouderpaar met jongste kind >=18 jaar;2002;13.0;6.0;;2.0;;3.0;;6.0;27.0;3.0;;2.0;3.0;15.0;3.0
+731;Vrouwen;Ouderpaar met jongste kind >=18 jaar;2003;11.0;6.0;;2.0;;2.0;;5.0;26.0;4.0;;3.0;4.0;13.0;2.0
+732;Vrouwen;Ouderpaar met jongste kind >=18 jaar;2004;10.0;6.0;;;;2.0;;5.0;38.0;4.0;;6.0;5.0;19.0;4.0
+733;Vrouwen;Ouderpaar met jongste kind >=18 jaar;2005;10.0;6.0;;3.0;;;;6.0;37.0;3.0;;6.0;4.0;19.0;4.0
+734;Vrouwen;Ouderpaar met jongste kind >=18 jaar;2006;9.0;5.0;;2.0;;;;8.0;33.0;3.0;;8.0;5.0;14.0;3.0
+735;Vrouwen;Lid van een paar (geen ouder);2000;167.0;95.0;44.0;13.0;2.0;4.0;8.0;87.0;83.0;15.0;10.0;19.0;8.0;19.0;13.0
+736;Vrouwen;Lid van een paar (geen ouder);2001;155.0;86.0;33.0;20.0;2.0;6.0;9.0;82.0;75.0;16.0;9.0;12.0;11.0;18.0;8.0
+737;Vrouwen;Lid van een paar (geen ouder);2002;148.0;81.0;32.0;21.0;;6.0;7.0;76.0;79.0;16.0;10.0;18.0;9.0;15.0;12.0
+738;Vrouwen;Lid van een paar (geen ouder);2003;124.0;66.0;27.0;19.0;2.0;3.0;8.0;63.0;93.0;21.0;12.0;19.0;10.0;15.0;16.0
+739;Vrouwen;Lid van een paar (geen ouder);2004;105.0;57.0;21.0;15.0;2.0;3.0;7.0;54.0;104.0;25.0;15.0;21.0;11.0;16.0;16.0
+740;Vrouwen;Lid van een paar (geen ouder);2005;100.0;49.0;24.0;18.0;;2.0;7.0;46.0;106.0;21.0;15.0;25.0;11.0;15.0;19.0
+741;Vrouwen;Lid van een paar (geen ouder);2006;126.0;65.0;28.0;22.0;;3.0;7.0;43.0;105.0;17.0;13.0;26.0;13.0;18.0;16.0
+742;Vrouwen;Minderjarig kind;2000;20.0;;20.0;;;;;;16.0;;16.0;;;;
+743;Vrouwen;Minderjarig kind;2001;21.0;;21.0;;;;;;16.0;;16.0;;;;
+744;Vrouwen;Minderjarig kind;2002;24.0;;24.0;;;;;;15.0;;15.0;;;;
+745;Vrouwen;Minderjarig kind;2003;18.0;;18.0;;;;;;20.0;;20.0;;;;
+746;Vrouwen;Minderjarig kind;2004;17.0;;17.0;;;;;;20.0;;20.0;;;;
+747;Vrouwen;Minderjarig kind;2005;17.0;;17.0;;;;;;23.0;;23.0;;;;
+748;Vrouwen;Minderjarig kind;2006;16.0;;16.0;;;;;4.0;22.0;;22.0;;;;
+749;Vrouwen;Meerderjarig kind;2000;81.0;20.0;44.0;4.0;;;12.0;19.0;28.0;3.0;17.0;;;;7.0
+750;Vrouwen;Meerderjarig kind;2001;86.0;24.0;56.0;4.0;;;2.0;23.0;27.0;4.0;21.0;;;;
+751;Vrouwen;Meerderjarig kind;2002;82.0;26.0;50.0;6.0;;;;23.0;28.0;5.0;21.0;;;;
+752;Vrouwen;Meerderjarig kind;2003;68.0;19.0;44.0;4.0;;;;17.0;40.0;8.0;27.0;3.0;;;2.0
+753;Vrouwen;Meerderjarig kind;2004;65.0;17.0;41.0;5.0;;;2.0;17.0;45.0;9.0;29.0;4.0;;;2.0
+754;Vrouwen;Meerderjarig kind;2005;70.0;18.0;43.0;6.0;;;3.0;16.0;48.0;8.0;34.0;4.0;;;2.0
+755;Vrouwen;Meerderjarig kind;2006;76.0;20.0;46.0;7.0;;;2.0;;47.0;6.0;34.0;4.0;;;2.0
+756;Vrouwen;Overig lid van een huishouden;2000;11.0;3.0;6.0;;;;;3.0;5.0;;2.0;;;;
+757;Vrouwen;Overig lid van een huishouden;2001;10.0;3.0;5.0;;;;;3.0;6.0;;3.0;;;;
+758;Vrouwen;Overig lid van een huishouden;2002;13.0;5.0;7.0;;;;;5.0;8.0;;5.0;;;;
+759;Vrouwen;Overig lid van een huishouden;2003;9.0;2.0;5.0;;;;;2.0;7.0;;4.0;;;;
+760;Vrouwen;Overig lid van een huishouden;2004;9.0;3.0;5.0;;;;;3.0;8.0;;4.0;;;;
+761;Vrouwen;Overig lid van een huishouden;2005;13.0;5.0;5.0;2.0;;;;4.0;10.0;;5.0;;;;
+762;Vrouwen;Overig lid van een huishouden;2006;12.0;4.0;5.0;;;;;4.0;9.0;;4.0;2.0;;;
+763;Vrouwen;CWI ingeschreven;2000;20.0;5.0;5.0;3.0;;5.0;2.0;4.0;95.0;17.0;13.0;18.0;9.0;25.0;14.0
+764;Vrouwen;CWI ingeschreven;2001;17.0;5.0;3.0;3.0;;3.0;2.0;4.0;86.0;19.0;12.0;16.0;9.0;21.0;10.0
+765;Vrouwen;CWI ingeschreven;2002;16.0;6.0;4.0;2.0;;2.0;;4.0;85.0;22.0;9.0;19.0;10.0;17.0;8.0
+766;Vrouwen;CWI ingeschreven;2003;15.0;4.0;3.0;2.0;;3.0;2.0;3.0;128.0;36.0;18.0;28.0;14.0;21.0;11.0
+767;Vrouwen;CWI ingeschreven;2004;18.0;5.0;3.0;4.0;;3.0;2.0;4.0;152.0;39.0;18.0;38.0;18.0;25.0;14.0
+768;Vrouwen;CWI ingeschreven;2005;21.0;7.0;3.0;6.0;;3.0;2.0;5.0;155.0;40.0;16.0;42.0;19.0;22.0;16.0
+769;Vrouwen;CWI ingeschreven;2006;25.0;6.0;4.0;6.0;2.0;4.0;3.0;152.0;135.0;29.0;10.0;41.0;19.0;23.0;13.0
+770;Vrouwen;Onderwijsniveau: lager;2000;143.0;45.0;42.0;14.0;3.0;26.0;13.0;41.0;205.0;15.0;42.0;28.0;15.0;81.0;24.0
+771;Vrouwen;Onderwijsniveau: lager;2001;150.0;50.0;50.0;16.0;3.0;25.0;6.0;47.0;191.0;17.0;43.0;22.0;20.0;75.0;13.0
+772;Vrouwen;Onderwijsniveau: lager;2002;144.0;52.0;51.0;15.0;2.0;20.0;5.0;49.0;184.0;20.0;42.0;24.0;18.0;66.0;15.0
+773;Vrouwen;Onderwijsniveau: lager;2003;114.0;38.0;38.0;14.0;3.0;13.0;7.0;35.0;213.0;30.0;51.0;29.0;21.0;66.0;17.0
+774;Vrouwen;Onderwijsniveau: lager;2004;91.0;28.0;35.0;13.0;2.0;10.0;4.0;27.0;224.0;26.0;51.0;33.0;23.0;75.0;16.0
+775;Vrouwen;Onderwijsniveau: lager;2005;87.0;27.0;33.0;13.0;;7.0;6.0;23.0;233.0;23.0;56.0;38.0;20.0;74.0;22.0
+776;Vrouwen;Onderwijsniveau: lager;2006;100.0;27.0;36.0;15.0;3.0;12.0;7.0;23.0;218.0;18.0;51.0;38.0;25.0;67.0;19.0
+777;Vrouwen;Onderwijsniveau: middelbaar;2000;245.0;112.0;69.0;27.0;3.0;19.0;17.0;103.0;167.0;22.0;25.0;23.0;14.0;63.0;20.0
+778;Vrouwen;Onderwijsniveau: middelbaar;2001;254.0;120.0;62.0;31.0;3.0;24.0;13.0;116.0;158.0;25.0;27.0;22.0;16.0;51.0;17.0
+779;Vrouwen;Onderwijsniveau: middelbaar;2002;223.0;105.0;56.0;27.0;2.0;21.0;12.0;99.0;160.0;27.0;25.0;25.0;13.0;54.0;15.0
+780;Vrouwen;Onderwijsniveau: middelbaar;2003;189.0;89.0;48.0;24.0;3.0;14.0;12.0;82.0;186.0;31.0;31.0;31.0;20.0;54.0;20.0
+781;Vrouwen;Onderwijsniveau: middelbaar;2004;153.0;66.0;43.0;21.0;2.0;12.0;9.0;60.0;226.0;35.0;37.0;41.0;22.0;62.0;29.0
+782;Vrouwen;Onderwijsniveau: middelbaar;2005;153.0;66.0;39.0;23.0;3.0;11.0;11.0;57.0;252.0;40.0;43.0;44.0;24.0;69.0;31.0
+783;Vrouwen;Onderwijsniveau: middelbaar;2006;190.0;80.0;50.0;31.0;3.0;13.0;15.0;71.0;233.0;32.0;33.0;45.0;26.0;69.0;27.0
+784;Vrouwen;Onderwijsniveau: hoger;2000;138.0;66.0;43.0;11.0;;10.0;7.0;62.0;66.0;12.0;10.0;9.0;6.0;15.0;13.0
+785;Vrouwen;Onderwijsniveau: hoger;2001;135.0;66.0;37.0;15.0;;8.0;9.0;64.0;63.0;14.0;8.0;10.0;5.0;17.0;9.0
+786;Vrouwen;Onderwijsniveau: hoger;2002;141.0;76.0;33.0;17.0;;8.0;7.0;74.0;67.0;13.0;10.0;10.0;7.0;16.0;11.0
+787;Vrouwen;Onderwijsniveau: hoger;2003;122.0;57.0;34.0;16.0;2.0;6.0;7.0;57.0;81.0;17.0;11.0;15.0;8.0;16.0;15.0
+788;Vrouwen;Onderwijsniveau: hoger;2004;115.0;57.0;28.0;17.0;;5.0;7.0;56.0;101.0;19.0;18.0;18.0;9.0;22.0;16.0
+789;Vrouwen;Onderwijsniveau: hoger;2005;122.0;58.0;36.0;17.0;;5.0;6.0;55.0;100.0;20.0;14.0;21.0;10.0;19.0;15.0
+790;Vrouwen;Onderwijsniveau: hoger;2006;143.0;71.0;37.0;21.0;;5.0;8.0;65.0;100.0;17.0;15.0;19.0;10.0;21.0;17.0
+791;Vrouwen;Onderwijsniveau: onbekend;2000;2.0;;;;;;;;2.0;;;;;;
+792;Vrouwen;Onderwijsniveau: onbekend;2001;2.0;;;;;;;;;;;;;;
+793;Vrouwen;Onderwijsniveau: onbekend;2002;;;;;;;;;2.0;;;;;;
+794;Vrouwen;Onderwijsniveau: onbekend;2003;;;;;;;;;2.0;;;;;;
+795;Vrouwen;Onderwijsniveau: onbekend;2004;;;;;;;;;5.0;;;;;;
+796;Vrouwen;Onderwijsniveau: onbekend;2005;;;;;;;;;7.0;;;;2.0;2.0;
+797;Vrouwen;Onderwijsniveau: onbekend;2006;2.0;;;;;;;;6.0;;;;;2.0;
+798;Vrouwen;Autochtonen;2000;429.0;186.0;121.0;42.0;5.0;45.0;31.0;173.0;314.0;38.0;47.0;46.0;28.0;120.0;36.0
+799;Vrouwen;Autochtonen;2001;425.0;191.0;118.0;45.0;6.0;46.0;19.0;183.0;299.0;40.0;50.0;42.0;30.0;115.0;23.0
+800;Vrouwen;Autochtonen;2002;404.0;195.0;103.0;46.0;5.0;35.0;18.0;188.0;292.0;44.0;51.0;40.0;29.0;104.0;26.0
+801;Vrouwen;Autochtonen;2003;339.0;154.0;91.0;42.0;7.0;27.0;19.0;145.0;329.0;55.0;52.0;53.0;39.0;102.0;29.0
+802;Vrouwen;Autochtonen;2004;287.0;125.0;80.0;40.0;5.0;20.0;17.0;119.0;374.0;55.0;63.0;64.0;40.0;117.0;34.0
+803;Vrouwen;Autochtonen;2005;288.0;126.0;83.0;41.0;4.0;16.0;18.0;113.0;402.0;59.0;65.0;73.0;40.0;124.0;42.0
+804;Vrouwen;Autochtonen;2006;335.0;141.0;91.0;51.0;5.0;24.0;23.0;128.0;367.0;45.0;62.0;69.0;42.0;112.0;37.0
+805;Vrouwen;Allochtonen;2000;99.0;37.0;34.0;9.0;;10.0;6.0;34.0;125.0;11.0;30.0;15.0;8.0;40.0;21.0
+806;Vrouwen;Allochtonen;2001;116.0;46.0;32.0;17.0;;12.0;9.0;44.0;114.0;16.0;28.0;13.0;11.0;28.0;17.0
+807;Vrouwen;Allochtonen;2002;106.0;39.0;36.0;12.0;;14.0;5.0;35.0;121.0;17.0;27.0;20.0;9.0;32.0;16.0
+808;Vrouwen;Allochtonen;2003;87.0;31.0;29.0;12.0;;7.0;7.0;29.0;154.0;23.0;41.0;21.0;10.0;34.0;23.0
+809;Vrouwen;Allochtonen;2004;74.0;28.0;25.0;11.0;;7.0;3.0;25.0;181.0;25.0;43.0;29.0;13.0;44.0;27.0
+810;Vrouwen;Allochtonen;2005;76.0;25.0;25.0;13.0;;7.0;4.0;22.0;188.0;25.0;49.0;31.0;15.0;40.0;27.0
+811;Vrouwen;Allochtonen;2006;101.0;37.0;32.0;16.0;;7.0;7.0;33.0;189.0;22.0;40.0;34.0;20.0;48.0;27.0
+812;Vrouwen;Westerse allochtonen;2000;54.0;24.0;15.0;5.0;;4.0;4.0;22.0;58.0;7.0;9.0;7.0;4.0;20.0;12.0
+813;Vrouwen;Westerse allochtonen;2001;63.0;29.0;11.0;10.0;;7.0;6.0;29.0;53.0;9.0;9.0;5.0;7.0;14.0;9.0
+814;Vrouwen;Westerse allochtonen;2002;51.0;22.0;13.0;8.0;;5.0;3.0;21.0;51.0;9.0;7.0;10.0;4.0;13.0;7.0
+815;Vrouwen;Westerse allochtonen;2003;45.0;17.0;14.0;6.0;;4.0;4.0;17.0;63.0;11.0;11.0;10.0;5.0;13.0;13.0
+816;Vrouwen;Westerse allochtonen;2004;37.0;17.0;9.0;6.0;;3.0;2.0;15.0;74.0;14.0;14.0;12.0;6.0;15.0;14.0
+817;Vrouwen;Westerse allochtonen;2005;40.0;14.0;13.0;7.0;;4.0;2.0;13.0;71.0;12.0;13.0;15.0;7.0;14.0;11.0
+818;Vrouwen;Westerse allochtonen;2006;52.0;22.0;14.0;11.0;;2.0;3.0;18.0;67.0;9.0;8.0;14.0;8.0;17.0;12.0
+819;Vrouwen;Niet-westerse allochtonen;2000;45.0;13.0;19.0;4.0;;6.0;3.0;12.0;67.0;4.0;21.0;8.0;4.0;20.0;9.0
+820;Vrouwen;Niet-westerse allochtonen;2001;53.0;17.0;21.0;7.0;;5.0;3.0;15.0;60.0;6.0;19.0;8.0;4.0;14.0;8.0
+821;Vrouwen;Niet-westerse allochtonen;2002;56.0;17.0;23.0;4.0;;10.0;2.0;14.0;70.0;8.0;20.0;10.0;5.0;19.0;8.0
+822;Vrouwen;Niet-westerse allochtonen;2003;42.0;14.0;15.0;6.0;;3.0;4.0;12.0;91.0;12.0;30.0;12.0;5.0;21.0;10.0
+823;Vrouwen;Niet-westerse allochtonen;2004;37.0;11.0;16.0;5.0;;4.0;;10.0;108.0;12.0;29.0;17.0;7.0;29.0;13.0
+824;Vrouwen;Niet-westerse allochtonen;2005;36.0;11.0;13.0;6.0;;3.0;2.0;10.0;117.0;14.0;36.0;16.0;9.0;26.0;16.0
+825;Vrouwen;Niet-westerse allochtonen;2006;49.0;16.0;19.0;5.0;;4.0;4.0;14.0;122.0;13.0;32.0;20.0;12.0;30.0;15.0
+826;Vrouwen;Herkomst: onbekend;2000;;;;;;;;;;;;;;;
+827;Vrouwen;Herkomst: onbekend;2001;;;;;;;;;;;;;;;
+828;Vrouwen;Herkomst: onbekend;2002;;;;;;;;;;;;;;;
+829;Vrouwen;Herkomst: onbekend;2003;;;;;;;;;;;;;;;
+830;Vrouwen;Herkomst: onbekend;2004;;;;;;;;;;;;;;;
+831;Vrouwen;Herkomst: onbekend;2005;;;;;;;;;;;;;;;
+832;Vrouwen;Herkomst: onbekend;2006;;;;;;;;27.0;;;;;;;
+833;Vrouwen;Had een baan < 1 jaar geleden;2000;223.0;223.0;;;;;;198.0;49.0;49.0;;;;;
+834;Vrouwen;Had een baan < 1 jaar geleden;2001;237.0;237.0;;;;;;214.0;56.0;56.0;;;;;
+835;Vrouwen;Had een baan < 1 jaar geleden;2002;234.0;234.0;;;;;;207.0;60.0;60.0;;;;;
+836;Vrouwen;Had een baan < 1 jaar geleden;2003;185.0;185.0;;;;;;163.0;78.0;78.0;;;;;
+837;Vrouwen;Had een baan < 1 jaar geleden;2004;153.0;153.0;;;;;;134.0;80.0;80.0;;;;;
+838;Vrouwen;Had een baan < 1 jaar geleden;2005;151.0;151.0;;;;;;128.0;84.0;84.0;;;;;
+839;Vrouwen;Had een baan < 1 jaar geleden;2006;179.0;179.0;;;;;;8.0;66.0;66.0;;;;;
+840;Vrouwen;Had een baan 1 tot 2 jaar geleden;2000;44.0;;3.0;42.0;;;;9.0;27.0;;;26.0;;;
+841;Vrouwen;Had een baan 1 tot 2 jaar geleden;2001;52.0;;;50.0;;;;12.0;29.0;;;29.0;;;
+842;Vrouwen;Had een baan 1 tot 2 jaar geleden;2002;54.0;;3.0;51.0;;;;16.0;33.0;;;32.0;;;
+843;Vrouwen;Had een baan 1 tot 2 jaar geleden;2003;48.0;;;47.0;;;;11.0;45.0;;;44.0;;;
+844;Vrouwen;Had een baan 1 tot 2 jaar geleden;2004;45.0;;;44.0;;;;10.0;53.0;;;53.0;;;
+845;Vrouwen;Had een baan 1 tot 2 jaar geleden;2005;46.0;;;45.0;;;;7.0;50.0;;;49.0;;;
+846;Vrouwen;Had een baan 1 tot 2 jaar geleden;2006;51.0;;;50.0;;;;;43.0;;;43.0;;;
+847;Vrouwen;Had een baan 2 tot 5  jaar geleden;2000;24.0;;;5.0;4.0;5.0;10.0;;52.0;;;11.0;12.0;12.0;15.0
+848;Vrouwen;Had een baan 2 tot 5  jaar geleden;2001;29.0;;;6.0;4.0;4.0;13.0;;47.0;;;9.0;15.0;10.0;13.0
+849;Vrouwen;Had een baan 2 tot 5  jaar geleden;2002;23.0;;;4.0;3.0;4.0;11.0;;58.0;;2.0;11.0;17.0;13.0;15.0
+850;Vrouwen;Had een baan 2 tot 5  jaar geleden;2003;25.0;;2.0;5.0;5.0;2.0;12.0;;67.0;;;14.0;17.0;15.0;21.0
+851;Vrouwen;Had een baan 2 tot 5  jaar geleden;2004;24.0;;;6.0;4.0;4.0;10.0;;88.0;;;20.0;21.0;19.0;27.0
+852;Vrouwen;Had een baan 2 tot 5  jaar geleden;2005;23.0;;;6.0;2.0;3.0;10.0;;93.0;;;30.0;19.0;15.0;29.0
+853;Vrouwen;Had een baan 2 tot 5  jaar geleden;2006;35.0;;2.0;12.0;4.0;5.0;13.0;;91.0;;;34.0;18.0;15.0;24.0
+854;Vrouwen;Had een baan 5 tot 10 jaar geleden;2000;17.0;;;2.0;2.0;8.0;4.0;;64.0;;2.0;12.0;10.0;28.0;13.0
+855;Vrouwen;Had een baan 5 tot 10 jaar geleden;2001;15.0;;;3.0;2.0;6.0;4.0;;55.0;;;8.0;10.0;23.0;14.0
+856;Vrouwen;Had een baan 5 tot 10 jaar geleden;2002;10.0;;;2.0;2.0;4.0;2.0;;50.0;;;7.0;10.0;23.0;10.0
+857;Vrouwen;Had een baan 5 tot 10 jaar geleden;2003;12.0;;;2.0;2.0;5.0;3.0;;60.0;;;8.0;15.0;24.0;12.0
+858;Vrouwen;Had een baan 5 tot 10 jaar geleden;2004;7.0;;;;;3.0;;;68.0;;;11.0;19.0;22.0;15.0
+859;Vrouwen;Had een baan 5 tot 10 jaar geleden;2005;9.0;;;;;3.0;3.0;;80.0;;;11.0;21.0;29.0;18.0
+860;Vrouwen;Had een baan 5 tot 10 jaar geleden;2006;16.0;;;3.0;2.0;5.0;6.0;;87.0;;;12.0;27.0;27.0;20.0
+861;Vrouwen;Had een baan > 10 jaar geleden;2000;23.0;;;2.0;;16.0;4.0;;143.0;;;12.0;13.0;96.0;22.0
+862;Vrouwen;Had een baan > 10 jaar geleden;2001;30.0;;;2.0;;22.0;4.0;;130.0;;;10.0;15.0;91.0;14.0
+863;Vrouwen;Had een baan > 10 jaar geleden;2002;22.0;;;2.0;;17.0;2.0;;113.0;;;9.0;11.0;77.0;16.0
+864;Vrouwen;Had een baan > 10 jaar geleden;2003;16.0;;;;;12.0;3.0;;115.0;;;8.0;16.0;72.0;20.0
+865;Vrouwen;Had een baan > 10 jaar geleden;2004;10.0;;;;;7.0;;;131.0;;;10.0;13.0;88.0;19.0
+866;Vrouwen;Had een baan > 10 jaar geleden;2005;10.0;;;;;6.0;2.0;;144.0;;;13.0;15.0;94.0;22.0
+867;Vrouwen;Had een baan > 10 jaar geleden;2006;15.0;;;;;9.0;3.0;;137.0;;;15.0;17.0;85.0;20.0
+868;Vrouwen;Heeft nooit een baan gehad;2000;152.0;;126.0;;;27.0;;;80.0;;56.0;;;24.0;
+869;Vrouwen;Heeft nooit een baan gehad;2001;150.0;;126.0;;;24.0;;;80.0;;60.0;;;19.0;
+870;Vrouwen;Heeft nooit een baan gehad;2002;134.0;;111.0;;;24.0;;;84.0;;60.0;;;23.0;
+871;Vrouwen;Heeft nooit een baan gehad;2003;112.0;;98.0;;;15.0;;;96.0;;70.0;;;26.0;
+872;Vrouwen;Heeft nooit een baan gehad;2004;97.0;;85.0;;;12.0;;;113.0;;82.0;;;31.0;
+873;Vrouwen;Heeft nooit een baan gehad;2005;100.0;;88.0;;;11.0;;;116.0;;89.0;;;27.0;
+874;Vrouwen;Heeft nooit een baan gehad;2006;115.0;;103.0;;;12.0;;;109.0;;77.0;;;32.0;
+875;Vrouwen;Onbekend of men ooit baan heeft gehad;2000;44.0;;25.0;;;;19.0;;25.0;;18.0;;;;7.0
+876;Vrouwen;Onbekend of men ooit baan heeft gehad;2001;29.0;;22.0;;;;7.0;;17.0;;17.0;;;;
+877;Vrouwen;Onbekend of men ooit baan heeft gehad;2002;33.0;;25.0;;;;8.0;;15.0;;15.0;;;;
+878;Vrouwen;Onbekend of men ooit baan heeft gehad;2003;27.0;;18.0;;;;9.0;;21.0;;21.0;;;;
+879;Vrouwen;Onbekend of men ooit baan heeft gehad;2004;24.0;;17.0;;;;7.0;;21.0;;21.0;;;;
+880;Vrouwen;Onbekend of men ooit baan heeft gehad;2005;24.0;;17.0;;;;7.0;;23.0;;23.0;;;;
+881;Vrouwen;Onbekend of men ooit baan heeft gehad;2006;25.0;;17.0;;;;8.0;120.0;23.0;;23.0;;;;
+882;Vrouwen;Kan op korte termijn beginnen;2000;;;;;;;;;310.0;35.0;55.0;45.0;21.0;113.0;41.0
+883;Vrouwen;Kan op korte termijn beginnen;2001;;;;;;;;;283.0;41.0;52.0;39.0;22.0;100.0;28.0
+884;Vrouwen;Kan op korte termijn beginnen;2002;;;;;;;;;281.0;46.0;52.0;43.0;23.0;89.0;28.0
+885;Vrouwen;Kan op korte termijn beginnen;2003;;;;;;;;;354.0;67.0;69.0;57.0;30.0;96.0;35.0
+886;Vrouwen;Kan op korte termijn beginnen;2004;;;;;;;;;427.0;71.0;81.0;76.0;37.0;116.0;48.0
+887;Vrouwen;Kan op korte termijn beginnen;2005;;;;;;;;;442.0;69.0;86.0;80.0;35.0;119.0;53.0
+888;Vrouwen;Kan op korte termijn beginnen;2006;;;;;;;;;419.0;55.0;80.0;81.0;39.0;118.0;47.0
+889;Vrouwen;Afgelopen 4 weken gezocht;2000;;;;;;;;;157.0;26.0;33.0;24.0;9.0;46.0;20.0
+890;Vrouwen;Afgelopen 4 weken gezocht;2001;;;;;;;;;143.0;30.0;33.0;20.0;8.0;40.0;13.0
+891;Vrouwen;Afgelopen 4 weken gezocht;2002;;;;;;;;;155.0;35.0;32.0;25.0;11.0;39.0;13.0
+892;Vrouwen;Afgelopen 4 weken gezocht;2003;;;;;;;;;194.0;52.0;40.0;35.0;13.0;41.0;14.0
+893;Vrouwen;Afgelopen 4 weken gezocht;2004;;;;;;;;;233.0;57.0;44.0;49.0;19.0;42.0;21.0
+894;Vrouwen;Afgelopen 4 weken gezocht;2005;;;;;;;;;245.0;55.0;49.0;55.0;18.0;42.0;25.0
+895;Vrouwen;Afgelopen 4 weken gezocht;2006;;;;;;;;;222.0;43.0;45.0;51.0;18.0;43.0;21.0
+896;Vrouwen;Afgelopen 4 weken niet gezocht;2000;;;;;;;;;153.0;9.0;22.0;21.0;12.0;68.0;21.0
+897;Vrouwen;Afgelopen 4 weken niet gezocht;2001;;;;;;;;;139.0;11.0;19.0;19.0;15.0;60.0;15.0
+898;Vrouwen;Afgelopen 4 weken niet gezocht;2002;;;;;;;;;126.0;11.0;20.0;18.0;12.0;50.0;15.0
+899;Vrouwen;Afgelopen 4 weken niet gezocht;2003;;;;;;;;;160.0;15.0;29.0;22.0;18.0;55.0;21.0
+900;Vrouwen;Afgelopen 4 weken niet gezocht;2004;;;;;;;;;194.0;13.0;36.0;26.0;18.0;74.0;26.0
+901;Vrouwen;Afgelopen 4 weken niet gezocht;2005;;;;;;;;;198.0;13.0;37.0;25.0;17.0;77.0;28.0
+902;Vrouwen;Afgelopen 4 weken niet gezocht;2006;;;;;;;;;198.0;12.0;35.0;29.0;21.0;76.0;26.0
+903;Vrouwen;Kan niet op korte termijn beginnen;2000;;;;;;;;;129.0;14.0;22.0;15.0;15.0;47.0;16.0
+904;Vrouwen;Kan niet op korte termijn beginnen;2001;;;;;;;;;130.0;15.0;26.0;16.0;18.0;43.0;12.0
+905;Vrouwen;Kan niet op korte termijn beginnen;2002;;;;;;;;;132.0;14.0;26.0;17.0;15.0;47.0;14.0
+906;Vrouwen;Kan niet op korte termijn beginnen;2003;;;;;;;;;128.0;11.0;24.0;17.0;19.0;40.0;18.0
+907;Vrouwen;Kan niet op korte termijn beginnen;2004;;;;;;;;;128.0;10.0;25.0;18.0;17.0;45.0;13.0
+908;Vrouwen;Kan niet op korte termijn beginnen;2005;;;;;;;;;148.0;15.0;29.0;23.0;20.0;45.0;16.0
+909;Vrouwen;Kan niet op korte termijn beginnen;2006;;;;;;;;;137.0;11.0;22.0;22.0;23.0;42.0;17.0
+910;Vrouwen;Werknemers vaste arbeidsrelatie;2000;368.0;177.0;92.0;35.0;4.0;36.0;22.0;170.0;46.0;3.0;8.0;5.0;2.0;22.0;6.0
+911;Vrouwen;Werknemers vaste arbeidsrelatie;2001;394.0;193.0;95.0;45.0;5.0;35.0;21.0;189.0;44.0;3.0;9.0;5.0;;23.0;3.0
+912;Vrouwen;Werknemers vaste arbeidsrelatie;2002;359.0;185.0;80.0;42.0;4.0;31.0;17.0;183.0;47.0;3.0;10.0;7.0;;22.0;5.0
+913;Vrouwen;Werknemers vaste arbeidsrelatie;2003;305.0;150.0;73.0;38.0;5.0;21.0;17.0;147.0;54.0;3.0;11.0;7.0;2.0;24.0;7.0
+914;Vrouwen;Werknemers vaste arbeidsrelatie;2004;239.0;118.0;60.0;32.0;3.0;15.0;12.0;115.0;62.0;4.0;14.0;9.0;2.0;28.0;6.0
+915;Vrouwen;Werknemers vaste arbeidsrelatie;2005;218.0;106.0;53.0;32.0;3.0;11.0;13.0;101.0;70.0;6.0;14.0;9.0;2.0;32.0;7.0
+916;Vrouwen;Werknemers vaste arbeidsrelatie;2006;263.0;129.0;59.0;41.0;3.0;16.0;15.0;33.0;61.0;3.0;14.0;7.0;3.0;29.0;5.0
+917;Vrouwen;Werknemers flexibele arbeidsrelatie;2000;141.0;38.0;59.0;14.0;;16.0;13.0;30.0;49.0;4.0;12.0;5.0;;21.0;5.0
+918;Vrouwen;Werknemers flexibele arbeidsrelatie;2001;129.0;36.0;53.0;13.0;2.0;18.0;6.0;31.0;39.0;3.0;13.0;5.0;;14.0;3.0
+919;Vrouwen;Werknemers flexibele arbeidsrelatie;2002;131.0;40.0;55.0;14.0;;16.0;6.0;33.0;36.0;3.0;13.0;4.0;;12.0;3.0
+920;Vrouwen;Werknemers flexibele arbeidsrelatie;2003;104.0;28.0;45.0;14.0;2.0;9.0;6.0;21.0;42.0;5.0;15.0;5.0;;13.0;3.0
+921;Vrouwen;Werknemers flexibele arbeidsrelatie;2004;103.0;27.0;43.0;16.0;2.0;9.0;6.0;22.0;52.0;6.0;20.0;5.0;2.0;14.0;6.0
+922;Vrouwen;Werknemers flexibele arbeidsrelatie;2005;123.0;32.0;53.0;19.0;2.0;9.0;8.0;23.0;53.0;4.0;18.0;7.0;2.0;17.0;7.0
+923;Vrouwen;Werknemers flexibele arbeidsrelatie;2006;150.0;41.0;61.0;22.0;2.0;11.0;12.0;7.0;50.0;2.0;20.0;6.0;2.0;15.0;5.0
+924;Vrouwen;Zelfstandigen;2000;19.0;8.0;3.0;2.0;;4.0;2.0;8.0;12.0;;;;;8.0;2.0
+925;Vrouwen;Zelfstandigen;2001;19.0;7.0;2.0;3.0;;5.0;2.0;7.0;11.0;;;;;6.0;2.0
+926;Vrouwen;Zelfstandigen;2002;20.0;9.0;5.0;2.0;;3.0;;7.0;11.0;;;;;5.0;
+927;Vrouwen;Zelfstandigen;2003;18.0;7.0;2.0;;;3.0;2.0;6.0;10.0;;;;2.0;5.0;2.0
+928;Vrouwen;Zelfstandigen;2004;19.0;8.0;3.0;3.0;;3.0;2.0;7.0;18.0;2.0;;3.0;;6.0;4.0
+929;Vrouwen;Zelfstandigen;2005;22.0;12.0;2.0;3.0;;3.0;2.0;12.0;19.0;2.0;;5.0;;6.0;3.0
+930;Vrouwen;Zelfstandigen;2006;23.0;9.0;3.0;4.0;;3.0;3.0;17.0;19.0;2.0;2.0;4.0;;7.0;3.0
+931;Vrouwen;Abeidsrelatie: onbekend;2000;;;;;;;;;332.0;41.0;56.0;50.0;33.0;109.0;44.0
+932;Vrouwen;Abeidsrelatie: onbekend;2001;;;;;;;;;319.0;48.0;56.0;44.0;37.0;100.0;32.0
+933;Vrouwen;Abeidsrelatie: onbekend;2002;;;;;;;;;319.0;53.0;55.0;48.0;35.0;96.0;33.0
+934;Vrouwen;Abeidsrelatie: onbekend;2003;;;;;;;;;376.0;70.0;67.0;60.0;44.0;94.0;41.0
+935;Vrouwen;Abeidsrelatie: onbekend;2004;;;;;;;;;423.0;69.0;71.0;76.0;49.0;113.0;45.0
+936;Vrouwen;Abeidsrelatie: onbekend;2005;;;;;;;;;448.0;73.0;81.0;83.0;50.0;109.0;52.0
+937;Vrouwen;Abeidsrelatie: onbekend;2006;;;;;;;;65.0;426.0;60.0;66.0;86.0;56.0;108.0;50.0
+938;Vrouwen;Arbeidsduur: 12 tot 20 uur;2000;79.0;22.0;22.0;9.0;2.0;19.0;6.0;19.0;;;;;;;
+939;Vrouwen;Arbeidsduur: 12 tot 20 uur;2001;96.0;24.0;27.0;15.0;3.0;24.0;4.0;23.0;;;;;;;
+940;Vrouwen;Arbeidsduur: 12 tot 20 uur;2002;89.0;27.0;27.0;11.0;;18.0;4.0;25.0;;;;;;;
+941;Vrouwen;Arbeidsduur: 12 tot 20 uur;2003;77.0;24.0;24.0;10.0;2.0;13.0;4.0;21.0;;;;;;;
+942;Vrouwen;Arbeidsduur: 12 tot 20 uur;2004;63.0;18.0;19.0;9.0;2.0;11.0;3.0;16.0;;;;;;;
+943;Vrouwen;Arbeidsduur: 12 tot 20 uur;2005;65.0;18.0;23.0;9.0;2.0;9.0;4.0;15.0;;;;;;;
+944;Vrouwen;Arbeidsduur: 12 tot 20 uur;2006;79.0;20.0;29.0;12.0;2.0;10.0;6.0;78.0;;;;;;;
+945;Vrouwen;Arbeidsduur : 20 tot 35 uur;2000;213.0;89.0;57.0;20.0;3.0;28.0;15.0;80.0;;;;;;;
+946;Vrouwen;Arbeidsduur : 20 tot 35 uur;2001;222.0;101.0;52.0;26.0;4.0;26.0;13.0;96.0;;;;;;;
+947;Vrouwen;Arbeidsduur : 20 tot 35 uur;2002;222.0;104.0;53.0;29.0;4.0;22.0;11.0;100.0;;;;;;;
+948;Vrouwen;Arbeidsduur : 20 tot 35 uur;2003;192.0;86.0;48.0;26.0;4.0;16.0;13.0;81.0;;;;;;;
+949;Vrouwen;Arbeidsduur : 20 tot 35 uur;2004;154.0;68.0;39.0;24.0;3.0;11.0;9.0;64.0;;;;;;;
+950;Vrouwen;Arbeidsduur : 20 tot 35 uur;2005;157.0;68.0;41.0;24.0;2.0;11.0;11.0;59.0;;;;;;;
+951;Vrouwen;Arbeidsduur : 20 tot 35 uur;2006;181.0;74.0;45.0;32.0;3.0;16.0;11.0;;;;;;;;
+952;Vrouwen;Arbeidsduur: 35 uur of meer;2000;236.0;113.0;76.0;22.0;2.0;8.0;16.0;108.0;;;;;;;
+953;Vrouwen;Arbeidsduur: 35 uur of meer;2001;224.0;112.0;72.0;21.0;;8.0;11.0;108.0;;;;;;;
+954;Vrouwen;Arbeidsduur: 35 uur of meer;2002;198.0;103.0;59.0;18.0;;9.0;8.0;98.0;;;;;;;
+955;Vrouwen;Arbeidsduur: 35 uur of meer;2003;157.0;75.0;49.0;18.0;2.0;5.0;8.0;72.0;;;;;;;
+956;Vrouwen;Arbeidsduur: 35 uur of meer;2004;145.0;67.0;47.0;18.0;;4.0;8.0;64.0;;;;;;;
+957;Vrouwen;Arbeidsduur: 35 uur of meer;2005;142.0;65.0;44.0;21.0;;3.0;7.0;62.0;;;;;;;
+958;Vrouwen;Arbeidsduur: 35 uur of meer;2006;176.0;85.0;49.0;23.0;2.0;4.0;13.0;;;;;;;;
+959;Vrouwen;Arbeidsduur: onbekend;2000;;;;;;;;;439.0;49.0;77.0;61.0;36.0;160.0;57.0
+960;Vrouwen;Arbeidsduur: onbekend;2001;;;;;;;;;413.0;56.0;78.0;55.0;40.0;144.0;40.0
+961;Vrouwen;Arbeidsduur: onbekend;2002;;;;;;;;;413.0;60.0;78.0;59.0;38.0;136.0;41.0
+962;Vrouwen;Arbeidsduur: onbekend;2003;;;;;;;;;483.0;78.0;93.0;74.0;49.0;136.0;52.0
+963;Vrouwen;Arbeidsduur: onbekend;2004;;;;;;;;;555.0;80.0;106.0;93.0;54.0;161.0;61.0
+964;Vrouwen;Arbeidsduur: onbekend;2005;;;;;;;;;590.0;84.0;115.0;103.0;55.0;164.0;69.0
+965;Vrouwen;Arbeidsduur: onbekend;2006;;;;;;;;;556.0;66.0;101.0;103.0;62.0;160.0;64.0

@@ -1,0 +1,361 @@
+﻿ID;Geslacht;Leeftijd;Cijfersoort;RegioS;LevensverwInGoedErvarenGezondheid_1;LevensverwZonderLichBeperkingen_2;LevensverwZonderChronischeZiektes_3
+0;Mannen;1;Aantal jaren;Nederland;62.3;69.4;47.9
+1;Mannen;1;Aantal jaren;Noord Nederland;62.8;69.6;46.9
+2;Mannen;1;Aantal jaren;Oost Nederland;62.7;69.2;48.7
+3;Mannen;1;Aantal jaren;West Nederland;62.7;69.8;48.2
+4;Mannen;1;Aantal jaren;Zuid Nederland;61.0;68.7;46.7
+5;Mannen;1;Standaardfout;Nederland;0.1;;0.2
+6;Mannen;1;Standaardfout;Noord Nederland;0.4;;0.7
+7;Mannen;1;Standaardfout;Oost Nederland;0.3;;0.5
+8;Mannen;1;Standaardfout;West Nederland;0.2;;0.4
+9;Mannen;1;Standaardfout;Zuid Nederland;0.3;;0.5
+10;Mannen;2;Aantal jaren;Nederland;61.7;68.7;47.2
+11;Mannen;2;Aantal jaren;Noord Nederland;62.1;69.0;46.3
+12;Mannen;2;Aantal jaren;Oost Nederland;62.1;68.5;48.1
+13;Mannen;2;Aantal jaren;West Nederland;62.1;69.1;47.6
+14;Mannen;2;Aantal jaren;Zuid Nederland;60.3;68.0;46.0
+15;Mannen;2;Standaardfout;Nederland;0.1;;0.2
+16;Mannen;2;Standaardfout;Noord Nederland;0.4;;0.7
+17;Mannen;2;Standaardfout;Oost Nederland;0.3;;0.5
+18;Mannen;2;Standaardfout;West Nederland;0.2;;0.4
+19;Mannen;2;Standaardfout;Zuid Nederland;0.3;;0.5
+20;Mannen;3;Aantal jaren;Nederland;58.0;64.8;43.9
+21;Mannen;3;Aantal jaren;Noord Nederland;58.5;65.1;43.1
+22;Mannen;3;Aantal jaren;Oost Nederland;58.3;64.6;44.8
+23;Mannen;3;Aantal jaren;West Nederland;58.5;65.2;44.2
+24;Mannen;3;Aantal jaren;Zuid Nederland;56.6;64.1;42.7
+25;Mannen;3;Standaardfout;Nederland;0.1;;0.2
+26;Mannen;3;Standaardfout;Noord Nederland;0.4;;0.7
+27;Mannen;3;Standaardfout;Oost Nederland;0.3;;0.5
+28;Mannen;3;Standaardfout;West Nederland;0.2;;0.4
+29;Mannen;3;Standaardfout;Zuid Nederland;0.3;;0.5
+30;Mannen;4;Aantal jaren;Nederland;53.4;59.8;39.7
+31;Mannen;4;Aantal jaren;Noord Nederland;53.8;60.1;38.9
+32;Mannen;4;Aantal jaren;Oost Nederland;53.6;59.7;40.6
+33;Mannen;4;Aantal jaren;West Nederland;53.9;60.2;40.1
+34;Mannen;4;Aantal jaren;Zuid Nederland;52.0;59.1;38.6
+35;Mannen;4;Standaardfout;Nederland;0.1;0.2;0.2
+36;Mannen;4;Standaardfout;Noord Nederland;0.4;0.5;0.7
+37;Mannen;4;Standaardfout;Oost Nederland;0.3;0.4;0.5
+38;Mannen;4;Standaardfout;West Nederland;0.2;0.2;0.4
+39;Mannen;4;Standaardfout;Zuid Nederland;0.3;0.4;0.5
+40;Mannen;5;Aantal jaren;Nederland;48.7;55.1;35.6
+41;Mannen;5;Aantal jaren;Noord Nederland;49.2;55.2;35.0
+42;Mannen;5;Aantal jaren;Oost Nederland;48.9;54.9;36.2
+43;Mannen;5;Aantal jaren;West Nederland;49.2;55.5;36.0
+44;Mannen;5;Aantal jaren;Zuid Nederland;47.3;54.3;34.4
+45;Mannen;5;Standaardfout;Nederland;0.1;0.2;0.2
+46;Mannen;5;Standaardfout;Noord Nederland;0.4;0.5;0.7
+47;Mannen;5;Standaardfout;Oost Nederland;0.3;0.4;0.5
+48;Mannen;5;Standaardfout;West Nederland;0.2;0.2;0.3
+49;Mannen;5;Standaardfout;Zuid Nederland;0.3;0.4;0.5
+50;Mannen;6;Aantal jaren;Nederland;44.2;50.2;31.5
+51;Mannen;6;Aantal jaren;Noord Nederland;44.6;50.4;31.0
+52;Mannen;6;Aantal jaren;Oost Nederland;44.4;50.1;32.0
+53;Mannen;6;Aantal jaren;West Nederland;44.8;50.6;32.0
+54;Mannen;6;Aantal jaren;Zuid Nederland;42.8;49.5;30.5
+55;Mannen;6;Standaardfout;Nederland;0.1;0.2;0.2
+56;Mannen;6;Standaardfout;Noord Nederland;0.4;0.5;0.7
+57;Mannen;6;Standaardfout;Oost Nederland;0.3;0.4;0.5
+58;Mannen;6;Standaardfout;West Nederland;0.2;0.2;0.3
+59;Mannen;6;Standaardfout;Zuid Nederland;0.3;0.4;0.5
+60;Mannen;7;Aantal jaren;Nederland;39.8;45.4;27.6
+61;Mannen;7;Aantal jaren;Noord Nederland;40.1;45.6;26.8
+62;Mannen;7;Aantal jaren;Oost Nederland;39.9;45.3;28.1
+63;Mannen;7;Aantal jaren;West Nederland;40.3;45.8;28.0
+64;Mannen;7;Aantal jaren;Zuid Nederland;38.4;44.7;26.7
+65;Mannen;7;Standaardfout;Nederland;0.1;0.2;0.2
+66;Mannen;7;Standaardfout;Noord Nederland;0.4;0.5;0.7
+67;Mannen;7;Standaardfout;Oost Nederland;0.3;0.4;0.5
+68;Mannen;7;Standaardfout;West Nederland;0.2;0.2;0.3
+69;Mannen;7;Standaardfout;Zuid Nederland;0.3;0.4;0.5
+70;Mannen;8;Aantal jaren;Nederland;35.3;40.7;23.8
+71;Mannen;8;Aantal jaren;Noord Nederland;35.7;40.9;23.1
+72;Mannen;8;Aantal jaren;Oost Nederland;35.4;40.6;24.2
+73;Mannen;8;Aantal jaren;West Nederland;35.8;41.0;24.1
+74;Mannen;8;Aantal jaren;Zuid Nederland;34.0;40.0;22.9
+75;Mannen;8;Standaardfout;Nederland;0.1;0.2;0.2
+76;Mannen;8;Standaardfout;Noord Nederland;0.4;0.5;0.6
+77;Mannen;8;Standaardfout;Oost Nederland;0.3;0.4;0.5
+78;Mannen;8;Standaardfout;West Nederland;0.2;0.2;0.3
+79;Mannen;8;Standaardfout;Zuid Nederland;0.3;0.4;0.4
+80;Mannen;9;Aantal jaren;Nederland;30.9;35.9;20.1
+81;Mannen;9;Aantal jaren;Noord Nederland;31.3;36.1;19.7
+82;Mannen;9;Aantal jaren;Oost Nederland;31.0;35.8;20.4
+83;Mannen;9;Aantal jaren;West Nederland;31.4;36.2;20.4
+84;Mannen;9;Aantal jaren;Zuid Nederland;29.6;35.2;19.4
+85;Mannen;9;Standaardfout;Nederland;0.1;0.2;0.2
+86;Mannen;9;Standaardfout;Noord Nederland;0.4;0.5;0.6
+87;Mannen;9;Standaardfout;Oost Nederland;0.3;0.4;0.4
+88;Mannen;9;Standaardfout;West Nederland;0.2;0.2;0.3
+89;Mannen;9;Standaardfout;Zuid Nederland;0.3;0.4;0.4
+90;Mannen;40 jaar;Aantal jaren;Nederland;26.6;31.2;16.7
+91;Mannen;40 jaar;Aantal jaren;Noord Nederland;27.1;31.5;16.2
+92;Mannen;40 jaar;Aantal jaren;Oost Nederland;26.7;31.1;17.1
+93;Mannen;40 jaar;Aantal jaren;West Nederland;27.2;31.6;17.1
+94;Mannen;40 jaar;Aantal jaren;Zuid Nederland;25.3;30.5;15.9
+95;Mannen;40 jaar;Standaardfout;Nederland;0.1;0.2;0.2
+96;Mannen;40 jaar;Standaardfout;Noord Nederland;0.4;0.5;0.6
+97;Mannen;40 jaar;Standaardfout;Oost Nederland;0.3;0.4;0.4
+98;Mannen;40 jaar;Standaardfout;West Nederland;0.2;0.2;0.3
+99;Mannen;40 jaar;Standaardfout;Zuid Nederland;0.3;0.4;0.4
+100;Mannen;45 jaar;Aantal jaren;Nederland;22.6;26.7;13.5
+101;Mannen;45 jaar;Aantal jaren;Noord Nederland;23.0;26.9;13.3
+102;Mannen;45 jaar;Aantal jaren;Oost Nederland;22.6;26.6;13.8
+103;Mannen;45 jaar;Aantal jaren;West Nederland;23.1;27.1;13.8
+104;Mannen;45 jaar;Aantal jaren;Zuid Nederland;21.3;26.0;12.7
+105;Mannen;45 jaar;Standaardfout;Nederland;0.1;0.2;0.2
+106;Mannen;45 jaar;Standaardfout;Noord Nederland;0.4;0.5;0.6
+107;Mannen;45 jaar;Standaardfout;Oost Nederland;0.3;0.4;0.4
+108;Mannen;45 jaar;Standaardfout;West Nederland;0.2;0.2;0.3
+109;Mannen;45 jaar;Standaardfout;Zuid Nederland;0.2;0.3;0.4
+110;Mannen;50 jaar;Aantal jaren;Nederland;18.8;22.6;10.8
+111;Mannen;50 jaar;Aantal jaren;Noord Nederland;19.1;22.8;10.4
+112;Mannen;50 jaar;Aantal jaren;Oost Nederland;18.8;22.5;11.0
+113;Mannen;50 jaar;Aantal jaren;West Nederland;19.4;22.9;11.1
+114;Mannen;50 jaar;Aantal jaren;Zuid Nederland;17.6;22.0;10.0
+115;Mannen;50 jaar;Standaardfout;Nederland;0.1;0.2;0.2
+116;Mannen;50 jaar;Standaardfout;Noord Nederland;0.3;0.5;0.5
+117;Mannen;50 jaar;Standaardfout;Oost Nederland;0.2;0.4;0.4
+118;Mannen;50 jaar;Standaardfout;West Nederland;0.2;0.2;0.3
+119;Mannen;50 jaar;Standaardfout;Zuid Nederland;0.2;0.3;0.4
+120;Mannen;55 jaar;Aantal jaren;Nederland;15.4;18.7;8.4
+121;Mannen;55 jaar;Aantal jaren;Noord Nederland;15.8;18.7;8.1
+122;Mannen;55 jaar;Aantal jaren;Oost Nederland;15.4;18.8;8.6
+123;Mannen;55 jaar;Aantal jaren;West Nederland;15.9;19.0;8.7
+124;Mannen;55 jaar;Aantal jaren;Zuid Nederland;14.5;18.2;7.7
+125;Mannen;55 jaar;Standaardfout;Nederland;0.1;0.2;0.2
+126;Mannen;55 jaar;Standaardfout;Noord Nederland;0.3;0.5;0.5
+127;Mannen;55 jaar;Standaardfout;Oost Nederland;0.2;0.3;0.4
+128;Mannen;55 jaar;Standaardfout;West Nederland;0.2;0.2;0.3
+129;Mannen;55 jaar;Standaardfout;Zuid Nederland;0.2;0.3;0.3
+130;Mannen;60 jaar;Aantal jaren;Nederland;12.4;15.1;6.3
+131;Mannen;60 jaar;Aantal jaren;Noord Nederland;12.8;15.3;6.4
+132;Mannen;60 jaar;Aantal jaren;Oost Nederland;12.3;15.0;6.4
+133;Mannen;60 jaar;Aantal jaren;West Nederland;12.8;15.3;6.5
+134;Mannen;60 jaar;Aantal jaren;Zuid Nederland;11.7;14.6;5.6
+135;Mannen;60 jaar;Standaardfout;Nederland;0.1;0.2;0.2
+136;Mannen;60 jaar;Standaardfout;Noord Nederland;0.3;0.5;0.5
+137;Mannen;60 jaar;Standaardfout;Oost Nederland;0.2;0.3;0.4
+138;Mannen;60 jaar;Standaardfout;West Nederland;0.2;0.2;0.2
+139;Mannen;60 jaar;Standaardfout;Zuid Nederland;0.2;0.3;0.3
+140;Mannen;65 jaar;Aantal jaren;Nederland;9.7;11.6;4.6
+141;Mannen;65 jaar;Aantal jaren;Noord Nederland;10.0;11.8;4.6
+142;Mannen;65 jaar;Aantal jaren;Oost Nederland;9.6;11.6;5.0
+143;Mannen;65 jaar;Aantal jaren;West Nederland;9.9;11.7;4.7
+144;Mannen;65 jaar;Aantal jaren;Zuid Nederland;9.1;11.0;4.0
+145;Mannen;65 jaar;Standaardfout;Nederland;0.1;0.2;0.2
+146;Mannen;65 jaar;Standaardfout;Noord Nederland;0.3;0.5;0.5
+147;Mannen;65 jaar;Standaardfout;Oost Nederland;0.2;0.3;0.3
+148;Mannen;65 jaar;Standaardfout;West Nederland;0.2;0.2;0.2
+149;Mannen;65 jaar;Standaardfout;Zuid Nederland;0.2;0.3;0.3
+150;Mannen;70 jaar;Aantal jaren;Nederland;7.1;8.5;3.3
+151;Mannen;70 jaar;Aantal jaren;Noord Nederland;7.4;9.0;3.3
+152;Mannen;70 jaar;Aantal jaren;Oost Nederland;6.9;8.4;3.4
+153;Mannen;70 jaar;Aantal jaren;West Nederland;7.3;8.6;3.5
+154;Mannen;70 jaar;Aantal jaren;Zuid Nederland;6.6;7.9;2.8
+155;Mannen;70 jaar;Standaardfout;Nederland;0.1;0.2;0.1
+156;Mannen;70 jaar;Standaardfout;Noord Nederland;0.3;0.5;0.4
+157;Mannen;70 jaar;Standaardfout;Oost Nederland;0.2;0.3;0.3
+158;Mannen;70 jaar;Standaardfout;West Nederland;0.2;0.2;0.2
+159;Mannen;70 jaar;Standaardfout;Zuid Nederland;0.2;0.3;0.3
+160;Mannen;75 jaar;Aantal jaren;Nederland;5.1;6.0;2.3
+161;Mannen;75 jaar;Aantal jaren;Noord Nederland;5.4;6.6;2.4
+162;Mannen;75 jaar;Aantal jaren;Oost Nederland;5.0;6.0;2.3
+163;Mannen;75 jaar;Aantal jaren;West Nederland;5.3;6.1;2.4
+164;Mannen;75 jaar;Aantal jaren;Zuid Nederland;4.6;5.4;1.9
+165;Mannen;75 jaar;Standaardfout;Nederland;0.1;0.2;0.1
+166;Mannen;75 jaar;Standaardfout;Noord Nederland;0.3;0.5;0.4
+167;Mannen;75 jaar;Standaardfout;Oost Nederland;0.2;0.4;0.3
+168;Mannen;75 jaar;Standaardfout;West Nederland;0.2;0.2;0.2
+169;Mannen;75 jaar;Standaardfout;Zuid Nederland;0.2;0.3;0.3
+170;Mannen;80 jaar;Aantal jaren;Nederland;3.6;3.9;1.6
+171;Mannen;80 jaar;Aantal jaren;Noord Nederland;3.8;4.4;1.6
+172;Mannen;80 jaar;Aantal jaren;Oost Nederland;3.5;3.9;1.5
+173;Mannen;80 jaar;Aantal jaren;West Nederland;3.7;3.9;1.7
+174;Mannen;80 jaar;Aantal jaren;Zuid Nederland;3.4;3.6;1.5
+175;Mannen;80 jaar;Standaardfout;Nederland;0.1;0.2;0.2
+176;Mannen;80 jaar;Standaardfout;Noord Nederland;0.3;0.5;0.5
+177;Mannen;80 jaar;Standaardfout;Oost Nederland;0.2;0.4;0.3
+178;Mannen;80 jaar;Standaardfout;West Nederland;0.2;0.3;0.2
+179;Mannen;80 jaar;Standaardfout;Zuid Nederland;0.2;0.4;0.3
+180;Vrouwen;1;Aantal jaren;Nederland;61.8;68.3;42.0
+181;Vrouwen;1;Aantal jaren;Noord Nederland;62.8;68.1;42.0
+182;Vrouwen;1;Aantal jaren;Oost Nederland;61.9;68.4;41.9
+183;Vrouwen;1;Aantal jaren;West Nederland;61.9;68.6;42.4
+184;Vrouwen;1;Aantal jaren;Zuid Nederland;60.9;67.8;41.4
+185;Vrouwen;1;Standaardfout;Nederland;0.2;;0.3
+186;Vrouwen;1;Standaardfout;Noord Nederland;0.5;;0.8
+187;Vrouwen;1;Standaardfout;Oost Nederland;0.3;;0.6
+188;Vrouwen;1;Standaardfout;West Nederland;0.2;;0.4
+189;Vrouwen;1;Standaardfout;Zuid Nederland;0.3;;0.5
+190;Vrouwen;2;Aantal jaren;Nederland;61.1;67.6;41.3
+191;Vrouwen;2;Aantal jaren;Noord Nederland;62.1;67.3;41.3
+192;Vrouwen;2;Aantal jaren;Oost Nederland;61.1;67.7;41.1
+193;Vrouwen;2;Aantal jaren;West Nederland;61.2;67.9;41.6
+194;Vrouwen;2;Aantal jaren;Zuid Nederland;60.2;67.0;40.6
+195;Vrouwen;2;Standaardfout;Nederland;0.2;;0.3
+196;Vrouwen;2;Standaardfout;Noord Nederland;0.5;;0.8
+197;Vrouwen;2;Standaardfout;Oost Nederland;0.3;;0.6
+198;Vrouwen;2;Standaardfout;West Nederland;0.2;;0.4
+199;Vrouwen;2;Standaardfout;Zuid Nederland;0.3;;0.6
+200;Vrouwen;3;Aantal jaren;Nederland;57.4;63.7;37.8
+201;Vrouwen;3;Aantal jaren;Noord Nederland;58.4;63.4;37.8
+202;Vrouwen;3;Aantal jaren;Oost Nederland;57.5;63.7;37.7
+203;Vrouwen;3;Aantal jaren;West Nederland;57.5;64.0;38.1
+204;Vrouwen;3;Aantal jaren;Zuid Nederland;56.4;63.1;37.1
+205;Vrouwen;3;Standaardfout;Nederland;0.2;;0.3
+206;Vrouwen;3;Standaardfout;Noord Nederland;0.5;;0.8
+207;Vrouwen;3;Standaardfout;Oost Nederland;0.3;;0.6
+208;Vrouwen;3;Standaardfout;West Nederland;0.2;;0.4
+209;Vrouwen;3;Standaardfout;Zuid Nederland;0.3;;0.5
+210;Vrouwen;4;Aantal jaren;Nederland;52.7;58.7;33.4
+211;Vrouwen;4;Aantal jaren;Noord Nederland;53.7;58.4;33.4
+212;Vrouwen;4;Aantal jaren;Oost Nederland;52.7;58.8;33.5
+213;Vrouwen;4;Aantal jaren;West Nederland;52.8;59.0;33.7
+214;Vrouwen;4;Aantal jaren;Zuid Nederland;51.6;58.1;32.7
+215;Vrouwen;4;Standaardfout;Nederland;0.2;0.2;0.2
+216;Vrouwen;4;Standaardfout;Noord Nederland;0.5;0.6;0.7
+217;Vrouwen;4;Standaardfout;Oost Nederland;0.3;0.5;0.6
+218;Vrouwen;4;Standaardfout;West Nederland;0.2;0.3;0.4
+219;Vrouwen;4;Standaardfout;Zuid Nederland;0.3;0.5;0.5
+220;Vrouwen;5;Aantal jaren;Nederland;48.0;53.9;29.3
+221;Vrouwen;5;Aantal jaren;Noord Nederland;49.0;53.6;29.2
+222;Vrouwen;5;Aantal jaren;Oost Nederland;48.1;53.9;29.2
+223;Vrouwen;5;Aantal jaren;West Nederland;48.2;54.2;29.6
+224;Vrouwen;5;Aantal jaren;Zuid Nederland;47.0;53.3;28.6
+225;Vrouwen;5;Standaardfout;Nederland;0.1;0.2;0.2
+226;Vrouwen;5;Standaardfout;Noord Nederland;0.5;0.6;0.7
+227;Vrouwen;5;Standaardfout;Oost Nederland;0.3;0.5;0.6
+228;Vrouwen;5;Standaardfout;West Nederland;0.2;0.3;0.4
+229;Vrouwen;5;Standaardfout;Zuid Nederland;0.3;0.5;0.5
+230;Vrouwen;6;Aantal jaren;Nederland;43.7;49.1;25.8
+231;Vrouwen;6;Aantal jaren;Noord Nederland;44.6;48.7;25.8
+232;Vrouwen;6;Aantal jaren;Oost Nederland;43.8;49.1;25.8
+233;Vrouwen;6;Aantal jaren;West Nederland;43.9;49.4;26.1
+234;Vrouwen;6;Aantal jaren;Zuid Nederland;42.8;48.4;25.2
+235;Vrouwen;6;Standaardfout;Nederland;0.1;0.2;0.2
+236;Vrouwen;6;Standaardfout;Noord Nederland;0.4;0.6;0.7
+237;Vrouwen;6;Standaardfout;Oost Nederland;0.3;0.5;0.5
+238;Vrouwen;6;Standaardfout;West Nederland;0.2;0.3;0.3
+239;Vrouwen;6;Standaardfout;Zuid Nederland;0.3;0.5;0.5
+240;Vrouwen;7;Aantal jaren;Nederland;39.5;44.3;22.7
+241;Vrouwen;7;Aantal jaren;Noord Nederland;40.4;44.0;22.7
+242;Vrouwen;7;Aantal jaren;Oost Nederland;39.5;44.3;22.6
+243;Vrouwen;7;Aantal jaren;West Nederland;39.7;44.6;23.0
+244;Vrouwen;7;Aantal jaren;Zuid Nederland;38.6;43.7;22.2
+245;Vrouwen;7;Standaardfout;Nederland;0.1;0.2;0.2
+246;Vrouwen;7;Standaardfout;Noord Nederland;0.4;0.6;0.7
+247;Vrouwen;7;Standaardfout;Oost Nederland;0.3;0.5;0.5
+248;Vrouwen;7;Standaardfout;West Nederland;0.2;0.3;0.3
+249;Vrouwen;7;Standaardfout;Zuid Nederland;0.3;0.4;0.5
+250;Vrouwen;8;Aantal jaren;Nederland;35.2;39.5;19.7
+251;Vrouwen;8;Aantal jaren;Noord Nederland;36.0;39.2;19.7
+252;Vrouwen;8;Aantal jaren;Oost Nederland;35.2;39.5;19.6
+253;Vrouwen;8;Aantal jaren;West Nederland;35.4;39.9;20.0
+254;Vrouwen;8;Aantal jaren;Zuid Nederland;34.3;39.0;19.2
+255;Vrouwen;8;Standaardfout;Nederland;0.1;0.2;0.2
+256;Vrouwen;8;Standaardfout;Noord Nederland;0.4;0.6;0.6
+257;Vrouwen;8;Standaardfout;Oost Nederland;0.3;0.5;0.5
+258;Vrouwen;8;Standaardfout;West Nederland;0.2;0.3;0.3
+259;Vrouwen;8;Standaardfout;Zuid Nederland;0.3;0.4;0.5
+260;Vrouwen;9;Aantal jaren;Nederland;31.0;34.8;16.8
+261;Vrouwen;9;Aantal jaren;Noord Nederland;31.8;34.7;16.7
+262;Vrouwen;9;Aantal jaren;Oost Nederland;31.1;34.9;16.9
+263;Vrouwen;9;Aantal jaren;West Nederland;31.2;35.2;16.9
+264;Vrouwen;9;Aantal jaren;Zuid Nederland;30.2;34.2;16.2
+265;Vrouwen;9;Standaardfout;Nederland;0.1;0.2;0.2
+266;Vrouwen;9;Standaardfout;Noord Nederland;0.4;0.6;0.6
+267;Vrouwen;9;Standaardfout;Oost Nederland;0.3;0.5;0.5
+268;Vrouwen;9;Standaardfout;West Nederland;0.2;0.3;0.3
+269;Vrouwen;9;Standaardfout;Zuid Nederland;0.3;0.4;0.4
+270;Vrouwen;40 jaar;Aantal jaren;Nederland;27.0;30.3;14.0
+271;Vrouwen;40 jaar;Aantal jaren;Noord Nederland;27.7;30.1;13.9
+272;Vrouwen;40 jaar;Aantal jaren;Oost Nederland;27.0;30.3;14.2
+273;Vrouwen;40 jaar;Aantal jaren;West Nederland;27.1;30.6;14.1
+274;Vrouwen;40 jaar;Aantal jaren;Zuid Nederland;26.2;29.6;13.6
+275;Vrouwen;40 jaar;Standaardfout;Nederland;0.1;0.2;0.2
+276;Vrouwen;40 jaar;Standaardfout;Noord Nederland;0.4;0.6;0.6
+277;Vrouwen;40 jaar;Standaardfout;Oost Nederland;0.3;0.5;0.4
+278;Vrouwen;40 jaar;Standaardfout;West Nederland;0.2;0.3;0.3
+279;Vrouwen;40 jaar;Standaardfout;Zuid Nederland;0.3;0.4;0.4
+280;Vrouwen;45 jaar;Aantal jaren;Nederland;23.1;25.9;11.5
+281;Vrouwen;45 jaar;Aantal jaren;Noord Nederland;23.8;25.7;11.0
+282;Vrouwen;45 jaar;Aantal jaren;Oost Nederland;23.1;25.8;11.4
+283;Vrouwen;45 jaar;Aantal jaren;West Nederland;23.3;26.3;11.6
+284;Vrouwen;45 jaar;Aantal jaren;Zuid Nederland;22.4;25.2;11.2
+285;Vrouwen;45 jaar;Standaardfout;Nederland;0.1;0.2;0.2
+286;Vrouwen;45 jaar;Standaardfout;Noord Nederland;0.4;0.6;0.6
+287;Vrouwen;45 jaar;Standaardfout;Oost Nederland;0.3;0.5;0.4
+288;Vrouwen;45 jaar;Standaardfout;West Nederland;0.2;0.3;0.3
+289;Vrouwen;45 jaar;Standaardfout;Zuid Nederland;0.3;0.4;0.4
+290;Vrouwen;50 jaar;Aantal jaren;Nederland;19.6;21.9;9.1
+291;Vrouwen;50 jaar;Aantal jaren;Noord Nederland;20.2;21.7;8.7
+292;Vrouwen;50 jaar;Aantal jaren;Oost Nederland;19.5;21.8;9.0
+293;Vrouwen;50 jaar;Aantal jaren;West Nederland;19.9;22.1;9.3
+294;Vrouwen;50 jaar;Aantal jaren;Zuid Nederland;18.9;21.4;9.0
+295;Vrouwen;50 jaar;Standaardfout;Nederland;0.1;0.2;0.2
+296;Vrouwen;50 jaar;Standaardfout;Noord Nederland;0.4;0.6;0.5
+297;Vrouwen;50 jaar;Standaardfout;Oost Nederland;0.3;0.5;0.4
+298;Vrouwen;50 jaar;Standaardfout;West Nederland;0.2;0.3;0.3
+299;Vrouwen;50 jaar;Standaardfout;Zuid Nederland;0.3;0.4;0.4
+300;Vrouwen;55 jaar;Aantal jaren;Nederland;16.4;18.1;7.3
+301;Vrouwen;55 jaar;Aantal jaren;Noord Nederland;17.1;17.9;6.8
+302;Vrouwen;55 jaar;Aantal jaren;Oost Nederland;16.3;18.1;7.3
+303;Vrouwen;55 jaar;Aantal jaren;West Nederland;16.6;18.4;7.6
+304;Vrouwen;55 jaar;Aantal jaren;Zuid Nederland;15.7;17.6;7.1
+305;Vrouwen;55 jaar;Standaardfout;Nederland;0.1;0.2;0.2
+306;Vrouwen;55 jaar;Standaardfout;Noord Nederland;0.4;0.6;0.5
+307;Vrouwen;55 jaar;Standaardfout;Oost Nederland;0.3;0.4;0.4
+308;Vrouwen;55 jaar;Standaardfout;West Nederland;0.2;0.3;0.2
+309;Vrouwen;55 jaar;Standaardfout;Zuid Nederland;0.3;0.4;0.4
+310;Vrouwen;60 jaar;Aantal jaren;Nederland;13.5;14.5;5.7
+311;Vrouwen;60 jaar;Aantal jaren;Noord Nederland;14.0;14.3;5.1
+312;Vrouwen;60 jaar;Aantal jaren;Oost Nederland;13.2;14.3;5.5
+313;Vrouwen;60 jaar;Aantal jaren;West Nederland;13.7;14.9;5.8
+314;Vrouwen;60 jaar;Aantal jaren;Zuid Nederland;12.9;14.2;5.7
+315;Vrouwen;60 jaar;Standaardfout;Nederland;0.1;0.2;0.2
+316;Vrouwen;60 jaar;Standaardfout;Noord Nederland;0.4;0.6;0.5
+317;Vrouwen;60 jaar;Standaardfout;Oost Nederland;0.3;0.4;0.4
+318;Vrouwen;60 jaar;Standaardfout;West Nederland;0.2;0.3;0.2
+319;Vrouwen;60 jaar;Standaardfout;Zuid Nederland;0.3;0.4;0.4
+320;Vrouwen;65 jaar;Aantal jaren;Nederland;10.6;10.9;4.1
+321;Vrouwen;65 jaar;Aantal jaren;Noord Nederland;11.0;10.7;3.7
+322;Vrouwen;65 jaar;Aantal jaren;Oost Nederland;10.4;10.9;3.9
+323;Vrouwen;65 jaar;Aantal jaren;West Nederland;10.8;11.2;4.3
+324;Vrouwen;65 jaar;Aantal jaren;Zuid Nederland;10.1;10.7;4.1
+325;Vrouwen;65 jaar;Standaardfout;Nederland;0.1;0.2;0.2
+326;Vrouwen;65 jaar;Standaardfout;Noord Nederland;0.4;0.6;0.4
+327;Vrouwen;65 jaar;Standaardfout;Oost Nederland;0.3;0.4;0.4
+328;Vrouwen;65 jaar;Standaardfout;West Nederland;0.2;0.3;0.2
+329;Vrouwen;65 jaar;Standaardfout;Zuid Nederland;0.2;0.4;0.3
+330;Vrouwen;70 jaar;Aantal jaren;Nederland;8.0;7.7;2.9
+331;Vrouwen;70 jaar;Aantal jaren;Noord Nederland;8.6;7.6;2.7
+332;Vrouwen;70 jaar;Aantal jaren;Oost Nederland;7.8;7.5;2.7
+333;Vrouwen;70 jaar;Aantal jaren;West Nederland;8.2;7.9;3.1
+334;Vrouwen;70 jaar;Aantal jaren;Zuid Nederland;7.5;7.4;2.8
+335;Vrouwen;70 jaar;Standaardfout;Nederland;0.1;0.2;0.1
+336;Vrouwen;70 jaar;Standaardfout;Noord Nederland;0.3;0.6;0.4
+337;Vrouwen;70 jaar;Standaardfout;Oost Nederland;0.3;0.4;0.3
+338;Vrouwen;70 jaar;Standaardfout;West Nederland;0.2;0.2;0.2
+339;Vrouwen;70 jaar;Standaardfout;Zuid Nederland;0.2;0.4;0.3
+340;Vrouwen;75 jaar;Aantal jaren;Nederland;5.9;4.9;2.1
+341;Vrouwen;75 jaar;Aantal jaren;Noord Nederland;6.1;4.6;1.5
+342;Vrouwen;75 jaar;Aantal jaren;Oost Nederland;5.8;4.7;2.3
+343;Vrouwen;75 jaar;Aantal jaren;West Nederland;6.1;5.1;2.3
+344;Vrouwen;75 jaar;Aantal jaren;Zuid Nederland;5.5;4.7;1.9
+345;Vrouwen;75 jaar;Standaardfout;Nederland;0.1;0.2;0.1
+346;Vrouwen;75 jaar;Standaardfout;Noord Nederland;0.3;0.6;0.4
+347;Vrouwen;75 jaar;Standaardfout;Oost Nederland;0.2;0.4;0.3
+348;Vrouwen;75 jaar;Standaardfout;West Nederland;0.1;0.2;0.2
+349;Vrouwen;75 jaar;Standaardfout;Zuid Nederland;0.2;0.4;0.3
+350;Vrouwen;80 jaar;Aantal jaren;Nederland;4.3;3.0;1.5
+351;Vrouwen;80 jaar;Aantal jaren;Noord Nederland;4.4;2.9;0.9
+352;Vrouwen;80 jaar;Aantal jaren;Oost Nederland;4.2;3.1;1.8
+353;Vrouwen;80 jaar;Aantal jaren;West Nederland;4.3;3.0;1.6
+354;Vrouwen;80 jaar;Aantal jaren;Zuid Nederland;4.0;3.1;1.5
+355;Vrouwen;80 jaar;Standaardfout;Nederland;0.1;0.2;0.1
+356;Vrouwen;80 jaar;Standaardfout;Noord Nederland;0.3;0.6;0.4
+357;Vrouwen;80 jaar;Standaardfout;Oost Nederland;0.2;0.4;0.4
+358;Vrouwen;80 jaar;Standaardfout;West Nederland;0.1;0.2;0.2
+359;Vrouwen;80 jaar;Standaardfout;Zuid Nederland;0.2;0.4;0.3

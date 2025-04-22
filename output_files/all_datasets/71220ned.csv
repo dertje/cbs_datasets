@@ -1,0 +1,2361 @@
+﻿ID;RegioS;SamenstellingVanHetHuishouden;AantalHuishoudens_1;GemiddBesteedbInkomenPerHuishouden_2
+0;Nederland;Totaal particulier huishouden;6718.6;30.3
+1;Nederland;Eenpersoonshuishouden;2188.7;18.4
+2;Nederland;Meerpers. huishouden met minderj. kind.;1886.3;36.6
+3;Nederland;Meerpers. huishouden z. minderj. kind.;2643.7;35.7
+4;Noord-Nederland (LD);Totaal particulier huishouden;699.6;27.9
+5;Noord-Nederland (LD);Eenpersoonshuishouden;219.3;17.0
+6;Noord-Nederland (LD);Meerpers. huishouden met minderj. kind.;190.6;33.8
+7;Noord-Nederland (LD);Meerpers. huishouden z. minderj. kind.;289.7;32.2
+8;Oost-Nederland (LD);Totaal particulier huishouden;1343.1;30.4
+9;Oost-Nederland (LD);Eenpersoonshuishouden;386.6;17.7
+10;Oost-Nederland (LD);Meerpers. huishouden met minderj. kind.;409.3;36.2
+11;Oost-Nederland (LD);Meerpers. huishouden z. minderj. kind.;547.2;34.9
+12;West-Nederland (LD);Totaal particulier huishouden;3236.7;30.7
+13;West-Nederland (LD);Eenpersoonshuishouden;1171.2;19.0
+14;West-Nederland (LD);Meerpers. huishouden met minderj. kind.;877.5;37.6
+15;West-Nederland (LD);Meerpers. huishouden z. minderj. kind.;1188.0;37.2
+16;Zuid-Nederland (LD);Totaal particulier huishouden;1439.3;30.5
+17;Zuid-Nederland (LD);Eenpersoonshuishouden;411.6;17.9
+18;Zuid-Nederland (LD);Meerpers. huishouden met minderj. kind.;408.9;36.3
+19;Zuid-Nederland (LD);Meerpers. huishouden z. minderj. kind.;618.8;35.2
+20;Groningen (PV);Totaal particulier huishouden;241.2;27.0
+21;Groningen (PV);Eenpersoonshuishouden;84.7;17.0
+22;Groningen (PV);Meerpers. huishouden met minderj. kind.;60.9;33.5
+23;Groningen (PV);Meerpers. huishouden z. minderj. kind.;95.6;31.7
+24;Friesland (PV);Totaal particulier huishouden;262.6;27.8
+25;Friesland (PV);Eenpersoonshuishouden;80.8;16.8
+26;Friesland (PV);Meerpers. huishouden met minderj. kind.;73.4;33.7
+27;Friesland (PV);Meerpers. huishouden z. minderj. kind.;108.3;32.1
+28;Drenthe (PV);Totaal particulier huishouden;195.8;29.0
+29;Drenthe (PV);Eenpersoonshuishouden;53.8;17.3
+30;Drenthe (PV);Meerpers. huishouden met minderj. kind.;56.4;34.5
+31;Drenthe (PV);Meerpers. huishouden z. minderj. kind.;85.7;32.9
+32;Overijssel (PV);Totaal particulier huishouden;431.5;29.5
+33;Overijssel (PV);Eenpersoonshuishouden;124.0;17.4
+34;Overijssel (PV);Meerpers. huishouden met minderj. kind.;129.8;35.3
+35;Overijssel (PV);Meerpers. huishouden z. minderj. kind.;177.7;33.8
+36;Flevoland (PV);Totaal particulier huishouden;135.1;30.8
+37;Flevoland (PV);Eenpersoonshuishouden;35.2;17.9
+38;Flevoland (PV);Meerpers. huishouden met minderj. kind.;50.5;35.4
+39;Flevoland (PV);Meerpers. huishouden z. minderj. kind.;49.3;35.3
+40;Gelderland (PV);Totaal particulier huishouden;776.5;30.8
+41;Gelderland (PV);Eenpersoonshuishouden;227.3;17.9
+42;Gelderland (PV);Meerpers. huishouden met minderj. kind.;229.0;36.9
+43;Gelderland (PV);Meerpers. huishouden z. minderj. kind.;320.1;35.5
+44;Utrecht (PV);Totaal particulier huishouden;473.0;32.8
+45;Utrecht (PV);Eenpersoonshuishouden;160.2;19.7
+46;Utrecht (PV);Meerpers. huishouden met minderj. kind.;135.3;40.2
+47;Utrecht (PV);Meerpers. huishouden z. minderj. kind.;177.6;38.9
+48;Noord-Holland (PV);Totaal particulier huishouden;1142.7;30.4
+49;Noord-Holland (PV);Eenpersoonshuishouden;445.4;19.2
+50;Noord-Holland (PV);Meerpers. huishouden met minderj. kind.;295.1;37.6
+51;Noord-Holland (PV);Meerpers. huishouden z. minderj. kind.;402.2;37.6
+52;Zuid-Holland (PV);Totaal particulier huishouden;1463.0;30.4
+53;Zuid-Holland (PV);Eenpersoonshuishouden;517.6;18.7
+54;Zuid-Holland (PV);Meerpers. huishouden met minderj. kind.;404.1;36.9
+55;Zuid-Holland (PV);Meerpers. huishouden z. minderj. kind.;541.3;36.7
+56;Zeeland (PV);Totaal particulier huishouden;158.0;29.5
+57;Zeeland (PV);Eenpersoonshuishouden;48.1;17.6
+58;Zeeland (PV);Meerpers. huishouden met minderj. kind.;42.9;36.0
+59;Zeeland (PV);Meerpers. huishouden z. minderj. kind.;67.0;34.0
+60;Noord-Brabant (PV);Totaal particulier huishouden;965.1;31.1
+61;Noord-Brabant (PV);Eenpersoonshuishouden;272.1;18.2
+62;Noord-Brabant (PV);Meerpers. huishouden met minderj. kind.;279.6;36.7
+63;Noord-Brabant (PV);Meerpers. huishouden z. minderj. kind.;413.4;35.8
+64;Limburg (PV);Totaal particulier huishouden;474.2;29.4
+65;Limburg (PV);Eenpersoonshuishouden;139.5;17.3
+66;Limburg (PV);Meerpers. huishouden met minderj. kind.;129.3;35.3
+67;Limburg (PV);Meerpers. huishouden z. minderj. kind.;205.4;33.9
+68;Oost-Groningen (CR);Totaal particulier huishouden;65.5;26.4
+69;Oost-Groningen (CR);Eenpersoonshuishouden;18.9;15.7
+70;Oost-Groningen (CR);Meerpers. huishouden met minderj. kind.;17.5;32.1
+71;Oost-Groningen (CR);Meerpers. huishouden z. minderj. kind.;29.2;29.8
+72;Delfzijl en omgeving (CR);Totaal particulier huishouden;22.2;27.2
+73;Delfzijl en omgeving (CR);Eenpersoonshuishouden;6.7;16.8
+74;Delfzijl en omgeving (CR);Meerpers. huishouden met minderj. kind.;6.0;32.2
+75;Delfzijl en omgeving (CR);Meerpers. huishouden z. minderj. kind.;9.6;31.4
+76;Overig Groningen (CR);Totaal particulier huishouden;153.5;27.2
+77;Overig Groningen (CR);Eenpersoonshuishouden;59.1;17.4
+78;Overig Groningen (CR);Meerpers. huishouden met minderj. kind.;37.4;34.3
+79;Overig Groningen (CR);Meerpers. huishouden z. minderj. kind.;56.9;32.7
+80;Noord-Friesland (CR);Totaal particulier huishouden;135.4;27.5
+81;Noord-Friesland (CR);Eenpersoonshuishouden;43.4;16.8
+82;Noord-Friesland (CR);Meerpers. huishouden met minderj. kind.;37.5;33.5
+83;Noord-Friesland (CR);Meerpers. huishouden z. minderj. kind.;54.5;32.0
+84;Zuidwest-Friesland (CR);Totaal particulier huishouden;43.0;27.9
+85;Zuidwest-Friesland (CR);Eenpersoonshuishouden;12.8;16.8
+86;Zuidwest-Friesland (CR);Meerpers. huishouden met minderj. kind.;12.3;33.7
+87;Zuidwest-Friesland (CR);Meerpers. huishouden z. minderj. kind.;17.8;32.0
+88;Zuidoost-Friesland (CR);Totaal particulier huishouden;84.2;28.2
+89;Zuidoost-Friesland (CR);Eenpersoonshuishouden;24.6;16.8
+90;Zuidoost-Friesland (CR);Meerpers. huishouden met minderj. kind.;23.6;33.9
+91;Zuidoost-Friesland (CR);Meerpers. huishouden z. minderj. kind.;36.0;32.3
+92;Noord-Drenthe (CR);Totaal particulier huishouden;74.9;30.1
+93;Noord-Drenthe (CR);Eenpersoonshuishouden;21.2;17.8
+94;Noord-Drenthe (CR);Meerpers. huishouden met minderj. kind.;21.5;36.0
+95;Noord-Drenthe (CR);Meerpers. huishouden z. minderj. kind.;32.2;34.2
+96;Zuidoost-Drenthe (CR);Totaal particulier huishouden;69.7;27.8
+97;Zuidoost-Drenthe (CR);Eenpersoonshuishouden;18.4;16.4
+98;Zuidoost-Drenthe (CR);Meerpers. huishouden met minderj. kind.;20.1;32.7
+99;Zuidoost-Drenthe (CR);Meerpers. huishouden z. minderj. kind.;31.2;31.3
+100;Zuidwest-Drenthe (CR);Totaal particulier huishouden;51.2;29.3
+101;Zuidwest-Drenthe (CR);Eenpersoonshuishouden;14.2;17.5
+102;Zuidwest-Drenthe (CR);Meerpers. huishouden met minderj. kind.;14.7;34.8
+103;Zuidwest-Drenthe (CR);Meerpers. huishouden z. minderj. kind.;22.3;33.1
+104;Noord-Overijssel (CR);Totaal particulier huishouden;132.0;29.8
+105;Noord-Overijssel (CR);Eenpersoonshuishouden;37.9;17.4
+106;Noord-Overijssel (CR);Meerpers. huishouden met minderj. kind.;40.9;35.7
+107;Noord-Overijssel (CR);Meerpers. huishouden z. minderj. kind.;53.2;34.1
+108;Zuidwest-Overijssel (CR);Totaal particulier huishouden;58.9;29.2
+109;Zuidwest-Overijssel (CR);Eenpersoonshuishouden;17.8;17.4
+110;Zuidwest-Overijssel (CR);Meerpers. huishouden met minderj. kind.;17.3;34.8
+111;Zuidwest-Overijssel (CR);Meerpers. huishouden z. minderj. kind.;23.8;34.0
+112;Twente (CR);Totaal particulier huishouden;240.6;29.4
+113;Twente (CR);Eenpersoonshuishouden;68.4;17.4
+114;Twente (CR);Meerpers. huishouden met minderj. kind.;71.5;35.1
+115;Twente (CR);Meerpers. huishouden z. minderj. kind.;100.7;33.6
+116;Veluwe (CR);Totaal particulier huishouden;244.0;31.9
+117;Veluwe (CR);Eenpersoonshuishouden;68.0;18.3
+118;Veluwe (CR);Meerpers. huishouden met minderj. kind.;75.2;37.9
+119;Veluwe (CR);Meerpers. huishouden z. minderj. kind.;100.7;36.5
+120;Achterhoek (CR);Totaal particulier huishouden;151.8;30.3
+121;Achterhoek (CR);Eenpersoonshuishouden;39.9;17.4
+122;Achterhoek (CR);Meerpers. huishouden met minderj. kind.;44.6;36.0
+123;Achterhoek (CR);Meerpers. huishouden z. minderj. kind.;67.4;34.2
+124;Arnhem/Nijmegen (CR);Totaal particulier huishouden;293.9;29.5
+125;Arnhem/Nijmegen (CR);Eenpersoonshuishouden;98.6;17.9
+126;Arnhem/Nijmegen (CR);Meerpers. huishouden met minderj. kind.;80.0;35.9
+127;Arnhem/Nijmegen (CR);Meerpers. huishouden z. minderj. kind.;115.3;35.0
+128;Zuidwest-Gelderland (CR);Totaal particulier huishouden;86.8;32.8
+129;Zuidwest-Gelderland (CR);Eenpersoonshuishouden;20.8;17.7
+130;Zuidwest-Gelderland (CR);Meerpers. huishouden met minderj. kind.;29.2;38.4
+131;Zuidwest-Gelderland (CR);Meerpers. huishouden z. minderj. kind.;36.8;36.8
+132;Utrecht (CR);Totaal particulier huishouden;473.0;32.8
+133;Utrecht (CR);Eenpersoonshuishouden;160.2;19.7
+134;Utrecht (CR);Meerpers. huishouden met minderj. kind.;135.3;40.2
+135;Utrecht (CR);Meerpers. huishouden z. minderj. kind.;177.6;38.9
+136;Kop van Noord-Holland (CR);Totaal particulier huishouden;146.2;30.5
+137;Kop van Noord-Holland (CR);Eenpersoonshuishouden;41.6;17.5
+138;Kop van Noord-Holland (CR);Meerpers. huishouden met minderj. kind.;43.9;36.4
+139;Kop van Noord-Holland (CR);Meerpers. huishouden z. minderj. kind.;60.7;35.2
+140;Alkmaar en omgeving (CR);Totaal particulier huishouden;92.8;31.3
+141;Alkmaar en omgeving (CR);Eenpersoonshuishouden;29.3;18.7
+142;Alkmaar en omgeving (CR);Meerpers. huishouden met minderj. kind.;26.4;37.2
+143;Alkmaar en omgeving (CR);Meerpers. huishouden z. minderj. kind.;37.1;37.1
+144;IJmond (CR);Totaal particulier huishouden;78.2;31.9
+145;IJmond (CR);Eenpersoonshuishouden;24.1;19.4
+146;IJmond (CR);Meerpers. huishouden met minderj. kind.;22.6;38.1
+147;IJmond (CR);Meerpers. huishouden z. minderj. kind.;31.5;37.2
+148;Agglomeratie Haarlem (CR);Totaal particulier huishouden;97.8;32.1
+149;Agglomeratie Haarlem (CR);Eenpersoonshuishouden;39.2;19.8
+150;Agglomeratie Haarlem (CR);Meerpers. huishouden met minderj. kind.;23.2;41.9
+151;Agglomeratie Haarlem (CR);Meerpers. huishouden z. minderj. kind.;35.4;39.2
+152;Zaanstreek (CR);Totaal particulier huishouden;65.6;30.5
+153;Zaanstreek (CR);Eenpersoonshuishouden;20.4;18.2
+154;Zaanstreek (CR);Meerpers. huishouden met minderj. kind.;18.8;36.4
+155;Zaanstreek (CR);Meerpers. huishouden z. minderj. kind.;26.4;35.8
+156;Groot-Amsterdam (CR);Totaal particulier huishouden;556.8;29.0
+157;Groot-Amsterdam (CR);Eenpersoonshuishouden;253.4;19.3
+158;Groot-Amsterdam (CR);Meerpers. huishouden met minderj. kind.;133.1;36.2
+159;Groot-Amsterdam (CR);Meerpers. huishouden z. minderj. kind.;170.3;37.8
+160;Het Gooi en Vechtstreek (CR);Totaal particulier huishouden;105.2;34.4
+161;Het Gooi en Vechtstreek (CR);Eenpersoonshuishouden;37.4;20.6
+162;Het Gooi en Vechtstreek (CR);Meerpers. huishouden met minderj. kind.;27.1;44.1
+163;Het Gooi en Vechtstreek (CR);Meerpers. huishouden z. minderj. kind.;40.6;40.7
+164;Agglomeratie Leiden en Bollenstreek (CR);Totaal particulier huishouden;157.0;33.0
+165;Agglomeratie Leiden en Bollenstreek (CR);Eenpersoonshuishouden;52.6;19.7
+166;Agglomeratie Leiden en Bollenstreek (CR);Meerpers. huishouden met minderj. kind.;44.9;40.9
+167;Agglomeratie Leiden en Bollenstreek (CR);Meerpers. huishouden z. minderj. kind.;59.6;38.7
+168;Agglomeratie 's-Gravenhage (CR);Totaal particulier huishouden;343.4;30.0
+169;Agglomeratie 's-Gravenhage (CR);Eenpersoonshuishouden;142.5;19.9
+170;Agglomeratie 's-Gravenhage (CR);Meerpers. huishouden met minderj. kind.;86.8;36.5
+171;Agglomeratie 's-Gravenhage (CR);Meerpers. huishouden z. minderj. kind.;114.1;37.9
+172;Delft en Westland (CR);Totaal particulier huishouden;84.6;31.6
+173;Delft en Westland (CR);Eenpersoonshuishouden;28.0;18.7
+174;Delft en Westland (CR);Meerpers. huishouden met minderj. kind.;23.8;38.9
+175;Delft en Westland (CR);Meerpers. huishouden z. minderj. kind.;32.8;37.3
+176;Oost-Zuid-Holland (CR);Totaal particulier huishouden;126.0;33.5
+177;Oost-Zuid-Holland (CR);Eenpersoonshuishouden;34.2;18.7
+178;Oost-Zuid-Holland (CR);Meerpers. huishouden met minderj. kind.;39.6;39.8
+179;Oost-Zuid-Holland (CR);Meerpers. huishouden z. minderj. kind.;52.2;38.4
+180;Groot-Rijnmond (CR);Totaal particulier huishouden;591.5;29.0
+181;Groot-Rijnmond (CR);Eenpersoonshuishouden;213.3;17.9
+182;Groot-Rijnmond (CR);Meerpers. huishouden met minderj. kind.;160.5;35.0
+183;Groot-Rijnmond (CR);Meerpers. huishouden z. minderj. kind.;217.7;35.4
+184;Zuidoost-Zuid-Holland (CR);Totaal particulier huishouden;160.5;30.9
+185;Zuidoost-Zuid-Holland (CR);Eenpersoonshuishouden;47.0;17.8
+186;Zuidoost-Zuid-Holland (CR);Meerpers. huishouden met minderj. kind.;48.5;37.2
+187;Zuidoost-Zuid-Holland (CR);Meerpers. huishouden z. minderj. kind.;64.9;35.7
+188;Zeeuwsch-Vlaanderen (CR);Totaal particulier huishouden;46.3;29.7
+189;Zeeuwsch-Vlaanderen (CR);Eenpersoonshuishouden;13.8;17.6
+190;Zeeuwsch-Vlaanderen (CR);Meerpers. huishouden met minderj. kind.;12.0;37.0
+191;Zeeuwsch-Vlaanderen (CR);Meerpers. huishouden z. minderj. kind.;20.4;33.6
+192;Overig Zeeland (CR);Totaal particulier huishouden;111.7;29.5
+193;Overig Zeeland (CR);Eenpersoonshuishouden;34.3;17.6
+194;Overig Zeeland (CR);Meerpers. huishouden met minderj. kind.;30.9;35.5
+195;Overig Zeeland (CR);Meerpers. huishouden z. minderj. kind.;46.6;34.2
+196;West-Noord-Brabant (CR);Totaal particulier huishouden;247.2;30.8
+197;West-Noord-Brabant (CR);Eenpersoonshuishouden;69.7;18.1
+198;West-Noord-Brabant (CR);Meerpers. huishouden met minderj. kind.;70.0;36.8
+199;West-Noord-Brabant (CR);Meerpers. huishouden z. minderj. kind.;107.5;35.1
+200;Midden-Noord-Brabant (CR);Totaal particulier huishouden;178.1;30.8
+201;Midden-Noord-Brabant (CR);Eenpersoonshuishouden;50.5;17.9
+202;Midden-Noord-Brabant (CR);Meerpers. huishouden met minderj. kind.;51.8;36.4
+203;Midden-Noord-Brabant (CR);Meerpers. huishouden z. minderj. kind.;75.8;35.6
+204;Noordoost-Noord-Brabant (CR);Totaal particulier huishouden;244.8;31.9
+205;Noordoost-Noord-Brabant (CR);Eenpersoonshuishouden;65.3;18.3
+206;Noordoost-Noord-Brabant (CR);Meerpers. huishouden met minderj. kind.;74.8;37.1
+207;Noordoost-Noord-Brabant (CR);Meerpers. huishouden z. minderj. kind.;104.6;36.6
+208;Zuidoost-Noord-Brabant (CR);Totaal particulier huishouden;295.0;30.9
+209;Zuidoost-Noord-Brabant (CR);Eenpersoonshuishouden;86.5;18.4
+210;Zuidoost-Noord-Brabant (CR);Meerpers. huishouden met minderj. kind.;83.0;36.5
+211;Zuidoost-Noord-Brabant (CR);Meerpers. huishouden z. minderj. kind.;125.5;35.7
+212;Noord-Limburg (CR);Totaal particulier huishouden;109.8;30.5
+213;Noord-Limburg (CR);Eenpersoonshuishouden;28.9;17.4
+214;Noord-Limburg (CR);Meerpers. huishouden met minderj. kind.;32.9;35.2
+215;Noord-Limburg (CR);Meerpers. huishouden z. minderj. kind.;48.0;35.1
+216;Midden-Limburg (CR);Totaal particulier huishouden;94.7;30.5
+217;Midden-Limburg (CR);Eenpersoonshuishouden;25.1;17.4
+218;Midden-Limburg (CR);Meerpers. huishouden met minderj. kind.;27.1;36.2
+219;Midden-Limburg (CR);Meerpers. huishouden z. minderj. kind.;42.5;34.7
+220;Zuid-Limburg (CR);Totaal particulier huishouden;269.7;28.6
+221;Zuid-Limburg (CR);Eenpersoonshuishouden;85.5;17.3
+222;Zuid-Limburg (CR);Meerpers. huishouden met minderj. kind.;69.3;35.0
+223;Zuid-Limburg (CR);Meerpers. huishouden z. minderj. kind.;114.9;33.1
+224;Flevoland (CR);Totaal particulier huishouden;135.1;30.8
+225;Flevoland (CR);Eenpersoonshuishouden;35.2;17.9
+226;Flevoland (CR);Meerpers. huishouden met minderj. kind.;50.5;35.4
+227;Flevoland (CR);Meerpers. huishouden z. minderj. kind.;49.3;35.3
+228;Groningen (GA);Totaal particulier huishouden;86.6;26.1
+229;Groningen (GA);Eenpersoonshuishouden;41.2;17.8
+230;Groningen (GA);Meerpers. huishouden met minderj. kind.;17.0;33.9
+231;Groningen (GA);Meerpers. huishouden z. minderj. kind.;28.4;33.4
+232;Leeuwarden (GA);Totaal particulier huishouden;40.7;25.5
+233;Leeuwarden (GA);Eenpersoonshuishouden;17.6;16.9
+234;Leeuwarden (GA);Meerpers. huishouden met minderj. kind.;9.1;32.2
+235;Leeuwarden (GA);Meerpers. huishouden z. minderj. kind.;14.1;31.8
+236;Zwolle (GA);Totaal particulier huishouden;46.9;29.1
+237;Zwolle (GA);Eenpersoonshuishouden;17.0;18.0
+238;Zwolle (GA);Meerpers. huishouden met minderj. kind.;12.6;36.3
+239;Zwolle (GA);Meerpers. huishouden z. minderj. kind.;17.3;34.8
+240;Enschede (GA);Totaal particulier huishouden;63.2;26.2
+241;Enschede (GA);Eenpersoonshuishouden;22.7;16.7
+242;Enschede (GA);Meerpers. huishouden met minderj. kind.;16.5;32.2
+243;Enschede (GA);Meerpers. huishouden z. minderj. kind.;24.0;31.0
+244;Apeldoorn (GA);Totaal particulier huishouden;64.6;30.7
+245;Apeldoorn (GA);Eenpersoonshuishouden;20.5;18.5
+246;Apeldoorn (GA);Meerpers. huishouden met minderj. kind.;17.8;36.9
+247;Apeldoorn (GA);Meerpers. huishouden z. minderj. kind.;26.3;36.0
+248;Arnhem (GA);Totaal particulier huishouden;65.0;26.8
+249;Arnhem (GA);Eenpersoonshuishouden;27.3;17.4
+250;Arnhem (GA);Meerpers. huishouden met minderj. kind.;15.1;33.0
+251;Arnhem (GA);Meerpers. huishouden z. minderj. kind.;22.5;34.0
+252;Nijmegen (GA);Totaal particulier huishouden;69.1;26.8
+253;Nijmegen (GA);Eenpersoonshuishouden;30.7;17.4
+254;Nijmegen (GA);Meerpers. huishouden met minderj. kind.;15.6;34.5
+255;Nijmegen (GA);Meerpers. huishouden z. minderj. kind.;22.9;34.1
+256;Amersfoort (GA);Totaal particulier huishouden;66.2;32.7
+257;Amersfoort (GA);Eenpersoonshuishouden;21.8;19.8
+258;Amersfoort (GA);Meerpers. huishouden met minderj. kind.;20.2;39.6
+259;Amersfoort (GA);Meerpers. huishouden z. minderj. kind.;24.3;38.6
+260;Utrecht (GA);Totaal particulier huishouden;173.2;30.3
+261;Utrecht (GA);Eenpersoonshuishouden;70.7;19.3
+262;Utrecht (GA);Meerpers. huishouden met minderj. kind.;42.9;38.1
+263;Utrecht (GA);Meerpers. huishouden z. minderj. kind.;59.6;37.6
+264;Amsterdam (GA);Totaal particulier huishouden;490.8;27.9
+265;Amsterdam (GA);Eenpersoonshuishouden;237.5;19.3
+266;Amsterdam (GA);Meerpers. huishouden met minderj. kind.;110.6;34.7
+267;Amsterdam (GA);Meerpers. huishouden z. minderj. kind.;142.7;36.8
+268;Haarlem (GA);Totaal particulier huishouden;85.6;31.9
+269;Haarlem (GA);Eenpersoonshuishouden;34.8;19.6
+270;Haarlem (GA);Meerpers. huishouden met minderj. kind.;20.3;42.0
+271;Haarlem (GA);Meerpers. huishouden z. minderj. kind.;30.5;39.0
+272;Leiden (GA);Totaal particulier huishouden;104.5;32.3
+273;Leiden (GA);Eenpersoonshuishouden;38.0;19.7
+274;Leiden (GA);Meerpers. huishouden met minderj. kind.;28.7;40.7
+275;Leiden (GA);Meerpers. huishouden z. minderj. kind.;37.9;38.7
+276;'s-Gravenhage (GA);Totaal particulier huishouden;290.8;29.3
+277;'s-Gravenhage (GA);Eenpersoonshuishouden;128.0;19.8
+278;'s-Gravenhage (GA);Meerpers. huishouden met minderj. kind.;69.2;35.8
+279;'s-Gravenhage (GA);Meerpers. huishouden z. minderj. kind.;93.6;37.4
+280;Rotterdam (GA);Totaal particulier huishouden;453.1;27.5
+281;Rotterdam (GA);Eenpersoonshuishouden;179.8;17.7
+282;Rotterdam (GA);Meerpers. huishouden met minderj. kind.;117.0;33.3
+283;Rotterdam (GA);Meerpers. huishouden z. minderj. kind.;156.3;34.5
+284;Dordrecht (GA);Totaal particulier huishouden;102.4;30.2
+285;Dordrecht (GA);Eenpersoonshuishouden;32.1;17.8
+286;Dordrecht (GA);Meerpers. huishouden met minderj. kind.;29.6;36.2
+287;Dordrecht (GA);Meerpers. huishouden z. minderj. kind.;40.7;35.5
+288;Breda (GA);Totaal particulier huishouden;70.5;30.1
+289;Breda (GA);Eenpersoonshuishouden;24.8;18.7
+290;Breda (GA);Meerpers. huishouden met minderj. kind.;18.0;37.4
+291;Breda (GA);Meerpers. huishouden z. minderj. kind.;27.7;35.7
+292;Tilburg (GA);Totaal particulier huishouden;91.0;29.0
+293;Tilburg (GA);Eenpersoonshuishouden;30.4;17.7
+294;Tilburg (GA);Meerpers. huishouden met minderj. kind.;24.4;34.9
+295;Tilburg (GA);Meerpers. huishouden z. minderj. kind.;36.1;34.5
+296;'s-Hertogenbosch (GA);Totaal particulier huishouden;67.1;31.0
+297;'s-Hertogenbosch (GA);Eenpersoonshuishouden;23.1;19.0
+298;'s-Hertogenbosch (GA);Meerpers. huishouden met minderj. kind.;18.1;37.4
+299;'s-Hertogenbosch (GA);Meerpers. huishouden z. minderj. kind.;25.8;37.3
+300;Eindhoven (GA);Totaal particulier huishouden;134.4;29.5
+301;Eindhoven (GA);Eenpersoonshuishouden;48.1;18.6
+302;Eindhoven (GA);Meerpers. huishouden met minderj. kind.;33.1;35.9
+303;Eindhoven (GA);Meerpers. huishouden z. minderj. kind.;53.2;35.4
+304;Geleen/Sittard (GA);Totaal particulier huishouden;60.1;29.5
+305;Geleen/Sittard (GA);Eenpersoonshuishouden;17.6;17.4
+306;Geleen/Sittard (GA);Meerpers. huishouden met minderj. kind.;16.2;35.6
+307;Geleen/Sittard (GA);Meerpers. huishouden z. minderj. kind.;26.3;33.8
+308;Heerlen (GA);Totaal particulier huishouden;96.0;26.7
+309;Heerlen (GA);Eenpersoonshuishouden;32.9;16.8
+310;Heerlen (GA);Meerpers. huishouden met minderj. kind.;23.5;32.7
+311;Heerlen (GA);Meerpers. huishouden z. minderj. kind.;39.5;31.3
+312;Maastricht (GA);Totaal particulier huishouden;52.4;27.4
+313;Maastricht (GA);Eenpersoonshuishouden;20.1;17.6
+314;Maastricht (GA);Meerpers. huishouden met minderj. kind.;12.0;34.3
+315;Maastricht (GA);Meerpers. huishouden z. minderj. kind.;20.3;33.0
+316;Groningen (SG);Totaal particulier huishouden;142.9;28.0
+317;Groningen (SG);Eenpersoonshuishouden;55.3;17.8
+318;Groningen (SG);Meerpers. huishouden met minderj. kind.;34.5;35.4
+319;Groningen (SG);Meerpers. huishouden z. minderj. kind.;53.1;33.8
+320;Leeuwarden (SG);Totaal particulier huishouden;67.0;27.2
+321;Leeuwarden (SG);Eenpersoonshuishouden;24.0;17.0
+322;Leeuwarden (SG);Meerpers. huishouden met minderj. kind.;17.2;33.5
+323;Leeuwarden (SG);Meerpers. huishouden z. minderj. kind.;25.8;32.4
+324;Zwolle (SG);Totaal particulier huishouden;67.9;30.2
+325;Zwolle (SG);Eenpersoonshuishouden;21.8;18.0
+326;Zwolle (SG);Meerpers. huishouden met minderj. kind.;19.3;36.9
+327;Zwolle (SG);Meerpers. huishouden z. minderj. kind.;26.9;35.1
+328;Enschede (SG);Totaal particulier huishouden;126.8;27.9
+329;Enschede (SG);Eenpersoonshuishouden;41.4;17.1
+330;Enschede (SG);Meerpers. huishouden met minderj. kind.;34.8;34.1
+331;Enschede (SG);Meerpers. huishouden z. minderj. kind.;50.7;32.6
+332;Apeldoorn (SG);Totaal particulier huishouden;86.2;31.0
+333;Apeldoorn (SG);Eenpersoonshuishouden;25.7;18.3
+334;Apeldoorn (SG);Meerpers. huishouden met minderj. kind.;24.2;37.0
+335;Apeldoorn (SG);Meerpers. huishouden z. minderj. kind.;36.3;36.0
+336;Arnhem (SG);Totaal particulier huishouden;147.6;29.6
+337;Arnhem (SG);Eenpersoonshuishouden;49.3;18.1
+338;Arnhem (SG);Meerpers. huishouden met minderj. kind.;39.9;35.8
+339;Arnhem (SG);Meerpers. huishouden z. minderj. kind.;58.4;35.1
+340;Nijmegen (SG);Totaal particulier huishouden;114.4;29.1
+341;Nijmegen (SG);Eenpersoonshuishouden;41.5;17.6
+342;Nijmegen (SG);Meerpers. huishouden met minderj. kind.;30.3;36.3
+343;Nijmegen (SG);Meerpers. huishouden z. minderj. kind.;42.7;35.2
+344;Amersfoort (SG);Totaal particulier huishouden;105.8;33.1
+345;Amersfoort (SG);Eenpersoonshuishouden;32.5;19.5
+346;Amersfoort (SG);Meerpers. huishouden met minderj. kind.;32.8;39.7
+347;Amersfoort (SG);Meerpers. huishouden z. minderj. kind.;40.6;38.6
+348;Utrecht (SG);Totaal particulier huishouden;237.7;31.6
+349;Utrecht (SG);Eenpersoonshuishouden;92.1;19.6
+350;Utrecht (SG);Meerpers. huishouden met minderj. kind.;61.5;39.8
+351;Utrecht (SG);Meerpers. huishouden z. minderj. kind.;84.1;38.6
+352;Amsterdam (SG);Totaal particulier huishouden;655.9;29.1
+353;Amsterdam (SG);Eenpersoonshuishouden;282.6;19.2
+354;Amsterdam (SG);Meerpers. huishouden met minderj. kind.;168.2;35.9
+355;Amsterdam (SG);Meerpers. huishouden z. minderj. kind.;205.1;37.3
+356;Haarlem (SG);Totaal particulier huishouden;176.0;32.0
+357;Haarlem (SG);Eenpersoonshuishouden;63.3;19.6
+358;Haarlem (SG);Meerpers. huishouden met minderj. kind.;45.7;40.0
+359;Haarlem (SG);Meerpers. huishouden z. minderj. kind.;67.0;38.2
+360;Leiden (SG);Totaal particulier huishouden;134.3;32.9
+361;Leiden (SG);Eenpersoonshuishouden;46.2;19.8
+362;Leiden (SG);Meerpers. huishouden met minderj. kind.;38.1;41.0
+363;Leiden (SG);Meerpers. huishouden z. minderj. kind.;50.0;38.9
+364;'s-Gravenhage (SG);Totaal particulier huishouden;394.7;30.0
+365;'s-Gravenhage (SG);Eenpersoonshuishouden;162.4;19.7
+366;'s-Gravenhage (SG);Meerpers. huishouden met minderj. kind.;99.7;36.6
+367;'s-Gravenhage (SG);Meerpers. huishouden z. minderj. kind.;132.7;37.6
+368;Rotterdam (SG);Totaal particulier huishouden;527.5;28.4
+369;Rotterdam (SG);Eenpersoonshuishouden;198.7;17.8
+370;Rotterdam (SG);Meerpers. huishouden met minderj. kind.;139.5;34.3
+371;Rotterdam (SG);Meerpers. huishouden z. minderj. kind.;189.2;35.0
+372;Dordrecht (SG);Totaal particulier huishouden;117.9;30.5
+373;Dordrecht (SG);Eenpersoonshuishouden;35.8;17.8
+374;Dordrecht (SG);Meerpers. huishouden met minderj. kind.;34.7;36.5
+375;Dordrecht (SG);Meerpers. huishouden z. minderj. kind.;47.4;35.6
+376;Breda (SG);Totaal particulier huishouden;126.0;30.9
+377;Breda (SG);Eenpersoonshuishouden;38.5;18.4
+378;Breda (SG);Meerpers. huishouden met minderj. kind.;34.7;37.5
+379;Breda (SG);Meerpers. huishouden z. minderj. kind.;52.7;35.7
+380;Tilburg (SG);Totaal particulier huishouden;116.1;29.9
+381;Tilburg (SG);Eenpersoonshuishouden;36.3;17.9
+382;Tilburg (SG);Meerpers. huishouden met minderj. kind.;32.3;35.8
+383;Tilburg (SG);Meerpers. huishouden z. minderj. kind.;47.5;35.1
+384;'s-Hertogenbosch (SG);Totaal particulier huishouden;77.6;31.4
+385;'s-Hertogenbosch (SG);Eenpersoonshuishouden;25.5;19.0
+386;'s-Hertogenbosch (SG);Meerpers. huishouden met minderj. kind.;21.5;37.8
+387;'s-Hertogenbosch (SG);Meerpers. huishouden z. minderj. kind.;30.6;37.3
+388;Eindhoven (SG);Totaal particulier huishouden;167.5;30.2
+389;Eindhoven (SG);Eenpersoonshuishouden;56.1;18.7
+390;Eindhoven (SG);Meerpers. huishouden met minderj. kind.;43.2;36.5
+391;Eindhoven (SG);Meerpers. huishouden z. minderj. kind.;68.2;35.8
+392;Geleen/Sittard (SG);Totaal particulier huishouden;65.5;29.8
+393;Geleen/Sittard (SG);Eenpersoonshuishouden;18.7;17.4
+394;Geleen/Sittard (SG);Meerpers. huishouden met minderj. kind.;17.8;35.7
+395;Geleen/Sittard (SG);Meerpers. huishouden z. minderj. kind.;29.0;34.0
+396;Heerlen (SG);Totaal particulier huishouden;115.9;27.5
+397;Heerlen (SG);Eenpersoonshuishouden;37.5;16.9
+398;Heerlen (SG);Meerpers. huishouden met minderj. kind.;29.2;33.5
+399;Heerlen (SG);Meerpers. huishouden z. minderj. kind.;49.2;31.9
+400;Maastricht (SG);Totaal particulier huishouden;77.7;28.9
+401;Maastricht (SG);Eenpersoonshuishouden;26.3;17.6
+402;Maastricht (SG);Meerpers. huishouden met minderj. kind.;19.4;36.1
+403;Maastricht (SG);Meerpers. huishouden z. minderj. kind.;32.0;33.9
+404;Appingedam;Totaal particulier huishouden;5.6;26.6
+405;Appingedam;Eenpersoonshuishouden;1.8;16.8
+406;Appingedam;Meerpers. huishouden met minderj. kind.;1.3;31.7
+407;Appingedam;Meerpers. huishouden z. minderj. kind.;2.5;30.9
+408;Bedum;Totaal particulier huishouden;4.1;30.0
+409;Bedum;Eenpersoonshuishouden;1.0;17.9
+410;Bedum;Meerpers. huishouden met minderj. kind.;1.3;36.5
+411;Bedum;Meerpers. huishouden z. minderj. kind.;1.8;32.1
+412;Bellingwedde;Totaal particulier huishouden;4.1;26.8
+413;Bellingwedde;Eenpersoonshuishouden;1.0;14.9
+414;Bellingwedde;Meerpers. huishouden met minderj. kind.;1.1;32.8
+415;Bellingwedde;Meerpers. huishouden z. minderj. kind.;2.0;29.9
+416;Ten Boer;Totaal particulier huishouden;2.7;30.1
+417;Ten Boer;Eenpersoonshuishouden;0.6;17.6
+418;Ten Boer;Meerpers. huishouden met minderj. kind.;1.0;33.6
+419;Ten Boer;Meerpers. huishouden z. minderj. kind.;1.1;34.2
+420;Delfzijl;Totaal particulier huishouden;12.2;27.0
+421;Delfzijl;Eenpersoonshuishouden;3.7;16.7
+422;Delfzijl;Meerpers. huishouden met minderj. kind.;3.3;31.8
+423;Delfzijl;Meerpers. huishouden z. minderj. kind.;5.3;31.3
+424;Groningen (gemeente);Totaal particulier huishouden;78.5;25.0
+425;Groningen (gemeente);Eenpersoonshuishouden;38.6;17.4
+426;Groningen (gemeente);Meerpers. huishouden met minderj. kind.;14.9;32.7
+427;Groningen (gemeente);Meerpers. huishouden z. minderj. kind.;25.1;32.2
+428;Grootegast;Totaal particulier huishouden;4.5;28.6
+429;Grootegast;Eenpersoonshuishouden;1.0;15.6
+430;Grootegast;Meerpers. huishouden met minderj. kind.;1.6;33.3
+431;Grootegast;Meerpers. huishouden z. minderj. kind.;1.9;31.3
+432;Haren;Totaal particulier huishouden;8.1;36.3
+433;Haren;Eenpersoonshuishouden;2.6;23.6
+434;Haren;Meerpers. huishouden met minderj. kind.;2.1;42.4
+435;Haren;Meerpers. huishouden z. minderj. kind.;3.3;42.2
+436;Hoogezand-Sappemeer;Totaal particulier huishouden;14.2;26.5
+437;Hoogezand-Sappemeer;Eenpersoonshuishouden;4.4;16.2
+438;Hoogezand-Sappemeer;Meerpers. huishouden met minderj. kind.;3.8;32.2
+439;Hoogezand-Sappemeer;Meerpers. huishouden z. minderj. kind.;6.1;30.5
+440;Leek;Totaal particulier huishouden;7.4;30.1
+441;Leek;Eenpersoonshuishouden;1.8;16.8
+442;Leek;Meerpers. huishouden met minderj. kind.;2.3;36.2
+443;Leek;Meerpers. huishouden z. minderj. kind.;3.3;32.9
+444;Loppersum;Totaal particulier huishouden;4.4;28.5
+445;Loppersum;Eenpersoonshuishouden;1.2;16.9
+446;Loppersum;Meerpers. huishouden met minderj. kind.;1.4;34.0
+447;Loppersum;Meerpers. huishouden z. minderj. kind.;1.8;32.3
+448;Marum;Totaal particulier huishouden;3.9;29.9
+449;Marum;Eenpersoonshuishouden;0.9;18.0
+450;Marum;Meerpers. huishouden met minderj. kind.;1.3;35.0
+451;Marum;Meerpers. huishouden z. minderj. kind.;1.7;32.1
+452;Almere;Totaal particulier huishouden;64.2;31.4
+453;Almere;Eenpersoonshuishouden;16.9;18.6
+454;Almere;Meerpers. huishouden met minderj. kind.;25.6;35.5
+455;Almere;Meerpers. huishouden z. minderj. kind.;21.7;36.4
+456;Stadskanaal;Totaal particulier huishouden;14.3;26.1
+457;Stadskanaal;Eenpersoonshuishouden;4.2;15.7
+458;Stadskanaal;Meerpers. huishouden met minderj. kind.;3.8;32.6
+459;Stadskanaal;Meerpers. huishouden z. minderj. kind.;6.3;29.1
+460;Scheemda;Totaal particulier huishouden;5.9;27.8
+461;Scheemda;Eenpersoonshuishouden;1.5;16.2
+462;Scheemda;Meerpers. huishouden met minderj. kind.;1.7;33.9
+463;Scheemda;Meerpers. huishouden z. minderj. kind.;2.6;30.7
+464;Slochteren;Totaal particulier huishouden;5.9;30.7
+465;Slochteren;Eenpersoonshuishouden;1.4;17.0
+466;Slochteren;Meerpers. huishouden met minderj. kind.;1.8;36.8
+467;Slochteren;Meerpers. huishouden z. minderj. kind.;2.7;33.7
+468;Veendam;Totaal particulier huishouden;11.9;27.5
+469;Veendam;Eenpersoonshuishouden;3.3;16.3
+470;Veendam;Meerpers. huishouden met minderj. kind.;3.3;33.0
+471;Veendam;Meerpers. huishouden z. minderj. kind.;5.3;31.0
+472;Vlagtwedde;Totaal particulier huishouden;7.0;25.9
+473;Vlagtwedde;Eenpersoonshuishouden;1.9;15.3
+474;Vlagtwedde;Meerpers. huishouden met minderj. kind.;1.8;31.0
+475;Vlagtwedde;Meerpers. huishouden z. minderj. kind.;3.3;29.1
+476;Zeewolde;Totaal particulier huishouden;6.9;33.0
+477;Zeewolde;Eenpersoonshuishouden;1.4;19.8
+478;Zeewolde;Meerpers. huishouden met minderj. kind.;3.0;38.1
+479;Zeewolde;Meerpers. huishouden z. minderj. kind.;2.5;34.2
+480;SkarsterlÔn;Totaal particulier huishouden;10.7;29.8
+481;SkarsterlÔn;Eenpersoonshuishouden;2.7;17.6
+482;SkarsterlÔn;Meerpers. huishouden met minderj. kind.;3.2;34.8
+483;SkarsterlÔn;Meerpers. huishouden z. minderj. kind.;4.7;33.2
+484;Winschoten;Totaal particulier huishouden;8.6;24.9
+485;Winschoten;Eenpersoonshuishouden;3.3;15.3
+486;Winschoten;Meerpers. huishouden met minderj. kind.;1.8;32.6
+487;Winschoten;Meerpers. huishouden z. minderj. kind.;3.4;30.1
+488;Winsum;Totaal particulier huishouden;5.5;30.0
+489;Winsum;Eenpersoonshuishouden;1.4;17.4
+490;Winsum;Meerpers. huishouden met minderj. kind.;1.8;35.3
+491;Winsum;Meerpers. huishouden z. minderj. kind.;2.3;33.7
+492;Boarnsterhim;Totaal particulier huishouden;7.8;29.1
+493;Boarnsterhim;Eenpersoonshuishouden;2.2;17.1
+494;Boarnsterhim;Meerpers. huishouden met minderj. kind.;2.3;35.3
+495;Boarnsterhim;Meerpers. huishouden z. minderj. kind.;3.3;32.8
+496;Zuidhorn;Totaal particulier huishouden;6.8;30.6
+497;Zuidhorn;Eenpersoonshuishouden;1.7;17.9
+498;Zuidhorn;Meerpers. huishouden met minderj. kind.;2.3;35.8
+499;Zuidhorn;Meerpers. huishouden z. minderj. kind.;2.8;34.0
+500;Dongeradeel;Totaal particulier huishouden;9.8;27.0
+501;Dongeradeel;Eenpersoonshuishouden;2.8;16.3
+502;Dongeradeel;Meerpers. huishouden met minderj. kind.;3.0;32.0
+503;Dongeradeel;Meerpers. huishouden z. minderj. kind.;4.1;30.7
+504;Achtkarspelen;Totaal particulier huishouden;11.0;27.5
+505;Achtkarspelen;Eenpersoonshuishouden;2.8;15.3
+506;Achtkarspelen;Meerpers. huishouden met minderj. kind.;3.4;33.0
+507;Achtkarspelen;Meerpers. huishouden z. minderj. kind.;4.8;30.5
+508;Ameland;Totaal particulier huishouden;1.5;28.6
+509;Ameland;Eenpersoonshuishouden;0.5;18.0
+510;Ameland;Meerpers. huishouden met minderj. kind.;0.4;35.1
+511;Ameland;Meerpers. huishouden z. minderj. kind.;0.6;33.1
+512;het Bildt;Totaal particulier huishouden;4.3;26.9
+513;het Bildt;Eenpersoonshuishouden;1.2;15.5
+514;het Bildt;Meerpers. huishouden met minderj. kind.;1.3;32.3
+515;het Bildt;Meerpers. huishouden z. minderj. kind.;1.8;30.8
+516;Bolsward;Totaal particulier huishouden;4.0;26.9
+517;Bolsward;Eenpersoonshuishouden;1.3;16.7
+518;Bolsward;Meerpers. huishouden met minderj. kind.;1.0;33.4
+519;Bolsward;Meerpers. huishouden z. minderj. kind.;1.6;31.3
+520;Dantumadeel;Totaal particulier huishouden;7.4;27.7
+521;Dantumadeel;Eenpersoonshuishouden;1.8;15.5
+522;Dantumadeel;Meerpers. huishouden met minderj. kind.;2.3;33.3
+523;Dantumadeel;Meerpers. huishouden z. minderj. kind.;3.3;30.5
+524;Franekeradeel;Totaal particulier huishouden;8.7;27.0
+525;Franekeradeel;Eenpersoonshuishouden;2.9;16.1
+526;Franekeradeel;Meerpers. huishouden met minderj. kind.;2.5;33.4
+527;Franekeradeel;Meerpers. huishouden z. minderj. kind.;3.3;31.6
+528;Harlingen;Totaal particulier huishouden;6.6;27.2
+529;Harlingen;Eenpersoonshuishouden;2.2;16.2
+530;Harlingen;Meerpers. huishouden met minderj. kind.;1.8;33.2
+531;Harlingen;Meerpers. huishouden z. minderj. kind.;2.7;32.1
+532;Heerenveen;Totaal particulier huishouden;18.2;28.3
+533;Heerenveen;Eenpersoonshuishouden;6.0;17.2
+534;Heerenveen;Meerpers. huishouden met minderj. kind.;4.6;34.6
+535;Heerenveen;Meerpers. huishouden z. minderj. kind.;7.6;33.2
+536;Kollumerland en Nieuwkruisland;Totaal particulier huishouden;5.1;28.1
+537;Kollumerland en Nieuwkruisland;Eenpersoonshuishouden;1.3;16.5
+538;Kollumerland en Nieuwkruisland;Meerpers. huishouden met minderj. kind.;1.6;32.2
+539;Kollumerland en Nieuwkruisland;Meerpers. huishouden z. minderj. kind.;2.3;31.8
+540;Leeuwarden;Totaal particulier huishouden;40.7;25.5
+541;Leeuwarden;Eenpersoonshuishouden;17.6;16.9
+542;Leeuwarden;Meerpers. huishouden met minderj. kind.;9.1;32.2
+543;Leeuwarden;Meerpers. huishouden z. minderj. kind.;14.1;31.8
+544;Leeuwarderadeel;Totaal particulier huishouden;4.0;31.2
+545;Leeuwarderadeel;Eenpersoonshuishouden;0.8;20.0
+546;Leeuwarderadeel;Meerpers. huishouden met minderj. kind.;1.4;35.6
+547;Leeuwarderadeel;Meerpers. huishouden z. minderj. kind.;1.8;32.8
+548;Lemsterland;Totaal particulier huishouden;5.4;29.1
+549;Lemsterland;Eenpersoonshuishouden;1.4;16.6
+550;Lemsterland;Meerpers. huishouden met minderj. kind.;1.6;34.2
+551;Lemsterland;Meerpers. huishouden z. minderj. kind.;2.4;33.2
+552;Menaldumadeel;Totaal particulier huishouden;5.6;30.0
+553;Menaldumadeel;Eenpersoonshuishouden;1.4;16.9
+554;Menaldumadeel;Meerpers. huishouden met minderj. kind.;1.7;35.6
+555;Menaldumadeel;Meerpers. huishouden z. minderj. kind.;2.4;33.6
+556;Ooststellingwerf;Totaal particulier huishouden;10.8;27.7
+557;Ooststellingwerf;Eenpersoonshuishouden;2.9;16.1
+558;Ooststellingwerf;Meerpers. huishouden met minderj. kind.;3.1;32.9
+559;Ooststellingwerf;Meerpers. huishouden z. minderj. kind.;4.8;31.3
+560;Opsterland;Totaal particulier huishouden;11.5;28.9
+561;Opsterland;Eenpersoonshuishouden;3.1;17.4
+562;Opsterland;Meerpers. huishouden met minderj. kind.;3.5;34.7
+563;Opsterland;Meerpers. huishouden z. minderj. kind.;4.9;32.1
+564;Schiermonnikoog;Totaal particulier huishouden;0.5;28.6
+565;Schiermonnikoog;Eenpersoonshuishouden;0.2;24.3
+566;Schiermonnikoog;Meerpers. huishouden met minderj. kind.;0.1;31.7
+567;Schiermonnikoog;Meerpers. huishouden z. minderj. kind.;0.2;32.4
+568;Smallingerland;Totaal particulier huishouden;22.3;27.8
+569;Smallingerland;Eenpersoonshuishouden;6.9;16.6
+570;Smallingerland;Meerpers. huishouden met minderj. kind.;6.3;33.6
+571;Smallingerland;Meerpers. huishouden z. minderj. kind.;9.1;32.2
+572;Sneek;Totaal particulier huishouden;14.2;26.9
+573;Sneek;Eenpersoonshuishouden;4.8;16.8
+574;Sneek;Meerpers. huishouden met minderj. kind.;3.8;32.9
+575;Sneek;Meerpers. huishouden z. minderj. kind.;5.5;31.7
+576;Terschelling;Totaal particulier huishouden;1.9;30.0
+577;Terschelling;Eenpersoonshuishouden;0.7;18.7
+578;Terschelling;Meerpers. huishouden met minderj. kind.;0.5;38.0
+579;Terschelling;Meerpers. huishouden z. minderj. kind.;0.8;35.9
+580;Vlieland;Totaal particulier huishouden;0.5;28.7
+581;Vlieland;Eenpersoonshuishouden;0.2;18.6
+582;Vlieland;Meerpers. huishouden met minderj. kind.;0.1;37.4
+583;Vlieland;Meerpers. huishouden z. minderj. kind.;0.2;33.8
+584;Weststellingwerf;Totaal particulier huishouden;10.8;27.6
+585;Weststellingwerf;Eenpersoonshuishouden;3.1;15.9
+586;Weststellingwerf;Meerpers. huishouden met minderj. kind.;2.8;32.8
+587;Weststellingwerf;Meerpers. huishouden z. minderj. kind.;4.9;31.8
+588;Nijefurd;Totaal particulier huishouden;4.5;27.3
+589;Nijefurd;Eenpersoonshuishouden;1.4;15.9
+590;Nijefurd;Meerpers. huishouden met minderj. kind.;1.2;32.5
+591;Nijefurd;Meerpers. huishouden z. minderj. kind.;2.0;32.2
+592;Assen;Totaal particulier huishouden;25.7;28.3
+593;Assen;Eenpersoonshuishouden;8.4;17.4
+594;Assen;Meerpers. huishouden met minderj. kind.;7.4;34.1
+595;Assen;Meerpers. huishouden z. minderj. kind.;9.9;33.4
+596;Coevorden;Totaal particulier huishouden;14.6;28.3
+597;Coevorden;Eenpersoonshuishouden;3.7;16.8
+598;Coevorden;Meerpers. huishouden met minderj. kind.;4.3;32.5
+599;Coevorden;Meerpers. huishouden z. minderj. kind.;6.6;32.1
+600;Emmen;Totaal particulier huishouden;44.5;27.4
+601;Emmen;Eenpersoonshuishouden;12.2;16.3
+602;Emmen;Meerpers. huishouden met minderj. kind.;12.7;32.5
+603;Emmen;Meerpers. huishouden z. minderj. kind.;19.6;30.9
+604;Hoogeveen;Totaal particulier huishouden;21.5;28.3
+605;Hoogeveen;Eenpersoonshuishouden;6.0;17.2
+606;Hoogeveen;Meerpers. huishouden met minderj. kind.;6.2;33.3
+607;Hoogeveen;Meerpers. huishouden z. minderj. kind.;9.3;32.1
+608;Meppel;Totaal particulier huishouden;12.7;29.2
+609;Meppel;Eenpersoonshuishouden;3.9;17.8
+610;Meppel;Meerpers. huishouden met minderj. kind.;3.6;35.2
+611;Meppel;Meerpers. huishouden z. minderj. kind.;5.2;33.6
+612;Littenseradiel;Totaal particulier huishouden;4.1;30.7
+613;Littenseradiel;Eenpersoonshuishouden;1.0;17.8
+614;Littenseradiel;Meerpers. huishouden met minderj. kind.;1.4;36.4
+615;Littenseradiel;Meerpers. huishouden z. minderj. kind.;1.7;33.7
+616;Almelo;Totaal particulier huishouden;29.5;27.5
+617;Almelo;Eenpersoonshuishouden;9.1;17.0
+618;Almelo;Meerpers. huishouden met minderj. kind.;8.5;32.4
+619;Almelo;Meerpers. huishouden z. minderj. kind.;11.9;32.1
+620;Bathmen;Totaal particulier huishouden;2.1;35.1
+621;Bathmen;Eenpersoonshuishouden;0.4;21.5
+622;Bathmen;Meerpers. huishouden met minderj. kind.;0.6;39.0
+623;Bathmen;Meerpers. huishouden z. minderj. kind.;1.0;38.5
+624;Borne;Totaal particulier huishouden;7.9;32.5
+625;Borne;Eenpersoonshuishouden;1.8;18.3
+626;Borne;Meerpers. huishouden met minderj. kind.;2.6;37.5
+627;Borne;Meerpers. huishouden z. minderj. kind.;3.4;36.2
+628;Dalfsen;Totaal particulier huishouden;9.5;32.8
+629;Dalfsen;Eenpersoonshuishouden;2.0;18.4
+630;Dalfsen;Meerpers. huishouden met minderj. kind.;3.2;38.2
+631;Dalfsen;Meerpers. huishouden z. minderj. kind.;4.3;35.6
+632;Deventer;Totaal particulier huishouden;36.5;28.1
+633;Deventer;Eenpersoonshuishouden;12.5;17.4
+634;Deventer;Meerpers. huishouden met minderj. kind.;10.1;34.0
+635;Deventer;Meerpers. huishouden z. minderj. kind.;13.9;33.3
+636;Enschede;Totaal particulier huishouden;63.2;26.2
+637;Enschede;Eenpersoonshuishouden;22.7;16.7
+638;Enschede;Meerpers. huishouden met minderj. kind.;16.5;32.2
+639;Enschede;Meerpers. huishouden z. minderj. kind.;24.0;31.0
+640;Haaksbergen;Totaal particulier huishouden;9.1;31.8
+641;Haaksbergen;Eenpersoonshuishouden;2.0;17.0
+642;Haaksbergen;Meerpers. huishouden met minderj. kind.;2.8;37.4
+643;Haaksbergen;Meerpers. huishouden z. minderj. kind.;4.3;34.9
+644;Hardenberg;Totaal particulier huishouden;20.9;30.4
+645;Hardenberg;Eenpersoonshuishouden;4.6;17.3
+646;Hardenberg;Meerpers. huishouden met minderj. kind.;7.2;35.0
+647;Hardenberg;Meerpers. huishouden z. minderj. kind.;9.1;33.4
+648;Hellendoorn;Totaal particulier huishouden;13.5;31.2
+649;Hellendoorn;Eenpersoonshuishouden;3.0;17.5
+650;Hellendoorn;Meerpers. huishouden met minderj. kind.;4.3;35.9
+651;Hellendoorn;Meerpers. huishouden z. minderj. kind.;6.2;34.6
+652;Hengelo (O.);Totaal particulier huishouden;34.6;28.6
+653;Hengelo (O.);Eenpersoonshuishouden;11.5;17.6
+654;Hengelo (O.);Meerpers. huishouden met minderj. kind.;9.4;35.4
+655;Hengelo (O.);Meerpers. huishouden z. minderj. kind.;13.7;33.2
+656;Kampen;Totaal particulier huishouden;18.7;28.6
+657;Kampen;Eenpersoonshuishouden;5.3;16.5
+658;Kampen;Meerpers. huishouden met minderj. kind.;6.0;34.1
+659;Kampen;Meerpers. huishouden z. minderj. kind.;7.3;32.8
+660;Losser;Totaal particulier huishouden;8.3;30.9
+661;Losser;Eenpersoonshuishouden;1.7;16.3
+662;Losser;Meerpers. huishouden met minderj. kind.;2.7;35.4
+663;Losser;Meerpers. huishouden z. minderj. kind.;3.9;34.3
+664;Noordoostpolder;Totaal particulier huishouden;17.4;29.3
+665;Noordoostpolder;Eenpersoonshuishouden;4.6;17.3
+666;Noordoostpolder;Meerpers. huishouden met minderj. kind.;5.7;34.4
+667;Noordoostpolder;Meerpers. huishouden z. minderj. kind.;7.1;33.0
+668;Oldenzaal;Totaal particulier huishouden;12.7;30.2
+669;Oldenzaal;Eenpersoonshuishouden;3.5;18.1
+670;Oldenzaal;Meerpers. huishouden met minderj. kind.;3.5;36.3
+671;Oldenzaal;Meerpers. huishouden z. minderj. kind.;5.6;34.0
+672;Ommen;Totaal particulier huishouden;6.4;31.0
+673;Ommen;Eenpersoonshuishouden;1.7;17.7
+674;Ommen;Meerpers. huishouden met minderj. kind.;2.0;35.3
+675;Ommen;Meerpers. huishouden z. minderj. kind.;2.7;36.2
+676;Raalte;Totaal particulier huishouden;13.8;30.7
+677;Raalte;Eenpersoonshuishouden;3.2;17.1
+678;Raalte;Meerpers. huishouden met minderj. kind.;4.5;35.6
+679;Raalte;Meerpers. huishouden z. minderj. kind.;6.0;34.3
+680;Rijssen;Totaal particulier huishouden;12.5;32.6
+681;Rijssen;Eenpersoonshuishouden;2.7;18.5
+682;Rijssen;Meerpers. huishouden met minderj. kind.;4.4;36.9
+683;Rijssen;Meerpers. huishouden z. minderj. kind.;5.3;36.2
+684;Staphorst;Totaal particulier huishouden;4.8;33.8
+685;Staphorst;Eenpersoonshuishouden;0.9;16.8
+686;Staphorst;Meerpers. huishouden met minderj. kind.;2.0;38.2
+687;Staphorst;Meerpers. huishouden z. minderj. kind.;2.0;36.8
+688;Tubbergen;Totaal particulier huishouden;6.7;34.2
+689;Tubbergen;Eenpersoonshuishouden;1.2;17.6
+690;Tubbergen;Meerpers. huishouden met minderj. kind.;2.6;37.7
+691;Tubbergen;Meerpers. huishouden z. minderj. kind.;2.9;37.7
+692;Urk;Totaal particulier huishouden;4.5;33.0
+693;Urk;Eenpersoonshuishouden;0.8;16.2
+694;Urk;Meerpers. huishouden met minderj. kind.;2.5;37.4
+695;Urk;Meerpers. huishouden z. minderj. kind.;1.3;34.4
+696;Wierden;Totaal particulier huishouden;8.3;34.0
+697;Wierden;Eenpersoonshuishouden;1.6;21.7
+698;Wierden;Meerpers. huishouden met minderj. kind.;2.9;38.6
+699;Wierden;Meerpers. huishouden z. minderj. kind.;3.8;35.6
+700;Zwolle;Totaal particulier huishouden;46.9;29.1
+701;Zwolle;Eenpersoonshuishouden;17.0;18.0
+702;Zwolle;Meerpers. huishouden met minderj. kind.;12.6;36.3
+703;Zwolle;Meerpers. huishouden z. minderj. kind.;17.3;34.8
+704;Rijnwaarden;Totaal particulier huishouden;4.3;29.6
+705;Rijnwaarden;Eenpersoonshuishouden;0.9;16.3
+706;Rijnwaarden;Meerpers. huishouden met minderj. kind.;1.3;33.4
+707;Rijnwaarden;Meerpers. huishouden z. minderj. kind.;2.1;32.7
+708;Aalten;Totaal particulier huishouden;7.1;29.9
+709;Aalten;Eenpersoonshuishouden;1.9;17.7
+710;Aalten;Meerpers. huishouden met minderj. kind.;2.2;36.5
+711;Aalten;Meerpers. huishouden z. minderj. kind.;3.1;32.7
+712;Angerlo;Totaal particulier huishouden;1.9;32.3
+713;Angerlo;Eenpersoonshuishouden;0.4;17.0
+714;Angerlo;Meerpers. huishouden met minderj. kind.;0.6;38.4
+715;Angerlo;Meerpers. huishouden z. minderj. kind.;0.9;35.3
+716;Apeldoorn;Totaal particulier huishouden;64.6;30.7
+717;Apeldoorn;Eenpersoonshuishouden;20.5;18.5
+718;Apeldoorn;Meerpers. huishouden met minderj. kind.;17.8;36.9
+719;Apeldoorn;Meerpers. huishouden z. minderj. kind.;26.3;36.0
+720;Arnhem;Totaal particulier huishouden;64.3;26.6
+721;Arnhem;Eenpersoonshuishouden;27.2;17.4
+722;Arnhem;Meerpers. huishouden met minderj. kind.;14.9;32.9
+723;Arnhem;Meerpers. huishouden z. minderj. kind.;22.2;33.7
+724;Barneveld;Totaal particulier huishouden;16.5;33.8
+725;Barneveld;Eenpersoonshuishouden;3.5;18.4
+726;Barneveld;Meerpers. huishouden met minderj. kind.;6.2;39.2
+727;Barneveld;Meerpers. huishouden z. minderj. kind.;6.8;36.8
+728;Bergh;Totaal particulier huishouden;7.2;30.4
+729;Bergh;Eenpersoonshuishouden;1.6;17.4
+730;Bergh;Meerpers. huishouden met minderj. kind.;2.2;36.8
+731;Bergh;Meerpers. huishouden z. minderj. kind.;3.3;32.6
+732;Beuningen;Totaal particulier huishouden;9.5;33.4
+733;Beuningen;Eenpersoonshuishouden;2.1;18.3
+734;Beuningen;Meerpers. huishouden met minderj. kind.;3.4;38.4
+735;Beuningen;Meerpers. huishouden z. minderj. kind.;4.0;37.0
+736;Borculo;Totaal particulier huishouden;4.0;29.5
+737;Borculo;Eenpersoonshuishouden;0.9;16.8
+738;Borculo;Meerpers. huishouden met minderj. kind.;1.2;34.3
+739;Borculo;Meerpers. huishouden z. minderj. kind.;1.9;32.8
+740;Brummen;Totaal particulier huishouden;8.4;32.7
+741;Brummen;Eenpersoonshuishouden;1.9;17.3
+742;Brummen;Meerpers. huishouden met minderj. kind.;2.5;37.3
+743;Brummen;Meerpers. huishouden z. minderj. kind.;3.9;37.4
+744;Buren;Totaal particulier huishouden;9.7;34.0
+745;Buren;Eenpersoonshuishouden;2.2;17.9
+746;Buren;Meerpers. huishouden met minderj. kind.;3.2;39.8
+747;Buren;Meerpers. huishouden z. minderj. kind.;4.3;37.7
+748;Culemborg;Totaal particulier huishouden;10.3;33.1
+749;Culemborg;Eenpersoonshuishouden;2.8;18.2
+750;Culemborg;Meerpers. huishouden met minderj. kind.;3.5;39.8
+751;Culemborg;Meerpers. huishouden z. minderj. kind.;4.0;37.8
+752;Didam;Totaal particulier huishouden;6.3;32.3
+753;Didam;Eenpersoonshuishouden;1.3;17.4
+754;Didam;Meerpers. huishouden met minderj. kind.;2.0;37.0
+755;Didam;Meerpers. huishouden z. minderj. kind.;3.0;35.5
+756;Dinxperlo;Totaal particulier huishouden;3.4;30.4
+757;Dinxperlo;Eenpersoonshuishouden;0.8;16.5
+758;Dinxperlo;Meerpers. huishouden met minderj. kind.;1.0;35.9
+759;Dinxperlo;Meerpers. huishouden z. minderj. kind.;1.6;34.2
+760;Doesburg;Totaal particulier huishouden;4.7;28.8
+761;Doesburg;Eenpersoonshuishouden;1.3;18.9
+762;Doesburg;Meerpers. huishouden met minderj. kind.;1.4;34.1
+763;Doesburg;Meerpers. huishouden z. minderj. kind.;1.9;31.4
+764;Doetinchem;Totaal particulier huishouden;20.3;29.5
+765;Doetinchem;Eenpersoonshuishouden;6.0;17.5
+766;Doetinchem;Meerpers. huishouden met minderj. kind.;5.8;35.5
+767;Doetinchem;Meerpers. huishouden z. minderj. kind.;8.5;33.8
+768;Druten;Totaal particulier huishouden;6.7;32.1
+769;Druten;Eenpersoonshuishouden;1.6;17.1
+770;Druten;Meerpers. huishouden met minderj. kind.;2.2;37.9
+771;Druten;Meerpers. huishouden z. minderj. kind.;2.9;35.7
+772;Duiven;Totaal particulier huishouden;9.7;32.4
+773;Duiven;Eenpersoonshuishouden;2.0;17.7
+774;Duiven;Meerpers. huishouden met minderj. kind.;3.8;37.2
+775;Duiven;Meerpers. huishouden z. minderj. kind.;4.0;35.1
+776;Ede;Totaal particulier huishouden;39.5;32.4
+777;Ede;Eenpersoonshuishouden;11.1;18.9
+778;Ede;Meerpers. huishouden met minderj. kind.;12.7;38.7
+779;Ede;Meerpers. huishouden z. minderj. kind.;15.7;36.8
+780;Eibergen;Totaal particulier huishouden;6.2;30.1
+781;Eibergen;Eenpersoonshuishouden;1.5;15.7
+782;Eibergen;Meerpers. huishouden met minderj. kind.;1.9;36.0
+783;Eibergen;Meerpers. huishouden z. minderj. kind.;2.8;33.8
+784;Elburg;Totaal particulier huishouden;7.7;32.1
+785;Elburg;Eenpersoonshuishouden;1.7;17.4
+786;Elburg;Meerpers. huishouden met minderj. kind.;2.8;36.8
+787;Elburg;Meerpers. huishouden z. minderj. kind.;3.3;35.6
+788;Epe;Totaal particulier huishouden;12.9;31.7
+789;Epe;Eenpersoonshuishouden;3.3;17.5
+790;Epe;Meerpers. huishouden met minderj. kind.;3.8;36.9
+791;Epe;Meerpers. huishouden z. minderj. kind.;5.9;36.2
+792;Ermelo;Totaal particulier huishouden;10.6;31.5
+793;Ermelo;Eenpersoonshuishouden;3.6;17.0
+794;Ermelo;Meerpers. huishouden met minderj. kind.;2.9;39.6
+795;Ermelo;Meerpers. huishouden z. minderj. kind.;4.1;38.3
+796;Geldermalsen;Totaal particulier huishouden;9.8;33.6
+797;Geldermalsen;Eenpersoonshuishouden;2.5;17.3
+798;Geldermalsen;Meerpers. huishouden met minderj. kind.;3.2;40.2
+799;Geldermalsen;Meerpers. huishouden z. minderj. kind.;4.1;38.2
+800;Gendringen;Totaal particulier huishouden;8.0;29.5
+801;Gendringen;Eenpersoonshuishouden;1.9;16.1
+802;Gendringen;Meerpers. huishouden met minderj. kind.;2.6;34.3
+803;Gendringen;Meerpers. huishouden z. minderj. kind.;3.5;33.1
+804;Gorssel;Totaal particulier huishouden;5.4;34.5
+805;Gorssel;Eenpersoonshuishouden;1.3;22.1
+806;Gorssel;Meerpers. huishouden met minderj. kind.;1.4;39.3
+807;Gorssel;Meerpers. huishouden z. minderj. kind.;2.6;38.4
+808;Groenlo;Totaal particulier huishouden;3.9;29.6
+809;Groenlo;Eenpersoonshuishouden;1.1;17.8
+810;Groenlo;Meerpers. huishouden met minderj. kind.;1.0;35.1
+811;Groenlo;Meerpers. huishouden z. minderj. kind.;1.7;33.8
+812;Groesbeek;Totaal particulier huishouden;7.2;31.0
+813;Groesbeek;Eenpersoonshuishouden;1.8;17.8
+814;Groesbeek;Meerpers. huishouden met minderj. kind.;2.1;37.2
+815;Groesbeek;Meerpers. huishouden z. minderj. kind.;3.3;34.2
+816;Harderwijk;Totaal particulier huishouden;15.8;31.4
+817;Harderwijk;Eenpersoonshuishouden;4.5;18.6
+818;Harderwijk;Meerpers. huishouden met minderj. kind.;5.2;37.5
+819;Harderwijk;Meerpers. huishouden z. minderj. kind.;6.2;35.5
+820;Hattem;Totaal particulier huishouden;4.6;32.7
+821;Hattem;Eenpersoonshuishouden;1.1;18.6
+822;Hattem;Meerpers. huishouden met minderj. kind.;1.4;38.8
+823;Hattem;Meerpers. huishouden z. minderj. kind.;2.1;36.4
+824;Heerde;Totaal particulier huishouden;7.0;31.9
+825;Heerde;Eenpersoonshuishouden;1.6;17.5
+826;Heerde;Meerpers. huishouden met minderj. kind.;2.1;37.4
+827;Heerde;Meerpers. huishouden z. minderj. kind.;3.2;35.4
+828;Hengelo (Gld.);Totaal particulier huishouden;3.2;31.6
+829;Hengelo (Gld.);Eenpersoonshuishouden;0.7;16.9
+830;Hengelo (Gld.);Meerpers. huishouden met minderj. kind.;1.0;36.6
+831;Hengelo (Gld.);Meerpers. huishouden z. minderj. kind.;1.6;34.8
+832;Heumen;Totaal particulier huishouden;6.2;34.8
+833;Heumen;Eenpersoonshuishouden;1.4;19.4
+834;Heumen;Meerpers. huishouden met minderj. kind.;2.2;40.4
+835;Heumen;Meerpers. huishouden z. minderj. kind.;2.6;38.2
+836;Hummelo en Keppel;Totaal particulier huishouden;1.8;33.6
+837;Hummelo en Keppel;Eenpersoonshuishouden;0.5;20.2
+838;Hummelo en Keppel;Meerpers. huishouden met minderj. kind.;0.5;39.6
+839;Hummelo en Keppel;Meerpers. huishouden z. minderj. kind.;0.9;37.4
+840;Kesteren;Totaal particulier huishouden;7.5;33.3
+841;Kesteren;Eenpersoonshuishouden;1.5;16.7
+842;Kesteren;Meerpers. huishouden met minderj. kind.;2.8;38.7
+843;Kesteren;Meerpers. huishouden z. minderj. kind.;3.2;36.4
+844;Lichtenvoorde;Totaal particulier huishouden;7.1;31.8
+845;Lichtenvoorde;Eenpersoonshuishouden;1.6;17.3
+846;Lichtenvoorde;Meerpers. huishouden met minderj. kind.;2.3;37.4
+847;Lichtenvoorde;Meerpers. huishouden z. minderj. kind.;3.2;34.7
+848;Lochem;Totaal particulier huishouden;7.6;32.7
+849;Lochem;Eenpersoonshuishouden;2.0;18.5
+850;Lochem;Meerpers. huishouden met minderj. kind.;2.1;38.1
+851;Lochem;Meerpers. huishouden z. minderj. kind.;3.5;37.5
+852;Maasdriel;Totaal particulier huishouden;8.7;33.6
+853;Maasdriel;Eenpersoonshuishouden;1.9;18.7
+854;Maasdriel;Meerpers. huishouden met minderj. kind.;2.9;38.4
+855;Maasdriel;Meerpers. huishouden z. minderj. kind.;3.9;37.5
+856;Millingen aan de Rijn;Totaal particulier huishouden;2.3;31.1
+857;Millingen aan de Rijn;Eenpersoonshuishouden;0.5;18.0
+858;Millingen aan de Rijn;Meerpers. huishouden met minderj. kind.;0.8;34.2
+859;Millingen aan de Rijn;Meerpers. huishouden z. minderj. kind.;1.0;35.2
+860;Neede;Totaal particulier huishouden;4.4;29.9
+861;Neede;Eenpersoonshuishouden;1.1;16.6
+862;Neede;Meerpers. huishouden met minderj. kind.;1.2;36.5
+863;Neede;Meerpers. huishouden z. minderj. kind.;2.1;32.7
+864;Nijkerk;Totaal particulier huishouden;14.1;33.8
+865;Nijkerk;Eenpersoonshuishouden;3.3;18.0
+866;Nijkerk;Meerpers. huishouden met minderj. kind.;4.8;38.4
+867;Nijkerk;Meerpers. huishouden z. minderj. kind.;6.0;38.8
+868;Nijmegen;Totaal particulier huishouden;69.1;26.8
+869;Nijmegen;Eenpersoonshuishouden;30.7;17.4
+870;Nijmegen;Meerpers. huishouden met minderj. kind.;15.6;34.5
+871;Nijmegen;Meerpers. huishouden z. minderj. kind.;22.9;34.1
+872;Oldebroek;Totaal particulier huishouden;7.5;34.1
+873;Oldebroek;Eenpersoonshuishouden;1.3;18.1
+874;Oldebroek;Meerpers. huishouden met minderj. kind.;3.0;38.4
+875;Oldebroek;Meerpers. huishouden z. minderj. kind.;3.2;36.6
+876;Putten;Totaal particulier huishouden;8.4;33.9
+877;Putten;Eenpersoonshuishouden;2.0;18.6
+878;Putten;Meerpers. huishouden met minderj. kind.;2.8;39.5
+879;Putten;Meerpers. huishouden z. minderj. kind.;3.6;37.8
+880;Renkum;Totaal particulier huishouden;13.8;32.6
+881;Renkum;Eenpersoonshuishouden;4.8;21.0
+882;Renkum;Meerpers. huishouden met minderj. kind.;3.3;39.4
+883;Renkum;Meerpers. huishouden z. minderj. kind.;5.8;38.3
+884;Rheden;Totaal particulier huishouden;19.3;30.4
+885;Rheden;Eenpersoonshuishouden;6.4;19.4
+886;Rheden;Meerpers. huishouden met minderj. kind.;4.5;36.8
+887;Rheden;Meerpers. huishouden z. minderj. kind.;8.4;35.4
+888;Rozendaal;Totaal particulier huishouden;0.6;42.8
+889;Rozendaal;Eenpersoonshuishouden;0.1;23.7
+890;Rozendaal;Meerpers. huishouden met minderj. kind.;0.2;44.1
+891;Rozendaal;Meerpers. huishouden z. minderj. kind.;0.3;49.2
+892;Ruurlo;Totaal particulier huishouden;3.3;30.8
+893;Ruurlo;Eenpersoonshuishouden;0.7;16.9
+894;Ruurlo;Meerpers. huishouden met minderj. kind.;1.0;36.3
+895;Ruurlo;Meerpers. huishouden z. minderj. kind.;1.6;33.6
+896;Scherpenzeel;Totaal particulier huishouden;3.3;33.8
+897;Scherpenzeel;Eenpersoonshuishouden;0.7;19.9
+898;Scherpenzeel;Meerpers. huishouden met minderj. kind.;1.1;38.7
+899;Scherpenzeel;Meerpers. huishouden z. minderj. kind.;1.5;37.1
+900;Steenderen;Totaal particulier huishouden;1.9;30.3
+901;Steenderen;Eenpersoonshuishouden;0.4;12.7
+902;Steenderen;Meerpers. huishouden met minderj. kind.;0.6;36.6
+903;Steenderen;Meerpers. huishouden z. minderj. kind.;0.9;34.5
+904;Tiel;Totaal particulier huishouden;16.2;30.0
+905;Tiel;Eenpersoonshuishouden;4.6;17.2
+906;Tiel;Meerpers. huishouden met minderj. kind.;5.3;35.4
+907;Tiel;Meerpers. huishouden z. minderj. kind.;6.3;34.7
+908;Ubbergen;Totaal particulier huishouden;3.9;30.9
+909;Ubbergen;Eenpersoonshuishouden;1.2;19.1
+910;Ubbergen;Meerpers. huishouden met minderj. kind.;1.0;38.2
+911;Ubbergen;Meerpers. huishouden z. minderj. kind.;1.7;35.0
+912;Voorst;Totaal particulier huishouden;8.7;32.3
+913;Voorst;Eenpersoonshuishouden;2.0;17.1
+914;Voorst;Meerpers. huishouden met minderj. kind.;2.6;37.8
+915;Voorst;Meerpers. huishouden z. minderj. kind.;4.2;36.1
+916;Vorden;Totaal particulier huishouden;3.3;31.4
+917;Vorden;Eenpersoonshuishouden;0.8;18.6
+918;Vorden;Meerpers. huishouden met minderj. kind.;0.9;36.8
+919;Vorden;Meerpers. huishouden z. minderj. kind.;1.6;34.6
+920;Wageningen;Totaal particulier huishouden;13.4;29.2
+921;Wageningen;Eenpersoonshuishouden;5.6;18.4
+922;Wageningen;Meerpers. huishouden met minderj. kind.;3.1;38.2
+923;Wageningen;Meerpers. huishouden z. minderj. kind.;4.7;36.1
+924;Warnsveld;Totaal particulier huishouden;3.4;33.4
+925;Warnsveld;Eenpersoonshuishouden;0.7;20.0
+926;Warnsveld;Meerpers. huishouden met minderj. kind.;1.1;38.2
+927;Warnsveld;Meerpers. huishouden z. minderj. kind.;1.5;36.3
+928;Wehl;Totaal particulier huishouden;2.3;31.6
+929;Wehl;Eenpersoonshuishouden;0.4;16.7
+930;Wehl;Meerpers. huishouden met minderj. kind.;0.8;35.8
+931;Wehl;Meerpers. huishouden z. minderj. kind.;1.1;34.3
+932;Westervoort;Totaal particulier huishouden;6.1;31.3
+933;Westervoort;Eenpersoonshuishouden;1.4;18.4
+934;Westervoort;Meerpers. huishouden met minderj. kind.;2.3;34.9
+935;Westervoort;Meerpers. huishouden z. minderj. kind.;2.5;35.2
+936;Winterswijk;Totaal particulier huishouden;11.7;28.6
+937;Winterswijk;Eenpersoonshuishouden;3.4;16.4
+938;Winterswijk;Meerpers. huishouden met minderj. kind.;3.3;35.4
+939;Winterswijk;Meerpers. huishouden z. minderj. kind.;5.0;32.2
+940;Wisch;Totaal particulier huishouden;7.6;30.0
+941;Wisch;Eenpersoonshuishouden;1.9;16.5
+942;Wisch;Meerpers. huishouden met minderj. kind.;2.2;35.9
+943;Wisch;Meerpers. huishouden z. minderj. kind.;3.5;34.0
+944;Wijchen;Totaal particulier huishouden;15.2;32.1
+945;Wijchen;Eenpersoonshuishouden;3.6;17.1
+946;Wijchen;Meerpers. huishouden met minderj. kind.;5.1;37.1
+947;Wijchen;Meerpers. huishouden z. minderj. kind.;6.6;36.3
+948;Zaltbommel;Totaal particulier huishouden;9.5;32.8
+949;Zaltbommel;Eenpersoonshuishouden;2.1;17.7
+950;Zaltbommel;Meerpers. huishouden met minderj. kind.;3.3;37.2
+951;Zaltbommel;Meerpers. huishouden z. minderj. kind.;4.1;37.0
+952;Zelhem;Totaal particulier huishouden;4.3;30.9
+953;Zelhem;Eenpersoonshuishouden;0.9;16.9
+954;Zelhem;Meerpers. huishouden met minderj. kind.;1.3;36.0
+955;Zelhem;Meerpers. huishouden z. minderj. kind.;2.1;34.2
+956;Zevenaar;Totaal particulier huishouden;10.9;30.2
+957;Zevenaar;Eenpersoonshuishouden;3.1;18.6
+958;Zevenaar;Meerpers. huishouden met minderj. kind.;2.9;35.5
+959;Zevenaar;Meerpers. huishouden z. minderj. kind.;4.8;34.4
+960;Zutphen;Totaal particulier huishouden;16.0;27.6
+961;Zutphen;Eenpersoonshuishouden;5.7;17.5
+962;Zutphen;Meerpers. huishouden met minderj. kind.;4.4;33.5
+963;Zutphen;Meerpers. huishouden z. minderj. kind.;5.9;32.9
+964;Nunspeet;Totaal particulier huishouden;9.5;32.1
+965;Nunspeet;Eenpersoonshuishouden;2.4;18.1
+966;Nunspeet;Meerpers. huishouden met minderj. kind.;3.2;37.0
+967;Nunspeet;Meerpers. huishouden z. minderj. kind.;4.0;36.5
+968;Dronten;Totaal particulier huishouden;13.7;31.3
+969;Dronten;Eenpersoonshuishouden;3.1;18.0
+970;Dronten;Meerpers. huishouden met minderj. kind.;5.0;35.9
+971;Dronten;Meerpers. huishouden z. minderj. kind.;5.7;34.5
+972;Neerijnen;Totaal particulier huishouden;4.1;34.1
+973;Neerijnen;Eenpersoonshuishouden;0.9;17.2
+974;Neerijnen;Meerpers. huishouden met minderj. kind.;1.4;40.7
+975;Neerijnen;Meerpers. huishouden z. minderj. kind.;1.8;37.1
+976;Abcoude;Totaal particulier huishouden;3.3;42.8
+977;Abcoude;Eenpersoonshuishouden;0.9;25.4
+978;Abcoude;Meerpers. huishouden met minderj. kind.;1.1;49.0
+979;Abcoude;Meerpers. huishouden z. minderj. kind.;1.3;48.9
+980;Amerongen;Totaal particulier huishouden;2.8;34.8
+981;Amerongen;Eenpersoonshuishouden;0.7;21.5
+982;Amerongen;Meerpers. huishouden met minderj. kind.;0.8;38.9
+983;Amerongen;Meerpers. huishouden z. minderj. kind.;1.2;39.7
+984;Amersfoort;Totaal particulier huishouden;54.9;31.9
+985;Amersfoort;Eenpersoonshuishouden;18.8;19.6
+986;Amersfoort;Meerpers. huishouden met minderj. kind.;16.5;38.9
+987;Amersfoort;Meerpers. huishouden z. minderj. kind.;19.6;37.8
+988;Baarn;Totaal particulier huishouden;10.4;33.2
+989;Baarn;Eenpersoonshuishouden;3.7;21.0
+990;Baarn;Meerpers. huishouden met minderj. kind.;2.7;40.6
+991;Baarn;Meerpers. huishouden z. minderj. kind.;4.0;39.4
+992;De Bilt;Totaal particulier huishouden;18.0;36.4
+993;De Bilt;Eenpersoonshuishouden;6.3;22.4
+994;De Bilt;Meerpers. huishouden met minderj. kind.;4.6;45.6
+995;De Bilt;Meerpers. huishouden z. minderj. kind.;7.1;42.7
+996;Breukelen;Totaal particulier huishouden;5.7;34.8
+997;Breukelen;Eenpersoonshuishouden;1.6;19.5
+998;Breukelen;Meerpers. huishouden met minderj. kind.;1.7;44.0
+999;Breukelen;Meerpers. huishouden z. minderj. kind.;2.3;38.9
+1000;Bunnik;Totaal particulier huishouden;5.6;37.1
+1001;Bunnik;Eenpersoonshuishouden;1.4;22.6
+1002;Bunnik;Meerpers. huishouden met minderj. kind.;1.7;44.5
+1003;Bunnik;Meerpers. huishouden z. minderj. kind.;2.5;40.3
+1004;Bunschoten;Totaal particulier huishouden;6.6;34.5
+1005;Bunschoten;Eenpersoonshuishouden;1.3;17.0
+1006;Bunschoten;Meerpers. huishouden met minderj. kind.;2.6;40.0
+1007;Bunschoten;Meerpers. huishouden z. minderj. kind.;2.7;37.6
+1008;Doorn;Totaal particulier huishouden;4.3;35.7
+1009;Doorn;Eenpersoonshuishouden;1.6;22.6
+1010;Doorn;Meerpers. huishouden met minderj. kind.;1.0;42.8
+1011;Doorn;Meerpers. huishouden z. minderj. kind.;1.7;43.7
+1012;Driebergen-Rijsenburg;Totaal particulier huishouden;7.6;36.0
+1013;Driebergen-Rijsenburg;Eenpersoonshuishouden;2.6;21.3
+1014;Driebergen-Rijsenburg;Meerpers. huishouden met minderj. kind.;2.1;46.0
+1015;Driebergen-Rijsenburg;Meerpers. huishouden z. minderj. kind.;2.9;41.9
+1016;Eemnes;Totaal particulier huishouden;3.4;34.9
+1017;Eemnes;Eenpersoonshuishouden;0.9;21.2
+1018;Eemnes;Meerpers. huishouden met minderj. kind.;1.2;39.4
+1019;Eemnes;Meerpers. huishouden z. minderj. kind.;1.3;39.9
+1020;Houten;Totaal particulier huishouden;15.2;36.0
+1021;Houten;Eenpersoonshuishouden;3.7;19.0
+1022;Houten;Meerpers. huishouden met minderj. kind.;6.2;42.5
+1023;Houten;Meerpers. huishouden z. minderj. kind.;5.4;40.1
+1024;Leersum;Totaal particulier huishouden;2.9;35.0
+1025;Leersum;Eenpersoonshuishouden;0.8;18.6
+1026;Leersum;Meerpers. huishouden met minderj. kind.;0.8;41.0
+1027;Leersum;Meerpers. huishouden z. minderj. kind.;1.3;41.0
+1028;Leusden;Totaal particulier huishouden;11.3;36.9
+1029;Leusden;Eenpersoonshuishouden;2.9;21.3
+1030;Leusden;Meerpers. huishouden met minderj. kind.;3.7;43.1
+1031;Leusden;Meerpers. huishouden z. minderj. kind.;4.7;41.7
+1032;Loenen;Totaal particulier huishouden;3.4;37.2
+1033;Loenen;Eenpersoonshuishouden;1.0;20.2
+1034;Loenen;Meerpers. huishouden met minderj. kind.;1.0;48.4
+1035;Loenen;Meerpers. huishouden z. minderj. kind.;1.4;41.1
+1036;Lopik;Totaal particulier huishouden;4.9;35.3
+1037;Lopik;Eenpersoonshuishouden;1.0;18.1
+1038;Lopik;Meerpers. huishouden met minderj. kind.;1.8;39.1
+1039;Lopik;Meerpers. huishouden z. minderj. kind.;2.1;40.4
+1040;Maarn;Totaal particulier huishouden;2.4;39.9
+1041;Maarn;Eenpersoonshuishouden;0.7;23.7
+1042;Maarn;Meerpers. huishouden met minderj. kind.;0.6;45.3
+1043;Maarn;Meerpers. huishouden z. minderj. kind.;1.1;46.4
+1044;Maarssen;Totaal particulier huishouden;15.6;35.5
+1045;Maarssen;Eenpersoonshuishouden;4.1;19.7
+1046;Maarssen;Meerpers. huishouden met minderj. kind.;5.1;41.4
+1047;Maarssen;Meerpers. huishouden z. minderj. kind.;6.3;40.9
+1048;Montfoort;Totaal particulier huishouden;4.9;36.1
+1049;Montfoort;Eenpersoonshuishouden;1.1;21.4
+1050;Montfoort;Meerpers. huishouden met minderj. kind.;1.7;40.8
+1051;Montfoort;Meerpers. huishouden z. minderj. kind.;2.1;40.0
+1052;Renswoude;Totaal particulier huishouden;1.5;33.2
+1053;Renswoude;Eenpersoonshuishouden;0.3;18.3
+1054;Renswoude;Meerpers. huishouden met minderj. kind.;0.6;38.0
+1055;Renswoude;Meerpers. huishouden z. minderj. kind.;0.6;36.6
+1056;Rhenen;Totaal particulier huishouden;6.9;31.9
+1057;Rhenen;Eenpersoonshuishouden;1.8;19.3
+1058;Rhenen;Meerpers. huishouden met minderj. kind.;2.0;37.2
+1059;Rhenen;Meerpers. huishouden z. minderj. kind.;3.1;35.9
+1060;Soest;Totaal particulier huishouden;18.9;33.3
+1061;Soest;Eenpersoonshuishouden;6.1;19.7
+1062;Soest;Meerpers. huishouden met minderj. kind.;5.2;41.1
+1063;Soest;Meerpers. huishouden z. minderj. kind.;7.6;39.1
+1064;Utrecht (gemeente);Totaal particulier huishouden;118.5;28.6
+1065;Utrecht (gemeente);Eenpersoonshuishouden;55.1;19.1
+1066;Utrecht (gemeente);Meerpers. huishouden met minderj. kind.;25.7;37.1
+1067;Utrecht (gemeente);Meerpers. huishouden z. minderj. kind.;37.7;36.7
+1068;Veenendaal;Totaal particulier huishouden;23.1;31.8
+1069;Veenendaal;Eenpersoonshuishouden;6.0;18.0
+1070;Veenendaal;Meerpers. huishouden met minderj. kind.;7.9;37.4
+1071;Veenendaal;Meerpers. huishouden z. minderj. kind.;9.2;36.0
+1072;Woudenberg;Totaal particulier huishouden;4.2;33.9
+1073;Woudenberg;Eenpersoonshuishouden;1.1;18.1
+1074;Woudenberg;Meerpers. huishouden met minderj. kind.;1.3;39.0
+1075;Woudenberg;Meerpers. huishouden z. minderj. kind.;1.7;39.5
+1076;Wijk bij Duurstede;Totaal particulier huishouden;8.8;34.3
+1077;Wijk bij Duurstede;Eenpersoonshuishouden;2.1;18.8
+1078;Wijk bij Duurstede;Meerpers. huishouden met minderj. kind.;3.2;39.7
+1079;Wijk bij Duurstede;Meerpers. huishouden z. minderj. kind.;3.5;38.6
+1080;IJsselstein;Totaal particulier huishouden;13.2;34.1
+1081;IJsselstein;Eenpersoonshuishouden;3.5;20.2
+1082;IJsselstein;Meerpers. huishouden met minderj. kind.;4.5;39.9
+1083;IJsselstein;Meerpers. huishouden z. minderj. kind.;5.2;38.4
+1084;Zeist;Totaal particulier huishouden;25.7;33.2
+1085;Zeist;Eenpersoonshuishouden;10.0;20.5
+1086;Zeist;Meerpers. huishouden met minderj. kind.;6.1;43.1
+1087;Zeist;Meerpers. huishouden z. minderj. kind.;9.5;40.2
+1088;Nieuwegein;Totaal particulier huishouden;26.0;32.6
+1089;Nieuwegein;Eenpersoonshuishouden;8.1;19.4
+1090;Nieuwegein;Meerpers. huishouden met minderj. kind.;7.6;38.4
+1091;Nieuwegein;Meerpers. huishouden z. minderj. kind.;10.4;38.7
+1092;Aalsmeer;Totaal particulier huishouden;9.2;35.0
+1093;Aalsmeer;Eenpersoonshuishouden;2.5;20.3
+1094;Aalsmeer;Meerpers. huishouden met minderj. kind.;2.7;41.8
+1095;Aalsmeer;Meerpers. huishouden z. minderj. kind.;4.1;39.6
+1096;Alkmaar;Totaal particulier huishouden;41.0;28.7
+1097;Alkmaar;Eenpersoonshuishouden;15.2;17.8
+1098;Alkmaar;Meerpers. huishouden met minderj. kind.;10.9;34.9
+1099;Alkmaar;Meerpers. huishouden z. minderj. kind.;14.9;35.2
+1100;Amstelveen;Totaal particulier huishouden;35.0;35.8
+1101;Amstelveen;Eenpersoonshuishouden;14.4;23.1
+1102;Amstelveen;Meerpers. huishouden met minderj. kind.;8.4;48.6
+1103;Amstelveen;Meerpers. huishouden z. minderj. kind.;12.2;41.9
+1104;Amsterdam;Totaal particulier huishouden;372.0;26.3
+1105;Amsterdam;Eenpersoonshuishouden;197.1;19.1
+1106;Amsterdam;Meerpers. huishouden met minderj. kind.;77.9;32.4
+1107;Amsterdam;Meerpers. huishouden z. minderj. kind.;97.0;36.2
+1108;Andijk;Totaal particulier huishouden;2.5;31.4
+1109;Andijk;Eenpersoonshuishouden;0.6;17.2
+1110;Andijk;Meerpers. huishouden met minderj. kind.;0.8;37.7
+1111;Andijk;Meerpers. huishouden z. minderj. kind.;1.1;34.9
+1112;Graft-De Rijp;Totaal particulier huishouden;2.5;32.8
+1113;Graft-De Rijp;Eenpersoonshuishouden;0.6;17.3
+1114;Graft-De Rijp;Meerpers. huishouden met minderj. kind.;0.8;39.9
+1115;Graft-De Rijp;Meerpers. huishouden z. minderj. kind.;1.0;36.4
+1116;Anna Paulowna;Totaal particulier huishouden;5.4;29.9
+1117;Anna Paulowna;Eenpersoonshuishouden;1.3;16.7
+1118;Anna Paulowna;Meerpers. huishouden met minderj. kind.;1.8;36.3
+1119;Anna Paulowna;Meerpers. huishouden z. minderj. kind.;2.3;32.8
+1120;Beemster;Totaal particulier huishouden;3.3;35.9
+1121;Beemster;Eenpersoonshuishouden;0.8;19.9
+1122;Beemster;Meerpers. huishouden met minderj. kind.;1.0;45.7
+1123;Beemster;Meerpers. huishouden z. minderj. kind.;1.5;38.4
+1124;Bennebroek;Totaal particulier huishouden;2.1;40.6
+1125;Bennebroek;Eenpersoonshuishouden;0.6;30.1
+1126;Bennebroek;Meerpers. huishouden met minderj. kind.;0.5;45.9
+1127;Bennebroek;Meerpers. huishouden z. minderj. kind.;1.0;44.3
+1128;Bergen (NH.);Totaal particulier huishouden;13.2;33.8
+1129;Bergen (NH.);Eenpersoonshuishouden;4.2;20.4
+1130;Bergen (NH.);Meerpers. huishouden met minderj. kind.;3.2;40.9
+1131;Bergen (NH.);Meerpers. huishouden z. minderj. kind.;5.7;39.6
+1132;Beverwijk;Totaal particulier huishouden;16.2;29.5
+1133;Beverwijk;Eenpersoonshuishouden;5.6;18.7
+1134;Beverwijk;Meerpers. huishouden met minderj. kind.;4.2;34.4
+1135;Beverwijk;Meerpers. huishouden z. minderj. kind.;6.4;35.6
+1136;Blaricum;Totaal particulier huishouden;3.8;43.6
+1137;Blaricum;Eenpersoonshuishouden;1.0;22.4
+1138;Blaricum;Meerpers. huishouden met minderj. kind.;0.9;58.1
+1139;Blaricum;Meerpers. huishouden z. minderj. kind.;1.8;48.0
+1140;Bloemendaal;Totaal particulier huishouden;6.7;46.9
+1141;Bloemendaal;Eenpersoonshuishouden;2.0;28.2
+1142;Bloemendaal;Meerpers. huishouden met minderj. kind.;1.9;58.7
+1143;Bloemendaal;Meerpers. huishouden z. minderj. kind.;2.8;52.6
+1144;Bussum;Totaal particulier huishouden;14.3;34.9
+1145;Bussum;Eenpersoonshuishouden;5.9;21.4
+1146;Bussum;Meerpers. huishouden met minderj. kind.;3.4;49.6
+1147;Bussum;Meerpers. huishouden z. minderj. kind.;5.0;40.9
+1148;Castricum;Totaal particulier huishouden;14.1;35.0
+1149;Castricum;Eenpersoonshuishouden;3.9;20.4
+1150;Castricum;Meerpers. huishouden met minderj. kind.;4.2;41.7
+1151;Castricum;Meerpers. huishouden z. minderj. kind.;6.1;39.9
+1152;Diemen;Totaal particulier huishouden;10.3;33.1
+1153;Diemen;Eenpersoonshuishouden;3.7;21.7
+1154;Diemen;Meerpers. huishouden met minderj. kind.;3.0;39.7
+1155;Diemen;Meerpers. huishouden z. minderj. kind.;3.6;39.3
+1156;Edam-Volendam;Totaal particulier huishouden;10.6;34.9
+1157;Edam-Volendam;Eenpersoonshuishouden;2.6;18.1
+1158;Edam-Volendam;Meerpers. huishouden met minderj. kind.;3.5;40.0
+1159;Edam-Volendam;Meerpers. huishouden z. minderj. kind.;4.6;40.5
+1160;Enkhuizen;Totaal particulier huishouden;7.3;28.9
+1161;Enkhuizen;Eenpersoonshuishouden;2.4;17.7
+1162;Enkhuizen;Meerpers. huishouden met minderj. kind.;2.0;35.7
+1163;Enkhuizen;Meerpers. huishouden z. minderj. kind.;2.9;33.6
+1164;Haarlem;Totaal particulier huishouden;68.0;29.1
+1165;Haarlem;Eenpersoonshuishouden;29.0;18.5
+1166;Haarlem;Meerpers. huishouden met minderj. kind.;15.6;38.2
+1167;Haarlem;Meerpers. huishouden z. minderj. kind.;23.4;36.1
+1168;Haarlemmerliede en Spaarnwoude;Totaal particulier huishouden;2.2;36.2
+1169;Haarlemmerliede en Spaarnwoude;Eenpersoonshuishouden;0.6;20.7
+1170;Haarlemmerliede en Spaarnwoude;Meerpers. huishouden met minderj. kind.;0.7;44.7
+1171;Haarlemmerliede en Spaarnwoude;Meerpers. huishouden z. minderj. kind.;0.9;39.7
+1172;Haarlemmermeer;Totaal particulier huishouden;48.5;34.8
+1173;Haarlemmermeer;Eenpersoonshuishouden;12.9;19.2
+1174;Haarlemmermeer;Meerpers. huishouden met minderj. kind.;15.9;40.7
+1175;Haarlemmermeer;Meerpers. huishouden z. minderj. kind.;19.7;40.3
+1176;Harenkarspel;Totaal particulier huishouden;6.0;33.0
+1177;Harenkarspel;Eenpersoonshuishouden;1.6;18.0
+1178;Harenkarspel;Meerpers. huishouden met minderj. kind.;1.9;39.6
+1179;Harenkarspel;Meerpers. huishouden z. minderj. kind.;2.6;37.1
+1180;Heemskerk;Totaal particulier huishouden;14.9;31.4
+1181;Heemskerk;Eenpersoonshuishouden;4.4;19.0
+1182;Heemskerk;Meerpers. huishouden met minderj. kind.;4.4;37.1
+1183;Heemskerk;Meerpers. huishouden z. minderj. kind.;6.1;36.2
+1184;Heemstede;Totaal particulier huishouden;10.9;40.1
+1185;Heemstede;Eenpersoonshuishouden;3.7;23.7
+1186;Heemstede;Meerpers. huishouden met minderj. kind.;2.8;52.0
+1187;Heemstede;Meerpers. huishouden z. minderj. kind.;4.3;46.3
+1188;Heerhugowaard;Totaal particulier huishouden;18.3;32.0
+1189;Heerhugowaard;Eenpersoonshuishouden;4.7;19.2
+1190;Heerhugowaard;Meerpers. huishouden met minderj. kind.;5.9;36.0
+1191;Heerhugowaard;Meerpers. huishouden z. minderj. kind.;7.7;36.6
+1192;Heiloo;Totaal particulier huishouden;9.0;35.1
+1193;Heiloo;Eenpersoonshuishouden;2.6;20.5
+1194;Heiloo;Meerpers. huishouden met minderj. kind.;2.5;41.6
+1195;Heiloo;Meerpers. huishouden z. minderj. kind.;4.0;40.5
+1196;Den Helder;Totaal particulier huishouden;26.3;27.3
+1197;Den Helder;Eenpersoonshuishouden;9.1;17.5
+1198;Den Helder;Meerpers. huishouden met minderj. kind.;7.2;32.5
+1199;Den Helder;Meerpers. huishouden z. minderj. kind.;10.1;32.4
+1200;Hilversum;Totaal particulier huishouden;38.0;31.9
+1201;Hilversum;Eenpersoonshuishouden;15.1;19.8
+1202;Hilversum;Meerpers. huishouden met minderj. kind.;8.7;42.1
+1203;Hilversum;Meerpers. huishouden z. minderj. kind.;14.3;38.4
+1204;Hoorn;Totaal particulier huishouden;28.3;30.5
+1205;Hoorn;Eenpersoonshuishouden;9.0;17.5
+1206;Hoorn;Meerpers. huishouden met minderj. kind.;8.4;36.8
+1207;Hoorn;Meerpers. huishouden z. minderj. kind.;10.9;36.5
+1208;Huizen;Totaal particulier huishouden;16.9;34.8
+1209;Huizen;Eenpersoonshuishouden;4.9;20.7
+1210;Huizen;Meerpers. huishouden met minderj. kind.;5.4;40.9
+1211;Huizen;Meerpers. huishouden z. minderj. kind.;6.6;40.4
+1212;Niedorp;Totaal particulier huishouden;4.4;34.0
+1213;Niedorp;Eenpersoonshuishouden;0.9;18.1
+1214;Niedorp;Meerpers. huishouden met minderj. kind.;1.5;38.9
+1215;Niedorp;Meerpers. huishouden z. minderj. kind.;2.0;37.2
+1216;Landsmeer;Totaal particulier huishouden;4.2;35.2
+1217;Landsmeer;Eenpersoonshuishouden;1.1;20.0
+1218;Landsmeer;Meerpers. huishouden met minderj. kind.;1.3;40.9
+1219;Landsmeer;Meerpers. huishouden z. minderj. kind.;1.8;40.2
+1220;Langedijk;Totaal particulier huishouden;9.4;33.9
+1221;Langedijk;Eenpersoonshuishouden;2.2;18.3
+1222;Langedijk;Meerpers. huishouden met minderj. kind.;3.3;39.7
+1223;Langedijk;Meerpers. huishouden z. minderj. kind.;4.0;37.8
+1224;Laren (NH.);Totaal particulier huishouden;4.6;39.6
+1225;Laren (NH.);Eenpersoonshuishouden;1.6;24.0
+1226;Laren (NH.);Meerpers. huishouden met minderj. kind.;1.1;48.0
+1227;Laren (NH.);Meerpers. huishouden z. minderj. kind.;2.0;47.6
+1228;Medemblik;Totaal particulier huishouden;3.3;30.0
+1229;Medemblik;Eenpersoonshuishouden;1.0;18.0
+1230;Medemblik;Meerpers. huishouden met minderj. kind.;1.0;34.6
+1231;Medemblik;Meerpers. huishouden z. minderj. kind.;1.4;35.4
+1232;Muiden;Totaal particulier huishouden;2.8;36.9
+1233;Muiden;Eenpersoonshuishouden;0.8;21.4
+1234;Muiden;Meerpers. huishouden met minderj. kind.;0.8;44.2
+1235;Muiden;Meerpers. huishouden z. minderj. kind.;1.2;42.1
+1236;Naarden;Totaal particulier huishouden;7.1;40.6
+1237;Naarden;Eenpersoonshuishouden;2.3;23.8
+1238;Naarden;Meerpers. huishouden met minderj. kind.;2.1;51.4
+1239;Naarden;Meerpers. huishouden z. minderj. kind.;2.7;46.6
+1240;Obdam;Totaal particulier huishouden;2.5;34.3
+1241;Obdam;Eenpersoonshuishouden;0.5;18.3
+1242;Obdam;Meerpers. huishouden met minderj. kind.;0.8;41.9
+1243;Obdam;Meerpers. huishouden z. minderj. kind.;1.1;36.1
+1244;Oostzaan;Totaal particulier huishouden;3.6;35.3
+1245;Oostzaan;Eenpersoonshuishouden;0.8;20.4
+1246;Oostzaan;Meerpers. huishouden met minderj. kind.;1.2;41.6
+1247;Oostzaan;Meerpers. huishouden z. minderj. kind.;1.6;38.4
+1248;Opmeer;Totaal particulier huishouden;4.2;32.3
+1249;Opmeer;Eenpersoonshuishouden;1.0;19.0
+1250;Opmeer;Meerpers. huishouden met minderj. kind.;1.4;36.9
+1251;Opmeer;Meerpers. huishouden z. minderj. kind.;1.8;35.9
+1252;Ouder-Amstel;Totaal particulier huishouden;5.5;37.5
+1253;Ouder-Amstel;Eenpersoonshuishouden;1.8;21.7
+1254;Ouder-Amstel;Meerpers. huishouden met minderj. kind.;1.6;47.5
+1255;Ouder-Amstel;Meerpers. huishouden z. minderj. kind.;2.1;43.6
+1256;Purmerend;Totaal particulier huishouden;31.4;30.4
+1257;Purmerend;Eenpersoonshuishouden;9.5;17.7
+1258;Purmerend;Meerpers. huishouden met minderj. kind.;9.8;35.9
+1259;Purmerend;Meerpers. huishouden z. minderj. kind.;12.1;35.8
+1260;Schagen;Totaal particulier huishouden;7.4;30.6
+1261;Schagen;Eenpersoonshuishouden;2.1;18.0
+1262;Schagen;Meerpers. huishouden met minderj. kind.;1.9;36.2
+1263;Schagen;Meerpers. huishouden z. minderj. kind.;3.3;35.4
+1264;Texel;Totaal particulier huishouden;5.7;27.5
+1265;Texel;Eenpersoonshuishouden;1.8;16.4
+1266;Texel;Meerpers. huishouden met minderj. kind.;1.6;32.9
+1267;Texel;Meerpers. huishouden z. minderj. kind.;2.3;32.6
+1268;Uitgeest;Totaal particulier huishouden;4.5;35.3
+1269;Uitgeest;Eenpersoonshuishouden;1.1;20.2
+1270;Uitgeest;Meerpers. huishouden met minderj. kind.;1.5;41.0
+1271;Uitgeest;Meerpers. huishouden z. minderj. kind.;1.9;39.7
+1272;Uithoorn;Totaal particulier huishouden;11.2;35.5
+1273;Uithoorn;Eenpersoonshuishouden;3.2;20.7
+1274;Uithoorn;Meerpers. huishouden met minderj. kind.;3.3;41.4
+1275;Uithoorn;Meerpers. huishouden z. minderj. kind.;4.7;41.4
+1276;Velsen;Totaal particulier huishouden;28.4;31.5
+1277;Velsen;Eenpersoonshuishouden;9.1;19.4
+1278;Velsen;Meerpers. huishouden met minderj. kind.;8.2;38.1
+1279;Velsen;Meerpers. huishouden z. minderj. kind.;11.1;36.6
+1280;Venhuizen;Totaal particulier huishouden;2.9;34.0
+1281;Venhuizen;Eenpersoonshuishouden;0.7;18.0
+1282;Venhuizen;Meerpers. huishouden met minderj. kind.;1.0;39.4
+1283;Venhuizen;Meerpers. huishouden z. minderj. kind.;1.3;38.2
+1284;Weesp;Totaal particulier huishouden;8.1;31.1
+1285;Weesp;Eenpersoonshuishouden;3.1;19.5
+1286;Weesp;Meerpers. huishouden met minderj. kind.;2.0;39.0
+1287;Weesp;Meerpers. huishouden z. minderj. kind.;3.0;37.7
+1288;Schermer;Totaal particulier huishouden;1.9;33.3
+1289;Schermer;Eenpersoonshuishouden;0.5;18.6
+1290;Schermer;Meerpers. huishouden met minderj. kind.;0.6;39.3
+1291;Schermer;Meerpers. huishouden z. minderj. kind.;0.8;37.1
+1292;Wervershoof;Totaal particulier huishouden;3.2;31.1
+1293;Wervershoof;Eenpersoonshuishouden;0.8;17.7
+1294;Wervershoof;Meerpers. huishouden met minderj. kind.;1.0;36.4
+1295;Wervershoof;Meerpers. huishouden z. minderj. kind.;1.3;35.2
+1296;Wieringen;Totaal particulier huishouden;3.5;30.7
+1297;Wieringen;Eenpersoonshuishouden;1.0;17.1
+1298;Wieringen;Meerpers. huishouden met minderj. kind.;1.0;37.2
+1299;Wieringen;Meerpers. huishouden z. minderj. kind.;1.5;35.3
+1300;Wieringermeer;Totaal particulier huishouden;5.0;29.6
+1301;Wieringermeer;Eenpersoonshuishouden;1.2;17.5
+1302;Wieringermeer;Meerpers. huishouden met minderj. kind.;1.6;34.6
+1303;Wieringermeer;Meerpers. huishouden z. minderj. kind.;2.2;32.7
+1304;Wognum;Totaal particulier huishouden;2.9;34.1
+1305;Wognum;Eenpersoonshuishouden;0.6;17.0
+1306;Wognum;Meerpers. huishouden met minderj. kind.;1.0;39.2
+1307;Wognum;Meerpers. huishouden z. minderj. kind.;1.2;38.3
+1308;Zandvoort;Totaal particulier huishouden;7.9;30.8
+1309;Zandvoort;Eenpersoonshuishouden;3.2;19.5
+1310;Zandvoort;Meerpers. huishouden met minderj. kind.;1.6;37.7
+1311;Zandvoort;Meerpers. huishouden z. minderj. kind.;3.0;39.2
+1312;Zijpe;Totaal particulier huishouden;4.5;30.4
+1313;Zijpe;Eenpersoonshuishouden;1.2;16.0
+1314;Zijpe;Meerpers. huishouden met minderj. kind.;1.3;35.3
+1315;Zijpe;Meerpers. huishouden z. minderj. kind.;2.1;35.3
+1316;Zeevang;Totaal particulier huishouden;2.4;35.8
+1317;Zeevang;Eenpersoonshuishouden;0.5;19.0
+1318;Zeevang;Meerpers. huishouden met minderj. kind.;0.8;39.6
+1319;Zeevang;Meerpers. huishouden z. minderj. kind.;1.2;39.9
+1320;Zaanstad;Totaal particulier huishouden;59.4;30.2
+1321;Zaanstad;Eenpersoonshuishouden;18.8;18.2
+1322;Zaanstad;Meerpers. huishouden met minderj. kind.;16.9;36.1
+1323;Zaanstad;Meerpers. huishouden z. minderj. kind.;23.7;35.7
+1324;Ter Aar;Totaal particulier huishouden;3.2;36.0
+1325;Ter Aar;Eenpersoonshuishouden;0.6;18.8
+1326;Ter Aar;Meerpers. huishouden met minderj. kind.;1.2;42.2
+1327;Ter Aar;Meerpers. huishouden z. minderj. kind.;1.4;37.8
+1328;Alblasserdam;Totaal particulier huishouden;7.2;30.7
+1329;Alblasserdam;Eenpersoonshuishouden;1.9;16.6
+1330;Alblasserdam;Meerpers. huishouden met minderj. kind.;2.3;37.6
+1331;Alblasserdam;Meerpers. huishouden z. minderj. kind.;3.0;34.3
+1332;Alkemade;Totaal particulier huishouden;5.4;35.0
+1333;Alkemade;Eenpersoonshuishouden;1.3;20.6
+1334;Alkemade;Meerpers. huishouden met minderj. kind.;1.8;42.2
+1335;Alkemade;Meerpers. huishouden z. minderj. kind.;2.3;37.5
+1336;Alphen aan den Rijn;Totaal particulier huishouden;28.4;33.3
+1337;Alphen aan den Rijn;Eenpersoonshuishouden;8.3;19.3
+1338;Alphen aan den Rijn;Meerpers. huishouden met minderj. kind.;8.7;39.3
+1339;Alphen aan den Rijn;Meerpers. huishouden z. minderj. kind.;11.4;38.7
+1340;Barendrecht;Totaal particulier huishouden;13.8;35.8
+1341;Barendrecht;Eenpersoonshuishouden;2.9;19.6
+1342;Barendrecht;Meerpers. huishouden met minderj. kind.;5.1;40.5
+1343;Barendrecht;Meerpers. huishouden z. minderj. kind.;5.8;39.7
+1344;Bergambacht;Totaal particulier huishouden;3.5;33.9
+1345;Bergambacht;Eenpersoonshuishouden;0.8;18.5
+1346;Bergambacht;Meerpers. huishouden met minderj. kind.;1.1;38.5
+1347;Bergambacht;Meerpers. huishouden z. minderj. kind.;1.6;38.3
+1348;Bergschenhoek;Totaal particulier huishouden;5.5;39.1
+1349;Bergschenhoek;Eenpersoonshuishouden;1.0;20.1
+1350;Bergschenhoek;Meerpers. huishouden met minderj. kind.;2.4;44.5
+1351;Bergschenhoek;Meerpers. huishouden z. minderj. kind.;2.1;41.7
+1352;Berkel en Rodenrijs;Totaal particulier huishouden;6.5;36.3
+1353;Berkel en Rodenrijs;Eenpersoonshuishouden;1.5;19.8
+1354;Berkel en Rodenrijs;Meerpers. huishouden met minderj. kind.;2.2;43.5
+1355;Berkel en Rodenrijs;Meerpers. huishouden z. minderj. kind.;2.8;39.7
+1356;Bleiswijk;Totaal particulier huishouden;3.8;36.5
+1357;Bleiswijk;Eenpersoonshuishouden;0.7;21.2
+1358;Bleiswijk;Meerpers. huishouden met minderj. kind.;1.4;40.1
+1359;Bleiswijk;Meerpers. huishouden z. minderj. kind.;1.6;40.0
+1360;Bodegraven;Totaal particulier huishouden;7.3;34.8
+1361;Bodegraven;Eenpersoonshuishouden;1.7;18.7
+1362;Bodegraven;Meerpers. huishouden met minderj. kind.;2.5;40.1
+1363;Bodegraven;Meerpers. huishouden z. minderj. kind.;3.0;39.7
+1364;Drechterland;Totaal particulier huishouden;3.7;34.7
+1365;Drechterland;Eenpersoonshuishouden;0.8;18.1
+1366;Drechterland;Meerpers. huishouden met minderj. kind.;1.3;42.1
+1367;Drechterland;Meerpers. huishouden z. minderj. kind.;1.6;37.5
+1368;Boskoop;Totaal particulier huishouden;5.9;33.9
+1369;Boskoop;Eenpersoonshuishouden;1.5;17.2
+1370;Boskoop;Meerpers. huishouden met minderj. kind.;1.8;40.2
+1371;Boskoop;Meerpers. huishouden z. minderj. kind.;2.6;39.0
+1372;Brielle;Totaal particulier huishouden;6.6;33.6
+1373;Brielle;Eenpersoonshuishouden;1.7;20.0
+1374;Brielle;Meerpers. huishouden met minderj. kind.;1.9;39.1
+1375;Brielle;Meerpers. huishouden z. minderj. kind.;3.0;38.0
+1376;Capelle aan den IJssel;Totaal particulier huishouden;28.1;31.7
+1377;Capelle aan den IJssel;Eenpersoonshuishouden;9.4;19.8
+1378;Capelle aan den IJssel;Meerpers. huishouden met minderj. kind.;7.8;38.0
+1379;Capelle aan den IJssel;Meerpers. huishouden z. minderj. kind.;10.9;37.6
+1380;Delft;Totaal particulier huishouden;41.0;28.6
+1381;Delft;Eenpersoonshuishouden;17.4;18.8
+1382;Delft;Meerpers. huishouden met minderj. kind.;9.4;36.0
+1383;Delft;Meerpers. huishouden z. minderj. kind.;14.3;35.5
+1384;Dirksland;Totaal particulier huishouden;3.1;32.9
+1385;Dirksland;Eenpersoonshuishouden;0.8;21.2
+1386;Dirksland;Meerpers. huishouden met minderj. kind.;1.0;38.5
+1387;Dirksland;Meerpers. huishouden z. minderj. kind.;1.4;35.4
+1388;Dordrecht;Totaal particulier huishouden;51.6;28.6
+1389;Dordrecht;Eenpersoonshuishouden;18.0;17.4
+1390;Dordrecht;Meerpers. huishouden met minderj. kind.;14.7;34.3
+1391;Dordrecht;Meerpers. huishouden z. minderj. kind.;19.0;34.8
+1392;Goedereede;Totaal particulier huishouden;4.3;33.5
+1393;Goedereede;Eenpersoonshuishouden;0.9;18.3
+1394;Goedereede;Meerpers. huishouden met minderj. kind.;1.4;37.4
+1395;Goedereede;Meerpers. huishouden z. minderj. kind.;2.1;37.2
+1396;Gorinchem;Totaal particulier huishouden;14.6;29.8
+1397;Gorinchem;Eenpersoonshuishouden;5.0;18.1
+1398;Gorinchem;Meerpers. huishouden met minderj. kind.;4.0;37.2
+1399;Gorinchem;Meerpers. huishouden z. minderj. kind.;5.6;34.9
+1400;Gouda;Totaal particulier huishouden;29.9;30.9
+1401;Gouda;Eenpersoonshuishouden;10.1;18.5
+1402;Gouda;Meerpers. huishouden met minderj. kind.;8.6;38.8
+1403;Gouda;Meerpers. huishouden z. minderj. kind.;11.2;36.2
+1404;'s-Gravendeel;Totaal particulier huishouden;3.6;32.2
+1405;'s-Gravendeel;Eenpersoonshuishouden;0.9;18.3
+1406;'s-Gravendeel;Meerpers. huishouden met minderj. kind.;1.0;38.8
+1407;'s-Gravendeel;Meerpers. huishouden z. minderj. kind.;1.7;35.1
+1408;'s-Gravenhage (gemeente);Totaal particulier huishouden;216.8;27.8
+1409;'s-Gravenhage (gemeente);Eenpersoonshuishouden;100.3;19.3
+1410;'s-Gravenhage (gemeente);Meerpers. huishouden met minderj. kind.;51.8;33.8
+1411;'s-Gravenhage (gemeente);Meerpers. huishouden z. minderj. kind.;64.6;36.2
+1412;'s-Gravenzande;Totaal particulier huishouden;7.4;34.4
+1413;'s-Gravenzande;Eenpersoonshuishouden;1.6;18.9
+1414;'s-Gravenzande;Meerpers. huishouden met minderj. kind.;2.5;40.0
+1415;'s-Gravenzande;Meerpers. huishouden z. minderj. kind.;3.3;37.9
+1416;Hardinxveld-Giessendam;Totaal particulier huishouden;6.4;33.4
+1417;Hardinxveld-Giessendam;Eenpersoonshuishouden;1.4;17.5
+1418;Hardinxveld-Giessendam;Meerpers. huishouden met minderj. kind.;2.2;39.5
+1419;Hardinxveld-Giessendam;Meerpers. huishouden z. minderj. kind.;2.7;36.7
+1420;Noorder-Koggenland;Totaal particulier huishouden;4.1;34.1
+1421;Noorder-Koggenland;Eenpersoonshuishouden;0.9;18.8
+1422;Noorder-Koggenland;Meerpers. huishouden met minderj. kind.;1.3;38.0
+1423;Noorder-Koggenland;Meerpers. huishouden z. minderj. kind.;1.9;39.2
+1424;Hellevoetsluis;Totaal particulier huishouden;16.1;31.6
+1425;Hellevoetsluis;Eenpersoonshuishouden;4.3;18.1
+1426;Hellevoetsluis;Meerpers. huishouden met minderj. kind.;5.1;36.4
+1427;Hellevoetsluis;Meerpers. huishouden z. minderj. kind.;6.8;36.6
+1428;Hendrik-Ido-Ambacht;Totaal particulier huishouden;8.3;34.1
+1429;Hendrik-Ido-Ambacht;Eenpersoonshuishouden;1.8;20.1
+1430;Hendrik-Ido-Ambacht;Meerpers. huishouden met minderj. kind.;2.8;39.1
+1431;Hendrik-Ido-Ambacht;Meerpers. huishouden z. minderj. kind.;3.7;37.2
+1432;Stede Broec;Totaal particulier huishouden;8.1;31.6
+1433;Stede Broec;Eenpersoonshuishouden;1.8;17.0
+1434;Stede Broec;Meerpers. huishouden met minderj. kind.;2.6;37.0
+1435;Stede Broec;Meerpers. huishouden z. minderj. kind.;3.6;34.7
+1436;Hillegom;Totaal particulier huishouden;8.5;32.4
+1437;Hillegom;Eenpersoonshuishouden;2.6;18.9
+1438;Hillegom;Meerpers. huishouden met minderj. kind.;2.5;39.6
+1439;Hillegom;Meerpers. huishouden z. minderj. kind.;3.5;37.2
+1440;Katwijk;Totaal particulier huishouden;15.5;31.6
+1441;Katwijk;Eenpersoonshuishouden;4.3;18.8
+1442;Katwijk;Meerpers. huishouden met minderj. kind.;5.2;38.0
+1443;Katwijk;Meerpers. huishouden z. minderj. kind.;6.0;35.3
+1444;Krimpen aan den IJssel;Totaal particulier huishouden;11.3;34.0
+1445;Krimpen aan den IJssel;Eenpersoonshuishouden;2.7;19.1
+1446;Krimpen aan den IJssel;Meerpers. huishouden met minderj. kind.;3.4;39.4
+1447;Krimpen aan den IJssel;Meerpers. huishouden z. minderj. kind.;5.2;38.2
+1448;Leerdam;Totaal particulier huishouden;8.0;31.1
+1449;Leerdam;Eenpersoonshuishouden;2.1;17.7
+1450;Leerdam;Meerpers. huishouden met minderj. kind.;2.7;36.6
+1451;Leerdam;Meerpers. huishouden z. minderj. kind.;3.2;35.4
+1452;Leiden;Totaal particulier huishouden;51.8;29.4
+1453;Leiden;Eenpersoonshuishouden;22.9;18.9
+1454;Leiden;Meerpers. huishouden met minderj. kind.;11.9;38.5
+1455;Leiden;Meerpers. huishouden z. minderj. kind.;17.1;37.0
+1456;Leiderdorp;Totaal particulier huishouden;11.0;35.0
+1457;Leiderdorp;Eenpersoonshuishouden;3.3;20.6
+1458;Leiderdorp;Meerpers. huishouden met minderj. kind.;3.3;41.7
+1459;Leiderdorp;Meerpers. huishouden z. minderj. kind.;4.4;40.9
+1460;De Lier;Totaal particulier huishouden;4.2;34.8
+1461;De Lier;Eenpersoonshuishouden;0.9;19.0
+1462;De Lier;Meerpers. huishouden met minderj. kind.;1.4;39.0
+1463;De Lier;Meerpers. huishouden z. minderj. kind.;1.9;39.0
+1464;Lisse;Totaal particulier huishouden;8.9;32.8
+1465;Lisse;Eenpersoonshuishouden;2.5;18.1
+1466;Lisse;Meerpers. huishouden met minderj. kind.;2.6;39.7
+1467;Lisse;Meerpers. huishouden z. minderj. kind.;3.8;37.8
+1468;Maasland;Totaal particulier huishouden;2.5;39.3
+1469;Maasland;Eenpersoonshuishouden;0.5;21.8
+1470;Maasland;Meerpers. huishouden met minderj. kind.;0.9;43.1
+1471;Maasland;Meerpers. huishouden z. minderj. kind.;1.1;44.1
+1472;Maassluis;Totaal particulier huishouden;13.6;31.4
+1473;Maassluis;Eenpersoonshuishouden;4.0;19.1
+1474;Maassluis;Meerpers. huishouden met minderj. kind.;3.8;36.3
+1475;Maassluis;Meerpers. huishouden z. minderj. kind.;5.9;36.4
+1476;Wester-Koggenland;Totaal particulier huishouden;5.2;33.4
+1477;Wester-Koggenland;Eenpersoonshuishouden;1.2;18.6
+1478;Wester-Koggenland;Meerpers. huishouden met minderj. kind.;1.7;38.8
+1479;Wester-Koggenland;Meerpers. huishouden z. minderj. kind.;2.3;37.3
+1480;Middelharnis;Totaal particulier huishouden;6.8;30.3
+1481;Middelharnis;Eenpersoonshuishouden;1.8;17.8
+1482;Middelharnis;Meerpers. huishouden met minderj. kind.;2.1;36.5
+1483;Middelharnis;Meerpers. huishouden z. minderj. kind.;2.9;33.7
+1484;Monster;Totaal particulier huishouden;8.2;32.0
+1485;Monster;Eenpersoonshuishouden;2.5;17.3
+1486;Monster;Meerpers. huishouden met minderj. kind.;2.5;39.4
+1487;Monster;Meerpers. huishouden z. minderj. kind.;3.2;37.6
+1488;Moordrecht;Totaal particulier huishouden;3.0;33.1
+1489;Moordrecht;Eenpersoonshuishouden;0.7;16.3
+1490;Moordrecht;Meerpers. huishouden met minderj. kind.;1.1;38.2
+1491;Moordrecht;Meerpers. huishouden z. minderj. kind.;1.2;37.5
+1492;Naaldwijk;Totaal particulier huishouden;10.9;34.6
+1493;Naaldwijk;Eenpersoonshuishouden;2.6;18.0
+1494;Naaldwijk;Meerpers. huishouden met minderj. kind.;3.5;41.8
+1495;Naaldwijk;Meerpers. huishouden z. minderj. kind.;4.7;38.4
+1496;Nieuwerkerk aan den IJssel;Totaal particulier huishouden;8.5;36.2
+1497;Nieuwerkerk aan den IJssel;Eenpersoonshuishouden;2.0;19.1
+1498;Nieuwerkerk aan den IJssel;Meerpers. huishouden met minderj. kind.;3.1;41.3
+1499;Nieuwerkerk aan den IJssel;Meerpers. huishouden z. minderj. kind.;3.4;41.2
+1500;Bernisse;Totaal particulier huishouden;5.0;34.3
+1501;Bernisse;Eenpersoonshuishouden;1.1;18.3
+1502;Bernisse;Meerpers. huishouden met minderj. kind.;1.5;40.2
+1503;Bernisse;Meerpers. huishouden z. minderj. kind.;2.4;37.5
+1504;Nieuwkoop;Totaal particulier huishouden;4.2;35.2
+1505;Nieuwkoop;Eenpersoonshuishouden;1.0;19.5
+1506;Nieuwkoop;Meerpers. huishouden met minderj. kind.;1.3;38.0
+1507;Nieuwkoop;Meerpers. huishouden z. minderj. kind.;1.8;41.4
+1508;Nieuw-Lekkerland;Totaal particulier huishouden;3.2;32.7
+1509;Nieuw-Lekkerland;Eenpersoonshuishouden;0.6;18.2
+1510;Nieuw-Lekkerland;Meerpers. huishouden met minderj. kind.;1.2;37.0
+1511;Nieuw-Lekkerland;Meerpers. huishouden z. minderj. kind.;1.3;35.3
+1512;Noordwijk;Totaal particulier huishouden;9.9;33.8
+1513;Noordwijk;Eenpersoonshuishouden;3.3;20.1
+1514;Noordwijk;Meerpers. huishouden met minderj. kind.;2.7;42.1
+1515;Noordwijk;Meerpers. huishouden z. minderj. kind.;3.9;39.5
+1516;Noordwijkerhout;Totaal particulier huishouden;5.8;33.8
+1517;Noordwijkerhout;Eenpersoonshuishouden;1.6;20.2
+1518;Noordwijkerhout;Meerpers. huishouden met minderj. kind.;1.8;40.7
+1519;Noordwijkerhout;Meerpers. huishouden z. minderj. kind.;2.3;38.0
+1520;Oegstgeest;Totaal particulier huishouden;8.3;40.3
+1521;Oegstgeest;Eenpersoonshuishouden;2.6;23.3
+1522;Oegstgeest;Meerpers. huishouden met minderj. kind.;2.6;49.0
+1523;Oegstgeest;Meerpers. huishouden z. minderj. kind.;3.1;46.8
+1524;Oostflakkee;Totaal particulier huishouden;4.0;31.0
+1525;Oostflakkee;Eenpersoonshuishouden;1.0;17.1
+1526;Oostflakkee;Meerpers. huishouden met minderj. kind.;1.2;37.0
+1527;Oostflakkee;Meerpers. huishouden z. minderj. kind.;1.8;34.4
+1528;Oud-Beijerland;Totaal particulier huishouden;8.9;34.1
+1529;Oud-Beijerland;Eenpersoonshuishouden;2.2;19.1
+1530;Oud-Beijerland;Meerpers. huishouden met minderj. kind.;3.0;39.9
+1531;Oud-Beijerland;Meerpers. huishouden z. minderj. kind.;3.7;38.2
+1532;Binnenmaas;Totaal particulier huishouden;7.7;35.6
+1533;Binnenmaas;Eenpersoonshuishouden;1.7;19.0
+1534;Binnenmaas;Meerpers. huishouden met minderj. kind.;2.3;39.3
+1535;Binnenmaas;Meerpers. huishouden z. minderj. kind.;3.8;40.7
+1536;Korendijk;Totaal particulier huishouden;4.1;34.0
+1537;Korendijk;Eenpersoonshuishouden;0.9;19.5
+1538;Korendijk;Meerpers. huishouden met minderj. kind.;1.3;39.4
+1539;Korendijk;Meerpers. huishouden z. minderj. kind.;1.9;37.5
+1540;Oudewater;Totaal particulier huishouden;3.7;35.1
+1541;Oudewater;Eenpersoonshuishouden;1.0;18.2
+1542;Oudewater;Meerpers. huishouden met minderj. kind.;1.1;43.3
+1543;Oudewater;Meerpers. huishouden z. minderj. kind.;1.5;39.9
+1544;Papendrecht;Totaal particulier huishouden;12.4;32.6
+1545;Papendrecht;Eenpersoonshuishouden;3.3;18.7
+1546;Papendrecht;Meerpers. huishouden met minderj. kind.;3.7;38.0
+1547;Papendrecht;Meerpers. huishouden z. minderj. kind.;5.4;37.3
+1548;Reeuwijk;Totaal particulier huishouden;4.8;38.2
+1549;Reeuwijk;Eenpersoonshuishouden;1.0;20.3
+1550;Reeuwijk;Meerpers. huishouden met minderj. kind.;1.6;43.9
+1551;Reeuwijk;Meerpers. huishouden z. minderj. kind.;2.2;42.7
+1552;Ridderkerk;Totaal particulier huishouden;19.3;31.2
+1553;Ridderkerk;Eenpersoonshuishouden;5.5;18.6
+1554;Ridderkerk;Meerpers. huishouden met minderj. kind.;5.0;37.8
+1555;Ridderkerk;Meerpers. huishouden z. minderj. kind.;8.8;35.3
+1556;Rotterdam;Totaal particulier huishouden;279.3;25.6
+1557;Rotterdam;Eenpersoonshuishouden;125.1;17.3
+1558;Rotterdam;Meerpers. huishouden met minderj. kind.;67.3;31.3
+1559;Rotterdam;Meerpers. huishouden z. minderj. kind.;86.9;33.1
+1560;Rozenburg;Totaal particulier huishouden;5.6;31.2
+1561;Rozenburg;Eenpersoonshuishouden;1.6;18.5
+1562;Rozenburg;Meerpers. huishouden met minderj. kind.;1.5;35.5
+1563;Rozenburg;Meerpers. huishouden z. minderj. kind.;2.5;36.6
+1564;Rijnsburg;Totaal particulier huishouden;5.3;34.6
+1565;Rijnsburg;Eenpersoonshuishouden;1.2;18.7
+1566;Rijnsburg;Meerpers. huishouden met minderj. kind.;2.0;39.9
+1567;Rijnsburg;Meerpers. huishouden z. minderj. kind.;2.1;38.5
+1568;Rijswijk (ZH.);Totaal particulier huishouden;23.1;30.8
+1569;Rijswijk (ZH.);Eenpersoonshuishouden;9.4;21.4
+1570;Rijswijk (ZH.);Meerpers. huishouden met minderj. kind.;4.7;36.2
+1571;Rijswijk (ZH.);Meerpers. huishouden z. minderj. kind.;9.0;37.9
+1572;Sassenheim;Totaal particulier huishouden;6.0;34.2
+1573;Sassenheim;Eenpersoonshuishouden;1.7;19.9
+1574;Sassenheim;Meerpers. huishouden met minderj. kind.;1.8;40.6
+1575;Sassenheim;Meerpers. huishouden z. minderj. kind.;2.5;39.5
+1576;Schiedam;Totaal particulier huishouden;34.0;27.7
+1577;Schiedam;Eenpersoonshuishouden;12.7;17.9
+1578;Schiedam;Meerpers. huishouden met minderj. kind.;9.0;32.9
+1579;Schiedam;Meerpers. huishouden z. minderj. kind.;12.3;34.0
+1580;Schipluiden;Totaal particulier huishouden;4.0;37.4
+1581;Schipluiden;Eenpersoonshuishouden;0.9;19.2
+1582;Schipluiden;Meerpers. huishouden met minderj. kind.;1.5;43.6
+1583;Schipluiden;Meerpers. huishouden z. minderj. kind.;1.7;41.6
+1584;Schoonhoven;Totaal particulier huishouden;4.9;32.0
+1585;Schoonhoven;Eenpersoonshuishouden;1.4;17.8
+1586;Schoonhoven;Meerpers. huishouden met minderj. kind.;1.4;38.3
+1587;Schoonhoven;Meerpers. huishouden z. minderj. kind.;2.0;37.5
+1588;Sliedrecht;Totaal particulier huishouden;9.5;30.5
+1589;Sliedrecht;Eenpersoonshuishouden;2.9;17.8
+1590;Sliedrecht;Meerpers. huishouden met minderj. kind.;2.7;37.7
+1591;Sliedrecht;Meerpers. huishouden z. minderj. kind.;3.9;34.9
+1592;Cromstrijen;Totaal particulier huishouden;5.2;34.3
+1593;Cromstrijen;Eenpersoonshuishouden;1.2;18.3
+1594;Cromstrijen;Meerpers. huishouden met minderj. kind.;1.5;40.1
+1595;Cromstrijen;Meerpers. huishouden z. minderj. kind.;2.5;38.2
+1596;Spijkenisse;Totaal particulier huishouden;31.1;30.7
+1597;Spijkenisse;Eenpersoonshuishouden;8.6;18.4
+1598;Spijkenisse;Meerpers. huishouden met minderj. kind.;9.9;35.0
+1599;Spijkenisse;Meerpers. huishouden z. minderj. kind.;12.6;35.7
+1600;Albrandswaard;Totaal particulier huishouden;7.2;36.7
+1601;Albrandswaard;Eenpersoonshuishouden;1.6;20.7
+1602;Albrandswaard;Meerpers. huishouden met minderj. kind.;2.4;41.8
+1603;Albrandswaard;Meerpers. huishouden z. minderj. kind.;3.2;40.8
+1604;Westvoorne;Totaal particulier huishouden;5.8;36.5
+1605;Westvoorne;Eenpersoonshuishouden;1.4;21.0
+1606;Westvoorne;Meerpers. huishouden met minderj. kind.;1.6;43.5
+1607;Westvoorne;Meerpers. huishouden z. minderj. kind.;2.7;40.3
+1608;Strijen;Totaal particulier huishouden;3.7;33.4
+1609;Strijen;Eenpersoonshuishouden;0.9;18.3
+1610;Strijen;Meerpers. huishouden met minderj. kind.;1.1;39.6
+1611;Strijen;Meerpers. huishouden z. minderj. kind.;1.7;37.2
+1612;Valkenburg (ZH.);Totaal particulier huishouden;1.4;33.4
+1613;Valkenburg (ZH.);Eenpersoonshuishouden;0.3;20.1
+1614;Valkenburg (ZH.);Meerpers. huishouden met minderj. kind.;0.5;38.9
+1615;Valkenburg (ZH.);Meerpers. huishouden z. minderj. kind.;0.6;35.0
+1616;Vianen;Totaal particulier huishouden;7.6;34.0
+1617;Vianen;Eenpersoonshuishouden;1.8;19.6
+1618;Vianen;Meerpers. huishouden met minderj. kind.;2.5;38.7
+1619;Vianen;Meerpers. huishouden z. minderj. kind.;3.3;38.1
+1620;Vlaardingen;Totaal particulier huishouden;33.7;28.3
+1621;Vlaardingen;Eenpersoonshuishouden;12.4;18.0
+1622;Vlaardingen;Meerpers. huishouden met minderj. kind.;8.3;34.1
+1623;Vlaardingen;Meerpers. huishouden z. minderj. kind.;13.0;34.5
+1624;Vlist;Totaal particulier huishouden;3.6;33.4
+1625;Vlist;Eenpersoonshuishouden;0.8;18.8
+1626;Vlist;Meerpers. huishouden met minderj. kind.;1.1;39.6
+1627;Vlist;Meerpers. huishouden z. minderj. kind.;1.7;36.6
+1628;Voorhout;Totaal particulier huishouden;5.1;38.8
+1629;Voorhout;Eenpersoonshuishouden;0.9;21.0
+1630;Voorhout;Meerpers. huishouden met minderj. kind.;2.1;44.3
+1631;Voorhout;Meerpers. huishouden z. minderj. kind.;2.0;41.4
+1632;Voorschoten;Totaal particulier huishouden;9.3;37.4
+1633;Voorschoten;Eenpersoonshuishouden;2.9;23.1
+1634;Voorschoten;Meerpers. huishouden met minderj. kind.;2.7;46.6
+1635;Voorschoten;Meerpers. huishouden z. minderj. kind.;3.8;41.8
+1636;Waddinxveen;Totaal particulier huishouden;10.4;34.5
+1637;Waddinxveen;Eenpersoonshuishouden;2.6;20.0
+1638;Waddinxveen;Meerpers. huishouden met minderj. kind.;3.3;40.8
+1639;Waddinxveen;Meerpers. huishouden z. minderj. kind.;4.5;38.4
+1640;Warmond;Totaal particulier huishouden;1.9;37.4
+1641;Warmond;Eenpersoonshuishouden;0.6;19.8
+1642;Warmond;Meerpers. huishouden met minderj. kind.;0.5;45.4
+1643;Warmond;Meerpers. huishouden z. minderj. kind.;0.8;45.1
+1644;Wassenaar;Totaal particulier huishouden;10.7;42.7
+1645;Wassenaar;Eenpersoonshuishouden;3.6;27.3
+1646;Wassenaar;Meerpers. huishouden met minderj. kind.;2.8;54.9
+1647;Wassenaar;Meerpers. huishouden z. minderj. kind.;4.3;47.7
+1648;Wateringen;Totaal particulier huishouden;6.3;33.9
+1649;Wateringen;Eenpersoonshuishouden;1.6;19.8
+1650;Wateringen;Meerpers. huishouden met minderj. kind.;2.1;39.9
+1651;Wateringen;Meerpers. huishouden z. minderj. kind.;2.7;37.6
+1652;Woerden;Totaal particulier huishouden;18.5;35.4
+1653;Woerden;Eenpersoonshuishouden;4.9;20.1
+1654;Woerden;Meerpers. huishouden met minderj. kind.;6.0;42.0
+1655;Woerden;Meerpers. huishouden z. minderj. kind.;7.5;40.2
+1656;Zoetermeer;Totaal particulier huishouden;45.9;33.4
+1657;Zoetermeer;Eenpersoonshuishouden;13.5;19.7
+1658;Zoetermeer;Meerpers. huishouden met minderj. kind.;14.6;38.8
+1659;Zoetermeer;Meerpers. huishouden z. minderj. kind.;17.8;39.3
+1660;Zoeterwoude;Totaal particulier huishouden;3.1;36.7
+1661;Zoeterwoude;Eenpersoonshuishouden;0.6;20.2
+1662;Zoeterwoude;Meerpers. huishouden met minderj. kind.;1.0;41.8
+1663;Zoeterwoude;Meerpers. huishouden z. minderj. kind.;1.4;40.6
+1664;Zwijndrecht;Totaal particulier huishouden;18.9;31.2
+1665;Zwijndrecht;Eenpersoonshuishouden;5.7;18.4
+1666;Zwijndrecht;Meerpers. huishouden met minderj. kind.;5.3;37.3
+1667;Zwijndrecht;Meerpers. huishouden z. minderj. kind.;8.0;36.2
+1668;Nederlek;Totaal particulier huishouden;5.9;33.0
+1669;Nederlek;Eenpersoonshuishouden;1.5;18.4
+1670;Nederlek;Meerpers. huishouden met minderj. kind.;1.8;39.7
+1671;Nederlek;Meerpers. huishouden z. minderj. kind.;2.6;36.7
+1672;Ouderkerk;Totaal particulier huishouden;3.0;34.4
+1673;Ouderkerk;Eenpersoonshuishouden;0.7;18.6
+1674;Ouderkerk;Meerpers. huishouden met minderj. kind.;1.0;40.4
+1675;Ouderkerk;Meerpers. huishouden z. minderj. kind.;1.3;37.8
+1676;Jacobswoude;Totaal particulier huishouden;4.0;35.3
+1677;Jacobswoude;Eenpersoonshuishouden;0.9;19.5
+1678;Jacobswoude;Meerpers. huishouden met minderj. kind.;1.3;41.5
+1679;Jacobswoude;Meerpers. huishouden z. minderj. kind.;1.8;38.5
+1680;GaasterlÔn-Sleat;Totaal particulier huishouden;4.1;28.8
+1681;GaasterlÔn-Sleat;Eenpersoonshuishouden;1.1;16.5
+1682;GaasterlÔn-Sleat;Meerpers. huishouden met minderj. kind.;1.2;35.6
+1683;GaasterlÔn-Sleat;Meerpers. huishouden z. minderj. kind.;1.8;32.0
+1684;Borsele;Totaal particulier huishouden;8.7;30.9
+1685;Borsele;Eenpersoonshuishouden;2.1;18.3
+1686;Borsele;Meerpers. huishouden met minderj. kind.;2.8;36.1
+1687;Borsele;Meerpers. huishouden z. minderj. kind.;3.8;34.1
+1688;Goes;Totaal particulier huishouden;15.6;29.3
+1689;Goes;Eenpersoonshuishouden;5.4;18.1
+1690;Goes;Meerpers. huishouden met minderj. kind.;4.1;36.4
+1691;Goes;Meerpers. huishouden z. minderj. kind.;6.1;34.3
+1692;West Maas en Waal;Totaal particulier huishouden;7.0;32.5
+1693;West Maas en Waal;Eenpersoonshuishouden;1.6;17.8
+1694;West Maas en Waal;Meerpers. huishouden met minderj. kind.;2.2;38.4
+1695;West Maas en Waal;Meerpers. huishouden z. minderj. kind.;3.2;35.8
+1696;Hulst;Totaal particulier huishouden;11.7;30.6
+1697;Hulst;Eenpersoonshuishouden;3.3;17.5
+1698;Hulst;Meerpers. huishouden met minderj. kind.;3.1;39.3
+1699;Hulst;Meerpers. huishouden z. minderj. kind.;5.3;33.7
+1700;Kapelle;Totaal particulier huishouden;4.5;33.2
+1701;Kapelle;Eenpersoonshuishouden;1.0;18.0
+1702;Kapelle;Meerpers. huishouden met minderj. kind.;1.4;37.1
+1703;Kapelle;Meerpers. huishouden z. minderj. kind.;2.0;37.8
+1704;Wymbritseradiel;Totaal particulier huishouden;6.1;29.8
+1705;Wymbritseradiel;Eenpersoonshuishouden;1.5;18.2
+1706;Wymbritseradiel;Meerpers. huishouden met minderj. kind.;2.0;35.4
+1707;Wymbritseradiel;Meerpers. huishouden z. minderj. kind.;2.6;32.0
+1708;Middelburg (Z.);Totaal particulier huishouden;19.9;28.6
+1709;Middelburg (Z.);Eenpersoonshuishouden;6.9;17.7
+1710;Middelburg (Z.);Meerpers. huishouden met minderj. kind.;5.2;35.2
+1711;Middelburg (Z.);Meerpers. huishouden z. minderj. kind.;7.8;33.9
+1712;Giessenlanden;Totaal particulier huishouden;5.3;34.8
+1713;Giessenlanden;Eenpersoonshuishouden;1.1;17.4
+1714;Giessenlanden;Meerpers. huishouden met minderj. kind.;1.8;42.7
+1715;Giessenlanden;Meerpers. huishouden z. minderj. kind.;2.4;36.9
+1716;Graafstroom;Totaal particulier huishouden;3.2;36.8
+1717;Graafstroom;Eenpersoonshuishouden;0.6;18.9
+1718;Graafstroom;Meerpers. huishouden met minderj. kind.;1.2;43.0
+1719;Graafstroom;Meerpers. huishouden z. minderj. kind.;1.4;39.4
+1720;Liesveld;Totaal particulier huishouden;3.4;34.1
+1721;Liesveld;Eenpersoonshuishouden;0.7;17.5
+1722;Liesveld;Meerpers. huishouden met minderj. kind.;1.2;40.9
+1723;Liesveld;Meerpers. huishouden z. minderj. kind.;1.4;36.8
+1724;Reimerswaal;Totaal particulier huishouden;7.8;30.3
+1725;Reimerswaal;Eenpersoonshuishouden;2.0;17.8
+1726;Reimerswaal;Meerpers. huishouden met minderj. kind.;2.6;36.0
+1727;Reimerswaal;Meerpers. huishouden z. minderj. kind.;3.1;33.8
+1728;Zederik;Totaal particulier huishouden;4.8;34.1
+1729;Zederik;Eenpersoonshuishouden;1.1;17.0
+1730;Zederik;Meerpers. huishouden met minderj. kind.;1.6;40.8
+1731;Zederik;Meerpers. huishouden z. minderj. kind.;2.1;37.4
+1732;Wûnseradiel;Totaal particulier huishouden;4.7;28.1
+1733;Wûnseradiel;Eenpersoonshuishouden;1.2;17.1
+1734;Wûnseradiel;Meerpers. huishouden met minderj. kind.;1.5;32.5
+1735;Wûnseradiel;Meerpers. huishouden z. minderj. kind.;1.9;31.7
+1736;Terneuzen;Totaal particulier huishouden;23.8;29.6
+1737;Terneuzen;Eenpersoonshuishouden;7.2;18.0
+1738;Terneuzen;Meerpers. huishouden met minderj. kind.;6.3;36.0
+1739;Terneuzen;Meerpers. huishouden z. minderj. kind.;10.3;33.8
+1740;Tholen;Totaal particulier huishouden;9.0;29.3
+1741;Tholen;Eenpersoonshuishouden;2.3;16.8
+1742;Tholen;Meerpers. huishouden met minderj. kind.;2.9;34.9
+1743;Tholen;Meerpers. huishouden z. minderj. kind.;3.8;32.6
+1744;Veere;Totaal particulier huishouden;8.7;31.4
+1745;Veere;Eenpersoonshuishouden;2.3;17.9
+1746;Veere;Meerpers. huishouden met minderj. kind.;2.5;38.1
+1747;Veere;Meerpers. huishouden z. minderj. kind.;3.9;35.0
+1748;Vlissingen;Totaal particulier huishouden;20.1;27.2
+1749;Vlissingen;Eenpersoonshuishouden;7.2;17.0
+1750;Vlissingen;Meerpers. huishouden met minderj. kind.;4.9;32.5
+1751;Vlissingen;Meerpers. huishouden z. minderj. kind.;8.0;33.1
+1752;Lingewaal;Totaal particulier huishouden;3.9;34.0
+1753;Lingewaal;Eenpersoonshuishouden;0.8;18.9
+1754;Lingewaal;Meerpers. huishouden met minderj. kind.;1.4;37.8
+1755;Lingewaal;Meerpers. huishouden z. minderj. kind.;1.8;37.5
+1756;De Ronde Venen;Totaal particulier huishouden;13.4;36.1
+1757;De Ronde Venen;Eenpersoonshuishouden;3.4;20.3
+1758;De Ronde Venen;Meerpers. huishouden met minderj. kind.;4.4;42.9
+1759;De Ronde Venen;Meerpers. huishouden z. minderj. kind.;5.5;40.4
+1760;Tytsjerksteradiel;Totaal particulier huishouden;12.5;30.2
+1761;Tytsjerksteradiel;Eenpersoonshuishouden;3.0;17.1
+1762;Tytsjerksteradiel;Meerpers. huishouden met minderj. kind.;3.7;35.2
+1763;Tytsjerksteradiel;Meerpers. huishouden z. minderj. kind.;5.7;33.8
+1764;Aalburg;Totaal particulier huishouden;4.1;33.5
+1765;Aalburg;Eenpersoonshuishouden;0.8;17.1
+1766;Aalburg;Meerpers. huishouden met minderj. kind.;1.6;39.1
+1767;Aalburg;Meerpers. huishouden z. minderj. kind.;1.7;36.0
+1768;Asten;Totaal particulier huishouden;6.0;32.5
+1769;Asten;Eenpersoonshuishouden;1.4;17.3
+1770;Asten;Meerpers. huishouden met minderj. kind.;1.9;38.7
+1771;Asten;Meerpers. huishouden z. minderj. kind.;2.7;36.1
+1772;Baarle-Nassau;Totaal particulier huishouden;2.6;30.5
+1773;Baarle-Nassau;Eenpersoonshuishouden;0.7;17.7
+1774;Baarle-Nassau;Meerpers. huishouden met minderj. kind.;0.6;35.7
+1775;Baarle-Nassau;Meerpers. huishouden z. minderj. kind.;1.3;35.0
+1776;Bergen op Zoom;Totaal particulier huishouden;27.7;29.6
+1777;Bergen op Zoom;Eenpersoonshuishouden;8.5;18.0
+1778;Bergen op Zoom;Meerpers. huishouden met minderj. kind.;7.8;36.1
+1779;Bergen op Zoom;Meerpers. huishouden z. minderj. kind.;11.4;33.8
+1780;Best;Totaal particulier huishouden;11.1;33.2
+1781;Best;Eenpersoonshuishouden;2.6;18.8
+1782;Best;Meerpers. huishouden met minderj. kind.;3.7;38.1
+1783;Best;Meerpers. huishouden z. minderj. kind.;4.8;37.0
+1784;Boekel;Totaal particulier huishouden;3.2;32.6
+1785;Boekel;Eenpersoonshuishouden;0.6;17.1
+1786;Boekel;Meerpers. huishouden met minderj. kind.;1.2;35.0
+1787;Boekel;Meerpers. huishouden z. minderj. kind.;1.4;37.0
+1788;Boxmeer;Totaal particulier huishouden;11.2;32.2
+1789;Boxmeer;Eenpersoonshuishouden;2.7;17.9
+1790;Boxmeer;Meerpers. huishouden met minderj. kind.;3.5;36.6
+1791;Boxmeer;Meerpers. huishouden z. minderj. kind.;4.9;36.9
+1792;Boxtel;Totaal particulier huishouden;11.6;31.5
+1793;Boxtel;Eenpersoonshuishouden;3.2;17.2
+1794;Boxtel;Meerpers. huishouden met minderj. kind.;3.4;37.1
+1795;Boxtel;Meerpers. huishouden z. minderj. kind.;5.0;36.9
+1796;Breda;Totaal particulier huishouden;70.5;30.1
+1797;Breda;Eenpersoonshuishouden;24.8;18.7
+1798;Breda;Meerpers. huishouden met minderj. kind.;18.0;37.4
+1799;Breda;Meerpers. huishouden z. minderj. kind.;27.7;35.7
+1800;Deurne;Totaal particulier huishouden;11.9;32.1
+1801;Deurne;Eenpersoonshuishouden;2.7;17.9
+1802;Deurne;Meerpers. huishouden met minderj. kind.;3.7;37.1
+1803;Deurne;Meerpers. huishouden z. minderj. kind.;5.5;35.6
+1804;Pekela;Totaal particulier huishouden;5.5;26.2
+1805;Pekela;Eenpersoonshuishouden;1.4;16.1
+1806;Pekela;Meerpers. huishouden met minderj. kind.;1.6;30.4
+1807;Pekela;Meerpers. huishouden z. minderj. kind.;2.5;29.1
+1808;Dongen;Totaal particulier huishouden;9.7;32.2
+1809;Dongen;Eenpersoonshuishouden;2.3;19.9
+1810;Dongen;Meerpers. huishouden met minderj. kind.;3.1;37.1
+1811;Dongen;Meerpers. huishouden z. minderj. kind.;4.4;35.2
+1812;Eersel;Totaal particulier huishouden;6.7;35.1
+1813;Eersel;Eenpersoonshuishouden;1.4;19.8
+1814;Eersel;Meerpers. huishouden met minderj. kind.;2.2;39.4
+1815;Eersel;Meerpers. huishouden z. minderj. kind.;3.1;39.0
+1816;Eindhoven;Totaal particulier huishouden;92.6;28.1
+1817;Eindhoven;Eenpersoonshuishouden;36.8;18.4
+1818;Eindhoven;Meerpers. huishouden met minderj. kind.;21.1;34.8
+1819;Eindhoven;Meerpers. huishouden z. minderj. kind.;34.8;34.3
+1820;Etten-Leur;Totaal particulier huishouden;15.6;31.5
+1821;Etten-Leur;Eenpersoonshuishouden;4.0;17.8
+1822;Etten-Leur;Meerpers. huishouden met minderj. kind.;4.7;37.1
+1823;Etten-Leur;Meerpers. huishouden z. minderj. kind.;6.9;35.6
+1824;Geertruidenberg;Totaal particulier huishouden;8.4;31.8
+1825;Geertruidenberg;Eenpersoonshuishouden;2.0;18.2
+1826;Geertruidenberg;Meerpers. huishouden met minderj. kind.;2.5;35.3
+1827;Geertruidenberg;Meerpers. huishouden z. minderj. kind.;3.9;36.5
+1828;Geldrop;Totaal particulier huishouden;11.9;30.4
+1829;Geldrop;Eenpersoonshuishouden;3.6;18.9
+1830;Geldrop;Meerpers. huishouden met minderj. kind.;3.3;34.3
+1831;Geldrop;Meerpers. huishouden z. minderj. kind.;5.0;36.1
+1832;Gilze en Rijen;Totaal particulier huishouden;9.6;31.9
+1833;Gilze en Rijen;Eenpersoonshuishouden;2.1;17.7
+1834;Gilze en Rijen;Meerpers. huishouden met minderj. kind.;3.0;37.4
+1835;Gilze en Rijen;Meerpers. huishouden z. minderj. kind.;4.4;34.9
+1836;Goirle;Totaal particulier huishouden;8.7;34.0
+1837;Goirle;Eenpersoonshuishouden;1.9;18.5
+1838;Goirle;Meerpers. huishouden met minderj. kind.;2.7;39.2
+1839;Goirle;Meerpers. huishouden z. minderj. kind.;4.1;38.0
+1840;Grave;Totaal particulier huishouden;4.9;30.9
+1841;Grave;Eenpersoonshuishouden;1.2;17.8
+1842;Grave;Meerpers. huishouden met minderj. kind.;1.5;36.0
+1843;Grave;Meerpers. huishouden z. minderj. kind.;2.2;34.8
+1844;Haaren;Totaal particulier huishouden;5.0;34.4
+1845;Haaren;Eenpersoonshuishouden;1.1;18.4
+1846;Haaren;Meerpers. huishouden met minderj. kind.;1.6;38.9
+1847;Haaren;Meerpers. huishouden z. minderj. kind.;2.3;38.6
+1848;Helmond;Totaal particulier huishouden;35.3;28.6
+1849;Helmond;Eenpersoonshuishouden;10.3;17.6
+1850;Helmond;Meerpers. huishouden met minderj. kind.;10.5;33.0
+1851;Helmond;Meerpers. huishouden z. minderj. kind.;14.6;33.2
+1852;'s-Hertogenbosch;Totaal particulier huishouden;57.0;30.4
+1853;'s-Hertogenbosch;Eenpersoonshuishouden;20.1;18.7
+1854;'s-Hertogenbosch;Meerpers. huishouden met minderj. kind.;15.1;36.7
+1855;'s-Hertogenbosch;Meerpers. huishouden z. minderj. kind.;21.8;36.8
+1856;Heusden;Totaal particulier huishouden;16.2;33.3
+1857;Heusden;Eenpersoonshuishouden;3.3;17.8
+1858;Heusden;Meerpers. huishouden met minderj. kind.;5.5;38.3
+1859;Heusden;Meerpers. huishouden z. minderj. kind.;7.4;36.5
+1860;Hilvarenbeek;Totaal particulier huishouden;5.5;34.1
+1861;Hilvarenbeek;Eenpersoonshuishouden;1.2;19.5
+1862;Hilvarenbeek;Meerpers. huishouden met minderj. kind.;1.8;38.2
+1863;Hilvarenbeek;Meerpers. huishouden z. minderj. kind.;2.5;37.9
+1864;Lith;Totaal particulier huishouden;2.3;33.4
+1865;Lith;Eenpersoonshuishouden;0.4;15.8
+1866;Lith;Meerpers. huishouden met minderj. kind.;0.9;37.1
+1867;Lith;Meerpers. huishouden z. minderj. kind.;1.0;36.8
+1868;Loon op Zand;Totaal particulier huishouden;8.8;32.9
+1869;Loon op Zand;Eenpersoonshuishouden;1.9;18.3
+1870;Loon op Zand;Meerpers. huishouden met minderj. kind.;2.8;37.8
+1871;Loon op Zand;Meerpers. huishouden z. minderj. kind.;4.0;36.3
+1872;Mierlo;Totaal particulier huishouden;4.0;32.7
+1873;Mierlo;Eenpersoonshuishouden;0.9;16.6
+1874;Mierlo;Meerpers. huishouden met minderj. kind.;1.3;39.3
+1875;Mierlo;Meerpers. huishouden z. minderj. kind.;1.7;36.3
+1876;Mill en Sint Hubert;Totaal particulier huishouden;4.1;31.1
+1877;Mill en Sint Hubert;Eenpersoonshuishouden;0.8;16.6
+1878;Mill en Sint Hubert;Meerpers. huishouden met minderj. kind.;1.3;34.6
+1879;Mill en Sint Hubert;Meerpers. huishouden z. minderj. kind.;2.0;34.8
+1880;Nuenen, Gerwen en Nederwetten;Totaal particulier huishouden;9.0;37.1
+1881;Nuenen, Gerwen en Nederwetten;Eenpersoonshuishouden;1.8;21.7
+1882;Nuenen, Gerwen en Nederwetten;Meerpers. huishouden met minderj. kind.;2.9;41.4
+1883;Nuenen, Gerwen en Nederwetten;Meerpers. huishouden z. minderj. kind.;4.3;40.7
+1884;Oirschot;Totaal particulier huishouden;6.5;34.2
+1885;Oirschot;Eenpersoonshuishouden;1.4;18.8
+1886;Oirschot;Meerpers. huishouden met minderj. kind.;2.1;38.3
+1887;Oirschot;Meerpers. huishouden z. minderj. kind.;3.0;38.7
+1888;Oisterwijk;Totaal particulier huishouden;10.1;34.2
+1889;Oisterwijk;Eenpersoonshuishouden;2.6;19.7
+1890;Oisterwijk;Meerpers. huishouden met minderj. kind.;3.0;40.2
+1891;Oisterwijk;Meerpers. huishouden z. minderj. kind.;4.5;38.6
+1892;Oosterhout;Totaal particulier huishouden;21.8;31.6
+1893;Oosterhout;Eenpersoonshuishouden;5.8;18.3
+1894;Oosterhout;Meerpers. huishouden met minderj. kind.;6.4;37.5
+1895;Oosterhout;Meerpers. huishouden z. minderj. kind.;9.5;35.7
+1896;Oss;Totaal particulier huishouden;30.5;30.8
+1897;Oss;Eenpersoonshuishouden;8.3;18.0
+1898;Oss;Meerpers. huishouden met minderj. kind.;9.2;35.5
+1899;Oss;Meerpers. huishouden z. minderj. kind.;13.0;35.6
+1900;Rucphen;Totaal particulier huishouden;8.8;31.5
+1901;Rucphen;Eenpersoonshuishouden;1.6;16.0
+1902;Rucphen;Meerpers. huishouden met minderj. kind.;2.8;36.5
+1903;Rucphen;Meerpers. huishouden z. minderj. kind.;4.5;34.1
+1904;Schijndel;Totaal particulier huishouden;8.9;32.2
+1905;Schijndel;Eenpersoonshuishouden;2.0;17.8
+1906;Schijndel;Meerpers. huishouden met minderj. kind.;2.8;36.7
+1907;Schijndel;Meerpers. huishouden z. minderj. kind.;4.1;36.2
+1908;Sint-Michielsgestel;Totaal particulier huishouden;10.5;33.9
+1909;Sint-Michielsgestel;Eenpersoonshuishouden;2.3;18.9
+1910;Sint-Michielsgestel;Meerpers. huishouden met minderj. kind.;3.4;39.6
+1911;Sint-Michielsgestel;Meerpers. huishouden z. minderj. kind.;4.8;37.3
+1912;Sint-Oedenrode;Totaal particulier huishouden;6.4;33.0
+1913;Sint-Oedenrode;Eenpersoonshuishouden;1.4;19.0
+1914;Sint-Oedenrode;Meerpers. huishouden met minderj. kind.;2.0;37.9
+1915;Sint-Oedenrode;Meerpers. huishouden z. minderj. kind.;3.0;36.1
+1916;Someren;Totaal particulier huishouden;6.7;31.9
+1917;Someren;Eenpersoonshuishouden;1.5;17.8
+1918;Someren;Meerpers. huishouden met minderj. kind.;2.3;37.0
+1919;Someren;Meerpers. huishouden z. minderj. kind.;2.9;34.9
+1920;Son en Breugel;Totaal particulier huishouden;6.1;35.1
+1921;Son en Breugel;Eenpersoonshuishouden;1.4;20.6
+1922;Son en Breugel;Meerpers. huishouden met minderj. kind.;1.8;38.0
+1923;Son en Breugel;Meerpers. huishouden z. minderj. kind.;2.9;40.4
+1924;Steenbergen;Totaal particulier huishouden;9.3;31.4
+1925;Steenbergen;Eenpersoonshuishouden;2.1;17.5
+1926;Steenbergen;Meerpers. huishouden met minderj. kind.;2.8;37.4
+1927;Steenbergen;Meerpers. huishouden z. minderj. kind.;4.5;34.2
+1928;Waterland;Totaal particulier huishouden;7.0;36.0
+1929;Waterland;Eenpersoonshuishouden;1.9;19.8
+1930;Waterland;Meerpers. huishouden met minderj. kind.;2.0;43.3
+1931;Waterland;Meerpers. huishouden z. minderj. kind.;3.1;41.0
+1932;Tilburg;Totaal particulier huishouden;82.3;28.5
+1933;Tilburg;Eenpersoonshuishouden;28.5;17.6
+1934;Tilburg;Meerpers. huishouden met minderj. kind.;21.8;34.4
+1935;Tilburg;Meerpers. huishouden z. minderj. kind.;32.1;34.0
+1936;Uden;Totaal particulier huishouden;16.1;31.5
+1937;Uden;Eenpersoonshuishouden;4.4;18.0
+1938;Uden;Meerpers. huishouden met minderj. kind.;4.8;36.7
+1939;Uden;Meerpers. huishouden z. minderj. kind.;6.9;36.6
+1940;Valkenswaard;Totaal particulier huishouden;13.1;30.4
+1941;Valkenswaard;Eenpersoonshuishouden;3.7;17.6
+1942;Valkenswaard;Meerpers. huishouden met minderj. kind.;3.4;37.0
+1943;Valkenswaard;Meerpers. huishouden z. minderj. kind.;6.0;34.6
+1944;Veghel;Totaal particulier huishouden;13.5;33.0
+1945;Veghel;Eenpersoonshuishouden;3.1;18.7
+1946;Veghel;Meerpers. huishouden met minderj. kind.;4.5;37.8
+1947;Veghel;Meerpers. huishouden z. minderj. kind.;5.8;36.9
+1948;Veldhoven;Totaal particulier huishouden;17.1;32.2
+1949;Veldhoven;Eenpersoonshuishouden;4.5;18.5
+1950;Veldhoven;Meerpers. huishouden met minderj. kind.;5.1;38.3
+1951;Veldhoven;Meerpers. huishouden z. minderj. kind.;7.5;36.3
+1952;Vught;Totaal particulier huishouden;10.1;34.6
+1953;Vught;Eenpersoonshuishouden;3.1;21.4
+1954;Vught;Meerpers. huishouden met minderj. kind.;3.0;41.0
+1955;Vught;Meerpers. huishouden z. minderj. kind.;4.1;39.9
+1956;Waalre;Totaal particulier huishouden;6.7;36.1
+1957;Waalre;Eenpersoonshuishouden;1.8;21.8
+1958;Waalre;Meerpers. huishouden met minderj. kind.;1.9;42.3
+1959;Waalre;Meerpers. huishouden z. minderj. kind.;3.0;40.8
+1960;Waalwijk;Totaal particulier huishouden;18.3;31.2
+1961;Waalwijk;Eenpersoonshuishouden;4.6;17.4
+1962;Waalwijk;Meerpers. huishouden met minderj. kind.;5.3;36.0
+1963;Waalwijk;Meerpers. huishouden z. minderj. kind.;8.4;35.8
+1964;Werkendam;Totaal particulier huishouden;9.7;33.4
+1965;Werkendam;Eenpersoonshuishouden;2.0;17.1
+1966;Werkendam;Meerpers. huishouden met minderj. kind.;3.3;37.8
+1967;Werkendam;Meerpers. huishouden z. minderj. kind.;4.4;37.6
+1968;Woensdrecht;Totaal particulier huishouden;8.6;31.0
+1969;Woensdrecht;Eenpersoonshuishouden;1.9;16.7
+1970;Woensdrecht;Meerpers. huishouden met minderj. kind.;2.5;35.4
+1971;Woensdrecht;Meerpers. huishouden z. minderj. kind.;4.2;34.9
+1972;Woudrichem;Totaal particulier huishouden;5.3;33.6
+1973;Woudrichem;Eenpersoonshuishouden;1.1;17.9
+1974;Woudrichem;Meerpers. huishouden met minderj. kind.;1.7;37.9
+1975;Woudrichem;Meerpers. huishouden z. minderj. kind.;2.4;37.7
+1976;Zundert;Totaal particulier huishouden;7.8;32.4
+1977;Zundert;Eenpersoonshuishouden;1.8;17.8
+1978;Zundert;Meerpers. huishouden met minderj. kind.;2.3;38.8
+1979;Zundert;Meerpers. huishouden z. minderj. kind.;3.7;35.5
+1980;Wormerland;Totaal particulier huishouden;6.2;33.0
+1981;Wormerland;Eenpersoonshuishouden;1.6;18.8
+1982;Wormerland;Meerpers. huishouden met minderj. kind.;1.9;39.8
+1983;Wormerland;Meerpers. huishouden z. minderj. kind.;2.7;36.6
+1984;Onderbanken;Totaal particulier huishouden;3.3;29.8
+1985;Onderbanken;Eenpersoonshuishouden;0.7;17.2
+1986;Onderbanken;Meerpers. huishouden met minderj. kind.;1.0;34.5
+1987;Onderbanken;Meerpers. huishouden z. minderj. kind.;1.6;32.6
+1988;Landgraaf;Totaal particulier huishouden;16.9;28.4
+1989;Landgraaf;Eenpersoonshuishouden;4.6;17.0
+1990;Landgraaf;Meerpers. huishouden met minderj. kind.;4.6;33.7
+1991;Landgraaf;Meerpers. huishouden z. minderj. kind.;7.7;32.1
+1992;Arcen en Velden;Totaal particulier huishouden;3.4;32.7
+1993;Arcen en Velden;Eenpersoonshuishouden;0.7;18.5
+1994;Arcen en Velden;Meerpers. huishouden met minderj. kind.;1.1;34.8
+1995;Arcen en Velden;Meerpers. huishouden z. minderj. kind.;1.6;37.9
+1996;Beek (L.);Totaal particulier huishouden;7.0;31.4
+1997;Beek (L.);Eenpersoonshuishouden;1.8;18.2
+1998;Beek (L.);Meerpers. huishouden met minderj. kind.;2.1;37.8
+1999;Beek (L.);Meerpers. huishouden z. minderj. kind.;3.2;34.9
+2000;Beesel;Totaal particulier huishouden;5.3;30.4
+2001;Beesel;Eenpersoonshuishouden;1.2;17.2
+2002;Beesel;Meerpers. huishouden met minderj. kind.;1.7;35.1
+2003;Beesel;Meerpers. huishouden z. minderj. kind.;2.4;33.7
+2004;Bergen (L.);Totaal particulier huishouden;5.1;31.2
+2005;Bergen (L.);Eenpersoonshuishouden;1.2;16.8
+2006;Bergen (L.);Meerpers. huishouden met minderj. kind.;1.6;36.2
+2007;Bergen (L.);Meerpers. huishouden z. minderj. kind.;2.4;35.0
+2008;Brunssum;Totaal particulier huishouden;13.2;26.7
+2009;Brunssum;Eenpersoonshuishouden;4.1;16.5
+2010;Brunssum;Meerpers. huishouden met minderj. kind.;3.5;32.5
+2011;Brunssum;Meerpers. huishouden z. minderj. kind.;5.5;30.7
+2012;Eijsden;Totaal particulier huishouden;4.5;33.3
+2013;Eijsden;Eenpersoonshuishouden;0.9;18.2
+2014;Eijsden;Meerpers. huishouden met minderj. kind.;1.6;38.8
+2015;Eijsden;Meerpers. huishouden z. minderj. kind.;2.0;35.7
+2016;Gennep;Totaal particulier huishouden;6.4;30.7
+2017;Gennep;Eenpersoonshuishouden;1.7;17.4
+2018;Gennep;Meerpers. huishouden met minderj. kind.;1.9;35.9
+2019;Gennep;Meerpers. huishouden z. minderj. kind.;2.8;35.1
+2020;Haelen;Totaal particulier huishouden;3.9;32.7
+2021;Haelen;Eenpersoonshuishouden;0.9;17.6
+2022;Haelen;Meerpers. huishouden met minderj. kind.;1.1;38.4
+2023;Haelen;Meerpers. huishouden z. minderj. kind.;1.9;36.7
+2024;Heerlen;Totaal particulier huishouden;43.5;25.8
+2025;Heerlen;Eenpersoonshuishouden;17.0;16.9
+2026;Heerlen;Meerpers. huishouden met minderj. kind.;10.2;32.0
+2027;Heerlen;Meerpers. huishouden z. minderj. kind.;16.4;31.2
+2028;Helden;Totaal particulier huishouden;7.1;32.0
+2029;Helden;Eenpersoonshuishouden;1.5;17.8
+2030;Helden;Meerpers. huishouden met minderj. kind.;2.4;35.7
+2031;Helden;Meerpers. huishouden z. minderj. kind.;3.2;35.8
+2032;Heythuysen;Totaal particulier huishouden;4.6;32.6
+2033;Heythuysen;Eenpersoonshuishouden;1.0;19.1
+2034;Heythuysen;Meerpers. huishouden met minderj. kind.;1.4;36.5
+2035;Heythuysen;Meerpers. huishouden z. minderj. kind.;2.2;36.3
+2036;Hunsel;Totaal particulier huishouden;2.3;32.7
+2037;Hunsel;Eenpersoonshuishouden;0.4;18.1
+2038;Hunsel;Meerpers. huishouden met minderj. kind.;0.9;37.8
+2039;Hunsel;Meerpers. huishouden z. minderj. kind.;1.0;34.4
+2040;Kerkrade;Totaal particulier huishouden;22.4;26.9
+2041;Kerkrade;Eenpersoonshuishouden;7.3;16.8
+2042;Kerkrade;Meerpers. huishouden met minderj. kind.;5.2;33.2
+2043;Kerkrade;Meerpers. huishouden z. minderj. kind.;9.9;31.0
+2044;Kessel;Totaal particulier huishouden;1.6;31.2
+2045;Kessel;Eenpersoonshuishouden;0.3;16.3
+2046;Kessel;Meerpers. huishouden met minderj. kind.;0.5;33.7
+2047;Kessel;Meerpers. huishouden z. minderj. kind.;0.8;35.5
+2048;Maasbracht;Totaal particulier huishouden;5.6;30.6
+2049;Maasbracht;Eenpersoonshuishouden;1.3;17.6
+2050;Maasbracht;Meerpers. huishouden met minderj. kind.;1.6;37.7
+2051;Maasbracht;Meerpers. huishouden z. minderj. kind.;2.6;32.8
+2052;Maasbree;Totaal particulier huishouden;4.7;33.5
+2053;Maasbree;Eenpersoonshuishouden;0.9;17.1
+2054;Maasbree;Meerpers. huishouden met minderj. kind.;1.6;36.8
+2055;Maasbree;Meerpers. huishouden z. minderj. kind.;2.2;37.6
+2056;Maastricht;Totaal particulier huishouden;52.4;27.4
+2057;Maastricht;Eenpersoonshuishouden;20.1;17.6
+2058;Maastricht;Meerpers. huishouden met minderj. kind.;12.0;34.3
+2059;Maastricht;Meerpers. huishouden z. minderj. kind.;20.3;33.0
+2060;Margraten;Totaal particulier huishouden;5.2;33.0
+2061;Margraten;Eenpersoonshuishouden;1.1;15.9
+2062;Margraten;Meerpers. huishouden met minderj. kind.;1.6;41.2
+2063;Margraten;Meerpers. huishouden z. minderj. kind.;2.5;35.7
+2064;Meerssen;Totaal particulier huishouden;8.1;32.6
+2065;Meerssen;Eenpersoonshuishouden;1.9;18.2
+2066;Meerssen;Meerpers. huishouden met minderj. kind.;2.3;39.2
+2067;Meerssen;Meerpers. huishouden z. minderj. kind.;3.9;35.6
+2068;Meijel;Totaal particulier huishouden;2.1;33.4
+2069;Meijel;Eenpersoonshuishouden;0.4;18.0
+2070;Meijel;Meerpers. huishouden met minderj. kind.;0.7;36.7
+2071;Meijel;Meerpers. huishouden z. minderj. kind.;1.0;36.6
+2072;Mook en Middelaar;Totaal particulier huishouden;3.3;34.2
+2073;Mook en Middelaar;Eenpersoonshuishouden;0.8;19.2
+2074;Mook en Middelaar;Meerpers. huishouden met minderj. kind.;0.9;39.3
+2075;Mook en Middelaar;Meerpers. huishouden z. minderj. kind.;1.6;38.7
+2076;Nederweert;Totaal particulier huishouden;6.0;32.3
+2077;Nederweert;Eenpersoonshuishouden;1.1;18.7
+2078;Nederweert;Meerpers. huishouden met minderj. kind.;2.0;35.7
+2079;Nederweert;Meerpers. huishouden z. minderj. kind.;2.9;35.2
+2080;Nuth;Totaal particulier huishouden;6.6;31.9
+2081;Nuth;Eenpersoonshuishouden;1.5;17.7
+2082;Nuth;Meerpers. huishouden met minderj. kind.;1.8;37.9
+2083;Nuth;Meerpers. huishouden z. minderj. kind.;3.2;35.2
+2084;Roermond;Totaal particulier huishouden;20.0;28.1
+2085;Roermond;Eenpersoonshuishouden;7.2;17.8
+2086;Roermond;Meerpers. huishouden met minderj. kind.;5.2;33.2
+2087;Roermond;Meerpers. huishouden z. minderj. kind.;7.5;34.4
+2088;Schinnen;Totaal particulier huishouden;5.4;32.4
+2089;Schinnen;Eenpersoonshuishouden;1.1;17.3
+2090;Schinnen;Meerpers. huishouden met minderj. kind.;1.6;36.9
+2091;Schinnen;Meerpers. huishouden z. minderj. kind.;2.6;36.2
+2092;Sevenum;Totaal particulier huishouden;2.7;33.5
+2093;Sevenum;Eenpersoonshuishouden;0.6;22.4
+2094;Sevenum;Meerpers. huishouden met minderj. kind.;0.8;36.3
+2095;Sevenum;Meerpers. huishouden z. minderj. kind.;1.4;36.3
+2096;Simpelveld;Totaal particulier huishouden;4.7;29.8
+2097;Simpelveld;Eenpersoonshuishouden;1.2;16.7
+2098;Simpelveld;Meerpers. huishouden met minderj. kind.;1.3;35.9
+2099;Simpelveld;Meerpers. huishouden z. minderj. kind.;2.3;33.2
+2100;Stein (L.);Totaal particulier huishouden;10.9;30.7
+2101;Stein (L.);Eenpersoonshuishouden;2.4;16.7
+2102;Stein (L.);Meerpers. huishouden met minderj. kind.;3.0;36.3
+2103;Stein (L.);Meerpers. huishouden z. minderj. kind.;5.4;33.9
+2104;Swalmen;Totaal particulier huishouden;3.6;29.2
+2105;Swalmen;Eenpersoonshuishouden;0.9;15.9
+2106;Swalmen;Meerpers. huishouden met minderj. kind.;1.0;34.4
+2107;Swalmen;Meerpers. huishouden z. minderj. kind.;1.6;33.3
+2108;Thorn;Totaal particulier huishouden;1.0;31.1
+2109;Thorn;Eenpersoonshuishouden;0.3;17.2
+2110;Thorn;Meerpers. huishouden met minderj. kind.;0.3;38.3
+2111;Thorn;Meerpers. huishouden z. minderj. kind.;0.5;35.6
+2112;Vaals;Totaal particulier huishouden;4.5;29.4
+2113;Vaals;Eenpersoonshuishouden;1.5;17.9
+2114;Vaals;Meerpers. huishouden met minderj. kind.;1.1;38.6
+2115;Vaals;Meerpers. huishouden z. minderj. kind.;1.8;33.3
+2116;Venlo;Totaal particulier huishouden;39.2;28.1
+2117;Venlo;Eenpersoonshuishouden;12.8;17.1
+2118;Venlo;Meerpers. huishouden met minderj. kind.;10.5;33.6
+2119;Venlo;Meerpers. huishouden z. minderj. kind.;15.9;33.4
+2120;Venray;Totaal particulier huishouden;15.2;30.5
+2121;Venray;Eenpersoonshuishouden;4.1;17.0
+2122;Venray;Meerpers. huishouden met minderj. kind.;4.7;35.0
+2123;Venray;Meerpers. huishouden z. minderj. kind.;6.4;35.8
+2124;Voerendaal;Totaal particulier huishouden;5.3;32.9
+2125;Voerendaal;Eenpersoonshuishouden;1.1;17.9
+2126;Voerendaal;Meerpers. huishouden met minderj. kind.;1.5;38.5
+2127;Voerendaal;Meerpers. huishouden z. minderj. kind.;2.6;36.3
+2128;Weert;Totaal particulier huishouden;19.9;30.7
+2129;Weert;Eenpersoonshuishouden;5.4;17.3
+2130;Weert;Meerpers. huishouden met minderj. kind.;5.6;37.3
+2131;Weert;Meerpers. huishouden z. minderj. kind.;8.9;34.7
+2132;Meerlo-Wanssum;Totaal particulier huishouden;2.9;32.6
+2133;Meerlo-Wanssum;Eenpersoonshuishouden;0.5;16.4
+2134;Meerlo-Wanssum;Meerpers. huishouden met minderj. kind.;1.0;36.7
+2135;Meerlo-Wanssum;Meerpers. huishouden z. minderj. kind.;1.4;35.9
+2136;Valkenburg a/d Geul;Totaal particulier huishouden;7.5;30.3
+2137;Valkenburg a/d Geul;Eenpersoonshuishouden;2.2;17.4
+2138;Valkenburg a/d Geul;Meerpers. huishouden met minderj. kind.;1.9;37.2
+2139;Valkenburg a/d Geul;Meerpers. huishouden z. minderj. kind.;3.3;35.0
+2140;Lelystad;Totaal particulier huishouden;28.3;29.3
+2141;Lelystad;Eenpersoonshuishouden;8.4;16.8
+2142;Lelystad;Meerpers. huishouden met minderj. kind.;8.7;33.7
+2143;Lelystad;Meerpers. huishouden z. minderj. kind.;11.1;35.4
+2144;Horst aan de Maas;Totaal particulier huishouden;10.8;32.3
+2145;Horst aan de Maas;Eenpersoonshuishouden;2.4;18.0
+2146;Horst aan de Maas;Meerpers. huishouden met minderj. kind.;3.5;37.3
+2147;Horst aan de Maas;Meerpers. huishouden z. minderj. kind.;4.9;35.7
+2148;Eemsmond;Totaal particulier huishouden;7.1;26.4
+2149;Eemsmond;Eenpersoonshuishouden;2.2;16.1
+2150;Eemsmond;Meerpers. huishouden met minderj. kind.;2.0;32.5
+2151;Eemsmond;Meerpers. huishouden z. minderj. kind.;2.9;30.1
+2152;Gemert-Bakel;Totaal particulier huishouden;10.4;31.1
+2153;Gemert-Bakel;Eenpersoonshuishouden;2.4;16.4
+2154;Gemert-Bakel;Meerpers. huishouden met minderj. kind.;3.3;35.6
+2155;Gemert-Bakel;Meerpers. huishouden z. minderj. kind.;4.7;35.4
+2156;Halderberge;Totaal particulier huishouden;11.8;31.7
+2157;Halderberge;Eenpersoonshuishouden;2.6;17.8
+2158;Halderberge;Meerpers. huishouden met minderj. kind.;3.5;37.5
+2159;Halderberge;Meerpers. huishouden z. minderj. kind.;5.7;34.5
+2160;Heeze-Leende;Totaal particulier huishouden;5.8;34.7
+2161;Heeze-Leende;Eenpersoonshuishouden;1.3;19.4
+2162;Heeze-Leende;Meerpers. huishouden met minderj. kind.;1.8;40.5
+2163;Heeze-Leende;Meerpers. huishouden z. minderj. kind.;2.7;38.1
+2164;Laarbeek;Totaal particulier huishouden;8.1;32.7
+2165;Laarbeek;Eenpersoonshuishouden;1.6;17.4
+2166;Laarbeek;Meerpers. huishouden met minderj. kind.;2.5;37.8
+2167;Laarbeek;Meerpers. huishouden z. minderj. kind.;3.9;35.8
+2168;Reiderland;Totaal particulier huishouden;3.1;24.3
+2169;Reiderland;Eenpersoonshuishouden;1.0;14.9
+2170;Reiderland;Meerpers. huishouden met minderj. kind.;0.7;29.1
+2171;Reiderland;Meerpers. huishouden z. minderj. kind.;1.4;28.3
+2172;De Marne;Totaal particulier huishouden;4.8;27.2
+2173;De Marne;Eenpersoonshuishouden;1.6;15.7
+2174;De Marne;Meerpers. huishouden met minderj. kind.;1.3;35.0
+2175;De Marne;Meerpers. huishouden z. minderj. kind.;1.9;31.3
+2176;Zevenhuizen-Moerkapelle;Totaal particulier huishouden;3.7;35.0
+2177;Zevenhuizen-Moerkapelle;Eenpersoonshuishouden;0.8;17.7
+2178;Zevenhuizen-Moerkapelle;Meerpers. huishouden met minderj. kind.;1.3;40.1
+2179;Zevenhuizen-Moerkapelle;Meerpers. huishouden z. minderj. kind.;1.6;39.3
+2180;Reusel-De Mierden;Totaal particulier huishouden;4.4;33.7
+2181;Reusel-De Mierden;Eenpersoonshuishouden;0.9;17.6
+2182;Reusel-De Mierden;Meerpers. huishouden met minderj. kind.;1.5;37.6
+2183;Reusel-De Mierden;Meerpers. huishouden z. minderj. kind.;2.1;37.6
+2184;Roerdalen;Totaal particulier huishouden;4.3;31.6
+2185;Roerdalen;Eenpersoonshuishouden;1.0;14.8
+2186;Roerdalen;Meerpers. huishouden met minderj. kind.;1.2;36.6
+2187;Roerdalen;Meerpers. huishouden z. minderj. kind.;2.1;36.9
+2188;Roggel en Neer;Totaal particulier huishouden;3.2;32.7
+2189;Roggel en Neer;Eenpersoonshuishouden;0.7;17.2
+2190;Roggel en Neer;Meerpers. huishouden met minderj. kind.;1.0;38.4
+2191;Roggel en Neer;Meerpers. huishouden z. minderj. kind.;1.5;36.1
+2192;Maasdonk;Totaal particulier huishouden;3.9;34.8
+2193;Maasdonk;Eenpersoonshuishouden;0.7;17.7
+2194;Maasdonk;Meerpers. huishouden met minderj. kind.;1.4;41.3
+2195;Maasdonk;Meerpers. huishouden z. minderj. kind.;1.8;36.5
+2196;Rijnwoude;Totaal particulier huishouden;7.1;35.3
+2197;Rijnwoude;Eenpersoonshuishouden;1.5;18.6
+2198;Rijnwoude;Meerpers. huishouden met minderj. kind.;2.4;40.4
+2199;Rijnwoude;Meerpers. huishouden z. minderj. kind.;3.2;39.2
+2200;Liemeer;Totaal particulier huishouden;2.3;35.1
+2201;Liemeer;Eenpersoonshuishouden;0.6;13.5
+2202;Liemeer;Meerpers. huishouden met minderj. kind.;0.8;41.3
+2203;Liemeer;Meerpers. huishouden z. minderj. kind.;0.9;43.2
+2204;Roosendaal;Totaal particulier huishouden;32.0;29.9
+2205;Roosendaal;Eenpersoonshuishouden;9.1;17.4
+2206;Roosendaal;Meerpers. huishouden met minderj. kind.;9.1;35.6
+2207;Roosendaal;Meerpers. huishouden z. minderj. kind.;13.9;34.5
+2208;Schouwen-Duiveland;Totaal particulier huishouden;14.3;30.4
+2209;Schouwen-Duiveland;Eenpersoonshuishouden;4.1;17.6
+2210;Schouwen-Duiveland;Meerpers. huishouden met minderj. kind.;3.7;36.3
+2211;Schouwen-Duiveland;Meerpers. huishouden z. minderj. kind.;6.5;35.0
+2212;Ambt Montfort;Totaal particulier huishouden;4.3;30.9
+2213;Ambt Montfort;Eenpersoonshuishouden;0.9;17.4
+2214;Ambt Montfort;Meerpers. huishouden met minderj. kind.;1.2;35.8
+2215;Ambt Montfort;Meerpers. huishouden z. minderj. kind.;2.2;33.6
+2216;Aa en Hunze;Totaal particulier huishouden;10.1;31.1
+2217;Aa en Hunze;Eenpersoonshuishouden;2.5;18.6
+2218;Aa en Hunze;Meerpers. huishouden met minderj. kind.;2.8;37.0
+2219;Aa en Hunze;Meerpers. huishouden z. minderj. kind.;4.8;34.3
+2220;Borger-Odoorn;Totaal particulier huishouden;10.5;28.8
+2221;Borger-Odoorn;Eenpersoonshuishouden;2.4;16.7
+2222;Borger-Odoorn;Meerpers. huishouden met minderj. kind.;3.1;33.7
+2223;Borger-Odoorn;Meerpers. huishouden z. minderj. kind.;5.0;31.6
+2224;Cuijk;Totaal particulier huishouden;9.6;30.0
+2225;Cuijk;Eenpersoonshuishouden;2.5;16.9
+2226;Cuijk;Meerpers. huishouden met minderj. kind.;2.9;34.4
+2227;Cuijk;Meerpers. huishouden z. minderj. kind.;4.3;34.6
+2228;Landerd;Totaal particulier huishouden;5.3;33.0
+2229;Landerd;Eenpersoonshuishouden;1.1;17.7
+2230;Landerd;Meerpers. huishouden met minderj. kind.;1.8;37.4
+2231;Landerd;Meerpers. huishouden z. minderj. kind.;2.3;36.8
+2232;De Wolden;Totaal particulier huishouden;9.2;31.0
+2233;De Wolden;Eenpersoonshuishouden;2.2;17.5
+2234;De Wolden;Meerpers. huishouden met minderj. kind.;2.9;37.1
+2235;De Wolden;Meerpers. huishouden z. minderj. kind.;4.1;34.0
+2236;Noord-Beveland;Totaal particulier huishouden;3.1;30.1
+2237;Noord-Beveland;Eenpersoonshuishouden;0.9;18.3
+2238;Noord-Beveland;Meerpers. huishouden met minderj. kind.;0.7;36.3
+2239;Noord-Beveland;Meerpers. huishouden z. minderj. kind.;1.5;34.2
+2240;Wijdemeren;Totaal particulier huishouden;9.6;34.7
+2241;Wijdemeren;Eenpersoonshuishouden;2.8;19.8
+2242;Wijdemeren;Meerpers. huishouden met minderj. kind.;2.7;41.9
+2243;Wijdemeren;Meerpers. huishouden z. minderj. kind.;4.2;40.0
+2244;Noordenveld;Totaal particulier huishouden;13.0;31.3
+2245;Noordenveld;Eenpersoonshuishouden;3.4;18.3
+2246;Noordenveld;Meerpers. huishouden met minderj. kind.;3.7;37.6
+2247;Noordenveld;Meerpers. huishouden z. minderj. kind.;5.9;34.7
+2248;Twenterand;Totaal particulier huishouden;11.7;30.5
+2249;Twenterand;Eenpersoonshuishouden;2.3;16.0
+2250;Twenterand;Meerpers. huishouden met minderj. kind.;4.3;35.1
+2251;Twenterand;Meerpers. huishouden z. minderj. kind.;5.1;33.4
+2252;Westerveld;Totaal particulier huishouden;7.8;30.0
+2253;Westerveld;Eenpersoonshuishouden;2.0;17.7
+2254;Westerveld;Meerpers. huishouden met minderj. kind.;2.1;35.4
+2255;Westerveld;Meerpers. huishouden z. minderj. kind.;3.7;33.9
+2256;Sint Anthonis;Totaal particulier huishouden;4.3;31.8
+2257;Sint Anthonis;Eenpersoonshuishouden;1.0;16.8
+2258;Sint Anthonis;Meerpers. huishouden met minderj. kind.;1.4;36.5
+2259;Sint Anthonis;Meerpers. huishouden z. minderj. kind.;1.9;35.9
+2260;Lingewaard;Totaal particulier huishouden;16.4;32.4
+2261;Lingewaard;Eenpersoonshuishouden;3.6;18.7
+2262;Lingewaard;Meerpers. huishouden met minderj. kind.;5.3;37.5
+2263;Lingewaard;Meerpers. huishouden z. minderj. kind.;7.5;35.3
+2264;Cranendonck;Totaal particulier huishouden;7.9;32.9
+2265;Cranendonck;Eenpersoonshuishouden;1.8;21.8
+2266;Cranendonck;Meerpers. huishouden met minderj. kind.;2.3;37.7
+2267;Cranendonck;Meerpers. huishouden z. minderj. kind.;3.8;35.2
+2268;Steenwijkerland;Totaal particulier huishouden;17.1;28.3
+2269;Steenwijkerland;Eenpersoonshuishouden;4.7;16.5
+2270;Steenwijkerland;Meerpers. huishouden met minderj. kind.;5.0;33.9
+2271;Steenwijkerland;Meerpers. huishouden z. minderj. kind.;7.4;32.1
+2272;Moerdijk;Totaal particulier huishouden;14.6;31.5
+2273;Moerdijk;Eenpersoonshuishouden;3.4;18.1
+2274;Moerdijk;Meerpers. huishouden met minderj. kind.;4.4;35.6
+2275;Moerdijk;Meerpers. huishouden z. minderj. kind.;6.8;35.5
+2276;Echt-Susteren;Totaal particulier huishouden;13.0;30.3
+2277;Echt-Susteren;Eenpersoonshuishouden;3.2;16.7
+2278;Echt-Susteren;Meerpers. huishouden met minderj. kind.;3.7;36.5
+2279;Echt-Susteren;Meerpers. huishouden z. minderj. kind.;6.1;33.8
+2280;Sluis;Totaal particulier huishouden;10.8;29.0
+2281;Sluis;Eenpersoonshuishouden;3.3;16.7
+2282;Sluis;Meerpers. huishouden met minderj. kind.;2.6;36.9
+2283;Sluis;Meerpers. huishouden z. minderj. kind.;4.9;33.2
+2284;Drimmelen;Totaal particulier huishouden;10.3;33.0
+2285;Drimmelen;Eenpersoonshuishouden;2.1;17.7
+2286;Drimmelen;Meerpers. huishouden met minderj. kind.;3.2;37.8
+2287;Drimmelen;Meerpers. huishouden z. minderj. kind.;5.0;36.3
+2288;Bernheze;Totaal particulier huishouden;10.3;34.0
+2289;Bernheze;Eenpersoonshuishouden;2.0;18.2
+2290;Bernheze;Meerpers. huishouden met minderj. kind.;3.6;37.7
+2291;Bernheze;Meerpers. huishouden z. minderj. kind.;4.7;38.0
+2292;Ferwerderadiel;Totaal particulier huishouden;3.5;27.7
+2293;Ferwerderadiel;Eenpersoonshuishouden;0.9;16.6
+2294;Ferwerderadiel;Meerpers. huishouden met minderj. kind.;1.1;32.7
+2295;Ferwerderadiel;Meerpers. huishouden z. minderj. kind.;1.5;30.7
+2296;Alphen-Chaam;Totaal particulier huishouden;3.6;34.4
+2297;Alphen-Chaam;Eenpersoonshuishouden;0.7;18.1
+2298;Alphen-Chaam;Meerpers. huishouden met minderj. kind.;1.1;38.7
+2299;Alphen-Chaam;Meerpers. huishouden z. minderj. kind.;1.7;38.2
+2300;Bergeijk;Totaal particulier huishouden;6.8;33.5
+2301;Bergeijk;Eenpersoonshuishouden;1.4;17.7
+2302;Bergeijk;Meerpers. huishouden met minderj. kind.;2.2;38.0
+2303;Bergeijk;Meerpers. huishouden z. minderj. kind.;3.2;37.5
+2304;Bladel;Totaal particulier huishouden;7.1;32.7
+2305;Bladel;Eenpersoonshuishouden;1.5;18.0
+2306;Bladel;Meerpers. huishouden met minderj. kind.;2.2;36.7
+2307;Bladel;Meerpers. huishouden z. minderj. kind.;3.3;36.8
+2308;Gulpen-Wittem;Totaal particulier huishouden;6.1;31.3
+2309;Gulpen-Wittem;Eenpersoonshuishouden;1.5;17.0
+2310;Gulpen-Wittem;Meerpers. huishouden met minderj. kind.;1.7;37.2
+2311;Gulpen-Wittem;Meerpers. huishouden z. minderj. kind.;2.9;35.3
+2312;Tynaarlo;Totaal particulier huishouden;12.8;32.8
+2313;Tynaarlo;Eenpersoonshuishouden;3.4;19.1
+2314;Tynaarlo;Meerpers. huishouden met minderj. kind.;3.7;39.7
+2315;Tynaarlo;Meerpers. huishouden z. minderj. kind.;5.7;36.4
+2316;Midden-Drenthe;Totaal particulier huishouden;13.2;28.9
+2317;Midden-Drenthe;Eenpersoonshuishouden;3.5;16.8
+2318;Midden-Drenthe;Meerpers. huishouden met minderj. kind.;3.9;33.6
+2319;Midden-Drenthe;Meerpers. huishouden z. minderj. kind.;5.9;33.0
+2320;Overbetuwe;Totaal particulier huishouden;15.5;32.3
+2321;Overbetuwe;Eenpersoonshuishouden;3.5;17.3
+2322;Overbetuwe;Meerpers. huishouden met minderj. kind.;5.2;37.6
+2323;Overbetuwe;Meerpers. huishouden z. minderj. kind.;6.9;35.7
+2324;Hof van Twente;Totaal particulier huishouden;13.4;32.6
+2325;Hof van Twente;Eenpersoonshuishouden;3.2;19.2
+2326;Hof van Twente;Meerpers. huishouden met minderj. kind.;4.0;38.3
+2327;Hof van Twente;Meerpers. huishouden z. minderj. kind.;6.2;36.0
+2328;Olst-Wijhe;Totaal particulier huishouden;6.5;31.0
+2329;Olst-Wijhe;Eenpersoonshuishouden;1.6;17.1
+2330;Olst-Wijhe;Meerpers. huishouden met minderj. kind.;2.0;36.0
+2331;Olst-Wijhe;Meerpers. huishouden z. minderj. kind.;2.9;35.0
+2332;Dinkelland;Totaal particulier huishouden;9.1;33.0
+2333;Dinkelland;Eenpersoonshuishouden;1.9;18.0
+2334;Dinkelland;Meerpers. huishouden met minderj. kind.;3.1;37.9
+2335;Dinkelland;Meerpers. huishouden z. minderj. kind.;4.2;36.1
+2336;Sittard-Geleen;Totaal particulier huishouden;42.2;28.9
+2337;Sittard-Geleen;Eenpersoonshuishouden;13.3;17.5
+2338;Sittard-Geleen;Meerpers. huishouden met minderj. kind.;11.1;35.0
+2339;Sittard-Geleen;Meerpers. huishouden z. minderj. kind.;17.7;33.6
+2340;Zwartewaterland;Totaal particulier huishouden;7.7;31.8
+2341;Zwartewaterland;Eenpersoonshuishouden;1.7;16.4
+2342;Zwartewaterland;Meerpers. huishouden met minderj. kind.;2.9;37.6
+2343;Zwartewaterland;Meerpers. huishouden z. minderj. kind.;3.1;34.7
+2344;Leidschendam-Voorburg;Totaal particulier huishouden;34.0;32.9
+2345;Leidschendam-Voorburg;Eenpersoonshuishouden;13.1;21.2
+2346;Leidschendam-Voorburg;Meerpers. huishouden met minderj. kind.;7.8;41.1
+2347;Leidschendam-Voorburg;Meerpers. huishouden z. minderj. kind.;13.1;39.7
+2348;Pijnacker-Nootdorp;Totaal particulier huishouden;13.0;36.6
+2349;Pijnacker-Nootdorp;Eenpersoonshuishouden;2.7;21.1
+2350;Pijnacker-Nootdorp;Meerpers. huishouden met minderj. kind.;5.0;41.0
+2351;Pijnacker-Nootdorp;Meerpers. huishouden z. minderj. kind.;5.3;40.3
+2352;Heel;Totaal particulier huishouden;3.2;32.2
+2353;Heel;Eenpersoonshuishouden;0.7;17.0
+2354;Heel;Meerpers. huishouden met minderj. kind.;0.9;37.4
+2355;Heel;Meerpers. huishouden z. minderj. kind.;1.6;36.0
+2356;Menterwolde;Totaal particulier huishouden;5.2;27.2
+2357;Menterwolde;Eenpersoonshuishouden;1.2;16.3
+2358;Menterwolde;Meerpers. huishouden met minderj. kind.;1.5;30.7
+2359;Menterwolde;Meerpers. huishouden z. minderj. kind.;2.4;30.5

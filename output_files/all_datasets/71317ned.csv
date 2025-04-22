@@ -1,0 +1,2986 @@
+﻿ID;RegioS;Migratieachtergrond;AantalPersonenMet52WekenInkomen_1;GemiddeldBesteedbaarInkomen_2
+0;Nederland;Totaal;10653.7;17.0
+1;Nederland;Nederlandse achtergrond;9004.6;17.2
+2;Nederland;Met migratieachtergrond;1649.0;16.0
+3;Nederland;Westerse migratieachtergrond;921.4;17.6
+4;Nederland;Niet-westerse migratieachtergrond;727.7;13.9
+5;Noord-Nederland;Totaal;1106.4;15.6
+6;Noord-Nederland;Nederlandse achtergrond;1023.3;15.7
+7;Noord-Nederland;Met migratieachtergrond;83.1;14.8
+8;Noord-Nederland;Westerse migratieachtergrond;58.8;15.6
+9;Noord-Nederland;Niet-westerse migratieachtergrond;24.2;12.9
+10;Oost-Nederland;Totaal;2209.6;16.5
+11;Oost-Nederland;Nederlandse achtergrond;1938.6;16.6
+12;Oost-Nederland;Met migratieachtergrond;271.0;15.3
+13;Oost-Nederland;Westerse migratieachtergrond;168.6;16.4
+14;Oost-Nederland;Niet-westerse migratieachtergrond;102.5;13.4
+15;West-Nederland;Totaal;4984.6;17.7
+16;West-Nederland;Nederlandse achtergrond;4021.1;18.0
+17;West-Nederland;Met migratieachtergrond;963.6;16.5
+18;West-Nederland;Westerse migratieachtergrond;459.2;19.0
+19;West-Nederland;Niet-westerse migratieachtergrond;504.4;14.2
+20;Zuid-Nederland;Totaal;2353.0;16.6
+21;Zuid-Nederland;Nederlandse achtergrond;2021.7;16.8
+22;Zuid-Nederland;Met migratieachtergrond;331.4;15.4
+23;Zuid-Nederland;Westerse migratieachtergrond;234.8;16.2
+24;Zuid-Nederland;Niet-westerse migratieachtergrond;96.6;13.4
+25;Groningen;Totaal;376.3;15.4
+26;Groningen;Nederlandse achtergrond;341.0;15.4
+27;Groningen;Met migratieachtergrond;35.3;14.6
+28;Groningen;Westerse migratieachtergrond;23.5;15.5
+29;Groningen;Niet-westerse migratieachtergrond;11.8;12.9
+30;Friesland;Totaal;412.6;15.6
+31;Friesland;Nederlandse achtergrond;386.7;15.7
+32;Friesland;Met migratieachtergrond;25.9;14.5
+33;Friesland;Westerse migratieachtergrond;18.2;15.4
+34;Friesland;Niet-westerse migratieachtergrond;7.7;12.6
+35;Drenthe;Totaal;317.5;15.9
+36;Drenthe;Nederlandse achtergrond;295.5;15.9
+37;Drenthe;Met migratieachtergrond;21.9;15.3
+38;Drenthe;Westerse migratieachtergrond;17.2;15.9
+39;Drenthe;Niet-westerse migratieachtergrond;4.8;13.2
+40;Overijssel;Totaal;713.2;15.9
+41;Overijssel;Nederlandse achtergrond;629.6;16.1
+42;Overijssel;Met migratieachtergrond;83.6;14.5
+43;Overijssel;Westerse migratieachtergrond;52.4;15.7
+44;Overijssel;Niet-westerse migratieachtergrond;31.2;12.6
+45;Flevoland;Totaal;211.0;16.9
+46;Flevoland;Nederlandse achtergrond;172.4;17.0
+47;Flevoland;Met migratieachtergrond;38.5;16.1
+48;Flevoland;Westerse migratieachtergrond;16.6;17.5
+49;Flevoland;Niet-westerse migratieachtergrond;21.9;15.0
+50;Gelderland;Totaal;1285.4;16.7
+51;Gelderland;Nederlandse achtergrond;1136.5;16.9
+52;Gelderland;Met migratieachtergrond;148.9;15.5
+53;Gelderland;Westerse migratieachtergrond;99.5;16.7
+54;Gelderland;Niet-westerse migratieachtergrond;49.4;13.2
+55;Utrecht;Totaal;760.0;18.3
+56;Utrecht;Nederlandse achtergrond;642.0;18.6
+57;Utrecht;Met migratieachtergrond;118.1;16.7
+58;Utrecht;Westerse migratieachtergrond;62.9;19.0
+59;Utrecht;Niet-westerse migratieachtergrond;55.2;14.0
+60;Noord-Holland;Totaal;1725.7;18.0
+61;Noord-Holland;Nederlandse achtergrond;1363.9;18.3
+62;Noord-Holland;Met migratieachtergrond;361.8;16.9
+63;Noord-Holland;Westerse migratieachtergrond;173.3;19.5
+64;Noord-Holland;Niet-westerse migratieachtergrond;188.5;14.5
+65;Zuid-Holland;Totaal;2252.0;17.5
+66;Zuid-Holland;Nederlandse achtergrond;1798.2;17.8
+67;Zuid-Holland;Met migratieachtergrond;453.8;16.1
+68;Zuid-Holland;Westerse migratieachtergrond;199.6;18.8
+69;Zuid-Holland;Niet-westerse migratieachtergrond;254.2;14.0
+70;Zeeland;Totaal;246.8;16.5
+71;Zeeland;Nederlandse achtergrond;216.9;16.7
+72;Zeeland;Met migratieachtergrond;29.9;15.3
+73;Zeeland;Westerse migratieachtergrond;23.4;15.9
+74;Zeeland;Niet-westerse migratieachtergrond;6.5;13.3
+75;Noord-Brabant;Totaal;1592.5;16.9
+76;Noord-Brabant;Nederlandse achtergrond;1396.4;17.1
+77;Noord-Brabant;Met migratieachtergrond;196.2;15.7
+78;Noord-Brabant;Westerse migratieachtergrond;122.7;17.0
+79;Noord-Brabant;Niet-westerse migratieachtergrond;73.5;13.5
+80;Limburg;Totaal;760.5;16.0
+81;Limburg;Nederlandse achtergrond;625.3;16.2
+82;Limburg;Met migratieachtergrond;135.2;14.9
+83;Limburg;Westerse migratieachtergrond;112.1;15.3
+84;Limburg;Niet-westerse migratieachtergrond;23.1;12.9
+85;Oost-Groningen;Totaal;102.6;14.7
+86;Oost-Groningen;Nederlandse achtergrond;95.4;14.7
+87;Oost-Groningen;Met migratieachtergrond;7.1;14.3
+88;Oost-Groningen;Westerse migratieachtergrond;5.6;14.8
+89;Oost-Groningen;Niet-westerse migratieachtergrond;1.5;12.6
+90;Delfzijl en omgeving;Totaal;34.2;15.6
+91;Delfzijl en omgeving;Nederlandse achtergrond;30.8;15.8
+92;Delfzijl en omgeving;Met migratieachtergrond;3.5;14.5
+93;Delfzijl en omgeving;Westerse migratieachtergrond;2.3;15.2
+94;Delfzijl en omgeving;Niet-westerse migratieachtergrond;1.2;13.2
+95;Overig Groningen;Totaal;239.5;15.6
+96;Overig Groningen;Nederlandse achtergrond;214.8;15.7
+97;Overig Groningen;Met migratieachtergrond;24.7;14.7
+98;Overig Groningen;Westerse migratieachtergrond;15.6;15.8
+99;Overig Groningen;Niet-westerse migratieachtergrond;9.1;12.9
+100;Noord-Friesland;Totaal;212.6;15.4
+101;Noord-Friesland;Nederlandse achtergrond;199.1;15.4
+102;Noord-Friesland;Met migratieachtergrond;13.5;14.4
+103;Noord-Friesland;Westerse migratieachtergrond;9.1;15.4
+104;Noord-Friesland;Niet-westerse migratieachtergrond;4.4;12.4
+105;Zuidwest-Friesland;Totaal;66.6;15.8
+106;Zuidwest-Friesland;Nederlandse achtergrond;62.6;15.9
+107;Zuidwest-Friesland;Met migratieachtergrond;4.0;14.8
+108;Zuidwest-Friesland;Westerse migratieachtergrond;3.2;15.6
+109;Zuidwest-Friesland;Niet-westerse migratieachtergrond;0.8;11.7
+110;Zuidoost-Friesland;Totaal;133.4;15.8
+111;Zuidoost-Friesland;Nederlandse achtergrond;125.0;15.9
+112;Zuidoost-Friesland;Met migratieachtergrond;8.4;14.7
+113;Zuidoost-Friesland;Westerse migratieachtergrond;5.9;15.3
+114;Zuidoost-Friesland;Niet-westerse migratieachtergrond;2.5;13.3
+115;Noord-Drenthe;Totaal;120.6;16.6
+116;Noord-Drenthe;Nederlandse achtergrond;111.9;16.6
+117;Noord-Drenthe;Met migratieachtergrond;8.7;16.4
+118;Noord-Drenthe;Westerse migratieachtergrond;6.7;17.2
+119;Noord-Drenthe;Niet-westerse migratieachtergrond;1.9;13.6
+120;Zuidoost-Drenthe;Totaal;113.5;15.1
+121;Zuidoost-Drenthe;Nederlandse achtergrond;105.2;15.1
+122;Zuidoost-Drenthe;Met migratieachtergrond;8.2;14.1
+123;Zuidoost-Drenthe;Westerse migratieachtergrond;6.7;14.4
+124;Zuidoost-Drenthe;Niet-westerse migratieachtergrond;1.5;12.9
+125;Zuidwest-Drenthe;Totaal;83.5;16.0
+126;Zuidwest-Drenthe;Nederlandse achtergrond;78.4;16.0
+127;Zuidwest-Drenthe;Met migratieachtergrond;5.1;15.3
+128;Zuidwest-Drenthe;Westerse migratieachtergrond;3.7;16.1
+129;Zuidwest-Drenthe;Niet-westerse migratieachtergrond;1.3;13.0
+130;Noord-Overijssel;Totaal;216.2;16.4
+131;Noord-Overijssel;Nederlandse achtergrond;200.7;16.4
+132;Noord-Overijssel;Met migratieachtergrond;15.5;15.4
+133;Noord-Overijssel;Westerse migratieachtergrond;9.6;16.7
+134;Noord-Overijssel;Niet-westerse migratieachtergrond;6.0;13.3
+135;Zuidwest-Overijssel;Totaal;96.8;16.0
+136;Zuidwest-Overijssel;Nederlandse achtergrond;85.3;16.2
+137;Zuidwest-Overijssel;Met migratieachtergrond;11.5;14.8
+138;Zuidwest-Overijssel;Westerse migratieachtergrond;6.6;16.5
+139;Zuidwest-Overijssel;Niet-westerse migratieachtergrond;4.9;12.6
+140;Twente;Totaal;400.2;15.7
+141;Twente;Nederlandse achtergrond;343.6;15.9
+142;Twente;Met migratieachtergrond;56.6;14.3
+143;Twente;Westerse migratieachtergrond;36.3;15.3
+144;Twente;Niet-westerse migratieachtergrond;20.3;12.4
+145;Veluwe;Totaal;411.1;17.1
+146;Veluwe;Nederlandse achtergrond;371.3;17.2
+147;Veluwe;Met migratieachtergrond;39.8;16.0
+148;Veluwe;Westerse migratieachtergrond;26.0;17.3
+149;Veluwe;Niet-westerse migratieachtergrond;13.8;13.6
+150;Achterhoek;Totaal;255.7;16.1
+151;Achterhoek;Nederlandse achtergrond;231.6;16.2
+152;Achterhoek;Met migratieachtergrond;24.0;15.1
+153;Achterhoek;Westerse migratieachtergrond;17.8;15.7
+154;Achterhoek;Niet-westerse migratieachtergrond;6.3;13.2
+155;Arnhem/Nijmegen;Totaal;472.6;16.5
+156;Arnhem/Nijmegen;Nederlandse achtergrond;400.7;16.8
+157;Arnhem/Nijmegen;Met migratieachtergrond;71.9;15.3
+158;Arnhem/Nijmegen;Westerse migratieachtergrond;47.6;16.5
+159;Arnhem/Nijmegen;Niet-westerse migratieachtergrond;24.2;12.8
+160;Zuidwest-Gelderland;Totaal;146.0;17.2
+161;Zuidwest-Gelderland;Nederlandse achtergrond;132.9;17.4
+162;Zuidwest-Gelderland;Met migratieachtergrond;13.2;16.1
+163;Zuidwest-Gelderland;Westerse migratieachtergrond;8.1;17.6
+164;Zuidwest-Gelderland;Niet-westerse migratieachtergrond;5.0;13.5
+165;Utrecht;Totaal;760.0;18.3
+166;Utrecht;Nederlandse achtergrond;642.0;18.6
+167;Utrecht;Met migratieachtergrond;118.1;16.7
+168;Utrecht;Westerse migratieachtergrond;62.9;19.0
+169;Utrecht;Niet-westerse migratieachtergrond;55.2;14.0
+170;Kop van Noord-Holland;Totaal;236.3;16.7
+171;Kop van Noord-Holland;Nederlandse achtergrond;212.9;16.8
+172;Kop van Noord-Holland;Met migratieachtergrond;23.4;15.8
+173;Kop van Noord-Holland;Westerse migratieachtergrond;15.2;16.9
+174;Kop van Noord-Holland;Niet-westerse migratieachtergrond;8.1;13.8
+175;Alkmaar en omgeving;Totaal;149.4;17.6
+176;Alkmaar en omgeving;Nederlandse achtergrond;130.3;17.7
+177;Alkmaar en omgeving;Met migratieachtergrond;19.1;16.6
+178;Alkmaar en omgeving;Westerse migratieachtergrond;11.3;18.2
+179;Alkmaar en omgeving;Niet-westerse migratieachtergrond;7.7;14.2
+180;IJmond;Totaal;126.5;17.7
+181;IJmond;Nederlandse achtergrond;111.1;17.9
+182;IJmond;Met migratieachtergrond;15.4;16.5
+183;IJmond;Westerse migratieachtergrond;10.5;17.8
+184;IJmond;Niet-westerse migratieachtergrond;4.9;13.7
+185;Agglomeratie Haarlem;Totaal;150.5;19.0
+186;Agglomeratie Haarlem;Nederlandse achtergrond;125.2;19.1
+187;Agglomeratie Haarlem;Met migratieachtergrond;25.3;18.2
+188;Agglomeratie Haarlem;Westerse migratieachtergrond;15.7;20.5
+189;Agglomeratie Haarlem;Niet-westerse migratieachtergrond;9.7;14.5
+190;Zaanstreek;Totaal;104.4;16.9
+191;Zaanstreek;Nederlandse achtergrond;85.7;17.2
+192;Zaanstreek;Met migratieachtergrond;18.7;15.2
+193;Zaanstreek;Westerse migratieachtergrond;8.8;16.8
+194;Zaanstreek;Niet-westerse migratieachtergrond;9.9;13.9
+195;Groot-Amsterdam;Totaal;795.1;18.0
+196;Groot-Amsterdam;Nederlandse achtergrond;559.9;18.6
+197;Groot-Amsterdam;Met migratieachtergrond;235.2;16.7
+198;Groot-Amsterdam;Westerse migratieachtergrond;94.6;19.9
+199;Groot-Amsterdam;Niet-westerse migratieachtergrond;140.6;14.6
+200;Het Gooi en Vechtstreek;Totaal;163.6;20.3
+201;Het Gooi en Vechtstreek;Nederlandse achtergrond;138.8;20.3
+202;Het Gooi en Vechtstreek;Met migratieachtergrond;24.8;20.4
+203;Het Gooi en Vechtstreek;Westerse migratieachtergrond;17.2;22.6
+204;Het Gooi en Vechtstreek;Niet-westerse migratieachtergrond;7.6;15.4
+205;Agglomeratie Leiden en Bollenstreek;Totaal;256.9;18.3
+206;Agglomeratie Leiden en Bollenstreek;Nederlandse achtergrond;224.2;18.4
+207;Agglomeratie Leiden en Bollenstreek;Met migratieachtergrond;32.7;18.0
+208;Agglomeratie Leiden en Bollenstreek;Westerse migratieachtergrond;20.7;20.1
+209;Agglomeratie Leiden en Bollenstreek;Niet-westerse migratieachtergrond;12.0;14.5
+210;Agglomeratie 's-Gravenhage;Totaal;500.9;18.1
+211;Agglomeratie 's-Gravenhage;Nederlandse achtergrond;357.4;18.4
+212;Agglomeratie 's-Gravenhage;Met migratieachtergrond;143.4;17.3
+213;Agglomeratie 's-Gravenhage;Westerse migratieachtergrond;61.3;21.1
+214;Agglomeratie 's-Gravenhage;Niet-westerse migratieachtergrond;82.2;14.4
+215;Delft en Westland;Totaal;140.2;16.8
+216;Delft en Westland;Nederlandse achtergrond;122.7;17.0
+217;Delft en Westland;Met migratieachtergrond;17.6;15.7
+218;Delft en Westland;Westerse migratieachtergrond;9.6;17.4
+219;Delft en Westland;Niet-westerse migratieachtergrond;8.0;13.6
+220;Oost-Zuid-Holland;Totaal;210.0;18.1
+221;Oost-Zuid-Holland;Nederlandse achtergrond;185.3;18.3
+222;Oost-Zuid-Holland;Met migratieachtergrond;24.7;16.5
+223;Oost-Zuid-Holland;Westerse migratieachtergrond;14.4;18.4
+224;Oost-Zuid-Holland;Niet-westerse migratieachtergrond;10.3;13.9
+225;Groot-Rijnmond;Totaal;889.8;17.0
+226;Groot-Rijnmond;Nederlandse achtergrond;689.3;17.5
+227;Groot-Rijnmond;Met migratieachtergrond;200.5;15.1
+228;Groot-Rijnmond;Westerse migratieachtergrond;74.7;17.4
+229;Groot-Rijnmond;Niet-westerse migratieachtergrond;125.9;13.7
+230;Zuidoost-Zuid-Holland;Totaal;254.2;17.1
+231;Zuidoost-Zuid-Holland;Nederlandse achtergrond;219.4;17.3
+232;Zuidoost-Zuid-Holland;Met migratieachtergrond;34.8;15.3
+233;Zuidoost-Zuid-Holland;Westerse migratieachtergrond;19.0;16.8
+234;Zuidoost-Zuid-Holland;Niet-westerse migratieachtergrond;15.8;13.4
+235;Zeeuwsch-Vlaanderen;Totaal;70.9;16.5
+236;Zeeuwsch-Vlaanderen;Nederlandse achtergrond;57.9;16.8
+237;Zeeuwsch-Vlaanderen;Met migratieachtergrond;13.0;15.3
+238;Zeeuwsch-Vlaanderen;Westerse migratieachtergrond;11.3;15.6
+239;Zeeuwsch-Vlaanderen;Niet-westerse migratieachtergrond;1.7;13.3
+240;Overig Zeeland;Totaal;175.9;16.5
+241;Overig Zeeland;Nederlandse achtergrond;159.0;16.6
+242;Overig Zeeland;Met migratieachtergrond;16.9;15.4
+243;Overig Zeeland;Westerse migratieachtergrond;12.1;16.2
+244;Overig Zeeland;Niet-westerse migratieachtergrond;4.8;13.2
+245;West-Noord-Brabant;Totaal;399.4;16.9
+246;West-Noord-Brabant;Nederlandse achtergrond;347.5;17.1
+247;West-Noord-Brabant;Met migratieachtergrond;51.9;15.7
+248;West-Noord-Brabant;Westerse migratieachtergrond;32.7;17.0
+249;West-Noord-Brabant;Niet-westerse migratieachtergrond;19.2;13.4
+250;Midden-Noord-Brabant;Totaal;298.2;16.4
+251;Midden-Noord-Brabant;Nederlandse achtergrond;261.8;16.6
+252;Midden-Noord-Brabant;Met migratieachtergrond;36.4;15.0
+253;Midden-Noord-Brabant;Westerse migratieachtergrond;21.3;16.4
+254;Midden-Noord-Brabant;Niet-westerse migratieachtergrond;15.1;13.1
+255;Noordoost-Noord-Brabant;Totaal;415.5;17.0
+256;Noordoost-Noord-Brabant;Nederlandse achtergrond;371.4;17.1
+257;Noordoost-Noord-Brabant;Met migratieachtergrond;44.1;15.5
+258;Noordoost-Noord-Brabant;Westerse migratieachtergrond;27.2;16.9
+259;Noordoost-Noord-Brabant;Niet-westerse migratieachtergrond;16.9;13.2
+260;Zuidoost-Noord-Brabant;Totaal;479.4;17.1
+261;Zuidoost-Noord-Brabant;Nederlandse achtergrond;415.6;17.3
+262;Zuidoost-Noord-Brabant;Met migratieachtergrond;63.8;16.2
+263;Zuidoost-Noord-Brabant;Westerse migratieachtergrond;41.5;17.3
+264;Zuidoost-Noord-Brabant;Niet-westerse migratieachtergrond;22.3;14.2
+265;Noord-Limburg;Totaal;184.2;16.0
+266;Noord-Limburg;Nederlandse achtergrond;157.5;16.2
+267;Noord-Limburg;Met migratieachtergrond;26.8;14.6
+268;Noord-Limburg;Westerse migratieachtergrond;19.6;15.3
+269;Noord-Limburg;Niet-westerse migratieachtergrond;7.2;12.7
+270;Midden-Limburg;Totaal;147.1;16.3
+271;Midden-Limburg;Nederlandse achtergrond;125.3;16.6
+272;Midden-Limburg;Met migratieachtergrond;21.8;14.9
+273;Midden-Limburg;Westerse migratieachtergrond;16.9;15.4
+274;Midden-Limburg;Niet-westerse migratieachtergrond;4.9;13.1
+275;Zuid-Limburg;Totaal;429.2;15.9
+276;Zuid-Limburg;Nederlandse achtergrond;342.6;16.1
+277;Zuid-Limburg;Met migratieachtergrond;86.6;15.0
+278;Zuid-Limburg;Westerse migratieachtergrond;75.7;15.3
+279;Zuid-Limburg;Niet-westerse migratieachtergrond;11.0;12.8
+280;Flevoland;Totaal;211.0;16.9
+281;Flevoland;Nederlandse achtergrond;172.4;17.0
+282;Flevoland;Met migratieachtergrond;38.5;16.1
+283;Flevoland;Westerse migratieachtergrond;16.6;17.5
+284;Flevoland;Niet-westerse migratieachtergrond;21.9;15.0
+285;Groningen;Totaal;132.0;15.5
+286;Groningen;Nederlandse achtergrond;114.1;15.6
+287;Groningen;Met migratieachtergrond;18.0;14.5
+288;Groningen;Westerse migratieachtergrond;11.2;15.5
+289;Groningen;Niet-westerse migratieachtergrond;6.8;12.7
+290;Leeuwarden;Totaal;61.3;15.1
+291;Leeuwarden;Nederlandse achtergrond;53.8;15.3
+292;Leeuwarden;Met migratieachtergrond;7.5;14.0
+293;Leeuwarden;Westerse migratieachtergrond;4.3;15.2
+294;Leeuwarden;Niet-westerse migratieachtergrond;3.2;12.3
+295;Zwolle;Totaal;73.8;16.9
+296;Zwolle;Nederlandse achtergrond;64.7;17.1
+297;Zwolle;Met migratieachtergrond;9.1;15.2
+298;Zwolle;Westerse migratieachtergrond;5.0;16.7
+299;Zwolle;Niet-westerse migratieachtergrond;4.1;13.4
+300;Enschede;Totaal;99.1;14.8
+301;Enschede;Nederlandse achtergrond;77.2;15.2
+302;Enschede;Met migratieachtergrond;21.9;13.6
+303;Enschede;Westerse migratieachtergrond;13.1;14.6
+304;Enschede;Niet-westerse migratieachtergrond;8.9;12.2
+305;Apeldoorn;Totaal;105.3;17.0
+306;Apeldoorn;Nederlandse achtergrond;92.1;17.2
+307;Apeldoorn;Met migratieachtergrond;13.2;15.9
+308;Apeldoorn;Westerse migratieachtergrond;8.7;17.0
+309;Apeldoorn;Niet-westerse migratieachtergrond;4.5;13.6
+310;Arnhem;Totaal;97.5;16.1
+311;Arnhem;Nederlandse achtergrond;75.0;16.7
+312;Arnhem;Met migratieachtergrond;22.5;14.3
+313;Arnhem;Westerse migratieachtergrond;11.7;16.0
+314;Arnhem;Niet-westerse migratieachtergrond;10.8;12.4
+315;Nijmegen;Totaal;105.7;15.8
+316;Nijmegen;Nederlandse achtergrond;85.6;16.1
+317;Nijmegen;Met migratieachtergrond;20.1;14.6
+318;Nijmegen;Westerse migratieachtergrond;12.2;15.9
+319;Nijmegen;Niet-westerse migratieachtergrond;8.0;12.6
+320;Amersfoort;Totaal;105.4;18.4
+321;Amersfoort;Nederlandse achtergrond;87.7;18.7
+322;Amersfoort;Met migratieachtergrond;17.7;16.9
+323;Amersfoort;Westerse migratieachtergrond;9.5;19.2
+324;Amersfoort;Niet-westerse migratieachtergrond;8.2;14.2
+325;Utrecht;Totaal;270.6;17.3
+326;Utrecht;Nederlandse achtergrond;213.4;17.8
+327;Utrecht;Met migratieachtergrond;57.2;15.5
+328;Utrecht;Westerse migratieachtergrond;25.4;17.6
+329;Utrecht;Niet-westerse migratieachtergrond;31.7;13.8
+330;Amsterdam;Totaal;683.2;17.7
+331;Amsterdam;Nederlandse achtergrond;458.6;18.3
+332;Amsterdam;Met migratieachtergrond;224.5;16.5
+333;Amsterdam;Westerse migratieachtergrond;85.4;19.8
+334;Amsterdam;Niet-westerse migratieachtergrond;139.1;14.4
+335;Haarlem;Totaal;131.4;19.0
+336;Haarlem;Nederlandse achtergrond;108.5;19.1
+337;Haarlem;Met migratieachtergrond;22.9;18.1
+338;Haarlem;Westerse migratieachtergrond;13.7;20.6
+339;Haarlem;Niet-westerse migratieachtergrond;9.2;14.3
+340;Leiden;Totaal;166.6;18.4
+341;Leiden;Nederlandse achtergrond;141.7;18.5
+342;Leiden;Met migratieachtergrond;24.9;18.0
+343;Leiden;Westerse migratieachtergrond;15.0;20.2
+344;Leiden;Niet-westerse migratieachtergrond;9.9;14.6
+345;'s-Gravenhage;Totaal;416.0;18.0
+346;'s-Gravenhage;Nederlandse achtergrond;290.3;18.3
+347;'s-Gravenhage;Met migratieachtergrond;125.7;17.2
+348;'s-Gravenhage;Westerse migratieachtergrond;51.6;21.5
+349;'s-Gravenhage;Niet-westerse migratieachtergrond;74.1;14.3
+350;Rotterdam;Totaal;662.2;16.5
+351;Rotterdam;Nederlandse achtergrond;481.1;17.2
+352;Rotterdam;Met migratieachtergrond;181.1;14.8
+353;Rotterdam;Westerse migratieachtergrond;61.0;16.9
+354;Rotterdam;Niet-westerse migratieachtergrond;120.1;13.7
+355;Dordrecht;Totaal;158.8;16.9
+356;Dordrecht;Nederlandse achtergrond;134.2;17.2
+357;Dordrecht;Met migratieachtergrond;24.6;15.1
+358;Dordrecht;Westerse migratieachtergrond;12.8;16.8
+359;Dordrecht;Niet-westerse migratieachtergrond;11.8;13.2
+360;Breda;Totaal;110.1;17.3
+361;Breda;Nederlandse achtergrond;92.0;17.6
+362;Breda;Met migratieachtergrond;18.1;15.7
+363;Breda;Westerse migratieachtergrond;11.1;17.2
+364;Breda;Niet-westerse migratieachtergrond;7.0;13.4
+365;Tilburg;Totaal;149.2;15.9
+366;Tilburg;Nederlandse achtergrond;125.1;16.2
+367;Tilburg;Met migratieachtergrond;24.1;14.5
+368;Tilburg;Westerse migratieachtergrond;12.2;15.9
+369;Tilburg;Niet-westerse migratieachtergrond;11.8;13.0
+370;'s-Hertogenbosch;Totaal;107.3;17.5
+371;'s-Hertogenbosch;Nederlandse achtergrond;91.8;17.8
+372;'s-Hertogenbosch;Met migratieachtergrond;15.5;15.6
+373;'s-Hertogenbosch;Westerse migratieachtergrond;9.2;17.4
+374;'s-Hertogenbosch;Niet-westerse migratieachtergrond;6.2;13.0
+375;Eindhoven;Totaal;208.5;17.1
+376;Eindhoven;Nederlandse achtergrond;171.1;17.3
+377;Eindhoven;Met migratieachtergrond;37.4;16.3
+378;Eindhoven;Westerse migratieachtergrond;21.8;17.7
+379;Eindhoven;Niet-westerse migratieachtergrond;15.6;14.4
+380;Geleen/Sittard;Totaal;94.3;16.5
+381;Geleen/Sittard;Nederlandse achtergrond;76.9;16.7
+382;Geleen/Sittard;Met migratieachtergrond;17.5;15.6
+383;Geleen/Sittard;Westerse migratieachtergrond;14.8;16.0
+384;Geleen/Sittard;Niet-westerse migratieachtergrond;2.6;13.4
+385;Heerlen;Totaal;143.5;15.1
+386;Heerlen;Nederlandse achtergrond;105.6;15.3
+387;Heerlen;Met migratieachtergrond;37.9;14.3
+388;Heerlen;Westerse migratieachtergrond;33.8;14.5
+389;Heerlen;Niet-westerse migratieachtergrond;4.1;12.7
+390;Maastricht;Totaal;83.2;15.5
+391;Maastricht;Nederlandse achtergrond;68.4;15.6
+392;Maastricht;Met migratieachtergrond;14.8;14.9
+393;Maastricht;Westerse migratieachtergrond;11.6;15.7
+394;Maastricht;Niet-westerse migratieachtergrond;3.2;12.2
+395;Groningen;Totaal;224.2;16.0
+396;Groningen;Nederlandse achtergrond;201.5;16.2
+397;Groningen;Met migratieachtergrond;22.7;15.1
+398;Groningen;Westerse migratieachtergrond;15.1;16.2
+399;Groningen;Niet-westerse migratieachtergrond;7.6;13.0
+400;Leeuwarden;Totaal;103.9;15.5
+401;Leeuwarden;Nederlandse achtergrond;94.8;15.6
+402;Leeuwarden;Met migratieachtergrond;9.1;14.4
+403;Leeuwarden;Westerse migratieachtergrond;5.6;15.6
+404;Leeuwarden;Niet-westerse migratieachtergrond;3.4;12.3
+405;Zwolle;Totaal;109.7;16.9
+406;Zwolle;Nederlandse achtergrond;99.3;17.0
+407;Zwolle;Met migratieachtergrond;10.4;15.7
+408;Zwolle;Westerse migratieachtergrond;6.0;17.3
+409;Zwolle;Niet-westerse migratieachtergrond;4.4;13.6
+410;Enschede;Totaal;203.3;15.5
+411;Enschede;Nederlandse achtergrond;165.6;15.8
+412;Enschede;Met migratieachtergrond;37.6;14.0
+413;Enschede;Westerse migratieachtergrond;23.7;15.0
+414;Enschede;Niet-westerse migratieachtergrond;13.9;12.4
+415;Apeldoorn;Totaal;143.4;16.9
+416;Apeldoorn;Nederlandse achtergrond;126.7;17.0
+417;Apeldoorn;Met migratieachtergrond;16.7;15.9
+418;Apeldoorn;Westerse migratieachtergrond;11.3;16.9
+419;Apeldoorn;Niet-westerse migratieachtergrond;5.4;13.7
+420;Arnhem;Totaal;235.8;16.8
+421;Arnhem;Nederlandse achtergrond;198.8;17.0
+422;Arnhem;Met migratieachtergrond;37.0;15.3
+423;Arnhem;Westerse migratieachtergrond;23.6;16.8
+424;Arnhem;Niet-westerse migratieachtergrond;13.4;12.7
+425;Nijmegen;Totaal;183.2;16.5
+426;Nijmegen;Nederlandse achtergrond;154.9;16.7
+427;Nijmegen;Met migratieachtergrond;28.3;15.3
+428;Nijmegen;Westerse migratieachtergrond;18.9;16.5
+429;Nijmegen;Niet-westerse migratieachtergrond;9.4;12.9
+430;Amersfoort;Totaal;171.3;18.3
+431;Amersfoort;Nederlandse achtergrond;146.7;18.6
+432;Amersfoort;Met migratieachtergrond;24.7;16.8
+433;Amersfoort;Westerse migratieachtergrond;13.6;19.0
+434;Amersfoort;Niet-westerse migratieachtergrond;11.1;14.1
+435;Utrecht;Totaal;373.1;18.0
+436;Utrecht;Nederlandse achtergrond;302.4;18.4
+437;Utrecht;Met migratieachtergrond;70.7;16.2
+438;Utrecht;Westerse migratieachtergrond;34.3;18.6
+439;Utrecht;Niet-westerse migratieachtergrond;36.5;13.9
+440;Amsterdam;Totaal;945.9;17.8
+441;Amsterdam;Nederlandse achtergrond;671.5;18.3
+442;Amsterdam;Met migratieachtergrond;274.4;16.6
+443;Amsterdam;Westerse migratieachtergrond;110.0;19.5
+444;Amsterdam;Niet-westerse migratieachtergrond;164.4;14.6
+445;Haarlem;Totaal;277.0;18.4
+446;Haarlem;Nederlandse achtergrond;236.3;18.5
+447;Haarlem;Met migratieachtergrond;40.7;17.5
+448;Haarlem;Westerse migratieachtergrond;26.1;19.4
+449;Haarlem;Niet-westerse migratieachtergrond;14.5;14.2
+450;Leiden;Totaal;218.2;18.5
+451;Leiden;Nederlandse achtergrond;188.6;18.5
+452;Leiden;Met migratieachtergrond;29.6;18.2
+453;Leiden;Westerse migratieachtergrond;18.4;20.3
+454;Leiden;Niet-westerse migratieachtergrond;11.2;14.6
+455;'s-Gravenhage;Totaal;582.8;17.9
+456;'s-Gravenhage;Nederlandse achtergrond;425.4;18.1
+457;'s-Gravenhage;Met migratieachtergrond;157.3;17.1
+458;'s-Gravenhage;Westerse migratieachtergrond;68.4;20.7
+459;'s-Gravenhage;Niet-westerse migratieachtergrond;88.9;14.4
+460;Rotterdam;Totaal;784.9;16.8
+461;Rotterdam;Nederlandse achtergrond;590.8;17.4
+462;Rotterdam;Met migratieachtergrond;194.1;15.0
+463;Rotterdam;Westerse migratieachtergrond;69.9;17.2
+464;Rotterdam;Niet-westerse migratieachtergrond;124.1;13.7
+465;Dordrecht;Totaal;183.7;17.0
+466;Dordrecht;Nederlandse achtergrond;156.5;17.3
+467;Dordrecht;Met migratieachtergrond;27.2;15.1
+468;Dordrecht;Westerse migratieachtergrond;14.6;16.8
+469;Dordrecht;Niet-westerse migratieachtergrond;12.6;13.2
+470;Breda;Totaal;202.3;17.1
+471;Breda;Nederlandse achtergrond;173.6;17.3
+472;Breda;Met migratieachtergrond;28.7;15.9
+473;Breda;Westerse migratieachtergrond;18.3;17.2
+474;Breda;Niet-westerse migratieachtergrond;10.4;13.5
+475;Tilburg;Totaal;192.2;16.3
+476;Tilburg;Nederlandse achtergrond;164.7;16.5
+477;Tilburg;Met migratieachtergrond;27.5;14.7
+478;Tilburg;Westerse migratieachtergrond;14.8;16.2
+479;Tilburg;Niet-westerse migratieachtergrond;12.7;13.0
+480;'s-Hertogenbosch;Totaal;125.5;17.5
+481;'s-Hertogenbosch;Nederlandse achtergrond;109.1;17.8
+482;'s-Hertogenbosch;Met migratieachtergrond;16.4;15.8
+483;'s-Hertogenbosch;Westerse migratieachtergrond;10.0;17.6
+484;'s-Hertogenbosch;Niet-westerse migratieachtergrond;6.4;13.0
+485;Eindhoven;Totaal;262.4;17.4
+486;Eindhoven;Nederlandse achtergrond;219.2;17.6
+487;Eindhoven;Met migratieachtergrond;43.2;16.5
+488;Eindhoven;Westerse migratieachtergrond;26.5;17.8
+489;Eindhoven;Niet-westerse migratieachtergrond;16.6;14.4
+490;Geleen/Sittard;Totaal;112.1;16.6
+491;Geleen/Sittard;Nederlandse achtergrond;91.7;16.7
+492;Geleen/Sittard;Met migratieachtergrond;20.4;15.7
+493;Geleen/Sittard;Westerse migratieachtergrond;17.6;16.1
+494;Geleen/Sittard;Niet-westerse migratieachtergrond;2.8;13.4
+495;Heerlen;Totaal;176.1;15.4
+496;Heerlen;Nederlandse achtergrond;132.9;15.6
+497;Heerlen;Met migratieachtergrond;43.1;14.6
+498;Heerlen;Westerse migratieachtergrond;38.7;14.8
+499;Heerlen;Niet-westerse migratieachtergrond;4.4;12.8
+500;Maastricht;Totaal;125.5;16.1
+501;Maastricht;Nederlandse achtergrond;105.8;16.2
+502;Maastricht;Met migratieachtergrond;19.8;15.3
+503;Maastricht;Westerse migratieachtergrond;16.1;16.0
+504;Maastricht;Niet-westerse migratieachtergrond;3.6;12.4
+505;Appingedam;Totaal;8.4;15.5
+506;Appingedam;Nederlandse achtergrond;7.6;15.6
+507;Appingedam;Met migratieachtergrond;0.8;14.5
+508;Appingedam;Westerse migratieachtergrond;0.6;14.9
+509;Appingedam;Niet-westerse migratieachtergrond;;
+510;Bedum;Totaal;7.0;15.9
+511;Bedum;Nederlandse achtergrond;6.7;15.9
+512;Bedum;Met migratieachtergrond;0.3;16.3
+513;Bedum;Westerse migratieachtergrond;0.3;16.5
+514;Bedum;Niet-westerse migratieachtergrond;;
+515;Bellingwedde;Totaal;6.4;14.8
+516;Bellingwedde;Nederlandse achtergrond;5.8;14.9
+517;Bellingwedde;Met migratieachtergrond;0.6;13.7
+518;Bellingwedde;Westerse migratieachtergrond;0.5;13.8
+519;Bellingwedde;Niet-westerse migratieachtergrond;;
+520;Ten Boer;Totaal;4.6;16.2
+521;Ten Boer;Nederlandse achtergrond;4.3;16.1
+522;Ten Boer;Met migratieachtergrond;0.3;17.7
+523;Ten Boer;Westerse migratieachtergrond;0.2;18.2
+524;Ten Boer;Niet-westerse migratieachtergrond;;
+525;Delfzijl;Totaal;18.9;15.6
+526;Delfzijl;Nederlandse achtergrond;16.6;15.8
+527;Delfzijl;Met migratieachtergrond;2.4;14.3
+528;Delfzijl;Westerse migratieachtergrond;1.4;15.0
+529;Delfzijl;Niet-westerse migratieachtergrond;0.9;13.2
+530;Groningen;Totaal;119.4;14.9
+531;Groningen;Nederlandse achtergrond;102.4;15.0
+532;Groningen;Met migratieachtergrond;17.0;14.0
+533;Groningen;Westerse migratieachtergrond;10.4;15.0
+534;Groningen;Niet-westerse migratieachtergrond;6.7;12.5
+535;Grootegast;Totaal;7.4;15.3
+536;Grootegast;Nederlandse achtergrond;7.2;15.2
+537;Grootegast;Met migratieachtergrond;;
+538;Grootegast;Westerse migratieachtergrond;;
+539;Grootegast;Niet-westerse migratieachtergrond;;
+540;Haren;Totaal;12.6;20.8
+541;Haren;Nederlandse achtergrond;11.7;20.6
+542;Haren;Met migratieachtergrond;0.9;22.7
+543;Haren;Westerse migratieachtergrond;0.8;23.0
+544;Haren;Niet-westerse migratieachtergrond;;
+545;Hoogezand-Sappemeer;Totaal;22.3;15.1
+546;Hoogezand-Sappemeer;Nederlandse achtergrond;19.4;15.2
+547;Hoogezand-Sappemeer;Met migratieachtergrond;2.9;14.2
+548;Hoogezand-Sappemeer;Westerse migratieachtergrond;1.3;15.3
+549;Hoogezand-Sappemeer;Niet-westerse migratieachtergrond;1.6;13.3
+550;Leek;Totaal;12.4;15.9
+551;Leek;Nederlandse achtergrond;11.7;15.9
+552;Leek;Met migratieachtergrond;0.7;15.8
+553;Leek;Westerse migratieachtergrond;0.5;16.7
+554;Leek;Niet-westerse migratieachtergrond;;
+555;Loppersum;Totaal;6.9;15.9
+556;Loppersum;Nederlandse achtergrond;6.6;15.9
+557;Loppersum;Met migratieachtergrond;0.3;16.5
+558;Loppersum;Westerse migratieachtergrond;0.2;17.3
+559;Loppersum;Niet-westerse migratieachtergrond;;
+560;Marum;Totaal;6.3;16.0
+561;Marum;Nederlandse achtergrond;6.0;16.0
+562;Marum;Met migratieachtergrond;0.3;15.3
+563;Marum;Westerse migratieachtergrond;0.3;15.2
+564;Marum;Niet-westerse migratieachtergrond;;
+565;Almere;Totaal;98.8;17.4
+566;Almere;Nederlandse achtergrond;74.1;17.7
+567;Almere;Met migratieachtergrond;24.6;16.5
+568;Almere;Westerse migratieachtergrond;9.6;18.0
+569;Almere;Niet-westerse migratieachtergrond;15.1;15.6
+570;Stadskanaal;Totaal;22.2;14.5
+571;Stadskanaal;Nederlandse achtergrond;20.9;14.5
+572;Stadskanaal;Met migratieachtergrond;1.2;14.8
+573;Stadskanaal;Westerse migratieachtergrond;1.0;15.4
+574;Stadskanaal;Niet-westerse migratieachtergrond;0.2;12.1
+575;Scheemda;Totaal;9.3;15.2
+576;Scheemda;Nederlandse achtergrond;8.8;15.2
+577;Scheemda;Met migratieachtergrond;0.6;15.6
+578;Scheemda;Westerse migratieachtergrond;0.5;15.5
+579;Scheemda;Niet-westerse migratieachtergrond;;
+580;Slochteren;Totaal;9.7;16.2
+581;Slochteren;Nederlandse achtergrond;9.3;16.2
+582;Slochteren;Met migratieachtergrond;0.4;17.9
+583;Slochteren;Westerse migratieachtergrond;0.3;18.4
+584;Slochteren;Niet-westerse migratieachtergrond;;
+585;Veendam;Totaal;18.8;15.2
+586;Veendam;Nederlandse achtergrond;17.1;15.3
+587;Veendam;Met migratieachtergrond;1.7;13.9
+588;Veendam;Westerse migratieachtergrond;0.9;15.6
+589;Veendam;Niet-westerse migratieachtergrond;0.8;12.1
+590;Vlagtwedde;Totaal;11.1;14.1
+591;Vlagtwedde;Nederlandse achtergrond;10.4;14.1
+592;Vlagtwedde;Met migratieachtergrond;0.7;14.0
+593;Vlagtwedde;Westerse migratieachtergrond;0.6;14.1
+594;Vlagtwedde;Niet-westerse migratieachtergrond;;
+595;Zeewolde;Totaal;11.2;18.3
+596;Zeewolde;Nederlandse achtergrond;10.1;18.3
+597;Zeewolde;Met migratieachtergrond;1.1;18.5
+598;Zeewolde;Westerse migratieachtergrond;0.8;20.0
+599;Zeewolde;Niet-westerse migratieachtergrond;0.3;13.8
+600;Skarsterlân;Totaal;17.5;16.3
+601;Skarsterlân;Nederlandse achtergrond;16.7;16.3
+602;Skarsterlân;Met migratieachtergrond;0.8;15.2
+603;Skarsterlân;Westerse migratieachtergrond;0.6;15.7
+604;Skarsterlân;Niet-westerse migratieachtergrond;;
+605;Winschoten;Totaal;12.9;14.8
+606;Winschoten;Nederlandse achtergrond;12.0;14.9
+607;Winschoten;Met migratieachtergrond;0.9;14.1
+608;Winschoten;Westerse migratieachtergrond;0.7;14.2
+609;Winschoten;Niet-westerse migratieachtergrond;;
+610;Winsum;Totaal;8.9;16.3
+611;Winsum;Nederlandse achtergrond;8.5;16.3
+612;Winsum;Met migratieachtergrond;0.4;17.4
+613;Winsum;Westerse migratieachtergrond;0.3;18.1
+614;Winsum;Niet-westerse migratieachtergrond;;
+615;Boarnsterhim;Totaal;12.2;16.0
+616;Boarnsterhim;Nederlandse achtergrond;11.7;16.1
+617;Boarnsterhim;Met migratieachtergrond;0.5;15.1
+618;Boarnsterhim;Westerse migratieachtergrond;0.4;15.5
+619;Boarnsterhim;Niet-westerse migratieachtergrond;;
+620;Zuidhorn;Totaal;10.9;17.1
+621;Zuidhorn;Nederlandse achtergrond;10.5;17.1
+622;Zuidhorn;Met migratieachtergrond;0.4;17.2
+623;Zuidhorn;Westerse migratieachtergrond;0.4;18.1
+624;Zuidhorn;Niet-westerse migratieachtergrond;;
+625;Dongeradeel;Totaal;15.8;14.7
+626;Dongeradeel;Nederlandse achtergrond;15.2;14.7
+627;Dongeradeel;Met migratieachtergrond;0.6;14.6
+628;Dongeradeel;Westerse migratieachtergrond;0.5;15.7
+629;Dongeradeel;Niet-westerse migratieachtergrond;;
+630;Achtkarspelen;Totaal;17.5;14.8
+631;Achtkarspelen;Nederlandse achtergrond;17.1;14.9
+632;Achtkarspelen;Met migratieachtergrond;0.4;12.7
+633;Achtkarspelen;Westerse migratieachtergrond;0.3;12.9
+634;Achtkarspelen;Niet-westerse migratieachtergrond;;
+635;Ameland;Totaal;2.3;15.6
+636;Ameland;Nederlandse achtergrond;2.2;15.5
+637;Ameland;Met migratieachtergrond;;
+638;Ameland;Westerse migratieachtergrond;;
+639;Ameland;Niet-westerse migratieachtergrond;;
+640;het Bildt;Totaal;6.7;15.2
+641;het Bildt;Nederlandse achtergrond;6.5;15.3
+642;het Bildt;Met migratieachtergrond;0.2;13.7
+643;het Bildt;Westerse migratieachtergrond;;
+644;het Bildt;Niet-westerse migratieachtergrond;;
+645;Bolsward;Totaal;6.1;15.4
+646;Bolsward;Nederlandse achtergrond;5.7;15.5
+647;Bolsward;Met migratieachtergrond;0.4;14.4
+648;Bolsward;Westerse migratieachtergrond;0.3;15.9
+649;Bolsward;Niet-westerse migratieachtergrond;;
+650;Dantumadeel;Totaal;12.0;14.8
+651;Dantumadeel;Nederlandse achtergrond;11.8;14.8
+652;Dantumadeel;Met migratieachtergrond;0.2;18.1
+653;Dantumadeel;Westerse migratieachtergrond;;
+654;Dantumadeel;Niet-westerse migratieachtergrond;;
+655;Franekeradeel;Totaal;13.4;15.0
+656;Franekeradeel;Nederlandse achtergrond;12.7;15.1
+657;Franekeradeel;Met migratieachtergrond;0.7;13.7
+658;Franekeradeel;Westerse migratieachtergrond;0.5;14.6
+659;Franekeradeel;Niet-westerse migratieachtergrond;;
+660;Harlingen;Totaal;10.2;15.3
+661;Harlingen;Nederlandse achtergrond;9.2;15.6
+662;Harlingen;Met migratieachtergrond;1.1;13.3
+663;Harlingen;Westerse migratieachtergrond;0.8;13.8
+664;Harlingen;Niet-westerse migratieachtergrond;0.3;11.8
+665;Heerenveen;Totaal;28.4;16.3
+666;Heerenveen;Nederlandse achtergrond;25.9;16.4
+667;Heerenveen;Met migratieachtergrond;2.5;15.3
+668;Heerenveen;Westerse migratieachtergrond;1.5;16.2
+669;Heerenveen;Niet-westerse migratieachtergrond;0.9;13.8
+670;Kollumerland c.a.;Totaal;8.2;15.1
+671;Kollumerland c.a.;Nederlandse achtergrond;7.9;15.1
+672;Kollumerland c.a.;Met migratieachtergrond;0.2;15.9
+673;Kollumerland c.a.;Westerse migratieachtergrond;;
+674;Kollumerland c.a.;Niet-westerse migratieachtergrond;;
+675;Leeuwarden;Totaal;61.3;15.1
+676;Leeuwarden;Nederlandse achtergrond;53.8;15.3
+677;Leeuwarden;Met migratieachtergrond;7.5;14.0
+678;Leeuwarden;Westerse migratieachtergrond;4.3;15.2
+679;Leeuwarden;Niet-westerse migratieachtergrond;3.2;12.3
+680;Leeuwarderadeel;Totaal;6.7;16.2
+681;Leeuwarderadeel;Nederlandse achtergrond;6.3;16.2
+682;Leeuwarderadeel;Met migratieachtergrond;0.3;16.0
+683;Leeuwarderadeel;Westerse migratieachtergrond;0.3;16.9
+684;Leeuwarderadeel;Niet-westerse migratieachtergrond;;
+685;Lemsterland;Totaal;8.3;16.3
+686;Lemsterland;Nederlandse achtergrond;7.7;16.4
+687;Lemsterland;Met migratieachtergrond;0.7;15.1
+688;Lemsterland;Westerse migratieachtergrond;0.5;15.5
+689;Lemsterland;Niet-westerse migratieachtergrond;;
+690;Menaldumadeel;Totaal;9.0;16.1
+691;Menaldumadeel;Nederlandse achtergrond;8.7;16.1
+692;Menaldumadeel;Met migratieachtergrond;0.3;16.3
+693;Menaldumadeel;Westerse migratieachtergrond;0.3;16.8
+694;Menaldumadeel;Niet-westerse migratieachtergrond;;
+695;Ooststellingwerf;Totaal;17.2;15.5
+696;Ooststellingwerf;Nederlandse achtergrond;16.2;15.6
+697;Ooststellingwerf;Met migratieachtergrond;1.0;13.8
+698;Ooststellingwerf;Westerse migratieachtergrond;0.9;14.1
+699;Ooststellingwerf;Niet-westerse migratieachtergrond;;
+700;Opsterland;Totaal;18.7;15.8
+701;Opsterland;Nederlandse achtergrond;18.0;15.8
+702;Opsterland;Met migratieachtergrond;0.7;15.6
+703;Opsterland;Westerse migratieachtergrond;0.6;15.6
+704;Opsterland;Niet-westerse migratieachtergrond;;
+705;Schiermonnikoog;Totaal;0.7;17.0
+706;Schiermonnikoog;Nederlandse achtergrond;0.7;17.1
+707;Schiermonnikoog;Met migratieachtergrond;;
+708;Schiermonnikoog;Westerse migratieachtergrond;;
+709;Schiermonnikoog;Niet-westerse migratieachtergrond;;
+710;Smallingerland;Totaal;34.7;15.6
+711;Smallingerland;Nederlandse achtergrond;32.0;15.7
+712;Smallingerland;Met migratieachtergrond;2.6;14.0
+713;Smallingerland;Westerse migratieachtergrond;1.7;14.5
+714;Smallingerland;Niet-westerse migratieachtergrond;0.9;13.0
+715;Sneek;Totaal;21.3;15.7
+716;Sneek;Nederlandse achtergrond;19.6;15.8
+717;Sneek;Met migratieachtergrond;1.7;14.3
+718;Sneek;Westerse migratieachtergrond;1.3;15.4
+719;Sneek;Niet-westerse migratieachtergrond;0.4;11.0
+720;Terschelling;Totaal;3.1;17.5
+721;Terschelling;Nederlandse achtergrond;2.9;17.7
+722;Terschelling;Met migratieachtergrond;;
+723;Terschelling;Westerse migratieachtergrond;;
+724;Terschelling;Niet-westerse migratieachtergrond;;
+725;Vlieland;Totaal;0.8;15.5
+726;Vlieland;Nederlandse achtergrond;0.8;15.3
+727;Vlieland;Met migratieachtergrond;;
+728;Vlieland;Westerse migratieachtergrond;;
+729;Vlieland;Niet-westerse migratieachtergrond;0.0;0.0
+730;Weststellingwerf;Totaal;16.9;15.6
+731;Weststellingwerf;Nederlandse achtergrond;16.1;15.6
+732;Weststellingwerf;Met migratieachtergrond;0.8;14.8
+733;Weststellingwerf;Westerse migratieachtergrond;0.6;15.9
+734;Weststellingwerf;Niet-westerse migratieachtergrond;0.3;12.7
+735;Nijefurd;Totaal;7.0;15.6
+736;Nijefurd;Nederlandse achtergrond;6.7;15.5
+737;Nijefurd;Met migratieachtergrond;0.3;16.5
+738;Nijefurd;Westerse migratieachtergrond;0.3;17.3
+739;Nijefurd;Niet-westerse migratieachtergrond;;
+740;Assen;Totaal;39.8;16.0
+741;Assen;Nederlandse achtergrond;35.1;16.1
+742;Assen;Met migratieachtergrond;4.7;15.3
+743;Assen;Westerse migratieachtergrond;3.3;16.2
+744;Assen;Niet-westerse migratieachtergrond;1.3;13.0
+745;Coevorden;Totaal;23.8;15.4
+746;Coevorden;Nederlandse achtergrond;22.4;15.5
+747;Coevorden;Met migratieachtergrond;1.4;14.1
+748;Coevorden;Westerse migratieachtergrond;1.2;14.4
+749;Coevorden;Niet-westerse migratieachtergrond;0.2;12.2
+750;Emmen;Totaal;72.4;14.8
+751;Emmen;Nederlandse achtergrond;66.3;14.9
+752;Emmen;Met migratieachtergrond;6.2;14.0
+753;Emmen;Westerse migratieachtergrond;4.9;14.3
+754;Emmen;Niet-westerse migratieachtergrond;1.3;13.0
+755;Hoogeveen;Totaal;34.7;15.4
+756;Hoogeveen;Nederlandse achtergrond;32.2;15.5
+757;Hoogeveen;Met migratieachtergrond;2.5;14.3
+758;Hoogeveen;Westerse migratieachtergrond;1.9;15.0
+759;Hoogeveen;Niet-westerse migratieachtergrond;0.6;12.3
+760;Meppel;Totaal;20.3;16.2
+761;Meppel;Nederlandse achtergrond;18.7;16.3
+762;Meppel;Met migratieachtergrond;1.6;14.7
+763;Meppel;Westerse migratieachtergrond;1.0;15.7
+764;Meppel;Niet-westerse migratieachtergrond;0.6;13.0
+765;Littenseradiel;Totaal;6.8;16.1
+766;Littenseradiel;Nederlandse achtergrond;6.5;16.1
+767;Littenseradiel;Met migratieachtergrond;0.2;16.5
+768;Littenseradiel;Westerse migratieachtergrond;0.2;16.4
+769;Littenseradiel;Niet-westerse migratieachtergrond;;
+770;Almelo;Totaal;46.8;15.3
+771;Almelo;Nederlandse achtergrond;37.5;15.7
+772;Almelo;Met migratieachtergrond;9.3;13.8
+773;Almelo;Westerse migratieachtergrond;5.1;15.1
+774;Almelo;Niet-westerse migratieachtergrond;4.3;12.3
+775;Bathmen;Totaal;3.6;17.9
+776;Bathmen;Nederlandse achtergrond;3.5;17.8
+777;Bathmen;Met migratieachtergrond;;
+778;Bathmen;Westerse migratieachtergrond;;
+779;Bathmen;Niet-westerse migratieachtergrond;;
+780;Borne;Totaal;13.6;16.8
+781;Borne;Nederlandse achtergrond;12.4;16.8
+782;Borne;Met migratieachtergrond;1.2;16.6
+783;Borne;Westerse migratieachtergrond;0.9;17.7
+784;Borne;Niet-westerse migratieachtergrond;0.3;13.0
+785;Dalfsen;Totaal;16.5;16.7
+786;Dalfsen;Nederlandse achtergrond;16.1;16.7
+787;Dalfsen;Met migratieachtergrond;0.5;19.3
+788;Dalfsen;Westerse migratieachtergrond;0.4;20.5
+789;Dalfsen;Niet-westerse migratieachtergrond;;
+790;Denekamp;Totaal;16.9;16.2
+791;Denekamp;Nederlandse achtergrond;15.6;16.3
+792;Denekamp;Met migratieachtergrond;1.3;15.7
+793;Denekamp;Westerse migratieachtergrond;1.2;16.1
+794;Denekamp;Niet-westerse migratieachtergrond;;
+795;Deventer;Totaal;57.9;15.9
+796;Deventer;Nederlandse achtergrond;48.1;16.2
+797;Deventer;Met migratieachtergrond;9.8;14.6
+798;Deventer;Westerse migratieachtergrond;5.4;16.2
+799;Deventer;Niet-westerse migratieachtergrond;4.5;12.7
+800;Enschede;Totaal;99.1;14.8
+801;Enschede;Nederlandse achtergrond;77.2;15.2
+802;Enschede;Met migratieachtergrond;21.9;13.6
+803;Enschede;Westerse migratieachtergrond;13.1;14.6
+804;Enschede;Niet-westerse migratieachtergrond;8.9;12.2
+805;Haaksbergen;Totaal;16.2;15.9
+806;Haaksbergen;Nederlandse achtergrond;14.4;16.1
+807;Haaksbergen;Met migratieachtergrond;1.8;14.9
+808;Haaksbergen;Westerse migratieachtergrond;1.3;15.8
+809;Haaksbergen;Niet-westerse migratieachtergrond;0.5;12.2
+810;Hardenberg;Totaal;36.1;15.5
+811;Hardenberg;Nederlandse achtergrond;34.4;15.5
+812;Hardenberg;Met migratieachtergrond;1.7;15.1
+813;Hardenberg;Westerse migratieachtergrond;1.4;15.5
+814;Hardenberg;Niet-westerse migratieachtergrond;0.3;13.1
+815;Hellendoorn;Totaal;23.5;15.8
+816;Hellendoorn;Nederlandse achtergrond;22.2;15.9
+817;Hellendoorn;Met migratieachtergrond;1.3;15.1
+818;Hellendoorn;Westerse migratieachtergrond;1.0;15.4
+819;Hellendoorn;Niet-westerse migratieachtergrond;0.2;13.6
+820;Hengelo;Totaal;54.4;16.1
+821;Hengelo;Nederlandse achtergrond;44.8;16.5
+822;Hengelo;Met migratieachtergrond;9.5;14.3
+823;Hengelo;Westerse migratieachtergrond;5.7;15.3
+824;Hengelo;Niet-westerse migratieachtergrond;3.8;12.8
+825;Kampen;Totaal;30.3;15.9
+826;Kampen;Nederlandse achtergrond;28.4;16.0
+827;Kampen;Met migratieachtergrond;1.9;14.6
+828;Kampen;Westerse migratieachtergrond;1.0;16.1
+829;Kampen;Niet-westerse migratieachtergrond;0.9;12.8
+830;Losser;Totaal;15.1;15.1
+831;Losser;Nederlandse achtergrond;12.8;15.2
+832;Losser;Met migratieachtergrond;2.3;14.8
+833;Losser;Westerse migratieachtergrond;2.1;14.9
+834;Losser;Niet-westerse migratieachtergrond;;
+835;Noordoostpolder;Totaal;27.9;15.8
+836;Noordoostpolder;Nederlandse achtergrond;25.9;15.9
+837;Noordoostpolder;Met migratieachtergrond;2.0;14.8
+838;Noordoostpolder;Westerse migratieachtergrond;1.3;16.6
+839;Noordoostpolder;Niet-westerse migratieachtergrond;0.8;12.0
+840;Oldenzaal;Totaal;21.1;16.2
+841;Oldenzaal;Nederlandse achtergrond;18.4;16.4
+842;Oldenzaal;Met migratieachtergrond;2.7;14.6
+843;Oldenzaal;Westerse migratieachtergrond;1.9;15.7
+844;Oldenzaal;Niet-westerse migratieachtergrond;0.8;12.0
+845;Olst;Totaal;11.3;16.0
+846;Olst;Nederlandse achtergrond;10.8;16.0
+847;Olst;Met migratieachtergrond;0.6;17.7
+848;Olst;Westerse migratieachtergrond;0.4;19.3
+849;Olst;Niet-westerse migratieachtergrond;;
+850;Ommen;Totaal;10.8;16.5
+851;Ommen;Nederlandse achtergrond;10.5;16.3
+852;Ommen;Met migratieachtergrond;0.4;21.4
+853;Ommen;Westerse migratieachtergrond;0.3;23.0
+854;Ommen;Niet-westerse migratieachtergrond;;
+855;Raalte;Totaal;23.9;16.1
+856;Raalte;Nederlandse achtergrond;23.0;16.1
+857;Raalte;Met migratieachtergrond;0.9;14.8
+858;Raalte;Westerse migratieachtergrond;0.6;16.1
+859;Raalte;Niet-westerse migratieachtergrond;0.3;11.8
+860;Rijssen;Totaal;21.6;16.3
+861;Rijssen;Nederlandse achtergrond;20.4;16.4
+862;Rijssen;Met migratieachtergrond;1.3;14.1
+863;Rijssen;Westerse migratieachtergrond;0.7;15.3
+864;Rijssen;Niet-westerse migratieachtergrond;0.6;12.5
+865;Staphorst;Totaal;8.6;16.4
+866;Staphorst;Nederlandse achtergrond;8.5;16.4
+867;Staphorst;Met migratieachtergrond;;
+868;Staphorst;Westerse migratieachtergrond;;
+869;Staphorst;Niet-westerse migratieachtergrond;;
+870;Steenwijk;Totaal;26.9;16.2
+871;Steenwijk;Nederlandse achtergrond;25.6;16.3
+872;Steenwijk;Met migratieachtergrond;1.4;15.2
+873;Steenwijk;Westerse migratieachtergrond;1.0;16.1
+874;Steenwijk;Niet-westerse migratieachtergrond;0.4;13.1
+875;Tubbergen;Totaal;12.9;16.0
+876;Tubbergen;Nederlandse achtergrond;12.3;16.0
+877;Tubbergen;Met migratieachtergrond;0.6;16.1
+878;Tubbergen;Westerse migratieachtergrond;0.6;16.1
+879;Tubbergen;Niet-westerse migratieachtergrond;;
+880;Urk;Totaal;8.2;15.7
+881;Urk;Nederlandse achtergrond;8.1;15.7
+882;Urk;Met migratieachtergrond;;
+883;Urk;Westerse migratieachtergrond;;
+884;Urk;Niet-westerse migratieachtergrond;;
+885;Vriezenveen;Totaal;20.6;15.3
+886;Vriezenveen;Nederlandse achtergrond;19.8;15.3
+887;Vriezenveen;Met migratieachtergrond;0.8;15.2
+888;Vriezenveen;Westerse migratieachtergrond;0.6;16.2
+889;Vriezenveen;Niet-westerse migratieachtergrond;;
+890;Wierden;Totaal;14.8;16.6
+891;Wierden;Nederlandse achtergrond;13.9;16.7
+892;Wierden;Met migratieachtergrond;0.9;16.3
+893;Wierden;Westerse migratieachtergrond;0.8;17.0
+894;Wierden;Niet-westerse migratieachtergrond;;
+895;Zwolle;Totaal;73.8;16.9
+896;Zwolle;Nederlandse achtergrond;64.7;17.1
+897;Zwolle;Met migratieachtergrond;9.1;15.2
+898;Zwolle;Westerse migratieachtergrond;5.0;16.7
+899;Zwolle;Niet-westerse migratieachtergrond;4.1;13.4
+900;Rijnwaarden;Totaal;7.3;15.3
+901;Rijnwaarden;Nederlandse achtergrond;6.5;15.3
+902;Rijnwaarden;Met migratieachtergrond;0.8;14.9
+903;Rijnwaarden;Westerse migratieachtergrond;0.7;15.0
+904;Rijnwaarden;Niet-westerse migratieachtergrond;;
+905;Aalten;Totaal;12.4;15.5
+906;Aalten;Nederlandse achtergrond;11.3;15.6
+907;Aalten;Met migratieachtergrond;1.0;14.9
+908;Aalten;Westerse migratieachtergrond;0.8;15.7
+909;Aalten;Niet-westerse migratieachtergrond;0.3;12.5
+910;Angerlo;Totaal;3.2;17.0
+911;Angerlo;Nederlandse achtergrond;3.0;16.8
+912;Angerlo;Met migratieachtergrond;0.2;20.0
+913;Angerlo;Westerse migratieachtergrond;;
+914;Angerlo;Niet-westerse migratieachtergrond;;
+915;Apeldoorn;Totaal;105.3;17.0
+916;Apeldoorn;Nederlandse achtergrond;92.1;17.2
+917;Apeldoorn;Met migratieachtergrond;13.2;15.9
+918;Apeldoorn;Westerse migratieachtergrond;8.7;17.0
+919;Apeldoorn;Niet-westerse migratieachtergrond;4.5;13.6
+920;Arnhem;Totaal;96.5;16.0
+921;Arnhem;Nederlandse achtergrond;74.2;16.6
+922;Arnhem;Met migratieachtergrond;22.3;14.2
+923;Arnhem;Westerse migratieachtergrond;11.5;15.9
+924;Arnhem;Niet-westerse migratieachtergrond;10.8;12.4
+925;Barneveld;Totaal;29.0;17.5
+926;Barneveld;Nederlandse achtergrond;27.1;17.7
+927;Barneveld;Met migratieachtergrond;1.9;15.4
+928;Barneveld;Westerse migratieachtergrond;1.3;16.8
+929;Barneveld;Niet-westerse migratieachtergrond;0.6;12.7
+930;Bemmel;Totaal;28.0;16.5
+931;Bemmel;Nederlandse achtergrond;25.6;16.6
+932;Bemmel;Met migratieachtergrond;2.4;16.2
+933;Bemmel;Westerse migratieachtergrond;2.1;16.5
+934;Bemmel;Niet-westerse migratieachtergrond;0.3;13.5
+935;Bergh;Totaal;12.1;15.7
+936;Bergh;Nederlandse achtergrond;10.5;15.8
+937;Bergh;Met migratieachtergrond;1.5;14.8
+938;Bergh;Westerse migratieachtergrond;1.4;15.0
+939;Bergh;Niet-westerse migratieachtergrond;;
+940;Beuningen;Totaal;16.5;17.3
+941;Beuningen;Nederlandse achtergrond;14.8;17.4
+942;Beuningen;Met migratieachtergrond;1.7;16.0
+943;Beuningen;Westerse migratieachtergrond;1.3;16.4
+944;Beuningen;Niet-westerse migratieachtergrond;0.4;14.8
+945;Borculo;Totaal;7.0;15.7
+946;Borculo;Nederlandse achtergrond;6.6;15.8
+947;Borculo;Met migratieachtergrond;0.4;14.1
+948;Borculo;Westerse migratieachtergrond;0.3;14.3
+949;Borculo;Niet-westerse migratieachtergrond;;
+950;Brummen;Totaal;14.4;17.1
+951;Brummen;Nederlandse achtergrond;13.1;17.2
+952;Brummen;Met migratieachtergrond;1.3;16.1
+953;Brummen;Westerse migratieachtergrond;0.8;17.5
+954;Brummen;Niet-westerse migratieachtergrond;0.5;13.7
+955;Buren;Totaal;16.4;18.0
+956;Buren;Nederlandse achtergrond;15.5;17.9
+957;Buren;Met migratieachtergrond;0.9;19.1
+958;Buren;Westerse migratieachtergrond;0.7;19.1
+959;Buren;Niet-westerse migratieachtergrond;;
+960;Culemborg;Totaal;16.8;17.8
+961;Culemborg;Nederlandse achtergrond;14.1;18.3
+962;Culemborg;Met migratieachtergrond;2.7;15.6
+963;Culemborg;Westerse migratieachtergrond;1.4;17.8
+964;Culemborg;Niet-westerse migratieachtergrond;1.3;13.3
+965;Didam;Totaal;11.0;16.1
+966;Didam;Nederlandse achtergrond;10.2;16.1
+967;Didam;Met migratieachtergrond;0.9;15.9
+968;Didam;Westerse migratieachtergrond;0.7;16.0
+969;Didam;Niet-westerse migratieachtergrond;;
+970;Dinxperlo;Totaal;5.5;15.5
+971;Dinxperlo;Nederlandse achtergrond;4.7;15.7
+972;Dinxperlo;Met migratieachtergrond;0.7;14.1
+973;Dinxperlo;Westerse migratieachtergrond;0.7;14.2
+974;Dinxperlo;Niet-westerse migratieachtergrond;;
+975;Doesburg;Totaal;7.6;15.9
+976;Doesburg;Nederlandse achtergrond;6.2;16.1
+977;Doesburg;Met migratieachtergrond;1.3;14.9
+978;Doesburg;Westerse migratieachtergrond;0.8;15.6
+979;Doesburg;Niet-westerse migratieachtergrond;0.5;13.8
+980;Doetinchem;Totaal;32.4;16.2
+981;Doetinchem;Nederlandse achtergrond;28.5;16.3
+982;Doetinchem;Met migratieachtergrond;3.9;14.9
+983;Doetinchem;Westerse migratieachtergrond;2.7;15.9
+984;Doetinchem;Niet-westerse migratieachtergrond;1.2;12.8
+985;Druten;Totaal;11.4;16.3
+986;Druten;Nederlandse achtergrond;10.4;16.3
+987;Druten;Met migratieachtergrond;1.0;15.7
+988;Druten;Westerse migratieachtergrond;0.7;17.3
+989;Druten;Niet-westerse migratieachtergrond;0.4;12.7
+990;Duiven;Totaal;16.7;16.7
+991;Duiven;Nederlandse achtergrond;14.9;16.7
+992;Duiven;Met migratieachtergrond;1.9;16.5
+993;Duiven;Westerse migratieachtergrond;1.6;16.9
+994;Duiven;Niet-westerse migratieachtergrond;0.3;14.9
+995;Ede;Totaal;66.3;17.2
+996;Ede;Nederlandse achtergrond;58.1;17.4
+997;Ede;Met migratieachtergrond;8.1;15.6
+998;Ede;Westerse migratieachtergrond;5.1;17.0
+999;Ede;Niet-westerse migratieachtergrond;3.0;13.2
+1000;Eibergen;Totaal;11.1;15.4
+1001;Eibergen;Nederlandse achtergrond;10.3;15.5
+1002;Eibergen;Met migratieachtergrond;0.8;15.1
+1003;Eibergen;Westerse migratieachtergrond;0.7;15.3
+1004;Eibergen;Niet-westerse migratieachtergrond;;
+1005;Elburg;Totaal;13.3;16.7
+1006;Elburg;Nederlandse achtergrond;12.6;16.7
+1007;Elburg;Met migratieachtergrond;0.7;16.6
+1008;Elburg;Westerse migratieachtergrond;0.5;17.0
+1009;Elburg;Niet-westerse migratieachtergrond;;
+1010;Epe;Totaal;22.4;16.6
+1011;Epe;Nederlandse achtergrond;20.0;16.7
+1012;Epe;Met migratieachtergrond;2.4;15.8
+1013;Epe;Westerse migratieachtergrond;1.7;16.4
+1014;Epe;Niet-westerse migratieachtergrond;0.7;14.3
+1015;Ermelo;Totaal;17.7;17.2
+1016;Ermelo;Nederlandse achtergrond;16.4;17.2
+1017;Ermelo;Met migratieachtergrond;1.3;17.3
+1018;Ermelo;Westerse migratieachtergrond;0.9;18.2
+1019;Ermelo;Niet-westerse migratieachtergrond;0.4;15.1
+1020;Geldermalsen;Totaal;16.0;18.2
+1021;Geldermalsen;Nederlandse achtergrond;15.0;18.2
+1022;Geldermalsen;Met migratieachtergrond;1.0;18.2
+1023;Geldermalsen;Westerse migratieachtergrond;0.7;19.8
+1024;Geldermalsen;Niet-westerse migratieachtergrond;0.3;14.3
+1025;Gendringen;Totaal;13.5;15.3
+1026;Gendringen;Nederlandse achtergrond;11.7;15.4
+1027;Gendringen;Met migratieachtergrond;1.8;15.0
+1028;Gendringen;Westerse migratieachtergrond;1.3;15.6
+1029;Gendringen;Niet-westerse migratieachtergrond;0.5;13.5
+1030;Gorssel;Totaal;9.1;19.0
+1031;Gorssel;Nederlandse achtergrond;8.6;19.0
+1032;Gorssel;Met migratieachtergrond;0.5;19.8
+1033;Gorssel;Westerse migratieachtergrond;0.5;20.2
+1034;Gorssel;Niet-westerse migratieachtergrond;;
+1035;Groenlo;Totaal;6.6;15.6
+1036;Groenlo;Nederlandse achtergrond;5.9;15.9
+1037;Groenlo;Met migratieachtergrond;0.7;13.5
+1038;Groenlo;Westerse migratieachtergrond;0.5;13.7
+1039;Groenlo;Niet-westerse migratieachtergrond;;
+1040;Groesbeek;Totaal;13.0;16.1
+1041;Groesbeek;Nederlandse achtergrond;11.5;16.2
+1042;Groesbeek;Met migratieachtergrond;1.6;15.8
+1043;Groesbeek;Westerse migratieachtergrond;1.4;16.3
+1044;Groesbeek;Niet-westerse migratieachtergrond;;
+1045;Harderwijk;Totaal;25.9;17.1
+1046;Harderwijk;Nederlandse achtergrond;22.7;17.4
+1047;Harderwijk;Met migratieachtergrond;3.3;15.0
+1048;Harderwijk;Westerse migratieachtergrond;1.5;17.4
+1049;Harderwijk;Niet-westerse migratieachtergrond;1.7;13.0
+1050;Hattem;Totaal;7.5;17.8
+1051;Hattem;Nederlandse achtergrond;7.2;17.5
+1052;Hattem;Met migratieachtergrond;0.4;24.2
+1053;Hattem;Westerse migratieachtergrond;0.3;26.1
+1054;Hattem;Niet-westerse migratieachtergrond;;
+1055;Heerde;Totaal;11.8;16.9
+1056;Heerde;Nederlandse achtergrond;11.4;16.9
+1057;Heerde;Met migratieachtergrond;0.4;15.7
+1058;Heerde;Westerse migratieachtergrond;0.3;15.0
+1059;Heerde;Niet-westerse migratieachtergrond;;
+1060;Hengelo;Totaal;5.7;16.2
+1061;Hengelo;Nederlandse achtergrond;5.6;16.2
+1062;Hengelo;Met migratieachtergrond;;
+1063;Hengelo;Westerse migratieachtergrond;;
+1064;Hengelo;Niet-westerse migratieachtergrond;;
+1065;Heumen;Totaal;10.6;18.7
+1066;Heumen;Nederlandse achtergrond;9.5;18.6
+1067;Heumen;Met migratieachtergrond;1.1;19.7
+1068;Heumen;Westerse migratieachtergrond;1.0;19.9
+1069;Heumen;Niet-westerse migratieachtergrond;;
+1070;Hummelo en Keppel;Totaal;3.1;18.2
+1071;Hummelo en Keppel;Nederlandse achtergrond;2.9;18.1
+1072;Hummelo en Keppel;Met migratieachtergrond;;
+1073;Hummelo en Keppel;Westerse migratieachtergrond;;
+1074;Hummelo en Keppel;Niet-westerse migratieachtergrond;;
+1075;Kesteren;Totaal;13.1;16.8
+1076;Kesteren;Nederlandse achtergrond;12.3;16.9
+1077;Kesteren;Met migratieachtergrond;0.7;16.0
+1078;Kesteren;Westerse migratieachtergrond;0.6;16.6
+1079;Kesteren;Niet-westerse migratieachtergrond;;
+1080;Lichtenvoorde;Totaal;12.4;16.0
+1081;Lichtenvoorde;Nederlandse achtergrond;11.7;16.0
+1082;Lichtenvoorde;Met migratieachtergrond;0.7;15.3
+1083;Lichtenvoorde;Westerse migratieachtergrond;0.6;15.7
+1084;Lichtenvoorde;Niet-westerse migratieachtergrond;;
+1085;Lochem;Totaal;13.4;17.2
+1086;Lochem;Nederlandse achtergrond;12.3;17.4
+1087;Lochem;Met migratieachtergrond;1.1;15.4
+1088;Lochem;Westerse migratieachtergrond;0.7;16.9
+1089;Lochem;Niet-westerse migratieachtergrond;0.5;13.3
+1090;Maasdriel;Totaal;15.5;16.8
+1091;Maasdriel;Nederlandse achtergrond;14.6;16.8
+1092;Maasdriel;Met migratieachtergrond;0.9;16.5
+1093;Maasdriel;Westerse migratieachtergrond;0.7;17.0
+1094;Maasdriel;Niet-westerse migratieachtergrond;;
+1095;Millingen aan de Rijn;Totaal;3.9;15.7
+1096;Millingen aan de Rijn;Nederlandse achtergrond;3.4;15.9
+1097;Millingen aan de Rijn;Met migratieachtergrond;0.6;14.6
+1098;Millingen aan de Rijn;Westerse migratieachtergrond;0.5;14.8
+1099;Millingen aan de Rijn;Niet-westerse migratieachtergrond;;
+1100;Neede;Totaal;7.5;15.4
+1101;Neede;Nederlandse achtergrond;7.0;15.3
+1102;Neede;Met migratieachtergrond;0.5;16.3
+1103;Neede;Westerse migratieachtergrond;0.4;16.3
+1104;Neede;Niet-westerse migratieachtergrond;;
+1105;Nijkerk;Totaal;24.0;17.9
+1106;Nijkerk;Nederlandse achtergrond;22.3;18.1
+1107;Nijkerk;Met migratieachtergrond;1.7;15.5
+1108;Nijkerk;Westerse migratieachtergrond;0.9;17.2
+1109;Nijkerk;Niet-westerse migratieachtergrond;0.8;13.5
+1110;Nijmegen;Totaal;105.7;15.8
+1111;Nijmegen;Nederlandse achtergrond;85.6;16.1
+1112;Nijmegen;Met migratieachtergrond;20.1;14.6
+1113;Nijmegen;Westerse migratieachtergrond;12.2;15.9
+1114;Nijmegen;Niet-westerse migratieachtergrond;8.0;12.6
+1115;Oldebroek;Totaal;14.0;16.4
+1116;Oldebroek;Nederlandse achtergrond;13.4;16.3
+1117;Oldebroek;Met migratieachtergrond;0.5;18.7
+1118;Oldebroek;Westerse migratieachtergrond;0.4;19.6
+1119;Oldebroek;Niet-westerse migratieachtergrond;;
+1120;Putten;Totaal;14.6;18.1
+1121;Putten;Nederlandse achtergrond;13.8;18.2
+1122;Putten;Met migratieachtergrond;0.8;17.3
+1123;Putten;Westerse migratieachtergrond;0.5;19.6
+1124;Putten;Niet-westerse migratieachtergrond;0.2;11.9
+1125;Renkum;Totaal;22.4;19.0
+1126;Renkum;Nederlandse achtergrond;19.8;19.0
+1127;Renkum;Met migratieachtergrond;2.5;18.6
+1128;Renkum;Westerse migratieachtergrond;2.1;19.3
+1129;Renkum;Niet-westerse migratieachtergrond;0.5;15.9
+1130;Rheden;Totaal;31.5;17.2
+1131;Rheden;Nederlandse achtergrond;27.9;17.2
+1132;Rheden;Met migratieachtergrond;3.6;17.3
+1133;Rheden;Westerse migratieachtergrond;2.8;18.1
+1134;Rheden;Niet-westerse migratieachtergrond;0.7;14.0
+1135;Rozendaal;Totaal;1.0;25.1
+1136;Rozendaal;Nederlandse achtergrond;0.9;25.6
+1137;Rozendaal;Met migratieachtergrond;;
+1138;Rozendaal;Westerse migratieachtergrond;;
+1139;Rozendaal;Niet-westerse migratieachtergrond;;
+1140;Ruurlo;Totaal;5.7;16.2
+1141;Ruurlo;Nederlandse achtergrond;5.4;16.2
+1142;Ruurlo;Met migratieachtergrond;0.2;16.2
+1143;Ruurlo;Westerse migratieachtergrond;0.2;17.2
+1144;Ruurlo;Niet-westerse migratieachtergrond;;
+1145;Scherpenzeel;Totaal;5.7;17.4
+1146;Scherpenzeel;Nederlandse achtergrond;5.4;17.4
+1147;Scherpenzeel;Met migratieachtergrond;0.3;16.3
+1148;Scherpenzeel;Westerse migratieachtergrond;0.2;16.7
+1149;Scherpenzeel;Niet-westerse migratieachtergrond;;
+1150;Steenderen;Totaal;3.3;16.6
+1151;Steenderen;Nederlandse achtergrond;3.2;16.6
+1152;Steenderen;Met migratieachtergrond;;
+1153;Steenderen;Westerse migratieachtergrond;;
+1154;Steenderen;Niet-westerse migratieachtergrond;;
+1155;Tiel;Totaal;26.0;16.5
+1156;Tiel;Nederlandse achtergrond;21.5;16.9
+1157;Tiel;Met migratieachtergrond;4.5;14.8
+1158;Tiel;Westerse migratieachtergrond;2.3;16.2
+1159;Tiel;Niet-westerse migratieachtergrond;2.2;13.3
+1160;Ubbergen;Totaal;6.5;17.0
+1161;Ubbergen;Nederlandse achtergrond;5.7;17.0
+1162;Ubbergen;Met migratieachtergrond;0.8;16.8
+1163;Ubbergen;Westerse migratieachtergrond;0.7;16.8
+1164;Ubbergen;Niet-westerse migratieachtergrond;;
+1165;Voorst;Totaal;15.7;16.7
+1166;Voorst;Nederlandse achtergrond;14.6;16.7
+1167;Voorst;Met migratieachtergrond;1.1;16.0
+1168;Voorst;Westerse migratieachtergrond;0.9;16.0
+1169;Voorst;Niet-westerse migratieachtergrond;;
+1170;Vorden;Totaal;5.9;16.4
+1171;Vorden;Nederlandse achtergrond;5.6;16.3
+1172;Vorden;Met migratieachtergrond;0.3;18.3
+1173;Vorden;Westerse migratieachtergrond;0.2;18.5
+1174;Vorden;Niet-westerse migratieachtergrond;;
+1175;Wageningen;Totaal;21.8;16.8
+1176;Wageningen;Nederlandse achtergrond;18.9;16.8
+1177;Wageningen;Met migratieachtergrond;2.9;16.6
+1178;Wageningen;Westerse migratieachtergrond;2.1;17.9
+1179;Wageningen;Niet-westerse migratieachtergrond;0.8;13.5
+1180;Warnsveld;Totaal;6.0;17.4
+1181;Warnsveld;Nederlandse achtergrond;5.5;17.5
+1182;Warnsveld;Met migratieachtergrond;0.5;16.1
+1183;Warnsveld;Westerse migratieachtergrond;0.4;15.9
+1184;Warnsveld;Niet-westerse migratieachtergrond;;
+1185;Wehl;Totaal;4.5;15.4
+1186;Wehl;Nederlandse achtergrond;4.2;15.5
+1187;Wehl;Met migratieachtergrond;0.3;15.2
+1188;Wehl;Westerse migratieachtergrond;0.2;16.0
+1189;Wehl;Niet-westerse migratieachtergrond;;
+1190;Westervoort;Totaal;10.3;16.2
+1191;Westervoort;Nederlandse achtergrond;8.9;16.3
+1192;Westervoort;Met migratieachtergrond;1.5;15.6
+1193;Westervoort;Westerse migratieachtergrond;1.1;16.4
+1194;Westervoort;Niet-westerse migratieachtergrond;0.4;13.2
+1195;Winterswijk;Totaal;19.5;15.1
+1196;Winterswijk;Nederlandse achtergrond;17.3;15.3
+1197;Winterswijk;Met migratieachtergrond;2.1;14.0
+1198;Winterswijk;Westerse migratieachtergrond;1.7;14.5
+1199;Winterswijk;Niet-westerse migratieachtergrond;0.5;12.2
+1200;Wisch;Totaal;13.1;15.9
+1201;Wisch;Nederlandse achtergrond;11.9;16.0
+1202;Wisch;Met migratieachtergrond;1.3;14.4
+1203;Wisch;Westerse migratieachtergrond;0.8;14.8
+1204;Wisch;Niet-westerse migratieachtergrond;0.4;13.7
+1205;Wijchen;Totaal;25.4;17.1
+1206;Wijchen;Nederlandse achtergrond;23.0;17.2
+1207;Wijchen;Met migratieachtergrond;2.4;16.4
+1208;Wijchen;Westerse migratieachtergrond;1.8;16.9
+1209;Wijchen;Niet-westerse migratieachtergrond;0.6;14.8
+1210;Zaltbommel;Totaal;16.2;17.1
+1211;Zaltbommel;Nederlandse achtergrond;15.0;17.2
+1212;Zaltbommel;Met migratieachtergrond;1.2;16.0
+1213;Zaltbommel;Westerse migratieachtergrond;0.7;18.5
+1214;Zaltbommel;Niet-westerse migratieachtergrond;0.5;12.5
+1215;Zelhem;Totaal;7.3;16.2
+1216;Zelhem;Nederlandse achtergrond;7.0;16.1
+1217;Zelhem;Met migratieachtergrond;0.4;17.6
+1218;Zelhem;Westerse migratieachtergrond;0.3;19.2
+1219;Zelhem;Niet-westerse migratieachtergrond;;
+1220;Zevenaar;Totaal;17.7;16.4
+1221;Zevenaar;Nederlandse achtergrond;15.0;16.5
+1222;Zevenaar;Met migratieachtergrond;2.7;15.6
+1223;Zevenaar;Westerse migratieachtergrond;2.2;16.1
+1224;Zevenaar;Niet-westerse migratieachtergrond;0.5;13.3
+1225;Zutphen;Totaal;24.3;15.7
+1226;Zutphen;Nederlandse achtergrond;20.9;15.9
+1227;Zutphen;Met migratieachtergrond;3.4;14.6
+1228;Zutphen;Westerse migratieachtergrond;2.1;15.6
+1229;Zutphen;Niet-westerse migratieachtergrond;1.3;12.8
+1230;Nunspeet;Totaal;16.3;17.0
+1231;Nunspeet;Nederlandse achtergrond;15.4;16.9
+1232;Nunspeet;Met migratieachtergrond;0.9;18.6
+1233;Nunspeet;Westerse migratieachtergrond;0.6;19.9
+1234;Nunspeet;Niet-westerse migratieachtergrond;0.3;15.5
+1235;Dronten;Totaal;22.1;16.8
+1236;Dronten;Nederlandse achtergrond;20.1;16.9
+1237;Dronten;Met migratieachtergrond;2.0;15.8
+1238;Dronten;Westerse migratieachtergrond;1.2;17.2
+1239;Dronten;Niet-westerse migratieachtergrond;0.8;13.7
+1240;Neerijnen;Totaal;7.3;17.4
+1241;Neerijnen;Nederlandse achtergrond;7.0;17.4
+1242;Neerijnen;Met migratieachtergrond;0.4;17.7
+1243;Neerijnen;Westerse migratieachtergrond;0.3;18.8
+1244;Neerijnen;Niet-westerse migratieachtergrond;;
+1245;Abcoude;Totaal;5.5;23.8
+1246;Abcoude;Nederlandse achtergrond;4.8;23.3
+1247;Abcoude;Met migratieachtergrond;0.7;27.7
+1248;Abcoude;Westerse migratieachtergrond;0.5;29.3
+1249;Abcoude;Niet-westerse migratieachtergrond;;
+1250;Amerongen;Totaal;4.7;18.4
+1251;Amerongen;Nederlandse achtergrond;4.3;18.2
+1252;Amerongen;Met migratieachtergrond;0.4;20.2
+1253;Amerongen;Westerse migratieachtergrond;0.3;21.6
+1254;Amerongen;Niet-westerse migratieachtergrond;;
+1255;Amersfoort;Totaal;86.4;18.1
+1256;Amersfoort;Nederlandse achtergrond;70.8;18.4
+1257;Amersfoort;Met migratieachtergrond;15.6;16.5
+1258;Amersfoort;Westerse migratieachtergrond;7.8;18.9
+1259;Amersfoort;Niet-westerse migratieachtergrond;7.7;14.0
+1260;Baarn;Totaal;16.9;18.9
+1261;Baarn;Nederlandse achtergrond;14.7;18.9
+1262;Baarn;Met migratieachtergrond;2.2;19.1
+1263;Baarn;Westerse migratieachtergrond;1.6;21.3
+1264;Baarn;Niet-westerse migratieachtergrond;0.7;13.7
+1265;De Bilt;Totaal;28.5;21.0
+1266;De Bilt;Nederlandse achtergrond;24.9;21.0
+1267;De Bilt;Met migratieachtergrond;3.6;21.7
+1268;De Bilt;Westerse migratieachtergrond;2.6;24.1
+1269;De Bilt;Niet-westerse migratieachtergrond;1.0;15.3
+1270;Breukelen;Totaal;9.2;19.9
+1271;Breukelen;Nederlandse achtergrond;8.2;20.1
+1272;Breukelen;Met migratieachtergrond;1.0;18.9
+1273;Breukelen;Westerse migratieachtergrond;0.7;19.6
+1274;Breukelen;Niet-westerse migratieachtergrond;0.2;16.7
+1275;Bunnik;Totaal;9.2;19.9
+1276;Bunnik;Nederlandse achtergrond;8.5;19.8
+1277;Bunnik;Met migratieachtergrond;0.8;20.7
+1278;Bunnik;Westerse migratieachtergrond;0.6;21.7
+1279;Bunnik;Niet-westerse migratieachtergrond;;
+1280;Bunschoten;Totaal;12.0;16.9
+1281;Bunschoten;Nederlandse achtergrond;11.3;17.0
+1282;Bunschoten;Met migratieachtergrond;0.6;15.1
+1283;Bunschoten;Westerse migratieachtergrond;0.3;17.0
+1284;Bunschoten;Niet-westerse migratieachtergrond;0.3;13.3
+1285;Doorn;Totaal;7.1;20.9
+1286;Doorn;Nederlandse achtergrond;6.2;21.3
+1287;Doorn;Met migratieachtergrond;0.9;18.8
+1288;Doorn;Westerse migratieachtergrond;0.7;19.2
+1289;Doorn;Niet-westerse migratieachtergrond;;
+1290;Driebergen-Rijsenburg;Totaal;12.4;20.5
+1291;Driebergen-Rijsenburg;Nederlandse achtergrond;10.8;20.8
+1292;Driebergen-Rijsenburg;Met migratieachtergrond;1.5;18.3
+1293;Driebergen-Rijsenburg;Westerse migratieachtergrond;1.0;20.8
+1294;Driebergen-Rijsenburg;Niet-westerse migratieachtergrond;0.5;13.9
+1295;Eemnes;Totaal;5.4;19.4
+1296;Eemnes;Nederlandse achtergrond;4.9;19.5
+1297;Eemnes;Met migratieachtergrond;0.5;18.4
+1298;Eemnes;Westerse migratieachtergrond;0.5;19.1
+1299;Eemnes;Niet-westerse migratieachtergrond;;
+1300;Houten;Totaal;23.8;18.8
+1301;Houten;Nederlandse achtergrond;21.4;18.9
+1302;Houten;Met migratieachtergrond;2.5;18.4
+1303;Houten;Westerse migratieachtergrond;1.5;19.7
+1304;Houten;Niet-westerse migratieachtergrond;0.9;16.2
+1305;Leersum;Totaal;4.9;19.5
+1306;Leersum;Nederlandse achtergrond;4.4;19.6
+1307;Leersum;Met migratieachtergrond;0.5;19.1
+1308;Leersum;Westerse migratieachtergrond;0.4;19.8
+1309;Leersum;Niet-westerse migratieachtergrond;;
+1310;Leusden;Totaal;19.1;19.8
+1311;Leusden;Nederlandse achtergrond;16.9;19.8
+1312;Leusden;Met migratieachtergrond;2.1;19.8
+1313;Leusden;Westerse migratieachtergrond;1.7;20.4
+1314;Leusden;Niet-westerse migratieachtergrond;0.5;17.8
+1315;Loenen;Totaal;5.5;21.6
+1316;Loenen;Nederlandse achtergrond;5.0;21.3
+1317;Loenen;Met migratieachtergrond;0.5;24.3
+1318;Loenen;Westerse migratieachtergrond;0.4;25.6
+1319;Loenen;Niet-westerse migratieachtergrond;;
+1320;Lopik;Totaal;8.6;17.8
+1321;Lopik;Nederlandse achtergrond;8.2;17.9
+1322;Lopik;Met migratieachtergrond;0.3;16.4
+1323;Lopik;Westerse migratieachtergrond;;
+1324;Lopik;Niet-westerse migratieachtergrond;;
+1325;Maarn;Totaal;3.9;22.3
+1326;Maarn;Nederlandse achtergrond;3.5;22.4
+1327;Maarn;Met migratieachtergrond;0.4;22.0
+1328;Maarn;Westerse migratieachtergrond;0.3;23.4
+1329;Maarn;Niet-westerse migratieachtergrond;;
+1330;Maarssen;Totaal;27.0;18.9
+1331;Maarssen;Nederlandse achtergrond;22.8;19.1
+1332;Maarssen;Met migratieachtergrond;4.2;17.7
+1333;Maarssen;Westerse migratieachtergrond;2.5;19.1
+1334;Maarssen;Niet-westerse migratieachtergrond;1.7;15.6
+1335;Montfoort;Totaal;8.5;18.7
+1336;Montfoort;Nederlandse achtergrond;7.9;18.5
+1337;Montfoort;Met migratieachtergrond;0.6;21.9
+1338;Montfoort;Westerse migratieachtergrond;0.5;23.3
+1339;Montfoort;Niet-westerse migratieachtergrond;;
+1340;Renswoude;Totaal;2.5;17.1
+1341;Renswoude;Nederlandse achtergrond;2.4;17.1
+1342;Renswoude;Met migratieachtergrond;;
+1343;Renswoude;Westerse migratieachtergrond;;
+1344;Renswoude;Niet-westerse migratieachtergrond;;
+1345;Rhenen;Totaal;11.4;17.2
+1346;Rhenen;Nederlandse achtergrond;10.5;17.2
+1347;Rhenen;Met migratieachtergrond;1.0;17.3
+1348;Rhenen;Westerse migratieachtergrond;0.6;18.8
+1349;Rhenen;Niet-westerse migratieachtergrond;0.3;14.2
+1350;Soest;Totaal;30.0;19.0
+1351;Soest;Nederlandse achtergrond;25.4;19.4
+1352;Soest;Met migratieachtergrond;4.6;17.2
+1353;Soest;Westerse migratieachtergrond;2.8;19.3
+1354;Soest;Niet-westerse migratieachtergrond;1.8;13.9
+1355;Utrecht;Totaal;179.2;16.9
+1356;Utrecht;Nederlandse achtergrond;137.2;17.5
+1357;Utrecht;Met migratieachtergrond;42.0;15.0
+1358;Utrecht;Westerse migratieachtergrond;17.2;17.3
+1359;Utrecht;Niet-westerse migratieachtergrond;24.7;13.4
+1360;Veenendaal;Totaal;38.5;16.7
+1361;Veenendaal;Nederlandse achtergrond;33.9;17.1
+1362;Veenendaal;Met migratieachtergrond;4.7;14.4
+1363;Veenendaal;Westerse migratieachtergrond;2.3;16.1
+1364;Veenendaal;Niet-westerse migratieachtergrond;2.3;12.8
+1365;Woudenberg;Totaal;7.0;17.8
+1366;Woudenberg;Nederlandse achtergrond;6.6;17.9
+1367;Woudenberg;Met migratieachtergrond;0.4;16.6
+1368;Woudenberg;Westerse migratieachtergrond;0.3;18.0
+1369;Woudenberg;Niet-westerse migratieachtergrond;;
+1370;Wijk bij Duurstede;Totaal;15.0;17.8
+1371;Wijk bij Duurstede;Nederlandse achtergrond;13.6;17.9
+1372;Wijk bij Duurstede;Met migratieachtergrond;1.4;16.7
+1373;Wijk bij Duurstede;Westerse migratieachtergrond;1.0;17.5
+1374;Wijk bij Duurstede;Niet-westerse migratieachtergrond;0.4;14.7
+1375;IJsselstein;Totaal;21.4;18.3
+1376;IJsselstein;Nederlandse achtergrond;18.0;18.6
+1377;IJsselstein;Met migratieachtergrond;3.3;16.8
+1378;IJsselstein;Westerse migratieachtergrond;1.5;19.2
+1379;IJsselstein;Niet-westerse migratieachtergrond;1.8;14.8
+1380;Zeist;Totaal;41.0;19.2
+1381;Zeist;Nederlandse achtergrond;34.2;19.4
+1382;Zeist;Met migratieachtergrond;6.8;17.9
+1383;Zeist;Westerse migratieachtergrond;4.1;20.9
+1384;Zeist;Niet-westerse migratieachtergrond;2.7;13.4
+1385;Nieuwegein;Totaal;43.0;17.5
+1386;Nieuwegein;Nederlandse achtergrond;35.4;17.8
+1387;Nieuwegein;Met migratieachtergrond;7.7;16.2
+1388;Nieuwegein;Westerse migratieachtergrond;4.2;17.2
+1389;Nieuwegein;Niet-westerse migratieachtergrond;3.5;15.1
+1390;Aalsmeer;Totaal;15.8;18.6
+1391;Aalsmeer;Nederlandse achtergrond;14.4;18.7
+1392;Aalsmeer;Met migratieachtergrond;1.4;17.5
+1393;Aalsmeer;Westerse migratieachtergrond;1.0;18.7
+1394;Aalsmeer;Niet-westerse migratieachtergrond;0.4;13.8
+1395;Alkmaar;Totaal;62.9;16.6
+1396;Alkmaar;Nederlandse achtergrond;52.1;16.8
+1397;Alkmaar;Met migratieachtergrond;10.8;15.3
+1398;Alkmaar;Westerse migratieachtergrond;5.8;16.9
+1399;Alkmaar;Niet-westerse migratieachtergrond;5.0;13.4
+1400;Amstelveen;Totaal;52.7;21.2
+1401;Amstelveen;Nederlandse achtergrond;41.1;20.5
+1402;Amstelveen;Met migratieachtergrond;11.6;23.7
+1403;Amstelveen;Westerse migratieachtergrond;7.8;25.7
+1404;Amstelveen;Niet-westerse migratieachtergrond;3.8;19.5
+1405;Amsterdam;Totaal;496.7;17.5
+1406;Amsterdam;Nederlandse achtergrond;308.1;18.3
+1407;Amsterdam;Met migratieachtergrond;188.6;16.1
+1408;Amsterdam;Westerse migratieachtergrond;66.2;19.5
+1409;Amsterdam;Niet-westerse migratieachtergrond;122.5;14.3
+1410;Andijk;Totaal;4.2;16.9
+1411;Andijk;Nederlandse achtergrond;3.9;16.9
+1412;Andijk;Met migratieachtergrond;0.3;17.2
+1413;Andijk;Westerse migratieachtergrond;;
+1414;Andijk;Niet-westerse migratieachtergrond;;
+1415;Graft-De Rijp;Totaal;4.1;18.6
+1416;Graft-De Rijp;Nederlandse achtergrond;3.8;18.6
+1417;Graft-De Rijp;Met migratieachtergrond;0.2;18.7
+1418;Graft-De Rijp;Westerse migratieachtergrond;;
+1419;Graft-De Rijp;Niet-westerse migratieachtergrond;;
+1420;Anna Paulowna;Totaal;8.9;16.5
+1421;Anna Paulowna;Nederlandse achtergrond;8.2;16.5
+1422;Anna Paulowna;Met migratieachtergrond;0.7;16.5
+1423;Anna Paulowna;Westerse migratieachtergrond;0.5;16.8
+1424;Anna Paulowna;Niet-westerse migratieachtergrond;;
+1425;Beemster;Totaal;5.8;17.9
+1426;Beemster;Nederlandse achtergrond;5.4;17.8
+1427;Beemster;Met migratieachtergrond;0.4;19.2
+1428;Beemster;Westerse migratieachtergrond;0.3;20.2
+1429;Beemster;Niet-westerse migratieachtergrond;;
+1430;Bennebroek;Totaal;3.7;21.3
+1431;Bennebroek;Nederlandse achtergrond;3.2;21.7
+1432;Bennebroek;Met migratieachtergrond;0.5;19.1
+1433;Bennebroek;Westerse migratieachtergrond;0.4;19.6
+1434;Bennebroek;Niet-westerse migratieachtergrond;;
+1435;Bergen;Totaal;21.7;19.3
+1436;Bergen;Nederlandse achtergrond;19.9;19.2
+1437;Bergen;Met migratieachtergrond;1.8;21.3
+1438;Bergen;Westerse migratieachtergrond;1.5;22.6
+1439;Bergen;Niet-westerse migratieachtergrond;0.3;15.3
+1440;Beverwijk;Totaal;25.2;16.5
+1441;Beverwijk;Nederlandse achtergrond;21.0;16.8
+1442;Beverwijk;Met migratieachtergrond;4.1;15.4
+1443;Beverwijk;Westerse migratieachtergrond;2.7;16.5
+1444;Beverwijk;Niet-westerse migratieachtergrond;1.5;13.4
+1445;Blaricum;Totaal;6.1;26.8
+1446;Blaricum;Nederlandse achtergrond;5.3;25.1
+1447;Blaricum;Met migratieachtergrond;0.8;37.6
+1448;Blaricum;Westerse migratieachtergrond;0.7;42.7
+1449;Blaricum;Niet-westerse migratieachtergrond;;
+1450;Bloemendaal;Totaal;11.0;27.9
+1451;Bloemendaal;Nederlandse achtergrond;9.3;27.6
+1452;Bloemendaal;Met migratieachtergrond;1.7;29.2
+1453;Bloemendaal;Westerse migratieachtergrond;1.5;28.6
+1454;Bloemendaal;Niet-westerse migratieachtergrond;0.2;33.4
+1455;Bussum;Totaal;21.0;21.8
+1456;Bussum;Nederlandse achtergrond;17.5;21.6
+1457;Bussum;Met migratieachtergrond;3.5;22.4
+1458;Bussum;Westerse migratieachtergrond;2.8;23.9
+1459;Bussum;Niet-westerse migratieachtergrond;0.7;16.5
+1460;Castricum;Totaal;23.5;19.6
+1461;Castricum;Nederlandse achtergrond;21.8;19.6
+1462;Castricum;Met migratieachtergrond;1.6;19.3
+1463;Castricum;Westerse migratieachtergrond;1.3;20.2
+1464;Castricum;Niet-westerse migratieachtergrond;0.3;15.4
+1465;Diemen;Totaal;16.2;19.2
+1466;Diemen;Nederlandse achtergrond;11.7;19.7
+1467;Diemen;Met migratieachtergrond;4.5;18.0
+1468;Diemen;Westerse migratieachtergrond;1.8;19.4
+1469;Diemen;Niet-westerse migratieachtergrond;2.6;17.0
+1470;Edam-Volendam;Totaal;18.5;18.5
+1471;Edam-Volendam;Nederlandse achtergrond;17.5;18.6
+1472;Edam-Volendam;Met migratieachtergrond;1.0;16.4
+1473;Edam-Volendam;Westerse migratieachtergrond;0.7;18.1
+1474;Edam-Volendam;Niet-westerse migratieachtergrond;0.3;13.2
+1475;Enkhuizen;Totaal;11.5;16.2
+1476;Enkhuizen;Nederlandse achtergrond;10.3;16.4
+1477;Enkhuizen;Met migratieachtergrond;1.2;14.6
+1478;Enkhuizen;Westerse migratieachtergrond;0.7;16.0
+1479;Enkhuizen;Niet-westerse migratieachtergrond;0.5;12.8
+1480;Haarlem;Totaal;102.7;17.3
+1481;Haarlem;Nederlandse achtergrond;84.0;17.5
+1482;Haarlem;Met migratieachtergrond;18.7;16.2
+1483;Haarlem;Westerse migratieachtergrond;10.2;18.1
+1484;Haarlem;Niet-westerse migratieachtergrond;8.5;13.8
+1485;Haarlemmerliede c.a.;Totaal;3.6;19.2
+1486;Haarlemmerliede c.a.;Nederlandse achtergrond;3.3;18.9
+1487;Haarlemmerliede c.a.;Met migratieachtergrond;0.3;22.3
+1488;Haarlemmerliede c.a.;Westerse migratieachtergrond;0.2;22.2
+1489;Haarlemmerliede c.a.;Niet-westerse migratieachtergrond;;
+1490;Haarlemmermeer;Totaal;79.2;18.7
+1491;Haarlemmermeer;Nederlandse achtergrond;67.0;18.9
+1492;Haarlemmermeer;Met migratieachtergrond;12.2;18.1
+1493;Haarlemmermeer;Westerse migratieachtergrond;7.5;19.4
+1494;Haarlemmermeer;Niet-westerse migratieachtergrond;4.7;16.2
+1495;Harenkarspel;Totaal;10.1;17.0
+1496;Harenkarspel;Nederlandse achtergrond;9.6;17.1
+1497;Harenkarspel;Met migratieachtergrond;0.6;15.3
+1498;Harenkarspel;Westerse migratieachtergrond;0.4;16.2
+1499;Harenkarspel;Niet-westerse migratieachtergrond;;
+1500;Heemskerk;Totaal;24.5;17.3
+1501;Heemskerk;Nederlandse achtergrond;20.9;17.6
+1502;Heemskerk;Met migratieachtergrond;3.6;15.4
+1503;Heemskerk;Westerse migratieachtergrond;2.4;16.3
+1504;Heemskerk;Niet-westerse migratieachtergrond;1.2;13.6
+1505;Heemstede;Totaal;17.7;23.1
+1506;Heemstede;Nederlandse achtergrond;15.2;22.8
+1507;Heemstede;Met migratieachtergrond;2.5;24.6
+1508;Heemstede;Westerse migratieachtergrond;2.0;26.8
+1509;Heemstede;Niet-westerse migratieachtergrond;0.5;15.9
+1510;Heerhugowaard;Totaal;30.7;16.9
+1511;Heerhugowaard;Nederlandse achtergrond;26.7;17.2
+1512;Heerhugowaard;Met migratieachtergrond;4.0;15.6
+1513;Heerhugowaard;Westerse migratieachtergrond;2.2;16.2
+1514;Heerhugowaard;Niet-westerse migratieachtergrond;1.7;14.7
+1515;Heiloo;Totaal;14.7;19.8
+1516;Heiloo;Nederlandse achtergrond;13.6;19.6
+1517;Heiloo;Met migratieachtergrond;1.2;22.1
+1518;Heiloo;Westerse migratieachtergrond;0.9;23.8
+1519;Heiloo;Niet-westerse migratieachtergrond;0.3;16.6
+1520;Den Helder;Totaal;40.1;16.0
+1521;Den Helder;Nederlandse achtergrond;33.8;16.2
+1522;Den Helder;Met migratieachtergrond;6.2;14.9
+1523;Den Helder;Westerse migratieachtergrond;4.2;15.9
+1524;Den Helder;Niet-westerse migratieachtergrond;2.0;12.8
+1525;Hilversum;Totaal;57.8;18.9
+1526;Hilversum;Nederlandse achtergrond;48.6;19.1
+1527;Hilversum;Met migratieachtergrond;9.2;18.0
+1528;Hilversum;Westerse migratieachtergrond;5.8;19.9
+1529;Hilversum;Niet-westerse migratieachtergrond;3.4;14.5
+1530;Hoorn;Totaal;44.4;17.0
+1531;Hoorn;Nederlandse achtergrond;37.4;17.2
+1532;Hoorn;Met migratieachtergrond;6.9;16.2
+1533;Hoorn;Westerse migratieachtergrond;3.5;18.2
+1534;Hoorn;Niet-westerse migratieachtergrond;3.4;14.2
+1535;Huizen;Totaal;27.5;19.2
+1536;Huizen;Nederlandse achtergrond;23.3;19.3
+1537;Huizen;Met migratieachtergrond;4.1;18.5
+1538;Huizen;Westerse migratieachtergrond;2.8;20.2
+1539;Huizen;Niet-westerse migratieachtergrond;1.4;15.0
+1540;Niedorp;Totaal;7.4;17.5
+1541;Niedorp;Nederlandse achtergrond;7.1;17.4
+1542;Niedorp;Met migratieachtergrond;0.3;17.8
+1543;Niedorp;Westerse migratieachtergrond;0.3;19.2
+1544;Niedorp;Niet-westerse migratieachtergrond;;
+1545;Landsmeer;Totaal;7.1;19.3
+1546;Landsmeer;Nederlandse achtergrond;6.4;19.2
+1547;Landsmeer;Met migratieachtergrond;0.6;20.5
+1548;Landsmeer;Westerse migratieachtergrond;0.5;21.7
+1549;Landsmeer;Niet-westerse migratieachtergrond;;
+1550;Langedijk;Totaal;16.2;17.7
+1551;Langedijk;Nederlandse achtergrond;15.0;17.7
+1552;Langedijk;Met migratieachtergrond;1.2;16.7
+1553;Langedijk;Westerse migratieachtergrond;0.8;18.1
+1554;Langedijk;Niet-westerse migratieachtergrond;0.4;13.8
+1555;Laren;Totaal;7.4;24.6
+1556;Laren;Nederlandse achtergrond;6.5;24.3
+1557;Laren;Met migratieachtergrond;1.0;26.6
+1558;Laren;Westerse migratieachtergrond;0.8;28.0
+1559;Laren;Niet-westerse migratieachtergrond;;
+1560;Medemblik;Totaal;5.1;16.7
+1561;Medemblik;Nederlandse achtergrond;4.6;17.0
+1562;Medemblik;Met migratieachtergrond;0.6;14.2
+1563;Medemblik;Westerse migratieachtergrond;0.3;14.4
+1564;Medemblik;Niet-westerse migratieachtergrond;0.3;14.0
+1565;Muiden;Totaal;4.4;21.2
+1566;Muiden;Nederlandse achtergrond;3.8;21.0
+1567;Muiden;Met migratieachtergrond;0.6;22.0
+1568;Muiden;Westerse migratieachtergrond;0.5;23.4
+1569;Muiden;Niet-westerse migratieachtergrond;;
+1570;Naarden;Totaal;10.9;24.5
+1571;Naarden;Nederlandse achtergrond;9.2;24.2
+1572;Naarden;Met migratieachtergrond;1.7;25.8
+1573;Naarden;Westerse migratieachtergrond;1.3;28.0
+1574;Naarden;Niet-westerse migratieachtergrond;0.4;19.4
+1575;Obdam;Totaal;4.2;17.0
+1576;Obdam;Nederlandse achtergrond;4.0;17.0
+1577;Obdam;Met migratieachtergrond;0.2;18.4
+1578;Obdam;Westerse migratieachtergrond;;
+1579;Obdam;Niet-westerse migratieachtergrond;;
+1580;Oostzaan;Totaal;6.2;18.4
+1581;Oostzaan;Nederlandse achtergrond;5.7;18.4
+1582;Oostzaan;Met migratieachtergrond;0.6;18.4
+1583;Oostzaan;Westerse migratieachtergrond;0.4;19.3
+1584;Oostzaan;Niet-westerse migratieachtergrond;;
+1585;Opmeer;Totaal;7.2;16.9
+1586;Opmeer;Nederlandse achtergrond;6.9;16.8
+1587;Opmeer;Met migratieachtergrond;0.4;17.6
+1588;Opmeer;Westerse migratieachtergrond;0.3;18.2
+1589;Opmeer;Niet-westerse migratieachtergrond;;
+1590;Ouder-Amstel;Totaal;9.0;20.8
+1591;Ouder-Amstel;Nederlandse achtergrond;7.7;20.9
+1592;Ouder-Amstel;Met migratieachtergrond;1.3;20.2
+1593;Ouder-Amstel;Westerse migratieachtergrond;0.9;22.3
+1594;Ouder-Amstel;Niet-westerse migratieachtergrond;0.5;16.3
+1595;Purmerend;Totaal;50.1;16.7
+1596;Purmerend;Nederlandse achtergrond;41.1;17.0
+1597;Purmerend;Met migratieachtergrond;9.0;15.5
+1598;Purmerend;Westerse migratieachtergrond;4.6;16.1
+1599;Purmerend;Niet-westerse migratieachtergrond;4.5;14.8
+1600;Schagen;Totaal;11.6;17.0
+1601;Schagen;Nederlandse achtergrond;10.4;17.2
+1602;Schagen;Met migratieachtergrond;1.2;15.7
+1603;Schagen;Westerse migratieachtergrond;0.9;16.5
+1604;Schagen;Niet-westerse migratieachtergrond;0.3;13.5
+1605;Texel;Totaal;8.9;16.1
+1606;Texel;Nederlandse achtergrond;8.4;16.2
+1607;Texel;Met migratieachtergrond;0.6;14.9
+1608;Texel;Westerse migratieachtergrond;0.5;15.4
+1609;Texel;Niet-westerse migratieachtergrond;;
+1610;Uitgeest;Totaal;7.6;18.6
+1611;Uitgeest;Nederlandse achtergrond;7.0;18.6
+1612;Uitgeest;Met migratieachtergrond;0.6;19.0
+1613;Uitgeest;Westerse migratieachtergrond;0.5;19.9
+1614;Uitgeest;Niet-westerse migratieachtergrond;;
+1615;Uithoorn;Totaal;18.0;19.5
+1616;Uithoorn;Nederlandse achtergrond;15.6;19.5
+1617;Uithoorn;Met migratieachtergrond;2.4;19.4
+1618;Uithoorn;Westerse migratieachtergrond;1.7;20.6
+1619;Uithoorn;Niet-westerse migratieachtergrond;0.7;16.6
+1620;Velsen;Totaal;45.7;17.5
+1621;Velsen;Nederlandse achtergrond;40.4;17.6
+1622;Velsen;Met migratieachtergrond;5.4;16.9
+1623;Velsen;Westerse migratieachtergrond;3.6;18.5
+1624;Velsen;Niet-westerse migratieachtergrond;1.8;13.7
+1625;Venhuizen;Totaal;5.0;17.7
+1626;Venhuizen;Nederlandse achtergrond;4.7;17.9
+1627;Venhuizen;Met migratieachtergrond;0.4;15.2
+1628;Venhuizen;Westerse migratieachtergrond;0.3;14.9
+1629;Venhuizen;Niet-westerse migratieachtergrond;;
+1630;Weesp;Totaal;12.7;18.1
+1631;Weesp;Nederlandse achtergrond;10.4;18.3
+1632;Weesp;Met migratieachtergrond;2.3;17.0
+1633;Weesp;Westerse migratieachtergrond;1.3;18.8
+1634;Weesp;Niet-westerse migratieachtergrond;1.0;14.6
+1635;Schermer;Totaal;3.2;19.8
+1636;Schermer;Nederlandse achtergrond;3.0;18.9
+1637;Schermer;Met migratieachtergrond;;
+1638;Schermer;Westerse migratieachtergrond;;
+1639;Schermer;Niet-westerse migratieachtergrond;;
+1640;Wervershoof;Totaal;5.3;16.2
+1641;Wervershoof;Nederlandse achtergrond;5.1;16.4
+1642;Wervershoof;Met migratieachtergrond;0.2;11.7
+1643;Wervershoof;Westerse migratieachtergrond;;
+1644;Wervershoof;Niet-westerse migratieachtergrond;;
+1645;Wieringen;Totaal;5.5;18.1
+1646;Wieringen;Nederlandse achtergrond;5.3;18.2
+1647;Wieringen;Met migratieachtergrond;0.3;16.0
+1648;Wieringen;Westerse migratieachtergrond;0.3;16.2
+1649;Wieringen;Niet-westerse migratieachtergrond;;
+1650;Wieringermeer;Totaal;8.1;16.1
+1651;Wieringermeer;Nederlandse achtergrond;7.7;16.1
+1652;Wieringermeer;Met migratieachtergrond;0.5;16.5
+1653;Wieringermeer;Westerse migratieachtergrond;0.4;16.7
+1654;Wieringermeer;Niet-westerse migratieachtergrond;;
+1655;Wognum;Totaal;5.2;17.0
+1656;Wognum;Nederlandse achtergrond;4.9;17.0
+1657;Wognum;Met migratieachtergrond;0.3;16.6
+1658;Wognum;Westerse migratieachtergrond;0.2;17.9
+1659;Wognum;Niet-westerse migratieachtergrond;;
+1660;Zandvoort;Totaal;11.8;18.5
+1661;Zandvoort;Nederlandse achtergrond;10.1;18.5
+1662;Zandvoort;Met migratieachtergrond;1.7;18.8
+1663;Zandvoort;Westerse migratieachtergrond;1.3;19.3
+1664;Zandvoort;Niet-westerse migratieachtergrond;0.3;16.6
+1665;Zijpe;Totaal;7.3;17.0
+1666;Zijpe;Nederlandse achtergrond;6.9;17.1
+1667;Zijpe;Met migratieachtergrond;0.5;16.4
+1668;Zijpe;Westerse migratieachtergrond;0.4;17.3
+1669;Zijpe;Niet-westerse migratieachtergrond;;
+1670;Zeevang;Totaal;4.2;18.7
+1671;Zeevang;Nederlandse achtergrond;3.8;18.8
+1672;Zeevang;Met migratieachtergrond;0.4;18.4
+1673;Zeevang;Westerse migratieachtergrond;0.3;18.5
+1674;Zeevang;Niet-westerse migratieachtergrond;;
+1675;Zaanstad;Totaal;94.0;16.8
+1676;Zaanstad;Nederlandse achtergrond;76.3;17.1
+1677;Zaanstad;Met migratieachtergrond;17.7;15.2
+1678;Zaanstad;Westerse migratieachtergrond;8.1;16.8
+1679;Zaanstad;Niet-westerse migratieachtergrond;9.6;13.9
+1680;Ter Aar;Totaal;5.8;18.2
+1681;Ter Aar;Nederlandse achtergrond;5.4;18.3
+1682;Ter Aar;Met migratieachtergrond;0.3;17.7
+1683;Ter Aar;Westerse migratieachtergrond;0.2;20.1
+1684;Ter Aar;Niet-westerse migratieachtergrond;;
+1685;Alblasserdam;Totaal;11.5;16.7
+1686;Alblasserdam;Nederlandse achtergrond;10.1;17.0
+1687;Alblasserdam;Met migratieachtergrond;1.4;15.1
+1688;Alblasserdam;Westerse migratieachtergrond;0.9;16.3
+1689;Alblasserdam;Niet-westerse migratieachtergrond;0.5;12.8
+1690;Alkemade;Totaal;9.5;17.6
+1691;Alkemade;Nederlandse achtergrond;9.0;17.5
+1692;Alkemade;Met migratieachtergrond;0.5;19.0
+1693;Alkemade;Westerse migratieachtergrond;0.3;21.7
+1694;Alkemade;Niet-westerse migratieachtergrond;;
+1695;Alphen aan den Rijn;Totaal;46.7;18.1
+1696;Alphen aan den Rijn;Nederlandse achtergrond;39.2;18.4
+1697;Alphen aan den Rijn;Met migratieachtergrond;7.5;16.6
+1698;Alphen aan den Rijn;Westerse migratieachtergrond;4.4;18.2
+1699;Alphen aan den Rijn;Niet-westerse migratieachtergrond;3.0;14.2
+1700;Barendrecht;Totaal;21.7;19.1
+1701;Barendrecht;Nederlandse achtergrond;19.5;19.2
+1702;Barendrecht;Met migratieachtergrond;2.2;18.6
+1703;Barendrecht;Westerse migratieachtergrond;1.4;20.3
+1704;Barendrecht;Niet-westerse migratieachtergrond;0.8;15.9
+1705;Bergambacht;Totaal;5.8;18.3
+1706;Bergambacht;Nederlandse achtergrond;5.5;18.4
+1707;Bergambacht;Met migratieachtergrond;0.3;16.3
+1708;Bergambacht;Westerse migratieachtergrond;0.3;17.0
+1709;Bergambacht;Niet-westerse migratieachtergrond;;
+1710;Bergschenhoek;Totaal;8.4;20.2
+1711;Bergschenhoek;Nederlandse achtergrond;7.6;20.1
+1712;Bergschenhoek;Met migratieachtergrond;0.8;21.4
+1713;Bergschenhoek;Westerse migratieachtergrond;0.6;23.4
+1714;Bergschenhoek;Niet-westerse migratieachtergrond;0.3;17.1
+1715;Berkel en Rodenrijs;Totaal;10.9;18.8
+1716;Berkel en Rodenrijs;Nederlandse achtergrond;10.0;18.9
+1717;Berkel en Rodenrijs;Met migratieachtergrond;0.8;17.9
+1718;Berkel en Rodenrijs;Westerse migratieachtergrond;0.6;19.8
+1719;Berkel en Rodenrijs;Niet-westerse migratieachtergrond;0.3;13.8
+1720;Bleiswijk;Totaal;6.3;18.6
+1721;Bleiswijk;Nederlandse achtergrond;5.8;18.5
+1722;Bleiswijk;Met migratieachtergrond;0.6;18.8
+1723;Bleiswijk;Westerse migratieachtergrond;0.4;20.5
+1724;Bleiswijk;Niet-westerse migratieachtergrond;;
+1725;Bodegraven;Totaal;12.4;18.3
+1726;Bodegraven;Nederlandse achtergrond;11.3;18.6
+1727;Bodegraven;Met migratieachtergrond;1.1;16.1
+1728;Bodegraven;Westerse migratieachtergrond;0.7;17.3
+1729;Bodegraven;Niet-westerse migratieachtergrond;0.4;14.2
+1730;Drechterland;Totaal;6.5;17.2
+1731;Drechterland;Nederlandse achtergrond;6.2;17.2
+1732;Drechterland;Met migratieachtergrond;0.3;16.7
+1733;Drechterland;Westerse migratieachtergrond;0.2;16.4
+1734;Drechterland;Niet-westerse migratieachtergrond;;
+1735;Boskoop;Totaal;9.8;18.1
+1736;Boskoop;Nederlandse achtergrond;8.9;18.3
+1737;Boskoop;Met migratieachtergrond;0.9;15.8
+1738;Boskoop;Westerse migratieachtergrond;0.4;17.7
+1739;Boskoop;Niet-westerse migratieachtergrond;0.5;14.0
+1740;Brielle;Totaal;10.6;19.1
+1741;Brielle;Nederlandse achtergrond;9.6;19.1
+1742;Brielle;Met migratieachtergrond;1.0;19.5
+1743;Brielle;Westerse migratieachtergrond;0.8;20.9
+1744;Brielle;Niet-westerse migratieachtergrond;0.2;13.8
+1745;Capelle aan den IJssel;Totaal;43.9;18.0
+1746;Capelle aan den IJssel;Nederlandse achtergrond;34.9;18.2
+1747;Capelle aan den IJssel;Met migratieachtergrond;9.0;16.9
+1748;Capelle aan den IJssel;Westerse migratieachtergrond;4.8;17.6
+1749;Capelle aan den IJssel;Niet-westerse migratieachtergrond;4.2;16.1
+1750;Delft;Totaal;64.1;16.4
+1751;Delft;Nederlandse achtergrond;51.6;16.7
+1752;Delft;Met migratieachtergrond;12.4;15.5
+1753;Delft;Westerse migratieachtergrond;6.3;17.3
+1754;Delft;Niet-westerse migratieachtergrond;6.1;13.6
+1755;Dirksland;Totaal;5.2;17.4
+1756;Dirksland;Nederlandse achtergrond;5.1;17.3
+1757;Dirksland;Met migratieachtergrond;;
+1758;Dirksland;Westerse migratieachtergrond;;
+1759;Dirksland;Niet-westerse migratieachtergrond;;
+1760;Dordrecht;Totaal;78.6;16.4
+1761;Dordrecht;Nederlandse achtergrond;62.1;16.9
+1762;Dordrecht;Met migratieachtergrond;16.5;14.6
+1763;Dordrecht;Westerse migratieachtergrond;7.9;16.5
+1764;Dordrecht;Niet-westerse migratieachtergrond;8.6;12.8
+1765;Goedereede;Totaal;7.1;18.1
+1766;Goedereede;Nederlandse achtergrond;6.9;17.9
+1767;Goedereede;Met migratieachtergrond;0.2;22.3
+1768;Goedereede;Westerse migratieachtergrond;;
+1769;Goedereede;Niet-westerse migratieachtergrond;;
+1770;Gorinchem;Totaal;22.9;16.7
+1771;Gorinchem;Nederlandse achtergrond;18.9;17.1
+1772;Gorinchem;Met migratieachtergrond;4.0;15.1
+1773;Gorinchem;Westerse migratieachtergrond;2.1;16.5
+1774;Gorinchem;Niet-westerse migratieachtergrond;2.0;13.6
+1775;Gouda;Totaal;47.3;17.6
+1776;Gouda;Nederlandse achtergrond;39.7;18.0
+1777;Gouda;Met migratieachtergrond;7.6;15.6
+1778;Gouda;Westerse migratieachtergrond;3.5;18.1
+1779;Gouda;Niet-westerse migratieachtergrond;4.1;13.5
+1780;'s-Gravendeel;Totaal;5.8;17.2
+1781;'s-Gravendeel;Nederlandse achtergrond;5.5;17.1
+1782;'s-Gravendeel;Met migratieachtergrond;0.3;17.5
+1783;'s-Gravendeel;Westerse migratieachtergrond;0.2;17.4
+1784;'s-Gravendeel;Niet-westerse migratieachtergrond;;
+1785;'s-Gravenhage;Totaal;302.7;17.2
+1786;'s-Gravenhage;Nederlandse achtergrond;198.7;17.7
+1787;'s-Gravenhage;Met migratieachtergrond;103.9;16.3
+1788;'s-Gravenhage;Westerse migratieachtergrond;36.9;20.5
+1789;'s-Gravenhage;Niet-westerse migratieachtergrond;67.1;14.0
+1790;'s-Gravenzande;Totaal;12.9;17.5
+1791;'s-Gravenzande;Nederlandse achtergrond;12.0;17.6
+1792;'s-Gravenzande;Met migratieachtergrond;0.8;16.3
+1793;'s-Gravenzande;Westerse migratieachtergrond;0.5;18.1
+1794;'s-Gravenzande;Niet-westerse migratieachtergrond;0.3;13.1
+1795;Hardinxveld-Giessendam;Totaal;11.0;17.2
+1796;Hardinxveld-Giessendam;Nederlandse achtergrond;10.5;17.2
+1797;Hardinxveld-Giessendam;Met migratieachtergrond;0.5;16.5
+1798;Hardinxveld-Giessendam;Westerse migratieachtergrond;0.3;17.4
+1799;Hardinxveld-Giessendam;Niet-westerse migratieachtergrond;;
+1800;Heerjansdam;Totaal;2.4;18.9
+1801;Heerjansdam;Nederlandse achtergrond;2.3;18.8
+1802;Heerjansdam;Met migratieachtergrond;;
+1803;Heerjansdam;Westerse migratieachtergrond;;
+1804;Heerjansdam;Niet-westerse migratieachtergrond;;
+1805;Noorder-Koggenland;Totaal;6.8;17.6
+1806;Noorder-Koggenland;Nederlandse achtergrond;6.4;17.4
+1807;Noorder-Koggenland;Met migratieachtergrond;0.5;20.1
+1808;Noorder-Koggenland;Westerse migratieachtergrond;0.4;20.9
+1809;Noorder-Koggenland;Niet-westerse migratieachtergrond;;
+1810;Hellevoetsluis;Totaal;24.9;17.9
+1811;Hellevoetsluis;Nederlandse achtergrond;21.3;18.0
+1812;Hellevoetsluis;Met migratieachtergrond;3.7;17.2
+1813;Hellevoetsluis;Westerse migratieachtergrond;2.3;18.6
+1814;Hellevoetsluis;Niet-westerse migratieachtergrond;1.4;14.8
+1815;Hendrik-Ido-Ambacht;Totaal;13.4;18.3
+1816;Hendrik-Ido-Ambacht;Nederlandse achtergrond;12.2;18.5
+1817;Hendrik-Ido-Ambacht;Met migratieachtergrond;1.2;16.6
+1818;Hendrik-Ido-Ambacht;Westerse migratieachtergrond;0.8;17.2
+1819;Hendrik-Ido-Ambacht;Niet-westerse migratieachtergrond;0.4;15.0
+1820;Stede Broec;Totaal;13.8;16.3
+1821;Stede Broec;Nederlandse achtergrond;12.8;16.4
+1822;Stede Broec;Met migratieachtergrond;1.0;15.6
+1823;Stede Broec;Westerse migratieachtergrond;0.7;16.0
+1824;Stede Broec;Niet-westerse migratieachtergrond;0.3;14.6
+1825;Hillegom;Totaal;14.4;17.7
+1826;Hillegom;Nederlandse achtergrond;12.9;18.0
+1827;Hillegom;Met migratieachtergrond;1.5;15.7
+1828;Hillegom;Westerse migratieachtergrond;1.1;16.9
+1829;Hillegom;Niet-westerse migratieachtergrond;0.4;12.8
+1830;Katwijk;Totaal;26.2;16.6
+1831;Katwijk;Nederlandse achtergrond;24.5;16.7
+1832;Katwijk;Met migratieachtergrond;1.7;15.0
+1833;Katwijk;Westerse migratieachtergrond;1.1;16.2
+1834;Katwijk;Niet-westerse migratieachtergrond;0.6;12.7
+1835;Krimpen aan den IJssel;Totaal;18.6;18.4
+1836;Krimpen aan den IJssel;Nederlandse achtergrond;16.5;18.6
+1837;Krimpen aan den IJssel;Met migratieachtergrond;2.1;16.6
+1838;Krimpen aan den IJssel;Westerse migratieachtergrond;1.6;17.1
+1839;Krimpen aan den IJssel;Niet-westerse migratieachtergrond;0.5;15.1
+1840;Leerdam;Totaal;13.3;16.7
+1841;Leerdam;Nederlandse achtergrond;11.1;16.9
+1842;Leerdam;Met migratieachtergrond;2.2;15.5
+1843;Leerdam;Westerse migratieachtergrond;1.2;16.4
+1844;Leerdam;Niet-westerse migratieachtergrond;1.0;14.5
+1845;Leiden;Totaal;79.0;17.4
+1846;Leiden;Nederlandse achtergrond;64.2;17.5
+1847;Leiden;Met migratieachtergrond;14.9;16.7
+1848;Leiden;Westerse migratieachtergrond;7.8;18.9
+1849;Leiden;Niet-westerse migratieachtergrond;7.0;14.2
+1850;Leiderdorp;Totaal;18.1;19.6
+1851;Leiderdorp;Nederlandse achtergrond;15.2;19.6
+1852;Leiderdorp;Met migratieachtergrond;2.9;19.7
+1853;Leiderdorp;Westerse migratieachtergrond;1.9;21.5
+1854;Leiderdorp;Niet-westerse migratieachtergrond;1.0;16.1
+1855;De Lier;Totaal;7.5;16.9
+1856;De Lier;Nederlandse achtergrond;7.1;17.1
+1857;De Lier;Met migratieachtergrond;0.4;14.1
+1858;De Lier;Westerse migratieachtergrond;0.2;14.3
+1859;De Lier;Niet-westerse migratieachtergrond;;
+1860;Lisse;Totaal;14.8;17.9
+1861;Lisse;Nederlandse achtergrond;13.6;17.9
+1862;Lisse;Met migratieachtergrond;1.2;18.0
+1863;Lisse;Westerse migratieachtergrond;0.9;18.5
+1864;Lisse;Niet-westerse migratieachtergrond;0.3;16.0
+1865;Maasland;Totaal;4.4;19.2
+1866;Maasland;Nederlandse achtergrond;4.2;19.2
+1867;Maasland;Met migratieachtergrond;0.2;19.1
+1868;Maasland;Westerse migratieachtergrond;;
+1869;Maasland;Niet-westerse migratieachtergrond;;
+1870;Maassluis;Totaal;22.3;16.9
+1871;Maassluis;Nederlandse achtergrond;18.3;17.5
+1872;Maassluis;Met migratieachtergrond;4.0;14.3
+1873;Maassluis;Westerse migratieachtergrond;1.7;16.0
+1874;Maassluis;Niet-westerse migratieachtergrond;2.3;13.0
+1875;Wester-Koggenland;Totaal;8.9;17.2
+1876;Wester-Koggenland;Nederlandse achtergrond;8.5;17.0
+1877;Wester-Koggenland;Met migratieachtergrond;0.4;19.9
+1878;Wester-Koggenland;Westerse migratieachtergrond;0.4;20.6
+1879;Wester-Koggenland;Niet-westerse migratieachtergrond;;
+1880;Middelharnis;Totaal;11.2;16.8
+1881;Middelharnis;Nederlandse achtergrond;10.7;16.8
+1882;Middelharnis;Met migratieachtergrond;0.5;18.3
+1883;Middelharnis;Westerse migratieachtergrond;0.3;20.9
+1884;Middelharnis;Niet-westerse migratieachtergrond;;
+1885;Monster;Totaal;13.8;16.3
+1886;Monster;Nederlandse achtergrond;12.8;16.2
+1887;Monster;Met migratieachtergrond;1.0;17.0
+1888;Monster;Westerse migratieachtergrond;0.7;17.7
+1889;Monster;Niet-westerse migratieachtergrond;0.2;14.6
+1890;Moordrecht;Totaal;5.2;17.4
+1891;Moordrecht;Nederlandse achtergrond;4.0;18.0
+1892;Moordrecht;Met migratieachtergrond;1.2;15.5
+1893;Moordrecht;Westerse migratieachtergrond;0.9;16.1
+1894;Moordrecht;Niet-westerse migratieachtergrond;0.3;13.7
+1895;Naaldwijk;Totaal;19.8;16.6
+1896;Naaldwijk;Nederlandse achtergrond;18.5;16.8
+1897;Naaldwijk;Met migratieachtergrond;1.3;14.9
+1898;Naaldwijk;Westerse migratieachtergrond;0.7;17.5
+1899;Naaldwijk;Niet-westerse migratieachtergrond;0.5;11.1
+1900;Nieuwerkerk aan den IJssel;Totaal;14.1;19.4
+1901;Nieuwerkerk aan den IJssel;Nederlandse achtergrond;12.6;19.5
+1902;Nieuwerkerk aan den IJssel;Met migratieachtergrond;1.5;18.5
+1903;Nieuwerkerk aan den IJssel;Westerse migratieachtergrond;0.9;20.3
+1904;Nieuwerkerk aan den IJssel;Niet-westerse migratieachtergrond;0.6;15.4
+1905;Bernisse;Totaal;8.2;18.7
+1906;Bernisse;Nederlandse achtergrond;7.7;18.8
+1907;Bernisse;Met migratieachtergrond;0.5;17.8
+1908;Bernisse;Westerse migratieachtergrond;0.5;18.0
+1909;Bernisse;Niet-westerse migratieachtergrond;;
+1910;Nieuwkoop;Totaal;7.1;18.9
+1911;Nieuwkoop;Nederlandse achtergrond;6.5;18.9
+1912;Nieuwkoop;Met migratieachtergrond;0.5;18.9
+1913;Nieuwkoop;Westerse migratieachtergrond;0.3;21.1
+1914;Nieuwkoop;Niet-westerse migratieachtergrond;;
+1915;Nieuw-Lekkerland;Totaal;5.4;17.0
+1916;Nieuw-Lekkerland;Nederlandse achtergrond;5.1;17.0
+1917;Nieuw-Lekkerland;Met migratieachtergrond;0.4;16.6
+1918;Nieuw-Lekkerland;Westerse migratieachtergrond;0.3;17.0
+1919;Nieuw-Lekkerland;Niet-westerse migratieachtergrond;;
+1920;Noordwijk;Totaal;16.9;18.5
+1921;Noordwijk;Nederlandse achtergrond;15.4;18.5
+1922;Noordwijk;Met migratieachtergrond;1.6;19.0
+1923;Noordwijk;Westerse migratieachtergrond;1.2;21.3
+1924;Noordwijk;Niet-westerse migratieachtergrond;0.3;10.9
+1925;Noordwijkerhout;Totaal;10.1;18.0
+1926;Noordwijkerhout;Nederlandse achtergrond;9.2;17.9
+1927;Noordwijkerhout;Met migratieachtergrond;0.9;19.2
+1928;Noordwijkerhout;Westerse migratieachtergrond;0.7;20.1
+1929;Noordwijkerhout;Niet-westerse migratieachtergrond;;
+1930;Oegstgeest;Totaal;13.4;23.0
+1931;Oegstgeest;Nederlandse achtergrond;11.4;23.0
+1932;Oegstgeest;Met migratieachtergrond;2.0;23.2
+1933;Oegstgeest;Westerse migratieachtergrond;1.6;24.9
+1934;Oegstgeest;Niet-westerse migratieachtergrond;0.4;16.8
+1935;Oostflakkee;Totaal;6.7;16.6
+1936;Oostflakkee;Nederlandse achtergrond;6.4;16.6
+1937;Oostflakkee;Met migratieachtergrond;0.3;15.5
+1938;Oostflakkee;Westerse migratieachtergrond;0.2;15.9
+1939;Oostflakkee;Niet-westerse migratieachtergrond;;
+1940;Oud-Beijerland;Totaal;14.5;18.0
+1941;Oud-Beijerland;Nederlandse achtergrond;13.4;18.1
+1942;Oud-Beijerland;Met migratieachtergrond;1.1;17.0
+1943;Oud-Beijerland;Westerse migratieachtergrond;0.7;18.0
+1944;Oud-Beijerland;Niet-westerse migratieachtergrond;0.3;14.6
+1945;Binnenmaas;Totaal;12.7;19.0
+1946;Binnenmaas;Nederlandse achtergrond;11.9;19.1
+1947;Binnenmaas;Met migratieachtergrond;0.8;17.8
+1948;Binnenmaas;Westerse migratieachtergrond;0.6;18.8
+1949;Binnenmaas;Niet-westerse migratieachtergrond;0.2;14.6
+1950;Korendijk;Totaal;6.8;18.0
+1951;Korendijk;Nederlandse achtergrond;6.5;18.0
+1952;Korendijk;Met migratieachtergrond;0.3;17.4
+1953;Korendijk;Westerse migratieachtergrond;0.2;18.0
+1954;Korendijk;Niet-westerse migratieachtergrond;;
+1955;Oudewater;Totaal;6.4;18.6
+1956;Oudewater;Nederlandse achtergrond;6.1;18.7
+1957;Oudewater;Met migratieachtergrond;0.3;16.7
+1958;Oudewater;Westerse migratieachtergrond;0.2;19.6
+1959;Oudewater;Niet-westerse migratieachtergrond;;
+1960;Papendrecht;Totaal;20.0;17.9
+1961;Papendrecht;Nederlandse achtergrond;17.8;18.1
+1962;Papendrecht;Met migratieachtergrond;2.2;16.8
+1963;Papendrecht;Westerse migratieachtergrond;1.5;17.9
+1964;Papendrecht;Niet-westerse migratieachtergrond;0.7;14.4
+1965;Reeuwijk;Totaal;8.2;20.2
+1966;Reeuwijk;Nederlandse achtergrond;7.8;20.2
+1967;Reeuwijk;Met migratieachtergrond;0.4;21.1
+1968;Reeuwijk;Westerse migratieachtergrond;0.3;22.9
+1969;Reeuwijk;Niet-westerse migratieachtergrond;;
+1970;Ridderkerk;Totaal;31.4;17.1
+1971;Ridderkerk;Nederlandse achtergrond;27.9;17.2
+1972;Ridderkerk;Met migratieachtergrond;3.6;16.2
+1973;Ridderkerk;Westerse migratieachtergrond;2.4;17.4
+1974;Ridderkerk;Niet-westerse migratieachtergrond;1.2;14.0
+1975;Rotterdam;Totaal;392.7;16.0
+1976;Rotterdam;Nederlandse achtergrond;259.0;16.8
+1977;Rotterdam;Met migratieachtergrond;133.7;14.5
+1978;Rotterdam;Westerse migratieachtergrond;38.1;16.8
+1979;Rotterdam;Niet-westerse migratieachtergrond;95.6;13.5
+1980;Rozenburg;Totaal;8.9;17.5
+1981;Rozenburg;Nederlandse achtergrond;7.5;17.7
+1982;Rozenburg;Met migratieachtergrond;1.3;16.6
+1983;Rozenburg;Westerse migratieachtergrond;0.9;17.7
+1984;Rozenburg;Niet-westerse migratieachtergrond;0.5;14.4
+1985;Rijnsburg;Totaal;9.2;18.0
+1986;Rijnsburg;Nederlandse achtergrond;8.6;18.1
+1987;Rijnsburg;Met migratieachtergrond;0.6;16.0
+1988;Rijnsburg;Westerse migratieachtergrond;0.4;16.3
+1989;Rijnsburg;Niet-westerse migratieachtergrond;;
+1990;Rijswijk;Totaal;35.4;18.4
+1991;Rijswijk;Nederlandse achtergrond;28.2;18.3
+1992;Rijswijk;Met migratieachtergrond;7.2;18.6
+1993;Rijswijk;Westerse migratieachtergrond;5.0;19.7
+1994;Rijswijk;Niet-westerse migratieachtergrond;2.3;16.2
+1995;Sassenheim;Totaal;10.0;19.0
+1996;Sassenheim;Nederlandse achtergrond;9.0;19.1
+1997;Sassenheim;Met migratieachtergrond;1.0;18.3
+1998;Sassenheim;Westerse migratieachtergrond;0.7;19.1
+1999;Sassenheim;Niet-westerse migratieachtergrond;0.3;16.7
+2000;Schiedam;Totaal;50.3;16.4
+2001;Schiedam;Nederlandse achtergrond;39.2;16.9
+2002;Schiedam;Met migratieachtergrond;11.1;14.7
+2003;Schiedam;Westerse migratieachtergrond;3.9;17.0
+2004;Schiedam;Niet-westerse migratieachtergrond;7.2;13.4
+2005;Schipluiden;Totaal;7.2;18.6
+2006;Schipluiden;Nederlandse achtergrond;6.7;18.5
+2007;Schipluiden;Met migratieachtergrond;0.5;19.5
+2008;Schipluiden;Westerse migratieachtergrond;0.3;20.8
+2009;Schipluiden;Niet-westerse migratieachtergrond;;
+2010;Schoonhoven;Totaal;7.8;17.7
+2011;Schoonhoven;Nederlandse achtergrond;6.9;18.0
+2012;Schoonhoven;Met migratieachtergrond;0.8;16.0
+2013;Schoonhoven;Westerse migratieachtergrond;0.5;17.6
+2014;Schoonhoven;Niet-westerse migratieachtergrond;0.4;13.9
+2015;Sliedrecht;Totaal;15.8;16.8
+2016;Sliedrecht;Nederlandse achtergrond;14.6;16.9
+2017;Sliedrecht;Met migratieachtergrond;1.3;14.9
+2018;Sliedrecht;Westerse migratieachtergrond;0.7;16.0
+2019;Sliedrecht;Niet-westerse migratieachtergrond;0.6;13.6
+2020;Cromstrijen;Totaal;8.4;18.3
+2021;Cromstrijen;Nederlandse achtergrond;7.9;18.3
+2022;Cromstrijen;Met migratieachtergrond;0.5;19.2
+2023;Cromstrijen;Westerse migratieachtergrond;0.4;19.8
+2024;Cromstrijen;Niet-westerse migratieachtergrond;;
+2025;Spijkenisse;Totaal;48.8;16.9
+2026;Spijkenisse;Nederlandse achtergrond;40.0;17.1
+2027;Spijkenisse;Met migratieachtergrond;8.9;15.8
+2028;Spijkenisse;Westerse migratieachtergrond;4.7;16.4
+2029;Spijkenisse;Niet-westerse migratieachtergrond;4.2;15.1
+2030;Albrandswaard;Totaal;12.0;19.5
+2031;Albrandswaard;Nederlandse achtergrond;10.7;19.6
+2032;Albrandswaard;Met migratieachtergrond;1.2;18.6
+2033;Albrandswaard;Westerse migratieachtergrond;0.9;20.0
+2034;Albrandswaard;Niet-westerse migratieachtergrond;0.4;15.6
+2035;Westvoorne;Totaal;9.5;20.2
+2036;Westvoorne;Nederlandse achtergrond;8.8;20.2
+2037;Westvoorne;Met migratieachtergrond;0.7;21.1
+2038;Westvoorne;Westerse migratieachtergrond;0.6;22.3
+2039;Westvoorne;Niet-westerse migratieachtergrond;;
+2040;Strijen;Totaal;6.0;18.0
+2041;Strijen;Nederlandse achtergrond;5.7;18.0
+2042;Strijen;Met migratieachtergrond;0.3;17.4
+2043;Strijen;Westerse migratieachtergrond;0.3;18.5
+2044;Strijen;Niet-westerse migratieachtergrond;;
+2045;Valkenburg;Totaal;2.4;17.6
+2046;Valkenburg;Nederlandse achtergrond;2.2;17.7
+2047;Valkenburg;Met migratieachtergrond;;
+2048;Valkenburg;Westerse migratieachtergrond;;
+2049;Valkenburg;Niet-westerse migratieachtergrond;;
+2050;Vianen;Totaal;12.8;17.9
+2051;Vianen;Nederlandse achtergrond;11.3;18.0
+2052;Vianen;Met migratieachtergrond;1.5;17.0
+2053;Vianen;Westerse migratieachtergrond;0.8;17.9
+2054;Vianen;Niet-westerse migratieachtergrond;0.7;16.0
+2055;Vlaardingen;Totaal;50.6;16.7
+2056;Vlaardingen;Nederlandse achtergrond;42.0;17.1
+2057;Vlaardingen;Met migratieachtergrond;8.6;14.9
+2058;Vlaardingen;Westerse migratieachtergrond;3.8;16.8
+2059;Vlaardingen;Niet-westerse migratieachtergrond;4.8;13.5
+2060;Vlist;Totaal;6.3;17.9
+2061;Vlist;Nederlandse achtergrond;6.0;17.7
+2062;Vlist;Met migratieachtergrond;0.3;20.4
+2063;Vlist;Westerse migratieachtergrond;0.2;21.4
+2064;Vlist;Niet-westerse migratieachtergrond;;
+2065;Voorhout;Totaal;8.9;19.7
+2066;Voorhout;Nederlandse achtergrond;8.2;19.6
+2067;Voorhout;Met migratieachtergrond;0.7;20.1
+2068;Voorhout;Westerse migratieachtergrond;0.6;22.2
+2069;Voorhout;Niet-westerse migratieachtergrond;;
+2070;Voorschoten;Totaal;14.9;21.4
+2071;Voorschoten;Nederlandse achtergrond;12.5;21.3
+2072;Voorschoten;Met migratieachtergrond;2.4;22.0
+2073;Voorschoten;Westerse migratieachtergrond;1.8;23.7
+2074;Voorschoten;Niet-westerse migratieachtergrond;0.6;17.1
+2075;Waddinxveen;Totaal;17.5;18.1
+2076;Waddinxveen;Nederlandse achtergrond;15.5;18.3
+2077;Waddinxveen;Met migratieachtergrond;2.0;16.3
+2078;Waddinxveen;Westerse migratieachtergrond;1.2;17.8
+2079;Waddinxveen;Niet-westerse migratieachtergrond;0.8;14.2
+2080;Warmond;Totaal;3.4;19.9
+2081;Warmond;Nederlandse achtergrond;3.1;19.9
+2082;Warmond;Met migratieachtergrond;0.3;20.1
+2083;Warmond;Westerse migratieachtergrond;0.3;20.8
+2084;Warmond;Niet-westerse migratieachtergrond;;
+2085;Wassenaar;Totaal;15.8;27.2
+2086;Wassenaar;Nederlandse achtergrond;12.6;23.8
+2087;Wassenaar;Met migratieachtergrond;3.1;41.3
+2088;Wassenaar;Westerse migratieachtergrond;2.6;42.8
+2089;Wassenaar;Niet-westerse migratieachtergrond;0.6;34.4
+2090;Wateringen;Totaal;10.6;17.4
+2091;Wateringen;Nederlandse achtergrond;9.7;17.6
+2092;Wateringen;Met migratieachtergrond;0.9;15.0
+2093;Wateringen;Westerse migratieachtergrond;0.5;15.4
+2094;Wateringen;Niet-westerse migratieachtergrond;0.4;14.5
+2095;Woerden;Totaal;31.1;18.9
+2096;Woerden;Nederlandse achtergrond;27.8;19.2
+2097;Woerden;Met migratieachtergrond;3.3;17.1
+2098;Woerden;Westerse migratieachtergrond;2.1;18.5
+2099;Woerden;Niet-westerse migratieachtergrond;1.2;14.6
+2100;Zoetermeer;Totaal;73.4;18.1
+2101;Zoetermeer;Nederlandse achtergrond;56.9;18.3
+2102;Zoetermeer;Met migratieachtergrond;16.4;17.2
+2103;Zoetermeer;Westerse migratieachtergrond;8.9;18.5
+2104;Zoetermeer;Niet-westerse migratieachtergrond;7.5;15.7
+2105;Zoeterwoude;Totaal;5.7;18.3
+2106;Zoeterwoude;Nederlandse achtergrond;5.2;18.2
+2107;Zoeterwoude;Met migratieachtergrond;0.5;19.1
+2108;Zoeterwoude;Westerse migratieachtergrond;0.3;21.5
+2109;Zoeterwoude;Niet-westerse migratieachtergrond;;
+2110;Zwijndrecht;Totaal;27.5;17.4
+2111;Zwijndrecht;Nederlandse achtergrond;23.7;17.7
+2112;Zwijndrecht;Met migratieachtergrond;3.8;15.9
+2113;Zwijndrecht;Westerse migratieachtergrond;2.2;17.2
+2114;Zwijndrecht;Niet-westerse migratieachtergrond;1.7;14.1
+2115;Nederlek;Totaal;9.6;17.7
+2116;Nederlek;Nederlandse achtergrond;9.0;17.6
+2117;Nederlek;Met migratieachtergrond;0.6;18.9
+2118;Nederlek;Westerse migratieachtergrond;0.5;19.1
+2119;Nederlek;Niet-westerse migratieachtergrond;;
+2120;Ouderkerk;Totaal;5.1;18.3
+2121;Ouderkerk;Nederlandse achtergrond;4.8;18.2
+2122;Ouderkerk;Met migratieachtergrond;0.2;20.9
+2123;Ouderkerk;Westerse migratieachtergrond;0.2;22.4
+2124;Ouderkerk;Niet-westerse migratieachtergrond;;
+2125;Jacobswoude;Totaal;7.0;18.7
+2126;Jacobswoude;Nederlandse achtergrond;6.6;18.7
+2127;Jacobswoude;Met migratieachtergrond;0.4;19.3
+2128;Jacobswoude;Westerse migratieachtergrond;0.3;19.7
+2129;Jacobswoude;Niet-westerse migratieachtergrond;;
+2130;Axel;Totaal;8.0;16.4
+2131;Axel;Nederlandse achtergrond;6.5;16.7
+2132;Axel;Met migratieachtergrond;1.5;15.0
+2133;Axel;Westerse migratieachtergrond;1.4;15.2
+2134;Axel;Niet-westerse migratieachtergrond;;
+2135;Gaasterlân-Sleat;Totaal;6.5;15.6
+2136;Gaasterlân-Sleat;Nederlandse achtergrond;6.2;15.6
+2137;Gaasterlân-Sleat;Met migratieachtergrond;0.2;15.5
+2138;Gaasterlân-Sleat;Westerse migratieachtergrond;0.2;16.0
+2139;Gaasterlân-Sleat;Niet-westerse migratieachtergrond;;
+2140;Borsele;Totaal;14.3;16.5
+2141;Borsele;Nederlandse achtergrond;13.4;16.5
+2142;Borsele;Met migratieachtergrond;0.8;16.1
+2143;Borsele;Westerse migratieachtergrond;0.7;16.5
+2144;Borsele;Niet-westerse migratieachtergrond;;
+2145;Goes;Totaal;24.7;16.4
+2146;Goes;Nederlandse achtergrond;22.1;16.6
+2147;Goes;Met migratieachtergrond;2.6;15.2
+2148;Goes;Westerse migratieachtergrond;1.7;16.6
+2149;Goes;Niet-westerse migratieachtergrond;0.8;12.3
+2150;West Maas en Waal;Totaal;12.1;16.7
+2151;West Maas en Waal;Nederlandse achtergrond;11.5;16.7
+2152;West Maas en Waal;Met migratieachtergrond;0.6;17.0
+2153;West Maas en Waal;Westerse migratieachtergrond;0.5;17.7
+2154;West Maas en Waal;Niet-westerse migratieachtergrond;;
+2155;Hontenisse;Totaal;5.4;16.5
+2156;Hontenisse;Nederlandse achtergrond;4.8;16.6
+2157;Hontenisse;Met migratieachtergrond;0.6;15.5
+2158;Hontenisse;Westerse migratieachtergrond;0.6;15.7
+2159;Hontenisse;Niet-westerse migratieachtergrond;;
+2160;Hulst;Totaal;12.6;16.5
+2161;Hulst;Nederlandse achtergrond;9.8;16.8
+2162;Hulst;Met migratieachtergrond;2.8;15.3
+2163;Hulst;Westerse migratieachtergrond;2.7;15.4
+2164;Hulst;Niet-westerse migratieachtergrond;;
+2165;Kapelle;Totaal;7.4;17.1
+2166;Kapelle;Nederlandse achtergrond;7.0;17.1
+2167;Kapelle;Met migratieachtergrond;0.4;17.5
+2168;Kapelle;Westerse migratieachtergrond;0.3;18.2
+2169;Kapelle;Niet-westerse migratieachtergrond;;
+2170;Wymbritseradiel;Totaal;9.9;16.6
+2171;Wymbritseradiel;Nederlandse achtergrond;9.6;16.6
+2172;Wymbritseradiel;Met migratieachtergrond;0.3;16.1
+2173;Wymbritseradiel;Westerse migratieachtergrond;0.3;16.2
+2174;Wymbritseradiel;Niet-westerse migratieachtergrond;;
+2175;Middelburg;Totaal;30.1;16.5
+2176;Middelburg;Nederlandse achtergrond;26.2;16.7
+2177;Middelburg;Met migratieachtergrond;3.9;15.3
+2178;Middelburg;Westerse migratieachtergrond;2.7;16.2
+2179;Middelburg;Niet-westerse migratieachtergrond;1.2;13.4
+2180;Giessenlanden;Totaal;9.0;18.4
+2181;Giessenlanden;Nederlandse achtergrond;8.7;18.3
+2182;Giessenlanden;Met migratieachtergrond;0.3;19.3
+2183;Giessenlanden;Westerse migratieachtergrond;0.3;19.9
+2184;Giessenlanden;Niet-westerse migratieachtergrond;;
+2185;Oostburg;Totaal;12.2;16.4
+2186;Oostburg;Nederlandse achtergrond;10.6;16.5
+2187;Oostburg;Met migratieachtergrond;1.6;15.5
+2188;Oostburg;Westerse migratieachtergrond;1.5;15.6
+2189;Oostburg;Niet-westerse migratieachtergrond;;
+2190;Graafstroom;Totaal;5.7;18.5
+2191;Graafstroom;Nederlandse achtergrond;5.6;18.5
+2192;Graafstroom;Met migratieachtergrond;;
+2193;Graafstroom;Westerse migratieachtergrond;;
+2194;Graafstroom;Niet-westerse migratieachtergrond;;
+2195;Liesveld;Totaal;5.8;17.6
+2196;Liesveld;Nederlandse achtergrond;5.5;17.6
+2197;Liesveld;Met migratieachtergrond;0.3;17.7
+2198;Liesveld;Westerse migratieachtergrond;0.2;18.6
+2199;Liesveld;Niet-westerse migratieachtergrond;;
+2200;Reimerswaal;Totaal;12.6;16.3
+2201;Reimerswaal;Nederlandse achtergrond;11.7;16.4
+2202;Reimerswaal;Met migratieachtergrond;0.9;15.3
+2203;Reimerswaal;Westerse migratieachtergrond;0.6;16.5
+2204;Reimerswaal;Niet-westerse migratieachtergrond;0.3;12.9
+2205;Sas van Gent;Totaal;5.6;16.4
+2206;Sas van Gent;Nederlandse achtergrond;4.2;16.7
+2207;Sas van Gent;Met migratieachtergrond;1.4;15.4
+2208;Sas van Gent;Westerse migratieachtergrond;1.3;15.6
+2209;Sas van Gent;Niet-westerse migratieachtergrond;;
+2210;Zederik;Totaal;8.4;17.3
+2211;Zederik;Nederlandse achtergrond;8.1;17.3
+2212;Zederik;Met migratieachtergrond;0.3;18.1
+2213;Zederik;Westerse migratieachtergrond;0.2;19.3
+2214;Zederik;Niet-westerse migratieachtergrond;;
+2215;Wûnseradiel;Totaal;7.4;15.8
+2216;Wûnseradiel;Nederlandse achtergrond;7.1;15.9
+2217;Wûnseradiel;Met migratieachtergrond;0.3;14.1
+2218;Wûnseradiel;Westerse migratieachtergrond;0.3;14.2
+2219;Wûnseradiel;Niet-westerse migratieachtergrond;;
+2220;Terneuzen;Totaal;22.7;16.9
+2221;Terneuzen;Nederlandse achtergrond;18.9;17.2
+2222;Terneuzen;Met migratieachtergrond;3.8;15.5
+2223;Terneuzen;Westerse migratieachtergrond;2.7;16.5
+2224;Terneuzen;Niet-westerse migratieachtergrond;1.1;13.2
+2225;Tholen;Totaal;14.5;16.1
+2226;Tholen;Nederlandse achtergrond;13.9;16.2
+2227;Tholen;Met migratieachtergrond;0.6;15.4
+2228;Tholen;Westerse migratieachtergrond;0.4;15.8
+2229;Tholen;Niet-westerse migratieachtergrond;;
+2230;Veere;Totaal;13.9;17.1
+2231;Veere;Nederlandse achtergrond;13.1;17.2
+2232;Veere;Met migratieachtergrond;0.8;15.5
+2233;Veere;Westerse migratieachtergrond;0.7;15.3
+2234;Veere;Niet-westerse migratieachtergrond;;
+2235;Vlissingen;Totaal;30.4;16.0
+2236;Vlissingen;Nederlandse achtergrond;25.3;16.3
+2237;Vlissingen;Met migratieachtergrond;5.1;14.7
+2238;Vlissingen;Westerse migratieachtergrond;3.4;15.5
+2239;Vlissingen;Niet-westerse migratieachtergrond;1.6;12.9
+2240;Lingewaal;Totaal;6.7;17.6
+2241;Lingewaal;Nederlandse achtergrond;6.3;17.6
+2242;Lingewaal;Met migratieachtergrond;0.4;17.8
+2243;Lingewaal;Westerse migratieachtergrond;0.3;19.5
+2244;Lingewaal;Niet-westerse migratieachtergrond;;
+2245;De Ronde Venen;Totaal;22.3;19.9
+2246;De Ronde Venen;Nederlandse achtergrond;20.1;19.9
+2247;De Ronde Venen;Met migratieachtergrond;2.2;19.9
+2248;De Ronde Venen;Westerse migratieachtergrond;1.5;21.2
+2249;De Ronde Venen;Niet-westerse migratieachtergrond;0.7;16.8
+2250;Tytsjerksteradiel;Totaal;20.2;16.3
+2251;Tytsjerksteradiel;Nederlandse achtergrond;19.5;16.3
+2252;Tytsjerksteradiel;Met migratieachtergrond;0.7;16.9
+2253;Tytsjerksteradiel;Westerse migratieachtergrond;0.6;17.7
+2254;Tytsjerksteradiel;Niet-westerse migratieachtergrond;;
+2255;Aalburg;Totaal;7.1;16.9
+2256;Aalburg;Nederlandse achtergrond;6.9;16.9
+2257;Aalburg;Met migratieachtergrond;;
+2258;Aalburg;Westerse migratieachtergrond;;
+2259;Aalburg;Niet-westerse migratieachtergrond;;
+2260;Asten;Totaal;10.5;17.1
+2261;Asten;Nederlandse achtergrond;9.9;17.1
+2262;Asten;Met migratieachtergrond;0.6;17.3
+2263;Asten;Westerse migratieachtergrond;0.4;18.6
+2264;Asten;Niet-westerse migratieachtergrond;;
+2265;Baarle-Nassau;Totaal;4.4;16.6
+2266;Baarle-Nassau;Nederlandse achtergrond;3.4;16.7
+2267;Baarle-Nassau;Met migratieachtergrond;1.1;16.2
+2268;Baarle-Nassau;Westerse migratieachtergrond;1.0;16.5
+2269;Baarle-Nassau;Niet-westerse migratieachtergrond;;
+2270;Bergen op Zoom;Totaal;43.7;16.5
+2271;Bergen op Zoom;Nederlandse achtergrond;36.8;16.7
+2272;Bergen op Zoom;Met migratieachtergrond;6.9;15.2
+2273;Bergen op Zoom;Westerse migratieachtergrond;3.8;16.6
+2274;Bergen op Zoom;Niet-westerse migratieachtergrond;3.1;13.5
+2275;Best;Totaal;17.9;18.0
+2276;Best;Nederlandse achtergrond;15.9;18.2
+2277;Best;Met migratieachtergrond;2.0;16.6
+2278;Best;Westerse migratieachtergrond;1.4;17.6
+2279;Best;Niet-westerse migratieachtergrond;0.6;14.2
+2280;Boekel;Totaal;6.1;15.8
+2281;Boekel;Nederlandse achtergrond;5.9;15.9
+2282;Boekel;Met migratieachtergrond;0.2;14.8
+2283;Boekel;Westerse migratieachtergrond;;
+2284;Boekel;Niet-westerse migratieachtergrond;;
+2285;Boxmeer;Totaal;19.5;16.7
+2286;Boxmeer;Nederlandse achtergrond;17.8;16.8
+2287;Boxmeer;Met migratieachtergrond;1.7;15.9
+2288;Boxmeer;Westerse migratieachtergrond;1.4;16.7
+2289;Boxmeer;Niet-westerse migratieachtergrond;0.4;13.0
+2290;Boxtel;Totaal;19.8;16.8
+2291;Boxtel;Nederlandse achtergrond;17.7;16.9
+2292;Boxtel;Met migratieachtergrond;2.1;15.3
+2293;Boxtel;Westerse migratieachtergrond;1.2;16.8
+2294;Boxtel;Niet-westerse migratieachtergrond;0.9;13.2
+2295;Breda;Totaal;110.1;17.3
+2296;Breda;Nederlandse achtergrond;92.0;17.6
+2297;Breda;Met migratieachtergrond;18.1;15.7
+2298;Breda;Westerse migratieachtergrond;11.1;17.2
+2299;Breda;Niet-westerse migratieachtergrond;7.0;13.4
+2300;Deurne;Totaal;21.0;16.8
+2301;Deurne;Nederlandse achtergrond;19.8;16.8
+2302;Deurne;Met migratieachtergrond;1.2;17.0
+2303;Deurne;Westerse migratieachtergrond;0.9;17.8
+2304;Deurne;Niet-westerse migratieachtergrond;0.3;14.5
+2305;Pekela;Totaal;8.9;14.1
+2306;Pekela;Nederlandse achtergrond;8.3;14.1
+2307;Pekela;Met migratieachtergrond;0.6;14.4
+2308;Pekela;Westerse migratieachtergrond;0.5;14.6
+2309;Pekela;Niet-westerse migratieachtergrond;;
+2310;Dongen;Totaal;16.7;16.5
+2311;Dongen;Nederlandse achtergrond;15.3;16.5
+2312;Dongen;Met migratieachtergrond;1.4;16.3
+2313;Dongen;Westerse migratieachtergrond;1.0;17.0
+2314;Dongen;Niet-westerse migratieachtergrond;0.5;14.8
+2315;Eersel;Totaal;11.9;17.8
+2316;Eersel;Nederlandse achtergrond;11.2;17.7
+2317;Eersel;Met migratieachtergrond;0.7;18.9
+2318;Eersel;Westerse migratieachtergrond;0.6;19.8
+2319;Eersel;Niet-westerse migratieachtergrond;;
+2320;Eindhoven;Totaal;140.9;16.6
+2321;Eindhoven;Nederlandse achtergrond;111.3;16.8
+2322;Eindhoven;Met migratieachtergrond;29.6;15.9
+2323;Eindhoven;Westerse migratieachtergrond;15.9;17.2
+2324;Eindhoven;Niet-westerse migratieachtergrond;13.7;14.3
+2325;Etten-Leur;Totaal;25.7;16.8
+2326;Etten-Leur;Nederlandse achtergrond;22.3;16.9
+2327;Etten-Leur;Met migratieachtergrond;3.4;15.9
+2328;Etten-Leur;Westerse migratieachtergrond;2.2;17.3
+2329;Etten-Leur;Niet-westerse migratieachtergrond;1.2;13.6
+2330;Geertruidenberg;Totaal;14.2;16.6
+2331;Geertruidenberg;Nederlandse achtergrond;13.2;16.6
+2332;Geertruidenberg;Met migratieachtergrond;1.1;16.8
+2333;Geertruidenberg;Westerse migratieachtergrond;0.8;17.2
+2334;Geertruidenberg;Niet-westerse migratieachtergrond;0.2;15.6
+2335;Geldrop;Totaal;18.9;17.6
+2336;Geldrop;Nederlandse achtergrond;16.4;17.6
+2337;Geldrop;Met migratieachtergrond;2.4;17.1
+2338;Geldrop;Westerse migratieachtergrond;1.7;18.0
+2339;Geldrop;Niet-westerse migratieachtergrond;0.8;15.3
+2340;Gilze en Rijen;Totaal;16.3;16.5
+2341;Gilze en Rijen;Nederlandse achtergrond;14.6;16.7
+2342;Gilze en Rijen;Met migratieachtergrond;1.7;14.7
+2343;Gilze en Rijen;Westerse migratieachtergrond;1.2;15.8
+2344;Gilze en Rijen;Niet-westerse migratieachtergrond;0.6;12.5
+2345;Goirle;Totaal;15.3;17.5
+2346;Goirle;Nederlandse achtergrond;13.8;17.6
+2347;Goirle;Met migratieachtergrond;1.5;16.6
+2348;Goirle;Westerse migratieachtergrond;1.2;17.0
+2349;Goirle;Niet-westerse migratieachtergrond;0.3;14.9
+2350;Grave;Totaal;8.4;15.9
+2351;Grave;Nederlandse achtergrond;7.6;15.9
+2352;Grave;Met migratieachtergrond;0.8;16.0
+2353;Grave;Westerse migratieachtergrond;0.7;16.5
+2354;Grave;Niet-westerse migratieachtergrond;;
+2355;Haaren;Totaal;9.3;17.5
+2356;Haaren;Nederlandse achtergrond;8.9;17.4
+2357;Haaren;Met migratieachtergrond;0.4;19.9
+2358;Haaren;Westerse migratieachtergrond;0.4;20.9
+2359;Haaren;Niet-westerse migratieachtergrond;;
+2360;Helmond;Totaal;55.2;15.9
+2361;Helmond;Nederlandse achtergrond;45.8;16.2
+2362;Helmond;Met migratieachtergrond;9.5;14.5
+2363;Helmond;Westerse migratieachtergrond;5.5;15.4
+2364;Helmond;Niet-westerse migratieachtergrond;4.0;13.3
+2365;'s-Hertogenbosch;Totaal;90.1;17.1
+2366;'s-Hertogenbosch;Nederlandse achtergrond;76.5;17.5
+2367;'s-Hertogenbosch;Met migratieachtergrond;13.7;15.3
+2368;'s-Hertogenbosch;Westerse migratieachtergrond;7.7;17.2
+2369;'s-Hertogenbosch;Niet-westerse migratieachtergrond;6.0;12.9
+2370;Heusden;Totaal;27.9;17.1
+2371;Heusden;Nederlandse achtergrond;25.2;17.2
+2372;Heusden;Met migratieachtergrond;2.7;15.3
+2373;Heusden;Westerse migratieachtergrond;1.5;17.0
+2374;Heusden;Niet-westerse migratieachtergrond;1.2;13.2
+2375;Hilvarenbeek;Totaal;9.8;17.4
+2376;Hilvarenbeek;Nederlandse achtergrond;9.3;17.4
+2377;Hilvarenbeek;Met migratieachtergrond;0.5;17.4
+2378;Hilvarenbeek;Westerse migratieachtergrond;0.5;17.5
+2379;Hilvarenbeek;Niet-westerse migratieachtergrond;;
+2380;Lith;Totaal;4.3;16.1
+2381;Lith;Nederlandse achtergrond;4.2;16.2
+2382;Lith;Met migratieachtergrond;;
+2383;Lith;Westerse migratieachtergrond;;
+2384;Lith;Niet-westerse migratieachtergrond;;
+2385;Loon op Zand;Totaal;15.6;16.7
+2386;Loon op Zand;Nederlandse achtergrond;14.6;16.6
+2387;Loon op Zand;Met migratieachtergrond;1.1;17.1
+2388;Loon op Zand;Westerse migratieachtergrond;0.7;17.9
+2389;Loon op Zand;Niet-westerse migratieachtergrond;0.3;15.3
+2390;Mierlo;Totaal;6.6;18.7
+2391;Mierlo;Nederlandse achtergrond;6.1;18.8
+2392;Mierlo;Met migratieachtergrond;0.5;17.6
+2393;Mierlo;Westerse migratieachtergrond;0.5;18.5
+2394;Mierlo;Niet-westerse migratieachtergrond;;
+2395;Mill en Sint Hubert;Totaal;7.3;15.7
+2396;Mill en Sint Hubert;Nederlandse achtergrond;7.0;15.7
+2397;Mill en Sint Hubert;Met migratieachtergrond;0.3;16.2
+2398;Mill en Sint Hubert;Westerse migratieachtergrond;0.3;15.1
+2399;Mill en Sint Hubert;Niet-westerse migratieachtergrond;;
+2400;Nuenen c.a.;Totaal;15.2;20.5
+2401;Nuenen c.a.;Nederlandse achtergrond;13.9;20.3
+2402;Nuenen c.a.;Met migratieachtergrond;1.3;22.4
+2403;Nuenen c.a.;Westerse migratieachtergrond;1.1;23.1
+2404;Nuenen c.a.;Niet-westerse migratieachtergrond;;
+2405;Oirschot;Totaal;11.9;17.6
+2406;Oirschot;Nederlandse achtergrond;11.3;17.6
+2407;Oirschot;Met migratieachtergrond;0.5;17.2
+2408;Oirschot;Westerse migratieachtergrond;0.5;17.6
+2409;Oirschot;Niet-westerse migratieachtergrond;;
+2410;Oisterwijk;Totaal;16.9;18.5
+2411;Oisterwijk;Nederlandse achtergrond;15.7;18.5
+2412;Oisterwijk;Met migratieachtergrond;1.2;18.1
+2413;Oisterwijk;Westerse migratieachtergrond;1.0;19.6
+2414;Oisterwijk;Niet-westerse migratieachtergrond;0.3;12.3
+2415;Oosterhout;Totaal;35.4;17.2
+2416;Oosterhout;Nederlandse achtergrond;30.7;17.3
+2417;Oosterhout;Met migratieachtergrond;4.7;16.2
+2418;Oosterhout;Westerse migratieachtergrond;2.9;17.7
+2419;Oosterhout;Niet-westerse migratieachtergrond;1.8;14.0
+2420;Oss;Totaal;44.7;16.5
+2421;Oss;Nederlandse achtergrond;38.1;16.8
+2422;Oss;Met migratieachtergrond;6.6;14.9
+2423;Oss;Westerse migratieachtergrond;3.6;16.4
+2424;Oss;Niet-westerse migratieachtergrond;2.9;13.1
+2425;Ravenstein;Totaal;5.5;16.9
+2426;Ravenstein;Nederlandse achtergrond;5.1;17.0
+2427;Ravenstein;Met migratieachtergrond;0.4;15.2
+2428;Ravenstein;Westerse migratieachtergrond;0.3;15.5
+2429;Ravenstein;Niet-westerse migratieachtergrond;;
+2430;Rucphen;Totaal;15.4;16.0
+2431;Rucphen;Nederlandse achtergrond;14.6;16.0
+2432;Rucphen;Met migratieachtergrond;0.8;15.3
+2433;Rucphen;Westerse migratieachtergrond;0.7;16.0
+2434;Rucphen;Niet-westerse migratieachtergrond;;
+2435;Schijndel;Totaal;15.7;16.5
+2436;Schijndel;Nederlandse achtergrond;14.8;16.7
+2437;Schijndel;Met migratieachtergrond;0.9;14.8
+2438;Schijndel;Westerse migratieachtergrond;0.7;15.6
+2439;Schijndel;Niet-westerse migratieachtergrond;0.2;12.6
+2440;Sint-Michielsgestel;Totaal;18.2;17.9
+2441;Sint-Michielsgestel;Nederlandse achtergrond;17.3;17.9
+2442;Sint-Michielsgestel;Met migratieachtergrond;0.9;19.1
+2443;Sint-Michielsgestel;Westerse migratieachtergrond;0.7;20.7
+2444;Sint-Michielsgestel;Niet-westerse migratieachtergrond;;
+2445;Sint-Oedenrode;Totaal;11.4;17.2
+2446;Sint-Oedenrode;Nederlandse achtergrond;10.7;17.2
+2447;Sint-Oedenrode;Met migratieachtergrond;0.7;17.0
+2448;Sint-Oedenrode;Westerse migratieachtergrond;0.4;17.8
+2449;Sint-Oedenrode;Niet-westerse migratieachtergrond;0.3;16.1
+2450;Someren;Totaal;11.8;16.5
+2451;Someren;Nederlandse achtergrond;11.3;16.5
+2452;Someren;Met migratieachtergrond;0.5;15.6
+2453;Someren;Westerse migratieachtergrond;0.4;15.7
+2454;Someren;Niet-westerse migratieachtergrond;;
+2455;Son en Breugel;Totaal;9.7;19.4
+2456;Son en Breugel;Nederlandse achtergrond;8.8;19.2
+2457;Son en Breugel;Met migratieachtergrond;0.9;21.1
+2458;Son en Breugel;Westerse migratieachtergrond;0.7;22.2
+2459;Son en Breugel;Niet-westerse migratieachtergrond;;
+2460;Steenbergen;Totaal;15.4;16.8
+2461;Steenbergen;Nederlandse achtergrond;14.5;16.8
+2462;Steenbergen;Met migratieachtergrond;0.9;16.1
+2463;Steenbergen;Westerse migratieachtergrond;0.7;17.1
+2464;Steenbergen;Niet-westerse migratieachtergrond;;
+2465;Waterland;Totaal;11.5;19.4
+2466;Waterland;Nederlandse achtergrond;10.6;19.4
+2467;Waterland;Met migratieachtergrond;1.0;19.5
+2468;Waterland;Westerse migratieachtergrond;0.8;20.0
+2469;Waterland;Niet-westerse migratieachtergrond;;
+2470;Tilburg;Totaal;133.9;15.7
+2471;Tilburg;Nederlandse achtergrond;111.3;16.0
+2472;Tilburg;Met migratieachtergrond;22.6;14.3
+2473;Tilburg;Westerse migratieachtergrond;11.0;15.8
+2474;Tilburg;Niet-westerse migratieachtergrond;11.6;13.0
+2475;Uden;Totaal;26.6;16.8
+2476;Uden;Nederlandse achtergrond;23.4;17.0
+2477;Uden;Met migratieachtergrond;3.2;15.1
+2478;Uden;Westerse migratieachtergrond;1.9;16.2
+2479;Uden;Niet-westerse migratieachtergrond;1.3;13.5
+2480;Valkenswaard;Totaal;20.8;17.1
+2481;Valkenswaard;Nederlandse achtergrond;18.3;17.2
+2482;Valkenswaard;Met migratieachtergrond;2.5;16.1
+2483;Valkenswaard;Westerse migratieachtergrond;2.2;16.4
+2484;Valkenswaard;Niet-westerse migratieachtergrond;0.3;13.8
+2485;Veghel;Totaal;23.9;17.0
+2486;Veghel;Nederlandse achtergrond;20.9;17.3
+2487;Veghel;Met migratieachtergrond;3.0;15.1
+2488;Veghel;Westerse migratieachtergrond;1.5;17.1
+2489;Veghel;Niet-westerse migratieachtergrond;1.4;12.9
+2490;Veldhoven;Totaal;28.6;17.5
+2491;Veldhoven;Nederlandse achtergrond;25.3;17.5
+2492;Veldhoven;Met migratieachtergrond;3.2;17.1
+2493;Veldhoven;Westerse migratieachtergrond;2.5;17.9
+2494;Veldhoven;Niet-westerse migratieachtergrond;0.7;14.0
+2495;Vught;Totaal;17.1;19.3
+2496;Vught;Nederlandse achtergrond;15.4;19.4
+2497;Vught;Met migratieachtergrond;1.8;18.0
+2498;Vught;Westerse migratieachtergrond;1.5;18.5
+2499;Vught;Niet-westerse migratieachtergrond;0.3;15.5
+2500;Waalre;Totaal;10.5;20.8
+2501;Waalre;Nederlandse achtergrond;9.3;20.9
+2502;Waalre;Met migratieachtergrond;1.2;20.5
+2503;Waalre;Westerse migratieachtergrond;0.9;21.6
+2504;Waalre;Niet-westerse migratieachtergrond;0.2;16.2
+2505;Waalwijk;Totaal;30.4;16.5
+2506;Waalwijk;Nederlandse achtergrond;27.1;16.7
+2507;Waalwijk;Met migratieachtergrond;3.4;14.6
+2508;Waalwijk;Westerse migratieachtergrond;2.0;15.7
+2509;Waalwijk;Niet-westerse migratieachtergrond;1.3;12.9
+2510;Werkendam;Totaal;16.3;17.4
+2511;Werkendam;Nederlandse achtergrond;15.7;17.4
+2512;Werkendam;Met migratieachtergrond;0.7;18.7
+2513;Werkendam;Westerse migratieachtergrond;0.5;19.5
+2514;Werkendam;Niet-westerse migratieachtergrond;;
+2515;Woensdrecht;Totaal;13.9;16.5
+2516;Woensdrecht;Nederlandse achtergrond;11.8;16.6
+2517;Woensdrecht;Met migratieachtergrond;2.1;15.8
+2518;Woensdrecht;Westerse migratieachtergrond;1.9;15.7
+2519;Woensdrecht;Niet-westerse migratieachtergrond;;
+2520;Woudrichem;Totaal;9.2;17.1
+2521;Woudrichem;Nederlandse achtergrond;8.8;17.1
+2522;Woudrichem;Met migratieachtergrond;0.4;16.5
+2523;Woudrichem;Westerse migratieachtergrond;0.3;17.2
+2524;Woudrichem;Niet-westerse migratieachtergrond;;
+2525;Zundert;Totaal;13.4;16.6
+2526;Zundert;Nederlandse achtergrond;12.0;16.7
+2527;Zundert;Met migratieachtergrond;1.4;15.7
+2528;Zundert;Westerse migratieachtergrond;1.3;15.9
+2529;Zundert;Niet-westerse migratieachtergrond;;
+2530;Wormerland;Totaal;10.3;17.7
+2531;Wormerland;Nederlandse achtergrond;9.4;17.8
+2532;Wormerland;Met migratieachtergrond;0.9;16.1
+2533;Wormerland;Westerse migratieachtergrond;0.7;16.6
+2534;Wormerland;Niet-westerse migratieachtergrond;0.3;15.0
+2535;Onderbanken;Totaal;5.5;16.1
+2536;Onderbanken;Nederlandse achtergrond;4.2;16.5
+2537;Onderbanken;Met migratieachtergrond;1.2;14.8
+2538;Onderbanken;Westerse migratieachtergrond;1.2;14.8
+2539;Onderbanken;Niet-westerse migratieachtergrond;;
+2540;Landgraaf;Totaal;26.5;15.4
+2541;Landgraaf;Nederlandse achtergrond;19.9;15.6
+2542;Landgraaf;Met migratieachtergrond;6.7;14.7
+2543;Landgraaf;Westerse migratieachtergrond;6.3;14.8
+2544;Landgraaf;Niet-westerse migratieachtergrond;0.4;12.7
+2545;Arcen en Velden;Totaal;5.9;16.6
+2546;Arcen en Velden;Nederlandse achtergrond;5.2;16.8
+2547;Arcen en Velden;Met migratieachtergrond;0.7;15.5
+2548;Arcen en Velden;Westerse migratieachtergrond;0.7;15.6
+2549;Arcen en Velden;Niet-westerse migratieachtergrond;;
+2550;Beek;Totaal;11.2;17.5
+2551;Beek;Nederlandse achtergrond;9.7;17.5
+2552;Beek;Met migratieachtergrond;1.5;17.4
+2553;Beek;Westerse migratieachtergrond;1.3;18.0
+2554;Beek;Niet-westerse migratieachtergrond;0.2;13.6
+2555;Beesel;Totaal;8.8;15.8
+2556;Beesel;Nederlandse achtergrond;7.5;16.0
+2557;Beesel;Met migratieachtergrond;1.2;14.3
+2558;Beesel;Westerse migratieachtergrond;1.0;14.6
+2559;Beesel;Niet-westerse migratieachtergrond;0.2;13.4
+2560;Bergen;Totaal;8.6;15.6
+2561;Bergen;Nederlandse achtergrond;7.1;15.6
+2562;Bergen;Met migratieachtergrond;1.5;15.8
+2563;Bergen;Westerse migratieachtergrond;1.4;15.9
+2564;Bergen;Niet-westerse migratieachtergrond;;
+2565;Brunssum;Totaal;20.3;15.1
+2566;Brunssum;Nederlandse achtergrond;15.1;15.3
+2567;Brunssum;Met migratieachtergrond;5.2;14.5
+2568;Brunssum;Westerse migratieachtergrond;4.8;14.7
+2569;Brunssum;Niet-westerse migratieachtergrond;0.5;13.2
+2570;Echt;Totaal;13.2;15.7
+2571;Echt;Nederlandse achtergrond;11.0;15.9
+2572;Echt;Met migratieachtergrond;2.2;14.7
+2573;Echt;Westerse migratieachtergrond;2.1;14.8
+2574;Echt;Niet-westerse migratieachtergrond;;
+2575;Eijsden;Totaal;7.9;17.0
+2576;Eijsden;Nederlandse achtergrond;6.9;17.1
+2577;Eijsden;Met migratieachtergrond;1.0;16.1
+2578;Eijsden;Westerse migratieachtergrond;1.0;16.1
+2579;Eijsden;Niet-westerse migratieachtergrond;;
+2580;Gennep;Totaal;11.7;15.9
+2581;Gennep;Nederlandse achtergrond;9.9;16.0
+2582;Gennep;Met migratieachtergrond;1.8;15.1
+2583;Gennep;Westerse migratieachtergrond;1.5;15.4
+2584;Gennep;Niet-westerse migratieachtergrond;0.3;13.4
+2585;Haelen;Totaal;6.7;17.0
+2586;Haelen;Nederlandse achtergrond;6.2;16.9
+2587;Haelen;Met migratieachtergrond;0.6;17.4
+2588;Haelen;Westerse migratieachtergrond;0.5;17.8
+2589;Haelen;Niet-westerse migratieachtergrond;;
+2590;Heerlen;Totaal;64.5;15.2
+2591;Heerlen;Nederlandse achtergrond;47.7;15.5
+2592;Heerlen;Met migratieachtergrond;16.8;14.3
+2593;Heerlen;Westerse migratieachtergrond;14.1;14.6
+2594;Heerlen;Niet-westerse migratieachtergrond;2.7;12.7
+2595;Helden;Totaal;13.0;15.9
+2596;Helden;Nederlandse achtergrond;11.9;16.0
+2597;Helden;Met migratieachtergrond;1.1;14.5
+2598;Helden;Westerse migratieachtergrond;0.7;15.8
+2599;Helden;Niet-westerse migratieachtergrond;0.4;12.4
+2600;Heythuysen;Totaal;8.0;16.8
+2601;Heythuysen;Nederlandse achtergrond;7.3;16.8
+2602;Heythuysen;Met migratieachtergrond;0.7;16.9
+2603;Heythuysen;Westerse migratieachtergrond;0.7;17.5
+2604;Heythuysen;Niet-westerse migratieachtergrond;;
+2605;Hunsel;Totaal;4.0;16.4
+2606;Hunsel;Nederlandse achtergrond;3.5;16.5
+2607;Hunsel;Met migratieachtergrond;0.4;15.4
+2608;Hunsel;Westerse migratieachtergrond;0.4;15.5
+2609;Hunsel;Niet-westerse migratieachtergrond;;
+2610;Kerkrade;Totaal;32.2;14.6
+2611;Kerkrade;Nederlandse achtergrond;23.0;14.9
+2612;Kerkrade;Met migratieachtergrond;9.2;14.0
+2613;Kerkrade;Westerse migratieachtergrond;8.6;14.1
+2614;Kerkrade;Niet-westerse migratieachtergrond;0.6;12.2
+2615;Kessel;Totaal;2.8;16.0
+2616;Kessel;Nederlandse achtergrond;2.6;16.2
+2617;Kessel;Met migratieachtergrond;;
+2618;Kessel;Westerse migratieachtergrond;;
+2619;Kessel;Niet-westerse migratieachtergrond;;
+2620;Maasbracht;Totaal;9.0;16.9
+2621;Maasbracht;Nederlandse achtergrond;7.9;17.1
+2622;Maasbracht;Met migratieachtergrond;1.2;15.1
+2623;Maasbracht;Westerse migratieachtergrond;1.1;15.4
+2624;Maasbracht;Niet-westerse migratieachtergrond;;
+2625;Maasbree;Totaal;8.4;16.3
+2626;Maasbree;Nederlandse achtergrond;7.7;16.3
+2627;Maasbree;Met migratieachtergrond;0.7;16.1
+2628;Maasbree;Westerse migratieachtergrond;0.6;16.4
+2629;Maasbree;Niet-westerse migratieachtergrond;;
+2630;Maastricht;Totaal;83.2;15.5
+2631;Maastricht;Nederlandse achtergrond;68.4;15.6
+2632;Maastricht;Met migratieachtergrond;14.8;14.9
+2633;Maastricht;Westerse migratieachtergrond;11.6;15.7
+2634;Maastricht;Niet-westerse migratieachtergrond;3.2;12.2
+2635;Margraten;Totaal;8.7;17.7
+2636;Margraten;Nederlandse achtergrond;7.8;17.8
+2637;Margraten;Met migratieachtergrond;0.9;16.7
+2638;Margraten;Westerse migratieachtergrond;0.8;16.9
+2639;Margraten;Niet-westerse migratieachtergrond;;
+2640;Meerssen;Totaal;13.5;17.6
+2641;Meerssen;Nederlandse achtergrond;12.1;17.5
+2642;Meerssen;Met migratieachtergrond;1.4;17.7
+2643;Meerssen;Westerse migratieachtergrond;1.3;18.0
+2644;Meerssen;Niet-westerse migratieachtergrond;;
+2645;Meijel;Totaal;3.9;15.6
+2646;Meijel;Nederlandse achtergrond;3.8;15.6
+2647;Meijel;Met migratieachtergrond;;
+2648;Meijel;Westerse migratieachtergrond;;
+2649;Meijel;Niet-westerse migratieachtergrond;;
+2650;Mook en Middelaar;Totaal;5.3;19.5
+2651;Mook en Middelaar;Nederlandse achtergrond;4.7;19.4
+2652;Mook en Middelaar;Met migratieachtergrond;0.6;20.3
+2653;Mook en Middelaar;Westerse migratieachtergrond;0.5;20.8
+2654;Mook en Middelaar;Niet-westerse migratieachtergrond;;
+2655;Nederweert;Totaal;10.7;16.5
+2656;Nederweert;Nederlandse achtergrond;10.1;16.5
+2657;Nederweert;Met migratieachtergrond;0.6;16.7
+2658;Nederweert;Westerse migratieachtergrond;0.5;16.6
+2659;Nederweert;Niet-westerse migratieachtergrond;;
+2660;Nuth;Totaal;11.2;16.8
+2661;Nuth;Nederlandse achtergrond;9.6;16.9
+2662;Nuth;Met migratieachtergrond;1.6;16.2
+2663;Nuth;Westerse migratieachtergrond;1.5;16.6
+2664;Nuth;Niet-westerse migratieachtergrond;;
+2665;Roermond;Totaal;30.0;15.9
+2666;Roermond;Nederlandse achtergrond;23.1;16.4
+2667;Roermond;Met migratieachtergrond;6.9;14.2
+2668;Roermond;Westerse migratieachtergrond;4.4;15.0
+2669;Roermond;Niet-westerse migratieachtergrond;2.5;12.8
+2670;Schinnen;Totaal;9.0;17.2
+2671;Schinnen;Nederlandse achtergrond;7.5;17.4
+2672;Schinnen;Met migratieachtergrond;1.5;16.5
+2673;Schinnen;Westerse migratieachtergrond;1.4;16.5
+2674;Schinnen;Niet-westerse migratieachtergrond;;
+2675;Sevenum;Totaal;4.9;16.3
+2676;Sevenum;Nederlandse achtergrond;4.7;16.5
+2677;Sevenum;Met migratieachtergrond;0.3;14.0
+2678;Sevenum;Westerse migratieachtergrond;0.2;14.3
+2679;Sevenum;Niet-westerse migratieachtergrond;;
+2680;Simpelveld;Totaal;7.2;15.8
+2681;Simpelveld;Nederlandse achtergrond;5.9;15.8
+2682;Simpelveld;Met migratieachtergrond;1.2;16.0
+2683;Simpelveld;Westerse migratieachtergrond;1.2;15.8
+2684;Simpelveld;Niet-westerse migratieachtergrond;;
+2685;Stein;Totaal;17.7;16.2
+2686;Stein;Nederlandse achtergrond;15.2;16.4
+2687;Stein;Met migratieachtergrond;2.5;15.5
+2688;Stein;Westerse migratieachtergrond;2.2;15.6
+2689;Stein;Niet-westerse migratieachtergrond;0.3;14.3
+2690;Susteren;Totaal;8.8;16.3
+2691;Susteren;Nederlandse achtergrond;7.3;16.4
+2692;Susteren;Met migratieachtergrond;1.5;15.7
+2693;Susteren;Westerse migratieachtergrond;1.4;16.0
+2694;Susteren;Niet-westerse migratieachtergrond;;
+2695;Swalmen;Totaal;5.8;15.6
+2696;Swalmen;Nederlandse achtergrond;4.9;15.9
+2697;Swalmen;Met migratieachtergrond;0.8;13.9
+2698;Swalmen;Westerse migratieachtergrond;0.8;14.0
+2699;Swalmen;Niet-westerse migratieachtergrond;;
+2700;Thorn;Totaal;1.8;16.4
+2701;Thorn;Nederlandse achtergrond;1.6;16.8
+2702;Thorn;Met migratieachtergrond;0.2;13.9
+2703;Thorn;Westerse migratieachtergrond;0.2;13.9
+2704;Thorn;Niet-westerse migratieachtergrond;;
+2705;Vaals;Totaal;5.4;14.8
+2706;Vaals;Nederlandse achtergrond;3.4;14.8
+2707;Vaals;Met migratieachtergrond;2.0;14.7
+2708;Vaals;Westerse migratieachtergrond;1.9;14.8
+2709;Vaals;Niet-westerse migratieachtergrond;;
+2710;Venlo;Totaal;61.1;15.4
+2711;Venlo;Nederlandse achtergrond;48.2;15.8
+2712;Venlo;Met migratieachtergrond;12.9;13.9
+2713;Venlo;Westerse migratieachtergrond;8.9;14.6
+2714;Venlo;Niet-westerse migratieachtergrond;4.0;12.3
+2715;Venray;Totaal;25.7;16.2
+2716;Venray;Nederlandse achtergrond;21.8;16.4
+2717;Venray;Met migratieachtergrond;3.9;14.6
+2718;Venray;Westerse migratieachtergrond;2.3;15.6
+2719;Venray;Niet-westerse migratieachtergrond;1.6;13.2
+2720;Voerendaal;Totaal;8.6;17.7
+2721;Voerendaal;Nederlandse achtergrond;7.5;17.7
+2722;Voerendaal;Met migratieachtergrond;1.2;17.6
+2723;Voerendaal;Westerse migratieachtergrond;1.1;17.8
+2724;Voerendaal;Niet-westerse migratieachtergrond;;
+2725;Weert;Totaal;32.6;16.6
+2726;Weert;Nederlandse achtergrond;27.5;16.9
+2727;Weert;Met migratieachtergrond;5.1;15.2
+2728;Weert;Westerse migratieachtergrond;3.4;16.1
+2729;Weert;Niet-westerse migratieachtergrond;1.8;13.6
+2730;Meerlo-Wanssum;Totaal;5.1;16.2
+2731;Meerlo-Wanssum;Nederlandse achtergrond;4.7;16.1
+2732;Meerlo-Wanssum;Met migratieachtergrond;0.4;16.7
+2733;Meerlo-Wanssum;Westerse migratieachtergrond;0.3;17.5
+2734;Meerlo-Wanssum;Niet-westerse migratieachtergrond;;
+2735;Valkenburg aan de Geul;Totaal;12.2;16.4
+2736;Valkenburg aan de Geul;Nederlandse achtergrond;10.6;16.6
+2737;Valkenburg aan de Geul;Met migratieachtergrond;1.6;15.2
+2738;Valkenburg aan de Geul;Westerse migratieachtergrond;1.4;15.6
+2739;Valkenburg aan de Geul;Niet-westerse migratieachtergrond;;
+2740;Lelystad;Totaal;42.7;16.1
+2741;Lelystad;Nederlandse achtergrond;34.1;16.4
+2742;Lelystad;Met migratieachtergrond;8.6;15.0
+2743;Lelystad;Westerse migratieachtergrond;3.7;16.2
+2744;Lelystad;Niet-westerse migratieachtergrond;4.9;14.1
+2745;Horst aan de Maas;Totaal;19.1;16.4
+2746;Horst aan de Maas;Nederlandse achtergrond;17.7;16.5
+2747;Horst aan de Maas;Met migratieachtergrond;1.4;15.4
+2748;Horst aan de Maas;Westerse migratieachtergrond;1.2;16.0
+2749;Horst aan de Maas;Niet-westerse migratieachtergrond;0.2;12.5
+2750;Eemsmond;Totaal;10.7;15.1
+2751;Eemsmond;Nederlandse achtergrond;10.3;15.2
+2752;Eemsmond;Met migratieachtergrond;0.5;14.2
+2753;Eemsmond;Westerse migratieachtergrond;0.4;14.5
+2754;Eemsmond;Niet-westerse migratieachtergrond;;
+2755;Gemert-Bakel;Totaal;18.2;16.0
+2756;Gemert-Bakel;Nederlandse achtergrond;17.0;16.0
+2757;Gemert-Bakel;Met migratieachtergrond;1.2;15.4
+2758;Gemert-Bakel;Westerse migratieachtergrond;1.0;15.4
+2759;Gemert-Bakel;Niet-westerse migratieachtergrond;0.2;15.4
+2760;Halderberge;Totaal;19.7;17.1
+2761;Halderberge;Nederlandse achtergrond;18.0;17.1
+2762;Halderberge;Met migratieachtergrond;1.7;16.2
+2763;Halderberge;Westerse migratieachtergrond;0.9;18.0
+2764;Halderberge;Niet-westerse migratieachtergrond;0.8;14.1
+2765;Heeze-Leende;Totaal;10.1;18.8
+2766;Heeze-Leende;Nederlandse achtergrond;9.4;18.8
+2767;Heeze-Leende;Met migratieachtergrond;0.7;19.4
+2768;Heeze-Leende;Westerse migratieachtergrond;0.6;19.9
+2769;Heeze-Leende;Niet-westerse migratieachtergrond;;
+2770;Laarbeek;Totaal;14.1;16.9
+2771;Laarbeek;Nederlandse achtergrond;13.3;16.9
+2772;Laarbeek;Met migratieachtergrond;0.8;15.9
+2773;Laarbeek;Westerse migratieachtergrond;0.7;16.6
+2774;Laarbeek;Niet-westerse migratieachtergrond;;
+2775;Reiderland;Totaal;4.8;13.9
+2776;Reiderland;Nederlandse achtergrond;4.2;13.9
+2777;Reiderland;Met migratieachtergrond;0.6;13.8
+2778;Reiderland;Westerse migratieachtergrond;0.6;14.0
+2779;Reiderland;Niet-westerse migratieachtergrond;;
+2780;De Marne;Totaal;7.3;15.6
+2781;De Marne;Nederlandse achtergrond;6.9;15.6
+2782;De Marne;Met migratieachtergrond;0.3;15.6
+2783;De Marne;Westerse migratieachtergrond;0.3;16.3
+2784;De Marne;Niet-westerse migratieachtergrond;;
+2785;Zevenhuizen-Moerkapelle;Totaal;6.4;17.8
+2786;Zevenhuizen-Moerkapelle;Nederlandse achtergrond;6.1;17.7
+2787;Zevenhuizen-Moerkapelle;Met migratieachtergrond;0.4;19.7
+2788;Zevenhuizen-Moerkapelle;Westerse migratieachtergrond;0.2;22.6
+2789;Zevenhuizen-Moerkapelle;Niet-westerse migratieachtergrond;;
+2790;Reusel-De Mierden;Totaal;8.2;16.2
+2791;Reusel-De Mierden;Nederlandse achtergrond;7.6;16.4
+2792;Reusel-De Mierden;Met migratieachtergrond;0.6;14.3
+2793;Reusel-De Mierden;Westerse migratieachtergrond;0.5;14.5
+2794;Reusel-De Mierden;Niet-westerse migratieachtergrond;;
+2795;Roerdalen;Totaal;6.8;16.4
+2796;Roerdalen;Nederlandse achtergrond;5.7;16.9
+2797;Roerdalen;Met migratieachtergrond;1.1;14.2
+2798;Roerdalen;Westerse migratieachtergrond;1.1;14.2
+2799;Roerdalen;Niet-westerse migratieachtergrond;;
+2800;Roggel en Neer;Totaal;5.5;16.9
+2801;Roggel en Neer;Nederlandse achtergrond;5.1;17.0
+2802;Roggel en Neer;Met migratieachtergrond;0.3;15.5
+2803;Roggel en Neer;Westerse migratieachtergrond;0.3;15.8
+2804;Roggel en Neer;Niet-westerse migratieachtergrond;;
+2805;Maasdonk;Totaal;7.2;17.5
+2806;Maasdonk;Nederlandse achtergrond;7.0;17.3
+2807;Maasdonk;Met migratieachtergrond;0.2;21.6
+2808;Maasdonk;Westerse migratieachtergrond;;
+2809;Maasdonk;Niet-westerse migratieachtergrond;;
+2810;Rijnwoude;Totaal;12.3;18.3
+2811;Rijnwoude;Nederlandse achtergrond;11.6;18.3
+2812;Rijnwoude;Met migratieachtergrond;0.7;19.5
+2813;Rijnwoude;Westerse migratieachtergrond;0.6;21.4
+2814;Rijnwoude;Niet-westerse migratieachtergrond;;
+2815;Liemeer;Totaal;4.5;17.1
+2816;Liemeer;Nederlandse achtergrond;4.2;17.1
+2817;Liemeer;Met migratieachtergrond;0.3;16.6
+2818;Liemeer;Westerse migratieachtergrond;0.2;16.3
+2819;Liemeer;Niet-westerse migratieachtergrond;;
+2820;Roosendaal;Totaal;51.0;16.8
+2821;Roosendaal;Nederlandse achtergrond;42.9;17.2
+2822;Roosendaal;Met migratieachtergrond;8.0;14.7
+2823;Roosendaal;Westerse migratieachtergrond;4.4;16.3
+2824;Roosendaal;Niet-westerse migratieachtergrond;3.6;12.7
+2825;Schouwen-Duiveland;Totaal;23.2;17.0
+2826;Schouwen-Duiveland;Nederlandse achtergrond;21.7;17.0
+2827;Schouwen-Duiveland;Met migratieachtergrond;1.5;17.0
+2828;Schouwen-Duiveland;Westerse migratieachtergrond;1.2;17.6
+2829;Schouwen-Duiveland;Niet-westerse migratieachtergrond;0.3;14.1
+2830;Ambt Montfort;Totaal;7.2;16.2
+2831;Ambt Montfort;Nederlandse achtergrond;6.3;16.3
+2832;Ambt Montfort;Met migratieachtergrond;0.9;15.1
+2833;Ambt Montfort;Westerse migratieachtergrond;0.8;15.1
+2834;Ambt Montfort;Niet-westerse migratieachtergrond;;
+2835;Aa en Hunze;Totaal;17.0;16.7
+2836;Aa en Hunze;Nederlandse achtergrond;16.3;16.7
+2837;Aa en Hunze;Met migratieachtergrond;0.7;17.5
+2838;Aa en Hunze;Westerse migratieachtergrond;0.6;18.4
+2839;Aa en Hunze;Niet-westerse migratieachtergrond;;
+2840;Borger-Odoorn;Totaal;17.2;15.6
+2841;Borger-Odoorn;Nederlandse achtergrond;16.5;15.6
+2842;Borger-Odoorn;Met migratieachtergrond;0.7;15.4
+2843;Borger-Odoorn;Westerse migratieachtergrond;0.6;15.8
+2844;Borger-Odoorn;Niet-westerse migratieachtergrond;;
+2845;Cuijk;Totaal;16.3;15.9
+2846;Cuijk;Nederlandse achtergrond;13.7;16.2
+2847;Cuijk;Met migratieachtergrond;2.7;14.2
+2848;Cuijk;Westerse migratieachtergrond;1.7;14.9
+2849;Cuijk;Niet-westerse migratieachtergrond;0.9;13.0
+2850;Landerd;Totaal;9.7;16.6
+2851;Landerd;Nederlandse achtergrond;9.2;16.7
+2852;Landerd;Met migratieachtergrond;0.4;15.7
+2853;Landerd;Westerse migratieachtergrond;0.4;16.0
+2854;Landerd;Niet-westerse migratieachtergrond;;
+2855;De Wolden;Totaal;15.6;16.3
+2856;De Wolden;Nederlandse achtergrond;15.2;16.3
+2857;De Wolden;Met migratieachtergrond;0.5;15.6
+2858;De Wolden;Westerse migratieachtergrond;0.4;15.1
+2859;De Wolden;Niet-westerse migratieachtergrond;;
+2860;Noord-Beveland;Totaal;4.9;16.4
+2861;Noord-Beveland;Nederlandse achtergrond;4.6;16.5
+2862;Noord-Beveland;Met migratieachtergrond;0.3;15.6
+2863;Noord-Beveland;Westerse migratieachtergrond;0.3;15.3
+2864;Noord-Beveland;Niet-westerse migratieachtergrond;;
+2865;Wijdemeren;Totaal;15.8;19.5
+2866;Wijdemeren;Nederlandse achtergrond;14.2;19.3
+2867;Wijdemeren;Met migratieachtergrond;1.5;21.0
+2868;Wijdemeren;Westerse migratieachtergrond;1.3;21.8
+2869;Wijdemeren;Niet-westerse migratieachtergrond;0.3;17.0
+2870;Noordenveld;Totaal;20.8;17.3
+2871;Noordenveld;Nederlandse achtergrond;19.7;17.3
+2872;Noordenveld;Met migratieachtergrond;1.1;18.2
+2873;Noordenveld;Westerse migratieachtergrond;0.9;18.5
+2874;Noordenveld;Niet-westerse migratieachtergrond;;
+2875;Sluis-Aardenburg;Totaal;4.4;15.7
+2876;Sluis-Aardenburg;Nederlandse achtergrond;3.1;16.1
+2877;Sluis-Aardenburg;Met migratieachtergrond;1.3;14.7
+2878;Sluis-Aardenburg;Westerse migratieachtergrond;1.2;14.7
+2879;Sluis-Aardenburg;Niet-westerse migratieachtergrond;;
+2880;Westerveld;Totaal;12.7;16.8
+2881;Westerveld;Nederlandse achtergrond;12.3;16.6
+2882;Westerveld;Met migratieachtergrond;0.5;22.1
+2883;Westerveld;Westerse migratieachtergrond;0.4;23.1
+2884;Westerveld;Niet-westerse migratieachtergrond;;
+2885;Sint Anthonis;Totaal;7.7;16.6
+2886;Sint Anthonis;Nederlandse achtergrond;7.5;16.7
+2887;Sint Anthonis;Met migratieachtergrond;0.2;12.0
+2888;Sint Anthonis;Westerse migratieachtergrond;;
+2889;Sint Anthonis;Niet-westerse migratieachtergrond;;
+2890;Cranendonck;Totaal;13.3;17.3
+2891;Cranendonck;Nederlandse achtergrond;11.4;17.5
+2892;Cranendonck;Met migratieachtergrond;1.9;15.8
+2893;Cranendonck;Westerse migratieachtergrond;1.7;15.9
+2894;Cranendonck;Niet-westerse migratieachtergrond;0.2;15.3
+2895;Moerdijk;Totaal;23.8;17.2
+2896;Moerdijk;Nederlandse achtergrond;22.0;17.2
+2897;Moerdijk;Met migratieachtergrond;1.7;16.8
+2898;Moerdijk;Westerse migratieachtergrond;1.2;18.2
+2899;Moerdijk;Niet-westerse migratieachtergrond;0.5;13.8
+2900;Drimmelen;Totaal;17.6;17.2
+2901;Drimmelen;Nederlandse achtergrond;16.6;17.2
+2902;Drimmelen;Met migratieachtergrond;1.0;17.5
+2903;Drimmelen;Westerse migratieachtergrond;0.8;17.9
+2904;Drimmelen;Niet-westerse migratieachtergrond;;
+2905;Bernheze;Totaal;18.6;17.3
+2906;Bernheze;Nederlandse achtergrond;17.7;17.3
+2907;Bernheze;Met migratieachtergrond;1.0;17.1
+2908;Bernheze;Westerse migratieachtergrond;0.7;18.2
+2909;Bernheze;Niet-westerse migratieachtergrond;0.2;13.3
+2910;Ferwerderadiel;Totaal;5.7;14.8
+2911;Ferwerderadiel;Nederlandse achtergrond;5.5;14.8
+2912;Ferwerderadiel;Met migratieachtergrond;0.2;14.4
+2913;Ferwerderadiel;Westerse migratieachtergrond;;
+2914;Ferwerderadiel;Niet-westerse migratieachtergrond;;
+2915;Alphen-Chaam;Totaal;6.2;17.0
+2916;Alphen-Chaam;Nederlandse achtergrond;5.5;17.1
+2917;Alphen-Chaam;Met migratieachtergrond;0.7;16.4
+2918;Alphen-Chaam;Westerse migratieachtergrond;0.7;16.4
+2919;Alphen-Chaam;Niet-westerse migratieachtergrond;;
+2920;Bergeijk;Totaal;11.7;17.6
+2921;Bergeijk;Nederlandse achtergrond;10.8;17.7
+2922;Bergeijk;Met migratieachtergrond;1.0;15.8
+2923;Bergeijk;Westerse migratieachtergrond;0.9;16.1
+2924;Bergeijk;Niet-westerse migratieachtergrond;;
+2925;Bladel;Totaal;12.5;16.9
+2926;Bladel;Nederlandse achtergrond;11.6;16.9
+2927;Bladel;Met migratieachtergrond;0.9;16.5
+2928;Bladel;Westerse migratieachtergrond;0.8;16.9
+2929;Bladel;Niet-westerse migratieachtergrond;;
+2930;Gulpen-Wittem;Totaal;10.1;16.6
+2931;Gulpen-Wittem;Nederlandse achtergrond;8.8;16.8
+2932;Gulpen-Wittem;Met migratieachtergrond;1.3;15.5
+2933;Gulpen-Wittem;Westerse migratieachtergrond;1.2;15.7
+2934;Gulpen-Wittem;Niet-westerse migratieachtergrond;;
+2935;Tynaarlo;Totaal;21.3;17.9
+2936;Tynaarlo;Nederlandse achtergrond;20.1;17.9
+2937;Tynaarlo;Met migratieachtergrond;1.2;18.5
+2938;Tynaarlo;Westerse migratieachtergrond;1.0;18.9
+2939;Tynaarlo;Niet-westerse migratieachtergrond;;
+2940;Midden-Drenthe;Totaal;21.7;15.5
+2941;Midden-Drenthe;Nederlandse achtergrond;20.7;15.5
+2942;Midden-Drenthe;Met migratieachtergrond;1.0;16.3
+2943;Midden-Drenthe;Westerse migratieachtergrond;0.9;17.0
+2944;Midden-Drenthe;Niet-westerse migratieachtergrond;;
+2945;Overbetuwe;Totaal;26.2;17.2
+2946;Overbetuwe;Nederlandse achtergrond;23.7;17.3
+2947;Overbetuwe;Met migratieachtergrond;2.4;16.3
+2948;Overbetuwe;Westerse migratieachtergrond;2.1;16.9
+2949;Overbetuwe;Niet-westerse migratieachtergrond;0.4;12.9
+2950;Hof van Twente;Totaal;23.6;16.7
+2951;Hof van Twente;Nederlandse achtergrond;21.9;16.6
+2952;Hof van Twente;Met migratieachtergrond;1.6;17.3
+2953;Hof van Twente;Westerse migratieachtergrond;1.3;18.3
+2954;Hof van Twente;Niet-westerse migratieachtergrond;0.4;14.0
+2955;Sittard-Geleen;Totaal;65.4;16.4
+2956;Sittard-Geleen;Nederlandse achtergrond;51.9;16.7
+2957;Sittard-Geleen;Met migratieachtergrond;13.5;15.5
+2958;Sittard-Geleen;Westerse migratieachtergrond;11.3;15.9
+2959;Sittard-Geleen;Niet-westerse migratieachtergrond;2.1;13.3
+2960;Zwartewaterland;Totaal;13.0;16.7
+2961;Zwartewaterland;Nederlandse achtergrond;12.5;16.7
+2962;Zwartewaterland;Met migratieachtergrond;0.4;16.3
+2963;Zwartewaterland;Westerse migratieachtergrond;0.3;16.5
+2964;Zwartewaterland;Niet-westerse migratieachtergrond;;
+2965;Leidschendam-Voorburg;Totaal;51.5;19.4
+2966;Leidschendam-Voorburg;Nederlandse achtergrond;41.1;19.5
+2967;Leidschendam-Voorburg;Met migratieachtergrond;10.4;18.8
+2968;Leidschendam-Voorburg;Westerse migratieachtergrond;6.6;20.7
+2969;Leidschendam-Voorburg;Niet-westerse migratieachtergrond;3.8;15.6
+2970;Pijnacker-Nootdorp;Totaal;22.1;19.2
+2971;Pijnacker-Nootdorp;Nederlandse achtergrond;19.8;19.2
+2972;Pijnacker-Nootdorp;Met migratieachtergrond;2.2;19.3
+2973;Pijnacker-Nootdorp;Westerse migratieachtergrond;1.3;20.7
+2974;Pijnacker-Nootdorp;Niet-westerse migratieachtergrond;0.9;17.3
+2975;Heel;Totaal;5.8;16.2
+2976;Heel;Nederlandse achtergrond;5.1;16.3
+2977;Heel;Met migratieachtergrond;0.6;15.2
+2978;Heel;Westerse migratieachtergrond;0.6;15.2
+2979;Heel;Niet-westerse migratieachtergrond;;
+2980;Menterwolde;Totaal;8.2;14.8
+2981;Menterwolde;Nederlandse achtergrond;7.8;14.7
+2982;Menterwolde;Met migratieachtergrond;0.4;16.2
+2983;Menterwolde;Westerse migratieachtergrond;0.3;15.7
+2984;Menterwolde;Niet-westerse migratieachtergrond;;

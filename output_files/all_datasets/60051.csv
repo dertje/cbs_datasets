@@ -1,0 +1,92 @@
+﻿ID;Functies;Perioden;TotaalVerstrekt_1;VerstrektAanBedrijven_2;VerstrektAanGezinnen_3;VerstrektAanOverheid_4;VerstrektAanOverigeInstellingen_5;TotaleAflossing_6;AflossingBedrijven_7;AflossingGezinnen_8;AflossingOverheid_9;AflossingOverigeInstellingen_10;TotaalAandelenDeelnemingen_11;AandelenDeelnemingenInNederland_12;AandelenDeelnemingenInBuitenland_13;TotaalLiquidatieAandelenDeelnemingen_14;LiquidatieDeelnemingenInNederland_15;LiquidatieDeelnemingenInBuitenland_16;OpbrengstObligaties_17;AflossingObligaties_18;OpbrengstLanglopendeLeningen_19;AflossingLanglopendeLeningen_20
+0;Totaal van alle functies;1999;1191;163;659;37;332;1487;594;222;92;580;451;144;307;1509;1509;0;53815;31762;0;22490
+1;Totaal van alle functies;2000;1527;161;829;220;316;970;347;230;63;330;338;78;260;311;310;1;18295;24436;-22;5948
+2;Totaal van alle functies;2001;1945;96;933;655;262;1221;304;519;58;340;2764;2755;10;915;914;1;19854;16770;0;2772
+3;Totaal van alle functies;2002;2373;108;884;1018;364;1434;234;870;35;295;311;301;10;252;251;1;23001;25002;-3;573
+4;Totaal van alle functies;2003;2050;86;980;626;358;1842;639;668;114;421;48;39;9;2027;2026;1;34224;23718;6;241
+5;Totaal van alle functies;2004;2015;74;1066;343;533;1787;275;801;205;507;17;7;10;1292;1291;1;33579;18761;0;145
+6;Totaal van alle functies;2005;2881;37;1971;415;458;1429;127;953;127;222;2832;2824;8;3697;3697;0;32156;26952;0;126
+7;Algemeen bestuur;1999;55;0;0;55;0;94;0;0;63;30;307;0;307;113;112;0;0;0;0;0
+8;Algemeen bestuur;2000;121;0;0;45;75;88;0;0;55;33;260;0;260;303;303;1;0;0;0;0
+9;Algemeen bestuur;2001;20;0;0;20;0;109;0;0;51;58;10;0;10;2;1;1;0;0;0;0
+10;Algemeen bestuur;2002;23;0;0;23;0;95;0;0;28;67;10;0;10;2;2;1;0;0;0;0
+11;Algemeen bestuur;2003;50;0;0;50;0;85;0;0;23;62;9;0;9;1;0;1;0;0;0;0
+12;Algemeen bestuur;2004;0;0;0;0;0;87;0;0;50;38;10;0;10;1;0;1;0;0;0;0
+13;Algemeen bestuur;2005;0;0;0;0;0;25;0;0;0;24;8;0;8;0;0;0;0;0;0;0
+14;Landsverdediging;1999;394;71;0;0;322;586;44;0;0;542;0;0;0;0;0;0;0;0;0;0
+15;Landsverdediging;2000;250;78;0;0;172;305;37;0;0;268;0;0;0;0;0;0;0;0;0;0
+16;Landsverdediging;2001;229;37;0;0;192;374;92;0;0;282;0;0;0;0;0;0;0;0;0;0
+17;Landsverdediging;2002;366;25;0;0;341;339;111;0;0;228;0;0;0;0;0;0;0;0;0;0
+18;Landsverdediging;2003;366;44;0;0;321;406;51;0;0;355;0;0;0;0;0;0;0;0;0;0
+19;Landsverdediging;2004;542;32;0;0;509;486;18;0;0;468;0;0;0;0;0;0;0;0;0;0
+20;Landsverdediging;2005;449;21;0;0;427;208;12;0;0;196;0;0;0;0;0;0;0;0;0;0
+21;Openbare orde en veiligheid;1999;0;0;0;0;0;0;0;0;0;0;3;3;0;0;0;0;0;0;0;0
+22;Openbare orde en veiligheid;2000;0;0;0;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0
+23;Openbare orde en veiligheid;2001;0;0;0;0;0;1;0;1;0;0;7;7;0;0;0;0;0;0;0;0
+24;Openbare orde en veiligheid;2002;0;0;0;0;0;1;0;1;0;0;0;0;0;1;1;0;0;0;0;0
+25;Openbare orde en veiligheid;2003;0;0;0;0;0;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0
+26;Openbare orde en veiligheid;2004;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+27;Openbare orde en veiligheid;2005;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+28;Onderwijs;1999;659;0;659;0;0;221;0;221;0;0;0;0;0;0;0;0;0;0;0;0
+29;Onderwijs;2000;829;0;829;0;0;230;0;230;0;0;0;0;0;0;0;0;0;0;0;0
+30;Onderwijs;2001;933;0;933;0;0;518;0;518;0;0;0;0;0;0;0;0;0;0;0;0
+31;Onderwijs;2002;883;0;883;0;0;868;0;868;0;0;0;0;0;0;0;0;0;0;0;0
+32;Onderwijs;2003;980;0;980;0;0;667;0;667;0;0;0;0;0;0;0;0;0;0;0;0
+33;Onderwijs;2004;1066;0;1066;0;0;800;0;800;0;0;0;0;0;0;0;0;0;0;0;0
+34;Onderwijs;2005;1971;0;1971;0;0;953;0;953;0;0;0;0;0;0;0;0;0;0;0;0
+35;Volksgezondheid;1999;0;0;0;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0
+36;Volksgezondheid;2000;0;0;0;0;0;0;0;0;0;0;3;3;0;0;0;0;0;0;0;0
+37;Volksgezondheid;2001;0;0;0;0;0;0;0;0;0;0;3;3;0;0;0;0;0;0;0;0
+38;Volksgezondheid;2002;0;0;0;0;0;0;0;0;0;0;3;3;0;0;0;0;0;0;0;0
+39;Volksgezondheid;2003;0;0;0;0;0;0;0;0;0;0;3;3;0;0;0;0;0;0;0;0
+40;Volksgezondheid;2004;0;0;0;0;0;0;0;0;0;0;0;0;0;5;5;0;0;0;0;0
+41;Volksgezondheid;2005;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+42;Sociale voorzieningen;1999;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+43;Sociale voorzieningen;2000;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+44;Sociale voorzieningen;2001;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+45;Sociale voorzieningen;2002;43;43;0;0;0;0;0;0;0;0;71;71;0;0;0;0;0;0;0;0
+46;Sociale voorzieningen;2003;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+47;Sociale voorzieningen;2004;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+48;Sociale voorzieningen;2005;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+49;Volkshuisvesting en milieu;1999;18;0;0;18;0;24;0;0;24;0;0;0;0;0;0;0;0;0;0;0
+50;Volkshuisvesting en milieu;2000;59;0;0;59;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+51;Volkshuisvesting en milieu;2001;60;0;0;60;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+52;Volkshuisvesting en milieu;2002;20;0;0;20;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+53;Volkshuisvesting en milieu;2003;31;0;0;31;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+54;Volkshuisvesting en milieu;2004;20;0;0;20;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+55;Volkshuisvesting en milieu;2005;26;0;0;26;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+56;Cultuur, recreatie en erediensten;1999;3;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+57;Cultuur, recreatie en erediensten;2000;20;0;0;20;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-22;0
+58;Cultuur, recreatie en erediensten;2001;20;0;0;20;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+59;Cultuur, recreatie en erediensten;2002;7;0;0;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-3;0
+60;Cultuur, recreatie en erediensten;2003;11;0;0;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;0
+61;Cultuur, recreatie en erediensten;2004;7;0;0;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+62;Cultuur, recreatie en erediensten;2005;9;0;0;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+63;Landbouw, jacht en visserij;1999;178;32;0;135;10;32;27;0;4;0;0;0;0;102;102;0;0;0;0;3
+64;Landbouw, jacht en visserij;2000;134;35;0;30;69;32;27;0;5;0;0;0;0;0;0;0;0;0;0;0
+65;Landbouw, jacht en visserij;2001;99;29;0;0;70;35;29;0;7;0;0;0;0;0;0;0;0;0;0;0
+66;Landbouw, jacht en visserij;2002;46;23;0;0;23;35;28;0;7;0;0;0;0;0;0;0;0;0;0;0
+67;Landbouw, jacht en visserij;2003;58;21;0;0;36;34;27;0;7;0;0;0;0;0;0;0;0;0;0;0
+68;Landbouw, jacht en visserij;2004;40;17;0;0;23;38;27;0;11;0;0;0;0;0;0;0;0;0;0;0
+69;Landbouw, jacht en visserij;2005;46;15;0;0;31;31;27;0;4;0;0;0;0;0;0;0;0;0;0;0
+70;Algemene economische aangelegenheden;1999;-115;59;0;-174;0;80;73;0;0;7;0;0;0;1266;1266;0;0;0;0;23
+71;Algemene economische aangelegenheden;2000;48;48;0;0;0;86;55;0;1;30;0;0;0;8;8;0;0;0;0;0
+72;Algemene economische aangelegenheden;2001;29;29;0;0;0;98;98;0;0;0;836;836;0;7;7;0;0;0;0;0
+73;Algemene economische aangelegenheden;2002;17;17;0;0;0;95;95;0;0;0;3;3;0;94;94;0;0;0;0;0
+74;Algemene economische aangelegenheden;2003;20;20;0;0;0;553;553;0;0;0;7;7;0;2025;2025;0;16;0;0;0
+75;Algemene economische aangelegenheden;2004;25;25;0;0;0;251;231;0;20;1;4;4;0;1287;1287;0;39;0;0;1
+76;Algemene economische aangelegenheden;2005;0;0;0;0;0;88;88;0;0;0;2824;2824;0;3697;3697;0;38;0;0;0
+77;Verkeer en vervoer;1999;0;0;0;0;0;450;450;0;0;0;139;139;0;28;28;0;0;0;0;26
+78;Verkeer en vervoer;2000;66;0;0;66;0;228;227;0;1;0;73;73;0;0;0;0;0;0;0;26
+79;Verkeer en vervoer;2001;554;0;0;554;0;85;85;0;0;0;1909;1909;0;906;906;0;0;0;0;26
+80;Verkeer en vervoer;2002;356;0;0;356;0;0;0;0;0;0;224;224;0;155;155;0;0;0;0;26
+81;Verkeer en vervoer;2003;34;0;0;34;0;64;8;0;51;5;28;28;0;1;1;0;0;0;0;26
+82;Verkeer en vervoer;2004;50;0;0;50;0;7;0;0;6;1;3;3;0;0;0;0;0;0;0;26
+83;Verkeer en vervoer;2005;108;0;0;108;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;72
+84;Niet over andere functies te verdelen;1999;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;53815;31762;0;22409
+85;Niet over andere functies te verdelen;2000;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18295;24436;0;5922
+86;Niet over andere functies te verdelen;2001;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19854;16770;0;2716
+87;Niet over andere functies te verdelen;2002;613;0;0;613;0;0;0;0;0;0;0;0;0;0;0;0;23001;25002;0;547
+88;Niet over andere functies te verdelen;2003;500;0;0;500;0;32;0;0;32;0;0;0;0;0;0;0;34208;23718;0;214
+89;Niet over andere functies te verdelen;2004;267;0;0;267;0;118;0;0;118;0;0;0;0;0;0;0;33540;18761;0;118
+90;Niet over andere functies te verdelen;2005;272;0;0;272;0;123;0;0;123;0;0;0;0;0;0;0;32118;26952;0;54

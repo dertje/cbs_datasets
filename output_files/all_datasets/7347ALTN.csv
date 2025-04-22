@@ -1,0 +1,1471 @@
+﻿ID;Rassen;RegioS;Perioden;AreaalBeginSeizoen_1;Gerooid_2;Geplant_3;SaldoAanwas_4;AreaalEindSeizoen_5
+0;Totaal appelbomen;Nederland;1992/'93;16983.0;1111.0;735.0;-376.0;16607.0
+1;Totaal appelbomen;Nederland;1993/'94;16607.0;771.0;644.0;-127.0;16480.0
+2;Totaal appelbomen;Nederland;1994/'95;16480.0;1809.0;627.0;-1182.0;15298.0
+3;Totaal appelbomen;Nederland;1995/'96;15298.0;875.0;714.0;-161.0;15137.0
+4;Totaal appelbomen;Nederland;1996/'97;15137.0;777.0;831.0;54.0;15191.0
+5;Totaal appelbomen;Nederland;1997/'98;15191.0;1385.0;876.0;-509.0;14682.0
+6;Totaal appelbomen;Nederland;1998/'99;14682.0;1439.0;948.0;-491.0;14191.0
+7;Totaal appelbomen;Nederland;1999/'00;14191.0;2301.0;949.0;-1352.0;12839.0
+8;Totaal appelbomen;Nederland;2000/'01;12839.0;1849.0;728.0;-1121.0;11718.0
+9;Totaal appelbomen;Nederland;2001/'02;11718.0;1150.0;609.0;-541.0;11177.0
+10;Totaal appelbomen;Nederland;2002/'03;11177.0;1479.0;598.0;-881.0;10296.0
+11;Totaal appelbomen;Nederland;2003/'04;10296.0;653.0;574.0;-79.0;10217.0
+12;Totaal appelbomen;Nederland;2004/'05;10217.0;1129.0;649.0;-480.0;9737.0
+13;Totaal appelbomen;Nederland;2005/'06;9737.0;848.0;673.0;-175.0;9562.0
+14;Totaal appelbomen;Productieregio Noord;1992/'93;3190.0;139.0;116.0;-23.0;3167.0
+15;Totaal appelbomen;Productieregio Noord;1993/'94;3167.0;195.0;120.0;-75.0;3092.0
+16;Totaal appelbomen;Productieregio Noord;1994/'95;3092.0;400.0;118.0;-282.0;2810.0
+17;Totaal appelbomen;Productieregio Noord;1995/'96;2810.0;124.0;110.0;-14.0;2796.0
+18;Totaal appelbomen;Productieregio Noord;1996/'97;2796.0;145.0;147.0;2.0;2798.0
+19;Totaal appelbomen;Productieregio Noord;1997/'98;2798.0;355.0;144.0;-211.0;2587.0
+20;Totaal appelbomen;Productieregio Noord;1998/'99;2587.0;187.0;145.0;-42.0;2545.0
+21;Totaal appelbomen;Productieregio Noord;1999/'00;2545.0;546.0;155.0;-391.0;2154.0
+22;Totaal appelbomen;Productieregio Noord;2000/'01;2154.0;387.0;112.0;-275.0;1879.0
+23;Totaal appelbomen;Productieregio Noord;2001/'02;1879.0;178.0;99.0;-79.0;1800.0
+24;Totaal appelbomen;Productieregio Noord;2002/'03;1800.0;235.0;85.0;-150.0;1650.0
+25;Totaal appelbomen;Productieregio Noord;2003/'04;1650.0;116.0;80.0;-36.0;1614.0
+26;Totaal appelbomen;Productieregio Noord;2004/'05;1614.0;218.0;101.0;-117.0;1497.0
+27;Totaal appelbomen;Productieregio Noord;2005/'06;1497.0;181.0;122.0;-59.0;1438.0
+28;Totaal appelbomen;Productieregio West;1992/'93;3883.0;224.0;183.0;-41.0;3842.0
+29;Totaal appelbomen;Productieregio West;1993/'94;3842.0;170.0;159.0;-11.0;3831.0
+30;Totaal appelbomen;Productieregio West;1994/'95;3831.0;444.0;116.0;-328.0;3503.0
+31;Totaal appelbomen;Productieregio West;1995/'96;3503.0;208.0;150.0;-58.0;3445.0
+32;Totaal appelbomen;Productieregio West;1996/'97;3445.0;96.0;161.0;65.0;3510.0
+33;Totaal appelbomen;Productieregio West;1997/'98;3510.0;399.0;205.0;-194.0;3316.0
+34;Totaal appelbomen;Productieregio West;1998/'99;3316.0;365.0;225.0;-140.0;3176.0
+35;Totaal appelbomen;Productieregio West;1999/'00;3176.0;496.0;192.0;-304.0;2872.0
+36;Totaal appelbomen;Productieregio West;2000/'01;2872.0;368.0;150.0;-218.0;2654.0
+37;Totaal appelbomen;Productieregio West;2001/'02;2654.0;240.0;137.0;-103.0;2551.0
+38;Totaal appelbomen;Productieregio West;2002/'03;2551.0;381.0;131.0;-250.0;2301.0
+39;Totaal appelbomen;Productieregio West;2003/'04;2301.0;178.0;126.0;-52.0;2249.0
+40;Totaal appelbomen;Productieregio West;2004/'05;2249.0;279.0;157.0;-122.0;2127.0
+41;Totaal appelbomen;Productieregio West;2005/'06;2127.0;177.0;180.0;3.0;2130.0
+42;Totaal appelbomen;Productieregio Midden;1992/'93;7922.0;568.0;337.0;-231.0;7691.0
+43;Totaal appelbomen;Productieregio Midden;1993/'94;7691.0;349.0;260.0;-89.0;7602.0
+44;Totaal appelbomen;Productieregio Midden;1994/'95;7602.0;765.0;292.0;-473.0;7129.0
+45;Totaal appelbomen;Productieregio Midden;1995/'96;7129.0;418.0;347.0;-71.0;7058.0
+46;Totaal appelbomen;Productieregio Midden;1996/'97;7058.0;468.0;424.0;-44.0;7014.0
+47;Totaal appelbomen;Productieregio Midden;1997/'98;7014.0;450.0;430.0;-20.0;6994.0
+48;Totaal appelbomen;Productieregio Midden;1998/'99;6994.0;719.0;446.0;-273.0;6721.0
+49;Totaal appelbomen;Productieregio Midden;1999/'00;6721.0;1036.0;444.0;-592.0;6129.0
+50;Totaal appelbomen;Productieregio Midden;2000/'01;6129.0;911.0;353.0;-558.0;5571.0
+51;Totaal appelbomen;Productieregio Midden;2001/'02;5571.0;627.0;281.0;-346.0;5225.0
+52;Totaal appelbomen;Productieregio Midden;2002/'03;5225.0;650.0;309.0;-341.0;4884.0
+53;Totaal appelbomen;Productieregio Midden;2003/'04;4884.0;266.0;310.0;44.0;4928.0
+54;Totaal appelbomen;Productieregio Midden;2004/'05;4928.0;522.0;300.0;-222.0;4706.0
+55;Totaal appelbomen;Productieregio Midden;2005/'06;4706.0;343.0;277.0;-66.0;4640.0
+56;Totaal appelbomen;Productieregio Zuid;1992/'93;1988.0;180.0;99.0;-81.0;1907.0
+57;Totaal appelbomen;Productieregio Zuid;1993/'94;1907.0;57.0;105.0;48.0;1955.0
+58;Totaal appelbomen;Productieregio Zuid;1994/'95;1955.0;200.0;101.0;-99.0;1856.0
+59;Totaal appelbomen;Productieregio Zuid;1995/'96;1856.0;125.0;107.0;-18.0;1838.0
+60;Totaal appelbomen;Productieregio Zuid;1996/'97;1838.0;68.0;99.0;31.0;1869.0
+61;Totaal appelbomen;Productieregio Zuid;1997/'98;1869.0;181.0;97.0;-84.0;1785.0
+62;Totaal appelbomen;Productieregio Zuid;1998/'99;1785.0;168.0;132.0;-36.0;1749.0
+63;Totaal appelbomen;Productieregio Zuid;1999/'00;1749.0;223.0;158.0;-65.0;1684.0
+64;Totaal appelbomen;Productieregio Zuid;2000/'01;1684.0;183.0;113.0;-70.0;1614.0
+65;Totaal appelbomen;Productieregio Zuid;2001/'02;1614.0;105.0;92.0;-13.0;1601.0
+66;Totaal appelbomen;Productieregio Zuid;2002/'03;1601.0;213.0;73.0;-140.0;1461.0
+67;Totaal appelbomen;Productieregio Zuid;2003/'04;1461.0;93.0;58.0;-35.0;1426.0
+68;Totaal appelbomen;Productieregio Zuid;2004/'05;1426.0;110.0;91.0;-19.0;1407.0
+69;Totaal appelbomen;Productieregio Zuid;2005/'06;1407.0;147.0;94.0;-53.0;1354.0
+70;Elstar;Nederland;1992/'93;4941.0;122.0;152.0;30.0;4971.0
+71;Elstar;Nederland;1993/'94;4971.0;71.0;143.0;72.0;5043.0
+72;Elstar;Nederland;1994/'95;5043.0;358.0;136.0;-222.0;4821.0
+73;Elstar;Nederland;1995/'96;4821.0;80.0;215.0;135.0;4956.0
+74;Elstar;Nederland;1996/'97;4956.0;155.0;325.0;170.0;5126.0
+75;Elstar;Nederland;1997/'98;5126.0;381.0;400.0;19.0;5145.0
+76;Elstar;Nederland;1998/'99;5145.0;487.0;481.0;-6.0;5139.0
+77;Elstar;Nederland;1999/'00;5139.0;898.0;532.0;-366.0;4773.0
+78;Elstar;Nederland;2000/'01;4773.0;688.0;392.0;-296.0;4477.0
+79;Elstar;Nederland;2001/'02;4477.0;416.0;313.0;-103.0;4374.0
+80;Elstar;Nederland;2002/'03;4374.0;387.0;297.0;-90.0;4284.0
+81;Elstar;Nederland;2003/'04;4284.0;;;188.0;4472.0
+82;Elstar;Nederland;2004/'05;4472.0;;;-95.0;4377.0
+83;Elstar;Nederland;2005/'06;4377.0;;;-56.0;4321.0
+84;Elstar;Productieregio Noord;1992/'93;1142.0;22.0;26.0;4.0;1146.0
+85;Elstar;Productieregio Noord;1993/'94;1146.0;48.0;27.0;-21.0;1125.0
+86;Elstar;Productieregio Noord;1994/'95;1125.0;127.0;33.0;-94.0;1031.0
+87;Elstar;Productieregio Noord;1995/'96;1031.0;30.0;35.0;5.0;1036.0
+88;Elstar;Productieregio Noord;1996/'97;1036.0;41.0;51.0;10.0;1046.0
+89;Elstar;Productieregio Noord;1997/'98;1046.0;111.0;71.0;-40.0;1006.0
+90;Elstar;Productieregio Noord;1998/'99;1006.0;63.0;77.0;14.0;1020.0
+91;Elstar;Productieregio Noord;1999/'00;1020.0;227.0;90.0;-137.0;883.0
+92;Elstar;Productieregio Noord;2000/'01;883.0;153.0;61.0;-92.0;791.0
+93;Elstar;Productieregio Noord;2001/'02;791.0;72.0;60.0;-12.0;779.0
+94;Elstar;Productieregio Noord;2002/'03;779.0;67.0;48.0;-19.0;760.0
+95;Elstar;Productieregio Noord;2003/'04;760.0;;;16.0;776.0
+96;Elstar;Productieregio Noord;2004/'05;776.0;;;-10.0;766.0
+97;Elstar;Productieregio Noord;2005/'06;766.0;;;-57.0;709.0
+98;Elstar;Productieregio West;1992/'93;914.0;10.0;27.0;17.0;931.0
+99;Elstar;Productieregio West;1993/'94;931.0;0.0;23.0;23.0;954.0
+100;Elstar;Productieregio West;1994/'95;954.0;53.0;14.0;-39.0;915.0
+101;Elstar;Productieregio West;1995/'96;915.0;0.0;38.0;38.0;953.0
+102;Elstar;Productieregio West;1996/'97;953.0;0.0;79.0;79.0;1032.0
+103;Elstar;Productieregio West;1997/'98;1032.0;82.0;61.0;-21.0;1011.0
+104;Elstar;Productieregio West;1998/'99;1011.0;107.0;85.0;-22.0;989.0
+105;Elstar;Productieregio West;1999/'00;989.0;171.0;89.0;-82.0;907.0
+106;Elstar;Productieregio West;2000/'01;907.0;134.0;70.0;-64.0;843.0
+107;Elstar;Productieregio West;2001/'02;843.0;85.0;59.0;-26.0;817.0
+108;Elstar;Productieregio West;2002/'03;817.0;82.0;61.0;-21.0;796.0
+109;Elstar;Productieregio West;2003/'04;796.0;;;27.0;823.0
+110;Elstar;Productieregio West;2004/'05;823.0;;;21.0;844.0
+111;Elstar;Productieregio West;2005/'06;844.0;;;31.0;875.0
+112;Elstar;Productieregio Midden;1992/'93;2349.0;61.0;73.0;12.0;2361.0
+113;Elstar;Productieregio Midden;1993/'94;2361.0;21.0;66.0;45.0;2406.0
+114;Elstar;Productieregio Midden;1994/'95;2406.0;140.0;59.0;-81.0;2325.0
+115;Elstar;Productieregio Midden;1995/'96;2325.0;32.0;106.0;74.0;2399.0
+116;Elstar;Productieregio Midden;1996/'97;2399.0;111.0;157.0;46.0;2445.0
+117;Elstar;Productieregio Midden;1997/'98;2445.0;125.0;213.0;88.0;2533.0
+118;Elstar;Productieregio Midden;1998/'99;2533.0;260.0;242.0;-18.0;2515.0
+119;Elstar;Productieregio Midden;1999/'00;2515.0;423.0;265.0;-158.0;2357.0
+120;Elstar;Productieregio Midden;2000/'01;2357.0;342.0;201.0;-141.0;2216.0
+121;Elstar;Productieregio Midden;2001/'02;2216.0;247.0;144.0;-103.0;2113.0
+122;Elstar;Productieregio Midden;2002/'03;2113.0;166.0;149.0;-17.0;2096.0
+123;Elstar;Productieregio Midden;2003/'04;2096.0;;;165.0;2261.0
+124;Elstar;Productieregio Midden;2004/'05;2261.0;;;-125.0;2136.0
+125;Elstar;Productieregio Midden;2005/'06;2136.0;;;3.0;2139.0
+126;Elstar;Productieregio Zuid;1992/'93;536.0;29.0;26.0;-3.0;533.0
+127;Elstar;Productieregio Zuid;1993/'94;533.0;2.0;27.0;25.0;558.0
+128;Elstar;Productieregio Zuid;1994/'95;558.0;38.0;30.0;-8.0;550.0
+129;Elstar;Productieregio Zuid;1995/'96;550.0;18.0;36.0;18.0;568.0
+130;Elstar;Productieregio Zuid;1996/'97;568.0;3.0;38.0;35.0;603.0
+131;Elstar;Productieregio Zuid;1997/'98;603.0;63.0;55.0;-8.0;595.0
+132;Elstar;Productieregio Zuid;1998/'99;595.0;57.0;77.0;20.0;615.0
+133;Elstar;Productieregio Zuid;1999/'00;615.0;77.0;88.0;11.0;626.0
+134;Elstar;Productieregio Zuid;2000/'01;626.0;59.0;60.0;1.0;627.0
+135;Elstar;Productieregio Zuid;2001/'02;627.0;12.0;50.0;38.0;665.0
+136;Elstar;Productieregio Zuid;2002/'03;665.0;72.0;39.0;-33.0;632.0
+137;Elstar;Productieregio Zuid;2003/'04;632.0;;;-20.0;612.0
+138;Elstar;Productieregio Zuid;2004/'05;612.0;;;19.0;631.0
+139;Elstar;Productieregio Zuid;2005/'06;631.0;;;-33.0;598.0
+140;Jonagold;Nederland;1992/'93;3895.0;163.0;275.0;112.0;4007.0
+141;Jonagold;Nederland;1993/'94;4007.0;74.0;292.0;218.0;4225.0
+142;Jonagold;Nederland;1994/'95;4225.0;338.0;307.0;-31.0;4194.0
+143;Jonagold;Nederland;1995/'96;4194.0;120.0;311.0;191.0;4385.0
+144;Jonagold;Nederland;1996/'97;4385.0;104.0;317.0;213.0;4598.0
+145;Jonagold;Nederland;1997/'98;4598.0;431.0;297.0;-134.0;4464.0
+146;Jonagold;Nederland;1998/'99;4464.0;417.0;287.0;-130.0;4334.0
+147;Jonagold;Nederland;1999/'00;4334.0;610.0;226.0;-384.0;3950.0
+148;Jonagold;Nederland;2000/'01;3950.0;474.0;192.0;-282.0;3668.0
+149;Jonagold;Nederland;2001/'02;3668.0;282.0;159.0;-123.0;3545.0
+150;Jonagold;Nederland;2002/'03;3545.0;422.0;155.0;-267.0;3278.0
+151;Jonagold;Nederland;2003/'04;3278.0;;;20.0;3298.0
+152;Jonagold;Nederland;2004/'05;3298.0;;;-289.0;3009.0
+153;Jonagold;Nederland;2005/'06;3009.0;;;-271.0;2738.0
+154;Jonagold;Productieregio Noord;1992/'93;749.0;19.0;53.0;34.0;783.0
+155;Jonagold;Productieregio Noord;1993/'94;783.0;33.0;65.0;32.0;815.0
+156;Jonagold;Productieregio Noord;1994/'95;815.0;82.0;58.0;-24.0;791.0
+157;Jonagold;Productieregio Noord;1995/'96;791.0;15.0;48.0;33.0;824.0
+158;Jonagold;Productieregio Noord;1996/'97;824.0;16.0;50.0;34.0;858.0
+159;Jonagold;Productieregio Noord;1997/'98;858.0;96.0;47.0;-49.0;809.0
+160;Jonagold;Productieregio Noord;1998/'99;809.0;54.0;43.0;-11.0;798.0
+161;Jonagold;Productieregio Noord;1999/'00;798.0;129.0;38.0;-91.0;707.0
+162;Jonagold;Productieregio Noord;2000/'01;707.0;86.0;36.0;-50.0;657.0
+163;Jonagold;Productieregio Noord;2001/'02;657.0;40.0;26.0;-14.0;643.0
+164;Jonagold;Productieregio Noord;2002/'03;643.0;75.0;21.0;-54.0;589.0
+165;Jonagold;Productieregio Noord;2003/'04;589.0;;;-7.0;582.0
+166;Jonagold;Productieregio Noord;2004/'05;582.0;;;-110.0;472.0
+167;Jonagold;Productieregio Noord;2005/'06;472.0;;;-41.0;431.0
+168;Jonagold;Productieregio West;1992/'93;811.0;24.0;57.0;33.0;844.0
+169;Jonagold;Productieregio West;1993/'94;844.0;1.0;62.0;61.0;905.0
+170;Jonagold;Productieregio West;1994/'95;905.0;72.0;49.0;-23.0;882.0
+171;Jonagold;Productieregio West;1995/'96;882.0;8.0;58.0;50.0;932.0
+172;Jonagold;Productieregio West;1996/'97;932.0;0.0;66.0;66.0;998.0
+173;Jonagold;Productieregio West;1997/'98;998.0;134.0;82.0;-52.0;946.0
+174;Jonagold;Productieregio West;1998/'99;946.0;95.0;75.0;-20.0;926.0
+175;Jonagold;Productieregio West;1999/'00;926.0;159.0;55.0;-104.0;822.0
+176;Jonagold;Productieregio West;2000/'01;822.0;80.0;43.0;-37.0;785.0
+177;Jonagold;Productieregio West;2001/'02;785.0;41.0;35.0;-6.0;779.0
+178;Jonagold;Productieregio West;2002/'03;779.0;106.0;34.0;-72.0;707.0
+179;Jonagold;Productieregio West;2003/'04;707.0;;;-6.0;701.0
+180;Jonagold;Productieregio West;2004/'05;701.0;;;-33.0;668.0
+181;Jonagold;Productieregio West;2005/'06;668.0;;;4.0;672.0
+182;Jonagold;Productieregio Midden;1992/'93;1874.0;104.0;132.0;28.0;1902.0
+183;Jonagold;Productieregio Midden;1993/'94;1902.0;40.0;119.0;79.0;1981.0
+184;Jonagold;Productieregio Midden;1994/'95;1981.0;160.0;160.0;0.0;1981.0
+185;Jonagold;Productieregio Midden;1995/'96;1981.0;71.0;162.0;91.0;2072.0
+186;Jonagold;Productieregio Midden;1996/'97;2072.0;86.0;168.0;82.0;2154.0
+187;Jonagold;Productieregio Midden;1997/'98;2154.0;153.0;141.0;-12.0;2142.0
+188;Jonagold;Productieregio Midden;1998/'99;2142.0;220.0;138.0;-82.0;2060.0
+189;Jonagold;Productieregio Midden;1999/'00;2060.0;244.0;98.0;-146.0;1914.0
+190;Jonagold;Productieregio Midden;2000/'01;1914.0;241.0;85.0;-156.0;1758.0
+191;Jonagold;Productieregio Midden;2001/'02;1758.0;151.0;74.0;-77.0;1681.0
+192;Jonagold;Productieregio Midden;2002/'03;1681.0;188.0;84.0;-104.0;1577.0
+193;Jonagold;Productieregio Midden;2003/'04;1577.0;;;2.0;1579.0
+194;Jonagold;Productieregio Midden;2004/'05;1579.0;;;-83.0;1496.0
+195;Jonagold;Productieregio Midden;2005/'06;1496.0;;;-184.0;1312.0
+196;Jonagold;Productieregio Zuid;1992/'93;461.0;16.0;33.0;17.0;478.0
+197;Jonagold;Productieregio Zuid;1993/'94;478.0;0.0;46.0;46.0;524.0
+198;Jonagold;Productieregio Zuid;1994/'95;524.0;24.0;40.0;16.0;540.0
+199;Jonagold;Productieregio Zuid;1995/'96;540.0;26.0;43.0;17.0;557.0
+200;Jonagold;Productieregio Zuid;1996/'97;557.0;2.0;33.0;31.0;588.0
+201;Jonagold;Productieregio Zuid;1997/'98;588.0;48.0;27.0;-21.0;567.0
+202;Jonagold;Productieregio Zuid;1998/'99;567.0;48.0;31.0;-17.0;550.0
+203;Jonagold;Productieregio Zuid;1999/'00;550.0;78.0;35.0;-43.0;507.0
+204;Jonagold;Productieregio Zuid;2000/'01;507.0;67.0;28.0;-39.0;468.0
+205;Jonagold;Productieregio Zuid;2001/'02;468.0;50.0;24.0;-26.0;442.0
+206;Jonagold;Productieregio Zuid;2002/'03;442.0;53.0;16.0;-37.0;405.0
+207;Jonagold;Productieregio Zuid;2003/'04;405.0;;;31.0;436.0
+208;Jonagold;Productieregio Zuid;2004/'05;436.0;;;-63.0;373.0
+209;Jonagold;Productieregio Zuid;2005/'06;373.0;;;-50.0;323.0
+210;Cox's Orange Pippin;Nederland;1992/'93;2162.0;202.0;58.0;-144.0;2018.0
+211;Cox's Orange Pippin;Nederland;1993/'94;2018.0;135.0;43.0;-92.0;1926.0
+212;Cox's Orange Pippin;Nederland;1994/'95;1926.0;298.0;39.0;-259.0;1667.0
+213;Cox's Orange Pippin;Nederland;1995/'96;1667.0;142.0;41.0;-101.0;1566.0
+214;Cox's Orange Pippin;Nederland;1996/'97;1566.0;106.0;42.0;-64.0;1502.0
+215;Cox's Orange Pippin;Nederland;1997/'98;1502.0;176.0;29.0;-147.0;1355.0
+216;Cox's Orange Pippin;Nederland;1998/'99;1355.0;169.0;19.0;-150.0;1205.0
+217;Cox's Orange Pippin;Nederland;1999/'00;1205.0;231.0;17.0;-214.0;991.0
+218;Cox's Orange Pippin;Nederland;2000/'01;991.0;213.0;12.0;-201.0;790.0
+219;Cox's Orange Pippin;Nederland;2001/'02;790.0;135.0;11.0;-124.0;666.0
+220;Cox's Orange Pippin;Nederland;2002/'03;666.0;182.0;11.0;-171.0;495.0
+221;Cox's Orange Pippin;Nederland;2003/'04;495.0;;;-100.0;395.0
+222;Cox's Orange Pippin;Nederland;2004/'05;395.0;;;-77.0;318.0
+223;Cox's Orange Pippin;Nederland;2005/'06;318.0;;;-48.0;270.0
+224;Cox's Orange Pippin;Productieregio Noord;1992/'93;489.0;39.0;5.0;-34.0;455.0
+225;Cox's Orange Pippin;Productieregio Noord;1993/'94;455.0;39.0;7.0;-32.0;423.0
+226;Cox's Orange Pippin;Productieregio Noord;1994/'95;423.0;85.0;10.0;-75.0;348.0
+227;Cox's Orange Pippin;Productieregio Noord;1995/'96;348.0;36.0;11.0;-25.0;323.0
+228;Cox's Orange Pippin;Productieregio Noord;1996/'97;323.0;48.0;19.0;-29.0;294.0
+229;Cox's Orange Pippin;Productieregio Noord;1997/'98;294.0;53.0;10.0;-43.0;251.0
+230;Cox's Orange Pippin;Productieregio Noord;1998/'99;251.0;28.0;7.0;-21.0;230.0
+231;Cox's Orange Pippin;Productieregio Noord;1999/'00;230.0;64.0;3.0;-61.0;169.0
+232;Cox's Orange Pippin;Productieregio Noord;2000/'01;169.0;52.0;1.0;-51.0;118.0
+233;Cox's Orange Pippin;Productieregio Noord;2001/'02;118.0;19.0;1.0;-18.0;100.0
+234;Cox's Orange Pippin;Productieregio Noord;2002/'03;100.0;32.0;2.0;-30.0;70.0
+235;Cox's Orange Pippin;Productieregio Noord;2003/'04;70.0;;;-17.0;53.0
+236;Cox's Orange Pippin;Productieregio Noord;2004/'05;53.0;;;-14.0;39.0
+237;Cox's Orange Pippin;Productieregio Noord;2005/'06;39.0;;;5.0;44.0
+238;Cox's Orange Pippin;Productieregio West;1992/'93;602.0;51.0;17.0;-34.0;568.0
+239;Cox's Orange Pippin;Productieregio West;1993/'94;568.0;34.0;12.0;-22.0;546.0
+240;Cox's Orange Pippin;Productieregio West;1994/'95;546.0;80.0;9.0;-71.0;475.0
+241;Cox's Orange Pippin;Productieregio West;1995/'96;475.0;43.0;11.0;-32.0;443.0
+242;Cox's Orange Pippin;Productieregio West;1996/'97;443.0;17.0;3.0;-14.0;429.0
+243;Cox's Orange Pippin;Productieregio West;1997/'98;429.0;52.0;10.0;-42.0;387.0
+244;Cox's Orange Pippin;Productieregio West;1998/'99;387.0;44.0;6.0;-38.0;349.0
+245;Cox's Orange Pippin;Productieregio West;1999/'00;349.0;46.0;7.0;-39.0;310.0
+246;Cox's Orange Pippin;Productieregio West;2000/'01;310.0;48.0;6.0;-42.0;268.0
+247;Cox's Orange Pippin;Productieregio West;2001/'02;268.0;39.0;6.0;-33.0;235.0
+248;Cox's Orange Pippin;Productieregio West;2002/'03;235.0;59.0;2.0;-57.0;178.0
+249;Cox's Orange Pippin;Productieregio West;2003/'04;178.0;;;-23.0;155.0
+250;Cox's Orange Pippin;Productieregio West;2004/'05;155.0;;;-43.0;112.0
+251;Cox's Orange Pippin;Productieregio West;2005/'06;112.0;;;-21.0;91.0
+252;Cox's Orange Pippin;Productieregio Midden;1992/'93;877.0;94.0;27.0;-67.0;810.0
+253;Cox's Orange Pippin;Productieregio Midden;1993/'94;810.0;58.0;17.0;-41.0;769.0
+254;Cox's Orange Pippin;Productieregio Midden;1994/'95;769.0;111.0;15.0;-96.0;673.0
+255;Cox's Orange Pippin;Productieregio Midden;1995/'96;673.0;41.0;16.0;-25.0;648.0
+256;Cox's Orange Pippin;Productieregio Midden;1996/'97;648.0;32.0;16.0;-16.0;632.0
+257;Cox's Orange Pippin;Productieregio Midden;1997/'98;632.0;48.0;7.0;-41.0;591.0
+258;Cox's Orange Pippin;Productieregio Midden;1998/'99;591.0;80.0;5.0;-75.0;516.0
+259;Cox's Orange Pippin;Productieregio Midden;1999/'00;516.0;100.0;6.0;-94.0;422.0
+260;Cox's Orange Pippin;Productieregio Midden;2000/'01;422.0;93.0;5.0;-88.0;334.0
+261;Cox's Orange Pippin;Productieregio Midden;2001/'02;334.0;63.0;4.0;-59.0;275.0
+262;Cox's Orange Pippin;Productieregio Midden;2002/'03;275.0;78.0;6.0;-72.0;203.0
+263;Cox's Orange Pippin;Productieregio Midden;2003/'04;203.0;;;-48.0;155.0
+264;Cox's Orange Pippin;Productieregio Midden;2004/'05;155.0;;;-20.0;135.0
+265;Cox's Orange Pippin;Productieregio Midden;2005/'06;135.0;;;-26.0;109.0
+266;Cox's Orange Pippin;Productieregio Zuid;1992/'93;194.0;18.0;9.0;-9.0;185.0
+267;Cox's Orange Pippin;Productieregio Zuid;1993/'94;185.0;4.0;7.0;3.0;188.0
+268;Cox's Orange Pippin;Productieregio Zuid;1994/'95;188.0;22.0;5.0;-17.0;171.0
+269;Cox's Orange Pippin;Productieregio Zuid;1995/'96;171.0;22.0;3.0;-19.0;152.0
+270;Cox's Orange Pippin;Productieregio Zuid;1996/'97;152.0;9.0;4.0;-5.0;147.0
+271;Cox's Orange Pippin;Productieregio Zuid;1997/'98;147.0;23.0;2.0;-21.0;126.0
+272;Cox's Orange Pippin;Productieregio Zuid;1998/'99;126.0;17.0;1.0;-16.0;110.0
+273;Cox's Orange Pippin;Productieregio Zuid;1999/'00;110.0;21.0;1.0;-20.0;90.0
+274;Cox's Orange Pippin;Productieregio Zuid;2000/'01;90.0;20.0;0.0;-20.0;70.0
+275;Cox's Orange Pippin;Productieregio Zuid;2001/'02;70.0;14.0;0.0;-14.0;56.0
+276;Cox's Orange Pippin;Productieregio Zuid;2002/'03;56.0;13.0;1.0;-12.0;44.0
+277;Cox's Orange Pippin;Productieregio Zuid;2003/'04;44.0;;;-12.0;32.0
+278;Cox's Orange Pippin;Productieregio Zuid;2004/'05;32.0;;;0.0;32.0
+279;Cox's Orange Pippin;Productieregio Zuid;2005/'06;32.0;;;-6.0;26.0
+280;Golden Delicious;Nederland;1992/'93;1636.0;158.0;57.0;-101.0;1535.0
+281;Golden Delicious;Nederland;1993/'94;1535.0;113.0;41.0;-72.0;1463.0
+282;Golden Delicious;Nederland;1994/'95;1463.0;207.0;38.0;-169.0;1294.0
+283;Golden Delicious;Nederland;1995/'96;1294.0;100.0;41.0;-59.0;1235.0
+284;Golden Delicious;Nederland;1996/'97;1235.0;83.0;40.0;-43.0;1192.0
+285;Golden Delicious;Nederland;1997/'98;1192.0;134.0;44.0;-90.0;1102.0
+286;Golden Delicious;Nederland;1998/'99;1102.0;137.0;45.0;-92.0;1010.0
+287;Golden Delicious;Nederland;1999/'00;1010.0;144.0;48.0;-96.0;914.0
+288;Golden Delicious;Nederland;2000/'01;914.0;143.0;29.0;-114.0;800.0
+289;Golden Delicious;Nederland;2001/'02;800.0;60.0;23.0;-37.0;763.0
+290;Golden Delicious;Nederland;2002/'03;763.0;119.0;21.0;-98.0;665.0
+291;Golden Delicious;Nederland;2003/'04;665.0;;;-4.0;661.0
+292;Golden Delicious;Nederland;2004/'05;661.0;;;-15.0;646.0
+293;Golden Delicious;Nederland;2005/'06;646.0;;;-72.0;574.0
+294;Golden Delicious;Productieregio Noord;1992/'93;280.0;14.0;7.0;-7.0;273.0
+295;Golden Delicious;Productieregio Noord;1993/'94;273.0;20.0;7.0;-13.0;260.0
+296;Golden Delicious;Productieregio Noord;1994/'95;260.0;42.0;5.0;-37.0;223.0
+297;Golden Delicious;Productieregio Noord;1995/'96;223.0;14.0;4.0;-10.0;213.0
+298;Golden Delicious;Productieregio Noord;1996/'97;213.0;15.0;9.0;-6.0;207.0
+299;Golden Delicious;Productieregio Noord;1997/'98;207.0;45.0;5.0;-40.0;167.0
+300;Golden Delicious;Productieregio Noord;1998/'99;167.0;15.0;5.0;-10.0;157.0
+301;Golden Delicious;Productieregio Noord;1999/'00;157.0;37.0;4.0;-33.0;124.0
+302;Golden Delicious;Productieregio Noord;2000/'01;124.0;38.0;2.0;-36.0;88.0
+303;Golden Delicious;Productieregio Noord;2001/'02;88.0;20.0;2.0;-18.0;70.0
+304;Golden Delicious;Productieregio Noord;2002/'03;70.0;9.0;2.0;-7.0;63.0
+305;Golden Delicious;Productieregio Noord;2003/'04;63.0;;;2.0;65.0
+306;Golden Delicious;Productieregio Noord;2004/'05;65.0;;;-3.0;62.0
+307;Golden Delicious;Productieregio Noord;2005/'06;62.0;;;-8.0;54.0
+308;Golden Delicious;Productieregio West;1992/'93;385.0;29.0;20.0;-9.0;376.0
+309;Golden Delicious;Productieregio West;1993/'94;376.0;27.0;14.0;-13.0;363.0
+310;Golden Delicious;Productieregio West;1994/'95;363.0;46.0;8.0;-38.0;325.0
+311;Golden Delicious;Productieregio West;1995/'96;325.0;20.0;11.0;-9.0;316.0
+312;Golden Delicious;Productieregio West;1996/'97;316.0;4.0;3.0;-1.0;315.0
+313;Golden Delicious;Productieregio West;1997/'98;315.0;47.0;13.0;-34.0;281.0
+314;Golden Delicious;Productieregio West;1998/'99;281.0;36.0;12.0;-24.0;257.0
+315;Golden Delicious;Productieregio West;1999/'00;257.0;37.0;11.0;-26.0;231.0
+316;Golden Delicious;Productieregio West;2000/'01;231.0;37.0;7.0;-30.0;201.0
+317;Golden Delicious;Productieregio West;2001/'02;201.0;15.0;7.0;-8.0;193.0
+318;Golden Delicious;Productieregio West;2002/'03;193.0;29.0;5.0;-24.0;169.0
+319;Golden Delicious;Productieregio West;2003/'04;169.0;;;6.0;175.0
+320;Golden Delicious;Productieregio West;2004/'05;175.0;;;-29.0;146.0
+321;Golden Delicious;Productieregio West;2005/'06;146.0;;;-10.0;136.0
+322;Golden Delicious;Productieregio Midden;1992/'93;668.0;70.0;23.0;-47.0;621.0
+323;Golden Delicious;Productieregio Midden;1993/'94;621.0;48.0;13.0;-35.0;586.0
+324;Golden Delicious;Productieregio Midden;1994/'95;586.0;81.0;17.0;-64.0;522.0
+325;Golden Delicious;Productieregio Midden;1995/'96;522.0;45.0;19.0;-26.0;496.0
+326;Golden Delicious;Productieregio Midden;1996/'97;496.0;41.0;22.0;-19.0;477.0
+327;Golden Delicious;Productieregio Midden;1997/'98;477.0;33.0;21.0;-12.0;465.0
+328;Golden Delicious;Productieregio Midden;1998/'99;465.0;63.0;19.0;-44.0;421.0
+329;Golden Delicious;Productieregio Midden;1999/'00;421.0;59.0;19.0;-40.0;381.0
+330;Golden Delicious;Productieregio Midden;2000/'01;381.0;60.0;11.0;-49.0;332.0
+331;Golden Delicious;Productieregio Midden;2001/'02;332.0;22.0;8.0;-14.0;318.0
+332;Golden Delicious;Productieregio Midden;2002/'03;318.0;60.0;8.0;-52.0;266.0
+333;Golden Delicious;Productieregio Midden;2003/'04;266.0;;;-9.0;257.0
+334;Golden Delicious;Productieregio Midden;2004/'05;257.0;;;15.0;272.0
+335;Golden Delicious;Productieregio Midden;2005/'06;272.0;;;-41.0;231.0
+336;Golden Delicious;Productieregio Zuid;1992/'93;303.0;45.0;7.0;-38.0;265.0
+337;Golden Delicious;Productieregio Zuid;1993/'94;265.0;18.0;7.0;-11.0;254.0
+338;Golden Delicious;Productieregio Zuid;1994/'95;254.0;38.0;8.0;-30.0;224.0
+339;Golden Delicious;Productieregio Zuid;1995/'96;224.0;21.0;7.0;-14.0;210.0
+340;Golden Delicious;Productieregio Zuid;1996/'97;210.0;23.0;6.0;-17.0;193.0
+341;Golden Delicious;Productieregio Zuid;1997/'98;193.0;9.0;5.0;-4.0;189.0
+342;Golden Delicious;Productieregio Zuid;1998/'99;189.0;23.0;9.0;-14.0;175.0
+343;Golden Delicious;Productieregio Zuid;1999/'00;175.0;11.0;14.0;3.0;178.0
+344;Golden Delicious;Productieregio Zuid;2000/'01;178.0;8.0;9.0;1.0;179.0
+345;Golden Delicious;Productieregio Zuid;2001/'02;179.0;3.0;6.0;3.0;182.0
+346;Golden Delicious;Productieregio Zuid;2002/'03;182.0;21.0;6.0;-15.0;167.0
+347;Golden Delicious;Productieregio Zuid;2003/'04;167.0;;;-3.0;164.0
+348;Golden Delicious;Productieregio Zuid;2004/'05;164.0;;;2.0;166.0
+349;Golden Delicious;Productieregio Zuid;2005/'06;166.0;;;-13.0;153.0
+350;Rode van Boskoop;Nederland;1992/'93;1587.0;143.0;98.0;-45.0;1542.0
+351;Rode van Boskoop;Nederland;1993/'94;1542.0;114.0;72.0;-42.0;1500.0
+352;Rode van Boskoop;Nederland;1994/'95;1500.0;196.0;60.0;-136.0;1364.0
+353;Rode van Boskoop;Nederland;1995/'96;1364.0;105.0;54.0;-51.0;1313.0
+354;Rode van Boskoop;Nederland;1996/'97;1313.0;81.0;49.0;-32.0;1281.0
+355;Rode van Boskoop;Nederland;1997/'98;1281.0;89.0;46.0;-43.0;1238.0
+356;Rode van Boskoop;Nederland;1998/'99;1238.0;97.0;42.0;-55.0;1183.0
+357;Rode van Boskoop;Nederland;1999/'00;1183.0;188.0;33.0;-155.0;1028.0
+358;Rode van Boskoop;Nederland;2000/'01;1028.0;138.0;16.0;-122.0;906.0
+359;Rode van Boskoop;Nederland;2001/'02;906.0;109.0;12.0;-97.0;809.0
+360;Rode van Boskoop;Nederland;2002/'03;809.0;141.0;12.0;-129.0;680.0
+361;Rode van Boskoop;Nederland;2003/'04;680.0;;;-48.0;632.0
+362;Rode van Boskoop;Nederland;2004/'05;632.0;;;-26.0;606.0
+363;Rode van Boskoop;Nederland;2005/'06;606.0;;;-34.0;572.0
+364;Rode van Boskoop;Productieregio Noord;1992/'93;171.0;13.0;12.0;-1.0;170.0
+365;Rode van Boskoop;Productieregio Noord;1993/'94;170.0;12.0;9.0;-3.0;167.0
+366;Rode van Boskoop;Productieregio Noord;1994/'95;167.0;13.0;8.0;-5.0;162.0
+367;Rode van Boskoop;Productieregio Noord;1995/'96;162.0;0.0;8.0;8.0;170.0
+368;Rode van Boskoop;Productieregio Noord;1996/'97;170.0;1.0;12.0;11.0;181.0
+369;Rode van Boskoop;Productieregio Noord;1997/'98;181.0;25.0;7.0;-18.0;163.0
+370;Rode van Boskoop;Productieregio Noord;1998/'99;163.0;17.0;6.0;-11.0;152.0
+371;Rode van Boskoop;Productieregio Noord;1999/'00;152.0;45.0;4.0;-41.0;111.0
+372;Rode van Boskoop;Productieregio Noord;2000/'01;111.0;27.0;2.0;-25.0;86.0
+373;Rode van Boskoop;Productieregio Noord;2001/'02;86.0;14.0;2.0;-12.0;74.0
+374;Rode van Boskoop;Productieregio Noord;2002/'03;74.0;20.0;1.0;-19.0;55.0
+375;Rode van Boskoop;Productieregio Noord;2003/'04;55.0;;;-14.0;41.0
+376;Rode van Boskoop;Productieregio Noord;2004/'05;41.0;;;-2.0;39.0
+377;Rode van Boskoop;Productieregio Noord;2005/'06;39.0;;;-5.0;34.0
+378;Rode van Boskoop;Productieregio West;1992/'93;380.0;25.0;25.0;0.0;380.0
+379;Rode van Boskoop;Productieregio West;1993/'94;380.0;23.0;24.0;1.0;381.0
+380;Rode van Boskoop;Productieregio West;1994/'95;381.0;64.0;17.0;-47.0;334.0
+381;Rode van Boskoop;Productieregio West;1995/'96;334.0;26.0;17.0;-9.0;325.0
+382;Rode van Boskoop;Productieregio West;1996/'97;325.0;15.0;6.0;-9.0;316.0
+383;Rode van Boskoop;Productieregio West;1997/'98;316.0;25.0;16.0;-9.0;307.0
+384;Rode van Boskoop;Productieregio West;1998/'99;307.0;28.0;15.0;-13.0;294.0
+385;Rode van Boskoop;Productieregio West;1999/'00;294.0;39.0;10.0;-29.0;265.0
+386;Rode van Boskoop;Productieregio West;2000/'01;265.0;27.0;5.0;-22.0;243.0
+387;Rode van Boskoop;Productieregio West;2001/'02;243.0;26.0;4.0;-22.0;221.0
+388;Rode van Boskoop;Productieregio West;2002/'03;221.0;39.0;3.0;-36.0;185.0
+389;Rode van Boskoop;Productieregio West;2003/'04;185.0;;;-16.0;169.0
+390;Rode van Boskoop;Productieregio West;2004/'05;169.0;;;-11.0;158.0
+391;Rode van Boskoop;Productieregio West;2005/'06;158.0;;;-17.0;141.0
+392;Rode van Boskoop;Productieregio Midden;1992/'93;825.0;76.0;43.0;-33.0;792.0
+393;Rode van Boskoop;Productieregio Midden;1993/'94;792.0;64.0;27.0;-37.0;755.0
+394;Rode van Boskoop;Productieregio Midden;1994/'95;755.0;102.0;23.0;-79.0;676.0
+395;Rode van Boskoop;Productieregio Midden;1995/'96;676.0;62.0;20.0;-42.0;634.0
+396;Rode van Boskoop;Productieregio Midden;1996/'97;634.0;50.0;24.0;-26.0;608.0
+397;Rode van Boskoop;Productieregio Midden;1997/'98;608.0;25.0;18.0;-7.0;601.0
+398;Rode van Boskoop;Productieregio Midden;1998/'99;601.0;41.0;16.0;-25.0;576.0
+399;Rode van Boskoop;Productieregio Midden;1999/'00;576.0;85.0;12.0;-73.0;503.0
+400;Rode van Boskoop;Productieregio Midden;2000/'01;503.0;70.0;7.0;-63.0;440.0
+401;Rode van Boskoop;Productieregio Midden;2001/'02;440.0;61.0;5.0;-56.0;384.0
+402;Rode van Boskoop;Productieregio Midden;2002/'03;384.0;60.0;7.0;-53.0;331.0
+403;Rode van Boskoop;Productieregio Midden;2003/'04;331.0;;;-10.0;321.0
+404;Rode van Boskoop;Productieregio Midden;2004/'05;321.0;;;-20.0;301.0
+405;Rode van Boskoop;Productieregio Midden;2005/'06;301.0;;;7.0;308.0
+406;Rode van Boskoop;Productieregio Zuid;1992/'93;211.0;29.0;18.0;-11.0;200.0
+407;Rode van Boskoop;Productieregio Zuid;1993/'94;200.0;15.0;12.0;-3.0;197.0
+408;Rode van Boskoop;Productieregio Zuid;1994/'95;197.0;17.0;12.0;-5.0;192.0
+409;Rode van Boskoop;Productieregio Zuid;1995/'96;192.0;17.0;9.0;-8.0;184.0
+410;Rode van Boskoop;Productieregio Zuid;1996/'97;184.0;15.0;7.0;-8.0;176.0
+411;Rode van Boskoop;Productieregio Zuid;1997/'98;176.0;14.0;5.0;-9.0;167.0
+412;Rode van Boskoop;Productieregio Zuid;1998/'99;167.0;11.0;5.0;-6.0;161.0
+413;Rode van Boskoop;Productieregio Zuid;1999/'00;161.0;19.0;7.0;-12.0;149.0
+414;Rode van Boskoop;Productieregio Zuid;2000/'01;149.0;14.0;2.0;-12.0;137.0
+415;Rode van Boskoop;Productieregio Zuid;2001/'02;137.0;8.0;1.0;-7.0;130.0
+416;Rode van Boskoop;Productieregio Zuid;2002/'03;130.0;22.0;1.0;-21.0;109.0
+417;Rode van Boskoop;Productieregio Zuid;2003/'04;109.0;;;-8.0;101.0
+418;Rode van Boskoop;Productieregio Zuid;2004/'05;101.0;;;7.0;108.0
+419;Rode van Boskoop;Productieregio Zuid;2005/'06;108.0;;;-19.0;89.0
+420;Delbarestivale (Delcorf);Nederland;1992/'93;;;;;
+421;Delbarestivale (Delcorf);Nederland;1993/'94;;;;;
+422;Delbarestivale (Delcorf);Nederland;1994/'95;;;;;
+423;Delbarestivale (Delcorf);Nederland;1995/'96;;;;;
+424;Delbarestivale (Delcorf);Nederland;1996/'97;;;;;0.0
+425;Delbarestivale (Delcorf);Nederland;1997/'98;211.0;8.0;10.0;2.0;213.0
+426;Delbarestivale (Delcorf);Nederland;1998/'99;213.0;1.0;22.0;21.0;234.0
+427;Delbarestivale (Delcorf);Nederland;1999/'00;234.0;22.0;38.0;16.0;250.0
+428;Delbarestivale (Delcorf);Nederland;2000/'01;250.0;10.0;40.0;30.0;280.0
+429;Delbarestivale (Delcorf);Nederland;2001/'02;280.0;6.0;44.0;38.0;318.0
+430;Delbarestivale (Delcorf);Nederland;2002/'03;318.0;63.0;50.0;-13.0;305.0
+431;Delbarestivale (Delcorf);Nederland;2003/'04;305.0;;;-19.0;286.0
+432;Delbarestivale (Delcorf);Nederland;2004/'05;286.0;;;-29.0;257.0
+433;Delbarestivale (Delcorf);Nederland;2005/'06;257.0;;;-11.0;246.0
+434;Delbarestivale (Delcorf);Productieregio Noord;1992/'93;;;;;
+435;Delbarestivale (Delcorf);Productieregio Noord;1993/'94;;;;;
+436;Delbarestivale (Delcorf);Productieregio Noord;1994/'95;;;;;
+437;Delbarestivale (Delcorf);Productieregio Noord;1995/'96;;;;;
+438;Delbarestivale (Delcorf);Productieregio Noord;1996/'97;;;;;0.0
+439;Delbarestivale (Delcorf);Productieregio Noord;1997/'98;22.0;1.0;2.0;1.0;23.0
+440;Delbarestivale (Delcorf);Productieregio Noord;1998/'99;23.0;0.0;1.0;1.0;24.0
+441;Delbarestivale (Delcorf);Productieregio Noord;1999/'00;24.0;3.0;1.0;-2.0;22.0
+442;Delbarestivale (Delcorf);Productieregio Noord;2000/'01;22.0;2.0;1.0;-1.0;21.0
+443;Delbarestivale (Delcorf);Productieregio Noord;2001/'02;21.0;2.0;1.0;-1.0;20.0
+444;Delbarestivale (Delcorf);Productieregio Noord;2002/'03;20.0;5.0;2.0;-3.0;17.0
+445;Delbarestivale (Delcorf);Productieregio Noord;2003/'04;17.0;;;-3.0;14.0
+446;Delbarestivale (Delcorf);Productieregio Noord;2004/'05;14.0;;;3.0;17.0
+447;Delbarestivale (Delcorf);Productieregio Noord;2005/'06;17.0;;;-5.0;12.0
+448;Delbarestivale (Delcorf);Productieregio West;1992/'93;;;;;
+449;Delbarestivale (Delcorf);Productieregio West;1993/'94;;;;;
+450;Delbarestivale (Delcorf);Productieregio West;1994/'95;;;;;
+451;Delbarestivale (Delcorf);Productieregio West;1995/'96;;;;;
+452;Delbarestivale (Delcorf);Productieregio West;1996/'97;;;;;0.0
+453;Delbarestivale (Delcorf);Productieregio West;1997/'98;50.0;6.0;6.0;0.0;50.0
+454;Delbarestivale (Delcorf);Productieregio West;1998/'99;50.0;1.0;12.0;11.0;61.0
+455;Delbarestivale (Delcorf);Productieregio West;1999/'00;61.0;7.0;10.0;3.0;64.0
+456;Delbarestivale (Delcorf);Productieregio West;2000/'01;64.0;3.0;13.0;10.0;74.0
+457;Delbarestivale (Delcorf);Productieregio West;2001/'02;74.0;1.0;15.0;14.0;88.0
+458;Delbarestivale (Delcorf);Productieregio West;2002/'03;88.0;18.0;16.0;-2.0;86.0
+459;Delbarestivale (Delcorf);Productieregio West;2003/'04;86.0;;;-2.0;84.0
+460;Delbarestivale (Delcorf);Productieregio West;2004/'05;84.0;;;-7.0;77.0
+461;Delbarestivale (Delcorf);Productieregio West;2005/'06;77.0;;;-17.0;60.0
+462;Delbarestivale (Delcorf);Productieregio Midden;1992/'93;;;;;
+463;Delbarestivale (Delcorf);Productieregio Midden;1993/'94;;;;;
+464;Delbarestivale (Delcorf);Productieregio Midden;1994/'95;;;;;
+465;Delbarestivale (Delcorf);Productieregio Midden;1995/'96;;;;;
+466;Delbarestivale (Delcorf);Productieregio Midden;1996/'97;;;;;0.0
+467;Delbarestivale (Delcorf);Productieregio Midden;1997/'98;109.0;1.0;1.0;0.0;109.0
+468;Delbarestivale (Delcorf);Productieregio Midden;1998/'99;109.0;0.0;8.0;8.0;117.0
+469;Delbarestivale (Delcorf);Productieregio Midden;1999/'00;117.0;12.0;25.0;13.0;130.0
+470;Delbarestivale (Delcorf);Productieregio Midden;2000/'01;130.0;5.0;20.0;15.0;145.0
+471;Delbarestivale (Delcorf);Productieregio Midden;2001/'02;145.0;2.0;24.0;22.0;167.0
+472;Delbarestivale (Delcorf);Productieregio Midden;2002/'03;167.0;35.0;28.0;-7.0;160.0
+473;Delbarestivale (Delcorf);Productieregio Midden;2003/'04;160.0;;;-10.0;150.0
+474;Delbarestivale (Delcorf);Productieregio Midden;2004/'05;150.0;;;-29.0;121.0
+475;Delbarestivale (Delcorf);Productieregio Midden;2005/'06;121.0;;;16.0;137.0
+476;Delbarestivale (Delcorf);Productieregio Zuid;1992/'93;;;;;
+477;Delbarestivale (Delcorf);Productieregio Zuid;1993/'94;;;;;
+478;Delbarestivale (Delcorf);Productieregio Zuid;1994/'95;;;;;
+479;Delbarestivale (Delcorf);Productieregio Zuid;1995/'96;;;;;
+480;Delbarestivale (Delcorf);Productieregio Zuid;1996/'97;;;;;
+481;Delbarestivale (Delcorf);Productieregio Zuid;1997/'98;30.0;0.0;1.0;1.0;31.0
+482;Delbarestivale (Delcorf);Productieregio Zuid;1998/'99;31.0;0.0;1.0;1.0;32.0
+483;Delbarestivale (Delcorf);Productieregio Zuid;1999/'00;32.0;0.0;2.0;2.0;34.0
+484;Delbarestivale (Delcorf);Productieregio Zuid;2000/'01;34.0;0.0;6.0;6.0;40.0
+485;Delbarestivale (Delcorf);Productieregio Zuid;2001/'02;40.0;1.0;4.0;3.0;43.0
+486;Delbarestivale (Delcorf);Productieregio Zuid;2002/'03;43.0;5.0;4.0;-1.0;42.0
+487;Delbarestivale (Delcorf);Productieregio Zuid;2003/'04;42.0;;;-4.0;38.0
+488;Delbarestivale (Delcorf);Productieregio Zuid;2004/'05;38.0;;;4.0;42.0
+489;Delbarestivale (Delcorf);Productieregio Zuid;2005/'06;42.0;;;-5.0;37.0
+490;Gala;Nederland;1992/'93;;;;;
+491;Gala;Nederland;1993/'94;;;;;
+492;Gala;Nederland;1994/'95;;;;;
+493;Gala;Nederland;1995/'96;;;;;
+494;Gala;Nederland;1996/'97;;;;;0.0
+495;Gala;Nederland;1997/'98;110.0;4.0;7.0;3.0;113.0
+496;Gala;Nederland;1998/'99;113.0;2.0;2.0;0.0;113.0
+497;Gala;Nederland;1999/'00;113.0;19.0;1.0;-18.0;95.0
+498;Gala;Nederland;2000/'01;95.0;4.0;2.0;-2.0;93.0
+499;Gala;Nederland;2001/'02;93.0;3.0;2.0;-1.0;92.0
+500;Gala;Nederland;2002/'03;92.0;19.0;2.0;-17.0;75.0
+501;Gala;Nederland;2003/'04;75.0;;;-18.0;57.0
+502;Gala;Nederland;2004/'05;57.0;;;-4.0;53.0
+503;Gala;Nederland;2005/'06;;;;;
+504;Gala;Productieregio Noord;1992/'93;;;;;
+505;Gala;Productieregio Noord;1993/'94;;;;;
+506;Gala;Productieregio Noord;1994/'95;;;;;
+507;Gala;Productieregio Noord;1995/'96;;;;;
+508;Gala;Productieregio Noord;1996/'97;;;;;0.0
+509;Gala;Productieregio Noord;1997/'98;27.0;1.0;0.0;-1.0;26.0
+510;Gala;Productieregio Noord;1998/'99;26.0;0.0;0.0;0.0;26.0
+511;Gala;Productieregio Noord;1999/'00;26.0;5.0;0.0;-5.0;21.0
+512;Gala;Productieregio Noord;2000/'01;21.0;2.0;0.0;-2.0;19.0
+513;Gala;Productieregio Noord;2001/'02;19.0;1.0;0.0;-1.0;18.0
+514;Gala;Productieregio Noord;2002/'03;18.0;7.0;1.0;-6.0;12.0
+515;Gala;Productieregio Noord;2003/'04;12.0;;;-7.0;5.0
+516;Gala;Productieregio Noord;2004/'05;5.0;;;0.0;5.0
+517;Gala;Productieregio Noord;2005/'06;;;;;
+518;Gala;Productieregio West;1992/'93;;;;;
+519;Gala;Productieregio West;1993/'94;;;;;
+520;Gala;Productieregio West;1994/'95;;;;;
+521;Gala;Productieregio West;1995/'96;;;;;
+522;Gala;Productieregio West;1996/'97;;;;;0.0
+523;Gala;Productieregio West;1997/'98;24.0;2.0;4.0;2.0;26.0
+524;Gala;Productieregio West;1998/'99;26.0;0.0;0.0;0.0;26.0
+525;Gala;Productieregio West;1999/'00;26.0;4.0;0.0;-4.0;22.0
+526;Gala;Productieregio West;2000/'01;22.0;0.0;2.0;2.0;24.0
+527;Gala;Productieregio West;2001/'02;24.0;1.0;1.0;0.0;24.0
+528;Gala;Productieregio West;2002/'03;24.0;4.0;0.0;-4.0;20.0
+529;Gala;Productieregio West;2003/'04;20.0;;;-6.0;14.0
+530;Gala;Productieregio West;2004/'05;14.0;;;6.0;20.0
+531;Gala;Productieregio West;2005/'06;;;;;
+532;Gala;Productieregio Midden;1992/'93;;;;;
+533;Gala;Productieregio Midden;1993/'94;;;;;
+534;Gala;Productieregio Midden;1994/'95;;;;;
+535;Gala;Productieregio Midden;1995/'96;;;;;
+536;Gala;Productieregio Midden;1996/'97;;;;;0.0
+537;Gala;Productieregio Midden;1997/'98;47.0;0.0;3.0;3.0;50.0
+538;Gala;Productieregio Midden;1998/'99;50.0;1.0;1.0;0.0;50.0
+539;Gala;Productieregio Midden;1999/'00;50.0;8.0;0.0;-8.0;42.0
+540;Gala;Productieregio Midden;2000/'01;42.0;2.0;0.0;-2.0;40.0
+541;Gala;Productieregio Midden;2001/'02;40.0;1.0;0.0;-1.0;39.0
+542;Gala;Productieregio Midden;2002/'03;39.0;4.0;1.0;-3.0;36.0
+543;Gala;Productieregio Midden;2003/'04;36.0;;;-3.0;33.0
+544;Gala;Productieregio Midden;2004/'05;33.0;;;-11.0;22.0
+545;Gala;Productieregio Midden;2005/'06;;;;;
+546;Gala;Productieregio Zuid;1992/'93;;;;;
+547;Gala;Productieregio Zuid;1993/'94;;;;;
+548;Gala;Productieregio Zuid;1994/'95;;;;;
+549;Gala;Productieregio Zuid;1995/'96;;;;;
+550;Gala;Productieregio Zuid;1996/'97;;;;;
+551;Gala;Productieregio Zuid;1997/'98;12.0;1.0;0.0;-1.0;11.0
+552;Gala;Productieregio Zuid;1998/'99;11.0;1.0;1.0;0.0;11.0
+553;Gala;Productieregio Zuid;1999/'00;11.0;2.0;1.0;-1.0;10.0
+554;Gala;Productieregio Zuid;2000/'01;10.0;0.0;0.0;0.0;10.0
+555;Gala;Productieregio Zuid;2001/'02;10.0;0.0;1.0;1.0;11.0
+556;Gala;Productieregio Zuid;2002/'03;11.0;4.0;0.0;-4.0;7.0
+557;Gala;Productieregio Zuid;2003/'04;7.0;;;-2.0;5.0
+558;Gala;Productieregio Zuid;2004/'05;5.0;;;1.0;6.0
+559;Gala;Productieregio Zuid;2005/'06;;;;;
+560;Kanzi;Nederland;1992/'93;;;;;
+561;Kanzi;Nederland;1993/'94;;;;;
+562;Kanzi;Nederland;1994/'95;;;;;
+563;Kanzi;Nederland;1995/'96;;;;;
+564;Kanzi;Nederland;1996/'97;;;;;
+565;Kanzi;Nederland;1997/'98;;;;;
+566;Kanzi;Nederland;1998/'99;;;;;
+567;Kanzi;Nederland;1999/'00;;;;;
+568;Kanzi;Nederland;2000/'01;;;;;
+569;Kanzi;Nederland;2001/'02;;;;;
+570;Kanzi;Nederland;2002/'03;;;;;
+571;Kanzi;Nederland;2003/'04;;;;;
+572;Kanzi;Nederland;2004/'05;;;;;
+573;Kanzi;Nederland;2005/'06;51.0;;;141.0;192.0
+574;Kanzi;Productieregio Noord;1992/'93;;;;;
+575;Kanzi;Productieregio Noord;1993/'94;;;;;
+576;Kanzi;Productieregio Noord;1994/'95;;;;;
+577;Kanzi;Productieregio Noord;1995/'96;;;;;
+578;Kanzi;Productieregio Noord;1996/'97;;;;;
+579;Kanzi;Productieregio Noord;1997/'98;;;;;
+580;Kanzi;Productieregio Noord;1998/'99;;;;;
+581;Kanzi;Productieregio Noord;1999/'00;;;;;
+582;Kanzi;Productieregio Noord;2000/'01;;;;;
+583;Kanzi;Productieregio Noord;2001/'02;;;;;
+584;Kanzi;Productieregio Noord;2002/'03;;;;;
+585;Kanzi;Productieregio Noord;2003/'04;;;;;
+586;Kanzi;Productieregio Noord;2004/'05;;;;;
+587;Kanzi;Productieregio Noord;2005/'06;0.0;;;3.0;3.0
+588;Kanzi;Productieregio West;1992/'93;;;;;
+589;Kanzi;Productieregio West;1993/'94;;;;;
+590;Kanzi;Productieregio West;1994/'95;;;;;
+591;Kanzi;Productieregio West;1995/'96;;;;;
+592;Kanzi;Productieregio West;1996/'97;;;;;
+593;Kanzi;Productieregio West;1997/'98;;;;;
+594;Kanzi;Productieregio West;1998/'99;;;;;
+595;Kanzi;Productieregio West;1999/'00;;;;;
+596;Kanzi;Productieregio West;2000/'01;;;;;
+597;Kanzi;Productieregio West;2001/'02;;;;;
+598;Kanzi;Productieregio West;2002/'03;;;;;
+599;Kanzi;Productieregio West;2003/'04;;;;;
+600;Kanzi;Productieregio West;2004/'05;;;;;
+601;Kanzi;Productieregio West;2005/'06;2.0;;;20.0;22.0
+602;Kanzi;Productieregio Midden;1992/'93;;;;;
+603;Kanzi;Productieregio Midden;1993/'94;;;;;
+604;Kanzi;Productieregio Midden;1994/'95;;;;;
+605;Kanzi;Productieregio Midden;1995/'96;;;;;
+606;Kanzi;Productieregio Midden;1996/'97;;;;;
+607;Kanzi;Productieregio Midden;1997/'98;;;;;
+608;Kanzi;Productieregio Midden;1998/'99;;;;;
+609;Kanzi;Productieregio Midden;1999/'00;;;;;
+610;Kanzi;Productieregio Midden;2000/'01;;;;;
+611;Kanzi;Productieregio Midden;2001/'02;;;;;
+612;Kanzi;Productieregio Midden;2002/'03;;;;;
+613;Kanzi;Productieregio Midden;2003/'04;;;;;
+614;Kanzi;Productieregio Midden;2004/'05;;;;;
+615;Kanzi;Productieregio Midden;2005/'06;40.0;;;92.0;132.0
+616;Kanzi;Productieregio Zuid;1992/'93;;;;;
+617;Kanzi;Productieregio Zuid;1993/'94;;;;;
+618;Kanzi;Productieregio Zuid;1994/'95;;;;;
+619;Kanzi;Productieregio Zuid;1995/'96;;;;;
+620;Kanzi;Productieregio Zuid;1996/'97;;;;;
+621;Kanzi;Productieregio Zuid;1997/'98;;;;;
+622;Kanzi;Productieregio Zuid;1998/'99;;;;;
+623;Kanzi;Productieregio Zuid;1999/'00;;;;;
+624;Kanzi;Productieregio Zuid;2000/'01;;;;;
+625;Kanzi;Productieregio Zuid;2001/'02;;;;;
+626;Kanzi;Productieregio Zuid;2002/'03;;;;;
+627;Kanzi;Productieregio Zuid;2003/'04;;;;;
+628;Kanzi;Productieregio Zuid;2004/'05;;;;;
+629;Kanzi;Productieregio Zuid;2005/'06;9.0;;;26.0;35.0
+630;Junami;Nederland;1992/'93;;;;;
+631;Junami;Nederland;1993/'94;;;;;
+632;Junami;Nederland;1994/'95;;;;;
+633;Junami;Nederland;1995/'96;;;;;
+634;Junami;Nederland;1996/'97;;;;;
+635;Junami;Nederland;1997/'98;;;;;
+636;Junami;Nederland;1998/'99;;;;;
+637;Junami;Nederland;1999/'00;;;;;
+638;Junami;Nederland;2000/'01;;;;;
+639;Junami;Nederland;2001/'02;;;;;
+640;Junami;Nederland;2002/'03;;;;;
+641;Junami;Nederland;2003/'04;;;;;
+642;Junami;Nederland;2004/'05;;;;;
+643;Junami;Nederland;2005/'06;26.0;;;75.0;101.0
+644;Junami;Productieregio Noord;1992/'93;;;;;
+645;Junami;Productieregio Noord;1993/'94;;;;;
+646;Junami;Productieregio Noord;1994/'95;;;;;
+647;Junami;Productieregio Noord;1995/'96;;;;;
+648;Junami;Productieregio Noord;1996/'97;;;;;
+649;Junami;Productieregio Noord;1997/'98;;;;;
+650;Junami;Productieregio Noord;1998/'99;;;;;
+651;Junami;Productieregio Noord;1999/'00;;;;;
+652;Junami;Productieregio Noord;2000/'01;;;;;
+653;Junami;Productieregio Noord;2001/'02;;;;;
+654;Junami;Productieregio Noord;2002/'03;;;;;
+655;Junami;Productieregio Noord;2003/'04;;;;;
+656;Junami;Productieregio Noord;2004/'05;;;;;
+657;Junami;Productieregio Noord;2005/'06;0.0;;;2.0;2.0
+658;Junami;Productieregio West;1992/'93;;;;;
+659;Junami;Productieregio West;1993/'94;;;;;
+660;Junami;Productieregio West;1994/'95;;;;;
+661;Junami;Productieregio West;1995/'96;;;;;
+662;Junami;Productieregio West;1996/'97;;;;;
+663;Junami;Productieregio West;1997/'98;;;;;
+664;Junami;Productieregio West;1998/'99;;;;;
+665;Junami;Productieregio West;1999/'00;;;;;
+666;Junami;Productieregio West;2000/'01;;;;;
+667;Junami;Productieregio West;2001/'02;;;;;
+668;Junami;Productieregio West;2002/'03;;;;;
+669;Junami;Productieregio West;2003/'04;;;;;
+670;Junami;Productieregio West;2004/'05;;;;;
+671;Junami;Productieregio West;2005/'06;14.0;;;9.0;23.0
+672;Junami;Productieregio Midden;1992/'93;;;;;
+673;Junami;Productieregio Midden;1993/'94;;;;;
+674;Junami;Productieregio Midden;1994/'95;;;;;
+675;Junami;Productieregio Midden;1995/'96;;;;;
+676;Junami;Productieregio Midden;1996/'97;;;;;
+677;Junami;Productieregio Midden;1997/'98;;;;;
+678;Junami;Productieregio Midden;1998/'99;;;;;
+679;Junami;Productieregio Midden;1999/'00;;;;;
+680;Junami;Productieregio Midden;2000/'01;;;;;
+681;Junami;Productieregio Midden;2001/'02;;;;;
+682;Junami;Productieregio Midden;2002/'03;;;;;
+683;Junami;Productieregio Midden;2003/'04;;;;;
+684;Junami;Productieregio Midden;2004/'05;;;;;
+685;Junami;Productieregio Midden;2005/'06;10.0;;;21.0;31.0
+686;Junami;Productieregio Zuid;1992/'93;;;;;
+687;Junami;Productieregio Zuid;1993/'94;;;;;
+688;Junami;Productieregio Zuid;1994/'95;;;;;
+689;Junami;Productieregio Zuid;1995/'96;;;;;
+690;Junami;Productieregio Zuid;1996/'97;;;;;
+691;Junami;Productieregio Zuid;1997/'98;;;;;
+692;Junami;Productieregio Zuid;1998/'99;;;;;
+693;Junami;Productieregio Zuid;1999/'00;;;;;
+694;Junami;Productieregio Zuid;2000/'01;;;;;
+695;Junami;Productieregio Zuid;2001/'02;;;;;
+696;Junami;Productieregio Zuid;2002/'03;;;;;
+697;Junami;Productieregio Zuid;2003/'04;;;;;
+698;Junami;Productieregio Zuid;2004/'05;;;;;
+699;Junami;Productieregio Zuid;2005/'06;2.0;;;43.0;45.0
+700;Rubens;Nederland;1992/'93;;;;;
+701;Rubens;Nederland;1993/'94;;;;;
+702;Rubens;Nederland;1994/'95;;;;;
+703;Rubens;Nederland;1995/'96;;;;;
+704;Rubens;Nederland;1996/'97;;;;;
+705;Rubens;Nederland;1997/'98;;;;;
+706;Rubens;Nederland;1998/'99;;;;;
+707;Rubens;Nederland;1999/'00;;;;;
+708;Rubens;Nederland;2000/'01;;;;;
+709;Rubens;Nederland;2001/'02;;;;;
+710;Rubens;Nederland;2002/'03;;;;;
+711;Rubens;Nederland;2003/'04;;;;;
+712;Rubens;Nederland;2004/'05;;;;;
+713;Rubens;Nederland;2005/'06;31.0;;;41.0;72.0
+714;Rubens;Productieregio Noord;1992/'93;;;;;
+715;Rubens;Productieregio Noord;1993/'94;;;;;
+716;Rubens;Productieregio Noord;1994/'95;;;;;
+717;Rubens;Productieregio Noord;1995/'96;;;;;
+718;Rubens;Productieregio Noord;1996/'97;;;;;
+719;Rubens;Productieregio Noord;1997/'98;;;;;
+720;Rubens;Productieregio Noord;1998/'99;;;;;
+721;Rubens;Productieregio Noord;1999/'00;;;;;
+722;Rubens;Productieregio Noord;2000/'01;;;;;
+723;Rubens;Productieregio Noord;2001/'02;;;;;
+724;Rubens;Productieregio Noord;2002/'03;;;;;
+725;Rubens;Productieregio Noord;2003/'04;;;;;
+726;Rubens;Productieregio Noord;2004/'05;;;;;
+727;Rubens;Productieregio Noord;2005/'06;0.0;;;22.0;22.0
+728;Rubens;Productieregio West;1992/'93;;;;;
+729;Rubens;Productieregio West;1993/'94;;;;;
+730;Rubens;Productieregio West;1994/'95;;;;;
+731;Rubens;Productieregio West;1995/'96;;;;;
+732;Rubens;Productieregio West;1996/'97;;;;;
+733;Rubens;Productieregio West;1997/'98;;;;;
+734;Rubens;Productieregio West;1998/'99;;;;;
+735;Rubens;Productieregio West;1999/'00;;;;;
+736;Rubens;Productieregio West;2000/'01;;;;;
+737;Rubens;Productieregio West;2001/'02;;;;;
+738;Rubens;Productieregio West;2002/'03;;;;;
+739;Rubens;Productieregio West;2003/'04;;;;;
+740;Rubens;Productieregio West;2004/'05;;;;;
+741;Rubens;Productieregio West;2005/'06;4.0;;;7.0;11.0
+742;Rubens;Productieregio Midden;1992/'93;;;;;
+743;Rubens;Productieregio Midden;1993/'94;;;;;
+744;Rubens;Productieregio Midden;1994/'95;;;;;
+745;Rubens;Productieregio Midden;1995/'96;;;;;
+746;Rubens;Productieregio Midden;1996/'97;;;;;
+747;Rubens;Productieregio Midden;1997/'98;;;;;
+748;Rubens;Productieregio Midden;1998/'99;;;;;
+749;Rubens;Productieregio Midden;1999/'00;;;;;
+750;Rubens;Productieregio Midden;2000/'01;;;;;
+751;Rubens;Productieregio Midden;2001/'02;;;;;
+752;Rubens;Productieregio Midden;2002/'03;;;;;
+753;Rubens;Productieregio Midden;2003/'04;;;;;
+754;Rubens;Productieregio Midden;2004/'05;;;;;
+755;Rubens;Productieregio Midden;2005/'06;26.0;;;12.0;38.0
+756;Rubens;Productieregio Zuid;1992/'93;;;;;
+757;Rubens;Productieregio Zuid;1993/'94;;;;;
+758;Rubens;Productieregio Zuid;1994/'95;;;;;
+759;Rubens;Productieregio Zuid;1995/'96;;;;;
+760;Rubens;Productieregio Zuid;1996/'97;;;;;
+761;Rubens;Productieregio Zuid;1997/'98;;;;;
+762;Rubens;Productieregio Zuid;1998/'99;;;;;
+763;Rubens;Productieregio Zuid;1999/'00;;;;;
+764;Rubens;Productieregio Zuid;2000/'01;;;;;
+765;Rubens;Productieregio Zuid;2001/'02;;;;;
+766;Rubens;Productieregio Zuid;2002/'03;;;;;
+767;Rubens;Productieregio Zuid;2003/'04;;;;;
+768;Rubens;Productieregio Zuid;2004/'05;;;;;
+769;Rubens;Productieregio Zuid;2005/'06;1.0;;;0.0;1.0
+770;Braeburn;Nederland;1992/'93;;;;;
+771;Braeburn;Nederland;1993/'94;;;;;
+772;Braeburn;Nederland;1994/'95;;;;;
+773;Braeburn;Nederland;1995/'96;;;;;
+774;Braeburn;Nederland;1996/'97;;;;;
+775;Braeburn;Nederland;1997/'98;;;;;
+776;Braeburn;Nederland;1998/'99;;;;;
+777;Braeburn;Nederland;1999/'00;;;;;
+778;Braeburn;Nederland;2000/'01;;;;;
+779;Braeburn;Nederland;2001/'02;;;;;
+780;Braeburn;Nederland;2002/'03;;;;;
+781;Braeburn;Nederland;2003/'04;;;;;
+782;Braeburn;Nederland;2004/'05;36.0;;;14.0;50.0
+783;Braeburn;Nederland;2005/'06;50.0;;;10.0;60.0
+784;Braeburn;Productieregio Noord;1992/'93;;;;;
+785;Braeburn;Productieregio Noord;1993/'94;;;;;
+786;Braeburn;Productieregio Noord;1994/'95;;;;;
+787;Braeburn;Productieregio Noord;1995/'96;;;;;
+788;Braeburn;Productieregio Noord;1996/'97;;;;;
+789;Braeburn;Productieregio Noord;1997/'98;;;;;
+790;Braeburn;Productieregio Noord;1998/'99;;;;;
+791;Braeburn;Productieregio Noord;1999/'00;;;;;
+792;Braeburn;Productieregio Noord;2000/'01;;;;;
+793;Braeburn;Productieregio Noord;2001/'02;;;;;
+794;Braeburn;Productieregio Noord;2002/'03;;;;;
+795;Braeburn;Productieregio Noord;2003/'04;;;;;
+796;Braeburn;Productieregio Noord;2004/'05;4.0;;;4.0;8.0
+797;Braeburn;Productieregio Noord;2005/'06;8.0;;;1.0;9.0
+798;Braeburn;Productieregio West;1992/'93;;;;;
+799;Braeburn;Productieregio West;1993/'94;;;;;
+800;Braeburn;Productieregio West;1994/'95;;;;;
+801;Braeburn;Productieregio West;1995/'96;;;;;
+802;Braeburn;Productieregio West;1996/'97;;;;;
+803;Braeburn;Productieregio West;1997/'98;;;;;
+804;Braeburn;Productieregio West;1998/'99;;;;;
+805;Braeburn;Productieregio West;1999/'00;;;;;
+806;Braeburn;Productieregio West;2000/'01;;;;;
+807;Braeburn;Productieregio West;2001/'02;;;;;
+808;Braeburn;Productieregio West;2002/'03;;;;;
+809;Braeburn;Productieregio West;2003/'04;;;;;
+810;Braeburn;Productieregio West;2004/'05;1.0;;;0.0;1.0
+811;Braeburn;Productieregio West;2005/'06;1.0;;;5.0;6.0
+812;Braeburn;Productieregio Midden;1992/'93;;;;;
+813;Braeburn;Productieregio Midden;1993/'94;;;;;
+814;Braeburn;Productieregio Midden;1994/'95;;;;;
+815;Braeburn;Productieregio Midden;1995/'96;;;;;
+816;Braeburn;Productieregio Midden;1996/'97;;;;;
+817;Braeburn;Productieregio Midden;1997/'98;;;;;
+818;Braeburn;Productieregio Midden;1998/'99;;;;;
+819;Braeburn;Productieregio Midden;1999/'00;;;;;
+820;Braeburn;Productieregio Midden;2000/'01;;;;;
+821;Braeburn;Productieregio Midden;2001/'02;;;;;
+822;Braeburn;Productieregio Midden;2002/'03;;;;;
+823;Braeburn;Productieregio Midden;2003/'04;;;;;
+824;Braeburn;Productieregio Midden;2004/'05;11.0;;;5.0;16.0
+825;Braeburn;Productieregio Midden;2005/'06;16.0;;;2.0;18.0
+826;Braeburn;Productieregio Zuid;1992/'93;;;;;
+827;Braeburn;Productieregio Zuid;1993/'94;;;;;
+828;Braeburn;Productieregio Zuid;1994/'95;;;;;
+829;Braeburn;Productieregio Zuid;1995/'96;;;;;
+830;Braeburn;Productieregio Zuid;1996/'97;;;;;
+831;Braeburn;Productieregio Zuid;1997/'98;;;;;
+832;Braeburn;Productieregio Zuid;1998/'99;;;;;
+833;Braeburn;Productieregio Zuid;1999/'00;;;;;
+834;Braeburn;Productieregio Zuid;2000/'01;;;;;
+835;Braeburn;Productieregio Zuid;2001/'02;;;;;
+836;Braeburn;Productieregio Zuid;2002/'03;;;;;
+837;Braeburn;Productieregio Zuid;2003/'04;;;;;
+838;Braeburn;Productieregio Zuid;2004/'05;20.0;;;5.0;25.0
+839;Braeburn;Productieregio Zuid;2005/'06;25.0;;;2.0;27.0
+840;Overige appelrassen;Nederland;1992/'93;2762.0;323.0;95.0;-228.0;2534.0
+841;Overige appelrassen;Nederland;1993/'94;2534.0;264.0;53.0;-211.0;2323.0
+842;Overige appelrassen;Nederland;1994/'95;2323.0;412.0;47.0;-365.0;1958.0
+843;Overige appelrassen;Nederland;1995/'96;1958.0;328.0;52.0;-276.0;1682.0
+844;Overige appelrassen;Nederland;1996/'97;1682.0;248.0;58.0;-190.0;1492.0
+845;Overige appelrassen;Nederland;1997/'98;1171.0;162.0;43.0;-119.0;1052.0
+846;Overige appelrassen;Nederland;1998/'99;1052.0;129.0;50.0;-79.0;973.0
+847;Overige appelrassen;Nederland;1999/'00;973.0;189.0;54.0;-135.0;838.0
+848;Overige appelrassen;Nederland;2000/'01;838.0;179.0;45.0;-134.0;704.0
+849;Overige appelrassen;Nederland;2001/'02;704.0;139.0;45.0;-94.0;610.0
+850;Overige appelrassen;Nederland;2002/'03;610.0;146.0;50.0;-96.0;514.0
+851;Overige appelrassen;Nederland;2003/'04;514.0;;;-98.0;416.0
+852;Overige appelrassen;Nederland;2004/'05;380.0;;;41.0;421.0
+853;Overige appelrassen;Nederland;2005/'06;366.0;;;50.0;416.0
+854;Overige appelrassen;Productieregio Noord;1992/'93;359.0;32.0;13.0;-19.0;340.0
+855;Overige appelrassen;Productieregio Noord;1993/'94;340.0;43.0;5.0;-38.0;302.0
+856;Overige appelrassen;Productieregio Noord;1994/'95;302.0;51.0;4.0;-47.0;255.0
+857;Overige appelrassen;Productieregio Noord;1995/'96;255.0;29.0;4.0;-25.0;230.0
+858;Overige appelrassen;Productieregio Noord;1996/'97;230.0;24.0;6.0;-18.0;212.0
+859;Overige appelrassen;Productieregio Noord;1997/'98;163.0;23.0;2.0;-21.0;142.0
+860;Overige appelrassen;Productieregio Noord;1998/'99;142.0;10.0;6.0;-4.0;138.0
+861;Overige appelrassen;Productieregio Noord;1999/'00;138.0;36.0;15.0;-21.0;117.0
+862;Overige appelrassen;Productieregio Noord;2000/'01;117.0;27.0;9.0;-18.0;99.0
+863;Overige appelrassen;Productieregio Noord;2001/'02;99.0;10.0;7.0;-3.0;96.0
+864;Overige appelrassen;Productieregio Noord;2002/'03;96.0;20.0;8.0;-12.0;84.0
+865;Overige appelrassen;Productieregio Noord;2003/'04;84.0;;;-6.0;78.0
+866;Overige appelrassen;Productieregio Noord;2004/'05;74.0;;;15.0;89.0
+867;Overige appelrassen;Productieregio Noord;2005/'06;94.0;;;24.0;118.0
+868;Overige appelrassen;Productieregio West;1992/'93;791.0;85.0;37.0;-48.0;743.0
+869;Overige appelrassen;Productieregio West;1993/'94;743.0;85.0;24.0;-61.0;682.0
+870;Overige appelrassen;Productieregio West;1994/'95;682.0;129.0;19.0;-110.0;572.0
+871;Overige appelrassen;Productieregio West;1995/'96;572.0;111.0;15.0;-96.0;476.0
+872;Overige appelrassen;Productieregio West;1996/'97;476.0;60.0;4.0;-56.0;420.0
+873;Overige appelrassen;Productieregio West;1997/'98;346.0;51.0;13.0;-38.0;308.0
+874;Overige appelrassen;Productieregio West;1998/'99;308.0;54.0;20.0;-34.0;274.0
+875;Overige appelrassen;Productieregio West;1999/'00;274.0;33.0;10.0;-23.0;251.0
+876;Overige appelrassen;Productieregio West;2000/'01;251.0;39.0;4.0;-35.0;216.0
+877;Overige appelrassen;Productieregio West;2001/'02;216.0;32.0;10.0;-22.0;194.0
+878;Overige appelrassen;Productieregio West;2002/'03;194.0;44.0;10.0;-34.0;160.0
+879;Overige appelrassen;Productieregio West;2003/'04;160.0;;;-32.0;128.0
+880;Overige appelrassen;Productieregio West;2004/'05;127.0;;;-26.0;101.0
+881;Overige appelrassen;Productieregio West;2005/'06;101.0;;;-8.0;93.0
+882;Overige appelrassen;Productieregio Midden;1992/'93;1329.0;163.0;39.0;-124.0;1205.0
+883;Overige appelrassen;Productieregio Midden;1993/'94;1205.0;118.0;18.0;-100.0;1105.0
+884;Overige appelrassen;Productieregio Midden;1994/'95;1105.0;171.0;18.0;-153.0;952.0
+885;Overige appelrassen;Productieregio Midden;1995/'96;952.0;167.0;24.0;-143.0;809.0
+886;Overige appelrassen;Productieregio Midden;1996/'97;809.0;148.0;37.0;-111.0;698.0
+887;Overige appelrassen;Productieregio Midden;1997/'98;542.0;65.0;26.0;-39.0;503.0
+888;Overige appelrassen;Productieregio Midden;1998/'99;503.0;54.0;17.0;-37.0;466.0
+889;Overige appelrassen;Productieregio Midden;1999/'00;466.0;105.0;19.0;-86.0;380.0
+890;Overige appelrassen;Productieregio Midden;2000/'01;380.0;98.0;24.0;-74.0;306.0
+891;Overige appelrassen;Productieregio Midden;2001/'02;306.0;80.0;22.0;-58.0;248.0
+892;Overige appelrassen;Productieregio Midden;2002/'03;248.0;59.0;26.0;-33.0;215.0
+893;Overige appelrassen;Productieregio Midden;2003/'04;215.0;;;-43.0;172.0
+894;Overige appelrassen;Productieregio Midden;2004/'05;161.0;;;46.0;207.0
+895;Overige appelrassen;Productieregio Midden;2005/'06;153.0;;;32.0;185.0
+896;Overige appelrassen;Productieregio Zuid;1992/'93;283.0;43.0;6.0;-37.0;246.0
+897;Overige appelrassen;Productieregio Zuid;1993/'94;246.0;18.0;6.0;-12.0;234.0
+898;Overige appelrassen;Productieregio Zuid;1994/'95;234.0;61.0;6.0;-55.0;179.0
+899;Overige appelrassen;Productieregio Zuid;1995/'96;179.0;21.0;9.0;-12.0;167.0
+900;Overige appelrassen;Productieregio Zuid;1996/'97;167.0;16.0;11.0;-5.0;162.0
+901;Overige appelrassen;Productieregio Zuid;1997/'98;120.0;23.0;2.0;-21.0;99.0
+902;Overige appelrassen;Productieregio Zuid;1998/'99;99.0;11.0;7.0;-4.0;95.0
+903;Overige appelrassen;Productieregio Zuid;1999/'00;95.0;15.0;10.0;-5.0;90.0
+904;Overige appelrassen;Productieregio Zuid;2000/'01;90.0;15.0;8.0;-7.0;83.0
+905;Overige appelrassen;Productieregio Zuid;2001/'02;83.0;17.0;6.0;-11.0;72.0
+906;Overige appelrassen;Productieregio Zuid;2002/'03;72.0;23.0;6.0;-17.0;55.0
+907;Overige appelrassen;Productieregio Zuid;2003/'04;55.0;;;-17.0;38.0
+908;Overige appelrassen;Productieregio Zuid;2004/'05;18.0;;;6.0;24.0
+909;Overige appelrassen;Productieregio Zuid;2005/'06;18.0;;;2.0;20.0
+910;Totaal perenbomen;Nederland;1992/'93;5405.0;68.0;255.0;187.0;5592.0
+911;Totaal perenbomen;Nederland;1993/'94;5592.0;110.0;250.0;140.0;5732.0
+912;Totaal perenbomen;Nederland;1994/'95;5732.0;103.0;256.0;153.0;5885.0
+913;Totaal perenbomen;Nederland;1995/'96;5885.0;219.0;268.0;49.0;5934.0
+914;Totaal perenbomen;Nederland;1996/'97;5934.0;185.0;277.0;92.0;6026.0
+915;Totaal perenbomen;Nederland;1997/'98;6026.0;369.0;282.0;-87.0;5939.0
+916;Totaal perenbomen;Nederland;1998/'99;5939.0;206.0;287.0;81.0;6020.0
+917;Totaal perenbomen;Nederland;1999/'00;6020.0;297.0;296.0;-1.0;6019.0
+918;Totaal perenbomen;Nederland;2000/'01;6019.0;239.0;317.0;78.0;6097.0
+919;Totaal perenbomen;Nederland;2001/'02;6097.0;141.0;373.0;232.0;6329.0
+920;Totaal perenbomen;Nederland;2002/'03;6329.0;337.0;394.0;57.0;6386.0
+921;Totaal perenbomen;Nederland;2003/'04;6386.0;242.0;349.0;107.0;6493.0
+922;Totaal perenbomen;Nederland;2004/'05;6493.0;182.0;381.0;199.0;6692.0
+923;Totaal perenbomen;Nederland;2005/'06;6692.0;209.0;431.0;222.0;6914.0
+924;Totaal perenbomen;Productieregio Noord;1992/'93;743.0;13.0;36.0;23.0;766.0
+925;Totaal perenbomen;Productieregio Noord;1993/'94;766.0;4.0;30.0;26.0;792.0
+926;Totaal perenbomen;Productieregio Noord;1994/'95;792.0;18.0;24.0;6.0;798.0
+927;Totaal perenbomen;Productieregio Noord;1995/'96;798.0;4.0;29.0;25.0;823.0
+928;Totaal perenbomen;Productieregio Noord;1996/'97;823.0;6.0;32.0;26.0;849.0
+929;Totaal perenbomen;Productieregio Noord;1997/'98;849.0;64.0;38.0;-26.0;823.0
+930;Totaal perenbomen;Productieregio Noord;1998/'99;823.0;1.0;65.0;64.0;887.0
+931;Totaal perenbomen;Productieregio Noord;1999/'00;887.0;105.0;65.0;-40.0;847.0
+932;Totaal perenbomen;Productieregio Noord;2000/'01;847.0;6.0;79.0;73.0;920.0
+933;Totaal perenbomen;Productieregio Noord;2001/'02;920.0;87.0;74.0;-13.0;907.0
+934;Totaal perenbomen;Productieregio Noord;2002/'03;907.0;54.0;67.0;13.0;920.0
+935;Totaal perenbomen;Productieregio Noord;2003/'04;920.0;11.0;52.0;41.0;961.0
+936;Totaal perenbomen;Productieregio Noord;2004/'05;961.0;52.0;44.0;-8.0;953.0
+937;Totaal perenbomen;Productieregio Noord;2005/'06;953.0;23.0;97.0;74.0;1027.0
+938;Totaal perenbomen;Productieregio West;1992/'93;1976.0;26.0;89.0;63.0;2039.0
+939;Totaal perenbomen;Productieregio West;1993/'94;2039.0;13.0;99.0;86.0;2125.0
+940;Totaal perenbomen;Productieregio West;1994/'95;2125.0;21.0;107.0;86.0;2211.0
+941;Totaal perenbomen;Productieregio West;1995/'96;2211.0;85.0;121.0;36.0;2247.0
+942;Totaal perenbomen;Productieregio West;1996/'97;2247.0;28.0;119.0;91.0;2338.0
+943;Totaal perenbomen;Productieregio West;1997/'98;2338.0;195.0;118.0;-77.0;2261.0
+944;Totaal perenbomen;Productieregio West;1998/'99;2261.0;104.0;107.0;3.0;2264.0
+945;Totaal perenbomen;Productieregio West;1999/'00;2264.0;83.0;115.0;32.0;2296.0
+946;Totaal perenbomen;Productieregio West;2000/'01;2296.0;147.0;113.0;-34.0;2262.0
+947;Totaal perenbomen;Productieregio West;2001/'02;2262.0;29.0;127.0;98.0;2360.0
+948;Totaal perenbomen;Productieregio West;2002/'03;2360.0;70.0;130.0;60.0;2420.0
+949;Totaal perenbomen;Productieregio West;2003/'04;2420.0;100.0;138.0;38.0;2458.0
+950;Totaal perenbomen;Productieregio West;2004/'05;2458.0;21.0;146.0;125.0;2583.0
+951;Totaal perenbomen;Productieregio West;2005/'06;2583.0;135.0;135.0;0.0;2583.0
+952;Totaal perenbomen;Productieregio Midden;1992/'93;2431.0;26.0;107.0;81.0;2512.0
+953;Totaal perenbomen;Productieregio Midden;1993/'94;2512.0;67.0;107.0;40.0;2552.0
+954;Totaal perenbomen;Productieregio Midden;1994/'95;2552.0;50.0;108.0;58.0;2610.0
+955;Totaal perenbomen;Productieregio Midden;1995/'96;2610.0;114.0;102.0;-12.0;2598.0
+956;Totaal perenbomen;Productieregio Midden;1996/'97;2598.0;147.0;110.0;-37.0;2561.0
+957;Totaal perenbomen;Productieregio Midden;1997/'98;2561.0;84.0;110.0;26.0;2587.0
+958;Totaal perenbomen;Productieregio Midden;1998/'99;2587.0;78.0;99.0;21.0;2608.0
+959;Totaal perenbomen;Productieregio Midden;1999/'00;2608.0;92.0;101.0;9.0;2617.0
+960;Totaal perenbomen;Productieregio Midden;2000/'01;2617.0;77.0;112.0;35.0;2652.0
+961;Totaal perenbomen;Productieregio Midden;2001/'02;2652.0;14.0;159.0;145.0;2797.0
+962;Totaal perenbomen;Productieregio Midden;2002/'03;2797.0;205.0;174.0;-31.0;2766.0
+963;Totaal perenbomen;Productieregio Midden;2003/'04;2766.0;94.0;149.0;55.0;2821.0
+964;Totaal perenbomen;Productieregio Midden;2004/'05;2821.0;94.0;184.0;90.0;2911.0
+965;Totaal perenbomen;Productieregio Midden;2005/'06;2911.0;50.0;178.0;128.0;3039.0
+966;Totaal perenbomen;Productieregio Zuid;1992/'93;255.0;3.0;23.0;20.0;275.0
+967;Totaal perenbomen;Productieregio Zuid;1993/'94;275.0;26.0;14.0;-12.0;263.0
+968;Totaal perenbomen;Productieregio Zuid;1994/'95;263.0;14.0;17.0;3.0;266.0
+969;Totaal perenbomen;Productieregio Zuid;1995/'96;266.0;16.0;16.0;0.0;266.0
+970;Totaal perenbomen;Productieregio Zuid;1996/'97;266.0;4.0;16.0;12.0;278.0
+971;Totaal perenbomen;Productieregio Zuid;1997/'98;278.0;26.0;16.0;-10.0;268.0
+972;Totaal perenbomen;Productieregio Zuid;1998/'99;268.0;23.0;16.0;-7.0;261.0
+973;Totaal perenbomen;Productieregio Zuid;1999/'00;261.0;17.0;15.0;-2.0;259.0
+974;Totaal perenbomen;Productieregio Zuid;2000/'01;259.0;9.0;13.0;4.0;263.0
+975;Totaal perenbomen;Productieregio Zuid;2001/'02;263.0;11.0;13.0;2.0;265.0
+976;Totaal perenbomen;Productieregio Zuid;2002/'03;265.0;8.0;23.0;15.0;280.0
+977;Totaal perenbomen;Productieregio Zuid;2003/'04;280.0;37.0;10.0;-27.0;253.0
+978;Totaal perenbomen;Productieregio Zuid;2004/'05;253.0;15.0;7.0;-8.0;245.0
+979;Totaal perenbomen;Productieregio Zuid;2005/'06;245.0;1.0;21.0;20.0;265.0
+980;Conference;Nederland;1992/'93;2702.0;6.0;183.0;177.0;2879.0
+981;Conference;Nederland;1993/'94;2879.0;18.0;174.0;156.0;3035.0
+982;Conference;Nederland;1994/'95;3035.0;11.0;174.0;163.0;3198.0
+983;Conference;Nederland;1995/'96;3198.0;66.0;170.0;104.0;3302.0
+984;Conference;Nederland;1996/'97;3302.0;40.0;183.0;143.0;3445.0
+985;Conference;Nederland;1997/'98;3445.0;195.0;213.0;18.0;3463.0
+986;Conference;Nederland;1998/'99;3463.0;94.0;221.0;127.0;3590.0
+987;Conference;Nederland;1999/'00;3590.0;161.0;232.0;71.0;3661.0
+988;Conference;Nederland;2000/'01;3661.0;115.0;258.0;143.0;3804.0
+989;Conference;Nederland;2001/'02;3804.0;81.0;312.0;231.0;4035.0
+990;Conference;Nederland;2002/'03;4035.0;119.0;345.0;226.0;4261.0
+991;Conference;Nederland;2003/'04;4261.0;;;246.0;4507.0
+992;Conference;Nederland;2004/'05;4507.0;;;190.0;4697.0
+993;Conference;Nederland;2005/'06;4697.0;;;376.0;5073.0
+994;Conference;Productieregio Noord;1992/'93;390.0;0.0;26.0;26.0;416.0
+995;Conference;Productieregio Noord;1993/'94;416.0;0.0;22.0;22.0;438.0
+996;Conference;Productieregio Noord;1994/'95;438.0;1.0;13.0;12.0;450.0
+997;Conference;Productieregio Noord;1995/'96;450.0;0.0;24.0;24.0;474.0
+998;Conference;Productieregio Noord;1996/'97;474.0;0.0;25.0;25.0;499.0
+999;Conference;Productieregio Noord;1997/'98;499.0;32.0;31.0;-1.0;498.0
+1000;Conference;Productieregio Noord;1998/'99;498.0;0.0;53.0;53.0;551.0
+1001;Conference;Productieregio Noord;1999/'00;551.0;66.0;58.0;-8.0;543.0
+1002;Conference;Productieregio Noord;2000/'01;543.0;0.0;64.0;64.0;607.0
+1003;Conference;Productieregio Noord;2001/'02;607.0;59.0;65.0;6.0;613.0
+1004;Conference;Productieregio Noord;2002/'03;613.0;28.0;60.0;32.0;645.0
+1005;Conference;Productieregio Noord;2003/'04;645.0;;;40.0;685.0
+1006;Conference;Productieregio Noord;2004/'05;685.0;;;-4.0;681.0
+1007;Conference;Productieregio Noord;2005/'06;681.0;;;83.0;764.0
+1008;Conference;Productieregio West;1992/'93;945.0;0.0;62.0;62.0;1007.0
+1009;Conference;Productieregio West;1993/'94;1007.0;0.0;75.0;75.0;1082.0
+1010;Conference;Productieregio West;1994/'95;1082.0;0.0;78.0;78.0;1160.0
+1011;Conference;Productieregio West;1995/'96;1160.0;15.0;68.0;53.0;1213.0
+1012;Conference;Productieregio West;1996/'97;1213.0;0.0;90.0;90.0;1303.0
+1013;Conference;Productieregio West;1997/'98;1303.0;111.0;84.0;-27.0;1276.0
+1014;Conference;Productieregio West;1998/'99;1276.0;50.0;77.0;27.0;1303.0
+1015;Conference;Productieregio West;1999/'00;1303.0;44.0;80.0;36.0;1339.0
+1016;Conference;Productieregio West;2000/'01;1339.0;86.0;87.0;1.0;1340.0
+1017;Conference;Productieregio West;2001/'02;1340.0;20.0;98.0;78.0;1418.0
+1018;Conference;Productieregio West;2002/'03;1418.0;0.0;114.0;114.0;1532.0
+1019;Conference;Productieregio West;2003/'04;1532.0;;;99.0;1631.0
+1020;Conference;Productieregio West;2004/'05;1631.0;;;85.0;1716.0
+1021;Conference;Productieregio West;2005/'06;1716.0;;;97.0;1813.0
+1022;Conference;Productieregio Midden;1992/'93;1231.0;4.0;79.0;75.0;1306.0
+1023;Conference;Productieregio Midden;1993/'94;1306.0;4.0;67.0;63.0;1369.0
+1024;Conference;Productieregio Midden;1994/'95;1369.0;2.0;70.0;68.0;1437.0
+1025;Conference;Productieregio Midden;1995/'96;1437.0;43.0;66.0;23.0;1460.0
+1026;Conference;Productieregio Midden;1996/'97;1460.0;39.0;56.0;17.0;1477.0
+1027;Conference;Productieregio Midden;1997/'98;1477.0;41.0;85.0;44.0;1521.0
+1028;Conference;Productieregio Midden;1998/'99;1521.0;34.0;79.0;45.0;1566.0
+1029;Conference;Productieregio Midden;1999/'00;1566.0;44.0;80.0;36.0;1602.0
+1030;Conference;Productieregio Midden;2000/'01;1602.0;28.0;95.0;67.0;1669.0
+1031;Conference;Productieregio Midden;2001/'02;1669.0;0.0;137.0;137.0;1806.0
+1032;Conference;Productieregio Midden;2002/'03;1806.0;91.0;148.0;57.0;1863.0
+1033;Conference;Productieregio Midden;2003/'04;1863.0;;;115.0;1978.0
+1034;Conference;Productieregio Midden;2004/'05;1978.0;;;106.0;2084.0
+1035;Conference;Productieregio Midden;2005/'06;2084.0;;;189.0;2273.0
+1036;Conference;Productieregio Zuid;1992/'93;136.0;2.0;16.0;14.0;150.0
+1037;Conference;Productieregio Zuid;1993/'94;150.0;14.0;10.0;-4.0;146.0
+1038;Conference;Productieregio Zuid;1994/'95;146.0;8.0;13.0;5.0;151.0
+1039;Conference;Productieregio Zuid;1995/'96;151.0;8.0;12.0;4.0;155.0
+1040;Conference;Productieregio Zuid;1996/'97;155.0;1.0;12.0;11.0;166.0
+1041;Conference;Productieregio Zuid;1997/'98;166.0;11.0;13.0;2.0;168.0
+1042;Conference;Productieregio Zuid;1998/'99;168.0;10.0;12.0;2.0;170.0
+1043;Conference;Productieregio Zuid;1999/'00;170.0;7.0;14.0;7.0;177.0
+1044;Conference;Productieregio Zuid;2000/'01;177.0;1.0;12.0;11.0;188.0
+1045;Conference;Productieregio Zuid;2001/'02;188.0;2.0;12.0;10.0;198.0
+1046;Conference;Productieregio Zuid;2002/'03;198.0;0.0;23.0;23.0;221.0
+1047;Conference;Productieregio Zuid;2003/'04;221.0;;;-8.0;213.0
+1048;Conference;Productieregio Zuid;2004/'05;213.0;;;3.0;216.0
+1049;Conference;Productieregio Zuid;2005/'06;216.0;;;7.0;223.0
+1050;Doyenné du Comice;Nederland;1992/'93;1215.0;11.0;35.0;24.0;1239.0
+1051;Doyenné du Comice;Nederland;1993/'94;1239.0;15.0;33.0;18.0;1257.0
+1052;Doyenné du Comice;Nederland;1994/'95;1257.0;12.0;35.0;23.0;1280.0
+1053;Doyenné du Comice;Nederland;1995/'96;1280.0;35.0;34.0;-1.0;1279.0
+1054;Doyenné du Comice;Nederland;1996/'97;1279.0;38.0;33.0;-5.0;1274.0
+1055;Doyenné du Comice;Nederland;1997/'98;1274.0;73.0;29.0;-44.0;1230.0
+1056;Doyenné du Comice;Nederland;1998/'99;1230.0;39.0;29.0;-10.0;1220.0
+1057;Doyenné du Comice;Nederland;1999/'00;1220.0;70.0;22.0;-48.0;1172.0
+1058;Doyenné du Comice;Nederland;2000/'01;1172.0;68.0;19.0;-49.0;1123.0
+1059;Doyenné du Comice;Nederland;2001/'02;1123.0;18.0;14.0;-4.0;1119.0
+1060;Doyenné du Comice;Nederland;2002/'03;1119.0;51.0;11.0;-40.0;1079.0
+1061;Doyenné du Comice;Nederland;2003/'04;1079.0;;;-16.0;1063.0
+1062;Doyenné du Comice;Nederland;2004/'05;1063.0;;;-11.0;1052.0
+1063;Doyenné du Comice;Nederland;2005/'06;1052.0;;;-22.0;1030.0
+1064;Doyenné du Comice;Productieregio Noord;1992/'93;227.0;11.0;4.0;-7.0;220.0
+1065;Doyenné du Comice;Productieregio Noord;1993/'94;220.0;3.0;2.0;-1.0;219.0
+1066;Doyenné du Comice;Productieregio Noord;1994/'95;219.0;12.0;3.0;-9.0;210.0
+1067;Doyenné du Comice;Productieregio Noord;1995/'96;210.0;4.0;0.0;-4.0;206.0
+1068;Doyenné du Comice;Productieregio Noord;1996/'97;206.0;4.0;0.0;-4.0;202.0
+1069;Doyenné du Comice;Productieregio Noord;1997/'98;202.0;14.0;2.0;-12.0;190.0
+1070;Doyenné du Comice;Productieregio Noord;1998/'99;190.0;0.0;9.0;9.0;199.0
+1071;Doyenné du Comice;Productieregio Noord;1999/'00;199.0;19.0;3.0;-16.0;183.0
+1072;Doyenné du Comice;Productieregio Noord;2000/'01;183.0;0.0;11.0;11.0;194.0
+1073;Doyenné du Comice;Productieregio Noord;2001/'02;194.0;9.0;3.0;-6.0;188.0
+1074;Doyenné du Comice;Productieregio Noord;2002/'03;188.0;14.0;1.0;-13.0;175.0
+1075;Doyenné du Comice;Productieregio Noord;2003/'04;175.0;;;6.0;181.0
+1076;Doyenné du Comice;Productieregio Noord;2004/'05;181.0;;;-24.0;157.0
+1077;Doyenné du Comice;Productieregio Noord;2005/'06;157.0;;;18.0;175.0
+1078;Doyenné du Comice;Productieregio West;1992/'93;479.0;0.0;10.0;10.0;489.0
+1079;Doyenné du Comice;Productieregio West;1993/'94;489.0;0.0;12.0;12.0;501.0
+1080;Doyenné du Comice;Productieregio West;1994/'95;501.0;0.0;13.0;13.0;514.0
+1081;Doyenné du Comice;Productieregio West;1995/'96;514.0;19.0;19.0;0.0;514.0
+1082;Doyenné du Comice;Productieregio West;1996/'97;514.0;8.0;13.0;5.0;519.0
+1083;Doyenné du Comice;Productieregio West;1997/'98;519.0;46.0;20.0;-26.0;493.0
+1084;Doyenné du Comice;Productieregio West;1998/'99;493.0;24.0;15.0;-9.0;484.0
+1085;Doyenné du Comice;Productieregio West;1999/'00;484.0;20.0;10.0;-10.0;474.0
+1086;Doyenné du Comice;Productieregio West;2000/'01;474.0;32.0;6.0;-26.0;448.0
+1087;Doyenné du Comice;Productieregio West;2001/'02;448.0;2.0;10.0;8.0;456.0
+1088;Doyenné du Comice;Productieregio West;2002/'03;456.0;2.0;5.0;3.0;459.0
+1089;Doyenné du Comice;Productieregio West;2003/'04;459.0;;;-4.0;455.0
+1090;Doyenné du Comice;Productieregio West;2004/'05;455.0;;;4.0;459.0
+1091;Doyenné du Comice;Productieregio West;2005/'06;459.0;;;-32.0;427.0
+1092;Doyenné du Comice;Productieregio Midden;1992/'93;449.0;0.0;17.0;17.0;466.0
+1093;Doyenné du Comice;Productieregio Midden;1993/'94;466.0;7.0;17.0;10.0;476.0
+1094;Doyenné du Comice;Productieregio Midden;1994/'95;476.0;0.0;19.0;19.0;495.0
+1095;Doyenné du Comice;Productieregio Midden;1995/'96;495.0;8.0;13.0;5.0;500.0
+1096;Doyenné du Comice;Productieregio Midden;1996/'97;500.0;25.0;19.0;-6.0;494.0
+1097;Doyenné du Comice;Productieregio Midden;1997/'98;494.0;6.0;6.0;0.0;494.0
+1098;Doyenné du Comice;Productieregio Midden;1998/'99;494.0;10.0;4.0;-6.0;488.0
+1099;Doyenné du Comice;Productieregio Midden;1999/'00;488.0;27.0;8.0;-19.0;469.0
+1100;Doyenné du Comice;Productieregio Midden;2000/'01;469.0;34.0;2.0;-32.0;437.0
+1101;Doyenné du Comice;Productieregio Midden;2001/'02;437.0;5.0;0.0;-5.0;432.0
+1102;Doyenné du Comice;Productieregio Midden;2002/'03;432.0;32.0;5.0;-27.0;405.0
+1103;Doyenné du Comice;Productieregio Midden;2003/'04;405.0;;;-4.0;401.0
+1104;Doyenné du Comice;Productieregio Midden;2004/'05;401.0;;;11.0;412.0
+1105;Doyenné du Comice;Productieregio Midden;2005/'06;412.0;;;-13.0;399.0
+1106;Doyenné du Comice;Productieregio Zuid;1992/'93;60.0;0.0;4.0;4.0;64.0
+1107;Doyenné du Comice;Productieregio Zuid;1993/'94;64.0;5.0;2.0;-3.0;61.0
+1108;Doyenné du Comice;Productieregio Zuid;1994/'95;61.0;0.0;0.0;0.0;61.0
+1109;Doyenné du Comice;Productieregio Zuid;1995/'96;61.0;4.0;2.0;-2.0;59.0
+1110;Doyenné du Comice;Productieregio Zuid;1996/'97;59.0;1.0;1.0;0.0;59.0
+1111;Doyenné du Comice;Productieregio Zuid;1997/'98;59.0;7.0;1.0;-6.0;53.0
+1112;Doyenné du Comice;Productieregio Zuid;1998/'99;53.0;5.0;1.0;-4.0;49.0
+1113;Doyenné du Comice;Productieregio Zuid;1999/'00;49.0;4.0;1.0;-3.0;46.0
+1114;Doyenné du Comice;Productieregio Zuid;2000/'01;46.0;2.0;0.0;-2.0;44.0
+1115;Doyenné du Comice;Productieregio Zuid;2001/'02;44.0;2.0;1.0;-1.0;43.0
+1116;Doyenné du Comice;Productieregio Zuid;2002/'03;43.0;3.0;0.0;-3.0;40.0
+1117;Doyenné du Comice;Productieregio Zuid;2003/'04;40.0;;;-14.0;26.0
+1118;Doyenné du Comice;Productieregio Zuid;2004/'05;26.0;;;-2.0;24.0
+1119;Doyenné du Comice;Productieregio Zuid;2005/'06;24.0;;;5.0;29.0
+1120;Beurré Alexandre Lucas;Nederland;1992/'93;;;;;
+1121;Beurré Alexandre Lucas;Nederland;1993/'94;;;;;
+1122;Beurré Alexandre Lucas;Nederland;1994/'95;;;;;
+1123;Beurré Alexandre Lucas;Nederland;1995/'96;;;;;
+1124;Beurré Alexandre Lucas;Nederland;1996/'97;;;;;
+1125;Beurré Alexandre Lucas;Nederland;1997/'98;;;;;
+1126;Beurré Alexandre Lucas;Nederland;1998/'99;;;;;
+1127;Beurré Alexandre Lucas;Nederland;1999/'00;;;;;
+1128;Beurré Alexandre Lucas;Nederland;2000/'01;;;;;
+1129;Beurré Alexandre Lucas;Nederland;2001/'02;;;;;
+1130;Beurré Alexandre Lucas;Nederland;2002/'03;;;;;
+1131;Beurré Alexandre Lucas;Nederland;2003/'04;;;;;
+1132;Beurré Alexandre Lucas;Nederland;2004/'05;193.0;;;58.0;251.0
+1133;Beurré Alexandre Lucas;Nederland;2005/'06;251.0;;;-40.0;211.0
+1134;Beurré Alexandre Lucas;Productieregio Noord;1992/'93;;;;;
+1135;Beurré Alexandre Lucas;Productieregio Noord;1993/'94;;;;;
+1136;Beurré Alexandre Lucas;Productieregio Noord;1994/'95;;;;;
+1137;Beurré Alexandre Lucas;Productieregio Noord;1995/'96;;;;;
+1138;Beurré Alexandre Lucas;Productieregio Noord;1996/'97;;;;;
+1139;Beurré Alexandre Lucas;Productieregio Noord;1997/'98;;;;;
+1140;Beurré Alexandre Lucas;Productieregio Noord;1998/'99;;;;;
+1141;Beurré Alexandre Lucas;Productieregio Noord;1999/'00;;;;;
+1142;Beurré Alexandre Lucas;Productieregio Noord;2000/'01;;;;;
+1143;Beurré Alexandre Lucas;Productieregio Noord;2001/'02;;;;;
+1144;Beurré Alexandre Lucas;Productieregio Noord;2002/'03;;;;;
+1145;Beurré Alexandre Lucas;Productieregio Noord;2003/'04;;;;;
+1146;Beurré Alexandre Lucas;Productieregio Noord;2004/'05;16.0;;;10.0;26.0
+1147;Beurré Alexandre Lucas;Productieregio Noord;2005/'06;26.0;;;-2.0;24.0
+1148;Beurré Alexandre Lucas;Productieregio West;1992/'93;;;;;
+1149;Beurré Alexandre Lucas;Productieregio West;1993/'94;;;;;
+1150;Beurré Alexandre Lucas;Productieregio West;1994/'95;;;;;
+1151;Beurré Alexandre Lucas;Productieregio West;1995/'96;;;;;
+1152;Beurré Alexandre Lucas;Productieregio West;1996/'97;;;;;
+1153;Beurré Alexandre Lucas;Productieregio West;1997/'98;;;;;
+1154;Beurré Alexandre Lucas;Productieregio West;1998/'99;;;;;
+1155;Beurré Alexandre Lucas;Productieregio West;1999/'00;;;;;
+1156;Beurré Alexandre Lucas;Productieregio West;2000/'01;;;;;
+1157;Beurré Alexandre Lucas;Productieregio West;2001/'02;;;;;
+1158;Beurré Alexandre Lucas;Productieregio West;2002/'03;;;;;
+1159;Beurré Alexandre Lucas;Productieregio West;2003/'04;;;;;
+1160;Beurré Alexandre Lucas;Productieregio West;2004/'05;98.0;;;33.0;131.0
+1161;Beurré Alexandre Lucas;Productieregio West;2005/'06;131.0;;;-18.0;113.0
+1162;Beurré Alexandre Lucas;Productieregio Midden;1992/'93;;;;;
+1163;Beurré Alexandre Lucas;Productieregio Midden;1993/'94;;;;;
+1164;Beurré Alexandre Lucas;Productieregio Midden;1994/'95;;;;;
+1165;Beurré Alexandre Lucas;Productieregio Midden;1995/'96;;;;;
+1166;Beurré Alexandre Lucas;Productieregio Midden;1996/'97;;;;;
+1167;Beurré Alexandre Lucas;Productieregio Midden;1997/'98;;;;;
+1168;Beurré Alexandre Lucas;Productieregio Midden;1998/'99;;;;;
+1169;Beurré Alexandre Lucas;Productieregio Midden;1999/'00;;;;;
+1170;Beurré Alexandre Lucas;Productieregio Midden;2000/'01;;;;;
+1171;Beurré Alexandre Lucas;Productieregio Midden;2001/'02;;;;;
+1172;Beurré Alexandre Lucas;Productieregio Midden;2002/'03;;;;;
+1173;Beurré Alexandre Lucas;Productieregio Midden;2003/'04;;;;;
+1174;Beurré Alexandre Lucas;Productieregio Midden;2004/'05;78.0;;;15.0;93.0
+1175;Beurré Alexandre Lucas;Productieregio Midden;2005/'06;93.0;;;-20.0;73.0
+1176;Beurré Alexandre Lucas;Productieregio Zuid;1992/'93;;;;;
+1177;Beurré Alexandre Lucas;Productieregio Zuid;1993/'94;;;;;
+1178;Beurré Alexandre Lucas;Productieregio Zuid;1994/'95;;;;;
+1179;Beurré Alexandre Lucas;Productieregio Zuid;1995/'96;;;;;
+1180;Beurré Alexandre Lucas;Productieregio Zuid;1996/'97;;;;;
+1181;Beurré Alexandre Lucas;Productieregio Zuid;1997/'98;;;;;
+1182;Beurré Alexandre Lucas;Productieregio Zuid;1998/'99;;;;;
+1183;Beurré Alexandre Lucas;Productieregio Zuid;1999/'00;;;;;
+1184;Beurré Alexandre Lucas;Productieregio Zuid;2000/'01;;;;;
+1185;Beurré Alexandre Lucas;Productieregio Zuid;2001/'02;;;;;
+1186;Beurré Alexandre Lucas;Productieregio Zuid;2002/'03;;;;;
+1187;Beurré Alexandre Lucas;Productieregio Zuid;2003/'04;;;;;
+1188;Beurré Alexandre Lucas;Productieregio Zuid;2004/'05;1.0;;;0.0;1.0
+1189;Beurré Alexandre Lucas;Productieregio Zuid;2005/'06;1.0;;;0.0;1.0
+1190;Triomphe de Vienne;Nederland;1992/'93;;;;;
+1191;Triomphe de Vienne;Nederland;1993/'94;;;;;
+1192;Triomphe de Vienne;Nederland;1994/'95;;;;;
+1193;Triomphe de Vienne;Nederland;1995/'96;;;;;
+1194;Triomphe de Vienne;Nederland;1996/'97;;;;;0.0
+1195;Triomphe de Vienne;Nederland;1997/'98;213.0;3.0;2.0;-1.0;212.0
+1196;Triomphe de Vienne;Nederland;1998/'99;212.0;5.0;4.0;-1.0;211.0
+1197;Triomphe de Vienne;Nederland;1999/'00;211.0;9.0;6.0;-3.0;208.0
+1198;Triomphe de Vienne;Nederland;2000/'01;208.0;5.0;8.0;3.0;211.0
+1199;Triomphe de Vienne;Nederland;2001/'02;211.0;9.0;11.0;2.0;213.0
+1200;Triomphe de Vienne;Nederland;2002/'03;213.0;30.0;7.0;-23.0;190.0
+1201;Triomphe de Vienne;Nederland;2003/'04;190.0;;;-30.0;160.0
+1202;Triomphe de Vienne;Nederland;2004/'05;160.0;;;18.0;178.0
+1203;Triomphe de Vienne;Nederland;2005/'06;178.0;;;-18.0;160.0
+1204;Triomphe de Vienne;Productieregio Noord;1992/'93;;;;;
+1205;Triomphe de Vienne;Productieregio Noord;1993/'94;;;;;
+1206;Triomphe de Vienne;Productieregio Noord;1994/'95;;;;;
+1207;Triomphe de Vienne;Productieregio Noord;1995/'96;;;;;
+1208;Triomphe de Vienne;Productieregio Noord;1996/'97;;;;;0.0
+1209;Triomphe de Vienne;Productieregio Noord;1997/'98;18.0;2.0;0.0;-2.0;16.0
+1210;Triomphe de Vienne;Productieregio Noord;1998/'99;16.0;0.0;0.0;0.0;16.0
+1211;Triomphe de Vienne;Productieregio Noord;1999/'00;16.0;4.0;0.0;-4.0;12.0
+1212;Triomphe de Vienne;Productieregio Noord;2000/'01;12.0;2.0;0.0;-2.0;10.0
+1213;Triomphe de Vienne;Productieregio Noord;2001/'02;10.0;9.0;6.0;-3.0;7.0
+1214;Triomphe de Vienne;Productieregio Noord;2002/'03;7.0;2.0;1.0;-1.0;6.0
+1215;Triomphe de Vienne;Productieregio Noord;2003/'04;6.0;;;1.0;7.0
+1216;Triomphe de Vienne;Productieregio Noord;2004/'05;7.0;;;1.0;8.0
+1217;Triomphe de Vienne;Productieregio Noord;2005/'06;8.0;;;-4.0;4.0
+1218;Triomphe de Vienne;Productieregio West;1992/'93;;;;;
+1219;Triomphe de Vienne;Productieregio West;1993/'94;;;;;
+1220;Triomphe de Vienne;Productieregio West;1994/'95;;;;;
+1221;Triomphe de Vienne;Productieregio West;1995/'96;;;;;
+1222;Triomphe de Vienne;Productieregio West;1996/'97;;;;;0.0
+1223;Triomphe de Vienne;Productieregio West;1997/'98;80.0;0.0;0.0;0.0;80.0
+1224;Triomphe de Vienne;Productieregio West;1998/'99;80.0;2.0;1.0;-1.0;79.0
+1225;Triomphe de Vienne;Productieregio West;1999/'00;79.0;1.0;3.0;2.0;81.0
+1226;Triomphe de Vienne;Productieregio West;2000/'01;81.0;1.0;3.0;2.0;83.0
+1227;Triomphe de Vienne;Productieregio West;2001/'02;83.0;0.0;2.0;2.0;85.0
+1228;Triomphe de Vienne;Productieregio West;2002/'03;85.0;8.0;2.0;-6.0;79.0
+1229;Triomphe de Vienne;Productieregio West;2003/'04;79.0;;;-13.0;66.0
+1230;Triomphe de Vienne;Productieregio West;2004/'05;66.0;;;17.0;83.0
+1231;Triomphe de Vienne;Productieregio West;2005/'06;83.0;;;-16.0;67.0
+1232;Triomphe de Vienne;Productieregio Midden;1992/'93;;;;;
+1233;Triomphe de Vienne;Productieregio Midden;1993/'94;;;;;
+1234;Triomphe de Vienne;Productieregio Midden;1994/'95;;;;;
+1235;Triomphe de Vienne;Productieregio Midden;1995/'96;;;;;
+1236;Triomphe de Vienne;Productieregio Midden;1996/'97;;;;;0.0
+1237;Triomphe de Vienne;Productieregio Midden;1997/'98;106.0;0.0;2.0;2.0;108.0
+1238;Triomphe de Vienne;Productieregio Midden;1998/'99;108.0;2.0;3.0;1.0;109.0
+1239;Triomphe de Vienne;Productieregio Midden;1999/'00;109.0;2.0;3.0;1.0;110.0
+1240;Triomphe de Vienne;Productieregio Midden;2000/'01;110.0;2.0;4.0;2.0;112.0
+1241;Triomphe de Vienne;Productieregio Midden;2001/'02;112.0;0.0;3.0;3.0;115.0
+1242;Triomphe de Vienne;Productieregio Midden;2002/'03;115.0;18.0;4.0;-14.0;101.0
+1243;Triomphe de Vienne;Productieregio Midden;2003/'04;101.0;;;-18.0;83.0
+1244;Triomphe de Vienne;Productieregio Midden;2004/'05;83.0;;;3.0;86.0
+1245;Triomphe de Vienne;Productieregio Midden;2005/'06;86.0;;;-2.0;84.0
+1246;Triomphe de Vienne;Productieregio Zuid;1992/'93;;;;;
+1247;Triomphe de Vienne;Productieregio Zuid;1993/'94;;;;;
+1248;Triomphe de Vienne;Productieregio Zuid;1994/'95;;;;;
+1249;Triomphe de Vienne;Productieregio Zuid;1995/'96;;;;;
+1250;Triomphe de Vienne;Productieregio Zuid;1996/'97;;;;;
+1251;Triomphe de Vienne;Productieregio Zuid;1997/'98;9.0;1.0;0.0;-1.0;8.0
+1252;Triomphe de Vienne;Productieregio Zuid;1998/'99;8.0;1.0;0.0;-1.0;7.0
+1253;Triomphe de Vienne;Productieregio Zuid;1999/'00;7.0;2.0;0.0;-2.0;5.0
+1254;Triomphe de Vienne;Productieregio Zuid;2000/'01;5.0;0.0;1.0;1.0;6.0
+1255;Triomphe de Vienne;Productieregio Zuid;2001/'02;6.0;0.0;0.0;0.0;6.0
+1256;Triomphe de Vienne;Productieregio Zuid;2002/'03;6.0;2.0;0.0;-2.0;4.0
+1257;Triomphe de Vienne;Productieregio Zuid;2003/'04;4.0;;;0.0;4.0
+1258;Triomphe de Vienne;Productieregio Zuid;2004/'05;4.0;;;-3.0;1.0
+1259;Triomphe de Vienne;Productieregio Zuid;2005/'06;1.0;;;4.0;5.0
+1260;Beurré Hardy;Nederland;1992/'93;;;;;
+1261;Beurré Hardy;Nederland;1993/'94;;;;;
+1262;Beurré Hardy;Nederland;1994/'95;;;;;
+1263;Beurré Hardy;Nederland;1995/'96;;;;;
+1264;Beurré Hardy;Nederland;1996/'97;;;;;0.0
+1265;Beurré Hardy;Nederland;1997/'98;215.0;23.0;2.0;-21.0;194.0
+1266;Beurré Hardy;Nederland;1998/'99;194.0;17.0;4.0;-13.0;181.0
+1267;Beurré Hardy;Nederland;1999/'00;181.0;27.0;1.0;-26.0;155.0
+1268;Beurré Hardy;Nederland;2000/'01;155.0;28.0;1.0;-27.0;128.0
+1269;Beurré Hardy;Nederland;2001/'02;128.0;22.0;0.0;-22.0;106.0
+1270;Beurré Hardy;Nederland;2002/'03;106.0;10.0;0.0;-10.0;96.0
+1271;Beurré Hardy;Nederland;2003/'04;96.0;;;-3.0;93.0
+1272;Beurré Hardy;Nederland;2004/'05;93.0;;;-17.0;76.0
+1273;Beurré Hardy;Nederland;2005/'06;76.0;;;-9.0;67.0
+1274;Beurré Hardy;Productieregio Noord;1992/'93;;;;;
+1275;Beurré Hardy;Productieregio Noord;1993/'94;;;;;
+1276;Beurré Hardy;Productieregio Noord;1994/'95;;;;;
+1277;Beurré Hardy;Productieregio Noord;1995/'96;;;;;
+1278;Beurré Hardy;Productieregio Noord;1996/'97;;;;;0.0
+1279;Beurré Hardy;Productieregio Noord;1997/'98;23.0;5.0;0.0;-5.0;18.0
+1280;Beurré Hardy;Productieregio Noord;1998/'99;18.0;0.0;0.0;0.0;18.0
+1281;Beurré Hardy;Productieregio Noord;1999/'00;18.0;7.0;0.0;-7.0;11.0
+1282;Beurré Hardy;Productieregio Noord;2000/'01;11.0;3.0;0.0;-3.0;8.0
+1283;Beurré Hardy;Productieregio Noord;2001/'02;8.0;5.0;0.0;-5.0;3.0
+1284;Beurré Hardy;Productieregio Noord;2002/'03;3.0;0.0;0.0;0.0;3.0
+1285;Beurré Hardy;Productieregio Noord;2003/'04;3.0;;;1.0;4.0
+1286;Beurré Hardy;Productieregio Noord;2004/'05;4.0;;;-2.0;2.0
+1287;Beurré Hardy;Productieregio Noord;2005/'06;2.0;;;0.0;2.0
+1288;Beurré Hardy;Productieregio West;1992/'93;;;;;
+1289;Beurré Hardy;Productieregio West;1993/'94;;;;;
+1290;Beurré Hardy;Productieregio West;1994/'95;;;;;
+1291;Beurré Hardy;Productieregio West;1995/'96;;;;;
+1292;Beurré Hardy;Productieregio West;1996/'97;;;;;0.0
+1293;Beurré Hardy;Productieregio West;1997/'98;117.0;8.0;0.0;-8.0;109.0
+1294;Beurré Hardy;Productieregio West;1998/'99;109.0;7.0;1.0;-6.0;103.0
+1295;Beurré Hardy;Productieregio West;1999/'00;103.0;9.0;0.0;-9.0;94.0
+1296;Beurré Hardy;Productieregio West;2000/'01;94.0;12.0;1.0;-11.0;83.0
+1297;Beurré Hardy;Productieregio West;2001/'02;83.0;6.0;0.0;-6.0;77.0
+1298;Beurré Hardy;Productieregio West;2002/'03;77.0;9.0;0.0;-9.0;68.0
+1299;Beurré Hardy;Productieregio West;2003/'04;68.0;;;-4.0;64.0
+1300;Beurré Hardy;Productieregio West;2004/'05;64.0;;;-8.0;56.0
+1301;Beurré Hardy;Productieregio West;2005/'06;56.0;;;-3.0;53.0
+1302;Beurré Hardy;Productieregio Midden;1992/'93;;;;;
+1303;Beurré Hardy;Productieregio Midden;1993/'94;;;;;
+1304;Beurré Hardy;Productieregio Midden;1994/'95;;;;;
+1305;Beurré Hardy;Productieregio Midden;1995/'96;;;;;
+1306;Beurré Hardy;Productieregio Midden;1996/'97;;;;;0.0
+1307;Beurré Hardy;Productieregio Midden;1997/'98;66.0;8.0;2.0;-6.0;60.0
+1308;Beurré Hardy;Productieregio Midden;1998/'99;60.0;10.0;3.0;-7.0;53.0
+1309;Beurré Hardy;Productieregio Midden;1999/'00;53.0;11.0;1.0;-10.0;43.0
+1310;Beurré Hardy;Productieregio Midden;2000/'01;43.0;11.0;0.0;-11.0;32.0
+1311;Beurré Hardy;Productieregio Midden;2001/'02;32.0;9.0;0.0;-9.0;23.0
+1312;Beurré Hardy;Productieregio Midden;2002/'03;23.0;0.0;0.0;0.0;23.0
+1313;Beurré Hardy;Productieregio Midden;2003/'04;23.0;;;0.0;23.0
+1314;Beurré Hardy;Productieregio Midden;2004/'05;23.0;;;-5.0;18.0
+1315;Beurré Hardy;Productieregio Midden;2005/'06;18.0;;;-6.0;12.0
+1316;Beurré Hardy;Productieregio Zuid;1992/'93;;;;;
+1317;Beurré Hardy;Productieregio Zuid;1993/'94;;;;;
+1318;Beurré Hardy;Productieregio Zuid;1994/'95;;;;;
+1319;Beurré Hardy;Productieregio Zuid;1995/'96;;;;;
+1320;Beurré Hardy;Productieregio Zuid;1996/'97;;;;;
+1321;Beurré Hardy;Productieregio Zuid;1997/'98;9.0;2.0;0.0;-2.0;7.0
+1322;Beurré Hardy;Productieregio Zuid;1998/'99;7.0;0.0;0.0;0.0;7.0
+1323;Beurré Hardy;Productieregio Zuid;1999/'00;7.0;0.0;0.0;0.0;7.0
+1324;Beurré Hardy;Productieregio Zuid;2000/'01;7.0;2.0;0.0;-2.0;5.0
+1325;Beurré Hardy;Productieregio Zuid;2001/'02;5.0;2.0;0.0;-2.0;3.0
+1326;Beurré Hardy;Productieregio Zuid;2002/'03;3.0;1.0;0.0;-1.0;2.0
+1327;Beurré Hardy;Productieregio Zuid;2003/'04;2.0;;;0.0;2.0
+1328;Beurré Hardy;Productieregio Zuid;2004/'05;2.0;;;-2.0;0.0
+1329;Beurré Hardy;Productieregio Zuid;2005/'06;0.0;;;0.0;0.0
+1330;Stoofperen;Nederland;1992/'93;632.0;18.0;16.0;-2.0;630.0
+1331;Stoofperen;Nederland;1993/'94;630.0;24.0;18.0;-6.0;624.0
+1332;Stoofperen;Nederland;1994/'95;624.0;35.0;20.0;-15.0;609.0
+1333;Stoofperen;Nederland;1995/'96;609.0;50.0;23.0;-27.0;582.0
+1334;Stoofperen;Nederland;1996/'97;582.0;62.0;29.0;-33.0;549.0
+1335;Stoofperen;Nederland;1997/'98;549.0;48.0;22.0;-26.0;523.0
+1336;Stoofperen;Nederland;1998/'99;523.0;31.0;17.0;-14.0;509.0
+1337;Stoofperen;Nederland;1999/'00;509.0;28.0;12.0;-16.0;493.0
+1338;Stoofperen;Nederland;2000/'01;493.0;20.0;11.0;-9.0;484.0
+1339;Stoofperen;Nederland;2001/'02;484.0;8.0;12.0;4.0;488.0
+1340;Stoofperen;Nederland;2002/'03;488.0;58.0;10.0;-48.0;440.0
+1341;Stoofperen;Nederland;2003/'04;440.0;;;-82.0;358.0
+1342;Stoofperen;Nederland;2004/'05;358.0;;;-39.0;319.0
+1343;Stoofperen;Nederland;2005/'06;319.0;;;-56.0;263.0
+1344;Stoofperen;Productieregio Noord;1992/'93;65.0;1.0;3.0;2.0;67.0
+1345;Stoofperen;Productieregio Noord;1993/'94;67.0;0.0;2.0;2.0;69.0
+1346;Stoofperen;Productieregio Noord;1994/'95;69.0;5.0;5.0;0.0;69.0
+1347;Stoofperen;Productieregio Noord;1995/'96;69.0;0.0;1.0;1.0;70.0
+1348;Stoofperen;Productieregio Noord;1996/'97;70.0;2.0;2.0;0.0;70.0
+1349;Stoofperen;Productieregio Noord;1997/'98;70.0;8.0;4.0;-4.0;66.0
+1350;Stoofperen;Productieregio Noord;1998/'99;66.0;1.0;3.0;2.0;68.0
+1351;Stoofperen;Productieregio Noord;1999/'00;68.0;8.0;4.0;-4.0;64.0
+1352;Stoofperen;Productieregio Noord;2000/'01;64.0;0.0;4.0;4.0;68.0
+1353;Stoofperen;Productieregio Noord;2001/'02;68.0;4.0;0.0;-4.0;64.0
+1354;Stoofperen;Productieregio Noord;2002/'03;64.0;7.0;2.0;-5.0;59.0
+1355;Stoofperen;Productieregio Noord;2003/'04;59.0;;;-4.0;55.0
+1356;Stoofperen;Productieregio Noord;2004/'05;55.0;;;3.0;58.0
+1357;Stoofperen;Productieregio Noord;2005/'06;58.0;;;-17.0;41.0
+1358;Stoofperen;Productieregio West;1992/'93;184.0;7.0;5.0;-2.0;182.0
+1359;Stoofperen;Productieregio West;1993/'94;182.0;2.0;4.0;2.0;184.0
+1360;Stoofperen;Productieregio West;1994/'95;184.0;1.0;4.0;3.0;187.0
+1361;Stoofperen;Productieregio West;1995/'96;187.0;13.0;11.0;-2.0;185.0
+1362;Stoofperen;Productieregio West;1996/'97;185.0;7.0;6.0;-1.0;184.0
+1363;Stoofperen;Productieregio West;1997/'98;184.0;20.0;8.0;-12.0;172.0
+1364;Stoofperen;Productieregio West;1998/'99;172.0;12.0;7.0;-5.0;167.0
+1365;Stoofperen;Productieregio West;1999/'00;167.0;9.0;5.0;-4.0;163.0
+1366;Stoofperen;Productieregio West;2000/'01;163.0;16.0;3.0;-13.0;150.0
+1367;Stoofperen;Productieregio West;2001/'02;150.0;1.0;0.0;-1.0;149.0
+1368;Stoofperen;Productieregio West;2002/'03;149.0;14.0;2.0;-12.0;137.0
+1369;Stoofperen;Productieregio West;2003/'04;137.0;;;-35.0;102.0
+1370;Stoofperen;Productieregio West;2004/'05;102.0;;;-4.0;98.0
+1371;Stoofperen;Productieregio West;2005/'06;98.0;;;-20.0;78.0
+1372;Stoofperen;Productieregio Midden;1992/'93;370.0;10.0;6.0;-4.0;366.0
+1373;Stoofperen;Productieregio Midden;1993/'94;366.0;21.0;11.0;-10.0;356.0
+1374;Stoofperen;Productieregio Midden;1994/'95;356.0;29.0;10.0;-19.0;337.0
+1375;Stoofperen;Productieregio Midden;1995/'96;337.0;37.0;10.0;-27.0;310.0
+1376;Stoofperen;Productieregio Midden;1996/'97;310.0;53.0;19.0;-34.0;276.0
+1377;Stoofperen;Productieregio Midden;1997/'98;276.0;17.0;9.0;-8.0;268.0
+1378;Stoofperen;Productieregio Midden;1998/'99;268.0;14.0;5.0;-9.0;259.0
+1379;Stoofperen;Productieregio Midden;1999/'00;259.0;8.0;3.0;-5.0;254.0
+1380;Stoofperen;Productieregio Midden;2000/'01;254.0;2.0;4.0;2.0;256.0
+1381;Stoofperen;Productieregio Midden;2001/'02;256.0;0.0;12.0;12.0;268.0
+1382;Stoofperen;Productieregio Midden;2002/'03;268.0;36.0;6.0;-30.0;238.0
+1383;Stoofperen;Productieregio Midden;2003/'04;238.0;;;-41.0;197.0
+1384;Stoofperen;Productieregio Midden;2004/'05;197.0;;;-36.0;161.0
+1385;Stoofperen;Productieregio Midden;2005/'06;161.0;;;-18.0;143.0
+1386;Stoofperen;Productieregio Zuid;1992/'93;13.0;0.0;2.0;2.0;15.0
+1387;Stoofperen;Productieregio Zuid;1993/'94;15.0;1.0;1.0;0.0;15.0
+1388;Stoofperen;Productieregio Zuid;1994/'95;15.0;0.0;1.0;1.0;16.0
+1389;Stoofperen;Productieregio Zuid;1995/'96;16.0;0.0;1.0;1.0;17.0
+1390;Stoofperen;Productieregio Zuid;1996/'97;17.0;0.0;2.0;2.0;19.0
+1391;Stoofperen;Productieregio Zuid;1997/'98;19.0;3.0;1.0;-2.0;17.0
+1392;Stoofperen;Productieregio Zuid;1998/'99;17.0;4.0;2.0;-2.0;15.0
+1393;Stoofperen;Productieregio Zuid;1999/'00;15.0;3.0;0.0;-3.0;12.0
+1394;Stoofperen;Productieregio Zuid;2000/'01;12.0;2.0;0.0;-2.0;10.0
+1395;Stoofperen;Productieregio Zuid;2001/'02;10.0;3.0;0.0;-3.0;7.0
+1396;Stoofperen;Productieregio Zuid;2002/'03;7.0;1.0;0.0;-1.0;6.0
+1397;Stoofperen;Productieregio Zuid;2003/'04;6.0;;;-2.0;4.0
+1398;Stoofperen;Productieregio Zuid;2004/'05;4.0;;;-2.0;2.0
+1399;Stoofperen;Productieregio Zuid;2005/'06;2.0;;;-1.0;1.0
+1400;Overige perenrassen;Nederland;1992/'93;856.0;33.0;21.0;-12.0;844.0
+1401;Overige perenrassen;Nederland;1993/'94;844.0;53.0;25.0;-28.0;816.0
+1402;Overige perenrassen;Nederland;1994/'95;816.0;45.0;27.0;-18.0;798.0
+1403;Overige perenrassen;Nederland;1995/'96;798.0;68.0;41.0;-27.0;771.0
+1404;Overige perenrassen;Nederland;1996/'97;771.0;45.0;32.0;-13.0;758.0
+1405;Overige perenrassen;Nederland;1997/'98;330.0;27.0;14.0;-13.0;317.0
+1406;Overige perenrassen;Nederland;1998/'99;317.0;20.0;12.0;-8.0;309.0
+1407;Overige perenrassen;Nederland;1999/'00;309.0;2.0;23.0;21.0;330.0
+1408;Overige perenrassen;Nederland;2000/'01;330.0;3.0;20.0;17.0;347.0
+1409;Overige perenrassen;Nederland;2001/'02;347.0;3.0;24.0;21.0;368.0
+1410;Overige perenrassen;Nederland;2002/'03;368.0;69.0;21.0;-48.0;320.0
+1411;Overige perenrassen;Nederland;2003/'04;320.0;;;-8.0;312.0
+1412;Overige perenrassen;Nederland;2004/'05;119.0;;;0.0;119.0
+1413;Overige perenrassen;Nederland;2005/'06;119.0;;;-9.0;110.0
+1414;Overige perenrassen;Productieregio Noord;1992/'93;61.0;1.0;3.0;2.0;63.0
+1415;Overige perenrassen;Productieregio Noord;1993/'94;63.0;1.0;4.0;3.0;66.0
+1416;Overige perenrassen;Productieregio Noord;1994/'95;66.0;0.0;3.0;3.0;69.0
+1417;Overige perenrassen;Productieregio Noord;1995/'96;69.0;0.0;4.0;4.0;73.0
+1418;Overige perenrassen;Productieregio Noord;1996/'97;73.0;0.0;5.0;5.0;78.0
+1419;Overige perenrassen;Productieregio Noord;1997/'98;37.0;3.0;1.0;-2.0;35.0
+1420;Overige perenrassen;Productieregio Noord;1998/'99;35.0;0.0;0.0;0.0;35.0
+1421;Overige perenrassen;Productieregio Noord;1999/'00;35.0;1.0;0.0;-1.0;34.0
+1422;Overige perenrassen;Productieregio Noord;2000/'01;34.0;1.0;0.0;-1.0;33.0
+1423;Overige perenrassen;Productieregio Noord;2001/'02;33.0;1.0;0.0;-1.0;32.0
+1424;Overige perenrassen;Productieregio Noord;2002/'03;32.0;3.0;3.0;0.0;32.0
+1425;Overige perenrassen;Productieregio Noord;2003/'04;32.0;;;-3.0;29.0
+1426;Overige perenrassen;Productieregio Noord;2004/'05;13.0;;;8.0;21.0
+1427;Overige perenrassen;Productieregio Noord;2005/'06;21.0;;;-4.0;17.0
+1428;Overige perenrassen;Productieregio West;1992/'93;368.0;19.0;12.0;-7.0;361.0
+1429;Overige perenrassen;Productieregio West;1993/'94;361.0;11.0;8.0;-3.0;358.0
+1430;Overige perenrassen;Productieregio West;1994/'95;358.0;20.0;12.0;-8.0;350.0
+1431;Overige perenrassen;Productieregio West;1995/'96;350.0;38.0;23.0;-15.0;335.0
+1432;Overige perenrassen;Productieregio West;1996/'97;335.0;13.0;10.0;-3.0;332.0
+1433;Overige perenrassen;Productieregio West;1997/'98;135.0;10.0;6.0;-4.0;131.0
+1434;Overige perenrassen;Productieregio West;1998/'99;131.0;9.0;6.0;-3.0;128.0
+1435;Overige perenrassen;Productieregio West;1999/'00;128.0;0.0;17.0;17.0;145.0
+1436;Overige perenrassen;Productieregio West;2000/'01;145.0;0.0;13.0;13.0;158.0
+1437;Overige perenrassen;Productieregio West;2001/'02;158.0;0.0;17.0;17.0;175.0
+1438;Overige perenrassen;Productieregio West;2002/'03;175.0;37.0;7.0;-30.0;145.0
+1439;Overige perenrassen;Productieregio West;2003/'04;145.0;;;-5.0;140.0
+1440;Overige perenrassen;Productieregio West;2004/'05;42.0;;;-2.0;40.0
+1441;Overige perenrassen;Productieregio West;2005/'06;40.0;;;-8.0;32.0
+1442;Overige perenrassen;Productieregio Midden;1992/'93;381.0;12.0;5.0;-7.0;374.0
+1443;Overige perenrassen;Productieregio Midden;1993/'94;374.0;35.0;12.0;-23.0;351.0
+1444;Overige perenrassen;Productieregio Midden;1994/'95;351.0;19.0;9.0;-10.0;341.0
+1445;Overige perenrassen;Productieregio Midden;1995/'96;341.0;26.0;13.0;-13.0;328.0
+1446;Overige perenrassen;Productieregio Midden;1996/'97;328.0;30.0;16.0;-14.0;314.0
+1447;Overige perenrassen;Productieregio Midden;1997/'98;142.0;12.0;6.0;-6.0;136.0
+1448;Overige perenrassen;Productieregio Midden;1998/'99;136.0;8.0;5.0;-3.0;133.0
+1449;Overige perenrassen;Productieregio Midden;1999/'00;133.0;0.0;6.0;6.0;139.0
+1450;Overige perenrassen;Productieregio Midden;2000/'01;139.0;0.0;7.0;7.0;146.0
+1451;Overige perenrassen;Productieregio Midden;2001/'02;146.0;0.0;7.0;7.0;153.0
+1452;Overige perenrassen;Productieregio Midden;2002/'03;153.0;28.0;11.0;-17.0;136.0
+1453;Overige perenrassen;Productieregio Midden;2003/'04;136.0;;;3.0;139.0
+1454;Overige perenrassen;Productieregio Midden;2004/'05;61.0;;;-4.0;57.0
+1455;Overige perenrassen;Productieregio Midden;2005/'06;57.0;;;-2.0;55.0
+1456;Overige perenrassen;Productieregio Zuid;1992/'93;46.0;1.0;1.0;0.0;46.0
+1457;Overige perenrassen;Productieregio Zuid;1993/'94;46.0;6.0;1.0;-5.0;41.0
+1458;Overige perenrassen;Productieregio Zuid;1994/'95;41.0;6.0;3.0;-3.0;38.0
+1459;Overige perenrassen;Productieregio Zuid;1995/'96;38.0;4.0;1.0;-3.0;35.0
+1460;Overige perenrassen;Productieregio Zuid;1996/'97;35.0;2.0;1.0;-1.0;34.0
+1461;Overige perenrassen;Productieregio Zuid;1997/'98;16.0;2.0;1.0;-1.0;15.0
+1462;Overige perenrassen;Productieregio Zuid;1998/'99;15.0;3.0;1.0;-2.0;13.0
+1463;Overige perenrassen;Productieregio Zuid;1999/'00;13.0;1.0;0.0;-1.0;12.0
+1464;Overige perenrassen;Productieregio Zuid;2000/'01;12.0;2.0;0.0;-2.0;10.0
+1465;Overige perenrassen;Productieregio Zuid;2001/'02;10.0;2.0;0.0;-2.0;8.0
+1466;Overige perenrassen;Productieregio Zuid;2002/'03;8.0;1.0;0.0;-1.0;7.0
+1467;Overige perenrassen;Productieregio Zuid;2003/'04;7.0;;;-3.0;4.0
+1468;Overige perenrassen;Productieregio Zuid;2004/'05;3.0;;;-2.0;1.0
+1469;Overige perenrassen;Productieregio Zuid;2005/'06;1.0;;;5.0;6.0

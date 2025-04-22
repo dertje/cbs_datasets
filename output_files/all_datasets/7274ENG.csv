@@ -1,0 +1,511 @@
+﻿ID;SIC93;Periods;Turnover_1;Price_2;Volume_3;Turnover_4;Price_5;Volume_6
+0;9302 Hairdressers and beauty care;1993 January;67;;;;;
+1;9302 Hairdressers and beauty care;1993 February;69;;;;;
+2;9302 Hairdressers and beauty care;1993 March;78;;;;;
+3;9302 Hairdressers and beauty care;1993 1st quarter;71;;;;;
+4;9302 Hairdressers and beauty care;1993 April;78;;;;;
+5;9302 Hairdressers and beauty care;1993 May;79;;;;;
+6;9302 Hairdressers and beauty care;1993 June;79;;;;;
+7;9302 Hairdressers and beauty care;1993 2nd quarter;78;;;;;
+8;9302 Hairdressers and beauty care;1993 July;80;;;;;
+9;9302 Hairdressers and beauty care;1993 August;70;;;;;
+10;9302 Hairdressers and beauty care;1993 September;77;;;;;
+11;9302 Hairdressers and beauty care;1993 3rd quarter;76;;;;;
+12;9302 Hairdressers and beauty care;1993 October;76;;;;;
+13;9302 Hairdressers and beauty care;1993 November;72;;;;;
+14;9302 Hairdressers and beauty care;1993 December;91;;;;;
+15;9302 Hairdressers and beauty care;1993 4th quarter;80;;;;;
+16;9302 Hairdressers and beauty care;1993;76;;;;;
+17;9302 Hairdressers and beauty care;1994 January;70;;;4.3;;
+18;9302 Hairdressers and beauty care;1994 February;71;;;2.9;;
+19;9302 Hairdressers and beauty care;1994 March;88;;;13.0;;
+20;9302 Hairdressers and beauty care;1994 1st quarter;76;;;7.0;;
+21;9302 Hairdressers and beauty care;1994 April;80;;;2.3;;
+22;9302 Hairdressers and beauty care;1994 May;79;;;0.6;;
+23;9302 Hairdressers and beauty care;1994 June;84;;;6.2;;
+24;9302 Hairdressers and beauty care;1994 2nd quarter;81;;;3.0;;
+25;9302 Hairdressers and beauty care;1994 July;77;;;-4.4;;
+26;9302 Hairdressers and beauty care;1994 August;73;;;5.3;;
+27;9302 Hairdressers and beauty care;1994 September;77;;;0.1;;
+28;9302 Hairdressers and beauty care;1994 3rd quarter;76;;;0.1;;
+29;9302 Hairdressers and beauty care;1994 October;76;;;-0.4;;
+30;9302 Hairdressers and beauty care;1994 November;76;;;5.4;;
+31;9302 Hairdressers and beauty care;1994 December;91;;;0.3;;
+32;9302 Hairdressers and beauty care;1994 4th quarter;81;;;1.6;;
+33;9302 Hairdressers and beauty care;1994;79;;;2.9;;
+34;9302 Hairdressers and beauty care;1995 January;69;;;-1.2;;
+35;9302 Hairdressers and beauty care;1995 February;73;;;2.6;;
+36;9302 Hairdressers and beauty care;1995 March;85;;;-3.1;;
+37;9302 Hairdressers and beauty care;1995 1st quarter;76;;;-0.8;;
+38;9302 Hairdressers and beauty care;1995 April;78;;;-1.6;;
+39;9302 Hairdressers and beauty care;1995 May;82;;;3.8;;
+40;9302 Hairdressers and beauty care;1995 June;85;;;1.8;;
+41;9302 Hairdressers and beauty care;1995 2nd quarter;82;;;1.3;;
+42;9302 Hairdressers and beauty care;1995 July;75;;;-2.1;;
+43;9302 Hairdressers and beauty care;1995 August;78;;;6.7;;
+44;9302 Hairdressers and beauty care;1995 September;81;;;4.7;;
+45;9302 Hairdressers and beauty care;1995 3rd quarter;78;;;3.0;;
+46;9302 Hairdressers and beauty care;1995 October;78;;;3.0;;
+47;9302 Hairdressers and beauty care;1995 November;79;;;4.3;;
+48;9302 Hairdressers and beauty care;1995 December;90;;;-1.0;;
+49;9302 Hairdressers and beauty care;1995 4th quarter;83;;;1.9;;
+50;9302 Hairdressers and beauty care;1995;80;;;1.4;;
+51;9302 Hairdressers and beauty care;1996 January;74;;;6.7;;
+52;9302 Hairdressers and beauty care;1996 February;77;;;6.4;;
+53;9302 Hairdressers and beauty care;1996 March;85;;;-0.4;;
+54;9302 Hairdressers and beauty care;1996 1st quarter;79;;;3.9;;
+55;9302 Hairdressers and beauty care;1996 April;81;;;3.2;;
+56;9302 Hairdressers and beauty care;1996 May;90;;;9.2;;
+57;9302 Hairdressers and beauty care;1996 June;83;;;-2.2;;
+58;9302 Hairdressers and beauty care;1996 2nd quarter;85;;;3.3;;
+59;9302 Hairdressers and beauty care;1996 July;82;;;9.7;;
+60;9302 Hairdressers and beauty care;1996 August;83;;;5.7;;
+61;9302 Hairdressers and beauty care;1996 September;79;;;-2.8;;
+62;9302 Hairdressers and beauty care;1996 3rd quarter;81;;;4.1;;
+63;9302 Hairdressers and beauty care;1996 October;86;;;9.9;;
+64;9302 Hairdressers and beauty care;1996 November;82;;;2.9;;
+65;9302 Hairdressers and beauty care;1996 December;91;;;0.8;;
+66;9302 Hairdressers and beauty care;1996 4th quarter;86;;;4.4;;
+67;9302 Hairdressers and beauty care;1996;83;;;3.9;;
+68;9302 Hairdressers and beauty care;1997 January;81;;;9.2;;
+69;9302 Hairdressers and beauty care;1997 February;78;;;1.2;;
+70;9302 Hairdressers and beauty care;1997 March;87;;;2.1;;
+71;9302 Hairdressers and beauty care;1997 1st quarter;82;;;4.0;;
+72;9302 Hairdressers and beauty care;1997 April;85;;;4.8;;
+73;9302 Hairdressers and beauty care;1997 May;94;;;4.8;;
+74;9302 Hairdressers and beauty care;1997 June;85;;;2.4;;
+75;9302 Hairdressers and beauty care;1997 2nd quarter;88;;;4.0;;
+76;9302 Hairdressers and beauty care;1997 July;89;;;8.3;;
+77;9302 Hairdressers and beauty care;1997 August;82;;;-1.3;;
+78;9302 Hairdressers and beauty care;1997 September;85;;;7.9;;
+79;9302 Hairdressers and beauty care;1997 3rd quarter;85;;;4.9;;
+80;9302 Hairdressers and beauty care;1997 October;92;;;7.5;;
+81;9302 Hairdressers and beauty care;1997 November;85;;;3.3;;
+82;9302 Hairdressers and beauty care;1997 December;99;;;8.8;;
+83;9302 Hairdressers and beauty care;1997 4th quarter;92;;;6.7;;
+84;9302 Hairdressers and beauty care;1997;87;;;4.9;;
+85;9302 Hairdressers and beauty care;1998 January;85;;;5.6;;
+86;9302 Hairdressers and beauty care;1998 February;82;;;4.6;;
+87;9302 Hairdressers and beauty care;1998 March;88;;;1.7;;
+88;9302 Hairdressers and beauty care;1998 1st quarter;85;;;3.9;;
+89;9302 Hairdressers and beauty care;1998 April;92;;;8.6;;
+90;9302 Hairdressers and beauty care;1998 May;94;;;0.2;;
+91;9302 Hairdressers and beauty care;1998 June;89;;;4.8;;
+92;9302 Hairdressers and beauty care;1998 2nd quarter;92;;;4.4;;
+93;9302 Hairdressers and beauty care;1998 July;95;;;6.9;;
+94;9302 Hairdressers and beauty care;1998 August;82;;;0.3;;
+95;9302 Hairdressers and beauty care;1998 September;90;;;6.7;;
+96;9302 Hairdressers and beauty care;1998 3rd quarter;89;;;4.7;;
+97;9302 Hairdressers and beauty care;1998 October;94;;;1.9;;
+98;9302 Hairdressers and beauty care;1998 November;83;;;-2.0;;
+99;9302 Hairdressers and beauty care;1998 December;106;;;7.4;;
+100;9302 Hairdressers and beauty care;1998 4th quarter;95;;;2.7;;
+101;9302 Hairdressers and beauty care;1998;90;;;3.9;;
+102;9302 Hairdressers and beauty care;1999 January;84;;;-0.9;;
+103;9302 Hairdressers and beauty care;1999 February;84;;;2.5;;
+104;9302 Hairdressers and beauty care;1999 March;97;;;10.3;;
+105;9302 Hairdressers and beauty care;1999 1st quarter;89;;;4.1;;
+106;9302 Hairdressers and beauty care;1999 April;95;;;3.2;;
+107;9302 Hairdressers and beauty care;1999 May;94;;;-0.1;;
+108;9302 Hairdressers and beauty care;1999 June;98;;;9.9;;
+109;9302 Hairdressers and beauty care;1999 2nd quarter;96;;;4.3;;
+110;9302 Hairdressers and beauty care;1999 July;100;;;4.9;;
+111;9302 Hairdressers and beauty care;1999 August;87;;;5.9;;
+112;9302 Hairdressers and beauty care;1999 September;97;;;7.8;;
+113;9302 Hairdressers and beauty care;1999 3rd quarter;95;;;6.2;;
+114;9302 Hairdressers and beauty care;1999 October;97;;;3.3;;
+115;9302 Hairdressers and beauty care;1999 November;93;;;12.5;;
+116;9302 Hairdressers and beauty care;1999 December;116;;;9.2;;
+117;9302 Hairdressers and beauty care;1999 4th quarter;102;;;8.2;;
+118;9302 Hairdressers and beauty care;1999;95;;;5.7;;
+119;9302 Hairdressers and beauty care;2000 January;88;;;4.4;;
+120;9302 Hairdressers and beauty care;2000 February;94;;;12.2;;
+121;9302 Hairdressers and beauty care;2000 March;104;;;6.8;;
+122;9302 Hairdressers and beauty care;2000 1st quarter;95;;;7.7;;
+123;9302 Hairdressers and beauty care;2000 April;97;;;2.8;;
+124;9302 Hairdressers and beauty care;2000 May;104;;;10.2;;
+125;9302 Hairdressers and beauty care;2000 June;101;;;3.2;;
+126;9302 Hairdressers and beauty care;2000 2nd quarter;101;;;5.4;;
+127;9302 Hairdressers and beauty care;2000 July;99;;;-1.3;;
+128;9302 Hairdressers and beauty care;2000 August;99;;;13.8;;
+129;9302 Hairdressers and beauty care;2000 September;100;;;2.8;;
+130;9302 Hairdressers and beauty care;2000 3rd quarter;99;;;4.7;;
+131;9302 Hairdressers and beauty care;2000 October;98;;;0.6;;
+132;9302 Hairdressers and beauty care;2000 November;102;;;9.2;;
+133;9302 Hairdressers and beauty care;2000 December;114;;;-2.2;;
+134;9302 Hairdressers and beauty care;2000 4th quarter;104;;;2.2;;
+135;9302 Hairdressers and beauty care;2000;100;;;4.9;;
+136;9302 Hairdressers and beauty care;2001 January;95;;;8.0;;
+137;9302 Hairdressers and beauty care;2001 February;98;;;3.9;;
+138;9302 Hairdressers and beauty care;2001 March;112;;;8.2;;
+139;9302 Hairdressers and beauty care;2001 1st quarter;102;;;6.8;;
+140;9302 Hairdressers and beauty care;2001 April;103;;;6.2;;
+141;9302 Hairdressers and beauty care;2001 May;112;;;8.2;;
+142;9302 Hairdressers and beauty care;2001 June;111;;;9.5;;
+143;9302 Hairdressers and beauty care;2001 2nd quarter;109;;;8.0;;
+144;9302 Hairdressers and beauty care;2001 July;102;;;3.2;;
+145;9302 Hairdressers and beauty care;2001 August;107;;;8.1;;
+146;9302 Hairdressers and beauty care;2001 September;102;;;1.8;;
+147;9302 Hairdressers and beauty care;2001 3rd quarter;104;;;4.4;;
+148;9302 Hairdressers and beauty care;2001 October;106;;;8.3;;
+149;9302 Hairdressers and beauty care;2001 November;107;;;4.7;;
+150;9302 Hairdressers and beauty care;2001 December;117;;;2.6;;
+151;9302 Hairdressers and beauty care;2001 4th quarter;110;;;5.0;;
+152;9302 Hairdressers and beauty care;2001;106;;;6.0;;
+153;9302 Hairdressers and beauty care;2002 January;102;;;7.3;;
+154;9302 Hairdressers and beauty care;2002 February;100;;;2.1;;
+155;9302 Hairdressers and beauty care;2002 March;115;;;2.0;;
+156;9302 Hairdressers and beauty care;2002 1st quarter;106;;;3.7;;
+157;9302 Hairdressers and beauty care;2002 April;106;;;2.0;;
+158;9302 Hairdressers and beauty care;2002 May;119;;;6.2;;
+159;9302 Hairdressers and beauty care;2002 June;111;;;0.4;;
+160;9302 Hairdressers and beauty care;2002 2nd quarter;112;;;2.9;;
+161;9302 Hairdressers and beauty care;2002 July;110;;;8.0;;
+162;9302 Hairdressers and beauty care;2002 August;110;;;3.3;;
+163;9302 Hairdressers and beauty care;2002 September;105;;;3.4;;
+164;9302 Hairdressers and beauty care;2002 3rd quarter;109;;;4.9;;
+165;9302 Hairdressers and beauty care;2002 October;115;;;7.9;;
+166;9302 Hairdressers and beauty care;2002 November;111;;;4.6;;
+167;9302 Hairdressers and beauty care;2002 December;119;;;2.0;;
+168;9302 Hairdressers and beauty care;2002 4th quarter;115;;;4.9;;
+169;9302 Hairdressers and beauty care;2002;110;;;4.1;;
+170;93021 Hairdressers;1993 January;70;80.0;87.0;;;
+171;93021 Hairdressers;1993 February;71;80.0;89.0;;;
+172;93021 Hairdressers;1993 March;80;80.0;100.0;;;
+173;93021 Hairdressers;1993 1st quarter;73;80.0;92.0;;;
+174;93021 Hairdressers;1993 April;79;80.0;99.0;;;
+175;93021 Hairdressers;1993 May;81;80.0;102.0;;;
+176;93021 Hairdressers;1993 June;81;81.0;100.0;;;
+177;93021 Hairdressers;1993 2nd quarter;80;80.0;100.0;;;
+178;93021 Hairdressers;1993 July;83;81.0;103.0;;;
+179;93021 Hairdressers;1993 August;72;81.0;90.0;;;
+180;93021 Hairdressers;1993 September;79;81.0;98.0;;;
+181;93021 Hairdressers;1993 3rd quarter;78;81.0;97.0;;;
+182;93021 Hairdressers;1993 October;78;81.0;96.0;;;
+183;93021 Hairdressers;1993 November;72;81.0;89.0;;;
+184;93021 Hairdressers;1993 December;93;81.0;115.0;;;
+185;93021 Hairdressers;1993 4th quarter;81;81.0;100.0;;;
+186;93021 Hairdressers;1993;78;80.0;97.0;;;
+187;93021 Hairdressers;1994 January;71;82.0;86.0;1.9;3.0;-1.1
+188;93021 Hairdressers;1994 February;71;82.0;87.0;0.9;3.0;-2.1
+189;93021 Hairdressers;1994 March;89;82.0;108.0;11.8;3.0;8.5
+190;93021 Hairdressers;1994 1st quarter;77;82.0;94.0;5.2;3.0;2.1
+191;93021 Hairdressers;1994 April;81;82.0;98.0;1.6;3.0;-1.4
+192;93021 Hairdressers;1994 May;79;82.0;97.0;-1.9;3.0;-4.8
+193;93021 Hairdressers;1994 June;84;83.0;102.0;4.5;3.0;1.5
+194;93021 Hairdressers;1994 2nd quarter;81;82.0;99.0;1.4;3.0;-1.6
+195;93021 Hairdressers;1994 July;79;83.0;95.0;-4.9;3.0;-7.7
+196;93021 Hairdressers;1994 August;75;83.0;90.0;3.2;3.0;0.2
+197;93021 Hairdressers;1994 September;78;83.0;94.0;-0.6;3.0;-3.5
+198;93021 Hairdressers;1994 3rd quarter;77;83.0;93.0;-1.0;3.0;-3.9
+199;93021 Hairdressers;1994 October;76;84.0;91.0;-1.6;3.0;-4.4
+200;93021 Hairdressers;1994 November;76;84.0;90.0;4.9;3.0;1.9
+201;93021 Hairdressers;1994 December;92;85.0;109.0;-1.0;5.0;-5.7
+202;93021 Hairdressers;1994 4th quarter;81;84.0;97.0;0.6;3.6;-2.9
+203;93021 Hairdressers;1994;79;83.0;96.0;1.5;3.2;-1.6
+204;93021 Hairdressers;1995 January;68;85.0;80.0;-3.5;3.9;-7.1
+205;93021 Hairdressers;1995 February;73;85.0;85.0;2.0;3.9;-1.9
+206;93021 Hairdressers;1995 March;84;85.0;99.0;-5.2;3.9;-8.8
+207;93021 Hairdressers;1995 1st quarter;75;85.0;88.0;-2.5;3.9;-6.1
+208;93021 Hairdressers;1995 April;78;86.0;90.0;-3.2;4.9;-7.7
+209;93021 Hairdressers;1995 May;81;86.0;94.0;2.4;4.9;-2.3
+210;93021 Hairdressers;1995 June;84;86.0;98.0;0.0;3.9;-3.8
+211;93021 Hairdressers;1995 2nd quarter;81;86.0;94.0;-0.3;4.6;-4.6
+212;93021 Hairdressers;1995 July;76;86.0;89.0;-3.4;3.9;-7.0
+213;93021 Hairdressers;1995 August;79;86.0;91.0;5.5;3.9;1.5
+214;93021 Hairdressers;1995 September;80;86.0;93.0;2.6;3.9;-1.2
+215;93021 Hairdressers;1995 3rd quarter;78;86.0;91.0;1.5;3.9;-2.3
+216;93021 Hairdressers;1995 October;77;87.0;89.0;0.7;3.8;-3.0
+217;93021 Hairdressers;1995 November;78;87.0;90.0;3.5;3.8;-0.4
+218;93021 Hairdressers;1995 December;90;87.0;104.0;-1.9;2.9;-4.6
+219;93021 Hairdressers;1995 4th quarter;82;87.0;94.0;0.6;3.5;-2.8
+220;93021 Hairdressers;1995;79;86.0;92.0;-0.2;4.0;-4.0
+221;93021 Hairdressers;1996 January;73;89.0;82.0;6.4;3.8;2.5
+222;93021 Hairdressers;1996 February;77;89.0;87.0;6.1;4.7;1.3
+223;93021 Hairdressers;1996 March;85;89.0;95.0;1.0;4.7;-3.6
+224;93021 Hairdressers;1996 1st quarter;78;89.0;88.0;4.3;4.4;-0.1
+225;93021 Hairdressers;1996 April;80;89.0;89.0;2.1;3.7;-1.6
+226;93021 Hairdressers;1996 May;90;89.0;100.0;10.1;3.7;6.1
+227;93021 Hairdressers;1996 June;82;89.0;92.0;-2.4;3.7;-6.0
+228;93021 Hairdressers;1996 2nd quarter;84;89.0;94.0;3.2;3.7;-0.5
+229;93021 Hairdressers;1996 July;83;89.0;93.0;8.6;3.7;4.7
+230;93021 Hairdressers;1996 August;84;89.0;94.0;7.2;3.7;3.3
+231;93021 Hairdressers;1996 September;79;89.0;88.0;-1.7;3.7;-5.3
+232;93021 Hairdressers;1996 3rd quarter;82;89.0;92.0;4.6;3.7;0.8
+233;93021 Hairdressers;1996 October;85;89.0;95.0;10.4;2.8;7.5
+234;93021 Hairdressers;1996 November;82;89.0;92.0;4.5;2.8;1.7
+235;93021 Hairdressers;1996 December;91;90.0;101.0;0.8;3.7;-2.8
+236;93021 Hairdressers;1996 4th quarter;86;90.0;96.0;5.0;3.1;1.9
+237;93021 Hairdressers;1996;83;89.0;92.0;4.3;3.7;0.5
+238;93021 Hairdressers;1997 January;81;91.0;89.0;11.2;3.1;7.8
+239;93021 Hairdressers;1997 February;79;92.0;86.0;2.1;3.1;-1.0
+240;93021 Hairdressers;1997 March;87;92.0;95.0;2.5;3.1;-0.6
+241;93021 Hairdressers;1997 1st quarter;82;92.0;90.0;5.1;3.1;1.9
+242;93021 Hairdressers;1997 April;84;92.0;92.0;6.1;3.1;2.8
+243;93021 Hairdressers;1997 May;95;92.0;103.0;6.0;3.1;2.8
+244;93021 Hairdressers;1997 June;85;92.0;93.0;3.8;3.1;0.7
+245;93021 Hairdressers;1997 2nd quarter;88;92.0;96.0;5.3;3.1;2.1
+246;93021 Hairdressers;1997 July;90;92.0;98.0;8.7;3.1;5.4
+247;93021 Hairdressers;1997 August;84;93.0;91.0;0.2;4.1;-3.7
+248;93021 Hairdressers;1997 September;85;93.0;91.0;7.7;4.1;3.5
+249;93021 Hairdressers;1997 3rd quarter;87;93.0;93.0;5.5;3.8;1.6
+250;93021 Hairdressers;1997 October;93;93.0;100.0;9.8;4.1;5.5
+251;93021 Hairdressers;1997 November;85;93.0;91.0;3.8;4.1;-0.3
+252;93021 Hairdressers;1997 December;99;93.0;107.0;9.6;3.2;6.2
+253;93021 Hairdressers;1997 4th quarter;93;93.0;100.0;7.8;3.8;3.9
+254;93021 Hairdressers;1997;87;92.0;95.0;5.9;3.5;2.4
+255;93021 Hairdressers;1998 January;86;95.0;90.0;5.7;3.8;1.9
+256;93021 Hairdressers;1998 February;82;95.0;87.0;3.9;2.8;1.0
+257;93021 Hairdressers;1998 March;88;95.0;92.0;0.4;2.8;-2.3
+258;93021 Hairdressers;1998 1st quarter;85;95.0;90.0;3.3;3.1;0.1
+259;93021 Hairdressers;1998 April;92;95.0;97.0;8.7;2.8;5.7
+260;93021 Hairdressers;1998 May;95;95.0;100.0;-0.1;2.8;-2.9
+261;93021 Hairdressers;1998 June;89;96.0;93.0;4.5;3.7;0.7
+262;93021 Hairdressers;1998 2nd quarter;92;95.0;97.0;4.2;3.1;1.0
+263;93021 Hairdressers;1998 July;96;96.0;100.0;6.6;3.7;2.8
+264;93021 Hairdressers;1998 August;84;95.0;89.0;-0.6;1.9;-2.4
+265;93021 Hairdressers;1998 September;90;95.0;95.0;6.2;1.9;4.3
+266;93021 Hairdressers;1998 3rd quarter;90;95.0;95.0;4.1;2.5;1.6
+267;93021 Hairdressers;1998 October;95;95.0;100.0;1.8;1.9;0.0
+268;93021 Hairdressers;1998 November;82;95.0;86.0;-3.6;1.9;-5.4
+269;93021 Hairdressers;1998 December;108;96.0;113.0;8.2;2.8;5.3
+270;93021 Hairdressers;1998 4th quarter;95;95.0;100.0;2.4;2.2;0.3
+271;93021 Hairdressers;1998;90;95.0;95.0;3.5;2.7;0.7
+272;93021 Hairdressers;1999 January;85;101.0;84.0;-1.0;6.4;-6.9
+273;93021 Hairdressers;1999 February;85;100.0;85.0;3.6;5.4;-1.8
+274;93021 Hairdressers;1999 March;97;101.0;96.0;10.3;6.4;3.7
+275;93021 Hairdressers;1999 1st quarter;89;100.0;88.0;4.4;6.1;-1.6
+276;93021 Hairdressers;1999 April;95;101.0;94.0;3.7;6.4;-2.5
+277;93021 Hairdressers;1999 May;95;101.0;95.0;0.6;6.4;-5.4
+278;93021 Hairdressers;1999 June;98;101.0;97.0;9.9;5.4;4.3
+279;93021 Hairdressers;1999 2nd quarter;96;101.0;95.0;4.6;6.0;-1.3
+280;93021 Hairdressers;1999 July;103;102.0;101.0;7.2;6.3;0.8
+281;93021 Hairdressers;1999 August;88;102.0;86.0;4.6;7.3;-2.4
+282;93021 Hairdressers;1999 September;99;102.0;97.0;9.6;8.2;1.4
+283;93021 Hairdressers;1999 3rd quarter;97;102.0;95.0;7.2;7.2;0.0
+284;93021 Hairdressers;1999 October;98;102.0;96.0;2.7;7.3;-4.2
+285;93021 Hairdressers;1999 November;92;102.0;89.0;12.1;8.2;3.7
+286;93021 Hairdressers;1999 December;117;102.0;114.0;8.5;7.2;1.2
+287;93021 Hairdressers;1999 4th quarter;102;102.0;100.0;7.6;7.5;0.1
+288;93021 Hairdressers;1999;96;101.0;95.0;6.0;6.7;-0.7
+289;93021 Hairdressers;2000 January;88;100.0;88.0;3.8;-0.8;4.7
+290;93021 Hairdressers;2000 February;93;100.0;93.0;9.9;0.0;9.9
+291;93021 Hairdressers;2000 March;103;100.0;103.0;6.9;-0.8;7.8
+292;93021 Hairdressers;2000 1st quarter;95;100.0;95.0;6.9;-0.6;7.5
+293;93021 Hairdressers;2000 April;97;100.0;97.0;1.5;-0.8;2.4
+294;93021 Hairdressers;2000 May;103;100.0;103.0;8.2;-0.8;9.1
+295;93021 Hairdressers;2000 June;101;100.0;101.0;3.4;-0.8;4.3
+296;93021 Hairdressers;2000 2nd quarter;100;100.0;100.0;4.4;-0.8;5.2
+297;93021 Hairdressers;2000 July;101;100.0;101.0;-2.4;-1.7;-0.7
+298;93021 Hairdressers;2000 August;101;100.0;101.0;14.5;-1.7;16.5
+299;93021 Hairdressers;2000 September;101;100.0;101.0;1.8;-2.5;4.4
+300;93021 Hairdressers;2000 3rd quarter;101;100.0;101.0;4.2;-2.0;6.2
+301;93021 Hairdressers;2000 October;98;100.0;98.0;-0.1;-1.7;1.6
+302;93021 Hairdressers;2000 November;101;100.0;101.0;10.0;-2.5;12.8
+303;93021 Hairdressers;2000 December;114;101.0;113.0;-2.4;-1.7;-0.7
+304;93021 Hairdressers;2000 4th quarter;104;100.0;104.0;2.0;-1.9;4.1
+305;93021 Hairdressers;2000;100;100.0;100.0;4.3;-1.3;5.7
+306;93021 Hairdressers;2001 January;94;105.0;90.0;7.3;5.2;2.0
+307;93021 Hairdressers;2001 February;98;105.0;93.0;4.6;5.2;-0.6
+308;93021 Hairdressers;2001 March;112;105.0;106.0;8.3;5.2;2.9
+309;93021 Hairdressers;2001 1st quarter;101;105.0;96.0;6.7;5.2;1.5
+310;93021 Hairdressers;2001 April;103;105.0;98.0;6.3;5.2;1.1
+311;93021 Hairdressers;2001 May;112;105.0;106.0;8.2;5.2;2.9
+312;93021 Hairdressers;2001 June;111;105.0;106.0;9.7;5.2;4.3
+313;93021 Hairdressers;2001 2nd quarter;108;105.0;103.0;8.1;5.2;2.8
+314;93021 Hairdressers;2001 July;102;105.0;97.0;1.4;5.2;-3.6
+315;93021 Hairdressers;2001 August;108;106.0;102.0;7.0;6.0;0.9
+316;93021 Hairdressers;2001 September;101;106.0;95.0;-0.1;6.0;-5.8
+317;93021 Hairdressers;2001 3rd quarter;103;106.0;98.0;2.8;5.8;-2.8
+318;93021 Hairdressers;2001 October;103;106.0;97.0;5.8;6.0;-0.2
+319;93021 Hairdressers;2001 November;104;106.0;98.0;2.8;6.0;-3.1
+320;93021 Hairdressers;2001 December;116;106.0;109.0;1.7;5.1;-3.3
+321;93021 Hairdressers;2001 4th quarter;108;106.0;102.0;3.3;5.7;-2.3
+322;93021 Hairdressers;2001;105;105.0;100.0;5.2;5.5;-0.2
+323;93021 Hairdressers;2002 January;100;109.0;92.0;6.4;4.1;2.2
+324;93021 Hairdressers;2002 February;98;110.0;89.0;0.6;4.9;-4.1
+325;93021 Hairdressers;2002 March;113;110.0;103.0;1.2;4.9;-3.6
+326;93021 Hairdressers;2002 1st quarter;104;110.0;95.0;2.6;4.6;-1.9
+327;93021 Hairdressers;2002 April;103;111.0;92.0;-0.1;5.7;-5.5
+328;93021 Hairdressers;2002 May;117;110.0;106.0;5.1;4.9;0.2
+329;93021 Hairdressers;2002 June;109;110.0;99.0;-2.0;4.9;-6.6
+330;93021 Hairdressers;2002 2nd quarter;110;111.0;99.0;1.0;5.2;-4.0
+331;93021 Hairdressers;2002 July;109;111.0;98.0;6.5;5.7;0.7
+332;93021 Hairdressers;2002 August;111;111.0;100.0;2.9;4.9;-1.9
+333;93021 Hairdressers;2002 September;102;111.0;92.0;1.4;4.9;-3.3
+334;93021 Hairdressers;2002 3rd quarter;107;111.0;96.0;3.6;5.2;-1.5
+335;93021 Hairdressers;2002 October;111;111.0;100.0;7.7;4.9;2.7
+336;93021 Hairdressers;2002 November;107;111.0;96.0;3.2;4.9;-1.6
+337;93021 Hairdressers;2002 December;116;111.0;105.0;0.5;4.9;-4.2
+338;93021 Hairdressers;2002 4th quarter;112;111.0;100.0;3.7;4.9;-1.1
+339;93021 Hairdressers;2002;108;111.0;98.0;2.7;5.0;-2.1
+340;93022 Beauty care;1993 January;54;;;;;
+341;93022 Beauty care;1993 February;57;;;;;
+342;93022 Beauty care;1993 March;68;;;;;
+343;93022 Beauty care;1993 1st quarter;60;;;;;
+344;93022 Beauty care;1993 April;69;;;;;
+345;93022 Beauty care;1993 May;66;;;;;
+346;93022 Beauty care;1993 June;68;;;;;
+347;93022 Beauty care;1993 2nd quarter;68;;;;;
+348;93022 Beauty care;1993 July;65;;;;;
+349;93022 Beauty care;1993 August;55;;;;;
+350;93022 Beauty care;1993 September;67;;;;;
+351;93022 Beauty care;1993 3rd quarter;62;;;;;
+352;93022 Beauty care;1993 October;68;;;;;
+353;93022 Beauty care;1993 November;73;;;;;
+354;93022 Beauty care;1993 December;81;;;;;
+355;93022 Beauty care;1993 4th quarter;74;;;;;
+356;93022 Beauty care;1993;66;;;;;
+357;93022 Beauty care;1994 January;66;;;22.1;;
+358;93022 Beauty care;1994 February;67;;;17.3;;
+359;93022 Beauty care;1994 March;82;;;21.4;;
+360;93022 Beauty care;1994 1st quarter;72;;;20.3;;
+361;93022 Beauty care;1994 April;74;;;7.4;;
+362;93022 Beauty care;1994 May;78;;;18.5;;
+363;93022 Beauty care;1994 June;80;;;17.4;;
+364;93022 Beauty care;1994 2nd quarter;77;;;14.4;;
+365;93022 Beauty care;1994 July;64;;;-0.9;;
+366;93022 Beauty care;1994 August;67;;;21.3;;
+367;93022 Beauty care;1994 September;71;;;5.0;;
+368;93022 Beauty care;1994 3rd quarter;67;;;7.8;;
+369;93022 Beauty care;1994 October;73;;;7.4;;
+370;93022 Beauty care;1994 November;79;;;8.0;;
+371;93022 Beauty care;1994 December;88;;;8.3;;
+372;93022 Beauty care;1994 4th quarter;80;;;7.9;;
+373;93022 Beauty care;1994;74;;;12.3;;
+374;93022 Beauty care;1995 January;74;;;12.7;;
+375;93022 Beauty care;1995 February;71;;;6.3;;
+376;93022 Beauty care;1995 March;91;;;10.1;;
+377;93022 Beauty care;1995 1st quarter;79;;;9.7;;
+378;93022 Beauty care;1995 April;80;;;8.2;;
+379;93022 Beauty care;1995 May;88;;;11.8;;
+380;93022 Beauty care;1995 June;90;;;12.6;;
+381;93022 Beauty care;1995 2nd quarter;86;;;10.9;;
+382;93022 Beauty care;1995 July;69;;;6.9;;
+383;93022 Beauty care;1995 August;76;;;14.8;;
+384;93022 Beauty care;1995 September;83;;;17.7;;
+385;93022 Beauty care;1995 3rd quarter;76;;;13.3;;
+386;93022 Beauty care;1995 October;86;;;16.4;;
+387;93022 Beauty care;1995 November;86;;;9.0;;
+388;93022 Beauty care;1995 December;92;;;4.3;;
+389;93022 Beauty care;1995 4th quarter;88;;;9.5;;
+390;93022 Beauty care;1995;82;;;10.8;;
+391;93022 Beauty care;1996 January;80;;;8.0;;
+392;93022 Beauty care;1996 February;77;;;8.0;;
+393;93022 Beauty care;1996 March;84;;;-7.8;;
+394;93022 Beauty care;1996 1st quarter;80;;;2.0;;
+395;93022 Beauty care;1996 April;88;;;9.3;;
+396;93022 Beauty care;1996 May;92;;;4.7;;
+397;93022 Beauty care;1996 June;89;;;-1.1;;
+398;93022 Beauty care;1996 2nd quarter;89;;;4.1;;
+399;93022 Beauty care;1996 July;80;;;16.5;;
+400;93022 Beauty care;1996 August;74;;;-2.8;;
+401;93022 Beauty care;1996 September;76;;;-8.6;;
+402;93022 Beauty care;1996 3rd quarter;77;;;0.9;;
+403;93022 Beauty care;1996 October;92;;;7.1;;
+404;93022 Beauty care;1996 November;82;;;-5.4;;
+405;93022 Beauty care;1996 December;93;;;0.9;;
+406;93022 Beauty care;1996 4th quarter;89;;;0.8;;
+407;93022 Beauty care;1996;84;;;2.0;;
+408;93022 Beauty care;1997 January;79;;;-1.3;;
+409;93022 Beauty care;1997 February;74;;;-4.1;;
+410;93022 Beauty care;1997 March;83;;;-0.2;;
+411;93022 Beauty care;1997 1st quarter;79;;;-1.8;;
+412;93022 Beauty care;1997 April;86;;;-2.1;;
+413;93022 Beauty care;1997 May;90;;;-1.9;;
+414;93022 Beauty care;1997 June;85;;;-4.9;;
+415;93022 Beauty care;1997 2nd quarter;87;;;-3.0;;
+416;93022 Beauty care;1997 July;85;;;6.4;;
+417;93022 Beauty care;1997 August;66;;;-11.0;;
+418;93022 Beauty care;1997 September;83;;;8.8;;
+419;93022 Beauty care;1997 3rd quarter;78;;;1.6;;
+420;93022 Beauty care;1997 October;87;;;-4.8;;
+421;93022 Beauty care;1997 November;82;;;0.7;;
+422;93022 Beauty care;1997 December;97;;;4.4;;
+423;93022 Beauty care;1997 4th quarter;89;;;0.1;;
+424;93022 Beauty care;1997;83;;;-0.8;;
+425;93022 Beauty care;1998 January;83;;;4.8;;
+426;93022 Beauty care;1998 February;80;;;8.8;;
+427;93022 Beauty care;1998 March;91;;;9.7;;
+428;93022 Beauty care;1998 1st quarter;85;;;7.8;;
+429;93022 Beauty care;1998 April;93;;;8.2;;
+430;93022 Beauty care;1998 May;92;;;2.7;;
+431;93022 Beauty care;1998 June;90;;;6.7;;
+432;93022 Beauty care;1998 2nd quarter;92;;;5.8;;
+433;93022 Beauty care;1998 July;92;;;8.4;;
+434;93022 Beauty care;1998 August;71;;;7.3;;
+435;93022 Beauty care;1998 September;91;;;9.6;;
+436;93022 Beauty care;1998 3rd quarter;85;;;8.6;;
+437;93022 Beauty care;1998 October;89;;;2.6;;
+438;93022 Beauty care;1998 November;89;;;7.6;;
+439;93022 Beauty care;1998 December;100;;;3.1;;
+440;93022 Beauty care;1998 4th quarter;93;;;4.3;;
+441;93022 Beauty care;1998;89;;;6.5;;
+442;93022 Beauty care;1999 January;83;;;-0.6;;
+443;93022 Beauty care;1999 February;78;;;-3.5;;
+444;93022 Beauty care;1999 March;101;;;9.9;;
+445;93022 Beauty care;1999 1st quarter;87;;;2.2;;
+446;93022 Beauty care;1999 April;93;;;0.4;;
+447;93022 Beauty care;1999 May;88;;;-4.1;;
+448;93022 Beauty care;1999 June;100;;;10.0;;
+449;93022 Beauty care;1999 2nd quarter;94;;;2.1;;
+450;93022 Beauty care;1999 July;84;;;-9.1;;
+451;93022 Beauty care;1999 August;81;;;14.3;;
+452;93022 Beauty care;1999 September;89;;;-2.7;;
+453;93022 Beauty care;1999 3rd quarter;84;;;-0.3;;
+454;93022 Beauty care;1999 October;96;;;7.0;;
+455;93022 Beauty care;1999 November;101;;;14.5;;
+456;93022 Beauty care;1999 December;113;;;13.6;;
+457;93022 Beauty care;1999 4th quarter;103;;;11.8;;
+458;93022 Beauty care;1999;92;;;4.1;;
+459;93022 Beauty care;2000 January;89;;;8.1;;
+460;93022 Beauty care;2000 February;98;;;26.4;;
+461;93022 Beauty care;2000 March;107;;;5.9;;
+462;93022 Beauty care;2000 1st quarter;98;;;12.7;;
+463;93022 Beauty care;2000 April;103;;;10.3;;
+464;93022 Beauty care;2000 May;109;;;22.7;;
+465;93022 Beauty care;2000 June;101;;;1.9;;
+466;93022 Beauty care;2000 2nd quarter;104;;;11.2;;
+467;93022 Beauty care;2000 July;89;;;6.1;;
+468;93022 Beauty care;2000 August;89;;;9.5;;
+469;93022 Beauty care;2000 September;97;;;9.2;;
+470;93022 Beauty care;2000 3rd quarter;91;;;8.3;;
+471;93022 Beauty care;2000 October;100;;;4.9;;
+472;93022 Beauty care;2000 November;107;;;5.2;;
+473;93022 Beauty care;2000 December;112;;;-1.0;;
+474;93022 Beauty care;2000 4th quarter;106;;;2.8;;
+475;93022 Beauty care;2000;100;;;8.5;;
+476;93022 Beauty care;2001 January;100;;;12.2;;
+477;93022 Beauty care;2001 February;99;;;0.6;;
+478;93022 Beauty care;2001 March;115;;;8.1;;
+479;93022 Beauty care;2001 1st quarter;105;;;6.8;;
+480;93022 Beauty care;2001 April;108;;;5.3;;
+481;93022 Beauty care;2001 May;117;;;7.9;;
+482;93022 Beauty care;2001 June;110;;;8.1;;
+483;93022 Beauty care;2001 2nd quarter;112;;;7.1;;
+484;93022 Beauty care;2001 July;102;;;15.0;;
+485;93022 Beauty care;2001 August;102;;;14.9;;
+486;93022 Beauty care;2001 September;109;;;13.2;;
+487;93022 Beauty care;2001 3rd quarter;105;;;14.3;;
+488;93022 Beauty care;2001 October;123;;;22.1;;
+489;93022 Beauty care;2001 November;123;;;14.9;;
+490;93022 Beauty care;2001 December;121;;;7.8;;
+491;93022 Beauty care;2001 4th quarter;122;;;14.7;;
+492;93022 Beauty care;2001;111;;;10.7;;
+493;93022 Beauty care;2002 January;112;;;12.0;;
+494;93022 Beauty care;2002 February;109;;;10.6;;
+495;93022 Beauty care;2002 March;123;;;6.4;;
+496;93022 Beauty care;2002 1st quarter;115;;;9.5;;
+497;93022 Beauty care;2002 April;123;;;13.4;;
+498;93022 Beauty care;2002 May;132;;;12.5;;
+499;93022 Beauty care;2002 June;126;;;14.6;;
+500;93022 Beauty care;2002 2nd quarter;127;;;13.5;;
+501;93022 Beauty care;2002 July;119;;;16.5;;
+502;93022 Beauty care;2002 August;108;;;5.5;;
+503;93022 Beauty care;2002 September;125;;;13.8;;
+504;93022 Beauty care;2002 3rd quarter;117;;;12.0;;
+505;93022 Beauty care;2002 October;137;;;11.7;;
+506;93022 Beauty care;2002 November;135;;;9.8;;
+507;93022 Beauty care;2002 December;136;;;12.7;;
+508;93022 Beauty care;2002 4th quarter;136;;;11.4;;
+509;93022 Beauty care;2002;124;;;11.6;;

@@ -1,0 +1,2951 @@
+﻿ID;RegioS;SamenstellingVanHetHuishouden;AantalHuishoudens_1;GemiddBesteedbInkomenPerHuishouden_2;GemiddGestandaardiseerdInkPerHuish_3
+0;Nederland;Totaal particulier huishouden;6718.6;30.3;21.1
+1;Nederland;Eenpersoonshuishouden;2188.7;18.4;18.4
+2;Nederland;Paar zonder kinderen;2020.6;32.9;24.0
+3;Nederland;Paar met kinderen;1910.7;40.9;21.8
+4;Nederland;Eenoudergezin;339.1;24.1;16.4
+5;Noord-Nederland (LD);Totaal particulier huishouden;699.6;27.9;19.4
+6;Noord-Nederland (LD);Eenpersoonshuishouden;219.3;17.0;17.0
+7;Noord-Nederland (LD);Paar zonder kinderen;231.3;30.0;21.9
+8;Noord-Nederland (LD);Paar met kinderen;198.0;37.2;19.8
+9;Noord-Nederland (LD);Eenoudergezin;28.4;22.4;15.2
+10;Oost-Nederland (LD);Totaal particulier huishouden;1343.1;30.4;20.6
+11;Oost-Nederland (LD);Eenpersoonshuishouden;386.6;17.7;17.7
+12;Oost-Nederland (LD);Paar zonder kinderen;411.5;31.8;23.2
+13;Oost-Nederland (LD);Paar met kinderen;428.6;39.6;21.0
+14;Oost-Nederland (LD);Eenoudergezin;60.3;24.6;16.6
+15;West-Nederland (LD);Totaal particulier huishouden;3236.7;30.7;21.7
+16;West-Nederland (LD);Eenpersoonshuishouden;1171.2;19.0;19.0
+17;West-Nederland (LD);Paar zonder kinderen;913.1;34.6;25.3
+18;West-Nederland (LD);Paar met kinderen;841.3;42.7;22.8
+19;West-Nederland (LD);Eenoudergezin;184.9;24.1;16.3
+20;Zuid-Nederland (LD);Totaal particulier huishouden;1439.3;30.5;20.9
+21;Zuid-Nederland (LD);Eenpersoonshuishouden;411.6;17.9;17.9
+22;Zuid-Nederland (LD);Paar zonder kinderen;464.8;31.9;23.3
+23;Zuid-Nederland (LD);Paar met kinderen;442.8;40.3;21.6
+24;Zuid-Nederland (LD);Eenoudergezin;65.5;24.6;16.8
+25;Groningen (PV);Totaal particulier huishouden;241.2;27.0;19.2
+26;Groningen (PV);Eenpersoonshuishouden;84.7;17.0;17.0
+27;Groningen (PV);Paar zonder kinderen;77.4;29.8;21.8
+28;Groningen (PV);Paar met kinderen;60.9;37.0;19.8
+29;Groningen (PV);Eenoudergezin;10.3;21.3;14.6
+30;Friesland (PV);Totaal particulier huishouden;262.6;27.8;19.3
+31;Friesland (PV);Eenpersoonshuishouden;80.8;16.8;16.8
+32;Friesland (PV);Paar zonder kinderen;86.1;29.7;21.7
+33;Friesland (PV);Paar met kinderen;77.3;36.9;19.5
+34;Friesland (PV);Eenoudergezin;10.4;22.7;15.3
+35;Drenthe (PV);Totaal particulier huishouden;195.8;29.0;19.9
+36;Drenthe (PV);Eenpersoonshuishouden;53.8;17.3;17.3
+37;Drenthe (PV);Paar zonder kinderen;67.7;30.4;22.2
+38;Drenthe (PV);Paar met kinderen;59.8;37.6;20.1
+39;Drenthe (PV);Eenoudergezin;7.6;23.3;15.9
+40;Overijssel (PV);Totaal particulier huishouden;431.5;29.5;20.0
+41;Overijssel (PV);Eenpersoonshuishouden;124.0;17.4;17.4
+42;Overijssel (PV);Paar zonder kinderen;133.4;30.6;22.4
+43;Overijssel (PV);Paar met kinderen;137.9;38.4;20.3
+44;Overijssel (PV);Eenoudergezin;17.9;24.6;16.5
+45;Flevoland (PV);Totaal particulier huishouden;135.1;30.8;20.6
+46;Flevoland (PV);Eenpersoonshuishouden;35.2;17.9;17.9
+47;Flevoland (PV);Paar zonder kinderen;38.6;32.9;24.0
+48;Flevoland (PV);Paar met kinderen;47.0;39.1;20.8
+49;Flevoland (PV);Eenoudergezin;8.2;22.2;15.0
+50;Gelderland (PV);Totaal particulier huishouden;776.5;30.8;20.9
+51;Gelderland (PV);Eenpersoonshuishouden;227.3;17.9;17.9
+52;Gelderland (PV);Paar zonder kinderen;239.5;32.3;23.6
+53;Gelderland (PV);Paar met kinderen;243.6;40.3;21.4
+54;Gelderland (PV);Eenoudergezin;34.1;25.2;17.0
+55;Utrecht (PV);Totaal particulier huishouden;473.0;32.8;22.8
+56;Utrecht (PV);Eenpersoonshuishouden;160.2;19.7;19.7
+57;Utrecht (PV);Paar zonder kinderen;137.2;36.4;26.5
+58;Utrecht (PV);Paar met kinderen;136.2;44.1;23.5
+59;Utrecht (PV);Eenoudergezin;21.4;25.7;17.4
+60;Noord-Holland (PV);Totaal particulier huishouden;1142.7;30.4;21.9
+61;Noord-Holland (PV);Eenpersoonshuishouden;445.4;19.2;19.2
+62;Noord-Holland (PV);Paar zonder kinderen;310.2;35.3;25.8
+63;Noord-Holland (PV);Paar met kinderen;273.3;43.0;23.0
+64;Noord-Holland (PV);Eenoudergezin;69.2;24.0;16.3
+65;Zuid-Holland (PV);Totaal particulier huishouden;1463.0;30.4;21.4
+66;Zuid-Holland (PV);Eenpersoonshuishouden;517.6;18.7;18.7
+67;Zuid-Holland (PV);Paar zonder kinderen;412.1;34.0;24.8
+68;Zuid-Holland (PV);Paar met kinderen;386.7;42.2;22.5
+69;Zuid-Holland (PV);Eenoudergezin;88.0;23.8;16.1
+70;Zeeland (PV);Totaal particulier huishouden;158.0;29.5;20.5
+71;Zeeland (PV);Eenpersoonshuishouden;48.1;17.6;17.6
+72;Zeeland (PV);Paar zonder kinderen;53.5;31.3;22.8
+73;Zeeland (PV);Paar met kinderen;45.2;39.7;21.1
+74;Zeeland (PV);Eenoudergezin;6.3;24.4;16.6
+75;Noord-Brabant (PV);Totaal particulier huishouden;965.1;31.1;21.2
+76;Noord-Brabant (PV);Eenpersoonshuishouden;272.1;18.2;18.2
+77;Noord-Brabant (PV);Paar zonder kinderen;311.0;32.4;23.6
+78;Noord-Brabant (PV);Paar met kinderen;302.5;40.8;21.8
+79;Noord-Brabant (PV);Eenoudergezin;42.4;24.8;16.8
+80;Limburg (PV);Totaal particulier huishouden;474.2;29.4;20.3
+81;Limburg (PV);Eenpersoonshuishouden;139.5;17.3;17.3
+82;Limburg (PV);Paar zonder kinderen;153.7;30.8;22.5
+83;Limburg (PV);Paar met kinderen;140.2;39.3;21.2
+84;Limburg (PV);Eenoudergezin;23.1;24.3;16.7
+85;Oost-Groningen (CR);Totaal particulier huishouden;65.5;26.4;18.3
+86;Oost-Groningen (CR);Eenpersoonshuishouden;18.9;15.7;15.7
+87;Oost-Groningen (CR);Paar zonder kinderen;23.0;27.2;19.9
+88;Oost-Groningen (CR);Paar met kinderen;18.7;35.5;19.1
+89;Oost-Groningen (CR);Eenoudergezin;2.7;21.7;14.8
+90;Delfzijl en omgeving (CR);Totaal particulier huishouden;22.2;27.2;19.0
+91;Delfzijl en omgeving (CR);Eenpersoonshuishouden;6.7;16.8;16.8
+92;Delfzijl en omgeving (CR);Paar zonder kinderen;7.7;29.1;21.3
+93;Delfzijl en omgeving (CR);Paar met kinderen;6.1;36.0;19.3
+94;Delfzijl en omgeving (CR);Eenoudergezin;1.0;21.4;14.5
+95;Overig Groningen (CR);Totaal particulier huishouden;153.5;27.2;19.7
+96;Overig Groningen (CR);Eenpersoonshuishouden;59.1;17.4;17.4
+97;Overig Groningen (CR);Paar zonder kinderen;46.8;31.2;22.8
+98;Overig Groningen (CR);Paar met kinderen;36.1;38.0;20.3
+99;Overig Groningen (CR);Eenoudergezin;6.7;21.1;14.5
+100;Noord-Friesland (CR);Totaal particulier huishouden;135.4;27.5;19.1
+101;Noord-Friesland (CR);Eenpersoonshuishouden;43.4;16.8;16.8
+102;Noord-Friesland (CR);Paar zonder kinderen;43.0;29.6;21.6
+103;Noord-Friesland (CR);Paar met kinderen;39.5;36.8;19.5
+104;Noord-Friesland (CR);Eenoudergezin;5.5;22.5;15.2
+105;Zuidwest-Friesland (CR);Totaal particulier huishouden;43.0;27.9;19.3
+106;Zuidwest-Friesland (CR);Eenpersoonshuishouden;12.8;16.8;16.8
+107;Zuidwest-Friesland (CR);Paar zonder kinderen;14.4;29.9;21.8
+108;Zuidwest-Friesland (CR);Paar met kinderen;12.8;36.6;19.3
+109;Zuidwest-Friesland (CR);Eenoudergezin;1.6;23.0;15.5
+110;Zuidoost-Friesland (CR);Totaal particulier huishouden;84.2;28.2;19.5
+111;Zuidoost-Friesland (CR);Eenpersoonshuishouden;24.6;16.8;16.8
+112;Zuidoost-Friesland (CR);Paar zonder kinderen;28.7;29.9;21.8
+113;Zuidoost-Friesland (CR);Paar met kinderen;25.0;37.2;19.7
+114;Zuidoost-Friesland (CR);Eenoudergezin;3.3;22.9;15.4
+115;Noord-Drenthe (CR);Totaal particulier huishouden;74.9;30.1;20.8
+116;Noord-Drenthe (CR);Eenpersoonshuishouden;21.2;17.8;17.8
+117;Noord-Drenthe (CR);Paar zonder kinderen;26.3;32.2;23.5
+118;Noord-Drenthe (CR);Paar met kinderen;22.4;39.0;20.8
+119;Noord-Drenthe (CR);Eenoudergezin;2.8;23.2;15.9
+120;Zuidoost-Drenthe (CR);Totaal particulier huishouden;69.7;27.8;19.0
+121;Zuidoost-Drenthe (CR);Eenpersoonshuishouden;18.4;16.4;16.4
+122;Zuidoost-Drenthe (CR);Paar zonder kinderen;24.2;28.6;20.9
+123;Zuidoost-Drenthe (CR);Paar met kinderen;21.4;35.8;19.2
+124;Zuidoost-Drenthe (CR);Eenoudergezin;2.8;23.1;15.7
+125;Zuidwest-Drenthe (CR);Totaal particulier huishouden;51.2;29.3;20.0
+126;Zuidwest-Drenthe (CR);Eenpersoonshuishouden;14.2;17.5;17.5
+127;Zuidwest-Drenthe (CR);Paar zonder kinderen;17.3;30.2;22.1
+128;Zuidwest-Drenthe (CR);Paar met kinderen;16.0;38.1;20.2
+129;Zuidwest-Drenthe (CR);Eenoudergezin;2.0;23.8;16.1
+130;Noord-Overijssel (CR);Totaal particulier huishouden;132.0;29.8;20.1
+131;Noord-Overijssel (CR);Eenpersoonshuishouden;37.9;17.4;17.4
+132;Noord-Overijssel (CR);Paar zonder kinderen;40.1;31.0;22.6
+133;Noord-Overijssel (CR);Paar met kinderen;44.0;38.8;20.3
+134;Noord-Overijssel (CR);Eenoudergezin;5.2;25.1;16.8
+135;Zuidwest-Overijssel (CR);Totaal particulier huishouden;58.9;29.2;20.1
+136;Zuidwest-Overijssel (CR);Eenpersoonshuishouden;17.8;17.4;17.4
+137;Zuidwest-Overijssel (CR);Paar zonder kinderen;18.4;31.6;23.0
+138;Zuidwest-Overijssel (CR);Paar met kinderen;17.8;38.0;20.3
+139;Zuidwest-Overijssel (CR);Eenoudergezin;2.4;23.8;16.1
+140;Twente (CR);Totaal particulier huishouden;240.6;29.4;19.9
+141;Twente (CR);Eenpersoonshuishouden;68.4;17.4;17.4
+142;Twente (CR);Paar zonder kinderen;74.9;30.2;22.0
+143;Twente (CR);Paar met kinderen;76.1;38.4;20.3
+144;Twente (CR);Eenoudergezin;10.3;24.5;16.5
+145;Veluwe (CR);Totaal particulier huishouden;244.0;31.9;21.3
+146;Veluwe (CR);Eenpersoonshuishouden;68.0;18.3;18.3
+147;Veluwe (CR);Paar zonder kinderen;74.0;32.9;24.0
+148;Veluwe (CR);Paar met kinderen;81.4;41.1;21.6
+149;Veluwe (CR);Eenoudergezin;10.4;26.8;17.9
+150;Achterhoek (CR);Totaal particulier huishouden;151.8;30.3;20.4
+151;Achterhoek (CR);Eenpersoonshuishouden;39.9;17.4;17.4
+152;Achterhoek (CR);Paar zonder kinderen;50.3;30.9;22.6
+153;Achterhoek (CR);Paar met kinderen;48.8;38.8;20.7
+154;Achterhoek (CR);Eenoudergezin;5.7;25.6;17.3
+155;Arnhem/Nijmegen (CR);Totaal particulier huishouden;293.9;29.5;20.6
+156;Arnhem/Nijmegen (CR);Eenpersoonshuishouden;98.6;17.9;17.9
+157;Arnhem/Nijmegen (CR);Paar zonder kinderen;89.0;32.4;23.6
+158;Arnhem/Nijmegen (CR);Paar met kinderen;81.1;40.0;21.4
+159;Arnhem/Nijmegen (CR);Eenoudergezin;14.3;23.3;15.8
+160;Zuidwest-Gelderland (CR);Totaal particulier huishouden;86.8;32.8;21.4
+161;Zuidwest-Gelderland (CR);Eenpersoonshuishouden;20.8;17.7;17.7
+162;Zuidwest-Gelderland (CR);Paar zonder kinderen;26.1;32.5;23.8
+163;Zuidwest-Gelderland (CR);Paar met kinderen;32.3;41.6;22.0
+164;Zuidwest-Gelderland (CR);Eenoudergezin;3.7;27.4;18.4
+165;Utrecht (CR);Totaal particulier huishouden;473.0;32.8;22.8
+166;Utrecht (CR);Eenpersoonshuishouden;160.2;19.7;19.7
+167;Utrecht (CR);Paar zonder kinderen;137.2;36.4;26.5
+168;Utrecht (CR);Paar met kinderen;136.2;44.1;23.5
+169;Utrecht (CR);Eenoudergezin;21.4;25.7;17.4
+170;Kop van Noord-Holland (CR);Totaal particulier huishouden;146.2;30.5;20.8
+171;Kop van Noord-Holland (CR);Eenpersoonshuishouden;41.6;17.5;17.5
+172;Kop van Noord-Holland (CR);Paar zonder kinderen;47.2;32.1;23.4
+173;Kop van Noord-Holland (CR);Paar met kinderen;46.0;40.5;21.5
+174;Kop van Noord-Holland (CR);Eenoudergezin;6.5;23.8;16.0
+175;Alkmaar en omgeving (CR);Totaal particulier huishouden;92.8;31.3;21.7
+176;Alkmaar en omgeving (CR);Eenpersoonshuishouden;29.3;18.7;18.7
+177;Alkmaar en omgeving (CR);Paar zonder kinderen;28.5;34.2;25.0
+178;Alkmaar en omgeving (CR);Paar met kinderen;27.1;41.9;22.2
+179;Alkmaar en omgeving (CR);Eenoudergezin;4.7;24.1;16.3
+180;IJmond (CR);Totaal particulier huishouden;78.2;31.9;22.1
+181;IJmond (CR);Eenpersoonshuishouden;24.1;19.4;19.4
+182;IJmond (CR);Paar zonder kinderen;24.6;34.1;24.9
+183;IJmond (CR);Paar met kinderen;23.3;42.8;22.8
+184;IJmond (CR);Eenoudergezin;3.8;24.1;16.3
+185;Agglomeratie Haarlem (CR);Totaal particulier huishouden;97.8;32.1;23.1
+186;Agglomeratie Haarlem (CR);Eenpersoonshuishouden;39.2;19.8;19.8
+187;Agglomeratie Haarlem (CR);Paar zonder kinderen;27.7;37.5;27.4
+188;Agglomeratie Haarlem (CR);Paar met kinderen;22.5;46.0;24.6
+189;Agglomeratie Haarlem (CR);Eenoudergezin;4.6;25.6;17.4
+190;Zaanstreek (CR);Totaal particulier huishouden;65.6;30.5;21.2
+191;Zaanstreek (CR);Eenpersoonshuishouden;20.4;18.2;18.2
+192;Zaanstreek (CR);Paar zonder kinderen;20.6;32.9;24.0
+193;Zaanstreek (CR);Paar met kinderen;18.3;41.2;22.1
+194;Zaanstreek (CR);Eenoudergezin;3.6;23.3;15.8
+195;Groot-Amsterdam (CR);Totaal particulier huishouden;556.8;29.0;21.6
+196;Groot-Amsterdam (CR);Eenpersoonshuishouden;253.4;19.3;19.3
+197;Groot-Amsterdam (CR);Paar zonder kinderen;130.2;36.1;26.3
+198;Groot-Amsterdam (CR);Paar met kinderen;108.3;42.7;23.0
+199;Groot-Amsterdam (CR);Eenoudergezin;41.0;23.4;16.0
+200;Het Gooi en Vechtstreek (CR);Totaal particulier huishouden;105.2;34.4;24.3
+201;Het Gooi en Vechtstreek (CR);Eenpersoonshuishouden;37.4;20.6;20.6
+202;Het Gooi en Vechtstreek (CR);Paar zonder kinderen;31.5;38.4;28.0
+203;Het Gooi en Vechtstreek (CR);Paar met kinderen;27.8;48.5;25.9
+204;Het Gooi en Vechtstreek (CR);Eenoudergezin;5.0;27.3;18.7
+205;Agglomeratie Leiden en Bollenstreek (CR);Totaal particulier huishouden;157.0;33.0;22.8
+206;Agglomeratie Leiden en Bollenstreek (CR);Eenpersoonshuishouden;52.6;19.7;19.7
+207;Agglomeratie Leiden en Bollenstreek (CR);Paar zonder kinderen;45.3;35.7;26.1
+208;Agglomeratie Leiden en Bollenstreek (CR);Paar met kinderen;47.3;45.0;23.9
+209;Agglomeratie Leiden en Bollenstreek (CR);Eenoudergezin;7.1;26.8;18.1
+210;Agglomeratie 's-Gravenhage (CR);Totaal particulier huishouden;343.4;30.0;22.0
+211;Agglomeratie 's-Gravenhage (CR);Eenpersoonshuishouden;142.5;19.9;19.9
+212;Agglomeratie 's-Gravenhage (CR);Paar zonder kinderen;86.7;36.0;26.3
+213;Agglomeratie 's-Gravenhage (CR);Paar met kinderen;74.8;42.7;22.9
+214;Agglomeratie 's-Gravenhage (CR);Eenoudergezin;23.9;23.4;15.9
+215;Delft en Westland (CR);Totaal particulier huishouden;84.6;31.6;21.9
+216;Delft en Westland (CR);Eenpersoonshuishouden;28.0;18.7;18.7
+217;Delft en Westland (CR);Paar zonder kinderen;25.0;33.7;24.6
+218;Delft en Westland (CR);Paar met kinderen;24.9;43.7;23.2
+219;Delft en Westland (CR);Eenoudergezin;4.0;26.1;17.6
+220;Oost-Zuid-Holland (CR);Totaal particulier huishouden;126.0;33.5;22.4
+221;Oost-Zuid-Holland (CR);Eenpersoonshuishouden;34.2;18.7;18.7
+222;Oost-Zuid-Holland (CR);Paar zonder kinderen;39.3;34.8;25.4
+223;Oost-Zuid-Holland (CR);Paar met kinderen;42.8;43.6;23.1
+224;Oost-Zuid-Holland (CR);Eenoudergezin;5.2;26.6;17.8
+225;Groot-Rijnmond (CR);Totaal particulier huishouden;591.5;29.0;20.6
+226;Groot-Rijnmond (CR);Eenpersoonshuishouden;213.3;17.9;17.9
+227;Groot-Rijnmond (CR);Paar zonder kinderen;166.7;32.9;24.0
+228;Groot-Rijnmond (CR);Paar met kinderen;146.3;40.7;21.9
+229;Groot-Rijnmond (CR);Eenoudergezin;40.0;22.6;15.3
+230;Zuidoost-Zuid-Holland (CR);Totaal particulier huishouden;160.5;30.9;21.0
+231;Zuidoost-Zuid-Holland (CR);Eenpersoonshuishouden;47.0;17.8;17.8
+232;Zuidoost-Zuid-Holland (CR);Paar zonder kinderen;49.0;32.4;23.6
+233;Zuidoost-Zuid-Holland (CR);Paar met kinderen;50.6;41.4;21.9
+234;Zuidoost-Zuid-Holland (CR);Eenoudergezin;7.9;24.8;16.7
+235;Zeeuwsch-Vlaanderen (CR);Totaal particulier huishouden;46.3;29.7;20.7
+236;Zeeuwsch-Vlaanderen (CR);Eenpersoonshuishouden;13.8;17.6;17.6
+237;Zeeuwsch-Vlaanderen (CR);Paar zonder kinderen;16.3;30.7;22.4
+238;Zeeuwsch-Vlaanderen (CR);Paar met kinderen;12.6;40.8;22.0
+239;Zeeuwsch-Vlaanderen (CR);Eenoudergezin;1.8;23.9;16.5
+240;Overig Zeeland (CR);Totaal particulier huishouden;111.7;29.5;20.4
+241;Overig Zeeland (CR);Eenpersoonshuishouden;34.3;17.6;17.6
+242;Overig Zeeland (CR);Paar zonder kinderen;37.2;31.5;23.0
+243;Overig Zeeland (CR);Paar met kinderen;32.6;39.3;20.8
+244;Overig Zeeland (CR);Eenoudergezin;4.5;24.6;16.6
+245;West-Noord-Brabant (CR);Totaal particulier huishouden;247.2;30.8;21.1
+246;West-Noord-Brabant (CR);Eenpersoonshuishouden;69.7;18.1;18.1
+247;West-Noord-Brabant (CR);Paar zonder kinderen;82.8;32.0;23.4
+248;West-Noord-Brabant (CR);Paar met kinderen;74.5;40.7;21.9
+249;West-Noord-Brabant (CR);Eenoudergezin;10.8;24.5;16.7
+250;Midden-Noord-Brabant (CR);Totaal particulier huishouden;178.1;30.8;20.9
+251;Midden-Noord-Brabant (CR);Eenpersoonshuishouden;50.5;17.9;17.9
+252;Midden-Noord-Brabant (CR);Paar zonder kinderen;56.7;31.8;23.2
+253;Midden-Noord-Brabant (CR);Paar met kinderen;56.1;41.1;21.9
+254;Midden-Noord-Brabant (CR);Eenoudergezin;8.4;24.1;16.2
+255;Noordoost-Noord-Brabant (CR);Totaal particulier huishouden;244.8;31.9;21.4
+256;Noordoost-Noord-Brabant (CR);Eenpersoonshuishouden;65.3;18.3;18.3
+257;Noordoost-Noord-Brabant (CR);Paar zonder kinderen;76.3;32.8;23.9
+258;Noordoost-Noord-Brabant (CR);Paar met kinderen;82.6;41.0;21.8
+259;Noordoost-Noord-Brabant (CR);Eenoudergezin;10.4;25.7;17.4
+260;Zuidoost-Noord-Brabant (CR);Totaal particulier huishouden;295.0;30.9;21.2
+261;Zuidoost-Noord-Brabant (CR);Eenpersoonshuishouden;86.5;18.4;18.4
+262;Zuidoost-Noord-Brabant (CR);Paar zonder kinderen;95.3;32.6;23.8
+263;Zuidoost-Noord-Brabant (CR);Paar met kinderen;89.4;40.6;21.6
+264;Zuidoost-Noord-Brabant (CR);Eenoudergezin;12.9;24.8;16.8
+265;Noord-Limburg (CR);Totaal particulier huishouden;109.8;30.5;20.5
+266;Noord-Limburg (CR);Eenpersoonshuishouden;28.9;17.4;17.4
+267;Noord-Limburg (CR);Paar zonder kinderen;35.3;31.3;22.9
+268;Noord-Limburg (CR);Paar met kinderen;37.0;39.2;20.9
+269;Noord-Limburg (CR);Eenoudergezin;4.5;26.0;17.7
+270;Midden-Limburg (CR);Totaal particulier huishouden;94.7;30.5;20.7
+271;Midden-Limburg (CR);Eenpersoonshuishouden;25.1;17.4;17.4
+272;Midden-Limburg (CR);Paar zonder kinderen;31.3;31.4;22.9
+273;Midden-Limburg (CR);Paar met kinderen;30.2;39.8;21.4
+274;Midden-Limburg (CR);Eenoudergezin;4.3;25.6;17.5
+275;Zuid-Limburg (CR);Totaal particulier huishouden;269.7;28.6;20.0
+276;Zuid-Limburg (CR);Eenpersoonshuishouden;85.5;17.3;17.3
+277;Zuid-Limburg (CR);Paar zonder kinderen;87.1;30.4;22.2
+278;Zuid-Limburg (CR);Paar met kinderen;73.0;39.1;21.2
+279;Zuid-Limburg (CR);Eenoudergezin;14.2;23.4;16.1
+280;Flevoland (CR);Totaal particulier huishouden;135.1;30.8;20.6
+281;Flevoland (CR);Eenpersoonshuishouden;35.2;17.9;17.9
+282;Flevoland (CR);Paar zonder kinderen;38.6;32.9;24.0
+283;Flevoland (CR);Paar met kinderen;47.0;39.1;20.8
+284;Flevoland (CR);Eenoudergezin;8.2;22.2;15.0
+285;Groningen (GA);Totaal particulier huishouden;86.6;26.1;19.9
+286;Groningen (GA);Eenpersoonshuishouden;41.2;17.8;17.8
+287;Groningen (GA);Paar zonder kinderen;24.2;32.7;23.9
+288;Groningen (GA);Paar met kinderen;14.4;38.9;21.0
+289;Groningen (GA);Eenoudergezin;4.3;20.3;14.0
+290;Leeuwarden (GA);Totaal particulier huishouden;40.7;25.5;18.9
+291;Leeuwarden (GA);Eenpersoonshuishouden;17.6;16.9;16.9
+292;Leeuwarden (GA);Paar zonder kinderen;11.8;30.5;22.2
+293;Leeuwarden (GA);Paar met kinderen;8.0;36.8;19.7
+294;Leeuwarden (GA);Eenoudergezin;2.0;20.7;14.1
+295;Zwolle (GA);Totaal particulier huishouden;46.9;29.1;20.7
+296;Zwolle (GA);Eenpersoonshuishouden;17.0;18.0;18.0
+297;Zwolle (GA);Paar zonder kinderen;14.1;33.2;24.2
+298;Zwolle (GA);Paar met kinderen;12.1;40.2;21.4
+299;Zwolle (GA);Eenoudergezin;2.1;21.9;14.8
+300;Enschede (GA);Totaal particulier huishouden;63.2;26.2;18.7
+301;Enschede (GA);Eenpersoonshuishouden;22.7;16.7;16.7
+302;Enschede (GA);Paar zonder kinderen;19.1;29.0;21.2
+303;Enschede (GA);Paar met kinderen;15.8;35.7;19.2
+304;Enschede (GA);Eenoudergezin;3.1;20.8;14.2
+305;Apeldoorn (GA);Totaal particulier huishouden;64.6;30.7;21.3
+306;Apeldoorn (GA);Eenpersoonshuishouden;20.5;18.5;18.5
+307;Apeldoorn (GA);Paar zonder kinderen;20.3;33.3;24.3
+308;Apeldoorn (GA);Paar met kinderen;18.3;40.7;21.7
+309;Apeldoorn (GA);Eenoudergezin;3.0;24.8;16.7
+310;Arnhem (GA);Totaal particulier huishouden;65.0;26.8;19.7
+311;Arnhem (GA);Eenpersoonshuishouden;27.3;17.4;17.4
+312;Arnhem (GA);Paar zonder kinderen;18.1;32.4;23.7
+313;Arnhem (GA);Paar met kinderen;13.2;38.1;20.5
+314;Arnhem (GA);Eenoudergezin;3.6;20.9;14.2
+315;Nijmegen (GA);Totaal particulier huishouden;69.1;26.8;19.8
+316;Nijmegen (GA);Eenpersoonshuishouden;30.7;17.4;17.4
+317;Nijmegen (GA);Paar zonder kinderen;18.3;32.3;23.6
+318;Nijmegen (GA);Paar met kinderen;13.9;39.5;21.3
+319;Nijmegen (GA);Eenoudergezin;4.0;22.2;15.2
+320;Amersfoort (GA);Totaal particulier huishouden;66.2;32.7;22.8
+321;Amersfoort (GA);Eenpersoonshuishouden;21.8;19.8;19.8
+322;Amersfoort (GA);Paar zonder kinderen;19.3;36.5;26.6
+323;Amersfoort (GA);Paar met kinderen;19.6;43.7;23.3
+324;Amersfoort (GA);Eenoudergezin;3.1;24.1;16.3
+325;Utrecht (GA);Totaal particulier huishouden;173.2;30.3;21.9
+326;Utrecht (GA);Eenpersoonshuishouden;70.7;19.3;19.3
+327;Utrecht (GA);Paar zonder kinderen;46.6;35.8;26.1
+328;Utrecht (GA);Paar met kinderen;39.8;42.5;22.9
+329;Utrecht (GA);Eenoudergezin;8.5;24.0;16.2
+330;Amsterdam (GA);Totaal particulier huishouden;490.8;27.9;21.1
+331;Amsterdam (GA);Eenpersoonshuishouden;237.5;19.3;19.3
+332;Amsterdam (GA);Paar zonder kinderen;109.5;35.5;25.9
+333;Amsterdam (GA);Paar met kinderen;83.1;41.4;22.4
+334;Amsterdam (GA);Eenoudergezin;38.7;23.1;15.7
+335;Haarlem (GA);Totaal particulier huishouden;85.6;31.9;23.0
+336;Haarlem (GA);Eenpersoonshuishouden;34.8;19.6;19.6
+337;Haarlem (GA);Paar zonder kinderen;23.9;37.3;27.3
+338;Haarlem (GA);Paar met kinderen;19.4;46.2;24.7
+339;Haarlem (GA);Eenoudergezin;4.1;25.5;17.4
+340;Leiden (GA);Totaal particulier huishouden;104.5;32.3;22.7
+341;Leiden (GA);Eenpersoonshuishouden;38.0;19.7;19.7
+342;Leiden (GA);Paar zonder kinderen;29.2;36.1;26.3
+343;Leiden (GA);Paar met kinderen;29.3;45.0;23.9
+344;Leiden (GA);Eenoudergezin;4.9;26.5;18.0
+345;'s-Gravenhage (GA);Totaal particulier huishouden;290.8;29.3;21.7
+346;'s-Gravenhage (GA);Eenpersoonshuishouden;128.0;19.8;19.8
+347;'s-Gravenhage (GA);Paar zonder kinderen;71.6;35.9;26.2
+348;'s-Gravenhage (GA);Paar met kinderen;57.2;42.1;22.7
+349;'s-Gravenhage (GA);Eenoudergezin;20.5;23.1;15.7
+350;Rotterdam (GA);Totaal particulier huishouden;453.1;27.5;19.9
+351;Rotterdam (GA);Eenpersoonshuishouden;179.8;17.7;17.7
+352;Rotterdam (GA);Paar zonder kinderen;119.9;32.4;23.6
+353;Rotterdam (GA);Paar met kinderen;98.2;39.5;21.3
+354;Rotterdam (GA);Eenoudergezin;34.4;21.9;14.9
+355;Dordrecht (GA);Totaal particulier huishouden;102.4;30.2;20.8
+356;Dordrecht (GA);Eenpersoonshuishouden;32.1;17.8;17.8
+357;Dordrecht (GA);Paar zonder kinderen;31.0;32.3;23.6
+358;Dordrecht (GA);Paar met kinderen;29.9;40.9;21.8
+359;Dordrecht (GA);Eenoudergezin;5.4;23.7;16.0
+360;Breda (GA);Totaal particulier huishouden;70.5;30.1;21.4
+361;Breda (GA);Eenpersoonshuishouden;24.8;18.7;18.7
+362;Breda (GA);Paar zonder kinderen;22.1;33.5;24.5
+363;Breda (GA);Paar met kinderen;17.6;41.7;22.3
+364;Breda (GA);Eenoudergezin;3.5;23.3;15.8
+365;Tilburg (GA);Totaal particulier huishouden;91.0;29.0;20.3
+366;Tilburg (GA);Eenpersoonshuishouden;30.4;17.7;17.7
+367;Tilburg (GA);Paar zonder kinderen;28.2;31.7;23.1
+368;Tilburg (GA);Paar met kinderen;24.1;40.2;21.5
+369;Tilburg (GA);Eenoudergezin;4.9;21.8;14.7
+370;'s-Hertogenbosch (GA);Totaal particulier huishouden;67.1;31.0;21.8
+371;'s-Hertogenbosch (GA);Eenpersoonshuishouden;23.1;19.0;19.0
+372;'s-Hertogenbosch (GA);Paar zonder kinderen;19.8;35.0;25.5
+373;'s-Hertogenbosch (GA);Paar met kinderen;18.1;41.7;22.4
+374;'s-Hertogenbosch (GA);Eenoudergezin;3.2;23.6;16.0
+375;Eindhoven (GA);Totaal particulier huishouden;134.4;29.5;21.1
+376;Eindhoven (GA);Eenpersoonshuishouden;48.1;18.6;18.6
+377;Eindhoven (GA);Paar zonder kinderen;42.5;33.3;24.3
+378;Eindhoven (GA);Paar met kinderen;32.7;40.3;21.6
+379;Eindhoven (GA);Eenoudergezin;6.2;23.5;15.9
+380;Geleen/Sittard (GA);Totaal particulier huishouden;60.1;29.5;20.5
+381;Geleen/Sittard (GA);Eenpersoonshuishouden;17.6;17.4;17.4
+382;Geleen/Sittard (GA);Paar zonder kinderen;20.1;31.0;22.7
+383;Geleen/Sittard (GA);Paar met kinderen;17.1;39.7;21.5
+384;Geleen/Sittard (GA);Eenoudergezin;3.1;23.7;16.3
+385;Heerlen (GA);Totaal particulier huishouden;96.0;26.7;19.0
+386;Heerlen (GA);Eenpersoonshuishouden;32.9;16.8;16.8
+387;Heerlen (GA);Paar zonder kinderen;30.5;28.8;21.0
+388;Heerlen (GA);Paar met kinderen;23.8;37.0;20.1
+389;Heerlen (GA);Eenoudergezin;5.5;22.5;15.5
+390;Maastricht (GA);Totaal particulier huishouden;52.4;27.4;19.9
+391;Maastricht (GA);Eenpersoonshuishouden;20.1;17.6;17.6
+392;Maastricht (GA);Paar zonder kinderen;15.5;30.9;22.6
+393;Maastricht (GA);Paar met kinderen;11.8;38.7;21.1
+394;Maastricht (GA);Eenoudergezin;3.0;22.8;15.7
+395;Groningen (SG);Totaal particulier huishouden;142.9;28.0;20.3
+396;Groningen (SG);Eenpersoonshuishouden;55.3;17.8;17.8
+397;Groningen (SG);Paar zonder kinderen;44.2;32.5;23.7
+398;Groningen (SG);Paar met kinderen;33.0;39.2;20.9
+399;Groningen (SG);Eenoudergezin;6.1;21.6;14.8
+400;Leeuwarden (SG);Totaal particulier huishouden;67.0;27.2;19.4
+401;Leeuwarden (SG);Eenpersoonshuishouden;24.0;17.0;17.0
+402;Leeuwarden (SG);Paar zonder kinderen;21.0;30.4;22.2
+403;Leeuwarden (SG);Paar met kinderen;17.0;37.3;19.9
+404;Leeuwarden (SG);Eenoudergezin;2.9;21.5;14.6
+405;Zwolle (SG);Totaal particulier huishouden;67.9;30.2;20.9
+406;Zwolle (SG);Eenpersoonshuishouden;21.8;18.0;18.0
+407;Zwolle (SG);Paar zonder kinderen;21.1;32.7;23.8
+408;Zwolle (SG);Paar met kinderen;20.1;40.4;21.4
+409;Zwolle (SG);Eenoudergezin;2.7;24.2;16.2
+410;Enschede (SG);Totaal particulier huishouden;126.8;27.9;19.5
+411;Enschede (SG);Eenpersoonshuishouden;41.4;17.1;17.1
+412;Enschede (SG);Paar zonder kinderen;39.8;30.3;22.1
+413;Enschede (SG);Paar met kinderen;35.0;37.5;20.1
+414;Enschede (SG);Eenoudergezin;5.6;22.3;15.2
+415;Apeldoorn (SG);Totaal particulier huishouden;86.2;31.0;21.2
+416;Apeldoorn (SG);Eenpersoonshuishouden;25.7;18.3;18.3
+417;Apeldoorn (SG);Paar zonder kinderen;27.4;33.0;24.1
+418;Apeldoorn (SG);Paar met kinderen;25.7;40.5;21.5
+419;Apeldoorn (SG);Eenoudergezin;3.7;25.9;17.3
+420;Arnhem (SG);Totaal particulier huishouden;147.6;29.6;20.8
+421;Arnhem (SG);Eenpersoonshuishouden;49.3;18.1;18.1
+422;Arnhem (SG);Paar zonder kinderen;45.8;32.8;24.0
+423;Arnhem (SG);Paar met kinderen;40.1;39.8;21.3
+424;Arnhem (SG);Eenoudergezin;7.0;23.0;15.5
+425;Nijmegen (SG);Totaal particulier huishouden;114.4;29.1;20.5
+426;Nijmegen (SG);Eenpersoonshuishouden;41.5;17.6;17.6
+427;Nijmegen (SG);Paar zonder kinderen;33.0;32.6;23.8
+428;Nijmegen (SG);Paar met kinderen;30.2;40.6;21.8
+429;Nijmegen (SG);Eenoudergezin;5.8;23.3;15.9
+430;Amersfoort (SG);Totaal particulier huishouden;105.8;33.1;22.6
+431;Amersfoort (SG);Eenpersoonshuishouden;32.5;19.5;19.5
+432;Amersfoort (SG);Paar zonder kinderen;31.3;35.8;26.2
+433;Amersfoort (SG);Paar met kinderen;33.6;43.6;23.1
+434;Amersfoort (SG);Eenoudergezin;4.8;25.7;17.4
+435;Utrecht (SG);Totaal particulier huishouden;237.7;31.6;22.6
+436;Utrecht (SG);Eenpersoonshuishouden;92.1;19.6;19.6
+437;Utrecht (SG);Paar zonder kinderen;66.0;36.7;26.8
+438;Utrecht (SG);Paar met kinderen;58.6;44.0;23.5
+439;Utrecht (SG);Eenoudergezin;11.2;24.8;16.8
+440;Amsterdam (SG);Totaal particulier huishouden;655.9;29.1;21.4
+441;Amsterdam (SG);Eenpersoonshuishouden;282.6;19.2;19.2
+442;Amsterdam (SG);Paar zonder kinderen;158.0;35.6;26.0
+443;Amsterdam (SG);Paar met kinderen;138.1;41.8;22.5
+444;Amsterdam (SG);Eenoudergezin;48.0;23.1;15.7
+445;Haarlem (SG);Totaal particulier huishouden;176.0;32.0;22.7
+446;Haarlem (SG);Eenpersoonshuishouden;63.3;19.6;19.6
+447;Haarlem (SG);Paar zonder kinderen;52.3;35.9;26.2
+448;Haarlem (SG);Paar met kinderen;45.7;44.4;23.7
+449;Haarlem (SG);Eenoudergezin;8.4;24.9;16.9
+450;Leiden (SG);Totaal particulier huishouden;134.3;32.9;22.9
+451;Leiden (SG);Eenpersoonshuishouden;46.2;19.8;19.8
+452;Leiden (SG);Paar zonder kinderen;38.1;36.0;26.3
+453;Leiden (SG);Paar met kinderen;39.7;45.2;24.0
+454;Leiden (SG);Eenoudergezin;6.2;26.8;18.1
+455;'s-Gravenhage (SG);Totaal particulier huishouden;394.7;30.0;21.9
+456;'s-Gravenhage (SG);Eenpersoonshuishouden;162.4;19.7;19.7
+457;'s-Gravenhage (SG);Paar zonder kinderen;101.3;35.7;26.1
+458;'s-Gravenhage (SG);Paar met kinderen;87.3;42.6;22.9
+459;'s-Gravenhage (SG);Eenoudergezin;26.6;23.5;16.0
+460;Rotterdam (SG);Totaal particulier huishouden;527.5;28.4;20.3
+461;Rotterdam (SG);Eenpersoonshuishouden;198.7;17.8;17.8
+462;Rotterdam (SG);Paar zonder kinderen;145.3;32.7;23.9
+463;Rotterdam (SG);Paar met kinderen;122.6;40.3;21.6
+464;Rotterdam (SG);Eenoudergezin;37.6;22.3;15.1
+465;Dordrecht (SG);Totaal particulier huishouden;117.9;30.5;20.9
+466;Dordrecht (SG);Eenpersoonshuishouden;35.8;17.8;17.8
+467;Dordrecht (SG);Paar zonder kinderen;36.1;32.4;23.6
+468;Dordrecht (SG);Paar met kinderen;35.5;41.0;21.9
+469;Dordrecht (SG);Eenoudergezin;6.0;24.0;16.3
+470;Breda (SG);Totaal particulier huishouden;126.0;30.9;21.4
+471;Breda (SG);Eenpersoonshuishouden;38.5;18.4;18.4
+472;Breda (SG);Paar zonder kinderen;41.2;32.9;24.0
+473;Breda (SG);Paar met kinderen;36.1;41.5;22.3
+474;Breda (SG);Eenoudergezin;5.6;24.3;16.5
+475;Tilburg (SG);Totaal particulier huishouden;116.1;29.9;20.7
+476;Tilburg (SG);Eenpersoonshuishouden;36.3;17.9;17.9
+477;Tilburg (SG);Paar zonder kinderen;36.4;31.9;23.3
+478;Tilburg (SG);Paar met kinderen;33.4;40.9;21.8
+479;Tilburg (SG);Eenoudergezin;5.8;22.6;15.2
+480;'s-Hertogenbosch (SG);Totaal particulier huishouden;77.6;31.4;21.9
+481;'s-Hertogenbosch (SG);Eenpersoonshuishouden;25.5;19.0;19.0
+482;'s-Hertogenbosch (SG);Paar zonder kinderen;23.2;34.7;25.3
+483;'s-Hertogenbosch (SG);Paar met kinderen;22.0;41.9;22.4
+484;'s-Hertogenbosch (SG);Eenoudergezin;3.6;24.0;16.3
+485;Eindhoven (SG);Totaal particulier huishouden;167.5;30.2;21.4
+486;Eindhoven (SG);Eenpersoonshuishouden;56.1;18.7;18.7
+487;Eindhoven (SG);Paar zonder kinderen;54.1;33.5;24.5
+488;Eindhoven (SG);Paar met kinderen;43.9;40.8;21.8
+489;Eindhoven (SG);Eenoudergezin;7.5;24.0;16.3
+490;Geleen/Sittard (SG);Totaal particulier huishouden;65.5;29.8;20.5
+491;Geleen/Sittard (SG);Eenpersoonshuishouden;18.7;17.4;17.4
+492;Geleen/Sittard (SG);Paar zonder kinderen;22.0;31.2;22.8
+493;Geleen/Sittard (SG);Paar met kinderen;19.0;39.8;21.5
+494;Geleen/Sittard (SG);Eenoudergezin;3.3;23.9;16.4
+495;Heerlen (SG);Totaal particulier huishouden;115.9;27.5;19.4
+496;Heerlen (SG);Eenpersoonshuishouden;37.5;16.9;16.9
+497;Heerlen (SG);Paar zonder kinderen;37.6;29.3;21.4
+498;Heerlen (SG);Paar met kinderen;30.4;37.7;20.5
+499;Heerlen (SG);Eenoudergezin;6.4;23.0;15.9
+500;Maastricht (SG);Totaal particulier huishouden;77.7;28.9;20.4
+501;Maastricht (SG);Eenpersoonshuishouden;26.3;17.6;17.6
+502;Maastricht (SG);Paar zonder kinderen;24.1;31.2;22.8
+503;Maastricht (SG);Paar met kinderen;20.4;40.2;21.8
+504;Maastricht (SG);Eenoudergezin;4.1;23.6;16.2
+505;Appingedam;Totaal particulier huishouden;5.6;26.6;19.0
+506;Appingedam;Eenpersoonshuishouden;1.8;16.8;16.8
+507;Appingedam;Paar zonder kinderen;2.1;29.2;21.3
+508;Appingedam;Paar met kinderen;1.3;35.7;19.3
+509;Appingedam;Eenoudergezin;0.2;20.1;13.8
+510;Bedum;Totaal particulier huishouden;4.1;30.0;20.0
+511;Bedum;Eenpersoonshuishouden;1.0;17.9;17.9
+512;Bedum;Paar zonder kinderen;1.3;28.9;21.1
+513;Bedum;Paar met kinderen;1.5;39.2;20.7
+514;Bedum;Eenoudergezin;0.1;24.9;16.7
+515;Bellingwedde;Totaal particulier huishouden;4.1;26.8;18.3
+516;Bellingwedde;Eenpersoonshuishouden;1.0;14.9;14.9
+517;Bellingwedde;Paar zonder kinderen;1.6;27.2;19.9
+518;Bellingwedde;Paar met kinderen;1.1;35.7;19.3
+519;Bellingwedde;Eenoudergezin;0.2;22.8;15.6
+520;Ten Boer;Totaal particulier huishouden;2.7;30.1;20.0
+521;Ten Boer;Eenpersoonshuishouden;0.6;17.6;17.6
+522;Ten Boer;Paar zonder kinderen;0.8;31.6;23.0
+523;Ten Boer;Paar met kinderen;1.1;37.5;19.9
+524;Ten Boer;Eenoudergezin;0.1;20.4;14.4
+525;Delfzijl;Totaal particulier huishouden;12.2;27.0;18.9
+526;Delfzijl;Eenpersoonshuishouden;3.7;16.7;16.7
+527;Delfzijl;Paar zonder kinderen;4.1;28.9;21.1
+528;Delfzijl;Paar met kinderen;3.3;35.6;19.1
+529;Delfzijl;Eenoudergezin;0.6;21.0;14.2
+530;Groningen (gemeente);Totaal particulier huishouden;78.5;25.0;19.3
+531;Groningen (gemeente);Eenpersoonshuishouden;38.6;17.4;17.4
+532;Groningen (gemeente);Paar zonder kinderen;21.3;31.6;23.0
+533;Groningen (gemeente);Paar met kinderen;12.3;37.8;20.4
+534;Groningen (gemeente);Eenoudergezin;4.0;19.9;13.8
+535;Grootegast;Totaal particulier huishouden;4.5;28.6;18.6
+536;Grootegast;Eenpersoonshuishouden;1.0;15.6;15.6
+537;Grootegast;Paar zonder kinderen;1.5;28.4;20.7
+538;Grootegast;Paar met kinderen;1.7;36.0;18.8
+539;Grootegast;Eenoudergezin;0.2;22.2;14.6
+540;Haren;Totaal particulier huishouden;8.1;36.3;26.0
+541;Haren;Eenpersoonshuishouden;2.6;23.6;23.6
+542;Haren;Paar zonder kinderen;2.9;41.5;30.3
+543;Haren;Paar met kinderen;2.1;45.3;24.2
+544;Haren;Eenoudergezin;0.3;26.3;18.2
+545;Hoogezand-Sappemeer;Totaal particulier huishouden;14.2;26.5;18.6
+546;Hoogezand-Sappemeer;Eenpersoonshuishouden;4.4;16.2;16.2
+547;Hoogezand-Sappemeer;Paar zonder kinderen;5.0;28.5;20.8
+548;Hoogezand-Sappemeer;Paar met kinderen;3.7;35.4;19.0
+549;Hoogezand-Sappemeer;Eenoudergezin;0.6;21.6;14.7
+550;Leek;Totaal particulier huishouden;7.4;30.1;20.0
+551;Leek;Eenpersoonshuishouden;1.8;16.8;16.8
+552;Leek;Paar zonder kinderen;2.6;30.2;22.0
+553;Leek;Paar met kinderen;2.5;39.2;20.7
+554;Leek;Eenoudergezin;0.3;24.4;16.2
+555;Loppersum;Totaal particulier huishouden;4.4;28.5;19.4
+556;Loppersum;Eenpersoonshuishouden;1.2;16.9;16.9
+557;Loppersum;Paar zonder kinderen;1.4;29.5;21.6
+558;Loppersum;Paar met kinderen;1.5;37.0;19.5
+559;Loppersum;Eenoudergezin;0.2;25.0;16.7
+560;Marum;Totaal particulier huishouden;3.9;29.9;19.8
+561;Marum;Eenpersoonshuishouden;0.9;18.0;18.0
+562;Marum;Paar zonder kinderen;1.3;29.2;21.3
+563;Marum;Paar met kinderen;1.4;38.0;20.0
+564;Marum;Eenoudergezin;0.1;24.4;16.1
+565;Almere;Totaal particulier huishouden;64.2;31.4;21.1
+566;Almere;Eenpersoonshuishouden;16.9;18.6;18.6
+567;Almere;Paar zonder kinderen;17.0;34.3;25.0
+568;Almere;Paar met kinderen;22.3;39.7;21.4
+569;Almere;Eenoudergezin;4.6;21.4;14.5
+570;Stadskanaal;Totaal particulier huishouden;14.3;26.1;18.0
+571;Stadskanaal;Eenpersoonshuishouden;4.2;15.7;15.7
+572;Stadskanaal;Paar zonder kinderen;5.0;26.4;19.3
+573;Stadskanaal;Paar met kinderen;4.1;36.0;19.3
+574;Stadskanaal;Eenoudergezin;0.6;20.7;14.0
+575;Scheemda;Totaal particulier huishouden;5.9;27.8;18.9
+576;Scheemda;Eenpersoonshuishouden;1.5;16.2;16.2
+577;Scheemda;Paar zonder kinderen;2.0;27.8;20.3
+578;Scheemda;Paar met kinderen;2.0;36.2;19.6
+579;Scheemda;Eenoudergezin;0.2;24.1;15.9
+580;Slochteren;Totaal particulier huishouden;5.9;30.7;20.4
+581;Slochteren;Eenpersoonshuishouden;1.4;17.0;17.0
+582;Slochteren;Paar zonder kinderen;2.0;30.1;22.0
+583;Slochteren;Paar met kinderen;2.0;39.7;21.2
+584;Slochteren;Eenoudergezin;0.2;19.4;13.2
+585;Veendam;Totaal particulier huishouden;11.9;27.5;19.0
+586;Veendam;Eenpersoonshuishouden;3.3;16.3;16.3
+587;Veendam;Paar zonder kinderen;4.1;28.7;21.0
+588;Veendam;Paar met kinderen;3.3;36.5;19.7
+589;Veendam;Eenoudergezin;0.7;22.1;15.3
+590;Vlagtwedde;Totaal particulier huishouden;7.0;25.9;17.8
+591;Vlagtwedde;Eenpersoonshuishouden;1.9;15.3;15.3
+592;Vlagtwedde;Paar zonder kinderen;2.6;26.5;19.3
+593;Vlagtwedde;Paar met kinderen;2.1;34.0;18.3
+594;Vlagtwedde;Eenoudergezin;0.2;21.9;15.1
+595;Zeewolde;Totaal particulier huishouden;6.9;33.0;21.4
+596;Zeewolde;Eenpersoonshuishouden;1.4;19.8;19.8
+597;Zeewolde;Paar zonder kinderen;2.1;32.7;23.9
+598;Zeewolde;Paar met kinderen;2.9;40.1;21.1
+599;Zeewolde;Eenoudergezin;0.2;21.1;14.2
+600;SkarsterlÔn;Totaal particulier huishouden;10.7;29.8;20.1
+601;SkarsterlÔn;Eenpersoonshuishouden;2.7;17.6;17.6
+602;SkarsterlÔn;Paar zonder kinderen;3.7;30.2;22.1
+603;SkarsterlÔn;Paar met kinderen;3.5;37.7;19.9
+604;SkarsterlÔn;Eenoudergezin;0.4;25.9;17.3
+605;Winschoten;Totaal particulier huishouden;8.6;24.9;18.0
+606;Winschoten;Eenpersoonshuishouden;3.3;15.3;15.3
+607;Winschoten;Paar zonder kinderen;2.8;27.8;20.3
+608;Winschoten;Paar met kinderen;1.8;36.6;19.7
+609;Winschoten;Eenoudergezin;0.4;20.7;14.2
+610;Winsum;Totaal particulier huishouden;5.5;30.0;20.3
+611;Winsum;Eenpersoonshuishouden;1.4;17.4;17.4
+612;Winsum;Paar zonder kinderen;1.9;32.0;23.3
+613;Winsum;Paar met kinderen;1.9;37.9;20.1
+614;Winsum;Eenoudergezin;0.2;23.1;15.6
+615;Boarnsterhim;Totaal particulier huishouden;7.8;29.1;20.0
+616;Boarnsterhim;Eenpersoonshuishouden;2.2;17.1;17.1
+617;Boarnsterhim;Paar zonder kinderen;2.8;30.8;22.5
+618;Boarnsterhim;Paar met kinderen;2.4;38.3;20.5
+619;Boarnsterhim;Eenoudergezin;0.2;19.7;13.3
+620;Zuidhorn;Totaal particulier huishouden;6.8;30.6;20.5
+621;Zuidhorn;Eenpersoonshuishouden;1.7;17.9;17.9
+622;Zuidhorn;Paar zonder kinderen;2.3;32.5;23.7
+623;Zuidhorn;Paar met kinderen;2.5;37.9;19.8
+624;Zuidhorn;Eenoudergezin;0.2;25.4;17.1
+625;Dongeradeel;Totaal particulier huishouden;9.8;27.0;18.3
+626;Dongeradeel;Eenpersoonshuishouden;2.8;16.3;16.3
+627;Dongeradeel;Paar zonder kinderen;3.1;27.2;19.9
+628;Dongeradeel;Paar met kinderen;3.3;34.8;18.3
+629;Dongeradeel;Eenoudergezin;0.4;24.2;16.4
+630;Achtkarspelen;Totaal particulier huishouden;11.0;27.5;18.2
+631;Achtkarspelen;Eenpersoonshuishouden;2.8;15.3;15.3
+632;Achtkarspelen;Paar zonder kinderen;3.5;27.0;19.7
+633;Achtkarspelen;Paar met kinderen;3.9;36.0;19.0
+634;Achtkarspelen;Eenoudergezin;0.5;24.5;16.3
+635;Ameland;Totaal particulier huishouden;1.5;28.6;19.6
+636;Ameland;Eenpersoonshuishouden;0.5;18.0;18.0
+637;Ameland;Paar zonder kinderen;0.4;28.6;20.9
+638;Ameland;Paar met kinderen;0.4;38.9;20.3
+639;Ameland;Eenoudergezin;;;
+640;het Bildt;Totaal particulier huishouden;4.3;26.9;18.4
+641;het Bildt;Eenpersoonshuishouden;1.2;15.5;15.5
+642;het Bildt;Paar zonder kinderen;1.5;28.2;20.6
+643;het Bildt;Paar met kinderen;1.4;35.0;18.4
+644;het Bildt;Eenoudergezin;0.1;23.0;15.4
+645;Bolsward;Totaal particulier huishouden;4.0;26.9;19.0
+646;Bolsward;Eenpersoonshuishouden;1.3;16.7;16.7
+647;Bolsward;Paar zonder kinderen;1.3;29.6;21.6
+648;Bolsward;Paar met kinderen;1.1;36.3;19.2
+649;Bolsward;Eenoudergezin;0.2;24.3;16.2
+650;Dantumadeel;Totaal particulier huishouden;7.4;27.7;18.2
+651;Dantumadeel;Eenpersoonshuishouden;1.8;15.5;15.5
+652;Dantumadeel;Paar zonder kinderen;2.3;26.8;19.6
+653;Dantumadeel;Paar met kinderen;2.8;35.7;18.7
+654;Dantumadeel;Eenoudergezin;0.3;25.6;17.0
+655;Franekeradeel;Totaal particulier huishouden;8.7;27.0;18.7
+656;Franekeradeel;Eenpersoonshuishouden;2.9;16.1;16.1
+657;Franekeradeel;Paar zonder kinderen;2.7;28.9;21.1
+658;Franekeradeel;Paar met kinderen;2.6;36.3;19.2
+659;Franekeradeel;Eenoudergezin;0.3;24.5;16.5
+660;Harlingen;Totaal particulier huishouden;6.6;27.2;19.2
+661;Harlingen;Eenpersoonshuishouden;2.2;16.2;16.2
+662;Harlingen;Paar zonder kinderen;2.2;30.2;22.1
+663;Harlingen;Paar met kinderen;1.7;36.9;19.7
+664;Harlingen;Eenoudergezin;0.3;21.0;14.1
+665;Heerenveen;Totaal particulier huishouden;18.2;28.3;19.9
+666;Heerenveen;Eenpersoonshuishouden;6.0;17.2;17.2
+667;Heerenveen;Paar zonder kinderen;6.1;30.9;22.6
+668;Heerenveen;Paar met kinderen;4.9;38.2;20.3
+669;Heerenveen;Eenoudergezin;0.7;23.1;15.6
+670;Kollumerland en Nieuwkruisland;Totaal particulier huishouden;5.1;28.1;18.8
+671;Kollumerland en Nieuwkruisland;Eenpersoonshuishouden;1.3;16.5;16.5
+672;Kollumerland en Nieuwkruisland;Paar zonder kinderen;1.7;28.9;21.1
+673;Kollumerland en Nieuwkruisland;Paar met kinderen;1.8;34.7;18.2
+674;Kollumerland en Nieuwkruisland;Eenoudergezin;0.2;26.6;17.9
+675;Leeuwarden;Totaal particulier huishouden;40.7;25.5;18.9
+676;Leeuwarden;Eenpersoonshuishouden;17.6;16.9;16.9
+677;Leeuwarden;Paar zonder kinderen;11.8;30.5;22.2
+678;Leeuwarden;Paar met kinderen;8.0;36.8;19.7
+679;Leeuwarden;Eenoudergezin;2.0;20.7;14.1
+680;Leeuwarderadeel;Totaal particulier huishouden;4.0;31.2;20.8
+681;Leeuwarderadeel;Eenpersoonshuishouden;0.8;20.0;20.0
+682;Leeuwarderadeel;Paar zonder kinderen;1.4;30.7;22.4
+683;Leeuwarderadeel;Paar met kinderen;1.5;38.1;20.2
+684;Leeuwarderadeel;Eenoudergezin;0.2;24.6;16.9
+685;Lemsterland;Totaal particulier huishouden;5.4;29.1;19.9
+686;Lemsterland;Eenpersoonshuishouden;1.4;16.6;16.6
+687;Lemsterland;Paar zonder kinderen;1.9;31.0;22.7
+688;Lemsterland;Paar met kinderen;1.6;37.5;19.8
+689;Lemsterland;Eenoudergezin;0.2;24.9;16.8
+690;Menaldumadeel;Totaal particulier huishouden;5.6;30.0;20.1
+691;Menaldumadeel;Eenpersoonshuishouden;1.4;16.9;16.9
+692;Menaldumadeel;Paar zonder kinderen;1.9;30.6;22.4
+693;Menaldumadeel;Paar met kinderen;2.0;38.3;20.4
+694;Menaldumadeel;Eenoudergezin;0.1;23.4;15.7
+695;Ooststellingwerf;Totaal particulier huishouden;10.8;27.7;18.9
+696;Ooststellingwerf;Eenpersoonshuishouden;2.9;16.1;16.1
+697;Ooststellingwerf;Paar zonder kinderen;3.8;28.9;21.1
+698;Ooststellingwerf;Paar met kinderen;3.3;36.0;19.2
+699;Ooststellingwerf;Eenoudergezin;0.4;20.5;13.8
+700;Opsterland;Totaal particulier huishouden;11.5;28.9;19.6
+701;Opsterland;Eenpersoonshuishouden;3.1;17.4;17.4
+702;Opsterland;Paar zonder kinderen;3.9;30.0;21.9
+703;Opsterland;Paar met kinderen;3.8;36.9;19.5
+704;Opsterland;Eenoudergezin;0.3;23.8;15.9
+705;Schiermonnikoog;Totaal particulier huishouden;0.5;28.6;22.3
+706;Schiermonnikoog;Eenpersoonshuishouden;0.2;24.3;24.3
+707;Schiermonnikoog;Paar zonder kinderen;0.1;30.6;22.4
+708;Schiermonnikoog;Paar met kinderen;0.1;36.2;19.4
+709;Schiermonnikoog;Eenoudergezin;;;
+710;Smallingerland;Totaal particulier huishouden;22.3;27.8;19.2
+711;Smallingerland;Eenpersoonshuishouden;6.9;16.6;16.6
+712;Smallingerland;Paar zonder kinderen;7.3;29.7;21.7
+713;Smallingerland;Paar met kinderen;6.4;37.3;19.7
+714;Smallingerland;Eenoudergezin;1.0;22.6;15.3
+715;Sneek;Totaal particulier huishouden;14.2;26.9;19.1
+716;Sneek;Eenpersoonshuishouden;4.8;16.8;16.8
+717;Sneek;Paar zonder kinderen;4.7;30.3;22.1
+718;Sneek;Paar met kinderen;3.7;36.4;19.4
+719;Sneek;Eenoudergezin;0.6;20.1;13.6
+720;Terschelling;Totaal particulier huishouden;1.9;30.0;21.1
+721;Terschelling;Eenpersoonshuishouden;0.7;18.7;18.7
+722;Terschelling;Paar zonder kinderen;0.5;32.2;23.5
+723;Terschelling;Paar met kinderen;0.5;39.8;21.4
+724;Terschelling;Eenoudergezin;0.1;27.5;18.8
+725;Vlieland;Totaal particulier huishouden;0.5;28.7;20.6
+726;Vlieland;Eenpersoonshuishouden;0.2;18.6;18.6
+727;Vlieland;Paar zonder kinderen;0.2;30.8;22.5
+728;Vlieland;Paar met kinderen;0.1;41.2;22.0
+729;Vlieland;Eenoudergezin;;;
+730;Weststellingwerf;Totaal particulier huishouden;10.8;27.6;18.9
+731;Weststellingwerf;Eenpersoonshuishouden;3.1;15.9;15.9
+732;Weststellingwerf;Paar zonder kinderen;3.8;29.3;21.4
+733;Weststellingwerf;Paar met kinderen;3.1;36.6;19.4
+734;Weststellingwerf;Eenoudergezin;0.4;22.7;15.1
+735;Nijefurd;Totaal particulier huishouden;4.5;27.3;18.9
+736;Nijefurd;Eenpersoonshuishouden;1.4;15.9;15.9
+737;Nijefurd;Paar zonder kinderen;1.5;29.8;21.7
+738;Nijefurd;Paar met kinderen;1.3;35.4;18.6
+739;Nijefurd;Eenoudergezin;0.2;27.0;18.5
+740;Assen;Totaal particulier huishouden;25.7;28.3;19.9
+741;Assen;Eenpersoonshuishouden;8.4;17.4;17.4
+742;Assen;Paar zonder kinderen;8.1;31.6;23.1
+743;Assen;Paar met kinderen;7.1;38.1;20.4
+744;Assen;Eenoudergezin;1.4;21.7;14.9
+745;Coevorden;Totaal particulier huishouden;14.6;28.3;19.3
+746;Coevorden;Eenpersoonshuishouden;3.7;16.8;16.8
+747;Coevorden;Paar zonder kinderen;5.1;29.5;21.5
+748;Coevorden;Paar met kinderen;4.5;35.6;19.1
+749;Coevorden;Eenoudergezin;0.6;22.8;15.4
+750;Emmen;Totaal particulier huishouden;44.5;27.4;18.8
+751;Emmen;Eenpersoonshuishouden;12.2;16.3;16.3
+752;Emmen;Paar zonder kinderen;15.2;28.2;20.6
+753;Emmen;Paar met kinderen;13.4;35.8;19.2
+754;Emmen;Eenoudergezin;1.9;22.3;15.2
+755;Hoogeveen;Totaal particulier huishouden;21.5;28.3;19.3
+756;Hoogeveen;Eenpersoonshuishouden;6.0;17.2;17.2
+757;Hoogeveen;Paar zonder kinderen;7.0;28.8;21.0
+758;Hoogeveen;Paar met kinderen;6.8;36.9;19.5
+759;Hoogeveen;Eenoudergezin;1.0;23.6;16.0
+760;Meppel;Totaal particulier huishouden;12.7;29.2;20.3
+761;Meppel;Eenpersoonshuishouden;3.9;17.8;17.8
+762;Meppel;Paar zonder kinderen;4.2;31.0;22.7
+763;Meppel;Paar met kinderen;3.6;39.1;20.9
+764;Meppel;Eenoudergezin;0.5;22.8;15.6
+765;Littenseradiel;Totaal particulier huishouden;4.1;30.7;20.5
+766;Littenseradiel;Eenpersoonshuishouden;1.0;17.8;17.8
+767;Littenseradiel;Paar zonder kinderen;1.4;31.2;22.7
+768;Littenseradiel;Paar met kinderen;1.5;38.7;20.4
+769;Littenseradiel;Eenoudergezin;0.1;21.6;14.5
+770;Almelo;Totaal particulier huishouden;29.5;27.5;19.0
+771;Almelo;Eenpersoonshuishouden;9.1;17.0;17.0
+772;Almelo;Paar zonder kinderen;9.2;29.3;21.4
+773;Almelo;Paar met kinderen;8.4;36.3;19.4
+774;Almelo;Eenoudergezin;1.5;21.8;14.5
+775;Bathmen;Totaal particulier huishouden;2.1;35.1;23.6
+776;Bathmen;Eenpersoonshuishouden;0.4;21.5;21.5
+777;Bathmen;Paar zonder kinderen;0.8;35.9;26.2
+778;Bathmen;Paar met kinderen;0.8;42.2;22.5
+779;Bathmen;Eenoudergezin;;;
+780;Borne;Totaal particulier huishouden;7.9;32.5;21.6
+781;Borne;Eenpersoonshuishouden;1.8;18.3;18.3
+782;Borne;Paar zonder kinderen;2.6;33.6;24.5
+783;Borne;Paar met kinderen;2.9;40.4;21.6
+784;Borne;Eenoudergezin;0.3;24.0;16.5
+785;Dalfsen;Totaal particulier huishouden;9.5;32.8;21.2
+786;Dalfsen;Eenpersoonshuishouden;2.0;18.4;18.4
+787;Dalfsen;Paar zonder kinderen;3.0;30.7;22.4
+788;Dalfsen;Paar met kinderen;3.8;40.8;21.4
+789;Dalfsen;Eenoudergezin;0.3;32.5;21.6
+790;Deventer;Totaal particulier huishouden;36.5;28.1;19.8
+791;Deventer;Eenpersoonshuishouden;12.5;17.4;17.4
+792;Deventer;Paar zonder kinderen;11.2;31.5;23.0
+793;Deventer;Paar met kinderen;9.5;37.2;20.0
+794;Deventer;Eenoudergezin;1.6;22.2;15.2
+795;Enschede;Totaal particulier huishouden;63.2;26.2;18.7
+796;Enschede;Eenpersoonshuishouden;22.7;16.7;16.7
+797;Enschede;Paar zonder kinderen;19.1;29.0;21.2
+798;Enschede;Paar met kinderen;15.8;35.7;19.2
+799;Enschede;Eenoudergezin;3.1;20.8;14.2
+800;Haaksbergen;Totaal particulier huishouden;9.1;31.8;20.8
+801;Haaksbergen;Eenpersoonshuishouden;2.0;17.0;17.0
+802;Haaksbergen;Paar zonder kinderen;3.2;31.3;22.8
+803;Haaksbergen;Paar met kinderen;3.2;39.3;20.9
+804;Haaksbergen;Eenoudergezin;0.3;29.6;19.5
+805;Hardenberg;Totaal particulier huishouden;20.9;30.4;19.7
+806;Hardenberg;Eenpersoonshuishouden;4.6;17.3;17.3
+807;Hardenberg;Paar zonder kinderen;6.3;28.9;21.1
+808;Hardenberg;Paar met kinderen;8.1;37.5;19.6
+809;Hardenberg;Eenoudergezin;0.8;28.3;19.0
+810;Hellendoorn;Totaal particulier huishouden;13.5;31.2;20.3
+811;Hellendoorn;Eenpersoonshuishouden;3.0;17.5;17.5
+812;Hellendoorn;Paar zonder kinderen;4.3;30.0;21.9
+813;Hellendoorn;Paar met kinderen;5.0;39.4;20.7
+814;Hellendoorn;Eenoudergezin;0.5;26.8;18.2
+815;Hengelo (O.);Totaal particulier huishouden;34.6;28.6;20.1
+816;Hengelo (O.);Eenpersoonshuishouden;11.5;17.6;17.6
+817;Hengelo (O.);Paar zonder kinderen;11.0;31.4;22.9
+818;Hengelo (O.);Paar met kinderen;9.4;38.4;20.5
+819;Hengelo (O.);Eenoudergezin;1.5;23.4;15.9
+820;Kampen;Totaal particulier huishouden;18.7;28.6;19.1
+821;Kampen;Eenpersoonshuishouden;5.3;16.5;16.5
+822;Kampen;Paar zonder kinderen;5.6;29.4;21.5
+823;Kampen;Paar met kinderen;6.6;37.3;19.4
+824;Kampen;Eenoudergezin;0.7;24.1;16.2
+825;Losser;Totaal particulier huishouden;8.3;30.9;20.1
+826;Losser;Eenpersoonshuishouden;1.7;16.3;16.3
+827;Losser;Paar zonder kinderen;2.8;30.3;22.1
+828;Losser;Paar met kinderen;3.0;38.3;20.4
+829;Losser;Eenoudergezin;0.3;24.8;16.6
+830;Noordoostpolder;Totaal particulier huishouden;17.4;29.3;19.7
+831;Noordoostpolder;Eenpersoonshuishouden;4.6;17.3;17.3
+832;Noordoostpolder;Paar zonder kinderen;5.6;30.2;22.0
+833;Noordoostpolder;Paar met kinderen;6.0;37.8;19.9
+834;Noordoostpolder;Eenoudergezin;0.7;21.7;14.7
+835;Oldenzaal;Totaal particulier huishouden;12.7;30.2;20.6
+836;Oldenzaal;Eenpersoonshuishouden;3.5;18.1;18.1
+837;Oldenzaal;Paar zonder kinderen;4.3;31.1;22.7
+838;Oldenzaal;Paar met kinderen;4.0;39.6;21.1
+839;Oldenzaal;Eenoudergezin;0.5;26.1;17.5
+840;Ommen;Totaal particulier huishouden;6.4;31.0;20.5
+841;Ommen;Eenpersoonshuishouden;1.7;17.7;17.7
+842;Ommen;Paar zonder kinderen;1.8;32.6;23.8
+843;Ommen;Paar met kinderen;2.3;38.2;20.0
+844;Ommen;Eenoudergezin;0.2;27.8;18.5
+845;Raalte;Totaal particulier huishouden;13.8;30.7;20.2
+846;Raalte;Eenpersoonshuishouden;3.2;17.1;17.1
+847;Raalte;Paar zonder kinderen;4.3;30.9;22.5
+848;Raalte;Paar met kinderen;5.1;38.7;20.4
+849;Raalte;Eenoudergezin;0.5;25.7;16.9
+850;Rijssen;Totaal particulier huishouden;12.5;32.6;20.7
+851;Rijssen;Eenpersoonshuishouden;2.7;18.5;18.5
+852;Rijssen;Paar zonder kinderen;3.7;30.6;22.3
+853;Rijssen;Paar met kinderen;5.1;40.0;20.5
+854;Rijssen;Eenoudergezin;0.5;31.8;20.4
+855;Staphorst;Totaal particulier huishouden;4.8;33.8;20.4
+856;Staphorst;Eenpersoonshuishouden;0.9;16.8;16.8
+857;Staphorst;Paar zonder kinderen;1.2;31.7;23.1
+858;Staphorst;Paar met kinderen;2.4;40.0;19.8
+859;Staphorst;Eenoudergezin;0.2;32.1;21.0
+860;Tubbergen;Totaal particulier huishouden;6.7;34.2;20.9
+861;Tubbergen;Eenpersoonshuishouden;1.2;17.6;17.6
+862;Tubbergen;Paar zonder kinderen;1.7;30.2;22.1
+863;Tubbergen;Paar met kinderen;2.9;40.5;21.1
+864;Tubbergen;Eenoudergezin;0.3;33.4;21.9
+865;Urk;Totaal particulier huishouden;4.5;33.0;18.6
+866;Urk;Eenpersoonshuishouden;0.8;16.2;16.2
+867;Urk;Paar zonder kinderen;0.7;26.6;19.4
+868;Urk;Paar met kinderen;2.7;39.1;18.8
+869;Urk;Eenoudergezin;0.2;29.6;18.9
+870;Wierden;Totaal particulier huishouden;8.3;34.0;21.8
+871;Wierden;Eenpersoonshuishouden;1.6;21.7;21.7
+872;Wierden;Paar zonder kinderen;2.5;29.9;21.8
+873;Wierden;Paar met kinderen;3.4;41.3;21.6
+874;Wierden;Eenoudergezin;0.3;31.3;20.6
+875;Zwolle;Totaal particulier huishouden;46.9;29.1;20.7
+876;Zwolle;Eenpersoonshuishouden;17.0;18.0;18.0
+877;Zwolle;Paar zonder kinderen;14.1;33.2;24.2
+878;Zwolle;Paar met kinderen;12.1;40.2;21.4
+879;Zwolle;Eenoudergezin;2.1;21.9;14.8
+880;Rijnwaarden;Totaal particulier huishouden;4.3;29.6;19.5
+881;Rijnwaarden;Eenpersoonshuishouden;0.9;16.3;16.3
+882;Rijnwaarden;Paar zonder kinderen;1.5;28.6;20.8
+883;Rijnwaarden;Paar met kinderen;1.6;36.7;19.7
+884;Rijnwaarden;Eenoudergezin;0.2;27.6;18.6
+885;Aalten;Totaal particulier huishouden;7.1;29.9;19.9
+886;Aalten;Eenpersoonshuishouden;1.9;17.7;17.7
+887;Aalten;Paar zonder kinderen;2.2;28.8;21.0
+888;Aalten;Paar met kinderen;2.4;38.8;20.4
+889;Aalten;Eenoudergezin;0.2;29.5;19.6
+890;Angerlo;Totaal particulier huishouden;1.9;32.3;21.0
+891;Angerlo;Eenpersoonshuishouden;0.4;17.0;17.0
+892;Angerlo;Paar zonder kinderen;0.6;30.2;22.1
+893;Angerlo;Paar met kinderen;0.7;41.0;22.1
+894;Angerlo;Eenoudergezin;0.1;27.7;18.8
+895;Apeldoorn;Totaal particulier huishouden;64.6;30.7;21.3
+896;Apeldoorn;Eenpersoonshuishouden;20.5;18.5;18.5
+897;Apeldoorn;Paar zonder kinderen;20.3;33.3;24.3
+898;Apeldoorn;Paar met kinderen;18.3;40.7;21.7
+899;Apeldoorn;Eenoudergezin;3.0;24.8;16.7
+900;Arnhem;Totaal particulier huishouden;64.3;26.6;19.6
+901;Arnhem;Eenpersoonshuishouden;27.2;17.4;17.4
+902;Arnhem;Paar zonder kinderen;17.8;32.2;23.5
+903;Arnhem;Paar met kinderen;13.0;38.0;20.5
+904;Arnhem;Eenoudergezin;3.6;20.8;14.1
+905;Barneveld;Totaal particulier huishouden;16.5;33.8;21.2
+906;Barneveld;Eenpersoonshuishouden;3.5;18.4;18.4
+907;Barneveld;Paar zonder kinderen;4.7;31.8;23.2
+908;Barneveld;Paar met kinderen;6.8;41.8;21.2
+909;Barneveld;Eenoudergezin;0.7;28.6;19.0
+910;Bergh;Totaal particulier huishouden;7.2;30.4;20.2
+911;Bergh;Eenpersoonshuishouden;1.6;17.4;17.4
+912;Bergh;Paar zonder kinderen;2.5;29.7;21.7
+913;Bergh;Paar met kinderen;2.4;37.1;20.0
+914;Bergh;Eenoudergezin;0.3;26.6;18.5
+915;Beuningen;Totaal particulier huishouden;9.5;33.4;21.8
+916;Beuningen;Eenpersoonshuishouden;2.1;18.3;18.3
+917;Beuningen;Paar zonder kinderen;3.0;33.2;24.3
+918;Beuningen;Paar met kinderen;3.7;41.9;22.3
+919;Beuningen;Eenoudergezin;0.3;23.1;15.4
+920;Borculo;Totaal particulier huishouden;4.0;29.5;19.8
+921;Borculo;Eenpersoonshuishouden;0.9;16.8;16.8
+922;Borculo;Paar zonder kinderen;1.5;30.7;22.4
+923;Borculo;Paar met kinderen;1.3;36.4;19.4
+924;Borculo;Eenoudergezin;0.1;23.2;15.9
+925;Brummen;Totaal particulier huishouden;8.4;32.7;21.8
+926;Brummen;Eenpersoonshuishouden;1.9;17.3;17.3
+927;Brummen;Paar zonder kinderen;3.0;34.5;25.2
+928;Brummen;Paar met kinderen;2.7;40.3;21.5
+929;Brummen;Eenoudergezin;0.3;27.1;18.1
+930;Buren;Totaal particulier huishouden;9.7;34.0;22.1
+931;Buren;Eenpersoonshuishouden;2.2;17.9;17.9
+932;Buren;Paar zonder kinderen;3.1;33.2;24.2
+933;Buren;Paar met kinderen;3.7;42.3;22.6
+934;Buren;Eenoudergezin;0.3;28.2;18.9
+935;Culemborg;Totaal particulier huishouden;10.3;33.1;22.0
+936;Culemborg;Eenpersoonshuishouden;2.8;18.2;18.2
+937;Culemborg;Paar zonder kinderen;3.0;34.3;25.0
+938;Culemborg;Paar met kinderen;3.5;43.1;23.0
+939;Culemborg;Eenoudergezin;0.5;27.4;18.3
+940;Didam;Totaal particulier huishouden;6.3;32.3;20.9
+941;Didam;Eenpersoonshuishouden;1.3;17.4;17.4
+942;Didam;Paar zonder kinderen;2.0;30.4;22.2
+943;Didam;Paar met kinderen;2.3;40.0;21.4
+944;Didam;Eenoudergezin;0.3;27.1;18.4
+945;Dinxperlo;Totaal particulier huishouden;3.4;30.4;20.3
+946;Dinxperlo;Eenpersoonshuishouden;0.8;16.5;16.5
+947;Dinxperlo;Paar zonder kinderen;1.2;30.8;22.5
+948;Dinxperlo;Paar met kinderen;1.2;39.3;21.0
+949;Dinxperlo;Eenoudergezin;0.1;24.1;16.5
+950;Doesburg;Totaal particulier huishouden;4.7;28.8;19.9
+951;Doesburg;Eenpersoonshuishouden;1.3;18.9;18.9
+952;Doesburg;Paar zonder kinderen;1.5;29.0;21.2
+953;Doesburg;Paar met kinderen;1.5;37.1;20.0
+954;Doesburg;Eenoudergezin;0.2;21.9;15.4
+955;Doetinchem;Totaal particulier huishouden;20.3;29.5;20.3
+956;Doetinchem;Eenpersoonshuishouden;6.0;17.5;17.5
+957;Doetinchem;Paar zonder kinderen;6.6;31.5;23.0
+958;Doetinchem;Paar met kinderen;6.0;38.8;20.7
+959;Doetinchem;Eenoudergezin;0.9;23.7;16.1
+960;Druten;Totaal particulier huishouden;6.7;32.1;21.1
+961;Druten;Eenpersoonshuishouden;1.6;17.1;17.1
+962;Druten;Paar zonder kinderen;2.1;32.2;23.5
+963;Druten;Paar met kinderen;2.4;40.4;21.5
+964;Druten;Eenoudergezin;0.3;26.3;17.9
+965;Duiven;Totaal particulier huishouden;9.7;32.4;21.1
+966;Duiven;Eenpersoonshuishouden;2.0;17.7;17.7
+967;Duiven;Paar zonder kinderen;3.2;32.2;23.5
+968;Duiven;Paar met kinderen;3.8;39.3;20.9
+969;Duiven;Eenoudergezin;0.3;25.3;16.3
+970;Ede;Totaal particulier huishouden;39.5;32.4;21.6
+971;Ede;Eenpersoonshuishouden;11.1;18.9;18.9
+972;Ede;Paar zonder kinderen;11.5;33.3;24.3
+973;Ede;Paar met kinderen;13.3;41.7;21.7
+974;Ede;Eenoudergezin;1.7;26.4;17.6
+975;Eibergen;Totaal particulier huishouden;6.2;30.1;19.5
+976;Eibergen;Eenpersoonshuishouden;1.5;15.7;15.7
+977;Eibergen;Paar zonder kinderen;1.9;28.7;20.9
+978;Eibergen;Paar met kinderen;2.2;38.7;20.4
+979;Eibergen;Eenoudergezin;0.2;28.5;19.0
+980;Elburg;Totaal particulier huishouden;7.7;32.1;20.6
+981;Elburg;Eenpersoonshuishouden;1.7;17.4;17.4
+982;Elburg;Paar zonder kinderen;2.3;31.5;23.0
+983;Elburg;Paar met kinderen;3.1;39.2;20.5
+984;Elburg;Eenoudergezin;0.3;26.8;18.3
+985;Epe;Totaal particulier huishouden;12.9;31.7;21.0
+986;Epe;Eenpersoonshuishouden;3.3;17.5;17.5
+987;Epe;Paar zonder kinderen;4.2;32.1;23.4
+988;Epe;Paar met kinderen;4.2;39.5;21.0
+989;Epe;Eenoudergezin;0.5;30.4;20.0
+990;Ermelo;Totaal particulier huishouden;10.6;31.5;21.3
+991;Ermelo;Eenpersoonshuishouden;3.6;17.0;17.0
+992;Ermelo;Paar zonder kinderen;3.0;34.4;25.1
+993;Ermelo;Paar met kinderen;3.3;43.0;22.4
+994;Ermelo;Eenoudergezin;0.4;27.6;18.4
+995;Geldermalsen;Totaal particulier huishouden;9.8;33.6;22.0
+996;Geldermalsen;Eenpersoonshuishouden;2.5;17.3;17.3
+997;Geldermalsen;Paar zonder kinderen;3.0;33.6;24.5
+998;Geldermalsen;Paar met kinderen;3.7;43.2;22.8
+999;Geldermalsen;Eenoudergezin;0.3;30.1;20.5
+1000;Gendringen;Totaal particulier huishouden;8.0;29.5;19.3
+1001;Gendringen;Eenpersoonshuishouden;1.9;16.1;16.1
+1002;Gendringen;Paar zonder kinderen;2.4;28.9;21.1
+1003;Gendringen;Paar met kinderen;3.0;37.0;19.8
+1004;Gendringen;Eenoudergezin;0.3;26.5;17.8
+1005;Gorssel;Totaal particulier huishouden;5.4;34.5;23.8
+1006;Gorssel;Eenpersoonshuishouden;1.3;22.1;22.1
+1007;Gorssel;Paar zonder kinderen;2.1;35.7;26.1
+1008;Gorssel;Paar met kinderen;1.6;42.3;22.8
+1009;Gorssel;Eenoudergezin;0.1;25.8;17.6
+1010;Groenlo;Totaal particulier huishouden;3.9;29.6;20.3
+1011;Groenlo;Eenpersoonshuishouden;1.1;17.8;17.8
+1012;Groenlo;Paar zonder kinderen;1.3;30.6;22.4
+1013;Groenlo;Paar met kinderen;1.2;38.3;20.5
+1014;Groenlo;Eenoudergezin;0.1;25.9;17.6
+1015;Groesbeek;Totaal particulier huishouden;7.2;31.0;20.6
+1016;Groesbeek;Eenpersoonshuishouden;1.8;17.8;17.8
+1017;Groesbeek;Paar zonder kinderen;2.4;29.3;21.4
+1018;Groesbeek;Paar met kinderen;2.4;40.3;21.6
+1019;Groesbeek;Eenoudergezin;0.3;29.2;19.8
+1020;Harderwijk;Totaal particulier huishouden;15.8;31.4;21.0
+1021;Harderwijk;Eenpersoonshuishouden;4.5;18.6;18.6
+1022;Harderwijk;Paar zonder kinderen;4.5;31.9;23.3
+1023;Harderwijk;Paar met kinderen;5.3;40.7;21.5
+1024;Harderwijk;Eenoudergezin;0.9;25.4;16.9
+1025;Hattem;Totaal particulier huishouden;4.6;32.7;21.9
+1026;Hattem;Eenpersoonshuishouden;1.1;18.6;18.6
+1027;Hattem;Paar zonder kinderen;1.6;33.6;24.5
+1028;Hattem;Paar met kinderen;1.6;41.2;21.7
+1029;Hattem;Eenoudergezin;0.1;30.7;20.6
+1030;Heerde;Totaal particulier huishouden;7.0;31.9;21.0
+1031;Heerde;Eenpersoonshuishouden;1.6;17.5;17.5
+1032;Heerde;Paar zonder kinderen;2.3;31.5;23.0
+1033;Heerde;Paar met kinderen;2.6;40.1;21.2
+1034;Heerde;Eenoudergezin;0.2;29.9;19.7
+1035;Hengelo (Gld.);Totaal particulier huishouden;3.2;31.6;20.7
+1036;Hengelo (Gld.);Eenpersoonshuishouden;0.7;16.9;16.9
+1037;Hengelo (Gld.);Paar zonder kinderen;1.1;30.2;22.0
+1038;Hengelo (Gld.);Paar met kinderen;1.2;40.4;21.5
+1039;Hengelo (Gld.);Eenoudergezin;0.1;27.6;18.1
+1040;Heumen;Totaal particulier huishouden;6.2;34.8;22.9
+1041;Heumen;Eenpersoonshuishouden;1.4;19.4;19.4
+1042;Heumen;Paar zonder kinderen;2.0;34.9;25.5
+1043;Heumen;Paar met kinderen;2.4;43.3;23.1
+1044;Heumen;Eenoudergezin;0.3;27.7;18.8
+1045;Hummelo en Keppel;Totaal particulier huishouden;1.8;33.6;22.9
+1046;Hummelo en Keppel;Eenpersoonshuishouden;0.5;20.2;20.2
+1047;Hummelo en Keppel;Paar zonder kinderen;0.7;34.2;25.0
+1048;Hummelo en Keppel;Paar met kinderen;0.5;41.6;22.4
+1049;Hummelo en Keppel;Eenoudergezin;;;
+1050;Kesteren;Totaal particulier huishouden;7.5;33.3;20.8
+1051;Kesteren;Eenpersoonshuishouden;1.5;16.7;16.7
+1052;Kesteren;Paar zonder kinderen;2.1;31.2;22.8
+1053;Kesteren;Paar met kinderen;3.2;41.5;21.2
+1054;Kesteren;Eenoudergezin;0.3;28.9;19.4
+1055;Lichtenvoorde;Totaal particulier huishouden;7.1;31.8;20.6
+1056;Lichtenvoorde;Eenpersoonshuishouden;1.6;17.3;17.3
+1057;Lichtenvoorde;Paar zonder kinderen;2.3;29.9;21.8
+1058;Lichtenvoorde;Paar met kinderen;2.7;40.6;21.3
+1059;Lichtenvoorde;Eenoudergezin;0.2;27.8;18.6
+1060;Lochem;Totaal particulier huishouden;7.6;32.7;22.0
+1061;Lochem;Eenpersoonshuishouden;2.0;18.5;18.5
+1062;Lochem;Paar zonder kinderen;2.6;33.8;24.7
+1063;Lochem;Paar met kinderen;2.3;41.3;22.0
+1064;Lochem;Eenoudergezin;0.3;29.3;20.1
+1065;Maasdriel;Totaal particulier huishouden;8.7;33.6;21.8
+1066;Maasdriel;Eenpersoonshuishouden;1.9;18.7;18.7
+1067;Maasdriel;Paar zonder kinderen;2.5;31.9;23.3
+1068;Maasdriel;Paar met kinderen;3.4;42.0;22.3
+1069;Maasdriel;Eenoudergezin;0.4;28.7;19.6
+1070;Millingen aan de Rijn;Totaal particulier huishouden;2.3;31.1;20.6
+1071;Millingen aan de Rijn;Eenpersoonshuishouden;0.5;18.0;18.0
+1072;Millingen aan de Rijn;Paar zonder kinderen;0.7;31.5;23.0
+1073;Millingen aan de Rijn;Paar met kinderen;0.9;37.4;20.2
+1074;Millingen aan de Rijn;Eenoudergezin;0.1;24.3;15.9
+1075;Neede;Totaal particulier huishouden;4.4;29.9;19.9
+1076;Neede;Eenpersoonshuishouden;1.1;16.6;16.6
+1077;Neede;Paar zonder kinderen;1.5;29.3;21.4
+1078;Neede;Paar met kinderen;1.4;39.0;20.9
+1079;Neede;Eenoudergezin;0.2;26.3;17.2
+1080;Nijkerk;Totaal particulier huishouden;14.1;33.8;22.1
+1081;Nijkerk;Eenpersoonshuishouden;3.3;18.0;18.0
+1082;Nijkerk;Paar zonder kinderen;4.4;34.4;25.1
+1083;Nijkerk;Paar met kinderen;5.4;42.2;22.2
+1084;Nijkerk;Eenoudergezin;0.6;29.2;19.6
+1085;Nijmegen;Totaal particulier huishouden;69.1;26.8;19.8
+1086;Nijmegen;Eenpersoonshuishouden;30.7;17.4;17.4
+1087;Nijmegen;Paar zonder kinderen;18.3;32.3;23.6
+1088;Nijmegen;Paar met kinderen;13.9;39.5;21.3
+1089;Nijmegen;Eenoudergezin;4.0;22.2;15.2
+1090;Oldebroek;Totaal particulier huishouden;7.5;34.1;20.9
+1091;Oldebroek;Eenpersoonshuishouden;1.3;18.1;18.1
+1092;Oldebroek;Paar zonder kinderen;2.0;30.7;22.4
+1093;Oldebroek;Paar met kinderen;3.4;39.7;20.6
+1094;Oldebroek;Eenoudergezin;0.3;31.6;20.2
+1095;Putten;Totaal particulier huishouden;8.4;33.9;21.8
+1096;Putten;Eenpersoonshuishouden;2.0;18.6;18.6
+1097;Putten;Paar zonder kinderen;2.5;33.4;24.4
+1098;Putten;Paar met kinderen;3.2;42.4;21.9
+1099;Putten;Eenoudergezin;0.3;29.4;19.2
+1100;Renkum;Totaal particulier huishouden;13.8;32.6;23.3
+1101;Renkum;Eenpersoonshuishouden;4.8;21.0;21.0
+1102;Renkum;Paar zonder kinderen;4.6;36.2;26.4
+1103;Renkum;Paar met kinderen;3.4;43.6;23.3
+1104;Renkum;Eenoudergezin;0.6;26.5;18.0
+1105;Rheden;Totaal particulier huishouden;19.3;30.4;21.8
+1106;Rheden;Eenpersoonshuishouden;6.4;19.4;19.4
+1107;Rheden;Paar zonder kinderen;6.8;33.6;24.5
+1108;Rheden;Paar met kinderen;4.8;40.4;21.7
+1109;Rheden;Eenoudergezin;0.7;23.7;16.2
+1110;Rozendaal;Totaal particulier huishouden;0.6;42.8;29.5
+1111;Rozendaal;Eenpersoonshuishouden;0.1;23.7;23.7
+1112;Rozendaal;Paar zonder kinderen;0.3;48.0;35.1
+1113;Rozendaal;Paar met kinderen;0.2;46.1;24.6
+1114;Rozendaal;Eenoudergezin;;;
+1115;Ruurlo;Totaal particulier huishouden;3.3;30.8;20.5
+1116;Ruurlo;Eenpersoonshuishouden;0.7;16.9;16.9
+1117;Ruurlo;Paar zonder kinderen;1.3;30.9;22.5
+1118;Ruurlo;Paar met kinderen;1.2;37.7;20.1
+1119;Ruurlo;Eenoudergezin;0.1;30.0;20.7
+1120;Scherpenzeel;Totaal particulier huishouden;3.3;33.8;22.0
+1121;Scherpenzeel;Eenpersoonshuishouden;0.7;19.9;19.9
+1122;Scherpenzeel;Paar zonder kinderen;1.1;32.8;23.9
+1123;Scherpenzeel;Paar met kinderen;1.3;42.3;21.6
+1124;Scherpenzeel;Eenoudergezin;0.1;29.8;19.3
+1125;Steenderen;Totaal particulier huishouden;1.9;30.3;19.4
+1126;Steenderen;Eenpersoonshuishouden;0.4;12.7;12.7
+1127;Steenderen;Paar zonder kinderen;0.6;29.8;21.7
+1128;Steenderen;Paar met kinderen;0.7;39.6;21.0
+1129;Steenderen;Eenoudergezin;;;
+1130;Tiel;Totaal particulier huishouden;16.2;30.0;20.3
+1131;Tiel;Eenpersoonshuishouden;4.6;17.2;17.2
+1132;Tiel;Paar zonder kinderen;4.8;31.8;23.2
+1133;Tiel;Paar met kinderen;5.3;38.9;20.9
+1134;Tiel;Eenoudergezin;0.8;23.9;16.1
+1135;Ubbergen;Totaal particulier huishouden;3.9;30.9;21.6
+1136;Ubbergen;Eenpersoonshuishouden;1.2;19.1;19.1
+1137;Ubbergen;Paar zonder kinderen;1.3;31.9;23.3
+1138;Ubbergen;Paar met kinderen;1.1;40.4;21.9
+1139;Ubbergen;Eenoudergezin;0.1;29.5;20.5
+1140;Voorst;Totaal particulier huishouden;8.7;32.3;21.1
+1141;Voorst;Eenpersoonshuishouden;2.0;17.1;17.1
+1142;Voorst;Paar zonder kinderen;3.0;31.9;23.3
+1143;Voorst;Paar met kinderen;3.1;41.0;21.6
+1144;Voorst;Eenoudergezin;0.3;28.5;19.3
+1145;Vorden;Totaal particulier huishouden;3.3;31.4;21.0
+1146;Vorden;Eenpersoonshuishouden;0.8;18.6;18.6
+1147;Vorden;Paar zonder kinderen;1.2;31.3;22.8
+1148;Vorden;Paar met kinderen;1.0;38.9;20.7
+1149;Vorden;Eenoudergezin;0.1;25.0;16.2
+1150;Wageningen;Totaal particulier huishouden;13.4;29.2;21.3
+1151;Wageningen;Eenpersoonshuishouden;5.6;18.4;18.4
+1152;Wageningen;Paar zonder kinderen;3.8;34.4;25.1
+1153;Wageningen;Paar met kinderen;2.9;42.6;22.8
+1154;Wageningen;Eenoudergezin;0.6;24.1;16.4
+1155;Warnsveld;Totaal particulier huishouden;3.4;33.4;22.1
+1156;Warnsveld;Eenpersoonshuishouden;0.7;20.0;20.0
+1157;Warnsveld;Paar zonder kinderen;1.2;33.1;24.2
+1158;Warnsveld;Paar met kinderen;1.2;40.5;21.5
+1159;Warnsveld;Eenoudergezin;0.1;23.4;15.7
+1160;Wehl;Totaal particulier huishouden;2.3;31.6;20.0
+1161;Wehl;Eenpersoonshuishouden;0.4;16.7;16.7
+1162;Wehl;Paar zonder kinderen;0.7;28.8;21.0
+1163;Wehl;Paar met kinderen;1.0;37.8;20.2
+1164;Wehl;Eenoudergezin;0.1;30.3;20.2
+1165;Westervoort;Totaal particulier huishouden;6.1;31.3;20.6
+1166;Westervoort;Eenpersoonshuishouden;1.4;18.4;18.4
+1167;Westervoort;Paar zonder kinderen;1.8;31.6;23.1
+1168;Westervoort;Paar met kinderen;2.4;39.0;20.8
+1169;Westervoort;Eenoudergezin;0.4;23.0;15.7
+1170;Winterswijk;Totaal particulier huishouden;11.7;28.6;19.3
+1171;Winterswijk;Eenpersoonshuishouden;3.4;16.4;16.4
+1172;Winterswijk;Paar zonder kinderen;3.9;28.7;21.0
+1173;Winterswijk;Paar met kinderen;3.5;38.5;20.5
+1174;Winterswijk;Eenoudergezin;0.4;25.2;16.9
+1175;Wisch;Totaal particulier huishouden;7.6;30.0;20.0
+1176;Wisch;Eenpersoonshuishouden;1.9;16.5;16.5
+1177;Wisch;Paar zonder kinderen;2.5;30.6;22.4
+1178;Wisch;Paar met kinderen;2.5;37.8;20.2
+1179;Wisch;Eenoudergezin;0.2;28.1;19.0
+1180;Wijchen;Totaal particulier huishouden;15.2;32.1;21.2
+1181;Wijchen;Eenpersoonshuishouden;3.6;17.1;17.1
+1182;Wijchen;Paar zonder kinderen;4.7;32.9;24.0
+1183;Wijchen;Paar met kinderen;5.6;40.8;21.8
+1184;Wijchen;Eenoudergezin;0.7;24.8;16.5
+1185;Zaltbommel;Totaal particulier huishouden;9.5;32.8;21.3
+1186;Zaltbommel;Eenpersoonshuishouden;2.1;17.7;17.7
+1187;Zaltbommel;Paar zonder kinderen;2.9;32.6;23.8
+1188;Zaltbommel;Paar met kinderen;3.7;41.0;21.4
+1189;Zaltbommel;Eenoudergezin;0.4;27.2;18.5
+1190;Zelhem;Totaal particulier huishouden;4.3;30.9;20.3
+1191;Zelhem;Eenpersoonshuishouden;0.9;16.9;16.9
+1192;Zelhem;Paar zonder kinderen;1.5;30.1;22.0
+1193;Zelhem;Paar met kinderen;1.5;38.4;20.6
+1194;Zelhem;Eenoudergezin;0.1;27.7;19.1
+1195;Zevenaar;Totaal particulier huishouden;10.9;30.2;20.8
+1196;Zevenaar;Eenpersoonshuishouden;3.1;18.6;18.6
+1197;Zevenaar;Paar zonder kinderen;3.7;31.2;22.8
+1198;Zevenaar;Paar met kinderen;3.2;40.0;21.4
+1199;Zevenaar;Eenoudergezin;0.6;23.4;16.0
+1200;Zutphen;Totaal particulier huishouden;16.0;27.6;19.6
+1201;Zutphen;Eenpersoonshuishouden;5.7;17.5;17.5
+1202;Zutphen;Paar zonder kinderen;4.6;31.0;22.6
+1203;Zutphen;Paar met kinderen;4.0;37.2;20.0
+1204;Zutphen;Eenoudergezin;0.9;21.4;14.5
+1205;Nunspeet;Totaal particulier huishouden;9.5;32.1;20.8
+1206;Nunspeet;Eenpersoonshuishouden;2.4;18.1;18.1
+1207;Nunspeet;Paar zonder kinderen;2.7;31.7;23.2
+1208;Nunspeet;Paar met kinderen;3.6;40.1;20.6
+1209;Nunspeet;Eenoudergezin;0.4;27.7;18.6
+1210;Dronten;Totaal particulier huishouden;13.7;31.3;20.7
+1211;Dronten;Eenpersoonshuishouden;3.1;18.0;18.0
+1212;Dronten;Paar zonder kinderen;4.6;32.1;23.4
+1213;Dronten;Paar met kinderen;4.9;38.8;20.5
+1214;Dronten;Eenoudergezin;0.6;24.2;16.2
+1215;Neerijnen;Totaal particulier huishouden;4.1;34.1;21.8
+1216;Neerijnen;Eenpersoonshuishouden;0.9;17.2;17.2
+1217;Neerijnen;Paar zonder kinderen;1.3;33.0;24.1
+1218;Neerijnen;Paar met kinderen;1.7;42.1;22.2
+1219;Neerijnen;Eenoudergezin;0.1;31.5;20.9
+1220;Abcoude;Totaal particulier huishouden;3.3;42.8;28.9
+1221;Abcoude;Eenpersoonshuishouden;0.9;25.4;25.4
+1222;Abcoude;Paar zonder kinderen;1.0;47.0;34.3
+1223;Abcoude;Paar met kinderen;1.2;53.2;28.5
+1224;Abcoude;Eenoudergezin;0.2;25.1;17.3
+1225;Amerongen;Totaal particulier huishouden;2.8;34.8;23.6
+1226;Amerongen;Eenpersoonshuishouden;0.7;21.5;21.5
+1227;Amerongen;Paar zonder kinderen;0.9;37.0;27.0
+1228;Amerongen;Paar met kinderen;0.9;42.3;22.2
+1229;Amerongen;Eenoudergezin;0.1;29.7;20.6
+1230;Amersfoort;Totaal particulier huishouden;54.9;31.9;22.3
+1231;Amersfoort;Eenpersoonshuishouden;18.8;19.6;19.6
+1232;Amersfoort;Paar zonder kinderen;15.7;36.0;26.2
+1233;Amersfoort;Paar met kinderen;15.6;42.9;22.9
+1234;Amersfoort;Eenoudergezin;2.7;23.5;16.0
+1235;Baarn;Totaal particulier huishouden;10.4;33.2;23.7
+1236;Baarn;Eenpersoonshuishouden;3.7;21.0;21.0
+1237;Baarn;Paar zonder kinderen;3.2;37.5;27.4
+1238;Baarn;Paar met kinderen;2.8;44.2;23.7
+1239;Baarn;Eenoudergezin;0.5;26.1;17.6
+1240;De Bilt;Totaal particulier huishouden;18.0;36.4;25.6
+1241;De Bilt;Eenpersoonshuishouden;6.3;22.4;22.4
+1242;De Bilt;Paar zonder kinderen;5.6;40.7;29.7
+1243;De Bilt;Paar met kinderen;4.8;49.1;26.0
+1244;De Bilt;Eenoudergezin;0.7;26.0;17.7
+1245;Breukelen;Totaal particulier huishouden;5.7;34.8;23.4
+1246;Breukelen;Eenpersoonshuishouden;1.6;19.5;19.5
+1247;Breukelen;Paar zonder kinderen;1.8;35.3;25.8
+1248;Breukelen;Paar met kinderen;1.8;47.2;24.8
+1249;Breukelen;Eenoudergezin;0.2;28.8;19.4
+1250;Bunnik;Totaal particulier huishouden;5.6;37.1;25.3
+1251;Bunnik;Eenpersoonshuishouden;1.4;22.6;22.6
+1252;Bunnik;Paar zonder kinderen;2.0;38.0;27.7
+1253;Bunnik;Paar met kinderen;1.8;47.3;25.3
+1254;Bunnik;Eenoudergezin;0.2;29.7;20.0
+1255;Bunschoten;Totaal particulier huishouden;6.6;34.5;21.3
+1256;Bunschoten;Eenpersoonshuishouden;1.3;17.0;17.0
+1257;Bunschoten;Paar zonder kinderen;1.7;30.7;22.4
+1258;Bunschoten;Paar met kinderen;3.1;43.3;22.3
+1259;Bunschoten;Eenoudergezin;0.2;32.3;21.0
+1260;Doorn;Totaal particulier huishouden;4.3;35.7;25.6
+1261;Doorn;Eenpersoonshuishouden;1.6;22.6;22.6
+1262;Doorn;Paar zonder kinderen;1.4;40.7;29.7
+1263;Doorn;Paar met kinderen;1.1;47.3;25.4
+1264;Doorn;Eenoudergezin;0.1;27.9;19.1
+1265;Driebergen-Rijsenburg;Totaal particulier huishouden;7.6;36.0;25.0
+1266;Driebergen-Rijsenburg;Eenpersoonshuishouden;2.6;21.3;21.3
+1267;Driebergen-Rijsenburg;Paar zonder kinderen;2.3;39.5;28.8
+1268;Driebergen-Rijsenburg;Paar met kinderen;2.2;49.7;26.3
+1269;Driebergen-Rijsenburg;Eenoudergezin;0.3;28.6;19.4
+1270;Eemnes;Totaal particulier huishouden;3.4;34.9;23.4
+1271;Eemnes;Eenpersoonshuishouden;0.9;21.2;21.2
+1272;Eemnes;Paar zonder kinderen;1.0;36.1;26.3
+1273;Eemnes;Paar met kinderen;1.3;44.2;23.6
+1274;Eemnes;Eenoudergezin;0.2;22.1;14.7
+1275;Houten;Totaal particulier huishouden;15.2;36.0;23.4
+1276;Houten;Eenpersoonshuishouden;3.7;19.0;19.0
+1277;Houten;Paar zonder kinderen;4.2;37.1;27.1
+1278;Houten;Paar met kinderen;6.1;45.3;24.0
+1279;Houten;Eenoudergezin;0.7;27.7;18.4
+1280;Leersum;Totaal particulier huishouden;2.9;35.0;23.6
+1281;Leersum;Eenpersoonshuishouden;0.8;18.6;18.6
+1282;Leersum;Paar zonder kinderen;1.0;37.9;27.6
+1283;Leersum;Paar met kinderen;0.9;45.0;23.7
+1284;Leersum;Eenoudergezin;0.1;30.7;20.7
+1285;Leusden;Totaal particulier huishouden;11.3;36.9;24.8
+1286;Leusden;Eenpersoonshuishouden;2.9;21.3;21.3
+1287;Leusden;Paar zonder kinderen;3.6;38.7;28.3
+1288;Leusden;Paar met kinderen;4.0;46.8;24.9
+1289;Leusden;Eenoudergezin;0.4;27.1;18.2
+1290;Loenen;Totaal particulier huishouden;3.4;37.2;25.3
+1291;Loenen;Eenpersoonshuishouden;1.0;20.2;20.2
+1292;Loenen;Paar zonder kinderen;1.1;39.5;28.8
+1293;Loenen;Paar met kinderen;1.1;49.8;26.6
+1294;Loenen;Eenoudergezin;0.2;31.9;21.5
+1295;Lopik;Totaal particulier huishouden;4.9;35.3;22.4
+1296;Lopik;Eenpersoonshuishouden;1.0;18.1;18.1
+1297;Lopik;Paar zonder kinderen;1.4;34.6;25.3
+1298;Lopik;Paar met kinderen;2.0;43.2;22.4
+1299;Lopik;Eenoudergezin;0.2;35.2;22.7
+1300;Maarn;Totaal particulier huishouden;2.4;39.9;27.7
+1301;Maarn;Eenpersoonshuishouden;0.7;23.7;23.7
+1302;Maarn;Paar zonder kinderen;0.9;44.3;32.4
+1303;Maarn;Paar met kinderen;0.7;49.2;26.3
+1304;Maarn;Eenoudergezin;;;
+1305;Maarssen;Totaal particulier huishouden;15.6;35.5;23.8
+1306;Maarssen;Eenpersoonshuishouden;4.1;19.7;19.7
+1307;Maarssen;Paar zonder kinderen;4.6;37.7;27.5
+1308;Maarssen;Paar met kinderen;5.4;45.9;24.6
+1309;Maarssen;Eenoudergezin;0.9;26.7;18.0
+1310;Montfoort;Totaal particulier huishouden;4.9;36.1;23.7
+1311;Montfoort;Eenpersoonshuishouden;1.1;21.4;21.4
+1312;Montfoort;Paar zonder kinderen;1.6;36.2;26.5
+1313;Montfoort;Paar met kinderen;2.0;44.5;23.3
+1314;Montfoort;Eenoudergezin;0.1;25.2;16.6
+1315;Renswoude;Totaal particulier huishouden;1.5;33.2;21.0
+1316;Renswoude;Eenpersoonshuishouden;0.3;18.3;18.3
+1317;Renswoude;Paar zonder kinderen;0.4;32.2;23.5
+1318;Renswoude;Paar met kinderen;0.6;40.1;20.7
+1319;Renswoude;Eenoudergezin;;;
+1320;Rhenen;Totaal particulier huishouden;6.9;31.9;21.6
+1321;Rhenen;Eenpersoonshuishouden;1.8;19.3;19.3
+1322;Rhenen;Paar zonder kinderen;2.3;32.8;24.0
+1323;Rhenen;Paar met kinderen;2.2;39.9;21.1
+1324;Rhenen;Eenoudergezin;0.3;28.8;19.1
+1325;Soest;Totaal particulier huishouden;18.9;33.3;23.1
+1326;Soest;Eenpersoonshuishouden;6.1;19.7;19.7
+1327;Soest;Paar zonder kinderen;5.8;36.3;26.5
+1328;Soest;Paar met kinderen;5.5;44.6;23.8
+1329;Soest;Eenoudergezin;0.8;27.9;19.0
+1330;Utrecht (gemeente);Totaal particulier huishouden;118.5;28.6;21.4
+1331;Utrecht (gemeente);Eenpersoonshuishouden;55.1;19.1;19.1
+1332;Utrecht (gemeente);Paar zonder kinderen;30.3;35.6;26.0
+1333;Utrecht (gemeente);Paar met kinderen;22.0;41.1;22.1
+1334;Utrecht (gemeente);Eenoudergezin;5.5;23.1;15.7
+1335;Veenendaal;Totaal particulier huishouden;23.1;31.8;21.0
+1336;Veenendaal;Eenpersoonshuishouden;6.0;18.0;18.0
+1337;Veenendaal;Paar zonder kinderen;6.8;32.0;23.4
+1338;Veenendaal;Paar met kinderen;8.5;40.9;21.5
+1339;Veenendaal;Eenoudergezin;1.0;27.8;18.8
+1340;Woudenberg;Totaal particulier huishouden;4.2;33.9;22.3
+1341;Woudenberg;Eenpersoonshuishouden;1.1;18.1;18.1
+1342;Woudenberg;Paar zonder kinderen;1.3;35.6;26.0
+1343;Woudenberg;Paar met kinderen;1.5;42.7;22.3
+1344;Woudenberg;Eenoudergezin;0.2;26.9;18.0
+1345;Wijk bij Duurstede;Totaal particulier huishouden;8.8;34.3;22.5
+1346;Wijk bij Duurstede;Eenpersoonshuishouden;2.1;18.8;18.8
+1347;Wijk bij Duurstede;Paar zonder kinderen;2.6;34.8;25.4
+1348;Wijk bij Duurstede;Paar met kinderen;3.4;43.6;23.1
+1349;Wijk bij Duurstede;Eenoudergezin;0.4;24.2;16.5
+1350;IJsselstein;Totaal particulier huishouden;13.2;34.1;23.1
+1351;IJsselstein;Eenpersoonshuishouden;3.5;20.2;20.2
+1352;IJsselstein;Paar zonder kinderen;4.1;35.9;26.2
+1353;IJsselstein;Paar met kinderen;4.4;43.5;23.2
+1354;IJsselstein;Eenoudergezin;0.6;24.1;16.0
+1355;Zeist;Totaal particulier huishouden;25.7;33.2;23.8
+1356;Zeist;Eenpersoonshuishouden;10.0;20.5;20.5
+1357;Zeist;Paar zonder kinderen;7.6;38.5;28.1
+1358;Zeist;Paar met kinderen;6.0;47.0;25.0
+1359;Zeist;Eenoudergezin;1.1;27.7;18.7
+1360;Nieuwegein;Totaal particulier huishouden;26.0;32.6;22.5
+1361;Nieuwegein;Eenpersoonshuishouden;8.1;19.4;19.4
+1362;Nieuwegein;Paar zonder kinderen;7.5;35.1;25.6
+1363;Nieuwegein;Paar met kinderen;8.0;43.8;23.6
+1364;Nieuwegein;Eenoudergezin;1.5;25.4;17.2
+1365;Aalsmeer;Totaal particulier huishouden;9.2;35.0;23.7
+1366;Aalsmeer;Eenpersoonshuishouden;2.5;20.3;20.3
+1367;Aalsmeer;Paar zonder kinderen;3.0;35.6;26.0
+1368;Aalsmeer;Paar met kinderen;3.0;46.3;24.7
+1369;Aalsmeer;Eenoudergezin;0.4;28.5;19.4
+1370;Alkmaar;Totaal particulier huishouden;41.0;28.7;20.4
+1371;Alkmaar;Eenpersoonshuishouden;15.2;17.8;17.8
+1372;Alkmaar;Paar zonder kinderen;11.4;32.9;24.0
+1373;Alkmaar;Paar met kinderen;10.4;40.0;21.4
+1374;Alkmaar;Eenoudergezin;2.5;22.8;15.4
+1375;Amstelveen;Totaal particulier huishouden;35.0;35.8;26.0
+1376;Amstelveen;Eenpersoonshuishouden;14.4;23.1;23.1
+1377;Amstelveen;Paar zonder kinderen;9.5;39.8;29.1
+1378;Amstelveen;Paar met kinderen;8.2;52.4;28.2
+1379;Amstelveen;Eenoudergezin;1.8;31.5;21.5
+1380;Amsterdam;Totaal particulier huishouden;372.0;26.3;20.5
+1381;Amsterdam;Eenpersoonshuishouden;197.1;19.1;19.1
+1382;Amsterdam;Paar zonder kinderen;74.0;35.6;26.0
+1383;Amsterdam;Paar met kinderen;51.4;39.3;21.3
+1384;Amsterdam;Eenoudergezin;32.1;22.4;15.3
+1385;Andijk;Totaal particulier huishouden;2.5;31.4;20.7
+1386;Andijk;Eenpersoonshuishouden;0.6;17.2;17.2
+1387;Andijk;Paar zonder kinderen;0.8;31.1;22.7
+1388;Andijk;Paar met kinderen;0.9;41.1;21.7
+1389;Andijk;Eenoudergezin;0.1;25.3;16.7
+1390;Graft-De Rijp;Totaal particulier huishouden;2.5;32.8;21.6
+1391;Graft-De Rijp;Eenpersoonshuishouden;0.6;17.3;17.3
+1392;Graft-De Rijp;Paar zonder kinderen;0.8;32.2;23.5
+1393;Graft-De Rijp;Paar met kinderen;0.9;44.7;23.6
+1394;Graft-De Rijp;Eenoudergezin;0.1;21.7;15.1
+1395;Anna Paulowna;Totaal particulier huishouden;5.4;29.9;19.8
+1396;Anna Paulowna;Eenpersoonshuishouden;1.3;16.7;16.7
+1397;Anna Paulowna;Paar zonder kinderen;1.8;29.5;21.5
+1398;Anna Paulowna;Paar met kinderen;2.0;39.1;20.6
+1399;Anna Paulowna;Eenoudergezin;0.2;25.0;16.7
+1400;Beemster;Totaal particulier huishouden;3.3;35.9;23.8
+1401;Beemster;Eenpersoonshuishouden;0.8;19.9;19.9
+1402;Beemster;Paar zonder kinderen;1.1;34.6;25.3
+1403;Beemster;Paar met kinderen;1.1;47.8;25.4
+1404;Beemster;Eenoudergezin;0.1;29.6;19.4
+1405;Bennebroek;Totaal particulier huishouden;2.1;40.6;28.9
+1406;Bennebroek;Eenpersoonshuishouden;0.6;30.1;30.1
+1407;Bennebroek;Paar zonder kinderen;0.8;42.9;31.3
+1408;Bennebroek;Paar met kinderen;0.6;49.6;26.5
+1409;Bennebroek;Eenoudergezin;0.1;31.1;20.7
+1410;Bergen (NH.);Totaal particulier huishouden;13.2;33.8;23.6
+1411;Bergen (NH.);Eenpersoonshuishouden;4.2;20.4;20.4
+1412;Bergen (NH.);Paar zonder kinderen;4.3;37.0;27.0
+1413;Bergen (NH.);Paar met kinderen;3.5;44.5;23.6
+1414;Bergen (NH.);Eenoudergezin;0.6;28.1;18.9
+1415;Beverwijk;Totaal particulier huishouden;16.2;29.5;20.9
+1416;Beverwijk;Eenpersoonshuishouden;5.6;18.7;18.7
+1417;Beverwijk;Paar zonder kinderen;5.0;32.5;23.8
+1418;Beverwijk;Paar met kinderen;4.2;40.3;21.7
+1419;Beverwijk;Eenoudergezin;0.9;21.8;14.9
+1420;Blaricum;Totaal particulier huishouden;3.8;43.6;29.4
+1421;Blaricum;Eenpersoonshuishouden;1.0;22.4;22.4
+1422;Blaricum;Paar zonder kinderen;1.3;45.7;33.4
+1423;Blaricum;Paar met kinderen;1.2;60.2;32.3
+1424;Blaricum;Eenoudergezin;0.2;33.1;22.5
+1425;Bloemendaal;Totaal particulier huishouden;6.7;46.9;32.3
+1426;Bloemendaal;Eenpersoonshuishouden;2.0;28.2;28.2
+1427;Bloemendaal;Paar zonder kinderen;2.1;51.4;37.5
+1428;Bloemendaal;Paar met kinderen;2.1;60.9;32.2
+1429;Bloemendaal;Eenoudergezin;0.3;31.5;21.5
+1430;Bussum;Totaal particulier huishouden;14.3;34.9;25.1
+1431;Bussum;Eenpersoonshuishouden;5.9;21.4;21.4
+1432;Bussum;Paar zonder kinderen;4.0;39.3;28.7
+1433;Bussum;Paar met kinderen;3.4;54.0;28.6
+1434;Bussum;Eenoudergezin;0.7;26.8;18.5
+1435;Castricum;Totaal particulier huishouden;14.1;35.0;23.9
+1436;Castricum;Eenpersoonshuishouden;3.9;20.4;20.4
+1437;Castricum;Paar zonder kinderen;4.8;37.0;27.0
+1438;Castricum;Paar met kinderen;4.5;45.6;24.1
+1439;Castricum;Eenoudergezin;0.6;27.3;18.4
+1440;Diemen;Totaal particulier huishouden;10.3;33.1;23.7
+1441;Diemen;Eenpersoonshuishouden;3.7;21.7;21.7
+1442;Diemen;Paar zonder kinderen;2.8;37.6;27.4
+1443;Diemen;Paar met kinderen;2.5;45.0;24.5
+1444;Diemen;Eenoudergezin;0.8;25.3;17.3
+1445;Edam-Volendam;Totaal particulier huishouden;10.6;34.9;22.6
+1446;Edam-Volendam;Eenpersoonshuishouden;2.6;18.1;18.1
+1447;Edam-Volendam;Paar zonder kinderen;3.0;33.5;24.4
+1448;Edam-Volendam;Paar met kinderen;4.5;45.5;24.2
+1449;Edam-Volendam;Eenoudergezin;0.3;31.6;21.3
+1450;Enkhuizen;Totaal particulier huishouden;7.3;28.9;20.2
+1451;Enkhuizen;Eenpersoonshuishouden;2.4;17.7;17.7
+1452;Enkhuizen;Paar zonder kinderen;2.3;31.1;22.7
+1453;Enkhuizen;Paar met kinderen;2.0;39.4;20.9
+1454;Enkhuizen;Eenoudergezin;0.3;22.3;15.1
+1455;Haarlem;Totaal particulier huishouden;68.0;29.1;21.2
+1456;Haarlem;Eenpersoonshuishouden;29.0;18.5;18.5
+1457;Haarlem;Paar zonder kinderen;18.3;34.2;24.9
+1458;Haarlem;Paar met kinderen;14.5;42.1;22.7
+1459;Haarlem;Eenoudergezin;3.3;24.8;16.9
+1460;Haarlemmerliede en Spaarnwoude;Totaal particulier huishouden;2.2;36.2;24.4
+1461;Haarlemmerliede en Spaarnwoude;Eenpersoonshuishouden;0.6;20.7;20.7
+1462;Haarlemmerliede en Spaarnwoude;Paar zonder kinderen;0.7;37.8;27.6
+1463;Haarlemmerliede en Spaarnwoude;Paar met kinderen;0.8;46.0;24.7
+1464;Haarlemmerliede en Spaarnwoude;Eenoudergezin;;;
+1465;Haarlemmermeer;Totaal particulier huishouden;48.5;34.8;23.4
+1466;Haarlemmermeer;Eenpersoonshuishouden;12.9;19.2;19.2
+1467;Haarlemmermeer;Paar zonder kinderen;15.1;37.1;27.1
+1468;Haarlemmermeer;Paar met kinderen;16.5;44.6;23.9
+1469;Haarlemmermeer;Eenoudergezin;2.0;25.9;17.4
+1470;Harenkarspel;Totaal particulier huishouden;6.0;33.0;21.7
+1471;Harenkarspel;Eenpersoonshuishouden;1.6;18.0;18.0
+1472;Harenkarspel;Paar zonder kinderen;1.9;33.2;24.2
+1473;Harenkarspel;Paar met kinderen;2.1;43.0;22.4
+1474;Harenkarspel;Eenoudergezin;0.2;24.8;16.5
+1475;Heemskerk;Totaal particulier huishouden;14.9;31.4;21.5
+1476;Heemskerk;Eenpersoonshuishouden;4.4;19.0;19.0
+1477;Heemskerk;Paar zonder kinderen;4.7;33.1;24.2
+1478;Heemskerk;Paar met kinderen;4.4;41.7;22.1
+1479;Heemskerk;Eenoudergezin;0.8;23.9;16.1
+1480;Heemstede;Totaal particulier huishouden;10.9;40.1;28.1
+1481;Heemstede;Eenpersoonshuishouden;3.7;23.7;23.7
+1482;Heemstede;Paar zonder kinderen;3.4;45.7;33.3
+1483;Heemstede;Paar met kinderen;2.9;55.8;29.4
+1484;Heemstede;Eenoudergezin;0.5;27.0;18.4
+1485;Heerhugowaard;Totaal particulier huishouden;18.3;32.0;21.5
+1486;Heerhugowaard;Eenpersoonshuishouden;4.7;19.2;19.2
+1487;Heerhugowaard;Paar zonder kinderen;5.9;33.0;24.1
+1488;Heerhugowaard;Paar met kinderen;6.2;40.4;21.5
+1489;Heerhugowaard;Eenoudergezin;0.8;24.5;16.7
+1490;Heiloo;Totaal particulier huishouden;9.0;35.1;24.2
+1491;Heiloo;Eenpersoonshuishouden;2.6;20.5;20.5
+1492;Heiloo;Paar zonder kinderen;3.2;37.7;27.5
+1493;Heiloo;Paar met kinderen;2.7;46.0;24.4
+1494;Heiloo;Eenoudergezin;0.3;26.1;17.6
+1495;Den Helder;Totaal particulier huishouden;26.3;27.3;19.5
+1496;Den Helder;Eenpersoonshuishouden;9.1;17.5;17.5
+1497;Den Helder;Paar zonder kinderen;8.2;30.3;22.1
+1498;Den Helder;Paar met kinderen;6.7;37.4;20.2
+1499;Den Helder;Eenoudergezin;1.6;21.7;14.8
+1500;Hilversum;Totaal particulier huishouden;38.0;31.9;22.9
+1501;Hilversum;Eenpersoonshuishouden;15.1;19.8;19.8
+1502;Hilversum;Paar zonder kinderen;11.1;35.9;26.2
+1503;Hilversum;Paar met kinderen;8.7;47.0;25.2
+1504;Hilversum;Eenoudergezin;1.8;27.3;18.8
+1505;Hoorn;Totaal particulier huishouden;28.3;30.5;21.1
+1506;Hoorn;Eenpersoonshuishouden;9.0;17.5;17.5
+1507;Hoorn;Paar zonder kinderen;8.4;34.1;24.9
+1508;Hoorn;Paar met kinderen;8.2;41.3;22.1
+1509;Hoorn;Eenoudergezin;1.5;23.5;15.9
+1510;Huizen;Totaal particulier huishouden;16.9;34.8;23.7
+1511;Huizen;Eenpersoonshuishouden;4.9;20.7;20.7
+1512;Huizen;Paar zonder kinderen;4.8;37.8;27.6
+1513;Huizen;Paar met kinderen;5.6;45.2;24.0
+1514;Huizen;Eenoudergezin;1.0;26.5;17.7
+1515;Niedorp;Totaal particulier huishouden;4.4;34.0;22.3
+1516;Niedorp;Eenpersoonshuishouden;0.9;18.1;18.1
+1517;Niedorp;Paar zonder kinderen;1.6;33.8;24.7
+1518;Niedorp;Paar met kinderen;1.6;41.5;21.9
+1519;Niedorp;Eenoudergezin;0.1;32.3;20.5
+1520;Landsmeer;Totaal particulier huishouden;4.2;35.2;23.9
+1521;Landsmeer;Eenpersoonshuishouden;1.1;20.0;20.0
+1522;Landsmeer;Paar zonder kinderen;1.4;37.3;27.2
+1523;Landsmeer;Paar met kinderen;1.4;45.5;24.6
+1524;Landsmeer;Eenoudergezin;0.2;27.2;18.2
+1525;Langedijk;Totaal particulier huishouden;9.4;33.9;22.1
+1526;Langedijk;Eenpersoonshuishouden;2.2;18.3;18.3
+1527;Langedijk;Paar zonder kinderen;3.0;33.5;24.4
+1528;Langedijk;Paar met kinderen;3.5;44.3;23.3
+1529;Langedijk;Eenoudergezin;0.4;23.8;16.2
+1530;Laren (NH.);Totaal particulier huishouden;4.6;39.6;28.2
+1531;Laren (NH.);Eenpersoonshuishouden;1.6;24.0;24.0
+1532;Laren (NH.);Paar zonder kinderen;1.5;46.6;34.0
+1533;Laren (NH.);Paar met kinderen;1.2;51.9;27.7
+1534;Laren (NH.);Eenoudergezin;0.2;29.2;19.9
+1535;Medemblik;Totaal particulier huishouden;3.3;30.0;20.8
+1536;Medemblik;Eenpersoonshuishouden;1.0;18.0;18.0
+1537;Medemblik;Paar zonder kinderen;1.1;32.9;24.0
+1538;Medemblik;Paar met kinderen;1.0;39.5;21.3
+1539;Medemblik;Eenoudergezin;0.2;18.3;12.6
+1540;Muiden;Totaal particulier huishouden;2.8;36.9;25.5
+1541;Muiden;Eenpersoonshuishouden;0.8;21.4;21.4
+1542;Muiden;Paar zonder kinderen;0.9;40.1;29.3
+1543;Muiden;Paar met kinderen;0.8;49.1;26.3
+1544;Muiden;Eenoudergezin;0.1;28.5;19.4
+1545;Naarden;Totaal particulier huishouden;7.1;40.6;28.1
+1546;Naarden;Eenpersoonshuishouden;2.3;23.8;23.8
+1547;Naarden;Paar zonder kinderen;2.2;44.2;32.3
+1548;Naarden;Paar met kinderen;2.1;54.5;29.0
+1549;Naarden;Eenoudergezin;0.3;30.7;20.8
+1550;Obdam;Totaal particulier huishouden;2.5;34.3;22.2
+1551;Obdam;Eenpersoonshuishouden;0.5;18.3;18.3
+1552;Obdam;Paar zonder kinderen;0.8;31.7;23.2
+1553;Obdam;Paar met kinderen;1.0;44.0;23.2
+1554;Obdam;Eenoudergezin;0.1;29.5;21.2
+1555;Oostzaan;Totaal particulier huishouden;3.6;35.3;23.7
+1556;Oostzaan;Eenpersoonshuishouden;0.8;20.4;20.4
+1557;Oostzaan;Paar zonder kinderen;1.2;35.4;25.9
+1558;Oostzaan;Paar met kinderen;1.2;44.5;24.0
+1559;Oostzaan;Eenoudergezin;0.1;31.7;21.0
+1560;Opmeer;Totaal particulier huishouden;4.2;32.3;21.2
+1561;Opmeer;Eenpersoonshuishouden;1.0;19.0;19.0
+1562;Opmeer;Paar zonder kinderen;1.4;31.4;22.9
+1563;Opmeer;Paar met kinderen;1.6;40.6;21.3
+1564;Opmeer;Eenoudergezin;0.1;27.1;17.1
+1565;Ouder-Amstel;Totaal particulier huishouden;5.5;37.5;26.0
+1566;Ouder-Amstel;Eenpersoonshuishouden;1.8;21.7;21.7
+1567;Ouder-Amstel;Paar zonder kinderen;1.7;41.1;30.0
+1568;Ouder-Amstel;Paar met kinderen;1.6;52.4;28.1
+1569;Ouder-Amstel;Eenoudergezin;0.3;25.2;17.2
+1570;Purmerend;Totaal particulier huishouden;31.4;30.4;20.9
+1571;Purmerend;Eenpersoonshuishouden;9.5;17.7;17.7
+1572;Purmerend;Paar zonder kinderen;9.4;33.1;24.1
+1573;Purmerend;Paar met kinderen;9.4;40.6;21.9
+1574;Purmerend;Eenoudergezin;1.8;22.7;15.3
+1575;Schagen;Totaal particulier huishouden;7.4;30.6;21.2
+1576;Schagen;Eenpersoonshuishouden;2.1;18.0;18.0
+1577;Schagen;Paar zonder kinderen;2.6;32.2;23.5
+1578;Schagen;Paar met kinderen;2.0;41.5;22.2
+1579;Schagen;Eenoudergezin;0.4;24.9;16.9
+1580;Texel;Totaal particulier huishouden;5.7;27.5;19.1
+1581;Texel;Eenpersoonshuishouden;1.8;16.4;16.4
+1582;Texel;Paar zonder kinderen;1.8;30.0;21.9
+1583;Texel;Paar met kinderen;1.6;36.9;19.5
+1584;Texel;Eenoudergezin;0.2;21.0;14.6
+1585;Uitgeest;Totaal particulier huishouden;4.5;35.3;23.5
+1586;Uitgeest;Eenpersoonshuishouden;1.1;20.2;20.2
+1587;Uitgeest;Paar zonder kinderen;1.5;36.2;26.4
+1588;Uitgeest;Paar met kinderen;1.7;44.2;23.3
+1589;Uitgeest;Eenoudergezin;0.1;29.2;19.4
+1590;Uithoorn;Totaal particulier huishouden;11.2;35.5;24.5
+1591;Uithoorn;Eenpersoonshuishouden;3.2;20.7;20.7
+1592;Uithoorn;Paar zonder kinderen;3.8;38.7;28.3
+1593;Uithoorn;Paar met kinderen;3.4;45.7;24.5
+1594;Uithoorn;Eenoudergezin;0.5;27.6;18.8
+1595;Velsen;Totaal particulier huishouden;28.4;31.5;21.9
+1596;Velsen;Eenpersoonshuishouden;9.1;19.4;19.4
+1597;Velsen;Paar zonder kinderen;8.6;33.5;24.5
+1598;Velsen;Paar met kinderen;8.4;42.8;22.9
+1599;Velsen;Eenoudergezin;1.4;23.9;16.2
+1600;Venhuizen;Totaal particulier huishouden;2.9;34.0;22.4
+1601;Venhuizen;Eenpersoonshuishouden;0.7;18.0;18.0
+1602;Venhuizen;Paar zonder kinderen;1.0;34.8;25.4
+1603;Venhuizen;Paar met kinderen;1.1;42.1;22.3
+1604;Venhuizen;Eenoudergezin;;;
+1605;Weesp;Totaal particulier huishouden;8.1;31.1;22.4
+1606;Weesp;Eenpersoonshuishouden;3.1;19.5;19.5
+1607;Weesp;Paar zonder kinderen;2.4;35.6;26.0
+1608;Weesp;Paar met kinderen;1.9;43.8;23.6
+1609;Weesp;Eenoudergezin;0.4;24.1;16.7
+1610;Schermer;Totaal particulier huishouden;1.9;33.3;22.1
+1611;Schermer;Eenpersoonshuishouden;0.5;18.6;18.6
+1612;Schermer;Paar zonder kinderen;0.6;34.3;25.0
+1613;Schermer;Paar met kinderen;0.7;41.4;21.6
+1614;Schermer;Eenoudergezin;;;
+1615;Wervershoof;Totaal particulier huishouden;3.2;31.1;20.4
+1616;Wervershoof;Eenpersoonshuishouden;0.8;17.7;17.7
+1617;Wervershoof;Paar zonder kinderen;0.9;30.6;22.4
+1618;Wervershoof;Paar met kinderen;1.2;40.4;21.0
+1619;Wervershoof;Eenoudergezin;0.1;24.9;17.0
+1620;Wieringen;Totaal particulier huishouden;3.5;30.7;21.1
+1621;Wieringen;Eenpersoonshuishouden;1.0;17.1;17.1
+1622;Wieringen;Paar zonder kinderen;1.3;33.5;24.5
+1623;Wieringen;Paar met kinderen;1.0;40.1;21.4
+1624;Wieringen;Eenoudergezin;0.1;24.7;16.5
+1625;Wieringermeer;Totaal particulier huishouden;5.0;29.6;19.8
+1626;Wieringermeer;Eenpersoonshuishouden;1.2;17.5;17.5
+1627;Wieringermeer;Paar zonder kinderen;1.7;29.1;21.3
+1628;Wieringermeer;Paar met kinderen;1.7;38.3;20.4
+1629;Wieringermeer;Eenoudergezin;0.2;23.7;15.3
+1630;Wognum;Totaal particulier huishouden;2.9;34.1;21.8
+1631;Wognum;Eenpersoonshuishouden;0.6;17.0;17.0
+1632;Wognum;Paar zonder kinderen;0.9;33.4;24.4
+1633;Wognum;Paar met kinderen;1.2;42.9;22.4
+1634;Wognum;Eenoudergezin;0.1;31.2;20.5
+1635;Zandvoort;Totaal particulier huishouden;7.9;30.8;22.6
+1636;Zandvoort;Eenpersoonshuishouden;3.2;19.5;19.5
+1637;Zandvoort;Paar zonder kinderen;2.3;37.6;27.4
+1638;Zandvoort;Paar met kinderen;1.6;42.9;23.2
+1639;Zandvoort;Eenoudergezin;0.4;24.4;16.8
+1640;Zijpe;Totaal particulier huishouden;4.5;30.4;20.4
+1641;Zijpe;Eenpersoonshuishouden;1.2;16.0;16.0
+1642;Zijpe;Paar zonder kinderen;1.6;31.6;23.0
+1643;Zijpe;Paar met kinderen;1.4;40.9;21.5
+1644;Zijpe;Eenoudergezin;0.2;24.9;17.0
+1645;Zeevang;Totaal particulier huishouden;2.4;35.8;23.8
+1646;Zeevang;Eenpersoonshuishouden;0.5;19.0;19.0
+1647;Zeevang;Paar zonder kinderen;1.0;36.8;26.9
+1648;Zeevang;Paar met kinderen;0.9;43.6;23.2
+1649;Zeevang;Eenoudergezin;;;
+1650;Zaanstad;Totaal particulier huishouden;59.4;30.2;21.0
+1651;Zaanstad;Eenpersoonshuishouden;18.8;18.2;18.2
+1652;Zaanstad;Paar zonder kinderen;18.4;32.8;24.0
+1653;Zaanstad;Paar met kinderen;16.3;40.9;22.0
+1654;Zaanstad;Eenoudergezin;3.4;23.2;15.8
+1655;Ter Aar;Totaal particulier huishouden;3.2;36.0;22.6
+1656;Ter Aar;Eenpersoonshuishouden;0.6;18.8;18.8
+1657;Ter Aar;Paar zonder kinderen;1.0;32.7;23.9
+1658;Ter Aar;Paar met kinderen;1.4;43.7;22.8
+1659;Ter Aar;Eenoudergezin;0.1;36.2;23.2
+1660;Alblasserdam;Totaal particulier huishouden;7.2;30.7;20.4
+1661;Alblasserdam;Eenpersoonshuishouden;1.9;16.6;16.6
+1662;Alblasserdam;Paar zonder kinderen;2.3;30.8;22.5
+1663;Alblasserdam;Paar met kinderen;2.4;40.9;21.5
+1664;Alblasserdam;Eenoudergezin;0.3;25.5;17.5
+1665;Alkemade;Totaal particulier huishouden;5.4;35.0;22.8
+1666;Alkemade;Eenpersoonshuishouden;1.3;20.6;20.6
+1667;Alkemade;Paar zonder kinderen;1.6;31.7;23.2
+1668;Alkemade;Paar met kinderen;2.1;45.4;23.8
+1669;Alkemade;Eenoudergezin;0.2;29.0;19.4
+1670;Alphen aan den Rijn;Totaal particulier huishouden;28.4;33.3;22.7
+1671;Alphen aan den Rijn;Eenpersoonshuishouden;8.3;19.3;19.3
+1672;Alphen aan den Rijn;Paar zonder kinderen;8.6;35.6;26.0
+1673;Alphen aan den Rijn;Paar met kinderen;9.1;43.6;23.3
+1674;Alphen aan den Rijn;Eenoudergezin;1.4;25.6;17.1
+1675;Barendrecht;Totaal particulier huishouden;13.8;35.8;23.7
+1676;Barendrecht;Eenpersoonshuishouden;2.9;19.6;19.6
+1677;Barendrecht;Paar zonder kinderen;4.7;37.0;27.0
+1678;Barendrecht;Paar met kinderen;5.2;43.6;23.4
+1679;Barendrecht;Eenoudergezin;0.5;26.2;17.7
+1680;Bergambacht;Totaal particulier huishouden;3.5;33.9;22.4
+1681;Bergambacht;Eenpersoonshuishouden;0.8;18.5;18.5
+1682;Bergambacht;Paar zonder kinderen;1.2;35.2;25.7
+1683;Bergambacht;Paar met kinderen;1.3;41.4;21.7
+1684;Bergambacht;Eenoudergezin;0.1;29.1;19.7
+1685;Bergschenhoek;Totaal particulier huishouden;5.5;39.1;25.2
+1686;Bergschenhoek;Eenpersoonshuishouden;1.0;20.1;20.1
+1687;Bergschenhoek;Paar zonder kinderen;1.7;39.6;28.9
+1688;Bergschenhoek;Paar met kinderen;2.4;47.0;25.3
+1689;Bergschenhoek;Eenoudergezin;0.2;22.1;15.1
+1690;Berkel en Rodenrijs;Totaal particulier huishouden;6.5;36.3;23.8
+1691;Berkel en Rodenrijs;Eenpersoonshuishouden;1.5;19.8;19.8
+1692;Berkel en Rodenrijs;Paar zonder kinderen;2.1;35.9;26.2
+1693;Berkel en Rodenrijs;Paar met kinderen;2.4;46.4;24.3
+1694;Berkel en Rodenrijs;Eenoudergezin;0.3;28.8;19.5
+1695;Bleiswijk;Totaal particulier huishouden;3.8;36.5;23.8
+1696;Bleiswijk;Eenpersoonshuishouden;0.7;21.2;21.2
+1697;Bleiswijk;Paar zonder kinderen;1.2;37.2;27.2
+1698;Bleiswijk;Paar met kinderen;1.6;43.7;23.1
+1699;Bleiswijk;Eenoudergezin;0.2;25.7;17.4
+1700;Bodegraven;Totaal particulier huishouden;7.3;34.8;22.7
+1701;Bodegraven;Eenpersoonshuishouden;1.7;18.7;18.7
+1702;Bodegraven;Paar zonder kinderen;2.2;35.6;26.0
+1703;Bodegraven;Paar met kinderen;2.8;43.1;22.7
+1704;Bodegraven;Eenoudergezin;0.2;30.9;20.7
+1705;Drechterland;Totaal particulier huishouden;3.7;34.7;22.3
+1706;Drechterland;Eenpersoonshuishouden;0.8;18.1;18.1
+1707;Drechterland;Paar zonder kinderen;1.2;32.7;23.9
+1708;Drechterland;Paar met kinderen;1.5;45.3;23.5
+1709;Drechterland;Eenoudergezin;0.1;27.1;17.6
+1710;Boskoop;Totaal particulier huishouden;5.9;33.9;22.4
+1711;Boskoop;Eenpersoonshuishouden;1.5;17.2;17.2
+1712;Boskoop;Paar zonder kinderen;2.0;35.1;25.7
+1713;Boskoop;Paar met kinderen;2.1;43.8;23.1
+1714;Boskoop;Eenoudergezin;0.2;28.3;18.2
+1715;Brielle;Totaal particulier huishouden;6.6;33.6;23.1
+1716;Brielle;Eenpersoonshuishouden;1.7;20.0;20.0
+1717;Brielle;Paar zonder kinderen;2.4;35.1;25.6
+1718;Brielle;Paar met kinderen;2.0;42.9;23.2
+1719;Brielle;Eenoudergezin;0.3;25.6;17.4
+1720;Capelle aan den IJssel;Totaal particulier huishouden;28.1;31.7;22.3
+1721;Capelle aan den IJssel;Eenpersoonshuishouden;9.4;19.8;19.8
+1722;Capelle aan den IJssel;Paar zonder kinderen;8.3;35.1;25.6
+1723;Capelle aan den IJssel;Paar met kinderen;7.6;43.3;23.3
+1724;Capelle aan den IJssel;Eenoudergezin;1.9;25.0;16.8
+1725;Delft;Totaal particulier huishouden;41.0;28.6;21.0
+1726;Delft;Eenpersoonshuishouden;17.4;18.8;18.8
+1727;Delft;Paar zonder kinderen;11.2;33.6;24.5
+1728;Delft;Paar met kinderen;8.6;41.3;22.2
+1729;Delft;Eenoudergezin;2.4;23.9;16.4
+1730;Dirksland;Totaal particulier huishouden;3.1;32.9;22.0
+1731;Dirksland;Eenpersoonshuishouden;0.8;21.2;21.2
+1732;Dirksland;Paar zonder kinderen;1.0;31.6;23.1
+1733;Dirksland;Paar met kinderen;1.2;41.0;21.6
+1734;Dirksland;Eenoudergezin;0.1;28.7;19.2
+1735;Dordrecht;Totaal particulier huishouden;51.6;28.6;20.1
+1736;Dordrecht;Eenpersoonshuishouden;18.0;17.4;17.4
+1737;Dordrecht;Paar zonder kinderen;14.7;32.2;23.5
+1738;Dordrecht;Paar met kinderen;13.4;39.6;21.3
+1739;Dordrecht;Eenoudergezin;3.3;21.9;14.9
+1740;Goedereede;Totaal particulier huishouden;4.3;33.5;21.8
+1741;Goedereede;Eenpersoonshuishouden;0.9;18.3;18.3
+1742;Goedereede;Paar zonder kinderen;1.4;31.9;23.3
+1743;Goedereede;Paar met kinderen;1.7;41.9;22.2
+1744;Goedereede;Eenoudergezin;0.2;29.3;20.4
+1745;Gorinchem;Totaal particulier huishouden;14.6;29.8;20.9
+1746;Gorinchem;Eenpersoonshuishouden;5.0;18.1;18.1
+1747;Gorinchem;Paar zonder kinderen;4.3;32.8;24.0
+1748;Gorinchem;Paar met kinderen;4.1;40.5;21.8
+1749;Gorinchem;Eenoudergezin;0.7;24.8;16.7
+1750;Gouda;Totaal particulier huishouden;29.9;30.9;21.5
+1751;Gouda;Eenpersoonshuishouden;10.1;18.5;18.5
+1752;Gouda;Paar zonder kinderen;8.9;33.6;24.5
+1753;Gouda;Paar met kinderen;8.4;42.6;22.6
+1754;Gouda;Eenoudergezin;1.4;24.5;16.5
+1755;'s-Gravendeel;Totaal particulier huishouden;3.6;32.2;21.6
+1756;'s-Gravendeel;Eenpersoonshuishouden;0.9;18.3;18.3
+1757;'s-Gravendeel;Paar zonder kinderen;1.3;31.6;23.1
+1758;'s-Gravendeel;Paar met kinderen;1.2;42.0;22.6
+1759;'s-Gravendeel;Eenoudergezin;0.1;25.6;17.2
+1760;'s-Gravenhage (gemeente);Totaal particulier huishouden;216.8;27.8;20.8
+1761;'s-Gravenhage (gemeente);Eenpersoonshuishouden;100.3;19.3;19.3
+1762;'s-Gravenhage (gemeente);Paar zonder kinderen;48.8;34.9;25.5
+1763;'s-Gravenhage (gemeente);Paar met kinderen;40.2;39.8;21.5
+1764;'s-Gravenhage (gemeente);Eenoudergezin;16.4;22.3;15.2
+1765;'s-Gravenzande;Totaal particulier huishouden;7.4;34.4;22.5
+1766;'s-Gravenzande;Eenpersoonshuishouden;1.6;18.9;18.9
+1767;'s-Gravenzande;Paar zonder kinderen;2.4;34.1;24.9
+1768;'s-Gravenzande;Paar met kinderen;2.8;44.0;23.1
+1769;'s-Gravenzande;Eenoudergezin;0.3;26.2;17.5
+1770;Hardinxveld-Giessendam;Totaal particulier huishouden;6.4;33.4;21.3
+1771;Hardinxveld-Giessendam;Eenpersoonshuishouden;1.4;17.5;17.5
+1772;Hardinxveld-Giessendam;Paar zonder kinderen;1.9;31.0;22.6
+1773;Hardinxveld-Giessendam;Paar met kinderen;2.6;42.8;22.1
+1774;Hardinxveld-Giessendam;Eenoudergezin;0.2;31.1;21.0
+1775;Noorder-Koggenland;Totaal particulier huishouden;4.1;34.1;22.7
+1776;Noorder-Koggenland;Eenpersoonshuishouden;0.9;18.8;18.8
+1777;Noorder-Koggenland;Paar zonder kinderen;1.4;36.1;26.4
+1778;Noorder-Koggenland;Paar met kinderen;1.4;41.6;22.0
+1779;Noorder-Koggenland;Eenoudergezin;0.2;23.6;15.7
+1780;Hellevoetsluis;Totaal particulier huishouden;16.1;31.6;21.5
+1781;Hellevoetsluis;Eenpersoonshuishouden;4.3;18.1;18.1
+1782;Hellevoetsluis;Paar zonder kinderen;5.3;33.0;24.1
+1783;Hellevoetsluis;Paar met kinderen;5.2;41.3;22.2
+1784;Hellevoetsluis;Eenoudergezin;0.8;23.2;15.7
+1785;Hendrik-Ido-Ambacht;Totaal particulier huishouden;8.3;34.1;22.6
+1786;Hendrik-Ido-Ambacht;Eenpersoonshuishouden;1.8;20.1;20.1
+1787;Hendrik-Ido-Ambacht;Paar zonder kinderen;2.8;33.9;24.8
+1788;Hendrik-Ido-Ambacht;Paar met kinderen;3.1;42.2;22.2
+1789;Hendrik-Ido-Ambacht;Eenoudergezin;0.3;28.6;19.3
+1790;Stede Broec;Totaal particulier huishouden;8.1;31.6;20.7
+1791;Stede Broec;Eenpersoonshuishouden;1.8;17.0;17.0
+1792;Stede Broec;Paar zonder kinderen;2.8;31.3;22.8
+1793;Stede Broec;Paar met kinderen;3.0;40.6;21.4
+1794;Stede Broec;Eenoudergezin;0.3;24.2;15.9
+1795;Hillegom;Totaal particulier huishouden;8.5;32.4;22.2
+1796;Hillegom;Eenpersoonshuishouden;2.6;18.9;18.9
+1797;Hillegom;Paar zonder kinderen;2.7;34.4;25.1
+1798;Hillegom;Paar met kinderen;2.6;43.3;23.0
+1799;Hillegom;Eenoudergezin;0.3;25.4;17.2
+1800;Katwijk;Totaal particulier huishouden;15.5;31.6;20.7
+1801;Katwijk;Eenpersoonshuishouden;4.3;18.8;18.8
+1802;Katwijk;Paar zonder kinderen;4.1;29.3;21.4
+1803;Katwijk;Paar met kinderen;6.0;42.0;21.7
+1804;Katwijk;Eenoudergezin;0.7;28.3;19.5
+1805;Krimpen aan den IJssel;Totaal particulier huishouden;11.3;34.0;22.8
+1806;Krimpen aan den IJssel;Eenpersoonshuishouden;2.7;19.1;19.1
+1807;Krimpen aan den IJssel;Paar zonder kinderen;3.9;34.9;25.5
+1808;Krimpen aan den IJssel;Paar met kinderen;3.8;43.5;23.0
+1809;Krimpen aan den IJssel;Eenoudergezin;0.5;26.0;17.5
+1810;Leerdam;Totaal particulier huishouden;8.0;31.1;20.6
+1811;Leerdam;Eenpersoonshuishouden;2.1;17.7;17.7
+1812;Leerdam;Paar zonder kinderen;2.3;31.2;22.8
+1813;Leerdam;Paar met kinderen;2.8;40.2;21.1
+1814;Leerdam;Eenoudergezin;0.4;25.6;17.2
+1815;Leiden;Totaal particulier huishouden;51.8;29.4;21.6
+1816;Leiden;Eenpersoonshuishouden;22.9;18.9;18.9
+1817;Leiden;Paar zonder kinderen;13.6;35.4;25.8
+1818;Leiden;Paar met kinderen;11.1;43.3;23.4
+1819;Leiden;Eenoudergezin;2.5;24.0;16.4
+1820;Leiderdorp;Totaal particulier huishouden;11.0;35.0;24.2
+1821;Leiderdorp;Eenpersoonshuishouden;3.3;20.6;20.6
+1822;Leiderdorp;Paar zonder kinderen;3.5;38.5;28.1
+1823;Leiderdorp;Paar met kinderen;3.4;45.6;24.5
+1824;Leiderdorp;Eenoudergezin;0.5;26.9;18.4
+1825;De Lier;Totaal particulier huishouden;4.2;34.8;22.7
+1826;De Lier;Eenpersoonshuishouden;0.9;19.0;19.0
+1827;De Lier;Paar zonder kinderen;1.4;33.3;24.3
+1828;De Lier;Paar met kinderen;1.6;44.0;23.2
+1829;De Lier;Eenoudergezin;0.2;35.0;23.5
+1830;Lisse;Totaal particulier huishouden;8.9;32.8;22.2
+1831;Lisse;Eenpersoonshuishouden;2.5;18.1;18.1
+1832;Lisse;Paar zonder kinderen;3.0;34.7;25.4
+1833;Lisse;Paar met kinderen;2.9;43.3;22.9
+1834;Lisse;Eenoudergezin;0.3;27.8;18.4
+1835;Maasland;Totaal particulier huishouden;2.5;39.3;25.4
+1836;Maasland;Eenpersoonshuishouden;0.5;21.8;21.8
+1837;Maasland;Paar zonder kinderen;0.8;38.7;28.2
+1838;Maasland;Paar met kinderen;1.0;48.5;25.4
+1839;Maasland;Eenoudergezin;0.1;28.4;18.2
+1840;Maassluis;Totaal particulier huishouden;13.6;31.4;21.6
+1841;Maassluis;Eenpersoonshuishouden;4.0;19.1;19.1
+1842;Maassluis;Paar zonder kinderen;4.4;33.0;24.1
+1843;Maassluis;Paar met kinderen;4.0;41.9;22.4
+1844;Maassluis;Eenoudergezin;0.8;23.3;15.7
+1845;Wester-Koggenland;Totaal particulier huishouden;5.2;33.4;21.9
+1846;Wester-Koggenland;Eenpersoonshuishouden;1.2;18.6;18.6
+1847;Wester-Koggenland;Paar zonder kinderen;1.7;32.9;24.0
+1848;Wester-Koggenland;Paar met kinderen;2.0;42.3;22.1
+1849;Wester-Koggenland;Eenoudergezin;0.1;35.4;22.6
+1850;Middelharnis;Totaal particulier huishouden;6.8;30.3;20.5
+1851;Middelharnis;Eenpersoonshuishouden;1.8;17.8;17.8
+1852;Middelharnis;Paar zonder kinderen;2.3;30.4;22.2
+1853;Middelharnis;Paar met kinderen;2.3;39.9;21.2
+1854;Middelharnis;Eenoudergezin;0.3;26.6;18.2
+1855;Monster;Totaal particulier huishouden;8.2;32.0;21.4
+1856;Monster;Eenpersoonshuishouden;2.5;17.3;17.3
+1857;Monster;Paar zonder kinderen;2.4;32.6;23.8
+1858;Monster;Paar met kinderen;2.8;43.5;22.9
+1859;Monster;Eenoudergezin;0.3;29.5;19.7
+1860;Moordrecht;Totaal particulier huishouden;3.0;33.1;21.4
+1861;Moordrecht;Eenpersoonshuishouden;0.7;16.3;16.3
+1862;Moordrecht;Paar zonder kinderen;0.9;34.0;24.8
+1863;Moordrecht;Paar met kinderen;1.2;40.8;21.6
+1864;Moordrecht;Eenoudergezin;0.1;26.3;17.6
+1865;Naaldwijk;Totaal particulier huishouden;10.9;34.6;22.5
+1866;Naaldwijk;Eenpersoonshuishouden;2.6;18.0;18.0
+1867;Naaldwijk;Paar zonder kinderen;3.4;33.3;24.3
+1868;Naaldwijk;Paar met kinderen;4.2;45.6;24.0
+1869;Naaldwijk;Eenoudergezin;0.4;28.4;18.5
+1870;Nieuwerkerk aan den IJssel;Totaal particulier huishouden;8.5;36.2;23.8
+1871;Nieuwerkerk aan den IJssel;Eenpersoonshuishouden;2.0;19.1;19.1
+1872;Nieuwerkerk aan den IJssel;Paar zonder kinderen;2.6;37.5;27.4
+1873;Nieuwerkerk aan den IJssel;Paar met kinderen;3.3;45.9;24.4
+1874;Nieuwerkerk aan den IJssel;Eenoudergezin;0.5;27.4;18.8
+1875;Bernisse;Totaal particulier huishouden;5.0;34.3;22.7
+1876;Bernisse;Eenpersoonshuishouden;1.1;18.3;18.3
+1877;Bernisse;Paar zonder kinderen;1.8;33.3;24.3
+1878;Bernisse;Paar met kinderen;1.8;43.8;23.6
+1879;Bernisse;Eenoudergezin;0.2;28.1;18.7
+1880;Nieuwkoop;Totaal particulier huishouden;4.2;35.2;23.3
+1881;Nieuwkoop;Eenpersoonshuishouden;1.0;19.5;19.5
+1882;Nieuwkoop;Paar zonder kinderen;1.3;37.4;27.3
+1883;Nieuwkoop;Paar met kinderen;1.5;43.3;23.0
+1884;Nieuwkoop;Eenoudergezin;0.2;24.8;16.4
+1885;Nieuw-Lekkerland;Totaal particulier huishouden;3.2;32.7;20.6
+1886;Nieuw-Lekkerland;Eenpersoonshuishouden;0.6;18.2;18.2
+1887;Nieuw-Lekkerland;Paar zonder kinderen;0.9;30.7;22.4
+1888;Nieuw-Lekkerland;Paar met kinderen;1.4;39.6;20.3
+1889;Nieuw-Lekkerland;Eenoudergezin;0.1;34.1;21.6
+1890;Noordwijk;Totaal particulier huishouden;9.9;33.8;23.3
+1891;Noordwijk;Eenpersoonshuishouden;3.3;20.1;20.1
+1892;Noordwijk;Paar zonder kinderen;2.8;35.3;25.8
+1893;Noordwijk;Paar met kinderen;3.0;46.2;24.4
+1894;Noordwijk;Eenoudergezin;0.5;27.8;18.8
+1895;Noordwijkerhout;Totaal particulier huishouden;5.8;33.8;22.6
+1896;Noordwijkerhout;Eenpersoonshuishouden;1.6;20.2;20.2
+1897;Noordwijkerhout;Paar zonder kinderen;1.6;33.5;24.5
+1898;Noordwijkerhout;Paar met kinderen;2.0;44.6;23.4
+1899;Noordwijkerhout;Eenoudergezin;0.3;27.5;18.7
+1900;Oegstgeest;Totaal particulier huishouden;8.3;40.3;27.7
+1901;Oegstgeest;Eenpersoonshuishouden;2.6;23.3;23.3
+1902;Oegstgeest;Paar zonder kinderen;2.5;44.1;32.2
+1903;Oegstgeest;Paar met kinderen;2.7;54.0;28.7
+1904;Oegstgeest;Eenoudergezin;0.4;32.7;22.0
+1905;Oostflakkee;Totaal particulier huishouden;4.0;31.0;20.5
+1906;Oostflakkee;Eenpersoonshuishouden;1.0;17.1;17.1
+1907;Oostflakkee;Paar zonder kinderen;1.3;29.9;21.8
+1908;Oostflakkee;Paar met kinderen;1.4;39.8;21.4
+1909;Oostflakkee;Eenoudergezin;0.1;28.4;18.4
+1910;Oud-Beijerland;Totaal particulier huishouden;8.9;34.1;22.6
+1911;Oud-Beijerland;Eenpersoonshuishouden;2.2;19.1;19.1
+1912;Oud-Beijerland;Paar zonder kinderen;2.8;34.7;25.3
+1913;Oud-Beijerland;Paar met kinderen;3.3;43.4;22.9
+1914;Oud-Beijerland;Eenoudergezin;0.4;27.2;18.5
+1915;Binnenmaas;Totaal particulier huishouden;7.7;35.6;23.9
+1916;Binnenmaas;Eenpersoonshuishouden;1.7;19.0;19.0
+1917;Binnenmaas;Paar zonder kinderen;2.9;37.3;27.2
+1918;Binnenmaas;Paar met kinderen;2.6;44.3;23.9
+1919;Binnenmaas;Eenoudergezin;0.3;30.0;20.7
+1920;Korendijk;Totaal particulier huishouden;4.1;34.0;22.5
+1921;Korendijk;Eenpersoonshuishouden;0.9;19.5;19.5
+1922;Korendijk;Paar zonder kinderen;1.5;33.8;24.7
+1923;Korendijk;Paar met kinderen;1.5;42.6;22.4
+1924;Korendijk;Eenoudergezin;0.1;28.0;18.6
+1925;Oudewater;Totaal particulier huishouden;3.7;35.1;23.0
+1926;Oudewater;Eenpersoonshuishouden;1.0;18.2;18.2
+1927;Oudewater;Paar zonder kinderen;1.1;35.5;25.9
+1928;Oudewater;Paar met kinderen;1.3;46.3;24.3
+1929;Oudewater;Eenoudergezin;0.2;33.8;22.5
+1930;Papendrecht;Totaal particulier huishouden;12.4;32.6;22.2
+1931;Papendrecht;Eenpersoonshuishouden;3.3;18.7;18.7
+1932;Papendrecht;Paar zonder kinderen;4.1;34.5;25.2
+1933;Papendrecht;Paar met kinderen;4.1;41.8;22.4
+1934;Papendrecht;Eenoudergezin;0.5;26.0;17.6
+1935;Reeuwijk;Totaal particulier huishouden;4.8;38.2;24.9
+1936;Reeuwijk;Eenpersoonshuishouden;1.0;20.3;20.3
+1937;Reeuwijk;Paar zonder kinderen;1.6;38.7;28.3
+1938;Reeuwijk;Paar met kinderen;1.8;47.5;24.8
+1939;Reeuwijk;Eenoudergezin;0.2;30.8;20.8
+1940;Ridderkerk;Totaal particulier huishouden;19.3;31.2;21.5
+1941;Ridderkerk;Eenpersoonshuishouden;5.5;18.6;18.6
+1942;Ridderkerk;Paar zonder kinderen;6.7;31.8;23.2
+1943;Ridderkerk;Paar met kinderen;5.7;42.1;22.4
+1944;Ridderkerk;Eenoudergezin;0.9;26.7;18.0
+1945;Rotterdam;Totaal particulier huishouden;279.3;25.6;19.1
+1946;Rotterdam;Eenpersoonshuishouden;125.1;17.3;17.3
+1947;Rotterdam;Paar zonder kinderen;66.3;31.6;23.0
+1948;Rotterdam;Paar met kinderen;49.3;37.7;20.3
+1949;Rotterdam;Eenoudergezin;24.1;21.4;14.5
+1950;Rozenburg;Totaal particulier huishouden;5.6;31.2;21.6
+1951;Rozenburg;Eenpersoonshuishouden;1.6;18.5;18.5
+1952;Rozenburg;Paar zonder kinderen;2.0;33.5;24.4
+1953;Rozenburg;Paar met kinderen;1.6;41.0;22.1
+1954;Rozenburg;Eenoudergezin;0.3;25.5;16.7
+1955;Rijnsburg;Totaal particulier huishouden;5.3;34.6;22.2
+1956;Rijnsburg;Eenpersoonshuishouden;1.2;18.7;18.7
+1957;Rijnsburg;Paar zonder kinderen;1.5;33.7;24.6
+1958;Rijnsburg;Paar met kinderen;2.3;43.2;22.4
+1959;Rijnsburg;Eenoudergezin;0.2;29.6;19.5
+1960;Rijswijk (ZH.);Totaal particulier huishouden;23.1;30.8;23.0
+1961;Rijswijk (ZH.);Eenpersoonshuishouden;9.4;21.4;21.4
+1962;Rijswijk (ZH.);Paar zonder kinderen;7.1;35.8;26.1
+1963;Rijswijk (ZH.);Paar met kinderen;4.5;43.5;23.6
+1964;Rijswijk (ZH.);Eenoudergezin;1.4;24.5;16.8
+1965;Sassenheim;Totaal particulier huishouden;6.0;34.2;23.3
+1966;Sassenheim;Eenpersoonshuishouden;1.7;19.9;19.9
+1967;Sassenheim;Paar zonder kinderen;1.9;36.1;26.4
+1968;Sassenheim;Paar met kinderen;1.9;45.7;24.2
+1969;Sassenheim;Eenoudergezin;0.3;26.9;17.9
+1970;Schiedam;Totaal particulier huishouden;34.0;27.7;19.9
+1971;Schiedam;Eenpersoonshuishouden;12.7;17.9;17.9
+1972;Schiedam;Paar zonder kinderen;9.6;31.5;23.0
+1973;Schiedam;Paar met kinderen;7.9;38.4;20.8
+1974;Schiedam;Eenoudergezin;2.2;21.4;14.6
+1975;Schipluiden;Totaal particulier huishouden;4.0;37.4;24.1
+1976;Schipluiden;Eenpersoonshuishouden;0.9;19.2;19.2
+1977;Schipluiden;Paar zonder kinderen;1.3;36.3;26.5
+1978;Schipluiden;Paar met kinderen;1.7;47.5;24.9
+1979;Schipluiden;Eenoudergezin;0.1;36.2;24.9
+1980;Schoonhoven;Totaal particulier huishouden;4.9;32.0;21.7
+1981;Schoonhoven;Eenpersoonshuishouden;1.4;17.8;17.8
+1982;Schoonhoven;Paar zonder kinderen;1.6;33.8;24.7
+1983;Schoonhoven;Paar met kinderen;1.6;42.1;22.4
+1984;Schoonhoven;Eenoudergezin;0.2;27.8;18.5
+1985;Sliedrecht;Totaal particulier huishouden;9.5;30.5;20.7
+1986;Sliedrecht;Eenpersoonshuishouden;2.9;17.8;17.8
+1987;Sliedrecht;Paar zonder kinderen;2.9;30.5;22.3
+1988;Sliedrecht;Paar met kinderen;3.0;41.6;21.9
+1989;Sliedrecht;Eenoudergezin;0.3;25.0;17.1
+1990;Cromstrijen;Totaal particulier huishouden;5.2;34.3;22.9
+1991;Cromstrijen;Eenpersoonshuishouden;1.2;18.3;18.3
+1992;Cromstrijen;Paar zonder kinderen;1.9;34.6;25.3
+1993;Cromstrijen;Paar met kinderen;1.8;44.2;23.8
+1994;Cromstrijen;Eenoudergezin;0.2;26.6;18.0
+1995;Spijkenisse;Totaal particulier huishouden;31.1;30.7;21.0
+1996;Spijkenisse;Eenpersoonshuishouden;8.6;18.4;18.4
+1997;Spijkenisse;Paar zonder kinderen;9.7;32.7;23.9
+1998;Spijkenisse;Paar met kinderen;9.7;40.2;21.7
+1999;Spijkenisse;Eenoudergezin;2.1;23.0;15.6
+2000;Albrandswaard;Totaal particulier huishouden;7.2;36.7;24.6
+2001;Albrandswaard;Eenpersoonshuishouden;1.6;20.7;20.7
+2002;Albrandswaard;Paar zonder kinderen;2.5;38.3;27.9
+2003;Albrandswaard;Paar met kinderen;2.6;44.7;24.2
+2004;Albrandswaard;Eenoudergezin;0.2;28.0;18.9
+2005;Westvoorne;Totaal particulier huishouden;5.8;36.5;24.8
+2006;Westvoorne;Eenpersoonshuishouden;1.4;21.0;21.0
+2007;Westvoorne;Paar zonder kinderen;2.1;37.1;27.1
+2008;Westvoorne;Paar met kinderen;1.8;46.5;25.0
+2009;Westvoorne;Eenoudergezin;0.2;28.3;19.6
+2010;Strijen;Totaal particulier huishouden;3.7;33.4;22.3
+2011;Strijen;Eenpersoonshuishouden;0.9;18.3;18.3
+2012;Strijen;Paar zonder kinderen;1.2;32.8;24.0
+2013;Strijen;Paar met kinderen;1.3;43.1;23.2
+2014;Strijen;Eenoudergezin;0.1;33.4;22.4
+2015;Valkenburg (ZH.);Totaal particulier huishouden;1.4;33.4;21.6
+2016;Valkenburg (ZH.);Eenpersoonshuishouden;0.3;20.1;20.1
+2017;Valkenburg (ZH.);Paar zonder kinderen;0.5;31.6;23.1
+2018;Valkenburg (ZH.);Paar met kinderen;0.6;40.7;21.3
+2019;Valkenburg (ZH.);Eenoudergezin;;;
+2020;Vianen;Totaal particulier huishouden;7.6;34.0;22.6
+2021;Vianen;Eenpersoonshuishouden;1.8;19.6;19.6
+2022;Vianen;Paar zonder kinderen;2.5;34.3;25.0
+2023;Vianen;Paar met kinderen;2.7;42.6;22.7
+2024;Vianen;Eenoudergezin;0.4;26.3;17.6
+2025;Vlaardingen;Totaal particulier huishouden;33.7;28.3;20.4
+2026;Vlaardingen;Eenpersoonshuishouden;12.4;18.0;18.0
+2027;Vlaardingen;Paar zonder kinderen;10.2;31.8;23.2
+2028;Vlaardingen;Paar met kinderen;8.0;40.1;21.7
+2029;Vlaardingen;Eenoudergezin;2.0;21.8;14.9
+2030;Vlist;Totaal particulier huishouden;3.6;33.4;21.9
+2031;Vlist;Eenpersoonshuishouden;0.8;18.8;18.8
+2032;Vlist;Paar zonder kinderen;1.2;31.4;22.9
+2033;Vlist;Paar met kinderen;1.3;43.5;23.0
+2034;Vlist;Eenoudergezin;0.1;28.7;19.2
+2035;Voorhout;Totaal particulier huishouden;5.1;38.8;24.9
+2036;Voorhout;Eenpersoonshuishouden;0.9;21.0;21.0
+2037;Voorhout;Paar zonder kinderen;1.5;38.7;28.3
+2038;Voorhout;Paar met kinderen;2.3;46.5;24.8
+2039;Voorhout;Eenoudergezin;0.1;27.9;18.7
+2040;Voorschoten;Totaal particulier huishouden;9.3;37.4;25.9
+2041;Voorschoten;Eenpersoonshuishouden;2.9;23.1;23.1
+2042;Voorschoten;Paar zonder kinderen;3.0;39.6;28.9
+2043;Voorschoten;Paar met kinderen;2.8;50.2;26.7
+2044;Voorschoten;Eenoudergezin;0.4;29.6;19.5
+2045;Waddinxveen;Totaal particulier huishouden;10.4;34.5;23.0
+2046;Waddinxveen;Eenpersoonshuishouden;2.6;20.0;20.0
+2047;Waddinxveen;Paar zonder kinderen;3.4;34.9;25.5
+2048;Waddinxveen;Paar met kinderen;3.6;44.6;23.5
+2049;Waddinxveen;Eenoudergezin;0.4;27.4;18.5
+2050;Warmond;Totaal particulier huishouden;1.9;37.4;25.4
+2051;Warmond;Eenpersoonshuishouden;0.6;19.8;19.8
+2052;Warmond;Paar zonder kinderen;0.6;42.2;30.8
+2053;Warmond;Paar met kinderen;0.6;50.1;26.3
+2054;Warmond;Eenoudergezin;0.1;29.8;19.5
+2055;Wassenaar;Totaal particulier huishouden;10.7;42.7;30.1
+2056;Wassenaar;Eenpersoonshuishouden;3.6;27.3;27.3
+2057;Wassenaar;Paar zonder kinderen;3.3;46.0;33.6
+2058;Wassenaar;Paar met kinderen;2.8;59.2;31.4
+2059;Wassenaar;Eenoudergezin;0.6;29.1;19.3
+2060;Wateringen;Totaal particulier huishouden;6.3;33.9;22.6
+2061;Wateringen;Eenpersoonshuishouden;1.6;19.8;19.8
+2062;Wateringen;Paar zonder kinderen;2.1;33.2;24.2
+2063;Wateringen;Paar met kinderen;2.3;44.1;23.4
+2064;Wateringen;Eenoudergezin;0.2;29.1;19.1
+2065;Woerden;Totaal particulier huishouden;18.5;35.4;23.7
+2066;Woerden;Eenpersoonshuishouden;4.9;20.1;20.1
+2067;Woerden;Paar zonder kinderen;5.7;36.9;27.0
+2068;Woerden;Paar met kinderen;6.4;45.6;24.1
+2069;Woerden;Eenoudergezin;0.8;28.1;18.5
+2070;Zoetermeer;Totaal particulier huishouden;45.9;33.4;22.8
+2071;Zoetermeer;Eenpersoonshuishouden;13.5;19.7;19.7
+2072;Zoetermeer;Paar zonder kinderen;13.0;36.2;26.4
+2073;Zoetermeer;Paar met kinderen;14.6;44.1;23.6
+2074;Zoetermeer;Eenoudergezin;3.1;25.6;17.1
+2075;Zoeterwoude;Totaal particulier huishouden;3.1;36.7;24.0
+2076;Zoeterwoude;Eenpersoonshuishouden;0.6;20.2;20.2
+2077;Zoeterwoude;Paar zonder kinderen;1.0;37.0;27.0
+2078;Zoeterwoude;Paar met kinderen;1.2;45.6;24.0
+2079;Zoeterwoude;Eenoudergezin;0.1;29.7;19.8
+2080;Zwijndrecht;Totaal particulier huishouden;18.9;31.2;21.4
+2081;Zwijndrecht;Eenpersoonshuishouden;5.7;18.4;18.4
+2082;Zwijndrecht;Paar zonder kinderen;6.1;32.6;23.8
+2083;Zwijndrecht;Paar met kinderen;5.6;42.0;22.4
+2084;Zwijndrecht;Eenoudergezin;1.0;26.3;17.6
+2085;Nederlek;Totaal particulier huishouden;5.9;33.0;22.0
+2086;Nederlek;Eenpersoonshuishouden;1.5;18.4;18.4
+2087;Nederlek;Paar zonder kinderen;2.0;33.4;24.4
+2088;Nederlek;Paar met kinderen;2.1;42.3;22.3
+2089;Nederlek;Eenoudergezin;0.2;29.1;19.6
+2090;Ouderkerk;Totaal particulier huishouden;3.0;34.4;22.4
+2091;Ouderkerk;Eenpersoonshuishouden;0.7;18.6;18.6
+2092;Ouderkerk;Paar zonder kinderen;1.0;33.6;24.5
+2093;Ouderkerk;Paar met kinderen;1.2;43.8;22.9
+2094;Ouderkerk;Eenoudergezin;0.1;29.9;20.8
+2095;Jacobswoude;Totaal particulier huishouden;4.0;35.3;23.0
+2096;Jacobswoude;Eenpersoonshuishouden;0.9;19.5;19.5
+2097;Jacobswoude;Paar zonder kinderen;1.3;33.6;24.5
+2098;Jacobswoude;Paar met kinderen;1.5;44.8;23.6
+2099;Jacobswoude;Eenoudergezin;0.1;28.5;19.3
+2100;GaasterlÔn-Sleat;Totaal particulier huishouden;4.1;28.8;19.4
+2101;GaasterlÔn-Sleat;Eenpersoonshuishouden;1.1;16.5;16.5
+2102;GaasterlÔn-Sleat;Paar zonder kinderen;1.4;29.5;21.5
+2103;GaasterlÔn-Sleat;Paar met kinderen;1.3;37.5;19.4
+2104;GaasterlÔn-Sleat;Eenoudergezin;0.1;26.4;17.7
+2105;Borsele;Totaal particulier huishouden;8.7;30.9;20.6
+2106;Borsele;Eenpersoonshuishouden;2.1;18.3;18.3
+2107;Borsele;Paar zonder kinderen;2.9;30.3;22.1
+2108;Borsele;Paar met kinderen;3.0;40.2;21.1
+2109;Borsele;Eenoudergezin;0.4;26.3;17.4
+2110;Goes;Totaal particulier huishouden;15.6;29.3;20.7
+2111;Goes;Eenpersoonshuishouden;5.4;18.1;18.1
+2112;Goes;Paar zonder kinderen;5.0;32.2;23.5
+2113;Goes;Paar met kinderen;4.1;40.2;21.4
+2114;Goes;Eenoudergezin;0.6;23.4;15.8
+2115;West Maas en Waal;Totaal particulier huishouden;7.0;32.5;21.4
+2116;West Maas en Waal;Eenpersoonshuishouden;1.6;17.8;17.8
+2117;West Maas en Waal;Paar zonder kinderen;2.3;30.9;22.6
+2118;West Maas en Waal;Paar met kinderen;2.6;42.2;22.7
+2119;West Maas en Waal;Eenoudergezin;0.2;27.5;18.2
+2120;Hulst;Totaal particulier huishouden;11.7;30.6;21.0
+2121;Hulst;Eenpersoonshuishouden;3.3;17.5;17.5
+2122;Hulst;Paar zonder kinderen;4.1;30.7;22.4
+2123;Hulst;Paar met kinderen;3.5;42.4;23.0
+2124;Hulst;Eenoudergezin;0.4;26.1;18.0
+2125;Kapelle;Totaal particulier huishouden;4.5;33.2;22.1
+2126;Kapelle;Eenpersoonshuishouden;1.0;18.0;18.0
+2127;Kapelle;Paar zonder kinderen;1.6;34.1;24.9
+2128;Kapelle;Paar met kinderen;1.6;41.0;21.8
+2129;Kapelle;Eenoudergezin;0.1;29.9;20.0
+2130;Wymbritseradiel;Totaal particulier huishouden;6.1;29.8;19.8
+2131;Wymbritseradiel;Eenpersoonshuishouden;1.5;18.2;18.2
+2132;Wymbritseradiel;Paar zonder kinderen;2.0;29.1;21.2
+2133;Wymbritseradiel;Paar met kinderen;2.3;37.5;19.6
+2134;Wymbritseradiel;Eenoudergezin;0.2;26.9;17.4
+2135;Middelburg (Z.);Totaal particulier huishouden;19.9;28.6;20.2
+2136;Middelburg (Z.);Eenpersoonshuishouden;6.9;17.7;17.7
+2137;Middelburg (Z.);Paar zonder kinderen;6.3;31.9;23.3
+2138;Middelburg (Z.);Paar met kinderen;5.3;39.1;20.7
+2139;Middelburg (Z.);Eenoudergezin;0.8;22.9;15.6
+2140;Giessenlanden;Totaal particulier huishouden;5.3;34.8;22.3
+2141;Giessenlanden;Eenpersoonshuishouden;1.1;17.4;17.4
+2142;Giessenlanden;Paar zonder kinderen;1.8;32.1;23.4
+2143;Giessenlanden;Paar met kinderen;2.0;45.2;23.7
+2144;Giessenlanden;Eenoudergezin;0.2;28.8;19.4
+2145;Graafstroom;Totaal particulier huishouden;3.2;36.8;22.9
+2146;Graafstroom;Eenpersoonshuishouden;0.6;18.9;18.9
+2147;Graafstroom;Paar zonder kinderen;0.9;35.8;26.1
+2148;Graafstroom;Paar met kinderen;1.4;44.9;22.8
+2149;Graafstroom;Eenoudergezin;0.1;34.7;22.2
+2150;Liesveld;Totaal particulier huishouden;3.4;34.1;21.7
+2151;Liesveld;Eenpersoonshuishouden;0.7;17.5;17.5
+2152;Liesveld;Paar zonder kinderen;1.0;33.0;24.1
+2153;Liesveld;Paar met kinderen;1.4;43.2;22.3
+2154;Liesveld;Eenoudergezin;0.1;29.4;18.7
+2155;Reimerswaal;Totaal particulier huishouden;7.8;30.3;20.1
+2156;Reimerswaal;Eenpersoonshuishouden;2.0;17.8;17.8
+2157;Reimerswaal;Paar zonder kinderen;2.4;30.0;21.9
+2158;Reimerswaal;Paar met kinderen;2.9;38.7;20.0
+2159;Reimerswaal;Eenoudergezin;0.3;29.9;20.1
+2160;Zederik;Totaal particulier huishouden;4.8;34.1;21.6
+2161;Zederik;Eenpersoonshuishouden;1.1;17.0;17.0
+2162;Zederik;Paar zonder kinderen;1.5;32.2;23.5
+2163;Zederik;Paar met kinderen;1.9;44.5;22.8
+2164;Zederik;Eenoudergezin;0.2;31.1;20.3
+2165;Wûnseradiel;Totaal particulier huishouden;4.7;28.1;18.9
+2166;Wûnseradiel;Eenpersoonshuishouden;1.2;17.1;17.1
+2167;Wûnseradiel;Paar zonder kinderen;1.5;28.8;21.0
+2168;Wûnseradiel;Paar met kinderen;1.6;35.5;18.7
+2169;Wûnseradiel;Eenoudergezin;0.1;19.1;13.5
+2170;Terneuzen;Totaal particulier huishouden;23.8;29.6;20.7
+2171;Terneuzen;Eenpersoonshuishouden;7.2;18.0;18.0
+2172;Terneuzen;Paar zonder kinderen;8.3;31.1;22.7
+2173;Terneuzen;Paar met kinderen;6.3;40.1;21.5
+2174;Terneuzen;Eenoudergezin;1.1;22.6;15.6
+2175;Tholen;Totaal particulier huishouden;9.0;29.3;19.4
+2176;Tholen;Eenpersoonshuishouden;2.3;16.8;16.8
+2177;Tholen;Paar zonder kinderen;2.9;29.2;21.3
+2178;Tholen;Paar met kinderen;3.3;37.3;19.3
+2179;Tholen;Eenoudergezin;0.3;28.3;19.0
+2180;Veere;Totaal particulier huishouden;8.7;31.4;21.1
+2181;Veere;Eenpersoonshuishouden;2.3;17.9;17.9
+2182;Veere;Paar zonder kinderen;3.0;31.5;23.0
+2183;Veere;Paar met kinderen;2.9;41.2;21.6
+2184;Veere;Eenoudergezin;0.3;27.5;18.9
+2185;Vlissingen;Totaal particulier huishouden;20.1;27.2;19.6
+2186;Vlissingen;Eenpersoonshuishouden;7.2;17.0;17.0
+2187;Vlissingen;Paar zonder kinderen;6.6;31.6;23.1
+2188;Vlissingen;Paar met kinderen;4.6;37.4;20.2
+2189;Vlissingen;Eenoudergezin;1.0;20.9;14.2
+2190;Lingewaal;Totaal particulier huishouden;3.9;34.0;22.0
+2191;Lingewaal;Eenpersoonshuishouden;0.8;18.9;18.9
+2192;Lingewaal;Paar zonder kinderen;1.2;33.0;24.1
+2193;Lingewaal;Paar met kinderen;1.6;41.8;22.2
+2194;Lingewaal;Eenoudergezin;0.2;27.9;18.5
+2195;De Ronde Venen;Totaal particulier huishouden;13.4;36.1;24.0
+2196;De Ronde Venen;Eenpersoonshuishouden;3.4;20.3;20.3
+2197;De Ronde Venen;Paar zonder kinderen;4.1;36.7;26.8
+2198;De Ronde Venen;Paar met kinderen;4.8;46.9;24.9
+2199;De Ronde Venen;Eenoudergezin;0.6;27.5;18.6
+2200;Tytsjerksteradiel;Totaal particulier huishouden;12.5;30.2;20.2
+2201;Tytsjerksteradiel;Eenpersoonshuishouden;3.0;17.1;17.1
+2202;Tytsjerksteradiel;Paar zonder kinderen;4.4;31.0;22.6
+2203;Tytsjerksteradiel;Paar met kinderen;4.2;38.5;20.4
+2204;Tytsjerksteradiel;Eenoudergezin;0.5;22.9;15.5
+2205;Aalburg;Totaal particulier huishouden;4.1;33.5;20.7
+2206;Aalburg;Eenpersoonshuishouden;0.8;17.1;17.1
+2207;Aalburg;Paar zonder kinderen;1.1;29.8;21.7
+2208;Aalburg;Paar met kinderen;1.9;41.5;21.3
+2209;Aalburg;Eenoudergezin;0.2;31.9;20.0
+2210;Asten;Totaal particulier huishouden;6.0;32.5;21.1
+2211;Asten;Eenpersoonshuishouden;1.4;17.3;17.3
+2212;Asten;Paar zonder kinderen;1.9;30.3;22.1
+2213;Asten;Paar met kinderen;2.3;42.6;22.3
+2214;Asten;Eenoudergezin;0.2;29.3;19.6
+2215;Baarle-Nassau;Totaal particulier huishouden;2.6;30.5;20.7
+2216;Baarle-Nassau;Eenpersoonshuishouden;0.7;17.7;17.7
+2217;Baarle-Nassau;Paar zonder kinderen;0.9;30.5;22.3
+2218;Baarle-Nassau;Paar met kinderen;0.8;39.4;21.0
+2219;Baarle-Nassau;Eenoudergezin;0.1;27.6;19.1
+2220;Bergen op Zoom;Totaal particulier huishouden;27.7;29.6;20.5
+2221;Bergen op Zoom;Eenpersoonshuishouden;8.5;18.0;18.0
+2222;Bergen op Zoom;Paar zonder kinderen;8.9;31.1;22.7
+2223;Bergen op Zoom;Paar met kinderen;8.0;39.7;21.4
+2224;Bergen op Zoom;Eenoudergezin;1.3;23.6;16.2
+2225;Best;Totaal particulier huishouden;11.1;33.2;22.1
+2226;Best;Eenpersoonshuishouden;2.6;18.8;18.8
+2227;Best;Paar zonder kinderen;3.7;34.4;25.1
+2228;Best;Paar met kinderen;3.9;41.2;22.0
+2229;Best;Eenoudergezin;0.4;25.1;17.2
+2230;Boekel;Totaal particulier huishouden;3.2;32.6;20.5
+2231;Boekel;Eenpersoonshuishouden;0.6;17.1;17.1
+2232;Boekel;Paar zonder kinderen;0.9;30.1;21.9
+2233;Boekel;Paar met kinderen;1.5;39.4;20.7
+2234;Boekel;Eenoudergezin;0.1;28.6;19.7
+2235;Boxmeer;Totaal particulier huishouden;11.2;32.2;21.4
+2236;Boxmeer;Eenpersoonshuishouden;2.7;17.9;17.9
+2237;Boxmeer;Paar zonder kinderen;3.5;32.9;24.0
+2238;Boxmeer;Paar met kinderen;4.1;40.0;21.3
+2239;Boxmeer;Eenoudergezin;0.4;26.5;17.9
+2240;Boxtel;Totaal particulier huishouden;11.6;31.5;21.1
+2241;Boxtel;Eenpersoonshuishouden;3.2;17.2;17.2
+2242;Boxtel;Paar zonder kinderen;3.6;32.7;23.9
+2243;Boxtel;Paar met kinderen;3.8;41.7;22.1
+2244;Boxtel;Eenoudergezin;0.6;26.7;17.7
+2245;Breda;Totaal particulier huishouden;70.5;30.1;21.4
+2246;Breda;Eenpersoonshuishouden;24.8;18.7;18.7
+2247;Breda;Paar zonder kinderen;22.1;33.5;24.5
+2248;Breda;Paar met kinderen;17.6;41.7;22.3
+2249;Breda;Eenoudergezin;3.5;23.3;15.8
+2250;Deurne;Totaal particulier huishouden;11.9;32.1;20.9
+2251;Deurne;Eenpersoonshuishouden;2.7;17.9;17.9
+2252;Deurne;Paar zonder kinderen;3.8;30.3;22.1
+2253;Deurne;Paar met kinderen;4.5;41.1;21.6
+2254;Deurne;Eenoudergezin;0.5;27.9;18.4
+2255;Pekela;Totaal particulier huishouden;5.5;26.2;17.9
+2256;Pekela;Eenpersoonshuishouden;1.4;16.1;16.1
+2257;Pekela;Paar zonder kinderen;2.0;25.9;18.9
+2258;Pekela;Paar met kinderen;1.7;35.1;18.8
+2259;Pekela;Eenoudergezin;0.2;19.8;13.8
+2260;Dongen;Totaal particulier huishouden;9.7;32.2;21.5
+2261;Dongen;Eenpersoonshuishouden;2.3;19.9;19.9
+2262;Dongen;Paar zonder kinderen;3.2;30.9;22.6
+2263;Dongen;Paar met kinderen;3.4;41.4;22.1
+2264;Dongen;Eenoudergezin;0.5;24.7;16.6
+2265;Eersel;Totaal particulier huishouden;6.7;35.1;22.9
+2266;Eersel;Eenpersoonshuishouden;1.4;19.8;19.8
+2267;Eersel;Paar zonder kinderen;2.2;34.8;25.4
+2268;Eersel;Paar met kinderen;2.5;43.2;22.8
+2269;Eersel;Eenoudergezin;0.2;28.0;18.7
+2270;Eindhoven;Totaal particulier huishouden;92.6;28.1;20.5
+2271;Eindhoven;Eenpersoonshuishouden;36.8;18.4;18.4
+2272;Eindhoven;Paar zonder kinderen;28.1;32.5;23.7
+2273;Eindhoven;Paar met kinderen;19.7;39.4;21.2
+2274;Eindhoven;Eenoudergezin;4.5;22.3;15.3
+2275;Etten-Leur;Totaal particulier huishouden;15.6;31.5;21.2
+2276;Etten-Leur;Eenpersoonshuishouden;4.0;17.8;17.8
+2277;Etten-Leur;Paar zonder kinderen;5.2;32.0;23.4
+2278;Etten-Leur;Paar met kinderen;5.1;41.1;22.0
+2279;Etten-Leur;Eenoudergezin;0.7;24.5;16.4
+2280;Geertruidenberg;Totaal particulier huishouden;8.4;31.8;21.4
+2281;Geertruidenberg;Eenpersoonshuishouden;2.0;18.2;18.2
+2282;Geertruidenberg;Paar zonder kinderen;2.8;32.2;23.5
+2283;Geertruidenberg;Paar met kinderen;3.0;40.3;21.8
+2284;Geertruidenberg;Eenoudergezin;0.3;26.4;18.0
+2285;Geldrop;Totaal particulier huishouden;11.9;30.4;21.2
+2286;Geldrop;Eenpersoonshuishouden;3.6;18.9;18.9
+2287;Geldrop;Paar zonder kinderen;3.9;33.6;24.5
+2288;Geldrop;Paar met kinderen;3.5;38.1;20.4
+2289;Geldrop;Eenoudergezin;0.5;25.1;16.9
+2290;Gilze en Rijen;Totaal particulier huishouden;9.6;31.9;21.0
+2291;Gilze en Rijen;Eenpersoonshuishouden;2.1;17.7;17.7
+2292;Gilze en Rijen;Paar zonder kinderen;3.2;30.4;22.2
+2293;Gilze en Rijen;Paar met kinderen;3.5;41.4;22.1
+2294;Gilze en Rijen;Eenoudergezin;0.4;26.0;17.5
+2295;Goirle;Totaal particulier huishouden;8.7;34.0;22.5
+2296;Goirle;Eenpersoonshuishouden;1.9;18.5;18.5
+2297;Goirle;Paar zonder kinderen;3.0;33.8;24.7
+2298;Goirle;Paar met kinderen;3.1;43.8;23.3
+2299;Goirle;Eenoudergezin;0.4;25.8;17.1
+2300;Grave;Totaal particulier huishouden;4.9;30.9;20.7
+2301;Grave;Eenpersoonshuishouden;1.2;17.8;17.8
+2302;Grave;Paar zonder kinderen;1.6;31.3;22.9
+2303;Grave;Paar met kinderen;1.7;39.9;21.2
+2304;Grave;Eenoudergezin;0.2;22.0;15.1
+2305;Haaren;Totaal particulier huishouden;5.0;34.4;22.3
+2306;Haaren;Eenpersoonshuishouden;1.1;18.4;18.4
+2307;Haaren;Paar zonder kinderen;1.6;33.8;24.7
+2308;Haaren;Paar met kinderen;1.9;42.5;22.5
+2309;Haaren;Eenoudergezin;0.2;29.7;20.0
+2310;Helmond;Totaal particulier huishouden;35.3;28.6;19.8
+2311;Helmond;Eenpersoonshuishouden;10.3;17.6;17.6
+2312;Helmond;Paar zonder kinderen;11.5;30.9;22.6
+2313;Helmond;Paar met kinderen;10.3;36.9;19.8
+2314;Helmond;Eenoudergezin;1.7;20.8;14.3
+2315;'s-Hertogenbosch;Totaal particulier huishouden;57.0;30.4;21.5
+2316;'s-Hertogenbosch;Eenpersoonshuishouden;20.1;18.7;18.7
+2317;'s-Hertogenbosch;Paar zonder kinderen;16.7;34.4;25.1
+2318;'s-Hertogenbosch;Paar met kinderen;15.0;41.1;22.1
+2319;'s-Hertogenbosch;Eenoudergezin;2.8;23.1;15.8
+2320;Heusden;Totaal particulier huishouden;16.2;33.3;21.7
+2321;Heusden;Eenpersoonshuishouden;3.3;17.8;17.8
+2322;Heusden;Paar zonder kinderen;5.4;32.4;23.7
+2323;Heusden;Paar met kinderen;6.1;41.8;22.2
+2324;Heusden;Eenoudergezin;0.7;26.7;17.9
+2325;Hilvarenbeek;Totaal particulier huishouden;5.5;34.1;22.2
+2326;Hilvarenbeek;Eenpersoonshuishouden;1.2;19.5;19.5
+2327;Hilvarenbeek;Paar zonder kinderen;1.8;32.9;24.0
+2328;Hilvarenbeek;Paar met kinderen;2.3;41.9;22.1
+2329;Hilvarenbeek;Eenoudergezin;0.1;29.2;19.6
+2330;Lith;Totaal particulier huishouden;2.3;33.4;20.7
+2331;Lith;Eenpersoonshuishouden;0.4;15.8;15.8
+2332;Lith;Paar zonder kinderen;0.6;30.7;22.4
+2333;Lith;Paar met kinderen;1.1;39.8;21.0
+2334;Lith;Eenoudergezin;;;
+2335;Loon op Zand;Totaal particulier huishouden;8.8;32.9;21.7
+2336;Loon op Zand;Eenpersoonshuishouden;1.9;18.3;18.3
+2337;Loon op Zand;Paar zonder kinderen;3.0;32.1;23.4
+2338;Loon op Zand;Paar met kinderen;3.2;41.7;22.2
+2339;Loon op Zand;Eenoudergezin;0.4;27.3;18.4
+2340;Mierlo;Totaal particulier huishouden;4.0;32.7;21.4
+2341;Mierlo;Eenpersoonshuishouden;0.9;16.6;16.6
+2342;Mierlo;Paar zonder kinderen;1.3;31.5;23.0
+2343;Mierlo;Paar met kinderen;1.5;43.1;23.1
+2344;Mierlo;Eenoudergezin;0.1;27.5;18.3
+2345;Mill en Sint Hubert;Totaal particulier huishouden;4.1;31.1;20.1
+2346;Mill en Sint Hubert;Eenpersoonshuishouden;0.8;16.6;16.6
+2347;Mill en Sint Hubert;Paar zonder kinderen;1.3;28.8;21.0
+2348;Mill en Sint Hubert;Paar met kinderen;1.6;38.8;20.7
+2349;Mill en Sint Hubert;Eenoudergezin;0.2;31.7;21.3
+2350;Nuenen, Gerwen en Nederwetten;Totaal particulier huishouden;9.0;37.1;24.7
+2351;Nuenen, Gerwen en Nederwetten;Eenpersoonshuishouden;1.8;21.7;21.7
+2352;Nuenen, Gerwen en Nederwetten;Paar zonder kinderen;3.3;37.5;27.4
+2353;Nuenen, Gerwen en Nederwetten;Paar met kinderen;3.2;45.8;24.3
+2354;Nuenen, Gerwen en Nederwetten;Eenoudergezin;0.4;27.2;18.4
+2355;Oirschot;Totaal particulier huishouden;6.5;34.2;22.2
+2356;Oirschot;Eenpersoonshuishouden;1.4;18.8;18.8
+2357;Oirschot;Paar zonder kinderen;2.1;34.2;25.0
+2358;Oirschot;Paar met kinderen;2.5;41.8;21.9
+2359;Oirschot;Eenoudergezin;0.2;30.5;20.5
+2360;Oisterwijk;Totaal particulier huishouden;10.1;34.2;22.9
+2361;Oisterwijk;Eenpersoonshuishouden;2.6;19.7;19.7
+2362;Oisterwijk;Paar zonder kinderen;3.3;34.7;25.3
+2363;Oisterwijk;Paar met kinderen;3.5;44.5;23.6
+2364;Oisterwijk;Eenoudergezin;0.4;26.2;17.5
+2365;Oosterhout;Totaal particulier huishouden;21.8;31.6;21.5
+2366;Oosterhout;Eenpersoonshuishouden;5.8;18.3;18.3
+2367;Oosterhout;Paar zonder kinderen;7.4;32.4;23.7
+2368;Oosterhout;Paar met kinderen;6.8;41.3;22.2
+2369;Oosterhout;Eenoudergezin;0.9;25.3;17.2
+2370;Oss;Totaal particulier huishouden;30.5;30.8;20.8
+2371;Oss;Eenpersoonshuishouden;8.3;18.0;18.0
+2372;Oss;Paar zonder kinderen;9.6;31.9;23.3
+2373;Oss;Paar met kinderen;9.9;39.7;21.2
+2374;Oss;Eenoudergezin;1.4;24.2;16.4
+2375;Rucphen;Totaal particulier huishouden;8.8;31.5;20.6
+2376;Rucphen;Eenpersoonshuishouden;1.6;16.0;16.0
+2377;Rucphen;Paar zonder kinderen;3.1;29.3;21.4
+2378;Rucphen;Paar met kinderen;3.1;39.2;21.5
+2379;Rucphen;Eenoudergezin;0.4;28.0;19.5
+2380;Schijndel;Totaal particulier huishouden;8.9;32.2;21.1
+2381;Schijndel;Eenpersoonshuishouden;2.0;17.8;17.8
+2382;Schijndel;Paar zonder kinderen;2.9;31.4;22.9
+2383;Schijndel;Paar met kinderen;3.3;41.3;21.9
+2384;Schijndel;Eenoudergezin;0.4;24.8;17.0
+2385;Sint-Michielsgestel;Totaal particulier huishouden;10.5;33.9;22.2
+2386;Sint-Michielsgestel;Eenpersoonshuishouden;2.3;18.9;18.9
+2387;Sint-Michielsgestel;Paar zonder kinderen;3.4;33.0;24.1
+2388;Sint-Michielsgestel;Paar met kinderen;3.9;42.9;22.7
+2389;Sint-Michielsgestel;Eenoudergezin;0.4;28.0;18.6
+2390;Sint-Oedenrode;Totaal particulier huishouden;6.4;33.0;21.7
+2391;Sint-Oedenrode;Eenpersoonshuishouden;1.4;19.0;19.0
+2392;Sint-Oedenrode;Paar zonder kinderen;2.3;31.9;23.3
+2393;Sint-Oedenrode;Paar met kinderen;2.3;40.8;21.6
+2394;Sint-Oedenrode;Eenoudergezin;0.2;28.0;17.8
+2395;Someren;Totaal particulier huishouden;6.7;31.9;20.5
+2396;Someren;Eenpersoonshuishouden;1.5;17.8;17.8
+2397;Someren;Paar zonder kinderen;2.0;29.9;21.9
+2398;Someren;Paar met kinderen;2.7;40.0;21.1
+2399;Someren;Eenoudergezin;0.2;26.3;17.2
+2400;Son en Breugel;Totaal particulier huishouden;6.1;35.1;24.1
+2401;Son en Breugel;Eenpersoonshuishouden;1.4;20.6;20.6
+2402;Son en Breugel;Paar zonder kinderen;2.4;38.2;27.9
+2403;Son en Breugel;Paar met kinderen;1.9;41.8;22.4
+2404;Son en Breugel;Eenoudergezin;0.2;29.3;19.8
+2405;Steenbergen;Totaal particulier huishouden;9.3;31.4;21.0
+2406;Steenbergen;Eenpersoonshuishouden;2.1;17.5;17.5
+2407;Steenbergen;Paar zonder kinderen;3.4;30.5;22.2
+2408;Steenbergen;Paar met kinderen;3.2;41.1;22.2
+2409;Steenbergen;Eenoudergezin;0.3;26.1;17.9
+2410;Waterland;Totaal particulier huishouden;7.0;36.0;24.3
+2411;Waterland;Eenpersoonshuishouden;1.9;19.8;19.8
+2412;Waterland;Paar zonder kinderen;2.4;37.9;27.7
+2413;Waterland;Paar met kinderen;2.3;47.4;25.2
+2414;Waterland;Eenoudergezin;0.2;28.7;19.3
+2415;Tilburg;Totaal particulier huishouden;82.3;28.5;20.1
+2416;Tilburg;Eenpersoonshuishouden;28.5;17.6;17.6
+2417;Tilburg;Paar zonder kinderen;25.2;31.4;22.9
+2418;Tilburg;Paar met kinderen;21.0;39.7;21.3
+2419;Tilburg;Eenoudergezin;4.5;21.5;14.6
+2420;Uden;Totaal particulier huishouden;16.1;31.5;21.3
+2421;Uden;Eenpersoonshuishouden;4.4;18.0;18.0
+2422;Uden;Paar zonder kinderen;5.2;32.9;24.0
+2423;Uden;Paar met kinderen;5.2;40.7;21.6
+2424;Uden;Eenoudergezin;0.6;26.2;17.4
+2425;Valkenswaard;Totaal particulier huishouden;13.1;30.4;20.9
+2426;Valkenswaard;Eenpersoonshuishouden;3.7;17.6;17.6
+2427;Valkenswaard;Paar zonder kinderen;4.6;31.7;23.1
+2428;Valkenswaard;Paar met kinderen;4.0;40.6;21.8
+2429;Valkenswaard;Eenoudergezin;0.5;26.7;18.4
+2430;Veghel;Totaal particulier huishouden;13.5;33.0;21.5
+2431;Veghel;Eenpersoonshuishouden;3.1;18.7;18.7
+2432;Veghel;Paar zonder kinderen;4.1;32.1;23.4
+2433;Veghel;Paar met kinderen;5.1;41.4;21.8
+2434;Veghel;Eenoudergezin;0.5;29.0;19.4
+2435;Veldhoven;Totaal particulier huishouden;17.1;32.2;21.8
+2436;Veldhoven;Eenpersoonshuishouden;4.5;18.5;18.5
+2437;Veldhoven;Paar zonder kinderen;5.7;32.8;24.0
+2438;Veldhoven;Paar met kinderen;5.6;42.2;22.6
+2439;Veldhoven;Eenoudergezin;0.7;25.8;17.2
+2440;Vught;Totaal particulier huishouden;10.1;34.6;24.0
+2441;Vught;Eenpersoonshuishouden;3.1;21.4;21.4
+2442;Vught;Paar zonder kinderen;3.1;38.0;27.8
+2443;Vught;Paar met kinderen;3.1;44.5;23.8
+2444;Vught;Eenoudergezin;0.5;26.0;17.5
+2445;Waalre;Totaal particulier huishouden;6.7;36.1;24.8
+2446;Waalre;Eenpersoonshuishouden;1.8;21.8;21.8
+2447;Waalre;Paar zonder kinderen;2.4;38.6;28.2
+2448;Waalre;Paar met kinderen;2.0;45.9;24.3
+2449;Waalre;Eenoudergezin;0.2;28.8;18.6
+2450;Waalwijk;Totaal particulier huishouden;18.3;31.2;21.0
+2451;Waalwijk;Eenpersoonshuishouden;4.6;17.4;17.4
+2452;Waalwijk;Paar zonder kinderen;6.2;31.8;23.2
+2453;Waalwijk;Paar met kinderen;6.0;40.8;21.8
+2454;Waalwijk;Eenoudergezin;0.9;26.3;17.6
+2455;Werkendam;Totaal particulier huishouden;9.7;33.4;21.5
+2456;Werkendam;Eenpersoonshuishouden;2.0;17.1;17.1
+2457;Werkendam;Paar zonder kinderen;3.0;32.1;23.4
+2458;Werkendam;Paar met kinderen;4.0;41.8;22.1
+2459;Werkendam;Eenoudergezin;0.3;31.3;21.2
+2460;Woensdrecht;Totaal particulier huishouden;8.6;31.0;20.8
+2461;Woensdrecht;Eenpersoonshuishouden;1.9;16.7;16.7
+2462;Woensdrecht;Paar zonder kinderen;3.2;32.0;23.4
+2463;Woensdrecht;Paar met kinderen;2.8;39.1;21.1
+2464;Woensdrecht;Eenoudergezin;0.3;24.3;16.5
+2465;Woudrichem;Totaal particulier huishouden;5.3;33.6;21.7
+2466;Woudrichem;Eenpersoonshuishouden;1.1;17.9;17.9
+2467;Woudrichem;Paar zonder kinderen;1.7;32.2;23.5
+2468;Woudrichem;Paar met kinderen;2.1;42.5;22.3
+2469;Woudrichem;Eenoudergezin;0.2;27.6;18.7
+2470;Zundert;Totaal particulier huishouden;7.8;32.4;21.4
+2471;Zundert;Eenpersoonshuishouden;1.8;17.8;17.8
+2472;Zundert;Paar zonder kinderen;2.8;30.9;22.6
+2473;Zundert;Paar met kinderen;2.7;41.7;22.1
+2474;Zundert;Eenoudergezin;0.2;30.7;20.9
+2475;Wormerland;Totaal particulier huishouden;6.2;33.0;22.2
+2476;Wormerland;Eenpersoonshuishouden;1.6;18.8;18.8
+2477;Wormerland;Paar zonder kinderen;2.2;33.3;24.3
+2478;Wormerland;Paar met kinderen;2.0;43.7;23.1
+2479;Wormerland;Eenoudergezin;0.2;25.5;16.9
+2480;Onderbanken;Totaal particulier huishouden;3.3;29.8;19.9
+2481;Onderbanken;Eenpersoonshuishouden;0.7;17.2;17.2
+2482;Onderbanken;Paar zonder kinderen;1.1;28.8;21.0
+2483;Onderbanken;Paar met kinderen;1.1;37.6;20.4
+2484;Onderbanken;Eenoudergezin;0.2;22.2;15.2
+2485;Landgraaf;Totaal particulier huishouden;16.9;28.4;19.7
+2486;Landgraaf;Eenpersoonshuishouden;4.6;17.0;17.0
+2487;Landgraaf;Paar zonder kinderen;5.8;29.2;21.3
+2488;Landgraaf;Paar met kinderen;5.0;37.8;20.6
+2489;Landgraaf;Eenoudergezin;0.9;23.6;16.4
+2490;Arcen en Velden;Totaal particulier huishouden;3.4;32.7;21.6
+2491;Arcen en Velden;Eenpersoonshuishouden;0.7;18.5;18.5
+2492;Arcen en Velden;Paar zonder kinderen;1.2;32.8;23.9
+2493;Arcen en Velden;Paar met kinderen;1.3;40.1;21.3
+2494;Arcen en Velden;Eenoudergezin;0.1;27.3;18.3
+2495;Beek (L.);Totaal particulier huishouden;7.0;31.4;21.4
+2496;Beek (L.);Eenpersoonshuishouden;1.8;18.2;18.2
+2497;Beek (L.);Paar zonder kinderen;2.4;32.1;23.4
+2498;Beek (L.);Paar met kinderen;2.2;40.6;21.9
+2499;Beek (L.);Eenoudergezin;0.3;26.8;18.5
+2500;Beesel;Totaal particulier huishouden;5.3;30.4;20.2
+2501;Beesel;Eenpersoonshuishouden;1.2;17.2;17.2
+2502;Beesel;Paar zonder kinderen;1.8;29.7;21.7
+2503;Beesel;Paar met kinderen;2.0;38.6;20.7
+2504;Beesel;Eenoudergezin;0.2;27.4;18.2
+2505;Bergen (L.);Totaal particulier huishouden;5.1;31.2;20.5
+2506;Bergen (L.);Eenpersoonshuishouden;1.2;16.8;16.8
+2507;Bergen (L.);Paar zonder kinderen;1.6;30.3;22.1
+2508;Bergen (L.);Paar met kinderen;1.9;38.7;20.6
+2509;Bergen (L.);Eenoudergezin;0.2;35.3;24.1
+2510;Brunssum;Totaal particulier huishouden;13.2;26.7;18.8
+2511;Brunssum;Eenpersoonshuishouden;4.1;16.5;16.5
+2512;Brunssum;Paar zonder kinderen;4.3;28.1;20.5
+2513;Brunssum;Paar met kinderen;3.5;36.9;20.0
+2514;Brunssum;Eenoudergezin;0.7;21.6;15.0
+2515;Eijsden;Totaal particulier huishouden;4.5;33.3;21.6
+2516;Eijsden;Eenpersoonshuishouden;0.9;18.2;18.2
+2517;Eijsden;Paar zonder kinderen;1.4;30.3;22.1
+2518;Eijsden;Paar met kinderen;1.8;42.6;23.0
+2519;Eijsden;Eenoudergezin;0.2;26.9;18.6
+2520;Gennep;Totaal particulier huishouden;6.4;30.7;20.6
+2521;Gennep;Eenpersoonshuishouden;1.7;17.4;17.4
+2522;Gennep;Paar zonder kinderen;2.0;31.5;23.0
+2523;Gennep;Paar met kinderen;2.1;39.3;21.0
+2524;Gennep;Eenoudergezin;0.3;26.5;17.5
+2525;Haelen;Totaal particulier huishouden;3.9;32.7;22.0
+2526;Haelen;Eenpersoonshuishouden;0.9;17.6;17.6
+2527;Haelen;Paar zonder kinderen;1.4;32.9;24.0
+2528;Haelen;Paar met kinderen;1.3;42.6;22.9
+2529;Haelen;Eenoudergezin;0.2;28.4;19.6
+2530;Heerlen;Totaal particulier huishouden;43.5;25.8;18.8
+2531;Heerlen;Eenpersoonshuishouden;17.0;16.9;16.9
+2532;Heerlen;Paar zonder kinderen;12.8;29.1;21.3
+2533;Heerlen;Paar met kinderen;9.8;36.2;19.6
+2534;Heerlen;Eenoudergezin;2.5;22.1;15.1
+2535;Helden;Totaal particulier huishouden;7.1;32.0;20.8
+2536;Helden;Eenpersoonshuishouden;1.5;17.8;17.8
+2537;Helden;Paar zonder kinderen;2.3;31.1;22.7
+2538;Helden;Paar met kinderen;2.9;39.4;20.9
+2539;Helden;Eenoudergezin;0.2;26.8;17.4
+2540;Heythuysen;Totaal particulier huishouden;4.6;32.6;21.8
+2541;Heythuysen;Eenpersoonshuishouden;1.0;19.1;19.1
+2542;Heythuysen;Paar zonder kinderen;1.6;32.6;23.8
+2543;Heythuysen;Paar met kinderen;1.7;40.1;21.5
+2544;Heythuysen;Eenoudergezin;0.1;28.6;18.8
+2545;Hunsel;Totaal particulier huishouden;2.3;32.7;20.9
+2546;Hunsel;Eenpersoonshuishouden;0.4;18.1;18.1
+2547;Hunsel;Paar zonder kinderen;0.7;29.9;21.8
+2548;Hunsel;Paar met kinderen;1.0;40.8;22.0
+2549;Hunsel;Eenoudergezin;0.1;24.7;16.8
+2550;Kerkrade;Totaal particulier huishouden;22.4;26.9;19.1
+2551;Kerkrade;Eenpersoonshuishouden;7.3;16.8;16.8
+2552;Kerkrade;Paar zonder kinderen;7.6;28.3;20.7
+2553;Kerkrade;Paar met kinderen;5.5;37.9;20.7
+2554;Kerkrade;Eenoudergezin;1.3;23.1;15.9
+2555;Kessel;Totaal particulier huishouden;1.6;31.2;20.6
+2556;Kessel;Eenpersoonshuishouden;0.3;16.3;16.3
+2557;Kessel;Paar zonder kinderen;0.6;31.1;22.7
+2558;Kessel;Paar met kinderen;0.6;39.8;21.3
+2559;Kessel;Eenoudergezin;0.1;24.4;17.1
+2560;Maasbracht;Totaal particulier huishouden;5.6;30.6;20.5
+2561;Maasbracht;Eenpersoonshuishouden;1.3;17.6;17.6
+2562;Maasbracht;Paar zonder kinderen;1.9;29.5;21.5
+2563;Maasbracht;Paar met kinderen;1.8;40.0;21.6
+2564;Maasbracht;Eenoudergezin;0.2;26.2;18.2
+2565;Maasbree;Totaal particulier huishouden;4.7;33.5;21.5
+2566;Maasbree;Eenpersoonshuishouden;0.9;17.1;17.1
+2567;Maasbree;Paar zonder kinderen;1.5;32.0;23.3
+2568;Maasbree;Paar met kinderen;2.0;41.5;22.0
+2569;Maasbree;Eenoudergezin;0.2;22.0;15.3
+2570;Maastricht;Totaal particulier huishouden;52.4;27.4;19.9
+2571;Maastricht;Eenpersoonshuishouden;20.1;17.6;17.6
+2572;Maastricht;Paar zonder kinderen;15.5;30.9;22.6
+2573;Maastricht;Paar met kinderen;11.8;38.7;21.1
+2574;Maastricht;Eenoudergezin;3.0;22.8;15.7
+2575;Margraten;Totaal particulier huishouden;5.2;33.0;21.7
+2576;Margraten;Eenpersoonshuishouden;1.1;15.9;15.9
+2577;Margraten;Paar zonder kinderen;1.9;32.7;23.9
+2578;Margraten;Paar met kinderen;1.9;43.6;23.3
+2579;Margraten;Eenoudergezin;0.2;28.1;19.1
+2580;Meerssen;Totaal particulier huishouden;8.1;32.6;22.0
+2581;Meerssen;Eenpersoonshuishouden;1.9;18.2;18.2
+2582;Meerssen;Paar zonder kinderen;3.0;32.4;23.7
+2583;Meerssen;Paar met kinderen;2.7;42.4;23.0
+2584;Meerssen;Eenoudergezin;0.3;27.4;18.4
+2585;Meijel;Totaal particulier huishouden;2.1;33.4;21.5
+2586;Meijel;Eenpersoonshuishouden;0.4;18.0;18.0
+2587;Meijel;Paar zonder kinderen;0.7;31.8;23.2
+2588;Meijel;Paar met kinderen;0.9;40.0;21.4
+2589;Meijel;Eenoudergezin;;;
+2590;Mook en Middelaar;Totaal particulier huishouden;3.3;34.2;23.2
+2591;Mook en Middelaar;Eenpersoonshuishouden;0.8;19.2;19.2
+2592;Mook en Middelaar;Paar zonder kinderen;1.2;36.7;26.8
+2593;Mook en Middelaar;Paar met kinderen;1.0;43.1;23.1
+2594;Mook en Middelaar;Eenoudergezin;0.1;23.4;16.2
+2595;Nederweert;Totaal particulier huishouden;6.0;32.3;21.0
+2596;Nederweert;Eenpersoonshuishouden;1.1;18.7;18.7
+2597;Nederweert;Paar zonder kinderen;2.0;30.2;22.0
+2598;Nederweert;Paar met kinderen;2.5;39.3;21.0
+2599;Nederweert;Eenoudergezin;0.2;28.9;19.5
+2600;Nuth;Totaal particulier huishouden;6.6;31.9;21.4
+2601;Nuth;Eenpersoonshuishouden;1.5;17.7;17.7
+2602;Nuth;Paar zonder kinderen;2.3;31.7;23.1
+2603;Nuth;Paar met kinderen;2.1;41.2;22.3
+2604;Nuth;Eenoudergezin;0.3;27.6;19.1
+2605;Roermond;Totaal particulier huishouden;20.0;28.1;20.1
+2606;Roermond;Eenpersoonshuishouden;7.2;17.8;17.8
+2607;Roermond;Paar zonder kinderen;5.8;32.1;23.4
+2608;Roermond;Paar met kinderen;4.9;37.4;20.2
+2609;Roermond;Eenoudergezin;1.1;22.5;15.4
+2610;Schinnen;Totaal particulier huishouden;5.4;32.4;21.6
+2611;Schinnen;Eenpersoonshuishouden;1.1;17.3;17.3
+2612;Schinnen;Paar zonder kinderen;1.9;33.1;24.1
+2613;Schinnen;Paar met kinderen;1.9;40.3;21.8
+2614;Schinnen;Eenoudergezin;0.2;26.8;18.3
+2615;Sevenum;Totaal particulier huishouden;2.7;33.5;22.2
+2616;Sevenum;Eenpersoonshuishouden;0.6;22.4;22.4
+2617;Sevenum;Paar zonder kinderen;0.9;31.4;22.9
+2618;Sevenum;Paar met kinderen;1.0;40.6;21.5
+2619;Sevenum;Eenoudergezin;0.1;32.3;21.9
+2620;Simpelveld;Totaal particulier huishouden;4.7;29.8;20.3
+2621;Simpelveld;Eenpersoonshuishouden;1.2;16.7;16.7
+2622;Simpelveld;Paar zonder kinderen;1.7;30.4;22.2
+2623;Simpelveld;Paar met kinderen;1.5;38.9;21.1
+2624;Simpelveld;Eenoudergezin;0.2;24.0;16.8
+2625;Stein (L.);Totaal particulier huishouden;10.9;30.7;20.6
+2626;Stein (L.);Eenpersoonshuishouden;2.4;16.7;16.7
+2627;Stein (L.);Paar zonder kinderen;4.1;30.1;22.0
+2628;Stein (L.);Paar met kinderen;3.5;40.5;22.1
+2629;Stein (L.);Eenoudergezin;0.5;23.9;16.0
+2630;Swalmen;Totaal particulier huishouden;3.6;29.2;19.7
+2631;Swalmen;Eenpersoonshuishouden;0.9;15.9;15.9
+2632;Swalmen;Paar zonder kinderen;1.2;30.2;22.1
+2633;Swalmen;Paar met kinderen;1.1;37.7;20.3
+2634;Swalmen;Eenoudergezin;0.2;24.9;16.6
+2635;Thorn;Totaal particulier huishouden;1.0;31.1;21.0
+2636;Thorn;Eenpersoonshuishouden;0.3;17.2;17.2
+2637;Thorn;Paar zonder kinderen;0.3;31.0;22.6
+2638;Thorn;Paar met kinderen;0.3;41.9;22.9
+2639;Thorn;Eenoudergezin;;;
+2640;Vaals;Totaal particulier huishouden;4.5;29.4;20.6
+2641;Vaals;Eenpersoonshuishouden;1.5;17.9;17.9
+2642;Vaals;Paar zonder kinderen;1.4;30.8;22.5
+2643;Vaals;Paar met kinderen;1.2;41.0;22.3
+2644;Vaals;Eenoudergezin;0.2;21.6;14.9
+2645;Venlo;Totaal particulier huishouden;39.2;28.1;19.6
+2646;Venlo;Eenpersoonshuishouden;12.8;17.1;17.1
+2647;Venlo;Paar zonder kinderen;12.1;30.5;22.2
+2648;Venlo;Paar met kinderen;10.9;37.8;20.3
+2649;Venlo;Eenoudergezin;1.9;24.1;16.5
+2650;Venray;Totaal particulier huishouden;15.2;30.5;20.5
+2651;Venray;Eenpersoonshuishouden;4.1;17.0;17.0
+2652;Venray;Paar zonder kinderen;4.6;32.5;23.7
+2653;Venray;Paar met kinderen;5.2;39.1;20.8
+2654;Venray;Eenoudergezin;0.7;24.6;16.7
+2655;Voerendaal;Totaal particulier huishouden;5.3;32.9;22.1
+2656;Voerendaal;Eenpersoonshuishouden;1.1;17.9;17.9
+2657;Voerendaal;Paar zonder kinderen;1.9;33.3;24.3
+2658;Voerendaal;Paar met kinderen;1.8;41.6;22.5
+2659;Voerendaal;Eenoudergezin;0.3;27.5;19.2
+2660;Weert;Totaal particulier huishouden;19.9;30.7;20.8
+2661;Weert;Eenpersoonshuishouden;5.4;17.3;17.3
+2662;Weert;Paar zonder kinderen;6.7;31.6;23.0
+2663;Weert;Paar met kinderen;6.2;40.7;21.8
+2664;Weert;Eenoudergezin;0.9;25.3;17.3
+2665;Meerlo-Wanssum;Totaal particulier huishouden;2.9;32.6;21.2
+2666;Meerlo-Wanssum;Eenpersoonshuishouden;0.5;16.4;16.4
+2667;Meerlo-Wanssum;Paar zonder kinderen;1.0;32.2;23.5
+2668;Meerlo-Wanssum;Paar met kinderen;1.1;39.7;21.1
+2669;Meerlo-Wanssum;Eenoudergezin;0.1;28.8;19.0
+2670;Valkenburg a/d Geul;Totaal particulier huishouden;7.5;30.3;20.8
+2671;Valkenburg a/d Geul;Eenpersoonshuishouden;2.2;17.4;17.4
+2672;Valkenburg a/d Geul;Paar zonder kinderen;2.4;31.2;22.8
+2673;Valkenburg a/d Geul;Paar met kinderen;2.1;40.9;22.2
+2674;Valkenburg a/d Geul;Eenoudergezin;0.3;22.2;15.4
+2675;Lelystad;Totaal particulier huishouden;28.3;29.3;20.2
+2676;Lelystad;Eenpersoonshuishouden;8.4;16.8;16.8
+2677;Lelystad;Paar zonder kinderen;8.4;33.1;24.2
+2678;Lelystad;Paar met kinderen;8.2;38.2;20.5
+2679;Lelystad;Eenoudergezin;1.8;23.1;15.6
+2680;Horst aan de Maas;Totaal particulier huishouden;10.8;32.3;21.2
+2681;Horst aan de Maas;Eenpersoonshuishouden;2.4;18.0;18.0
+2682;Horst aan de Maas;Paar zonder kinderen;3.6;31.0;22.6
+2683;Horst aan de Maas;Paar met kinderen;4.0;40.3;21.3
+2684;Horst aan de Maas;Eenoudergezin;0.4;32.8;22.5
+2685;Eemsmond;Totaal particulier huishouden;7.1;26.4;18.2
+2686;Eemsmond;Eenpersoonshuishouden;2.2;16.1;16.1
+2687;Eemsmond;Paar zonder kinderen;2.3;27.7;20.2
+2688;Eemsmond;Paar met kinderen;2.1;34.6;18.3
+2689;Eemsmond;Eenoudergezin;0.2;22.5;15.0
+2690;Gemert-Bakel;Totaal particulier huishouden;10.4;31.1;20.3
+2691;Gemert-Bakel;Eenpersoonshuishouden;2.4;16.4;16.4
+2692;Gemert-Bakel;Paar zonder kinderen;3.3;30.6;22.4
+2693;Gemert-Bakel;Paar met kinderen;4.0;39.9;21.1
+2694;Gemert-Bakel;Eenoudergezin;0.4;26.4;17.5
+2695;Halderberge;Totaal particulier huishouden;11.8;31.7;21.1
+2696;Halderberge;Eenpersoonshuishouden;2.6;17.8;17.8
+2697;Halderberge;Paar zonder kinderen;4.3;30.9;22.5
+2698;Halderberge;Paar met kinderen;3.9;40.7;21.8
+2699;Halderberge;Eenoudergezin;0.4;26.0;17.4
+2700;Heeze-Leende;Totaal particulier huishouden;5.8;34.7;22.8
+2701;Heeze-Leende;Eenpersoonshuishouden;1.3;19.4;19.4
+2702;Heeze-Leende;Paar zonder kinderen;1.9;34.4;25.1
+2703;Heeze-Leende;Paar met kinderen;2.1;43.3;23.0
+2704;Heeze-Leende;Eenoudergezin;0.2;27.3;18.7
+2705;Laarbeek;Totaal particulier huishouden;8.1;32.7;21.3
+2706;Laarbeek;Eenpersoonshuishouden;1.6;17.4;17.4
+2707;Laarbeek;Paar zonder kinderen;2.8;31.3;22.8
+2708;Laarbeek;Paar met kinderen;3.0;41.0;21.7
+2709;Laarbeek;Eenoudergezin;0.3;32.7;22.3
+2710;Reiderland;Totaal particulier huishouden;3.1;24.3;17.1
+2711;Reiderland;Eenpersoonshuishouden;1.0;14.9;14.9
+2712;Reiderland;Paar zonder kinderen;1.1;25.3;18.5
+2713;Reiderland;Paar met kinderen;0.8;33.3;18.3
+2714;Reiderland;Eenoudergezin;0.1;24.9;17.2
+2715;De Marne;Totaal particulier huishouden;4.8;27.2;18.9
+2716;De Marne;Eenpersoonshuishouden;1.6;15.7;15.7
+2717;De Marne;Paar zonder kinderen;1.5;29.1;21.2
+2718;De Marne;Paar met kinderen;1.3;37.8;20.0
+2719;De Marne;Eenoudergezin;0.2;22.0;15.1
+2720;Zevenhuizen-Moerkapelle;Totaal particulier huishouden;3.7;35.0;22.6
+2721;Zevenhuizen-Moerkapelle;Eenpersoonshuishouden;0.8;17.7;17.7
+2722;Zevenhuizen-Moerkapelle;Paar zonder kinderen;1.2;34.5;25.2
+2723;Zevenhuizen-Moerkapelle;Paar met kinderen;1.4;44.1;22.9
+2724;Zevenhuizen-Moerkapelle;Eenoudergezin;0.1;27.8;18.3
+2725;Reusel-De Mierden;Totaal particulier huishouden;4.4;33.7;21.4
+2726;Reusel-De Mierden;Eenpersoonshuishouden;0.9;17.6;17.6
+2727;Reusel-De Mierden;Paar zonder kinderen;1.3;31.6;23.1
+2728;Reusel-De Mierden;Paar met kinderen;1.9;42.0;21.9
+2729;Reusel-De Mierden;Eenoudergezin;0.2;30.7;20.8
+2730;Roerdalen;Totaal particulier huishouden;4.3;31.6;21.3
+2731;Roerdalen;Eenpersoonshuishouden;1.0;14.8;14.8
+2732;Roerdalen;Paar zonder kinderen;1.6;34.1;24.9
+2733;Roerdalen;Paar met kinderen;1.4;40.3;21.9
+2734;Roerdalen;Eenoudergezin;0.2;27.0;18.6
+2735;Roggel en Neer;Totaal particulier huishouden;3.2;32.7;21.3
+2736;Roggel en Neer;Eenpersoonshuishouden;0.7;17.2;17.2
+2737;Roggel en Neer;Paar zonder kinderen;1.0;30.7;22.4
+2738;Roggel en Neer;Paar met kinderen;1.2;42.4;22.5
+2739;Roggel en Neer;Eenoudergezin;0.1;32.6;22.4
+2740;Maasdonk;Totaal particulier huishouden;3.9;34.8;21.7
+2741;Maasdonk;Eenpersoonshuishouden;0.7;17.7;17.7
+2742;Maasdonk;Paar zonder kinderen;1.2;30.4;22.2
+2743;Maasdonk;Paar met kinderen;1.7;43.7;22.9
+2744;Maasdonk;Eenoudergezin;0.2;27.8;19.2
+2745;Rijnwoude;Totaal particulier huishouden;7.1;35.3;22.9
+2746;Rijnwoude;Eenpersoonshuishouden;1.5;18.6;18.6
+2747;Rijnwoude;Paar zonder kinderen;2.3;34.5;25.2
+2748;Rijnwoude;Paar met kinderen;2.7;44.9;23.7
+2749;Rijnwoude;Eenoudergezin;0.3;26.1;17.8
+2750;Liemeer;Totaal particulier huishouden;2.3;35.1;22.0
+2751;Liemeer;Eenpersoonshuishouden;0.6;13.5;13.5
+2752;Liemeer;Paar zonder kinderen;0.6;36.2;26.4
+2753;Liemeer;Paar met kinderen;1.0;45.7;24.0
+2754;Liemeer;Eenoudergezin;0.1;35.3;22.8
+2755;Roosendaal;Totaal particulier huishouden;32.0;29.9;20.5
+2756;Roosendaal;Eenpersoonshuishouden;9.1;17.4;17.4
+2757;Roosendaal;Paar zonder kinderen;10.6;31.3;22.9
+2758;Roosendaal;Paar met kinderen;9.5;40.0;21.4
+2759;Roosendaal;Eenoudergezin;1.5;23.5;16.0
+2760;Schouwen-Duiveland;Totaal particulier huishouden;14.3;30.4;20.9
+2761;Schouwen-Duiveland;Eenpersoonshuishouden;4.1;17.6;17.6
+2762;Schouwen-Duiveland;Paar zonder kinderen;5.2;32.0;23.4
+2763;Schouwen-Duiveland;Paar met kinderen;4.1;40.6;21.4
+2764;Schouwen-Duiveland;Eenoudergezin;0.6;25.9;17.5
+2765;Ambt Montfort;Totaal particulier huishouden;4.3;30.9;20.6
+2766;Ambt Montfort;Eenpersoonshuishouden;0.9;17.4;17.4
+2767;Ambt Montfort;Paar zonder kinderen;1.6;30.8;22.5
+2768;Ambt Montfort;Paar met kinderen;1.5;38.5;20.7
+2769;Ambt Montfort;Eenoudergezin;0.2;25.8;17.6
+2770;Aa en Hunze;Totaal particulier huishouden;10.1;31.1;21.3
+2771;Aa en Hunze;Eenpersoonshuishouden;2.5;18.6;18.6
+2772;Aa en Hunze;Paar zonder kinderen;3.8;32.4;23.6
+2773;Aa en Hunze;Paar met kinderen;3.2;39.2;21.1
+2774;Aa en Hunze;Eenoudergezin;0.3;23.3;16.0
+2775;Borger-Odoorn;Totaal particulier huishouden;10.5;28.8;19.4
+2776;Borger-Odoorn;Eenpersoonshuishouden;2.4;16.7;16.7
+2777;Borger-Odoorn;Paar zonder kinderen;3.9;29.1;21.2
+2778;Borger-Odoorn;Paar met kinderen;3.5;35.9;19.2
+2779;Borger-Odoorn;Eenoudergezin;0.4;28.1;19.2
+2780;Cuijk;Totaal particulier huishouden;9.6;30.0;20.1
+2781;Cuijk;Eenpersoonshuishouden;2.5;16.9;16.9
+2782;Cuijk;Paar zonder kinderen;3.1;30.7;22.4
+2783;Cuijk;Paar met kinderen;3.2;38.8;20.6
+2784;Cuijk;Eenoudergezin;0.4;24.1;16.4
+2785;Landerd;Totaal particulier huishouden;5.3;33.0;21.1
+2786;Landerd;Eenpersoonshuishouden;1.1;17.7;17.7
+2787;Landerd;Paar zonder kinderen;1.6;30.8;22.5
+2788;Landerd;Paar met kinderen;2.1;40.7;21.4
+2789;Landerd;Eenoudergezin;0.2;28.9;19.6
+2790;De Wolden;Totaal particulier huishouden;9.2;31.0;20.6
+2791;De Wolden;Eenpersoonshuishouden;2.2;17.5;17.5
+2792;De Wolden;Paar zonder kinderen;3.1;30.4;22.2
+2793;De Wolden;Paar met kinderen;3.3;40.0;21.1
+2794;De Wolden;Eenoudergezin;0.3;29.2;19.6
+2795;Noord-Beveland;Totaal particulier huishouden;3.1;30.1;21.2
+2796;Noord-Beveland;Eenpersoonshuishouden;0.9;18.3;18.3
+2797;Noord-Beveland;Paar zonder kinderen;1.2;31.9;23.3
+2798;Noord-Beveland;Paar met kinderen;0.8;38.8;20.7
+2799;Noord-Beveland;Eenoudergezin;0.1;31.9;22.1
+2800;Wijdemeren;Totaal particulier huishouden;9.6;34.7;23.8
+2801;Wijdemeren;Eenpersoonshuishouden;2.8;19.8;19.8
+2802;Wijdemeren;Paar zonder kinderen;3.2;37.2;27.2
+2803;Wijdemeren;Paar met kinderen;3.0;45.9;24.6
+2804;Wijdemeren;Eenoudergezin;0.4;27.3;18.9
+2805;Noordenveld;Totaal particulier huishouden;13.0;31.3;21.5
+2806;Noordenveld;Eenpersoonshuishouden;3.4;18.3;18.3
+2807;Noordenveld;Paar zonder kinderen;4.9;32.7;23.8
+2808;Noordenveld;Paar met kinderen;4.0;40.2;21.4
+2809;Noordenveld;Eenoudergezin;0.4;23.4;16.0
+2810;Twenterand;Totaal particulier huishouden;11.7;30.5;19.2
+2811;Twenterand;Eenpersoonshuishouden;2.3;16.0;16.0
+2812;Twenterand;Paar zonder kinderen;3.3;28.0;20.5
+2813;Twenterand;Paar met kinderen;5.1;37.5;19.6
+2814;Twenterand;Eenoudergezin;0.5;28.5;18.8
+2815;Westerveld;Totaal particulier huishouden;7.8;30.0;20.6
+2816;Westerveld;Eenpersoonshuishouden;2.0;17.7;17.7
+2817;Westerveld;Paar zonder kinderen;2.9;32.4;23.6
+2818;Westerveld;Paar met kinderen;2.3;37.5;20.0
+2819;Westerveld;Eenoudergezin;0.3;20.5;13.8
+2820;Sint Anthonis;Totaal particulier huishouden;4.3;31.8;20.5
+2821;Sint Anthonis;Eenpersoonshuishouden;1.0;16.8;16.8
+2822;Sint Anthonis;Paar zonder kinderen;1.3;30.6;22.3
+2823;Sint Anthonis;Paar met kinderen;1.7;40.0;20.9
+2824;Sint Anthonis;Eenoudergezin;0.1;32.4;21.6
+2825;Lingewaard;Totaal particulier huishouden;16.4;32.4;21.4
+2826;Lingewaard;Eenpersoonshuishouden;3.6;18.7;18.7
+2827;Lingewaard;Paar zonder kinderen;5.5;31.6;23.1
+2828;Lingewaard;Paar met kinderen;6.0;40.9;21.8
+2829;Lingewaard;Eenoudergezin;0.7;25.9;17.5
+2830;Cranendonck;Totaal particulier huishouden;7.9;32.9;22.1
+2831;Cranendonck;Eenpersoonshuishouden;1.8;21.8;21.8
+2832;Cranendonck;Paar zonder kinderen;2.7;30.7;22.4
+2833;Cranendonck;Paar met kinderen;2.8;41.2;22.0
+2834;Cranendonck;Eenoudergezin;0.3;27.7;19.0
+2835;Steenwijkerland;Totaal particulier huishouden;17.1;28.3;19.2
+2836;Steenwijkerland;Eenpersoonshuishouden;4.7;16.5;16.5
+2837;Steenwijkerland;Paar zonder kinderen;5.7;29.4;21.4
+2838;Steenwijkerland;Paar met kinderen;5.4;36.7;19.4
+2839;Steenwijkerland;Eenoudergezin;0.6;23.5;15.6
+2840;Moerdijk;Totaal particulier huishouden;14.6;31.5;21.2
+2841;Moerdijk;Eenpersoonshuishouden;3.4;18.1;18.1
+2842;Moerdijk;Paar zonder kinderen;5.2;32.0;23.4
+2843;Moerdijk;Paar met kinderen;4.9;39.7;21.3
+2844;Moerdijk;Eenoudergezin;0.6;25.5;17.5
+2845;Echt-Susteren;Totaal particulier huishouden;13.0;30.3;20.4
+2846;Echt-Susteren;Eenpersoonshuishouden;3.2;16.7;16.7
+2847;Echt-Susteren;Paar zonder kinderen;4.4;30.2;22.0
+2848;Echt-Susteren;Paar met kinderen;4.2;39.9;21.7
+2849;Echt-Susteren;Eenoudergezin;0.6;26.9;18.3
+2850;Sluis;Totaal particulier huishouden;10.8;29.0;20.3
+2851;Sluis;Eenpersoonshuishouden;3.3;16.7;16.7
+2852;Sluis;Paar zonder kinderen;3.9;30.1;22.0
+2853;Sluis;Paar met kinderen;2.8;40.2;21.8
+2854;Sluis;Eenoudergezin;0.4;25.7;17.6
+2855;Drimmelen;Totaal particulier huishouden;10.3;33.0;21.8
+2856;Drimmelen;Eenpersoonshuishouden;2.1;17.7;17.7
+2857;Drimmelen;Paar zonder kinderen;3.7;32.4;23.6
+2858;Drimmelen;Paar met kinderen;3.8;41.8;22.4
+2859;Drimmelen;Eenoudergezin;0.3;26.6;18.2
+2860;Bernheze;Totaal particulier huishouden;10.3;34.0;21.8
+2861;Bernheze;Eenpersoonshuishouden;2.0;18.2;18.2
+2862;Bernheze;Paar zonder kinderen;3.2;32.9;24.0
+2863;Bernheze;Paar met kinderen;4.3;41.3;21.7
+2864;Bernheze;Eenoudergezin;0.4;30.2;20.2
+2865;Ferwerderadiel;Totaal particulier huishouden;3.5;27.7;18.6
+2866;Ferwerderadiel;Eenpersoonshuishouden;0.9;16.6;16.6
+2867;Ferwerderadiel;Paar zonder kinderen;1.1;27.7;20.3
+2868;Ferwerderadiel;Paar met kinderen;1.2;35.6;18.5
+2869;Ferwerderadiel;Eenoudergezin;0.1;22.7;15.6
+2870;Alphen-Chaam;Totaal particulier huishouden;3.6;34.4;22.5
+2871;Alphen-Chaam;Eenpersoonshuishouden;0.7;18.1;18.1
+2872;Alphen-Chaam;Paar zonder kinderen;1.3;34.1;24.9
+2873;Alphen-Chaam;Paar met kinderen;1.3;42.4;22.5
+2874;Alphen-Chaam;Eenoudergezin;0.1;30.2;20.8
+2875;Bergeijk;Totaal particulier huishouden;6.8;33.5;21.8
+2876;Bergeijk;Eenpersoonshuishouden;1.4;17.7;17.7
+2877;Bergeijk;Paar zonder kinderen;2.2;33.0;24.1
+2878;Bergeijk;Paar met kinderen;2.6;41.6;22.1
+2879;Bergeijk;Eenoudergezin;0.2;29.1;20.1
+2880;Bladel;Totaal particulier huishouden;7.1;32.7;21.2
+2881;Bladel;Eenpersoonshuishouden;1.5;18.0;18.0
+2882;Bladel;Paar zonder kinderen;2.2;31.3;22.9
+2883;Bladel;Paar met kinderen;2.7;41.0;21.6
+2884;Bladel;Eenoudergezin;0.3;29.6;19.9
+2885;Gulpen-Wittem;Totaal particulier huishouden;6.1;31.3;21.0
+2886;Gulpen-Wittem;Eenpersoonshuishouden;1.5;17.0;17.0
+2887;Gulpen-Wittem;Paar zonder kinderen;2.0;31.7;23.1
+2888;Gulpen-Wittem;Paar met kinderen;2.1;40.2;21.7
+2889;Gulpen-Wittem;Eenoudergezin;0.3;26.5;18.0
+2890;Tynaarlo;Totaal particulier huishouden;12.8;32.8;22.5
+2891;Tynaarlo;Eenpersoonshuishouden;3.4;19.1;19.1
+2892;Tynaarlo;Paar zonder kinderen;4.8;34.6;25.2
+2893;Tynaarlo;Paar met kinderen;3.8;42.1;22.3
+2894;Tynaarlo;Eenoudergezin;0.4;26.9;18.5
+2895;Midden-Drenthe;Totaal particulier huishouden;13.2;28.9;19.6
+2896;Midden-Drenthe;Eenpersoonshuishouden;3.5;16.8;16.8
+2897;Midden-Drenthe;Paar zonder kinderen;4.6;30.1;22.0
+2898;Midden-Drenthe;Paar met kinderen;4.4;36.4;19.5
+2899;Midden-Drenthe;Eenoudergezin;0.4;24.0;16.2
+2900;Overbetuwe;Totaal particulier huishouden;15.5;32.3;21.3
+2901;Overbetuwe;Eenpersoonshuishouden;3.5;17.3;17.3
+2902;Overbetuwe;Paar zonder kinderen;5.2;32.7;23.9
+2903;Overbetuwe;Paar met kinderen;5.7;40.4;21.5
+2904;Overbetuwe;Eenoudergezin;0.6;25.9;17.3
+2905;Hof van Twente;Totaal particulier huishouden;13.4;32.6;21.7
+2906;Hof van Twente;Eenpersoonshuishouden;3.2;19.2;19.2
+2907;Hof van Twente;Paar zonder kinderen;4.5;32.2;23.5
+2908;Hof van Twente;Paar met kinderen;4.4;40.7;21.6
+2909;Hof van Twente;Eenoudergezin;0.5;27.7;18.6
+2910;Olst-Wijhe;Totaal particulier huishouden;6.5;31.0;20.5
+2911;Olst-Wijhe;Eenpersoonshuishouden;1.6;17.1;17.1
+2912;Olst-Wijhe;Paar zonder kinderen;2.1;31.5;23.0
+2913;Olst-Wijhe;Paar met kinderen;2.4;38.6;20.4
+2914;Olst-Wijhe;Eenoudergezin;0.2;30.7;20.6
+2915;Dinkelland;Totaal particulier huishouden;9.1;33.0;21.0
+2916;Dinkelland;Eenpersoonshuishouden;1.9;18.0;18.0
+2917;Dinkelland;Paar zonder kinderen;2.8;30.2;22.1
+2918;Dinkelland;Paar met kinderen;3.7;40.7;21.3
+2919;Dinkelland;Eenoudergezin;0.3;32.4;21.2
+2920;Sittard-Geleen;Totaal particulier huishouden;42.2;28.9;20.2
+2921;Sittard-Geleen;Eenpersoonshuishouden;13.3;17.5;17.5
+2922;Sittard-Geleen;Paar zonder kinderen;13.5;31.1;22.7
+2923;Sittard-Geleen;Paar met kinderen;11.4;39.3;21.2
+2924;Sittard-Geleen;Eenoudergezin;2.3;23.3;16.1
+2925;Zwartewaterland;Totaal particulier huishouden;7.7;31.8;20.1
+2926;Zwartewaterland;Eenpersoonshuishouden;1.7;16.4;16.4
+2927;Zwartewaterland;Paar zonder kinderen;2.3;30.1;22.0
+2928;Zwartewaterland;Paar met kinderen;3.3;40.3;20.5
+2929;Zwartewaterland;Eenoudergezin;0.3;28.8;19.1
+2930;Leidschendam-Voorburg;Totaal particulier huishouden;34.0;32.9;23.9
+2931;Leidschendam-Voorburg;Eenpersoonshuishouden;13.1;21.2;21.2
+2932;Leidschendam-Voorburg;Paar zonder kinderen;10.4;37.6;27.5
+2933;Leidschendam-Voorburg;Paar met kinderen;7.5;47.1;25.3
+2934;Leidschendam-Voorburg;Eenoudergezin;1.9;26.1;17.7
+2935;Pijnacker-Nootdorp;Totaal particulier huishouden;13.0;36.6;24.0
+2936;Pijnacker-Nootdorp;Eenpersoonshuishouden;2.7;21.1;21.1
+2937;Pijnacker-Nootdorp;Paar zonder kinderen;4.1;36.8;26.9
+2938;Pijnacker-Nootdorp;Paar met kinderen;5.2;44.8;23.8
+2939;Pijnacker-Nootdorp;Eenoudergezin;0.5;26.5;18.0
+2940;Heel;Totaal particulier huishouden;3.2;32.2;21.6
+2941;Heel;Eenpersoonshuishouden;0.7;17.0;17.0
+2942;Heel;Paar zonder kinderen;1.2;33.0;24.1
+2943;Heel;Paar met kinderen;1.1;40.8;21.9
+2944;Heel;Eenoudergezin;0.1;28.1;19.6
+2945;Menterwolde;Totaal particulier huishouden;5.2;27.2;18.5
+2946;Menterwolde;Eenpersoonshuishouden;1.2;16.3;16.3
+2947;Menterwolde;Paar zonder kinderen;1.9;28.0;20.5
+2948;Menterwolde;Paar met kinderen;1.7;33.8;18.2
+2949;Menterwolde;Eenoudergezin;0.2;21.9;14.4

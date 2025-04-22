@@ -1,0 +1,176 @@
+﻿ID;TypeVoertuig;Perioden;Prijsindexcijfers_1;KwartaalMutatie_2;Jaarmutatie_3;Wegingscoefficienten_4
+0;Totaal;1997 1e Kwartaal;113.0;;;100
+1;Totaal;1997 2e Kwartaal;114.0;0.9;;100
+2;Totaal;1997 3e Kwartaal;113.6;-0.4;;100
+3;Totaal;1997 4e Kwartaal;114.6;0.9;;100
+4;Totaal;1997;113.8;;;100
+5;Totaal;1998 1e Kwartaal;114.1;-0.4;1.0;100
+6;Totaal;1998 2e Kwartaal;115.7;1.4;1.5;100
+7;Totaal;1998 3e Kwartaal;113.7;-1.7;0.1;100
+8;Totaal;1998 4e Kwartaal;113.8;0.1;-0.7;100
+9;Totaal;1998;114.3;;0.4;100
+10;Totaal;1999 1e Kwartaal;113.3;-0.4;-0.7;100
+11;Totaal;1999 2e Kwartaal;113.8;0.4;-1.6;100
+12;Totaal;1999 3e Kwartaal;117.2;3.0;3.1;100
+13;Totaal;1999 4e Kwartaal;118.9;1.5;4.5;100
+14;Totaal;1999;115.8;;1.3;100
+15;Totaal;2000 1e Kwartaal;122.0;2.6;7.7;100
+16;Totaal;2000 2e Kwartaal;124.1;1.7;9.1;100
+17;Totaal;2000 3e Kwartaal;125.8;1.4;7.3;100
+18;Totaal;2000 4e Kwartaal;126.3;0.4;6.2;100
+19;Totaal;2000;124.6;;7.6;100
+20;Totaal;2001 1e Kwartaal;125.9;-0.3;3.2;100
+21;Totaal;2001 2e Kwartaal;125.6;-0.2;1.2;100
+22;Totaal;2001 3e kwartaal;125.1;-0.4;-0.6;100
+23;Totaal;2001 4e kwartaal;124.5;;;100
+24;Totaal;2001;125.3;;;100
+25;Personenenauto's totaal;1997 1e Kwartaal;115.1;;;77
+26;Personenenauto's totaal;1997 2e Kwartaal;116.2;1.0;;77
+27;Personenenauto's totaal;1997 3e Kwartaal;115.8;-0.3;;77
+28;Personenenauto's totaal;1997 4e Kwartaal;117.0;1.0;;77
+29;Personenenauto's totaal;1997;116.0;;;77
+30;Personenenauto's totaal;1998 1e Kwartaal;116.5;-0.4;1.2;77
+31;Personenenauto's totaal;1998 2e Kwartaal;117.5;0.9;1.1;77
+32;Personenenauto's totaal;1998 3e Kwartaal;116.5;-0.9;0.6;77
+33;Personenenauto's totaal;1998 4e Kwartaal;116.1;-0.3;-0.8;77
+34;Personenenauto's totaal;1998;116.7;;0.6;77
+35;Personenenauto's totaal;1999 1e Kwartaal;115.6;-0.4;-0.8;77
+36;Personenenauto's totaal;1999 2e Kwartaal;116.1;0.4;-1.2;77
+37;Personenenauto's totaal;1999 3e Kwartaal;120.1;3.4;3.1;77
+38;Personenenauto's totaal;1999 4e Kwartaal;122.5;2.0;5.5;77
+39;Personenenauto's totaal;1999;118.6;;1.6;77
+40;Personenenauto's totaal;2000 1e Kwartaal;126.1;2.9;9.1;77
+41;Personenenauto's totaal;2000 2e Kwartaal;128.6;2.0;10.8;77
+42;Personenenauto's totaal;2000 3e Kwartaal;130.5;1.5;8.7;77
+43;Personenenauto's totaal;2000 4e Kwartaal;131.0;0.4;6.9;77
+44;Personenenauto's totaal;2000;129.1;;8.9;77
+45;Personenenauto's totaal;2001 1e Kwartaal;130.6;-0.3;3.6;77
+46;Personenenauto's totaal;2001 2e Kwartaal;130.2;-0.3;1.2;77
+47;Personenenauto's totaal;2001 3e kwartaal;129.9;-0.2;-0.5;77
+48;Personenenauto's totaal;2001 4e kwartaal;129.4;;;77
+49;Personenenauto's totaal;2001;130.0;;;77
+50;Personenenauto's A;1997 1e Kwartaal;115.7;;;28
+51;Personenenauto's A;1997 2e Kwartaal;116.4;0.6;;28
+52;Personenenauto's A;1997 3e Kwartaal;115.9;-0.4;;28
+53;Personenenauto's A;1997 4e Kwartaal;117.4;1.3;;28
+54;Personenenauto's A;1997;116.4;;;28
+55;Personenenauto's A;1998 1e Kwartaal;115.8;-1.4;0.1;28
+56;Personenenauto's A;1998 2e Kwartaal;115.9;0.1;-0.4;28
+57;Personenenauto's A;1998 3e Kwartaal;114.9;-0.9;-0.9;28
+58;Personenenauto's A;1998 4e Kwartaal;114.0;-0.8;-2.9;28
+59;Personenenauto's A;1998;115.2;;-1.0;28
+60;Personenenauto's A;1999 1e Kwartaal;113.7;-0.3;-1.8;28
+61;Personenenauto's A;1999 2e Kwartaal;113.9;0.2;-1.7;28
+62;Personenenauto's A;1999 3e Kwartaal;117.6;3.2;2.3;28
+63;Personenenauto's A;1999 4e Kwartaal;120.3;2.3;5.5;28
+64;Personenenauto's A;1999;116.4;;1.0;28
+65;Personenenauto's A;2000 1e Kwartaal;123.7;2.8;8.8;28
+66;Personenenauto's A;2000 2e Kwartaal;125.8;1.7;10.4;28
+67;Personenenauto's A;2000 3e Kwartaal;127.3;1.2;8.2;28
+68;Personenenauto's A;2000 4e Kwartaal;128.8;1.2;7.1;28
+69;Personenenauto's A;2000;126.4;;8.6;28
+70;Personenenauto's A;2001 1e Kwartaal;129.0;0.2;4.3;28
+71;Personenenauto's A;2001 2e Kwartaal;128.0;-0.8;1.7;28
+72;Personenenauto's A;2001 3e kwartaal;127.3;-0.5;0.0;28
+73;Personenenauto's A;2001 4e kwartaal;126.8;;;28
+74;Personenenauto's A;2001;127.8;;;28
+75;Personenenauto's B;1997 1e Kwartaal;113.8;;;34
+76;Personenenauto's B;1997 2e Kwartaal;114.9;1.0;;34
+77;Personenenauto's B;1997 3e Kwartaal;114.5;-0.3;;34
+78;Personenenauto's B;1997 4e Kwartaal;115.6;1.0;;34
+79;Personenenauto's B;1997;114.7;;;34
+80;Personenenauto's B;1998 1e Kwartaal;115.8;0.2;1.8;34
+81;Personenenauto's B;1998 2e Kwartaal;116.9;0.9;1.7;34
+82;Personenenauto's B;1998 3e Kwartaal;116.1;-0.7;1.4;34
+83;Personenenauto's B;1998 4e Kwartaal;115.5;-0.5;-0.1;34
+84;Personenenauto's B;1998;116.0;;1.1;34
+85;Personenenauto's B;1999 1e Kwartaal;114.9;-0.5;-0.8;34
+86;Personenenauto's B;1999 2e Kwartaal;115.7;0.7;-1.0;34
+87;Personenenauto's B;1999 3e Kwartaal;119.9;3.6;3.3;34
+88;Personenenauto's B;1999 4e Kwartaal;122.3;2.0;5.9;34
+89;Personenenauto's B;1999;118.2;;1.9;34
+90;Personenenauto's B;2000 1e Kwartaal;125.6;2.7;9.3;34
+91;Personenenauto's B;2000 2e Kwartaal;129.1;2.8;11.6;34
+92;Personenenauto's B;2000 3e Kwartaal;131.5;1.9;9.7;34
+93;Personenenauto's B;2000 4e Kwartaal;131.5;0.0;7.5;34
+94;Personenenauto's B;2000;129.4;;9.5;34
+95;Personenenauto's B;2001 1e Kwartaal;130.7;-0.6;4.1;34
+96;Personenenauto's B;2001 2e Kwartaal;130.3;-0.3;0.9;34
+97;Personenenauto's B;2001 3e kwartaal;130.3;0.0;-0.9;34
+98;Personenenauto's B;2001 4e kwartaal;130.0;;;34
+99;Personenenauto's B;2001;130.3;;;34
+100;Personenenauto's C;1997 1e Kwartaal;116.9;;;15
+101;Personenenauto's C;1997 2e Kwartaal;118.7;1.5;;15
+102;Personenenauto's C;1997 3e Kwartaal;118.7;0.0;;15
+103;Personenenauto's C;1997 4e Kwartaal;119.7;0.8;;15
+104;Personenenauto's C;1997;118.5;;;15
+105;Personenenauto's C;1998 1e Kwartaal;119.5;-0.2;2.2;15
+106;Personenenauto's C;1998 2e Kwartaal;122.1;2.2;2.9;15
+107;Personenenauto's C;1998 3e Kwartaal;120.7;-1.1;1.7;15
+108;Personenenauto's C;1998 4e Kwartaal;121.6;0.7;1.6;15
+109;Personenenauto's C;1998;121.0;;2.1;15
+110;Personenenauto's C;1999 1e Kwartaal;120.9;-0.6;1.2;15
+111;Personenenauto's C;1999 2e Kwartaal;121.1;0.2;-0.8;15
+112;Personenenauto's C;1999 3e Kwartaal;125.4;3.6;3.9;15
+113;Personenenauto's C;1999 4e Kwartaal;127.3;1.5;4.7;15
+114;Personenenauto's C;1999;123.7;;2.2;15
+115;Personenenauto's C;2000 1e Kwartaal;131.4;3.2;8.7;15
+116;Personenenauto's C;2000 2e Kwartaal;132.9;1.1;9.7;15
+117;Personenenauto's C;2000 3e Kwartaal;134.3;1.1;7.1;15
+118;Personenenauto's C;2000 4e Kwartaal;134.1;-0.1;5.3;15
+119;Personenenauto's C;2000;133.2;;7.7;15
+120;Personenenauto's C;2001 1e Kwartaal;133.6;-0.4;1.7;15
+121;Personenenauto's C;2001 2e Kwartaal;134.3;0.5;1.1;15
+122;Personenenauto's C;2001 3e kwartaal;134.0;-0.2;-0.2;15
+123;Personenenauto's C;2001 4e kwartaal;132.7;;;15
+124;Personenenauto's C;2001;133.7;;;15
+125;Bestelauto's;1997 1e Kwartaal;103.8;;;10
+126;Bestelauto's;1997 2e Kwartaal;105.8;1.9;;10
+127;Bestelauto's;1997 3e Kwartaal;105.8;0.0;;10
+128;Bestelauto's;1997 4e Kwartaal;106.3;0.5;;10
+129;Bestelauto's;1997;105.4;;;10
+130;Bestelauto's;1998 1e Kwartaal;103.3;-2.8;-0.5;10
+131;Bestelauto's;1998 2e Kwartaal;105.9;2.5;0.1;10
+132;Bestelauto's;1998 3e Kwartaal;96.1;-9.3;-9.2;10
+133;Bestelauto's;1998 4e Kwartaal;100.7;4.8;-5.3;10
+134;Bestelauto's;1998;101.5;;-3.7;10
+135;Bestelauto's;1999 1e Kwartaal;100.1;-0.6;-3.1;10
+136;Bestelauto's;1999 2e Kwartaal;100.7;0.6;-4.9;10
+137;Bestelauto's;1999 3e Kwartaal;102.9;2.2;7.1;10
+138;Bestelauto's;1999 4e Kwartaal;102.4;-0.5;1.7;10
+139;Bestelauto's;1999;101.5;;0.0;10
+140;Bestelauto's;2000 1e Kwartaal;104.7;2.2;4.6;10
+141;Bestelauto's;2000 2e Kwartaal;105.6;0.9;4.9;10
+142;Bestelauto's;2000 3e Kwartaal;107.4;1.7;4.4;10
+143;Bestelauto's;2000 4e Kwartaal;106.2;-1.1;3.7;10
+144;Bestelauto's;2000;106.0;;4.4;10
+145;Bestelauto's;2001 1e Kwartaal;107.3;1.0;2.5;10
+146;Bestelauto's;2001 2e Kwartaal;107.5;0.2;1.8;10
+147;Bestelauto's;2001 3e kwartaal;106.4;-1.0;-0.9;10
+148;Bestelauto's;2001 4e kwartaal;105.9;;;10
+149;Bestelauto's;2001;106.8;;;10
+150;Vrachtauto's;1997 1e Kwartaal;107.3;;;13
+151;Vrachtauto's;1997 2e Kwartaal;107.0;-0.3;;13
+152;Vrachtauto's;1997 3e Kwartaal;106.7;-0.3;;13
+153;Vrachtauto's;1997 4e Kwartaal;106.9;0.2;;13
+154;Vrachtauto's;1997;107.0;;;13
+155;Vrachtauto's;1998 1e Kwartaal;108.2;1.2;0.8;13
+156;Vrachtauto's;1998 2e Kwartaal;112.2;3.7;4.9;13
+157;Vrachtauto's;1998 3e Kwartaal;110.2;-1.8;3.3;13
+158;Vrachtauto's;1998 4e Kwartaal;109.7;-0.5;2.6;13
+159;Vrachtauto's;1998;110.1;;2.9;13
+160;Vrachtauto's;1999 1e Kwartaal;109.9;0.2;1.6;13
+161;Vrachtauto's;1999 2e Kwartaal;110.3;0.4;-1.7;13
+162;Vrachtauto's;1999 3e Kwartaal;110.9;0.5;0.6;13
+163;Vrachtauto's;1999 4e Kwartaal;110.1;-0.7;0.4;13
+164;Vrachtauto's;1999;110.3;;0.2;13
+165;Vrachtauto's;2000 1e Kwartaal;111.4;1.2;1.4;13
+166;Vrachtauto's;2000 2e Kwartaal;111.9;0.4;1.5;13
+167;Vrachtauto's;2000 3e Kwartaal;111.8;-0.1;0.8;13
+168;Vrachtauto's;2000 4e Kwartaal;113.7;1.7;3.3;13
+169;Vrachtauto's;2000;112.2;;1.7;13
+170;Vrachtauto's;2001 1e Kwartaal;112.0;-1.5;0.5;13
+171;Vrachtauto's;2001 2e Kwartaal;111.7;-0.3;-0.2;13
+172;Vrachtauto's;2001 3e kwartaal;110.9;-0.7;-0.8;13
+173;Vrachtauto's;2001 4e kwartaal;110.2;;;13
+174;Vrachtauto's;2001;111.2;;;13

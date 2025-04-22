@@ -1,0 +1,409 @@
+﻿ID;Bedrijfsklassen;BewerkingsEnVerwerkingsmethoden;Perioden;TotaalBedrijfsafvalstoffen_1;TotaalNietChemischAfval_2;Metaalafval_3;TotaalNietMetaalafval_4;Glas_5;PapierKarton_6;KunststoffenRubber_7;Hout_8;TextielLeder_9;DierlijkPlantaardigAfval_10;GemengdAfval_11;Slib_12;MineralenSteenachtigAfval_13;OverigNietChemischAfval_14;ChemischAfval_15;TotaalHergebruikEnEindverwerking_16;TotaalHergebruik_17;InzetAlsBrandstof_18;OverigHergebruik_19;TotaalEindverwerking_20;Verbranden_21;Storten_22;ScheidenAchteraf_23;k_1OfMeerWerknemers_24;k_1Tot10Werknemers_25;k_10Tot20Werknemers_26;k_20Tot50Werknemers_27;k_50Tot100Werknemers_28;k_100Tot200Werknemers_29;k_200Tot500Werknemers_30;k_500OfMeerWerknemers_31
+0;C t/m E Nijverheid (geen bouwnijverheid);Totaal hergebruik en eindverwerking;2004;19156;17934;734;1642;75;822;205;498;42;6595;1257;751;6939;16;1223;19156;17052;890;16162;2104;797;866;441;19156;758.0;533.0;1038.0;864.0;1239.0;5328.0;9396.0
+1;C t/m E Nijverheid (geen bouwnijverheid);Totaal hergebruik en eindverwerking;2005;18766;17515;740;1650;77;818;207;507;41;6452;1244;723;6690;16;1252;18766;16673;810;15863;2093;773;897;423;18766;;;;;;;
+2;C t/m E Nijverheid (geen bouwnijverheid);Totaal hergebruik en eindverwerking;2006;18506;17255;790;1694;79;869;204;494;47;6551;1282;735;6176;28;1251;18506;16250;874;15376;2255;803;1021;431;18506;694.0;459.0;1071.0;1006.0;1253.0;5996.0;8027.0
+3;C t/m E Nijverheid (geen bouwnijverheid);Totaal hergebruik en eindverwerking;2007;18910;17574;811;1705;79;874;190;516;46;6615;1252;754;6409;29;1336;18910;16715;863;15852;2195;798;1009;388;18910;;;;;;;
+4;C t/m E Nijverheid (geen bouwnijverheid);Hergebruik;2004;17052;16035;713;1478;33;783;182;468;12;6476;296;598;6462;12;1018;17052;17052;890;16162;0;0;0;0;17052;447.0;334.0;819.0;602.0;1038.0;4828.0;8985.0
+5;C t/m E Nijverheid (geen bouwnijverheid);Hergebruik;2005;16673;15616;718;1485;34;779;183;476;12;6333;278;581;6209;12;1057;16673;16673;810;15863;0;0;0;0;16673;;;;;;;
+6;C t/m E Nijverheid (geen bouwnijverheid);Hergebruik;2006;16250;15271;763;1562;34;858;186;468;17;6384;333;616;5597;15;980;16250;16250;874;15376;0;0;0;0;16250;429.0;287.0;792.0;697.0;1130.0;5398.0;7517.0
+7;C t/m E Nijverheid (geen bouwnijverheid);Hergebruik;2007;16715;15677;785;1571;34;864;172;484;17;6446;340;640;5878;16;1038;16715;16715;863;15852;0;0;0;0;16715;;;;;;;
+8;C t/m E Nijverheid (geen bouwnijverheid);Eindverwerking;2004;2104;1898;22;164;42;38;23;30;30;119;961;152;477;3;206;2104;0;0;0;2104;797;866;441;2104;311.0;199.0;219.0;262.0;201.0;501.0;411.0
+9;C t/m E Nijverheid (geen bouwnijverheid);Eindverwerking;2005;2093;1899;22;166;43;39;23;31;29;120;966;142;481;3;194;2093;0;0;0;2093;773;897;423;2093;;;;;;;
+10;C t/m E Nijverheid (geen bouwnijverheid);Eindverwerking;2006;2255;1984;26;131;46;10;18;26;31;166;949;120;579;13;271;2255;0;0;0;2255;803;1021;431;2255;265.0;172.0;279.0;309.0;122.0;598.0;510.0
+11;C t/m E Nijverheid (geen bouwnijverheid);Eindverwerking;2007;2195;1897;26;135;46;11;18;32;28;169;911;113;530;13;298;2195;0;0;0;2195;798;1009;388;2195;;;;;;;
+12;C Winning van delfstoffen;Totaal hergebruik en eindverwerking;2004;275;266;3;2;0;1;1;1;0;1;7;1;252;0;9;275;225;0;225;49;5;12;32;275;1.0;1.0;2.0;64.0;13.0;19.0;174.0
+13;C Winning van delfstoffen;Totaal hergebruik en eindverwerking;2005;229;221;3;2;0;1;0;1;0;0;6;1;208;0;9;229;193;0;193;36;5;21;11;229;;;;;;;
+14;C Winning van delfstoffen;Totaal hergebruik en eindverwerking;2006;203;195;2;3;0;1;1;1;0;0;6;1;184;0;8;203;152;0;152;52;4;20;28;203;1.0;1.0;1.0;106.0;12.0;4.0;79.0
+15;C Winning van delfstoffen;Totaal hergebruik en eindverwerking;2007;217;162;2;3;0;1;1;1;0;1;6;1;150;0;55;217;121;2;119;96;2;57;36;217;;;;;;;
+16;C Winning van delfstoffen;Hergebruik;2004;225;226;3;2;0;1;1;1;0;1;0;0;220;0;0;225;225;0;225;0;0;0;0;225;1.0;1.0;1.0;64.0;1.0;13.0;144.0
+17;C Winning van delfstoffen;Hergebruik;2005;193;193;2;2;0;1;0;1;0;0;0;0;188;0;0;193;193;0;193;0;0;0;0;193;;;;;;;
+18;C Winning van delfstoffen;Hergebruik;2006;152;152;2;3;0;1;1;1;0;0;0;0;147;0;0;152;152;0;152;0;0;0;0;152;1.0;1.0;0.0;105.0;1.0;2.0;42.0
+19;C Winning van delfstoffen;Hergebruik;2007;121;121;2;3;0;1;1;1;0;1;2;0;114;0;0;121;121;2;119;0;0;0;0;121;;;;;;;
+20;C Winning van delfstoffen;Eindverwerking;2004;49;40;0;0;0;0;0;0;0;0;6;1;33;0;9;49;0;0;0;49;5;12;32;49;0.0;0.0;1.0;0.0;12.0;6.0;30.0
+21;C Winning van delfstoffen;Eindverwerking;2005;36;27;0;0;0;0;0;0;0;0;6;1;21;0;9;36;0;0;0;36;5;21;11;36;;;;;;;
+22;C Winning van delfstoffen;Eindverwerking;2006;52;44;0;0;0;0;0;0;0;0;6;1;37;0;8;52;0;0;0;52;4;20;28;52;0.0;0.0;0.0;0.0;11.0;2.0;37.0
+23;C Winning van delfstoffen;Eindverwerking;2007;96;41;0;0;0;0;0;0;0;0;4;1;36;0;55;96;0;0;0;96;2;57;36;96;;;;;;;
+24;D Industrie;Totaal hergebruik en eindverwerking;2004;17205;16012;722;1635;75;819;204;496;42;6590;1240;665;5146;14;1192;17205;15191;890;14301;2014;782;826;406;17205;756.0;532.0;1034.0;797.0;1215.0;5278.0;7592.0
+25;D Industrie;Totaal hergebruik en eindverwerking;2005;16993;15769;727;1644;77;816;205;505;41;6448;1228;626;5082;14;1224;16993;14984;810;14175;2009;759;840;410;16993;;;;;;;
+26;D Industrie;Totaal hergebruik en eindverwerking;2006;16847;15610;770;1688;79;866;202;493;47;6547;1213;625;4741;28;1237;16847;14771;874;13897;2076;792;936;348;16847;693.0;458.0;1067.0;898.0;1233.0;5501.0;6998.0
+27;D Industrie;Totaal hergebruik en eindverwerking;2007;17178;15906;803;1699;79;872;189;514;46;6611;1237;652;4876;29;1272;17178;15127;862;14265;2051;787;914;351;17178;;;;;;;
+28;D Industrie;Hergebruik;2004;15191;14188;701;1472;33;781;181;466;12;6471;295;534;4703;12;1002;15191;15191;890;14301;0;0;0;0;15191;446.0;333.0;817.0;536.0;1029.0;4790.0;7240.0
+29;D Industrie;Hergebruik;2005;14984;13940;707;1479;34;776;182;474;12;6328;278;514;4623;12;1044;14984;14984;810;14175;0;0;0;0;14984;;;;;;;
+30;D Industrie;Hergebruik;2006;14771;13793;744;1556;34;856;184;466;17;6380;333;535;4230;15;979;14771;14771;874;13897;0;0;0;0;14771;428.0;286.0;789.0;589.0;1122.0;4918.0;6639.0
+31;D Industrie;Hergebruik;2007;15127;14092;776;1565;34;861;170;482;17;6443;338;567;4387;16;1034;15127;15127;862;14265;0;0;0;0;15127;;;;;;;
+32;D Industrie;Eindverwerking;2004;2014;1824;21;163;42;38;23;30;30;119;945;131;443;2;190;2014;0;0;0;2014;782;826;406;2014;311.0;199.0;217.0;261.0;186.0;487.0;352.0
+33;D Industrie;Eindverwerking;2005;2009;1829;21;165;43;39;23;30;29;120;950;112;459;2;179;2009;0;0;0;2009;759;840;410;2009;;;;;;;
+34;D Industrie;Eindverwerking;2006;2076;1818;26;131;46;10;18;26;31;166;880;90;511;13;258;2076;0;0;0;2076;792;936;348;2076;265.0;172.0;278.0;309.0;111.0;583.0;359.0
+35;D Industrie;Eindverwerking;2007;2051;1814;26;134;46;11;18;32;28;168;898;85;489;13;237;2051;0;0;0;2051;787;914;351;2051;;;;;;;
+36;DA VV voedings- en genotmiddelen;Totaal hergebruik en eindverwerking;2004;8438;8311;13;134;22;82;15;16;0;6419;305;488;948;4;127;8438;8007;491;7516;431;209;135;87;8438;157.0;141.0;499.0;193.0;625.0;3350.0;3472.0
+37;DA VV voedings- en genotmiddelen;Totaal hergebruik en eindverwerking;2005;8070;7945;14;137;24;82;15;16;0;6274;283;470;763;4;125;8070;7655;373;7283;415;188;139;87;8070;;;;;;;
+38;DA VV voedings- en genotmiddelen;Totaal hergebruik en eindverwerking;2006;8078;8011;24;138;21;87;19;9;0;6442;233;474;700;0;65;8078;7711;399;7313;366;174;147;43;8078;121.0;88.0;347.0;245.0;632.0;3824.0;2818.0
+39;DA VV voedings- en genotmiddelen;Totaal hergebruik en eindverwerking;2007;8205;8125;25;142;21;90;19;10;0;6500;240;512;708;0;79;8205;7839;373;7465;368;179;142;45;8205;;;;;;;
+40;DA VV voedings- en genotmiddelen;Hergebruik;2004;8007;7884;13;133;22;80;14;14;0;6356;133;364;881;4;125;8007;8007;491;7516;0;0;0;0;8007;122.0;117.0;446.0;155.0;582.0;3249.0;3341.0
+41;DA VV voedings- en genotmiddelen;Hergebruik;2005;7655;7531;14;133;24;80;14;15;0;6209;113;363;695;4;123;7655;7655;373;7283;0;0;0;0;7655;;;;;;;
+42;DA VV voedings- en genotmiddelen;Hergebruik;2006;7711;7648;24;138;21;87;19;9;0;6331;104;422;627;0;63;7711;7711;399;7313;0;0;0;0;7711;104.0;76.0;292.0;212.0;604.0;3718.0;2707.0
+43;DA VV voedings- en genotmiddelen;Hergebruik;2007;7839;7762;25;142;21;89;19;9;0;6389;105;460;640;0;77;7839;7839;373;7465;0;0;0;0;7839;;;;;;;
+44;DA VV voedings- en genotmiddelen;Eindverwerking;2004;431;428;0;3;0;2;1;0;0;65;168;125;67;0;2;431;0;0;0;431;209;135;87;431;35.0;26.0;54.0;38.0;44.0;103.0;132.0
+45;DA VV voedings- en genotmiddelen;Eindverwerking;2005;415;412;0;3;0;2;1;0;0;65;169;107;68;0;2;415;0;0;0;415;188;139;87;415;;;;;;;
+46;DA VV voedings- en genotmiddelen;Eindverwerking;2006;366;364;0;0;0;0;0;0;0;111;131;50;73;0;2;366;0;0;0;366;174;147;43;366;19.0;11.0;56.0;32.0;27.0;107.0;112.0
+47;DA VV voedings- en genotmiddelen;Eindverwerking;2007;368;366;0;0;0;0;0;0;0;111;134;50;68;0;2;368;0;0;0;368;179;142;45;368;;;;;;;
+48;15 VV voedingsmiddelen en dranken;Totaal hergebruik en eindverwerking;2004;8413;8288;13;120;22;69;15;15;0;6414;301;488;948;4;127;8413;7986;490;7496;426;205;135;86;8413;157.0;141.0;499.0;193.0;625.0;3348.0;3451.0
+49;15 VV voedingsmiddelen en dranken;Totaal hergebruik en eindverwerking;2005;8046;7922;14;124;24;70;15;15;0;6269;279;470;762;4;125;8046;7635;372;7263;410;185;139;87;8046;;;;;;;
+50;15 VV voedingsmiddelen en dranken;Totaal hergebruik en eindverwerking;2006;8056;7989;23;123;21;74;19;8;0;6439;230;474;700;0;65;8056;7692;398;7295;363;172;147;43;8056;121.0;88.0;347.0;245.0;632.0;3822.0;2799.0
+51;15 VV voedingsmiddelen en dranken;Totaal hergebruik en eindverwerking;2007;8184;8104;24;127;21;77;19;9;0;6497;237;512;708;0;79;8184;7820;372;7448;365;177;142;45;8184;;;;;;;
+52;15 VV voedingsmiddelen en dranken;Hergebruik;2004;7986;7865;13;119;22;67;14;13;0;6351;133;364;881;4;125;7986;7986;490;7496;0;0;0;0;7986;122.0;117.0;446.0;155.0;582.0;3247.0;3323.0
+53;15 VV voedingsmiddelen en dranken;Hergebruik;2005;7635;7513;14;120;24;68;14;14;0;6204;113;363;695;4;123;7635;7635;372;7263;0;0;0;0;7635;;;;;;;
+54;15 VV voedingsmiddelen en dranken;Hergebruik;2006;7692;7629;23;123;21;74;19;8;0;6328;104;422;627;0;63;7692;7692;398;7295;0;0;0;0;7692;104.0;76.0;292.0;212.0;604.0;3716.0;2690.0
+55;15 VV voedingsmiddelen en dranken;Hergebruik;2007;7820;7743;24;127;21;76;19;8;0;6386;105;460;640;0;77;7820;7820;372;7448;0;0;0;0;7820;;;;;;;
+56;15 VV voedingsmiddelen en dranken;Eindverwerking;2004;426;423;0;3;0;2;1;0;0;64;164;125;67;0;2;426;0;0;0;426;205;135;86;426;35.0;26.0;54.0;38.0;44.0;103.0;129.0
+57;15 VV voedingsmiddelen en dranken;Eindverwerking;2005;410;409;0;3;0;2;1;0;0;65;166;107;68;0;2;410;0;0;0;410;185;139;87;410;;;;;;;
+58;15 VV voedingsmiddelen en dranken;Eindverwerking;2006;363;361;0;0;0;0;0;0;0;111;128;50;73;0;2;363;0;0;0;363;172;147;43;363;19.0;11.0;56.0;32.0;27.0;107.0;110.0
+59;15 VV voedingsmiddelen en dranken;Eindverwerking;2007;365;363;0;0;0;0;0;0;0;111;131;50;68;0;2;365;0;0;0;365;177;142;45;365;;;;;;;
+60;151Slachterijen en vleesverwerking;Totaal hergebruik en eindverwerking;2004;943;943;1;7;0;6;2;0;0;773;33;129;0;0;0;943;831;448;383;112;97;6;9;943;101.0;100.0;148.0;81.0;163.0;244.0;106.0
+61;151Slachterijen en vleesverwerking;Totaal hergebruik en eindverwerking;2005;890;890;1;7;0;6;2;0;0;712;33;136;0;0;0;890;793;327;466;97;82;6;9;890;;;;;;;
+62;151Slachterijen en vleesverwerking;Totaal hergebruik en eindverwerking;2006;866;866;2;12;0;7;4;1;0;676;26;150;0;0;0;866;789;318;471;77;55;11;11;866;85.0;62.0;99.0;88.0;167.0;177.0;188.0
+63;151Slachterijen en vleesverwerking;Totaal hergebruik en eindverwerking;2007;886;886;2;12;0;7;4;1;0;690;27;155;0;0;0;886;808;287;521;79;56;11;11;886;;;;;;;
+64;151Slachterijen en vleesverwerking;Hergebruik;2004;831;832;1;7;0;5;1;0;0;758;3;63;0;0;0;831;831;448;383;0;0;0;0;831;95.0;95.0;119.0;75.0;149.0;199.0;100.0
+65;151Slachterijen en vleesverwerking;Hergebruik;2005;793;793;1;7;0;6;1;0;0;696;3;86;0;0;0;793;793;327;466;0;0;0;0;793;;;;;;;
+66;151Slachterijen en vleesverwerking;Hergebruik;2006;789;789;2;12;0;7;4;1;0;646;0;128;0;0;0;789;789;318;471;0;0;0;0;789;82.0;60.0;83.0;76.0;164.0;154.0;170.0
+67;151Slachterijen en vleesverwerking;Hergebruik;2007;808;808;2;12;0;7;4;1;0;660;0;133;0;0;0;808;808;287;521;0;0;0;0;808;;;;;;;
+68;151Slachterijen en vleesverwerking;Eindverwerking;2004;112;113;0;1;0;0;1;0;0;16;30;66;0;0;0;112;0;0;0;112;97;6;9;112;6.0;6.0;29.0;6.0;14.0;45.0;7.0
+69;151Slachterijen en vleesverwerking;Eindverwerking;2005;97;97;0;1;0;0;1;0;0;16;30;51;0;0;0;97;0;0;0;97;82;6;9;97;;;;;;;
+70;151Slachterijen en vleesverwerking;Eindverwerking;2006;77;77;0;0;0;0;0;0;0;29;26;21;0;0;0;77;0;0;0;77;55;11;11;77;3.0;3.0;16.0;12.0;2.0;23.0;18.0
+71;151Slachterijen en vleesverwerking;Eindverwerking;2007;79;79;0;0;0;0;0;0;0;30;26;22;0;0;0;79;0;0;0;79;56;11;11;79;;;;;;;
+72;152 Visverwerking;Totaal hergebruik en eindverwerking;2004;34;35;0;2;0;2;0;0;0;27;5;1;0;0;0;34;28;0;28;6;2;3;1;34;2.0;2.0;3.0;8.0;11.0;9.0;0.0
+73;152 Visverwerking;Totaal hergebruik en eindverwerking;2005;33;33;0;2;0;2;0;0;0;26;4;1;0;0;0;33;27;0;27;6;2;2;1;33;;;;;;;
+74;152 Visverwerking;Totaal hergebruik en eindverwerking;2006;30;30;0;3;0;3;0;0;0;21;3;3;0;0;0;30;26;1;25;4;3;1;0;30;2.0;2.0;3.0;8.0;10.0;5.0;0.0
+75;152 Visverwerking;Totaal hergebruik en eindverwerking;2007;29;29;0;3;0;3;0;0;0;21;2;3;0;0;0;29;25;1;24;4;3;1;0;29;;;;;;;
+76;152 Visverwerking;Hergebruik;2004;28;29;0;2;0;1;0;0;0;26;0;1;0;0;0;28;28;0;28;0;0;0;0;28;1.0;1.0;1.0;7.0;9.0;9.0;0.0
+77;152 Visverwerking;Hergebruik;2005;27;27;0;2;0;1;0;0;0;25;0;1;0;0;0;27;27;0;27;0;0;0;0;27;;;;;;;
+78;152 Visverwerking;Hergebruik;2006;26;26;0;3;0;3;0;0;0;21;0;2;0;0;0;26;26;1;25;0;0;0;0;26;2.0;1.0;3.0;7.0;9.0;5.0;0.0
+79;152 Visverwerking;Hergebruik;2007;25;25;0;3;0;3;0;0;0;20;0;2;0;0;0;25;25;1;24;0;0;0;0;25;;;;;;;
+80;152 Visverwerking;Eindverwerking;2004;6;7;0;1;0;1;0;0;0;1;5;0;0;0;0;6;0;0;0;6;2;3;1;6;1.0;1.0;2.0;1.0;2.0;1.0;0.0
+81;152 Visverwerking;Eindverwerking;2005;6;6;0;1;0;1;0;0;0;1;4;0;0;0;0;6;0;0;0;6;2;2;1;6;;;;;;;
+82;152 Visverwerking;Eindverwerking;2006;4;4;0;0;0;0;0;0;0;1;3;1;0;0;0;4;0;0;0;4;3;1;0;4;1.0;0.0;1.0;1.0;1.0;0.0;0.0
+83;152 Visverwerking;Eindverwerking;2007;4;4;0;0;0;0;0;0;0;1;2;1;0;0;0;4;0;0;0;4;3;1;0;4;;;;;;;
+84;1530a Verwerking van groente, fruit, ..;Totaal hergebruik en eindverwerking;2004;3848;3843;2;16;0;12;2;2;0;3516;21;185;99;4;5;3848;3765;8;3757;83;25;41;17;3848;5.0;8.0;157.0;67.0;174.0;2957.0;480.0
+85;1530a Verwerking van groente, fruit, ..;Totaal hergebruik en eindverwerking;2005;3904;3899;2;16;0;12;2;2;0;3588;21;170;99;4;5;3904;3825;8;3817;79;17;46;17;3904;;;;;;;
+86;1530a Verwerking van groente, fruit, ..;Totaal hergebruik en eindverwerking;2006;4015;4012;3;15;0;12;2;1;0;3706;22;152;114;0;3;4015;3947;18;3930;67;23;23;21;4015;7.0;7.0;161.0;60.0;162.0;2981.0;635.0
+87;1530a Verwerking van groente, fruit, ..;Totaal hergebruik en eindverwerking;2007;4080;4077;3;16;0;12;2;1;0;3734;24;181;120;0;3;4080;4009;19;3990;71;24;24;23;4080;;;;;;;
+88;1530a Verwerking van groente, fruit, ..;Hergebruik;2004;3765;3761;2;16;0;12;2;1;0;3496;0;149;94;4;4;3765;3765;8;3757;0;0;0;0;3765;4.0;8.0;146.0;55.0;166.0;2937.0;451.0
+89;1530a Verwerking van groente, fruit, ..;Hergebruik;2005;3825;3822;2;16;0;12;2;1;0;3568;0;137;94;4;4;3825;3825;8;3817;0;0;0;0;3825;;;;;;;
+90;1530a Verwerking van groente, fruit, ..;Hergebruik;2006;3947;3946;3;15;0;12;2;1;0;3674;1;147;107;0;1;3947;3947;18;3930;0;0;0;0;3947;7.0;7.0;130.0;49.0;155.0;2967.0;633.0
+91;1530a Verwerking van groente, fruit, ..;Hergebruik;2007;4009;4008;3;16;0;12;2;1;0;3701;1;175;113;0;1;4009;4009;19;3990;0;0;0;0;4009;;;;;;;
+92;1530a Verwerking van groente, fruit, ..;Eindverwerking;2004;83;81;0;0;0;0;0;0;0;20;20;36;5;0;1;83;0;0;0;83;25;41;17;83;0.0;1.0;11.0;13.0;8.0;21.0;29.0
+93;1530a Verwerking van groente, fruit, ..;Eindverwerking;2005;79;78;0;0;0;0;0;0;0;19;20;33;5;0;1;79;0;0;0;79;17;46;17;79;;;;;;;
+94;1530a Verwerking van groente, fruit, ..;Eindverwerking;2006;67;65;0;0;0;0;0;0;0;32;22;5;7;0;2;67;0;0;0;67;23;23;21;67;1.0;0.0;31.0;11.0;7.0;15.0;2.0
+95;1530a Verwerking van groente, fruit, ..;Eindverwerking;2007;71;69;0;0;0;0;0;0;0;33;23;5;7;0;2;71;0;0;0;71;24;24;23;71;;;;;;;
+96;155 Vervaardiging van zuivelproducten;Totaal hergebruik en eindverwerking;2004;182;178;5;12;0;8;2;2;0;94;13;54;0;0;4;182;171;0;171;11;9;1;1;182;9.0;4.0;3.0;5.0;9.0;19.0;133.0
+97;155 Vervaardiging van zuivelproducten;Totaal hergebruik en eindverwerking;2005;174;170;5;12;0;8;2;2;0;92;13;48;0;0;4;174;163;0;163;11;9;1;1;174;;;;;;;
+98;155 Vervaardiging van zuivelproducten;Totaal hergebruik en eindverwerking;2006;190;186;11;12;0;8;2;1;0;92;14;56;0;0;3;190;178;3;175;12;10;1;1;190;4.0;1.0;3.0;11.0;7.0;22.0;143.0
+99;155 Vervaardiging van zuivelproducten;Totaal hergebruik en eindverwerking;2007;193;189;11;12;0;9;2;2;0;94;15;57;0;0;3;193;181;4;177;12;10;1;1;193;;;;;;;
+100;155 Vervaardiging van zuivelproducten;Hergebruik;2004;171;167;5;12;0;8;2;2;0;94;2;54;0;0;4;171;171;0;171;0;0;0;0;171;8.0;4.0;2.0;4.0;8.0;18.0;127.0
+101;155 Vervaardiging van zuivelproducten;Hergebruik;2005;163;159;5;12;0;8;2;2;0;92;2;48;0;0;4;163;163;0;163;0;0;0;0;163;;;;;;;
+102;155 Vervaardiging van zuivelproducten;Hergebruik;2006;178;175;11;12;0;8;2;1;0;91;5;55;0;0;3;178;178;3;175;0;0;0;0;178;3.0;1.0;2.0;9.0;6.0;21.0;136.0
+103;155 Vervaardiging van zuivelproducten;Hergebruik;2007;181;178;11;12;0;8;2;1;0;93;5;56;0;0;3;181;181;4;177;0;0;0;0;181;;;;;;;
+104;155 Vervaardiging van zuivelproducten;Eindverwerking;2004;11;10;0;0;0;0;0;0;0;0;10;0;0;0;0;11;0;0;0;11;9;1;1;11;1.0;0.0;1.0;1.0;1.0;1.0;6.0
+105;155 Vervaardiging van zuivelproducten;Eindverwerking;2005;11;11;0;0;0;0;0;0;0;0;10;0;0;0;0;11;0;0;0;11;9;1;1;11;;;;;;;
+106;155 Vervaardiging van zuivelproducten;Eindverwerking;2006;12;12;0;0;0;0;0;0;0;1;10;1;0;0;0;12;0;0;0;12;10;1;1;12;1.0;0.0;1.0;1.0;1.0;1.0;7.0
+107;155 Vervaardiging van zuivelproducten;Eindverwerking;2007;12;12;0;0;0;0;0;0;0;1;10;1;0;0;0;12;0;0;0;12;10;1;1;12;;;;;;;
+108;1560b  Meel-, diervoeder- en overige ..;Totaal hergebruik en eindverwerking;2004;2677;2561;4;45;1;30;3;10;0;1467;103;93;849;0;117;2677;2479;34;2445;198;61;80;57;2677;33.0;23.0;160.0;26.0;45.0;118.0;2273.0
+109;1560b  Meel-, diervoeder- en overige ..;Totaal hergebruik en eindverwerking;2005;2308;2192;4;46;1;31;3;10;0;1282;104;94;663;0;116;2308;2108;36;2072;200;62;80;57;2308;;;;;;;
+110;1560b  Meel-, diervoeder- en overige ..;Totaal hergebruik en eindverwerking;2006;2200;2141;5;46;1;34;6;5;0;1330;74;101;586;0;58;2200;2009;58;1951;191;72;109;10;2200;18.0;13.0;77.0;71.0;73.0;631.0;1316.0
+111;1560b  Meel-, diervoeder- en overige ..;Totaal hergebruik en eindverwerking;2007;2235;2163;6;48;1;36;6;5;0;1337;78;106;588;0;72;2235;2046;61;1985;189;76;103;10;2235;;;;;;;
+112;1560b  Meel-, diervoeder- en overige ..;Hergebruik;2004;2479;2364;4;44;1;30;3;10;0;1442;8;79;787;0;116;2479;2479;34;2445;0;0;0;0;2479;7.0;5.0;150.0;10.0;27.0;83.0;2198.0
+113;1560b  Meel-, diervoeder- en overige ..;Hergebruik;2005;2108;1993;4;44;1;30;3;10;0;1256;8;80;601;0;115;2108;2108;36;2072;0;0;0;0;2108;;;;;;;
+114;1560b  Meel-, diervoeder- en overige ..;Hergebruik;2006;2009;1951;5;46;1;34;6;5;0;1284;13;82;520;0;58;2009;2009;58;1951;0;0;0;0;2009;6.0;5.0;70.0;66.0;58.0;563.0;1241.0
+115;1560b  Meel-, diervoeder- en overige ..;Hergebruik;2007;2046;1974;6;48;1;36;6;5;0;1293;14;86;527;0;72;2046;2046;61;1985;0;0;0;0;2046;;;;;;;
+116;1560b  Meel-, diervoeder- en overige ..;Eindverwerking;2004;198;196;0;1;0;1;0;0;0;25;94;14;62;0;1;198;0;0;0;198;61;80;57;198;26.0;18.0;10.0;15.0;18.0;35.0;75.0
+117;1560b  Meel-, diervoeder- en overige ..;Eindverwerking;2005;200;199;0;1;0;1;0;0;0;26;95;14;63;0;1;200;0;0;0;200;62;80;57;200;;;;;;;
+118;1560b  Meel-, diervoeder- en overige ..;Eindverwerking;2006;191;191;0;0;0;0;0;0;0;46;61;18;66;0;0;191;0;0;0;191;72;109;10;191;12.0;8.0;7.0;5.0;15.0;68.0;76.0
+119;1560b  Meel-, diervoeder- en overige ..;Eindverwerking;2007;189;189;0;0;0;0;0;0;0;44;64;19;61;0;0;189;0;0;0;189;76;103;10;189;;;;;;;
+120;159 Vervaardiging van dranken;Totaal hergebruik en eindverwerking;2004;729;728;1;38;21;11;6;1;0;537;126;26;0;0;1;729;712;0;712;16;11;4;1;729;7.0;4.0;28.0;6.0;223.0;1.0;459.0
+121;159 Vervaardiging van dranken;Totaal hergebruik en eindverwerking;2005;736;735;1;39;22;11;6;1;0;570;104;20;0;0;1;736;719;0;719;17;12;4;1;736;;;;;;;
+122;159 Vervaardiging van dranken;Totaal hergebruik en eindverwerking;2006;755;754;2;35;20;10;5;0;0;614;91;12;0;0;1;755;743;0;743;12;9;2;0;755;5.0;3.0;4.0;7.0;213.0;6.0;517.0
+123;159 Vervaardiging van dranken;Totaal hergebruik en eindverwerking;2007;761;760;2;36;20;10;5;0;0;621;91;10;0;0;1;761;751;0;751;10;8;2;0;761;;;;;;;
+124;159 Vervaardiging van dranken;Hergebruik;2004;712;712;1;38;21;11;6;0;0;535;120;18;0;0;1;712;712;0;712;0;0;0;0;712;7.0;4.0;28.0;4.0;223.0;1.0;447.0
+125;159 Vervaardiging van dranken;Hergebruik;2005;719;718;1;39;22;11;6;0;0;568;99;11;0;0;1;719;719;0;719;0;0;0;0;719;;;;;;;
+126;159 Vervaardiging van dranken;Hergebruik;2006;743;742;2;35;20;10;5;0;0;612;85;8;0;0;1;743;743;0;743;0;0;0;0;743;4.0;2.0;4.0;5.0;212.0;6.0;510.0
+127;159 Vervaardiging van dranken;Hergebruik;2007;751;750;2;36;20;10;5;0;0;619;85;8;0;0;1;751;751;0;751;0;0;0;0;751;;;;;;;
+128;159 Vervaardiging van dranken;Eindverwerking;2004;16;16;0;0;0;0;0;0;0;2;5;9;0;0;0;16;0;0;0;16;11;4;1;16;1.0;0.0;1.0;2.0;1.0;0.0;12.0
+129;159 Vervaardiging van dranken;Eindverwerking;2005;17;17;0;0;0;0;0;0;0;2;6;9;0;0;0;17;0;0;0;17;12;4;1;17;;;;;;;
+130;159 Vervaardiging van dranken;Eindverwerking;2006;12;12;0;0;0;0;0;0;0;2;6;4;0;0;0;12;0;0;0;12;9;2;0;12;1.0;0.0;0.0;2.0;1.0;0.0;7.0
+131;159 Vervaardiging van dranken;Eindverwerking;2007;10;10;0;0;0;0;0;0;0;2;6;2;0;0;0;10;0;0;0;10;8;2;0;10;;;;;;;
+132;16 Verwerking van tabak;Totaal hergebruik en eindverwerking;2004;25;23;0;14;0;13;0;1;0;5;4;0;0;0;0;25;21;1;20;5;4;0;1;25;0.0;0.0;0.0;0.0;0.0;2.0;21.0
+133;16 Verwerking van tabak;Totaal hergebruik en eindverwerking;2005;24;24;0;14;0;13;0;1;0;5;4;0;0;0;0;24;20;1;19;4;4;0;1;24;;;;;;;
+134;16 Verwerking van tabak;Totaal hergebruik en eindverwerking;2006;22;22;1;15;0;13;0;1;0;3;3;0;0;0;0;22;19;1;18;3;2;0;0;22;0.0;0.0;0.0;0.0;0.0;2.0;19.0
+135;16 Verwerking van tabak;Totaal hergebruik en eindverwerking;2007;21;21;1;15;0;13;0;1;0;3;3;0;0;0;0;21;19;1;17;3;2;0;0;21;;;;;;;
+136;16 Verwerking van tabak;Hergebruik;2004;21;19;0;14;0;13;0;1;0;5;0;0;0;0;0;21;21;1;20;0;0;0;0;21;0.0;0.0;0.0;0.0;0.0;2.0;18.0
+137;16 Verwerking van tabak;Hergebruik;2005;20;20;0;14;0;13;0;1;0;5;0;0;0;0;0;20;20;1;19;0;0;0;0;20;;;;;;;
+138;16 Verwerking van tabak;Hergebruik;2006;19;19;1;15;0;13;0;1;0;3;0;0;0;0;0;19;19;1;18;0;0;0;0;19;0.0;0.0;0.0;0.0;0.0;2.0;17.0
+139;16 Verwerking van tabak;Hergebruik;2007;19;19;1;15;0;13;0;1;0;3;0;0;0;0;0;19;19;1;17;0;0;0;0;19;;;;;;;
+140;16 Verwerking van tabak;Eindverwerking;2004;5;5;0;0;0;0;0;0;0;1;4;0;0;0;0;5;0;0;0;5;4;0;1;5;0.0;0.0;0.0;0.0;0.0;0.0;3.0
+141;16 Verwerking van tabak;Eindverwerking;2005;4;4;0;0;0;0;0;0;0;1;4;0;0;0;0;4;0;0;0;4;4;0;1;4;;;;;;;
+142;16 Verwerking van tabak;Eindverwerking;2006;3;3;0;0;0;0;0;0;0;0;3;0;0;0;0;3;0;0;0;3;2;0;0;3;0.0;0.0;0.0;0.0;0.0;0.0;2.0
+143;16 Verwerking van tabak;Eindverwerking;2007;3;3;0;0;0;0;0;0;0;0;3;0;0;0;0;3;0;0;0;3;2;0;0;3;;;;;;;
+144;1700a Textiel, kleding en ..;Totaal hergebruik en eindverwerking;2004;72;67;1;54;0;5;4;9;37;0;12;0;0;0;4;72;27;3;24;46;37;8;1;72;18.0;6.0;14.0;13.0;12.0;8.0;0.0
+145;1700a Textiel, kleding en ..;Totaal hergebruik en eindverwerking;2005;77;66;1;53;0;5;3;9;36;0;12;0;0;0;11;77;28;3;25;49;36;13;1;77;;;;;;;
+146;1700a Textiel, kleding en ..;Totaal hergebruik en eindverwerking;2006;81;72;1;58;0;9;1;4;45;0;12;0;0;0;9;81;31;3;28;50;44;1;4;81;33.0;16.0;3.0;4.0;15.0;8.0;0.0
+147;1700a Textiel, kleding en ..;Totaal hergebruik en eindverwerking;2007;83;70;1;57;0;9;1;4;43;0;12;0;0;0;12;83;32;3;29;51;45;1;4;83;;;;;;;
+148;1700a Textiel, kleding en ..;Hergebruik;2004;27;25;1;24;0;5;3;9;7;0;0;0;0;0;1;27;27;3;24;0;0;0;0;27;0.0;0.0;3.0;10.0;6.0;6.0;0.0
+149;1700a Textiel, kleding en ..;Hergebruik;2005;28;24;1;23;0;5;3;8;6;0;0;0;0;0;3;28;28;3;25;0;0;0;0;28;;;;;;;
+150;1700a Textiel, kleding en ..;Hergebruik;2006;31;30;1;27;0;9;1;4;14;0;1;0;0;0;1;31;31;3;28;0;0;0;0;31;6.0;2.0;2.0;3.0;11.0;7.0;0.0
+151;1700a Textiel, kleding en ..;Hergebruik;2007;32;31;1;28;0;9;1;4;14;0;1;0;0;0;1;32;32;3;29;0;0;0;0;32;;;;;;;
+152;1700a Textiel, kleding en ..;Eindverwerking;2004;46;42;0;30;0;0;0;0;30;0;12;0;0;0;3;46;0;0;0;46;37;8;1;46;18.0;6.0;11.0;2.0;6.0;2.0;0.0
+153;1700a Textiel, kleding en ..;Eindverwerking;2005;49;42;0;30;0;0;0;0;29;0;12;0;0;0;8;49;0;0;0;49;36;13;1;49;;;;;;;
+154;1700a Textiel, kleding en ..;Eindverwerking;2006;50;42;0;31;0;0;0;0;31;0;11;0;0;0;8;50;0;0;0;50;44;1;4;50;27.0;15.0;1.0;1.0;4.0;1.0;0.0
+155;1700a Textiel, kleding en ..;Eindverwerking;2007;51;40;0;29;0;0;0;0;28;0;11;0;0;0;11;51;0;0;0;51;45;1;4;51;;;;;;;
+156;20 Houtindustrie en vervaardiging van ..;Totaal hergebruik en eindverwerking;2004;237;236;1;216;1;3;1;212;0;0;18;0;1;0;0;237;203;65;138;34;21;9;4;237;61.0;37.0;66.0;40.0;11.0;22.0;0.0
+157;20 Houtindustrie en vervaardiging van ..;Totaal hergebruik en eindverwerking;2005;247;247;1;225;1;3;1;221;0;0;19;0;2;0;0;247;212;69;143;35;22;9;4;247;;;;;;;
+158;20 Houtindustrie en vervaardiging van ..;Totaal hergebruik en eindverwerking;2006;260;260;2;233;0;4;1;228;0;2;17;0;7;0;0;260;234;83;151;26;22;3;1;260;45.0;28.0;102.0;42.0;30.0;14.0;0.0
+159;20 Houtindustrie en vervaardiging van ..;Totaal hergebruik en eindverwerking;2007;264;264;2;237;0;4;1;232;0;2;17;0;7;0;0;264;238;87;151;26;22;4;1;264;;;;;;;
+160;20 Houtindustrie en vervaardiging van ..;Hergebruik;2004;203;202;1;201;1;3;1;198;0;0;0;0;0;0;0;203;203;65;138;0;0;0;0;203;52.0;32.0;60.0;30.0;9.0;19.0;0.0
+161;20 Houtindustrie en vervaardiging van ..;Hergebruik;2005;212;212;1;210;1;3;1;206;0;0;0;0;0;0;0;212;212;69;143;0;0;0;0;212;;;;;;;
+162;20 Houtindustrie en vervaardiging van ..;Hergebruik;2006;234;234;2;227;0;4;1;222;0;1;0;0;5;0;0;234;234;83;151;0;0;0;0;234;35.0;22.0;98.0;39.0;28.0;12.0;0.0
+163;20 Houtindustrie en vervaardiging van ..;Hergebruik;2007;238;238;2;231;0;4;1;226;0;1;0;0;5;0;0;238;238;87;151;0;0;0;0;238;;;;;;;
+164;20 Houtindustrie en vervaardiging van ..;Eindverwerking;2004;34;33;0;14;0;0;0;14;0;0;18;0;1;0;0;34;0;0;0;34;21;9;4;34;9.0;5.0;6.0;10.0;1.0;3.0;0.0
+165;20 Houtindustrie en vervaardiging van ..;Eindverwerking;2005;35;35;0;15;0;0;0;15;0;0;19;0;1;0;0;35;0;0;0;35;22;9;4;35;;;;;;;
+166;20 Houtindustrie en vervaardiging van ..;Eindverwerking;2006;26;26;0;6;0;0;0;6;0;0;17;0;2;0;0;26;0;0;0;26;22;3;1;26;10.0;6.0;4.0;2.0;2.0;2.0;0.0
+167;20 Houtindustrie en vervaardiging van ..;Eindverwerking;2007;26;26;0;6;0;0;0;6;0;0;17;0;1;0;0;26;0;0;0;26;22;4;1;26;;;;;;;
+168;"DE VV pulp, papier en papierwaren; ..";Totaal hergebruik en eindverwerking;2004;1182;985;12;637;0;594;15;26;0;1;201;134;0;0;197;1182;1067;255;812;116;45;27;44;1182;50.0;29.0;110.0;101.0;159.0;450.0;283.0
+169;"DE VV pulp, papier en papierwaren; ..";Totaal hergebruik en eindverwerking;2005;1153;967;12;632;0;591;15;26;0;1;205;112;5;0;185;1153;1033;288;744;120;44;32;44;1153;;;;;;;
+170;"DE VV pulp, papier en papierwaren; ..";Totaal hergebruik en eindverwerking;2006;1167;951;9;651;0;616;18;19;0;3;203;84;0;0;215;1167;1077;280;798;89;47;26;17;1167;54.0;34.0;113.0;94.0;178.0;653.0;40.0
+171;"DE VV pulp, papier en papierwaren; ..";Totaal hergebruik en eindverwerking;2007;1168;954;9;657;0;614;18;24;0;3;211;73;0;0;213;1168;1082;291;791;86;43;28;16;1168;;;;;;;
+172;"DE VV pulp, papier en papierwaren; ..";Hergebruik;2004;1067;872;11;597;0;560;14;24;0;0;130;134;0;0;195;1067;1067;255;812;0;0;0;0;1067;20.0;13.0;99.0;89.0;150.0;420.0;276.0
+173;"DE VV pulp, papier en papierwaren; ..";Hergebruik;2005;1033;851;11;593;0;555;13;25;0;1;134;112;0;0;182;1033;1033;288;744;0;0;0;0;1033;;;;;;;
+174;"DE VV pulp, papier en papierwaren; ..";Hergebruik;2006;1077;864;9;647;0;612;18;17;0;0;131;76;0;0;213;1077;1077;280;798;0;0;0;0;1077;43.0;28.0;107.0;88.0;167.0;607.0;38.0
+175;"DE VV pulp, papier en papierwaren; ..";Hergebruik;2007;1082;869;9;652;0;611;18;23;0;0;137;70;0;0;212;1082;1082;291;791;0;0;0;0;1082;;;;;;;
+176;"DE VV pulp, papier en papierwaren; ..";Eindverwerking;2004;116;111;1;39;0;35;2;2;0;0;71;0;0;0;3;116;0;0;0;116;45;27;44;116;30.0;16.0;11.0;12.0;9.0;30.0;6.0
+177;"DE VV pulp, papier en papierwaren; ..";Eindverwerking;2005;120;116;1;39;0;36;2;1;0;0;71;0;5;0;3;120;0;0;0;120;44;32;44;120;;;;;;;
+178;"DE VV pulp, papier en papierwaren; ..";Eindverwerking;2006;89;88;0;4;0;4;0;0;0;3;73;8;0;0;2;89;0;0;0;89;47;26;17;89;11.0;6.0;6.0;7.0;10.0;46.0;3.0
+179;"DE VV pulp, papier en papierwaren; ..";Eindverwerking;2007;86;85;0;4;0;4;0;0;0;3;75;2;0;0;2;86;0;0;0;86;43;28;16;86;;;;;;;
+180;21 VV papier, karton en papier- en ..;Totaal hergebruik en eindverwerking;2004;861;665;8;357;0;321;11;24;0;1;165;134;0;0;197;861;815;255;560;48;17;24;7;861;4.0;5.0;63.0;51.0;115.0;371.0;252.0
+181;21 VV papier, karton en papier- en ..;Totaal hergebruik en eindverwerking;2005;837;652;8;357;0;322;11;24;0;1;169;112;5;0;185;837;784;288;496;53;16;30;7;837;;;;;;;
+182;21 VV papier, karton en papier- en ..;Totaal hergebruik en eindverwerking;2006;814;598;6;337;0;312;11;15;0;0;172;83;0;0;215;814;758;279;480;55;21;21;14;814;15.0;14.0;64.0;58.0;126.0;520.0;17.0
+183;21 VV papier, karton en papier- en ..;Totaal hergebruik en eindverwerking;2007;808;594;6;337;0;305;11;20;0;0;179;72;0;0;213;808;757;290;467;51;16;23;13;808;;;;;;;
+184;21 VV papier, karton en papier- en ..;Hergebruik;2004;815;620;8;351;0;319;10;23;0;0;127;134;0;0;195;815;815;255;560;0;0;0;0;815;3.0;4.0;61.0;46.0;109.0;344.0;248.0
+185;21 VV papier, karton en papier- en ..;Hergebruik;2005;784;602;8;351;0;317;10;24;0;0;131;112;0;0;182;784;784;288;496;0;0;0;0;784;;;;;;;
+186;21 VV papier, karton en papier- en ..;Hergebruik;2006;758;545;6;335;0;310;11;14;0;0;128;76;0;0;213;758;758;279;480;0;0;0;0;758;15.0;14.0;62.0;55.0;119.0;478.0;16.0
+187;21 VV papier, karton en papier- en ..;Hergebruik;2007;757;544;6;334;0;303;11;20;0;0;134;70;0;0;212;757;757;290;467;0;0;0;0;757;;;;;;;
+188;21 VV papier, karton en papier- en ..;Eindverwerking;2004;48;43;0;5;0;3;1;1;0;0;38;0;0;0;3;48;0;0;0;48;17;24;7;48;1.0;1.0;2.0;4.0;6.0;27.0;4.0
+189;21 VV papier, karton en papier- en ..;Eindverwerking;2005;53;50;0;7;0;5;1;1;0;0;38;0;5;0;2;53;0;0;0;53;16;30;7;53;;;;;;;
+190;21 VV papier, karton en papier- en ..;Eindverwerking;2006;55;54;0;2;0;2;0;0;0;0;44;7;0;0;2;55;0;0;0;55;21;21;14;55;0.0;0.0;2.0;3.0;6.0;42.0;1.0
+191;21 VV papier, karton en papier- en ..;Eindverwerking;2007;51;50;0;2;0;2;0;0;0;0;46;1;0;0;2;51;0;0;0;51;16;23;13;51;;;;;;;
+192;211 VV pulp, papier en karton;Totaal hergebruik en eindverwerking;2004;422;295;5;56;0;33;2;20;0;0;145;89;0;0;128;422;394;224;170;29;5;20;4;422;1.0;1.0;2.0;5.0;11.0;178.0;224.0
+193;211 VV pulp, papier en karton;Totaal hergebruik en eindverwerking;2005;419;291;5;58;0;35;2;20;0;0;149;74;5;0;128;419;384;249;135;35;5;26;4;419;;;;;;;
+194;211 VV pulp, papier en karton;Totaal hergebruik en eindverwerking;2006;387;250;5;50;0;38;2;11;0;0;127;68;0;0;136;387;362;234;129;24;5;12;8;387;6.0;3.0;1.0;6.0;49.0;305.0;17.0
+195;211 VV pulp, papier en karton;Totaal hergebruik en eindverwerking;2007;388;254;5;57;0;38;2;17;0;0;135;58;0;0;133;388;362;243;119;26;5;14;8;388;;;;;;;
+196;211 VV pulp, papier en karton;Hergebruik;2004;394;267;5;54;0;33;1;20;0;0;119;89;0;0;127;394;394;224;170;0;0;0;0;394;1.0;1.0;2.0;4.0;9.0;157.0;220.0
+197;211 VV pulp, papier en karton;Hergebruik;2005;384;257;5;54;0;33;1;20;0;0;123;74;0;0;127;384;384;249;135;0;0;0;0;384;;;;;;;
+198;211 VV pulp, papier en karton;Hergebruik;2006;362;226;5;50;0;37;2;11;0;0;105;67;0;0;136;362;362;234;129;0;0;0;0;362;6.0;3.0;1.0;5.0;46.0;286.0;16.0
+199;211 VV pulp, papier en karton;Hergebruik;2007;362;228;5;56;0;37;2;17;0;0;112;56;0;0;133;362;362;243;119;0;0;0;0;362;;;;;;;
+200;211 VV pulp, papier en karton;Eindverwerking;2004;29;28;0;2;0;1;1;0;0;0;26;0;0;0;1;29;0;0;0;29;5;20;4;29;0.0;0.0;0.0;1.0;2.0;21.0;4.0
+201;211 VV pulp, papier en karton;Eindverwerking;2005;35;34;0;3;0;2;1;0;0;0;26;0;5;0;1;35;0;0;0;35;5;26;4;35;;;;;;;
+202;211 VV pulp, papier en karton;Eindverwerking;2006;24;24;0;1;0;1;0;0;0;0;22;1;0;0;0;24;0;0;0;24;5;12;8;24;0.0;0.0;0.0;1.0;3.0;19.0;1.0
+203;211 VV pulp, papier en karton;Eindverwerking;2007;26;26;0;1;0;1;0;0;0;0;24;1;0;0;0;26;0;0;0;26;5;14;8;26;;;;;;;
+204;212 VV papier- en kartonwaren;Totaal hergebruik en eindverwerking;2004;439;370;3;301;0;288;9;4;0;1;20;45;0;0;69;439;421;31;390;19;12;4;3;439;3.0;4.0;61.0;46.0;104.0;193.0;28.0
+205;212 VV papier- en kartonwaren;Totaal hergebruik en eindverwerking;2005;418;361;3;299;0;287;9;4;0;1;20;38;0;0;57;418;400;39;361;18;12;4;3;418;;;;;;;
+206;212 VV papier- en kartonwaren;Totaal hergebruik en eindverwerking;2006;427;348;1;287;0;274;9;4;0;0;45;15;0;0;79;427;396;45;351;31;16;9;6;427;9.0;11.0;63.0;52.0;77.0;215.0;0.0
+207;212 VV papier- en kartonwaren;Totaal hergebruik en eindverwerking;2007;420;340;1;280;0;267;9;3;0;0;44;14;0;0;80;420;395;47;348;25;11;9;5;420;;;;;;;
+208;212 VV papier- en kartonwaren;Hergebruik;2004;421;353;3;297;0;286;9;3;0;0;8;45;0;0;68;421;421;31;390;0;0;0;0;421;2.0;3.0;59.0;42.0;100.0;187.0;28.0
+209;212 VV papier- en kartonwaren;Hergebruik;2005;400;345;3;296;0;284;9;3;0;0;8;38;0;0;55;400;400;39;361;0;0;0;0;400;;;;;;;
+210;212 VV papier- en kartonwaren;Hergebruik;2006;396;319;1;285;0;273;9;3;0;0;23;9;0;0;77;396;396;45;351;0;0;0;0;396;9.0;11.0;61.0;50.0;73.0;192.0;0.0
+211;212 VV papier- en kartonwaren;Hergebruik;2007;395;316;1;278;0;266;9;3;0;0;22;14;0;0;79;395;395;47;348;0;0;0;0;395;;;;;;;
+212;212 VV papier- en kartonwaren;Eindverwerking;2004;19;15;0;3;0;2;0;1;0;0;12;0;0;0;2;19;0;0;0;19;12;4;3;19;1.0;1.0;2.0;3.0;4.0;6.0;0.0
+213;212 VV papier- en kartonwaren;Eindverwerking;2005;18;16;0;3;0;2;0;1;0;0;12;0;0;0;2;18;0;0;0;18;12;4;3;18;;;;;;;
+214;212 VV papier- en kartonwaren;Eindverwerking;2006;31;30;0;1;0;1;0;0;0;0;22;6;0;0;2;31;0;0;0;31;16;9;6;31;0.0;0.0;2.0;2.0;3.0;23.0;0.0
+215;212 VV papier- en kartonwaren;Eindverwerking;2007;25;24;0;1;0;1;0;0;0;0;22;0;0;0;2;25;0;0;0;25;11;9;5;25;;;;;;;
+216;22 Uitgeverijen, drukkerijen en repro;Totaal hergebruik en eindverwerking;2004;321;320;4;280;0;273;4;2;0;0;36;0;0;0;0;321;252;0;252;68;28;3;37;321;46.0;24.0;47.0;50.0;44.0;79.0;31.0
+217;22 Uitgeverijen, drukkerijen en repro;Totaal hergebruik en eindverwerking;2005;316;316;4;276;0;269;4;2;0;0;36;0;0;0;0;316;248;0;248;67;28;3;37;316;;;;;;;
+218;22 Uitgeverijen, drukkerijen en repro;Totaal hergebruik en eindverwerking;2006;353;353;3;314;0;304;7;4;0;3;31;1;0;0;0;353;319;1;318;34;26;5;3;353;39.0;20.0;49.0;36.0;52.0;133.0;23.0
+219;22 Uitgeverijen, drukkerijen en repro;Totaal hergebruik en eindverwerking;2007;360;360;3;320;0;309;7;4;0;3;32;1;0;0;0;360;325;1;324;35;27;5;3;360;;;;;;;
+220;22 Uitgeverijen, drukkerijen en repro;Hergebruik;2004;252;252;3;246;0;241;4;1;0;0;3;0;0;0;0;252;252;0;252;0;0;0;0;252;17.0;9.0;38.0;43.0;41.0;76.0;28.0
+221;22 Uitgeverijen, drukkerijen en repro;Hergebruik;2005;248;248;3;242;0;237;3;1;0;0;3;0;0;0;0;248;248;0;248;0;0;0;0;248;;;;;;;
+222;22 Uitgeverijen, drukkerijen en repro;Hergebruik;2006;319;319;3;312;0;302;7;3;0;0;3;0;0;0;0;319;319;1;318;0;0;0;0;319;28.0;14.0;45.0;33.0;48.0;129.0;22.0
+223;22 Uitgeverijen, drukkerijen en repro;Hergebruik;2007;325;325;3;318;0;308;7;3;0;0;3;0;0;0;0;325;325;1;324;0;0;0;0;325;;;;;;;
+224;22 Uitgeverijen, drukkerijen en repro;Eindverwerking;2004;68;68;1;34;0;32;1;1;0;0;33;0;0;0;0;68;0;0;0;68;28;3;37;68;29.0;15.0;9.0;8.0;3.0;3.0;2.0
+225;22 Uitgeverijen, drukkerijen en repro;Eindverwerking;2005;67;67;1;33;0;32;1;1;0;0;33;0;0;0;0;67;0;0;0;67;28;3;37;67;;;;;;;
+226;22 Uitgeverijen, drukkerijen en repro;Eindverwerking;2006;34;34;0;2;0;2;0;0;0;3;29;1;0;0;0;34;0;0;0;34;26;5;3;34;11.0;6.0;4.0;4.0;4.0;4.0;2.0
+227;22 Uitgeverijen, drukkerijen en repro;Eindverwerking;2007;35;35;0;2;0;2;0;0;0;3;29;1;0;0;0;35;0;0;0;35;27;5;3;35;;;;;;;
+228;23 Aardolie- en steenkoolverwerkende ..;Totaal hergebruik en eindverwerking;2004;486;29;1;1;0;0;0;0;0;0;3;1;23;0;458;486;470;0;470;16;7;8;1;486;0.0;0.0;7.0;1.0;0.0;56.0;421.0
+229;23 Aardolie- en steenkoolverwerkende ..;Totaal hergebruik en eindverwerking;2005;522;28;1;1;0;0;0;0;0;0;3;1;23;0;494;522;507;0;507;15;7;8;1;522;;;;;;;
+230;23 Aardolie- en steenkoolverwerkende ..;Totaal hergebruik en eindverwerking;2006;447;27;1;1;0;1;0;0;0;1;3;1;21;0;420;447;428;0;428;19;16;1;2;447;0.0;0.0;0.0;1.0;0.0;37.0;408.0
+231;23 Aardolie- en steenkoolverwerkende ..;Totaal hergebruik en eindverwerking;2007;489;49;1;1;0;1;0;0;0;1;4;1;42;0;439;489;480;0;480;9;6;1;2;489;;;;;;;
+232;23 Aardolie- en steenkoolverwerkende ..;Hergebruik;2004;470;17;1;1;0;0;0;0;0;0;0;0;15;0;453;470;470;0;470;0;0;0;0;470;0.0;0.0;0.0;1.0;0.0;54.0;416.0
+233;23 Aardolie- en steenkoolverwerkende ..;Hergebruik;2005;507;18;1;1;0;0;0;0;0;0;0;0;15;0;489;507;507;0;507;0;0;0;0;507;;;;;;;
+234;23 Aardolie- en steenkoolverwerkende ..;Hergebruik;2006;428;24;1;1;0;1;0;0;0;1;0;0;21;0;405;428;428;0;428;0;0;0;0;428;0.0;0.0;0.0;1.0;0.0;36.0;391.0
+235;23 Aardolie- en steenkoolverwerkende ..;Hergebruik;2007;480;45;1;1;0;1;0;0;0;1;0;0;42;0;434;480;480;0;480;0;0;0;0;480;;;;;;;
+236;23 Aardolie- en steenkoolverwerkende ..;Eindverwerking;2004;16;9;0;0;0;0;0;0;0;0;2;0;7;0;5;16;0;0;0;16;7;8;1;16;0.0;0.0;7.0;0.0;0.0;3.0;5.0
+237;23 Aardolie- en steenkoolverwerkende ..;Eindverwerking;2005;15;10;0;0;0;0;0;0;0;0;2;0;7;0;5;15;0;0;0;15;7;8;1;15;;;;;;;
+238;23 Aardolie- en steenkoolverwerkende ..;Eindverwerking;2006;19;4;0;0;0;0;0;0;0;0;3;0;0;0;15;19;0;0;0;19;16;1;2;19;0.0;0.0;0.0;0.0;0.0;1.0;17.0
+239;23 Aardolie- en steenkoolverwerkende ..;Eindverwerking;2007;9;4;0;0;0;0;0;0;0;0;4;0;0;0;5;9;0;0;0;9;6;1;2;9;;;;;;;
+240;24 Vervaardiging van chemische producten;Totaal hergebruik en eindverwerking;2004;1156;896;14;66;1;24;33;8;2;111;43;4;658;0;258;1156;909;10;899;247;182;59;6;1156;2.0;2.0;19.0;15.0;39.0;762.0;318.0
+241;24 Vervaardiging van chemische producten;Totaal hergebruik en eindverwerking;2005;1164;912;14;67;1;24;33;8;2;113;43;4;671;0;252;1164;932;10;922;232;179;47;6;1164;;;;;;;
+242;24 Vervaardiging van chemische producten;Totaal hergebruik en eindverwerking;2006;1215;872;25;51;1;18;22;10;0;63;54;6;669;3;343;1215;934;13;920;281;209;67;4;1215;5.0;4.0;18.0;34.0;83.0;222.0;848.0
+243;24 Vervaardiging van chemische producten;Totaal hergebruik en eindverwerking;2007;1225;875;26;52;1;19;23;10;0;68;55;6;665;3;349;1225;939;13;925;286;214;68;4;1225;;;;;;;
+244;24 Vervaardiging van chemische producten;Hergebruik;2004;909;810;14;62;1;23;29;7;2;70;7;0;657;0;99;909;909;10;899;0;0;0;0;909;1.0;1.0;16.0;7.0;26.0;652.0;207.0
+245;24 Vervaardiging van chemische producten;Hergebruik;2005;932;825;14;62;1;24;29;7;2;72;7;0;670;0;107;932;932;10;922;0;0;0;0;932;;;;;;;
+246;24 Vervaardiging van chemische producten;Hergebruik;2006;934;781;25;47;1;18;19;9;0;20;18;2;665;3;153;934;934;13;920;0;0;0;0;934;4.0;3.0;11.0;19.0;74.0;79.0;744.0
+247;24 Vervaardiging van chemische producten;Hergebruik;2007;939;783;26;49;0;19;20;9;0;25;18;2;660;3;156;939;939;13;925;0;0;0;0;939;;;;;;;
+248;24 Vervaardiging van chemische producten;Eindverwerking;2004;247;87;0;5;0;1;4;0;0;41;37;3;1;0;159;247;0;0;0;247;182;59;6;247;1.0;1.0;3.0;8.0;13.0;110.0;110.0
+249;24 Vervaardiging van chemische producten;Eindverwerking;2005;232;88;0;5;0;1;4;0;0;41;37;4;1;0;145;232;0;0;0;232;179;47;6;232;;;;;;;
+250;24 Vervaardiging van chemische producten;Eindverwerking;2006;281;90;0;4;0;1;3;0;0;42;36;3;4;0;190;281;0;0;0;281;209;67;4;281;1.0;1.0;7.0;15.0;9.0;143.0;104.0
+251;24 Vervaardiging van chemische producten;Eindverwerking;2007;286;92;0;4;0;0;3;0;0;43;37;3;4;0;194;286;0;0;0;286;214;68;4;286;;;;;;;
+252;25 VV producten van rubber en kunststof;Totaal hergebruik en eindverwerking;2004;142;142;2;91;0;16;64;11;0;0;45;0;4;0;0;142;89;12;77;54;41;5;8;142;7.0;8.0;10.0;31.0;32.0;40.0;15.0
+253;25 VV producten van rubber en kunststof;Totaal hergebruik en eindverwerking;2005;145;145;2;93;0;16;65;11;0;0;46;0;4;0;0;145;90;12;78;55;42;5;8;145;;;;;;;
+254;25 VV producten van rubber en kunststof;Totaal hergebruik en eindverwerking;2006;199;197;6;151;0;31;101;18;0;1;38;0;0;2;2;199;157;19;138;42;15;21;7;199;15.0;15.0;25.0;10.0;51.0;75.0;9.0
+255;25 VV producten van rubber en kunststof;Totaal hergebruik en eindverwerking;2007;186;183;6;134;0;30;85;18;0;1;39;0;2;2;2;186;135;12;123;50;20;23;7;186;;;;;;;
+256;25 VV producten van rubber en kunststof;Hergebruik;2004;89;89;2;78;0;16;52;10;0;0;5;0;4;0;0;89;89;12;77;0;0;0;0;89;3.0;3.0;4.0;15.0;21.0;33.0;10.0
+257;25 VV producten van rubber en kunststof;Hergebruik;2005;90;90;2;80;0;16;53;10;0;0;5;0;4;0;0;90;90;12;78;0;0;0;0;90;;;;;;;
+258;25 VV producten van rubber en kunststof;Hergebruik;2006;157;156;6;138;0;29;92;17;0;1;10;0;0;2;1;157;157;19;138;0;0;0;0;157;12.0;12.0;18.0;5.0;45.0;58.0;6.0
+259;25 VV producten van rubber en kunststof;Hergebruik;2007;135;135;6;117;0;27;76;13;0;1;10;0;0;2;1;135;135;12;123;0;0;0;0;135;;;;;;;
+260;25 VV producten van rubber en kunststof;Eindverwerking;2004;54;53;0;13;0;0;12;1;0;0;40;0;0;0;0;54;0;0;0;54;41;5;8;54;5.0;5.0;6.0;16.0;11.0;7.0;5.0
+261;25 VV producten van rubber en kunststof;Eindverwerking;2005;55;54;0;13;0;0;12;1;0;0;41;0;0;0;0;55;0;0;0;55;42;5;8;55;;;;;;;
+262;25 VV producten van rubber en kunststof;Eindverwerking;2006;42;41;0;12;0;3;9;1;0;0;28;0;0;0;2;42;0;0;0;42;15;21;7;42;3.0;3.0;6.0;5.0;6.0;16.0;2.0
+263;25 VV producten van rubber en kunststof;Eindverwerking;2007;50;49;0;17;0;3;9;5;0;0;29;0;2;0;2;50;0;0;0;50;20;23;7;50;;;;;;;
+264;26 VV glas, aardewerk, cement-, kalk- ..;Totaal hergebruik en eindverwerking;2004;844;830;20;28;8;5;4;11;0;2;34;36;709;1;14;844;705;1;704;139;17;80;42;844;109.0;86.0;83.0;111.0;76.0;192.0;187.0
+265;26 VV glas, aardewerk, cement-, kalk- ..;Totaal hergebruik en eindverwerking;2005;877;866;21;28;8;5;4;11;0;2;35;38;741;1;12;877;733;1;733;144;18;82;44;877;;;;;;;
+266;26 VV glas, aardewerk, cement-, kalk- ..;Totaal hergebruik en eindverwerking;2006;886;872;31;37;17;5;1;13;0;0;37;33;733;2;13;886;743;1;742;143;17;80;46;886;112.0;75.0;136.0;92.0;53.0;179.0;239.0
+267;26 VV glas, aardewerk, cement-, kalk- ..;Totaal hergebruik en eindverwerking;2007;872;859;31;36;17;5;1;13;0;0;37;32;721;2;13;872;730;1;729;142;17;79;46;872;;;;;;;
+268;26 VV glas, aardewerk, cement-, kalk- ..;Hergebruik;2004;705;694;19;22;3;5;4;9;0;1;3;35;613;1;10;705;705;1;704;0;0;0;0;705;69.0;50.0;68.0;106.0;58.0;174.0;179.0
+269;26 VV glas, aardewerk, cement-, kalk- ..;Hergebruik;2005;733;725;20;22;4;5;4;10;0;1;3;37;640;1;9;733;733;1;733;0;0;0;0;733;;;;;;;
+270;26 VV glas, aardewerk, cement-, kalk- ..;Hergebruik;2006;743;734;30;27;9;5;1;12;0;0;3;32;642;1;8;743;743;1;742;0;0;0;0;743;95.0;63.0;115.0;58.0;37.0;153.0;222.0
+271;26 VV glas, aardewerk, cement-, kalk- ..;Hergebruik;2007;730;722;30;27;9;5;1;12;0;0;3;32;629;1;8;730;730;1;729;0;0;0;0;730;;;;;;;
+272;26 VV glas, aardewerk, cement-, kalk- ..;Eindverwerking;2004;139;135;1;6;4;0;0;1;0;0;31;1;96;0;4;139;0;0;0;139;17;80;42;139;40.0;36.0;15.0;5.0;18.0;17.0;8.0
+273;26 VV glas, aardewerk, cement-, kalk- ..;Eindverwerking;2005;144;141;1;6;4;0;0;2;0;0;32;1;100;0;3;144;0;0;0;144;18;82;44;144;;;;;;;
+274;26 VV glas, aardewerk, cement-, kalk- ..;Eindverwerking;2006;143;138;1;10;8;0;0;1;0;0;35;0;91;1;5;143;0;0;0;143;17;80;46;143;17.0;13.0;21.0;34.0;16.0;26.0;17.0
+275;26 VV glas, aardewerk, cement-, kalk- ..;Eindverwerking;2007;142;137;1;9;8;0;0;1;0;0;34;0;91;1;5;142;0;0;0;142;17;79;46;142;;;;;;;
+276;DJ VV metalen in primaire vorm en van ..;Totaal hergebruik en eindverwerking;2004;3097;2975;359;38;1;16;6;14;0;1;88;0;2484;5;123;3097;2965;1;2964;130;62;52;16;3097;51.0;39.0;44.0;77.0;111.0;136.0;2639.0
+277;DJ VV metalen in primaire vorm en van ..;Totaal hergebruik en eindverwerking;2005;3201;3067;382;37;1;16;6;14;0;1;88;0;2554;5;133;3201;3066;3;3063;134;62;55;17;3201;;;;;;;
+278;DJ VV metalen in primaire vorm en van ..;Totaal hergebruik en eindverwerking;2006;2972;2820;432;44;1;24;4;16;0;1;82;0;2258;2;152;2972;2844;5;2839;128;67;58;5;2972;57.0;45.0;81.0;109.0;113.0;142.0;2425.0
+279;DJ VV metalen in primaire vorm en van ..;Totaal hergebruik en eindverwerking;2007;3105;2961;450;45;1;24;4;16;0;1;86;0;2377;2;144;3105;3012;5;3007;93;54;34;5;3105;;;;;;;
+280;DJ VV metalen in primaire vorm en van ..;Hergebruik;2004;2965;2848;344;36;1;15;6;12;0;0;9;0;2454;5;119;2965;2965;1;2964;0;0;0;0;2965;35.0;28.0;26.0;67.0;87.0;116.0;2606.0
+281;DJ VV metalen in primaire vorm en van ..;Hergebruik;2005;3066;2935;366;35;1;15;6;13;0;0;8;0;2521;5;129;3066;3066;3;3063;0;0;0;0;3066;;;;;;;
+282;DJ VV metalen in primaire vorm en van ..;Hergebruik;2006;2844;2716;431;41;1;23;3;14;0;0;25;0;2220;0;128;2844;2844;5;2839;0;0;0;0;2844;43.0;34.0;64.0;96.0;99.0;132.0;2377.0
+283;DJ VV metalen in primaire vorm en van ..;Hergebruik;2007;3012;2874;449;41;1;23;3;14;0;0;27;0;2356;0;138;3012;3012;5;3007;0;0;0;0;3012;;;;;;;
+284;DJ VV metalen in primaire vorm en van ..;Eindverwerking;2004;130;125;15;2;0;0;0;1;0;0;79;0;29;0;5;130;0;0;0;130;62;52;16;130;16.0;12.0;18.0;10.0;23.0;19.0;33.0
+285;DJ VV metalen in primaire vorm en van ..;Eindverwerking;2005;134;129;16;1;0;0;0;1;0;0;79;0;33;0;4;134;0;0;0;134;62;55;17;134;;;;;;;
+286;DJ VV metalen in primaire vorm en van ..;Eindverwerking;2006;128;104;1;3;0;1;0;2;0;1;56;0;39;2;24;128;0;0;0;128;67;58;5;128;14.0;11.0;16.0;13.0;15.0;9.0;48.0
+287;DJ VV metalen in primaire vorm en van ..;Eindverwerking;2007;93;87;1;3;0;1;0;2;0;1;58;0;21;2;6;93;0;0;0;93;54;34;5;93;;;;;;;
+288;27 Basismetaalindustrie;Totaal hergebruik en eindverwerking;2004;2702;2580;76;5;0;2;0;2;0;0;17;0;2477;5;122;2702;2653;0;2653;48;11;30;7;2702;9.0;6.0;9.0;18.0;40.0;66.0;2554.0
+289;27 Basismetaalindustrie;Totaal hergebruik en eindverwerking;2005;2803;2671;97;5;0;2;0;2;0;0;17;0;2548;5;132;2803;2752;2;2750;51;11;33;7;2803;;;;;;;
+290;27 Basismetaalindustrie;Totaal hergebruik en eindverwerking;2006;2524;2377;121;4;0;2;0;2;0;0;15;0;2236;0;147;2524;2460;2;2458;64;26;38;1;2524;6.0;4.0;26.0;29.0;42.0;75.0;2341.0
+291;27 Basismetaalindustrie;Totaal hergebruik en eindverwerking;2007;2650;2511;134;4;0;2;0;2;0;0;18;0;2354;0;139;2650;2622;2;2620;28;13;14;1;2650;;;;;;;
+292;27 Basismetaalindustrie;Hergebruik;2004;2653;2536;71;5;0;2;0;2;0;0;5;0;2450;5;119;2653;2653;0;2653;0;0;0;0;2653;5.0;4.0;7.0;16.0;36.0;63.0;2522.0
+293;27 Basismetaalindustrie;Hergebruik;2005;2752;2623;92;5;0;2;0;2;0;0;5;0;2516;5;129;2752;2752;2;2750;0;0;0;0;2752;;;;;;;
+294;27 Basismetaalindustrie;Hergebruik;2006;2460;2334;121;4;0;2;0;2;0;0;8;0;2202;0;126;2460;2460;2;2458;0;0;0;0;2460;3.0;2.0;25.0;29.0;35.0;72.0;2295.0
+295;27 Basismetaalindustrie;Hergebruik;2007;2622;2486;134;4;0;2;0;2;0;0;10;0;2338;0;136;2622;2622;2;2620;0;0;0;0;2622;;;;;;;
+296;27 Basismetaalindustrie;Eindverwerking;2004;48;44;5;0;0;0;0;0;0;0;12;0;27;0;4;48;0;0;0;48;11;30;7;48;4.0;3.0;2.0;2.0;4.0;3.0;32.0
+297;27 Basismetaalindustrie;Eindverwerking;2005;51;49;5;0;0;0;0;0;0;0;12;0;31;0;3;51;0;0;0;51;11;33;7;51;;;;;;;
+298;27 Basismetaalindustrie;Eindverwerking;2006;64;43;0;0;0;0;0;0;0;0;7;0;34;0;21;64;0;0;0;64;26;38;1;64;3.0;2.0;1.0;0.0;8.0;3.0;46.0
+299;27 Basismetaalindustrie;Eindverwerking;2007;28;25;0;0;0;0;0;0;0;0;8;0;16;0;3;28;0;0;0;28;13;14;1;28;;;;;;;
+300;28 VV producten van metaal (geen ..;Totaal hergebruik en eindverwerking;2004;395;395;283;33;1;14;6;12;0;1;71;0;7;0;1;395;312;1;311;82;51;22;9;395;42.0;33.0;35.0;59.0;71.0;70.0;85.0
+301;28 VV producten van metaal (geen ..;Totaal hergebruik en eindverwerking;2005;397;396;285;33;1;14;6;12;0;1;71;0;7;0;1;397;314;1;313;83;51;22;10;397;;;;;;;
+302;28 VV producten van metaal (geen ..;Totaal hergebruik en eindverwerking;2006;448;443;311;40;1;22;4;14;0;1;67;0;22;2;5;448;384;3;381;64;41;20;4;448;51.0;41.0;55.0;80.0;71.0;67.0;84.0
+303;28 VV producten van metaal (geen ..;Totaal hergebruik en eindverwerking;2007;455;450;316;41;1;22;4;14;0;1;68;0;23;2;5;455;390;3;387;65;41;20;4;455;;;;;;;
+304;28 VV producten van metaal (geen ..;Hergebruik;2004;312;312;273;31;1;13;6;10;0;0;4;0;4;0;0;312;312;1;311;0;0;0;0;312;30.0;24.0;19.0;51.0;51.0;53.0;84.0
+305;28 VV producten van metaal (geen ..;Hergebruik;2005;314;314;274;31;1;13;6;10;0;0;4;0;4;0;0;314;314;1;313;0;0;0;0;314;;;;;;;
+306;28 VV producten van metaal (geen ..;Hergebruik;2006;384;382;310;37;1;21;3;12;0;0;17;0;18;0;2;384;384;3;381;0;0;0;0;384;40.0;32.0;39.0;67.0;64.0;60.0;82.0
+307;28 VV producten van metaal (geen ..;Hergebruik;2007;390;388;315;37;1;21;3;12;0;0;17;0;18;0;2;390;390;3;387;0;0;0;0;390;;;;;;;
+308;28 VV producten van metaal (geen ..;Eindverwerking;2004;82;81;10;2;0;0;0;1;0;0;67;0;2;0;1;82;0;0;0;82;51;22;9;82;12.0;9.0;16.0;8.0;19.0;16.0;1.0
+309;28 VV producten van metaal (geen ..;Eindverwerking;2005;83;82;10;2;0;0;0;1;0;0;67;0;2;0;1;83;0;0;0;83;51;22;10;83;;;;;;;
+310;28 VV producten van metaal (geen ..;Eindverwerking;2006;64;61;1;3;0;1;0;2;0;1;49;0;5;2;3;64;0;0;0;64;41;20;4;64;11.0;9.0;15.0;13.0;7.0;6.0;2.0
+311;28 VV producten van metaal (geen ..;Eindverwerking;2007;65;62;1;3;0;1;0;2;0;1;50;0;5;2;3;65;0;0;0;65;41;20;4;65;;;;;;;
+312;29 VV machines en apparaten;Totaal hergebruik en eindverwerking;2004;147;145;69;27;0;15;1;10;0;1;37;0;11;0;3;147;106;2;104;41;28;5;8;147;11.0;9.0;18.0;27.0;34.0;30.0;19.0
+313;29 VV machines en apparaten;Totaal hergebruik en eindverwerking;2005;150;147;70;28;0;16;1;11;0;1;37;0;11;0;3;150;108;2;106;42;28;5;8;150;;;;;;;
+314;29 VV machines en apparaten;Totaal hergebruik en eindverwerking;2006;142;140;62;29;0;16;2;11;0;1;36;0;11;0;3;142;104;2;102;38;24;12;3;142;7.0;6.0;27.0;22.0;28.0;34.0;18.0
+315;29 VV machines en apparaten;Totaal hergebruik en eindverwerking;2007;154;151;67;32;0;18;2;11;0;1;39;0;12;0;3;154;113;2;110;42;26;13;3;154;;;;;;;
+316;29 VV machines en apparaten;Hergebruik;2004;106;105;69;26;0;15;1;10;0;0;0;0;10;0;0;106;106;2;104;0;0;0;0;106;5.0;4.0;10.0;22.0;27.0;21.0;16.0
+317;29 VV machines en apparaten;Hergebruik;2005;108;108;70;26;0;16;1;10;0;0;0;0;11;0;0;108;108;2;106;0;0;0;0;108;;;;;;;
+318;29 VV machines en apparaten;Hergebruik;2006;104;103;62;28;0;16;2;10;0;1;1;0;11;0;1;104;104;2;102;0;0;0;0;104;3.0;2.0;15.0;17.0;24.0;27.0;16.0
+319;29 VV machines en apparaten;Hergebruik;2007;113;112;67;30;0;18;2;11;0;1;1;0;12;0;1;113;113;2;110;0;0;0;0;113;;;;;;;
+320;29 VV machines en apparaten;Eindverwerking;2004;41;37;0;1;0;0;0;1;0;0;36;0;0;0;3;41;0;0;0;41;28;5;8;41;5.0;4.0;8.0;5.0;7.0;9.0;2.0
+321;29 VV machines en apparaten;Eindverwerking;2005;42;39;0;1;0;0;0;1;0;0;37;0;0;0;3;42;0;0;0;42;28;5;8;42;;;;;;;
+322;29 VV machines en apparaten;Eindverwerking;2006;38;37;0;1;0;0;0;1;0;0;34;0;0;0;2;38;0;0;0;38;24;12;3;38;5.0;4.0;12.0;4.0;5.0;7.0;2.0
+323;29 VV machines en apparaten;Eindverwerking;2007;42;40;0;2;0;0;0;1;0;0;37;0;0;0;2;42;0;0;0;42;26;13;3;42;;;;;;;
+324;DL VV elektrische en optische ..;Totaal hergebruik en eindverwerking;2004;110;106;46;29;0;17;4;8;0;0;27;0;3;1;4;110;76;0;76;34;16;12;6;110;15.0;9.0;6.0;8.0;3.0;18.0;50.0
+325;DL VV elektrische en optische ..;Totaal hergebruik en eindverwerking;2005;107;103;45;28;0;17;3;8;0;0;26;0;3;1;4;107;75;0;74;33;15;11;6;107;;;;;;;
+326;DL VV elektrische en optische ..;Totaal hergebruik en eindverwerking;2006;122;120;35;31;0;15;7;9;1;1;28;0;15;9;2;122;91;1;91;31;20;8;3;122;13.0;9.0;6.0;7.0;4.0;40.0;43.0
+327;DL VV elektrische en optische ..;Totaal hergebruik en eindverwerking;2007;132;129;38;34;0;16;7;9;1;1;31;0;17;10;2;132;99;1;98;33;22;8;3;132;;;;;;;
+328;DL VV elektrische en optische ..;Hergebruik;2004;76;76;45;27;0;17;3;7;0;0;0;0;3;1;0;76;76;0;76;0;0;0;0;76;10.0;7.0;3.0;5.0;1.0;11.0;38.0
+329;DL VV elektrische en optische ..;Hergebruik;2005;75;75;44;26;0;17;3;6;0;0;0;0;3;1;0;75;75;0;74;0;0;0;0;75;;;;;;;
+330;DL VV elektrische en optische ..;Hergebruik;2006;91;91;35;31;0;15;7;9;1;1;2;0;15;8;0;91;91;1;91;0;0;0;0;91;10.0;6.0;3.0;3.0;1.0;36.0;32.0
+331;DL VV elektrische en optische ..;Hergebruik;2007;99;98;38;33;0;16;7;9;1;1;2;0;17;8;0;99;99;1;98;0;0;0;0;99;;;;;;;
+332;DL VV elektrische en optische ..;Eindverwerking;2004;34;30;1;2;0;0;1;1;0;0;27;0;0;0;4;34;0;0;0;34;16;12;6;34;5.0;2.0;3.0;3.0;2.0;7.0;12.0
+333;DL VV elektrische en optische ..;Eindverwerking;2005;33;29;1;2;0;0;1;1;0;0;26;0;0;0;4;33;0;0;0;33;15;11;6;33;;;;;;;
+334;DL VV elektrische en optische ..;Eindverwerking;2006;31;29;0;1;0;0;0;0;0;0;27;0;0;1;2;31;0;0;0;31;20;8;3;31;4.0;2.0;3.0;4.0;3.0;4.0;11.0
+335;DL VV elektrische en optische ..;Eindverwerking;2007;33;31;0;0;0;0;0;0;0;0;29;0;0;1;2;33;0;0;0;33;22;8;3;33;;;;;;;
+336;DM Vervaardiging van transportmiddelen;Totaal hergebruik en eindverwerking;2004;190;189;104;25;0;13;2;10;0;0;32;0;28;0;1;190;151;2;149;39;27;2;10;190;12.0;8.0;10.0;4.0;28.0;17.0;111.0
+337;DM Vervaardiging van transportmiddelen;Totaal hergebruik en eindverwerking;2005;167;166;85;24;0;13;2;10;0;0;31;0;27;0;1;167;130;2;128;38;26;2;9;167;;;;;;;
+338;DM Vervaardiging van transportmiddelen;Totaal hergebruik en eindverwerking;2006;153;143;64;25;0;13;1;10;0;1;50;1;3;0;9;153;112;1;111;40;32;5;3;153;5.0;3.0;12.0;22.0;14.0;28.0;68.0
+339;DM Vervaardiging van transportmiddelen;Totaal hergebruik en eindverwerking;2007;156;146;69;26;0;14;1;11;0;1;46;1;4;0;10;156;113;1;113;42;34;5;4;156;;;;;;;
+340;DM Vervaardiging van transportmiddelen;Hergebruik;2004;151;149;104;24;0;13;2;10;0;0;1;0;20;0;0;151;151;2;149;0;0;0;0;151;6.0;4.0;6.0;1.0;22.0;13.0;99.0
+341;DM Vervaardiging van transportmiddelen;Hergebruik;2005;130;129;85;23;0;13;1;9;0;0;1;0;20;0;0;130;130;2;128;0;0;0;0;130;;;;;;;
+342;DM Vervaardiging van transportmiddelen;Hergebruik;2006;112;108;64;22;0;13;0;8;0;0;22;0;1;0;4;112;112;1;111;0;0;0;0;112;0.0;0.0;6.0;14.0;8.0;18.0;66.0
+343;DM Vervaardiging van transportmiddelen;Hergebruik;2007;113;109;69;23;0;14;0;8;0;0;17;0;1;0;4;113;113;1;113;0;0;0;0;113;;;;;;;
+344;DM Vervaardiging van transportmiddelen;Eindverwerking;2004;39;38;0;0;0;0;0;0;0;0;31;0;7;0;1;39;0;0;0;39;27;2;10;39;6.0;4.0;4.0;3.0;6.0;3.0;12.0
+345;DM Vervaardiging van transportmiddelen;Eindverwerking;2005;38;37;0;0;0;0;0;0;0;0;29;0;7;0;1;38;0;0;0;38;26;2;9;38;;;;;;;
+346;DM Vervaardiging van transportmiddelen;Eindverwerking;2006;40;35;0;3;0;0;0;3;0;1;27;1;3;0;5;40;0;0;0;40;32;5;3;40;5.0;3.0;6.0;8.0;6.0;10.0;2.0
+347;DM Vervaardiging van transportmiddelen;Eindverwerking;2007;42;37;0;3;0;0;0;3;0;1;29;1;3;0;6;42;0;0;0;42;34;5;4;42;;;;;;;
+348;"36 VV meubels; vervaardiging van ..";Totaal hergebruik en eindverwerking;2004;270;270;7;162;0;18;2;142;0;37;62;0;1;1;0;270;201;29;172;70;42;9;19;270;87.0;26.0;29.0;21.0;10.0;21.0;76.0
+349;"36 VV meubels; vervaardiging van ..";Totaal hergebruik en eindverwerking;2005;269;269;7;161;0;17;2;142;0;37;62;0;1;1;0;269;200;28;171;70;42;9;19;269;;;;;;;
+350;"36 VV meubels; vervaardiging van ..";Totaal hergebruik en eindverwerking;2006;259;259;11;157;0;18;3;135;0;19;66;0;5;1;0;259;183;55;128;76;57;14;5;259;76.0;26.0;30.0;6.0;5.0;35.0;81.0
+351;"36 VV meubels; vervaardiging van ..";Totaal hergebruik en eindverwerking;2007;272;272;11;166;0;19;3;143;1;20;69;0;5;1;0;272;193;61;132;79;59;15;5;272;;;;;;;
+352;"36 VV meubels; vervaardiging van ..";Hergebruik;2004;201;201;7;155;0;17;2;135;0;36;2;0;0;1;0;201;201;29;172;0;0;0;0;201;71.0;21.0;21.0;10.0;8.0;17.0;52.0
+353;"36 VV meubels; vervaardiging van ..";Hergebruik;2005;200;200;7;154;0;17;2;135;0;35;2;0;0;1;0;200;200;28;171;0;0;0;0;200;;;;;;;
+354;"36 VV meubels; vervaardiging van ..";Hergebruik;2006;183;183;11;145;0;17;2;124;0;16;10;0;1;1;0;183;183;55;128;0;0;0;0;183;67.0;22.0;20.0;3.0;1.0;29.0;41.0
+355;"36 VV meubels; vervaardiging van ..";Hergebruik;2007;193;193;11;153;0;18;3;132;1;17;10;0;1;1;0;193;193;61;132;0;0;0;0;193;;;;;;;
+356;"36 VV meubels; vervaardiging van ..";Eindverwerking;2004;70;69;0;7;0;0;0;7;0;1;60;0;1;0;0;70;0;0;0;70;42;9;19;70;16.0;5.0;8.0;11.0;2.0;4.0;24.0
+357;"36 VV meubels; vervaardiging van ..";Eindverwerking;2005;70;70;0;7;0;0;0;7;0;1;60;0;1;0;0;70;0;0;0;70;42;9;19;70;;;;;;;
+358;"36 VV meubels; vervaardiging van ..";Eindverwerking;2006;76;76;0;12;0;1;0;11;0;3;56;0;4;0;0;76;0;0;0;76;57;14;5;76;9.0;3.0;10.0;3.0;4.0;6.0;41.0
+359;"36 VV meubels; vervaardiging van ..";Eindverwerking;2007;79;79;0;13;0;1;0;11;0;3;58;0;4;0;0;79;0;0;0;79;59;15;5;79;;;;;;;
+360;37 Voorbereiding tot recycling;Totaal hergebruik en eindverwerking;2004;833;831;71;128;41;10;54;20;3;19;334;1;276;2;2;833;213;19;194;619;47;417;155;833;176.0;132.0;118.0;155.0;78.0;174.0;0.0
+361;37 Voorbereiding tot recycling;Totaal hergebruik en eindverwerking;2005;843;840;72;130;42;10;54;20;4;19;338;1;279;2;3;843;215;19;196;628;49;422;157;843;;;;;;;
+362;37 Voorbereiding tot recycling;Totaal hergebruik en eindverwerking;2006;868;865;67;80;38;9;21;10;2;12;354;28;317;8;2;868;121;12;109;747;48;493;206;868;148.0;107.0;167.0;210.0;28.0;208.0;0.0
+363;37 Voorbereiding tot recycling;Totaal hergebruik en eindverwerking;2007;866;863;66;80;37;9;21;10;2;12;353;28;316;8;2;866;120;12;108;744;48;492;206;866;;;;;;;
+364;37 Voorbereiding tot recycling;Hergebruik;2004;213;212;70;88;3;10;51;19;3;9;2;0;43;0;1;213;213;19;194;0;0;0;0;213;50.0;56.0;55.0;18.0;30.0;5.0;0.0
+365;37 Voorbereiding tot recycling;Hergebruik;2005;215;215;71;89;3;10;52;20;4;9;3;0;44;0;1;215;215;19;196;0;0;0;0;215;;;;;;;
+366;37 Voorbereiding tot recycling;Hergebruik;2006;121;121;44;38;0;9;17;10;2;7;8;1;23;0;0;121;121;12;109;0;0;0;0;121;7.0;16.0;38.0;31.0;24.0;5.0;0.0
+367;37 Voorbereiding tot recycling;Hergebruik;2007;120;120;43;38;0;9;18;10;2;7;8;1;23;0;0;120;120;12;108;0;0;0;0;120;;;;;;;
+368;37 Voorbereiding tot recycling;Eindverwerking;2004;619;619;1;41;38;0;2;0;0;10;332;0;233;2;1;619;0;0;0;619;47;417;155;619;126.0;76.0;63.0;138.0;48.0;169.0;0.0
+369;37 Voorbereiding tot recycling;Eindverwerking;2005;628;625;1;41;38;0;2;0;0;10;336;0;235;2;2;628;0;0;0;628;49;422;157;628;;;;;;;
+370;37 Voorbereiding tot recycling;Eindverwerking;2006;747;744;23;41;38;0;4;0;0;5;346;27;294;7;2;747;0;0;0;747;48;493;206;747;140.0;92.0;129.0;178.0;4.0;204.0;0.0
+371;37 Voorbereiding tot recycling;Eindverwerking;2007;744;742;23;41;37;0;4;0;0;5;345;27;293;7;2;744;0;0;0;744;48;492;206;744;;;;;;;
+372;E Productie en distributie van en ..;Totaal hergebruik en eindverwerking;2004;1676;1654;10;4;0;2;1;1;0;4;10;84;1541;1;23;1676;1636;0;1636;41;10;28;3;1676;0.0;0.0;2.0;2.0;11.0;31.0;1631.0
+373;E Productie en distributie van en ..;Totaal hergebruik en eindverwerking;2005;1544;1525;10;4;0;2;1;1;0;4;10;96;1399;1;19;1544;1496;0;1495;49;10;36;3;1544;;;;;;;
+374;E Productie en distributie van en ..;Totaal hergebruik en eindverwerking;2006;1455;1449;18;3;0;2;1;1;0;4;63;110;1251;0;6;1455;1327;0;1327;128;7;65;55;1455;0.0;0.0;3.0;2.0;8.0;491.0;950.0
+375;E Productie en distributie van en ..;Totaal hergebruik en eindverwerking;2007;1515;1506;6;3;0;2;1;1;0;4;9;101;1382;0;9;1515;1467;0;1467;48;9;38;1;1515;;;;;;;
+376;E Productie en distributie van en ..;Hergebruik;2004;1636;1622;9;4;0;2;0;1;0;4;1;64;1540;0;15;1636;1636;0;1636;0;0;0;0;1636;0.0;0.0;1.0;1.0;8.0;24.0;1601.0
+377;E Productie en distributie van en ..;Hergebruik;2005;1496;1483;9;4;0;2;0;1;0;4;1;67;1398;0;13;1496;1496;0;1495;0;0;0;0;1496;;;;;;;
+378;E Productie en distributie van en ..;Hergebruik;2006;1327;1326;18;3;0;2;1;1;0;3;0;81;1221;0;1;1327;1327;0;1327;0;0;0;0;1327;0.0;0.0;3.0;2.0;8.0;478.0;837.0
+379;E Productie en distributie van en ..;Hergebruik;2007;1467;1464;6;3;0;2;1;1;0;3;0;73;1378;0;4;1467;1467;0;1467;0;0;0;0;1467;;;;;;;
+380;E Productie en distributie van en ..;Eindverwerking;2004;41;34;1;1;0;0;1;0;0;0;10;20;1;1;7;41;0;0;0;41;10;28;3;41;0.0;0.0;1.0;1.0;2.0;7.0;29.0
+381;E Productie en distributie van en ..;Eindverwerking;2005;49;42;1;1;0;0;1;0;0;0;10;29;1;1;7;49;0;0;0;49;10;36;3;49;;;;;;;
+382;E Productie en distributie van en ..;Eindverwerking;2006;128;123;0;0;0;0;0;0;0;0;63;29;30;0;5;128;0;0;0;128;7;65;55;128;0.0;0.0;0.0;1.0;0.0;13.0;113.0
+383;E Productie en distributie van en ..;Eindverwerking;2007;48;42;0;0;0;0;0;0;0;0;9;28;5;0;6;48;0;0;0;48;9;38;1;48;;;;;;;
+384;40 Productie en distributie van ..;Totaal hergebruik en eindverwerking;2004;1503;1494;9;3;0;1;1;1;0;1;8;2;1470;1;8;1503;1486;0;1486;17;8;7;2;1503;0.0;0.0;2.0;2.0;1.0;3.0;1495.0
+385;40 Productie en distributie van ..;Totaal hergebruik en eindverwerking;2005;1359;1352;10;3;0;1;1;1;0;1;8;2;1327;1;7;1359;1343;0;1342;16;8;6;2;1359;;;;;;;
+386;40 Productie en distributie van ..;Totaal hergebruik en eindverwerking;2006;1259;1253;17;3;0;1;1;1;0;0;61;0;1171;0;6;1259;1164;0;1164;95;7;33;54;1259;0.0;0.0;1.0;2.0;1.0;451.0;803.0
+387;40 Productie en distributie van ..;Totaal hergebruik en eindverwerking;2007;1328;1319;6;3;0;1;1;1;0;0;7;0;1302;0;9;1328;1312;0;1312;15;8;7;0;1328;;;;;;;
+388;40 Productie en distributie van ..;Hergebruik;2004;1486;1484;8;3;0;1;0;1;0;1;1;1;1470;0;3;1486;1486;0;1486;0;0;0;0;1486;0.0;0.0;1.0;1.0;1.0;1.0;1482.0
+389;40 Productie en distributie van ..;Hergebruik;2005;1343;1340;9;3;0;1;0;1;0;1;1;1;1326;0;2;1343;1343;0;1342;0;0;0;0;1343;;;;;;;
+390;40 Productie en distributie van ..;Hergebruik;2006;1164;1164;17;3;0;1;0;1;0;0;0;0;1143;0;1;1164;1164;0;1164;0;0;0;0;1164;0.0;0.0;1.0;2.0;0.0;449.0;712.0
+391;40 Productie en distributie van ..;Hergebruik;2007;1312;1309;6;3;0;1;1;1;0;0;0;0;1300;0;4;1312;1312;0;1312;0;0;0;0;1312;;;;;;;
+392;40 Productie en distributie van ..;Eindverwerking;2004;17;11;1;1;0;0;1;0;0;0;7;1;0;1;6;17;0;0;0;17;8;7;2;17;0.0;0.0;1.0;1.0;0.0;1.0;13.0
+393;40 Productie en distributie van ..;Eindverwerking;2005;16;11;1;1;0;0;1;0;0;0;7;1;0;1;5;16;0;0;0;16;8;6;2;16;;;;;;;
+394;40 Productie en distributie van ..;Eindverwerking;2006;95;89;0;0;0;0;0;0;0;0;61;0;28;0;5;95;0;0;0;95;7;33;54;95;0.0;0.0;0.0;0.0;0.0;2.0;91.0
+395;40 Productie en distributie van ..;Eindverwerking;2007;15;10;0;0;0;0;0;0;0;0;7;0;2;0;6;15;0;0;0;15;8;7;0;15;;;;;;;
+396;41 Winning en distributie van water;Totaal hergebruik en eindverwerking;2004;174;160;1;1;0;1;0;0;0;3;2;82;71;0;14;174;150;0;150;24;1;22;1;174;0.0;0.0;0.0;0.0;10.0;28.0;136.0
+397;41 Winning en distributie van water;Totaal hergebruik en eindverwerking;2005;185;173;1;1;0;1;0;0;0;3;2;94;73;0;12;185;153;0;153;32;1;30;1;185;;;;;;;
+398;41 Winning en distributie van water;Totaal hergebruik en eindverwerking;2006;196;196;0;1;0;0;0;0;0;3;2;110;80;0;0;196;163;0;163;33;1;32;1;196;0.0;0.0;2.0;0.0;7.0;40.0;147.0
+399;41 Winning en distributie van water;Totaal hergebruik en eindverwerking;2007;187;187;0;1;0;0;0;0;0;3;2;101;80;0;0;187;155;0;155;32;1;31;1;187;;;;;;;
+400;41 Winning en distributie van water;Hergebruik;2004;150;138;1;1;0;1;0;0;0;3;0;63;70;0;13;150;150;0;150;0;0;0;0;150;0.0;0.0;0.0;0.0;8.0;23.0;120.0
+401;41 Winning en distributie van water;Hergebruik;2005;153;143;1;1;0;1;0;0;0;3;0;66;72;0;10;153;153;0;153;0;0;0;0;153;;;;;;;
+402;41 Winning en distributie van water;Hergebruik;2006;163;163;0;1;0;0;0;0;0;3;0;81;78;0;0;163;163;0;163;0;0;0;0;163;0.0;0.0;2.0;0.0;7.0;29.0;125.0
+403;41 Winning en distributie van water;Hergebruik;2007;155;155;0;1;0;0;0;0;0;3;0;73;78;0;0;155;155;0;155;0;0;0;0;155;;;;;;;
+404;41 Winning en distributie van water;Eindverwerking;2004;24;22;0;0;0;0;0;0;0;0;2;19;1;0;1;24;0;0;0;24;1;22;1;24;0.0;0.0;0.0;0.0;2.0;6.0;16.0
+405;41 Winning en distributie van water;Eindverwerking;2005;32;31;0;0;0;0;0;0;0;0;2;28;1;0;2;32;0;0;0;32;1;30;1;32;;;;;;;
+406;41 Winning en distributie van water;Eindverwerking;2006;33;33;0;0;0;0;0;0;0;0;2;29;2;0;0;33;0;0;0;33;1;32;1;33;0.0;0.0;0.0;0.0;0.0;11.0;22.0
+407;41 Winning en distributie van water;Eindverwerking;2007;32;32;0;0;0;0;0;0;0;0;2;28;2;0;0;32;0;0;0;32;1;31;1;32;;;;;;;

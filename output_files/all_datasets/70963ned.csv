@@ -1,0 +1,19 @@
+﻿ID;DienstenAccountancy;Perioden;Prijsindexcijfers_1;Jaarmutatie_2;Prijsindexcijfers_3;Jaarmutatie_4
+0;Totaal diensten Accountancy;2002;100.0;;100.0;
+1;Totaal diensten Accountancy;2003;106.0;6.0;106.0;6.0
+2;Totaal diensten Accountancy;2004;;;112.0;6.0
+3;Financiële administratie;2002;100.0;;;
+4;Financiële administratie;2003;106.0;6.0;;
+5;Financiële administratie;2004;;;;
+6;Advisering (exclusief belastingadvies);2002;100.0;;;
+7;Advisering (exclusief belastingadvies);2003;100.0;0.0;;
+8;Advisering (exclusief belastingadvies);2004;;;;
+9;Accountantscontrole;2002;100.0;;;
+10;Accountantscontrole;2003;107.0;7.0;;
+11;Accountantscontrole;2004;;;;
+12;Belastingadvies;2002;100.0;;;
+13;Belastingadvies;2003;106.0;6.0;;
+14;Belastingadvies;2004;;;;
+15;Overige dienstverlening;2002;100.0;;;
+16;Overige dienstverlening;2003;106.0;6.0;;
+17;Overige dienstverlening;2004;;;;

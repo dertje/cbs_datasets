@@ -1,0 +1,101 @@
+﻿ID;SBI93;Perioden;Omzet_1;OmzetSeizoengecorrigeerd_2;VoortschrijdendeOmzet_3;AlleUitzenduren_4;AlleUitzendurenSeizoengecorrigeerd_5;UitzendurenFaseA_6;UitzendurenFaseASeizoengecorrigeerd_7;UitzendurenFaseBC_8;UitzUrenFaseBCSeizoengecorrigeerd_9;Omzet_10;OmzetSeizoengecorrigeerd_11;CumulatieveOmzet_12;AlleUitzenduren_13;AlleUitzendurenSeizoengecorrigeerd_14;CumulatiefAlleUitzenduren_15;UitzendurenFaseA_16;UitzendurenFaseASeizoengecorrigeerd_17;CumulatieveUitzendurenFaseA_18;UitzendurenFaseBC_19;UitzUrenFaseBCSeizoengecorrigeerd_20;CumulatieveUitzendurenFaseBC_21
+0;7450a Uitzend- en uitleenbedrijven;1999 1e kwartaal;85.0;90.0;;91.0;99.0;102.0;113.0;68.0;75.0;;;;;;;;;;;;
+1;7450a Uitzend- en uitleenbedrijven;1999 2e kwartaal;91.0;91.0;;97.0;98.0;110.0;112.0;70.0;72.0;;0.9;;;-0.9;;;-1.1;;;-3.7;
+2;7450a Uitzend- en uitleenbedrijven;1999 3e kwartaal;96.0;93.0;;105.0;97.0;120.0;109.0;74.0;74.0;;1.4;;;-0.9;;;-2.9;;;2.2;
+3;7450a Uitzend- en uitleenbedrijven;1999 4e kwartaal;100.0;97.0;93.0;105.0;103.0;112.0;110.0;92.0;84.0;;5.3;;;6.3;;;1.2;;;14.1;
+4;7450a Uitzend- en uitleenbedrijven;1999;93.0;93.0;93.0;99.0;100.0;111.0;111.0;76.0;76.0;;;;;;;;;;;;
+5;7450a Uitzend- en uitleenbedrijven;2000 1e kwartaal;92.0;97.0;94.0;90.0;99.0;93.0;104.0;84.0;92.0;7.6;-0.1;7.6;-0.1;-4.1;-0.1;-8.2;-5.2;-8.2;24.7;9.3;24.7
+6;7450a Uitzend- en uitleenbedrijven;2000 2e kwartaal;99.0;99.0;96.0;100.0;101.0;99.0;101.0;101.0;102.0;8.8;2.0;8.2;2.8;1.6;1.4;-9.7;-3.2;-9.0;43.1;11.4;34.1
+7;7450a Uitzend- en uitleenbedrijven;2000 3e kwartaal;104.0;100.0;98.0;109.0;101.0;111.0;100.0;104.0;103.0;8.3;1.0;8.2;3.4;0.3;2.1;-7.5;-0.8;-8.4;39.6;0.4;36.0
+8;7450a Uitzend- en uitleenbedrijven;2000 4e kwartaal;106.0;103.0;100.0;101.0;99.0;96.0;95.0;111.0;103.0;6.2;2.9;7.7;-3.9;-2.2;0.5;-13.8;-5.3;-9.8;20.7;0.4;31.4
+9;7450a Uitzend- en uitleenbedrijven;2000;100.0;100.0;100.0;100.0;100.0;100.0;100.0;100.0;100.0;7.7;;7.7;0.5;;0.5;-9.8;;-9.8;31.4;;31.4
+10;7450a Uitzend- en uitleenbedrijven;2001 1e kwartaal;102.0;108.0;103.0;95.0;104.0;87.0;98.0;110.0;117.0;11.1;4.9;11.1;4.5;4.7;4.5;-6.6;3.0;-6.6;29.8;13.6;29.8
+11;7450a Uitzend- en uitleenbedrijven;2001 2e kwartaal;106.0;107.0;105.0;99.0;100.0;92.0;93.0;115.0;116.0;8.0;-1.0;9.5;-0.4;-3.2;2.0;-7.4;-4.5;-7.0;13.9;-0.7;21.2
+12;7450a Uitzend- en uitleenbedrijven;2001 3e kwartaal;114.0;110.0;107.0;106.0;99.0;101.0;90.0;118.0;116.0;9.3;2.3;9.4;-2.2;-1.3;0.4;-9.5;-3.4;-7.9;13.7;0.1;18.5
+13;7450a Uitzend- en uitleenbedrijven;2001 4e kwartaal;110.0;107.0;108.0;99.0;96.0;87.0;86.0;122.0;115.0;4.3;-2.1;8.1;-2.3;-2.5;-0.2;-9.2;-4.2;-8.2;10.1;-1.5;16.2
+14;7450a Uitzend- en uitleenbedrijven;2001;108.0;108.0;108.0;100.0;100.0;92.0;92.0;116.0;116.0;8.1;;8.1;-0.2;;-0.2;-8.2;;-8.2;16.2;;16.2
+15;7450a Uitzend- en uitleenbedrijven;2002 1e kwartaal;100.0;107.0;108.0;86.0;95.0;77.0;87.0;104.0;112.0;-1.9;-0.3;-1.9;-9.5;-1.9;-9.5;-12.1;0.5;-12.1;-5.2;-2.4;-5.2
+16;7450a Uitzend- en uitleenbedrijven;2002 2e kwartaal;108.0;109.0;108.0;94.0;95.0;87.0;88.0;107.0;109.0;1.4;1.5;-0.2;-5.7;0.0;-7.5;-5.1;2.1;-8.5;-6.6;-2.8;-5.9
+17;7450a Uitzend- en uitleenbedrijven;2002 3e kwartaal;112.0;107.0;107.0;100.0;92.0;93.0;83.0;113.0;111.0;-1.8;-1.2;-0.8;-6.3;-2.3;-7.1;-7.3;-5.8;-8.1;-4.5;1.6;-5.4
+18;7450a Uitzend- en uitleenbedrijven;2002 4e kwartaal;107.0;103.0;107.0;94.0;91.0;82.0;81.0;118.0;110.0;-3.1;-3.6;-1.4;-4.9;-1.3;-6.6;-5.8;-2.5;-7.5;-3.7;-0.2;-5.0
+19;7450a Uitzend- en uitleenbedrijven;2002;107.0;107.0;107.0;93.0;93.0;85.0;85.0;110.0;110.0;-1.4;;-1.4;-6.6;;-6.6;-7.5;;-7.5;-5.0;;-5.0
+20;7450a Uitzend- en uitleenbedrijven;2003 1e kwartaal;93.0;101.0;105.0;79.0;89.0;70.0;80.0;98.0;107.0;-6.4;-1.9;-6.4;-7.2;-2.7;-7.2;-8.3;-1.2;-8.3;-5.5;-3.4;-5.5
+21;7450a Uitzend- en uitleenbedrijven;2003 2e kwartaal;98.0;99.0;103.0;84.0;85.0;75.0;76.0;103.0;105.0;-9.2;-2.8;-7.8;-10.1;-3.7;-8.7;-14.0;-5.2;-11.3;-3.4;-1.4;-4.4
+22;7450a Uitzend- en uitleenbedrijven;2003 3e kwartaal;102.0;97.0;100.0;91.0;84.0;84.0;74.0;106.0;103.0;-9.0;-1.3;-8.2;-8.8;-1.9;-8.7;-10.4;-2.6;-11.0;-5.9;-1.7;-4.9
+23;7450a Uitzend- en uitleenbedrijven;2003 4e kwartaal;100.0;96.0;98.0;86.0;83.0;75.0;73.0;108.0;101.0;-6.4;-1.2;-7.8;-8.8;-1.6;-8.7;-9.1;-0.8;-10.6;-8.4;-2.5;-5.9
+24;7450a Uitzend- en uitleenbedrijven;2003;98.0;98.0;98.0;85.0;85.0;76.0;76.0;104.0;104.0;-7.8;;-7.8;-8.7;;-8.7;-10.6;;-10.6;-5.9;;-5.9
+25;7450a Uitzend- en uitleenbedrijven;2004 1e kwartaal;87.0;95.0;97.0;74.0;83.0;65.0;75.0;93.0;102.0;-6.7;-1.0;-6.7;-6.6;1.0;-6.6;-7.7;1.8;-7.7;-5.0;1.1;-5.0
+26;7450a Uitzend- en uitleenbedrijven;2004 2e kwartaal;97.0;97.0;96.0;83.0;84.0;76.0;77.0;98.0;99.0;-1.4;2.0;-4.0;-1.1;1.3;-3.8;1.3;2.9;-3.0;-4.7;-2.6;-4.9
+27;7450a Uitzend- en uitleenbedrijven;2004 3e kwartaal;105.0;101.0;97.0;94.0;87.0;91.0;82.0;101.0;98.0;3.7;4.2;-1.3;3.3;3.0;-1.2;8.3;6.6;1.1;-4.6;-1.0;-4.8
+28;7450a Uitzend- en uitleenbedrijven;2004 4e kwartaal;110.0;106.0;100.0;94.0;91.0;90.0;88.0;103.0;97.0;10.0;4.7;1.6;10.3;5.1;1.7;20.5;6.8;5.9;-4.3;-1.4;-4.6
+29;7450a Uitzend- en uitleenbedrijven;2004;100.0;100.0;100.0;86.0;86.0;80.0;80.0;99.0;99.0;1.6;;1.6;1.7;;1.7;5.9;;5.9;-4.6;;-4.6
+30;7450a Uitzend- en uitleenbedrijven;2005 1e kwartaal;97.0;105.0;102.0;81.0;90.0;78.0;88.0;88.0;97.0;11.5;-0.5;11.5;9.7;-1.0;9.7;20.6;0.2;20.6;-5.9;-0.1;-5.9
+31;7450a Uitzend- en uitleenbedrijven;2005 2e kwartaal;112.0;113.0;106.0;94.0;95.0;91.0;92.0;101.0;102.0;16.2;6.9;14.0;13.3;5.4;11.6;20.0;5.1;20.3;2.5;5.2;-1.6
+32;7450a Uitzend- en uitleenbedrijven;2005 3e kwartaal;120.0;116.0;110.0;106.0;99.0;104.0;96.0;110.0;106.0;13.5;2.8;13.8;12.6;4.1;11.9;14.7;4.3;18.1;8.6;4.5;1.9
+33;7450a Uitzend- en uitleenbedrijven;2005 4e kwartaal;127.0;122.0;114.0;107.0;103.0;105.0;102.0;110.0;104.0;15.5;5.7;14.3;12.9;3.9;12.2;16.7;5.6;17.7;6.0;-2.0;3.0
+34;7450a Uitzend- en uitleenbedrijven;2005;114.0;114.0;114.0;97.0;97.0;95.0;95.0;102.0;102.0;14.3;;14.3;12.2;;12.2;17.7;;17.7;3.0;;3.0
+35;7450a Uitzend- en uitleenbedrijven;2006 1e kwartaal;120.0;129.0;120.0;99.0;108.0;96.0;106.0;104.0;112.0;24.0;5.3;24.0;21.5;4.6;21.5;23.0;4.2;23.0;18.7;7.8;18.7
+36;7450a Uitzend- en uitleenbedrijven;2006 2e kwartaal;135.0;135.0;126.0;111.0;112.0;108.0;108.0;118.0;118.0;20.3;5.0;22.0;17.6;3.6;19.4;18.0;2.3;20.3;16.8;5.3;17.7
+37;7450a Uitzend- en uitleenbedrijven;2006 3e kwartaal;146.0;143.0;132.0;121.0;115.0;119.0;111.0;127.0;124.0;22.0;5.4;22.0;14.7;3.2;17.6;14.2;2.8;18.0;15.7;4.5;16.9
+38;7450a Uitzend- en uitleenbedrijven;2006 4e kwartaal;156.0;150.0;139.0;125.0;121.0;121.0;117.0;133.0;128.0;22.4;5.4;22.1;17.0;5.0;17.4;14.9;5.3;17.1;21.1;4.0;18.1
+39;7450a Uitzend- en uitleenbedrijven;2006;139.0;139.0;139.0;114.0;114.0;111.0;111.0;121.0;121.0;22.1;;22.1;17.4;;17.4;17.1;;17.1;18.1;;18.1
+40;7450a Uitzend- en uitleenbedrijven;2007 1e kwartaal;150.0;159.0;147.0;116.0;125.0;110.0;120.0;128.0;136.0;24.2;5.6;24.2;17.0;3.1;17.0;13.8;2.2;13.8;22.8;5.7;22.8
+41;7450a Uitzend- en uitleenbedrijven;2007 2e kwartaal;164.0;163.0;154.0;127.0;127.0;121.0;121.0;141.0;140.0;21.2;2.6;22.6;14.7;2.0;15.8;12.4;1.1;13.1;19.2;3.4;20.9
+42;7450a Uitzend- en uitleenbedrijven;2007 3e kwartaal;172.0;169.0;160.0;135.0;129.0;129.0;123.0;148.0;143.0;17.8;3.9;20.9;11.5;1.6;14.2;9.1;1.3;11.6;16.3;2.2;19.2
+43;7450a Uitzend- en uitleenbedrijven;2007 4e kwartaal;180.0;174.0;166.0;135.0;131.0;127.0;123.0;153.0;148.0;15.6;2.7;19.4;8.4;1.5;12.6;4.9;0.1;9.8;14.9;3.2;18.0
+44;7450a Uitzend- en uitleenbedrijven;2007;166.0;166.0;166.0;128.0;128.0;122.0;122.0;142.0;142.0;19.4;;19.4;12.6;;12.6;9.8;;9.8;18.0;;18.0
+45;7450a Uitzend- en uitleenbedrijven;2008 1e kwartaal;168.0;178.0;171.0;124.0;134.0;114.0;124.0;146.0;155.0;12.6;2.4;12.6;7.3;1.7;7.3;3.8;1.2;3.8;13.6;4.6;13.6
+46;7450a Uitzend- en uitleenbedrijven;2008 2e kwartaal;185.0;184.0;176.0;136.0;136.0;125.0;126.0;158.0;157.0;13.1;3.4;12.8;6.9;1.6;7.1;3.8;1.0;3.8;12.4;1.7;13.0
+47;7450a Uitzend- en uitleenbedrijven;2008 3e kwartaal;185.0;183.0;180.0;139.0;133.0;127.0;120.0;164.0;160.0;7.8;-0.6;11.0;2.7;-1.8;5.6;-1.9;-4.1;1.8;11.0;1.3;12.2
+48;7450a Uitzend- en uitleenbedrijven;2008 4e kwartaal;189.0;181.0;182.0;134.0;131.0;120.0;116.0;164.0;160.0;4.5;-0.8;9.3;-0.6;-2.0;3.9;-5.4;-3.8;-0.1;7.5;0.0;11.0
+49;7450a Uitzend- en uitleenbedrijven;2008;182.0;182.0;182.0;133.0;133.0;122.0;122.0;158.0;158.0;9.3;;9.3;3.9;;3.9;-0.1;;-0.1;11.0;;11.0
+50;7450b Uitzendbureaus,uitleenbedrijven..;1999 1e kwartaal;;;;;;;;;;;;;;;;;;;;;
+51;7450b Uitzendbureaus,uitleenbedrijven..;1999 2e kwartaal;;;;;;;;;;;;;;;;;;;;;
+52;7450b Uitzendbureaus,uitleenbedrijven..;1999 3e kwartaal;;;;;;;;;;;;;;;;;;;;;
+53;7450b Uitzendbureaus,uitleenbedrijven..;1999 4e kwartaal;;;;;;;;;;;;;;;;;;;;;
+54;7450b Uitzendbureaus,uitleenbedrijven..;1999;;;;;;;;;;;;;;;;;;;;;
+55;7450b Uitzendbureaus,uitleenbedrijven..;2000 1e kwartaal;;;;;;;;;;;;;;;;;;;;;
+56;7450b Uitzendbureaus,uitleenbedrijven..;2000 2e kwartaal;;;;;;;;;;;;;;;;;;;;;
+57;7450b Uitzendbureaus,uitleenbedrijven..;2000 3e kwartaal;;;;;;;;;;;;;;;;;;;;;
+58;7450b Uitzendbureaus,uitleenbedrijven..;2000 4e kwartaal;;;;;;;;;;;;;;;;;;;;;
+59;7450b Uitzendbureaus,uitleenbedrijven..;2000;;;;;;;;;;;;;;;;;;;;;
+60;7450b Uitzendbureaus,uitleenbedrijven..;2001 1e kwartaal;;;;;;;;;;;;;;;;;;;;;
+61;7450b Uitzendbureaus,uitleenbedrijven..;2001 2e kwartaal;;;;;;;;;;;;;;;;;;;;;
+62;7450b Uitzendbureaus,uitleenbedrijven..;2001 3e kwartaal;;;;;;;;;;;;;;;;;;;;;
+63;7450b Uitzendbureaus,uitleenbedrijven..;2001 4e kwartaal;;;;;;;;;;;;;;;;;;;;;
+64;7450b Uitzendbureaus,uitleenbedrijven..;2001;;;;;;;;;;;;;;;;;;;;;
+65;7450b Uitzendbureaus,uitleenbedrijven..;2002 1e kwartaal;;;;;;;;;;;;;;;;;;;;;
+66;7450b Uitzendbureaus,uitleenbedrijven..;2002 2e kwartaal;;;;;;;;;;;;;;;;;;;;;
+67;7450b Uitzendbureaus,uitleenbedrijven..;2002 3e kwartaal;;;;;;;;;;;;;;;;;;;;;
+68;7450b Uitzendbureaus,uitleenbedrijven..;2002 4e kwartaal;;;;;;;;;;;;;;;;;;;;;
+69;7450b Uitzendbureaus,uitleenbedrijven..;2002;;;;;;;;;;;;;;;;;;;;;
+70;7450b Uitzendbureaus,uitleenbedrijven..;2003 1e kwartaal;94.0;;;80.0;;;;;;;;;;;;;;;;;
+71;7450b Uitzendbureaus,uitleenbedrijven..;2003 2e kwartaal;99.0;;;85.0;;;;;;;;;;;;;;;;;
+72;7450b Uitzendbureaus,uitleenbedrijven..;2003 3e kwartaal;101.0;;;92.0;;;;;;;;;;;;;;;;;
+73;7450b Uitzendbureaus,uitleenbedrijven..;2003 4e kwartaal;101.0;;99.0;87.0;;;;;;;;;;;;;;;;;
+74;7450b Uitzendbureaus,uitleenbedrijven..;2003;99.0;;99.0;86.0;;;;;;;;;;;;;;;;;
+75;7450b Uitzendbureaus,uitleenbedrijven..;2004 1e kwartaal;87.0;;97.0;75.0;;;;;;-7.4;;-7.4;-5.7;;-5.7;;;;;;
+76;7450b Uitzendbureaus,uitleenbedrijven..;2004 2e kwartaal;97.0;;96.0;84.0;;;;;;-1.3;;-4.3;-0.4;;-3.0;;;;;;
+77;7450b Uitzendbureaus,uitleenbedrijven..;2004 3e kwartaal;105.0;;97.0;95.0;;;;;;3.7;;-1.5;3.1;;-0.8;;;;;;
+78;7450b Uitzendbureaus,uitleenbedrijven..;2004 4e kwartaal;112.0;;100.0;95.0;;;;;;10.6;;1.6;9.3;;1.8;;;;;;
+79;7450b Uitzendbureaus,uitleenbedrijven..;2004;100.0;;100.0;87.0;;;;;;1.6;;1.6;1.8;;1.8;;;;;;
+80;7450b Uitzendbureaus,uitleenbedrijven..;2005 1e kwartaal;97.0;;103.0;82.0;;;;;;12.0;;12.0;9.2;;9.2;;;;;;
+81;7450b Uitzendbureaus,uitleenbedrijven..;2005 2e kwartaal;113.0;;107.0;95.0;;;;;;16.0;;14.1;12.9;;11.1;;;;;;
+82;7450b Uitzendbureaus,uitleenbedrijven..;2005 3e kwartaal;119.0;;110.0;107.0;;;;;;13.7;;13.9;12.9;;11.8;;;;;;
+83;7450b Uitzendbureaus,uitleenbedrijven..;2005 4e kwartaal;128.0;;114.0;108.0;;;;;;15.0;;14.2;13.5;;12.3;;;;;;
+84;7450b Uitzendbureaus,uitleenbedrijven..;2005;114.0;;114.0;98.0;;;;;;14.2;;14.2;12.3;;12.3;;;;;;
+85;7450b Uitzendbureaus,uitleenbedrijven..;2006 1e kwartaal;121.0;;120.0;101.0;;;;;;24.3;;24.3;22.4;;22.4;;;;;;
+86;7450b Uitzendbureaus,uitleenbedrijven..;2006 2e kwartaal;136.0;;126.0;112.0;;;;;;20.7;;22.3;17.9;;19.9;;;;;;
+87;7450b Uitzendbureaus,uitleenbedrijven..;2006 3e kwartaal;145.0;;133.0;122.0;;;;;;22.1;;22.3;14.5;;17.9;;;;;;
+88;7450b Uitzendbureaus,uitleenbedrijven..;2006 4e kwartaal;156.0;;140.0;126.0;;;;;;21.7;;22.1;16.5;;17.5;;;;;;
+89;7450b Uitzendbureaus,uitleenbedrijven..;2006;140.0;;140.0;115.0;;;;;;22.1;;22.1;17.5;;17.5;;;;;;
+90;7450b Uitzendbureaus,uitleenbedrijven..;2007 1e kwartaal;149.0;;147.0;117.0;;;;;;23.2;;23.2;15.7;;15.7;;;;;;
+91;7450b Uitzendbureaus,uitleenbedrijven..;2007 2e kwartaal;163.0;;153.0;128.0;;;;;;20.1;;21.5;14.1;;14.9;;;;;;
+92;7450b Uitzendbureaus,uitleenbedrijven..;2007 3e kwartaal;170.0;;160.0;136.0;;;;;;17.4;;20.0;11.4;;13.6;;;;;;
+93;7450b Uitzendbureaus,uitleenbedrijven..;2007 4e kwartaal;180.0;;166.0;136.0;;;;;;15.5;;18.8;8.4;;12.2;;;;;;
+94;7450b Uitzendbureaus,uitleenbedrijven..;2007;166.0;;166.0;129.0;;;;;;18.8;;18.8;12.2;;12.2;;;;;;
+95;7450b Uitzendbureaus,uitleenbedrijven..;2008 1e kwartaal;168.0;;171.0;126.0;;;;;;12.8;;12.8;7.8;;7.8;;;;;;
+96;7450b Uitzendbureaus,uitleenbedrijven..;2008 2e kwartaal;184.0;;176.0;138.0;;;;;;12.4;;12.6;7.4;;7.6;;;;;;
+97;7450b Uitzendbureaus,uitleenbedrijven..;2008 3e kwartaal;183.0;;179.0;140.0;;;;;;7.6;;10.9;2.9;;5.9;;;;;;
+98;7450b Uitzendbureaus,uitleenbedrijven..;2008 4e kwartaal;188.0;;181.0;136.0;;;;;;4.1;;9.0;-0.3;;4.3;;;;;;
+99;7450b Uitzendbureaus,uitleenbedrijven..;2008;181.0;;181.0;135.0;;;;;;9.0;;9.0;4.3;;4.3;;;;;;

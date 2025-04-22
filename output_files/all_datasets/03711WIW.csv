@@ -1,0 +1,76 @@
+﻿ID;Geslacht;Herkomstgroepering;TotaalPersonen_1;Instromers_2;Uitstromers_3;TotaalPersonen_4;Instromers_5;Uitstromers_6
+0;Totaal mannen en vrouwen;0;32700;4790;6850;100;100;100
+1;Totaal mannen en vrouwen;Autochtonen;20050;2720;4330;61;57;63
+2;Totaal mannen en vrouwen;Allochtonen;12290;1980;2430;38;41;35
+3;Totaal mannen en vrouwen;Westerse allochtonen;3450;440;650;11;9;9
+4;Totaal mannen en vrouwen;Westerse allochtonen, 1e generatie;1560;200;270;5;4;4
+5;Totaal mannen en vrouwen;Westerse allochtonen, 2e generatie;1890;230;380;6;5;5
+6;Totaal mannen en vrouwen;Niet-westerse allochtonen;8840;1540;1780;27;32;26
+7;Totaal mannen en vrouwen;Niet-westerse allochtonen, 1e generatie;7870;1270;1390;24;27;20
+8;Totaal mannen en vrouwen;Niet-westerse allochtonen, 2e generatie;970;270;390;3;6;6
+9;Totaal mannen en vrouwen;Marokko;1470;250;390;4;5;6
+10;Totaal mannen en vrouwen;Marokko, 1e generatie;1290;200;300;4;4;4
+11;Totaal mannen en vrouwen;Marokko, 2e generatie;170;40;90;1;1;1
+12;Totaal mannen en vrouwen;Turkije;1410;240;330;4;5;5
+13;Totaal mannen en vrouwen;Turkije, 1e generatie;1080;170;210;3;4;3
+14;Totaal mannen en vrouwen;Turkije, 2e generatie;340;70;120;1;2;2
+15;Totaal mannen en vrouwen;Suriname;2810;370;470;9;8;7
+16;Totaal mannen en vrouwen;Suriname, 1e generatie;2500;260;350;8;5;5
+17;Totaal mannen en vrouwen;Suriname, 2e generatie;310;110;120;1;2;2
+18;Totaal mannen en vrouwen;Nederlandse Antillen;1060;190;190;3;4;3
+19;Totaal mannen en vrouwen;Nederlandse Antilllen, 1e generatie;1020;180;170;3;4;3
+20;Totaal mannen en vrouwen;Nederlandse Antillen, 2e generatie;50;10;20;0;0;0
+21;Totaal mannen en vrouwen;Overig niet-westers;2090;500;400;6;10;6
+22;Totaal mannen en vrouwen;Overig niet-westers, 1e generatie;1990;470;360;6;10;5
+23;Totaal mannen en vrouwen;Overig niet-westers, 2e generatie;100;30;40;0;1;1
+24;Totaal mannen en vrouwen;Herkomstgroepering onbekend;370;90;90;1;2;1
+25;Mannen;0;18280;2550;3650;56;53;53
+26;Mannen;Autochtonen;11450;1410;2260;35;29;33
+27;Mannen;Allochtonen;6600;1080;1330;20;23;19
+28;Mannen;Westerse allochtonen;1910;230;340;6;5;5
+29;Mannen;Westerse allochtonen, 1e generatie;0;100;150;0;2;2
+30;Mannen;Westerse allochtonen, 2e generatie;0;140;190;0;3;3
+31;Mannen;Niet-westerse allochtonen;4700;850;990;14;18;14
+32;Mannen;Niet-westerse allochtonen, 1e generatie;0;700;790;0;15;12
+33;Mannen;Niet-westerse allochtonen, 2e generatie;0;150;200;0;3;3
+34;Mannen;Marokko;900;160;230;3;3;3
+35;Mannen;Marokko, 1e generatie;0;0;0;0;0;0
+36;Mannen;Marokko, 2e generatie;0;0;0;0;0;0
+37;Mannen;Turkije;710;130;150;2;3;2
+38;Mannen;Turkije, 1e generatie;0;0;0;0;0;0
+39;Mannen;Turkije, 2e generatie;0;0;0;0;0;0
+40;Mannen;Suriname;1330;170;250;4;4;4
+41;Mannen;Suriname, 1e generatie;0;0;0;0;0;0
+42;Mannen;Suriname, 2e generatie;0;0;0;0;0;0
+43;Mannen;Nederlandse Antillen;500;90;100;2;2;1
+44;Mannen;Nederlandse Antilllen, 1e generatie;0;0;0;0;0;0
+45;Mannen;Nederlandse Antillen, 2e generatie;0;0;0;0;0;0
+46;Mannen;Overig niet-westers;1250;310;270;4;6;4
+47;Mannen;Overig niet-westers, 1e generatie;0;0;0;0;0;0
+48;Mannen;Overig niet-westers, 2e generatie;0;0;0;0;0;0
+49;Mannen;Herkomstgroepering onbekend;220;50;50;1;1;1
+50;Vrouwen;0;14430;2240;3210;44;47;47
+51;Vrouwen;Autochtonen;8600;1310;2070;26;27;30
+52;Vrouwen;Allochtonen;5680;900;1090;17;19;16
+53;Vrouwen;Westerse allochtonen;1540;210;310;5;4;5
+54;Vrouwen;Westerse allochtonen, 1e generatie;0;110;130;0;2;2
+55;Vrouwen;Westerse allochtonen, 2e generatie;0;100;180;0;2;3
+56;Vrouwen;Niet-westerse allochtonen;4150;690;780;13;14;11
+57;Vrouwen;Niet-westerse allochtonen, 1e generatie;0;570;600;0;12;9
+58;Vrouwen;Niet-westerse allochtonen, 2e generatie;0;120;190;0;3;3
+59;Vrouwen;Marokko;560;90;160;2;2;2
+60;Vrouwen;Marokko, 1e generatie;0;0;0;0;0;0
+61;Vrouwen;Marokko, 2e generatie;0;0;0;0;0;0
+62;Vrouwen;Turkije;710;120;170;2;3;2
+63;Vrouwen;Turkije, 1e generatie;0;0;0;0;0;0
+64;Vrouwen;Turkije, 2e generatie;0;0;0;0;0;0
+65;Vrouwen;Suriname;1480;200;220;5;4;3
+66;Vrouwen;Suriname, 1e generatie;0;0;0;0;0;0
+67;Vrouwen;Suriname, 2e generatie;0;0;0;0;0;0
+68;Vrouwen;Nederlandse Antillen;560;100;90;2;2;1
+69;Vrouwen;Nederlandse Antilllen, 1e generatie;0;0;0;0;0;0
+70;Vrouwen;Nederlandse Antillen, 2e generatie;0;0;0;0;0;0
+71;Vrouwen;Overig niet-westers;840;190;140;3;4;2
+72;Vrouwen;Overig niet-westers, 1e generatie;0;0;0;0;0;0
+73;Vrouwen;Overig niet-westers, 2e generatie;0;0;0;0;0;0
+74;Vrouwen;Herkomstgroepering onbekend;140;40;40;0;1;1

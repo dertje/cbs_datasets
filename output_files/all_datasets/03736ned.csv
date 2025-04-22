@@ -1,0 +1,801 @@
+﻿ID;GeslachtEnBedrijf;TypeEnOpleidendeInstantie;Perioden;GevolgdeCursussenOfOpleidingen_1;GevolgdeInterneOpleidingen_2;GevolgdeExterneOpleidingen_3;VerdelingCursussenOfOpleidingen_4;VerdelingInterneCursussenOpleidingen_5;VerdelingExterneCursussenOpleidingen_6;InterneEnExterneOpleidingsuren_7;GevolgdeInterneOpleidingsuren_8;GevolgdeExterneOpleidingsuren_9;VerdelingInterneEnExterneUren_10;VerdelingInterneOpleidingsuren_11;VerdelingExterneOpleidingsuren_12
+0;Totaal werknemers;Totaal van de opleidingen;1999;2896.0;1306.0;1590.0;100.0;100.0;100.0;75011.0;29752.0;45259.0;100.0;100.0;100.0
+1;Totaal werknemers;Totaal van de opleidingen;2005;;;;;;;46954.0;;;100.0;;
+2;Totaal werknemers;Talen;1999;52.0;10.0;42.0;2.0;1.0;3.0;1677.0;327.0;1350.0;2.0;1.0;3.0
+3;Totaal werknemers;Talen;2005;;;;;;;1150.0;;;2.0;;
+4;Totaal werknemers;Verkoop en marketing;1999;257.0;150.0;107.0;9.0;11.0;7.0;7276.0;4136.0;3141.0;10.0;14.0;7.0
+5;Totaal werknemers;Verkoop en marketing;2005;;;;;;;4770.0;;;10.0;;
+6;Totaal werknemers;Boekhouding/financiën/management/kantoor;1999;;;;;;;;;;;;
+7;Totaal werknemers;Boekhouding/financiën/management/kantoor;2005;;;;;;;7675.0;;;16.0;;
+8;Totaal werknemers;Boekhouding en financiën;1999;246.0;131.0;115.0;8.0;10.0;7.0;12234.0;6200.0;6034.0;16.0;21.0;13.0
+9;Totaal werknemers;Boekhouding en financiën;2005;;;;;;;;;;;;
+10;Totaal werknemers;Management;1999;181.0;76.0;105.0;6.0;6.0;7.0;6310.0;2021.0;4289.0;8.0;7.0;9.0
+11;Totaal werknemers;Management;2005;;;;;;;;;;;;
+12;Totaal werknemers;Kantoorwerk;1999;41.0;14.0;27.0;1.0;1.0;2.0;710.0;187.0;523.0;1.0;1.0;1.0
+13;Totaal werknemers;Kantoorwerk;2005;;;;;;;;;;;;
+14;Totaal werknemers;Persoonlijke vaardigheden;1999;431.0;250.0;180.0;15.0;19.0;11.0;8722.0;4452.0;4270.0;12.0;15.0;9.0
+15;Totaal werknemers;Persoonlijke vaardigheden;2005;;;;;;;6481.0;;;14.0;;
+16;Totaal werknemers;Informatica;1999;577.0;233.0;343.0;20.0;18.0;22.0;11609.0;4265.0;7344.0;15.0;14.0;16.0
+17;Totaal werknemers;Informatica;2005;;;;;;;4435.0;;;9.0;;
+18;Totaal werknemers;Techniek, bouw en productie;1999;416.0;166.0;250.0;14.0;13.0;16.0;12994.0;3996.0;8997.0;17.0;13.0;20.0
+19;Totaal werknemers;Techniek, bouw en productie;2005;;;;;;;8708.0;;;19.0;;
+20;Totaal werknemers;Milieu en arbeidsomstandigheden;1999;454.0;175.0;279.0;16.0;13.0;18.0;7773.0;2668.0;5105.0;10.0;9.0;11.0
+21;Totaal werknemers;Milieu en arbeidsomstandigheden;2005;;;;;;;2695.0;;;6.0;;
+22;Totaal werknemers;Diensten;1999;176.0;81.0;95.0;6.0;6.0;6.0;3465.0;1048.0;2417.0;5.0;4.0;5.0
+23;Totaal werknemers;Diensten;2005;;;;;;;2044.0;;;4.0;;
+24;Totaal werknemers;Overige typen;1999;67.0;20.0;48.0;2.0;2.0;3.0;2240.0;452.0;1788.0;3.0;2.0;4.0
+25;Totaal werknemers;Overige typen;2005;;;;;;;8996.0;;;19.0;;
+26;Totaal werknemers;Hogescholen en universiteiten;1999;;;;;;;;;;;;
+27;Totaal werknemers;Hogescholen en universiteiten;2005;;;;;;;;;3361.0;;;12.0
+28;Totaal werknemers;(Hoge-)scholen;1999;39.0;;39.0;1.0;;2.0;3628.0;;3628.0;5.0;;8.0
+29;Totaal werknemers;(Hoge-)scholen;2005;;;;;;;;;;;;
+30;Totaal werknemers;Universiteiten;1999;31.0;;31.0;1.0;;2.0;1972.0;;1972.0;3.0;;4.0
+31;Totaal werknemers;Universiteiten;2005;;;;;;;;;;;;
+32;Totaal werknemers;Opleidingsinstelling publieke sector;1999;290.0;;290.0;10.0;;18.0;8815.0;;8815.0;12.0;;19.0
+33;Totaal werknemers;Opleidingsinstelling publieke sector;2005;;;;;;;;;5154.0;;;19.0
+34;Totaal werknemers;Particuliere opleidingsinstituten;1999;900.0;;900.0;31.0;;57.0;22588.0;;22588.0;30.0;;50.0
+35;Totaal werknemers;Particuliere opleidingsinstituten;2005;;;;;;;;;12212.0;;;45.0
+36;Totaal werknemers;Lev. app., software /moeder-zusterbedr.;1999;;;;;;;;;;;;
+37;Totaal werknemers;Lev. app., software /moeder-zusterbedr.;2005;;;;;;;;;2514.0;;;9.0
+38;Totaal werknemers;Leveranciers van apparatuur en software;1999;130.0;;130.0;4.0;;8.0;2723.0;;2723.0;4.0;;6.0
+39;Totaal werknemers;Leveranciers van apparatuur en software;2005;;;;;;;;;;;;
+40;Totaal werknemers;Moeder- en zusterbedrijven;1999;82.0;;82.0;3.0;;5.0;2163.0;;2163.0;3.0;;5.0
+41;Totaal werknemers;Moeder- en zusterbedrijven;2005;;;;;;;;;;;;
+42;Totaal werknemers;Vakbonden;1999;1.0;;1.0;0.0;;0.0;28.0;;28.0;0.0;;0.0
+43;Totaal werknemers;Vakbonden;2005;;;;;;;;;555.0;;;2.0
+44;Totaal werknemers;KvK, branche- en werkgeversorg.;1999;98.0;;98.0;3.0;;6.0;2760.0;;2760.0;4.0;;6.0
+45;Totaal werknemers;KvK, branche- en werkgeversorg.;2005;;;;;;;;;79.0;;;0.0
+46;Totaal werknemers;Eigen bedrijf;1999;1306.0;1306.0;;45.0;;;29752.0;29752.0;;40.0;;
+47;Totaal werknemers;Eigen bedrijf;2005;;;;;;;;;;;;
+48;Totaal werknemers;Overige instanties;1999;18.0;;18.0;1.0;;1.0;583.0;;583.0;1.0;;1.0
+49;Totaal werknemers;Overige instanties;2005;;;;;;;;;3180.0;;;12.0
+50;Mannelijke werknemers;Totaal van de opleidingen;1999;2059.0;871.0;1188.0;100.0;100.0;100.0;53579.0;19231.0;34349.0;100.0;100.0;100.0
+51;Mannelijke werknemers;Totaal van de opleidingen;2005;;;;;;;;;;;;
+52;Mannelijke werknemers;Talen;1999;32.0;7.0;25.0;2.0;1.0;2.0;1102.0;250.0;852.0;2.0;1.0;2.0
+53;Mannelijke werknemers;Talen;2005;;;;;;;;;;;;
+54;Mannelijke werknemers;Verkoop en marketing;1999;148.0;78.0;70.0;7.0;9.0;6.0;3670.0;1825.0;1845.0;7.0;9.0;5.0
+55;Mannelijke werknemers;Verkoop en marketing;2005;;;;;;;;;;;;
+56;Mannelijke werknemers;Boekhouding/financiën/management/kantoor;1999;;;;;;;;;;;;
+57;Mannelijke werknemers;Boekhouding/financiën/management/kantoor;2005;;;;;;;;;;;;
+58;Mannelijke werknemers;Boekhouding en financiën;1999;137.0;71.0;66.0;7.0;8.0;6.0;6991.0;3165.0;3827.0;13.0;16.0;11.0
+59;Mannelijke werknemers;Boekhouding en financiën;2005;;;;;;;;;;;;
+60;Mannelijke werknemers;Management;1999;134.0;56.0;78.0;7.0;6.0;7.0;4725.0;1431.0;3295.0;9.0;7.0;10.0
+61;Mannelijke werknemers;Management;2005;;;;;;;;;;;;
+62;Mannelijke werknemers;Kantoorwerk;1999;19.0;6.0;14.0;1.0;1.0;1.0;295.0;77.0;218.0;1.0;0.0;1.0
+63;Mannelijke werknemers;Kantoorwerk;2005;;;;;;;;;;;;
+64;Mannelijke werknemers;Persoonlijke vaardigheden;1999;267.0;146.0;121.0;13.0;17.0;10.0;5565.0;2575.0;2990.0;10.0;13.0;9.0
+65;Mannelijke werknemers;Persoonlijke vaardigheden;2005;;;;;;;;;;;;
+66;Mannelijke werknemers;Informatica;1999;384.0;148.0;235.0;19.0;17.0;20.0;8488.0;3052.0;5436.0;16.0;16.0;16.0
+67;Mannelijke werknemers;Informatica;2005;;;;;;;;;;;;
+68;Mannelijke werknemers;Techniek, bouw en productie;1999;385.0;150.0;235.0;19.0;17.0;20.0;12149.0;3706.0;8443.0;23.0;19.0;25.0
+69;Mannelijke werknemers;Techniek, bouw en productie;2005;;;;;;;;;;;;
+70;Mannelijke werknemers;Milieu en arbeidsomstandigheden;1999;393.0;151.0;242.0;19.0;17.0;20.0;6688.0;2214.0;4475.0;12.0;12.0;13.0
+71;Mannelijke werknemers;Milieu en arbeidsomstandigheden;2005;;;;;;;;;;;;
+72;Mannelijke werknemers;Diensten;1999;118.0;45.0;73.0;6.0;5.0;6.0;2506.0;616.0;1890.0;5.0;3.0;6.0
+73;Mannelijke werknemers;Diensten;2005;;;;;;;;;;;;
+74;Mannelijke werknemers;Overige typen;1999;43.0;13.0;29.0;2.0;2.0;2.0;1399.0;321.0;1078.0;3.0;2.0;3.0
+75;Mannelijke werknemers;Overige typen;2005;;;;;;;;;;;;
+76;Mannelijke werknemers;Hogescholen en universiteiten;1999;;;;;;;;;;;;
+77;Mannelijke werknemers;Hogescholen en universiteiten;2005;;;;;;;;;;;;
+78;Mannelijke werknemers;(Hoge-)scholen;1999;30.0;;30.0;1.0;;3.0;2746.0;;2746.0;5.0;;8.0
+79;Mannelijke werknemers;(Hoge-)scholen;2005;;;;;;;;;;;;
+80;Mannelijke werknemers;Universiteiten;1999;18.0;;18.0;1.0;;2.0;1316.0;;1316.0;2.0;;4.0
+81;Mannelijke werknemers;Universiteiten;2005;;;;;;;;;;;;
+82;Mannelijke werknemers;Opleidingsinstelling publieke sector;1999;236.0;;236.0;11.0;;20.0;7111.0;;7111.0;13.0;;21.0
+83;Mannelijke werknemers;Opleidingsinstelling publieke sector;2005;;;;;;;;;;;;
+84;Mannelijke werknemers;Particuliere opleidingsinstituten;1999;660.0;;660.0;32.0;;56.0;16932.0;;16932.0;32.0;;49.0
+85;Mannelijke werknemers;Particuliere opleidingsinstituten;2005;;;;;;;;;;;;
+86;Mannelijke werknemers;Lev. app., software /moeder-zusterbedr.;1999;;;;;;;;;;;;
+87;Mannelijke werknemers;Lev. app., software /moeder-zusterbedr.;2005;;;;;;;;;;;;
+88;Mannelijke werknemers;Leveranciers van apparatuur en software;1999;99.0;;99.0;5.0;;8.0;2228.0;;2228.0;4.0;;6.0
+89;Mannelijke werknemers;Leveranciers van apparatuur en software;2005;;;;;;;;;;;;
+90;Mannelijke werknemers;Moeder- en zusterbedrijven;1999;49.0;;49.0;2.0;;4.0;1421.0;;1421.0;3.0;;4.0
+91;Mannelijke werknemers;Moeder- en zusterbedrijven;2005;;;;;;;;;;;;
+92;Mannelijke werknemers;Vakbonden;1999;1.0;;1.0;0.0;;0.0;20.0;;20.0;0.0;;0.0
+93;Mannelijke werknemers;Vakbonden;2005;;;;;;;;;;;;
+94;Mannelijke werknemers;KvK, branche- en werkgeversorg.;1999;81.0;;81.0;4.0;;7.0;2097.0;;2097.0;4.0;;6.0
+95;Mannelijke werknemers;KvK, branche- en werkgeversorg.;2005;;;;;;;;;;;;
+96;Mannelijke werknemers;Eigen bedrijf;1999;871.0;871.0;;42.0;;;19231.0;19231.0;;36.0;;
+97;Mannelijke werknemers;Eigen bedrijf;2005;;;;;;;;;;;;
+98;Mannelijke werknemers;Overige instanties;1999;14.0;;14.0;1.0;;1.0;477.0;;477.0;1.0;;1.0
+99;Mannelijke werknemers;Overige instanties;2005;;;;;;;;;;;;
+100;Vrouwelijke werknemers;Totaal van de opleidingen;1999;837.0;435.0;402.0;100.0;100.0;100.0;21433.0;10521.0;10911.0;100.0;100.0;100.0
+101;Vrouwelijke werknemers;Totaal van de opleidingen;2005;;;;;;;;;;;;
+102;Vrouwelijke werknemers;Talen;1999;19.0;3.0;16.0;2.0;1.0;4.0;575.0;77.0;499.0;3.0;1.0;5.0
+103;Vrouwelijke werknemers;Talen;2005;;;;;;;;;;;;
+104;Vrouwelijke werknemers;Verkoop en marketing;1999;109.0;72.0;37.0;13.0;17.0;9.0;3607.0;2311.0;1296.0;17.0;22.0;12.0
+105;Vrouwelijke werknemers;Verkoop en marketing;2005;;;;;;;;;;;;
+106;Vrouwelijke werknemers;Boekhouding/financiën/management/kantoor;1999;;;;;;;;;;;;
+107;Vrouwelijke werknemers;Boekhouding/financiën/management/kantoor;2005;;;;;;;;;;;;
+108;Vrouwelijke werknemers;Boekhouding en financiën;1999;109.0;61.0;48.0;13.0;14.0;12.0;5242.0;3035.0;2207.0;24.0;29.0;20.0
+109;Vrouwelijke werknemers;Boekhouding en financiën;2005;;;;;;;;;;;;
+110;Vrouwelijke werknemers;Management;1999;47.0;20.0;27.0;6.0;5.0;7.0;1585.0;590.0;995.0;7.0;6.0;9.0
+111;Vrouwelijke werknemers;Management;2005;;;;;;;;;;;;
+112;Vrouwelijke werknemers;Kantoorwerk;1999;21.0;8.0;13.0;3.0;2.0;3.0;415.0;109.0;305.0;2.0;1.0;3.0
+113;Vrouwelijke werknemers;Kantoorwerk;2005;;;;;;;;;;;;
+114;Vrouwelijke werknemers;Persoonlijke vaardigheden;1999;163.0;104.0;60.0;20.0;24.0;15.0;3158.0;1877.0;1280.0;15.0;18.0;12.0
+115;Vrouwelijke werknemers;Persoonlijke vaardigheden;2005;;;;;;;;;;;;
+116;Vrouwelijke werknemers;Informatica;1999;193.0;85.0;108.0;23.0;19.0;27.0;3121.0;1213.0;1908.0;15.0;12.0;17.0
+117;Vrouwelijke werknemers;Informatica;2005;;;;;;;;;;;;
+118;Vrouwelijke werknemers;Techniek, bouw en productie;1999;31.0;16.0;15.0;4.0;4.0;4.0;845.0;290.0;554.0;4.0;3.0;5.0
+119;Vrouwelijke werknemers;Techniek, bouw en productie;2005;;;;;;;;;;;;
+120;Vrouwelijke werknemers;Milieu en arbeidsomstandigheden;1999;61.0;25.0;37.0;7.0;6.0;9.0;1085.0;454.0;631.0;5.0;4.0;6.0
+121;Vrouwelijke werknemers;Milieu en arbeidsomstandigheden;2005;;;;;;;;;;;;
+122;Vrouwelijke werknemers;Diensten;1999;58.0;36.0;22.0;7.0;8.0;5.0;959.0;432.0;527.0;4.0;4.0;5.0
+123;Vrouwelijke werknemers;Diensten;2005;;;;;;;;;;;;
+124;Vrouwelijke werknemers;Overige typen;1999;25.0;6.0;18.0;3.0;1.0;5.0;841.0;131.0;710.0;4.0;1.0;7.0
+125;Vrouwelijke werknemers;Overige typen;2005;;;;;;;;;;;;
+126;Vrouwelijke werknemers;Hogescholen en universiteiten;1999;;;;;;;;;;;;
+127;Vrouwelijke werknemers;Hogescholen en universiteiten;2005;;;;;;;;;;;;
+128;Vrouwelijke werknemers;(Hoge-)scholen;1999;9.0;;9.0;1.0;;2.0;882.0;;882.0;4.0;;8.0
+129;Vrouwelijke werknemers;(Hoge-)scholen;2005;;;;;;;;;;;;
+130;Vrouwelijke werknemers;Universiteiten;1999;13.0;;13.0;2.0;;3.0;656.0;;656.0;3.0;;6.0
+131;Vrouwelijke werknemers;Universiteiten;2005;;;;;;;;;;;;
+132;Vrouwelijke werknemers;Opleidingsinstelling publieke sector;1999;55.0;;55.0;7.0;;14.0;1703.0;;1703.0;8.0;;16.0
+133;Vrouwelijke werknemers;Opleidingsinstelling publieke sector;2005;;;;;;;;;;;;
+134;Vrouwelijke werknemers;Particuliere opleidingsinstituten;1999;240.0;;240.0;29.0;;60.0;5656.0;;5656.0;26.0;;52.0
+135;Vrouwelijke werknemers;Particuliere opleidingsinstituten;2005;;;;;;;;;;;;
+136;Vrouwelijke werknemers;Lev. app., software /moeder-zusterbedr.;1999;31.0;;31.0;4.0;;8.0;495.0;;495.0;2.0;;5.0
+137;Vrouwelijke werknemers;Lev. app., software /moeder-zusterbedr.;2005;;;;;;;;;;;;
+138;Vrouwelijke werknemers;Leveranciers van apparatuur en software;1999;;;;;;;;;;;;
+139;Vrouwelijke werknemers;Leveranciers van apparatuur en software;2005;;;;;;;;;;;;
+140;Vrouwelijke werknemers;Moeder- en zusterbedrijven;1999;33.0;;33.0;4.0;;8.0;741.0;;741.0;3.0;;7.0
+141;Vrouwelijke werknemers;Moeder- en zusterbedrijven;2005;;;;;;;;;;;;
+142;Vrouwelijke werknemers;Vakbonden;1999;0.0;;0.0;0.0;;0.0;8.0;;8.0;0.0;;0.0
+143;Vrouwelijke werknemers;Vakbonden;2005;;;;;;;;;;;;
+144;Vrouwelijke werknemers;KvK, branche- en werkgeversorg.;1999;17.0;;17.0;2.0;;4.0;663.0;;663.0;3.0;;6.0
+145;Vrouwelijke werknemers;KvK, branche- en werkgeversorg.;2005;;;;;;;;;;;;
+146;Vrouwelijke werknemers;Eigen bedrijf;1999;435.0;435.0;;52.0;;;10521.0;10521.0;;49.0;;
+147;Vrouwelijke werknemers;Eigen bedrijf;2005;;;;;;;;;;;;
+148;Vrouwelijke werknemers;Overige instanties;1999;4.0;;4.0;1.0;;1.0;106.0;;106.0;0.0;;1.0
+149;Vrouwelijke werknemers;Overige instanties;2005;;;;;;;;;;;;
+150;C Winning van delfstoffen;Totaal van de opleidingen;1999;9.0;3.0;6.0;100.0;100.0;100.0;180.0;51.0;129.0;100.0;100.0;100.0
+151;C Winning van delfstoffen;Totaal van de opleidingen;2005;;;;;;;281.0;;;100.0;;
+152;C Winning van delfstoffen;Talen;1999;0.0;0.0;0.0;1.0;0.0;2.0;1.0;0.0;1.0;1.0;0.0;1.0
+153;C Winning van delfstoffen;Talen;2005;;;;;;;10.0;;;4.0;;
+154;C Winning van delfstoffen;Verkoop en marketing;1999;0.0;0.0;0.0;1.0;1.0;1.0;2.0;0.0;2.0;1.0;1.0;1.0
+155;C Winning van delfstoffen;Verkoop en marketing;2005;;;;;;;69.0;;;25.0;;
+156;C Winning van delfstoffen;Boekhouding/financiën/management/kantoor;1999;;;;;;;;;;;;
+157;C Winning van delfstoffen;Boekhouding/financiën/management/kantoor;2005;;;;;;;24.0;;;9.0;;
+158;C Winning van delfstoffen;Boekhouding en financiën;1999;0.0;0.0;0.0;3.0;0.0;4.0;4.0;0.0;4.0;2.0;1.0;3.0
+159;C Winning van delfstoffen;Boekhouding en financiën;2005;;;;;;;;;;;;
+160;C Winning van delfstoffen;Management;1999;1.0;0.0;0.0;7.0;7.0;7.0;12.0;5.0;7.0;7.0;9.0;6.0
+161;C Winning van delfstoffen;Management;2005;;;;;;;;;;;;
+162;C Winning van delfstoffen;Kantoorwerk;1999;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+163;C Winning van delfstoffen;Kantoorwerk;2005;;;;;;;;;;;;
+164;C Winning van delfstoffen;Persoonlijke vaardigheden;1999;1.0;0.0;0.0;6.0;5.0;7.0;10.0;2.0;8.0;6.0;4.0;6.0
+165;C Winning van delfstoffen;Persoonlijke vaardigheden;2005;;;;;;;29.0;;;10.0;;
+166;C Winning van delfstoffen;Informatica;1999;2.0;0.0;1.0;17.0;11.0;21.0;57.0;3.0;54.0;32.0;7.0;42.0
+167;C Winning van delfstoffen;Informatica;2005;;;;;;;10.0;;;4.0;;
+168;C Winning van delfstoffen;Techniek, bouw en productie;1999;1.0;0.0;1.0;13.0;11.0;14.0;38.0;17.0;22.0;21.0;33.0;17.0
+169;C Winning van delfstoffen;Techniek, bouw en productie;2005;;;;;;;54.0;;;19.0;;
+170;C Winning van delfstoffen;Milieu en arbeidsomstandigheden;1999;4.0;2.0;2.0;39.0;59.0;28.0;39.0;21.0;18.0;21.0;41.0;14.0
+171;C Winning van delfstoffen;Milieu en arbeidsomstandigheden;2005;;;;;;;60.0;;;21.0;;
+172;C Winning van delfstoffen;Diensten;1999;1.0;0.0;1.0;11.0;5.0;14.0;13.0;2.0;12.0;7.0;4.0;9.0
+173;C Winning van delfstoffen;Diensten;2005;;;;;;;7.0;;;3.0;;
+174;C Winning van delfstoffen;Overige typen;1999;0.0;0.0;0.0;1.0;0.0;2.0;2.0;0.0;2.0;1.0;0.0;1.0
+175;C Winning van delfstoffen;Overige typen;2005;;;;;;;18.0;;;6.0;;
+176;C Winning van delfstoffen;Hogescholen en universiteiten;1999;;;;;;;;;;;;
+177;C Winning van delfstoffen;Hogescholen en universiteiten;2005;;;;;;;;;5.0;;;3.0
+178;C Winning van delfstoffen;(Hoge-)scholen;1999;0.0;;0.0;1.0;;2.0;6.0;;6.0;4.0;;5.0
+179;C Winning van delfstoffen;(Hoge-)scholen;2005;;;;;;;;;;;;
+180;C Winning van delfstoffen;Universiteiten;1999;0.0;;0.0;0.0;;0.0;0.0;;0.0;0.0;;0.0
+181;C Winning van delfstoffen;Universiteiten;2005;;;;;;;;;;;;
+182;C Winning van delfstoffen;Opleidingsinstelling publieke sector;1999;1.0;;1.0;11.0;;17.0;19.0;;19.0;10.0;;14.0
+183;C Winning van delfstoffen;Opleidingsinstelling publieke sector;2005;;;;;;;;;24.0;;;15.0
+184;C Winning van delfstoffen;Particuliere opleidingsinstituten;1999;4.0;;4.0;45.0;;72.0;49.0;;49.0;27.0;;38.0
+185;C Winning van delfstoffen;Particuliere opleidingsinstituten;2005;;;;;;;;;83.0;;;50.0
+186;C Winning van delfstoffen;Lev. app., software /moeder-zusterbedr.;1999;;;;;;;;;;;;
+187;C Winning van delfstoffen;Lev. app., software /moeder-zusterbedr.;2005;;;;;;;;;47.0;;;29.0
+188;C Winning van delfstoffen;Leveranciers van apparatuur en software;1999;0.0;;0.0;1.0;;2.0;2.0;;2.0;1.0;;1.0
+189;C Winning van delfstoffen;Leveranciers van apparatuur en software;2005;;;;;;;;;;;;
+190;C Winning van delfstoffen;Moeder- en zusterbedrijven;1999;0.0;;0.0;4.0;;6.0;51.0;;51.0;28.0;;40.0
+191;C Winning van delfstoffen;Moeder- en zusterbedrijven;2005;;;;;;;;;;;;
+192;C Winning van delfstoffen;Vakbonden;1999;0.0;;0.0;0.0;;0.0;0.0;;0.0;0.0;;0.0
+193;C Winning van delfstoffen;Vakbonden;2005;;;;;;;;;0.0;;;0.0
+194;C Winning van delfstoffen;KvK, branche- en werkgeversorg.;1999;0.0;;0.0;1.0;;2.0;1.0;;1.0;1.0;;1.0
+195;C Winning van delfstoffen;KvK, branche- en werkgeversorg.;2005;;;;;;;;;0.0;;;0.0
+196;C Winning van delfstoffen;Eigen bedrijf;1999;3.0;3.0;;37.0;;;51.0;51.0;;28.0;;
+197;C Winning van delfstoffen;Eigen bedrijf;2005;;;;;;;;;;;;
+198;C Winning van delfstoffen;Overige instanties;1999;0.0;;0.0;0.0;;1.0;1.0;;1.0;0.0;;0.0
+199;C Winning van delfstoffen;Overige instanties;2005;;;;;;;;;5.0;;;3.0
+200;D Industrie;Totaal van de opleidingen;1999;636.0;287.0;349.0;100.0;100.0;100.0;17194.0;6372.0;10822.0;100.0;100.0;100.0
+201;D Industrie;Totaal van de opleidingen;2005;;;;;;;9763.0;;;100.0;;
+202;D Industrie;Talen;1999;15.0;3.0;12.0;2.0;1.0;3.0;648.0;134.0;514.0;4.0;2.0;5.0
+203;D Industrie;Talen;2005;;;;;;;367.0;;;4.0;;
+204;D Industrie;Verkoop en marketing;1999;16.0;6.0;10.0;2.0;2.0;3.0;433.0;138.0;294.0;3.0;2.0;3.0
+205;D Industrie;Verkoop en marketing;2005;;;;;;;415.0;;;4.0;;
+206;D Industrie;Boekhouding/financiën/management/kantoor;1999;;;;;;;;;;;;
+207;D Industrie;Boekhouding/financiën/management/kantoor;2005;;;;;;;622.0;;;6.0;;
+208;D Industrie;Boekhouding en financiën;1999;8.0;1.0;7.0;1.0;0.0;2.0;326.0;48.0;277.0;2.0;1.0;3.0
+209;D Industrie;Boekhouding en financiën;2005;;;;;;;;;;;;
+210;D Industrie;Management;1999;53.0;18.0;35.0;8.0;6.0;10.0;1879.0;471.0;1408.0;11.0;7.0;13.0
+211;D Industrie;Management;2005;;;;;;;;;;;;
+212;D Industrie;Kantoorwerk;1999;5.0;1.0;4.0;1.0;0.0;1.0;110.0;22.0;88.0;1.0;0.0;1.0
+213;D Industrie;Kantoorwerk;2005;;;;;;;;;;;;
+214;D Industrie;Persoonlijke vaardigheden;1999;86.0;54.0;32.0;13.0;19.0;9.0;1578.0;736.0;842.0;9.0;12.0;8.0
+215;D Industrie;Persoonlijke vaardigheden;2005;;;;;;;1327.0;;;14.0;;
+216;D Industrie;Informatica;1999;148.0;59.0;89.0;23.0;21.0;25.0;3426.0;1542.0;1884.0;20.0;24.0;17.0
+217;D Industrie;Informatica;2005;;;;;;;1033.0;;;11.0;;
+218;D Industrie;Techniek, bouw en productie;1999;138.0;67.0;71.0;22.0;23.0;20.0;5800.0;2201.0;3598.0;34.0;35.0;33.0
+219;D Industrie;Techniek, bouw en productie;2005;;;;;;;3175.0;;;33.0;;
+220;D Industrie;Milieu en arbeidsomstandigheden;1999;132.0;66.0;65.0;21.0;23.0;19.0;2052.0;795.0;1257.0;12.0;12.0;12.0
+221;D Industrie;Milieu en arbeidsomstandigheden;2005;;;;;;;971.0;;;10.0;;
+222;D Industrie;Diensten;1999;29.0;9.0;20.0;4.0;3.0;6.0;552.0;202.0;350.0;3.0;3.0;3.0
+223;D Industrie;Diensten;2005;;;;;;;201.0;;;2.0;;
+224;D Industrie;Overige typen;1999;8.0;2.0;6.0;1.0;1.0;2.0;390.0;81.0;309.0;2.0;1.0;3.0
+225;D Industrie;Overige typen;2005;;;;;;;1651.0;;;17.0;;
+226;D Industrie;Hogescholen en universiteiten;1999;;;;;;;;;;;;
+227;D Industrie;Hogescholen en universiteiten;2005;;;;;;;;;402.0;;;7.0
+228;D Industrie;(Hoge-)scholen;1999;13.0;;13.0;2.0;;4.0;1092.0;;1092.0;6.0;;10.0
+229;D Industrie;(Hoge-)scholen;2005;;;;;;;;;;;;
+230;D Industrie;Universiteiten;1999;2.0;;2.0;0.0;;1.0;117.0;;117.0;1.0;;1.0
+231;D Industrie;Universiteiten;2005;;;;;;;;;;;;
+232;D Industrie;Opleidingsinstelling publieke sector;1999;74.0;;74.0;12.0;;21.0;2480.0;;2480.0;14.0;;23.0
+233;D Industrie;Opleidingsinstelling publieke sector;2005;;;;;;;;;1406.0;;;23.0
+234;D Industrie;Particuliere opleidingsinstituten;1999;212.0;;212.0;33.0;;61.0;5849.0;;5849.0;34.0;;54.0
+235;D Industrie;Particuliere opleidingsinstituten;2005;;;;;;;;;2857.0;;;47.0
+236;D Industrie;Lev. app., software /moeder-zusterbedr.;1999;;;;;;;;;;;;
+237;D Industrie;Lev. app., software /moeder-zusterbedr.;2005;;;;;;;;;521.0;;;9.0
+238;D Industrie;Leveranciers van apparatuur en software;1999;22.0;;22.0;3.0;;6.0;551.0;;551.0;3.0;;5.0
+239;D Industrie;Leveranciers van apparatuur en software;2005;;;;;;;;;;;;
+240;D Industrie;Moeder- en zusterbedrijven;1999;10.0;;10.0;2.0;;3.0;322.0;;322.0;2.0;;3.0
+241;D Industrie;Moeder- en zusterbedrijven;2005;;;;;;;;;;;;
+242;D Industrie;Vakbonden;1999;1.0;;1.0;0.0;;0.0;16.0;;16.0;0.0;;0.0
+243;D Industrie;Vakbonden;2005;;;;;;;;;100.0;;;2.0
+244;D Industrie;KvK, branche- en werkgeversorg.;1999;13.0;;13.0;2.0;;4.0;356.0;;356.0;2.0;;3.0
+245;D Industrie;KvK, branche- en werkgeversorg.;2005;;;;;;;;;32.0;;;1.0
+246;D Industrie;Eigen bedrijf;1999;287.0;287.0;;45.0;;;6372.0;6372.0;;37.0;;
+247;D Industrie;Eigen bedrijf;2005;;;;;;;;;;;;
+248;D Industrie;Overige instanties;1999;3.0;;3.0;0.0;;1.0;38.0;;38.0;0.0;;0.0
+249;D Industrie;Overige instanties;2005;;;;;;;;;779.0;;;13.0
+250;E Productie en distributie van en ..;Totaal van de opleidingen;1999;27.0;16.0;11.0;100.0;100.0;100.0;825.0;245.0;580.0;100.0;100.0;100.0
+251;E Productie en distributie van en ..;Totaal van de opleidingen;2005;;;;;;;301.0;;;100.0;;
+252;E Productie en distributie van en ..;Talen;1999;1.0;0.0;1.0;2.0;0.0;5.0;14.0;0.0;13.0;2.0;0.0;2.0
+253;E Productie en distributie van en ..;Talen;2005;;;;;;;9.0;;;3.0;;
+254;E Productie en distributie van en ..;Verkoop en marketing;1999;4.0;3.0;1.0;13.0;18.0;6.0;57.0;18.0;39.0;7.0;7.0;7.0
+255;E Productie en distributie van en ..;Verkoop en marketing;2005;;;;;;;19.0;;;6.0;;
+256;E Productie en distributie van en ..;Boekhouding/financiën/management/kantoor;1999;;;;;;;;;;;;
+257;E Productie en distributie van en ..;Boekhouding/financiën/management/kantoor;2005;;;;;;;21.0;;;7.0;;
+258;E Productie en distributie van en ..;Boekhouding en financiën;1999;1.0;0.0;1.0;3.0;2.0;5.0;30.0;7.0;23.0;4.0;3.0;4.0
+259;E Productie en distributie van en ..;Boekhouding en financiën;2005;;;;;;;;;;;;
+260;E Productie en distributie van en ..;Management;1999;1.0;0.0;1.0;4.0;3.0;5.0;25.0;4.0;20.0;3.0;2.0;4.0
+261;E Productie en distributie van en ..;Management;2005;;;;;;;;;;;;
+262;E Productie en distributie van en ..;Kantoorwerk;1999;0.0;0.0;0.0;1.0;1.0;1.0;6.0;2.0;4.0;1.0;1.0;1.0
+263;E Productie en distributie van en ..;Kantoorwerk;2005;;;;;;;;;;;;
+264;E Productie en distributie van en ..;Persoonlijke vaardigheden;1999;2.0;1.0;2.0;9.0;3.0;17.0;285.0;4.0;281.0;35.0;2.0;48.0
+265;E Productie en distributie van en ..;Persoonlijke vaardigheden;2005;;;;;;;47.0;;;16.0;;
+266;E Productie en distributie van en ..;Informatica;1999;4.0;3.0;1.0;15.0;16.0;13.0;69.0;44.0;25.0;8.0;18.0;4.0
+267;E Productie en distributie van en ..;Informatica;2005;;;;;;;41.0;;;14.0;;
+268;E Productie en distributie van en ..;Techniek, bouw en productie;1999;5.0;3.0;2.0;17.0;17.0;18.0;193.0;63.0;130.0;23.0;26.0;22.0
+269;E Productie en distributie van en ..;Techniek, bouw en productie;2005;;;;;;;90.0;;;30.0;;
+270;E Productie en distributie van en ..;Milieu en arbeidsomstandigheden;1999;10.0;6.0;3.0;35.0;40.0;28.0;141.0;102.0;39.0;17.0;42.0;7.0
+271;E Productie en distributie van en ..;Milieu en arbeidsomstandigheden;2005;;;;;;;34.0;;;11.0;;
+272;E Productie en distributie van en ..;Diensten;1999;0.0;0.0;0.0;1.0;1.0;1.0;2.0;0.0;2.0;0.0;0.0;0.0
+273;E Productie en distributie van en ..;Diensten;2005;;;;;;;2.0;;;1.0;;
+274;E Productie en distributie van en ..;Overige typen;1999;0.0;0.0;0.0;0.0;0.0;1.0;3.0;0.0;3.0;0.0;0.0;1.0
+275;E Productie en distributie van en ..;Overige typen;2005;;;;;;;39.0;;;13.0;;
+276;E Productie en distributie van en ..;Hogescholen en universiteiten;1999;;;;;;;;;;;;
+277;E Productie en distributie van en ..;Hogescholen en universiteiten;2005;;;;;;;;;23.0;;;11.0
+278;E Productie en distributie van en ..;(Hoge-)scholen;1999;1.0;;1.0;2.0;;6.0;52.0;;52.0;6.0;;9.0
+279;E Productie en distributie van en ..;(Hoge-)scholen;2005;;;;;;;;;;;;
+280;E Productie en distributie van en ..;Universiteiten;1999;0.0;;0.0;0.0;;1.0;2.0;;2.0;0.0;;0.0
+281;E Productie en distributie van en ..;Universiteiten;2005;;;;;;;;;;;;
+282;E Productie en distributie van en ..;Opleidingsinstelling publieke sector;1999;3.0;;3.0;11.0;;26.0;57.0;;57.0;7.0;;10.0
+283;E Productie en distributie van en ..;Opleidingsinstelling publieke sector;2005;;;;;;;;;23.0;;;11.0
+284;E Productie en distributie van en ..;Particuliere opleidingsinstituten;1999;6.0;;6.0;21.0;;50.0;442.0;;442.0;54.0;;76.0
+285;E Productie en distributie van en ..;Particuliere opleidingsinstituten;2005;;;;;;;;;97.0;;;46.0
+286;E Productie en distributie van en ..;Lev. app., software /moeder-zusterbedr.;1999;;;;;;;;;;;;
+287;E Productie en distributie van en ..;Lev. app., software /moeder-zusterbedr.;2005;;;;;;;;;18.0;;;9.0
+288;E Productie en distributie van en ..;Leveranciers van apparatuur en software;1999;1.0;;1.0;4.0;;9.0;16.0;;16.0;2.0;;3.0
+289;E Productie en distributie van en ..;Leveranciers van apparatuur en software;2005;;;;;;;;;;;;
+290;E Productie en distributie van en ..;Moeder- en zusterbedrijven;1999;0.0;;0.0;1.0;;2.0;3.0;;3.0;0.0;;1.0
+291;E Productie en distributie van en ..;Moeder- en zusterbedrijven;2005;;;;;;;;;;;;
+292;E Productie en distributie van en ..;Vakbonden;1999;0.0;;0.0;0.0;;0.0;0.0;;0.0;0.0;;0.0
+293;E Productie en distributie van en ..;Vakbonden;2005;;;;;;;;;6.0;;;3.0
+294;E Productie en distributie van en ..;KvK, branche- en werkgeversorg.;1999;0.0;;0.0;0.0;;1.0;2.0;;2.0;0.0;;0.0
+295;E Productie en distributie van en ..;KvK, branche- en werkgeversorg.;2005;;;;;;;;;1.0;;;1.0
+296;E Productie en distributie van en ..;Eigen bedrijf;1999;16.0;16.0;;60.0;;;245.0;245.0;;30.0;;
+297;E Productie en distributie van en ..;Eigen bedrijf;2005;;;;;;;;;;;;
+298;E Productie en distributie van en ..;Overige instanties;1999;1.0;;1.0;2.0;;6.0;6.0;;6.0;1.0;;1.0
+299;E Productie en distributie van en ..;Overige instanties;2005;;;;;;;;;46.0;;;22.0
+300;45 Bouwnijverheid;Totaal van de opleidingen;1999;306.0;72.0;234.0;100.0;100.0;100.0;6553.0;1313.0;5240.0;100.0;100.0;100.0
+301;45 Bouwnijverheid;Totaal van de opleidingen;2005;;;;;;;4120.0;;;100.0;;
+302;45 Bouwnijverheid;Talen;1999;1.0;0.0;0.0;0.0;0.0;0.0;24.0;11.0;13.0;0.0;1.0;0.0
+303;45 Bouwnijverheid;Talen;2005;;;;;;;83.0;;;2.0;;
+304;45 Bouwnijverheid;Verkoop en marketing;1999;4.0;1.0;3.0;1.0;1.0;1.0;77.0;20.0;56.0;1.0;2.0;1.0
+305;45 Bouwnijverheid;Verkoop en marketing;2005;;;;;;;123.0;;;3.0;;
+306;45 Bouwnijverheid;Boekhouding/financiën/management/kantoor;1999;;;;;;;;;;;;
+307;45 Bouwnijverheid;Boekhouding/financiën/management/kantoor;2005;;;;;;;177.0;;;4.0;;
+308;45 Bouwnijverheid;Boekhouding en financiën;1999;3.0;1.0;2.0;1.0;1.0;1.0;82.0;19.0;63.0;1.0;1.0;1.0
+309;45 Bouwnijverheid;Boekhouding en financiën;2005;;;;;;;;;;;;
+310;45 Bouwnijverheid;Management;1999;11.0;5.0;7.0;4.0;6.0;3.0;465.0;106.0;359.0;7.0;8.0;7.0
+311;45 Bouwnijverheid;Management;2005;;;;;;;;;;;;
+312;45 Bouwnijverheid;Kantoorwerk;1999;1.0;0.0;1.0;0.0;1.0;0.0;23.0;9.0;14.0;0.0;1.0;0.0
+313;45 Bouwnijverheid;Kantoorwerk;2005;;;;;;;;;;;;
+314;45 Bouwnijverheid;Persoonlijke vaardigheden;1999;16.0;4.0;12.0;5.0;5.0;5.0;201.0;43.0;158.0;3.0;3.0;3.0
+315;45 Bouwnijverheid;Persoonlijke vaardigheden;2005;;;;;;;339.0;;;8.0;;
+316;45 Bouwnijverheid;Informatica;1999;17.0;5.0;12.0;5.0;6.0;5.0;360.0;74.0;287.0;6.0;6.0;5.0
+317;45 Bouwnijverheid;Informatica;2005;;;;;;;261.0;;;6.0;;
+318;45 Bouwnijverheid;Techniek, bouw en productie;1999;90.0;12.0;78.0;29.0;17.0;33.0;2446.0;257.0;2189.0;37.0;20.0;42.0
+319;45 Bouwnijverheid;Techniek, bouw en productie;2005;;;;;;;2093.0;;;51.0;;
+320;45 Bouwnijverheid;Milieu en arbeidsomstandigheden;1999;144.0;42.0;102.0;47.0;58.0;44.0;2453.0;715.0;1739.0;37.0;54.0;33.0
+321;45 Bouwnijverheid;Milieu en arbeidsomstandigheden;2005;;;;;;;621.0;;;15.0;;
+322;45 Bouwnijverheid;Diensten;1999;12.0;1.0;12.0;4.0;1.0;5.0;208.0;6.0;203.0;3.0;0.0;4.0
+323;45 Bouwnijverheid;Diensten;2005;;;;;;;33.0;;;1.0;;
+324;45 Bouwnijverheid;Overige typen;1999;7.0;2.0;5.0;2.0;3.0;2.0;213.0;54.0;159.0;3.0;4.0;3.0
+325;45 Bouwnijverheid;Overige typen;2005;;;;;;;391.0;;;10.0;;
+326;45 Bouwnijverheid;Hogescholen en universiteiten;1999;;;;;;;;;;;;
+327;45 Bouwnijverheid;Hogescholen en universiteiten;2005;;;;;;;;;139.0;;;4.0
+328;45 Bouwnijverheid;(Hoge-)scholen;1999;3.0;;3.0;1.0;;1.0;299.0;;299.0;5.0;;6.0
+329;45 Bouwnijverheid;(Hoge-)scholen;2005;;;;;;;;;;;;
+330;45 Bouwnijverheid;Universiteiten;1999;0.0;;0.0;0.0;;0.0;7.0;;7.0;0.0;;0.0
+331;45 Bouwnijverheid;Universiteiten;2005;;;;;;;;;;;;
+332;45 Bouwnijverheid;Opleidingsinstelling publieke sector;1999;61.0;;61.0;20.0;;26.0;1595.0;;1595.0;24.0;;30.0
+333;45 Bouwnijverheid;Opleidingsinstelling publieke sector;2005;;;;;;;;;871.0;;;26.0
+334;45 Bouwnijverheid;Particuliere opleidingsinstituten;1999;113.0;;113.0;37.0;;48.0;2267.0;;2267.0;35.0;;43.0
+335;45 Bouwnijverheid;Particuliere opleidingsinstituten;2005;;;;;;;;;1552.0;;;46.0
+336;45 Bouwnijverheid;Lev. app., software /moeder-zusterbedr.;1999;;;;;;;;;;;;
+337;45 Bouwnijverheid;Lev. app., software /moeder-zusterbedr.;2005;;;;;;;;;285.0;;;9.0
+338;45 Bouwnijverheid;Leveranciers van apparatuur en software;1999;7.0;;7.0;2.0;;3.0;108.0;;108.0;2.0;;2.0
+339;45 Bouwnijverheid;Leveranciers van apparatuur en software;2005;;;;;;;;;;;;
+340;45 Bouwnijverheid;Moeder- en zusterbedrijven;1999;2.0;;2.0;1.0;;1.0;47.0;;47.0;1.0;;1.0
+341;45 Bouwnijverheid;Moeder- en zusterbedrijven;2005;;;;;;;;;;;;
+342;45 Bouwnijverheid;Vakbonden;1999;0.0;;0.0;0.0;;0.0;0.0;;0.0;0.0;;0.0
+343;45 Bouwnijverheid;Vakbonden;2005;;;;;;;;;128.0;;;4.0
+344;45 Bouwnijverheid;KvK, branche- en werkgeversorg.;1999;45.0;;45.0;15.0;;19.0;862.0;;862.0;13.0;;16.0
+345;45 Bouwnijverheid;KvK, branche- en werkgeversorg.;2005;;;;;;;;;10.0;;;0.0
+346;45 Bouwnijverheid;Eigen bedrijf;1999;72.0;72.0;;23.0;;;1313.0;1313.0;;20.0;;
+347;45 Bouwnijverheid;Eigen bedrijf;2005;;;;;;;;;;;;
+348;45 Bouwnijverheid;Overige instanties;1999;3.0;;3.0;1.0;;1.0;53.0;;53.0;1.0;;1.0
+349;45 Bouwnijverheid;Overige instanties;2005;;;;;;;;;379.0;;;11.0
+350;G Reparatie van consumentenartikelen ..;Totaal van de opleidingen;1999;568.0;280.0;289.0;100.0;100.0;100.0;14820.0;6656.0;8164.0;100.0;100.0;100.0
+351;G Reparatie van consumentenartikelen ..;Totaal van de opleidingen;2005;;;;;;;6981.0;;;100.0;;
+352;G Reparatie van consumentenartikelen ..;Talen;1999;8.0;2.0;6.0;1.0;1.0;2.0;333.0;56.0;277.0;2.0;1.0;3.0
+353;G Reparatie van consumentenartikelen ..;Talen;2005;;;;;;;99.0;;;1.0;;
+354;G Reparatie van consumentenartikelen ..;Verkoop en marketing;1999;124.0;72.0;52.0;22.0;26.0;18.0;4419.0;2742.0;1677.0;30.0;41.0;21.0
+355;G Reparatie van consumentenartikelen ..;Verkoop en marketing;2005;;;;;;;2104.0;;;30.0;;
+356;G Reparatie van consumentenartikelen ..;Boekhouding/financiën/management/kantoor;1999;;;;;;;;;;;;
+357;G Reparatie van consumentenartikelen ..;Boekhouding/financiën/management/kantoor;2005;;;;;;;392.0;;;6.0;;
+358;G Reparatie van consumentenartikelen ..;Boekhouding en financiën;1999;7.0;1.0;6.0;1.0;0.0;2.0;403.0;31.0;373.0;3.0;0.0;5.0
+359;G Reparatie van consumentenartikelen ..;Boekhouding en financiën;2005;;;;;;;;;;;;
+360;G Reparatie van consumentenartikelen ..;Management;1999;31.0;13.0;17.0;5.0;5.0;6.0;1154.0;304.0;851.0;8.0;5.0;10.0
+361;G Reparatie van consumentenartikelen ..;Management;2005;;;;;;;;;;;;
+362;G Reparatie van consumentenartikelen ..;Kantoorwerk;1999;4.0;2.0;2.0;1.0;1.0;1.0;91.0;13.0;78.0;1.0;0.0;1.0
+363;G Reparatie van consumentenartikelen ..;Kantoorwerk;2005;;;;;;;;;;;;
+364;G Reparatie van consumentenartikelen ..;Persoonlijke vaardigheden;1999;86.0;55.0;31.0;15.0;20.0;11.0;1798.0;1050.0;748.0;12.0;16.0;9.0
+365;G Reparatie van consumentenartikelen ..;Persoonlijke vaardigheden;2005;;;;;;;1117.0;;;16.0;;
+366;G Reparatie van consumentenartikelen ..;Informatica;1999;90.0;38.0;51.0;16.0;14.0;18.0;1882.0;868.0;1014.0;13.0;13.0;12.0
+367;G Reparatie van consumentenartikelen ..;Informatica;2005;;;;;;;402.0;;;6.0;;
+368;G Reparatie van consumentenartikelen ..;Techniek, bouw en productie;1999;128.0;65.0;62.0;23.0;23.0;22.0;2813.0;908.0;1906.0;19.0;14.0;23.0
+369;G Reparatie van consumentenartikelen ..;Techniek, bouw en productie;2005;;;;;;;1198.0;;;17.0;;
+370;G Reparatie van consumentenartikelen ..;Milieu en arbeidsomstandigheden;1999;49.0;15.0;34.0;9.0;5.0;12.0;781.0;286.0;495.0;5.0;4.0;6.0
+371;G Reparatie van consumentenartikelen ..;Milieu en arbeidsomstandigheden;2005;;;;;;;359.0;;;5.0;;
+372;G Reparatie van consumentenartikelen ..;Diensten;1999;29.0;16.0;14.0;5.0;6.0;5.0;554.0;353.0;201.0;4.0;5.0;2.0
+373;G Reparatie van consumentenartikelen ..;Diensten;2005;;;;;;;111.0;;;2.0;;
+374;G Reparatie van consumentenartikelen ..;Overige typen;1999;13.0;1.0;12.0;2.0;0.0;4.0;590.0;46.0;544.0;4.0;1.0;7.0
+375;G Reparatie van consumentenartikelen ..;Overige typen;2005;;;;;;;1198.0;;;17.0;;
+376;G Reparatie van consumentenartikelen ..;Hogescholen en universiteiten;1999;;;;;;;;;;;;
+377;G Reparatie van consumentenartikelen ..;Hogescholen en universiteiten;2005;;;;;;;;;228.0;;;6.0
+378;G Reparatie van consumentenartikelen ..;(Hoge-)scholen;1999;9.0;;9.0;2.0;;3.0;989.0;;989.0;7.0;;12.0
+379;G Reparatie van consumentenartikelen ..;(Hoge-)scholen;2005;;;;;;;;;;;;
+380;G Reparatie van consumentenartikelen ..;Universiteiten;1999;2.0;;2.0;0.0;;1.0;72.0;;72.0;0.0;;1.0
+381;G Reparatie van consumentenartikelen ..;Universiteiten;2005;;;;;;;;;;;;
+382;G Reparatie van consumentenartikelen ..;Opleidingsinstelling publieke sector;1999;59.0;;59.0;10.0;;20.0;1699.0;;1699.0;11.0;;21.0
+383;G Reparatie van consumentenartikelen ..;Opleidingsinstelling publieke sector;2005;;;;;;;;;686.0;;;18.0
+384;G Reparatie van consumentenartikelen ..;Particuliere opleidingsinstituten;1999;132.0;;132.0;23.0;;46.0;3504.0;;3504.0;24.0;;43.0
+385;G Reparatie van consumentenartikelen ..;Particuliere opleidingsinstituten;2005;;;;;;;;;1502.0;;;39.0
+386;G Reparatie van consumentenartikelen ..;Lev. app., software /moeder-zusterbedr.;1999;;;;;;;;;;;;
+387;G Reparatie van consumentenartikelen ..;Lev. app., software /moeder-zusterbedr.;2005;;;;;;;;;837.0;;;21.0
+388;G Reparatie van consumentenartikelen ..;Leveranciers van apparatuur en software;1999;38.0;;38.0;7.0;;13.0;607.0;;607.0;4.0;;7.0
+389;G Reparatie van consumentenartikelen ..;Leveranciers van apparatuur en software;2005;;;;;;;;;;;;
+390;G Reparatie van consumentenartikelen ..;Moeder- en zusterbedrijven;1999;28.0;;28.0;5.0;;10.0;564.0;;564.0;4.0;;7.0
+391;G Reparatie van consumentenartikelen ..;Moeder- en zusterbedrijven;2005;;;;;;;;;;;;
+392;G Reparatie van consumentenartikelen ..;Vakbonden;1999;0.0;;0.0;0.0;;0.0;4.0;;4.0;0.0;;0.0
+393;G Reparatie van consumentenartikelen ..;Vakbonden;2005;;;;;;;;;158.0;;;4.0
+394;G Reparatie van consumentenartikelen ..;KvK, branche- en werkgeversorg.;1999;16.0;;16.0;3.0;;6.0;662.0;;662.0;4.0;;8.0
+395;G Reparatie van consumentenartikelen ..;KvK, branche- en werkgeversorg.;2005;;;;;;;;;6.0;;;0.0
+396;G Reparatie van consumentenartikelen ..;Eigen bedrijf;1999;280.0;280.0;;49.0;;;6656.0;6656.0;;45.0;;
+397;G Reparatie van consumentenartikelen ..;Eigen bedrijf;2005;;;;;;;;;;;;
+398;G Reparatie van consumentenartikelen ..;Overige instanties;1999;5.0;;5.0;1.0;;2.0;63.0;;63.0;0.0;;1.0
+399;G Reparatie van consumentenartikelen ..;Overige instanties;2005;;;;;;;;;486.0;;;13.0
+400;55 Logies-, maaltijden- en ..;Totaal van de opleidingen;1999;76.0;40.0;35.0;100.0;100.0;100.0;1232.0;509.0;724.0;100.0;100.0;100.0
+401;55 Logies-, maaltijden- en ..;Totaal van de opleidingen;2005;;;;;;;1644.0;;;100.0;;
+402;55 Logies-, maaltijden- en ..;Talen;1999;2.0;1.0;1.0;2.0;2.0;2.0;39.0;8.0;31.0;3.0;2.0;4.0
+403;55 Logies-, maaltijden- en ..;Talen;2005;;;;;;;14.0;;;1.0;;
+404;55 Logies-, maaltijden- en ..;Verkoop en marketing;1999;9.0;5.0;5.0;12.0;12.0;13.0;156.0;75.0;81.0;13.0;15.0;11.0
+405;55 Logies-, maaltijden- en ..;Verkoop en marketing;2005;;;;;;;79.0;;;5.0;;
+406;55 Logies-, maaltijden- en ..;Boekhouding/financiën/management/kantoor;1999;;;;;;;;;;;;
+407;55 Logies-, maaltijden- en ..;Boekhouding/financiën/management/kantoor;2005;;;;;;;268.0;;;16.0;;
+408;55 Logies-, maaltijden- en ..;Boekhouding en financiën;1999;1.0;0.0;0.0;1.0;1.0;1.0;20.0;11.0;9.0;2.0;2.0;1.0
+409;55 Logies-, maaltijden- en ..;Boekhouding en financiën;2005;;;;;;;;;;;;
+410;55 Logies-, maaltijden- en ..;Management;1999;7.0;4.0;3.0;9.0;9.0;9.0;161.0;80.0;81.0;13.0;16.0;11.0
+411;55 Logies-, maaltijden- en ..;Management;2005;;;;;;;;;;;;
+412;55 Logies-, maaltijden- en ..;Kantoorwerk;1999;1.0;1.0;0.0;2.0;2.0;1.0;15.0;10.0;5.0;1.0;2.0;1.0
+413;55 Logies-, maaltijden- en ..;Kantoorwerk;2005;;;;;;;;;;;;
+414;55 Logies-, maaltijden- en ..;Persoonlijke vaardigheden;1999;19.0;13.0;5.0;24.0;33.0;15.0;256.0;164.0;92.0;21.0;32.0;13.0
+415;55 Logies-, maaltijden- en ..;Persoonlijke vaardigheden;2005;;;;;;;165.0;;;10.0;;
+416;55 Logies-, maaltijden- en ..;Informatica;1999;4.0;1.0;3.0;5.0;3.0;8.0;64.0;15.0;49.0;5.0;3.0;7.0
+417;55 Logies-, maaltijden- en ..;Informatica;2005;;;;;;;46.0;;;3.0;;
+418;55 Logies-, maaltijden- en ..;Techniek, bouw en productie;1999;1.0;1.0;0.0;2.0;2.0;1.0;35.0;8.0;27.0;3.0;2.0;4.0
+419;55 Logies-, maaltijden- en ..;Techniek, bouw en productie;2005;;;;;;;1.0;;;0.0;;
+420;55 Logies-, maaltijden- en ..;Milieu en arbeidsomstandigheden;1999;14.0;5.0;9.0;19.0;13.0;26.0;198.0;48.0;150.0;16.0;9.0;21.0
+421;55 Logies-, maaltijden- en ..;Milieu en arbeidsomstandigheden;2005;;;;;;;48.0;;;3.0;;
+422;55 Logies-, maaltijden- en ..;Diensten;1999;18.0;9.0;9.0;23.0;23.0;24.0;286.0;90.0;196.0;23.0;18.0;27.0
+423;55 Logies-, maaltijden- en ..;Diensten;2005;;;;;;;882.0;;;54.0;;
+424;55 Logies-, maaltijden- en ..;Overige typen;1999;0.0;0.0;0.0;0.0;0.0;0.0;3.0;1.0;2.0;0.0;0.0;0.0
+425;55 Logies-, maaltijden- en ..;Overige typen;2005;;;;;;;141.0;;;9.0;;
+426;55 Logies-, maaltijden- en ..;Hogescholen en universiteiten;1999;;;;;;;;;;;;
+427;55 Logies-, maaltijden- en ..;Hogescholen en universiteiten;2005;;;;;;;;;69.0;;;10.0
+428;55 Logies-, maaltijden- en ..;(Hoge-)scholen;1999;0.0;;0.0;1.0;;1.0;46.0;;46.0;4.0;;6.0
+429;55 Logies-, maaltijden- en ..;(Hoge-)scholen;2005;;;;;;;;;;;;
+430;55 Logies-, maaltijden- en ..;Universiteiten;1999;0.0;;0.0;0.0;;0.0;1.0;;1.0;0.0;;0.0
+431;55 Logies-, maaltijden- en ..;Universiteiten;2005;;;;;;;;;;;;
+432;55 Logies-, maaltijden- en ..;Opleidingsinstelling publieke sector;1999;9.0;;9.0;12.0;;26.0;191.0;;191.0;16.0;;26.0
+433;55 Logies-, maaltijden- en ..;Opleidingsinstelling publieke sector;2005;;;;;;;;;20.0;;;3.0
+434;55 Logies-, maaltijden- en ..;Particuliere opleidingsinstituten;1999;21.0;;21.0;27.0;;58.0;392.0;;392.0;32.0;;54.0
+435;55 Logies-, maaltijden- en ..;Particuliere opleidingsinstituten;2005;;;;;;;;;266.0;;;39.0
+436;55 Logies-, maaltijden- en ..;Lev. app., software /moeder-zusterbedr.;1999;;;;;;;;;;;;
+437;55 Logies-, maaltijden- en ..;Lev. app., software /moeder-zusterbedr.;2005;;;;;;;;;8.0;;;1.0
+438;55 Logies-, maaltijden- en ..;Leveranciers van apparatuur en software;1999;1.0;;1.0;1.0;;2.0;8.0;;8.0;1.0;;1.0
+439;55 Logies-, maaltijden- en ..;Leveranciers van apparatuur en software;2005;;;;;;;;;;;;
+440;55 Logies-, maaltijden- en ..;Moeder- en zusterbedrijven;1999;2.0;;2.0;3.0;;6.0;27.0;;27.0;2.0;;4.0
+441;55 Logies-, maaltijden- en ..;Moeder- en zusterbedrijven;2005;;;;;;;;;;;;
+442;55 Logies-, maaltijden- en ..;Vakbonden;1999;0.0;;0.0;0.0;;0.0;0.0;;0.0;0.0;;0.0
+443;55 Logies-, maaltijden- en ..;Vakbonden;2005;;;;;;;;;5.0;;;1.0
+444;55 Logies-, maaltijden- en ..;KvK, branche- en werkgeversorg.;1999;2.0;;2.0;2.0;;5.0;55.0;;55.0;4.0;;8.0
+445;55 Logies-, maaltijden- en ..;KvK, branche- en werkgeversorg.;2005;;;;;;;;;2.0;;;0.0
+446;55 Logies-, maaltijden- en ..;Eigen bedrijf;1999;40.0;40.0;;53.0;;;509.0;509.0;;41.0;;
+447;55 Logies-, maaltijden- en ..;Eigen bedrijf;2005;;;;;;;;;;;;
+448;55 Logies-, maaltijden- en ..;Overige instanties;1999;0.0;;0.0;0.0;;1.0;3.0;;3.0;0.0;;0.0
+449;55 Logies-, maaltijden- en ..;Overige instanties;2005;;;;;;;;;306.0;;;45.0
+450;I Vervoer, opslag en communicatie;Totaal van de opleidingen;1999;258.0;133.0;125.0;100.0;100.0;100.0;6363.0;3249.0;3114.0;100.0;100.0;100.0
+451;I Vervoer, opslag en communicatie;Totaal van de opleidingen;2005;;;;;;;4579.0;;;100.0;;
+452;I Vervoer, opslag en communicatie;Talen;1999;;;;;;;;;;;;
+453;I Vervoer, opslag en communicatie;Talen;2005;;;;;;;64.0;;;1.0;;
+454;I Vervoer, opslag en communicatie;Verkoop en marketing;1999;;;;;;;;;;;;
+455;I Vervoer, opslag en communicatie;Verkoop en marketing;2005;;;;;;;424.0;;;9.0;;
+456;I Vervoer, opslag en communicatie;Boekhouding/financiën/management/kantoor;1999;;;;;;;;;;;;
+457;I Vervoer, opslag en communicatie;Boekhouding/financiën/management/kantoor;2005;;;;;;;678.0;;;15.0;;
+458;I Vervoer, opslag en communicatie;Boekhouding en financiën;1999;;;;;;;;;;;;
+459;I Vervoer, opslag en communicatie;Boekhouding en financiën;2005;;;;;;;;;;;;
+460;I Vervoer, opslag en communicatie;Management;1999;;;;;;;;;;;;
+461;I Vervoer, opslag en communicatie;Management;2005;;;;;;;;;;;;
+462;I Vervoer, opslag en communicatie;Kantoorwerk;1999;;;;;;;;;;;;
+463;I Vervoer, opslag en communicatie;Kantoorwerk;2005;;;;;;;;;;;;
+464;I Vervoer, opslag en communicatie;Persoonlijke vaardigheden;1999;;;;;;;;;;;;
+465;I Vervoer, opslag en communicatie;Persoonlijke vaardigheden;2005;;;;;;;681.0;;;15.0;;
+466;I Vervoer, opslag en communicatie;Informatica;1999;;;;;;;;;;;;
+467;I Vervoer, opslag en communicatie;Informatica;2005;;;;;;;351.0;;;8.0;;
+468;I Vervoer, opslag en communicatie;Techniek, bouw en productie;1999;;;;;;;;;;;;
+469;I Vervoer, opslag en communicatie;Techniek, bouw en productie;2005;;;;;;;733.0;;;16.0;;
+470;I Vervoer, opslag en communicatie;Milieu en arbeidsomstandigheden;1999;;;;;;;;;;;;
+471;I Vervoer, opslag en communicatie;Milieu en arbeidsomstandigheden;2005;;;;;;;138.0;;;3.0;;
+472;I Vervoer, opslag en communicatie;Diensten;1999;;;;;;;;;;;;
+473;I Vervoer, opslag en communicatie;Diensten;2005;;;;;;;296.0;;;7.0;;
+474;I Vervoer, opslag en communicatie;Overige typen;1999;;;;;;;;;;;;
+475;I Vervoer, opslag en communicatie;Overige typen;2005;;;;;;;1213.0;;;27.0;;
+476;I Vervoer, opslag en communicatie;Hogescholen en universiteiten;1999;;;;;;;;;;;;
+477;I Vervoer, opslag en communicatie;Hogescholen en universiteiten;2005;;;;;;;;;237.0;;;11.0
+478;I Vervoer, opslag en communicatie;(Hoge-)scholen;1999;2.0;;2.0;1.0;;2.0;155.0;;155.0;2.0;;5.0
+479;I Vervoer, opslag en communicatie;(Hoge-)scholen;2005;;;;;;;;;;;;
+480;I Vervoer, opslag en communicatie;Universiteiten;1999;6.0;;6.0;2.0;;5.0;131.0;;131.0;2.0;;4.0
+481;I Vervoer, opslag en communicatie;Universiteiten;2005;;;;;;;;;;;;
+482;I Vervoer, opslag en communicatie;Opleidingsinstelling publieke sector;1999;14.0;;14.0;5.0;;11.0;444.0;;444.0;7.0;;14.0
+483;I Vervoer, opslag en communicatie;Opleidingsinstelling publieke sector;2005;;;;;;;;;229.0;;;11.0
+484;I Vervoer, opslag en communicatie;Particuliere opleidingsinstituten;1999;83.0;;83.0;32.0;;66.0;1854.0;;1854.0;29.0;;60.0
+485;I Vervoer, opslag en communicatie;Particuliere opleidingsinstituten;2005;;;;;;;;;1061.0;;;51.0
+486;I Vervoer, opslag en communicatie;Lev. app., software /moeder-zusterbedr.;1999;;;;;;;;;;;;
+487;I Vervoer, opslag en communicatie;Lev. app., software /moeder-zusterbedr.;2005;;;;;;;;;264.0;;;13.0
+488;I Vervoer, opslag en communicatie;Leveranciers van apparatuur en software;1999;7.0;;7.0;3.0;;6.0;86.0;;86.0;1.0;;3.0
+489;I Vervoer, opslag en communicatie;Leveranciers van apparatuur en software;2005;;;;;;;;;;;;
+490;I Vervoer, opslag en communicatie;Moeder- en zusterbedrijven;1999;6.0;;6.0;2.0;;5.0;253.0;;253.0;4.0;;8.0
+491;I Vervoer, opslag en communicatie;Moeder- en zusterbedrijven;2005;;;;;;;;;;;;
+492;I Vervoer, opslag en communicatie;Vakbonden;1999;0.0;;0.0;0.0;;0.0;3.0;;3.0;0.0;;0.0
+493;I Vervoer, opslag en communicatie;Vakbonden;2005;;;;;;;;;21.0;;;1.0
+494;I Vervoer, opslag en communicatie;KvK, branche- en werkgeversorg.;1999;5.0;;5.0;2.0;;4.0;141.0;;141.0;2.0;;5.0
+495;I Vervoer, opslag en communicatie;KvK, branche- en werkgeversorg.;2005;;;;;;;;;6.0;;;0.0
+496;I Vervoer, opslag en communicatie;Eigen bedrijf;1999;133.0;133.0;;52.0;;;3249.0;3249.0;;51.0;;
+497;I Vervoer, opslag en communicatie;Eigen bedrijf;2005;;;;;;;;;;;;
+498;I Vervoer, opslag en communicatie;Overige instanties;1999;1.0;;1.0;1.0;;1.0;47.0;;47.0;1.0;;2.0
+499;I Vervoer, opslag en communicatie;Overige instanties;2005;;;;;;;;;260.0;;;13.0
+500;J Financiële instellingen;Totaal van de opleidingen;1999;257.0;145.0;112.0;100.0;100.0;100.0;7819.0;5129.0;2690.0;100.0;100.0;100.0
+501;J Financiële instellingen;Totaal van de opleidingen;2005;;;;;;;4918.0;;;100.0;;
+502;J Financiële instellingen;Talen;1999;9.0;1.0;8.0;4.0;1.0;7.0;243.0;15.0;228.0;3.0;0.0;8.0
+503;J Financiële instellingen;Talen;2005;;;;;;;103.0;;;2.0;;
+504;J Financiële instellingen;Verkoop en marketing;1999;28.0;24.0;5.0;11.0;16.0;4.0;475.0;341.0;133.0;6.0;7.0;5.0
+505;J Financiële instellingen;Verkoop en marketing;2005;;;;;;;324.0;;;7.0;;
+506;J Financiële instellingen;Boekhouding/financiën/management/kantoor;1999;;;;;;;;;;;;
+507;J Financiële instellingen;Boekhouding/financiën/management/kantoor;2005;;;;;;;3040.0;;;62.0;;
+508;J Financiële instellingen;Boekhouding en financiën;1999;116.0;71.0;45.0;45.0;49.0;40.0;5018.0;3713.0;1304.0;64.0;72.0;48.0
+509;J Financiële instellingen;Boekhouding en financiën;2005;;;;;;;;;;;;
+510;J Financiële instellingen;Management;1999;11.0;4.0;7.0;4.0;3.0;6.0;508.0;291.0;217.0;6.0;6.0;8.0
+511;J Financiële instellingen;Management;2005;;;;;;;;;;;;
+512;J Financiële instellingen;Kantoorwerk;1999;6.0;3.0;3.0;2.0;2.0;3.0;77.0;31.0;47.0;1.0;1.0;2.0
+513;J Financiële instellingen;Kantoorwerk;2005;;;;;;;;;;;;
+514;J Financiële instellingen;Persoonlijke vaardigheden;1999;41.0;24.0;18.0;16.0;16.0;16.0;694.0;341.0;353.0;9.0;7.0;13.0
+515;J Financiële instellingen;Persoonlijke vaardigheden;2005;;;;;;;580.0;;;12.0;;
+516;J Financiële instellingen;Informatica;1999;37.0;14.0;24.0;15.0;9.0;21.0;681.0;350.0;331.0;9.0;7.0;12.0
+517;J Financiële instellingen;Informatica;2005;;;;;;;348.0;;;7.0;;
+518;J Financiële instellingen;Techniek, bouw en productie;1999;5.0;4.0;1.0;2.0;3.0;1.0;45.0;31.0;15.0;1.0;1.0;1.0
+519;J Financiële instellingen;Techniek, bouw en productie;2005;;;;;;;47.0;;;1.0;;
+520;J Financiële instellingen;Milieu en arbeidsomstandigheden;1999;2.0;1.0;1.0;1.0;0.0;1.0;21.0;5.0;16.0;0.0;0.0;1.0
+521;J Financiële instellingen;Milieu en arbeidsomstandigheden;2005;;;;;;;50.0;;;1.0;;
+522;J Financiële instellingen;Diensten;1999;0.0;0.0;0.0;0.0;0.0;0.0;7.0;1.0;6.0;0.0;0.0;0.0
+523;J Financiële instellingen;Diensten;2005;;;;;;;10.0;;;0.0;;
+524;J Financiële instellingen;Overige typen;1999;1.0;0.0;1.0;0.0;0.0;1.0;50.0;10.0;40.0;1.0;0.0;1.0
+525;J Financiële instellingen;Overige typen;2005;;;;;;;416.0;;;9.0;;
+526;J Financiële instellingen;Hogescholen en universiteiten;1999;;;;;;;;;;;;
+527;J Financiële instellingen;Hogescholen en universiteiten;2005;;;;;;;;;161.0;;;12.0
+528;J Financiële instellingen;(Hoge-)scholen;1999;1.0;;1.0;1.0;;1.0;78.0;;78.0;1.0;;3.0
+529;J Financiële instellingen;(Hoge-)scholen;2005;;;;;;;;;;;;
+530;J Financiële instellingen;Universiteiten;1999;13.0;;13.0;5.0;;11.0;274.0;;274.0;4.0;;10.0
+531;J Financiële instellingen;Universiteiten;2005;;;;;;;;;;;;
+532;J Financiële instellingen;Opleidingsinstelling publieke sector;1999;7.0;;7.0;3.0;;6.0;268.0;;268.0;3.0;;10.0
+533;J Financiële instellingen;Opleidingsinstelling publieke sector;2005;;;;;;;;;99.0;;;8.0
+534;J Financiële instellingen;Particuliere opleidingsinstituten;1999;74.0;;74.0;29.0;;66.0;1694.0;;1694.0;22.0;;63.0
+535;J Financiële instellingen;Particuliere opleidingsinstituten;2005;;;;;;;;;846.0;;;64.0
+536;J Financiële instellingen;Lev. app., software /moeder-zusterbedr.;1999;;;;;;;;;;;;
+537;J Financiële instellingen;Lev. app., software /moeder-zusterbedr.;2005;;;;;;;;;70.0;;;5.0
+538;J Financiële instellingen;Leveranciers van apparatuur en software;1999;10.0;;10.0;4.0;;9.0;123.0;;123.0;2.0;;5.0
+539;J Financiële instellingen;Leveranciers van apparatuur en software;2005;;;;;;;;;;;;
+540;J Financiële instellingen;Moeder- en zusterbedrijven;1999;3.0;;3.0;1.0;;3.0;65.0;;65.0;1.0;;2.0
+541;J Financiële instellingen;Moeder- en zusterbedrijven;2005;;;;;;;;;;;;
+542;J Financiële instellingen;Vakbonden;1999;0.0;;0.0;0.0;;0.0;1.0;;1.0;0.0;;0.0
+543;J Financiële instellingen;Vakbonden;2005;;;;;;;;;37.0;;;3.0
+544;J Financiële instellingen;KvK, branche- en werkgeversorg.;1999;3.0;;3.0;1.0;;3.0;175.0;;175.0;2.0;;7.0
+545;J Financiële instellingen;KvK, branche- en werkgeversorg.;2005;;;;;;;;;3.0;;;0.0
+546;J Financiële instellingen;Eigen bedrijf;1999;145.0;145.0;;57.0;;;5129.0;5129.0;;66.0;;
+547;J Financiële instellingen;Eigen bedrijf;2005;;;;;;;;;;;;
+548;J Financiële instellingen;Overige instanties;1999;0.0;;0.0;0.0;;0.0;12.0;;12.0;0.0;;0.0
+549;J Financiële instellingen;Overige instanties;2005;;;;;;;;;109.0;;;8.0
+550;K VH en handel in onroerend goed, ..;Totaal van de opleidingen;1999;633.0;274.0;359.0;100.0;100.0;100.0;17796.0;5533.0;12262.0;100.0;100.0;100.0
+551;K VH en handel in onroerend goed, ..;Totaal van de opleidingen;2005;;;;;;;12743.0;;;100.0;;
+552;K VH en handel in onroerend goed, ..;Talen;1999;10.0;2.0;8.0;2.0;1.0;2.0;161.0;45.0;116.0;1.0;1.0;1.0
+553;K VH en handel in onroerend goed, ..;Talen;2005;;;;;;;323.0;;;3.0;;
+554;K VH en handel in onroerend goed, ..;Verkoop en marketing;1999;33.0;16.0;17.0;5.0;6.0;5.0;944.0;445.0;499.0;5.0;8.0;4.0
+555;K VH en handel in onroerend goed, ..;Verkoop en marketing;2005;;;;;;;1111.0;;;9.0;;
+556;K VH en handel in onroerend goed, ..;Boekhouding/financiën/management/kantoor;1999;;;;;;;;;;;;
+557;K VH en handel in onroerend goed, ..;Boekhouding/financiën/management/kantoor;2005;;;;;;;2377.0;;;19.0;;
+558;K VH en handel in onroerend goed, ..;Boekhouding en financiën;1999;69.0;34.0;35.0;11.0;12.0;10.0;4691.0;1201.0;3491.0;26.0;22.0;28.0
+559;K VH en handel in onroerend goed, ..;Boekhouding en financiën;2005;;;;;;;;;;;;
+560;K VH en handel in onroerend goed, ..;Management;1999;48.0;25.0;23.0;8.0;9.0;7.0;1505.0;597.0;908.0;8.0;11.0;7.0
+561;K VH en handel in onroerend goed, ..;Management;2005;;;;;;;;;;;;
+562;K VH en handel in onroerend goed, ..;Kantoorwerk;1999;16.0;4.0;12.0;3.0;2.0;3.0;292.0;83.0;209.0;2.0;1.0;2.0
+563;K VH en handel in onroerend goed, ..;Kantoorwerk;2005;;;;;;;;;;;;
+564;K VH en handel in onroerend goed, ..;Persoonlijke vaardigheden;1999;110.0;56.0;55.0;17.0;20.0;15.0;2425.0;1196.0;1230.0;14.0;22.0;10.0
+565;K VH en handel in onroerend goed, ..;Persoonlijke vaardigheden;2005;;;;;;;1676.0;;;13.0;;
+566;K VH en handel in onroerend goed, ..;Informatica;1999;205.0;82.0;123.0;32.0;30.0;34.0;4109.0;1004.0;3106.0;23.0;18.0;25.0
+567;K VH en handel in onroerend goed, ..;Informatica;2005;;;;;;;1835.0;;;14.0;;
+568;K VH en handel in onroerend goed, ..;Techniek, bouw en productie;1999;24.0;5.0;19.0;4.0;2.0;5.0;958.0;285.0;674.0;5.0;5.0;5.0
+569;K VH en handel in onroerend goed, ..;Techniek, bouw en productie;2005;;;;;;;1239.0;;;10.0;;
+570;K VH en handel in onroerend goed, ..;Milieu en arbeidsomstandigheden;1999;40.0;13.0;27.0;6.0;5.0;8.0;920.0;365.0;555.0;5.0;7.0;5.0
+571;K VH en handel in onroerend goed, ..;Milieu en arbeidsomstandigheden;2005;;;;;;;320.0;;;3.0;;
+572;K VH en handel in onroerend goed, ..;Diensten;1999;45.0;26.0;18.0;7.0;10.0;5.0;1013.0;164.0;849.0;6.0;3.0;7.0
+573;K VH en handel in onroerend goed, ..;Diensten;2005;;;;;;;466.0;;;4.0;;
+574;K VH en handel in onroerend goed, ..;Overige typen;1999;33.0;12.0;21.0;5.0;4.0;6.0;776.0;150.0;626.0;4.0;3.0;5.0
+575;K VH en handel in onroerend goed, ..;Overige typen;2005;;;;;;;3396.0;;;27.0;;
+576;K VH en handel in onroerend goed, ..;Hogescholen en universiteiten;1999;;;;;;;;;;;;
+577;K VH en handel in onroerend goed, ..;Hogescholen en universiteiten;2005;;;;;;;;;1995.0;;;24.0
+578;K VH en handel in onroerend goed, ..;(Hoge-)scholen;1999;6.0;;6.0;1.0;;2.0;703.0;;703.0;4.0;;6.0
+579;K VH en handel in onroerend goed, ..;(Hoge-)scholen;2005;;;;;;;;;;;;
+580;K VH en handel in onroerend goed, ..;Universiteiten;1999;8.0;;8.0;1.0;;2.0;1344.0;;1344.0;8.0;;11.0
+581;K VH en handel in onroerend goed, ..;Universiteiten;2005;;;;;;;;;;;;
+582;K VH en handel in onroerend goed, ..;Opleidingsinstelling publieke sector;1999;47.0;;47.0;7.0;;13.0;1721.0;;1721.0;10.0;;14.0
+583;K VH en handel in onroerend goed, ..;Opleidingsinstelling publieke sector;2005;;;;;;;;;1656.0;;;20.0
+584;K VH en handel in onroerend goed, ..;Particuliere opleidingsinstituten;1999;212.0;;212.0;34.0;;59.0;5757.0;;5757.0;32.0;;47.0
+585;K VH en handel in onroerend goed, ..;Particuliere opleidingsinstituten;2005;;;;;;;;;3560.0;;;43.0
+586;K VH en handel in onroerend goed, ..;Lev. app., software /moeder-zusterbedr.;1999;;;;;;;;;;;;
+587;K VH en handel in onroerend goed, ..;Lev. app., software /moeder-zusterbedr.;2005;;;;;;;;;408.0;;;5.0
+588;K VH en handel in onroerend goed, ..;Leveranciers van apparatuur en software;1999;38.0;;38.0;6.0;;11.0;1099.0;;1099.0;6.0;;9.0
+589;K VH en handel in onroerend goed, ..;Leveranciers van apparatuur en software;2005;;;;;;;;;;;;
+590;K VH en handel in onroerend goed, ..;Moeder- en zusterbedrijven;1999;29.0;;29.0;5.0;;8.0;812.0;;812.0;5.0;;7.0
+591;K VH en handel in onroerend goed, ..;Moeder- en zusterbedrijven;2005;;;;;;;;;;;;
+592;K VH en handel in onroerend goed, ..;Vakbonden;1999;0.0;;0.0;0.0;;0.0;2.0;;2.0;0.0;;0.0
+593;K VH en handel in onroerend goed, ..;Vakbonden;2005;;;;;;;;;81.0;;;1.0
+594;K VH en handel in onroerend goed, ..;KvK, branche- en werkgeversorg.;1999;13.0;;13.0;2.0;;4.0;470.0;;470.0;3.0;;4.0
+595;K VH en handel in onroerend goed, ..;KvK, branche- en werkgeversorg.;2005;;;;;;;;;14.0;;;0.0
+596;K VH en handel in onroerend goed, ..;Eigen bedrijf;1999;274.0;274.0;;43.0;;;5533.0;5533.0;;31.0;;
+597;K VH en handel in onroerend goed, ..;Eigen bedrijf;2005;;;;;;;;;;;;
+598;K VH en handel in onroerend goed, ..;Overige instanties;1999;5.0;;5.0;1.0;;2.0;354.0;;354.0;2.0;;3.0
+599;K VH en handel in onroerend goed, ..;Overige instanties;2005;;;;;;;;;627.0;;;8.0
+600;O Milieudienstverlening, cultuur, ..;Totaal van de opleidingen;1999;126.0;55.0;71.0;100.0;100.0;100.0;2230.0;694.0;1536.0;100.0;100.0;100.0
+601;O Milieudienstverlening, cultuur, ..;Totaal van de opleidingen;2005;;;;;;;1625.0;;;100.0;;
+602;O Milieudienstverlening, cultuur, ..;Talen;1999;2.0;0.0;2.0;1.0;1.0;2.0;61.0;9.0;52.0;3.0;1.0;3.0
+603;O Milieudienstverlening, cultuur, ..;Talen;2005;;;;;;;78.0;;;5.0;;
+604;O Milieudienstverlening, cultuur, ..;Verkoop en marketing;1999;9.0;6.0;3.0;7.0;10.0;5.0;140.0;55.0;84.0;6.0;8.0;6.0
+605;O Milieudienstverlening, cultuur, ..;Verkoop en marketing;2005;;;;;;;101.0;;;6.0;;
+606;O Milieudienstverlening, cultuur, ..;Boekhouding/financiën/management/kantoor;1999;;;;;;;;;;;;
+607;O Milieudienstverlening, cultuur, ..;Boekhouding/financiën/management/kantoor;2005;;;;;;;76.0;;;5.0;;
+608;O Milieudienstverlening, cultuur, ..;Boekhouding en financiën;1999;2.0;1.0;1.0;1.0;1.0;1.0;84.0;5.0;79.0;4.0;1.0;5.0
+609;O Milieudienstverlening, cultuur, ..;Boekhouding en financiën;2005;;;;;;;;;;;;
+610;O Milieudienstverlening, cultuur, ..;Management;1999;6.0;1.0;5.0;5.0;3.0;7.0;191.0;41.0;150.0;9.0;6.0;10.0
+611;O Milieudienstverlening, cultuur, ..;Management;2005;;;;;;;;;;;;
+612;O Milieudienstverlening, cultuur, ..;Kantoorwerk;1999;3.0;1.0;2.0;2.0;1.0;3.0;32.0;4.0;28.0;1.0;1.0;2.0
+613;O Milieudienstverlening, cultuur, ..;Kantoorwerk;2005;;;;;;;;;;;;
+614;O Milieudienstverlening, cultuur, ..;Persoonlijke vaardigheden;1999;25.0;16.0;9.0;20.0;30.0;13.0;440.0;260.0;180.0;20.0;37.0;12.0
+615;O Milieudienstverlening, cultuur, ..;Persoonlijke vaardigheden;2005;;;;;;;519.0;;;32.0;;
+616;O Milieudienstverlening, cultuur, ..;Informatica;1999;33.0;13.0;20.0;26.0;23.0;28.0;429.0;119.0;310.0;19.0;17.0;20.0
+617;O Milieudienstverlening, cultuur, ..;Informatica;2005;;;;;;;108.0;;;7.0;;
+618;O Milieudienstverlening, cultuur, ..;Techniek, bouw en productie;1999;4.0;2.0;2.0;3.0;3.0;3.0;143.0;56.0;88.0;6.0;8.0;6.0
+619;O Milieudienstverlening, cultuur, ..;Techniek, bouw en productie;2005;;;;;;;78.0;;;5.0;;
+620;O Milieudienstverlening, cultuur, ..;Milieu en arbeidsomstandigheden;1999;26.0;8.0;18.0;20.0;15.0;25.0;510.0;109.0;401.0;23.0;16.0;26.0
+621;O Milieudienstverlening, cultuur, ..;Milieu en arbeidsomstandigheden;2005;;;;;;;95.0;;;6.0;;
+622;O Milieudienstverlening, cultuur, ..;Diensten;1999;14.0;7.0;7.0;11.0;13.0;10.0;110.0;30.0;81.0;5.0;4.0;5.0
+623;O Milieudienstverlening, cultuur, ..;Diensten;2005;;;;;;;36.0;;;2.0;;
+624;O Milieudienstverlening, cultuur, ..;Overige typen;1999;2.0;0.0;2.0;2.0;1.0;3.0;91.0;7.0;84.0;4.0;1.0;5.0
+625;O Milieudienstverlening, cultuur, ..;Overige typen;2005;;;;;;;534.0;;;33.0;;
+626;O Milieudienstverlening, cultuur, ..;Hogescholen en universiteiten;1999;;;;;;;;;;;;
+627;O Milieudienstverlening, cultuur, ..;Hogescholen en universiteiten;2005;;;;;;;;;101.0;;;11.0
+628;O Milieudienstverlening, cultuur, ..;(Hoge-)scholen;1999;2.0;;2.0;2.0;;3.0;207.0;;207.0;9.0;;13.0
+629;O Milieudienstverlening, cultuur, ..;(Hoge-)scholen;2005;;;;;;;;;;;;
+630;O Milieudienstverlening, cultuur, ..;Universiteiten;1999;0.0;;0.0;0.0;;1.0;23.0;;23.0;1.0;;1.0
+631;O Milieudienstverlening, cultuur, ..;Universiteiten;2005;;;;;;;;;;;;
+632;O Milieudienstverlening, cultuur, ..;Opleidingsinstelling publieke sector;1999;15.0;;15.0;12.0;;21.0;340.0;;340.0;15.0;;22.0
+633;O Milieudienstverlening, cultuur, ..;Opleidingsinstelling publieke sector;2005;;;;;;;;;140.0;;;16.0
+634;O Milieudienstverlening, cultuur, ..;Particuliere opleidingsinstituten;1999;43.0;;43.0;34.0;;61.0;780.0;;780.0;35.0;;51.0
+635;O Milieudienstverlening, cultuur, ..;Particuliere opleidingsinstituten;2005;;;;;;;;;388.0;;;43.0
+636;O Milieudienstverlening, cultuur, ..;Lev. app., software /moeder-zusterbedr.;1999;;;;;;;;;;;;
+637;O Milieudienstverlening, cultuur, ..;Lev. app., software /moeder-zusterbedr.;2005;;;;;;;;;56.0;;;6.0
+638;O Milieudienstverlening, cultuur, ..;Leveranciers van apparatuur en software;1999;6.0;;6.0;4.0;;8.0;123.0;;123.0;6.0;;8.0
+639;O Milieudienstverlening, cultuur, ..;Leveranciers van apparatuur en software;2005;;;;;;;;;;;;
+640;O Milieudienstverlening, cultuur, ..;Moeder- en zusterbedrijven;1999;1.0;;1.0;1.0;;2.0;20.0;;20.0;1.0;;1.0
+641;O Milieudienstverlening, cultuur, ..;Moeder- en zusterbedrijven;2005;;;;;;;;;;;;
+642;O Milieudienstverlening, cultuur, ..;Vakbonden;1999;0.0;;0.0;0.0;;0.0;1.0;;1.0;0.0;;0.0
+643;O Milieudienstverlening, cultuur, ..;Vakbonden;2005;;;;;;;;;17.0;;;2.0
+644;O Milieudienstverlening, cultuur, ..;KvK, branche- en werkgeversorg.;1999;2.0;;2.0;2.0;;3.0;37.0;;37.0;2.0;;2.0
+645;O Milieudienstverlening, cultuur, ..;KvK, branche- en werkgeversorg.;2005;;;;;;;;;6.0;;;1.0
+646;O Milieudienstverlening, cultuur, ..;Eigen bedrijf;1999;55.0;55.0;;44.0;;;694.0;694.0;;31.0;;
+647;O Milieudienstverlening, cultuur, ..;Eigen bedrijf;2005;;;;;;;;;;;;
+648;O Milieudienstverlening, cultuur, ..;Overige instanties;1999;0.0;;0.0;0.0;;0.0;5.0;;5.0;0.0;;0.0
+649;O Milieudienstverlening, cultuur, ..;Overige instanties;2005;;;;;;;;;184.0;;;21.0
+650;0 tot 100 werknemers;Totaal van de opleidingen;1999;1005.0;319.0;686.0;100.0;100.0;100.0;25634.0;6852.0;18782.0;100.0;100.0;100.0
+651;0 tot 100 werknemers;Totaal van de opleidingen;2005;;;;;;;13889.0;;;100.0;;
+652;0 tot 100 werknemers;Talen;1999;13.0;2.0;11.0;1.0;1.0;2.0;488.0;64.0;424.0;2.0;1.0;2.0
+653;0 tot 100 werknemers;Talen;2005;;;;;;;356.0;;;3.0;;
+654;0 tot 100 werknemers;Verkoop en marketing;1999;86.0;13.0;48.0;9.0;4.0;7.0;2322.0;145.0;1422.0;9.0;2.0;8.0
+655;0 tot 100 werknemers;Verkoop en marketing;2005;;;;;;;1341.0;;;10.0;;
+656;0 tot 100 werknemers;Boekhouding/financiën/management/kantoor;1999;;;;;;;;;;;;
+657;0 tot 100 werknemers;Boekhouding/financiën/management/kantoor;2005;;;;;;;796.0;;;6.0;;
+658;0 tot 100 werknemers;Boekhouding en financiën;1999;51.0;4.0;38.0;5.0;1.0;6.0;3568.0;106.0;2872.0;14.0;2.0;15.0
+659;0 tot 100 werknemers;Boekhouding en financiën;2005;;;;;;;;;;;;
+660;0 tot 100 werknemers;Management;1999;50.0;38.0;34.0;5.0;12.0;5.0;1970.0;900.0;1597.0;8.0;13.0;9.0
+661;0 tot 100 werknemers;Management;2005;;;;;;;;;;;;
+662;0 tot 100 werknemers;Kantoorwerk;1999;11.0;14.0;8.0;1.0;4.0;1.0;203.0;696.0;182.0;1.0;10.0;1.0
+663;0 tot 100 werknemers;Kantoorwerk;2005;;;;;;;;;;;;
+664;0 tot 100 werknemers;Persoonlijke vaardigheden;1999;121.0;16.0;66.0;12.0;5.0;10.0;2650.0;373.0;1497.0;10.0;5.0;8.0
+665;0 tot 100 werknemers;Persoonlijke vaardigheden;2005;;;;;;;1939.0;;;14.0;;
+666;0 tot 100 werknemers;Informatica;1999;193.0;3.0;137.0;19.0;1.0;20.0;3861.0;21.0;2651.0;15.0;0.0;14.0
+667;0 tot 100 werknemers;Informatica;2005;;;;;;;1358.0;;;10.0;;
+668;0 tot 100 werknemers;Techniek, bouw en productie;1999;198.0;55.0;135.0;20.0;17.0;20.0;5444.0;1154.0;4233.0;21.0;17.0;23.0
+669;0 tot 100 werknemers;Techniek, bouw en productie;2005;;;;;;;3965.0;;;29.0;;
+670;0 tot 100 werknemers;Milieu en arbeidsomstandigheden;1999;199.0;57.0;144.0;20.0;18.0;21.0;3409.0;1210.0;2436.0;13.0;18.0;13.0
+671;0 tot 100 werknemers;Milieu en arbeidsomstandigheden;2005;;;;;;;620.0;;;5.0;;
+672;0 tot 100 werknemers;Diensten;1999;58.0;63.0;45.0;6.0;20.0;7.0;1104.0;1211.0;959.0;4.0;18.0;5.0
+673;0 tot 100 werknemers;Diensten;2005;;;;;;;639.0;;;5.0;;
+674;0 tot 100 werknemers;Overige typen;1999;25.0;55.0;20.0;2.0;17.0;3.0;616.0;973.0;510.0;2.0;14.0;3.0
+675;0 tot 100 werknemers;Overige typen;2005;;;;;;;2874.0;;;21.0;;
+676;0 tot 100 werknemers;Hogescholen en universiteiten;1999;;;;;;;;;;;;
+677;0 tot 100 werknemers;Hogescholen en universiteiten;2005;;;;;;;;;855.0;;;8.0
+678;0 tot 100 werknemers;(Hoge-)scholen;1999;15.0;;15.0;1.0;;2.0;1505.0;;1505.0;6.0;;8.0
+679;0 tot 100 werknemers;(Hoge-)scholen;2005;;;;;;;;;;;;
+680;0 tot 100 werknemers;Universiteiten;1999;4.0;;4.0;0.0;;1.0;388.0;;388.0;2.0;;2.0
+681;0 tot 100 werknemers;Universiteiten;2005;;;;;;;;;;;;
+682;0 tot 100 werknemers;Opleidingsinstelling publieke sector;1999;159.0;;159.0;16.0;;23.0;4212.0;;4212.0;16.0;;22.0
+683;0 tot 100 werknemers;Opleidingsinstelling publieke sector;2005;;;;;;;;;2481.0;;;25.0
+684;0 tot 100 werknemers;Particuliere opleidingsinstituten;1999;347.0;;347.0;35.0;;51.0;8829.0;;8829.0;34.0;;47.0
+685;0 tot 100 werknemers;Particuliere opleidingsinstituten;2005;;;;;;;;;3332.0;;;33.0
+686;0 tot 100 werknemers;Lev. app., software /moeder-zusterbedr.;1999;;;;;;;;;;;;
+687;0 tot 100 werknemers;Lev. app., software /moeder-zusterbedr.;2005;;;;;;;;;1326.0;;;13.0
+688;0 tot 100 werknemers;Leveranciers van apparatuur en software;1999;64.0;;64.0;6.0;;9.0;1237.0;;1237.0;5.0;;7.0
+689;0 tot 100 werknemers;Leveranciers van apparatuur en software;2005;;;;;;;;;;;;
+690;0 tot 100 werknemers;Moeder- en zusterbedrijven;1999;15.0;;15.0;1.0;;2.0;477.0;;477.0;2.0;;3.0
+691;0 tot 100 werknemers;Moeder- en zusterbedrijven;2005;;;;;;;;;;;;
+692;0 tot 100 werknemers;Vakbonden;1999;0.0;;0.0;0.0;;0.0;10.0;;10.0;0.0;;0.0
+693;0 tot 100 werknemers;Vakbonden;2005;;;;;;;;;318.0;;;3.0
+694;0 tot 100 werknemers;KvK, branche- en werkgeversorg.;1999;69.0;;69.0;7.0;;10.0;1648.0;;1648.0;6.0;;9.0
+695;0 tot 100 werknemers;KvK, branche- en werkgeversorg.;2005;;;;;;;;;27.0;;;0.0
+696;0 tot 100 werknemers;Eigen bedrijf;1999;319.0;319.0;;32.0;;;6852.0;6852.0;;27.0;;
+697;0 tot 100 werknemers;Eigen bedrijf;2005;;;;;;;;;;;;
+698;0 tot 100 werknemers;Overige instanties;1999;13.0;;13.0;1.0;;2.0;476.0;;476.0;2.0;;3.0
+699;0 tot 100 werknemers;Overige instanties;2005;;;;;;;;;1789.0;;;18.0
+700;100 tot 500 werknemers;Totaal van de opleidingen;1999;664.0;292.0;371.0;100.0;100.0;100.0;15824.0;5297.0;10526.0;100.0;100.0;100.0
+701;100 tot 500 werknemers;Totaal van de opleidingen;2005;;;;;;;9481.0;;;100.0;;
+702;100 tot 500 werknemers;Talen;1999;14.0;3.0;11.0;2.0;1.0;3.0;453.0;107.0;345.0;3.0;2.0;3.0
+703;100 tot 500 werknemers;Talen;2005;;;;;;;225.0;;;2.0;;
+704;100 tot 500 werknemers;Verkoop en marketing;1999;58.0;13.0;24.0;9.0;4.0;6.0;1607.0;123.0;569.0;10.0;2.0;5.0
+705;100 tot 500 werknemers;Verkoop en marketing;2005;;;;;;;978.0;;;10.0;;
+706;100 tot 500 werknemers;Boekhouding/financiën/management/kantoor;1999;;;;;;;;;;;;
+707;100 tot 500 werknemers;Boekhouding/financiën/management/kantoor;2005;;;;;;;778.0;;;8.0;;
+708;100 tot 500 werknemers;Boekhouding en financiën;1999;18.0;4.0;11.0;3.0;2.0;3.0;880.0;71.0;721.0;6.0;1.0;7.0
+709;100 tot 500 werknemers;Boekhouding en financiën;2005;;;;;;;;;;;;
+710;100 tot 500 werknemers;Management;1999;35.0;34.0;23.0;5.0;12.0;6.0;1206.0;1039.0;927.0;8.0;20.0;9.0
+711;100 tot 500 werknemers;Management;2005;;;;;;;;;;;;
+712;100 tot 500 werknemers;Kantoorwerk;1999;10.0;7.0;4.0;2.0;2.0;1.0;133.0;159.0;76.0;1.0;3.0;1.0
+713;100 tot 500 werknemers;Kantoorwerk;2005;;;;;;;;;;;;
+714;100 tot 500 werknemers;Persoonlijke vaardigheden;1999;104.0;12.0;43.0;16.0;4.0;12.0;1801.0;279.0;914.0;11.0;5.0;9.0
+715;100 tot 500 werknemers;Persoonlijke vaardigheden;2005;;;;;;;1328.0;;;14.0;;
+716;100 tot 500 werknemers;Informatica;1999;158.0;6.0;95.0;24.0;2.0;26.0;3316.0;57.0;2286.0;21.0;1.0;22.0
+717;100 tot 500 werknemers;Informatica;2005;;;;;;;1046.0;;;11.0;;
+718;100 tot 500 werknemers;Techniek, bouw en productie;1999;101.0;61.0;53.0;15.0;21.0;14.0;3323.0;887.0;2247.0;21.0;17.0;21.0
+719;100 tot 500 werknemers;Techniek, bouw en productie;2005;;;;;;;1508.0;;;16.0;;
+720;100 tot 500 werknemers;Milieu en arbeidsomstandigheden;1999;114.0;63.0;75.0;17.0;22.0;20.0;1880.0;1031.0;1411.0;12.0;19.0;13.0
+721;100 tot 500 werknemers;Milieu en arbeidsomstandigheden;2005;;;;;;;563.0;;;6.0;;
+722;100 tot 500 werknemers;Diensten;1999;40.0;49.0;27.0;6.0;17.0;7.0;802.0;1076.0;680.0;5.0;20.0;6.0
+723;100 tot 500 werknemers;Diensten;2005;;;;;;;415.0;;;4.0;;
+724;100 tot 500 werknemers;Overige typen;1999;11.0;39.0;7.0;2.0;13.0;2.0;422.0;469.0;351.0;3.0;9.0;3.0
+725;100 tot 500 werknemers;Overige typen;2005;;;;;;;2640.0;;;28.0;;
+726;100 tot 500 werknemers;Hogescholen en universiteiten;1999;;;;;;;;;;;;
+727;100 tot 500 werknemers;Hogescholen en universiteiten;2005;;;;;;;;;1165.0;;;18.0
+728;100 tot 500 werknemers;(Hoge-)scholen;1999;12.0;;12.0;2.0;;3.0;992.0;;992.0;6.0;;9.0
+729;100 tot 500 werknemers;(Hoge-)scholen;2005;;;;;;;;;;;;
+730;100 tot 500 werknemers;Universiteiten;1999;2.0;;2.0;0.0;;0.0;111.0;;111.0;1.0;;1.0
+731;100 tot 500 werknemers;Universiteiten;2005;;;;;;;;;;;;
+732;100 tot 500 werknemers;Opleidingsinstelling publieke sector;1999;73.0;;73.0;11.0;;20.0;1990.0;;1990.0;13.0;;19.0
+733;100 tot 500 werknemers;Opleidingsinstelling publieke sector;2005;;;;;;;;;1229.0;;;19.0
+734;100 tot 500 werknemers;Particuliere opleidingsinstituten;1999;217.0;;217.0;33.0;;58.0;5571.0;;5571.0;35.0;;53.0
+735;100 tot 500 werknemers;Particuliere opleidingsinstituten;2005;;;;;;;;;2905.0;;;45.0
+736;100 tot 500 werknemers;Lev. app., software /moeder-zusterbedr.;1999;;;;;;;;;;;;
+737;100 tot 500 werknemers;Lev. app., software /moeder-zusterbedr.;2005;;;;;;;;;486.0;;;8.0
+738;100 tot 500 werknemers;Leveranciers van apparatuur en software;1999;34.0;;34.0;5.0;;9.0;920.0;;920.0;6.0;;9.0
+739;100 tot 500 werknemers;Leveranciers van apparatuur en software;2005;;;;;;;;;;;;
+740;100 tot 500 werknemers;Moeder- en zusterbedrijven;1999;16.0;;16.0;2.0;;4.0;425.0;;425.0;3.0;;4.0
+741;100 tot 500 werknemers;Moeder- en zusterbedrijven;2005;;;;;;;;;;;;
+742;100 tot 500 werknemers;Vakbonden;1999;0.0;;0.0;0.0;;0.0;11.0;;11.0;0.0;;0.0
+743;100 tot 500 werknemers;Vakbonden;2005;;;;;;;;;96.0;;;2.0
+744;100 tot 500 werknemers;KvK, branche- en werkgeversorg.;1999;14.0;;14.0;2.0;;4.0;451.0;;451.0;3.0;;4.0
+745;100 tot 500 werknemers;KvK, branche- en werkgeversorg.;2005;;;;;;;;;30.0;;;1.0
+746;100 tot 500 werknemers;Eigen bedrijf;1999;292.0;292.0;;44.0;;;5297.0;5297.0;;33.0;;
+747;100 tot 500 werknemers;Eigen bedrijf;2005;;;;;;;;;;;;
+748;100 tot 500 werknemers;Overige instanties;1999;3.0;;3.0;0.0;;1.0;56.0;;56.0;0.0;;1.0
+749;100 tot 500 werknemers;Overige instanties;2005;;;;;;;;;491.0;;;8.0
+750;500 en meer werknemers;Totaal van de opleidingen;1999;1227.0;694.0;533.0;100.0;100.0;100.0;33554.0;17602.0;15952.0;100.0;100.0;100.0
+751;500 en meer werknemers;Totaal van de opleidingen;2005;;;;;;;23584.0;;;100.0;;
+752;500 en meer werknemers;Talen;1999;25.0;5.0;20.0;2.0;1.0;4.0;737.0;156.0;581.0;2.0;1.0;4.0
+753;500 en meer werknemers;Talen;2005;;;;;;;568.0;;;2.0;;
+754;500 en meer werknemers;Verkoop en marketing;1999;114.0;55.0;35.0;9.0;8.0;7.0;3348.0;780.0;1150.0;10.0;4.0;7.0
+755;500 en meer werknemers;Verkoop en marketing;2005;;;;;;;2451.0;;;10.0;;
+756;500 en meer werknemers;Boekhouding/financiën/management/kantoor;1999;;;;;;;;;;;;
+757;500 en meer werknemers;Boekhouding/financiën/management/kantoor;2005;;;;;;;6102.0;;;26.0;;
+758;500 en meer werknemers;Boekhouding en financiën;1999;176.0;11.0;66.0;14.0;2.0;12.0;7786.0;275.0;2441.0;23.0;2.0;15.0
+759;500 en meer werknemers;Boekhouding en financiën;2005;;;;;;;;;;;;
+760;500 en meer werknemers;Management;1999;96.0;78.0;48.0;8.0;11.0;9.0;3135.0;2198.0;1765.0;9.0;12.0;11.0
+761;500 en meer werknemers;Management;2005;;;;;;;;;;;;
+762;500 en meer werknemers;Kantoorwerk;1999;20.0;110.0;15.0;2.0;16.0;3.0;374.0;5345.0;266.0;1.0;30.0;2.0
+763;500 en meer werknemers;Kantoorwerk;2005;;;;;;;;;;;;
+764;500 en meer werknemers;Persoonlijke vaardigheden;1999;205.0;48.0;72.0;17.0;7.0;13.0;4271.0;1369.0;1860.0;13.0;8.0;12.0
+765;500 en meer werknemers;Persoonlijke vaardigheden;2005;;;;;;;3213.0;;;14.0;;
+766;500 en meer werknemers;Informatica;1999;225.0;5.0;112.0;18.0;1.0;21.0;4432.0;108.0;2407.0;13.0;1.0;15.0
+767;500 en meer werknemers;Informatica;2005;;;;;;;2031.0;;;9.0;;
+768;500 en meer werknemers;Techniek, bouw en productie;1999;116.0;134.0;62.0;9.0;19.0;12.0;4227.0;2412.0;2517.0;13.0;14.0;16.0
+769;500 en meer werknemers;Techniek, bouw en productie;2005;;;;;;;3236.0;;;14.0;;
+770;500 en meer werknemers;Milieu en arbeidsomstandigheden;1999;141.0;114.0;60.0;11.0;16.0;11.0;2484.0;2024.0;1259.0;7.0;11.0;8.0
+771;500 en meer werknemers;Milieu en arbeidsomstandigheden;2005;;;;;;;1512.0;;;6.0;;
+772;500 en meer werknemers;Diensten;1999;78.0;54.0;23.0;6.0;8.0;4.0;1558.0;1709.0;778.0;5.0;10.0;5.0
+773;500 en meer werknemers;Diensten;2005;;;;;;;990.0;;;4.0;;
+774;500 en meer werknemers;Overige typen;1999;31.0;80.0;21.0;3.0;12.0;4.0;1202.0;1226.0;927.0;4.0;7.0;6.0
+775;500 en meer werknemers;Overige typen;2005;;;;;;;3481.0;;;15.0;;
+776;500 en meer werknemers;Hogescholen en universiteiten;1999;;;;;;;;;;;;
+777;500 en meer werknemers;Hogescholen en universiteiten;2005;;;;;;;;;1341.0;;;13.0
+778;500 en meer werknemers;(Hoge-)scholen;1999;12.0;;12.0;1.0;;2.0;1131.0;;1131.0;3.0;;7.0
+779;500 en meer werknemers;(Hoge-)scholen;2005;;;;;;;;;;;;
+780;500 en meer werknemers;Universiteiten;1999;25.0;;25.0;2.0;;5.0;1474.0;;1474.0;4.0;;9.0
+781;500 en meer werknemers;Universiteiten;2005;;;;;;;;;;;;
+782;500 en meer werknemers;Opleidingsinstelling publieke sector;1999;58.0;;58.0;5.0;;11.0;2613.0;;2613.0;8.0;;16.0
+783;500 en meer werknemers;Opleidingsinstelling publieke sector;2005;;;;;;;;;1445.0;;;14.0
+784;500 en meer werknemers;Particuliere opleidingsinstituten;1999;336.0;;336.0;27.0;;63.0;8188.0;;8188.0;24.0;;51.0
+785;500 en meer werknemers;Particuliere opleidingsinstituten;2005;;;;;;;;;5975.0;;;57.0
+786;500 en meer werknemers;Lev. app., software /moeder-zusterbedr.;1999;;;;;;;;;;;;
+787;500 en meer werknemers;Lev. app., software /moeder-zusterbedr.;2005;;;;;;;;;702.0;;;7.0
+788;500 en meer werknemers;Leveranciers van apparatuur en software;1999;32.0;;32.0;3.0;;6.0;566.0;;566.0;2.0;;4.0
+789;500 en meer werknemers;Leveranciers van apparatuur en software;2005;;;;;;;;;;;;
+790;500 en meer werknemers;Moeder- en zusterbedrijven;1999;51.0;;51.0;4.0;;10.0;1261.0;;1261.0;4.0;;8.0
+791;500 en meer werknemers;Moeder- en zusterbedrijven;2005;;;;;;;;;;;;
+792;500 en meer werknemers;Vakbonden;1999;0.0;;0.0;0.0;;0.0;7.0;;7.0;0.0;;0.0
+793;500 en meer werknemers;Vakbonden;2005;;;;;;;;;140.0;;;1.0
+794;500 en meer werknemers;KvK, branche- en werkgeversorg.;1999;15.0;;15.0;1.0;;3.0;662.0;;662.0;2.0;;4.0
+795;500 en meer werknemers;KvK, branche- en werkgeversorg.;2005;;;;;;;;;22.0;;;0.0
+796;500 en meer werknemers;Eigen bedrijf;1999;694.0;694.0;;57.0;;;17602.0;17602.0;;52.0;;
+797;500 en meer werknemers;Eigen bedrijf;2005;;;;;;;;;;;;
+798;500 en meer werknemers;Overige instanties;1999;2.0;;2.0;0.0;;0.0;51.0;;51.0;0.0;;0.0
+799;500 en meer werknemers;Overige instanties;2005;;;;;;;;;901.0;;;9.0

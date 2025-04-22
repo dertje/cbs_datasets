@@ -1,0 +1,37 @@
+﻿ID;Ingenieursdiensten;Perioden;Prijsindexcijfers_1;Jaarmutatie_2;Prijsindexcijfers_3;Jaarmutatie_4;Wegingsfactoren_5
+0;Totaal ingenieursdiensten;2000;  100,0 ;     .  ;   100,0;      . ;100
+1;Totaal ingenieursdiensten;2001;  103,4 ;    3,4 ;   105,5;     5,5;100
+2;Totaal ingenieursdiensten;2002;  108,3 ;    4,7 ;   110,6;     4,8;100
+3;Totaal ingenieursdiensten;2003;  114,3 ;    5,5 ;   115,7;     4,6;100
+4;Totaal ingenieursdiensten;2004;  115,6 ;    1,1 ;   117,4;     1,5;100
+5;Totaal ingenieursdiensten;2005;     .  ;     .  ;   120,0;     2,2;100
+6;Constructie&Bouwk., Akoestiek&Bouwfysica;2000;    100 ;     .  ;     100;      . ;13
+7;Constructie&Bouwk., Akoestiek&Bouwfysica;2001;    103 ;      3 ;     104;       4;13
+8;Constructie&Bouwk., Akoestiek&Bouwfysica;2002;    112 ;      9 ;     111;       7;13
+9;Constructie&Bouwk., Akoestiek&Bouwfysica;2003;    114 ;      2 ;     119;       7;13
+10;Constructie&Bouwk., Akoestiek&Bouwfysica;2004;    114 ;      0 ;     122;       3;13
+11;Constructie&Bouwk., Akoestiek&Bouwfysica;2005;     .  ;     .  ;     124;       2;13
+12;Technische installaties & Telematica;2000;    100 ;     .  ;     100;      . ;52
+13;Technische installaties & Telematica;2001;    103 ;      3 ;     105;       5;52
+14;Technische installaties & Telematica;2002;    108 ;      5 ;     109;       4;52
+15;Technische installaties & Telematica;2003;    115 ;      6 ;     113;       4;52
+16;Technische installaties & Telematica;2004;    115 ;      0 ;     115;       2;52
+17;Technische installaties & Telematica;2005;     .  ;     .  ;     118;       3;52
+18;Waterbouw & Infrastructuur;2000;     .  ;     .  ;     100;      . ;12
+19;Waterbouw & Infrastructuur;2001;     .  ;     .  ;     108;       8;12
+20;Waterbouw & Infrastructuur;2002;     .  ;     .  ;     115;       6;12
+21;Waterbouw & Infrastructuur;2003;     .  ;     .  ;     120;       4;12
+22;Waterbouw & Infrastructuur;2004;     .  ;     .  ;     122;       2;12
+23;Waterbouw & Infrastructuur;2005;     .  ;     .  ;     122;       0;12
+24;Overige ing.diensten (excl Waterb&Infra);2000;     .  ;     .  ;     100;      . ;23
+25;Overige ing.diensten (excl Waterb&Infra);2001;     .  ;     .  ;     107;       7;23
+26;Overige ing.diensten (excl Waterb&Infra);2002;     .  ;     .  ;     113;       6;23
+27;Overige ing.diensten (excl Waterb&Infra);2003;     .  ;     .  ;     117;       4;23
+28;Overige ing.diensten (excl Waterb&Infra);2004;     .  ;     .  ;     119;       2;23
+29;Overige ing.diensten (excl Waterb&Infra);2005;     .  ;     .  ;     122;       3;23
+30;Overige ing.diensten (incl Waterb&Infra);2000;    100 ;     .  ;      . ;      . ;35
+31;Overige ing.diensten (incl Waterb&Infra);2001;    104 ;      4 ;      . ;      . ;35
+32;Overige ing.diensten (incl Waterb&Infra);2002;    108 ;      4 ;      . ;      . ;35
+33;Overige ing.diensten (incl Waterb&Infra);2003;    113 ;      5 ;      . ;      . ;35
+34;Overige ing.diensten (incl Waterb&Infra);2004;    117 ;      4 ;      . ;      . ;35
+35;Overige ing.diensten (incl Waterb&Infra);2005;     .  ;     .  ;      . ;      . ;35

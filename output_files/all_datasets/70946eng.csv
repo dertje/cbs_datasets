@@ -1,0 +1,833 @@
+﻿ID;Sources;Periods;CO2_1;CH4_2;N2O_3
+0;Total stationary and mobile sources;1990;163600;1276.1;60.67
+1;Total stationary and mobile sources;1991;172000;1292.18;61.34
+2;Total stationary and mobile sources;1992;171700;1275.77;62.26
+3;Total stationary and mobile sources;1993;171600;1257.9;63.21
+4;Total stationary and mobile sources;1994;172400;1216.42;61.69
+5;Total stationary and mobile sources;1995;173900;1186.69;61.19
+6;Total stationary and mobile sources;1996;182900;1159.43;61.4
+7;Total stationary and mobile sources;1997;175900;1093.24;60.5
+8;Total stationary and mobile sources;1998;176800;1064.27;58.56
+9;Total stationary and mobile sources;1999;171400;1013.2;56.31
+10;Total stationary and mobile sources;2000;172500;968.48;54.09
+11;Total stationary and mobile sources;2001;177600;942.35;51.0
+12;Total stationary and mobile sources;2002;176900;896.71;47.95
+13;Total stationary and mobile sources;2003;180300;865.78;47.55
+14;Total stationary and mobile sources;2004;182200;849.54;48.79
+15;Total stationary and mobile sources;2005;178300;790.77;48.62
+16;Total stationary and mobile sources;2006;173400;772.85;48.89
+17;Total stationary and mobile sources;2007;173200;774.7;43.57
+18;Total stationary and mobile sources;2008;176100;783.93;30.99
+19;Total stationary and mobile sources;2009;170800;777.18;30.44
+20;Total stationary and mobile sources;2010;182800;774.32;29.47
+21;Total stationary and mobile sources;2011;169600;751.61;28.75
+22;Total stationary and mobile sources;2012;165900;734.93;28.15
+23;Total stationary and mobile sources;2013;165300;734.22;28.89
+24;Total stationary and mobile sources;2014;157900;716.72;29.32
+25;Total stationary and mobile sources;2015;164300;724.75;30.08
+26;Total stationary and mobile sources;2016;165100;729.57;29.05
+27;Total stationary and mobile sources;2017;162700;716.56;29.86
+28;Total stationary and mobile sources;2018;158600;692.67;29.14
+29;Total stationary and mobile sources;2019;152900;688.28;28.73
+30;Total stationary and mobile sources;2020;137100;677.63;28.15
+31;Total stationary and mobile sources;2021;140400;668.4;27.0
+32;"Stationary sources; total";1990;130600;1267.57;60.22
+33;"Stationary sources; total";1991;138600;1284.73;60.79
+34;"Stationary sources; total";1992;136900;1268.72;61.58
+35;"Stationary sources; total";1993;136000;1251.15;62.43
+36;"Stationary sources; total";1994;137100;1210.09;60.83
+37;"Stationary sources; total";1995;138000;1180.5;60.24
+38;"Stationary sources; total";1996;145800;1153.37;60.39
+39;"Stationary sources; total";1997;138900;1087.64;59.49
+40;"Stationary sources; total";1998;139100;1058.98;57.55
+41;"Stationary sources; total";1999;132800;1008.23;55.3
+42;"Stationary sources; total";2000;134100;963.99;53.07
+43;"Stationary sources; total";2001;138900;937.98;49.98
+44;"Stationary sources; total";2002;137900;892.46;46.95
+45;"Stationary sources; total";2003;140900;861.68;46.58
+46;"Stationary sources; total";2004;142400;845.65;47.85
+47;"Stationary sources; total";2005;138100;786.99;47.71
+48;"Stationary sources; total";2006;132500;769.1;48.0
+49;"Stationary sources; total";2007;133300;770.99;42.66
+50;"Stationary sources; total";2008;136100;780.25;30.03
+51;"Stationary sources; total";2009;132400;773.66;29.48
+52;"Stationary sources; total";2010;143700;770.9;28.48
+53;"Stationary sources; total";2011;130600;748.26;27.72
+54;"Stationary sources; total";2012;128900;731.8;27.15
+55;"Stationary sources; total";2013;129700;731.19;27.9
+56;"Stationary sources; total";2014;124600;713.83;28.43
+57;"Stationary sources; total";2015;130900;721.91;29.17
+58;"Stationary sources; total";2016;131600;726.77;28.17
+59;"Stationary sources; total";2017;128600;713.65;28.94
+60;"Stationary sources; total";2018;124300;689.84;28.23
+61;"Stationary sources; total";2019;119300;685.41;27.83
+62;"Stationary sources; total";2020;107800;675.08;27.37
+63;"Stationary sources; total";2021;111100;665.77;26.22
+64;Energy sector ;1990;52800;80.02;0.42
+65;Energy sector ;1991;53300;80.22;0.37
+66;Energy sector ;1992;53300;79.98;0.37
+67;Energy sector ;1993;55400;80.09;0.38
+68;Energy sector ;1994;58800;80.08;0.43
+69;Energy sector ;1995;61200;80.15;0.46
+70;Energy sector ;1996;62000;74.88;0.44
+71;Energy sector ;1997;62500;50.72;0.42
+72;Energy sector ;1998;64600;51.16;0.44
+73;Energy sector ;1999;60800;44.12;0.38
+74;Energy sector ;2000;62600;41.15;0.42
+75;Energy sector ;2001;66500;40.87;0.46
+76;Energy sector ;2002;66500;39.4;0.48
+77;Energy sector ;2003;67700;38.84;0.48
+78;Energy sector ;2004;69000;37.29;0.49
+79;Energy sector ;2005;66400;40.06;0.54
+80;Energy sector ;2006;61300;36.27;0.5
+81;Energy sector ;2007;63900;38.74;0.52
+82;Energy sector ;2008;63500;40.35;0.49
+83;Energy sector ;2009;62400;35.36;0.5
+84;Energy sector ;2010;64400;38.54;0.51
+85;Energy sector ;2011;60400;38.88;0.48
+86;Energy sector ;2012;57200;36.33;0.51
+87;Energy sector ;2013;57200;32.75;0.49
+88;Energy sector ;2014;61200;31.68;0.52
+89;Energy sector ;2015;66000;30.92;0.62
+90;Energy sector ;2016;64200;29.21;0.58
+91;Energy sector ;2017;60000;25.64;0.52
+92;Energy sector ;2018;56300;23.06;0.47
+93;Energy sector ;2019;53900;23.14;0.48
+94;Energy sector ;2020;43800;22.47;0.44
+95;Energy sector ;2021;44100;20.62;0.58
+96;06 Extraction of crude petroleum and gas;1990;2300;77.35;0.0
+97;06 Extraction of crude petroleum and gas;1991;2300;77.29;0.0
+98;06 Extraction of crude petroleum and gas;1992;2300;76.99;0.0
+99;06 Extraction of crude petroleum and gas;1993;2100;76.79;0.0
+100;06 Extraction of crude petroleum and gas;1994;1900;76.75;0.0
+101;06 Extraction of crude petroleum and gas;1995;2000;76.83;0.0
+102;06 Extraction of crude petroleum and gas;1996;2100;71.26;0.0
+103;06 Extraction of crude petroleum and gas;1997;2200;46.95;0.0
+104;06 Extraction of crude petroleum and gas;1998;2100;47.35;0.0
+105;06 Extraction of crude petroleum and gas;1999;2000;40.33;0.0
+106;06 Extraction of crude petroleum and gas;2000;2000;37.3;0.0
+107;06 Extraction of crude petroleum and gas;2001;2000;36.78;0.0
+108;06 Extraction of crude petroleum and gas;2002;2100;35.12;0.0
+109;06 Extraction of crude petroleum and gas;2003;2000;34.62;0.0
+110;06 Extraction of crude petroleum and gas;2004;2100;32.66;0.0
+111;06 Extraction of crude petroleum and gas;2005;2200;35.18;0.0
+112;06 Extraction of crude petroleum and gas;2006;2100;31.67;0.0
+113;06 Extraction of crude petroleum and gas;2007;1900;34.28;0.03
+114;06 Extraction of crude petroleum and gas;2008;1900;35.96;0.03
+115;06 Extraction of crude petroleum and gas;2009;2000;30.25;0.02
+116;06 Extraction of crude petroleum and gas;2010;2100;33.28;0.03
+117;06 Extraction of crude petroleum and gas;2011;2000;33.51;0.03
+118;06 Extraction of crude petroleum and gas;2012;2100;31.71;0.03
+119;06 Extraction of crude petroleum and gas;2013;2200;28.9;0.03
+120;06 Extraction of crude petroleum and gas;2014;2200;28.01;0.03
+121;06 Extraction of crude petroleum and gas;2015;1900;26.68;0.03
+122;06 Extraction of crude petroleum and gas;2016;1700;24.8;0.03
+123;06 Extraction of crude petroleum and gas;2017;1800;21.43;0.04
+124;06 Extraction of crude petroleum and gas;2018;1700;18.7;0.03
+125;06 Extraction of crude petroleum and gas;2019;1500;18.05;0.09
+126;06 Extraction of crude petroleum and gas;2020;1500;16.74;0.06
+127;06 Extraction of crude petroleum and gas;2021;1400;15.3;0.05
+128;192 Manufacture of refined petroleum ;1990;11000;1.13;0.05
+129;192 Manufacture of refined petroleum ;1991;11100;1.14;0.02
+130;192 Manufacture of refined petroleum ;1992;10400;1.1;0.02
+131;192 Manufacture of refined petroleum ;1993;11500;1.25;0.05
+132;192 Manufacture of refined petroleum ;1994;11300;1.19;0.05
+133;192 Manufacture of refined petroleum ;1995;11600;1.03;0.05
+134;192 Manufacture of refined petroleum ;1996;11800;1.02;0.05
+135;192 Manufacture of refined petroleum ;1997;12000;1.05;0.05
+136;192 Manufacture of refined petroleum ;1998;12400;1.0;0.05
+137;192 Manufacture of refined petroleum ;1999;11800;0.9;0.04
+138;192 Manufacture of refined petroleum ;2000;12400;0.9;0.04
+139;192 Manufacture of refined petroleum ;2001;12700;0.86;0.04
+140;192 Manufacture of refined petroleum ;2002;11700;0.87;0.03
+141;192 Manufacture of refined petroleum ;2003;12200;0.89;0.04
+142;192 Manufacture of refined petroleum ;2004;12200;0.94;0.04
+143;192 Manufacture of refined petroleum ;2005;12400;0.87;0.04
+144;192 Manufacture of refined petroleum ;2006;11600;0.84;0.04
+145;192 Manufacture of refined petroleum ;2007;11600;0.95;0.04
+146;192 Manufacture of refined petroleum ;2008;11800;0.83;0.04
+147;192 Manufacture of refined petroleum ;2009;10800;1.26;0.03
+148;192 Manufacture of refined petroleum ;2010;10600;1.03;0.02
+149;192 Manufacture of refined petroleum ;2011;10800;1.48;0.03
+150;192 Manufacture of refined petroleum ;2012;10500;1.31;0.03
+151;192 Manufacture of refined petroleum ;2013;10300;0.86;0.03
+152;192 Manufacture of refined petroleum ;2014;10700;0.87;0.03
+153;192 Manufacture of refined petroleum ;2015;11100;0.9;0.03
+154;192 Manufacture of refined petroleum ;2016;10700;0.92;0.03
+155;192 Manufacture of refined petroleum ;2017;10100;0.91;0.03
+156;192 Manufacture of refined petroleum ;2018;10200;1.04;0.03
+157;192 Manufacture of refined petroleum ;2019;11000;1.08;0.03
+158;192 Manufacture of refined petroleum ;2020;10000;1.03;0.03
+159;192 Manufacture of refined petroleum ;2021;10500;0.94;0.03
+160;35 Energy supply;1990;39500;1.53;0.38
+161;35 Energy supply;1991;39900;1.8;0.35
+162;35 Energy supply;1992;40500;1.89;0.34
+163;35 Energy supply;1993;41700;2.05;0.34
+164;35 Energy supply;1994;45600;2.14;0.38
+165;35 Energy supply;1995;47600;2.3;0.41
+166;35 Energy supply;1996;48100;2.59;0.39
+167;35 Energy supply;1997;48300;2.72;0.37
+168;35 Energy supply;1998;50100;2.81;0.39
+169;35 Energy supply;1999;47000;2.89;0.34
+170;35 Energy supply;2000;48200;2.96;0.38
+171;35 Energy supply;2001;51700;3.23;0.42
+172;35 Energy supply;2002;52700;3.41;0.44
+173;35 Energy supply;2003;53500;3.32;0.44
+174;35 Energy supply;2004;54700;3.69;0.45
+175;35 Energy supply;2005;51900;4.01;0.5
+176;35 Energy supply;2006;47600;3.77;0.46
+177;35 Energy supply;2007;50400;3.5;0.45
+178;35 Energy supply;2008;49800;3.56;0.43
+179;35 Energy supply;2009;49700;3.86;0.45
+180;35 Energy supply;2010;51800;4.23;0.46
+181;35 Energy supply;2011;47600;3.89;0.43
+182;35 Energy supply;2012;44600;3.3;0.46
+183;35 Energy supply;2013;44700;2.98;0.43
+184;35 Energy supply;2014;48400;2.81;0.46
+185;35 Energy supply;2015;52900;3.34;0.56
+186;35 Energy supply;2016;51700;3.49;0.52
+187;35 Energy supply;2017;48100;3.3;0.45
+188;35 Energy supply;2018;44400;3.32;0.41
+189;35 Energy supply;2019;41300;4.02;0.36
+190;35 Energy supply;2020;32300;4.7;0.36
+191;35 Energy supply;2021;32200;4.37;0.49
+192;Industry (non energy) ;1990;40300;14.0;24.01
+193;Industry (non energy) ;1991;42600;14.17;24.01
+194;Industry (non energy) ;1992;43900;14.34;24.2
+195;Industry (non energy) ;1993;38600;14.0;25.81
+196;Industry (non energy) ;1994;39000;14.06;25.27
+197;Industry (non energy) ;1995;35300;14.04;24.03
+198;Industry (non energy) ;1996;36000;14.29;24.06
+199;Industry (non energy) ;1997;35400;14.26;23.88
+200;Industry (non energy) ;1998;34900;14.32;23.94
+201;Industry (non energy) ;1999;34100;14.8;22.82
+202;Industry (non energy) ;2000;33400;14.81;23.35
+203;Industry (non energy) ;2001;32800;14.6;21.35
+204;Industry (non energy) ;2002;33200;15.93;20.45
+205;Industry (non energy) ;2003;33700;15.98;20.65
+206;Industry (non energy) ;2004;33700;15.99;22.58
+207;Industry (non energy) ;2005;33400;15.88;22.72
+208;Industry (non energy) ;2006;33400;14.7;22.57
+209;Industry (non energy) ;2007;34000;14.74;18.26
+210;Industry (non energy) ;2008;33400;14.42;6.08
+211;Industry (non energy) ;2009;30500;13.97;6.28
+212;Industry (non energy) ;2010;33700;14.82;5.35
+213;Industry (non energy) ;2011;32900;14.56;5.36
+214;Industry (non energy) ;2012;32100;14.56;5.4
+215;Industry (non energy) ;2013;31700;14.37;5.41
+216;Industry (non energy) ;2014;30800;14.61;5.65
+217;Industry (non energy) ;2015;30400;14.59;5.67
+218;Industry (non energy) ;2016;32200;14.74;4.98
+219;Industry (non energy) ;2017;33800;15.05;5.27
+220;Industry (non energy) ;2018;33400;14.56;4.82
+221;Industry (non energy) ;2019;32100;15.12;4.82
+222;Industry (non energy) ;2020;32400;16.19;4.38
+223;Industry (non energy) ;2021;32500;15.94;3.68
+224;20-21 Chemistry and pharmaceuticals;1990;21500;12.25;23.82
+225;20-21 Chemistry and pharmaceuticals;1991;23300;12.32;23.83
+226;20-21 Chemistry and pharmaceuticals;1992;24800;12.4;24.01
+227;20-21 Chemistry and pharmaceuticals;1993;19100;12.0;25.62
+228;20-21 Chemistry and pharmaceuticals;1994;18600;12.0;25.09
+229;20-21 Chemistry and pharmaceuticals;1995;16600;11.95;23.84
+230;20-21 Chemistry and pharmaceuticals;1996;16900;12.02;23.87
+231;20-21 Chemistry and pharmaceuticals;1997;16600;11.96;23.69
+232;20-21 Chemistry and pharmaceuticals;1998;16500;11.9;23.74
+233;20-21 Chemistry and pharmaceuticals;1999;16000;12.39;22.63
+234;20-21 Chemistry and pharmaceuticals;2000;15700;12.42;23.15
+235;20-21 Chemistry and pharmaceuticals;2001;15200;12.34;21.15
+236;20-21 Chemistry and pharmaceuticals;2002;15600;13.78;20.29
+237;20-21 Chemistry and pharmaceuticals;2003;16100;13.82;20.49
+238;20-21 Chemistry and pharmaceuticals;2004;16000;13.88;22.42
+239;20-21 Chemistry and pharmaceuticals;2005;15700;13.75;22.56
+240;20-21 Chemistry and pharmaceuticals;2006;16300;12.62;22.42
+241;20-21 Chemistry and pharmaceuticals;2007;16800;12.7;18.08
+242;20-21 Chemistry and pharmaceuticals;2008;16500;12.31;5.88
+243;20-21 Chemistry and pharmaceuticals;2009;15600;11.94;6.08
+244;20-21 Chemistry and pharmaceuticals;2010;17600;12.81;5.17
+245;20-21 Chemistry and pharmaceuticals;2011;16900;12.58;5.17
+246;20-21 Chemistry and pharmaceuticals;2012;17000;12.71;5.21
+247;20-21 Chemistry and pharmaceuticals;2013;16900;12.59;5.22
+248;20-21 Chemistry and pharmaceuticals;2014;16500;12.81;5.46
+249;20-21 Chemistry and pharmaceuticals;2015;15600;12.66;5.47
+250;20-21 Chemistry and pharmaceuticals;2016;17200;12.75;4.78
+251;20-21 Chemistry and pharmaceuticals;2017;18000;13.08;5.06
+252;20-21 Chemistry and pharmaceuticals;2018;18100;12.55;4.6
+253;20-21 Chemistry and pharmaceuticals;2019;17400;13.16;4.6
+254;20-21 Chemistry and pharmaceuticals;2020;18900;14.29;4.17
+255;20-21 Chemistry and pharmaceuticals;2021;18400;13.92;3.46
+256;24 Basic metal industry;1990;7500;0.42;0.03
+257;24 Basic metal industry;1991;7600;0.42;0.02
+258;24 Basic metal industry;1992;7200;0.42;0.02
+259;24 Basic metal industry;1993;7600;0.42;0.03
+260;24 Basic metal industry;1994;8600;0.44;0.03
+261;24 Basic metal industry;1995;7800;0.44;0.03
+262;24 Basic metal industry;1996;7800;0.44;0.03
+263;24 Basic metal industry;1997;7700;0.44;0.03
+264;24 Basic metal industry;1998;7200;0.44;0.03
+265;24 Basic metal industry;1999;6600;0.38;0.03
+266;24 Basic metal industry;2000;6400;0.35;0.02
+267;24 Basic metal industry;2001;6500;0.36;0.03
+268;24 Basic metal industry;2002;6700;0.35;0.03
+269;24 Basic metal industry;2003;7100;0.35;0.03
+270;24 Basic metal industry;2004;7200;0.35;0.03
+271;24 Basic metal industry;2005;7200;0.36;0.03
+272;24 Basic metal industry;2006;7100;0.34;0.03
+273;24 Basic metal industry;2007;7300;0.35;0.03
+274;24 Basic metal industry;2008;7300;0.34;0.03
+275;24 Basic metal industry;2009;6100;0.28;0.02
+276;24 Basic metal industry;2010;6900;0.33;0.02
+277;24 Basic metal industry;2011;7000;0.33;0.03
+278;24 Basic metal industry;2012;6400;0.31;0.03
+279;24 Basic metal industry;2013;6600;0.32;0.03
+280;24 Basic metal industry;2014;6200;0.32;0.03
+281;24 Basic metal industry;2015;6600;0.33;0.03
+282;24 Basic metal industry;2016;6600;0.33;0.03
+283;24 Basic metal industry;2017;7200;0.32;0.03
+284;24 Basic metal industry;2018;6900;0.32;0.03
+285;24 Basic metal industry;2019;6700;0.32;0.03
+286;24 Basic metal industry;2020;6100;0.3;0.02
+287;24 Basic metal industry;2021;6300;0.31;0.03
+288;Other industry;1990;10800;1.29;0.16
+289;Other industry;1991;11100;1.38;0.16
+290;Other industry;1992;11300;1.48;0.16
+291;Other industry;1993;11300;1.53;0.16
+292;Other industry;1994;11100;1.58;0.16
+293;Other industry;1995;10300;1.6;0.16
+294;Other industry;1996;10600;1.77;0.16
+295;Other industry;1997;10400;1.8;0.16
+296;Other industry;1998;10500;1.93;0.16
+297;Other industry;1999;10900;1.97;0.16
+298;Other industry;2000;10700;1.98;0.17
+299;Other industry;2001;10200;1.83;0.16
+300;Other industry;2002;10100;1.73;0.13
+301;Other industry;2003;9700;1.73;0.13
+302;Other industry;2004;9600;1.68;0.13
+303;Other industry;2005;9700;1.7;0.13
+304;Other industry;2006;9200;1.66;0.12
+305;Other industry;2007;9200;1.63;0.14
+306;Other industry;2008;8800;1.7;0.17
+307;Other industry;2009;8100;1.68;0.18
+308;Other industry;2010;8400;1.6;0.16
+309;Other industry;2011;8200;1.57;0.16
+310;Other industry;2012;7900;1.46;0.16
+311;Other industry;2013;7500;1.38;0.16
+312;Other industry;2014;7500;1.41;0.16
+313;Other industry;2015;7600;1.53;0.17
+314;Other industry;2016;7800;1.59;0.17
+315;Other industry;2017;8000;1.56;0.18
+316;Other industry;2018;7800;1.61;0.2
+317;Other industry;2019;7400;1.56;0.19
+318;Other industry;2020;7000;1.53;0.18
+319;Other industry;2021;7300;1.63;0.19
+320;F Construction;1990;500;0.04;0.0
+321;F Construction;1991;600;0.05;0.0
+322;F Construction;1992;500;0.04;0.0
+323;F Construction;1993;600;0.05;0.0
+324;F Construction;1994;800;0.05;0.0
+325;F Construction;1995;700;0.05;0.0
+326;F Construction;1996;700;0.06;0.0
+327;F Construction;1997;600;0.05;0.0
+328;F Construction;1998;700;0.06;0.0
+329;F Construction;1999;700;0.06;0.0
+330;F Construction;2000;700;0.06;0.0
+331;F Construction;2001;800;0.07;0.0
+332;F Construction;2002;800;0.07;0.0
+333;F Construction;2003;900;0.08;0.0
+334;F Construction;2004;800;0.08;0.0
+335;F Construction;2005;800;0.07;0.0
+336;F Construction;2006;800;0.07;0.0
+337;F Construction;2007;800;0.07;0.0
+338;F Construction;2008;800;0.07;0.0
+339;F Construction;2009;700;0.07;0.0
+340;F Construction;2010;800;0.08;0.0
+341;F Construction;2011;700;0.07;0.0
+342;F Construction;2012;800;0.08;0.0
+343;F Construction;2013;700;0.08;0.0
+344;F Construction;2014;600;0.07;0.0
+345;F Construction;2015;600;0.07;0.0
+346;F Construction;2016;600;0.08;0.0
+347;F Construction;2017;600;0.09;0.0
+348;F Construction;2018;600;0.08;0.0
+349;F Construction;2019;600;0.08;0.0
+350;F Construction;2020;500;0.08;0.0
+351;F Construction;2021;500;0.08;0.0
+352;Households in autonomous homes;1990;20900;21.96;0.2
+353;Households in autonomous homes;1991;24000;24.28;0.22
+354;Households in autonomous homes;1992;22000;22.42;0.22
+355;Households in autonomous homes;1993;23200;23.17;0.25
+356;Households in autonomous homes;1994;21700;21.83;0.24
+357;Households in autonomous homes;1995;23500;23.32;0.28
+358;Households in autonomous homes;1996;27300;26.53;0.34
+359;Households in autonomous homes;1997;22900;22.62;0.3
+360;Households in autonomous homes;1998;21800;21.49;0.32
+361;Households in autonomous homes;1999;20700;20.24;0.3
+362;Households in autonomous homes;2000;20700;20.02;0.27
+363;Households in autonomous homes;2001;22000;20.74;0.24
+364;Households in autonomous homes;2002;21200;19.93;0.24
+365;Households in autonomous homes;2003;21700;20.32;0.25
+366;Households in autonomous homes;2004;20700;19.51;0.29
+367;Households in autonomous homes;2005;19900;18.9;0.3
+368;Households in autonomous homes;2006;20100;18.68;0.32
+369;Households in autonomous homes;2007;17900;16.69;0.28
+370;Households in autonomous homes;2008;20300;18.56;0.31
+371;Households in autonomous homes;2009;20100;18.5;0.35
+372;Households in autonomous homes;2010;23400;21.32;0.37
+373;Households in autonomous homes;2011;18300;16.93;0.35
+374;Households in autonomous homes;2012;19500;18.02;0.35
+375;Households in autonomous homes;2013;20700;18.95;0.36
+376;Households in autonomous homes;2014;15500;14.55;0.34
+377;Households in autonomous homes;2015;16500;15.41;0.35
+378;Households in autonomous homes;2016;17200;15.83;0.36
+379;Households in autonomous homes;2017;16700;15.22;0.35
+380;Households in autonomous homes;2018;16600;15.05;0.38
+381;Households in autonomous homes;2019;16000;14.46;0.37
+382;Households in autonomous homes;2020;15300;13.71;0.36
+383;Households in autonomous homes;2021;17400;15.34;0.33
+384;A,E,G-U Other stationary sources;1990;16600;1151.59;35.58
+385;A,E,G-U Other stationary sources;1991;18700;1166.05;36.18
+386;A,E,G-U Other stationary sources;1992;17700;1151.98;36.8
+387;A,E,G-U Other stationary sources;1993;18900;1133.89;35.99
+388;A,E,G-U Other stationary sources;1994;17600;1094.12;34.88
+389;A,E,G-U Other stationary sources;1995;18000;1062.98;35.47
+390;A,E,G-U Other stationary sources;1996;20500;1037.68;35.55
+391;A,E,G-U Other stationary sources;1997;18100;1000.05;34.89
+392;A,E,G-U Other stationary sources;1998;17800;972.02;32.86
+393;A,E,G-U Other stationary sources;1999;17100;929.08;31.79
+394;A,E,G-U Other stationary sources;2000;17400;888.0;29.03
+395;A,E,G-U Other stationary sources;2001;17700;861.77;27.93
+396;A,E,G-U Other stationary sources;2002;17000;817.2;25.79
+397;A,E,G-U Other stationary sources;2003;17800;786.54;25.2
+398;A,E,G-U Other stationary sources;2004;19000;772.87;24.48
+399;A,E,G-U Other stationary sources;2005;18400;712.14;24.15
+400;A,E,G-U Other stationary sources;2006;17800;699.45;24.61
+401;A,E,G-U Other stationary sources;2007;17400;700.82;23.6
+402;A,E,G-U Other stationary sources;2008;18900;706.92;23.15
+403;A,E,G-U Other stationary sources;2009;19400;705.84;22.34
+404;A,E,G-U Other stationary sources;2010;22100;696.22;22.25
+405;A,E,G-U Other stationary sources;2011;19100;677.9;21.54
+406;A,E,G-U Other stationary sources;2012;20100;662.9;20.89
+407;A,E,G-U Other stationary sources;2013;20100;665.13;21.65
+408;A,E,G-U Other stationary sources;2014;17100;653.0;21.92
+409;A,E,G-U Other stationary sources;2015;18000;660.98;22.53
+410;A,E,G-U Other stationary sources;2016;18100;666.98;22.25
+411;A,E,G-U Other stationary sources;2017;18100;657.73;22.79
+412;A,E,G-U Other stationary sources;2018;18000;637.18;22.55
+413;A,E,G-U Other stationary sources;2019;17400;632.68;22.15
+414;A,E,G-U Other stationary sources;2020;16300;622.71;22.19
+415;A,E,G-U Other stationary sources;2021;17100;613.87;21.62
+416;01 Agriculture (stationary sources);1990;8000;583.87;32.11
+417;01 Agriculture (stationary sources);1991;9000;592.95;32.63
+418;01 Agriculture (stationary sources);1992;8700;589.3;33.14
+419;01 Agriculture (stationary sources);1993;9100;585.21;32.27
+420;01 Agriculture (stationary sources);1994;8400;565.64;31.13
+421;01 Agriculture (stationary sources);1995;8400;561.13;31.75
+422;01 Agriculture (stationary sources);1996;9300;550.17;31.81
+423;01 Agriculture (stationary sources);1997;7800;527.15;31.1
+424;01 Agriculture (stationary sources);1998;7800;518.07;29.11
+425;01 Agriculture (stationary sources);1999;7500;511.76;28.15
+426;01 Agriculture (stationary sources);2000;7600;494.09;25.51
+427;01 Agriculture (stationary sources);2001;7400;490.24;24.36
+428;01 Agriculture (stationary sources);2002;7000;464.71;22.32
+429;01 Agriculture (stationary sources);2003;7100;456.06;21.84
+430;01 Agriculture (stationary sources);2004;7300;455.99;21.11
+431;01 Agriculture (stationary sources);2005;7600;455.6;20.76
+432;01 Agriculture (stationary sources);2006;6900;460.84;21.26
+433;01 Agriculture (stationary sources);2007;7400;477.36;20.24
+434;01 Agriculture (stationary sources);2008;8200;496.7;19.77
+435;01 Agriculture (stationary sources);2009;8200;504.51;18.98
+436;01 Agriculture (stationary sources);2010;9700;508.24;18.92
+437;01 Agriculture (stationary sources);2011;8600;501.09;18.14
+438;01 Agriculture (stationary sources);2012;8700;495.49;17.51
+439;01 Agriculture (stationary sources);2013;8400;505.86;18.29
+440;01 Agriculture (stationary sources);2014;7200;503.47;18.55
+441;01 Agriculture (stationary sources);2015;7600;521.86;19.13
+442;01 Agriculture (stationary sources);2016;7500;533.46;18.7
+443;01 Agriculture (stationary sources);2017;7600;532.48;19.28
+444;01 Agriculture (stationary sources);2018;7800;515.76;19.02
+445;01 Agriculture (stationary sources);2019;7800;515.88;18.63
+446;01 Agriculture (stationary sources);2020;7400;512.39;18.68
+447;01 Agriculture (stationary sources);2021;7800;507.54;18.12
+448;Services, waste and water supply;1990;8600;567.72;3.47
+449;Services, waste and water supply;1991;9700;573.1;3.55
+450;Services, waste and water supply;1992;9000;562.68;3.65
+451;Services, waste and water supply;1993;9800;548.68;3.72
+452;Services, waste and water supply;1994;9200;528.47;3.75
+453;Services, waste and water supply;1995;9600;501.85;3.72
+454;Services, waste and water supply;1996;11200;487.5;3.74
+455;Services, waste and water supply;1997;10200;472.89;3.79
+456;Services, waste and water supply;1998;10000;453.95;3.75
+457;Services, waste and water supply;1999;9700;417.31;3.64
+458;Services, waste and water supply;2000;9800;393.91;3.52
+459;Services, waste and water supply;2001;10300;371.53;3.57
+460;Services, waste and water supply;2002;10000;352.5;3.47
+461;Services, waste and water supply;2003;10800;330.48;3.36
+462;Services, waste and water supply;2004;11700;316.88;3.37
+463;Services, waste and water supply;2005;10800;256.54;3.38
+464;Services, waste and water supply;2006;10900;238.61;3.36
+465;Services, waste and water supply;2007;10000;223.46;3.36
+466;Services, waste and water supply;2008;10800;210.22;3.38
+467;Services, waste and water supply;2009;11200;201.32;3.35
+468;Services, waste and water supply;2010;12400;187.98;3.32
+469;Services, waste and water supply;2011;10500;176.81;3.4
+470;Services, waste and water supply;2012;11400;167.41;3.38
+471;Services, waste and water supply;2013;11700;159.27;3.36
+472;Services, waste and water supply;2014;9900;149.53;3.37
+473;Services, waste and water supply;2015;10400;139.12;3.41
+474;Services, waste and water supply;2016;10600;133.52;3.55
+475;Services, waste and water supply;2017;10600;125.25;3.51
+476;Services, waste and water supply;2018;10200;121.42;3.53
+477;Services, waste and water supply;2019;9600;116.8;3.52
+478;Services, waste and water supply;2020;8800;110.32;3.52
+479;Services, waste and water supply;2021;9300;106.33;3.51
+480;"Mobile sources; total";1990;32900;8.53;0.45
+481;"Mobile sources; total";1991;33400;7.46;0.56
+482;"Mobile sources; total";1992;34800;7.05;0.67
+483;"Mobile sources; total";1993;35700;6.75;0.78
+484;"Mobile sources; total";1994;35200;6.32;0.86
+485;"Mobile sources; total";1995;35900;6.2;0.96
+486;"Mobile sources; total";1996;37100;6.06;1.01
+487;"Mobile sources; total";1997;37000;5.6;1.01
+488;"Mobile sources; total";1998;37700;5.29;1.01
+489;"Mobile sources; total";1999;38600;4.97;1.01
+490;"Mobile sources; total";2000;38500;4.49;1.02
+491;"Mobile sources; total";2001;38700;4.37;1.01
+492;"Mobile sources; total";2002;39100;4.24;1.0
+493;"Mobile sources; total";2003;39400;4.1;0.97
+494;"Mobile sources; total";2004;39800;3.88;0.94
+495;"Mobile sources; total";2005;40200;3.79;0.91
+496;"Mobile sources; total";2006;40900;3.75;0.9
+497;"Mobile sources; total";2007;39900;3.71;0.92
+498;"Mobile sources; total";2008;40000;3.68;0.96
+499;"Mobile sources; total";2009;38400;3.51;0.96
+500;"Mobile sources; total";2010;39100;3.42;0.99
+501;"Mobile sources; total";2011;39000;3.34;1.03
+502;"Mobile sources; total";2012;37100;3.13;1.0
+503;"Mobile sources; total";2013;35700;3.03;0.99
+504;"Mobile sources; total";2014;33300;2.89;0.9
+505;"Mobile sources; total";2015;33400;2.84;0.91
+506;"Mobile sources; total";2016;33600;2.8;0.88
+507;"Mobile sources; total";2017;34100;2.91;0.92
+508;"Mobile sources; total";2018;34300;2.83;0.92
+509;"Mobile sources; total";2019;33600;2.87;0.9
+510;"Mobile sources; total";2020;29300;2.54;0.78
+511;"Mobile sources; total";2021;29300;2.63;0.78
+512;Transport;1990;27300;7.74;0.36
+513;Transport;1991;27800;6.68;0.47
+514;Transport;1992;29300;6.3;0.58
+515;Transport;1993;30200;6.03;0.69
+516;Transport;1994;29600;5.61;0.77
+517;Transport;1995;30000;5.48;0.86
+518;Transport;1996;31200;5.36;0.91
+519;Transport;1997;31200;4.91;0.91
+520;Transport;1998;31900;4.61;0.92
+521;Transport;1999;32500;4.27;0.91
+522;Transport;2000;32500;3.82;0.93
+523;Transport;2001;32800;3.73;0.92
+524;Transport;2002;33500;3.65;0.91
+525;Transport;2003;34000;3.57;0.89
+526;Transport;2004;34600;3.39;0.86
+527;Transport;2005;34800;3.3;0.83
+528;Transport;2006;35700;3.3;0.82
+529;Transport;2007;34800;3.29;0.85
+530;Transport;2008;35000;3.28;0.89
+531;Transport;2009;33500;3.14;0.89
+532;Transport;2010;34300;3.06;0.92
+533;Transport;2011;34200;3.0;0.96
+534;Transport;2012;32700;2.82;0.94
+535;Transport;2013;31200;2.71;0.93
+536;Transport;2014;28700;2.59;0.84
+537;Transport;2015;28900;2.54;0.85
+538;Transport;2016;29000;2.52;0.82
+539;Transport;2017;29800;2.66;0.86
+540;Transport;2018;30000;2.59;0.86
+541;Transport;2019;29500;2.64;0.85
+542;Transport;2020;25100;2.32;0.72
+543;Transport;2021;25200;2.41;0.72
+544;Rail transport;1990;100;0.01;0.0
+545;Rail transport;1991;100;0.01;0.0
+546;Rail transport;1992;100;0.01;0.0
+547;Rail transport;1993;100;0.01;0.0
+548;Rail transport;1994;100;0.01;0.0
+549;Rail transport;1995;100;0.01;0.0
+550;Rail transport;1996;100;0.01;0.0
+551;Rail transport;1997;100;0.01;0.0
+552;Rail transport;1998;100;0.01;0.0
+553;Rail transport;1999;100;0.01;0.0
+554;Rail transport;2000;100;0.01;0.0
+555;Rail transport;2001;100;0.01;0.0
+556;Rail transport;2002;100;0.01;0.0
+557;Rail transport;2003;100;0.01;0.0
+558;Rail transport;2004;100;0.01;0.0
+559;Rail transport;2005;100;0.01;0.0
+560;Rail transport;2006;100;0.01;0.0
+561;Rail transport;2007;100;0.01;0.0
+562;Rail transport;2008;100;0.01;0.0
+563;Rail transport;2009;100;0.01;0.0
+564;Rail transport;2010;100;0.01;0.0
+565;Rail transport;2011;100;0.01;0.0
+566;Rail transport;2012;100;0.0;0.0
+567;Rail transport;2013;100;0.01;0.0
+568;Rail transport;2014;100;0.01;0.0
+569;Rail transport;2015;100;0.01;0.0
+570;Rail transport;2016;100;0.01;0.0
+571;Rail transport;2017;100;0.0;0.0
+572;Rail transport;2018;100;0.0;0.0
+573;Rail transport;2019;100;0.0;0.0
+574;Rail transport;2020;100;0.0;0.0
+575;Rail transport;2021;100;0.0;0.0
+576;Road transport;1990;26400;7.64;0.34
+577;Road transport;1991;26800;6.57;0.44
+578;Road transport;1992;28400;6.2;0.56
+579;Road transport;1993;29200;5.92;0.67
+580;Road transport;1994;28700;5.51;0.75
+581;Road transport;1995;29000;5.37;0.84
+582;Road transport;1996;30200;5.25;0.89
+583;Road transport;1997;30300;4.8;0.89
+584;Road transport;1998;31000;4.5;0.89
+585;Road transport;1999;31500;4.15;0.89
+586;Road transport;2000;31500;3.71;0.9
+587;Road transport;2001;31700;3.61;0.9
+588;Road transport;2002;32500;3.52;0.89
+589;Road transport;2003;33100;3.45;0.87
+590;Road transport;2004;33600;3.26;0.84
+591;Road transport;2005;33800;3.17;0.81
+592;Road transport;2006;34600;3.16;0.8
+593;Road transport;2007;33700;3.15;0.82
+594;Road transport;2008;33800;3.14;0.86
+595;Road transport;2009;32300;2.99;0.86
+596;Road transport;2010;32900;2.9;0.89
+597;Road transport;2011;32900;2.84;0.93
+598;Road transport;2012;31500;2.67;0.91
+599;Road transport;2013;29900;2.56;0.9
+600;Road transport;2014;27600;2.45;0.81
+601;Road transport;2015;27700;2.4;0.82
+602;Road transport;2016;27900;2.38;0.79
+603;Road transport;2017;28700;2.52;0.84
+604;Road transport;2018;28900;2.45;0.83
+605;Road transport;2019;28500;2.51;0.82
+606;Road transport;2020;24300;2.21;0.7
+607;Road transport;2021;24400;2.3;0.7
+608;Water transport;1990;700;0.09;0.02
+609;Water transport;1991;800;0.1;0.02
+610;Water transport;1992;800;0.09;0.02
+611;Water transport;1993;800;0.1;0.02
+612;Water transport;1994;800;0.09;0.02
+613;Water transport;1995;800;0.1;0.02
+614;Water transport;1996;800;0.11;0.02
+615;Water transport;1997;800;0.1;0.02
+616;Water transport;1998;800;0.1;0.02
+617;Water transport;1999;800;0.11;0.02
+618;Water transport;2000;800;0.11;0.02
+619;Water transport;2001;800;0.11;0.02
+620;Water transport;2002;900;0.12;0.02
+621;Water transport;2003;800;0.12;0.02
+622;Water transport;2004;800;0.12;0.02
+623;Water transport;2005;900;0.13;0.02
+624;Water transport;2006;1000;0.13;0.02
+625;Water transport;2007;1000;0.14;0.03
+626;Water transport;2008;1000;0.14;0.03
+627;Water transport;2009;1000;0.14;0.03
+628;Water transport;2010;1200;0.15;0.03
+629;Water transport;2011;1200;0.15;0.03
+630;Water transport;2012;1100;0.14;0.03
+631;Water transport;2013;1100;0.15;0.03
+632;Water transport;2014;1000;0.13;0.03
+633;Water transport;2015;1100;0.14;0.03
+634;Water transport;2016;1000;0.14;0.03
+635;Water transport;2017;1000;0.13;0.03
+636;Water transport;2018;1000;0.13;0.03
+637;Water transport;2019;900;0.13;0.02
+638;Water transport;2020;700;0.1;0.02
+639;Water transport;2021;800;0.11;0.02
+640;Air transport;1990;100;0.0;0.0
+641;Air transport;1991;100;0.0;0.0
+642;Air transport;1992;100;0.0;0.0
+643;Air transport;1993;100;0.0;0.0
+644;Air transport;1994;100;0.0;0.0
+645;Air transport;1995;100;0.0;0.0
+646;Air transport;1996;100;0.0;0.0
+647;Air transport;1997;100;0.0;0.0
+648;Air transport;1998;100;0.0;0.0
+649;Air transport;1999;100;0.0;0.0
+650;Air transport;2000;100;0.0;0.0
+651;Air transport;2001;100;0.0;0.0
+652;Air transport;2002;0;0.0;0.0
+653;Air transport;2003;100;0.0;0.0
+654;Air transport;2004;0;0.0;0.0
+655;Air transport;2005;0;0.0;0.0
+656;Air transport;2006;0;0.0;0.0
+657;Air transport;2007;0;0.0;0.0
+658;Air transport;2008;0;0.0;0.0
+659;Air transport;2009;0;0.0;0.0
+660;Air transport;2010;0;0.0;0.0
+661;Air transport;2011;0;0.0;0.0
+662;Air transport;2012;0;0.0;0.0
+663;Air transport;2013;0;0.0;0.0
+664;Air transport;2014;0;0.0;0.0
+665;Air transport;2015;0;0.0;0.0
+666;Air transport;2016;0;0.0;0.0
+667;Air transport;2017;0;0.0;0.0
+668;Air transport;2018;0;0.0;0.0
+669;Air transport;2019;0;0.0;0.0
+670;Air transport;2020;0;0.0;0.0
+671;Air transport;2021;0;0.0;0.0
+672;"Other mobile sources; total";1990;5600;0.78;0.09
+673;"Other mobile sources; total";1991;5600;0.78;0.09
+674;"Other mobile sources; total";1992;5600;0.74;0.09
+675;"Other mobile sources; total";1993;5500;0.72;0.09
+676;"Other mobile sources; total";1994;5600;0.71;0.09
+677;"Other mobile sources; total";1995;5900;0.72;0.1
+678;"Other mobile sources; total";1996;5900;0.7;0.09
+679;"Other mobile sources; total";1997;5800;0.69;0.09
+680;"Other mobile sources; total";1998;5800;0.68;0.09
+681;"Other mobile sources; total";1999;6100;0.7;0.1
+682;"Other mobile sources; total";2000;6000;0.67;0.1
+683;"Other mobile sources; total";2001;6000;0.64;0.09
+684;"Other mobile sources; total";2002;5500;0.6;0.09
+685;"Other mobile sources; total";2003;5400;0.53;0.08
+686;"Other mobile sources; total";2004;5200;0.5;0.08
+687;"Other mobile sources; total";2005;5400;0.48;0.08
+688;"Other mobile sources; total";2006;5200;0.45;0.07
+689;"Other mobile sources; total";2007;5100;0.42;0.07
+690;"Other mobile sources; total";2008;5000;0.4;0.07
+691;"Other mobile sources; total";2009;4900;0.38;0.07
+692;"Other mobile sources; total";2010;4800;0.37;0.07
+693;"Other mobile sources; total";2011;4800;0.34;0.06
+694;"Other mobile sources; total";2012;4400;0.31;0.06
+695;"Other mobile sources; total";2013;4500;0.31;0.06
+696;"Other mobile sources; total";2014;4600;0.31;0.06
+697;"Other mobile sources; total";2015;4500;0.29;0.06
+698;"Other mobile sources; total";2016;4500;0.28;0.06
+699;"Other mobile sources; total";2017;4200;0.25;0.05
+700;"Other mobile sources; total";2018;4300;0.24;0.06
+701;"Other mobile sources; total";2019;4100;0.23;0.05
+702;"Other mobile sources; total";2020;4200;0.23;0.06
+703;"Other mobile sources; total";2021;4100;0.22;0.05
+704;Agriculture (mobile sources);1990;1100;0.2;0.01
+705;Agriculture (mobile sources);1991;1100;0.19;0.01
+706;Agriculture (mobile sources);1992;1100;0.18;0.01
+707;Agriculture (mobile sources);1993;1100;0.18;0.01
+708;Agriculture (mobile sources);1994;1100;0.17;0.01
+709;Agriculture (mobile sources);1995;1100;0.18;0.01
+710;Agriculture (mobile sources);1996;1000;0.17;0.01
+711;Agriculture (mobile sources);1997;1000;0.17;0.01
+712;Agriculture (mobile sources);1998;1000;0.16;0.01
+713;Agriculture (mobile sources);1999;1100;0.17;0.01
+714;Agriculture (mobile sources);2000;1100;0.17;0.01
+715;Agriculture (mobile sources);2001;1100;0.17;0.01
+716;Agriculture (mobile sources);2002;1100;0.16;0.01
+717;Agriculture (mobile sources);2003;1100;0.12;0.01
+718;Agriculture (mobile sources);2004;1000;0.11;0.01
+719;Agriculture (mobile sources);2005;1100;0.11;0.01
+720;Agriculture (mobile sources);2006;1100;0.1;0.01
+721;Agriculture (mobile sources);2007;1100;0.1;0.01
+722;Agriculture (mobile sources);2008;1100;0.09;0.01
+723;Agriculture (mobile sources);2009;1000;0.09;0.01
+724;Agriculture (mobile sources);2010;1100;0.09;0.01
+725;Agriculture (mobile sources);2011;1100;0.09;0.01
+726;Agriculture (mobile sources);2012;1100;0.08;0.01
+727;Agriculture (mobile sources);2013;1200;0.08;0.01
+728;Agriculture (mobile sources);2014;1300;0.08;0.01
+729;Agriculture (mobile sources);2015;1300;0.08;0.01
+730;Agriculture (mobile sources);2016;1200;0.07;0.01
+731;Agriculture (mobile sources);2017;1200;0.07;0.01
+732;Agriculture (mobile sources);2018;1300;0.07;0.01
+733;Agriculture (mobile sources);2019;1200;0.06;0.01
+734;Agriculture (mobile sources);2020;1300;0.06;0.01
+735;Agriculture (mobile sources);2021;1300;0.06;0.01
+736;Fishing;1990;1200;0.11;0.03
+737;Fishing;1991;1200;0.11;0.03
+738;Fishing;1992;1100;0.1;0.03
+739;Fishing;1993;1100;0.11;0.03
+740;Fishing;1994;1200;0.11;0.03
+741;Fishing;1995;1300;0.12;0.04
+742;Fishing;1996;1300;0.12;0.03
+743;Fishing;1997;1300;0.12;0.04
+744;Fishing;1998;1300;0.12;0.04
+745;Fishing;1999;1300;0.13;0.04
+746;Fishing;2000;1300;0.12;0.04
+747;Fishing;2001;1300;0.12;0.03
+748;Fishing;2002;1100;0.1;0.03
+749;Fishing;2003;1000;0.09;0.03
+750;Fishing;2004;900;0.09;0.03
+751;Fishing;2005;900;0.09;0.02
+752;Fishing;2006;900;0.08;0.02
+753;Fishing;2007;700;0.07;0.02
+754;Fishing;2008;700;0.06;0.02
+755;Fishing;2009;600;0.06;0.02
+756;Fishing;2010;700;0.06;0.02
+757;Fishing;2011;500;0.05;0.02
+758;Fishing;2012;400;0.04;0.01
+759;Fishing;2013;500;0.05;0.01
+760;Fishing;2014;500;0.05;0.01
+761;Fishing;2015;600;0.05;0.02
+762;Fishing;2016;600;0.05;0.02
+763;Fishing;2017;500;0.05;0.01
+764;Fishing;2018;500;0.04;0.01
+765;Fishing;2019;500;0.05;0.01
+766;Fishing;2020;500;0.05;0.01
+767;Fishing;2021;400;0.04;0.01
+768;Defence-activities;1990;300;0.03;0.02
+769;Defence-activities;1991;300;0.03;0.02
+770;Defence-activities;1992;300;0.03;0.02
+771;Defence-activities;1993;300;0.03;0.02
+772;Defence-activities;1994;300;0.03;0.02
+773;Defence-activities;1995;300;0.03;0.02
+774;Defence-activities;1996;300;0.03;0.02
+775;Defence-activities;1997;200;0.03;0.02
+776;Defence-activities;1998;200;0.03;0.02
+777;Defence-activities;1999;300;0.04;0.02
+778;Defence-activities;2000;300;0.03;0.02
+779;Defence-activities;2001;200;0.02;0.01
+780;Defence-activities;2002;200;0.03;0.02
+781;Defence-activities;2003;200;0.02;0.01
+782;Defence-activities;2004;200;0.02;0.01
+783;Defence-activities;2005;200;0.02;0.01
+784;Defence-activities;2006;200;0.02;0.01
+785;Defence-activities;2007;200;0.02;0.01
+786;Defence-activities;2008;200;0.02;0.01
+787;Defence-activities;2009;200;0.02;0.01
+788;Defence-activities;2010;300;0.02;0.01
+789;Defence-activities;2011;200;0.02;0.01
+790;Defence-activities;2012;200;0.01;0.01
+791;Defence-activities;2013;200;0.02;0.01
+792;Defence-activities;2014;200;0.02;0.01
+793;Defence-activities;2015;200;0.01;0.01
+794;Defence-activities;2016;200;0.01;0.01
+795;Defence-activities;2017;100;0.01;0.01
+796;Defence-activities;2018;200;0.01;0.01
+797;Defence-activities;2019;200;0.01;0.01
+798;Defence-activities;2020;200;0.01;0.01
+799;Defence-activities;2021;200;0.01;0.01
+800;Other sectors (mobile sources);1990;3000;0.44;0.03
+801;Other sectors (mobile sources);1991;3100;0.45;0.03
+802;Other sectors (mobile sources);1992;3100;0.43;0.03
+803;Other sectors (mobile sources);1993;3000;0.41;0.03
+804;Other sectors (mobile sources);1994;3100;0.4;0.03
+805;Other sectors (mobile sources);1995;3100;0.39;0.03
+806;Other sectors (mobile sources);1996;3300;0.39;0.03
+807;Other sectors (mobile sources);1997;3200;0.37;0.03
+808;Other sectors (mobile sources);1998;3200;0.36;0.03
+809;Other sectors (mobile sources);1999;3400;0.37;0.03
+810;Other sectors (mobile sources);2000;3300;0.35;0.03
+811;Other sectors (mobile sources);2001;3300;0.33;0.03
+812;Other sectors (mobile sources);2002;3200;0.31;0.03
+813;Other sectors (mobile sources);2003;3100;0.29;0.03
+814;Other sectors (mobile sources);2004;3100;0.28;0.03
+815;Other sectors (mobile sources);2005;3200;0.27;0.03
+816;Other sectors (mobile sources);2006;3100;0.25;0.03
+817;Other sectors (mobile sources);2007;3100;0.23;0.03
+818;Other sectors (mobile sources);2008;3100;0.22;0.03
+819;Other sectors (mobile sources);2009;3000;0.21;0.03
+820;Other sectors (mobile sources);2010;2800;0.19;0.03
+821;Other sectors (mobile sources);2011;2900;0.19;0.03
+822;Other sectors (mobile sources);2012;2600;0.18;0.03
+823;Other sectors (mobile sources);2013;2600;0.17;0.03
+824;Other sectors (mobile sources);2014;2600;0.16;0.03
+825;Other sectors (mobile sources);2015;2500;0.15;0.02
+826;Other sectors (mobile sources);2016;2600;0.14;0.03
+827;Other sectors (mobile sources);2017;2400;0.13;0.02
+828;Other sectors (mobile sources);2018;2400;0.12;0.02
+829;Other sectors (mobile sources);2019;2200;0.11;0.02
+830;Other sectors (mobile sources);2020;2300;0.11;0.02
+831;Other sectors (mobile sources);2021;2200;0.1;0.02

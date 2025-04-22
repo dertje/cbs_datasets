@@ -1,0 +1,181 @@
+﻿ID;BurgerlijkeStaat;Geslacht;Privevermogen;TotaalPrivevermogenEuroS_1;TotaalPrivevermogenAantallen_2
+0;Totaal burgerlijke staat;Mannen en vrouwen;Totaal privévermogen;9640937;113350
+1;Totaal burgerlijke staat;Mannen en vrouwen;Negatief of nul euro;-52755;1220
+2;Totaal burgerlijke staat;Mannen en vrouwen;> 0 tot 5 000 euro;52668;23510
+3;Totaal burgerlijke staat;Mannen en vrouwen;5 000 tot 10 000 euro;104829;14240
+4;Totaal burgerlijke staat;Mannen en vrouwen;10 000 tot 25 000 euro;387217;23850
+5;Totaal burgerlijke staat;Mannen en vrouwen;25 000 tot 50 000 euro;420463;11910
+6;Totaal burgerlijke staat;Mannen en vrouwen;50 000 tot 100 000 euro;884090;12030
+7;Totaal burgerlijke staat;Mannen en vrouwen;100 000 tot 200 000 euro;1968547;13750
+8;Totaal burgerlijke staat;Mannen en vrouwen;200 000 tot 500 000 euro;3029565;10160
+9;Totaal burgerlijke staat;Mannen en vrouwen;500 000 euro en meer;2846312;2680
+10;Totaal burgerlijke staat;Mannen;Totaal privévermogen;5010401;55780
+11;Totaal burgerlijke staat;Mannen;Negatief of nul euro;-35668;780
+12;Totaal burgerlijke staat;Mannen;> 0 tot 5 000 euro;23850;11090
+13;Totaal burgerlijke staat;Mannen;5 000 tot 10 000 euro;46043;6250
+14;Totaal burgerlijke staat;Mannen;10 000 tot 25 000 euro;172851;10630
+15;Totaal burgerlijke staat;Mannen;25 000 tot 50 000 euro;204293;5730
+16;Totaal burgerlijke staat;Mannen;50 000 tot 100 000 euro;499592;6750
+17;Totaal burgerlijke staat;Mannen;100 000 tot 200 000 euro;1131084;7940
+18;Totaal burgerlijke staat;Mannen;200 000 tot 500 000 euro;1574045;5330
+19;Totaal burgerlijke staat;Mannen;500 000 euro en meer;1394310;1290
+20;Totaal burgerlijke staat;Vrouwen;Totaal privévermogen;4630535;57570
+21;Totaal burgerlijke staat;Vrouwen;Negatief of nul euro;-17087;440
+22;Totaal burgerlijke staat;Vrouwen;> 0 tot 5 000 euro;28818;12420
+23;Totaal burgerlijke staat;Vrouwen;5 000 tot 10 000 euro;58785;7990
+24;Totaal burgerlijke staat;Vrouwen;10 000 tot 25 000 euro;214366;13220
+25;Totaal burgerlijke staat;Vrouwen;25 000 tot 50 000 euro;216170;6190
+26;Totaal burgerlijke staat;Vrouwen;50 000 tot 100 000 euro;384498;5280
+27;Totaal burgerlijke staat;Vrouwen;100 000 tot 200 000 euro;837463;5820
+28;Totaal burgerlijke staat;Vrouwen;200 000 tot 500 000 euro;1455519;4830
+29;Totaal burgerlijke staat;Vrouwen;500 000 euro en meer;1452003;1390
+30;Ongehuwd;Mannen en vrouwen;Totaal privévermogen;1241403;10300
+31;Ongehuwd;Mannen en vrouwen;Negatief of nul euro;-7918;130
+32;Ongehuwd;Mannen en vrouwen;> 0 tot 5 000 euro;4613;2290
+33;Ongehuwd;Mannen en vrouwen;5 000 tot 10 000 euro;7614;1050
+34;Ongehuwd;Mannen en vrouwen;10 000 tot 25 000 euro;28146;1710
+35;Ongehuwd;Mannen en vrouwen;25 000 tot 50 000 euro;41764;1180
+36;Ongehuwd;Mannen en vrouwen;50 000 tot 100 000 euro;75366;1040
+37;Ongehuwd;Mannen en vrouwen;100 000 tot 200 000 euro;169969;1160
+38;Ongehuwd;Mannen en vrouwen;200 000 tot 500 000 euro;402042;1310
+39;Ongehuwd;Mannen en vrouwen;500 000 euro en meer;519806;440
+40;Ongehuwd;Mannen;Totaal privévermogen;605981;5280
+41;Ongehuwd;Mannen;Negatief of nul euro;-6440;100
+42;Ongehuwd;Mannen;> 0 tot 5 000 euro;2633;1350
+43;Ongehuwd;Mannen;5 000 tot 10 000 euro;3840;540
+44;Ongehuwd;Mannen;10 000 tot 25 000 euro;13345;830
+45;Ongehuwd;Mannen;25 000 tot 50 000 euro;19063;540
+46;Ongehuwd;Mannen;50 000 tot 100 000 euro;35947;500
+47;Ongehuwd;Mannen;100 000 tot 200 000 euro;84347;580
+48;Ongehuwd;Mannen;200 000 tot 500 000 euro;195671;640
+49;Ongehuwd;Mannen;500 000 euro en meer;257575;220
+50;Ongehuwd;Vrouwen;Totaal privévermogen;635422;5020
+51;Ongehuwd;Vrouwen;Negatief of nul euro;-1478;30
+52;Ongehuwd;Vrouwen;> 0 tot 5 000 euro;1980;940
+53;Ongehuwd;Vrouwen;5 000 tot 10 000 euro;3774;520
+54;Ongehuwd;Vrouwen;10 000 tot 25 000 euro;14801;880
+55;Ongehuwd;Vrouwen;25 000 tot 50 000 euro;22701;640
+56;Ongehuwd;Vrouwen;50 000 tot 100 000 euro;39419;550
+57;Ongehuwd;Vrouwen;100 000 tot 200 000 euro;85622;580
+58;Ongehuwd;Vrouwen;200 000 tot 500 000 euro;206371;670
+59;Ongehuwd;Vrouwen;500 000 euro en meer;262231;220
+60;Gehuwd (w.o. gescheiden tafel en bed);Mannen en vrouwen;Totaal privévermogen;4150352;50110
+61;Gehuwd (w.o. gescheiden tafel en bed);Mannen en vrouwen;Negatief of nul euro;-31344;860
+62;Gehuwd (w.o. gescheiden tafel en bed);Mannen en vrouwen;> 0 tot 5 000 euro;20027;9290
+63;Gehuwd (w.o. gescheiden tafel en bed);Mannen en vrouwen;5 000 tot 10 000 euro;40561;5490
+64;Gehuwd (w.o. gescheiden tafel en bed);Mannen en vrouwen;10 000 tot 25 000 euro;147077;9100
+65;Gehuwd (w.o. gescheiden tafel en bed);Mannen en vrouwen;25 000 tot 50 000 euro;176266;4890
+66;Gehuwd (w.o. gescheiden tafel en bed);Mannen en vrouwen;50 000 tot 100 000 euro;531374;7110
+67;Gehuwd (w.o. gescheiden tafel en bed);Mannen en vrouwen;100 000 tot 200 000 euro;1185801;8400
+68;Gehuwd (w.o. gescheiden tafel en bed);Mannen en vrouwen;200 000 tot 500 000 euro;1185715;4160
+69;Gehuwd (w.o. gescheiden tafel en bed);Mannen en vrouwen;500 000 euro en meer;894875;820
+70;Gehuwd (w.o. gescheiden tafel en bed);Mannen;Totaal privévermogen;2943539;34540
+71;Gehuwd (w.o. gescheiden tafel en bed);Mannen;Negatief of nul euro;-18944;540
+72;Gehuwd (w.o. gescheiden tafel en bed);Mannen;> 0 tot 5 000 euro;13642;6330
+73;Gehuwd (w.o. gescheiden tafel en bed);Mannen;5 000 tot 10 000 euro;28230;3820
+74;Gehuwd (w.o. gescheiden tafel en bed);Mannen;10 000 tot 25 000 euro;102177;6330
+75;Gehuwd (w.o. gescheiden tafel en bed);Mannen;25 000 tot 50 000 euro;119827;3330
+76;Gehuwd (w.o. gescheiden tafel en bed);Mannen;50 000 tot 100 000 euro;362145;4840
+77;Gehuwd (w.o. gescheiden tafel en bed);Mannen;100 000 tot 200 000 euro;818391;5800
+78;Gehuwd (w.o. gescheiden tafel en bed);Mannen;200 000 tot 500 000 euro;843143;2960
+79;Gehuwd (w.o. gescheiden tafel en bed);Mannen;500 000 euro en meer;674928;600
+80;Gehuwd (w.o. gescheiden tafel en bed);Vrouwen;Totaal privévermogen;1206813;15570
+81;Gehuwd (w.o. gescheiden tafel en bed);Vrouwen;Negatief of nul euro;-12400;310
+82;Gehuwd (w.o. gescheiden tafel en bed);Vrouwen;> 0 tot 5 000 euro;6385;2960
+83;Gehuwd (w.o. gescheiden tafel en bed);Vrouwen;5 000 tot 10 000 euro;12331;1670
+84;Gehuwd (w.o. gescheiden tafel en bed);Vrouwen;10 000 tot 25 000 euro;44900;2770
+85;Gehuwd (w.o. gescheiden tafel en bed);Vrouwen;25 000 tot 50 000 euro;56439;1560
+86;Gehuwd (w.o. gescheiden tafel en bed);Vrouwen;50 000 tot 100 000 euro;169229;2270
+87;Gehuwd (w.o. gescheiden tafel en bed);Vrouwen;100 000 tot 200 000 euro;367411;2600
+88;Gehuwd (w.o. gescheiden tafel en bed);Vrouwen;200 000 tot 500 000 euro;342572;1200
+89;Gehuwd (w.o. gescheiden tafel en bed);Vrouwen;500 000 euro en meer;219946;230
+90;Verweduwd;Mannen en vrouwen;Totaal privévermogen;3772427;44830
+91;Verweduwd;Mannen en vrouwen;Negatief of nul euro;-5286;100
+92;Verweduwd;Mannen en vrouwen;> 0 tot 5 000 euro;21419;8710
+93;Verweduwd;Mannen en vrouwen;5 000 tot 10 000 euro;48625;6590
+94;Verweduwd;Mannen en vrouwen;10 000 tot 25 000 euro;190855;11710
+95;Verweduwd;Mannen en vrouwen;25 000 tot 50 000 euro;181021;5250
+96;Verweduwd;Mannen en vrouwen;50 000 tot 100 000 euro;237352;3320
+97;Verweduwd;Mannen en vrouwen;100 000 tot 200 000 euro;530648;3620
+98;Verweduwd;Mannen en vrouwen;200 000 tot 500 000 euro;1302874;4250
+99;Verweduwd;Mannen en vrouwen;500 000 euro en meer;1264918;1280
+100;Verweduwd;Mannen;Totaal privévermogen;1228903;11890
+101;Verweduwd;Mannen;Negatief of nul euro;-2983;40
+102;Verweduwd;Mannen;> 0 tot 5 000 euro;4645;1920
+103;Verweduwd;Mannen;5 000 tot 10 000 euro;10613;1430
+104;Verweduwd;Mannen;10 000 tot 25 000 euro;46965;2820
+105;Verweduwd;Mannen;25 000 tot 50 000 euro;52961;1520
+106;Verweduwd;Mannen;50 000 tot 100 000 euro;76984;1070
+107;Verweduwd;Mannen;100 000 tot 200 000 euro;178186;1210
+108;Verweduwd;Mannen;200 000 tot 500 000 euro;455731;1470
+109;Verweduwd;Mannen;500 000 euro en meer;405803;410
+110;Verweduwd;Vrouwen;Totaal privévermogen;2543524;32930
+111;Verweduwd;Vrouwen;Negatief of nul euro;-2303;60
+112;Verweduwd;Vrouwen;> 0 tot 5 000 euro;16774;6790
+113;Verweduwd;Vrouwen;5 000 tot 10 000 euro;38013;5160
+114;Verweduwd;Vrouwen;10 000 tot 25 000 euro;143891;8900
+115;Verweduwd;Vrouwen;25 000 tot 50 000 euro;128060;3730
+116;Verweduwd;Vrouwen;50 000 tot 100 000 euro;160369;2250
+117;Verweduwd;Vrouwen;100 000 tot 200 000 euro;352462;2410
+118;Verweduwd;Vrouwen;200 000 tot 500 000 euro;847143;2770
+119;Verweduwd;Vrouwen;500 000 euro en meer;859115;870
+120;Gescheiden;Mannen en vrouwen;Totaal privévermogen;450259;7920
+121;Gescheiden;Mannen en vrouwen;Negatief of nul euro;-6884;120
+122;Gescheiden;Mannen en vrouwen;> 0 tot 5 000 euro;6550;3200
+123;Gescheiden;Mannen en vrouwen;5 000 tot 10 000 euro;7910;1100
+124;Gescheiden;Mannen en vrouwen;10 000 tot 25 000 euro;20781;1300
+125;Gescheiden;Mannen en vrouwen;25 000 tot 50 000 euro;20748;580
+126;Gescheiden;Mannen en vrouwen;50 000 tot 100 000 euro;37586;520
+127;Gescheiden;Mannen en vrouwen;100 000 tot 200 000 euro;78750;550
+128;Gescheiden;Mannen en vrouwen;200 000 tot 500 000 euro;129358;420
+129;Gescheiden;Mannen en vrouwen;500 000 euro en meer;155461;130
+130;Gescheiden;Mannen;Totaal privévermogen;214184;3930
+131;Gescheiden;Mannen;Negatief of nul euro;-6046;90
+132;Gescheiden;Mannen;> 0 tot 5 000 euro;2892;1480
+133;Gescheiden;Mannen;5 000 tot 10 000 euro;3256;450
+134;Gescheiden;Mannen;10 000 tot 25 000 euro;10154;640
+135;Gescheiden;Mannen;25 000 tot 50 000 euro;11885;330
+136;Gescheiden;Mannen;50 000 tot 100 000 euro;22793;320
+137;Gescheiden;Mannen;100 000 tot 200 000 euro;47633;330
+138;Gescheiden;Mannen;200 000 tot 500 000 euro;72540;240
+139;Gescheiden;Mannen;500 000 euro en meer;49077;60
+140;Gescheiden;Vrouwen;Totaal privévermogen;236075;3990
+141;Gescheiden;Vrouwen;Negatief of nul euro;-838;30
+142;Gescheiden;Vrouwen;> 0 tot 5 000 euro;3658;1730
+143;Gescheiden;Vrouwen;5 000 tot 10 000 euro;4654;650
+144;Gescheiden;Vrouwen;10 000 tot 25 000 euro;10626;660
+145;Gescheiden;Vrouwen;25 000 tot 50 000 euro;8863;250
+146;Gescheiden;Vrouwen;50 000 tot 100 000 euro;14793;210
+147;Gescheiden;Vrouwen;100 000 tot 200 000 euro;31117;220
+148;Gescheiden;Vrouwen;200 000 tot 500 000 euro;56818;190
+149;Gescheiden;Vrouwen;500 000 euro en meer;106385;70
+150;Partnerschap;Mannen en vrouwen;Totaal privévermogen;26494;180
+151;Partnerschap;Mannen en vrouwen;Negatief of nul euro;-1323;10
+152;Partnerschap;Mannen en vrouwen;> 0 tot 5 000 euro;59;20
+153;Partnerschap;Mannen en vrouwen;5 000 tot 10 000 euro;117;20
+154;Partnerschap;Mannen en vrouwen;10 000 tot 25 000 euro;359;20
+155;Partnerschap;Mannen en vrouwen;25 000 tot 50 000 euro;663;20
+156;Partnerschap;Mannen en vrouwen;50 000 tot 100 000 euro;2412;30
+157;Partnerschap;Mannen en vrouwen;100 000 tot 200 000 euro;3379;30
+158;Partnerschap;Mannen en vrouwen;200 000 tot 500 000 euro;9576;30
+159;Partnerschap;Mannen en vrouwen;500 000 euro en meer;11253;10
+160;Partnerschap;Mannen;Totaal privévermogen;17793;130
+161;Partnerschap;Mannen;Negatief of nul euro;-1255;10
+162;Partnerschap;Mannen;> 0 tot 5 000 euro;37;10
+163;Partnerschap;Mannen;5 000 tot 10 000 euro;104;20
+164;Partnerschap;Mannen;10 000 tot 25 000 euro;211;10
+165;Partnerschap;Mannen;25 000 tot 50 000 euro;556;10
+166;Partnerschap;Mannen;50 000 tot 100 000 euro;1723;20
+167;Partnerschap;Mannen;100 000 tot 200 000 euro;2528;20
+168;Partnerschap;Mannen;200 000 tot 500 000 euro;6961;20
+169;Partnerschap;Mannen;500 000 euro en meer;6927;10
+170;Partnerschap;Vrouwen;Totaal privévermogen;8701;50
+171;Partnerschap;Vrouwen;Negatief of nul euro;-69;0
+172;Partnerschap;Vrouwen;> 0 tot 5 000 euro;21;10
+173;Partnerschap;Vrouwen;5 000 tot 10 000 euro;13;0
+174;Partnerschap;Vrouwen;10 000 tot 25 000 euro;148;10
+175;Partnerschap;Vrouwen;25 000 tot 50 000 euro;107;0
+176;Partnerschap;Vrouwen;50 000 tot 100 000 euro;689;10
+177;Partnerschap;Vrouwen;100 000 tot 200 000 euro;850;10
+178;Partnerschap;Vrouwen;200 000 tot 500 000 euro;2615;10
+179;Partnerschap;Vrouwen;500 000 euro en meer;4326;0

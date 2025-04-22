@@ -1,0 +1,3977 @@
+﻿ID;RegioS;SociaalEconomischeCategorie;AantalPersonenMet52WekenInkomen_1;GemiddeldBesteedbaarInkomen_2
+0;Nederland;Totaal sociaal-economische categorie;10773.4;17.7
+1;Nederland;Totaal actief;6710.7;19.8
+2;Nederland;Werknemer;5966.7;20.2
+3;Nederland;Zelfstandige;731.8;16.3
+4;Nederland;Totaal niet-actief;4061.0;14.4
+5;Nederland;Werkloosheids- en bijstandsuitk.ontv.;461.4;12.0
+6;Nederland;Pensioenontvanger;2595.1;16.4
+7;Noord-Nederland (LD);Totaal sociaal-economische categorie;1125.9;16.3
+8;Noord-Nederland (LD);Totaal actief;670.1;18.1
+9;Noord-Nederland (LD);Werknemer;583.9;18.6
+10;Noord-Nederland (LD);Zelfstandige;84.6;15.0
+11;Noord-Nederland (LD);Totaal niet-actief;455.6;13.7
+12;Noord-Nederland (LD);Werkloosheids- en bijstandsuitk.ontv.;53.3;11.9
+13;Noord-Nederland (LD);Pensioenontvanger;291.8;15.4
+14;Oost-Nederland (LD);Totaal sociaal-economische categorie;2255.4;17.1
+15;Oost-Nederland (LD);Totaal actief;1426.4;18.9
+16;Oost-Nederland (LD);Werknemer;1266.2;19.3
+17;Oost-Nederland (LD);Zelfstandige;157.3;15.7
+18;Oost-Nederland (LD);Totaal niet-actief;828.7;14.0
+19;Oost-Nederland (LD);Werkloosheids- en bijstandsuitk.ontv.;84.8;11.8
+20;Oost-Nederland (LD);Pensioenontvanger;532.3;16.0
+21;West-Nederland (LD);Totaal sociaal-economische categorie;5010.8;18.5
+22;West-Nederland (LD);Totaal actief;3145.7;20.8
+23;West-Nederland (LD);Werknemer;2809.0;21.2
+24;West-Nederland (LD);Zelfstandige;331.7;17.1
+25;West-Nederland (LD);Totaal niet-actief;1864.3;14.8
+26;West-Nederland (LD);Werkloosheids- en bijstandsuitk.ontv.;231.4;12.1
+27;West-Nederland (LD);Pensioenontvanger;1184.7;17.0
+28;Zuid-Nederland (LD);Totaal sociaal-economische categorie;2381.3;17.2
+29;Zuid-Nederland (LD);Totaal actief;1468.5;19.2
+30;Zuid-Nederland (LD);Werknemer;1307.5;19.6
+31;Zuid-Nederland (LD);Zelfstandige;158.1;15.9
+32;Zuid-Nederland (LD);Totaal niet-actief;912.5;14.1
+33;Zuid-Nederland (LD);Werkloosheids- en bijstandsuitk.ontv.;91.9;12.1
+34;Zuid-Nederland (LD);Pensioenontvanger;586.3;15.9
+35;Groningen (PV);Totaal sociaal-economische categorie;380.6;16.2
+36;Groningen (PV);Totaal actief;219.7;18.4
+37;Groningen (PV);Werknemer;194.4;18.9
+38;Groningen (PV);Zelfstandige;24.8;15.0
+39;Groningen (PV);Totaal niet-actief;160.8;13.2
+40;Groningen (PV);Werkloosheids- en bijstandsuitk.ontv.;21.9;11.6
+41;Groningen (PV);Pensioenontvanger;94.6;15.1
+42;Friesland (PV);Totaal sociaal-economische categorie;420.8;16.2
+43;Friesland (PV);Totaal actief;255.9;17.8
+44;Friesland (PV);Werknemer;218.8;18.2
+45;Friesland (PV);Zelfstandige;36.4;15.1
+46;Friesland (PV);Totaal niet-actief;164.9;13.8
+47;Friesland (PV);Werkloosheids- en bijstandsuitk.ontv.;18.5;12.0
+48;Friesland (PV);Pensioenontvanger;108.7;15.4
+49;Drenthe (PV);Totaal sociaal-economische categorie;324.5;16.7
+50;Drenthe (PV);Totaal actief;194.5;18.3
+51;Drenthe (PV);Werknemer;170.7;18.8
+52;Drenthe (PV);Zelfstandige;23.3;14.9
+53;Drenthe (PV);Totaal niet-actief;129.9;14.2
+54;Drenthe (PV);Werkloosheids- en bijstandsuitk.ontv.;12.9;12.1
+55;Drenthe (PV);Pensioenontvanger;88.4;15.8
+56;Overijssel (PV);Totaal sociaal-economische categorie;726.0;16.6
+57;Overijssel (PV);Totaal actief;450.1;18.4
+58;Overijssel (PV);Werknemer;399.4;18.8
+59;Overijssel (PV);Zelfstandige;49.8;15.6
+60;Overijssel (PV);Totaal niet-actief;275.8;13.7
+61;Overijssel (PV);Werkloosheids- en bijstandsuitk.ontv.;28.3;11.7
+62;Overijssel (PV);Pensioenontvanger;176.6;15.5
+63;Flevoland (PV);Totaal sociaal-economische categorie;225.1;17.2
+64;Flevoland (PV);Totaal actief;156.2;18.9
+65;Flevoland (PV);Werknemer;140.0;19.5
+66;Flevoland (PV);Zelfstandige;16.0;14.5
+67;Flevoland (PV);Totaal niet-actief;68.9;13.4
+68;Flevoland (PV);Werkloosheids- en bijstandsuitk.ontv.;10.1;11.8
+69;Flevoland (PV);Pensioenontvanger;37.8;15.5
+70;Gelderland (PV);Totaal sociaal-economische categorie;1304.2;17.3
+71;Gelderland (PV);Totaal actief;820.1;19.1
+72;Gelderland (PV);Werknemer;726.8;19.5
+73;Gelderland (PV);Zelfstandige;91.6;16.0
+74;Gelderland (PV);Totaal niet-actief;484.0;14.3
+75;Gelderland (PV);Werkloosheids- en bijstandsuitk.ontv.;46.5;11.9
+76;Gelderland (PV);Pensioenontvanger;317.9;16.3
+77;Utrecht (PV);Totaal sociaal-economische categorie;772.4;19.1
+78;Utrecht (PV);Totaal actief;501.4;21.3
+79;Utrecht (PV);Werknemer;451.3;21.7
+80;Utrecht (PV);Zelfstandige;49.4;18.1
+81;Utrecht (PV);Totaal niet-actief;270.9;15.1
+82;Utrecht (PV);Werkloosheids- en bijstandsuitk.ontv.;26.2;12.3
+83;Utrecht (PV);Pensioenontvanger;168.6;17.8
+84;Noord-Holland (PV);Totaal sociaal-economische categorie;1728.8;18.7
+85;Noord-Holland (PV);Totaal actief;1079.8;21.1
+86;Noord-Holland (PV);Werknemer;950.0;21.6
+87;Noord-Holland (PV);Zelfstandige;128.1;16.8
+88;Noord-Holland (PV);Totaal niet-actief;648.7;14.9
+89;Noord-Holland (PV);Werkloosheids- en bijstandsuitk.ontv.;80.0;12.2
+90;Noord-Holland (PV);Pensioenontvanger;400.1;17.2
+91;Zuid-Holland (PV);Totaal sociaal-economische categorie;2258.1;18.3
+92;Zuid-Holland (PV);Totaal actief;1410.7;20.5
+93;Zuid-Holland (PV);Werknemer;1275.2;20.9
+94;Zuid-Holland (PV);Zelfstandige;133.6;17.2
+95;Zuid-Holland (PV);Totaal niet-actief;846.9;14.6
+96;Zuid-Holland (PV);Werkloosheids- en bijstandsuitk.ontv.;117.8;12.0
+97;Zuid-Holland (PV);Pensioenontvanger;543.6;16.7
+98;Zeeland (PV);Totaal sociaal-economische categorie;251.6;17.3
+99;Zeeland (PV);Totaal actief;153.7;19.0
+100;Zeeland (PV);Werknemer;132.6;19.3
+101;Zeeland (PV);Zelfstandige;20.7;16.8
+102;Zeeland (PV);Totaal niet-actief;97.8;14.7
+103;Zeeland (PV);Werkloosheids- en bijstandsuitk.ontv.;7.4;12.4
+104;Zeeland (PV);Pensioenontvanger;72.5;16.0
+105;Noord-Brabant (PV);Totaal sociaal-economische categorie;1616.6;17.5
+106;Noord-Brabant (PV);Totaal actief;1023.2;19.4
+107;Noord-Brabant (PV);Werknemer;909.0;19.8
+108;Noord-Brabant (PV);Zelfstandige;112.4;16.2
+109;Noord-Brabant (PV);Totaal niet-actief;593.2;14.2
+110;Noord-Brabant (PV);Werkloosheids- en bijstandsuitk.ontv.;57.2;12.2
+111;Noord-Brabant (PV);Pensioenontvanger;382.9;16.1
+112;Limburg (PV);Totaal sociaal-economische categorie;764.7;16.7
+113;Limburg (PV);Totaal actief;445.3;18.7
+114;Limburg (PV);Werknemer;398.6;19.1
+115;Limburg (PV);Zelfstandige;45.7;15.1
+116;Limburg (PV);Totaal niet-actief;319.3;13.9
+117;Limburg (PV);Werkloosheids- en bijstandsuitk.ontv.;34.7;11.8
+118;Limburg (PV);Pensioenontvanger;203.4;15.6
+119;Oost-Groningen (CR);Totaal sociaal-economische categorie;103.0;15.5
+120;Oost-Groningen (CR);Totaal actief;58.0;17.4
+121;Oost-Groningen (CR);Werknemer;51.5;17.9
+122;Oost-Groningen (CR);Zelfstandige;6.3;13.2
+123;Oost-Groningen (CR);Totaal niet-actief;45.1;13.0
+124;Oost-Groningen (CR);Werkloosheids- en bijstandsuitk.ontv.;5.3;11.8
+125;Oost-Groningen (CR);Pensioenontvanger;29.3;14.0
+126;Delfzijl en omgeving (CR);Totaal sociaal-economische categorie;34.1;16.2
+127;Delfzijl en omgeving (CR);Totaal actief;19.5;18.3
+128;Delfzijl en omgeving (CR);Werknemer;17.0;18.9
+129;Delfzijl en omgeving (CR);Zelfstandige;2.4;14.7
+130;Delfzijl en omgeving (CR);Totaal niet-actief;14.6;13.5
+131;Delfzijl en omgeving (CR);Werkloosheids- en bijstandsuitk.ontv.;1.9;11.5
+132;Delfzijl en omgeving (CR);Pensioenontvanger;9.9;14.8
+133;Overig Groningen (CR);Totaal sociaal-economische categorie;243.5;16.5
+134;Overig Groningen (CR);Totaal actief;142.3;18.9
+135;Overig Groningen (CR);Werknemer;125.9;19.3
+136;Overig Groningen (CR);Zelfstandige;16.1;15.7
+137;Overig Groningen (CR);Totaal niet-actief;101.1;13.2
+138;Overig Groningen (CR);Werkloosheids- en bijstandsuitk.ontv.;14.8;11.5
+139;Overig Groningen (CR);Pensioenontvanger;55.4;15.7
+140;Noord-Friesland (CR);Totaal sociaal-economische categorie;216.4;16.0
+141;Noord-Friesland (CR);Totaal actief;131.6;17.6
+142;Noord-Friesland (CR);Werknemer;113.2;18.1
+143;Noord-Friesland (CR);Zelfstandige;18.1;15.0
+144;Noord-Friesland (CR);Totaal niet-actief;84.8;13.6
+145;Noord-Friesland (CR);Werkloosheids- en bijstandsuitk.ontv.;10.3;11.8
+146;Noord-Friesland (CR);Pensioenontvanger;53.9;15.3
+147;Zuidwest-Friesland (CR);Totaal sociaal-economische categorie;68.4;16.3
+148;Zuidwest-Friesland (CR);Totaal actief;42.6;17.7
+149;Zuidwest-Friesland (CR);Werknemer;35.2;18.3
+150;Zuidwest-Friesland (CR);Zelfstandige;7.2;14.9
+151;Zuidwest-Friesland (CR);Totaal niet-actief;25.8;14.1
+152;Zuidwest-Friesland (CR);Werkloosheids- en bijstandsuitk.ontv.;2.5;12.3
+153;Zuidwest-Friesland (CR);Pensioenontvanger;18.0;15.4
+154;Zuidoost-Friesland (CR);Totaal sociaal-economische categorie;136.0;16.4
+155;Zuidoost-Friesland (CR);Totaal actief;81.7;18.0
+156;Zuidoost-Friesland (CR);Werknemer;70.4;18.4
+157;Zuidoost-Friesland (CR);Zelfstandige;11.1;15.4
+158;Zuidoost-Friesland (CR);Totaal niet-actief;54.3;14.1
+159;Zuidoost-Friesland (CR);Werkloosheids- en bijstandsuitk.ontv.;5.6;12.3
+160;Zuidoost-Friesland (CR);Pensioenontvanger;36.9;15.5
+161;Noord-Drenthe (CR);Totaal sociaal-economische categorie;124.2;17.5
+162;Noord-Drenthe (CR);Totaal actief;75.7;19.2
+163;Noord-Drenthe (CR);Werknemer;66.8;19.7
+164;Noord-Drenthe (CR);Zelfstandige;8.7;15.2
+165;Noord-Drenthe (CR);Totaal niet-actief;48.5;14.8
+166;Noord-Drenthe (CR);Werkloosheids- en bijstandsuitk.ontv.;4.2;12.3
+167;Noord-Drenthe (CR);Pensioenontvanger;33.8;16.6
+168;Zuidoost-Drenthe (CR);Totaal sociaal-economische categorie;115.2;15.8
+169;Zuidoost-Drenthe (CR);Totaal actief;67.2;17.4
+170;Zuidoost-Drenthe (CR);Werknemer;59.3;18.0
+171;Zuidoost-Drenthe (CR);Zelfstandige;7.8;13.3
+172;Zuidoost-Drenthe (CR);Totaal niet-actief;47.9;13.5
+173;Zuidoost-Drenthe (CR);Werkloosheids- en bijstandsuitk.ontv.;5.9;11.7
+174;Zuidoost-Drenthe (CR);Pensioenontvanger;31.4;14.9
+175;Zuidwest-Drenthe (CR);Totaal sociaal-economische categorie;85.1;16.7
+176;Zuidwest-Drenthe (CR);Totaal actief;51.7;18.2
+177;Zuidwest-Drenthe (CR);Werknemer;44.7;18.5
+178;Zuidwest-Drenthe (CR);Zelfstandige;6.8;16.2
+179;Zuidwest-Drenthe (CR);Totaal niet-actief;33.4;14.5
+180;Zuidwest-Drenthe (CR);Werkloosheids- en bijstandsuitk.ontv.;2.9;12.6
+181;Zuidwest-Drenthe (CR);Pensioenontvanger;23.2;15.9
+182;Noord-Overijssel (CR);Totaal sociaal-economische categorie;223.2;16.8
+183;Noord-Overijssel (CR);Totaal actief;144.1;18.4
+184;Noord-Overijssel (CR);Werknemer;126.5;18.7
+185;Noord-Overijssel (CR);Zelfstandige;17.3;16.4
+186;Noord-Overijssel (CR);Totaal niet-actief;79.1;13.9
+187;Noord-Overijssel (CR);Werkloosheids- en bijstandsuitk.ontv.;7.3;12.1
+188;Noord-Overijssel (CR);Pensioenontvanger;51.8;15.7
+189;Zuidwest-Overijssel (CR);Totaal sociaal-economische categorie;99.4;16.8
+190;Zuidwest-Overijssel (CR);Totaal actief;62.4;18.6
+191;Zuidwest-Overijssel (CR);Werknemer;56.0;18.9
+192;Zuidwest-Overijssel (CR);Zelfstandige;6.2;15.7
+193;Zuidwest-Overijssel (CR);Totaal niet-actief;37.0;13.9
+194;Zuidwest-Overijssel (CR);Werkloosheids- en bijstandsuitk.ontv.;3.4;11.8
+195;Zuidwest-Overijssel (CR);Pensioenontvanger;23.9;15.8
+196;Twente (CR);Totaal sociaal-economische categorie;403.4;16.5
+197;Twente (CR);Totaal actief;243.6;18.4
+198;Twente (CR);Werknemer;216.9;18.8
+199;Twente (CR);Zelfstandige;26.2;15.1
+200;Twente (CR);Totaal niet-actief;159.7;13.6
+201;Twente (CR);Werkloosheids- en bijstandsuitk.ontv.;17.5;11.5
+202;Twente (CR);Pensioenontvanger;101.0;15.3
+203;Veluwe (CR);Totaal sociaal-economische categorie;419.3;17.6
+204;Veluwe (CR);Totaal actief;264.2;19.3
+205;Veluwe (CR);Werknemer;235.1;19.5
+206;Veluwe (CR);Zelfstandige;28.5;17.3
+207;Veluwe (CR);Totaal niet-actief;155.1;14.8
+208;Veluwe (CR);Werkloosheids- en bijstandsuitk.ontv.;11.1;12.4
+209;Veluwe (CR);Pensioenontvanger;105.0;16.8
+210;Achterhoek (CR);Totaal sociaal-economische categorie;270.6;16.7
+211;Achterhoek (CR);Totaal actief;169.6;18.2
+212;Achterhoek (CR);Werknemer;147.3;18.7
+213;Achterhoek (CR);Zelfstandige;21.9;15.0
+214;Achterhoek (CR);Totaal niet-actief;100.9;14.2
+215;Achterhoek (CR);Werkloosheids- en bijstandsuitk.ontv.;7.3;12.2
+216;Achterhoek (CR);Pensioenontvanger;71.0;15.6
+217;Arnhem/Nijmegen (CR);Totaal sociaal-economische categorie;465.6;17.4
+218;Arnhem/Nijmegen (CR);Totaal actief;284.9;19.4
+219;Arnhem/Nijmegen (CR);Werknemer;257.0;19.8
+220;Arnhem/Nijmegen (CR);Zelfstandige;27.4;15.9
+221;Arnhem/Nijmegen (CR);Totaal niet-actief;180.7;14.1
+222;Arnhem/Nijmegen (CR);Werkloosheids- en bijstandsuitk.ontv.;24.1;11.6
+223;Arnhem/Nijmegen (CR);Pensioenontvanger;109.6;16.4
+224;Zuidwest-Gelderland (CR);Totaal sociaal-economische categorie;148.7;17.7
+225;Zuidwest-Gelderland (CR);Totaal actief;101.4;19.5
+226;Zuidwest-Gelderland (CR);Werknemer;87.4;20.1
+227;Zuidwest-Gelderland (CR);Zelfstandige;13.8;15.4
+228;Zuidwest-Gelderland (CR);Totaal niet-actief;47.2;14.0
+229;Zuidwest-Gelderland (CR);Werkloosheids- en bijstandsuitk.ontv.;4.0;12.2
+230;Zuidwest-Gelderland (CR);Pensioenontvanger;32.3;15.5
+231;Utrecht (CR);Totaal sociaal-economische categorie;772.4;19.1
+232;Utrecht (CR);Totaal actief;501.4;21.3
+233;Utrecht (CR);Werknemer;451.3;21.7
+234;Utrecht (CR);Zelfstandige;49.4;18.1
+235;Utrecht (CR);Totaal niet-actief;270.9;15.1
+236;Utrecht (CR);Werkloosheids- en bijstandsuitk.ontv.;26.2;12.3
+237;Utrecht (CR);Pensioenontvanger;168.6;17.8
+238;Kop van Noord-Holland (CR);Totaal sociaal-economische categorie;243.6;17.1
+239;Kop van Noord-Holland (CR);Totaal actief;158.8;18.5
+240;Kop van Noord-Holland (CR);Werknemer;136.6;19.0
+241;Kop van Noord-Holland (CR);Zelfstandige;21.9;15.8
+242;Kop van Noord-Holland (CR);Totaal niet-actief;84.8;14.4
+243;Kop van Noord-Holland (CR);Werkloosheids- en bijstandsuitk.ontv.;7.1;13.0
+244;Kop van Noord-Holland (CR);Pensioenontvanger;55.2;16.1
+245;Alkmaar en omgeving (CR);Totaal sociaal-economische categorie;153.8;18.1
+246;Alkmaar en omgeving (CR);Totaal actief;97.6;19.8
+247;Alkmaar en omgeving (CR);Werknemer;87.0;20.2
+248;Alkmaar en omgeving (CR);Zelfstandige;10.4;16.9
+249;Alkmaar en omgeving (CR);Totaal niet-actief;56.1;15.1
+250;Alkmaar en omgeving (CR);Werkloosheids- en bijstandsuitk.ontv.;4.7;12.7
+251;Alkmaar en omgeving (CR);Pensioenontvanger;35.9;17.3
+252;IJmond (CR);Totaal sociaal-economische categorie;128.5;18.4
+253;IJmond (CR);Totaal actief;79.1;20.2
+254;IJmond (CR);Werknemer;71.7;20.4
+255;IJmond (CR);Zelfstandige;7.3;18.3
+256;IJmond (CR);Totaal niet-actief;49.4;15.5
+257;IJmond (CR);Werkloosheids- en bijstandsuitk.ontv.;3.5;12.8
+258;IJmond (CR);Pensioenontvanger;34.5;17.5
+259;Agglomeratie Haarlem (CR);Totaal sociaal-economische categorie;149.7;19.8
+260;Agglomeratie Haarlem (CR);Totaal actief;89.9;22.1
+261;Agglomeratie Haarlem (CR);Werknemer;79.9;22.6
+262;Agglomeratie Haarlem (CR);Zelfstandige;9.9;17.9
+263;Agglomeratie Haarlem (CR);Totaal niet-actief;59.8;16.2
+264;Agglomeratie Haarlem (CR);Werkloosheids- en bijstandsuitk.ontv.;5.4;12.3
+265;Agglomeratie Haarlem (CR);Pensioenontvanger;40.7;18.6
+266;Zaanstreek (CR);Totaal sociaal-economische categorie;105.9;17.4
+267;Zaanstreek (CR);Totaal actief;66.2;19.4
+268;Zaanstreek (CR);Werknemer;60.5;19.7
+269;Zaanstreek (CR);Zelfstandige;5.7;16.1
+270;Zaanstreek (CR);Totaal niet-actief;39.6;14.1
+271;Zaanstreek (CR);Werkloosheids- en bijstandsuitk.ontv.;3.7;11.2
+272;Zaanstreek (CR);Pensioenontvanger;25.3;16.0
+273;Groot-Amsterdam (CR);Totaal sociaal-economische categorie;783.8;18.9
+274;Groot-Amsterdam (CR);Totaal actief;488.3;21.7
+275;Groot-Amsterdam (CR);Werknemer;427.2;22.5
+276;Groot-Amsterdam (CR);Zelfstandige;60.3;16.4
+277;Groot-Amsterdam (CR);Totaal niet-actief;295.4;14.3
+278;Groot-Amsterdam (CR);Werkloosheids- en bijstandsuitk.ontv.;51.1;12.0
+279;Groot-Amsterdam (CR);Pensioenontvanger;162.6;16.7
+280;Het Gooi en Vechtstreek (CR);Totaal sociaal-economische categorie;163.6;21.1
+281;Het Gooi en Vechtstreek (CR);Totaal actief;99.9;23.7
+282;Het Gooi en Vechtstreek (CR);Werknemer;87.0;24.5
+283;Het Gooi en Vechtstreek (CR);Zelfstandige;12.7;18.5
+284;Het Gooi en Vechtstreek (CR);Totaal niet-actief;63.7;17.0
+285;Het Gooi en Vechtstreek (CR);Werkloosheids- en bijstandsuitk.ontv.;4.5;13.1
+286;Het Gooi en Vechtstreek (CR);Pensioenontvanger;46.0;19.2
+287;Agglomeratie Leiden en Bollenstreek (CR);Totaal sociaal-economische categorie;256.3;19.0
+288;Agglomeratie Leiden en Bollenstreek (CR);Totaal actief;167.4;21.1
+289;Agglomeratie Leiden en Bollenstreek (CR);Werknemer;151.5;21.3
+290;Agglomeratie Leiden en Bollenstreek (CR);Zelfstandige;15.6;18.9
+291;Agglomeratie Leiden en Bollenstreek (CR);Totaal niet-actief;88.9;15.1
+292;Agglomeratie Leiden en Bollenstreek (CR);Werkloosheids- en bijstandsuitk.ontv.;6.4;12.7
+293;Agglomeratie Leiden en Bollenstreek (CR);Pensioenontvanger;59.5;17.5
+294;Agglomeratie 's-Gravenhage (CR);Totaal sociaal-economische categorie;503.3;19.2
+295;Agglomeratie 's-Gravenhage (CR);Totaal actief;306.0;21.4
+296;Agglomeratie 's-Gravenhage (CR);Werknemer;277.4;21.9
+297;Agglomeratie 's-Gravenhage (CR);Zelfstandige;28.2;17.2
+298;Agglomeratie 's-Gravenhage (CR);Totaal niet-actief;197.3;15.6
+299;Agglomeratie 's-Gravenhage (CR);Werkloosheids- en bijstandsuitk.ontv.;31.2;12.2
+300;Agglomeratie 's-Gravenhage (CR);Pensioenontvanger;124.3;18.2
+301;Delft en Westland (CR);Totaal sociaal-economische categorie;139.8;17.5
+302;Delft en Westland (CR);Totaal actief;90.8;19.3
+303;Delft en Westland (CR);Werknemer;79.9;19.7
+304;Delft en Westland (CR);Zelfstandige;10.7;16.2
+305;Delft en Westland (CR);Totaal niet-actief;48.9;14.1
+306;Delft en Westland (CR);Werkloosheids- en bijstandsuitk.ontv.;4.6;12.5
+307;Delft en Westland (CR);Pensioenontvanger;31.3;16.3
+308;Oost-Zuid-Holland (CR);Totaal sociaal-economische categorie;211.2;18.7
+309;Oost-Zuid-Holland (CR);Totaal actief;143.9;20.5
+310;Oost-Zuid-Holland (CR);Werknemer;128.0;20.8
+311;Oost-Zuid-Holland (CR);Zelfstandige;15.6;17.8
+312;Oost-Zuid-Holland (CR);Totaal niet-actief;67.3;14.8
+313;Oost-Zuid-Holland (CR);Werkloosheids- en bijstandsuitk.ontv.;5.4;12.7
+314;Oost-Zuid-Holland (CR);Pensioenontvanger;46.2;16.8
+315;Groot-Rijnmond (CR);Totaal sociaal-economische categorie;887.5;17.8
+316;Groot-Rijnmond (CR);Totaal actief;536.8;20.3
+317;Groot-Rijnmond (CR);Werknemer;488.2;20.7
+318;Groot-Rijnmond (CR);Zelfstandige;48.0;16.5
+319;Groot-Rijnmond (CR);Totaal niet-actief;350.4;14.1
+320;Groot-Rijnmond (CR);Werkloosheids- en bijstandsuitk.ontv.;60.6;11.7
+321;Groot-Rijnmond (CR);Pensioenontvanger;217.8;15.9
+322;Zuidoost-Zuid-Holland (CR);Totaal sociaal-economische categorie;260.0;17.8
+323;Zuidoost-Zuid-Holland (CR);Totaal actief;165.9;19.8
+324;Zuidoost-Zuid-Holland (CR);Werknemer;150.1;20.0
+325;Zuidoost-Zuid-Holland (CR);Zelfstandige;15.5;17.9
+326;Zuidoost-Zuid-Holland (CR);Totaal niet-actief;94.0;14.3
+327;Zuidoost-Zuid-Holland (CR);Werkloosheids- en bijstandsuitk.ontv.;9.5;11.9
+328;Zuidoost-Zuid-Holland (CR);Pensioenontvanger;64.5;16.0
+329;Zeeuwsch-Vlaanderen (CR);Totaal sociaal-economische categorie;71.3;17.2
+330;Zeeuwsch-Vlaanderen (CR);Totaal actief;42.2;19.3
+331;Zeeuwsch-Vlaanderen (CR);Werknemer;36.1;19.9
+332;Zeeuwsch-Vlaanderen (CR);Zelfstandige;6.1;16.0
+333;Zeeuwsch-Vlaanderen (CR);Totaal niet-actief;29.1;14.1
+334;Zeeuwsch-Vlaanderen (CR);Werkloosheids- en bijstandsuitk.ontv.;2.0;12.0
+335;Zeeuwsch-Vlaanderen (CR);Pensioenontvanger;22.0;15.1
+336;Overig Zeeland (CR);Totaal sociaal-economische categorie;180.2;17.3
+337;Overig Zeeland (CR);Totaal actief;111.5;18.8
+338;Overig Zeeland (CR);Werknemer;96.5;19.1
+339;Overig Zeeland (CR);Zelfstandige;14.7;17.1
+340;Overig Zeeland (CR);Totaal niet-actief;68.7;14.9
+341;Overig Zeeland (CR);Werkloosheids- en bijstandsuitk.ontv.;5.4;12.6
+342;Overig Zeeland (CR);Pensioenontvanger;50.5;16.4
+343;West-Noord-Brabant (CR);Totaal sociaal-economische categorie;406.7;17.6
+344;West-Noord-Brabant (CR);Totaal actief;256.1;19.6
+345;West-Noord-Brabant (CR);Werknemer;228.6;20.0
+346;West-Noord-Brabant (CR);Zelfstandige;27.1;16.2
+347;West-Noord-Brabant (CR);Totaal niet-actief;150.5;14.1
+348;West-Noord-Brabant (CR);Werkloosheids- en bijstandsuitk.ontv.;15.3;12.0
+349;West-Noord-Brabant (CR);Pensioenontvanger;100.3;15.9
+350;Midden-Noord-Brabant (CR);Totaal sociaal-economische categorie;302.7;17.1
+351;Midden-Noord-Brabant (CR);Totaal actief;192.4;19.2
+352;Midden-Noord-Brabant (CR);Werknemer;172.4;19.5
+353;Midden-Noord-Brabant (CR);Zelfstandige;19.6;16.3
+354;Midden-Noord-Brabant (CR);Totaal niet-actief;110.2;13.6
+355;Midden-Noord-Brabant (CR);Werkloosheids- en bijstandsuitk.ontv.;10.4;12.4
+356;Midden-Noord-Brabant (CR);Pensioenontvanger;69.1;15.5
+357;Noordoost-Noord-Brabant (CR);Totaal sociaal-economische categorie;420.2;17.5
+358;Noordoost-Noord-Brabant (CR);Totaal actief;270.8;19.4
+359;Noordoost-Noord-Brabant (CR);Werknemer;238.1;19.8
+360;Noordoost-Noord-Brabant (CR);Zelfstandige;32.2;16.4
+361;Noordoost-Noord-Brabant (CR);Totaal niet-actief;149.4;14.3
+362;Noordoost-Noord-Brabant (CR);Werkloosheids- en bijstandsuitk.ontv.;12.7;12.4
+363;Noordoost-Noord-Brabant (CR);Pensioenontvanger;95.9;16.1
+364;Zuidoost-Noord-Brabant (CR);Totaal sociaal-economische categorie;487.1;17.7
+365;Zuidoost-Noord-Brabant (CR);Totaal actief;303.9;19.5
+366;Zuidoost-Noord-Brabant (CR);Werknemer;269.8;20.0
+367;Zuidoost-Noord-Brabant (CR);Zelfstandige;33.5;15.9
+368;Zuidoost-Noord-Brabant (CR);Totaal niet-actief;183.0;14.6
+369;Zuidoost-Noord-Brabant (CR);Werkloosheids- en bijstandsuitk.ontv.;18.8;12.2
+370;Zuidoost-Noord-Brabant (CR);Pensioenontvanger;117.5;16.7
+371;Noord-Limburg (CR);Totaal sociaal-economische categorie;188.0;16.4
+372;Noord-Limburg (CR);Totaal actief;119.5;17.9
+373;Noord-Limburg (CR);Werknemer;106.2;18.4
+374;Noord-Limburg (CR);Zelfstandige;13.0;14.3
+375;Noord-Limburg (CR);Totaal niet-actief;68.5;13.6
+376;Noord-Limburg (CR);Werkloosheids- en bijstandsuitk.ontv.;6.3;12.1
+377;Noord-Limburg (CR);Pensioenontvanger;44.7;15.3
+378;Midden-Limburg (CR);Totaal sociaal-economische categorie;158.0;17.0
+379;Midden-Limburg (CR);Totaal actief;96.4;18.8
+380;Midden-Limburg (CR);Werknemer;85.5;19.3
+381;Midden-Limburg (CR);Zelfstandige;10.8;15.0
+382;Midden-Limburg (CR);Totaal niet-actief;61.6;14.1
+383;Midden-Limburg (CR);Werkloosheids- en bijstandsuitk.ontv.;6.2;12.4
+384;Midden-Limburg (CR);Pensioenontvanger;40.5;15.7
+385;Zuid-Limburg (CR);Totaal sociaal-economische categorie;418.7;16.7
+386;Zuid-Limburg (CR);Totaal actief;229.4;19.1
+387;Zuid-Limburg (CR);Werknemer;207.0;19.4
+388;Zuid-Limburg (CR);Zelfstandige;21.9;15.6
+389;Zuid-Limburg (CR);Totaal niet-actief;189.2;13.9
+390;Zuid-Limburg (CR);Werkloosheids- en bijstandsuitk.ontv.;22.2;11.6
+391;Zuid-Limburg (CR);Pensioenontvanger;118.2;15.8
+392;Flevoland (CR);Totaal sociaal-economische categorie;225.1;17.2
+393;Flevoland (CR);Totaal actief;156.2;18.9
+394;Flevoland (CR);Werknemer;140.0;19.5
+395;Flevoland (CR);Zelfstandige;16.0;14.5
+396;Flevoland (CR);Totaal niet-actief;68.9;13.4
+397;Flevoland (CR);Werkloosheids- en bijstandsuitk.ontv.;10.1;11.8
+398;Flevoland (CR);Pensioenontvanger;37.8;15.5
+399;Groningen (GA);Totaal sociaal-economische categorie;134.2;16.6
+400;Groningen (GA);Totaal actief;74.0;19.5
+401;Groningen (GA);Werknemer;66.8;19.8
+402;Groningen (GA);Zelfstandige;7.1;16.1
+403;Groningen (GA);Totaal niet-actief;60.2;13.0
+404;Groningen (GA);Werkloosheids- en bijstandsuitk.ontv.;10.5;11.3
+405;Groningen (GA);Pensioenontvanger;28.3;16.6
+406;Leeuwarden (GA);Totaal sociaal-economische categorie;61.9;16.1
+407;Leeuwarden (GA);Totaal actief;34.2;18.2
+408;Leeuwarden (GA);Werknemer;31.0;18.5
+409;Leeuwarden (GA);Zelfstandige;3.1;15.1
+410;Leeuwarden (GA);Totaal niet-actief;27.7;13.6
+411;Leeuwarden (GA);Werkloosheids- en bijstandsuitk.ontv.;4.9;11.6
+412;Leeuwarden (GA);Pensioenontvanger;15.0;16.3
+413;Zwolle (GA);Totaal sociaal-economische categorie;76.5;17.4
+414;Zwolle (GA);Totaal actief;48.1;19.3
+415;Zwolle (GA);Werknemer;44.5;19.4
+416;Zwolle (GA);Zelfstandige;3.5;18.5
+417;Zwolle (GA);Totaal niet-actief;28.4;14.1
+418;Zwolle (GA);Werkloosheids- en bijstandsuitk.ontv.;3.8;11.9
+419;Zwolle (GA);Pensioenontvanger;16.3;16.8
+420;Enschede (GA);Totaal sociaal-economische categorie;99.2;15.7
+421;Enschede (GA);Totaal actief;54.8;18.0
+422;Enschede (GA);Werknemer;50.0;18.3
+423;Enschede (GA);Zelfstandige;4.6;14.3
+424;Enschede (GA);Totaal niet-actief;44.4;13.0
+425;Enschede (GA);Werkloosheids- en bijstandsuitk.ontv.;7.1;11.3
+426;Enschede (GA);Pensioenontvanger;23.7;15.1
+427;Apeldoorn (GA);Totaal sociaal-economische categorie;106.8;17.6
+428;Apeldoorn (GA);Totaal actief;65.0;19.3
+429;Apeldoorn (GA);Werknemer;59.8;19.6
+430;Apeldoorn (GA);Zelfstandige;5.1;15.9
+431;Apeldoorn (GA);Totaal niet-actief;41.8;14.8
+432;Apeldoorn (GA);Werkloosheids- en bijstandsuitk.ontv.;3.9;12.2
+433;Apeldoorn (GA);Pensioenontvanger;27.8;16.9
+434;Arnhem (GA);Totaal sociaal-economische categorie;96.3;17.0
+435;Arnhem (GA);Totaal actief;56.2;19.2
+436;Arnhem (GA);Werknemer;51.1;19.5
+437;Arnhem (GA);Zelfstandige;5.1;16.1
+438;Arnhem (GA);Totaal niet-actief;40.1;13.9
+439;Arnhem (GA);Werkloosheids- en bijstandsuitk.ontv.;8.3;11.1
+440;Arnhem (GA);Pensioenontvanger;20.9;16.8
+441;Nijmegen (GA);Totaal sociaal-economische categorie;107.2;16.8
+442;Nijmegen (GA);Totaal actief;61.2;19.5
+443;Nijmegen (GA);Werknemer;55.2;19.9
+444;Nijmegen (GA);Zelfstandige;5.8;16.0
+445;Nijmegen (GA);Totaal niet-actief;46.0;13.3
+446;Nijmegen (GA);Werkloosheids- en bijstandsuitk.ontv.;8.2;11.4
+447;Nijmegen (GA);Pensioenontvanger;23.4;16.3
+448;Amersfoort (GA);Totaal sociaal-economische categorie;107.8;19.2
+449;Amersfoort (GA);Totaal actief;71.6;21.2
+450;Amersfoort (GA);Werknemer;65.5;21.5
+451;Amersfoort (GA);Zelfstandige;6.0;17.8
+452;Amersfoort (GA);Totaal niet-actief;36.2;15.2
+453;Amersfoort (GA);Werkloosheids- en bijstandsuitk.ontv.;4.0;12.7
+454;Amersfoort (GA);Pensioenontvanger;22.8;17.6
+455;Utrecht (GA);Totaal sociaal-economische categorie;273.6;18.2
+456;Utrecht (GA);Totaal actief;175.3;20.9
+457;Utrecht (GA);Werknemer;160.6;21.2
+458;Utrecht (GA);Zelfstandige;14.5;17.1
+459;Utrecht (GA);Totaal niet-actief;98.3;13.5
+460;Utrecht (GA);Werkloosheids- en bijstandsuitk.ontv.;13.1;11.6
+461;Utrecht (GA);Pensioenontvanger;50.6;16.6
+462;Amsterdam (GA);Totaal sociaal-economische categorie;660.9;18.7
+463;Amsterdam (GA);Totaal actief;398.8;21.7
+464;Amsterdam (GA);Werknemer;348.8;22.6
+465;Amsterdam (GA);Zelfstandige;49.5;15.8
+466;Amsterdam (GA);Totaal niet-actief;262.0;14.1
+467;Amsterdam (GA);Werkloosheids- en bijstandsuitk.ontv.;49.7;11.9
+468;Amsterdam (GA);Pensioenontvanger;139.4;16.5
+469;Haarlem (GA);Totaal sociaal-economische categorie;130.7;19.8
+470;Haarlem (GA);Totaal actief;78.7;22.1
+471;Haarlem (GA);Werknemer;70.2;22.6
+472;Haarlem (GA);Zelfstandige;8.4;18.3
+473;Haarlem (GA);Totaal niet-actief;52.0;16.1
+474;Haarlem (GA);Werkloosheids- en bijstandsuitk.ontv.;5.0;12.1
+475;Haarlem (GA);Pensioenontvanger;35.0;18.6
+476;Leiden (GA);Totaal sociaal-economische categorie;166.6;19.2
+477;Leiden (GA);Totaal actief;107.5;21.4
+478;Leiden (GA);Werknemer;98.2;21.6
+479;Leiden (GA);Zelfstandige;9.1;19.2
+480;Leiden (GA);Totaal niet-actief;59.1;15.2
+481;Leiden (GA);Werkloosheids- en bijstandsuitk.ontv.;5.2;12.6
+482;Leiden (GA);Pensioenontvanger;38.2;17.8
+483;'s-Gravenhage (GA);Totaal sociaal-economische categorie;401.0;19.2
+484;'s-Gravenhage (GA);Totaal actief;235.8;21.6
+485;'s-Gravenhage (GA);Werknemer;212.4;22.1
+486;'s-Gravenhage (GA);Zelfstandige;23.2;17.0
+487;'s-Gravenhage (GA);Totaal niet-actief;165.1;15.8
+488;'s-Gravenhage (GA);Werkloosheids- en bijstandsuitk.ontv.;27.5;12.0
+489;'s-Gravenhage (GA);Pensioenontvanger;103.7;18.4
+490;Rotterdam (GA);Totaal sociaal-economische categorie;649.6;17.4
+491;Rotterdam (GA);Totaal actief;377.2;20.1
+492;Rotterdam (GA);Werknemer;345.4;20.4
+493;Rotterdam (GA);Zelfstandige;31.4;16.5
+494;Rotterdam (GA);Totaal niet-actief;272.2;13.8
+495;Rotterdam (GA);Werkloosheids- en bijstandsuitk.ontv.;55.5;11.7
+496;Rotterdam (GA);Pensioenontvanger;160.4;15.7
+497;Dordrecht (GA);Totaal sociaal-economische categorie;162.0;17.8
+498;Dordrecht (GA);Totaal actief;100.8;19.8
+499;Dordrecht (GA);Werknemer;92.3;20.0
+500;Dordrecht (GA);Zelfstandige;8.4;18.2
+501;Dordrecht (GA);Totaal niet-actief;61.1;14.4
+502;Dordrecht (GA);Werkloosheids- en bijstandsuitk.ontv.;7.5;11.7
+503;Dordrecht (GA);Pensioenontvanger;41.0;16.2
+504;Breda (GA);Totaal sociaal-economische categorie;113.7;17.9
+505;Breda (GA);Totaal actief;69.4;20.2
+506;Breda (GA);Werknemer;62.8;20.5
+507;Breda (GA);Zelfstandige;6.6;16.9
+508;Breda (GA);Totaal niet-actief;44.3;14.4
+509;Breda (GA);Werkloosheids- en bijstandsuitk.ontv.;5.8;11.6
+510;Breda (GA);Pensioenontvanger;28.1;16.8
+511;Tilburg (GA);Totaal sociaal-economische categorie;150.2;16.7
+512;Tilburg (GA);Totaal actief;91.6;18.9
+513;Tilburg (GA);Werknemer;84.1;19.2
+514;Tilburg (GA);Zelfstandige;7.4;15.9
+515;Tilburg (GA);Totaal niet-actief;58.6;13.2
+516;Tilburg (GA);Werkloosheids- en bijstandsuitk.ontv.;7.2;12.4
+517;Tilburg (GA);Pensioenontvanger;32.8;15.5
+518;'s-Hertogenbosch (GA);Totaal sociaal-economische categorie;108.5;18.1
+519;'s-Hertogenbosch (GA);Totaal actief;68.0;20.2
+520;'s-Hertogenbosch (GA);Werknemer;61.1;20.7
+521;'s-Hertogenbosch (GA);Zelfstandige;6.7;15.9
+522;'s-Hertogenbosch (GA);Totaal niet-actief;40.5;14.6
+523;'s-Hertogenbosch (GA);Werkloosheids- en bijstandsuitk.ontv.;4.9;11.7
+524;'s-Hertogenbosch (GA);Pensioenontvanger;24.8;17.1
+525;Eindhoven (GA);Totaal sociaal-economische categorie;217.5;18.0
+526;Eindhoven (GA);Totaal actief;128.7;20.0
+527;Eindhoven (GA);Werknemer;116.8;20.4
+528;Eindhoven (GA);Zelfstandige;11.6;16.0
+529;Eindhoven (GA);Totaal niet-actief;88.9;15.0
+530;Eindhoven (GA);Werkloosheids- en bijstandsuitk.ontv.;10.4;12.0
+531;Eindhoven (GA);Pensioenontvanger;55.6;17.5
+532;Geleen/Sittard (GA);Totaal sociaal-economische categorie;95.0;17.2
+533;Geleen/Sittard (GA);Totaal actief;53.7;19.5
+534;Geleen/Sittard (GA);Werknemer;49.1;19.8
+535;Geleen/Sittard (GA);Zelfstandige;4.4;17.2
+536;Geleen/Sittard (GA);Totaal niet-actief;41.3;14.2
+537;Geleen/Sittard (GA);Werkloosheids- en bijstandsuitk.ontv.;4.6;12.1
+538;Geleen/Sittard (GA);Pensioenontvanger;25.8;16.1
+539;Heerlen (GA);Totaal sociaal-economische categorie;142.5;15.9
+540;Heerlen (GA);Totaal actief;75.1;18.0
+541;Heerlen (GA);Werknemer;68.9;18.3
+542;Heerlen (GA);Zelfstandige;6.0;14.7
+543;Heerlen (GA);Totaal niet-actief;67.4;13.6
+544;Heerlen (GA);Werkloosheids- en bijstandsuitk.ontv.;9.7;11.0
+545;Heerlen (GA);Pensioenontvanger;41.2;15.5
+546;Maastricht (GA);Totaal sociaal-economische categorie;81.8;16.6
+547;Maastricht (GA);Totaal actief;42.4;19.5
+548;Maastricht (GA);Werknemer;38.3;20.0
+549;Maastricht (GA);Zelfstandige;4.1;15.0
+550;Maastricht (GA);Totaal niet-actief;39.3;13.4
+551;Maastricht (GA);Werkloosheids- en bijstandsuitk.ontv.;4.7;11.5
+552;Maastricht (GA);Pensioenontvanger;22.4;15.8
+553;Groningen (SG);Totaal sociaal-economische categorie;228.4;17.0
+554;Groningen (SG);Totaal actief;133.5;19.4
+555;Groningen (SG);Werknemer;118.4;19.8
+556;Groningen (SG);Zelfstandige;14.8;15.8
+557;Groningen (SG);Totaal niet-actief;94.8;13.6
+558;Groningen (SG);Werkloosheids- en bijstandsuitk.ontv.;13.1;11.7
+559;Groningen (SG);Pensioenontvanger;53.1;16.4
+560;Leeuwarden (SG);Totaal sociaal-economische categorie;105.6;16.3
+561;Leeuwarden (SG);Totaal actief;62.0;18.2
+562;Leeuwarden (SG);Werknemer;55.1;18.4
+563;Leeuwarden (SG);Zelfstandige;6.8;15.9
+564;Leeuwarden (SG);Totaal niet-actief;43.5;13.7
+565;Leeuwarden (SG);Werkloosheids- en bijstandsuitk.ontv.;6.3;11.9
+566;Leeuwarden (SG);Pensioenontvanger;25.9;15.9
+567;Zwolle (SG);Totaal sociaal-economische categorie;113.5;17.4
+568;Zwolle (SG);Totaal actief;72.0;19.2
+569;Zwolle (SG);Werknemer;65.2;19.3
+570;Zwolle (SG);Zelfstandige;6.6;17.8
+571;Zwolle (SG);Totaal niet-actief;41.5;14.4
+572;Zwolle (SG);Werkloosheids- en bijstandsuitk.ontv.;4.3;12.2
+573;Zwolle (SG);Pensioenontvanger;26.2;16.7
+574;Enschede (SG);Totaal sociaal-economische categorie;203.1;16.4
+575;Enschede (SG);Totaal actief;117.8;18.4
+576;Enschede (SG);Werknemer;107.3;18.8
+577;Enschede (SG);Zelfstandige;10.3;15.1
+578;Enschede (SG);Totaal niet-actief;85.3;13.5
+579;Enschede (SG);Werkloosheids- en bijstandsuitk.ontv.;11.3;11.4
+580;Enschede (SG);Pensioenontvanger;50.5;15.5
+581;Apeldoorn (SG);Totaal sociaal-economische categorie;145.3;17.4
+582;Apeldoorn (SG);Totaal actief;88.3;19.1
+583;Apeldoorn (SG);Werknemer;80.2;19.5
+584;Apeldoorn (SG);Zelfstandige;7.9;15.6
+585;Apeldoorn (SG);Totaal niet-actief;56.9;14.8
+586;Apeldoorn (SG);Werkloosheids- en bijstandsuitk.ontv.;4.7;12.2
+587;Apeldoorn (SG);Pensioenontvanger;38.7;16.8
+588;Arnhem (SG);Totaal sociaal-economische categorie;233.2;17.6
+589;Arnhem (SG);Totaal actief;142.2;19.5
+590;Arnhem (SG);Werknemer;128.5;19.9
+591;Arnhem (SG);Zelfstandige;13.5;16.1
+592;Arnhem (SG);Totaal niet-actief;91.0;14.6
+593;Arnhem (SG);Werkloosheids- en bijstandsuitk.ontv.;12.4;11.6
+594;Arnhem (SG);Pensioenontvanger;56.8;16.9
+595;Nijmegen (SG);Totaal sociaal-economische categorie;185.7;17.3
+596;Nijmegen (SG);Totaal actief;112.7;19.6
+597;Nijmegen (SG);Werknemer;101.5;20.0
+598;Nijmegen (SG);Zelfstandige;11.1;16.0
+599;Nijmegen (SG);Totaal niet-actief;72.9;13.7
+600;Nijmegen (SG);Werkloosheids- en bijstandsuitk.ontv.;10.1;11.5
+601;Nijmegen (SG);Pensioenontvanger;42.0;16.3
+602;Amersfoort (SG);Totaal sociaal-economische categorie;175.1;19.1
+603;Amersfoort (SG);Totaal actief;115.7;21.0
+604;Amersfoort (SG);Werknemer;104.2;21.2
+605;Amersfoort (SG);Zelfstandige;11.4;18.6
+606;Amersfoort (SG);Totaal niet-actief;59.3;15.4
+607;Amersfoort (SG);Werkloosheids- en bijstandsuitk.ontv.;5.6;12.9
+608;Amersfoort (SG);Pensioenontvanger;38.8;17.7
+609;Utrecht (SG);Totaal sociaal-economische categorie;379.5;19.0
+610;Utrecht (SG);Totaal actief;241.9;21.5
+611;Utrecht (SG);Werknemer;220.5;21.8
+612;Utrecht (SG);Zelfstandige;21.1;17.9
+613;Utrecht (SG);Totaal niet-actief;137.5;14.5
+614;Utrecht (SG);Werkloosheids- en bijstandsuitk.ontv.;15.6;11.9
+615;Utrecht (SG);Pensioenontvanger;78.4;17.6
+616;Amsterdam (SG);Totaal sociaal-economische categorie;944.1;18.7
+617;Amsterdam (SG);Totaal actief;595.5;21.3
+618;Amsterdam (SG);Werknemer;527.4;22.0
+619;Amsterdam (SG);Zelfstandige;67.2;16.1
+620;Amsterdam (SG);Totaal niet-actief;348.5;14.2
+621;Amsterdam (SG);Werkloosheids- en bijstandsuitk.ontv.;59.6;12.0
+622;Amsterdam (SG);Pensioenontvanger;190.7;16.6
+623;Haarlem (SG);Totaal sociaal-economische categorie;278.1;19.1
+624;Haarlem (SG);Totaal actief;169.0;21.2
+625;Haarlem (SG);Werknemer;151.6;21.6
+626;Haarlem (SG);Zelfstandige;17.1;18.1
+627;Haarlem (SG);Totaal niet-actief;109.1;15.9
+628;Haarlem (SG);Werkloosheids- en bijstandsuitk.ontv.;8.9;12.5
+629;Haarlem (SG);Pensioenontvanger;75.2;18.1
+630;Leiden (SG);Totaal sociaal-economische categorie;218.0;19.2
+631;Leiden (SG);Totaal actief;141.6;21.3
+632;Leiden (SG);Werknemer;128.4;21.6
+633;Leiden (SG);Zelfstandige;13.0;19.0
+634;Leiden (SG);Totaal niet-actief;76.3;15.2
+635;Leiden (SG);Werkloosheids- en bijstandsuitk.ontv.;5.8;12.6
+636;Leiden (SG);Pensioenontvanger;50.3;17.7
+637;'s-Gravenhage (SG);Totaal sociaal-economische categorie;643.1;18.8
+638;'s-Gravenhage (SG);Totaal actief;396.8;21.0
+639;'s-Gravenhage (SG);Werknemer;357.4;21.4
+640;'s-Gravenhage (SG);Zelfstandige;38.9;16.9
+641;'s-Gravenhage (SG);Totaal niet-actief;246.2;15.3
+642;'s-Gravenhage (SG);Werkloosheids- en bijstandsuitk.ontv.;35.8;12.2
+643;'s-Gravenhage (SG);Pensioenontvanger;155.6;17.8
+644;Rotterdam (SG);Totaal sociaal-economische categorie;772.8;17.7
+645;Rotterdam (SG);Totaal actief;458.4;20.3
+646;Rotterdam (SG);Werknemer;418.9;20.6
+647;Rotterdam (SG);Zelfstandige;39.0;16.7
+648;Rotterdam (SG);Totaal niet-actief;314.2;14.0
+649;Rotterdam (SG);Werkloosheids- en bijstandsuitk.ontv.;58.6;11.7
+650;Rotterdam (SG);Pensioenontvanger;190.8;15.9
+651;Dordrecht (SG);Totaal sociaal-economische categorie;188.5;17.8
+652;Dordrecht (SG);Totaal actief;118.1;19.9
+653;Dordrecht (SG);Werknemer;108.3;20.0
+654;Dordrecht (SG);Zelfstandige;9.7;18.2
+655;Dordrecht (SG);Totaal niet-actief;70.4;14.4
+656;Dordrecht (SG);Werkloosheids- en bijstandsuitk.ontv.;8.1;11.8
+657;Dordrecht (SG);Pensioenontvanger;47.8;16.2
+658;Breda (SG);Totaal sociaal-economische categorie;207.6;17.8
+659;Breda (SG);Totaal actief;130.5;19.9
+660;Breda (SG);Werknemer;117.0;20.2
+661;Breda (SG);Zelfstandige;13.3;16.8
+662;Breda (SG);Totaal niet-actief;77.0;14.2
+663;Breda (SG);Werkloosheids- en bijstandsuitk.ontv.;8.3;12.0
+664;Breda (SG);Pensioenontvanger;50.5;16.2
+665;Tilburg (SG);Totaal sociaal-economische categorie;194.6;17.0
+666;Tilburg (SG);Totaal actief;120.6;19.1
+667;Tilburg (SG);Werknemer;109.3;19.4
+668;Tilburg (SG);Zelfstandige;11.1;16.3
+669;Tilburg (SG);Totaal niet-actief;74.0;13.4
+670;Tilburg (SG);Werkloosheids- en bijstandsuitk.ontv.;8.2;12.4
+671;Tilburg (SG);Pensioenontvanger;43.5;15.6
+672;'s-Hertogenbosch (SG);Totaal sociaal-economische categorie;127.1;18.2
+673;'s-Hertogenbosch (SG);Totaal actief;80.2;20.2
+674;'s-Hertogenbosch (SG);Werknemer;71.4;20.7
+675;'s-Hertogenbosch (SG);Zelfstandige;8.6;16.2
+676;'s-Hertogenbosch (SG);Totaal niet-actief;46.9;14.7
+677;'s-Hertogenbosch (SG);Werkloosheids- en bijstandsuitk.ontv.;5.2;11.8
+678;'s-Hertogenbosch (SG);Pensioenontvanger;29.5;17.0
+679;Eindhoven (SG);Totaal sociaal-economische categorie;273.0;18.1
+680;Eindhoven (SG);Totaal actief;164.7;20.1
+681;Eindhoven (SG);Werknemer;149.0;20.5
+682;Eindhoven (SG);Zelfstandige;15.4;15.9
+683;Eindhoven (SG);Totaal niet-actief;108.3;15.0
+684;Eindhoven (SG);Werkloosheids- en bijstandsuitk.ontv.;12.1;12.2
+685;Eindhoven (SG);Pensioenontvanger;69.1;17.5
+686;Geleen/Sittard (SG);Totaal sociaal-economische categorie;104.0;17.3
+687;Geleen/Sittard (SG);Totaal actief;59.1;19.5
+688;Geleen/Sittard (SG);Werknemer;53.8;19.8
+689;Geleen/Sittard (SG);Zelfstandige;5.1;16.8
+690;Geleen/Sittard (SG);Totaal niet-actief;44.9;14.3
+691;Geleen/Sittard (SG);Werkloosheids- en bijstandsuitk.ontv.;4.9;12.1
+692;Geleen/Sittard (SG);Pensioenontvanger;28.2;16.1
+693;Heerlen (SG);Totaal sociaal-economische categorie;175.1;16.2
+694;Heerlen (SG);Totaal actief;94.0;18.3
+695;Heerlen (SG);Werknemer;85.6;18.6
+696;Heerlen (SG);Zelfstandige;8.2;15.0
+697;Heerlen (SG);Totaal niet-actief;81.1;13.7
+698;Heerlen (SG);Werkloosheids- en bijstandsuitk.ontv.;10.8;11.2
+699;Heerlen (SG);Pensioenontvanger;50.8;15.5
+700;Maastricht (SG);Totaal sociaal-economische categorie;124.0;17.0
+701;Maastricht (SG);Totaal actief;67.7;19.7
+702;Maastricht (SG);Werknemer;60.2;20.2
+703;Maastricht (SG);Zelfstandige;7.4;15.6
+704;Maastricht (SG);Totaal niet-actief;56.3;13.8
+705;Maastricht (SG);Werkloosheids- en bijstandsuitk.ontv.;5.9;11.7
+706;Maastricht (SG);Pensioenontvanger;34.5;15.9
+707;Aa en Hunze;Totaal sociaal-economische categorie;17.2;17.7
+708;Aa en Hunze;Totaal actief;10.6;19.5
+709;Aa en Hunze;Werknemer;9.0;20.3
+710;Aa en Hunze;Zelfstandige;1.5;14.8
+711;Aa en Hunze;Totaal niet-actief;6.7;14.8
+712;Aa en Hunze;Werkloosheids- en bijstandsuitk.ontv.;0.4;12.8
+713;Aa en Hunze;Pensioenontvanger;4.9;16.3
+714;Aalburg;Totaal sociaal-economische categorie;7.3;17.9
+715;Aalburg;Totaal actief;5.0;19.4
+716;Aalburg;Werknemer;4.1;19.7
+717;Aalburg;Zelfstandige;0.9;18.1
+718;Aalburg;Totaal niet-actief;2.2;14.5
+719;Aalburg;Werkloosheids- en bijstandsuitk.ontv.;;
+720;Aalburg;Pensioenontvanger;1.7;15.7
+721;Aalsmeer;Totaal sociaal-economische categorie;15.9;19.2
+722;Aalsmeer;Totaal actief;10.5;21.3
+723;Aalsmeer;Werknemer;9.4;21.6
+724;Aalsmeer;Zelfstandige;1.1;18.2
+725;Aalsmeer;Totaal niet-actief;5.4;15.1
+726;Aalsmeer;Werkloosheids- en bijstandsuitk.ontv.;0.3;14.2
+727;Aalsmeer;Pensioenontvanger;3.9;16.5
+728;Aalten;Totaal sociaal-economische categorie;18.0;16.1
+729;Aalten;Totaal actief;11.6;17.5
+730;Aalten;Werknemer;10.1;17.7
+731;Aalten;Zelfstandige;1.4;16.6
+732;Aalten;Totaal niet-actief;6.4;13.5
+733;Aalten;Werkloosheids- en bijstandsuitk.ontv.;0.4;12.5
+734;Aalten;Pensioenontvanger;4.8;14.4
+735;Abcoude;Totaal sociaal-economische categorie;5.6;24.3
+736;Abcoude;Totaal actief;3.7;27.1
+737;Abcoude;Werknemer;3.0;28.6
+738;Abcoude;Zelfstandige;0.7;20.6
+739;Abcoude;Totaal niet-actief;1.8;18.8
+740;Abcoude;Werkloosheids- en bijstandsuitk.ontv.;;
+741;Abcoude;Pensioenontvanger;1.4;21.2
+742;Achtkarspelen;Totaal sociaal-economische categorie;18.0;15.5
+743;Achtkarspelen;Totaal actief;10.9;17.3
+744;Achtkarspelen;Werknemer;9.5;17.4
+745;Achtkarspelen;Zelfstandige;1.4;16.9
+746;Achtkarspelen;Totaal niet-actief;7.0;12.7
+747;Achtkarspelen;Werkloosheids- en bijstandsuitk.ontv.;0.9;11.0
+748;Achtkarspelen;Pensioenontvanger;4.3;13.8
+749;Alblasserdam;Totaal sociaal-economische categorie;11.7;17.1
+750;Alblasserdam;Totaal actief;7.2;19.0
+751;Alblasserdam;Werknemer;6.7;19.1
+752;Alblasserdam;Zelfstandige;0.6;17.8
+753;Alblasserdam;Totaal niet-actief;4.5;14.0
+754;Alblasserdam;Werkloosheids- en bijstandsuitk.ontv.;0.3;12.4
+755;Alblasserdam;Pensioenontvanger;3.4;15.2
+756;Albrandswaard;Totaal sociaal-economische categorie;13.6;20.4
+757;Albrandswaard;Totaal actief;9.3;22.4
+758;Albrandswaard;Werknemer;8.5;22.5
+759;Albrandswaard;Zelfstandige;0.7;20.9
+760;Albrandswaard;Totaal niet-actief;4.3;16.2
+761;Albrandswaard;Werkloosheids- en bijstandsuitk.ontv.;0.3;14.1
+762;Albrandswaard;Pensioenontvanger;3.1;18.3
+763;Alkemade;Totaal sociaal-economische categorie;9.6;17.5
+764;Alkemade;Totaal actief;6.8;19.1
+765;Alkemade;Werknemer;5.8;19.7
+766;Alkemade;Zelfstandige;0.9;15.5
+767;Alkemade;Totaal niet-actief;2.8;13.6
+768;Alkemade;Werkloosheids- en bijstandsuitk.ontv.;;
+769;Alkemade;Pensioenontvanger;2.0;15.0
+770;Alkmaar;Totaal sociaal-economische categorie;64.6;17.3
+771;Alkmaar;Totaal actief;40.5;19.1
+772;Alkmaar;Werknemer;37.0;19.4
+773;Alkmaar;Zelfstandige;3.4;16.0
+774;Alkmaar;Totaal niet-actief;24.1;14.2
+775;Alkmaar;Werkloosheids- en bijstandsuitk.ontv.;2.8;12.5
+776;Alkmaar;Pensioenontvanger;14.1;16.3
+777;Almelo;Totaal sociaal-economische categorie;47.5;16.0
+778;Almelo;Totaal actief;27.3;18.0
+779;Almelo;Werknemer;24.6;18.3
+780;Almelo;Zelfstandige;2.7;15.6
+781;Almelo;Totaal niet-actief;20.2;13.4
+782;Almelo;Werkloosheids- en bijstandsuitk.ontv.;3.4;11.2
+783;Almelo;Pensioenontvanger;11.7;15.3
+784;Almere;Totaal sociaal-economische categorie;107.8;17.9
+785;Almere;Totaal actief;77.3;19.8
+786;Almere;Werknemer;71.6;20.1
+787;Almere;Zelfstandige;5.6;15.8
+788;Almere;Totaal niet-actief;30.5;13.1
+789;Almere;Werkloosheids- en bijstandsuitk.ontv.;5.7;12.5
+790;Almere;Pensioenontvanger;14.8;15.4
+791;Alphen aan den Rijn;Totaal sociaal-economische categorie;47.2;18.7
+792;Alphen aan den Rijn;Totaal actief;32.9;20.4
+793;Alphen aan den Rijn;Werknemer;30.2;20.7
+794;Alphen aan den Rijn;Zelfstandige;2.6;16.9
+795;Alphen aan den Rijn;Totaal niet-actief;14.3;14.7
+796;Alphen aan den Rijn;Werkloosheids- en bijstandsuitk.ontv.;1.2;12.5
+797;Alphen aan den Rijn;Pensioenontvanger;9.1;17.2
+798;Alphen-Chaam;Totaal sociaal-economische categorie;6.4;17.2
+799;Alphen-Chaam;Totaal actief;4.3;18.5
+800;Alphen-Chaam;Werknemer;3.4;19.9
+801;Alphen-Chaam;Zelfstandige;0.8;12.5
+802;Alphen-Chaam;Totaal niet-actief;2.1;14.6
+803;Alphen-Chaam;Werkloosheids- en bijstandsuitk.ontv.;;
+804;Alphen-Chaam;Pensioenontvanger;1.6;15.8
+805;Ambt Montfort;Totaal sociaal-economische categorie;7.3;16.7
+806;Ambt Montfort;Totaal actief;4.5;18.4
+807;Ambt Montfort;Werknemer;3.9;19.0
+808;Ambt Montfort;Zelfstandige;0.6;14.7
+809;Ambt Montfort;Totaal niet-actief;2.8;14.0
+810;Ambt Montfort;Werkloosheids- en bijstandsuitk.ontv.;;
+811;Ambt Montfort;Pensioenontvanger;1.9;15.3
+812;Ameland;Totaal sociaal-economische categorie;2.4;15.9
+813;Ameland;Totaal actief;1.6;16.1
+814;Ameland;Werknemer;1.2;16.6
+815;Ameland;Zelfstandige;0.4;14.4
+816;Ameland;Totaal niet-actief;0.7;15.4
+817;Ameland;Werkloosheids- en bijstandsuitk.ontv.;;
+818;Ameland;Pensioenontvanger;0.5;16.8
+819;Amerongen;Totaal sociaal-economische categorie;4.6;19.1
+820;Amerongen;Totaal actief;2.8;20.7
+821;Amerongen;Werknemer;2.4;21.2
+822;Amerongen;Zelfstandige;0.5;18.2
+823;Amerongen;Totaal niet-actief;1.8;16.6
+824;Amerongen;Werkloosheids- en bijstandsuitk.ontv.;;
+825;Amerongen;Pensioenontvanger;1.3;18.0
+826;Amersfoort;Totaal sociaal-economische categorie;88.3;19.0
+827;Amersfoort;Totaal actief;58.3;21.1
+828;Amersfoort;Werknemer;53.6;21.4
+829;Amersfoort;Zelfstandige;4.6;17.6
+830;Amersfoort;Totaal niet-actief;30.0;14.9
+831;Amersfoort;Werkloosheids- en bijstandsuitk.ontv.;3.6;12.5
+832;Amersfoort;Pensioenontvanger;18.3;17.3
+833;Amstelveen;Totaal sociaal-economische categorie;53.1;22.1
+834;Amstelveen;Totaal actief;31.5;25.4
+835;Amstelveen;Werknemer;28.3;26.2
+836;Amstelveen;Zelfstandige;3.1;18.1
+837;Amstelveen;Totaal niet-actief;21.7;17.3
+838;Amstelveen;Werkloosheids- en bijstandsuitk.ontv.;1.2;13.6
+839;Amstelveen;Pensioenontvanger;15.6;19.5
+840;Amsterdam;Totaal sociaal-economische categorie;472.9;18.6
+841;Amsterdam;Totaal actief;282.2;21.9
+842;Amsterdam;Werknemer;243.4;22.9
+843;Amsterdam;Zelfstandige;38.4;15.5
+844;Amsterdam;Totaal niet-actief;190.6;13.7
+845;Amsterdam;Werkloosheids- en bijstandsuitk.ontv.;44.0;11.9
+846;Amsterdam;Pensioenontvanger;91.7;16.1
+847;Andijk;Totaal sociaal-economische categorie;4.2;16.8
+848;Andijk;Totaal actief;2.9;18.6
+849;Andijk;Werknemer;2.4;18.9
+850;Andijk;Zelfstandige;0.5;16.6
+851;Andijk;Totaal niet-actief;1.3;12.8
+852;Andijk;Werkloosheids- en bijstandsuitk.ontv.;;
+853;Andijk;Pensioenontvanger;0.9;14.2
+854;Anna Paulowna;Totaal sociaal-economische categorie;9.0;15.9
+855;Anna Paulowna;Totaal actief;6.1;16.9
+856;Anna Paulowna;Werknemer;5.3;18.2
+857;Anna Paulowna;Zelfstandige;0.8;8.8
+858;Anna Paulowna;Totaal niet-actief;2.9;13.6
+859;Anna Paulowna;Werkloosheids- en bijstandsuitk.ontv.;;
+860;Anna Paulowna;Pensioenontvanger;2.0;15.1
+861;Apeldoorn;Totaal sociaal-economische categorie;106.8;17.6
+862;Apeldoorn;Totaal actief;65.0;19.3
+863;Apeldoorn;Werknemer;59.8;19.6
+864;Apeldoorn;Zelfstandige;5.1;15.9
+865;Apeldoorn;Totaal niet-actief;41.8;14.8
+866;Apeldoorn;Werkloosheids- en bijstandsuitk.ontv.;3.9;12.2
+867;Apeldoorn;Pensioenontvanger;27.8;16.9
+868;Appingedam;Totaal sociaal-economische categorie;8.5;16.0
+869;Appingedam;Totaal actief;4.7;18.0
+870;Appingedam;Werknemer;4.3;18.6
+871;Appingedam;Zelfstandige;0.4;12.2
+872;Appingedam;Totaal niet-actief;3.7;13.5
+873;Appingedam;Werkloosheids- en bijstandsuitk.ontv.;0.4;12.0
+874;Appingedam;Pensioenontvanger;2.5;14.8
+875;Arcen en Velden;Totaal sociaal-economische categorie;6.1;16.1
+876;Arcen en Velden;Totaal actief;4.0;17.5
+877;Arcen en Velden;Werknemer;3.5;18.3
+878;Arcen en Velden;Zelfstandige;0.5;12.2
+879;Arcen en Velden;Totaal niet-actief;2.1;13.5
+880;Arcen en Velden;Werkloosheids- en bijstandsuitk.ontv.;;
+881;Arcen en Velden;Pensioenontvanger;1.4;15.2
+882;Arnhem;Totaal sociaal-economische categorie;95.3;16.9
+883;Arnhem;Totaal actief;55.7;19.1
+884;Arnhem;Werknemer;50.6;19.4
+885;Arnhem;Zelfstandige;5.0;15.9
+886;Arnhem;Totaal niet-actief;39.7;13.8
+887;Arnhem;Werkloosheids- en bijstandsuitk.ontv.;8.3;11.1
+888;Arnhem;Pensioenontvanger;20.5;16.6
+889;Assen;Totaal sociaal-economische categorie;41.8;17.1
+890;Assen;Totaal actief;25.4;18.9
+891;Assen;Werknemer;23.5;19.0
+892;Assen;Zelfstandige;1.8;17.3
+893;Assen;Totaal niet-actief;16.4;14.4
+894;Assen;Werkloosheids- en bijstandsuitk.ontv.;2.2;11.6
+895;Assen;Pensioenontvanger;10.0;16.5
+896;Asten;Totaal sociaal-economische categorie;10.9;17.3
+897;Asten;Totaal actief;7.3;19.0
+898;Asten;Werknemer;6.2;19.8
+899;Asten;Zelfstandige;1.1;14.8
+900;Asten;Totaal niet-actief;3.6;13.9
+901;Asten;Werkloosheids- en bijstandsuitk.ontv.;0.3;13.7
+902;Asten;Pensioenontvanger;2.4;15.2
+903;Baarle-Nassau;Totaal sociaal-economische categorie;4.6;16.3
+904;Baarle-Nassau;Totaal actief;2.8;17.8
+905;Baarle-Nassau;Werknemer;2.3;19.2
+906;Baarle-Nassau;Zelfstandige;0.6;12.0
+907;Baarle-Nassau;Totaal niet-actief;1.7;14.0
+908;Baarle-Nassau;Werkloosheids- en bijstandsuitk.ontv.;;
+909;Baarle-Nassau;Pensioenontvanger;1.3;15.3
+910;Baarn;Totaal sociaal-economische categorie;16.8;19.7
+911;Baarn;Totaal actief;9.6;21.9
+912;Baarn;Werknemer;8.5;22.2
+913;Baarn;Zelfstandige;1.1;19.9
+914;Baarn;Totaal niet-actief;7.2;16.9
+915;Baarn;Werkloosheids- en bijstandsuitk.ontv.;0.5;13.0
+916;Baarn;Pensioenontvanger;4.8;19.7
+917;Barendrecht;Totaal sociaal-economische categorie;25.5;19.7
+918;Barendrecht;Totaal actief;18.3;21.6
+919;Barendrecht;Werknemer;16.8;21.8
+920;Barendrecht;Zelfstandige;1.5;19.9
+921;Barendrecht;Totaal niet-actief;7.2;14.8
+922;Barendrecht;Werkloosheids- en bijstandsuitk.ontv.;0.4;13.3
+923;Barendrecht;Pensioenontvanger;5.2;16.6
+924;Barneveld;Totaal sociaal-economische categorie;30.2;17.6
+925;Barneveld;Totaal actief;20.7;19.2
+926;Barneveld;Werknemer;17.5;19.4
+927;Barneveld;Zelfstandige;3.2;18.1
+928;Barneveld;Totaal niet-actief;9.5;14.4
+929;Barneveld;Werkloosheids- en bijstandsuitk.ontv.;0.5;12.6
+930;Barneveld;Pensioenontvanger;6.6;16.3
+931;Bedum;Totaal sociaal-economische categorie;7.0;16.8
+932;Bedum;Totaal actief;4.6;18.7
+933;Bedum;Werknemer;4.0;18.8
+934;Bedum;Zelfstandige;0.5;17.4
+935;Bedum;Totaal niet-actief;2.5;13.3
+936;Bedum;Werkloosheids- en bijstandsuitk.ontv.;;
+937;Bedum;Pensioenontvanger;1.6;14.9
+938;Beek (L.);Totaal sociaal-economische categorie;11.4;18.0
+939;Beek (L.);Totaal actief;6.8;20.0
+940;Beek (L.);Werknemer;6.2;20.5
+941;Beek (L.);Zelfstandige;0.6;15.5
+942;Beek (L.);Totaal niet-actief;4.6;15.0
+943;Beek (L.);Werkloosheids- en bijstandsuitk.ontv.;0.4;12.5
+944;Beek (L.);Pensioenontvanger;3.0;16.7
+945;Beemster;Totaal sociaal-economische categorie;5.8;18.4
+946;Beemster;Totaal actief;3.7;20.2
+947;Beemster;Werknemer;3.0;20.7
+948;Beemster;Zelfstandige;0.7;18.1
+949;Beemster;Totaal niet-actief;2.1;15.1
+950;Beemster;Werkloosheids- en bijstandsuitk.ontv.;;
+951;Beemster;Pensioenontvanger;1.5;16.9
+952;Beesel;Totaal sociaal-economische categorie;8.9;16.3
+953;Beesel;Totaal actief;5.8;18.0
+954;Beesel;Werknemer;5.2;18.3
+955;Beesel;Zelfstandige;0.5;16.2
+956;Beesel;Totaal niet-actief;3.1;13.2
+957;Beesel;Werkloosheids- en bijstandsuitk.ontv.;0.3;12.4
+958;Beesel;Pensioenontvanger;2.1;14.7
+959;Bellingwedde;Totaal sociaal-economische categorie;6.4;15.5
+960;Bellingwedde;Totaal actief;3.4;17.4
+961;Bellingwedde;Werknemer;2.8;18.3
+962;Bellingwedde;Zelfstandige;0.6;13.3
+963;Bellingwedde;Totaal niet-actief;3.0;13.3
+964;Bellingwedde;Werkloosheids- en bijstandsuitk.ontv.;0.3;11.1
+965;Bellingwedde;Pensioenontvanger;2.0;14.2
+966;Bennebroek;Totaal sociaal-economische categorie;3.6;22.9
+967;Bennebroek;Totaal actief;1.9;25.8
+968;Bennebroek;Werknemer;1.7;26.4
+969;Bennebroek;Zelfstandige;0.2;21.0
+970;Bennebroek;Totaal niet-actief;1.7;19.8
+971;Bennebroek;Werkloosheids- en bijstandsuitk.ontv.;;
+972;Bennebroek;Pensioenontvanger;1.4;21.2
+973;Bergambacht;Totaal sociaal-economische categorie;5.9;19.4
+974;Bergambacht;Totaal actief;4.0;21.5
+975;Bergambacht;Werknemer;3.5;21.1
+976;Bergambacht;Zelfstandige;0.5;24.3
+977;Bergambacht;Totaal niet-actief;1.9;15.2
+978;Bergambacht;Werkloosheids- en bijstandsuitk.ontv.;;
+979;Bergambacht;Pensioenontvanger;1.5;16.6
+980;Bergeijk;Totaal sociaal-economische categorie;12.1;17.3
+981;Bergeijk;Totaal actief;8.0;18.8
+982;Bergeijk;Werknemer;6.7;19.4
+983;Bergeijk;Zelfstandige;1.3;15.4
+984;Bergeijk;Totaal niet-actief;4.2;14.6
+985;Bergeijk;Werkloosheids- en bijstandsuitk.ontv.;0.3;14.1
+986;Bergeijk;Pensioenontvanger;2.9;16.3
+987;Bergen (L.);Totaal sociaal-economische categorie;9.0;15.9
+988;Bergen (L.);Totaal actief;5.8;17.5
+989;Bergen (L.);Werknemer;5.1;18.0
+990;Bergen (L.);Zelfstandige;0.7;13.7
+991;Bergen (L.);Totaal niet-actief;3.2;12.9
+992;Bergen (L.);Werkloosheids- en bijstandsuitk.ontv.;;
+993;Bergen (L.);Pensioenontvanger;2.2;13.9
+994;Bergen (NH.);Totaal sociaal-economische categorie;21.6;19.9
+995;Bergen (NH.);Totaal actief;12.4;22.0
+996;Bergen (NH.);Werknemer;10.3;22.9
+997;Bergen (NH.);Zelfstandige;2.1;17.7
+998;Bergen (NH.);Totaal niet-actief;9.2;17.1
+999;Bergen (NH.);Werkloosheids- en bijstandsuitk.ontv.;0.4;13.9
+1000;Bergen (NH.);Pensioenontvanger;7.0;18.6
+1001;Bergen op Zoom;Totaal sociaal-economische categorie;43.8;17.4
+1002;Bergen op Zoom;Totaal actief;27.0;19.4
+1003;Bergen op Zoom;Werknemer;24.5;19.9
+1004;Bergen op Zoom;Zelfstandige;2.5;14.3
+1005;Bergen op Zoom;Totaal niet-actief;16.8;14.2
+1006;Bergen op Zoom;Werkloosheids- en bijstandsuitk.ontv.;1.8;11.7
+1007;Bergen op Zoom;Pensioenontvanger;11.2;15.8
+1008;Bergschenhoek;Totaal sociaal-economische categorie;9.9;20.5
+1009;Bergschenhoek;Totaal actief;7.6;22.2
+1010;Bergschenhoek;Werknemer;6.9;23.1
+1011;Bergschenhoek;Zelfstandige;0.7;12.9
+1012;Bergschenhoek;Totaal niet-actief;2.3;14.7
+1013;Bergschenhoek;Werkloosheids- en bijstandsuitk.ontv.;;
+1014;Bergschenhoek;Pensioenontvanger;1.6;16.7
+1015;Berkel en Rodenrijs;Totaal sociaal-economische categorie;11.8;19.0
+1016;Berkel en Rodenrijs;Totaal actief;8.0;20.7
+1017;Berkel en Rodenrijs;Werknemer;7.0;21.8
+1018;Berkel en Rodenrijs;Zelfstandige;1.0;12.6
+1019;Berkel en Rodenrijs;Totaal niet-actief;3.8;15.4
+1020;Berkel en Rodenrijs;Werkloosheids- en bijstandsuitk.ontv.;0.3;11.8
+1021;Berkel en Rodenrijs;Pensioenontvanger;2.7;17.5
+1022;Berkelland;Totaal sociaal-economische categorie;30.7;16.3
+1023;Berkelland;Totaal actief;19.5;17.7
+1024;Berkelland;Werknemer;16.4;18.5
+1025;Berkelland;Zelfstandige;3.1;13.5
+1026;Berkelland;Totaal niet-actief;11.2;13.8
+1027;Berkelland;Werkloosheids- en bijstandsuitk.ontv.;0.7;12.6
+1028;Berkelland;Pensioenontvanger;8.1;15.0
+1029;Bernheze;Totaal sociaal-economische categorie;19.3;17.5
+1030;Bernheze;Totaal actief;12.9;19.4
+1031;Bernheze;Werknemer;11.0;19.7
+1032;Bernheze;Zelfstandige;1.9;17.1
+1033;Bernheze;Totaal niet-actief;6.4;13.8
+1034;Bernheze;Werkloosheids- en bijstandsuitk.ontv.;0.4;13.6
+1035;Bernheze;Pensioenontvanger;4.2;15.1
+1036;Bernisse;Totaal sociaal-economische categorie;8.3;19.1
+1037;Bernisse;Totaal actief;5.6;20.7
+1038;Bernisse;Werknemer;4.9;21.2
+1039;Bernisse;Zelfstandige;0.7;16.3
+1040;Bernisse;Totaal niet-actief;2.8;15.9
+1041;Bernisse;Werkloosheids- en bijstandsuitk.ontv.;;
+1042;Bernisse;Pensioenontvanger;2.1;17.4
+1043;Best;Totaal sociaal-economische categorie;19.1;18.4
+1044;Best;Totaal actief;13.1;20.3
+1045;Best;Werknemer;11.9;20.7
+1046;Best;Zelfstandige;1.1;15.7
+1047;Best;Totaal niet-actief;6.1;14.3
+1048;Best;Werkloosheids- en bijstandsuitk.ontv.;0.6;13.1
+1049;Best;Pensioenontvanger;4.0;16.2
+1050;Beuningen;Totaal sociaal-economische categorie;16.6;17.8
+1051;Beuningen;Totaal actief;11.6;19.5
+1052;Beuningen;Werknemer;10.4;19.8
+1053;Beuningen;Zelfstandige;1.2;17.3
+1054;Beuningen;Totaal niet-actief;5.0;13.7
+1055;Beuningen;Werkloosheids- en bijstandsuitk.ontv.;0.5;12.5
+1056;Beuningen;Pensioenontvanger;3.3;15.6
+1057;Beverwijk;Totaal sociaal-economische categorie;25.8;17.5
+1058;Beverwijk;Totaal actief;15.8;19.4
+1059;Beverwijk;Werknemer;14.5;19.6
+1060;Beverwijk;Zelfstandige;1.3;17.4
+1061;Beverwijk;Totaal niet-actief;10.0;14.4
+1062;Beverwijk;Werkloosheids- en bijstandsuitk.ontv.;0.8;12.1
+1063;Beverwijk;Pensioenontvanger;6.6;16.1
+1064;Binnenmaas;Totaal sociaal-economische categorie;13.1;19.6
+1065;Binnenmaas;Totaal actief;9.0;21.2
+1066;Binnenmaas;Werknemer;8.0;21.4
+1067;Binnenmaas;Zelfstandige;1.0;19.1
+1068;Binnenmaas;Totaal niet-actief;4.1;16.1
+1069;Binnenmaas;Werkloosheids- en bijstandsuitk.ontv.;;
+1070;Binnenmaas;Pensioenontvanger;3.3;17.6
+1071;Bladel;Totaal sociaal-economische categorie;12.7;17.4
+1072;Bladel;Totaal actief;8.5;18.9
+1073;Bladel;Werknemer;7.4;19.4
+1074;Bladel;Zelfstandige;1.1;15.7
+1075;Bladel;Totaal niet-actief;4.2;14.2
+1076;Bladel;Werkloosheids- en bijstandsuitk.ontv.;0.2;13.5
+1077;Bladel;Pensioenontvanger;2.9;15.7
+1078;Blaricum;Totaal sociaal-economische categorie;6.0;26.9
+1079;Blaricum;Totaal actief;3.7;30.6
+1080;Blaricum;Werknemer;3.1;32.8
+1081;Blaricum;Zelfstandige;0.6;20.2
+1082;Blaricum;Totaal niet-actief;2.3;20.8
+1083;Blaricum;Werkloosheids- en bijstandsuitk.ontv.;;
+1084;Blaricum;Pensioenontvanger;1.7;24.0
+1085;Bleiswijk;Totaal sociaal-economische categorie;6.4;19.7
+1086;Bleiswijk;Totaal actief;4.5;21.1
+1087;Bleiswijk;Werknemer;4.0;22.0
+1088;Bleiswijk;Zelfstandige;0.6;14.9
+1089;Bleiswijk;Totaal niet-actief;1.9;16.5
+1090;Bleiswijk;Werkloosheids- en bijstandsuitk.ontv.;;
+1091;Bleiswijk;Pensioenontvanger;1.3;18.9
+1092;Bloemendaal;Totaal sociaal-economische categorie;10.9;28.0
+1093;Bloemendaal;Totaal actief;6.1;31.5
+1094;Bloemendaal;Werknemer;5.2;32.4
+1095;Bloemendaal;Zelfstandige;0.9;26.0
+1096;Bloemendaal;Totaal niet-actief;4.8;23.5
+1097;Bloemendaal;Werkloosheids- en bijstandsuitk.ontv.;;
+1098;Bloemendaal;Pensioenontvanger;3.9;26.3
+1099;Boarnsterhim;Totaal sociaal-economische categorie;12.5;16.5
+1100;Boarnsterhim;Totaal actief;8.4;17.7
+1101;Boarnsterhim;Werknemer;6.9;18.9
+1102;Boarnsterhim;Zelfstandige;1.5;12.6
+1103;Boarnsterhim;Totaal niet-actief;4.1;13.9
+1104;Boarnsterhim;Werkloosheids- en bijstandsuitk.ontv.;0.4;13.1
+1105;Boarnsterhim;Pensioenontvanger;2.9;14.9
+1106;Bodegraven;Totaal sociaal-economische categorie;12.4;18.9
+1107;Bodegraven;Totaal actief;8.6;20.7
+1108;Bodegraven;Werknemer;7.6;20.9
+1109;Bodegraven;Zelfstandige;1.0;19.4
+1110;Bodegraven;Totaal niet-actief;3.8;15.0
+1111;Bodegraven;Werkloosheids- en bijstandsuitk.ontv.;;
+1112;Bodegraven;Pensioenontvanger;2.6;17.5
+1113;Boekel;Totaal sociaal-economische categorie;6.2;16.2
+1114;Boekel;Totaal actief;4.1;18.0
+1115;Boekel;Werknemer;3.4;18.5
+1116;Boekel;Zelfstandige;0.8;15.6
+1117;Boekel;Totaal niet-actief;2.0;12.6
+1118;Boekel;Werkloosheids- en bijstandsuitk.ontv.;;
+1119;Boekel;Pensioenontvanger;1.3;14.0
+1120;Bolsward;Totaal sociaal-economische categorie;6.3;16.1
+1121;Bolsward;Totaal actief;3.8;17.7
+1122;Bolsward;Werknemer;3.4;18.1
+1123;Bolsward;Zelfstandige;0.4;14.7
+1124;Bolsward;Totaal niet-actief;2.5;13.6
+1125;Bolsward;Werkloosheids- en bijstandsuitk.ontv.;0.2;12.3
+1126;Bolsward;Pensioenontvanger;1.8;14.9
+1127;Borger-Odoorn;Totaal sociaal-economische categorie;17.4;16.0
+1128;Borger-Odoorn;Totaal actief;10.4;17.4
+1129;Borger-Odoorn;Werknemer;8.8;18.5
+1130;Borger-Odoorn;Zelfstandige;1.6;11.3
+1131;Borger-Odoorn;Totaal niet-actief;7.0;13.9
+1132;Borger-Odoorn;Werkloosheids- en bijstandsuitk.ontv.;0.6;13.0
+1133;Borger-Odoorn;Pensioenontvanger;4.9;15.0
+1134;Borne;Totaal sociaal-economische categorie;13.4;17.6
+1135;Borne;Totaal actief;8.7;19.4
+1136;Borne;Werknemer;7.7;19.7
+1137;Borne;Zelfstandige;1.0;17.2
+1138;Borne;Totaal niet-actief;4.8;14.5
+1139;Borne;Werkloosheids- en bijstandsuitk.ontv.;0.3;13.1
+1140;Borne;Pensioenontvanger;3.4;16.2
+1141;Borsele;Totaal sociaal-economische categorie;14.6;17.6
+1142;Borsele;Totaal actief;9.8;18.9
+1143;Borsele;Werknemer;8.4;19.2
+1144;Borsele;Zelfstandige;1.4;17.4
+1145;Borsele;Totaal niet-actief;4.7;14.9
+1146;Borsele;Werkloosheids- en bijstandsuitk.ontv.;0.2;13.6
+1147;Borsele;Pensioenontvanger;3.6;16.3
+1148;Boskoop;Totaal sociaal-economische categorie;9.8;18.6
+1149;Boskoop;Totaal actief;6.9;20.2
+1150;Boskoop;Werknemer;5.7;20.3
+1151;Boskoop;Zelfstandige;1.2;19.6
+1152;Boskoop;Totaal niet-actief;2.9;14.8
+1153;Boskoop;Werkloosheids- en bijstandsuitk.ontv.;0.2;12.4
+1154;Boskoop;Pensioenontvanger;2.1;16.7
+1155;Boxmeer;Totaal sociaal-economische categorie;19.6;17.2
+1156;Boxmeer;Totaal actief;13.0;18.8
+1157;Boxmeer;Werknemer;11.3;19.3
+1158;Boxmeer;Zelfstandige;1.6;14.7
+1159;Boxmeer;Totaal niet-actief;6.7;14.2
+1160;Boxmeer;Werkloosheids- en bijstandsuitk.ontv.;0.4;13.7
+1161;Boxmeer;Pensioenontvanger;4.6;15.7
+1162;Boxtel;Totaal sociaal-economische categorie;19.8;17.7
+1163;Boxtel;Totaal actief;12.7;19.5
+1164;Boxtel;Werknemer;11.2;19.9
+1165;Boxtel;Zelfstandige;1.4;16.0
+1166;Boxtel;Totaal niet-actief;7.1;14.5
+1167;Boxtel;Werkloosheids- en bijstandsuitk.ontv.;0.6;12.5
+1168;Boxtel;Pensioenontvanger;4.7;16.5
+1169;Breda;Totaal sociaal-economische categorie;113.7;17.9
+1170;Breda;Totaal actief;69.4;20.2
+1171;Breda;Werknemer;62.8;20.5
+1172;Breda;Zelfstandige;6.6;16.9
+1173;Breda;Totaal niet-actief;44.3;14.4
+1174;Breda;Werkloosheids- en bijstandsuitk.ontv.;5.8;11.6
+1175;Breda;Pensioenontvanger;28.1;16.8
+1176;Breukelen;Totaal sociaal-economische categorie;9.3;19.9
+1177;Breukelen;Totaal actief;6.2;22.3
+1178;Breukelen;Werknemer;5.2;23.1
+1179;Breukelen;Zelfstandige;0.9;17.8
+1180;Breukelen;Totaal niet-actief;3.2;15.4
+1181;Breukelen;Werkloosheids- en bijstandsuitk.ontv.;;
+1182;Breukelen;Pensioenontvanger;2.4;17.1
+1183;Brielle;Totaal sociaal-economische categorie;10.7;19.3
+1184;Brielle;Totaal actief;7.2;20.7
+1185;Brielle;Werknemer;6.4;21.5
+1186;Brielle;Zelfstandige;0.8;14.3
+1187;Brielle;Totaal niet-actief;3.5;16.2
+1188;Brielle;Werkloosheids- en bijstandsuitk.ontv.;0.2;13.6
+1189;Brielle;Pensioenontvanger;2.7;18.0
+1190;Bronckhorst;Totaal sociaal-economische categorie;25.4;17.1
+1191;Bronckhorst;Totaal actief;16.0;18.6
+1192;Bronckhorst;Werknemer;13.2;19.5
+1193;Bronckhorst;Zelfstandige;2.8;14.3
+1194;Bronckhorst;Totaal niet-actief;9.4;14.6
+1195;Bronckhorst;Werkloosheids- en bijstandsuitk.ontv.;0.4;13.4
+1196;Bronckhorst;Pensioenontvanger;7.2;15.8
+1197;Brummen;Totaal sociaal-economische categorie;14.4;18.1
+1198;Brummen;Totaal actief;8.9;19.9
+1199;Brummen;Werknemer;7.9;20.2
+1200;Brummen;Zelfstandige;1.0;17.4
+1201;Brummen;Totaal niet-actief;5.5;15.2
+1202;Brummen;Werkloosheids- en bijstandsuitk.ontv.;0.3;14.1
+1203;Brummen;Pensioenontvanger;3.8;16.9
+1204;Brunssum;Totaal sociaal-economische categorie;20.2;15.9
+1205;Brunssum;Totaal actief;10.8;17.8
+1206;Brunssum;Werknemer;10.0;17.9
+1207;Brunssum;Zelfstandige;0.7;15.9
+1208;Brunssum;Totaal niet-actief;9.4;13.7
+1209;Brunssum;Werkloosheids- en bijstandsuitk.ontv.;1.2;11.5
+1210;Brunssum;Pensioenontvanger;6.0;15.4
+1211;Bunnik;Totaal sociaal-economische categorie;9.5;21.2
+1212;Bunnik;Totaal actief;6.0;23.3
+1213;Bunnik;Werknemer;5.3;23.6
+1214;Bunnik;Zelfstandige;0.7;20.5
+1215;Bunnik;Totaal niet-actief;3.4;17.8
+1216;Bunnik;Werkloosheids- en bijstandsuitk.ontv.;;
+1217;Bunnik;Pensioenontvanger;2.7;19.6
+1218;Bunschoten;Totaal sociaal-economische categorie;12.3;17.0
+1219;Bunschoten;Totaal actief;8.7;18.4
+1220;Bunschoten;Werknemer;7.4;18.4
+1221;Bunschoten;Zelfstandige;1.3;18.8
+1222;Bunschoten;Totaal niet-actief;3.5;13.6
+1223;Bunschoten;Werkloosheids- en bijstandsuitk.ontv.;;
+1224;Bunschoten;Pensioenontvanger;2.4;15.4
+1225;Buren;Totaal sociaal-economische categorie;16.6;18.4
+1226;Buren;Totaal actief;11.7;20.0
+1227;Buren;Werknemer;9.7;20.9
+1228;Buren;Zelfstandige;1.9;15.5
+1229;Buren;Totaal niet-actief;4.9;14.5
+1230;Buren;Werkloosheids- en bijstandsuitk.ontv.;0.3;12.6
+1231;Buren;Pensioenontvanger;3.5;15.6
+1232;Bussum;Totaal sociaal-economische categorie;20.9;22.8
+1233;Bussum;Totaal actief;12.3;26.0
+1234;Bussum;Werknemer;10.6;27.2
+1235;Bussum;Zelfstandige;1.7;17.9
+1236;Bussum;Totaal niet-actief;8.7;18.2
+1237;Bussum;Werkloosheids- en bijstandsuitk.ontv.;0.6;12.1
+1238;Bussum;Pensioenontvanger;6.7;20.1
+1239;Capelle aan den IJssel;Totaal sociaal-economische categorie;43.8;18.9
+1240;Capelle aan den IJssel;Totaal actief;28.2;21.3
+1241;Capelle aan den IJssel;Werknemer;25.9;21.6
+1242;Capelle aan den IJssel;Zelfstandige;2.2;17.8
+1243;Capelle aan den IJssel;Totaal niet-actief;15.6;14.6
+1244;Capelle aan den IJssel;Werkloosheids- en bijstandsuitk.ontv.;2.2;12.9
+1245;Capelle aan den IJssel;Pensioenontvanger;10.4;16.2
+1246;Castricum;Totaal sociaal-economische categorie;23.8;20.0
+1247;Castricum;Totaal actief;14.9;21.5
+1248;Castricum;Werknemer;13.1;21.8
+1249;Castricum;Zelfstandige;1.7;19.5
+1250;Castricum;Totaal niet-actief;8.9;17.6
+1251;Castricum;Werkloosheids- en bijstandsuitk.ontv.;0.3;15.2
+1252;Castricum;Pensioenontvanger;6.7;19.9
+1253;Coevorden;Totaal sociaal-economische categorie;24.3;16.0
+1254;Coevorden;Totaal actief;14.3;17.6
+1255;Coevorden;Werknemer;12.3;18.4
+1256;Coevorden;Zelfstandige;2.0;12.8
+1257;Coevorden;Totaal niet-actief;10.0;13.7
+1258;Coevorden;Werkloosheids- en bijstandsuitk.ontv.;1.1;11.6
+1259;Coevorden;Pensioenontvanger;6.9;15.2
+1260;Cranendonck;Totaal sociaal-economische categorie;13.3;17.7
+1261;Cranendonck;Totaal actief;8.6;19.6
+1262;Cranendonck;Werknemer;7.6;19.6
+1263;Cranendonck;Zelfstandige;1.0;19.6
+1264;Cranendonck;Totaal niet-actief;4.7;14.3
+1265;Cranendonck;Werkloosheids- en bijstandsuitk.ontv.;0.4;13.4
+1266;Cranendonck;Pensioenontvanger;3.3;15.8
+1267;Cromstrijen;Totaal sociaal-economische categorie;8.8;18.7
+1268;Cromstrijen;Totaal actief;6.0;20.5
+1269;Cromstrijen;Werknemer;5.3;21.2
+1270;Cromstrijen;Zelfstandige;0.6;15.2
+1271;Cromstrijen;Totaal niet-actief;2.8;14.7
+1272;Cromstrijen;Werkloosheids- en bijstandsuitk.ontv.;;
+1273;Cromstrijen;Pensioenontvanger;2.1;16.0
+1274;Cuijk;Totaal sociaal-economische categorie;16.0;16.9
+1275;Cuijk;Totaal actief;10.3;18.6
+1276;Cuijk;Werknemer;9.4;18.7
+1277;Cuijk;Zelfstandige;0.9;18.0
+1278;Cuijk;Totaal niet-actief;5.7;13.7
+1279;Cuijk;Werkloosheids- en bijstandsuitk.ontv.;0.6;13.4
+1280;Cuijk;Pensioenontvanger;3.5;15.3
+1281;Culemborg;Totaal sociaal-economische categorie;17.3;18.7
+1282;Culemborg;Totaal actief;11.9;20.8
+1283;Culemborg;Werknemer;10.8;21.1
+1284;Culemborg;Zelfstandige;1.0;16.7
+1285;Culemborg;Totaal niet-actief;5.5;14.2
+1286;Culemborg;Werkloosheids- en bijstandsuitk.ontv.;0.6;11.9
+1287;Culemborg;Pensioenontvanger;3.5;16.3
+1288;Dalfsen;Totaal sociaal-economische categorie;17.3;17.3
+1289;Dalfsen;Totaal actief;11.5;18.6
+1290;Dalfsen;Werknemer;9.7;18.9
+1291;Dalfsen;Zelfstandige;1.8;17.3
+1292;Dalfsen;Totaal niet-actief;5.8;14.7
+1293;Dalfsen;Werkloosheids- en bijstandsuitk.ontv.;0.3;13.9
+1294;Dalfsen;Pensioenontvanger;4.3;15.9
+1295;Dantumadeel;Totaal sociaal-economische categorie;12.2;15.6
+1296;Dantumadeel;Totaal actief;7.4;17.4
+1297;Dantumadeel;Werknemer;6.3;17.5
+1298;Dantumadeel;Zelfstandige;1.0;17.2
+1299;Dantumadeel;Totaal niet-actief;4.9;13.0
+1300;Dantumadeel;Werkloosheids- en bijstandsuitk.ontv.;0.5;10.9
+1301;Dantumadeel;Pensioenontvanger;3.3;14.0
+1302;De Bilt;Totaal sociaal-economische categorie;28.3;22.4
+1303;De Bilt;Totaal actief;16.8;24.7
+1304;De Bilt;Werknemer;14.7;25.5
+1305;De Bilt;Zelfstandige;2.0;19.0
+1306;De Bilt;Totaal niet-actief;11.5;19.0
+1307;De Bilt;Werkloosheids- en bijstandsuitk.ontv.;0.5;15.2
+1308;De Bilt;Pensioenontvanger;9.0;21.1
+1309;De Marne;Totaal sociaal-economische categorie;7.4;15.5
+1310;De Marne;Totaal actief;4.6;16.8
+1311;De Marne;Werknemer;3.6;17.8
+1312;De Marne;Zelfstandige;0.9;13.1
+1313;De Marne;Totaal niet-actief;2.8;13.3
+1314;De Marne;Werkloosheids- en bijstandsuitk.ontv.;0.3;11.6
+1315;De Marne;Pensioenontvanger;2.0;14.3
+1316;De Ronde Venen;Totaal sociaal-economische categorie;22.5;20.2
+1317;De Ronde Venen;Totaal actief;15.6;22.3
+1318;De Ronde Venen;Werknemer;13.8;22.7
+1319;De Ronde Venen;Zelfstandige;1.8;18.8
+1320;De Ronde Venen;Totaal niet-actief;6.9;15.6
+1321;De Ronde Venen;Werkloosheids- en bijstandsuitk.ontv.;0.4;13.3
+1322;De Ronde Venen;Pensioenontvanger;4.9;17.5
+1323;De Wolden;Totaal sociaal-economische categorie;15.8;16.8
+1324;De Wolden;Totaal actief;10.0;18.2
+1325;De Wolden;Werknemer;8.0;19.1
+1326;De Wolden;Zelfstandige;2.0;14.7
+1327;De Wolden;Totaal niet-actief;5.7;14.4
+1328;De Wolden;Werkloosheids- en bijstandsuitk.ontv.;0.3;13.5
+1329;De Wolden;Pensioenontvanger;4.4;15.2
+1330;Delft;Totaal sociaal-economische categorie;62.4;17.6
+1331;Delft;Totaal actief;37.0;20.2
+1332;Delft;Werknemer;34.2;20.4
+1333;Delft;Zelfstandige;2.8;17.1
+1334;Delft;Totaal niet-actief;25.4;13.8
+1335;Delft;Werkloosheids- en bijstandsuitk.ontv.;3.5;12.3
+1336;Delft;Pensioenontvanger;14.2;16.7
+1337;Delfzijl;Totaal sociaal-economische categorie;18.6;16.4
+1338;Delfzijl;Totaal actief;10.3;18.7
+1339;Delfzijl;Werknemer;9.1;19.0
+1340;Delfzijl;Zelfstandige;1.2;16.6
+1341;Delfzijl;Totaal niet-actief;8.3;13.6
+1342;Delfzijl;Werkloosheids- en bijstandsuitk.ontv.;1.1;11.1
+1343;Delfzijl;Pensioenontvanger;5.6;14.9
+1344;Den Helder;Totaal sociaal-economische categorie;40.5;16.5
+1345;Den Helder;Totaal actief;23.5;17.8
+1346;Den Helder;Werknemer;21.7;18.2
+1347;Den Helder;Zelfstandige;1.7;12.4
+1348;Den Helder;Totaal niet-actief;17.0;14.6
+1349;Den Helder;Werkloosheids- en bijstandsuitk.ontv.;2.3;12.9
+1350;Den Helder;Pensioenontvanger;10.8;16.5
+1351;Deurne;Totaal sociaal-economische categorie;21.3;17.0
+1352;Deurne;Totaal actief;13.6;19.1
+1353;Deurne;Werknemer;11.8;19.4
+1354;Deurne;Zelfstandige;1.8;17.1
+1355;Deurne;Totaal niet-actief;7.7;13.5
+1356;Deurne;Werkloosheids- en bijstandsuitk.ontv.;0.6;12.3
+1357;Deurne;Pensioenontvanger;5.0;15.2
+1358;Deventer;Totaal sociaal-economische categorie;63.1;16.9
+1359;Deventer;Totaal actief;38.7;18.7
+1360;Deventer;Werknemer;35.4;19.0
+1361;Deventer;Zelfstandige;3.2;16.2
+1362;Deventer;Totaal niet-actief;24.4;14.0
+1363;Deventer;Werkloosheids- en bijstandsuitk.ontv.;2.7;11.5
+1364;Deventer;Pensioenontvanger;15.1;16.1
+1365;Diemen;Totaal sociaal-economische categorie;15.7;19.5
+1366;Diemen;Totaal actief;10.1;22.0
+1367;Diemen;Werknemer;9.0;22.9
+1368;Diemen;Zelfstandige;1.2;15.4
+1369;Diemen;Totaal niet-actief;5.5;14.7
+1370;Diemen;Werkloosheids- en bijstandsuitk.ontv.;0.6;12.2
+1371;Diemen;Pensioenontvanger;3.5;17.0
+1372;Dinkelland;Totaal sociaal-economische categorie;16.9;16.7
+1373;Dinkelland;Totaal actief;11.0;18.4
+1374;Dinkelland;Werknemer;9.1;19.1
+1375;Dinkelland;Zelfstandige;1.9;15.0
+1376;Dinkelland;Totaal niet-actief;5.9;13.6
+1377;Dinkelland;Werkloosheids- en bijstandsuitk.ontv.;;
+1378;Dinkelland;Pensioenontvanger;4.5;14.7
+1379;Dirksland;Totaal sociaal-economische categorie;5.3;17.5
+1380;Dirksland;Totaal actief;3.5;19.4
+1381;Dirksland;Werknemer;3.0;20.1
+1382;Dirksland;Zelfstandige;0.5;15.2
+1383;Dirksland;Totaal niet-actief;1.8;13.8
+1384;Dirksland;Werkloosheids- en bijstandsuitk.ontv.;;
+1385;Dirksland;Pensioenontvanger;1.4;14.9
+1386;Doesburg;Totaal sociaal-economische categorie;7.5;16.7
+1387;Doesburg;Totaal actief;4.7;18.3
+1388;Doesburg;Werknemer;4.2;19.1
+1389;Doesburg;Zelfstandige;0.5;12.4
+1390;Doesburg;Totaal niet-actief;2.8;14.0
+1391;Doesburg;Werkloosheids- en bijstandsuitk.ontv.;0.4;12.6
+1392;Doesburg;Pensioenontvanger;1.7;15.3
+1393;Doetinchem;Totaal sociaal-economische categorie;38.0;16.7
+1394;Doetinchem;Totaal actief;23.8;18.4
+1395;Doetinchem;Werknemer;21.3;18.7
+1396;Doetinchem;Zelfstandige;2.4;15.7
+1397;Doetinchem;Totaal niet-actief;14.2;14.0
+1398;Doetinchem;Werkloosheids- en bijstandsuitk.ontv.;1.4;11.8
+1399;Doetinchem;Pensioenontvanger;9.2;15.8
+1400;Dongen;Totaal sociaal-economische categorie;17.1;17.3
+1401;Dongen;Totaal actief;11.4;19.0
+1402;Dongen;Werknemer;10.2;19.2
+1403;Dongen;Zelfstandige;1.2;17.3
+1404;Dongen;Totaal niet-actief;5.6;13.8
+1405;Dongen;Werkloosheids- en bijstandsuitk.ontv.;0.3;13.1
+1406;Dongen;Pensioenontvanger;4.0;15.2
+1407;Dongeradeel;Totaal sociaal-economische categorie;16.2;15.3
+1408;Dongeradeel;Totaal actief;9.8;16.8
+1409;Dongeradeel;Werknemer;8.2;17.5
+1410;Dongeradeel;Zelfstandige;1.6;13.4
+1411;Dongeradeel;Totaal niet-actief;6.4;13.1
+1412;Dongeradeel;Werkloosheids- en bijstandsuitk.ontv.;0.7;11.9
+1413;Dongeradeel;Pensioenontvanger;4.3;14.3
+1414;Doorn;Totaal sociaal-economische categorie;7.2;21.7
+1415;Doorn;Totaal actief;3.9;24.1
+1416;Doorn;Werknemer;3.4;24.9
+1417;Doorn;Zelfstandige;0.5;18.6
+1418;Doorn;Totaal niet-actief;3.4;19.0
+1419;Doorn;Werkloosheids- en bijstandsuitk.ontv.;;
+1420;Doorn;Pensioenontvanger;2.4;22.3
+1421;Dordrecht;Totaal sociaal-economische categorie;77.9;17.4
+1422;Dordrecht;Totaal actief;47.3;19.6
+1423;Dordrecht;Werknemer;43.2;19.9
+1424;Dordrecht;Zelfstandige;4.0;17.1
+1425;Dordrecht;Totaal niet-actief;30.6;13.8
+1426;Dordrecht;Werkloosheids- en bijstandsuitk.ontv.;5.4;11.4
+1427;Dordrecht;Pensioenontvanger;19.0;15.8
+1428;Drechterland;Totaal sociaal-economische categorie;6.9;17.8
+1429;Drechterland;Totaal actief;4.8;19.2
+1430;Drechterland;Werknemer;4.2;19.0
+1431;Drechterland;Zelfstandige;0.6;20.8
+1432;Drechterland;Totaal niet-actief;2.1;14.5
+1433;Drechterland;Werkloosheids- en bijstandsuitk.ontv.;;
+1434;Drechterland;Pensioenontvanger;1.5;16.2
+1435;Driebergen-Rijsenburg;Totaal sociaal-economische categorie;12.5;20.8
+1436;Driebergen-Rijsenburg;Totaal actief;7.3;23.5
+1437;Driebergen-Rijsenburg;Werknemer;6.3;24.2
+1438;Driebergen-Rijsenburg;Zelfstandige;0.9;18.2
+1439;Driebergen-Rijsenburg;Totaal niet-actief;5.3;17.3
+1440;Driebergen-Rijsenburg;Werkloosheids- en bijstandsuitk.ontv.;0.3;12.1
+1441;Driebergen-Rijsenburg;Pensioenontvanger;3.9;19.8
+1442;Drimmelen;Totaal sociaal-economische categorie;17.9;17.6
+1443;Drimmelen;Totaal actief;12.0;19.4
+1444;Drimmelen;Werknemer;10.5;19.9
+1445;Drimmelen;Zelfstandige;1.4;16.1
+1446;Drimmelen;Totaal niet-actief;6.0;13.8
+1447;Drimmelen;Werkloosheids- en bijstandsuitk.ontv.;0.3;13.5
+1448;Drimmelen;Pensioenontvanger;4.2;15.3
+1449;Dronten;Totaal sociaal-economische categorie;22.9;16.9
+1450;Dronten;Totaal actief;15.1;18.7
+1451;Dronten;Werknemer;12.9;19.4
+1452;Dronten;Zelfstandige;2.1;14.9
+1453;Dronten;Totaal niet-actief;7.8;13.5
+1454;Dronten;Werkloosheids- en bijstandsuitk.ontv.;0.7;4.9
+1455;Dronten;Pensioenontvanger;5.0;16.2
+1456;Druten;Totaal sociaal-economische categorie;11.9;16.9
+1457;Druten;Totaal actief;8.0;18.9
+1458;Druten;Werknemer;7.2;19.1
+1459;Druten;Zelfstandige;0.8;17.8
+1460;Druten;Totaal niet-actief;3.9;12.8
+1461;Druten;Werkloosheids- en bijstandsuitk.ontv.;0.3;11.4
+1462;Druten;Pensioenontvanger;2.5;14.3
+1463;Duiven;Totaal sociaal-economische categorie;16.6;17.3
+1464;Duiven;Totaal actief;11.4;19.0
+1465;Duiven;Werknemer;10.4;19.5
+1466;Duiven;Zelfstandige;0.9;13.7
+1467;Duiven;Totaal niet-actief;5.2;13.5
+1468;Duiven;Werkloosheids- en bijstandsuitk.ontv.;0.4;13.1
+1469;Duiven;Pensioenontvanger;3.4;15.1
+1470;Echt-Susteren;Totaal sociaal-economische categorie;22.2;16.7
+1471;Echt-Susteren;Totaal actief;12.9;18.9
+1472;Echt-Susteren;Werknemer;11.4;19.5
+1473;Echt-Susteren;Zelfstandige;1.5;14.9
+1474;Echt-Susteren;Totaal niet-actief;9.2;13.7
+1475;Echt-Susteren;Werkloosheids- en bijstandsuitk.ontv.;0.7;12.6
+1476;Echt-Susteren;Pensioenontvanger;5.8;14.9
+1477;Edam-Volendam;Totaal sociaal-economische categorie;19.1;18.6
+1478;Edam-Volendam;Totaal actief;13.6;20.1
+1479;Edam-Volendam;Werknemer;11.6;19.7
+1480;Edam-Volendam;Zelfstandige;2.0;22.5
+1481;Edam-Volendam;Totaal niet-actief;5.5;14.7
+1482;Edam-Volendam;Werkloosheids- en bijstandsuitk.ontv.;0.2;12.6
+1483;Edam-Volendam;Pensioenontvanger;3.7;16.2
+1484;Ede;Totaal sociaal-economische categorie;68.3;17.7
+1485;Ede;Totaal actief;43.3;19.4
+1486;Ede;Werknemer;38.3;19.6
+1487;Ede;Zelfstandige;4.9;17.7
+1488;Ede;Totaal niet-actief;25.0;14.8
+1489;Ede;Werkloosheids- en bijstandsuitk.ontv.;2.1;12.3
+1490;Ede;Pensioenontvanger;16.4;17.2
+1491;Eemnes;Totaal sociaal-economische categorie;5.5;20.3
+1492;Eemnes;Totaal actief;3.9;22.2
+1493;Eemnes;Werknemer;3.4;22.6
+1494;Eemnes;Zelfstandige;0.5;19.2
+1495;Eemnes;Totaal niet-actief;1.7;16.0
+1496;Eemnes;Werkloosheids- en bijstandsuitk.ontv.;;
+1497;Eemnes;Pensioenontvanger;1.1;18.5
+1498;Eemsmond;Totaal sociaal-economische categorie;10.7;15.4
+1499;Eemsmond;Totaal actief;6.3;17.1
+1500;Eemsmond;Werknemer;5.3;18.0
+1501;Eemsmond;Zelfstandige;1.0;12.0
+1502;Eemsmond;Totaal niet-actief;4.4;13.1
+1503;Eemsmond;Werkloosheids- en bijstandsuitk.ontv.;0.5;12.3
+1504;Eemsmond;Pensioenontvanger;2.9;14.1
+1505;Eersel;Totaal sociaal-economische categorie;12.2;18.3
+1506;Eersel;Totaal actief;7.8;19.7
+1507;Eersel;Werknemer;6.7;20.1
+1508;Eersel;Zelfstandige;1.1;17.3
+1509;Eersel;Totaal niet-actief;4.4;15.8
+1510;Eersel;Werkloosheids- en bijstandsuitk.ontv.;;
+1511;Eersel;Pensioenontvanger;3.1;18.1
+1512;Eijsden;Totaal sociaal-economische categorie;7.8;17.8
+1513;Eijsden;Totaal actief;5.0;19.9
+1514;Eijsden;Werknemer;4.3;20.4
+1515;Eijsden;Zelfstandige;0.6;16.5
+1516;Eijsden;Totaal niet-actief;2.8;14.0
+1517;Eijsden;Werkloosheids- en bijstandsuitk.ontv.;;
+1518;Eijsden;Pensioenontvanger;2.0;15.3
+1519;Eindhoven;Totaal sociaal-economische categorie;142.6;17.4
+1520;Eindhoven;Totaal actief;82.3;19.7
+1521;Eindhoven;Werknemer;75.1;20.1
+1522;Eindhoven;Zelfstandige;7.2;15.3
+1523;Eindhoven;Totaal niet-actief;60.2;14.3
+1524;Eindhoven;Werkloosheids- en bijstandsuitk.ontv.;8.0;11.9
+1525;Eindhoven;Pensioenontvanger;35.7;16.7
+1526;Elburg;Totaal sociaal-economische categorie;13.7;17.6
+1527;Elburg;Totaal actief;9.0;18.4
+1528;Elburg;Werknemer;8.1;18.8
+1529;Elburg;Zelfstandige;0.9;15.2
+1530;Elburg;Totaal niet-actief;4.7;16.1
+1531;Elburg;Werkloosheids- en bijstandsuitk.ontv.;0.2;14.3
+1532;Elburg;Pensioenontvanger;3.3;17.0
+1533;Emmen;Totaal sociaal-economische categorie;73.4;15.6
+1534;Emmen;Totaal actief;42.4;17.4
+1535;Emmen;Werknemer;38.1;17.7
+1536;Emmen;Zelfstandige;4.2;14.3
+1537;Emmen;Totaal niet-actief;31.0;13.3
+1538;Emmen;Werkloosheids- en bijstandsuitk.ontv.;4.2;11.5
+1539;Emmen;Pensioenontvanger;19.7;14.8
+1540;Enkhuizen;Totaal sociaal-economische categorie;11.6;16.9
+1541;Enkhuizen;Totaal actief;7.5;18.6
+1542;Enkhuizen;Werknemer;6.4;18.6
+1543;Enkhuizen;Zelfstandige;1.0;18.1
+1544;Enkhuizen;Totaal niet-actief;4.1;13.8
+1545;Enkhuizen;Werkloosheids- en bijstandsuitk.ontv.;0.3;12.7
+1546;Enkhuizen;Pensioenontvanger;2.6;15.4
+1547;Enschede;Totaal sociaal-economische categorie;99.2;15.7
+1548;Enschede;Totaal actief;54.8;18.0
+1549;Enschede;Werknemer;50.0;18.3
+1550;Enschede;Zelfstandige;4.6;14.3
+1551;Enschede;Totaal niet-actief;44.4;13.0
+1552;Enschede;Werkloosheids- en bijstandsuitk.ontv.;7.1;11.3
+1553;Enschede;Pensioenontvanger;23.7;15.1
+1554;Epe;Totaal sociaal-economische categorie;22.4;17.3
+1555;Epe;Totaal actief;13.3;18.5
+1556;Epe;Werknemer;11.8;19.1
+1557;Epe;Zelfstandige;1.5;14.1
+1558;Epe;Totaal niet-actief;9.1;15.4
+1559;Epe;Werkloosheids- en bijstandsuitk.ontv.;0.5;12.1
+1560;Epe;Pensioenontvanger;6.6;17.1
+1561;Ermelo;Totaal sociaal-economische categorie;17.6;17.9
+1562;Ermelo;Totaal actief;10.4;19.9
+1563;Ermelo;Werknemer;9.1;19.9
+1564;Ermelo;Zelfstandige;1.3;20.2
+1565;Ermelo;Totaal niet-actief;7.1;15.1
+1566;Ermelo;Werkloosheids- en bijstandsuitk.ontv.;0.3;11.3
+1567;Ermelo;Pensioenontvanger;5.0;17.3
+1568;Etten-Leur;Totaal sociaal-economische categorie;26.4;17.6
+1569;Etten-Leur;Totaal actief;17.4;19.5
+1570;Etten-Leur;Werknemer;15.8;19.8
+1571;Etten-Leur;Zelfstandige;1.6;16.5
+1572;Etten-Leur;Totaal niet-actief;9.0;13.8
+1573;Etten-Leur;Werkloosheids- en bijstandsuitk.ontv.;0.8;13.1
+1574;Etten-Leur;Pensioenontvanger;5.8;15.6
+1575;Ferwerderadiel;Totaal sociaal-economische categorie;5.8;15.6
+1576;Ferwerderadiel;Totaal actief;3.8;16.4
+1577;Ferwerderadiel;Werknemer;3.1;17.2
+1578;Ferwerderadiel;Zelfstandige;0.7;13.3
+1579;Ferwerderadiel;Totaal niet-actief;2.0;13.9
+1580;Ferwerderadiel;Werkloosheids- en bijstandsuitk.ontv.;;
+1581;Ferwerderadiel;Pensioenontvanger;1.4;15.6
+1582;Franekeradeel;Totaal sociaal-economische categorie;13.6;15.7
+1583;Franekeradeel;Totaal actief;8.6;17.1
+1584;Franekeradeel;Werknemer;7.5;17.6
+1585;Franekeradeel;Zelfstandige;1.1;13.5
+1586;Franekeradeel;Totaal niet-actief;5.0;13.3
+1587;Franekeradeel;Werkloosheids- en bijstandsuitk.ontv.;;
+1588;Franekeradeel;Pensioenontvanger;3.5;14.5
+1589;GaasterlÔn-Sleat;Totaal sociaal-economische categorie;6.7;16.1
+1590;GaasterlÔn-Sleat;Totaal actief;4.1;17.0
+1591;GaasterlÔn-Sleat;Werknemer;3.3;17.4
+1592;GaasterlÔn-Sleat;Zelfstandige;0.8;15.2
+1593;GaasterlÔn-Sleat;Totaal niet-actief;2.6;14.8
+1594;GaasterlÔn-Sleat;Werkloosheids- en bijstandsuitk.ontv.;;
+1595;GaasterlÔn-Sleat;Pensioenontvanger;2.1;15.5
+1596;Geertruidenberg;Totaal sociaal-economische categorie;14.4;17.3
+1597;Geertruidenberg;Totaal actief;9.6;19.0
+1598;Geertruidenberg;Werknemer;8.6;19.3
+1599;Geertruidenberg;Zelfstandige;0.9;16.4
+1600;Geertruidenberg;Totaal niet-actief;4.8;13.7
+1601;Geertruidenberg;Werkloosheids- en bijstandsuitk.ontv.;0.3;12.7
+1602;Geertruidenberg;Pensioenontvanger;3.2;15.4
+1603;Geldermalsen;Totaal sociaal-economische categorie;16.9;18.5
+1604;Geldermalsen;Totaal actief;11.6;20.3
+1605;Geldermalsen;Werknemer;9.9;20.9
+1606;Geldermalsen;Zelfstandige;1.6;16.8
+1607;Geldermalsen;Totaal niet-actief;5.3;14.5
+1608;Geldermalsen;Werkloosheids- en bijstandsuitk.ontv.;0.3;12.6
+1609;Geldermalsen;Pensioenontvanger;3.7;16.0
+1610;Geldrop-Mierlo;Totaal sociaal-economische categorie;25.4;18.3
+1611;Geldrop-Mierlo;Totaal actief;15.8;19.6
+1612;Geldrop-Mierlo;Werknemer;14.2;20.1
+1613;Geldrop-Mierlo;Zelfstandige;1.6;16.0
+1614;Geldrop-Mierlo;Totaal niet-actief;9.6;16.1
+1615;Geldrop-Mierlo;Werkloosheids- en bijstandsuitk.ontv.;0.9;11.7
+1616;Geldrop-Mierlo;Pensioenontvanger;6.6;18.2
+1617;Gemert-Bakel;Totaal sociaal-economische categorie;18.6;16.4
+1618;Gemert-Bakel;Totaal actief;12.4;18.0
+1619;Gemert-Bakel;Werknemer;10.6;18.4
+1620;Gemert-Bakel;Zelfstandige;1.8;15.0
+1621;Gemert-Bakel;Totaal niet-actief;6.2;13.3
+1622;Gemert-Bakel;Werkloosheids- en bijstandsuitk.ontv.;0.5;12.5
+1623;Gemert-Bakel;Pensioenontvanger;3.9;14.7
+1624;Gennep;Totaal sociaal-economische categorie;11.7;16.6
+1625;Gennep;Totaal actief;7.3;18.2
+1626;Gennep;Werknemer;6.5;18.6
+1627;Gennep;Zelfstandige;0.8;14.6
+1628;Gennep;Totaal niet-actief;4.5;14.1
+1629;Gennep;Werkloosheids- en bijstandsuitk.ontv.;0.2;12.8
+1630;Gennep;Pensioenontvanger;2.8;16.5
+1631;Giessenlanden;Totaal sociaal-economische categorie;9.1;19.2
+1632;Giessenlanden;Totaal actief;6.3;21.0
+1633;Giessenlanden;Werknemer;5.3;21.5
+1634;Giessenlanden;Zelfstandige;1.0;18.3
+1635;Giessenlanden;Totaal niet-actief;2.8;15.0
+1636;Giessenlanden;Werkloosheids- en bijstandsuitk.ontv.;;
+1637;Giessenlanden;Pensioenontvanger;2.1;16.5
+1638;Gilze en Rijen;Totaal sociaal-economische categorie;16.8;16.9
+1639;Gilze en Rijen;Totaal actief;11.0;18.9
+1640;Gilze en Rijen;Werknemer;9.8;19.4
+1641;Gilze en Rijen;Zelfstandige;1.2;14.7
+1642;Gilze en Rijen;Totaal niet-actief;5.8;13.2
+1643;Gilze en Rijen;Werkloosheids- en bijstandsuitk.ontv.;0.4;13.3
+1644;Gilze en Rijen;Pensioenontvanger;3.9;14.7
+1645;Goedereede;Totaal sociaal-economische categorie;7.5;17.9
+1646;Goedereede;Totaal actief;5.0;19.3
+1647;Goedereede;Werknemer;4.2;20.0
+1648;Goedereede;Zelfstandige;0.7;14.9
+1649;Goedereede;Totaal niet-actief;2.5;15.4
+1650;Goedereede;Werkloosheids- en bijstandsuitk.ontv.;;
+1651;Goedereede;Pensioenontvanger;2.0;16.3
+1652;Goes;Totaal sociaal-economische categorie;25.4;17.6
+1653;Goes;Totaal actief;15.4;19.3
+1654;Goes;Werknemer;13.8;19.5
+1655;Goes;Zelfstandige;1.6;17.4
+1656;Goes;Totaal niet-actief;10.0;15.1
+1657;Goes;Werkloosheids- en bijstandsuitk.ontv.;0.7;13.1
+1658;Goes;Pensioenontvanger;7.3;16.6
+1659;Goirle;Totaal sociaal-economische categorie;15.6;18.3
+1660;Goirle;Totaal actief;10.3;20.3
+1661;Goirle;Werknemer;9.4;20.1
+1662;Goirle;Zelfstandige;0.9;22.5
+1663;Goirle;Totaal niet-actief;5.3;14.5
+1664;Goirle;Werkloosheids- en bijstandsuitk.ontv.;0.3;13.7
+1665;Goirle;Pensioenontvanger;3.6;16.4
+1666;Gorinchem;Totaal sociaal-economische categorie;23.0;17.5
+1667;Gorinchem;Totaal actief;14.8;19.5
+1668;Gorinchem;Werknemer;13.5;19.6
+1669;Gorinchem;Zelfstandige;1.3;17.9
+1670;Gorinchem;Totaal niet-actief;8.1;14.0
+1671;Gorinchem;Werkloosheids- en bijstandsuitk.ontv.;0.7;11.9
+1672;Gorinchem;Pensioenontvanger;5.5;15.5
+1673;Gouda;Totaal sociaal-economische categorie;47.0;18.3
+1674;Gouda;Totaal actief;30.5;20.5
+1675;Gouda;Werknemer;28.1;20.8
+1676;Gouda;Zelfstandige;2.4;17.4
+1677;Gouda;Totaal niet-actief;16.5;14.2
+1678;Gouda;Werkloosheids- en bijstandsuitk.ontv.;2.0;11.9
+1679;Gouda;Pensioenontvanger;10.8;16.1
+1680;Graafstroom;Totaal sociaal-economische categorie;5.8;18.7
+1681;Graafstroom;Totaal actief;4.1;20.6
+1682;Graafstroom;Werknemer;3.3;21.4
+1683;Graafstroom;Zelfstandige;0.7;16.8
+1684;Graafstroom;Totaal niet-actief;1.7;14.2
+1685;Graafstroom;Werkloosheids- en bijstandsuitk.ontv.;;
+1686;Graafstroom;Pensioenontvanger;1.3;15.5
+1687;Graft-De Rijp;Totaal sociaal-economische categorie;4.3;19.3
+1688;Graft-De Rijp;Totaal actief;2.9;20.9
+1689;Graft-De Rijp;Werknemer;2.4;21.6
+1690;Graft-De Rijp;Zelfstandige;0.5;17.5
+1691;Graft-De Rijp;Totaal niet-actief;1.3;15.8
+1692;Graft-De Rijp;Werkloosheids- en bijstandsuitk.ontv.;;
+1693;Graft-De Rijp;Pensioenontvanger;1.0;17.0
+1694;Grave;Totaal sociaal-economische categorie;8.7;16.6
+1695;Grave;Totaal actief;5.6;18.4
+1696;Grave;Werknemer;4.9;18.7
+1697;Grave;Zelfstandige;0.7;15.6
+1698;Grave;Totaal niet-actief;3.1;13.3
+1699;Grave;Werkloosheids- en bijstandsuitk.ontv.;0.3;12.1
+1700;Grave;Pensioenontvanger;1.9;14.9
+1701;Groenlo;Totaal sociaal-economische categorie;20.4;16.2
+1702;Groenlo;Totaal actief;13.5;17.8
+1703;Groenlo;Werknemer;11.7;18.4
+1704;Groenlo;Zelfstandige;1.8;14.0
+1705;Groenlo;Totaal niet-actief;6.8;13.1
+1706;Groenlo;Werkloosheids- en bijstandsuitk.ontv.;0.4;12.7
+1707;Groenlo;Pensioenontvanger;4.9;14.3
+1708;Groesbeek;Totaal sociaal-economische categorie;12.6;17.0
+1709;Groesbeek;Totaal actief;7.4;19.2
+1710;Groesbeek;Werknemer;6.6;19.6
+1711;Groesbeek;Zelfstandige;0.8;15.6
+1712;Groesbeek;Totaal niet-actief;5.2;13.9
+1713;Groesbeek;Werkloosheids- en bijstandsuitk.ontv.;;
+1714;Groesbeek;Pensioenontvanger;3.6;15.3
+1715;Groningen (gemeente);Totaal sociaal-economische categorie;121.4;16.0
+1716;Groningen (gemeente);Totaal actief;66.9;19.0
+1717;Groningen (gemeente);Werknemer;60.6;19.4
+1718;Groningen (gemeente);Zelfstandige;6.1;15.3
+1719;Groningen (gemeente);Totaal niet-actief;54.5;12.4
+1720;Groningen (gemeente);Werkloosheids- en bijstandsuitk.ontv.;10.3;11.2
+1721;Groningen (gemeente);Pensioenontvanger;23.6;15.7
+1722;Grootegast;Totaal sociaal-economische categorie;7.4;15.9
+1723;Grootegast;Totaal actief;4.9;17.0
+1724;Grootegast;Werknemer;4.2;17.2
+1725;Grootegast;Zelfstandige;0.7;16.1
+1726;Grootegast;Totaal niet-actief;2.5;13.5
+1727;Grootegast;Werkloosheids- en bijstandsuitk.ontv.;;
+1728;Grootegast;Pensioenontvanger;1.8;14.3
+1729;Gulpen-Wittem;Totaal sociaal-economische categorie;10.1;17.0
+1730;Gulpen-Wittem;Totaal actief;6.0;19.4
+1731;Gulpen-Wittem;Werknemer;5.1;20.3
+1732;Gulpen-Wittem;Zelfstandige;0.9;14.4
+1733;Gulpen-Wittem;Totaal niet-actief;4.1;13.5
+1734;Gulpen-Wittem;Werkloosheids- en bijstandsuitk.ontv.;0.2;13.7
+1735;Gulpen-Wittem;Pensioenontvanger;2.9;14.9
+1736;Haaksbergen;Totaal sociaal-economische categorie;16.6;16.7
+1737;Haaksbergen;Totaal actief;10.4;18.3
+1738;Haaksbergen;Werknemer;9.2;18.7
+1739;Haaksbergen;Zelfstandige;1.3;15.4
+1740;Haaksbergen;Totaal niet-actief;6.1;13.8
+1741;Haaksbergen;Werkloosheids- en bijstandsuitk.ontv.;0.4;11.9
+1742;Haaksbergen;Pensioenontvanger;4.3;15.2
+1743;Haaren;Totaal sociaal-economische categorie;9.4;18.0
+1744;Haaren;Totaal actief;6.0;20.1
+1745;Haaren;Werknemer;5.1;20.6
+1746;Haaren;Zelfstandige;0.9;17.5
+1747;Haaren;Totaal niet-actief;3.4;14.2
+1748;Haaren;Werkloosheids- en bijstandsuitk.ontv.;;
+1749;Haaren;Pensioenontvanger;2.1;16.3
+1750;Haarlem;Totaal sociaal-economische categorie;102.3;18.2
+1751;Haarlem;Totaal actief;62.9;20.5
+1752;Haarlem;Werknemer;56.6;20.9
+1753;Haarlem;Zelfstandige;6.3;16.6
+1754;Haarlem;Totaal niet-actief;39.4;14.6
+1755;Haarlem;Werkloosheids- en bijstandsuitk.ontv.;4.4;11.8
+1756;Haarlem;Pensioenontvanger;25.1;16.6
+1757;Haarlemmerliede en Spaarnwoude;Totaal sociaal-economische categorie;3.6;19.9
+1758;Haarlemmerliede en Spaarnwoude;Totaal actief;2.4;21.7
+1759;Haarlemmerliede en Spaarnwoude;Werknemer;2.2;22.0
+1760;Haarlemmerliede en Spaarnwoude;Zelfstandige;0.3;19.8
+1761;Haarlemmerliede en Spaarnwoude;Totaal niet-actief;1.2;16.3
+1762;Haarlemmerliede en Spaarnwoude;Werkloosheids- en bijstandsuitk.ontv.;;
+1763;Haarlemmerliede en Spaarnwoude;Pensioenontvanger;0.8;18.1
+1764;Haarlemmermeer;Totaal sociaal-economische categorie;87.2;19.3
+1765;Haarlemmermeer;Totaal actief;62.2;21.0
+1766;Haarlemmermeer;Werknemer;56.3;21.3
+1767;Haarlemmermeer;Zelfstandige;5.8;18.2
+1768;Haarlemmermeer;Totaal niet-actief;25.1;15.0
+1769;Haarlemmermeer;Werkloosheids- en bijstandsuitk.ontv.;1.7;12.8
+1770;Haarlemmermeer;Pensioenontvanger;16.1;17.5
+1771;Haelen;Totaal sociaal-economische categorie;6.8;17.9
+1772;Haelen;Totaal actief;4.2;19.5
+1773;Haelen;Werknemer;3.8;19.8
+1774;Haelen;Zelfstandige;0.4;17.0
+1775;Haelen;Totaal niet-actief;2.5;15.4
+1776;Haelen;Werkloosheids- en bijstandsuitk.ontv.;;
+1777;Haelen;Pensioenontvanger;2.0;17.0
+1778;Halderberge;Totaal sociaal-economische categorie;19.8;17.6
+1779;Halderberge;Totaal actief;12.6;19.6
+1780;Halderberge;Werknemer;11.1;20.1
+1781;Halderberge;Zelfstandige;1.5;15.8
+1782;Halderberge;Totaal niet-actief;7.2;14.3
+1783;Halderberge;Werkloosheids- en bijstandsuitk.ontv.;0.5;12.1
+1784;Halderberge;Pensioenontvanger;5.1;15.4
+1785;Hardenberg;Totaal sociaal-economische categorie;36.7;16.2
+1786;Hardenberg;Totaal actief;24.0;17.7
+1787;Hardenberg;Werknemer;20.7;18.1
+1788;Hardenberg;Zelfstandige;3.3;15.0
+1789;Hardenberg;Totaal niet-actief;12.7;13.4
+1790;Hardenberg;Werkloosheids- en bijstandsuitk.ontv.;1.0;12.0
+1791;Hardenberg;Pensioenontvanger;8.7;14.7
+1792;Harderwijk;Totaal sociaal-economische categorie;26.6;17.3
+1793;Harderwijk;Totaal actief;17.2;18.8
+1794;Harderwijk;Werknemer;15.6;19.0
+1795;Harderwijk;Zelfstandige;1.5;16.8
+1796;Harderwijk;Totaal niet-actief;9.4;14.4
+1797;Harderwijk;Werkloosheids- en bijstandsuitk.ontv.;0.8;12.1
+1798;Harderwijk;Pensioenontvanger;6.0;16.6
+1799;Hardinxveld-Giessendam;Totaal sociaal-economische categorie;11.1;17.8
+1800;Hardinxveld-Giessendam;Totaal actief;7.6;19.5
+1801;Hardinxveld-Giessendam;Werknemer;6.9;19.6
+1802;Hardinxveld-Giessendam;Zelfstandige;0.7;18.7
+1803;Hardinxveld-Giessendam;Totaal niet-actief;3.6;14.1
+1804;Hardinxveld-Giessendam;Werkloosheids- en bijstandsuitk.ontv.;;
+1805;Hardinxveld-Giessendam;Pensioenontvanger;2.7;15.3
+1806;Haren;Totaal sociaal-economische categorie;12.9;21.7
+1807;Haren;Totaal actief;7.2;23.8
+1808;Haren;Werknemer;6.2;24.1
+1809;Haren;Zelfstandige;1.0;21.4
+1810;Haren;Totaal niet-actief;5.7;19.1
+1811;Haren;Werkloosheids- en bijstandsuitk.ontv.;0.2;14.3
+1812;Haren;Pensioenontvanger;4.7;20.7
+1813;Harenkarspel;Totaal sociaal-economische categorie;10.6;16.9
+1814;Harenkarspel;Totaal actief;7.4;18.0
+1815;Harenkarspel;Werknemer;6.3;19.0
+1816;Harenkarspel;Zelfstandige;1.1;12.2
+1817;Harenkarspel;Totaal niet-actief;3.2;14.2
+1818;Harenkarspel;Werkloosheids- en bijstandsuitk.ontv.;;
+1819;Harenkarspel;Pensioenontvanger;2.0;16.2
+1820;Harlingen;Totaal sociaal-economische categorie;10.4;15.9
+1821;Harlingen;Totaal actief;6.2;17.5
+1822;Harlingen;Werknemer;5.3;18.3
+1823;Harlingen;Zelfstandige;0.9;12.5
+1824;Harlingen;Totaal niet-actief;4.2;13.6
+1825;Harlingen;Werkloosheids- en bijstandsuitk.ontv.;0.6;11.2
+1826;Harlingen;Pensioenontvanger;2.8;15.0
+1827;Hattem;Totaal sociaal-economische categorie;7.6;18.2
+1828;Hattem;Totaal actief;4.8;19.3
+1829;Hattem;Werknemer;4.3;19.7
+1830;Hattem;Zelfstandige;0.5;16.6
+1831;Hattem;Totaal niet-actief;2.9;16.3
+1832;Hattem;Werkloosheids- en bijstandsuitk.ontv.;;
+1833;Hattem;Pensioenontvanger;2.2;18.0
+1834;Heel;Totaal sociaal-economische categorie;5.8;17.1
+1835;Heel;Totaal actief;3.4;19.4
+1836;Heel;Werknemer;3.0;19.9
+1837;Heel;Zelfstandige;0.3;16.2
+1838;Heel;Totaal niet-actief;2.4;13.8
+1839;Heel;Werkloosheids- en bijstandsuitk.ontv.;;
+1840;Heel;Pensioenontvanger;1.4;15.8
+1841;Heemskerk;Totaal sociaal-economische categorie;25.0;17.7
+1842;Heemskerk;Totaal actief;14.8;19.5
+1843;Heemskerk;Werknemer;13.6;19.7
+1844;Heemskerk;Zelfstandige;1.2;17.0
+1845;Heemskerk;Totaal niet-actief;10.2;15.2
+1846;Heemskerk;Werkloosheids- en bijstandsuitk.ontv.;0.9;12.3
+1847;Heemskerk;Pensioenontvanger;7.0;17.5
+1848;Heemstede;Totaal sociaal-economische categorie;17.5;23.6
+1849;Heemstede;Totaal actief;9.6;27.2
+1850;Heemstede;Werknemer;8.3;28.1
+1851;Heemstede;Zelfstandige;1.3;21.5
+1852;Heemstede;Totaal niet-actief;7.8;19.3
+1853;Heemstede;Werkloosheids- en bijstandsuitk.ontv.;0.4;14.4
+1854;Heemstede;Pensioenontvanger;6.0;21.6
+1855;Heerde;Totaal sociaal-economische categorie;12.2;17.4
+1856;Heerde;Totaal actief;7.6;19.0
+1857;Heerde;Werknemer;6.8;19.4
+1858;Heerde;Zelfstandige;0.8;16.2
+1859;Heerde;Totaal niet-actief;4.5;14.7
+1860;Heerde;Werkloosheids- en bijstandsuitk.ontv.;;
+1861;Heerde;Pensioenontvanger;3.4;16.2
+1862;Heerenveen;Totaal sociaal-economische categorie;28.7;17.0
+1863;Heerenveen;Totaal actief;16.9;18.7
+1864;Heerenveen;Werknemer;15.1;19.1
+1865;Heerenveen;Zelfstandige;1.7;15.0
+1866;Heerenveen;Totaal niet-actief;11.8;14.7
+1867;Heerenveen;Werkloosheids- en bijstandsuitk.ontv.;1.2;12.2
+1868;Heerenveen;Pensioenontvanger;8.1;16.4
+1869;Heerhugowaard;Totaal sociaal-economische categorie;32.1;17.5
+1870;Heerhugowaard;Totaal actief;21.9;19.0
+1871;Heerhugowaard;Werknemer;20.0;19.3
+1872;Heerhugowaard;Zelfstandige;1.9;16.0
+1873;Heerhugowaard;Totaal niet-actief;10.2;14.4
+1874;Heerhugowaard;Werkloosheids- en bijstandsuitk.ontv.;0.9;12.4
+1875;Heerhugowaard;Pensioenontvanger;5.9;17.0
+1876;Heerlen;Totaal sociaal-economische categorie;63.3;16.1
+1877;Heerlen;Totaal actief;32.7;18.1
+1878;Heerlen;Werknemer;30.0;18.5
+1879;Heerlen;Zelfstandige;2.6;14.2
+1880;Heerlen;Totaal niet-actief;30.6;13.8
+1881;Heerlen;Werkloosheids- en bijstandsuitk.ontv.;5.0;11.2
+1882;Heerlen;Pensioenontvanger;18.1;15.9
+1883;Heeze-Leende;Totaal sociaal-economische categorie;10.1;18.7
+1884;Heeze-Leende;Totaal actief;6.2;20.7
+1885;Heeze-Leende;Werknemer;5.3;21.5
+1886;Heeze-Leende;Zelfstandige;1.0;15.5
+1887;Heeze-Leende;Totaal niet-actief;3.9;15.7
+1888;Heeze-Leende;Werkloosheids- en bijstandsuitk.ontv.;;
+1889;Heeze-Leende;Pensioenontvanger;2.8;17.4
+1890;Heiloo;Totaal sociaal-economische categorie;15.2;20.3
+1891;Heiloo;Totaal actief;8.7;22.2
+1892;Heiloo;Werknemer;7.7;22.8
+1893;Heiloo;Zelfstandige;1.0;18.1
+1894;Heiloo;Totaal niet-actief;6.5;17.7
+1895;Heiloo;Werkloosheids- en bijstandsuitk.ontv.;0.3;12.7
+1896;Heiloo;Pensioenontvanger;4.9;19.8
+1897;Helden;Totaal sociaal-economische categorie;13.3;16.2
+1898;Helden;Totaal actief;8.7;17.7
+1899;Helden;Werknemer;7.7;18.0
+1900;Helden;Zelfstandige;1.0;15.8
+1901;Helden;Totaal niet-actief;4.6;13.2
+1902;Helden;Werkloosheids- en bijstandsuitk.ontv.;0.3;12.3
+1903;Helden;Pensioenontvanger;2.9;14.9
+1904;Hellendoorn;Totaal sociaal-economische categorie;24.0;16.5
+1905;Hellendoorn;Totaal actief;15.4;18.0
+1906;Hellendoorn;Werknemer;13.8;18.3
+1907;Hellendoorn;Zelfstandige;1.6;14.9
+1908;Hellendoorn;Totaal niet-actief;8.6;13.8
+1909;Hellendoorn;Werkloosheids- en bijstandsuitk.ontv.;0.4;13.1
+1910;Hellendoorn;Pensioenontvanger;6.1;15.1
+1911;Hellevoetsluis;Totaal sociaal-economische categorie;26.2;18.3
+1912;Hellevoetsluis;Totaal actief;17.8;20.1
+1913;Hellevoetsluis;Werknemer;16.5;20.3
+1914;Hellevoetsluis;Zelfstandige;1.3;17.5
+1915;Hellevoetsluis;Totaal niet-actief;8.4;14.3
+1916;Hellevoetsluis;Werkloosheids- en bijstandsuitk.ontv.;1.0;10.0
+1917;Hellevoetsluis;Pensioenontvanger;5.5;16.4
+1918;Helmond;Totaal sociaal-economische categorie;56.1;16.6
+1919;Helmond;Totaal actief;35.6;18.5
+1920;Helmond;Werknemer;32.4;18.8
+1921;Helmond;Zelfstandige;3.1;14.6
+1922;Helmond;Totaal niet-actief;20.5;13.4
+1923;Helmond;Werkloosheids- en bijstandsuitk.ontv.;3.2;11.3
+1924;Helmond;Pensioenontvanger;11.7;15.4
+1925;Hendrik-Ido-Ambacht;Totaal sociaal-economische categorie;14.8;18.9
+1926;Hendrik-Ido-Ambacht;Totaal actief;10.1;20.7
+1927;Hendrik-Ido-Ambacht;Werknemer;9.3;20.9
+1928;Hendrik-Ido-Ambacht;Zelfstandige;0.8;17.9
+1929;Hendrik-Ido-Ambacht;Totaal niet-actief;4.8;15.0
+1930;Hendrik-Ido-Ambacht;Werkloosheids- en bijstandsuitk.ontv.;0.2;15.0
+1931;Hendrik-Ido-Ambacht;Pensioenontvanger;3.4;16.7
+1932;Hengelo (O.);Totaal sociaal-economische categorie;54.5;17.0
+1933;Hengelo (O.);Totaal actief;32.5;18.9
+1934;Hengelo (O.);Werknemer;29.9;19.2
+1935;Hengelo (O.);Zelfstandige;2.6;16.0
+1936;Hengelo (O.);Totaal niet-actief;21.9;14.1
+1937;Hengelo (O.);Werkloosheids- en bijstandsuitk.ontv.;2.6;11.5
+1938;Hengelo (O.);Pensioenontvanger;14.1;16.2
+1939;het Bildt;Totaal sociaal-economische categorie;6.9;15.5
+1940;het Bildt;Totaal actief;4.3;16.9
+1941;het Bildt;Werknemer;3.6;17.4
+1942;het Bildt;Zelfstandige;0.6;13.6
+1943;het Bildt;Totaal niet-actief;2.6;13.2
+1944;het Bildt;Werkloosheids- en bijstandsuitk.ontv.;0.3;10.2
+1945;het Bildt;Pensioenontvanger;1.8;14.3
+1946;Heumen;Totaal sociaal-economische categorie;11.0;18.8
+1947;Heumen;Totaal actief;7.2;20.4
+1948;Heumen;Werknemer;6.4;21.2
+1949;Heumen;Zelfstandige;0.8;14.0
+1950;Heumen;Totaal niet-actief;3.8;15.8
+1951;Heumen;Werkloosheids- en bijstandsuitk.ontv.;0.3;13.4
+1952;Heumen;Pensioenontvanger;2.7;17.9
+1953;Heusden;Totaal sociaal-economische categorie;28.2;17.8
+1954;Heusden;Totaal actief;18.7;19.6
+1955;Heusden;Werknemer;16.6;19.9
+1956;Heusden;Zelfstandige;2.1;16.9
+1957;Heusden;Totaal niet-actief;9.4;14.2
+1958;Heusden;Werkloosheids- en bijstandsuitk.ontv.;0.9;12.5
+1959;Heusden;Pensioenontvanger;6.1;16.0
+1960;Heythuysen;Totaal sociaal-economische categorie;8.4;17.4
+1961;Heythuysen;Totaal actief;5.6;18.7
+1962;Heythuysen;Werknemer;4.7;19.6
+1963;Heythuysen;Zelfstandige;0.9;13.8
+1964;Heythuysen;Totaal niet-actief;2.8;14.7
+1965;Heythuysen;Werkloosheids- en bijstandsuitk.ontv.;;
+1966;Heythuysen;Pensioenontvanger;2.0;16.4
+1967;Hillegom;Totaal sociaal-economische categorie;13.9;18.2
+1968;Hillegom;Totaal actief;9.0;20.1
+1969;Hillegom;Werknemer;8.2;20.1
+1970;Hillegom;Zelfstandige;0.8;19.8
+1971;Hillegom;Totaal niet-actief;4.9;14.8
+1972;Hillegom;Werkloosheids- en bijstandsuitk.ontv.;0.3;14.2
+1973;Hillegom;Pensioenontvanger;3.5;16.4
+1974;Hilvarenbeek;Totaal sociaal-economische categorie;10.0;18.0
+1975;Hilvarenbeek;Totaal actief;7.0;19.6
+1976;Hilvarenbeek;Werknemer;5.8;20.0
+1977;Hilvarenbeek;Zelfstandige;1.1;18.0
+1978;Hilvarenbeek;Totaal niet-actief;3.1;14.4
+1979;Hilvarenbeek;Werkloosheids- en bijstandsuitk.ontv.;;
+1980;Hilvarenbeek;Pensioenontvanger;2.2;15.9
+1981;Hilversum;Totaal sociaal-economische categorie;57.4;19.6
+1982;Hilversum;Totaal actief;34.1;22.2
+1983;Hilversum;Werknemer;30.0;22.8
+1984;Hilversum;Zelfstandige;4.1;17.8
+1985;Hilversum;Totaal niet-actief;23.3;15.9
+1986;Hilversum;Werkloosheids- en bijstandsuitk.ontv.;1.9;13.2
+1987;Hilversum;Pensioenontvanger;16.3;17.8
+1988;Hof van Twente;Totaal sociaal-economische categorie;23.7;17.6
+1989;Hof van Twente;Totaal actief;14.7;19.3
+1990;Hof van Twente;Werknemer;12.1;20.3
+1991;Hof van Twente;Zelfstandige;2.6;14.7
+1992;Hof van Twente;Totaal niet-actief;9.0;14.8
+1993;Hof van Twente;Werkloosheids- en bijstandsuitk.ontv.;0.4;12.3
+1994;Hof van Twente;Pensioenontvanger;6.7;16.1
+1995;Hoogeveen;Totaal sociaal-economische categorie;35.8;16.2
+1996;Hoogeveen;Totaal actief;21.3;17.7
+1997;Hoogeveen;Werknemer;19.1;17.8
+1998;Hoogeveen;Zelfstandige;2.2;16.7
+1999;Hoogeveen;Totaal niet-actief;14.5;14.0
+2000;Hoogeveen;Werkloosheids- en bijstandsuitk.ontv.;1.6;12.0
+2001;Hoogeveen;Pensioenontvanger;9.5;15.4
+2002;Hoogezand-Sappemeer;Totaal sociaal-economische categorie;23.0;15.9
+2003;Hoogezand-Sappemeer;Totaal actief;12.5;18.2
+2004;Hoogezand-Sappemeer;Werknemer;11.5;18.3
+2005;Hoogezand-Sappemeer;Zelfstandige;1.0;17.5
+2006;Hoogezand-Sappemeer;Totaal niet-actief;10.4;13.1
+2007;Hoogezand-Sappemeer;Werkloosheids- en bijstandsuitk.ontv.;1.5;11.6
+2008;Hoogezand-Sappemeer;Pensioenontvanger;6.3;14.6
+2009;Hoorn;Totaal sociaal-economische categorie;45.5;17.6
+2010;Hoorn;Totaal actief;29.4;19.4
+2011;Hoorn;Werknemer;26.5;19.7
+2012;Hoorn;Zelfstandige;2.8;16.8
+2013;Hoorn;Totaal niet-actief;16.1;14.4
+2014;Hoorn;Werkloosheids- en bijstandsuitk.ontv.;1.9;13.2
+2015;Hoorn;Pensioenontvanger;9.5;16.5
+2016;Horst aan de Maas;Totaal sociaal-economische categorie;19.4;16.7
+2017;Horst aan de Maas;Totaal actief;12.9;18.2
+2018;Horst aan de Maas;Werknemer;11.3;18.5
+2019;Horst aan de Maas;Zelfstandige;1.6;16.6
+2020;Horst aan de Maas;Totaal niet-actief;6.5;13.8
+2021;Horst aan de Maas;Werkloosheids- en bijstandsuitk.ontv.;0.4;12.4
+2022;Horst aan de Maas;Pensioenontvanger;4.6;15.0
+2023;Houten;Totaal sociaal-economische categorie;27.8;19.8
+2024;Houten;Totaal actief;20.6;21.9
+2025;Houten;Werknemer;19.1;22.1
+2026;Houten;Zelfstandige;1.5;19.5
+2027;Houten;Totaal niet-actief;7.2;14.0
+2028;Houten;Werkloosheids- en bijstandsuitk.ontv.;0.6;14.1
+2029;Houten;Pensioenontvanger;4.4;16.3
+2030;Huizen;Totaal sociaal-economische categorie;27.9;19.8
+2031;Huizen;Totaal actief;18.1;22.0
+2032;Huizen;Werknemer;16.1;22.5
+2033;Huizen;Zelfstandige;1.9;18.1
+2034;Huizen;Totaal niet-actief;9.8;15.8
+2035;Huizen;Werkloosheids- en bijstandsuitk.ontv.;0.9;12.9
+2036;Huizen;Pensioenontvanger;6.4;18.3
+2037;Hulst;Totaal sociaal-economische categorie;18.2;17.3
+2038;Hulst;Totaal actief;11.1;19.7
+2039;Hulst;Werknemer;9.5;19.9
+2040;Hulst;Zelfstandige;1.6;18.2
+2041;Hulst;Totaal niet-actief;7.1;13.7
+2042;Hulst;Werkloosheids- en bijstandsuitk.ontv.;0.3;12.5
+2043;Hulst;Pensioenontvanger;5.4;14.5
+2044;Hunsel;Totaal sociaal-economische categorie;4.0;16.5
+2045;Hunsel;Totaal actief;2.8;17.5
+2046;Hunsel;Werknemer;2.4;19.1
+2047;Hunsel;Zelfstandige;0.5;9.8
+2048;Hunsel;Totaal niet-actief;1.2;14.0
+2049;Hunsel;Werkloosheids- en bijstandsuitk.ontv.;;
+2050;Hunsel;Pensioenontvanger;0.8;15.0
+2051;IJsselstein;Totaal sociaal-economische categorie;21.7;19.1
+2052;IJsselstein;Totaal actief;15.6;20.8
+2053;IJsselstein;Werknemer;14.5;20.9
+2054;IJsselstein;Zelfstandige;1.1;18.8
+2055;IJsselstein;Totaal niet-actief;6.0;14.6
+2056;IJsselstein;Werkloosheids- en bijstandsuitk.ontv.;0.5;13.7
+2057;IJsselstein;Pensioenontvanger;3.9;16.5
+2058;Jacobswoude;Totaal sociaal-economische categorie;7.2;18.7
+2059;Jacobswoude;Totaal actief;5.1;19.9
+2060;Jacobswoude;Werknemer;4.4;20.4
+2061;Jacobswoude;Zelfstandige;0.7;17.4
+2062;Jacobswoude;Totaal niet-actief;2.1;15.5
+2063;Jacobswoude;Werkloosheids- en bijstandsuitk.ontv.;;
+2064;Jacobswoude;Pensioenontvanger;1.5;17.1
+2065;Kampen;Totaal sociaal-economische categorie;31.2;16.0
+2066;Kampen;Totaal actief;20.4;17.4
+2067;Kampen;Werknemer;17.9;17.7
+2068;Kampen;Zelfstandige;2.4;15.2
+2069;Kampen;Totaal niet-actief;10.8;13.3
+2070;Kampen;Werkloosheids- en bijstandsuitk.ontv.;0.9;12.3
+2071;Kampen;Pensioenontvanger;7.1;14.8
+2072;Kapelle;Totaal sociaal-economische categorie;7.6;18.0
+2073;Kapelle;Totaal actief;5.1;19.8
+2074;Kapelle;Werknemer;4.4;19.9
+2075;Kapelle;Zelfstandige;0.6;19.2
+2076;Kapelle;Totaal niet-actief;2.5;14.4
+2077;Kapelle;Werkloosheids- en bijstandsuitk.ontv.;;
+2078;Kapelle;Pensioenontvanger;1.9;15.6
+2079;Katwijk;Totaal sociaal-economische categorie;27.2;17.5
+2080;Katwijk;Totaal actief;18.1;19.1
+2081;Katwijk;Werknemer;17.0;19.1
+2082;Katwijk;Zelfstandige;1.1;20.2
+2083;Katwijk;Totaal niet-actief;9.0;14.2
+2084;Katwijk;Werkloosheids- en bijstandsuitk.ontv.;0.5;13.0
+2085;Katwijk;Pensioenontvanger;6.4;15.6
+2086;Kerkrade;Totaal sociaal-economische categorie;32.3;15.6
+2087;Kerkrade;Totaal actief;16.5;17.7
+2088;Kerkrade;Werknemer;15.1;18.0
+2089;Kerkrade;Zelfstandige;1.4;14.7
+2090;Kerkrade;Totaal niet-actief;15.8;13.4
+2091;Kerkrade;Werkloosheids- en bijstandsuitk.ontv.;2.1;11.5
+2092;Kerkrade;Pensioenontvanger;9.9;14.9
+2093;Kessel;Totaal sociaal-economische categorie;2.9;16.7
+2094;Kessel;Totaal actief;2.0;18.1
+2095;Kessel;Werknemer;1.7;18.9
+2096;Kessel;Zelfstandige;0.3;13.4
+2097;Kessel;Totaal niet-actief;0.9;13.7
+2098;Kessel;Werkloosheids- en bijstandsuitk.ontv.;;
+2099;Kessel;Pensioenontvanger;0.6;14.7
+2100;Kollumerland en Nieuwkruisland;Totaal sociaal-economische categorie;8.3;15.0
+2101;Kollumerland en Nieuwkruisland;Totaal actief;5.1;16.3
+2102;Kollumerland en Nieuwkruisland;Werknemer;4.2;16.9
+2103;Kollumerland en Nieuwkruisland;Zelfstandige;0.9;13.8
+2104;Kollumerland en Nieuwkruisland;Totaal niet-actief;3.2;13.0
+2105;Kollumerland en Nieuwkruisland;Werkloosheids- en bijstandsuitk.ontv.;0.3;11.5
+2106;Kollumerland en Nieuwkruisland;Pensioenontvanger;2.1;14.4
+2107;Korendijk;Totaal sociaal-economische categorie;6.9;18.6
+2108;Korendijk;Totaal actief;4.8;20.4
+2109;Korendijk;Werknemer;4.1;21.1
+2110;Korendijk;Zelfstandige;0.6;15.6
+2111;Korendijk;Totaal niet-actief;2.2;14.8
+2112;Korendijk;Werkloosheids- en bijstandsuitk.ontv.;;
+2113;Korendijk;Pensioenontvanger;1.7;15.8
+2114;Krimpen aan den IJssel;Totaal sociaal-economische categorie;18.9;19.1
+2115;Krimpen aan den IJssel;Totaal actief;11.8;21.1
+2116;Krimpen aan den IJssel;Werknemer;10.6;21.2
+2117;Krimpen aan den IJssel;Zelfstandige;1.2;20.9
+2118;Krimpen aan den IJssel;Totaal niet-actief;7.1;15.8
+2119;Krimpen aan den IJssel;Werkloosheids- en bijstandsuitk.ontv.;0.5;12.0
+2120;Krimpen aan den IJssel;Pensioenontvanger;5.4;17.5
+2121;Laarbeek;Totaal sociaal-economische categorie;14.4;17.4
+2122;Laarbeek;Totaal actief;9.5;19.4
+2123;Laarbeek;Werknemer;8.2;19.7
+2124;Laarbeek;Zelfstandige;1.3;17.8
+2125;Laarbeek;Totaal niet-actief;4.9;13.4
+2126;Laarbeek;Werkloosheids- en bijstandsuitk.ontv.;0.3;12.9
+2127;Laarbeek;Pensioenontvanger;3.2;14.8
+2128;Landerd;Totaal sociaal-economische categorie;9.9;16.9
+2129;Landerd;Totaal actief;6.6;18.7
+2130;Landerd;Werknemer;5.7;18.9
+2131;Landerd;Zelfstandige;0.9;18.0
+2132;Landerd;Totaal niet-actief;3.3;13.4
+2133;Landerd;Werkloosheids- en bijstandsuitk.ontv.;;
+2134;Landerd;Pensioenontvanger;2.1;15.0
+2135;Landgraaf;Totaal sociaal-economische categorie;26.7;16.1
+2136;Landgraaf;Totaal actief;15.1;18.2
+2137;Landgraaf;Werknemer;13.8;18.5
+2138;Landgraaf;Zelfstandige;1.3;14.9
+2139;Landgraaf;Totaal niet-actief;11.6;13.3
+2140;Landgraaf;Werkloosheids- en bijstandsuitk.ontv.;1.4;9.3
+2141;Landgraaf;Pensioenontvanger;7.2;15.3
+2142;Landsmeer;Totaal sociaal-economische categorie;7.0;20.3
+2143;Landsmeer;Totaal actief;4.6;22.7
+2144;Landsmeer;Werknemer;3.9;23.3
+2145;Landsmeer;Zelfstandige;0.7;19.2
+2146;Landsmeer;Totaal niet-actief;2.4;15.7
+2147;Landsmeer;Werkloosheids- en bijstandsuitk.ontv.;;
+2148;Landsmeer;Pensioenontvanger;1.8;17.4
+2149;Langedijk;Totaal sociaal-economische categorie;17.0;18.2
+2150;Langedijk;Totaal actief;11.8;20.0
+2151;Langedijk;Werknemer;10.3;20.3
+2152;Langedijk;Zelfstandige;1.4;18.7
+2153;Langedijk;Totaal niet-actief;5.2;14.2
+2154;Langedijk;Werkloosheids- en bijstandsuitk.ontv.;0.3;13.7
+2155;Langedijk;Pensioenontvanger;3.5;16.1
+2156;Laren (NH.);Totaal sociaal-economische categorie;7.7;25.9
+2157;Laren (NH.);Totaal actief;4.1;29.8
+2158;Laren (NH.);Werknemer;3.3;31.2
+2159;Laren (NH.);Zelfstandige;0.7;22.5
+2160;Laren (NH.);Totaal niet-actief;3.6;21.5
+2161;Laren (NH.);Werkloosheids- en bijstandsuitk.ontv.;;
+2162;Laren (NH.);Pensioenontvanger;3.0;23.3
+2163;Leek;Totaal sociaal-economische categorie;12.8;16.5
+2164;Leek;Totaal actief;8.0;18.2
+2165;Leek;Werknemer;7.1;18.5
+2166;Leek;Zelfstandige;0.9;16.1
+2167;Leek;Totaal niet-actief;4.8;13.6
+2168;Leek;Werkloosheids- en bijstandsuitk.ontv.;0.4;13.4
+2169;Leek;Pensioenontvanger;3.2;15.1
+2170;Leerdam;Totaal sociaal-economische categorie;13.5;17.1
+2171;Leerdam;Totaal actief;8.4;19.0
+2172;Leerdam;Werknemer;7.5;19.4
+2173;Leerdam;Zelfstandige;0.9;16.0
+2174;Leerdam;Totaal niet-actief;5.1;13.9
+2175;Leerdam;Werkloosheids- en bijstandsuitk.ontv.;0.4;12.6
+2176;Leerdam;Pensioenontvanger;3.4;15.5
+2177;Leersum;Totaal sociaal-economische categorie;5.0;19.1
+2178;Leersum;Totaal actief;3.1;19.9
+2179;Leersum;Werknemer;2.6;21.5
+2180;Leersum;Zelfstandige;0.5;12.6
+2181;Leersum;Totaal niet-actief;1.9;17.7
+2182;Leersum;Werkloosheids- en bijstandsuitk.ontv.;;
+2183;Leersum;Pensioenontvanger;1.4;19.9
+2184;Leeuwarden;Totaal sociaal-economische categorie;61.9;16.1
+2185;Leeuwarden;Totaal actief;34.2;18.2
+2186;Leeuwarden;Werknemer;31.0;18.5
+2187;Leeuwarden;Zelfstandige;3.1;15.1
+2188;Leeuwarden;Totaal niet-actief;27.7;13.6
+2189;Leeuwarden;Werkloosheids- en bijstandsuitk.ontv.;4.9;11.6
+2190;Leeuwarden;Pensioenontvanger;15.0;16.3
+2191;Leeuwarderadeel;Totaal sociaal-economische categorie;6.9;16.9
+2192;Leeuwarderadeel;Totaal actief;4.5;18.5
+2193;Leeuwarderadeel;Werknemer;4.1;18.6
+2194;Leeuwarderadeel;Zelfstandige;0.5;17.6
+2195;Leeuwarderadeel;Totaal niet-actief;2.3;13.6
+2196;Leeuwarderadeel;Werkloosheids- en bijstandsuitk.ontv.;;
+2197;Leeuwarderadeel;Pensioenontvanger;1.5;15.5
+2198;Leiden;Totaal sociaal-economische categorie;78.0;18.5
+2199;Leiden;Totaal actief;49.3;21.2
+2200;Leiden;Werknemer;45.1;21.5
+2201;Leiden;Zelfstandige;4.1;18.2
+2202;Leiden;Totaal niet-actief;28.7;13.8
+2203;Leiden;Werkloosheids- en bijstandsuitk.ontv.;3.5;12.3
+2204;Leiden;Pensioenontvanger;15.6;16.7
+2205;Leiderdorp;Totaal sociaal-economische categorie;17.6;20.1
+2206;Leiderdorp;Totaal actief;11.5;22.1
+2207;Leiderdorp;Werknemer;10.5;22.4
+2208;Leiderdorp;Zelfstandige;1.0;19.8
+2209;Leiderdorp;Totaal niet-actief;6.1;16.3
+2210;Leiderdorp;Werkloosheids- en bijstandsuitk.ontv.;0.4;11.8
+2211;Leiderdorp;Pensioenontvanger;4.5;18.5
+2212;Leidschendam-Voorburg;Totaal sociaal-economische categorie;51.0;20.5
+2213;Leidschendam-Voorburg;Totaal actief;29.7;22.8
+2214;Leidschendam-Voorburg;Werknemer;26.9;23.3
+2215;Leidschendam-Voorburg;Zelfstandige;2.7;18.0
+2216;Leidschendam-Voorburg;Totaal niet-actief;21.3;17.2
+2217;Leidschendam-Voorburg;Werkloosheids- en bijstandsuitk.ontv.;2.1;12.8
+2218;Leidschendam-Voorburg;Pensioenontvanger;15.8;19.2
+2219;Lelystad;Totaal sociaal-economische categorie;46.0;16.7
+2220;Lelystad;Totaal actief;30.1;18.5
+2221;Lelystad;Werknemer;27.4;18.9
+2222;Lelystad;Zelfstandige;2.6;14.5
+2223;Lelystad;Totaal niet-actief;16.0;13.3
+2224;Lelystad;Werkloosheids- en bijstandsuitk.ontv.;2.5;11.5
+2225;Lelystad;Pensioenontvanger;8.2;15.8
+2226;Lemsterland;Totaal sociaal-economische categorie;8.5;16.6
+2227;Lemsterland;Totaal actief;5.4;18.0
+2228;Lemsterland;Werknemer;4.3;18.4
+2229;Lemsterland;Zelfstandige;1.1;16.4
+2230;Lemsterland;Totaal niet-actief;3.1;14.3
+2231;Lemsterland;Werkloosheids- en bijstandsuitk.ontv.;0.4;13.2
+2232;Lemsterland;Pensioenontvanger;2.0;15.7
+2233;Leusden;Totaal sociaal-economische categorie;19.5;20.0
+2234;Leusden;Totaal actief;13.2;21.5
+2235;Leusden;Werknemer;11.8;21.9
+2236;Leusden;Zelfstandige;1.4;18.4
+2237;Leusden;Totaal niet-actief;6.2;16.7
+2238;Leusden;Werkloosheids- en bijstandsuitk.ontv.;0.4;14.3
+2239;Leusden;Pensioenontvanger;4.5;18.9
+2240;Liemeer;Totaal sociaal-economische categorie;4.6;17.3
+2241;Liemeer;Totaal actief;3.1;19.3
+2242;Liemeer;Werknemer;2.6;20.2
+2243;Liemeer;Zelfstandige;0.6;15.1
+2244;Liemeer;Totaal niet-actief;1.5;13.0
+2245;Liemeer;Werkloosheids- en bijstandsuitk.ontv.;;
+2246;Liemeer;Pensioenontvanger;0.8;15.6
+2247;Liesveld;Totaal sociaal-economische categorie;5.9;18.0
+2248;Liesveld;Totaal actief;4.2;19.8
+2249;Liesveld;Werknemer;3.6;20.1
+2250;Liesveld;Zelfstandige;0.6;18.2
+2251;Liesveld;Totaal niet-actief;1.7;13.7
+2252;Liesveld;Werkloosheids- en bijstandsuitk.ontv.;;
+2253;Liesveld;Pensioenontvanger;1.3;15.0
+2254;Lingewaal;Totaal sociaal-economische categorie;6.9;18.0
+2255;Lingewaal;Totaal actief;4.9;19.5
+2256;Lingewaal;Werknemer;4.2;19.7
+2257;Lingewaal;Zelfstandige;0.6;18.6
+2258;Lingewaal;Totaal niet-actief;2.0;14.5
+2259;Lingewaal;Werkloosheids- en bijstandsuitk.ontv.;;
+2260;Lingewaal;Pensioenontvanger;1.5;15.7
+2261;Lingewaard;Totaal sociaal-economische categorie;29.0;17.1
+2262;Lingewaard;Totaal actief;19.8;18.7
+2263;Lingewaard;Werknemer;17.8;19.2
+2264;Lingewaard;Zelfstandige;2.0;14.6
+2265;Lingewaard;Totaal niet-actief;9.2;13.6
+2266;Lingewaard;Werkloosheids- en bijstandsuitk.ontv.;0.7;12.6
+2267;Lingewaard;Pensioenontvanger;6.2;15.2
+2268;Lisse;Totaal sociaal-economische categorie;14.8;18.3
+2269;Lisse;Totaal actief;10.0;19.9
+2270;Lisse;Werknemer;9.1;19.9
+2271;Lisse;Zelfstandige;0.8;19.6
+2272;Lisse;Totaal niet-actief;4.9;14.9
+2273;Lisse;Werkloosheids- en bijstandsuitk.ontv.;0.2;13.7
+2274;Lisse;Pensioenontvanger;3.6;16.5
+2275;Lith;Totaal sociaal-economische categorie;4.3;16.7
+2276;Lith;Totaal actief;3.0;18.2
+2277;Lith;Werknemer;2.4;18.8
+2278;Lith;Zelfstandige;0.6;15.2
+2279;Lith;Totaal niet-actief;1.3;13.4
+2280;Lith;Werkloosheids- en bijstandsuitk.ontv.;;
+2281;Lith;Pensioenontvanger;0.8;14.6
+2282;Littenseradiel;Totaal sociaal-economische categorie;6.8;16.6
+2283;Littenseradiel;Totaal actief;4.8;17.7
+2284;Littenseradiel;Werknemer;3.7;18.4
+2285;Littenseradiel;Zelfstandige;1.1;15.5
+2286;Littenseradiel;Totaal niet-actief;2.1;13.9
+2287;Littenseradiel;Werkloosheids- en bijstandsuitk.ontv.;;
+2288;Littenseradiel;Pensioenontvanger;1.5;14.9
+2289;Lochem;Totaal sociaal-economische categorie;22.7;18.2
+2290;Lochem;Totaal actief;13.4;19.6
+2291;Lochem;Werknemer;11.0;20.5
+2292;Lochem;Zelfstandige;2.4;15.5
+2293;Lochem;Totaal niet-actief;9.3;16.3
+2294;Lochem;Werkloosheids- en bijstandsuitk.ontv.;0.4;12.3
+2295;Lochem;Pensioenontvanger;7.2;17.9
+2296;Loenen;Totaal sociaal-economische categorie;5.5;22.7
+2297;Loenen;Totaal actief;3.7;25.7
+2298;Loenen;Werknemer;3.1;26.6
+2299;Loenen;Zelfstandige;0.6;21.6
+2300;Loenen;Totaal niet-actief;1.8;16.6
+2301;Loenen;Werkloosheids- en bijstandsuitk.ontv.;;
+2302;Loenen;Pensioenontvanger;1.4;18.1
+2303;Loon op Zand;Totaal sociaal-economische categorie;15.8;17.5
+2304;Loon op Zand;Totaal actief;10.4;19.3
+2305;Loon op Zand;Werknemer;9.4;19.7
+2306;Loon op Zand;Zelfstandige;1.0;15.8
+2307;Loon op Zand;Totaal niet-actief;5.4;14.0
+2308;Loon op Zand;Werkloosheids- en bijstandsuitk.ontv.;0.3;12.8
+2309;Loon op Zand;Pensioenontvanger;3.7;15.4
+2310;Lopik;Totaal sociaal-economische categorie;8.7;17.9
+2311;Lopik;Totaal actief;6.4;19.4
+2312;Lopik;Werknemer;5.4;19.8
+2313;Lopik;Zelfstandige;1.0;17.2
+2314;Lopik;Totaal niet-actief;2.3;13.8
+2315;Lopik;Werkloosheids- en bijstandsuitk.ontv.;;
+2316;Lopik;Pensioenontvanger;1.7;15.0
+2317;Loppersum;Totaal sociaal-economische categorie;7.0;16.1
+2318;Loppersum;Totaal actief;4.4;17.8
+2319;Loppersum;Werknemer;3.6;18.8
+2320;Loppersum;Zelfstandige;0.8;13.5
+2321;Loppersum;Totaal niet-actief;2.6;13.1
+2322;Loppersum;Werkloosheids- en bijstandsuitk.ontv.;0.3;12.6
+2323;Loppersum;Pensioenontvanger;1.7;14.1
+2324;Losser;Totaal sociaal-economische categorie;15.0;16.1
+2325;Losser;Totaal actief;9.1;17.9
+2326;Losser;Werknemer;8.0;18.4
+2327;Losser;Zelfstandige;1.0;13.9
+2328;Losser;Totaal niet-actief;5.9;13.3
+2329;Losser;Werkloosheids- en bijstandsuitk.ontv.;0.4;11.3
+2330;Losser;Pensioenontvanger;3.8;14.8
+2331;Maarn;Totaal sociaal-economische categorie;4.0;22.9
+2332;Maarn;Totaal actief;2.3;25.3
+2333;Maarn;Werknemer;2.0;25.7
+2334;Maarn;Zelfstandige;0.3;21.6
+2335;Maarn;Totaal niet-actief;1.7;19.7
+2336;Maarn;Werkloosheids- en bijstandsuitk.ontv.;;
+2337;Maarn;Pensioenontvanger;1.3;21.6
+2338;Maarssen;Totaal sociaal-economische categorie;26.9;19.3
+2339;Maarssen;Totaal actief;18.7;21.5
+2340;Maarssen;Werknemer;17.0;21.9
+2341;Maarssen;Zelfstandige;1.7;17.1
+2342;Maarssen;Totaal niet-actief;8.2;14.5
+2343;Maarssen;Werkloosheids- en bijstandsuitk.ontv.;0.7;13.6
+2344;Maarssen;Pensioenontvanger;5.1;16.8
+2345;Maasbracht;Totaal sociaal-economische categorie;9.3;17.0
+2346;Maasbracht;Totaal actief;5.6;18.9
+2347;Maasbracht;Werknemer;4.8;19.4
+2348;Maasbracht;Zelfstandige;0.7;15.6
+2349;Maasbracht;Totaal niet-actief;3.7;14.0
+2350;Maasbracht;Werkloosheids- en bijstandsuitk.ontv.;0.3;13.2
+2351;Maasbracht;Pensioenontvanger;2.6;15.3
+2352;Maasbree;Totaal sociaal-economische categorie;8.7;16.7
+2353;Maasbree;Totaal actief;6.1;18.2
+2354;Maasbree;Werknemer;5.3;18.8
+2355;Maasbree;Zelfstandige;0.8;13.7
+2356;Maasbree;Totaal niet-actief;2.6;13.1
+2357;Maasbree;Werkloosheids- en bijstandsuitk.ontv.;;
+2358;Maasbree;Pensioenontvanger;1.7;14.9
+2359;Maasdonk;Totaal sociaal-economische categorie;7.4;17.2
+2360;Maasdonk;Totaal actief;5.0;18.8
+2361;Maasdonk;Werknemer;4.2;19.1
+2362;Maasdonk;Zelfstandige;0.8;17.2
+2363;Maasdonk;Totaal niet-actief;2.4;13.9
+2364;Maasdonk;Werkloosheids- en bijstandsuitk.ontv.;;
+2365;Maasdonk;Pensioenontvanger;1.7;14.9
+2366;Maasdriel;Totaal sociaal-economische categorie;15.5;17.4
+2367;Maasdriel;Totaal actief;10.6;19.2
+2368;Maasdriel;Werknemer;8.7;20.0
+2369;Maasdriel;Zelfstandige;1.9;15.3
+2370;Maasdriel;Totaal niet-actief;5.0;13.6
+2371;Maasdriel;Werkloosheids- en bijstandsuitk.ontv.;0.3;13.8
+2372;Maasdriel;Pensioenontvanger;3.4;14.7
+2373;Maassluis;Totaal sociaal-economische categorie;21.9;18.0
+2374;Maassluis;Totaal actief;13.8;19.6
+2375;Maassluis;Werknemer;12.8;19.8
+2376;Maassluis;Zelfstandige;1.0;17.8
+2377;Maassluis;Totaal niet-actief;8.0;15.1
+2378;Maassluis;Werkloosheids- en bijstandsuitk.ontv.;0.9;12.3
+2379;Maassluis;Pensioenontvanger;5.3;17.3
+2380;Maastricht;Totaal sociaal-economische categorie;81.8;16.6
+2381;Maastricht;Totaal actief;42.4;19.5
+2382;Maastricht;Werknemer;38.3;20.0
+2383;Maastricht;Zelfstandige;4.1;15.0
+2384;Maastricht;Totaal niet-actief;39.3;13.4
+2385;Maastricht;Werkloosheids- en bijstandsuitk.ontv.;4.7;11.5
+2386;Maastricht;Pensioenontvanger;22.4;15.8
+2387;Margraten;Totaal sociaal-economische categorie;8.9;18.4
+2388;Margraten;Totaal actief;5.5;20.7
+2389;Margraten;Werknemer;4.7;21.4
+2390;Margraten;Zelfstandige;0.8;16.9
+2391;Margraten;Totaal niet-actief;3.4;14.7
+2392;Margraten;Werkloosheids- en bijstandsuitk.ontv.;;
+2393;Margraten;Pensioenontvanger;2.5;16.5
+2394;Marum;Totaal sociaal-economische categorie;6.4;16.6
+2395;Marum;Totaal actief;4.2;18.4
+2396;Marum;Werknemer;3.6;19.0
+2397;Marum;Zelfstandige;0.6;14.4
+2398;Marum;Totaal niet-actief;2.2;13.3
+2399;Marum;Werkloosheids- en bijstandsuitk.ontv.;0.3;12.0
+2400;Marum;Pensioenontvanger;1.4;14.0
+2401;Medemblik;Totaal sociaal-economische categorie;5.4;17.5
+2402;Medemblik;Totaal actief;3.5;19.2
+2403;Medemblik;Werknemer;3.0;18.7
+2404;Medemblik;Zelfstandige;0.5;21.7
+2405;Medemblik;Totaal niet-actief;1.8;14.2
+2406;Medemblik;Werkloosheids- en bijstandsuitk.ontv.;;
+2407;Medemblik;Pensioenontvanger;1.2;15.6
+2408;Meerlo-Wanssum;Totaal sociaal-economische categorie;5.3;16.2
+2409;Meerlo-Wanssum;Totaal actief;3.7;17.2
+2410;Meerlo-Wanssum;Werknemer;3.2;17.8
+2411;Meerlo-Wanssum;Zelfstandige;0.4;13.0
+2412;Meerlo-Wanssum;Totaal niet-actief;1.6;13.8
+2413;Meerlo-Wanssum;Werkloosheids- en bijstandsuitk.ontv.;;
+2414;Meerlo-Wanssum;Pensioenontvanger;1.1;15.2
+2415;Meerssen;Totaal sociaal-economische categorie;13.4;18.2
+2416;Meerssen;Totaal actief;7.9;20.4
+2417;Meerssen;Werknemer;7.0;21.1
+2418;Meerssen;Zelfstandige;0.9;15.3
+2419;Meerssen;Totaal niet-actief;5.4;15.0
+2420;Meerssen;Werkloosheids- en bijstandsuitk.ontv.;0.4;12.3
+2421;Meerssen;Pensioenontvanger;3.8;16.8
+2422;Meijel;Totaal sociaal-economische categorie;4.0;15.4
+2423;Meijel;Totaal actief;2.8;16.3
+2424;Meijel;Werknemer;2.3;17.6
+2425;Meijel;Zelfstandige;0.5;10.1
+2426;Meijel;Totaal niet-actief;1.3;13.5
+2427;Meijel;Werkloosheids- en bijstandsuitk.ontv.;;
+2428;Meijel;Pensioenontvanger;0.9;14.6
+2429;Menaldumadeel;Totaal sociaal-economische categorie;9.1;16.7
+2430;Menaldumadeel;Totaal actief;6.1;18.4
+2431;Menaldumadeel;Werknemer;5.2;18.6
+2432;Menaldumadeel;Zelfstandige;0.9;17.0
+2433;Menaldumadeel;Totaal niet-actief;3.0;13.5
+2434;Menaldumadeel;Werkloosheids- en bijstandsuitk.ontv.;0.2;13.8
+2435;Menaldumadeel;Pensioenontvanger;2.0;14.7
+2436;Menterwolde;Totaal sociaal-economische categorie;8.1;15.9
+2437;Menterwolde;Totaal actief;5.1;17.9
+2438;Menterwolde;Werknemer;4.5;18.7
+2439;Menterwolde;Zelfstandige;0.6;11.6
+2440;Menterwolde;Totaal niet-actief;3.0;12.7
+2441;Menterwolde;Werkloosheids- en bijstandsuitk.ontv.;0.4;11.2
+2442;Menterwolde;Pensioenontvanger;1.8;13.7
+2443;Meppel;Totaal sociaal-economische categorie;20.7;17.0
+2444;Meppel;Totaal actief;13.1;18.6
+2445;Meppel;Werknemer;11.8;18.6
+2446;Meppel;Zelfstandige;1.2;18.0
+2447;Meppel;Totaal niet-actief;7.6;14.4
+2448;Meppel;Werkloosheids- en bijstandsuitk.ontv.;0.7;12.7
+2449;Meppel;Pensioenontvanger;5.0;16.2
+2450;Middelburg (Z.);Totaal sociaal-economische categorie;31.1;17.4
+2451;Middelburg (Z.);Totaal actief;18.9;18.9
+2452;Middelburg (Z.);Werknemer;17.0;19.0
+2453;Middelburg (Z.);Zelfstandige;1.8;17.9
+2454;Middelburg (Z.);Totaal niet-actief;12.2;15.1
+2455;Middelburg (Z.);Werkloosheids- en bijstandsuitk.ontv.;1.2;12.5
+2456;Middelburg (Z.);Pensioenontvanger;8.5;17.0
+2457;Middelharnis;Totaal sociaal-economische categorie;11.7;17.7
+2458;Middelharnis;Totaal actief;7.4;19.7
+2459;Middelharnis;Werknemer;6.6;20.2
+2460;Middelharnis;Zelfstandige;0.8;15.4
+2461;Middelharnis;Totaal niet-actief;4.3;14.3
+2462;Middelharnis;Werkloosheids- en bijstandsuitk.ontv.;;
+2463;Middelharnis;Pensioenontvanger;3.2;15.8
+2464;Midden-Delfland;Totaal sociaal-economische categorie;11.2;18.6
+2465;Midden-Delfland;Totaal actief;7.9;20.3
+2466;Midden-Delfland;Werknemer;6.8;20.9
+2467;Midden-Delfland;Zelfstandige;1.1;16.3
+2468;Midden-Delfland;Totaal niet-actief;3.3;14.7
+2469;Midden-Delfland;Werkloosheids- en bijstandsuitk.ontv.;;
+2470;Midden-Delfland;Pensioenontvanger;2.3;17.3
+2471;Midden-Drenthe;Totaal sociaal-economische categorie;22.2;16.5
+2472;Midden-Drenthe;Totaal actief;13.8;17.9
+2473;Midden-Drenthe;Werknemer;11.7;18.8
+2474;Midden-Drenthe;Zelfstandige;2.1;12.9
+2475;Midden-Drenthe;Totaal niet-actief;8.4;14.3
+2476;Midden-Drenthe;Werkloosheids- en bijstandsuitk.ontv.;0.5;12.4
+2477;Midden-Drenthe;Pensioenontvanger;5.9;15.9
+2478;Mill en Sint Hubert;Totaal sociaal-economische categorie;7.4;16.0
+2479;Mill en Sint Hubert;Totaal actief;4.9;17.6
+2480;Mill en Sint Hubert;Werknemer;4.1;18.1
+2481;Mill en Sint Hubert;Zelfstandige;0.7;15.1
+2482;Mill en Sint Hubert;Totaal niet-actief;2.6;12.9
+2483;Mill en Sint Hubert;Werkloosheids- en bijstandsuitk.ontv.;;
+2484;Mill en Sint Hubert;Pensioenontvanger;1.8;13.5
+2485;Millingen aan de Rijn;Totaal sociaal-economische categorie;4.0;16.3
+2486;Millingen aan de Rijn;Totaal actief;2.6;18.1
+2487;Millingen aan de Rijn;Werknemer;2.4;18.2
+2488;Millingen aan de Rijn;Zelfstandige;0.3;17.0
+2489;Millingen aan de Rijn;Totaal niet-actief;1.3;12.8
+2490;Millingen aan de Rijn;Werkloosheids- en bijstandsuitk.ontv.;;
+2491;Millingen aan de Rijn;Pensioenontvanger;0.9;13.9
+2492;Moerdijk;Totaal sociaal-economische categorie;24.6;17.7
+2493;Moerdijk;Totaal actief;16.4;19.4
+2494;Moerdijk;Werknemer;14.4;20.0
+2495;Moerdijk;Zelfstandige;2.0;15.1
+2496;Moerdijk;Totaal niet-actief;8.2;14.2
+2497;Moerdijk;Werkloosheids- en bijstandsuitk.ontv.;0.6;12.0
+2498;Moerdijk;Pensioenontvanger;5.8;15.5
+2499;Montferland;Totaal sociaal-economische categorie;23.6;16.5
+2500;Montferland;Totaal actief;14.8;18.2
+2501;Montferland;Werknemer;13.1;18.5
+2502;Montferland;Zelfstandige;1.7;15.9
+2503;Montferland;Totaal niet-actief;8.8;13.7
+2504;Montferland;Werkloosheids- en bijstandsuitk.ontv.;0.7;11.8
+2505;Montferland;Pensioenontvanger;5.8;15.1
+2506;Montfoort;Totaal sociaal-economische categorie;8.5;19.4
+2507;Montfoort;Totaal actief;6.2;21.0
+2508;Montfoort;Werknemer;5.4;21.5
+2509;Montfoort;Zelfstandige;0.8;17.9
+2510;Montfoort;Totaal niet-actief;2.3;15.1
+2511;Montfoort;Werkloosheids- en bijstandsuitk.ontv.;;
+2512;Montfoort;Pensioenontvanger;1.6;16.9
+2513;Mook en Middelaar;Totaal sociaal-economische categorie;5.4;19.5
+2514;Mook en Middelaar;Totaal actief;3.4;21.4
+2515;Mook en Middelaar;Werknemer;3.0;21.8
+2516;Mook en Middelaar;Zelfstandige;0.4;18.3
+2517;Mook en Middelaar;Totaal niet-actief;2.0;16.3
+2518;Mook en Middelaar;Werkloosheids- en bijstandsuitk.ontv.;;
+2519;Mook en Middelaar;Pensioenontvanger;1.5;18.2
+2520;Moordrecht;Totaal sociaal-economische categorie;5.1;18.3
+2521;Moordrecht;Totaal actief;3.5;20.1
+2522;Moordrecht;Werknemer;3.2;20.5
+2523;Moordrecht;Zelfstandige;0.3;16.8
+2524;Moordrecht;Totaal niet-actief;1.5;14.1
+2525;Moordrecht;Werkloosheids- en bijstandsuitk.ontv.;;
+2526;Moordrecht;Pensioenontvanger;1.0;15.9
+2527;Muiden;Totaal sociaal-economische categorie;4.4;23.1
+2528;Muiden;Totaal actief;2.9;25.1
+2529;Muiden;Werknemer;2.4;26.4
+2530;Muiden;Zelfstandige;0.5;18.9
+2531;Muiden;Totaal niet-actief;1.5;19.5
+2532;Muiden;Werkloosheids- en bijstandsuitk.ontv.;;
+2533;Muiden;Pensioenontvanger;1.2;21.5
+2534;Naarden;Totaal sociaal-economische categorie;11.1;25.2
+2535;Naarden;Totaal actief;6.6;28.9
+2536;Naarden;Werknemer;5.8;29.8
+2537;Naarden;Zelfstandige;0.8;23.1
+2538;Naarden;Totaal niet-actief;4.4;19.6
+2539;Naarden;Werkloosheids- en bijstandsuitk.ontv.;0.2;13.3
+2540;Naarden;Pensioenontvanger;3.5;22.7
+2541;Neder-Betuwe;Totaal sociaal-economische categorie;13.1;16.8
+2542;Neder-Betuwe;Totaal actief;9.1;18.3
+2543;Neder-Betuwe;Werknemer;7.8;18.9
+2544;Neder-Betuwe;Zelfstandige;1.3;15.0
+2545;Neder-Betuwe;Totaal niet-actief;4.0;13.4
+2546;Neder-Betuwe;Werkloosheids- en bijstandsuitk.ontv.;0.3;11.1
+2547;Neder-Betuwe;Pensioenontvanger;2.9;14.5
+2548;Nederlek;Totaal sociaal-economische categorie;9.7;18.6
+2549;Nederlek;Totaal actief;6.5;20.7
+2550;Nederlek;Werknemer;5.8;21.0
+2551;Nederlek;Zelfstandige;0.7;18.2
+2552;Nederlek;Totaal niet-actief;3.2;14.4
+2553;Nederlek;Werkloosheids- en bijstandsuitk.ontv.;;
+2554;Nederlek;Pensioenontvanger;2.4;16.0
+2555;Nederweert;Totaal sociaal-economische categorie;11.0;16.5
+2556;Nederweert;Totaal actief;7.2;18.3
+2557;Nederweert;Werknemer;6.2;18.8
+2558;Nederweert;Zelfstandige;1.0;15.4
+2559;Nederweert;Totaal niet-actief;3.7;13.1
+2560;Nederweert;Werkloosheids- en bijstandsuitk.ontv.;0.2;13.7
+2561;Nederweert;Pensioenontvanger;2.6;14.0
+2562;Neerijnen;Totaal sociaal-economische categorie;7.5;18.1
+2563;Neerijnen;Totaal actief;5.4;19.5
+2564;Neerijnen;Werknemer;4.3;20.0
+2565;Neerijnen;Zelfstandige;1.0;16.9
+2566;Neerijnen;Totaal niet-actief;2.2;14.8
+2567;Neerijnen;Werkloosheids- en bijstandsuitk.ontv.;;
+2568;Neerijnen;Pensioenontvanger;1.6;16.0
+2569;Niedorp;Totaal sociaal-economische categorie;7.7;17.2
+2570;Niedorp;Totaal actief;5.4;18.8
+2571;Niedorp;Werknemer;4.5;18.9
+2572;Niedorp;Zelfstandige;0.9;17.9
+2573;Niedorp;Totaal niet-actief;2.3;13.5
+2574;Niedorp;Werkloosheids- en bijstandsuitk.ontv.;;
+2575;Niedorp;Pensioenontvanger;1.6;15.1
+2576;Nieuwegein;Totaal sociaal-economische categorie;42.5;18.4
+2577;Nieuwegein;Totaal actief;28.9;20.1
+2578;Nieuwegein;Werknemer;27.1;20.4
+2579;Nieuwegein;Zelfstandige;1.8;16.5
+2580;Nieuwegein;Totaal niet-actief;13.6;14.6
+2581;Nieuwegein;Werkloosheids- en bijstandsuitk.ontv.;1.5;12.8
+2582;Nieuwegein;Pensioenontvanger;8.1;17.1
+2583;Nieuwerkerk aan den IJssel;Totaal sociaal-economische categorie;14.0;19.9
+2584;Nieuwerkerk aan den IJssel;Totaal actief;9.9;22.2
+2585;Nieuwerkerk aan den IJssel;Werknemer;9.0;22.7
+2586;Nieuwerkerk aan den IJssel;Zelfstandige;1.0;18.1
+2587;Nieuwerkerk aan den IJssel;Totaal niet-actief;4.1;14.1
+2588;Nieuwerkerk aan den IJssel;Werkloosheids- en bijstandsuitk.ontv.;0.3;12.2
+2589;Nieuwerkerk aan den IJssel;Pensioenontvanger;2.7;16.3
+2590;Nieuwkoop;Totaal sociaal-economische categorie;7.2;19.6
+2591;Nieuwkoop;Totaal actief;5.0;20.9
+2592;Nieuwkoop;Werknemer;4.4;21.0
+2593;Nieuwkoop;Zelfstandige;0.6;20.9
+2594;Nieuwkoop;Totaal niet-actief;2.2;16.4
+2595;Nieuwkoop;Werkloosheids- en bijstandsuitk.ontv.;;
+2596;Nieuwkoop;Pensioenontvanger;1.6;18.4
+2597;Nieuw-Lekkerland;Totaal sociaal-economische categorie;5.5;17.5
+2598;Nieuw-Lekkerland;Totaal actief;4.0;18.8
+2599;Nieuw-Lekkerland;Werknemer;3.6;19.1
+2600;Nieuw-Lekkerland;Zelfstandige;0.3;15.7
+2601;Nieuw-Lekkerland;Totaal niet-actief;1.5;14.4
+2602;Nieuw-Lekkerland;Werkloosheids- en bijstandsuitk.ontv.;;
+2603;Nieuw-Lekkerland;Pensioenontvanger;1.2;15.6
+2604;Nijefurd;Totaal sociaal-economische categorie;7.2;15.8
+2605;Nijefurd;Totaal actief;4.3;17.0
+2606;Nijefurd;Werknemer;3.2;17.7
+2607;Nijefurd;Zelfstandige;1.1;15.2
+2608;Nijefurd;Totaal niet-actief;2.9;13.9
+2609;Nijefurd;Werkloosheids- en bijstandsuitk.ontv.;0.3;11.3
+2610;Nijefurd;Pensioenontvanger;2.1;15.2
+2611;Nijkerk;Totaal sociaal-economische categorie;24.7;18.2
+2612;Nijkerk;Totaal actief;16.7;19.9
+2613;Nijkerk;Werknemer;14.7;19.8
+2614;Nijkerk;Zelfstandige;2.0;20.4
+2615;Nijkerk;Totaal niet-actief;8.0;14.7
+2616;Nijkerk;Werkloosheids- en bijstandsuitk.ontv.;0.5;13.3
+2617;Nijkerk;Pensioenontvanger;5.4;16.5
+2618;Nijmegen;Totaal sociaal-economische categorie;107.2;16.8
+2619;Nijmegen;Totaal actief;61.2;19.5
+2620;Nijmegen;Werknemer;55.2;19.9
+2621;Nijmegen;Zelfstandige;5.8;16.0
+2622;Nijmegen;Totaal niet-actief;46.0;13.3
+2623;Nijmegen;Werkloosheids- en bijstandsuitk.ontv.;8.2;11.4
+2624;Nijmegen;Pensioenontvanger;23.4;16.3
+2625;Noord-Beveland;Totaal sociaal-economische categorie;5.1;15.3
+2626;Noord-Beveland;Totaal actief;3.1;15.7
+2627;Noord-Beveland;Werknemer;2.5;16.6
+2628;Noord-Beveland;Zelfstandige;0.6;11.8
+2629;Noord-Beveland;Totaal niet-actief;2.0;14.8
+2630;Noord-Beveland;Werkloosheids- en bijstandsuitk.ontv.;;
+2631;Noord-Beveland;Pensioenontvanger;1.5;15.9
+2632;Noordenveld;Totaal sociaal-economische categorie;21.2;17.8
+2633;Noordenveld;Totaal actief;12.8;19.6
+2634;Noordenveld;Werknemer;11.2;20.0
+2635;Noordenveld;Zelfstandige;1.6;16.0
+2636;Noordenveld;Totaal niet-actief;8.4;15.2
+2637;Noordenveld;Werkloosheids- en bijstandsuitk.ontv.;0.7;12.9
+2638;Noordenveld;Pensioenontvanger;6.3;16.6
+2639;Noorder-Koggenland;Totaal sociaal-economische categorie;6.9;17.9
+2640;Noorder-Koggenland;Totaal actief;4.9;19.3
+2641;Noorder-Koggenland;Werknemer;3.9;20.1
+2642;Noorder-Koggenland;Zelfstandige;1.0;16.2
+2643;Noorder-Koggenland;Totaal niet-actief;2.1;14.5
+2644;Noorder-Koggenland;Werkloosheids- en bijstandsuitk.ontv.;;
+2645;Noorder-Koggenland;Pensioenontvanger;1.4;16.1
+2646;Noordoostpolder;Totaal sociaal-economische categorie;28.7;15.8
+2647;Noordoostpolder;Totaal actief;19.0;16.6
+2648;Noordoostpolder;Werknemer;15.7;17.8
+2649;Noordoostpolder;Zelfstandige;3.3;10.9
+2650;Noordoostpolder;Totaal niet-actief;9.7;14.2
+2651;Noordoostpolder;Werkloosheids- en bijstandsuitk.ontv.;0.8;12.6
+2652;Noordoostpolder;Pensioenontvanger;6.7;15.1
+2653;Noordwijk;Totaal sociaal-economische categorie;16.6;19.1
+2654;Noordwijk;Totaal actief;10.5;21.5
+2655;Noordwijk;Werknemer;9.3;21.9
+2656;Noordwijk;Zelfstandige;1.2;17.9
+2657;Noordwijk;Totaal niet-actief;6.1;15.1
+2658;Noordwijk;Werkloosheids- en bijstandsuitk.ontv.;0.3;12.3
+2659;Noordwijk;Pensioenontvanger;4.0;17.4
+2660;Noordwijkerhout;Totaal sociaal-economische categorie;9.8;18.1
+2661;Noordwijkerhout;Totaal actief;6.2;19.7
+2662;Noordwijkerhout;Werknemer;5.2;20.2
+2663;Noordwijkerhout;Zelfstandige;1.0;17.3
+2664;Noordwijkerhout;Totaal niet-actief;3.6;15.2
+2665;Noordwijkerhout;Werkloosheids- en bijstandsuitk.ontv.;;
+2666;Noordwijkerhout;Pensioenontvanger;2.5;17.1
+2667;Nuenen, Gerwen en Nederwetten;Totaal sociaal-economische categorie;15.1;20.7
+2668;Nuenen, Gerwen en Nederwetten;Totaal actief;9.9;22.3
+2669;Nuenen, Gerwen en Nederwetten;Werknemer;8.6;23.1
+2670;Nuenen, Gerwen en Nederwetten;Zelfstandige;1.2;16.4
+2671;Nuenen, Gerwen en Nederwetten;Totaal niet-actief;5.3;17.7
+2672;Nuenen, Gerwen en Nederwetten;Werkloosheids- en bijstandsuitk.ontv.;0.4;13.5
+2673;Nuenen, Gerwen en Nederwetten;Pensioenontvanger;3.8;20.4
+2674;Nunspeet;Totaal sociaal-economische categorie;16.7;17.4
+2675;Nunspeet;Totaal actief;10.5;18.8
+2676;Nunspeet;Werknemer;9.2;18.8
+2677;Nunspeet;Zelfstandige;1.3;18.4
+2678;Nunspeet;Totaal niet-actief;6.2;15.1
+2679;Nunspeet;Werkloosheids- en bijstandsuitk.ontv.;0.3;14.7
+2680;Nunspeet;Pensioenontvanger;4.5;16.7
+2681;Nuth;Totaal sociaal-economische categorie;11.0;17.4
+2682;Nuth;Totaal actief;6.3;19.8
+2683;Nuth;Werknemer;5.5;20.3
+2684;Nuth;Zelfstandige;0.8;16.2
+2685;Nuth;Totaal niet-actief;4.7;14.2
+2686;Nuth;Werkloosheids- en bijstandsuitk.ontv.;0.3;13.8
+2687;Nuth;Pensioenontvanger;3.3;15.5
+2688;Obdam;Totaal sociaal-economische categorie;4.7;18.0
+2689;Obdam;Totaal actief;3.4;19.8
+2690;Obdam;Werknemer;2.9;19.0
+2691;Obdam;Zelfstandige;0.5;25.2
+2692;Obdam;Totaal niet-actief;1.2;13.2
+2693;Obdam;Werkloosheids- en bijstandsuitk.ontv.;;
+2694;Obdam;Pensioenontvanger;0.8;14.9
+2695;Oegstgeest;Totaal sociaal-economische categorie;13.7;23.6
+2696;Oegstgeest;Totaal actief;8.5;26.0
+2697;Oegstgeest;Werknemer;7.7;26.4
+2698;Oegstgeest;Zelfstandige;0.8;21.7
+2699;Oegstgeest;Totaal niet-actief;5.2;19.9
+2700;Oegstgeest;Werkloosheids- en bijstandsuitk.ontv.;0.3;14.2
+2701;Oegstgeest;Pensioenontvanger;4.0;22.5
+2702;Oirschot;Totaal sociaal-economische categorie;12.0;17.5
+2703;Oirschot;Totaal actief;8.1;18.9
+2704;Oirschot;Werknemer;6.8;19.9
+2705;Oirschot;Zelfstandige;1.2;13.0
+2706;Oirschot;Totaal niet-actief;3.9;14.7
+2707;Oirschot;Werkloosheids- en bijstandsuitk.ontv.;0.2;14.0
+2708;Oirschot;Pensioenontvanger;2.8;16.0
+2709;Oisterwijk;Totaal sociaal-economische categorie;17.4;18.9
+2710;Oisterwijk;Totaal actief;11.0;20.8
+2711;Oisterwijk;Werknemer;9.6;21.2
+2712;Oisterwijk;Zelfstandige;1.3;18.1
+2713;Oisterwijk;Totaal niet-actief;6.5;15.7
+2714;Oisterwijk;Werkloosheids- en bijstandsuitk.ontv.;0.4;12.3
+2715;Oisterwijk;Pensioenontvanger;4.6;17.5
+2716;Oldebroek;Totaal sociaal-economische categorie;14.3;17.1
+2717;Oldebroek;Totaal actief;9.6;18.8
+2718;Oldebroek;Werknemer;8.3;19.0
+2719;Oldebroek;Zelfstandige;1.2;16.9
+2720;Oldebroek;Totaal niet-actief;4.7;13.8
+2721;Oldebroek;Werkloosheids- en bijstandsuitk.ontv.;0.2;11.3
+2722;Oldebroek;Pensioenontvanger;3.4;15.1
+2723;Oldenzaal;Totaal sociaal-economische categorie;21.1;17.0
+2724;Oldenzaal;Totaal actief;12.7;18.9
+2725;Oldenzaal;Werknemer;11.7;19.2
+2726;Oldenzaal;Zelfstandige;1.1;15.5
+2727;Oldenzaal;Totaal niet-actief;8.3;14.2
+2728;Oldenzaal;Werkloosheids- en bijstandsuitk.ontv.;0.9;11.6
+2729;Oldenzaal;Pensioenontvanger;5.5;15.8
+2730;Olst-Wijhe;Totaal sociaal-economische categorie;11.5;16.4
+2731;Olst-Wijhe;Totaal actief;7.3;18.0
+2732;Olst-Wijhe;Werknemer;6.2;19.0
+2733;Olst-Wijhe;Zelfstandige;1.1;13.1
+2734;Olst-Wijhe;Totaal niet-actief;4.1;13.6
+2735;Olst-Wijhe;Werkloosheids- en bijstandsuitk.ontv.;0.2;11.6
+2736;Olst-Wijhe;Pensioenontvanger;2.9;14.9
+2737;Ommen;Totaal sociaal-economische categorie;11.3;16.8
+2738;Ommen;Totaal actief;7.2;18.1
+2739;Ommen;Werknemer;5.9;19.0
+2740;Ommen;Zelfstandige;1.3;13.5
+2741;Ommen;Totaal niet-actief;4.1;14.5
+2742;Ommen;Werkloosheids- en bijstandsuitk.ontv.;;
+2743;Ommen;Pensioenontvanger;3.0;16.1
+2744;Onderbanken;Totaal sociaal-economische categorie;5.5;16.2
+2745;Onderbanken;Totaal actief;3.1;18.4
+2746;Onderbanken;Werknemer;2.7;18.6
+2747;Onderbanken;Zelfstandige;0.3;16.6
+2748;Onderbanken;Totaal niet-actief;2.4;13.4
+2749;Onderbanken;Werkloosheids- en bijstandsuitk.ontv.;0.2;12.0
+2750;Onderbanken;Pensioenontvanger;1.5;15.0
+2751;Oosterhout;Totaal sociaal-economische categorie;35.7;17.9
+2752;Oosterhout;Totaal actief;22.6;19.9
+2753;Oosterhout;Werknemer;20.6;20.1
+2754;Oosterhout;Zelfstandige;2.0;18.0
+2755;Oosterhout;Totaal niet-actief;13.1;14.3
+2756;Oosterhout;Werkloosheids- en bijstandsuitk.ontv.;1.1;12.4
+2757;Oosterhout;Pensioenontvanger;8.9;16.0
+2758;Oostflakkee;Totaal sociaal-economische categorie;6.8;16.5
+2759;Oostflakkee;Totaal actief;4.5;18.3
+2760;Oostflakkee;Werknemer;3.9;19.2
+2761;Oostflakkee;Zelfstandige;0.6;12.3
+2762;Oostflakkee;Totaal niet-actief;2.3;13.0
+2763;Oostflakkee;Werkloosheids- en bijstandsuitk.ontv.;;
+2764;Oostflakkee;Pensioenontvanger;1.7;14.0
+2765;Ooststellingwerf;Totaal sociaal-economische categorie;17.5;15.8
+2766;Ooststellingwerf;Totaal actief;10.6;17.3
+2767;Ooststellingwerf;Werknemer;8.8;17.9
+2768;Ooststellingwerf;Zelfstandige;1.7;13.8
+2769;Ooststellingwerf;Totaal niet-actief;6.9;13.4
+2770;Ooststellingwerf;Werkloosheids- en bijstandsuitk.ontv.;0.7;11.8
+2771;Ooststellingwerf;Pensioenontvanger;4.8;14.6
+2772;Oostzaan;Totaal sociaal-economische categorie;6.3;19.3
+2773;Oostzaan;Totaal actief;4.2;21.3
+2774;Oostzaan;Werknemer;3.7;21.6
+2775;Oostzaan;Zelfstandige;0.5;18.9
+2776;Oostzaan;Totaal niet-actief;2.1;15.4
+2777;Oostzaan;Werkloosheids- en bijstandsuitk.ontv.;;
+2778;Oostzaan;Pensioenontvanger;1.6;17.0
+2779;Opmeer;Totaal sociaal-economische categorie;7.4;18.6
+2780;Opmeer;Totaal actief;5.3;19.0
+2781;Opmeer;Werknemer;4.5;19.4
+2782;Opmeer;Zelfstandige;0.8;17.2
+2783;Opmeer;Totaal niet-actief;2.1;17.7
+2784;Opmeer;Werkloosheids- en bijstandsuitk.ontv.;;
+2785;Opmeer;Pensioenontvanger;1.5;17.9
+2786;Opsterland;Totaal sociaal-economische categorie;19.3;16.4
+2787;Opsterland;Totaal actief;12.1;18.0
+2788;Opsterland;Werknemer;10.1;18.6
+2789;Opsterland;Zelfstandige;1.9;14.9
+2790;Opsterland;Totaal niet-actief;7.2;13.7
+2791;Opsterland;Werkloosheids- en bijstandsuitk.ontv.;0.5;13.3
+2792;Opsterland;Pensioenontvanger;4.8;15.3
+2793;Oss;Totaal sociaal-economische categorie;50.8;17.3
+2794;Oss;Totaal actief;31.4;19.3
+2795;Oss;Werknemer;28.4;19.6
+2796;Oss;Zelfstandige;3.0;16.2
+2797;Oss;Totaal niet-actief;19.4;14.1
+2798;Oss;Werkloosheids- en bijstandsuitk.ontv.;1.7;12.2
+2799;Oss;Pensioenontvanger;11.9;16.0
+2800;Oud-Beijerland;Totaal sociaal-economische categorie;15.6;18.9
+2801;Oud-Beijerland;Totaal actief;10.7;20.6
+2802;Oud-Beijerland;Werknemer;9.8;20.8
+2803;Oud-Beijerland;Zelfstandige;0.9;18.1
+2804;Oud-Beijerland;Totaal niet-actief;4.9;15.1
+2805;Oud-Beijerland;Werkloosheids- en bijstandsuitk.ontv.;0.3;12.7
+2806;Oud-Beijerland;Pensioenontvanger;3.5;17.0
+2807;Oude IJsselstreek;Totaal sociaal-economische categorie;26.7;16.2
+2808;Oude IJsselstreek;Totaal actief;16.7;17.7
+2809;Oude IJsselstreek;Werknemer;14.6;18.1
+2810;Oude IJsselstreek;Zelfstandige;2.1;14.8
+2811;Oude IJsselstreek;Totaal niet-actief;10.0;13.6
+2812;Oude IJsselstreek;Werkloosheids- en bijstandsuitk.ontv.;0.7;12.0
+2813;Oude IJsselstreek;Pensioenontvanger;7.1;14.7
+2814;Ouder-Amstel;Totaal sociaal-economische categorie;9.0;21.8
+2815;Ouder-Amstel;Totaal actief;5.9;24.5
+2816;Ouder-Amstel;Werknemer;5.1;25.6
+2817;Ouder-Amstel;Zelfstandige;0.8;17.9
+2818;Ouder-Amstel;Totaal niet-actief;3.1;16.5
+2819;Ouder-Amstel;Werkloosheids- en bijstandsuitk.ontv.;0.2;13.3
+2820;Ouder-Amstel;Pensioenontvanger;2.3;18.5
+2821;Ouderkerk;Totaal sociaal-economische categorie;5.1;18.5
+2822;Ouderkerk;Totaal actief;3.5;20.2
+2823;Ouderkerk;Werknemer;2.9;20.6
+2824;Ouderkerk;Zelfstandige;0.5;17.2
+2825;Ouderkerk;Totaal niet-actief;1.6;14.7
+2826;Ouderkerk;Werkloosheids- en bijstandsuitk.ontv.;;
+2827;Ouderkerk;Pensioenontvanger;1.3;15.8
+2828;Oudewater;Totaal sociaal-economische categorie;6.6;18.5
+2829;Oudewater;Totaal actief;4.5;20.0
+2830;Oudewater;Werknemer;3.8;20.7
+2831;Oudewater;Zelfstandige;0.7;16.5
+2832;Oudewater;Totaal niet-actief;2.1;14.9
+2833;Oudewater;Werkloosheids- en bijstandsuitk.ontv.;;
+2834;Oudewater;Pensioenontvanger;1.6;16.4
+2835;Overbetuwe;Totaal sociaal-economische categorie;27.5;17.7
+2836;Overbetuwe;Totaal actief;18.7;19.4
+2837;Overbetuwe;Werknemer;16.7;19.9
+2838;Overbetuwe;Zelfstandige;2.0;15.5
+2839;Overbetuwe;Totaal niet-actief;8.8;14.2
+2840;Overbetuwe;Werkloosheids- en bijstandsuitk.ontv.;0.8;12.7
+2841;Overbetuwe;Pensioenontvanger;6.1;15.9
+2842;Papendrecht;Totaal sociaal-economische categorie;20.8;18.7
+2843;Papendrecht;Totaal actief;13.8;20.1
+2844;Papendrecht;Werknemer;12.7;20.1
+2845;Papendrecht;Zelfstandige;1.1;20.1
+2846;Papendrecht;Totaal niet-actief;7.0;16.1
+2847;Papendrecht;Werkloosheids- en bijstandsuitk.ontv.;0.5;12.1
+2848;Papendrecht;Pensioenontvanger;5.0;18.2
+2849;Pekela;Totaal sociaal-economische categorie;8.8;14.7
+2850;Pekela;Totaal actief;4.9;16.6
+2851;Pekela;Werknemer;4.5;17.5
+2852;Pekela;Zelfstandige;0.4;5.8
+2853;Pekela;Totaal niet-actief;3.9;12.4
+2854;Pekela;Werkloosheids- en bijstandsuitk.ontv.;0.5;11.1
+2855;Pekela;Pensioenontvanger;2.4;13.5
+2856;Pijnacker-Nootdorp;Totaal sociaal-economische categorie;25.5;19.3
+2857;Pijnacker-Nootdorp;Totaal actief;18.4;20.8
+2858;Pijnacker-Nootdorp;Werknemer;16.4;21.1
+2859;Pijnacker-Nootdorp;Zelfstandige;2.0;18.5
+2860;Pijnacker-Nootdorp;Totaal niet-actief;7.1;15.2
+2861;Pijnacker-Nootdorp;Werkloosheids- en bijstandsuitk.ontv.;0.4;14.2
+2862;Pijnacker-Nootdorp;Pensioenontvanger;5.0;17.5
+2863;Purmerend;Totaal sociaal-economische categorie;53.0;17.2
+2864;Purmerend;Totaal actief;34.0;19.0
+2865;Purmerend;Werknemer;31.2;19.4
+2866;Purmerend;Zelfstandige;2.8;14.6
+2867;Purmerend;Totaal niet-actief;19.0;14.0
+2868;Purmerend;Werkloosheids- en bijstandsuitk.ontv.;1.8;12.9
+2869;Purmerend;Pensioenontvanger;11.7;15.9
+2870;Putten;Totaal sociaal-economische categorie;14.6;18.1
+2871;Putten;Totaal actief;9.5;19.6
+2872;Putten;Werknemer;8.0;20.0
+2873;Putten;Zelfstandige;1.5;18.0
+2874;Putten;Totaal niet-actief;5.1;15.1
+2875;Putten;Werkloosheids- en bijstandsuitk.ontv.;0.3;13.4
+2876;Putten;Pensioenontvanger;3.7;16.8
+2877;Raalte;Totaal sociaal-economische categorie;24.8;16.8
+2878;Raalte;Totaal actief;16.4;18.4
+2879;Raalte;Werknemer;14.4;18.7
+2880;Raalte;Zelfstandige;1.9;16.2
+2881;Raalte;Totaal niet-actief;8.4;13.7
+2882;Raalte;Werkloosheids- en bijstandsuitk.ontv.;0.5;13.1
+2883;Raalte;Pensioenontvanger;5.9;15.2
+2884;Reeuwijk;Totaal sociaal-economische categorie;8.3;20.8
+2885;Reeuwijk;Totaal actief;5.5;22.5
+2886;Reeuwijk;Werknemer;4.6;23.4
+2887;Reeuwijk;Zelfstandige;0.9;17.6
+2888;Reeuwijk;Totaal niet-actief;2.7;17.6
+2889;Reeuwijk;Werkloosheids- en bijstandsuitk.ontv.;;
+2890;Reeuwijk;Pensioenontvanger;2.1;18.6
+2891;Reiderland;Totaal sociaal-economische categorie;4.7;14.1
+2892;Reiderland;Totaal actief;2.5;15.4
+2893;Reiderland;Werknemer;2.2;17.0
+2894;Reiderland;Zelfstandige;0.3;4.5
+2895;Reiderland;Totaal niet-actief;2.2;12.7
+2896;Reiderland;Werkloosheids- en bijstandsuitk.ontv.;0.3;10.8
+2897;Reiderland;Pensioenontvanger;1.4;13.7
+2898;Reimerswaal;Totaal sociaal-economische categorie;12.9;17.3
+2899;Reimerswaal;Totaal actief;8.5;18.9
+2900;Reimerswaal;Werknemer;7.2;19.2
+2901;Reimerswaal;Zelfstandige;1.1;16.8
+2902;Reimerswaal;Totaal niet-actief;4.5;14.4
+2903;Reimerswaal;Werkloosheids- en bijstandsuitk.ontv.;0.3;12.2
+2904;Reimerswaal;Pensioenontvanger;3.4;15.3
+2905;Renkum;Totaal sociaal-economische categorie;21.9;20.2
+2906;Renkum;Totaal actief;12.0;22.3
+2907;Renkum;Werknemer;10.6;22.6
+2908;Renkum;Zelfstandige;1.4;20.4
+2909;Renkum;Totaal niet-actief;9.9;17.6
+2910;Renkum;Werkloosheids- en bijstandsuitk.ontv.;0.6;12.7
+2911;Renkum;Pensioenontvanger;7.8;19.3
+2912;Renswoude;Totaal sociaal-economische categorie;2.6;17.7
+2913;Renswoude;Totaal actief;1.9;19.1
+2914;Renswoude;Werknemer;1.5;19.0
+2915;Renswoude;Zelfstandige;0.4;19.3
+2916;Renswoude;Totaal niet-actief;0.7;14.2
+2917;Renswoude;Werkloosheids- en bijstandsuitk.ontv.;;
+2918;Renswoude;Pensioenontvanger;0.5;16.3
+2919;Reusel-De Mierden;Totaal sociaal-economische categorie;8.5;16.4
+2920;Reusel-De Mierden;Totaal actief;5.9;17.8
+2921;Reusel-De Mierden;Werknemer;4.9;17.9
+2922;Reusel-De Mierden;Zelfstandige;1.0;17.2
+2923;Reusel-De Mierden;Totaal niet-actief;2.6;13.1
+2924;Reusel-De Mierden;Werkloosheids- en bijstandsuitk.ontv.;;
+2925;Reusel-De Mierden;Pensioenontvanger;1.7;14.5
+2926;Rheden;Totaal sociaal-economische categorie;31.5;18.2
+2927;Rheden;Totaal actief;16.9;20.4
+2928;Rheden;Werknemer;15.3;20.8
+2929;Rheden;Zelfstandige;1.6;16.4
+2930;Rheden;Totaal niet-actief;14.5;15.7
+2931;Rheden;Werkloosheids- en bijstandsuitk.ontv.;1.2;12.4
+2932;Rheden;Pensioenontvanger;10.5;17.6
+2933;Rhenen;Totaal sociaal-economische categorie;11.7;18.3
+2934;Rhenen;Totaal actief;7.4;19.8
+2935;Rhenen;Werknemer;6.5;20.3
+2936;Rhenen;Zelfstandige;0.9;16.4
+2937;Rhenen;Totaal niet-actief;4.3;15.6
+2938;Rhenen;Werkloosheids- en bijstandsuitk.ontv.;0.3;11.6
+2939;Rhenen;Pensioenontvanger;3.1;17.7
+2940;Ridderkerk;Totaal sociaal-economische categorie;31.1;18.0
+2941;Ridderkerk;Totaal actief;18.9;20.3
+2942;Ridderkerk;Werknemer;17.3;20.3
+2943;Ridderkerk;Zelfstandige;1.5;20.2
+2944;Ridderkerk;Totaal niet-actief;12.2;14.4
+2945;Ridderkerk;Werkloosheids- en bijstandsuitk.ontv.;0.9;12.5
+2946;Ridderkerk;Pensioenontvanger;9.1;15.7
+2947;Rijnsburg;Totaal sociaal-economische categorie;9.2;18.3
+2948;Rijnsburg;Totaal actief;6.8;19.7
+2949;Rijnsburg;Werknemer;6.0;19.6
+2950;Rijnsburg;Zelfstandige;0.8;20.8
+2951;Rijnsburg;Totaal niet-actief;2.4;14.3
+2952;Rijnsburg;Werkloosheids- en bijstandsuitk.ontv.;;
+2953;Rijnsburg;Pensioenontvanger;1.7;15.8
+2954;Rijnwaarden;Totaal sociaal-economische categorie;7.3;15.8
+2955;Rijnwaarden;Totaal actief;4.7;17.5
+2956;Rijnwaarden;Werknemer;4.2;17.9
+2957;Rijnwaarden;Zelfstandige;0.5;13.4
+2958;Rijnwaarden;Totaal niet-actief;2.6;13.0
+2959;Rijnwaarden;Werkloosheids- en bijstandsuitk.ontv.;0.3;10.6
+2960;Rijnwaarden;Pensioenontvanger;1.6;14.3
+2961;Rijnwoude;Totaal sociaal-economische categorie;12.4;18.9
+2962;Rijnwoude;Totaal actief;8.7;20.5
+2963;Rijnwoude;Werknemer;7.6;21.1
+2964;Rijnwoude;Zelfstandige;1.1;16.5
+2965;Rijnwoude;Totaal niet-actief;3.6;15.0
+2966;Rijnwoude;Werkloosheids- en bijstandsuitk.ontv.;;
+2967;Rijnwoude;Pensioenontvanger;2.8;16.5
+2968;Rijssen-Holten;Totaal sociaal-economische categorie;22.5;16.8
+2969;Rijssen-Holten;Totaal actief;14.3;18.6
+2970;Rijssen-Holten;Werknemer;12.9;18.8
+2971;Rijssen-Holten;Zelfstandige;1.4;17.0
+2972;Rijssen-Holten;Totaal niet-actief;8.1;13.7
+2973;Rijssen-Holten;Werkloosheids- en bijstandsuitk.ontv.;0.5;11.6
+2974;Rijssen-Holten;Pensioenontvanger;5.7;15.0
+2975;Rijswijk (ZH.);Totaal sociaal-economische categorie;34.2;19.3
+2976;Rijswijk (ZH.);Totaal actief;19.1;21.5
+2977;Rijswijk (ZH.);Werknemer;17.4;21.7
+2978;Rijswijk (ZH.);Zelfstandige;1.7;19.6
+2979;Rijswijk (ZH.);Totaal niet-actief;15.1;16.5
+2980;Rijswijk (ZH.);Werkloosheids- en bijstandsuitk.ontv.;1.5;12.5
+2981;Rijswijk (ZH.);Pensioenontvanger;11.3;18.2
+2982;Roerdalen;Totaal sociaal-economische categorie;6.7;17.9
+2983;Roerdalen;Totaal actief;4.2;19.7
+2984;Roerdalen;Werknemer;3.7;20.2
+2985;Roerdalen;Zelfstandige;0.5;15.3
+2986;Roerdalen;Totaal niet-actief;2.5;15.0
+2987;Roerdalen;Werkloosheids- en bijstandsuitk.ontv.;0.2;13.9
+2988;Roerdalen;Pensioenontvanger;1.7;16.4
+2989;Roermond;Totaal sociaal-economische categorie;30.1;16.8
+2990;Roermond;Totaal actief;17.2;18.7
+2991;Roermond;Werknemer;15.7;19.0
+2992;Roermond;Zelfstandige;1.4;15.5
+2993;Roermond;Totaal niet-actief;12.9;14.5
+2994;Roermond;Werkloosheids- en bijstandsuitk.ontv.;2.3;11.7
+2995;Roermond;Pensioenontvanger;7.6;16.9
+2996;Roggel en Neer;Totaal sociaal-economische categorie;5.8;16.8
+2997;Roggel en Neer;Totaal actief;3.9;18.7
+2998;Roggel en Neer;Werknemer;3.3;18.6
+2999;Roggel en Neer;Zelfstandige;0.6;18.8
+3000;Roggel en Neer;Totaal niet-actief;1.9;13.2
+3001;Roggel en Neer;Werkloosheids- en bijstandsuitk.ontv.;;
+3002;Roggel en Neer;Pensioenontvanger;1.4;14.0
+3003;Roosendaal;Totaal sociaal-economische categorie;51.3;17.4
+3004;Roosendaal;Totaal actief;31.5;19.4
+3005;Roosendaal;Werknemer;28.6;19.8
+3006;Roosendaal;Zelfstandige;2.9;15.6
+3007;Roosendaal;Totaal niet-actief;19.8;14.2
+3008;Roosendaal;Werkloosheids- en bijstandsuitk.ontv.;2.3;11.7
+3009;Roosendaal;Pensioenontvanger;13.3;15.7
+3010;Rotterdam;Totaal sociaal-economische categorie;381.7;17.0
+3011;Rotterdam;Totaal actief;208.2;20.1
+3012;Rotterdam;Werknemer;189.2;20.5
+3013;Rotterdam;Zelfstandige;18.8;15.8
+3014;Rotterdam;Totaal niet-actief;173.4;13.4
+3015;Rotterdam;Werkloosheids- en bijstandsuitk.ontv.;42.7;11.5
+3016;Rotterdam;Pensioenontvanger;94.1;15.3
+3017;Rozenburg;Totaal sociaal-economische categorie;8.7;18.4
+3018;Rozenburg;Totaal actief;5.6;20.3
+3019;Rozenburg;Werknemer;5.3;20.4
+3020;Rozenburg;Zelfstandige;0.3;19.0
+3021;Rozenburg;Totaal niet-actief;3.1;14.9
+3022;Rozenburg;Werkloosheids- en bijstandsuitk.ontv.;0.3;12.9
+3023;Rozenburg;Pensioenontvanger;2.2;16.5
+3024;Rozendaal;Totaal sociaal-economische categorie;1.0;27.8
+3025;Rozendaal;Totaal actief;0.6;29.9
+3026;Rozendaal;Werknemer;0.5;30.0
+3027;Rozendaal;Zelfstandige;;
+3028;Rozendaal;Totaal niet-actief;0.5;25.3
+3029;Rozendaal;Werkloosheids- en bijstandsuitk.ontv.;;
+3030;Rozendaal;Pensioenontvanger;0.4;27.6
+3031;Rucphen;Totaal sociaal-economische categorie;15.6;16.6
+3032;Rucphen;Totaal actief;9.6;18.9
+3033;Rucphen;Werknemer;8.1;19.1
+3034;Rucphen;Zelfstandige;1.5;17.5
+3035;Rucphen;Totaal niet-actief;6.0;13.1
+3036;Rucphen;Werkloosheids- en bijstandsuitk.ontv.;0.6;11.8
+3037;Rucphen;Pensioenontvanger;3.6;14.0
+3038;Sassenheim;Totaal sociaal-economische categorie;10.0;18.9
+3039;Sassenheim;Totaal actief;6.6;20.6
+3040;Sassenheim;Werknemer;6.0;20.8
+3041;Sassenheim;Zelfstandige;0.6;18.3
+3042;Sassenheim;Totaal niet-actief;3.4;15.5
+3043;Sassenheim;Werkloosheids- en bijstandsuitk.ontv.;;
+3044;Sassenheim;Pensioenontvanger;2.6;17.2
+3045;Schagen;Totaal sociaal-economische categorie;12.9;17.6
+3046;Schagen;Totaal actief;8.0;19.1
+3047;Schagen;Werknemer;7.3;19.5
+3048;Schagen;Zelfstandige;0.7;15.4
+3049;Schagen;Totaal niet-actief;4.9;15.0
+3050;Schagen;Werkloosheids- en bijstandsuitk.ontv.;0.4;12.1
+3051;Schagen;Pensioenontvanger;3.3;17.0
+3052;Scheemda;Totaal sociaal-economische categorie;9.3;15.8
+3053;Scheemda;Totaal actief;5.7;17.7
+3054;Scheemda;Werknemer;5.1;18.1
+3055;Scheemda;Zelfstandige;0.6;14.4
+3056;Scheemda;Totaal niet-actief;3.6;12.8
+3057;Scheemda;Werkloosheids- en bijstandsuitk.ontv.;0.4;11.5
+3058;Scheemda;Pensioenontvanger;2.4;13.8
+3059;Schermer;Totaal sociaal-economische categorie;3.2;17.9
+3060;Schermer;Totaal actief;2.3;19.3
+3061;Schermer;Werknemer;1.7;20.5
+3062;Schermer;Zelfstandige;0.6;15.7
+3063;Schermer;Totaal niet-actief;1.0;14.6
+3064;Schermer;Werkloosheids- en bijstandsuitk.ontv.;;
+3065;Schermer;Pensioenontvanger;0.7;16.4
+3066;Scherpenzeel;Totaal sociaal-economische categorie;5.7;18.5
+3067;Scherpenzeel;Totaal actief;3.8;19.8
+3068;Scherpenzeel;Werknemer;3.4;19.8
+3069;Scherpenzeel;Zelfstandige;0.4;20.2
+3070;Scherpenzeel;Totaal niet-actief;1.9;15.8
+3071;Scherpenzeel;Werkloosheids- en bijstandsuitk.ontv.;;
+3072;Scherpenzeel;Pensioenontvanger;1.3;17.7
+3073;Schiedam;Totaal sociaal-economische categorie;49.7;17.2
+3074;Schiedam;Totaal actief;29.7;19.6
+3075;Schiedam;Werknemer;27.1;20.0
+3076;Schiedam;Zelfstandige;2.5;15.4
+3077;Schiedam;Totaal niet-actief;20.0;13.7
+3078;Schiedam;Werkloosheids- en bijstandsuitk.ontv.;3.3;11.7
+3079;Schiedam;Pensioenontvanger;12.8;15.0
+3080;Schiermonnikoog;Totaal sociaal-economische categorie;0.7;16.9
+3081;Schiermonnikoog;Totaal actief;0.4;17.3
+3082;Schiermonnikoog;Werknemer;0.3;18.9
+3083;Schiermonnikoog;Zelfstandige;;
+3084;Schiermonnikoog;Totaal niet-actief;0.3;16.1
+3085;Schiermonnikoog;Werkloosheids- en bijstandsuitk.ontv.;;
+3086;Schiermonnikoog;Pensioenontvanger;0.2;16.6
+3087;Schijndel;Totaal sociaal-economische categorie;15.5;17.0
+3088;Schijndel;Totaal actief;10.2;18.6
+3089;Schijndel;Werknemer;8.9;18.8
+3090;Schijndel;Zelfstandige;1.3;17.5
+3091;Schijndel;Totaal niet-actief;5.3;14.0
+3092;Schijndel;Werkloosheids- en bijstandsuitk.ontv.;0.3;12.7
+3093;Schijndel;Pensioenontvanger;3.4;15.5
+3094;Schinnen;Totaal sociaal-economische categorie;9.0;17.9
+3095;Schinnen;Totaal actief;5.4;19.9
+3096;Schinnen;Werknemer;4.7;20.6
+3097;Schinnen;Zelfstandige;0.7;14.4
+3098;Schinnen;Totaal niet-actief;3.6;15.0
+3099;Schinnen;Werkloosheids- en bijstandsuitk.ontv.;0.3;12.9
+3100;Schinnen;Pensioenontvanger;2.4;16.8
+3101;Schoonhoven;Totaal sociaal-economische categorie;8.0;18.2
+3102;Schoonhoven;Totaal actief;5.4;20.1
+3103;Schoonhoven;Werknemer;4.8;20.7
+3104;Schoonhoven;Zelfstandige;0.6;14.9
+3105;Schoonhoven;Totaal niet-actief;2.6;14.3
+3106;Schoonhoven;Werkloosheids- en bijstandsuitk.ontv.;0.3;11.7
+3107;Schoonhoven;Pensioenontvanger;1.8;16.1
+3108;Schouwen-Duiveland;Totaal sociaal-economische categorie;23.7;17.7
+3109;Schouwen-Duiveland;Totaal actief;14.5;19.3
+3110;Schouwen-Duiveland;Werknemer;11.7;20.0
+3111;Schouwen-Duiveland;Zelfstandige;2.7;15.8
+3112;Schouwen-Duiveland;Totaal niet-actief;9.2;15.4
+3113;Schouwen-Duiveland;Werkloosheids- en bijstandsuitk.ontv.;0.4;12.6
+3114;Schouwen-Duiveland;Pensioenontvanger;7.2;16.6
+3115;Sevenum;Totaal sociaal-economische categorie;5.2;16.3
+3116;Sevenum;Totaal actief;3.6;17.2
+3117;Sevenum;Werknemer;3.0;18.0
+3118;Sevenum;Zelfstandige;0.6;13.2
+3119;Sevenum;Totaal niet-actief;1.6;14.4
+3120;Sevenum;Werkloosheids- en bijstandsuitk.ontv.;;
+3121;Sevenum;Pensioenontvanger;1.2;15.9
+3122;'s-Gravendeel;Totaal sociaal-economische categorie;6.0;17.8
+3123;'s-Gravendeel;Totaal actief;4.2;19.6
+3124;'s-Gravendeel;Werknemer;3.7;20.2
+3125;'s-Gravendeel;Zelfstandige;0.5;15.7
+3126;'s-Gravendeel;Totaal niet-actief;1.8;13.7
+3127;'s-Gravendeel;Werkloosheids- en bijstandsuitk.ontv.;;
+3128;'s-Gravendeel;Pensioenontvanger;1.4;14.9
+3129;'s-Gravenhage (gemeente);Totaal sociaal-economische categorie;300.6;18.5
+3130;'s-Gravenhage (gemeente);Totaal actief;178.5;20.9
+3131;'s-Gravenhage (gemeente);Werknemer;160.7;21.4
+3132;'s-Gravenhage (gemeente);Zelfstandige;17.6;16.1
+3133;'s-Gravenhage (gemeente);Totaal niet-actief;122.0;15.0
+3134;'s-Gravenhage (gemeente);Werkloosheids- en bijstandsuitk.ontv.;23.8;11.9
+3135;'s-Gravenhage (gemeente);Pensioenontvanger;70.8;17.7
+3136;'s-Hertogenbosch;Totaal sociaal-economische categorie;91.5;17.8
+3137;'s-Hertogenbosch;Totaal actief;57.7;19.9
+3138;'s-Hertogenbosch;Werknemer;51.9;20.4
+3139;'s-Hertogenbosch;Zelfstandige;5.6;15.5
+3140;'s-Hertogenbosch;Totaal niet-actief;33.9;14.3
+3141;'s-Hertogenbosch;Werkloosheids- en bijstandsuitk.ontv.;4.5;11.6
+3142;'s-Hertogenbosch;Pensioenontvanger;20.1;16.8
+3143;Simpelveld;Totaal sociaal-economische categorie;7.4;16.6
+3144;Simpelveld;Totaal actief;4.2;18.5
+3145;Simpelveld;Werknemer;3.8;18.8
+3146;Simpelveld;Zelfstandige;0.4;15.4
+3147;Simpelveld;Totaal niet-actief;3.2;14.1
+3148;Simpelveld;Werkloosheids- en bijstandsuitk.ontv.;0.2;13.2
+3149;Simpelveld;Pensioenontvanger;2.2;15.5
+3150;Sint Anthonis;Totaal sociaal-economische categorie;7.9;16.9
+3151;Sint Anthonis;Totaal actief;5.1;18.7
+3152;Sint Anthonis;Werknemer;4.0;19.5
+3153;Sint Anthonis;Zelfstandige;1.1;15.7
+3154;Sint Anthonis;Totaal niet-actief;2.8;13.5
+3155;Sint Anthonis;Werkloosheids- en bijstandsuitk.ontv.;;
+3156;Sint Anthonis;Pensioenontvanger;1.9;14.7
+3157;Sint-Michielsgestel;Totaal sociaal-economische categorie;18.6;18.6
+3158;Sint-Michielsgestel;Totaal actief;12.2;20.3
+3159;Sint-Michielsgestel;Werknemer;10.2;20.9
+3160;Sint-Michielsgestel;Zelfstandige;1.9;17.3
+3161;Sint-Michielsgestel;Totaal niet-actief;6.4;15.3
+3162;Sint-Michielsgestel;Werkloosheids- en bijstandsuitk.ontv.;0.3;13.5
+3163;Sint-Michielsgestel;Pensioenontvanger;4.7;16.8
+3164;Sint-Oedenrode;Totaal sociaal-economische categorie;11.4;17.4
+3165;Sint-Oedenrode;Totaal actief;7.6;19.0
+3166;Sint-Oedenrode;Werknemer;6.6;19.4
+3167;Sint-Oedenrode;Zelfstandige;1.0;16.2
+3168;Sint-Oedenrode;Totaal niet-actief;3.8;14.2
+3169;Sint-Oedenrode;Werkloosheids- en bijstandsuitk.ontv.;;
+3170;Sint-Oedenrode;Pensioenontvanger;2.7;15.6
+3171;Sittard-Geleen;Totaal sociaal-economische categorie;65.4;17.1
+3172;Sittard-Geleen;Totaal actief;36.0;19.5
+3173;Sittard-Geleen;Werknemer;33.0;19.7
+3174;Sittard-Geleen;Zelfstandige;2.9;17.8
+3175;Sittard-Geleen;Totaal niet-actief;29.3;14.2
+3176;Sittard-Geleen;Werkloosheids- en bijstandsuitk.ontv.;3.5;11.8
+3177;Sittard-Geleen;Pensioenontvanger;18.0;16.2
+3178;SkarsterlÔn;Totaal sociaal-economische categorie;17.4;16.8
+3179;SkarsterlÔn;Totaal actief;11.2;18.2
+3180;SkarsterlÔn;Werknemer;9.2;18.6
+3181;SkarsterlÔn;Zelfstandige;1.9;16.2
+3182;SkarsterlÔn;Totaal niet-actief;6.2;14.2
+3183;SkarsterlÔn;Werkloosheids- en bijstandsuitk.ontv.;0.5;12.7
+3184;SkarsterlÔn;Pensioenontvanger;4.5;15.6
+3185;Sliedrecht;Totaal sociaal-economische categorie;15.9;17.4
+3186;Sliedrecht;Totaal actief;9.8;19.3
+3187;Sliedrecht;Werknemer;9.0;19.4
+3188;Sliedrecht;Zelfstandige;0.8;18.3
+3189;Sliedrecht;Totaal niet-actief;6.1;14.3
+3190;Sliedrecht;Werkloosheids- en bijstandsuitk.ontv.;0.3;11.6
+3191;Sliedrecht;Pensioenontvanger;4.3;16.1
+3192;Slochteren;Totaal sociaal-economische categorie;9.6;17.2
+3193;Slochteren;Totaal actief;6.3;19.3
+3194;Slochteren;Werknemer;5.4;19.6
+3195;Slochteren;Zelfstandige;0.9;17.8
+3196;Slochteren;Totaal niet-actief;3.3;13.3
+3197;Slochteren;Werkloosheids- en bijstandsuitk.ontv.;0.2;11.8
+3198;Slochteren;Pensioenontvanger;2.3;14.4
+3199;Sluis;Totaal sociaal-economische categorie;16.7;16.7
+3200;Sluis;Totaal actief;9.7;18.3
+3201;Sluis;Werknemer;7.4;19.4
+3202;Sluis;Zelfstandige;2.2;14.3
+3203;Sluis;Totaal niet-actief;7.0;14.5
+3204;Sluis;Werkloosheids- en bijstandsuitk.ontv.;0.4;12.0
+3205;Sluis;Pensioenontvanger;5.5;15.5
+3206;Smallingerland;Totaal sociaal-economische categorie;35.8;16.5
+3207;Smallingerland;Totaal actief;20.8;18.1
+3208;Smallingerland;Werknemer;18.6;18.3
+3209;Smallingerland;Zelfstandige;2.1;16.6
+3210;Smallingerland;Totaal niet-actief;15.0;14.2
+3211;Smallingerland;Werkloosheids- en bijstandsuitk.ontv.;2.0;12.1
+3212;Smallingerland;Pensioenontvanger;9.5;15.6
+3213;Sneek;Totaal sociaal-economische categorie;22.0;16.5
+3214;Sneek;Totaal actief;12.9;18.3
+3215;Sneek;Werknemer;11.5;18.5
+3216;Sneek;Zelfstandige;1.4;16.2
+3217;Sneek;Totaal niet-actief;9.1;14.1
+3218;Sneek;Werkloosheids- en bijstandsuitk.ontv.;1.1;12.1
+3219;Sneek;Pensioenontvanger;5.9;15.8
+3220;Soest;Totaal sociaal-economische categorie;30.2;20.2
+3221;Soest;Totaal actief;18.7;22.2
+3222;Soest;Werknemer;16.6;22.6
+3223;Soest;Zelfstandige;2.1;19.4
+3224;Soest;Totaal niet-actief;11.6;17.0
+3225;Soest;Werkloosheids- en bijstandsuitk.ontv.;0.9;13.1
+3226;Soest;Pensioenontvanger;8.3;19.1
+3227;Someren;Totaal sociaal-economische categorie;11.8;16.5
+3228;Someren;Totaal actief;7.7;18.1
+3229;Someren;Werknemer;6.5;18.6
+3230;Someren;Zelfstandige;1.2;15.5
+3231;Someren;Totaal niet-actief;4.1;13.6
+3232;Someren;Werkloosheids- en bijstandsuitk.ontv.;0.3;12.5
+3233;Someren;Pensioenontvanger;2.7;14.8
+3234;Son en Breugel;Totaal sociaal-economische categorie;10.0;20.2
+3235;Son en Breugel;Totaal actief;6.1;20.9
+3236;Son en Breugel;Werknemer;5.3;21.1
+3237;Son en Breugel;Zelfstandige;0.8;19.6
+3238;Son en Breugel;Totaal niet-actief;4.0;19.1
+3239;Son en Breugel;Werkloosheids- en bijstandsuitk.ontv.;0.3;12.0
+3240;Son en Breugel;Pensioenontvanger;3.0;21.7
+3241;Spijkenisse;Totaal sociaal-economische categorie;49.4;17.6
+3242;Spijkenisse;Totaal actief;32.6;19.4
+3243;Spijkenisse;Werknemer;30.8;19.6
+3244;Spijkenisse;Zelfstandige;1.8;16.3
+3245;Spijkenisse;Totaal niet-actief;16.8;14.1
+3246;Spijkenisse;Werkloosheids- en bijstandsuitk.ontv.;2.4;12.6
+3247;Spijkenisse;Pensioenontvanger;10.5;16.1
+3248;Stadskanaal;Totaal sociaal-economische categorie;22.6;15.5
+3249;Stadskanaal;Totaal actief;12.4;17.4
+3250;Stadskanaal;Werknemer;11.1;17.5
+3251;Stadskanaal;Zelfstandige;1.4;16.3
+3252;Stadskanaal;Totaal niet-actief;10.1;13.1
+3253;Stadskanaal;Werkloosheids- en bijstandsuitk.ontv.;1.2;12.3
+3254;Stadskanaal;Pensioenontvanger;6.7;14.0
+3255;Staphorst;Totaal sociaal-economische categorie;9.1;17.0
+3256;Staphorst;Totaal actief;6.7;18.4
+3257;Staphorst;Werknemer;5.3;18.4
+3258;Staphorst;Zelfstandige;1.3;18.6
+3259;Staphorst;Totaal niet-actief;2.5;13.0
+3260;Staphorst;Werkloosheids- en bijstandsuitk.ontv.;;
+3261;Staphorst;Pensioenontvanger;1.8;14.4
+3262;Stede Broec;Totaal sociaal-economische categorie;14.2;16.7
+3263;Stede Broec;Totaal actief;9.4;18.3
+3264;Stede Broec;Werknemer;8.4;18.5
+3265;Stede Broec;Zelfstandige;1.1;17.5
+3266;Stede Broec;Totaal niet-actief;4.8;13.4
+3267;Stede Broec;Werkloosheids- en bijstandsuitk.ontv.;0.3;12.1
+3268;Stede Broec;Pensioenontvanger;3.0;15.0
+3269;Steenbergen;Totaal sociaal-economische categorie;15.6;17.3
+3270;Steenbergen;Totaal actief;10.2;19.3
+3271;Steenbergen;Werknemer;8.7;19.8
+3272;Steenbergen;Zelfstandige;1.4;16.3
+3273;Steenbergen;Totaal niet-actief;5.4;13.7
+3274;Steenbergen;Werkloosheids- en bijstandsuitk.ontv.;0.4;11.7
+3275;Steenbergen;Pensioenontvanger;3.9;14.7
+3276;Steenwijkerland;Totaal sociaal-economische categorie;28.0;16.5
+3277;Steenwijkerland;Totaal actief;17.0;18.1
+3278;Steenwijkerland;Werknemer;14.3;18.4
+3279;Steenwijkerland;Zelfstandige;2.7;16.3
+3280;Steenwijkerland;Totaal niet-actief;11.0;14.0
+3281;Steenwijkerland;Werkloosheids- en bijstandsuitk.ontv.;0.9;11.9
+3282;Steenwijkerland;Pensioenontvanger;8.0;15.3
+3283;Stein (L.);Totaal sociaal-economische categorie;18.3;16.9
+3284;Stein (L.);Totaal actief;10.9;19.0
+3285;Stein (L.);Werknemer;9.9;19.3
+3286;Stein (L.);Zelfstandige;1.0;16.3
+3287;Stein (L.);Totaal niet-actief;7.4;13.7
+3288;Stein (L.);Werkloosheids- en bijstandsuitk.ontv.;0.6;13.3
+3289;Stein (L.);Pensioenontvanger;4.7;15.1
+3290;Strijen;Totaal sociaal-economische categorie;6.0;18.7
+3291;Strijen;Totaal actief;4.2;20.4
+3292;Strijen;Werknemer;3.6;21.1
+3293;Strijen;Zelfstandige;0.6;16.5
+3294;Strijen;Totaal niet-actief;1.8;14.7
+3295;Strijen;Werkloosheids- en bijstandsuitk.ontv.;;
+3296;Strijen;Pensioenontvanger;1.4;15.8
+3297;Swalmen;Totaal sociaal-economische categorie;6.0;16.1
+3298;Swalmen;Totaal actief;3.5;18.1
+3299;Swalmen;Werknemer;3.2;18.5
+3300;Swalmen;Zelfstandige;0.3;15.3
+3301;Swalmen;Totaal niet-actief;2.4;13.1
+3302;Swalmen;Werkloosheids- en bijstandsuitk.ontv.;0.2;12.5
+3303;Swalmen;Pensioenontvanger;1.6;14.3
+3304;Ten Boer;Totaal sociaal-economische categorie;4.5;16.5
+3305;Ten Boer;Totaal actief;3.1;17.9
+3306;Ten Boer;Werknemer;2.6;19.3
+3307;Ten Boer;Zelfstandige;0.5;10.0
+3308;Ten Boer;Totaal niet-actief;1.4;13.3
+3309;Ten Boer;Werkloosheids- en bijstandsuitk.ontv.;;
+3310;Ten Boer;Pensioenontvanger;1.0;14.8
+3311;Ter Aar;Totaal sociaal-economische categorie;5.9;17.7
+3312;Ter Aar;Totaal actief;4.2;19.3
+3313;Ter Aar;Werknemer;3.5;19.7
+3314;Ter Aar;Zelfstandige;0.6;17.0
+3315;Ter Aar;Totaal niet-actief;1.7;14.0
+3316;Ter Aar;Werkloosheids- en bijstandsuitk.ontv.;;
+3317;Ter Aar;Pensioenontvanger;1.3;15.5
+3318;Terneuzen;Totaal sociaal-economische categorie;36.5;17.4
+3319;Terneuzen;Totaal actief;21.5;19.7
+3320;Terneuzen;Werknemer;19.2;20.1
+3321;Terneuzen;Zelfstandige;2.2;16.1
+3322;Terneuzen;Totaal niet-actief;15.0;14.1
+3323;Terneuzen;Werkloosheids- en bijstandsuitk.ontv.;1.3;12.0
+3324;Terneuzen;Pensioenontvanger;11.2;15.1
+3325;Terschelling;Totaal sociaal-economische categorie;3.1;17.4
+3326;Terschelling;Totaal actief;2.0;18.1
+3327;Terschelling;Werknemer;1.5;18.4
+3328;Terschelling;Zelfstandige;0.5;17.4
+3329;Terschelling;Totaal niet-actief;1.1;16.2
+3330;Terschelling;Werkloosheids- en bijstandsuitk.ontv.;;
+3331;Terschelling;Pensioenontvanger;0.9;17.6
+3332;Texel;Totaal sociaal-economische categorie;9.1;15.9
+3333;Texel;Totaal actief;5.9;16.7
+3334;Texel;Werknemer;4.2;17.8
+3335;Texel;Zelfstandige;1.6;13.7
+3336;Texel;Totaal niet-actief;3.2;14.5
+3337;Texel;Werkloosheids- en bijstandsuitk.ontv.;0.2;13.4
+3338;Texel;Pensioenontvanger;2.3;15.4
+3339;Tholen;Totaal sociaal-economische categorie;15.2;16.6
+3340;Tholen;Totaal actief;10.0;18.2
+3341;Tholen;Werknemer;8.4;18.7
+3342;Tholen;Zelfstandige;1.6;15.6
+3343;Tholen;Totaal niet-actief;5.2;13.5
+3344;Tholen;Werkloosheids- en bijstandsuitk.ontv.;0.3;11.9
+3345;Tholen;Pensioenontvanger;3.8;14.5
+3346;Thorn;Totaal sociaal-economische categorie;1.9;16.2
+3347;Thorn;Totaal actief;1.1;17.7
+3348;Thorn;Werknemer;1.0;18.8
+3349;Thorn;Zelfstandige;;
+3350;Thorn;Totaal niet-actief;0.7;13.8
+3351;Thorn;Werkloosheids- en bijstandsuitk.ontv.;;
+3352;Thorn;Pensioenontvanger;0.5;14.7
+3353;Tiel;Totaal sociaal-economische categorie;26.1;17.1
+3354;Tiel;Totaal actief;16.9;19.0
+3355;Tiel;Werknemer;15.4;19.4
+3356;Tiel;Zelfstandige;1.6;14.9
+3357;Tiel;Totaal niet-actief;9.1;13.6
+3358;Tiel;Werkloosheids- en bijstandsuitk.ontv.;1.3;11.9
+3359;Tiel;Pensioenontvanger;5.5;15.6
+3360;Tilburg;Totaal sociaal-economische categorie;134.6;16.5
+3361;Tilburg;Totaal actief;81.4;18.7
+3362;Tilburg;Werknemer;74.7;19.1
+3363;Tilburg;Zelfstandige;6.5;15.1
+3364;Tilburg;Totaal niet-actief;53.3;13.0
+3365;Tilburg;Werkloosheids- en bijstandsuitk.ontv.;6.9;12.3
+3366;Tilburg;Pensioenontvanger;29.1;15.3
+3367;Tubbergen;Totaal sociaal-economische categorie;13.1;16.6
+3368;Tubbergen;Totaal actief;9.0;18.2
+3369;Tubbergen;Werknemer;7.3;19.0
+3370;Tubbergen;Zelfstandige;1.7;14.7
+3371;Tubbergen;Totaal niet-actief;4.1;13.2
+3372;Tubbergen;Werkloosheids- en bijstandsuitk.ontv.;;
+3373;Tubbergen;Pensioenontvanger;2.9;14.3
+3374;Twenterand;Totaal sociaal-economische categorie;21.0;15.9
+3375;Twenterand;Totaal actief;13.8;17.5
+3376;Twenterand;Werknemer;12.1;17.9
+3377;Twenterand;Zelfstandige;1.6;14.2
+3378;Twenterand;Totaal niet-actief;7.2;13.0
+3379;Twenterand;Werkloosheids- en bijstandsuitk.ontv.;0.5;12.3
+3380;Twenterand;Pensioenontvanger;4.8;14.0
+3381;Tynaarlo;Totaal sociaal-economische categorie;21.7;18.8
+3382;Tynaarlo;Totaal actief;13.1;20.8
+3383;Tynaarlo;Werknemer;11.4;21.5
+3384;Tynaarlo;Zelfstandige;1.7;15.6
+3385;Tynaarlo;Totaal niet-actief;8.6;15.8
+3386;Tynaarlo;Werkloosheids- en bijstandsuitk.ontv.;0.4;14.4
+3387;Tynaarlo;Pensioenontvanger;6.7;17.2
+3388;Tytsjerksteradiel;Totaal sociaal-economische categorie;20.9;16.9
+3389;Tytsjerksteradiel;Totaal actief;13.0;18.3
+3390;Tytsjerksteradiel;Werknemer;11.2;18.5
+3391;Tytsjerksteradiel;Zelfstandige;1.8;17.3
+3392;Tytsjerksteradiel;Totaal niet-actief;7.9;14.4
+3393;Tytsjerksteradiel;Werkloosheids- en bijstandsuitk.ontv.;0.6;13.8
+3394;Tytsjerksteradiel;Pensioenontvanger;5.6;15.8
+3395;Ubbergen;Totaal sociaal-economische categorie;6.5;18.3
+3396;Ubbergen;Totaal actief;4.0;20.1
+3397;Ubbergen;Werknemer;3.5;20.5
+3398;Ubbergen;Zelfstandige;0.5;16.9
+3399;Ubbergen;Totaal niet-actief;2.5;15.4
+3400;Ubbergen;Werkloosheids- en bijstandsuitk.ontv.;;
+3401;Ubbergen;Pensioenontvanger;1.9;17.2
+3402;Uden;Totaal sociaal-economische categorie;26.8;17.4
+3403;Uden;Totaal actief;17.2;18.8
+3404;Uden;Werknemer;15.2;19.2
+3405;Uden;Zelfstandige;1.9;15.8
+3406;Uden;Totaal niet-actief;9.7;14.8
+3407;Uden;Werkloosheids- en bijstandsuitk.ontv.;0.8;13.0
+3408;Uden;Pensioenontvanger;6.3;16.7
+3409;Uitgeest;Totaal sociaal-economische categorie;7.8;19.0
+3410;Uitgeest;Totaal actief;5.3;20.8
+3411;Uitgeest;Werknemer;4.7;21.1
+3412;Uitgeest;Zelfstandige;0.6;18.2
+3413;Uitgeest;Totaal niet-actief;2.5;15.2
+3414;Uitgeest;Werkloosheids- en bijstandsuitk.ontv.;;
+3415;Uitgeest;Pensioenontvanger;1.7;17.5
+3416;Uithoorn;Totaal sociaal-economische categorie;18.3;19.9
+3417;Uithoorn;Totaal actief;12.2;21.6
+3418;Uithoorn;Werknemer;10.9;22.0
+3419;Uithoorn;Zelfstandige;1.2;19.0
+3420;Uithoorn;Totaal niet-actief;6.1;16.3
+3421;Uithoorn;Werkloosheids- en bijstandsuitk.ontv.;0.4;13.6
+3422;Uithoorn;Pensioenontvanger;4.4;18.1
+3423;Urk;Totaal sociaal-economische categorie;8.5;15.7
+3424;Urk;Totaal actief;6.3;16.8
+3425;Urk;Werknemer;5.1;17.0
+3426;Urk;Zelfstandige;1.1;15.5
+3427;Urk;Totaal niet-actief;2.2;12.8
+3428;Urk;Werkloosheids- en bijstandsuitk.ontv.;;
+3429;Urk;Pensioenontvanger;1.4;14.2
+3430;Utrecht (gemeente);Totaal sociaal-economische categorie;182.5;18.0
+3431;Utrecht (gemeente);Totaal actief;112.0;21.0
+3432;Utrecht (gemeente);Werknemer;102.0;21.4
+3433;Utrecht (gemeente);Zelfstandige;9.9;17.0
+3434;Utrecht (gemeente);Totaal niet-actief;70.4;13.1
+3435;Utrecht (gemeente);Werkloosheids- en bijstandsuitk.ontv.;10.4;11.2
+3436;Utrecht (gemeente);Pensioenontvanger;33.6;16.4
+3437;Vaals;Totaal sociaal-economische categorie;5.4;15.4
+3438;Vaals;Totaal actief;2.6;17.1
+3439;Vaals;Werknemer;2.3;17.7
+3440;Vaals;Zelfstandige;0.4;13.0
+3441;Vaals;Totaal niet-actief;2.8;13.8
+3442;Vaals;Werkloosheids- en bijstandsuitk.ontv.;0.4;11.2
+3443;Vaals;Pensioenontvanger;1.9;15.0
+3444;Valkenburg (ZH.);Totaal sociaal-economische categorie;2.5;17.7
+3445;Valkenburg (ZH.);Totaal actief;1.9;18.5
+3446;Valkenburg (ZH.);Werknemer;1.7;18.7
+3447;Valkenburg (ZH.);Zelfstandige;0.2;17.3
+3448;Valkenburg (ZH.);Totaal niet-actief;0.6;15.0
+3449;Valkenburg (ZH.);Werkloosheids- en bijstandsuitk.ontv.;;
+3450;Valkenburg (ZH.);Pensioenontvanger;0.5;16.7
+3451;Valkenburg a/d Geul;Totaal sociaal-economische categorie;12.2;17.2
+3452;Valkenburg a/d Geul;Totaal actief;6.8;19.5
+3453;Valkenburg a/d Geul;Werknemer;5.8;20.0
+3454;Valkenburg a/d Geul;Zelfstandige;1.0;16.8
+3455;Valkenburg a/d Geul;Totaal niet-actief;5.3;14.2
+3456;Valkenburg a/d Geul;Werkloosheids- en bijstandsuitk.ontv.;0.5;12.2
+3457;Valkenburg a/d Geul;Pensioenontvanger;3.8;15.4
+3458;Valkenswaard;Totaal sociaal-economische categorie;21.2;17.5
+3459;Valkenswaard;Totaal actief;13.1;19.2
+3460;Valkenswaard;Werknemer;11.6;19.7
+3461;Valkenswaard;Zelfstandige;1.5;15.2
+3462;Valkenswaard;Totaal niet-actief;8.1;14.7
+3463;Valkenswaard;Werkloosheids- en bijstandsuitk.ontv.;0.7;12.8
+3464;Valkenswaard;Pensioenontvanger;5.8;16.2
+3465;Veendam;Totaal sociaal-economische categorie;18.9;15.9
+3466;Veendam;Totaal actief;10.7;18.2
+3467;Veendam;Werknemer;9.8;18.5
+3468;Veendam;Zelfstandige;0.8;14.6
+3469;Veendam;Totaal niet-actief;8.2;13.0
+3470;Veendam;Werkloosheids- en bijstandsuitk.ontv.;1.1;11.7
+3471;Veendam;Pensioenontvanger;5.1;14.4
+3472;Veenendaal;Totaal sociaal-economische categorie;38.9;17.6
+3473;Veenendaal;Totaal actief;25.5;19.6
+3474;Veenendaal;Werknemer;23.5;19.6
+3475;Veenendaal;Zelfstandige;2.0;19.2
+3476;Veenendaal;Totaal niet-actief;13.3;13.8
+3477;Veenendaal;Werkloosheids- en bijstandsuitk.ontv.;1.5;12.0
+3478;Veenendaal;Pensioenontvanger;8.4;15.9
+3479;Veere;Totaal sociaal-economische categorie;14.4;17.2
+3480;Veere;Totaal actief;8.8;18.5
+3481;Veere;Werknemer;7.1;19.1
+3482;Veere;Zelfstandige;1.7;16.0
+3483;Veere;Totaal niet-actief;5.5;15.2
+3484;Veere;Werkloosheids- en bijstandsuitk.ontv.;0.2;13.5
+3485;Veere;Pensioenontvanger;4.3;16.6
+3486;Veghel;Totaal sociaal-economische categorie;24.3;17.3
+3487;Veghel;Totaal actief;16.2;18.7
+3488;Veghel;Werknemer;14.3;19.0
+3489;Veghel;Zelfstandige;1.9;17.0
+3490;Veghel;Totaal niet-actief;8.1;14.4
+3491;Veghel;Werkloosheids- en bijstandsuitk.ontv.;0.6;13.4
+3492;Veghel;Pensioenontvanger;5.3;16.1
+3493;Veldhoven;Totaal sociaal-economische categorie;28.8;18.3
+3494;Veldhoven;Totaal actief;18.2;20.3
+3495;Veldhoven;Werknemer;16.7;20.6
+3496;Veldhoven;Zelfstandige;1.4;17.0
+3497;Veldhoven;Totaal niet-actief;10.6;14.7
+3498;Veldhoven;Werkloosheids- en bijstandsuitk.ontv.;0.9;13.0
+3499;Veldhoven;Pensioenontvanger;6.9;16.9
+3500;Velsen;Totaal sociaal-economische categorie;46.0;18.3
+3501;Velsen;Totaal actief;28.2;20.3
+3502;Velsen;Werknemer;25.8;20.5
+3503;Velsen;Zelfstandige;2.4;18.7
+3504;Velsen;Totaal niet-actief;17.8;15.1
+3505;Velsen;Werkloosheids- en bijstandsuitk.ontv.;1.4;12.8
+3506;Velsen;Pensioenontvanger;12.5;16.9
+3507;Venhuizen;Totaal sociaal-economische categorie;5.0;18.6
+3508;Venhuizen;Totaal actief;3.4;19.9
+3509;Venhuizen;Werknemer;2.7;20.5
+3510;Venhuizen;Zelfstandige;0.7;17.6
+3511;Venhuizen;Totaal niet-actief;1.6;15.9
+3512;Venhuizen;Werkloosheids- en bijstandsuitk.ontv.;;
+3513;Venhuizen;Pensioenontvanger;1.1;18.2
+3514;Venlo;Totaal sociaal-economische categorie;61.6;16.1
+3515;Venlo;Totaal actief;36.8;17.8
+3516;Venlo;Werknemer;33.7;18.2
+3517;Venlo;Zelfstandige;3.0;13.9
+3518;Venlo;Totaal niet-actief;24.8;13.5
+3519;Venlo;Werkloosheids- en bijstandsuitk.ontv.;3.1;11.5
+3520;Venlo;Pensioenontvanger;15.8;15.2
+3521;Venray;Totaal sociaal-economische categorie;26.3;16.4
+3522;Venray;Totaal actief;16.7;18.0
+3523;Venray;Werknemer;14.8;18.6
+3524;Venray;Zelfstandige;1.9;13.4
+3525;Venray;Totaal niet-actief;9.7;13.7
+3526;Venray;Werkloosheids- en bijstandsuitk.ontv.;1.0;12.7
+3527;Venray;Pensioenontvanger;5.8;15.7
+3528;Vianen;Totaal sociaal-economische categorie;13.1;18.0
+3529;Vianen;Totaal actief;9.0;20.0
+3530;Vianen;Werknemer;8.0;20.1
+3531;Vianen;Zelfstandige;0.9;18.9
+3532;Vianen;Totaal niet-actief;4.2;13.8
+3533;Vianen;Werkloosheids- en bijstandsuitk.ontv.;0.3;11.3
+3534;Vianen;Pensioenontvanger;2.8;15.7
+3535;Vlaardingen;Totaal sociaal-economische categorie;50.0;17.4
+3536;Vlaardingen;Totaal actief;29.0;19.5
+3537;Vlaardingen;Werknemer;26.8;19.7
+3538;Vlaardingen;Zelfstandige;2.2;16.5
+3539;Vlaardingen;Totaal niet-actief;21.1;14.6
+3540;Vlaardingen;Werkloosheids- en bijstandsuitk.ontv.;2.9;12.3
+3541;Vlaardingen;Pensioenontvanger;14.6;16.2
+3542;Vlagtwedde;Totaal sociaal-economische categorie;11.3;15.0
+3543;Vlagtwedde;Totaal actief;6.4;16.6
+3544;Vlagtwedde;Werknemer;5.4;17.4
+3545;Vlagtwedde;Zelfstandige;1.0;12.2
+3546;Vlagtwedde;Totaal niet-actief;4.9;13.0
+3547;Vlagtwedde;Werkloosheids- en bijstandsuitk.ontv.;0.3;12.9
+3548;Vlagtwedde;Pensioenontvanger;3.5;13.7
+3549;Vlieland;Totaal sociaal-economische categorie;0.8;17.1
+3550;Vlieland;Totaal actief;0.5;17.5
+3551;Vlieland;Werknemer;0.4;17.8
+3552;Vlieland;Zelfstandige;;
+3553;Vlieland;Totaal niet-actief;0.2;16.6
+3554;Vlieland;Werkloosheids- en bijstandsuitk.ontv.;;
+3555;Vlieland;Pensioenontvanger;;
+3556;Vlissingen;Totaal sociaal-economische categorie;30.3;17.1
+3557;Vlissingen;Totaal actief;17.4;18.7
+3558;Vlissingen;Werknemer;15.8;18.4
+3559;Vlissingen;Zelfstandige;1.5;22.1
+3560;Vlissingen;Totaal niet-actief;13.0;15.0
+3561;Vlissingen;Werkloosheids- en bijstandsuitk.ontv.;1.7;12.2
+3562;Vlissingen;Pensioenontvanger;8.9;16.8
+3563;Vlist;Totaal sociaal-economische categorie;6.4;18.7
+3564;Vlist;Totaal actief;4.3;20.8
+3565;Vlist;Werknemer;3.6;21.3
+3566;Vlist;Zelfstandige;0.7;17.6
+3567;Vlist;Totaal niet-actief;2.1;14.4
+3568;Vlist;Werkloosheids- en bijstandsuitk.ontv.;;
+3569;Vlist;Pensioenontvanger;1.6;15.9
+3570;Voerendaal;Totaal sociaal-economische categorie;8.7;18.3
+3571;Voerendaal;Totaal actief;5.2;20.5
+3572;Voerendaal;Werknemer;4.6;21.2
+3573;Voerendaal;Zelfstandige;0.6;15.7
+3574;Voerendaal;Totaal niet-actief;3.5;15.1
+3575;Voerendaal;Werkloosheids- en bijstandsuitk.ontv.;0.3;13.5
+3576;Voerendaal;Pensioenontvanger;2.5;16.9
+3577;Voorhout;Totaal sociaal-economische categorie;9.3;20.9
+3578;Voorhout;Totaal actief;7.0;22.5
+3579;Voorhout;Werknemer;6.2;22.7
+3580;Voorhout;Zelfstandige;0.7;20.5
+3581;Voorhout;Totaal niet-actief;2.3;16.3
+3582;Voorhout;Werkloosheids- en bijstandsuitk.ontv.;;
+3583;Voorhout;Pensioenontvanger;1.7;18.6
+3584;Voorschoten;Totaal sociaal-economische categorie;15.1;21.7
+3585;Voorschoten;Totaal actief;9.4;23.3
+3586;Voorschoten;Werknemer;8.5;23.9
+3587;Voorschoten;Zelfstandige;0.9;18.4
+3588;Voorschoten;Totaal niet-actief;5.7;19.1
+3589;Voorschoten;Werkloosheids- en bijstandsuitk.ontv.;0.3;13.6
+3590;Voorschoten;Pensioenontvanger;4.5;21.1
+3591;Voorst;Totaal sociaal-economische categorie;16.1;16.9
+3592;Voorst;Totaal actief;10.1;18.8
+3593;Voorst;Werknemer;8.7;19.2
+3594;Voorst;Zelfstandige;1.3;16.1
+3595;Voorst;Totaal niet-actief;6.0;13.8
+3596;Voorst;Werkloosheids- en bijstandsuitk.ontv.;0.3;13.2
+3597;Voorst;Pensioenontvanger;4.3;15.4
+3598;Vught;Totaal sociaal-economische categorie;16.9;19.7
+3599;Vught;Totaal actief;10.3;22.0
+3600;Vught;Werknemer;9.2;22.5
+3601;Vught;Zelfstandige;1.1;18.2
+3602;Vught;Totaal niet-actief;6.6;16.1
+3603;Vught;Werkloosheids- en bijstandsuitk.ontv.;0.4;11.9
+3604;Vught;Pensioenontvanger;4.6;18.5
+3605;Waalre;Totaal sociaal-economische categorie;10.7;21.7
+3606;Waalre;Totaal actief;6.3;23.6
+3607;Waalre;Werknemer;5.6;24.4
+3608;Waalre;Zelfstandige;0.7;17.2
+3609;Waalre;Totaal niet-actief;4.4;19.1
+3610;Waalre;Werkloosheids- en bijstandsuitk.ontv.;0.4;13.3
+3611;Waalre;Pensioenontvanger;3.4;21.3
+3612;Waalwijk;Totaal sociaal-economische categorie;30.8;17.4
+3613;Waalwijk;Totaal actief;19.8;19.5
+3614;Waalwijk;Werknemer;17.9;19.7
+3615;Waalwijk;Zelfstandige;1.8;18.2
+3616;Waalwijk;Totaal niet-actief;11.0;13.5
+3617;Waalwijk;Werkloosheids- en bijstandsuitk.ontv.;1.0;12.3
+3618;Waalwijk;Pensioenontvanger;7.3;14.8
+3619;Waddinxveen;Totaal sociaal-economische categorie;17.1;19.2
+3620;Waddinxveen;Totaal actief;11.5;21.2
+3621;Waddinxveen;Werknemer;10.3;21.3
+3622;Waddinxveen;Zelfstandige;1.2;20.4
+3623;Waddinxveen;Totaal niet-actief;5.6;15.3
+3624;Waddinxveen;Werkloosheids- en bijstandsuitk.ontv.;0.3;13.5
+3625;Waddinxveen;Pensioenontvanger;4.0;17.4
+3626;Wageningen;Totaal sociaal-economische categorie;21.9;17.9
+3627;Wageningen;Totaal actief;12.7;20.3
+3628;Wageningen;Werknemer;11.7;20.5
+3629;Wageningen;Zelfstandige;1.0;17.3
+3630;Wageningen;Totaal niet-actief;9.1;14.5
+3631;Wageningen;Werkloosheids- en bijstandsuitk.ontv.;0.9;11.3
+3632;Wageningen;Pensioenontvanger;5.2;18.4
+3633;Warmond;Totaal sociaal-economische categorie;3.3;20.5
+3634;Warmond;Totaal actief;2.1;23.5
+3635;Warmond;Werknemer;1.7;23.6
+3636;Warmond;Zelfstandige;0.3;22.2
+3637;Warmond;Totaal niet-actief;1.3;15.6
+3638;Warmond;Werkloosheids- en bijstandsuitk.ontv.;;
+3639;Warmond;Pensioenontvanger;1.0;16.9
+3640;Wassenaar;Totaal sociaal-economische categorie;15.2;28.9
+3641;Wassenaar;Totaal actief;8.6;33.5
+3642;Wassenaar;Werknemer;7.3;34.9
+3643;Wassenaar;Zelfstandige;1.2;24.4
+3644;Wassenaar;Totaal niet-actief;6.6;23.1
+3645;Wassenaar;Werkloosheids- en bijstandsuitk.ontv.;;
+3646;Wassenaar;Pensioenontvanger;5.7;24.9
+3647;Waterland;Totaal sociaal-economische categorie;11.9;19.6
+3648;Waterland;Totaal actief;7.8;22.1
+3649;Waterland;Werknemer;6.7;22.6
+3650;Waterland;Zelfstandige;1.1;19.1
+3651;Waterland;Totaal niet-actief;4.1;14.9
+3652;Waterland;Werkloosheids- en bijstandsuitk.ontv.;0.2;14.6
+3653;Waterland;Pensioenontvanger;2.9;16.6
+3654;Weert;Totaal sociaal-economische categorie;32.8;17.1
+3655;Weert;Totaal actief;20.1;19.0
+3656;Weert;Werknemer;18.2;19.5
+3657;Weert;Zelfstandige;1.9;14.6
+3658;Weert;Totaal niet-actief;12.7;14.2
+3659;Weert;Werkloosheids- en bijstandsuitk.ontv.;1.3;12.3
+3660;Weert;Pensioenontvanger;8.6;15.8
+3661;Weesp;Totaal sociaal-economische categorie;12.5;18.7
+3662;Weesp;Totaal actief;7.9;21.1
+3663;Weesp;Werknemer;7.1;21.7
+3664;Weesp;Zelfstandige;0.9;16.7
+3665;Weesp;Totaal niet-actief;4.5;14.6
+3666;Weesp;Werkloosheids- en bijstandsuitk.ontv.;0.4;12.1
+3667;Weesp;Pensioenontvanger;3.0;16.4
+3668;Werkendam;Totaal sociaal-economische categorie;17.0;17.7
+3669;Werkendam;Totaal actief;11.6;19.4
+3670;Werkendam;Werknemer;10.1;19.9
+3671;Werkendam;Zelfstandige;1.5;15.9
+3672;Werkendam;Totaal niet-actief;5.3;14.2
+3673;Werkendam;Werkloosheids- en bijstandsuitk.ontv.;0.3;12.5
+3674;Werkendam;Pensioenontvanger;3.9;15.5
+3675;Wervershoof;Totaal sociaal-economische categorie;5.6;16.3
+3676;Wervershoof;Totaal actief;3.7;17.8
+3677;Wervershoof;Werknemer;3.1;18.6
+3678;Wervershoof;Zelfstandige;0.6;13.5
+3679;Wervershoof;Totaal niet-actief;1.9;13.6
+3680;Wervershoof;Werkloosheids- en bijstandsuitk.ontv.;;
+3681;Wervershoof;Pensioenontvanger;1.3;14.9
+3682;West Maas en Waal;Totaal sociaal-economische categorie;12.4;17.2
+3683;West Maas en Waal;Totaal actief;8.2;19.2
+3684;West Maas en Waal;Werknemer;7.0;19.9
+3685;West Maas en Waal;Zelfstandige;1.2;15.1
+3686;West Maas en Waal;Totaal niet-actief;4.1;13.3
+3687;West Maas en Waal;Werkloosheids- en bijstandsuitk.ontv.;0.3;12.0
+3688;West Maas en Waal;Pensioenontvanger;2.9;14.4
+3689;Wester-Koggenland;Totaal sociaal-economische categorie;9.4;17.4
+3690;Wester-Koggenland;Totaal actief;6.7;18.6
+3691;Wester-Koggenland;Werknemer;5.4;19.1
+3692;Wester-Koggenland;Zelfstandige;1.3;16.4
+3693;Wester-Koggenland;Totaal niet-actief;2.6;14.1
+3694;Wester-Koggenland;Werkloosheids- en bijstandsuitk.ontv.;;
+3695;Wester-Koggenland;Pensioenontvanger;1.9;15.7
+3696;Westerveld;Totaal sociaal-economische categorie;12.9;17.7
+3697;Westerveld;Totaal actief;7.3;19.2
+3698;Westerveld;Werknemer;5.8;19.9
+3699;Westerveld;Zelfstandige;1.5;16.0
+3700;Westerveld;Totaal niet-actief;5.6;15.8
+3701;Westerveld;Werkloosheids- en bijstandsuitk.ontv.;0.3;15.0
+3702;Westerveld;Pensioenontvanger;4.3;17.4
+3703;Westervoort;Totaal sociaal-economische categorie;10.4;16.9
+3704;Westervoort;Totaal actief;7.1;18.6
+3705;Westervoort;Werknemer;6.5;18.9
+3706;Westervoort;Zelfstandige;0.5;16.3
+3707;Westervoort;Totaal niet-actief;3.3;13.2
+3708;Westervoort;Werkloosheids- en bijstandsuitk.ontv.;0.5;12.2
+3709;Westervoort;Pensioenontvanger;1.9;15.7
+3710;Westland;Totaal sociaal-economische categorie;66.2;17.2
+3711;Westland;Totaal actief;46.0;18.5
+3712;Westland;Werknemer;39.0;18.9
+3713;Westland;Zelfstandige;6.9;15.8
+3714;Westland;Totaal niet-actief;20.2;14.3
+3715;Westland;Werkloosheids- en bijstandsuitk.ontv.;1.0;13.4
+3716;Westland;Pensioenontvanger;14.8;15.8
+3717;Weststellingwerf;Totaal sociaal-economische categorie;17.4;15.6
+3718;Weststellingwerf;Totaal actief;10.2;17.0
+3719;Weststellingwerf;Werknemer;8.4;17.3
+3720;Weststellingwerf;Zelfstandige;1.7;15.2
+3721;Weststellingwerf;Totaal niet-actief;7.2;13.7
+3722;Weststellingwerf;Werkloosheids- en bijstandsuitk.ontv.;0.7;12.2
+3723;Weststellingwerf;Pensioenontvanger;5.1;14.8
+3724;Westvoorne;Totaal sociaal-economische categorie;9.5;21.4
+3725;Westvoorne;Totaal actief;6.0;23.0
+3726;Westvoorne;Werknemer;5.1;24.7
+3727;Westvoorne;Zelfstandige;0.9;13.7
+3728;Westvoorne;Totaal niet-actief;3.5;18.8
+3729;Westvoorne;Werkloosheids- en bijstandsuitk.ontv.;;
+3730;Westvoorne;Pensioenontvanger;2.9;20.7
+3731;Wierden;Totaal sociaal-economische categorie;15.1;17.5
+3732;Wierden;Totaal actief;9.8;19.3
+3733;Wierden;Werknemer;8.6;19.9
+3734;Wierden;Zelfstandige;1.2;15.1
+3735;Wierden;Totaal niet-actief;5.3;14.2
+3736;Wierden;Werkloosheids- en bijstandsuitk.ontv.;0.3;11.3
+3737;Wierden;Pensioenontvanger;3.7;15.8
+3738;Wieringen;Totaal sociaal-economische categorie;5.7;16.7
+3739;Wieringen;Totaal actief;3.6;18.1
+3740;Wieringen;Werknemer;2.8;18.4
+3741;Wieringen;Zelfstandige;0.7;16.9
+3742;Wieringen;Totaal niet-actief;2.2;14.5
+3743;Wieringen;Werkloosheids- en bijstandsuitk.ontv.;;
+3744;Wieringen;Pensioenontvanger;1.6;15.5
+3745;Wieringermeer;Totaal sociaal-economische categorie;8.3;16.3
+3746;Wieringermeer;Totaal actief;5.4;17.4
+3747;Wieringermeer;Werknemer;4.2;18.8
+3748;Wieringermeer;Zelfstandige;1.2;12.5
+3749;Wieringermeer;Totaal niet-actief;2.8;14.2
+3750;Wieringermeer;Werkloosheids- en bijstandsuitk.ontv.;;
+3751;Wieringermeer;Pensioenontvanger;2.0;15.5
+3752;Wijchen;Totaal sociaal-economische categorie;26.3;17.6
+3753;Wijchen;Totaal actief;17.9;19.3
+3754;Wijchen;Werknemer;16.3;19.6
+3755;Wijchen;Zelfstandige;1.6;15.4
+3756;Wijchen;Totaal niet-actief;8.3;13.9
+3757;Wijchen;Werkloosheids- en bijstandsuitk.ontv.;0.7;11.8
+3758;Wijchen;Pensioenontvanger;5.5;15.7
+3759;Wijdemeren;Totaal sociaal-economische categorie;15.8;20.3
+3760;Wijdemeren;Totaal actief;10.3;22.5
+3761;Wijdemeren;Werknemer;8.7;23.3
+3762;Wijdemeren;Zelfstandige;1.6;17.9
+3763;Wijdemeren;Totaal niet-actief;5.5;16.3
+3764;Wijdemeren;Werkloosheids- en bijstandsuitk.ontv.;0.2;13.5
+3765;Wijdemeren;Pensioenontvanger;4.3;17.9
+3766;Wijk bij Duurstede;Totaal sociaal-economische categorie;15.3;18.8
+3767;Wijk bij Duurstede;Totaal actief;11.1;20.3
+3768;Wijk bij Duurstede;Werknemer;10.0;20.6
+3769;Wijk bij Duurstede;Zelfstandige;1.1;17.7
+3770;Wijk bij Duurstede;Totaal niet-actief;4.2;14.6
+3771;Wijk bij Duurstede;Werkloosheids- en bijstandsuitk.ontv.;0.4;13.6
+3772;Wijk bij Duurstede;Pensioenontvanger;2.6;17.2
+3773;Winschoten;Totaal sociaal-economische categorie;12.8;15.7
+3774;Winschoten;Totaal actief;6.7;17.9
+3775;Winschoten;Werknemer;6.2;18.0
+3776;Winschoten;Zelfstandige;0.5;16.2
+3777;Winschoten;Totaal niet-actief;6.1;13.4
+3778;Winschoten;Werkloosheids- en bijstandsuitk.ontv.;0.7;12.0
+3779;Winschoten;Pensioenontvanger;4.1;14.5
+3780;Winsum;Totaal sociaal-economische categorie;9.2;17.1
+3781;Winsum;Totaal actief;6.1;18.6
+3782;Winsum;Werknemer;5.2;19.1
+3783;Winsum;Zelfstandige;0.9;15.4
+3784;Winsum;Totaal niet-actief;3.1;14.1
+3785;Winsum;Werkloosheids- en bijstandsuitk.ontv.;0.4;13.1
+3786;Winsum;Pensioenontvanger;2.1;15.6
+3787;Winterswijk;Totaal sociaal-economische categorie;19.7;15.8
+3788;Winterswijk;Totaal actief;12.0;17.2
+3789;Winterswijk;Werknemer;10.5;17.7
+3790;Winterswijk;Zelfstandige;1.5;13.5
+3791;Winterswijk;Totaal niet-actief;7.6;13.6
+3792;Winterswijk;Werkloosheids- en bijstandsuitk.ontv.;0.6;11.9
+3793;Winterswijk;Pensioenontvanger;5.6;14.8
+3794;Woensdrecht;Totaal sociaal-economische categorie;13.9;17.2
+3795;Woensdrecht;Totaal actief;8.6;18.8
+3796;Woensdrecht;Werknemer;7.6;19.2
+3797;Woensdrecht;Zelfstandige;1.0;16.0
+3798;Woensdrecht;Totaal niet-actief;5.3;14.7
+3799;Woensdrecht;Werkloosheids- en bijstandsuitk.ontv.;0.4;13.9
+3800;Woensdrecht;Pensioenontvanger;3.8;16.1
+3801;Woerden;Totaal sociaal-economische categorie;31.5;19.2
+3802;Woerden;Totaal actief;21.9;21.0
+3803;Woerden;Werknemer;19.6;21.5
+3804;Woerden;Zelfstandige;2.3;16.5
+3805;Woerden;Totaal niet-actief;9.6;15.3
+3806;Woerden;Werkloosheids- en bijstandsuitk.ontv.;0.5;13.9
+3807;Woerden;Pensioenontvanger;6.6;17.7
+3808;Wognum;Totaal sociaal-economische categorie;5.4;17.7
+3809;Wognum;Totaal actief;3.6;19.9
+3810;Wognum;Werknemer;3.0;20.0
+3811;Wognum;Zelfstandige;0.6;19.8
+3812;Wognum;Totaal niet-actief;1.8;13.2
+3813;Wognum;Werkloosheids- en bijstandsuitk.ontv.;;
+3814;Wognum;Pensioenontvanger;1.1;15.5
+3815;Wormerland;Totaal sociaal-economische categorie;10.7;18.1
+3816;Wormerland;Totaal actief;7.0;20.0
+3817;Wormerland;Werknemer;6.3;20.4
+3818;Wormerland;Zelfstandige;0.7;16.7
+3819;Wormerland;Totaal niet-actief;3.7;14.5
+3820;Wormerland;Werkloosheids- en bijstandsuitk.ontv.;;
+3821;Wormerland;Pensioenontvanger;2.6;15.9
+3822;Woudenberg;Totaal sociaal-economische categorie;7.1;18.7
+3823;Woudenberg;Totaal actief;4.6;20.5
+3824;Woudenberg;Werknemer;4.0;20.9
+3825;Woudenberg;Zelfstandige;0.6;18.2
+3826;Woudenberg;Totaal niet-actief;2.5;15.2
+3827;Woudenberg;Werkloosheids- en bijstandsuitk.ontv.;;
+3828;Woudenberg;Pensioenontvanger;1.7;17.4
+3829;Woudrichem;Totaal sociaal-economische categorie;9.3;17.5
+3830;Woudrichem;Totaal actief;6.5;19.3
+3831;Woudrichem;Werknemer;5.7;19.7
+3832;Woudrichem;Zelfstandige;0.7;16.8
+3833;Woudrichem;Totaal niet-actief;2.8;13.3
+3834;Woudrichem;Werkloosheids- en bijstandsuitk.ontv.;;
+3835;Woudrichem;Pensioenontvanger;2.0;14.3
+3836;Wûnseradiel;Totaal sociaal-economische categorie;7.5;15.9
+3837;Wûnseradiel;Totaal actief;5.0;17.0
+3838;Wûnseradiel;Werknemer;3.8;18.3
+3839;Wûnseradiel;Zelfstandige;1.2;13.0
+3840;Wûnseradiel;Totaal niet-actief;2.5;13.8
+3841;Wûnseradiel;Werkloosheids- en bijstandsuitk.ontv.;;
+3842;Wûnseradiel;Pensioenontvanger;1.7;14.8
+3843;Wymbritseradiel;Totaal sociaal-economische categorie;10.2;16.6
+3844;Wymbritseradiel;Totaal actief;7.0;17.9
+3845;Wymbritseradiel;Werknemer;5.8;18.7
+3846;Wymbritseradiel;Zelfstandige;1.2;13.8
+3847;Wymbritseradiel;Totaal niet-actief;3.2;13.9
+3848;Wymbritseradiel;Werkloosheids- en bijstandsuitk.ontv.;;
+3849;Wymbritseradiel;Pensioenontvanger;2.3;15.2
+3850;Zaanstad;Totaal sociaal-economische categorie;95.2;17.3
+3851;Zaanstad;Totaal actief;59.2;19.3
+3852;Zaanstad;Werknemer;54.3;19.6
+3853;Zaanstad;Zelfstandige;4.9;16.0
+3854;Zaanstad;Totaal niet-actief;35.9;14.1
+3855;Zaanstad;Werkloosheids- en bijstandsuitk.ontv.;3.5;11.1
+3856;Zaanstad;Pensioenontvanger;22.6;16.0
+3857;Zaltbommel;Totaal sociaal-economische categorie;16.4;17.4
+3858;Zaltbommel;Totaal actief;11.2;18.9
+3859;Zaltbommel;Werknemer;9.5;20.1
+3860;Zaltbommel;Zelfstandige;1.7;12.0
+3861;Zaltbommel;Totaal niet-actief;5.2;14.3
+3862;Zaltbommel;Werkloosheids- en bijstandsuitk.ontv.;0.4;11.5
+3863;Zaltbommel;Pensioenontvanger;3.7;15.8
+3864;Zandvoort;Totaal sociaal-economische categorie;11.7;18.7
+3865;Zandvoort;Totaal actief;6.9;20.6
+3866;Zandvoort;Werknemer;5.9;21.7
+3867;Zandvoort;Zelfstandige;0.9;13.5
+3868;Zandvoort;Totaal niet-actief;4.8;16.1
+3869;Zandvoort;Werkloosheids- en bijstandsuitk.ontv.;0.3;13.2
+3870;Zandvoort;Pensioenontvanger;3.4;17.8
+3871;Zederik;Totaal sociaal-economische categorie;8.6;18.3
+3872;Zederik;Totaal actief;6.0;20.3
+3873;Zederik;Werknemer;5.0;20.8
+3874;Zederik;Zelfstandige;1.0;17.9
+3875;Zederik;Totaal niet-actief;2.6;13.6
+3876;Zederik;Werkloosheids- en bijstandsuitk.ontv.;;
+3877;Zederik;Pensioenontvanger;1.9;14.9
+3878;Zeevang;Totaal sociaal-economische categorie;4.1;18.9
+3879;Zeevang;Totaal actief;2.8;20.6
+3880;Zeevang;Werknemer;2.3;21.2
+3881;Zeevang;Zelfstandige;0.5;17.5
+3882;Zeevang;Totaal niet-actief;1.3;15.4
+3883;Zeevang;Werkloosheids- en bijstandsuitk.ontv.;;
+3884;Zeevang;Pensioenontvanger;0.9;16.4
+3885;Zeewolde;Totaal sociaal-economische categorie;11.2;18.4
+3886;Zeewolde;Totaal actief;8.4;19.9
+3887;Zeewolde;Werknemer;7.2;20.6
+3888;Zeewolde;Zelfstandige;1.2;16.0
+3889;Zeewolde;Totaal niet-actief;2.8;13.7
+3890;Zeewolde;Werkloosheids- en bijstandsuitk.ontv.;0.3;13.0
+3891;Zeewolde;Pensioenontvanger;1.7;15.7
+3892;Zeist;Totaal sociaal-economische categorie;40.3;20.3
+3893;Zeist;Totaal actief;23.2;22.9
+3894;Zeist;Werknemer;20.8;23.2
+3895;Zeist;Zelfstandige;2.4;20.0
+3896;Zeist;Totaal niet-actief;17.1;16.9
+3897;Zeist;Werkloosheids- en bijstandsuitk.ontv.;1.3;12.1
+3898;Zeist;Pensioenontvanger;11.7;19.6
+3899;Zevenaar;Totaal sociaal-economische categorie;21.5;17.1
+3900;Zevenaar;Totaal actief;13.4;18.8
+3901;Zevenaar;Werknemer;12.1;19.3
+3902;Zevenaar;Zelfstandige;1.3;13.9
+3903;Zevenaar;Totaal niet-actief;8.1;14.4
+3904;Zevenaar;Werkloosheids- en bijstandsuitk.ontv.;0.6;12.9
+3905;Zevenaar;Pensioenontvanger;5.6;16.2
+3906;Zevenhuizen-Moerkapelle;Totaal sociaal-economische categorie;6.7;17.3
+3907;Zevenhuizen-Moerkapelle;Totaal actief;4.5;18.7
+3908;Zevenhuizen-Moerkapelle;Werknemer;3.9;19.5
+3909;Zevenhuizen-Moerkapelle;Zelfstandige;0.6;13.3
+3910;Zevenhuizen-Moerkapelle;Totaal niet-actief;2.2;14.5
+3911;Zevenhuizen-Moerkapelle;Werkloosheids- en bijstandsuitk.ontv.;;
+3912;Zevenhuizen-Moerkapelle;Pensioenontvanger;1.6;16.0
+3913;Zijpe;Totaal sociaal-economische categorie;7.6;17.0
+3914;Zijpe;Totaal actief;5.0;18.1
+3915;Zijpe;Werknemer;4.0;19.2
+3916;Zijpe;Zelfstandige;1.0;14.1
+3917;Zijpe;Totaal niet-actief;2.6;14.7
+3918;Zijpe;Werkloosheids- en bijstandsuitk.ontv.;;
+3919;Zijpe;Pensioenontvanger;1.8;16.2
+3920;Zoetermeer;Totaal sociaal-economische categorie;76.9;18.9
+3921;Zoetermeer;Totaal actief;51.7;20.9
+3922;Zoetermeer;Werknemer;48.7;21.0
+3923;Zoetermeer;Zelfstandige;3.0;18.3
+3924;Zoetermeer;Totaal niet-actief;25.2;14.8
+3925;Zoetermeer;Werkloosheids- en bijstandsuitk.ontv.;3.3;13.3
+3926;Zoetermeer;Pensioenontvanger;15.7;17.1
+3927;Zoeterwoude;Totaal sociaal-economische categorie;5.7;18.5
+3928;Zoeterwoude;Totaal actief;3.8;20.7
+3929;Zoeterwoude;Werknemer;3.4;21.0
+3930;Zoeterwoude;Zelfstandige;0.4;18.8
+3931;Zoeterwoude;Totaal niet-actief;1.9;14.2
+3932;Zoeterwoude;Werkloosheids- en bijstandsuitk.ontv.;;
+3933;Zoeterwoude;Pensioenontvanger;1.2;16.8
+3934;Zuidhorn;Totaal sociaal-economische categorie;11.4;17.6
+3935;Zuidhorn;Totaal actief;7.7;19.0
+3936;Zuidhorn;Werknemer;6.5;19.4
+3937;Zuidhorn;Zelfstandige;1.2;16.7
+3938;Zuidhorn;Totaal niet-actief;3.7;14.6
+3939;Zuidhorn;Werkloosheids- en bijstandsuitk.ontv.;0.3;12.9
+3940;Zuidhorn;Pensioenontvanger;2.6;16.4
+3941;Zundert;Totaal sociaal-economische categorie;13.9;16.9
+3942;Zundert;Totaal actief;9.2;18.6
+3943;Zundert;Werknemer;7.3;19.4
+3944;Zundert;Zelfstandige;1.8;15.6
+3945;Zundert;Totaal niet-actief;4.8;13.4
+3946;Zundert;Werkloosheids- en bijstandsuitk.ontv.;;
+3947;Zundert;Pensioenontvanger;3.4;14.5
+3948;Zutphen;Totaal sociaal-economische categorie;31.0;17.0
+3949;Zutphen;Totaal actief;19.3;18.5
+3950;Zutphen;Werknemer;17.6;18.8
+3951;Zutphen;Zelfstandige;1.7;15.7
+3952;Zutphen;Totaal niet-actief;11.7;14.5
+3953;Zutphen;Werkloosheids- en bijstandsuitk.ontv.;1.3;11.9
+3954;Zutphen;Pensioenontvanger;7.4;16.6
+3955;Zwartewaterland;Totaal sociaal-economische categorie;13.1;17.2
+3956;Zwartewaterland;Totaal actief;9.3;18.7
+3957;Zwartewaterland;Werknemer;8.2;18.9
+3958;Zwartewaterland;Zelfstandige;1.1;16.6
+3959;Zwartewaterland;Totaal niet-actief;3.8;13.6
+3960;Zwartewaterland;Werkloosheids- en bijstandsuitk.ontv.;0.2;12.9
+3961;Zwartewaterland;Pensioenontvanger;2.7;14.9
+3962;Zwijndrecht;Totaal sociaal-economische categorie;30.2;18.4
+3963;Zwijndrecht;Totaal actief;18.3;20.6
+3964;Zwijndrecht;Werknemer;16.9;20.6
+3965;Zwijndrecht;Zelfstandige;1.4;20.4
+3966;Zwijndrecht;Totaal niet-actief;11.9;15.0
+3967;Zwijndrecht;Werkloosheids- en bijstandsuitk.ontv.;1.1;12.7
+3968;Zwijndrecht;Pensioenontvanger;8.6;16.7
+3969;Zwolle;Totaal sociaal-economische categorie;76.5;17.4
+3970;Zwolle;Totaal actief;48.1;19.3
+3971;Zwolle;Werknemer;44.5;19.4
+3972;Zwolle;Zelfstandige;3.5;18.5
+3973;Zwolle;Totaal niet-actief;28.4;14.1
+3974;Zwolle;Werkloosheids- en bijstandsuitk.ontv.;3.8;11.9
+3975;Zwolle;Pensioenontvanger;16.3;16.8
