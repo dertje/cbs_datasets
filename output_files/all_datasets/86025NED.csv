@@ -1,0 +1,2269 @@
+﻿ID;Zorgtype;Zorgaanbieders;Perioden;UitgavenGezondheidsEnWelzijnszorg_1
+0;Totaal gezondheids- en welzijnszorg;Totaal aanbieders zorg en welzijn;2021;129060
+1;Totaal gezondheids- en welzijnszorg;Totaal aanbieders zorg en welzijn;2022;132858
+2;Totaal gezondheids- en welzijnszorg;Totaal aanbieders zorg en welzijn;2023;142824
+3;Totaal gezondheids- en welzijnszorg;GLZ: Totaal aanb. gezondh., langd. zorg;2021;98160
+4;Totaal gezondheids- en welzijnszorg;GLZ: Totaal aanb. gezondh., langd. zorg;2022;99063
+5;Totaal gezondheids- en welzijnszorg;GLZ: Totaal aanb. gezondh., langd. zorg;2023;105623
+6;Totaal gezondheids- en welzijnszorg;GLZ: Aanb. medisch specialistische zorg;2021;32569
+7;Totaal gezondheids- en welzijnszorg;GLZ: Aanb. medisch specialistische zorg;2022;33470
+8;Totaal gezondheids- en welzijnszorg;GLZ: Aanb. medisch specialistische zorg;2023;35705
+9;Totaal gezondheids- en welzijnszorg;GLZMS: Algemene ziekenhuizen;2021;19736
+10;Totaal gezondheids- en welzijnszorg;GLZMS: Algemene ziekenhuizen;2022;20063
+11;Totaal gezondheids- en welzijnszorg;GLZMS: Algemene ziekenhuizen;2023;21377
+12;Totaal gezondheids- en welzijnszorg;GLZMS: UMC's;2021;9339
+13;Totaal gezondheids- en welzijnszorg;GLZMS: UMC's;2022;9578
+14;Totaal gezondheids- en welzijnszorg;GLZMS: UMC's;2023;10157
+15;Totaal gezondheids- en welzijnszorg;GLZMS: Overige aanb. med. spec. zorg;2021;3494
+16;Totaal gezondheids- en welzijnszorg;GLZMS: Overige aanb. med. spec. zorg;2022;3829
+17;Totaal gezondheids- en welzijnszorg;GLZMS: Overige aanb. med. spec. zorg;2023;4171
+18;Totaal gezondheids- en welzijnszorg;GLZ: Aanb. geestelijke gezondheidszorg;2021;8913
+19;Totaal gezondheids- en welzijnszorg;GLZ: Aanb. geestelijke gezondheidszorg;2022;9637
+20;Totaal gezondheids- en welzijnszorg;GLZ: Aanb. geestelijke gezondheidszorg;2023;10559
+21;Totaal gezondheids- en welzijnszorg;GLZ: Huisartsenpraktijken,gezondh.centra;2021;3981
+22;Totaal gezondheids- en welzijnszorg;GLZ: Huisartsenpraktijken,gezondh.centra;2022;3939
+23;Totaal gezondheids- en welzijnszorg;GLZ: Huisartsenpraktijken,gezondh.centra;2023;4323
+24;Totaal gezondheids- en welzijnszorg;GLZ: Tandartsenpraktijken;2021;3080
+25;Totaal gezondheids- en welzijnszorg;GLZ: Tandartsenpraktijken;2022;3129
+26;Totaal gezondheids- en welzijnszorg;GLZ: Tandartsenpraktijken;2023;3400
+27;Totaal gezondheids- en welzijnszorg;GLZ: Paramedische, verlosk. praktijken;2021;4123
+28;Totaal gezondheids- en welzijnszorg;GLZ: Paramedische, verlosk. praktijken;2022;4456
+29;Totaal gezondheids- en welzijnszorg;GLZ: Paramedische, verlosk. praktijken;2023;4853
+30;Totaal gezondheids- en welzijnszorg;GLZ: Aanb. verpleging, verzorg., kraam;2021;22391
+31;Totaal gezondheids- en welzijnszorg;GLZ: Aanb. verpleging, verzorg., kraam;2022;22755
+32;Totaal gezondheids- en welzijnszorg;GLZ: Aanb. verpleging, verzorg., kraam;2023;24818
+33;Totaal gezondheids- en welzijnszorg;GLZ: Aanbieders gehandicaptenzorg;2021;12014
+34;Totaal gezondheids- en welzijnszorg;GLZ: Aanbieders gehandicaptenzorg;2022;12550
+35;Totaal gezondheids- en welzijnszorg;GLZ: Aanbieders gehandicaptenzorg;2023;13569
+36;Totaal gezondheids- en welzijnszorg;GLZ: Aanb. preventie,publieke gezondheid;2021;7412
+37;Totaal gezondheids- en welzijnszorg;GLZ: Aanb. preventie,publieke gezondheid;2022;5190
+38;Totaal gezondheids- en welzijnszorg;GLZ: Aanb. preventie,publieke gezondheid;2023;4283
+39;Totaal gezondheids- en welzijnszorg;GLZ: Aanb. ondersteunende diensten;2021;1122
+40;Totaal gezondheids- en welzijnszorg;GLZ: Aanb. ondersteunende diensten;2022;934
+41;Totaal gezondheids- en welzijnszorg;GLZ: Aanb. ondersteunende diensten;2023;878
+42;Totaal gezondheids- en welzijnszorg;GLZ: Aanb. overige diensten gezondheid;2021;2555
+43;Totaal gezondheids- en welzijnszorg;GLZ: Aanb. overige diensten gezondheid;2022;3003
+44;Totaal gezondheids- en welzijnszorg;GLZ: Aanb. overige diensten gezondheid;2023;3236
+45;Totaal gezondheids- en welzijnszorg;WJK: Totaal aanbieders WJK;2021;13191
+46;Totaal gezondheids- en welzijnszorg;WJK: Totaal aanbieders WJK;2022;15831
+47;Totaal gezondheids- en welzijnszorg;WJK: Totaal aanbieders WJK;2023;18774
+48;Totaal gezondheids- en welzijnszorg;WJK: Aanbieders kinderopvang;2021;5563
+49;Totaal gezondheids- en welzijnszorg;WJK: Aanbieders kinderopvang;2022;6260
+50;Totaal gezondheids- en welzijnszorg;WJK: Aanbieders kinderopvang;2023;7218
+51;Totaal gezondheids- en welzijnszorg;WJK: Aanbieders jeugdzorg;2021;2527
+52;Totaal gezondheids- en welzijnszorg;WJK: Aanbieders jeugdzorg;2022;2900
+53;Totaal gezondheids- en welzijnszorg;WJK: Aanbieders jeugdzorg;2023;3212
+54;Totaal gezondheids- en welzijnszorg;WJK: Aanbieders maatschappelijke opvang;2021;2086
+55;Totaal gezondheids- en welzijnszorg;WJK: Aanbieders maatschappelijke opvang;2022;2953
+56;Totaal gezondheids- en welzijnszorg;WJK: Aanbieders maatschappelijke opvang;2023;4180
+57;Totaal gezondheids- en welzijnszorg;WJK: Aanb. sociaal werk, overig welzijn;2021;3016
+58;Totaal gezondheids- en welzijnszorg;WJK: Aanb. sociaal werk, overig welzijn;2022;3718
+59;Totaal gezondheids- en welzijnszorg;WJK: Aanb. sociaal werk, overig welzijn;2023;4164
+60;Totaal gezondheids- en welzijnszorg;BZW: Aanb. buiten sector zorg en welzijn;2021;17709
+61;Totaal gezondheids- en welzijnszorg;BZW: Aanb. buiten sector zorg en welzijn;2022;17963
+62;Totaal gezondheids- en welzijnszorg;BZW: Aanb. buiten sector zorg en welzijn;2023;18426
+63;Totaal gezondheids- en welzijnszorg;BZW: Apotheken;2021;4763
+64;Totaal gezondheids- en welzijnszorg;BZW: Apotheken;2022;5016
+65;Totaal gezondheids- en welzijnszorg;BZW: Apotheken;2023;5200
+66;Totaal gezondheids- en welzijnszorg;BZW: Aanbieders van hulpmiddelen;2021;4133
+67;Totaal gezondheids- en welzijnszorg;BZW: Aanbieders van hulpmiddelen;2022;4005
+68;Totaal gezondheids- en welzijnszorg;BZW: Aanbieders van hulpmiddelen;2023;4194
+69;Totaal gezondheids- en welzijnszorg;BZW: Aanb. zorg als nevenactiviteit;2021;2805
+70;Totaal gezondheids- en welzijnszorg;BZW: Aanb. zorg als nevenactiviteit;2022;2770
+71;Totaal gezondheids- en welzijnszorg;BZW: Aanb. zorg als nevenactiviteit;2023;2717
+72;Totaal gezondheids- en welzijnszorg;BZW: Gezinshuishoudingen;2021;1716
+73;Totaal gezondheids- en welzijnszorg;BZW: Gezinshuishoudingen;2022;1745
+74;Totaal gezondheids- en welzijnszorg;BZW: Gezinshuishoudingen;2023;1856
+75;Totaal gezondheids- en welzijnszorg;BZW: Buitenlandse aanb. zorg en welzijn;2021;639
+76;Totaal gezondheids- en welzijnszorg;BZW: Buitenlandse aanb. zorg en welzijn;2022;692
+77;Totaal gezondheids- en welzijnszorg;BZW: Buitenlandse aanb. zorg en welzijn;2023;657
+78;Totaal gezondheids- en welzijnszorg;BZW: Beleids- en beheerorganisaties;2021;3653
+79;Totaal gezondheids- en welzijnszorg;BZW: Beleids- en beheerorganisaties;2022;3735
+80;Totaal gezondheids- en welzijnszorg;BZW: Beleids- en beheerorganisaties;2023;3801
+81;MSZ klinische zorg;Totaal aanbieders zorg en welzijn;2021;9427
+82;MSZ klinische zorg;Totaal aanbieders zorg en welzijn;2022;9324
+83;MSZ klinische zorg;Totaal aanbieders zorg en welzijn;2023;9884
+84;MSZ klinische zorg;GLZ: Totaal aanb. gezondh., langd. zorg;2021;9413
+85;MSZ klinische zorg;GLZ: Totaal aanb. gezondh., langd. zorg;2022;9312
+86;MSZ klinische zorg;GLZ: Totaal aanb. gezondh., langd. zorg;2023;9871
+87;MSZ klinische zorg;GLZ: Aanb. medisch specialistische zorg;2021;9256
+88;MSZ klinische zorg;GLZ: Aanb. medisch specialistische zorg;2022;9149
+89;MSZ klinische zorg;GLZ: Aanb. medisch specialistische zorg;2023;9696
+90;MSZ klinische zorg;GLZMS: Algemene ziekenhuizen;2021;6651
+91;MSZ klinische zorg;GLZMS: Algemene ziekenhuizen;2022;6556
+92;MSZ klinische zorg;GLZMS: Algemene ziekenhuizen;2023;6926
+93;MSZ klinische zorg;GLZMS: UMC's;2021;2176
+94;MSZ klinische zorg;GLZMS: UMC's;2022;2136
+95;MSZ klinische zorg;GLZMS: UMC's;2023;2277
+96;MSZ klinische zorg;GLZMS: Overige aanb. med. spec. zorg;2021;429
+97;MSZ klinische zorg;GLZMS: Overige aanb. med. spec. zorg;2022;457
+98;MSZ klinische zorg;GLZMS: Overige aanb. med. spec. zorg;2023;493
+99;MSZ klinische zorg;GLZ: Aanb. geestelijke gezondheidszorg;2021;0
+100;MSZ klinische zorg;GLZ: Aanb. geestelijke gezondheidszorg;2022;0
+101;MSZ klinische zorg;GLZ: Aanb. geestelijke gezondheidszorg;2023;0
+102;MSZ klinische zorg;GLZ: Huisartsenpraktijken,gezondh.centra;2021;0
+103;MSZ klinische zorg;GLZ: Huisartsenpraktijken,gezondh.centra;2022;0
+104;MSZ klinische zorg;GLZ: Huisartsenpraktijken,gezondh.centra;2023;0
+105;MSZ klinische zorg;GLZ: Tandartsenpraktijken;2021;0
+106;MSZ klinische zorg;GLZ: Tandartsenpraktijken;2022;0
+107;MSZ klinische zorg;GLZ: Tandartsenpraktijken;2023;0
+108;MSZ klinische zorg;GLZ: Paramedische, verlosk. praktijken;2021;0
+109;MSZ klinische zorg;GLZ: Paramedische, verlosk. praktijken;2022;0
+110;MSZ klinische zorg;GLZ: Paramedische, verlosk. praktijken;2023;0
+111;MSZ klinische zorg;GLZ: Aanb. verpleging, verzorg., kraam;2021;81
+112;MSZ klinische zorg;GLZ: Aanb. verpleging, verzorg., kraam;2022;77
+113;MSZ klinische zorg;GLZ: Aanb. verpleging, verzorg., kraam;2023;82
+114;MSZ klinische zorg;GLZ: Aanbieders gehandicaptenzorg;2021;41
+115;MSZ klinische zorg;GLZ: Aanbieders gehandicaptenzorg;2022;42
+116;MSZ klinische zorg;GLZ: Aanbieders gehandicaptenzorg;2023;45
+117;MSZ klinische zorg;GLZ: Aanb. preventie,publieke gezondheid;2021;21
+118;MSZ klinische zorg;GLZ: Aanb. preventie,publieke gezondheid;2022;27
+119;MSZ klinische zorg;GLZ: Aanb. preventie,publieke gezondheid;2023;29
+120;MSZ klinische zorg;GLZ: Aanb. ondersteunende diensten;2021;0
+121;MSZ klinische zorg;GLZ: Aanb. ondersteunende diensten;2022;0
+122;MSZ klinische zorg;GLZ: Aanb. ondersteunende diensten;2023;0
+123;MSZ klinische zorg;GLZ: Aanb. overige diensten gezondheid;2021;14
+124;MSZ klinische zorg;GLZ: Aanb. overige diensten gezondheid;2022;18
+125;MSZ klinische zorg;GLZ: Aanb. overige diensten gezondheid;2023;19
+126;MSZ klinische zorg;WJK: Totaal aanbieders WJK;2021;1
+127;MSZ klinische zorg;WJK: Totaal aanbieders WJK;2022;0
+128;MSZ klinische zorg;WJK: Totaal aanbieders WJK;2023;0
+129;MSZ klinische zorg;WJK: Aanbieders kinderopvang;2021;0
+130;MSZ klinische zorg;WJK: Aanbieders kinderopvang;2022;0
+131;MSZ klinische zorg;WJK: Aanbieders kinderopvang;2023;0
+132;MSZ klinische zorg;WJK: Aanbieders jeugdzorg;2021;0
+133;MSZ klinische zorg;WJK: Aanbieders jeugdzorg;2022;0
+134;MSZ klinische zorg;WJK: Aanbieders jeugdzorg;2023;0
+135;MSZ klinische zorg;WJK: Aanbieders maatschappelijke opvang;2021;0
+136;MSZ klinische zorg;WJK: Aanbieders maatschappelijke opvang;2022;0
+137;MSZ klinische zorg;WJK: Aanbieders maatschappelijke opvang;2023;0
+138;MSZ klinische zorg;WJK: Aanb. sociaal werk, overig welzijn;2021;1
+139;MSZ klinische zorg;WJK: Aanb. sociaal werk, overig welzijn;2022;0
+140;MSZ klinische zorg;WJK: Aanb. sociaal werk, overig welzijn;2023;0
+141;MSZ klinische zorg;BZW: Aanb. buiten sector zorg en welzijn;2021;13
+142;MSZ klinische zorg;BZW: Aanb. buiten sector zorg en welzijn;2022;12
+143;MSZ klinische zorg;BZW: Aanb. buiten sector zorg en welzijn;2023;13
+144;MSZ klinische zorg;BZW: Apotheken;2021;0
+145;MSZ klinische zorg;BZW: Apotheken;2022;0
+146;MSZ klinische zorg;BZW: Apotheken;2023;0
+147;MSZ klinische zorg;BZW: Aanbieders van hulpmiddelen;2021;0
+148;MSZ klinische zorg;BZW: Aanbieders van hulpmiddelen;2022;0
+149;MSZ klinische zorg;BZW: Aanbieders van hulpmiddelen;2023;0
+150;MSZ klinische zorg;BZW: Aanb. zorg als nevenactiviteit;2021;13
+151;MSZ klinische zorg;BZW: Aanb. zorg als nevenactiviteit;2022;12
+152;MSZ klinische zorg;BZW: Aanb. zorg als nevenactiviteit;2023;13
+153;MSZ klinische zorg;BZW: Gezinshuishoudingen;2021;0
+154;MSZ klinische zorg;BZW: Gezinshuishoudingen;2022;0
+155;MSZ klinische zorg;BZW: Gezinshuishoudingen;2023;0
+156;MSZ klinische zorg;BZW: Buitenlandse aanb. zorg en welzijn;2021;0
+157;MSZ klinische zorg;BZW: Buitenlandse aanb. zorg en welzijn;2022;0
+158;MSZ klinische zorg;BZW: Buitenlandse aanb. zorg en welzijn;2023;0
+159;MSZ klinische zorg;BZW: Beleids- en beheerorganisaties;2021;0
+160;MSZ klinische zorg;BZW: Beleids- en beheerorganisaties;2022;0
+161;MSZ klinische zorg;BZW: Beleids- en beheerorganisaties;2023;0
+162;MSZ dagbehandeling;Totaal aanbieders zorg en welzijn;2021;2419
+163;MSZ dagbehandeling;Totaal aanbieders zorg en welzijn;2022;2639
+164;MSZ dagbehandeling;Totaal aanbieders zorg en welzijn;2023;2849
+165;MSZ dagbehandeling;GLZ: Totaal aanb. gezondh., langd. zorg;2021;2418
+166;MSZ dagbehandeling;GLZ: Totaal aanb. gezondh., langd. zorg;2022;2637
+167;MSZ dagbehandeling;GLZ: Totaal aanb. gezondh., langd. zorg;2023;2847
+168;MSZ dagbehandeling;GLZ: Aanb. medisch specialistische zorg;2021;2367
+169;MSZ dagbehandeling;GLZ: Aanb. medisch specialistische zorg;2022;2575
+170;MSZ dagbehandeling;GLZ: Aanb. medisch specialistische zorg;2023;2780
+171;MSZ dagbehandeling;GLZMS: Algemene ziekenhuizen;2021;1806
+172;MSZ dagbehandeling;GLZMS: Algemene ziekenhuizen;2022;1982
+173;MSZ dagbehandeling;GLZMS: Algemene ziekenhuizen;2023;2139
+174;MSZ dagbehandeling;GLZMS: UMC's;2021;390
+175;MSZ dagbehandeling;GLZMS: UMC's;2022;409
+176;MSZ dagbehandeling;GLZMS: UMC's;2023;442
+177;MSZ dagbehandeling;GLZMS: Overige aanb. med. spec. zorg;2021;172
+178;MSZ dagbehandeling;GLZMS: Overige aanb. med. spec. zorg;2022;184
+179;MSZ dagbehandeling;GLZMS: Overige aanb. med. spec. zorg;2023;200
+180;MSZ dagbehandeling;GLZ: Aanb. geestelijke gezondheidszorg;2021;0
+181;MSZ dagbehandeling;GLZ: Aanb. geestelijke gezondheidszorg;2022;0
+182;MSZ dagbehandeling;GLZ: Aanb. geestelijke gezondheidszorg;2023;0
+183;MSZ dagbehandeling;GLZ: Huisartsenpraktijken,gezondh.centra;2021;0
+184;MSZ dagbehandeling;GLZ: Huisartsenpraktijken,gezondh.centra;2022;0
+185;MSZ dagbehandeling;GLZ: Huisartsenpraktijken,gezondh.centra;2023;0
+186;MSZ dagbehandeling;GLZ: Tandartsenpraktijken;2021;0
+187;MSZ dagbehandeling;GLZ: Tandartsenpraktijken;2022;0
+188;MSZ dagbehandeling;GLZ: Tandartsenpraktijken;2023;0
+189;MSZ dagbehandeling;GLZ: Paramedische, verlosk. praktijken;2021;0
+190;MSZ dagbehandeling;GLZ: Paramedische, verlosk. praktijken;2022;0
+191;MSZ dagbehandeling;GLZ: Paramedische, verlosk. praktijken;2023;0
+192;MSZ dagbehandeling;GLZ: Aanb. verpleging, verzorg., kraam;2021;27
+193;MSZ dagbehandeling;GLZ: Aanb. verpleging, verzorg., kraam;2022;30
+194;MSZ dagbehandeling;GLZ: Aanb. verpleging, verzorg., kraam;2023;33
+195;MSZ dagbehandeling;GLZ: Aanbieders gehandicaptenzorg;2021;0
+196;MSZ dagbehandeling;GLZ: Aanbieders gehandicaptenzorg;2022;0
+197;MSZ dagbehandeling;GLZ: Aanbieders gehandicaptenzorg;2023;0
+198;MSZ dagbehandeling;GLZ: Aanb. preventie,publieke gezondheid;2021;0
+199;MSZ dagbehandeling;GLZ: Aanb. preventie,publieke gezondheid;2022;3
+200;MSZ dagbehandeling;GLZ: Aanb. preventie,publieke gezondheid;2023;3
+201;MSZ dagbehandeling;GLZ: Aanb. ondersteunende diensten;2021;0
+202;MSZ dagbehandeling;GLZ: Aanb. ondersteunende diensten;2022;0
+203;MSZ dagbehandeling;GLZ: Aanb. ondersteunende diensten;2023;0
+204;MSZ dagbehandeling;GLZ: Aanb. overige diensten gezondheid;2021;23
+205;MSZ dagbehandeling;GLZ: Aanb. overige diensten gezondheid;2022;28
+206;MSZ dagbehandeling;GLZ: Aanb. overige diensten gezondheid;2023;31
+207;MSZ dagbehandeling;WJK: Totaal aanbieders WJK;2021;0
+208;MSZ dagbehandeling;WJK: Totaal aanbieders WJK;2022;0
+209;MSZ dagbehandeling;WJK: Totaal aanbieders WJK;2023;0
+210;MSZ dagbehandeling;WJK: Aanbieders kinderopvang;2021;0
+211;MSZ dagbehandeling;WJK: Aanbieders kinderopvang;2022;0
+212;MSZ dagbehandeling;WJK: Aanbieders kinderopvang;2023;0
+213;MSZ dagbehandeling;WJK: Aanbieders jeugdzorg;2021;0
+214;MSZ dagbehandeling;WJK: Aanbieders jeugdzorg;2022;0
+215;MSZ dagbehandeling;WJK: Aanbieders jeugdzorg;2023;0
+216;MSZ dagbehandeling;WJK: Aanbieders maatschappelijke opvang;2021;0
+217;MSZ dagbehandeling;WJK: Aanbieders maatschappelijke opvang;2022;0
+218;MSZ dagbehandeling;WJK: Aanbieders maatschappelijke opvang;2023;0
+219;MSZ dagbehandeling;WJK: Aanb. sociaal werk, overig welzijn;2021;0
+220;MSZ dagbehandeling;WJK: Aanb. sociaal werk, overig welzijn;2022;0
+221;MSZ dagbehandeling;WJK: Aanb. sociaal werk, overig welzijn;2023;0
+222;MSZ dagbehandeling;BZW: Aanb. buiten sector zorg en welzijn;2021;1
+223;MSZ dagbehandeling;BZW: Aanb. buiten sector zorg en welzijn;2022;2
+224;MSZ dagbehandeling;BZW: Aanb. buiten sector zorg en welzijn;2023;3
+225;MSZ dagbehandeling;BZW: Apotheken;2021;0
+226;MSZ dagbehandeling;BZW: Apotheken;2022;0
+227;MSZ dagbehandeling;BZW: Apotheken;2023;0
+228;MSZ dagbehandeling;BZW: Aanbieders van hulpmiddelen;2021;0
+229;MSZ dagbehandeling;BZW: Aanbieders van hulpmiddelen;2022;0
+230;MSZ dagbehandeling;BZW: Aanbieders van hulpmiddelen;2023;0
+231;MSZ dagbehandeling;BZW: Aanb. zorg als nevenactiviteit;2021;1
+232;MSZ dagbehandeling;BZW: Aanb. zorg als nevenactiviteit;2022;2
+233;MSZ dagbehandeling;BZW: Aanb. zorg als nevenactiviteit;2023;3
+234;MSZ dagbehandeling;BZW: Gezinshuishoudingen;2021;0
+235;MSZ dagbehandeling;BZW: Gezinshuishoudingen;2022;0
+236;MSZ dagbehandeling;BZW: Gezinshuishoudingen;2023;0
+237;MSZ dagbehandeling;BZW: Buitenlandse aanb. zorg en welzijn;2021;0
+238;MSZ dagbehandeling;BZW: Buitenlandse aanb. zorg en welzijn;2022;0
+239;MSZ dagbehandeling;BZW: Buitenlandse aanb. zorg en welzijn;2023;0
+240;MSZ dagbehandeling;BZW: Beleids- en beheerorganisaties;2021;0
+241;MSZ dagbehandeling;BZW: Beleids- en beheerorganisaties;2022;0
+242;MSZ dagbehandeling;BZW: Beleids- en beheerorganisaties;2023;0
+243;MSZ poliklinische zorg;Totaal aanbieders zorg en welzijn;2021;8009
+244;MSZ poliklinische zorg;Totaal aanbieders zorg en welzijn;2022;8322
+245;MSZ poliklinische zorg;Totaal aanbieders zorg en welzijn;2023;8984
+246;MSZ poliklinische zorg;GLZ: Totaal aanb. gezondh., langd. zorg;2021;7982
+247;MSZ poliklinische zorg;GLZ: Totaal aanb. gezondh., langd. zorg;2022;8305
+248;MSZ poliklinische zorg;GLZ: Totaal aanb. gezondh., langd. zorg;2023;8966
+249;MSZ poliklinische zorg;GLZ: Aanb. medisch specialistische zorg;2021;7806
+250;MSZ poliklinische zorg;GLZ: Aanb. medisch specialistische zorg;2022;8121
+251;MSZ poliklinische zorg;GLZ: Aanb. medisch specialistische zorg;2023;8766
+252;MSZ poliklinische zorg;GLZMS: Algemene ziekenhuizen;2021;5640
+253;MSZ poliklinische zorg;GLZMS: Algemene ziekenhuizen;2022;5844
+254;MSZ poliklinische zorg;GLZMS: Algemene ziekenhuizen;2023;6307
+255;MSZ poliklinische zorg;GLZMS: UMC's;2021;1301
+256;MSZ poliklinische zorg;GLZMS: UMC's;2022;1328
+257;MSZ poliklinische zorg;GLZMS: UMC's;2023;1434
+258;MSZ poliklinische zorg;GLZMS: Overige aanb. med. spec. zorg;2021;865
+259;MSZ poliklinische zorg;GLZMS: Overige aanb. med. spec. zorg;2022;948
+260;MSZ poliklinische zorg;GLZMS: Overige aanb. med. spec. zorg;2023;1026
+261;MSZ poliklinische zorg;GLZ: Aanb. geestelijke gezondheidszorg;2021;0
+262;MSZ poliklinische zorg;GLZ: Aanb. geestelijke gezondheidszorg;2022;0
+263;MSZ poliklinische zorg;GLZ: Aanb. geestelijke gezondheidszorg;2023;0
+264;MSZ poliklinische zorg;GLZ: Huisartsenpraktijken,gezondh.centra;2021;0
+265;MSZ poliklinische zorg;GLZ: Huisartsenpraktijken,gezondh.centra;2022;0
+266;MSZ poliklinische zorg;GLZ: Huisartsenpraktijken,gezondh.centra;2023;0
+267;MSZ poliklinische zorg;GLZ: Tandartsenpraktijken;2021;0
+268;MSZ poliklinische zorg;GLZ: Tandartsenpraktijken;2022;0
+269;MSZ poliklinische zorg;GLZ: Tandartsenpraktijken;2023;0
+270;MSZ poliklinische zorg;GLZ: Paramedische, verlosk. praktijken;2021;1
+271;MSZ poliklinische zorg;GLZ: Paramedische, verlosk. praktijken;2022;0
+272;MSZ poliklinische zorg;GLZ: Paramedische, verlosk. praktijken;2023;0
+273;MSZ poliklinische zorg;GLZ: Aanb. verpleging, verzorg., kraam;2021;81
+274;MSZ poliklinische zorg;GLZ: Aanb. verpleging, verzorg., kraam;2022;86
+275;MSZ poliklinische zorg;GLZ: Aanb. verpleging, verzorg., kraam;2023;94
+276;MSZ poliklinische zorg;GLZ: Aanbieders gehandicaptenzorg;2021;43
+277;MSZ poliklinische zorg;GLZ: Aanbieders gehandicaptenzorg;2022;40
+278;MSZ poliklinische zorg;GLZ: Aanbieders gehandicaptenzorg;2023;44
+279;MSZ poliklinische zorg;GLZ: Aanb. preventie,publieke gezondheid;2021;17
+280;MSZ poliklinische zorg;GLZ: Aanb. preventie,publieke gezondheid;2022;17
+281;MSZ poliklinische zorg;GLZ: Aanb. preventie,publieke gezondheid;2023;18
+282;MSZ poliklinische zorg;GLZ: Aanb. ondersteunende diensten;2021;0
+283;MSZ poliklinische zorg;GLZ: Aanb. ondersteunende diensten;2022;0
+284;MSZ poliklinische zorg;GLZ: Aanb. ondersteunende diensten;2023;0
+285;MSZ poliklinische zorg;GLZ: Aanb. overige diensten gezondheid;2021;33
+286;MSZ poliklinische zorg;GLZ: Aanb. overige diensten gezondheid;2022;41
+287;MSZ poliklinische zorg;GLZ: Aanb. overige diensten gezondheid;2023;45
+288;MSZ poliklinische zorg;WJK: Totaal aanbieders WJK;2021;0
+289;MSZ poliklinische zorg;WJK: Totaal aanbieders WJK;2022;0
+290;MSZ poliklinische zorg;WJK: Totaal aanbieders WJK;2023;0
+291;MSZ poliklinische zorg;WJK: Aanbieders kinderopvang;2021;0
+292;MSZ poliklinische zorg;WJK: Aanbieders kinderopvang;2022;0
+293;MSZ poliklinische zorg;WJK: Aanbieders kinderopvang;2023;0
+294;MSZ poliklinische zorg;WJK: Aanbieders jeugdzorg;2021;0
+295;MSZ poliklinische zorg;WJK: Aanbieders jeugdzorg;2022;0
+296;MSZ poliklinische zorg;WJK: Aanbieders jeugdzorg;2023;0
+297;MSZ poliklinische zorg;WJK: Aanbieders maatschappelijke opvang;2021;0
+298;MSZ poliklinische zorg;WJK: Aanbieders maatschappelijke opvang;2022;0
+299;MSZ poliklinische zorg;WJK: Aanbieders maatschappelijke opvang;2023;0
+300;MSZ poliklinische zorg;WJK: Aanb. sociaal werk, overig welzijn;2021;0
+301;MSZ poliklinische zorg;WJK: Aanb. sociaal werk, overig welzijn;2022;0
+302;MSZ poliklinische zorg;WJK: Aanb. sociaal werk, overig welzijn;2023;0
+303;MSZ poliklinische zorg;BZW: Aanb. buiten sector zorg en welzijn;2021;27
+304;MSZ poliklinische zorg;BZW: Aanb. buiten sector zorg en welzijn;2022;16
+305;MSZ poliklinische zorg;BZW: Aanb. buiten sector zorg en welzijn;2023;18
+306;MSZ poliklinische zorg;BZW: Apotheken;2021;0
+307;MSZ poliklinische zorg;BZW: Apotheken;2022;0
+308;MSZ poliklinische zorg;BZW: Apotheken;2023;0
+309;MSZ poliklinische zorg;BZW: Aanbieders van hulpmiddelen;2021;0
+310;MSZ poliklinische zorg;BZW: Aanbieders van hulpmiddelen;2022;0
+311;MSZ poliklinische zorg;BZW: Aanbieders van hulpmiddelen;2023;0
+312;MSZ poliklinische zorg;BZW: Aanb. zorg als nevenactiviteit;2021;27
+313;MSZ poliklinische zorg;BZW: Aanb. zorg als nevenactiviteit;2022;16
+314;MSZ poliklinische zorg;BZW: Aanb. zorg als nevenactiviteit;2023;18
+315;MSZ poliklinische zorg;BZW: Gezinshuishoudingen;2021;0
+316;MSZ poliklinische zorg;BZW: Gezinshuishoudingen;2022;0
+317;MSZ poliklinische zorg;BZW: Gezinshuishoudingen;2023;0
+318;MSZ poliklinische zorg;BZW: Buitenlandse aanb. zorg en welzijn;2021;0
+319;MSZ poliklinische zorg;BZW: Buitenlandse aanb. zorg en welzijn;2022;0
+320;MSZ poliklinische zorg;BZW: Buitenlandse aanb. zorg en welzijn;2023;0
+321;MSZ poliklinische zorg;BZW: Beleids- en beheerorganisaties;2021;0
+322;MSZ poliklinische zorg;BZW: Beleids- en beheerorganisaties;2022;0
+323;MSZ poliklinische zorg;BZW: Beleids- en beheerorganisaties;2023;0
+324;MSZ overige zorg;Totaal aanbieders zorg en welzijn;2021;4141
+325;MSZ overige zorg;Totaal aanbieders zorg en welzijn;2022;4611
+326;MSZ overige zorg;Totaal aanbieders zorg en welzijn;2023;4869
+327;MSZ overige zorg;GLZ: Totaal aanb. gezondh., langd. zorg;2021;3899
+328;MSZ overige zorg;GLZ: Totaal aanb. gezondh., langd. zorg;2022;4267
+329;MSZ overige zorg;GLZ: Totaal aanb. gezondh., langd. zorg;2023;4518
+330;MSZ overige zorg;GLZ: Aanb. medisch specialistische zorg;2021;3725
+331;MSZ overige zorg;GLZ: Aanb. medisch specialistische zorg;2022;4103
+332;MSZ overige zorg;GLZ: Aanb. medisch specialistische zorg;2023;4343
+333;MSZ overige zorg;GLZMS: Algemene ziekenhuizen;2021;996
+334;MSZ overige zorg;GLZMS: Algemene ziekenhuizen;2022;985
+335;MSZ overige zorg;GLZMS: Algemene ziekenhuizen;2023;1026
+336;MSZ overige zorg;GLZMS: UMC's;2021;1691
+337;MSZ overige zorg;GLZMS: UMC's;2022;1887
+338;MSZ overige zorg;GLZMS: UMC's;2023;1948
+339;MSZ overige zorg;GLZMS: Overige aanb. med. spec. zorg;2021;1038
+340;MSZ overige zorg;GLZMS: Overige aanb. med. spec. zorg;2022;1231
+341;MSZ overige zorg;GLZMS: Overige aanb. med. spec. zorg;2023;1369
+342;MSZ overige zorg;GLZ: Aanb. geestelijke gezondheidszorg;2021;0
+343;MSZ overige zorg;GLZ: Aanb. geestelijke gezondheidszorg;2022;0
+344;MSZ overige zorg;GLZ: Aanb. geestelijke gezondheidszorg;2023;0
+345;MSZ overige zorg;GLZ: Huisartsenpraktijken,gezondh.centra;2021;0
+346;MSZ overige zorg;GLZ: Huisartsenpraktijken,gezondh.centra;2022;0
+347;MSZ overige zorg;GLZ: Huisartsenpraktijken,gezondh.centra;2023;0
+348;MSZ overige zorg;GLZ: Tandartsenpraktijken;2021;0
+349;MSZ overige zorg;GLZ: Tandartsenpraktijken;2022;0
+350;MSZ overige zorg;GLZ: Tandartsenpraktijken;2023;0
+351;MSZ overige zorg;GLZ: Paramedische, verlosk. praktijken;2021;0
+352;MSZ overige zorg;GLZ: Paramedische, verlosk. praktijken;2022;0
+353;MSZ overige zorg;GLZ: Paramedische, verlosk. praktijken;2023;0
+354;MSZ overige zorg;GLZ: Aanb. verpleging, verzorg., kraam;2021;77
+355;MSZ overige zorg;GLZ: Aanb. verpleging, verzorg., kraam;2022;68
+356;MSZ overige zorg;GLZ: Aanb. verpleging, verzorg., kraam;2023;71
+357;MSZ overige zorg;GLZ: Aanbieders gehandicaptenzorg;2021;15
+358;MSZ overige zorg;GLZ: Aanbieders gehandicaptenzorg;2022;13
+359;MSZ overige zorg;GLZ: Aanbieders gehandicaptenzorg;2023;15
+360;MSZ overige zorg;GLZ: Aanb. preventie,publieke gezondheid;2021;36
+361;MSZ overige zorg;GLZ: Aanb. preventie,publieke gezondheid;2022;34
+362;MSZ overige zorg;GLZ: Aanb. preventie,publieke gezondheid;2023;36
+363;MSZ overige zorg;GLZ: Aanb. ondersteunende diensten;2021;36
+364;MSZ overige zorg;GLZ: Aanb. ondersteunende diensten;2022;35
+365;MSZ overige zorg;GLZ: Aanb. ondersteunende diensten;2023;38
+366;MSZ overige zorg;GLZ: Aanb. overige diensten gezondheid;2021;9
+367;MSZ overige zorg;GLZ: Aanb. overige diensten gezondheid;2022;13
+368;MSZ overige zorg;GLZ: Aanb. overige diensten gezondheid;2023;14
+369;MSZ overige zorg;WJK: Totaal aanbieders WJK;2021;0
+370;MSZ overige zorg;WJK: Totaal aanbieders WJK;2022;1
+371;MSZ overige zorg;WJK: Totaal aanbieders WJK;2023;2
+372;MSZ overige zorg;WJK: Aanbieders kinderopvang;2021;0
+373;MSZ overige zorg;WJK: Aanbieders kinderopvang;2022;0
+374;MSZ overige zorg;WJK: Aanbieders kinderopvang;2023;0
+375;MSZ overige zorg;WJK: Aanbieders jeugdzorg;2021;0
+376;MSZ overige zorg;WJK: Aanbieders jeugdzorg;2022;0
+377;MSZ overige zorg;WJK: Aanbieders jeugdzorg;2023;0
+378;MSZ overige zorg;WJK: Aanbieders maatschappelijke opvang;2021;0
+379;MSZ overige zorg;WJK: Aanbieders maatschappelijke opvang;2022;1
+380;MSZ overige zorg;WJK: Aanbieders maatschappelijke opvang;2023;2
+381;MSZ overige zorg;WJK: Aanb. sociaal werk, overig welzijn;2021;0
+382;MSZ overige zorg;WJK: Aanb. sociaal werk, overig welzijn;2022;0
+383;MSZ overige zorg;WJK: Aanb. sociaal werk, overig welzijn;2023;0
+384;MSZ overige zorg;BZW: Aanb. buiten sector zorg en welzijn;2021;243
+385;MSZ overige zorg;BZW: Aanb. buiten sector zorg en welzijn;2022;343
+386;MSZ overige zorg;BZW: Aanb. buiten sector zorg en welzijn;2023;350
+387;MSZ overige zorg;BZW: Apotheken;2021;0
+388;MSZ overige zorg;BZW: Apotheken;2022;0
+389;MSZ overige zorg;BZW: Apotheken;2023;0
+390;MSZ overige zorg;BZW: Aanbieders van hulpmiddelen;2021;0
+391;MSZ overige zorg;BZW: Aanbieders van hulpmiddelen;2022;0
+392;MSZ overige zorg;BZW: Aanbieders van hulpmiddelen;2023;0
+393;MSZ overige zorg;BZW: Aanb. zorg als nevenactiviteit;2021;69
+394;MSZ overige zorg;BZW: Aanb. zorg als nevenactiviteit;2022;66
+395;MSZ overige zorg;BZW: Aanb. zorg als nevenactiviteit;2023;65
+396;MSZ overige zorg;BZW: Gezinshuishoudingen;2021;0
+397;MSZ overige zorg;BZW: Gezinshuishoudingen;2022;0
+398;MSZ overige zorg;BZW: Gezinshuishoudingen;2023;0
+399;MSZ overige zorg;BZW: Buitenlandse aanb. zorg en welzijn;2021;174
+400;MSZ overige zorg;BZW: Buitenlandse aanb. zorg en welzijn;2022;277
+401;MSZ overige zorg;BZW: Buitenlandse aanb. zorg en welzijn;2023;284
+402;MSZ overige zorg;BZW: Beleids- en beheerorganisaties;2021;0
+403;MSZ overige zorg;BZW: Beleids- en beheerorganisaties;2022;0
+404;MSZ overige zorg;BZW: Beleids- en beheerorganisaties;2023;0
+405;Geestelijke gezondheidszorg;Totaal aanbieders zorg en welzijn;2021;7246
+406;Geestelijke gezondheidszorg;Totaal aanbieders zorg en welzijn;2022;7871
+407;Geestelijke gezondheidszorg;Totaal aanbieders zorg en welzijn;2023;8560
+408;Geestelijke gezondheidszorg;GLZ: Totaal aanb. gezondh., langd. zorg;2021;6863
+409;Geestelijke gezondheidszorg;GLZ: Totaal aanb. gezondh., langd. zorg;2022;7316
+410;Geestelijke gezondheidszorg;GLZ: Totaal aanb. gezondh., langd. zorg;2023;7920
+411;Geestelijke gezondheidszorg;GLZ: Aanb. medisch specialistische zorg;2021;293
+412;Geestelijke gezondheidszorg;GLZ: Aanb. medisch specialistische zorg;2022;308
+413;Geestelijke gezondheidszorg;GLZ: Aanb. medisch specialistische zorg;2023;337
+414;Geestelijke gezondheidszorg;GLZMS: Algemene ziekenhuizen;2021;178
+415;Geestelijke gezondheidszorg;GLZMS: Algemene ziekenhuizen;2022;187
+416;Geestelijke gezondheidszorg;GLZMS: Algemene ziekenhuizen;2023;205
+417;Geestelijke gezondheidszorg;GLZMS: UMC's;2021;85
+418;Geestelijke gezondheidszorg;GLZMS: UMC's;2022;94
+419;Geestelijke gezondheidszorg;GLZMS: UMC's;2023;103
+420;Geestelijke gezondheidszorg;GLZMS: Overige aanb. med. spec. zorg;2021;31
+421;Geestelijke gezondheidszorg;GLZMS: Overige aanb. med. spec. zorg;2022;26
+422;Geestelijke gezondheidszorg;GLZMS: Overige aanb. med. spec. zorg;2023;29
+423;Geestelijke gezondheidszorg;GLZ: Aanb. geestelijke gezondheidszorg;2021;5972
+424;Geestelijke gezondheidszorg;GLZ: Aanb. geestelijke gezondheidszorg;2022;6300
+425;Geestelijke gezondheidszorg;GLZ: Aanb. geestelijke gezondheidszorg;2023;6794
+426;Geestelijke gezondheidszorg;GLZ: Huisartsenpraktijken,gezondh.centra;2021;199
+427;Geestelijke gezondheidszorg;GLZ: Huisartsenpraktijken,gezondh.centra;2022;201
+428;Geestelijke gezondheidszorg;GLZ: Huisartsenpraktijken,gezondh.centra;2023;223
+429;Geestelijke gezondheidszorg;GLZ: Tandartsenpraktijken;2021;0
+430;Geestelijke gezondheidszorg;GLZ: Tandartsenpraktijken;2022;0
+431;Geestelijke gezondheidszorg;GLZ: Tandartsenpraktijken;2023;0
+432;Geestelijke gezondheidszorg;GLZ: Paramedische, verlosk. praktijken;2021;20
+433;Geestelijke gezondheidszorg;GLZ: Paramedische, verlosk. praktijken;2022;25
+434;Geestelijke gezondheidszorg;GLZ: Paramedische, verlosk. praktijken;2023;28
+435;Geestelijke gezondheidszorg;GLZ: Aanb. verpleging, verzorg., kraam;2021;165
+436;Geestelijke gezondheidszorg;GLZ: Aanb. verpleging, verzorg., kraam;2022;218
+437;Geestelijke gezondheidszorg;GLZ: Aanb. verpleging, verzorg., kraam;2023;248
+438;Geestelijke gezondheidszorg;GLZ: Aanbieders gehandicaptenzorg;2021;147
+439;Geestelijke gezondheidszorg;GLZ: Aanbieders gehandicaptenzorg;2022;185
+440;Geestelijke gezondheidszorg;GLZ: Aanbieders gehandicaptenzorg;2023;205
+441;Geestelijke gezondheidszorg;GLZ: Aanb. preventie,publieke gezondheid;2021;25
+442;Geestelijke gezondheidszorg;GLZ: Aanb. preventie,publieke gezondheid;2022;27
+443;Geestelijke gezondheidszorg;GLZ: Aanb. preventie,publieke gezondheid;2023;28
+444;Geestelijke gezondheidszorg;GLZ: Aanb. ondersteunende diensten;2021;0
+445;Geestelijke gezondheidszorg;GLZ: Aanb. ondersteunende diensten;2022;0
+446;Geestelijke gezondheidszorg;GLZ: Aanb. ondersteunende diensten;2023;0
+447;Geestelijke gezondheidszorg;GLZ: Aanb. overige diensten gezondheid;2021;42
+448;Geestelijke gezondheidszorg;GLZ: Aanb. overige diensten gezondheid;2022;52
+449;Geestelijke gezondheidszorg;GLZ: Aanb. overige diensten gezondheid;2023;58
+450;Geestelijke gezondheidszorg;WJK: Totaal aanbieders WJK;2021;136
+451;Geestelijke gezondheidszorg;WJK: Totaal aanbieders WJK;2022;182
+452;Geestelijke gezondheidszorg;WJK: Totaal aanbieders WJK;2023;197
+453;Geestelijke gezondheidszorg;WJK: Aanbieders kinderopvang;2021;0
+454;Geestelijke gezondheidszorg;WJK: Aanbieders kinderopvang;2022;0
+455;Geestelijke gezondheidszorg;WJK: Aanbieders kinderopvang;2023;0
+456;Geestelijke gezondheidszorg;WJK: Aanbieders jeugdzorg;2021;55
+457;Geestelijke gezondheidszorg;WJK: Aanbieders jeugdzorg;2022;69
+458;Geestelijke gezondheidszorg;WJK: Aanbieders jeugdzorg;2023;74
+459;Geestelijke gezondheidszorg;WJK: Aanbieders maatschappelijke opvang;2021;79
+460;Geestelijke gezondheidszorg;WJK: Aanbieders maatschappelijke opvang;2022;93
+461;Geestelijke gezondheidszorg;WJK: Aanbieders maatschappelijke opvang;2023;99
+462;Geestelijke gezondheidszorg;WJK: Aanb. sociaal werk, overig welzijn;2021;1
+463;Geestelijke gezondheidszorg;WJK: Aanb. sociaal werk, overig welzijn;2022;19
+464;Geestelijke gezondheidszorg;WJK: Aanb. sociaal werk, overig welzijn;2023;25
+465;Geestelijke gezondheidszorg;BZW: Aanb. buiten sector zorg en welzijn;2021;247
+466;Geestelijke gezondheidszorg;BZW: Aanb. buiten sector zorg en welzijn;2022;373
+467;Geestelijke gezondheidszorg;BZW: Aanb. buiten sector zorg en welzijn;2023;443
+468;Geestelijke gezondheidszorg;BZW: Apotheken;2021;0
+469;Geestelijke gezondheidszorg;BZW: Apotheken;2022;0
+470;Geestelijke gezondheidszorg;BZW: Apotheken;2023;0
+471;Geestelijke gezondheidszorg;BZW: Aanbieders van hulpmiddelen;2021;0
+472;Geestelijke gezondheidszorg;BZW: Aanbieders van hulpmiddelen;2022;0
+473;Geestelijke gezondheidszorg;BZW: Aanbieders van hulpmiddelen;2023;0
+474;Geestelijke gezondheidszorg;BZW: Aanb. zorg als nevenactiviteit;2021;246
+475;Geestelijke gezondheidszorg;BZW: Aanb. zorg als nevenactiviteit;2022;243
+476;Geestelijke gezondheidszorg;BZW: Aanb. zorg als nevenactiviteit;2023;285
+477;Geestelijke gezondheidszorg;BZW: Gezinshuishoudingen;2021;1
+478;Geestelijke gezondheidszorg;BZW: Gezinshuishoudingen;2022;130
+479;Geestelijke gezondheidszorg;BZW: Gezinshuishoudingen;2023;158
+480;Geestelijke gezondheidszorg;BZW: Buitenlandse aanb. zorg en welzijn;2021;0
+481;Geestelijke gezondheidszorg;BZW: Buitenlandse aanb. zorg en welzijn;2022;0
+482;Geestelijke gezondheidszorg;BZW: Buitenlandse aanb. zorg en welzijn;2023;0
+483;Geestelijke gezondheidszorg;BZW: Beleids- en beheerorganisaties;2021;0
+484;Geestelijke gezondheidszorg;BZW: Beleids- en beheerorganisaties;2022;0
+485;Geestelijke gezondheidszorg;BZW: Beleids- en beheerorganisaties;2023;0
+486;Huisartsenzorg;Totaal aanbieders zorg en welzijn;2021;3289
+487;Huisartsenzorg;Totaal aanbieders zorg en welzijn;2022;3400
+488;Huisartsenzorg;Totaal aanbieders zorg en welzijn;2023;3781
+489;Huisartsenzorg;GLZ: Totaal aanb. gezondh., langd. zorg;2021;3197
+490;Huisartsenzorg;GLZ: Totaal aanb. gezondh., langd. zorg;2022;3271
+491;Huisartsenzorg;GLZ: Totaal aanb. gezondh., langd. zorg;2023;3637
+492;Huisartsenzorg;GLZ: Aanb. medisch specialistische zorg;2021;17
+493;Huisartsenzorg;GLZ: Aanb. medisch specialistische zorg;2022;18
+494;Huisartsenzorg;GLZ: Aanb. medisch specialistische zorg;2023;21
+495;Huisartsenzorg;GLZMS: Algemene ziekenhuizen;2021;0
+496;Huisartsenzorg;GLZMS: Algemene ziekenhuizen;2022;0
+497;Huisartsenzorg;GLZMS: Algemene ziekenhuizen;2023;1
+498;Huisartsenzorg;GLZMS: UMC's;2021;10
+499;Huisartsenzorg;GLZMS: UMC's;2022;10
+500;Huisartsenzorg;GLZMS: UMC's;2023;12
+501;Huisartsenzorg;GLZMS: Overige aanb. med. spec. zorg;2021;7
+502;Huisartsenzorg;GLZMS: Overige aanb. med. spec. zorg;2022;7
+503;Huisartsenzorg;GLZMS: Overige aanb. med. spec. zorg;2023;8
+504;Huisartsenzorg;GLZ: Aanb. geestelijke gezondheidszorg;2021;0
+505;Huisartsenzorg;GLZ: Aanb. geestelijke gezondheidszorg;2022;0
+506;Huisartsenzorg;GLZ: Aanb. geestelijke gezondheidszorg;2023;0
+507;Huisartsenzorg;GLZ: Huisartsenpraktijken,gezondh.centra;2021;3013
+508;Huisartsenzorg;GLZ: Huisartsenpraktijken,gezondh.centra;2022;3043
+509;Huisartsenzorg;GLZ: Huisartsenpraktijken,gezondh.centra;2023;3382
+510;Huisartsenzorg;GLZ: Tandartsenpraktijken;2021;0
+511;Huisartsenzorg;GLZ: Tandartsenpraktijken;2022;0
+512;Huisartsenzorg;GLZ: Tandartsenpraktijken;2023;0
+513;Huisartsenzorg;GLZ: Paramedische, verlosk. praktijken;2021;2
+514;Huisartsenzorg;GLZ: Paramedische, verlosk. praktijken;2022;4
+515;Huisartsenzorg;GLZ: Paramedische, verlosk. praktijken;2023;4
+516;Huisartsenzorg;GLZ: Aanb. verpleging, verzorg., kraam;2021;25
+517;Huisartsenzorg;GLZ: Aanb. verpleging, verzorg., kraam;2022;28
+518;Huisartsenzorg;GLZ: Aanb. verpleging, verzorg., kraam;2023;32
+519;Huisartsenzorg;GLZ: Aanbieders gehandicaptenzorg;2021;0
+520;Huisartsenzorg;GLZ: Aanbieders gehandicaptenzorg;2022;0
+521;Huisartsenzorg;GLZ: Aanbieders gehandicaptenzorg;2023;0
+522;Huisartsenzorg;GLZ: Aanb. preventie,publieke gezondheid;2021;2
+523;Huisartsenzorg;GLZ: Aanb. preventie,publieke gezondheid;2022;0
+524;Huisartsenzorg;GLZ: Aanb. preventie,publieke gezondheid;2023;0
+525;Huisartsenzorg;GLZ: Aanb. ondersteunende diensten;2021;0
+526;Huisartsenzorg;GLZ: Aanb. ondersteunende diensten;2022;0
+527;Huisartsenzorg;GLZ: Aanb. ondersteunende diensten;2023;0
+528;Huisartsenzorg;GLZ: Aanb. overige diensten gezondheid;2021;138
+529;Huisartsenzorg;GLZ: Aanb. overige diensten gezondheid;2022;178
+530;Huisartsenzorg;GLZ: Aanb. overige diensten gezondheid;2023;198
+531;Huisartsenzorg;WJK: Totaal aanbieders WJK;2021;0
+532;Huisartsenzorg;WJK: Totaal aanbieders WJK;2022;0
+533;Huisartsenzorg;WJK: Totaal aanbieders WJK;2023;0
+534;Huisartsenzorg;WJK: Aanbieders kinderopvang;2021;0
+535;Huisartsenzorg;WJK: Aanbieders kinderopvang;2022;0
+536;Huisartsenzorg;WJK: Aanbieders kinderopvang;2023;0
+537;Huisartsenzorg;WJK: Aanbieders jeugdzorg;2021;0
+538;Huisartsenzorg;WJK: Aanbieders jeugdzorg;2022;0
+539;Huisartsenzorg;WJK: Aanbieders jeugdzorg;2023;0
+540;Huisartsenzorg;WJK: Aanbieders maatschappelijke opvang;2021;0
+541;Huisartsenzorg;WJK: Aanbieders maatschappelijke opvang;2022;0
+542;Huisartsenzorg;WJK: Aanbieders maatschappelijke opvang;2023;0
+543;Huisartsenzorg;WJK: Aanb. sociaal werk, overig welzijn;2021;0
+544;Huisartsenzorg;WJK: Aanb. sociaal werk, overig welzijn;2022;0
+545;Huisartsenzorg;WJK: Aanb. sociaal werk, overig welzijn;2023;0
+546;Huisartsenzorg;BZW: Aanb. buiten sector zorg en welzijn;2021;92
+547;Huisartsenzorg;BZW: Aanb. buiten sector zorg en welzijn;2022;129
+548;Huisartsenzorg;BZW: Aanb. buiten sector zorg en welzijn;2023;144
+549;Huisartsenzorg;BZW: Apotheken;2021;5
+550;Huisartsenzorg;BZW: Apotheken;2022;5
+551;Huisartsenzorg;BZW: Apotheken;2023;6
+552;Huisartsenzorg;BZW: Aanbieders van hulpmiddelen;2021;0
+553;Huisartsenzorg;BZW: Aanbieders van hulpmiddelen;2022;0
+554;Huisartsenzorg;BZW: Aanbieders van hulpmiddelen;2023;0
+555;Huisartsenzorg;BZW: Aanb. zorg als nevenactiviteit;2021;26
+556;Huisartsenzorg;BZW: Aanb. zorg als nevenactiviteit;2022;32
+557;Huisartsenzorg;BZW: Aanb. zorg als nevenactiviteit;2023;34
+558;Huisartsenzorg;BZW: Gezinshuishoudingen;2021;0
+559;Huisartsenzorg;BZW: Gezinshuishoudingen;2022;0
+560;Huisartsenzorg;BZW: Gezinshuishoudingen;2023;0
+561;Huisartsenzorg;BZW: Buitenlandse aanb. zorg en welzijn;2021;60
+562;Huisartsenzorg;BZW: Buitenlandse aanb. zorg en welzijn;2022;92
+563;Huisartsenzorg;BZW: Buitenlandse aanb. zorg en welzijn;2023;104
+564;Huisartsenzorg;BZW: Beleids- en beheerorganisaties;2021;0
+565;Huisartsenzorg;BZW: Beleids- en beheerorganisaties;2022;0
+566;Huisartsenzorg;BZW: Beleids- en beheerorganisaties;2023;0
+567;Mondzorg;Totaal aanbieders zorg en welzijn;2021;2493
+568;Mondzorg;Totaal aanbieders zorg en welzijn;2022;2528
+569;Mondzorg;Totaal aanbieders zorg en welzijn;2023;2749
+570;Mondzorg;GLZ: Totaal aanb. gezondh., langd. zorg;2021;2292
+571;Mondzorg;GLZ: Totaal aanb. gezondh., langd. zorg;2022;2311
+572;Mondzorg;GLZ: Totaal aanb. gezondh., langd. zorg;2023;2510
+573;Mondzorg;GLZ: Aanb. medisch specialistische zorg;2021;268
+574;Mondzorg;GLZ: Aanb. medisch specialistische zorg;2022;271
+575;Mondzorg;GLZ: Aanb. medisch specialistische zorg;2023;292
+576;Mondzorg;GLZMS: Algemene ziekenhuizen;2021;194
+577;Mondzorg;GLZMS: Algemene ziekenhuizen;2022;197
+578;Mondzorg;GLZMS: Algemene ziekenhuizen;2023;213
+579;Mondzorg;GLZMS: UMC's;2021;42
+580;Mondzorg;GLZMS: UMC's;2022;45
+581;Mondzorg;GLZMS: UMC's;2023;49
+582;Mondzorg;GLZMS: Overige aanb. med. spec. zorg;2021;32
+583;Mondzorg;GLZMS: Overige aanb. med. spec. zorg;2022;28
+584;Mondzorg;GLZMS: Overige aanb. med. spec. zorg;2023;31
+585;Mondzorg;GLZ: Aanb. geestelijke gezondheidszorg;2021;0
+586;Mondzorg;GLZ: Aanb. geestelijke gezondheidszorg;2022;0
+587;Mondzorg;GLZ: Aanb. geestelijke gezondheidszorg;2023;0
+588;Mondzorg;GLZ: Huisartsenpraktijken,gezondh.centra;2021;0
+589;Mondzorg;GLZ: Huisartsenpraktijken,gezondh.centra;2022;0
+590;Mondzorg;GLZ: Huisartsenpraktijken,gezondh.centra;2023;0
+591;Mondzorg;GLZ: Tandartsenpraktijken;2021;1921
+592;Mondzorg;GLZ: Tandartsenpraktijken;2022;1936
+593;Mondzorg;GLZ: Tandartsenpraktijken;2023;2106
+594;Mondzorg;GLZ: Paramedische, verlosk. praktijken;2021;91
+595;Mondzorg;GLZ: Paramedische, verlosk. praktijken;2022;88
+596;Mondzorg;GLZ: Paramedische, verlosk. praktijken;2023;94
+597;Mondzorg;GLZ: Aanb. verpleging, verzorg., kraam;2021;2
+598;Mondzorg;GLZ: Aanb. verpleging, verzorg., kraam;2022;6
+599;Mondzorg;GLZ: Aanb. verpleging, verzorg., kraam;2023;6
+600;Mondzorg;GLZ: Aanbieders gehandicaptenzorg;2021;0
+601;Mondzorg;GLZ: Aanbieders gehandicaptenzorg;2022;0
+602;Mondzorg;GLZ: Aanbieders gehandicaptenzorg;2023;0
+603;Mondzorg;GLZ: Aanb. preventie,publieke gezondheid;2021;0
+604;Mondzorg;GLZ: Aanb. preventie,publieke gezondheid;2022;0
+605;Mondzorg;GLZ: Aanb. preventie,publieke gezondheid;2023;0
+606;Mondzorg;GLZ: Aanb. ondersteunende diensten;2021;0
+607;Mondzorg;GLZ: Aanb. ondersteunende diensten;2022;0
+608;Mondzorg;GLZ: Aanb. ondersteunende diensten;2023;0
+609;Mondzorg;GLZ: Aanb. overige diensten gezondheid;2021;10
+610;Mondzorg;GLZ: Aanb. overige diensten gezondheid;2022;11
+611;Mondzorg;GLZ: Aanb. overige diensten gezondheid;2023;12
+612;Mondzorg;WJK: Totaal aanbieders WJK;2021;0
+613;Mondzorg;WJK: Totaal aanbieders WJK;2022;0
+614;Mondzorg;WJK: Totaal aanbieders WJK;2023;0
+615;Mondzorg;WJK: Aanbieders kinderopvang;2021;0
+616;Mondzorg;WJK: Aanbieders kinderopvang;2022;0
+617;Mondzorg;WJK: Aanbieders kinderopvang;2023;0
+618;Mondzorg;WJK: Aanbieders jeugdzorg;2021;0
+619;Mondzorg;WJK: Aanbieders jeugdzorg;2022;0
+620;Mondzorg;WJK: Aanbieders jeugdzorg;2023;0
+621;Mondzorg;WJK: Aanbieders maatschappelijke opvang;2021;0
+622;Mondzorg;WJK: Aanbieders maatschappelijke opvang;2022;0
+623;Mondzorg;WJK: Aanbieders maatschappelijke opvang;2023;0
+624;Mondzorg;WJK: Aanb. sociaal werk, overig welzijn;2021;0
+625;Mondzorg;WJK: Aanb. sociaal werk, overig welzijn;2022;0
+626;Mondzorg;WJK: Aanb. sociaal werk, overig welzijn;2023;0
+627;Mondzorg;BZW: Aanb. buiten sector zorg en welzijn;2021;200
+628;Mondzorg;BZW: Aanb. buiten sector zorg en welzijn;2022;217
+629;Mondzorg;BZW: Aanb. buiten sector zorg en welzijn;2023;238
+630;Mondzorg;BZW: Apotheken;2021;0
+631;Mondzorg;BZW: Apotheken;2022;0
+632;Mondzorg;BZW: Apotheken;2023;0
+633;Mondzorg;BZW: Aanbieders van hulpmiddelen;2021;121
+634;Mondzorg;BZW: Aanbieders van hulpmiddelen;2022;112
+635;Mondzorg;BZW: Aanbieders van hulpmiddelen;2023;124
+636;Mondzorg;BZW: Aanb. zorg als nevenactiviteit;2021;34
+637;Mondzorg;BZW: Aanb. zorg als nevenactiviteit;2022;33
+638;Mondzorg;BZW: Aanb. zorg als nevenactiviteit;2023;35
+639;Mondzorg;BZW: Gezinshuishoudingen;2021;0
+640;Mondzorg;BZW: Gezinshuishoudingen;2022;0
+641;Mondzorg;BZW: Gezinshuishoudingen;2023;0
+642;Mondzorg;BZW: Buitenlandse aanb. zorg en welzijn;2021;46
+643;Mondzorg;BZW: Buitenlandse aanb. zorg en welzijn;2022;71
+644;Mondzorg;BZW: Buitenlandse aanb. zorg en welzijn;2023;80
+645;Mondzorg;BZW: Beleids- en beheerorganisaties;2021;0
+646;Mondzorg;BZW: Beleids- en beheerorganisaties;2022;0
+647;Mondzorg;BZW: Beleids- en beheerorganisaties;2023;0
+648;Paramedische zorg;Totaal aanbieders zorg en welzijn;2021;3589
+649;Paramedische zorg;Totaal aanbieders zorg en welzijn;2022;3906
+650;Paramedische zorg;Totaal aanbieders zorg en welzijn;2023;4269
+651;Paramedische zorg;GLZ: Totaal aanb. gezondh., langd. zorg;2021;3478
+652;Paramedische zorg;GLZ: Totaal aanb. gezondh., langd. zorg;2022;3785
+653;Paramedische zorg;GLZ: Totaal aanb. gezondh., langd. zorg;2023;4138
+654;Paramedische zorg;GLZ: Aanb. medisch specialistische zorg;2021;18
+655;Paramedische zorg;GLZ: Aanb. medisch specialistische zorg;2022;18
+656;Paramedische zorg;GLZ: Aanb. medisch specialistische zorg;2023;19
+657;Paramedische zorg;GLZMS: Algemene ziekenhuizen;2021;5
+658;Paramedische zorg;GLZMS: Algemene ziekenhuizen;2022;5
+659;Paramedische zorg;GLZMS: Algemene ziekenhuizen;2023;5
+660;Paramedische zorg;GLZMS: UMC's;2021;0
+661;Paramedische zorg;GLZMS: UMC's;2022;0
+662;Paramedische zorg;GLZMS: UMC's;2023;0
+663;Paramedische zorg;GLZMS: Overige aanb. med. spec. zorg;2021;13
+664;Paramedische zorg;GLZMS: Overige aanb. med. spec. zorg;2022;13
+665;Paramedische zorg;GLZMS: Overige aanb. med. spec. zorg;2023;14
+666;Paramedische zorg;GLZ: Aanb. geestelijke gezondheidszorg;2021;0
+667;Paramedische zorg;GLZ: Aanb. geestelijke gezondheidszorg;2022;0
+668;Paramedische zorg;GLZ: Aanb. geestelijke gezondheidszorg;2023;0
+669;Paramedische zorg;GLZ: Huisartsenpraktijken,gezondh.centra;2021;18
+670;Paramedische zorg;GLZ: Huisartsenpraktijken,gezondh.centra;2022;19
+671;Paramedische zorg;GLZ: Huisartsenpraktijken,gezondh.centra;2023;20
+672;Paramedische zorg;GLZ: Tandartsenpraktijken;2021;0
+673;Paramedische zorg;GLZ: Tandartsenpraktijken;2022;0
+674;Paramedische zorg;GLZ: Tandartsenpraktijken;2023;0
+675;Paramedische zorg;GLZ: Paramedische, verlosk. praktijken;2021;3371
+676;Paramedische zorg;GLZ: Paramedische, verlosk. praktijken;2022;3670
+677;Paramedische zorg;GLZ: Paramedische, verlosk. praktijken;2023;4010
+678;Paramedische zorg;GLZ: Aanb. verpleging, verzorg., kraam;2021;55
+679;Paramedische zorg;GLZ: Aanb. verpleging, verzorg., kraam;2022;56
+680;Paramedische zorg;GLZ: Aanb. verpleging, verzorg., kraam;2023;61
+681;Paramedische zorg;GLZ: Aanbieders gehandicaptenzorg;2021;3
+682;Paramedische zorg;GLZ: Aanbieders gehandicaptenzorg;2022;3
+683;Paramedische zorg;GLZ: Aanbieders gehandicaptenzorg;2023;4
+684;Paramedische zorg;GLZ: Aanb. preventie,publieke gezondheid;2021;4
+685;Paramedische zorg;GLZ: Aanb. preventie,publieke gezondheid;2022;3
+686;Paramedische zorg;GLZ: Aanb. preventie,publieke gezondheid;2023;6
+687;Paramedische zorg;GLZ: Aanb. ondersteunende diensten;2021;0
+688;Paramedische zorg;GLZ: Aanb. ondersteunende diensten;2022;0
+689;Paramedische zorg;GLZ: Aanb. ondersteunende diensten;2023;0
+690;Paramedische zorg;GLZ: Aanb. overige diensten gezondheid;2021;9
+691;Paramedische zorg;GLZ: Aanb. overige diensten gezondheid;2022;16
+692;Paramedische zorg;GLZ: Aanb. overige diensten gezondheid;2023;17
+693;Paramedische zorg;WJK: Totaal aanbieders WJK;2021;0
+694;Paramedische zorg;WJK: Totaal aanbieders WJK;2022;0
+695;Paramedische zorg;WJK: Totaal aanbieders WJK;2023;0
+696;Paramedische zorg;WJK: Aanbieders kinderopvang;2021;0
+697;Paramedische zorg;WJK: Aanbieders kinderopvang;2022;0
+698;Paramedische zorg;WJK: Aanbieders kinderopvang;2023;0
+699;Paramedische zorg;WJK: Aanbieders jeugdzorg;2021;0
+700;Paramedische zorg;WJK: Aanbieders jeugdzorg;2022;0
+701;Paramedische zorg;WJK: Aanbieders jeugdzorg;2023;0
+702;Paramedische zorg;WJK: Aanbieders maatschappelijke opvang;2021;0
+703;Paramedische zorg;WJK: Aanbieders maatschappelijke opvang;2022;0
+704;Paramedische zorg;WJK: Aanbieders maatschappelijke opvang;2023;0
+705;Paramedische zorg;WJK: Aanb. sociaal werk, overig welzijn;2021;0
+706;Paramedische zorg;WJK: Aanb. sociaal werk, overig welzijn;2022;0
+707;Paramedische zorg;WJK: Aanb. sociaal werk, overig welzijn;2023;0
+708;Paramedische zorg;BZW: Aanb. buiten sector zorg en welzijn;2021;111
+709;Paramedische zorg;BZW: Aanb. buiten sector zorg en welzijn;2022;121
+710;Paramedische zorg;BZW: Aanb. buiten sector zorg en welzijn;2023;132
+711;Paramedische zorg;BZW: Apotheken;2021;0
+712;Paramedische zorg;BZW: Apotheken;2022;0
+713;Paramedische zorg;BZW: Apotheken;2023;0
+714;Paramedische zorg;BZW: Aanbieders van hulpmiddelen;2021;8
+715;Paramedische zorg;BZW: Aanbieders van hulpmiddelen;2022;8
+716;Paramedische zorg;BZW: Aanbieders van hulpmiddelen;2023;8
+717;Paramedische zorg;BZW: Aanb. zorg als nevenactiviteit;2021;73
+718;Paramedische zorg;BZW: Aanb. zorg als nevenactiviteit;2022;67
+719;Paramedische zorg;BZW: Aanb. zorg als nevenactiviteit;2023;72
+720;Paramedische zorg;BZW: Gezinshuishoudingen;2021;0
+721;Paramedische zorg;BZW: Gezinshuishoudingen;2022;0
+722;Paramedische zorg;BZW: Gezinshuishoudingen;2023;0
+723;Paramedische zorg;BZW: Buitenlandse aanb. zorg en welzijn;2021;30
+724;Paramedische zorg;BZW: Buitenlandse aanb. zorg en welzijn;2022;47
+725;Paramedische zorg;BZW: Buitenlandse aanb. zorg en welzijn;2023;52
+726;Paramedische zorg;BZW: Beleids- en beheerorganisaties;2021;0
+727;Paramedische zorg;BZW: Beleids- en beheerorganisaties;2022;0
+728;Paramedische zorg;BZW: Beleids- en beheerorganisaties;2023;0
+729;Revalidatiezorg;Totaal aanbieders zorg en welzijn;2021;1528
+730;Revalidatiezorg;Totaal aanbieders zorg en welzijn;2022;1502
+731;Revalidatiezorg;Totaal aanbieders zorg en welzijn;2023;1638
+732;Revalidatiezorg;GLZ: Totaal aanb. gezondh., langd. zorg;2021;1522
+733;Revalidatiezorg;GLZ: Totaal aanb. gezondh., langd. zorg;2022;1497
+734;Revalidatiezorg;GLZ: Totaal aanb. gezondh., langd. zorg;2023;1632
+735;Revalidatiezorg;GLZ: Aanb. medisch specialistische zorg;2021;792
+736;Revalidatiezorg;GLZ: Aanb. medisch specialistische zorg;2022;791
+737;Revalidatiezorg;GLZ: Aanb. medisch specialistische zorg;2023;855
+738;Revalidatiezorg;GLZMS: Algemene ziekenhuizen;2021;129
+739;Revalidatiezorg;GLZMS: Algemene ziekenhuizen;2022;132
+740;Revalidatiezorg;GLZMS: Algemene ziekenhuizen;2023;144
+741;Revalidatiezorg;GLZMS: UMC's;2021;61
+742;Revalidatiezorg;GLZMS: UMC's;2022;56
+743;Revalidatiezorg;GLZMS: UMC's;2023;61
+744;Revalidatiezorg;GLZMS: Overige aanb. med. spec. zorg;2021;602
+745;Revalidatiezorg;GLZMS: Overige aanb. med. spec. zorg;2022;604
+746;Revalidatiezorg;GLZMS: Overige aanb. med. spec. zorg;2023;651
+747;Revalidatiezorg;GLZ: Aanb. geestelijke gezondheidszorg;2021;0
+748;Revalidatiezorg;GLZ: Aanb. geestelijke gezondheidszorg;2022;0
+749;Revalidatiezorg;GLZ: Aanb. geestelijke gezondheidszorg;2023;0
+750;Revalidatiezorg;GLZ: Huisartsenpraktijken,gezondh.centra;2021;0
+751;Revalidatiezorg;GLZ: Huisartsenpraktijken,gezondh.centra;2022;0
+752;Revalidatiezorg;GLZ: Huisartsenpraktijken,gezondh.centra;2023;0
+753;Revalidatiezorg;GLZ: Tandartsenpraktijken;2021;0
+754;Revalidatiezorg;GLZ: Tandartsenpraktijken;2022;0
+755;Revalidatiezorg;GLZ: Tandartsenpraktijken;2023;0
+756;Revalidatiezorg;GLZ: Paramedische, verlosk. praktijken;2021;0
+757;Revalidatiezorg;GLZ: Paramedische, verlosk. praktijken;2022;0
+758;Revalidatiezorg;GLZ: Paramedische, verlosk. praktijken;2023;0
+759;Revalidatiezorg;GLZ: Aanb. verpleging, verzorg., kraam;2021;719
+760;Revalidatiezorg;GLZ: Aanb. verpleging, verzorg., kraam;2022;699
+761;Revalidatiezorg;GLZ: Aanb. verpleging, verzorg., kraam;2023;770
+762;Revalidatiezorg;GLZ: Aanbieders gehandicaptenzorg;2021;0
+763;Revalidatiezorg;GLZ: Aanbieders gehandicaptenzorg;2022;0
+764;Revalidatiezorg;GLZ: Aanbieders gehandicaptenzorg;2023;0
+765;Revalidatiezorg;GLZ: Aanb. preventie,publieke gezondheid;2021;10
+766;Revalidatiezorg;GLZ: Aanb. preventie,publieke gezondheid;2022;7
+767;Revalidatiezorg;GLZ: Aanb. preventie,publieke gezondheid;2023;7
+768;Revalidatiezorg;GLZ: Aanb. ondersteunende diensten;2021;0
+769;Revalidatiezorg;GLZ: Aanb. ondersteunende diensten;2022;0
+770;Revalidatiezorg;GLZ: Aanb. ondersteunende diensten;2023;0
+771;Revalidatiezorg;GLZ: Aanb. overige diensten gezondheid;2021;0
+772;Revalidatiezorg;GLZ: Aanb. overige diensten gezondheid;2022;0
+773;Revalidatiezorg;GLZ: Aanb. overige diensten gezondheid;2023;0
+774;Revalidatiezorg;WJK: Totaal aanbieders WJK;2021;1
+775;Revalidatiezorg;WJK: Totaal aanbieders WJK;2022;1
+776;Revalidatiezorg;WJK: Totaal aanbieders WJK;2023;1
+777;Revalidatiezorg;WJK: Aanbieders kinderopvang;2021;0
+778;Revalidatiezorg;WJK: Aanbieders kinderopvang;2022;0
+779;Revalidatiezorg;WJK: Aanbieders kinderopvang;2023;0
+780;Revalidatiezorg;WJK: Aanbieders jeugdzorg;2021;0
+781;Revalidatiezorg;WJK: Aanbieders jeugdzorg;2022;0
+782;Revalidatiezorg;WJK: Aanbieders jeugdzorg;2023;0
+783;Revalidatiezorg;WJK: Aanbieders maatschappelijke opvang;2021;0
+784;Revalidatiezorg;WJK: Aanbieders maatschappelijke opvang;2022;0
+785;Revalidatiezorg;WJK: Aanbieders maatschappelijke opvang;2023;0
+786;Revalidatiezorg;WJK: Aanb. sociaal werk, overig welzijn;2021;1
+787;Revalidatiezorg;WJK: Aanb. sociaal werk, overig welzijn;2022;1
+788;Revalidatiezorg;WJK: Aanb. sociaal werk, overig welzijn;2023;1
+789;Revalidatiezorg;BZW: Aanb. buiten sector zorg en welzijn;2021;5
+790;Revalidatiezorg;BZW: Aanb. buiten sector zorg en welzijn;2022;4
+791;Revalidatiezorg;BZW: Aanb. buiten sector zorg en welzijn;2023;4
+792;Revalidatiezorg;BZW: Apotheken;2021;0
+793;Revalidatiezorg;BZW: Apotheken;2022;0
+794;Revalidatiezorg;BZW: Apotheken;2023;0
+795;Revalidatiezorg;BZW: Aanbieders van hulpmiddelen;2021;0
+796;Revalidatiezorg;BZW: Aanbieders van hulpmiddelen;2022;0
+797;Revalidatiezorg;BZW: Aanbieders van hulpmiddelen;2023;0
+798;Revalidatiezorg;BZW: Aanb. zorg als nevenactiviteit;2021;5
+799;Revalidatiezorg;BZW: Aanb. zorg als nevenactiviteit;2022;4
+800;Revalidatiezorg;BZW: Aanb. zorg als nevenactiviteit;2023;4
+801;Revalidatiezorg;BZW: Gezinshuishoudingen;2021;0
+802;Revalidatiezorg;BZW: Gezinshuishoudingen;2022;0
+803;Revalidatiezorg;BZW: Gezinshuishoudingen;2023;0
+804;Revalidatiezorg;BZW: Buitenlandse aanb. zorg en welzijn;2021;0
+805;Revalidatiezorg;BZW: Buitenlandse aanb. zorg en welzijn;2022;0
+806;Revalidatiezorg;BZW: Buitenlandse aanb. zorg en welzijn;2023;0
+807;Revalidatiezorg;BZW: Beleids- en beheerorganisaties;2021;0
+808;Revalidatiezorg;BZW: Beleids- en beheerorganisaties;2022;0
+809;Revalidatiezorg;BZW: Beleids- en beheerorganisaties;2023;0
+810;Geboortezorg;Totaal aanbieders zorg en welzijn;2021;1341
+811;Geboortezorg;Totaal aanbieders zorg en welzijn;2022;1286
+812;Geboortezorg;Totaal aanbieders zorg en welzijn;2023;1399
+813;Geboortezorg;GLZ: Totaal aanb. gezondh., langd. zorg;2021;1332
+814;Geboortezorg;GLZ: Totaal aanb. gezondh., langd. zorg;2022;1273
+815;Geboortezorg;GLZ: Totaal aanb. gezondh., langd. zorg;2023;1384
+816;Geboortezorg;GLZ: Aanb. medisch specialistische zorg;2021;627
+817;Geboortezorg;GLZ: Aanb. medisch specialistische zorg;2022;597
+818;Geboortezorg;GLZ: Aanb. medisch specialistische zorg;2023;646
+819;Geboortezorg;GLZMS: Algemene ziekenhuizen;2021;521
+820;Geboortezorg;GLZMS: Algemene ziekenhuizen;2022;500
+821;Geboortezorg;GLZMS: Algemene ziekenhuizen;2023;542
+822;Geboortezorg;GLZMS: UMC's;2021;106
+823;Geboortezorg;GLZMS: UMC's;2022;97
+824;Geboortezorg;GLZMS: UMC's;2023;105
+825;Geboortezorg;GLZMS: Overige aanb. med. spec. zorg;2021;0
+826;Geboortezorg;GLZMS: Overige aanb. med. spec. zorg;2022;0
+827;Geboortezorg;GLZMS: Overige aanb. med. spec. zorg;2023;0
+828;Geboortezorg;GLZ: Aanb. geestelijke gezondheidszorg;2021;0
+829;Geboortezorg;GLZ: Aanb. geestelijke gezondheidszorg;2022;0
+830;Geboortezorg;GLZ: Aanb. geestelijke gezondheidszorg;2023;0
+831;Geboortezorg;GLZ: Huisartsenpraktijken,gezondh.centra;2021;0
+832;Geboortezorg;GLZ: Huisartsenpraktijken,gezondh.centra;2022;0
+833;Geboortezorg;GLZ: Huisartsenpraktijken,gezondh.centra;2023;0
+834;Geboortezorg;GLZ: Tandartsenpraktijken;2021;0
+835;Geboortezorg;GLZ: Tandartsenpraktijken;2022;0
+836;Geboortezorg;GLZ: Tandartsenpraktijken;2023;0
+837;Geboortezorg;GLZ: Paramedische, verlosk. praktijken;2021;248
+838;Geboortezorg;GLZ: Paramedische, verlosk. praktijken;2022;246
+839;Geboortezorg;GLZ: Paramedische, verlosk. praktijken;2023;265
+840;Geboortezorg;GLZ: Aanb. verpleging, verzorg., kraam;2021;354
+841;Geboortezorg;GLZ: Aanb. verpleging, verzorg., kraam;2022;338
+842;Geboortezorg;GLZ: Aanb. verpleging, verzorg., kraam;2023;367
+843;Geboortezorg;GLZ: Aanbieders gehandicaptenzorg;2021;0
+844;Geboortezorg;GLZ: Aanbieders gehandicaptenzorg;2022;0
+845;Geboortezorg;GLZ: Aanbieders gehandicaptenzorg;2023;0
+846;Geboortezorg;GLZ: Aanb. preventie,publieke gezondheid;2021;0
+847;Geboortezorg;GLZ: Aanb. preventie,publieke gezondheid;2022;0
+848;Geboortezorg;GLZ: Aanb. preventie,publieke gezondheid;2023;0
+849;Geboortezorg;GLZ: Aanb. ondersteunende diensten;2021;0
+850;Geboortezorg;GLZ: Aanb. ondersteunende diensten;2022;0
+851;Geboortezorg;GLZ: Aanb. ondersteunende diensten;2023;0
+852;Geboortezorg;GLZ: Aanb. overige diensten gezondheid;2021;103
+853;Geboortezorg;GLZ: Aanb. overige diensten gezondheid;2022;92
+854;Geboortezorg;GLZ: Aanb. overige diensten gezondheid;2023;106
+855;Geboortezorg;WJK: Totaal aanbieders WJK;2021;0
+856;Geboortezorg;WJK: Totaal aanbieders WJK;2022;0
+857;Geboortezorg;WJK: Totaal aanbieders WJK;2023;0
+858;Geboortezorg;WJK: Aanbieders kinderopvang;2021;0
+859;Geboortezorg;WJK: Aanbieders kinderopvang;2022;0
+860;Geboortezorg;WJK: Aanbieders kinderopvang;2023;0
+861;Geboortezorg;WJK: Aanbieders jeugdzorg;2021;0
+862;Geboortezorg;WJK: Aanbieders jeugdzorg;2022;0
+863;Geboortezorg;WJK: Aanbieders jeugdzorg;2023;0
+864;Geboortezorg;WJK: Aanbieders maatschappelijke opvang;2021;0
+865;Geboortezorg;WJK: Aanbieders maatschappelijke opvang;2022;0
+866;Geboortezorg;WJK: Aanbieders maatschappelijke opvang;2023;0
+867;Geboortezorg;WJK: Aanb. sociaal werk, overig welzijn;2021;0
+868;Geboortezorg;WJK: Aanb. sociaal werk, overig welzijn;2022;0
+869;Geboortezorg;WJK: Aanb. sociaal werk, overig welzijn;2023;0
+870;Geboortezorg;BZW: Aanb. buiten sector zorg en welzijn;2021;9
+871;Geboortezorg;BZW: Aanb. buiten sector zorg en welzijn;2022;13
+872;Geboortezorg;BZW: Aanb. buiten sector zorg en welzijn;2023;15
+873;Geboortezorg;BZW: Apotheken;2021;0
+874;Geboortezorg;BZW: Apotheken;2022;0
+875;Geboortezorg;BZW: Apotheken;2023;0
+876;Geboortezorg;BZW: Aanbieders van hulpmiddelen;2021;0
+877;Geboortezorg;BZW: Aanbieders van hulpmiddelen;2022;0
+878;Geboortezorg;BZW: Aanbieders van hulpmiddelen;2023;0
+879;Geboortezorg;BZW: Aanb. zorg als nevenactiviteit;2021;9
+880;Geboortezorg;BZW: Aanb. zorg als nevenactiviteit;2022;13
+881;Geboortezorg;BZW: Aanb. zorg als nevenactiviteit;2023;15
+882;Geboortezorg;BZW: Gezinshuishoudingen;2021;0
+883;Geboortezorg;BZW: Gezinshuishoudingen;2022;0
+884;Geboortezorg;BZW: Gezinshuishoudingen;2023;0
+885;Geboortezorg;BZW: Buitenlandse aanb. zorg en welzijn;2021;0
+886;Geboortezorg;BZW: Buitenlandse aanb. zorg en welzijn;2022;0
+887;Geboortezorg;BZW: Buitenlandse aanb. zorg en welzijn;2023;0
+888;Geboortezorg;BZW: Beleids- en beheerorganisaties;2021;0
+889;Geboortezorg;BZW: Beleids- en beheerorganisaties;2022;0
+890;Geboortezorg;BZW: Beleids- en beheerorganisaties;2023;0
+891;Ketenzorg;Totaal aanbieders zorg en welzijn;2021;667
+892;Ketenzorg;Totaal aanbieders zorg en welzijn;2022;693
+893;Ketenzorg;Totaal aanbieders zorg en welzijn;2023;771
+894;Ketenzorg;GLZ: Totaal aanb. gezondh., langd. zorg;2021;645
+895;Ketenzorg;GLZ: Totaal aanb. gezondh., langd. zorg;2022;672
+896;Ketenzorg;GLZ: Totaal aanb. gezondh., langd. zorg;2023;747
+897;Ketenzorg;GLZ: Aanb. medisch specialistische zorg;2021;2
+898;Ketenzorg;GLZ: Aanb. medisch specialistische zorg;2022;2
+899;Ketenzorg;GLZ: Aanb. medisch specialistische zorg;2023;2
+900;Ketenzorg;GLZMS: Algemene ziekenhuizen;2021;0
+901;Ketenzorg;GLZMS: Algemene ziekenhuizen;2022;0
+902;Ketenzorg;GLZMS: Algemene ziekenhuizen;2023;0
+903;Ketenzorg;GLZMS: UMC's;2021;2
+904;Ketenzorg;GLZMS: UMC's;2022;0
+905;Ketenzorg;GLZMS: UMC's;2023;0
+906;Ketenzorg;GLZMS: Overige aanb. med. spec. zorg;2021;0
+907;Ketenzorg;GLZMS: Overige aanb. med. spec. zorg;2022;2
+908;Ketenzorg;GLZMS: Overige aanb. med. spec. zorg;2023;2
+909;Ketenzorg;GLZ: Aanb. geestelijke gezondheidszorg;2021;0
+910;Ketenzorg;GLZ: Aanb. geestelijke gezondheidszorg;2022;0
+911;Ketenzorg;GLZ: Aanb. geestelijke gezondheidszorg;2023;0
+912;Ketenzorg;GLZ: Huisartsenpraktijken,gezondh.centra;2021;315
+913;Ketenzorg;GLZ: Huisartsenpraktijken,gezondh.centra;2022;262
+914;Ketenzorg;GLZ: Huisartsenpraktijken,gezondh.centra;2023;292
+915;Ketenzorg;GLZ: Tandartsenpraktijken;2021;0
+916;Ketenzorg;GLZ: Tandartsenpraktijken;2022;0
+917;Ketenzorg;GLZ: Tandartsenpraktijken;2023;0
+918;Ketenzorg;GLZ: Paramedische, verlosk. praktijken;2021;2
+919;Ketenzorg;GLZ: Paramedische, verlosk. praktijken;2022;21
+920;Ketenzorg;GLZ: Paramedische, verlosk. praktijken;2023;23
+921;Ketenzorg;GLZ: Aanb. verpleging, verzorg., kraam;2021;13
+922;Ketenzorg;GLZ: Aanb. verpleging, verzorg., kraam;2022;12
+923;Ketenzorg;GLZ: Aanb. verpleging, verzorg., kraam;2023;13
+924;Ketenzorg;GLZ: Aanbieders gehandicaptenzorg;2021;0
+925;Ketenzorg;GLZ: Aanbieders gehandicaptenzorg;2022;0
+926;Ketenzorg;GLZ: Aanbieders gehandicaptenzorg;2023;0
+927;Ketenzorg;GLZ: Aanb. preventie,publieke gezondheid;2021;2
+928;Ketenzorg;GLZ: Aanb. preventie,publieke gezondheid;2022;2
+929;Ketenzorg;GLZ: Aanb. preventie,publieke gezondheid;2023;2
+930;Ketenzorg;GLZ: Aanb. ondersteunende diensten;2021;0
+931;Ketenzorg;GLZ: Aanb. ondersteunende diensten;2022;0
+932;Ketenzorg;GLZ: Aanb. ondersteunende diensten;2023;0
+933;Ketenzorg;GLZ: Aanb. overige diensten gezondheid;2021;312
+934;Ketenzorg;GLZ: Aanb. overige diensten gezondheid;2022;374
+935;Ketenzorg;GLZ: Aanb. overige diensten gezondheid;2023;416
+936;Ketenzorg;WJK: Totaal aanbieders WJK;2021;2
+937;Ketenzorg;WJK: Totaal aanbieders WJK;2022;1
+938;Ketenzorg;WJK: Totaal aanbieders WJK;2023;1
+939;Ketenzorg;WJK: Aanbieders kinderopvang;2021;0
+940;Ketenzorg;WJK: Aanbieders kinderopvang;2022;0
+941;Ketenzorg;WJK: Aanbieders kinderopvang;2023;0
+942;Ketenzorg;WJK: Aanbieders jeugdzorg;2021;0
+943;Ketenzorg;WJK: Aanbieders jeugdzorg;2022;0
+944;Ketenzorg;WJK: Aanbieders jeugdzorg;2023;0
+945;Ketenzorg;WJK: Aanbieders maatschappelijke opvang;2021;0
+946;Ketenzorg;WJK: Aanbieders maatschappelijke opvang;2022;0
+947;Ketenzorg;WJK: Aanbieders maatschappelijke opvang;2023;0
+948;Ketenzorg;WJK: Aanb. sociaal werk, overig welzijn;2021;2
+949;Ketenzorg;WJK: Aanb. sociaal werk, overig welzijn;2022;1
+950;Ketenzorg;WJK: Aanb. sociaal werk, overig welzijn;2023;1
+951;Ketenzorg;BZW: Aanb. buiten sector zorg en welzijn;2021;20
+952;Ketenzorg;BZW: Aanb. buiten sector zorg en welzijn;2022;20
+953;Ketenzorg;BZW: Aanb. buiten sector zorg en welzijn;2023;22
+954;Ketenzorg;BZW: Apotheken;2021;0
+955;Ketenzorg;BZW: Apotheken;2022;0
+956;Ketenzorg;BZW: Apotheken;2023;0
+957;Ketenzorg;BZW: Aanbieders van hulpmiddelen;2021;0
+958;Ketenzorg;BZW: Aanbieders van hulpmiddelen;2022;0
+959;Ketenzorg;BZW: Aanbieders van hulpmiddelen;2023;0
+960;Ketenzorg;BZW: Aanb. zorg als nevenactiviteit;2021;20
+961;Ketenzorg;BZW: Aanb. zorg als nevenactiviteit;2022;20
+962;Ketenzorg;BZW: Aanb. zorg als nevenactiviteit;2023;22
+963;Ketenzorg;BZW: Gezinshuishoudingen;2021;0
+964;Ketenzorg;BZW: Gezinshuishoudingen;2022;0
+965;Ketenzorg;BZW: Gezinshuishoudingen;2023;0
+966;Ketenzorg;BZW: Buitenlandse aanb. zorg en welzijn;2021;0
+967;Ketenzorg;BZW: Buitenlandse aanb. zorg en welzijn;2022;0
+968;Ketenzorg;BZW: Buitenlandse aanb. zorg en welzijn;2023;0
+969;Ketenzorg;BZW: Beleids- en beheerorganisaties;2021;0
+970;Ketenzorg;BZW: Beleids- en beheerorganisaties;2022;0
+971;Ketenzorg;BZW: Beleids- en beheerorganisaties;2023;0
+972;Preventieve zorg;Totaal aanbieders zorg en welzijn;2021;10196
+973;Preventieve zorg;Totaal aanbieders zorg en welzijn;2022;7416
+974;Preventieve zorg;Totaal aanbieders zorg en welzijn;2023;5994
+975;Preventieve zorg;GLZ: Totaal aanb. gezondh., langd. zorg;2021;9256
+976;Preventieve zorg;GLZ: Totaal aanb. gezondh., langd. zorg;2022;6741
+977;Preventieve zorg;GLZ: Totaal aanb. gezondh., langd. zorg;2023;5641
+978;Preventieve zorg;GLZ: Aanb. medisch specialistische zorg;2021;186
+979;Preventieve zorg;GLZ: Aanb. medisch specialistische zorg;2022;99
+980;Preventieve zorg;GLZ: Aanb. medisch specialistische zorg;2023;47
+981;Preventieve zorg;GLZMS: Algemene ziekenhuizen;2021;110
+982;Preventieve zorg;GLZMS: Algemene ziekenhuizen;2022;64
+983;Preventieve zorg;GLZMS: Algemene ziekenhuizen;2023;24
+984;Preventieve zorg;GLZMS: UMC's;2021;71
+985;Preventieve zorg;GLZMS: UMC's;2022;30
+986;Preventieve zorg;GLZMS: UMC's;2023;17
+987;Preventieve zorg;GLZMS: Overige aanb. med. spec. zorg;2021;5
+988;Preventieve zorg;GLZMS: Overige aanb. med. spec. zorg;2022;5
+989;Preventieve zorg;GLZMS: Overige aanb. med. spec. zorg;2023;6
+990;Preventieve zorg;GLZ: Aanb. geestelijke gezondheidszorg;2021;2
+991;Preventieve zorg;GLZ: Aanb. geestelijke gezondheidszorg;2022;2
+992;Preventieve zorg;GLZ: Aanb. geestelijke gezondheidszorg;2023;2
+993;Preventieve zorg;GLZ: Huisartsenpraktijken,gezondh.centra;2021;166
+994;Preventieve zorg;GLZ: Huisartsenpraktijken,gezondh.centra;2022;135
+995;Preventieve zorg;GLZ: Huisartsenpraktijken,gezondh.centra;2023;117
+996;Preventieve zorg;GLZ: Tandartsenpraktijken;2021;1159
+997;Preventieve zorg;GLZ: Tandartsenpraktijken;2022;1193
+998;Preventieve zorg;GLZ: Tandartsenpraktijken;2023;1294
+999;Preventieve zorg;GLZ: Paramedische, verlosk. praktijken;2021;288
+1000;Preventieve zorg;GLZ: Paramedische, verlosk. praktijken;2022;302
+1001;Preventieve zorg;GLZ: Paramedische, verlosk. praktijken;2023;322
+1002;Preventieve zorg;GLZ: Aanb. verpleging, verzorg., kraam;2021;0
+1003;Preventieve zorg;GLZ: Aanb. verpleging, verzorg., kraam;2022;0
+1004;Preventieve zorg;GLZ: Aanb. verpleging, verzorg., kraam;2023;0
+1005;Preventieve zorg;GLZ: Aanbieders gehandicaptenzorg;2021;1
+1006;Preventieve zorg;GLZ: Aanbieders gehandicaptenzorg;2022;0
+1007;Preventieve zorg;GLZ: Aanbieders gehandicaptenzorg;2023;1
+1008;Preventieve zorg;GLZ: Aanb. preventie,publieke gezondheid;2021;7049
+1009;Preventieve zorg;GLZ: Aanb. preventie,publieke gezondheid;2022;4811
+1010;Preventieve zorg;GLZ: Aanb. preventie,publieke gezondheid;2023;3841
+1011;Preventieve zorg;GLZ: Aanb. ondersteunende diensten;2021;360
+1012;Preventieve zorg;GLZ: Aanb. ondersteunende diensten;2022;182
+1013;Preventieve zorg;GLZ: Aanb. ondersteunende diensten;2023;0
+1014;Preventieve zorg;GLZ: Aanb. overige diensten gezondheid;2021;44
+1015;Preventieve zorg;GLZ: Aanb. overige diensten gezondheid;2022;16
+1016;Preventieve zorg;GLZ: Aanb. overige diensten gezondheid;2023;17
+1017;Preventieve zorg;WJK: Totaal aanbieders WJK;2021;0
+1018;Preventieve zorg;WJK: Totaal aanbieders WJK;2022;0
+1019;Preventieve zorg;WJK: Totaal aanbieders WJK;2023;0
+1020;Preventieve zorg;WJK: Aanbieders kinderopvang;2021;0
+1021;Preventieve zorg;WJK: Aanbieders kinderopvang;2022;0
+1022;Preventieve zorg;WJK: Aanbieders kinderopvang;2023;0
+1023;Preventieve zorg;WJK: Aanbieders jeugdzorg;2021;0
+1024;Preventieve zorg;WJK: Aanbieders jeugdzorg;2022;0
+1025;Preventieve zorg;WJK: Aanbieders jeugdzorg;2023;0
+1026;Preventieve zorg;WJK: Aanbieders maatschappelijke opvang;2021;0
+1027;Preventieve zorg;WJK: Aanbieders maatschappelijke opvang;2022;0
+1028;Preventieve zorg;WJK: Aanbieders maatschappelijke opvang;2023;0
+1029;Preventieve zorg;WJK: Aanb. sociaal werk, overig welzijn;2021;0
+1030;Preventieve zorg;WJK: Aanb. sociaal werk, overig welzijn;2022;0
+1031;Preventieve zorg;WJK: Aanb. sociaal werk, overig welzijn;2023;0
+1032;Preventieve zorg;BZW: Aanb. buiten sector zorg en welzijn;2021;939
+1033;Preventieve zorg;BZW: Aanb. buiten sector zorg en welzijn;2022;676
+1034;Preventieve zorg;BZW: Aanb. buiten sector zorg en welzijn;2023;354
+1035;Preventieve zorg;BZW: Apotheken;2021;0
+1036;Preventieve zorg;BZW: Apotheken;2022;0
+1037;Preventieve zorg;BZW: Apotheken;2023;0
+1038;Preventieve zorg;BZW: Aanbieders van hulpmiddelen;2021;12
+1039;Preventieve zorg;BZW: Aanbieders van hulpmiddelen;2022;11
+1040;Preventieve zorg;BZW: Aanbieders van hulpmiddelen;2023;12
+1041;Preventieve zorg;BZW: Aanb. zorg als nevenactiviteit;2021;679
+1042;Preventieve zorg;BZW: Aanb. zorg als nevenactiviteit;2022;591
+1043;Preventieve zorg;BZW: Aanb. zorg als nevenactiviteit;2023;342
+1044;Preventieve zorg;BZW: Gezinshuishoudingen;2021;0
+1045;Preventieve zorg;BZW: Gezinshuishoudingen;2022;0
+1046;Preventieve zorg;BZW: Gezinshuishoudingen;2023;0
+1047;Preventieve zorg;BZW: Buitenlandse aanb. zorg en welzijn;2021;249
+1048;Preventieve zorg;BZW: Buitenlandse aanb. zorg en welzijn;2022;74
+1049;Preventieve zorg;BZW: Buitenlandse aanb. zorg en welzijn;2023;0
+1050;Preventieve zorg;BZW: Beleids- en beheerorganisaties;2021;0
+1051;Preventieve zorg;BZW: Beleids- en beheerorganisaties;2022;0
+1052;Preventieve zorg;BZW: Beleids- en beheerorganisaties;2023;0
+1053;Geneesmiddelen;Totaal aanbieders zorg en welzijn;2021;8986
+1054;Geneesmiddelen;Totaal aanbieders zorg en welzijn;2022;9474
+1055;Geneesmiddelen;Totaal aanbieders zorg en welzijn;2023;9860
+1056;Geneesmiddelen;GLZ: Totaal aanb. gezondh., langd. zorg;2021;3512
+1057;Geneesmiddelen;GLZ: Totaal aanb. gezondh., langd. zorg;2022;3598
+1058;Geneesmiddelen;GLZ: Totaal aanb. gezondh., langd. zorg;2023;3734
+1059;Geneesmiddelen;GLZ: Aanb. medisch specialistische zorg;2021;3061
+1060;Geneesmiddelen;GLZ: Aanb. medisch specialistische zorg;2022;3127
+1061;Geneesmiddelen;GLZ: Aanb. medisch specialistische zorg;2023;3250
+1062;Geneesmiddelen;GLZMS: Algemene ziekenhuizen;2021;1708
+1063;Geneesmiddelen;GLZMS: Algemene ziekenhuizen;2022;1774
+1064;Geneesmiddelen;GLZMS: Algemene ziekenhuizen;2023;1842
+1065;Geneesmiddelen;GLZMS: UMC's;2021;1170
+1066;Geneesmiddelen;GLZMS: UMC's;2022;1183
+1067;Geneesmiddelen;GLZMS: UMC's;2023;1230
+1068;Geneesmiddelen;GLZMS: Overige aanb. med. spec. zorg;2021;183
+1069;Geneesmiddelen;GLZMS: Overige aanb. med. spec. zorg;2022;170
+1070;Geneesmiddelen;GLZMS: Overige aanb. med. spec. zorg;2023;178
+1071;Geneesmiddelen;GLZ: Aanb. geestelijke gezondheidszorg;2021;0
+1072;Geneesmiddelen;GLZ: Aanb. geestelijke gezondheidszorg;2022;0
+1073;Geneesmiddelen;GLZ: Aanb. geestelijke gezondheidszorg;2023;0
+1074;Geneesmiddelen;GLZ: Huisartsenpraktijken,gezondh.centra;2021;246
+1075;Geneesmiddelen;GLZ: Huisartsenpraktijken,gezondh.centra;2022;256
+1076;Geneesmiddelen;GLZ: Huisartsenpraktijken,gezondh.centra;2023;263
+1077;Geneesmiddelen;GLZ: Tandartsenpraktijken;2021;0
+1078;Geneesmiddelen;GLZ: Tandartsenpraktijken;2022;0
+1079;Geneesmiddelen;GLZ: Tandartsenpraktijken;2023;0
+1080;Geneesmiddelen;GLZ: Paramedische, verlosk. praktijken;2021;0
+1081;Geneesmiddelen;GLZ: Paramedische, verlosk. praktijken;2022;0
+1082;Geneesmiddelen;GLZ: Paramedische, verlosk. praktijken;2023;0
+1083;Geneesmiddelen;GLZ: Aanb. verpleging, verzorg., kraam;2021;203
+1084;Geneesmiddelen;GLZ: Aanb. verpleging, verzorg., kraam;2022;213
+1085;Geneesmiddelen;GLZ: Aanb. verpleging, verzorg., kraam;2023;220
+1086;Geneesmiddelen;GLZ: Aanbieders gehandicaptenzorg;2021;0
+1087;Geneesmiddelen;GLZ: Aanbieders gehandicaptenzorg;2022;0
+1088;Geneesmiddelen;GLZ: Aanbieders gehandicaptenzorg;2023;0
+1089;Geneesmiddelen;GLZ: Aanb. preventie,publieke gezondheid;2021;0
+1090;Geneesmiddelen;GLZ: Aanb. preventie,publieke gezondheid;2022;0
+1091;Geneesmiddelen;GLZ: Aanb. preventie,publieke gezondheid;2023;0
+1092;Geneesmiddelen;GLZ: Aanb. ondersteunende diensten;2021;0
+1093;Geneesmiddelen;GLZ: Aanb. ondersteunende diensten;2022;0
+1094;Geneesmiddelen;GLZ: Aanb. ondersteunende diensten;2023;0
+1095;Geneesmiddelen;GLZ: Aanb. overige diensten gezondheid;2021;2
+1096;Geneesmiddelen;GLZ: Aanb. overige diensten gezondheid;2022;2
+1097;Geneesmiddelen;GLZ: Aanb. overige diensten gezondheid;2023;2
+1098;Geneesmiddelen;WJK: Totaal aanbieders WJK;2021;0
+1099;Geneesmiddelen;WJK: Totaal aanbieders WJK;2022;0
+1100;Geneesmiddelen;WJK: Totaal aanbieders WJK;2023;0
+1101;Geneesmiddelen;WJK: Aanbieders kinderopvang;2021;0
+1102;Geneesmiddelen;WJK: Aanbieders kinderopvang;2022;0
+1103;Geneesmiddelen;WJK: Aanbieders kinderopvang;2023;0
+1104;Geneesmiddelen;WJK: Aanbieders jeugdzorg;2021;0
+1105;Geneesmiddelen;WJK: Aanbieders jeugdzorg;2022;0
+1106;Geneesmiddelen;WJK: Aanbieders jeugdzorg;2023;0
+1107;Geneesmiddelen;WJK: Aanbieders maatschappelijke opvang;2021;0
+1108;Geneesmiddelen;WJK: Aanbieders maatschappelijke opvang;2022;0
+1109;Geneesmiddelen;WJK: Aanbieders maatschappelijke opvang;2023;0
+1110;Geneesmiddelen;WJK: Aanb. sociaal werk, overig welzijn;2021;0
+1111;Geneesmiddelen;WJK: Aanb. sociaal werk, overig welzijn;2022;0
+1112;Geneesmiddelen;WJK: Aanb. sociaal werk, overig welzijn;2023;0
+1113;Geneesmiddelen;BZW: Aanb. buiten sector zorg en welzijn;2021;5474
+1114;Geneesmiddelen;BZW: Aanb. buiten sector zorg en welzijn;2022;5875
+1115;Geneesmiddelen;BZW: Aanb. buiten sector zorg en welzijn;2023;6126
+1116;Geneesmiddelen;BZW: Apotheken;2021;4561
+1117;Geneesmiddelen;BZW: Apotheken;2022;4845
+1118;Geneesmiddelen;BZW: Apotheken;2023;5017
+1119;Geneesmiddelen;BZW: Aanbieders van hulpmiddelen;2021;36
+1120;Geneesmiddelen;BZW: Aanbieders van hulpmiddelen;2022;38
+1121;Geneesmiddelen;BZW: Aanbieders van hulpmiddelen;2023;39
+1122;Geneesmiddelen;BZW: Aanb. zorg als nevenactiviteit;2021;799
+1123;Geneesmiddelen;BZW: Aanb. zorg als nevenactiviteit;2022;866
+1124;Geneesmiddelen;BZW: Aanb. zorg als nevenactiviteit;2023;934
+1125;Geneesmiddelen;BZW: Gezinshuishoudingen;2021;0
+1126;Geneesmiddelen;BZW: Gezinshuishoudingen;2022;0
+1127;Geneesmiddelen;BZW: Gezinshuishoudingen;2023;0
+1128;Geneesmiddelen;BZW: Buitenlandse aanb. zorg en welzijn;2021;78
+1129;Geneesmiddelen;BZW: Buitenlandse aanb. zorg en welzijn;2022;127
+1130;Geneesmiddelen;BZW: Buitenlandse aanb. zorg en welzijn;2023;135
+1131;Geneesmiddelen;BZW: Beleids- en beheerorganisaties;2021;0
+1132;Geneesmiddelen;BZW: Beleids- en beheerorganisaties;2022;0
+1133;Geneesmiddelen;BZW: Beleids- en beheerorganisaties;2023;0
+1134;Hulpmiddelen;Totaal aanbieders zorg en welzijn;2021;4371
+1135;Hulpmiddelen;Totaal aanbieders zorg en welzijn;2022;4248
+1136;Hulpmiddelen;Totaal aanbieders zorg en welzijn;2023;4452
+1137;Hulpmiddelen;GLZ: Totaal aanb. gezondh., langd. zorg;2021;153
+1138;Hulpmiddelen;GLZ: Totaal aanb. gezondh., langd. zorg;2022;181
+1139;Hulpmiddelen;GLZ: Totaal aanb. gezondh., langd. zorg;2023;193
+1140;Hulpmiddelen;GLZ: Aanb. medisch specialistische zorg;2021;34
+1141;Hulpmiddelen;GLZ: Aanb. medisch specialistische zorg;2022;58
+1142;Hulpmiddelen;GLZ: Aanb. medisch specialistische zorg;2023;62
+1143;Hulpmiddelen;GLZMS: Algemene ziekenhuizen;2021;4
+1144;Hulpmiddelen;GLZMS: Algemene ziekenhuizen;2022;2
+1145;Hulpmiddelen;GLZMS: Algemene ziekenhuizen;2023;2
+1146;Hulpmiddelen;GLZMS: UMC's;2021;2
+1147;Hulpmiddelen;GLZMS: UMC's;2022;1
+1148;Hulpmiddelen;GLZMS: UMC's;2023;1
+1149;Hulpmiddelen;GLZMS: Overige aanb. med. spec. zorg;2021;28
+1150;Hulpmiddelen;GLZMS: Overige aanb. med. spec. zorg;2022;55
+1151;Hulpmiddelen;GLZMS: Overige aanb. med. spec. zorg;2023;59
+1152;Hulpmiddelen;GLZ: Aanb. geestelijke gezondheidszorg;2021;0
+1153;Hulpmiddelen;GLZ: Aanb. geestelijke gezondheidszorg;2022;0
+1154;Hulpmiddelen;GLZ: Aanb. geestelijke gezondheidszorg;2023;0
+1155;Hulpmiddelen;GLZ: Huisartsenpraktijken,gezondh.centra;2021;4
+1156;Hulpmiddelen;GLZ: Huisartsenpraktijken,gezondh.centra;2022;4
+1157;Hulpmiddelen;GLZ: Huisartsenpraktijken,gezondh.centra;2023;4
+1158;Hulpmiddelen;GLZ: Tandartsenpraktijken;2021;0
+1159;Hulpmiddelen;GLZ: Tandartsenpraktijken;2022;0
+1160;Hulpmiddelen;GLZ: Tandartsenpraktijken;2023;0
+1161;Hulpmiddelen;GLZ: Paramedische, verlosk. praktijken;2021;32
+1162;Hulpmiddelen;GLZ: Paramedische, verlosk. praktijken;2022;39
+1163;Hulpmiddelen;GLZ: Paramedische, verlosk. praktijken;2023;41
+1164;Hulpmiddelen;GLZ: Aanb. verpleging, verzorg., kraam;2021;69
+1165;Hulpmiddelen;GLZ: Aanb. verpleging, verzorg., kraam;2022;67
+1166;Hulpmiddelen;GLZ: Aanb. verpleging, verzorg., kraam;2023;71
+1167;Hulpmiddelen;GLZ: Aanbieders gehandicaptenzorg;2021;0
+1168;Hulpmiddelen;GLZ: Aanbieders gehandicaptenzorg;2022;0
+1169;Hulpmiddelen;GLZ: Aanbieders gehandicaptenzorg;2023;0
+1170;Hulpmiddelen;GLZ: Aanb. preventie,publieke gezondheid;2021;0
+1171;Hulpmiddelen;GLZ: Aanb. preventie,publieke gezondheid;2022;0
+1172;Hulpmiddelen;GLZ: Aanb. preventie,publieke gezondheid;2023;0
+1173;Hulpmiddelen;GLZ: Aanb. ondersteunende diensten;2021;0
+1174;Hulpmiddelen;GLZ: Aanb. ondersteunende diensten;2022;0
+1175;Hulpmiddelen;GLZ: Aanb. ondersteunende diensten;2023;0
+1176;Hulpmiddelen;GLZ: Aanb. overige diensten gezondheid;2021;14
+1177;Hulpmiddelen;GLZ: Aanb. overige diensten gezondheid;2022;14
+1178;Hulpmiddelen;GLZ: Aanb. overige diensten gezondheid;2023;15
+1179;Hulpmiddelen;WJK: Totaal aanbieders WJK;2021;1
+1180;Hulpmiddelen;WJK: Totaal aanbieders WJK;2022;1
+1181;Hulpmiddelen;WJK: Totaal aanbieders WJK;2023;1
+1182;Hulpmiddelen;WJK: Aanbieders kinderopvang;2021;0
+1183;Hulpmiddelen;WJK: Aanbieders kinderopvang;2022;0
+1184;Hulpmiddelen;WJK: Aanbieders kinderopvang;2023;0
+1185;Hulpmiddelen;WJK: Aanbieders jeugdzorg;2021;0
+1186;Hulpmiddelen;WJK: Aanbieders jeugdzorg;2022;0
+1187;Hulpmiddelen;WJK: Aanbieders jeugdzorg;2023;0
+1188;Hulpmiddelen;WJK: Aanbieders maatschappelijke opvang;2021;0
+1189;Hulpmiddelen;WJK: Aanbieders maatschappelijke opvang;2022;0
+1190;Hulpmiddelen;WJK: Aanbieders maatschappelijke opvang;2023;0
+1191;Hulpmiddelen;WJK: Aanb. sociaal werk, overig welzijn;2021;1
+1192;Hulpmiddelen;WJK: Aanb. sociaal werk, overig welzijn;2022;1
+1193;Hulpmiddelen;WJK: Aanb. sociaal werk, overig welzijn;2023;1
+1194;Hulpmiddelen;BZW: Aanb. buiten sector zorg en welzijn;2021;4217
+1195;Hulpmiddelen;BZW: Aanb. buiten sector zorg en welzijn;2022;4066
+1196;Hulpmiddelen;BZW: Aanb. buiten sector zorg en welzijn;2023;4258
+1197;Hulpmiddelen;BZW: Apotheken;2021;197
+1198;Hulpmiddelen;BZW: Apotheken;2022;166
+1199;Hulpmiddelen;BZW: Apotheken;2023;177
+1200;Hulpmiddelen;BZW: Aanbieders van hulpmiddelen;2021;3956
+1201;Hulpmiddelen;BZW: Aanbieders van hulpmiddelen;2022;3836
+1202;Hulpmiddelen;BZW: Aanbieders van hulpmiddelen;2023;4011
+1203;Hulpmiddelen;BZW: Aanb. zorg als nevenactiviteit;2021;64
+1204;Hulpmiddelen;BZW: Aanb. zorg als nevenactiviteit;2022;65
+1205;Hulpmiddelen;BZW: Aanb. zorg als nevenactiviteit;2023;69
+1206;Hulpmiddelen;BZW: Gezinshuishoudingen;2021;0
+1207;Hulpmiddelen;BZW: Gezinshuishoudingen;2022;0
+1208;Hulpmiddelen;BZW: Gezinshuishoudingen;2023;0
+1209;Hulpmiddelen;BZW: Buitenlandse aanb. zorg en welzijn;2021;0
+1210;Hulpmiddelen;BZW: Buitenlandse aanb. zorg en welzijn;2022;0
+1211;Hulpmiddelen;BZW: Buitenlandse aanb. zorg en welzijn;2023;0
+1212;Hulpmiddelen;BZW: Beleids- en beheerorganisaties;2021;0
+1213;Hulpmiddelen;BZW: Beleids- en beheerorganisaties;2022;0
+1214;Hulpmiddelen;BZW: Beleids- en beheerorganisaties;2023;0
+1215;Overige gezondheidszorg;Totaal aanbieders zorg en welzijn;2021;2939
+1216;Overige gezondheidszorg;Totaal aanbieders zorg en welzijn;2022;3291
+1217;Overige gezondheidszorg;Totaal aanbieders zorg en welzijn;2023;3593
+1218;Overige gezondheidszorg;GLZ: Totaal aanb. gezondh., langd. zorg;2021;2802
+1219;Overige gezondheidszorg;GLZ: Totaal aanb. gezondh., langd. zorg;2022;3153
+1220;Overige gezondheidszorg;GLZ: Totaal aanb. gezondh., langd. zorg;2023;3442
+1221;Overige gezondheidszorg;GLZ: Aanb. medisch specialistische zorg;2021;702
+1222;Overige gezondheidszorg;GLZ: Aanb. medisch specialistische zorg;2022;712
+1223;Overige gezondheidszorg;GLZ: Aanb. medisch specialistische zorg;2023;771
+1224;Overige gezondheidszorg;GLZMS: Algemene ziekenhuizen;2021;405
+1225;Overige gezondheidszorg;GLZMS: Algemene ziekenhuizen;2022;403
+1226;Overige gezondheidszorg;GLZMS: Algemene ziekenhuizen;2023;435
+1227;Overige gezondheidszorg;GLZMS: UMC's;2021;281
+1228;Overige gezondheidszorg;GLZMS: UMC's;2022;290
+1229;Overige gezondheidszorg;GLZMS: UMC's;2023;315
+1230;Overige gezondheidszorg;GLZMS: Overige aanb. med. spec. zorg;2021;16
+1231;Overige gezondheidszorg;GLZMS: Overige aanb. med. spec. zorg;2022;19
+1232;Overige gezondheidszorg;GLZMS: Overige aanb. med. spec. zorg;2023;21
+1233;Overige gezondheidszorg;GLZ: Aanb. geestelijke gezondheidszorg;2021;0
+1234;Overige gezondheidszorg;GLZ: Aanb. geestelijke gezondheidszorg;2022;0
+1235;Overige gezondheidszorg;GLZ: Aanb. geestelijke gezondheidszorg;2023;0
+1236;Overige gezondheidszorg;GLZ: Huisartsenpraktijken,gezondh.centra;2021;0
+1237;Overige gezondheidszorg;GLZ: Huisartsenpraktijken,gezondh.centra;2022;0
+1238;Overige gezondheidszorg;GLZ: Huisartsenpraktijken,gezondh.centra;2023;0
+1239;Overige gezondheidszorg;GLZ: Tandartsenpraktijken;2021;0
+1240;Overige gezondheidszorg;GLZ: Tandartsenpraktijken;2022;0
+1241;Overige gezondheidszorg;GLZ: Tandartsenpraktijken;2023;0
+1242;Overige gezondheidszorg;GLZ: Paramedische, verlosk. praktijken;2021;0
+1243;Overige gezondheidszorg;GLZ: Paramedische, verlosk. praktijken;2022;0
+1244;Overige gezondheidszorg;GLZ: Paramedische, verlosk. praktijken;2023;0
+1245;Overige gezondheidszorg;GLZ: Aanb. verpleging, verzorg., kraam;2021;5
+1246;Overige gezondheidszorg;GLZ: Aanb. verpleging, verzorg., kraam;2022;5
+1247;Overige gezondheidszorg;GLZ: Aanb. verpleging, verzorg., kraam;2023;5
+1248;Overige gezondheidszorg;GLZ: Aanbieders gehandicaptenzorg;2021;0
+1249;Overige gezondheidszorg;GLZ: Aanbieders gehandicaptenzorg;2022;0
+1250;Overige gezondheidszorg;GLZ: Aanbieders gehandicaptenzorg;2023;0
+1251;Overige gezondheidszorg;GLZ: Aanb. preventie,publieke gezondheid;2021;183
+1252;Overige gezondheidszorg;GLZ: Aanb. preventie,publieke gezondheid;2022;218
+1253;Overige gezondheidszorg;GLZ: Aanb. preventie,publieke gezondheid;2023;243
+1254;Overige gezondheidszorg;GLZ: Aanb. ondersteunende diensten;2021;725
+1255;Overige gezondheidszorg;GLZ: Aanb. ondersteunende diensten;2022;718
+1256;Overige gezondheidszorg;GLZ: Aanb. ondersteunende diensten;2023;840
+1257;Overige gezondheidszorg;GLZ: Aanb. overige diensten gezondheid;2021;1186
+1258;Overige gezondheidszorg;GLZ: Aanb. overige diensten gezondheid;2022;1501
+1259;Overige gezondheidszorg;GLZ: Aanb. overige diensten gezondheid;2023;1583
+1260;Overige gezondheidszorg;WJK: Totaal aanbieders WJK;2021;0
+1261;Overige gezondheidszorg;WJK: Totaal aanbieders WJK;2022;0
+1262;Overige gezondheidszorg;WJK: Totaal aanbieders WJK;2023;0
+1263;Overige gezondheidszorg;WJK: Aanbieders kinderopvang;2021;0
+1264;Overige gezondheidszorg;WJK: Aanbieders kinderopvang;2022;0
+1265;Overige gezondheidszorg;WJK: Aanbieders kinderopvang;2023;0
+1266;Overige gezondheidszorg;WJK: Aanbieders jeugdzorg;2021;0
+1267;Overige gezondheidszorg;WJK: Aanbieders jeugdzorg;2022;0
+1268;Overige gezondheidszorg;WJK: Aanbieders jeugdzorg;2023;0
+1269;Overige gezondheidszorg;WJK: Aanbieders maatschappelijke opvang;2021;0
+1270;Overige gezondheidszorg;WJK: Aanbieders maatschappelijke opvang;2022;0
+1271;Overige gezondheidszorg;WJK: Aanbieders maatschappelijke opvang;2023;0
+1272;Overige gezondheidszorg;WJK: Aanb. sociaal werk, overig welzijn;2021;0
+1273;Overige gezondheidszorg;WJK: Aanb. sociaal werk, overig welzijn;2022;0
+1274;Overige gezondheidszorg;WJK: Aanb. sociaal werk, overig welzijn;2023;0
+1275;Overige gezondheidszorg;BZW: Aanb. buiten sector zorg en welzijn;2021;137
+1276;Overige gezondheidszorg;BZW: Aanb. buiten sector zorg en welzijn;2022;137
+1277;Overige gezondheidszorg;BZW: Aanb. buiten sector zorg en welzijn;2023;151
+1278;Overige gezondheidszorg;BZW: Apotheken;2021;0
+1279;Overige gezondheidszorg;BZW: Apotheken;2022;0
+1280;Overige gezondheidszorg;BZW: Apotheken;2023;0
+1281;Overige gezondheidszorg;BZW: Aanbieders van hulpmiddelen;2021;0
+1282;Overige gezondheidszorg;BZW: Aanbieders van hulpmiddelen;2022;0
+1283;Overige gezondheidszorg;BZW: Aanbieders van hulpmiddelen;2023;0
+1284;Overige gezondheidszorg;BZW: Aanb. zorg als nevenactiviteit;2021;137
+1285;Overige gezondheidszorg;BZW: Aanb. zorg als nevenactiviteit;2022;137
+1286;Overige gezondheidszorg;BZW: Aanb. zorg als nevenactiviteit;2023;151
+1287;Overige gezondheidszorg;BZW: Gezinshuishoudingen;2021;0
+1288;Overige gezondheidszorg;BZW: Gezinshuishoudingen;2022;0
+1289;Overige gezondheidszorg;BZW: Gezinshuishoudingen;2023;0
+1290;Overige gezondheidszorg;BZW: Buitenlandse aanb. zorg en welzijn;2021;0
+1291;Overige gezondheidszorg;BZW: Buitenlandse aanb. zorg en welzijn;2022;0
+1292;Overige gezondheidszorg;BZW: Buitenlandse aanb. zorg en welzijn;2023;0
+1293;Overige gezondheidszorg;BZW: Beleids- en beheerorganisaties;2021;0
+1294;Overige gezondheidszorg;BZW: Beleids- en beheerorganisaties;2022;0
+1295;Overige gezondheidszorg;BZW: Beleids- en beheerorganisaties;2023;0
+1296;Verpleging en verzorging met verblijf;Totaal aanbieders zorg en welzijn;2021;13827
+1297;Verpleging en verzorging met verblijf;Totaal aanbieders zorg en welzijn;2022;13975
+1298;Verpleging en verzorging met verblijf;Totaal aanbieders zorg en welzijn;2023;15450
+1299;Verpleging en verzorging met verblijf;GLZ: Totaal aanb. gezondh., langd. zorg;2021;13776
+1300;Verpleging en verzorging met verblijf;GLZ: Totaal aanb. gezondh., langd. zorg;2022;13924
+1301;Verpleging en verzorging met verblijf;GLZ: Totaal aanb. gezondh., langd. zorg;2023;15392
+1302;Verpleging en verzorging met verblijf;GLZ: Aanb. medisch specialistische zorg;2021;576
+1303;Verpleging en verzorging met verblijf;GLZ: Aanb. medisch specialistische zorg;2022;580
+1304;Verpleging en verzorging met verblijf;GLZ: Aanb. medisch specialistische zorg;2023;642
+1305;Verpleging en verzorging met verblijf;GLZMS: Algemene ziekenhuizen;2021;576
+1306;Verpleging en verzorging met verblijf;GLZMS: Algemene ziekenhuizen;2022;580
+1307;Verpleging en verzorging met verblijf;GLZMS: Algemene ziekenhuizen;2023;642
+1308;Verpleging en verzorging met verblijf;GLZMS: UMC's;2021;0
+1309;Verpleging en verzorging met verblijf;GLZMS: UMC's;2022;0
+1310;Verpleging en verzorging met verblijf;GLZMS: UMC's;2023;0
+1311;Verpleging en verzorging met verblijf;GLZMS: Overige aanb. med. spec. zorg;2021;0
+1312;Verpleging en verzorging met verblijf;GLZMS: Overige aanb. med. spec. zorg;2022;0
+1313;Verpleging en verzorging met verblijf;GLZMS: Overige aanb. med. spec. zorg;2023;0
+1314;Verpleging en verzorging met verblijf;GLZ: Aanb. geestelijke gezondheidszorg;2021;87
+1315;Verpleging en verzorging met verblijf;GLZ: Aanb. geestelijke gezondheidszorg;2022;87
+1316;Verpleging en verzorging met verblijf;GLZ: Aanb. geestelijke gezondheidszorg;2023;96
+1317;Verpleging en verzorging met verblijf;GLZ: Huisartsenpraktijken,gezondh.centra;2021;0
+1318;Verpleging en verzorging met verblijf;GLZ: Huisartsenpraktijken,gezondh.centra;2022;0
+1319;Verpleging en verzorging met verblijf;GLZ: Huisartsenpraktijken,gezondh.centra;2023;0
+1320;Verpleging en verzorging met verblijf;GLZ: Tandartsenpraktijken;2021;0
+1321;Verpleging en verzorging met verblijf;GLZ: Tandartsenpraktijken;2022;0
+1322;Verpleging en verzorging met verblijf;GLZ: Tandartsenpraktijken;2023;0
+1323;Verpleging en verzorging met verblijf;GLZ: Paramedische, verlosk. praktijken;2021;0
+1324;Verpleging en verzorging met verblijf;GLZ: Paramedische, verlosk. praktijken;2022;0
+1325;Verpleging en verzorging met verblijf;GLZ: Paramedische, verlosk. praktijken;2023;0
+1326;Verpleging en verzorging met verblijf;GLZ: Aanb. verpleging, verzorg., kraam;2021;12866
+1327;Verpleging en verzorging met verblijf;GLZ: Aanb. verpleging, verzorg., kraam;2022;13004
+1328;Verpleging en verzorging met verblijf;GLZ: Aanb. verpleging, verzorg., kraam;2023;14374
+1329;Verpleging en verzorging met verblijf;GLZ: Aanbieders gehandicaptenzorg;2021;243
+1330;Verpleging en verzorging met verblijf;GLZ: Aanbieders gehandicaptenzorg;2022;248
+1331;Verpleging en verzorging met verblijf;GLZ: Aanbieders gehandicaptenzorg;2023;275
+1332;Verpleging en verzorging met verblijf;GLZ: Aanb. preventie,publieke gezondheid;2021;0
+1333;Verpleging en verzorging met verblijf;GLZ: Aanb. preventie,publieke gezondheid;2022;0
+1334;Verpleging en verzorging met verblijf;GLZ: Aanb. preventie,publieke gezondheid;2023;0
+1335;Verpleging en verzorging met verblijf;GLZ: Aanb. ondersteunende diensten;2021;0
+1336;Verpleging en verzorging met verblijf;GLZ: Aanb. ondersteunende diensten;2022;0
+1337;Verpleging en verzorging met verblijf;GLZ: Aanb. ondersteunende diensten;2023;0
+1338;Verpleging en verzorging met verblijf;GLZ: Aanb. overige diensten gezondheid;2021;4
+1339;Verpleging en verzorging met verblijf;GLZ: Aanb. overige diensten gezondheid;2022;5
+1340;Verpleging en verzorging met verblijf;GLZ: Aanb. overige diensten gezondheid;2023;6
+1341;Verpleging en verzorging met verblijf;WJK: Totaal aanbieders WJK;2021;51
+1342;Verpleging en verzorging met verblijf;WJK: Totaal aanbieders WJK;2022;51
+1343;Verpleging en verzorging met verblijf;WJK: Totaal aanbieders WJK;2023;57
+1344;Verpleging en verzorging met verblijf;WJK: Aanbieders kinderopvang;2021;0
+1345;Verpleging en verzorging met verblijf;WJK: Aanbieders kinderopvang;2022;0
+1346;Verpleging en verzorging met verblijf;WJK: Aanbieders kinderopvang;2023;0
+1347;Verpleging en verzorging met verblijf;WJK: Aanbieders jeugdzorg;2021;0
+1348;Verpleging en verzorging met verblijf;WJK: Aanbieders jeugdzorg;2022;0
+1349;Verpleging en verzorging met verblijf;WJK: Aanbieders jeugdzorg;2023;0
+1350;Verpleging en verzorging met verblijf;WJK: Aanbieders maatschappelijke opvang;2021;51
+1351;Verpleging en verzorging met verblijf;WJK: Aanbieders maatschappelijke opvang;2022;51
+1352;Verpleging en verzorging met verblijf;WJK: Aanbieders maatschappelijke opvang;2023;57
+1353;Verpleging en verzorging met verblijf;WJK: Aanb. sociaal werk, overig welzijn;2021;0
+1354;Verpleging en verzorging met verblijf;WJK: Aanb. sociaal werk, overig welzijn;2022;0
+1355;Verpleging en verzorging met verblijf;WJK: Aanb. sociaal werk, overig welzijn;2023;0
+1356;Verpleging en verzorging met verblijf;BZW: Aanb. buiten sector zorg en welzijn;2021;0
+1357;Verpleging en verzorging met verblijf;BZW: Aanb. buiten sector zorg en welzijn;2022;0
+1358;Verpleging en verzorging met verblijf;BZW: Aanb. buiten sector zorg en welzijn;2023;0
+1359;Verpleging en verzorging met verblijf;BZW: Apotheken;2021;0
+1360;Verpleging en verzorging met verblijf;BZW: Apotheken;2022;0
+1361;Verpleging en verzorging met verblijf;BZW: Apotheken;2023;0
+1362;Verpleging en verzorging met verblijf;BZW: Aanbieders van hulpmiddelen;2021;0
+1363;Verpleging en verzorging met verblijf;BZW: Aanbieders van hulpmiddelen;2022;0
+1364;Verpleging en verzorging met verblijf;BZW: Aanbieders van hulpmiddelen;2023;0
+1365;Verpleging en verzorging met verblijf;BZW: Aanb. zorg als nevenactiviteit;2021;0
+1366;Verpleging en verzorging met verblijf;BZW: Aanb. zorg als nevenactiviteit;2022;0
+1367;Verpleging en verzorging met verblijf;BZW: Aanb. zorg als nevenactiviteit;2023;0
+1368;Verpleging en verzorging met verblijf;BZW: Gezinshuishoudingen;2021;0
+1369;Verpleging en verzorging met verblijf;BZW: Gezinshuishoudingen;2022;0
+1370;Verpleging en verzorging met verblijf;BZW: Gezinshuishoudingen;2023;0
+1371;Verpleging en verzorging met verblijf;BZW: Buitenlandse aanb. zorg en welzijn;2021;0
+1372;Verpleging en verzorging met verblijf;BZW: Buitenlandse aanb. zorg en welzijn;2022;0
+1373;Verpleging en verzorging met verblijf;BZW: Buitenlandse aanb. zorg en welzijn;2023;0
+1374;Verpleging en verzorging met verblijf;BZW: Beleids- en beheerorganisaties;2021;0
+1375;Verpleging en verzorging met verblijf;BZW: Beleids- en beheerorganisaties;2022;0
+1376;Verpleging en verzorging met verblijf;BZW: Beleids- en beheerorganisaties;2023;0
+1377;Verpleging en verzorging thuis;Totaal aanbieders zorg en welzijn;2021;7990
+1378;Verpleging en verzorging thuis;Totaal aanbieders zorg en welzijn;2022;7987
+1379;Verpleging en verzorging thuis;Totaal aanbieders zorg en welzijn;2023;8466
+1380;Verpleging en verzorging thuis;GLZ: Totaal aanb. gezondh., langd. zorg;2021;6784
+1381;Verpleging en verzorging thuis;GLZ: Totaal aanb. gezondh., langd. zorg;2022;6907
+1382;Verpleging en verzorging thuis;GLZ: Totaal aanb. gezondh., langd. zorg;2023;7332
+1383;Verpleging en verzorging thuis;GLZ: Aanb. medisch specialistische zorg;2021;208
+1384;Verpleging en verzorging thuis;GLZ: Aanb. medisch specialistische zorg;2022;208
+1385;Verpleging en verzorging thuis;GLZ: Aanb. medisch specialistische zorg;2023;223
+1386;Verpleging en verzorging thuis;GLZMS: Algemene ziekenhuizen;2021;199
+1387;Verpleging en verzorging thuis;GLZMS: Algemene ziekenhuizen;2022;200
+1388;Verpleging en verzorging thuis;GLZMS: Algemene ziekenhuizen;2023;214
+1389;Verpleging en verzorging thuis;GLZMS: UMC's;2021;0
+1390;Verpleging en verzorging thuis;GLZMS: UMC's;2022;0
+1391;Verpleging en verzorging thuis;GLZMS: UMC's;2023;0
+1392;Verpleging en verzorging thuis;GLZMS: Overige aanb. med. spec. zorg;2021;10
+1393;Verpleging en verzorging thuis;GLZMS: Overige aanb. med. spec. zorg;2022;9
+1394;Verpleging en verzorging thuis;GLZMS: Overige aanb. med. spec. zorg;2023;10
+1395;Verpleging en verzorging thuis;GLZ: Aanb. geestelijke gezondheidszorg;2021;117
+1396;Verpleging en verzorging thuis;GLZ: Aanb. geestelijke gezondheidszorg;2022;105
+1397;Verpleging en verzorging thuis;GLZ: Aanb. geestelijke gezondheidszorg;2023;115
+1398;Verpleging en verzorging thuis;GLZ: Huisartsenpraktijken,gezondh.centra;2021;0
+1399;Verpleging en verzorging thuis;GLZ: Huisartsenpraktijken,gezondh.centra;2022;0
+1400;Verpleging en verzorging thuis;GLZ: Huisartsenpraktijken,gezondh.centra;2023;0
+1401;Verpleging en verzorging thuis;GLZ: Tandartsenpraktijken;2021;0
+1402;Verpleging en verzorging thuis;GLZ: Tandartsenpraktijken;2022;0
+1403;Verpleging en verzorging thuis;GLZ: Tandartsenpraktijken;2023;0
+1404;Verpleging en verzorging thuis;GLZ: Paramedische, verlosk. praktijken;2021;21
+1405;Verpleging en verzorging thuis;GLZ: Paramedische, verlosk. praktijken;2022;21
+1406;Verpleging en verzorging thuis;GLZ: Paramedische, verlosk. praktijken;2023;23
+1407;Verpleging en verzorging thuis;GLZ: Aanb. verpleging, verzorg., kraam;2021;6208
+1408;Verpleging en verzorging thuis;GLZ: Aanb. verpleging, verzorg., kraam;2022;6323
+1409;Verpleging en verzorging thuis;GLZ: Aanb. verpleging, verzorg., kraam;2023;6691
+1410;Verpleging en verzorging thuis;GLZ: Aanbieders gehandicaptenzorg;2021;142
+1411;Verpleging en verzorging thuis;GLZ: Aanbieders gehandicaptenzorg;2022;154
+1412;Verpleging en verzorging thuis;GLZ: Aanbieders gehandicaptenzorg;2023;164
+1413;Verpleging en verzorging thuis;GLZ: Aanb. preventie,publieke gezondheid;2021;19
+1414;Verpleging en verzorging thuis;GLZ: Aanb. preventie,publieke gezondheid;2022;6
+1415;Verpleging en verzorging thuis;GLZ: Aanb. preventie,publieke gezondheid;2023;19
+1416;Verpleging en verzorging thuis;GLZ: Aanb. ondersteunende diensten;2021;0
+1417;Verpleging en verzorging thuis;GLZ: Aanb. ondersteunende diensten;2022;0
+1418;Verpleging en verzorging thuis;GLZ: Aanb. ondersteunende diensten;2023;0
+1419;Verpleging en verzorging thuis;GLZ: Aanb. overige diensten gezondheid;2021;69
+1420;Verpleging en verzorging thuis;GLZ: Aanb. overige diensten gezondheid;2022;89
+1421;Verpleging en verzorging thuis;GLZ: Aanb. overige diensten gezondheid;2023;96
+1422;Verpleging en verzorging thuis;WJK: Totaal aanbieders WJK;2021;133
+1423;Verpleging en verzorging thuis;WJK: Totaal aanbieders WJK;2022;120
+1424;Verpleging en verzorging thuis;WJK: Totaal aanbieders WJK;2023;125
+1425;Verpleging en verzorging thuis;WJK: Aanbieders kinderopvang;2021;3
+1426;Verpleging en verzorging thuis;WJK: Aanbieders kinderopvang;2022;5
+1427;Verpleging en verzorging thuis;WJK: Aanbieders kinderopvang;2023;4
+1428;Verpleging en verzorging thuis;WJK: Aanbieders jeugdzorg;2021;23
+1429;Verpleging en verzorging thuis;WJK: Aanbieders jeugdzorg;2022;15
+1430;Verpleging en verzorging thuis;WJK: Aanbieders jeugdzorg;2023;15
+1431;Verpleging en verzorging thuis;WJK: Aanbieders maatschappelijke opvang;2021;59
+1432;Verpleging en verzorging thuis;WJK: Aanbieders maatschappelijke opvang;2022;55
+1433;Verpleging en verzorging thuis;WJK: Aanbieders maatschappelijke opvang;2023;58
+1434;Verpleging en verzorging thuis;WJK: Aanb. sociaal werk, overig welzijn;2021;48
+1435;Verpleging en verzorging thuis;WJK: Aanb. sociaal werk, overig welzijn;2022;46
+1436;Verpleging en verzorging thuis;WJK: Aanb. sociaal werk, overig welzijn;2023;48
+1437;Verpleging en verzorging thuis;BZW: Aanb. buiten sector zorg en welzijn;2021;1073
+1438;Verpleging en verzorging thuis;BZW: Aanb. buiten sector zorg en welzijn;2022;959
+1439;Verpleging en verzorging thuis;BZW: Aanb. buiten sector zorg en welzijn;2023;1008
+1440;Verpleging en verzorging thuis;BZW: Apotheken;2021;0
+1441;Verpleging en verzorging thuis;BZW: Apotheken;2022;0
+1442;Verpleging en verzorging thuis;BZW: Apotheken;2023;0
+1443;Verpleging en verzorging thuis;BZW: Aanbieders van hulpmiddelen;2021;0
+1444;Verpleging en verzorging thuis;BZW: Aanbieders van hulpmiddelen;2022;0
+1445;Verpleging en verzorging thuis;BZW: Aanbieders van hulpmiddelen;2023;0
+1446;Verpleging en verzorging thuis;BZW: Aanb. zorg als nevenactiviteit;2021;375
+1447;Verpleging en verzorging thuis;BZW: Aanb. zorg als nevenactiviteit;2022;346
+1448;Verpleging en verzorging thuis;BZW: Aanb. zorg als nevenactiviteit;2023;379
+1449;Verpleging en verzorging thuis;BZW: Gezinshuishoudingen;2021;696
+1450;Verpleging en verzorging thuis;BZW: Gezinshuishoudingen;2022;611
+1451;Verpleging en verzorging thuis;BZW: Gezinshuishoudingen;2023;627
+1452;Verpleging en verzorging thuis;BZW: Buitenlandse aanb. zorg en welzijn;2021;3
+1453;Verpleging en verzorging thuis;BZW: Buitenlandse aanb. zorg en welzijn;2022;3
+1454;Verpleging en verzorging thuis;BZW: Buitenlandse aanb. zorg en welzijn;2023;2
+1455;Verpleging en verzorging thuis;BZW: Beleids- en beheerorganisaties;2021;0
+1456;Verpleging en verzorging thuis;BZW: Beleids- en beheerorganisaties;2022;0
+1457;Verpleging en verzorging thuis;BZW: Beleids- en beheerorganisaties;2023;0
+1458;Palliatieve zorg;Totaal aanbieders zorg en welzijn;2021;393
+1459;Palliatieve zorg;Totaal aanbieders zorg en welzijn;2022;412
+1460;Palliatieve zorg;Totaal aanbieders zorg en welzijn;2023;440
+1461;Palliatieve zorg;GLZ: Totaal aanb. gezondh., langd. zorg;2021;391
+1462;Palliatieve zorg;GLZ: Totaal aanb. gezondh., langd. zorg;2022;408
+1463;Palliatieve zorg;GLZ: Totaal aanb. gezondh., langd. zorg;2023;436
+1464;Palliatieve zorg;GLZ: Aanb. medisch specialistische zorg;2021;48
+1465;Palliatieve zorg;GLZ: Aanb. medisch specialistische zorg;2022;52
+1466;Palliatieve zorg;GLZ: Aanb. medisch specialistische zorg;2023;57
+1467;Palliatieve zorg;GLZMS: Algemene ziekenhuizen;2021;31
+1468;Palliatieve zorg;GLZMS: Algemene ziekenhuizen;2022;34
+1469;Palliatieve zorg;GLZMS: Algemene ziekenhuizen;2023;36
+1470;Palliatieve zorg;GLZMS: UMC's;2021;18
+1471;Palliatieve zorg;GLZMS: UMC's;2022;19
+1472;Palliatieve zorg;GLZMS: UMC's;2023;20
+1473;Palliatieve zorg;GLZMS: Overige aanb. med. spec. zorg;2021;0
+1474;Palliatieve zorg;GLZMS: Overige aanb. med. spec. zorg;2022;0
+1475;Palliatieve zorg;GLZMS: Overige aanb. med. spec. zorg;2023;0
+1476;Palliatieve zorg;GLZ: Aanb. geestelijke gezondheidszorg;2021;1
+1477;Palliatieve zorg;GLZ: Aanb. geestelijke gezondheidszorg;2022;1
+1478;Palliatieve zorg;GLZ: Aanb. geestelijke gezondheidszorg;2023;1
+1479;Palliatieve zorg;GLZ: Huisartsenpraktijken,gezondh.centra;2021;3
+1480;Palliatieve zorg;GLZ: Huisartsenpraktijken,gezondh.centra;2022;3
+1481;Palliatieve zorg;GLZ: Huisartsenpraktijken,gezondh.centra;2023;4
+1482;Palliatieve zorg;GLZ: Tandartsenpraktijken;2021;0
+1483;Palliatieve zorg;GLZ: Tandartsenpraktijken;2022;0
+1484;Palliatieve zorg;GLZ: Tandartsenpraktijken;2023;0
+1485;Palliatieve zorg;GLZ: Paramedische, verlosk. praktijken;2021;0
+1486;Palliatieve zorg;GLZ: Paramedische, verlosk. praktijken;2022;0
+1487;Palliatieve zorg;GLZ: Paramedische, verlosk. praktijken;2023;0
+1488;Palliatieve zorg;GLZ: Aanb. verpleging, verzorg., kraam;2021;314
+1489;Palliatieve zorg;GLZ: Aanb. verpleging, verzorg., kraam;2022;321
+1490;Palliatieve zorg;GLZ: Aanb. verpleging, verzorg., kraam;2023;341
+1491;Palliatieve zorg;GLZ: Aanbieders gehandicaptenzorg;2021;10
+1492;Palliatieve zorg;GLZ: Aanbieders gehandicaptenzorg;2022;14
+1493;Palliatieve zorg;GLZ: Aanbieders gehandicaptenzorg;2023;15
+1494;Palliatieve zorg;GLZ: Aanb. preventie,publieke gezondheid;2021;0
+1495;Palliatieve zorg;GLZ: Aanb. preventie,publieke gezondheid;2022;0
+1496;Palliatieve zorg;GLZ: Aanb. preventie,publieke gezondheid;2023;0
+1497;Palliatieve zorg;GLZ: Aanb. ondersteunende diensten;2021;0
+1498;Palliatieve zorg;GLZ: Aanb. ondersteunende diensten;2022;0
+1499;Palliatieve zorg;GLZ: Aanb. ondersteunende diensten;2023;0
+1500;Palliatieve zorg;GLZ: Aanb. overige diensten gezondheid;2021;14
+1501;Palliatieve zorg;GLZ: Aanb. overige diensten gezondheid;2022;16
+1502;Palliatieve zorg;GLZ: Aanb. overige diensten gezondheid;2023;18
+1503;Palliatieve zorg;WJK: Totaal aanbieders WJK;2021;2
+1504;Palliatieve zorg;WJK: Totaal aanbieders WJK;2022;4
+1505;Palliatieve zorg;WJK: Totaal aanbieders WJK;2023;4
+1506;Palliatieve zorg;WJK: Aanbieders kinderopvang;2021;0
+1507;Palliatieve zorg;WJK: Aanbieders kinderopvang;2022;0
+1508;Palliatieve zorg;WJK: Aanbieders kinderopvang;2023;0
+1509;Palliatieve zorg;WJK: Aanbieders jeugdzorg;2021;0
+1510;Palliatieve zorg;WJK: Aanbieders jeugdzorg;2022;0
+1511;Palliatieve zorg;WJK: Aanbieders jeugdzorg;2023;0
+1512;Palliatieve zorg;WJK: Aanbieders maatschappelijke opvang;2021;2
+1513;Palliatieve zorg;WJK: Aanbieders maatschappelijke opvang;2022;4
+1514;Palliatieve zorg;WJK: Aanbieders maatschappelijke opvang;2023;4
+1515;Palliatieve zorg;WJK: Aanb. sociaal werk, overig welzijn;2021;0
+1516;Palliatieve zorg;WJK: Aanb. sociaal werk, overig welzijn;2022;0
+1517;Palliatieve zorg;WJK: Aanb. sociaal werk, overig welzijn;2023;0
+1518;Palliatieve zorg;BZW: Aanb. buiten sector zorg en welzijn;2021;0
+1519;Palliatieve zorg;BZW: Aanb. buiten sector zorg en welzijn;2022;0
+1520;Palliatieve zorg;BZW: Aanb. buiten sector zorg en welzijn;2023;0
+1521;Palliatieve zorg;BZW: Apotheken;2021;0
+1522;Palliatieve zorg;BZW: Apotheken;2022;0
+1523;Palliatieve zorg;BZW: Apotheken;2023;0
+1524;Palliatieve zorg;BZW: Aanbieders van hulpmiddelen;2021;0
+1525;Palliatieve zorg;BZW: Aanbieders van hulpmiddelen;2022;0
+1526;Palliatieve zorg;BZW: Aanbieders van hulpmiddelen;2023;0
+1527;Palliatieve zorg;BZW: Aanb. zorg als nevenactiviteit;2021;0
+1528;Palliatieve zorg;BZW: Aanb. zorg als nevenactiviteit;2022;0
+1529;Palliatieve zorg;BZW: Aanb. zorg als nevenactiviteit;2023;0
+1530;Palliatieve zorg;BZW: Gezinshuishoudingen;2021;0
+1531;Palliatieve zorg;BZW: Gezinshuishoudingen;2022;0
+1532;Palliatieve zorg;BZW: Gezinshuishoudingen;2023;0
+1533;Palliatieve zorg;BZW: Buitenlandse aanb. zorg en welzijn;2021;0
+1534;Palliatieve zorg;BZW: Buitenlandse aanb. zorg en welzijn;2022;0
+1535;Palliatieve zorg;BZW: Buitenlandse aanb. zorg en welzijn;2023;0
+1536;Palliatieve zorg;BZW: Beleids- en beheerorganisaties;2021;0
+1537;Palliatieve zorg;BZW: Beleids- en beheerorganisaties;2022;0
+1538;Palliatieve zorg;BZW: Beleids- en beheerorganisaties;2023;0
+1539;Gehandicaptenzorg;Totaal aanbieders zorg en welzijn;2021;12147
+1540;Gehandicaptenzorg;Totaal aanbieders zorg en welzijn;2022;12547
+1541;Gehandicaptenzorg;Totaal aanbieders zorg en welzijn;2023;13579
+1542;Gehandicaptenzorg;GLZ: Totaal aanb. gezondh., langd. zorg;2021;10957
+1543;Gehandicaptenzorg;GLZ: Totaal aanb. gezondh., langd. zorg;2022;11358
+1544;Gehandicaptenzorg;GLZ: Totaal aanb. gezondh., langd. zorg;2023;12294
+1545;Gehandicaptenzorg;GLZ: Aanb. medisch specialistische zorg;2021;58
+1546;Gehandicaptenzorg;GLZ: Aanb. medisch specialistische zorg;2022;60
+1547;Gehandicaptenzorg;GLZ: Aanb. medisch specialistische zorg;2023;65
+1548;Gehandicaptenzorg;GLZMS: Algemene ziekenhuizen;2021;34
+1549;Gehandicaptenzorg;GLZMS: Algemene ziekenhuizen;2022;32
+1550;Gehandicaptenzorg;GLZMS: Algemene ziekenhuizen;2023;35
+1551;Gehandicaptenzorg;GLZMS: UMC's;2021;0
+1552;Gehandicaptenzorg;GLZMS: UMC's;2022;0
+1553;Gehandicaptenzorg;GLZMS: UMC's;2023;0
+1554;Gehandicaptenzorg;GLZMS: Overige aanb. med. spec. zorg;2021;24
+1555;Gehandicaptenzorg;GLZMS: Overige aanb. med. spec. zorg;2022;28
+1556;Gehandicaptenzorg;GLZMS: Overige aanb. med. spec. zorg;2023;30
+1557;Gehandicaptenzorg;GLZ: Aanb. geestelijke gezondheidszorg;2021;102
+1558;Gehandicaptenzorg;GLZ: Aanb. geestelijke gezondheidszorg;2022;106
+1559;Gehandicaptenzorg;GLZ: Aanb. geestelijke gezondheidszorg;2023;112
+1560;Gehandicaptenzorg;GLZ: Huisartsenpraktijken,gezondh.centra;2021;0
+1561;Gehandicaptenzorg;GLZ: Huisartsenpraktijken,gezondh.centra;2022;0
+1562;Gehandicaptenzorg;GLZ: Huisartsenpraktijken,gezondh.centra;2023;0
+1563;Gehandicaptenzorg;GLZ: Tandartsenpraktijken;2021;0
+1564;Gehandicaptenzorg;GLZ: Tandartsenpraktijken;2022;0
+1565;Gehandicaptenzorg;GLZ: Tandartsenpraktijken;2023;0
+1566;Gehandicaptenzorg;GLZ: Paramedische, verlosk. praktijken;2021;13
+1567;Gehandicaptenzorg;GLZ: Paramedische, verlosk. praktijken;2022;15
+1568;Gehandicaptenzorg;GLZ: Paramedische, verlosk. praktijken;2023;19
+1569;Gehandicaptenzorg;GLZ: Aanb. verpleging, verzorg., kraam;2021;711
+1570;Gehandicaptenzorg;GLZ: Aanb. verpleging, verzorg., kraam;2022;753
+1571;Gehandicaptenzorg;GLZ: Aanb. verpleging, verzorg., kraam;2023;823
+1572;Gehandicaptenzorg;GLZ: Aanbieders gehandicaptenzorg;2021;9992
+1573;Gehandicaptenzorg;GLZ: Aanbieders gehandicaptenzorg;2022;10340
+1574;Gehandicaptenzorg;GLZ: Aanbieders gehandicaptenzorg;2023;11185
+1575;Gehandicaptenzorg;GLZ: Aanb. preventie,publieke gezondheid;2021;5
+1576;Gehandicaptenzorg;GLZ: Aanb. preventie,publieke gezondheid;2022;4
+1577;Gehandicaptenzorg;GLZ: Aanb. preventie,publieke gezondheid;2023;5
+1578;Gehandicaptenzorg;GLZ: Aanb. ondersteunende diensten;2021;0
+1579;Gehandicaptenzorg;GLZ: Aanb. ondersteunende diensten;2022;0
+1580;Gehandicaptenzorg;GLZ: Aanb. ondersteunende diensten;2023;0
+1581;Gehandicaptenzorg;GLZ: Aanb. overige diensten gezondheid;2021;76
+1582;Gehandicaptenzorg;GLZ: Aanb. overige diensten gezondheid;2022;79
+1583;Gehandicaptenzorg;GLZ: Aanb. overige diensten gezondheid;2023;84
+1584;Gehandicaptenzorg;WJK: Totaal aanbieders WJK;2021;144
+1585;Gehandicaptenzorg;WJK: Totaal aanbieders WJK;2022;151
+1586;Gehandicaptenzorg;WJK: Totaal aanbieders WJK;2023;171
+1587;Gehandicaptenzorg;WJK: Aanbieders kinderopvang;2021;3
+1588;Gehandicaptenzorg;WJK: Aanbieders kinderopvang;2022;3
+1589;Gehandicaptenzorg;WJK: Aanbieders kinderopvang;2023;3
+1590;Gehandicaptenzorg;WJK: Aanbieders jeugdzorg;2021;36
+1591;Gehandicaptenzorg;WJK: Aanbieders jeugdzorg;2022;41
+1592;Gehandicaptenzorg;WJK: Aanbieders jeugdzorg;2023;49
+1593;Gehandicaptenzorg;WJK: Aanbieders maatschappelijke opvang;2021;41
+1594;Gehandicaptenzorg;WJK: Aanbieders maatschappelijke opvang;2022;43
+1595;Gehandicaptenzorg;WJK: Aanbieders maatschappelijke opvang;2023;48
+1596;Gehandicaptenzorg;WJK: Aanb. sociaal werk, overig welzijn;2021;64
+1597;Gehandicaptenzorg;WJK: Aanb. sociaal werk, overig welzijn;2022;65
+1598;Gehandicaptenzorg;WJK: Aanb. sociaal werk, overig welzijn;2023;72
+1599;Gehandicaptenzorg;BZW: Aanb. buiten sector zorg en welzijn;2021;1046
+1600;Gehandicaptenzorg;BZW: Aanb. buiten sector zorg en welzijn;2022;1038
+1601;Gehandicaptenzorg;BZW: Aanb. buiten sector zorg en welzijn;2023;1114
+1602;Gehandicaptenzorg;BZW: Apotheken;2021;0
+1603;Gehandicaptenzorg;BZW: Apotheken;2022;0
+1604;Gehandicaptenzorg;BZW: Apotheken;2023;0
+1605;Gehandicaptenzorg;BZW: Aanbieders van hulpmiddelen;2021;0
+1606;Gehandicaptenzorg;BZW: Aanbieders van hulpmiddelen;2022;0
+1607;Gehandicaptenzorg;BZW: Aanbieders van hulpmiddelen;2023;0
+1608;Gehandicaptenzorg;BZW: Aanb. zorg als nevenactiviteit;2021;87
+1609;Gehandicaptenzorg;BZW: Aanb. zorg als nevenactiviteit;2022;86
+1610;Gehandicaptenzorg;BZW: Aanb. zorg als nevenactiviteit;2023;90
+1611;Gehandicaptenzorg;BZW: Gezinshuishoudingen;2021;958
+1612;Gehandicaptenzorg;BZW: Gezinshuishoudingen;2022;951
+1613;Gehandicaptenzorg;BZW: Gezinshuishoudingen;2023;1023
+1614;Gehandicaptenzorg;BZW: Buitenlandse aanb. zorg en welzijn;2021;1
+1615;Gehandicaptenzorg;BZW: Buitenlandse aanb. zorg en welzijn;2022;1
+1616;Gehandicaptenzorg;BZW: Buitenlandse aanb. zorg en welzijn;2023;1
+1617;Gehandicaptenzorg;BZW: Beleids- en beheerorganisaties;2021;0
+1618;Gehandicaptenzorg;BZW: Beleids- en beheerorganisaties;2022;0
+1619;Gehandicaptenzorg;BZW: Beleids- en beheerorganisaties;2023;0
+1620;Beschermd wonen;Totaal aanbieders zorg en welzijn;2021;1974
+1621;Beschermd wonen;Totaal aanbieders zorg en welzijn;2022;2237
+1622;Beschermd wonen;Totaal aanbieders zorg en welzijn;2023;2570
+1623;Beschermd wonen;GLZ: Totaal aanb. gezondh., langd. zorg;2021;1666
+1624;Beschermd wonen;GLZ: Totaal aanb. gezondh., langd. zorg;2022;1915
+1625;Beschermd wonen;GLZ: Totaal aanb. gezondh., langd. zorg;2023;2201
+1626;Beschermd wonen;GLZ: Aanb. medisch specialistische zorg;2021;7
+1627;Beschermd wonen;GLZ: Aanb. medisch specialistische zorg;2022;8
+1628;Beschermd wonen;GLZ: Aanb. medisch specialistische zorg;2023;10
+1629;Beschermd wonen;GLZMS: Algemene ziekenhuizen;2021;7
+1630;Beschermd wonen;GLZMS: Algemene ziekenhuizen;2022;8
+1631;Beschermd wonen;GLZMS: Algemene ziekenhuizen;2023;10
+1632;Beschermd wonen;GLZMS: UMC's;2021;0
+1633;Beschermd wonen;GLZMS: UMC's;2022;0
+1634;Beschermd wonen;GLZMS: UMC's;2023;0
+1635;Beschermd wonen;GLZMS: Overige aanb. med. spec. zorg;2021;0
+1636;Beschermd wonen;GLZMS: Overige aanb. med. spec. zorg;2022;0
+1637;Beschermd wonen;GLZMS: Overige aanb. med. spec. zorg;2023;0
+1638;Beschermd wonen;GLZ: Aanb. geestelijke gezondheidszorg;2021;1133
+1639;Beschermd wonen;GLZ: Aanb. geestelijke gezondheidszorg;2022;1292
+1640;Beschermd wonen;GLZ: Aanb. geestelijke gezondheidszorg;2023;1483
+1641;Beschermd wonen;GLZ: Huisartsenpraktijken,gezondh.centra;2021;0
+1642;Beschermd wonen;GLZ: Huisartsenpraktijken,gezondh.centra;2022;0
+1643;Beschermd wonen;GLZ: Huisartsenpraktijken,gezondh.centra;2023;0
+1644;Beschermd wonen;GLZ: Tandartsenpraktijken;2021;0
+1645;Beschermd wonen;GLZ: Tandartsenpraktijken;2022;0
+1646;Beschermd wonen;GLZ: Tandartsenpraktijken;2023;0
+1647;Beschermd wonen;GLZ: Paramedische, verlosk. praktijken;2021;0
+1648;Beschermd wonen;GLZ: Paramedische, verlosk. praktijken;2022;0
+1649;Beschermd wonen;GLZ: Paramedische, verlosk. praktijken;2023;0
+1650;Beschermd wonen;GLZ: Aanb. verpleging, verzorg., kraam;2021;152
+1651;Beschermd wonen;GLZ: Aanb. verpleging, verzorg., kraam;2022;184
+1652;Beschermd wonen;GLZ: Aanb. verpleging, verzorg., kraam;2023;215
+1653;Beschermd wonen;GLZ: Aanbieders gehandicaptenzorg;2021;336
+1654;Beschermd wonen;GLZ: Aanbieders gehandicaptenzorg;2022;393
+1655;Beschermd wonen;GLZ: Aanbieders gehandicaptenzorg;2023;451
+1656;Beschermd wonen;GLZ: Aanb. preventie,publieke gezondheid;2021;0
+1657;Beschermd wonen;GLZ: Aanb. preventie,publieke gezondheid;2022;0
+1658;Beschermd wonen;GLZ: Aanb. preventie,publieke gezondheid;2023;0
+1659;Beschermd wonen;GLZ: Aanb. ondersteunende diensten;2021;0
+1660;Beschermd wonen;GLZ: Aanb. ondersteunende diensten;2022;0
+1661;Beschermd wonen;GLZ: Aanb. ondersteunende diensten;2023;0
+1662;Beschermd wonen;GLZ: Aanb. overige diensten gezondheid;2021;37
+1663;Beschermd wonen;GLZ: Aanb. overige diensten gezondheid;2022;38
+1664;Beschermd wonen;GLZ: Aanb. overige diensten gezondheid;2023;43
+1665;Beschermd wonen;WJK: Totaal aanbieders WJK;2021;281
+1666;Beschermd wonen;WJK: Totaal aanbieders WJK;2022;295
+1667;Beschermd wonen;WJK: Totaal aanbieders WJK;2023;339
+1668;Beschermd wonen;WJK: Aanbieders kinderopvang;2021;0
+1669;Beschermd wonen;WJK: Aanbieders kinderopvang;2022;0
+1670;Beschermd wonen;WJK: Aanbieders kinderopvang;2023;0
+1671;Beschermd wonen;WJK: Aanbieders jeugdzorg;2021;9
+1672;Beschermd wonen;WJK: Aanbieders jeugdzorg;2022;9
+1673;Beschermd wonen;WJK: Aanbieders jeugdzorg;2023;10
+1674;Beschermd wonen;WJK: Aanbieders maatschappelijke opvang;2021;256
+1675;Beschermd wonen;WJK: Aanbieders maatschappelijke opvang;2022;271
+1676;Beschermd wonen;WJK: Aanbieders maatschappelijke opvang;2023;312
+1677;Beschermd wonen;WJK: Aanb. sociaal werk, overig welzijn;2021;15
+1678;Beschermd wonen;WJK: Aanb. sociaal werk, overig welzijn;2022;15
+1679;Beschermd wonen;WJK: Aanb. sociaal werk, overig welzijn;2023;17
+1680;Beschermd wonen;BZW: Aanb. buiten sector zorg en welzijn;2021;26
+1681;Beschermd wonen;BZW: Aanb. buiten sector zorg en welzijn;2022;27
+1682;Beschermd wonen;BZW: Aanb. buiten sector zorg en welzijn;2023;30
+1683;Beschermd wonen;BZW: Apotheken;2021;0
+1684;Beschermd wonen;BZW: Apotheken;2022;0
+1685;Beschermd wonen;BZW: Apotheken;2023;0
+1686;Beschermd wonen;BZW: Aanbieders van hulpmiddelen;2021;0
+1687;Beschermd wonen;BZW: Aanbieders van hulpmiddelen;2022;0
+1688;Beschermd wonen;BZW: Aanbieders van hulpmiddelen;2023;0
+1689;Beschermd wonen;BZW: Aanb. zorg als nevenactiviteit;2021;26
+1690;Beschermd wonen;BZW: Aanb. zorg als nevenactiviteit;2022;27
+1691;Beschermd wonen;BZW: Aanb. zorg als nevenactiviteit;2023;30
+1692;Beschermd wonen;BZW: Gezinshuishoudingen;2021;0
+1693;Beschermd wonen;BZW: Gezinshuishoudingen;2022;0
+1694;Beschermd wonen;BZW: Gezinshuishoudingen;2023;0
+1695;Beschermd wonen;BZW: Buitenlandse aanb. zorg en welzijn;2021;0
+1696;Beschermd wonen;BZW: Buitenlandse aanb. zorg en welzijn;2022;0
+1697;Beschermd wonen;BZW: Buitenlandse aanb. zorg en welzijn;2023;0
+1698;Beschermd wonen;BZW: Beleids- en beheerorganisaties;2021;0
+1699;Beschermd wonen;BZW: Beleids- en beheerorganisaties;2022;0
+1700;Beschermd wonen;BZW: Beleids- en beheerorganisaties;2023;0
+1701;Maatschappelijke opvang;Totaal aanbieders zorg en welzijn;2021;1644
+1702;Maatschappelijke opvang;Totaal aanbieders zorg en welzijn;2022;2530
+1703;Maatschappelijke opvang;Totaal aanbieders zorg en welzijn;2023;3838
+1704;Maatschappelijke opvang;GLZ: Totaal aanb. gezondh., langd. zorg;2021;0
+1705;Maatschappelijke opvang;GLZ: Totaal aanb. gezondh., langd. zorg;2022;0
+1706;Maatschappelijke opvang;GLZ: Totaal aanb. gezondh., langd. zorg;2023;0
+1707;Maatschappelijke opvang;GLZ: Aanb. medisch specialistische zorg;2021;0
+1708;Maatschappelijke opvang;GLZ: Aanb. medisch specialistische zorg;2022;0
+1709;Maatschappelijke opvang;GLZ: Aanb. medisch specialistische zorg;2023;0
+1710;Maatschappelijke opvang;GLZMS: Algemene ziekenhuizen;2021;0
+1711;Maatschappelijke opvang;GLZMS: Algemene ziekenhuizen;2022;0
+1712;Maatschappelijke opvang;GLZMS: Algemene ziekenhuizen;2023;0
+1713;Maatschappelijke opvang;GLZMS: UMC's;2021;0
+1714;Maatschappelijke opvang;GLZMS: UMC's;2022;0
+1715;Maatschappelijke opvang;GLZMS: UMC's;2023;0
+1716;Maatschappelijke opvang;GLZMS: Overige aanb. med. spec. zorg;2021;0
+1717;Maatschappelijke opvang;GLZMS: Overige aanb. med. spec. zorg;2022;0
+1718;Maatschappelijke opvang;GLZMS: Overige aanb. med. spec. zorg;2023;0
+1719;Maatschappelijke opvang;GLZ: Aanb. geestelijke gezondheidszorg;2021;0
+1720;Maatschappelijke opvang;GLZ: Aanb. geestelijke gezondheidszorg;2022;0
+1721;Maatschappelijke opvang;GLZ: Aanb. geestelijke gezondheidszorg;2023;0
+1722;Maatschappelijke opvang;GLZ: Huisartsenpraktijken,gezondh.centra;2021;0
+1723;Maatschappelijke opvang;GLZ: Huisartsenpraktijken,gezondh.centra;2022;0
+1724;Maatschappelijke opvang;GLZ: Huisartsenpraktijken,gezondh.centra;2023;0
+1725;Maatschappelijke opvang;GLZ: Tandartsenpraktijken;2021;0
+1726;Maatschappelijke opvang;GLZ: Tandartsenpraktijken;2022;0
+1727;Maatschappelijke opvang;GLZ: Tandartsenpraktijken;2023;0
+1728;Maatschappelijke opvang;GLZ: Paramedische, verlosk. praktijken;2021;0
+1729;Maatschappelijke opvang;GLZ: Paramedische, verlosk. praktijken;2022;0
+1730;Maatschappelijke opvang;GLZ: Paramedische, verlosk. praktijken;2023;0
+1731;Maatschappelijke opvang;GLZ: Aanb. verpleging, verzorg., kraam;2021;0
+1732;Maatschappelijke opvang;GLZ: Aanb. verpleging, verzorg., kraam;2022;0
+1733;Maatschappelijke opvang;GLZ: Aanb. verpleging, verzorg., kraam;2023;0
+1734;Maatschappelijke opvang;GLZ: Aanbieders gehandicaptenzorg;2021;0
+1735;Maatschappelijke opvang;GLZ: Aanbieders gehandicaptenzorg;2022;0
+1736;Maatschappelijke opvang;GLZ: Aanbieders gehandicaptenzorg;2023;0
+1737;Maatschappelijke opvang;GLZ: Aanb. preventie,publieke gezondheid;2021;0
+1738;Maatschappelijke opvang;GLZ: Aanb. preventie,publieke gezondheid;2022;0
+1739;Maatschappelijke opvang;GLZ: Aanb. preventie,publieke gezondheid;2023;0
+1740;Maatschappelijke opvang;GLZ: Aanb. ondersteunende diensten;2021;0
+1741;Maatschappelijke opvang;GLZ: Aanb. ondersteunende diensten;2022;0
+1742;Maatschappelijke opvang;GLZ: Aanb. ondersteunende diensten;2023;0
+1743;Maatschappelijke opvang;GLZ: Aanb. overige diensten gezondheid;2021;0
+1744;Maatschappelijke opvang;GLZ: Aanb. overige diensten gezondheid;2022;0
+1745;Maatschappelijke opvang;GLZ: Aanb. overige diensten gezondheid;2023;0
+1746;Maatschappelijke opvang;WJK: Totaal aanbieders WJK;2021;1644
+1747;Maatschappelijke opvang;WJK: Totaal aanbieders WJK;2022;2530
+1748;Maatschappelijke opvang;WJK: Totaal aanbieders WJK;2023;3838
+1749;Maatschappelijke opvang;WJK: Aanbieders kinderopvang;2021;0
+1750;Maatschappelijke opvang;WJK: Aanbieders kinderopvang;2022;0
+1751;Maatschappelijke opvang;WJK: Aanbieders kinderopvang;2023;0
+1752;Maatschappelijke opvang;WJK: Aanbieders jeugdzorg;2021;168
+1753;Maatschappelijke opvang;WJK: Aanbieders jeugdzorg;2022;228
+1754;Maatschappelijke opvang;WJK: Aanbieders jeugdzorg;2023;380
+1755;Maatschappelijke opvang;WJK: Aanbieders maatschappelijke opvang;2021;1476
+1756;Maatschappelijke opvang;WJK: Aanbieders maatschappelijke opvang;2022;2302
+1757;Maatschappelijke opvang;WJK: Aanbieders maatschappelijke opvang;2023;3459
+1758;Maatschappelijke opvang;WJK: Aanb. sociaal werk, overig welzijn;2021;0
+1759;Maatschappelijke opvang;WJK: Aanb. sociaal werk, overig welzijn;2022;0
+1760;Maatschappelijke opvang;WJK: Aanb. sociaal werk, overig welzijn;2023;0
+1761;Maatschappelijke opvang;BZW: Aanb. buiten sector zorg en welzijn;2021;0
+1762;Maatschappelijke opvang;BZW: Aanb. buiten sector zorg en welzijn;2022;0
+1763;Maatschappelijke opvang;BZW: Aanb. buiten sector zorg en welzijn;2023;0
+1764;Maatschappelijke opvang;BZW: Apotheken;2021;0
+1765;Maatschappelijke opvang;BZW: Apotheken;2022;0
+1766;Maatschappelijke opvang;BZW: Apotheken;2023;0
+1767;Maatschappelijke opvang;BZW: Aanbieders van hulpmiddelen;2021;0
+1768;Maatschappelijke opvang;BZW: Aanbieders van hulpmiddelen;2022;0
+1769;Maatschappelijke opvang;BZW: Aanbieders van hulpmiddelen;2023;0
+1770;Maatschappelijke opvang;BZW: Aanb. zorg als nevenactiviteit;2021;0
+1771;Maatschappelijke opvang;BZW: Aanb. zorg als nevenactiviteit;2022;0
+1772;Maatschappelijke opvang;BZW: Aanb. zorg als nevenactiviteit;2023;0
+1773;Maatschappelijke opvang;BZW: Gezinshuishoudingen;2021;0
+1774;Maatschappelijke opvang;BZW: Gezinshuishoudingen;2022;0
+1775;Maatschappelijke opvang;BZW: Gezinshuishoudingen;2023;0
+1776;Maatschappelijke opvang;BZW: Buitenlandse aanb. zorg en welzijn;2021;0
+1777;Maatschappelijke opvang;BZW: Buitenlandse aanb. zorg en welzijn;2022;0
+1778;Maatschappelijke opvang;BZW: Buitenlandse aanb. zorg en welzijn;2023;0
+1779;Maatschappelijke opvang;BZW: Beleids- en beheerorganisaties;2021;0
+1780;Maatschappelijke opvang;BZW: Beleids- en beheerorganisaties;2022;0
+1781;Maatschappelijke opvang;BZW: Beleids- en beheerorganisaties;2023;0
+1782;Overige welzijnszorg;Totaal aanbieders zorg en welzijn;2021;3160
+1783;Overige welzijnszorg;Totaal aanbieders zorg en welzijn;2022;3790
+1784;Overige welzijnszorg;Totaal aanbieders zorg en welzijn;2023;4225
+1785;Overige welzijnszorg;GLZ: Totaal aanb. gezondh., langd. zorg;2021;291
+1786;Overige welzijnszorg;GLZ: Totaal aanb. gezondh., langd. zorg;2022;289
+1787;Overige welzijnszorg;GLZ: Totaal aanb. gezondh., langd. zorg;2023;294
+1788;Overige welzijnszorg;GLZ: Aanb. medisch specialistische zorg;2021;3
+1789;Overige welzijnszorg;GLZ: Aanb. medisch specialistische zorg;2022;4
+1790;Overige welzijnszorg;GLZ: Aanb. medisch specialistische zorg;2023;4
+1791;Overige welzijnszorg;GLZMS: Algemene ziekenhuizen;2021;0
+1792;Overige welzijnszorg;GLZMS: Algemene ziekenhuizen;2022;0
+1793;Overige welzijnszorg;GLZMS: Algemene ziekenhuizen;2023;0
+1794;Overige welzijnszorg;GLZMS: UMC's;2021;0
+1795;Overige welzijnszorg;GLZMS: UMC's;2022;0
+1796;Overige welzijnszorg;GLZMS: UMC's;2023;0
+1797;Overige welzijnszorg;GLZMS: Overige aanb. med. spec. zorg;2021;3
+1798;Overige welzijnszorg;GLZMS: Overige aanb. med. spec. zorg;2022;4
+1799;Overige welzijnszorg;GLZMS: Overige aanb. med. spec. zorg;2023;4
+1800;Overige welzijnszorg;GLZ: Aanb. geestelijke gezondheidszorg;2021;78
+1801;Overige welzijnszorg;GLZ: Aanb. geestelijke gezondheidszorg;2022;87
+1802;Overige welzijnszorg;GLZ: Aanb. geestelijke gezondheidszorg;2023;91
+1803;Overige welzijnszorg;GLZ: Huisartsenpraktijken,gezondh.centra;2021;0
+1804;Overige welzijnszorg;GLZ: Huisartsenpraktijken,gezondh.centra;2022;0
+1805;Overige welzijnszorg;GLZ: Huisartsenpraktijken,gezondh.centra;2023;0
+1806;Overige welzijnszorg;GLZ: Tandartsenpraktijken;2021;0
+1807;Overige welzijnszorg;GLZ: Tandartsenpraktijken;2022;0
+1808;Overige welzijnszorg;GLZ: Tandartsenpraktijken;2023;0
+1809;Overige welzijnszorg;GLZ: Paramedische, verlosk. praktijken;2021;0
+1810;Overige welzijnszorg;GLZ: Paramedische, verlosk. praktijken;2022;0
+1811;Overige welzijnszorg;GLZ: Paramedische, verlosk. praktijken;2023;0
+1812;Overige welzijnszorg;GLZ: Aanb. verpleging, verzorg., kraam;2021;106
+1813;Overige welzijnszorg;GLZ: Aanb. verpleging, verzorg., kraam;2022;106
+1814;Overige welzijnszorg;GLZ: Aanb. verpleging, verzorg., kraam;2023;111
+1815;Overige welzijnszorg;GLZ: Aanbieders gehandicaptenzorg;2021;23
+1816;Overige welzijnszorg;GLZ: Aanbieders gehandicaptenzorg;2022;34
+1817;Overige welzijnszorg;GLZ: Aanbieders gehandicaptenzorg;2023;35
+1818;Overige welzijnszorg;GLZ: Aanb. preventie,publieke gezondheid;2021;0
+1819;Overige welzijnszorg;GLZ: Aanb. preventie,publieke gezondheid;2022;0
+1820;Overige welzijnszorg;GLZ: Aanb. preventie,publieke gezondheid;2023;0
+1821;Overige welzijnszorg;GLZ: Aanb. ondersteunende diensten;2021;0
+1822;Overige welzijnszorg;GLZ: Aanb. ondersteunende diensten;2022;0
+1823;Overige welzijnszorg;GLZ: Aanb. ondersteunende diensten;2023;0
+1824;Overige welzijnszorg;GLZ: Aanb. overige diensten gezondheid;2021;80
+1825;Overige welzijnszorg;GLZ: Aanb. overige diensten gezondheid;2022;58
+1826;Overige welzijnszorg;GLZ: Aanb. overige diensten gezondheid;2023;52
+1827;Overige welzijnszorg;WJK: Totaal aanbieders WJK;2021;2869
+1828;Overige welzijnszorg;WJK: Totaal aanbieders WJK;2022;3502
+1829;Overige welzijnszorg;WJK: Totaal aanbieders WJK;2023;3931
+1830;Overige welzijnszorg;WJK: Aanbieders kinderopvang;2021;0
+1831;Overige welzijnszorg;WJK: Aanbieders kinderopvang;2022;0
+1832;Overige welzijnszorg;WJK: Aanbieders kinderopvang;2023;0
+1833;Overige welzijnszorg;WJK: Aanbieders jeugdzorg;2021;40
+1834;Overige welzijnszorg;WJK: Aanbieders jeugdzorg;2022;46
+1835;Overige welzijnszorg;WJK: Aanbieders jeugdzorg;2023;49
+1836;Overige welzijnszorg;WJK: Aanbieders maatschappelijke opvang;2021;21
+1837;Overige welzijnszorg;WJK: Aanbieders maatschappelijke opvang;2022;24
+1838;Overige welzijnszorg;WJK: Aanbieders maatschappelijke opvang;2023;25
+1839;Overige welzijnszorg;WJK: Aanb. sociaal werk, overig welzijn;2021;2809
+1840;Overige welzijnszorg;WJK: Aanb. sociaal werk, overig welzijn;2022;3432
+1841;Overige welzijnszorg;WJK: Aanb. sociaal werk, overig welzijn;2023;3858
+1842;Overige welzijnszorg;BZW: Aanb. buiten sector zorg en welzijn;2021;0
+1843;Overige welzijnszorg;BZW: Aanb. buiten sector zorg en welzijn;2022;0
+1844;Overige welzijnszorg;BZW: Aanb. buiten sector zorg en welzijn;2023;0
+1845;Overige welzijnszorg;BZW: Apotheken;2021;0
+1846;Overige welzijnszorg;BZW: Apotheken;2022;0
+1847;Overige welzijnszorg;BZW: Apotheken;2023;0
+1848;Overige welzijnszorg;BZW: Aanbieders van hulpmiddelen;2021;0
+1849;Overige welzijnszorg;BZW: Aanbieders van hulpmiddelen;2022;0
+1850;Overige welzijnszorg;BZW: Aanbieders van hulpmiddelen;2023;0
+1851;Overige welzijnszorg;BZW: Aanb. zorg als nevenactiviteit;2021;0
+1852;Overige welzijnszorg;BZW: Aanb. zorg als nevenactiviteit;2022;0
+1853;Overige welzijnszorg;BZW: Aanb. zorg als nevenactiviteit;2023;0
+1854;Overige welzijnszorg;BZW: Gezinshuishoudingen;2021;0
+1855;Overige welzijnszorg;BZW: Gezinshuishoudingen;2022;0
+1856;Overige welzijnszorg;BZW: Gezinshuishoudingen;2023;0
+1857;Overige welzijnszorg;BZW: Buitenlandse aanb. zorg en welzijn;2021;0
+1858;Overige welzijnszorg;BZW: Buitenlandse aanb. zorg en welzijn;2022;0
+1859;Overige welzijnszorg;BZW: Buitenlandse aanb. zorg en welzijn;2023;0
+1860;Overige welzijnszorg;BZW: Beleids- en beheerorganisaties;2021;0
+1861;Overige welzijnszorg;BZW: Beleids- en beheerorganisaties;2022;0
+1862;Overige welzijnszorg;BZW: Beleids- en beheerorganisaties;2023;0
+1863;Jeugdzorg;Totaal aanbieders zorg en welzijn;2021;5158
+1864;Jeugdzorg;Totaal aanbieders zorg en welzijn;2022;5825
+1865;Jeugdzorg;Totaal aanbieders zorg en welzijn;2023;6282
+1866;Jeugdzorg;GLZ: Totaal aanb. gezondh., langd. zorg;2021;2586
+1867;Jeugdzorg;GLZ: Totaal aanb. gezondh., langd. zorg;2022;2861
+1868;Jeugdzorg;GLZ: Totaal aanb. gezondh., langd. zorg;2023;3160
+1869;Jeugdzorg;GLZ: Aanb. medisch specialistische zorg;2021;34
+1870;Jeugdzorg;GLZ: Aanb. medisch specialistische zorg;2022;33
+1871;Jeugdzorg;GLZ: Aanb. medisch specialistische zorg;2023;34
+1872;Jeugdzorg;GLZMS: Algemene ziekenhuizen;2021;5
+1873;Jeugdzorg;GLZMS: Algemene ziekenhuizen;2022;5
+1874;Jeugdzorg;GLZMS: Algemene ziekenhuizen;2023;5
+1875;Jeugdzorg;GLZMS: UMC's;2021;19
+1876;Jeugdzorg;GLZMS: UMC's;2022;17
+1877;Jeugdzorg;GLZMS: UMC's;2023;18
+1878;Jeugdzorg;GLZMS: Overige aanb. med. spec. zorg;2021;10
+1879;Jeugdzorg;GLZMS: Overige aanb. med. spec. zorg;2022;11
+1880;Jeugdzorg;GLZMS: Overige aanb. med. spec. zorg;2023;12
+1881;Jeugdzorg;GLZ: Aanb. geestelijke gezondheidszorg;2021;1273
+1882;Jeugdzorg;GLZ: Aanb. geestelijke gezondheidszorg;2022;1496
+1883;Jeugdzorg;GLZ: Aanb. geestelijke gezondheidszorg;2023;1689
+1884;Jeugdzorg;GLZ: Huisartsenpraktijken,gezondh.centra;2021;0
+1885;Jeugdzorg;GLZ: Huisartsenpraktijken,gezondh.centra;2022;0
+1886;Jeugdzorg;GLZ: Huisartsenpraktijken,gezondh.centra;2023;0
+1887;Jeugdzorg;GLZ: Tandartsenpraktijken;2021;0
+1888;Jeugdzorg;GLZ: Tandartsenpraktijken;2022;0
+1889;Jeugdzorg;GLZ: Tandartsenpraktijken;2023;0
+1890;Jeugdzorg;GLZ: Paramedische, verlosk. praktijken;2021;34
+1891;Jeugdzorg;GLZ: Paramedische, verlosk. praktijken;2022;25
+1892;Jeugdzorg;GLZ: Paramedische, verlosk. praktijken;2023;24
+1893;Jeugdzorg;GLZ: Aanb. verpleging, verzorg., kraam;2021;139
+1894;Jeugdzorg;GLZ: Aanb. verpleging, verzorg., kraam;2022;143
+1895;Jeugdzorg;GLZ: Aanb. verpleging, verzorg., kraam;2023;171
+1896;Jeugdzorg;GLZ: Aanbieders gehandicaptenzorg;2021;1009
+1897;Jeugdzorg;GLZ: Aanbieders gehandicaptenzorg;2022;1072
+1898;Jeugdzorg;GLZ: Aanbieders gehandicaptenzorg;2023;1118
+1899;Jeugdzorg;GLZ: Aanb. preventie,publieke gezondheid;2021;13
+1900;Jeugdzorg;GLZ: Aanb. preventie,publieke gezondheid;2022;9
+1901;Jeugdzorg;GLZ: Aanb. preventie,publieke gezondheid;2023;21
+1902;Jeugdzorg;GLZ: Aanb. ondersteunende diensten;2021;0
+1903;Jeugdzorg;GLZ: Aanb. ondersteunende diensten;2022;0
+1904;Jeugdzorg;GLZ: Aanb. ondersteunende diensten;2023;0
+1905;Jeugdzorg;GLZ: Aanb. overige diensten gezondheid;2021;83
+1906;Jeugdzorg;GLZ: Aanb. overige diensten gezondheid;2022;83
+1907;Jeugdzorg;GLZ: Aanb. overige diensten gezondheid;2023;103
+1908;Jeugdzorg;WJK: Totaal aanbieders WJK;2021;2398
+1909;Jeugdzorg;WJK: Totaal aanbieders WJK;2022;2766
+1910;Jeugdzorg;WJK: Totaal aanbieders WJK;2023;2918
+1911;Jeugdzorg;WJK: Aanbieders kinderopvang;2021;36
+1912;Jeugdzorg;WJK: Aanbieders kinderopvang;2022;32
+1913;Jeugdzorg;WJK: Aanbieders kinderopvang;2023;30
+1914;Jeugdzorg;WJK: Aanbieders jeugdzorg;2021;2190
+1915;Jeugdzorg;WJK: Aanbieders jeugdzorg;2022;2487
+1916;Jeugdzorg;WJK: Aanbieders jeugdzorg;2023;2630
+1917;Jeugdzorg;WJK: Aanbieders maatschappelijke opvang;2021;100
+1918;Jeugdzorg;WJK: Aanbieders maatschappelijke opvang;2022;109
+1919;Jeugdzorg;WJK: Aanbieders maatschappelijke opvang;2023;117
+1920;Jeugdzorg;WJK: Aanb. sociaal werk, overig welzijn;2021;72
+1921;Jeugdzorg;WJK: Aanb. sociaal werk, overig welzijn;2022;137
+1922;Jeugdzorg;WJK: Aanb. sociaal werk, overig welzijn;2023;141
+1923;Jeugdzorg;BZW: Aanb. buiten sector zorg en welzijn;2021;174
+1924;Jeugdzorg;BZW: Aanb. buiten sector zorg en welzijn;2022;198
+1925;Jeugdzorg;BZW: Aanb. buiten sector zorg en welzijn;2023;204
+1926;Jeugdzorg;BZW: Apotheken;2021;0
+1927;Jeugdzorg;BZW: Apotheken;2022;0
+1928;Jeugdzorg;BZW: Apotheken;2023;0
+1929;Jeugdzorg;BZW: Aanbieders van hulpmiddelen;2021;0
+1930;Jeugdzorg;BZW: Aanbieders van hulpmiddelen;2022;0
+1931;Jeugdzorg;BZW: Aanbieders van hulpmiddelen;2023;0
+1932;Jeugdzorg;BZW: Aanb. zorg als nevenactiviteit;2021;112
+1933;Jeugdzorg;BZW: Aanb. zorg als nevenactiviteit;2022;145
+1934;Jeugdzorg;BZW: Aanb. zorg als nevenactiviteit;2023;156
+1935;Jeugdzorg;BZW: Gezinshuishoudingen;2021;62
+1936;Jeugdzorg;BZW: Gezinshuishoudingen;2022;54
+1937;Jeugdzorg;BZW: Gezinshuishoudingen;2023;49
+1938;Jeugdzorg;BZW: Buitenlandse aanb. zorg en welzijn;2021;0
+1939;Jeugdzorg;BZW: Buitenlandse aanb. zorg en welzijn;2022;0
+1940;Jeugdzorg;BZW: Buitenlandse aanb. zorg en welzijn;2023;0
+1941;Jeugdzorg;BZW: Beleids- en beheerorganisaties;2021;0
+1942;Jeugdzorg;BZW: Beleids- en beheerorganisaties;2022;0
+1943;Jeugdzorg;BZW: Beleids- en beheerorganisaties;2023;0
+1944;Kinderopvang;Totaal aanbieders zorg en welzijn;2021;5521
+1945;Kinderopvang;Totaal aanbieders zorg en welzijn;2022;6220
+1946;Kinderopvang;Totaal aanbieders zorg en welzijn;2023;7182
+1947;Kinderopvang;GLZ: Totaal aanb. gezondh., langd. zorg;2021;0
+1948;Kinderopvang;GLZ: Totaal aanb. gezondh., langd. zorg;2022;0
+1949;Kinderopvang;GLZ: Totaal aanb. gezondh., langd. zorg;2023;0
+1950;Kinderopvang;GLZ: Aanb. medisch specialistische zorg;2021;0
+1951;Kinderopvang;GLZ: Aanb. medisch specialistische zorg;2022;0
+1952;Kinderopvang;GLZ: Aanb. medisch specialistische zorg;2023;0
+1953;Kinderopvang;GLZMS: Algemene ziekenhuizen;2021;0
+1954;Kinderopvang;GLZMS: Algemene ziekenhuizen;2022;0
+1955;Kinderopvang;GLZMS: Algemene ziekenhuizen;2023;0
+1956;Kinderopvang;GLZMS: UMC's;2021;0
+1957;Kinderopvang;GLZMS: UMC's;2022;0
+1958;Kinderopvang;GLZMS: UMC's;2023;0
+1959;Kinderopvang;GLZMS: Overige aanb. med. spec. zorg;2021;0
+1960;Kinderopvang;GLZMS: Overige aanb. med. spec. zorg;2022;0
+1961;Kinderopvang;GLZMS: Overige aanb. med. spec. zorg;2023;0
+1962;Kinderopvang;GLZ: Aanb. geestelijke gezondheidszorg;2021;0
+1963;Kinderopvang;GLZ: Aanb. geestelijke gezondheidszorg;2022;0
+1964;Kinderopvang;GLZ: Aanb. geestelijke gezondheidszorg;2023;0
+1965;Kinderopvang;GLZ: Huisartsenpraktijken,gezondh.centra;2021;0
+1966;Kinderopvang;GLZ: Huisartsenpraktijken,gezondh.centra;2022;0
+1967;Kinderopvang;GLZ: Huisartsenpraktijken,gezondh.centra;2023;0
+1968;Kinderopvang;GLZ: Tandartsenpraktijken;2021;0
+1969;Kinderopvang;GLZ: Tandartsenpraktijken;2022;0
+1970;Kinderopvang;GLZ: Tandartsenpraktijken;2023;0
+1971;Kinderopvang;GLZ: Paramedische, verlosk. praktijken;2021;0
+1972;Kinderopvang;GLZ: Paramedische, verlosk. praktijken;2022;0
+1973;Kinderopvang;GLZ: Paramedische, verlosk. praktijken;2023;0
+1974;Kinderopvang;GLZ: Aanb. verpleging, verzorg., kraam;2021;0
+1975;Kinderopvang;GLZ: Aanb. verpleging, verzorg., kraam;2022;0
+1976;Kinderopvang;GLZ: Aanb. verpleging, verzorg., kraam;2023;0
+1977;Kinderopvang;GLZ: Aanbieders gehandicaptenzorg;2021;0
+1978;Kinderopvang;GLZ: Aanbieders gehandicaptenzorg;2022;0
+1979;Kinderopvang;GLZ: Aanbieders gehandicaptenzorg;2023;0
+1980;Kinderopvang;GLZ: Aanb. preventie,publieke gezondheid;2021;0
+1981;Kinderopvang;GLZ: Aanb. preventie,publieke gezondheid;2022;0
+1982;Kinderopvang;GLZ: Aanb. preventie,publieke gezondheid;2023;0
+1983;Kinderopvang;GLZ: Aanb. ondersteunende diensten;2021;0
+1984;Kinderopvang;GLZ: Aanb. ondersteunende diensten;2022;0
+1985;Kinderopvang;GLZ: Aanb. ondersteunende diensten;2023;0
+1986;Kinderopvang;GLZ: Aanb. overige diensten gezondheid;2021;0
+1987;Kinderopvang;GLZ: Aanb. overige diensten gezondheid;2022;0
+1988;Kinderopvang;GLZ: Aanb. overige diensten gezondheid;2023;0
+1989;Kinderopvang;WJK: Totaal aanbieders WJK;2021;5521
+1990;Kinderopvang;WJK: Totaal aanbieders WJK;2022;6220
+1991;Kinderopvang;WJK: Totaal aanbieders WJK;2023;7182
+1992;Kinderopvang;WJK: Aanbieders kinderopvang;2021;5521
+1993;Kinderopvang;WJK: Aanbieders kinderopvang;2022;6220
+1994;Kinderopvang;WJK: Aanbieders kinderopvang;2023;7182
+1995;Kinderopvang;WJK: Aanbieders jeugdzorg;2021;0
+1996;Kinderopvang;WJK: Aanbieders jeugdzorg;2022;0
+1997;Kinderopvang;WJK: Aanbieders jeugdzorg;2023;0
+1998;Kinderopvang;WJK: Aanbieders maatschappelijke opvang;2021;0
+1999;Kinderopvang;WJK: Aanbieders maatschappelijke opvang;2022;0
+2000;Kinderopvang;WJK: Aanbieders maatschappelijke opvang;2023;0
+2001;Kinderopvang;WJK: Aanb. sociaal werk, overig welzijn;2021;0
+2002;Kinderopvang;WJK: Aanb. sociaal werk, overig welzijn;2022;0
+2003;Kinderopvang;WJK: Aanb. sociaal werk, overig welzijn;2023;0
+2004;Kinderopvang;BZW: Aanb. buiten sector zorg en welzijn;2021;0
+2005;Kinderopvang;BZW: Aanb. buiten sector zorg en welzijn;2022;0
+2006;Kinderopvang;BZW: Aanb. buiten sector zorg en welzijn;2023;0
+2007;Kinderopvang;BZW: Apotheken;2021;0
+2008;Kinderopvang;BZW: Apotheken;2022;0
+2009;Kinderopvang;BZW: Apotheken;2023;0
+2010;Kinderopvang;BZW: Aanbieders van hulpmiddelen;2021;0
+2011;Kinderopvang;BZW: Aanbieders van hulpmiddelen;2022;0
+2012;Kinderopvang;BZW: Aanbieders van hulpmiddelen;2023;0
+2013;Kinderopvang;BZW: Aanb. zorg als nevenactiviteit;2021;0
+2014;Kinderopvang;BZW: Aanb. zorg als nevenactiviteit;2022;0
+2015;Kinderopvang;BZW: Aanb. zorg als nevenactiviteit;2023;0
+2016;Kinderopvang;BZW: Gezinshuishoudingen;2021;0
+2017;Kinderopvang;BZW: Gezinshuishoudingen;2022;0
+2018;Kinderopvang;BZW: Gezinshuishoudingen;2023;0
+2019;Kinderopvang;BZW: Buitenlandse aanb. zorg en welzijn;2021;0
+2020;Kinderopvang;BZW: Buitenlandse aanb. zorg en welzijn;2022;0
+2021;Kinderopvang;BZW: Buitenlandse aanb. zorg en welzijn;2023;0
+2022;Kinderopvang;BZW: Beleids- en beheerorganisaties;2021;0
+2023;Kinderopvang;BZW: Beleids- en beheerorganisaties;2022;0
+2024;Kinderopvang;BZW: Beleids- en beheerorganisaties;2023;0
+2025;Opleiding;Totaal aanbieders zorg en welzijn;2021;1499
+2026;Opleiding;Totaal aanbieders zorg en welzijn;2022;1570
+2027;Opleiding;Totaal aanbieders zorg en welzijn;2023;1714
+2028;Opleiding;GLZ: Totaal aanb. gezondh., langd. zorg;2021;1493
+2029;Opleiding;GLZ: Totaal aanb. gezondh., langd. zorg;2022;1565
+2030;Opleiding;GLZ: Totaal aanb. gezondh., langd. zorg;2023;1708
+2031;Opleiding;GLZ: Aanb. medisch specialistische zorg;2021;1050
+2032;Opleiding;GLZ: Aanb. medisch specialistische zorg;2022;1080
+2033;Opleiding;GLZ: Aanb. medisch specialistische zorg;2023;1182
+2034;Opleiding;GLZMS: Algemene ziekenhuizen;2021;538
+2035;Opleiding;GLZMS: Algemene ziekenhuizen;2022;572
+2036;Opleiding;GLZMS: Algemene ziekenhuizen;2023;626
+2037;Opleiding;GLZMS: UMC's;2021;487
+2038;Opleiding;GLZMS: UMC's;2022;481
+2039;Opleiding;GLZMS: UMC's;2023;526
+2040;Opleiding;GLZMS: Overige aanb. med. spec. zorg;2021;25
+2041;Opleiding;GLZMS: Overige aanb. med. spec. zorg;2022;27
+2042;Opleiding;GLZMS: Overige aanb. med. spec. zorg;2023;30
+2043;Opleiding;GLZ: Aanb. geestelijke gezondheidszorg;2021;149
+2044;Opleiding;GLZ: Aanb. geestelijke gezondheidszorg;2022;159
+2045;Opleiding;GLZ: Aanb. geestelijke gezondheidszorg;2023;175
+2046;Opleiding;GLZ: Huisartsenpraktijken,gezondh.centra;2021;17
+2047;Opleiding;GLZ: Huisartsenpraktijken,gezondh.centra;2022;17
+2048;Opleiding;GLZ: Huisartsenpraktijken,gezondh.centra;2023;18
+2049;Opleiding;GLZ: Tandartsenpraktijken;2021;0
+2050;Opleiding;GLZ: Tandartsenpraktijken;2022;0
+2051;Opleiding;GLZ: Tandartsenpraktijken;2023;0
+2052;Opleiding;GLZ: Paramedische, verlosk. praktijken;2021;0
+2053;Opleiding;GLZ: Paramedische, verlosk. praktijken;2022;0
+2054;Opleiding;GLZ: Paramedische, verlosk. praktijken;2023;0
+2055;Opleiding;GLZ: Aanb. verpleging, verzorg., kraam;2021;18
+2056;Opleiding;GLZ: Aanb. verpleging, verzorg., kraam;2022;18
+2057;Opleiding;GLZ: Aanb. verpleging, verzorg., kraam;2023;21
+2058;Opleiding;GLZ: Aanbieders gehandicaptenzorg;2021;8
+2059;Opleiding;GLZ: Aanbieders gehandicaptenzorg;2022;12
+2060;Opleiding;GLZ: Aanbieders gehandicaptenzorg;2023;12
+2061;Opleiding;GLZ: Aanb. preventie,publieke gezondheid;2021;0
+2062;Opleiding;GLZ: Aanb. preventie,publieke gezondheid;2022;0
+2063;Opleiding;GLZ: Aanb. preventie,publieke gezondheid;2023;0
+2064;Opleiding;GLZ: Aanb. ondersteunende diensten;2021;0
+2065;Opleiding;GLZ: Aanb. ondersteunende diensten;2022;0
+2066;Opleiding;GLZ: Aanb. ondersteunende diensten;2023;0
+2067;Opleiding;GLZ: Aanb. overige diensten gezondheid;2021;252
+2068;Opleiding;GLZ: Aanb. overige diensten gezondheid;2022;278
+2069;Opleiding;GLZ: Aanb. overige diensten gezondheid;2023;299
+2070;Opleiding;WJK: Totaal aanbieders WJK;2021;5
+2071;Opleiding;WJK: Totaal aanbieders WJK;2022;6
+2072;Opleiding;WJK: Totaal aanbieders WJK;2023;6
+2073;Opleiding;WJK: Aanbieders kinderopvang;2021;0
+2074;Opleiding;WJK: Aanbieders kinderopvang;2022;0
+2075;Opleiding;WJK: Aanbieders kinderopvang;2023;0
+2076;Opleiding;WJK: Aanbieders jeugdzorg;2021;5
+2077;Opleiding;WJK: Aanbieders jeugdzorg;2022;6
+2078;Opleiding;WJK: Aanbieders jeugdzorg;2023;6
+2079;Opleiding;WJK: Aanbieders maatschappelijke opvang;2021;0
+2080;Opleiding;WJK: Aanbieders maatschappelijke opvang;2022;0
+2081;Opleiding;WJK: Aanbieders maatschappelijke opvang;2023;0
+2082;Opleiding;WJK: Aanb. sociaal werk, overig welzijn;2021;0
+2083;Opleiding;WJK: Aanb. sociaal werk, overig welzijn;2022;0
+2084;Opleiding;WJK: Aanb. sociaal werk, overig welzijn;2023;0
+2085;Opleiding;BZW: Aanb. buiten sector zorg en welzijn;2021;0
+2086;Opleiding;BZW: Aanb. buiten sector zorg en welzijn;2022;0
+2087;Opleiding;BZW: Aanb. buiten sector zorg en welzijn;2023;0
+2088;Opleiding;BZW: Apotheken;2021;0
+2089;Opleiding;BZW: Apotheken;2022;0
+2090;Opleiding;BZW: Apotheken;2023;0
+2091;Opleiding;BZW: Aanbieders van hulpmiddelen;2021;0
+2092;Opleiding;BZW: Aanbieders van hulpmiddelen;2022;0
+2093;Opleiding;BZW: Aanbieders van hulpmiddelen;2023;0
+2094;Opleiding;BZW: Aanb. zorg als nevenactiviteit;2021;0
+2095;Opleiding;BZW: Aanb. zorg als nevenactiviteit;2022;0
+2096;Opleiding;BZW: Aanb. zorg als nevenactiviteit;2023;0
+2097;Opleiding;BZW: Gezinshuishoudingen;2021;0
+2098;Opleiding;BZW: Gezinshuishoudingen;2022;0
+2099;Opleiding;BZW: Gezinshuishoudingen;2023;0
+2100;Opleiding;BZW: Buitenlandse aanb. zorg en welzijn;2021;0
+2101;Opleiding;BZW: Buitenlandse aanb. zorg en welzijn;2022;0
+2102;Opleiding;BZW: Buitenlandse aanb. zorg en welzijn;2023;0
+2103;Opleiding;BZW: Beleids- en beheerorganisaties;2021;0
+2104;Opleiding;BZW: Beleids- en beheerorganisaties;2022;0
+2105;Opleiding;BZW: Beleids- en beheerorganisaties;2023;0
+2106;R&D;Totaal aanbieders zorg en welzijn;2021;1428
+2107;R&D;Totaal aanbieders zorg en welzijn;2022;1495
+2108;R&D;Totaal aanbieders zorg en welzijn;2023;1601
+2109;R&D;GLZ: Totaal aanb. gezondh., langd. zorg;2021;1428
+2110;R&D;GLZ: Totaal aanb. gezondh., langd. zorg;2022;1495
+2111;R&D;GLZ: Totaal aanb. gezondh., langd. zorg;2023;1601
+2112;R&D;GLZ: Aanb. medisch specialistische zorg;2021;1428
+2113;R&D;GLZ: Aanb. medisch specialistische zorg;2022;1495
+2114;R&D;GLZ: Aanb. medisch specialistische zorg;2023;1601
+2115;R&D;GLZMS: Algemene ziekenhuizen;2021;0
+2116;R&D;GLZMS: Algemene ziekenhuizen;2022;0
+2117;R&D;GLZMS: Algemene ziekenhuizen;2023;0
+2118;R&D;GLZMS: UMC's;2021;1428
+2119;R&D;GLZMS: UMC's;2022;1495
+2120;R&D;GLZMS: UMC's;2023;1601
+2121;R&D;GLZMS: Overige aanb. med. spec. zorg;2021;0
+2122;R&D;GLZMS: Overige aanb. med. spec. zorg;2022;0
+2123;R&D;GLZMS: Overige aanb. med. spec. zorg;2023;0
+2124;R&D;GLZ: Aanb. geestelijke gezondheidszorg;2021;0
+2125;R&D;GLZ: Aanb. geestelijke gezondheidszorg;2022;0
+2126;R&D;GLZ: Aanb. geestelijke gezondheidszorg;2023;0
+2127;R&D;GLZ: Huisartsenpraktijken,gezondh.centra;2021;0
+2128;R&D;GLZ: Huisartsenpraktijken,gezondh.centra;2022;0
+2129;R&D;GLZ: Huisartsenpraktijken,gezondh.centra;2023;0
+2130;R&D;GLZ: Tandartsenpraktijken;2021;0
+2131;R&D;GLZ: Tandartsenpraktijken;2022;0
+2132;R&D;GLZ: Tandartsenpraktijken;2023;0
+2133;R&D;GLZ: Paramedische, verlosk. praktijken;2021;0
+2134;R&D;GLZ: Paramedische, verlosk. praktijken;2022;0
+2135;R&D;GLZ: Paramedische, verlosk. praktijken;2023;0
+2136;R&D;GLZ: Aanb. verpleging, verzorg., kraam;2021;0
+2137;R&D;GLZ: Aanb. verpleging, verzorg., kraam;2022;0
+2138;R&D;GLZ: Aanb. verpleging, verzorg., kraam;2023;0
+2139;R&D;GLZ: Aanbieders gehandicaptenzorg;2021;0
+2140;R&D;GLZ: Aanbieders gehandicaptenzorg;2022;0
+2141;R&D;GLZ: Aanbieders gehandicaptenzorg;2023;0
+2142;R&D;GLZ: Aanb. preventie,publieke gezondheid;2021;0
+2143;R&D;GLZ: Aanb. preventie,publieke gezondheid;2022;0
+2144;R&D;GLZ: Aanb. preventie,publieke gezondheid;2023;0
+2145;R&D;GLZ: Aanb. ondersteunende diensten;2021;0
+2146;R&D;GLZ: Aanb. ondersteunende diensten;2022;0
+2147;R&D;GLZ: Aanb. ondersteunende diensten;2023;0
+2148;R&D;GLZ: Aanb. overige diensten gezondheid;2021;0
+2149;R&D;GLZ: Aanb. overige diensten gezondheid;2022;0
+2150;R&D;GLZ: Aanb. overige diensten gezondheid;2023;0
+2151;R&D;WJK: Totaal aanbieders WJK;2021;0
+2152;R&D;WJK: Totaal aanbieders WJK;2022;0
+2153;R&D;WJK: Totaal aanbieders WJK;2023;0
+2154;R&D;WJK: Aanbieders kinderopvang;2021;0
+2155;R&D;WJK: Aanbieders kinderopvang;2022;0
+2156;R&D;WJK: Aanbieders kinderopvang;2023;0
+2157;R&D;WJK: Aanbieders jeugdzorg;2021;0
+2158;R&D;WJK: Aanbieders jeugdzorg;2022;0
+2159;R&D;WJK: Aanbieders jeugdzorg;2023;0
+2160;R&D;WJK: Aanbieders maatschappelijke opvang;2021;0
+2161;R&D;WJK: Aanbieders maatschappelijke opvang;2022;0
+2162;R&D;WJK: Aanbieders maatschappelijke opvang;2023;0
+2163;R&D;WJK: Aanb. sociaal werk, overig welzijn;2021;0
+2164;R&D;WJK: Aanb. sociaal werk, overig welzijn;2022;0
+2165;R&D;WJK: Aanb. sociaal werk, overig welzijn;2023;0
+2166;R&D;BZW: Aanb. buiten sector zorg en welzijn;2021;0
+2167;R&D;BZW: Aanb. buiten sector zorg en welzijn;2022;0
+2168;R&D;BZW: Aanb. buiten sector zorg en welzijn;2023;0
+2169;R&D;BZW: Apotheken;2021;0
+2170;R&D;BZW: Apotheken;2022;0
+2171;R&D;BZW: Apotheken;2023;0
+2172;R&D;BZW: Aanbieders van hulpmiddelen;2021;0
+2173;R&D;BZW: Aanbieders van hulpmiddelen;2022;0
+2174;R&D;BZW: Aanbieders van hulpmiddelen;2023;0
+2175;R&D;BZW: Aanb. zorg als nevenactiviteit;2021;0
+2176;R&D;BZW: Aanb. zorg als nevenactiviteit;2022;0
+2177;R&D;BZW: Aanb. zorg als nevenactiviteit;2023;0
+2178;R&D;BZW: Gezinshuishoudingen;2021;0
+2179;R&D;BZW: Gezinshuishoudingen;2022;0
+2180;R&D;BZW: Gezinshuishoudingen;2023;0
+2181;R&D;BZW: Buitenlandse aanb. zorg en welzijn;2021;0
+2182;R&D;BZW: Buitenlandse aanb. zorg en welzijn;2022;0
+2183;R&D;BZW: Buitenlandse aanb. zorg en welzijn;2023;0
+2184;R&D;BZW: Beleids- en beheerorganisaties;2021;0
+2185;R&D;BZW: Beleids- en beheerorganisaties;2022;0
+2186;R&D;BZW: Beleids- en beheerorganisaties;2023;0
+2187;Beleid en beheer;Totaal aanbieders zorg en welzijn;2021;3677
+2188;Beleid en beheer;Totaal aanbieders zorg en welzijn;2022;3758
+2189;Beleid en beheer;Totaal aanbieders zorg en welzijn;2023;3825
+2190;Beleid en beheer;GLZ: Totaal aanb. gezondh., langd. zorg;2021;25
+2191;Beleid en beheer;GLZ: Totaal aanb. gezondh., langd. zorg;2022;23
+2192;Beleid en beheer;GLZ: Totaal aanb. gezondh., langd. zorg;2023;24
+2193;Beleid en beheer;GLZ: Aanb. medisch specialistische zorg;2021;0
+2194;Beleid en beheer;GLZ: Aanb. medisch specialistische zorg;2022;0
+2195;Beleid en beheer;GLZ: Aanb. medisch specialistische zorg;2023;0
+2196;Beleid en beheer;GLZMS: Algemene ziekenhuizen;2021;0
+2197;Beleid en beheer;GLZMS: Algemene ziekenhuizen;2022;0
+2198;Beleid en beheer;GLZMS: Algemene ziekenhuizen;2023;0
+2199;Beleid en beheer;GLZMS: UMC's;2021;0
+2200;Beleid en beheer;GLZMS: UMC's;2022;0
+2201;Beleid en beheer;GLZMS: UMC's;2023;0
+2202;Beleid en beheer;GLZMS: Overige aanb. med. spec. zorg;2021;0
+2203;Beleid en beheer;GLZMS: Overige aanb. med. spec. zorg;2022;0
+2204;Beleid en beheer;GLZMS: Overige aanb. med. spec. zorg;2023;0
+2205;Beleid en beheer;GLZ: Aanb. geestelijke gezondheidszorg;2021;0
+2206;Beleid en beheer;GLZ: Aanb. geestelijke gezondheidszorg;2022;0
+2207;Beleid en beheer;GLZ: Aanb. geestelijke gezondheidszorg;2023;0
+2208;Beleid en beheer;GLZ: Huisartsenpraktijken,gezondh.centra;2021;0
+2209;Beleid en beheer;GLZ: Huisartsenpraktijken,gezondh.centra;2022;0
+2210;Beleid en beheer;GLZ: Huisartsenpraktijken,gezondh.centra;2023;0
+2211;Beleid en beheer;GLZ: Tandartsenpraktijken;2021;0
+2212;Beleid en beheer;GLZ: Tandartsenpraktijken;2022;0
+2213;Beleid en beheer;GLZ: Tandartsenpraktijken;2023;0
+2214;Beleid en beheer;GLZ: Paramedische, verlosk. praktijken;2021;0
+2215;Beleid en beheer;GLZ: Paramedische, verlosk. praktijken;2022;0
+2216;Beleid en beheer;GLZ: Paramedische, verlosk. praktijken;2023;0
+2217;Beleid en beheer;GLZ: Aanb. verpleging, verzorg., kraam;2021;0
+2218;Beleid en beheer;GLZ: Aanb. verpleging, verzorg., kraam;2022;0
+2219;Beleid en beheer;GLZ: Aanb. verpleging, verzorg., kraam;2023;0
+2220;Beleid en beheer;GLZ: Aanbieders gehandicaptenzorg;2021;0
+2221;Beleid en beheer;GLZ: Aanbieders gehandicaptenzorg;2022;0
+2222;Beleid en beheer;GLZ: Aanbieders gehandicaptenzorg;2023;0
+2223;Beleid en beheer;GLZ: Aanb. preventie,publieke gezondheid;2021;25
+2224;Beleid en beheer;GLZ: Aanb. preventie,publieke gezondheid;2022;23
+2225;Beleid en beheer;GLZ: Aanb. preventie,publieke gezondheid;2023;24
+2226;Beleid en beheer;GLZ: Aanb. ondersteunende diensten;2021;0
+2227;Beleid en beheer;GLZ: Aanb. ondersteunende diensten;2022;0
+2228;Beleid en beheer;GLZ: Aanb. ondersteunende diensten;2023;0
+2229;Beleid en beheer;GLZ: Aanb. overige diensten gezondheid;2021;0
+2230;Beleid en beheer;GLZ: Aanb. overige diensten gezondheid;2022;0
+2231;Beleid en beheer;GLZ: Aanb. overige diensten gezondheid;2023;0
+2232;Beleid en beheer;WJK: Totaal aanbieders WJK;2021;0
+2233;Beleid en beheer;WJK: Totaal aanbieders WJK;2022;0
+2234;Beleid en beheer;WJK: Totaal aanbieders WJK;2023;0
+2235;Beleid en beheer;WJK: Aanbieders kinderopvang;2021;0
+2236;Beleid en beheer;WJK: Aanbieders kinderopvang;2022;0
+2237;Beleid en beheer;WJK: Aanbieders kinderopvang;2023;0
+2238;Beleid en beheer;WJK: Aanbieders jeugdzorg;2021;0
+2239;Beleid en beheer;WJK: Aanbieders jeugdzorg;2022;0
+2240;Beleid en beheer;WJK: Aanbieders jeugdzorg;2023;0
+2241;Beleid en beheer;WJK: Aanbieders maatschappelijke opvang;2021;0
+2242;Beleid en beheer;WJK: Aanbieders maatschappelijke opvang;2022;0
+2243;Beleid en beheer;WJK: Aanbieders maatschappelijke opvang;2023;0
+2244;Beleid en beheer;WJK: Aanb. sociaal werk, overig welzijn;2021;0
+2245;Beleid en beheer;WJK: Aanb. sociaal werk, overig welzijn;2022;0
+2246;Beleid en beheer;WJK: Aanb. sociaal werk, overig welzijn;2023;0
+2247;Beleid en beheer;BZW: Aanb. buiten sector zorg en welzijn;2021;3653
+2248;Beleid en beheer;BZW: Aanb. buiten sector zorg en welzijn;2022;3735
+2249;Beleid en beheer;BZW: Aanb. buiten sector zorg en welzijn;2023;3801
+2250;Beleid en beheer;BZW: Apotheken;2021;0
+2251;Beleid en beheer;BZW: Apotheken;2022;0
+2252;Beleid en beheer;BZW: Apotheken;2023;0
+2253;Beleid en beheer;BZW: Aanbieders van hulpmiddelen;2021;0
+2254;Beleid en beheer;BZW: Aanbieders van hulpmiddelen;2022;0
+2255;Beleid en beheer;BZW: Aanbieders van hulpmiddelen;2023;0
+2256;Beleid en beheer;BZW: Aanb. zorg als nevenactiviteit;2021;0
+2257;Beleid en beheer;BZW: Aanb. zorg als nevenactiviteit;2022;0
+2258;Beleid en beheer;BZW: Aanb. zorg als nevenactiviteit;2023;0
+2259;Beleid en beheer;BZW: Gezinshuishoudingen;2021;0
+2260;Beleid en beheer;BZW: Gezinshuishoudingen;2022;0
+2261;Beleid en beheer;BZW: Gezinshuishoudingen;2023;0
+2262;Beleid en beheer;BZW: Buitenlandse aanb. zorg en welzijn;2021;0
+2263;Beleid en beheer;BZW: Buitenlandse aanb. zorg en welzijn;2022;0
+2264;Beleid en beheer;BZW: Buitenlandse aanb. zorg en welzijn;2023;0
+2265;Beleid en beheer;BZW: Beleids- en beheerorganisaties;2021;3653
+2266;Beleid en beheer;BZW: Beleids- en beheerorganisaties;2022;3735
+2267;Beleid en beheer;BZW: Beleids- en beheerorganisaties;2023;3801

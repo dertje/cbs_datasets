@@ -1,0 +1,171 @@
+﻿ID;Leeftijden;Herkomst;Perioden;PersonenMetEenBetalingsachterstand_1;PersMetBetalingsachterstandRelatief_2
+0;20300;Totaal;2022;158980;1.1
+1;20300;Totaal;2023;166070;1.1
+2;20300;Herkomst: geboren in Nederland;2022;109550;0.9
+3;20300;Herkomst: geboren in Nederland;2023;112910;0.9
+4;20300;Herkomst: geb. in NL, ouders in NL;2022;72960;0.7
+5;20300;Herkomst: geb. in NL, ouders in NL;2023;73660;0.7
+6;20300;Herkomst: geb. in NL, ouder(s) buiten NL;2022;36580;2.8
+7;20300;Herkomst: geb. in NL, ouder(s) buiten NL;2023;39250;2.9
+8;20300;Herkomst: geb. in NL, 1 ouder geboren NL;2022;10380;1.4
+9;20300;Herkomst: geb. in NL, 1 ouder geboren NL;2023;10970;1.4
+10;20300;Herkomst: geb. in NL, 2 ouders buiten NL;2022;26200;4.6
+11;20300;Herkomst: geb. in NL, 2 ouders buiten NL;2023;28290;4.8
+12;20300;Herkomst: geboren buiten Nederland;2022;49440;2.0
+13;20300;Herkomst: geboren buiten Nederland;2023;53160;2.0
+14;20300;Herkomstland: Nederland;2022;72960;0.7
+15;20300;Herkomstland: Nederland;2023;73660;0.7
+16;20300;Herkomstland: buiten Nederland;2022;86020;2.2
+17;20300;Herkomstland: buiten Nederland;2023;92410;2.3
+18;20300;Herkomstland: Europa (excl. Nederland);2022;20860;1.6
+19;20300;Herkomstland: Europa (excl. Nederland);2023;23240;1.7
+20;20300;Herkomstland: buiten Europa;2022;65160;2.6
+21;20300;Herkomstland: buiten Europa;2023;69170;2.6
+22;20300;Herkomstland: Marokko;2022;11980;3.8
+23;20300;Herkomstland: Marokko;2023;12940;4.0
+24;20300;Herkomstland: Turkije;2022;9370;2.6
+25;20300;Herkomstland: Turkije;2023;9770;2.7
+26;20300;Herkomstland: Suriname;2022;12660;4.1
+27;20300;Herkomstland: Suriname;2023;12900;4.1
+28;20300;Herkomstland: Nederlandse Cariben;2022;9230;6.4
+29;20300;Herkomstland: Nederlandse Cariben;2023;9730;6.5
+30;20300;Herkomstland: Indonesië;2022;3970;1.1
+31;20300;Herkomstland: Indonesië;2023;3940;1.1
+32;20300;Herkomstland: Buiten Europa (excl. 5 ...;2022;17950;1.7
+33;20300;Herkomstland: Buiten Europa (excl. 5 ...;2023;19890;1.8
+34;53110;Totaal;2022;64500;1.6
+35;53110;Totaal;2023;68690;1.7
+36;53110;Herkomst: geboren in Nederland;2022;46690;1.5
+37;53110;Herkomst: geboren in Nederland;2023;49160;1.6
+38;53110;Herkomst: geb. in NL, ouders in NL;2022;23810;0.9
+39;53110;Herkomst: geb. in NL, ouders in NL;2023;24700;1.0
+40;53110;Herkomst: geb. in NL, ouder(s) buiten NL;2022;22880;3.8
+41;53110;Herkomst: geb. in NL, ouder(s) buiten NL;2023;24460;4.0
+42;53110;Herkomst: geb. in NL, 1 ouder geboren NL;2022;5230;2.0
+43;53110;Herkomst: geb. in NL, 1 ouder geboren NL;2023;5630;2.1
+44;53110;Herkomst: geb. in NL, 2 ouders buiten NL;2022;17660;5.2
+45;53110;Herkomst: geb. in NL, 2 ouders buiten NL;2023;18840;5.5
+46;53110;Herkomst: geboren buiten Nederland;2022;17810;2.3
+47;53110;Herkomst: geboren buiten Nederland;2023;19530;2.3
+48;53110;Herkomstland: Nederland;2022;23810;0.9
+49;53110;Herkomstland: Nederland;2023;24700;1.0
+50;53110;Herkomstland: buiten Nederland;2022;40690;2.9
+51;53110;Herkomstland: buiten Nederland;2023;43990;3.0
+52;53110;Herkomstland: Europa (excl. Nederland);2022;8940;1.9
+53;53110;Herkomstland: Europa (excl. Nederland);2023;10000;2.0
+54;53110;Herkomstland: buiten Europa;2022;31760;3.5
+55;53110;Herkomstland: buiten Europa;2023;33990;3.6
+56;53110;Herkomstland: Marokko;2022;7110;5.9
+57;53110;Herkomstland: Marokko;2023;7640;6.3
+58;53110;Herkomstland: Turkije;2022;4060;3.0
+59;53110;Herkomstland: Turkije;2023;4260;3.1
+60;53110;Herkomstland: Suriname;2022;5210;5.7
+61;53110;Herkomstland: Suriname;2023;5220;5.8
+62;53110;Herkomstland: Nederlandse Cariben;2022;4860;8.1
+63;53110;Herkomstland: Nederlandse Cariben;2023;5120;8.4
+64;53110;Herkomstland: Indonesië;2022;510;1.5
+65;53110;Herkomstland: Indonesië;2023;520;1.6
+66;53110;Herkomstland: Buiten Europa (excl. 5 ...;2022;10000;2.2
+67;53110;Herkomstland: Buiten Europa (excl. 5 ...;2023;11220;2.3
+68;53705;Totaal;2022;53080;1.6
+69;53705;Totaal;2023;55820;1.7
+70;53705;Herkomst: geboren in Nederland;2022;34430;1.4
+71;53705;Herkomst: geboren in Nederland;2023;35730;1.5
+72;53705;Herkomst: geb. in NL, ouders in NL;2022;24090;1.1
+73;53705;Herkomst: geb. in NL, ouders in NL;2023;24400;1.2
+74;53705;Herkomst: geb. in NL, ouder(s) buiten NL;2022;10340;3.3
+75;53705;Herkomst: geb. in NL, ouder(s) buiten NL;2023;11330;3.5
+76;53705;Herkomst: geb. in NL, 1 ouder geboren NL;2022;3030;1.9
+77;53705;Herkomst: geb. in NL, 1 ouder geboren NL;2023;3200;2.0
+78;53705;Herkomst: geb. in NL, 2 ouders buiten NL;2022;7310;4.8
+79;53705;Herkomst: geb. in NL, 2 ouders buiten NL;2023;8130;4.9
+80;53705;Herkomst: geboren buiten Nederland;2022;18650;2.4
+81;53705;Herkomst: geboren buiten Nederland;2023;20090;2.5
+82;53705;Herkomstland: Nederland;2022;24090;1.1
+83;53705;Herkomstland: Nederland;2023;24400;1.2
+84;53705;Herkomstland: buiten Nederland;2022;28990;2.6
+85;53705;Herkomstland: buiten Nederland;2023;31420;2.7
+86;53705;Herkomstland: Europa (excl. Nederland);2022;7970;2.3
+87;53705;Herkomstland: Europa (excl. Nederland);2023;9000;2.4
+88;53705;Herkomstland: buiten Europa;2022;21020;2.8
+89;53705;Herkomstland: buiten Europa;2023;22430;2.9
+90;53705;Herkomstland: Marokko;2022;3710;3.8
+91;53705;Herkomstland: Marokko;2023;4050;4.1
+92;53705;Herkomstland: Turkije;2022;3450;3.0
+93;53705;Herkomstland: Turkije;2023;3520;3.0
+94;53705;Herkomstland: Suriname;2022;4560;5.4
+95;53705;Herkomstland: Suriname;2023;4750;5.6
+96;53705;Herkomstland: Nederlandse Cariben;2022;2740;7.1
+97;53705;Herkomstland: Nederlandse Cariben;2023;2960;7.5
+98;53705;Herkomstland: Indonesië;2022;1420;1.9
+99;53705;Herkomstland: Indonesië;2023;1410;1.9
+100;53705;Herkomstland: Buiten Europa (excl. 5 ...;2022;5140;1.5
+101;53705;Herkomstland: Buiten Europa (excl. 5 ...;2023;5740;1.6
+102;53850;Totaal;2022;33290;0.9
+103;53850;Totaal;2023;33230;0.9
+104;53850;Herkomst: geboren in Nederland;2022;22670;0.7
+105;53850;Herkomst: geboren in Nederland;2023;22220;0.7
+106;53850;Herkomst: geb. in NL, ouders in NL;2022;19880;0.7
+107;53850;Herkomst: geb. in NL, ouders in NL;2023;19350;0.7
+108;53850;Herkomst: geb. in NL, ouder(s) buiten NL;2022;2800;1.3
+109;53850;Herkomst: geb. in NL, ouder(s) buiten NL;2023;2870;1.3
+110;53850;Herkomst: geb. in NL, 1 ouder geboren NL;2022;1730;1.0
+111;53850;Herkomst: geb. in NL, 1 ouder geboren NL;2023;1740;1.0
+112;53850;Herkomst: geb. in NL, 2 ouders buiten NL;2022;1070;2.1
+113;53850;Herkomst: geb. in NL, 2 ouders buiten NL;2023;1130;2.2
+114;53850;Herkomst: geboren buiten Nederland;2022;10610;1.8
+115;53850;Herkomst: geboren buiten Nederland;2023;11020;1.8
+116;53850;Herkomstland: Nederland;2022;19880;0.7
+117;53850;Herkomstland: Nederland;2023;19350;0.7
+118;53850;Herkomstland: buiten Nederland;2022;13410;1.6
+119;53850;Herkomstland: buiten Nederland;2023;13890;1.6
+120;53850;Herkomstland: Europa (excl. Nederland);2022;3240;1.3
+121;53850;Herkomstland: Europa (excl. Nederland);2023;3510;1.3
+122;53850;Herkomstland: buiten Europa;2022;10170;1.8
+123;53850;Herkomstland: buiten Europa;2023;10370;1.8
+124;53850;Herkomstland: Marokko;2022;1000;1.5
+125;53850;Herkomstland: Marokko;2023;1070;1.6
+126;53850;Herkomstland: Turkije;2022;1660;2.1
+127;53850;Herkomstland: Turkije;2023;1770;2.1
+128;53850;Herkomstland: Suriname;2022;2390;2.8
+129;53850;Herkomstland: Suriname;2023;2410;2.8
+130;53850;Herkomstland: Nederlandse Cariben;2022;1320;4.5
+131;53850;Herkomstland: Nederlandse Cariben;2023;1300;4.3
+132;53850;Herkomstland: Indonesië;2022;1480;1.2
+133;53850;Herkomstland: Indonesië;2023;1430;1.2
+134;53850;Herkomstland: Buiten Europa (excl. 5 ...;2022;2330;1.2
+135;53850;Herkomstland: Buiten Europa (excl. 5 ...;2023;2400;1.2
+136;80200;Totaal;2022;8110;0.2
+137;80200;Totaal;2023;8330;0.2
+138;80200;Herkomst: geboren in Nederland;2022;5750;0.2
+139;80200;Herkomst: geboren in Nederland;2023;5810;0.2
+140;80200;Herkomst: geb. in NL, ouders in NL;2022;5190;0.2
+141;80200;Herkomst: geb. in NL, ouders in NL;2023;5210;0.2
+142;80200;Herkomst: geb. in NL, ouder(s) buiten NL;2022;560;0.3
+143;80200;Herkomst: geb. in NL, ouder(s) buiten NL;2023;600;0.3
+144;80200;Herkomst: geb. in NL, 1 ouder geboren NL;2022;390;0.2
+145;80200;Herkomst: geb. in NL, 1 ouder geboren NL;2023;400;0.2
+146;80200;Herkomst: geb. in NL, 2 ouders buiten NL;2022;170;0.7
+147;80200;Herkomst: geb. in NL, 2 ouders buiten NL;2023;190;0.7
+148;80200;Herkomst: geboren buiten Nederland;2022;2370;0.7
+149;80200;Herkomst: geboren buiten Nederland;2023;2520;0.7
+150;80200;Herkomstland: Nederland;2022;5190;0.2
+151;80200;Herkomstland: Nederland;2023;5210;0.2
+152;80200;Herkomstland: buiten Nederland;2022;2930;0.5
+153;80200;Herkomstland: buiten Nederland;2023;3120;0.5
+154;80200;Herkomstland: Europa (excl. Nederland);2022;720;0.3
+155;80200;Herkomstland: Europa (excl. Nederland);2023;730;0.3
+156;80200;Herkomstland: buiten Europa;2022;2210;0.7
+157;80200;Herkomstland: buiten Europa;2023;2390;0.7
+158;80200;Herkomstland: Marokko;2022;160;0.5
+159;80200;Herkomstland: Marokko;2023;180;0.6
+160;80200;Herkomstland: Turkije;2022;200;0.8
+161;80200;Herkomstland: Turkije;2023;220;0.8
+162;80200;Herkomstland: Suriname;2022;510;1.0
+163;80200;Herkomstland: Suriname;2023;530;1.0
+164;80200;Herkomstland: Nederlandse Cariben;2022;300;1.8
+165;80200;Herkomstland: Nederlandse Cariben;2023;340;1.9
+166;80200;Herkomstland: Indonesië;2022;570;0.5
+167;80200;Herkomstland: Indonesië;2023;580;0.5
+168;80200;Herkomstland: Buiten Europa (excl. 5 ...;2022;480;0.7
+169;80200;Herkomstland: Buiten Europa (excl. 5 ...;2023;530;0.7

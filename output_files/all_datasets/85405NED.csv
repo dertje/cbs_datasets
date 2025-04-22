@@ -1,0 +1,337 @@
+﻿ID;LeeftijdVoertuig;BrandstofsoortVoertuig;Perioden;KilometersNederlandsePersonenautoS_1;GemiddeldJaarkilometrage_2;NederlandsePersonenautoSInGebruik_3
+0;Totaal;Totaal;2018;120338.8;13198.0;9117964.0
+1;Totaal;Totaal;2019;121231.5;13060.0;9282552.0
+2;Totaal;Totaal;2020;99650.6;10660.0;9348088.0
+3;Totaal;Totaal;2021;105424.8;11115.0;9484581.0
+4;Totaal;Totaal;2022;114616.7;12024.0;9532220.0
+5;Totaal;Totaal;2023;119551.6;12353.0;9677567.0
+6;Totaal;Benzine/benzine hybride/ethanol;2018;80590.6;10919.0;7381104.0
+7;Totaal;Benzine/benzine hybride/ethanol;2019;83430.3;11032.0;7562649.0
+8;Totaal;Benzine/benzine hybride/ethanol;2020;71570.1;9323.0;7677099.0
+9;Totaal;Benzine/benzine hybride/ethanol;2021;77245.8;9867.0;7828607.0
+10;Totaal;Benzine/benzine hybride/ethanol;2022;84048.0;10686.0;7865004.0
+11;Totaal;Benzine/benzine hybride/ethanol;2023;88065.7;11116.0;7922464.0
+12;Totaal;Diesel/diesel hybrides;2018;34175.9;23646.0;1445326.0
+13;Totaal;Diesel/diesel hybrides;2019;31798.9;23137.0;1374392.0
+14;Totaal;Diesel/diesel hybrides;2020;22519.2;17944.0;1254966.0
+15;Totaal;Diesel/diesel hybrides;2021;20616.0;18147.0;1136039.0
+16;Totaal;Diesel/diesel hybrides;2022;19707.2;19258.0;1023340.0
+17;Totaal;Diesel/diesel hybrides;2023;16814.2;18547.0;906587.0
+18;Totaal;LPG/ LPG hybrides;2018;2080.9;15593.0;133446.0
+19;Totaal;LPG/ LPG hybrides;2019;1848.2;15163.0;121893.0
+20;Totaal;LPG/ LPG hybrides;2020;1380.1;12224.0;112905.0
+21;Totaal;LPG/ LPG hybrides;2021;1362.8;12715.0;107177.0
+22;Totaal;LPG/ LPG hybrides;2022;1394.7;13516.0;103185.0
+23;Totaal;LPG/ LPG hybrides;2023;1377.4;13618.0;101146.0
+24;Totaal;Full elektrisch/waterstof;2018;657.6;14392.0;45691.0
+25;Totaal;Full elektrisch/waterstof;2019;1458.1;13612.0;107121.0
+26;Totaal;Full elektrisch/waterstof;2020;2208.7;12478.0;177005.0
+27;Totaal;Full elektrisch/waterstof;2021;3766.0;15032.0;250522.0
+28;Totaal;Full elektrisch/waterstof;2022;6031.1;17857.0;337754.0
+29;Totaal;Full elektrisch/waterstof;2023;8469.9;18242.0;464307.0
+30;Totaal;Plug-in hybrides;2018;2567.4;25176.0;101979.0
+31;Totaal;Plug-in hybrides;2019;2401.1;22922.0;104748.0
+32;Totaal;Plug-in hybrides;2020;1783.9;15423.0;115663.0
+33;Totaal;Plug-in hybrides;2021;2247.0;14716.0;152690.0
+34;Totaal;Plug-in hybrides;2022;3249.0;16750.0;193964.0
+35;Totaal;Plug-in hybrides;2023;4652.1;16946.0;274527.0
+36;Totaal;CNG/CNG hybrides/LNG;2018;266.4;25571.0;10419.0
+37;Totaal;CNG/CNG hybrides/LNG;2019;294.9;25097.0;11749.0
+38;Totaal;CNG/CNG hybrides/LNG;2020;188.6;18043.0;10450.0
+39;Totaal;CNG/CNG hybrides/LNG;2021;187.3;19619.0;9547.0
+40;Totaal;CNG/CNG hybrides/LNG;2022;186.7;20808.0;8973.0
+41;Totaal;CNG/CNG hybrides/LNG;2023;172.3;20190.0;8536.0
+42;0 jaar;Totaal;2018;5450.2;12296.0;443263.0
+43;0 jaar;Totaal;2019;5307.8;11884.0;446631.0
+44;0 jaar;Totaal;2020;2821.4;8013.0;352115.0
+45;0 jaar;Totaal;2021;3116.3;9548.0;326377.0
+46;0 jaar;Totaal;2022;3173.9;10099.0;314267.0
+47;0 jaar;Totaal;2023;4304.2;11664.0;369020.0
+48;0 jaar;Benzine/benzine hybride/ethanol;2018;3776.9;10623.0;355539.0
+49;0 jaar;Benzine/benzine hybride/ethanol;2019;3964.5;11492.0;344979.0
+50;0 jaar;Benzine/benzine hybride/ethanol;2020;2136.2;8462.0;252456.0
+51;0 jaar;Benzine/benzine hybride/ethanol;2021;2260.6;10201.0;221604.0
+52;0 jaar;Benzine/benzine hybride/ethanol;2022;2022.8;10206.0;198202.0
+53;0 jaar;Benzine/benzine hybride/ethanol;2023;2335.5;11571.0;201844.0
+54;0 jaar;Diesel/diesel hybrides;2018;1381.2;23711.0;58253.0
+55;0 jaar;Diesel/diesel hybrides;2019;781.8;22965.0;34043.0
+56;0 jaar;Diesel/diesel hybrides;2020;251.9;17492.0;14402.0
+57;0 jaar;Diesel/diesel hybrides;2021;132.1;16296.0;8105.0
+58;0 jaar;Diesel/diesel hybrides;2022;88.4;16313.0;5419.0
+59;0 jaar;Diesel/diesel hybrides;2023;65.9;14425.0;4566.0
+60;0 jaar;LPG/ LPG hybrides;2018;15.6;14918.0;1046.0
+61;0 jaar;LPG/ LPG hybrides;2019;9.4;17129.0;550.0
+62;0 jaar;LPG/ LPG hybrides;2020;13.5;6713.0;2010.0
+63;0 jaar;LPG/ LPG hybrides;2021;20.6;9192.0;2239.0
+64;0 jaar;LPG/ LPG hybrides;2022;22.3;9729.0;2296.0
+65;0 jaar;LPG/ LPG hybrides;2023;24.6;10391.0;2366.0
+66;0 jaar;Full elektrisch/waterstof;2018;212.7;8918.0;23846.0
+67;0 jaar;Full elektrisch/waterstof;2019;477.5;7754.0;61574.0
+68;0 jaar;Full elektrisch/waterstof;2020;301.1;4492.0;67029.0
+69;0 jaar;Full elektrisch/waterstof;2021;356.5;5809.0;61379.0
+70;0 jaar;Full elektrisch/waterstof;2022;619.4;8571.0;72270.0
+71;0 jaar;Full elektrisch/waterstof;2023;1267.0;11324.0;111880.0
+72;0 jaar;Plug-in hybrides;2018;37.8;11243.0;3358.0
+73;0 jaar;Plug-in hybrides;2019;70.7;13642.0;5183.0
+74;0 jaar;Plug-in hybrides;2020;117.8;7292.0;16156.0
+75;0 jaar;Plug-in hybrides;2021;346.0;10483.0;33008.0
+76;0 jaar;Plug-in hybrides;2022;420.8;11667.0;36064.0
+77;0 jaar;Plug-in hybrides;2023;611.2;12639.0;48358.0
+78;0 jaar;CNG/CNG hybrides/LNG;2018;26.1;21336.0;1221.0
+79;0 jaar;CNG/CNG hybrides/LNG;2019;3.9;12895.0;302.0
+80;0 jaar;CNG/CNG hybrides/LNG;2020;0.8;13322.0;62.0
+81;0 jaar;CNG/CNG hybrides/LNG;2021;0.5;12019.0;42.0
+82;0 jaar;CNG/CNG hybrides/LNG;2022;;;
+83;0 jaar;CNG/CNG hybrides/LNG;2023;;;
+84;1 jaar;Totaal;2018;8889.4;19774.0;449563.0
+85;1 jaar;Totaal;2019;9747.3;20020.0;486880.0
+86;1 jaar;Totaal;2020;7745.8;15755.0;491641.0
+87;1 jaar;Totaal;2021;6554.9;16274.0;402783.0
+88;1 jaar;Totaal;2022;6971.5;18465.0;377560.0
+89;1 jaar;Totaal;2023;6893.0;19101.0;360864.0
+90;1 jaar;Benzine/benzine hybride/ethanol;2018;5714.3;16028.0;356528.0
+91;1 jaar;Benzine/benzine hybride/ethanol;2019;6640.6;16863.0;393789.0
+92;1 jaar;Benzine/benzine hybride/ethanol;2020;5394.6;14089.0;382891.0
+93;1 jaar;Benzine/benzine hybride/ethanol;2021;4370.7;15460.0;282717.0
+94;1 jaar;Benzine/benzine hybride/ethanol;2022;4387.5;17433.0;251674.0
+95;1 jaar;Benzine/benzine hybride/ethanol;2023;4093.3;18208.0;224808.0
+96;1 jaar;Diesel/diesel hybrides;2018;2888.7;35625.0;81088.0
+97;1 jaar;Diesel/diesel hybrides;2019;2367.8;37944.0;62402.0
+98;1 jaar;Diesel/diesel hybrides;2020;1063.3;28899.0;36794.0
+99;1 jaar;Diesel/diesel hybrides;2021;456.2;26759.0;17048.0
+100;1 jaar;Diesel/diesel hybrides;2022;264.6;24785.0;10676.0
+101;1 jaar;Diesel/diesel hybrides;2023;187.7;26857.0;6990.0
+102;1 jaar;LPG/ LPG hybrides;2018;32.0;23840.0;1341.0
+103;1 jaar;LPG/ LPG hybrides;2019;27.4;25090.0;1091.0
+104;1 jaar;LPG/ LPG hybrides;2020;12.0;20752.0;578.0
+105;1 jaar;LPG/ LPG hybrides;2021;37.2;18123.0;2055.0
+106;1 jaar;LPG/ LPG hybrides;2022;47.7;20331.0;2344.0
+107;1 jaar;LPG/ LPG hybrides;2023;49.8;20993.0;2374.0
+108;1 jaar;Full elektrisch/waterstof;2018;184.4;22936.0;8041.0
+109;1 jaar;Full elektrisch/waterstof;2019;586.6;23913.0;24532.0
+110;1 jaar;Full elektrisch/waterstof;2020;1159.4;18095.0;64074.0
+111;1 jaar;Full elektrisch/waterstof;2021;1318.9;17127.0;77009.0
+112;1 jaar;Full elektrisch/waterstof;2022;1491.6;20805.0;71693.0
+113;1 jaar;Full elektrisch/waterstof;2023;1665.7;20704.0;80453.0
+114;1 jaar;Plug-in hybrides;2018;24.2;19021.0;1273.0
+115;1 jaar;Plug-in hybrides;2019;82.9;21610.0;3835.0
+116;1 jaar;Plug-in hybrides;2020;109.2;15609.0;6995.0
+117;1 jaar;Plug-in hybrides;2021;369.9;15496.0;23873.0
+118;1 jaar;Plug-in hybrides;2022;779.1;18951.0;41110.0
+119;1 jaar;Plug-in hybrides;2023;896.0;19386.0;46221.0
+120;1 jaar;CNG/CNG hybrides/LNG;2018;45.8;35469.0;1292.0
+121;1 jaar;CNG/CNG hybrides/LNG;2019;42.1;34207.0;1231.0
+122;1 jaar;CNG/CNG hybrides/LNG;2020;7.2;23428.0;309.0
+123;1 jaar;CNG/CNG hybrides/LNG;2021;1.8;22721.0;81.0
+124;1 jaar;CNG/CNG hybrides/LNG;2022;1.1;16714.0;63.0
+125;1 jaar;CNG/CNG hybrides/LNG;2023;;;
+126;2 jaar;Totaal;2018;8093.0;18909.0;428006.0
+127;2 jaar;Totaal;2019;8914.4;19091.0;466949.0
+128;2 jaar;Totaal;2020;7626.6;15074.0;505955.0
+129;2 jaar;Totaal;2021;8561.0;16396.0;522128.0
+130;2 jaar;Totaal;2022;7657.8;17890.0;428053.0
+131;2 jaar;Totaal;2023;7621.9;18374.0;414830.0
+132;2 jaar;Benzine/benzine hybride/ethanol;2018;4560.9;14367.0;317455.0
+133;2 jaar;Benzine/benzine hybride/ethanol;2019;5715.3;15415.0;370759.0
+134;2 jaar;Benzine/benzine hybride/ethanol;2020;5306.4;12928.0;410457.0
+135;2 jaar;Benzine/benzine hybride/ethanol;2021;5928.6;14533.0;407949.0
+136;2 jaar;Benzine/benzine hybride/ethanol;2022;4993.2;16569.0;301362.0
+137;2 jaar;Benzine/benzine hybride/ethanol;2023;4655.9;17188.0;270881.0
+138;2 jaar;Diesel/diesel hybrides;2018;2872.0;33335.0;86154.0
+139;2 jaar;Diesel/diesel hybrides;2019;2910.2;34709.0;83846.0
+140;2 jaar;Diesel/diesel hybrides;2020;1759.2;27631.0;63667.0
+141;2 jaar;Diesel/diesel hybrides;2021;1154.6;29706.0;38866.0
+142;2 jaar;Diesel/diesel hybrides;2022;544.1;28493.0;19097.0
+143;2 jaar;Diesel/diesel hybrides;2023;307.2;24546.0;12517.0
+144;2 jaar;LPG/ LPG hybrides;2018;24.0;22790.0;1055.0
+145;2 jaar;LPG/ LPG hybrides;2019;32.1;23668.0;1355.0
+146;2 jaar;LPG/ LPG hybrides;2020;22.7;20724.0;1095.0
+147;2 jaar;LPG/ LPG hybrides;2021;13.2;20818.0;633.0
+148;2 jaar;LPG/ LPG hybrides;2022;40.6;19791.0;2053.0
+149;2 jaar;LPG/ LPG hybrides;2023;49.7;20404.0;2434.0
+150;2 jaar;Full elektrisch/waterstof;2018;83.0;21040.0;3947.0
+151;2 jaar;Full elektrisch/waterstof;2019;179.7;22137.0;8116.0
+152;2 jaar;Full elektrisch/waterstof;2020;439.5;17537.0;25063.0
+153;2 jaar;Full elektrisch/waterstof;2021;1307.0;20026.0;65262.0
+154;2 jaar;Full elektrisch/waterstof;2022;1626.5;19962.0;81479.0
+155;2 jaar;Full elektrisch/waterstof;2023;1650.1;21640.0;76251.0
+156;2 jaar;Plug-in hybrides;2018;527.7;28207.0;18709.0
+157;2 jaar;Plug-in hybrides;2019;29.0;18470.0;1570.0
+158;2 jaar;Plug-in hybrides;2020;71.6;16163.0;4429.0
+159;2 jaar;Plug-in hybrides;2021;149.3;16403.0;9102.0
+160;2 jaar;Plug-in hybrides;2022;451.1;18818.0;23973.0
+161;2 jaar;Plug-in hybrides;2023;957.6;18178.0;52676.0
+162;2 jaar;CNG/CNG hybrides/LNG;2018;25.3;36849.0;686.0
+163;2 jaar;CNG/CNG hybrides/LNG;2019;48.1;36933.0;1303.0
+164;2 jaar;CNG/CNG hybrides/LNG;2020;27.2;21876.0;1244.0
+165;2 jaar;CNG/CNG hybrides/LNG;2021;8.4;26690.0;316.0
+166;2 jaar;CNG/CNG hybrides/LNG;2022;2.2;24845.0;89.0
+167;2 jaar;CNG/CNG hybrides/LNG;2023;1.4;20133.0;71.0
+168;3 jaar;Totaal;2018;10208.7;19991.0;510671.0
+169;3 jaar;Totaal;2019;7803.4;17592.0;443587.0
+170;3 jaar;Totaal;2020;6784.6;14012.0;484194.0
+171;3 jaar;Totaal;2021;7830.7;14690.0;533076.0
+172;3 jaar;Totaal;2022;9343.4;17211.0;542874.0
+173;3 jaar;Totaal;2023;7970.3;17499.0;455463.0
+174;3 jaar;Benzine/benzine hybride/ethanol;2018;4238.9;13577.0;312205.0
+175;3 jaar;Benzine/benzine hybride/ethanol;2019;4465.6;13535.0;329919.0
+176;3 jaar;Benzine/benzine hybride/ethanol;2020;4549.7;11759.0;386916.0
+177;3 jaar;Benzine/benzine hybride/ethanol;2021;5540.8;12742.0;434856.0
+178;3 jaar;Benzine/benzine hybride/ethanol;2022;6469.8;15143.0;427238.0
+179;3 jaar;Benzine/benzine hybride/ethanol;2023;5123.5;16224.0;315806.0
+180;3 jaar;Diesel/diesel hybrides;2018;4652.5;31187.0;149180.0
+181;3 jaar;Diesel/diesel hybrides;2019;2691.1;30287.0;88851.0
+182;3 jaar;Diesel/diesel hybrides;2020;2012.2;23888.0;84235.0
+183;3 jaar;Diesel/diesel hybrides;2021;1667.2;25827.0;64554.0
+184;3 jaar;Diesel/diesel hybrides;2022;1228.6;30532.0;40241.0
+185;3 jaar;Diesel/diesel hybrides;2023;517.2;25504.0;20278.0
+186;3 jaar;LPG/ LPG hybrides;2018;14.4;22146.0;649.0
+187;3 jaar;LPG/ LPG hybrides;2019;24.1;22313.0;1078.0
+188;3 jaar;LPG/ LPG hybrides;2020;25.6;18575.0;1377.0
+189;3 jaar;LPG/ LPG hybrides;2021;21.8;19094.0;1141.0
+190;3 jaar;LPG/ LPG hybrides;2022;14.8;21027.0;702.0
+191;3 jaar;LPG/ LPG hybrides;2023;41.7;19837.0;2100.0
+192;3 jaar;Full elektrisch/waterstof;2018;63.2;20278.0;3118.0
+193;3 jaar;Full elektrisch/waterstof;2019;75.5;18357.0;4111.0
+194;3 jaar;Full elektrisch/waterstof;2020;139.2;16734.0;8317.0
+195;3 jaar;Full elektrisch/waterstof;2021;485.3;18916.0;25656.0
+196;3 jaar;Full elektrisch/waterstof;2022;1469.1;22237.0;66067.0
+197;3 jaar;Full elektrisch/waterstof;2023;1725.9;20437.0;84449.0
+198;3 jaar;Plug-in hybrides;2018;1220.3;27233.0;44810.0
+199;3 jaar;Plug-in hybrides;2019;522.7;27610.0;18933.0
+200;3 jaar;Plug-in hybrides;2020;26.2;12837.0;2042.0
+201;3 jaar;Plug-in hybrides;2021;85.6;15190.0;5632.0
+202;3 jaar;Plug-in hybrides;2022;152.0;18332.0;8290.0
+203;3 jaar;Plug-in hybrides;2023;559.7;17105.0;32720.0
+204;3 jaar;CNG/CNG hybrides/LNG;2018;19.4;27317.0;709.0
+205;3 jaar;CNG/CNG hybrides/LNG;2019;24.5;35231.0;695.0
+206;3 jaar;CNG/CNG hybrides/LNG;2020;31.6;24186.0;1307.0
+207;3 jaar;CNG/CNG hybrides/LNG;2021;30.0;24256.0;1237.0
+208;3 jaar;CNG/CNG hybrides/LNG;2022;9.1;27110.0;336.0
+209;3 jaar;CNG/CNG hybrides/LNG;2023;2.4;21732.0;110.0
+210;4 jaar;Totaal;2018;7530.1;16823.0;447620.0
+211;4 jaar;Totaal;2019;9244.7;17805.0;519226.0
+212;4 jaar;Totaal;2020;5745.9;12579.0;456782.0
+213;4 jaar;Totaal;2021;6744.1;13304.0;506935.0
+214;4 jaar;Totaal;2022;8191.6;14884.0;550354.0
+215;4 jaar;Totaal;2023;9004.3;16055.0;560860.0
+216;4 jaar;Benzine/benzine hybride/ethanol;2018;3846.5;12587.0;305597.0
+217;4 jaar;Benzine/benzine hybride/ethanol;2019;4104.9;12640.0;324762.0
+218;4 jaar;Benzine/benzine hybride/ethanol;2020;3526.1;10205.0;345519.0
+219;4 jaar;Benzine/benzine hybride/ethanol;2021;4749.3;11543.0;411427.0
+220;4 jaar;Benzine/benzine hybride/ethanol;2022;5948.3;13091.0;454361.0
+221;4 jaar;Benzine/benzine hybride/ethanol;2023;6312.9;14204.0;444436.0
+222;4 jaar;Diesel/diesel hybrides;2018;3215.2;26375.0;121901.0
+223;4 jaar;Diesel/diesel hybrides;2019;3920.4;26951.0;145466.0
+224;4 jaar;Diesel/diesel hybrides;2020;1740.5;20193.0;86191.0
+225;4 jaar;Diesel/diesel hybrides;2021;1753.2;21618.0;81101.0
+226;4 jaar;Diesel/diesel hybrides;2022;1564.1;25477.0;61391.0
+227;4 jaar;Diesel/diesel hybrides;2023;1043.9;26829.0;38910.0
+228;4 jaar;LPG/ LPG hybrides;2018;28.9;20794.0;1391.0
+229;4 jaar;LPG/ LPG hybrides;2019;14.3;21433.0;668.0
+230;4 jaar;LPG/ LPG hybrides;2020;19.3;17743.0;1087.0
+231;4 jaar;LPG/ LPG hybrides;2021;25.1;17528.0;1433.0
+232;4 jaar;LPG/ LPG hybrides;2022;25.2;20075.0;1256.0
+233;4 jaar;LPG/ LPG hybrides;2023;15.3;19980.0;767.0
+234;4 jaar;Full elektrisch/waterstof;2018;62.2;19815.0;3141.0
+235;4 jaar;Full elektrisch/waterstof;2019;58.5;18579.0;3150.0
+236;4 jaar;Full elektrisch/waterstof;2020;66.9;15594.0;4288.0
+237;4 jaar;Full elektrisch/waterstof;2021;140.5;16526.0;8499.0
+238;4 jaar;Full elektrisch/waterstof;2022;515.3;20051.0;25698.0
+239;4 jaar;Full elektrisch/waterstof;2023;1447.0;21874.0;66151.0
+240;4 jaar;Plug-in hybrides;2018;297.2;24325.0;12216.0
+241;4 jaar;Plug-in hybrides;2019;1127.1;25345.0;44470.0
+242;4 jaar;Plug-in hybrides;2020;377.1;19840.0;19006.0
+243;4 jaar;Plug-in hybrides;2021;41.7;13113.0;3180.0
+244;4 jaar;Plug-in hybrides;2022;107.1;16687.0;6417.0
+245;4 jaar;Plug-in hybrides;2023;175.7;17159.0;10241.0
+246;4 jaar;CNG/CNG hybrides/LNG;2018;80.1;23745.0;3374.0
+247;4 jaar;CNG/CNG hybrides/LNG;2019;19.4;27362.0;710.0
+248;4 jaar;CNG/CNG hybrides/LNG;2020;16.1;23241.0;691.0
+249;4 jaar;CNG/CNG hybrides/LNG;2021;34.4;26531.0;1295.0
+250;4 jaar;CNG/CNG hybrides/LNG;2022;31.7;25735.0;1231.0
+251;4 jaar;CNG/CNG hybrides/LNG;2023;9.5;26753.0;355.0
+252;5 jaar;Totaal;2018;7132.0;15363.0;464227.0
+253;5 jaar;Totaal;2019;6769.0;15161.0;446479.0
+254;5 jaar;Totaal;2020;6518.4;12786.0;509811.0
+255;5 jaar;Totaal;2021;5740.8;12347.0;464954.0
+256;5 jaar;Totaal;2022;6994.6;13686.0;511071.0
+257;5 jaar;Totaal;2023;7745.9;14000.0;553262.0
+258;5 jaar;Benzine/benzine hybride/ethanol;2018;3947.2;12070.0;327030.0
+259;5 jaar;Benzine/benzine hybride/ethanol;2019;3748.0;11927.0;314251.0
+260;5 jaar;Benzine/benzine hybride/ethanol;2020;3363.0;10042.0;334910.0
+261;5 jaar;Benzine/benzine hybride/ethanol;2021;3783.8;10431.0;362734.0
+262;5 jaar;Benzine/benzine hybride/ethanol;2022;5115.3;12041.0;424827.0
+263;5 jaar;Benzine/benzine hybride/ethanol;2023;5962.2;12782.0;466440.0
+264;5 jaar;Diesel/diesel hybrides;2018;2663.7;23726.0;112267.0
+265;5 jaar;Diesel/diesel hybrides;2019;2647.4;23603.0;112163.0
+266;5 jaar;Diesel/diesel hybrides;2020;2367.1;18692.0;126640.0
+267;5 jaar;Diesel/diesel hybrides;2021;1533.0;19779.0;77508.0
+268;5 jaar;Diesel/diesel hybrides;2022;1615.1;22673.0;71234.0
+269;5 jaar;Diesel/diesel hybrides;2023;1178.1;22693.0;51914.0
+270;5 jaar;LPG/ LPG hybrides;2018;47.1;19197.0;2451.0
+271;5 jaar;LPG/ LPG hybrides;2019;29.0;20105.0;1442.0
+272;5 jaar;LPG/ LPG hybrides;2020;12.1;17422.0;692.0
+273;5 jaar;LPG/ LPG hybrides;2021;20.4;17866.0;1139.0
+274;5 jaar;LPG/ LPG hybrides;2022;29.1;19145.0;1519.0
+275;5 jaar;LPG/ LPG hybrides;2023;26.9;20096.0;1336.0
+276;5 jaar;Full elektrisch/waterstof;2018;44.8;16441.0;2728.0
+277;5 jaar;Full elektrisch/waterstof;2019;35.5;15580.0;2281.0
+278;5 jaar;Full elektrisch/waterstof;2020;38.4;13538.0;2834.0
+279;5 jaar;Full elektrisch/waterstof;2021;56.3;13299.0;4235.0
+280;5 jaar;Full elektrisch/waterstof;2022;136.9;16781.0;8156.0
+281;5 jaar;Full elektrisch/waterstof;2023;424.9;17024.0;24958.0
+282;5 jaar;Plug-in hybrides;2018;415.0;21771.0;19064.0
+283;5 jaar;Plug-in hybrides;2019;222.9;18305.0;12177.0
+284;5 jaar;Plug-in hybrides;2020;724.5;16487.0;43946.0
+285;5 jaar;Plug-in hybrides;2021;328.8;17633.0;18650.0
+286;5 jaar;Plug-in hybrides;2022;63.8;15648.0;4074.0
+287;5 jaar;Plug-in hybrides;2023;122.3;16613.0;7363.0
+288;5 jaar;CNG/CNG hybrides/LNG;2018;14.3;20720.0;688.0
+289;5 jaar;CNG/CNG hybrides/LNG;2019;86.2;20690.0;4165.0
+290;5 jaar;CNG/CNG hybrides/LNG;2020;13.2;16775.0;788.0
+291;5 jaar;CNG/CNG hybrides/LNG;2021;18.5;26934.0;686.0
+292;5 jaar;CNG/CNG hybrides/LNG;2022;34.6;27434.0;1262.0
+293;5 jaar;CNG/CNG hybrides/LNG;2023;31.6;25276.0;1251.0
+294;6 jaar of ouder;Totaal;2018;73035.4;11457.0;6374614.0
+295;6 jaar of ouder;Totaal;2019;73445.0;11347.0;6472800.0
+296;6 jaar of ouder;Totaal;2020;62408.0;9531.0;6547590.0
+297;6 jaar of ouder;Totaal;2021;66877.0;9940.0;6728328.0
+298;6 jaar of ouder;Totaal;2022;72284.0;10617.0;6808041.0
+299;6 jaar of ouder;Totaal;2023;76011.9;10916.0;6963268.0
+300;6 jaar of ouder;Benzine/benzine hybride/ethanol;2018;54506.0;10081.0;5406750.0
+301;6 jaar of ouder;Benzine/benzine hybride/ethanol;2019;54791.4;9991.0;5484190.0
+302;6 jaar of ouder;Benzine/benzine hybride/ethanol;2020;47293.9;8500.0;5563950.0
+303;6 jaar of ouder;Benzine/benzine hybride/ethanol;2021;50612.1;8868.0;5707319.0
+304;6 jaar of ouder;Benzine/benzine hybride/ethanol;2022;55111.2;9490.0;5807340.0
+305;6 jaar of ouder;Benzine/benzine hybride/ethanol;2023;59582.3;9933.0;5998249.0
+306;6 jaar of ouder;Diesel/diesel hybrides;2018;16502.6;19729.0;836483.0
+307;6 jaar of ouder;Diesel/diesel hybrides;2019;16480.3;19443.0;847621.0
+308;6 jaar of ouder;Diesel/diesel hybrides;2020;13324.9;15806.0;843037.0
+309;6 jaar of ouder;Diesel/diesel hybrides;2021;13919.7;16398.0;848857.0
+310;6 jaar of ouder;Diesel/diesel hybrides;2022;14402.3;17665.0;815282.0
+311;6 jaar of ouder;Diesel/diesel hybrides;2023;13514.2;17519.0;771412.0
+312;6 jaar of ouder;LPG/ LPG hybrides;2018;1918.9;15288.0;125513.0
+313;6 jaar of ouder;LPG/ LPG hybrides;2019;1712.0;14796.0;115709.0
+314;6 jaar of ouder;LPG/ LPG hybrides;2020;1275.0;12021.0;106066.0
+315;6 jaar of ouder;LPG/ LPG hybrides;2021;1224.5;12427.0;98536.0
+316;6 jaar of ouder;LPG/ LPG hybrides;2022;1215.0;13062.0;93015.0
+317;6 jaar of ouder;LPG/ LPG hybrides;2023;1169.4;13027.0;89769.0
+318;6 jaar of ouder;Full elektrisch/waterstof;2018;7.1;8198.0;870.0
+319;6 jaar of ouder;Full elektrisch/waterstof;2019;44.8;13354.0;3357.0
+320;6 jaar of ouder;Full elektrisch/waterstof;2020;64.3;11898.0;5400.0
+321;6 jaar of ouder;Full elektrisch/waterstof;2021;101.5;11963.0;8481.0
+322;6 jaar of ouder;Full elektrisch/waterstof;2022;172.4;13909.0;12391.0
+323;6 jaar of ouder;Full elektrisch/waterstof;2023;289.5;14356.0;20165.0
+324;6 jaar of ouder;Plug-in hybrides;2018;45.2;17732.0;2549.0
+325;6 jaar of ouder;Plug-in hybrides;2019;345.8;18610.0;18581.0
+326;6 jaar of ouder;Plug-in hybrides;2020;357.5;15483.0;23089.0
+327;6 jaar of ouder;Plug-in hybrides;2021;925.6;15624.0;59245.0
+328;6 jaar of ouder;Plug-in hybrides;2022;1275.2;17224.0;74036.0
+329;6 jaar of ouder;Plug-in hybrides;2023;1329.6;17279.0;76948.0
+330;6 jaar of ouder;CNG/CNG hybrides/LNG;2018;55.5;22674.0;2448.0
+331;6 jaar of ouder;CNG/CNG hybrides/LNG;2019;70.6;21136.0;3342.0
+332;6 jaar of ouder;CNG/CNG hybrides/LNG;2020;92.4;15273.0;6049.0
+333;6 jaar of ouder;CNG/CNG hybrides/LNG;2021;93.7;15904.0;5889.0
+334;6 jaar of ouder;CNG/CNG hybrides/LNG;2022;107.9;18053.0;5976.0
+335;6 jaar of ouder;CNG/CNG hybrides/LNG;2023;126.9;18864.0;6726.0

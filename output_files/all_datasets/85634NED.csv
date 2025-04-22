@@ -1,0 +1,2227 @@
+﻿ID;BedrijfstakkenBranchesSBI2008;Perioden;BedrijfsbestelautoS_1
+0;A-U Alle economische activiteiten;2018;898271.0
+1;A-U Alle economische activiteiten;2019;929107.0
+2;A-U Alle economische activiteiten;2020;940541.0
+3;A-U Alle economische activiteiten;2021;967921.0
+4;A-U Alle economische activiteiten;2022;986883.0
+5;A-U Alle economische activiteiten;2023;1019112.0
+6;A Landbouw, bosbouw en visserij;2018;54865.0
+7;A Landbouw, bosbouw en visserij;2019;55850.0
+8;A Landbouw, bosbouw en visserij;2020;56948.0
+9;A Landbouw, bosbouw en visserij;2021;57647.0
+10;A Landbouw, bosbouw en visserij;2022;58184.0
+11;A Landbouw, bosbouw en visserij;2023;58793.0
+12;01 Landbouw;2018;53293.0
+13;01 Landbouw;2019;54259.0
+14;01 Landbouw;2020;55365.0
+15;01 Landbouw;2021;56081.0
+16;01 Landbouw;2022;56685.0
+17;01 Landbouw;2023;57259.0
+18;011 Teelt van eenjarige gewassen;2018;10712.0
+19;011 Teelt van eenjarige gewassen;2019;10822.0
+20;011 Teelt van eenjarige gewassen;2020;10868.0
+21;011 Teelt van eenjarige gewassen;2021;10974.0
+22;011 Teelt van eenjarige gewassen;2022;10987.0
+23;011 Teelt van eenjarige gewassen;2023;11041.0
+24;012 Teelt van meerjarige gewassen;2018;1947.0
+25;012 Teelt van meerjarige gewassen;2019;1970.0
+26;012 Teelt van meerjarige gewassen;2020;2043.0
+27;012 Teelt van meerjarige gewassen;2021;2039.0
+28;012 Teelt van meerjarige gewassen;2022;2019.0
+29;012 Teelt van meerjarige gewassen;2023;2104.0
+30;013 Teelt van bloembollen en sierplanten;2018;5502.0
+31;013 Teelt van bloembollen en sierplanten;2019;5507.0
+32;013 Teelt van bloembollen en sierplanten;2020;5528.0
+33;013 Teelt van bloembollen en sierplanten;2021;5554.0
+34;013 Teelt van bloembollen en sierplanten;2022;5551.0
+35;013 Teelt van bloembollen en sierplanten;2023;5517.0
+36;014 Veeteelt en fokkerijen;2018;17893.0
+37;014 Veeteelt en fokkerijen;2019;18182.0
+38;014 Veeteelt en fokkerijen;2020;18510.0
+39;014 Veeteelt en fokkerijen;2021;18764.0
+40;014 Veeteelt en fokkerijen;2022;18858.0
+41;014 Veeteelt en fokkerijen;2023;18892.0
+42;015 Gemengd bedrijf;2018;2427.0
+43;015 Gemengd bedrijf;2019;2429.0
+44;015 Gemengd bedrijf;2020;2456.0
+45;015 Gemengd bedrijf;2021;2413.0
+46;015 Gemengd bedrijf;2022;2402.0
+47;015 Gemengd bedrijf;2023;2443.0
+48;016 Dienstverlening voor de landbouw;2018;14786.0
+49;016 Dienstverlening voor de landbouw;2019;15328.0
+50;016 Dienstverlening voor de landbouw;2020;15933.0
+51;016 Dienstverlening voor de landbouw;2021;16312.0
+52;016 Dienstverlening voor de landbouw;2022;16843.0
+53;016 Dienstverlening voor de landbouw;2023;17239.0
+54;017 Jacht;2018;26.0
+55;017 Jacht;2019;21.0
+56;017 Jacht;2020;27.0
+57;017 Jacht;2021;25.0
+58;017 Jacht;2022;25.0
+59;017 Jacht;2023;23.0
+60;02 Bosbouw;2018;819.0
+61;02 Bosbouw;2019;836.0
+62;02 Bosbouw;2020;853.0
+63;02 Bosbouw;2021;848.0
+64;02 Bosbouw;2022;805.0
+65;02 Bosbouw;2023;821.0
+66;021 Bosbouw;2018;540.0
+67;021 Bosbouw;2019;530.0
+68;021 Bosbouw;2020;545.0
+69;021 Bosbouw;2021;540.0
+70;021 Bosbouw;2022;482.0
+71;021 Bosbouw;2023;488.0
+72;022 Exploitatie van bossen;2018;123.0
+73;022 Exploitatie van bossen;2019;123.0
+74;022 Exploitatie van bossen;2020;124.0
+75;022 Exploitatie van bossen;2021;126.0
+76;022 Exploitatie van bossen;2022;125.0
+77;022 Exploitatie van bossen;2023;103.0
+78;024 Dienstverlening voor de bosbouw;2018;156.0
+79;024 Dienstverlening voor de bosbouw;2019;183.0
+80;024 Dienstverlening voor de bosbouw;2020;184.0
+81;024 Dienstverlening voor de bosbouw;2021;182.0
+82;024 Dienstverlening voor de bosbouw;2022;198.0
+83;024 Dienstverlening voor de bosbouw;2023;230.0
+84;03 Visserij;2018;753.0
+85;03 Visserij;2019;755.0
+86;03 Visserij;2020;730.0
+87;03 Visserij;2021;718.0
+88;03 Visserij;2022;694.0
+89;03 Visserij;2023;713.0
+90;031 Visserij;2018;655.0
+91;031 Visserij;2019;650.0
+92;031 Visserij;2020;630.0
+93;031 Visserij;2021;623.0
+94;031 Visserij;2022;609.0
+95;031 Visserij;2023;616.0
+96;032 Viskwekerij;2018;98.0
+97;032 Viskwekerij;2019;105.0
+98;032 Viskwekerij;2020;100.0
+99;032 Viskwekerij;2021;95.0
+100;032 Viskwekerij;2022;85.0
+101;032 Viskwekerij;2023;97.0
+102;B Delfstoffenwinning;2018;391.0
+103;B Delfstoffenwinning;2019;403.0
+104;B Delfstoffenwinning;2020;422.0
+105;B Delfstoffenwinning;2021;389.0
+106;B Delfstoffenwinning;2022;430.0
+107;B Delfstoffenwinning;2023;418.0
+108;B-E Nijverheid (geen bouw) en energie;2018;83546.0
+109;B-E Nijverheid (geen bouw) en energie;2019;83838.0
+110;B-E Nijverheid (geen bouw) en energie;2020;84550.0
+111;B-E Nijverheid (geen bouw) en energie;2021;92155.0
+112;B-E Nijverheid (geen bouw) en energie;2022;93867.0
+113;B-E Nijverheid (geen bouw) en energie;2023;95752.0
+114;06 Winning van aardolie en aardgas;2018;43.0
+115;06 Winning van aardolie en aardgas;2019;42.0
+116;06 Winning van aardolie en aardgas;2020;45.0
+117;06 Winning van aardolie en aardgas;2021;
+118;06 Winning van aardolie en aardgas;2022;
+119;06 Winning van aardolie en aardgas;2023;49.0
+120;061 Winning van aardolie;2018;5.0
+121;061 Winning van aardolie;2019;
+122;061 Winning van aardolie;2020;
+123;061 Winning van aardolie;2021;
+124;061 Winning van aardolie;2022;
+125;061 Winning van aardolie;2023;7.0
+126;062 Winning van aardgas;2018;38.0
+127;062 Winning van aardgas;2019;
+128;062 Winning van aardgas;2020;
+129;062 Winning van aardgas;2021;40.0
+130;062 Winning van aardgas;2022;49.0
+131;062 Winning van aardgas;2023;42.0
+132;08 Delfstoffenwinning (geen olie en gas);2018;207.0
+133;08 Delfstoffenwinning (geen olie en gas);2019;206.0
+134;08 Delfstoffenwinning (geen olie en gas);2020;217.0
+135;08 Delfstoffenwinning (geen olie en gas);2021;198.0
+136;08 Delfstoffenwinning (geen olie en gas);2022;202.0
+137;08 Delfstoffenwinning (geen olie en gas);2023;204.0
+138;081 Winning van zand, grind en klei;2018;140.0
+139;081 Winning van zand, grind en klei;2019;154.0
+140;081 Winning van zand, grind en klei;2020;163.0
+141;081 Winning van zand, grind en klei;2021;150.0
+142;081 Winning van zand, grind en klei;2022;153.0
+143;081 Winning van zand, grind en klei;2023;156.0
+144;089 Winning van overige delfstoffen;2018;67.0
+145;089 Winning van overige delfstoffen;2019;52.0
+146;089 Winning van overige delfstoffen;2020;54.0
+147;089 Winning van overige delfstoffen;2021;48.0
+148;089 Winning van overige delfstoffen;2022;49.0
+149;089 Winning van overige delfstoffen;2023;48.0
+150;09 Dienstverlening delfstoffenwinning;2018;141.0
+151;09 Dienstverlening delfstoffenwinning;2019;155.0
+152;09 Dienstverlening delfstoffenwinning;2020;160.0
+153;09 Dienstverlening delfstoffenwinning;2021;
+154;09 Dienstverlening delfstoffenwinning;2022;
+155;09 Dienstverlening delfstoffenwinning;2023;165.0
+156;091 Dienstverlening olie- en gaswinning;2018;135.0
+157;091 Dienstverlening olie- en gaswinning;2019;148.0
+158;091 Dienstverlening olie- en gaswinning;2020;154.0
+159;091 Dienstverlening olie- en gaswinning;2021;140.0
+160;091 Dienstverlening olie- en gaswinning;2022;165.0
+161;091 Dienstverlening olie- en gaswinning;2023;157.0
+162;099 Dienstverlening overige winning;2018;6.0
+163;099 Dienstverlening overige winning;2019;7.0
+164;099 Dienstverlening overige winning;2020;6.0
+165;099 Dienstverlening overige winning;2021;
+166;099 Dienstverlening overige winning;2022;
+167;099 Dienstverlening overige winning;2023;8.0
+168;C Industrie;2018;72892.0
+169;C Industrie;2019;74486.0
+170;C Industrie;2020;75664.0
+171;C Industrie;2021;82713.0
+172;C Industrie;2022;82129.0
+173;C Industrie;2023;83092.0
+174;10 Voedingsmiddelenindustrie;2018;5548.0
+175;10 Voedingsmiddelenindustrie;2019;5695.0
+176;10 Voedingsmiddelenindustrie;2020;5600.0
+177;10 Voedingsmiddelenindustrie;2021;5518.0
+178;10 Voedingsmiddelenindustrie;2022;5529.0
+179;10 Voedingsmiddelenindustrie;2023;5499.0
+180;101 Slachterijen en vleeswarenindustrie;2018;686.0
+181;101 Slachterijen en vleeswarenindustrie;2019;695.0
+182;101 Slachterijen en vleeswarenindustrie;2020;674.0
+183;101 Slachterijen en vleeswarenindustrie;2021;688.0
+184;101 Slachterijen en vleeswarenindustrie;2022;700.0
+185;101 Slachterijen en vleeswarenindustrie;2023;710.0
+186;102 Visverwerkende industrie;2018;156.0
+187;102 Visverwerkende industrie;2019;159.0
+188;102 Visverwerkende industrie;2020;167.0
+189;102 Visverwerkende industrie;2021;152.0
+190;102 Visverwerkende industrie;2022;148.0
+191;102 Visverwerkende industrie;2023;175.0
+192;103 Groente-, fruitverwerkende industrie;2018;207.0
+193;103 Groente-, fruitverwerkende industrie;2019;226.0
+194;103 Groente-, fruitverwerkende industrie;2020;249.0
+195;103 Groente-, fruitverwerkende industrie;2021;265.0
+196;103 Groente-, fruitverwerkende industrie;2022;202.0
+197;103 Groente-, fruitverwerkende industrie;2023;224.0
+198;104 Spijsoliën- en -vettenindustrie e.d.;2018;12.0
+199;104 Spijsoliën- en -vettenindustrie e.d.;2019;16.0
+200;104 Spijsoliën- en -vettenindustrie e.d.;2020;26.0
+201;104 Spijsoliën- en -vettenindustrie e.d.;2021;17.0
+202;104 Spijsoliën- en -vettenindustrie e.d.;2022;12.0
+203;104 Spijsoliën- en -vettenindustrie e.d.;2023;11.0
+204;105 Zuivelindustrie;2018;237.0
+205;105 Zuivelindustrie;2019;262.0
+206;105 Zuivelindustrie;2020;296.0
+207;105 Zuivelindustrie;2021;306.0
+208;105 Zuivelindustrie;2022;331.0
+209;105 Zuivelindustrie;2023;328.0
+210;106 Meelindustrie;2018;78.0
+211;106 Meelindustrie;2019;89.0
+212;106 Meelindustrie;2020;81.0
+213;106 Meelindustrie;2021;84.0
+214;106 Meelindustrie;2022;80.0
+215;106 Meelindustrie;2023;77.0
+216;107 Brood- en deegwarenindustrie;2018;3146.0
+217;107 Brood- en deegwarenindustrie;2019;3114.0
+218;107 Brood- en deegwarenindustrie;2020;3034.0
+219;107 Brood- en deegwarenindustrie;2021;2996.0
+220;107 Brood- en deegwarenindustrie;2022;3014.0
+221;107 Brood- en deegwarenindustrie;2023;2962.0
+222;108 Overige voedingsmiddelenindustrie;2018;838.0
+223;108 Overige voedingsmiddelenindustrie;2019;944.0
+224;108 Overige voedingsmiddelenindustrie;2020;885.0
+225;108 Overige voedingsmiddelenindustrie;2021;810.0
+226;108 Overige voedingsmiddelenindustrie;2022;831.0
+227;108 Overige voedingsmiddelenindustrie;2023;800.0
+228;109 Diervoederindustrie;2018;188.0
+229;109 Diervoederindustrie;2019;190.0
+230;109 Diervoederindustrie;2020;188.0
+231;109 Diervoederindustrie;2021;200.0
+232;109 Diervoederindustrie;2022;211.0
+233;109 Diervoederindustrie;2023;212.0
+234;11 Drankenindustrie;2018;576.0
+235;11 Drankenindustrie;2019;566.0
+236;11 Drankenindustrie;2020;561.0
+237;11 Drankenindustrie;2021;511.0
+238;11 Drankenindustrie;2022;542.0
+239;11 Drankenindustrie;2023;573.0
+240;110 Drankenindustrie;2018;576.0
+241;110 Drankenindustrie;2019;566.0
+242;110 Drankenindustrie;2020;561.0
+243;110 Drankenindustrie;2021;511.0
+244;110 Drankenindustrie;2022;542.0
+245;110 Drankenindustrie;2023;573.0
+246;12 Tabaksindustrie;2018;8.0
+247;12 Tabaksindustrie;2019;6.0
+248;12 Tabaksindustrie;2020;
+249;12 Tabaksindustrie;2021;6.0
+250;12 Tabaksindustrie;2022;
+251;12 Tabaksindustrie;2023;
+252;120 Tabaksindustrie;2018;8.0
+253;120 Tabaksindustrie;2019;6.0
+254;120 Tabaksindustrie;2020;
+255;120 Tabaksindustrie;2021;6.0
+256;120 Tabaksindustrie;2022;
+257;120 Tabaksindustrie;2023;
+258;13 Textielindustrie;2018;1105.0
+259;13 Textielindustrie;2019;1155.0
+260;13 Textielindustrie;2020;1133.0
+261;13 Textielindustrie;2021;1161.0
+262;13 Textielindustrie;2022;1139.0
+263;13 Textielindustrie;2023;1128.0
+264;131 Spinnerijen;2018;12.0
+265;131 Spinnerijen;2019;13.0
+266;131 Spinnerijen;2020;13.0
+267;131 Spinnerijen;2021;15.0
+268;131 Spinnerijen;2022;10.0
+269;131 Spinnerijen;2023;14.0
+270;132 Weverijen;2018;14.0
+271;132 Weverijen;2019;13.0
+272;132 Weverijen;2020;11.0
+273;132 Weverijen;2021;10.0
+274;132 Weverijen;2022;13.0
+275;132 Weverijen;2023;12.0
+276;133 Textielveredelingsindustrie;2018;160.0
+277;133 Textielveredelingsindustrie;2019;169.0
+278;133 Textielveredelingsindustrie;2020;164.0
+279;133 Textielveredelingsindustrie;2021;164.0
+280;133 Textielveredelingsindustrie;2022;165.0
+281;133 Textielveredelingsindustrie;2023;179.0
+282;139 Overige textielproductenindustrie;2018;919.0
+283;139 Overige textielproductenindustrie;2019;960.0
+284;139 Overige textielproductenindustrie;2020;945.0
+285;139 Overige textielproductenindustrie;2021;972.0
+286;139 Overige textielproductenindustrie;2022;951.0
+287;139 Overige textielproductenindustrie;2023;923.0
+288;14 Kledingindustrie;2018;370.0
+289;14 Kledingindustrie;2019;339.0
+290;14 Kledingindustrie;2020;327.0
+291;14 Kledingindustrie;2021;303.0
+292;14 Kledingindustrie;2022;302.0
+293;14 Kledingindustrie;2023;278.0
+294;141 Kledingindustrie (geen bontkleding);2018;361.0
+295;141 Kledingindustrie (geen bontkleding);2019;329.0
+296;141 Kledingindustrie (geen bontkleding);2020;317.0
+297;141 Kledingindustrie (geen bontkleding);2021;294.0
+298;141 Kledingindustrie (geen bontkleding);2022;293.0
+299;141 Kledingindustrie (geen bontkleding);2023;272.0
+300;142 Bontartikelenindustrie;2018;
+301;142 Bontartikelenindustrie;2019;
+302;142 Bontartikelenindustrie;2020;
+303;142 Bontartikelenindustrie;2021;
+304;142 Bontartikelenindustrie;2022;
+305;142 Bontartikelenindustrie;2023;
+306;143 Gebreide kledingindustrie;2018;
+307;143 Gebreide kledingindustrie;2019;
+308;143 Gebreide kledingindustrie;2020;
+309;143 Gebreide kledingindustrie;2021;
+310;143 Gebreide kledingindustrie;2022;
+311;143 Gebreide kledingindustrie;2023;
+312;15 Leer- en schoenenindustrie;2018;206.0
+313;15 Leer- en schoenenindustrie;2019;203.0
+314;15 Leer- en schoenenindustrie;2020;202.0
+315;15 Leer- en schoenenindustrie;2021;
+316;15 Leer- en schoenenindustrie;2022;199.0
+317;15 Leer- en schoenenindustrie;2023;199.0
+318;151 Looierijen en lederwarenindustrie;2018;162.0
+319;151 Looierijen en lederwarenindustrie;2019;166.0
+320;151 Looierijen en lederwarenindustrie;2020;168.0
+321;151 Looierijen en lederwarenindustrie;2021;
+322;151 Looierijen en lederwarenindustrie;2022;163.0
+323;151 Looierijen en lederwarenindustrie;2023;156.0
+324;152 Schoenenindustrie;2018;44.0
+325;152 Schoenenindustrie;2019;37.0
+326;152 Schoenenindustrie;2020;34.0
+327;152 Schoenenindustrie;2021;31.0
+328;152 Schoenenindustrie;2022;36.0
+329;152 Schoenenindustrie;2023;43.0
+330;16 Houtindustrie;2018;2845.0
+331;16 Houtindustrie;2019;2881.0
+332;16 Houtindustrie;2020;3003.0
+333;16 Houtindustrie;2021;3212.0
+334;16 Houtindustrie;2022;3374.0
+335;16 Houtindustrie;2023;3462.0
+336;161 Primaire houtbewerking e.d.;2018;317.0
+337;161 Primaire houtbewerking e.d.;2019;321.0
+338;161 Primaire houtbewerking e.d.;2020;359.0
+339;161 Primaire houtbewerking e.d.;2021;379.0
+340;161 Primaire houtbewerking e.d.;2022;375.0
+341;161 Primaire houtbewerking e.d.;2023;337.0
+342;162 Hout-, kurk-, en rietwarenindustrie;2018;2528.0
+343;162 Hout-, kurk-, en rietwarenindustrie;2019;2560.0
+344;162 Hout-, kurk-, en rietwarenindustrie;2020;2644.0
+345;162 Hout-, kurk-, en rietwarenindustrie;2021;2833.0
+346;162 Hout-, kurk-, en rietwarenindustrie;2022;2999.0
+347;162 Hout-, kurk-, en rietwarenindustrie;2023;3125.0
+348;17 Papierindustrie;2018;245.0
+349;17 Papierindustrie;2019;246.0
+350;17 Papierindustrie;2020;205.0
+351;17 Papierindustrie;2021;211.0
+352;17 Papierindustrie;2022;207.0
+353;17 Papierindustrie;2023;225.0
+354;171 Pulp-, papier- en kartonindustrie;2018;25.0
+355;171 Pulp-, papier- en kartonindustrie;2019;29.0
+356;171 Pulp-, papier- en kartonindustrie;2020;23.0
+357;171 Pulp-, papier- en kartonindustrie;2021;30.0
+358;171 Pulp-, papier- en kartonindustrie;2022;28.0
+359;171 Pulp-, papier- en kartonindustrie;2023;26.0
+360;172 Papier- en kartonwarenindustrie;2018;220.0
+361;172 Papier- en kartonwarenindustrie;2019;217.0
+362;172 Papier- en kartonwarenindustrie;2020;182.0
+363;172 Papier- en kartonwarenindustrie;2021;181.0
+364;172 Papier- en kartonwarenindustrie;2022;179.0
+365;172 Papier- en kartonwarenindustrie;2023;199.0
+366;18 Grafische industrie;2018;1595.0
+367;18 Grafische industrie;2019;1486.0
+368;18 Grafische industrie;2020;1436.0
+369;18 Grafische industrie;2021;1359.0
+370;18 Grafische industrie;2022;1329.0
+371;18 Grafische industrie;2023;1293.0
+372;181 Drukkerijen en diensten daarvoor;2018;1538.0
+373;181 Drukkerijen en diensten daarvoor;2019;1432.0
+374;181 Drukkerijen en diensten daarvoor;2020;1379.0
+375;181 Drukkerijen en diensten daarvoor;2021;1311.0
+376;181 Drukkerijen en diensten daarvoor;2022;1277.0
+377;181 Drukkerijen en diensten daarvoor;2023;1246.0
+378;182 Repro van geluid, beeld en software;2018;57.0
+379;182 Repro van geluid, beeld en software;2019;54.0
+380;182 Repro van geluid, beeld en software;2020;57.0
+381;182 Repro van geluid, beeld en software;2021;48.0
+382;182 Repro van geluid, beeld en software;2022;52.0
+383;182 Repro van geluid, beeld en software;2023;47.0
+384;19 Aardolie-industrie;2018;195.0
+385;19 Aardolie-industrie;2019;217.0
+386;19 Aardolie-industrie;2020;264.0
+387;19 Aardolie-industrie;2021;242.0
+388;19 Aardolie-industrie;2022;241.0
+389;19 Aardolie-industrie;2023;272.0
+390;191 Cokesfabrieken;2018;0.0
+391;191 Cokesfabrieken;2019;0.0
+392;191 Cokesfabrieken;2020;0.0
+393;191 Cokesfabrieken;2021;0.0
+394;191 Cokesfabrieken;2022;0.0
+395;191 Cokesfabrieken;2023;0.0
+396;192 Aardolie-industrie;2018;195.0
+397;192 Aardolie-industrie;2019;217.0
+398;192 Aardolie-industrie;2020;264.0
+399;192 Aardolie-industrie;2021;242.0
+400;192 Aardolie-industrie;2022;241.0
+401;192 Aardolie-industrie;2023;272.0
+402;20 Chemische industrie;2018;764.0
+403;20 Chemische industrie;2019;719.0
+404;20 Chemische industrie;2020;692.0
+405;20 Chemische industrie;2021;
+406;20 Chemische industrie;2022;4917.0
+407;20 Chemische industrie;2023;3123.0
+408;201 Basischemie;2018;454.0
+409;201 Basischemie;2019;421.0
+410;201 Basischemie;2020;413.0
+411;201 Basischemie;2021;
+412;201 Basischemie;2022;
+413;201 Basischemie;2023;2868.0
+414;202 Landbouwchemicaliënindustrie;2018;
+415;202 Landbouwchemicaliënindustrie;2019;9.0
+416;202 Landbouwchemicaliënindustrie;2020;8.0
+417;202 Landbouwchemicaliënindustrie;2021;7.0
+418;202 Landbouwchemicaliënindustrie;2022;7.0
+419;202 Landbouwchemicaliënindustrie;2023;9.0
+420;203 Verf-, vernis- en drukinktindustrie;2018;107.0
+421;203 Verf-, vernis- en drukinktindustrie;2019;100.0
+422;203 Verf-, vernis- en drukinktindustrie;2020;85.0
+423;203 Verf-, vernis- en drukinktindustrie;2021;86.0
+424;203 Verf-, vernis- en drukinktindustrie;2022;
+425;203 Verf-, vernis- en drukinktindustrie;2023;77.0
+426;204 Wasmiddel- en cosmeticaindustrie;2018;100.0
+427;204 Wasmiddel- en cosmeticaindustrie;2019;108.0
+428;204 Wasmiddel- en cosmeticaindustrie;2020;105.0
+429;204 Wasmiddel- en cosmeticaindustrie;2021;
+430;204 Wasmiddel- en cosmeticaindustrie;2022;
+431;204 Wasmiddel- en cosmeticaindustrie;2023;97.0
+432;205 Overige chemische productenindustrie;2018;70.0
+433;205 Overige chemische productenindustrie;2019;68.0
+434;205 Overige chemische productenindustrie;2020;68.0
+435;205 Overige chemische productenindustrie;2021;
+436;205 Overige chemische productenindustrie;2022;
+437;205 Overige chemische productenindustrie;2023;61.0
+438;206 Synthetische vezelindustrie;2018;
+439;206 Synthetische vezelindustrie;2019;13.0
+440;206 Synthetische vezelindustrie;2020;13.0
+441;206 Synthetische vezelindustrie;2021;11.0
+442;206 Synthetische vezelindustrie;2022;10.0
+443;206 Synthetische vezelindustrie;2023;11.0
+444;21 Farmaceutische industrie;2018;113.0
+445;21 Farmaceutische industrie;2019;122.0
+446;21 Farmaceutische industrie;2020;
+447;21 Farmaceutische industrie;2021;
+448;21 Farmaceutische industrie;2022;
+449;21 Farmaceutische industrie;2023;
+450;211 Farmaceutische grondstofindustrie;2018;
+451;211 Farmaceutische grondstofindustrie;2019;
+452;211 Farmaceutische grondstofindustrie;2020;
+453;211 Farmaceutische grondstofindustrie;2021;
+454;211 Farmaceutische grondstofindustrie;2022;
+455;211 Farmaceutische grondstofindustrie;2023;
+456;212 Farmaceutische productenindustrie;2018;
+457;212 Farmaceutische productenindustrie;2019;
+458;212 Farmaceutische productenindustrie;2020;119.0
+459;212 Farmaceutische productenindustrie;2021;
+460;212 Farmaceutische productenindustrie;2022;117.0
+461;212 Farmaceutische productenindustrie;2023;117.0
+462;22 Rubber- en kunststofproductindustrie;2018;1592.0
+463;22 Rubber- en kunststofproductindustrie;2019;1487.0
+464;22 Rubber- en kunststofproductindustrie;2020;1604.0
+465;22 Rubber- en kunststofproductindustrie;2021;1575.0
+466;22 Rubber- en kunststofproductindustrie;2022;1617.0
+467;22 Rubber- en kunststofproductindustrie;2023;1785.0
+468;221 Rubberproductenindustrie;2018;137.0
+469;221 Rubberproductenindustrie;2019;120.0
+470;221 Rubberproductenindustrie;2020;126.0
+471;221 Rubberproductenindustrie;2021;117.0
+472;221 Rubberproductenindustrie;2022;108.0
+473;221 Rubberproductenindustrie;2023;89.0
+474;222 Kunststofproductenindustrie;2018;1455.0
+475;222 Kunststofproductenindustrie;2019;1367.0
+476;222 Kunststofproductenindustrie;2020;1478.0
+477;222 Kunststofproductenindustrie;2021;1458.0
+478;222 Kunststofproductenindustrie;2022;1509.0
+479;222 Kunststofproductenindustrie;2023;1696.0
+480;23 Bouwmaterialenindustrie;2018;1851.0
+481;23 Bouwmaterialenindustrie;2019;1888.0
+482;23 Bouwmaterialenindustrie;2020;1923.0
+483;23 Bouwmaterialenindustrie;2021;1929.0
+484;23 Bouwmaterialenindustrie;2022;2006.0
+485;23 Bouwmaterialenindustrie;2023;2069.0
+486;231 Glas- en glaswerkindustrie;2018;481.0
+487;231 Glas- en glaswerkindustrie;2019;491.0
+488;231 Glas- en glaswerkindustrie;2020;500.0
+489;231 Glas- en glaswerkindustrie;2021;501.0
+490;231 Glas- en glaswerkindustrie;2022;510.0
+491;231 Glas- en glaswerkindustrie;2023;541.0
+492;232 Vuurvast keramische productindustrie;2018;33.0
+493;232 Vuurvast keramische productindustrie;2019;25.0
+494;232 Vuurvast keramische productindustrie;2020;29.0
+495;232 Vuurvast keramische productindustrie;2021;25.0
+496;232 Vuurvast keramische productindustrie;2022;26.0
+497;232 Vuurvast keramische productindustrie;2023;25.0
+498;233 Keramische bouwproductenindustrie;2018;47.0
+499;233 Keramische bouwproductenindustrie;2019;
+500;233 Keramische bouwproductenindustrie;2020;48.0
+501;233 Keramische bouwproductenindustrie;2021;46.0
+502;233 Keramische bouwproductenindustrie;2022;45.0
+503;233 Keramische bouwproductenindustrie;2023;49.0
+504;234 Overige keramische industrie;2018;104.0
+505;234 Overige keramische industrie;2019;97.0
+506;234 Overige keramische industrie;2020;101.0
+507;234 Overige keramische industrie;2021;90.0
+508;234 Overige keramische industrie;2022;90.0
+509;234 Overige keramische industrie;2023;86.0
+510;235 Cement-, kalk- en gipsindustrie;2018;
+511;235 Cement-, kalk- en gipsindustrie;2019;
+512;235 Cement-, kalk- en gipsindustrie;2020;13.0
+513;235 Cement-, kalk- en gipsindustrie;2021;13.0
+514;235 Cement-, kalk- en gipsindustrie;2022;10.0
+515;235 Cement-, kalk- en gipsindustrie;2023;11.0
+516;236 Beton-, gips-, cementwarenindustrie;2018;552.0
+517;236 Beton-, gips-, cementwarenindustrie;2019;573.0
+518;236 Beton-, gips-, cementwarenindustrie;2020;576.0
+519;236 Beton-, gips-, cementwarenindustrie;2021;623.0
+520;236 Beton-, gips-, cementwarenindustrie;2022;663.0
+521;236 Beton-, gips-, cementwarenindustrie;2023;666.0
+522;237 Natuursteenbewerkende industrie;2018;559.0
+523;237 Natuursteenbewerkende industrie;2019;562.0
+524;237 Natuursteenbewerkende industrie;2020;590.0
+525;237 Natuursteenbewerkende industrie;2021;566.0
+526;237 Natuursteenbewerkende industrie;2022;594.0
+527;237 Natuursteenbewerkende industrie;2023;618.0
+528;239 Overige minerale productenindustrie;2018;
+529;239 Overige minerale productenindustrie;2019;80.0
+530;239 Overige minerale productenindustrie;2020;66.0
+531;239 Overige minerale productenindustrie;2021;65.0
+532;239 Overige minerale productenindustrie;2022;68.0
+533;239 Overige minerale productenindustrie;2023;73.0
+534;24 Basismetaalindustrie;2018;393.0
+535;24 Basismetaalindustrie;2019;325.0
+536;24 Basismetaalindustrie;2020;635.0
+537;24 Basismetaalindustrie;2021;683.0
+538;24 Basismetaalindustrie;2022;668.0
+539;24 Basismetaalindustrie;2023;717.0
+540;241 IJzer- en staalindustrie;2018;86.0
+541;241 IJzer- en staalindustrie;2019;69.0
+542;241 IJzer- en staalindustrie;2020;
+543;241 IJzer- en staalindustrie;2021;401.0
+544;241 IJzer- en staalindustrie;2022;367.0
+545;241 IJzer- en staalindustrie;2023;
+546;242 Stalen buizenindustrie;2018;80.0
+547;242 Stalen buizenindustrie;2019;69.0
+548;242 Stalen buizenindustrie;2020;71.0
+549;242 Stalen buizenindustrie;2021;87.0
+550;242 Stalen buizenindustrie;2022;88.0
+551;242 Stalen buizenindustrie;2023;106.0
+552;243 Staaltrekkerijen, -walserijen e.d.;2018;22.0
+553;243 Staaltrekkerijen, -walserijen e.d.;2019;26.0
+554;243 Staaltrekkerijen, -walserijen e.d.;2020;30.0
+555;243 Staaltrekkerijen, -walserijen e.d.;2021;29.0
+556;243 Staaltrekkerijen, -walserijen e.d.;2022;33.0
+557;243 Staaltrekkerijen, -walserijen e.d.;2023;
+558;244 Edel- en non-ferrometaalindustrie;2018;99.0
+559;244 Edel- en non-ferrometaalindustrie;2019;60.0
+560;244 Edel- en non-ferrometaalindustrie;2020;76.0
+561;244 Edel- en non-ferrometaalindustrie;2021;73.0
+562;244 Edel- en non-ferrometaalindustrie;2022;87.0
+563;244 Edel- en non-ferrometaalindustrie;2023;79.0
+564;245 Metaalgieterijen;2018;106.0
+565;245 Metaalgieterijen;2019;101.0
+566;245 Metaalgieterijen;2020;
+567;245 Metaalgieterijen;2021;93.0
+568;245 Metaalgieterijen;2022;93.0
+569;245 Metaalgieterijen;2023;89.0
+570;25 Metaalproductenindustrie;2018;15626.0
+571;25 Metaalproductenindustrie;2019;16340.0
+572;25 Metaalproductenindustrie;2020;16483.0
+573;25 Metaalproductenindustrie;2021;17118.0
+574;25 Metaalproductenindustrie;2022;17220.0
+575;25 Metaalproductenindustrie;2023;17838.0
+576;251 Metalen bouwproductenindustrie;2018;6006.0
+577;251 Metalen bouwproductenindustrie;2019;6281.0
+578;251 Metalen bouwproductenindustrie;2020;6249.0
+579;251 Metalen bouwproductenindustrie;2021;6557.0
+580;251 Metalen bouwproductenindustrie;2022;6463.0
+581;251 Metalen bouwproductenindustrie;2023;6692.0
+582;252 Tankbouw en cv-industrie;2018;396.0
+583;252 Tankbouw en cv-industrie;2019;408.0
+584;252 Tankbouw en cv-industrie;2020;373.0
+585;252 Tankbouw en cv-industrie;2021;372.0
+586;252 Tankbouw en cv-industrie;2022;377.0
+587;252 Tankbouw en cv-industrie;2023;393.0
+588;253 Stoomketelindustrie;2018;
+589;253 Stoomketelindustrie;2019;
+590;253 Stoomketelindustrie;2020;
+591;253 Stoomketelindustrie;2021;22.0
+592;253 Stoomketelindustrie;2022;
+593;253 Stoomketelindustrie;2023;
+594;254 Wapen- en munitie-industrie;2018;
+595;254 Wapen- en munitie-industrie;2019;
+596;254 Wapen- en munitie-industrie;2020;
+597;254 Wapen- en munitie-industrie;2021;4.0
+598;254 Wapen- en munitie-industrie;2022;
+599;254 Wapen- en munitie-industrie;2023;
+600;255 Smederijen, profielwalserijen e.d.;2018;549.0
+601;255 Smederijen, profielwalserijen e.d.;2019;535.0
+602;255 Smederijen, profielwalserijen e.d.;2020;518.0
+603;255 Smederijen, profielwalserijen e.d.;2021;518.0
+604;255 Smederijen, profielwalserijen e.d.;2022;510.0
+605;255 Smederijen, profielwalserijen e.d.;2023;504.0
+606;256 Overige metaalbewerkingsindustrie;2018;7095.0
+607;256 Overige metaalbewerkingsindustrie;2019;7490.0
+608;256 Overige metaalbewerkingsindustrie;2020;7732.0
+609;256 Overige metaalbewerkingsindustrie;2021;8062.0
+610;256 Overige metaalbewerkingsindustrie;2022;8223.0
+611;256 Overige metaalbewerkingsindustrie;2023;8627.0
+612;257 Bestek-, gereedschapindustrie e.d.;2018;471.0
+613;257 Bestek-, gereedschapindustrie e.d.;2019;490.0
+614;257 Bestek-, gereedschapindustrie e.d.;2020;484.0
+615;257 Bestek-, gereedschapindustrie e.d.;2021;473.0
+616;257 Bestek-, gereedschapindustrie e.d.;2022;465.0
+617;257 Bestek-, gereedschapindustrie e.d.;2023;448.0
+618;259 Overige metaalproductenindustrie;2018;1091.0
+619;259 Overige metaalproductenindustrie;2019;1118.0
+620;259 Overige metaalproductenindustrie;2020;1099.0
+621;259 Overige metaalproductenindustrie;2021;1110.0
+622;259 Overige metaalproductenindustrie;2022;1156.0
+623;259 Overige metaalproductenindustrie;2023;1150.0
+624;26 Elektrotechnische industrie;2018;804.0
+625;26 Elektrotechnische industrie;2019;835.0
+626;26 Elektrotechnische industrie;2020;786.0
+627;26 Elektrotechnische industrie;2021;690.0
+628;26 Elektrotechnische industrie;2022;638.0
+629;26 Elektrotechnische industrie;2023;690.0
+630;261 Elektrocomponentenindustrie e.d.;2018;173.0
+631;261 Elektrocomponentenindustrie e.d.;2019;192.0
+632;261 Elektrocomponentenindustrie e.d.;2020;174.0
+633;261 Elektrocomponentenindustrie e.d.;2021;142.0
+634;261 Elektrocomponentenindustrie e.d.;2022;138.0
+635;261 Elektrocomponentenindustrie e.d.;2023;151.0
+636;262 Computerindustrie;2018;58.0
+637;262 Computerindustrie;2019;66.0
+638;262 Computerindustrie;2020;66.0
+639;262 Computerindustrie;2021;
+640;262 Computerindustrie;2022;34.0
+641;262 Computerindustrie;2023;31.0
+642;263 Communicatieapparatenindustrie;2018;69.0
+643;263 Communicatieapparatenindustrie;2019;44.0
+644;263 Communicatieapparatenindustrie;2020;40.0
+645;263 Communicatieapparatenindustrie;2021;27.0
+646;263 Communicatieapparatenindustrie;2022;35.0
+647;263 Communicatieapparatenindustrie;2023;31.0
+648;264 Consumentenelektronicaindustrie;2018;51.0
+649;264 Consumentenelektronicaindustrie;2019;58.0
+650;264 Consumentenelektronicaindustrie;2020;
+651;264 Consumentenelektronicaindustrie;2021;42.0
+652;264 Consumentenelektronicaindustrie;2022;41.0
+653;264 Consumentenelektronicaindustrie;2023;
+654;265 Meetapparaten- en uurwerkindustrie;2018;357.0
+655;265 Meetapparaten- en uurwerkindustrie;2019;381.0
+656;265 Meetapparaten- en uurwerkindustrie;2020;373.0
+657;265 Meetapparaten- en uurwerkindustrie;2021;380.0
+658;265 Meetapparaten- en uurwerkindustrie;2022;344.0
+659;265 Meetapparaten- en uurwerkindustrie;2023;385.0
+660;266 Elektromedische apparatenindustrie;2018;41.0
+661;266 Elektromedische apparatenindustrie;2019;40.0
+662;266 Elektromedische apparatenindustrie;2020;36.0
+663;266 Elektromedische apparatenindustrie;2021;23.0
+664;266 Elektromedische apparatenindustrie;2022;
+665;266 Elektromedische apparatenindustrie;2023;23.0
+666;267 Optische instrumentenindustrie;2018;47.0
+667;267 Optische instrumentenindustrie;2019;47.0
+668;267 Optische instrumentenindustrie;2020;40.0
+669;267 Optische instrumentenindustrie;2021;22.0
+670;267 Optische instrumentenindustrie;2022;22.0
+671;267 Optische instrumentenindustrie;2023;26.0
+672;268 Industrie van informatiedragers;2018;8.0
+673;268 Industrie van informatiedragers;2019;7.0
+674;268 Industrie van informatiedragers;2020;
+675;268 Industrie van informatiedragers;2021;
+676;268 Industrie van informatiedragers;2022;
+677;268 Industrie van informatiedragers;2023;
+678;27 Elektrische apparatenindustrie;2018;1437.0
+679;27 Elektrische apparatenindustrie;2019;1445.0
+680;27 Elektrische apparatenindustrie;2020;1502.0
+681;27 Elektrische apparatenindustrie;2021;1381.0
+682;27 Elektrische apparatenindustrie;2022;1409.0
+683;27 Elektrische apparatenindustrie;2023;1431.0
+684;271 Elektromotor- en -panelenindustrie;2018;516.0
+685;271 Elektromotor- en -panelenindustrie;2019;532.0
+686;271 Elektromotor- en -panelenindustrie;2020;540.0
+687;271 Elektromotor- en -panelenindustrie;2021;457.0
+688;271 Elektromotor- en -panelenindustrie;2022;429.0
+689;271 Elektromotor- en -panelenindustrie;2023;428.0
+690;272 Accu- en batterijenindustrie;2018;25.0
+691;272 Accu- en batterijenindustrie;2019;27.0
+692;272 Accu- en batterijenindustrie;2020;28.0
+693;272 Accu- en batterijenindustrie;2021;29.0
+694;272 Accu- en batterijenindustrie;2022;37.0
+695;272 Accu- en batterijenindustrie;2023;38.0
+696;273 Elektr. kabel-, schakelaarindustrie;2018;78.0
+697;273 Elektr. kabel-, schakelaarindustrie;2019;75.0
+698;273 Elektr. kabel-, schakelaarindustrie;2020;79.0
+699;273 Elektr. kabel-, schakelaarindustrie;2021;68.0
+700;273 Elektr. kabel-, schakelaarindustrie;2022;81.0
+701;273 Elektr. kabel-, schakelaarindustrie;2023;82.0
+702;274 Elektrische verlichtingsindustrie;2018;303.0
+703;274 Elektrische verlichtingsindustrie;2019;338.0
+704;274 Elektrische verlichtingsindustrie;2020;335.0
+705;274 Elektrische verlichtingsindustrie;2021;294.0
+706;274 Elektrische verlichtingsindustrie;2022;311.0
+707;274 Elektrische verlichtingsindustrie;2023;307.0
+708;275 Huishoudelijke apparatenindustrie;2018;159.0
+709;275 Huishoudelijke apparatenindustrie;2019;165.0
+710;275 Huishoudelijke apparatenindustrie;2020;166.0
+711;275 Huishoudelijke apparatenindustrie;2021;154.0
+712;275 Huishoudelijke apparatenindustrie;2022;147.0
+713;275 Huishoudelijke apparatenindustrie;2023;149.0
+714;279 Overige elektr. apparatenindustrie;2018;356.0
+715;279 Overige elektr. apparatenindustrie;2019;308.0
+716;279 Overige elektr. apparatenindustrie;2020;354.0
+717;279 Overige elektr. apparatenindustrie;2021;379.0
+718;279 Overige elektr. apparatenindustrie;2022;404.0
+719;279 Overige elektr. apparatenindustrie;2023;427.0
+720;28 Machine-industrie;2018;6971.0
+721;28 Machine-industrie;2019;7172.0
+722;28 Machine-industrie;2020;7190.0
+723;28 Machine-industrie;2021;7213.0
+724;28 Machine-industrie;2022;7235.0
+725;28 Machine-industrie;2023;7595.0
+726;281 Motoren-, pompen- e.d. industrie;2018;878.0
+727;281 Motoren-, pompen- e.d. industrie;2019;810.0
+728;281 Motoren-, pompen- e.d. industrie;2020;826.0
+729;281 Motoren-, pompen- e.d. industrie;2021;804.0
+730;281 Motoren-, pompen- e.d. industrie;2022;790.0
+731;281 Motoren-, pompen- e.d. industrie;2023;830.0
+732;282 Overige machine-industrie algemeen;2018;3182.0
+733;282 Overige machine-industrie algemeen;2019;3408.0
+734;282 Overige machine-industrie algemeen;2020;3445.0
+735;282 Overige machine-industrie algemeen;2021;3421.0
+736;282 Overige machine-industrie algemeen;2022;3494.0
+737;282 Overige machine-industrie algemeen;2023;3692.0
+738;283 Landbouwmachine-industrie;2018;825.0
+739;283 Landbouwmachine-industrie;2019;843.0
+740;283 Landbouwmachine-industrie;2020;866.0
+741;283 Landbouwmachine-industrie;2021;816.0
+742;283 Landbouwmachine-industrie;2022;826.0
+743;283 Landbouwmachine-industrie;2023;866.0
+744;284 Gereedschapswerktuigenindustrie;2018;270.0
+745;284 Gereedschapswerktuigenindustrie;2019;281.0
+746;284 Gereedschapswerktuigenindustrie;2020;303.0
+747;284 Gereedschapswerktuigenindustrie;2021;304.0
+748;284 Gereedschapswerktuigenindustrie;2022;288.0
+749;284 Gereedschapswerktuigenindustrie;2023;290.0
+750;289 Overige machine-industrie specifiek;2018;1816.0
+751;289 Overige machine-industrie specifiek;2019;1830.0
+752;289 Overige machine-industrie specifiek;2020;1750.0
+753;289 Overige machine-industrie specifiek;2021;1868.0
+754;289 Overige machine-industrie specifiek;2022;1837.0
+755;289 Overige machine-industrie specifiek;2023;1917.0
+756;29 Auto- en aanhangwagenindustrie;2018;1198.0
+757;29 Auto- en aanhangwagenindustrie;2019;1203.0
+758;29 Auto- en aanhangwagenindustrie;2020;1186.0
+759;29 Auto- en aanhangwagenindustrie;2021;1141.0
+760;29 Auto- en aanhangwagenindustrie;2022;1136.0
+761;29 Auto- en aanhangwagenindustrie;2023;1174.0
+762;291 Autoindustrie;2018;182.0
+763;291 Autoindustrie;2019;170.0
+764;291 Autoindustrie;2020;170.0
+765;291 Autoindustrie;2021;186.0
+766;291 Autoindustrie;2022;174.0
+767;291 Autoindustrie;2023;213.0
+768;292 Carrosserie-, aanhangwagenindustrie;2018;862.0
+769;292 Carrosserie-, aanhangwagenindustrie;2019;862.0
+770;292 Carrosserie-, aanhangwagenindustrie;2020;835.0
+771;292 Carrosserie-, aanhangwagenindustrie;2021;808.0
+772;292 Carrosserie-, aanhangwagenindustrie;2022;805.0
+773;292 Carrosserie-, aanhangwagenindustrie;2023;800.0
+774;293 Auto-onderdelenindustrie;2018;154.0
+775;293 Auto-onderdelenindustrie;2019;171.0
+776;293 Auto-onderdelenindustrie;2020;181.0
+777;293 Auto-onderdelenindustrie;2021;147.0
+778;293 Auto-onderdelenindustrie;2022;157.0
+779;293 Auto-onderdelenindustrie;2023;161.0
+780;30 Overige transportmiddelenindustrie;2018;1248.0
+781;30 Overige transportmiddelenindustrie;2019;1287.0
+782;30 Overige transportmiddelenindustrie;2020;1244.0
+783;30 Overige transportmiddelenindustrie;2021;1247.0
+784;30 Overige transportmiddelenindustrie;2022;1241.0
+785;30 Overige transportmiddelenindustrie;2023;1278.0
+786;301 Scheepsbouw;2018;988.0
+787;301 Scheepsbouw;2019;1006.0
+788;301 Scheepsbouw;2020;943.0
+789;301 Scheepsbouw;2021;933.0
+790;301 Scheepsbouw;2022;928.0
+791;301 Scheepsbouw;2023;935.0
+792;302 Industrie van rollend spoormaterieel;2018;10.0
+793;302 Industrie van rollend spoormaterieel;2019;
+794;302 Industrie van rollend spoormaterieel;2020;
+795;302 Industrie van rollend spoormaterieel;2021;
+796;302 Industrie van rollend spoormaterieel;2022;49.0
+797;302 Industrie van rollend spoormaterieel;2023;42.0
+798;303 Vliegtuigindustrie;2018;
+799;303 Vliegtuigindustrie;2019;20.0
+800;303 Vliegtuigindustrie;2020;
+801;303 Vliegtuigindustrie;2021;16.0
+802;303 Vliegtuigindustrie;2022;
+803;303 Vliegtuigindustrie;2023;
+804;304 Industrie van gevechtsvoertuigen;2018;
+805;304 Industrie van gevechtsvoertuigen;2019;
+806;304 Industrie van gevechtsvoertuigen;2020;
+807;304 Industrie van gevechtsvoertuigen;2021;
+808;304 Industrie van gevechtsvoertuigen;2022;
+809;304 Industrie van gevechtsvoertuigen;2023;
+810;309 Overige transportmiddelenindustrie;2018;225.0
+811;309 Overige transportmiddelenindustrie;2019;229.0
+812;309 Overige transportmiddelenindustrie;2020;256.0
+813;309 Overige transportmiddelenindustrie;2021;258.0
+814;309 Overige transportmiddelenindustrie;2022;245.0
+815;309 Overige transportmiddelenindustrie;2023;279.0
+816;31 Meubelindustrie;2018;8217.0
+817;31 Meubelindustrie;2019;8380.0
+818;31 Meubelindustrie;2020;8709.0
+819;31 Meubelindustrie;2021;9060.0
+820;31 Meubelindustrie;2022;9199.0
+821;31 Meubelindustrie;2023;9275.0
+822;310 Meubelindustrie;2018;8217.0
+823;310 Meubelindustrie;2019;8380.0
+824;310 Meubelindustrie;2020;8709.0
+825;310 Meubelindustrie;2021;9060.0
+826;310 Meubelindustrie;2022;9199.0
+827;310 Meubelindustrie;2023;9275.0
+828;32 Overige industrie;2018;5168.0
+829;32 Overige industrie;2019;4737.0
+830;32 Overige industrie;2020;4628.0
+831;32 Overige industrie;2021;4867.0
+832;32 Overige industrie;2022;4577.0
+833;32 Overige industrie;2023;4571.0
+834;321 Munten- en sieradenindustrie;2018;146.0
+835;321 Munten- en sieradenindustrie;2019;145.0
+836;321 Munten- en sieradenindustrie;2020;144.0
+837;321 Munten- en sieradenindustrie;2021;152.0
+838;321 Munten- en sieradenindustrie;2022;154.0
+839;321 Munten- en sieradenindustrie;2023;137.0
+840;322 Muziekinstrumentenindustrie;2018;116.0
+841;322 Muziekinstrumentenindustrie;2019;119.0
+842;322 Muziekinstrumentenindustrie;2020;115.0
+843;322 Muziekinstrumentenindustrie;2021;103.0
+844;322 Muziekinstrumentenindustrie;2022;106.0
+845;322 Muziekinstrumentenindustrie;2023;109.0
+846;323 Sportartikelenindustrie;2018;194.0
+847;323 Sportartikelenindustrie;2019;201.0
+848;323 Sportartikelenindustrie;2020;186.0
+849;323 Sportartikelenindustrie;2021;195.0
+850;323 Sportartikelenindustrie;2022;180.0
+851;323 Sportartikelenindustrie;2023;203.0
+852;324 Speelgoedindustrie;2018;106.0
+853;324 Speelgoedindustrie;2019;104.0
+854;324 Speelgoedindustrie;2020;108.0
+855;324 Speelgoedindustrie;2021;88.0
+856;324 Speelgoedindustrie;2022;89.0
+857;324 Speelgoedindustrie;2023;102.0
+858;325 Medische instrumentenindustrie;2018;615.0
+859;325 Medische instrumentenindustrie;2019;570.0
+860;325 Medische instrumentenindustrie;2020;566.0
+861;325 Medische instrumentenindustrie;2021;576.0
+862;325 Medische instrumentenindustrie;2022;578.0
+863;325 Medische instrumentenindustrie;2023;523.0
+864;329 Overige industrie;2018;3991.0
+865;329 Overige industrie;2019;3598.0
+866;329 Overige industrie;2020;3509.0
+867;329 Overige industrie;2021;3753.0
+868;329 Overige industrie;2022;3470.0
+869;329 Overige industrie;2023;3497.0
+870;33 Reparatie en installatie van machines;2018;14817.0
+871;33 Reparatie en installatie van machines;2019;15752.0
+872;33 Reparatie en installatie van machines;2020;16222.0
+873;33 Reparatie en installatie van machines;2021;16649.0
+874;33 Reparatie en installatie van machines;2022;17281.0
+875;33 Reparatie en installatie van machines;2023;18493.0
+876;331 Reparatie van machines en apparatuur;2018;10696.0
+877;331 Reparatie van machines en apparatuur;2019;11287.0
+878;331 Reparatie van machines en apparatuur;2020;11538.0
+879;331 Reparatie van machines en apparatuur;2021;11793.0
+880;331 Reparatie van machines en apparatuur;2022;12281.0
+881;331 Reparatie van machines en apparatuur;2023;13177.0
+882;332 Installatie van industriële machines;2018;4121.0
+883;332 Installatie van industriële machines;2019;4465.0
+884;332 Installatie van industriële machines;2020;4684.0
+885;332 Installatie van industriële machines;2021;4856.0
+886;332 Installatie van industriële machines;2022;5000.0
+887;332 Installatie van industriële machines;2023;5316.0
+888;D Energievoorziening;2018;4125.0
+889;D Energievoorziening;2019;2717.0
+890;D Energievoorziening;2020;2518.0
+891;D Energievoorziening;2021;2646.0
+892;D Energievoorziening;2022;5013.0
+893;D Energievoorziening;2023;5453.0
+894;35 Energiebedrijven;2018;4125.0
+895;35 Energiebedrijven;2019;2717.0
+896;35 Energiebedrijven;2020;2518.0
+897;35 Energiebedrijven;2021;2646.0
+898;35 Energiebedrijven;2022;5013.0
+899;35 Energiebedrijven;2023;5453.0
+900;351 Energiebedrijven;2018;
+901;351 Energiebedrijven;2019;
+902;351 Energiebedrijven;2020;
+903;351 Energiebedrijven;2021;
+904;351 Energiebedrijven;2022;5004.0
+905;351 Energiebedrijven;2023;5442.0
+906;352 Productie van biogas;2018;0.0
+907;352 Productie van biogas;2019;
+908;352 Productie van biogas;2020;
+909;352 Productie van biogas;2021;
+910;352 Productie van biogas;2022;
+911;352 Productie van biogas;2023;
+912;353 Productie van stoom en koele lucht;2018;
+913;353 Productie van stoom en koele lucht;2019;
+914;353 Productie van stoom en koele lucht;2020;
+915;353 Productie van stoom en koele lucht;2021;
+916;353 Productie van stoom en koele lucht;2022;
+917;353 Productie van stoom en koele lucht;2023;
+918;E Waterbedrijven en afvalbeheer;2018;6138.0
+919;E Waterbedrijven en afvalbeheer;2019;6232.0
+920;E Waterbedrijven en afvalbeheer;2020;5946.0
+921;E Waterbedrijven en afvalbeheer;2021;6407.0
+922;E Waterbedrijven en afvalbeheer;2022;6295.0
+923;E Waterbedrijven en afvalbeheer;2023;6789.0
+924;36 Waterleidingbedrijven;2018;1314.0
+925;36 Waterleidingbedrijven;2019;1347.0
+926;36 Waterleidingbedrijven;2020;1295.0
+927;36 Waterleidingbedrijven;2021;1264.0
+928;36 Waterleidingbedrijven;2022;1182.0
+929;36 Waterleidingbedrijven;2023;1249.0
+930;360 Waterleidingbedrijven;2018;1314.0
+931;360 Waterleidingbedrijven;2019;1347.0
+932;360 Waterleidingbedrijven;2020;1295.0
+933;360 Waterleidingbedrijven;2021;1264.0
+934;360 Waterleidingbedrijven;2022;1182.0
+935;360 Waterleidingbedrijven;2023;1249.0
+936;37 Afvalwaterinzameling en -behandeling;2018;904.0
+937;37 Afvalwaterinzameling en -behandeling;2019;965.0
+938;37 Afvalwaterinzameling en -behandeling;2020;865.0
+939;37 Afvalwaterinzameling en -behandeling;2021;925.0
+940;37 Afvalwaterinzameling en -behandeling;2022;949.0
+941;37 Afvalwaterinzameling en -behandeling;2023;1258.0
+942;370 Afvalwaterinzameling en -behandeling;2018;904.0
+943;370 Afvalwaterinzameling en -behandeling;2019;965.0
+944;370 Afvalwaterinzameling en -behandeling;2020;865.0
+945;370 Afvalwaterinzameling en -behandeling;2021;925.0
+946;370 Afvalwaterinzameling en -behandeling;2022;949.0
+947;370 Afvalwaterinzameling en -behandeling;2023;1258.0
+948;38 Afvalbehandeling en recycling;2018;2782.0
+949;38 Afvalbehandeling en recycling;2019;2738.0
+950;38 Afvalbehandeling en recycling;2020;2780.0
+951;38 Afvalbehandeling en recycling;2021;3154.0
+952;38 Afvalbehandeling en recycling;2022;3127.0
+953;38 Afvalbehandeling en recycling;2023;3241.0
+954;381 Inzameling van afval;2018;1530.0
+955;381 Inzameling van afval;2019;1523.0
+956;381 Inzameling van afval;2020;1467.0
+957;381 Inzameling van afval;2021;1527.0
+958;381 Inzameling van afval;2022;1551.0
+959;381 Inzameling van afval;2023;1610.0
+960;382 Behandeling van afval;2018;672.0
+961;382 Behandeling van afval;2019;661.0
+962;382 Behandeling van afval;2020;612.0
+963;382 Behandeling van afval;2021;634.0
+964;382 Behandeling van afval;2022;627.0
+965;382 Behandeling van afval;2023;653.0
+966;383 Voorbereiding tot recycling;2018;580.0
+967;383 Voorbereiding tot recycling;2019;554.0
+968;383 Voorbereiding tot recycling;2020;701.0
+969;383 Voorbereiding tot recycling;2021;993.0
+970;383 Voorbereiding tot recycling;2022;949.0
+971;383 Voorbereiding tot recycling;2023;978.0
+972;39 Sanering en overig afvalbeheer;2018;1138.0
+973;39 Sanering en overig afvalbeheer;2019;1182.0
+974;39 Sanering en overig afvalbeheer;2020;1006.0
+975;39 Sanering en overig afvalbeheer;2021;1064.0
+976;39 Sanering en overig afvalbeheer;2022;1037.0
+977;39 Sanering en overig afvalbeheer;2023;1041.0
+978;390 Sanering en overig afvalbeheer;2018;1138.0
+979;390 Sanering en overig afvalbeheer;2019;1182.0
+980;390 Sanering en overig afvalbeheer;2020;1006.0
+981;390 Sanering en overig afvalbeheer;2021;1064.0
+982;390 Sanering en overig afvalbeheer;2022;1037.0
+983;390 Sanering en overig afvalbeheer;2023;1041.0
+984;F Bouwnijverheid;2018;272826.0
+985;F Bouwnijverheid;2019;284084.0
+986;F Bouwnijverheid;2020;292483.0
+987;F Bouwnijverheid;2021;303547.0
+988;F Bouwnijverheid;2022;312058.0
+989;F Bouwnijverheid;2023;326118.0
+990;41 Algemene bouw en projectontwikkeling;2018;84006.0
+991;41 Algemene bouw en projectontwikkeling;2019;88448.0
+992;41 Algemene bouw en projectontwikkeling;2020;91428.0
+993;41 Algemene bouw en projectontwikkeling;2021;95715.0
+994;41 Algemene bouw en projectontwikkeling;2022;98768.0
+995;41 Algemene bouw en projectontwikkeling;2023;102690.0
+996;411 Projectontwikkeling;2018;783.0
+997;411 Projectontwikkeling;2019;840.0
+998;411 Projectontwikkeling;2020;860.0
+999;411 Projectontwikkeling;2021;895.0
+1000;411 Projectontwikkeling;2022;1113.0
+1001;411 Projectontwikkeling;2023;1122.0
+1002;412 Algemene B&U-bouw;2018;83223.0
+1003;412 Algemene B&U-bouw;2019;87608.0
+1004;412 Algemene B&U-bouw;2020;90568.0
+1005;412 Algemene B&U-bouw;2021;94820.0
+1006;412 Algemene B&U-bouw;2022;97655.0
+1007;412 Algemene B&U-bouw;2023;101568.0
+1008;42 Grond-, water-  en wegenbouw;2018;22169.0
+1009;42 Grond-, water-  en wegenbouw;2019;22947.0
+1010;42 Grond-, water-  en wegenbouw;2020;23872.0
+1011;42 Grond-, water-  en wegenbouw;2021;25083.0
+1012;42 Grond-, water-  en wegenbouw;2022;24567.0
+1013;42 Grond-, water-  en wegenbouw;2023;25326.0
+1014;421 Bouw van wegen, spoorwegen, tunnels;2018;14225.0
+1015;421 Bouw van wegen, spoorwegen, tunnels;2019;14035.0
+1016;421 Bouw van wegen, spoorwegen, tunnels;2020;14392.0
+1017;421 Bouw van wegen, spoorwegen, tunnels;2021;14704.0
+1018;421 Bouw van wegen, spoorwegen, tunnels;2022;14847.0
+1019;421 Bouw van wegen, spoorwegen, tunnels;2023;14812.0
+1020;422 Buizen- en kabelleggers;2018;6765.0
+1021;422 Buizen- en kabelleggers;2019;7671.0
+1022;422 Buizen- en kabelleggers;2020;8171.0
+1023;422 Buizen- en kabelleggers;2021;9029.0
+1024;422 Buizen- en kabelleggers;2022;8384.0
+1025;422 Buizen- en kabelleggers;2023;9117.0
+1026;429 Overige civieltechnische bouw;2018;1179.0
+1027;429 Overige civieltechnische bouw;2019;1241.0
+1028;429 Overige civieltechnische bouw;2020;1309.0
+1029;429 Overige civieltechnische bouw;2021;1350.0
+1030;429 Overige civieltechnische bouw;2022;1336.0
+1031;429 Overige civieltechnische bouw;2023;1397.0
+1032;43 Gespecialiseerde bouw;2018;166651.0
+1033;43 Gespecialiseerde bouw;2019;172689.0
+1034;43 Gespecialiseerde bouw;2020;177183.0
+1035;43 Gespecialiseerde bouw;2021;182749.0
+1036;43 Gespecialiseerde bouw;2022;188723.0
+1037;43 Gespecialiseerde bouw;2023;198102.0
+1038;431 Sloopbedrijven en grondwerk;2018;12321.0
+1039;431 Sloopbedrijven en grondwerk;2019;13019.0
+1040;431 Sloopbedrijven en grondwerk;2020;13465.0
+1041;431 Sloopbedrijven en grondwerk;2021;13996.0
+1042;431 Sloopbedrijven en grondwerk;2022;14728.0
+1043;431 Sloopbedrijven en grondwerk;2023;15598.0
+1044;432 Bouwinstallatie;2018;66560.0
+1045;432 Bouwinstallatie;2019;68111.0
+1046;432 Bouwinstallatie;2020;69664.0
+1047;432 Bouwinstallatie;2021;71650.0
+1048;432 Bouwinstallatie;2022;74256.0
+1049;432 Bouwinstallatie;2023;78977.0
+1050;433 Afwerkingsbedrijven (bouw);2018;62877.0
+1051;433 Afwerkingsbedrijven (bouw);2019;65362.0
+1052;433 Afwerkingsbedrijven (bouw);2020;67268.0
+1053;433 Afwerkingsbedrijven (bouw);2021;69449.0
+1054;433 Afwerkingsbedrijven (bouw);2022;71270.0
+1055;433 Afwerkingsbedrijven (bouw);2023;73830.0
+1056;439 Overige gespecialiseerde bouw;2018;24893.0
+1057;439 Overige gespecialiseerde bouw;2019;26197.0
+1058;439 Overige gespecialiseerde bouw;2020;26786.0
+1059;439 Overige gespecialiseerde bouw;2021;27654.0
+1060;439 Overige gespecialiseerde bouw;2022;28469.0
+1061;439 Overige gespecialiseerde bouw;2023;29697.0
+1062;G-I Handel, vervoer en horeca;2018;266364.0
+1063;G-I Handel, vervoer en horeca;2019;273542.0
+1064;G-I Handel, vervoer en horeca;2020;274068.0
+1065;G-I Handel, vervoer en horeca;2021;276917.0
+1066;G-I Handel, vervoer en horeca;2022;281935.0
+1067;G-I Handel, vervoer en horeca;2023;290129.0
+1068;G Handel;2018;196386.0
+1069;G Handel;2019;200963.0
+1070;G Handel;2020;200494.0
+1071;G Handel;2021;198916.0
+1072;G Handel;2022;201441.0
+1073;G Handel;2023;210112.0
+1074;45 Autohandel en -reparatie;2018;64905.0
+1075;45 Autohandel en -reparatie;2019;67250.0
+1076;45 Autohandel en -reparatie;2020;65561.0
+1077;45 Autohandel en -reparatie;2021;60920.0
+1078;45 Autohandel en -reparatie;2022;63708.0
+1079;45 Autohandel en -reparatie;2023;71357.0
+1080;451 Autohandel en -reparatie;2018;49783.0
+1081;451 Autohandel en -reparatie;2019;51987.0
+1082;451 Autohandel en -reparatie;2020;50593.0
+1083;451 Autohandel en -reparatie;2021;45692.0
+1084;451 Autohandel en -reparatie;2022;48435.0
+1085;451 Autohandel en -reparatie;2023;55299.0
+1086;452 Gespecialiseerde autoreparatie;2018;7810.0
+1087;452 Gespecialiseerde autoreparatie;2019;8027.0
+1088;452 Gespecialiseerde autoreparatie;2020;7811.0
+1089;452 Gespecialiseerde autoreparatie;2021;8027.0
+1090;452 Gespecialiseerde autoreparatie;2022;7895.0
+1091;452 Gespecialiseerde autoreparatie;2023;8231.0
+1092;453 Handel in auto-onderdelen;2018;5551.0
+1093;453 Handel in auto-onderdelen;2019;5418.0
+1094;453 Handel in auto-onderdelen;2020;5288.0
+1095;453 Handel in auto-onderdelen;2021;5279.0
+1096;453 Handel in auto-onderdelen;2022;5481.0
+1097;453 Handel in auto-onderdelen;2023;5886.0
+1098;454 Handel en reparatie van motorfietsen;2018;1761.0
+1099;454 Handel en reparatie van motorfietsen;2019;1818.0
+1100;454 Handel en reparatie van motorfietsen;2020;1869.0
+1101;454 Handel en reparatie van motorfietsen;2021;1922.0
+1102;454 Handel en reparatie van motorfietsen;2022;1897.0
+1103;454 Handel en reparatie van motorfietsen;2023;1941.0
+1104;46 Groothandel en handelsbemiddeling;2018;70061.0
+1105;46 Groothandel en handelsbemiddeling;2019;71528.0
+1106;46 Groothandel en handelsbemiddeling;2020;71357.0
+1107;46 Groothandel en handelsbemiddeling;2021;71589.0
+1108;46 Groothandel en handelsbemiddeling;2022;71139.0
+1109;46 Groothandel en handelsbemiddeling;2023;74688.0
+1110;461 Handelsbemiddeling;2018;4825.0
+1111;461 Handelsbemiddeling;2019;4833.0
+1112;461 Handelsbemiddeling;2020;5039.0
+1113;461 Handelsbemiddeling;2021;4879.0
+1114;461 Handelsbemiddeling;2022;4705.0
+1115;461 Handelsbemiddeling;2023;4771.0
+1116;462 Groothandel in landbouwproducten;2018;4451.0
+1117;462 Groothandel in landbouwproducten;2019;4417.0
+1118;462 Groothandel in landbouwproducten;2020;4441.0
+1119;462 Groothandel in landbouwproducten;2021;4486.0
+1120;462 Groothandel in landbouwproducten;2022;4457.0
+1121;462 Groothandel in landbouwproducten;2023;4504.0
+1122;463 Groothandel in voedingsmiddelen;2018;8843.0
+1123;463 Groothandel in voedingsmiddelen;2019;9105.0
+1124;463 Groothandel in voedingsmiddelen;2020;9055.0
+1125;463 Groothandel in voedingsmiddelen;2021;9258.0
+1126;463 Groothandel in voedingsmiddelen;2022;9516.0
+1127;463 Groothandel in voedingsmiddelen;2023;11244.0
+1128;464 Groothandel in non-food;2018;13393.0
+1129;464 Groothandel in non-food;2019;13584.0
+1130;464 Groothandel in non-food;2020;13391.0
+1131;464 Groothandel in non-food;2021;13400.0
+1132;464 Groothandel in non-food;2022;13354.0
+1133;464 Groothandel in non-food;2023;13164.0
+1134;465 Groothandel in ICT-apparatuur;2018;3518.0
+1135;465 Groothandel in ICT-apparatuur;2019;3426.0
+1136;465 Groothandel in ICT-apparatuur;2020;3273.0
+1137;465 Groothandel in ICT-apparatuur;2021;3262.0
+1138;465 Groothandel in ICT-apparatuur;2022;3091.0
+1139;465 Groothandel in ICT-apparatuur;2023;3282.0
+1140;466 Groothandel in industriemachines;2018;18851.0
+1141;466 Groothandel in industriemachines;2019;19367.0
+1142;466 Groothandel in industriemachines;2020;19442.0
+1143;466 Groothandel in industriemachines;2021;19756.0
+1144;466 Groothandel in industriemachines;2022;19942.0
+1145;466 Groothandel in industriemachines;2023;21028.0
+1146;467 Overige gespecialiseerde groothandel;2018;14624.0
+1147;467 Overige gespecialiseerde groothandel;2019;15218.0
+1148;467 Overige gespecialiseerde groothandel;2020;15148.0
+1149;467 Overige gespecialiseerde groothandel;2021;14956.0
+1150;467 Overige gespecialiseerde groothandel;2022;14493.0
+1151;467 Overige gespecialiseerde groothandel;2023;15167.0
+1152;469 Niet-gespecialiseerde groothandel;2018;1556.0
+1153;469 Niet-gespecialiseerde groothandel;2019;1578.0
+1154;469 Niet-gespecialiseerde groothandel;2020;1568.0
+1155;469 Niet-gespecialiseerde groothandel;2021;1592.0
+1156;469 Niet-gespecialiseerde groothandel;2022;1581.0
+1157;469 Niet-gespecialiseerde groothandel;2023;1528.0
+1158;47 Detailhandel (niet in auto's);2018;61420.0
+1159;47 Detailhandel (niet in auto's);2019;62185.0
+1160;47 Detailhandel (niet in auto's);2020;63576.0
+1161;47 Detailhandel (niet in auto's);2021;66407.0
+1162;47 Detailhandel (niet in auto's);2022;66594.0
+1163;47 Detailhandel (niet in auto's);2023;64067.0
+1164;471 Supermarkten en warenhuizen;2018;3164.0
+1165;471 Supermarkten en warenhuizen;2019;3346.0
+1166;471 Supermarkten en warenhuizen;2020;3591.0
+1167;471 Supermarkten en warenhuizen;2021;3855.0
+1168;471 Supermarkten en warenhuizen;2022;3771.0
+1169;471 Supermarkten en warenhuizen;2023;3741.0
+1170;472 Winkels in voedingsmiddelen;2018;6676.0
+1171;472 Winkels in voedingsmiddelen;2019;6673.0
+1172;472 Winkels in voedingsmiddelen;2020;6566.0
+1173;472 Winkels in voedingsmiddelen;2021;6512.0
+1174;472 Winkels in voedingsmiddelen;2022;6297.0
+1175;472 Winkels in voedingsmiddelen;2023;6150.0
+1176;473 Tankstations;2018;716.0
+1177;473 Tankstations;2019;729.0
+1178;473 Tankstations;2020;760.0
+1179;473 Tankstations;2021;727.0
+1180;473 Tankstations;2022;706.0
+1181;473 Tankstations;2023;752.0
+1182;474 Winkels in consumentenelektronica;2018;2052.0
+1183;474 Winkels in consumentenelektronica;2019;1988.0
+1184;474 Winkels in consumentenelektronica;2020;1983.0
+1185;474 Winkels in consumentenelektronica;2021;2159.0
+1186;474 Winkels in consumentenelektronica;2022;2036.0
+1187;474 Winkels in consumentenelektronica;2023;1919.0
+1188;475 Winkels in overige huishoudwaren;2018;12008.0
+1189;475 Winkels in overige huishoudwaren;2019;12016.0
+1190;475 Winkels in overige huishoudwaren;2020;12236.0
+1191;475 Winkels in overige huishoudwaren;2021;12882.0
+1192;475 Winkels in overige huishoudwaren;2022;12870.0
+1193;475 Winkels in overige huishoudwaren;2023;12715.0
+1194;476 Winkels in recreatieartikelen;2018;3867.0
+1195;476 Winkels in recreatieartikelen;2019;3865.0
+1196;476 Winkels in recreatieartikelen;2020;3926.0
+1197;476 Winkels in recreatieartikelen;2021;4044.0
+1198;476 Winkels in recreatieartikelen;2022;3967.0
+1199;476 Winkels in recreatieartikelen;2023;3855.0
+1200;477 Winkels in overige artikelen;2018;13263.0
+1201;477 Winkels in overige artikelen;2019;13102.0
+1202;477 Winkels in overige artikelen;2020;13072.0
+1203;477 Winkels in overige artikelen;2021;13183.0
+1204;477 Winkels in overige artikelen;2022;12703.0
+1205;477 Winkels in overige artikelen;2023;12292.0
+1206;478 Markthandel;2018;8384.0
+1207;478 Markthandel;2019;8104.0
+1208;478 Markthandel;2020;7814.0
+1209;478 Markthandel;2021;7515.0
+1210;478 Markthandel;2022;7210.0
+1211;478 Markthandel;2023;6988.0
+1212;479 Detailhandel, geen winkel of markt;2018;11290.0
+1213;479 Detailhandel, geen winkel of markt;2019;12362.0
+1214;479 Detailhandel, geen winkel of markt;2020;13628.0
+1215;479 Detailhandel, geen winkel of markt;2021;15530.0
+1216;479 Detailhandel, geen winkel of markt;2022;17034.0
+1217;479 Detailhandel, geen winkel of markt;2023;15655.0
+1218;H Vervoer en opslag;2018;46904.0
+1219;H Vervoer en opslag;2019;48917.0
+1220;H Vervoer en opslag;2020;49954.0
+1221;H Vervoer en opslag;2021;54080.0
+1222;H Vervoer en opslag;2022;56403.0
+1223;H Vervoer en opslag;2023;56123.0
+1224;49 Vervoer over land;2018;21131.0
+1225;49 Vervoer over land;2019;22480.0
+1226;49 Vervoer over land;2020;22458.0
+1227;49 Vervoer over land;2021;25246.0
+1228;49 Vervoer over land;2022;27554.0
+1229;49 Vervoer over land;2023;27590.0
+1230;491 Personenvervoer per spoor,geen tram;2018;
+1231;491 Personenvervoer per spoor,geen tram;2019;
+1232;491 Personenvervoer per spoor,geen tram;2020;
+1233;491 Personenvervoer per spoor,geen tram;2021;26.0
+1234;491 Personenvervoer per spoor,geen tram;2022;11.0
+1235;491 Personenvervoer per spoor,geen tram;2023;16.0
+1236;492 Goederenvervoer per spoor;2018;
+1237;492 Goederenvervoer per spoor;2019;
+1238;492 Goederenvervoer per spoor;2020;
+1239;492 Goederenvervoer per spoor;2021;
+1240;492 Goederenvervoer per spoor;2022;22.0
+1241;492 Goederenvervoer per spoor;2023;24.0
+1242;493 Personenvervoer over de weg;2018;1549.0
+1243;493 Personenvervoer over de weg;2019;1514.0
+1244;493 Personenvervoer over de weg;2020;1604.0
+1245;493 Personenvervoer over de weg;2021;1636.0
+1246;493 Personenvervoer over de weg;2022;1636.0
+1247;493 Personenvervoer over de weg;2023;1723.0
+1248;494 Goederenvervoer over de weg;2018;19522.0
+1249;494 Goederenvervoer over de weg;2019;20900.0
+1250;494 Goederenvervoer over de weg;2020;20805.0
+1251;494 Goederenvervoer over de weg;2021;23556.0
+1252;494 Goederenvervoer over de weg;2022;25868.0
+1253;494 Goederenvervoer over de weg;2023;25813.0
+1254;495 Transport via pijpleidingen;2018;18.0
+1255;495 Transport via pijpleidingen;2019;19.0
+1256;495 Transport via pijpleidingen;2020;16.0
+1257;495 Transport via pijpleidingen;2021;
+1258;495 Transport via pijpleidingen;2022;17.0
+1259;495 Transport via pijpleidingen;2023;14.0
+1260;50 Vervoer over water;2018;1183.0
+1261;50 Vervoer over water;2019;1201.0
+1262;50 Vervoer over water;2020;
+1263;50 Vervoer over water;2021;1211.0
+1264;50 Vervoer over water;2022;
+1265;50 Vervoer over water;2023;
+1266;501 Zee- en kustvaart (passagiersvaart);2018;63.0
+1267;501 Zee- en kustvaart (passagiersvaart);2019;70.0
+1268;501 Zee- en kustvaart (passagiersvaart);2020;67.0
+1269;501 Zee- en kustvaart (passagiersvaart);2021;57.0
+1270;501 Zee- en kustvaart (passagiersvaart);2022;
+1271;501 Zee- en kustvaart (passagiersvaart);2023;
+1272;502 Zee- en kustvaart (vrachtvaart);2018;173.0
+1273;502 Zee- en kustvaart (vrachtvaart);2019;144.0
+1274;502 Zee- en kustvaart (vrachtvaart);2020;161.0
+1275;502 Zee- en kustvaart (vrachtvaart);2021;163.0
+1276;502 Zee- en kustvaart (vrachtvaart);2022;
+1277;502 Zee- en kustvaart (vrachtvaart);2023;149.0
+1278;503 Binnenvaart (passagiersvaart);2018;368.0
+1279;503 Binnenvaart (passagiersvaart);2019;387.0
+1280;503 Binnenvaart (passagiersvaart);2020;
+1281;503 Binnenvaart (passagiersvaart);2021;384.0
+1282;503 Binnenvaart (passagiersvaart);2022;369.0
+1283;503 Binnenvaart (passagiersvaart);2023;354.0
+1284;504 Binnenvaart (vracht- en sleepvaart);2018;579.0
+1285;504 Binnenvaart (vracht- en sleepvaart);2019;600.0
+1286;504 Binnenvaart (vracht- en sleepvaart);2020;616.0
+1287;504 Binnenvaart (vracht- en sleepvaart);2021;607.0
+1288;504 Binnenvaart (vracht- en sleepvaart);2022;615.0
+1289;504 Binnenvaart (vracht- en sleepvaart);2023;652.0
+1290;51 Vervoer door de lucht;2018;
+1291;51 Vervoer door de lucht;2019;
+1292;51 Vervoer door de lucht;2020;182.0
+1293;51 Vervoer door de lucht;2021;
+1294;51 Vervoer door de lucht;2022;185.0
+1295;51 Vervoer door de lucht;2023;
+1296;511 Personenvervoer door de lucht;2018;164.0
+1297;511 Personenvervoer door de lucht;2019;
+1298;511 Personenvervoer door de lucht;2020;157.0
+1299;511 Personenvervoer door de lucht;2021;
+1300;511 Personenvervoer door de lucht;2022;179.0
+1301;511 Personenvervoer door de lucht;2023;
+1302;512 Goederenvervoer door de lucht;2018;
+1303;512 Goederenvervoer door de lucht;2019;
+1304;512 Goederenvervoer door de lucht;2020;25.0
+1305;512 Goederenvervoer door de lucht;2021;16.0
+1306;512 Goederenvervoer door de lucht;2022;6.0
+1307;512 Goederenvervoer door de lucht;2023;
+1308;52 Opslag, dienstverlening voor vervoer;2018;6340.0
+1309;52 Opslag, dienstverlening voor vervoer;2019;6897.0
+1310;52 Opslag, dienstverlening voor vervoer;2020;6893.0
+1311;52 Opslag, dienstverlening voor vervoer;2021;7175.0
+1312;52 Opslag, dienstverlening voor vervoer;2022;7488.0
+1313;52 Opslag, dienstverlening voor vervoer;2023;8102.0
+1314;521 Opslag;2018;872.0
+1315;521 Opslag;2019;897.0
+1316;521 Opslag;2020;942.0
+1317;521 Opslag;2021;868.0
+1318;521 Opslag;2022;888.0
+1319;521 Opslag;2023;899.0
+1320;522 Dienstverlening voor vervoer;2018;5468.0
+1321;522 Dienstverlening voor vervoer;2019;6000.0
+1322;522 Dienstverlening voor vervoer;2020;5951.0
+1323;522 Dienstverlening voor vervoer;2021;6307.0
+1324;522 Dienstverlening voor vervoer;2022;6600.0
+1325;522 Dienstverlening voor vervoer;2023;7203.0
+1326;53 Post en koeriers;2018;
+1327;53 Post en koeriers;2019;
+1328;53 Post en koeriers;2020;
+1329;53 Post en koeriers;2021;
+1330;53 Post en koeriers;2022;
+1331;53 Post en koeriers;2023;
+1332;531 Nationale post;2018;
+1333;531 Nationale post;2019;
+1334;531 Nationale post;2020;
+1335;531 Nationale post;2021;
+1336;531 Nationale post;2022;
+1337;531 Nationale post;2023;
+1338;532 Lokale post en koeriers;2018;16313.0
+1339;532 Lokale post en koeriers;2019;16159.0
+1340;532 Lokale post en koeriers;2020;16905.0
+1341;532 Lokale post en koeriers;2021;18241.0
+1342;532 Lokale post en koeriers;2022;18008.0
+1343;532 Lokale post en koeriers;2023;16734.0
+1344;I Horeca;2018;23074.0
+1345;I Horeca;2019;23662.0
+1346;I Horeca;2020;23620.0
+1347;I Horeca;2021;23921.0
+1348;I Horeca;2022;24091.0
+1349;I Horeca;2023;23894.0
+1350;55 Logiesverstrekking;2018;3322.0
+1351;55 Logiesverstrekking;2019;3478.0
+1352;55 Logiesverstrekking;2020;3565.0
+1353;55 Logiesverstrekking;2021;3705.0
+1354;55 Logiesverstrekking;2022;3742.0
+1355;55 Logiesverstrekking;2023;3809.0
+1356;551 Hotels;2018;1076.0
+1357;551 Hotels;2019;1121.0
+1358;551 Hotels;2020;1176.0
+1359;551 Hotels;2021;1272.0
+1360;551 Hotels;2022;1259.0
+1361;551 Hotels;2023;1272.0
+1362;552 Verhuur van vakantiehuisjes e.d.;2018;856.0
+1363;552 Verhuur van vakantiehuisjes e.d.;2019;922.0
+1364;552 Verhuur van vakantiehuisjes e.d.;2020;960.0
+1365;552 Verhuur van vakantiehuisjes e.d.;2021;1055.0
+1366;552 Verhuur van vakantiehuisjes e.d.;2022;1108.0
+1367;552 Verhuur van vakantiehuisjes e.d.;2023;1167.0
+1368;553 Kampeerterreinen;2018;1321.0
+1369;553 Kampeerterreinen;2019;1348.0
+1370;553 Kampeerterreinen;2020;1346.0
+1371;553 Kampeerterreinen;2021;1316.0
+1372;553 Kampeerterreinen;2022;1314.0
+1373;553 Kampeerterreinen;2023;1313.0
+1374;559 Overige logiesverstrekking;2018;69.0
+1375;559 Overige logiesverstrekking;2019;87.0
+1376;559 Overige logiesverstrekking;2020;83.0
+1377;559 Overige logiesverstrekking;2021;62.0
+1378;559 Overige logiesverstrekking;2022;61.0
+1379;559 Overige logiesverstrekking;2023;57.0
+1380;56 Eet- en drinkgelegenheden;2018;19752.0
+1381;56 Eet- en drinkgelegenheden;2019;20184.0
+1382;56 Eet- en drinkgelegenheden;2020;20055.0
+1383;56 Eet- en drinkgelegenheden;2021;20216.0
+1384;56 Eet- en drinkgelegenheden;2022;20349.0
+1385;56 Eet- en drinkgelegenheden;2023;20085.0
+1386;561 Restaurants, andere eetgelegenheden;2018;11311.0
+1387;561 Restaurants, andere eetgelegenheden;2019;11576.0
+1388;561 Restaurants, andere eetgelegenheden;2020;11588.0
+1389;561 Restaurants, andere eetgelegenheden;2021;11929.0
+1390;561 Restaurants, andere eetgelegenheden;2022;11971.0
+1391;561 Restaurants, andere eetgelegenheden;2023;11583.0
+1392;562 Kantines en catering;2018;5400.0
+1393;562 Kantines en catering;2019;5630.0
+1394;562 Kantines en catering;2020;5579.0
+1395;562 Kantines en catering;2021;5520.0
+1396;562 Kantines en catering;2022;5694.0
+1397;562 Kantines en catering;2023;5947.0
+1398;563 Cafés;2018;3041.0
+1399;563 Cafés;2019;2978.0
+1400;563 Cafés;2020;2888.0
+1401;563 Cafés;2021;2767.0
+1402;563 Cafés;2022;2684.0
+1403;563 Cafés;2023;2555.0
+1404;J Informatie en communicatie;2018;10070.0
+1405;J Informatie en communicatie;2019;10131.0
+1406;J Informatie en communicatie;2020;9956.0
+1407;J Informatie en communicatie;2021;10127.0
+1408;J Informatie en communicatie;2022;10669.0
+1409;J Informatie en communicatie;2023;10942.0
+1410;58 Uitgeverijen;2018;357.0
+1411;58 Uitgeverijen;2019;532.0
+1412;58 Uitgeverijen;2020;305.0
+1413;58 Uitgeverijen;2021;296.0
+1414;58 Uitgeverijen;2022;286.0
+1415;58 Uitgeverijen;2023;266.0
+1416;581 Uitgeverijen;2018;
+1417;581 Uitgeverijen;2019;
+1418;581 Uitgeverijen;2020;299.0
+1419;581 Uitgeverijen;2021;286.0
+1420;581 Uitgeverijen;2022;274.0
+1421;581 Uitgeverijen;2023;257.0
+1422;582 Uitgeverijen van software;2018;
+1423;582 Uitgeverijen van software;2019;
+1424;582 Uitgeverijen van software;2020;6.0
+1425;582 Uitgeverijen van software;2021;10.0
+1426;582 Uitgeverijen van software;2022;12.0
+1427;582 Uitgeverijen van software;2023;9.0
+1428;"59 Film- en tv-productie; geluidsopname";2018;2891.0
+1429;"59 Film- en tv-productie; geluidsopname";2019;2889.0
+1430;"59 Film- en tv-productie; geluidsopname";2020;3088.0
+1431;"59 Film- en tv-productie; geluidsopname";2021;3154.0
+1432;"59 Film- en tv-productie; geluidsopname";2022;3614.0
+1433;"59 Film- en tv-productie; geluidsopname";2023;3711.0
+1434;591 Productie, distributie van films, tv;2018;2615.0
+1435;591 Productie, distributie van films, tv;2019;2625.0
+1436;591 Productie, distributie van films, tv;2020;2826.0
+1437;591 Productie, distributie van films, tv;2021;2878.0
+1438;591 Productie, distributie van films, tv;2022;3272.0
+1439;591 Productie, distributie van films, tv;2023;3367.0
+1440;592 Maken en uitgeven van geluidsopnamen;2018;276.0
+1441;592 Maken en uitgeven van geluidsopnamen;2019;264.0
+1442;592 Maken en uitgeven van geluidsopnamen;2020;262.0
+1443;592 Maken en uitgeven van geluidsopnamen;2021;276.0
+1444;592 Maken en uitgeven van geluidsopnamen;2022;342.0
+1445;592 Maken en uitgeven van geluidsopnamen;2023;344.0
+1446;60 Radio- en televisieomroepen;2018;78.0
+1447;60 Radio- en televisieomroepen;2019;83.0
+1448;60 Radio- en televisieomroepen;2020;74.0
+1449;60 Radio- en televisieomroepen;2021;63.0
+1450;60 Radio- en televisieomroepen;2022;59.0
+1451;60 Radio- en televisieomroepen;2023;68.0
+1452;601 Radio-omroepen;2018;62.0
+1453;601 Radio-omroepen;2019;67.0
+1454;601 Radio-omroepen;2020;56.0
+1455;601 Radio-omroepen;2021;49.0
+1456;601 Radio-omroepen;2022;45.0
+1457;601 Radio-omroepen;2023;51.0
+1458;602 Televisieomroepen;2018;16.0
+1459;602 Televisieomroepen;2019;16.0
+1460;602 Televisieomroepen;2020;18.0
+1461;602 Televisieomroepen;2021;14.0
+1462;602 Televisieomroepen;2022;14.0
+1463;602 Televisieomroepen;2023;17.0
+1464;61 Telecommunicatie;2018;1325.0
+1465;61 Telecommunicatie;2019;1249.0
+1466;61 Telecommunicatie;2020;1023.0
+1467;61 Telecommunicatie;2021;1043.0
+1468;61 Telecommunicatie;2022;973.0
+1469;61 Telecommunicatie;2023;1071.0
+1470;611 Draadgebonden telecommunicatie;2018;
+1471;611 Draadgebonden telecommunicatie;2019;
+1472;611 Draadgebonden telecommunicatie;2020;
+1473;611 Draadgebonden telecommunicatie;2021;
+1474;611 Draadgebonden telecommunicatie;2022;
+1475;611 Draadgebonden telecommunicatie;2023;
+1476;612 Draadloze telecommunicatie;2018;53.0
+1477;612 Draadloze telecommunicatie;2019;31.0
+1478;612 Draadloze telecommunicatie;2020;
+1479;612 Draadloze telecommunicatie;2021;53.0
+1480;612 Draadloze telecommunicatie;2022;
+1481;612 Draadloze telecommunicatie;2023;
+1482;613 Telecommunicatie via satelliet;2018;
+1483;613 Telecommunicatie via satelliet;2019;10.0
+1484;613 Telecommunicatie via satelliet;2020;11.0
+1485;613 Telecommunicatie via satelliet;2021;
+1486;613 Telecommunicatie via satelliet;2022;9.0
+1487;613 Telecommunicatie via satelliet;2023;10.0
+1488;619 Overige telecommunicatie;2018;477.0
+1489;619 Overige telecommunicatie;2019;
+1490;619 Overige telecommunicatie;2020;251.0
+1491;619 Overige telecommunicatie;2021;293.0
+1492;619 Overige telecommunicatie;2022;243.0
+1493;619 Overige telecommunicatie;2023;245.0
+1494;62 IT-dienstverlening;2018;4796.0
+1495;62 IT-dienstverlening;2019;4831.0
+1496;62 IT-dienstverlening;2020;4903.0
+1497;62 IT-dienstverlening;2021;5021.0
+1498;62 IT-dienstverlening;2022;5170.0
+1499;62 IT-dienstverlening;2023;5280.0
+1500;620 IT-dienstverlening;2018;4796.0
+1501;620 IT-dienstverlening;2019;4831.0
+1502;620 IT-dienstverlening;2020;4903.0
+1503;620 IT-dienstverlening;2021;5021.0
+1504;620 IT-dienstverlening;2022;5170.0
+1505;620 IT-dienstverlening;2023;5280.0
+1506;63 Diensten op het gebied van informatie;2018;623.0
+1507;63 Diensten op het gebied van informatie;2019;547.0
+1508;63 Diensten op het gebied van informatie;2020;563.0
+1509;63 Diensten op het gebied van informatie;2021;550.0
+1510;63 Diensten op het gebied van informatie;2022;567.0
+1511;63 Diensten op het gebied van informatie;2023;546.0
+1512;"631 Gegevensverwerking e.d.; webportals";2018;547.0
+1513;"631 Gegevensverwerking e.d.; webportals";2019;469.0
+1514;"631 Gegevensverwerking e.d.; webportals";2020;493.0
+1515;"631 Gegevensverwerking e.d.; webportals";2021;483.0
+1516;"631 Gegevensverwerking e.d.; webportals";2022;500.0
+1517;"631 Gegevensverwerking e.d.; webportals";2023;469.0
+1518;639 Overige informatievoorziening;2018;76.0
+1519;639 Overige informatievoorziening;2019;78.0
+1520;639 Overige informatievoorziening;2020;70.0
+1521;639 Overige informatievoorziening;2021;67.0
+1522;639 Overige informatievoorziening;2022;67.0
+1523;639 Overige informatievoorziening;2023;77.0
+1524;K Financiële dienstverlening;2018;10578.0
+1525;K Financiële dienstverlening;2019;11050.0
+1526;K Financiële dienstverlening;2020;11112.0
+1527;K Financiële dienstverlening;2021;11752.0
+1528;K Financiële dienstverlening;2022;10797.0
+1529;K Financiële dienstverlening;2023;10435.0
+1530;64 Bankwezen;2018;7781.0
+1531;64 Bankwezen;2019;8256.0
+1532;64 Bankwezen;2020;8236.0
+1533;64 Bankwezen;2021;8864.0
+1534;64 Bankwezen;2022;9025.0
+1535;64 Bankwezen;2023;8621.0
+1536;641 Banken;2018;70.0
+1537;641 Banken;2019;57.0
+1538;641 Banken;2020;43.0
+1539;641 Banken;2021;39.0
+1540;641 Banken;2022;71.0
+1541;641 Banken;2023;17.0
+1542;642 Financiële holdings;2018;5760.0
+1543;642 Financiële holdings;2019;6181.0
+1544;642 Financiële holdings;2020;6226.0
+1545;642 Financiële holdings;2021;6912.0
+1546;642 Financiële holdings;2022;7068.0
+1547;642 Financiële holdings;2023;7118.0
+1548;643 Beleggingsinstellingen;2018;944.0
+1549;643 Beleggingsinstellingen;2019;905.0
+1550;643 Beleggingsinstellingen;2020;856.0
+1551;643 Beleggingsinstellingen;2021;989.0
+1552;643 Beleggingsinstellingen;2022;864.0
+1553;643 Beleggingsinstellingen;2023;864.0
+1554;649 Overige kredietverstrekking e.d.;2018;1007.0
+1555;649 Overige kredietverstrekking e.d.;2019;1113.0
+1556;649 Overige kredietverstrekking e.d.;2020;1111.0
+1557;649 Overige kredietverstrekking e.d.;2021;924.0
+1558;649 Overige kredietverstrekking e.d.;2022;1022.0
+1559;649 Overige kredietverstrekking e.d.;2023;622.0
+1560;65 Verzekeraars en pensioenfondsen;2018;
+1561;65 Verzekeraars en pensioenfondsen;2019;
+1562;65 Verzekeraars en pensioenfondsen;2020;
+1563;65 Verzekeraars en pensioenfondsen;2021;
+1564;65 Verzekeraars en pensioenfondsen;2022;235.0
+1565;65 Verzekeraars en pensioenfondsen;2023;240.0
+1566;651 Verzekeringen, geen herverzekering;2018;
+1567;651 Verzekeringen, geen herverzekering;2019;
+1568;651 Verzekeringen, geen herverzekering;2020;
+1569;651 Verzekeringen, geen herverzekering;2021;
+1570;651 Verzekeringen, geen herverzekering;2022;226.0
+1571;651 Verzekeringen, geen herverzekering;2023;
+1572;652 Herverzekeringen;2018;
+1573;652 Herverzekeringen;2019;
+1574;652 Herverzekeringen;2020;
+1575;652 Herverzekeringen;2021;
+1576;652 Herverzekeringen;2022;
+1577;652 Herverzekeringen;2023;
+1578;653 Pensioenfondsen;2018;26.0
+1579;653 Pensioenfondsen;2019;23.0
+1580;653 Pensioenfondsen;2020;16.0
+1581;653 Pensioenfondsen;2021;8.0
+1582;653 Pensioenfondsen;2022;
+1583;653 Pensioenfondsen;2023;7.0
+1584;66 Overige financiële dienstverlening;2018;
+1585;66 Overige financiële dienstverlening;2019;
+1586;66 Overige financiële dienstverlening;2020;
+1587;66 Overige financiële dienstverlening;2021;
+1588;66 Overige financiële dienstverlening;2022;1537.0
+1589;66 Overige financiële dienstverlening;2023;1574.0
+1590;661 Beurzen en financiële adviesbureaus;2018;
+1591;661 Beurzen en financiële adviesbureaus;2019;642.0
+1592;661 Beurzen en financiële adviesbureaus;2020;
+1593;661 Beurzen en financiële adviesbureaus;2021;598.0
+1594;661 Beurzen en financiële adviesbureaus;2022;561.0
+1595;661 Beurzen en financiële adviesbureaus;2023;541.0
+1596;662 Diensten op gebied van verzekeringen;2018;513.0
+1597;662 Diensten op gebied van verzekeringen;2019;
+1598;662 Diensten op gebied van verzekeringen;2020;511.0
+1599;662 Diensten op gebied van verzekeringen;2021;
+1600;662 Diensten op gebied van verzekeringen;2022;474.0
+1601;662 Diensten op gebied van verzekeringen;2023;458.0
+1602;663 Vermogensbeheer;2018;485.0
+1603;663 Vermogensbeheer;2019;463.0
+1604;663 Vermogensbeheer;2020;510.0
+1605;663 Vermogensbeheer;2021;524.0
+1606;663 Vermogensbeheer;2022;502.0
+1607;663 Vermogensbeheer;2023;575.0
+1608;L Verhuur en handel van onroerend goed;2018;8634.0
+1609;L Verhuur en handel van onroerend goed;2019;8575.0
+1610;L Verhuur en handel van onroerend goed;2020;8484.0
+1611;L Verhuur en handel van onroerend goed;2021;8372.0
+1612;L Verhuur en handel van onroerend goed;2022;8586.0
+1613;L Verhuur en handel van onroerend goed;2023;8928.0
+1614;68 Verhuur en handel van onroerend goed;2018;8634.0
+1615;68 Verhuur en handel van onroerend goed;2019;8575.0
+1616;68 Verhuur en handel van onroerend goed;2020;8484.0
+1617;68 Verhuur en handel van onroerend goed;2021;8372.0
+1618;68 Verhuur en handel van onroerend goed;2022;8586.0
+1619;68 Verhuur en handel van onroerend goed;2023;8928.0
+1620;681 Handel in eigen onroerend goed;2018;931.0
+1621;681 Handel in eigen onroerend goed;2019;929.0
+1622;681 Handel in eigen onroerend goed;2020;947.0
+1623;681 Handel in eigen onroerend goed;2021;1047.0
+1624;681 Handel in eigen onroerend goed;2022;1030.0
+1625;681 Handel in eigen onroerend goed;2023;1093.0
+1626;682 Verhuur van onroerend goed;2018;5031.0
+1627;682 Verhuur van onroerend goed;2019;4940.0
+1628;682 Verhuur van onroerend goed;2020;4800.0
+1629;682 Verhuur van onroerend goed;2021;4580.0
+1630;682 Verhuur van onroerend goed;2022;4584.0
+1631;682 Verhuur van onroerend goed;2023;4805.0
+1632;683 Bemiddeling, beheer onroerend goed;2018;2672.0
+1633;683 Bemiddeling, beheer onroerend goed;2019;2706.0
+1634;683 Bemiddeling, beheer onroerend goed;2020;2737.0
+1635;683 Bemiddeling, beheer onroerend goed;2021;2745.0
+1636;683 Bemiddeling, beheer onroerend goed;2022;2972.0
+1637;683 Bemiddeling, beheer onroerend goed;2023;3030.0
+1638;M-N Zakelijke dienstverlening;2018;130809.0
+1639;M-N Zakelijke dienstverlening;2019;139371.0
+1640;M-N Zakelijke dienstverlening;2020;140141.0
+1641;M-N Zakelijke dienstverlening;2021;143135.0
+1642;M-N Zakelijke dienstverlening;2022;145226.0
+1643;M-N Zakelijke dienstverlening;2023;151104.0
+1644;M Specialistische zakelijke diensten;2018;46881.0
+1645;M Specialistische zakelijke diensten;2019;48914.0
+1646;M Specialistische zakelijke diensten;2020;48892.0
+1647;M Specialistische zakelijke diensten;2021;50117.0
+1648;M Specialistische zakelijke diensten;2022;50332.0
+1649;M Specialistische zakelijke diensten;2023;51967.0
+1650;69 Juridische diensten en administratie;2018;2120.0
+1651;69 Juridische diensten en administratie;2019;2131.0
+1652;69 Juridische diensten en administratie;2020;2069.0
+1653;69 Juridische diensten en administratie;2021;2114.0
+1654;69 Juridische diensten en administratie;2022;2085.0
+1655;69 Juridische diensten en administratie;2023;2052.0
+1656;691 Rechtskundige dienstverlening;2018;430.0
+1657;691 Rechtskundige dienstverlening;2019;438.0
+1658;691 Rechtskundige dienstverlening;2020;471.0
+1659;691 Rechtskundige dienstverlening;2021;481.0
+1660;691 Rechtskundige dienstverlening;2022;504.0
+1661;691 Rechtskundige dienstverlening;2023;477.0
+1662;692 Accountancy, administratie e.d.;2018;1690.0
+1663;692 Accountancy, administratie e.d.;2019;1693.0
+1664;692 Accountancy, administratie e.d.;2020;1598.0
+1665;692 Accountancy, administratie e.d.;2021;1633.0
+1666;692 Accountancy, administratie e.d.;2022;1581.0
+1667;692 Accountancy, administratie e.d.;2023;1575.0
+1668;70 Holdings en managementadviesbureaus;2018;12761.0
+1669;70 Holdings en managementadviesbureaus;2019;13038.0
+1670;70 Holdings en managementadviesbureaus;2020;12681.0
+1671;70 Holdings en managementadviesbureaus;2021;13173.0
+1672;70 Holdings en managementadviesbureaus;2022;13091.0
+1673;70 Holdings en managementadviesbureaus;2023;13943.0
+1674;701 Holdings en interne concerndiensten;2018;6990.0
+1675;701 Holdings en interne concerndiensten;2019;6880.0
+1676;701 Holdings en interne concerndiensten;2020;6420.0
+1677;701 Holdings en interne concerndiensten;2021;6579.0
+1678;701 Holdings en interne concerndiensten;2022;6506.0
+1679;701 Holdings en interne concerndiensten;2023;7127.0
+1680;702 Managementadviesbureaus;2018;5771.0
+1681;702 Managementadviesbureaus;2019;6158.0
+1682;702 Managementadviesbureaus;2020;6261.0
+1683;702 Managementadviesbureaus;2021;6594.0
+1684;702 Managementadviesbureaus;2022;6585.0
+1685;702 Managementadviesbureaus;2023;6816.0
+1686;71 Architecten-, ingenieursbureaus e.d.;2018;17164.0
+1687;71 Architecten-, ingenieursbureaus e.d.;2019;18491.0
+1688;71 Architecten-, ingenieursbureaus e.d.;2020;18612.0
+1689;71 Architecten-, ingenieursbureaus e.d.;2021;19022.0
+1690;71 Architecten-, ingenieursbureaus e.d.;2022;19016.0
+1691;71 Architecten-, ingenieursbureaus e.d.;2023;20074.0
+1692;711 Architecten- en ingenieursbureaus;2018;14189.0
+1693;711 Architecten- en ingenieursbureaus;2019;15219.0
+1694;711 Architecten- en ingenieursbureaus;2020;15414.0
+1695;711 Architecten- en ingenieursbureaus;2021;15824.0
+1696;711 Architecten- en ingenieursbureaus;2022;15830.0
+1697;711 Architecten- en ingenieursbureaus;2023;16796.0
+1698;712 Keurings- en controlediensten;2018;2975.0
+1699;712 Keurings- en controlediensten;2019;3272.0
+1700;712 Keurings- en controlediensten;2020;3198.0
+1701;712 Keurings- en controlediensten;2021;3198.0
+1702;712 Keurings- en controlediensten;2022;3186.0
+1703;712 Keurings- en controlediensten;2023;3278.0
+1704;72 Research;2018;957.0
+1705;72 Research;2019;942.0
+1706;72 Research;2020;971.0
+1707;72 Research;2021;1044.0
+1708;72 Research;2022;1044.0
+1709;72 Research;2023;990.0
+1710;721 Natuurwetenschappelijke research;2018;823.0
+1711;721 Natuurwetenschappelijke research;2019;801.0
+1712;721 Natuurwetenschappelijke research;2020;828.0
+1713;721 Natuurwetenschappelijke research;2021;910.0
+1714;721 Natuurwetenschappelijke research;2022;917.0
+1715;721 Natuurwetenschappelijke research;2023;879.0
+1716;722 Geesteswetenschappelijke research;2018;134.0
+1717;722 Geesteswetenschappelijke research;2019;141.0
+1718;722 Geesteswetenschappelijke research;2020;143.0
+1719;722 Geesteswetenschappelijke research;2021;134.0
+1720;722 Geesteswetenschappelijke research;2022;127.0
+1721;722 Geesteswetenschappelijke research;2023;111.0
+1722;73 Reclamewezen en marktonderzoek;2018;5993.0
+1723;73 Reclamewezen en marktonderzoek;2019;5886.0
+1724;73 Reclamewezen en marktonderzoek;2020;5637.0
+1725;73 Reclamewezen en marktonderzoek;2021;5622.0
+1726;73 Reclamewezen en marktonderzoek;2022;5440.0
+1727;73 Reclamewezen en marktonderzoek;2023;5337.0
+1728;731 Reclamewezen;2018;5665.0
+1729;731 Reclamewezen;2019;5547.0
+1730;731 Reclamewezen;2020;5333.0
+1731;731 Reclamewezen;2021;5306.0
+1732;731 Reclamewezen;2022;5161.0
+1733;731 Reclamewezen;2023;5081.0
+1734;732 Markt- en opinieonderzoek;2018;328.0
+1735;732 Markt- en opinieonderzoek;2019;339.0
+1736;732 Markt- en opinieonderzoek;2020;304.0
+1737;732 Markt- en opinieonderzoek;2021;316.0
+1738;732 Markt- en opinieonderzoek;2022;279.0
+1739;732 Markt- en opinieonderzoek;2023;256.0
+1740;74 Design, fotografie, vertaalbureaus;2018;6334.0
+1741;74 Design, fotografie, vertaalbureaus;2019;6842.0
+1742;74 Design, fotografie, vertaalbureaus;2020;7313.0
+1743;74 Design, fotografie, vertaalbureaus;2021;7436.0
+1744;74 Design, fotografie, vertaalbureaus;2022;7898.0
+1745;74 Design, fotografie, vertaalbureaus;2023;7848.0
+1746;741 Industrieel ontwerp;2018;2064.0
+1747;741 Industrieel ontwerp;2019;2268.0
+1748;741 Industrieel ontwerp;2020;2455.0
+1749;741 Industrieel ontwerp;2021;2734.0
+1750;741 Industrieel ontwerp;2022;2984.0
+1751;741 Industrieel ontwerp;2023;2995.0
+1752;742 Fotografie en foto-ontwikkeling;2018;1622.0
+1753;742 Fotografie en foto-ontwikkeling;2019;1671.0
+1754;742 Fotografie en foto-ontwikkeling;2020;1669.0
+1755;742 Fotografie en foto-ontwikkeling;2021;1607.0
+1756;742 Fotografie en foto-ontwikkeling;2022;1629.0
+1757;742 Fotografie en foto-ontwikkeling;2023;1588.0
+1758;743 Vertaalbureaus en tolken;2018;158.0
+1759;743 Vertaalbureaus en tolken;2019;157.0
+1760;743 Vertaalbureaus en tolken;2020;137.0
+1761;743 Vertaalbureaus en tolken;2021;152.0
+1762;743 Vertaalbureaus en tolken;2022;136.0
+1763;743 Vertaalbureaus en tolken;2023;129.0
+1764;749 Overige adviesbureaus;2018;2490.0
+1765;749 Overige adviesbureaus;2019;2746.0
+1766;749 Overige adviesbureaus;2020;3052.0
+1767;749 Overige adviesbureaus;2021;2943.0
+1768;749 Overige adviesbureaus;2022;3149.0
+1769;749 Overige adviesbureaus;2023;3136.0
+1770;75 Veterinaire dienstverlening;2018;1552.0
+1771;75 Veterinaire dienstverlening;2019;1584.0
+1772;75 Veterinaire dienstverlening;2020;1609.0
+1773;75 Veterinaire dienstverlening;2021;1706.0
+1774;75 Veterinaire dienstverlening;2022;1758.0
+1775;75 Veterinaire dienstverlening;2023;1723.0
+1776;750 Veterinaire dienstverlening;2018;1552.0
+1777;750 Veterinaire dienstverlening;2019;1584.0
+1778;750 Veterinaire dienstverlening;2020;1609.0
+1779;750 Veterinaire dienstverlening;2021;1706.0
+1780;750 Veterinaire dienstverlening;2022;1758.0
+1781;750 Veterinaire dienstverlening;2023;1723.0
+1782;N Verhuur en overige zakelijke diensten;2018;83928.0
+1783;N Verhuur en overige zakelijke diensten;2019;90457.0
+1784;N Verhuur en overige zakelijke diensten;2020;91249.0
+1785;N Verhuur en overige zakelijke diensten;2021;93018.0
+1786;N Verhuur en overige zakelijke diensten;2022;94894.0
+1787;N Verhuur en overige zakelijke diensten;2023;99137.0
+1788;77 Verhuur van roerende goederen;2018;25835.0
+1789;77 Verhuur van roerende goederen;2019;30126.0
+1790;77 Verhuur van roerende goederen;2020;29308.0
+1791;77 Verhuur van roerende goederen;2021;29733.0
+1792;77 Verhuur van roerende goederen;2022;30088.0
+1793;77 Verhuur van roerende goederen;2023;31538.0
+1794;771 Verhuur en lease van auto's;2018;15703.0
+1795;771 Verhuur en lease van auto's;2019;15600.0
+1796;771 Verhuur en lease van auto's;2020;16786.0
+1797;771 Verhuur en lease van auto's;2021;17378.0
+1798;771 Verhuur en lease van auto's;2022;18483.0
+1799;771 Verhuur en lease van auto's;2023;19466.0
+1800;772 Verhuur van consumentenartikelen;2018;3961.0
+1801;772 Verhuur van consumentenartikelen;2019;4168.0
+1802;772 Verhuur van consumentenartikelen;2020;4479.0
+1803;772 Verhuur van consumentenartikelen;2021;4320.0
+1804;772 Verhuur van consumentenartikelen;2022;4318.0
+1805;772 Verhuur van consumentenartikelen;2023;4594.0
+1806;773 Zakelijke verhuur van goederen;2018;6046.0
+1807;773 Zakelijke verhuur van goederen;2019;10225.0
+1808;773 Zakelijke verhuur van goederen;2020;7897.0
+1809;773 Zakelijke verhuur van goederen;2021;7922.0
+1810;773 Zakelijke verhuur van goederen;2022;7169.0
+1811;773 Zakelijke verhuur van goederen;2023;7352.0
+1812;774 Exploitatie van patenten;2018;125.0
+1813;774 Exploitatie van patenten;2019;133.0
+1814;774 Exploitatie van patenten;2020;146.0
+1815;774 Exploitatie van patenten;2021;113.0
+1816;774 Exploitatie van patenten;2022;118.0
+1817;774 Exploitatie van patenten;2023;126.0
+1818;78 Uitzendbureaus en arbeidsbemiddeling;2018;10379.0
+1819;78 Uitzendbureaus en arbeidsbemiddeling;2019;10483.0
+1820;78 Uitzendbureaus en arbeidsbemiddeling;2020;10424.0
+1821;78 Uitzendbureaus en arbeidsbemiddeling;2021;9779.0
+1822;78 Uitzendbureaus en arbeidsbemiddeling;2022;9948.0
+1823;78 Uitzendbureaus en arbeidsbemiddeling;2023;9936.0
+1824;781 Arbeidsbemiddeling;2018;1030.0
+1825;781 Arbeidsbemiddeling;2019;986.0
+1826;781 Arbeidsbemiddeling;2020;1172.0
+1827;781 Arbeidsbemiddeling;2021;1163.0
+1828;781 Arbeidsbemiddeling;2022;1245.0
+1829;781 Arbeidsbemiddeling;2023;1421.0
+1830;"782 Uitzend- en uitleenbureaus; pools";2018;9224.0
+1831;"782 Uitzend- en uitleenbureaus; pools";2019;9385.0
+1832;"782 Uitzend- en uitleenbureaus; pools";2020;9142.0
+1833;"782 Uitzend- en uitleenbureaus; pools";2021;8452.0
+1834;"782 Uitzend- en uitleenbureaus; pools";2022;8543.0
+1835;"782 Uitzend- en uitleenbureaus; pools";2023;8339.0
+1836;783 Payrolling (personeelsbeheer);2018;125.0
+1837;783 Payrolling (personeelsbeheer);2019;112.0
+1838;783 Payrolling (personeelsbeheer);2020;110.0
+1839;783 Payrolling (personeelsbeheer);2021;164.0
+1840;783 Payrolling (personeelsbeheer);2022;160.0
+1841;783 Payrolling (personeelsbeheer);2023;176.0
+1842;79 Reisbureaus, reisorganisatie en -info;2018;513.0
+1843;79 Reisbureaus, reisorganisatie en -info;2019;523.0
+1844;79 Reisbureaus, reisorganisatie en -info;2020;498.0
+1845;79 Reisbureaus, reisorganisatie en -info;2021;483.0
+1846;79 Reisbureaus, reisorganisatie en -info;2022;491.0
+1847;79 Reisbureaus, reisorganisatie en -info;2023;480.0
+1848;791 Reisbureaus, reisorganisatiebureaus;2018;417.0
+1849;791 Reisbureaus, reisorganisatiebureaus;2019;431.0
+1850;791 Reisbureaus, reisorganisatiebureaus;2020;395.0
+1851;791 Reisbureaus, reisorganisatiebureaus;2021;402.0
+1852;791 Reisbureaus, reisorganisatiebureaus;2022;410.0
+1853;791 Reisbureaus, reisorganisatiebureaus;2023;394.0
+1854;799 Reisinformatie-, reserveerbureaus;2018;96.0
+1855;799 Reisinformatie-, reserveerbureaus;2019;92.0
+1856;799 Reisinformatie-, reserveerbureaus;2020;103.0
+1857;799 Reisinformatie-, reserveerbureaus;2021;81.0
+1858;799 Reisinformatie-, reserveerbureaus;2022;81.0
+1859;799 Reisinformatie-, reserveerbureaus;2023;86.0
+1860;80 Beveiligings- en opsporingsdiensten;2018;3632.0
+1861;80 Beveiligings- en opsporingsdiensten;2019;3549.0
+1862;80 Beveiligings- en opsporingsdiensten;2020;3585.0
+1863;80 Beveiligings- en opsporingsdiensten;2021;3567.0
+1864;80 Beveiligings- en opsporingsdiensten;2022;3560.0
+1865;80 Beveiligings- en opsporingsdiensten;2023;3929.0
+1866;801 Particuliere beveiligingdiensten;2018;2995.0
+1867;801 Particuliere beveiligingdiensten;2019;2869.0
+1868;801 Particuliere beveiligingdiensten;2020;2937.0
+1869;801 Particuliere beveiligingdiensten;2021;2814.0
+1870;801 Particuliere beveiligingdiensten;2022;2849.0
+1871;801 Particuliere beveiligingdiensten;2023;3115.0
+1872;802 Beveiliging via alarmsystemen;2018;572.0
+1873;802 Beveiliging via alarmsystemen;2019;610.0
+1874;802 Beveiliging via alarmsystemen;2020;585.0
+1875;802 Beveiliging via alarmsystemen;2021;696.0
+1876;802 Beveiliging via alarmsystemen;2022;656.0
+1877;802 Beveiliging via alarmsystemen;2023;762.0
+1878;803 Detectivebureaus;2018;65.0
+1879;803 Detectivebureaus;2019;70.0
+1880;803 Detectivebureaus;2020;63.0
+1881;803 Detectivebureaus;2021;57.0
+1882;803 Detectivebureaus;2022;55.0
+1883;803 Detectivebureaus;2023;52.0
+1884;81 Schoonmaakbedrijven, hoveniers e.d.;2018;41625.0
+1885;81 Schoonmaakbedrijven, hoveniers e.d.;2019;43526.0
+1886;81 Schoonmaakbedrijven, hoveniers e.d.;2020;44819.0
+1887;81 Schoonmaakbedrijven, hoveniers e.d.;2021;46965.0
+1888;81 Schoonmaakbedrijven, hoveniers e.d.;2022;48187.0
+1889;81 Schoonmaakbedrijven, hoveniers e.d.;2023;50117.0
+1890;811 Facility management;2018;384.0
+1891;811 Facility management;2019;423.0
+1892;811 Facility management;2020;477.0
+1893;811 Facility management;2021;568.0
+1894;811 Facility management;2022;637.0
+1895;811 Facility management;2023;685.0
+1896;812 Schoonmaakbedrijven;2018;19763.0
+1897;812 Schoonmaakbedrijven;2019;20566.0
+1898;812 Schoonmaakbedrijven;2020;20955.0
+1899;812 Schoonmaakbedrijven;2021;21862.0
+1900;812 Schoonmaakbedrijven;2022;22067.0
+1901;812 Schoonmaakbedrijven;2023;22719.0
+1902;813 Hoveniersbedrijven;2018;21478.0
+1903;813 Hoveniersbedrijven;2019;22537.0
+1904;813 Hoveniersbedrijven;2020;23387.0
+1905;813 Hoveniersbedrijven;2021;24535.0
+1906;813 Hoveniersbedrijven;2022;25483.0
+1907;813 Hoveniersbedrijven;2023;26713.0
+1908;82 Overige zakelijke dienstverlening;2018;1944.0
+1909;82 Overige zakelijke dienstverlening;2019;2250.0
+1910;82 Overige zakelijke dienstverlening;2020;2615.0
+1911;82 Overige zakelijke dienstverlening;2021;2491.0
+1912;82 Overige zakelijke dienstverlening;2022;2620.0
+1913;82 Overige zakelijke dienstverlening;2023;3137.0
+1914;821 Administratieve dienstverlening;2018;466.0
+1915;821 Administratieve dienstverlening;2019;519.0
+1916;821 Administratieve dienstverlening;2020;512.0
+1917;821 Administratieve dienstverlening;2021;565.0
+1918;821 Administratieve dienstverlening;2022;576.0
+1919;821 Administratieve dienstverlening;2023;636.0
+1920;822 Callcenters;2018;43.0
+1921;822 Callcenters;2019;32.0
+1922;822 Callcenters;2020;49.0
+1923;822 Callcenters;2021;67.0
+1924;822 Callcenters;2022;56.0
+1925;822 Callcenters;2023;65.0
+1926;823 Organisatie van congressen, beurzen;2018;203.0
+1927;823 Organisatie van congressen, beurzen;2019;424.0
+1928;823 Organisatie van congressen, beurzen;2020;475.0
+1929;823 Organisatie van congressen, beurzen;2021;261.0
+1930;823 Organisatie van congressen, beurzen;2022;339.0
+1931;823 Organisatie van congressen, beurzen;2023;478.0
+1932;829 Overige zakelijke diensten (rest);2018;1232.0
+1933;829 Overige zakelijke diensten (rest);2019;1275.0
+1934;829 Overige zakelijke diensten (rest);2020;1579.0
+1935;829 Overige zakelijke diensten (rest);2021;1598.0
+1936;829 Overige zakelijke diensten (rest);2022;1649.0
+1937;829 Overige zakelijke diensten (rest);2023;1958.0
+1938;O-Q Overheid en zorg;2018;29017.0
+1939;O-Q Overheid en zorg;2019;30363.0
+1940;O-Q Overheid en zorg;2020;30815.0
+1941;O-Q Overheid en zorg;2021;31819.0
+1942;O-Q Overheid en zorg;2022;32251.0
+1943;O-Q Overheid en zorg;2023;33501.0
+1944;O Openbaar bestuur en overheidsdiensten;2018;11056.0
+1945;O Openbaar bestuur en overheidsdiensten;2019;11730.0
+1946;O Openbaar bestuur en overheidsdiensten;2020;11587.0
+1947;O Openbaar bestuur en overheidsdiensten;2021;11741.0
+1948;O Openbaar bestuur en overheidsdiensten;2022;11805.0
+1949;O Openbaar bestuur en overheidsdiensten;2023;12675.0
+1950;84 Openbaar bestuur en overheidsdiensten;2018;11056.0
+1951;84 Openbaar bestuur en overheidsdiensten;2019;11730.0
+1952;84 Openbaar bestuur en overheidsdiensten;2020;11587.0
+1953;84 Openbaar bestuur en overheidsdiensten;2021;11741.0
+1954;84 Openbaar bestuur en overheidsdiensten;2022;11805.0
+1955;84 Openbaar bestuur en overheidsdiensten;2023;12675.0
+1956;841 Openbaar bestuur;2018;9174.0
+1957;841 Openbaar bestuur;2019;9597.0
+1958;841 Openbaar bestuur;2020;9410.0
+1959;841 Openbaar bestuur;2021;9578.0
+1960;841 Openbaar bestuur;2022;9646.0
+1961;841 Openbaar bestuur;2023;10433.0
+1962;842 Overheidsdiensten;2018;
+1963;842 Overheidsdiensten;2019;
+1964;842 Overheidsdiensten;2020;
+1965;842 Overheidsdiensten;2021;
+1966;842 Overheidsdiensten;2022;
+1967;842 Overheidsdiensten;2023;
+1968;843 Verplichte sociale verzekeringen;2018;
+1969;843 Verplichte sociale verzekeringen;2019;
+1970;843 Verplichte sociale verzekeringen;2020;
+1971;843 Verplichte sociale verzekeringen;2021;
+1972;843 Verplichte sociale verzekeringen;2022;
+1973;843 Verplichte sociale verzekeringen;2023;
+1974;P Onderwijs;2018;7322.0
+1975;P Onderwijs;2019;7642.0
+1976;P Onderwijs;2020;7944.0
+1977;P Onderwijs;2021;8479.0
+1978;P Onderwijs;2022;8550.0
+1979;P Onderwijs;2023;8521.0
+1980;85 Onderwijs;2018;7322.0
+1981;85 Onderwijs;2019;7642.0
+1982;85 Onderwijs;2020;7944.0
+1983;85 Onderwijs;2021;8479.0
+1984;85 Onderwijs;2022;8550.0
+1985;85 Onderwijs;2023;8521.0
+1986;852 Basisonderwijs en speciaal onderwijs;2018;195.0
+1987;852 Basisonderwijs en speciaal onderwijs;2019;181.0
+1988;852 Basisonderwijs en speciaal onderwijs;2020;173.0
+1989;852 Basisonderwijs en speciaal onderwijs;2021;227.0
+1990;852 Basisonderwijs en speciaal onderwijs;2022;179.0
+1991;852 Basisonderwijs en speciaal onderwijs;2023;205.0
+1992;853 Voortgezet onderwijs;2018;445.0
+1993;853 Voortgezet onderwijs;2019;428.0
+1994;853 Voortgezet onderwijs;2020;429.0
+1995;853 Voortgezet onderwijs;2021;403.0
+1996;853 Voortgezet onderwijs;2022;406.0
+1997;853 Voortgezet onderwijs;2023;415.0
+1998;854 Hoger onderwijs;2018;207.0
+1999;854 Hoger onderwijs;2019;215.0
+2000;854 Hoger onderwijs;2020;211.0
+2001;854 Hoger onderwijs;2021;217.0
+2002;854 Hoger onderwijs;2022;215.0
+2003;854 Hoger onderwijs;2023;216.0
+2004;855 Overig onderwijs;2018;6411.0
+2005;855 Overig onderwijs;2019;6757.0
+2006;855 Overig onderwijs;2020;7061.0
+2007;855 Overig onderwijs;2021;7556.0
+2008;855 Overig onderwijs;2022;7643.0
+2009;855 Overig onderwijs;2023;7588.0
+2010;856 Dienstverlening voor het onderwijs;2018;64.0
+2011;856 Dienstverlening voor het onderwijs;2019;61.0
+2012;856 Dienstverlening voor het onderwijs;2020;70.0
+2013;856 Dienstverlening voor het onderwijs;2021;76.0
+2014;856 Dienstverlening voor het onderwijs;2022;107.0
+2015;856 Dienstverlening voor het onderwijs;2023;97.0
+2016;Q Gezondheids- en welzijnszorg;2018;10639.0
+2017;Q Gezondheids- en welzijnszorg;2019;10991.0
+2018;Q Gezondheids- en welzijnszorg;2020;11284.0
+2019;Q Gezondheids- en welzijnszorg;2021;11599.0
+2020;Q Gezondheids- en welzijnszorg;2022;11896.0
+2021;Q Gezondheids- en welzijnszorg;2023;12305.0
+2022;86 Gezondheidszorg;2018;5287.0
+2023;86 Gezondheidszorg;2019;5258.0
+2024;86 Gezondheidszorg;2020;5293.0
+2025;86 Gezondheidszorg;2021;5467.0
+2026;86 Gezondheidszorg;2022;5528.0
+2027;86 Gezondheidszorg;2023;5650.0
+2028;861 Ziekenhuizen;2018;819.0
+2029;861 Ziekenhuizen;2019;853.0
+2030;861 Ziekenhuizen;2020;830.0
+2031;861 Ziekenhuizen;2021;819.0
+2032;861 Ziekenhuizen;2022;771.0
+2033;861 Ziekenhuizen;2023;833.0
+2034;862 Medische praktijken;2018;754.0
+2035;862 Medische praktijken;2019;728.0
+2036;862 Medische praktijken;2020;735.0
+2037;862 Medische praktijken;2021;789.0
+2038;862 Medische praktijken;2022;801.0
+2039;862 Medische praktijken;2023;754.0
+2040;869 Overige ambulante gezondheidszorg;2018;3714.0
+2041;869 Overige ambulante gezondheidszorg;2019;3677.0
+2042;869 Overige ambulante gezondheidszorg;2020;3728.0
+2043;869 Overige ambulante gezondheidszorg;2021;3859.0
+2044;869 Overige ambulante gezondheidszorg;2022;3956.0
+2045;869 Overige ambulante gezondheidszorg;2023;4063.0
+2046;87 Verpleging en zorg met overnachting;2018;2519.0
+2047;87 Verpleging en zorg met overnachting;2019;2674.0
+2048;87 Verpleging en zorg met overnachting;2020;2809.0
+2049;87 Verpleging en zorg met overnachting;2021;2821.0
+2050;87 Verpleging en zorg met overnachting;2022;2866.0
+2051;87 Verpleging en zorg met overnachting;2023;2914.0
+2052;871 Verpleeghuizen;2018;399.0
+2053;871 Verpleeghuizen;2019;412.0
+2054;871 Verpleeghuizen;2020;474.0
+2055;871 Verpleeghuizen;2021;503.0
+2056;871 Verpleeghuizen;2022;505.0
+2057;871 Verpleeghuizen;2023;498.0
+2058;872 Huizen verstandelijk gehandicapten;2018;1394.0
+2059;872 Huizen verstandelijk gehandicapten;2019;1520.0
+2060;872 Huizen verstandelijk gehandicapten;2020;1529.0
+2061;872 Huizen verstandelijk gehandicapten;2021;1533.0
+2062;872 Huizen verstandelijk gehandicapten;2022;1544.0
+2063;872 Huizen verstandelijk gehandicapten;2023;1549.0
+2064;873 Huizen lichamelijk gehandicapten;2018;374.0
+2065;873 Huizen lichamelijk gehandicapten;2019;350.0
+2066;873 Huizen lichamelijk gehandicapten;2020;375.0
+2067;873 Huizen lichamelijk gehandicapten;2021;353.0
+2068;873 Huizen lichamelijk gehandicapten;2022;359.0
+2069;873 Huizen lichamelijk gehandicapten;2023;370.0
+2070;879 Welzijnszorg met overnachting;2018;352.0
+2071;879 Welzijnszorg met overnachting;2019;392.0
+2072;879 Welzijnszorg met overnachting;2020;431.0
+2073;879 Welzijnszorg met overnachting;2021;432.0
+2074;879 Welzijnszorg met overnachting;2022;458.0
+2075;879 Welzijnszorg met overnachting;2023;497.0
+2076;88 Welzijnszorg zonder overnachting;2018;2833.0
+2077;88 Welzijnszorg zonder overnachting;2019;3059.0
+2078;88 Welzijnszorg zonder overnachting;2020;3182.0
+2079;88 Welzijnszorg zonder overnachting;2021;3311.0
+2080;88 Welzijnszorg zonder overnachting;2022;3502.0
+2081;88 Welzijnszorg zonder overnachting;2023;3741.0
+2082;881 Welzijnswerk ouderen, gehandicapten;2018;1219.0
+2083;881 Welzijnswerk ouderen, gehandicapten;2019;1364.0
+2084;881 Welzijnswerk ouderen, gehandicapten;2020;1402.0
+2085;881 Welzijnswerk ouderen, gehandicapten;2021;1440.0
+2086;881 Welzijnswerk ouderen, gehandicapten;2022;1558.0
+2087;881 Welzijnswerk ouderen, gehandicapten;2023;1711.0
+2088;889 Kinderopvang,jeugd- en welzijnswerk;2018;1614.0
+2089;889 Kinderopvang,jeugd- en welzijnswerk;2019;1695.0
+2090;889 Kinderopvang,jeugd- en welzijnswerk;2020;1780.0
+2091;889 Kinderopvang,jeugd- en welzijnswerk;2021;1871.0
+2092;889 Kinderopvang,jeugd- en welzijnswerk;2022;1944.0
+2093;889 Kinderopvang,jeugd- en welzijnswerk;2023;2030.0
+2094;R-U Cultuur, recreatie, overige diensten;2018;31554.0
+2095;R-U Cultuur, recreatie, overige diensten;2019;32290.0
+2096;R-U Cultuur, recreatie, overige diensten;2020;31977.0
+2097;R-U Cultuur, recreatie, overige diensten;2021;32440.0
+2098;R-U Cultuur, recreatie, overige diensten;2022;33304.0
+2099;R-U Cultuur, recreatie, overige diensten;2023;33401.0
+2100;R Cultuur, sport en recreatie;2018;17170.0
+2101;R Cultuur, sport en recreatie;2019;17610.0
+2102;R Cultuur, sport en recreatie;2020;17407.0
+2103;R Cultuur, sport en recreatie;2021;17520.0
+2104;R Cultuur, sport en recreatie;2022;17408.0
+2105;R Cultuur, sport en recreatie;2023;17800.0
+2106;90 Kunst;2018;9877.0
+2107;90 Kunst;2019;10134.0
+2108;90 Kunst;2020;9941.0
+2109;90 Kunst;2021;9960.0
+2110;90 Kunst;2022;9613.0
+2111;90 Kunst;2023;9791.0
+2112;900 Kunst;2018;9877.0
+2113;900 Kunst;2019;10134.0
+2114;900 Kunst;2020;9941.0
+2115;900 Kunst;2021;9960.0
+2116;900 Kunst;2022;9613.0
+2117;900 Kunst;2023;9791.0
+2118;91 Bibliotheken, musea en natuurbehoud;2018;1215.0
+2119;91 Bibliotheken, musea en natuurbehoud;2019;1253.0
+2120;91 Bibliotheken, musea en natuurbehoud;2020;1309.0
+2121;91 Bibliotheken, musea en natuurbehoud;2021;1361.0
+2122;91 Bibliotheken, musea en natuurbehoud;2022;1444.0
+2123;91 Bibliotheken, musea en natuurbehoud;2023;1491.0
+2124;910 Bibliotheken, musea en natuurbehoud;2018;1215.0
+2125;910 Bibliotheken, musea en natuurbehoud;2019;1253.0
+2126;910 Bibliotheken, musea en natuurbehoud;2020;1309.0
+2127;910 Bibliotheken, musea en natuurbehoud;2021;1361.0
+2128;910 Bibliotheken, musea en natuurbehoud;2022;1444.0
+2129;910 Bibliotheken, musea en natuurbehoud;2023;1491.0
+2130;92 Loterijen en kansspelen;2018;413.0
+2131;92 Loterijen en kansspelen;2019;406.0
+2132;92 Loterijen en kansspelen;2020;375.0
+2133;92 Loterijen en kansspelen;2021;357.0
+2134;92 Loterijen en kansspelen;2022;370.0
+2135;92 Loterijen en kansspelen;2023;356.0
+2136;920 Loterijen en kansspelen;2018;413.0
+2137;920 Loterijen en kansspelen;2019;406.0
+2138;920 Loterijen en kansspelen;2020;375.0
+2139;920 Loterijen en kansspelen;2021;357.0
+2140;920 Loterijen en kansspelen;2022;370.0
+2141;920 Loterijen en kansspelen;2023;356.0
+2142;93 Sport en recreatie;2018;5665.0
+2143;93 Sport en recreatie;2019;5817.0
+2144;93 Sport en recreatie;2020;5782.0
+2145;93 Sport en recreatie;2021;5842.0
+2146;93 Sport en recreatie;2022;5981.0
+2147;93 Sport en recreatie;2023;6162.0
+2148;931 Sport;2018;3053.0
+2149;931 Sport;2019;3129.0
+2150;931 Sport;2020;3131.0
+2151;931 Sport;2021;3216.0
+2152;931 Sport;2022;3295.0
+2153;931 Sport;2023;3361.0
+2154;932 Overige recreatie;2018;2612.0
+2155;932 Overige recreatie;2019;2688.0
+2156;932 Overige recreatie;2020;2651.0
+2157;932 Overige recreatie;2021;2626.0
+2158;932 Overige recreatie;2022;2686.0
+2159;932 Overige recreatie;2023;2801.0
+2160;S Overige dienstverlening;2018;14384.0
+2161;S Overige dienstverlening;2019;14680.0
+2162;S Overige dienstverlening;2020;14570.0
+2163;S Overige dienstverlening;2021;14920.0
+2164;S Overige dienstverlening;2022;15896.0
+2165;S Overige dienstverlening;2023;15601.0
+2166;94 Ideële, belangen-, hobbyverenigingen;2018;1511.0
+2167;94 Ideële, belangen-, hobbyverenigingen;2019;1556.0
+2168;94 Ideële, belangen-, hobbyverenigingen;2020;1452.0
+2169;94 Ideële, belangen-, hobbyverenigingen;2021;1612.0
+2170;94 Ideële, belangen-, hobbyverenigingen;2022;2663.0
+2171;94 Ideële, belangen-, hobbyverenigingen;2023;2580.0
+2172;941 Werkgevers- en beroepsorganisaties;2018;104.0
+2173;941 Werkgevers- en beroepsorganisaties;2019;111.0
+2174;941 Werkgevers- en beroepsorganisaties;2020;105.0
+2175;941 Werkgevers- en beroepsorganisaties;2021;104.0
+2176;941 Werkgevers- en beroepsorganisaties;2022;34.0
+2177;941 Werkgevers- en beroepsorganisaties;2023;27.0
+2178;942 Werknemersorganisaties;2018;20.0
+2179;942 Werknemersorganisaties;2019;22.0
+2180;942 Werknemersorganisaties;2020;20.0
+2181;942 Werknemersorganisaties;2021;22.0
+2182;942 Werknemersorganisaties;2022;23.0
+2183;942 Werknemersorganisaties;2023;21.0
+2184;949 Ideële, belangen-, hobbyverenigingen;2018;1387.0
+2185;949 Ideële, belangen-, hobbyverenigingen;2019;1423.0
+2186;949 Ideële, belangen-, hobbyverenigingen;2020;1327.0
+2187;949 Ideële, belangen-, hobbyverenigingen;2021;1486.0
+2188;949 Ideële, belangen-, hobbyverenigingen;2022;2606.0
+2189;949 Ideële, belangen-, hobbyverenigingen;2023;2532.0
+2190;95 Reparatie van consumentenartikelen;2018;4424.0
+2191;95 Reparatie van consumentenartikelen;2019;4414.0
+2192;95 Reparatie van consumentenartikelen;2020;4466.0
+2193;95 Reparatie van consumentenartikelen;2021;4469.0
+2194;95 Reparatie van consumentenartikelen;2022;4324.0
+2195;95 Reparatie van consumentenartikelen;2023;4203.0
+2196;951 Reparatie van computers en telecom;2018;633.0
+2197;951 Reparatie van computers en telecom;2019;637.0
+2198;951 Reparatie van computers en telecom;2020;667.0
+2199;951 Reparatie van computers en telecom;2021;613.0
+2200;951 Reparatie van computers en telecom;2022;576.0
+2201;951 Reparatie van computers en telecom;2023;553.0
+2202;952 Reparatie van consumentenartikelen;2018;3791.0
+2203;952 Reparatie van consumentenartikelen;2019;3777.0
+2204;952 Reparatie van consumentenartikelen;2020;3799.0
+2205;952 Reparatie van consumentenartikelen;2021;3856.0
+2206;952 Reparatie van consumentenartikelen;2022;3748.0
+2207;952 Reparatie van consumentenartikelen;2023;3650.0
+2208;96 Overige persoonlijke dienstverlening;2018;8449.0
+2209;96 Overige persoonlijke dienstverlening;2019;8710.0
+2210;96 Overige persoonlijke dienstverlening;2020;8652.0
+2211;96 Overige persoonlijke dienstverlening;2021;8839.0
+2212;96 Overige persoonlijke dienstverlening;2022;8909.0
+2213;96 Overige persoonlijke dienstverlening;2023;8818.0
+2214;960 Wellness en overige dienstverlening;2018;8449.0
+2215;960 Wellness en overige dienstverlening;2019;8710.0
+2216;960 Wellness en overige dienstverlening;2020;8652.0
+2217;960 Wellness en overige dienstverlening;2021;8839.0
+2218;960 Wellness en overige dienstverlening;2022;8909.0
+2219;960 Wellness en overige dienstverlening;2023;8818.0
+2220;SBI-code onbekend;2018;8.0
+2221;SBI-code onbekend;2019;13.0
+2222;SBI-code onbekend;2020;7.0
+2223;SBI-code onbekend;2021;10.0
+2224;SBI-code onbekend;2022;6.0
+2225;SBI-code onbekend;2023;9.0

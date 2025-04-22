@@ -1,0 +1,409 @@
+﻿ID;RegioS;VaarwegenLengte;Perioden;LengteVanVaarwegen_1
+0;Nederland;Totale vaarweglengte;2019;6364
+1;Nederland;Totale vaarweglengte;2020;6371
+2;Nederland;Totale vaarweglengte;2021;6805
+3;Nederland;Totale vaarweglengte;2022;6919
+4;Nederland;Totale vaarweglengte;2023;7040
+5;Nederland;Totale vaarweglengte;2024;6920
+6;Nederland;Vaarweg;2019;5856
+7;Nederland;Vaarweg;2020;5862
+8;Nederland;Vaarweg;2021;6302
+9;Nederland;Vaarweg;2022;6411
+10;Nederland;Vaarweg;2023;6531
+11;Nederland;Vaarweg;2024;6411
+12;Nederland;Haven;2019;447
+13;Nederland;Haven;2020;448
+14;Nederland;Haven;2021;442
+15;Nederland;Haven;2022;448
+16;Nederland;Haven;2023;449
+17;Nederland;Haven;2024;448
+18;Nederland;Toeloop naar haven;2019;61
+19;Nederland;Toeloop naar haven;2020;61
+20;Nederland;Toeloop naar haven;2021;61
+21;Nederland;Toeloop naar haven;2022;60
+22;Nederland;Toeloop naar haven;2023;61
+23;Nederland;Toeloop naar haven;2024;62
+24;Noord-Nederland (LD);Totale vaarweglengte;2019;1687
+25;Noord-Nederland (LD);Totale vaarweglengte;2020;1691
+26;Noord-Nederland (LD);Totale vaarweglengte;2021;1868
+27;Noord-Nederland (LD);Totale vaarweglengte;2022;1970
+28;Noord-Nederland (LD);Totale vaarweglengte;2023;2079
+29;Noord-Nederland (LD);Totale vaarweglengte;2024;2022
+30;Noord-Nederland (LD);Vaarweg;2019;1645
+31;Noord-Nederland (LD);Vaarweg;2020;1648
+32;Noord-Nederland (LD);Vaarweg;2021;1823
+33;Noord-Nederland (LD);Vaarweg;2022;1928
+34;Noord-Nederland (LD);Vaarweg;2023;2037
+35;Noord-Nederland (LD);Vaarweg;2024;1983
+36;Noord-Nederland (LD);Haven;2019;30
+37;Noord-Nederland (LD);Haven;2020;30
+38;Noord-Nederland (LD);Haven;2021;32
+39;Noord-Nederland (LD);Haven;2022;30
+40;Noord-Nederland (LD);Haven;2023;30
+41;Noord-Nederland (LD);Haven;2024;29
+42;Noord-Nederland (LD);Toeloop naar haven;2019;13
+43;Noord-Nederland (LD);Toeloop naar haven;2020;13
+44;Noord-Nederland (LD);Toeloop naar haven;2021;13
+45;Noord-Nederland (LD);Toeloop naar haven;2022;12
+46;Noord-Nederland (LD);Toeloop naar haven;2023;12
+47;Noord-Nederland (LD);Toeloop naar haven;2024;10
+48;Oost-Nederland (LD);Totale vaarweglengte;2019;1421
+49;Oost-Nederland (LD);Totale vaarweglengte;2020;1422
+50;Oost-Nederland (LD);Totale vaarweglengte;2021;1465
+51;Oost-Nederland (LD);Totale vaarweglengte;2022;1475
+52;Oost-Nederland (LD);Totale vaarweglengte;2023;1476
+53;Oost-Nederland (LD);Totale vaarweglengte;2024;1432
+54;Oost-Nederland (LD);Vaarweg;2019;1357
+55;Oost-Nederland (LD);Vaarweg;2020;1357
+56;Oost-Nederland (LD);Vaarweg;2021;1401
+57;Oost-Nederland (LD);Vaarweg;2022;1407
+58;Oost-Nederland (LD);Vaarweg;2023;1408
+59;Oost-Nederland (LD);Vaarweg;2024;1363
+60;Oost-Nederland (LD);Haven;2019;57
+61;Oost-Nederland (LD);Haven;2020;57
+62;Oost-Nederland (LD);Haven;2021;57
+63;Oost-Nederland (LD);Haven;2022;58
+64;Oost-Nederland (LD);Haven;2023;58
+65;Oost-Nederland (LD);Haven;2024;59
+66;Oost-Nederland (LD);Toeloop naar haven;2019;8
+67;Oost-Nederland (LD);Toeloop naar haven;2020;8
+68;Oost-Nederland (LD);Toeloop naar haven;2021;8
+69;Oost-Nederland (LD);Toeloop naar haven;2022;10
+70;Oost-Nederland (LD);Toeloop naar haven;2023;10
+71;Oost-Nederland (LD);Toeloop naar haven;2024;10
+72;West-Nederland (LD);Totale vaarweglengte;2019;2680
+73;West-Nederland (LD);Totale vaarweglengte;2020;2682
+74;West-Nederland (LD);Totale vaarweglengte;2021;2887
+75;West-Nederland (LD);Totale vaarweglengte;2022;2889
+76;West-Nederland (LD);Totale vaarweglengte;2023;2901
+77;West-Nederland (LD);Totale vaarweglengte;2024;2881
+78;West-Nederland (LD);Vaarweg;2019;2356
+79;West-Nederland (LD);Vaarweg;2020;2358
+80;West-Nederland (LD);Vaarweg;2021;2569
+81;West-Nederland (LD);Vaarweg;2022;2568
+82;West-Nederland (LD);Vaarweg;2023;2580
+83;West-Nederland (LD);Vaarweg;2024;2556
+84;West-Nederland (LD);Haven;2019;285
+85;West-Nederland (LD);Haven;2020;286
+86;West-Nederland (LD);Haven;2021;279
+87;West-Nederland (LD);Haven;2022;285
+88;West-Nederland (LD);Haven;2023;285
+89;West-Nederland (LD);Haven;2024;285
+90;West-Nederland (LD);Toeloop naar haven;2019;38
+91;West-Nederland (LD);Toeloop naar haven;2020;38
+92;West-Nederland (LD);Toeloop naar haven;2021;38
+93;West-Nederland (LD);Toeloop naar haven;2022;36
+94;West-Nederland (LD);Toeloop naar haven;2023;36
+95;West-Nederland (LD);Toeloop naar haven;2024;40
+96;Zuid-Nederland (LD);Totale vaarweglengte;2019;816
+97;Zuid-Nederland (LD);Totale vaarweglengte;2020;816
+98;Zuid-Nederland (LD);Totale vaarweglengte;2021;826
+99;Zuid-Nederland (LD);Totale vaarweglengte;2022;826
+100;Zuid-Nederland (LD);Totale vaarweglengte;2023;824
+101;Zuid-Nederland (LD);Totale vaarweglengte;2024;824
+102;Zuid-Nederland (LD);Vaarweg;2019;736
+103;Zuid-Nederland (LD);Vaarweg;2020;736
+104;Zuid-Nederland (LD);Vaarweg;2021;745
+105;Zuid-Nederland (LD);Vaarweg;2022;745
+106;Zuid-Nederland (LD);Vaarweg;2023;744
+107;Zuid-Nederland (LD);Vaarweg;2024;744
+108;Zuid-Nederland (LD);Haven;2019;76
+109;Zuid-Nederland (LD);Haven;2020;77
+110;Zuid-Nederland (LD);Haven;2021;77
+111;Zuid-Nederland (LD);Haven;2022;77
+112;Zuid-Nederland (LD);Haven;2023;77
+113;Zuid-Nederland (LD);Haven;2024;77
+114;Zuid-Nederland (LD);Toeloop naar haven;2019;4
+115;Zuid-Nederland (LD);Toeloop naar haven;2020;4
+116;Zuid-Nederland (LD);Toeloop naar haven;2021;4
+117;Zuid-Nederland (LD);Toeloop naar haven;2022;4
+118;Zuid-Nederland (LD);Toeloop naar haven;2023;4
+119;Zuid-Nederland (LD);Toeloop naar haven;2024;4
+120;Groningen (PV);Totale vaarweglengte;2019;541
+121;Groningen (PV);Totale vaarweglengte;2020;541
+122;Groningen (PV);Totale vaarweglengte;2021;622
+123;Groningen (PV);Totale vaarweglengte;2022;645
+124;Groningen (PV);Totale vaarweglengte;2023;645
+125;Groningen (PV);Totale vaarweglengte;2024;645
+126;Groningen (PV);Vaarweg;2019;535
+127;Groningen (PV);Vaarweg;2020;536
+128;Groningen (PV);Vaarweg;2021;615
+129;Groningen (PV);Vaarweg;2022;640
+130;Groningen (PV);Vaarweg;2023;640
+131;Groningen (PV);Vaarweg;2024;640
+132;Groningen (PV);Haven;2019;5
+133;Groningen (PV);Haven;2020;5
+134;Groningen (PV);Haven;2021;7
+135;Groningen (PV);Haven;2022;5
+136;Groningen (PV);Haven;2023;5
+137;Groningen (PV);Haven;2024;5
+138;Groningen (PV);Toeloop naar haven;2019;0
+139;Groningen (PV);Toeloop naar haven;2020;0
+140;Groningen (PV);Toeloop naar haven;2021;0
+141;Groningen (PV);Toeloop naar haven;2022;0
+142;Groningen (PV);Toeloop naar haven;2023;0
+143;Groningen (PV);Toeloop naar haven;2024;0
+144;Fryslân (PV);Totale vaarweglengte;2019;978
+145;Fryslân (PV);Totale vaarweglengte;2020;981
+146;Fryslân (PV);Totale vaarweglengte;2021;1073
+147;Fryslân (PV);Totale vaarweglengte;2022;1153
+148;Fryslân (PV);Totale vaarweglengte;2023;1262
+149;Fryslân (PV);Totale vaarweglengte;2024;1205
+150;Fryslân (PV);Vaarweg;2019;950
+151;Fryslân (PV);Vaarweg;2020;953
+152;Fryslân (PV);Vaarweg;2021;1046
+153;Fryslân (PV);Vaarweg;2022;1127
+154;Fryslân (PV);Vaarweg;2023;1235
+155;Fryslân (PV);Vaarweg;2024;1182
+156;Fryslân (PV);Haven;2019;15
+157;Fryslân (PV);Haven;2020;15
+158;Fryslân (PV);Haven;2021;15
+159;Fryslân (PV);Haven;2022;14
+160;Fryslân (PV);Haven;2023;15
+161;Fryslân (PV);Haven;2024;13
+162;Fryslân (PV);Toeloop naar haven;2019;13
+163;Fryslân (PV);Toeloop naar haven;2020;13
+164;Fryslân (PV);Toeloop naar haven;2021;12
+165;Fryslân (PV);Toeloop naar haven;2022;12
+166;Fryslân (PV);Toeloop naar haven;2023;12
+167;Fryslân (PV);Toeloop naar haven;2024;10
+168;Drenthe (PV);Totale vaarweglengte;2019;198
+169;Drenthe (PV);Totale vaarweglengte;2020;198
+170;Drenthe (PV);Totale vaarweglengte;2021;201
+171;Drenthe (PV);Totale vaarweglengte;2022;201
+172;Drenthe (PV);Totale vaarweglengte;2023;201
+173;Drenthe (PV);Totale vaarweglengte;2024;201
+174;Drenthe (PV);Vaarweg;2019;187
+175;Drenthe (PV);Vaarweg;2020;187
+176;Drenthe (PV);Vaarweg;2021;191
+177;Drenthe (PV);Vaarweg;2022;191
+178;Drenthe (PV);Vaarweg;2023;191
+179;Drenthe (PV);Vaarweg;2024;191
+180;Drenthe (PV);Haven;2019;10
+181;Drenthe (PV);Haven;2020;10
+182;Drenthe (PV);Haven;2021;10
+183;Drenthe (PV);Haven;2022;10
+184;Drenthe (PV);Haven;2023;10
+185;Drenthe (PV);Haven;2024;10
+186;Drenthe (PV);Toeloop naar haven;2019;0
+187;Drenthe (PV);Toeloop naar haven;2020;0
+188;Drenthe (PV);Toeloop naar haven;2021;0
+189;Drenthe (PV);Toeloop naar haven;2022;0
+190;Drenthe (PV);Toeloop naar haven;2023;0
+191;Drenthe (PV);Toeloop naar haven;2024;0
+192;Overijssel (PV);Totale vaarweglengte;2019;364
+193;Overijssel (PV);Totale vaarweglengte;2020;364
+194;Overijssel (PV);Totale vaarweglengte;2021;393
+195;Overijssel (PV);Totale vaarweglengte;2022;393
+196;Overijssel (PV);Totale vaarweglengte;2023;393
+197;Overijssel (PV);Totale vaarweglengte;2024;393
+198;Overijssel (PV);Vaarweg;2019;343
+199;Overijssel (PV);Vaarweg;2020;343
+200;Overijssel (PV);Vaarweg;2021;371
+201;Overijssel (PV);Vaarweg;2022;371
+202;Overijssel (PV);Vaarweg;2023;371
+203;Overijssel (PV);Vaarweg;2024;371
+204;Overijssel (PV);Haven;2019;21
+205;Overijssel (PV);Haven;2020;21
+206;Overijssel (PV);Haven;2021;21
+207;Overijssel (PV);Haven;2022;21
+208;Overijssel (PV);Haven;2023;21
+209;Overijssel (PV);Haven;2024;21
+210;Overijssel (PV);Toeloop naar haven;2019;0
+211;Overijssel (PV);Toeloop naar haven;2020;0
+212;Overijssel (PV);Toeloop naar haven;2021;0
+213;Overijssel (PV);Toeloop naar haven;2022;0
+214;Overijssel (PV);Toeloop naar haven;2023;0
+215;Overijssel (PV);Toeloop naar haven;2024;0
+216;Flevoland (PV);Totale vaarweglengte;2019;605
+217;Flevoland (PV);Totale vaarweglengte;2020;605
+218;Flevoland (PV);Totale vaarweglengte;2021;611
+219;Flevoland (PV);Totale vaarweglengte;2022;620
+220;Flevoland (PV);Totale vaarweglengte;2023;620
+221;Flevoland (PV);Totale vaarweglengte;2024;574
+222;Flevoland (PV);Vaarweg;2019;589
+223;Flevoland (PV);Vaarweg;2020;589
+224;Flevoland (PV);Vaarweg;2021;595
+225;Flevoland (PV);Vaarweg;2022;601
+226;Flevoland (PV);Vaarweg;2023;601
+227;Flevoland (PV);Vaarweg;2024;554
+228;Flevoland (PV);Haven;2019;11
+229;Flevoland (PV);Haven;2020;11
+230;Flevoland (PV);Haven;2021;11
+231;Flevoland (PV);Haven;2022;12
+232;Flevoland (PV);Haven;2023;12
+233;Flevoland (PV);Haven;2024;13
+234;Flevoland (PV);Toeloop naar haven;2019;5
+235;Flevoland (PV);Toeloop naar haven;2020;5
+236;Flevoland (PV);Toeloop naar haven;2021;5
+237;Flevoland (PV);Toeloop naar haven;2022;7
+238;Flevoland (PV);Toeloop naar haven;2023;7
+239;Flevoland (PV);Toeloop naar haven;2024;8
+240;Gelderland (PV);Totale vaarweglengte;2019;516
+241;Gelderland (PV);Totale vaarweglengte;2020;517
+242;Gelderland (PV);Totale vaarweglengte;2021;523
+243;Gelderland (PV);Totale vaarweglengte;2022;523
+244;Gelderland (PV);Totale vaarweglengte;2023;525
+245;Gelderland (PV);Totale vaarweglengte;2024;527
+246;Gelderland (PV);Vaarweg;2019;489
+247;Gelderland (PV);Vaarweg;2020;490
+248;Gelderland (PV);Vaarweg;2021;496
+249;Gelderland (PV);Vaarweg;2022;496
+250;Gelderland (PV);Vaarweg;2023;497
+251;Gelderland (PV);Vaarweg;2024;498
+252;Gelderland (PV);Haven;2019;25
+253;Gelderland (PV);Haven;2020;25
+254;Gelderland (PV);Haven;2021;25
+255;Gelderland (PV);Haven;2022;25
+256;Gelderland (PV);Haven;2023;25
+257;Gelderland (PV);Haven;2024;25
+258;Gelderland (PV);Toeloop naar haven;2019;3
+259;Gelderland (PV);Toeloop naar haven;2020;3
+260;Gelderland (PV);Toeloop naar haven;2021;3
+261;Gelderland (PV);Toeloop naar haven;2022;3
+262;Gelderland (PV);Toeloop naar haven;2023;3
+263;Gelderland (PV);Toeloop naar haven;2024;3
+264;Utrecht (PV);Totale vaarweglengte;2019;377
+265;Utrecht (PV);Totale vaarweglengte;2020;377
+266;Utrecht (PV);Totale vaarweglengte;2021;438
+267;Utrecht (PV);Totale vaarweglengte;2022;439
+268;Utrecht (PV);Totale vaarweglengte;2023;439
+269;Utrecht (PV);Totale vaarweglengte;2024;440
+270;Utrecht (PV);Vaarweg;2019;368
+271;Utrecht (PV);Vaarweg;2020;368
+272;Utrecht (PV);Vaarweg;2021;429
+273;Utrecht (PV);Vaarweg;2022;431
+274;Utrecht (PV);Vaarweg;2023;431
+275;Utrecht (PV);Vaarweg;2024;431
+276;Utrecht (PV);Haven;2019;8
+277;Utrecht (PV);Haven;2020;8
+278;Utrecht (PV);Haven;2021;8
+279;Utrecht (PV);Haven;2022;8
+280;Utrecht (PV);Haven;2023;8
+281;Utrecht (PV);Haven;2024;8
+282;Utrecht (PV);Toeloop naar haven;2019;1
+283;Utrecht (PV);Toeloop naar haven;2020;1
+284;Utrecht (PV);Toeloop naar haven;2021;1
+285;Utrecht (PV);Toeloop naar haven;2022;1
+286;Utrecht (PV);Toeloop naar haven;2023;1
+287;Utrecht (PV);Toeloop naar haven;2024;1
+288;Noord-Holland (PV);Totale vaarweglengte;2019;867
+289;Noord-Holland (PV);Totale vaarweglengte;2020;868
+290;Noord-Holland (PV);Totale vaarweglengte;2021;965
+291;Noord-Holland (PV);Totale vaarweglengte;2022;968
+292;Noord-Holland (PV);Totale vaarweglengte;2023;981
+293;Noord-Holland (PV);Totale vaarweglengte;2024;956
+294;Noord-Holland (PV);Vaarweg;2019;783
+295;Noord-Holland (PV);Vaarweg;2020;783
+296;Noord-Holland (PV);Vaarweg;2021;880
+297;Noord-Holland (PV);Vaarweg;2022;880
+298;Noord-Holland (PV);Vaarweg;2023;893
+299;Noord-Holland (PV);Vaarweg;2024;866
+300;Noord-Holland (PV);Haven;2019;68
+301;Noord-Holland (PV);Haven;2020;69
+302;Noord-Holland (PV);Haven;2021;69
+303;Noord-Holland (PV);Haven;2022;75
+304;Noord-Holland (PV);Haven;2023;75
+305;Noord-Holland (PV);Haven;2024;74
+306;Noord-Holland (PV);Toeloop naar haven;2019;16
+307;Noord-Holland (PV);Toeloop naar haven;2020;16
+308;Noord-Holland (PV);Toeloop naar haven;2021;16
+309;Noord-Holland (PV);Toeloop naar haven;2022;13
+310;Noord-Holland (PV);Toeloop naar haven;2023;13
+311;Noord-Holland (PV);Toeloop naar haven;2024;16
+312;Zuid-Holland (PV);Totale vaarweglengte;2019;956
+313;Zuid-Holland (PV);Totale vaarweglengte;2020;957
+314;Zuid-Holland (PV);Totale vaarweglengte;2021;993
+315;Zuid-Holland (PV);Totale vaarweglengte;2022;994
+316;Zuid-Holland (PV);Totale vaarweglengte;2023;994
+317;Zuid-Holland (PV);Totale vaarweglengte;2024;997
+318;Zuid-Holland (PV);Vaarweg;2019;794
+319;Zuid-Holland (PV);Vaarweg;2020;795
+320;Zuid-Holland (PV);Vaarweg;2021;829
+321;Zuid-Holland (PV);Vaarweg;2022;829
+322;Zuid-Holland (PV);Vaarweg;2023;829
+323;Zuid-Holland (PV);Vaarweg;2024;832
+324;Zuid-Holland (PV);Haven;2019;149
+325;Zuid-Holland (PV);Haven;2020;149
+326;Zuid-Holland (PV);Haven;2021;150
+327;Zuid-Holland (PV);Haven;2022;151
+328;Zuid-Holland (PV);Haven;2023;151
+329;Zuid-Holland (PV);Haven;2024;151
+330;Zuid-Holland (PV);Toeloop naar haven;2019;13
+331;Zuid-Holland (PV);Toeloop naar haven;2020;13
+332;Zuid-Holland (PV);Toeloop naar haven;2021;13
+333;Zuid-Holland (PV);Toeloop naar haven;2022;14
+334;Zuid-Holland (PV);Toeloop naar haven;2023;14
+335;Zuid-Holland (PV);Toeloop naar haven;2024;14
+336;Zeeland (PV);Totale vaarweglengte;2019;572
+337;Zeeland (PV);Totale vaarweglengte;2020;572
+338;Zeeland (PV);Totale vaarweglengte;2021;591
+339;Zeeland (PV);Totale vaarweglengte;2022;588
+340;Zeeland (PV);Totale vaarweglengte;2023;587
+341;Zeeland (PV);Totale vaarweglengte;2024;588
+342;Zeeland (PV);Vaarweg;2019;503
+343;Zeeland (PV);Vaarweg;2020;503
+344;Zeeland (PV);Vaarweg;2021;530
+345;Zeeland (PV);Vaarweg;2022;527
+346;Zeeland (PV);Vaarweg;2023;526
+347;Zeeland (PV);Vaarweg;2024;526
+348;Zeeland (PV);Haven;2019;60
+349;Zeeland (PV);Haven;2020;60
+350;Zeeland (PV);Haven;2021;52
+351;Zeeland (PV);Haven;2022;52
+352;Zeeland (PV);Haven;2023;52
+353;Zeeland (PV);Haven;2024;52
+354;Zeeland (PV);Toeloop naar haven;2019;9
+355;Zeeland (PV);Toeloop naar haven;2020;9
+356;Zeeland (PV);Toeloop naar haven;2021;9
+357;Zeeland (PV);Toeloop naar haven;2022;9
+358;Zeeland (PV);Toeloop naar haven;2023;9
+359;Zeeland (PV);Toeloop naar haven;2024;9
+360;Noord-Brabant (PV);Totale vaarweglengte;2019;573
+361;Noord-Brabant (PV);Totale vaarweglengte;2020;573
+362;Noord-Brabant (PV);Totale vaarweglengte;2021;581
+363;Noord-Brabant (PV);Totale vaarweglengte;2022;581
+364;Noord-Brabant (PV);Totale vaarweglengte;2023;580
+365;Noord-Brabant (PV);Totale vaarweglengte;2024;580
+366;Noord-Brabant (PV);Vaarweg;2019;510
+367;Noord-Brabant (PV);Vaarweg;2020;510
+368;Noord-Brabant (PV);Vaarweg;2021;518
+369;Noord-Brabant (PV);Vaarweg;2022;518
+370;Noord-Brabant (PV);Vaarweg;2023;516
+371;Noord-Brabant (PV);Vaarweg;2024;516
+372;Noord-Brabant (PV);Haven;2019;60
+373;Noord-Brabant (PV);Haven;2020;60
+374;Noord-Brabant (PV);Haven;2021;60
+375;Noord-Brabant (PV);Haven;2022;60
+376;Noord-Brabant (PV);Haven;2023;60
+377;Noord-Brabant (PV);Haven;2024;60
+378;Noord-Brabant (PV);Toeloop naar haven;2019;3
+379;Noord-Brabant (PV);Toeloop naar haven;2020;3
+380;Noord-Brabant (PV);Toeloop naar haven;2021;3
+381;Noord-Brabant (PV);Toeloop naar haven;2022;3
+382;Noord-Brabant (PV);Toeloop naar haven;2023;3
+383;Noord-Brabant (PV);Toeloop naar haven;2024;3
+384;Limburg (PV);Totale vaarweglengte;2019;273
+385;Limburg (PV);Totale vaarweglengte;2020;273
+386;Limburg (PV);Totale vaarweglengte;2021;275
+387;Limburg (PV);Totale vaarweglengte;2022;275
+388;Limburg (PV);Totale vaarweglengte;2023;275
+389;Limburg (PV);Totale vaarweglengte;2024;275
+390;Limburg (PV);Vaarweg;2019;256
+391;Limburg (PV);Vaarweg;2020;256
+392;Limburg (PV);Vaarweg;2021;257
+393;Limburg (PV);Vaarweg;2022;257
+394;Limburg (PV);Vaarweg;2023;257
+395;Limburg (PV);Vaarweg;2024;257
+396;Limburg (PV);Haven;2019;16
+397;Limburg (PV);Haven;2020;16
+398;Limburg (PV);Haven;2021;16
+399;Limburg (PV);Haven;2022;16
+400;Limburg (PV);Haven;2023;17
+401;Limburg (PV);Haven;2024;17
+402;Limburg (PV);Toeloop naar haven;2019;1
+403;Limburg (PV);Toeloop naar haven;2020;1
+404;Limburg (PV);Toeloop naar haven;2021;1
+405;Limburg (PV);Toeloop naar haven;2022;1
+406;Limburg (PV);Toeloop naar haven;2023;1
+407;Limburg (PV);Toeloop naar haven;2024;1

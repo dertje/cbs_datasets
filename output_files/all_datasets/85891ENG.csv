@@ -1,0 +1,900 @@
+﻿ID;EconomicActivitiesBranchesSIC2008;Periods;LabourIncomeShare_1;CompensationOfEmployees_2;ImputedLabourIncome_3;NetOperatingSurplus_4;RemunerationOfLabour_5;RemunerationOfLabourAndCapital_6
+0;A-U All economic activities;1995;77.8;165560;25864;80505;191424;246065
+1;A-U All economic activities;1996;77.2;171981;26763;85314;198744;257295
+2;A-U All economic activities;1997;76.1;181634;29125;95454;210759;277088
+3;A-U All economic activities;1998;75.7;194666;30223;102605;224889;297271
+4;A-U All economic activities;1999;76.7;209646;31666;104941;241312;314587
+5;A-U All economic activities;2000;76.9;226797;33419;111564;260216;338361
+6;A-U All economic activities;2001;77.0;239194;35943;118329;275137;357523
+7;A-U All economic activities;2002;77.3;251188;35640;119969;286828;371157
+8;A-U All economic activities;2003;77.6;257981;35353;120203;293334;378184
+9;A-U All economic activities;2004;76.1;261726;34821;127905;296547;389631
+10;A-U All economic activities;2005;74.6;265911;35699;138562;301610;404473
+11;A-U All economic activities;2006;72.7;274752;38297;155903;313049;430655
+12;A-U All economic activities;2007;72.0;290622;40289;168837;330911;459459
+13;A-U All economic activities;2008;72.7;307808;40841;172085;348649;479893
+14;A-U All economic activities;2009;76.4;312320;39875;148679;352195;460999
+15;A-U All economic activities;2010;75.2;311900;41416;157833;353316;469733
+16;A-U All economic activities;2011;75.3;319887;42878;162065;362765;481952
+17;A-U All economic activities;2012;75.9;324274;43181;159549;367455;483823
+18;A-U All economic activities;2013;75.9;325151;43542;160490;368693;485641
+19;A-U All economic activities;2014;76.0;328743;45883;164057;374626;492800
+20;A-U All economic activities;2015;74.3;330994;48544;180086;379538;511080
+21;A-U All economic activities;2016;75.4;342642;53038;182456;395680;525098
+22;A-U All economic activities;2017;74.6;354478;56094;195534;410572;550012
+23;A-U All economic activities;2018;75.1;372900;59804;203190;432704;576090
+24;A-U All economic activities;2019;75.2;393062;62852;213358;455914;606420
+25;A-U All economic activities;2020;76.7;406330;61033;203313;467363;609643
+26;A-U All economic activities;2021;74.0;423799;68092;241326;491891;665125
+27;A-U All economic activities;2022;71.3;454769;71717;283933;526486;738702
+28;A-U All economic activities;2023;71.1;489593;77687;307745;567280;797338
+29;A Agriculture, forestry and fishing;1995;93.7;1816;5808;6320;7624;8136
+30;A Agriculture, forestry and fishing;1996;94.1;1881;5623;6092;7504;7973
+31;A Agriculture, forestry and fishing;1997;93.4;1937;6350;6940;8287;8877
+32;A Agriculture, forestry and fishing;1998;93.6;2015;5472;5981;7487;7996
+33;A Agriculture, forestry and fishing;1999;94.5;2154;5249;5680;7403;7834
+34;A Agriculture, forestry and fishing;2000;95.1;2281;5444;5841;7725;8122
+35;A Agriculture, forestry and fishing;2001;95.7;2396;5617;5981;8013;8377
+36;A Agriculture, forestry and fishing;2002;95.7;2551;4916;5249;7467;7800
+37;A Agriculture, forestry and fishing;2003;94.0;2572;5039;5523;7611;8095
+38;A Agriculture, forestry and fishing;2004;94.6;2523;4426;4825;6949;7348
+39;A Agriculture, forestry and fishing;2005;93.0;2495;4573;5105;7068;7600
+40;A Agriculture, forestry and fishing;2006;91.1;2539;5644;6448;8183;8987
+41;A Agriculture, forestry and fishing;2007;90.3;2669;5430;6301;8099;8970
+42;A Agriculture, forestry and fishing;2008;91.2;2745;4797;5522;7542;8267
+43;A Agriculture, forestry and fishing;2009;93.0;2768;3918;4418;6686;7186
+44;A Agriculture, forestry and fishing;2010;88.8;2822;4937;5917;7759;8739
+45;A Agriculture, forestry and fishing;2011;92.5;2896;4312;4893;7208;7789
+46;A Agriculture, forestry and fishing;2012;92.0;2967;4697;5366;7664;8333
+47;A Agriculture, forestry and fishing;2013;92.3;3017;5617;6334;8634;9351
+48;A Agriculture, forestry and fishing;2014;90.3;3025;5187;6073;8212;9098
+49;A Agriculture, forestry and fishing;2015;98.7;3009;6241;6360;9250;9369
+50;A Agriculture, forestry and fishing;2016;97.4;3102;6529;6790;9631;9892
+51;A Agriculture, forestry and fishing;2017;94.4;3241;7307;7927;10548;11168
+52;A Agriculture, forestry and fishing;2018;99.2;3455;6643;6720;10098;10175
+53;A Agriculture, forestry and fishing;2019;99.5;3659;7010;7064;10669;10723
+54;A Agriculture, forestry and fishing;2020;91.9;3809;5979;6847;9788;10656
+55;A Agriculture, forestry and fishing;2021;81.4;3937;5206;7290;9143;11227
+56;A Agriculture, forestry and fishing;2022;70.7;4120;4268;7741;8388;11861
+57;A Agriculture, forestry and fishing;2023;72.0;4386;5365;9162;9751;13548
+58;B Mining and quarrying;1995;12.1;760;5;5565;765;6325
+59;B Mining and quarrying;1996;10.3;786;6;6875;792;7661
+60;B Mining and quarrying;1997;10.6;771;7;6547;778;7318
+61;B Mining and quarrying;1998;12.2;788;7;5716;795;6504
+62;B Mining and quarrying;1999;13.9;751;8;4691;759;5442
+63;B Mining and quarrying;2000;10.4;833;8;7271;841;8104
+64;B Mining and quarrying;2001;7.8;805;9;9598;814;10403
+65;B Mining and quarrying;2002;9.7;896;10;8490;906;9386
+66;B Mining and quarrying;2003;9.3;905;11;8927;916;9832
+67;B Mining and quarrying;2004;9.0;937;8;9519;945;10456
+68;B Mining and quarrying;2005;6.7;770;7;10804;777;11574
+69;B Mining and quarrying;2006;5.1;762;7;14185;769;14947
+70;B Mining and quarrying;2007;5.6;799;6;13508;805;14307
+71;B Mining and quarrying;2008;4.2;850;7;19646;857;20496
+72;B Mining and quarrying;2009;6.0;858;7;13584;865;14442
+73;B Mining and quarrying;2010;5.7;905;6;14991;911;15896
+74;B Mining and quarrying;2011;5.9;1007;7;16275;1014;17282
+75;B Mining and quarrying;2012;5.5;1072;8;18738;1080;19810
+76;B Mining and quarrying;2013;5.6;1158;9;19507;1167;20665
+77;B Mining and quarrying;2014;8.7;1284;15;13727;1299;15011
+78;B Mining and quarrying;2015;12.5;1327;11;9343;1338;10670
+79;B Mining and quarrying;2016;21.2;1260;10;4718;1270;5978
+80;B Mining and quarrying;2017;17.9;977;11;4551;988;5528
+81;B Mining and quarrying;2018;18.7;977;9;4293;986;5270
+82;B Mining and quarrying;2019;25.8;935;11;2726;946;3661
+83;B Mining and quarrying;2020;105.8;999;15;-41;1014;958
+84;B Mining and quarrying;2021;22.2;907;18;3253;925;4160
+85;B Mining and quarrying;2022;5.3;974;19;17640;993;18614
+86;B Mining and quarrying;2023;12.1;1060;21;7881;1081;8941
+87;B-E Industry (no construction), energy;1995;61.3;28799;1390;20486;30189;49285
+88;B-E Industry (no construction), energy;1996;59.7;28979;1484;22011;30463;50990
+89;B-E Industry (no construction), energy;1997;59.5;29583;1575;22811;31158;52394
+90;B-E Industry (no construction), energy;1998;58.9;30749;1684;24352;32433;55101
+91;B-E Industry (no construction), energy;1999;61.5;32079;1759;22909;33838;54988
+92;B-E Industry (no construction), energy;2000;60.0;34049;1866;25820;35915;59869
+93;B-E Industry (no construction), energy;2001;57.2;34810;2075;29724;36885;64534
+94;B-E Industry (no construction), energy;2002;60.1;35895;2030;27185;37925;63080
+95;B-E Industry (no construction), energy;2003;60.5;35784;2097;26859;37881;62643
+96;B-E Industry (no construction), energy;2004;58.1;35767;2051;29332;37818;65099
+97;B-E Industry (no construction), energy;2005;53.9;35315;2142;34163;37457;69478
+98;B-E Industry (no construction), energy;2006;50.4;35738;2253;39599;37991;75337
+99;B-E Industry (no construction), energy;2007;50.0;37174;2484;42082;39658;79256
+100;B-E Industry (no construction), energy;2008;49.9;39426;2656;44945;42082;84371
+101;B-E Industry (no construction), energy;2009;59.0;39995;2574;32139;42569;72134
+102;B-E Industry (no construction), energy;2010;55.5;38085;2577;35213;40662;73298
+103;B-E Industry (no construction), energy;2011;53.5;39141;2525;38806;41666;77947
+104;B-E Industry (no construction), energy;2012;52.8;39734;2691;40667;42425;80401
+105;B-E Industry (no construction), energy;2013;54.4;40240;2739;38747;42979;78987
+106;B-E Industry (no construction), energy;2014;60.4;41534;3100;32401;44634;73935
+107;B-E Industry (no construction), energy;2015;59.7;41442;3466;33734;44908;75176
+108;B-E Industry (no construction), energy;2016;63.5;42919;3617;30397;46536;73316
+109;B-E Industry (no construction), energy;2017;61.6;43987;3736;33539;47723;77526
+110;B-E Industry (no construction), energy;2018;61.4;46117;4156;35722;50273;81839
+111;B-E Industry (no construction), energy;2019;63.8;48467;4327;34319;52794;82786
+112;B-E Industry (no construction), energy;2020;67.4;50132;4701;31236;54833;81368
+113;B-E Industry (no construction), energy;2021;59.7;51527;4088;41648;55615;93175
+114;B-E Industry (no construction), energy;2022;50.3;54428;5374;64349;59802;118777
+115;B-E Industry (no construction), energy;2023;52.5;59027;5713;64220;64740;123247
+116;C Manufacturing;1995;69.3;25864;1290;13339;27154;39203
+117;C Manufacturing;1996;70.0;26038;1378;13150;27416;39188
+118;C Manufacturing;1997;68.3;26573;1455;14449;28028;41022
+119;C Manufacturing;1998;66.0;27580;1556;16576;29136;44156
+120;C Manufacturing;1999;67.5;28768;1611;16248;30379;45016
+121;C Manufacturing;2000;67.9;30558;1701;16970;32259;47528
+122;C Manufacturing;2001;66.2;31225;1901;18780;33126;50005
+123;C Manufacturing;2002;69.0;32031;1837;17062;33868;49093
+124;C Manufacturing;2003;70.3;31797;1889;16128;33686;47925
+125;C Manufacturing;2004;67.0;31773;1846;18394;33619;50167
+126;C Manufacturing;2005;63.4;31448;1942;21235;33390;52683
+127;C Manufacturing;2006;62.4;31892;2027;22508;33919;54400
+128;C Manufacturing;2007;60.4;33147;2238;25484;35385;58631
+129;C Manufacturing;2008;64.8;35154;2390;22776;37544;57930
+130;C Manufacturing;2009;76.1;35559;2280;14178;37839;49737
+131;C Manufacturing;2010;71.4;33462;2300;16637;35762;50099
+132;C Manufacturing;2011;68.8;34412;2250;18913;36662;53325
+133;C Manufacturing;2012;70.4;34912;2424;18105;37336;53017
+134;C Manufacturing;2013;73.7;35170;2460;15854;37630;51024
+135;C Manufacturing;2014;75.0;36363;2783;15812;39146;52175
+136;C Manufacturing;2015;68.4;36311;2998;21193;39309;57504
+137;C Manufacturing;2016;67.6;37808;3155;22771;40963;60579
+138;C Manufacturing;2017;64.4;39038;3221;26618;42259;65656
+139;C Manufacturing;2018;63.5;40951;3458;28975;44409;69926
+140;C Manufacturing;2019;64.7;43136;3437;28855;46573;71991
+141;C Manufacturing;2020;66.6;44613;3546;27699;48159;72312
+142;C Manufacturing;2021;60.8;45860;3775;35813;49635;81673
+143;C Manufacturing;2022;60.3;48295;4010;38479;52305;86774
+144;C Manufacturing;2023;57.4;52149;4363;46293;56512;98442
+145;D Energy supply;1995;54.6;1466;18;1254;1484;2720
+146;D Energy supply;1996;47.4;1405;17;1597;1422;3002
+147;D Energy supply;1997;51.3;1414;17;1376;1431;2790
+148;D Energy supply;1998;46.3;1452;19;1728;1471;3180
+149;D Energy supply;1999;49.6;1475;18;1537;1493;3012
+150;D Energy supply;2000;59.5;1501;16;1047;1517;2548
+151;D Energy supply;2001;65.4;1474;9;795;1483;2269
+152;D Energy supply;2002;59.6;1559;14;1079;1573;2638
+153;D Energy supply;2003;57.5;1572;17;1191;1589;2763
+154;D Energy supply;2004;66.5;1565;17;814;1582;2379
+155;D Energy supply;2005;51.9;1612;18;1527;1630;3139
+156;D Energy supply;2006;43.3;1603;28;2163;1631;3766
+157;D Energy supply;2007;43.7;1699;34;2270;1733;3969
+158;D Energy supply;2008;54.7;1818;24;1547;1842;3365
+159;D Energy supply;2009;35.3;1892;61;3637;1953;5529
+160;D Energy supply;2010;41.3;1981;49;2935;2030;4916
+161;D Energy supply;2011;40.9;1917;45;2879;1962;4796
+162;D Energy supply;2012;39.9;1946;57;3069;2003;5015
+163;D Energy supply;2013;46.7;2093;66;2534;2159;4627
+164;D Energy supply;2014;54.9;2055;86;1842;2141;3897
+165;D Energy supply;2015;55.6;1998;249;2044;2247;4042
+166;D Energy supply;2016;58.4;1995;252;1853;2247;3848
+167;D Energy supply;2017;69.4;2046;300;1332;2346;3378
+168;D Energy supply;2018;71.9;2129;497;1523;2626;3652
+169;D Energy supply;2019;69.0;2238;705;2026;2943;4264
+170;D Energy supply;2020;63.9;2306;983;2843;3289;5149
+171;D Energy supply;2021;67.3;2441;267;1583;2708;4024
+172;D Energy supply;2022;41.4;2675;1314;6967;3989;9642
+173;D Energy supply;2023;37.5;3168;1299;8746;4467;11914
+174;E Water supply and waste management;1995;75.8;709;77;328;786;1037
+175;E Water supply and waste management;1996;73.1;750;83;389;833;1139
+176;E Water supply and waste management;1997;72.9;825;96;439;921;1264
+177;E Water supply and waste management;1998;81.8;929;102;332;1031;1261
+178;E Water supply and waste management;1999;79.5;1085;122;433;1207;1518
+179;E Water supply and waste management;2000;76.9;1157;141;532;1298;1689
+180;E Water supply and waste management;2001;78.7;1306;156;551;1462;1857
+181;E Water supply and waste management;2002;80.4;1409;169;554;1578;1963
+182;E Water supply and waste management;2003;79.6;1510;180;613;1690;2123
+183;E Water supply and waste management;2004;79.7;1492;180;605;1672;2097
+184;E Water supply and waste management;2005;79.7;1485;175;597;1660;2082
+185;E Water supply and waste management;2006;75.2;1481;191;743;1672;2224
+186;E Water supply and waste management;2007;73.9;1529;206;820;1735;2349
+187;E Water supply and waste management;2008;71.3;1604;235;976;1839;2580
+188;E Water supply and waste management;2009;78.8;1686;226;740;1912;2426
+189;E Water supply and waste management;2010;82.1;1737;222;650;1959;2387
+190;E Water supply and waste management;2011;79.7;1805;223;739;2028;2544
+191;E Water supply and waste management;2012;78.4;1804;202;755;2006;2559
+192;E Water supply and waste management;2013;75.7;1819;204;852;2023;2671
+193;E Water supply and waste management;2014;71.8;1832;216;1020;2048;2852
+194;E Water supply and waste management;2015;68.0;1806;208;1154;2014;2960
+195;E Water supply and waste management;2016;70.6;1856;200;1055;2056;2911
+196;E Water supply and waste management;2017;71.9;1926;204;1038;2130;2964
+197;E Water supply and waste management;2018;75.3;2060;192;931;2252;2991
+198;E Water supply and waste management;2019;81.3;2158;174;712;2332;2870
+199;E Water supply and waste management;2020;80.4;2214;157;735;2371;2949
+200;E Water supply and waste management;2021;70.7;2319;28;999;2347;3318
+201;E Water supply and waste management;2022;67.1;2484;31;1263;2515;3747
+202;E Water supply and waste management;2023;67.8;2650;30;1300;2680;3950
+203;F Construction;1995;98.8;11909;2212;2378;14121;14287
+204;F Construction;1996;99.1;12232;2310;2438;14542;14670
+205;F Construction;1997;99.0;12672;2428;2585;15100;15257
+206;F Construction;1998;98.9;13569;2613;2798;16182;16367
+207;F Construction;1999;95.5;14691;2903;3737;17594;18428
+208;F Construction;2000;96.1;15938;3228;4006;19166;19944
+209;F Construction;2001;93.0;16724;3574;5113;20298;21837
+210;F Construction;2002;92.0;17254;3853;5698;21107;22952
+211;F Construction;2003;91.7;17067;3992;5906;21059;22973
+212;F Construction;2004;90.9;17030;4118;6238;21148;23268
+213;F Construction;2005;87.6;17037;4465;7499;21502;24536
+214;F Construction;2006;84.6;17351;4897;8933;22248;26284
+215;F Construction;2007;81.7;18068;5395;10643;23463;28711
+216;F Construction;2008;80.5;18996;5868;11903;24864;30899
+217;F Construction;2009;80.2;18875;6061;12230;24936;31105
+218;F Construction;2010;87.1;18577;5514;9096;24091;27673
+219;F Construction;2011;90.1;18631;5986;8695;24617;27326
+220;F Construction;2012;96.8;18485;5507;6303;23992;24788
+221;F Construction;2013;97.1;17065;5425;6101;22490;23166
+222;F Construction;2014;95.7;16475;5881;6893;22356;23368
+223;F Construction;2015;93.2;16044;5989;7597;22033;23641
+224;F Construction;2016;89.3;16367;6546;9297;22913;25664
+225;F Construction;2017;87.8;16973;7111;10456;24084;27429
+226;F Construction;2018;87.3;18008;8173;11977;26181;29985
+227;F Construction;2019;83.8;19052;9010;14428;28062;33480
+228;F Construction;2020;80.1;19923;9493;16808;29416;36731
+229;F Construction;2021;80.0;20757;10161;17885;30918;38642
+230;F Construction;2022;80.7;21716;11175;19052;32891;40768
+231;F Construction;2023;78.0;23136;11980;21896;35116;45032
+232;G-I Trade, transport, hotels, catering;1995;81.8;34762;5947;15018;40709;49780
+233;G-I Trade, transport, hotels, catering;1996;82.0;36034;6298;15568;42332;51602
+234;G-I Trade, transport, hotels, catering;1997;77.3;37652;6978;20106;44630;57758
+235;G-I Trade, transport, hotels, catering;1998;74.9;40139;8002;24133;48141;64272
+236;G-I Trade, transport, hotels, catering;1999;76.5;43426;8577;24577;52003;68003
+237;G-I Trade, transport, hotels, catering;2000;75.8;46684;9201;27048;55885;73732
+238;G-I Trade, transport, hotels, catering;2001;74.7;48726;9879;29704;58605;78430
+239;G-I Trade, transport, hotels, catering;2002;73.9;50466;10127;31511;60593;81977
+240;G-I Trade, transport, hotels, catering;2003;76.6;51966;9594;28419;61560;80385
+241;G-I Trade, transport, hotels, catering;2004;74.5;52547;9416;30578;61963;83125
+242;G-I Trade, transport, hotels, catering;2005;72.7;52673;9475;32827;62148;85500
+243;G-I Trade, transport, hotels, catering;2006;71.5;53886;9901;35375;63787;89261
+244;G-I Trade, transport, hotels, catering;2007;70.6;56899;10485;38555;67384;95454
+245;G-I Trade, transport, hotels, catering;2008;71.7;59892;10112;37779;70004;97671
+246;G-I Trade, transport, hotels, catering;2009;75.8;60225;9308;31511;69533;91736
+247;G-I Trade, transport, hotels, catering;2010;74.6;60534;9430;33238;69964;93772
+248;G-I Trade, transport, hotels, catering;2011;75.0;62680;9836;33975;72516;96655
+249;G-I Trade, transport, hotels, catering;2012;74.8;63951;9488;34281;73439;98232
+250;G-I Trade, transport, hotels, catering;2013;71.8;64068;9171;37917;73239;101985
+251;G-I Trade, transport, hotels, catering;2014;70.6;64477;9702;40532;74179;105009
+252;G-I Trade, transport, hotels, catering;2015;68.8;65784;10815;45605;76599;111389
+253;G-I Trade, transport, hotels, catering;2016;68.8;68318;11444;47551;79762;115869
+254;G-I Trade, transport, hotels, catering;2017;67.7;70757;11660;50903;82417;121660
+255;G-I Trade, transport, hotels, catering;2018;68.6;74947;12497;52470;87444;127417
+256;G-I Trade, transport, hotels, catering;2019;67.5;78970;12766;57030;91736;136000
+257;G-I Trade, transport, hotels, catering;2020;69.0;79847;11695;52821;91542;132668
+258;G-I Trade, transport, hotels, catering;2021;64.7;82699;16434;70536;99133;153235
+259;G-I Trade, transport, hotels, catering;2022;64.7;89652;16296;74117;105948;163769
+260;G-I Trade, transport, hotels, catering;2023;67.5;96654;16800;71408;113454;168062
+261;G Wholesale and retail trade;1995;77.6;21736;3658;10979;25394;32715
+262;G Wholesale and retail trade;1996;77.0;22535;3848;11732;26383;34267
+263;G Wholesale and retail trade;1997;72.5;23504;4142;14632;27646;38136
+264;G Wholesale and retail trade;1998;70.1;24979;4765;17454;29744;42433
+265;G Wholesale and retail trade;1999;71.0;27145;5090;18242;32235;45387
+266;G Wholesale and retail trade;2000;69.8;29240;5544;20600;34784;49840
+267;G Wholesale and retail trade;2001;68.5;30562;5951;22732;36513;53294
+268;G Wholesale and retail trade;2002;67.4;31725;6076;24381;37801;56106
+269;G Wholesale and retail trade;2003;70.8;32878;5691;21624;38569;54502
+270;G Wholesale and retail trade;2004;68.9;33268;5525;22996;38793;56264
+271;G Wholesale and retail trade;2005;67.7;33417;5492;24098;38909;57515
+272;G Wholesale and retail trade;2006;67.3;34445;5752;25298;40197;59743
+273;G Wholesale and retail trade;2007;66.4;36405;6041;27530;42446;63935
+274;G Wholesale and retail trade;2008;67.2;38522;5759;27417;44281;65939
+275;G Wholesale and retail trade;2009;70.2;38793;5188;23851;43981;62644
+276;G Wholesale and retail trade;2010;69.4;39069;5536;25158;44605;64227
+277;G Wholesale and retail trade;2011;69.3;40457;5714;26167;46171;66624
+278;G Wholesale and retail trade;2012;69.3;41498;5424;26228;46922;67726
+279;G Wholesale and retail trade;2013;65.7;41368;5124;29388;46492;70756
+280;G Wholesale and retail trade;2014;65.6;41653;5367;30057;47020;71710
+281;G Wholesale and retail trade;2015;64.2;42405;5909;32853;48314;75258
+282;G Wholesale and retail trade;2016;63.9;43798;6311;34590;50109;78388
+283;G Wholesale and retail trade;2017;63.1;45431;6444;36810;51875;82241
+284;G Wholesale and retail trade;2018;63.2;47807;6880;38740;54687;86547
+285;G Wholesale and retail trade;2019;61.7;50195;7292;43015;57487;93210
+286;G Wholesale and retail trade;2020;61.9;51581;7864;44484;59445;96065
+287;G Wholesale and retail trade;2021;58.2;53874;10296;56359;64170;110233
+288;G Wholesale and retail trade;2022;60.4;57725;9688;53920;67413;111645
+289;G Wholesale and retail trade;2023;61.7;61575;9669;53954;71244;115529
+290;H Transportation and storage;1995;86.8;10004;812;2454;10816;12458
+291;H Transportation and storage;1996;89.9;10366;874;2132;11240;12498
+292;H Transportation and storage;1997;83.4;10799;1032;3390;11831;14189
+293;H Transportation and storage;1998;81.1;11609;1182;4158;12791;15767
+294;H Transportation and storage;1999;85.6;12399;1217;3511;13616;15910
+295;H Transportation and storage;2000;86.6;13143;1202;3426;14345;16569
+296;H Transportation and storage;2001;86.4;13700;1310;3681;15010;17381
+297;H Transportation and storage;2002;87.6;14223;1198;3376;15421;17599
+298;H Transportation and storage;2003;87.9;14603;1206;3387;15809;17990
+299;H Transportation and storage;2004;84.2;14790;1218;4211;16008;19001
+300;H Transportation and storage;2005;79.8;14707;1244;5286;15951;19993
+301;H Transportation and storage;2006;75.4;14747;1322;6559;16069;21306
+302;H Transportation and storage;2007;74.8;15600;1396;7122;16996;22722
+303;H Transportation and storage;2008;76.5;16280;1407;6831;17687;23111
+304;H Transportation and storage;2009;85.1;16312;1278;4355;17590;20667
+305;H Transportation and storage;2010;81.6;16190;1200;5117;17390;21307
+306;H Transportation and storage;2011;84.8;16719;1341;4580;18060;21299
+307;H Transportation and storage;2012;83.8;16818;1313;4814;18131;21632
+308;H Transportation and storage;2013;82.8;16946;1355;5150;18301;22096
+309;H Transportation and storage;2014;77.8;16780;1451;6647;18231;23427
+310;H Transportation and storage;2015;74.1;17059;1673;8220;18732;25279
+311;H Transportation and storage;2016;76.0;17752;1700;7841;19452;25593
+312;H Transportation and storage;2017;74.5;18133;1734;8530;19867;26663
+313;H Transportation and storage;2018;78.3;19336;1839;7698;21175;27034
+314;H Transportation and storage;2019;78.2;20422;1794;8005;22216;28427
+315;H Transportation and storage;2020;83.3;20423;1533;5923;21956;26346
+316;H Transportation and storage;2021;76.6;21090;1881;8910;22971;30000
+317;H Transportation and storage;2022;67.7;22625;2248;14131;24873;36756
+318;H Transportation and storage;2023;76.6;24617;2093;10269;26710;34886
+319;I Accommodation and food serving;1995;97.7;3022;1477;1585;4499;4607
+320;I Accommodation and food serving;1996;97.4;3133;1576;1704;4709;4837
+321;I Accommodation and food serving;1997;94.8;3349;1804;2084;5153;5433
+322;I Accommodation and food serving;1998;92.3;3551;2055;2521;5606;6072
+323;I Accommodation and food serving;1999;91.7;3882;2270;2824;6152;6706
+324;I Accommodation and food serving;2000;92.3;4301;2455;3022;6756;7323
+325;I Accommodation and food serving;2001;91.3;4464;2618;3291;7082;7755
+326;I Accommodation and food serving;2002;89.1;4518;2853;3754;7371;8272
+327;I Accommodation and food serving;2003;91.0;4485;2697;3408;7182;7893
+328;I Accommodation and food serving;2004;91.1;4489;2673;3371;7162;7860
+329;I Accommodation and food serving;2005;91.2;4549;2739;3443;7288;7992
+330;I Accommodation and food serving;2006;91.6;4694;2827;3518;7521;8212
+331;I Accommodation and food serving;2007;90.3;4894;3048;3903;7942;8797
+332;I Accommodation and food serving;2008;93.2;5090;2946;3531;8036;8621
+333;I Accommodation and food serving;2009;94.5;5120;2842;3305;7962;8425
+334;I Accommodation and food serving;2010;96.7;5275;2694;2963;7969;8238
+335;I Accommodation and food serving;2011;94.9;5504;2781;3228;8285;8732
+336;I Accommodation and food serving;2012;94.5;5635;2751;3239;8386;8874
+337;I Accommodation and food serving;2013;92.5;5754;2692;3379;8446;9133
+338;I Accommodation and food serving;2014;90.4;6044;2884;3828;8928;9872
+339;I Accommodation and food serving;2015;88.0;6320;3233;4532;9553;10852
+340;I Accommodation and food serving;2016;85.8;6768;3433;5120;10201;11888
+341;I Accommodation and food serving;2017;83.7;7193;3482;5563;10675;12756
+342;I Accommodation and food serving;2018;83.7;7804;3778;6032;11582;13836
+343;I Accommodation and food serving;2019;83.8;8353;3680;6010;12033;14363
+344;I Accommodation and food serving;2020;98.9;7843;2298;2414;10141;10257
+345;I Accommodation and food serving;2021;92.2;7735;4257;5267;11992;13002
+346;I Accommodation and food serving;2022;88.9;9302;4360;6066;13662;15368
+347;I Accommodation and food serving;2023;87.8;10462;5038;7185;15500;17647
+348;J Information and communication;1995;69.8;5054;264;2565;5318;7619
+349;J Information and communication;1996;70.4;5659;338;2865;5997;8524
+350;J Information and communication;1997;68.3;6529;442;3680;6971;10209
+351;J Information and communication;1998;69.5;7821;527;4196;8348;12017
+352;J Information and communication;1999;72.8;9176;609;4269;9785;13445
+353;J Information and communication;2000;76.7;10641;673;4112;11314;14753
+354;J Information and communication;2001;74.0;11351;782;5056;12133;16407
+355;J Information and communication;2002;67.4;11112;743;6482;11855;17594
+356;J Information and communication;2003;63.1;11080;734;7651;11814;18731
+357;J Information and communication;2004;61.9;11033;761;8012;11794;19045
+358;J Information and communication;2005;62.6;11587;815;8236;12402;19823
+359;J Information and communication;2006;62.2;12215;916;8889;13131;21104
+360;J Information and communication;2007;60.8;13192;1002;10160;14194;23352
+361;J Information and communication;2008;64.1;14193;1037;9563;15230;23756
+362;J Information and communication;2009;69.5;14590;976;7803;15566;22393
+363;J Information and communication;2010;66.3;13914;999;8569;14913;22483
+364;J Information and communication;2011;68.7;14291;1143;8170;15434;22461
+365;J Information and communication;2012;71.9;14658;1235;7433;15893;22091
+366;J Information and communication;2013;71.9;14545;1229;7391;15774;21936
+367;J Information and communication;2014;72.4;14700;1369;7506;16069;22206
+368;J Information and communication;2015;73.6;15427;1538;7618;16965;23045
+369;J Information and communication;2016;73.9;16278;1611;7921;17889;24199
+370;J Information and communication;2017;76.2;17290;1789;7732;19079;25022
+371;J Information and communication;2018;78.5;18551;1964;7581;20515;26132
+372;J Information and communication;2019;78.4;20065;2181;8325;22246;28390
+373;J Information and communication;2020;74.9;21038;2247;10038;23285;31076
+374;J Information and communication;2021;80.2;23328;2827;9292;26155;32620
+375;J Information and communication;2022;77.6;25448;3127;11379;28575;36827
+376;J Information and communication;2023;79.9;27501;3311;11066;30812;38567
+377;K Financial institutions;1995;44.3;8827;201;11535;9028;20362
+378;K Financial institutions;1996;45.3;9327;245;11805;9572;21132
+379;K Financial institutions;1997;47.3;10309;289;12074;10598;22383
+380;K Financial institutions;1998;48.4;11008;329;12401;11337;23409
+381;K Financial institutions;1999;49.7;12273;348;13120;12621;25393
+382;K Financial institutions;2000;52.3;13514;376;13058;13890;26572
+383;K Financial institutions;2001;50.1;14000;374;14668;14374;28668
+384;K Financial institutions;2002;53.0;15656;366;14597;16022;30253
+385;K Financial institutions;2003;49.5;15498;381;16569;15879;32067
+386;K Financial institutions;2004;49.5;15704;397;16817;16101;32521
+387;K Financial institutions;2005;49.5;16266;393;17373;16659;33639
+388;K Financial institutions;2006;52.3;16970;453;16321;17423;33291
+389;K Financial institutions;2007;56.5;18342;478;14949;18820;33291
+390;K Financial institutions;2008;57.8;18606;425;14341;19031;32947
+391;K Financial institutions;2009;45.8;17921;401;22046;18322;39967
+392;K Financial institutions;2010;38.6;17733;432;29350;18165;47083
+393;K Financial institutions;2011;39.0;17982;428;29228;18410;47210
+394;K Financial institutions;2012;37.2;17871;429;31326;18300;49197
+395;K Financial institutions;2013;40.8;18817;403;28316;19220;47133
+396;K Financial institutions;2014;38.9;18798;420;30584;19218;49382
+397;K Financial institutions;2015;37.6;18254;456;31516;18710;49770
+398;K Financial institutions;2016;40.5;18403;491;28269;18894;46672
+399;K Financial institutions;2017;41.4;18162;487;26914;18649;45076
+400;K Financial institutions;2018;41.4;17861;498;26437;18359;44298
+401;K Financial institutions;2019;41.3;18192;528;27107;18720;45299
+402;K Financial institutions;2020;42.5;19051;562;27113;19613;46164
+403;K Financial institutions;2021;47.8;20369;541;23397;20910;43766
+404;K Financial institutions;2022;49.1;21189;512;23016;21701;44205
+405;K Financial institutions;2023;52.9;22664;523;21141;23187;43805
+406;L Renting, buying, selling real estate;1995;32.5;1746;2297;10699;4043;12445
+407;L Renting, buying, selling real estate;1996;30.4;1846;2201;11446;4047;13292
+408;L Renting, buying, selling real estate;1997;27.6;1941;2087;12647;4028;14588
+409;L Renting, buying, selling real estate;1998;26.4;2192;1956;13500;4148;15692
+410;L Renting, buying, selling real estate;1999;25.3;2404;1732;13965;4136;16369
+411;L Renting, buying, selling real estate;2000;23.9;2671;1457;14617;4128;17288
+412;L Renting, buying, selling real estate;2001;39.9;2740;1186;7104;3926;9844
+413;L Renting, buying, selling real estate;2002;36.6;2949;865;7484;3814;10433
+414;L Renting, buying, selling real estate;2003;32.0;3205;563;8568;3768;11773
+415;L Renting, buying, selling real estate;2004;26.2;3171;284;10037;3455;13208
+416;L Renting, buying, selling real estate;2005;24.8;3223;2;9789;3225;13012
+417;L Renting, buying, selling real estate;2006;17.7;3304;-333;13507;2971;16811
+418;L Renting, buying, selling real estate;2007;13.8;3485;-659;17048;2826;20533
+419;L Renting, buying, selling real estate;2008;13.3;3715;-1039;16354;2676;20069
+420;L Renting, buying, selling real estate;2009;26.3;3744;-1320;5481;2424;9225
+421;L Renting, buying, selling real estate;2010;32.2;3641;-1505;3000;2136;6641
+422;L Renting, buying, selling real estate;2011;27.9;3673;-1416;4413;2257;8086
+423;L Renting, buying, selling real estate;2012;61.4;3654;-1300;180;2354;3834
+424;L Renting, buying, selling real estate;2013;41.9;3587;-1400;1635;2187;5222
+425;L Renting, buying, selling real estate;2014;32.1;3537;-1443;2984;2094;6521
+426;L Renting, buying, selling real estate;2015;27.6;3471;-1412;3977;2059;7448
+427;L Renting, buying, selling real estate;2016;26.7;3505;-1351;4550;2154;8055
+428;L Renting, buying, selling real estate;2017;20.3;3587;-1302;7665;2285;11252
+429;L Renting, buying, selling real estate;2018;18.4;3761;-1349;9340;2412;13101
+430;L Renting, buying, selling real estate;2019;22.0;3942;-1263;8251;2679;12193
+431;L Renting, buying, selling real estate;2020;21.0;4115;-1773;7048;2342;11163
+432;L Renting, buying, selling real estate;2021;15.4;4199;-2398;7506;1801;11705
+433;L Renting, buying, selling real estate;2022;7.2;4451;-3041;15149;1410;19600
+434;L Renting, buying, selling real estate;2023;4.5;4728;-3236;28722;1492;33450
+435;M-N Business services;1995;87.3;22236;3579;7336;25815;29572
+436;M-N Business services;1996;85.0;24500;4019;9047;28519;33547
+437;M-N Business services;1997;85.9;27371;4396;9630;31767;37001
+438;M-N Business services;1998;86.0;30148;4789;10472;34937;40620
+439;M-N Business services;1999;85.7;33137;5323;11753;38460;44890
+440;M-N Business services;2000;87.3;36876;5754;11936;42630;48812
+441;M-N Business services;2001;84.2;39021;6411;14929;45432;53950
+442;M-N Business services;2002;85.8;39880;6354;14003;46234;53883
+443;M-N Business services;2003;86.8;40180;6314;13390;46494;53570
+444;M-N Business services;2004;85.9;40911;6437;14226;47348;55137
+445;M-N Business services;2005;84.3;42387;6602;15717;48989;58104
+446;M-N Business services;2006;82.2;45269;6954;18252;52223;63521
+447;M-N Business services;2007;81.9;49520;7411;19959;56931;69479
+448;M-N Business services;2008;81.6;53278;7858;21611;61136;74889
+449;M-N Business services;2009;81.9;52029;7830;21019;59859;73048
+450;M-N Business services;2010;81.5;50869;7786;21088;58655;71957
+451;M-N Business services;2011;81.9;52877;8557;22145;61434;75022
+452;M-N Business services;2012;82.9;53558;8878;21767;62436;75325
+453;M-N Business services;2013;83.5;53797;9013;21407;62810;75204
+454;M-N Business services;2014;82.8;55627;9764;23393;65391;79020
+455;M-N Business services;2015;78.8;57294;10694;29032;67988;86326
+456;M-N Business services;2016;78.6;60678;12173;31970;72851;92648
+457;M-N Business services;2017;78.1;64225;12877;34512;77102;98737
+458;M-N Business services;2018;78.8;68669;14062;36278;82731;104947
+459;M-N Business services;2019;77.0;71874;14293;39972;86167;111846
+460;M-N Business services;2020;80.1;71488;14529;35944;86017;107432
+461;M-N Business services;2021;75.4;75020;15223;44668;90243;119688
+462;M-N Business services;2022;74.7;82027;16304;49616;98331;131643
+463;M-N Business services;2023;72.4;87738;17964;58262;105702;146000
+464;M Other specialised business services;1995;86.3;14101;2583;5242;16684;19343
+465;M Other specialised business services;1996;84.3;15015;2855;6183;17870;21198
+466;M Other specialised business services;1997;84.5;16577;3107;6729;19684;23306
+467;M Other specialised business services;1998;85.7;17817;3309;6830;21126;24647
+468;M Other specialised business services;1999;85.1;19623;3671;7759;23294;27382
+469;M Other specialised business services;2000;87.4;22281;3989;7775;26270;30056
+470;M Other specialised business services;2001;85.4;24036;4458;9345;28494;33381
+471;M Other specialised business services;2002;86.5;25071;4428;9039;29499;34110
+472;M Other specialised business services;2003;87.3;25610;4367;8724;29977;34334
+473;M Other specialised business services;2004;85.4;25934;4449;9652;30383;35586
+474;M Other specialised business services;2005;83.1;26433;4678;11016;31111;37449
+475;M Other specialised business services;2006;80.3;27607;4978;12993;32585;40600
+476;M Other specialised business services;2007;79.4;29379;5320;14350;34699;43729
+477;M Other specialised business services;2008;79.9;31668;5675;15069;37343;46737
+478;M Other specialised business services;2009;82.0;32076;5458;13700;37534;45776
+479;M Other specialised business services;2010;80.0;30930;5315;14376;36245;45306
+480;M Other specialised business services;2011;80.3;31677;5841;15066;37518;46743
+481;M Other specialised business services;2012;83.0;32265;6163;14009;38428;46274
+482;M Other specialised business services;2013;84.3;32258;6317;13490;38575;45748
+483;M Other specialised business services;2014;83.1;32947;6916;15003;39863;47950
+484;M Other specialised business services;2015;78.7;32640;7800;18753;40440;51393
+485;M Other specialised business services;2016;79.8;33943;8583;19363;42526;53306
+486;M Other specialised business services;2017;79.5;35171;9148;20560;44319;55731
+487;M Other specialised business services;2018;80.3;36899;10050;21583;46949;58482
+488;M Other specialised business services;2019;81.6;39029;10951;22185;49980;61214
+489;M Other specialised business services;2020;80.6;40592;11186;23670;51778;64262
+490;M Other specialised business services;2021;76.2;42317;11373;28125;53690;70442
+491;M Other specialised business services;2022;76.4;46147;11898;29827;58045;75974
+492;M Other specialised business services;2023;74.8;50234;13036;34398;63270;84632
+493;N Renting and other business support;1995;89.3;8135;996;2094;9131;10229
+494;N Renting and other business support;1996;86.2;9485;1164;2864;10649;12349
+495;N Renting and other business support;1997;88.2;10794;1289;2901;12083;13695
+496;N Renting and other business support;1998;86.5;12331;1480;3642;13811;15973
+497;N Renting and other business support;1999;86.6;13514;1652;3994;15166;17508
+498;N Renting and other business support;2000;87.2;14595;1765;4161;16360;18756
+499;N Renting and other business support;2001;82.3;14985;1953;5584;16938;20569
+500;N Renting and other business support;2002;84.6;14809;1926;4964;16735;19773
+501;N Renting and other business support;2003;85.9;14570;1947;4666;16517;19236
+502;N Renting and other business support;2004;86.8;14977;1988;4574;16965;19551
+503;N Renting and other business support;2005;86.6;15954;1924;4701;17878;20655
+504;N Renting and other business support;2006;85.7;17662;1976;5259;19638;22921
+505;N Renting and other business support;2007;86.3;20141;2091;5609;22232;25750
+506;N Renting and other business support;2008;84.5;21610;2183;6542;23793;28152
+507;N Renting and other business support;2009;81.9;19953;2372;7319;22325;27272
+508;N Renting and other business support;2010;84.1;19939;2471;6712;22410;26651
+509;N Renting and other business support;2011;84.6;21200;2716;7079;23916;28279
+510;N Renting and other business support;2012;82.6;21293;2715;7758;24008;29051
+511;N Renting and other business support;2013;82.3;21539;2696;7917;24235;29456
+512;N Renting and other business support;2014;82.2;22680;2848;8390;25528;31070
+513;N Renting and other business support;2015;78.9;24654;2894;10279;27548;34933
+514;N Renting and other business support;2016;77.1;26735;3590;12607;30325;39342
+515;N Renting and other business support;2017;76.2;29054;3729;13952;32783;43006
+516;N Renting and other business support;2018;77.0;31770;4012;14695;35782;46465
+517;N Renting and other business support;2019;71.5;32845;3342;17787;36187;50632
+518;N Renting and other business support;2020;79.3;30896;3343;12274;34239;43170
+519;N Renting and other business support;2021;74.2;32703;3850;16543;36553;49246
+520;N Renting and other business support;2022;72.4;35880;4406;19789;40286;55669
+521;N Renting and other business support;2023;69.1;37504;4928;23864;42432;61368
+522;O-Q Government and care;1995;100.3;46062;2301;2179;48363;48241
+523;O-Q Government and care;1996;100.9;47016;2341;1916;49357;48932
+524;O-Q Government and care;1997;100.3;48882;2519;2383;51401;51265
+525;O-Q Government and care;1998;101.1;51887;2631;2018;54518;53905
+526;O-Q Government and care;1999;101.4;54842;2749;1939;57591;56781
+527;O-Q Government and care;2000;101.4;58180;2883;2056;61063;60236
+528;O-Q Government and care;2001;101.0;63151;3300;2654;66451;65805
+529;O-Q Government and care;2002;99.2;68876;3467;4076;72343;72952
+530;O-Q Government and care;2003;100.1;73883;3717;3610;77600;77493
+531;O-Q Government and care;2004;100.0;76153;3986;3984;80139;80137
+532;O-Q Government and care;2005;100.5;77950;4228;3824;82178;81774
+533;O-Q Government and care;2006;100.2;80311;4548;4366;84859;84677
+534;O-Q Government and care;2007;100.4;83776;5062;4676;88838;88452
+535;O-Q Government and care;2008;100.3;89051;5809;5507;94860;94558
+536;O-Q Government and care;2009;99.3;93912;6806;7561;100718;101473
+537;O-Q Government and care;2010;100.1;97206;7822;7667;105028;104873
+538;O-Q Government and care;2011;101.2;98981;8116;6796;107097;105777
+539;O-Q Government and care;2012;100.8;100736;8063;7245;108799;107981
+540;O-Q Government and care;2013;100.2;101512;7754;7580;109266;109092
+541;O-Q Government and care;2014;99.7;101947;8073;8375;110020;110322
+542;O-Q Government and care;2015;98.3;101727;6898;8796;108625;110523
+543;O-Q Government and care;2016;98.4;104170;7883;9654;112053;113824
+544;O-Q Government and care;2017;98.6;106959;7995;9647;114954;116606
+545;O-Q Government and care;2018;98.5;111701;8449;10297;120150;121998
+546;O-Q Government and care;2019;99.1;118405;9017;10211;127422;128616
+547;O-Q Government and care;2020;99.3;126319;9406;10344;135725;136663
+548;O-Q Government and care;2021;99.1;131077;11724;13000;142801;144077
+549;O-Q Government and care;2022;100.1;140090;12563;12407;152653;152497
+550;O-Q Government and care;2023;99.8;151114;13414;13691;164528;164805
+551;O Public administration and services;1995;100.0;18152;0;0;18152;18152
+552;O Public administration and services;1996;100.0;18015;0;0;18015;18015
+553;O Public administration and services;1997;100.0;18753;0;0;18753;18753
+554;O Public administration and services;1998;100.0;19448;0;0;19448;19448
+555;O Public administration and services;1999;100.0;20522;0;0;20522;20522
+556;O Public administration and services;2000;100.0;21893;0;0;21893;21893
+557;O Public administration and services;2001;100.0;23691;0;0;23691;23691
+558;O Public administration and services;2002;100.0;25485;0;0;25485;25485
+559;O Public administration and services;2003;100.0;27007;0;0;27007;27007
+560;O Public administration and services;2004;100.0;27446;0;0;27446;27446
+561;O Public administration and services;2005;100.0;27677;0;0;27677;27677
+562;O Public administration and services;2006;100.0;28026;0;0;28026;28026
+563;O Public administration and services;2007;100.0;29071;0;0;29071;29071
+564;O Public administration and services;2008;100.0;30499;0;0;30499;30499
+565;O Public administration and services;2009;100.0;32218;0;0;32218;32218
+566;O Public administration and services;2010;100.0;33075;0;0;33075;33075
+567;O Public administration and services;2011;100.0;32837;0;0;32837;32837
+568;O Public administration and services;2012;100.0;33204;0;0;33204;33204
+569;O Public administration and services;2013;100.0;33190;0;0;33190;33190
+570;O Public administration and services;2014;100.0;33066;0;0;33066;33066
+571;O Public administration and services;2015;100.0;32859;0;0;32859;32859
+572;O Public administration and services;2016;100.0;33458;0;0;33458;33458
+573;O Public administration and services;2017;100.0;34353;0;0;34353;34353
+574;O Public administration and services;2018;100.0;35821;0;0;35821;35821
+575;O Public administration and services;2019;100.0;37842;0;0;37842;37842
+576;O Public administration and services;2020;100.0;39533;0;0;39533;39533
+577;O Public administration and services;2021;100.0;40957;0;0;40957;40957
+578;O Public administration and services;2022;100.0;44196;0;0;44196;44196
+579;O Public administration and services;2023;100.0;47824;0;0;47824;47824
+580;P Education;1995;102.8;11880;524;184;12404;12064
+581;P Education;1996;103.1;12205;550;164;12755;12369
+582;P Education;1997;102.7;12685;598;247;13283;12932
+583;P Education;1998;103.1;13409;666;248;14075;13657
+584;P Education;1999;103.1;14076;693;247;14769;14323
+585;P Education;2000;103.2;14705;711;226;15416;14931
+586;P Education;2001;102.6;15496;803;391;16299;15887
+587;P Education;2002;102.3;16659;866;467;17525;17126
+588;P Education;2003;102.8;17481;841;341;18322;17822
+589;P Education;2004;102.6;18024;828;353;18852;18377
+590;P Education;2005;102.8;18500;859;324;19359;18824
+591;P Education;2006;102.4;19205;852;373;20057;19578
+592;P Education;2007;102.3;20033;873;396;20906;20429
+593;P Education;2008;102.5;21555;892;339;22447;21894
+594;P Education;2009;102.1;22635;866;374;23501;23009
+595;P Education;2010;102.4;23116;800;238;23916;23354
+596;P Education;2011;102.6;23342;874;259;24216;23601
+597;P Education;2012;102.6;23439;922;314;24361;23753
+598;P Education;2013;101.7;23357;923;519;24280;23876
+599;P Education;2014;100.8;23527;998;799;24525;24326
+600;P Education;2015;99.8;23828;1131;1181;24959;25009
+601;P Education;2016;99.2;24527;1273;1479;25800;26006
+602;P Education;2017;98.4;25065;1398;1819;26463;26884
+603;P Education;2018;98.6;26210;1555;1936;27765;28146
+604;P Education;2019;98.7;27268;1728;2105;28996;29373
+605;P Education;2020;99.5;29075;1582;1741;30657;30816
+606;P Education;2021;100.3;30269;2138;2051;32407;32320
+607;P Education;2022;100.4;33336;2409;2267;35745;35603
+608;P Education;2023;100.1;36211;2644;2588;38855;38799
+609;Q Health and social work activities;1995;98.8;16030;1777;1995;17807;18025
+610;Q Health and social work activities;1996;100.2;16796;1791;1752;18587;18548
+611;Q Health and social work activities;1997;98.9;17444;1921;2136;19365;19580
+612;Q Health and social work activities;1998;100.9;19030;1965;1770;20995;20800
+613;Q Health and social work activities;1999;101.7;20244;2056;1692;22300;21936
+614;Q Health and social work activities;2000;101.5;21582;2172;1830;23754;23412
+615;Q Health and social work activities;2001;100.9;23964;2497;2263;26461;26227
+616;Q Health and social work activities;2002;96.7;26732;2601;3609;29333;30341
+617;Q Health and social work activities;2003;98.8;29395;2876;3269;32271;32664
+618;Q Health and social work activities;2004;98.6;30683;3158;3631;33841;34314
+619;Q Health and social work activities;2005;99.6;31773;3369;3500;35142;35273
+620;Q Health and social work activities;2006;99.2;33080;3696;3993;36776;37073
+621;Q Health and social work activities;2007;99.8;34672;4189;4280;38861;38952
+622;Q Health and social work activities;2008;99.4;36997;4917;5168;41914;42165
+623;Q Health and social work activities;2009;97.3;39059;5940;7187;44999;46246
+624;Q Health and social work activities;2010;99.2;41015;7022;7429;48037;48444
+625;Q Health and social work activities;2011;101.4;42802;7242;6537;50044;49339
+626;Q Health and social work activities;2012;100.4;44093;7141;6931;51234;51024
+627;Q Health and social work activities;2013;99.6;44965;6831;7061;51796;52026
+628;Q Health and social work activities;2014;99.1;45354;7075;7576;52429;52930
+629;Q Health and social work activities;2015;96.5;45040;5767;7615;50807;52655
+630;Q Health and social work activities;2016;97.1;46185;6610;8175;52795;54360
+631;Q Health and social work activities;2017;97.8;47541;6597;7828;54138;55369
+632;Q Health and social work activities;2018;97.5;49670;6894;8361;56564;58031
+633;Q Health and social work activities;2019;98.7;53295;7289;8106;60584;61401
+634;Q Health and social work activities;2020;98.8;57711;7824;8603;65535;66314
+635;Q Health and social work activities;2021;98.1;59851;9586;10949;69437;70800
+636;Q Health and social work activities;2022;100.0;62558;10154;10140;72712;72698
+637;Q Health and social work activities;2023;99.6;67079;10770;11103;77849;78182
+638;R-U Culture, recreation, other services;1995;98.0;4349;1865;1989;6214;6338
+639;R-U Culture, recreation, other services;1996;96.7;4507;1904;2126;6411;6633
+640;R-U Culture, recreation, other services;1997;92.7;4758;2061;2598;6819;7356
+641;R-U Culture, recreation, other services;1998;93.2;5138;2220;2754;7358;7892
+642;R-U Culture, recreation, other services;1999;93.2;5464;2417;2992;7881;8456
+643;R-U Culture, recreation, other services;2000;94.1;5963;2537;3070;8500;9033
+644;R-U Culture, recreation, other services;2001;93.3;6275;2745;3396;9020;9671
+645;R-U Culture, recreation, other services;2002;92.5;6549;2919;3684;9468;10233
+646;R-U Culture, recreation, other services;2003;92.5;6746;2922;3708;9668;10454
+647;R-U Culture, recreation, other services;2004;91.5;6887;2945;3856;9832;10743
+648;R-U Culture, recreation, other services;2005;90.7;6978;3004;4029;9982;11007
+649;R-U Culture, recreation, other services;2006;89.9;7169;3064;4213;10233;11382
+650;R-U Culture, recreation, other services;2007;89.4;7497;3201;4464;10698;11961
+651;R-U Culture, recreation, other services;2008;90.0;7906;3318;4560;11224;12466
+652;R-U Culture, recreation, other services;2009;91.0;8261;3321;4471;11582;12732
+653;R-U Culture, recreation, other services;2010;90.4;8519;3424;4695;11943;13214
+654;R-U Culture, recreation, other services;2011;88.6;8735;3391;4944;12126;13679
+655;R-U Culture, recreation, other services;2012;89.1;8660;3493;4981;12153;13641
+656;R-U Culture, recreation, other services;2013;89.2;8503;3591;5062;12094;13565
+657;R-U Culture, recreation, other services;2014;89.3;8623;3830;5316;12453;13939
+658;R-U Culture, recreation, other services;2015;86.2;8542;3859;5851;12401;14393
+659;R-U Culture, recreation, other services;2016;86.9;8902;4095;6057;12997;14959
+660;R-U Culture, recreation, other services;2017;88.4;9297;4434;6239;13731;15536
+661;R-U Culture, recreation, other services;2018;89.8;9830;4711;6368;14541;16198
+662;R-U Culture, recreation, other services;2019;90.2;10436;4983;6651;15419;17087
+663;R-U Culture, recreation, other services;2020;94.1;10608;4194;5114;14802;15722
+664;R-U Culture, recreation, other services;2021;89.3;10886;4286;6104;15172;16990
+665;R-U Culture, recreation, other services;2022;89.5;11648;5139;7107;16787;18755
+666;R-U Culture, recreation, other services;2023;88.8;12645;5853;8177;18498;20822
+667;R Culture, sports and recreation;1995;88.0;1865;579;913;2444;2778
+668;R Culture, sports and recreation;1996;85.2;1911;648;1092;2559;3003
+669;R Culture, sports and recreation;1997;79.0;2008;723;1450;2731;3458
+670;R Culture, sports and recreation;1998;80.2;2184;753;1479;2937;3663
+671;R Culture, sports and recreation;1999;80.1;2337;810;1591;3147;3928
+672;R Culture, sports and recreation;2000;81.5;2553;812;1574;3365;4127
+673;R Culture, sports and recreation;2001;81.1;2735;888;1730;3623;4465
+674;R Culture, sports and recreation;2002;80.1;2894;956;1914;3850;4808
+675;R Culture, sports and recreation;2003;79.9;3019;972;1977;3991;4996
+676;R Culture, sports and recreation;2004;78.1;3048;1018;2159;4066;5207
+677;R Culture, sports and recreation;2005;76.7;3098;1035;2288;4133;5386
+678;R Culture, sports and recreation;2006;75.6;3175;1076;2445;4251;5620
+679;R Culture, sports and recreation;2007;75.2;3335;1119;2586;4454;5921
+680;R Culture, sports and recreation;2008;76.2;3518;1147;2607;4665;6125
+681;R Culture, sports and recreation;2009;77.1;3609;1178;2602;4787;6211
+682;R Culture, sports and recreation;2010;75.6;3663;1239;2824;4902;6487
+683;R Culture, sports and recreation;2011;74.4;3693;1305;3029;4998;6722
+684;R Culture, sports and recreation;2012;75.1;3695;1376;3054;5071;6749
+685;R Culture, sports and recreation;2013;76.1;3629;1433;3026;5062;6655
+686;R Culture, sports and recreation;2014;76.2;3698;1579;3227;5277;6925
+687;R Culture, sports and recreation;2015;73.5;3648;1728;3662;5376;7310
+688;R Culture, sports and recreation;2016;74.6;3782;1856;3771;5638;7553
+689;R Culture, sports and recreation;2017;76.1;3939;1998;3865;5937;7804
+690;R Culture, sports and recreation;2018;78.8;4183;2134;3836;6317;8019
+691;R Culture, sports and recreation;2019;81.1;4507;2268;3850;6775;8357
+692;R Culture, sports and recreation;2020;93.4;4435;2036;2496;6471;6931
+693;R Culture, sports and recreation;2021;79.9;4524;1426;2921;5950;7445
+694;R Culture, sports and recreation;2022;77.7;5021;1919;3913;6940;8934
+695;R Culture, sports and recreation;2023;76.3;5510;2282;4697;7792;10207
+696;S Other service activities;1995;106.0;2444;1286;1076;3730;3520
+697;S Other service activities;1996;106.2;2554;1256;1034;3810;3588
+698;S Other service activities;1997;104.9;2707;1338;1148;4045;3855
+699;S Other service activities;1998;104.6;2886;1467;1275;4353;4161
+700;S Other service activities;1999;104.6;3046;1607;1401;4653;4447
+701;S Other service activities;2000;104.8;3314;1725;1496;5039;4810
+702;S Other service activities;2001;103.8;3426;1857;1666;5283;5092
+703;S Other service activities;2002;103.7;3513;1963;1770;5476;5283
+704;S Other service activities;2003;104.1;3553;1950;1731;5503;5284
+705;S Other service activities;2004;104.3;3614;1927;1697;5541;5311
+706;S Other service activities;2005;104.3;3619;1969;1741;5588;5360
+707;S Other service activities;2006;104.0;3691;1988;1768;5679;5459
+708;S Other service activities;2007;103.6;3850;2082;1878;5932;5728
+709;S Other service activities;2008;103.6;4031;2171;1953;6202;5984
+710;S Other service activities;2009;104.5;4241;2143;1869;6384;6110
+711;S Other service activities;2010;105.0;4392;2185;1871;6577;6263
+712;S Other service activities;2011;102.6;4558;2086;1915;6644;6473
+713;S Other service activities;2012;103.0;4440;2117;1927;6557;6367
+714;S Other service activities;2013;101.9;4358;2158;2036;6516;6394
+715;S Other service activities;2014;102.5;4408;2251;2089;6659;6497
+716;S Other service activities;2015;99.1;4327;2131;2189;6458;6516
+717;S Other service activities;2016;99.3;4493;2239;2286;6732;6779
+718;S Other service activities;2017;100.9;4656;2436;2374;7092;7030
+719;S Other service activities;2018;100.6;4881;2577;2532;7458;7413
+720;S Other service activities;2019;98.9;5079;2715;2801;7794;7880
+721;S Other service activities;2020;94.1;5219;2158;2618;7377;7837
+722;S Other service activities;2021;96.2;5339;2860;3183;8199;8522
+723;S Other service activities;2022;100.3;5583;3220;3194;8803;8777
+724;S Other service activities;2023;101.0;5963;3571;3480;9534;9443
+725;T Activities of households;1995;100.0;40;0;0;40;40
+726;T Activities of households;1996;100.0;42;0;0;42;42
+727;T Activities of households;1997;100.0;43;0;0;43;43
+728;T Activities of households;1998;100.0;68;0;0;68;68
+729;T Activities of households;1999;100.0;81;0;0;81;81
+730;T Activities of households;2000;100.0;96;0;0;96;96
+731;T Activities of households;2001;100.0;114;0;0;114;114
+732;T Activities of households;2002;100.0;142;0;0;142;142
+733;T Activities of households;2003;100.0;174;0;0;174;174
+734;T Activities of households;2004;100.0;225;0;0;225;225
+735;T Activities of households;2005;100.0;261;0;0;261;261
+736;T Activities of households;2006;100.0;303;0;0;303;303
+737;T Activities of households;2007;100.0;312;0;0;312;312
+738;T Activities of households;2008;100.0;357;0;0;357;357
+739;T Activities of households;2009;100.0;411;0;0;411;411
+740;T Activities of households;2010;100.0;464;0;0;464;464
+741;T Activities of households;2011;100.0;484;0;0;484;484
+742;T Activities of households;2012;100.0;525;0;0;525;525
+743;T Activities of households;2013;100.0;516;0;0;516;516
+744;T Activities of households;2014;100.0;517;0;0;517;517
+745;T Activities of households;2015;100.0;567;0;0;567;567
+746;T Activities of households;2016;100.0;627;0;0;627;627
+747;T Activities of households;2017;100.0;702;0;0;702;702
+748;T Activities of households;2018;100.0;766;0;0;766;766
+749;T Activities of households;2019;100.0;850;0;0;850;850
+750;T Activities of households;2020;100.0;954;0;0;954;954
+751;T Activities of households;2021;100.0;1023;0;0;1023;1023
+752;T Activities of households;2022;100.0;1044;0;0;1044;1044
+753;T Activities of households;2023;100.0;1172;0;0;1172;1172
+754;U Extraterritorial organisations;1995;0.0;0;0;0;0;0
+755;U Extraterritorial organisations;1996;0.0;0;0;0;0;0
+756;U Extraterritorial organisations;1997;0.0;0;0;0;0;0
+757;U Extraterritorial organisations;1998;0.0;0;0;0;0;0
+758;U Extraterritorial organisations;1999;0.0;0;0;0;0;0
+759;U Extraterritorial organisations;2000;0.0;0;0;0;0;0
+760;U Extraterritorial organisations;2001;0.0;0;0;0;0;0
+761;U Extraterritorial organisations;2002;0.0;0;0;0;0;0
+762;U Extraterritorial organisations;2003;0.0;0;0;0;0;0
+763;U Extraterritorial organisations;2004;0.0;0;0;0;0;0
+764;U Extraterritorial organisations;2005;0.0;0;0;0;0;0
+765;U Extraterritorial organisations;2006;0.0;0;0;0;0;0
+766;U Extraterritorial organisations;2007;0.0;0;0;0;0;0
+767;U Extraterritorial organisations;2008;0.0;0;0;0;0;0
+768;U Extraterritorial organisations;2009;0.0;0;0;0;0;0
+769;U Extraterritorial organisations;2010;0.0;0;0;0;0;0
+770;U Extraterritorial organisations;2011;0.0;0;0;0;0;0
+771;U Extraterritorial organisations;2012;0.0;0;0;0;0;0
+772;U Extraterritorial organisations;2013;0.0;0;0;0;0;0
+773;U Extraterritorial organisations;2014;0.0;0;0;0;0;0
+774;U Extraterritorial organisations;2015;0.0;0;0;0;0;0
+775;U Extraterritorial organisations;2016;0.0;0;0;0;0;0
+776;U Extraterritorial organisations;2017;0.0;0;0;0;0;0
+777;U Extraterritorial organisations;2018;0.0;0;0;0;0;0
+778;U Extraterritorial organisations;2019;0.0;0;0;0;0;0
+779;U Extraterritorial organisations;2020;0.0;0;0;0;0;0
+780;U Extraterritorial organisations;2021;0.0;0;0;0;0;0
+781;U Extraterritorial organisations;2022;0.0;0;0;0;0;0
+782;U Extraterritorial organisations;2023;0.0;0;0;0;0;0
+783;68A Imp. rents owner-occupided dwellings;1995;0.0;0;0;3367;0;3367
+784;68A Imp. rents owner-occupided dwellings;1996;0.0;0;0;3525;0;3525
+785;68A Imp. rents owner-occupided dwellings;1997;0.0;0;0;3812;0;3812
+786;68A Imp. rents owner-occupided dwellings;1998;0.0;0;0;4233;0;4233
+787;68A Imp. rents owner-occupided dwellings;1999;0.0;0;0;4394;0;4394
+788;68A Imp. rents owner-occupided dwellings;2000;0.0;0;0;5091;0;5091
+789;68A Imp. rents owner-occupided dwellings;2001;0.0;0;0;-2126;0;-2126
+790;68A Imp. rents owner-occupided dwellings;2002;0.0;0;0;-1628;0;-1628
+791;68A Imp. rents owner-occupided dwellings;2003;0.0;0;0;-348;0;-348
+792;68A Imp. rents owner-occupided dwellings;2004;0.0;0;0;542;0;542
+793;68A Imp. rents owner-occupided dwellings;2005;0.0;0;0;170;0;170
+794;68A Imp. rents owner-occupided dwellings;2006;0.0;0;0;3609;0;3609
+795;68A Imp. rents owner-occupided dwellings;2007;0.0;0;0;7266;0;7266
+796;68A Imp. rents owner-occupided dwellings;2008;0.0;0;0;7177;0;7177
+797;68A Imp. rents owner-occupided dwellings;2009;0.0;0;0;-2977;0;-2977
+798;68A Imp. rents owner-occupided dwellings;2010;0.0;0;0;-6018;0;-6018
+799;68A Imp. rents owner-occupided dwellings;2011;0.0;0;0;-4309;0;-4309
+800;68A Imp. rents owner-occupided dwellings;2012;0.0;0;0;-8262;0;-8262
+801;68A Imp. rents owner-occupided dwellings;2013;0.0;0;0;-6133;0;-6133
+802;68A Imp. rents owner-occupided dwellings;2014;0.0;0;0;-4182;0;-4182
+803;68A Imp. rents owner-occupided dwellings;2015;0.0;0;0;-3831;0;-3831
+804;68A Imp. rents owner-occupided dwellings;2016;0.0;0;0;-3264;0;-3264
+805;68A Imp. rents owner-occupided dwellings;2017;0.0;0;0;-222;0;-222
+806;68A Imp. rents owner-occupided dwellings;2018;0.0;0;0;2119;0;2119
+807;68A Imp. rents owner-occupided dwellings;2019;0.0;0;0;1140;0;1140
+808;68A Imp. rents owner-occupided dwellings;2020;0.0;0;0;803;0;803
+809;68A Imp. rents owner-occupided dwellings;2021;0.0;0;0;1971;0;1971
+810;68A Imp. rents owner-occupided dwellings;2022;0.0;0;0;10254;0;10254
+811;68A Imp. rents owner-occupided dwellings;2023;0.0;0;0;22933;0;22933
+812;68B Real estate excl. imputed rents;1995;44.5;1746;2297;7332;4043;9078
+813;68B Real estate excl. imputed rents;1996;41.4;1846;2201;7921;4047;9767
+814;68B Real estate excl. imputed rents;1997;37.4;1941;2087;8835;4028;10776
+815;68B Real estate excl. imputed rents;1998;36.2;2192;1956;9267;4148;11459
+816;68B Real estate excl. imputed rents;1999;34.5;2404;1732;9571;4136;11975
+817;68B Real estate excl. imputed rents;2000;33.8;2671;1457;9526;4128;12197
+818;68B Real estate excl. imputed rents;2001;32.8;2740;1186;9230;3926;11970
+819;68B Real estate excl. imputed rents;2002;31.6;2949;865;9112;3814;12061
+820;68B Real estate excl. imputed rents;2003;31.1;3205;563;8916;3768;12121
+821;68B Real estate excl. imputed rents;2004;27.3;3171;284;9495;3455;12666
+822;68B Real estate excl. imputed rents;2005;25.1;3223;2;9619;3225;12842
+823;68B Real estate excl. imputed rents;2006;22.5;3304;-333;9898;2971;13202
+824;68B Real estate excl. imputed rents;2007;21.3;3485;-659;9782;2826;13267
+825;68B Real estate excl. imputed rents;2008;20.8;3715;-1039;9177;2676;12892
+826;68B Real estate excl. imputed rents;2009;19.9;3744;-1320;8458;2424;12202
+827;68B Real estate excl. imputed rents;2010;16.9;3641;-1505;9018;2136;12659
+828;68B Real estate excl. imputed rents;2011;18.2;3673;-1416;8722;2257;12395
+829;68B Real estate excl. imputed rents;2012;19.5;3654;-1300;8442;2354;12096
+830;68B Real estate excl. imputed rents;2013;19.3;3587;-1400;7768;2187;11355
+831;68B Real estate excl. imputed rents;2014;19.6;3537;-1443;7166;2094;10703
+832;68B Real estate excl. imputed rents;2015;18.3;3471;-1412;7808;2059;11279
+833;68B Real estate excl. imputed rents;2016;19.0;3505;-1351;7814;2154;11319
+834;68B Real estate excl. imputed rents;2017;19.9;3587;-1302;7887;2285;11474
+835;68B Real estate excl. imputed rents;2018;22.0;3761;-1349;7221;2412;10982
+836;68B Real estate excl. imputed rents;2019;24.2;3942;-1263;7111;2679;11053
+837;68B Real estate excl. imputed rents;2020;22.6;4115;-1773;6245;2342;10360
+838;68B Real estate excl. imputed rents;2021;18.5;4199;-2398;5535;1801;9734
+839;68B Real estate excl. imputed rents;2022;15.1;4451;-3041;4895;1410;9346
+840;68B Real estate excl. imputed rents;2023;14.2;4728;-3236;5789;1492;10517
+841;A-U (excl. O and P);1995;74.5;135528;25340;80321;160868;215849
+842;A-U (excl. O and P);1996;74.0;141761;26213;85150;167974;226911
+843;A-U (excl. O and P);1997;72.8;150196;28527;95207;178723;245403
+844;A-U (excl. O and P);1998;72.4;161809;29557;102357;191366;264166
+845;A-U (excl. O and P);1999;73.6;175048;30973;104694;206021;279742
+846;A-U (excl. O and P);2000;73.9;190199;32708;111338;222907;301537
+847;A-U (excl. O and P);2001;74.0;200007;35140;117938;235147;317945
+848;A-U (excl. O and P);2002;74.2;209044;34774;119502;243818;328546
+849;A-U (excl. O and P);2003;74.4;213493;34512;119862;248005;333355
+850;A-U (excl. O and P);2004;72.8;216256;33993;127552;250249;343808
+851;A-U (excl. O and P);2005;71.1;219734;34840;138238;254574;357972
+852;A-U (excl. O and P);2006;69.2;227521;37445;155530;264966;383051
+853;A-U (excl. O and P);2007;68.5;241518;39416;168441;280934;409959
+854;A-U (excl. O and P);2008;69.2;255754;39949;171746;295703;427500
+855;A-U (excl. O and P);2009;73.1;257467;39009;148305;296476;405772
+856;A-U (excl. O and P);2010;71.7;255709;40616;157595;296325;413304
+857;A-U (excl. O and P);2011;71.8;263708;42004;161806;305712;425514
+858;A-U (excl. O and P);2012;72.6;267631;42259;159235;309890;426866
+859;A-U (excl. O and P);2013;72.6;268604;42619;159971;311223;428575
+860;A-U (excl. O and P);2014;72.8;272150;44885;163258;317035;435408
+861;A-U (excl. O and P);2015;71.0;274307;47413;178905;321720;453212
+862;A-U (excl. O and P);2016;72.3;284657;51765;180977;336422;465634
+863;A-U (excl. O and P);2017;71.6;295060;54696;193715;349756;488775
+864;A-U (excl. O and P);2018;72.1;310869;58249;201254;369118;512123
+865;A-U (excl. O and P);2019;72.2;327952;61124;211253;389076;539205
+866;A-U (excl. O and P);2020;73.6;337722;59451;201572;397173;539294
+867;A-U (excl. O and P);2021;70.7;352573;65954;239275;418527;591848
+868;A-U (excl. O and P);2022;67.8;377237;69308;281666;446545;658903
+869;A-U (excl. O and P);2023;67.6;405558;75043;305157;480601;710715
+870;A-U (excl. B, K, L, O, P and Q);1995;81.4;108165;21060;50527;129225;158692
+871;A-U (excl. B, K, L, O, P and Q);1996;81.2;113006;21970;53272;134976;166278
+872;A-U (excl. B, K, L, O, P and Q);1997;79.3;119731;24223;61803;143954;181534
+873;A-U (excl. B, K, L, O, P and Q);1998;77.9;128791;25300;68970;154091;197761
+874;A-U (excl. B, K, L, O, P and Q);1999;78.9;139376;26829;71226;166205;210602
+875;A-U (excl. B, K, L, O, P and Q);2000;79.7;151599;28695;74562;180294;226161
+876;A-U (excl. B, K, L, O, P and Q);2001;78.1;158498;31074;84305;189572;242803
+877;A-U (excl. B, K, L, O, P and Q);2002;78.1;162811;30932;85322;193743;248133
+878;A-U (excl. B, K, L, O, P and Q);2003;79.0;164490;30681;82529;195171;247019
+879;A-U (excl. B, K, L, O, P and Q);2004;77.3;165761;30146;87548;195907;253309
+880;A-U (excl. B, K, L, O, P and Q);2005;75.2;167702;31069;96772;198771;264474
+881;A-U (excl. B, K, L, O, P and Q);2006;73.7;173405;33622;107524;207027;280929
+882;A-U (excl. B, K, L, O, P and Q);2007;72.5;184220;35402;118656;219622;302876
+883;A-U (excl. B, K, L, O, P and Q);2008;74.2;195586;35639;116237;231225;311823
+884;A-U (excl. B, K, L, O, P and Q);2009;77.7;195885;33981;100007;229866;295892
+885;A-U (excl. B, K, L, O, P and Q);2010;76.9;192415;34661;102825;227076;295240
+886;A-U (excl. B, K, L, O, P and Q);2011;77.1;198244;35743;105353;233987;303597
+887;A-U (excl. B, K, L, O, P and Q);2012;78.2;200941;35981;102060;236922;303001
+888;A-U (excl. B, K, L, O, P and Q);2013;78.0;200077;36776;103452;236853;303529
+889;A-U (excl. B, K, L, O, P and Q);2014;77.7;203177;38818;108387;241995;311564
+890;A-U (excl. B, K, L, O, P and Q);2015;74.8;206215;42591;126454;248806;332669
+891;A-U (excl. B, K, L, O, P and Q);2016;74.5;215304;46005;135265;261309;350569
+892;A-U (excl. B, K, L, O, P and Q);2017;73.7;224793;48903;146757;273696;371550
+893;A-U (excl. B, K, L, O, P and Q);2018;74.3;238600;52197;152823;290797;391423
+894;A-U (excl. B, K, L, O, P and Q);2019;73.5;251588;54559;165063;306147;416651
+895;A-U (excl. B, K, L, O, P and Q);2020;74.4;255846;52823;158849;308669;414695
+896;A-U (excl. B, K, L, O, P and Q);2021;70.5;267247;58207;194170;325454;461417
+897;A-U (excl. B, K, L, O, P and Q);2022;69.4;288065;61664;215721;349729;503786
+898;A-U (excl. B, K, L, O, P and Q);2023;69.0;310027;66965;236310;376992;546337

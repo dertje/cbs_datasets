@@ -1,0 +1,2465 @@
+﻿ID;Geslacht;Leeftijd;Recidive;Perioden;VerdachtenVanMisdrijven_1
+0;Totaal;Totaal;Totaal;2014;217100
+1;Totaal;Totaal;Totaal;2015;198510
+2;Totaal;Totaal;Totaal;2016;185460
+3;Totaal;Totaal;Totaal;2017;171240
+4;Totaal;Totaal;Totaal;2018;164590
+5;Totaal;Totaal;Totaal;2019;166610
+6;Totaal;Totaal;Totaal;2020;152810
+7;Totaal;Totaal;Totaal;2021;142040
+8;Totaal;Totaal;Totaal;2022;155650
+9;Totaal;Totaal;Totaal;2023;150300
+10;Totaal;Totaal;Totaal;2024;140610
+11;Totaal;Totaal;First offender;2014;77340
+12;Totaal;Totaal;First offender;2015;69850
+13;Totaal;Totaal;First offender;2016;65060
+14;Totaal;Totaal;First offender;2017;60170
+15;Totaal;Totaal;First offender;2018;57060
+16;Totaal;Totaal;First offender;2019;58230
+17;Totaal;Totaal;First offender;2020;50050
+18;Totaal;Totaal;First offender;2021;47730
+19;Totaal;Totaal;First offender;2022;56640
+20;Totaal;Totaal;First offender;2023;54380
+21;Totaal;Totaal;First offender;2024;48610
+22;Totaal;Totaal;Meerpleger;2014;73850
+23;Totaal;Totaal;Meerpleger;2015;67010
+24;Totaal;Totaal;Meerpleger;2016;61780
+25;Totaal;Totaal;Meerpleger;2017;56490
+26;Totaal;Totaal;Meerpleger;2018;53980
+27;Totaal;Totaal;Meerpleger;2019;55020
+28;Totaal;Totaal;Meerpleger;2020;51200
+29;Totaal;Totaal;Meerpleger;2021;46810
+30;Totaal;Totaal;Meerpleger;2022;50020
+31;Totaal;Totaal;Meerpleger;2023;47880
+32;Totaal;Totaal;Meerpleger;2024;44990
+33;Totaal;Totaal;"Veelpleger; totaal";2014;61610
+34;Totaal;Totaal;"Veelpleger; totaal";2015;58290
+35;Totaal;Totaal;"Veelpleger; totaal";2016;56010
+36;Totaal;Totaal;"Veelpleger; totaal";2017;52280
+37;Totaal;Totaal;"Veelpleger; totaal";2018;51200
+38;Totaal;Totaal;"Veelpleger; totaal";2019;51180
+39;Totaal;Totaal;"Veelpleger; totaal";2020;49830
+40;Totaal;Totaal;"Veelpleger; totaal";2021;45820
+41;Totaal;Totaal;"Veelpleger; totaal";2022;46710
+42;Totaal;Totaal;"Veelpleger; totaal";2023;45700
+43;Totaal;Totaal;"Veelpleger; totaal";2024;44270
+44;Totaal;Totaal;"Veelpleger; 1 delict in verslagjaar";2014;35660
+45;Totaal;Totaal;"Veelpleger; 1 delict in verslagjaar";2015;34370
+46;Totaal;Totaal;"Veelpleger; 1 delict in verslagjaar";2016;33510
+47;Totaal;Totaal;"Veelpleger; 1 delict in verslagjaar";2017;31840
+48;Totaal;Totaal;"Veelpleger; 1 delict in verslagjaar";2018;30960
+49;Totaal;Totaal;"Veelpleger; 1 delict in verslagjaar";2019;30120
+50;Totaal;Totaal;"Veelpleger; 1 delict in verslagjaar";2020;28880
+51;Totaal;Totaal;"Veelpleger; 1 delict in verslagjaar";2021;27240
+52;Totaal;Totaal;"Veelpleger; 1 delict in verslagjaar";2022;27620
+53;Totaal;Totaal;"Veelpleger; 1 delict in verslagjaar";2023;26620
+54;Totaal;Totaal;"Veelpleger; 1 delict in verslagjaar";2024;25880
+55;Totaal;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2014;22680
+56;Totaal;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2015;20870
+57;Totaal;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2016;19780
+58;Totaal;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2017;17940
+59;Totaal;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2018;17660
+60;Totaal;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2019;18260
+61;Totaal;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2020;17940
+62;Totaal;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2021;16180
+63;Totaal;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2022;16380
+64;Totaal;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2023;16200
+65;Totaal;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2024;15760
+66;Totaal;Totaal;"Veelpleger; 6 of meer delicten in jaar";2014;3270
+67;Totaal;Totaal;"Veelpleger; 6 of meer delicten in jaar";2015;3060
+68;Totaal;Totaal;"Veelpleger; 6 of meer delicten in jaar";2016;2730
+69;Totaal;Totaal;"Veelpleger; 6 of meer delicten in jaar";2017;2500
+70;Totaal;Totaal;"Veelpleger; 6 of meer delicten in jaar";2018;2580
+71;Totaal;Totaal;"Veelpleger; 6 of meer delicten in jaar";2019;2800
+72;Totaal;Totaal;"Veelpleger; 6 of meer delicten in jaar";2020;3010
+73;Totaal;Totaal;"Veelpleger; 6 of meer delicten in jaar";2021;2390
+74;Totaal;Totaal;"Veelpleger; 6 of meer delicten in jaar";2022;2710
+75;Totaal;Totaal;"Veelpleger; 6 of meer delicten in jaar";2023;2890
+76;Totaal;Totaal;"Veelpleger; 6 of meer delicten in jaar";2024;2630
+77;Totaal;Totaal;Recidive onbekend;2014;4310
+78;Totaal;Totaal;Recidive onbekend;2015;3350
+79;Totaal;Totaal;Recidive onbekend;2016;2600
+80;Totaal;Totaal;Recidive onbekend;2017;2310
+81;Totaal;Totaal;Recidive onbekend;2018;2360
+82;Totaal;Totaal;Recidive onbekend;2019;2180
+83;Totaal;Totaal;Recidive onbekend;2020;1730
+84;Totaal;Totaal;Recidive onbekend;2021;1690
+85;Totaal;Totaal;Recidive onbekend;2022;2280
+86;Totaal;Totaal;Recidive onbekend;2023;2340
+87;Totaal;Totaal;Recidive onbekend;2024;2740
+88;Totaal;12 tot 18 jaar;Totaal;2014;23620
+89;Totaal;12 tot 18 jaar;Totaal;2015;22740
+90;Totaal;12 tot 18 jaar;Totaal;2016;21190
+91;Totaal;12 tot 18 jaar;Totaal;2017;19120
+92;Totaal;12 tot 18 jaar;Totaal;2018;16920
+93;Totaal;12 tot 18 jaar;Totaal;2019;18790
+94;Totaal;12 tot 18 jaar;Totaal;2020;16160
+95;Totaal;12 tot 18 jaar;Totaal;2021;15320
+96;Totaal;12 tot 18 jaar;Totaal;2022;17750
+97;Totaal;12 tot 18 jaar;Totaal;2023;17260
+98;Totaal;12 tot 18 jaar;Totaal;2024;15910
+99;Totaal;12 tot 18 jaar;First offender;2014;13410
+100;Totaal;12 tot 18 jaar;First offender;2015;12940
+101;Totaal;12 tot 18 jaar;First offender;2016;12400
+102;Totaal;12 tot 18 jaar;First offender;2017;11530
+103;Totaal;12 tot 18 jaar;First offender;2018;10170
+104;Totaal;12 tot 18 jaar;First offender;2019;11400
+105;Totaal;12 tot 18 jaar;First offender;2020;9550
+106;Totaal;12 tot 18 jaar;First offender;2021;9400
+107;Totaal;12 tot 18 jaar;First offender;2022;11600
+108;Totaal;12 tot 18 jaar;First offender;2023;11130
+109;Totaal;12 tot 18 jaar;First offender;2024;9930
+110;Totaal;12 tot 18 jaar;Meerpleger;2014;8230
+111;Totaal;12 tot 18 jaar;Meerpleger;2015;7920
+112;Totaal;12 tot 18 jaar;Meerpleger;2016;7090
+113;Totaal;12 tot 18 jaar;Meerpleger;2017;6210
+114;Totaal;12 tot 18 jaar;Meerpleger;2018;5470
+115;Totaal;12 tot 18 jaar;Meerpleger;2019;6060
+116;Totaal;12 tot 18 jaar;Meerpleger;2020;5510
+117;Totaal;12 tot 18 jaar;Meerpleger;2021;4870
+118;Totaal;12 tot 18 jaar;Meerpleger;2022;5080
+119;Totaal;12 tot 18 jaar;Meerpleger;2023;5110
+120;Totaal;12 tot 18 jaar;Meerpleger;2024;4900
+121;Totaal;12 tot 18 jaar;"Veelpleger; totaal";2014;1850
+122;Totaal;12 tot 18 jaar;"Veelpleger; totaal";2015;1760
+123;Totaal;12 tot 18 jaar;"Veelpleger; totaal";2016;1610
+124;Totaal;12 tot 18 jaar;"Veelpleger; totaal";2017;1330
+125;Totaal;12 tot 18 jaar;"Veelpleger; totaal";2018;1210
+126;Totaal;12 tot 18 jaar;"Veelpleger; totaal";2019;1250
+127;Totaal;12 tot 18 jaar;"Veelpleger; totaal";2020;1080
+128;Totaal;12 tot 18 jaar;"Veelpleger; totaal";2021;1000
+129;Totaal;12 tot 18 jaar;"Veelpleger; totaal";2022;960
+130;Totaal;12 tot 18 jaar;"Veelpleger; totaal";2023;930
+131;Totaal;12 tot 18 jaar;"Veelpleger; totaal";2024;980
+132;Totaal;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2014;460
+133;Totaal;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2015;430
+134;Totaal;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2016;440
+135;Totaal;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2017;340
+136;Totaal;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2018;290
+137;Totaal;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2019;260
+138;Totaal;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2020;250
+139;Totaal;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2021;280
+140;Totaal;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2022;230
+141;Totaal;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2023;220
+142;Totaal;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2024;240
+143;Totaal;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2014;1120
+144;Totaal;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2015;1060
+145;Totaal;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2016;960
+146;Totaal;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2017;790
+147;Totaal;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2018;690
+148;Totaal;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2019;730
+149;Totaal;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2020;620
+150;Totaal;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2021;550
+151;Totaal;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2022;540
+152;Totaal;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2023;540
+153;Totaal;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2024;530
+154;Totaal;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2014;270
+155;Totaal;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2015;280
+156;Totaal;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2016;220
+157;Totaal;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2017;200
+158;Totaal;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2018;230
+159;Totaal;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2019;260
+160;Totaal;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2020;200
+161;Totaal;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2021;160
+162;Totaal;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2022;180
+163;Totaal;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2023;170
+164;Totaal;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2024;210
+165;Totaal;12 tot 18 jaar;Recidive onbekend;2014;120
+166;Totaal;12 tot 18 jaar;Recidive onbekend;2015;120
+167;Totaal;12 tot 18 jaar;Recidive onbekend;2016;90
+168;Totaal;12 tot 18 jaar;Recidive onbekend;2017;50
+169;Totaal;12 tot 18 jaar;Recidive onbekend;2018;80
+170;Totaal;12 tot 18 jaar;Recidive onbekend;2019;80
+171;Totaal;12 tot 18 jaar;Recidive onbekend;2020;40
+172;Totaal;12 tot 18 jaar;Recidive onbekend;2021;60
+173;Totaal;12 tot 18 jaar;Recidive onbekend;2022;110
+174;Totaal;12 tot 18 jaar;Recidive onbekend;2023;90
+175;Totaal;12 tot 18 jaar;Recidive onbekend;2024;100
+176;Totaal;18 tot 23 jaar;Totaal;2014;35580
+177;Totaal;18 tot 23 jaar;Totaal;2015;31420
+178;Totaal;18 tot 23 jaar;Totaal;2016;29050
+179;Totaal;18 tot 23 jaar;Totaal;2017;26980
+180;Totaal;18 tot 23 jaar;Totaal;2018;25680
+181;Totaal;18 tot 23 jaar;Totaal;2019;27100
+182;Totaal;18 tot 23 jaar;Totaal;2020;26100
+183;Totaal;18 tot 23 jaar;Totaal;2021;24330
+184;Totaal;18 tot 23 jaar;Totaal;2022;25910
+185;Totaal;18 tot 23 jaar;Totaal;2023;23070
+186;Totaal;18 tot 23 jaar;Totaal;2024;21620
+187;Totaal;18 tot 23 jaar;First offender;2014;12880
+188;Totaal;18 tot 23 jaar;First offender;2015;11590
+189;Totaal;18 tot 23 jaar;First offender;2016;11110
+190;Totaal;18 tot 23 jaar;First offender;2017;10770
+191;Totaal;18 tot 23 jaar;First offender;2018;10310
+192;Totaal;18 tot 23 jaar;First offender;2019;11200
+193;Totaal;18 tot 23 jaar;First offender;2020;10140
+194;Totaal;18 tot 23 jaar;First offender;2021;9970
+195;Totaal;18 tot 23 jaar;First offender;2022;11740
+196;Totaal;18 tot 23 jaar;First offender;2023;10440
+197;Totaal;18 tot 23 jaar;First offender;2024;9450
+198;Totaal;18 tot 23 jaar;Meerpleger;2014;14030
+199;Totaal;18 tot 23 jaar;Meerpleger;2015;12260
+200;Totaal;18 tot 23 jaar;Meerpleger;2016;11220
+201;Totaal;18 tot 23 jaar;Meerpleger;2017;10310
+202;Totaal;18 tot 23 jaar;Meerpleger;2018;9910
+203;Totaal;18 tot 23 jaar;Meerpleger;2019;10500
+204;Totaal;18 tot 23 jaar;Meerpleger;2020;10440
+205;Totaal;18 tot 23 jaar;Meerpleger;2021;9580
+206;Totaal;18 tot 23 jaar;Meerpleger;2022;9500
+207;Totaal;18 tot 23 jaar;Meerpleger;2023;8440
+208;Totaal;18 tot 23 jaar;Meerpleger;2024;7980
+209;Totaal;18 tot 23 jaar;"Veelpleger; totaal";2014;7800
+210;Totaal;18 tot 23 jaar;"Veelpleger; totaal";2015;6990
+211;Totaal;18 tot 23 jaar;"Veelpleger; totaal";2016;6330
+212;Totaal;18 tot 23 jaar;"Veelpleger; totaal";2017;5570
+213;Totaal;18 tot 23 jaar;"Veelpleger; totaal";2018;5160
+214;Totaal;18 tot 23 jaar;"Veelpleger; totaal";2019;5150
+215;Totaal;18 tot 23 jaar;"Veelpleger; totaal";2020;5260
+216;Totaal;18 tot 23 jaar;"Veelpleger; totaal";2021;4550
+217;Totaal;18 tot 23 jaar;"Veelpleger; totaal";2022;4330
+218;Totaal;18 tot 23 jaar;"Veelpleger; totaal";2023;3840
+219;Totaal;18 tot 23 jaar;"Veelpleger; totaal";2024;3590
+220;Totaal;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2014;3510
+221;Totaal;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2015;3170
+222;Totaal;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2016;2900
+223;Totaal;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2017;2640
+224;Totaal;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2018;2360
+225;Totaal;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2019;2180
+226;Totaal;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2020;2130
+227;Totaal;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2021;1970
+228;Totaal;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2022;1910
+229;Totaal;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2023;1660
+230;Totaal;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2024;1500
+231;Totaal;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2014;3710
+232;Totaal;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2015;3270
+233;Totaal;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2016;2980
+234;Totaal;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2017;2520
+235;Totaal;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2018;2400
+236;Totaal;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2019;2540
+237;Totaal;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2020;2650
+238;Totaal;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2021;2190
+239;Totaal;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2022;2050
+240;Totaal;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2023;1820
+241;Totaal;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2024;1760
+242;Totaal;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2014;580
+243;Totaal;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2015;550
+244;Totaal;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2016;450
+245;Totaal;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2017;410
+246;Totaal;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2018;400
+247;Totaal;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2019;430
+248;Totaal;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2020;490
+249;Totaal;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2021;390
+250;Totaal;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2022;370
+251;Totaal;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2023;360
+252;Totaal;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2024;320
+253;Totaal;18 tot 23 jaar;Recidive onbekend;2014;870
+254;Totaal;18 tot 23 jaar;Recidive onbekend;2015;580
+255;Totaal;18 tot 23 jaar;Recidive onbekend;2016;390
+256;Totaal;18 tot 23 jaar;Recidive onbekend;2017;320
+257;Totaal;18 tot 23 jaar;Recidive onbekend;2018;300
+258;Totaal;18 tot 23 jaar;Recidive onbekend;2019;250
+259;Totaal;18 tot 23 jaar;Recidive onbekend;2020;260
+260;Totaal;18 tot 23 jaar;Recidive onbekend;2021;240
+261;Totaal;18 tot 23 jaar;Recidive onbekend;2022;350
+262;Totaal;18 tot 23 jaar;Recidive onbekend;2023;360
+263;Totaal;18 tot 23 jaar;Recidive onbekend;2024;610
+264;Totaal;23 tot 45 jaar;Totaal;2014;104630
+265;Totaal;23 tot 45 jaar;Totaal;2015;95090
+266;Totaal;23 tot 45 jaar;Totaal;2016;88600
+267;Totaal;23 tot 45 jaar;Totaal;2017;82260
+268;Totaal;23 tot 45 jaar;Totaal;2018;80680
+269;Totaal;23 tot 45 jaar;Totaal;2019;80840
+270;Totaal;23 tot 45 jaar;Totaal;2020;74990
+271;Totaal;23 tot 45 jaar;Totaal;2021;69870
+272;Totaal;23 tot 45 jaar;Totaal;2022;78040
+273;Totaal;23 tot 45 jaar;Totaal;2023;76840
+274;Totaal;23 tot 45 jaar;Totaal;2024;72320
+275;Totaal;23 tot 45 jaar;First offender;2014;29060
+276;Totaal;23 tot 45 jaar;First offender;2015;26240
+277;Totaal;23 tot 45 jaar;First offender;2016;24090
+278;Totaal;23 tot 45 jaar;First offender;2017;22560
+279;Totaal;23 tot 45 jaar;First offender;2018;22300
+280;Totaal;23 tot 45 jaar;First offender;2019;22300
+281;Totaal;23 tot 45 jaar;First offender;2020;19140
+282;Totaal;23 tot 45 jaar;First offender;2021;17910
+283;Totaal;23 tot 45 jaar;First offender;2022;22350
+284;Totaal;23 tot 45 jaar;First offender;2023;22350
+285;Totaal;23 tot 45 jaar;First offender;2024;20120
+286;Totaal;23 tot 45 jaar;Meerpleger;2014;35580
+287;Totaal;23 tot 45 jaar;Meerpleger;2015;31910
+288;Totaal;23 tot 45 jaar;Meerpleger;2016;29340
+289;Totaal;23 tot 45 jaar;Meerpleger;2017;26980
+290;Totaal;23 tot 45 jaar;Meerpleger;2018;26180
+291;Totaal;23 tot 45 jaar;Meerpleger;2019;26160
+292;Totaal;23 tot 45 jaar;Meerpleger;2020;24590
+293;Totaal;23 tot 45 jaar;Meerpleger;2021;22710
+294;Totaal;23 tot 45 jaar;Meerpleger;2022;25220
+295;Totaal;23 tot 45 jaar;Meerpleger;2023;24660
+296;Totaal;23 tot 45 jaar;Meerpleger;2024;23270
+297;Totaal;23 tot 45 jaar;"Veelpleger; totaal";2014;37570
+298;Totaal;23 tot 45 jaar;"Veelpleger; totaal";2015;35210
+299;Totaal;23 tot 45 jaar;"Veelpleger; totaal";2016;33770
+300;Totaal;23 tot 45 jaar;"Veelpleger; totaal";2017;31610
+301;Totaal;23 tot 45 jaar;"Veelpleger; totaal";2018;31000
+302;Totaal;23 tot 45 jaar;"Veelpleger; totaal";2019;31230
+303;Totaal;23 tot 45 jaar;"Veelpleger; totaal";2020;30470
+304;Totaal;23 tot 45 jaar;"Veelpleger; totaal";2021;28420
+305;Totaal;23 tot 45 jaar;"Veelpleger; totaal";2022;29320
+306;Totaal;23 tot 45 jaar;"Veelpleger; totaal";2023;28590
+307;Totaal;23 tot 45 jaar;"Veelpleger; totaal";2024;27700
+308;Totaal;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2014;21990
+309;Totaal;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2015;20990
+310;Totaal;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2016;20360
+311;Totaal;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2017;19300
+312;Totaal;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2018;18760
+313;Totaal;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2019;18510
+314;Totaal;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2020;17710
+315;Totaal;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2021;16800
+316;Totaal;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2022;17190
+317;Totaal;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2023;16360
+318;Totaal;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2024;16080
+319;Totaal;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2014;13690
+320;Totaal;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2015;12440
+321;Totaal;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2016;11810
+322;Totaal;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2017;10860
+323;Totaal;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2018;10740
+324;Totaal;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2019;11090
+325;Totaal;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2020;10940
+326;Totaal;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2021;10160
+327;Totaal;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2022;10390
+328;Totaal;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2023;10350
+329;Totaal;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2024;10020
+330;Totaal;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2014;1890
+331;Totaal;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2015;1790
+332;Totaal;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2016;1600
+333;Totaal;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2017;1450
+334;Totaal;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2018;1500
+335;Totaal;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2019;1630
+336;Totaal;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2020;1820
+337;Totaal;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2021;1450
+338;Totaal;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2022;1740
+339;Totaal;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2023;1880
+340;Totaal;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2024;1600
+341;Totaal;23 tot 45 jaar;Recidive onbekend;2014;2420
+342;Totaal;23 tot 45 jaar;Recidive onbekend;2015;1730
+343;Totaal;23 tot 45 jaar;Recidive onbekend;2016;1400
+344;Totaal;23 tot 45 jaar;Recidive onbekend;2017;1110
+345;Totaal;23 tot 45 jaar;Recidive onbekend;2018;1200
+346;Totaal;23 tot 45 jaar;Recidive onbekend;2019;1150
+347;Totaal;23 tot 45 jaar;Recidive onbekend;2020;780
+348;Totaal;23 tot 45 jaar;Recidive onbekend;2021;830
+349;Totaal;23 tot 45 jaar;Recidive onbekend;2022;1150
+350;Totaal;23 tot 45 jaar;Recidive onbekend;2023;1240
+351;Totaal;23 tot 45 jaar;Recidive onbekend;2024;1240
+352;Totaal;45 tot 65 jaar;Totaal;2014;44270
+353;Totaal;45 tot 65 jaar;Totaal;2015;41040
+354;Totaal;45 tot 65 jaar;Totaal;2016;38840
+355;Totaal;45 tot 65 jaar;Totaal;2017;35640
+356;Totaal;45 tot 65 jaar;Totaal;2018;34320
+357;Totaal;45 tot 65 jaar;Totaal;2019;33240
+358;Totaal;45 tot 65 jaar;Totaal;2020;29600
+359;Totaal;45 tot 65 jaar;Totaal;2021;26960
+360;Totaal;45 tot 65 jaar;Totaal;2022;28190
+361;Totaal;45 tot 65 jaar;Totaal;2023;27500
+362;Totaal;45 tot 65 jaar;Totaal;2024;25660
+363;Totaal;45 tot 65 jaar;First offender;2014;16580
+364;Totaal;45 tot 65 jaar;First offender;2015;14390
+365;Totaal;45 tot 65 jaar;First offender;2016;13050
+366;Totaal;45 tot 65 jaar;First offender;2017;11470
+367;Totaal;45 tot 65 jaar;First offender;2018;10660
+368;Totaal;45 tot 65 jaar;First offender;2019;10020
+369;Totaal;45 tot 65 jaar;First offender;2020;8370
+370;Totaal;45 tot 65 jaar;First offender;2021;7710
+371;Totaal;45 tot 65 jaar;First offender;2022;8180
+372;Totaal;45 tot 65 jaar;First offender;2023;7800
+373;Totaal;45 tot 65 jaar;First offender;2024;6910
+374;Totaal;45 tot 65 jaar;Meerpleger;2014;13690
+375;Totaal;45 tot 65 jaar;Meerpleger;2015;12770
+376;Totaal;45 tot 65 jaar;Meerpleger;2016;12020
+377;Totaal;45 tot 65 jaar;Meerpleger;2017;10990
+378;Totaal;45 tot 65 jaar;Meerpleger;2018;10450
+379;Totaal;45 tot 65 jaar;Meerpleger;2019;10300
+380;Totaal;45 tot 65 jaar;Meerpleger;2020;8940
+381;Totaal;45 tot 65 jaar;Meerpleger;2021;8100
+382;Totaal;45 tot 65 jaar;Meerpleger;2022;8580
+383;Totaal;45 tot 65 jaar;Meerpleger;2023;8040
+384;Totaal;45 tot 65 jaar;Meerpleger;2024;7410
+385;Totaal;45 tot 65 jaar;"Veelpleger; totaal";2014;13480
+386;Totaal;45 tot 65 jaar;"Veelpleger; totaal";2015;13440
+387;Totaal;45 tot 65 jaar;"Veelpleger; totaal";2016;13350
+388;Totaal;45 tot 65 jaar;"Veelpleger; totaal";2017;12820
+389;Totaal;45 tot 65 jaar;"Veelpleger; totaal";2018;12840
+390;Totaal;45 tot 65 jaar;"Veelpleger; totaal";2019;12600
+391;Totaal;45 tot 65 jaar;"Veelpleger; totaal";2020;12060
+392;Totaal;45 tot 65 jaar;"Veelpleger; totaal";2021;10930
+393;Totaal;45 tot 65 jaar;"Veelpleger; totaal";2022;11120
+394;Totaal;45 tot 65 jaar;"Veelpleger; totaal";2023;11350
+395;Totaal;45 tot 65 jaar;"Veelpleger; totaal";2024;11010
+396;Totaal;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2014;9020
+397;Totaal;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2015;9100
+398;Totaal;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2016;9060
+399;Totaal;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2017;8810
+400;Totaal;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2018;8820
+401;Totaal;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2019;8440
+402;Totaal;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2020;8060
+403;Totaal;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2021;7460
+404;Totaal;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2022;7540
+405;Totaal;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2023;7620
+406;Totaal;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2024;7290
+407;Totaal;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2014;3970
+408;Totaal;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2015;3920
+409;Totaal;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2016;3850
+410;Totaal;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2017;3590
+411;Totaal;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2018;3610
+412;Totaal;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2019;3680
+413;Totaal;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2020;3520
+414;Totaal;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2021;3090
+415;Totaal;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2022;3170
+416;Totaal;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2023;3270
+417;Totaal;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2024;3240
+418;Totaal;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2014;490
+419;Totaal;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2015;420
+420;Totaal;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2016;440
+421;Totaal;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2017;420
+422;Totaal;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2018;420
+423;Totaal;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2019;470
+424;Totaal;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2020;470
+425;Totaal;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2021;380
+426;Totaal;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2022;410
+427;Totaal;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2023;460
+428;Totaal;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2024;480
+429;Totaal;45 tot 65 jaar;Recidive onbekend;2014;520
+430;Totaal;45 tot 65 jaar;Recidive onbekend;2015;430
+431;Totaal;45 tot 65 jaar;Recidive onbekend;2016;410
+432;Totaal;45 tot 65 jaar;Recidive onbekend;2017;360
+433;Totaal;45 tot 65 jaar;Recidive onbekend;2018;360
+434;Totaal;45 tot 65 jaar;Recidive onbekend;2019;330
+435;Totaal;45 tot 65 jaar;Recidive onbekend;2020;230
+436;Totaal;45 tot 65 jaar;Recidive onbekend;2021;210
+437;Totaal;45 tot 65 jaar;Recidive onbekend;2022;300
+438;Totaal;45 tot 65 jaar;Recidive onbekend;2023;300
+439;Totaal;45 tot 65 jaar;Recidive onbekend;2024;330
+440;Totaal;65 jaar of ouder;Totaal;2014;7970
+441;Totaal;65 jaar of ouder;Totaal;2015;7220
+442;Totaal;65 jaar of ouder;Totaal;2016;6950
+443;Totaal;65 jaar of ouder;Totaal;2017;6320
+444;Totaal;65 jaar of ouder;Totaal;2018;6200
+445;Totaal;65 jaar of ouder;Totaal;2019;5940
+446;Totaal;65 jaar of ouder;Totaal;2020;5210
+447;Totaal;65 jaar of ouder;Totaal;2021;4860
+448;Totaal;65 jaar of ouder;Totaal;2022;5030
+449;Totaal;65 jaar of ouder;Totaal;2023;5020
+450;Totaal;65 jaar of ouder;Totaal;2024;4390
+451;Totaal;65 jaar of ouder;First offender;2014;4760
+452;Totaal;65 jaar of ouder;First offender;2015;4190
+453;Totaal;65 jaar of ouder;First offender;2016;3890
+454;Totaal;65 jaar of ouder;First offender;2017;3380
+455;Totaal;65 jaar of ouder;First offender;2018;3240
+456;Totaal;65 jaar of ouder;First offender;2019;2970
+457;Totaal;65 jaar of ouder;First offender;2020;2540
+458;Totaal;65 jaar of ouder;First offender;2021;2390
+459;Totaal;65 jaar of ouder;First offender;2022;2400
+460;Totaal;65 jaar of ouder;First offender;2023;2370
+461;Totaal;65 jaar of ouder;First offender;2024;1960
+462;Totaal;65 jaar of ouder;Meerpleger;2014;2240
+463;Totaal;65 jaar of ouder;Meerpleger;2015;2080
+464;Totaal;65 jaar of ouder;Meerpleger;2016;2070
+465;Totaal;65 jaar of ouder;Meerpleger;2017;1950
+466;Totaal;65 jaar of ouder;Meerpleger;2018;1930
+467;Totaal;65 jaar of ouder;Meerpleger;2019;1980
+468;Totaal;65 jaar of ouder;Meerpleger;2020;1690
+469;Totaal;65 jaar of ouder;Meerpleger;2021;1520
+470;Totaal;65 jaar of ouder;Meerpleger;2022;1610
+471;Totaal;65 jaar of ouder;Meerpleger;2023;1600
+472;Totaal;65 jaar of ouder;Meerpleger;2024;1410
+473;Totaal;65 jaar of ouder;"Veelpleger; totaal";2014;900
+474;Totaal;65 jaar of ouder;"Veelpleger; totaal";2015;880
+475;Totaal;65 jaar of ouder;"Veelpleger; totaal";2016;950
+476;Totaal;65 jaar of ouder;"Veelpleger; totaal";2017;950
+477;Totaal;65 jaar of ouder;"Veelpleger; totaal";2018;980
+478;Totaal;65 jaar of ouder;"Veelpleger; totaal";2019;960
+479;Totaal;65 jaar of ouder;"Veelpleger; totaal";2020;960
+480;Totaal;65 jaar of ouder;"Veelpleger; totaal";2021;930
+481;Totaal;65 jaar of ouder;"Veelpleger; totaal";2022;990
+482;Totaal;65 jaar of ouder;"Veelpleger; totaal";2023;990
+483;Totaal;65 jaar of ouder;"Veelpleger; totaal";2024;990
+484;Totaal;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2014;690
+485;Totaal;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2015;680
+486;Totaal;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2016;750
+487;Totaal;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2017;750
+488;Totaal;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2018;740
+489;Totaal;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2019;730
+490;Totaal;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2020;730
+491;Totaal;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2021;720
+492;Totaal;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2022;750
+493;Totaal;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2023;750
+494;Totaal;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2024;770
+495;Totaal;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2014;200
+496;Totaal;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2015;190
+497;Totaal;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2016;190
+498;Totaal;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2017;180
+499;Totaal;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2018;220
+500;Totaal;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2019;220
+501;Totaal;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2020;210
+502;Totaal;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2021;190
+503;Totaal;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2022;220
+504;Totaal;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2023;220
+505;Totaal;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2024;200
+506;Totaal;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2014;20
+507;Totaal;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2015;20
+508;Totaal;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2016;10
+509;Totaal;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2017;20
+510;Totaal;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2018;20
+511;Totaal;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2019;10
+512;Totaal;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2020;30
+513;Totaal;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2021;10
+514;Totaal;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2022;10
+515;Totaal;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2023;20
+516;Totaal;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2024;20
+517;Totaal;65 jaar of ouder;Recidive onbekend;2014;70
+518;Totaal;65 jaar of ouder;Recidive onbekend;2015;60
+519;Totaal;65 jaar of ouder;Recidive onbekend;2016;50
+520;Totaal;65 jaar of ouder;Recidive onbekend;2017;40
+521;Totaal;65 jaar of ouder;Recidive onbekend;2018;40
+522;Totaal;65 jaar of ouder;Recidive onbekend;2019;30
+523;Totaal;65 jaar of ouder;Recidive onbekend;2020;20
+524;Totaal;65 jaar of ouder;Recidive onbekend;2021;30
+525;Totaal;65 jaar of ouder;Recidive onbekend;2022;40
+526;Totaal;65 jaar of ouder;Recidive onbekend;2023;50
+527;Totaal;65 jaar of ouder;Recidive onbekend;2024;30
+528;Totaal;Leeftijd onbekend;Totaal;2014;1030
+529;Totaal;Leeftijd onbekend;Totaal;2015;1000
+530;Totaal;Leeftijd onbekend;Totaal;2016;840
+531;Totaal;Leeftijd onbekend;Totaal;2017;940
+532;Totaal;Leeftijd onbekend;Totaal;2018;780
+533;Totaal;Leeftijd onbekend;Totaal;2019;700
+534;Totaal;Leeftijd onbekend;Totaal;2020;740
+535;Totaal;Leeftijd onbekend;Totaal;2021;710
+536;Totaal;Leeftijd onbekend;Totaal;2022;720
+537;Totaal;Leeftijd onbekend;Totaal;2023;610
+538;Totaal;Leeftijd onbekend;Totaal;2024;710
+539;Totaal;Leeftijd onbekend;First offender;2014;650
+540;Totaal;Leeftijd onbekend;First offender;2015;510
+541;Totaal;Leeftijd onbekend;First offender;2016;530
+542;Totaal;Leeftijd onbekend;First offender;2017;470
+543;Totaal;Leeftijd onbekend;First offender;2018;370
+544;Totaal;Leeftijd onbekend;First offender;2019;340
+545;Totaal;Leeftijd onbekend;First offender;2020;310
+546;Totaal;Leeftijd onbekend;First offender;2021;350
+547;Totaal;Leeftijd onbekend;First offender;2022;360
+548;Totaal;Leeftijd onbekend;First offender;2023;290
+549;Totaal;Leeftijd onbekend;First offender;2024;240
+550;Totaal;Leeftijd onbekend;Meerpleger;2014;70
+551;Totaal;Leeftijd onbekend;Meerpleger;2015;60
+552;Totaal;Leeftijd onbekend;Meerpleger;2016;40
+553;Totaal;Leeftijd onbekend;Meerpleger;2017;40
+554;Totaal;Leeftijd onbekend;Meerpleger;2018;30
+555;Totaal;Leeftijd onbekend;Meerpleger;2019;30
+556;Totaal;Leeftijd onbekend;Meerpleger;2020;30
+557;Totaal;Leeftijd onbekend;Meerpleger;2021;30
+558;Totaal;Leeftijd onbekend;Meerpleger;2022;30
+559;Totaal;Leeftijd onbekend;Meerpleger;2023;20
+560;Totaal;Leeftijd onbekend;Meerpleger;2024;30
+561;Totaal;Leeftijd onbekend;"Veelpleger; totaal";2014;10
+562;Totaal;Leeftijd onbekend;"Veelpleger; totaal";2015;0
+563;Totaal;Leeftijd onbekend;"Veelpleger; totaal";2016;0
+564;Totaal;Leeftijd onbekend;"Veelpleger; totaal";2017;0
+565;Totaal;Leeftijd onbekend;"Veelpleger; totaal";2018;0
+566;Totaal;Leeftijd onbekend;"Veelpleger; totaal";2019;0
+567;Totaal;Leeftijd onbekend;"Veelpleger; totaal";2020;0
+568;Totaal;Leeftijd onbekend;"Veelpleger; totaal";2021;0
+569;Totaal;Leeftijd onbekend;"Veelpleger; totaal";2022;0
+570;Totaal;Leeftijd onbekend;"Veelpleger; totaal";2023;0
+571;Totaal;Leeftijd onbekend;"Veelpleger; totaal";2024;0
+572;Totaal;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2014;0
+573;Totaal;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2015;0
+574;Totaal;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2016;0
+575;Totaal;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2017;0
+576;Totaal;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2018;0
+577;Totaal;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2019;0
+578;Totaal;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2020;0
+579;Totaal;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2021;0
+580;Totaal;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2022;0
+581;Totaal;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2023;0
+582;Totaal;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2024;0
+583;Totaal;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2014;0
+584;Totaal;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2015;0
+585;Totaal;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2016;0
+586;Totaal;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2017;0
+587;Totaal;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2018;0
+588;Totaal;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2019;0
+589;Totaal;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2020;0
+590;Totaal;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2021;0
+591;Totaal;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2022;0
+592;Totaal;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2023;0
+593;Totaal;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2024;0
+594;Totaal;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2014;10
+595;Totaal;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2015;0
+596;Totaal;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2016;0
+597;Totaal;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2017;0
+598;Totaal;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2018;0
+599;Totaal;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2019;0
+600;Totaal;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2020;0
+601;Totaal;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2021;0
+602;Totaal;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2022;0
+603;Totaal;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2023;0
+604;Totaal;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2024;0
+605;Totaal;Leeftijd onbekend;Recidive onbekend;2014;300
+606;Totaal;Leeftijd onbekend;Recidive onbekend;2015;430
+607;Totaal;Leeftijd onbekend;Recidive onbekend;2016;260
+608;Totaal;Leeftijd onbekend;Recidive onbekend;2017;430
+609;Totaal;Leeftijd onbekend;Recidive onbekend;2018;380
+610;Totaal;Leeftijd onbekend;Recidive onbekend;2019;330
+611;Totaal;Leeftijd onbekend;Recidive onbekend;2020;400
+612;Totaal;Leeftijd onbekend;Recidive onbekend;2021;330
+613;Totaal;Leeftijd onbekend;Recidive onbekend;2022;330
+614;Totaal;Leeftijd onbekend;Recidive onbekend;2023;290
+615;Totaal;Leeftijd onbekend;Recidive onbekend;2024;440
+616;Mannen;Totaal;Totaal;2014;174400
+617;Mannen;Totaal;Totaal;2015;159940
+618;Mannen;Totaal;Totaal;2016;150090
+619;Mannen;Totaal;Totaal;2017;139090
+620;Mannen;Totaal;Totaal;2018;134220
+621;Mannen;Totaal;Totaal;2019;136280
+622;Mannen;Totaal;Totaal;2020;125820
+623;Mannen;Totaal;Totaal;2021;118150
+624;Mannen;Totaal;Totaal;2022;128510
+625;Mannen;Totaal;Totaal;2023;124320
+626;Mannen;Totaal;Totaal;2024;116760
+627;Mannen;Totaal;First offender;2014;54700
+628;Mannen;Totaal;First offender;2015;49830
+629;Mannen;Totaal;First offender;2016;46630
+630;Mannen;Totaal;First offender;2017;43720
+631;Mannen;Totaal;First offender;2018;41640
+632;Mannen;Totaal;First offender;2019;42740
+633;Mannen;Totaal;First offender;2020;36850
+634;Mannen;Totaal;First offender;2021;35640
+635;Mannen;Totaal;First offender;2022;42040
+636;Mannen;Totaal;First offender;2023;40490
+637;Mannen;Totaal;First offender;2024;36880
+638;Mannen;Totaal;Meerpleger;2014;59630
+639;Mannen;Totaal;Meerpleger;2015;54040
+640;Mannen;Totaal;Meerpleger;2016;50050
+641;Mannen;Totaal;Meerpleger;2017;45680
+642;Mannen;Totaal;Meerpleger;2018;43930
+643;Mannen;Totaal;Meerpleger;2019;44980
+644;Mannen;Totaal;Meerpleger;2020;41960
+645;Mannen;Totaal;Meerpleger;2021;38880
+646;Mannen;Totaal;Meerpleger;2022;41680
+647;Mannen;Totaal;Meerpleger;2023;39920
+648;Mannen;Totaal;Meerpleger;2024;37640
+649;Mannen;Totaal;"Veelpleger; totaal";2014;56660
+650;Mannen;Totaal;"Veelpleger; totaal";2015;53600
+651;Mannen;Totaal;"Veelpleger; totaal";2016;51410
+652;Mannen;Totaal;"Veelpleger; totaal";2017;48060
+653;Mannen;Totaal;"Veelpleger; totaal";2018;46990
+654;Mannen;Totaal;"Veelpleger; totaal";2019;47000
+655;Mannen;Totaal;"Veelpleger; totaal";2020;45880
+656;Mannen;Totaal;"Veelpleger; totaal";2021;42500
+657;Mannen;Totaal;"Veelpleger; totaal";2022;43180
+658;Mannen;Totaal;"Veelpleger; totaal";2023;42280
+659;Mannen;Totaal;"Veelpleger; totaal";2024;40890
+660;Mannen;Totaal;"Veelpleger; 1 delict in verslagjaar";2014;32670
+661;Mannen;Totaal;"Veelpleger; 1 delict in verslagjaar";2015;31430
+662;Mannen;Totaal;"Veelpleger; 1 delict in verslagjaar";2016;30600
+663;Mannen;Totaal;"Veelpleger; 1 delict in verslagjaar";2017;29140
+664;Mannen;Totaal;"Veelpleger; 1 delict in verslagjaar";2018;28280
+665;Mannen;Totaal;"Veelpleger; 1 delict in verslagjaar";2019;27490
+666;Mannen;Totaal;"Veelpleger; 1 delict in verslagjaar";2020;26400
+667;Mannen;Totaal;"Veelpleger; 1 delict in verslagjaar";2021;25130
+668;Mannen;Totaal;"Veelpleger; 1 delict in verslagjaar";2022;25410
+669;Mannen;Totaal;"Veelpleger; 1 delict in verslagjaar";2023;24540
+670;Mannen;Totaal;"Veelpleger; 1 delict in verslagjaar";2024;23830
+671;Mannen;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2014;20930
+672;Mannen;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2015;19280
+673;Mannen;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2016;18240
+674;Mannen;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2017;16590
+675;Mannen;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2018;16280
+676;Mannen;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2019;16890
+677;Mannen;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2020;16670
+678;Mannen;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2021;15160
+679;Mannen;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2022;15250
+680;Mannen;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2023;15080
+681;Mannen;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2024;14640
+682;Mannen;Totaal;"Veelpleger; 6 of meer delicten in jaar";2014;3050
+683;Mannen;Totaal;"Veelpleger; 6 of meer delicten in jaar";2015;2880
+684;Mannen;Totaal;"Veelpleger; 6 of meer delicten in jaar";2016;2580
+685;Mannen;Totaal;"Veelpleger; 6 of meer delicten in jaar";2017;2320
+686;Mannen;Totaal;"Veelpleger; 6 of meer delicten in jaar";2018;2430
+687;Mannen;Totaal;"Veelpleger; 6 of meer delicten in jaar";2019;2620
+688;Mannen;Totaal;"Veelpleger; 6 of meer delicten in jaar";2020;2810
+689;Mannen;Totaal;"Veelpleger; 6 of meer delicten in jaar";2021;2210
+690;Mannen;Totaal;"Veelpleger; 6 of meer delicten in jaar";2022;2530
+691;Mannen;Totaal;"Veelpleger; 6 of meer delicten in jaar";2023;2670
+692;Mannen;Totaal;"Veelpleger; 6 of meer delicten in jaar";2024;2420
+693;Mannen;Totaal;Recidive onbekend;2014;3410
+694;Mannen;Totaal;Recidive onbekend;2015;2480
+695;Mannen;Totaal;Recidive onbekend;2016;2000
+696;Mannen;Totaal;Recidive onbekend;2017;1620
+697;Mannen;Totaal;Recidive onbekend;2018;1670
+698;Mannen;Totaal;Recidive onbekend;2019;1560
+699;Mannen;Totaal;Recidive onbekend;2020;1140
+700;Mannen;Totaal;Recidive onbekend;2021;1130
+701;Mannen;Totaal;Recidive onbekend;2022;1610
+702;Mannen;Totaal;Recidive onbekend;2023;1630
+703;Mannen;Totaal;Recidive onbekend;2024;1360
+704;Mannen;12 tot 18 jaar;Totaal;2014;18290
+705;Mannen;12 tot 18 jaar;Totaal;2015;17800
+706;Mannen;12 tot 18 jaar;Totaal;2016;16550
+707;Mannen;12 tot 18 jaar;Totaal;2017;14920
+708;Mannen;12 tot 18 jaar;Totaal;2018;13200
+709;Mannen;12 tot 18 jaar;Totaal;2019;14780
+710;Mannen;12 tot 18 jaar;Totaal;2020;13110
+711;Mannen;12 tot 18 jaar;Totaal;2021;12210
+712;Mannen;12 tot 18 jaar;Totaal;2022;13200
+713;Mannen;12 tot 18 jaar;Totaal;2023;13020
+714;Mannen;12 tot 18 jaar;Totaal;2024;12440
+715;Mannen;12 tot 18 jaar;First offender;2014;9590
+716;Mannen;12 tot 18 jaar;First offender;2015;9380
+717;Mannen;12 tot 18 jaar;First offender;2016;9000
+718;Mannen;12 tot 18 jaar;First offender;2017;8400
+719;Mannen;12 tot 18 jaar;First offender;2018;7380
+720;Mannen;12 tot 18 jaar;First offender;2019;8370
+721;Mannen;12 tot 18 jaar;First offender;2020;7190
+722;Mannen;12 tot 18 jaar;First offender;2021;6920
+723;Mannen;12 tot 18 jaar;First offender;2022;7910
+724;Mannen;12 tot 18 jaar;First offender;2023;7750
+725;Mannen;12 tot 18 jaar;First offender;2024;7310
+726;Mannen;12 tot 18 jaar;Meerpleger;2014;6860
+727;Mannen;12 tot 18 jaar;Meerpleger;2015;6660
+728;Mannen;12 tot 18 jaar;Meerpleger;2016;5970
+729;Mannen;12 tot 18 jaar;Meerpleger;2017;5230
+730;Mannen;12 tot 18 jaar;Meerpleger;2018;4620
+731;Mannen;12 tot 18 jaar;Meerpleger;2019;5190
+732;Mannen;12 tot 18 jaar;Meerpleger;2020;4860
+733;Mannen;12 tot 18 jaar;Meerpleger;2021;4300
+734;Mannen;12 tot 18 jaar;Meerpleger;2022;4300
+735;Mannen;12 tot 18 jaar;Meerpleger;2023;4320
+736;Mannen;12 tot 18 jaar;Meerpleger;2024;4140
+737;Mannen;12 tot 18 jaar;"Veelpleger; totaal";2014;1770
+738;Mannen;12 tot 18 jaar;"Veelpleger; totaal";2015;1690
+739;Mannen;12 tot 18 jaar;"Veelpleger; totaal";2016;1520
+740;Mannen;12 tot 18 jaar;"Veelpleger; totaal";2017;1250
+741;Mannen;12 tot 18 jaar;"Veelpleger; totaal";2018;1150
+742;Mannen;12 tot 18 jaar;"Veelpleger; totaal";2019;1180
+743;Mannen;12 tot 18 jaar;"Veelpleger; totaal";2020;1030
+744;Mannen;12 tot 18 jaar;"Veelpleger; totaal";2021;960
+745;Mannen;12 tot 18 jaar;"Veelpleger; totaal";2022;920
+746;Mannen;12 tot 18 jaar;"Veelpleger; totaal";2023;880
+747;Mannen;12 tot 18 jaar;"Veelpleger; totaal";2024;930
+748;Mannen;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2014;440
+749;Mannen;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2015;400
+750;Mannen;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2016;400
+751;Mannen;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2017;320
+752;Mannen;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2018;280
+753;Mannen;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2019;240
+754;Mannen;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2020;240
+755;Mannen;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2021;270
+756;Mannen;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2022;220
+757;Mannen;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2023;200
+758;Mannen;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2024;230
+759;Mannen;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2014;1060
+760;Mannen;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2015;1020
+761;Mannen;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2016;900
+762;Mannen;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2017;740
+763;Mannen;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2018;640
+764;Mannen;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2019;680
+765;Mannen;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2020;590
+766;Mannen;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2021;540
+767;Mannen;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2022;530
+768;Mannen;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2023;520
+769;Mannen;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2024;500
+770;Mannen;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2014;260
+771;Mannen;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2015;270
+772;Mannen;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2016;220
+773;Mannen;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2017;190
+774;Mannen;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2018;230
+775;Mannen;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2019;250
+776;Mannen;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2020;190
+777;Mannen;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2021;160
+778;Mannen;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2022;170
+779;Mannen;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2023;160
+780;Mannen;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2024;200
+781;Mannen;12 tot 18 jaar;Recidive onbekend;2014;70
+782;Mannen;12 tot 18 jaar;Recidive onbekend;2015;70
+783;Mannen;12 tot 18 jaar;Recidive onbekend;2016;60
+784;Mannen;12 tot 18 jaar;Recidive onbekend;2017;40
+785;Mannen;12 tot 18 jaar;Recidive onbekend;2018;50
+786;Mannen;12 tot 18 jaar;Recidive onbekend;2019;40
+787;Mannen;12 tot 18 jaar;Recidive onbekend;2020;20
+788;Mannen;12 tot 18 jaar;Recidive onbekend;2021;40
+789;Mannen;12 tot 18 jaar;Recidive onbekend;2022;70
+790;Mannen;12 tot 18 jaar;Recidive onbekend;2023;60
+791;Mannen;12 tot 18 jaar;Recidive onbekend;2024;50
+792;Mannen;18 tot 23 jaar;Totaal;2014;29550
+793;Mannen;18 tot 23 jaar;Totaal;2015;26240
+794;Mannen;18 tot 23 jaar;Totaal;2016;24440
+795;Mannen;18 tot 23 jaar;Totaal;2017;22730
+796;Mannen;18 tot 23 jaar;Totaal;2018;21620
+797;Mannen;18 tot 23 jaar;Totaal;2019;22690
+798;Mannen;18 tot 23 jaar;Totaal;2020;22050
+799;Mannen;18 tot 23 jaar;Totaal;2021;20790
+800;Mannen;18 tot 23 jaar;Totaal;2022;22020
+801;Mannen;18 tot 23 jaar;Totaal;2023;19600
+802;Mannen;18 tot 23 jaar;Totaal;2024;18230
+803;Mannen;18 tot 23 jaar;First offender;2014;9640
+804;Mannen;18 tot 23 jaar;First offender;2015;8810
+805;Mannen;18 tot 23 jaar;First offender;2016;8500
+806;Mannen;18 tot 23 jaar;First offender;2017;8340
+807;Mannen;18 tot 23 jaar;First offender;2018;7970
+808;Mannen;18 tot 23 jaar;First offender;2019;8580
+809;Mannen;18 tot 23 jaar;First offender;2020;7840
+810;Mannen;18 tot 23 jaar;First offender;2021;7890
+811;Mannen;18 tot 23 jaar;First offender;2022;9220
+812;Mannen;18 tot 23 jaar;First offender;2023;8220
+813;Mannen;18 tot 23 jaar;First offender;2024;7500
+814;Mannen;18 tot 23 jaar;Meerpleger;2014;11790
+815;Mannen;18 tot 23 jaar;Meerpleger;2015;10340
+816;Mannen;18 tot 23 jaar;Meerpleger;2016;9570
+817;Mannen;18 tot 23 jaar;Meerpleger;2017;8800
+818;Mannen;18 tot 23 jaar;Meerpleger;2018;8510
+819;Mannen;18 tot 23 jaar;Meerpleger;2019;9030
+820;Mannen;18 tot 23 jaar;Meerpleger;2020;8990
+821;Mannen;18 tot 23 jaar;Meerpleger;2021;8370
+822;Mannen;18 tot 23 jaar;Meerpleger;2022;8380
+823;Mannen;18 tot 23 jaar;Meerpleger;2023;7440
+824;Mannen;18 tot 23 jaar;Meerpleger;2024;7070
+825;Mannen;18 tot 23 jaar;"Veelpleger; totaal";2014;7360
+826;Mannen;18 tot 23 jaar;"Veelpleger; totaal";2015;6610
+827;Mannen;18 tot 23 jaar;"Veelpleger; totaal";2016;6020
+828;Mannen;18 tot 23 jaar;"Veelpleger; totaal";2017;5310
+829;Mannen;18 tot 23 jaar;"Veelpleger; totaal";2018;4890
+830;Mannen;18 tot 23 jaar;"Veelpleger; totaal";2019;4870
+831;Mannen;18 tot 23 jaar;"Veelpleger; totaal";2020;5000
+832;Mannen;18 tot 23 jaar;"Veelpleger; totaal";2021;4340
+833;Mannen;18 tot 23 jaar;"Veelpleger; totaal";2022;4150
+834;Mannen;18 tot 23 jaar;"Veelpleger; totaal";2023;3680
+835;Mannen;18 tot 23 jaar;"Veelpleger; totaal";2024;3430
+836;Mannen;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2014;3280
+837;Mannen;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2015;2960
+838;Mannen;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2016;2740
+839;Mannen;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2017;2490
+840;Mannen;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2018;2210
+841;Mannen;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2019;2050
+842;Mannen;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2020;2000
+843;Mannen;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2021;1880
+844;Mannen;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2022;1830
+845;Mannen;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2023;1600
+846;Mannen;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2024;1450
+847;Mannen;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2014;3540
+848;Mannen;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2015;3120
+849;Mannen;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2016;2860
+850;Mannen;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2017;2430
+851;Mannen;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2018;2300
+852;Mannen;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2019;2410
+853;Mannen;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2020;2540
+854;Mannen;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2021;2100
+855;Mannen;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2022;1960
+856;Mannen;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2023;1750
+857;Mannen;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2024;1690
+858;Mannen;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2014;550
+859;Mannen;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2015;530
+860;Mannen;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2016;430
+861;Mannen;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2017;390
+862;Mannen;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2018;380
+863;Mannen;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2019;410
+864;Mannen;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2020;460
+865;Mannen;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2021;360
+866;Mannen;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2022;360
+867;Mannen;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2023;330
+868;Mannen;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2024;300
+869;Mannen;18 tot 23 jaar;Recidive onbekend;2014;760
+870;Mannen;18 tot 23 jaar;Recidive onbekend;2015;480
+871;Mannen;18 tot 23 jaar;Recidive onbekend;2016;340
+872;Mannen;18 tot 23 jaar;Recidive onbekend;2017;280
+873;Mannen;18 tot 23 jaar;Recidive onbekend;2018;250
+874;Mannen;18 tot 23 jaar;Recidive onbekend;2019;210
+875;Mannen;18 tot 23 jaar;Recidive onbekend;2020;220
+876;Mannen;18 tot 23 jaar;Recidive onbekend;2021;190
+877;Mannen;18 tot 23 jaar;Recidive onbekend;2022;260
+878;Mannen;18 tot 23 jaar;Recidive onbekend;2023;260
+879;Mannen;18 tot 23 jaar;Recidive onbekend;2024;230
+880;Mannen;23 tot 45 jaar;Totaal;2014;85380
+881;Mannen;23 tot 45 jaar;Totaal;2015;77850
+882;Mannen;23 tot 45 jaar;Totaal;2016;72990
+883;Mannen;23 tot 45 jaar;Totaal;2017;68210
+884;Mannen;23 tot 45 jaar;Totaal;2018;67260
+885;Mannen;23 tot 45 jaar;Totaal;2019;67640
+886;Mannen;23 tot 45 jaar;Totaal;2020;62790
+887;Mannen;23 tot 45 jaar;Totaal;2021;59410
+888;Mannen;23 tot 45 jaar;Totaal;2022;66320
+889;Mannen;23 tot 45 jaar;Totaal;2023;65350
+890;Mannen;23 tot 45 jaar;Totaal;2024;61440
+891;Mannen;23 tot 45 jaar;First offender;2014;20190
+892;Mannen;23 tot 45 jaar;First offender;2015;18370
+893;Mannen;23 tot 45 jaar;First offender;2016;17060
+894;Mannen;23 tot 45 jaar;First offender;2017;16340
+895;Mannen;23 tot 45 jaar;First offender;2018;16380
+896;Mannen;23 tot 45 jaar;First offender;2019;16560
+897;Mannen;23 tot 45 jaar;First offender;2020;14060
+898;Mannen;23 tot 45 jaar;First offender;2021;13500
+899;Mannen;23 tot 45 jaar;First offender;2022;17130
+900;Mannen;23 tot 45 jaar;First offender;2023;17200
+901;Mannen;23 tot 45 jaar;First offender;2024;15580
+902;Mannen;23 tot 45 jaar;Meerpleger;2014;28420
+903;Mannen;23 tot 45 jaar;Meerpleger;2015;25410
+904;Mannen;23 tot 45 jaar;Meerpleger;2016;23520
+905;Mannen;23 tot 45 jaar;Meerpleger;2017;21670
+906;Mannen;23 tot 45 jaar;Meerpleger;2018;21180
+907;Mannen;23 tot 45 jaar;Meerpleger;2019;21250
+908;Mannen;23 tot 45 jaar;Meerpleger;2020;19900
+909;Mannen;23 tot 45 jaar;Meerpleger;2021;18670
+910;Mannen;23 tot 45 jaar;Meerpleger;2022;20980
+911;Mannen;23 tot 45 jaar;Meerpleger;2023;20560
+912;Mannen;23 tot 45 jaar;Meerpleger;2024;19360
+913;Mannen;23 tot 45 jaar;"Veelpleger; totaal";2014;34720
+914;Mannen;23 tot 45 jaar;"Veelpleger; totaal";2015;32610
+915;Mannen;23 tot 45 jaar;"Veelpleger; totaal";2016;31220
+916;Mannen;23 tot 45 jaar;"Veelpleger; totaal";2017;29250
+917;Mannen;23 tot 45 jaar;"Veelpleger; totaal";2018;28670
+918;Mannen;23 tot 45 jaar;"Veelpleger; totaal";2019;28860
+919;Mannen;23 tot 45 jaar;"Veelpleger; totaal";2020;28170
+920;Mannen;23 tot 45 jaar;"Veelpleger; totaal";2021;26530
+921;Mannen;23 tot 45 jaar;"Veelpleger; totaal";2022;27220
+922;Mannen;23 tot 45 jaar;"Veelpleger; totaal";2023;26580
+923;Mannen;23 tot 45 jaar;"Veelpleger; totaal";2024;25670
+924;Mannen;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2014;20300
+925;Mannen;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2015;19420
+926;Mannen;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2016;18770
+927;Mannen;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2017;17840
+928;Mannen;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2018;17330
+929;Mannen;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2019;17060
+930;Mannen;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2020;16310
+931;Mannen;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2021;15630
+932;Mannen;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2022;15920
+933;Mannen;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2023;15190
+934;Mannen;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2024;14880
+935;Mannen;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2014;12650
+936;Mannen;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2015;11500
+937;Mannen;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2016;10940
+938;Mannen;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2017;10070
+939;Mannen;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2018;9930
+940;Mannen;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2019;10280
+941;Mannen;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2020;10160
+942;Mannen;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2021;9560
+943;Mannen;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2022;9690
+944;Mannen;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2023;9650
+945;Mannen;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2024;9320
+946;Mannen;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2014;1770
+947;Mannen;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2015;1680
+948;Mannen;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2016;1510
+949;Mannen;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2017;1340
+950;Mannen;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2018;1410
+951;Mannen;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2019;1520
+952;Mannen;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2020;1700
+953;Mannen;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2021;1340
+954;Mannen;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2022;1620
+955;Mannen;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2023;1740
+956;Mannen;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2024;1480
+957;Mannen;23 tot 45 jaar;Recidive onbekend;2014;2050
+958;Mannen;23 tot 45 jaar;Recidive onbekend;2015;1470
+959;Mannen;23 tot 45 jaar;Recidive onbekend;2016;1200
+960;Mannen;23 tot 45 jaar;Recidive onbekend;2017;940
+961;Mannen;23 tot 45 jaar;Recidive onbekend;2018;1030
+962;Mannen;23 tot 45 jaar;Recidive onbekend;2019;970
+963;Mannen;23 tot 45 jaar;Recidive onbekend;2020;670
+964;Mannen;23 tot 45 jaar;Recidive onbekend;2021;710
+965;Mannen;23 tot 45 jaar;Recidive onbekend;2022;980
+966;Mannen;23 tot 45 jaar;Recidive onbekend;2023;1010
+967;Mannen;23 tot 45 jaar;Recidive onbekend;2024;830
+968;Mannen;45 tot 65 jaar;Totaal;2014;34640
+969;Mannen;45 tot 65 jaar;Totaal;2015;32200
+970;Mannen;45 tot 65 jaar;Totaal;2016;30490
+971;Mannen;45 tot 65 jaar;Totaal;2017;28140
+972;Mannen;45 tot 65 jaar;Totaal;2018;27280
+973;Mannen;45 tot 65 jaar;Totaal;2019;26480
+974;Mannen;45 tot 65 jaar;Totaal;2020;23720
+975;Mannen;45 tot 65 jaar;Totaal;2021;21820
+976;Mannen;45 tot 65 jaar;Totaal;2022;22850
+977;Mannen;45 tot 65 jaar;Totaal;2023;22380
+978;Mannen;45 tot 65 jaar;Totaal;2024;21120
+979;Mannen;45 tot 65 jaar;First offender;2014;11470
+980;Mannen;45 tot 65 jaar;First offender;2015;9940
+981;Mannen;45 tot 65 jaar;First offender;2016;8960
+982;Mannen;45 tot 65 jaar;First offender;2017;7910
+983;Mannen;45 tot 65 jaar;First offender;2018;7420
+984;Mannen;45 tot 65 jaar;First offender;2019;6960
+985;Mannen;45 tot 65 jaar;First offender;2020;5750
+986;Mannen;45 tot 65 jaar;First offender;2021;5420
+987;Mannen;45 tot 65 jaar;First offender;2022;5820
+988;Mannen;45 tot 65 jaar;First offender;2023;5500
+989;Mannen;45 tot 65 jaar;First offender;2024;4960
+990;Mannen;45 tot 65 jaar;Meerpleger;2014;10740
+991;Mannen;45 tot 65 jaar;Meerpleger;2015;9970
+992;Mannen;45 tot 65 jaar;Meerpleger;2016;9340
+993;Mannen;45 tot 65 jaar;Meerpleger;2017;8490
+994;Mannen;45 tot 65 jaar;Meerpleger;2018;8090
+995;Mannen;45 tot 65 jaar;Meerpleger;2019;7940
+996;Mannen;45 tot 65 jaar;Meerpleger;2020;6900
+997;Mannen;45 tot 65 jaar;Meerpleger;2021;6330
+998;Mannen;45 tot 65 jaar;Meerpleger;2022;6730
+999;Mannen;45 tot 65 jaar;Meerpleger;2023;6340
+1000;Mannen;45 tot 65 jaar;Meerpleger;2024;5940
+1001;Mannen;45 tot 65 jaar;"Veelpleger; totaal";2014;12020
+1002;Mannen;45 tot 65 jaar;"Veelpleger; totaal";2015;11940
+1003;Mannen;45 tot 65 jaar;"Veelpleger; totaal";2016;11870
+1004;Mannen;45 tot 65 jaar;"Veelpleger; totaal";2017;11450
+1005;Mannen;45 tot 65 jaar;"Veelpleger; totaal";2018;11470
+1006;Mannen;45 tot 65 jaar;"Veelpleger; totaal";2019;11300
+1007;Mannen;45 tot 65 jaar;"Veelpleger; totaal";2020;10870
+1008;Mannen;45 tot 65 jaar;"Veelpleger; totaal";2021;9890
+1009;Mannen;45 tot 65 jaar;"Veelpleger; totaal";2022;10050
+1010;Mannen;45 tot 65 jaar;"Veelpleger; totaal";2023;10300
+1011;Mannen;45 tot 65 jaar;"Veelpleger; totaal";2024;9990
+1012;Mannen;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2014;8060
+1013;Mannen;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2015;8070
+1014;Mannen;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2016;8080
+1015;Mannen;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2017;7850
+1016;Mannen;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2018;7860
+1017;Mannen;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2019;7550
+1018;Mannen;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2020;7230
+1019;Mannen;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2021;6730
+1020;Mannen;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2022;6800
+1021;Mannen;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2023;6900
+1022;Mannen;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2024;6610
+1023;Mannen;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2014;3510
+1024;Mannen;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2015;3480
+1025;Mannen;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2016;3380
+1026;Mannen;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2017;3210
+1027;Mannen;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2018;3230
+1028;Mannen;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2019;3320
+1029;Mannen;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2020;3200
+1030;Mannen;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2021;2810
+1031;Mannen;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2022;2880
+1032;Mannen;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2023;2970
+1033;Mannen;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2024;2950
+1034;Mannen;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2014;450
+1035;Mannen;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2015;390
+1036;Mannen;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2016;410
+1037;Mannen;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2017;390
+1038;Mannen;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2018;380
+1039;Mannen;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2019;430
+1040;Mannen;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2020;430
+1041;Mannen;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2021;340
+1042;Mannen;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2022;370
+1043;Mannen;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2023;420
+1044;Mannen;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2024;430
+1045;Mannen;45 tot 65 jaar;Recidive onbekend;2014;410
+1046;Mannen;45 tot 65 jaar;Recidive onbekend;2015;350
+1047;Mannen;45 tot 65 jaar;Recidive onbekend;2016;330
+1048;Mannen;45 tot 65 jaar;Recidive onbekend;2017;300
+1049;Mannen;45 tot 65 jaar;Recidive onbekend;2018;290
+1050;Mannen;45 tot 65 jaar;Recidive onbekend;2019;280
+1051;Mannen;45 tot 65 jaar;Recidive onbekend;2020;190
+1052;Mannen;45 tot 65 jaar;Recidive onbekend;2021;170
+1053;Mannen;45 tot 65 jaar;Recidive onbekend;2022;240
+1054;Mannen;45 tot 65 jaar;Recidive onbekend;2023;240
+1055;Mannen;45 tot 65 jaar;Recidive onbekend;2024;220
+1056;Mannen;65 jaar of ouder;Totaal;2014;5920
+1057;Mannen;65 jaar of ouder;Totaal;2015;5330
+1058;Mannen;65 jaar of ouder;Totaal;2016;5130
+1059;Mannen;65 jaar of ouder;Totaal;2017;4650
+1060;Mannen;65 jaar of ouder;Totaal;2018;4550
+1061;Mannen;65 jaar of ouder;Totaal;2019;4370
+1062;Mannen;65 jaar of ouder;Totaal;2020;3880
+1063;Mannen;65 jaar of ouder;Totaal;2021;3630
+1064;Mannen;65 jaar of ouder;Totaal;2022;3810
+1065;Mannen;65 jaar of ouder;Totaal;2023;3740
+1066;Mannen;65 jaar of ouder;Totaal;2024;3320
+1067;Mannen;65 jaar of ouder;First offender;2014;3340
+1068;Mannen;65 jaar of ouder;First offender;2015;2920
+1069;Mannen;65 jaar of ouder;First offender;2016;2700
+1070;Mannen;65 jaar of ouder;First offender;2017;2360
+1071;Mannen;65 jaar of ouder;First offender;2018;2220
+1072;Mannen;65 jaar of ouder;First offender;2019;2020
+1073;Mannen;65 jaar of ouder;First offender;2020;1770
+1074;Mannen;65 jaar of ouder;First offender;2021;1650
+1075;Mannen;65 jaar of ouder;First offender;2022;1680
+1076;Mannen;65 jaar of ouder;First offender;2023;1620
+1077;Mannen;65 jaar of ouder;First offender;2024;1340
+1078;Mannen;65 jaar of ouder;Meerpleger;2014;1760
+1079;Mannen;65 jaar of ouder;Meerpleger;2015;1620
+1080;Mannen;65 jaar of ouder;Meerpleger;2016;1610
+1081;Mannen;65 jaar of ouder;Meerpleger;2017;1460
+1082;Mannen;65 jaar of ouder;Meerpleger;2018;1500
+1083;Mannen;65 jaar of ouder;Meerpleger;2019;1540
+1084;Mannen;65 jaar of ouder;Meerpleger;2020;1290
+1085;Mannen;65 jaar of ouder;Meerpleger;2021;1180
+1086;Mannen;65 jaar of ouder;Meerpleger;2022;1260
+1087;Mannen;65 jaar of ouder;Meerpleger;2023;1240
+1088;Mannen;65 jaar of ouder;Meerpleger;2024;1100
+1089;Mannen;65 jaar of ouder;"Veelpleger; totaal";2014;780
+1090;Mannen;65 jaar of ouder;"Veelpleger; totaal";2015;740
+1091;Mannen;65 jaar of ouder;"Veelpleger; totaal";2016;780
+1092;Mannen;65 jaar of ouder;"Veelpleger; totaal";2017;800
+1093;Mannen;65 jaar of ouder;"Veelpleger; totaal";2018;800
+1094;Mannen;65 jaar of ouder;"Veelpleger; totaal";2019;790
+1095;Mannen;65 jaar of ouder;"Veelpleger; totaal";2020;810
+1096;Mannen;65 jaar of ouder;"Veelpleger; totaal";2021;790
+1097;Mannen;65 jaar of ouder;"Veelpleger; totaal";2022;850
+1098;Mannen;65 jaar of ouder;"Veelpleger; totaal";2023;850
+1099;Mannen;65 jaar of ouder;"Veelpleger; totaal";2024;850
+1100;Mannen;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2014;590
+1101;Mannen;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2015;570
+1102;Mannen;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2016;620
+1103;Mannen;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2017;640
+1104;Mannen;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2018;600
+1105;Mannen;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2019;590
+1106;Mannen;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2020;610
+1107;Mannen;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2021;620
+1108;Mannen;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2022;640
+1109;Mannen;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2023;650
+1110;Mannen;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2024;660
+1111;Mannen;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2014;170
+1112;Mannen;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2015;160
+1113;Mannen;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2016;160
+1114;Mannen;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2017;140
+1115;Mannen;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2018;180
+1116;Mannen;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2019;190
+1117;Mannen;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2020;180
+1118;Mannen;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2021;160
+1119;Mannen;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2022;190
+1120;Mannen;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2023;180
+1121;Mannen;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2024;180
+1122;Mannen;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2014;20
+1123;Mannen;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2015;10
+1124;Mannen;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2016;10
+1125;Mannen;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2017;20
+1126;Mannen;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2018;20
+1127;Mannen;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2019;10
+1128;Mannen;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2020;20
+1129;Mannen;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2021;10
+1130;Mannen;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2022;10
+1131;Mannen;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2023;20
+1132;Mannen;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2024;20
+1133;Mannen;65 jaar of ouder;Recidive onbekend;2014;50
+1134;Mannen;65 jaar of ouder;Recidive onbekend;2015;40
+1135;Mannen;65 jaar of ouder;Recidive onbekend;2016;30
+1136;Mannen;65 jaar of ouder;Recidive onbekend;2017;30
+1137;Mannen;65 jaar of ouder;Recidive onbekend;2018;30
+1138;Mannen;65 jaar of ouder;Recidive onbekend;2019;20
+1139;Mannen;65 jaar of ouder;Recidive onbekend;2020;10
+1140;Mannen;65 jaar of ouder;Recidive onbekend;2021;10
+1141;Mannen;65 jaar of ouder;Recidive onbekend;2022;20
+1142;Mannen;65 jaar of ouder;Recidive onbekend;2023;30
+1143;Mannen;65 jaar of ouder;Recidive onbekend;2024;20
+1144;Mannen;Leeftijd onbekend;Totaal;2014;620
+1145;Mannen;Leeftijd onbekend;Totaal;2015;520
+1146;Mannen;Leeftijd onbekend;Totaal;2016;500
+1147;Mannen;Leeftijd onbekend;Totaal;2017;430
+1148;Mannen;Leeftijd onbekend;Totaal;2018;320
+1149;Mannen;Leeftijd onbekend;Totaal;2019;310
+1150;Mannen;Leeftijd onbekend;Totaal;2020;280
+1151;Mannen;Leeftijd onbekend;Totaal;2021;300
+1152;Mannen;Leeftijd onbekend;Totaal;2022;320
+1153;Mannen;Leeftijd onbekend;Totaal;2023;240
+1154;Mannen;Leeftijd onbekend;Totaal;2024;220
+1155;Mannen;Leeftijd onbekend;First offender;2014;480
+1156;Mannen;Leeftijd onbekend;First offender;2015;400
+1157;Mannen;Leeftijd onbekend;First offender;2016;420
+1158;Mannen;Leeftijd onbekend;First offender;2017;370
+1159;Mannen;Leeftijd onbekend;First offender;2018;270
+1160;Mannen;Leeftijd onbekend;First offender;2019;260
+1161;Mannen;Leeftijd onbekend;First offender;2020;240
+1162;Mannen;Leeftijd onbekend;First offender;2021;260
+1163;Mannen;Leeftijd onbekend;First offender;2022;270
+1164;Mannen;Leeftijd onbekend;First offender;2023;200
+1165;Mannen;Leeftijd onbekend;First offender;2024;180
+1166;Mannen;Leeftijd onbekend;Meerpleger;2014;60
+1167;Mannen;Leeftijd onbekend;Meerpleger;2015;50
+1168;Mannen;Leeftijd onbekend;Meerpleger;2016;40
+1169;Mannen;Leeftijd onbekend;Meerpleger;2017;40
+1170;Mannen;Leeftijd onbekend;Meerpleger;2018;30
+1171;Mannen;Leeftijd onbekend;Meerpleger;2019;20
+1172;Mannen;Leeftijd onbekend;Meerpleger;2020;20
+1173;Mannen;Leeftijd onbekend;Meerpleger;2021;30
+1174;Mannen;Leeftijd onbekend;Meerpleger;2022;30
+1175;Mannen;Leeftijd onbekend;Meerpleger;2023;20
+1176;Mannen;Leeftijd onbekend;Meerpleger;2024;20
+1177;Mannen;Leeftijd onbekend;"Veelpleger; totaal";2014;10
+1178;Mannen;Leeftijd onbekend;"Veelpleger; totaal";2015;0
+1179;Mannen;Leeftijd onbekend;"Veelpleger; totaal";2016;0
+1180;Mannen;Leeftijd onbekend;"Veelpleger; totaal";2017;0
+1181;Mannen;Leeftijd onbekend;"Veelpleger; totaal";2018;0
+1182;Mannen;Leeftijd onbekend;"Veelpleger; totaal";2019;0
+1183;Mannen;Leeftijd onbekend;"Veelpleger; totaal";2020;0
+1184;Mannen;Leeftijd onbekend;"Veelpleger; totaal";2021;0
+1185;Mannen;Leeftijd onbekend;"Veelpleger; totaal";2022;0
+1186;Mannen;Leeftijd onbekend;"Veelpleger; totaal";2023;0
+1187;Mannen;Leeftijd onbekend;"Veelpleger; totaal";2024;0
+1188;Mannen;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2014;0
+1189;Mannen;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2015;0
+1190;Mannen;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2016;0
+1191;Mannen;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2017;0
+1192;Mannen;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2018;0
+1193;Mannen;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2019;0
+1194;Mannen;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2020;0
+1195;Mannen;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2021;0
+1196;Mannen;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2022;0
+1197;Mannen;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2023;0
+1198;Mannen;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2024;0
+1199;Mannen;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2014;0
+1200;Mannen;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2015;0
+1201;Mannen;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2016;0
+1202;Mannen;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2017;0
+1203;Mannen;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2018;0
+1204;Mannen;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2019;0
+1205;Mannen;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2020;0
+1206;Mannen;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2021;0
+1207;Mannen;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2022;0
+1208;Mannen;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2023;0
+1209;Mannen;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2024;0
+1210;Mannen;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2014;10
+1211;Mannen;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2015;0
+1212;Mannen;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2016;0
+1213;Mannen;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2017;0
+1214;Mannen;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2018;0
+1215;Mannen;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2019;0
+1216;Mannen;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2020;0
+1217;Mannen;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2021;0
+1218;Mannen;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2022;0
+1219;Mannen;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2023;0
+1220;Mannen;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2024;0
+1221;Mannen;Leeftijd onbekend;Recidive onbekend;2014;70
+1222;Mannen;Leeftijd onbekend;Recidive onbekend;2015;60
+1223;Mannen;Leeftijd onbekend;Recidive onbekend;2016;40
+1224;Mannen;Leeftijd onbekend;Recidive onbekend;2017;30
+1225;Mannen;Leeftijd onbekend;Recidive onbekend;2018;10
+1226;Mannen;Leeftijd onbekend;Recidive onbekend;2019;30
+1227;Mannen;Leeftijd onbekend;Recidive onbekend;2020;20
+1228;Mannen;Leeftijd onbekend;Recidive onbekend;2021;10
+1229;Mannen;Leeftijd onbekend;Recidive onbekend;2022;20
+1230;Mannen;Leeftijd onbekend;Recidive onbekend;2023;20
+1231;Mannen;Leeftijd onbekend;Recidive onbekend;2024;10
+1232;Vrouwen;Totaal;Totaal;2014;42170
+1233;Vrouwen;Totaal;Totaal;2015;38070
+1234;Vrouwen;Totaal;Totaal;2016;35000
+1235;Vrouwen;Totaal;Totaal;2017;31540
+1236;Vrouwen;Totaal;Totaal;2018;29810
+1237;Vrouwen;Totaal;Totaal;2019;29890
+1238;Vrouwen;Totaal;Totaal;2020;26490
+1239;Vrouwen;Totaal;Totaal;2021;23460
+1240;Vrouwen;Totaal;Totaal;2022;26690
+1241;Vrouwen;Totaal;Totaal;2023;25480
+1242;Vrouwen;Totaal;Totaal;2024;22590
+1243;Vrouwen;Totaal;First offender;2014;22470
+1244;Vrouwen;Totaal;First offender;2015;19990
+1245;Vrouwen;Totaal;First offender;2016;18350
+1246;Vrouwen;Totaal;First offender;2017;16300
+1247;Vrouwen;Totaal;First offender;2018;15310
+1248;Vrouwen;Totaal;First offender;2019;15460
+1249;Vrouwen;Totaal;First offender;2020;13160
+1250;Vrouwen;Totaal;First offender;2021;12050
+1251;Vrouwen;Totaal;First offender;2022;14550
+1252;Vrouwen;Totaal;First offender;2023;13820
+1253;Vrouwen;Totaal;First offender;2024;11620
+1254;Vrouwen;Totaal;Meerpleger;2014;14170
+1255;Vrouwen;Totaal;Meerpleger;2015;12950
+1256;Vrouwen;Totaal;Meerpleger;2016;11720
+1257;Vrouwen;Totaal;Meerpleger;2017;10780
+1258;Vrouwen;Totaal;Meerpleger;2018;10030
+1259;Vrouwen;Totaal;Meerpleger;2019;10030
+1260;Vrouwen;Totaal;Meerpleger;2020;9230
+1261;Vrouwen;Totaal;Meerpleger;2021;7920
+1262;Vrouwen;Totaal;Meerpleger;2022;8340
+1263;Vrouwen;Totaal;Meerpleger;2023;7940
+1264;Vrouwen;Totaal;Meerpleger;2024;7350
+1265;Vrouwen;Totaal;"Veelpleger; totaal";2014;4950
+1266;Vrouwen;Totaal;"Veelpleger; totaal";2015;4700
+1267;Vrouwen;Totaal;"Veelpleger; totaal";2016;4590
+1268;Vrouwen;Totaal;"Veelpleger; totaal";2017;4220
+1269;Vrouwen;Totaal;"Veelpleger; totaal";2018;4210
+1270;Vrouwen;Totaal;"Veelpleger; totaal";2019;4180
+1271;Vrouwen;Totaal;"Veelpleger; totaal";2020;3940
+1272;Vrouwen;Totaal;"Veelpleger; totaal";2021;3320
+1273;Vrouwen;Totaal;"Veelpleger; totaal";2022;3520
+1274;Vrouwen;Totaal;"Veelpleger; totaal";2023;3420
+1275;Vrouwen;Totaal;"Veelpleger; totaal";2024;3380
+1276;Vrouwen;Totaal;"Veelpleger; 1 delict in verslagjaar";2014;2990
+1277;Vrouwen;Totaal;"Veelpleger; 1 delict in verslagjaar";2015;2940
+1278;Vrouwen;Totaal;"Veelpleger; 1 delict in verslagjaar";2016;2900
+1279;Vrouwen;Totaal;"Veelpleger; 1 delict in verslagjaar";2017;2690
+1280;Vrouwen;Totaal;"Veelpleger; 1 delict in verslagjaar";2018;2670
+1281;Vrouwen;Totaal;"Veelpleger; 1 delict in verslagjaar";2019;2630
+1282;Vrouwen;Totaal;"Veelpleger; 1 delict in verslagjaar";2020;2470
+1283;Vrouwen;Totaal;"Veelpleger; 1 delict in verslagjaar";2021;2110
+1284;Vrouwen;Totaal;"Veelpleger; 1 delict in verslagjaar";2022;2210
+1285;Vrouwen;Totaal;"Veelpleger; 1 delict in verslagjaar";2023;2080
+1286;Vrouwen;Totaal;"Veelpleger; 1 delict in verslagjaar";2024;2050
+1287;Vrouwen;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2014;1740
+1288;Vrouwen;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2015;1580
+1289;Vrouwen;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2016;1540
+1290;Vrouwen;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2017;1350
+1291;Vrouwen;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2018;1380
+1292;Vrouwen;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2019;1380
+1293;Vrouwen;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2020;1270
+1294;Vrouwen;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2021;1030
+1295;Vrouwen;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2022;1130
+1296;Vrouwen;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2023;1120
+1297;Vrouwen;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2024;1120
+1298;Vrouwen;Totaal;"Veelpleger; 6 of meer delicten in jaar";2014;210
+1299;Vrouwen;Totaal;"Veelpleger; 6 of meer delicten in jaar";2015;170
+1300;Vrouwen;Totaal;"Veelpleger; 6 of meer delicten in jaar";2016;150
+1301;Vrouwen;Totaal;"Veelpleger; 6 of meer delicten in jaar";2017;170
+1302;Vrouwen;Totaal;"Veelpleger; 6 of meer delicten in jaar";2018;160
+1303;Vrouwen;Totaal;"Veelpleger; 6 of meer delicten in jaar";2019;180
+1304;Vrouwen;Totaal;"Veelpleger; 6 of meer delicten in jaar";2020;200
+1305;Vrouwen;Totaal;"Veelpleger; 6 of meer delicten in jaar";2021;180
+1306;Vrouwen;Totaal;"Veelpleger; 6 of meer delicten in jaar";2022;180
+1307;Vrouwen;Totaal;"Veelpleger; 6 of meer delicten in jaar";2023;220
+1308;Vrouwen;Totaal;"Veelpleger; 6 of meer delicten in jaar";2024;200
+1309;Vrouwen;Totaal;Recidive onbekend;2014;580
+1310;Vrouwen;Totaal;Recidive onbekend;2015;440
+1311;Vrouwen;Totaal;Recidive onbekend;2016;330
+1312;Vrouwen;Totaal;Recidive onbekend;2017;250
+1313;Vrouwen;Totaal;Recidive onbekend;2018;250
+1314;Vrouwen;Totaal;Recidive onbekend;2019;220
+1315;Vrouwen;Totaal;Recidive onbekend;2020;150
+1316;Vrouwen;Totaal;Recidive onbekend;2021;180
+1317;Vrouwen;Totaal;Recidive onbekend;2022;280
+1318;Vrouwen;Totaal;Recidive onbekend;2023;290
+1319;Vrouwen;Totaal;Recidive onbekend;2024;250
+1320;Vrouwen;12 tot 18 jaar;Totaal;2014;5330
+1321;Vrouwen;12 tot 18 jaar;Totaal;2015;4930
+1322;Vrouwen;12 tot 18 jaar;Totaal;2016;4630
+1323;Vrouwen;12 tot 18 jaar;Totaal;2017;4180
+1324;Vrouwen;12 tot 18 jaar;Totaal;2018;3720
+1325;Vrouwen;12 tot 18 jaar;Totaal;2019;4000
+1326;Vrouwen;12 tot 18 jaar;Totaal;2020;3050
+1327;Vrouwen;12 tot 18 jaar;Totaal;2021;3100
+1328;Vrouwen;12 tot 18 jaar;Totaal;2022;4540
+1329;Vrouwen;12 tot 18 jaar;Totaal;2023;4240
+1330;Vrouwen;12 tot 18 jaar;Totaal;2024;3440
+1331;Vrouwen;12 tot 18 jaar;First offender;2014;3820
+1332;Vrouwen;12 tot 18 jaar;First offender;2015;3560
+1333;Vrouwen;12 tot 18 jaar;First offender;2016;3390
+1334;Vrouwen;12 tot 18 jaar;First offender;2017;3120
+1335;Vrouwen;12 tot 18 jaar;First offender;2018;2790
+1336;Vrouwen;12 tot 18 jaar;First offender;2019;3030
+1337;Vrouwen;12 tot 18 jaar;First offender;2020;2350
+1338;Vrouwen;12 tot 18 jaar;First offender;2021;2480
+1339;Vrouwen;12 tot 18 jaar;First offender;2022;3690
+1340;Vrouwen;12 tot 18 jaar;First offender;2023;3370
+1341;Vrouwen;12 tot 18 jaar;First offender;2024;2610
+1342;Vrouwen;12 tot 18 jaar;Meerpleger;2014;1370
+1343;Vrouwen;12 tot 18 jaar;Meerpleger;2015;1260
+1344;Vrouwen;12 tot 18 jaar;Meerpleger;2016;1120
+1345;Vrouwen;12 tot 18 jaar;Meerpleger;2017;970
+1346;Vrouwen;12 tot 18 jaar;Meerpleger;2018;850
+1347;Vrouwen;12 tot 18 jaar;Meerpleger;2019;870
+1348;Vrouwen;12 tot 18 jaar;Meerpleger;2020;640
+1349;Vrouwen;12 tot 18 jaar;Meerpleger;2021;570
+1350;Vrouwen;12 tot 18 jaar;Meerpleger;2022;780
+1351;Vrouwen;12 tot 18 jaar;Meerpleger;2023;780
+1352;Vrouwen;12 tot 18 jaar;Meerpleger;2024;760
+1353;Vrouwen;12 tot 18 jaar;"Veelpleger; totaal";2014;90
+1354;Vrouwen;12 tot 18 jaar;"Veelpleger; totaal";2015;80
+1355;Vrouwen;12 tot 18 jaar;"Veelpleger; totaal";2016;90
+1356;Vrouwen;12 tot 18 jaar;"Veelpleger; totaal";2017;80
+1357;Vrouwen;12 tot 18 jaar;"Veelpleger; totaal";2018;60
+1358;Vrouwen;12 tot 18 jaar;"Veelpleger; totaal";2019;70
+1359;Vrouwen;12 tot 18 jaar;"Veelpleger; totaal";2020;40
+1360;Vrouwen;12 tot 18 jaar;"Veelpleger; totaal";2021;40
+1361;Vrouwen;12 tot 18 jaar;"Veelpleger; totaal";2022;40
+1362;Vrouwen;12 tot 18 jaar;"Veelpleger; totaal";2023;50
+1363;Vrouwen;12 tot 18 jaar;"Veelpleger; totaal";2024;50
+1364;Vrouwen;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2014;20
+1365;Vrouwen;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2015;30
+1366;Vrouwen;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2016;30
+1367;Vrouwen;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2017;20
+1368;Vrouwen;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2018;10
+1369;Vrouwen;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2019;20
+1370;Vrouwen;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2020;10
+1371;Vrouwen;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2021;10
+1372;Vrouwen;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2022;10
+1373;Vrouwen;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2023;20
+1374;Vrouwen;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2024;10
+1375;Vrouwen;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2014;60
+1376;Vrouwen;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2015;40
+1377;Vrouwen;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2016;50
+1378;Vrouwen;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2017;50
+1379;Vrouwen;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2018;50
+1380;Vrouwen;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2019;40
+1381;Vrouwen;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2020;30
+1382;Vrouwen;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2021;20
+1383;Vrouwen;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2022;20
+1384;Vrouwen;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2023;20
+1385;Vrouwen;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2024;30
+1386;Vrouwen;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2014;10
+1387;Vrouwen;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2015;10
+1388;Vrouwen;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2016;0
+1389;Vrouwen;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2017;10
+1390;Vrouwen;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2018;0
+1391;Vrouwen;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2019;10
+1392;Vrouwen;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2020;10
+1393;Vrouwen;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2021;10
+1394;Vrouwen;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2022;10
+1395;Vrouwen;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2023;10
+1396;Vrouwen;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2024;10
+1397;Vrouwen;12 tot 18 jaar;Recidive onbekend;2014;50
+1398;Vrouwen;12 tot 18 jaar;Recidive onbekend;2015;40
+1399;Vrouwen;12 tot 18 jaar;Recidive onbekend;2016;30
+1400;Vrouwen;12 tot 18 jaar;Recidive onbekend;2017;10
+1401;Vrouwen;12 tot 18 jaar;Recidive onbekend;2018;20
+1402;Vrouwen;12 tot 18 jaar;Recidive onbekend;2019;30
+1403;Vrouwen;12 tot 18 jaar;Recidive onbekend;2020;10
+1404;Vrouwen;12 tot 18 jaar;Recidive onbekend;2021;20
+1405;Vrouwen;12 tot 18 jaar;Recidive onbekend;2022;30
+1406;Vrouwen;12 tot 18 jaar;Recidive onbekend;2023;30
+1407;Vrouwen;12 tot 18 jaar;Recidive onbekend;2024;20
+1408;Vrouwen;18 tot 23 jaar;Totaal;2014;6000
+1409;Vrouwen;18 tot 23 jaar;Totaal;2015;5150
+1410;Vrouwen;18 tot 23 jaar;Totaal;2016;4590
+1411;Vrouwen;18 tot 23 jaar;Totaal;2017;4220
+1412;Vrouwen;18 tot 23 jaar;Totaal;2018;4030
+1413;Vrouwen;18 tot 23 jaar;Totaal;2019;4390
+1414;Vrouwen;18 tot 23 jaar;Totaal;2020;4040
+1415;Vrouwen;18 tot 23 jaar;Totaal;2021;3510
+1416;Vrouwen;18 tot 23 jaar;Totaal;2022;3870
+1417;Vrouwen;18 tot 23 jaar;Totaal;2023;3410
+1418;Vrouwen;18 tot 23 jaar;Totaal;2024;3050
+1419;Vrouwen;18 tot 23 jaar;First offender;2014;3220
+1420;Vrouwen;18 tot 23 jaar;First offender;2015;2770
+1421;Vrouwen;18 tot 23 jaar;First offender;2016;2590
+1422;Vrouwen;18 tot 23 jaar;First offender;2017;2410
+1423;Vrouwen;18 tot 23 jaar;First offender;2018;2320
+1424;Vrouwen;18 tot 23 jaar;First offender;2019;2620
+1425;Vrouwen;18 tot 23 jaar;First offender;2020;2290
+1426;Vrouwen;18 tot 23 jaar;First offender;2021;2070
+1427;Vrouwen;18 tot 23 jaar;First offender;2022;2510
+1428;Vrouwen;18 tot 23 jaar;First offender;2023;2200
+1429;Vrouwen;18 tot 23 jaar;First offender;2024;1930
+1430;Vrouwen;18 tot 23 jaar;Meerpleger;2014;2240
+1431;Vrouwen;18 tot 23 jaar;Meerpleger;2015;1920
+1432;Vrouwen;18 tot 23 jaar;Meerpleger;2016;1650
+1433;Vrouwen;18 tot 23 jaar;Meerpleger;2017;1510
+1434;Vrouwen;18 tot 23 jaar;Meerpleger;2018;1390
+1435;Vrouwen;18 tot 23 jaar;Meerpleger;2019;1480
+1436;Vrouwen;18 tot 23 jaar;Meerpleger;2020;1460
+1437;Vrouwen;18 tot 23 jaar;Meerpleger;2021;1200
+1438;Vrouwen;18 tot 23 jaar;Meerpleger;2022;1110
+1439;Vrouwen;18 tot 23 jaar;Meerpleger;2023;990
+1440;Vrouwen;18 tot 23 jaar;Meerpleger;2024;910
+1441;Vrouwen;18 tot 23 jaar;"Veelpleger; totaal";2014;440
+1442;Vrouwen;18 tot 23 jaar;"Veelpleger; totaal";2015;380
+1443;Vrouwen;18 tot 23 jaar;"Veelpleger; totaal";2016;300
+1444;Vrouwen;18 tot 23 jaar;"Veelpleger; totaal";2017;260
+1445;Vrouwen;18 tot 23 jaar;"Veelpleger; totaal";2018;270
+1446;Vrouwen;18 tot 23 jaar;"Veelpleger; totaal";2019;270
+1447;Vrouwen;18 tot 23 jaar;"Veelpleger; totaal";2020;270
+1448;Vrouwen;18 tot 23 jaar;"Veelpleger; totaal";2021;210
+1449;Vrouwen;18 tot 23 jaar;"Veelpleger; totaal";2022;180
+1450;Vrouwen;18 tot 23 jaar;"Veelpleger; totaal";2023;160
+1451;Vrouwen;18 tot 23 jaar;"Veelpleger; totaal";2024;150
+1452;Vrouwen;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2014;230
+1453;Vrouwen;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2015;210
+1454;Vrouwen;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2016;160
+1455;Vrouwen;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2017;150
+1456;Vrouwen;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2018;140
+1457;Vrouwen;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2019;120
+1458;Vrouwen;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2020;130
+1459;Vrouwen;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2021;90
+1460;Vrouwen;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2022;80
+1461;Vrouwen;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2023;70
+1462;Vrouwen;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2024;50
+1463;Vrouwen;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2014;170
+1464;Vrouwen;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2015;140
+1465;Vrouwen;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2016;120
+1466;Vrouwen;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2017;100
+1467;Vrouwen;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2018;110
+1468;Vrouwen;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2019;130
+1469;Vrouwen;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2020;110
+1470;Vrouwen;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2021;90
+1471;Vrouwen;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2022;90
+1472;Vrouwen;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2023;60
+1473;Vrouwen;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2024;80
+1474;Vrouwen;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2014;30
+1475;Vrouwen;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2015;30
+1476;Vrouwen;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2016;20
+1477;Vrouwen;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2017;20
+1478;Vrouwen;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2018;20
+1479;Vrouwen;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2019;20
+1480;Vrouwen;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2020;30
+1481;Vrouwen;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2021;30
+1482;Vrouwen;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2022;20
+1483;Vrouwen;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2023;30
+1484;Vrouwen;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2024;20
+1485;Vrouwen;18 tot 23 jaar;Recidive onbekend;2014;100
+1486;Vrouwen;18 tot 23 jaar;Recidive onbekend;2015;80
+1487;Vrouwen;18 tot 23 jaar;Recidive onbekend;2016;50
+1488;Vrouwen;18 tot 23 jaar;Recidive onbekend;2017;40
+1489;Vrouwen;18 tot 23 jaar;Recidive onbekend;2018;50
+1490;Vrouwen;18 tot 23 jaar;Recidive onbekend;2019;30
+1491;Vrouwen;18 tot 23 jaar;Recidive onbekend;2020;20
+1492;Vrouwen;18 tot 23 jaar;Recidive onbekend;2021;30
+1493;Vrouwen;18 tot 23 jaar;Recidive onbekend;2022;60
+1494;Vrouwen;18 tot 23 jaar;Recidive onbekend;2023;60
+1495;Vrouwen;18 tot 23 jaar;Recidive onbekend;2024;50
+1496;Vrouwen;23 tot 45 jaar;Totaal;2014;19020
+1497;Vrouwen;23 tot 45 jaar;Totaal;2015;17150
+1498;Vrouwen;23 tot 45 jaar;Totaal;2016;15510
+1499;Vrouwen;23 tot 45 jaar;Totaal;2017;13900
+1500;Vrouwen;23 tot 45 jaar;Totaal;2018;13280
+1501;Vrouwen;23 tot 45 jaar;Totaal;2019;13100
+1502;Vrouwen;23 tot 45 jaar;Totaal;2020;12130
+1503;Vrouwen;23 tot 45 jaar;Totaal;2021;10410
+1504;Vrouwen;23 tot 45 jaar;Totaal;2022;11640
+1505;Vrouwen;23 tot 45 jaar;Totaal;2023;11350
+1506;Vrouwen;23 tot 45 jaar;Totaal;2024;10530
+1507;Vrouwen;23 tot 45 jaar;First offender;2014;8760
+1508;Vrouwen;23 tot 45 jaar;First offender;2015;7840
+1509;Vrouwen;23 tot 45 jaar;First offender;2016;6990
+1510;Vrouwen;23 tot 45 jaar;First offender;2017;6120
+1511;Vrouwen;23 tot 45 jaar;First offender;2018;5850
+1512;Vrouwen;23 tot 45 jaar;First offender;2019;5720
+1513;Vrouwen;23 tot 45 jaar;First offender;2020;5060
+1514;Vrouwen;23 tot 45 jaar;First offender;2021;4390
+1515;Vrouwen;23 tot 45 jaar;First offender;2022;5180
+1516;Vrouwen;23 tot 45 jaar;First offender;2023;5110
+1517;Vrouwen;23 tot 45 jaar;First offender;2024;4480
+1518;Vrouwen;23 tot 45 jaar;Meerpleger;2014;7120
+1519;Vrouwen;23 tot 45 jaar;Meerpleger;2015;6490
+1520;Vrouwen;23 tot 45 jaar;Meerpleger;2016;5810
+1521;Vrouwen;23 tot 45 jaar;Meerpleger;2017;5300
+1522;Vrouwen;23 tot 45 jaar;Meerpleger;2018;4990
+1523;Vrouwen;23 tot 45 jaar;Meerpleger;2019;4900
+1524;Vrouwen;23 tot 45 jaar;Meerpleger;2020;4690
+1525;Vrouwen;23 tot 45 jaar;Meerpleger;2021;4040
+1526;Vrouwen;23 tot 45 jaar;Meerpleger;2022;4240
+1527;Vrouwen;23 tot 45 jaar;Meerpleger;2023;4100
+1528;Vrouwen;23 tot 45 jaar;Meerpleger;2024;3900
+1529;Vrouwen;23 tot 45 jaar;"Veelpleger; totaal";2014;2850
+1530;Vrouwen;23 tot 45 jaar;"Veelpleger; totaal";2015;2600
+1531;Vrouwen;23 tot 45 jaar;"Veelpleger; totaal";2016;2550
+1532;Vrouwen;23 tot 45 jaar;"Veelpleger; totaal";2017;2360
+1533;Vrouwen;23 tot 45 jaar;"Veelpleger; totaal";2018;2330
+1534;Vrouwen;23 tot 45 jaar;"Veelpleger; totaal";2019;2360
+1535;Vrouwen;23 tot 45 jaar;"Veelpleger; totaal";2020;2300
+1536;Vrouwen;23 tot 45 jaar;"Veelpleger; totaal";2021;1890
+1537;Vrouwen;23 tot 45 jaar;"Veelpleger; totaal";2022;2090
+1538;Vrouwen;23 tot 45 jaar;"Veelpleger; totaal";2023;2010
+1539;Vrouwen;23 tot 45 jaar;"Veelpleger; totaal";2024;2020
+1540;Vrouwen;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2014;1690
+1541;Vrouwen;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2015;1560
+1542;Vrouwen;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2016;1590
+1543;Vrouwen;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2017;1450
+1544;Vrouwen;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2018;1430
+1545;Vrouwen;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2019;1450
+1546;Vrouwen;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2020;1390
+1547;Vrouwen;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2021;1170
+1548;Vrouwen;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2022;1270
+1549;Vrouwen;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2023;1170
+1550;Vrouwen;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2024;1200
+1551;Vrouwen;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2014;1040
+1552;Vrouwen;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2015;930
+1553;Vrouwen;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2016;870
+1554;Vrouwen;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2017;790
+1555;Vrouwen;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2018;800
+1556;Vrouwen;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2019;810
+1557;Vrouwen;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2020;790
+1558;Vrouwen;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2021;610
+1559;Vrouwen;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2022;700
+1560;Vrouwen;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2023;700
+1561;Vrouwen;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2024;710
+1562;Vrouwen;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2014;120
+1563;Vrouwen;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2015;100
+1564;Vrouwen;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2016;90
+1565;Vrouwen;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2017;110
+1566;Vrouwen;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2018;100
+1567;Vrouwen;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2019;110
+1568;Vrouwen;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2020;120
+1569;Vrouwen;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2021;110
+1570;Vrouwen;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2022;120
+1571;Vrouwen;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2023;140
+1572;Vrouwen;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2024;120
+1573;Vrouwen;23 tot 45 jaar;Recidive onbekend;2014;290
+1574;Vrouwen;23 tot 45 jaar;Recidive onbekend;2015;220
+1575;Vrouwen;23 tot 45 jaar;Recidive onbekend;2016;160
+1576;Vrouwen;23 tot 45 jaar;Recidive onbekend;2017;130
+1577;Vrouwen;23 tot 45 jaar;Recidive onbekend;2018;110
+1578;Vrouwen;23 tot 45 jaar;Recidive onbekend;2019;110
+1579;Vrouwen;23 tot 45 jaar;Recidive onbekend;2020;70
+1580;Vrouwen;23 tot 45 jaar;Recidive onbekend;2021;90
+1581;Vrouwen;23 tot 45 jaar;Recidive onbekend;2022;120
+1582;Vrouwen;23 tot 45 jaar;Recidive onbekend;2023;130
+1583;Vrouwen;23 tot 45 jaar;Recidive onbekend;2024;120
+1584;Vrouwen;45 tot 65 jaar;Totaal;2014;9580
+1585;Vrouwen;45 tot 65 jaar;Totaal;2015;8820
+1586;Vrouwen;45 tot 65 jaar;Totaal;2016;8320
+1587;Vrouwen;45 tot 65 jaar;Totaal;2017;7470
+1588;Vrouwen;45 tot 65 jaar;Totaal;2018;7020
+1589;Vrouwen;45 tot 65 jaar;Totaal;2019;6740
+1590;Vrouwen;45 tot 65 jaar;Totaal;2020;5870
+1591;Vrouwen;45 tot 65 jaar;Totaal;2021;5120
+1592;Vrouwen;45 tot 65 jaar;Totaal;2022;5320
+1593;Vrouwen;45 tot 65 jaar;Totaal;2023;5090
+1594;Vrouwen;45 tot 65 jaar;Totaal;2024;4450
+1595;Vrouwen;45 tot 65 jaar;First offender;2014;5080
+1596;Vrouwen;45 tot 65 jaar;First offender;2015;4450
+1597;Vrouwen;45 tot 65 jaar;First offender;2016;4080
+1598;Vrouwen;45 tot 65 jaar;First offender;2017;3540
+1599;Vrouwen;45 tot 65 jaar;First offender;2018;3230
+1600;Vrouwen;45 tot 65 jaar;First offender;2019;3050
+1601;Vrouwen;45 tot 65 jaar;First offender;2020;2610
+1602;Vrouwen;45 tot 65 jaar;First offender;2021;2280
+1603;Vrouwen;45 tot 65 jaar;First offender;2022;2350
+1604;Vrouwen;45 tot 65 jaar;First offender;2023;2300
+1605;Vrouwen;45 tot 65 jaar;First offender;2024;1930
+1606;Vrouwen;45 tot 65 jaar;Meerpleger;2014;2950
+1607;Vrouwen;45 tot 65 jaar;Meerpleger;2015;2800
+1608;Vrouwen;45 tot 65 jaar;Meerpleger;2016;2680
+1609;Vrouwen;45 tot 65 jaar;Meerpleger;2017;2500
+1610;Vrouwen;45 tot 65 jaar;Meerpleger;2018;2360
+1611;Vrouwen;45 tot 65 jaar;Meerpleger;2019;2350
+1612;Vrouwen;45 tot 65 jaar;Meerpleger;2020;2040
+1613;Vrouwen;45 tot 65 jaar;Meerpleger;2021;1770
+1614;Vrouwen;45 tot 65 jaar;Meerpleger;2022;1850
+1615;Vrouwen;45 tot 65 jaar;Meerpleger;2023;1700
+1616;Vrouwen;45 tot 65 jaar;Meerpleger;2024;1460
+1617;Vrouwen;45 tot 65 jaar;"Veelpleger; totaal";2014;1460
+1618;Vrouwen;45 tot 65 jaar;"Veelpleger; totaal";2015;1500
+1619;Vrouwen;45 tot 65 jaar;"Veelpleger; totaal";2016;1490
+1620;Vrouwen;45 tot 65 jaar;"Veelpleger; totaal";2017;1370
+1621;Vrouwen;45 tot 65 jaar;"Veelpleger; totaal";2018;1370
+1622;Vrouwen;45 tot 65 jaar;"Veelpleger; totaal";2019;1300
+1623;Vrouwen;45 tot 65 jaar;"Veelpleger; totaal";2020;1180
+1624;Vrouwen;45 tot 65 jaar;"Veelpleger; totaal";2021;1050
+1625;Vrouwen;45 tot 65 jaar;"Veelpleger; totaal";2022;1070
+1626;Vrouwen;45 tot 65 jaar;"Veelpleger; totaal";2023;1050
+1627;Vrouwen;45 tot 65 jaar;"Veelpleger; totaal";2024;1020
+1628;Vrouwen;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2014;960
+1629;Vrouwen;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2015;1030
+1630;Vrouwen;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2016;990
+1631;Vrouwen;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2017;960
+1632;Vrouwen;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2018;960
+1633;Vrouwen;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2019;900
+1634;Vrouwen;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2020;830
+1635;Vrouwen;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2021;730
+1636;Vrouwen;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2022;740
+1637;Vrouwen;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2023;720
+1638;Vrouwen;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2024;680
+1639;Vrouwen;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2014;460
+1640;Vrouwen;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2015;440
+1641;Vrouwen;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2016;460
+1642;Vrouwen;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2017;380
+1643;Vrouwen;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2018;380
+1644;Vrouwen;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2019;360
+1645;Vrouwen;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2020;310
+1646;Vrouwen;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2021;270
+1647;Vrouwen;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2022;290
+1648;Vrouwen;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2023;300
+1649;Vrouwen;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2024;290
+1650;Vrouwen;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2014;40
+1651;Vrouwen;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2015;30
+1652;Vrouwen;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2016;40
+1653;Vrouwen;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2017;30
+1654;Vrouwen;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2018;30
+1655;Vrouwen;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2019;40
+1656;Vrouwen;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2020;40
+1657;Vrouwen;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2021;40
+1658;Vrouwen;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2022;40
+1659;Vrouwen;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2023;30
+1660;Vrouwen;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2024;40
+1661;Vrouwen;45 tot 65 jaar;Recidive onbekend;2014;90
+1662;Vrouwen;45 tot 65 jaar;Recidive onbekend;2015;70
+1663;Vrouwen;45 tot 65 jaar;Recidive onbekend;2016;70
+1664;Vrouwen;45 tot 65 jaar;Recidive onbekend;2017;50
+1665;Vrouwen;45 tot 65 jaar;Recidive onbekend;2018;60
+1666;Vrouwen;45 tot 65 jaar;Recidive onbekend;2019;40
+1667;Vrouwen;45 tot 65 jaar;Recidive onbekend;2020;30
+1668;Vrouwen;45 tot 65 jaar;Recidive onbekend;2021;30
+1669;Vrouwen;45 tot 65 jaar;Recidive onbekend;2022;50
+1670;Vrouwen;45 tot 65 jaar;Recidive onbekend;2023;50
+1671;Vrouwen;45 tot 65 jaar;Recidive onbekend;2024;50
+1672;Vrouwen;65 jaar of ouder;Totaal;2014;2040
+1673;Vrouwen;65 jaar of ouder;Totaal;2015;1880
+1674;Vrouwen;65 jaar of ouder;Totaal;2016;1820
+1675;Vrouwen;65 jaar of ouder;Totaal;2017;1660
+1676;Vrouwen;65 jaar of ouder;Totaal;2018;1660
+1677;Vrouwen;65 jaar of ouder;Totaal;2019;1560
+1678;Vrouwen;65 jaar of ouder;Totaal;2020;1330
+1679;Vrouwen;65 jaar of ouder;Totaal;2021;1220
+1680;Vrouwen;65 jaar of ouder;Totaal;2022;1220
+1681;Vrouwen;65 jaar of ouder;Totaal;2023;1270
+1682;Vrouwen;65 jaar of ouder;Totaal;2024;1060
+1683;Vrouwen;65 jaar of ouder;First offender;2014;1420
+1684;Vrouwen;65 jaar of ouder;First offender;2015;1260
+1685;Vrouwen;65 jaar of ouder;First offender;2016;1190
+1686;Vrouwen;65 jaar of ouder;First offender;2017;1010
+1687;Vrouwen;65 jaar of ouder;First offender;2018;1020
+1688;Vrouwen;65 jaar of ouder;First offender;2019;950
+1689;Vrouwen;65 jaar of ouder;First offender;2020;780
+1690;Vrouwen;65 jaar of ouder;First offender;2021;740
+1691;Vrouwen;65 jaar of ouder;First offender;2022;720
+1692;Vrouwen;65 jaar of ouder;First offender;2023;750
+1693;Vrouwen;65 jaar of ouder;First offender;2024;620
+1694;Vrouwen;65 jaar of ouder;Meerpleger;2014;490
+1695;Vrouwen;65 jaar of ouder;Meerpleger;2015;460
+1696;Vrouwen;65 jaar of ouder;Meerpleger;2016;450
+1697;Vrouwen;65 jaar of ouder;Meerpleger;2017;500
+1698;Vrouwen;65 jaar of ouder;Meerpleger;2018;440
+1699;Vrouwen;65 jaar of ouder;Meerpleger;2019;430
+1700;Vrouwen;65 jaar of ouder;Meerpleger;2020;400
+1701;Vrouwen;65 jaar of ouder;Meerpleger;2021;340
+1702;Vrouwen;65 jaar of ouder;Meerpleger;2022;350
+1703;Vrouwen;65 jaar of ouder;Meerpleger;2023;370
+1704;Vrouwen;65 jaar of ouder;Meerpleger;2024;310
+1705;Vrouwen;65 jaar of ouder;"Veelpleger; totaal";2014;120
+1706;Vrouwen;65 jaar of ouder;"Veelpleger; totaal";2015;140
+1707;Vrouwen;65 jaar of ouder;"Veelpleger; totaal";2016;160
+1708;Vrouwen;65 jaar of ouder;"Veelpleger; totaal";2017;150
+1709;Vrouwen;65 jaar of ouder;"Veelpleger; totaal";2018;180
+1710;Vrouwen;65 jaar of ouder;"Veelpleger; totaal";2019;170
+1711;Vrouwen;65 jaar of ouder;"Veelpleger; totaal";2020;150
+1712;Vrouwen;65 jaar of ouder;"Veelpleger; totaal";2021;140
+1713;Vrouwen;65 jaar of ouder;"Veelpleger; totaal";2022;140
+1714;Vrouwen;65 jaar of ouder;"Veelpleger; totaal";2023;140
+1715;Vrouwen;65 jaar of ouder;"Veelpleger; totaal";2024;140
+1716;Vrouwen;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2014;90
+1717;Vrouwen;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2015;110
+1718;Vrouwen;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2016;130
+1719;Vrouwen;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2017;110
+1720;Vrouwen;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2018;130
+1721;Vrouwen;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2019;140
+1722;Vrouwen;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2020;120
+1723;Vrouwen;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2021;100
+1724;Vrouwen;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2022;110
+1725;Vrouwen;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2023;100
+1726;Vrouwen;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2024;110
+1727;Vrouwen;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2014;20
+1728;Vrouwen;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2015;30
+1729;Vrouwen;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2016;30
+1730;Vrouwen;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2017;40
+1731;Vrouwen;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2018;50
+1732;Vrouwen;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2019;30
+1733;Vrouwen;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2020;30
+1734;Vrouwen;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2021;30
+1735;Vrouwen;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2022;30
+1736;Vrouwen;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2023;40
+1737;Vrouwen;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2024;20
+1738;Vrouwen;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2014;0
+1739;Vrouwen;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2015;0
+1740;Vrouwen;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2016;0
+1741;Vrouwen;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2017;0
+1742;Vrouwen;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2018;0
+1743;Vrouwen;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2019;0
+1744;Vrouwen;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2020;0
+1745;Vrouwen;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2021;0
+1746;Vrouwen;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2022;0
+1747;Vrouwen;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2023;10
+1748;Vrouwen;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2024;0
+1749;Vrouwen;65 jaar of ouder;Recidive onbekend;2014;20
+1750;Vrouwen;65 jaar of ouder;Recidive onbekend;2015;20
+1751;Vrouwen;65 jaar of ouder;Recidive onbekend;2016;20
+1752;Vrouwen;65 jaar of ouder;Recidive onbekend;2017;10
+1753;Vrouwen;65 jaar of ouder;Recidive onbekend;2018;10
+1754;Vrouwen;65 jaar of ouder;Recidive onbekend;2019;0
+1755;Vrouwen;65 jaar of ouder;Recidive onbekend;2020;10
+1756;Vrouwen;65 jaar of ouder;Recidive onbekend;2021;10
+1757;Vrouwen;65 jaar of ouder;Recidive onbekend;2022;10
+1758;Vrouwen;65 jaar of ouder;Recidive onbekend;2023;10
+1759;Vrouwen;65 jaar of ouder;Recidive onbekend;2024;10
+1760;Vrouwen;Leeftijd onbekend;Totaal;2014;200
+1761;Vrouwen;Leeftijd onbekend;Totaal;2015;120
+1762;Vrouwen;Leeftijd onbekend;Totaal;2016;130
+1763;Vrouwen;Leeftijd onbekend;Totaal;2017;110
+1764;Vrouwen;Leeftijd onbekend;Totaal;2018;110
+1765;Vrouwen;Leeftijd onbekend;Totaal;2019;90
+1766;Vrouwen;Leeftijd onbekend;Totaal;2020;80
+1767;Vrouwen;Leeftijd onbekend;Totaal;2021;90
+1768;Vrouwen;Leeftijd onbekend;Totaal;2022;100
+1769;Vrouwen;Leeftijd onbekend;Totaal;2023;110
+1770;Vrouwen;Leeftijd onbekend;Totaal;2024;70
+1771;Vrouwen;Leeftijd onbekend;First offender;2014;170
+1772;Vrouwen;Leeftijd onbekend;First offender;2015;100
+1773;Vrouwen;Leeftijd onbekend;First offender;2016;110
+1774;Vrouwen;Leeftijd onbekend;First offender;2017;100
+1775;Vrouwen;Leeftijd onbekend;First offender;2018;100
+1776;Vrouwen;Leeftijd onbekend;First offender;2019;90
+1777;Vrouwen;Leeftijd onbekend;First offender;2020;70
+1778;Vrouwen;Leeftijd onbekend;First offender;2021;90
+1779;Vrouwen;Leeftijd onbekend;First offender;2022;90
+1780;Vrouwen;Leeftijd onbekend;First offender;2023;100
+1781;Vrouwen;Leeftijd onbekend;First offender;2024;60
+1782;Vrouwen;Leeftijd onbekend;Meerpleger;2014;10
+1783;Vrouwen;Leeftijd onbekend;Meerpleger;2015;10
+1784;Vrouwen;Leeftijd onbekend;Meerpleger;2016;0
+1785;Vrouwen;Leeftijd onbekend;Meerpleger;2017;0
+1786;Vrouwen;Leeftijd onbekend;Meerpleger;2018;0
+1787;Vrouwen;Leeftijd onbekend;Meerpleger;2019;0
+1788;Vrouwen;Leeftijd onbekend;Meerpleger;2020;0
+1789;Vrouwen;Leeftijd onbekend;Meerpleger;2021;0
+1790;Vrouwen;Leeftijd onbekend;Meerpleger;2022;0
+1791;Vrouwen;Leeftijd onbekend;Meerpleger;2023;10
+1792;Vrouwen;Leeftijd onbekend;Meerpleger;2024;0
+1793;Vrouwen;Leeftijd onbekend;"Veelpleger; totaal";2014;0
+1794;Vrouwen;Leeftijd onbekend;"Veelpleger; totaal";2015;0
+1795;Vrouwen;Leeftijd onbekend;"Veelpleger; totaal";2016;0
+1796;Vrouwen;Leeftijd onbekend;"Veelpleger; totaal";2017;0
+1797;Vrouwen;Leeftijd onbekend;"Veelpleger; totaal";2018;0
+1798;Vrouwen;Leeftijd onbekend;"Veelpleger; totaal";2019;0
+1799;Vrouwen;Leeftijd onbekend;"Veelpleger; totaal";2020;0
+1800;Vrouwen;Leeftijd onbekend;"Veelpleger; totaal";2021;0
+1801;Vrouwen;Leeftijd onbekend;"Veelpleger; totaal";2022;0
+1802;Vrouwen;Leeftijd onbekend;"Veelpleger; totaal";2023;0
+1803;Vrouwen;Leeftijd onbekend;"Veelpleger; totaal";2024;0
+1804;Vrouwen;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2014;0
+1805;Vrouwen;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2015;0
+1806;Vrouwen;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2016;0
+1807;Vrouwen;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2017;0
+1808;Vrouwen;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2018;0
+1809;Vrouwen;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2019;0
+1810;Vrouwen;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2020;0
+1811;Vrouwen;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2021;0
+1812;Vrouwen;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2022;0
+1813;Vrouwen;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2023;0
+1814;Vrouwen;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2024;0
+1815;Vrouwen;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2014;0
+1816;Vrouwen;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2015;0
+1817;Vrouwen;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2016;0
+1818;Vrouwen;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2017;0
+1819;Vrouwen;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2018;0
+1820;Vrouwen;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2019;0
+1821;Vrouwen;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2020;0
+1822;Vrouwen;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2021;0
+1823;Vrouwen;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2022;0
+1824;Vrouwen;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2023;0
+1825;Vrouwen;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2024;0
+1826;Vrouwen;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2014;0
+1827;Vrouwen;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2015;0
+1828;Vrouwen;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2016;0
+1829;Vrouwen;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2017;0
+1830;Vrouwen;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2018;0
+1831;Vrouwen;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2019;0
+1832;Vrouwen;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2020;0
+1833;Vrouwen;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2021;0
+1834;Vrouwen;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2022;0
+1835;Vrouwen;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2023;0
+1836;Vrouwen;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2024;0
+1837;Vrouwen;Leeftijd onbekend;Recidive onbekend;2014;20
+1838;Vrouwen;Leeftijd onbekend;Recidive onbekend;2015;10
+1839;Vrouwen;Leeftijd onbekend;Recidive onbekend;2016;10
+1840;Vrouwen;Leeftijd onbekend;Recidive onbekend;2017;10
+1841;Vrouwen;Leeftijd onbekend;Recidive onbekend;2018;10
+1842;Vrouwen;Leeftijd onbekend;Recidive onbekend;2019;10
+1843;Vrouwen;Leeftijd onbekend;Recidive onbekend;2020;0
+1844;Vrouwen;Leeftijd onbekend;Recidive onbekend;2021;0
+1845;Vrouwen;Leeftijd onbekend;Recidive onbekend;2022;0
+1846;Vrouwen;Leeftijd onbekend;Recidive onbekend;2023;10
+1847;Vrouwen;Leeftijd onbekend;Recidive onbekend;2024;0
+1848;Onbekend;Totaal;Totaal;2014;530
+1849;Onbekend;Totaal;Totaal;2015;490
+1850;Onbekend;Totaal;Totaal;2016;370
+1851;Onbekend;Totaal;Totaal;2017;610
+1852;Onbekend;Totaal;Totaal;2018;560
+1853;Onbekend;Totaal;Totaal;2019;440
+1854;Onbekend;Totaal;Totaal;2020;490
+1855;Onbekend;Totaal;Totaal;2021;430
+1856;Onbekend;Totaal;Totaal;2022;450
+1857;Onbekend;Totaal;Totaal;2023;500
+1858;Onbekend;Totaal;Totaal;2024;1250
+1859;Onbekend;Totaal;First offender;2014;160
+1860;Onbekend;Totaal;First offender;2015;40
+1861;Onbekend;Totaal;First offender;2016;80
+1862;Onbekend;Totaal;First offender;2017;140
+1863;Onbekend;Totaal;First offender;2018;100
+1864;Onbekend;Totaal;First offender;2019;30
+1865;Onbekend;Totaal;First offender;2020;40
+1866;Onbekend;Totaal;First offender;2021;40
+1867;Onbekend;Totaal;First offender;2022;50
+1868;Onbekend;Totaal;First offender;2023;80
+1869;Onbekend;Totaal;First offender;2024;100
+1870;Onbekend;Totaal;Meerpleger;2014;40
+1871;Onbekend;Totaal;Meerpleger;2015;20
+1872;Onbekend;Totaal;Meerpleger;2016;10
+1873;Onbekend;Totaal;Meerpleger;2017;20
+1874;Onbekend;Totaal;Meerpleger;2018;20
+1875;Onbekend;Totaal;Meerpleger;2019;10
+1876;Onbekend;Totaal;Meerpleger;2020;10
+1877;Onbekend;Totaal;Meerpleger;2021;10
+1878;Onbekend;Totaal;Meerpleger;2022;0
+1879;Onbekend;Totaal;Meerpleger;2023;10
+1880;Onbekend;Totaal;Meerpleger;2024;10
+1881;Onbekend;Totaal;"Veelpleger; totaal";2014;10
+1882;Onbekend;Totaal;"Veelpleger; totaal";2015;0
+1883;Onbekend;Totaal;"Veelpleger; totaal";2016;10
+1884;Onbekend;Totaal;"Veelpleger; totaal";2017;0
+1885;Onbekend;Totaal;"Veelpleger; totaal";2018;0
+1886;Onbekend;Totaal;"Veelpleger; totaal";2019;0
+1887;Onbekend;Totaal;"Veelpleger; totaal";2020;0
+1888;Onbekend;Totaal;"Veelpleger; totaal";2021;0
+1889;Onbekend;Totaal;"Veelpleger; totaal";2022;0
+1890;Onbekend;Totaal;"Veelpleger; totaal";2023;0
+1891;Onbekend;Totaal;"Veelpleger; totaal";2024;0
+1892;Onbekend;Totaal;"Veelpleger; 1 delict in verslagjaar";2014;0
+1893;Onbekend;Totaal;"Veelpleger; 1 delict in verslagjaar";2015;0
+1894;Onbekend;Totaal;"Veelpleger; 1 delict in verslagjaar";2016;0
+1895;Onbekend;Totaal;"Veelpleger; 1 delict in verslagjaar";2017;0
+1896;Onbekend;Totaal;"Veelpleger; 1 delict in verslagjaar";2018;0
+1897;Onbekend;Totaal;"Veelpleger; 1 delict in verslagjaar";2019;0
+1898;Onbekend;Totaal;"Veelpleger; 1 delict in verslagjaar";2020;0
+1899;Onbekend;Totaal;"Veelpleger; 1 delict in verslagjaar";2021;0
+1900;Onbekend;Totaal;"Veelpleger; 1 delict in verslagjaar";2022;0
+1901;Onbekend;Totaal;"Veelpleger; 1 delict in verslagjaar";2023;0
+1902;Onbekend;Totaal;"Veelpleger; 1 delict in verslagjaar";2024;0
+1903;Onbekend;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2014;0
+1904;Onbekend;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2015;0
+1905;Onbekend;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2016;0
+1906;Onbekend;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2017;0
+1907;Onbekend;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2018;0
+1908;Onbekend;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2019;0
+1909;Onbekend;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2020;0
+1910;Onbekend;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2021;0
+1911;Onbekend;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2022;0
+1912;Onbekend;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2023;0
+1913;Onbekend;Totaal;"Veelpleger; 2-5 delicten in verslagjaar";2024;0
+1914;Onbekend;Totaal;"Veelpleger; 6 of meer delicten in jaar";2014;0
+1915;Onbekend;Totaal;"Veelpleger; 6 of meer delicten in jaar";2015;0
+1916;Onbekend;Totaal;"Veelpleger; 6 of meer delicten in jaar";2016;0
+1917;Onbekend;Totaal;"Veelpleger; 6 of meer delicten in jaar";2017;0
+1918;Onbekend;Totaal;"Veelpleger; 6 of meer delicten in jaar";2018;0
+1919;Onbekend;Totaal;"Veelpleger; 6 of meer delicten in jaar";2019;0
+1920;Onbekend;Totaal;"Veelpleger; 6 of meer delicten in jaar";2020;0
+1921;Onbekend;Totaal;"Veelpleger; 6 of meer delicten in jaar";2021;0
+1922;Onbekend;Totaal;"Veelpleger; 6 of meer delicten in jaar";2022;0
+1923;Onbekend;Totaal;"Veelpleger; 6 of meer delicten in jaar";2023;0
+1924;Onbekend;Totaal;"Veelpleger; 6 of meer delicten in jaar";2024;0
+1925;Onbekend;Totaal;Recidive onbekend;2014;320
+1926;Onbekend;Totaal;Recidive onbekend;2015;440
+1927;Onbekend;Totaal;Recidive onbekend;2016;280
+1928;Onbekend;Totaal;Recidive onbekend;2017;440
+1929;Onbekend;Totaal;Recidive onbekend;2018;440
+1930;Onbekend;Totaal;Recidive onbekend;2019;400
+1931;Onbekend;Totaal;Recidive onbekend;2020;440
+1932;Onbekend;Totaal;Recidive onbekend;2021;380
+1933;Onbekend;Totaal;Recidive onbekend;2022;390
+1934;Onbekend;Totaal;Recidive onbekend;2023;420
+1935;Onbekend;Totaal;Recidive onbekend;2024;1140
+1936;Onbekend;12 tot 18 jaar;Totaal;2014;10
+1937;Onbekend;12 tot 18 jaar;Totaal;2015;10
+1938;Onbekend;12 tot 18 jaar;Totaal;2016;10
+1939;Onbekend;12 tot 18 jaar;Totaal;2017;10
+1940;Onbekend;12 tot 18 jaar;Totaal;2018;10
+1941;Onbekend;12 tot 18 jaar;Totaal;2019;0
+1942;Onbekend;12 tot 18 jaar;Totaal;2020;0
+1943;Onbekend;12 tot 18 jaar;Totaal;2021;10
+1944;Onbekend;12 tot 18 jaar;Totaal;2022;10
+1945;Onbekend;12 tot 18 jaar;Totaal;2023;0
+1946;Onbekend;12 tot 18 jaar;Totaal;2024;30
+1947;Onbekend;12 tot 18 jaar;First offender;2014;0
+1948;Onbekend;12 tot 18 jaar;First offender;2015;0
+1949;Onbekend;12 tot 18 jaar;First offender;2016;0
+1950;Onbekend;12 tot 18 jaar;First offender;2017;10
+1951;Onbekend;12 tot 18 jaar;First offender;2018;0
+1952;Onbekend;12 tot 18 jaar;First offender;2019;0
+1953;Onbekend;12 tot 18 jaar;First offender;2020;0
+1954;Onbekend;12 tot 18 jaar;First offender;2021;0
+1955;Onbekend;12 tot 18 jaar;First offender;2022;0
+1956;Onbekend;12 tot 18 jaar;First offender;2023;0
+1957;Onbekend;12 tot 18 jaar;First offender;2024;0
+1958;Onbekend;12 tot 18 jaar;Meerpleger;2014;0
+1959;Onbekend;12 tot 18 jaar;Meerpleger;2015;0
+1960;Onbekend;12 tot 18 jaar;Meerpleger;2016;0
+1961;Onbekend;12 tot 18 jaar;Meerpleger;2017;0
+1962;Onbekend;12 tot 18 jaar;Meerpleger;2018;0
+1963;Onbekend;12 tot 18 jaar;Meerpleger;2019;0
+1964;Onbekend;12 tot 18 jaar;Meerpleger;2020;0
+1965;Onbekend;12 tot 18 jaar;Meerpleger;2021;0
+1966;Onbekend;12 tot 18 jaar;Meerpleger;2022;0
+1967;Onbekend;12 tot 18 jaar;Meerpleger;2023;0
+1968;Onbekend;12 tot 18 jaar;Meerpleger;2024;0
+1969;Onbekend;12 tot 18 jaar;"Veelpleger; totaal";2014;0
+1970;Onbekend;12 tot 18 jaar;"Veelpleger; totaal";2015;0
+1971;Onbekend;12 tot 18 jaar;"Veelpleger; totaal";2016;0
+1972;Onbekend;12 tot 18 jaar;"Veelpleger; totaal";2017;0
+1973;Onbekend;12 tot 18 jaar;"Veelpleger; totaal";2018;0
+1974;Onbekend;12 tot 18 jaar;"Veelpleger; totaal";2019;0
+1975;Onbekend;12 tot 18 jaar;"Veelpleger; totaal";2020;0
+1976;Onbekend;12 tot 18 jaar;"Veelpleger; totaal";2021;0
+1977;Onbekend;12 tot 18 jaar;"Veelpleger; totaal";2022;0
+1978;Onbekend;12 tot 18 jaar;"Veelpleger; totaal";2023;0
+1979;Onbekend;12 tot 18 jaar;"Veelpleger; totaal";2024;0
+1980;Onbekend;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2014;0
+1981;Onbekend;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2015;0
+1982;Onbekend;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2016;0
+1983;Onbekend;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2017;0
+1984;Onbekend;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2018;0
+1985;Onbekend;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2019;0
+1986;Onbekend;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2020;0
+1987;Onbekend;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2021;0
+1988;Onbekend;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2022;0
+1989;Onbekend;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2023;0
+1990;Onbekend;12 tot 18 jaar;"Veelpleger; 1 delict in verslagjaar";2024;0
+1991;Onbekend;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2014;0
+1992;Onbekend;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2015;0
+1993;Onbekend;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2016;0
+1994;Onbekend;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2017;0
+1995;Onbekend;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2018;0
+1996;Onbekend;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2019;0
+1997;Onbekend;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2020;0
+1998;Onbekend;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2021;0
+1999;Onbekend;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2022;0
+2000;Onbekend;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2023;0
+2001;Onbekend;12 tot 18 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2024;0
+2002;Onbekend;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2014;0
+2003;Onbekend;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2015;0
+2004;Onbekend;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2016;0
+2005;Onbekend;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2017;0
+2006;Onbekend;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2018;0
+2007;Onbekend;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2019;0
+2008;Onbekend;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2020;0
+2009;Onbekend;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2021;0
+2010;Onbekend;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2022;0
+2011;Onbekend;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2023;0
+2012;Onbekend;12 tot 18 jaar;"Veelpleger; 6 of meer delicten in jaar";2024;0
+2013;Onbekend;12 tot 18 jaar;Recidive onbekend;2014;0
+2014;Onbekend;12 tot 18 jaar;Recidive onbekend;2015;0
+2015;Onbekend;12 tot 18 jaar;Recidive onbekend;2016;0
+2016;Onbekend;12 tot 18 jaar;Recidive onbekend;2017;0
+2017;Onbekend;12 tot 18 jaar;Recidive onbekend;2018;0
+2018;Onbekend;12 tot 18 jaar;Recidive onbekend;2019;0
+2019;Onbekend;12 tot 18 jaar;Recidive onbekend;2020;0
+2020;Onbekend;12 tot 18 jaar;Recidive onbekend;2021;0
+2021;Onbekend;12 tot 18 jaar;Recidive onbekend;2022;10
+2022;Onbekend;12 tot 18 jaar;Recidive onbekend;2023;0
+2023;Onbekend;12 tot 18 jaar;Recidive onbekend;2024;30
+2024;Onbekend;18 tot 23 jaar;Totaal;2014;30
+2025;Onbekend;18 tot 23 jaar;Totaal;2015;20
+2026;Onbekend;18 tot 23 jaar;Totaal;2016;20
+2027;Onbekend;18 tot 23 jaar;Totaal;2017;30
+2028;Onbekend;18 tot 23 jaar;Totaal;2018;30
+2029;Onbekend;18 tot 23 jaar;Totaal;2019;20
+2030;Onbekend;18 tot 23 jaar;Totaal;2020;20
+2031;Onbekend;18 tot 23 jaar;Totaal;2021;20
+2032;Onbekend;18 tot 23 jaar;Totaal;2022;30
+2033;Onbekend;18 tot 23 jaar;Totaal;2023;60
+2034;Onbekend;18 tot 23 jaar;Totaal;2024;340
+2035;Onbekend;18 tot 23 jaar;First offender;2014;20
+2036;Onbekend;18 tot 23 jaar;First offender;2015;10
+2037;Onbekend;18 tot 23 jaar;First offender;2016;20
+2038;Onbekend;18 tot 23 jaar;First offender;2017;30
+2039;Onbekend;18 tot 23 jaar;First offender;2018;20
+2040;Onbekend;18 tot 23 jaar;First offender;2019;0
+2041;Onbekend;18 tot 23 jaar;First offender;2020;10
+2042;Onbekend;18 tot 23 jaar;First offender;2021;10
+2043;Onbekend;18 tot 23 jaar;First offender;2022;0
+2044;Onbekend;18 tot 23 jaar;First offender;2023;20
+2045;Onbekend;18 tot 23 jaar;First offender;2024;10
+2046;Onbekend;18 tot 23 jaar;Meerpleger;2014;0
+2047;Onbekend;18 tot 23 jaar;Meerpleger;2015;0
+2048;Onbekend;18 tot 23 jaar;Meerpleger;2016;0
+2049;Onbekend;18 tot 23 jaar;Meerpleger;2017;0
+2050;Onbekend;18 tot 23 jaar;Meerpleger;2018;0
+2051;Onbekend;18 tot 23 jaar;Meerpleger;2019;0
+2052;Onbekend;18 tot 23 jaar;Meerpleger;2020;0
+2053;Onbekend;18 tot 23 jaar;Meerpleger;2021;0
+2054;Onbekend;18 tot 23 jaar;Meerpleger;2022;0
+2055;Onbekend;18 tot 23 jaar;Meerpleger;2023;0
+2056;Onbekend;18 tot 23 jaar;Meerpleger;2024;0
+2057;Onbekend;18 tot 23 jaar;"Veelpleger; totaal";2014;0
+2058;Onbekend;18 tot 23 jaar;"Veelpleger; totaal";2015;0
+2059;Onbekend;18 tot 23 jaar;"Veelpleger; totaal";2016;0
+2060;Onbekend;18 tot 23 jaar;"Veelpleger; totaal";2017;0
+2061;Onbekend;18 tot 23 jaar;"Veelpleger; totaal";2018;0
+2062;Onbekend;18 tot 23 jaar;"Veelpleger; totaal";2019;0
+2063;Onbekend;18 tot 23 jaar;"Veelpleger; totaal";2020;0
+2064;Onbekend;18 tot 23 jaar;"Veelpleger; totaal";2021;0
+2065;Onbekend;18 tot 23 jaar;"Veelpleger; totaal";2022;0
+2066;Onbekend;18 tot 23 jaar;"Veelpleger; totaal";2023;0
+2067;Onbekend;18 tot 23 jaar;"Veelpleger; totaal";2024;0
+2068;Onbekend;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2014;0
+2069;Onbekend;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2015;0
+2070;Onbekend;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2016;0
+2071;Onbekend;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2017;0
+2072;Onbekend;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2018;0
+2073;Onbekend;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2019;0
+2074;Onbekend;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2020;0
+2075;Onbekend;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2021;0
+2076;Onbekend;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2022;0
+2077;Onbekend;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2023;0
+2078;Onbekend;18 tot 23 jaar;"Veelpleger; 1 delict in verslagjaar";2024;0
+2079;Onbekend;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2014;0
+2080;Onbekend;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2015;0
+2081;Onbekend;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2016;0
+2082;Onbekend;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2017;0
+2083;Onbekend;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2018;0
+2084;Onbekend;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2019;0
+2085;Onbekend;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2020;0
+2086;Onbekend;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2021;0
+2087;Onbekend;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2022;0
+2088;Onbekend;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2023;0
+2089;Onbekend;18 tot 23 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2024;0
+2090;Onbekend;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2014;0
+2091;Onbekend;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2015;0
+2092;Onbekend;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2016;0
+2093;Onbekend;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2017;0
+2094;Onbekend;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2018;0
+2095;Onbekend;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2019;0
+2096;Onbekend;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2020;0
+2097;Onbekend;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2021;0
+2098;Onbekend;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2022;0
+2099;Onbekend;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2023;0
+2100;Onbekend;18 tot 23 jaar;"Veelpleger; 6 of meer delicten in jaar";2024;0
+2101;Onbekend;18 tot 23 jaar;Recidive onbekend;2014;10
+2102;Onbekend;18 tot 23 jaar;Recidive onbekend;2015;10
+2103;Onbekend;18 tot 23 jaar;Recidive onbekend;2016;0
+2104;Onbekend;18 tot 23 jaar;Recidive onbekend;2017;0
+2105;Onbekend;18 tot 23 jaar;Recidive onbekend;2018;0
+2106;Onbekend;18 tot 23 jaar;Recidive onbekend;2019;10
+2107;Onbekend;18 tot 23 jaar;Recidive onbekend;2020;10
+2108;Onbekend;18 tot 23 jaar;Recidive onbekend;2021;20
+2109;Onbekend;18 tot 23 jaar;Recidive onbekend;2022;20
+2110;Onbekend;18 tot 23 jaar;Recidive onbekend;2023;40
+2111;Onbekend;18 tot 23 jaar;Recidive onbekend;2024;330
+2112;Onbekend;23 tot 45 jaar;Totaal;2014;230
+2113;Onbekend;23 tot 45 jaar;Totaal;2015;80
+2114;Onbekend;23 tot 45 jaar;Totaal;2016;100
+2115;Onbekend;23 tot 45 jaar;Totaal;2017;150
+2116;Onbekend;23 tot 45 jaar;Totaal;2018;140
+2117;Onbekend;23 tot 45 jaar;Totaal;2019;100
+2118;Onbekend;23 tot 45 jaar;Totaal;2020;70
+2119;Onbekend;23 tot 45 jaar;Totaal;2021;60
+2120;Onbekend;23 tot 45 jaar;Totaal;2022;90
+2121;Onbekend;23 tot 45 jaar;Totaal;2023;150
+2122;Onbekend;23 tot 45 jaar;Totaal;2024;350
+2123;Onbekend;23 tot 45 jaar;First offender;2014;100
+2124;Onbekend;23 tot 45 jaar;First offender;2015;30
+2125;Onbekend;23 tot 45 jaar;First offender;2016;40
+2126;Onbekend;23 tot 45 jaar;First offender;2017;90
+2127;Onbekend;23 tot 45 jaar;First offender;2018;60
+2128;Onbekend;23 tot 45 jaar;First offender;2019;20
+2129;Onbekend;23 tot 45 jaar;First offender;2020;20
+2130;Onbekend;23 tot 45 jaar;First offender;2021;20
+2131;Onbekend;23 tot 45 jaar;First offender;2022;40
+2132;Onbekend;23 tot 45 jaar;First offender;2023;50
+2133;Onbekend;23 tot 45 jaar;First offender;2024;60
+2134;Onbekend;23 tot 45 jaar;Meerpleger;2014;40
+2135;Onbekend;23 tot 45 jaar;Meerpleger;2015;10
+2136;Onbekend;23 tot 45 jaar;Meerpleger;2016;10
+2137;Onbekend;23 tot 45 jaar;Meerpleger;2017;20
+2138;Onbekend;23 tot 45 jaar;Meerpleger;2018;20
+2139;Onbekend;23 tot 45 jaar;Meerpleger;2019;10
+2140;Onbekend;23 tot 45 jaar;Meerpleger;2020;10
+2141;Onbekend;23 tot 45 jaar;Meerpleger;2021;0
+2142;Onbekend;23 tot 45 jaar;Meerpleger;2022;0
+2143;Onbekend;23 tot 45 jaar;Meerpleger;2023;0
+2144;Onbekend;23 tot 45 jaar;Meerpleger;2024;0
+2145;Onbekend;23 tot 45 jaar;"Veelpleger; totaal";2014;0
+2146;Onbekend;23 tot 45 jaar;"Veelpleger; totaal";2015;0
+2147;Onbekend;23 tot 45 jaar;"Veelpleger; totaal";2016;0
+2148;Onbekend;23 tot 45 jaar;"Veelpleger; totaal";2017;0
+2149;Onbekend;23 tot 45 jaar;"Veelpleger; totaal";2018;0
+2150;Onbekend;23 tot 45 jaar;"Veelpleger; totaal";2019;0
+2151;Onbekend;23 tot 45 jaar;"Veelpleger; totaal";2020;0
+2152;Onbekend;23 tot 45 jaar;"Veelpleger; totaal";2021;0
+2153;Onbekend;23 tot 45 jaar;"Veelpleger; totaal";2022;0
+2154;Onbekend;23 tot 45 jaar;"Veelpleger; totaal";2023;0
+2155;Onbekend;23 tot 45 jaar;"Veelpleger; totaal";2024;0
+2156;Onbekend;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2014;0
+2157;Onbekend;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2015;0
+2158;Onbekend;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2016;0
+2159;Onbekend;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2017;0
+2160;Onbekend;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2018;0
+2161;Onbekend;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2019;0
+2162;Onbekend;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2020;0
+2163;Onbekend;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2021;0
+2164;Onbekend;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2022;0
+2165;Onbekend;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2023;0
+2166;Onbekend;23 tot 45 jaar;"Veelpleger; 1 delict in verslagjaar";2024;0
+2167;Onbekend;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2014;0
+2168;Onbekend;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2015;0
+2169;Onbekend;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2016;0
+2170;Onbekend;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2017;0
+2171;Onbekend;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2018;0
+2172;Onbekend;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2019;0
+2173;Onbekend;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2020;0
+2174;Onbekend;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2021;0
+2175;Onbekend;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2022;0
+2176;Onbekend;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2023;0
+2177;Onbekend;23 tot 45 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2024;0
+2178;Onbekend;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2014;0
+2179;Onbekend;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2015;0
+2180;Onbekend;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2016;0
+2181;Onbekend;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2017;0
+2182;Onbekend;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2018;0
+2183;Onbekend;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2019;0
+2184;Onbekend;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2020;0
+2185;Onbekend;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2021;0
+2186;Onbekend;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2022;0
+2187;Onbekend;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2023;0
+2188;Onbekend;23 tot 45 jaar;"Veelpleger; 6 of meer delicten in jaar";2024;0
+2189;Onbekend;23 tot 45 jaar;Recidive onbekend;2014;90
+2190;Onbekend;23 tot 45 jaar;Recidive onbekend;2015;40
+2191;Onbekend;23 tot 45 jaar;Recidive onbekend;2016;40
+2192;Onbekend;23 tot 45 jaar;Recidive onbekend;2017;30
+2193;Onbekend;23 tot 45 jaar;Recidive onbekend;2018;60
+2194;Onbekend;23 tot 45 jaar;Recidive onbekend;2019;60
+2195;Onbekend;23 tot 45 jaar;Recidive onbekend;2020;40
+2196;Onbekend;23 tot 45 jaar;Recidive onbekend;2021;30
+2197;Onbekend;23 tot 45 jaar;Recidive onbekend;2022;40
+2198;Onbekend;23 tot 45 jaar;Recidive onbekend;2023;90
+2199;Onbekend;23 tot 45 jaar;Recidive onbekend;2024;280
+2200;Onbekend;45 tot 65 jaar;Totaal;2014;50
+2201;Onbekend;45 tot 65 jaar;Totaal;2015;20
+2202;Onbekend;45 tot 65 jaar;Totaal;2016;30
+2203;Onbekend;45 tot 65 jaar;Totaal;2017;20
+2204;Onbekend;45 tot 65 jaar;Totaal;2018;20
+2205;Onbekend;45 tot 65 jaar;Totaal;2019;20
+2206;Onbekend;45 tot 65 jaar;Totaal;2020;20
+2207;Onbekend;45 tot 65 jaar;Totaal;2021;20
+2208;Onbekend;45 tot 65 jaar;Totaal;2022;20
+2209;Onbekend;45 tot 65 jaar;Totaal;2023;30
+2210;Onbekend;45 tot 65 jaar;Totaal;2024;90
+2211;Onbekend;45 tot 65 jaar;First offender;2014;30
+2212;Onbekend;45 tot 65 jaar;First offender;2015;0
+2213;Onbekend;45 tot 65 jaar;First offender;2016;10
+2214;Onbekend;45 tot 65 jaar;First offender;2017;10
+2215;Onbekend;45 tot 65 jaar;First offender;2018;10
+2216;Onbekend;45 tot 65 jaar;First offender;2019;0
+2217;Onbekend;45 tot 65 jaar;First offender;2020;0
+2218;Onbekend;45 tot 65 jaar;First offender;2021;0
+2219;Onbekend;45 tot 65 jaar;First offender;2022;0
+2220;Onbekend;45 tot 65 jaar;First offender;2023;10
+2221;Onbekend;45 tot 65 jaar;First offender;2024;20
+2222;Onbekend;45 tot 65 jaar;Meerpleger;2014;0
+2223;Onbekend;45 tot 65 jaar;Meerpleger;2015;0
+2224;Onbekend;45 tot 65 jaar;Meerpleger;2016;0
+2225;Onbekend;45 tot 65 jaar;Meerpleger;2017;0
+2226;Onbekend;45 tot 65 jaar;Meerpleger;2018;0
+2227;Onbekend;45 tot 65 jaar;Meerpleger;2019;0
+2228;Onbekend;45 tot 65 jaar;Meerpleger;2020;0
+2229;Onbekend;45 tot 65 jaar;Meerpleger;2021;0
+2230;Onbekend;45 tot 65 jaar;Meerpleger;2022;0
+2231;Onbekend;45 tot 65 jaar;Meerpleger;2023;0
+2232;Onbekend;45 tot 65 jaar;Meerpleger;2024;0
+2233;Onbekend;45 tot 65 jaar;"Veelpleger; totaal";2014;0
+2234;Onbekend;45 tot 65 jaar;"Veelpleger; totaal";2015;0
+2235;Onbekend;45 tot 65 jaar;"Veelpleger; totaal";2016;0
+2236;Onbekend;45 tot 65 jaar;"Veelpleger; totaal";2017;0
+2237;Onbekend;45 tot 65 jaar;"Veelpleger; totaal";2018;0
+2238;Onbekend;45 tot 65 jaar;"Veelpleger; totaal";2019;0
+2239;Onbekend;45 tot 65 jaar;"Veelpleger; totaal";2020;0
+2240;Onbekend;45 tot 65 jaar;"Veelpleger; totaal";2021;0
+2241;Onbekend;45 tot 65 jaar;"Veelpleger; totaal";2022;0
+2242;Onbekend;45 tot 65 jaar;"Veelpleger; totaal";2023;0
+2243;Onbekend;45 tot 65 jaar;"Veelpleger; totaal";2024;0
+2244;Onbekend;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2014;0
+2245;Onbekend;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2015;0
+2246;Onbekend;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2016;0
+2247;Onbekend;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2017;0
+2248;Onbekend;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2018;0
+2249;Onbekend;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2019;0
+2250;Onbekend;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2020;0
+2251;Onbekend;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2021;0
+2252;Onbekend;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2022;0
+2253;Onbekend;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2023;0
+2254;Onbekend;45 tot 65 jaar;"Veelpleger; 1 delict in verslagjaar";2024;0
+2255;Onbekend;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2014;0
+2256;Onbekend;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2015;0
+2257;Onbekend;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2016;0
+2258;Onbekend;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2017;0
+2259;Onbekend;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2018;0
+2260;Onbekend;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2019;0
+2261;Onbekend;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2020;0
+2262;Onbekend;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2021;0
+2263;Onbekend;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2022;0
+2264;Onbekend;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2023;0
+2265;Onbekend;45 tot 65 jaar;"Veelpleger; 2-5 delicten in verslagjaar";2024;0
+2266;Onbekend;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2014;0
+2267;Onbekend;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2015;0
+2268;Onbekend;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2016;0
+2269;Onbekend;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2017;0
+2270;Onbekend;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2018;0
+2271;Onbekend;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2019;0
+2272;Onbekend;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2020;0
+2273;Onbekend;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2021;0
+2274;Onbekend;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2022;0
+2275;Onbekend;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2023;0
+2276;Onbekend;45 tot 65 jaar;"Veelpleger; 6 of meer delicten in jaar";2024;0
+2277;Onbekend;45 tot 65 jaar;Recidive onbekend;2014;20
+2278;Onbekend;45 tot 65 jaar;Recidive onbekend;2015;20
+2279;Onbekend;45 tot 65 jaar;Recidive onbekend;2016;10
+2280;Onbekend;45 tot 65 jaar;Recidive onbekend;2017;10
+2281;Onbekend;45 tot 65 jaar;Recidive onbekend;2018;10
+2282;Onbekend;45 tot 65 jaar;Recidive onbekend;2019;20
+2283;Onbekend;45 tot 65 jaar;Recidive onbekend;2020;10
+2284;Onbekend;45 tot 65 jaar;Recidive onbekend;2021;10
+2285;Onbekend;45 tot 65 jaar;Recidive onbekend;2022;10
+2286;Onbekend;45 tot 65 jaar;Recidive onbekend;2023;20
+2287;Onbekend;45 tot 65 jaar;Recidive onbekend;2024;70
+2288;Onbekend;65 jaar of ouder;Totaal;2014;10
+2289;Onbekend;65 jaar of ouder;Totaal;2015;0
+2290;Onbekend;65 jaar of ouder;Totaal;2016;0
+2291;Onbekend;65 jaar of ouder;Totaal;2017;0
+2292;Onbekend;65 jaar of ouder;Totaal;2018;0
+2293;Onbekend;65 jaar of ouder;Totaal;2019;0
+2294;Onbekend;65 jaar of ouder;Totaal;2020;0
+2295;Onbekend;65 jaar of ouder;Totaal;2021;0
+2296;Onbekend;65 jaar of ouder;Totaal;2022;0
+2297;Onbekend;65 jaar of ouder;Totaal;2023;0
+2298;Onbekend;65 jaar of ouder;Totaal;2024;10
+2299;Onbekend;65 jaar of ouder;First offender;2014;0
+2300;Onbekend;65 jaar of ouder;First offender;2015;0
+2301;Onbekend;65 jaar of ouder;First offender;2016;0
+2302;Onbekend;65 jaar of ouder;First offender;2017;0
+2303;Onbekend;65 jaar of ouder;First offender;2018;0
+2304;Onbekend;65 jaar of ouder;First offender;2019;0
+2305;Onbekend;65 jaar of ouder;First offender;2020;0
+2306;Onbekend;65 jaar of ouder;First offender;2021;0
+2307;Onbekend;65 jaar of ouder;First offender;2022;0
+2308;Onbekend;65 jaar of ouder;First offender;2023;0
+2309;Onbekend;65 jaar of ouder;First offender;2024;0
+2310;Onbekend;65 jaar of ouder;Meerpleger;2014;0
+2311;Onbekend;65 jaar of ouder;Meerpleger;2015;0
+2312;Onbekend;65 jaar of ouder;Meerpleger;2016;0
+2313;Onbekend;65 jaar of ouder;Meerpleger;2017;0
+2314;Onbekend;65 jaar of ouder;Meerpleger;2018;0
+2315;Onbekend;65 jaar of ouder;Meerpleger;2019;0
+2316;Onbekend;65 jaar of ouder;Meerpleger;2020;0
+2317;Onbekend;65 jaar of ouder;Meerpleger;2021;0
+2318;Onbekend;65 jaar of ouder;Meerpleger;2022;0
+2319;Onbekend;65 jaar of ouder;Meerpleger;2023;0
+2320;Onbekend;65 jaar of ouder;Meerpleger;2024;0
+2321;Onbekend;65 jaar of ouder;"Veelpleger; totaal";2014;0
+2322;Onbekend;65 jaar of ouder;"Veelpleger; totaal";2015;0
+2323;Onbekend;65 jaar of ouder;"Veelpleger; totaal";2016;0
+2324;Onbekend;65 jaar of ouder;"Veelpleger; totaal";2017;0
+2325;Onbekend;65 jaar of ouder;"Veelpleger; totaal";2018;0
+2326;Onbekend;65 jaar of ouder;"Veelpleger; totaal";2019;0
+2327;Onbekend;65 jaar of ouder;"Veelpleger; totaal";2020;0
+2328;Onbekend;65 jaar of ouder;"Veelpleger; totaal";2021;0
+2329;Onbekend;65 jaar of ouder;"Veelpleger; totaal";2022;0
+2330;Onbekend;65 jaar of ouder;"Veelpleger; totaal";2023;0
+2331;Onbekend;65 jaar of ouder;"Veelpleger; totaal";2024;0
+2332;Onbekend;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2014;0
+2333;Onbekend;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2015;0
+2334;Onbekend;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2016;0
+2335;Onbekend;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2017;0
+2336;Onbekend;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2018;0
+2337;Onbekend;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2019;0
+2338;Onbekend;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2020;0
+2339;Onbekend;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2021;0
+2340;Onbekend;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2022;0
+2341;Onbekend;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2023;0
+2342;Onbekend;65 jaar of ouder;"Veelpleger; 1 delict in verslagjaar";2024;0
+2343;Onbekend;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2014;0
+2344;Onbekend;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2015;0
+2345;Onbekend;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2016;0
+2346;Onbekend;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2017;0
+2347;Onbekend;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2018;0
+2348;Onbekend;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2019;0
+2349;Onbekend;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2020;0
+2350;Onbekend;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2021;0
+2351;Onbekend;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2022;0
+2352;Onbekend;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2023;0
+2353;Onbekend;65 jaar of ouder;"Veelpleger; 2-5 delicten in verslagjaar";2024;0
+2354;Onbekend;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2014;0
+2355;Onbekend;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2015;0
+2356;Onbekend;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2016;0
+2357;Onbekend;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2017;0
+2358;Onbekend;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2018;0
+2359;Onbekend;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2019;0
+2360;Onbekend;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2020;0
+2361;Onbekend;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2021;0
+2362;Onbekend;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2022;0
+2363;Onbekend;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2023;0
+2364;Onbekend;65 jaar of ouder;"Veelpleger; 6 of meer delicten in jaar";2024;0
+2365;Onbekend;65 jaar of ouder;Recidive onbekend;2014;10
+2366;Onbekend;65 jaar of ouder;Recidive onbekend;2015;0
+2367;Onbekend;65 jaar of ouder;Recidive onbekend;2016;0
+2368;Onbekend;65 jaar of ouder;Recidive onbekend;2017;0
+2369;Onbekend;65 jaar of ouder;Recidive onbekend;2018;0
+2370;Onbekend;65 jaar of ouder;Recidive onbekend;2019;0
+2371;Onbekend;65 jaar of ouder;Recidive onbekend;2020;0
+2372;Onbekend;65 jaar of ouder;Recidive onbekend;2021;0
+2373;Onbekend;65 jaar of ouder;Recidive onbekend;2022;0
+2374;Onbekend;65 jaar of ouder;Recidive onbekend;2023;0
+2375;Onbekend;65 jaar of ouder;Recidive onbekend;2024;10
+2376;Onbekend;Leeftijd onbekend;Totaal;2014;200
+2377;Onbekend;Leeftijd onbekend;Totaal;2015;360
+2378;Onbekend;Leeftijd onbekend;Totaal;2016;210
+2379;Onbekend;Leeftijd onbekend;Totaal;2017;390
+2380;Onbekend;Leeftijd onbekend;Totaal;2018;360
+2381;Onbekend;Leeftijd onbekend;Totaal;2019;300
+2382;Onbekend;Leeftijd onbekend;Totaal;2020;380
+2383;Onbekend;Leeftijd onbekend;Totaal;2021;320
+2384;Onbekend;Leeftijd onbekend;Totaal;2022;300
+2385;Onbekend;Leeftijd onbekend;Totaal;2023;260
+2386;Onbekend;Leeftijd onbekend;Totaal;2024;430
+2387;Onbekend;Leeftijd onbekend;First offender;2014;0
+2388;Onbekend;Leeftijd onbekend;First offender;2015;0
+2389;Onbekend;Leeftijd onbekend;First offender;2016;0
+2390;Onbekend;Leeftijd onbekend;First offender;2017;0
+2391;Onbekend;Leeftijd onbekend;First offender;2018;0
+2392;Onbekend;Leeftijd onbekend;First offender;2019;0
+2393;Onbekend;Leeftijd onbekend;First offender;2020;0
+2394;Onbekend;Leeftijd onbekend;First offender;2021;0
+2395;Onbekend;Leeftijd onbekend;First offender;2022;0
+2396;Onbekend;Leeftijd onbekend;First offender;2023;0
+2397;Onbekend;Leeftijd onbekend;First offender;2024;0
+2398;Onbekend;Leeftijd onbekend;Meerpleger;2014;0
+2399;Onbekend;Leeftijd onbekend;Meerpleger;2015;0
+2400;Onbekend;Leeftijd onbekend;Meerpleger;2016;0
+2401;Onbekend;Leeftijd onbekend;Meerpleger;2017;0
+2402;Onbekend;Leeftijd onbekend;Meerpleger;2018;0
+2403;Onbekend;Leeftijd onbekend;Meerpleger;2019;0
+2404;Onbekend;Leeftijd onbekend;Meerpleger;2020;0
+2405;Onbekend;Leeftijd onbekend;Meerpleger;2021;0
+2406;Onbekend;Leeftijd onbekend;Meerpleger;2022;0
+2407;Onbekend;Leeftijd onbekend;Meerpleger;2023;0
+2408;Onbekend;Leeftijd onbekend;Meerpleger;2024;0
+2409;Onbekend;Leeftijd onbekend;"Veelpleger; totaal";2014;0
+2410;Onbekend;Leeftijd onbekend;"Veelpleger; totaal";2015;0
+2411;Onbekend;Leeftijd onbekend;"Veelpleger; totaal";2016;0
+2412;Onbekend;Leeftijd onbekend;"Veelpleger; totaal";2017;0
+2413;Onbekend;Leeftijd onbekend;"Veelpleger; totaal";2018;0
+2414;Onbekend;Leeftijd onbekend;"Veelpleger; totaal";2019;0
+2415;Onbekend;Leeftijd onbekend;"Veelpleger; totaal";2020;0
+2416;Onbekend;Leeftijd onbekend;"Veelpleger; totaal";2021;0
+2417;Onbekend;Leeftijd onbekend;"Veelpleger; totaal";2022;0
+2418;Onbekend;Leeftijd onbekend;"Veelpleger; totaal";2023;0
+2419;Onbekend;Leeftijd onbekend;"Veelpleger; totaal";2024;0
+2420;Onbekend;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2014;0
+2421;Onbekend;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2015;0
+2422;Onbekend;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2016;0
+2423;Onbekend;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2017;0
+2424;Onbekend;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2018;0
+2425;Onbekend;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2019;0
+2426;Onbekend;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2020;0
+2427;Onbekend;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2021;0
+2428;Onbekend;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2022;0
+2429;Onbekend;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2023;0
+2430;Onbekend;Leeftijd onbekend;"Veelpleger; 1 delict in verslagjaar";2024;0
+2431;Onbekend;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2014;0
+2432;Onbekend;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2015;0
+2433;Onbekend;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2016;0
+2434;Onbekend;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2017;0
+2435;Onbekend;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2018;0
+2436;Onbekend;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2019;0
+2437;Onbekend;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2020;0
+2438;Onbekend;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2021;0
+2439;Onbekend;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2022;0
+2440;Onbekend;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2023;0
+2441;Onbekend;Leeftijd onbekend;"Veelpleger; 2-5 delicten in verslagjaar";2024;0
+2442;Onbekend;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2014;0
+2443;Onbekend;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2015;0
+2444;Onbekend;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2016;0
+2445;Onbekend;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2017;0
+2446;Onbekend;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2018;0
+2447;Onbekend;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2019;0
+2448;Onbekend;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2020;0
+2449;Onbekend;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2021;0
+2450;Onbekend;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2022;0
+2451;Onbekend;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2023;0
+2452;Onbekend;Leeftijd onbekend;"Veelpleger; 6 of meer delicten in jaar";2024;0
+2453;Onbekend;Leeftijd onbekend;Recidive onbekend;2014;200
+2454;Onbekend;Leeftijd onbekend;Recidive onbekend;2015;360
+2455;Onbekend;Leeftijd onbekend;Recidive onbekend;2016;210
+2456;Onbekend;Leeftijd onbekend;Recidive onbekend;2017;390
+2457;Onbekend;Leeftijd onbekend;Recidive onbekend;2018;360
+2458;Onbekend;Leeftijd onbekend;Recidive onbekend;2019;300
+2459;Onbekend;Leeftijd onbekend;Recidive onbekend;2020;380
+2460;Onbekend;Leeftijd onbekend;Recidive onbekend;2021;320
+2461;Onbekend;Leeftijd onbekend;Recidive onbekend;2022;300
+2462;Onbekend;Leeftijd onbekend;Recidive onbekend;2023;260
+2463;Onbekend;Leeftijd onbekend;Recidive onbekend;2024;420

@@ -1,0 +1,987 @@
+﻿ID;Benefits;Periods;SocialBenefits_1
+0;Total social benefits;1995;67444
+1;Total social benefits;1996;66956
+2;Total social benefits;1997;68368
+3;Total social benefits;1998;70721
+4;Total social benefits;1999;72764
+5;Total social benefits;2000;76485
+6;Total social benefits;2001;81725
+7;Total social benefits;2002;88171
+8;Total social benefits;2003;94263
+9;Total social benefits;2004;96316
+10;Total social benefits;2005;97740
+11;Total social benefits;2006;110801
+12;Total social benefits;2007;114985
+13;Total social benefits;2008;122111
+14;Total social benefits;2009;130582
+15;Total social benefits;2010;136453
+16;Total social benefits;2011;139982
+17;Total social benefits;2012;144465
+18;Total social benefits;2013;148352
+19;Total social benefits;2014;149898
+20;Total social benefits;2015;150662
+21;Total social benefits;2016;154009
+22;Total social benefits;2017;156389
+23;Total social benefits;2018;161326
+24;Total social benefits;2019;168425
+25;Total social benefits;2020;173012
+26;Total social benefits;2021;183491
+27;Total social benefits;2022;190701
+28;Total social benefits;2023;212598
+29;Total statutory social security benefits;1995;51825
+30;Total statutory social security benefits;1996;51496
+31;Total statutory social security benefits;1997;54291
+32;Total statutory social security benefits;1998;55278
+33;Total statutory social security benefits;1999;57148
+34;Total statutory social security benefits;2000;60025
+35;Total statutory social security benefits;2001;64709
+36;Total statutory social security benefits;2002;70272
+37;Total statutory social security benefits;2003;75652
+38;Total statutory social security benefits;2004;77628
+39;Total statutory social security benefits;2005;78575
+40;Total statutory social security benefits;2006;88245
+41;Total statutory social security benefits;2007;89232
+42;Total statutory social security benefits;2008;93256
+43;Total statutory social security benefits;2009;99747
+44;Total statutory social security benefits;2010;104083
+45;Total statutory social security benefits;2011;106449
+46;Total statutory social security benefits;2012;111014
+47;Total statutory social security benefits;2013;114557
+48;Total statutory social security benefits;2014;116662
+49;Total statutory social security benefits;2015;113146
+50;Total statutory social security benefits;2016;114892
+51;Total statutory social security benefits;2017;116466
+52;Total statutory social security benefits;2018;119904
+53;Total statutory social security benefits;2019;125003
+54;Total statutory social security benefits;2020;127847
+55;Total statutory social security benefits;2021;135520
+56;Total statutory social security benefits;2022;140451
+57;Total statutory social security benefits;2023;155766
+58;Act on Work and Income based on Work ...;1995;0
+59;Act on Work and Income based on Work ...;1996;0
+60;Act on Work and Income based on Work ...;1997;0
+61;Act on Work and Income based on Work ...;1998;0
+62;Act on Work and Income based on Work ...;1999;0
+63;Act on Work and Income based on Work ...;2000;0
+64;Act on Work and Income based on Work ...;2001;0
+65;Act on Work and Income based on Work ...;2002;0
+66;Act on Work and Income based on Work ...;2003;0
+67;Act on Work and Income based on Work ...;2004;0
+68;Act on Work and Income based on Work ...;2005;0
+69;Act on Work and Income based on Work ...;2006;150
+70;Act on Work and Income based on Work ...;2007;480
+71;Act on Work and Income based on Work ...;2008;829
+72;Act on Work and Income based on Work ...;2009;1163
+73;Act on Work and Income based on Work ...;2010;1561
+74;Act on Work and Income based on Work ...;2011;2021
+75;Act on Work and Income based on Work ...;2012;2461
+76;Act on Work and Income based on Work ...;2013;3021
+77;Act on Work and Income based on Work ...;2014;3521
+78;Act on Work and Income based on Work ...;2015;4060
+79;Act on Work and Income based on Work ...;2016;4717
+80;Act on Work and Income based on Work ...;2017;5304
+81;Act on Work and Income based on Work ...;2018;5995
+82;Act on Work and Income based on Work ...;2019;6705
+83;Act on Work and Income based on Work ...;2020;7330
+84;Act on Work and Income based on Work ...;2021;7869
+85;Act on Work and Income based on Work ...;2022;8659
+86;Act on Work and Income based on Work ...;2023;10475
+87;Compulsory Health Insurance Act (ZFW-vp);1995;7071
+88;Compulsory Health Insurance Act (ZFW-vp);1996;9540
+89;Compulsory Health Insurance Act (ZFW-vp);1997;10322
+90;Compulsory Health Insurance Act (ZFW-vp);1998;10758
+91;Compulsory Health Insurance Act (ZFW-vp);1999;11346
+92;Compulsory Health Insurance Act (ZFW-vp);2000;12318
+93;Compulsory Health Insurance Act (ZFW-vp);2001;13512
+94;Compulsory Health Insurance Act (ZFW-vp);2002;15049
+95;Compulsory Health Insurance Act (ZFW-vp);2003;16162
+96;Compulsory Health Insurance Act (ZFW-vp);2004;16412
+97;Compulsory Health Insurance Act (ZFW-vp);2005;16743
+98;Compulsory Health Insurance Act (ZFW-vp);2006;0
+99;Compulsory Health Insurance Act (ZFW-vp);2007;0
+100;Compulsory Health Insurance Act (ZFW-vp);2008;0
+101;Compulsory Health Insurance Act (ZFW-vp);2009;0
+102;Compulsory Health Insurance Act (ZFW-vp);2010;0
+103;Compulsory Health Insurance Act (ZFW-vp);2011;0
+104;Compulsory Health Insurance Act (ZFW-vp);2012;0
+105;Compulsory Health Insurance Act (ZFW-vp);2013;0
+106;Compulsory Health Insurance Act (ZFW-vp);2014;0
+107;Compulsory Health Insurance Act (ZFW-vp);2015;0
+108;Compulsory Health Insurance Act (ZFW-vp);2016;0
+109;Compulsory Health Insurance Act (ZFW-vp);2017;0
+110;Compulsory Health Insurance Act (ZFW-vp);2018;0
+111;Compulsory Health Insurance Act (ZFW-vp);2019;0
+112;Compulsory Health Insurance Act (ZFW-vp);2020;0
+113;Compulsory Health Insurance Act (ZFW-vp);2021;0
+114;Compulsory Health Insurance Act (ZFW-vp);2022;0
+115;Compulsory Health Insurance Act (ZFW-vp);2023;0
+116;Disability Benefits Act (WAO);1995;3544
+117;Disability Benefits Act (WAO);1996;3502
+118;Disability Benefits Act (WAO);1997;3349
+119;Disability Benefits Act (WAO);1998;9210
+120;Disability Benefits Act (WAO);1999;9536
+121;Disability Benefits Act (WAO);2000;9932
+122;Disability Benefits Act (WAO);2001;10445
+123;Disability Benefits Act (WAO);2002;10785
+124;Disability Benefits Act (WAO);2003;11016
+125;Disability Benefits Act (WAO);2004;10705
+126;Disability Benefits Act (WAO);2005;10023
+127;Disability Benefits Act (WAO);2006;9116
+128;Disability Benefits Act (WAO);2007;9050
+129;Disability Benefits Act (WAO);2008;9112
+130;Disability Benefits Act (WAO);2009;8644
+131;Disability Benefits Act (WAO);2010;8213
+132;Disability Benefits Act (WAO);2011;7657
+133;Disability Benefits Act (WAO);2012;7011
+134;Disability Benefits Act (WAO);2013;6606
+135;Disability Benefits Act (WAO);2014;6177
+136;Disability Benefits Act (WAO);2015;5724
+137;Disability Benefits Act (WAO);2016;5317
+138;Disability Benefits Act (WAO);2017;5040
+139;Disability Benefits Act (WAO);2018;4782
+140;Disability Benefits Act (WAO);2019;4583
+141;Disability Benefits Act (WAO);2020;4233
+142;Disability Benefits Act (WAO);2021;3861
+143;Disability Benefits Act (WAO);2022;3685
+144;Disability Benefits Act (WAO);2023;3833
+145;General Disability Benefits Act (AAW);1995;5987
+146;General Disability Benefits Act (AAW);1996;5957
+147;General Disability Benefits Act (AAW);1997;6447
+148;General Disability Benefits Act (AAW);1998;47
+149;General Disability Benefits Act (AAW);1999;15
+150;General Disability Benefits Act (AAW);2000;0
+151;General Disability Benefits Act (AAW);2001;0
+152;General Disability Benefits Act (AAW);2002;0
+153;General Disability Benefits Act (AAW);2003;0
+154;General Disability Benefits Act (AAW);2004;0
+155;General Disability Benefits Act (AAW);2005;0
+156;General Disability Benefits Act (AAW);2006;0
+157;General Disability Benefits Act (AAW);2007;0
+158;General Disability Benefits Act (AAW);2008;0
+159;General Disability Benefits Act (AAW);2009;0
+160;General Disability Benefits Act (AAW);2010;0
+161;General Disability Benefits Act (AAW);2011;0
+162;General Disability Benefits Act (AAW);2012;0
+163;General Disability Benefits Act (AAW);2013;0
+164;General Disability Benefits Act (AAW);2014;0
+165;General Disability Benefits Act (AAW);2015;0
+166;General Disability Benefits Act (AAW);2016;0
+167;General Disability Benefits Act (AAW);2017;0
+168;General Disability Benefits Act (AAW);2018;0
+169;General Disability Benefits Act (AAW);2019;0
+170;General Disability Benefits Act (AAW);2020;0
+171;General Disability Benefits Act (AAW);2021;0
+172;General Disability Benefits Act (AAW);2022;0
+173;General Disability Benefits Act (AAW);2023;0
+174;General Exceptional Medical Expenses Act;1995;11221
+175;General Exceptional Medical Expenses Act;1996;8306
+176;General Exceptional Medical Expenses Act;1997;10415
+177;General Exceptional Medical Expenses Act;1998;11112
+178;General Exceptional Medical Expenses Act;1999;11718
+179;General Exceptional Medical Expenses Act;2000;12924
+180;General Exceptional Medical Expenses Act;2001;14319
+181;General Exceptional Medical Expenses Act;2002;16505
+182;General Exceptional Medical Expenses Act;2003;18020
+183;General Exceptional Medical Expenses Act;2004;18959
+184;General Exceptional Medical Expenses Act;2005;19680
+185;General Exceptional Medical Expenses Act;2006;20877
+186;General Exceptional Medical Expenses Act;2007;20954
+187;General Exceptional Medical Expenses Act;2008;19997
+188;General Exceptional Medical Expenses Act;2009;21443
+189;General Exceptional Medical Expenses Act;2010;22337
+190;General Exceptional Medical Expenses Act;2011;23125
+191;General Exceptional Medical Expenses Act;2012;25771
+192;General Exceptional Medical Expenses Act;2013;25127
+193;General Exceptional Medical Expenses Act;2014;25373
+194;General Exceptional Medical Expenses Act;2015;272
+195;General Exceptional Medical Expenses Act;2016;114
+196;General Exceptional Medical Expenses Act;2017;0
+197;General Exceptional Medical Expenses Act;2018;0
+198;General Exceptional Medical Expenses Act;2019;0
+199;General Exceptional Medical Expenses Act;2020;-118
+200;General Exceptional Medical Expenses Act;2021;0
+201;General Exceptional Medical Expenses Act;2022;0
+202;General Exceptional Medical Expenses Act;2023;-4
+203;General Old Age Pensions Act (AOW);1995;15180
+204;General Old Age Pensions Act (AOW);1996;15853
+205;General Old Age Pensions Act (AOW);1997;16609
+206;General Old Age Pensions Act (AOW);1998;17578
+207;General Old Age Pensions Act (AOW);1999;18400
+208;General Old Age Pensions Act (AOW);2000;19098
+209;General Old Age Pensions Act (AOW);2001;20284
+210;General Old Age Pensions Act (AOW);2002;21383
+211;General Old Age Pensions Act (AOW);2003;22429
+212;General Old Age Pensions Act (AOW);2004;22890
+213;General Old Age Pensions Act (AOW);2005;23369
+214;General Old Age Pensions Act (AOW);2006;24169
+215;General Old Age Pensions Act (AOW);2007;25198
+216;General Old Age Pensions Act (AOW);2008;26446
+217;General Old Age Pensions Act (AOW);2009;27580
+218;General Old Age Pensions Act (AOW);2010;28618
+219;General Old Age Pensions Act (AOW);2011;29996
+220;General Old Age Pensions Act (AOW);2012;31415
+221;General Old Age Pensions Act (AOW);2013;32719
+222;General Old Age Pensions Act (AOW);2014;34120
+223;General Old Age Pensions Act (AOW);2015;35814
+224;General Old Age Pensions Act (AOW);2016;36941
+225;General Old Age Pensions Act (AOW);2017;37412
+226;General Old Age Pensions Act (AOW);2018;38125
+227;General Old Age Pensions Act (AOW);2019;39484
+228;General Old Age Pensions Act (AOW);2020;41235
+229;General Old Age Pensions Act (AOW);2021;42956
+230;General Old Age Pensions Act (AOW);2022;44031
+231;General Old Age Pensions Act (AOW);2023;47935
+232;General Surviving Relatives Act (Anw);1995;2139
+233;General Surviving Relatives Act (Anw);1996;2193
+234;General Surviving Relatives Act (Anw);1997;2090
+235;General Surviving Relatives Act (Anw);1998;1624
+236;General Surviving Relatives Act (Anw);1999;1614
+237;General Surviving Relatives Act (Anw);2000;1578
+238;General Surviving Relatives Act (Anw);2001;1595
+239;General Surviving Relatives Act (Anw);2002;1608
+240;General Surviving Relatives Act (Anw);2003;1586
+241;General Surviving Relatives Act (Anw);2004;1521
+242;General Surviving Relatives Act (Anw);2005;1448
+243;General Surviving Relatives Act (Anw);2006;1405
+244;General Surviving Relatives Act (Anw);2007;1344
+245;General Surviving Relatives Act (Anw);2008;1287
+246;General Surviving Relatives Act (Anw);2009;1224
+247;General Surviving Relatives Act (Anw);2010;1137
+248;General Surviving Relatives Act (Anw);2011;1040
+249;General Surviving Relatives Act (Anw);2012;901
+250;General Surviving Relatives Act (Anw);2013;764
+251;General Surviving Relatives Act (Anw);2014;625
+252;General Surviving Relatives Act (Anw);2015;471
+253;General Surviving Relatives Act (Anw);2016;442
+254;General Surviving Relatives Act (Anw);2017;416
+255;General Surviving Relatives Act (Anw);2018;401
+256;General Surviving Relatives Act (Anw);2019;379
+257;General Surviving Relatives Act (Anw);2020;359
+258;General Surviving Relatives Act (Anw);2021;337
+259;General Surviving Relatives Act (Anw);2022;327
+260;General Surviving Relatives Act (Anw);2023;356
+261;Health Care Insurance Act (Zvw);1995;0
+262;Health Care Insurance Act (Zvw);1996;0
+263;Health Care Insurance Act (Zvw);1997;0
+264;Health Care Insurance Act (Zvw);1998;0
+265;Health Care Insurance Act (Zvw);1999;0
+266;Health Care Insurance Act (Zvw);2000;0
+267;Health Care Insurance Act (Zvw);2001;0
+268;Health Care Insurance Act (Zvw);2002;0
+269;Health Care Insurance Act (Zvw);2003;0
+270;Health Care Insurance Act (Zvw);2004;0
+271;Health Care Insurance Act (Zvw);2005;0
+272;Health Care Insurance Act (Zvw);2006;25514
+273;Health Care Insurance Act (Zvw);2007;26098
+274;Health Care Insurance Act (Zvw);2008;29916
+275;Health Care Insurance Act (Zvw);2009;32609
+276;Health Care Insurance Act (Zvw);2010;33804
+277;Health Care Insurance Act (Zvw);2011;34211
+278;Health Care Insurance Act (Zvw);2012;34061
+279;Health Care Insurance Act (Zvw);2013;35343
+280;Health Care Insurance Act (Zvw);2014;35355
+281;Health Care Insurance Act (Zvw);2015;38588
+282;Health Care Insurance Act (Zvw);2016;39413
+283;Health Care Insurance Act (Zvw);2017;40677
+284;Health Care Insurance Act (Zvw);2018;42313
+285;Health Care Insurance Act (Zvw);2019;43980
+286;Health Care Insurance Act (Zvw);2020;43048
+287;Health Care Insurance Act (Zvw);2021;46476
+288;Health Care Insurance Act (Zvw);2022;48525
+289;Health Care Insurance Act (Zvw);2023;52685
+290;Long-term care Act (Wlz);1995;0
+291;Long-term care Act (Wlz);1996;0
+292;Long-term care Act (Wlz);1997;0
+293;Long-term care Act (Wlz);1998;0
+294;Long-term care Act (Wlz);1999;0
+295;Long-term care Act (Wlz);2000;0
+296;Long-term care Act (Wlz);2001;0
+297;Long-term care Act (Wlz);2002;0
+298;Long-term care Act (Wlz);2003;0
+299;Long-term care Act (Wlz);2004;0
+300;Long-term care Act (Wlz);2005;0
+301;Long-term care Act (Wlz);2006;0
+302;Long-term care Act (Wlz);2007;0
+303;Long-term care Act (Wlz);2008;0
+304;Long-term care Act (Wlz);2009;0
+305;Long-term care Act (Wlz);2010;0
+306;Long-term care Act (Wlz);2011;0
+307;Long-term care Act (Wlz);2012;0
+308;Long-term care Act (Wlz);2013;0
+309;Long-term care Act (Wlz);2014;0
+310;Long-term care Act (Wlz);2015;17367
+311;Long-term care Act (Wlz);2016;17865
+312;Long-term care Act (Wlz);2017;18168
+313;Long-term care Act (Wlz);2018;19605
+314;Long-term care Act (Wlz);2019;21718
+315;Long-term care Act (Wlz);2020;22739
+316;Long-term care Act (Wlz);2021;25409
+317;Long-term care Act (Wlz);2022;27619
+318;Long-term care Act (Wlz);2023;30939
+319;Self-Employed Persons Disability Bene...;1995;0
+320;Self-Employed Persons Disability Bene...;1996;0
+321;Self-Employed Persons Disability Bene...;1997;0
+322;Self-Employed Persons Disability Bene...;1998;459
+323;Self-Employed Persons Disability Bene...;1999;512
+324;Self-Employed Persons Disability Bene...;2000;493
+325;Self-Employed Persons Disability Bene...;2001;529
+326;Self-Employed Persons Disability Bene...;2002;526
+327;Self-Employed Persons Disability Bene...;2003;548
+328;Self-Employed Persons Disability Bene...;2004;532
+329;Self-Employed Persons Disability Bene...;2005;502
+330;Self-Employed Persons Disability Bene...;2006;470
+331;Self-Employed Persons Disability Bene...;2007;441
+332;Self-Employed Persons Disability Bene...;2008;422
+333;Self-Employed Persons Disability Bene...;2009;379
+334;Self-Employed Persons Disability Bene...;2010;338
+335;Self-Employed Persons Disability Bene...;2011;311
+336;Self-Employed Persons Disability Bene...;2012;280
+337;Self-Employed Persons Disability Bene...;2013;242
+338;Self-Employed Persons Disability Bene...;2014;219
+339;Self-Employed Persons Disability Bene...;2015;197
+340;Self-Employed Persons Disability Bene...;2016;176
+341;Self-Employed Persons Disability Bene...;2017;159
+342;Self-Employed Persons Disability Bene...;2018;143
+343;Self-Employed Persons Disability Bene...;2019;130
+344;Self-Employed Persons Disability Bene...;2020;117
+345;Self-Employed Persons Disability Bene...;2021;102
+346;Self-Employed Persons Disability Bene...;2022;94
+347;Self-Employed Persons Disability Bene...;2023;65
+348;Sickness Benefits Act (ZW);1995;2007
+349;Sickness Benefits Act (ZW);1996;344
+350;Sickness Benefits Act (ZW);1997;0
+351;Sickness Benefits Act (ZW);1998;0
+352;Sickness Benefits Act (ZW);1999;0
+353;Sickness Benefits Act (ZW);2000;0
+354;Sickness Benefits Act (ZW);2001;0
+355;Sickness Benefits Act (ZW);2002;0
+356;Sickness Benefits Act (ZW);2003;0
+357;Sickness Benefits Act (ZW);2004;0
+358;Sickness Benefits Act (ZW);2005;0
+359;Sickness Benefits Act (ZW);2006;0
+360;Sickness Benefits Act (ZW);2007;0
+361;Sickness Benefits Act (ZW);2008;0
+362;Sickness Benefits Act (ZW);2009;0
+363;Sickness Benefits Act (ZW);2010;0
+364;Sickness Benefits Act (ZW);2011;0
+365;Sickness Benefits Act (ZW);2012;0
+366;Sickness Benefits Act (ZW);2013;0
+367;Sickness Benefits Act (ZW);2014;0
+368;Sickness Benefits Act (ZW);2015;0
+369;Sickness Benefits Act (ZW);2016;0
+370;Sickness Benefits Act (ZW);2017;0
+371;Sickness Benefits Act (ZW);2018;0
+372;Sickness Benefits Act (ZW);2019;0
+373;Sickness Benefits Act (ZW);2020;0
+374;Sickness Benefits Act (ZW);2021;0
+375;Sickness Benefits Act (ZW);2022;0
+376;Sickness Benefits Act (ZW);2023;0
+377;Sickness Benefits Act safety net (ZW-...;1995;0
+378;Sickness Benefits Act safety net (ZW-...;1996;0
+379;Sickness Benefits Act safety net (ZW-...;1997;0
+380;Sickness Benefits Act safety net (ZW-...;1998;0
+381;Sickness Benefits Act safety net (ZW-...;1999;0
+382;Sickness Benefits Act safety net (ZW-...;2000;0
+383;Sickness Benefits Act safety net (ZW-...;2001;0
+384;Sickness Benefits Act safety net (ZW-...;2002;988
+385;Sickness Benefits Act safety net (ZW-...;2003;1068
+386;Sickness Benefits Act safety net (ZW-...;2004;939
+387;Sickness Benefits Act safety net (ZW-...;2005;1052
+388;Sickness Benefits Act safety net (ZW-...;2006;1390
+389;Sickness Benefits Act safety net (ZW-...;2007;1365
+390;Sickness Benefits Act safety net (ZW-...;2008;1247
+391;Sickness Benefits Act safety net (ZW-...;2009;1480
+392;Sickness Benefits Act safety net (ZW-...;2010;1735
+393;Sickness Benefits Act safety net (ZW-...;2011;1803
+394;Sickness Benefits Act safety net (ZW-...;2012;1893
+395;Sickness Benefits Act safety net (ZW-...;2013;1854
+396;Sickness Benefits Act safety net (ZW-...;2014;1819
+397;Sickness Benefits Act safety net (ZW-...;2015;1763
+398;Sickness Benefits Act safety net (ZW-...;2016;1804
+399;Sickness Benefits Act safety net (ZW-...;2017;1871
+400;Sickness Benefits Act safety net (ZW-...;2018;1946
+401;Sickness Benefits Act safety net (ZW-...;2019;2077
+402;Sickness Benefits Act safety net (ZW-...;2020;2308
+403;Sickness Benefits Act safety net (ZW-...;2021;2304
+404;Sickness Benefits Act safety net (ZW-...;2022;2313
+405;Sickness Benefits Act safety net (ZW-...;2023;2597
+406;Unemployment Benefits Act (WW);1995;4676
+407;Unemployment Benefits Act (WW);1996;5801
+408;Unemployment Benefits Act (WW);1997;5059
+409;Unemployment Benefits Act (WW);1998;4490
+410;Unemployment Benefits Act (WW);1999;4007
+411;Unemployment Benefits Act (WW);2000;3682
+412;Unemployment Benefits Act (WW);2001;4025
+413;Unemployment Benefits Act (WW);2002;2645
+414;Unemployment Benefits Act (WW);2003;3821
+415;Unemployment Benefits Act (WW);2004;4682
+416;Unemployment Benefits Act (WW);2005;4875
+417;Unemployment Benefits Act (WW);2006;4195
+418;Unemployment Benefits Act (WW);2007;3317
+419;Unemployment Benefits Act (WW);2008;2827
+420;Unemployment Benefits Act (WW);2009;3984
+421;Unemployment Benefits Act (WW);2010;5040
+422;Unemployment Benefits Act (WW);2011;4990
+423;Unemployment Benefits Act (WW);2012;5910
+424;Unemployment Benefits Act (WW);2013;7599
+425;Unemployment Benefits Act (WW);2014;8163
+426;Unemployment Benefits Act (WW);2015;7619
+427;Unemployment Benefits Act (WW);2016;6780
+428;Unemployment Benefits Act (WW);2017;6088
+429;Unemployment Benefits Act (WW);2018;5088
+430;Unemployment Benefits Act (WW);2019;4485
+431;Unemployment Benefits Act (WW);2020;5010
+432;Unemployment Benefits Act (WW);2021;4257
+433;Unemployment Benefits Act (WW);2022;3125
+434;Unemployment Benefits Act (WW);2023;3517
+435;Work and Care Act (WAZO);1995;0
+436;Work and Care Act (WAZO);1996;0
+437;Work and Care Act (WAZO);1997;0
+438;Work and Care Act (WAZO);1998;0
+439;Work and Care Act (WAZO);1999;0
+440;Work and Care Act (WAZO);2000;0
+441;Work and Care Act (WAZO);2001;0
+442;Work and Care Act (WAZO);2002;783
+443;Work and Care Act (WAZO);2003;1002
+444;Work and Care Act (WAZO);2004;988
+445;Work and Care Act (WAZO);2005;883
+446;Work and Care Act (WAZO);2006;959
+447;Work and Care Act (WAZO);2007;985
+448;Work and Care Act (WAZO);2008;1173
+449;Work and Care Act (WAZO);2009;1241
+450;Work and Care Act (WAZO);2010;1300
+451;Work and Care Act (WAZO);2011;1295
+452;Work and Care Act (WAZO);2012;1311
+453;Work and Care Act (WAZO);2013;1282
+454;Work and Care Act (WAZO);2014;1290
+455;Work and Care Act (WAZO);2015;1271
+456;Work and Care Act (WAZO);2016;1323
+457;Work and Care Act (WAZO);2017;1331
+458;Work and Care Act (WAZO);2018;1506
+459;Work and Care Act (WAZO);2019;1462
+460;Work and Care Act (WAZO);2020;1586
+461;Work and Care Act (WAZO);2021;1949
+462;Work and Care Act (WAZO);2022;2073
+463;Work and Care Act (WAZO);2023;3368
+464;Total social assistance benefits;1995;15619
+465;Total social assistance benefits;1996;15460
+466;Total social assistance benefits;1997;14077
+467;Total social assistance benefits;1998;15443
+468;Total social assistance benefits;1999;15616
+469;Total social assistance benefits;2000;16460
+470;Total social assistance benefits;2001;17016
+471;Total social assistance benefits;2002;17899
+472;Total social assistance benefits;2003;18611
+473;Total social assistance benefits;2004;18688
+474;Total social assistance benefits;2005;19165
+475;Total social assistance benefits;2006;22556
+476;Total social assistance benefits;2007;25753
+477;Total social assistance benefits;2008;28855
+478;Total social assistance benefits;2009;30835
+479;Total social assistance benefits;2010;32370
+480;Total social assistance benefits;2011;33533
+481;Total social assistance benefits;2012;33451
+482;Total social assistance benefits;2013;33795
+483;Total social assistance benefits;2014;33236
+484;Total social assistance benefits;2015;37516
+485;Total social assistance benefits;2016;39117
+486;Total social assistance benefits;2017;39923
+487;Total social assistance benefits;2018;41422
+488;Total social assistance benefits;2019;43422
+489;Total social assistance benefits;2020;45165
+490;Total social assistance benefits;2021;47971
+491;Total social assistance benefits;2022;50250
+492;Total social assistance benefits;2023;56832
+493;Assistance for transport of schoolchi...;1995;91
+494;Assistance for transport of schoolchi...;1996;91
+495;Assistance for transport of schoolchi...;1997;91
+496;Assistance for transport of schoolchi...;1998;93
+497;Assistance for transport of schoolchi...;1999;95
+498;Assistance for transport of schoolchi...;2000;98
+499;Assistance for transport of schoolchi...;2001;130
+500;Assistance for transport of schoolchi...;2002;148
+501;Assistance for transport of schoolchi...;2003;156
+502;Assistance for transport of schoolchi...;2004;161
+503;Assistance for transport of schoolchi...;2005;169
+504;Assistance for transport of schoolchi...;2006;185
+505;Assistance for transport of schoolchi...;2007;199
+506;Assistance for transport of schoolchi...;2008;221
+507;Assistance for transport of schoolchi...;2009;247
+508;Assistance for transport of schoolchi...;2010;236
+509;Assistance for transport of schoolchi...;2011;244
+510;Assistance for transport of schoolchi...;2012;253
+511;Assistance for transport of schoolchi...;2013;237
+512;Assistance for transport of schoolchi...;2014;214
+513;Assistance for transport of schoolchi...;2015;193
+514;Assistance for transport of schoolchi...;2016;194
+515;Assistance for transport of schoolchi...;2017;199
+516;Assistance for transport of schoolchi...;2018;212
+517;Assistance for transport of schoolchi...;2019;275
+518;Assistance for transport of schoolchi...;2020;239
+519;Assistance for transport of schoolchi...;2021;309
+520;Assistance for transport of schoolchi...;2022;336
+521;Assistance for transport of schoolchi...;2023;349
+522;Assistance to older and partially dis...;1995;232
+523;Assistance to older and partially dis...;1996;236
+524;Assistance to older and partially dis...;1997;247
+525;Assistance to older and partially dis...;1998;244
+526;Assistance to older and partially dis...;1999;263
+527;Assistance to older and partially dis...;2000;270
+528;Assistance to older and partially dis...;2001;239
+529;Assistance to older and partially dis...;2002;251
+530;Assistance to older and partially dis...;2003;233
+531;Assistance to older and partially dis...;2004;191
+532;Assistance to older and partially dis...;2005;151
+533;Assistance to older and partially dis...;2006;112
+534;Assistance to older and partially dis...;2007;111
+535;Assistance to older and partially dis...;2008;113
+536;Assistance to older and partially dis...;2009;153
+537;Assistance to older and partially dis...;2010;152
+538;Assistance to older and partially dis...;2011;161
+539;Assistance to older and partially dis...;2012;181
+540;Assistance to older and partially dis...;2013;197
+541;Assistance to older and partially dis...;2014;251
+542;Assistance to older and partially dis...;2015;298
+543;Assistance to older and partially dis...;2016;299
+544;Assistance to older and partially dis...;2017;318
+545;Assistance to older and partially dis...;2018;409
+546;Assistance to older and partially dis...;2019;379
+547;Assistance to older and partially dis...;2020;359
+548;Assistance to older and partially dis...;2021;325
+549;Assistance to older and partially dis...;2022;289
+550;Assistance to older and partially dis...;2023;272
+551;Child benefit (kgb);1995;0
+552;Child benefit (kgb);1996;0
+553;Child benefit (kgb);1997;0
+554;Child benefit (kgb);1998;0
+555;Child benefit (kgb);1999;0
+556;Child benefit (kgb);2000;0
+557;Child benefit (kgb);2001;0
+558;Child benefit (kgb);2002;0
+559;Child benefit (kgb);2003;0
+560;Child benefit (kgb);2004;0
+561;Child benefit (kgb);2005;0
+562;Child benefit (kgb);2006;0
+563;Child benefit (kgb);2007;0
+564;Child benefit (kgb);2008;823
+565;Child benefit (kgb);2009;942
+566;Child benefit (kgb);2010;896
+567;Child benefit (kgb);2011;976
+568;Child benefit (kgb);2012;911
+569;Child benefit (kgb);2013;896
+570;Child benefit (kgb);2014;936
+571;Child benefit (kgb);2015;1822
+572;Child benefit (kgb);2016;1908
+573;Child benefit (kgb);2017;1895
+574;Child benefit (kgb);2018;1910
+575;Child benefit (kgb);2019;2065
+576;Child benefit (kgb);2020;2709
+577;Child benefit (kgb);2021;2648
+578;Child benefit (kgb);2022;2662
+579;Child benefit (kgb);2023;3656
+580;Childcare;1995;30
+581;Childcare;1996;31
+582;Childcare;1997;35
+583;Childcare;1998;39
+584;Childcare;1999;43
+585;Childcare;2000;47
+586;Childcare;2001;70
+587;Childcare;2002;97
+588;Childcare;2003;98
+589;Childcare;2004;99
+590;Childcare;2005;610
+591;Childcare;2006;923
+592;Childcare;2007;2027
+593;Childcare;2008;2795
+594;Childcare;2009;3047
+595;Childcare;2010;2997
+596;Childcare;2011;2920
+597;Childcare;2012;2455
+598;Childcare;2013;2063
+599;Childcare;2014;1835
+600;Childcare;2015;1741
+601;Childcare;2016;2095
+602;Childcare;2017;2370
+603;Childcare;2018;2613
+604;Childcare;2019;3095
+605;Childcare;2020;2928
+606;Childcare;2021;3496
+607;Childcare;2022;3939
+608;Childcare;2023;4253
+609;Disability Assistance Act for Handica...;1995;0
+610;Disability Assistance Act for Handica...;1996;0
+611;Disability Assistance Act for Handica...;1997;0
+612;Disability Assistance Act for Handica...;1998;1007
+613;Disability Assistance Act for Handica...;1999;982
+614;Disability Assistance Act for Handica...;2000;1024
+615;Disability Assistance Act for Handica...;2001;1132
+616;Disability Assistance Act for Handica...;2002;1135
+617;Disability Assistance Act for Handica...;2003;1283
+618;Disability Assistance Act for Handica...;2004;1326
+619;Disability Assistance Act for Handica...;2005;1419
+620;Disability Assistance Act for Handica...;2006;1525
+621;Disability Assistance Act for Handica...;2007;1716
+622;Disability Assistance Act for Handica...;2008;1894
+623;Disability Assistance Act for Handica...;2009;2085
+624;Disability Assistance Act for Handica...;2010;2230
+625;Disability Assistance Act for Handica...;2011;2381
+626;Disability Assistance Act for Handica...;2012;2523
+627;Disability Assistance Act for Handica...;2013;2713
+628;Disability Assistance Act for Handica...;2014;2879
+629;Disability Assistance Act for Handica...;2015;3010
+630;Disability Assistance Act for Handica...;2016;3090
+631;Disability Assistance Act for Handica...;2017;3163
+632;Disability Assistance Act for Handica...;2018;3168
+633;Disability Assistance Act for Handica...;2019;3237
+634;Disability Assistance Act for Handica...;2020;3413
+635;Disability Assistance Act for Handica...;2021;3500
+636;Disability Assistance Act for Handica...;2022;3607
+637;Disability Assistance Act for Handica...;2023;4091
+638;Early childhood education and care;1995;42
+639;Early childhood education and care;1996;43
+640;Early childhood education and care;1997;48
+641;Early childhood education and care;1998;54
+642;Early childhood education and care;1999;59
+643;Early childhood education and care;2000;65
+644;Early childhood education and care;2001;98
+645;Early childhood education and care;2002;134
+646;Early childhood education and care;2003;136
+647;Early childhood education and care;2004;136
+648;Early childhood education and care;2005;124
+649;Early childhood education and care;2006;123
+650;Early childhood education and care;2007;128
+651;Early childhood education and care;2008;146
+652;Early childhood education and care;2009;136
+653;Early childhood education and care;2010;139
+654;Early childhood education and care;2011;143
+655;Early childhood education and care;2012;153
+656;Early childhood education and care;2013;163
+657;Early childhood education and care;2014;156
+658;Early childhood education and care;2015;155
+659;Early childhood education and care;2016;157
+660;Early childhood education and care;2017;185
+661;Early childhood education and care;2018;189
+662;Early childhood education and care;2019;193
+663;Early childhood education and care;2020;198
+664;Early childhood education and care;2021;203
+665;Early childhood education and care;2022;208
+666;Early childhood education and care;2023;213
+667;General Family Allowance Act (AKW);1995;2955
+668;General Family Allowance Act (AKW);1996;2898
+669;General Family Allowance Act (AKW);1997;2832
+670;General Family Allowance Act (AKW);1998;2868
+671;General Family Allowance Act (AKW);1999;2828
+672;General Family Allowance Act (AKW);2000;2911
+673;General Family Allowance Act (AKW);2001;3001
+674;General Family Allowance Act (AKW);2002;3118
+675;General Family Allowance Act (AKW);2003;3199
+676;General Family Allowance Act (AKW);2004;3232
+677;General Family Allowance Act (AKW);2005;3191
+678;General Family Allowance Act (AKW);2006;3263
+679;General Family Allowance Act (AKW);2007;3348
+680;General Family Allowance Act (AKW);2008;3390
+681;General Family Allowance Act (AKW);2009;3401
+682;General Family Allowance Act (AKW);2010;3371
+683;General Family Allowance Act (AKW);2011;3346
+684;General Family Allowance Act (AKW);2012;3236
+685;General Family Allowance Act (AKW);2013;3229
+686;General Family Allowance Act (AKW);2014;3203
+687;General Family Allowance Act (AKW);2015;3216
+688;General Family Allowance Act (AKW);2016;3310
+689;General Family Allowance Act (AKW);2017;3330
+690;General Family Allowance Act (AKW);2018;3349
+691;General Family Allowance Act (AKW);2019;3628
+692;General Family Allowance Act (AKW);2020;3657
+693;General Family Allowance Act (AKW);2021;3680
+694;General Family Allowance Act (AKW);2022;3930
+695;General Family Allowance Act (AKW);2023;4365
+696;Health care allowance;1995;0
+697;Health care allowance;1996;0
+698;Health care allowance;1997;0
+699;Health care allowance;1998;0
+700;Health care allowance;1999;0
+701;Health care allowance;2000;0
+702;Health care allowance;2001;0
+703;Health care allowance;2002;0
+704;Health care allowance;2003;0
+705;Health care allowance;2004;0
+706;Health care allowance;2005;0
+707;Health care allowance;2006;2503
+708;Health care allowance;2007;2706
+709;Health care allowance;2008;3357
+710;Health care allowance;2009;3570
+711;Health care allowance;2010;3835
+712;Health care allowance;2011;4714
+713;Health care allowance;2012;4589
+714;Health care allowance;2013;5137
+715;Health care allowance;2014;4030
+716;Health care allowance;2015;3899
+717;Health care allowance;2016;4204
+718;Health care allowance;2017;4240
+719;Health care allowance;2018;4594
+720;Health care allowance;2019;4909
+721;Health care allowance;2020;5230
+722;Health care allowance;2021;5473
+723;Health care allowance;2022;5616
+724;Health care allowance;2023;7950
+725;Reintegration benefits;1995;39
+726;Reintegration benefits;1996;88
+727;Reintegration benefits;1997;156
+728;Reintegration benefits;1998;234
+729;Reintegration benefits;1999;244
+730;Reintegration benefits;2000;394
+731;Reintegration benefits;2001;403
+732;Reintegration benefits;2002;466
+733;Reintegration benefits;2003;535
+734;Reintegration benefits;2004;583
+735;Reintegration benefits;2005;635
+736;Reintegration benefits;2006;424
+737;Reintegration benefits;2007;415
+738;Reintegration benefits;2008;343
+739;Reintegration benefits;2009;337
+740;Reintegration benefits;2010;333
+741;Reintegration benefits;2011;267
+742;Reintegration benefits;2012;166
+743;Reintegration benefits;2013;180
+744;Reintegration benefits;2014;174
+745;Reintegration benefits;2015;163
+746;Reintegration benefits;2016;177
+747;Reintegration benefits;2017;213
+748;Reintegration benefits;2018;224
+749;Reintegration benefits;2019;212
+750;Reintegration benefits;2020;194
+751;Reintegration benefits;2021;186
+752;Reintegration benefits;2022;180
+753;Reintegration benefits;2023;144
+754;Rent benefit;1995;924
+755;Rent benefit;1996;1021
+756;Rent benefit;1997;1185
+757;Rent benefit;1998;1364
+758;Rent benefit;1999;1459
+759;Rent benefit;2000;1462
+760;Rent benefit;2001;1505
+761;Rent benefit;2002;1717
+762;Rent benefit;2003;1603
+763;Rent benefit;2004;1649
+764;Rent benefit;2005;1686
+765;Rent benefit;2006;2026
+766;Rent benefit;2007;2148
+767;Rent benefit;2008;2159
+768;Rent benefit;2009;2135
+769;Rent benefit;2010;2213
+770;Rent benefit;2011;2311
+771;Rent benefit;2012;2288
+772;Rent benefit;2013;2435
+773;Rent benefit;2014;2814
+774;Rent benefit;2015;3094
+775;Rent benefit;2016;3339
+776;Rent benefit;2017;3434
+777;Rent benefit;2018;3504
+778;Rent benefit;2019;3551
+779;Rent benefit;2020;3811
+780;Rent benefit;2021;4001
+781;Rent benefit;2022;3948
+782;Rent benefit;2023;4198
+783;Social Support Act (Wmo);1995;0
+784;Social Support Act (Wmo);1996;0
+785;Social Support Act (Wmo);1997;0
+786;Social Support Act (Wmo);1998;0
+787;Social Support Act (Wmo);1999;0
+788;Social Support Act (Wmo);2000;0
+789;Social Support Act (Wmo);2001;0
+790;Social Support Act (Wmo);2002;0
+791;Social Support Act (Wmo);2003;0
+792;Social Support Act (Wmo);2004;0
+793;Social Support Act (Wmo);2005;0
+794;Social Support Act (Wmo);2006;0
+795;Social Support Act (Wmo);2007;1915
+796;Social Support Act (Wmo);2008;1993
+797;Social Support Act (Wmo);2009;2154
+798;Social Support Act (Wmo);2010;2340
+799;Social Support Act (Wmo);2011;2291
+800;Social Support Act (Wmo);2012;2233
+801;Social Support Act (Wmo);2013;2027
+802;Social Support Act (Wmo);2014;1835
+803;Social Support Act (Wmo);2015;5265
+804;Social Support Act (Wmo);2016;5338
+805;Social Support Act (Wmo);2017;5481
+806;Social Support Act (Wmo);2018;5880
+807;Social Support Act (Wmo);2019;6341
+808;Social Support Act (Wmo);2020;6552
+809;Social Support Act (Wmo);2021;6226
+810;Social Support Act (Wmo);2022;6550
+811;Social Support Act (Wmo);2023;7190
+812;Student finance;1995;1691
+813;Student finance;1996;1538
+814;Student finance;1997;1458
+815;Student finance;1998;1309
+816;Student finance;1999;1391
+817;Student finance;2000;1624
+818;Student finance;2001;1488
+819;Student finance;2002;1533
+820;Student finance;2003;2034
+821;Student finance;2004;2149
+822;Student finance;2005;2083
+823;Student finance;2006;2471
+824;Student finance;2007;2582
+825;Student finance;2008;2881
+826;Student finance;2009;2388
+827;Student finance;2010;2342
+828;Student finance;2011;2383
+829;Student finance;2012;2891
+830;Student finance;2013;2711
+831;Student finance;2014;2748
+832;Student finance;2015;2709
+833;Student finance;2016;2666
+834;Student finance;2017;2468
+835;Student finance;2018;2506
+836;Student finance;2019;2374
+837;Student finance;2020;2212
+838;Student finance;2021;2621
+839;Student finance;2022;2562
+840;Student finance;2023;2981
+841;Supplementary Fund (Tf);1995;300
+842;Supplementary Fund (Tf);1996;292
+843;Supplementary Fund (Tf);1997;284
+844;Supplementary Fund (Tf);1998;282
+845;Supplementary Fund (Tf);1999;302
+846;Supplementary Fund (Tf);2000;289
+847;Supplementary Fund (Tf);2001;274
+848;Supplementary Fund (Tf);2002;287
+849;Supplementary Fund (Tf);2003;303
+850;Supplementary Fund (Tf);2004;336
+851;Supplementary Fund (Tf);2005;331
+852;Supplementary Fund (Tf);2006;372
+853;Supplementary Fund (Tf);2007;356
+854;Supplementary Fund (Tf);2008;363
+855;Supplementary Fund (Tf);2009;768
+856;Supplementary Fund (Tf);2010;799
+857;Supplementary Fund (Tf);2011;815
+858;Supplementary Fund (Tf);2012;852
+859;Supplementary Fund (Tf);2013;966
+860;Supplementary Fund (Tf);2014;865
+861;Supplementary Fund (Tf);2015;763
+862;Supplementary Fund (Tf);2016;788
+863;Supplementary Fund (Tf);2017;731
+864;Supplementary Fund (Tf);2018;739
+865;Supplementary Fund (Tf);2019;754
+866;Supplementary Fund (Tf);2020;799
+867;Supplementary Fund (Tf);2021;770
+868;Supplementary Fund (Tf);2022;730
+869;Supplementary Fund (Tf);2023;793
+870;Supplementary income for the elderly ...;1995;0
+871;Supplementary income for the elderly ...;1996;0
+872;Supplementary income for the elderly ...;1997;0
+873;Supplementary income for the elderly ...;1998;0
+874;Supplementary income for the elderly ...;1999;0
+875;Supplementary income for the elderly ...;2000;0
+876;Supplementary income for the elderly ...;2001;0
+877;Supplementary income for the elderly ...;2002;0
+878;Supplementary income for the elderly ...;2003;0
+879;Supplementary income for the elderly ...;2004;0
+880;Supplementary income for the elderly ...;2005;0
+881;Supplementary income for the elderly ...;2006;0
+882;Supplementary income for the elderly ...;2007;0
+883;Supplementary income for the elderly ...;2008;0
+884;Supplementary income for the elderly ...;2009;0
+885;Supplementary income for the elderly ...;2010;202
+886;Supplementary income for the elderly ...;2011;212
+887;Supplementary income for the elderly ...;2012;200
+888;Supplementary income for the elderly ...;2013;195
+889;Supplementary income for the elderly ...;2014;216
+890;Supplementary income for the elderly ...;2015;234
+891;Supplementary income for the elderly ...;2016;239
+892;Supplementary income for the elderly ...;2017;268
+893;Supplementary income for the elderly ...;2018;296
+894;Supplementary income for the elderly ...;2019;308
+895;Supplementary income for the elderly ...;2020;330
+896;Supplementary income for the elderly ...;2021;350
+897;Supplementary income for the elderly ...;2022;361
+898;Supplementary income for the elderly ...;2023;406
+899;Welfare;1995;4713
+900;Welfare;1996;4879
+901;Welfare;1997;4718
+902;Welfare;1998;4546
+903;Welfare;1999;4202
+904;Welfare;2000;4097
+905;Welfare;2001;4127
+906;Welfare;2002;4225
+907;Welfare;2003;4458
+908;Welfare;2004;4475
+909;Welfare;2005;4485
+910;Welfare;2006;4377
+911;Welfare;2007;4186
+912;Welfare;2008;4109
+913;Welfare;2009;4336
+914;Welfare;2010;4352
+915;Welfare;2011;4429
+916;Welfare;2012;4955
+917;Welfare;2013;5345
+918;Welfare;2014;5928
+919;Welfare;2015;5789
+920;Welfare;2016;6181
+921;Welfare;2017;6213
+922;Welfare;2018;6089
+923;Welfare;2019;5938
+924;Welfare;2020;6099
+925;Welfare;2021;6171
+926;Welfare;2022;5977
+927;Welfare;2023;6627
+928;Youth Act;1995;568
+929;Youth Act;1996;532
+930;Youth Act;1997;572
+931;Youth Act;1998;734
+932;Youth Act;1999;843
+933;Youth Act;2000;944
+934;Youth Act;2001;1044
+935;Youth Act;2002;1046
+936;Youth Act;2003;1029
+937;Youth Act;2004;909
+938;Youth Act;2005;871
+939;Youth Act;2006;928
+940;Youth Act;2007;1032
+941;Youth Act;2008;1047
+942;Youth Act;2009;1386
+943;Youth Act;2010;1490
+944;Youth Act;2011;1436
+945;Youth Act;2012;1457
+946;Youth Act;2013;1435
+947;Youth Act;2014;1481
+948;Youth Act;2015;2663
+949;Youth Act;2016;2738
+950;Youth Act;2017;2936
+951;Youth Act;2018;3283
+952;Youth Act;2019;3642
+953;Youth Act;2020;3803
+954;Youth Act;2021;3995
+955;Youth Act;2022;4152
+956;Youth Act;2023;4613
+957;Other social assistance benefits;1995;4034
+958;Other social assistance benefits;1996;3811
+959;Other social assistance benefits;1997;2451
+960;Other social assistance benefits;1998;2669
+961;Other social assistance benefits;1999;2905
+962;Other social assistance benefits;2000;3235
+963;Other social assistance benefits;2001;3505
+964;Other social assistance benefits;2002;3742
+965;Other social assistance benefits;2003;3544
+966;Other social assistance benefits;2004;3442
+967;Other social assistance benefits;2005;3410
+968;Other social assistance benefits;2006;3324
+969;Other social assistance benefits;2007;2884
+970;Other social assistance benefits;2008;3221
+971;Other social assistance benefits;2009;3750
+972;Other social assistance benefits;2010;4443
+973;Other social assistance benefits;2011;4504
+974;Other social assistance benefits;2012;4108
+975;Other social assistance benefits;2013;3866
+976;Other social assistance benefits;2014;3671
+977;Other social assistance benefits;2015;2502
+978;Other social assistance benefits;2016;2394
+979;Other social assistance benefits;2017;2479
+980;Other social assistance benefits;2018;2457
+981;Other social assistance benefits;2019;2521
+982;Other social assistance benefits;2020;2632
+983;Other social assistance benefits;2021;4017
+984;Other social assistance benefits;2022;5203
+985;Other social assistance benefits;2023;4731

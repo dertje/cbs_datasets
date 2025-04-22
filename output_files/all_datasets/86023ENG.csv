@@ -1,0 +1,460 @@
+﻿ID;Functions;Financing;Periods;HealthAndSocialCareExpenditure_1
+0;Total expenditure on health and care;Total financ schemes health,social care;2021;129060.0
+1;Total expenditure on health and care;Total financ schemes health,social care;2022;132858.0
+2;Total expenditure on health and care;Total financ schemes health,social care;2023;142824.0
+3;Total expenditure on health and care;Total financing of residents;2021;128838.0
+4;Total expenditure on health and care;Total financing of residents;2022;132605.0
+5;Total expenditure on health and care;Total financing of residents;2023;142563.0
+6;Total expenditure on health and care;HF1: Government, comp. contr. schemes;2021;109367.0
+7;Total expenditure on health and care;HF1: Government, comp. contr. schemes;2022;111121.0
+8;Total expenditure on health and care;HF1: Government, comp. contr. schemes;2023;119070.0
+9;Total expenditure on health and care;HF11: Government schemes;2021;32859.0
+10;Total expenditure on health and care;HF11: Government schemes;2022;31622.0
+11;Total expenditure on health and care;HF11: Government schemes;2023;32630.0
+12;Total expenditure on health and care;HF12: Compulsory contributory schemes;2021;76507.0
+13;Total expenditure on health and care;HF12: Compulsory contributory schemes;2022;79499.0
+14;Total expenditure on health and care;HF12: Compulsory contributory schemes;2023;86440.0
+15;Total expenditure on health and care;HF121a: Long-term care insurance;2021;26738.0
+16;Total expenditure on health and care;HF121a: Long-term care insurance;2022;28349.0
+17;Total expenditure on health and care;HF121a: Long-term care insurance;2023;31366.0
+18;Total expenditure on health and care;HF121b: Health Insurance Fund;2021;
+19;Total expenditure on health and care;HF121b: Health Insurance Fund;2022;
+20;Total expenditure on health and care;HF121b: Health Insurance Fund;2023;
+21;Total expenditure on health and care;HF122: Compulsory private insurance;2021;49769.0
+22;Total expenditure on health and care;HF122: Compulsory private insurance;2022;51150.0
+23;Total expenditure on health and care;HF122: Compulsory private insurance;2023;55074.0
+24;Total expenditure on health and care;Voluntary schemes (incl. OOP);2021;19472.0
+25;Total expenditure on health and care;Voluntary schemes (incl. OOP);2022;21484.0
+26;Total expenditure on health and care;Voluntary schemes (incl. OOP);2023;23493.0
+27;Total expenditure on health and care;HF2: Voluntary schemes;2021;6161.0
+28;Total expenditure on health and care;HF2: Voluntary schemes;2022;6207.0
+29;Total expenditure on health and care;HF2: Voluntary schemes;2023;6621.0
+30;Total expenditure on health and care;HF21: Voluntary health insurance schemes;2021;4127.0
+31;Total expenditure on health and care;HF21: Voluntary health insurance schemes;2022;4135.0
+32;Total expenditure on health and care;HF21: Voluntary health insurance schemes;2023;4422.0
+33;Total expenditure on health and care;HF22: Financing schemes NPISH;2021;381.0
+34;Total expenditure on health and care;HF22: Financing schemes NPISH;2022;404.0
+35;Total expenditure on health and care;HF22: Financing schemes NPISH;2023;418.0
+36;Total expenditure on health and care;HF23: Enterprise financing schemes;2021;1653.0
+37;Total expenditure on health and care;HF23: Enterprise financing schemes;2022;1668.0
+38;Total expenditure on health and care;HF23: Enterprise financing schemes;2023;1781.0
+39;Total expenditure on health and care;HF3: Household out-of-pocket payments;2021;13311.0
+40;Total expenditure on health and care;HF3: Household out-of-pocket payments;2022;15276.0
+41;Total expenditure on health and care;HF3: Household out-of-pocket payments;2023;16872.0
+42;Total expenditure on health and care;HF31: Out-of-pocket excl cost sharing;2021;7857.0
+43;Total expenditure on health and care;HF31: Out-of-pocket excl cost sharing;2022;9593.0
+44;Total expenditure on health and care;HF31: Out-of-pocket excl cost sharing;2023;10965.0
+45;Total expenditure on health and care;HF32: Cost sharing;2021;5454.0
+46;Total expenditure on health and care;HF32: Cost sharing;2022;5684.0
+47;Total expenditure on health and care;HF32: Cost sharing;2023;5907.0
+48;Total expenditure on health and care;"Rest of the world; exports";2021;222.0
+49;Total expenditure on health and care;"Rest of the world; exports";2022;253.0
+50;Total expenditure on health and care;"Rest of the world; exports";2023;260.0
+51;Social work and child day care;Total financ schemes health,social care;2021;15018.0
+52;Social work and child day care;Total financ schemes health,social care;2022;17969.0
+53;Social work and child day care;Total financ schemes health,social care;2023;20967.0
+54;Social work and child day care;Total financing of residents;2021;15018.0
+55;Social work and child day care;Total financing of residents;2022;17969.0
+56;Social work and child day care;Total financing of residents;2023;20967.0
+57;Social work and child day care;HF1: Government, comp. contr. schemes;2021;12145.0
+58;Social work and child day care;HF1: Government, comp. contr. schemes;2022;14030.0
+59;Social work and child day care;HF1: Government, comp. contr. schemes;2023;16147.0
+60;Social work and child day care;HF11: Government schemes;2021;12145.0
+61;Social work and child day care;HF11: Government schemes;2022;14030.0
+62;Social work and child day care;HF11: Government schemes;2023;16147.0
+63;Social work and child day care;HF12: Compulsory contributory schemes;2021;0.0
+64;Social work and child day care;HF12: Compulsory contributory schemes;2022;0.0
+65;Social work and child day care;HF12: Compulsory contributory schemes;2023;0.0
+66;Social work and child day care;HF121a: Long-term care insurance;2021;0.0
+67;Social work and child day care;HF121a: Long-term care insurance;2022;0.0
+68;Social work and child day care;HF121a: Long-term care insurance;2023;0.0
+69;Social work and child day care;HF121b: Health Insurance Fund;2021;
+70;Social work and child day care;HF121b: Health Insurance Fund;2022;
+71;Social work and child day care;HF121b: Health Insurance Fund;2023;
+72;Social work and child day care;HF122: Compulsory private insurance;2021;0.0
+73;Social work and child day care;HF122: Compulsory private insurance;2022;0.0
+74;Social work and child day care;HF122: Compulsory private insurance;2023;0.0
+75;Social work and child day care;Voluntary schemes (incl. OOP);2021;2873.0
+76;Social work and child day care;Voluntary schemes (incl. OOP);2022;3939.0
+77;Social work and child day care;Voluntary schemes (incl. OOP);2023;4821.0
+78;Social work and child day care;HF2: Voluntary schemes;2021;590.0
+79;Social work and child day care;HF2: Voluntary schemes;2022;651.0
+80;Social work and child day care;HF2: Voluntary schemes;2023;691.0
+81;Social work and child day care;HF21: Voluntary health insurance schemes;2021;0.0
+82;Social work and child day care;HF21: Voluntary health insurance schemes;2022;0.0
+83;Social work and child day care;HF21: Voluntary health insurance schemes;2023;0.0
+84;Social work and child day care;HF22: Financing schemes NPISH;2021;175.0
+85;Social work and child day care;HF22: Financing schemes NPISH;2022;197.0
+86;Social work and child day care;HF22: Financing schemes NPISH;2023;201.0
+87;Social work and child day care;HF23: Enterprise financing schemes;2021;414.0
+88;Social work and child day care;HF23: Enterprise financing schemes;2022;454.0
+89;Social work and child day care;HF23: Enterprise financing schemes;2023;490.0
+90;Social work and child day care;HF3: Household out-of-pocket payments;2021;2283.0
+91;Social work and child day care;HF3: Household out-of-pocket payments;2022;3288.0
+92;Social work and child day care;HF3: Household out-of-pocket payments;2023;4130.0
+93;Social work and child day care;HF31: Out-of-pocket excl cost sharing;2021;2283.0
+94;Social work and child day care;HF31: Out-of-pocket excl cost sharing;2022;3288.0
+95;Social work and child day care;HF31: Out-of-pocket excl cost sharing;2023;4130.0
+96;Social work and child day care;HF32: Cost sharing;2021;0.0
+97;Social work and child day care;HF32: Cost sharing;2022;0.0
+98;Social work and child day care;HF32: Cost sharing;2023;0.0
+99;Social work and child day care;"Rest of the world; exports";2021;0.0
+100;Social work and child day care;"Rest of the world; exports";2022;0.0
+101;Social work and child day care;"Rest of the world; exports";2023;0.0
+102;Education, R&D, other services;Total financ schemes health,social care;2021;3238.0
+103;Education, R&D, other services;Total financ schemes health,social care;2022;3288.0
+104;Education, R&D, other services;Total financ schemes health,social care;2023;3544.0
+105;Education, R&D, other services;Total financing of residents;2021;3120.0
+106;Education, R&D, other services;Total financing of residents;2022;3171.0
+107;Education, R&D, other services;Total financing of residents;2023;3424.0
+108;Education, R&D, other services;HF1: Government, comp. contr. schemes;2021;2791.0
+109;Education, R&D, other services;HF1: Government, comp. contr. schemes;2022;2844.0
+110;Education, R&D, other services;HF1: Government, comp. contr. schemes;2023;3087.0
+111;Education, R&D, other services;HF11: Government schemes;2021;1128.0
+112;Education, R&D, other services;HF11: Government schemes;2022;1080.0
+113;Education, R&D, other services;HF11: Government schemes;2023;1144.0
+114;Education, R&D, other services;HF12: Compulsory contributory schemes;2021;1663.0
+115;Education, R&D, other services;HF12: Compulsory contributory schemes;2022;1764.0
+116;Education, R&D, other services;HF12: Compulsory contributory schemes;2023;1943.0
+117;Education, R&D, other services;HF121a: Long-term care insurance;2021;140.0
+118;Education, R&D, other services;HF121a: Long-term care insurance;2022;152.0
+119;Education, R&D, other services;HF121a: Long-term care insurance;2023;169.0
+120;Education, R&D, other services;HF121b: Health Insurance Fund;2021;
+121;Education, R&D, other services;HF121b: Health Insurance Fund;2022;
+122;Education, R&D, other services;HF121b: Health Insurance Fund;2023;
+123;Education, R&D, other services;HF122: Compulsory private insurance;2021;1522.0
+124;Education, R&D, other services;HF122: Compulsory private insurance;2022;1612.0
+125;Education, R&D, other services;HF122: Compulsory private insurance;2023;1774.0
+126;Education, R&D, other services;Voluntary schemes (incl. OOP);2021;329.0
+127;Education, R&D, other services;Voluntary schemes (incl. OOP);2022;327.0
+128;Education, R&D, other services;Voluntary schemes (incl. OOP);2023;336.0
+129;Education, R&D, other services;HF2: Voluntary schemes;2021;329.0
+130;Education, R&D, other services;HF2: Voluntary schemes;2022;327.0
+131;Education, R&D, other services;HF2: Voluntary schemes;2023;336.0
+132;Education, R&D, other services;HF21: Voluntary health insurance schemes;2021;0.0
+133;Education, R&D, other services;HF21: Voluntary health insurance schemes;2022;0.0
+134;Education, R&D, other services;HF21: Voluntary health insurance schemes;2023;0.0
+135;Education, R&D, other services;HF22: Financing schemes NPISH;2021;162.0
+136;Education, R&D, other services;HF22: Financing schemes NPISH;2022;161.0
+137;Education, R&D, other services;HF22: Financing schemes NPISH;2023;166.0
+138;Education, R&D, other services;HF23: Enterprise financing schemes;2021;167.0
+139;Education, R&D, other services;HF23: Enterprise financing schemes;2022;166.0
+140;Education, R&D, other services;HF23: Enterprise financing schemes;2023;170.0
+141;Education, R&D, other services;HF3: Household out-of-pocket payments;2021;0.0
+142;Education, R&D, other services;HF3: Household out-of-pocket payments;2022;0.0
+143;Education, R&D, other services;HF3: Household out-of-pocket payments;2023;0.0
+144;Education, R&D, other services;HF31: Out-of-pocket excl cost sharing;2021;0.0
+145;Education, R&D, other services;HF31: Out-of-pocket excl cost sharing;2022;0.0
+146;Education, R&D, other services;HF31: Out-of-pocket excl cost sharing;2023;0.0
+147;Education, R&D, other services;HF32: Cost sharing;2021;0.0
+148;Education, R&D, other services;HF32: Cost sharing;2022;0.0
+149;Education, R&D, other services;HF32: Cost sharing;2023;0.0
+150;Education, R&D, other services;"Rest of the world; exports";2021;118.0
+151;Education, R&D, other services;"Rest of the world; exports";2022;117.0
+152;Education, R&D, other services;"Rest of the world; exports";2023;120.0
+153;Health expenditure;Total financ schemes health,social care;2021;100287.0
+154;Health expenditure;Total financ schemes health,social care;2022;100743.0
+155;Health expenditure;Total financ schemes health,social care;2023;106499.0
+156;Health expenditure;Total financing of residents;2021;100183.0
+157;Health expenditure;Total financing of residents;2022;100607.0
+158;Health expenditure;Total financing of residents;2023;106359.0
+159;Health expenditure;HF1: Government, comp. contr. schemes;2021;84279.0
+160;Health expenditure;HF1: Government, comp. contr. schemes;2022;83775.0
+161;Health expenditure;HF1: Government, comp. contr. schemes;2023;88424.0
+162;Health expenditure;HF11: Government schemes;2021;14116.0
+163;Health expenditure;HF11: Government schemes;2022;11184.0
+164;Health expenditure;HF11: Government schemes;2023;9636.0
+165;Health expenditure;HF12: Compulsory contributory schemes;2021;70163.0
+166;Health expenditure;HF12: Compulsory contributory schemes;2022;72591.0
+167;Health expenditure;HF12: Compulsory contributory schemes;2023;78788.0
+168;Health expenditure;HF121a: Long-term care insurance;2021;21916.0
+169;Health expenditure;HF121a: Long-term care insurance;2022;23052.0
+170;Health expenditure;HF121a: Long-term care insurance;2023;25489.0
+171;Health expenditure;HF121b: Health Insurance Fund;2021;
+172;Health expenditure;HF121b: Health Insurance Fund;2022;
+173;Health expenditure;HF121b: Health Insurance Fund;2023;
+174;Health expenditure;HF122: Compulsory private insurance;2021;48247.0
+175;Health expenditure;HF122: Compulsory private insurance;2022;49538.0
+176;Health expenditure;HF122: Compulsory private insurance;2023;53300.0
+177;Health expenditure;Voluntary schemes (incl. OOP);2021;15904.0
+178;Health expenditure;Voluntary schemes (incl. OOP);2022;16832.0
+179;Health expenditure;Voluntary schemes (incl. OOP);2023;17935.0
+180;Health expenditure;HF2: Voluntary schemes;2021;5243.0
+181;Health expenditure;HF2: Voluntary schemes;2022;5230.0
+182;Health expenditure;HF2: Voluntary schemes;2023;5594.0
+183;Health expenditure;HF21: Voluntary health insurance schemes;2021;4127.0
+184;Health expenditure;HF21: Voluntary health insurance schemes;2022;4135.0
+185;Health expenditure;HF21: Voluntary health insurance schemes;2023;4422.0
+186;Health expenditure;HF22: Financing schemes NPISH;2021;44.0
+187;Health expenditure;HF22: Financing schemes NPISH;2022;46.0
+188;Health expenditure;HF22: Financing schemes NPISH;2023;51.0
+189;Health expenditure;HF23: Enterprise financing schemes;2021;1072.0
+190;Health expenditure;HF23: Enterprise financing schemes;2022;1049.0
+191;Health expenditure;HF23: Enterprise financing schemes;2023;1121.0
+192;Health expenditure;HF3: Household out-of-pocket payments;2021;10662.0
+193;Health expenditure;HF3: Household out-of-pocket payments;2022;11602.0
+194;Health expenditure;HF3: Household out-of-pocket payments;2023;12341.0
+195;Health expenditure;HF31: Out-of-pocket excl cost sharing;2021;5574.0
+196;Health expenditure;HF31: Out-of-pocket excl cost sharing;2022;6305.0
+197;Health expenditure;HF31: Out-of-pocket excl cost sharing;2023;6835.0
+198;Health expenditure;HF32: Cost sharing;2021;5088.0
+199;Health expenditure;HF32: Cost sharing;2022;5297.0
+200;Health expenditure;HF32: Cost sharing;2023;5506.0
+201;Health expenditure;"Rest of the world; exports";2021;104.0
+202;Health expenditure;"Rest of the world; exports";2022;136.0
+203;Health expenditure;"Rest of the world; exports";2023;140.0
+204;Total health related expenditure;Total financ schemes health,social care;2021;10517.0
+205;Total health related expenditure;Total financ schemes health,social care;2022;10858.0
+206;Total health related expenditure;Total financ schemes health,social care;2023;11813.0
+207;Total health related expenditure;Total financing of residents;2021;10517.0
+208;Total health related expenditure;Total financing of residents;2022;10858.0
+209;Total health related expenditure;Total financing of residents;2023;11813.0
+210;Total health related expenditure;HF1: Government, comp. contr. schemes;2021;10152.0
+211;Total health related expenditure;HF1: Government, comp. contr. schemes;2022;10472.0
+212;Total health related expenditure;HF1: Government, comp. contr. schemes;2023;11412.0
+213;Total health related expenditure;HF11: Government schemes;2021;5470.0
+214;Total health related expenditure;HF11: Government schemes;2022;5328.0
+215;Total health related expenditure;HF11: Government schemes;2023;5703.0
+216;Total health related expenditure;HF12: Compulsory contributory schemes;2021;4681.0
+217;Total health related expenditure;HF12: Compulsory contributory schemes;2022;5144.0
+218;Total health related expenditure;HF12: Compulsory contributory schemes;2023;5709.0
+219;Total health related expenditure;HF121a: Long-term care insurance;2021;4681.0
+220;Total health related expenditure;HF121a: Long-term care insurance;2022;5144.0
+221;Total health related expenditure;HF121a: Long-term care insurance;2023;5709.0
+222;Total health related expenditure;HF121b: Health Insurance Fund;2021;
+223;Total health related expenditure;HF121b: Health Insurance Fund;2022;
+224;Total health related expenditure;HF121b: Health Insurance Fund;2023;
+225;Total health related expenditure;HF122: Compulsory private insurance;2021;0.0
+226;Total health related expenditure;HF122: Compulsory private insurance;2022;0.0
+227;Total health related expenditure;HF122: Compulsory private insurance;2023;0.0
+228;Total health related expenditure;Voluntary schemes (incl. OOP);2021;365.0
+229;Total health related expenditure;Voluntary schemes (incl. OOP);2022;386.0
+230;Total health related expenditure;Voluntary schemes (incl. OOP);2023;401.0
+231;Total health related expenditure;HF2: Voluntary schemes;2021;0.0
+232;Total health related expenditure;HF2: Voluntary schemes;2022;0.0
+233;Total health related expenditure;HF2: Voluntary schemes;2023;0.0
+234;Total health related expenditure;HF21: Voluntary health insurance schemes;2021;0.0
+235;Total health related expenditure;HF21: Voluntary health insurance schemes;2022;0.0
+236;Total health related expenditure;HF21: Voluntary health insurance schemes;2023;0.0
+237;Total health related expenditure;HF22: Financing schemes NPISH;2021;0.0
+238;Total health related expenditure;HF22: Financing schemes NPISH;2022;0.0
+239;Total health related expenditure;HF22: Financing schemes NPISH;2023;0.0
+240;Total health related expenditure;HF23: Enterprise financing schemes;2021;0.0
+241;Total health related expenditure;HF23: Enterprise financing schemes;2022;0.0
+242;Total health related expenditure;HF23: Enterprise financing schemes;2023;0.0
+243;Total health related expenditure;HF3: Household out-of-pocket payments;2021;365.0
+244;Total health related expenditure;HF3: Household out-of-pocket payments;2022;386.0
+245;Total health related expenditure;HF3: Household out-of-pocket payments;2023;401.0
+246;Total health related expenditure;HF31: Out-of-pocket excl cost sharing;2021;0.0
+247;Total health related expenditure;HF31: Out-of-pocket excl cost sharing;2022;0.0
+248;Total health related expenditure;HF31: Out-of-pocket excl cost sharing;2023;0.0
+249;Total health related expenditure;HF32: Cost sharing;2021;365.0
+250;Total health related expenditure;HF32: Cost sharing;2022;386.0
+251;Total health related expenditure;HF32: Cost sharing;2023;401.0
+252;Total health related expenditure;"Rest of the world; exports";2021;0.0
+253;Total health related expenditure;"Rest of the world; exports";2022;0.0
+254;Total health related expenditure;"Rest of the world; exports";2023;0.0
+255;HCR1: Long-term care (social);Total financ schemes health,social care;2021;10517.0
+256;HCR1: Long-term care (social);Total financ schemes health,social care;2022;10858.0
+257;HCR1: Long-term care (social);Total financ schemes health,social care;2023;11813.0
+258;HCR1: Long-term care (social);Total financing of residents;2021;10517.0
+259;HCR1: Long-term care (social);Total financing of residents;2022;10858.0
+260;HCR1: Long-term care (social);Total financing of residents;2023;11813.0
+261;HCR1: Long-term care (social);HF1: Government, comp. contr. schemes;2021;10152.0
+262;HCR1: Long-term care (social);HF1: Government, comp. contr. schemes;2022;10472.0
+263;HCR1: Long-term care (social);HF1: Government, comp. contr. schemes;2023;11412.0
+264;HCR1: Long-term care (social);HF11: Government schemes;2021;5470.0
+265;HCR1: Long-term care (social);HF11: Government schemes;2022;5328.0
+266;HCR1: Long-term care (social);HF11: Government schemes;2023;5703.0
+267;HCR1: Long-term care (social);HF12: Compulsory contributory schemes;2021;4681.0
+268;HCR1: Long-term care (social);HF12: Compulsory contributory schemes;2022;5144.0
+269;HCR1: Long-term care (social);HF12: Compulsory contributory schemes;2023;5709.0
+270;HCR1: Long-term care (social);HF121a: Long-term care insurance;2021;4681.0
+271;HCR1: Long-term care (social);HF121a: Long-term care insurance;2022;5144.0
+272;HCR1: Long-term care (social);HF121a: Long-term care insurance;2023;5709.0
+273;HCR1: Long-term care (social);HF121b: Health Insurance Fund;2021;
+274;HCR1: Long-term care (social);HF121b: Health Insurance Fund;2022;
+275;HCR1: Long-term care (social);HF121b: Health Insurance Fund;2023;
+276;HCR1: Long-term care (social);HF122: Compulsory private insurance;2021;0.0
+277;HCR1: Long-term care (social);HF122: Compulsory private insurance;2022;0.0
+278;HCR1: Long-term care (social);HF122: Compulsory private insurance;2023;0.0
+279;HCR1: Long-term care (social);Voluntary schemes (incl. OOP);2021;365.0
+280;HCR1: Long-term care (social);Voluntary schemes (incl. OOP);2022;386.0
+281;HCR1: Long-term care (social);Voluntary schemes (incl. OOP);2023;401.0
+282;HCR1: Long-term care (social);HF2: Voluntary schemes;2021;0.0
+283;HCR1: Long-term care (social);HF2: Voluntary schemes;2022;0.0
+284;HCR1: Long-term care (social);HF2: Voluntary schemes;2023;0.0
+285;HCR1: Long-term care (social);HF21: Voluntary health insurance schemes;2021;0.0
+286;HCR1: Long-term care (social);HF21: Voluntary health insurance schemes;2022;0.0
+287;HCR1: Long-term care (social);HF21: Voluntary health insurance schemes;2023;0.0
+288;HCR1: Long-term care (social);HF22: Financing schemes NPISH;2021;0.0
+289;HCR1: Long-term care (social);HF22: Financing schemes NPISH;2022;0.0
+290;HCR1: Long-term care (social);HF22: Financing schemes NPISH;2023;0.0
+291;HCR1: Long-term care (social);HF23: Enterprise financing schemes;2021;0.0
+292;HCR1: Long-term care (social);HF23: Enterprise financing schemes;2022;0.0
+293;HCR1: Long-term care (social);HF23: Enterprise financing schemes;2023;0.0
+294;HCR1: Long-term care (social);HF3: Household out-of-pocket payments;2021;365.0
+295;HCR1: Long-term care (social);HF3: Household out-of-pocket payments;2022;386.0
+296;HCR1: Long-term care (social);HF3: Household out-of-pocket payments;2023;401.0
+297;HCR1: Long-term care (social);HF31: Out-of-pocket excl cost sharing;2021;0.0
+298;HCR1: Long-term care (social);HF31: Out-of-pocket excl cost sharing;2022;0.0
+299;HCR1: Long-term care (social);HF31: Out-of-pocket excl cost sharing;2023;0.0
+300;HCR1: Long-term care (social);HF32: Cost sharing;2021;365.0
+301;HCR1: Long-term care (social);HF32: Cost sharing;2022;386.0
+302;HCR1: Long-term care (social);HF32: Cost sharing;2023;401.0
+303;HCR1: Long-term care (social);"Rest of the world; exports";2021;0.0
+304;HCR1: Long-term care (social);"Rest of the world; exports";2022;0.0
+305;HCR1: Long-term care (social);"Rest of the world; exports";2023;0.0
+306;HCR11:In-kind long-term social care;Total financ schemes health,social care;2021;8825.0
+307;HCR11:In-kind long-term social care;Total financ schemes health,social care;2022;9134.0
+308;HCR11:In-kind long-term social care;Total financ schemes health,social care;2023;9989.0
+309;HCR11:In-kind long-term social care;Total financing of residents;2021;8825.0
+310;HCR11:In-kind long-term social care;Total financing of residents;2022;9134.0
+311;HCR11:In-kind long-term social care;Total financing of residents;2023;9989.0
+312;HCR11:In-kind long-term social care;HF1: Government, comp. contr. schemes;2021;8469.0
+313;HCR11:In-kind long-term social care;HF1: Government, comp. contr. schemes;2022;8756.0
+314;HCR11:In-kind long-term social care;HF1: Government, comp. contr. schemes;2023;9594.0
+315;HCR11:In-kind long-term social care;HF11: Government schemes;2021;5165.0
+316;HCR11:In-kind long-term social care;HF11: Government schemes;2022;5087.0
+317;HCR11:In-kind long-term social care;HF11: Government schemes;2023;5472.0
+318;HCR11:In-kind long-term social care;HF12: Compulsory contributory schemes;2021;3304.0
+319;HCR11:In-kind long-term social care;HF12: Compulsory contributory schemes;2022;3669.0
+320;HCR11:In-kind long-term social care;HF12: Compulsory contributory schemes;2023;4123.0
+321;HCR11:In-kind long-term social care;HF121a: Long-term care insurance;2021;3304.0
+322;HCR11:In-kind long-term social care;HF121a: Long-term care insurance;2022;3669.0
+323;HCR11:In-kind long-term social care;HF121a: Long-term care insurance;2023;4123.0
+324;HCR11:In-kind long-term social care;HF121b: Health Insurance Fund;2021;
+325;HCR11:In-kind long-term social care;HF121b: Health Insurance Fund;2022;
+326;HCR11:In-kind long-term social care;HF121b: Health Insurance Fund;2023;
+327;HCR11:In-kind long-term social care;HF122: Compulsory private insurance;2021;0.0
+328;HCR11:In-kind long-term social care;HF122: Compulsory private insurance;2022;0.0
+329;HCR11:In-kind long-term social care;HF122: Compulsory private insurance;2023;0.0
+330;HCR11:In-kind long-term social care;Voluntary schemes (incl. OOP);2021;356.0
+331;HCR11:In-kind long-term social care;Voluntary schemes (incl. OOP);2022;378.0
+332;HCR11:In-kind long-term social care;Voluntary schemes (incl. OOP);2023;394.0
+333;HCR11:In-kind long-term social care;HF2: Voluntary schemes;2021;0.0
+334;HCR11:In-kind long-term social care;HF2: Voluntary schemes;2022;0.0
+335;HCR11:In-kind long-term social care;HF2: Voluntary schemes;2023;0.0
+336;HCR11:In-kind long-term social care;HF21: Voluntary health insurance schemes;2021;0.0
+337;HCR11:In-kind long-term social care;HF21: Voluntary health insurance schemes;2022;0.0
+338;HCR11:In-kind long-term social care;HF21: Voluntary health insurance schemes;2023;0.0
+339;HCR11:In-kind long-term social care;HF22: Financing schemes NPISH;2021;0.0
+340;HCR11:In-kind long-term social care;HF22: Financing schemes NPISH;2022;0.0
+341;HCR11:In-kind long-term social care;HF22: Financing schemes NPISH;2023;0.0
+342;HCR11:In-kind long-term social care;HF23: Enterprise financing schemes;2021;0.0
+343;HCR11:In-kind long-term social care;HF23: Enterprise financing schemes;2022;0.0
+344;HCR11:In-kind long-term social care;HF23: Enterprise financing schemes;2023;0.0
+345;HCR11:In-kind long-term social care;HF3: Household out-of-pocket payments;2021;356.0
+346;HCR11:In-kind long-term social care;HF3: Household out-of-pocket payments;2022;378.0
+347;HCR11:In-kind long-term social care;HF3: Household out-of-pocket payments;2023;394.0
+348;HCR11:In-kind long-term social care;HF31: Out-of-pocket excl cost sharing;2021;0.0
+349;HCR11:In-kind long-term social care;HF31: Out-of-pocket excl cost sharing;2022;0.0
+350;HCR11:In-kind long-term social care;HF31: Out-of-pocket excl cost sharing;2023;0.0
+351;HCR11:In-kind long-term social care;HF32: Cost sharing;2021;356.0
+352;HCR11:In-kind long-term social care;HF32: Cost sharing;2022;378.0
+353;HCR11:In-kind long-term social care;HF32: Cost sharing;2023;394.0
+354;HCR11:In-kind long-term social care;"Rest of the world; exports";2021;0.0
+355;HCR11:In-kind long-term social care;"Rest of the world; exports";2022;0.0
+356;HCR11:In-kind long-term social care;"Rest of the world; exports";2023;0.0
+357;HCR12: Long-term soc. care cash benefits;Total financ schemes health,social care;2021;1692.0
+358;HCR12: Long-term soc. care cash benefits;Total financ schemes health,social care;2022;1724.0
+359;HCR12: Long-term soc. care cash benefits;Total financ schemes health,social care;2023;1824.0
+360;HCR12: Long-term soc. care cash benefits;Total financing of residents;2021;1692.0
+361;HCR12: Long-term soc. care cash benefits;Total financing of residents;2022;1724.0
+362;HCR12: Long-term soc. care cash benefits;Total financing of residents;2023;1824.0
+363;HCR12: Long-term soc. care cash benefits;HF1: Government, comp. contr. schemes;2021;1683.0
+364;HCR12: Long-term soc. care cash benefits;HF1: Government, comp. contr. schemes;2022;1716.0
+365;HCR12: Long-term soc. care cash benefits;HF1: Government, comp. contr. schemes;2023;1818.0
+366;HCR12: Long-term soc. care cash benefits;HF11: Government schemes;2021;305.0
+367;HCR12: Long-term soc. care cash benefits;HF11: Government schemes;2022;240.0
+368;HCR12: Long-term soc. care cash benefits;HF11: Government schemes;2023;231.0
+369;HCR12: Long-term soc. care cash benefits;HF12: Compulsory contributory schemes;2021;1378.0
+370;HCR12: Long-term soc. care cash benefits;HF12: Compulsory contributory schemes;2022;1476.0
+371;HCR12: Long-term soc. care cash benefits;HF12: Compulsory contributory schemes;2023;1586.0
+372;HCR12: Long-term soc. care cash benefits;HF121a: Long-term care insurance;2021;1378.0
+373;HCR12: Long-term soc. care cash benefits;HF121a: Long-term care insurance;2022;1476.0
+374;HCR12: Long-term soc. care cash benefits;HF121a: Long-term care insurance;2023;1586.0
+375;HCR12: Long-term soc. care cash benefits;HF121b: Health Insurance Fund;2021;
+376;HCR12: Long-term soc. care cash benefits;HF121b: Health Insurance Fund;2022;
+377;HCR12: Long-term soc. care cash benefits;HF121b: Health Insurance Fund;2023;
+378;HCR12: Long-term soc. care cash benefits;HF122: Compulsory private insurance;2021;0.0
+379;HCR12: Long-term soc. care cash benefits;HF122: Compulsory private insurance;2022;0.0
+380;HCR12: Long-term soc. care cash benefits;HF122: Compulsory private insurance;2023;0.0
+381;HCR12: Long-term soc. care cash benefits;Voluntary schemes (incl. OOP);2021;9.0
+382;HCR12: Long-term soc. care cash benefits;Voluntary schemes (incl. OOP);2022;8.0
+383;HCR12: Long-term soc. care cash benefits;Voluntary schemes (incl. OOP);2023;6.0
+384;HCR12: Long-term soc. care cash benefits;HF2: Voluntary schemes;2021;0.0
+385;HCR12: Long-term soc. care cash benefits;HF2: Voluntary schemes;2022;0.0
+386;HCR12: Long-term soc. care cash benefits;HF2: Voluntary schemes;2023;0.0
+387;HCR12: Long-term soc. care cash benefits;HF21: Voluntary health insurance schemes;2021;0.0
+388;HCR12: Long-term soc. care cash benefits;HF21: Voluntary health insurance schemes;2022;0.0
+389;HCR12: Long-term soc. care cash benefits;HF21: Voluntary health insurance schemes;2023;0.0
+390;HCR12: Long-term soc. care cash benefits;HF22: Financing schemes NPISH;2021;0.0
+391;HCR12: Long-term soc. care cash benefits;HF22: Financing schemes NPISH;2022;0.0
+392;HCR12: Long-term soc. care cash benefits;HF22: Financing schemes NPISH;2023;0.0
+393;HCR12: Long-term soc. care cash benefits;HF23: Enterprise financing schemes;2021;0.0
+394;HCR12: Long-term soc. care cash benefits;HF23: Enterprise financing schemes;2022;0.0
+395;HCR12: Long-term soc. care cash benefits;HF23: Enterprise financing schemes;2023;0.0
+396;HCR12: Long-term soc. care cash benefits;HF3: Household out-of-pocket payments;2021;9.0
+397;HCR12: Long-term soc. care cash benefits;HF3: Household out-of-pocket payments;2022;8.0
+398;HCR12: Long-term soc. care cash benefits;HF3: Household out-of-pocket payments;2023;6.0
+399;HCR12: Long-term soc. care cash benefits;HF31: Out-of-pocket excl cost sharing;2021;0.0
+400;HCR12: Long-term soc. care cash benefits;HF31: Out-of-pocket excl cost sharing;2022;0.0
+401;HCR12: Long-term soc. care cash benefits;HF31: Out-of-pocket excl cost sharing;2023;0.0
+402;HCR12: Long-term soc. care cash benefits;HF32: Cost sharing;2021;9.0
+403;HCR12: Long-term soc. care cash benefits;HF32: Cost sharing;2022;8.0
+404;HCR12: Long-term soc. care cash benefits;HF32: Cost sharing;2023;6.0
+405;HCR12: Long-term soc. care cash benefits;"Rest of the world; exports";2021;0.0
+406;HCR12: Long-term soc. care cash benefits;"Rest of the world; exports";2022;0.0
+407;HCR12: Long-term soc. care cash benefits;"Rest of the world; exports";2023;0.0
+408;HCR2: Health promotion multi-sector;Total financ schemes health,social care;2021;0.0
+409;HCR2: Health promotion multi-sector;Total financ schemes health,social care;2022;0.0
+410;HCR2: Health promotion multi-sector;Total financ schemes health,social care;2023;0.0
+411;HCR2: Health promotion multi-sector;Total financing of residents;2021;0.0
+412;HCR2: Health promotion multi-sector;Total financing of residents;2022;0.0
+413;HCR2: Health promotion multi-sector;Total financing of residents;2023;0.0
+414;HCR2: Health promotion multi-sector;HF1: Government, comp. contr. schemes;2021;0.0
+415;HCR2: Health promotion multi-sector;HF1: Government, comp. contr. schemes;2022;0.0
+416;HCR2: Health promotion multi-sector;HF1: Government, comp. contr. schemes;2023;0.0
+417;HCR2: Health promotion multi-sector;HF11: Government schemes;2021;0.0
+418;HCR2: Health promotion multi-sector;HF11: Government schemes;2022;0.0
+419;HCR2: Health promotion multi-sector;HF11: Government schemes;2023;0.0
+420;HCR2: Health promotion multi-sector;HF12: Compulsory contributory schemes;2021;0.0
+421;HCR2: Health promotion multi-sector;HF12: Compulsory contributory schemes;2022;0.0
+422;HCR2: Health promotion multi-sector;HF12: Compulsory contributory schemes;2023;0.0
+423;HCR2: Health promotion multi-sector;HF121a: Long-term care insurance;2021;0.0
+424;HCR2: Health promotion multi-sector;HF121a: Long-term care insurance;2022;0.0
+425;HCR2: Health promotion multi-sector;HF121a: Long-term care insurance;2023;0.0
+426;HCR2: Health promotion multi-sector;HF121b: Health Insurance Fund;2021;
+427;HCR2: Health promotion multi-sector;HF121b: Health Insurance Fund;2022;
+428;HCR2: Health promotion multi-sector;HF121b: Health Insurance Fund;2023;
+429;HCR2: Health promotion multi-sector;HF122: Compulsory private insurance;2021;0.0
+430;HCR2: Health promotion multi-sector;HF122: Compulsory private insurance;2022;0.0
+431;HCR2: Health promotion multi-sector;HF122: Compulsory private insurance;2023;0.0
+432;HCR2: Health promotion multi-sector;Voluntary schemes (incl. OOP);2021;0.0
+433;HCR2: Health promotion multi-sector;Voluntary schemes (incl. OOP);2022;0.0
+434;HCR2: Health promotion multi-sector;Voluntary schemes (incl. OOP);2023;0.0
+435;HCR2: Health promotion multi-sector;HF2: Voluntary schemes;2021;0.0
+436;HCR2: Health promotion multi-sector;HF2: Voluntary schemes;2022;0.0
+437;HCR2: Health promotion multi-sector;HF2: Voluntary schemes;2023;0.0
+438;HCR2: Health promotion multi-sector;HF21: Voluntary health insurance schemes;2021;0.0
+439;HCR2: Health promotion multi-sector;HF21: Voluntary health insurance schemes;2022;0.0
+440;HCR2: Health promotion multi-sector;HF21: Voluntary health insurance schemes;2023;0.0
+441;HCR2: Health promotion multi-sector;HF22: Financing schemes NPISH;2021;0.0
+442;HCR2: Health promotion multi-sector;HF22: Financing schemes NPISH;2022;0.0
+443;HCR2: Health promotion multi-sector;HF22: Financing schemes NPISH;2023;0.0
+444;HCR2: Health promotion multi-sector;HF23: Enterprise financing schemes;2021;0.0
+445;HCR2: Health promotion multi-sector;HF23: Enterprise financing schemes;2022;0.0
+446;HCR2: Health promotion multi-sector;HF23: Enterprise financing schemes;2023;0.0
+447;HCR2: Health promotion multi-sector;HF3: Household out-of-pocket payments;2021;0.0
+448;HCR2: Health promotion multi-sector;HF3: Household out-of-pocket payments;2022;0.0
+449;HCR2: Health promotion multi-sector;HF3: Household out-of-pocket payments;2023;0.0
+450;HCR2: Health promotion multi-sector;HF31: Out-of-pocket excl cost sharing;2021;0.0
+451;HCR2: Health promotion multi-sector;HF31: Out-of-pocket excl cost sharing;2022;0.0
+452;HCR2: Health promotion multi-sector;HF31: Out-of-pocket excl cost sharing;2023;0.0
+453;HCR2: Health promotion multi-sector;HF32: Cost sharing;2021;0.0
+454;HCR2: Health promotion multi-sector;HF32: Cost sharing;2022;0.0
+455;HCR2: Health promotion multi-sector;HF32: Cost sharing;2023;0.0
+456;HCR2: Health promotion multi-sector;"Rest of the world; exports";2021;0.0
+457;HCR2: Health promotion multi-sector;"Rest of the world; exports";2022;0.0
+458;HCR2: Health promotion multi-sector;"Rest of the world; exports";2023;0.0

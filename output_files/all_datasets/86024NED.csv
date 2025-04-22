@@ -1,0 +1,901 @@
+﻿ID;Zorgfuncties;Zorgaanbieders;Perioden;UitgavenGezondheidsEnWelzijnszorg_1
+0;Totaal uitgaven aan zorg en welzijn;Totaal aanbieders gezondheidszorg;2021;129060
+1;Totaal uitgaven aan zorg en welzijn;Totaal aanbieders gezondheidszorg;2022;132858
+2;Totaal uitgaven aan zorg en welzijn;Totaal aanbieders gezondheidszorg;2023;142824
+3;Totaal uitgaven aan zorg en welzijn;HP1: Ziekenhuizen;2021;36889
+4;Totaal uitgaven aan zorg en welzijn;HP1: Ziekenhuizen;2022;37937
+5;Totaal uitgaven aan zorg en welzijn;HP1: Ziekenhuizen;2023;40611
+6;Totaal uitgaven aan zorg en welzijn;HP11:Algemene en academ. ziekenhuizen;2021;29075
+7;Totaal uitgaven aan zorg en welzijn;HP11:Algemene en academ. ziekenhuizen;2022;29641
+8;Totaal uitgaven aan zorg en welzijn;HP11:Algemene en academ. ziekenhuizen;2023;31534
+9;Totaal uitgaven aan zorg en welzijn;HP12: Geestelijke gez., verslavingszorg;2021;6366
+10;Totaal uitgaven aan zorg en welzijn;HP12: Geestelijke gez., verslavingszorg;2022;6824
+11;Totaal uitgaven aan zorg en welzijn;HP12: Geestelijke gez., verslavingszorg;2023;7494
+12;Totaal uitgaven aan zorg en welzijn;HP13: Categorale ziekenhuizen;2021;1448
+13;Totaal uitgaven aan zorg en welzijn;HP13: Categorale ziekenhuizen;2022;1473
+14;Totaal uitgaven aan zorg en welzijn;HP13: Categorale ziekenhuizen;2023;1583
+15;Totaal uitgaven aan zorg en welzijn;HP2: Instellingen langdurige zorg;2021;32532
+16;Totaal uitgaven aan zorg en welzijn;HP2: Instellingen langdurige zorg;2022;33136
+17;Totaal uitgaven aan zorg en welzijn;HP2: Instellingen langdurige zorg;2023;36114
+18;Totaal uitgaven aan zorg en welzijn;HP21: Verpleeg-,verzorgingsh., thuiszorg;2021;21443
+19;Totaal uitgaven aan zorg en welzijn;HP21: Verpleeg-,verzorgingsh., thuiszorg;2022;21686
+20;Totaal uitgaven aan zorg en welzijn;HP21: Verpleeg-,verzorgingsh., thuiszorg;2023;23711
+21;Totaal uitgaven aan zorg en welzijn;HP22-29: Instellingen gehandicaptenzorg;2021;11089
+22;Totaal uitgaven aan zorg en welzijn;HP22-29: Instellingen gehandicaptenzorg;2022;11450
+23;Totaal uitgaven aan zorg en welzijn;HP22-29: Instellingen gehandicaptenzorg;2023;12403
+24;Totaal uitgaven aan zorg en welzijn;HP3: Aanbieders ambulante zorg;2021;19720
+25;Totaal uitgaven aan zorg en welzijn;HP3: Aanbieders ambulante zorg;2022;21264
+26;Totaal uitgaven aan zorg en welzijn;HP3: Aanbieders ambulante zorg;2023;23095
+27;Totaal uitgaven aan zorg en welzijn;HP31: Medische praktijken;2021;3981
+28;Totaal uitgaven aan zorg en welzijn;HP31: Medische praktijken;2022;3939
+29;Totaal uitgaven aan zorg en welzijn;HP31: Medische praktijken;2023;4323
+30;Totaal uitgaven aan zorg en welzijn;HP32: Tandheelkundige praktijken;2021;3080
+31;Totaal uitgaven aan zorg en welzijn;HP32: Tandheelkundige praktijken;2022;3129
+32;Totaal uitgaven aan zorg en welzijn;HP32: Tandheelkundige praktijken;2023;3400
+33;Totaal uitgaven aan zorg en welzijn;HP33: Overige praktijken gezondheidszorg;2021;6488
+34;Totaal uitgaven aan zorg en welzijn;HP33: Overige praktijken gezondheidszorg;2022;6990
+35;Totaal uitgaven aan zorg en welzijn;HP33: Overige praktijken gezondheidszorg;2023;7501
+36;Totaal uitgaven aan zorg en welzijn;HP34: Ambulante zorgcentra;2021;4794
+37;Totaal uitgaven aan zorg en welzijn;HP34: Ambulante zorgcentra;2022;5653
+38;Totaal uitgaven aan zorg en welzijn;HP34: Ambulante zorgcentra;2023;6257
+39;Totaal uitgaven aan zorg en welzijn;HP35: Aanbieders van thuiszorg;2021;1376
+40;Totaal uitgaven aan zorg en welzijn;HP35: Aanbieders van thuiszorg;2022;1552
+41;Totaal uitgaven aan zorg en welzijn;HP35: Aanbieders van thuiszorg;2023;1614
+42;Totaal uitgaven aan zorg en welzijn;HP4: Ondersteunende diensten;2021;1122
+43;Totaal uitgaven aan zorg en welzijn;HP4: Ondersteunende diensten;2022;934
+44;Totaal uitgaven aan zorg en welzijn;HP4: Ondersteunende diensten;2023;878
+45;Totaal uitgaven aan zorg en welzijn;HP41: Ambulance, ziekenvervoer;2021;501
+46;Totaal uitgaven aan zorg en welzijn;HP41: Ambulance, ziekenvervoer;2022;488
+47;Totaal uitgaven aan zorg en welzijn;HP41: Ambulance, ziekenvervoer;2023;593
+48;Totaal uitgaven aan zorg en welzijn;HP42-49: Laboratoria en ov ondersteunend;2021;622
+49;Totaal uitgaven aan zorg en welzijn;HP42-49: Laboratoria en ov ondersteunend;2022;446
+50;Totaal uitgaven aan zorg en welzijn;HP42-49: Laboratoria en ov ondersteunend;2023;286
+51;Totaal uitgaven aan zorg en welzijn;HP5: Leveranciers genees-en hulpmiddelen;2021;8896
+52;Totaal uitgaven aan zorg en welzijn;HP5: Leveranciers genees-en hulpmiddelen;2022;9021
+53;Totaal uitgaven aan zorg en welzijn;HP5: Leveranciers genees-en hulpmiddelen;2023;9395
+54;Totaal uitgaven aan zorg en welzijn;HP51: Apotheken;2021;4763
+55;Totaal uitgaven aan zorg en welzijn;HP51: Apotheken;2022;5016
+56;Totaal uitgaven aan zorg en welzijn;HP51: Apotheken;2023;5200
+57;Totaal uitgaven aan zorg en welzijn;HP52-59: Leveranciers hulpmiddelen;2021;4133
+58;Totaal uitgaven aan zorg en welzijn;HP52-59: Leveranciers hulpmiddelen;2022;4005
+59;Totaal uitgaven aan zorg en welzijn;HP52-59: Leveranciers hulpmiddelen;2023;4194
+60;Totaal uitgaven aan zorg en welzijn;HP6: Aanbieders van preventieve zorg;2021;7412
+61;Totaal uitgaven aan zorg en welzijn;HP6: Aanbieders van preventieve zorg;2022;5190
+62;Totaal uitgaven aan zorg en welzijn;HP6: Aanbieders van preventieve zorg;2023;4283
+63;Totaal uitgaven aan zorg en welzijn;HP7: Organisaties beheer en financiering;2021;4849
+64;Totaal uitgaven aan zorg en welzijn;HP7: Organisaties beheer en financiering;2022;5214
+65;Totaal uitgaven aan zorg en welzijn;HP7: Organisaties beheer en financiering;2023;5416
+66;Totaal uitgaven aan zorg en welzijn;HP71: Overheidsbeleid en beheer org.;2021;1394
+67;Totaal uitgaven aan zorg en welzijn;HP71: Overheidsbeleid en beheer org.;2022;1398
+68;Totaal uitgaven aan zorg en welzijn;HP71: Overheidsbeleid en beheer org.;2023;1370
+69;Totaal uitgaven aan zorg en welzijn;HP72: Zorgverzekeraars, ziekenfondsen;2021;1797
+70;Totaal uitgaven aan zorg en welzijn;HP72: Zorgverzekeraars, ziekenfondsen;2022;1849
+71;Totaal uitgaven aan zorg en welzijn;HP72: Zorgverzekeraars, ziekenfondsen;2023;1939
+72;Totaal uitgaven aan zorg en welzijn;HP73: Particuliere verzekeraars;2021;462
+73;Totaal uitgaven aan zorg en welzijn;HP73: Particuliere verzekeraars;2022;488
+74;Totaal uitgaven aan zorg en welzijn;HP73: Particuliere verzekeraars;2023;492
+75;Totaal uitgaven aan zorg en welzijn;HP79: Ov. instellingen beheer en financ.;2021;1196
+76;Totaal uitgaven aan zorg en welzijn;HP79: Ov. instellingen beheer en financ.;2022;1479
+77;Totaal uitgaven aan zorg en welzijn;HP79: Ov. instellingen beheer en financ.;2023;1615
+78;Totaal uitgaven aan zorg en welzijn;HP8: Overige sectoren;2021;17001
+79;Totaal uitgaven aan zorg en welzijn;HP8: Overige sectoren;2022;19469
+80;Totaal uitgaven aan zorg en welzijn;HP8: Overige sectoren;2023;22376
+81;Totaal uitgaven aan zorg en welzijn;HP81: Huishoudens;2021;1716
+82;Totaal uitgaven aan zorg en welzijn;HP81: Huishoudens;2022;1745
+83;Totaal uitgaven aan zorg en welzijn;HP81: Huishoudens;2023;1856
+84;Totaal uitgaven aan zorg en welzijn;HP82: Gezondheidszorg als nevenactiv.;2021;15285
+85;Totaal uitgaven aan zorg en welzijn;HP82: Gezondheidszorg als nevenactiv.;2022;17724
+86;Totaal uitgaven aan zorg en welzijn;HP82: Gezondheidszorg als nevenactiv.;2023;20520
+87;Totaal uitgaven aan zorg en welzijn;HP9: Buitenland;2021;639
+88;Totaal uitgaven aan zorg en welzijn;HP9: Buitenland;2022;692
+89;Totaal uitgaven aan zorg en welzijn;HP9: Buitenland;2023;657
+90;Welzijnszorg en kinderopvang;Totaal aanbieders gezondheidszorg;2021;15018
+91;Welzijnszorg en kinderopvang;Totaal aanbieders gezondheidszorg;2022;17969
+92;Welzijnszorg en kinderopvang;Totaal aanbieders gezondheidszorg;2023;20967
+93;Welzijnszorg en kinderopvang;HP1: Ziekenhuizen;2021;83
+94;Welzijnszorg en kinderopvang;HP1: Ziekenhuizen;2022;93
+95;Welzijnszorg en kinderopvang;HP1: Ziekenhuizen;2023;97
+96;Welzijnszorg en kinderopvang;HP11:Algemene en academ. ziekenhuizen;2021;0
+97;Welzijnszorg en kinderopvang;HP11:Algemene en academ. ziekenhuizen;2022;0
+98;Welzijnszorg en kinderopvang;HP11:Algemene en academ. ziekenhuizen;2023;0
+99;Welzijnszorg en kinderopvang;HP12: Geestelijke gez., verslavingszorg;2021;78
+100;Welzijnszorg en kinderopvang;HP12: Geestelijke gez., verslavingszorg;2022;87
+101;Welzijnszorg en kinderopvang;HP12: Geestelijke gez., verslavingszorg;2023;91
+102;Welzijnszorg en kinderopvang;HP13: Categorale ziekenhuizen;2021;5
+103;Welzijnszorg en kinderopvang;HP13: Categorale ziekenhuizen;2022;5
+104;Welzijnszorg en kinderopvang;HP13: Categorale ziekenhuizen;2023;6
+105;Welzijnszorg en kinderopvang;HP2: Instellingen langdurige zorg;2021;250
+106;Welzijnszorg en kinderopvang;HP2: Instellingen langdurige zorg;2022;261
+107;Welzijnszorg en kinderopvang;HP2: Instellingen langdurige zorg;2023;275
+108;Welzijnszorg en kinderopvang;HP21: Verpleeg-,verzorgingsh., thuiszorg;2021;226
+109;Welzijnszorg en kinderopvang;HP21: Verpleeg-,verzorgingsh., thuiszorg;2022;227
+110;Welzijnszorg en kinderopvang;HP21: Verpleeg-,verzorgingsh., thuiszorg;2023;239
+111;Welzijnszorg en kinderopvang;HP22-29: Instellingen gehandicaptenzorg;2021;23
+112;Welzijnszorg en kinderopvang;HP22-29: Instellingen gehandicaptenzorg;2022;34
+113;Welzijnszorg en kinderopvang;HP22-29: Instellingen gehandicaptenzorg;2023;35
+114;Welzijnszorg en kinderopvang;HP3: Aanbieders ambulante zorg;2021;1132
+115;Welzijnszorg en kinderopvang;HP3: Aanbieders ambulante zorg;2022;1248
+116;Welzijnszorg en kinderopvang;HP3: Aanbieders ambulante zorg;2023;1272
+117;Welzijnszorg en kinderopvang;HP31: Medische praktijken;2021;0
+118;Welzijnszorg en kinderopvang;HP31: Medische praktijken;2022;0
+119;Welzijnszorg en kinderopvang;HP31: Medische praktijken;2023;0
+120;Welzijnszorg en kinderopvang;HP32: Tandheelkundige praktijken;2021;0
+121;Welzijnszorg en kinderopvang;HP32: Tandheelkundige praktijken;2022;0
+122;Welzijnszorg en kinderopvang;HP32: Tandheelkundige praktijken;2023;0
+123;Welzijnszorg en kinderopvang;HP33: Overige praktijken gezondheidszorg;2021;860
+124;Welzijnszorg en kinderopvang;HP33: Overige praktijken gezondheidszorg;2022;957
+125;Welzijnszorg en kinderopvang;HP33: Overige praktijken gezondheidszorg;2023;949
+126;Welzijnszorg en kinderopvang;HP34: Ambulante zorgcentra;2021;209
+127;Welzijnszorg en kinderopvang;HP34: Ambulante zorgcentra;2022;225
+128;Welzijnszorg en kinderopvang;HP34: Ambulante zorgcentra;2023;243
+129;Welzijnszorg en kinderopvang;HP35: Aanbieders van thuiszorg;2021;63
+130;Welzijnszorg en kinderopvang;HP35: Aanbieders van thuiszorg;2022;66
+131;Welzijnszorg en kinderopvang;HP35: Aanbieders van thuiszorg;2023;81
+132;Welzijnszorg en kinderopvang;HP4: Ondersteunende diensten;2021;0
+133;Welzijnszorg en kinderopvang;HP4: Ondersteunende diensten;2022;0
+134;Welzijnszorg en kinderopvang;HP4: Ondersteunende diensten;2023;0
+135;Welzijnszorg en kinderopvang;HP41: Ambulance, ziekenvervoer;2021;0
+136;Welzijnszorg en kinderopvang;HP41: Ambulance, ziekenvervoer;2022;0
+137;Welzijnszorg en kinderopvang;HP41: Ambulance, ziekenvervoer;2023;0
+138;Welzijnszorg en kinderopvang;HP42-49: Laboratoria en ov ondersteunend;2021;0
+139;Welzijnszorg en kinderopvang;HP42-49: Laboratoria en ov ondersteunend;2022;0
+140;Welzijnszorg en kinderopvang;HP42-49: Laboratoria en ov ondersteunend;2023;0
+141;Welzijnszorg en kinderopvang;HP5: Leveranciers genees-en hulpmiddelen;2021;0
+142;Welzijnszorg en kinderopvang;HP5: Leveranciers genees-en hulpmiddelen;2022;0
+143;Welzijnszorg en kinderopvang;HP5: Leveranciers genees-en hulpmiddelen;2023;0
+144;Welzijnszorg en kinderopvang;HP51: Apotheken;2021;0
+145;Welzijnszorg en kinderopvang;HP51: Apotheken;2022;0
+146;Welzijnszorg en kinderopvang;HP51: Apotheken;2023;0
+147;Welzijnszorg en kinderopvang;HP52-59: Leveranciers hulpmiddelen;2021;0
+148;Welzijnszorg en kinderopvang;HP52-59: Leveranciers hulpmiddelen;2022;0
+149;Welzijnszorg en kinderopvang;HP52-59: Leveranciers hulpmiddelen;2023;0
+150;Welzijnszorg en kinderopvang;HP6: Aanbieders van preventieve zorg;2021;440
+151;Welzijnszorg en kinderopvang;HP6: Aanbieders van preventieve zorg;2022;477
+152;Welzijnszorg en kinderopvang;HP6: Aanbieders van preventieve zorg;2023;525
+153;Welzijnszorg en kinderopvang;HP7: Organisaties beheer en financiering;2021;1123
+154;Welzijnszorg en kinderopvang;HP7: Organisaties beheer en financiering;2022;1423
+155;Welzijnszorg en kinderopvang;HP7: Organisaties beheer en financiering;2023;1556
+156;Welzijnszorg en kinderopvang;HP71: Overheidsbeleid en beheer org.;2021;0
+157;Welzijnszorg en kinderopvang;HP71: Overheidsbeleid en beheer org.;2022;0
+158;Welzijnszorg en kinderopvang;HP71: Overheidsbeleid en beheer org.;2023;0
+159;Welzijnszorg en kinderopvang;HP72: Zorgverzekeraars, ziekenfondsen;2021;0
+160;Welzijnszorg en kinderopvang;HP72: Zorgverzekeraars, ziekenfondsen;2022;0
+161;Welzijnszorg en kinderopvang;HP72: Zorgverzekeraars, ziekenfondsen;2023;0
+162;Welzijnszorg en kinderopvang;HP73: Particuliere verzekeraars;2021;0
+163;Welzijnszorg en kinderopvang;HP73: Particuliere verzekeraars;2022;0
+164;Welzijnszorg en kinderopvang;HP73: Particuliere verzekeraars;2023;0
+165;Welzijnszorg en kinderopvang;HP79: Ov. instellingen beheer en financ.;2021;1123
+166;Welzijnszorg en kinderopvang;HP79: Ov. instellingen beheer en financ.;2022;1423
+167;Welzijnszorg en kinderopvang;HP79: Ov. instellingen beheer en financ.;2023;1556
+168;Welzijnszorg en kinderopvang;HP8: Overige sectoren;2021;11992
+169;Welzijnszorg en kinderopvang;HP8: Overige sectoren;2022;14468
+170;Welzijnszorg en kinderopvang;HP8: Overige sectoren;2023;17243
+171;Welzijnszorg en kinderopvang;HP81: Huishoudens;2021;62
+172;Welzijnszorg en kinderopvang;HP81: Huishoudens;2022;54
+173;Welzijnszorg en kinderopvang;HP81: Huishoudens;2023;49
+174;Welzijnszorg en kinderopvang;HP82: Gezondheidszorg als nevenactiv.;2021;11930
+175;Welzijnszorg en kinderopvang;HP82: Gezondheidszorg als nevenactiv.;2022;14414
+176;Welzijnszorg en kinderopvang;HP82: Gezondheidszorg als nevenactiv.;2023;17194
+177;Welzijnszorg en kinderopvang;HP9: Buitenland;2021;0
+178;Welzijnszorg en kinderopvang;HP9: Buitenland;2022;0
+179;Welzijnszorg en kinderopvang;HP9: Buitenland;2023;0
+180;Onderw., R&D bin. gefin, ov. diensten;Totaal aanbieders gezondheidszorg;2021;3120
+181;Onderw., R&D bin. gefin, ov. diensten;Totaal aanbieders gezondheidszorg;2022;3171
+182;Onderw., R&D bin. gefin, ov. diensten;Totaal aanbieders gezondheidszorg;2023;3424
+183;Onderw., R&D bin. gefin, ov. diensten;HP1: Ziekenhuizen;2021;2652
+184;Onderw., R&D bin. gefin, ov. diensten;HP1: Ziekenhuizen;2022;2772
+185;Onderw., R&D bin. gefin, ov. diensten;HP1: Ziekenhuizen;2023;3004
+186;Onderw., R&D bin. gefin, ov. diensten;HP11:Algemene en academ. ziekenhuizen;2021;2502
+187;Onderw., R&D bin. gefin, ov. diensten;HP11:Algemene en academ. ziekenhuizen;2022;2609
+188;Onderw., R&D bin. gefin, ov. diensten;HP11:Algemene en academ. ziekenhuizen;2023;2826
+189;Onderw., R&D bin. gefin, ov. diensten;HP12: Geestelijke gez., verslavingszorg;2021;124
+190;Onderw., R&D bin. gefin, ov. diensten;HP12: Geestelijke gez., verslavingszorg;2022;136
+191;Onderw., R&D bin. gefin, ov. diensten;HP12: Geestelijke gez., verslavingszorg;2023;149
+192;Onderw., R&D bin. gefin, ov. diensten;HP13: Categorale ziekenhuizen;2021;25
+193;Onderw., R&D bin. gefin, ov. diensten;HP13: Categorale ziekenhuizen;2022;27
+194;Onderw., R&D bin. gefin, ov. diensten;HP13: Categorale ziekenhuizen;2023;30
+195;Onderw., R&D bin. gefin, ov. diensten;HP2: Instellingen langdurige zorg;2021;37
+196;Onderw., R&D bin. gefin, ov. diensten;HP2: Instellingen langdurige zorg;2022;32
+197;Onderw., R&D bin. gefin, ov. diensten;HP2: Instellingen langdurige zorg;2023;33
+198;Onderw., R&D bin. gefin, ov. diensten;HP21: Verpleeg-,verzorgingsh., thuiszorg;2021;27
+199;Onderw., R&D bin. gefin, ov. diensten;HP21: Verpleeg-,verzorgingsh., thuiszorg;2022;20
+200;Onderw., R&D bin. gefin, ov. diensten;HP21: Verpleeg-,verzorgingsh., thuiszorg;2023;21
+201;Onderw., R&D bin. gefin, ov. diensten;HP22-29: Instellingen gehandicaptenzorg;2021;11
+202;Onderw., R&D bin. gefin, ov. diensten;HP22-29: Instellingen gehandicaptenzorg;2022;12
+203;Onderw., R&D bin. gefin, ov. diensten;HP22-29: Instellingen gehandicaptenzorg;2023;12
+204;Onderw., R&D bin. gefin, ov. diensten;HP3: Aanbieders ambulante zorg;2021;342
+205;Onderw., R&D bin. gefin, ov. diensten;HP3: Aanbieders ambulante zorg;2022;322
+206;Onderw., R&D bin. gefin, ov. diensten;HP3: Aanbieders ambulante zorg;2023;344
+207;Onderw., R&D bin. gefin, ov. diensten;HP31: Medische praktijken;2021;19
+208;Onderw., R&D bin. gefin, ov. diensten;HP31: Medische praktijken;2022;18
+209;Onderw., R&D bin. gefin, ov. diensten;HP31: Medische praktijken;2023;18
+210;Onderw., R&D bin. gefin, ov. diensten;HP32: Tandheelkundige praktijken;2021;4
+211;Onderw., R&D bin. gefin, ov. diensten;HP32: Tandheelkundige praktijken;2022;0
+212;Onderw., R&D bin. gefin, ov. diensten;HP32: Tandheelkundige praktijken;2023;0
+213;Onderw., R&D bin. gefin, ov. diensten;HP33: Overige praktijken gezondheidszorg;2021;33
+214;Onderw., R&D bin. gefin, ov. diensten;HP33: Overige praktijken gezondheidszorg;2022;2
+215;Onderw., R&D bin. gefin, ov. diensten;HP33: Overige praktijken gezondheidszorg;2023;0
+216;Onderw., R&D bin. gefin, ov. diensten;HP34: Ambulante zorgcentra;2021;285
+217;Onderw., R&D bin. gefin, ov. diensten;HP34: Ambulante zorgcentra;2022;302
+218;Onderw., R&D bin. gefin, ov. diensten;HP34: Ambulante zorgcentra;2023;325
+219;Onderw., R&D bin. gefin, ov. diensten;HP35: Aanbieders van thuiszorg;2021;0
+220;Onderw., R&D bin. gefin, ov. diensten;HP35: Aanbieders van thuiszorg;2022;0
+221;Onderw., R&D bin. gefin, ov. diensten;HP35: Aanbieders van thuiszorg;2023;0
+222;Onderw., R&D bin. gefin, ov. diensten;HP4: Ondersteunende diensten;2021;2
+223;Onderw., R&D bin. gefin, ov. diensten;HP4: Ondersteunende diensten;2022;0
+224;Onderw., R&D bin. gefin, ov. diensten;HP4: Ondersteunende diensten;2023;0
+225;Onderw., R&D bin. gefin, ov. diensten;HP41: Ambulance, ziekenvervoer;2021;0
+226;Onderw., R&D bin. gefin, ov. diensten;HP41: Ambulance, ziekenvervoer;2022;0
+227;Onderw., R&D bin. gefin, ov. diensten;HP41: Ambulance, ziekenvervoer;2023;0
+228;Onderw., R&D bin. gefin, ov. diensten;HP42-49: Laboratoria en ov ondersteunend;2021;2
+229;Onderw., R&D bin. gefin, ov. diensten;HP42-49: Laboratoria en ov ondersteunend;2022;0
+230;Onderw., R&D bin. gefin, ov. diensten;HP42-49: Laboratoria en ov ondersteunend;2023;0
+231;Onderw., R&D bin. gefin, ov. diensten;HP5: Leveranciers genees-en hulpmiddelen;2021;0
+232;Onderw., R&D bin. gefin, ov. diensten;HP5: Leveranciers genees-en hulpmiddelen;2022;0
+233;Onderw., R&D bin. gefin, ov. diensten;HP5: Leveranciers genees-en hulpmiddelen;2023;0
+234;Onderw., R&D bin. gefin, ov. diensten;HP51: Apotheken;2021;0
+235;Onderw., R&D bin. gefin, ov. diensten;HP51: Apotheken;2022;0
+236;Onderw., R&D bin. gefin, ov. diensten;HP51: Apotheken;2023;0
+237;Onderw., R&D bin. gefin, ov. diensten;HP52-59: Leveranciers hulpmiddelen;2021;0
+238;Onderw., R&D bin. gefin, ov. diensten;HP52-59: Leveranciers hulpmiddelen;2022;0
+239;Onderw., R&D bin. gefin, ov. diensten;HP52-59: Leveranciers hulpmiddelen;2023;0
+240;Onderw., R&D bin. gefin, ov. diensten;HP6: Aanbieders van preventieve zorg;2021;47
+241;Onderw., R&D bin. gefin, ov. diensten;HP6: Aanbieders van preventieve zorg;2022;35
+242;Onderw., R&D bin. gefin, ov. diensten;HP6: Aanbieders van preventieve zorg;2023;36
+243;Onderw., R&D bin. gefin, ov. diensten;HP7: Organisaties beheer en financiering;2021;23
+244;Onderw., R&D bin. gefin, ov. diensten;HP7: Organisaties beheer en financiering;2022;3
+245;Onderw., R&D bin. gefin, ov. diensten;HP7: Organisaties beheer en financiering;2023;0
+246;Onderw., R&D bin. gefin, ov. diensten;HP71: Overheidsbeleid en beheer org.;2021;0
+247;Onderw., R&D bin. gefin, ov. diensten;HP71: Overheidsbeleid en beheer org.;2022;0
+248;Onderw., R&D bin. gefin, ov. diensten;HP71: Overheidsbeleid en beheer org.;2023;0
+249;Onderw., R&D bin. gefin, ov. diensten;HP72: Zorgverzekeraars, ziekenfondsen;2021;0
+250;Onderw., R&D bin. gefin, ov. diensten;HP72: Zorgverzekeraars, ziekenfondsen;2022;0
+251;Onderw., R&D bin. gefin, ov. diensten;HP72: Zorgverzekeraars, ziekenfondsen;2023;0
+252;Onderw., R&D bin. gefin, ov. diensten;HP73: Particuliere verzekeraars;2021;0
+253;Onderw., R&D bin. gefin, ov. diensten;HP73: Particuliere verzekeraars;2022;0
+254;Onderw., R&D bin. gefin, ov. diensten;HP73: Particuliere verzekeraars;2023;0
+255;Onderw., R&D bin. gefin, ov. diensten;HP79: Ov. instellingen beheer en financ.;2021;23
+256;Onderw., R&D bin. gefin, ov. diensten;HP79: Ov. instellingen beheer en financ.;2022;3
+257;Onderw., R&D bin. gefin, ov. diensten;HP79: Ov. instellingen beheer en financ.;2023;0
+258;Onderw., R&D bin. gefin, ov. diensten;HP8: Overige sectoren;2021;16
+259;Onderw., R&D bin. gefin, ov. diensten;HP8: Overige sectoren;2022;7
+260;Onderw., R&D bin. gefin, ov. diensten;HP8: Overige sectoren;2023;6
+261;Onderw., R&D bin. gefin, ov. diensten;HP81: Huishoudens;2021;0
+262;Onderw., R&D bin. gefin, ov. diensten;HP81: Huishoudens;2022;0
+263;Onderw., R&D bin. gefin, ov. diensten;HP81: Huishoudens;2023;0
+264;Onderw., R&D bin. gefin, ov. diensten;HP82: Gezondheidszorg als nevenactiv.;2021;16
+265;Onderw., R&D bin. gefin, ov. diensten;HP82: Gezondheidszorg als nevenactiv.;2022;7
+266;Onderw., R&D bin. gefin, ov. diensten;HP82: Gezondheidszorg als nevenactiv.;2023;6
+267;Onderw., R&D bin. gefin, ov. diensten;HP9: Buitenland;2021;0
+268;Onderw., R&D bin. gefin, ov. diensten;HP9: Buitenland;2022;0
+269;Onderw., R&D bin. gefin, ov. diensten;HP9: Buitenland;2023;0
+270;Uitvoer en R&D buitenlands gefinancierd;Totaal aanbieders gezondheidszorg;2021;222
+271;Uitvoer en R&D buitenlands gefinancierd;Totaal aanbieders gezondheidszorg;2022;253
+272;Uitvoer en R&D buitenlands gefinancierd;Totaal aanbieders gezondheidszorg;2023;260
+273;Uitvoer en R&D buitenlands gefinancierd;HP1: Ziekenhuizen;2021;147
+274;Uitvoer en R&D buitenlands gefinancierd;HP1: Ziekenhuizen;2022;166
+275;Uitvoer en R&D buitenlands gefinancierd;HP1: Ziekenhuizen;2023;170
+276;Uitvoer en R&D buitenlands gefinancierd;HP11:Algemene en academ. ziekenhuizen;2021;147
+277;Uitvoer en R&D buitenlands gefinancierd;HP11:Algemene en academ. ziekenhuizen;2022;166
+278;Uitvoer en R&D buitenlands gefinancierd;HP11:Algemene en academ. ziekenhuizen;2023;170
+279;Uitvoer en R&D buitenlands gefinancierd;HP12: Geestelijke gez., verslavingszorg;2021;0
+280;Uitvoer en R&D buitenlands gefinancierd;HP12: Geestelijke gez., verslavingszorg;2022;0
+281;Uitvoer en R&D buitenlands gefinancierd;HP12: Geestelijke gez., verslavingszorg;2023;0
+282;Uitvoer en R&D buitenlands gefinancierd;HP13: Categorale ziekenhuizen;2021;0
+283;Uitvoer en R&D buitenlands gefinancierd;HP13: Categorale ziekenhuizen;2022;0
+284;Uitvoer en R&D buitenlands gefinancierd;HP13: Categorale ziekenhuizen;2023;0
+285;Uitvoer en R&D buitenlands gefinancierd;HP2: Instellingen langdurige zorg;2021;11
+286;Uitvoer en R&D buitenlands gefinancierd;HP2: Instellingen langdurige zorg;2022;11
+287;Uitvoer en R&D buitenlands gefinancierd;HP2: Instellingen langdurige zorg;2023;11
+288;Uitvoer en R&D buitenlands gefinancierd;HP21: Verpleeg-,verzorgingsh., thuiszorg;2021;11
+289;Uitvoer en R&D buitenlands gefinancierd;HP21: Verpleeg-,verzorgingsh., thuiszorg;2022;11
+290;Uitvoer en R&D buitenlands gefinancierd;HP21: Verpleeg-,verzorgingsh., thuiszorg;2023;11
+291;Uitvoer en R&D buitenlands gefinancierd;HP22-29: Instellingen gehandicaptenzorg;2021;0
+292;Uitvoer en R&D buitenlands gefinancierd;HP22-29: Instellingen gehandicaptenzorg;2022;0
+293;Uitvoer en R&D buitenlands gefinancierd;HP22-29: Instellingen gehandicaptenzorg;2023;0
+294;Uitvoer en R&D buitenlands gefinancierd;HP3: Aanbieders ambulante zorg;2021;10
+295;Uitvoer en R&D buitenlands gefinancierd;HP3: Aanbieders ambulante zorg;2022;16
+296;Uitvoer en R&D buitenlands gefinancierd;HP3: Aanbieders ambulante zorg;2023;16
+297;Uitvoer en R&D buitenlands gefinancierd;HP31: Medische praktijken;2021;5
+298;Uitvoer en R&D buitenlands gefinancierd;HP31: Medische praktijken;2022;9
+299;Uitvoer en R&D buitenlands gefinancierd;HP31: Medische praktijken;2023;9
+300;Uitvoer en R&D buitenlands gefinancierd;HP32: Tandheelkundige praktijken;2021;3
+301;Uitvoer en R&D buitenlands gefinancierd;HP32: Tandheelkundige praktijken;2022;4
+302;Uitvoer en R&D buitenlands gefinancierd;HP32: Tandheelkundige praktijken;2023;4
+303;Uitvoer en R&D buitenlands gefinancierd;HP33: Overige praktijken gezondheidszorg;2021;0
+304;Uitvoer en R&D buitenlands gefinancierd;HP33: Overige praktijken gezondheidszorg;2022;0
+305;Uitvoer en R&D buitenlands gefinancierd;HP33: Overige praktijken gezondheidszorg;2023;0
+306;Uitvoer en R&D buitenlands gefinancierd;HP34: Ambulante zorgcentra;2021;2
+307;Uitvoer en R&D buitenlands gefinancierd;HP34: Ambulante zorgcentra;2022;3
+308;Uitvoer en R&D buitenlands gefinancierd;HP34: Ambulante zorgcentra;2023;3
+309;Uitvoer en R&D buitenlands gefinancierd;HP35: Aanbieders van thuiszorg;2021;0
+310;Uitvoer en R&D buitenlands gefinancierd;HP35: Aanbieders van thuiszorg;2022;0
+311;Uitvoer en R&D buitenlands gefinancierd;HP35: Aanbieders van thuiszorg;2023;0
+312;Uitvoer en R&D buitenlands gefinancierd;HP4: Ondersteunende diensten;2021;0
+313;Uitvoer en R&D buitenlands gefinancierd;HP4: Ondersteunende diensten;2022;1
+314;Uitvoer en R&D buitenlands gefinancierd;HP4: Ondersteunende diensten;2023;1
+315;Uitvoer en R&D buitenlands gefinancierd;HP41: Ambulance, ziekenvervoer;2021;0
+316;Uitvoer en R&D buitenlands gefinancierd;HP41: Ambulance, ziekenvervoer;2022;1
+317;Uitvoer en R&D buitenlands gefinancierd;HP41: Ambulance, ziekenvervoer;2023;1
+318;Uitvoer en R&D buitenlands gefinancierd;HP42-49: Laboratoria en ov ondersteunend;2021;0
+319;Uitvoer en R&D buitenlands gefinancierd;HP42-49: Laboratoria en ov ondersteunend;2022;0
+320;Uitvoer en R&D buitenlands gefinancierd;HP42-49: Laboratoria en ov ondersteunend;2023;0
+321;Uitvoer en R&D buitenlands gefinancierd;HP5: Leveranciers genees-en hulpmiddelen;2021;4
+322;Uitvoer en R&D buitenlands gefinancierd;HP5: Leveranciers genees-en hulpmiddelen;2022;7
+323;Uitvoer en R&D buitenlands gefinancierd;HP5: Leveranciers genees-en hulpmiddelen;2023;7
+324;Uitvoer en R&D buitenlands gefinancierd;HP51: Apotheken;2021;4
+325;Uitvoer en R&D buitenlands gefinancierd;HP51: Apotheken;2022;7
+326;Uitvoer en R&D buitenlands gefinancierd;HP51: Apotheken;2023;7
+327;Uitvoer en R&D buitenlands gefinancierd;HP52-59: Leveranciers hulpmiddelen;2021;0
+328;Uitvoer en R&D buitenlands gefinancierd;HP52-59: Leveranciers hulpmiddelen;2022;0
+329;Uitvoer en R&D buitenlands gefinancierd;HP52-59: Leveranciers hulpmiddelen;2023;0
+330;Uitvoer en R&D buitenlands gefinancierd;HP6: Aanbieders van preventieve zorg;2021;6
+331;Uitvoer en R&D buitenlands gefinancierd;HP6: Aanbieders van preventieve zorg;2022;6
+332;Uitvoer en R&D buitenlands gefinancierd;HP6: Aanbieders van preventieve zorg;2023;6
+333;Uitvoer en R&D buitenlands gefinancierd;HP7: Organisaties beheer en financiering;2021;0
+334;Uitvoer en R&D buitenlands gefinancierd;HP7: Organisaties beheer en financiering;2022;0
+335;Uitvoer en R&D buitenlands gefinancierd;HP7: Organisaties beheer en financiering;2023;0
+336;Uitvoer en R&D buitenlands gefinancierd;HP71: Overheidsbeleid en beheer org.;2021;0
+337;Uitvoer en R&D buitenlands gefinancierd;HP71: Overheidsbeleid en beheer org.;2022;0
+338;Uitvoer en R&D buitenlands gefinancierd;HP71: Overheidsbeleid en beheer org.;2023;0
+339;Uitvoer en R&D buitenlands gefinancierd;HP72: Zorgverzekeraars, ziekenfondsen;2021;0
+340;Uitvoer en R&D buitenlands gefinancierd;HP72: Zorgverzekeraars, ziekenfondsen;2022;0
+341;Uitvoer en R&D buitenlands gefinancierd;HP72: Zorgverzekeraars, ziekenfondsen;2023;0
+342;Uitvoer en R&D buitenlands gefinancierd;HP73: Particuliere verzekeraars;2021;0
+343;Uitvoer en R&D buitenlands gefinancierd;HP73: Particuliere verzekeraars;2022;0
+344;Uitvoer en R&D buitenlands gefinancierd;HP73: Particuliere verzekeraars;2023;0
+345;Uitvoer en R&D buitenlands gefinancierd;HP79: Ov. instellingen beheer en financ.;2021;0
+346;Uitvoer en R&D buitenlands gefinancierd;HP79: Ov. instellingen beheer en financ.;2022;0
+347;Uitvoer en R&D buitenlands gefinancierd;HP79: Ov. instellingen beheer en financ.;2023;0
+348;Uitvoer en R&D buitenlands gefinancierd;HP8: Overige sectoren;2021;0
+349;Uitvoer en R&D buitenlands gefinancierd;HP8: Overige sectoren;2022;0
+350;Uitvoer en R&D buitenlands gefinancierd;HP8: Overige sectoren;2023;0
+351;Uitvoer en R&D buitenlands gefinancierd;HP81: Huishoudens;2021;0
+352;Uitvoer en R&D buitenlands gefinancierd;HP81: Huishoudens;2022;0
+353;Uitvoer en R&D buitenlands gefinancierd;HP81: Huishoudens;2023;0
+354;Uitvoer en R&D buitenlands gefinancierd;HP82: Gezondheidszorg als nevenactiv.;2021;0
+355;Uitvoer en R&D buitenlands gefinancierd;HP82: Gezondheidszorg als nevenactiv.;2022;0
+356;Uitvoer en R&D buitenlands gefinancierd;HP82: Gezondheidszorg als nevenactiv.;2023;0
+357;Uitvoer en R&D buitenlands gefinancierd;HP9: Buitenland;2021;43
+358;Uitvoer en R&D buitenlands gefinancierd;HP9: Buitenland;2022;46
+359;Uitvoer en R&D buitenlands gefinancierd;HP9: Buitenland;2023;50
+360;Uitgaven gezondheidszorg ingezetenen;Totaal aanbieders gezondheidszorg;2021;100183
+361;Uitgaven gezondheidszorg ingezetenen;Totaal aanbieders gezondheidszorg;2022;100607
+362;Uitgaven gezondheidszorg ingezetenen;Totaal aanbieders gezondheidszorg;2023;106359
+363;Uitgaven gezondheidszorg ingezetenen;HP1: Ziekenhuizen;2021;32424
+364;Uitgaven gezondheidszorg ingezetenen;HP1: Ziekenhuizen;2022;33212
+365;Uitgaven gezondheidszorg ingezetenen;HP1: Ziekenhuizen;2023;35430
+366;Uitgaven gezondheidszorg ingezetenen;HP11:Algemene en academ. ziekenhuizen;2021;26351
+367;Uitgaven gezondheidszorg ingezetenen;HP11:Algemene en academ. ziekenhuizen;2022;26787
+368;Uitgaven gezondheidszorg ingezetenen;HP11:Algemene en academ. ziekenhuizen;2023;28453
+369;Uitgaven gezondheidszorg ingezetenen;HP12: Geestelijke gez., verslavingszorg;2021;4656
+370;Uitgaven gezondheidszorg ingezetenen;HP12: Geestelijke gez., verslavingszorg;2022;4985
+371;Uitgaven gezondheidszorg ingezetenen;HP12: Geestelijke gez., verslavingszorg;2023;5431
+372;Uitgaven gezondheidszorg ingezetenen;HP13: Categorale ziekenhuizen;2021;1417
+373;Uitgaven gezondheidszorg ingezetenen;HP13: Categorale ziekenhuizen;2022;1440
+374;Uitgaven gezondheidszorg ingezetenen;HP13: Categorale ziekenhuizen;2023;1546
+375;Uitgaven gezondheidszorg ingezetenen;HP2: Instellingen langdurige zorg;2021;26735
+376;Uitgaven gezondheidszorg ingezetenen;HP2: Instellingen langdurige zorg;2022;27254
+377;Uitgaven gezondheidszorg ingezetenen;HP2: Instellingen langdurige zorg;2023;29738
+378;Uitgaven gezondheidszorg ingezetenen;HP21: Verpleeg-,verzorgingsh., thuiszorg;2021;19234
+379;Uitgaven gezondheidszorg ingezetenen;HP21: Verpleeg-,verzorgingsh., thuiszorg;2022;19499
+380;Uitgaven gezondheidszorg ingezetenen;HP21: Verpleeg-,verzorgingsh., thuiszorg;2023;21331
+381;Uitgaven gezondheidszorg ingezetenen;HP22-29: Instellingen gehandicaptenzorg;2021;7501
+382;Uitgaven gezondheidszorg ingezetenen;HP22-29: Instellingen gehandicaptenzorg;2022;7755
+383;Uitgaven gezondheidszorg ingezetenen;HP22-29: Instellingen gehandicaptenzorg;2023;8407
+384;Uitgaven gezondheidszorg ingezetenen;HP3: Aanbieders ambulante zorg;2021;17713
+385;Uitgaven gezondheidszorg ingezetenen;HP3: Aanbieders ambulante zorg;2022;19052
+386;Uitgaven gezondheidszorg ingezetenen;HP3: Aanbieders ambulante zorg;2023;20876
+387;Uitgaven gezondheidszorg ingezetenen;HP31: Medische praktijken;2021;3956
+388;Uitgaven gezondheidszorg ingezetenen;HP31: Medische praktijken;2022;3913
+389;Uitgaven gezondheidszorg ingezetenen;HP31: Medische praktijken;2023;4296
+390;Uitgaven gezondheidszorg ingezetenen;HP32: Tandheelkundige praktijken;2021;3073
+391;Uitgaven gezondheidszorg ingezetenen;HP32: Tandheelkundige praktijken;2022;3124
+392;Uitgaven gezondheidszorg ingezetenen;HP32: Tandheelkundige praktijken;2023;3395
+393;Uitgaven gezondheidszorg ingezetenen;HP33: Overige praktijken gezondheidszorg;2021;5542
+394;Uitgaven gezondheidszorg ingezetenen;HP33: Overige praktijken gezondheidszorg;2022;5980
+395;Uitgaven gezondheidszorg ingezetenen;HP33: Overige praktijken gezondheidszorg;2023;6499
+396;Uitgaven gezondheidszorg ingezetenen;HP34: Ambulante zorgcentra;2021;4150
+397;Uitgaven gezondheidszorg ingezetenen;HP34: Ambulante zorgcentra;2022;4960
+398;Uitgaven gezondheidszorg ingezetenen;HP34: Ambulante zorgcentra;2023;5508
+399;Uitgaven gezondheidszorg ingezetenen;HP35: Aanbieders van thuiszorg;2021;993
+400;Uitgaven gezondheidszorg ingezetenen;HP35: Aanbieders van thuiszorg;2022;1074
+401;Uitgaven gezondheidszorg ingezetenen;HP35: Aanbieders van thuiszorg;2023;1178
+402;Uitgaven gezondheidszorg ingezetenen;HP4: Ondersteunende diensten;2021;1120
+403;Uitgaven gezondheidszorg ingezetenen;HP4: Ondersteunende diensten;2022;933
+404;Uitgaven gezondheidszorg ingezetenen;HP4: Ondersteunende diensten;2023;878
+405;Uitgaven gezondheidszorg ingezetenen;HP41: Ambulance, ziekenvervoer;2021;500
+406;Uitgaven gezondheidszorg ingezetenen;HP41: Ambulance, ziekenvervoer;2022;487
+407;Uitgaven gezondheidszorg ingezetenen;HP41: Ambulance, ziekenvervoer;2023;592
+408;Uitgaven gezondheidszorg ingezetenen;HP42-49: Laboratoria en ov ondersteunend;2021;620
+409;Uitgaven gezondheidszorg ingezetenen;HP42-49: Laboratoria en ov ondersteunend;2022;446
+410;Uitgaven gezondheidszorg ingezetenen;HP42-49: Laboratoria en ov ondersteunend;2023;286
+411;Uitgaven gezondheidszorg ingezetenen;HP5: Leveranciers genees-en hulpmiddelen;2021;8230
+412;Uitgaven gezondheidszorg ingezetenen;HP5: Leveranciers genees-en hulpmiddelen;2022;8319
+413;Uitgaven gezondheidszorg ingezetenen;HP5: Leveranciers genees-en hulpmiddelen;2023;8604
+414;Uitgaven gezondheidszorg ingezetenen;HP51: Apotheken;2021;4759
+415;Uitgaven gezondheidszorg ingezetenen;HP51: Apotheken;2022;5008
+416;Uitgaven gezondheidszorg ingezetenen;HP51: Apotheken;2023;5193
+417;Uitgaven gezondheidszorg ingezetenen;HP52-59: Leveranciers hulpmiddelen;2021;3471
+418;Uitgaven gezondheidszorg ingezetenen;HP52-59: Leveranciers hulpmiddelen;2022;3311
+419;Uitgaven gezondheidszorg ingezetenen;HP52-59: Leveranciers hulpmiddelen;2023;3410
+420;Uitgaven gezondheidszorg ingezetenen;HP6: Aanbieders van preventieve zorg;2021;6901
+421;Uitgaven gezondheidszorg ingezetenen;HP6: Aanbieders van preventieve zorg;2022;4667
+422;Uitgaven gezondheidszorg ingezetenen;HP6: Aanbieders van preventieve zorg;2023;3698
+423;Uitgaven gezondheidszorg ingezetenen;HP7: Organisaties beheer en financiering;2021;3686
+424;Uitgaven gezondheidszorg ingezetenen;HP7: Organisaties beheer en financiering;2022;3774
+425;Uitgaven gezondheidszorg ingezetenen;HP7: Organisaties beheer en financiering;2023;3844
+426;Uitgaven gezondheidszorg ingezetenen;HP71: Overheidsbeleid en beheer org.;2021;1394
+427;Uitgaven gezondheidszorg ingezetenen;HP71: Overheidsbeleid en beheer org.;2022;1398
+428;Uitgaven gezondheidszorg ingezetenen;HP71: Overheidsbeleid en beheer org.;2023;1370
+429;Uitgaven gezondheidszorg ingezetenen;HP72: Zorgverzekeraars, ziekenfondsen;2021;1797
+430;Uitgaven gezondheidszorg ingezetenen;HP72: Zorgverzekeraars, ziekenfondsen;2022;1849
+431;Uitgaven gezondheidszorg ingezetenen;HP72: Zorgverzekeraars, ziekenfondsen;2023;1939
+432;Uitgaven gezondheidszorg ingezetenen;HP73: Particuliere verzekeraars;2021;462
+433;Uitgaven gezondheidszorg ingezetenen;HP73: Particuliere verzekeraars;2022;488
+434;Uitgaven gezondheidszorg ingezetenen;HP73: Particuliere verzekeraars;2023;492
+435;Uitgaven gezondheidszorg ingezetenen;HP79: Ov. instellingen beheer en financ.;2021;34
+436;Uitgaven gezondheidszorg ingezetenen;HP79: Ov. instellingen beheer en financ.;2022;38
+437;Uitgaven gezondheidszorg ingezetenen;HP79: Ov. instellingen beheer en financ.;2023;43
+438;Uitgaven gezondheidszorg ingezetenen;HP8: Overige sectoren;2021;2777
+439;Uitgaven gezondheidszorg ingezetenen;HP8: Overige sectoren;2022;2751
+440;Uitgaven gezondheidszorg ingezetenen;HP8: Overige sectoren;2023;2685
+441;Uitgaven gezondheidszorg ingezetenen;HP81: Huishoudens;2021;157
+442;Uitgaven gezondheidszorg ingezetenen;HP81: Huishoudens;2022;139
+443;Uitgaven gezondheidszorg ingezetenen;HP81: Huishoudens;2023;145
+444;Uitgaven gezondheidszorg ingezetenen;HP82: Gezondheidszorg als nevenactiv.;2021;2620
+445;Uitgaven gezondheidszorg ingezetenen;HP82: Gezondheidszorg als nevenactiv.;2022;2612
+446;Uitgaven gezondheidszorg ingezetenen;HP82: Gezondheidszorg als nevenactiv.;2023;2540
+447;Uitgaven gezondheidszorg ingezetenen;HP9: Buitenland;2021;597
+448;Uitgaven gezondheidszorg ingezetenen;HP9: Buitenland;2022;645
+449;Uitgaven gezondheidszorg ingezetenen;HP9: Buitenland;2023;607
+450;Totaal gezondheidsverwante uitgaven;Totaal aanbieders gezondheidszorg;2021;10517
+451;Totaal gezondheidsverwante uitgaven;Totaal aanbieders gezondheidszorg;2022;10858
+452;Totaal gezondheidsverwante uitgaven;Totaal aanbieders gezondheidszorg;2023;11813
+453;Totaal gezondheidsverwante uitgaven;HP1: Ziekenhuizen;2021;1583
+454;Totaal gezondheidsverwante uitgaven;HP1: Ziekenhuizen;2022;1695
+455;Totaal gezondheidsverwante uitgaven;HP1: Ziekenhuizen;2023;1910
+456;Totaal gezondheidsverwante uitgaven;HP11:Algemene en academ. ziekenhuizen;2021;75
+457;Totaal gezondheidsverwante uitgaven;HP11:Algemene en academ. ziekenhuizen;2022;79
+458;Totaal gezondheidsverwante uitgaven;HP11:Algemene en academ. ziekenhuizen;2023;86
+459;Totaal gezondheidsverwante uitgaven;HP12: Geestelijke gez., verslavingszorg;2021;1508
+460;Totaal gezondheidsverwante uitgaven;HP12: Geestelijke gez., verslavingszorg;2022;1615
+461;Totaal gezondheidsverwante uitgaven;HP12: Geestelijke gez., verslavingszorg;2023;1823
+462;Totaal gezondheidsverwante uitgaven;HP13: Categorale ziekenhuizen;2021;0
+463;Totaal gezondheidsverwante uitgaven;HP13: Categorale ziekenhuizen;2022;1
+464;Totaal gezondheidsverwante uitgaven;HP13: Categorale ziekenhuizen;2023;1
+465;Totaal gezondheidsverwante uitgaven;HP2: Instellingen langdurige zorg;2021;5499
+466;Totaal gezondheidsverwante uitgaven;HP2: Instellingen langdurige zorg;2022;5579
+467;Totaal gezondheidsverwante uitgaven;HP2: Instellingen langdurige zorg;2023;6057
+468;Totaal gezondheidsverwante uitgaven;HP21: Verpleeg-,verzorgingsh., thuiszorg;2021;1946
+469;Totaal gezondheidsverwante uitgaven;HP21: Verpleeg-,verzorgingsh., thuiszorg;2022;1930
+470;Totaal gezondheidsverwante uitgaven;HP21: Verpleeg-,verzorgingsh., thuiszorg;2023;2109
+471;Totaal gezondheidsverwante uitgaven;HP22-29: Instellingen gehandicaptenzorg;2021;3554
+472;Totaal gezondheidsverwante uitgaven;HP22-29: Instellingen gehandicaptenzorg;2022;3649
+473;Totaal gezondheidsverwante uitgaven;HP22-29: Instellingen gehandicaptenzorg;2023;3948
+474;Totaal gezondheidsverwante uitgaven;HP3: Aanbieders ambulante zorg;2021;523
+475;Totaal gezondheidsverwante uitgaven;HP3: Aanbieders ambulante zorg;2022;627
+476;Totaal gezondheidsverwante uitgaven;HP3: Aanbieders ambulante zorg;2023;587
+477;Totaal gezondheidsverwante uitgaven;HP31: Medische praktijken;2021;0
+478;Totaal gezondheidsverwante uitgaven;HP31: Medische praktijken;2022;0
+479;Totaal gezondheidsverwante uitgaven;HP31: Medische praktijken;2023;0
+480;Totaal gezondheidsverwante uitgaven;HP32: Tandheelkundige praktijken;2021;0
+481;Totaal gezondheidsverwante uitgaven;HP32: Tandheelkundige praktijken;2022;0
+482;Totaal gezondheidsverwante uitgaven;HP32: Tandheelkundige praktijken;2023;0
+483;Totaal gezondheidsverwante uitgaven;HP33: Overige praktijken gezondheidszorg;2021;54
+484;Totaal gezondheidsverwante uitgaven;HP33: Overige praktijken gezondheidszorg;2022;51
+485;Totaal gezondheidsverwante uitgaven;HP33: Overige praktijken gezondheidszorg;2023;54
+486;Totaal gezondheidsverwante uitgaven;HP34: Ambulante zorgcentra;2021;148
+487;Totaal gezondheidsverwante uitgaven;HP34: Ambulante zorgcentra;2022;163
+488;Totaal gezondheidsverwante uitgaven;HP34: Ambulante zorgcentra;2023;178
+489;Totaal gezondheidsverwante uitgaven;HP35: Aanbieders van thuiszorg;2021;321
+490;Totaal gezondheidsverwante uitgaven;HP35: Aanbieders van thuiszorg;2022;413
+491;Totaal gezondheidsverwante uitgaven;HP35: Aanbieders van thuiszorg;2023;355
+492;Totaal gezondheidsverwante uitgaven;HP4: Ondersteunende diensten;2021;0
+493;Totaal gezondheidsverwante uitgaven;HP4: Ondersteunende diensten;2022;0
+494;Totaal gezondheidsverwante uitgaven;HP4: Ondersteunende diensten;2023;0
+495;Totaal gezondheidsverwante uitgaven;HP41: Ambulance, ziekenvervoer;2021;0
+496;Totaal gezondheidsverwante uitgaven;HP41: Ambulance, ziekenvervoer;2022;0
+497;Totaal gezondheidsverwante uitgaven;HP41: Ambulance, ziekenvervoer;2023;0
+498;Totaal gezondheidsverwante uitgaven;HP42-49: Laboratoria en ov ondersteunend;2021;0
+499;Totaal gezondheidsverwante uitgaven;HP42-49: Laboratoria en ov ondersteunend;2022;0
+500;Totaal gezondheidsverwante uitgaven;HP42-49: Laboratoria en ov ondersteunend;2023;0
+501;Totaal gezondheidsverwante uitgaven;HP5: Leveranciers genees-en hulpmiddelen;2021;662
+502;Totaal gezondheidsverwante uitgaven;HP5: Leveranciers genees-en hulpmiddelen;2022;694
+503;Totaal gezondheidsverwante uitgaven;HP5: Leveranciers genees-en hulpmiddelen;2023;784
+504;Totaal gezondheidsverwante uitgaven;HP51: Apotheken;2021;0
+505;Totaal gezondheidsverwante uitgaven;HP51: Apotheken;2022;0
+506;Totaal gezondheidsverwante uitgaven;HP51: Apotheken;2023;0
+507;Totaal gezondheidsverwante uitgaven;HP52-59: Leveranciers hulpmiddelen;2021;662
+508;Totaal gezondheidsverwante uitgaven;HP52-59: Leveranciers hulpmiddelen;2022;694
+509;Totaal gezondheidsverwante uitgaven;HP52-59: Leveranciers hulpmiddelen;2023;784
+510;Totaal gezondheidsverwante uitgaven;HP6: Aanbieders van preventieve zorg;2021;17
+511;Totaal gezondheidsverwante uitgaven;HP6: Aanbieders van preventieve zorg;2022;4
+512;Totaal gezondheidsverwante uitgaven;HP6: Aanbieders van preventieve zorg;2023;17
+513;Totaal gezondheidsverwante uitgaven;HP7: Organisaties beheer en financiering;2021;17
+514;Totaal gezondheidsverwante uitgaven;HP7: Organisaties beheer en financiering;2022;15
+515;Totaal gezondheidsverwante uitgaven;HP7: Organisaties beheer en financiering;2023;15
+516;Totaal gezondheidsverwante uitgaven;HP71: Overheidsbeleid en beheer org.;2021;0
+517;Totaal gezondheidsverwante uitgaven;HP71: Overheidsbeleid en beheer org.;2022;0
+518;Totaal gezondheidsverwante uitgaven;HP71: Overheidsbeleid en beheer org.;2023;0
+519;Totaal gezondheidsverwante uitgaven;HP72: Zorgverzekeraars, ziekenfondsen;2021;0
+520;Totaal gezondheidsverwante uitgaven;HP72: Zorgverzekeraars, ziekenfondsen;2022;0
+521;Totaal gezondheidsverwante uitgaven;HP72: Zorgverzekeraars, ziekenfondsen;2023;0
+522;Totaal gezondheidsverwante uitgaven;HP73: Particuliere verzekeraars;2021;0
+523;Totaal gezondheidsverwante uitgaven;HP73: Particuliere verzekeraars;2022;0
+524;Totaal gezondheidsverwante uitgaven;HP73: Particuliere verzekeraars;2023;0
+525;Totaal gezondheidsverwante uitgaven;HP79: Ov. instellingen beheer en financ.;2021;17
+526;Totaal gezondheidsverwante uitgaven;HP79: Ov. instellingen beheer en financ.;2022;15
+527;Totaal gezondheidsverwante uitgaven;HP79: Ov. instellingen beheer en financ.;2023;15
+528;Totaal gezondheidsverwante uitgaven;HP8: Overige sectoren;2021;2217
+529;Totaal gezondheidsverwante uitgaven;HP8: Overige sectoren;2022;2244
+530;Totaal gezondheidsverwante uitgaven;HP8: Overige sectoren;2023;2442
+531;Totaal gezondheidsverwante uitgaven;HP81: Huishoudens;2021;1497
+532;Totaal gezondheidsverwante uitgaven;HP81: Huishoudens;2022;1553
+533;Totaal gezondheidsverwante uitgaven;HP81: Huishoudens;2023;1663
+534;Totaal gezondheidsverwante uitgaven;HP82: Gezondheidszorg als nevenactiv.;2021;719
+535;Totaal gezondheidsverwante uitgaven;HP82: Gezondheidszorg als nevenactiv.;2022;691
+536;Totaal gezondheidsverwante uitgaven;HP82: Gezondheidszorg als nevenactiv.;2023;779
+537;Totaal gezondheidsverwante uitgaven;HP9: Buitenland;2021;0
+538;Totaal gezondheidsverwante uitgaven;HP9: Buitenland;2022;0
+539;Totaal gezondheidsverwante uitgaven;HP9: Buitenland;2023;0
+540;HCR1: Langdurige zorg (welzijn);Totaal aanbieders gezondheidszorg;2021;10517
+541;HCR1: Langdurige zorg (welzijn);Totaal aanbieders gezondheidszorg;2022;10858
+542;HCR1: Langdurige zorg (welzijn);Totaal aanbieders gezondheidszorg;2023;11813
+543;HCR1: Langdurige zorg (welzijn);HP1: Ziekenhuizen;2021;1583
+544;HCR1: Langdurige zorg (welzijn);HP1: Ziekenhuizen;2022;1695
+545;HCR1: Langdurige zorg (welzijn);HP1: Ziekenhuizen;2023;1910
+546;HCR1: Langdurige zorg (welzijn);HP11:Algemene en academ. ziekenhuizen;2021;75
+547;HCR1: Langdurige zorg (welzijn);HP11:Algemene en academ. ziekenhuizen;2022;79
+548;HCR1: Langdurige zorg (welzijn);HP11:Algemene en academ. ziekenhuizen;2023;86
+549;HCR1: Langdurige zorg (welzijn);HP12: Geestelijke gez., verslavingszorg;2021;1508
+550;HCR1: Langdurige zorg (welzijn);HP12: Geestelijke gez., verslavingszorg;2022;1615
+551;HCR1: Langdurige zorg (welzijn);HP12: Geestelijke gez., verslavingszorg;2023;1823
+552;HCR1: Langdurige zorg (welzijn);HP13: Categorale ziekenhuizen;2021;0
+553;HCR1: Langdurige zorg (welzijn);HP13: Categorale ziekenhuizen;2022;1
+554;HCR1: Langdurige zorg (welzijn);HP13: Categorale ziekenhuizen;2023;1
+555;HCR1: Langdurige zorg (welzijn);HP2: Instellingen langdurige zorg;2021;5499
+556;HCR1: Langdurige zorg (welzijn);HP2: Instellingen langdurige zorg;2022;5579
+557;HCR1: Langdurige zorg (welzijn);HP2: Instellingen langdurige zorg;2023;6057
+558;HCR1: Langdurige zorg (welzijn);HP21: Verpleeg-,verzorgingsh., thuiszorg;2021;1946
+559;HCR1: Langdurige zorg (welzijn);HP21: Verpleeg-,verzorgingsh., thuiszorg;2022;1930
+560;HCR1: Langdurige zorg (welzijn);HP21: Verpleeg-,verzorgingsh., thuiszorg;2023;2109
+561;HCR1: Langdurige zorg (welzijn);HP22-29: Instellingen gehandicaptenzorg;2021;3554
+562;HCR1: Langdurige zorg (welzijn);HP22-29: Instellingen gehandicaptenzorg;2022;3649
+563;HCR1: Langdurige zorg (welzijn);HP22-29: Instellingen gehandicaptenzorg;2023;3948
+564;HCR1: Langdurige zorg (welzijn);HP3: Aanbieders ambulante zorg;2021;523
+565;HCR1: Langdurige zorg (welzijn);HP3: Aanbieders ambulante zorg;2022;627
+566;HCR1: Langdurige zorg (welzijn);HP3: Aanbieders ambulante zorg;2023;587
+567;HCR1: Langdurige zorg (welzijn);HP31: Medische praktijken;2021;0
+568;HCR1: Langdurige zorg (welzijn);HP31: Medische praktijken;2022;0
+569;HCR1: Langdurige zorg (welzijn);HP31: Medische praktijken;2023;0
+570;HCR1: Langdurige zorg (welzijn);HP32: Tandheelkundige praktijken;2021;0
+571;HCR1: Langdurige zorg (welzijn);HP32: Tandheelkundige praktijken;2022;0
+572;HCR1: Langdurige zorg (welzijn);HP32: Tandheelkundige praktijken;2023;0
+573;HCR1: Langdurige zorg (welzijn);HP33: Overige praktijken gezondheidszorg;2021;54
+574;HCR1: Langdurige zorg (welzijn);HP33: Overige praktijken gezondheidszorg;2022;51
+575;HCR1: Langdurige zorg (welzijn);HP33: Overige praktijken gezondheidszorg;2023;54
+576;HCR1: Langdurige zorg (welzijn);HP34: Ambulante zorgcentra;2021;148
+577;HCR1: Langdurige zorg (welzijn);HP34: Ambulante zorgcentra;2022;163
+578;HCR1: Langdurige zorg (welzijn);HP34: Ambulante zorgcentra;2023;178
+579;HCR1: Langdurige zorg (welzijn);HP35: Aanbieders van thuiszorg;2021;321
+580;HCR1: Langdurige zorg (welzijn);HP35: Aanbieders van thuiszorg;2022;413
+581;HCR1: Langdurige zorg (welzijn);HP35: Aanbieders van thuiszorg;2023;355
+582;HCR1: Langdurige zorg (welzijn);HP4: Ondersteunende diensten;2021;0
+583;HCR1: Langdurige zorg (welzijn);HP4: Ondersteunende diensten;2022;0
+584;HCR1: Langdurige zorg (welzijn);HP4: Ondersteunende diensten;2023;0
+585;HCR1: Langdurige zorg (welzijn);HP41: Ambulance, ziekenvervoer;2021;0
+586;HCR1: Langdurige zorg (welzijn);HP41: Ambulance, ziekenvervoer;2022;0
+587;HCR1: Langdurige zorg (welzijn);HP41: Ambulance, ziekenvervoer;2023;0
+588;HCR1: Langdurige zorg (welzijn);HP42-49: Laboratoria en ov ondersteunend;2021;0
+589;HCR1: Langdurige zorg (welzijn);HP42-49: Laboratoria en ov ondersteunend;2022;0
+590;HCR1: Langdurige zorg (welzijn);HP42-49: Laboratoria en ov ondersteunend;2023;0
+591;HCR1: Langdurige zorg (welzijn);HP5: Leveranciers genees-en hulpmiddelen;2021;662
+592;HCR1: Langdurige zorg (welzijn);HP5: Leveranciers genees-en hulpmiddelen;2022;694
+593;HCR1: Langdurige zorg (welzijn);HP5: Leveranciers genees-en hulpmiddelen;2023;784
+594;HCR1: Langdurige zorg (welzijn);HP51: Apotheken;2021;0
+595;HCR1: Langdurige zorg (welzijn);HP51: Apotheken;2022;0
+596;HCR1: Langdurige zorg (welzijn);HP51: Apotheken;2023;0
+597;HCR1: Langdurige zorg (welzijn);HP52-59: Leveranciers hulpmiddelen;2021;662
+598;HCR1: Langdurige zorg (welzijn);HP52-59: Leveranciers hulpmiddelen;2022;694
+599;HCR1: Langdurige zorg (welzijn);HP52-59: Leveranciers hulpmiddelen;2023;784
+600;HCR1: Langdurige zorg (welzijn);HP6: Aanbieders van preventieve zorg;2021;17
+601;HCR1: Langdurige zorg (welzijn);HP6: Aanbieders van preventieve zorg;2022;4
+602;HCR1: Langdurige zorg (welzijn);HP6: Aanbieders van preventieve zorg;2023;17
+603;HCR1: Langdurige zorg (welzijn);HP7: Organisaties beheer en financiering;2021;17
+604;HCR1: Langdurige zorg (welzijn);HP7: Organisaties beheer en financiering;2022;15
+605;HCR1: Langdurige zorg (welzijn);HP7: Organisaties beheer en financiering;2023;15
+606;HCR1: Langdurige zorg (welzijn);HP71: Overheidsbeleid en beheer org.;2021;0
+607;HCR1: Langdurige zorg (welzijn);HP71: Overheidsbeleid en beheer org.;2022;0
+608;HCR1: Langdurige zorg (welzijn);HP71: Overheidsbeleid en beheer org.;2023;0
+609;HCR1: Langdurige zorg (welzijn);HP72: Zorgverzekeraars, ziekenfondsen;2021;0
+610;HCR1: Langdurige zorg (welzijn);HP72: Zorgverzekeraars, ziekenfondsen;2022;0
+611;HCR1: Langdurige zorg (welzijn);HP72: Zorgverzekeraars, ziekenfondsen;2023;0
+612;HCR1: Langdurige zorg (welzijn);HP73: Particuliere verzekeraars;2021;0
+613;HCR1: Langdurige zorg (welzijn);HP73: Particuliere verzekeraars;2022;0
+614;HCR1: Langdurige zorg (welzijn);HP73: Particuliere verzekeraars;2023;0
+615;HCR1: Langdurige zorg (welzijn);HP79: Ov. instellingen beheer en financ.;2021;17
+616;HCR1: Langdurige zorg (welzijn);HP79: Ov. instellingen beheer en financ.;2022;15
+617;HCR1: Langdurige zorg (welzijn);HP79: Ov. instellingen beheer en financ.;2023;15
+618;HCR1: Langdurige zorg (welzijn);HP8: Overige sectoren;2021;2217
+619;HCR1: Langdurige zorg (welzijn);HP8: Overige sectoren;2022;2244
+620;HCR1: Langdurige zorg (welzijn);HP8: Overige sectoren;2023;2442
+621;HCR1: Langdurige zorg (welzijn);HP81: Huishoudens;2021;1497
+622;HCR1: Langdurige zorg (welzijn);HP81: Huishoudens;2022;1553
+623;HCR1: Langdurige zorg (welzijn);HP81: Huishoudens;2023;1663
+624;HCR1: Langdurige zorg (welzijn);HP82: Gezondheidszorg als nevenactiv.;2021;719
+625;HCR1: Langdurige zorg (welzijn);HP82: Gezondheidszorg als nevenactiv.;2022;691
+626;HCR1: Langdurige zorg (welzijn);HP82: Gezondheidszorg als nevenactiv.;2023;779
+627;HCR1: Langdurige zorg (welzijn);HP9: Buitenland;2021;0
+628;HCR1: Langdurige zorg (welzijn);HP9: Buitenland;2022;0
+629;HCR1: Langdurige zorg (welzijn);HP9: Buitenland;2023;0
+630;HCR11: Langdurige zorg,welzijn,in natura;Totaal aanbieders gezondheidszorg;2021;8825
+631;HCR11: Langdurige zorg,welzijn,in natura;Totaal aanbieders gezondheidszorg;2022;9134
+632;HCR11: Langdurige zorg,welzijn,in natura;Totaal aanbieders gezondheidszorg;2023;9989
+633;HCR11: Langdurige zorg,welzijn,in natura;HP1: Ziekenhuizen;2021;1569
+634;HCR11: Langdurige zorg,welzijn,in natura;HP1: Ziekenhuizen;2022;1684
+635;HCR11: Langdurige zorg,welzijn,in natura;HP1: Ziekenhuizen;2023;1898
+636;HCR11: Langdurige zorg,welzijn,in natura;HP11:Algemene en academ. ziekenhuizen;2021;75
+637;HCR11: Langdurige zorg,welzijn,in natura;HP11:Algemene en academ. ziekenhuizen;2022;79
+638;HCR11: Langdurige zorg,welzijn,in natura;HP11:Algemene en academ. ziekenhuizen;2023;86
+639;HCR11: Langdurige zorg,welzijn,in natura;HP12: Geestelijke gez., verslavingszorg;2021;1494
+640;HCR11: Langdurige zorg,welzijn,in natura;HP12: Geestelijke gez., verslavingszorg;2022;1605
+641;HCR11: Langdurige zorg,welzijn,in natura;HP12: Geestelijke gez., verslavingszorg;2023;1811
+642;HCR11: Langdurige zorg,welzijn,in natura;HP13: Categorale ziekenhuizen;2021;0
+643;HCR11: Langdurige zorg,welzijn,in natura;HP13: Categorale ziekenhuizen;2022;1
+644;HCR11: Langdurige zorg,welzijn,in natura;HP13: Categorale ziekenhuizen;2023;1
+645;HCR11: Langdurige zorg,welzijn,in natura;HP2: Instellingen langdurige zorg;2021;5462
+646;HCR11: Langdurige zorg,welzijn,in natura;HP2: Instellingen langdurige zorg;2022;5548
+647;HCR11: Langdurige zorg,welzijn,in natura;HP2: Instellingen langdurige zorg;2023;6032
+648;HCR11: Langdurige zorg,welzijn,in natura;HP21: Verpleeg-,verzorgingsh., thuiszorg;2021;1929
+649;HCR11: Langdurige zorg,welzijn,in natura;HP21: Verpleeg-,verzorgingsh., thuiszorg;2022;1916
+650;HCR11: Langdurige zorg,welzijn,in natura;HP21: Verpleeg-,verzorgingsh., thuiszorg;2023;2096
+651;HCR11: Langdurige zorg,welzijn,in natura;HP22-29: Instellingen gehandicaptenzorg;2021;3532
+652;HCR11: Langdurige zorg,welzijn,in natura;HP22-29: Instellingen gehandicaptenzorg;2022;3632
+653;HCR11: Langdurige zorg,welzijn,in natura;HP22-29: Instellingen gehandicaptenzorg;2023;3936
+654;HCR11: Langdurige zorg,welzijn,in natura;HP3: Aanbieders ambulante zorg;2021;448
+655;HCR11: Langdurige zorg,welzijn,in natura;HP3: Aanbieders ambulante zorg;2022;563
+656;HCR11: Langdurige zorg,welzijn,in natura;HP3: Aanbieders ambulante zorg;2023;526
+657;HCR11: Langdurige zorg,welzijn,in natura;HP31: Medische praktijken;2021;0
+658;HCR11: Langdurige zorg,welzijn,in natura;HP31: Medische praktijken;2022;0
+659;HCR11: Langdurige zorg,welzijn,in natura;HP31: Medische praktijken;2023;0
+660;HCR11: Langdurige zorg,welzijn,in natura;HP32: Tandheelkundige praktijken;2021;0
+661;HCR11: Langdurige zorg,welzijn,in natura;HP32: Tandheelkundige praktijken;2022;0
+662;HCR11: Langdurige zorg,welzijn,in natura;HP32: Tandheelkundige praktijken;2023;0
+663;HCR11: Langdurige zorg,welzijn,in natura;HP33: Overige praktijken gezondheidszorg;2021;40
+664;HCR11: Langdurige zorg,welzijn,in natura;HP33: Overige praktijken gezondheidszorg;2022;39
+665;HCR11: Langdurige zorg,welzijn,in natura;HP33: Overige praktijken gezondheidszorg;2023;42
+666;HCR11: Langdurige zorg,welzijn,in natura;HP34: Ambulante zorgcentra;2021;138
+667;HCR11: Langdurige zorg,welzijn,in natura;HP34: Ambulante zorgcentra;2022;155
+668;HCR11: Langdurige zorg,welzijn,in natura;HP34: Ambulante zorgcentra;2023;170
+669;HCR11: Langdurige zorg,welzijn,in natura;HP35: Aanbieders van thuiszorg;2021;271
+670;HCR11: Langdurige zorg,welzijn,in natura;HP35: Aanbieders van thuiszorg;2022;369
+671;HCR11: Langdurige zorg,welzijn,in natura;HP35: Aanbieders van thuiszorg;2023;314
+672;HCR11: Langdurige zorg,welzijn,in natura;HP4: Ondersteunende diensten;2021;0
+673;HCR11: Langdurige zorg,welzijn,in natura;HP4: Ondersteunende diensten;2022;0
+674;HCR11: Langdurige zorg,welzijn,in natura;HP4: Ondersteunende diensten;2023;0
+675;HCR11: Langdurige zorg,welzijn,in natura;HP41: Ambulance, ziekenvervoer;2021;0
+676;HCR11: Langdurige zorg,welzijn,in natura;HP41: Ambulance, ziekenvervoer;2022;0
+677;HCR11: Langdurige zorg,welzijn,in natura;HP41: Ambulance, ziekenvervoer;2023;0
+678;HCR11: Langdurige zorg,welzijn,in natura;HP42-49: Laboratoria en ov ondersteunend;2021;0
+679;HCR11: Langdurige zorg,welzijn,in natura;HP42-49: Laboratoria en ov ondersteunend;2022;0
+680;HCR11: Langdurige zorg,welzijn,in natura;HP42-49: Laboratoria en ov ondersteunend;2023;0
+681;HCR11: Langdurige zorg,welzijn,in natura;HP5: Leveranciers genees-en hulpmiddelen;2021;662
+682;HCR11: Langdurige zorg,welzijn,in natura;HP5: Leveranciers genees-en hulpmiddelen;2022;694
+683;HCR11: Langdurige zorg,welzijn,in natura;HP5: Leveranciers genees-en hulpmiddelen;2023;784
+684;HCR11: Langdurige zorg,welzijn,in natura;HP51: Apotheken;2021;0
+685;HCR11: Langdurige zorg,welzijn,in natura;HP51: Apotheken;2022;0
+686;HCR11: Langdurige zorg,welzijn,in natura;HP51: Apotheken;2023;0
+687;HCR11: Langdurige zorg,welzijn,in natura;HP52-59: Leveranciers hulpmiddelen;2021;662
+688;HCR11: Langdurige zorg,welzijn,in natura;HP52-59: Leveranciers hulpmiddelen;2022;694
+689;HCR11: Langdurige zorg,welzijn,in natura;HP52-59: Leveranciers hulpmiddelen;2023;784
+690;HCR11: Langdurige zorg,welzijn,in natura;HP6: Aanbieders van preventieve zorg;2021;14
+691;HCR11: Langdurige zorg,welzijn,in natura;HP6: Aanbieders van preventieve zorg;2022;2
+692;HCR11: Langdurige zorg,welzijn,in natura;HP6: Aanbieders van preventieve zorg;2023;15
+693;HCR11: Langdurige zorg,welzijn,in natura;HP7: Organisaties beheer en financiering;2021;8
+694;HCR11: Langdurige zorg,welzijn,in natura;HP7: Organisaties beheer en financiering;2022;8
+695;HCR11: Langdurige zorg,welzijn,in natura;HP7: Organisaties beheer en financiering;2023;9
+696;HCR11: Langdurige zorg,welzijn,in natura;HP71: Overheidsbeleid en beheer org.;2021;0
+697;HCR11: Langdurige zorg,welzijn,in natura;HP71: Overheidsbeleid en beheer org.;2022;0
+698;HCR11: Langdurige zorg,welzijn,in natura;HP71: Overheidsbeleid en beheer org.;2023;0
+699;HCR11: Langdurige zorg,welzijn,in natura;HP72: Zorgverzekeraars, ziekenfondsen;2021;0
+700;HCR11: Langdurige zorg,welzijn,in natura;HP72: Zorgverzekeraars, ziekenfondsen;2022;0
+701;HCR11: Langdurige zorg,welzijn,in natura;HP72: Zorgverzekeraars, ziekenfondsen;2023;0
+702;HCR11: Langdurige zorg,welzijn,in natura;HP73: Particuliere verzekeraars;2021;0
+703;HCR11: Langdurige zorg,welzijn,in natura;HP73: Particuliere verzekeraars;2022;0
+704;HCR11: Langdurige zorg,welzijn,in natura;HP73: Particuliere verzekeraars;2023;0
+705;HCR11: Langdurige zorg,welzijn,in natura;HP79: Ov. instellingen beheer en financ.;2021;8
+706;HCR11: Langdurige zorg,welzijn,in natura;HP79: Ov. instellingen beheer en financ.;2022;8
+707;HCR11: Langdurige zorg,welzijn,in natura;HP79: Ov. instellingen beheer en financ.;2023;9
+708;HCR11: Langdurige zorg,welzijn,in natura;HP8: Overige sectoren;2021;662
+709;HCR11: Langdurige zorg,welzijn,in natura;HP8: Overige sectoren;2022;635
+710;HCR11: Langdurige zorg,welzijn,in natura;HP8: Overige sectoren;2023;725
+711;HCR11: Langdurige zorg,welzijn,in natura;HP81: Huishoudens;2021;8
+712;HCR11: Langdurige zorg,welzijn,in natura;HP81: Huishoudens;2022;0
+713;HCR11: Langdurige zorg,welzijn,in natura;HP81: Huishoudens;2023;0
+714;HCR11: Langdurige zorg,welzijn,in natura;HP82: Gezondheidszorg als nevenactiv.;2021;654
+715;HCR11: Langdurige zorg,welzijn,in natura;HP82: Gezondheidszorg als nevenactiv.;2022;635
+716;HCR11: Langdurige zorg,welzijn,in natura;HP82: Gezondheidszorg als nevenactiv.;2023;725
+717;HCR11: Langdurige zorg,welzijn,in natura;HP9: Buitenland;2021;0
+718;HCR11: Langdurige zorg,welzijn,in natura;HP9: Buitenland;2022;0
+719;HCR11: Langdurige zorg,welzijn,in natura;HP9: Buitenland;2023;0
+720;HCR12: Langdurige zorg, uitkeringen;Totaal aanbieders gezondheidszorg;2021;1692
+721;HCR12: Langdurige zorg, uitkeringen;Totaal aanbieders gezondheidszorg;2022;1724
+722;HCR12: Langdurige zorg, uitkeringen;Totaal aanbieders gezondheidszorg;2023;1824
+723;HCR12: Langdurige zorg, uitkeringen;HP1: Ziekenhuizen;2021;13
+724;HCR12: Langdurige zorg, uitkeringen;HP1: Ziekenhuizen;2022;11
+725;HCR12: Langdurige zorg, uitkeringen;HP1: Ziekenhuizen;2023;12
+726;HCR12: Langdurige zorg, uitkeringen;HP11:Algemene en academ. ziekenhuizen;2021;0
+727;HCR12: Langdurige zorg, uitkeringen;HP11:Algemene en academ. ziekenhuizen;2022;0
+728;HCR12: Langdurige zorg, uitkeringen;HP11:Algemene en academ. ziekenhuizen;2023;0
+729;HCR12: Langdurige zorg, uitkeringen;HP12: Geestelijke gez., verslavingszorg;2021;13
+730;HCR12: Langdurige zorg, uitkeringen;HP12: Geestelijke gez., verslavingszorg;2022;11
+731;HCR12: Langdurige zorg, uitkeringen;HP12: Geestelijke gez., verslavingszorg;2023;12
+732;HCR12: Langdurige zorg, uitkeringen;HP13: Categorale ziekenhuizen;2021;0
+733;HCR12: Langdurige zorg, uitkeringen;HP13: Categorale ziekenhuizen;2022;0
+734;HCR12: Langdurige zorg, uitkeringen;HP13: Categorale ziekenhuizen;2023;0
+735;HCR12: Langdurige zorg, uitkeringen;HP2: Instellingen langdurige zorg;2021;38
+736;HCR12: Langdurige zorg, uitkeringen;HP2: Instellingen langdurige zorg;2022;31
+737;HCR12: Langdurige zorg, uitkeringen;HP2: Instellingen langdurige zorg;2023;25
+738;HCR12: Langdurige zorg, uitkeringen;HP21: Verpleeg-,verzorgingsh., thuiszorg;2021;16
+739;HCR12: Langdurige zorg, uitkeringen;HP21: Verpleeg-,verzorgingsh., thuiszorg;2022;14
+740;HCR12: Langdurige zorg, uitkeringen;HP21: Verpleeg-,verzorgingsh., thuiszorg;2023;13
+741;HCR12: Langdurige zorg, uitkeringen;HP22-29: Instellingen gehandicaptenzorg;2021;21
+742;HCR12: Langdurige zorg, uitkeringen;HP22-29: Instellingen gehandicaptenzorg;2022;17
+743;HCR12: Langdurige zorg, uitkeringen;HP22-29: Instellingen gehandicaptenzorg;2023;12
+744;HCR12: Langdurige zorg, uitkeringen;HP3: Aanbieders ambulante zorg;2021;75
+745;HCR12: Langdurige zorg, uitkeringen;HP3: Aanbieders ambulante zorg;2022;64
+746;HCR12: Langdurige zorg, uitkeringen;HP3: Aanbieders ambulante zorg;2023;61
+747;HCR12: Langdurige zorg, uitkeringen;HP31: Medische praktijken;2021;0
+748;HCR12: Langdurige zorg, uitkeringen;HP31: Medische praktijken;2022;0
+749;HCR12: Langdurige zorg, uitkeringen;HP31: Medische praktijken;2023;0
+750;HCR12: Langdurige zorg, uitkeringen;HP32: Tandheelkundige praktijken;2021;0
+751;HCR12: Langdurige zorg, uitkeringen;HP32: Tandheelkundige praktijken;2022;0
+752;HCR12: Langdurige zorg, uitkeringen;HP32: Tandheelkundige praktijken;2023;0
+753;HCR12: Langdurige zorg, uitkeringen;HP33: Overige praktijken gezondheidszorg;2021;14
+754;HCR12: Langdurige zorg, uitkeringen;HP33: Overige praktijken gezondheidszorg;2022;12
+755;HCR12: Langdurige zorg, uitkeringen;HP33: Overige praktijken gezondheidszorg;2023;12
+756;HCR12: Langdurige zorg, uitkeringen;HP34: Ambulante zorgcentra;2021;10
+757;HCR12: Langdurige zorg, uitkeringen;HP34: Ambulante zorgcentra;2022;9
+758;HCR12: Langdurige zorg, uitkeringen;HP34: Ambulante zorgcentra;2023;8
+759;HCR12: Langdurige zorg, uitkeringen;HP35: Aanbieders van thuiszorg;2021;51
+760;HCR12: Langdurige zorg, uitkeringen;HP35: Aanbieders van thuiszorg;2022;43
+761;HCR12: Langdurige zorg, uitkeringen;HP35: Aanbieders van thuiszorg;2023;41
+762;HCR12: Langdurige zorg, uitkeringen;HP4: Ondersteunende diensten;2021;0
+763;HCR12: Langdurige zorg, uitkeringen;HP4: Ondersteunende diensten;2022;0
+764;HCR12: Langdurige zorg, uitkeringen;HP4: Ondersteunende diensten;2023;0
+765;HCR12: Langdurige zorg, uitkeringen;HP41: Ambulance, ziekenvervoer;2021;0
+766;HCR12: Langdurige zorg, uitkeringen;HP41: Ambulance, ziekenvervoer;2022;0
+767;HCR12: Langdurige zorg, uitkeringen;HP41: Ambulance, ziekenvervoer;2023;0
+768;HCR12: Langdurige zorg, uitkeringen;HP42-49: Laboratoria en ov ondersteunend;2021;0
+769;HCR12: Langdurige zorg, uitkeringen;HP42-49: Laboratoria en ov ondersteunend;2022;0
+770;HCR12: Langdurige zorg, uitkeringen;HP42-49: Laboratoria en ov ondersteunend;2023;0
+771;HCR12: Langdurige zorg, uitkeringen;HP5: Leveranciers genees-en hulpmiddelen;2021;0
+772;HCR12: Langdurige zorg, uitkeringen;HP5: Leveranciers genees-en hulpmiddelen;2022;0
+773;HCR12: Langdurige zorg, uitkeringen;HP5: Leveranciers genees-en hulpmiddelen;2023;0
+774;HCR12: Langdurige zorg, uitkeringen;HP51: Apotheken;2021;0
+775;HCR12: Langdurige zorg, uitkeringen;HP51: Apotheken;2022;0
+776;HCR12: Langdurige zorg, uitkeringen;HP51: Apotheken;2023;0
+777;HCR12: Langdurige zorg, uitkeringen;HP52-59: Leveranciers hulpmiddelen;2021;0
+778;HCR12: Langdurige zorg, uitkeringen;HP52-59: Leveranciers hulpmiddelen;2022;0
+779;HCR12: Langdurige zorg, uitkeringen;HP52-59: Leveranciers hulpmiddelen;2023;0
+780;HCR12: Langdurige zorg, uitkeringen;HP6: Aanbieders van preventieve zorg;2021;3
+781;HCR12: Langdurige zorg, uitkeringen;HP6: Aanbieders van preventieve zorg;2022;2
+782;HCR12: Langdurige zorg, uitkeringen;HP6: Aanbieders van preventieve zorg;2023;2
+783;HCR12: Langdurige zorg, uitkeringen;HP7: Organisaties beheer en financiering;2021;9
+784;HCR12: Langdurige zorg, uitkeringen;HP7: Organisaties beheer en financiering;2022;6
+785;HCR12: Langdurige zorg, uitkeringen;HP7: Organisaties beheer en financiering;2023;6
+786;HCR12: Langdurige zorg, uitkeringen;HP71: Overheidsbeleid en beheer org.;2021;0
+787;HCR12: Langdurige zorg, uitkeringen;HP71: Overheidsbeleid en beheer org.;2022;0
+788;HCR12: Langdurige zorg, uitkeringen;HP71: Overheidsbeleid en beheer org.;2023;0
+789;HCR12: Langdurige zorg, uitkeringen;HP72: Zorgverzekeraars, ziekenfondsen;2021;0
+790;HCR12: Langdurige zorg, uitkeringen;HP72: Zorgverzekeraars, ziekenfondsen;2022;0
+791;HCR12: Langdurige zorg, uitkeringen;HP72: Zorgverzekeraars, ziekenfondsen;2023;0
+792;HCR12: Langdurige zorg, uitkeringen;HP73: Particuliere verzekeraars;2021;0
+793;HCR12: Langdurige zorg, uitkeringen;HP73: Particuliere verzekeraars;2022;0
+794;HCR12: Langdurige zorg, uitkeringen;HP73: Particuliere verzekeraars;2023;0
+795;HCR12: Langdurige zorg, uitkeringen;HP79: Ov. instellingen beheer en financ.;2021;9
+796;HCR12: Langdurige zorg, uitkeringen;HP79: Ov. instellingen beheer en financ.;2022;6
+797;HCR12: Langdurige zorg, uitkeringen;HP79: Ov. instellingen beheer en financ.;2023;6
+798;HCR12: Langdurige zorg, uitkeringen;HP8: Overige sectoren;2021;1554
+799;HCR12: Langdurige zorg, uitkeringen;HP8: Overige sectoren;2022;1609
+800;HCR12: Langdurige zorg, uitkeringen;HP8: Overige sectoren;2023;1717
+801;HCR12: Langdurige zorg, uitkeringen;HP81: Huishoudens;2021;1489
+802;HCR12: Langdurige zorg, uitkeringen;HP81: Huishoudens;2022;1553
+803;HCR12: Langdurige zorg, uitkeringen;HP81: Huishoudens;2023;1663
+804;HCR12: Langdurige zorg, uitkeringen;HP82: Gezondheidszorg als nevenactiv.;2021;65
+805;HCR12: Langdurige zorg, uitkeringen;HP82: Gezondheidszorg als nevenactiv.;2022;57
+806;HCR12: Langdurige zorg, uitkeringen;HP82: Gezondheidszorg als nevenactiv.;2023;55
+807;HCR12: Langdurige zorg, uitkeringen;HP9: Buitenland;2021;0
+808;HCR12: Langdurige zorg, uitkeringen;HP9: Buitenland;2022;0
+809;HCR12: Langdurige zorg, uitkeringen;HP9: Buitenland;2023;0
+810;HCR2: Gezondheidsbevord., multi sector;Totaal aanbieders gezondheidszorg;2021;0
+811;HCR2: Gezondheidsbevord., multi sector;Totaal aanbieders gezondheidszorg;2022;0
+812;HCR2: Gezondheidsbevord., multi sector;Totaal aanbieders gezondheidszorg;2023;0
+813;HCR2: Gezondheidsbevord., multi sector;HP1: Ziekenhuizen;2021;0
+814;HCR2: Gezondheidsbevord., multi sector;HP1: Ziekenhuizen;2022;0
+815;HCR2: Gezondheidsbevord., multi sector;HP1: Ziekenhuizen;2023;0
+816;HCR2: Gezondheidsbevord., multi sector;HP11:Algemene en academ. ziekenhuizen;2021;0
+817;HCR2: Gezondheidsbevord., multi sector;HP11:Algemene en academ. ziekenhuizen;2022;0
+818;HCR2: Gezondheidsbevord., multi sector;HP11:Algemene en academ. ziekenhuizen;2023;0
+819;HCR2: Gezondheidsbevord., multi sector;HP12: Geestelijke gez., verslavingszorg;2021;0
+820;HCR2: Gezondheidsbevord., multi sector;HP12: Geestelijke gez., verslavingszorg;2022;0
+821;HCR2: Gezondheidsbevord., multi sector;HP12: Geestelijke gez., verslavingszorg;2023;0
+822;HCR2: Gezondheidsbevord., multi sector;HP13: Categorale ziekenhuizen;2021;0
+823;HCR2: Gezondheidsbevord., multi sector;HP13: Categorale ziekenhuizen;2022;0
+824;HCR2: Gezondheidsbevord., multi sector;HP13: Categorale ziekenhuizen;2023;0
+825;HCR2: Gezondheidsbevord., multi sector;HP2: Instellingen langdurige zorg;2021;0
+826;HCR2: Gezondheidsbevord., multi sector;HP2: Instellingen langdurige zorg;2022;0
+827;HCR2: Gezondheidsbevord., multi sector;HP2: Instellingen langdurige zorg;2023;0
+828;HCR2: Gezondheidsbevord., multi sector;HP21: Verpleeg-,verzorgingsh., thuiszorg;2021;0
+829;HCR2: Gezondheidsbevord., multi sector;HP21: Verpleeg-,verzorgingsh., thuiszorg;2022;0
+830;HCR2: Gezondheidsbevord., multi sector;HP21: Verpleeg-,verzorgingsh., thuiszorg;2023;0
+831;HCR2: Gezondheidsbevord., multi sector;HP22-29: Instellingen gehandicaptenzorg;2021;0
+832;HCR2: Gezondheidsbevord., multi sector;HP22-29: Instellingen gehandicaptenzorg;2022;0
+833;HCR2: Gezondheidsbevord., multi sector;HP22-29: Instellingen gehandicaptenzorg;2023;0
+834;HCR2: Gezondheidsbevord., multi sector;HP3: Aanbieders ambulante zorg;2021;0
+835;HCR2: Gezondheidsbevord., multi sector;HP3: Aanbieders ambulante zorg;2022;0
+836;HCR2: Gezondheidsbevord., multi sector;HP3: Aanbieders ambulante zorg;2023;0
+837;HCR2: Gezondheidsbevord., multi sector;HP31: Medische praktijken;2021;0
+838;HCR2: Gezondheidsbevord., multi sector;HP31: Medische praktijken;2022;0
+839;HCR2: Gezondheidsbevord., multi sector;HP31: Medische praktijken;2023;0
+840;HCR2: Gezondheidsbevord., multi sector;HP32: Tandheelkundige praktijken;2021;0
+841;HCR2: Gezondheidsbevord., multi sector;HP32: Tandheelkundige praktijken;2022;0
+842;HCR2: Gezondheidsbevord., multi sector;HP32: Tandheelkundige praktijken;2023;0
+843;HCR2: Gezondheidsbevord., multi sector;HP33: Overige praktijken gezondheidszorg;2021;0
+844;HCR2: Gezondheidsbevord., multi sector;HP33: Overige praktijken gezondheidszorg;2022;0
+845;HCR2: Gezondheidsbevord., multi sector;HP33: Overige praktijken gezondheidszorg;2023;0
+846;HCR2: Gezondheidsbevord., multi sector;HP34: Ambulante zorgcentra;2021;0
+847;HCR2: Gezondheidsbevord., multi sector;HP34: Ambulante zorgcentra;2022;0
+848;HCR2: Gezondheidsbevord., multi sector;HP34: Ambulante zorgcentra;2023;0
+849;HCR2: Gezondheidsbevord., multi sector;HP35: Aanbieders van thuiszorg;2021;0
+850;HCR2: Gezondheidsbevord., multi sector;HP35: Aanbieders van thuiszorg;2022;0
+851;HCR2: Gezondheidsbevord., multi sector;HP35: Aanbieders van thuiszorg;2023;0
+852;HCR2: Gezondheidsbevord., multi sector;HP4: Ondersteunende diensten;2021;0
+853;HCR2: Gezondheidsbevord., multi sector;HP4: Ondersteunende diensten;2022;0
+854;HCR2: Gezondheidsbevord., multi sector;HP4: Ondersteunende diensten;2023;0
+855;HCR2: Gezondheidsbevord., multi sector;HP41: Ambulance, ziekenvervoer;2021;0
+856;HCR2: Gezondheidsbevord., multi sector;HP41: Ambulance, ziekenvervoer;2022;0
+857;HCR2: Gezondheidsbevord., multi sector;HP41: Ambulance, ziekenvervoer;2023;0
+858;HCR2: Gezondheidsbevord., multi sector;HP42-49: Laboratoria en ov ondersteunend;2021;0
+859;HCR2: Gezondheidsbevord., multi sector;HP42-49: Laboratoria en ov ondersteunend;2022;0
+860;HCR2: Gezondheidsbevord., multi sector;HP42-49: Laboratoria en ov ondersteunend;2023;0
+861;HCR2: Gezondheidsbevord., multi sector;HP5: Leveranciers genees-en hulpmiddelen;2021;0
+862;HCR2: Gezondheidsbevord., multi sector;HP5: Leveranciers genees-en hulpmiddelen;2022;0
+863;HCR2: Gezondheidsbevord., multi sector;HP5: Leveranciers genees-en hulpmiddelen;2023;0
+864;HCR2: Gezondheidsbevord., multi sector;HP51: Apotheken;2021;0
+865;HCR2: Gezondheidsbevord., multi sector;HP51: Apotheken;2022;0
+866;HCR2: Gezondheidsbevord., multi sector;HP51: Apotheken;2023;0
+867;HCR2: Gezondheidsbevord., multi sector;HP52-59: Leveranciers hulpmiddelen;2021;0
+868;HCR2: Gezondheidsbevord., multi sector;HP52-59: Leveranciers hulpmiddelen;2022;0
+869;HCR2: Gezondheidsbevord., multi sector;HP52-59: Leveranciers hulpmiddelen;2023;0
+870;HCR2: Gezondheidsbevord., multi sector;HP6: Aanbieders van preventieve zorg;2021;0
+871;HCR2: Gezondheidsbevord., multi sector;HP6: Aanbieders van preventieve zorg;2022;0
+872;HCR2: Gezondheidsbevord., multi sector;HP6: Aanbieders van preventieve zorg;2023;0
+873;HCR2: Gezondheidsbevord., multi sector;HP7: Organisaties beheer en financiering;2021;0
+874;HCR2: Gezondheidsbevord., multi sector;HP7: Organisaties beheer en financiering;2022;0
+875;HCR2: Gezondheidsbevord., multi sector;HP7: Organisaties beheer en financiering;2023;0
+876;HCR2: Gezondheidsbevord., multi sector;HP71: Overheidsbeleid en beheer org.;2021;0
+877;HCR2: Gezondheidsbevord., multi sector;HP71: Overheidsbeleid en beheer org.;2022;0
+878;HCR2: Gezondheidsbevord., multi sector;HP71: Overheidsbeleid en beheer org.;2023;0
+879;HCR2: Gezondheidsbevord., multi sector;HP72: Zorgverzekeraars, ziekenfondsen;2021;0
+880;HCR2: Gezondheidsbevord., multi sector;HP72: Zorgverzekeraars, ziekenfondsen;2022;0
+881;HCR2: Gezondheidsbevord., multi sector;HP72: Zorgverzekeraars, ziekenfondsen;2023;0
+882;HCR2: Gezondheidsbevord., multi sector;HP73: Particuliere verzekeraars;2021;0
+883;HCR2: Gezondheidsbevord., multi sector;HP73: Particuliere verzekeraars;2022;0
+884;HCR2: Gezondheidsbevord., multi sector;HP73: Particuliere verzekeraars;2023;0
+885;HCR2: Gezondheidsbevord., multi sector;HP79: Ov. instellingen beheer en financ.;2021;0
+886;HCR2: Gezondheidsbevord., multi sector;HP79: Ov. instellingen beheer en financ.;2022;0
+887;HCR2: Gezondheidsbevord., multi sector;HP79: Ov. instellingen beheer en financ.;2023;0
+888;HCR2: Gezondheidsbevord., multi sector;HP8: Overige sectoren;2021;0
+889;HCR2: Gezondheidsbevord., multi sector;HP8: Overige sectoren;2022;0
+890;HCR2: Gezondheidsbevord., multi sector;HP8: Overige sectoren;2023;0
+891;HCR2: Gezondheidsbevord., multi sector;HP81: Huishoudens;2021;0
+892;HCR2: Gezondheidsbevord., multi sector;HP81: Huishoudens;2022;0
+893;HCR2: Gezondheidsbevord., multi sector;HP81: Huishoudens;2023;0
+894;HCR2: Gezondheidsbevord., multi sector;HP82: Gezondheidszorg als nevenactiv.;2021;0
+895;HCR2: Gezondheidsbevord., multi sector;HP82: Gezondheidszorg als nevenactiv.;2022;0
+896;HCR2: Gezondheidsbevord., multi sector;HP82: Gezondheidszorg als nevenactiv.;2023;0
+897;HCR2: Gezondheidsbevord., multi sector;HP9: Buitenland;2021;0
+898;HCR2: Gezondheidsbevord., multi sector;HP9: Buitenland;2022;0
+899;HCR2: Gezondheidsbevord., multi sector;HP9: Buitenland;2023;0
