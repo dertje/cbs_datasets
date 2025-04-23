@@ -1,6 +1,7 @@
 import time
 from concurrent.futures import ThreadPoolExecutor
 from process import process_dataset
+from tqdm import tqdm
 
 # TODO Add documentation
 # TODO also use dataderden?
@@ -12,15 +13,11 @@ def main():
     with open('../output_files/available_datasets.txt', 'r', encoding='utf-8') as file:
         datasets_names = [line.strip() for line in file]
 
-    # # Only load 'zorg' classified datasets
-    # with open('../output_files/available_zorg_datasets.txt', 'r', encoding='utf-8') as file:
-    #     zorg_datasets_names = [line.strip() for line in file]
-
-    max_workers = 5
+    datasets_names = ['03727']
+    max_workers = 10
     print(f"Running in parallel with {max_workers} workers...")
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
-        executor.map(process_dataset, datasets_names)
-        # executor.map(process_dataset, zorg_datasets_names)
+        list(tqdm(executor.map(process_dataset, datasets_names), total=len(datasets_names), desc="Processing datasets"))
 
     end = time.time()
     print(f"All datasets processed in {end - start:.2f}s")

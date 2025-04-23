@@ -1,12 +1,13 @@
 import json
-from .dataset import CBSDataSet
+from dataset import CBSDataSet
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
 
 
 def process_table_info(dataset_name: str):
     try:
-        base_url = f"https://opendata.cbs.nl/ODataFeed/odata/{dataset_name}"
+        # base_url = f"https://opendata.cbs.nl/ODataFeed/odata/{dataset_name}"
+        base_url = f"https://dataderden.cbs.nl/ODataFeed/OData/{dataset_name}"
         print(f"Processing {dataset_name}")
 
         dataset = CBSDataSet(base_url)
@@ -49,10 +50,10 @@ def get_table_info_values(dataset):
     return row
 
 def main():
-    with open('../output_files/available_datasets.txt', 'r', encoding='utf-8') as file:
+    with open('../output_files/available_datasets_derden.txt', 'r', encoding='utf-8') as file:
         datasets_names = [line.strip() for line in file]
 
-    output_file = "../output_files/tables_infos.json"
+    output_file = "../output_files/tables_infos_derden.json"
 
     try:
         with open(output_file, 'r', encoding='utf-8') as f:

@@ -8,7 +8,8 @@ def filter_non_available_datasets(datasets_names):
     nb_datasets_left = len(datasets_names)
     for name in datasets_names:
         print(f"Running dataset {name}")
-        url = f"https://opendata.cbs.nl/ODataFeed/odata/{name}"
+        # url = f"https://opendata.cbs.nl/ODataFeed/odata/{name}"
+        url = f"https://dataderden.cbs.nl/ODataFeed/OData/{name}"
         try:
             response = requests.get(url, timeout=5)
             if "vervallen" not in response.text.lower():
@@ -26,12 +27,13 @@ def filter_non_available_datasets(datasets_names):
     return valid_datasets
 
 def main():
-    index_url = "https://opendata.cbs.nl/odatafeed"
+    # index_url = "https://opendata.cbs.nl/odatafeed"
+    index_url = "https://dataderden.cbs.nl/odatafeed"
     print(index_url)
     datasets_names = get_datasets_names(index_url)
     available_datasets_names = filter_non_available_datasets(datasets_names)
 
-    with open('../output_files/available_datasets.txt', 'w') as file:
+    with open('../output_files/available_datasets_derden.txt', 'w') as file:
         file.write("\n".join(available_datasets_names))
 
 
